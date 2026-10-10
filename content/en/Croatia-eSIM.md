@@ -1,12 +1,11 @@
 ---
 title: 'Croatia eSIM 2026: Complete Travel Guide | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: Croatia eSIM
-  scenario_keywords: Dalmatian coast sightseeing, Plitvice nature trekking, Dubrovnik Game of Thrones tour, Hvar island hopping,
-    Zagreb city break
+  scenario_keywords: Dalmatian coast sightseeing, Dubrovnik Game of Thrones tour, Hvar island hopping, Zagreb city break
   operators: Hrvatski Telekom, A1 Hrvatska, Tele2
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Zagreb, Split, Dubrovnik, Zadar, Rijeka
@@ -20,12 +19,11 @@ modal:
     code:web20
 seo:
   title: Croatia eSIM | Best 5G Unlimited Data for Your Trip
-  description: Need a prepaid travel eSIM for Croatia? Roami offers unlimited 5G data along the coast & inland. Instant activation.
-    Covers Dubrovnik, Split & Zagreb.
+  description: 'Need a prepaid Croatia eSIM for your trip? Roami offers unlimited 5G data along the coast & inland. Instant activation. Covers Dubrovnik, Split & Zagreb.'
   keywords: Croatia eSIM, buy Croatia eSIM, best Croatia eSIM, Croatia travel eSIM, Hrvatski Telekom Croatia, A1 Hrvatska
     Croatia, Tele2 Croatia, Zagreb eSIM, Split eSIM, Dubrovnik eSIM, Croatia prepaid eSIM, 5G Croatia eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 76.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -48,7 +46,7 @@ hero:
   title: 'Croatia eSIM: Complete Data Solutions for Your Trip'
   subtitle: Best prepaid eSIM for Croatia travelers - fast 5G, instant activation, 24/7 support
 features:
-  title: 'Why Croatia Travelers Choose Roami: Speed, Coverage & Support'
+  title: 'Why Travelers Pick Roami for Croatia: Speed, Data and Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -300,17 +298,16 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Croatia eSIM Coverage: Complete Guide to Local Networks'
+  title: 'Croatia eSIM Coverage: Local Operators Explained'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Service Details'
     items:
     - icon: map
       color: text-brand-500
       title: Coverage
       desc: Enjoy comprehensive network coverage across Croatia, including Zagreb (4G), Split (4G), Dubrovnik (4G), Zadar
-        (4G). Your eSIM connects to the robust networks of Hrvatski Telekom, A1 Hrvatska, Tele2, ensuring stable signals in
-        urban centers, tourist hotspots, and along major transportation routes.
+        (4G). Your eSIM connects to the robust networks of Hrvatski Telekom, A1 Hrvatska, Tele2, ensuring stable signals in busy city districts, tourist areas and on the main routes between them.
     - icon: zap
       color: text-amber-500
       title: Delivery Time
@@ -336,18 +333,23 @@ reminders:
   title: 'Croatia eSIM Setup Tips: What to Know Before You Go'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Before you buy, confirm your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">listed as eSIM compatible</a>.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Croatia.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Your eSIM QR code arrives by email after purchase.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 📶
+    html: 'Curious about actual download speeds? The <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> publishes median mobile speeds for Croatia.'
+  - icon: 📖
+    html: 'Background reading: the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM hub and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> support pages (including the <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel FAQ</a>) answer most first-timer questions.'
+  - icon: 🧭
+    html: 'Multi-country trip? Take a look at our <a href="/israel-esim/">Israel eSIM</a> and <a href="/paraguay-esim/">Paraguay eSIM</a> pages as well.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Check Your Phone Compatibility'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
@@ -358,8 +360,7 @@ activation_steps:
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
-      folder if you don't see it.
+    desc: We send the QR code and activation guide by email within about 5 minutes of payment. Not seeing it? Take a look in your spam folder.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -381,7 +382,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Croatia eSIM FAQs
+    title: 'Croatia eSIM FAQs'
     questions:
     - q: |
         Is it safe to upload my passport for Croatia eSIM registration? I'm concerned about privacy.
@@ -390,7 +391,7 @@ faq_section:
     - q: |
         Will the Croatia eSIM unlimited plan slow down if I use too much data?
       a: |
-        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
+        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($11.99) or 20GB ($20.99) fixed plan removes the uncertainty entirely.
     - q: |
         I need internet access for just a couple of days in Croatia. What's the minimum I can buy?
       a: |
@@ -398,11 +399,11 @@ faq_section:
     - q: |
         I'm traveling to Croatia for just 2-3 days. What eSIM should I get?
       a: |
-        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+        For a short trip, the 1GB/7 day plan ($2.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($3.99) gives more breathing room. Both activate instantly and you can top up if needed.
     - q: |
         What happens if my Croatia eSIM stops working mid-trip?
       a: |
-        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
+        Try a restart and switch Data Roaming on. Most cases clear within 2 minutes. Should that fail, choose a carrier manually in network settings — Roami 24/7 support can help if it persists.
     - q: |
         How do I know if my Croatia eSIM plan is active and ready to use?
       a: |
@@ -410,60 +411,52 @@ faq_section:
     - q: |
         How does eSIM compare to pocket WiFi for Croatia travel?
       a: |
-        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
+        eSIM is the simpler setup. There is no extra device to carry, charge or return, saving about $3-5 per day compared with pocket WiFi rental. Pocket WiFi suits bigger groups but ties you to a single unit that must stay charged for 6 to 8 hours. Your phone doubles as the hotspot with eSIM, and Roami plans include free sharing for up to 5 devices.
     - q: |
         Do I need to remove my physical SIM to use eSIM in Croatia?
       a: |
-        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
+        Not at all — the physical SIM keeps slot 1 and the eSIM sits in slot 2 beside it. Your home line handles SMS and calls while the eSIM carries data. Most phones from 2020 onward support dual SIM this way.
 related_products:
   title: Related Croatia eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Israel eSIM
+    flag: img/flags/il.svg
+    price: From $2.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
   - name: Hong Kong eSIM
     flag: img/flags/hk.svg
     price: From $1.99
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
+  - name: Morocco eSIM
+    flag: img/flags/ma.svg
+    price: From $3.99
+    is_highlight: false
+  - name: Qatar eSIM
+    flag: img/flags/qa.svg
     price: From $1.99
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+  - name: Jamaica eSIM
+    flag: img/flags/jm.svg
+    price: From $11.99
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+  - name: Colombia eSIM
+    flag: img/flags/co.svg
+    price: From $4.99
     is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Paraguay eSIM
+    flag: img/flags/py.svg
+    price: From $22.99
+    is_highlight: false
+  - name: Peru eSIM
+    flag: img/flags/pe.svg
+    price: From $4.99
+    is_highlight: false
+  - name: Mauritius eSIM
+    flag: img/flags/ma.svg
+    price: From $7.99
+    is_highlight: false
+  - name: Serbia eSIM
+    flag: img/flags/se.svg
     price: From $1.99
     is_highlight: false
 market_analysis:
@@ -507,12 +500,11 @@ market_analysis:
     prepaid_desc: Hrvatski Telekom offers 24h (€1.49), 7-day (€9.99), 30-day, and 90-day plans; A1 tourist eSIM starts at
       3 days (€5.90) or 10 days (€7.90); a 5-day trip buying a 10-day plan wastes 50% of value.
     esim_title: Flexible Daily Plans
-    esim_desc: Avoid Hrvatski Telekom's 10-day (€10) or A1's 3-day (€5.90) fixed cycles. Roami offers 7-day plans starting
-      from $1.99/GB, saving up to 50% waste on short trips.
+    esim_desc: Avoid Hrvatski Telekom's 10-day (€10) or A1's 3-day (€5.90) fixed cycles. Roami offers 7-day plans starting from $2.99, saving up to 50% waste on short trips.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on market knowledge, most Croatian prepaid SIMs allow
+    prepaid_desc: Generally, most Croatian prepaid SIMs allow
       tethering but may throttle after high-speed data cap.
     esim_title: Unrestricted Tethering
     esim_desc: Unlike some local SIMs that throttle after high-speed caps, Roami allows full-speed hotspot sharing. No hidden

@@ -1,6 +1,6 @@
 ---
 title: 'Turkey eSIM - 5G in Istanbul & Cappadocia | No Passport Needed | Roami'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     code:web20
 seo:
   title: Turkey eSIM - Best 5G Data Plan | No Passport Needed
-  description: Get the best Turkey eSIM with 5G on Turkcell, Vodafone & Türk Telekom. No passport or ID needed — bypass Turkey's internet blocks automatically. Skip Istanbul airport price gouging. Plans from $1.99.
+  description: 'Turkey eSIM: 5G on Turkcell, Vodafone, Türk Telekom. No passport or ID needed — skip local SIM registration. Instant QR activation from $1.99.'
   keywords: Turkey eSIM, buy Turkey eSIM, best Turkey eSIM, Turkey travel eSIM, Turkcell Turkey, Vodafone Turkey, Türk Telekom Turkey, Istanbul eSIM, Ankara eSIM, Izmir eSIM, Turkey prepaid eSIM, 5G Turkey eSIM, Turkey eSIM no passport, eSIM for Cappadocia
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -45,7 +45,7 @@ hero:
   title: 'Turkey eSIM: 5G in Istanbul, Cappadocia'
   subtitle: 5G on Turkcell, Vodafone & Türk Telekom | No passport/ID needed | Bypass local censorship | Instant QR delivery
 features:
-  title: 'Why Turkey Travelers Choose Roami: Speed, Privacy & Value'
+  title: 'Why Turkey Travelers Pick Roami: Coverage, Plans and Help'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -75,7 +75,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Bypass Censorship
     desc: Access all websites — Twitter, Facebook, Wikipedia, VPNs — no blocks
-plans_title: 'Buy Turkey eSIM: Plans for Every Trip Duration'
+plans_title: 'Choose Your Turkey eSIM Plan: 3, 7, 15 and 30 Days'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -294,10 +294,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Turkey eSIM Coverage: Turkcell, Vodafone & Türk Telekom 5G Network Guide'
+  title: 'Turkey eSIM Coverage: How the Local Networks Compare'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Included Services'
     items:
     - icon: map
       color: text-brand-500
@@ -325,16 +325,16 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Turkey eSIM Setup Tips: What to Know Before You Go'
+  title: 'Getting Your Turkey eSIM Ready: Setup Essentials'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Not sure your handset supports eSIM? Check the <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibility checklist</a> first.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Turkey.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: The QR code is delivered to your inbox once you order.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 🛂
@@ -343,18 +343,24 @@ reminders:
     html: <span class="font-medium">Access all sites:</span> Turkey blocks Twitter, Facebook, Wikipedia and VPNs. Roami's international routing bypasses these blocks automatically — no VPN needed.
   - icon: 🕌
     html: <span class="font-medium">Local tip:</span> Download the <span class="font-medium">Google Translate</span> app with Turkish offline pack — it helps with menus, signs, and Grand Bazaar bargaining.
+  - icon: 📶
+    html: 'Real-world data speed for Turkey is tracked by <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> — worth a look before departure.'
+  - icon: 📖
+    html: 'Want the technical background? See the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM pages and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> setup support, plus its guide to <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">using eSIM abroad</a>.'
+  - icon: 🧭
+    html: 'If your itinerary includes other countries, see the <a href="/vatican-city-esim/">Vatican City eSIM</a> and <a href="/slovakia-esim/">Slovakia eSIM</a> options.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Compatibility Check in 10 Seconds'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Turkey eSIM: 3 Simple Steps'
+  title: 'Get Online in Turkey: How to Install Your eSIM'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: The QR code plus an activation guide land in your inbox within 5 minutes of ordering. If they do not show up, check spam.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -375,7 +381,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Turkey eSIM FAQs
+    title: 'Your Turkey eSIM Questions, Answered'
     questions:
     - q: |
         Do I really not need a passport for Turkey eSIM? Why?
@@ -412,61 +418,53 @@ faq_section:
     - q: |
         What if I accidentally delete my Turkey eSIM before my trip?
       a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        Head to your Roami account and re-download the QR code — around a minute. Saving that first email as a screenshot or PDF is a sensible backup.
     - q: |
         When does the validity period of my Turkey eSIM start?
       a: |
         The plan validity starts when you connect to a local network in Turkey, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
 related_products:
-  title: Related eSIM Plans
+  title: Related Turkey eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Guam eSIM
+    flag: img/flags/gu.svg
+    price: From $9.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: French Guiana eSIM
+    flag: img/flags/gf.svg
+    price: From $3.99
+    is_highlight: false
+  - name: Sierra Leone eSIM
+    flag: img/flags/si.svg
+    price: From $10.99
+    is_highlight: false
+  - name: Liechtenstein eSIM
+    flag: img/flags/li.svg
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: Slovakia eSIM
+    flag: img/flags/sl.svg
     price: From $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
+  - name: Vatican City eSIM
+    flag: img/flags/va.svg
+    price: From $10.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
+  - name: Grenada eSIM
+    flag: img/flags/gd.svg
+    price: From $11.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+  - name: Fiji eSIM
+    flag: img/flags/fj.svg
+    price: From $6.99
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+  - name: Maldives eSIM
+    flag: img/flags/mv.svg
+    price: From $14.99
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: Mauritius eSIM
+    flag: img/flags/ma.svg
+    price: From $7.99
     is_highlight: false
 market_analysis:
   title: 'Turkey eSIM vs Local Prepaid SIM: No Passport, No 28-Day Waste'
@@ -502,7 +500,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Turkcell's Fırsat series and Vodafone's Tam Senlik series use a 28-day fixed billing cycle. Turkcell Fırsat 1GB costs ₺350 (~$11 USD) for 28 days — a 5-day tourist wastes 82% of the plan.
     esim_title: Flexible Plans, Zero Waste
-    esim_desc: Turkcell's 28-day cycle forces short-term tourists to overpay. Roami offers 3/7/15/30-day plans starting from $1.99 — pay only for your actual trip length, saving up to 80% compared to local 28-day plans.
+    esim_desc: Turkcell's 28-day cycle forces short-term tourists to overpay. Roami offers 3/7/15/30-day plans starting from $6.99 — pay only for your actual trip length, saving up to 80% compared to local 28-day plans.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
@@ -534,7 +532,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Skip the 28-Day Billing Waste
-      desc: Turkcell's Fırsat 1GB costs <b>₺350 (~$11 USD)</b> for <b>28 days</b>. A 5-day tourist wastes <b>82%</b> of the plan. Roami offers <b>3-day plans from $1.99</b> — zero waste, pay for your actual trip.
+      desc: Turkcell's Fırsat 1GB costs <b>₺350 (~$11 USD)</b> for <b>28 days</b>. A 5-day tourist wastes <b>82%</b> of the plan. Roami offers <b>3-day plans from $2.99</b> — zero waste, pay for your actual trip.
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600

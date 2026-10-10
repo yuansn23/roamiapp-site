@@ -1,6 +1,6 @@
 ---
 title: 'Latvia eSIM 2026: Connection & Speed Guide | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,12 +20,11 @@ modal:
     code:web20
 seo:
   title: Latvia eSIM | Best Unlimited Data Plan for Tourists
-  description: Explore Latvia with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Instant QR activation.
-    Covers Riga, Daugavpils & Jurmala.
+  description: 'Explore Latvia with the best prepaid Latvia eSIM from Roami. Unlimited 5G data nationwide. Instant QR activation. Covers Riga, Daugavpils & Jurmala.'
   keywords: Latvia eSIM, buy Latvia eSIM, best Latvia eSIM, Latvia travel eSIM, LMT Latvia, Tele2 Latvia, Bite Latvia, Riga
     eSIM, Daugavpils eSIM, Liepaja eSIM, Latvia prepaid eSIM, 5G Latvia eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -48,7 +47,7 @@ hero:
   title: 'Latvia eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Latvia
 features:
-  title: 'Why Latvia Travelers Choose Roami: Plans, Network & Support'
+  title: 'Why Latvia Travelers Choose Roami: Data, Coverage & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -74,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Latvia carriers for the best signal
-plans_title: 'Buy Latvia eSIM: Plans for Every Trip Duration'
+plans_title: 'Latvia eSIM Plans Built Around Your Itinerary'
 plans_data:
   30 Days:
   - spec: 20GB
@@ -300,17 +299,16 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Latvia eSIM Coverage: Mobile Network Operator Guide'
+  title: 'Latvia eSIM Coverage: Which Local Networks You Connect To'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Service Highlights'
     items:
     - icon: map
       color: text-brand-500
       title: Coverage
       desc: Enjoy comprehensive network coverage across Latvia, including Riga (4G), Daugavpils (4G), Liepaja (4G), Jelgava
-        (4G). Your eSIM connects to the robust networks of LMT, Tele2, Bite, ensuring stable signals in urban centers, tourist
-        hotspots, and along major transportation routes.
+        (4G). Your eSIM connects to the robust networks of LMT, Tele2, Bite, ensuring stable signals in city centers, tourist hotspots and along the main transport routes.
     - icon: zap
       color: text-amber-500
       title: Delivery Time
@@ -333,33 +331,37 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Latvia eSIM Setup Tips: What to Know Before You Go'
+  title: 'Latvia eSIM Setup Steps Every Traveler Should Know'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-ready</a> before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Latvia.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Your QR code is emailed to you right after checkout.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 📶
+    html: 'Check real-world mobile speeds in Latvia on the <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> before you fly.'
+  - icon: 📖
+    html: 'New to eSIM? <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> explains the standard, and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> plus its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel guide</a> walk through setup.'
+  - icon: 🧭
+    html: 'Heading further afield? Compare <a href="/india-esim/">India eSIM</a> and <a href="/eswatini-esim/">Eswatini eSIM</a> plans before you book.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Compatibility Check in 10 Seconds'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Latvia eSIM: 3 Simple Steps'
+  title: '3 Steps to Activate Your Latvia eSIM'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
-      folder if you don't see it.
+    desc: Once your order is confirmed, we email the QR code and activation guide within about 5 minutes. If it has not arrived, check your spam folder.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -381,7 +383,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Latvia eSIM FAQs
+    title: 'Latvia eSIM FAQ: Speeds, Coverage and Setup'
     questions:
     - q: |
         Is it safe to upload my passport for Latvia eSIM registration? I'm concerned about privacy.
@@ -410,7 +412,7 @@ faq_section:
     - q: |
         How does eSIM compare to pocket WiFi for Latvia travel?
       a: |
-        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
+        eSIM wins on convenience. There is no device to carry, charge or return at the end of your trip, which saves about $3-5 per day versus pocket WiFi rental. Pocket WiFi suits groups of 3 or more, but you are tied to one device and must keep it charged for 6 to 8 hours. With eSIM your phone is the hotspot, and all Roami plans include free hotspot sharing for up to 5 devices.
     - q: |
         When does the validity period of my Latvia eSIM start?
       a: |
@@ -418,53 +420,45 @@ faq_section:
 related_products:
   title: Related Latvia eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Afghanistan eSIM
+    flag: img/flags/af.svg
+    price: From $11.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Algeria eSIM
+    flag: img/flags/dz.svg
+    price: From $3.99
+    is_highlight: false
+  - name: Eswatini eSIM
+    flag: img/flags/sz.svg
+    price: From $19.99
+    is_highlight: false
+  - name: Grenada eSIM
+    flag: img/flags/gd.svg
+    price: From $11.99
+    is_highlight: false
+  - name: Nepal eSIM
+    flag: img/flags/ne.svg
+    price: From $10.99
+    is_highlight: false
+  - name: Switzerland eSIM
+    flag: img/flags/ch.svg
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: Ukraine eSIM
+    flag: img/flags/ua.svg
     price: From $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
+  - name: India eSIM
+    flag: img/flags/in.svg
+    price: From $3.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
+  - name: Ivory Coast eSIM
+    flag: img/flags/ci.svg
+    price: From $9.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: Morocco eSIM
+    flag: img/flags/ma.svg
+    price: From $3.99
     is_highlight: false
 market_analysis:
   title: 'Latvia eSIM or Prepaid SIM Card: A Side-by-Side Comparison'
@@ -488,7 +482,7 @@ market_analysis:
   - icon: id-card
     title: KYC & Real-Name<br>Registration
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on common market knowledge, Latvia requires passport
+    prepaid_desc: Generally, Latvia requires passport
       registration for prepaid SIMs, typically done in-store.
     esim_title: No Passport Required
     esim_desc: Unlike Latvian prepaid SIMs that require in-store passport registration, Roami eSIM activates instantly with
@@ -507,19 +501,18 @@ market_analysis:
     prepaid_desc: LMT's cheapest €3.50 plan is locked to a 7-day cycle; automatic renewal charges the full price after one
       week unless user sends 'STOP' code. A 2-day trip wastes 5 days of the plan.
     esim_title: Flexible Short-Term Plans
-    esim_desc: Unlike LMT's 7-day cycle (€3.50) that wastes 71% of value on a 2-day trip, Roami offers 7-day plans starting
-      from $1.99/GB, saving up to 75% waste.
+    esim_desc: Unlike LMT's 7-day cycle (€3.50) that wastes 71% of value on a 2-day trip, Roami offers 7-day plans starting from $2.99, saving up to 75% waste.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on common market knowledge, most Latvian prepaid SIMs
+    prepaid_desc: Generally, most Latvian prepaid SIMs
       allow tethering but may throttle after FUP limits.
     esim_title: Unrestricted Tethering
     esim_desc: No hidden FUP throttling after 3.2GB like LMT. Roami eSIM allows full-speed hotspot sharing for all your devices.
   - icon: credit-card
     title: Top-up Payments
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on common market knowledge, top-up can be done via
+    prepaid_desc: Generally, top-up can be done via
       vouchers at kiosks or online with foreign cards, but foreign cards may be rejected.
     esim_title: Global Payment Methods
     esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to find local kiosks for top-up
@@ -527,7 +520,7 @@ market_analysis:
   - icon: headset
     title: Customer Support
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on common market knowledge, customer support is typically
+    prepaid_desc: Generally, customer support is typically
       in Latvian or Russian, with limited English availability.
     esim_title: 24/7 English Support
     esim_desc: Get round-the-clock customer support in English via live chat, unlike Latvian operators that offer support

@@ -1,11 +1,11 @@
 ---
 title: 'Norway eSIM 2026 - Best 5G Plan for Oslo & Fjords | Roami'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: Norway eSIM
-  scenario_keywords: Oslo sightseeing, Bergen fjord cruise, Northern Lights hunting, Tromsø winter adventure, Lofoten island hopping
+  scenario_keywords: Oslo sightseeing, Bergen fjord cruise, Tromsø winter adventure, Lofoten island hopping
   operators: Telenor, Telia, Ice
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Oslo, Bergen, Trondheim, Stavanger, Tromsø
@@ -19,10 +19,10 @@ modal:
     code:web20
 seo:
   title: Norway eSIM - Best Unlimited Data Plan for Visitors
-  description: Get the best Norway prepaid eSIM with 5G on Telenor, Telia & Ice. No passport or store visit needed — instant QR activation. No 31-day waste. From $1.99.
+  description: 'Get the best prepaid Norway eSIM with 5G on Telenor, Telia & Ice. No passport or store visit needed — instant QR activation. No 31-day waste. From $1.99.'
   keywords: Norway eSIM, buy Norway eSIM, best Norway eSIM, Norway travel eSIM, Telenor Norway, Telia Norway, Ice Norway, Oslo eSIM, Bergen eSIM, Trondheim eSIM, Norway prepaid eSIM, 5G Norway eSIM, fjord eSIM, Northern Lights eSIM, Tromsø eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 79.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -45,7 +45,7 @@ hero:
   title: 'Norway eSIM: 5G in Oslo, Bergen & Beyond'
   subtitle: No ID/store visit required | 5G on Telenor, Telia & Ice | Instant QR delivery
 features:
-  title: 'Why Norway Travelers Choose Roami: Speed, Coverage & Support'
+  title: 'Why Norway Travelers Choose Roami: Coverage, Speed & Service'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to Telenor, Telia & Ice for the best signal across Norway
-plans_title: 'Buy Norway eSIM: Plans for Every Trip Duration'
+plans_title: 'Flexible Norway eSIM Plans: Data for Any Trip Length'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -289,10 +289,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Norway eSIM Coverage: Telenor, Telia & Ice Network Guide'
+  title: 'Norway eSIM Coverage: Mobile Network Operator Guide'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'What Your eSIM Covers'
     items:
     - icon: map
       color: text-brand-500
@@ -320,32 +320,38 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Norway eSIM Setup Tips: What to Know Before You Go'
+  title: 'Set Up Your Norway eSIM Before Departure: Key Tips'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Not sure your handset supports eSIM? Check the <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibility checklist</a> first.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Norway.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: The QR code is delivered to your inbox once you order.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 🏪
     html: <span class="font-medium">No store visit needed:</span> Telenor/Telia require in-store passport registration. Roami works online — no queues, no Norwegian-only forms.
+  - icon: 📶
+    html: 'Real-world data speed for Norway is tracked by <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> — worth a look before departure.'
+  - icon: 📖
+    html: 'Want the technical background? See the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM pages and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> setup support, plus its guide to <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">using eSIM abroad</a>.'
+  - icon: 🧭
+    html: 'If your itinerary includes other countries, see the <a href="/niger-esim/">Niger eSIM</a> and <a href="/nigeria-esim/">Nigeria eSIM</a> options.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Verify Your Device Supports eSIM'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Norway eSIM: 3 Simple Steps'
+  title: 'Norway eSIM Activation: A Simple Three-Step Guide'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: The QR code plus an activation guide land in your inbox within 5 minutes of ordering. If they do not show up, check spam.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -366,7 +372,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Norway eSIM FAQs
+    title: 'Answers to Common Norway eSIM Questions'
     questions:
     - q: |
         Why is buying a SIM card in Norway so complicated for tourists?
@@ -387,7 +393,7 @@ faq_section:
     - q: |
         Is eSIM cheaper than international roaming for Norway?
       a: |
-        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Norway costs $7.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Norway costs $6.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
     - q: |
         I'm arriving in Norway late at night. Will I be able to get online immediately?
       a: |
@@ -407,52 +413,44 @@ faq_section:
 related_products:
   title: Related Norway eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: From $1.99
+    is_highlight: true
+  - name: Niger eSIM
+    flag: img/flags/ni.svg
+    price: From $23.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Philippines eSIM
+    flag: img/flags/ph.svg
+    price: From $2.99
+    is_highlight: false
+  - name: Thailand eSIM
+    flag: img/flags/th.svg
     price: From $1.99
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
+  - name: Algeria eSIM
+    flag: img/flags/dz.svg
+    price: From $3.99
+    is_highlight: false
+  - name: United Arab Emirates eSIM
+    flag: img/flags/ae.svg
+    price: From $3.99
+    is_highlight: false
+  - name: El Salvador eSIM
+    flag: img/flags/sv.svg
+    price: From $23.99
+    is_highlight: false
+  - name: Nigeria eSIM
+    flag: img/flags/ng.svg
+    price: From $5.99
+    is_highlight: false
+  - name: Finland eSIM
+    flag: img/flags/fi.svg
     price: From $1.99
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Italy eSIM
+    flag: img/flags/it.svg
     price: From $1.99
     is_highlight: false
 market_analysis:
@@ -489,7 +487,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Telia's minimum billing cycle is 31 days (e.g., 3GB for 269 NOK). Telenor has a monthly 1GB high-speed cap, after which speed drops to 128 Kbps.
     esim_title: Flexible Short-Term Plans
-    esim_desc: Unlike Telia's 31-day cycle (e.g., 3GB for 269 NOK) or Telenor's monthly 1GB cap, Roami offers 7-day plans starting from $1.99/GB, saving up to 75% waste for short trips.
+    esim_desc: Unlike Telia's 31-day cycle (e.g., 3GB for 269 NOK) or Telenor's monthly 1GB cap, Roami offers 7-day plans starting from $1.99, saving up to 75% waste for short trips.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''

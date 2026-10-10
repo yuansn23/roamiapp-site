@@ -1,6 +1,6 @@
 ---
 title: 'UK eSIM 2026 - Best 5G Plan for London & Edinburgh'
-date: '2026-08-21T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     code:web20
 seo:
   title: UK eSIM - Best 5G Prepaid Data Plan for Travelers
-  description: Get the best UK prepaid eSIM with 5G on EE, Vodafone & O2. No passport or ID needed — instant QR activation. Includes EU roaming. Plans from $1.99.
+  description: 'Get the best prepaid UK eSIM with 5G on EE, Vodafone & O2. No passport or ID needed — instant QR activation. Includes EU roaming. Plans from $1.99.'
   keywords: UK eSIM, buy UK eSIM, best UK eSIM, UK travel eSIM, Vodafone United Kingdom, EE UK, O2 UK, London eSIM, Manchester eSIM, Birmingham eSIM, UK prepaid eSIM, 5G UK eSIM, UK eSIM no ID, eSIM for London Underground, Great Britain eSIM, England eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 54.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -45,7 +45,7 @@ hero:
   title: 'UK eSIM: 5G in London, Edinburgh & Beyond — No Passport Required'
   subtitle: No ID or passport needed | 5G on EE, Vodafone & O2 | EU roaming included | Instant QR delivery
 features:
-  title: 'Why UK Travelers Choose Roami: Speed, Coverage & Support'
+  title: 'Why UK Travelers Choose Roami: Plans, Network & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to Vodafone, EE & O2 for the best signal across the UK
-plans_title: 'Buy UK eSIM: Plans for Every Trip Duration'
+plans_title: 'UK eSIM Data Plans for Every Stay'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -297,10 +297,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'UK eSIM Coverage: EE, Vodafone & O2 Network Guide'
+  title: 'UK eSIM Coverage: Carrier Guide & Coverage Map'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Plan Service Details'
     items:
     - icon: map
       color: text-brand-500
@@ -328,32 +328,38 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'UK eSIM Setup Tips: What to Know Before You Go'
+  title: 'Before You Fly to UK: eSIM Setup Checklist'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Before you buy, confirm your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">listed as eSIM compatible</a>.
   - icon: ✈️
     html: We recommend turning on the line after arriving in the UK.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Your eSIM QR code arrives by email after purchase.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 📡
     html: <span class="font-medium">London Underground (Tube) note:</span> Most Tube lines don't have mobile signal. Roami works perfectly above ground — download offline maps before heading underground.
+  - icon: 📶
+    html: 'Curious about actual download speeds? The <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> publishes median mobile speeds for UK.'
+  - icon: 📖
+    html: 'Background reading: the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM hub and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> support pages (including the <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel FAQ</a>) answer most first-timer questions.'
+  - icon: 🧭
+    html: 'Multi-country trip? Take a look at our <a href="/latvia-esim/">Latvia eSIM</a> and <a href="/south-korea-esim/">South Korea eSIM</a> pages as well.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Verify Your Device Supports eSIM'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install UK eSIM: 3 Simple Steps'
+  title: 'UK eSIM Installation: Three Quick Steps'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: We send the QR code and activation guide by email within about 5 minutes of payment. Not seeing it? Take a look in your spam folder.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -374,7 +380,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: UK eSIM FAQs
+    title: 'UK eSIM: Frequently Asked Questions'
     questions:
     - q: |
         Do I really not need a passport or ID to use Roami's UK eSIM?
@@ -395,7 +401,7 @@ faq_section:
     - q: |
         Is eSIM cheaper than international roaming for the UK?
       a: |
-        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for the UK costs $6.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for the UK costs $5.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
     - q: |
         I'm arriving in the UK late at night. Will I be able to get online immediately?
       a: |
@@ -413,54 +419,46 @@ faq_section:
       a: |
         Roami automatically connects to the best available network from Vodafone, EE, and O2 — the three largest UK carriers. This auto-switch feature ensures you get the strongest signal wherever you are, whether you're in central London or the Edinburgh countryside.
 related_products:
-  title: Related UK eSIM Plans
+  title: Related United Kingdom eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Afghanistan eSIM
+    flag: img/flags/af.svg
+    price: From $11.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Taiwan eSIM
+    flag: img/flags/tw.svg
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: Puerto Rico eSIM
+    flag: img/flags/pu.svg
+    price: From $6.99
+    is_highlight: false
+  - name: South Korea eSIM
+    flag: img/flags/kr.svg
     price: From $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: Ireland eSIM
+    flag: img/flags/ie.svg
     price: From $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
+  - name: Iceland eSIM
+    flag: img/flags/is.svg
     price: From $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+  - name: Philippines eSIM
+    flag: img/flags/ph.svg
+    price: From $2.99
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+  - name: Kosovo eSIM
+    flag: img/flags/xk.svg
+    price: From $13.99
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+  - name: Ivory Coast eSIM
+    flag: img/flags/ci.svg
+    price: From $9.99
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Latvia eSIM
+    flag: img/flags/lv.svg
     price: From $1.99
     is_highlight: false
 market_analysis:
@@ -497,7 +495,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Major prepaid plans from EE, Vodafone, and O2 are all 30-day billing cycles. A 7-day tourist buying Vodafone's £10/8GB plan wastes over 70% of the plan's value.
     esim_title: Flexible Plans, No Waste
-    esim_desc: Avoid 30-day billing cycles of EE/Vodafone/O2. Roami offers 7-day plans starting from $1.99/GB, saving over 70% waste for short trips.
+    esim_desc: Avoid 30-day billing cycles of EE/Vodafone/O2. Roami offers 7-day plans starting from $2.99/GB, saving over 70% waste for short trips.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
@@ -513,7 +511,7 @@ market_analysis:
   - icon: headset
     title: Customer Support
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension.
+    prepaid_desc: 
     esim_title: 24/7 Multilingual Support
     esim_desc: Unlike local SIMs with limited support hours, Roami provides 24/7 live chat and email support in English.
   expert_verdict:

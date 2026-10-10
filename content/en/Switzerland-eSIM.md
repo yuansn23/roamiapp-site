@@ -1,6 +1,6 @@
 ---
 title: 'Switzerland eSIM - Alpine 5G Coverage & EU Roaming | Roami'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     code:web20
 seo:
   title: Switzerland eSIM - Alpine 5G Coverage & EU Roaming
-  description: Get the best Switzerland eSIM with 5G on Swisscom, Sunrise & Salt — from Jungfraujoch to Geneva. Includes EU roaming at no extra cost. Skip Zurich airport queues. Plans from $1.99.
+  description: 'Switzerland eSIM: 5G on Swisscom, Sunrise, Salt. Includes EU roaming at no extra cost. Instant QR activation from $1.99.'
   keywords: Switzerland eSIM, buy Switzerland eSIM, best Switzerland eSIM, Switzerland travel eSIM, Swisscom Switzerland, Sunrise Switzerland, Salt Switzerland, Zurich eSIM, Geneva eSIM, Basel eSIM, Switzerland prepaid eSIM, 5G Switzerland eSIM, Swiss Alps eSIM, Jungfraujoch eSIM, Switzerland eSIM EU roaming
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -42,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/ch.svg
   flag_alt: Switzerland Flag
-  title: 'Switzerland eSIM: 5G in the Alps, Cities & Beyond — No Swisscom Price Tag'
+  title: 'Switzerland eSIM: 5G in the Alps & Cities — No Swisscom Price Tag'
   subtitle: Alpine 5G on Swisscom, Sunrise & Salt | EU roaming included | Skip Zurich airport queues | Instant QR delivery
 features:
-  title: 'Why Switzerland Travelers Choose Roami: Alpine Coverage, Speed & Value'
+  title: 'Why Switzerland Travelers Choose Roami: Plans, Network & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -293,10 +293,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Switzerland eSIM Coverage: Swisscom, Sunrise & Salt 5G Network Guide — Alps to Cities'
+  title: 'Switzerland eSIM Coverage: Carrier Guide & Coverage Map'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Service Details'
     items:
     - icon: map
       color: text-brand-500
@@ -327,21 +327,27 @@ reminders:
   title: 'Switzerland eSIM Setup Tips: What to Know Before You Go'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Before you buy, confirm your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">listed as eSIM compatible</a>.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Switzerland.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Your eSIM QR code arrives by email after purchase.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 🏔️
     html: <span class="font-medium">Alpine coverage note:</span> 5G/4G works at Jungfraujoch, Zermatt, and most ski resorts. In tunnels and deep valleys, signal may drop — <span class="font-medium">download offline maps</span> before heading into remote areas.
   - icon: 🚂
     html: <span class="font-medium">SBB/CFF train tip:</span> Download the <span class="font-medium">SBB Mobile</span> app for real-time train schedules. Your eSIM data works throughout the journey — tunnels are the only brief dead zones.
+  - icon: 📶
+    html: 'Curious about actual download speeds? The <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> publishes median mobile speeds for Switzerland.'
+  - icon: 📖
+    html: 'Background reading: the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM hub and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> support pages (including the <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel FAQ</a>) answer most first-timer questions.'
+  - icon: 🧭
+    html: 'Multi-country trip? Take a look at our <a href="/morocco-esim/">Morocco eSIM</a> and <a href="/gibraltar-esim/">Gibraltar eSIM</a> pages as well.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Verify Your Device Supports eSIM'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
@@ -351,7 +357,7 @@ activation_steps:
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: We send the QR code and activation guide by email within about 5 minutes of payment. Not seeing it? Take a look in your spam folder.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -372,7 +378,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Switzerland eSIM FAQs
+    title: 'Switzerland eSIM FAQs'
     questions:
     - q: |
         Will my eSIM work in the Swiss Alps — Jungfraujoch, Zermatt, Interlaken?
@@ -397,7 +403,7 @@ faq_section:
     - q: |
         Can I get a Switzerland eSIM without spending too much?
       a: |
-        Absolutely. Roami's Switzerland eSIM plans start from as low as <strong>$1.99</strong>. The 5GB/15-day option ($7.99) is the most popular among travelers — it comfortably handles SBB schedules, Google Maps, WhatsApp, Instagram, and sharing Alpine photos with family. If you're a heavy data user, the 10GB ($12.99) or 20GB ($19.99) plans give you peace of mind. Skipping the Swisscom airport counter saves you time and money — no queuing at Zurich Airport after a long flight.
+        Absolutely. Roami's Switzerland eSIM plans start from as low as <strong>$1.99</strong>. The 5GB/15-day option ($5.99) is the most popular among travelers — it comfortably handles SBB schedules, Google Maps, WhatsApp, Instagram, and sharing Alpine photos with family. If you're a heavy data user, the 10GB ($9.99) or 20GB ($18.99) plans give you peace of mind. Skipping the Swisscom airport counter saves you time and money — no queuing at Zurich Airport after a long flight.
     - q: |
         How does Roami compare to local Swisscom or Sunrise prepaid SIMs?
       a: |
@@ -405,7 +411,7 @@ faq_section:
     - q: |
         What if I accidentally delete my Switzerland eSIM before my trip?
       a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        Simply log in to your Roami account to fetch the QR code again, which takes about a minute. Keeping a screenshot or PDF from the original email helps too.
     - q: |
         When does the validity period of my Switzerland eSIM start?
       a: |
@@ -413,53 +419,45 @@ faq_section:
 related_products:
   title: Related Switzerland eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Gibraltar eSIM
+    flag: img/flags/gi.svg
+    price: From $5.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Senegal eSIM
+    flag: img/flags/se.svg
+    price: From $12.99
+    is_highlight: false
+  - name: Maldives eSIM
+    flag: img/flags/mv.svg
+    price: From $14.99
+    is_highlight: false
+  - name: Albania eSIM
+    flag: img/flags/al.svg
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
+  - name: Grenada eSIM
+    flag: img/flags/gd.svg
+    price: From $11.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
+  - name: Costa Rica eSIM
+    flag: img/flags/cr.svg
+    price: From $9.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
+  - name: Morocco eSIM
+    flag: img/flags/ma.svg
+    price: From $3.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+  - name: Panama eSIM
+    flag: img/flags/pa.svg
+    price: From $11.99
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+  - name: Sierra Leone eSIM
+    flag: img/flags/si.svg
+    price: From $10.99
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: Uganda eSIM
+    flag: img/flags/ug.svg
+    price: From $7.99
     is_highlight: false
 market_analysis:
   title: 'Switzerland eSIM vs Local Prepaid SIM: Which Is Better for Alpine Travelers?'

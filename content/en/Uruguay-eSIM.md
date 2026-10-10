@@ -1,6 +1,6 @@
 ---
 title: 'Uruguay eSIM 2026: Complete Travel Guide | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,12 +19,11 @@ modal:
     code:web20
 seo:
   title: Uruguay eSIM | Best Prepaid Data for Your Journey
-  description: Travel to Uruguay with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Covers Montevideo,
-    Punta del Este & Colonia. Instant activation.
+  description: 'Travel Uruguay with a prepaid eSIM: unlimited 5G data, instant activation from $11.99. Covers Montevideo, Salto & Punta del Este.'
   keywords: Uruguay eSIM, buy Uruguay eSIM, best Uruguay eSIM, Uruguay travel eSIM, Antel Uruguay, Claro Uruguay, Movistar
     Uruguay, Montevideo eSIM, Salto eSIM, Punta del Este eSIM, Uruguay prepaid eSIM, 5G Uruguay eSIM
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 11.99
+  high_price: 98.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -47,7 +46,7 @@ hero:
   title: 'Uruguay eSIM: Complete Data Solutions for Your Trip'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Uruguay travelers
 features:
-  title: 'Why Uruguay Travelers Choose Roami: Coverage, Speed & Service'
+  title: 'What Makes Roami a Good Fit for Uruguay: Plans and Coverage'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Uruguay carriers for the best signal
-plans_title: 'Buy Uruguay eSIM: Plans for Every Trip Duration'
+plans_title: 'Flexible Uruguay eSIM Plans: Data for Any Trip Length'
 plans_data:
   7 Days:
   - spec: 1GB
@@ -251,17 +250,17 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Uruguay eSIM Coverage: Carrier Guide & Coverage Map'
+  title: 'Uruguay eSIM Coverage: Networks, Bands and Reach'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'What Your eSIM Covers'
     items:
     - icon: map
       color: text-brand-500
       title: Coverage
       desc: Enjoy comprehensive network coverage across Uruguay, including Montevideo (4G), Salto (4G), Punta del Este (4G),
         Colonia del Sacramento (4G). Your eSIM connects to the robust networks of Antel, Claro, Movistar, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation routes.
+        signals across city centers, visitor hotspots and key travel corridors.
     - icon: zap
       color: text-amber-500
       title: Delivery Time
@@ -284,33 +283,37 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Uruguay eSIM Setup Tips: What to Know Before You Go'
+  title: 'Set Up Your Uruguay eSIM Before Departure: Key Tips'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Check that your device supports eSIM — see the <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">phone compatibility list</a>.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Uruguay.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: We email your QR code — keep an eye on your inbox.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 📶
+    html: 'See how Uruguay ranks for mobile and broadband speed on the <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a>.'
+  - icon: 📖
+    html: 'Learn how eSIM works from the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a>; device setup steps are documented by <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> and its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">traveling with eSIM guide</a>.'
+  - icon: 🧭
+    html: 'Traveling on from Uruguay? Prices for <a href="/netherlands-esim/">Netherlands eSIM</a> and <a href="/southeast-asia-esim/">Southeast Asia eSIM</a> are worth comparing.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Compatibility Check in 10 Seconds'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Uruguay eSIM: 3 Simple Steps'
+  title: 'Uruguay eSIM Activation: A Simple Three-Step Guide'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
-      folder if you don't see it.
+    desc: Your QR code and step-by-step activation guide are sent to your inbox roughly 5 minutes after purchase. Do look in spam if it seems missing.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -332,7 +335,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Uruguay eSIM FAQs
+    title: 'Answers to Common Uruguay eSIM Questions'
     questions:
     - q: |
         Does Roami switch between Antel, Claro, and Movistar in Uruguay automatically?
@@ -345,7 +348,7 @@ faq_section:
     - q: |
         How much should I budget for an eSIM when visiting Uruguay?
       a: |
-        Roami offers Uruguay eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Antel provides reliable speeds across Uruguay. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+        Roami offers Uruguay eSIM from $11.99 for a 7-day light plan. Most visitors pick the 5GB/15 day plan at $26.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Antel provides reliable speeds across Uruguay. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
     - q: |
         Is it safe to upload my passport for Uruguay eSIM registration? I'm concerned about privacy.
       a: |
@@ -357,7 +360,7 @@ faq_section:
     - q: |
         Do I need to remove my physical SIM to use eSIM in Uruguay?
       a: |
-        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
+        Not in the slightest. Your physical SIM remains in slot 1 with the eSIM working alongside in slot 2. Keep the home SIM for SMS and calls, and let the eSIM handle data. Around 80% of phones since 2020 offer this dual arrangement.
     - q: |
         How many eSIM profiles can I store on my phone for traveling to Uruguay?
       a: |
@@ -365,57 +368,49 @@ faq_section:
     - q: |
         How much data does a typical traveler actually use per day in Uruguay?
       a: |
-        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+        Most tourists use 300-500MB a day for maps and messaging, or closer to 1GB with frequent social media. 5GB suits a one-week trip and 10GB suits two weeks. If you run low, topping up with Roami is straightforward.
 related_products:
   title: Related Uruguay eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
   - name: Hong Kong eSIM
     flag: img/flags/hk.svg
     price: From $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
+    is_highlight: true
+  - name: Southeast Asia eSIM
+    flag: img/flags/ya.webp
     price: From $1.99
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
+  - name: Algeria eSIM
+    flag: img/flags/dz.svg
+    price: From $3.99
+    is_highlight: false
+  - name: Ukraine eSIM
+    flag: img/flags/ua.svg
     price: From $1.99
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
+  - name: Netherlands eSIM
+    flag: img/flags/nl.svg
     price: From $1.99
     is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: Guatemala eSIM
+    flag: img/flags/gt.svg
+    price: From $11.99
+    is_highlight: false
+  - name: Dominican Republic eSIM
+    flag: img/flags/do.svg
+    price: From $5.99
+    is_highlight: false
+  - name: Macedonia eSIM
+    flag: img/flags/ma.svg
+    price: From $4.99
+    is_highlight: false
+  - name: Ivory Coast eSIM
+    flag: img/flags/ci.svg
+    price: From $9.99
+    is_highlight: false
+  - name: Nepal eSIM
+    flag: img/flags/ne.svg
+    price: From $10.99
     is_highlight: false
 market_analysis:
   title: 'Uruguay eSIM vs Local Prepaid SIM: Which Is More Convenient?'
@@ -457,11 +452,11 @@ market_analysis:
       plan (165 UYU/760MB) wastes over 75% of the plan's value.
     esim_title: Flexible Short-Term Plans
     esim_desc: Unlike Antel's 30-day cycle (165 UYU/760MB) that wastes 75% for a 7-day trip, Roami offers 7-day plans starting
-      from $1.99/GB.
+      from $11.99.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on common market knowledge, most Uruguayan prepaid
+    prepaid_desc: Generally, most Uruguayan prepaid
       plans allow tethering but may throttle after a certain limit.
     esim_title: Unrestricted Tethering
     esim_desc: Roami eSIM allows full-speed hotspot sharing, unlike some local plans that may throttle or block tethering.
@@ -476,7 +471,7 @@ market_analysis:
   - icon: headset
     title: Customer Support
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on common market knowledge, customer support is typically
+    prepaid_desc: Generally, customer support is typically
       in Spanish, with limited English assistance.
     esim_title: 24/7 Multilingual Support
     esim_desc: Get English-speaking support anytime, unlike local operators' Spanish-only phone lines.

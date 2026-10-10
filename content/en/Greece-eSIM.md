@@ -1,6 +1,6 @@
 ---
 title: 'Greece eSIM - 5G in Athens & Santorini | No Airport Hunt | Roami'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,11 +18,11 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Greece eSIM - Best Unlimited Data Plan for Nomads
-  description: Get the best Greece eSIM with 5G on Vodafone, Cosmote & Wind. No SIM hunt at Athens airport — instant QR delivery. Covers Athens, Santorini, Mykonos & all islands. Plans from $1.99.
+  title: Greece eSIM - Best Unlimited 5G Data for Travelers
+  description: 'Greece eSIM: 5G on Vodafone, Cosmote, Wind. No SIM hunt at Athens airport — instant QR delivery. Plans from $1.99.'
   keywords: Greece eSIM, buy Greece eSIM, best Greece eSIM, Greece travel eSIM, Vodafone Greece, Cosmote Greece, Wind Greece, Athens eSIM, Thessaloniki eSIM, Santorini eSIM, Greece prepaid eSIM, 5G Greece eSIM, Greek islands eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -45,7 +45,7 @@ hero:
   title: 'Greece eSIM: 5G in Athens, Santorini & Beyond — No Airport SIM Hunt'
   subtitle: 5G on Vodafone, Cosmote & Wind | No passport registration| 24/7 support
 features:
-  title: 'Why Greece Travelers Choose Roami: Coverage, Convenience & Value'
+  title: 'Why Travelers Pick Roami for Greece: Speed, Data and Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -293,10 +293,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Greece eSIM Coverage: Vodafone, Cosmote & Wind 5G Guide — Mainland & Islands'
+  title: 'Greece eSIM Coverage: Local Operators Explained'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Service Details'
     items:
     - icon: map
       color: text-brand-500
@@ -327,13 +327,13 @@ reminders:
   title: 'Greece eSIM Setup Tips: What to Know Before You Go'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Before you buy, confirm your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">listed as eSIM compatible</a>.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Greece.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Your eSIM QR code arrives by email after purchase.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 🏛️
@@ -342,8 +342,14 @@ reminders:
     html: <span class="font-medium">Island hopping:</span> 4G coverage works on most ferries near ports and along major routes — perfect for booking ferries and checking schedules on the go.
   - icon: 🌅
     html: <span class="font-medium">Travel tip:</span> Download <span class="font-medium">Google Translate</span> with Greek offline pack — it helps with menus, signs, and local recommendations.
+  - icon: 📶
+    html: 'Curious about actual download speeds? The <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> publishes median mobile speeds for Greece.'
+  - icon: 📖
+    html: 'Background reading: the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM hub and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> support pages (including the <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel FAQ</a>) answer most first-timer questions.'
+  - icon: 🧭
+    html: 'Multi-country trip? Take a look at our <a href="/estonia-esim/">Estonia eSIM</a> and <a href="/ecuador-esim/">Ecuador eSIM</a> pages as well.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Check Your Phone Compatibility'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
@@ -353,7 +359,7 @@ activation_steps:
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: We send the QR code and activation guide by email within about 5 minutes of payment. Not seeing it? Take a look in your spam folder.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -374,7 +380,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Greece eSIM FAQs
+    title: 'Greece eSIM FAQs'
     questions:
     - q: |
         Why can't I just buy a SIM at Athens Airport?
@@ -407,7 +413,7 @@ faq_section:
     - q: |
         What's the most popular eSIM plan for Greece travelers?
       a: |
-        Most travelers to Greece choose the <strong>5GB/15-day plan ($8.99)</strong> or <strong>10GB/15-day plan ($13.99)</strong>. They're enough for daily navigation, social media, and sharing sunset photos from Santorini. For longer stays or heavy usage (video calls, remote work), the 20GB or 30GB plans are great options. All plans activate in minutes and include 24/7 support.
+        Most travelers to Greece choose the <strong>5GB/15-day plan ($6.99)</strong> or <strong>10GB/15-day plan ($7.99)</strong>. They're enough for daily navigation, social media, and sharing sunset photos from Santorini. For longer stays or heavy usage (video calls, remote work), the 20GB or 30GB plans are great options. All plans activate in minutes and include 24/7 support.
     - q: |
         Is hotel WiFi in Greece reliable? Do I really need an eSIM?
       a: |
@@ -415,7 +421,7 @@ faq_section:
     - q: |
         What if I accidentally delete my Greece eSIM before my trip?
       a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        Simply log in to your Roami account to fetch the QR code again, which takes about a minute. Keeping a screenshot or PDF from the original email helps too.
     - q: |
         When does the validity period of my Greece eSIM start?
       a: |
@@ -423,53 +429,45 @@ faq_section:
 related_products:
   title: Related Greece eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Maldives eSIM
+    flag: img/flags/mv.svg
+    price: From $14.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Estonia eSIM
+    flag: img/flags/ee.svg
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
+  - name: Gabon eSIM
+    flag: img/flags/ga.svg
+    price: From $14.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
+  - name: Ecuador eSIM
+    flag: img/flags/ec.svg
+    price: From $6.99
+    is_highlight: false
+  - name: Vatican City eSIM
+    flag: img/flags/va.svg
+    price: From $10.99
+    is_highlight: false
+  - name: Kenya eSIM
+    flag: img/flags/ke.svg
+    price: From $7.99
     is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: From $1.99
     is_highlight: false
+  - name: Malawi eSIM
+    flag: img/flags/mw.svg
+    price: From $14.99
+    is_highlight: false
   - name: Hong Kong eSIM
     flag: img/flags/hk.svg
     price: From $1.99
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: New Zealand eSIM
+    flag: img/flags/nz.svg
+    price: From $3.99
     is_highlight: false
 market_analysis:
   title: 'Greece eSIM vs Local SIM: No Airport Hunt, No 12% Tax'

@@ -1,11 +1,11 @@
 ---
 title: 'Mali eSIM 2026: Coverage & Speed Guide | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: Mali eSIM
-  scenario_keywords: Bamako sightseeing, Timbuktu desert tours, Djenné cultural visit, Dogon country hiking, Niger River cruises
+  scenario_keywords: Bamako sightseeing, Djenné cultural visit, Dogon country hiking, Niger River cruises
   operators: Sotelma-Malitel, Orange Mali, Moov Africa
   competitors: Airalo, Holafly, Nomad eSIM, Ubigi, Yesim
   main_cities: Bamako, Segou, Mopti, Timbuktu
@@ -19,12 +19,11 @@ modal:
     code:web20
 seo:
   title: 'Mali eSIM: Unlimited 5G Data, No Roaming Charges'
-  description: Compare Mali eSIM plans with fast 5G in Bamako, Segou, Mopti. Sotelma-Malitel & Orange Mali & Moov Africa coverage
-    guide for tourists & travelers. Instant QR activation from $1.99.
-  keywords: Mali eSIM, buy Mali eSIM, best Mali eSIM, Mali travel eSIM, Sotelma-Malitel Mali, Orange Mali Mali, Moov Africa
+  description: 'Compare Mali eSIM plans from $27.99. 5G on Sotelma-Malitel, Orange Mali, Moov Africa, instant activation, covering Bamako, Segou & Mopti.'
+  keywords: Mali eSIM, buy Mali eSIM, best Mali eSIM, Mali travel eSIM, Sotelma-Malitel Mali, Orange Mali, Moov Africa
     Mali, Bamako eSIM, Segou eSIM, Mopti eSIM, Mali prepaid eSIM, 5G Mali eSIM
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 27.99
+  high_price: 79.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -47,7 +46,7 @@ hero:
   title: 'Mali eSIM: Fast 5G Data for Every City & Destination'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Mali travelers
 features:
-  title: 'Why Mali Travelers Choose Roami: Coverage, Speed & Service'
+  title: 'Why Travelers Pick Roami for Mali: Speed, Data and Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Mali carriers for the best signal
-plans_title: 'Buy Mali eSIM: Plans for Every Trip Duration'
+plans_title: 'Mali eSIM Plans Built Around Your Itinerary'
 plans_data:
   7 Days:
   - spec: 1GB
@@ -111,17 +110,16 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Mali eSIM Coverage: Carrier Guide & Coverage Map'
+  title: 'Mali eSIM Coverage: Local Operators Explained'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Service Highlights'
     items:
     - icon: map
       color: text-brand-500
       title: Coverage
       desc: Enjoy comprehensive network coverage across Mali, including Bamako (4G), Segou (4G), Mopti (4G), Timbuktu (4G).
-        Your eSIM connects to the robust networks of Sotelma-Malitel, Orange Mali, Moov Africa, ensuring stable signals in
-        urban centers, tourist hotspots, and along major transportation routes.
+        Your eSIM connects to the robust networks of Sotelma-Malitel, Orange Mali, Moov Africa, ensuring stable signals in busy city districts, tourist areas and on the main routes between them.
     - icon: zap
       color: text-amber-500
       title: Delivery Time
@@ -144,33 +142,37 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Mali eSIM Setup Tips: What to Know Before You Go'
+  title: 'Mali eSIM Setup Steps Every Traveler Should Know'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Before you buy, confirm your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">listed as eSIM compatible</a>.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Mali.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Your eSIM QR code arrives by email after purchase.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 📶
+    html: 'Curious about actual download speeds? The <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> publishes median mobile speeds for Mali.'
+  - icon: 📖
+    html: 'Background reading: the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM hub and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> support pages (including the <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel FAQ</a>) answer most first-timer questions.'
+  - icon: 🧭
+    html: 'Multi-country trip? Take a look at our <a href="/portugal-esim/">Portugal eSIM</a> and <a href="/southeast-asia-esim/">Southeast Asia eSIM</a> pages as well.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Check Your Phone Compatibility'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Mali eSIM: 3 Simple Steps'
+  title: '3 Steps to Activate Your Mali eSIM'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
-      folder if you don't see it.
+    desc: We send the QR code and activation guide by email within about 5 minutes of payment. Not seeing it? Take a look in your spam folder.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -192,7 +194,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Mali eSIM FAQs
+    title: 'Mali eSIM FAQ: Speeds, Coverage and Setup'
     questions:
     - q: |
         How do Orange, Sotelma, and Malitel compare for a tourist visiting Mali?
@@ -217,11 +219,11 @@ faq_section:
     - q: |
         What happens if I use all my data in Mali before my plan expires?
       a: |
-        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
+        You can top up straight from the Roami app. New data kicks in immediately, without a new QR code or reinstall. Topping up at about 20% left keeps you connected without gaps.
     - q: |
         How much data does a typical traveler actually use per day in Mali?
       a: |
-        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+        Average tourist usage runs 300-500MB per day for maps and messaging, up to 1GB with heavy social media. A week fits 5GB and a fortnight fits 10GB. Roami lets you top up easily whenever you need more.
     - q: |
         Will my eSIM in Mali work for video calls and remote work?
       a: |
@@ -229,53 +231,45 @@ faq_section:
 related_products:
   title: Related Mali eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
+  - name: Portugal eSIM
+    flag: img/flags/pt.svg
     price: From $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Laos eSIM
+    flag: img/flags/la.svg
+    price: From $4.99
+    is_highlight: false
+  - name: Southeast Asia eSIM
+    flag: img/flags/ya.webp
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: Vietnam eSIM
+    flag: img/flags/vn.svg
     price: From $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: Nigeria eSIM
+    flag: img/flags/ng.svg
+    price: From $5.99
+    is_highlight: false
+  - name: Thailand eSIM
+    flag: img/flags/th.svg
     price: From $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
+  - name: Congo eSIM
+    flag: img/flags/cg.svg
+    price: From $7.99
+    is_highlight: false
+  - name: Slovakia eSIM
+    flag: img/flags/sl.svg
     price: From $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+  - name: Tanzania eSIM
+    flag: img/flags/tz.svg
+    price: From $7.99
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: South Africa eSIM
+    flag: img/flags/za.svg
+    price: From $3.99
     is_highlight: false
 market_analysis:
   title: 'Mali eSIM or SIM Card: What’s the Best Option in 2026?'
@@ -313,11 +307,11 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Orange data packs are one-time purchase with a fixed 30-day validity; e.g., 1GB costs 7500 CFA.
     esim_title: Flexible Short-Term Plans
-    esim_desc: Unlike Orange's 30-day cycle (1GB/7500 CFA), Roami offers 7-day plans starting from $1.99/GB, saving 75% waste.
+    esim_desc: Unlike Orange's 30-day cycle (1GB/7500 CFA), Roami offers 7-day plans starting from $27.99/GB, saving 75% waste.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on common practice, tethering is generally allowed
+    prepaid_desc: Based on common practice, tethering is generally allowed
       but may be restricted on some plans.
     esim_title: Unrestricted Tethering
     esim_desc: Roami eSIM allows full-speed hotspot sharing, unlike some local plans that may restrict tethering.

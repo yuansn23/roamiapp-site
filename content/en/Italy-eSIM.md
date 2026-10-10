@@ -1,6 +1,6 @@
 ---
 title: 'Italy eSIM - 5G in Rome & Venice | No Codice Fiscale | Roami'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     code:web20
 seo:
   title: Italy eSIM - Best 5G Prepaid Plan | No Codice Fiscale
-  description: Get the best Italy eSIM with 5G on TIM, Vodafone & Wind Tre. No Codice Fiscale or passport needed — skip TIM store rejections. Covers Rome, Venice, Florence & Milan. Plans from $1.99.
+  description: 'Italy eSIM: 5G on TIM, Vodafone Italia, Wind Tre. No Codice Fiscale or passport needed — skip TIM store rejections. Instant QR activation from $1.99.'
   keywords: Italy eSIM, buy Italy eSIM, best Italy eSIM, Italy travel eSIM, TIM Italy, Vodafone Italia Italy, Wind Tre Italy, Rome eSIM, Milan eSIM, Venice eSIM, Italy prepaid eSIM, 5G Italy eSIM, Italy eSIM no tax code
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -42,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/it.svg
   flag_alt: Italy Flag
-  title: 'Italy eSIM: 5G in Rome, Venice & Beyond — No Codice Fiscale, No Passport'
+  title: 'Italy eSIM: 5G in Rome, Venice & Beyond — No Codice Fiscale'
   subtitle: 5G on TIM, Vodafone & Wind Tre | No Italian tax code needed | 24/7 support
 features:
-  title: 'Why Italy Travelers Choose Roami: Coverage, Savings & No Tax Code Hassle'
+  title: 'Why Travelers Pick Roami for Italy: Speed, Data and Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -293,10 +293,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Italy eSIM Coverage: TIM, Vodafone & Wind Tre 5G Guide — Rome to Venice'
+  title: 'Italy eSIM Coverage: Local Operators Explained'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Service Details'
     items:
     - icon: map
       color: text-brand-500
@@ -327,13 +327,13 @@ reminders:
   title: 'Italy eSIM Setup Tips: What to Know Before You Go'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Before you buy, confirm your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">listed as eSIM compatible</a>.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Italy.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Your eSIM QR code arrives by email after purchase.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 🆔
@@ -344,8 +344,14 @@ reminders:
     html: <span class="font-medium">Payment tip:</span> Italian operators often <span class="font-bold">reject non-Italian credit cards</span> for online top-ups. Roami accepts global payments — no rejection.
   - icon: 🏛️
     html: <span class="font-medium">Local tip:</span> Download the <span class="font-medium">Trenitalia</span> app for real-time train schedules and <span class="font-medium">Google Translate</span> with Italian offline pack.
+  - icon: 📶
+    html: 'Curious about actual download speeds? The <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> publishes median mobile speeds for Italy.'
+  - icon: 📖
+    html: 'Background reading: the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM hub and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> support pages (including the <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel FAQ</a>) answer most first-timer questions.'
+  - icon: 🧭
+    html: 'Multi-country trip? Take a look at our <a href="/denmark-esim/">Denmark eSIM</a> and <a href="/mongolia-esim/">Mongolia eSIM</a> pages as well.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Verify Your Device Supports eSIM'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
@@ -355,7 +361,7 @@ activation_steps:
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: We send the QR code and activation guide by email within about 5 minutes of payment. Not seeing it? Take a look in your spam folder.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -376,7 +382,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Italy eSIM FAQs
+    title: 'Italy eSIM FAQs'
     questions:
     - q: |
         What is Codice Fiscale and why is it a problem for tourists buying SIMs in Italy?
@@ -409,7 +415,7 @@ faq_section:
     - q: |
         What if I accidentally delete my Italy eSIM before my trip?
       a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        Simply log in to your Roami account to fetch the QR code again, which takes about a minute. Keeping a screenshot or PDF from the original email helps too.
     - q: |
         When does the validity period of my Italy eSIM start?
       a: |
@@ -417,53 +423,45 @@ faq_section:
 related_products:
   title: Related Italy eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
+  - name: Macao eSIM
+    flag: img/flags/ma.svg
     price: From $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Slovakia eSIM
+    flag: img/flags/sl.svg
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: Tanzania eSIM
+    flag: img/flags/tz.svg
+    price: From $7.99
+    is_highlight: false
+  - name: Guadeloupe eSIM
+    flag: img/flags/gp.svg
+    price: From $8.99
+    is_highlight: false
+  - name: Denmark eSIM
+    flag: img/flags/dk.svg
     price: From $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
+  - name: Mongolia eSIM
+    flag: img/flags/mo.svg
+    price: From $9.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
+  - name: Liberia eSIM
+    flag: img/flags/lr.svg
+    price: From $27.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+  - name: Ecuador eSIM
+    flag: img/flags/ec.svg
+    price: From $6.99
     is_highlight: false
   - name: France eSIM
     flag: img/flags/fr.svg
     price: From $1.99
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: Egypt eSIM
+    flag: img/flags/eg.svg
+    price: From $2.99
     is_highlight: false
 market_analysis:
   title: 'Italy eSIM vs Local SIM: No Codice Fiscale, No 28-Day Waste, No Card Rejection'
@@ -499,7 +497,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: TIM Tourist costs €30 for 15GB/30 days. Vodafone uses <strong>28-day cycles</strong> (13 charges per year). A 7-day tourist wastes over 75% of the plan's value.
     esim_title: Flexible Short Plans
-    esim_desc: Roami offers 3/7/15/30-day plans starting from $1.99 — <strong>pay only for your actual trip length</strong>. No 30-day forced commitment, no 28-day cycle waste.
+    esim_desc: Roami offers 3/7/15/30-day plans starting from $5.99 — <strong>pay only for your actual trip length</strong>. No 30-day forced commitment, no 28-day cycle waste.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
@@ -540,5 +538,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: No 28-Day/30-Day Sunk Cost
-      desc: TIM costs <b>€30 for 30 days</b>; Vodafone uses <b>28-day cycles</b>. A 7-day tourist wastes <b>75%+</b>. Roami offers <b>7-day plans from $1.99/GB</b> — no waste.
+      desc: TIM costs <b>€30 for 30 days</b>; Vodafone uses <b>28-day cycles</b>. A 7-day tourist wastes <b>75%+</b>. Roami offers <b>7-day plans from $2.99/GB</b> — no waste.
 ---

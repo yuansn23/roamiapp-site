@@ -1,7 +1,7 @@
 ---
 title: South America eSIM | 11 Countries, 5G from $1.99
 description: "Roami South America eSIM: Prepaid 5G in Brazil, Argentina, Chile, Colombia, Peru & 6 more countries. Instant activation, no roaming fees. From $1.99."
-date: '2026-06-11'
+date: '2026-10-10T00:00:00+00:00'
 lastmod: '2026-06-11'
 type: regional-esim
 breadcrumbs:

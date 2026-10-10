@@ -1,11 +1,11 @@
 ---
 title: 'Guatemala eSIM 2026: Tourist & Network Guide | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: Guatemala eSIM
-  scenario_keywords: Guatemala City sightseeing, Antigua colonial walk, Tikal jungle trek, Lake Atitlán kayaking
+  scenario_keywords: Guatemala walking tour, Antigua colonial walk, Lake Atitlán kayaking, Quetzaltenango city tour
   operators: Tigo, Claro, Movistar
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Guatemala City, Antigua, Quetzaltenango, Flores, Mixco
@@ -19,12 +19,11 @@ modal:
     code:web20
 seo:
   title: Guatemala eSIM | Best 5G Data Plan for Your Stay
-  description: Travel to Guatemala with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Guatemala City,
-    Antigua & Quetzaltenango. Instant activation.
+  description: 'Guatemala eSIM: prepaid 5G data up to 20GB, instant QR activation from $11.99. Covers Guatemala City & Antigua.'
   keywords: Guatemala eSIM, buy Guatemala eSIM, best Guatemala eSIM, Guatemala travel eSIM, Tigo Guatemala, Claro Guatemala,
     Movistar Guatemala, Guatemala City eSIM, Antigua eSIM, Quetzaltenango eSIM, Guatemala prepaid eSIM, 5G Guatemala eSIM
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 11.99
+  high_price: 48.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -47,7 +46,7 @@ hero:
   title: 'Guatemala eSIM: Complete Data Solutions for Your Trip'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Guatemala
 features:
-  title: 'Why Guatemala Travelers Choose Roami: Network, Plans & Value'
+  title: 'Why Guatemala Travelers Choose Roami: Data, Coverage & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Guatemala carriers for the best signal
-plans_title: 'Buy Guatemala eSIM: Plans for Every Trip Duration'
+plans_title: 'Guatemala eSIM Data Plans for Every Stay'
 plans_data:
   7 Days:
   - spec: 1GB
@@ -136,17 +135,16 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Guatemala eSIM Coverage: Network Coverage & Operator Comparison'
+  title: 'Guatemala eSIM Coverage: Which Local Networks You Connect To'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Plan Service Details'
     items:
     - icon: map
       color: text-brand-500
       title: Coverage
       desc: Enjoy comprehensive network coverage across Guatemala, including Guatemala City (4G), Antigua (4G), Quetzaltenango
-        (4G), Flores (4G). Your eSIM connects to the robust networks of Tigo, Claro, Movistar, ensuring stable signals in
-        urban centers, tourist hotspots, and along major transportation routes.
+        (4G), Flores (4G). Your eSIM connects to the robust networks of Tigo, Claro, Movistar, ensuring stable signals in city centers, tourist hotspots and along the main transport routes.
     - icon: zap
       color: text-amber-500
       title: Delivery Time
@@ -169,33 +167,37 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Guatemala eSIM Setup Tips: What to Know Before You Go'
+  title: 'Before You Fly to Guatemala: eSIM Setup Checklist'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-ready</a> before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Guatemala.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Your QR code is emailed to you right after checkout.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 📶
+    html: 'Check real-world mobile speeds in Guatemala on the <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> before you fly.'
+  - icon: 📖
+    html: 'New to eSIM? <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> explains the standard, and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> plus its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel guide</a> walk through setup.'
+  - icon: 🧭
+    html: 'Heading further afield? Compare <a href="/thailand-esim/">Thailand eSIM</a> and <a href="/kenya-esim/">Kenya eSIM</a> plans before you book.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Is Your Phone eSIM-Ready?'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Guatemala eSIM: 3 Simple Steps'
+  title: 'Guatemala eSIM Installation: Three Quick Steps'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
-      folder if you don't see it.
+    desc: Once your order is confirmed, we email the QR code and activation guide within about 5 minutes. If it has not arrived, check your spam folder.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -217,16 +219,16 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Guatemala eSIM FAQs
+    title: 'Guatemala eSIM: Frequently Asked Questions'
     questions:
     - q: |
         Can I get an eSIM for Guatemala without spending too much?
       a: |
-        Absolutely. Roami's Guatemala eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+        Absolutely. Roami's Guatemala eSIM plans start from as low as $11.99. The 5GB/15 day option ($35.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($48.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
     - q: |
         Will the Guatemala eSIM unlimited plan slow down if I use too much data?
       a: |
-        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
+        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($48.99) or 20GB ($30.99) fixed plan removes the uncertainty entirely.
     - q: |
         Which carrier in Guatemala should I rely on for my eSIM?
       a: |
@@ -242,11 +244,11 @@ faq_section:
     - q: |
         Can I check how much data I've used on my Guatemala eSIM?
       a: |
-        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
+        You can track data usage in your phone settings (Settings > Cellular > Data Usage on iPhone) or in your Roami account dashboard. Roami also notifies you at 70% and 90% of your plan data.
     - q: |
         What happens if my Guatemala eSIM stops working mid-trip?
       a: |
-        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
+        Start by restarting your phone and turning on Data Roaming. Most problems clear within 2 minutes. If they do not, pick a carrier manually in network settings. Roami 24/7 support can step in if issues persist.
     - q: |
         Does the Guatemala eSIM work in rural areas and smaller towns?
       a: |
@@ -254,53 +256,45 @@ faq_section:
 related_products:
   title: Related Guatemala eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
+  - name: Thailand eSIM
+    flag: img/flags/th.svg
     price: From $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Kenya eSIM
+    flag: img/flags/ke.svg
+    price: From $7.99
+    is_highlight: false
+  - name: New Zealand eSIM
+    flag: img/flags/nz.svg
+    price: From $3.99
+    is_highlight: false
+  - name: Croatia eSIM
+    flag: img/flags/hr.svg
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: Israel eSIM
+    flag: img/flags/il.svg
+    price: From $2.99
+    is_highlight: false
+  - name: Taiwan eSIM
+    flag: img/flags/tw.svg
     price: From $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: Slovakia eSIM
+    flag: img/flags/sl.svg
     price: From $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
+  - name: Zambia eSIM
+    flag: img/flags/za.svg
+    price: From $11.99
+    is_highlight: false
+  - name: Poland eSIM
+    flag: img/flags/pl.svg
     price: From $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: Andorra eSIM
+    flag: img/flags/ad.svg
+    price: From $6.99
     is_highlight: false
 market_analysis:
   title: 'Guatemala eSIM vs Prepaid SIM: Speed, Coverage, and Price Compared'
@@ -342,12 +336,12 @@ market_analysis:
     prepaid_desc: Tigo's 30-day plan costs Q99 for 2GB; Claro's 30-day plan costs Q100 for 3GB; Movistar's 30-day plan costs
       Q100 for 3+3GB. Short-term plans exist but are limited.
     esim_title: Flexible Short-Term Plans
-    esim_desc: Unlike Tigo's 30-day cycle (Q99/2GB), Roami offers 7-day plans starting from $1.99/GB, saving over 70% waste
+    esim_desc: Unlike Tigo's 30-day cycle (Q99/2GB), Roami offers 7-day plans starting from $11.99/GB, saving over 70% waste
       for short trips.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on market knowledge, most prepaid SIMs allow tethering
+    prepaid_desc: Generally, most prepaid SIMs allow tethering
       but may throttle speeds after a certain limit.
     esim_title: Unrestricted Tethering
     esim_desc: Roami eSIM allows full-speed hotspot sharing, unlike some local SIMs that throttle tethering after 3GB/day.

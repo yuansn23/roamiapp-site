@@ -1,6 +1,6 @@
 ---
 title: 'Egypt eSIM - 4G/5G in Cairo & Luxor | No Passport Needed | Roami'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     code:web20
 seo:
   title: Egypt eSIM - Unlimited Prepaid Data for Your Trip
-  description: Get the best Egypt eSIM with 4G/5G on Orange, Vodafone & Etisalat. No passport or hotel address needed — skip airport SIM scams. Covers Cairo, Giza & Luxor. Plans from $1.99.
+  description: 'Egypt eSIM: 5G on Orange, Vodafone, Etisalat. No passport or hotel address needed — skip airport SIM scams. Instant QR activation from $2.99.'
   keywords: Egypt eSIM, buy Egypt eSIM, best Egypt eSIM, Egypt travel eSIM, Orange Egypt, Vodafone Egypt, Etisalat Egypt, Cairo eSIM, Alexandria eSIM, Luxor eSIM, Egypt prepaid eSIM, Giza Pyramids eSIM, Egypt eSIM no passport
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 2.99
+  high_price: 94.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -45,7 +45,7 @@ hero:
   title: 'Egypt eSIM: 4G/5G in Cairo, Luxor & Beyond — No Passport'
   subtitle: 4G/5G on Orange, Vodafone & Etisalat | No passport/hotel address needed | 24/7 support
 features:
-  title: 'Why Egypt Travelers Choose Roami: Coverage, Value & Trust'
+  title: 'Why Egypt Travelers Choose Roami: Data, Coverage & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -269,10 +269,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Egypt eSIM Coverage: Orange, Vodafone & Etisalat 4G/5G Guide'
+  title: 'Egypt eSIM Coverage: Which Local Networks You Connect To'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Service Details'
     items:
     - icon: map
       color: text-brand-500
@@ -303,13 +303,13 @@ reminders:
   title: 'Egypt eSIM Setup Tips: What to Know Before You Go'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-ready</a> before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Egypt.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Your QR code is emailed to you right after checkout.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 🛂
@@ -320,8 +320,14 @@ reminders:
     html: <span class="font-medium">Travel tip:</span> Download <span class="font-medium">Google Translate</span> with Arabic offline pack — it helps with menus, signs, and haggling at Khan el-Khalili.
   - icon: 📡
     html: <span class="font-medium">Pyramids coverage:</span> 4G works at the Giza plateau, but signal can be weaker in desert areas around the pyramids — download offline maps as a backup.
+  - icon: 📶
+    html: 'Check real-world mobile speeds in Egypt on the <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> before you fly.'
+  - icon: 📖
+    html: 'New to eSIM? <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> explains the standard, and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> plus its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel guide</a> walk through setup.'
+  - icon: 🧭
+    html: 'Heading further afield? Compare <a href="/turkey-esim/">Turkey eSIM</a> and <a href="/mali-esim/">Mali eSIM</a> plans before you book.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Quick Compatibility Check'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
@@ -331,7 +337,7 @@ activation_steps:
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: Once your order is confirmed, we email the QR code and activation guide within about 5 minutes. If it has not arrived, check your spam folder.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -352,7 +358,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Egypt eSIM FAQs
+    title: 'Egypt eSIM FAQs'
     questions:
     - q: |
         Why can't I just buy a SIM card at Cairo Airport? I've heard bad things.
@@ -393,7 +399,7 @@ faq_section:
     - q: |
         What if I accidentally delete my Egypt eSIM before my trip?
       a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        No problem — sign in to your Roami account and re-download the QR code in about a minute. It is worth saving it as a screenshot or PDF the first time you receive it.
     - q: |
         When does the validity period of my Egypt eSIM start?
       a: |
@@ -401,52 +407,44 @@ faq_section:
 related_products:
   title: Related Egypt eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
+  - name: Serbia eSIM
+    flag: img/flags/se.svg
     price: From $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Indonesia eSIM
+    flag: img/flags/id.svg
+    price: From $1.99
+    is_highlight: false
+  - name: Tajikistan eSIM
+    flag: img/flags/tj.svg
+    price: From $4.99
+    is_highlight: false
+  - name: Mali eSIM
+    flag: img/flags/ml.svg
+    price: From $27.99
+    is_highlight: false
+  - name: Kenya eSIM
+    flag: img/flags/ke.svg
+    price: From $7.99
+    is_highlight: false
+  - name: Portugal eSIM
+    flag: img/flags/pt.svg
+    price: From $1.99
+    is_highlight: false
+  - name: Kosovo eSIM
+    flag: img/flags/xk.svg
+    price: From $13.99
+    is_highlight: false
+  - name: India eSIM
+    flag: img/flags/in.svg
+    price: From $3.99
+    is_highlight: false
+  - name: Slovakia eSIM
+    flag: img/flags/sl.svg
     price: From $1.99
     is_highlight: false
   - name: Turkey eSIM
     flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
 market_analysis:
@@ -483,7 +481,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: All major operators (Vodafone, Orange, Etisalat) use 30-day billing cycles. A 7-day tourist buying Orange's EGP 200/5GB plan wastes over 75% of the plan's value.
     esim_title: Flexible Short Plans
-    esim_desc: Avoid 30-day plans that waste 75%+ value for short trips. Roami offers 7-day plans starting from $1.99/GB — matching your exact stay duration.
+    esim_desc: Avoid 30-day plans that waste 75%+ value for short trips. Roami offers 7-day plans starting from $4.99 — matching your exact stay duration.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
@@ -524,5 +522,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: No 30-Day Sunk Cost Waste
-      desc: Orange/Vodafone 30-day plans waste <b>75%+</b> for a 7-day trip. Roami offers <b>7-day plans from $1.99/GB</b> — pay only for your trip.
+      desc: Orange/Vodafone 30-day plans waste <b>75%+</b> for a 7-day trip. Roami offers <b>7-day plans from $4.99/GB</b> — pay only for your trip.
 ---

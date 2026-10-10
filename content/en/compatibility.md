@@ -3,7 +3,7 @@ title: "eSIM Compatible Phones & Devices (2026) | Full List"
 description: "Check if your phone supports eSIM in 30 seconds. Full 2026 list of 300+ eSIM-compatible phones, tablets, laptops & watches — iPhone, Samsung, Google Pixel and more."
 keywords: ["eSIM compatible phones", "eSIM compatible devices", "eSIM supported phones"]
 layout: "compatibility"
-date: '2026-09-17T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 type: "page"
 last_updated: "September 2026"
 

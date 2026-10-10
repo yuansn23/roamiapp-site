@@ -1,6 +1,6 @@
 ---
 title: 'Spain eSIM 2026 - Best 5G Plan for Madrid & Barcelona | Roami'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     code:web20
 seo:
   title: Spain eSIM - Fast Prepaid Data Plan for Your Journey
-  description: Get the best Spain prepaid eSIM with 5G on Movistar, Orange & Vodafone. No passport or ID needed — instant QR activation. Includes EU roaming. From $1.99.
+  description: 'Get the best prepaid Spain eSIM with 5G on Movistar, Orange & Vodafone. No passport or ID needed — instant QR activation. Includes EU roaming. From $1.99.'
   keywords: Spain eSIM, buy Spain eSIM, best Spain eSIM, Spain travel eSIM, Movistar Spain, Orange Spain, Vodafone Spain, Madrid eSIM, Barcelona eSIM, Valencia eSIM, Spain prepaid eSIM, 5G Spain eSIM, eSIM for Camino de Santiago, Canary Islands eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -45,7 +45,7 @@ hero:
   title: 'Spain eSIM: 5G in Madrid, Barcelona & Beyond — No Passport Needed'
   subtitle: No ID required | 5G on Movistar, Orange & Vodafone | EU roaming included | Instant QR delivery
 features:
-  title: 'Why Spain Travelers Choose Roami: Speed, Coverage & Support'
+  title: 'Why Travelers Pick Roami for Spain: Speed, Data and Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to Movistar, Orange & Vodafone for the best signal across Spain
-plans_title: 'Buy Spain eSIM: Plans for Every Trip Duration'
+plans_title: 'Spain eSIM Plans Built Around Your Itinerary'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -289,10 +289,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Spain eSIM Coverage: Movistar, Orange & Vodafone Network Guide'
+  title: 'Spain eSIM Coverage: Local Operators Explained'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Service Highlights'
     items:
     - icon: map
       color: text-brand-500
@@ -320,32 +320,38 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Spain eSIM Setup Tips: What to Know Before You Go'
+  title: 'Spain eSIM Setup Steps Every Traveler Should Know'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Before you buy, confirm your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">listed as eSIM compatible</a>.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Spain.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Your eSIM QR code arrives by email after purchase.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 🏪
     html: <span class="font-medium">No need to battle Spanish siesta hours:</span> Many stores close 2-5pm for lunch — with Roami, you buy online 24/7, no store visit required.
+  - icon: 📶
+    html: 'Curious about actual download speeds? The <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> publishes median mobile speeds for Spain.'
+  - icon: 📖
+    html: 'Background reading: the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM hub and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> support pages (including the <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel FAQ</a>) answer most first-timer questions.'
+  - icon: 🧭
+    html: 'Multi-country trip? Take a look at our <a href="/kosovo-esim/">Kosovo eSIM</a> and <a href="/slovenia-esim/">Slovenia eSIM</a> pages as well.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Check Your Phone Compatibility'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Spain eSIM: 3 Simple Steps'
+  title: '3 Steps to Activate Your Spain eSIM'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: We send the QR code and activation guide by email within about 5 minutes of payment. Not seeing it? Take a look in your spam folder.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -366,7 +372,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Spain eSIM FAQs
+    title: 'Spain eSIM FAQ: Speeds, Coverage and Setup'
     questions:
     - q: |
         Do I really not need a passport or ID to use Roami's Spain eSIM?
@@ -407,52 +413,44 @@ faq_section:
 related_products:
   title: Related Spain eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Macedonia eSIM
+    flag: img/flags/ma.svg
+    price: From $4.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Qatar eSIM
+    flag: img/flags/qa.svg
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: Panama eSIM
+    flag: img/flags/pa.svg
+    price: From $11.99
+    is_highlight: false
+  - name: Kosovo eSIM
+    flag: img/flags/xk.svg
+    price: From $13.99
+    is_highlight: false
+  - name: Southeast Asia eSIM
+    flag: img/flags/ya.webp
     price: From $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: Slovakia eSIM
+    flag: img/flags/sl.svg
     price: From $1.99
+    is_highlight: false
+  - name: Faroe Islands eSIM
+    flag: img/flags/fo.svg
+    price: From $5.99
+    is_highlight: false
+  - name: Morocco eSIM
+    flag: img/flags/ma.svg
+    price: From $3.99
     is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: From $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Slovenia eSIM
+    flag: img/flags/sl.svg
     price: From $1.99
     is_highlight: false
 market_analysis:

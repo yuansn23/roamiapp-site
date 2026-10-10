@@ -1,6 +1,6 @@
 ---
 title: 'Guadeloupe eSIM 2026: City & Network Guide | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,13 +19,12 @@ modal:
     code:web20
 seo:
   title: 'Guadeloupe eSIM: 5G Coverage, No ID Verification'
-  description: Compare Guadeloupe eSIM plans with fast 5G in Pointe-à-Pitre, Basse-Terre, Le Gosier. Orange & SFR & Free Mobile
-    coverage guide for tourists & travelers. Instant QR activation from $1.99.
+  description: 'Guadeloupe eSIM plans from $8.99 with 5G on Orange, SFR, Free Mobile. No SIM queue and instant QR activation, with coverage in Pointe-à-Pitre & Basse-Terre.'
   keywords: Guadeloupe eSIM, buy Guadeloupe eSIM, best Guadeloupe eSIM, Guadeloupe travel eSIM, Orange Guadeloupe, SFR Guadeloupe,
     Free Mobile Guadeloupe, Pointe-à-Pitre eSIM, Basse-Terre eSIM, Le Gosier eSIM, Guadeloupe prepaid eSIM, 5G Guadeloupe
     eSIM
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 8.99
+  high_price: 64.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -48,7 +47,7 @@ hero:
   title: 'Guadeloupe eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Guadeloupe
 features:
-  title: 'Why Guadeloupe Travelers Choose Roami: Plans, Network & Support'
+  title: 'Why Travelers Pick Roami for Guadeloupe: Speed, Data and Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -74,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Guadeloupe carriers for the best signal
-plans_title: 'Buy Guadeloupe eSIM: Plans for Every Trip Duration'
+plans_title: 'Guadeloupe eSIM Plans Built Around Your Itinerary'
 plans_data:
   7 Days:
   - spec: 1GB
@@ -137,17 +136,17 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Guadeloupe eSIM Coverage: Mobile Network Operator Guide'
+  title: 'Guadeloupe eSIM Coverage: Local Operators Explained'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Service Highlights'
     items:
     - icon: map
       color: text-brand-500
       title: Coverage
       desc: Enjoy comprehensive network coverage across Guadeloupe, including Pointe-à-Pitre (4G), Basse-Terre (4G), Le Gosier
         (4G), Sainte-Anne (4G). Your eSIM connects to the robust networks of Orange, SFR, Free Mobile, ensuring stable signals
-        in urban centers, tourist hotspots, and along major transportation routes.
+        in busy city districts, tourist areas and on the main routes between them.
     - icon: zap
       color: text-amber-500
       title: Delivery Time
@@ -170,33 +169,37 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Guadeloupe eSIM Setup Tips: What to Know Before You Go'
+  title: 'Guadeloupe eSIM Setup Steps Every Traveler Should Know'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Before you buy, confirm your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">listed as eSIM compatible</a>.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Guadeloupe.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Your eSIM QR code arrives by email after purchase.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 📶
+    html: 'Curious about actual download speeds? The <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> publishes median mobile speeds for Guadeloupe.'
+  - icon: 📖
+    html: 'Background reading: the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM hub and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> support pages (including the <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel FAQ</a>) answer most first-timer questions.'
+  - icon: 🧭
+    html: 'Multi-country trip? Take a look at our <a href="/niger-esim/">Niger eSIM</a> and <a href="/southeast-asia-esim/">Southeast Asia eSIM</a> pages as well.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Verify Your Device Supports eSIM'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Guadeloupe eSIM: 3 Simple Steps'
+  title: '3 Steps to Activate Your Guadeloupe eSIM'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
-      folder if you don't see it.
+    desc: We send the QR code and activation guide by email within about 5 minutes of payment. Not seeing it? Take a look in your spam folder.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -218,7 +221,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Guadeloupe eSIM FAQs
+    title: 'Guadeloupe eSIM FAQ: Speeds, Coverage and Setup'
     questions:
     - q: |
         How does Roami compare to Maya for eSIM in Guadeloupe?
@@ -231,7 +234,7 @@ faq_section:
     - q: |
         What happens if I use all my data in Guadeloupe before my plan expires?
       a: |
-        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
+        You can top up straight from the Roami app. New data kicks in immediately, without a new QR code or reinstall. Topping up at about 20% left keeps you connected without gaps.
     - q: |
         Can I install my Guadeloupe eSIM at the airport, or should I do it before leaving home?
       a: |
@@ -239,7 +242,7 @@ faq_section:
     - q: |
         What documents do I need to buy a Guadeloupe eSIM from Roami?
       a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+        A valid card or wallet is all it takes — credit card, PayPal, Apple Pay or Google Pay. Nothing to upload and no contract to sign. Purchase online and your QR code lands by email within minutes.
     - q: |
         How do I know if my Guadeloupe eSIM plan is active and ready to use?
       a: |
@@ -247,60 +250,128 @@ faq_section:
     - q: |
         What if my hotel in Guadeloupe has free WiFi — do I still need eSIM data?
       a: |
-        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
+        Your room has WiFi, the street does not. With eSIM you stay online while navigating, searching for places and checking transit. A 5GB plan usually costs less than a week of paid hotel WiFi, so hotel WiFi tends to be for large downloads and eSIM for everything else.
     - q: |
         I'm traveling to Guadeloupe for just 2-3 days. What eSIM should I get?
       a: |
-        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+        For a short trip, the 1GB/7 day plan ($8.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($14.99) gives more breathing room. Both activate instantly and you can top up if needed.
 related_products:
   title: Related Guadeloupe eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
+  - name: Romania eSIM
+    flag: img/flags/ro.svg
     price: From $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
   - name: Spain eSIM
     flag: img/flags/es.svg
     price: From $1.99
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
+  - name: Laos eSIM
+    flag: img/flags/la.svg
+    price: From $4.99
+    is_highlight: false
+  - name: Tajikistan eSIM
+    flag: img/flags/tj.svg
+    price: From $4.99
+    is_highlight: false
+  - name: Slovakia eSIM
+    flag: img/flags/sl.svg
     price: From $1.99
     is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Niger eSIM
+    flag: img/flags/ni.svg
+    price: From $23.99
+    is_highlight: false
+  - name: Argentina eSIM
+    flag: img/flags/ar.svg
+    price: From $3.99
+    is_highlight: false
+  - name: Morocco eSIM
+    flag: img/flags/ma.svg
+    price: From $3.99
+    is_highlight: false
+  - name: Uganda eSIM
+    flag: img/flags/ug.svg
+    price: From $7.99
+    is_highlight: false
+  - name: Southeast Asia eSIM
+    flag: img/flags/ya.webp
     price: From $1.99
     is_highlight: false
+market_analysis:
+  title: 'Guadeloupe eSIM vs Prepaid SIM Card: Is It Worth Switching?'
+  subtitle: 'Guadeloupe Local Prepaid SIMs vs. eSIM Solutions'
+  citation:
+    text: 'Data Source: Guadeloupe Operator Sites + Ookla Speedtest Global Index'
+    url: 'https://www.speedtest.net/global-index'
+  table_headers:
+    - 'Comparison Matrix'
+    - 'Local Prepaid SIM (Market Data)'
+    - 'Roami Guadeloupe eSIM'
+  table_rows:
+    - icon: store
+      title: 'Acquisition &<br>Activation'
+      prepaid_title: ''
+      prepaid_desc: 'Prepaid Guadeloupe SIMs are sold through Orange and SFR stores, airport kiosks and street vendors, but expect a queue and a passport check on arrival.'
+      esim_title: 'Instant Digital Delivery'
+      esim_desc: 'Skip the Orange store queue. Your Roami Guadeloupe eSIM arrives by QR code and activates online in under a minute after landing.'
+    - icon: id-card
+      title: 'KYC & Real-Name<br>Registration'
+      prepaid_title: ''
+      prepaid_desc: 'Buying a local Guadeloupe prepaid SIM normally means presenting your passport and, on some networks, a local address.'
+      esim_title: 'No Passport Required'
+      esim_desc: 'Roami Guadeloupe eSIM activates without a passport, a local address or in-store registration, the main friction point with local SIMs.'
+    - icon: globe
+      title: 'International<br>Roaming'
+      prepaid_title: ''
+      prepaid_desc: 'Local Guadeloupe prepaid plans are built for domestic use; roaming into neighbouring countries is often unavailable or billed separately.'
+      esim_title: 'Regional Roaming Included'
+      esim_desc: 'Unlike local Guadeloupe plans, Roami keeps one data pool working as your trip continues beyond Guadeloupe.'
+    - icon: calendar-xmark
+      title: 'Billing Cycle &<br>Sunk Cost'
+      prepaid_title: ''
+      prepaid_desc: 'Local Guadeloupe prepaid bundles often run on fixed 30-day cycles, so a short trip wastes most of the plan value.'
+      esim_title: 'Flexible Plans, No Waste'
+      esim_desc: 'Roami Guadeloupe eSIM plans start from $8.99 for 3 to 30 days, so a short trip never pays for a full month.'
+    - icon: wifi
+      title: 'Hotspot &<br>Speed Policies'
+      prepaid_title: ''
+      prepaid_desc: 'Tethering on local Guadeloupe prepaid SIMs is often restricted or throttled once a daily allowance is used.'
+      esim_title: 'Unrestricted Tethering'
+      esim_desc: 'Roami Guadeloupe eSIM allows full-speed hotspot sharing, so you can connect a laptop or a second phone without a daily cap surprise.'
+    - icon: credit-card
+      title: 'Top-up Payments'
+      prepaid_title: ''
+      prepaid_desc: 'Topping up a local Guadeloupe prepaid SIM usually needs a local card, a voucher or a local payment app.'
+      esim_title: 'Global Payment Accepted'
+      esim_desc: 'Pay for your Roami Guadeloupe eSIM with Visa, Mastercard, AMEX, Apple Pay, Google Pay or PayPal, with no local card or voucher needed.'
+    - icon: headset
+      title: 'Customer Support'
+      prepaid_title: ''
+      prepaid_desc: 'Support for local Guadeloupe prepaid users is typically in the local language during business hours.'
+      esim_title: '24/7 Multilingual Support'
+      esim_desc: 'Roami offers around-the-clock support in English, so a connectivity question never waits for a Guadeloupe business-hours call centre.'
+  expert_verdict:
+    title: 'Guadeloupe eSIM vs Physical SIM Card: Pros and Cons Breakdown'
+    cards:
+      - icon: passport
+        icon_bg: bg-blue-100
+        icon_color: text-blue-600
+        title: 'Skip Passport Registration'
+        desc: 'Local Guadeloupe prepaid SIMs require in-store ID; Roami Guadeloupe eSIM activates instantly with no passport or local address.'
+      - icon: credit-card
+        icon_bg: bg-emerald-100
+        icon_color: text-emerald-600
+        title: 'Global Payment Methods Accepted'
+        desc: 'Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay or PayPal, with no local card or voucher needed for Guadeloupe.'
+      - icon: globe
+        icon_bg: bg-purple-100
+        icon_color: text-purple-600
+        title: 'Seamless Multi-Country Roaming'
+        desc: 'Local Guadeloupe plans are domestic-only. Roami keeps one data pool working as your trip continues beyond Guadeloupe.'
+      - icon: clock
+        icon_bg: bg-indigo-100
+        icon_color: text-indigo-600
+        title: 'Instant Activation, No Queues'
+        desc: 'No airport SIM desk and no Orange store visit. Your Roami Guadeloupe eSIM is live within minutes of landing.'
 ---

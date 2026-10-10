@@ -1,6 +1,6 @@
 ---
 title: 'Japan eSIM 2026 - Best 5G Plan for Tokyo & Kyoto | Roami'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,11 +18,11 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Japan eSIM - Fast Prepaid Data Plan for Explorers
-  description: Get the best Japan prepaid eSIM with 5G on NTT Docomo, SoftBank & KDDI. No ID needed — instant QR activation, 24/7. No activation time windows. From $1.99.
+  title: Japan eSIM - Fast Prepaid Data Plan for Travelers
+  description: 'Get the best prepaid Japan eSIM with 5G on NTT Docomo, SoftBank & KDDI. No ID needed — instant QR activation, 24/7. No activation time windows. From $1.99.'
   keywords: Japan eSIM, buy Japan eSIM, best Japan eSIM, Japan travel eSIM, NTT Docomo Japan, SoftBank Japan, KDDI Japan, Tokyo eSIM, Osaka eSIM, Kyoto eSIM, Japan prepaid eSIM, 5G Japan eSIM, Shinkansen eSIM, onsen eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 71.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -45,7 +45,7 @@ hero:
   title: 'Japan eSIM: 5G in Tokyo, Kyoto & Beyond — No ID Needed'
   subtitle: No ID required | 5G on Docomo, SoftBank & KDDI | 24/7 activation | Instant QR delivery
 features:
-  title: 'Why Japan Travelers Choose Roami: Plans, Network & Support'
+  title: 'What Makes Roami a Good Fit for Japan: Plans and Coverage'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +71,7 @@ features:
     color: from-brand-400 to-brand-600
     title: Auto-Switch
     desc: Auto-connects to NTT Docomo, SoftBank & KDDI for the best signal across Japan
-plans_title: 'Buy Japan eSIM: Plans for Every Trip Duration'
+plans_title: 'Flexible Japan eSIM Plans: Data for Any Trip Length'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -281,10 +281,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Japan eSIM Coverage: NTT Docomo, SoftBank & KDDI Network Guide'
+  title: 'Japan eSIM Coverage: Networks, Bands and Reach'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'What Your eSIM Covers'
     items:
     - icon: map
       color: text-brand-500
@@ -312,32 +312,38 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Japan eSIM Setup Tips: What to Know Before You Go'
+  title: 'Set Up Your Japan eSIM Before Departure: Key Tips'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Check that your device supports eSIM — see the <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">phone compatibility list</a>.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Japan.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: We email your QR code — keep an eye on your inbox.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 🕐
     html: <span class="font-medium">24/7 activation:</span> SoftBank requires 9:00-21:00 JST activation. Roami works anytime — even on late-night flights.
+  - icon: 📶
+    html: 'See how Japan ranks for mobile and broadband speed on the <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a>.'
+  - icon: 📖
+    html: 'Learn how eSIM works from the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a>; device setup steps are documented by <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> and its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">traveling with eSIM guide</a>.'
+  - icon: 🧭
+    html: 'Traveling on from Japan? Prices for <a href="/france-esim/">France eSIM</a> and <a href="/tunisia-esim/">Tunisia eSIM</a> are worth comparing.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Verify Your Device Supports eSIM'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Japan eSIM: 3 Simple Steps'
+  title: 'Japan eSIM Activation: A Simple Three-Step Guide'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: Your QR code and step-by-step activation guide are sent to your inbox roughly 5 minutes after purchase. Do look in spam if it seems missing.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -358,7 +364,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Japan eSIM FAQs
+    title: 'Answers to Common Japan eSIM Questions'
     questions:
     - q: |
         I'm arriving in Japan late at night — can I still activate my eSIM?
@@ -399,52 +405,44 @@ faq_section:
 related_products:
   title: Related Japan eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Tunisia eSIM
+    flag: img/flags/tn.svg
+    price: From $3.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+  - name: Egypt eSIM
+    flag: img/flags/eg.svg
+    price: From $2.99
     is_highlight: false
   - name: France eSIM
     flag: img/flags/fr.svg
     price: From $1.99
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
+  - name: Dominican Republic eSIM
+    flag: img/flags/do.svg
+    price: From $5.99
+    is_highlight: false
+  - name: Estonia eSIM
+    flag: img/flags/ee.svg
     price: From $1.99
+    is_highlight: false
+  - name: Guyana eSIM
+    flag: img/flags/gy.svg
+    price: From $9.99
     is_highlight: false
   - name: Germany eSIM
     flag: img/flags/de.svg
     price: From $1.99
     is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Dominica eSIM
+    flag: img/flags/dm.svg
+    price: From $11.99
+    is_highlight: false
+  - name: Reunion Island eSIM
+    flag: img/flags/re.svg
+    price: From $1.99
+    is_highlight: false
+  - name: Sweden eSIM
+    flag: img/flags/se.svg
     price: From $1.99
     is_highlight: false
 market_analysis:
@@ -481,7 +479,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: b-mobile physical SIM validity starts from the shipping date, not activation; IIJmio top-up validity extends 3 months from last top-up, causing waste for short-term tourists.
     esim_title: Flexible Billing Cycles
-    esim_desc: b-mobile's 30-day plan starts from shipping date, wasting 20-40% of validity. Roami offers 7-day plans starting from $1.99/GB, matching your exact trip length and saving up to 75% waste.
+    esim_desc: b-mobile's 30-day plan starts from shipping date, wasting 20-40% of validity. Roami offers 7-day plans starting from $1.99, matching your exact trip length and saving up to 75% waste.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''

@@ -1,11 +1,11 @@
 ---
 title: 'India eSIM 2026 - Best 5G Plan for Delhi & Taj Mahal | Roami'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: India eSIM
-  scenario_keywords: Delhi sightseeing, Taj Mahal visit, Rajasthan desert tour, Kerala backwaters, Mumbai local travel
+  scenario_keywords: Delhi sightseeing, Taj Mahal visit, Kerala backwaters, Mumbai local travel
   operators: Airtel, Jio, Vi
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Delhi, Mumbai, Bangalore, Chennai, Kolkata
@@ -19,10 +19,10 @@ modal:
     code:web20
 seo:
   title: India eSIM - Fast 5G Prepaid Data for Your Journey
-  description: Get the best India prepaid eSIM with 5G on Airtel, Jio & Vi. No KYC or passport needed — instant QR activation. No 28-day waste. From $1.99.
+  description: 'Get the best prepaid India eSIM with 5G on Airtel, Jio & Vi. No KYC or passport needed — instant QR activation. No 28-day waste. From $3.99.'
   keywords: India eSIM, buy India eSIM, best India eSIM, India travel eSIM, Airtel India, Jio India, Vi India, Delhi eSIM, Mumbai eSIM, Bangalore eSIM, India prepaid eSIM, 5G India eSIM, Taj Mahal eSIM, Jaipur eSIM, Kerala eSIM
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 3.99
+  high_price: 99.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -45,7 +45,7 @@ hero:
   title: 'India eSIM: 5G in Delhi, Mumbai & Beyond — No KYC Needed'
   subtitle: No KYC/No passport required | 5G on Airtel, Jio & Vi | No 28-day waste | Instant QR delivery
 features:
-  title: 'Why India Travelers Choose Roami: Plans, Network & Support'
+  title: 'Why India Travelers Choose Roami: Network, Plans & Value'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -273,10 +273,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'India eSIM Coverage: Airtel, Jio & Vi Network Guide'
+  title: 'India eSIM Coverage: Network Coverage & Operator Comparison'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Service Details'
     items:
     - icon: map
       color: text-brand-500
@@ -307,19 +307,25 @@ reminders:
   title: 'India eSIM Setup Tips: What to Know Before You Go'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-ready</a> before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in India.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Your QR code is emailed to you right after checkout.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 📅
     html: <span class="font-medium">No 28-day waste:</span> Indian prepaid SIMs (Airtel/Jio/Vi) use 28-day cycles — a 5-day tourist wastes 75%+. Roami offers flexible durations with zero wasted days.
+  - icon: 📶
+    html: 'Check real-world mobile speeds in India on the <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> before you fly.'
+  - icon: 📖
+    html: 'New to eSIM? <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> explains the standard, and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> plus its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel guide</a> walk through setup.'
+  - icon: 🧭
+    html: 'Heading further afield? Compare <a href="/thailand-esim/">Thailand eSIM</a> and <a href="/laos-esim/">Laos eSIM</a> plans before you book.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Verify Your Device Supports eSIM'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
@@ -329,7 +335,7 @@ activation_steps:
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: Once your order is confirmed, we email the QR code and activation guide within about 5 minutes. If it has not arrived, check your spam folder.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -350,7 +356,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: India eSIM FAQs
+    title: 'India eSIM FAQs'
     questions:
     - q: |
         What is India's mandatory KYC — and do I need to do it for Roami?
@@ -391,52 +397,44 @@ faq_section:
 related_products:
   title: Related India eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Malawi eSIM
+    flag: img/flags/mw.svg
+    price: From $14.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Grenada eSIM
+    flag: img/flags/gd.svg
+    price: From $11.99
+    is_highlight: false
+  - name: Colombia eSIM
+    flag: img/flags/co.svg
+    price: From $4.99
+    is_highlight: false
+  - name: Guam eSIM
+    flag: img/flags/gu.svg
+    price: From $9.99
+    is_highlight: false
+  - name: Puerto Rico eSIM
+    flag: img/flags/pu.svg
+    price: From $6.99
+    is_highlight: false
+  - name: Laos eSIM
+    flag: img/flags/la.svg
+    price: From $4.99
+    is_highlight: false
+  - name: Maldives eSIM
+    flag: img/flags/mv.svg
+    price: From $14.99
+    is_highlight: false
+  - name: Thailand eSIM
+    flag: img/flags/th.svg
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: Sweden eSIM
+    flag: img/flags/se.svg
     price: From $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Croatia eSIM
+    flag: img/flags/hr.svg
     price: From $1.99
     is_highlight: false
 market_analysis:
@@ -473,7 +471,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Mainstream plans are 28-day cycles (e.g., Vi ₹549 for 3.5GB/day, Airtel ₹349 for 3GB/day, Jio ₹149 for 1.5GB/day); a 5-7 day trip wastes over 75% of the plan's value.
     esim_title: Flexible Short Plans
-    esim_desc: Avoid 28-day waste. Roami offers 7-day plans from $1.99/GB, saving over 75% compared to Vi's ₹549/28-day plan for a 5-day trip.
+    esim_desc: Avoid 28-day waste. Roami offers 7-day plans from $4.99, saving over 75% compared to Vi's ₹549/28-day plan for a 5-day trip.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
@@ -509,7 +507,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Escape 28-Day Billing Cycles That Waste 75% of Your Money
-      desc: Mainstream plans like Vi <b>₹549/28-day</b> or Airtel <b>₹349/28-day</b> force you to pay for 3+ weeks you don't use. Roami's <b>7-day plans from $1.99/GB</b> match your trip length.
+      desc: Mainstream plans like Vi <b>₹549/28-day</b> or Airtel <b>₹349/28-day</b> force you to pay for 3+ weeks you don't use. Roami's <b>7-day plans from $4.99/GB</b> match your trip length.
     - icon: shield
       icon_bg: bg-teal-100
       icon_color: text-teal-600

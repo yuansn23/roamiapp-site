@@ -1,11 +1,11 @@
 ---
 title: 'Philippines eSIM 2026 - Best 5G Plan for Manila & Cebu | Roami'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: Philippines eSIM
-  scenario_keywords: Manila sightseeing, Cebu beach hopping, Palawan island tours, Banaue rice terraces trek, Boracay beach
+  scenario_keywords: Manila sightseeing, Cebu beach hopping, Palawan island tours, Boracay beach
   operators: Globe, Smart, DITO
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Manila, Cebu, Davao, Quezon City, Makati
@@ -19,10 +19,10 @@ modal:
     code:web20
 seo:
   title: Philippines eSIM - 5G Prepaid Data Plan for Travel
-  description: Get the best Philippines prepaid eSIM with 5G on Globe, Smart & DITO. No ID or selfie needed — instant QR activation. Bypass RA 11934 registration. From $1.99.
+  description: 'Get the best prepaid Philippines eSIM with 5G on Globe, Smart & DITO. No ID or selfie needed — instant QR activation. Bypass RA 11934 registration. From $2.99.'
   keywords: Philippines eSIM, buy Philippines eSIM, best Philippines eSIM, Philippines travel eSIM, Globe Philippines, Smart Philippines, DITO Philippines, Manila eSIM, Cebu eSIM, Davao eSIM, Philippines prepaid eSIM, 5G Philippines eSIM, Boracay eSIM, Palawan eSIM
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 2.99
+  high_price: 70.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -45,7 +45,7 @@ hero:
   title: 'Philippines eSIM: 5G in Manila, Cebu & Beyond — No ID Needed'
   subtitle: No KYC/No ID required | 5G on Globe, Smart & DITO | No 30-day waste | Instant QR delivery
 features:
-  title: 'Why Philippines Travelers Choose Roami: Coverage, Speed & Service'
+  title: 'Why Philippines Travelers Choose Roami: Network, Plans & Value'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -281,10 +281,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Philippines eSIM Coverage: Globe, Smart & DITO Network Guide'
+  title: 'Philippines eSIM Coverage: Network Coverage & Operator Comparison'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Service Details'
     items:
     - icon: map
       color: text-brand-500
@@ -315,19 +315,25 @@ reminders:
   title: 'Philippines eSIM Setup Tips: What to Know Before You Go'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-ready</a> before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in the Philippines.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Your QR code is emailed to you right after checkout.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 🪪
     html: <span class="font-medium">No SIM registration needed:</span> Philippines' RA 11934 requires passport + hotel proof + selfie. Roami bypasses all of it. No ID, no wait.
+  - icon: 📶
+    html: 'Check real-world mobile speeds in Philippines on the <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> before you fly.'
+  - icon: 📖
+    html: 'New to eSIM? <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> explains the standard, and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> plus its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel guide</a> walk through setup.'
+  - icon: 🧭
+    html: 'Heading further afield? Compare <a href="/saudi-arabia-esim/">Saudi Arabia eSIM</a> and <a href="/malta-esim/">Malta eSIM</a> plans before you book.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Check Your Phone Compatibility'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
@@ -337,7 +343,7 @@ activation_steps:
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: Once your order is confirmed, we email the QR code and activation guide within about 5 minutes. If it has not arrived, check your spam folder.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -358,7 +364,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Philippines eSIM FAQs
+    title: 'Philippines eSIM FAQs'
     questions:
     - q: |
         What is the Philippines SIM Registration Act (RA 11934) — and do I need to do it for Roami?
@@ -383,7 +389,7 @@ faq_section:
     - q: |
         Is eSIM cheaper than international roaming for the Philippines?
       a: |
-        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for the Philippines costs $8.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for the Philippines costs $6.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
     - q: |
         I'm arriving in the Philippines late at night. Will I be able to get online immediately?
       a: |
@@ -399,53 +405,45 @@ faq_section:
 related_products:
   title: Related Philippines eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
+  - name: Southeast Asia eSIM
+    flag: img/flags/ya.webp
     price: From $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Romania eSIM
+    flag: img/flags/ro.svg
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: Ireland eSIM
+    flag: img/flags/ie.svg
     price: From $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: Liberia eSIM
+    flag: img/flags/lr.svg
+    price: From $27.99
+    is_highlight: false
+  - name: Reunion Island eSIM
+    flag: img/flags/re.svg
     price: From $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
+  - name: Hungary eSIM
+    flag: img/flags/hu.svg
     price: From $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Malta eSIM
+    flag: img/flags/mt.svg
     price: From $1.99
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
+  - name: Netherlands eSIM
+    flag: img/flags/nl.svg
     price: From $1.99
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
+  - name: Saudi Arabia eSIM
+    flag: img/flags/sa.svg
+    price: From $3.99
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: Dominica eSIM
+    flag: img/flags/dm.svg
+    price: From $11.99
     is_highlight: false
 market_analysis:
   title: 'Philippines eSIM vs Prepaid SIM Card: Is It Worth Switching?'
@@ -481,7 +479,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Smart and Globe's high-value plans (e.g., All Data 299 with 24GB, All Data 499 with 48GB) are locked to 30-day cycles; airport tourist SIMs start at ₱1,050 for 30 days, meaning a 5-7 day trip wastes at least 70% of the plan's lifecycle.
     esim_title: Flexible Short-Term Plans
-    esim_desc: Unlike Smart's 30-day lock-in (₱299/24GB) wasting 70% for a 7-day trip, Roami offers 7-day plans starting from $1.99/GB, saving you from forced 30-day cycles.
+    esim_desc: Unlike Smart's 30-day lock-in (₱299/24GB) wasting 70% for a 7-day trip, Roami offers 7-day plans starting from $2.99, saving you from forced 30-day cycles.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
@@ -522,5 +520,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Escape 30-Day Sunk Cost Traps
-      desc: Smart's All Data 299 (₱299/24GB) and Globe's GoSURF299 (₱299/2GB) are locked to 30-day cycles. A 7-day tourist wastes over 70% of the plan. Roami offers 7-day plans from $1.99/GB.
+      desc: Smart's All Data 299 (₱299/24GB) and Globe's GoSURF299 (₱299/2GB) are locked to 30-day cycles. A 7-day tourist wastes over 70% of the plan. Roami offers 7-day plans from $3.99.
 ---

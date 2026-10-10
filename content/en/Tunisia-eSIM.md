@@ -1,6 +1,6 @@
 ---
 title: 'Tunisia eSIM - 4G/5G in Tunis & Sousse | No Airport Queues | Roami'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     code:web20
 seo:
   title: Tunisia eSIM - Best Prepaid Data Plan for Your Stay
-  description: Get the best Tunisia eSIM with 4G/5G on Tunisie Telecom, Orange & Ooredoo. No airport queues, no passport photocopying — instant QR delivery. Covers Tunis, Sousse, Carthage & Hammamet. Plans from $1.99.
+  description: 'Tunisia eSIM: 5G on Tunisie Telecom, Orange Tunisie, Ooredoo Tunisie. No airport queues, no passport photocopying — instant QR delivery. Plans from $3.99.'
   keywords: Tunisia eSIM, buy Tunisia eSIM, best Tunisia eSIM, Tunisia travel eSIM, Tunisie Telecom Tunisia, Orange Tunisie Tunisia, Ooredoo Tunisie Tunisia, Tunis eSIM, Sfax eSIM, Sousse eSIM, Tunisia prepaid eSIM, Carthage eSIM, Hammamet eSIM
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 3.99
+  high_price: 78.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -45,7 +45,7 @@ hero:
   title: 'Tunisia eSIM: 4G/5G in Tunis, Sousse & Beyond'
   subtitle: 4G/5G on Tunisie Telecom, Orange & Ooredoo | No passport photocopying | Instant QR delivery
 features:
-  title: 'Why Tunisia Travelers Choose Roami: Coverage, Convenience & Support'
+  title: 'Why Tunisia Travelers Choose Roami: Network, Plans & Value'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -75,7 +75,7 @@ features:
     color: from-cyan-400 to-cyan-600
     title: Coast & City Coverage
     desc: Strong 4G/5G in Tunis, Sousse, Hammamet, and all major tourist spots
-plans_title: 'Buy Tunisia eSIM: Plans for Every Trip Duration'
+plans_title: 'Tunisia eSIM Data Plans for Every Stay'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -277,10 +277,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Tunisia eSIM Coverage: Tunisie Telecom, Orange & Ooredoo 4G/5G Guide'
+  title: 'Tunisia eSIM Coverage: Network Coverage & Operator Comparison'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Plan Service Details'
     items:
     - icon: map
       color: text-brand-500
@@ -308,16 +308,16 @@ network_coverage:
       coverage: Good coastal coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Tunisia eSIM Setup Tips: What to Know Before You Go'
+  title: 'Before You Fly to Tunisia: eSIM Setup Checklist'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-ready</a> before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Tunisia.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Your QR code is emailed to you right after checkout.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 🏖️
@@ -326,18 +326,24 @@ reminders:
     html: <span class="font-medium">City coverage:</span> Excellent 4G/5G in Tunis, Carthage, Sidi Bou Said, and all tourist attractions — maps and guides load instantly.
   - icon: 🏛️
     html: <span class="font-medium">Travel tip:</span> Download <span class="font-medium">Google Translate</span> with French/Arabic offline packs — it helps with menus, signs, and medina shopping.
+  - icon: 📶
+    html: 'Check real-world mobile speeds in Tunisia on the <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> before you fly.'
+  - icon: 📖
+    html: 'New to eSIM? <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> explains the standard, and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> plus its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel guide</a> walk through setup.'
+  - icon: 🧭
+    html: 'Heading further afield? Compare <a href="/oman-esim/">Oman eSIM</a> and <a href="/india-esim/">India eSIM</a> plans before you book.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Is Your Phone eSIM-Ready?'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Tunisia eSIM: 3 Simple Steps'
+  title: 'Tunisia eSIM Installation: Three Quick Steps'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: Once your order is confirmed, we email the QR code and activation guide within about 5 minutes. If it has not arrived, check your spam folder.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -358,7 +364,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Tunisia eSIM FAQs
+    title: 'Tunisia eSIM: Frequently Asked Questions'
     questions:
     - q: |
         How bad is it really to buy a SIM card at Tunis-Carthage Airport?
@@ -375,11 +381,11 @@ faq_section:
     - q: |
         Do I need to show my passport or get a notarized translation like in Turkey?
       a: |
-        <strong>No notarized translation needed.</strong> Tunisia's local SIM registration requires a passport (like most countries), but there's <strong>no extra burden for non-Latin scripts</strong> — unlike Turkey, which requires公证翻译 for Arabic/Chinese/Russian passports. With Roami, you <strong>don't need to show your passport at all</strong> — no photocopying, no forms, no store visit. Just buy online and go.
+        <strong>No notarized translation needed.</strong> Tunisia's local SIM registration requires a passport (like most countries), but there's <strong>no extra burden for non-Latin scripts</strong> — unlike Turkey, which requires notarized translation for Arabic/Chinese/Russian passports. With Roami, you <strong>don't need to show your passport at all</strong> — no photocopying, no forms, no store visit. Just buy online and go.
     - q: |
         Why are Tunisia eSIM plans more expensive than some European countries?
       a: |
-        Two main reasons: (1) Tunisia's telecom infrastructure is less dense than Europe, so data costs per GB are higher for providers. (2) Local currency (TND) volatility and import fees affect international eSIM pricing. That said, Roami's plans <strong>start from $1.99</strong> — and you're paying for <strong>convenience</strong> (no airport queues, no passport photocopying, no store visits). For a 7-day trip, the time saved alone is worth the small premium.
+        Two main reasons: (1) Tunisia's telecom infrastructure is less dense than Europe, so data costs per GB are higher for providers. (2) Local currency (TND) volatility and import fees affect international eSIM pricing. That said, Roami's plans <strong>start from $3.99</strong> — and you're paying for <strong>convenience</strong> (no airport queues, no passport photocopying, no store visits). For a 7-day trip, the time saved alone is worth the small premium.
     - q: |
         Can I use Google Maps for sightseeing in Tunis, Carthage, and Sidi Bou Said?
       a: |
@@ -391,11 +397,11 @@ faq_section:
     - q: |
         Can I get an eSIM for Tunisia without spending too much?
       a: |
-        Absolutely. Roami's Tunisia eSIM plans start from as low as <strong>$1.99</strong>. The 5GB/15-day option ($10.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and sharing holiday photos. If you're a heavy data user, the 10GB ($16.99) or 20GB ($31.99) plans give you peace of mind. Skipping the airport SIM counter saves you time and the hassle of queuing at Tunis-Carthage.
+        Absolutely. Roami's Tunisia eSIM plans start from as low as <strong>$3.99</strong>. The 5GB/15-day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and sharing holiday photos. If you're a heavy data user, the 10GB ($13.99) or 20GB ($28.99) plans give you peace of mind. Skipping the airport SIM counter saves you time and the hassle of queuing at Tunis-Carthage.
     - q: |
         What if I accidentally delete my Tunisia eSIM before my trip?
       a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        No problem — sign in to your Roami account and re-download the QR code in about a minute. It is worth saving it as a screenshot or PDF the first time you receive it.
     - q: |
         When does the validity period of my Tunisia eSIM start?
       a: |
@@ -403,53 +409,45 @@ faq_section:
 related_products:
   title: Related Tunisia eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Kuwait eSIM
+    flag: img/flags/kw.svg
+    price: From $4.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Kyrgyzstan eSIM
+    flag: img/flags/kg.svg
+    price: From $4.99
+    is_highlight: false
+  - name: Uganda eSIM
+    flag: img/flags/ug.svg
+    price: From $7.99
+    is_highlight: false
+  - name: India eSIM
+    flag: img/flags/in.svg
+    price: From $3.99
+    is_highlight: false
+  - name: Nigeria eSIM
+    flag: img/flags/ng.svg
+    price: From $5.99
+    is_highlight: false
+  - name: South Korea eSIM
+    flag: img/flags/kr.svg
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: Singapore eSIM
+    flag: img/flags/sg.svg
     price: From $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
+  - name: Southeast Asia eSIM
+    flag: img/flags/ya.webp
     price: From $1.99
     is_highlight: false
   - name: Hong Kong eSIM
     flag: img/flags/hk.svg
     price: From $1.99
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: Oman eSIM
+    flag: img/flags/om.svg
+    price: From $5.99
     is_highlight: false
 market_analysis:
   title: 'Tunisia eSIM vs Local SIM: Which Is Better for Your Trip?'
@@ -485,7 +483,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Ooredoo 7-day 1.25GB costs 5 TND; 30-day plans start at 10.5 TND. Tunisie Telecom 30-day 1.1GB costs 4.5 TND. Short-term tourists buy more than they need.
     esim_title: Flexible Plans, Zero Waste
-    esim_desc: Roami offers 3/7/15/30-day plans starting from $1.99 — pay only for your actual trip length. No forced 7-day or 30-day commitments.
+    esim_desc: Roami offers 3/7/15/30-day plans starting from $8.99 — pay only for your actual trip length. No forced 7-day or 30-day commitments.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''

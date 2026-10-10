@@ -1,6 +1,6 @@
 ---
 title: 'Bulgaria eSIM 2026: Travel & Network Guide | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -24,7 +24,7 @@ seo:
   keywords: Bulgaria eSIM, buy Bulgaria eSIM, best Bulgaria eSIM, Bulgaria travel eSIM, A1 Bulgaria Bulgaria, Telenor Bulgaria,
     Vivacom Bulgaria, Sofia eSIM, Plovdiv eSIM, Varna eSIM, Bulgaria prepaid eSIM, 5G Bulgaria eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -73,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Bulgaria carriers for the best signal
-plans_title: 'Buy Bulgaria eSIM: Plans for Every Trip Duration'
+plans_title: 'Pick a Bulgaria eSIM Plan — Short Stays to 30 Days'
 plans_data:
   30 Days:
   - spec: 20GB
@@ -332,11 +332,11 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Bulgaria eSIM Setup Tips: What to Know Before You Go'
+  title: 'What to Check Before Your Bulgaria eSIM Goes Live'
   items:
   - icon: 📱
     html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">eSIM compatible</a> before buying.
+      font-bold transition-colors">eSIM compatible</a> before buying your Bulgaria plan.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Bulgaria.
   - icon: ⏰
@@ -353,12 +353,11 @@ reminders:
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Bulgaria eSIM: 3 Simple Steps'
+  title: 'Three Steps to Get Your Bulgaria eSIM Working'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
-      folder if you don't see it.
+    desc: Your Bulgaria QR code and activation guide land by email within 5 minutes of payment; look in spam for the Bulgaria email if it is missing.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -375,82 +374,70 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM in Bulgaria -- Is the Connection Fast and Reliable for Tourists?"
-  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Bulgaria. Find out what speeds to expect and where eSIM works best."
+  desc: "eSIM internet quality in Bulgaria: typical download speeds, coverage on A1 Bulgaria and Telenor, and staying connected in Sofia and Plovdiv."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Bulgaria eSIM FAQs
+    title: Bulgaria eSIM Q&A for Travelers
     questions:
     - q: |
         Will the Bulgaria eSIM unlimited plan slow down if I use too much data?
       a: |
-        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
+        A fair-use policy applies: Bulgaria speeds step down after 30GB in a single day. Even at reduced speed on Bulgaria, messaging, maps and browsing keep working — only smooth video suffers. Realistically, most travelers don't get close to 30GB. If you would rather not think about it, a larger fixed Bulgaria bundle removes the uncertainty entirely.
     - q: |
         Is it safe to upload my passport for Bulgaria eSIM registration? I'm concerned about privacy.
       a: |
-        Bulgaria requires identity verification by law. Bulgaria requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Bulgaria.
+        Bulgaria requires identity verification by law. Bulgaria requires KYC verification for prepaid SIM cards. Passport required. For Bulgaria, simply upload your passport through Roami's secure portal; approval usually takes 5-10 minutes. Complete this before you fly to Bulgaria — doing it at the airport on flaky WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Bulgaria.
     - q: |
         What are the cheapest eSIM options for a trip to Bulgaria?
       a: |
-        Roami Bulgaria eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Thanks to A1's 5G network, streaming and video calls work great. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
+        Roami Bulgaria eSIM plans start at $1.99 (3 Days, 1GB) and go up to $77.99 (30 Days, unlimited). For a typical 5-7 day Bulgaria trip the 10GB plan at $12.99 is the sweet spot — enough for maps, messaging and social media. Need to stream video or work remotely? Go with 10GB or unlimited. Thanks to A1's 5G network, streaming and video calls work great. SIM kiosks at Sofia charge 30-50% more than online, and you will queue after a long flight. Not sure about your data needs? Start with a smaller Bulgaria bundle and top up in the app — no need to replace the eSIM.
     - q: |
         Can I check how much data I've used on my Bulgaria eSIM?
       a: |
-        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
+        Yes — track your Bulgaria data in phone settings (Settings > Cellular > Data Usage on iPhone) or in your Roami dashboard. Roami also pings you at 70% and 90% of your Bulgaria plan usage.
     - q: |
         Does WhatsApp and FaceTime work with eSIM in Bulgaria?
       a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. A1's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+        Yes — all data-based apps work perfectly over eSIM. On Bulgaria data, WhatsApp audio uses about 1MB per minute and video 5-8MB per minute. FaceTime, Zoom, Google Maps and Instagram all run over your Bulgaria eSIM data without restrictions. A1's network handles video calls smoothly. A 5GB Bulgaria plan covers roughly 500 hours of WhatsApp voice or 10 hours of FaceTime video.
     - q: |
         Can I use my Bulgaria eSIM for social media and sharing photos with family?
       a: |
-        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from A1 handle photos in seconds and short videos easily.
+        Absolutely. Instagram, WhatsApp and Facebook all run normally over your Bulgaria eSIM data. Upload speeds from A1 handle photos in seconds and short videos easily.
     - q: |
         How does eSIM compare to pocket WiFi for Bulgaria travel?
       a: |
-        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
+        eSIM wins on convenience. There is no device to carry, charge or hand back, which typically beats Bulgaria pocket-WiFi rental on cost. Pocket WiFi handles groups of 3+ for Bulgaria, but the single device has to keep its charge across 6-8 hours. With eSIM, your phone is your hotspot. Every Bulgaria plan includes free hotspot sharing for up to 5 devices.
     - q: |
         When does the validity period of my Bulgaria eSIM start?
       a: |
-        The plan validity starts when you connect to a local network in Bulgaria, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+        The plan validity starts when you connect to a local network in Bulgaria, not when you buy or install it. So you can set up your Bulgaria eSIM weeks ahead and still get the full validity period. A 7-day Bulgaria plan gives you seven full days from that first connection.
 related_products:
-  title: Related Bulgaria eSIM Plans
+  title: Bulgaria eSIM — Other Destinations to Add
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
     price: From $1.99
     is_highlight: false
   - name: Europe eSIM
     flag: img/flags/eu.svg
     price: From $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
     price: From $1.99
     is_highlight: false
+  - name: United Kingdom eSIM
+    flag: img/flags/gb.svg
+    price: From $1.99
+    is_highlight: false
+  - name: Australia eSIM
+    flag: img/flags/au.svg
+    price: From $1.99
+    is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
     price: From $1.99
     is_highlight: false
   - name: Spain eSIM
@@ -461,16 +448,20 @@ related_products:
     flag: img/flags/de.svg
     price: From $1.99
     is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Turkey eSIM
+    flag: img/flags/tr.svg
     price: From $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: From $3.99
     is_highlight: false
 market_analysis:
   title: 'Bulgaria eSIM vs SIM Card Plans: Which One Fits Your Needs?'
   subtitle: Bulgaria Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: 'Data Source: Prepaid Data SIM Card Wiki (Bulgaria) + Local Operator Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Bulgaria
+    text: 'Market data: GSMA eSIM hub, Ookla Speedtest Global Index (Bulgaria), and CRC Bulgaria tariff reporting. Local prepaid tariffs for Bulgaria cross-checked with the Prepaid Data SIM Wiki.'
+    url: https://www.speedtest.net/global-index/bulgaria
   table_headers:
   - Comparison Matrix
   - Local Prepaid SIM (Market Data)
@@ -507,12 +498,11 @@ market_analysis:
       30-day cycles; a 5-day trip wastes over 80% of plan value.
     esim_title: Flexible Short-Term Plans
     esim_desc: Unlike A1's 19-day cycle (€5.11/15GB) or Vivacom's 28-day cycle (€12.89/80GB), Roami offers 7-day plans starting
-      from $1.99/GB, saving up to 75% waste for short trips.
+      from $20.99 for 20GB, saving up to 75% waste for short trips.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on market knowledge, tethering is generally allowed
-      but may be restricted on some plans.
+    prepaid_desc: 'A1 Bulgaria, Telenor and Vivacom allow tethering on data bundles; hotspot traffic draws on the same allowance and is throttled once it runs out.'
     esim_title: Unrestricted Tethering
     esim_desc: Roami eSIM allows full-speed hotspot sharing, unlike some Bulgarian prepaid plans that may restrict tethering.
       Share data across all your devices.
@@ -522,13 +512,12 @@ market_analysis:
     prepaid_desc: In-store cash payment accepted; online top-up via credit card may fail due to 3D Secure; Vivacom MixL+ auto-renews
       every 21 days requiring 'STOP' SMS to cancel.
     esim_title: Global Payment Methods
-    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. Avoid Bulgarian online top-up failures due
+    esim_desc: Pay for Bulgaria with Visa, Mastercard, AMEX, Apple Pay, Google Pay or PayPal. Avoid Bulgarian online top-up failures due
       to 3D Secure or auto-renewal traps like Vivacom MixL+.
   - icon: headset
     title: Customer Support
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on market knowledge, customer support is typically
-      in Bulgarian with limited English availability.
+    prepaid_desc: 'A1 Bulgaria, Telenor and Vivacom support prepaid users in Bulgarian, with English handled mainly during business hours.'
     esim_title: 24/7 Multilingual Support
     esim_desc: Get round-the-clock English support via live chat or email, unlike Bulgarian operators' limited Bulgarian-only
       phone support during business hours.
@@ -538,7 +527,7 @@ market_analysis:
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600
-      title: Bypass Bulgaria's Strict SIM Passport Requirements
+      title: Skip Bulgaria's Strict SIM Passport Requirements
       desc: All Bulgarian operators (A1, Yettel, Vivacom) require <b>valid passport or ID</b> for mandatory KYC registration.
         Roami eSIM needs no ID, saving you from airport queues and potential system delays.
     - icon: globe

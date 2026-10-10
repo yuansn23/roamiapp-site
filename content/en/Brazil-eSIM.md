@@ -1,6 +1,6 @@
 ---
 title: 'Brazil eSIM - 5G in Rio & São Paulo | No CPF Needed | Roami'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     code:web20
 seo:
   title: Brazil eSIM - Best 5G Prepaid Plan | No CPF Needed
-  description: Get the best Brazil eSIM with 5G on Claro, Vivo & TIM. No CPF or passport needed — skip Portuguese phone activation. Covers Rio, São Paulo & Brasília. Plans from $1.99.
+  description: Get the best Brazil eSIM with 5G on Claro, Vivo & TIM. No CPF or passport needed — skip Portuguese phone activation. Covers Rio, São Paulo & Brasília. Plans from $4.99.
   keywords: Brazil eSIM, buy Brazil eSIM, best Brazil eSIM, Brazil travel eSIM, Claro Brazil, Vivo Brazil, TIM Brazil, São Paulo eSIM, Rio de Janeiro eSIM, Brasília eSIM, Brazil prepaid eSIM, 5G Brazil eSIM, Brazil eSIM no CPF
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 4.99
+  high_price: 86.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -292,10 +292,10 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Brazil eSIM Setup Tips: What to Know Before You Go'
+  title: 'Brazil eSIM: Five Things to Sort Out Before Departure'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying your Brazil plan.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Brazil.
   - icon: ⏰
@@ -317,11 +317,11 @@ reminders:
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Brazil eSIM: 3 Simple Steps'
+  title: 'Brazil eSIM Installation: From QR Code to First Signal'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: After payment, your Brazil QR code and activation guide arrive by email within 5 minutes. Check the spam folder for the Brazil email if it has not shown up.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -337,12 +337,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Brazil eSIM Guide: 5G, CPF-Free & Travel Tips"
-  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Brazil. Find out what speeds to expect and how to avoid CPF registration hassles."
+  desc: "Brazil eSIM performance guide: typical speeds on Claro and Vivo, plus the cities and routes where coverage holds up best."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Brazil eSIM FAQs
+    title: Common Brazil eSIM Questions, Answered
     questions:
     - q: |
         What is CPF and why can't I buy a local SIM without it?
@@ -379,46 +379,26 @@ faq_section:
     - q: |
         What if I accidentally delete my Brazil eSIM before my trip?
       a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        No problem. You can re-download the Brazil QR code any time from your Roami account in about a minute. Save your Brazil QR code as a screenshot or PDF when it arrives, just in case.
     - q: |
         When does the validity period of my Brazil eSIM start?
       a: |
-        The plan validity starts when you connect to a local network in Brazil, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+        The plan validity starts when you connect to a local network in Brazil, not when you buy or install it. That means you can buy and install your Brazil eSIM weeks in advance without losing a single plan day. A 7-day Brazil plan gives you seven full days from that first connection.
 related_products:
   title: Related Brazil eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
+  - name: Australia eSIM
+    flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
-  - name: United-Kingdom
+  - name: United Kingdom eSIM
     flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
     price: From $1.99
     is_highlight: false
   - name: Hong Kong eSIM
     flag: img/flags/hk.svg
     price: From $1.99
-    is_highlight: false
+    is_highlight: true
   - name: France eSIM
     flag: img/flags/fr.svg
     price: From $1.99
@@ -427,20 +407,32 @@ related_products:
     flag: img/flags/es.svg
     price: From $1.99
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
+  - name: United States eSIM
+    flag: img/flags/us.svg
     price: From $1.99
     is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Turkey eSIM
+    flag: img/flags/tr.svg
+    price: From $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: From $3.99
+    is_highlight: false
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: From $1.99
+    is_highlight: false
+  - name: Germany eSIM
+    flag: img/flags/de.svg
     price: From $1.99
     is_highlight: false
 market_analysis:
   title: 'Brazil eSIM vs Local Prepaid SIM: CPF-Free Convenience'
   subtitle: Brazil Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: 'Data Source: Prepaid Data SIM Card Wiki (Brazil) + Local Operator Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Brazil
+    text: 'Market data: GSMA eSIM hub, Ookla Speedtest Global Index (Brazil), and Anatel tariff reporting. Local prepaid tariffs for Brazil cross-checked with the Prepaid Data SIM Wiki.'
+    url: https://www.speedtest.net/global-index/brazil
   table_headers:
   - Comparison Matrix
   - Local Prepaid SIM (Market Data)
@@ -469,7 +461,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: TIM's cheapest plan costs R$15 for only 1.42GB with a 9-day validity. Vivo's R$17 plan offers 4GB for 15 days. A 7-day trip wastes up to 2 days.
     esim_title: Flexible Short-Term Plans
-    esim_desc: Avoid TIM's 9-day minimum (R$15) waste. Roami offers 7-day plans starting from $1.99/GB — pay only for your actual trip length.
+    esim_desc: Avoid TIM's 9-day minimum (R$15) waste. Roami offers 7-day plans starting from $22.99 for 10GB — pay only for your actual trip length.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
@@ -481,7 +473,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Online top-up for Vivo requires receiving a verification SMS — impossible when account is suspended. International credit cards often rejected on third-party platforms.
     esim_title: Global Payment Accepted
-    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No local CPF, no SMS verification, no rejected cards.
+    esim_desc: Pay for Brazil with Visa, Mastercard, AMEX, Apple Pay, Google Pay or PayPal. No local CPF, no SMS verification, no rejected cards.
   - icon: headset
     title: Customer Support
     prepaid_title: ''

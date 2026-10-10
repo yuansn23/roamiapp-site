@@ -1,6 +1,6 @@
 ---
 title: 'Indonesia eSIM - 5G in Bali & Jakarta | No IMEI Tax | Roami'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     code:web20
 seo:
   title: Indonesia eSIM - Best 5G Prepaid Plan | No IMEI Tax
-  description: Get the best Indonesia eSIM with 5G on Telkomsel, Indosat & XL. No IMEI registration or 40% tax — skip airport price gouging. Covers Bali, Jakarta & Yogyakarta. Plans from $1.99.
+  description: 'Indonesia eSIM: 5G on Telkomsel, Indosat Ooredoo, XL Axiata. No IMEI registration or 40% tax — skip airport price gouging. Instant QR activation from $1.99.'
   keywords: Indonesia eSIM, buy Indonesia eSIM, best Indonesia eSIM, Indonesia travel eSIM, Telkomsel Indonesia, Indosat Ooredoo Indonesia, XL Axiata Indonesia, Jakarta eSIM, Bali eSIM, Yogyakarta eSIM, Indonesia prepaid eSIM, 5G Indonesia eSIM, Indonesia eSIM no IMEI
   low_price: 1.99
-  high_price: 39.9
+  high_price: 68.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -42,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/id.svg
   flag_alt: Indonesia Flag
-  title: 'Indonesia eSIM: 5G in Bali, Jakarta & Beyond — No IMEI Tax, No Airport Markup'
+  title: 'Indonesia eSIM: 5G in Bali, Jakarta & Beyond — No IMEI Tax'
   subtitle: 5G on Telkomsel, Indosat & XL | No IMEI registration | No 40% device tax | 24/7 support
 features:
-  title: 'Why Indonesia Travelers Choose Roami: Coverage, Savings & No IMEI Hassle'
+  title: 'What Makes Roami a Good Fit for Indonesia: Plans and Coverage'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -75,7 +75,7 @@ features:
     color: from-sky-400 to-sky-600
     title: Bali & Islands Ready
     desc: 4G/5G across Bali, Java & major tourist islands — stay connected from Seminyak to Ubud
-plans_title: 'Buy Indonesia eSIM: Plans for Every Trip Duration'
+plans_title: 'Flexible Indonesia eSIM Plans: Data for Any Trip Length'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -293,10 +293,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Indonesia eSIM Coverage: Telkomsel, Indosat & XL 5G Guide — Bali to Java'
+  title: 'Indonesia eSIM Coverage: Networks, Bands and Reach'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'What Your eSIM Covers'
     items:
     - icon: map
       color: text-brand-500
@@ -324,16 +324,16 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Indonesia eSIM Setup Tips: What to Know Before You Go'
+  title: 'Set Up Your Indonesia eSIM Before Departure: Key Tips'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Check that your device supports eSIM — see the <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">phone compatibility list</a>.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Indonesia.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: We email your QR code — keep an eye on your inbox.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 📱
@@ -342,18 +342,24 @@ reminders:
     html: <span class="font-medium">Bali coverage:</span> Strong 4G/5G in Seminyak, Kuta, Denpasar and Ubud — perfect for sharing sunset photos and using ride-hailing apps.
   - icon: 🛕
     html: <span class="font-medium">Local tip:</span> Download <span class="font-medium">Google Translate</span> with Indonesian offline pack — it helps with menus, signs, and local recommendations. Download <span class="font-medium">Gojek</span> and <span class="font-medium">Grab</span> for ride-hailing and food delivery across Indonesia.
+  - icon: 📶
+    html: 'See how Indonesia ranks for mobile and broadband speed on the <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a>.'
+  - icon: 📖
+    html: 'Learn how eSIM works from the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a>; device setup steps are documented by <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> and its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">traveling with eSIM guide</a>.'
+  - icon: 🧭
+    html: 'Traveling on from Indonesia? Prices for <a href="/madagascar-esim/">Madagascar eSIM</a> and <a href="/ukraine-esim/">Ukraine eSIM</a> are worth comparing.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Check Your Phone Compatibility'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Indonesia eSIM: 3 Simple Steps'
+  title: 'Indonesia eSIM Activation: A Simple Three-Step Guide'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: Your QR code and step-by-step activation guide are sent to your inbox roughly 5 minutes after purchase. Do look in spam if it seems missing.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -374,7 +380,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Indonesia eSIM FAQs
+    title: 'Answers to Common Indonesia eSIM Questions'
     questions:
     - q: |
         What is IMEI registration and why could it cost me 40% of my phone's value?
@@ -407,7 +413,7 @@ faq_section:
     - q: |
         What if I accidentally delete my Indonesia eSIM before my trip?
       a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        You can re-download the QR code any time from your Roami account, and it takes about a minute. Saving it as a screenshot or PDF when it first arrives is a good habit.
     - q: |
         When does the validity period of my Indonesia eSIM start?
       a: |
@@ -415,52 +421,44 @@ faq_section:
 related_products:
   title: Related Indonesia eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Argentina eSIM
+    flag: img/flags/ar.svg
+    price: From $3.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Czech Republic eSIM
+    flag: img/flags/cz.svg
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+  - name: Madagascar eSIM
+    flag: img/flags/mg.svg
+    price: From $11.99
     is_highlight: false
   - name: France eSIM
     flag: img/flags/fr.svg
     price: From $1.99
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
+  - name: Vietnam eSIM
+    flag: img/flags/vn.svg
     price: From $1.99
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+  - name: Ivory Coast eSIM
+    flag: img/flags/ci.svg
+    price: From $9.99
     is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Seychelles eSIM
+    flag: img/flags/sc.svg
+    price: From $9.99
+    is_highlight: false
+  - name: Faroe Islands eSIM
+    flag: img/flags/fo.svg
+    price: From $5.99
+    is_highlight: false
+  - name: Sierra Leone eSIM
+    flag: img/flags/si.svg
+    price: From $10.99
+    is_highlight: false
+  - name: Ukraine eSIM
+    flag: img/flags/ua.svg
     price: From $1.99
     is_highlight: false
 market_analysis:
@@ -497,7 +495,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Indosat TravelOn has fixed 10-day validity (Rp 100,000/15GB). Telkomsel SimPATI uses 30-day cycles (Rp 133,000/25GB). A 5-day trip wastes up to 83% of the plan.
     esim_title: Flexible Short-Term Plans
-    esim_desc: Roami offers 3/7/15/30-day plans starting from $1.99 — <strong>pay only for your actual trip length</strong>. No 83% waste, no forced 30-day commitment.
+    esim_desc: Roami offers 3/7/15/30-day plans starting from $6.99 — <strong>pay only for your actual trip length</strong>. No 83% waste, no forced 30-day commitment.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''

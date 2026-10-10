@@ -1,6 +1,6 @@
 ---
 title: 'Taiwan eSIM 2026 - Best 5G Plan for Taipei & Night Markets | Roami'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     code:web20
 seo:
   title: Taiwan eSIM - Unlimited Prepaid Data for Travelers
-  description: Get the best Taiwan prepaid eSIM with 5G on Chunghwa, FarEasTone & Taiwan Mobile. No passport or ID needed — instant QR activation. Skip airport queues. From $1.99.
+  description: 'Taiwan eSIM: 5G on Chunghwa Telecom, FarEasTone, Taiwan Mobile. No passport or ID needed — instant QR activation. Plans from $1.99.'
   keywords: Taiwan eSIM, buy Taiwan eSIM, best Taiwan eSIM, Taiwan travel eSIM, Chunghwa Telecom Taiwan, FarEasTone Taiwan, Taiwan Mobile Taiwan, Taipei eSIM, New Taipei City eSIM, Taichung eSIM, Taiwan prepaid eSIM, 5G Taiwan eSIM, eSIM for Taiwan night markets, Shilin night market eSIM, THSR eSIM, Taipei 101 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -45,7 +45,7 @@ hero:
   title: 'Taiwan eSIM: 5G in Taipei, Night Markets & Beyond — No Passport Needed'
   subtitle: No ID required | 5G on Chunghwa, FarEasTone & Taiwan Mobile | No airport SIM queues | Instant QR delivery
 features:
-  title: 'Why Taiwan Travelers Choose Roami: Plans, Network & Support'
+  title: 'Why Taiwan Travelers Pick Roami: Coverage, Plans and Help'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to Chunghwa, FarEasTone & Taiwan Mobile for the best signal across Taiwan
-plans_title: 'Buy Taiwan eSIM: Plans for Every Trip Duration'
+plans_title: 'Taiwan eSIM Plans: Pick the Length That Fits Your Trip'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -273,10 +273,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Taiwan eSIM Coverage: Chunghwa, FarEasTone & Taiwan Mobile Network Guide'
+  title: 'Taiwan eSIM Coverage: How the Local Networks Compare'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'What''s Included'
     items:
     - icon: map
       color: text-brand-500
@@ -304,32 +304,38 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Taiwan eSIM Setup Tips: What to Know Before You Go'
+  title: 'Taiwan eSIM Setup: What to Check Before You Fly'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Not sure your handset supports eSIM? Check the <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibility checklist</a> first.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Taiwan.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: The QR code is delivered to your inbox once you order.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 🔋
     html: <span class="font-medium">Airport SIMs can't be recharged:</span> Taiwanese tourist SIMs expire on day 3/5/7/15/30 with no top-up option. Roami eSIM plans are flexible — choose the right duration, no wasted days.
+  - icon: 📶
+    html: 'Real-world data speed for Taiwan is tracked by <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> — worth a look before departure.'
+  - icon: 📖
+    html: 'Want the technical background? See the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM pages and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> setup support, plus its guide to <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">using eSIM abroad</a>.'
+  - icon: 🧭
+    html: 'If your itinerary includes other countries, see the <a href="/tanzania-esim/">Tanzania eSIM</a> and <a href="/france-esim/">France eSIM</a> options.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Check Your Phone Compatibility'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Taiwan eSIM: 3 Simple Steps'
+  title: 'Installing Your Taiwan eSIM in Three Steps'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: The QR code plus an activation guide land in your inbox within 5 minutes of ordering. If they do not show up, check spam.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -350,7 +356,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Taiwan eSIM FAQs
+    title: 'Common Taiwan eSIM Questions'
     questions:
     - q: |
         Do I really not need a passport or ID to use Roami's Taiwan eSIM?
@@ -371,7 +377,7 @@ faq_section:
     - q: |
         Is eSIM cheaper than international roaming for Taiwan?
       a: |
-        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Taiwan costs $6.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Taiwan costs $5.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
     - q: |
         I'm arriving in Taiwan late at night. Will I be able to get online immediately?
       a: |
@@ -391,52 +397,44 @@ faq_section:
 related_products:
   title: Related Taiwan eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Eswatini eSIM
+    flag: img/flags/sz.svg
+    price: From $19.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
+  - name: Oman eSIM
+    flag: img/flags/om.svg
+    price: From $5.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+  - name: Jordan eSIM
+    flag: img/flags/jo.svg
+    price: From $6.99
     is_highlight: false
   - name: France eSIM
     flag: img/flags/fr.svg
     price: From $1.99
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
+  - name: Seychelles eSIM
+    flag: img/flags/sc.svg
+    price: From $9.99
+    is_highlight: false
+  - name: Czech Republic eSIM
+    flag: img/flags/cz.svg
     price: From $1.99
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
+  - name: Mozambique eSIM
+    flag: img/flags/mo.svg
+    price: From $14.99
     is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Tanzania eSIM
+    flag: img/flags/tz.svg
+    price: From $7.99
+    is_highlight: false
+  - name: Gibraltar eSIM
+    flag: img/flags/gi.svg
+    price: From $5.99
+    is_highlight: false
+  - name: Latvia eSIM
+    flag: img/flags/lv.svg
     price: From $1.99
     is_highlight: false
 market_analysis:
@@ -473,7 +471,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Chunghwa Telecom's airport tourist SIMs are valid for 3, 5, 7, 10, 15, or 30 days (e.g., 7-day NT$500); city standard packs use 30/60/120/180-day cycles (e.g., 1.2GB/30 days NT$300). Airport SIMs cannot be recharged or extended.
     esim_title: Flexible Short Plans
-    esim_desc: Unlike Chunghwa Telecom's 30-day cycle (NT$1000 for unlimited data) which wastes 77% of value on a 7-day trip, Roami offers 7-day plans starting from $1.99/GB, saving you money.
+    esim_desc: Unlike Chunghwa Telecom's 30-day cycle (NT$1000 for unlimited data) which wastes 77% of value on a 7-day trip, Roami offers 7-day plans starting from $1.99, saving you money.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''

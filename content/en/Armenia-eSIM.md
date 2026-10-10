@@ -1,6 +1,6 @@
 ---
 title: 'Armenia eSIM 2026: City & Network Guide | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,12 +19,10 @@ modal:
     code:web20
 seo:
   title: Armenia eSIM | Best 5G Unlimited Data for Tourists
-  description: Roami's best prepaid travel eSIM for Armenia. Unlimited 5G data with instant activation. Covers Yerevan, Gyumri
-    & Vanadzor. Instant QR activation.
-  keywords: Armenia eSIM, buy Armenia eSIM, best Armenia eSIM, Armenia travel eSIM, Viva-MTS Armenia, Ucom Armenia, Team Telecom
-    Armenia Armenia, Yerevan eSIM, Gyumri eSIM, Vanadzor eSIM, Armenia prepaid eSIM, 5G Armenia eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Roami''s best prepaid Armenia eSIM for your trip. Unlimited 5G data with instant activation. Covers Yerevan, Gyumri & Vanadzor. Instant QR activation.'
+  keywords: Armenia eSIM, buy Armenia eSIM, best Armenia eSIM, Armenia travel eSIM, Viva-MTS Armenia, Ucom Armenia, Team Telecom Armenia, Yerevan eSIM, Gyumri eSIM, Vanadzor eSIM, Armenia prepaid eSIM, 5G Armenia eSIM
+  low_price: 7.99
+  high_price: 98.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -246,14 +244,14 @@ network_coverage:
   title: 'Armenia eSIM Coverage: Network Coverage & Operator Comparison'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Service Details'
     items:
     - icon: map
       color: text-brand-500
       title: Coverage
       desc: Enjoy comprehensive network coverage across Armenia, including Yerevan (4G), Gyumri (4G), Vanadzor (4G), Vagharshapat
         (Ejmiatsin) (4G). Your eSIM connects to the robust networks of Viva-MTS, Ucom, Team Telecom Armenia, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation routes.
+        signals in city centers, tourist hotspots and along the main transport routes.
     - icon: zap
       color: text-amber-500
       title: Delivery Time
@@ -279,18 +277,23 @@ reminders:
   title: 'Armenia eSIM Setup Tips: What to Know Before You Go'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-ready</a> before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Armenia.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Your QR code is emailed to you right after checkout.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 📶
+    html: 'Check real-world mobile speeds in Armenia on the <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> before you fly.'
+  - icon: 📖
+    html: 'New to eSIM? <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> explains the standard, and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> plus its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel guide</a> walk through setup.'
+  - icon: 🧭
+    html: 'Heading further afield? Compare <a href="/congo-esim/">Congo eSIM</a> and <a href="/honduras-esim/">Honduras eSIM</a> plans before you book.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Quick Compatibility Check'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
@@ -301,8 +304,7 @@ activation_steps:
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
-      folder if you don't see it.
+    desc: Once your order is confirmed, we email the QR code and activation guide within about 5 minutes. If it has not arrived, check your spam folder.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -324,7 +326,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Armenia eSIM FAQs
+    title: 'Armenia eSIM FAQs'
     questions:
     - q: |
         Is it safe to upload my passport for Armenia eSIM registration? I'm concerned about privacy.
@@ -333,7 +335,7 @@ faq_section:
     - q: |
         Will the Armenia eSIM unlimited plan slow down if I use too much data?
       a: |
-        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
+        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($23.99) or 20GB ($30.99) fixed plan removes the uncertainty entirely.
     - q: |
         How does Roami compare to Saily for eSIM in Armenia?
       a: |
@@ -341,7 +343,7 @@ faq_section:
     - q: |
         Can I get an eSIM for Armenia without spending too much?
       a: |
-        Absolutely. Roami's Armenia eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+        Absolutely. Roami's Armenia eSIM plans start from as low as $7.99. The 5GB/15 day option ($16.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($23.99) or unlimited ($14.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
     - q: |
         How far in advance should I buy my Armenia eSIM?
       a: |
@@ -361,52 +363,44 @@ faq_section:
 related_products:
   title: Related Armenia eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Congo eSIM
+    flag: img/flags/cg.svg
+    price: From $7.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Egypt eSIM
+    flag: img/flags/eg.svg
+    price: From $2.99
+    is_highlight: false
+  - name: French Guiana eSIM
+    flag: img/flags/gf.svg
+    price: From $3.99
+    is_highlight: false
+  - name: Peru eSIM
+    flag: img/flags/pe.svg
+    price: From $4.99
+    is_highlight: false
+  - name: Southeast Asia eSIM
+    flag: img/flags/ya.webp
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
+  - name: El Salvador eSIM
+    flag: img/flags/sv.svg
+    price: From $23.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
+  - name: Guadeloupe eSIM
+    flag: img/flags/gp.svg
+    price: From $8.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
+  - name: Vatican City eSIM
+    flag: img/flags/va.svg
+    price: From $10.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+  - name: Honduras eSIM
+    flag: img/flags/hn.svg
+    price: From $6.99
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Romania eSIM
+    flag: img/flags/ro.svg
     price: From $1.99
     is_highlight: false
 market_analysis:
@@ -445,12 +439,12 @@ market_analysis:
     prepaid_desc: All major prepaid plans (e.g., Viva-MTS AMD 2500/4GB, Team AMD 1500/3GB) use 30-day cycles; a 3-day trip
       wastes ~90% of the plan's value.
     esim_title: Flexible Short-Term Plans
-    esim_desc: Unlike Viva-MTS's 30-day cycle (AMD 2500/4GB), Roami offers 7-day plans starting from $1.99/GB, saving up to
+    esim_desc: Unlike Viva-MTS's 30-day cycle (AMD 2500/4GB), Roami offers 7-day plans starting from $9.99/GB, saving up to
       90% waste for short trips.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on common practice, tethering is generally allowed
+    prepaid_desc: Based on common practice, tethering is generally allowed
       but may be throttled after fair usage.
     esim_title: Unrestricted Tethering
     esim_desc: Roami allows full-speed hotspot sharing, unlike some local SIMs that may throttle or block tethering after
@@ -486,7 +480,7 @@ market_analysis:
       icon_color: text-amber-600
       title: Eliminate 90% Sunk Cost on 30-Day Plans
       desc: Viva-MTS's cheapest plan (AMD 2500/4GB) is 30-day locked. A 3-day trip wastes ~90% of the value. Roami's 7-day
-        plans start at $1.99/GB.
+        plans start at $9.99/GB.
     - icon: clock
       icon_bg: bg-cyan-100
       icon_color: text-cyan-600

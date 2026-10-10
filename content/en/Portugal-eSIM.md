@@ -1,6 +1,6 @@
 ---
 title: 'Portugal eSIM 2026 - Best 5G Plan for Lisbon & Algarve | Roami'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     code:web20
 seo:
   title: Portugal eSIM - Best 5G Prepaid Plan for Your Journey
-  description: Get the best Portugal prepaid eSIM with 5G on Vodafone, MEO & NOS. No ID needed — instant QR activation. Global payment accepted — no local card restrictions. From $1.99.
+  description: 'Portugal eSIM: 5G on Vodafone Portugal, MEO, NOS. No ID needed — instant QR activation. Plans from $1.99.'
   keywords: Portugal eSIM, buy Portugal eSIM, best Portugal eSIM, Portugal travel eSIM, Vodafone Portugal, MEO Portugal, NOS Portugal, Lisbon eSIM, Porto eSIM, Faro eSIM, Portugal prepaid eSIM, 5G Portugal eSIM, Algarve eSIM, Douro Valley eSIM, Sintra eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 71.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -71,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to Vodafone, MEO & NOS for the best signal across Portugal
-plans_title: 'Buy Portugal eSIM: Plans for Every Trip Duration'
+plans_title: 'Portugal eSIM Plans: Pick the Length That Fits Your Trip'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -289,10 +289,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Portugal eSIM Coverage: Vodafone, MEO & NOS Network Guide'
+  title: 'Portugal eSIM Coverage: Complete Guide to Local Networks'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'What''s Included'
     items:
     - icon: map
       color: text-brand-500
@@ -320,32 +320,38 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Portugal eSIM Setup Tips: What to Know Before You Go'
+  title: 'Portugal eSIM Setup: What to Check Before You Fly'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Check that your device supports eSIM — see the <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">phone compatibility list</a>.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Portugal.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: We email your QR code — keep an eye on your inbox.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 💳
     html: <span class="font-medium">Global payments:</span> MEO/NOS reject international cards; Vodafone requires 3+ month old cards. Roami accepts all global cards — no rejection, no Payshop fees.
+  - icon: 📶
+    html: 'See how Portugal ranks for mobile and broadband speed on the <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a>.'
+  - icon: 📖
+    html: 'Learn how eSIM works from the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a>; device setup steps are documented by <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> and its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">traveling with eSIM guide</a>.'
+  - icon: 🧭
+    html: 'Traveling on from Portugal? Prices for <a href="/tajikistan-esim/">Tajikistan eSIM</a> and <a href="/estonia-esim/">Estonia eSIM</a> are worth comparing.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Quick Compatibility Check'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Portugal eSIM: 3 Simple Steps'
+  title: 'Installing Your Portugal eSIM in Three Steps'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: Your QR code and step-by-step activation guide are sent to your inbox roughly 5 minutes after purchase. Do look in spam if it seems missing.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -366,7 +372,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Portugal eSIM FAQs
+    title: 'Common Portugal eSIM Questions'
     questions:
     - q: |
         Do I need to show ID to buy a SIM card in Portugal?
@@ -407,52 +413,44 @@ faq_section:
 related_products:
   title: Related Portugal eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
+  - name: Morocco eSIM
+    flag: img/flags/ma.svg
+    price: From $3.99
+    is_highlight: true
+  - name: Mali eSIM
+    flag: img/flags/ml.svg
+    price: From $27.99
     is_highlight: false
-  - name: United-Kingdom
+  - name: Tajikistan eSIM
+    flag: img/flags/tj.svg
+    price: From $4.99
+    is_highlight: false
+  - name: United Kingdom eSIM
     flag: img/flags/gb.svg
     price: From $1.99
     is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Estonia eSIM
+    flag: img/flags/ee.svg
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: Dominica eSIM
+    flag: img/flags/dm.svg
+    price: From $11.99
+    is_highlight: false
+  - name: Latvia eSIM
+    flag: img/flags/lv.svg
     price: From $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
+  - name: Ecuador eSIM
+    flag: img/flags/ec.svg
+    price: From $6.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
+  - name: Russia eSIM
+    flag: img/flags/ru.svg
+    price: From $2.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Moldova eSIM
+    flag: img/flags/mo.svg
     price: From $1.99
     is_highlight: false
 market_analysis:
@@ -489,7 +487,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: MEO's weekly plan costs €3.50 for 1GB (7 days); Vodafone's 28-day plan costs €20 for 5GB. A 5-day tourist buying Vodafone's €20/28-day plan wastes over 80% of the plan's value.
     esim_title: Flexible Short-Term Plans
-    esim_desc: Avoid MEO's €14.99/15-day rigid plan or Vodafone's €20/28-day plan that wastes over 80% for a 5-day trip. Roami offers 7-day plans starting from $1.99/GB, saving you money.
+    esim_desc: Avoid MEO's €14.99/15-day rigid plan or Vodafone's €20/28-day plan that wastes over 80% for a 5-day trip. Roami offers 7-day plans starting from $2.99/GB, saving you money.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''

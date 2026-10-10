@@ -1,11 +1,11 @@
 ---
 title: 'Gabon eSIM 2026: Local Carrier Guide | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: Gabon eSIM
-  scenario_keywords: Gabon safari, Libreville sightseeing, beach relaxation, wildlife photography, business travel
+  scenario_keywords: Libreville sightseeing, beach relaxation, wildlife photography, Port-Gentil city tour
   operators: Airtel, Moov Africa, Gabon Telecom
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Libreville, Port-Gentil, Franceville, Oyem, Moanda
@@ -19,12 +19,11 @@ modal:
     code:web20
 seo:
   title: 'Gabon eSIM: Best 5G High-Speed Data for Travelers'
-  description: Compare Gabon eSIM plans with fast 5G in Libreville, Port-Gentil, Franceville. Airtel & Moov Africa & Gabon
-    Telecom coverage guide for tourists & travelers. Instant QR activation from $1.99.
+  description: 'Gabon eSIM: 5G on Airtel, Moov Africa, Gabon Telecom. Instant QR activation from $14.99. Covers Libreville, Port-Gentil & Franceville.'
   keywords: Gabon eSIM, buy Gabon eSIM, best Gabon eSIM, Gabon travel eSIM, Airtel Gabon, Moov Africa Gabon, Gabon Telecom
     Gabon, Libreville eSIM, Port-Gentil eSIM, Franceville eSIM, Gabon prepaid eSIM, 5G Gabon eSIM
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 14.99
+  high_price: 99.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -47,7 +46,7 @@ hero:
   title: 'Gabon eSIM: Stay Connected Everywhere You Go'
   subtitle: Best prepaid eSIM for Gabon travelers - fast 5G, instant activation, 24/7 support
 features:
-  title: 'Why Gabon Travelers Choose Roami: Speed, Coverage & Support'
+  title: 'Why Gabon Travelers Choose Roami: Plans, Network & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Gabon carriers for the best signal
-plans_title: 'Buy Gabon eSIM: Plans for Every Trip Duration'
+plans_title: 'Gabon eSIM Data Plans for Every Stay'
 plans_data:
   7 Days:
   - spec: 1GB
@@ -186,17 +185,17 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Gabon eSIM Coverage: Complete Guide to Local Networks'
+  title: 'Gabon eSIM Coverage: Carrier Guide & Coverage Map'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Plan Service Details'
     items:
     - icon: map
       color: text-brand-500
       title: Coverage
       desc: Enjoy comprehensive network coverage across Gabon, including Libreville (4G), Port-Gentil (4G), Franceville (4G),
         Oyem (4G). Your eSIM connects to the robust networks of Airtel, Moov Africa, Gabon Telecom, ensuring stable signals
-        in urban centers, tourist hotspots, and along major transportation routes.
+        in busy city districts, tourist areas and on the main routes between them.
     - icon: zap
       color: text-amber-500
       title: Delivery Time
@@ -219,33 +218,37 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Gabon eSIM Setup Tips: What to Know Before You Go'
+  title: 'Before You Fly to Gabon: eSIM Setup Checklist'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Before you buy, confirm your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">listed as eSIM compatible</a>.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Gabon.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Your eSIM QR code arrives by email after purchase.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 📶
+    html: 'Curious about actual download speeds? The <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> publishes median mobile speeds for Gabon.'
+  - icon: 📖
+    html: 'Background reading: the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM hub and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> support pages (including the <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel FAQ</a>) answer most first-timer questions.'
+  - icon: 🧭
+    html: 'Multi-country trip? Take a look at our <a href="/croatia-esim/">Croatia eSIM</a> and <a href="/southeast-asia-esim/">Southeast Asia eSIM</a> pages as well.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Check Your Phone Compatibility'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Gabon eSIM: 3 Simple Steps'
+  title: 'Gabon eSIM Installation: Three Quick Steps'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
-      folder if you don't see it.
+    desc: We send the QR code and activation guide by email within about 5 minutes of payment. Not seeing it? Take a look in your spam folder.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -267,7 +270,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Gabon eSIM FAQs
+    title: 'Gabon eSIM: Frequently Asked Questions'
     questions:
     - q: |
         How does Roami compare to Airalo for eSIM in Gabon?
@@ -280,7 +283,7 @@ faq_section:
     - q: |
         How much data does a typical traveler actually use per day in Gabon?
       a: |
-        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+        Average tourist usage runs 300-500MB per day for maps and messaging, up to 1GB with heavy social media. A week fits 5GB and a fortnight fits 10GB. Roami lets you top up easily whenever you need more.
     - q: |
         Can I use navigation apps like Google Maps with eSIM in Gabon?
       a: |
@@ -288,15 +291,15 @@ faq_section:
     - q: |
         What if I accidentally delete my Gabon eSIM before my trip?
       a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        Simply log in to your Roami account to fetch the QR code again, which takes about a minute. Keeping a screenshot or PDF from the original email helps too.
     - q: |
         I'm traveling to Gabon for just 2-3 days. What eSIM should I get?
       a: |
-        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+        For a short trip, the 1GB/7 day plan ($14.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($23.99) gives more breathing room. Both activate instantly and you can top up if needed.
     - q: |
         What documents do I need to buy a Gabon eSIM from Roami?
       a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+        A valid card or wallet is all it takes — credit card, PayPal, Apple Pay or Google Pay. Nothing to upload and no contract to sign. Purchase online and your QR code lands by email within minutes.
     - q: |
         How far in advance should I buy my Gabon eSIM?
       a: |
@@ -304,53 +307,45 @@ faq_section:
 related_products:
   title: Related Gabon eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Guadeloupe eSIM
+    flag: img/flags/gp.svg
+    price: From $8.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Southeast Asia eSIM
+    flag: img/flags/ya.webp
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: Croatia eSIM
+    flag: img/flags/hr.svg
     price: From $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: India eSIM
+    flag: img/flags/in.svg
+    price: From $3.99
+    is_highlight: false
+  - name: Jordan eSIM
+    flag: img/flags/jo.svg
+    price: From $6.99
+    is_highlight: false
+  - name: Qatar eSIM
+    flag: img/flags/qa.svg
     price: From $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
+  - name: Russia eSIM
+    flag: img/flags/ru.svg
+    price: From $2.99
+    is_highlight: false
+  - name: Dominican Republic eSIM
+    flag: img/flags/do.svg
+    price: From $5.99
+    is_highlight: false
+  - name: Ukraine eSIM
+    flag: img/flags/ua.svg
     price: From $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: Israel eSIM
+    flag: img/flags/il.svg
+    price: From $2.99
     is_highlight: false
 market_analysis:
   title: 'Gabon eSIM vs Local Prepaid SIM: Which Is More Convenient?'
@@ -381,7 +376,7 @@ market_analysis:
   - icon: globe
     title: International<br>Roaming
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on market knowledge, local SIMs typically offer no
+    prepaid_desc: Generally, local SIMs typically offer no
       roaming or expensive roaming; eSIM provides multi-country plans.
     esim_title: Multi-Country Roaming
     esim_desc: 'Avoid Gabon Telecom''s lock-in: eSIM offers plans covering multiple African countries, so you stay connected
@@ -393,11 +388,11 @@ market_analysis:
       but are fragmented.
     esim_title: Flexible Daily Plans
     esim_desc: Unlike Gabon Telecom's 2GB/7 days at 4500 CFA or Airtel's 2GB/7 days at 5000 CFA, Roami offers 7-day plans
-      starting from $1.99/GB, eliminating waste from mismatched trip lengths.
+      starting from $14.99/GB, eliminating waste from mismatched trip lengths.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on market knowledge, tethering is generally allowed
+    prepaid_desc: Tethering is generally allowed
       but may be restricted on some plans.
     esim_title: Unrestricted Tethering
     esim_desc: Roami eSIM allows tethering on all plans, unlike some local SIMs that may block or throttle hotspot usage.
@@ -412,7 +407,7 @@ market_analysis:
   - icon: headset
     title: Customer Support
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on market knowledge, support is typically in French,
+    prepaid_desc: Generally, support is typically in French,
       limited hours.
     esim_title: 24/7 Multilingual Support
     esim_desc: Get round-the-clock support in English and French via chat or email, unlike local SIM support which is often

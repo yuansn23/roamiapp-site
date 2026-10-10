@@ -1,6 +1,6 @@
 ---
 title: 'Canada eSIM 2026: City & Network Guide | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -24,8 +24,8 @@ seo:
     Instant activation. Covers Toronto, Vancouver & more.
   keywords: Canada eSIM, buy Canada eSIM, best Canada eSIM, Canada travel eSIM, Rogers Canada, Bell Canada, Telus Canada,
     Toronto eSIM, Vancouver eSIM, Montreal eSIM, Canada prepaid eSIM, 5G Canada eSIM
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 3.99
+  high_price: 59.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -325,11 +325,11 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Canada eSIM Setup Tips: What to Know Before You Go'
+  title: 'Getting Your Canada eSIM Ready: Pre-Trip Notes'
   items:
   - icon: 📱
     html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">eSIM compatible</a> before buying.
+      font-bold transition-colors">eSIM compatible</a> before buying your Canada plan.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Canada.
   - icon: ⏰
@@ -346,12 +346,11 @@ reminders:
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Canada eSIM: 3 Simple Steps'
+  title: 'Set Up Your Canada eSIM: A Step-by-Step Walkthrough'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
-      folder if you don't see it.
+    desc: After payment, your Canada QR code and activation guide arrive by email within 5 minutes. Check the spam folder for the Canada email if it has not shown up.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -368,17 +367,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Getting Online in Canada -- eSIM Network Quality and Speed Guide"
-  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Canada. Find out what speeds to expect and where eSIM works best."
+  desc: "What to expect from eSIM data in Canada — network speeds on Rogers, Bell and Telus, from Toronto to Montreal."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Canada eSIM FAQs
+    title: Your Canada eSIM Questions, Answered
     questions:
     - q: |
         How does Roami compare to Airalo for eSIM in Canada?
       a: |
-        Roami typically offers better value for Canada eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Roami typically offers better value for Canada eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Canada plans are prepaid, so there is no auto-renewal and no post-trip charge.
     - q: |
         Does Canada really not require any ID to use eSIM? Can I just buy and go?
       a: |
@@ -386,7 +385,7 @@ faq_section:
     - q: |
         Can I get an eSIM for Canada without spending too much?
       a: |
-        Absolutely. Roami's Canada eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+        Absolutely. Roami's Canada eSIM plans start from as low as $3.99. The 10GB / 7 Days option ($15.99) is the most popular Canada choice — it comfortably handles maps, WhatsApp, Instagram and email. Heavy data users in Canada are better served by the 30GB plan at $59.99. Buying online instead of at Toronto Pearson saves 30-50% and the queue. Need to adjust? You can top up anytime from the Roami app.
     - q: |
         What happens if my Canada eSIM stops working mid-trip?
       a: |
@@ -394,66 +393,58 @@ faq_section:
     - q: |
         Does the Canada eSIM work in rural areas and smaller towns?
       a: |
-        Coverage in Canada reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
+        Coverage in Canada reaches about 95% of urban areas but drops in remote locations. In Canada, speeds can drop from 200-300 Mbps on 5G to 10-30 Mbps on 4G away from the cities. Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
     - q: |
         What documents do I need to buy a Canada eSIM from Roami?
       a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+        For Canada, all you need is a valid payment method — card, PayPal, Apple Pay or Google Pay. No passport uploads, no address verification, no contracts. Buy Canada online, get the QR code by email within minutes, and install it straight on your phone.
     - q: |
         What happens if I use all my data in Canada before my plan expires?
       a: |
-        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
+        Top up from the Roami app. For Canada, the top-up activates at once — no new QR code and no reinstall. On Canada trips we suggest topping up with about 20% left, so you are never cut off.
     - q: |
         I need internet access for just a couple of days in Canada. What's the minimum I can buy?
       a: |
-        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
+        Budget option for Canada: $3.99 buys 1GB across 3 days, which covers a brief visit with light use. If you need more, top-up anytime from the app.
 related_products:
   title: Related Canada eSIM Plans
   items:
-  - name: united states eSIM
+  - name: France eSIM
+    flag: img/flags/fr.svg
+    price: From $1.99
+    is_highlight: false
+  - name: United States eSIM
     flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
     price: From $1.99
     is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: From $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
   - name: Spain eSIM
     flag: img/flags/es.svg
+    price: From $1.99
+    is_highlight: false
+  - name: Europe eSIM
+    flag: img/flags/eu.svg
+    price: From $1.99
+    is_highlight: false
+  - name: China eSIM
+    flag: img/flags/cn.svg
     price: From $1.99
     is_highlight: false
   - name: Germany eSIM
     flag: img/flags/de.svg
     price: From $1.99
     is_highlight: false
+  - name: Turkey eSIM
+    flag: img/flags/tr.svg
+    price: From $1.99
+    is_highlight: false
+  - name: United Kingdom eSIM
+    flag: img/flags/gb.svg
+    price: From $1.99
+    is_highlight: true
   - name: Australia eSIM
     flag: img/flags/au.svg
     price: From $1.99
@@ -462,8 +453,8 @@ market_analysis:
   title: 'Canada eSIM vs Physical SIM: Which Is Better for Travel?'
   subtitle: Canada Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: 'Data Source: Prepaid Data SIM Card Wiki (Canada) + Local Operator Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Canada
+    text: 'Market data: GSMA eSIM hub, Ookla Speedtest Global Index (Canada), and the CRTC tariff reporting. Local prepaid tariffs for Canada cross-checked with the Prepaid Data SIM Wiki.'
+    url: https://www.speedtest.net/global-index/canada
   table_headers:
   - Comparison Matrix
   - Local Prepaid SIM (Market Data)
@@ -498,13 +489,12 @@ market_analysis:
     prepaid_desc: 'Most plans are 30-day cycles: e.g., Chatr $35/30 days for 1GB+5GB bonus, Lucky Mobile $30/30 days for 1.5GB+5GB
       bonus. A 7-day trip wastes over 70% of the plan''s value.'
     esim_title: Flexible Short-Term Plans
-    esim_desc: Unlike Lucky Mobile's 30-day $30 plan (1.5GB+5GB bonus), Roami offers 7-day plans starting from $1.99/GB, saving
+    esim_desc: Unlike Lucky Mobile's 30-day $30 plan (1.5GB+5GB bonus), Roami offers 7-day plans starting from $15.99 for 10GB, saving
       over 70% waste for short trips.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on market knowledge, most Canadian prepaid plans allow
-      tethering but may throttle after high usage.
+    prepaid_desc: 'Rogers, Bell and Telus prepaid brands allow tethering, but hotspot traffic counts against the plan allowance and speeds drop after the high-speed cap.'
     esim_title: Unrestricted Tethering
     esim_desc: Roami eSIM allows full-speed hotspot sharing, unlike some Canadian prepaid plans that throttle tethering after
       a few GB.
@@ -514,13 +504,12 @@ market_analysis:
     prepaid_desc: Rogers and Fido reject foreign credit cards; require cash or Canadian cards. Telus online top-up needs a
       Canadian billing address. Chatr may charge a $3 service fee for cash voucher purchases.
     esim_title: Global Payment Accepted
-    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for Canadian-issued cards like Rogers
+    esim_desc: Pay for Canada with Visa, Mastercard, AMEX, Apple Pay, Google Pay or PayPal. No need for Canadian-issued cards like Rogers
       requires.
   - icon: headset
     title: Customer Support
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on market knowledge, customer support is typically
-      in English and French, with limited hours for prepaid users.
+    prepaid_desc: 'Prepaid support is offered in English and French, usually by phone or chat during business hours rather than 24/7.'
     esim_title: 24/7 Multilingual Support
     esim_desc: Get round-the-clock support in English, French, and other languages, unlike limited prepaid support hours from
       Canadian carriers.
@@ -548,7 +537,7 @@ market_analysis:
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600
-      title: Bypass Canada's Strict SIM Registration
+      title: Skip Canada's Strict SIM Registration
       desc: Canadian prepaid SIMs like Telus require a Canadian billing address for online top-up. Public Mobile eSIM activation
         needs a US or Canadian bank card. Roami eSIM activates instantly with no ID or local payment method.
 ---

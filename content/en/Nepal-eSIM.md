@@ -1,11 +1,11 @@
 ---
 title: 'Nepal eSIM 2026: Connection & Speed Guide | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: Nepal eSIM
-  scenario_keywords: Kathmandu sightseeing, Everest trekking, Pokhara paragliding, Lumbini pilgrimage, Chitwan safari
+  scenario_keywords: Kathmandu sightseeing, Lumbini pilgrimage, Pokhara city tour, Bharatpur food tour
   operators: Ncell, Nepal Telecom, Smart Cell
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Kathmandu, Pokhara, Bharatpur, Lalitpur, Biratnagar
@@ -19,12 +19,11 @@ modal:
     code:web20
 seo:
   title: Nepal eSIM | Fast Prepaid Data Plan for Visitors
-  description: Travel to Nepal with Roami's best prepaid travel eSIM. Unlimited 5G data. Covers Kathmandu, Pokhara & Bharatpur.
-    Instant QR activation Buy your plan online today.
+  description: 'Nepal eSIM: unlimited 5G data, instant QR activation from $10.99. Covers Kathmandu & Pokhara.'
   keywords: Nepal eSIM, buy Nepal eSIM, best Nepal eSIM, Nepal travel eSIM, Ncell Nepal, Nepal Telecom Nepal, Smart Cell Nepal,
     Kathmandu eSIM, Pokhara eSIM, Bharatpur eSIM, Nepal prepaid eSIM, 5G Nepal eSIM
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 10.99
+  high_price: 124.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -47,7 +46,7 @@ hero:
   title: 'Nepal eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Nepal
 features:
-  title: 'Why Nepal Travelers Choose Roami: Plans, Network & Support'
+  title: 'Why Nepal Travelers Choose Roami: Coverage, Speed & Service'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Nepal carriers for the best signal
-plans_title: 'Buy Nepal eSIM: Plans for Every Trip Duration'
+plans_title: 'Flexible Nepal eSIM Plans: Data for Any Trip Length'
 plans_data:
   7 Days:
   - spec: 3GB
@@ -222,14 +221,13 @@ network_coverage:
   title: 'Nepal eSIM Coverage: Mobile Network Operator Guide'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'What Your eSIM Covers'
     items:
     - icon: map
       color: text-brand-500
       title: Coverage
       desc: Enjoy comprehensive network coverage across Nepal, including Kathmandu (4G), Pokhara (4G), Bharatpur (4G), Lalitpur
-        (4G). Your eSIM connects to the robust networks of Ncell, Nepal Telecom, Smart Cell, ensuring stable signals in urban
-        centers, tourist hotspots, and along major transportation routes.
+        (4G). Your eSIM connects to the robust networks of Ncell, Nepal Telecom, Smart Cell, ensuring stable signals through city centers, popular visitor spots and major transport corridors.
     - icon: zap
       color: text-amber-500
       title: Delivery Time
@@ -252,33 +250,37 @@ network_coverage:
       coverage: Good urban coverage
       network: 4G/LTE Network
 reminders:
-  title: 'Nepal eSIM Setup Tips: What to Know Before You Go'
+  title: 'Set Up Your Nepal eSIM Before Departure: Key Tips'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Not sure your handset supports eSIM? Check the <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibility checklist</a> first.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Nepal.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: The QR code is delivered to your inbox once you order.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 📶
+    html: 'Real-world data speed for Nepal is tracked by <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> — worth a look before departure.'
+  - icon: 📖
+    html: 'Want the technical background? See the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM pages and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> setup support, plus its guide to <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">using eSIM abroad</a>.'
+  - icon: 🧭
+    html: 'If your itinerary includes other countries, see the <a href="/montenegro-esim/">Montenegro eSIM</a> and <a href="/serbia-esim/">Serbia eSIM</a> options.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Quick Compatibility Check'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Nepal eSIM: 3 Simple Steps'
+  title: 'Nepal eSIM Activation: A Simple Three-Step Guide'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
-      folder if you don't see it.
+    desc: The QR code plus an activation guide land in your inbox within 5 minutes of ordering. If they do not show up, check spam.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -300,7 +302,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Nepal eSIM FAQs
+    title: 'Answers to Common Nepal eSIM Questions'
     questions:
     - q: |
         For a tourist in Nepal, is Ncell or NTC the better choice?
@@ -329,60 +331,128 @@ faq_section:
     - q: |
         I need internet access for just a couple of days in Nepal. What's the minimum I can buy?
       a: |
-        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
+        The cheapest plan is $10.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
     - q: |
         What's the most popular eSIM choice for travelers going to Nepal?
       a: |
-        Most travelers to Nepal choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
+        Most travelers to Nepal choose the 5GB/15 day plan ($37.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($57.99) or unlimited ($52.99) plans are great options. All plans activate in minutes and include 24/7 support.
 related_products:
-  title: Related eSIM Plans
+  title: Related Nepal eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
+  - name: Portugal eSIM
+    flag: img/flags/pt.svg
     price: From $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Andorra eSIM
+    flag: img/flags/ad.svg
+    price: From $6.99
+    is_highlight: false
+  - name: Netherlands eSIM
+    flag: img/flags/nl.svg
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: Czech Republic eSIM
+    flag: img/flags/cz.svg
     price: From $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
+  - name: Kosovo eSIM
+    flag: img/flags/xk.svg
+    price: From $13.99
     is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: From $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Montenegro eSIM
+    flag: img/flags/mo.svg
     price: From $1.99
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
+  - name: Lithuania eSIM
+    flag: img/flags/lt.svg
     price: From $1.99
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
+  - name: Congo eSIM
+    flag: img/flags/cg.svg
+    price: From $7.99
+    is_highlight: false
+  - name: Serbia eSIM
+    flag: img/flags/se.svg
     price: From $1.99
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: From $1.99
-    is_highlight: false
+market_analysis:
+  title: 'Nepal eSIM vs Prepaid SIM Card: Is It Worth Switching?'
+  subtitle: 'Nepal Local Prepaid SIMs vs. eSIM Solutions'
+  citation:
+    text: 'Data Source: Nepal Operator Sites + Ookla Speedtest Global Index'
+    url: 'https://www.speedtest.net/global-index'
+  table_headers:
+    - 'Comparison Matrix'
+    - 'Local Prepaid SIM (Market Data)'
+    - 'Roami Nepal eSIM'
+  table_rows:
+    - icon: store
+      title: 'Acquisition &<br>Activation'
+      prepaid_title: ''
+      prepaid_desc: 'Prepaid Nepal SIMs are sold through Ncell and Nepal Telecom stores, airport kiosks and street vendors, but expect a queue and a passport check on arrival.'
+      esim_title: 'Instant Digital Delivery'
+      esim_desc: 'Skip the Ncell store queue. Your Roami Nepal eSIM arrives by QR code and activates online in under a minute after landing.'
+    - icon: id-card
+      title: 'KYC & Real-Name<br>Registration'
+      prepaid_title: ''
+      prepaid_desc: 'Buying a local Nepal prepaid SIM normally means presenting your passport and, on some networks, a local address.'
+      esim_title: 'No Passport Required'
+      esim_desc: 'Roami Nepal eSIM activates without a passport, a local address or in-store registration, the main friction point with local SIMs.'
+    - icon: globe
+      title: 'International<br>Roaming'
+      prepaid_title: ''
+      prepaid_desc: 'Local Nepal prepaid plans are built for domestic use; roaming into neighbouring countries is often unavailable or billed separately.'
+      esim_title: 'Regional Roaming Included'
+      esim_desc: 'Unlike local Nepal plans, Roami keeps one data pool working as your trip continues beyond Nepal.'
+    - icon: calendar-xmark
+      title: 'Billing Cycle &<br>Sunk Cost'
+      prepaid_title: ''
+      prepaid_desc: 'Local Nepal prepaid bundles often run on fixed 30-day cycles, so a short trip wastes most of the plan value.'
+      esim_title: 'Flexible Plans, No Waste'
+      esim_desc: 'Roami Nepal eSIM plans start from $10.99 for 3 to 30 days, so a short trip never pays for a full month.'
+    - icon: wifi
+      title: 'Hotspot &<br>Speed Policies'
+      prepaid_title: ''
+      prepaid_desc: 'Tethering on local Nepal prepaid SIMs is often restricted or throttled once a daily allowance is used.'
+      esim_title: 'Unrestricted Tethering'
+      esim_desc: 'Roami Nepal eSIM allows full-speed hotspot sharing, so you can connect a laptop or a second phone without a daily cap surprise.'
+    - icon: credit-card
+      title: 'Top-up Payments'
+      prepaid_title: ''
+      prepaid_desc: 'Topping up a local Nepal prepaid SIM usually needs a local card, a voucher or a local payment app.'
+      esim_title: 'Global Payment Accepted'
+      esim_desc: 'Pay for your Roami Nepal eSIM with Visa, Mastercard, AMEX, Apple Pay, Google Pay or PayPal, with no local card or voucher needed.'
+    - icon: headset
+      title: 'Customer Support'
+      prepaid_title: ''
+      prepaid_desc: 'Support for local Nepal prepaid users is typically in the local language during business hours.'
+      esim_title: '24/7 Multilingual Support'
+      esim_desc: 'Roami offers around-the-clock support in English, so a connectivity question never waits for a Nepal business-hours call centre.'
+  expert_verdict:
+    title: 'Nepal eSIM vs Physical SIM Card: Pros and Cons Breakdown'
+    cards:
+      - icon: passport
+        icon_bg: bg-blue-100
+        icon_color: text-blue-600
+        title: 'Skip Passport Registration'
+        desc: 'Local Nepal prepaid SIMs require in-store ID; Roami Nepal eSIM activates instantly with no passport or local address.'
+      - icon: credit-card
+        icon_bg: bg-emerald-100
+        icon_color: text-emerald-600
+        title: 'Global Payment Methods Accepted'
+        desc: 'Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay or PayPal, with no local card or voucher needed for Nepal.'
+      - icon: globe
+        icon_bg: bg-purple-100
+        icon_color: text-purple-600
+        title: 'Seamless Multi-Country Roaming'
+        desc: 'Local Nepal plans are domestic-only. Roami keeps one data pool working as your trip continues beyond Nepal.'
+      - icon: clock
+        icon_bg: bg-indigo-100
+        icon_color: text-indigo-600
+        title: 'Instant Activation, No Queues'
+        desc: 'No airport SIM desk and no Ncell store visit. Your Roami Nepal eSIM is live within minutes of landing.'
 ---

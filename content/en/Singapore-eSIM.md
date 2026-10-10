@@ -1,6 +1,6 @@
 ---
 title: 'Singapore eSIM - 5G Island-Wide Coverage | No Airport Queues | Roami'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     code:web20
 seo:
   title: Singapore eSIM - Best 5G Prepaid Plan Island-Wide 
-  description: Get the best Singapore eSIM with 5G island-wide on Singtel, StarHub & M1. No passport queues at Changi — instant QR delivery. Perfect for Marina Bay, Sentosa & Orchard Road. Plans from $1.99.
+  description: 'Singapore eSIM: 5G on Singtel, StarHub, M1. No passport queues at Changi — instant QR delivery. Plans from $1.99.'
   keywords: Singapore eSIM, buy Singapore eSIM, best Singapore eSIM, Singapore travel eSIM, Singtel Singapore, StarHub Singapore, M1 Singapore, Singapore City eSIM, Jurong East eSIM, Tampines eSIM, Singapore prepaid eSIM, 5G Singapore eSIM, Marina Bay eSIM, Sentosa eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 65.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -45,7 +45,7 @@ hero:
   title: 'Singapore eSIM: 5G Island-Wide — Skip the Changi Airport Queue'
   subtitle: 5G on Singtel, StarHub & M1 | No passport registration | Instant QR delivery | 24/7 support
 features:
-  title: 'Why Singapore Travelers Choose Roami: Speed, Coverage & Convenience'
+  title: 'Why Singapore Travelers Choose Roami: Coverage, Speed & Service'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -75,7 +75,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Island-Wide 5G
     desc: Full 5G coverage from Changi Airport to Sentosa — every corner of Singapore
-plans_title: 'Buy Singapore eSIM: Plans for Every Trip Duration'
+plans_title: 'Singapore eSIM Plans: Pick the Length That Fits Your Trip'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -285,10 +285,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Singapore eSIM Coverage: Singtel, StarHub & M1 5G Island-Wide Guide'
+  title: 'Singapore eSIM Coverage: Mobile Network Operator Guide'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'What''s Included'
     items:
     - icon: map
       color: text-brand-500
@@ -316,16 +316,16 @@ network_coverage:
       coverage: Good urban 5G coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Singapore eSIM Setup Tips: What to Know Before You Go'
+  title: 'Singapore eSIM Setup: What to Check Before You Fly'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Not sure your handset supports eSIM? Check the <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibility checklist</a> first.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Singapore.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: The QR code is delivered to your inbox once you order.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 📶
@@ -334,18 +334,24 @@ reminders:
     html: <span class="font-medium">Local travel tip:</span> Download <span class="font-medium">SG BusLeh</span> or <span class="font-medium">Citymapper</span> for real-time bus and MRT schedules — your eSIM data keeps you updated on the go.
   - icon: 🍜
     html: <span class="font-medium">Foodie tip:</span> Use your eSIM data to check hawker centre opening hours and queue lengths at Maxwell, Newton, and Lau Pa Sat.
+  - icon: 📶
+    html: 'Real-world data speed for Singapore is tracked by <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> — worth a look before departure.'
+  - icon: 📖
+    html: 'Want the technical background? See the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM pages and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> setup support, plus its guide to <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">using eSIM abroad</a>.'
+  - icon: 🧭
+    html: 'If your itinerary includes other countries, see the <a href="/hong-kong-esim/">Hong Kong eSIM</a> and <a href="/vietnam-esim/">Vietnam eSIM</a> options.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Quick Compatibility Check'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Singapore eSIM: 3 Simple Steps'
+  title: 'Installing Your Singapore eSIM in Three Steps'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: The QR code plus an activation guide land in your inbox within 5 minutes of ordering. If they do not show up, check spam.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -366,7 +372,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Singapore eSIM FAQs
+    title: 'Common Singapore eSIM Questions'
     questions:
     - q: |
         Is 5G really available everywhere in Singapore? What about Sentosa and Changi Airport?
@@ -403,7 +409,7 @@ faq_section:
     - q: |
         What if I accidentally delete my Singapore eSIM before my trip?
       a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        Head to your Roami account and re-download the QR code — around a minute. Saving that first email as a screenshot or PDF is a sensible backup.
     - q: |
         When does the validity period of my Singapore eSIM start?
       a: |
@@ -411,53 +417,45 @@ faq_section:
 related_products:
   title: Related Singapore eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Iraq eSIM
+    flag: img/flags/iq.svg
+    price: From $9.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Vietnam eSIM
+    flag: img/flags/vn.svg
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: Kazakhstan eSIM
+    flag: img/flags/kz.svg
+    price: From $3.99
+    is_highlight: false
+  - name: Romania eSIM
+    flag: img/flags/ro.svg
     price: From $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: Russia eSIM
+    flag: img/flags/ru.svg
+    price: From $2.99
+    is_highlight: false
+  - name: Finland eSIM
+    flag: img/flags/fi.svg
     price: From $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
+  - name: Grenada eSIM
+    flag: img/flags/gd.svg
+    price: From $11.99
     is_highlight: false
   - name: Hong Kong eSIM
     flag: img/flags/hk.svg
     price: From $1.99
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+  - name: Paraguay eSIM
+    flag: img/flags/py.svg
+    price: From $22.99
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: Guam eSIM
+    flag: img/flags/gu.svg
+    price: From $9.99
     is_highlight: false
 market_analysis:
   title: 'Singapore eSIM vs Local Prepaid SIM: Convenience vs Cost'
@@ -493,7 +491,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Singtel S$20 plan has only 7-day validity; a 5-day stay wastes 28% of the plan's value. 30-day plans exist but are expensive.
     esim_title: Flexible Short-Term Plans
-    esim_desc: Roami offers 3/7/15/30-day plans starting from $1.99 — pay only for your actual trip length. No forced 7-day S$20 packages.
+    esim_desc: Roami offers 3/7/15/30-day plans starting from $5.99 — pay only for your actual trip length. No forced 7-day S$20 packages.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''

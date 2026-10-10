@@ -1,6 +1,6 @@
 ---
 title: 'Oman eSIM - 5G in Muscat & Nizwa | No Passport Hassle | Roami'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     code:web20
 seo:
   title: Oman eSIM - Prepaid 5G Data Plan for Your Journey
-  description: Get the best Oman eSIM with 5G on Omantel, Ooredoo & Vodafone. No passport registration needed — skip airport queues. Covers Muscat, Nizwa & Salalah. Plans from $1.99.
+  description: 'Oman eSIM: 5G on Omantel, Ooredoo, Vodafone. No passport registration needed — skip airport queues. Instant QR activation from $5.99.'
   keywords: Oman eSIM, buy Oman eSIM, best Oman eSIM, Oman travel eSIM, Omantel Oman, Ooredoo Oman, Vodafone Oman, Muscat eSIM, Salalah eSIM, Nizwa eSIM, Oman prepaid eSIM, 5G Oman eSIM, Oman eSIM no passport
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 5.99
+  high_price: 67.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -42,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/om.svg
   flag_alt: Oman Flag
-  title: 'Oman eSIM: 5G in Muscat, Nizwa & Beyond — No Passport, No Airport Queue'
+  title: 'Oman eSIM: 5G in Muscat, Nizwa & Beyond — No Passport Queue'
   subtitle: 5G on Omantel, Ooredoo & Vodafone | No passport registration| 24/7 support
 features:
-  title: 'Why Oman Travelers Choose Roami: Coverage, Convenience & No Passport Hassle'
+  title: 'Why Travelers Pick Roami for Oman: Speed, Data and Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -261,10 +261,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Oman eSIM Coverage: Omantel, Ooredoo & Vodafone 5G Guide — Muscat to Salalah'
+  title: 'Oman eSIM Coverage: Local Operators Explained'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Service Details'
     items:
     - icon: map
       color: text-brand-500
@@ -295,13 +295,13 @@ reminders:
   title: 'Oman eSIM Setup Tips: What to Know Before You Go'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Before you buy, confirm your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">listed as eSIM compatible</a>.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Oman.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Your eSIM QR code arrives by email after purchase.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 🛂
@@ -310,8 +310,14 @@ reminders:
     html: <span class="font-medium">Grand Mosque coverage:</span> Strong 4G/5G at the Sultan Qaboos Grand Mosque — perfect for photos and navigation.
   - icon: 🗺️
     html: <span class="font-medium">Travel tip:</span> Download <span class="font-medium">Google Translate</span> with Arabic offline pack — it helps with menus, signs, and local recommendations.
+  - icon: 📶
+    html: 'Curious about actual download speeds? The <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> publishes median mobile speeds for Oman.'
+  - icon: 📖
+    html: 'Background reading: the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM hub and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> support pages (including the <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel FAQ</a>) answer most first-timer questions.'
+  - icon: 🧭
+    html: 'Multi-country trip? Take a look at our <a href="/serbia-esim/">Serbia eSIM</a> and <a href="/kazakhstan-esim/">Kazakhstan eSIM</a> pages as well.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Verify Your Device Supports eSIM'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
@@ -321,7 +327,7 @@ activation_steps:
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: We send the QR code and activation guide by email within about 5 minutes of payment. Not seeing it? Take a look in your spam folder.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -342,7 +348,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Oman eSIM FAQs
+    title: 'Oman eSIM FAQs'
     questions:
     - q: |
         Why is buying a local SIM in Oman such a hassle for tourists?
@@ -367,60 +373,52 @@ faq_section:
     - q: |
         What if I accidentally delete my Oman eSIM before my trip?
       a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        Simply log in to your Roami account to fetch the QR code again, which takes about a minute. Keeping a screenshot or PDF from the original email helps too.
     - q: |
         When does the validity period of my Oman eSIM start?
       a: |
         The plan validity starts when you connect to a local network in Oman, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
 related_products:
-  title: Related eSIM Plans
+  title: Related Oman eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: El Salvador eSIM
+    flag: img/flags/sv.svg
+    price: From $23.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
+  - name: Ghana eSIM
+    flag: img/flags/gh.svg
+    price: From $7.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
+  - name: Kazakhstan eSIM
+    flag: img/flags/kz.svg
+    price: From $3.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
+  - name: New Zealand eSIM
+    flag: img/flags/nz.svg
+    price: From $3.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
+  - name: Kenya eSIM
+    flag: img/flags/ke.svg
+    price: From $7.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Jamaica eSIM
+    flag: img/flags/jm.svg
+    price: From $11.99
+    is_highlight: false
+  - name: Colombia eSIM
+    flag: img/flags/co.svg
+    price: From $4.99
+    is_highlight: false
+  - name: Thailand eSIM
+    flag: img/flags/th.svg
     price: From $1.99
     is_highlight: false
   - name: France eSIM
     flag: img/flags/fr.svg
     price: From $1.99
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Serbia eSIM
+    flag: img/flags/se.svg
     price: From $1.99
     is_highlight: false
 market_analysis:
@@ -457,7 +455,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: All operators use <strong>30-day billing cycles</strong>. A 7-day tourist wastes over <strong>75%</strong> of the plan's value. No short-term options under 30 days.
     esim_title: Flexible Short Plans
-    esim_desc: Roami offers <strong>3/7/15/30-day plans</strong> starting from $1.99 — pay only for your actual trip length. No 30-day forced commitment.
+    esim_desc: Roami offers <strong>3/7/15/30-day plans</strong> starting from $5.99 — pay only for your actual trip length. No 30-day forced commitment.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
@@ -498,5 +496,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: No 30-Day Sunk Cost Waste
-      desc: Omantel/Ooredoo/Vodafone force <b>30-day plans</b>. A 7-day trip wastes <b>75%+</b>. Roami offers <b>7-day plans from $1.99/GB</b> — no waste.
+      desc: Omantel/Ooredoo/Vodafone force <b>30-day plans</b>. A 7-day trip wastes <b>75%+</b>. Roami offers <b>7-day plans from $5.99/GB</b> — no waste.
 ---

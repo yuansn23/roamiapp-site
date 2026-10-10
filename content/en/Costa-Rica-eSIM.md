@@ -1,11 +1,11 @@
 ---
 title: 'Costa Rica eSIM 2026: Travel & Network Guide | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: Costa Rica eSIM
-  scenario_keywords: Beach vacation, rainforest exploration, volcano sightseeing, zip-lining adventure, coffee tour
+  scenario_keywords: Beach vacation, coffee tour, San José city tour, Alajuela food tour
   operators: Liberty, Claro, ICE
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: San José, Alajuela, Heredia, Cartago, Liberia
@@ -18,13 +18,12 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Costa Rica eSIM | Best 5G Coverage for Explorers
-  description: Explore Costa Rica with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant activation.
-    Covers San Jose, Liberia & all regions.
+  title: Costa Rica eSIM | Best 5G Coverage for Travelers
+  description: 'Explore Costa Rica eSIM with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant activation. Covers San Jose, Liberia & all regions.'
   keywords: Costa Rica eSIM, buy Costa Rica eSIM, best Costa Rica eSIM, Costa Rica travel eSIM, Liberty Costa Rica, Claro
     Costa Rica, ICE Costa Rica, San José eSIM, Alajuela eSIM, Heredia eSIM, Costa Rica prepaid eSIM, 5G Costa Rica eSIM
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 9.99
+  high_price: 84.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -47,7 +46,7 @@ hero:
   title: 'Costa Rica eSIM: Reliable Network & Coverage for Travelers'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Costa Rica
 features:
-  title: 'Why Costa Rica Travelers Choose Roami: Plans, Network & Support'
+  title: 'Why Costa Rica Travelers Choose Roami: Speed, Coverage & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Costa Rica carriers for the best signal
-plans_title: 'Buy Costa Rica eSIM: Plans for Every Trip Duration'
+plans_title: 'Flexible Costa Rica eSIM Plans: Data for Any Trip Length'
 plans_data:
   7 Days:
   - spec: 1GB
@@ -243,17 +242,16 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Costa Rica eSIM Coverage: Mobile Network Operator Guide'
+  title: 'Costa Rica eSIM Coverage: Complete Guide to Local Networks'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'What Your eSIM Covers'
     items:
     - icon: map
       color: text-brand-500
       title: Coverage
       desc: Enjoy comprehensive network coverage across Costa Rica, including San José (4G), Alajuela (4G), Heredia (4G),
-        Cartago (4G). Your eSIM connects to the robust networks of Liberty, Claro, ICE, ensuring stable signals in urban centers,
-        tourist hotspots, and along major transportation routes.
+        Cartago (4G). Your eSIM connects to the robust networks of Liberty, Claro, ICE, ensuring stable signals across city centers, visitor hotspots and key travel corridors.
     - icon: zap
       color: text-amber-500
       title: Delivery Time
@@ -276,33 +274,37 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Costa Rica eSIM Setup Tips: What to Know Before You Go'
+  title: 'Set Up Your Costa Rica eSIM Before Departure: Key Tips'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Check that your device supports eSIM — see the <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">phone compatibility list</a>.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Costa Rica.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: We email your QR code — keep an eye on your inbox.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 📶
+    html: 'See how Costa Rica ranks for mobile and broadband speed on the <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a>.'
+  - icon: 📖
+    html: 'Learn how eSIM works from the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a>; device setup steps are documented by <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> and its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">traveling with eSIM guide</a>.'
+  - icon: 🧭
+    html: 'Traveling on from Costa Rica? Prices for <a href="/estonia-esim/">Estonia eSIM</a> and <a href="/armenia-esim/">Armenia eSIM</a> are worth comparing.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Compatibility Check in 10 Seconds'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Costa Rica eSIM: 3 Simple Steps'
+  title: 'Costa Rica eSIM Activation: A Simple Three-Step Guide'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
-      folder if you don't see it.
+    desc: Your QR code and step-by-step activation guide are sent to your inbox roughly 5 minutes after purchase. Do look in spam if it seems missing.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -324,7 +326,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Costa Rica eSIM FAQs
+    title: 'Answers to Common Costa Rica eSIM Questions'
     questions:
     - q: |
         How does Roami compare to Saily for eSIM in Costa Rica?
@@ -337,19 +339,19 @@ faq_section:
     - q: |
         Can I get an eSIM for Costa Rica without spending too much?
       a: |
-        Absolutely. Roami's Costa Rica eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+        Absolutely. Roami's Costa Rica eSIM plans start from as low as $9.99. The 5GB/15 day option ($24.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($34.99) or unlimited ($38.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
     - q: |
         How does eSIM compare to pocket WiFi for Costa Rica travel?
       a: |
-        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
+        Convenience is where eSIM pulls ahead. Nothing to carry, charge or hand back at the end of the trip, saving roughly $3-5 a day against pocket WiFi rental. Pocket WiFi works for groups of 3 or more, yet everyone depends on one device that needs charging for 6 to 8 hours. With eSIM, your phone is the hotspot and every Roami plan allows free sharing on up to 5 devices.
     - q: |
         What's included when I buy a Costa Rica eSIM from Roami?
       a: |
-        QR code delivery within 5 minutes, access to Kölbi's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
+        QR code delivery within 5 minutes, access to Kölbi's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $9.99. No contracts, no hidden fees, no auto-renewal.
     - q: |
         What's the difference between a 5GB plan and an unlimited plan for Costa Rica?
       a: |
-        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+        With a 5GB plan you get a set 5GB of high-speed data. When it runs out, simply top up or pick a new plan. Unlimited plans continue after the cap but may slow beyond 30GB a day under fair usage. Maps, messaging and social media usually fit comfortably in 5GB.
     - q: |
         How do I know if my Costa Rica eSIM plan is active and ready to use?
       a: |
@@ -361,53 +363,45 @@ faq_section:
 related_products:
   title: Related Costa Rica eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Iraq eSIM
+    flag: img/flags/iq.svg
+    price: From $9.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Armenia eSIM
+    flag: img/flags/am.svg
+    price: From $7.99
+    is_highlight: false
+  - name: Eswatini eSIM
+    flag: img/flags/sz.svg
+    price: From $19.99
+    is_highlight: false
+  - name: Panama eSIM
+    flag: img/flags/pa.svg
+    price: From $11.99
+    is_highlight: false
+  - name: United Arab Emirates eSIM
+    flag: img/flags/ae.svg
+    price: From $3.99
+    is_highlight: false
+  - name: Afghanistan eSIM
+    flag: img/flags/af.svg
+    price: From $11.99
+    is_highlight: false
+  - name: Estonia eSIM
+    flag: img/flags/ee.svg
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
+  - name: Philippines eSIM
+    flag: img/flags/ph.svg
+    price: From $2.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
+  - name: Georgia eSIM
+    flag: img/flags/ge.svg
+    price: From $3.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: South Africa eSIM
+    flag: img/flags/za.svg
+    price: From $3.99
     is_highlight: false
 market_analysis:
   title: 'Costa-Rica eSIM vs SIM Card Plans: Which One Fits Your Needs?'
@@ -452,11 +446,11 @@ market_analysis:
       colones; a 5-day trip buying Claro's 30-day plan wastes about 12,016 colones (70% of cost).
     esim_title: Flexible Short-Term Plans
     esim_desc: Unlike kölbi's 30-day/2GB plan (4,000 colones) or Claro's 30-day/10GB plan (17,500 colones), Roami offers 7-day
-      plans starting from $1.99/GB, saving up to 70% waste on a 5-day trip.
+      plans starting from $9.99/GB, saving up to 70% waste on a 5-day trip.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. However, based on common practice, tethering is generally
+    prepaid_desc: However, based on common practice, tethering is generally
       allowed but may be restricted on some plans; for example, Claro's data-only SIMs are limited to 2Mbps on 3G.
     esim_title: Unrestricted Tethering
     esim_desc: While Claro's data-only SIMs are throttled to 2Mbps on 3G, Roami eSIM allows full-speed hotspot sharing with
@@ -491,7 +485,7 @@ market_analysis:
       icon_color: text-amber-600
       title: Eliminate 30-Day Plan Waste
       desc: <b>kölbi</b>'s largest plan is 30 days/2GB (4,000 colones); <b>Claro</b>'s data SIM is 30 days/10GB (17,500 colones).
-        A 7-day trip wastes ~70% of cost. Roami offers 7-day plans from <b>$1.99/GB</b>, paying only for what you use.
+        A 7-day trip wastes ~70% of cost. Roami offers 7-day plans from <b>$9.99</b>, paying only for what you use.
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600

@@ -1,6 +1,6 @@
 ---
 title: 'Lithuania eSIM 2026: Complete Travel Guide | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,13 +18,12 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Lithuania eSIM | Best 5G Prepaid Data for Explorers
-  description: Travel smart with a prepaid eSIM for Lithuania. Unlimited 5G data with instant activation. Covers Vilnius,
-    Kaunas & Klaipeda Buy your plan online today.
+  title: Lithuania eSIM | Best 5G Prepaid Data for Tourists
+  description: 'Travel smart with a Lithuania eSIM for your trip. Unlimited 5G data with instant activation. Covers Vilnius, Kaunas & Klaipeda Buy your plan online today.'
   keywords: Lithuania eSIM, buy Lithuania eSIM, best Lithuania eSIM, Lithuania travel eSIM, Tele2 Lithuania, Telia Lithuania,
     BITE Lithuania, Vilnius eSIM, Kaunas eSIM, Klaipėda eSIM, Lithuania prepaid eSIM, 5G Lithuania eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -47,7 +46,7 @@ hero:
   title: 'Lithuania eSIM: Complete Data Solutions for Your Trip'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Lithuania travelers
 features:
-  title: 'Why Lithuania Travelers Choose Roami: Coverage, Speed & Service'
+  title: 'Why Lithuania Travelers Choose Roami: Plans, Network & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Lithuania carriers for the best signal
-plans_title: 'Buy Lithuania eSIM: Plans for Every Trip Duration'
+plans_title: 'Lithuania eSIM Plans Built Around Your Itinerary'
 plans_data:
   30 Days:
   - spec: 20GB
@@ -302,14 +301,13 @@ network_coverage:
   title: 'Lithuania eSIM Coverage: Carrier Guide & Coverage Map'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Service Highlights'
     items:
     - icon: map
       color: text-brand-500
       title: Coverage
       desc: Enjoy comprehensive network coverage across Lithuania, including Vilnius (4G), Kaunas (4G), Klaipėda (4G), Šiauliai
-        (4G). Your eSIM connects to the robust networks of Tele2, Telia, BITE, ensuring stable signals in urban centers, tourist
-        hotspots, and along major transportation routes.
+        (4G). Your eSIM connects to the robust networks of Tele2, Telia, BITE, ensuring stable signals in busy city districts, tourist areas and on the main routes between them.
     - icon: zap
       color: text-amber-500
       title: Delivery Time
@@ -332,33 +330,37 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Lithuania eSIM Setup Tips: What to Know Before You Go'
+  title: 'Lithuania eSIM Setup Steps Every Traveler Should Know'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Before you buy, confirm your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">listed as eSIM compatible</a>.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Lithuania.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Your eSIM QR code arrives by email after purchase.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 📶
+    html: 'Curious about actual download speeds? The <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> publishes median mobile speeds for Lithuania.'
+  - icon: 📖
+    html: 'Background reading: the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM hub and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> support pages (including the <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel FAQ</a>) answer most first-timer questions.'
+  - icon: 🧭
+    html: 'Multi-country trip? Take a look at our <a href="/spain-esim/">Spain eSIM</a> and <a href="/tanzania-esim/">Tanzania eSIM</a> pages as well.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Check Your Phone Compatibility'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Lithuania eSIM: 3 Simple Steps'
+  title: '3 Steps to Activate Your Lithuania eSIM'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
-      folder if you don't see it.
+    desc: We send the QR code and activation guide by email within about 5 minutes of payment. Not seeing it? Take a look in your spam folder.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -380,7 +382,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Lithuania eSIM FAQs
+    title: 'Lithuania eSIM FAQ: Speeds, Coverage and Setup'
     questions:
     - q: |
         Which carrier in Lithuania should I rely on for my eSIM?
@@ -393,7 +395,7 @@ faq_section:
     - q: |
         Will the Lithuania eSIM unlimited plan slow down if I use too much data?
       a: |
-        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
+        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($11.99) or 20GB ($20.99) fixed plan removes the uncertainty entirely.
     - q: |
         What do I do if my Lithuania eSIM doesn't connect when I arrive?
       a: |
@@ -401,11 +403,11 @@ faq_section:
     - q: |
         What documents do I need to buy a Lithuania eSIM from Roami?
       a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+        A valid card or wallet is all it takes — credit card, PayPal, Apple Pay or Google Pay. Nothing to upload and no contract to sign. Purchase online and your QR code lands by email within minutes.
     - q: |
         Is eSIM cheaper than international roaming for Lithuania?
       a: |
-        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Lithuania costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Lithuania costs $6.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
     - q: |
         What's the easiest way to stay connected in Lithuania without dealing with airport SIM kiosks?
       a: |
@@ -417,53 +419,45 @@ faq_section:
 related_products:
   title: Related Lithuania eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Nepal eSIM
+    flag: img/flags/ne.svg
+    price: From $10.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Finland eSIM
+    flag: img/flags/fi.svg
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
+  - name: Puerto Rico eSIM
+    flag: img/flags/pu.svg
+    price: From $6.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
+  - name: Tunisia eSIM
+    flag: img/flags/tn.svg
+    price: From $3.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
+  - name: Dominican Republic eSIM
+    flag: img/flags/do.svg
+    price: From $5.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+  - name: Sierra Leone eSIM
+    flag: img/flags/si.svg
+    price: From $10.99
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
+  - name: Tanzania eSIM
+    flag: img/flags/tz.svg
+    price: From $7.99
     is_highlight: false
   - name: Spain eSIM
     flag: img/flags/es.svg
     price: From $1.99
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
+  - name: Ireland eSIM
+    flag: img/flags/ie.svg
     price: From $1.99
     is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: French Guiana eSIM
+    flag: img/flags/gf.svg
+    price: From $3.99
     is_highlight: false
 market_analysis:
   title: 'Lithuania eSIM vs SIM Card Plans: Which One Fits Your Needs?'
@@ -506,12 +500,11 @@ market_analysis:
     prepaid_desc: Most plans are 30-day or 7-day fixed cycles with auto-renewal; a 5-day tourist buying a 30-day plan wastes
       83% of the contract period.
     esim_title: Flexible Short-Term Plans
-    esim_desc: Unlike Ežys' 30-day cycle (€12.99/16.6GB), Roami offers 7-day plans starting from $1.99/GB, saving up to 83%
-      waste for short trips.
+    esim_desc: Unlike Ežys' 30-day cycle (€12.99/16.6GB), Roami offers 7-day plans starting from $2.99, saving up to 83% waste for short trips.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension.
+    prepaid_desc: 
     esim_title: Unrestricted Tethering
     esim_desc: No hidden hotspot bans. Share your connection freely with all your devices.
   - icon: credit-card
@@ -554,5 +547,5 @@ market_analysis:
       icon_color: text-amber-600
       title: Eliminate Sunk Cost from Long Cycles
       desc: Ežys' <b>30-day</b> plan (€12.99/16.6GB) wastes <b>83%</b> for a 5-day trip. Roami's <b>7-day</b> plans start
-        at <b>$1.99/GB</b>, matching your exact stay.
+        at <b>$1.99</b>, matching your exact stay.
 ---

@@ -1,11 +1,11 @@
 ---
 title: 'Jordan eSIM 2026: Complete Travel Guide | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: Jordan eSIM
-  scenario_keywords: Jordan sightseeing, Dead Sea floating, Petra walking tour, Wadi Rum desert safari, Amman city exploration
+  scenario_keywords: Jordan sightseeing, Dead Sea floating, Petra walking tour, Amman city exploration
   operators: Orange Jordan, Zain Jordan, Umniah
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Amman, Zarqa, Irbid, Aqaba, Petra
@@ -19,12 +19,11 @@ modal:
     code:web20
 seo:
   title: 'Jordan 5G eSIM: Instant Activation, Unlimited Data'
-  description: Compare Jordan eSIM plans with fast 5G in Amman, Zarqa, Irbid. Orange Jordan & Zain Jordan & Umniah coverage
-    guide for tourists & travelers. Instant QR activation from $1.99.
-  keywords: Jordan eSIM, buy Jordan eSIM, best Jordan eSIM, Jordan travel eSIM, Orange Jordan Jordan, Zain Jordan Jordan,
+  description: 'Jordan eSIM: 5G on Orange Jordan, Zain Jordan, Umniah. Instant QR activation from $6.99. Covers Amman, Zarqa & Irbid.'
+  keywords: Jordan eSIM, buy Jordan eSIM, best Jordan eSIM, Jordan travel eSIM, Orange Jordan, Zain Jordan,
     Umniah Jordan, Amman eSIM, Zarqa eSIM, Irbid eSIM, Jordan prepaid eSIM, 5G Jordan eSIM
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 6.99
+  high_price: 99.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Jordan carriers for the best signal
-plans_title: 'Buy Jordan eSIM: Plans for Every Trip Duration'
+plans_title: 'Jordan eSIM Plans: Pick the Length That Fits Your Trip'
 plans_data:
   7 Days:
   - spec: 1GB
@@ -222,14 +221,13 @@ network_coverage:
   title: 'Jordan eSIM Coverage: Complete Guide to Local Networks'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'What''s Included'
     items:
     - icon: map
       color: text-brand-500
       title: Coverage
       desc: Enjoy comprehensive network coverage across Jordan, including Amman (4G), Zarqa (4G), Irbid (4G), Aqaba (4G).
-        Your eSIM connects to the robust networks of Orange Jordan, Zain Jordan, Umniah, ensuring stable signals in urban
-        centers, tourist hotspots, and along major transportation routes.
+        Your eSIM connects to the robust networks of Orange Jordan, Zain Jordan, Umniah, ensuring stable signals across city centers, visitor hotspots and key travel corridors.
     - icon: zap
       color: text-amber-500
       title: Delivery Time
@@ -252,33 +250,37 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Jordan eSIM Setup Tips: What to Know Before You Go'
+  title: 'Jordan eSIM Setup: What to Check Before You Fly'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Check that your device supports eSIM — see the <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">phone compatibility list</a>.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Jordan.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: We email your QR code — keep an eye on your inbox.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 📶
+    html: 'See how Jordan ranks for mobile and broadband speed on the <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a>.'
+  - icon: 📖
+    html: 'Learn how eSIM works from the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a>; device setup steps are documented by <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> and its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">traveling with eSIM guide</a>.'
+  - icon: 🧭
+    html: 'Traveling on from Jordan? Prices for <a href="/morocco-esim/">Morocco eSIM</a> and <a href="/sierra-leone-esim/">Sierra Leone eSIM</a> are worth comparing.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Quick Compatibility Check'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Jordan eSIM: 3 Simple Steps'
+  title: 'Installing Your Jordan eSIM in Three Steps'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
-      folder if you don't see it.
+    desc: Your QR code and step-by-step activation guide are sent to your inbox roughly 5 minutes after purchase. Do look in spam if it seems missing.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -300,7 +302,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Jordan eSIM FAQs
+    title: 'Common Jordan eSIM Questions'
     questions:
     - q: |
         Does Roami switch between Zain, Orange, and Umniah in Jordan automatically?
@@ -313,7 +315,7 @@ faq_section:
     - q: |
         How much should I budget for an eSIM when visiting Jordan?
       a: |
-        Roami offers Jordan eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Zain provides reliable speeds across Jordan. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+        Roami offers Jordan eSIM from $6.99 for a 7-day light plan. Most visitors pick the 5GB/15 day plan at $37.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Zain provides reliable speeds across Jordan. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
     - q: |
         Can I use my Jordan eSIM for social media and sharing photos with family?
       a: |
@@ -321,11 +323,11 @@ faq_section:
     - q: |
         I need internet access for just a couple of days in Jordan. What's the minimum I can buy?
       a: |
-        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
+        The cheapest plan is $6.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
     - q: |
         What's the difference between a 5GB plan and an unlimited plan for Jordan?
       a: |
-        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+        With a 5GB plan you get a set 5GB of high-speed data. When it runs out, simply top up or pick a new plan. Unlimited plans continue after the cap but may slow beyond 30GB a day under fair usage. Maps, messaging and social media usually fit comfortably in 5GB.
     - q: |
         Can I buy a Jordan eSIM at the last minute, right before my flight?
       a: |
@@ -337,53 +339,45 @@ faq_section:
 related_products:
   title: Related Jordan eSIM Plans
   items:
-  - name: united states eSIM
+  - name: Dominica eSIM
+    flag: img/flags/dm.svg
+    price: From $11.99
+    is_highlight: true
+  - name: Thailand eSIM
+    flag: img/flags/th.svg
+    price: From $1.99
+    is_highlight: false
+  - name: South Korea eSIM
+    flag: img/flags/kr.svg
+    price: From $1.99
+    is_highlight: false
+  - name: Sierra Leone eSIM
+    flag: img/flags/si.svg
+    price: From $10.99
+    is_highlight: false
+  - name: United States eSIM
     flag: img/flags/us.svg
     price: From $1.99
     is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
+  - name: Kenya eSIM
+    flag: img/flags/ke.svg
+    price: From $7.99
     is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
+  - name: Morocco eSIM
+    flag: img/flags/ma.svg
+    price: From $3.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
+  - name: Ecuador eSIM
+    flag: img/flags/ec.svg
+    price: From $6.99
     is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: From $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: Senegal eSIM
+    flag: img/flags/se.svg
+    price: From $12.99
     is_highlight: false
 market_analysis:
   title: 'Jordan eSIM vs Local Prepaid SIM: Which Is More Convenient?'
@@ -425,7 +419,7 @@ market_analysis:
     prepaid_desc: All prepaid plans strictly follow a 30-day billing cycle; e.g., Zain's 10 JOD plan offers only 2GB for 30
       days, wasting 25 days for a 5-day trip.
     esim_title: Flexible Short-Term Plans
-    esim_desc: Avoid 30-day plans like Zain's 10 JOD/2GB (waste 25 days). Roami offers 7-day plans starting from $1.99/GB,
+    esim_desc: Avoid 30-day plans like Zain's 10 JOD/2GB (waste 25 days). Roami offers 7-day plans starting from $6.99,
       saving up to 75% waste.
   - icon: wifi
     title: Hotspot &<br>Speed Policies

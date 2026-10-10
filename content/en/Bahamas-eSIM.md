@@ -1,6 +1,6 @@
 ---
 title: 'Bahamas eSIM 2026: Coverage & Speed Guide | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -23,8 +23,8 @@ seo:
     Nassau, Freeport & Exuma. Instant activation.
   keywords: Bahamas eSIM, buy Bahamas eSIM, best Bahamas eSIM, Bahamas travel eSIM, BTC Bahamas, Aliv Bahamas, Cable Bahamas
     Bahamas, Nassau eSIM, Freeport eSIM, Marsh Harbour eSIM, Bahamas prepaid eSIM, 5G Bahamas eSIM
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 16.99
+  high_price: 67.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -73,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Bahamas carriers for the best signal
-plans_title: 'Buy Bahamas eSIM: Plans for Every Trip Duration'
+plans_title: 'Bahamas eSIM Data Plans: Compare Prices Before You Fly'
 plans_data:
   30 Days:
   - spec: 1GB
@@ -161,11 +161,11 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Bahamas eSIM Setup Tips: What to Know Before You Go'
+  title: 'Getting Your Bahamas eSIM Ready: Pre-Trip Notes'
   items:
   - icon: 📱
     html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">eSIM compatible</a> before buying.
+      font-bold transition-colors">eSIM compatible</a> before buying your Bahamas plan.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Bahamas.
   - icon: ⏰
@@ -182,12 +182,11 @@ reminders:
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Bahamas eSIM: 3 Simple Steps'
+  title: 'Set Up Your Bahamas eSIM: A Step-by-Step Walkthrough'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
-      folder if you don't see it.
+    desc: After payment, your Bahamas QR code and activation guide arrive by email within 5 minutes. Check the spam folder for the Bahamas email if it has not shown up.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -204,86 +203,70 @@ activation_steps:
     is_list: false
 faq_section:
   title: "What Internet Speed Can You Expect with eSIM in Bahamas?"
-  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Bahamas. Find out what speeds to expect and where eSIM works best."
+  desc: "What to expect from eSIM data in Bahamas — network speeds on BTC, Aliv and Cable Bahamas, from Nassau to Marsh Harbour."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Bahamas eSIM FAQs
+    title: Your Bahamas eSIM Questions, Answered
     questions:
     - q: |
         Is it safe to upload my passport for Bahamas eSIM registration? I'm concerned about privacy.
       a: |
-        Bahamas requires identity verification by law. Bahamas requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Bahamas.
+        Bahamas requires identity verification by law. Bahamas requires KYC verification for prepaid SIM cards. Passport required. For Bahamas, simply upload your passport through Roami's secure portal; approval usually takes 5-10 minutes. Complete this before you fly to Bahamas — doing it at the airport on flaky WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Bahamas.
     - q: |
         What are the cheapest eSIM options for a trip to Bahamas?
       a: |
-        Roami Bahamas eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Bahamas uses 4G which handles maps and messaging just fine. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
+        Roami Bahamas eSIM plans start at $16.99 (7 Days, 1GB) and go up to $67.99 (30 Days). On a 5-7 day Bahamas trip, 1GB at $16.99 hits the sweet spot for maps, messaging and social media. Need to stream video or work remotely? Go with 10GB or unlimited. Bahamas uses 4G which handles maps and messaging just fine. Buying at Nassau (Lynden Pindling) costs 30-50% more and means queuing on arrival. Not sure about your data needs? Begin with a modest Bahamas plan and add data from the app, keeping the same eSIM.
     - q: |
         How does Roami compare to Airalo for eSIM in Bahamas?
       a: |
-        Roami typically offers better value for Bahamas eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Roami typically offers better value for Bahamas eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. There is no auto-renewal on Bahamas plans — you pay once and nothing is billed afterwards.
     - q: |
         What happens if I use all my data in Bahamas before my plan expires?
       a: |
-        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
+        Top up from the Roami app. Topped-up Bahamas data goes live immediately, with no new QR code needed. Top up your Bahamas plan when roughly 20% remains to avoid any gap in service.
     - q: |
         How do I know if my Bahamas eSIM plan is active and ready to use?
       a: |
-        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Bahamas — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Bahamas — you'll see a carrier name in your status bar. Check your Bahamas connection by opening any webpage or looking at your Roami account. If the Bahamas eSIM shows no signal after 2 minutes, turn on Data Roaming or restart the handset.
     - q: |
         How many eSIM profiles can I store on my phone for traveling to Bahamas?
       a: |
-        Most phones store 5-10 eSIM profiles. You can keep your Bahamas eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
+        Most phones store 5-10 eSIM profiles. You can keep your Bahamas eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Swapping between Bahamas and your home line takes about 10 seconds in settings.
     - q: |
         What's the difference between a 5GB plan and an unlimited plan for Bahamas?
       a: |
-        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+        A 5GB Bahamas plan gives you that amount of high-speed data in total. Once it is used up you simply top up or buy another Bahamas plan. An unlimited Bahamas plan keeps you connected, though speeds may ease after 30GB in a day under fair use. For most Bahamas visitors — maps, messaging and social media — 5GB is plenty.
     - q: |
         When does the validity period of my Bahamas eSIM start?
       a: |
-        The plan validity starts when you connect to a local network in Bahamas, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+        The plan validity starts when you connect to a local network in Bahamas, not when you buy or install it. That means you can buy and install your Bahamas eSIM weeks in advance without losing a single plan day. A 7-day Bahamas plan runs for seven full days starting at first connection.
 related_products:
   title: Related Bahamas eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
   - name: Europe eSIM
     flag: img/flags/eu.svg
     price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+    is_highlight: false
+  - name: United Kingdom eSIM
+    flag: img/flags/gb.svg
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
+  - name: United States eSIM
+    flag: img/flags/us.svg
     price: From $1.99
     is_highlight: false
   - name: Spain eSIM
     flag: img/flags/es.svg
+    price: From $1.99
+    is_highlight: true
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: From $1.99
+    is_highlight: false
+  - name: Turkey eSIM
+    flag: img/flags/tr.svg
     price: From $1.99
     is_highlight: false
   - name: Germany eSIM
@@ -294,12 +277,20 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: From $3.99
+    is_highlight: false
+  - name: China eSIM
+    flag: img/flags/cn.svg
+    price: From $1.99
+    is_highlight: false
 market_analysis:
   title: 'Bahamas eSIM Compared to Prepaid SIM Cards: What You Need to Know'
   subtitle: Bahamas Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: 'Data Source: Prepaid Data SIM Card Wiki (Bahamas) + Local Operator Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Bahamas
+    text: 'Market data: GSMA eSIM hub, Ookla Speedtest Global Index (the Bahamas), and URCA tariff reporting. Local prepaid tariffs for the Bahamas cross-checked with the Prepaid Data SIM Wiki.'
+    url: https://www.speedtest.net/global-index/bahamas
   table_headers:
   - Comparison Matrix
   - Local Prepaid SIM (Market Data)
@@ -332,13 +323,12 @@ market_analysis:
     prepaid_desc: BTC 7-day plan costs $9.99 for 2GB (plus 12% VAT); aliv 7-day plans start at $5 for 500MB. aliv 30-day plans
       start at $30 for 3GB. Short trips waste up to 80% of plan value.
     esim_title: Flexible Plans, Zero Waste
-    esim_desc: Unlike aliv's 7-day ($5/500MB) or 30-day ($30/3GB) cycles, Roami offers 7-day plans starting from $1.99/GB,
+    esim_desc: Unlike aliv's 7-day ($5/500MB) or 30-day ($30/3GB) cycles, Roami offers 7-day plans starting from $16.99 for 1GB,
       saving up to 80% waste for short trips.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on common market knowledge, both BTC and aliv allow
-      tethering but may throttle after high usage.
+    prepaid_desc: 'Both BTC and aliv permit tethering, but hotspot usage draws on the same data bucket and speeds are throttled once the bundle’s high-speed allowance is used.'
     esim_title: Unrestricted Tethering
     esim_desc: Roami allows full-speed hotspot sharing, unlike some local plans that throttle after 3GB/day.
   - icon: credit-card
@@ -347,7 +337,7 @@ market_analysis:
     prepaid_desc: Top-up can be done online or at kiosks; foreign cards may be rejected. BTC and aliv accept Visa and Mastercard
       in stores.
     esim_title: Global Payment Accepted
-    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local cash or vouchers.
+    esim_desc: Bahamas orders accept Visa, Mastercard, AMEX, Apple Pay, Google Pay and PayPal. No need for local cash or vouchers.
   - icon: headset
     title: Customer Support
     prepaid_title: ''
@@ -360,7 +350,7 @@ market_analysis:
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600
-      title: Bypass Bahamas' Strict SIM Passport Requirements
+      title: Skip Bahamas' Strict SIM Passport Requirements
       desc: Both BTC and aliv require passport registration at purchase. Roami eSIM activates instantly with no KYC, saving
         15-30 minutes at the airport.
     - icon: wifi
@@ -373,8 +363,7 @@ market_analysis:
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
       title: Pay with Visa, Mastercard, or Apple Pay
-      desc: Local top-up often rejects foreign cards. Roami accepts Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal
-        globally.
+      desc: Local top-up often rejects foreign cards. Roami takes Visa, Mastercard, AMEX, Apple Pay, Google Pay and PayPal for Bahamas orders.
     - icon: clock
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600

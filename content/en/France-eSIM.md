@@ -1,6 +1,6 @@
 ---
 title: 'France eSIM 2026 - Best 5G Plan for Paris & Provence | Roami'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,11 +18,11 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: France eSIM - Best Unlimited Data Plan for Explorers
-  description: Get the best France prepaid eSIM with 5G on Orange, SFR & Bouygues. No ID needed — instant QR activation. No 31-day contract waste. From $1.99.
+  title: France eSIM - Best Unlimited Data Plan for Travelers
+  description: 'Get the best prepaid France eSIM with 5G on Orange, SFR & Bouygues. No ID needed — instant QR activation. No 31-day contract waste. From $1.99.'
   keywords: France eSIM, buy France eSIM, best France eSIM, France travel eSIM, Orange France, SFR France, Bouygues Telecom France, Paris eSIM, Marseille eSIM, Lyon eSIM, France prepaid eSIM, 5G France eSIM, Provence eSIM, French Riviera eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 70.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -45,7 +45,7 @@ hero:
   title: 'France eSIM: 5G in Paris, Provence & Beyond — No ID Needed'
   subtitle: No ID required | 5G on Orange, SFR & Bouygues | No 31-day waste | Instant QR delivery
 features:
-  title: 'Why France Travelers Choose Roami: Coverage, Speed & Service'
+  title: 'Why France Travelers Choose Roami: Plans, Network & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to Orange, SFR & Bouygues for the best signal across France
-plans_title: 'Buy France eSIM: Plans for Every Trip Duration'
+plans_title: 'France eSIM Plans Built Around Your Itinerary'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -289,10 +289,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'France eSIM Coverage: Orange, SFR & Bouygues Network Guide'
+  title: 'France eSIM Coverage: Carrier Guide & Coverage Map'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Service Highlights'
     items:
     - icon: map
       color: text-brand-500
@@ -320,32 +320,38 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'France eSIM Setup Tips: What to Know Before You Go'
+  title: 'France eSIM Setup Steps Every Traveler Should Know'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Before you buy, confirm your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">listed as eSIM compatible</a>.
   - icon: ✈️
     html: We recommend turning on the line after arriving in France.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Your eSIM QR code arrives by email after purchase.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 📅
     html: <span class="font-medium">No 31-day waste:</span> Orange Holiday plans are valid for 31 days — a 10-day tourist wastes over 20 days. Roami offers flexible durations with zero wasted days.
+  - icon: 📶
+    html: 'Curious about actual download speeds? The <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> publishes median mobile speeds for France.'
+  - icon: 📖
+    html: 'Background reading: the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM hub and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> support pages (including the <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel FAQ</a>) answer most first-timer questions.'
+  - icon: 🧭
+    html: 'Multi-country trip? Take a look at our <a href="/united-kingdom-esim/">United Kingdom eSIM</a> and <a href="/guam-esim/">Guam eSIM</a> pages as well.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Quick Compatibility Check'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install France eSIM: 3 Simple Steps'
+  title: '3 Steps to Activate Your France eSIM'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: We send the QR code and activation guide by email within about 5 minutes of payment. Not seeing it? Take a look in your spam folder.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -366,7 +372,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: France eSIM FAQs
+    title: 'France eSIM FAQ: Speeds, Coverage and Setup'
     questions:
     - q: |
         Do I really not need a passport or ID for Roami's France eSIM?
@@ -387,7 +393,7 @@ faq_section:
     - q: |
         Is eSIM cheaper than international roaming for France?
       a: |
-        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for France costs $7.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for France costs $6.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
     - q: |
         I'm arriving in Paris late at night. Will I be able to get online immediately?
       a: |
@@ -407,53 +413,45 @@ faq_section:
 related_products:
   title: Related France eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
+  - name: Tanzania eSIM
+    flag: img/flags/tz.svg
+    price: From $7.99
+    is_highlight: true
+  - name: Panama eSIM
+    flag: img/flags/pa.svg
+    price: From $11.99
+    is_highlight: false
+  - name: Tajikistan eSIM
+    flag: img/flags/tj.svg
+    price: From $4.99
+    is_highlight: false
+  - name: Czech Republic eSIM
+    flag: img/flags/cz.svg
     price: From $1.99
     is_highlight: false
-  - name: United-Kingdom
+  - name: Guam eSIM
+    flag: img/flags/gu.svg
+    price: From $9.99
+    is_highlight: false
+  - name: Latvia eSIM
+    flag: img/flags/lv.svg
+    price: From $1.99
+    is_highlight: false
+  - name: Saudi Arabia eSIM
+    flag: img/flags/sa.svg
+    price: From $3.99
+    is_highlight: false
+  - name: Morocco eSIM
+    flag: img/flags/ma.svg
+    price: From $3.99
+    is_highlight: false
+  - name: United Kingdom eSIM
     flag: img/flags/gb.svg
     price: From $1.99
     is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: Guatemala eSIM
+    flag: img/flags/gt.svg
+    price: From $11.99
     is_highlight: false
 market_analysis:
   title: 'France eSIM vs Prepaid SIM: Cost and Convenience Compared – Best eSIM for France Travelers'

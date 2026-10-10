@@ -1,11 +1,11 @@
 ---
 title: 'Saudi Arabia eSIM - 5G in Riyadh & Jeddah | No Fingerprint KYC | Roami'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: Saudi Arabia eSIM
-  scenario_keywords: Umrah pilgrimage, Riyadh business travel, Jeddah city sightseeing, Mecca religious visit, Medina mosque tour, Dammam city break
+  scenario_keywords: Umrah pilgrimage, Riyadh business trip, Jeddah walking tour, Mecca religious visit, Medina mosque tour, Dammam city break
   operators: STC, Mobily, Zain
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Riyadh, Jeddah, Mecca, Medina, Dammam
@@ -19,10 +19,10 @@ modal:
     code:web20
 seo:
   title: Saudi Arabia eSIM | Best 5G Data Plan for Travelers
-  description: Get the best Saudi Arabia eSIM with 5G on STC, Mobily & Zain. No passport/fingerprint registration — local SIMs require biometric KYC. Covers Riyadh, Jeddah, Mecca & Medina. Plans from $1.99.
+  description: 'Saudi Arabia eSIM: 5G on STC, Mobily, Zain. No passport/fingerprint registration — local SIMs require biometric KYC. Instant QR activation from $3.99.'
   keywords: Saudi Arabia eSIM, buy Saudi Arabia eSIM, best Saudi Arabia eSIM, Saudi Arabia travel eSIM, STC Saudi Arabia, Mobily Saudi Arabia, Zain Saudi Arabia, Riyadh eSIM, Jeddah eSIM, Mecca eSIM, Saudi Arabia prepaid eSIM, 5G Saudi Arabia eSIM, Umrah eSIM, Saudi eSIM no fingerprint
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 3.99
+  high_price: 96.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -45,7 +45,7 @@ hero:
   title: 'Saudi Arabia eSIM: 5G in Riyadh, Jeddah & Beyond — No Passport'
   subtitle: 5G on STC, Mobily & Zain | No passport/fingerprint registration| 24/7 support
 features:
-  title: 'Why Saudi Arabia Travelers Choose Roami: Coverage, Convenience & No Biometric KYC'
+  title: 'Why Travelers Pick Roami for Saudi Arabia: Speed, Data and Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -75,7 +75,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Holy Cities Ready
     desc: 4G/5G coverage in Mecca, Medina, Jeddah and Riyadh — stay connected for Umrah & sightseeing
-plans_title: 'Buy Saudi Arabia eSIM: Plans for Every Trip Duration'
+plans_title: 'Saudi Arabia eSIM Data Plans for Every Stay'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -269,10 +269,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Saudi Arabia eSIM Coverage: STC, Mobily & Zain 5G Guide — Riyadh to Mecca'
+  title: 'Saudi Arabia eSIM Coverage: Local Operators Explained'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Plan Service Details'
     items:
     - icon: map
       color: text-brand-500
@@ -300,16 +300,16 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Saudi Arabia eSIM Setup Tips: What to Know Before You Go'
+  title: 'Before You Fly to Saudi Arabia: eSIM Setup Checklist'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Before you buy, confirm your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">listed as eSIM compatible</a>.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Saudi Arabia.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Your eSIM QR code arrives by email after purchase.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 🛂
@@ -320,18 +320,24 @@ reminders:
     html: <span class="font-medium">Warning:</span> Street SIMs in Saudi are <span class="font-bold">illegal</span> and may be shut down. Roami is a fully legitimate digital SIM — <span class="font-medium">no compliance risks</span>.
   - icon: 🇸🇦
     html: <span class="font-medium">Local tip:</span> Download the <span class="font-medium">Tawakkalna</span> app (Saudi health and services app) and <span class="font-medium">Google Translate</span> with Arabic offline pack.
+  - icon: 📶
+    html: 'Curious about actual download speeds? The <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> publishes median mobile speeds for Saudi Arabia.'
+  - icon: 📖
+    html: 'Background reading: the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM hub and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> support pages (including the <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel FAQ</a>) answer most first-timer questions.'
+  - icon: 🧭
+    html: 'Multi-country trip? Take a look at our <a href="/kenya-esim/">Kenya eSIM</a> and <a href="/kosovo-esim/">Kosovo eSIM</a> pages as well.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Is Your Phone eSIM-Ready?'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Saudi Arabia eSIM: 3 Simple Steps'
+  title: 'Saudi Arabia eSIM Installation: Three Quick Steps'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: We send the QR code and activation guide by email within about 5 minutes of payment. Not seeing it? Take a look in your spam folder.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -352,7 +358,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Saudi Arabia eSIM FAQs
+    title: 'Saudi Arabia eSIM: Frequently Asked Questions'
     questions:
     - q: |
         Why do I need to give my fingerprints to buy a SIM card in Saudi Arabia?
@@ -373,7 +379,7 @@ faq_section:
     - q: |
         Why do Saudi SIMs have 28-day cycles? Is that a waste for short trips?
       a: |
-        Yes — it's a major waste. Most Saudi operators use <strong>28-day billing cycles</strong> (STC, Zain, Mobily). STC's 'Like' plan costs 65 SAR (~$17 USD) for 2GB/28 days. A 5-day tourist wastes <strong>23 days (82% of the plan's value)</strong>. Roami offers <strong>3, 7, 15, and 30-day plans</strong> starting from $1.99 — you <strong>pay only for your actual trip length</strong>. No 28-day waste, no overpaying.
+        Yes — it's a major waste. Most Saudi operators use <strong>28-day billing cycles</strong> (STC, Zain, Mobily). STC's 'Like' plan costs 65 SAR (~$17 USD) for 2GB/28 days. A 5-day tourist wastes <strong>23 days (82% of the plan's value)</strong>. Roami offers <strong>3, 7, 15, and 30-day plans</strong> starting from $3.99 — you <strong>pay only for your actual trip length</strong>. No 28-day waste, no overpaying.
     - q: |
         Can I use my Saudi eSIM in the UAE, Bahrain, or other Gulf countries?
       a: |
@@ -385,7 +391,7 @@ faq_section:
     - q: |
         What if I accidentally delete my Saudi Arabia eSIM before my trip?
       a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        Simply log in to your Roami account to fetch the QR code again, which takes about a minute. Keeping a screenshot or PDF from the original email helps too.
     - q: |
         When does the validity period of my Saudi Arabia eSIM start?
       a: |
@@ -393,52 +399,44 @@ faq_section:
 related_products:
   title: Related Saudi Arabia eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Kosovo eSIM
+    flag: img/flags/xk.svg
+    price: From $13.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Denmark eSIM
+    flag: img/flags/dk.svg
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: Nigeria eSIM
+    flag: img/flags/ng.svg
+    price: From $5.99
+    is_highlight: false
+  - name: Oman eSIM
+    flag: img/flags/om.svg
+    price: From $5.99
+    is_highlight: false
+  - name: Kenya eSIM
+    flag: img/flags/ke.svg
+    price: From $7.99
+    is_highlight: false
+  - name: Georgia eSIM
+    flag: img/flags/ge.svg
+    price: From $3.99
+    is_highlight: false
+  - name: Ireland eSIM
+    flag: img/flags/ie.svg
     price: From $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: Serbia eSIM
+    flag: img/flags/se.svg
     price: From $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
+  - name: Argentina eSIM
+    flag: img/flags/ar.svg
+    price: From $3.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Reunion Island eSIM
+    flag: img/flags/re.svg
     price: From $1.99
     is_highlight: false
 market_analysis:
@@ -475,7 +473,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: All operators use <strong>28-day billing cycles</strong>. STC 'Like' costs 65 SAR (~$17 USD) for 2GB/28 days. A 5-day tourist wastes <strong>23 days (82% waste)</strong>.
     esim_title: Flexible Short Plans
-    esim_desc: Roami offers <strong>3/7/15/30-day plans</strong> starting from $1.99 — pay only for your actual trip length. No 28-day forced commitment, no 82% waste.
+    esim_desc: Roami offers <strong>3/7/15/30-day plans</strong> starting from $3.99 — pay only for your actual trip length. No 28-day forced commitment, no 82% waste.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
@@ -511,7 +509,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: No 28-Day Sunk Cost Waste
-      desc: STC/Mobily/Zain force <b>28-day plans</b> (65 SAR/2GB). A 5-day trip wastes <b>82%</b>. Roami offers <b>3-day plans from $1.99/GB</b> — no waste.
+      desc: STC/Mobily/Zain force <b>28-day plans</b> (65 SAR/2GB). A 5-day trip wastes <b>82%</b>. Roami offers <b>3-day plans from $3.99</b> — no waste.
     - icon: shield
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600

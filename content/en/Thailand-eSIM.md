@@ -1,6 +1,6 @@
 ---
 title: 'Thailand eSIM 2026 - Best 5G Plan for Bangkok & Phuket | Roami'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     code:web20
 seo:
   title: Thailand eSIM - Best 5G Prepaid Plan for Your Journey
-  description: Get the best Thailand prepaid eSIM with 5G on AIS, TrueMove & dtac. No biometrics, no face scan, no ID needed — instant QR activation. Skip airport queues. From $1.99.
-  keywords: Thailand eSIM, buy Thailand eSIM, best Thailand eSIM, Thailand travel eSIM, AIS Thailand, TrueMove Thailand, dtac Thailand, Bangkok eSIM, Chiang Mai eSIM, Phuket eSIM, Thailand prepaid eSIM, 5G Thailand eSIM, eSIM for Songkran, Phi Phi Islands eSIM, Krabi eSIM
+  description: 'Thailand eSIM: 5G on AIS, TrueMove, dtac. No biometrics, no face scan, no ID needed — instant QR activation. Plans from $1.99.'
+  keywords: Thailand eSIM, buy Thailand eSIM, best Thailand eSIM, Thailand travel eSIM, AIS Thailand, TrueMove Thailand, dtac Thailand, Bangkok eSIM, Chiang Mai eSIM, Phuket eSIM, Thailand prepaid eSIM, 5G Thailand eSIM, eSIM for Songkran, Phi Islands eSIM, Krabi eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 42.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -45,7 +45,7 @@ hero:
   title: 'Thailand eSIM: 5G in Bangkok, Phuket & Beyond — No Face Scan Needed'
   subtitle: No biometrics required | 5G on AIS, TrueMove & dtac | Skip airport SIM queues | Instant QR delivery
 features:
-  title: 'Why Thailand Travelers Choose Roami: Coverage, Speed & Service'
+  title: 'Why Thailand Travelers Choose Roami: Network, Plans & Value'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to AIS, TrueMove & dtac for the best signal across Thailand
-plans_title: 'Buy Thailand eSIM: Plans for Every Trip Duration'
+plans_title: 'Thailand eSIM Data Plans for Every Stay'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -281,10 +281,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Thailand eSIM Coverage: AIS, TrueMove & dtac Network Guide'
+  title: 'Thailand eSIM Coverage: Network Coverage & Operator Comparison'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Plan Service Details'
     items:
     - icon: map
       color: text-brand-500
@@ -312,28 +312,34 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Thailand eSIM Setup Tips: What to Know Before You Go'
+  title: 'Before You Fly to Thailand: eSIM Setup Checklist'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-ready</a> before buying.
   - icon: ✈️
     html: We recommend activating your eSIM after arriving in Thailand for the best connection.
   - icon: ⏰
     html: Validity starts upon connection to a supported network once you land in Thailand.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Your QR code is emailed to you right after checkout.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 🏪
     html: <span class="font-medium">Late-night arrival?</span> Airport SIM counters close at 10pm and 7-Eleven can't activate after hours. Roami works 24/7 — no waiting until morning.
+  - icon: 📶
+    html: 'Check real-world mobile speeds in Thailand on the <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> before you fly.'
+  - icon: 📖
+    html: 'New to eSIM? <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> explains the standard, and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> plus its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel guide</a> walk through setup.'
+  - icon: 🧭
+    html: 'Heading further afield? Compare <a href="/gabon-esim/">Gabon eSIM</a> and <a href="/reunion-island-esim/">Reunion Island eSIM</a> plans before you book.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Verify Your Device Supports eSIM'
     desc: 'Not sure if your phone supports eSIM for Thailand? Check right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Thailand eSIM: 3 Simple Steps'
+  title: 'Thailand eSIM Installation: Three Quick Steps'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
@@ -358,7 +364,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Thailand eSIM FAQs
+    title: 'Thailand eSIM: Frequently Asked Questions'
     questions:
     - q: |
         Do I really not need a face scan or fingerprint for Roami's Thailand eSIM?
@@ -379,15 +385,15 @@ faq_section:
     - q: |
         What are the cheapest eSIM options for a trip to Thailand?
       a: |
-        Roami Thailand eSIM plans start at $1.99 (3 days, 1GB). For a typical 5-7 day trip, the 5GB plan at $5.99 is the sweet spot — enough for maps, messaging, and social media. Need to stream video or work remotely? Go with 10GB or unlimited. AIS's 5G network handles streaming smoothly. Airport SIM kiosks charge 30-50% more, and you have to wait in line plus do face scans. Not sure about your data needs? Start small and top up without changing your eSIM.
+        Roami Thailand eSIM plans start at $1.99 (3 days, 1GB). For a typical 5-7 day trip, the 5GB plan at $4.99 is the sweet spot — enough for maps, messaging, and social media. Need to stream video or work remotely? Go with 10GB or unlimited. AIS's 5G network handles streaming smoothly. Airport SIM kiosks charge 30-50% more, and you have to wait in line plus do face scans. Not sure about your data needs? Start small and top up without changing your eSIM.
     - q: |
         Is eSIM cheaper than international roaming for Thailand?
       a: |
-        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Thailand costs $5.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Thailand costs $4.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
     - q: |
         How does eSIM compare to pocket WiFi for Thailand travel?
       a: |
-        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
+        eSIM wins on convenience. There is no device to carry, charge or return at the end of your trip, which saves about $3-5 per day versus pocket WiFi rental. Pocket WiFi suits groups of 3 or more, but you are tied to one device and must keep it charged for 6 to 8 hours. With eSIM your phone is the hotspot, and all Roami plans include free hotspot sharing for up to 5 devices.
     - q: |
         When does the validity period of my Thailand eSIM start?
       a: |
@@ -399,53 +405,45 @@ faq_section:
 related_products:
   title: Related Thailand eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
+  - name: Malta eSIM
+    flag: img/flags/mt.svg
     price: From $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Cyprus eSIM
+    flag: img/flags/cy.svg
+    price: From $2.99
+    is_highlight: false
+  - name: Gabon eSIM
+    flag: img/flags/ga.svg
+    price: From $14.99
+    is_highlight: false
+  - name: Croatia eSIM
+    flag: img/flags/hr.svg
+    price: From $1.99
+    is_highlight: false
+  - name: Tajikistan eSIM
+    flag: img/flags/tj.svg
+    price: From $4.99
+    is_highlight: false
+  - name: Norway eSIM
+    flag: img/flags/no.svg
     price: From $1.99
     is_highlight: false
   - name: Turkey eSIM
     flag: img/flags/tr.svg
     price: From $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: Reunion Island eSIM
+    flag: img/flags/re.svg
     price: From $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
+  - name: Costa Rica eSIM
+    flag: img/flags/cr.svg
+    price: From $9.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: Ivory Coast eSIM
+    flag: img/flags/ci.svg
+    price: From $9.99
     is_highlight: false
 market_analysis:
   title: 'Thailand eSIM vs Physical SIM: Which Is Better for Travel?'
@@ -481,7 +479,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: AIS Lucky SIM 8-day plan costs 299 THB for 15GB; dtac Happy Tourist SIM 8-day plan costs 299 THB for 15GB. A 5-day trip wastes nearly 3 days of service.
     esim_title: Flexible Plans, No Waste
-    esim_desc: Unlike fixed 8-day plans (AIS 299 THB/15GB) that waste 3 days on a 5-day trip, Roami offers 7-day plans starting from $1.99/GB, saving up to 75% of sunk cost.
+    esim_desc: Unlike fixed 8-day plans (AIS 299 THB/15GB) that waste 3 days on a 5-day trip, Roami offers 7-day plans starting from $2.99, saving up to 75% of sunk cost.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''

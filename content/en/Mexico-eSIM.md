@@ -1,6 +1,6 @@
 ---
 title: 'Mexico eSIM - 5G in Cancún & Mexico City | No Passport Selfie | Roami'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     code:web20
 seo:
   title: Mexico eSIM - Best Unlimited Data Plan for Travel
-  description: Get the best Mexico eSIM with 5G on Telcel, AT&T & Movistar. No passport/selfie registration — since 2026, local SIMs require ID + selfie. Covers Cancún, Mexico City & Riviera Maya. Plans from $1.99.
+  description: 'Mexico eSIM: 5G on Telcel, AT&T, Movistar. No passport/selfie registration — since 2026, local SIMs require ID + selfie. Instant QR activation from $3.99.'
   keywords: Mexico eSIM, buy Mexico eSIM, best Mexico eSIM, Mexico travel eSIM, Telcel Mexico, AT&T Mexico, Movistar Mexico, Mexico City eSIM, Cancún eSIM, Riviera Maya eSIM, Mexico prepaid eSIM, 5G Mexico eSIM, Mexico eSIM no passport
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 3.99
+  high_price: 68.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -45,7 +45,7 @@ hero:
   title: 'Mexico eSIM: 5G in Cancún, Mexico City & Beyond — No Passport'
   subtitle: 5G on Telcel, AT&T & Movistar | No passport/selfie registration| 24/7 support
 features:
-  title: 'Why Mexico Travelers Choose Roami: Coverage, Value & No 2026 Registration Hassle'
+  title: 'Why Mexico Travelers Choose Roami: Network, Plans & Value'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -75,7 +75,7 @@ features:
     color: from-sky-400 to-sky-600
     title: Beach & Ruins Ready
     desc: 4G/5G across Cancún, Riviera Maya, Chichen Itza, Tulum & Teotihuacan
-plans_title: 'Buy Mexico eSIM: Plans for Every Trip Duration'
+plans_title: 'Mexico eSIM Data Plans for Every Stay'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -269,10 +269,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Mexico eSIM Coverage: Telcel, AT&T & Movistar 5G Guide — Cancún to Mexico City'
+  title: 'Mexico eSIM Coverage: Network Coverage & Operator Comparison'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'Plan Service Details'
     items:
     - icon: map
       color: text-brand-500
@@ -300,16 +300,16 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Mexico eSIM Setup Tips: What to Know Before You Go'
+  title: 'Before You Fly to Mexico: eSIM Setup Checklist'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-ready</a> before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Mexico.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Your QR code is emailed to you right after checkout.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 🛂
@@ -320,18 +320,24 @@ reminders:
     html: <span class="font-medium">Ruins coverage:</span> 4G works at Chichen Itza, Tulum and Teotihuacan — but download offline maps as a backup for remote archaeological sites.
   - icon: 🇲🇽
     html: <span class="font-medium">Local tip:</span> Download <span class="font-medium">Google Translate</span> with Spanish offline pack — it helps with menus, signs, and local recommendations.
+  - icon: 📶
+    html: 'Check real-world mobile speeds in Mexico on the <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> before you fly.'
+  - icon: 📖
+    html: 'New to eSIM? <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> explains the standard, and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> plus its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel guide</a> walk through setup.'
+  - icon: 🧭
+    html: 'Heading further afield? Compare <a href="/faroe-islands-esim/">Faroe Islands eSIM</a> and <a href="/uruguay-esim/">Uruguay eSIM</a> plans before you book.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Is Your Phone eSIM-Ready?'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Mexico eSIM: 3 Simple Steps'
+  title: 'Mexico eSIM Installation: Three Quick Steps'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: Once your order is confirmed, we email the QR code and activation guide within about 5 minutes. If it has not arrived, check your spam folder.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -352,7 +358,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Mexico eSIM FAQs
+    title: 'Mexico eSIM: Frequently Asked Questions'
     questions:
     - q: |
         What changed in Mexico in January 2026 for buying a SIM card?
@@ -373,7 +379,7 @@ faq_section:
     - q: |
         Why do Mexican SIMs have 7-day minimums? Is that a waste for short trips?
       a: |
-        Yes — it's a waste of money and data. Telcel's cheapest plan is <strong>7 days ($50 MXN ≈ $3 USD)</strong> with limited data. AT&T's minimum is <strong>14 days ($100 MXN)</strong>, Movistar's is <strong>15 days ($75 MXN)</strong>. A 5-day tourist buying a 7-day plan wastes <strong>29%</strong> of the plan. AT&T's 14-day plan wastes <strong>64%</strong>. Roami offers <strong>3, 7, 15, and 30-day plans</strong> starting from $1.99 — no forced minimum, no waste.
+        Yes — it's a waste of money and data. Telcel's cheapest plan is <strong>7 days ($50 MXN ≈ $3 USD)</strong> with limited data. AT&T's minimum is <strong>14 days ($100 MXN)</strong>, Movistar's is <strong>15 days ($75 MXN)</strong>. A 5-day tourist buying a 7-day plan wastes <strong>29%</strong> of the plan. AT&T's 14-day plan wastes <strong>64%</strong>. Roami offers <strong>3, 7, 15, and 30-day plans</strong> starting from $3.99 — no forced minimum, no waste.
     - q: |
         Will my eSIM work at Chichen Itza, Teotihuacan, and Tulum ruins?
       a: |
@@ -389,7 +395,7 @@ faq_section:
     - q: |
         What if I accidentally delete my Mexico eSIM before my trip?
       a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        No problem — sign in to your Roami account and re-download the QR code in about a minute. It is worth saving it as a screenshot or PDF the first time you receive it.
     - q: |
         When does the validity period of my Mexico eSIM start?
       a: |
@@ -397,52 +403,44 @@ faq_section:
 related_products:
   title: Related Mexico eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Puerto Rico eSIM
+    flag: img/flags/pu.svg
+    price: From $6.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Macedonia eSIM
+    flag: img/flags/ma.svg
+    price: From $4.99
+    is_highlight: false
+  - name: Liberia eSIM
+    flag: img/flags/lr.svg
+    price: From $27.99
+    is_highlight: false
+  - name: Mongolia eSIM
+    flag: img/flags/mo.svg
+    price: From $9.99
+    is_highlight: false
+  - name: Ivory Coast eSIM
+    flag: img/flags/ci.svg
+    price: From $9.99
+    is_highlight: false
+  - name: Faroe Islands eSIM
+    flag: img/flags/fo.svg
+    price: From $5.99
+    is_highlight: false
+  - name: Uruguay eSIM
+    flag: img/flags/uy.svg
+    price: From $11.99
+    is_highlight: false
+  - name: Malawi eSIM
+    flag: img/flags/mw.svg
+    price: From $14.99
+    is_highlight: false
+  - name: Ireland eSIM
+    flag: img/flags/ie.svg
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Latvia eSIM
+    flag: img/flags/lv.svg
     price: From $1.99
     is_highlight: false
 market_analysis:
@@ -479,7 +477,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Telcel minimum 7 days ($50), AT&T 14 days ($100), Movistar 15 days ($75). <strong>No plans under 5 days</strong> for tourists. A 5-day trip wastes 29-67% of the plan.
     esim_title: Flexible Short Plans
-    esim_desc: Roami offers <strong>3/7/15/30-day plans</strong> starting from $1.99 — pay only for your actual trip length. No 7-day minimum, no waste.
+    esim_desc: Roami offers <strong>3/7/15/30-day plans</strong> starting from $3.99 — pay only for your actual trip length. No 7-day minimum, no waste.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
@@ -520,5 +518,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: No 7-Day Minimum Waste
-      desc: Telcel's minimum is <b>7 days ($50)</b>, AT&T's is <b>14 days ($100)</b>. A 5-day tourist wastes <b>29-64%</b>. Roami offers <b>3-day plans from $1.99</b> — no forced minimum.
+      desc: Telcel's minimum is <b>7 days ($50)</b>, AT&T's is <b>14 days ($100)</b>. A 5-day tourist wastes <b>29-64%</b>. Roami offers <b>3-day plans from $3.99</b> — no forced minimum.
 ---

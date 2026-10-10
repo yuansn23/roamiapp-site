@@ -1,6 +1,6 @@
 ---
 title: 'Hong Kong eSIM 2026 - Best 5G Plan for Victoria Harbour | Roami'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     code:web20
 seo:
   title: Hong Kong eSIM - Best 5G Data Plan for Your Trip
-  description: Get the best Hong Kong prepaid eSIM with 5G on CSL, SmarTone & CMHK. No registration or ID needed — instant QR activation. No 30-day waste. From $1.99.
+  description: 'Get the best prepaid Hong Kong eSIM with 5G on CSL, SmarTone & CMHK. No registration or ID needed — instant QR activation. No 30-day waste. From $1.99.'
   keywords: Hong Kong eSIM, buy Hong Kong eSIM, best Hong Kong eSIM, Hong Kong travel eSIM, CSL Hong Kong, SmarTone Hong Kong, China Mobile Hong Kong, Hong Kong Island eSIM, Kowloon eSIM, Tsuen Wan eSIM, Hong Kong prepaid eSIM, 5G Hong Kong eSIM, Disneyland Hong Kong eSIM, Victoria Harbour eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 57.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -42,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/hk.svg
   flag_alt: Hong Kong Flag
-  title: 'Hong Kong eSIM: 5G in Victoria Harbour & Beyond — No Registration Needed'
+  title: 'Hong Kong eSIM: 5G in Victoria Harbour — No Registration Needed'
   subtitle: No ID/registration required | 5G on CSL, SmarTone & CMHK | No 30-day waste | Instant QR delivery
 features:
-  title: 'Why Hong Kong Travelers Choose Roami: Speed, Coverage & Support'
+  title: 'Why Hong Kong Travelers Choose Roami: Coverage, Speed & Service'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to CSL, SmarTone & CMHK for the best signal across Hong Kong
-plans_title: 'Buy Hong Kong eSIM: Plans for Every Trip Duration'
+plans_title: 'Hong Kong eSIM Plans: Pick the Length That Fits Your Trip'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -281,10 +281,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Hong Kong eSIM Coverage: CSL, SmarTone & CMHK Network Guide'
+  title: 'Hong Kong eSIM Coverage: Mobile Network Operator Guide'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'What''s Included'
     items:
     - icon: map
       color: text-brand-500
@@ -312,32 +312,38 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Hong Kong eSIM Setup Tips: What to Know Before You Go'
+  title: 'Hong Kong eSIM Setup: What to Check Before You Fly'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Not sure your handset supports eSIM? Check the <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibility checklist</a> first.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Hong Kong.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: The QR code is delivered to your inbox once you order.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 📅
     html: <span class="font-medium">No 30-day waste:</span> 3HK SoSIM (HK$33/50GB/30 days) wastes 90%+ for a 3-day trip. Roami offers flexible durations with zero wasted days.
+  - icon: 📶
+    html: 'Real-world data speed for Hong Kong is tracked by <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a> — worth a look before departure.'
+  - icon: 📖
+    html: 'Want the technical background? See the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM pages and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> setup support, plus its guide to <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">using eSIM abroad</a>.'
+  - icon: 🧭
+    html: 'If your itinerary includes other countries, see the <a href="/israel-esim/">Israel eSIM</a> and <a href="/gibraltar-esim/">Gibraltar eSIM</a> options.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Verify Your Device Supports eSIM'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install Hong Kong eSIM: 3 Simple Steps'
+  title: 'Installing Your Hong Kong eSIM in Three Steps'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: The QR code plus an activation guide land in your inbox within 5 minutes of ordering. If they do not show up, check spam.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -358,7 +364,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: Hong Kong eSIM FAQs
+    title: 'Common Hong Kong eSIM Questions'
     questions:
     - q: |
         What is Hong Kong's mandatory SIM registration (KYC) — and do I need to do it for Roami?
@@ -379,7 +385,7 @@ faq_section:
     - q: |
         Is eSIM cheaper than international roaming for Hong Kong?
       a: |
-        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Hong Kong costs $6.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Hong Kong costs $4.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
     - q: |
         I'm arriving in Hong Kong late at night. Will I be able to get online immediately?
       a: |
@@ -399,53 +405,45 @@ faq_section:
 related_products:
   title: Related Hong Kong eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Kazakhstan eSIM
+    flag: img/flags/kz.svg
+    price: From $3.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Gibraltar eSIM
+    flag: img/flags/gi.svg
+    price: From $5.99
+    is_highlight: false
+  - name: Finland eSIM
+    flag: img/flags/fi.svg
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: Greece eSIM
+    flag: img/flags/gr.svg
     price: From $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: South Africa eSIM
+    flag: img/flags/za.svg
+    price: From $3.99
+    is_highlight: false
+  - name: Guadeloupe eSIM
+    flag: img/flags/gp.svg
+    price: From $8.99
+    is_highlight: false
+  - name: Denmark eSIM
+    flag: img/flags/dk.svg
     price: From $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
+  - name: Lithuania eSIM
+    flag: img/flags/lt.svg
     price: From $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Malaysia eSIM
+    flag: img/flags/my.svg
     price: From $1.99
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: Israel eSIM
+    flag: img/flags/il.svg
+    price: From $2.99
     is_highlight: false
 market_analysis:
   title: 'Hong-Kong eSIM vs Local Prepaid SIM: Which Is More Convenient?'
@@ -522,5 +520,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Eliminate Sunk Cost from Long Billing Cycles
-      desc: <b>3 HK SoSIM (HK$33/50GB/30 days)</b> forces a 30-day cycle; a 3-day tourist wastes <b>27 days</b> and over <b>45GB</b>. <b>csl. Discover Hong Kong SIM (HK$88/3GB/5 days)</b> ends with no pay-as-you-go; must buy a <b>HK$48</b> add-on. Roami offers flexible 7-day plans from <b>$1.99/GB</b>.
+      desc: <b>3 HK SoSIM (HK$33/50GB/30 days)</b> forces a 30-day cycle; a 3-day tourist wastes <b>27 days</b> and over <b>45GB</b>. <b>csl. Discover Hong Kong SIM (HK$88/3GB/5 days)</b> ends with no pay-as-you-go; must buy a <b>HK$48</b> add-on. Roami offers flexible 7-day plans from <b>$2.99/GB</b>.
 ---

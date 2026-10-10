@@ -1,6 +1,6 @@
 ---
 title: 'South Korea eSIM - Fastest 5G in Seoul & Busan'
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     code:web20
 seo:
   title: South Korea eSIM - 5G Prepaid Data Plan for Visitors 
-  description: Get the best South Korea eSIM with the world's fastest 5G on SK Telecom, KT & LG U+. No airport queues — instant QR activation. Plans from $1.99. Perfect for Seoul, Busan & Jeju.
+  description: 'South Korea eSIM: 5G on SK Telecom, KT, LG U+. No airport queues — instant QR activation. Plans from $1.99.'
   keywords: South Korea eSIM, buy South Korea eSIM, best South Korea eSIM, South Korea travel eSIM, SK Telecom South Korea, KT South Korea, LG U+ South Korea, Seoul eSIM, Busan eSIM, Incheon eSIM, South Korea prepaid eSIM, 5G South Korea eSIM, fastest 5G South Korea, eSIM for K-pop concert
   low_price: 1.99
-  high_price: 39.9
+  high_price: 61.99
 order_summary:
   title: Selected Plan
   label_data: Data Included
@@ -45,7 +45,7 @@ hero:
   title: 'South Korea eSIM: Fastest 5G in Seoul, Busan & Beyond'
   subtitle: 5G on SK Telecom, KT & LG U+ | Instant QR delivery | No airport queues | 24/7 support
 features:
-  title: 'Why South Korea Travelers Choose Roami: Speed, Coverage & Service'
+  title: 'What Makes Roami a Good Fit for South Korea: Plans and Coverage'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +71,7 @@ features:
     color: from-rose-400 to-rose-600
     title: World's Fastest 5G
     desc: South Korea has the world's fastest 5G — up to 1.5 Gbps in Seoul
-plans_title: 'Buy South Korea eSIM: Plans for Every Trip Duration'
+plans_title: 'South Korea eSIM Plans: Pick the Length That Fits Your Trip'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -281,10 +281,10 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'South Korea eSIM Coverage: SK Telecom, KT & LG U+ 5G Network Guide'
+  title: 'South Korea eSIM Coverage: Networks, Bands and Reach'
   supports_text: 'Supports:'
   service_details:
-    title: Service Details
+    title: 'What''s Included'
     items:
     - icon: map
       color: text-brand-500
@@ -312,32 +312,38 @@ network_coverage:
       coverage: Good urban 5G coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'South Korea eSIM Setup Tips: What to Know Before You Go'
+  title: 'South Korea eSIM Setup: What to Check Before You Fly'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Check that your device supports eSIM — see the <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">phone compatibility list</a>.
   - icon: ✈️
     html: We recommend turning on the line after arriving in South Korea.
   - icon: ⏰
     html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: We email your QR code — keep an eye on your inbox.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
   - icon: 🗺️
     html: <span class="font-medium">Local tip:</span> In South Korea, <span class="font-medium">Naver Map</span> and <span class="font-medium">KakaoTalk</span> are more widely used than Google Maps/WhatsApp. Download them before your trip — your eSIM data will keep you connected.
+  - icon: 📶
+    html: 'See how South Korea ranks for mobile and broadband speed on the <a href="https://www.speedtest.net/global-index" rel="noopener" target="_blank">Ookla Speedtest Global Index</a>.'
+  - icon: 📖
+    html: 'Learn how eSIM works from the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a>; device setup steps are documented by <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> and its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">traveling with eSIM guide</a>.'
+  - icon: 🧭
+    html: 'Traveling on from South Korea? Prices for <a href="/senegal-esim/">Senegal eSIM</a> and <a href="/mongolia-esim/">Mongolia eSIM</a> are worth comparing.'
   compatibility_check:
-    title: Quick Compatibility Check
+    title: 'Compatibility Check in 10 Seconds'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'How to Install South Korea eSIM: 3 Simple Steps'
+  title: 'Installing Your South Korea eSIM in Three Steps'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
+    desc: Your QR code and step-by-step activation guide are sent to your inbox roughly 5 minutes after purchase. Do look in spam if it seems missing.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -358,7 +364,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: South Korea eSIM FAQs
+    title: 'Common South Korea eSIM Questions'
     questions:
     - q: |
         How fast is 5G in South Korea? Can I get real numbers?
@@ -383,7 +389,7 @@ faq_section:
     - q: |
         Is eSIM cheaper than buying a local SIM at Incheon Airport?
       a: |
-        Yes — and significantly more convenient. Airport SIMs (SKT/KT) typically cost ₩30,000–50,000 ($22–38 USD) for 5–10GB with limited validity. Roami's 5GB/15-day plan costs $5.99 — roughly 70-80% cheaper. You also avoid: (1) queuing at the airport counter, (2) filling out Korean forms, (3) passport photocopying, and (4) the counter being closed when you arrive late at night.
+        Yes — and significantly more convenient. Airport SIMs (SKT/KT) typically cost ₩30,000–50,000 ($22–38 USD) for 5–10GB with limited validity. Roami's 5GB/15-day plan costs $4.99 — roughly 70-80% cheaper. You also avoid: (1) queuing at the airport counter, (2) filling out Korean forms, (3) passport photocopying, and (4) the counter being closed when you arrive late at night.
     - q: |
         Can I buy a South Korea eSIM at the last minute, right before my flight?
       a: |
@@ -395,52 +401,44 @@ faq_section:
 related_products:
   title: Related South Korea eSIM Plans
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Tunisia eSIM
+    flag: img/flags/tn.svg
+    price: From $3.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Vatican City eSIM
+    flag: img/flags/va.svg
+    price: From $10.99
+    is_highlight: false
+  - name: Senegal eSIM
+    flag: img/flags/se.svg
+    price: From $12.99
+    is_highlight: false
+  - name: Kenya eSIM
+    flag: img/flags/ke.svg
+    price: From $7.99
+    is_highlight: false
+  - name: Slovenia eSIM
+    flag: img/flags/sl.svg
     price: From $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
+  - name: Philippines eSIM
+    flag: img/flags/ph.svg
+    price: From $2.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
+  - name: United Arab Emirates eSIM
+    flag: img/flags/ae.svg
+    price: From $3.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
+  - name: Mongolia eSIM
+    flag: img/flags/mo.svg
+    price: From $9.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
+  - name: India eSIM
+    flag: img/flags/in.svg
+    price: From $3.99
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Malta eSIM
+    flag: img/flags/mt.svg
     price: From $1.99
     is_highlight: false
 market_analysis:
