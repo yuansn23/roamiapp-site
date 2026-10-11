@@ -1,6 +1,6 @@
 ---
 title: 'Senegal eSIM: Guía de Conexión y Velocidad | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: "Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>.<br>Los nuevos clientes disfrutan de un 20% de descuento, código promocional: web20"
 seo:
   title: 'eSIM Senegal 2026: Datos 5G Ilimitados para Viajar por África Occidental'
-  description: Compara planes eSIM para Senegal con 5G rápido en Dakar, Saint-Louis, Thiès. Guía de cobertura Orange, Free y Tigo para turistas y viajeros. Activación instantánea con QR desde $1.99.
+  description: Compara planes eSIM para Senegal con 5G rápido en Dakar, Saint-Louis, Thiès. Guía de cobertura Orange, Free y Tigo para turistas y viajeros. Activación instantánea con QR desde $12.99.
   keywords: eSIM Senegal, comprar eSIM Senegal, mejor eSIM Senegal, eSIM viaje Senegal, Orange Senegal, Free Senegal, Tigo Senegal, eSIM Dakar, eSIM Saint-Louis, eSIM Thiès, eSIM prepago Senegal, 5G eSIM Senegal
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 12.99
+  high_price: 39.99
 order_summary:
   title: Plan Seleccionado
   label_data: Datos incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de Senegal para la mejor señal
 plans_title: 'Compra eSIM Senegal: Planes para cada duración de viaje'
 plans_data:
-  7 Days:
+  7 días:
   - spec: 1GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes de negocios cortos
@@ -80,7 +80,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.86'
-  30 Days:
+  30 días:
   - spec: 3GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para hacer turismo
@@ -215,51 +215,129 @@ related_products:
   items:
   - name: eSIM Estados Unidos
     flag: img/flags/us.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Reino Unido
     flag: img/flags/gb.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Europa
     flag: img/flags/eu.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM Canadá
     flag: img/flags/ca.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Turquía
     flag: img/flags/tr.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM China
     flag: img/flags/cn.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Japón
     flag: img/flags/jp.svg
-        Los planes de datos comienzan en $1.99 por 1GB/7 dias, $9.99 por 5GB/15 dias y $19.99 por 10GB/30 dias, todo con velocidad 5G donde este disponible.
-    price: From $1.99
+        El plan más económico cuesta $12.99 (1 GB, 7 días) y el más completo, $39.99 (5 GB, 30 días).
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Francia
     flag: img/flags/fr.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM España
     flag: img/flags/es.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Alemania
     flag: img/flags/de.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en Senegal: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en Senegal (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (Senegal) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Senegal"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para Senegal"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "Orange vende en el aeropuerto Blaise Diagne de Dakar y en la tienda de Almadies."
+      esim_title: "Alta digital inmediata"
+      esim_desc: "En Senegal, la eSIM de Roami se activa por QR en segundos, sin depender del horario de las tiendas de Orange."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "Senegal exige registrar la SIM con pasaporte."
+      esim_title: "Alta sin identificación"
+      esim_desc: "En Senegal, el registro con pasaporte de Orange no es necesario: la eSIM se activa sin verificación de identidad."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "Fuera de Senegal el roaming se factura aparte."
+      esim_title: "El mismo paquete en todo el viaje"
+      esim_desc: "En Senegal, la eSIM no hereda las condiciones de roaming de Orange: el volumen contratado es el que disfrutas."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "Orange vende Forfait de 5GB por 3.000 XOF y de 20GB por 10.000 XOF, con 30 días de validez."
+      esim_title: "Planes flexibles sin desperdicio"
+      esim_desc: "Los ciclos locales son rígidos de 7, 15 o 30 días. Roami ofrece planes flexibles desde $12.99, sin pagar días que no usarás."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "En Senegal, el tethering depende del plan: las tarifas de datos lo permiten y las de voz a veces no."
+      esim_title: "Comparte sin bloqueos"
+      esim_desc: "En Senegal, la eSIM permite usar el móvil como punto de acceso en todos tus dispositivos, sin la tarifa o el bloqueo de hotspot de algunas locales."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "La recarga se hace con cupones en efectivo y con mobile money (Orange Money)."
+      esim_title: "Sin fricción de pago"
+      esim_desc: "En Senegal, olvídate de los cupones rascables: la eSIM se compra online con Visa, Mastercard, AMEX o Google Pay."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "La atención se presta en francés y wólof."
+      esim_title: "Soporte sin barreras"
+      esim_desc: "En Senegal, el servicio al cliente de Orange puede prestarse solo en el idioma local; la eSIM responde en español a cualquier hora."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para Senegal: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "shield"
+        icon_bg: "bg-teal-100"
+        icon_color: "text-teal-600"
+        title: "Cero cuotas de mantenimiento"
+        desc: "Los bloques de 30 días se desperdician en estancias cortas. La eSIM se paga una sola vez para tu viaje en Senegal, sin cuotas recurrentes."
+      - icon: "globe"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "La red más fuerte, siempre"
+        desc: "Buena cobertura en Dakar y las ciudades; limitada en el interior. En Senegal la eSIM salta a la mejor red para evitar zonas débiles."
+      - icon: "tower-observation"
+        icon_bg: "bg-rose-100"
+        icon_color: "text-rose-600"
+        title: "Sin sobrecostes fuera de la red"
+        desc: "Fuera de Senegal el roaming se factura aparte. Sin tarifas extra por datos al cruzar fronteras desde Senegal."
+      - icon: "wifi"
+        icon_bg: "bg-green-100"
+        icon_color: "text-green-600"
+        title: "Comparte datos sin límites"
+        desc: "El uso compartido está permitido en las tarifas de datos principales. En Senegal puedes usar el móvil como hotspot cuando quieras."
 ---

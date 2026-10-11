@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM India | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:05:18+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,6 +19,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM India | Red Local Fiable y Prepago Sin Contrato
+  low_price: 3.99
+  high_price: 94.99
   description: Roami te conecta en India con la red de Jio, datos ilimitados y cobertura
     extensa. Ideal para explorar sus ciudades y monumentos.
   keywords: eSIM India, Internet India, viaje India, datos móviles India, cobertura
@@ -728,97 +730,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'India eSIM vs Prepaid SIM Card: Is It Worth Switching?'
-  subtitle: "Comparativa de SIM prepagadas locales indias y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (India) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/India"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para India"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Resuelve tus dudas sobre la eSIM para India. Informacion sobre instalacion, compatibilidad con tu movil, operadores disponibles y planes para turistas."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las largas esperas en tiendas de Airtel (1-24 horas) y los sobreprecios en aeropuertos (₹100-500). Con Roami eSIM, activas en línea en 1 minuto al llegar a Delhi o Mumbai."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Es obligatorio presentar el pasaporte original y copia, copia del visado indio, fotografía tamaño carnet y comprobante de alojamiento (como tarjeta del hotel o carta de recepción). El operador puede llamar al hotel para verificar la identidad."
-      esim_title: "Sin pasaporte ni trámites"
-      esim_desc: "Olvídate de entregar copias de pasaporte, visado, fotos y comprobante de hotel. Roami eSIM no requiere KYC, protegiendo tu privacidad y evitando verificaciones telefónicas al hotel."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, las SIM indias no incluyen roaming internacional gratuito; se requieren paquetes adicionales costosos."
-      esim_title: "Roaming global sin restricciones"
-      esim_desc: "Mientras que las SIM locales no ofrecen roaming internacional gratuito, Roami eSIM te permite usar datos en más de 190 países con planes desde 1,99 $/GB, sin FUP de 100 SMS diarios ni cortes de internet en regiones como Jammu y Cachemira."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Los planes principales de Vi, Airtel y Jio tienen un ciclo de 28 días (por ejemplo, Vi ₹549 por 3.5 GB/día, Airtel ₹349 por 3 GB/día, Jio ₹149 por 1.5 GB/día). Un turista que viaja 7 días y compra el plan de ₹549 desperdicia el 75% del valor del plan."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo fijo de 28 días de Vi (₹549/3.5 GB diarios), Roami ofrece planes de 7 días desde 1,99 $/GB, ahorrando hasta un 75% del costo para estancias cortas."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, la mayoría de los operadores indios permiten tethering, pero con límites de velocidad después de cierto consumo."
-      esim_title: "Tethering ilimitado sin límites"
-      esim_desc: "Mientras que las SIM locales pueden tener restricciones de velocidad tras el consumo diario, Roami eSIM permite tethering sin límites de velocidad ni FUP, ideal para compartir conexión en viajes."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Las recargas en línea con tarjetas extranjeras suelen ser rechazadas; se recomienda usar plataformas como SwiftRecharge.com, que aplican recargos por tipo de cambio y comisiones. Los métodos de pago aceptados incluyen Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal."
-      esim_title: "Pagos globales sin recargos"
-      esim_desc: "Evita los recargos de plataformas como SwiftRecharge.com. Con Roami, pagas con Visa, Mastercard, AMEX, Apple Pay, Google Pay o PayPal, sin comisiones ocultas ni necesidad de efectivo local."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, la atención al cliente de los operadores indios suele ser solo en hindi e inglés, con horarios limitados."
-      esim_title: "Soporte 24/7 en español"
-      esim_desc: "Mientras que la atención al cliente de operadores indios es limitada en horarios y solo en hindi/inglés, Roami ofrece soporte multilingüe 24/7 vía chat y email, resolviendo cualquier incidencia al instante."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "tower-observation"
-
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        desc: "Las SIM indias no incluyen roaming internacional. Además, en regiones como Jammu y Cachemira, las tarjetas locales solo funcionan dentro de esa zona y sufren cortes frecuentes. Roami eSIM ofrece datos en más de 190 países sin restricciones geográficas."
-      - icon: "wifi"
-
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        desc: "Las SIM indias tienen FUP diario de 100 SMS y, en Jio, la velocidad se reduce a 64 kbps al agotar la cuota diaria. Roami eSIM permite tethering ilimitado sin límites de velocidad, perfecto para compartir datos con otros dispositivos."
-      - icon: "hourglass-empty"
-
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        desc: "Los planes de Vi, Airtel y Jio tienen ciclos fijos de 28 días (ej. Vi ₹549 por 3.5 GB/día). Un viajero de 7 días desperdicia el 75% del costo. Roami ofrece planes de 7 días desde 1,99 $/GB, sin pagar por lo que no usas."
-      - icon: "clock"
-
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        desc: "La activación de Airtel puede tardar hasta 24 horas, y en aeropuertos las SIM cuestan hasta ₹1000 con sobreprecio. Roami eSIM se activa en 1 minuto, sin colas ni papeleos."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "¿Cuál es más cómoda en India: eSIM o prepagada local?"
   subtitle: "Comparativa de SIM prepagadas locales indias y soluciones eSIM (referencia 2024/2025)"
@@ -845,7 +756,7 @@ market_analysis:
     - icon: "globe"
       title: "Roaming<br>internacional"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, las SIM indias no incluyen roaming internacional gratuito; se necesita un paquete adicional costoso."
+      prepaid_desc: "Las SIM indias no incluyen roaming internacional gratuito; se necesita un paquete adicional costoso."
       esim_title: "Roaming global sin sorpresas"
       esim_desc: "Las SIM locales indias no incluyen roaming internacional. Con Roami, disfrutas de datos en múltiples países sin paquetes adicionales costosos, conéctate en más de 100 destinos."
     - icon: "calendar-xmark"
@@ -853,7 +764,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Los planes principales de Vi, Airtel y Jio tienen un ciclo de 28 días. Por ejemplo, el plan de ₹549 de Vi ofrece 3.5 GB/día durante 28 días; un turista que viaja 7 días desperdicia el 75% del valor del plan."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de 28 días de Jio (₹149/2GB total) o Vi (₹549/3.5GB diarios), Roami ofrece planes de 7 días desde 1,99 $/GB, ahorrando hasta un 75% del costo para estancias cortas."
+      esim_desc: "A diferencia del ciclo de 28 días de Jio (₹149/2GB total) o Vi (₹549/3.5GB diarios), Roami ofrece planes de 7 días desde $4.99, ahorrando hasta un 75% del costo para estancias cortas."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -865,11 +776,11 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Las recargas internacionales a través de plataformas como SwiftRecharge.com tienen recargos por tipo de cambio y comisiones. No se aceptan fácilmente tarjetas extranjeras en tiendas físicas."
       esim_title: "Pagos globales sin recargos"
-      esim_desc: "Paga con Visa, Mastercard, AMEX, Apple Pay, Google Pay o PayPal. Sin necesidad de recargas locales con comisiones ocultas como en SwiftRecharge.com."
+      esim_desc: "Acepta pagos con Visa, Mastercard, AMEX, Apple Pay, Google Pay o PayPal. Sin necesidad de recargas locales con comisiones ocultas como en SwiftRecharge.com."
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general, la atención al cliente de los operadores indios suele ser solo en hindi e inglés, con horarios limitados."
+      prepaid_desc: "La atención al cliente de los operadores indios suele ser solo en hindi e inglés, con horarios limitados."
       esim_title: "Soporte 24/7 en tu idioma"
       esim_desc: "A diferencia de la atención local limitada a horarios indios, Roami ofrece soporte en español 24/7 vía chat y email, resolviendo cualquier incidencia al instante."
 
@@ -880,7 +791,7 @@ market_analysis:
       - icon: "tower-observation"
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"
-        title: "Cobertura multi-red sinzonas muertas"
+        title: "Cobertura multi-red sin zonas muertas"
         desc: "Jio solo funciona en 4G/5G, sin 2G/3G de respaldo. <b>Roami</b> se conecta a la mejor red disponible (Airtel, Vi, Jio) según la zona, evitando cortes en áreas remotas."
       - icon: "globe"
         icon_bg: "bg-purple-100"

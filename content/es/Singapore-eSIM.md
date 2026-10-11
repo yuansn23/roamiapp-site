@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Singapur | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:04:53+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,6 +20,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Singapur | Internet Rápido con Cobertura Nacional
+  low_price: 1.99
+  high_price: 65.99
   description: Con Roami en Singapur, disfruta de Internet ultrarrápido, datos sin
     límite y activación QR. Ideal para viajeros que buscan eficiencia.
   keywords: eSIM Singapur, datos móviles Singapur, viaje Singapur, internet Singapur,
@@ -435,10 +437,10 @@ faq_section:
         automáticamente la mejor red disponible (5G/4G/LTE) con la mejor cobertura
         en ciudades, así como en zonas rurales y a lo largo de las carreteras.
     - q: ¿Cuánto cuesta la eSIM para Singapur y hay descuentos?
-      a: Nuestro plan eSIM para Singapur comienza en 1,99 $/GB. Con el código promocional
+      a: Nuestro plan eSIM para Singapur comienza en $1.99. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
-        Por solo $1.99/GB puedes navegar a velocidades 5G de hasta 300 Mbps. Roami ofrece planes de 1GB a ilimitados, todos con activacion en menos de 2 minutos.
+        Las tarifas de Roami arrancan en $1.99 (1 GB, 7 días); el plan más amplio cuesta $65.99 (datos ilimitados, 30 días). Roami ofrece planes de 1GB a ilimitados, todos con activacion en menos de 2 minutos.
     - q: ¿Puedo conservar mi número de teléfono mientras uso la eSIM para Singapur?
       a: 'La eSIM Roami es exclusivamente una tarjeta de datos. Puedes usar tu tarjeta
         SIM doméstica en paralelo (por ejemplo, para llamadas/SMS). La mayoría de
@@ -746,97 +748,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Singapore eSIM vs SIM Card Plans: Which One Fits Your Needs?'
-  subtitle: "Comparativa de SIM prepagadas locales singapurenses y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Singapore) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Singapore"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Singapur"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Todo sobre la eSIM para Singapur: como comprar, instalar y activar tu plan de datos. Consejos sobre operadores, cobertura 5G y precios segun tu viaje."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las colas en el aeropuerto de Changi y la obligación de comprar paquetes caros de S$38 o S$50. Con Roami eSIM, activas en línea en 1 minuto al llegar a Singapur, sin necesidad de buscar tiendas ni hacer colas."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Desde julio de 2024, las tarjetas prepagadas registradas con pasaporte tienen una validez base de solo 30 días. Se requiere el pasaporte original para la compra; no se aceptan copias."
-      esim_title: "Sin pasaporte ni registro"
-      esim_desc: "Olvídate del requisito de pasaporte original y la validez limitada a 30 días de las prepagadas locales. Roami eSIM no requiere KYC, activación inmediata sin compartir datos personales."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Singtel S$12 ofrece 100 GB locales + 3 GB de roaming en Australia, Malasia, Indonesia y Tailandia. StarHub S$15 tiene FUP de 100 GB y 3 GB de roaming. M1 S$30 da 150 GB locales + 3 GB de roaming."
-      esim_title: "Roaming global sin límites"
-      esim_desc: "Mientras que Singtel solo ofrece 3 GB de roaming en países vecinos, Roami eSIM proporciona datos de alta velocidad en múltiples países sin restricciones FUP. Ideal para viajes por el Sudeste Asiático."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Singtel S$20 (5 GB) tiene validez de solo 7 días. StarHub S$15 (120 GB) dura 28 días. M1 S$5 (500 MB) dura 20 días. Un turista que se queda 5 días desperdicia más del 40% del valor del plan de 7 días."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de 7 días de Singtel (S$20 por 5 GB) o los 28 días de StarHub (S$15 por 120 GB), Roami ofrece planes de datos de 7 días desde 1,99 $/GB, ahorrando hasta un 75% de desperdicio para estancias cortas."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "StarHub Tourist eSIM es solo datos, sin llamadas ni SMS. M1 requiere activar datos mediante una llamada telefónica, lo que es incómodo para tablets o routers."
-      esim_title: "Tethering ilimitado y completo"
-      esim_desc: "Mientras que StarHub Tourist eSIM elimina llamadas y SMS, y M1 requiere una llamada para activar datos, Roami eSIM permite tethering ilimitado y conserva todas las funciones de comunicación."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "En el mostrador de UOB en Changi, StarHub solo acepta efectivo, no tarjetas de crédito. Singtel y M1 no admiten recargas con tarjetas extranjeras en línea."
-      esim_title: "Pagos globales sin efectivo"
-      esim_desc: "Evita la exigencia de efectivo en el mostrador de UOB en Changi. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, sin necesidad de moneda local."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general, la atención al cliente de los operadores locales suele ser en inglés y con horario limitado."
-      esim_title: "Soporte 24/7 multilingüe"
-      esim_desc: "Mientras que la atención al cliente local puede ser limitada, Roami ofrece soporte en español 24/7 vía chat y email, resolviendo cualquier incidencia al instante."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "globe"
-
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        desc: "SIMBA tiene un 4.5% de falta de señal en túneles y subterráneos. <b>Roami eSIM</b> se conecta automáticamente a la mejor red disponible (Singtel, StarHub o M1), garantizando cobertura en todo Singapur."
-      - icon: "hourglass-empty"
-
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        desc: "Singtel S$20 (5 GB) caduca en 7 días; StarHub S$15 (120 GB) en 28 días. Un turista de 5 días desperdicia más del 40% del valor. <b>Roami</b> ofrece planes desde 7 días, desde 1,99 $/GB, sin desperdicio."
-      - icon: "tower-observation"
-
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        desc: "Singtel S$12 solo da 3 GB de roaming en países vecinos; StarHub S$15 tiene FUP de 100 GB. <b>Roami eSIM</b> ofrece datos de alta velocidad en múltiples países sin límites ocultos, perfecto para viajes por el Sudeste Asiático."
-      - icon: "credit-card"
-
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        desc: "En el mostrador de UOB en Changi, StarHub solo acepta efectivo. <b>Roami</b> acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, sin necesidad de moneda local."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "Activación y configuración: eSIM vs SIM física en Singapur"
   subtitle: "Comparativa de SIM prepagadas locales singapurenses y soluciones eSIM (referencia 2024/2025)"
@@ -871,7 +782,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Singtel S$20 (5 GB) tiene solo 7 días de validez; StarHub S$18 (datos) caduca en 5 días; la mayoría de los planes turísticos son de 28 o 30 días, lo que desperdicia más del 40% del valor para estancias cortas."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia de los ciclos rígidos de 7, 14 o 28 días de Singtel (S$20 por 5 GB válido solo 7 días), Roami ofrece planes de datos de 7 días desde 1,99 $/GB, ajustándose a tu estancia real y evitando el desperdicio de más del 40%."
+      esim_desc: "A diferencia de los ciclos rígidos de 7, 14 o 28 días de Singtel (S$20 por 5 GB válido solo 7 días), Roami ofrece planes de datos de 7 días desde $1.99, ajustándose a tu estancia real y evitando el desperdicio de más del 40%."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -887,24 +798,24 @@ market_analysis:
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general, el servicio de atención al cliente de los operadores locales suele ser en inglés y con horario limitado."
+      prepaid_desc: "El servicio de atención al cliente de los operadores locales suele ser en inglés y con horario limitado."
       esim_title: "Soporte 24/7 en español"
       esim_desc: "Mientras que la atención local es limitada y en inglés, Roami ofrece soporte al cliente 24/7 en español, resolviendo cualquier duda al instante."
 
   # =============== Módulo Veredicto de Expertos ===============
   expert_verdict:
-    title: "eSIM para Singapur: la solución más inteligente yeconómica frente a la SIM prepagada local"
+    title: "eSIM para Singapur: la solución más inteligente y económica frente a la SIM prepagada local"
     cards:
       - icon: "tower-observation"
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"
-        title: "Roaming sinlímites ni FUP"
+        title: "Roaming sin límites ni FUP"
         desc: "Singtel S$12 (14 días) solo da <b>3 GB de roaming</b>; StarHub S$15 (14 días) ofrece 100 GB locales pero con <b>FUP de 100 GB</b>. Roami eSIM proporciona datos de alta velocidad en múltiples países sin restricciones."
       - icon: "hourglass-empty"
         icon_bg: "bg-amber-100"
         icon_color: "text-amber-600"
         title: "Planes flexiblesque evitan el desperdicio"
-        desc: "Singtel S$20 (5 GB) caduca en <b>7 días</b>; StarHub S$18 (datos) en <b>5 días</b>. Un viaje de 3 días desperdicia más del <b>40%</b> del valor. Roami ofrece planes de 7 días desde 1,99 $/GB, ajustados a tu estancia."
+        desc: "Singtel S$20 (5 GB) caduca en <b>7 días</b>; StarHub S$18 (datos) en <b>5 días</b>. Un viaje de 3 días desperdicia más del <b>40%</b> del valor. Roami ofrece planes de 7 días desde $1.99, ajustados a tu estancia."
       - icon: "credit-card"
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
@@ -913,6 +824,6 @@ market_analysis:
       - icon: "globe"
         icon_bg: "bg-teal-100"
         icon_color: "text-teal-600"
-        title: "Cobertura garantizada entodo Singapur"
+        title: "Cobertura garantizada en todo Singapur"
         desc: "SIMBA tiene <b>4.5% de zonas sin señal</b> en túneles y sótanos. Roami se conecta a la mejor red disponible (Singtel/StarHub/M1), asegurando cobertura en todo el país."
 ---

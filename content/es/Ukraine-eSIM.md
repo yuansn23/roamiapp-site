@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Ucrania 2026: Guía de Operadores Locales | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -24,7 +24,7 @@ seo:
   keywords: eSIM Ucrania, comprar eSIM Ucrania, mejor eSIM Ucrania, eSIM viaje Ucrania, Kyivstar Ucrania, Vodafone Ucrania,
     lifecell Ucrania, eSIM Kiev, eSIM Leópolis, eSIM Odesa, eSIM prepago Ucrania, eSIM 5G Ucrania
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: Plan Seleccionado
   label_data: Datos Incluidos
@@ -75,7 +75,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de Ucrania para la mejor señal
 plans_title: 'Compra eSIM Ucrania: Planes para Cada Duración de Viaje'
 plans_data:
-  7 Días:
+  7 días:
   - spec: 1GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes de negocios cortos
@@ -125,7 +125,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.00'
-  30 Días:
+  30 días:
   - spec: 30GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para tu viaje
@@ -175,7 +175,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.63'
-  15 Días:
+  15 días:
   - spec: 30GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para tu viaje
@@ -225,7 +225,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.87'
-  3 Días:
+  3 días:
   - spec: 1GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes de negocios cortos
@@ -388,50 +388,128 @@ related_products:
   items:
   - name: eSIM Estados Unidos
     flag: img/flags/us.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Reino Unido
     flag: img/flags/gb.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Europa
     flag: img/flags/eu.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM Canadá
     flag: img/flags/ca.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Turquía
     flag: img/flags/tr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM China
     flag: img/flags/cn.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Japón
     flag: img/flags/jp.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Francia
     flag: img/flags/fr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM España
     flag: img/flags/es.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Alemania
     flag: img/flags/de.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en Ucrania: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en Ucrania (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (Ukraine) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Ukraine"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para Ucrania"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "Kyivstar, Vodafone y lifecell venden SIM en tiendas, pero bajo la ley marcial el alta exige registro presencial."
+      esim_title: "Escaneas y conectas"
+      esim_desc: "Sin depender del horario de las tiendas de Kyivstar: compra la eSIM, escanea el QR y navega en segundos al llegar a Kiev."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "Ucrania exige registrar la SIM con pasaporte, con controles reforzados desde 2022."
+      esim_title: "Sin verificación presencial"
+      esim_desc: "En Ucrania, no hay que acudir a una tienda ni mostrar documentos: la eSIM se instala desde el móvil, sin registro."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "El roaming en la UE se ha facilitado de forma temporal, pero con límites; fuera del país se factura aparte."
+      esim_title: "Roaming sin trampas"
+      esim_desc: "A diferencia de Kyivstar, que limita o tarifa los datos fuera de su red, la eSIM de Roami mantiene el paquete íntegro durante todo el viaje."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "Los planes son mensuales, desde unos 100 UAH, con paquetes de datos generosos."
+      esim_title: "Paga solo los días que necesitas"
+      esim_desc: "En Ucrania, las prepagadas obligan a bloques de 30 días. La eSIM permite elegir 3, 5, 7, 15 o 30 días desde $1.99."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "En Ucrania, el uso compartido no está garantizado en todos los planes y depende de la promoción activa."
+      esim_title: "Punto de acceso sin coste extra"
+      esim_desc: "En Ucrania, activa el hotspot para tu portátil sin sorpresas, frente a las prepagadas que lo bloquean o lo tarifan."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "La recarga se hace online o en tienda con tarjeta local y con cupones."
+      esim_title: "Pago internacional sencillo"
+      esim_desc: "En Ucrania, la eSIM acepta las principales tarjetas y carteras digitales, sin el efectivo que suelen pedir las recargas locales."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "La atención se presta en ucraniano, con inglés limitado."
+      esim_title: "Respaldo continuo"
+      esim_desc: "En Ucrania, la eSIM incluye atención en español 24/7, algo poco habitual en la atención prepagada local."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para Ucrania: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "clock"
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "Listo antes de aterrizar"
+        desc: "Kyivstar, Vodafone y lifecell venden SIM en tiendas, pero bajo la ley marcial el alta exige registro presencial. Instálala antes de viajar y tendrás datos desde el primer minuto en Ucrania."
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "Recarga sin cupones locales"
+        desc: "La recarga se hace online o en tienda con tarjeta local y con cupones. Con Roami pagas con tarjeta internacional durante tu estancia en Ucrania."
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "Cero trámites de alta"
+        desc: "Ucrania exige registrar la SIM con pasaporte, con controles reforzados desde 2022. La eSIM se instala sin pasaporte, sin foto y sin formularios en Ucrania."
+      - icon: "wifi"
+        icon_bg: "bg-green-100"
+        icon_color: "text-green-600"
+        title: "Tethering sin penalización"
+        desc: "El uso compartido está permitido en las tarifas principales. Comparte datos con portátil y tablet en Ucrania sin recargos."
 ---

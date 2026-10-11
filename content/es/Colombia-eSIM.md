@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Colombia | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:06:11+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,6 +19,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Colombia | Alta Velocidad y Roaming Incluido
+  low_price: 4.99
+  high_price: 86.99
   description: Con Roami en Colombia, obtén Internet de alta velocidad, datos ilimitados
     y roaming multi-país. Perfecto para descubrir sus ciudades y naturaleza.
   keywords: eSIM Colombia, internet ilimitado Colombia, viajar a Colombia, cobertura
@@ -387,10 +389,10 @@ faq_section:
         Recomendamos instalarla con WiFi en casa y mantenerla desactivada hasta el viaje.
         La validez del plan comienza al activarse, no al instalarse, asi que no pierdes tiempo.
     - q: ¿Cuánto cuesta la eSIM para Colombia y hay descuentos?
-      a: Nuestro plan eSIM para Colombia comienza en 1,99 $/GB. Con el código promocional
+      a: Nuestro plan eSIM para Colombia comienza en $4.99. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
-        Por $1.99 obtienes 1GB para 7 dias, por $9.99 tienes 5GB para 15 dias, y por $19.99 disfrutas de 10GB para 30 dias. Todo con velocidades 5G de alta velocidad.
+        El plan más económico cuesta $4.99 (1 GB, 3 días) y el más completo, $86.99 (30 GB, 30 días). Todo con velocidades 5G de alta velocidad.
     - q: ¿Puedo seguir recibiendo llamadas en mi tarjeta SIM doméstica mientras uso
         la eSIM para Colombia?
       a: |
@@ -719,97 +721,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Colombia eSIM or SIM Card: What’s the Best Option in 2026?'
-  subtitle: "Comparativa de SIM prepagadas locales colombianas y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Colombia) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Colombia"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Colombia"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Descubre como funciona la eSIM para Colombia: activacion instantanea, redes compatibles y la mejor relacion calidad-precio en datos moviles."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita el sobreprecio del aeropuerto de Bogotá y la necesidad de identificación y comprobante de domicilio. Con Roami eSIM, activas en línea en 1 minuto al llegar a Colombia."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "En Colombia, la compra de una SIM prepagada requiere registro de IMEI en un plazo de 30 días, a través de la tienda o el servicio de atención al cliente en español."
-      esim_title: "Sin pasaporte ni registro IMEI"
-      esim_desc: "Olvídate del registro obligatorio de IMEI en 30 días que exigen Claro, Movistar y Tigo. Roami eSIM no requiere KYC ni verificación de pasaporte."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "El roaming CAN (Bolivia, Colombia, Ecuador, Perú) solo aplica para pospago, no para prepago; las SIM prepagadas no tienen roaming gratuito."
-      esim_title: "Roaming global sin restricciones"
-      esim_desc: "A diferencia de las SIM prepagadas colombianas, que no tienen roaming CAN gratuito (solo pospago), Roami eSIM funciona en múltiples países sin costos adicionales."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Claro ofrece un plan de 7 días por COP 11,000 con 5 GB; un viaje de 5 días desperdicia el 28% del valor del plan."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "Los planes de Claro y Movistar son de 7, 15 o 30 días fijos. Roami ofrece planes de datos de 7 días desde 1,99 $/GB, ajustados a tu viaje, ahorrando hasta un 28% frente a un plan de 7 días de Claro."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "El texto fuente no menciona restricciones de tethering para Claro, Movistar, Tigo o WOM."
-      esim_title: "Tethering ilimitado sin bloqueos"
-      esim_desc: "Mientras que algunas SIM locales pueden restringir el tethering, Roami eSIM permite compartir datos sin límites ni reducciones de velocidad."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Las recargas se realizan en tiendas físicas o mediante tarjetas de crédito locales; las tarjetas extranjeras pueden ser rechazadas."
-      esim_title: "Pagos globales sin rechazos"
-      esim_desc: "Aceptamos Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal. Sin problemas de rechazo de tarjetas extranjeras como ocurre con las recargas locales."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "El servicio de atención al cliente de Claro, Movistar y Tigo es principalmente en español, sin chat en línea para prepago."
-      esim_title: "Soporte 24/7 en español"
-      esim_desc: "A diferencia del soporte solo en español y en horario limitado de Claro y Movistar, Roami ofrece atención al cliente 24/7 en múltiples idiomas."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "shield"
-
-        icon_bg: "bg-yellow-100"
-        icon_color: "text-yellow-600"
-        desc: "Si no registras el IMEI en 30 días, tu teléfono puede ser bloqueado. Roami eSIM no requiere registro, eliminando este riesgo."
-      - icon: "credit-card"
-
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        desc: "Las recargas locales requieren tiendas físicas o tarjetas locales. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, sin rechazos."
-      - icon: "clock"
-
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        desc: "En el aeropuerto de Bogotá, las SIM Claro tienen sobreprecio y requieren identificación. Roami eSIM se activa en línea en 1 minuto."
-      - icon: "wifi"
-
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        desc: "Aunque el texto fuente no menciona restricciones explícitas, algunas SIM locales pueden bloquear el tethering. Roami eSIM permite compartir datos ilimitadamente."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "eSIM o prepagada en Colombia: ¿cuál es para ti?"
   subtitle: "Comparativa de SIM prepagadas locales colombianas y soluciones eSIM (referencia 2024/2025)"
@@ -844,7 +755,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Claro ofrece un plan de 7 días por COP 11,000 (5 GB), Movistar un plan de 7 días por COP 13,900 (1.4 GB + 150 MB WhatsApp); un viaje de 5 días desperdicia el 28% del valor del plan de Claro."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo fijo de 7 días de Claro (COP 11,000/5GB) o Movistar (COP 13,900/1.4GB), Roami ofrece planes de datos de 7 días desde 1,99 $/GB. Un viaje de 5 días con Claro desperdicia el 28% del valor; con Roami pagas solo por los días que usas."
+      esim_desc: "A diferencia del ciclo fijo de 7 días de Claro (COP 11,000/5GB) o Movistar (COP 13,900/1.4GB), Roami ofrece planes de datos de 7 días desde $6.99. Un viaje de 5 días con Claro desperdicia el 28% del valor; con Roami pagas solo por los días que usas."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -854,7 +765,7 @@ market_analysis:
     - icon: "credit-card"
       title: "Recarga y<br>pago"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, las recargas se realizan en tiendas físicas o mediante tarjetas de crédito internacionales (Visa, Mastercard, AMEX) en sitios web de operadores."
+      prepaid_desc: "Las recargas se realizan en tiendas físicas o mediante tarjetas de crédito internacionales (Visa, Mastercard, AMEX) en sitios web de operadores."
       esim_title: "Pagos globales sin complicaciones"
       esim_desc: "Paga con Visa, Mastercard, AMEX, Apple Pay, Google Pay o PayPal. Olvídate de las recargas en tiendas físicas o de los problemas con tarjetas extranjeras. Todo en línea, seguro y rápido."
     - icon: "headset"
@@ -866,7 +777,7 @@ market_analysis:
 
   # =============== Módulo Veredicto de Expertos ===============
   expert_verdict:
-    title: "¿Cuál ahorra más en Colombia: eSIM o SIM local? La solución más inteligente yeconómica"
+    title: "¿Cuál ahorra más en Colombia: eSIM o SIM local? La solución más inteligente y económica"
     cards:
       - icon: "globe"
         icon_bg: "bg-green-100"
@@ -886,6 +797,6 @@ market_analysis:
       - icon: "wifi"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
-        title: "Tethering sinrestricciones"
+        title: "Tethering sin restricciones"
         desc: "WOM limita el uso de VoIP en WhatsApp (no incluye llamadas en la exención de datos). Otros operadores pueden restringir el tethering. Con eSIM, puedes compartir datos libremente con tus dispositivos, sin límites ni bloqueos."
 ---

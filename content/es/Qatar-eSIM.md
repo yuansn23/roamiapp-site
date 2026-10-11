@@ -1,6 +1,6 @@
 ---
 title: 'Qatar eSIM : Guía de 5G y Datos | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,7 +20,7 @@ seo:
   description: Compara planes de eSIM para Catar con rápida 5G en Doha, Al Wakrah, Al Khor. Guía de cobertura de Ooredoo, Vodafone Qatar y Orange Qatar para turistas y viajeros. Activación instantánea con QR desde $1.99.
   keywords: Qatar eSIM, comprar Qatar eSIM, mejor Qatar eSIM, eSIM para viajar a Catar, Ooredoo, Vodafone Qatar, Orange Qatar, eSIM Doha, eSIM Al Wakrah, eSIM Al Khor, eSIM prepago Catar, 5G Qatar eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 94.99
 order_summary:
   title: Plan Seleccionado
   label_data: Datos Incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de Catar para la mejor señal
 plans_title: 'Compra Qatar eSIM: Planes para Cada Duración de Viaje'
 plans_data:
-  7 Días:
+  7 días:
   - spec: 1GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes de negocios cortos
@@ -129,7 +129,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '6.43'
-  15 Días:
+  15 días:
   - spec: 3GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para hacer turismo
@@ -179,7 +179,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '6.33'
-  30 Días:
+  30 días:
   - spec: 3GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para hacer turismo
@@ -221,7 +221,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.67'
-  3 Días:
+  3 días:
   - spec: 3GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para hacer turismo
@@ -354,7 +354,7 @@ faq_section:
     - q: |
         ¿El plan ilimitado de eSIM para Catar se ralentiza si uso demasiados datos?
       a: |
-        Hay una política de uso justo, las velocidades se reducen después de 30GB en un día. A velocidad reducida aún puedes enviar mensajes, navegar y usar mapas — pero no video sin interrupciones. Realísticamente, la mayoría de los viajeros no se acercan a los 30GB. Si te preocupa, un plan fijo de 10GB ($14.99) o 20GB ($24.99) elimina la incertidumbre por completo.
+        Hay una política de uso justo, las velocidades se reducen después de 30GB en un día. A velocidad reducida aún puedes enviar mensajes, navegar y usar mapas — pero no video sin interrupciones. Realísticamente, la mayoría de los viajeros no se acercan a los 30GB. Los planes de Roami abarcan desde $1.99 (100MB, 7 días) hasta $94.99 (datos ilimitados, 15 días), sin contratos ni cargos ocultos.
     - q: |
         ¿Qué hago si mi eSIM para Catar no se conecta al llegar?
       a: |
@@ -370,50 +370,128 @@ related_products:
   items:
   - name: eSIM para Estados Unidos
     flag: img/flags/us.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Reino Unido
     flag: img/flags/gb.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Europa
     flag: img/flags/eu.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM para Canadá
     flag: img/flags/ca.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Turquía
     flag: img/flags/tr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para China
     flag: img/flags/cn.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Japón
     flag: img/flags/jp.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Hong Kong
     flag: img/flags/hk.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Francia
     flag: img/flags/fr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para España
     flag: img/flags/es.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Alemania
     flag: img/flags/de.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Australia
     flag: img/flags/au.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en Catar: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en Catar (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (Qatar) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Qatar"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para Catar"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "Ooredoo y Vodafone tienen mostrador 24/7 en el aeropuerto de Hamad, en Doha."
+      esim_title: "Conexión en 60 segundos"
+      esim_desc: "Sin buscar puntos de venta de Ooredoo ni rellenar formularios: la eSIM se instala en menos de un minuto antes del viaje."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "Catar exige registrar la SIM con pasaporte."
+      esim_title: "Activación sin datos personales"
+      esim_desc: "En Catar, no necesitas presentar pasaporte ni firmar formularios. La eSIM funciona sin registro de identidad."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "El roaming fuera de Catar se factura aparte."
+      esim_title: "Cobertura transfronteriza"
+      esim_desc: "En Catar, con la eSIM cruzas fronteras sin cambiar de SIM ni pagar tarifas de roaming adicionales."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "Ooredoo vende Shahry Tourist de 5GB por 30 QAR (7 días) y de 30GB por 100 QAR (30 días)."
+      esim_title: "Adiós al ciclo de 30 días"
+      esim_desc: "En Catar, las prepagadas cierran el ciclo en 30 días; la eSIM se adapta a tu estancia desde $1.99."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "En Catar, el hotspot se admite, pero algunos operadores lo desactivan en las tarifas más económicas."
+      esim_title: "Comparte cuando quieras"
+      esim_desc: "En Catar, usa la eSIM para conectar portátil o tablet sin las restricciones de hotspot de ciertas tarifas locales."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "En Catar, la recarga se hace online o en tienda con tarjeta local."
+      esim_title: "Pagos globales sin barreras"
+      esim_desc: "En Catar, algunas recargas locales rechazan tarjetas internacionales. La eSIM se paga con Visa, Mastercard, AMEX y PayPal."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "En Catar, la atención se presta en árabe e inglés."
+      esim_title: "Atención en tu idioma"
+      esim_desc: "En Catar, frente al servicio local, a menudo solo en el idioma del país, la eSIM responde en español cualquier día."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para Catar: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "shield"
+        icon_bg: "bg-teal-100"
+        icon_color: "text-teal-600"
+        title: "Sin saldo que se pierde"
+        desc: "Las prepagadas locales pierden saldo si no se recargan con frecuencia. Frente a las prepagadas, la eSIM no aplica mantenimiento ni caducidad del saldo en Catar."
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "Compra con tu tarjeta de siempre"
+        desc: "La recarga se hace online o en tienda con tarjeta local. En Catar no necesitas cupones ni efectivo local: la compra es online."
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "Activación sin pasaporte"
+        desc: "Catar exige registrar la SIM con pasaporte. En Catar no tendrás que entregar el pasaporte ni datos biométricos."
+      - icon: "wifi"
+        icon_bg: "bg-green-100"
+        icon_color: "text-green-600"
+        title: "Hotspot sin coste extra"
+        desc: "El uso compartido está permitido en las tarifas de datos principales. El tethering en Catar no tiene coste añadido ni bloqueos con Roami."
 ---

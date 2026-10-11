@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Letonia | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:06:04+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,6 +20,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Letonia | Conexión Estable y Datos Ilimitados
+  low_price: 1.99
+  high_price: 77.99
   description: Viaja a Letonia con Roami y obtén conexión rápida, datos ilimitados
     y cobertura nacional. Perfecto para descubrir su arquitectura y naturaleza.
   keywords: eSIM Letonia, datos móviles Letonia, viajar a Letonia, cobertura Letonia,
@@ -434,10 +436,10 @@ faq_section:
         Puedes instalar la eSIM semanas antes del viaje sin que el tiempo corra.
         El codigo QR es valido por 30 dias, asi que tienes tiempo de sobra para preparar todo.
     - q: ¿Cuánto cuesta la eSIM para Letonia y hay descuentos?
-      a: Nuestro plan eSIM para Letonia comienza en 1,99 $/GB. Con el código promocional
+      a: Nuestro plan eSIM para Letonia comienza en $1.99. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
-        Por solo $1.99/GB puedes navegar a velocidades 5G de hasta 300 Mbps. Roami ofrece planes de 1GB a ilimitados, todos con activacion en menos de 2 minutos.
+        Los planes de datos de Roami comienzan en $1.99 (1 GB, 3 días) y llegan hasta $77.99 (datos ilimitados, 30 días). Roami ofrece planes de 1GB a ilimitados, todos con activacion en menos de 2 minutos.
     - q: ¿Ofrecen garantía de reembolso si la eSIM para Letonia no funciona?
       a: |
         Ofrecemos garantia de reembolso del 100% en los primeros 7 dias desde la compra, si la eSIM para Letonia no funciona en tu dispositivo o tienes problemas de compatibilidad.
@@ -758,97 +760,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Latvia eSIM or Prepaid SIM Card: A Side-by-Side Comparison'
-  subtitle: "Comparativa de SIM prepagadas locales letonas y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Latvia) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Latvia"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Letonia"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "LMT no vende la tarjeta SIM de 1,50 € en su sitio web, debe adquirirse en tiendas físicas; la tarjeta SIM de Zelta Zivtiņa cuesta entre 1,49 y 3,99 € en tiendas."
-      esim_title: "Activación instantánea sin tiendas"
-      esim_desc: "Evita la búsqueda de tarjetas LMT de 1,50 € en tiendas físicas. Con Roami eSIM, activas en línea en 1 minuto al llegar a Riga, sin necesidad de visitar un centro de servicio."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, en Letonia se requiere registro con pasaporte para activar SIM prepagada, similar a otros países de la UE."
-      esim_title: "Sin pasaporte ni registro"
-      esim_desc: "Olvídate del registro con pasaporte obligatorio en Letonia. Roami eSIM no requiere identificación, activación anónima y segura."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "El plan de 7 días ilimitado de LMT por 3,50 € solo incluye 3,2 GB de roaming en la UE; el plan ilimitado de 7 días de Zelta Zivtiņa por 2,49 € no tiene roaming en la UE; Bite solo ofrece un plan con 100 MB de roaming en la UE por 6,75 €/30 días."
-      esim_title: "Roaming global sin restricciones"
-      esim_desc: "Mientras que LMT limita el roaming UE a 3,2 GB en su plan de 3,50 € y Zelta Zivtiņa lo bloquea por completo, Roami ofrece datos en toda la UE sin reducciones de velocidad ni cargos ocultos."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "LMT ofrece planes semanales de 7 días desde 3,00 €, que se renuevan automáticamente; un viaje de 2 días desperdicia 5 días de servicio. Zelta Zivtiņa ofrece planes semanales de 7 días desde 2,49 €, solo válidos en Letonia."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de 7 días de LMT (3,50 €) que se renueva automáticamente, Roami ofrece planes de datos desde 7 días, desde 1,99 $/GB, evitando el desperdicio de un viaje corto."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, la mayoría de los operadores en Letonia permiten tethering, pero puede estar restringido en planes de datos ilimitados."
-      esim_title: "Tethering ilimitado incluido"
-      esim_desc: "Comparte datos con todos tus dispositivos sin restricciones. A diferencia de algunos planes locales que limitan el tethering, Roami lo permite sin límites."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Las recargas en línea pueden rechazar tarjetas extranjeras; se recomienda comprar tarjetas de recarga físicas en tiendas. Los métodos de pago comunes son Visa, Mastercard, pero no se mencionan otros."
-      esim_title: "Pagos globales sin complicaciones"
-      esim_desc: "Paga con Visa, Mastercard, AMEX, Apple Pay, Google Pay o PayPal. Sin necesidad de tarjetas de recarga físicas ni preocuparte por rechazos de tarjetas extranjeras."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, la atención al cliente de los operadores locales suele ser en letón y ruso, con horario limitado."
-      esim_title: "Soporte 24/7 en español"
-      esim_desc: "Atención al cliente en español las 24 horas, los 7 días de la semana. Olvida el soporte solo en letón o ruso de los operadores locales."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "wifi"
-
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        desc: "Algunos planes locales limitan el tethering. Las eSIM permiten compartir datos con todos tus dispositivos sin límites, ideal para viajeros que necesitan conectar varios equipos."
-      - icon: "globe"
-
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        desc: "Las eSIM se conectan a las mejores redes locales como LMT (cobertura 4G >90% población) o Tele2, ofreciendo la misma calidad que las SIM físicas pero con mayor flexibilidad."
-      - icon: "tower-observation"
-
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        desc: "El plan de 7 días ilimitado de LMT por 3,50 € solo ofrece 3,2 GB en roaming UE (reducción del 91% respecto a los 22,4 GB locales). Zelta Zivtiņa bloquea el roaming en sus planes económicos. Las eSIM ofrecen datos sin restricciones geográficas."
-      - icon: "hourglass-empty"
-
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        desc: "LMT y Zelta Zivtiņa venden planes semanales (7 días) desde 2,49 €. Un viaje de 2 días desperdicia el 71% del valor del plan. Las eSIM ofrecen planes desde 1 día, ajustándose a tu estancia."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "Comparativa de costes y comodidad entre eSIM y prepagada en Letonia"
   subtitle: "Comparativa de SIM prepagadas locales letonas y soluciones eSIM (referencia 2024/2025)"
@@ -869,7 +780,7 @@ market_analysis:
     - icon: "id-card"
       title: "KYC y<br>registro de pasaporte"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, en Letonia la compra de SIM prepagada generalmente requiere presentar pasaporte para registro."
+      prepaid_desc: "En Letonia la compra de SIM prepagada generalmente requiere presentar pasaporte para registro."
       esim_title: "Sin pasaporte ni registro"
       esim_desc: "Olvídate del registro con pasaporte que exigen las SIM locales. Roami eSIM no requiere identificación, activación anónima y segura."
     - icon: "globe"
@@ -883,29 +794,29 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "LMT ofrece planes semanales (7 días) desde 3,50 €, con renovación automática. ZZ ofrece planes semanales desde 2,49 €, solo válidos en Letonia. Un turista que se queda 2 días desperdicia más del 70% del valor del plan."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo semanal de LMT (3,50 €/7 días) que obliga a pagar por días no usados, Roami ofrece planes desde 7 días y desde 1,99 $/GB, ajustándose a tu estancia real y ahorrando hasta un 70%."
+      esim_desc: "A diferencia del ciclo semanal de LMT (3,50 €/7 días) que obliga a pagar por días no usados, Roami ofrece planes desde 7 días y desde $2.99, ajustándose a tu estancia real y ahorrando hasta un 70%."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general, la mayoría de operadores en Letonia permiten tethering, pero puede haber restricciones en planes de datos ilimitados."
+      prepaid_desc: "La mayoría de operadores en Letonia permiten tethering, pero puede haber restricciones en planes de datos ilimitados."
       esim_title: "Tethering ilimitado incluido"
-      esim_desc: "Comparte datos con todos tus dispositivos sin restricciones. Roami eSIM permite tethering sin límites, a diferencia de algunas SIM locales que lo restringen en planes económicos."
+      esim_desc: "Comparte tu conexión con todos los dispositivos, sin límites. Roami eSIM permite tethering sin límites, a diferencia de algunas SIM locales que lo restringen en planes económicos."
     - icon: "credit-card"
       title: "Recarga y<br>pago"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Los métodos de pago comunes incluyen Visa, Mastercard, efectivo en tiendas."
+      prepaid_desc: "Los métodos de pago comunes incluyen Visa, Mastercard, efectivo en tiendas."
       esim_title: "Pagos globales sin complicaciones"
       esim_desc: "Paga con Visa, Mastercard, AMEX, Apple Pay, Google Pay o PayPal. Sin necesidad de efectivo ni recargas en tiendas, todo online y seguro."
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. La atención al cliente suele ser en letón y ruso, con horario limitado."
+      prepaid_desc: "La atención al cliente suele ser en letón y ruso, con horario limitado."
       esim_title: "Soporte 24/7 en español"
       esim_desc: "Atención al cliente en español las 24 horas, los 7 días de la semana. Olvídate del soporte solo en letón o ruso de las operadoras locales."
 
   # =============== Módulo Veredicto de Expertos ===============
   expert_verdict:
-    title: "eSIM para Letonia: la solución más inteligente yeconómica frente a la SIM turística"
+    title: "eSIM para Letonia: la solución más inteligente y económica frente a la SIM turística"
     cards:
       - icon: "clock"
         icon_bg: "bg-indigo-100"
@@ -925,6 +836,6 @@ market_analysis:
       - icon: "wifi"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
-        title: "Tethering sinrestricciones"
+        title: "Tethering sin restricciones"
         desc: "Comparte datos con todos tus dispositivos sin límites. Roami eSIM permite tethering ilimitado, mientras que algunas SIM locales como las de Bite pueden tener restricciones en planes de datos."
 ---

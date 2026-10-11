@@ -1,6 +1,6 @@
 ---
 title: 'eSIM para Nepal : Guía de conexión y velocidad | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ seo:
   title: eSIM Nepal | Mejor plan prepago para viajar
   description: Viaja a Nepal con la mejor eSIM de viaje prepago de Roami. Datos 5G ilimitados. Cubre Katmandú, Pokhara y Bharatpur. Activación QR instantánea. Compra tu plan en línea hoy.
   keywords: eSIM Nepal, comprar eSIM Nepal, mejor eSIM Nepal, eSIM de viaje Nepal, Ncell Nepal, Nepal Telecom Nepal, Smart Cell Nepal, eSIM Katmandú, eSIM Pokhara, eSIM Bharatpur, eSIM prepago Nepal, 5G eSIM Nepal
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 10.99
+  high_price: 124.99
 order_summary:
   title: Plan seleccionado
   label_data: Datos incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de Nepal para la mejor señal
 plans_title: 'Compra eSIM para Nepal: Planes para cada duración de viaje'
 plans_data:
-  7 Days:
+  7 días:
   - spec: 3GB
     data: 5G/4G/LTE de alta velocidad
     desc: Perfecto para hacer turismo
@@ -105,7 +105,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.57'
-  15 Days:
+  15 días:
   - spec: 3GB
     data: 5G/4G/LTE de alta velocidad
     desc: Perfecto para hacer turismo
@@ -139,7 +139,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '8.33'
-  30 Days:
+  30 días:
   - spec: 3GB
     data: 5G/4G/LTE de alta velocidad
     desc: Perfecto para hacer turismo
@@ -173,7 +173,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '3.33'
-  3 Days:
+  3 días:
   - spec: Ilimitado
     data: Alta velocidad ilimitada
     desc: Uso de datos sin preocupaciones
@@ -322,51 +322,129 @@ related_products:
   items:
   - name: eSIM Estados Unidos
     flag: img/flags/us.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Reino Unido
     flag: img/flags/gb.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Europa
     flag: img/flags/eu.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM Canadá
     flag: img/flags/ca.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Turquía
     flag: img/flags/tr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM China
     flag: img/flags/cn.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Japón
     flag: img/flags/jp.svg
-    price: Desde $1.99
-        Por $1.99 obtienes 1GB para 7 dias, por $9.99 tienes 5GB para 15 dias, y por $19.99 disfrutas de 10GB para 30 dias. Todo con velocidades 5G de alta velocidad.
+    price: Desde 1,99 $
+        Las tarifas de Roami arrancan en $10.99 (1 GB, 7 días); el plan más amplio cuesta $124.99 (20 GB, 15 días). Todo con velocidades 5G de alta velocidad.
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Francia
     flag: img/flags/fr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM España
     flag: img/flags/es.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Alemania
     flag: img/flags/de.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en Nepal: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en Nepal (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (Nepal) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Nepal"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para Nepal"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "Ncell y Nepal Telecom venden en el aeropuerto de Katmandú y en tiendas del barrio de Thamel."
+      esim_title: "Escaneas y conectas"
+      esim_desc: "Sin depender del horario de las tiendas de Ncell: compra la eSIM, escanea el QR y navega en segundos al llegar a Katmandú."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "Nepal exige registrar la SIM con pasaporte."
+      esim_title: "Sin verificación presencial"
+      esim_desc: "En Nepal, no hay que acudir a una tienda ni mostrar documentos: la eSIM se instala desde el móvil, sin registro."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "Fuera de Nepal no hay roaming económico."
+      esim_title: "Roaming sin trampas"
+      esim_desc: "A diferencia de Ncell, que limita o tarifa los datos fuera de su red, la eSIM de Roami mantiene el paquete íntegro durante todo el viaje."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "Ncell vende Tourist de 3GB por 499 NPR y de 10GB por 899 NPR, con 30 días de validez."
+      esim_title: "Paga solo los días que necesitas"
+      esim_desc: "Las prepagadas obligan a bloques de 30 días. La eSIM permite elegir 3, 5, 7, 15 o 30 días desde $10.99."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "En Nepal, el uso compartido no está garantizado en todos los planes y depende de la promoción activa."
+      esim_title: "Punto de acceso sin coste extra"
+      esim_desc: "En Nepal, activa el hotspot para tu portátil sin sorpresas, frente a las prepagadas que lo bloquean o lo tarifan."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "En Nepal, la recarga se hace con cupones locales y, en algunos puntos, con tarjeta."
+      esim_title: "Pago internacional sencillo"
+      esim_desc: "En Nepal, la eSIM acepta las principales tarjetas y carteras digitales, sin el efectivo que suelen pedir las recargas locales."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "La atención se presta en nepalí e inglés."
+      esim_title: "Respaldo continuo"
+      esim_desc: "En Nepal, la eSIM incluye atención en español 24/7, algo poco habitual en la atención prepagada local."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para Nepal: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "shield"
+        icon_bg: "bg-teal-100"
+        icon_color: "text-teal-600"
+        title: "Cero cuotas de mantenimiento"
+        desc: "Las prepagadas locales descuentan datos no usados al expirar el plan. La eSIM se paga una sola vez para tu viaje en Nepal, sin cuotas recurrentes."
+      - icon: "clock"
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "Conectado en 60 segundos"
+        desc: "Ncell y Nepal Telecom venden en el aeropuerto de Katmandú y en tiendas del barrio de Thamel. En Nepal la eSIM se activa sola; no dependes del horario de las tiendas locales."
+      - icon: "wifi"
+        icon_bg: "bg-green-100"
+        icon_color: "text-green-600"
+        title: "Comparte datos sin límites"
+        desc: "El uso compartido está permitido en las tarifas de datos principales. En Nepal puedes usar el móvil como hotspot cuando quieras."
+      - icon: "hourglass-empty"
+        icon_bg: "bg-amber-100"
+        icon_color: "text-amber-600"
+        title: "Duración a tu medida"
+        desc: "Ncell vende Tourist de 3GB por 499 NPR y de 10GB por 899 NPR, con 30 días de validez. Elige la duración exacta de tu viaje en Nepal desde $10.99."
 ---

@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM México | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:04:25+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,6 +19,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM México | Red Local Fiable y Prepago Sin Contrato
+  low_price: 3.99
+  high_price: 68.99
   description: Viaja a México con Roami y obtén Internet rápido, datos sin límite
     y cobertura nacional. Perfecto para playas, ruinas y ciudades.
   keywords: eSIM México, datos móviles México, viajar a México, cobertura México,
@@ -410,7 +412,7 @@ faq_section:
         uso justo solo se aplica en caso de consumo extremo (por ejemplo, transmisión
         4K continua durante varios días). La navegación habitual, redes sociales,
         videollamadas y GPS no están limitados.
-        Roami ofrece planes desde $1.99/GB (7 dias) hasta $59.99 por datos ilimitados (30 dias), con velocidades 5G de 100 a 300 Mbps en la mayoria de zonas urbanas.
+        Las tarifas de Roami arrancan en $3.99 (1 GB, 7 días); el plan más amplio cuesta $68.99 (30 GB, 30 días).
     - q: ¿Puedo transferir la eSIM para México a otro dispositivo después de instalarla?
       a: |
         Una vez instalada, la eSIM para Mexico NO se puede transferir a otro dispositivo.
@@ -437,7 +439,6 @@ faq_section:
         Activas tu eSIM digitalmente en menos de 2 minutos desde cualquier lugar del mundo.
         Llegas a Mexico con internet desde el momento del aterrizaje, sin colas en el aeropuerto.
         Ademas, los precios de Roami suelen ser 30-50% mas baratos que las SIM turisticas disponibles en tiendas del aeropuerto.
-
 
     - q: ¿Cómo funciona el roaming internacional con la eSIM para México en países
         vecinos?
@@ -752,97 +753,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Mexico eSIM vs Physical SIM Card: Pros and Cons Breakdown – Best eSIM for Mexico Travelers'
-  subtitle: "Comparativa de SIM prepagadas locales mexicanas y soluciones eSIM (referencia 2025/2026)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Mexico) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Mexico"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para México"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Todo sobre la eSIM para México: como comprar, instalar y activar tu plan de datos. Consejos sobre operadores, cobertura 5G y precios segun tu viaje."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las largas filas en tiendas Telcel u Oxxo y el engorroso registro con pasaporte y selfie. Con Roami eSIM, activas en 1 minuto escaneando un código QR, listo para usar al aterrizar en Ciudad de México."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Desde el 9 de enero de 2026, todas las nuevas SIM prepagadas en México deben registrarse con el CURP y documento de identidad (pasaporte para extranjeros), incluyendo escaneo del pasaporte y selfie."
-      esim_title: "Sin pasaporte ni selfie"
-      esim_desc: "Desde 2026, las SIM locales exigen pasaporte y selfie. Roami eSIM no requiere ningún registro de identidad, protegiendo tu privacidad y ahorrándote trámites."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Telcel ofrece roaming gratuito en EE. UU. y Canadá, pero con una cláusula antiableuso: si se usa más de 29 días fuera de México y el consumo exterior supera al nacional, se suspende el servicio. El roaming en Latinoamérica es caro: 750 MB por 30 días cuestan 499 MXN."
-      esim_title: "Roaming global sin sorpresas"
-      esim_desc: "Mientras Telcel limita el roaming gratuito a EE. UU. y Canadá con cláusulas restrictivas y cobra 499 MXN por 750 MB en Latinoamérica, Roami eSIM ofrece datos en múltiples países sin restricciones ni cargos ocultos."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Telcel tiene planes desde 7 días (50 MXN con 400 MB), AT&T desde 14 días (100 MXN con 1 GB) y Movistar desde 15 días (75 MXN con 200 MB). No hay planes de menos de 7 días, lo que obliga a pagar por días no usados."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "Los planes locales empiezan en 7 días (Telcel 50 MXN/400 MB), forzando a pagar por días no usados. Roami eSIM ofrece planes desde 3 días, desde 1,99 $/GB, ajustándose exactamente a tu viaje."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "Unefon prohíbe explícitamente el tethering. Movistar limita la velocidad a 1 Mbps después de 1 GB diario, lo que afecta al uso compartido de datos."
-      esim_title: "Tethering ilimitado sin trabas"
-      esim_desc: "Unefon prohíbe el tethering y Movistar limita a 1 Mbps tras 1 GB diario. Con Roami eSIM, disfrutas de tethering ilimitado a máxima velocidad, compartiendo datos con todos tus dispositivos."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Telcel ya no acepta PayPal; solo tarjetas internacionales. Oxxo, el principal punto de recarga, solo acepta efectivo. No hay métodos como Apple Pay o Google Pay."
-      esim_title: "Pagos globales sin efectivo"
-      esim_desc: "Olvídate del efectivo en Oxxo o de tarjetas rechazadas. Roami eSIM acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, con pago único online antes de viajar."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "No hay datos específicos en la fuente sobre atención al cliente. Según conocimiento general, el soporte telefónico es en español y los horarios pueden ser limitados."
-      esim_title: "Soporte 24/7 en tu idioma"
-      esim_desc: "Mientras la atención local es solo en español y con horarios limitados, Roami eSIM ofrece soporte multicanal 24/7 en español e inglés, resolviendo cualquier incidencia al instante."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "globe"
-
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        desc: "Telcel tiene la mejor cobertura en México, pero su roaming en Latinoamérica es caro y limitado. AT&T no ofrece 5G a prepago. Roami eSIM se conecta a las mejores redes locales (Telcel, AT&T) y ofrece cobertura en múltiples países con un solo plan."
-      - icon: "credit-card"
-
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        desc: "Telcel ya no acepta PayPal; Oxxo solo acepta efectivo. Roami eSIM acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, con un solo pago online antes de viajar. Olvídate de buscar cajeros o moneda local."
-      - icon: "clock"
-
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        desc: "Comprar una SIM local implica ir a una tienda Telcel u Oxxo, hacer cola y presentar pasaporte y selfie. Con Roami eSIM, compras online, recibes el código QR al instante y activas en menos de un minuto. Llegas a México y ya tienes datos."
-      - icon: "shield"
-
-        icon_bg: "bg-sky-100"
-        icon_color: "text-sky-600"
-        desc: "El registro obligatorio de SIM en México implica entregar tu pasaporte y selfie, datos sensibles que pueden ser mal utilizados. Roami eSIM no requiere ningún dato personal, protegiendo tu privacidad y evitando riesgos de filtración."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "eSIM vs SIM física en México: ¿cuál elegir para viajar?"
   subtitle: "Comparativa de SIM prepagadas locales mexicanas y soluciones eSIM (referencia 2024/2025)"
@@ -877,7 +787,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Los planes prepagados de Telcel tienen ciclos de 7 días (50 MXN), 15 días (100 MXN) o 30 días (200 MXN). AT&T ofrece 14 días (100 MXN) y 28 días (150 MXN). Un turista que se queda 5 días y compra el plan de 7 días de Telcel desperdicia 2 días de servicio."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "Los planes locales tienen ciclos de 7 a 30 días. Roami ofrece planes de datos de 7 días desde 1,99 $/GB, ahorrando hasta un 75% del valor del plan si solo viajas 5 días."
+      esim_desc: "Los planes locales tienen ciclos de 7 a 30 días. Roami ofrece planes de datos de 7 días desde $3.99, ahorrando hasta un 75% del valor del plan si solo viajas 5 días."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -889,11 +799,11 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Telcel ha dejado de aceptar PayPal; solo acepta tarjetas de crédito internacionales. Las recargas en Oxxo solo se pueden hacer en efectivo. No se mencionan Visa, Mastercard, AMEX, Apple Pay, Google Pay como métodos de recarga."
       esim_title: "Pagos globales sin efectivo"
-      esim_desc: "Olvídate de las recargas en efectivo en Oxxo o del rechazo de tarjetas internacionales. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal."
+      esim_desc: "Olvídate de las recargas en efectivo en Oxxo o del rechazo de tarjetas internacionales. Roami admite Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal."
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente."
+      prepaid_desc: "La atención al cliente de Telcel, Movistar y AT&T está disponible en español, principalmente por teléfono y en tiendas, con horario limitado para prepago."
       esim_title: "Soporte 24/7 en español"
       esim_desc: "A diferencia de la atención local limitada, Roami ofrece soporte al cliente 24/7 en español para resolver cualquier duda durante tu viaje."
 
@@ -904,8 +814,8 @@ market_analysis:
       - icon: "hourglass-empty"
         icon_bg: "bg-amber-100"
         icon_color: "text-amber-600"
-        title: "Planes flexibles que se ajustan atu viaje"
-        desc: "Los planes prepagados de Telcel tienen ciclos de 7 días (50 MXN), 15 días (100 MXN) o 30 días (200 MXN). Un turista de 5 días desperdicia 2 días de servicio. Roami ofrece planes de 7 días desde 1,99 $/GB, sin desperdicio."
+        title: "Planes flexibles que se ajustan a tu viaje"
+        desc: "Los planes prepagados de Telcel tienen ciclos de 7 días (50 MXN), 15 días (100 MXN) o 30 días (200 MXN). Un turista de 5 días desperdicia 2 días de servicio. Roami ofrece planes de 7 días desde $3.99, sin desperdicio."
       - icon: "shield"
         icon_bg: "bg-teal-100"
         icon_color: "text-teal-600"
@@ -914,7 +824,7 @@ market_analysis:
       - icon: "wifi"
         icon_bg: "bg-green-100"
         icon_color: "text-green-600"
-        title: "Tethering ilimitado sinrestricciones"
+        title: "Tethering ilimitado sin restricciones"
         desc: "Unefon prohíbe explícitamente el tethering. Movistar limita la velocidad a 1 Mbps tras 1 GB diario. Roami eSIM permite compartir datos sin límites de velocidad ni restricciones."
       - icon: "globe"
         icon_bg: "bg-purple-100"

@@ -1,6 +1,6 @@
 ---
 title: 'eSIM para Guadalupe : Guía de ciudades y redes | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: "Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>.<br>Los nuevos clientes disfrutan de un 20% de descuento, código promocional: web20"
 seo:
   title: 'eSIM Guadalupe: Cobertura 5G, sin necesidad de verificación de identidad'
-  description: Compara planes eSIM para Guadalupe con 5G rápido en Pointe-à-Pitre, Basse-Terre, Le Gosier. Guía de cobertura de Orange, SFR y Free Mobile para turistas y viajeros. Activación QR instantánea desde $1.99.
+  description: Compara planes eSIM para Guadalupe con 5G rápido en Pointe-à-Pitre, Basse-Terre, Le Gosier. Guía de cobertura de Orange, SFR y Free Mobile para turistas y viajeros. Activación QR instantánea desde $8.99.
   keywords: eSIM Guadalupe, comprar eSIM Guadalupe, mejor eSIM Guadalupe, eSIM de viaje Guadalupe, Orange Guadalupe, SFR Guadalupe, Free Mobile Guadalupe, eSIM Pointe-à-Pitre, eSIM Basse-Terre, eSIM Le Gosier, eSIM prepago Guadalupe, 5G eSIM Guadalupe
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 8.99
+  high_price: 64.99
 order_summary:
   title: Plan seleccionado
   label_data: Datos incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de Guadalupe para la mejor señal
 plans_title: 'Compra eSIM para Guadalupe: Planes para cada duración de viaje'
 plans_data:
-  7 Days:
+  7 días:
   - spec: 1GB
     data: 5G/4G/LTE de alta velocidad
     desc: Perfecto para viajes de negocios cortos
@@ -80,7 +80,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.28'
-  15 Days:
+  15 días:
   - spec: 3GB
     data: 5G/4G/LTE de alta velocidad
     desc: Perfecto para hacer turismo
@@ -90,7 +90,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '1.00'
     tagIcon: star
-  30 Days:
+  30 días:
   - spec: 20GB
     data: 5G/4G/LTE de alta velocidad
     desc: Perfecto para tu viaje
@@ -115,7 +115,7 @@ plans_data:
     tag: Gran valor
     tagColor: bg-emerald-500
     daily: '1.20'
-  3 Days:
+  3 días:
   - spec: Ilimitado
     data: Alta velocidad ilimitada
     desc: Uso de datos sin preocupaciones
@@ -239,50 +239,128 @@ related_products:
   items:
   - name: eSIM Estados Unidos
     flag: img/flags/us.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Reino Unido
     flag: img/flags/gb.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Europa
     flag: img/flags/eu.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM Canadá
     flag: img/flags/ca.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Turquía
     flag: img/flags/tr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM China
     flag: img/flags/cn.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Japón
     flag: img/flags/jp.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Francia
     flag: img/flags/fr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM España
     flag: img/flags/es.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Alemania
     flag: img/flags/de.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en Guadalupe: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en Guadalupe (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (Guadeloupe) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Guadeloupe"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para Guadalupe"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "Orange tiene mostrador en el aeropuerto Pôle Caraïbes de Pointe-à-Pitre y tienda en Rue Frébault, en el centro."
+      esim_title: "Activación instantánea sin colas"
+      esim_desc: "Con Orange la SIM se activa en tienda y puede tardar; con Roami escaneas un QR en 1 minuto al aterrizar en Pointe-à-Pitre."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "Como territorio francés, hay que identificarse para activar la línea."
+      esim_title: "Cero trámites de identidad"
+      esim_desc: "En Guadalupe, olvídate del registro obligatorio: la eSIM se instala sin escanear el pasaporte ni facilitar datos personales."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "Las prepagadas locales incluyen roaming en la UE por ser territorio francés, pero con política de uso justo que recorta los gigas fuera de Guadalupe."
+      esim_title: "Sin FUP oculto"
+      esim_desc: "En Guadalupe, frente a las condiciones de roaming de las SIM locales, la eSIM no recorta datos ni aplica límites de uso justo sorpresa."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "Orange y SFR usan ciclos de 30 días (5GB por 20 € y 15GB por 35 €), con Digicel algo más barato."
+      esim_title: "Duración a tu medida"
+      esim_desc: "La eSIM ajusta la validez a tu estancia, desde $8.99, mientras las SIM locales fuerzan recargas de 30 días."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "En Guadalupe, el tethering está habilitado, aunque ciertas tarifas lo limitan durante las horas punta."
+      esim_title: "Tethering sin penalización"
+      esim_desc: "Usa la eSIM como hotspot sin recargos, algo no siempre permitido en las prepagadas de Orange."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "En Guadalupe, la recarga se hace online o en tienda con tarjeta y con cupones locales."
+      esim_title: "Pago online con tu tarjeta"
+      esim_desc: "Sin efectivo ni cupones como en las recargas de Orange: la eSIM se compra con Visa, Mastercard, AMEX o PayPal."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "En Guadalupe, la atención se presta en francés."
+      esim_title: "Asistencia sin horarios"
+      esim_desc: "La eSIM ofrece atención en español 24/7, sin depender del horario de las tiendas de Orange."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para Guadalupe: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "Pago internacional sin fricción"
+        desc: "La recarga se hace online o en tienda con tarjeta y con cupones locales. Paga tu plan para Guadalupe con Visa, Mastercard, AMEX o PayPal."
+      - icon: "globe"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "La red más fuerte, siempre"
+        desc: "Buena cobertura en Grande-Terre y Basse-Terre; irregular en las zonas más montañosas. En Guadalupe la eSIM salta a la mejor red para evitar zonas débiles."
+      - icon: "wifi"
+        icon_bg: "bg-green-100"
+        icon_color: "text-green-600"
+        title: "Comparte datos sin límites"
+        desc: "El uso compartido está permitido en las tarifas principales. En Guadalupe puedes usar el móvil como hotspot cuando quieras."
+      - icon: "hourglass-empty"
+        icon_bg: "bg-amber-100"
+        icon_color: "text-amber-600"
+        title: "Duración a tu medida"
+        desc: "Orange y SFR usan ciclos de 30 días (5GB por 20 € y 15GB por 35 €), con Digicel algo más barato. Elige la duración exacta de tu viaje en Guadalupe desde $8.99."
 ---

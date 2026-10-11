@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Kazajistán | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:04:40+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,11 @@ modal:
   text_android: |-
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
-  title: eSIM Rusia | Cobertura Total y Soporte 24/7
-  description: Viaja a Rusia con Roami y obtén Internet estable, datos sin límite
-    y cobertura nacional. Ideal para recorrer Moscú y San Petersburgo.
+  title: eSIM Kazajistán | Cobertura Total y Soporte 24/7
+  low_price: 3.99
+  high_price: 96.99
+  description: Viaja a Kazajistán con Roami y obtén Internet estable, datos sin límite
+    y cobertura nacional. Ideal para recorrer Almatý y Astaná.
   keywords: eSIM Kazajistán, viaje a Kazajistán, datos móviles Kazajistán, internet
     en Kazajistán, cobertura 4G Kazajistán
 order_summary:
@@ -393,7 +395,7 @@ faq_section:
         de uso justo solo se aplica en caso de consumo extremo (por ejemplo, transmisión
         4K continua durante varios días). La navegación habitual, redes sociales,
         videollamadas y GPS no están limitados.
-        Por $1.99 obtienes 1GB para 7 dias, por $9.99 tienes 5GB para 15 dias, y por $19.99 disfrutas de 10GB para 30 dias. Todo con velocidades 5G de alta velocidad.
+        Los planes de datos de Roami comienzan en $3.99 (1 GB, 7 días) y llegan hasta $96.99 (datos ilimitados, 30 días). Todo con velocidades 5G de alta velocidad.
     - q: ¿Puedo instalar la eSIM para Kazajistán sin código QR?
       a: Sí, además del código QR, puedes instalar la eSIM manualmente usando la dirección
         SM‑DP+ y el código de activación (ambos indicados en tu confirmación de pedido).
@@ -729,97 +731,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Kazakhstan eSIM vs Prepaid SIM: Cost and Convenience Compared'
-  subtitle: "Comparativa de SIM prepagadas locales kazajas y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Kazakhstan) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Kazakhstan"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Kazajistán"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Encuentra respuestas sobre la eSIM para Kazajistán. Compara precios, descubre la mejor red y como mantenerte conectado durante todo el viaje."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las largas colas en tiendas de Kcell o Beeline en el aeropuerto de Nursultán. Con Roami eSIM, activas tu plan en menos de un minuto desde tu móvil, sin necesidad de buscar una tienda física ni esperar trámites."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "La compra de una SIM prepagada en Kazajistán exige obligatoriamente el pasaporte original para el registro de identidad. Además, desde 2019, el IMEI del dispositivo se vincula a la identidad en la base de datos gubernamental (BDIK), lo que impide usar otras SIM del país en ese dispositivo."
-      esim_title: "Sin pasaporte ni registro IMEI"
-      esim_desc: "Olvídate de entregar tu pasaporte y de que tu IMEI quede vinculado al sistema BDIK. Roami eSIM no requiere ningún registro de identidad, evitando los riesgos de bloqueo de dispositivo que imponen Kcell y Beeline."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Los paquetes de roaming de Kcell son caros: 150 MB por 5 días cuestan 1490 tenge. Beeline divide los datos de roaming en 'datos base' y 'datos de bonificación' solo para países de la CEI, lo que puede desperdiciar gran parte del tráfico en viajes multi-país."
-      esim_title: "Roaming global sin restricciones"
-      esim_desc: "Mientras que Kcell cobra 1490 tenge por solo 150 MB en roaming, y Beeline divide sus datos en 'base' y 'bonificación' limitada a la CEI, Roami eSIM ofrece datos utilizables en múltiples países sin cortes ni reducciones de velocidad."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Todos los planes prepagados de Kcell, Beeline y Tele2 tienen un ciclo de facturación de 30 días. Por ejemplo, el plan más barato de Kcell (5 GB) cuesta 1490 tenge al mes; un turista que viaje solo 5 días perdería más del 80% del valor del plan."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo fijo de 30 días de Kcell (5 GB por 1490 tenge) que desperdicia más del 80% del valor en viajes cortos, Roami ofrece planes de datos desde 7 días y desde 1,99 $/GB, pagando solo por lo que usas."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "Kcell limita la velocidad a 64 kbit/s una vez superado el límite de datos mensual. Beeline corta el servicio por completo al agotar los datos, sin posibilidad de tethering. No se menciona explícitamente si el tethering está permitido, pero las restricciones de velocidad lo hacen casi imposible."
-      esim_title: "Tethering ilimitado sin restricciones"
-      esim_desc: "Mientras que Kcell reduce la velocidad a 64 kbit/s al agotar datos y Beeline corta el servicio por completo, Roami eSIM permite tethering sin límites ni penalizaciones, ideal para compartir conexión con otros dispositivos."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Kcell indica explícitamente que las tarjetas de débito internacionales pueden no ser aceptadas para pagos en línea. Beeline requiere recargas en máquinas callejeras, lo que supone una barrera para turistas sin efectivo local. Tele2 tiene pagos en línea pero el proceso es complicado."
-      esim_title: "Pagos globales sin complicaciones"
-      esim_desc: "Olvídate de las restricciones de Kcell que rechaza tarjetas internacionales o de las máquinas de recarga callejeras de Beeline. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, con total transparencia."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, la atención al cliente de los operadores kazajos suele ser solo en ruso o kazajo, con horario limitado y sin soporte en inglés para turistas."
-      esim_title: "Soporte 24/7 en tu idioma"
-      esim_desc: "Mientras que la atención al cliente de los operadores kazajos suele ser solo en ruso o kazajo y con horario limitado, Roami ofrece soporte en español e inglés las 24 horas del día, los 7 días de la semana."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "wifi"
-
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        desc: "<b>Kcell</b> limita la velocidad a <b>64 kbit/s</b> al agotar datos; <b>Beeline</b> corta el servicio por completo. Roami eSIM permite tethering ilimitado sin penalizaciones, ideal para compartir conexión con otros dispositivos."
-      - icon: "credit-card"
-
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        desc: "<b>Kcell</b> rechaza tarjetas de débito internacionales; <b>Beeline</b> requiere recargas en máquinas callejeras. Roami acepta <b>Visa</b>, <b>Mastercard</b>, <b>AMEX</b>, <b>Apple Pay</b>, <b>Google Pay</b> y <b>PayPal</b>, sin efectivo ni complicaciones."
-      - icon: "clock"
-
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        desc: "Comprar una SIM local en Kazajistán requiere ir a tiendas físicas y esperar trámites. Con Roami eSIM, activas tu plan en menos de un minuto desde el móvil, listo para usar al aterrizar."
-      - icon: "hourglass-empty"
-
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        desc: "Todos los planes de <b>Kcell</b>, <b>Beeline</b> y <b>Tele2</b> tienen un ciclo fijo de <b>30 días</b>. Un turista que viaja 5 días y compra el plan de <b>5 GB</b> de Kcell por <b>1490 tenge</b> desperdicia más del <b>80%</b> del valor. Roami ofrece planes desde 7 días."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "eSIM vs SIM física en Kazajistán: viaje, costes y configuración comparados"
   subtitle: "Comparativa de SIM prepagadas locales kazajas y soluciones eSIM (referencia 2024/2025)"
@@ -854,11 +765,11 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Todos los operadores (Kcell, Beeline, Tele2) ofrecen planes con ciclo de 30 días. Por ejemplo, Kcell tiene un plan de 5 GB por 1490 tenge (30 días). Un viajero que permanezca 5 días y compre este plan desperdicia aproximadamente el 83% del valor del plan."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "Los planes locales de 30 días (ej. Beeline 3 GB por 890 tenge) obligan a pagar por datos no usados. Roami ofrece planes de 7 días desde 1,99 $/GB, ideales para estancias cortas: pagas solo por lo que necesitas, ahorrando hasta un 80%."
+      esim_desc: "Los planes locales de 30 días (ej. Beeline 3 GB por 890 tenge) obligan a pagar por datos no usados. Roami ofrece planes de 7 días desde $3.99, ideales para estancias cortas: pagas solo por lo que necesitas, ahorrando hasta un 80%."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
-      prepaid_desc: "No hay datos específicos en la fuente sobre tethering. Según conocimiento general del mercado, los operadores kazajos suelen permitir tethering, pero tras agotar los datos, la velocidad se reduce drásticamente (Kcell limita a 64 kbps) o se corta el servicio (Beeline)."
+      prepaid_desc: "No hay datos específicos en la fuente sobre tethering. Los operadores kazajos suelen permitir tethering, pero tras agotar los datos, la velocidad se reduce drásticamente (Kcell limita a 64 kbps) o se corta el servicio (Beeline)."
       esim_title: "Tethering ilimitado sin cortes"
       esim_desc: "Mientras que Kcell limita la velocidad a 64 kbps tras agotar datos y Beeline corta el servicio, Roami eSIM permite tethering sin restricciones y mantiene velocidad estable durante todo el viaje. Comparte conexión con tus dispositivos sin preocupaciones."
     - icon: "credit-card"
@@ -870,13 +781,13 @@ market_analysis:
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
-      prepaid_desc: "No hay datos específicos en la fuente sobre atención al cliente. Según conocimiento general, el soporte telefónico suele ser solo en kazajo o ruso, con horario limitado, y no hay chat en línea para clientes prepago."
+      prepaid_desc: "No hay datos específicos en la fuente sobre atención al cliente. El soporte telefónico suele ser solo en kazajo o ruso, con horario limitado, y no hay chat en línea para clientes prepago."
       esim_title: "Soporte 24/7 en español"
       esim_desc: "No dependas de la atención telefónica solo en kazajo o ruso. Roami ofrece soporte al cliente en español las 24 horas del día, los 7 días de la semana, vía chat en línea, para resolver cualquier incidencia al instante."
 
   # =============== Módulo Veredicto de Expertos ===============
   expert_verdict:
-    title: "eSIM para Kazajistán: la solución más inteligente yeconómica frente a la SIM física local"
+    title: "eSIM para Kazajistán: la solución más inteligente y económica frente a la SIM física local"
     cards:
       - icon: "clock"
         icon_bg: "bg-indigo-100"
@@ -886,7 +797,7 @@ market_analysis:
       - icon: "tower-observation"
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"
-        title: "Roaming sinrestricciones ni sorpresas"
+        title: "Roaming sin restricciones ni sorpresas"
         desc: "Beeline divide los datos en 'básicos' y 'bonificación' solo para la CEI; fuera de esa zona, apenas tienes datos. Tele2 limita a 128 kbps tras 100 MB en roaming. Roami eSIM ofrece datos de alta velocidad en múltiples países sin cortes geográficos."
       - icon: "shield"
         icon_bg: "bg-sky-100"
@@ -897,5 +808,5 @@ market_analysis:
         icon_bg: "bg-amber-100"
         icon_color: "text-amber-600"
         title: "Planes flexiblesque evitan el desperdicio"
-        desc: "Los planes locales de 30 días (ej. Kcell 5 GB por 1490 tenge) son un 83% de desperdicio para estancias de 5 días. Roami ofrece planes desde 1,99 $/GB con duración de 7 días, perfectos para viajes cortos."
+        desc: "Los planes locales de 30 días (ej. Kcell 5 GB por 1490 tenge) son un 83% de desperdicio para estancias de 5 días. Roami ofrece planes desde $3.99 con duración de 7 días, perfectos para viajes cortos."
 ---

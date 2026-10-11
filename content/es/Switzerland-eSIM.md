@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Suiza | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:04:18+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,6 +19,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Suiza | Conexión Estable y Datos Ilimitados
+  low_price: 1.99
+  high_price: 78.99
   description: Con Roami en Suiza, disfruta de Internet de alto rendimiento, datos
     ilimitados y roaming multi-país. Ideal para los Alpes y ciudades.
   keywords: eSIM Suiza, datos móviles Suiza, cobertura Suiza, viaje Suiza, internet
@@ -409,7 +411,7 @@ faq_section:
         Mantienes tu SIM principal activa para recibir SMS de tu banco o verificaciones 2FA.
         Si pierdes el telefono, la eSIM no se puede sacar ni usar en otro dispositivo, a diferencia de una SIM fisica que cualquiera puede sacar y poner en su movil.
     - q: ¿Cuánto cuesta la eSIM para Suiza y hay descuentos?
-      a: Nuestro plan eSIM para Suiza comienza en 1,99 $/GB. Con el código promocional
+      a: Nuestro plan eSIM para Suiza comienza en $1.99. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
     - q: ¿Roami ofrece planes de datos ilimitados para Suiza? ¿Hay política de uso justo (FUP)?
@@ -742,97 +744,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Switzerland eSIM or SIM Card for Tourists: Which Should You Choose?'
-  subtitle: "Comparativa de SIM prepagadas locales suizas y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Switzerland) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Switzerland"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Suiza"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Resuelve tus dudas sobre la eSIM para Suiza. Informacion sobre instalacion, compatibilidad con tu movil, operadores disponibles y planes para turistas."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las largas esperas en tiendas Swisscom (activación de horas) o los 3 días de Aldi Suisse. Con Roami eSIM, activas en 1 minuto al llegar a Zúrich o Ginebra."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Todas las SIM prepagadas en Suiza requieren registro con pasaporte o identificación. Swisscom, Sunrise y Salt exigen presentar el pasaporte en tienda; Aldi Suisse y Lidl Connect requieren envío de copia por fax o correo."
-      esim_title: "Sin pasaporte ni registro"
-      esim_desc: "Olvídate de presentar el pasaporte en Sunrise o de enviar copias por fax a Lidl Connect. Roami eSIM no requiere KYC: compra y activa al instante."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Suiza no pertenece a la UE, por lo que no aplica el roaming gratuito. Swisscom cobra 6.90 CHF por 500 MB en la UE, y 59.90 CHF por 10 GB. Sunrise en Liechtenstein cobra 1 CHF/MB sin paquete. Salt Mobile cobra 2.95 CHF/MB en la UE por defecto."
-      esim_title: "Roaming global sin sorpresas"
-      esim_desc: "Mientras Swisscom cobra 59.90 CHF por 10 GB en la UE y Sunrise 1 CHF/MB en Liechtenstein, Roami ofrece planes con cobertura en múltiples países europeos desde 1,99 $/GB, sin cargos ocultos."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Swisscom ofrece planes de 7 días (20 CHF) y 30 días (65 CHF). Lyca Mobile tiene ciclo de 28 días (19 CHF/300GB). Un turista de 3 días que compre el plan de 7 días de Swisscom desperdicia el 57% del valor."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de 7 días de Swisscom (20 CHF) o 28 días de Lyca Mobile (19 CHF), Roami ofrece planes de datos desde 1 día, desde 1,99 $/GB. Un viaje de 3 días solo paga por lo que usas, ahorrando hasta un 75%."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "Lyca Mobile prohíbe explícitamente el tethering (compartir datos) en su plan Surf UL de 19 CHF/28 días. Otros operadores como Swisscom y Sunrise permiten tethering pero con límites de velocidad tras cierto uso."
-      esim_title: "Tethering ilimitado sin restricciones"
-      esim_desc: "Mientras Lyca Mobile prohíbe el tethering en su plan Surf UL, Roami permite compartir datos con todos tus dispositivos sin límites ni cargos extra."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Salt Mobile obliga a comprar paquetes de datos solo desde su red móvil, no vía WiFi, y solo con tarjeta de crédito. Las recargas online pueden rechazar tarjetas extranjeras; se recomienda comprar tarjetas de recarga físicas en tiendas (mínimo 10 CHF)."
-      esim_title: "Pagos globales sin trabas"
-      esim_desc: "Evita las restricciones de Salt Mobile (solo desde su red) o el rechazo de tarjetas extranjeras. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "La atención al cliente de Swisscom y Sunrise es principalmente en alemán, francés o italiano, con horario limitado. No hay chat en línea 24/7 para prepago."
-      esim_title: "Soporte 24/7 en tu idioma"
-      esim_desc: "Mientras Swissco y Sunrise solo atienden en alemán/francés en horario limitado, Roami ofrece atención al cliente en español e inglés, 24 horas al día, 7 días a la semana."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "passport"
-
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        desc: "Todas las SIM locales (Swisscom, Sunrise, Salt) exigen presentar el pasaporte y rellenar formularios. Aldi Suisse y Lidl Connect requieren envío de copia por fax, con activación de hasta <b>72 horas</b>. Con eSIM, cero papeleo."
-      - icon: "credit-card"
-
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        desc: "Salt Mobile obliga a comprar paquetes solo desde su red móvil, no vía WiFi. Las eSIM aceptan Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, sin restricciones."
-      - icon: "hourglass-empty"
-
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        desc: "Los planes locales tienen ciclos mínimos de 7 días (Swisscom <b>20 CHF</b>) o 28 días (Lyca Mobile <b>19 CHF</b>). Un turista de 3 días desperdicia el <b>57%</b> del valor. Las eSIM ofrecen planes desde 1 día, desde <b>1,99 $/GB</b>."
-      - icon: "shield"
-
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        desc: "La atención al cliente de Swisscom y Sunrise es solo en alemán/francés en horario limitado. Las eSIM ofrecen soporte en español e inglés, 24 horas al día."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "Ventajas e inconvenientes de eSIM y SIM física en Suiza"
   subtitle: "Comparativa de SIM prepagadas locales suizas y soluciones eSIM (referencia 2024/2025)"
@@ -861,13 +772,13 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Suiza no es miembro de la UE, por lo que no aplica el roaming gratuito; Swisscom cobra 6.90 CHF por 500 MB en la UE, y 59.90 CHF por 10 GB; Sunrise en Liechtenstein cobra 1 CHF/MB sin paquete; Salt cobra 2.95 CHF/MB por defecto en la UE."
       esim_title: "Roaming global sin sorpresas"
-      esim_desc: "Evita los 59.90 CHF de Swisscom por 10 GB en la UE o el 1 CHF/MB de Sunrise en Liechtenstein. Roami ofrece cobertura en Suiza y países vecinos con tarifas fijas desde 1.99 $/GB."
+      esim_desc: "Evita los 59.90 CHF de Swisscom por 10 GB en la UE o el 1 CHF/MB de Sunrise en Liechtenstein. Roami ofrece cobertura en Suiza y países vecinos con tarifas fijas desde $1.99."
     - icon: "calendar-xmark"
       title: "Ciclo de facturación y<br>costes desperdiciados"
       prepaid_title: ""
       prepaid_desc: "Swisscom ofrece planes de 7 días (20 CHF) y 30 días (65 CHF); Lyca Mobile tiene ciclo de 28 días (19 CHF por 300 GB); un turista de 3 días que compra el plan de 7 días de Swisscom desperdicia el 57% del valor del plan."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de 7 días de Swisscom (20 CHF) o 28 días de Lyca (19 CHF), Roami ofrece planes de 7 días desde 1.99 $/GB, ahorrando hasta un 57% si viajas solo 3 días."
+      esim_desc: "A diferencia del ciclo de 7 días de Swisscom (20 CHF) o 28 días de Lyca (19 CHF), Roami ofrece planes de 7 días desde $2.99, ahorrando hasta un 57% si viajas solo 3 días."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -889,17 +800,17 @@ market_analysis:
 
   # =============== Módulo Veredicto de Expertos ===============
   expert_verdict:
-    title: "eSIM para Suiza: la solución más inteligente yeconómica frente a la prepagada local"
+    title: "eSIM para Suiza: la solución más inteligente y económica frente a la prepagada local"
     cards:
       - icon: "globe"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
-        title: "Cobertura en todo el país ymás allá"
+        title: "Cobertura en todo el país y más allá"
         desc: "Sunrise no tiene cobertura en Liechtenstein, cobrando 1 CHF/MB. Roami utiliza redes múltiples para ofrecer cobertura en Suiza y países limítrofes sin costes de roaming."
       - icon: "hourglass-empty"
         icon_bg: "bg-amber-100"
         icon_color: "text-amber-600"
-        title: "Planes flexibles que se adaptan atu viaje"
+        title: "Planes flexibles que se adaptan a tu viaje"
         desc: "Swisscom obliga a planes de 7 días (20 CHF) o 30 días (65 CHF). Un viaje de 3 días desperdicia el 57% del valor. Roami ofrece planes desde 1 día, pagas solo lo que usas."
       - icon: "clock"
         icon_bg: "bg-indigo-100"

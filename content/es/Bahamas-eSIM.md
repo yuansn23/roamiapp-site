@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Bahamas | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:04:11+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,6 +19,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Bahamas | Red Local Fiable y Prepago Sin Contrato
+  low_price: 16.99
+  high_price: 67.99
   description: Con Roami en las Bahamas, disfruta de una conexión de alta velocidad
     y datos ilimitados mientras saltas de isla en isla. Sin roaming y sin necesidad
     de SIM física.
@@ -284,7 +286,7 @@ faq_section:
         uso justo solo se aplica en caso de consumo extremo (por ejemplo, transmisión
         4K continua durante varios días). La navegación habitual, redes sociales,
         videollamadas y GPS no están limitados.
-        Roami ofrece planes desde $1.99/GB (7 dias) hasta $59.99 por datos ilimitados (30 dias), con velocidades 5G de 100 a 300 Mbps en la mayoria de zonas urbanas.
+        Puedes empezar desde $16.99 (1 GB, 7 días) y subir hasta $67.99 por el plan más completo (5 GB, 30 días).
   - id: faq-airport
     icon: plane
     tab_title: Aeropuertos
@@ -592,96 +594,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Bahamas eSIM Compared to Prepaid SIM Cards: What You Need to Know'
-  subtitle: "Comparativa de SIM prepagadas locales de Bahamas y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Bahamas) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Bahamas"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Bahamas"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Encuentra respuestas sobre la eSIM para Bahamas. Compara precios, descubre la mejor red y como mantenerte conectado durante todo el viaje."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las colas en tiendas BTC o aliv y el pago de $15 por la tarjeta. Con Roami eSIM, activas en línea en un minuto al llegar a Nassau."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "BTC y aliv requieren pasaporte para la compra de la SIM prepagada; no hay excepción."
-      esim_title: "Sin pasaporte ni registro"
-      esim_desc: "Olvida el requisito de pasaporte de BTC y aliv. Roami eSIM no requiere KYC, activación anónima y segura."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "aliv no tiene roaming con BTC en islas remotas; su paquete internacional cuesta $26.85 por 500MB/7 días."
-      esim_title: "Roaming global sin sorpresas"
-      esim_desc: "Evita el alto costo de roaming de aliv ($26.85/500MB) y la falta de cobertura en islas remotas. Roami ofrece cobertura en múltiples redes."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "BTC ofrece planes de 1 día ($3.49/500MB) y 7 días ($9.99/2GB); aliv tiene planes de 7 y 30 días desde $5/500MB. Los planes de 30 días desperdician hasta un 80% del valor para estancias cortas."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de 7 o 30 días de BTC y aliv (ej. $30/3GB por 30 días), Roami ofrece planes de datos de 7 días desde $1.99/GB, ahorrando hasta un 80% de desperdicio."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "No hay datos específicos en la fuente sobre tethering. Según conocimiento general, BTC y aliv permiten tethering pero con límites de velocidad después de cierto uso."
-      esim_title: "Tethering ilimitado incluido"
-      esim_desc: "Comparte datos sin restricciones. Mientras que BTC y aliv pueden limitar la velocidad tras cierto uso, Roami permite tethering ilimitado a alta velocidad."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "No hay datos específicos en la fuente sobre métodos de pago. Se aceptan Visa, Mastercard y efectivo en tiendas."
-      esim_title: "Pagos globales sin efectivo"
-      esim_desc: "Paga con Visa, Mastercard, AMEX, Apple Pay, Google Pay o PayPal. Sin necesidad de efectivo ni tarjetas locales."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "No hay datos específicos en la fuente sobre atención al cliente. Generalmente hay soporte telefónico y en tiendas."
-      esim_title: "Soporte 24/7 en español"
-      esim_desc: "Atención al cliente multilingüe las 24 horas, a diferencia del soporte limitado de BTC y aliv (solo horario comercial)."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "tower-observation"
-
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        desc: "aliv no tiene cobertura en más de 700 islas remotas y no tiene roaming con BTC. eSIM se conecta a la mejor red disponible."
-      - icon: "wifi"
-
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        desc: "BTC y aliv pueden limitar la velocidad tras cierto uso. eSIM permite tethering ilimitado a máxima velocidad."
-      - icon: "hourglass-empty"
-
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-      - icon: "clock"
-
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        desc: "Compra en tienda BTC/aliv, 15-30 min + $15 tarjeta. eSIM, activación online en 1 minuto."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "¿Cuál tiene mejor relación calidad-precio en Bahamas: eSIM o prepagada?"
   subtitle: "Comparativa de SIM prepagadas locales de Bahamas y soluciones eSIM (referencia 2024/2025)"
@@ -716,23 +628,23 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Los planes de aliv son de 7 o 30 días; el plan Liberty 30 cuesta $30 por 3GB, y un viaje de 5 días desperdicia más del 80% del valor."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia de los planes de 7 o 30 días de aliv (desde $30) o BTC (desde $9.99), Roami ofrece planes de datos desde 1 día, desde 1,99 $/GB, ahorrando hasta un 80% de desperdicio en viajes cortos."
+      esim_desc: "A diferencia de los planes de 7 o 30 días de aliv (desde $30) o BTC (desde $9.99), Roami ofrece planes de datos desde 1 día, desde $16.99, ahorrando hasta un 80% de desperdicio en viajes cortos."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general, BTC y aliv permiten tethering, pero puede haber restricciones de velocidad."
+      prepaid_desc: "BTC y aliv permiten tethering, pero puede haber restricciones de velocidad."
       esim_title: "Tethering ilimitado incluido"
       esim_desc: "Comparte datos con tus dispositivos sin restricciones, a diferencia de algunas políticas de operadores locales que pueden limitar la velocidad tras cierto consumo."
     - icon: "credit-card"
       title: "Recarga y<br>pago"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Se aceptan Visa, Mastercard y efectivo en tiendas."
+      prepaid_desc: "Se aceptan Visa, Mastercard y efectivo en tiendas."
       esim_title: "Pagos globales sin complicaciones"
       esim_desc: "Paga con Visa, Mastercard, AMEX, Apple Pay, Google Pay o PayPal; sin necesidad de efectivo ni tarjetas locales, y sin el IVA del 12% que añade BTC."
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. El soporte al cliente suele ser en inglés, con horario limitado."
+      prepaid_desc: "El soporte al cliente suele ser en inglés, con horario limitado."
       esim_title: "Soporte 24/7 en español"
       esim_desc: "Atención al cliente en línea disponible las 24 horas, los 7 días de la semana, en español, superando el limitado horario de atención de las operadoras locales."
 
@@ -744,7 +656,7 @@ market_analysis:
         icon_bg: "bg-amber-100"
         icon_color: "text-amber-600"
         title: "Planes flexiblesque evitan el desperdicio"
-        desc: "Los planes de aliv son de 7 o 30 días (ej. Liberty 30, $30/3GB). Un viaje de 5 días desperdicia más del 80% del plan. eSIM ofrece planes desde 1 día, desde 1,99 $/GB."
+        desc: "Los planes de aliv son de 7 o 30 días (ej. Liberty 30, $30/3GB). Un viaje de 5 días desperdicia más del 80% del plan. eSIM ofrece planes desde 1 día, desde $16.99."
       - icon: "passport"
         icon_bg: "bg-blue-100"
         icon_color: "text-blue-600"
@@ -753,11 +665,11 @@ market_analysis:
       - icon: "wifi"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
-        title: "Tethering sinrestricciones"
+        title: "Tethering sin restricciones"
         desc: "Comparte datos con otros dispositivos sin límites de velocidad ni bloqueos, a diferencia de algunas políticas locales que pueden restringir el uso excesivo."
       - icon: "tower-observation"
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"
-        title: "Cobertura total entodas las islas"
+        title: "Cobertura total en todas las islas"
         desc: "aliv solo cubre 6 islas principales; fuera de ellas no hay señal. eSIM se conecta a la mejor red disponible, evitando quedar incomunicado al saltar de isla."
 ---

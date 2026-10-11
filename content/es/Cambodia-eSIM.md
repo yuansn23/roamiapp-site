@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Camboya | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:05:19+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,6 +20,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Camboya | Cobertura Total y Soporte 24/7
+  low_price: 3.99
+  high_price: 88.99
   description: Viaja a Camboya con Roami y obtén Internet rápido, datos ilimitados
     y activación QR. Ideal para los templos de Angkor.
   keywords: eSIM Camboya, internet móvil Camboya, viaje Camboya, datos móviles Camboya,
@@ -392,7 +394,7 @@ faq_section:
       a: El código QR es válido durante 30 días después de su envío a tu correo electrónico.
         Tienes suficiente tiempo para instalar la eSIM antes de tu viaje. Pasado ese
         plazo, podemos proporcionarte un nuevo código.
-        Por $1.99 obtienes 1GB para 7 dias, por $9.99 tienes 5GB para 15 dias, y por $19.99 disfrutas de 10GB para 30 dias. Todo con velocidades 5G de alta velocidad.
+        El plan más económico cuesta $3.99 (1 GB, 3 días) y el más completo, $88.99 (datos ilimitados, 30 días). Todo con velocidades 5G de alta velocidad.
     - q: ¿Ofrecen garantía de reembolso si la eSIM para Camboya no funciona?
       a: |
         Ofrecemos garantia de reembolso del 100% en los primeros 7 dias desde la compra, si la eSIM para Camboya no funciona en tu dispositivo o tienes problemas de compatibilidad.
@@ -406,7 +408,7 @@ faq_section:
         4K continua durante varios días). La navegación habitual, redes sociales,
         videollamadas y GPS no están limitados.
     - q: ¿Cuánto cuesta la eSIM para Camboya y hay descuentos?
-      a: Nuestro plan eSIM para Camboya comienza en 1,99 $/GB. Con el código promocional
+      a: Nuestro plan eSIM para Camboya comienza en $3.99. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
     - q: ¿Cómo funciona el roaming internacional con la eSIM para Camboya en países
@@ -733,96 +735,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Cambodia eSIM vs Prepaid SIM: Speed, Coverage, and Price Compared'
-  subtitle: "Comparativa de SIM prepagadas locales camboyanas y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Cambodia) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Cambodia"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Camboya"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Todo sobre la eSIM para Camboya: como comprar, instalar y activar tu plan de datos. Consejos sobre operadores, cobertura 5G y precios segun tu viaje."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las colas en los puestos del aeropuerto de Phnom Penh y los riesgos de sobreprecio (de $1 a $10). Con Roami eSIM, activas en 1 minuto desde tu móvil, sin necesidad de buscar tiendas oficiales de Metfone o Smart."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Metfone exige registro con pasaporte y visa válida en tienda oficial; existen tarjetas SIM no registradas en el mercado negro que pueden ser bloqueadas por el gobierno. Smart permite activación eSIM vía app, pero la tarjeta física requiere compra presencial."
-      esim_title: "Sin pasaporte ni registro"
-      esim_desc: "Olvídate de entregar tu pasaporte en tiendas Metfone o arriesgarte a SIMs no registradas que pueden ser bloqueadas. Roami eSIM no requiere KYC: compras y activas online con total privacidad."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Metfone ofrece roaming ASEAN por $1.25/día con 1GB de alta velocidad y luego reducción a 64kbps, requiriendo seleccionar una red específica como AIS en Tailandia. Smart cobra $2/día por roaming en Vietnam y Tailandia con datos limitados."
-      esim_title: "Roaming global sin complicaciones"
-      esim_desc: "Mientras Metfone cobra $1.25/día por roaming ASEAN con solo 1GB y restricciones de red, Roami eSIM ofrece datos en múltiples países sin necesidad de códigos USSD ni selección manual de operador. Viaja de Camboya a Tailandia sin interrupciones."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Smart Traveller SIM se vende en paquetes de 7 días ($3/25GB) y 15 días ($5/35GB). Cellcard Serey+ tiene ciclo de 28 días ($4/25GB). Un viaje de 5 días obliga a pagar el plan de 7 días de Smart, desperdiciando 2 días de servicio."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo forzado de 7 días de Smart ($3/25GB) o los 28 días de Cellcard ($4/25GB), Roami ofrece planes de datos desde 7 días, desde 1,99 $/GB. Para un viaje de 5 días, pagas solo por lo que usas, ahorrando hasta un 60% frente a los planes locales."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "No se mencionan restricciones específicas de tethering en el texto fuente. Basado en conocimiento general, la mayoría de operadores en Camboya permiten tethering, pero puede haber límites de velocidad después de cierto uso."
-      esim_title: "Tethering ilimitado"
-      esim_desc: "Comparte datos con todos tus dispositivos sin restricciones. Mientras que algunas SIM locales pueden tener políticas de uso aceptable, Roami eSIM permite tethering sin límites de velocidad adicionales."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Las recargas se realizan mediante tarjetas de recarga físicas o códigos USSD. No se mencionan pagos con tarjeta extranjera en línea. Basado en conocimiento general, las tarjetas Visa y Mastercard son aceptadas en tiendas oficiales, pero no en puestos callejeros."
-      esim_title: "Pagos globales sin efectivo"
-      esim_desc: "Paga con Visa, Mastercard, AMEX, Apple Pay, Google Pay o PayPal. Olvídate de las recargas en efectivo o las tarjetas de recarga físicas que pueden no estar disponibles en puestos callejeros."
-    - icon:
-
-
-      prepaid_title: ""
-      prepaid_desc: "No se menciona atención al cliente en el texto fuente. Basado en conocimiento general, los operadores ofrecen soporte telefónico en jemer e inglés limitado, sin chat en línea 24/7 para prepago."
-      esim_title: "Soporte 24/7 en español"
-      esim_desc: "Mientras que la atención al cliente de operadores locales como Metfone o Smart puede ser limitada y solo en jemer o inglés, Roami ofrece soporte en español las 24 horas del día, los 7 días de la semana, vía chat y email."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "globe"
-
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        desc: "Roami eSIM se conecta a las redes de <b>Smart</b>, <b>Metfone</b> y <b>Cellcard</b>, las tres principales operadoras de Camboya, garantizando la mejor cobertura en ciudades como Phnom Penh y Siem Reap, y en zonas rurales donde Metfone tiene buena señal."
-      - icon: "clock"
-
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        desc: "Evita las colas en los puestos del aeropuerto de Phnom Penh, donde los vendedores pueden negarse a vender la tarjeta turística de Smart y ofrecer una SIM normal con tarifas elevadas (<b>2.5 centavos/MB</b>). Con Roami, activas en <b>1 minuto</b> desde tu móvil."
-      - icon: "passport"
-
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        desc: "Metfone exige presentar pasaporte y visa en una tienda oficial para activar la SIM; las SIM no registradas pueden ser bloqueadas por el gobierno. Con Roami eSIM, no necesitas compartir tu pasaporte: activación 100% online y anónima."
-      - icon: "wifi"
-
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        desc: "Aunque no hay datos específicos en la fuente, en general las SIM locales pueden tener políticas de uso aceptable que limitan el tethering. Roami eSIM permite compartir datos con todos tus dispositivos sin límites ni cargos extra."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "eSIM o plan SIM en Camboya: ¿cuál se adapta a tus necesidades?"
   subtitle: "Comparativa de SIM prepagadas locales camboyanas y soluciones eSIM (referencia 2024/2025)"
@@ -857,19 +769,19 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Smart Traveller SIM tiene planes de 7 días ($3/25GB) y 15 días ($5/35GB). Cellcard Serey+ usa ciclo de 28 días ($4/25GB). Un viaje de 5 días desperdicia el 29% del valor del plan de Smart."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de 7 días de Smart ($3/25GB) o los 28 días de Cellcard ($4/25GB), Roami ofrece planes de datos de 7 días desde $1.99/GB, ahorrando hasta un 29% en viajes cortos."
+      esim_desc: "A diferencia del ciclo de 7 días de Smart ($3/25GB) o los 28 días de Cellcard ($4/25GB), Roami ofrece planes de datos de 7 días desde $4.99, ahorrando hasta un 29% en viajes cortos."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
-      prepaid_desc: "No hay datos específicos en la fuente sobre políticas de tethering. Según conocimiento general, la mayoría de operadores en Camboya permiten tethering sin restricciones explícitas."
+      prepaid_desc: "No hay datos específicos en la fuente sobre políticas de tethering. La mayoría de operadores en Camboya permiten tethering sin restricciones explícitas."
       esim_title: "Tethering ilimitado incluido"
-      esim_desc: "Comparte datos con todos tus dispositivos sin restricciones. Mientras algunas SIM locales pueden tener políticas ambiguas, Roami permite tethering sin límites."
+      esim_desc: "Comparte tu conexión con todos los dispositivos, sin límites. Mientras algunas SIM locales pueden tener políticas ambiguas, Roami permite tethering sin límites."
     - icon: "credit-card"
       title: "Recarga y<br>pago"
       prepaid_title: ""
       prepaid_desc: "Las recargas se realizan con tarjetas de crédito internacionales (Visa, Mastercard) o efectivo en tiendas. Los planes se pagan en dólares estadounidenses o rieles camboyanos."
       esim_title: "Pagos globales sin complicaciones"
-      esim_desc: "Paga con Visa, Mastercard, AMEX, Apple Pay, Google Pay o PayPal. Sin necesidad de efectivo local ni recargas en tiendas físicas."
+      esim_desc: "Formas de pago: Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal. Sin necesidad de efectivo local ni recargas en tiendas físicas."
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
@@ -879,12 +791,12 @@ market_analysis:
 
   # =============== Módulo Veredicto de Expertos ===============
   expert_verdict:
-    title: "eSIM para Camboya: la solución más inteligente yeconómica frente a la SIM prepagada local"
+    title: "eSIM para Camboya: la solución más inteligente y económica frente a la SIM prepagada local"
     cards:
       - icon: "wifi"
         icon_bg: "bg-green-100"
         icon_color: "text-green-600"
-        title: "Tethering sinrestricciones"
+        title: "Tethering sin restricciones"
         desc: "Mientras algunas SIM locales pueden tener políticas de tethering limitadas, Roami eSIM permite compartir datos con todos tus dispositivos sin restricciones ni cargos adicionales."
       - icon: "shield"
         icon_bg: "bg-teal-100"

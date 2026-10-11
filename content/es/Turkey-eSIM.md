@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Turquía | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:04:41+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,6 +20,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Turquía | Conexión Estable y Datos Ilimitados
+  low_price: 1.99
+  high_price: 78.99
   description: Roami te conecta en Turquía con Internet rápido, datos ilimitados y
     roaming multi-país. Perfecto para Estambul y Capadocia.
   keywords: eSIM Turquía, viajar a Turquía, internet en Turquía, datos móviles Turquía,
@@ -446,7 +448,7 @@ faq_section:
     - q: ¿Puedo transferir la eSIM para Turquía a otro dispositivo después de instalarla?
       a: Una vez instalada, la eSIM no se puede transferir a otro dispositivo. Instala
         la eSIM en el dispositivo que usarás durante tu viaje. Para dispositivos adicionales,
-        Los planes de datos comienzan en $1.99 por 1GB/7 dias, $9.99 por 5GB/15 dias y $19.99 por 10GB/30 dias, todo con velocidad 5G donde este disponible.
+        Puedes empezar desde $1.99 (1 GB, 7 días) y subir hasta $78.99 por el plan más completo (datos ilimitados, 30 días).
   - id: faq-airport
     icon: plane
     tab_title: Aeropuertos
@@ -749,96 +751,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Turkey eSIM vs Prepaid SIM Card: Is It Worth Switching?'
-  subtitle: "Comparativa de SIM prepagadas locales turcas y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Turkey) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Turkey"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Turquía"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Encuentra respuestas sobre la eSIM para Turquía. Compara precios, descubre la mejor red y como mantenerte conectado durante todo el viaje."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las largas colas en tiendas Turkcell o Vodafone y los precios inflados del aeropuerto. Con Roami eSIM, recibes un código QR al instante y te activas en menos de 1 minuto, sin necesidad de visitar ninguna tienda."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Vodafone exige un pasaporte válido y, si está en alfabeto no latino, una traducción notariada. Turkcell y Türk Telekom también requieren registro con pasaporte."
-      esim_title: "Sin pasaporte ni trámites"
-      esim_desc: "Olvídate del registro obligatorio con pasaporte y las traducciones notariadas que exige Vodafone. Roami eSIM no requiere ningún documento de identidad; la activación es completamente anónima y digital."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Todas las SIM prepagadas turcas carecen de roaming internacional; solo funcionan en Turquía y el norte de Chipre. Además, los operadores aplican censura gubernamental bloqueando redes sociales y VPN."
-      esim_title: "Roaming global sin restricciones"
-      esim_desc: "Las SIM locales turcas no tienen roaming internacional y están sujetas a censura gubernamental. Con Roami eSIM, disfrutas de conexión en más de 190 países, sin bloqueos a redes sociales ni VPN, y con la posibilidad de cambiar de operador automáticamente."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Los planes prepagados de Turkcell, Vodafone y Türk Telekom tienen un ciclo de facturación fijo de 28 días. Por ejemplo, el plan Turkcell Fırsat 1GB cuesta ₺350 (unos 10 €) por 28 días; un turista que viaje 5 días desperdicia más del 80% del valor del plan."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo fijo de 28 días de Turkcell (₺350 por 1 GB), Roami ofrece planes desde 1 día hasta 30 días, con precios desde 1,99 $/GB. Un viaje de 5 días con Roami cuesta solo unos pocos dólares, evitando el 80% de desperdicio."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "Turkcell permite tethering y VoIP. Vodafone y Türk Telekom no especifican restricciones, pero en la práctica el tethering está permitido, aunque sujeto a las velocidades del plan."
-      esim_title: "Tethering ilimitado sin sorpresas"
-      esim_desc: "Mientras que algunas SIM locales pueden restringir el tethering, Roami eSIM permite compartir datos con todos tus dispositivos sin límites ni cargos adicionales. Perfecto para usar tu laptop o tablet durante el viaje."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Las recargas se pueden realizar en tiendas o a través de sitios web de terceros, pero las tarjetas internacionales suelen ser rechazadas. Se recomienda comprar tarjetas de recarga físicas. No se aceptan métodos de pago occidentales comunes como PayPal."
-      esim_title: "Pagos globales sin complicaciones"
-      esim_desc: "Olvídate de las recargas en tiendas físicas o los rechazos de tarjetas internacionales. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, con precios claros en USD o EUR, sin tasas ocultas."
-    - icon:
-
-
-      prepaid_title: ""
-      prepaid_desc: "La atención al cliente está disponible en turco principalmente. No hay soporte en línea 24/7 para clientes prepagos; el horario típico es de lunes a viernes de 9:00 a 17:00."
-      esim_title: "Soporte 24/7 en tu idioma"
-      esim_desc: "Mientras que la atención al cliente de los operadores turcos solo está disponible en horario laboral y en turco, Roami ofrece soporte multilingüe 24/7 por chat y email, resolviendo cualquier incidencia al instante."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "credit-card"
-
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        desc: "Las recargas de SIM locales suelen rechazar tarjetas internacionales y requieren efectivo o tarjetas de recarga físicas. Las eSIM aceptan Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, con precios claros en USD/EUR."
-      - icon: "clock"
-
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        desc: "Comprar una SIM local requiere ir a una tienda (30-60 min) y pagar precios de aeropuerto hasta 5 veces más. Con eSIM, recibes el código QR al instante y te activas en menos de 1 minuto."
-      - icon: "passport"
-
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        desc: "Vodafone exige pasaporte válido y, si está en alfabeto no latino, una traducción notariada. Turkcell y Türk Telekom también requieren registro. Con eSIM, no necesitas ningún documento; la activación es instantánea y anónima."
-      - icon: "wifi"
-
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        desc: "Turkcell permite tethering, pero Vodafone y Türk Telekom no lo garantizan explícitamente. Las eSIM permiten compartir datos con todos tus dispositivos sin límites ni cargos extra."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "eSIM vs SIM física en Turquía: viaje, costes y configuración comparados"
   subtitle: "Comparativa de SIM prepagadas locales turcas y soluciones eSIM (referencia 2024/2025)"
@@ -873,7 +785,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Los planes de Turkcell, Vodafone y Türk Telekom tienen un ciclo fijo de 28 días; por ejemplo, Turkcell Fırsat 1GB cuesta ₺350 por 28 días, y un viaje de 5 días desperdicia el 82% del valor."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "Los planes locales son de 28 días fijos (ej. Turkcell Fırsat 1GB por ₺350). Roami ofrece planes desde 7 días, desde 1,99 $/GB, ajustados a tu viaje."
+      esim_desc: "Los planes locales son de 28 días fijos (ej. Turkcell Fırsat 1GB por ₺350). Roami ofrece planes desde 7 días, desde $1.99, ajustados a tu viaje."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -900,7 +812,7 @@ market_analysis:
       - icon: "wifi"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
-        title: "Tethering sinrestricciones"
+        title: "Tethering sin restricciones"
         desc: "Turkcell permite tethering, pero otros operadores pueden limitarlo. Con eSIM, compartes datos libremente con todos tus dispositivos, sin límites de velocidad."
       - icon: "clock"
         icon_bg: "bg-orange-100"

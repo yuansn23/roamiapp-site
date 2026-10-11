@@ -1,6 +1,6 @@
 ---
 title: 'Taiwán eSIM 2026: Guía de Viaje y Redes | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,7 +20,7 @@ seo:
   description: ¿Planeas un viaje a Taiwán? Obtén el mejor eSIM prepago de viaje de Roami con datos 5G ilimitados en toda la isla. Activación instantánea con QR. Cobertura en Taipei y todas las ciudades principales.
   keywords: eSIM Taiwán, comprar eSIM Taiwán, mejor eSIM Taiwán, eSIM viaje Taiwán, Chunghwa Telecom Taiwán, FarEasTone Taiwán, Taiwan Mobile Taiwán, eSIM Taipei, eSIM Nueva Taipéi, eSIM Taichung, eSIM prepago Taiwán, 5G eSIM Taiwán
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: Plan Seleccionado
   label_data: Datos incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de Taiwán para la mejor señal
 plans_title: 'Compra eSIM Taiwán: Planes para cada duración de viaje'
 plans_data:
-  7 Days:
+  7 días:
   - spec: 20GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para tu viaje
@@ -121,7 +121,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.00'
-  30 Days:
+  30 días:
   - spec: 20GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para tu viaje
@@ -179,7 +179,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
-  15 Days:
+  15 días:
   - spec: 3GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para hacer turismo
@@ -229,7 +229,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.73'
-  3 Days:
+  3 días:
   - spec: 1GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes de negocios cortos
@@ -385,148 +385,52 @@ related_products:
   items:
   - name: eSIM Estados Unidos
     flag: img/flags/us.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Reino Unido
     flag: img/flags/gb.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Europa
     flag: img/flags/eu.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM Canadá
     flag: img/flags/ca.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Turquía
     flag: img/flags/tr.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM China
     flag: img/flags/cn.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Japón
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Francia
     flag: img/flags/fr.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM España
     flag: img/flags/es.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Alemania
     flag: img/flags/de.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
-market_analysis_1:
-  title: 'Taiwan eSIM vs Prepaid SIM: Speed, Coverage, and Price Compared'
-  subtitle: SIM Prepago Locales de Taiwán vs. Soluciones eSIM (Referencia 2024/2025)
-  citation:
-    text: 'Fuente de datos: Prepaid Data SIM Card Wiki (Taiwán) + Sitios de operadores locales'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Taiwan
-  table_headers:
-  - Matriz de Comparación
-  - SIM Prepago Local (Datos de Mercado)
-  - eSIM Roami Taiwán
-  table_rows:
-  - icon:
-    title: Acquisition &<br>Activation
-
-
-
-    prepaid_title: ''
-    prepaid_desc: Las SIM turísticas del aeropuerto de Chunghwa Telecom, Taiwan Mobile y FarEasTone requieren compra presencial en quioscos del aeropuerto o tiendas en la ciudad; la verificación del pasaporte toma 10-15 minutos.
-    esim_title: Entrega Digital Instantánea
-    esim_desc: Evita las colas de los quioscos del aeropuerto y las visitas a tiendas en la ciudad. Activa tu eSIM Roami en línea en 1 minuto después de aterrizar en Taiwán, evitando el proceso de verificación de pasaporte de 10-15 minutos.
-  - icon:
-    title: KYC & Real-Name<br>Registration
-
-
-
-    prepaid_title: ''
-    prepaid_desc: Todas las SIM prepago de Taiwán requieren registro de pasaporte; las tiendas en la ciudad pueden requerir una segunda identificación (ej. licencia de conducir) y un formulario, con dominio limitado del inglés entre el personal.
-    esim_title: No se requiere pasaporte
-    esim_desc: A diferencia de Chunghwa Telecom, Taiwan Mobile y FarEasTone que requieren registro de pasaporte (y a veces una segunda identificación), el eSIM Roami no necesita identificación personal—solo descarga y conecta.
-  - icon:
-    title: International<br>Roaming
-
-
-
-    prepaid_title: ''
-    prepaid_desc: Taiwan Mobile es el único operador que ofrece roaming internacional prepago, pero requiere comprar un paquete de roaming dedicado (ej. paquete China de 5 días NT$199 por 3GB de alta velocidad, luego ilimitado a 128kbps) y activación antes de la salida.
-    esim_title: Listo para Roaming Global
-    esim_desc: El roaming prepago de Taiwan Mobile requiere comprar previamente un paquete dedicado (ej. paquete China de 5 días NT$199 por 3GB de alta velocidad) y activación antes de la salida. El eSIM Roami ofrece roaming sin problemas en más de 100 países sin pasos adicionales.
-  - icon:
-    title: Billing Cycle &<br>Sunk Cost
-
-
-
-    prepaid_title: ''
-    prepaid_desc: Las SIM turísticas del aeropuerto de Chunghwa Telecom son válidas por 3, 5, 7, 10, 15 o 30 días (ej. 7 días NT$500); los paquetes estándar de ciudad usan ciclos de 30/60/120/180 días (ej. 1.2GB/30 días NT$300). Las SIM del aeropuerto no se pueden recargar ni extender.
-    esim_title: Planes Cortos Flexibles
-    esim_desc: A diferencia del ciclo de 30 días de Chunghwa Telecom (NT$1000 por datos ilimitados) que desperdicia el 77% del valor en un viaje de 7 días, Roami ofrece planes de 7 días desde $1.99/GB, ahorrándote dinero.
-  - icon:
-    title: Hotspot &<br>Speed Policies
-
-
-
-    prepaid_title: ''
-    prepaid_desc: Las SIM 5G del aeropuerto de Chunghwa Telecom limitan explícitamente los datos de hotspot a 3GB/5GB/7GB para planes de 3/5/7 días; las SIM 4G del aeropuerto permiten conexión compartida ilimitada.
-    esim_title: Conexión Compartida Sin Restricciones
-    esim_desc: Las SIM 5G del aeropuerto de Chunghwa Telecom limitan el hotspot a 3GB-7GB; el eSIM Roami permite conexión compartida ilimitada a máxima velocidad, perfecto para compartir con portátiles o tabletas.
-  - icon:
-    title: Top-up Payments
-
-
-
-    prepaid_title: ''
-    prepaid_desc: La recarga en línea requiere visitar un sitio web en chino (idealcard.com.tw) o usar quioscos de tiendas de conveniencia (iBon/FamiPort) con menús en chino; las tarjetas extranjeras a menudo son rechazadas.
-    esim_title: Pagos Globales Aceptados
-    esim_desc: Evita los quioscos de tiendas de conveniencia en chino y los portales en línea que rechazan tarjetas extranjeras. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal.
-  - icon:
-
-
-
-    prepaid_title: ''
-    prepaid_desc: La atención al cliente es principalmente en chino; el soporte en inglés es limitado y solo está disponible en horario comercial.
-    esim_title: Soporte en Inglés 24/7
-    esim_desc: Los operadores taiwaneses ofrecen soporte limitado en inglés durante el horario comercial. Roami proporciona servicio al cliente 24/7 en inglés a través de chat en vivo y correo electrónico.
-  expert_verdict_1:
-    cards:
-    - icon: credit-card
-
-      icon_bg: bg-emerald-100
-      icon_color: text-emerald-600
-      desc: Recargar SIM prepago taiwanesas requiere navegar por quioscos de tiendas de conveniencia en chino (iBon/FamiPort) o sitios web (idealcard.com.tw), que a menudo rechazan tarjetas extranjeras. Roami acepta <b>Visa</b>, <b>Mastercard</b>, <b>AMEX</b>, <b>Apple Pay</b>, <b>Google Pay</b> y <b>PayPal</b>.
-    - icon: tower-observation
-
-      icon_bg: bg-rose-100
-      icon_color: text-rose-600
-      desc: <b>Taiwan Mobile</b> es el único operador con roaming prepago, pero requiere comprar previamente un paquete dedicado (ej. paquete China de 5 días <b>NT$199</b> por <b>3GB</b> de alta velocidad, luego ilimitado a <b>128kbps</b>) y activación antes de la salida. El eSIM Roami ofrece roaming global en más de 100 países sin pasos adicionales.
-    - icon: globe
-
-      icon_bg: bg-purple-100
-      icon_color: text-purple-600
-      desc: Adquirir una SIM local requiere visitar un quiosco del aeropuerto o una tienda en la ciudad, con verificaciones de pasaporte que toman <b>10-15 minutos</b>. El eSIM Roami se activa en línea en <b>1 minuto</b> después de aterrizar, ahorrando tiempo y molestias.
-    - icon: clock
-
-      icon_bg: bg-indigo-100
-      icon_color: text-indigo-600
-      desc: Los operadores taiwaneses ofrecen atención al cliente principalmente en chino, con disponibilidad limitada de inglés durante el horario comercial. Roami proporciona soporte en <b>inglés 24/7</b> a través de chat en vivo y correo electrónico.
-
 # =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "Velocidad, cobertura y precios: eSIM vs prepagada en Taiwán"
@@ -556,13 +460,13 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Taiwan Mobile es el único operador que ofrece roaming internacional prepagado, pero solo en destinos limitados (Japón, Corea, Tailandia, China, Hong Kong, Singapur, EE.UU.) y requiere comprar un paquete adicional. Por ejemplo, un paquete de 5 días para China cuesta NT$199 con 3 GB de alta velocidad."
       esim_title: "Roaming global sin paquetes extra"
-      esim_desc: "Mientras que Taiwan Mobile solo ofrece roaming en 7 países con paquetes adicionales (ej. 5 días China NT$199/3GB), Roami eSIM te da cobertura en más de 190 países con planes desde 1,99 $/GB."
+      esim_desc: "Mientras que Taiwan Mobile solo ofrece roaming en 7 países con paquetes adicionales (ej. 5 días China NT$199/3GB), Roami eSIM te da cobertura en más de 190 países con planes desde $1.99."
     - icon: "calendar-xmark"
       title: "Ciclo de facturación y<br>costes desperdiciados"
       prepaid_title: ""
       prepaid_desc: "Los planes turísticos tienen duraciones fijas de 3, 5, 7, 10, 15 o 30 días. Por ejemplo, el plan de 30 días de Chunghwa cuesta NT$1000 (unos 30 USD). Un viajero de 7 días que compre un plan de 30 días desperdicia el 77% del valor."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "Los planes turísticos locales son fijos (ej. 30 días NT$1000). Roami ofrece planes de 7 días desde 1,99 $/GB, ahorrando hasta un 77% si solo viajas una semana."
+      esim_desc: "Los planes turísticos locales son fijos (ej. 30 días NT$1000). Roami ofrece planes de 7 días desde $1.99, ahorrando hasta un 77% si solo viajas una semana."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -584,13 +488,13 @@ market_analysis:
 
   # =============== Módulo Veredicto de Expertos ===============
   expert_verdict:
-    title: "eSIM para Taiwán: la solución más inteligente yeconómica para viajeros sin estrés"
+    title: "eSIM para Taiwán: la solución más inteligente y económica para viajeros sin estrés"
     cards:
       - icon: "hourglass-empty"
         icon_bg: "bg-amber-100"
         icon_color: "text-amber-600"
         title: "Planes fijosdesperdician tu dinero"
-        desc: "Un plan de 30 días de <b>Chunghwa</b> cuesta NT$1000 (~30 USD). Si viajas 7 días, pierdes el 77% del valor. eSIM ofrece planes de 7 días desde 1,99 $/GB."
+        desc: "Un plan de 30 días de <b>Chunghwa</b> cuesta NT$1000 (~30 USD). Si viajas 7 días, pierdes el 77% del valor. eSIM ofrece planes de 7 días desde $1.99."
       - icon: "shield"
         icon_bg: "bg-teal-100"
         icon_color: "text-teal-600"

@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Andorra | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:05:09+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,6 +19,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Andorra | Red Local Fiable y Prepago Sin Contrato
+  low_price: 6.99
+  high_price: 89.99
   description: Con Roami en Andorra, esquía y comparte tu aventura con Internet de
     alta velocidad. Datos ilimitados, sin contratos y la mejor red local para moverte
     entre pistas y ciudades.
@@ -321,7 +323,7 @@ faq_section:
         uso justo solo se aplica en caso de consumo extremo (por ejemplo, transmisión
         4K continua durante varios días). La navegación habitual, redes sociales,
         videollamadas y GPS no están limitados.
-        Roami ofrece datos 5G de alta velocidad (100 a 300 Mbps) desde $1.99/GB. El plan de 5GB/15 dias por $9.99 es el mas elegido por viajeros.
+        Puedes empezar desde $6.99 (1 GB, 7 días) y subir hasta $89.99 por el plan más completo (datos ilimitados, 15 días). El plan con mejor relación calidad-precio es el de 5 GB para 15 días, por $16.99.
     - q: ¿Cuál es la validez del código QR para la eSIM para Andorra?
       a: El código QR es válido durante 30 días después de su envío a tu correo electrónico.
         Tienes suficiente tiempo para instalar la eSIM antes de tu viaje. Pasado ese
@@ -366,7 +368,6 @@ faq_section:
         locales en Andorra?
       a: A diferencia de las tarjetas SIM prepago locales, no necesitas ir a una tienda,
         pasar por verificación de identidad (KYC) o buscar una tarjeta de recarga
-
 
   - id: faq-airport
     icon: plane
@@ -672,97 +673,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Andorra eSIM vs Prepaid SIM: Speed, Coverage, and Price Compared'
-  subtitle: "Comparativa de SIM prepagadas locales de Andorra Telecom y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Andorra) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Andorra"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Andorra"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Resuelve tus dudas sobre la eSIM para Andorra. Informacion sobre instalacion, compatibilidad con tu movil, operadores disponibles y planes para turistas."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita la espera de horas en las tiendas de Andorra Telecom y el tedioso proceso de verificación manual. Con Roami eSIM, activas tu plan en menos de 1 minuto desde tu móvil, listo para usar al aterrizar en Andorra la Vella."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Andorra Telecom exige a todos los usuarios de prepago, incluso para eSIM, el registro con pasaporte y una selfie, que deben ser revisados manualmente antes de la activación."
-      esim_title: "Sin pasaporte ni selfies"
-      esim_desc: "Olvídate de enviar fotos de tu pasaporte y selfies a Andorra Telecom. Roami eSIM no requiere ningún registro KYC, protegiendo tu privacidad y evitando retrasos en la activación."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "El roaming internacional fuera de Andorra cuesta 3 € por 1 GB al día, válido solo hasta la medianoche; no hay roaming gratuito en la UE."
-      esim_title: "Roaming global sin sorpresas"
-      esim_desc: "Mientras que Andorra Telecom cobra 3 €/día por solo 1 GB de roaming en Europa, Roami eSIM ofrece planes multirregión que incluyen Andorra y países vecinos sin costes adicionales, perfecto para viajes entre España y Francia."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Los planes prepagados de Andorra Telecom tienen un ciclo de 30 días: el plan Tarifa S cuesta 10 € por 3 GB, y el Tarifa M cuesta 20 € por 12 GB. Un viaje de 1-3 días desperdicia hasta el 90% del valor del plan."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo fijo de 30 días de Andorra Telecom (10 €/3GB), Roami ofrece planes de datos desde 7 días, desde 1,99 $/GB. Si viajas solo 2 días, ahorras hasta un 90% del coste del plan local."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general, Andorra Telecom permite tethering, pero una vez agotados los datos, la conexión se corta por completo sin posibilidad de reducción de velocidad."
-      esim_title: "Tethering ilimitado sin cortes"
-      esim_desc: "Con Andorra Telecom, al agotar los datos se corta la conexión por completo. Roami eSIM permite tethering ilimitado y, si se acaban los datos, puedes recargar al instante sin perder la conectividad."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Las recargas se pueden realizar en línea con tarjeta de crédito (Visa, Mastercard) o comprando tarjetas de recarga físicas de 15, 30 o 60 € en tiendas."
-      esim_title: "Pagos globales sin complicaciones"
-      esim_desc: "Andorra Telecom solo acepta Visa/Mastercard o tarjetas de recarga físicas. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, facilitando el pago desde cualquier país."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general, la atención al cliente de Andorra Telecom es limitada, principalmente en catalán y español, sin soporte 24/7 para prepago."
-      esim_title: "Soporte 24/7 en tu idioma"
-      esim_desc: "Mientras que la atención al cliente de Andorra Telecom es limitada y en horario local, Roami ofrece soporte multilingüe 24/7 por chat y email, resolviendo cualquier incidencia al instante."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "clock"
-
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        desc: "Andorra Telecom requiere <b>esperar la aprobación manual</b> tras enviar pasaporte y selfie. Roami eSIM se activa en <b>menos de 1 minuto</b> tras la compra, lista al aterrizar."
-      - icon: "shield"
-
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        desc: "La atención al cliente de Andorra Telecom es limitada y en horario local. Roami ofrece <b>soporte 24/7 en varios idiomas</b> por chat y email, resolviendo cualquier problema al instante."
-      - icon: "tower-observation"
-
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        desc: "Andorra Telecom cobra <b>3 €/día por 1 GB</b> de roaming en Europa, válido solo hasta medianoche. Roami ofrece planes multirregión que incluyen Andorra, España y Francia sin recargos."
-      - icon: "credit-card"
-
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        desc: "Andorra Telecom solo acepta <b>Visa/Mastercard</b> o tarjetas de recarga físicas. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, sin rechazos por tarjetas extranjeras."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "eSIM o prepagada en Andorra: ¿cuál es para ti?"
   subtitle: "Comparativa de SIM prepagadas locales de Andorra Telecom y soluciones eSIM (referencia 2024/2025)"
@@ -791,13 +701,13 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Andorra no pertenece a la UE, por lo que el roaming en Europa cuesta 3 € por 1 GB al día, válido solo hasta medianoche. Sin paquete, los datos se cortan al salir del país."
       esim_title: "Roaming global sin sobretasas"
-      esim_desc: "Mientras Andorra Telecom cobra 3 €/día por 1 GB en Europa, Roami ofrece planes multirregión que incluyen Andorra, España y Francia sin costes adicionales, con datos desde 1,99 $/GB."
+      esim_desc: "Mientras Andorra Telecom cobra 3 €/día por 1 GB en Europa, Roami ofrece planes multirregión que incluyen Andorra, España y Francia sin costes adicionales, con datos desde $6.99."
     - icon: "calendar-xmark"
       title: "Ciclo de facturación y<br>costes desperdiciados"
       prepaid_title: ""
       prepaid_desc: "Los planes prepagados de Andorra Telecom tienen un ciclo fijo de 30 días: Tarifa S cuesta 10 € por 3 GB, y Tarifa M 20 € por 12 GB. Un turista que viaja 2 días y compra Tarifa S desperdicia el 93% del plan."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "Andorra Telecom impone ciclos de 30 días (10 €/3 GB). Roami ofrece planes de 7 días desde 1,99 $/GB, ideales para estancias cortas: pagas solo por lo que usas, ahorrando hasta un 90%."
+      esim_desc: "Andorra Telecom impone ciclos de 30 días (10 €/3 GB). Roami ofrece planes de 7 días desde $6.99, ideales para estancias cortas: pagas solo por lo que usas, ahorrando hasta un 90%."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -830,7 +740,7 @@ market_analysis:
         icon_bg: "bg-amber-100"
         icon_color: "text-amber-600"
         title: "Planes flexibles frente al ciclo de30 días"
-        desc: "Andorra Telecom obliga a comprar planes de <b>30 días (10 €/3 GB)</b>. Un turista de 2 días desperdicia el <b>93%</b> del plan. Roami ofrece planes de <b>7 días desde 1,99 $/GB</b>, sin desperdicio."
+        desc: "Andorra Telecom obliga a comprar planes de <b>30 días (10 €/3 GB)</b>. Un turista de 2 días desperdicia el <b>93%</b> del plan. Roami ofrece planes de <b>7 días desde $6.99</b>, sin desperdicio."
       - icon: "passport"
         icon_bg: "bg-blue-100"
         icon_color: "text-blue-600"

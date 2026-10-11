@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Macao : Guía de 5G y Datos | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -16,11 +16,11 @@ modal:
   text_default: "Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIMGo</strong>.<br>Los nuevos clientes disfrutan de un 20% de descuento, código promocional: web20"
   text_android: "Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>.<br>Los nuevos clientes disfrutan de un 20% de descuento, código promocional: web20"
 seo:
-  title: 'eSIM Macau: Plan de Datos Ilimitados 5G de Alta Velocidad'
+  title: 'eSIM Macao: Plan de Datos Ilimitados 5G de Alta Velocidad'
   description: Compara planes eSIM para Macao con 5G rápido en la Península de Macao, Taipa, Coloane. Guía de cobertura de CTM, 3 Macau y SmarTone para turistas y viajeros. Activación QR instantánea desde $1.99.
   keywords: eSIM Macao, comprar eSIM Macao, mejor eSIM Macao, eSIM para viajar a Macao, CTM Macao, 3 Macau Macao, SmarTone Macao, eSIM Península de Macao, eSIM Taipa, eSIM Coloane, eSIM prepago Macao, eSIM 5G Macao
   low_price: 1.99
-  high_price: 39.9
+  high_price: 64.99
 order_summary:
   title: Plan Seleccionado
   label_data: Datos Incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de Macao para la mejor señal
 plans_title: 'Compra eSIM Macao: Planes para Cada Duración de Viaje'
 plans_data:
-  15 Days:
+  15 días:
   - spec: 5GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes en profundidad
@@ -121,7 +121,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.67'
-  7 Days:
+  7 días:
   - spec: 3GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para hacer turismo
@@ -171,7 +171,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.28'
-  30 Days:
+  30 días:
   - spec: Ilimitado
     data: Alta velocidad ilimitada
     desc: Uso de datos sin preocupaciones
@@ -229,7 +229,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '0.80'
-  3 Days:
+  3 días:
   - spec: 3GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para hacer turismo
@@ -392,50 +392,128 @@ related_products:
   items:
   - name: eSIM Estados Unidos
     flag: img/flags/us.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Reino Unido
     flag: img/flags/gb.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Europa
     flag: img/flags/eu.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM Canadá
     flag: img/flags/ca.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Turquía
     flag: img/flags/tr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM China
     flag: img/flags/cn.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Japón
     flag: img/flags/jp.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Francia
     flag: img/flags/fr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM España
     flag: img/flags/es.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Alemania
     flag: img/flags/de.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en Macao: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en Macao (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (Macao) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Macao"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para Macao"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "CTM vende en el aeropuerto de Macao y en tiendas del Cotai Strip; hay que identificarse para el alta."
+      esim_title: "Escaneas y conectas"
+      esim_desc: "Sin depender del horario de las tiendas de CTM: compra la eSIM, escanea el QR y navega en segundos al llegar a la Península de Macao."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "Macao exige registrar la SIM prepagada con pasaporte."
+      esim_title: "Sin verificación presencial"
+      esim_desc: "En Macao, no hay que acudir a una tienda ni mostrar documentos: la eSIM se instala desde el móvil, sin registro."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "Para combinar Hong Kong y Macao hace falta una SIM distinta en cada territorio."
+      esim_title: "Roaming sin trampas"
+      esim_desc: "A diferencia de CTM, que limita o tarifa los datos fuera de su red, la eSIM de Roami mantiene el paquete íntegro durante todo el viaje."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "CTM trabaja con ciclos mensuales y sus SIM turísticas arrancan en unos 6 $."
+      esim_title: "Paga solo los días que necesitas"
+      esim_desc: "En Macao, las prepagadas obligan a bloques de 30 días. La eSIM permite elegir 3, 5, 7, 15 o 30 días desde $1.99."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "Se puede compartir la conexión, si bien la velocidad puede bajar en las horas de mayor demanda."
+      esim_title: "Punto de acceso sin coste extra"
+      esim_desc: "En Macao, activa el hotspot para tu portátil sin sorpresas, frente a las prepagadas que lo bloquean o lo tarifan."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "La recarga se hace con cupones y tarjetas locales."
+      esim_title: "Pago internacional sencillo"
+      esim_desc: "En Macao, la eSIM acepta las principales tarjetas y carteras digitales, sin el efectivo que suelen pedir las recargas locales."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "La atención se presta en cantonés, portugués e inglés."
+      esim_title: "Respaldo continuo"
+      esim_desc: "En Macao, la eSIM incluye atención en español 24/7, algo poco habitual en la atención prepagada local."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para Macao: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "clock"
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "Listo antes de aterrizar"
+        desc: "CTM vende en el aeropuerto de Macao y en tiendas del Cotai Strip; hay que identificarse para el alta. Instálala antes de viajar y tendrás datos desde el primer minuto en Macao."
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "Recarga sin cupones locales"
+        desc: "La recarga se hace con cupones y tarjetas locales. Con Roami pagas con tarjeta internacional durante tu estancia en Macao."
+      - icon: "globe"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "Cobertura multi-red"
+        desc: "Cobertura excelente en todo el territorio, incluidos Cotai y Taipa. La eSIM elige la red más potente disponible en Macao sin configuración manual."
+      - icon: "tower-observation"
+        icon_bg: "bg-rose-100"
+        icon_color: "text-rose-600"
+        title: "Datos íntegros al cruzar fronteras"
+        desc: "Para combinar Hong Kong y Macao hace falta una SIM distinta en cada territorio. En Macao la eSIM no recorta el paquete ni aplica FUP sorpresa al salir del país."
 ---

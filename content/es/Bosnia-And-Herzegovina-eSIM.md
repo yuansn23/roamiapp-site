@@ -1,6 +1,6 @@
 ---
 title: 'eSIM para Bosnia y Herzegovina 2026: Guía turística y de redes | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: "Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>.<br>Los nuevos clientes disfrutan de un 20% de descuento, código promocional: web20"
 seo:
   title: 'eSIM Bosnia: 5G ilimitado, sin contratos ni tarifas ocultas'
-  description: Compara planes eSIM para Bosnia y Herzegovina con 5G rápido en Sarajevo, Mostar, Banja Luka. Guía de cobertura de BH Telecom, HT Mostar y m:tel para turistas y viajeros. Activación QR instantánea desde $1.99.
+  description: Compara planes eSIM para Bosnia y Herzegovina con 5G rápido en Sarajevo, Mostar, Banja Luka. Guía de cobertura de BH Telecom, HT Mostar y m:tel para turistas y viajeros. Activación QR instantánea desde $30.99.
   keywords: eSIM Bosnia y Herzegovina, comprar eSIM Bosnia y Herzegovina, mejor eSIM Bosnia y Herzegovina, eSIM de viaje Bosnia y Herzegovina, BH Telecom Bosnia y Herzegovina, HT Mostar Bosnia y Herzegovina, m:tel Bosnia y Herzegovina, eSIM Sarajevo, eSIM Mostar, eSIM Banja Luka, eSIM prepago Bosnia y Herzegovina, 5G eSIM Bosnia y Herzegovina
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 30.99
+  high_price: 30.99
 order_summary:
   title: Plan seleccionado
   label_data: Datos incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de Bosnia y Herzegovina para la mejor señal
 plans_title: 'Compra eSIM para Bosnia y Herzegovina: Planes para cada duración de viaje'
 plans_data:
-  30 Days:
+  30 días:
   - spec: 20GB
     data: 5G/4G/LTE de alta velocidad
     desc: Perfecto para tu viaje
@@ -195,51 +195,129 @@ related_products:
   items:
   - name: eSIM Estados Unidos
     flag: img/flags/us.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Reino Unido
     flag: img/flags/gb.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Europa
     flag: img/flags/eu.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM Canadá
     flag: img/flags/ca.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Turquía
     flag: img/flags/tr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM China
     flag: img/flags/cn.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Japón
     flag: img/flags/jp.svg
-        Por solo $1.99/GB puedes navegar a velocidades 5G de hasta 300 Mbps. Roami ofrece planes de 1GB a ilimitados, todos con activacion en menos de 2 minutos.
-    price: Desde $1.99
+        El plan más económico cuesta $30.99 (20 GB, 30 días) y el más completo, $30.99 (20 GB, 30 días). Roami ofrece planes de 1GB a ilimitados, todos con activacion en menos de 2 minutos.
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Francia
     flag: img/flags/fr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM España
     flag: img/flags/es.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Alemania
     flag: img/flags/de.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en Bosnia y Herzegovina: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en Bosnia y Herzegovina (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (Bosnia-And-Herzegovina) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Bosnia-And-Herzegovina"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para Bosnia y Herzegovina"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "BH Telecom vende la Tourist 1 (40GB/10 días) por 20 KM en tienda y por 31,70 KM como eSIM, con una tasa de activación de 11,70 KM."
+      esim_title: "Listo antes de aterrizar"
+      esim_desc: "Instala la eSIM desde casa y evita las colas de las tiendas de BH Telecom. Al llegar a Sarajevo ya tienes datos."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "Por ley hay que mostrar pasaporte o DNI para comprar o activar la SIM; no existen líneas anónimas."
+      esim_title: "Sin KYC ni huellas"
+      esim_desc: "Frente al registro con pasaporte de BH Telecom, la eSIM no exige identificación: compra, escanea y conecta."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "m:tel asigna 100GB en Bosnia más 10GB para los Balcanes Occidentales; fuera de esa zona no hay roaming sin coste."
+      esim_title: "Roaming sin sobrecoste"
+      esim_desc: "La eSIM evita las tarifas por uso en el extranjero que aplican las prepagadas de BH Telecom."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "m:tel vende el paquete Dopuna:Start de 100GB/7 días por 35 KM, mientras HT Eronet trabaja con ciclos semanales o de 15 días."
+      esim_title: "Sin bloque mensual obligatorio"
+      esim_desc: "Con Roami compras exactamente lo que dura tu viaje, desde $30.99, en lugar del ciclo de 30 días de BH Telecom."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "En Bosnia y Herzegovina, el uso compartido depende del operador y de la promoción activa."
+      esim_title: "Hotspot sin límites"
+      esim_desc: "La eSIM no aplica los límites de tethering de algunas prepagadas de BH Telecom: compartes datos con lo que quieras."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "Las recargas se hacen en quiosco o supermercado, y algunas promociones exigen recargar 2 KM en 30 días."
+      esim_title: "Cobro sin fronteras"
+      esim_desc: "La eSIM admite tarjetas internacionales y carteras digitales, evitando las limitaciones de pago de BH Telecom."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "La atención es principalmente en bosnio, con inglés básico en las tiendas."
+      esim_title: "Soporte 24/7 multilingüe"
+      esim_desc: "En Bosnia y Herzegovina, el soporte local suele limitarse al idioma del país y al horario de oficina. La eSIM ofrece ayuda en español las 24 horas."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para Bosnia y Herzegovina: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "clock"
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "Conectado en 60 segundos"
+        desc: "BH Telecom vende la Tourist 1 (40GB/10 días) por 20 KM en tienda y por 31,70 KM como eSIM, con una tasa de activación de 11,70 KM. En Bosnia y Herzegovina la eSIM se activa sola; no dependes del horario de las tiendas locales."
+      - icon: "globe"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "La red más fuerte, siempre"
+        desc: "BH Telecom tiene la mejor cobertura nacional, incluso en zonas de montaña; m:tel destaca en la República Srpska. En Bosnia y Herzegovina la eSIM salta a la mejor red para evitar zonas débiles."
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "Sin registro de identidad"
+        desc: "La ley bosnia obliga a mostrar pasaporte o DNI para activar la línea. El registro obligatorio en Bosnia y Herzegovina no se aplica a la eSIM."
+      - icon: "wifi"
+        icon_bg: "bg-green-100"
+        icon_color: "text-green-600"
+        title: "Comparte datos sin límites"
+        desc: "El uso compartido depende del operador y de la promoción activa. En Bosnia y Herzegovina puedes usar el móvil como hotspot cuando quieras."
 ---

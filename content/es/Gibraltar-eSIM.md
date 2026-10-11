@@ -1,6 +1,6 @@
 ---
 title: 'eSIM para Gibraltar : Guía completa de viaje | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: "Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>.<br>Los nuevos clientes disfrutan de un 20% de descuento, código promocional: web20"
 seo:
   title: "eSIM Gibraltar: 5G ilimitado, sin contratos ni tarifas ocultas"
-  description: Compara planes eSIM para Gibraltar con 5G rápido en la Ciudad de Gibraltar, Catalan Bay, Europa Point. Guía de cobertura de Gibtelecom, CTS Gibraltar y Gibtel para turistas y viajeros. Activación QR instantánea desde $1.99.
+  description: Compara planes eSIM para Gibraltar con 5G rápido en la Ciudad de Gibraltar, Catalan Bay, Europa Point. Guía de cobertura de Gibtelecom, CTS Gibraltar y Gibtel para turistas y viajeros. Activación QR instantánea desde $5.99.
   keywords: eSIM Gibraltar, comprar eSIM Gibraltar, mejor eSIM Gibraltar, eSIM de viaje Gibraltar, Gibtelecom Gibraltar, CTS Gibraltar Gibraltar, Gibtel Gibraltar, eSIM Ciudad de Gibraltar, eSIM Catalan Bay, eSIM Europa Point, eSIM prepago Gibraltar, 5G eSIM Gibraltar
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 5.99
+  high_price: 86.99
 order_summary:
   title: Plan seleccionado
   label_data: Datos incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de Gibraltar para la mejor señal
 plans_title: 'Compra eSIM para Gibraltar: Planes para cada duración de viaje'
 plans_data:
-  7 Days:
+  7 días:
   - spec: 5GB
     data: 5G/4G/LTE de alta velocidad
     desc: Perfecto para viajes en profundidad
@@ -104,7 +104,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.28'
-  15 Days:
+  15 días:
   - spec: 5GB
     data: 5G/4G/LTE de alta velocidad
     desc: Perfecto para viajes en profundidad
@@ -137,7 +137,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.00'
-  30 Days:
+  30 días:
   - spec: 5GB
     data: 5G/4G/LTE de alta velocidad
     desc: Perfecto para viajes en profundidad
@@ -170,7 +170,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.90'
-  3 Days:
+  3 días:
   - spec: Ilimitado
     data: Alta velocidad ilimitada
     desc: Uso de datos sin preocupaciones
@@ -266,7 +266,7 @@ faq_section:
     - q: |
         ¿El plan ilimitado de eSIM para Gibraltar se ralentiza si uso demasiados datos?
       a: |
-        Existe una política de uso justo, las velocidades se reducen después de 30GB en un día. A velocidad reducida aún puedes enviar mensajes, navegar y usar mapas, solo que no verás video sin problemas. Realísticamente, la mayoría de los viajeros no se acercan a 30GB. Si te preocupa, un plan fijo de 10GB ($14.99) o 20GB ($24.99) elimina por completo la incertidumbre.
+        Existe una política de uso justo, las velocidades se reducen después de 30GB en un día. A velocidad reducida aún puedes enviar mensajes, navegar y usar mapas, solo que no verás video sin problemas. Realísticamente, la mayoría de los viajeros no se acercan a 30GB. Puedes empezar desde $5.99 (1 GB, 7 días) y subir hasta $86.99 por el plan más completo (datos ilimitados, 30 días).
     - q: |
         ¿Cómo se compara Roami con Holafly para eSIM en Gibraltar?
       a: |
@@ -295,50 +295,128 @@ related_products:
   items:
   - name: eSIM Estados Unidos
     flag: img/flags/us.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Reino Unido
     flag: img/flags/gb.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Europa
     flag: img/flags/eu.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM Canadá
     flag: img/flags/ca.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Turquía
     flag: img/flags/tr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM China
     flag: img/flags/cn.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Japón
     flag: img/flags/jp.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Francia
     flag: img/flags/fr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM España
     flag: img/flags/es.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Alemania
     flag: img/flags/de.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en Gibraltar: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en Gibraltar (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (Gibraltar) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Gibraltar"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para Gibraltar"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "Gibtelecom vende en su tienda de Main Street, a unos 10 minutos de la frontera; no hay mostrador en el aeropuerto."
+      esim_title: "Instalación antes de volar"
+      esim_desc: "Configura la eSIM en minutos desde casa y llega a Ciudad de Gibraltar con datos, sin paradas en tiendas de Gibtelecom."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "No se exige registro de identidad para la prepagada."
+      esim_title: "Sin pasaporte ni registro"
+      esim_desc: "En Gibraltar: Roami no pide pasaporte ni datos biométricos. Activa sin compartir documentos personales."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "Tras el Brexit, ni las SIM británicas ni las de la UE funcionan gratis aquí: el roaming se factura aparte en ambos sentidos."
+      esim_title: "Datos completos fuera de la red local"
+      esim_desc: "Algunas prepagadas de Gibtelecom recortan los GB al salir del país; la eSIM conserva el volumen contratado en roaming."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "Gibtelecom trabaja con ciclos de 30 días: 2GB por 10 £ y 30GB por 25 £, además de un pase de 7 días por 15 £."
+      esim_title: "Sin días muertos"
+      esim_desc: "Si te quedas una semana, un plan local de 30 días desperdicia buena parte del saldo. La eSIM arranca desde $5.99 en planes cortos."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "El pase de 7 días aplica una política de uso justo con reducción de velocidad."
+      esim_title: "Datos para todos tus dispositivos"
+      esim_desc: "En Gibraltar, con la eSIM compartes la conexión sin la penalización de tethering que aplican ciertas SIM locales."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "La recarga se hace online, por app o por SMS con tarjeta local."
+      esim_title: "Sin barreras de cobro"
+      esim_desc: "En Gibraltar, con la eSIM pagas con Visa o Mastercard desde cualquier país, sin depender de los puntos de recarga físicos."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "La atención es en inglés."
+      esim_title: "Soporte en español a cualquier hora"
+      esim_desc: "En Gibraltar, frente a la atención local, limitada al idioma del país, la eSIM responde en español los 365 días."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para Gibraltar: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "shield"
+        icon_bg: "bg-teal-100"
+        icon_color: "text-teal-600"
+        title: "Sin cargos ocultos ni caducidad"
+        desc: "Los pases locales caducan a los 30 días y no acumulan los datos no usados. Con Roami no pagas mantenimiento ni pierdes saldo por inactividad en Gibraltar."
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "Recarga sin cupones locales"
+        desc: "La recarga se hace online, por app o por SMS con tarjeta local. Con Roami pagas con tarjeta internacional durante tu estancia en Gibraltar."
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "Cero trámites de alta"
+        desc: "Gibraltar no exige registro de identidad para la prepagada. La eSIM se instala sin pasaporte, sin foto y sin formularios en Gibraltar."
+      - icon: "hourglass-empty"
+        icon_bg: "bg-amber-100"
+        icon_color: "text-amber-600"
+        title: "Paga solo los días que usas"
+        desc: "Gibtelecom trabaja con ciclos de 30 días: 2GB por 10 £ y 30GB por 25 £, además de un pase de 7 días por 15 £. Paga solo los días que estarás en Gibraltar, sin bloques de 30 días."
 ---

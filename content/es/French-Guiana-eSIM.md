@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Guayana Francesa : Guía Turística y de Redes | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: "Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>.<br>Los nuevos clientes disfrutan de un 20% de descuento, código promocional: web20"
 seo:
   title: 'eSIM 5G Guayana Francesa: Internet Rápido para Negocios y Viajes'
-  description: Compara planes eSIM para Guayana Francesa con 5G rápido en Cayena, Kourou, Saint-Laurent-du-Maroni. Guía de cobertura de Digicel, Orange y Free para turistas y viajeros. Activación QR instantánea desde $1.99.
+  description: Compara planes eSIM para Guayana Francesa con 5G rápido en Cayena, Kourou, Saint-Laurent-du-Maroni. Guía de cobertura de Digicel, Orange y Free para turistas y viajeros. Activación QR instantánea desde $3.99.
   keywords: eSIM Guayana Francesa, comprar eSIM Guayana Francesa, mejor eSIM Guayana Francesa, eSIM para viajar a Guayana Francesa, Digicel Guayana Francesa, Orange Guayana Francesa, Free Guayana Francesa, eSIM Cayena, eSIM Kourou, eSIM Saint-Laurent-du-Maroni, eSIM prepago Guayana Francesa, eSIM 5G Guayana Francesa
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 3.99
+  high_price: 66.99
 order_summary:
   title: Plan Seleccionado
   label_data: Datos Incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de Guayana Francesa para la mejor señal
 plans_title: 'Compra eSIM Guayana Francesa: Planes para Cada Duración de Viaje'
 plans_data:
-  15 Days:
+  15 días:
   - spec: 5GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes en profundidad
@@ -88,7 +88,7 @@ plans_data:
     tag: Gran Valor
     tagColor: bg-emerald-500
     daily: '1.33'
-  30 Days:
+  30 días:
   - spec: 5GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes en profundidad
@@ -130,7 +130,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.27'
-  7 Days:
+  7 días:
   - spec: 1GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes de negocios cortos
@@ -147,7 +147,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '9.57'
-  3 Days:
+  3 días:
   - spec: Ilimitado
     data: Alta velocidad ilimitada
     desc: Uso de datos sin preocupaciones
@@ -284,50 +284,128 @@ related_products:
   items:
   - name: eSIM Estados Unidos
     flag: img/flags/us.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Reino Unido
     flag: img/flags/gb.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Europa
     flag: img/flags/eu.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM Canadá
     flag: img/flags/ca.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Turquía
     flag: img/flags/tr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM China
     flag: img/flags/cn.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Japón
     flag: img/flags/jp.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Francia
     flag: img/flags/fr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM España
     flag: img/flags/es.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Alemania
     flag: img/flags/de.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en la Guayana Francesa: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en la Guayana Francesa (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (French-Guiana) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/French-Guiana"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para la Guayana Francesa"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "Orange Caraibe vende en el aeropuerto Félix Éboué de Cayena y en la tienda de Place du Coq; hay que identificarse para activar la línea."
+      esim_title: "Escaneas y conectas"
+      esim_desc: "Sin depender del horario de las tiendas de Orange Caraibe: compra la eSIM, escanea el QR y navega en segundos al llegar a Cayena."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "Como territorio francés, la normativa exige identificarse para activar la línea prepagada."
+      esim_title: "Sin verificación presencial"
+      esim_desc: "En la Guayana Francesa, no hay que acudir a una tienda ni mostrar documentos: la eSIM se instala desde el móvil, sin registro."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "Las prepagadas locales incluyen roaming en la UE por ser territorio francés, pero con política de uso justo que recorta los gigas fuera de la Guayana."
+      esim_title: "Roaming sin trampas"
+      esim_desc: "A diferencia de Orange Caraibe, que limita o tarifa los datos fuera de su red, la eSIM de Roami mantiene el paquete íntegro durante todo el viaje."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "Orange y SFR trabajan con ciclos de 30 días: 5GB por 20 € y 15GB por 35 €."
+      esim_title: "Paga solo los días que necesitas"
+      esim_desc: "Las prepagadas obligan a bloques de 30 días. La eSIM permite elegir 3, 5, 7, 15 o 30 días desde $3.99."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "En la Guayana Francesa, el uso compartido no está garantizado en todos los planes y depende de la promoción activa."
+      esim_title: "Punto de acceso sin coste extra"
+      esim_desc: "En la Guayana Francesa, activa el hotspot para tu portátil sin sorpresas, frente a las prepagadas que lo bloquean o lo tarifan."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "La recarga se hace online o en tienda con tarjeta, y también con cupones locales."
+      esim_title: "Pago internacional sencillo"
+      esim_desc: "En la Guayana Francesa, la eSIM acepta las principales tarjetas y carteras digitales, sin el efectivo que suelen pedir las recargas locales."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "En la Guayana Francesa, la atención se presta en francés."
+      esim_title: "Respaldo continuo"
+      esim_desc: "En la Guayana Francesa, la eSIM incluye atención en español 24/7, algo poco habitual en la atención prepagada local."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para la Guayana Francesa: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "Compra con tu tarjeta de siempre"
+        desc: "La recarga se hace online o en tienda con tarjeta, y también con cupones locales. En la Guayana Francesa no necesitas cupones ni efectivo local: la compra es online."
+      - icon: "globe"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "Sin zonas muertas"
+        desc: "Orange cubre bien Cayena y Kourou, pero la señal desaparece en el interior selvático. Olvídate de la cobertura de un solo operador mientras viajas por la Guayana Francesa."
+      - icon: "tower-observation"
+        icon_bg: "bg-rose-100"
+        icon_color: "text-rose-600"
+        title: "Roaming sin recortes"
+        desc: "Las prepagadas locales incluyen roaming en la UE por ser territorio francés, pero con política de uso justo que recorta los gigas fuera de la Guayana. Mantienes todos los gigas al moverte fuera de la red local en la Guayana Francesa."
+      - icon: "wifi"
+        icon_bg: "bg-green-100"
+        icon_color: "text-green-600"
+        title: "Hotspot sin coste extra"
+        desc: "El uso compartido está permitido en las tarifas principales. El tethering en la Guayana Francesa no tiene coste añadido ni bloqueos con Roami."
 ---

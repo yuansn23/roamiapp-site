@@ -1,6 +1,6 @@
 ---
 title: 'Puerto Rico eSIM : Guía de Operadores y Cobertura | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ seo:
   title: Puerto Rico eSIM | El Mejor eSIM de Viaje para tu Aventura
   description: Explora Puerto Rico con el mejor eSIM prepago de viaje de Roami. Datos 5G ilimitados en toda la isla. Cobertura en San Juan, Ponce. Activación instantánea.
   keywords: Puerto Rico eSIM, comprar Puerto Rico eSIM, mejor Puerto Rico eSIM, eSIM para viajar a Puerto Rico, Claro Puerto Rico, Liberty Puerto Rico, T-Mobile Puerto Rico, eSIM San Juan, eSIM Ponce, eSIM Mayagüez, eSIM prepago Puerto Rico, 5G Puerto Rico eSIM
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 6.99
+  high_price: 64.99
 order_summary:
   title: Plan Seleccionado
   label_data: Datos Incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de Puerto Rico para la mejor señal
 plans_title: 'Compra Puerto Rico eSIM: Planes para Cada Duración de Viaje'
 plans_data:
-  7 Días:
+  7 días:
   - spec: 1GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes de negocios cortos
@@ -80,7 +80,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
-  15 Días:
+  15 días:
   - spec: 3GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para hacer turismo
@@ -98,7 +98,7 @@ plans_data:
     tag: Gran Valor
     tagColor: bg-emerald-500
     daily: '0.93'
-  30 Días:
+  30 días:
   - spec: 5GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes en profundidad
@@ -257,50 +257,128 @@ related_products:
   items:
   - name: eSIM para Estados Unidos
     flag: img/flags/us.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Reino Unido
     flag: img/flags/gb.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Europa
     flag: img/flags/eu.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM para Canadá
     flag: img/flags/ca.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Turquía
     flag: img/flags/tr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para China
     flag: img/flags/cn.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Japón
     flag: img/flags/jp.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Hong Kong
     flag: img/flags/hk.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Francia
     flag: img/flags/fr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para España
     flag: img/flags/es.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Alemania
     flag: img/flags/de.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Australia
     flag: img/flags/au.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en Puerto Rico: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en Puerto Rico (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (Puerto-Rico) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Puerto-Rico"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para Puerto Rico"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "T-Mobile y AT&T tienen presencia en el aeropuerto Luis Muñoz Marín de San Juan; Walmart vende prepago al precio oficial."
+      esim_title: "Listo antes de aterrizar"
+      esim_desc: "Instala la eSIM desde casa y evita las colas de las tiendas de Claro Puerto Rico. Al llegar a San Juan ya tienes datos."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "No se exige registro de pasaporte: Puerto Rico es territorio de Estados Unidos."
+      esim_title: "Sin KYC ni huellas"
+      esim_desc: "Frente al registro con pasaporte de Claro Puerto Rico, la eSIM no exige identificación: compra, escanea y conecta."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "Para los operadores estadounidenses, Puerto Rico cuenta como doméstico, así que la SIM de casa no genera roaming."
+      esim_title: "Roaming sin sobrecoste"
+      esim_desc: "La eSIM evita las tarifas por uso en el extranjero que aplican las prepagadas de Claro Puerto Rico."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "Los planes de T-Mobile y AT&T son mensuales (desde unos 20 $) y conviene activar un prepago estadounidense."
+      esim_title: "Sin bloque mensual obligatorio"
+      esim_desc: "Con Roami compras exactamente lo que dura tu viaje, desde $6.99, en lugar del ciclo de 30 días de Claro Puerto Rico."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "En Puerto Rico, compartir la conexión es posible, con restricciones según el paquete contratado."
+      esim_title: "Hotspot sin límites"
+      esim_desc: "La eSIM no aplica los límites de tethering de algunas prepagadas de Claro Puerto Rico: compartes datos con lo que quieras."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "En Puerto Rico, la recarga se hace online o en tienda con tarjeta estadounidense."
+      esim_title: "Cobro sin fronteras"
+      esim_desc: "La eSIM admite tarjetas internacionales y carteras digitales, evitando las limitaciones de pago de Claro Puerto Rico."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "La atención es en español e inglés."
+      esim_title: "Soporte 24/7 multilingüe"
+      esim_desc: "En Puerto Rico, el soporte local suele limitarse al idioma del país y al horario de oficina. La eSIM ofrece ayuda en español las 24 horas."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para Puerto Rico: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "Pago internacional sin fricción"
+        desc: "La recarga se hace online o en tienda con tarjeta estadounidense. Paga tu plan para Puerto Rico con Visa, Mastercard, AMEX o PayPal."
+      - icon: "globe"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "La red más fuerte, siempre"
+        desc: "T-Mobile y Liberty cubren bien San Juan y la costa; la zona montañosa central tiene menos señal. En Puerto Rico la eSIM salta a la mejor red para evitar zonas débiles."
+      - icon: "tower-observation"
+        icon_bg: "bg-rose-100"
+        icon_color: "text-rose-600"
+        title: "Sin sobrecostes fuera de la red"
+        desc: "Para los operadores estadounidenses, Puerto Rico cuenta como doméstico, así que la SIM de casa no genera roaming. Sin tarifas extra por datos al cruzar fronteras desde Puerto Rico."
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "Sin registro de identidad"
+        desc: "Puerto Rico no exige registro de identidad para la prepagada. El registro obligatorio en Puerto Rico no se aplica a la eSIM."
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'eSIM para Moldavia : Guía 5G y de datos | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,7 +20,7 @@ seo:
   description: Compara planes eSIM para Moldavia con 5G rápido en Chișinău, Bălți, Tiraspol. Guía de cobertura de Orange Moldavia, Moldcell y Moldtelecom para turistas y viajeros. Activación QR instantánea desde $1.99.
   keywords: eSIM Moldavia, comprar eSIM Moldavia, mejor eSIM Moldavia, eSIM de viaje Moldavia, Orange Moldavia Moldavia, Moldcell Moldavia, Moldtelecom Moldavia, eSIM Chișinău, eSIM Bălți, eSIM Tiraspol, eSIM prepago Moldavia, 5G eSIM Moldavia
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: Plan seleccionado
   label_data: Datos incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de Moldavia para la mejor señal
 plans_title: 'Compra eSIM para Moldavia: Planes para cada duración de viaje'
 plans_data:
-  30 Days:
+  30 días:
   - spec: 30GB
     data: 5G/4G/LTE de alta velocidad
     desc: Perfecto para tu viaje
@@ -121,7 +121,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.63'
-  15 Days:
+  15 días:
   - spec: 30GB
     data: 5G/4G/LTE de alta velocidad
     desc: Perfecto para tu viaje
@@ -171,7 +171,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.87'
-  7 Days:
+  7 días:
   - spec: 1GB
     data: 5G/4G/LTE de alta velocidad
     desc: Perfecto para viajes de negocios cortos
@@ -221,7 +221,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.00'
-  3 Days:
+  3 días:
   - spec: 1GB
     data: 5G/4G/LTE de alta velocidad
     desc: Perfecto para viajes de negocios cortos
@@ -371,50 +371,128 @@ related_products:
   items:
   - name: eSIM Estados Unidos
     flag: img/flags/us.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Reino Unido
     flag: img/flags/gb.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Europa
     flag: img/flags/eu.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM Canadá
     flag: img/flags/ca.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Turquía
     flag: img/flags/tr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM China
     flag: img/flags/cn.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Japón
     flag: img/flags/jp.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Francia
     flag: img/flags/fr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM España
     flag: img/flags/es.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Alemania
     flag: img/flags/de.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en Moldavia: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en Moldavia (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (Moldova) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Moldova"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para Moldavia"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "Orange y Moldtelecom venden en el aeropuerto de Chisináu y en tiendas del centro."
+      esim_title: "Listo antes de aterrizar"
+      esim_desc: "Instala la eSIM desde casa y evita las colas de las tiendas de Orange Moldavia. Al llegar a Chisináu ya tienes datos."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "Se exige identificación para activar la línea."
+      esim_title: "Sin KYC ni huellas"
+      esim_desc: "Frente al registro con pasaporte de Orange Moldavia, la eSIM no exige identificación: compra, escanea y conecta."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "Moldavia no es miembro de la UE, así que el roaming se factura aparte."
+      esim_title: "Roaming sin sobrecoste"
+      esim_desc: "La eSIM evita las tarifas por uso en el extranjero que aplican las prepagadas de Orange Moldavia."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "Orange vende Tourist de 5GB por 100 MDL y de 15GB por 160 MDL, con ciclos de 30 días."
+      esim_title: "Sin bloque mensual obligatorio"
+      esim_desc: "Con Roami compras exactamente lo que dura tu viaje, desde $1.99, en lugar del ciclo de 30 días de Orange Moldavia."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "En Moldavia, la mayoría de tarifas locales permiten compartir datos, pero con límites en las más baratas."
+      esim_title: "Hotspot sin límites"
+      esim_desc: "La eSIM no aplica los límites de tethering de algunas prepagadas de Orange Moldavia: compartes datos con lo que quieras."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "En Moldavia, la recarga se hace online o en tienda con tarjeta y cupones locales."
+      esim_title: "Cobro sin fronteras"
+      esim_desc: "La eSIM admite tarjetas internacionales y carteras digitales, evitando las limitaciones de pago de Orange Moldavia."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "La atención se presta en rumano y ruso."
+      esim_title: "Soporte 24/7 multilingüe"
+      esim_desc: "En Moldavia, el soporte local suele limitarse al idioma del país y al horario de oficina. La eSIM ofrece ayuda en español las 24 horas."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para Moldavia: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "shield"
+        icon_bg: "bg-teal-100"
+        icon_color: "text-teal-600"
+        title: "Sin cargos ocultos ni caducidad"
+        desc: "Los bloques de 30 días se desperdician si el viaje es corto. Con Roami no pagas mantenimiento ni pierdes saldo por inactividad en Moldavia."
+      - icon: "clock"
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "Listo antes de aterrizar"
+        desc: "Orange y Moldtelecom venden en el aeropuerto de Chisináu y en tiendas del centro. Instálala antes de viajar y tendrás datos desde el primer minuto en Moldavia."
+      - icon: "globe"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "Cobertura multi-red"
+        desc: "Buena cobertura en Chisináu y las ciudades; irregular en Transnistria. La eSIM elige la red más potente disponible en Moldavia sin configuración manual."
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "Cero trámites de alta"
+        desc: "Moldavia exige identificarse para activar la línea prepagada. La eSIM se instala sin pasaporte, sin foto y sin formularios en Moldavia."
 ---

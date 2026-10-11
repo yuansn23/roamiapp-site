@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Kirguistán | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:05:28+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,6 +20,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Kirguistán | Alta Velocidad y Roaming Incluido
+  low_price: 4.99
+  high_price: 96.99
   description: Con Roami en Kirguistán, disfruta de Internet de alta velocidad, datos
     ilimitados y roaming multi-país. Perfecto para explorar sus montañas.
   keywords: eSIM Kirguistán, datos móviles Kirguistán, viaje a Kirguistán, internet
@@ -339,10 +341,10 @@ faq_section:
         Si te quedas sin datos, puedes recargar mas GB directamente desde el panel, sin necesidad de comprar un plan nuevo ni cambiar de eSIM.
         Asi evitas quedarte sin internet en medio del viaje.
     - q: ¿Cuánto cuesta la eSIM para Kirguistán y hay descuentos?
-      a: Nuestro plan eSIM para Kirguistán comienza en 1,99 $/GB. Con el código promocional
+      a: Nuestro plan eSIM para Kirguistán comienza en $4.99. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
-        Los planes de datos comienzan en $1.99 por 1GB/7 dias, $9.99 por 5GB/15 dias y $19.99 por 10GB/30 dias, todo con velocidad 5G donde este disponible.
+        El plan más económico cuesta $4.99 (1 GB, 7 días) y el más completo, $96.99 (datos ilimitados, 30 días).
     - q: ¿Qué requisitos debe cumplir mi teléfono para usar la eSIM para Kirguistán?
       a: |
         Necesitas un telefono compatible con eSIM (iPhone XS/XR+, Samsung S20+, Pixel 3a+) y que no este bloqueado por un operador.
@@ -661,97 +663,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Kyrgyzstan eSIM vs Prepaid SIM Card: Is It Worth Switching?'
-  subtitle: "Comparativa de SIM prepagadas locales kirguises y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Kyrgyzstan) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Kyrgyzstan"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Kirguistán"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "MegaCom en el aeropuerto de Manas requiere compra en tienda y verificación de pasaporte, demora 30 minutos; O! exige visita a tienda física para extranjeros."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las colas en el aeropuerto de Manas o tiendas MegaCom; activa tu eSIM en 1 minuto escaneando un código QR antes de llegar a Biskek."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Todas las operadoras exigen KYC con pasaporte: Beeline requiere pasaporte físico, MegaCom acepta pasaporte extranjero en tienda o app, O! solo permite eSIM a ciudadanos kirguises."
-      esim_title: "Sin pasaporte ni registro"
-      esim_desc: "Olvídate del KYC obligatorio: Beeline exige pasaporte físico, O! rechaza extranjeros para eSIM. Con Roami eSIM, no necesitas identificación."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Ninguna operadora ofrece roaming gratuito; al salir de Kirguistán la SIM deja de funcionar. MegaCom limita velocidad a 512 kbps en 2G/3G fuera de cobertura 4G."
-      esim_title: "Roaming global sin fronteras"
-      esim_desc: "Las SIM locales (Beeline, MegaCom, O!) no funcionan fuera de Kirguistán. Roami eSIM ofrece cobertura en múltiples países, ideal para viajes por Asia Central."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "MegaCom y O! ofrecen paquetes semanales de 7 días (ej. MegaCom 90 som/6GB) o mensuales de 30 días; un viaje de 3-4 días desperdicia más del 50% del paquete."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "Los paquetes locales son de 7 o 30 días (ej. MegaCom 90 som/6GB por 7 días). Roami ofrece planes de 7 días desde 1,99 $/GB, ajustados a tu viaje."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "O! bloquea el tethering por defecto; requiere pago adicional de 100 som/mes para habilitarlo. Beeline y MegaCom permiten tethering sin costo adicional."
-      esim_title: "Tethering ilimitado incluido"
-      esim_desc: "O! cobra 100 som/mes por activar hotspot. Con Roami eSIM, el tethering es gratuito y sin límites, perfecto para conectar tu portátil."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Las recargas en línea con tarjeta extranjera suelen fallar; se requiere recarga en tiendas físicas con recargo de 5 som por transacción, solo en ruso."
-      esim_title: "Pagos globales sin recargos"
-      esim_desc: "Las recargas locales requieren efectivo o tarjetas rusas con recargo de 5 som. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "La atención al cliente es principalmente en ruso o kirguís, sin chat en línea para prepago; horario limitado."
-      esim_title: "Soporte 24/7 en español"
-      esim_desc: "La atención local es solo en ruso/kirguís y con horario limitado. Roami ofrece chat en línea 24/7 en español para resolver cualquier duda."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "wifi"
-
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        desc: "O! cobra <b>100 som/mes</b> extra por activar hotspot. Con Roami eSIM, el tethering es <b>gratuito e ilimitado</b>, sin bloqueos ni pagos adicionales."
-      - icon: "globe"
-
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        desc: "Beeline tiene cobertura 4G limitada, MegaCom cubre <b>90%</b> y O! <b>97%</b> de la población. Roami eSIM se conecta a la mejor red disponible, garantizando velocidad en Biskek, Osh y zonas rurales."
-      - icon: "credit-card"
-
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        desc: "Las recargas locales requieren efectivo o tarjetas rusas, con recargo de <b>5 som</b> por transacción. Roami acepta <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal</b>."
-      - icon: "shield"
-
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        desc: "La atención al cliente local es solo en <b>ruso o kirguís</b>, sin chat en línea. Roami ofrece soporte <b>24/7 en español</b> para resolver cualquier incidencia."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "eSIM vs SIM prepagada en Kirguistán: todo lo que debes considerar"
   subtitle: "Comparativa de SIM prepagadas locales kirguises y soluciones eSIM (referencia 2024/2025)"
@@ -786,7 +697,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "MegaCom y O! ofrecen paquetes semanales de 7 días o mensuales de 30 días; un viaje de 3-4 días desperdicia más del 50% del valor del plan."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia de los paquetes de 7 o 30 días de MegaCom (ej. 6 GB por 90 som), Roami ofrece planes desde 1,99 $/GB con duración de 7 días, evitando que pagues por datos que no usas."
+      esim_desc: "A diferencia de los paquetes de 7 o 30 días de MegaCom (ej. 6 GB por 90 som), Roami ofrece planes desde $4.99 con duración de 7 días, evitando que pagues por datos que no usas."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -808,7 +719,7 @@ market_analysis:
 
   # =============== Módulo Veredicto de Expertos ===============
   expert_verdict:
-    title: "eSIM para Kirguistán: la solución más inteligente yeconómica frente a la SIM local"
+    title: "eSIM para Kirguistán: la solución más inteligente y económica frente a la SIM local"
     cards:
       - icon: "credit-card"
         icon_bg: "bg-emerald-100"
@@ -823,7 +734,7 @@ market_analysis:
       - icon: "globe"
         icon_bg: "bg-teal-100"
         icon_color: "text-teal-600"
-        title: "Cobertura nacional sinzonas muertas"
+        title: "Cobertura nacional sin zonas muertas"
         desc: "Beeline tiene cobertura 3G limitada; MegaCom reduce velocidad en 2G/3G. La eSIM se conecta a la mejor red disponible, evitando caídas a 512 kbps."
       - icon: "hourglass-empty"
         icon_bg: "bg-amber-100"

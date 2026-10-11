@@ -1,6 +1,6 @@
 ---
 title: 'eSIM para Costa de Marfil : Guía de conexión y velocidad | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: "Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>.<br>Los nuevos clientes disfrutan de un 20% de descuento, código promocional: web20"
 seo:
   title: 'eSIM Costa de Marfil: Datos 5G de alta velocidad, sin tarifas de roaming'
-  description: Compara planes eSIM para Costa de Marfil con 5G rápido en Abiyán, Yamusukro, Bouaké. Guía de cobertura de Orange, MTN y Moov para turistas y viajeros. Activación QR instantánea desde $1.99.
+  description: Compara planes eSIM para Costa de Marfil con 5G rápido en Abiyán, Yamusukro, Bouaké. Guía de cobertura de Orange, MTN y Moov para turistas y viajeros. Activación QR instantánea desde $9.99.
   keywords: eSIM Costa de Marfil, comprar eSIM Costa de Marfil, mejor eSIM Costa de Marfil, eSIM de viaje Costa de Marfil, Orange Costa de Marfil, MTN Costa de Marfil, Moov Costa de Marfil, eSIM Abiyán, eSIM Yamusukro, eSIM Bouaké, eSIM prepago Costa de Marfil, 5G eSIM Costa de Marfil
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 9.99
+  high_price: 31.99
 order_summary:
   title: Plan seleccionado
   label_data: Datos incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de Costa de Marfil para la mejor señal
 plans_title: 'Compra eSIM para Costa de Marfil: Planes para cada duración de viaje'
 plans_data:
-  7 Days:
+  7 días:
   - spec: 1GB
     data: 5G/4G/LTE de alta velocidad
     desc: Perfecto para viajes de negocios cortos
@@ -80,7 +80,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.43'
-  30 Days:
+  30 días:
   - spec: 3GB
     data: 5G/4G/LTE de alta velocidad
     desc: Perfecto para hacer turismo
@@ -214,50 +214,128 @@ related_products:
   items:
   - name: eSIM Estados Unidos
     flag: img/flags/us.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Reino Unido
     flag: img/flags/gb.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Europa
     flag: img/flags/eu.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM Canadá
     flag: img/flags/ca.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Turquía
     flag: img/flags/tr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM China
     flag: img/flags/cn.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Japón
     flag: img/flags/jp.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Francia
     flag: img/flags/fr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM España
     flag: img/flags/es.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Alemania
     flag: img/flags/de.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en Costa de Marfil: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en Costa de Marfil (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (Ivory-Coast) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Ivory-Coast"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para Costa de Marfil"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "Orange y MTN venden en el aeropuerto Félix Houphouët-Boigny de Abiyán y en tiendas del centro."
+      esim_title: "Alta digital inmediata"
+      esim_desc: "En Costa de Marfil, la eSIM de Roami se activa por QR en segundos, sin depender del horario de las tiendas de Orange."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "Costa de Marfil exige registrar la SIM con pasaporte."
+      esim_title: "Alta sin identificación"
+      esim_desc: "En Costa de Marfil, el registro con pasaporte de Orange no es necesario: la eSIM se activa sin verificación de identidad."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "En Costa de Marfil, no hay roaming regional barato: fuera del país se factura a tarifas altas."
+      esim_title: "El mismo paquete en todo el viaje"
+      esim_desc: "En Costa de Marfil, la eSIM no hereda las condiciones de roaming de Orange: el volumen contratado es el que disfrutas."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "Orange ofrece Forfait de 5GB por 5.000 XOF y de 20GB por 12.000 XOF, con ciclos de 30 días."
+      esim_title: "Planes flexibles sin desperdicio"
+      esim_desc: "Los ciclos locales son rígidos de 7, 15 o 30 días. Roami ofrece planes flexibles desde $9.99, sin pagar días que no usarás."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "En Costa de Marfil, el tethering depende del plan: las tarifas de datos lo permiten y las de voz a veces no."
+      esim_title: "Comparte sin bloqueos"
+      esim_desc: "En Costa de Marfil, la eSIM permite usar el móvil como punto de acceso en todos tus dispositivos, sin la tarifa o el bloqueo de hotspot de algunas locales."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "La recarga se hace con cupones en efectivo o con mobile money (Orange Money, MTN MoMo)."
+      esim_title: "Sin fricción de pago"
+      esim_desc: "En Costa de Marfil, olvídate de los cupones rascables: la eSIM se compra online con Visa, Mastercard, AMEX o Google Pay."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "En Costa de Marfil, la atención se presta en francés."
+      esim_title: "Soporte sin barreras"
+      esim_desc: "En Costa de Marfil, el servicio al cliente de Orange puede prestarse solo en el idioma local; la eSIM responde en español a cualquier hora."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para Costa de Marfil: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "globe"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "Sin zonas muertas"
+        desc: "Buena cobertura en Abiyán y las grandes ciudades; limitada en zonas rurales del norte. Olvídate de la cobertura de un solo operador mientras viajas por Costa de Marfil."
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "Activación sin pasaporte"
+        desc: "Costa de Marfil exige registrar la SIM con pasaporte. En Costa de Marfil no tendrás que entregar el pasaporte ni datos biométricos."
+      - icon: "wifi"
+        icon_bg: "bg-green-100"
+        icon_color: "text-green-600"
+        title: "Hotspot sin coste extra"
+        desc: "El uso compartido está permitido en las tarifas de datos principales. El tethering en Costa de Marfil no tiene coste añadido ni bloqueos con Roami."
+      - icon: "hourglass-empty"
+        icon_bg: "bg-amber-100"
+        icon_color: "text-amber-600"
+        title: "Planes flexibles sin desperdicio"
+        desc: "Orange ofrece Forfait de 5GB por 5.000 XOF y de 20GB por 12.000 XOF, con ciclos de 30 días. Ajusta los días de tu plan a tu estancia en Costa de Marfil."
 ---

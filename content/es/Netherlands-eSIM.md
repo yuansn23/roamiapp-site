@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Países Bajos | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:05:57+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,6 +20,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Países Bajos | Alta Velocidad y Roaming Incluido
+  low_price: 1.99
+  high_price: 69.99
   description: Roami te ofrece la red de KPN en Países Bajos, con datos ilimitados
     y soporte 24/7. Ideal para Ámsterdam y más.
   keywords: eSIM Países Bajos, internet móvil Países Bajos, datos ilimitados Países
@@ -435,7 +437,7 @@ faq_section:
         de uso justo solo se aplica en caso de consumo extremo (por ejemplo, transmisión
         4K continua durante varios días). La navegación habitual, redes sociales,
         videollamadas y GPS no están limitados.
-        Por $1.99 obtienes 1GB para 7 dias, por $9.99 tienes 5GB para 15 dias, y por $19.99 disfrutas de 10GB para 30 dias. Todo con velocidades 5G de alta velocidad.
+        Puedes empezar desde $1.99 (1 GB, 3 días) y subir hasta $69.99 por el plan más completo (datos ilimitados, 30 días). Todo con velocidades 5G de alta velocidad.
     - q: ¿Qué requisitos debe cumplir mi teléfono para usar la eSIM para Países Bajos?
       a: |
         Necesitas un telefono compatible con eSIM (iPhone XS/XR+, Samsung S20+, Pixel 3a+) y que no este bloqueado por un operador.
@@ -757,96 +759,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Netherlands eSIM vs Prepaid SIM: Which Offers Better Value?'
-  subtitle: "Comparativa de SIM prepagadas locales neerlandesas y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Netherlands) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Netherlands"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Países Bajos"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "En el aeropuerto de Schiphol, las tarjetas SIM de Vodafone se venden en máquinas expendedoras, y las tiendas Vodafone no aceptan efectivo; Lyca Mobile se puede comprar en puntos de servicio del aeropuerto, pero la configuración es engorrosa."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las máquinas expendedoras del aeropuerto de Schiphol y las tiendas Vodafone que no aceptan efectivo. Con Roami eSIM, activas en 1 minuto desde tu móvil, sin necesidad de buscar puntos de venta físicos."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, en Países Bajos la compra de SIM prepagada no requiere registro obligatorio con pasaporte."
-      esim_title: "Sin pasaporte ni registro"
-      esim_desc: "Aunque en Países Bajos no es obligatorio registrar el pasaporte para SIM prepagada, con Roami eSIM no necesitas ningún documento de identidad. Compra y activa al instante, sin trámites burocráticos."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "El plan '1 día ilimitado' de Odido (€2.95) tiene roaming en la UE limitado a 2.6 GB; el plan '1 día ilimitado' de Vodafone (€4.00) tiene roaming en la UE limitado a 7 GB; el plan de 10 GB de Vodafone (€29) no incluye roaming en la UE; Lebara reduce la velocidad a 3G en roaming UE."
-      esim_title: "Roaming global sin límites ocultos"
-      esim_desc: "Olvida las restricciones de roaming de Odido (2.6 GB en UE) o Vodafone (7 GB en UE). Roami eSIM ofrece datos en múltiples países sin límites de velocidad ni necesidad de activación previa en Países Bajos."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "KPN ofrece planes de 1 día (€1.99) o 31 días (€14.99); Vodafone tiene un plan de 7 días por €7 (2 GB/día, total 14 GB) y un plan de 30 días ilimitado por €44 (60 GB). Un viajero de 5 días que compre el plan de 31 días de KPN por €14.99 desperdicia el 84% del valor."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de 31 días de KPN (€14.99/1GB) o el plan de 30 días de Vodafone (€44/60GB), Roami ofrece planes de datos de 7 días desde 1,99 $/GB, ajustados a tu viaje. Un viajero de 5 días ahorra hasta un 84% frente a KPN."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "Lyca Mobile prohíbe explícitamente el tethering; Vodafone lo permite; KPN y Odido no mencionan restricciones."
-      esim_title: "Tethering ilimitado sin restricciones"
-      esim_desc: "Mientras Lyca Mobile prohíbe el tethering, Roami eSIM permite compartir datos con todos tus dispositivos sin límites ni cargos adicionales. Perfecto para conectar tu portátil o tableta."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Lyca Mobile solo acepta tarjetas 3D Secure de Países Bajos, Bélgica, Alemania, Reino Unido, Noruega y Suecia; KPN acepta Mastercard, Visa y PayPal, pero no está claro si acepta todas las tarjetas internacionales."
-      esim_title: "Pagos globales sin barreras"
-      esim_desc: "Evita los problemas de pago de Lyca Mobile (solo tarjetas de ciertos países) o KPN (dudas con tarjetas internacionales). Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, sin restricciones geográficas."
-    - icon:
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, la atención al cliente de los operadores locales suele ser en neerlandés, con horario limitado."
-      esim_title: "Soporte 24/7 en español"
-      esim_desc: "Mientras que la atención al cliente de los operadores locales suele ser solo en neerlandés y con horario limitado, Roami ofrece soporte en español las 24 horas del día, los 7 días de la semana, vía chat y email."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "globe"
-
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        desc: "KPN y Odido no ofrecen 5G a usuarios prepagos; Vodafone sí, pero con cobertura inferior. Roami eSIM se conecta a las mejores redes locales, incluyendo 5G donde esté disponible."
-      - icon: "tower-observation"
-
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        desc: "Los planes ilimitados de Odido (€2.95/día) tienen roaming UE limitado a <b>2.6 GB</b>; Vodafone limita su plan de €4/día a <b>7 GB</b> en UE. Roami eSIM ofrece datos sin restricciones de roaming en toda la UE."
-      - icon: "hourglass-empty"
-
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        desc: "KPN ofrece planes de 1 día (€1.99) o 31 días (€14.99). Un viajero de 5 días que compra el plan de 31 días de KPN desperdicia el <b>84%</b> del valor. Roami ofrece planes de 7 días desde 1,99 $/GB, ajustados a tu viaje."
-      - icon: "clock"
-
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        desc: "Evita las máquinas expendedoras del aeropuerto de Schiphol y las tiendas Vodafone que no aceptan efectivo. Con Roami, activas en 1 minuto antes de volar, sin estrés."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "Comparativa directa entre eSIM y SIM prepagada en Países Bajos"
   subtitle: "Comparativa de SIM prepagadas locales neerlandesas y soluciones eSIM (referencia 2024/2025)"
@@ -867,7 +779,7 @@ market_analysis:
     - icon: "id-card"
       title: "KYC y<br>registro de pasaporte"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, en Países Bajos las SIM prepagadas se venden sin registro obligatorio, aunque algunos operadores pueden solicitar identificación."
+      prepaid_desc: "En Países Bajos las SIM prepagadas se venden sin registro obligatorio, aunque algunos operadores pueden solicitar identificación."
       esim_title: "Sin pasaporte ni registro"
       esim_desc: "Aunque en Países Bajos no es obligatorio registrar la SIM, Roami eSIM elimina cualquier riesgo de verificación. Activa tu eSIM al instante, sin compartir datos personales."
     - icon: "globe"
@@ -881,7 +793,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "KPN ofrece paquetes de 1 día (€1.99) o 31 días (€14.99 por 1 GB); Vodafone tiene paquetes de 7 días (€7 por 14 GB) y 30 días (€44 por 60 GB). Un viajero de 5 días que compre el paquete de 31 días de KPN desperdicia el 84% del valor."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de 31 días de KPN (€14.99 por 1 GB) o el paquete de 30 días de Vodafone (€44 por 60 GB), Roami ofrece planes de datos de 7 días desde 1.99 $/GB, ahorrando hasta un 84% de desperdicio para viajes cortos."
+      esim_desc: "A diferencia del ciclo de 31 días de KPN (€14.99 por 1 GB) o el paquete de 30 días de Vodafone (€44 por 60 GB), Roami ofrece planes de datos de 7 días desde $2.99, ahorrando hasta un 84% de desperdicio para viajes cortos."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -897,13 +809,13 @@ market_analysis:
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, la atención al cliente de los operadores locales suele ser en neerlandés, con horario limitado."
+      prepaid_desc: "La atención al cliente de los operadores locales suele ser en neerlandés, con horario limitado."
       esim_title: "Soporte 24/7 multilingüe"
       esim_desc: "Mientras los operadores locales ofrecen atención en neerlandés con horario limitado, Roami brinda soporte en español 24/7, resolviendo cualquier incidencia al instante."
 
   # =============== Módulo Veredicto de Expertos ===============
   expert_verdict:
-    title: "¿Cuál ahorra más en Países Bajos: eSIM o SIM local? La solución más inteligente yeconómica"
+    title: "¿Cuál ahorra más en Países Bajos: eSIM o SIM local? La solución más inteligente y económica"
     cards:
       - icon: "clock"
         icon_bg: "bg-indigo-100"

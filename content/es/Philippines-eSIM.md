@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Filipinas | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:04:18+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,6 +19,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Filipinas | Conexión Estable y Datos Ilimitados
+  low_price: 2.99
+  high_price: 70.99
   description: Viaja a Filipinas con Roami y obtén conexión de alta velocidad, datos
     sin límite y roaming multi-país. Ideal para sus miles de islas.
   keywords: eSIM Filipinas, viaje Filipinas, internet móvil Filipinas, cobertura red
@@ -428,10 +430,10 @@ faq_section:
         Llegas a Filipinas con internet desde el momento del aterrizaje, sin colas en el aeropuerto.
         Ademas, los precios de Roami suelen ser 30-50% mas baratos que las SIM turisticas disponibles en tiendas del aeropuerto.
     - q: ¿Cuánto cuesta la eSIM para Filipinas y hay descuentos?
-      a: Nuestro plan eSIM para Filipinas comienza en 1,99 $/GB. Con el código promocional
+      a: Nuestro plan eSIM para Filipinas comienza en $2.99. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
-        Los planes de datos comienzan en $1.99 por 1GB/7 dias, $9.99 por 5GB/15 dias y $19.99 por 10GB/30 dias, todo con velocidad 5G donde este disponible.
+        En Roami, los precios van desde $2.99 por 1 GB (3 días) hasta $70.99 por datos ilimitados (30 días).
     - q: ¿Roami ofrece planes de datos ilimitados para Filipinas? ¿Hay política de uso justo
         (FUP)?
       a: Roami ofrece planes verdaderamente ilimitados para Filipinas. La política
@@ -748,96 +750,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Philippines eSIM vs Prepaid SIM Card: Is It Worth Switching?'
-  subtitle: "Comparativa de SIM prepagadas locales filipinas y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Philippines) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Philippines"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Filipinas"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Todo lo que necesitas saber sobre la eSIM para Filipinas: activacion, operadores con mejor cobertura, precios de datos y consejos para viajeros."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las 1-2 horas de trámites en aeropuertos de Manila. Con Roami eSIM, activas en 1 minuto desde tu móvil, sin necesidad de WiFi ni fotos de documentos."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Según la Ley de Registro de SIM (RA 11934), activar una SIM requiere enviar pasaporte con sello de entrada, boleto de regreso y comprobante de domicilio en Filipinas, además de una selfie en vivo."
-      esim_title: "Sin pasaporte ni selfie"
-      esim_desc: "Olvida la Ley de Registro de SIM filipina: con Roami eSIM no necesitas enviar pasaporte, sello de entrada ni comprobante de domicilio. Privacidad total."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Smart cobra ₱999 por 1GB en roaming internacional (GIGA Roam); Globe usa proxy transparente que comprime imágenes y bloquea ciertos protocolos VoIP."
-      esim_title: "Roaming global sin sorpresas"
-      esim_desc: "Frente a los ₱999/GB de Smart Roam, Roami eSIM ofrece datos en múltiples países desde 1,99 $/GB, sin proxy transparente ni bloqueo VoIP."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Planes como Smart All Data 299 (24GB/30 días por ₱299) o Globe GoSURF299 (2GB+10GB app/30 días por ₱299) fuerzan un ciclo de 30 días, desperdiciando al menos 70% del valor para estancias de 5-7 días."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo forzado de 30 días de Smart (₱299/24GB) o Globe (₱299/2GB), Roami ofrece planes de 7 días desde 1,99 $/GB, ahorrando hasta un 70% del costo."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "Smart Bro Unlidata 599 (₱599/30 días) limita el tethering a teléfonos o pocket WiFi, y puede reducir velocidad si detecta uso excesivo como hotspot."
-      esim_title: "Tethering ilimitado sin restricciones"
-      esim_desc: "Mientras Smart Bro Unlidata 599 limita el hotspot a ciertos dispositivos, Roami eSIM permite tethering completo sin límites de velocidad ni restricciones de equipo."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Las recargas en línea aceptan tarjetas internacionales, pero la SIM se cancela si el visado turístico expira, perdiendo todo el saldo."
-      esim_title: "Pagos globales sin riesgo"
-      esim_desc: "Paga con Visa, Mastercard, AMEX, Apple Pay, Google Pay o PayPal. Sin riesgo de que la SIM se cancele al expirar el visado, como ocurre con las locales."
-    - icon:
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Basado en conocimiento general, la atención al cliente de Smart y Globe es principalmente en filipino e inglés, con horario limitado y sin chat 24/7 para prepago."
-      esim_title: "Soporte 24/7 en español"
-      esim_desc: "A diferencia de la atención limitada de Smart y Globe, Roami ofrece soporte en español 24/7 por chat y email, sin esperas ni barreras de idioma."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "passport"
-
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        desc: "La Ley de Registro de SIM exige enviar pasaporte con sello de entrada, boleto de regreso y comprobante de domicilio, más una selfie. Con eSIM, <b>cero documentos</b> y activación en 1 minuto."
-      - icon: "tower-observation"
-
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        desc: "En Boracay solo funciona Smart; en Baguio, Globe. Con eSIM multi-IMSI, <b>cambias automáticamente</b> entre redes para evitar zonas muertas, algo imposible con una SIM física de un solo operador."
-      - icon: "hourglass-empty"
-
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        desc: "Planes como <b>Smart All Data 299</b> (₱299/24GB/30d) o <b>Globe GoSURF299</b> (₱299/2GB/30d) fuerzan un ciclo largo. Un viaje de 7 días desperdicia <b>más del 70%</b> del valor. Roami ofrece planes de 7 días desde 1,99 $/GB."
-      - icon: "shield"
-
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        desc: "Globe usa <b>proxy transparente</b> que re-comprime imágenes y escanea archivos .exe. Roami eSIM enruta tu tráfico por túneles cifrados, evitando la interceptación y el bloqueo VoIP."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "eSIM vs SIM prepagada en Filipinas: lo que debes saber"
   subtitle: "Comparativa de SIM prepagadas locales filipinas y soluciones eSIM (referencia 2024/2025)"
@@ -872,7 +784,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Los planes de Smart y Globe son principalmente de 30 días (ej. All Data 299: 24GB por ₱299, 30 días); un turista de 7 días desperdicia al menos el 70% del valor del plan."
       esim_title: "Planes flexibles por días"
-      esim_desc: "A diferencia del ciclo de 30 días de Smart (All Data 299: 24GB/₱299) que desperdicia el 70% para viajes cortos, Roami ofrece planes de 7 días desde 1,99 $/GB, ahorrando dinero."
+      esim_desc: "A diferencia del ciclo de 30 días de Smart (All Data 299: 24GB/₱299) que desperdicia el 70% para viajes cortos, Roami ofrece planes de 7 días desde $3.99, ahorrando dinero."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -909,7 +821,7 @@ market_analysis:
       - icon: "tower-observation"
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"
-        title: "Cobertura dual sinpuntos ciegos"
+        title: "Cobertura dual sin puntos ciegos"
         desc: "En Boracay solo funciona Smart, en Baguio solo Globe. Las SIM locales te atan a una red. Roami eSIM con <b>multi-IMSI</b> cambia automáticamente entre Smart y Globe para darte la mejor señal en cada lugar."
       - icon: "passport"
         icon_bg: "bg-blue-100"

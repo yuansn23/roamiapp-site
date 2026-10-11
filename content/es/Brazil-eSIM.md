@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Brasil | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:05:56+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,6 +19,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Brasil | Alta Velocidad y Roaming Incluido
+  low_price: 4.99
+  high_price: 86.99
   description: Roami te conecta en Brasil con la red más fiable. Disfruta de datos
     sin límite, cobertura nacional y sin costes ocultos. Ideal para viajeros que no
     quieren parar.
@@ -385,10 +387,10 @@ faq_section:
         Recomendamos instalarla con WiFi en casa y mantenerla desactivada hasta el viaje.
         La validez del plan comienza al activarse, no al instalarse, asi que no pierdes tiempo.
     - q: ¿Cuánto cuesta la eSIM para Brasil y hay descuentos?
-      a: Nuestro plan eSIM para Brasil comienza en 1,99 $/GB. Con el código promocional
+      a: Nuestro plan eSIM para Brasil comienza en $4.99. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
-        Por $1.99 obtienes 1GB para 7 dias, por $9.99 tienes 5GB para 15 dias, y por $19.99 disfrutas de 10GB para 30 dias. Todo con velocidades 5G de alta velocidad.
+        Los planes de datos de Roami comienzan en $4.99 (1 GB, 3 días) y llegan hasta $86.99 (30 GB, 30 días). Todo con velocidades 5G de alta velocidad.
     - q: ¿Mi teléfono es compatible con eSIM para Brasil y cómo instalarlo?
       a: Sí, la mayoría de los teléfonos modernos (iPhone XS/XR o posterior, Samsung
         Galaxy S20+/Note20+, Google Pixel 3a+) son compatibles con eSIM. Instalas
@@ -715,97 +717,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Brazil eSIM or SIM Card for Tourists: Which Should You Choose?'
-  subtitle: "Comparativa de SIM prepagadas locales brasileñas y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Brazil) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Brazil"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Brasil"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Todo lo que necesitas saber sobre la eSIM para Brasil: activacion, operadores con mejor cobertura, precios de datos y consejos para viajeros."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las colas en tiendas Vivo, TIM o Claro y el riesgo de que te nieguen la venta por no tener CPF. Con Roami eSIM, recibes el QR por correo y activas en 1 minuto al llegar a São Paulo o Río de Janeiro."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "TIM obliga a ingresar CPF en su app 'Meu TIM'; los extranjeros deben llamar al *144 (opción 3, luego 3) para registro con pasaporte. Vivo también exige CPF en su app."
-      esim_title: "Sin pasaporte ni CPF"
-      esim_desc: "Olvídate del engorroso registro con pasaporte que exigen TIM (llamada al *144) y Vivo (app bloqueada sin CPF). Roami eSIM no requiere ningún documento de identidad local."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Los planes prepagos de Vivo, TIM y Claro no incluyen roaming en Mercosur ni Chile; al salir de Brasil, la SIM pierde señal inmediatamente."
-      esim_title: "Roaming global sin cortes"
-      esim_desc: "Mientras que las prepagas de Vivo, TIM y Claro pierden señal al salir de Brasil, Roami eSIM ofrece cobertura en todo el mundo, incluyendo Mercosur, con planes desde 1.99 $/GB."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "TIM ofrece planes desde R$15 (1.42 GB) con solo 9 días de validez; Vivo desde R$17 (4 GB) por 15 días; Claro desde R$44.90 (20 GB) por 15 días. Un viaje de 7 días desperdicia hasta el 50% del valor del plan."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de 9 días de TIM (R$15/1.42 GB) o los 15 días de Vivo (R$17/4 GB), Roami ofrece planes de datos de 7 días desde 1.99 $/GB, ahorrando hasta un 50% de desperdicio en viajes cortos."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "No se menciona tethering explícitamente en la fuente, pero los planes de TIM y Claro tienen restricciones de uso (ej. datos de YouTube solo para esa app)."
-      esim_title: "Tethering ilimitado"
-      esim_desc: "Mientras que TIM y Claro restringen el uso de datos a apps específicas (YouTube, WhatsApp solo texto), Roami eSIM permite tethering sin límites ni bloqueos."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Las recargas en línea con tarjetas internacionales suelen generar comisiones y riesgo de fraude; Vivo requiere SMS de verificación para recargar si está en mora."
-      esim_title: "Pagos globales sin complicaciones"
-      esim_desc: "Evita las recargas con tarjetas internacionales que generan comisiones en Brasil. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, sin cargos ocultos."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "TIM ofrece atención telefónica en inglés a través del *144 (opción 3, luego 3) de lunes a viernes; Vivo y Claro no tienen soporte en inglés para prepago."
-      esim_title: "Soporte 24/7 en español"
-      esim_desc: "Mientras que TIM solo ofrece atención en inglés de lunes a viernes por teléfono, Roami brinda soporte 24/7 en español e inglés vía chat y email."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "hourglass-empty"
-
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        desc: "El plan más barato de <b>TIM</b> (R$15) dura solo <b>9 días</b>; el de <b>Vivo</b> (R$17) dura <b>15 días</b>. Un viaje de 7 días desperdicia hasta el 50% del valor. Roami ofrece planes de 7 días desde <b>1.99 $/GB</b>."
-      - icon: "wifi"
-
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        desc: "Los planes de <b>TIM</b> y <b>Claro</b> restringen datos a apps específicas (YouTube, WhatsApp solo texto). Roami eSIM permite tethering ilimitado para compartir datos con todos tus dispositivos."
-      - icon: "globe"
-
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        desc: "Mientras que <b>TIM</b> tiene la mayor cobertura 4G (98.9% población), su red puede ser lenta en algunas zonas. Roami eSIM permite cambiar de red automáticamente para mantener la mejor conexión."
-      - icon: "passport"
-
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        desc: "TIM exige llamar al <b>*144</b> para activar con pasaporte, y su app <b>Meu TIM</b> bloquea a extranjeros sin CPF. Vivo también requiere CPF en su app. Roami eSIM no necesita ningún documento."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "eSIM vs SIM prepagada en Brasil: lo que debes saber"
   subtitle: "Comparativa de SIM prepagadas locales brasileñas y soluciones eSIM (referencia 2024/2025)"
@@ -834,13 +745,13 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Los planes prepagos de Vivo, TIM y Claro no incluyen roaming en Mercosur ni Chile; al salir de Brasil, la SIM pierde señal."
       esim_title: "Roaming global sin cortes"
-      esim_desc: "Mientras las prepagas de Vivo, TIM y Claro pierden señal al salir de Brasil, Roami eSIM ofrece cobertura en toda Sudamérica con planes multirregión desde 1,99 $/GB."
+      esim_desc: "Mientras las prepagas de Vivo, TIM y Claro pierden señal al salir de Brasil, Roami eSIM ofrece cobertura en toda Sudamérica con planes multirregión desde $4.99."
     - icon: "calendar-xmark"
       title: "Ciclo de facturación y<br>costes desperdiciados"
       prepaid_title: ""
       prepaid_desc: "TIM ofrece planes desde R$ 15 por 1.42 GB con validez de solo 9 días; Vivo tiene planes de R$ 17 por 4 GB válidos 15 días."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de 9 días de TIM (R$ 15 por 1.42 GB) o los 15 días de Vivo (R$ 17 por 4 GB), Roami ofrece planes de datos de 7 días desde 1,99 $/GB, ahorrando hasta un 50% en viajes cortos."
+      esim_desc: "A diferencia del ciclo de 9 días de TIM (R$ 15 por 1.42 GB) o los 15 días de Vivo (R$ 17 por 4 GB), Roami ofrece planes de datos de 7 días desde $7.99, ahorrando hasta un 50% en viajes cortos."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -852,7 +763,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Las recargas en línea con tarjetas internacionales suelen generar cargos adicionales y riesgo de fraude; se recomienda usar vales físicos."
       esim_title: "Pagos globales sin complicaciones"
-      esim_desc: "Evita las recargas online con tarjetas extranjeras que generan cargos y fraudes; Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal."
+      esim_desc: "Evita las recargas online con tarjetas extranjeras que generan cargos y fraudes; Roami acepta pagos con Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal."
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
@@ -862,7 +773,7 @@ market_analysis:
 
   # =============== Módulo Veredicto de Expertos ===============
   expert_verdict:
-    title: "eSIM para Brasil: la solución más inteligente yeconómica frente a la SIM prepagada local"
+    title: "eSIM para Brasil: la solución más inteligente y económica frente a la SIM prepagada local"
     cards:
       - icon: "credit-card"
         icon_bg: "bg-emerald-100"
@@ -873,7 +784,7 @@ market_analysis:
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"
         title: "Roaming internacional sininterrupciones"
-        desc: "Los planes prepagos de <b>Vivo</b>, <b>TIM</b> y <b>Claro</b> no incluyen roaming en Mercosur ni Chile. Al cruzar la frontera, la SIM local pierde señal. Las eSIM ofrecen cobertura regional continua desde 1,99 $/GB."
+        desc: "Los planes prepagos de <b>Vivo</b>, <b>TIM</b> y <b>Claro</b> no incluyen roaming en Mercosur ni Chile. Al cruzar la frontera, la SIM local pierde señal. Las eSIM ofrecen cobertura regional continua desde $4.99."
       - icon: "shield"
         icon_bg: "bg-sky-100"
         icon_color: "text-sky-600"

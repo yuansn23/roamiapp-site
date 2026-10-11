@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Irlanda | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:04:17+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,6 +20,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Irlanda | Alta Velocidad y Roaming Incluido
+  low_price: 1.99
+  high_price: 77.99
   description: Viaja a Irlanda con Roami y obtén Internet rápido, datos ilimitados
     y cobertura nacional. Ideal para sus verdes paisajes.
   keywords: eSIM Irlanda, datos móviles Irlanda, viaje a Irlanda, turismo Irlanda,
@@ -429,7 +431,7 @@ faq_section:
         uso justo solo se aplica en caso de consumo extremo (por ejemplo, transmisión
         4K continua durante varios días). La navegación habitual, redes sociales,
         videollamadas y GPS no están limitados.
-        Roami ofrece planes desde $1.99/GB (7 dias) hasta $59.99 por datos ilimitados (30 dias), con velocidades 5G de 100 a 300 Mbps en la mayoria de zonas urbanas.
+        Los planes de Roami abarcan desde $1.99 (1 GB, 3 días) hasta $77.99 (datos ilimitados, 30 días), sin contratos ni cargos ocultos.
     - q: ¿Roami ofrece eSIM regionales para viajes fuera de Irlanda?
       a: Sí, además de la eSIM para Irlanda, ofrecemos eSIM regionales para Europa,
         Asia, América del Norte y todo el mundo. Ideal para viajes de varios días
@@ -750,97 +752,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Ireland eSIM vs Prepaid SIM: Which One Is Right for You?'
-  subtitle: "Comparativa de SIM prepagadas locales irlandesas y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Ireland) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Ireland"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Irlanda"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Resuelve tus dudas sobre la eSIM para Irlanda. Informacion sobre instalacion, compatibilidad con tu movil, operadores disponibles y planes para turistas."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las colas en tiendas Vodafone o la necesidad de una dirección postal irlandesa para Three. Con Roami eSIM, activas en línea en un minuto al llegar a Dublín."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Para desactivar el filtro de contenido en Three, se debe enviar un escaneo del pasaporte al servicio de atención al cliente, con un tiempo de procesamiento de hasta 5 días."
-      esim_title: "Sin pasaporte ni filtros"
-      esim_desc: "Olvídate de enviar escaneos de pasaporte a Three para desactivar filtros de contenido (proceso de hasta 5 días). Roami eSIM no requiere identificación personal."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "El plan de 50 GB de eir (€29.99/30 días) se reduce a 27.1 GB en roaming UE; Three Super Surfer (€20/28 días) tiene un límite de roaming UE de 26 GB."
-      esim_title: "Roaming global sin sorpresas"
-      esim_desc: "Mientras que eir reduce su plan de 50 GB a 27.1 GB en la UE, Roami eSIM ofrece datos fijos sin límites de roaming. 10 GB son 10 GB, sin reducciones."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Los planes principales de Vodafone, Three y eir tienen un ciclo de 28 días con un costo mínimo de €20; un turista de 7 días desperdicia el 75% del valor del plan."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "Los planes locales de €20/28 días desperdician el 75% para estancias cortas. Roami ofrece planes de 7 días desde 1,99 $/GB, pagas solo por lo que usas."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "Vodafone impone restricciones severas de tethering: requiere APN específico 'live.vodafone.com' o cobra €0.19/MB; Lyca Mobile bloquea explícitamente el tethering."
-      esim_title: "Tethering ilimitado y seguro"
-      esim_desc: "Evita las restricciones de Vodafone (APN específico o €0.19/MB) y el bloqueo de Lyca Mobile. Roami eSIM permite compartir datos con todos tus dispositivos sin costes ocultos."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Three solo acepta tarjetas de crédito emitidas en Irlanda o Reino Unido para recargas online; los usuarios internacionales deben comprar vales físicos en tiendas."
-      esim_title: "Pagos globales sin barreras"
-      esim_desc: "Three rechaza tarjetas no irlandesas/británicas. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal. Sin necesidad de vales físicos."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "Para desactivar el filtro de contenido en Three, se debe contactar al servicio de atención al cliente por correo electrónico y enviar un escaneo del pasaporte; el proceso puede tomar hasta 5 días."
-      esim_title: "Soporte 24/7 multilingüe"
-      esim_desc: "Mientras que Three requiere correo electrónico y hasta 5 días para cambios, Roami ofrece atención al cliente 24/7 en español. Resolución inmediata."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "credit-card"
-
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        desc: "Three solo acepta tarjetas de Irlanda o Reino Unido para recargas online. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal. Sin necesidad de vales físicos."
-      - icon: "passport"
-
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        desc: "Three exige enviar un escaneo del pasaporte para desactivar el filtro de contenido, con un tiempo de procesamiento de hasta <b>5 días</b>. Roami eSIM no requiere ningún documento de identidad."
-      - icon: "tower-observation"
-
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        desc: "El plan de 50 GB de eir (€29.99) se reduce a <b>27.1 GB</b> en roaming UE. Three Super Surfer (€20) limita a <b>26 GB</b>. Roami eSIM ofrece datos fijos sin reducción por roaming."
-      - icon: "shield"
-
-        icon_bg: "bg-sky-100"
-        icon_color: "text-sky-600"
-        desc: "Para desactivar el filtro de contenido en Three, el proceso puede tardar hasta <b>5 días</b> por correo electrónico. Roami ofrece atención al cliente 24/7 en español con resolución inmediata."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "Comparativa directa entre eSIM y SIM prepagada en Irlanda"
   subtitle: "Comparativa de SIM prepagadas locales irlandesas y soluciones eSIM (referencia 2024/2025)"
@@ -855,43 +766,43 @@ market_analysis:
     - icon: "store"
       title: "Adquisición y<br>activación"
       prepaid_title: ""
-      prepaid_desc: "Three 的 eSIM 要求提供爱尔兰邮寄地址，且解除成人内容过滤器必须向客服提交护照扫描件，耗时长达 5 天。Vodafone 需在门店激活特定套餐并关闭内容过滤器。"
+      prepaid_desc: "La eSIM de Three exige una dirección postal irlandesa, y para desactivar el filtro de contenido para adultos hay que enviar al servicio de atención un escaneo del pasaporte, con una espera de hasta 5 días. Vodafone obliga a activar ciertos planes en tienda y a desactivar el filtro de contenido."
       esim_title: "Activación instantánea sin colas"
       esim_desc: "Evita las colas en tiendas Vodafone y el requisito de dirección postal de Three. Con Roami eSIM, activas en línea en 1 minuto al llegar a Dublín, sin necesidad de proporcionar una dirección local ni esperar 5 días para desbloquear filtros."
     - icon: "id-card"
       title: "KYC y<br>registro de pasaporte"
       prepaid_title: ""
-      prepaid_desc: "Three 和 Vodafone 均默认开启成人内容过滤器，解除 Three 的过滤器需提供护照扫描件。"
+      prepaid_desc: "Tanto Three como Vodafone activan por defecto el filtro de contenido para adultos; para desactivar el de Three hay que aportar un escaneo del pasaporte."
       esim_title: "Sin pasaporte ni filtros"
       esim_desc: "Three y Vodafone exigen escaneo de pasaporte para desbloquear filtros de contenido. Roami eSIM no requiere ningún registro de identidad, protegiendo tu privacidad y evitando el envío de documentos sensibles por correo."
     - icon: "globe"
       title: "Roaming<br>internacional"
       prepaid_title: ""
-      prepaid_desc: "eir 的 50 GB 套餐在欧盟漫游时上限为 27.1 GB；Three 的无限流量套餐漫游时仅有 26 GB。"
+      prepaid_desc: "El plan de 50 GB de eir limita el roaming en la UE a 27,1 GB; el plan de datos ilimitados de Three solo permite 26 GB en roaming."
       esim_title: "Roaming global sin sorpresas"
       esim_desc: "Los planes de eir (€30/50GB) se reducen a 27.1 GB en la UE; Three limita a 26 GB. Con Roami, compras 10 GB y usas 10 GB en cualquier país, sin FUP ni reducciones. Ideal para viajes por Irlanda y Reino Unido."
     - icon: "calendar-xmark"
       title: "Ciclo de facturación y<br>costes desperdiciados"
       prepaid_title: ""
-      prepaid_desc: "所有主流套餐（Vodafone, Three, eir）均为 28 天固定周期，起步价 €20。对于仅停留 5-7 天的游客，至少浪费 21 天服务期。"
+      prepaid_desc: "Todos los planes principales (Vodafone, Three, eir) tienen un ciclo fijo de 28 días desde 20 €. Para un turista que solo se queda 5-7 días, se desperdician al menos 21 días de servicio."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "Los planes locales de €20/28 días desperdician hasta un 75% para estancias cortas. Roami ofrece planes de 7 días desde 1,99 $/GB, pagando solo por los días que necesitas. Un viaje de 7 días con Roami cuesta menos de €14, frente a los €20 de Vodafone."
+      esim_desc: "Los planes locales de €20/28 días desperdician hasta un 75% para estancias cortas. Roami ofrece planes de 7 días desde $2.99, pagando solo por los días que necesitas. Un viaje de 7 días con Roami cuesta menos de €14, frente a los €20 de Vodafone."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
-      prepaid_desc: "Vodafone 的热点分享限制极严苛，需使用特定 APN，否则按 €0.19/MB 收费；Lyca Mobile 明确屏蔽热点分享。"
+      prepaid_desc: "Vodafone restringe mucho el uso compartido: exige un APN específico o cobra 0,19 €/MB; Lyca Mobile bloquea expresamente el tethering."
       esim_title: "Tethering ilimitado sin trampas"
       esim_desc: "Vodafone cobra €0.19/MB si usas el APN incorrecto para tethering; Lyca Mobile lo bloquea. Roami eSIM permite compartir datos con todos tus dispositivos sin restricciones ni costes ocultos, perfecto para conectar tu portátil en Dublín."
     - icon: "credit-card"
       title: "Recarga y<br>pago"
       prepaid_title: ""
-      prepaid_desc: "Three 网站在线充值只接受爱尔兰和英国发行的信用卡，国际用户充值困难。"
+      prepaid_desc: "La web de Three solo acepta tarjetas emitidas en Irlanda y Reino Unido para recargar en línea, lo que dificulta la recarga a los usuarios internacionales."
       esim_title: "Pagos globales sin rechazos"
       esim_desc: "Three rechaza tarjetas extranjeras para recargas online. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, sin necesidad de comprar vales físicos. Recarga fácilmente desde cualquier lugar."
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
-      prepaid_desc: "解除 Three 的内容过滤器需向客服发送邮件并提供身份证件扫描件，处理时间可能长达 5 天。"
+      prepaid_desc: "Para desactivar el filtro de contenido de Three hay que enviar un correo al servicio de atención con un escaneo del documento de identidad; el proceso puede tardar hasta 5 días."
       esim_title: "Soporte 24/7 sin esperas"
       esim_desc: "Three tarda hasta 5 días en responder por correo para desbloquear filtros. Roami ofrece atención al cliente 24/7 vía chat y email, resolviendo cualquier incidencia en minutos durante tu viaje."
 
@@ -903,7 +814,7 @@ market_analysis:
         icon_bg: "bg-amber-100"
         icon_color: "text-amber-600"
         title: "Planes flexiblesque ahorran dinero"
-        desc: "Vodafone, Three y eir ofrecen planes de €20/28 días. Un turista de 7 días desperdicia el 75% del valor. Roami ofrece planes de 7 días desde 1,99 $/GB, pagando solo por lo que usas."
+        desc: "Vodafone, Three y eir ofrecen planes de €20/28 días. Un turista de 7 días desperdicia el 75% del valor. Roami ofrece planes de 7 días desde $2.99, pagando solo por lo que usas."
       - icon: "credit-card"
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
@@ -917,6 +828,6 @@ market_analysis:
       - icon: "wifi"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
-        title: "Tethering sinrestricciones ni costes ocultos"
+        title: "Tethering sin restricciones ni costes ocultos"
         desc: "Vodafone cobra €0.19/MB si usas el APN incorrecto para tethering; Lyca Mobile lo bloquea explícitamente. Roami permite compartir datos con todos tus dispositivos sin límites ni cargos adicionales."
 ---

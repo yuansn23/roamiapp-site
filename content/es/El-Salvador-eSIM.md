@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM El Salvador | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:05:33+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,6 +19,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM El Salvador | Alta Velocidad y Roaming Incluido
+  low_price: 23.99
+  high_price: 165.99
   description: Roami te conecta en El Salvador con Internet de alta velocidad, datos
     ilimitados y configuración instantánea. Perfecto para surfistas y viajeros.
   keywords: eSIM El Salvador, internet móvil El Salvador, viajar a El Salvador, cobertura
@@ -311,9 +313,9 @@ faq_section:
         de uso justo solo se aplica en caso de consumo extremo (por ejemplo, transmisión
         4K continua durante varios días). La navegación habitual, redes sociales,
         videollamadas y GPS no están limitados.
-        Roami tiene planes flexibles desde $1.99/GB (7 dias) hasta $59.99 (30 dias ilimitados). La velocidad 5G alcanza 100 a 300 Mbps en areas urbanas y 10 a 50 Mbps en 4G.
+        Puedes empezar desde $23.99 (3 GB, 7 días) y subir hasta $165.99 por el plan más completo (30 GB, 30 días). La velocidad 5G alcanza 100 a 300 Mbps en areas urbanas y 10 a 50 Mbps en 4G.
     - q: ¿Cuánto cuesta la eSIM para El Salvador y hay descuentos?
-      a: Nuestro plan eSIM para El Salvador comienza en 1,99 $/GB. Con el código promocional
+      a: Nuestro plan eSIM para El Salvador comienza en $23.99. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
     - q: ¿Puedo instalar la eSIM para El Salvador antes de mi viaje y activarla más
@@ -651,97 +653,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'El-Salvador eSIM vs Prepaid SIM: Cost and Convenience Compared'
-  subtitle: "Comparativa de SIM prepagadas locales salvadoreñas y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (El-Salvador) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/El-Salvador"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para El Salvador"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Encuentra respuestas sobre la eSIM para El Salvador. Compara precios, descubre la mejor red y como mantenerte conectado durante todo el viaje."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las largas esperas en tiendas de Claro o Tigo. Con Roami eSIM, activas tu plan en menos de 1 minuto al llegar a San Salvador, sin necesidad de buscar una tienda física."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "La ley exige presentar el pasaporte (Bring your passport) para comprar cualquier SIM prepagada; Claro y Tigo escanean el pasaporte en tienda."
-      esim_title: "Sin pasaporte ni registro"
-      esim_desc: "Olvídate de presentar el pasaporte y esperar la activación manual. Roami eSIM no requiere ningún registro KYC, a diferencia de las SIM locales que exigen escaneo de pasaporte en tiendas Claro o Tigo."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Movistar cobra 5 USD adicionales por día por roaming en EE. UU. y Canadá, con solo 300 MB antes de reducir la velocidad a 128 kbps."
-      esim_title: "Roaming global sin sorpresas"
-      esim_desc: "Mientras Movistar cobra 5 USD/día por roaming en EE. UU. con solo 300 MB antes de reducir a 128 kbps, Roami ofrece roaming en múltiples países sin cargos adicionales y con datos de alta velocidad."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Claro ofrece un plan de 10 USD por 5 GB + 2 GB (solo YouTube/Spotify) con 30 días de validez; Tigo tiene un plan de 10 USD por 5 GB con 30 días y renovación automática."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de 30 días de Claro (10 USD/5 GB) o Tigo (10 USD/5 GB con renovación automática), Roami ofrece planes de datos desde 7 días, desde 1,99 USD/GB, ahorrando hasta un 75% del valor del plan para estancias cortas."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "Tigo prohíbe explícitamente las llamadas VoIP en WhatsApp; no se menciona restricción de tethering en otros operadores."
-      esim_title: "Tethering ilimitado"
-      esim_desc: "Mientras Tigo prohíbe las llamadas VoIP y algunos operadores restringen el tethering, Roami permite compartir datos sin límites ni bloqueos, ideal para conectar tu portátil o tablet."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "El portal de recarga en línea de Claro requiere una tarjeta de crédito emitida por un banco local; las tarjetas internacionales suelen ser rechazadas."
-      esim_title: "Pagos globales sin barreras"
-      esim_desc: "A diferencia de Claro que solo acepta tarjetas locales, Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, sin necesidad de efectivo ni recargas en tiendas."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general, la atención al cliente de los operadores locales suele ser solo en español y con horario limitado."
-      esim_title: "Soporte 24/7 en español"
-      esim_desc: "Mientras la atención al cliente local suele ser limitada, Roami ofrece soporte multilingüe 24/7, resolviendo cualquier incidencia al instante."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "wifi"
-
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        desc: "Tigo prohíbe explícitamente las llamadas VoIP y algunos operadores limitan el tethering. Con Roami eSIM, puedes compartir datos con todos tus dispositivos sin bloqueos ni restricciones."
-      - icon: "credit-card"
-
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        desc: "Claro solo acepta tarjetas de bancos locales para recargas online. Roami acepta <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal</b>, facilitando el pago desde cualquier país."
-      - icon: "tower-observation"
-
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        desc: "Movistar cobra <b>5 USD adicionales por día</b> por roaming en EE. UU. y Canadá, con solo <b>300 MB</b> antes de reducir la velocidad a <b>128 kbps</b>. Roami eSIM ofrece roaming global sin cargos ocultos y con datos de alta velocidad."
-      - icon: "passport"
-
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        desc: "Comprar una SIM local en El Salvador exige presentar el pasaporte y esperar la activación en tienda. Con Roami eSIM, no necesitas identificación ni trámites: activas en segundos desde tu móvil."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "¿Cuál ahorra más en El Salvador: eSIM o SIM local?"
   subtitle: "Comparativa de SIM prepagadas locales salvadoreñas y soluciones eSIM (referencia 2024/2025)"
@@ -776,7 +687,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Tigo y Claro ofrecen planes de 30 días (por ejemplo, Tigo $10/5 GB, Claro $10/5+2 GB) con renovación automática, lo que provoca que los turistas pierdan dinero si olvidan cancelar."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "Los planes locales de 30 días (Tigo $10/5 GB, Claro $10/5+2 GB) fuerzan a pagar por semanas no usadas. Roami ofrece planes desde 7 días y desde $1.99/GB, ajustados a tu viaje."
+      esim_desc: "Los planes locales de 30 días (Tigo $10/5 GB, Claro $10/5+2 GB) fuerzan a pagar por semanas no usadas. Roami ofrece planes desde 7 días y desde $23.99, ajustados a tu viaje."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -792,7 +703,7 @@ market_analysis:
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente."
+      prepaid_desc: "La atención al cliente de Tigo, Claro y Digicel está disponible en español y en horario laboral, con soporte principalmente telefónico y en tiendas."
       esim_title: "Soporte 24/7 en español"
       esim_desc: "Mientras que el soporte local puede ser limitado y en horario reducido, Roami ofrece atención al cliente en español las 24 horas del día, los 7 días de la semana."
 
@@ -817,6 +728,6 @@ market_analysis:
       - icon: "globe"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
-        title: "Cobertura nacional sinzonas muertas"
+        title: "Cobertura nacional sin zonas muertas"
         desc: "Digicel solo ofrece cobertura real en San Salvador, y fuera de la capital la señal es 2G o nula. Roami utiliza redes de múltiples operadores para garantizar cobertura en todo el país."
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Uzbekistán eSIM 2026: Guía de Operadores y Cobertura | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,7 +20,7 @@ seo:
   description: ¿Planeas un viaje a Uzbekistán? Obtén el mejor eSIM prepago de viaje de Roami con datos 5G ilimitados. Cobertura en Taskent, Samarcanda y Bujará. Activación instantánea.
   keywords: eSIM Uzbekistán, comprar eSIM Uzbekistán, mejor eSIM Uzbekistán, eSIM viaje Uzbekistán, Ucell Uzbekistán, Beeline Uzbekistán, UMS Uzbekistán, eSIM Taskent, eSIM Samarcanda, eSIM Bujará, eSIM prepago Uzbekistán, 5G eSIM Uzbekistán
   low_price: 1.99
-  high_price: 39.9
+  high_price: 96.99
 order_summary:
   title: Plan Seleccionado
   label_data: Datos incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de Uzbekistán para la mejor señal
 plans_title: 'Compra eSIM Uzbekistán: Planes para cada duración de viaje'
 plans_data:
-  7 Days:
+  7 días:
   - spec: 3GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para hacer turismo
@@ -105,7 +105,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.57'
-  15 Days:
+  15 días:
   - spec: 3GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para hacer turismo
@@ -131,7 +131,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.80'
-  30 Days:
+  30 días:
   - spec: 5GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes en profundidad
@@ -173,7 +173,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.23'
-  3 Days:
+  3 días:
   - spec: Ilimitado
     data: Ilimitada alta velocidad
     desc: Uso de datos sin preocupaciones
@@ -298,50 +298,128 @@ related_products:
   items:
   - name: eSIM Estados Unidos
     flag: img/flags/us.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Reino Unido
     flag: img/flags/gb.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Europa
     flag: img/flags/eu.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM Canadá
     flag: img/flags/ca.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Turquía
     flag: img/flags/tr.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM China
     flag: img/flags/cn.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Japón
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Francia
     flag: img/flags/fr.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM España
     flag: img/flags/es.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Alemania
     flag: img/flags/de.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en Uzbekistán: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en Uzbekistán (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (Uzbekistan) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Uzbekistan"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para Uzbekistán"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "Ucell y Beeline venden en el aeropuerto de Taskent y en tiendas del centro."
+      esim_title: "Activación instantánea sin colas"
+      esim_desc: "Con Ucell la SIM se activa en tienda y puede tardar; con Roami escaneas un QR en 1 minuto al aterrizar en Taskent."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "Uzbekistán exige registrar la SIM con pasaporte."
+      esim_title: "Cero trámites de identidad"
+      esim_desc: "En Uzbekistán, olvídate del registro obligatorio: la eSIM se instala sin escanear el pasaporte ni facilitar datos personales."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "En Uzbekistán, fuera del país el roaming se factura aparte."
+      esim_title: "Sin FUP oculto"
+      esim_desc: "En Uzbekistán, frente a las condiciones de roaming de las SIM locales, la eSIM no recorta datos ni aplica límites de uso justo sorpresa."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "Ucell vende Tourist de 5GB por 35.000 UZS y de 15GB por 75.000 UZS, con 30 días de validez."
+      esim_title: "Duración a tu medida"
+      esim_desc: "La eSIM ajusta la validez a tu estancia, desde $1.99, mientras las SIM locales fuerzan recargas de 30 días."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "En Uzbekistán, el tethering está habilitado, aunque ciertas tarifas lo limitan durante las horas punta."
+      esim_title: "Tethering sin penalización"
+      esim_desc: "Usa la eSIM como hotspot sin recargos, algo no siempre permitido en las prepagadas de Ucell."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "En Uzbekistán, la recarga se hace con cupones locales y, en algunos puntos, con tarjeta."
+      esim_title: "Pago online con tu tarjeta"
+      esim_desc: "Sin efectivo ni cupones como en las recargas de Ucell: la eSIM se compra con Visa, Mastercard, AMEX o PayPal."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "La atención se presta en uzbeko y ruso."
+      esim_title: "Asistencia sin horarios"
+      esim_desc: "La eSIM ofrece atención en español 24/7, sin depender del horario de las tiendas de Ucell."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para Uzbekistán: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "clock"
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "Activación instantánea"
+        desc: "Ucell y Beeline venden en el aeropuerto de Taskent y en tiendas del centro. Escanea un QR al aterrizar en Uzbekistán: sin colas ni trámites en tienda."
+      - icon: "globe"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "Sin zonas muertas"
+        desc: "Buena cobertura en Taskent, Samarcanda y Bujará; limitada en el desierto. Olvídate de la cobertura de un solo operador mientras viajas por Uzbekistán."
+      - icon: "tower-observation"
+        icon_bg: "bg-rose-100"
+        icon_color: "text-rose-600"
+        title: "Roaming sin recortes"
+        desc: "Fuera del país el roaming se factura aparte. Mantienes todos los gigas al moverte fuera de la red local en Uzbekistán."
+      - icon: "wifi"
+        icon_bg: "bg-green-100"
+        icon_color: "text-green-600"
+        title: "Hotspot sin coste extra"
+        desc: "El uso compartido está permitido en las tarifas de datos principales. El tethering en Uzbekistán no tiene coste añadido ni bloqueos con Roami."
 ---

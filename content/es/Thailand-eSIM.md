@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Tailandia | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:04:10+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,6 +20,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Tailandia | Alta Velocidad y Roaming Incluido
+  low_price: 1.99
+  high_price: 42.99
   description: Roami te ofrece Internet de alta velocidad en Tailandia, con datos
     ilimitados y cobertura total. Perfecto para playas y templos.
   keywords:
@@ -450,7 +452,7 @@ faq_section:
       a: La eSIM para Tailandia está optimizada principalmente para Tailandia. Para
         viajes a países vecinos, recomendamos nuestra eSIM Europa o regional, que
         ofrece roaming transparente sin cargos adicionales.
-        Los planes de datos comienzan en $1.99 por 1GB/7 dias, $9.99 por 5GB/15 dias y $19.99 por 10GB/30 dias, todo con velocidad 5G donde este disponible.
+        En Roami, los precios van desde $1.99 por 1 GB (3 días) hasta $42.99 por datos ilimitados (30 días).
   - id: faq-airport
     icon: plane
     tab_title: Aeropuertos
@@ -756,96 +758,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Thailand eSIM vs Physical SIM: Which Is Better for Travel?'
-  subtitle: "Comparativa de SIM prepagadas locales tailandesas y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Thailand) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Thailand"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Tailandia"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Resuelve tus dudas sobre la eSIM para Tailandia. Informacion sobre instalacion, compatibilidad con tu movil, operadores disponibles y planes para turistas."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las colas de 30-45 minutos en los mostradores de AIS, dtac o TrueMove H en el aeropuerto BKK. Con Roami eSIM, activas en línea en 1 minuto al llegar a Bangkok, sin necesidad de buscar tiendas abiertas."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Desde 2017, Tailandia exige un registro biométrico obligatorio: todos los extranjeros deben escanear su rostro y cotejarlo con la foto del pasaporte. AIS, dtac y TrueMove H realizan este proceso en el punto de venta."
-      esim_title: "Sin registro biométrico obligatorio"
-      esim_desc: "Olvídate del escaneo facial o de huellas que exigen AIS, dtac y TrueMove H desde 2017. Roami eSIM no requiere pasaporte ni datos biométricos, solo una compra en línea."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "AIS ofrece SIM2Fly con 6 GB/10 días por 399 THB para roaming en Asia, pero una vez agotados los datos, la velocidad se reduce a 384 kbps. dtac tiene Go Inter con condiciones similares. Los planes locales no incluyen roaming internacional."
-      esim_title: "Roaming global sin sorpresas"
-      esim_desc: "Mientras que AIS SIM2Fly ofrece solo 6 GB/10 días por 399 THB y luego reduce a 384 kbps, Roami eSIM te permite roaming en múltiples países con planes desde 1,99 $/GB, sin caídas drásticas de velocidad."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Los planes turísticos de AIS y dtac tienen ciclos fijos de 8 días (299 THB/15 GB) o 15 días (599 THB/30 GB). Un viaje de 5 días desperdicia casi 3 días de servicio, lo que representa un 37.5% de costo hundido."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia de los ciclos fijos de 8 días (299 THB/15 GB) de AIS y dtac, Roami ofrece planes de 7 días desde 1,99 $/GB, ajustados a tu viaje. Un viaje de 5 días con Roami ahorra hasta un 37.5% frente a un plan de 8 días."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "TrueMove H prohíbe explícitamente el tethering en sus planes 'ilimitados' mediante bloqueo por DNS; si se intenta compartir, la conexión del propio teléfono se corta hasta reconectar. AIS y dtac no mencionan restricciones, pero tras el límite de datos la velocidad baja a 384 kbps."
-      esim_title: "Tethering ilimitado garantizado"
-      esim_desc: "TrueMove H bloquea el tethering en sus planes ilimitados mediante DNS. Con Roami eSIM, puedes compartir datos con todos tus dispositivos sin restricciones, ideal para viajes en grupo."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Las recargas en línea con tarjetas internacionales en AIS a menudo fallan ('many of them do not work'). 7-Eleven no vende tarjetas de recarga de AIS. Los métodos de pago aceptados son efectivo y tarjetas locales."
-      esim_title: "Pagos globales sin rechazos"
-      esim_desc: "Evita los problemas de recarga con tarjetas internacionales en AIS (muchas no funcionan). Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, sin necesidad de efectivo ni tarjetas locales."
-    - icon:
-
-
-      prepaid_title: ""
-      prepaid_desc: "El servicio de atención al cliente de los operadores tailandeses suele estar en tailandés e inglés básico, con horario limitado. No hay chat en línea 24/7 para prepago."
-      esim_title: "Soporte 24/7 en tu idioma"
-      esim_desc: "Mientras que el soporte de AIS, dtac y TrueMove H es limitado en horario y solo en tailandés e inglés básico, Roami ofrece atención al cliente 24/7 en español, listo para ayudarte en cualquier momento."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "credit-card"
-
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        desc: "Las recargas en línea con tarjetas internacionales en <b>AIS</b> a menudo fallan. Roami acepta <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal</b>, sin necesidad de efectivo ni tarjetas locales."
-      - icon: "wifi"
-
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        desc: "<b>TrueMove H</b> bloquea el tethering en sus planes ilimitados mediante <b>DNS</b>. Roami eSIM permite compartir datos con todos tus dispositivos, ideal para conectar laptops o tablets."
-      - icon: "passport"
-
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        desc: "Desde 2017, Tailandia exige registro biométrico obligatorio: <b>AIS, dtac y TrueMove H</b> escanean tu rostro y lo cotejan con tu pasaporte. Con Roami eSIM, no necesitas mostrar ningún documento, activas en segundos."
-      - icon: "hourglass-empty"
-
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        desc: "Los planes de <b>AIS</b> y <b>dtac</b> tienen ciclos fijos de <b>8 días (299 THB/15 GB)</b> o <b>15 días (599 THB/30 GB)</b>. Un viaje de 5 días desperdicia el <b>37.5%</b> del costo. Roami ofrece planes de <b>7 días desde 1,99 $/GB</b>, sin desperdicio."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "Comparativa de costes y comodidad entre eSIM y prepagada en Tailandia"
   subtitle: "Comparativa de SIM prepagadas locales tailandesas y soluciones eSIM (referencia 2024/2025)"
@@ -880,7 +792,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Los planes turísticos principales tienen ciclos fijos: AIS Lucky SIM 8 días/299 THB (15 GB), dtac Happy Tourist 8 días/299 THB (15 GB). Un viaje de 5 días desperdicia 3 días de servicio (37.5% del valor del plan)."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "Los planes locales de 8 días (AIS 299 THB/15 GB) desperdician 3 días en un viaje de 5. Roami ofrece planes desde 1 día, desde 1.99 $/GB, ajustándose exactamente a tu estancia. Por ejemplo, un plan de 7 días cuesta menos que el de 8 días local."
+      esim_desc: "Los planes locales de 8 días (AIS 299 THB/15 GB) desperdician 3 días en un viaje de 5. Roami ofrece planes desde 1 día, desde $1.99, ajustándose exactamente a tu estancia. Por ejemplo, un plan de 7 días cuesta menos que el de 8 días local."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -896,13 +808,13 @@ market_analysis:
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general, la atención al cliente de los operadores tailandeses suele ser en tailandés e inglés básico, con horario limitado y sin chat en línea 24/7 para prepago."
+      prepaid_desc: "La atención al cliente de los operadores tailandeses suele ser en tailandés e inglés básico, con horario limitado y sin chat en línea 24/7 para prepago."
       esim_title: "Soporte 24/7 en español"
       esim_desc: "Mientras que la atención al cliente de los operadores tailandeses es limitada y en tailandés, Roami ofrece soporte en español 24/7 por chat y email, resolviendo cualquier incidencia al instante."
 
   # =============== Módulo Veredicto de Expertos ===============
   expert_verdict:
-    title: "eSIM para Tailandia: la solución más inteligente yeconómica frente a la SIM prepagada local"
+    title: "eSIM para Tailandia: la solución más inteligente y económica frente a la SIM prepagada local"
     cards:
       - icon: "tower-observation"
         icon_bg: "bg-rose-100"
@@ -912,7 +824,7 @@ market_analysis:
       - icon: "wifi"
         icon_bg: "bg-green-100"
         icon_color: "text-green-600"
-        title: "Tethering sinrestricciones ni bloqueos"
+        title: "Tethering sin restricciones ni bloqueos"
         desc: "TrueMove H <b>bloquea el hotspot mediante DNS</b> en sus planes ilimitados: si compartes datos, tu propio teléfono se desconecta. Las eSIM permiten <b>tethering ilimitado</b> sin restricciones, ideal para conectar tu portátil o tablet."
       - icon: "credit-card"
         icon_bg: "bg-emerald-100"

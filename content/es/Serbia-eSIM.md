@@ -1,6 +1,6 @@
 ---
 title: 'Serbia eSIM : Guía de Cobertura y Velocidad | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,7 +20,7 @@ seo:
   description: Mantente conectado en Serbia con el mejor eSIM prepago de viaje de Roami. Datos 5G ilimitados en todo el país. Activación instantánea con QR. Cobertura en Belgrado, Novi Sad y Niš.
   keywords: Serbia eSIM, comprar Serbia eSIM, mejor Serbia eSIM, eSIM para viajar a Serbia, Telenor Serbia, Telekom Srbija, A1 Srbija, eSIM Belgrado, eSIM Novi Sad, eSIM Niš, eSIM prepago Serbia, 5G Serbia eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 89.99
 order_summary:
   title: Plan Seleccionado
   label_data: Datos Incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de Serbia para la mejor señal
 plans_title: 'Compra Serbia eSIM: Planes para Cada Duración de Viaje'
 plans_data:
-  7 Días:
+  7 días:
   - spec: Ilimitado
     data: Alta velocidad ilimitada
     desc: Uso de datos sin preocupaciones
@@ -129,7 +129,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.14'
-  15 Días:
+  15 días:
   - spec: Ilimitado
     data: Alta velocidad ilimitada
     desc: Uso de datos sin preocupaciones
@@ -179,7 +179,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.73'
-  3 Días:
+  3 días:
   - spec: 1GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes de negocios cortos
@@ -221,7 +221,7 @@ plans_data:
     tag: Gran Valor
     tagColor: bg-emerald-500
     daily: '4.00'
-  30 Días:
+  30 días:
   - spec: 3GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para hacer turismo
@@ -385,50 +385,128 @@ related_products:
   items:
   - name: eSIM para Estados Unidos
     flag: img/flags/us.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Reino Unido
     flag: img/flags/gb.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Europa
     flag: img/flags/eu.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM para Canadá
     flag: img/flags/ca.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Turquía
     flag: img/flags/tr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para China
     flag: img/flags/cn.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Japón
     flag: img/flags/jp.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Hong Kong
     flag: img/flags/hk.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Francia
     flag: img/flags/fr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para España
     flag: img/flags/es.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Alemania
     flag: img/flags/de.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Australia
     flag: img/flags/au.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en Serbia: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en Serbia (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (Serbia) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Serbia"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para Serbia"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "mts, Yettel y A1 venden en tiendas de Belgrado y Novi Sad, con alta presencial."
+      esim_title: "Escaneas y conectas"
+      esim_desc: "Sin depender del horario de las tiendas de Telekom Srbija (mts): compra la eSIM, escanea el QR y navega en segundos al llegar a Belgrado."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "Serbia exige registrar la prepagada con pasaporte."
+      esim_title: "Sin verificación presencial"
+      esim_desc: "En Serbia, no hay que acudir a una tienda ni mostrar documentos: la eSIM se instala desde el móvil, sin registro."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "Serbia no está en la UE, así que el roaming se factura aparte."
+      esim_title: "Roaming sin trampas"
+      esim_desc: "A diferencia de Telekom Srbija (mts), que limita o tarifa los datos fuera de su red, la eSIM de Roami mantiene el paquete íntegro durante todo el viaje."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "En Serbia, los paquetes turísticos arrancan en unos 5 $, con ciclos de 7 o 30 días."
+      esim_title: "Paga solo los días que necesitas"
+      esim_desc: "En Serbia, las prepagadas obligan a bloques de 30 días. La eSIM permite elegir 3, 5, 7, 15 o 30 días desde $1.99."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "En Serbia, el uso compartido depende del operador y de la tarifa."
+      esim_title: "Punto de acceso sin coste extra"
+      esim_desc: "En Serbia, activa el hotspot para tu portátil sin sorpresas, frente a las prepagadas que lo bloquean o lo tarifan."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "En Serbia, la recarga se hace en tienda o quiosco con efectivo y tarjeta local."
+      esim_title: "Pago internacional sencillo"
+      esim_desc: "En Serbia, la eSIM acepta las principales tarjetas y carteras digitales, sin el efectivo que suelen pedir las recargas locales."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "La atención se presta en serbio, con inglés en las tiendas."
+      esim_title: "Respaldo continuo"
+      esim_desc: "En Serbia, la eSIM incluye atención en español 24/7, algo poco habitual en la atención prepagada local."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para Serbia: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "Compra con tu tarjeta de siempre"
+        desc: "La recarga se hace en tienda o quiosco con efectivo y tarjeta local. En Serbia no necesitas cupones ni efectivo local: la compra es online."
+      - icon: "tower-observation"
+        icon_bg: "bg-rose-100"
+        icon_color: "text-rose-600"
+        title: "Roaming sin recortes"
+        desc: "Serbia no está en la UE, así que el roaming se factura aparte. Mantienes todos los gigas al moverte fuera de la red local en Serbia."
+      - icon: "wifi"
+        icon_bg: "bg-green-100"
+        icon_color: "text-green-600"
+        title: "Hotspot sin coste extra"
+        desc: "El uso compartido depende del operador y de la tarifa. El tethering en Serbia no tiene coste añadido ni bloqueos con Roami."
+      - icon: "hourglass-empty"
+        icon_bg: "bg-amber-100"
+        icon_color: "text-amber-600"
+        title: "Planes flexibles sin desperdicio"
+        desc: "Los paquetes turísticos arrancan en unos 5 $, con ciclos de 7 o 30 días. Ajusta los días de tu plan a tu estancia en Serbia."
 ---

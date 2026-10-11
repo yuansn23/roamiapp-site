@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Perú | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:04:10+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,6 +19,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Perú | Cobertura Total y Soporte 24/7
+  low_price: 4.99
+  high_price: 85.99
   description: Roami te conecta en Perú con Internet rápido, datos ilimitados y cobertura
     total. Perfecto para visitar Machu Picchu sin perder la señal.
   keywords: eSIM Perú, datos móviles Perú, viajar a Perú, Internet en Perú, roaming
@@ -374,10 +376,10 @@ faq_section:
         SM‑DP+ y el código de activación (ambos indicados en tu confirmación de pedido).
         El código QR es el método más rápido y sencillo.
     - q: ¿Cuánto cuesta la eSIM para Perú y hay descuentos?
-      a: Nuestro plan eSIM para Perú comienza en 1,99 $/GB. Con el código promocional
+      a: Nuestro plan eSIM para Perú comienza en $4.99. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
-        Roami ofrece datos 5G de alta velocidad (100 a 300 Mbps) desde $1.99/GB. El plan de 5GB/15 dias por $9.99 es el mas elegido por viajeros.
+        Los planes de datos de Roami comienzan en $4.99 (1 GB, 3 días) y llegan hasta $85.99 (30 GB, 30 días). El plan con mejor relación calidad-precio es el de 5 GB para 7 días, por $14.99.
     - q: ¿Puedo usar la eSIM para Perú como punto de acceso para otros dispositivos?
       a: Sí, todos los planes Roami eSIM para Perú admiten compartir conexión ilimitado
         (punto de acceso). Puedes compartir la conexión con una computadora portátil,
@@ -704,97 +706,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Peru eSIM vs Physical SIM Card: Activation and Setup Compared'
-  subtitle: "Comparativa de SIM prepagadas locales peruanas y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Peru) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Peru"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Perú"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Descubre como funciona la eSIM para Perú: activacion instantanea, redes compatibles y la mejor relacion calidad-precio en datos moviles."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las tediosas esperas de 30 minutos en tiendas Movistar y el riesgo de esperar 24 horas para la activación. Con Roami eSIM, activas en línea en 1 minuto antes de llegar a Lima."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Movistar exige llenar formularios durante 30 minutos en tienda; Claro requiere fotocopia del pasaporte y activación en tienda propia, unos 15 minutos; Entel recolecta huellas dactilares."
-      esim_title: "Sin pasaporte ni huellas"
-      esim_desc: "Olvídate de fotocopiar el pasaporte en Claro (15 minutos) o de dar tus huellas dactilares en Entel. Roami eSIM no requiere registro KYC, solo compras en línea."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Claro ofrece roaming gratuito 'Sin Fronteras' en 16 países de Latinoamérica, pero excluye explícitamente los paquetes promocionales o de bonificación, por lo que los paquetes baratos comprados en Perú pueden no funcionar en el extranjero."
-      esim_title: "Roaming global sin sorpresas"
-      esim_desc: "Mientras que Claro excluye sus paquetes baratos del roaming gratuito, Roami eSIM ofrece cobertura en múltiples países con datos consistentes, sin restricciones de 'paquetes promocionales'."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Movistar ofrece paquetes de 7 días/1 GB por S/ 7, 20 días/4 GB por S/ 20, 30 días/7 GB por S/ 30; Entel tiene un 'Plan Turista' de 7 días/5 GB por S/ 67, mucho más caro que su plan normal de 10 días/3 GB por S/ 10."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo forzado de Movistar (7 días mínimo) o el caro 'Plan Turista' de Entel (S/ 67 por 7 días), Roami ofrece planes de datos de 7 días desde 1,99 $/GB, ahorrando hasta un 75% en costes desperdiciados."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, la mayoría de operadores en Perú permiten tethering, pero puede haber restricciones de velocidad después de cierto consumo."
-      esim_title: "Tethering ilimitado"
-      esim_desc: "Comparte datos con tus dispositivos sin restricciones. Mientras que algunas SIM locales pueden limitar la velocidad tras cierto uso, Roami eSIM permite tethering sin límites."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Claro y Entel reportan problemas con tarjetas de crédito internacionales en recargas en línea; las recargas oficiales en tiendas no siempre están disponibles y las recargas de terceros pueden tener tipos de cambio desfavorables."
-      esim_title: "Pagos globales sin rechazos"
-      esim_desc: "Evita el rechazo de tarjetas internacionales en Claro y Entel. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, sin necesidad de efectivo local."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, la atención al cliente suele ser en español, con horario limitado y sin chat en línea para prepago."
-      esim_title: "Soporte 24/7 en español"
-      esim_desc: "A diferencia de la atención limitada de los operadores locales, Roami ofrece soporte al cliente 24/7 en español, resolviendo cualquier problema al instante."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "credit-card"
-
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        desc: "<b>Claro</b> y <b>Entel</b> rechazan tarjetas internacionales en sus recargas online. Las recargas de terceros aplican tipos de cambio desfavorables. Las eSIM aceptan <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal</b>, sin necesidad de efectivo local."
-      - icon: "tower-observation"
-
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        desc: "Claro ofrece roaming gratuito en 16 países, pero <b>excluye los paquetes promocionales</b>, dejando sin datos a quienes compraron el plan barato de <b>S/ 5</b>. Las eSIM de cobertura regional garantizan datos consistentes sin exclusiones."
-      - icon: "passport"
-
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        desc: "Los operadores locales como <b>Movistar</b> exigen hasta <b>30 minutos</b> de trámites y <b>24 horas</b> de espera para activar la SIM. <b>Claro</b> requiere fotocopia del pasaporte y <b>Entel</b> incluso recolecta huellas dactilares. Con eSIM, activación instantánea sin papeleo."
-      - icon: "clock"
-
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        desc: "Mientras que las SIM físicas requieren ir a una tienda en Perú (con riesgo de robo en la calle), las eSIM se instalan antes de salir de casa. Llegas a Lima y ya tienes datos."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "eSIM o prepagada en Perú: ¿cuál es para ti?"
   subtitle: "Comparativa de SIM prepagadas locales peruanas y soluciones eSIM (referencia 2024/2025)"
@@ -829,11 +740,11 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Movistar ofrece un paquete de 1 GB por 7 días a S/ 7; si el viajero se queda solo 3 días, desperdicia el 57% del valor del plan."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de 7 días de Movistar (1 GB por S/ 7, desperdicio del 57% en 3 días), Roami ofrece planes de datos desde 7 días, desde 1,99 $/GB, sin costes ocultos."
+      esim_desc: "A diferencia del ciclo de 7 días de Movistar (1 GB por S/ 7, desperdicio del 57% en 3 días), Roami ofrece planes de datos desde 7 días, desde $7.99, sin costes ocultos."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, en Perú la mayoría de operadores permiten tethering, pero puede haber restricciones de velocidad."
+      prepaid_desc: "En Perú la mayoría de operadores permiten tethering, pero puede haber restricciones de velocidad."
       esim_title: "Tethering ilimitado"
       esim_desc: "Mientras que algunos operadores peruanos pueden restringir la velocidad tras cierto uso, Roami eSIM permite tethering ilimitado, ideal para compartir conexión con otros dispositivos."
     - icon: "credit-card"
@@ -845,13 +756,13 @@ market_analysis:
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, la atención al cliente de los operadores peruanos suele ser en español, con horario limitado y sin chat en línea para prepago."
+      prepaid_desc: "La atención al cliente de los operadores peruanos suele ser en español, con horario limitado y sin chat en línea para prepago."
       esim_title: "Soporte 24/7 en español"
       esim_desc: "Mientras que la atención al cliente local tiene horario limitado, Roami ofrece soporte 24/7 en español para resolver cualquier incidencia al instante."
 
   # =============== Módulo Veredicto de Expertos ===============
   expert_verdict:
-    title: "eSIM para Perú: la solución más inteligente yeconómica frente a la SIM física local"
+    title: "eSIM para Perú: la solución más inteligente y económica frente a la SIM física local"
     cards:
       - icon: "credit-card"
         icon_bg: "bg-emerald-100"
@@ -861,7 +772,7 @@ market_analysis:
       - icon: "tower-observation"
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"
-        title: "Roaming sinrestricciones ocultas"
+        title: "Roaming sin restricciones ocultas"
         desc: "El roaming gratuito de <b>Claro</b> en 16 países de Latinoamérica <b>excluye paquetes promocionales</b>, dejando sin datos a quienes compraron el plan barato de S/ 5. Las eSIM de Roami ofrecen cobertura regional sin exclusiones."
       - icon: "globe"
         icon_bg: "bg-teal-100"

@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM China | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:04:56+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: China Mobile, China Unicom, China Telecom
   competitors: Airalo, Holafly, Nomad, Ubigi, Flexiroam
   main_cities: Pekín, Shanghái, Cantón, Shenzhen, Hong Kong
-  main_packages: 3/7/15/30 días, datos ilimitados
+  main_packages: 3/7/15/30 días, 1 GB a 50 GB
 modal:
   title: ¡Actualización del servicio!
   btn_text: Continuar
@@ -19,8 +19,10 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM China | Red Local Fiable y Prepago Sin Contrato
-  description: Roami te da acceso a la red de China Mobile con datos sin límite. Cobertura
-    nacional, sin contratos y activación QR para que viajes sin preocupaciones.
+  low_price: 1.99
+  high_price: 39.99
+  description: Compara la eSIM China de Roami con la SIM prepagada local — datos de 1 GB a 50 GB en
+    la red de China Mobile desde $1.99, sin contrato y con activación por QR.
   keywords: eSIM China, viajar a China, internet ilimitado China, cobertura móvil
     China, datos móviles China
 order_summary:
@@ -354,19 +356,19 @@ faq_section:
         La validez del plan comienza SOLO cuando llegas a China y activas la eSIM conectandote a la red local por primera vez.
         Puedes instalar la eSIM semanas antes del viaje sin que el tiempo corra.
         El codigo QR es valido por 30 dias, asi que tienes tiempo de sobra para preparar todo.
-    - q: ¿Roami ofrece planes ilimitados para China? ¿Hay política de uso justo (FUP)?
-      a: Roami ofrece planes verdaderamente ilimitados para China. La política de
-        uso justo solo se aplica en caso de consumo extremo (por ejemplo, transmisión
-        4K continua durante varios días). La navegación habitual, redes sociales,
-        videollamadas y GPS no están limitados.
-        Roami tiene planes flexibles desde $1.99/GB (7 dias) hasta $59.99 (30 dias ilimitados). La velocidad 5G alcanza 100 a 300 Mbps en areas urbanas y 10 a 50 Mbps en 4G.
+    - q: ¿Qué plan de eSIM para China me conviene según la duración del viaje?
+      a: |
+        Los planes de datos para China van de 1 GB a 50 GB, con validez de 3, 7, 15 o 30 días.
+        El plan más económico es 1 GB por $1.99. Para un viaje de una semana, el plan de 3 GB para 7 días cuesta $4.99 y el de 5 GB para 7 días cuesta $6.99.
+        Para estancias más largas, el plan de 10 GB para 15 días cuesta $10.99 y el más completo de 50 GB para 30 días cuesta $39.99.
+        Todos son de prepago, sin contrato, y puedes recargar GB desde tu panel si te quedas corto.
     - q: ¿Mi teléfono es compatible con eSIM para China y cómo instalarlo?
       a: Sí, la mayoría de los teléfonos modernos (iPhone XS/XR o posterior, Samsung
         Galaxy S20+/Note20+, Google Pixel 3a+) son compatibles con eSIM. Instalas
         la eSIM para China escaneando el código QR en los ajustes móviles. Las redes
         China Mobile / China Unicom ofrecen una excelente cobertura 5G/4G en China.
     - q: ¿Cuánto cuesta la eSIM para China y hay descuentos?
-      a: Nuestro plan eSIM para China comienza en 1,99 $/GB. Con el código promocional
+      a: Nuestro plan eSIM para China comienza en $1.99. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
     - q: ¿Cómo seguir mi consumo de datos con la eSIM para China?
@@ -401,6 +403,21 @@ faq_section:
       a: Sí, además del código QR, puedes instalar la eSIM manualmente usando la dirección
         SM‑DP+ y el código de activación (ambos indicados en tu confirmación de pedido).
         El código QR es el método más rápido y sencillo.
+    - q: ¿Cuál es la mejor eSIM para China y cuánto cuesta?
+      a: |
+        Para la mayoría de viajeros, la mejor eSIM para China es una eSIM de datos prepago que puedas instalar antes de volar y activar al aterrizar.
+        La eSIM Roami para China se activa en línea en menos de 2 minutos, sin pasaporte ni cola en tienda, y se conecta a las redes de China Mobile y China Unicom.
+        Los precios van de $1.99 (1 GB) a $39.99 (50 GB, 30 días), sin contrato ni cargos ocultos.
+    - q: ¿La eSIM para China funciona en Pekín, Shanghái, Cantón y Shenzhen?
+      a: |
+        Sí. La eSIM para China se conecta a la red 4G/5G local en todo el país, incluidas Pekín, Shanghái, Cantón (Guangzhou) y Shenzhen.
+        También funciona en los principales aeropuertos de entrada: Pekín-Capital, Shanghái-Pudong y Cantón-Baiyun.
+        En las grandes ciudades la cobertura 5G es excelente; en zonas rurales o remotas la velocidad puede bajar a 4G.
+    - q: ¿Conviene más la eSIM Roami para China o comprar una SIM prepagada local?
+      a: |
+        Una SIM prepagada local china exige acudir a una tienda oficial con el pasaporte y completar el registro de identidad; además, la primera recarga suele requerir efectivo o una tarjeta bancaria china (UnionPay).
+        La eSIM Roami para China se compra en línea, no pide pasaporte ni reconocimiento facial y se paga con Visa, Mastercard, Apple Pay, Google Pay o PayPal.
+        Para viajes de una o dos semanas, la eSIM evita colas y trámites; para estancias de varios meses, una SIM local con número chino puede seguir teniendo sentido.
   - id: faq-airport
     icon: plane
     tab_title: Aeropuertos
@@ -702,99 +719,8 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'China eSIM vs Prepaid SIM Card: Everything You Should Consider – Best eSIM for China Travelers'
-  subtitle: "Comparativa de SIM prepagadas locales chinas y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (China) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/China"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para China"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Encuentra respuestas sobre la eSIM para China. Compara precios, descubre la mejor red y como mantenerte conectado durante todo el viaje."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las largas colas en tiendas de China Mobile o China Unicom. Con Roami eSIM, activas en línea en 1 minuto al llegar a Pekín o Shanghái, sin necesidad de buscar tiendas ni mostrar pasaporte."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Todas las tarjetas SIM prepagadas en China requieren registro con pasaporte y reconocimiento facial obligatorio desde 2019. China Mobile, China Unicom y China Telecom exigen escaneo facial en sus puntos de venta oficiales."
-      esim_title: "Sin pasaporte ni reconocimiento facial"
-      esim_desc: "Olvídate del engorroso registro con pasaporte y reconocimiento facial que exigen China Mobile, China Unicom y China Telecom. Roami eSIM no requiere KYC presencial: compras y activas al instante desde tu móvil."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Los planes de China Mobile y China Unicom no incluyen datos de roaming fuera de China continental. Por ejemplo, el plan 4G Global de China Mobile (88 yuanes/3GB) y el plan Ice God de China Unicom (99 yuanes/20GB) no tienen tráfico de roaming internacional; salir de China significa quedarse sin datos o pagar tarifas de roaming muy altas."
-      esim_title: "Roaming global sin interrupciones"
-      esim_desc: "Mientras que las SIM locales de China Mobile o China Unicom no incluyen roaming internacional (ej. plan 4G Global de 88 yuanes/3GB solo en China), Roami eSIM ofrece cobertura en múltiples países, permitiéndote viajar de China a Hong Kong o Tailandia sin cambiar de SIM."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "China Mobile y China Unicom facturan estrictamente por mes natural. Si un turista activa un plan de China Unicom de 129 yuanes/30GB el 25 de julio, el tráfico se restablece el 1 de agosto, usando solo 7 días y perdiendo más del 60-80% del valor del plan. China Telecom prorratea por días de activación, siendo la más amigable."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de mes natural de China Mobile y China Unicom (ej. 129 yuanes/30GB que se pierde si llegas a mitad de mes), Roami ofrece planes de datos desde 7 días, desde 1,99 $/GB, ahorrando hasta un 80% de desperdicio."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "No se menciona explícitamente en la fuente. Según conocimiento general del mercado, las SIM prepagadas chinas generalmente permiten tethering, pero los planes con límite FUP (por ejemplo, China Mobile reduce a 1 Mbps después de 10GB y a 128 kbps después de 100GB) afectan la velocidad del hotspot."
-      esim_title: "Tethering ilimitado sin restricciones"
-      esim_desc: "Las SIM chinas como China Mobile reducen la velocidad a 1 Mbps tras 10GB y a 128 kbps tras 100GB, afectando el hotspot. Con Roami eSIM disfrutas de tethering ilimitado a máxima velocidad durante todo tu viaje."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "La primera recarga debe ser en efectivo o con tarjeta bancaria china (UnionPay). No se aceptan Visa, Mastercard, AMEX, Apple Pay, Google Pay ni PayPal para la activación inicial. Las recargas en línea posteriores pueden usar WeChat Pay con tarjeta internacional, pero requiere registro previo con número de teléfono local."
-      esim_title: "Pagos globales sin barreras"
-      esim_desc: "Las SIM locales exigen efectivo o UnionPay para la primera recarga. Roami eSIM acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, facilitando la compra desde cualquier lugar del mundo."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "La atención al cliente de China Mobile y China Unicom es principalmente en chino mandarín, sin chat en línea para usuarios prepagos. No hay soporte en inglés las 24 horas. Los usuarios extranjeros enfrentan barreras idiomáticas."
-      esim_title: "Soporte 24/7 en español"
-      esim_desc: "Mientras que la atención al cliente de China Mobile y China Unicom solo está disponible en chino mandarín, Roami ofrece soporte en español las 24 horas del día, los 7 días de la semana, para resolver cualquier duda al instante."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "wifi"
-
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        desc: "Las SIM chinas como China Mobile reducen la velocidad a <b>1 Mbps tras 10GB</b> y a <b>128 kbps tras 100GB</b>, afectando el uso compartido de datos. Roami eSIM permite tethering ilimitado a máxima velocidad durante todo el viaje."
-      - icon: "hourglass-empty"
-
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        desc: "China Mobile y China Unicom facturan por <b>mes natural</b>. Si activas el 25 de julio un plan de 129 yuanes/30GB, el 1 de agosto se restablece, usas solo 7 días y pierdes más del <b>70% del valor</b>. Roami eSIM ofrece planes desde 7 días, desde 1,99 $/GB."
-      - icon: "clock"
-
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        desc: "El soporte de China Mobile y China Unicom es solo en <b>chino mandarín</b>, sin chat en línea para prepagos. Roami eSIM ofrece atención al cliente en <b>español las 24 horas</b>, los 7 días de la semana."
-      - icon: "tower-observation"
-
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        desc: "Los planes de China Mobile (ej. 4G Global 88 yuanes/3GB) y China Unicom (ej. Ice God 99 yuanes/20GB) <b>no incluyen roaming fuera de China</b>. Al cruzar a Hong Kong o Macao, te quedas sin datos. Roami eSIM ofrece cobertura en múltiples países sin cambiar de tarjeta."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
-  title: "Guía completa para comparar eSIM y tarjeta SIM en China"
+  title: "Comparativa completa de eSIM y tarjeta SIM en China"
   subtitle: "Comparativa de SIM prepagadas locales chinas y soluciones eSIM (referencia 2024/2025)"
   citation:
     text: "Fuente: Prepaid Data SIM Card Wiki (China) + sitios oficiales de operadores locales"
@@ -827,7 +753,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "China Mobile y China Unicom facturan por mes natural: si activas el 25 de enero un plan de 129 RMB/30GB, el 1 de febrero se reinicia, desperdiciando más del 60% del valor. China Telecom prorratea por días de activación."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de mes natural de China Mobile (88 RMB/3GB) o China Unicom (129 RMB/30GB), Roami ofrece planes de datos desde 7 días y desde 1,99 $/GB, ahorrando hasta un 80% del valor del plan si viajas menos de un mes."
+      esim_desc: "A diferencia del ciclo de mes natural de China Mobile (88 RMB/3GB) o China Unicom (129 RMB/30GB), Roami ofrece planes de datos desde 7 días y desde $1.99, ahorrando hasta un 80% del valor del plan si viajas menos de un mes."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -839,7 +765,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "La primera recarga debe hacerse en efectivo o con tarjeta bancaria china (UnionPay). No se aceptan Visa, Mastercard, AMEX, Apple Pay, Google Pay ni PayPal para la activación inicial."
       esim_title: "Pagos globales sin barreras"
-      esim_desc: "A diferencia de las SIM locales que exigen efectivo o UnionPay para la primera recarga, Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal. Sin necesidad de efectivo chino."
+      esim_desc: "A diferencia de las SIM locales que exigen efectivo o UnionPay para la primera recarga, Roami acepta pagos con Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal. Sin necesidad de efectivo chino."
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
@@ -854,12 +780,12 @@ market_analysis:
       - icon: "wifi"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
-        title: "Tethering sinlímites ni bloqueos"
+        title: "Tethering sin límites ni bloqueos"
         desc: "China Mobile limita la velocidad a 1 Mbps tras 10GB y a 128 kbps tras 100GB. Roami eSIM permite compartir datos con todos tus dispositivos a máxima velocidad durante todo el plan."
       - icon: "globe"
         icon_bg: "bg-teal-100"
         icon_color: "text-teal-600"
-        title: "Roaming internacional sinsorpresas"
+        title: "Roaming internacional sin sorpresas"
         desc: "Las SIM de China Mobile y China Unicom no incluyen datos fuera de China. Si viajas a Hong Kong o Macao, te quedas sin conexión. Roami eSIM funciona en múltiples países asiáticos, sin necesidad de cambiar de tarjeta."
       - icon: "clock"
         icon_bg: "bg-indigo-100"

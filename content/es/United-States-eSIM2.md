@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Estados Unidos | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:05:34+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,11 +19,13 @@ modal:
   text_android: |-
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
-  title: eSIM Etats-Unis | Prepaye International 5G Voyage pour Voyage
+  title: eSIM Estados Unidos | Alta Velocidad y Roaming Incluido
   description: Con Roami en EE.UU., disfruta de Internet estable, datos ilimitados
     y cobertura total. Ideal para viajes de negocios o turismo.
   keywords: eSIM Estados Unidos, viajar a Estados Unidos, internet en Estados Unidos,
     cobertura móvil Estados Unidos, planes eSIM
+  low_price: 1.99
+  high_price: 49.99
 order_summary:
   title: Plan seleccionado
   label_data: Volumen de datos
@@ -734,19 +736,19 @@ market_analysis:
       esim_desc: "Evita las largas filas en tiendas de AT&T o Verizon y la estricta lista blanca de IMEI de AT&T. Con Roami eSIM, activas en línea en un minuto al llegar a Estados Unidos, sin necesidad de un teléfono local compatible."
     - icon: "id-card"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, en Estados Unidos la compra de SIM prepagada no requiere registro de pasaporte obligatorio, pero algunos operadores pueden solicitar identificación para activación en tienda."
+      prepaid_desc: "En Estados Unidos la compra de SIM prepagada no requiere registro de pasaporte obligatorio, pero algunos operadores pueden solicitar identificación para activación en tienda."
       esim_title: "Sin pasaporte ni registro"
       esim_desc: "Olvídate de los requisitos de identificación. Mientras que las SIM locales pueden requerir verificación en tienda, Roami eSIM no necesita pasaporte ni registro, garantizando privacidad total."
     - icon: "globe"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, las SIM prepagadas estadounidenses generalmente no incluyen roaming internacional gratuito; se requieren paquetes adicionales costosos, por ejemplo, AT&T cobra $10/día por roaming en Canadá y México."
+      prepaid_desc: "Las SIM prepagadas estadounidenses generalmente no incluyen roaming internacional gratuito; se requieren paquetes adicionales costosos, por ejemplo, AT&T cobra $10/día por roaming en Canadá y México."
       esim_title: "Roaming global sin sorpresas"
-      esim_desc: "Las SIM prepagadas estadounidenses no incluyen roaming internacional; AT&T cobra $10/día en Canadá. Roami eSIM ofrece cobertura en múltiples países, con planes desde $1.99/GB, sin cargos ocultos."
+      esim_desc: "Las SIM prepagadas estadounidenses no incluyen roaming internacional; AT&T cobra $10/día en Canadá. Roami eSIM ofrece cobertura en múltiples países, con planes desde $1.99, sin cargos ocultos."
     - icon: "calendar-xmark"
       prepaid_title: ""
       prepaid_desc: "El ciclo de facturación de las SIM prepagadas en Estados Unidos es casi siempre de 30 días. Para un turista que viaja de 3 a 7 días, esto implica un desperdicio significativo, ya que paga por un mes completo. Además, se aplica un impuesto a las ventas de hasta el 10% no incluido en el precio anunciado."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo forzoso de 30 días de AT&T (promedio $6/GB + 10% impuesto), Roami ofrece planes de 7 días desde $1.99/GB, ahorrando hasta un 80% del costo para viajes cortos."
+      esim_desc: "A diferencia del ciclo forzoso de 30 días de AT&T (promedio $6/GB + 10% impuesto), Roami ofrece planes de 7 días desde $1.99, ahorrando hasta un 80% del costo para viajes cortos."
     - icon: "wifi"
       prepaid_title: ""
       prepaid_desc: "T-Mobile limita el uso de tethering en sus planes 'ilimitados': después de 35 GB o 50 GB, la velocidad se reduce al 15% de la prioridad máxima, haciendo el hotspot casi inutilizable. AT&T y Verizon también restringen la velocidad de tethering en planes prepagos."
@@ -759,7 +761,7 @@ market_analysis:
       esim_desc: "Evita el rechazo de tarjetas internacionales y el 10% de impuesto oculto. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, con precios finales sin sorpresas."
     - icon: "headset"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, la atención al cliente de los operadores estadounidenses suele ser en inglés, con horarios limitados y largos tiempos de espera, sin chat en línea dedicado para prepago."
+      prepaid_desc: "La atención al cliente de los operadores estadounidenses suele ser en inglés, con horarios limitados y largos tiempos de espera, sin chat en línea dedicado para prepago."
       esim_title: "Soporte 24/7 en tu idioma"
       esim_desc: "Mientras la atención al cliente de operadores locales es solo en inglés y con horarios limitados, Roami ofrece soporte multilingüe 24/7 vía chat y correo, resolviendo cualquier problema al instante."
   # =============== Módulo Veredicto de Expertos ===============
@@ -768,11 +770,11 @@ market_analysis:
       - icon: "globe"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
-        desc: "Las SIM locales no incluyen roaming en Canadá o México; AT&T cobra $10/día. Roami ofrece planes que cubren múltiples países, con tarifas desde $1.99/GB, ideales para viajes por Norteamérica."
+        desc: "Las SIM locales no incluyen roaming en Canadá o México; AT&T cobra $10/día. Roami ofrece planes que cubren múltiples países, con tarifas desde $1.99, ideales para viajes por Norteamérica."
       - icon: "hourglass-empty"
         icon_bg: "bg-amber-100"
         icon_color: "text-amber-600"
-        desc: "Las SIM locales imponen ciclos de 30 días con un costo promedio de $6/GB más 10% de impuesto. Un viaje de 7 días desperdicia más del 75% del plan. Roami ofrece planes de 7, 15 o 30 días desde $1.99/GB, sin impuestos adicionales."
+        desc: "Las SIM locales imponen ciclos de 30 días con un costo promedio de $6/GB más 10% de impuesto. Un viaje de 7 días desperdicia más del 75% del plan. Roami ofrece planes de 7, 15 o 30 días desde $1.99, sin impuestos adicionales."
       - icon: "shield"
         icon_bg: "bg-teal-100"
         icon_color: "text-teal-600"

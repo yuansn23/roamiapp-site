@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Afganistán 2026: Guía de Cobertura y Velocidad | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: "Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>.<br>Los nuevos clientes disfrutan de un 20% de descuento, código promocional: web20"
 seo:
   title: 'eSIM 5G Afganistán: Internet de Alta Velocidad para Negocios y Viajes'
-  description: Compara planes eSIM para Afganistán con 5G rápido en Kabul, Kandahar, Herat. Guía de cobertura de Afghan Wireless, MTN y Roshan para turistas y viajeros. Activación QR instantánea desde $1.99.
+  description: Compara planes eSIM para Afganistán con 5G rápido en Kabul, Kandahar, Herat. Guía de cobertura de Afghan Wireless, MTN y Roshan para turistas y viajeros. Activación QR instantánea desde $11.99.
   keywords: eSIM Afganistán, comprar eSIM Afganistán, mejor eSIM Afganistán, eSIM para viajar a Afganistán, Afghan Wireless Afganistán, MTN Afganistán, Roshan Afganistán, eSIM Kabul, eSIM Kandahar, eSIM Herat, eSIM prepago Afganistán, eSIM 5G Afganistán
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 11.99
+  high_price: 52.99
 order_summary:
   title: Plan Seleccionado
   label_data: Datos Incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de Afganistán para la mejor señal
 plans_title: 'Compra eSIM Afganistán: Planes para Cada Duración de Viaje'
 plans_data:
-  7 Days:
+  7 días:
   - spec: 1GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes de negocios cortos
@@ -80,7 +80,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.71'
-  30 Days:
+  30 días:
   - spec: 3GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para hacer turismo
@@ -98,7 +98,7 @@ plans_data:
     tag: Gran Valor
     tagColor: bg-emerald-500
     daily: '1.47'
-  3 Days:
+  3 días:
   - spec: Ilimitado
     data: Alta velocidad ilimitada
     desc: Uso de datos sin preocupaciones
@@ -226,50 +226,128 @@ related_products:
   items:
   - name: eSIM Estados Unidos
     flag: img/flags/us.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Reino Unido
     flag: img/flags/gb.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Europa
     flag: img/flags/eu.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM Canadá
     flag: img/flags/ca.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Turquía
     flag: img/flags/tr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM China
     flag: img/flags/cn.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Japón
     flag: img/flags/jp.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Francia
     flag: img/flags/fr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM España
     flag: img/flags/es.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Alemania
     flag: img/flags/de.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en Afganistán: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en Afganistán (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (Afghanistan) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Afghanistan"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para Afganistán"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "Afghan Wireless y Roshan venden en el aeropuerto de Kabul (kiosco en llegadas) y en tiendas del barrio de Shahr-e-Naw; el alta puede tardar 10-15 minutos."
+      esim_title: "Activación instantánea sin colas"
+      esim_desc: "Con Afghan Wireless la SIM se activa en tienda y puede tardar; con Roami escaneas un QR en 1 minuto al aterrizar en Kabul."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "Afganistán exige registrar la SIM con pasaporte en el punto de venta."
+      esim_title: "Cero trámites de identidad"
+      esim_desc: "En Afganistán, olvídate del registro obligatorio: la eSIM se instala sin escanear el pasaporte ni facilitar datos personales."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "Afghan Wireless ofrece acuerdos de roaming con cientos de operadores, pero con tarifas altas fuera de su red."
+      esim_title: "Sin FUP oculto"
+      esim_desc: "En Afganistán, frente a las condiciones de roaming de las SIM locales, la eSIM no recorta datos ni aplica límites de uso justo sorpresa."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "Los planes locales son mensuales: 3GB por 300 AFN y 15GB por 1.100 AFN, siempre con ciclos de 30 días."
+      esim_title: "Duración a tu medida"
+      esim_desc: "La eSIM ajusta la validez a tu estancia, desde $11.99, mientras las SIM locales fuerzan recargas de 30 días."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "El uso como punto de acceso no está garantizado en los planes prepago afganos."
+      esim_title: "Tethering sin penalización"
+      esim_desc: "Usa la eSIM como hotspot sin recargos, algo no siempre permitido en las prepagadas de Afghan Wireless."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "La recarga se hace con efectivo o cupones; rara vez se aceptan tarjetas internacionales."
+      esim_title: "Pago online con tu tarjeta"
+      esim_desc: "Sin efectivo ni cupones como en las recargas de Afghan Wireless: la eSIM se compra con Visa, Mastercard, AMEX o PayPal."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "La atención se presta en darí y pastún, con inglés limitado."
+      esim_title: "Asistencia sin horarios"
+      esim_desc: "La eSIM ofrece atención en español 24/7, sin depender del horario de las tiendas de Afghan Wireless."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para Afganistán: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "shield"
+        icon_bg: "bg-teal-100"
+        icon_color: "text-teal-600"
+        title: "Sin cargos ocultos ni caducidad"
+        desc: "Las prepagadas locales caducan el saldo si no se recarga con regularidad. Con Roami no pagas mantenimiento ni pierdes saldo por inactividad en Afganistán."
+      - icon: "clock"
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "Listo antes de aterrizar"
+        desc: "Afghan Wireless y Roshan venden en el aeropuerto de Kabul (kiosco en llegadas) y en tiendas del barrio de Shahr-e-Naw; el alta puede tardar 10-15 minutos. Instálala antes de viajar y tendrás datos desde el primer minuto en Afganistán."
+      - icon: "tower-observation"
+        icon_bg: "bg-rose-100"
+        icon_color: "text-rose-600"
+        title: "Datos íntegros al cruzar fronteras"
+        desc: "Afghan Wireless ofrece acuerdos de roaming con cientos de operadores, pero con tarifas altas fuera de su red. En Afganistán la eSIM no recorta el paquete ni aplica FUP sorpresa al salir del país."
+      - icon: "hourglass-empty"
+        icon_bg: "bg-amber-100"
+        icon_color: "text-amber-600"
+        title: "Paga solo los días que usas"
+        desc: "Los planes locales son mensuales: 3GB por 300 AFN y 15GB por 1.100 AFN, siempre con ciclos de 30 días. Paga solo los días que estarás en Afganistán, sin bloques de 30 días."
 ---

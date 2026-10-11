@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Bulgaria | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:04:38+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,6 +20,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Bulgaria | Conexión Estable y Datos Ilimitados
+  low_price: 1.99
+  high_price: 77.99
   description: 'Roami te ofrece lo mejor de Bulgaria: conexión estable, datos ilimitados
     y cobertura nacional. Perfecto para visitar sus playas o montañas sin perder la
     señal.'
@@ -410,7 +412,7 @@ faq_section:
         de uso justo solo se aplica en caso de consumo extremo (por ejemplo, transmisión
         4K continua durante varios días). La navegación habitual, redes sociales,
         videollamadas y GPS no están limitados.
-        Roami ofrece datos 5G de alta velocidad (100 a 300 Mbps) desde $1.99/GB. El plan de 5GB/15 dias por $9.99 es el mas elegido por viajeros.
+        Las tarifas de Roami arrancan en $1.99 (1 GB, 3 días); el plan más amplio cuesta $77.99 (datos ilimitados, 30 días). Por su relación calidad-precio, el plan de 5 GB (30 días) es el más elegido, a $9.99.
     - q: ¿Puedo usar la eSIM para Bulgaria como punto de acceso para otros dispositivos?
       a: Sí, todos los planes Roami eSIM para Bulgaria admiten compartir conexión
         ilimitado (punto de acceso). Puedes compartir la conexión con una computadora
@@ -763,97 +765,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Bulgaria eSIM vs SIM Card Plans: Which One Fits Your Needs?'
-  subtitle: "Comparativa de SIM prepagadas locales búlgaras y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Bulgaria) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Bulgaria"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Bulgaria"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Todo sobre la eSIM para Bulgaria: como comprar, instalar y activar tu plan de datos. Consejos sobre operadores, cobertura 5G y precios segun tu viaje."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las colas en tiendas de A1, Yettel o Vivacom; con Roami eSIM activas en línea en un minuto al llegar a Sofía."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "La compra de una SIM requiere un pasaporte o documento de identidad válido para el registro obligatorio; A1, Yettel y Vivacom exigen este trámite."
-      esim_title: "Sin necesidad de pasaporte"
-      esim_desc: "Olvídate del registro obligatorio con pasaporte que exigen A1, Yettel y Vivacom; Roami eSIM no requiere KYC, solo una compra online."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Yettel prohíbe completamente la itinerancia en sus tarjetas solo datos; A1 y Vivacom aplican un FUP que reduce drásticamente los datos en la UE (ej. Vivacom 80GB solo 19.7GB en roaming, una reducción del 75%)."
-      esim_title: "Roaming global sin sorpresas"
-      esim_desc: "Mientras Yettel bloquea el roaming en sus tarjetas solo datos y Vivacom reduce el 75% del tráfico en la UE, Roami ofrece datos utilizables en todo el mundo sin restricciones."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "La mayoría de los planes tienen una validez de 19 a 30 días; un viaje de 5 días con el plan A1 Giga de 30 días desperdicia el 83% del valor del plan."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "Los planes locales de 19-30 días desperdician hasta el 83% del valor en viajes cortos; Roami ofrece planes de 7 días desde 1,99 $/GB, ajustados a tu estancia."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "No se menciona explícitamente en la fuente; según conocimiento general, los operadores búlgaros permiten tethering pero con límites de velocidad tras cierto consumo."
-      esim_title: "Tethering ilimitado"
-      esim_desc: "A diferencia de las SIM locales que pueden restringir el tethering, Roami eSIM permite compartir datos sin límites de velocidad."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Se puede pagar en efectivo en tienda, pero las recargas online con tarjetas extranjeras suelen fallar por 3D Secure; Vivacom tiene paquetes de renovación automática que requieren saldo suficiente."
-      esim_title: "Pagos globales sin complicaciones"
-      esim_desc: "Evita los fallos de pago con tarjetas extranjeras en recargas locales; Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "No se menciona atención al cliente en la fuente; según conocimiento general, el soporte es principalmente en búlgaro, con horario limitado."
-      esim_title: "Soporte 24/7 en español"
-      esim_desc: "Mientras la atención local es principalmente en búlgaro y con horario limitado, Roami ofrece soporte en español las 24 horas del día."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "credit-card"
-
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        desc: "Las recargas online con tarjetas extranjeras suelen fallar por 3D Secure en Bulgaria. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, sin problemas."
-      - icon: "wifi"
-
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        desc: "Las SIM locales pueden restringir el tethering o reducir la velocidad tras cierto uso. Roami eSIM permite compartir datos con tus dispositivos sin límites de velocidad ni restricciones."
-      - icon: "passport"
-
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        desc: "A1, Yettel y Vivacom exigen presentar el pasaporte original para registrar la SIM. Con Roami eSIM, no necesitas mostrar ningún documento, activas en segundos."
-      - icon: "hourglass-empty"
-
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        desc: "Los planes de A1 (19-30 días), Yettel (30 días) y Vivacom (28 días) fuerzan a pagar por semanas no usadas. Un viaje de 5 días con A1 Giga (€6.14/30 días) desperdicia el 83% del valor. Roami ofrece planes desde 1,99 $/GB y 7 días de validez."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "Velocidad, cobertura y precios: eSIM vs prepagada en Bulgaria"
   subtitle: "Comparativa de SIM prepagadas locales búlgaras y soluciones eSIM (referencia 2024/2025)"
@@ -888,7 +799,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "La mayoría de los planes tienen una validez de 19, 28 o 30 días; un viaje de 5 días con el plan A1 Giga (6,14 €/15 GB/30 días) desperdicia el 83% del valor del plan."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de 30 días de A1 (6,14 €/15 GB), Roami ofrece planes de 7 días desde 1,99 $/GB, ahorrando hasta un 83% en viajes cortos."
+      esim_desc: "A diferencia del ciclo de 30 días de A1 (6,14 €/15 GB), Roami ofrece planes de 7 días desde $2.99, ahorrando hasta un 83% en viajes cortos."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -910,7 +821,7 @@ market_analysis:
 
   # =============== Módulo Veredicto de Expertos ===============
   expert_verdict:
-    title: "eSIM para Bulgaria: la solución más inteligente yeconómica frente a la SIM física local"
+    title: "eSIM para Bulgaria: la solución más inteligente y económica frente a la SIM física local"
     cards:
       - icon: "credit-card"
         icon_bg: "bg-emerald-100"
@@ -931,5 +842,5 @@ market_analysis:
         icon_bg: "bg-amber-100"
         icon_color: "text-amber-600"
         title: "Planes flexibles frente al ciclo rígido de30 días"
-        desc: "Los planes de A1, Yettel y Vivacom tienen validez de 19 a 30 días. Un viaje de 5 días con A1 Giga (6,14 €/15 GB/30 días) desperdicia el 83% del valor. Las eSIM ofrecen planes desde 7 días, desde 1,99 $/GB."
+        desc: "Los planes de A1, Yettel y Vivacom tienen validez de 19 a 30 días. Un viaje de 5 días con A1 Giga (6,14 €/15 GB/30 días) desperdicia el 83% del valor. Las eSIM ofrecen planes desde 7 días, desde $2.99."
 ---

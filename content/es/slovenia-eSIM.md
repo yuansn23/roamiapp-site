@@ -1,6 +1,6 @@
 ---
 title: slovenia eSIM Plan de Datos | Mejor eSIM de Viaje 2026 | Roami
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -22,7 +22,7 @@ seo:
   description: "Prepárate para Eslovenia con el mejor eSIM prepago de viaje de Roami. Datos 5G ilimitados en todo el país. Activación instantánea. Cobertura en Liubliana, Bled y Maribor."
   keywords: Eslovenia eSIM, eSIM Eslovenia, eSIM barato Eslovenia, internet de viaje Eslovenia, A1 Eslovenia, Telekom Slovenije, eSIM instantáneo, sin cargos de roaming
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: Plan Seleccionado
   label_data: Datos Incluidos
@@ -73,7 +73,7 @@ features:
     desc: Conéctate a los mejores operadores
 plans_title: Elige tu Plan
 plans_data:
-  30 Días:
+  30 días:
   - spec: 30GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para tu viaje
@@ -123,7 +123,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.63'
-  15 Días:
+  15 días:
   - spec: 30GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para tu viaje
@@ -173,7 +173,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.87'
-  3 Días:
+  3 días:
   - spec: 1GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes de negocios cortos
@@ -215,7 +215,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.33'
-  7 Días:
+  7 días:
   - spec: 1GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes de negocios cortos
@@ -384,50 +384,128 @@ related_products:
   items:
   - name: eSIM para Estados Unidos
     flag: img/flags/us.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Reino Unido
     flag: img/flags/gb.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Europa
     flag: img/flags/eu.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM para Canadá
     flag: img/flags/ca.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Turquía
     flag: img/flags/tr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para China
     flag: img/flags/cn.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Japón
     flag: img/flags/jp.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Hong Kong
     flag: img/flags/hk.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Francia
     flag: img/flags/fr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para España
     flag: img/flags/es.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Alemania
     flag: img/flags/de.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Australia
     flag: img/flags/au.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en Eslovenia: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en Eslovenia (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (Slovenia) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Slovenia"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para Eslovenia"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "A1, Telekom Slovenije y Telemach venden en tiendas de Liubliana y Maribor, con alta presencial."
+      esim_title: "Sin pasar por la tienda"
+      esim_desc: "Evita desplazarte a un establecimiento de A1; activa la eSIM online y úsala nada más llegar a Liubliana."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "En Eslovenia, se exige identificarse para activar la línea."
+      esim_title: "Privacidad total"
+      esim_desc: "Con la eSIM no entregas copia del pasaporte ni foto; tus datos no quedan en el sistema de A1."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "Las prepagadas eslovenas incluyen roaming en la UE, pero con política de uso justo que recorta los gigas fuera del país."
+      esim_title: "Sin sorpresas al cruzar la frontera"
+      esim_desc: "Mientras las locales de A1 ajustan o cortan los datos fuera del país, la eSIM mantiene el paquete completo."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "En Eslovenia, los paquetes turísticos arrancan en unos 5 $, con ciclos de 7 o 30 días."
+      esim_title: "Planes por días, no por meses"
+      esim_desc: "En lugar de asumir un mes completo de A1, la eSIM ofrece paquetes cortos desde $1.99."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "En Eslovenia, el uso compartido figura en las condiciones, aunque con un límite de velocidad tras el consumo inicial."
+      esim_title: "Tethering ilimitado"
+      esim_desc: "Comparte datos con portátil y tablet sin restricciones, algo que algunas prepagadas de A1 limitan o cobran aparte."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "En Eslovenia, la recarga se hace online o en tienda con tarjeta y cupones locales."
+      esim_title: "Compra con tu tarjeta de siempre"
+      esim_desc: "Frente a las recargas de A1, que a veces exigen efectivo o tarjetas locales, la eSIM acepta Visa, Mastercard y Apple Pay."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "La atención se presta en esloveno, con inglés en las tiendas."
+      esim_title: "Ayuda cuando la necesitas"
+      esim_desc: "En Eslovenia, sin depender del horario de las tiendas, la eSIM cuenta con atención en español 24/7."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para Eslovenia: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "shield"
+        icon_bg: "bg-teal-100"
+        icon_color: "text-teal-600"
+        title: "Sin saldo que se pierde"
+        desc: "Los bloques de 30 días se desperdician en estancias cortas. Frente a las prepagadas, la eSIM no aplica mantenimiento ni caducidad del saldo en Eslovenia."
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "Compra con tu tarjeta de siempre"
+        desc: "La recarga se hace online o en tienda con tarjeta y cupones locales. En Eslovenia no necesitas cupones ni efectivo local: la compra es online."
+      - icon: "globe"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "Sin zonas muertas"
+        desc: "Excelente cobertura 4G en todo el país; solo falla en algunos valles alpinos. Olvídate de la cobertura de un solo operador mientras viajas por Eslovenia."
+      - icon: "wifi"
+        icon_bg: "bg-green-100"
+        icon_color: "text-green-600"
+        title: "Hotspot sin coste extra"
+        desc: "El uso compartido está permitido en las tarifas principales. El tethering en Eslovenia no tiene coste añadido ni bloqueos con Roami."
 ---

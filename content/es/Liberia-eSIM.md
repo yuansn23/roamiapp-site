@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Liberia | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:04:34+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,6 +20,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Liberia | Red Local Fiable y Prepago Sin Contrato
+  low_price: 27.99
+  high_price: 99.99
   description: Viaja a Liberia con Roami y obtén Internet rápido, datos ilimitados
     y cobertura nacional. Ideal para viajeros que buscan aventura.
   keywords: eSIM Liberia, datos móviles Liberia, viajar a Liberia, cobertura 5G Liberia,
@@ -238,10 +240,10 @@ faq_section:
         Mantienes tu SIM principal activa para recibir SMS de tu banco o verificaciones 2FA.
         Si pierdes el telefono, la eSIM no se puede sacar ni usar en otro dispositivo, a diferencia de una SIM fisica que cualquiera puede sacar y poner en su movil.
     - q: ¿Cuánto cuesta la eSIM para Liberia y hay descuentos?
-      a: Nuestro plan eSIM para Liberia comienza en 1,99 $/GB. Con el código promocional
+      a: Nuestro plan eSIM para Liberia comienza en $27.99. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
-        Roami ofrece datos 5G de alta velocidad (100 a 300 Mbps) desde $1.99/GB. El plan de 5GB/15 dias por $9.99 es el mas elegido por viajeros.
+        En Roami, los precios van desde $27.99 por 1 GB (7 días) hasta $99.99 por 5 GB (30 días). El plan más recomendado por su relación calidad-precio cuesta $99.99 e incluye 5 GB para 30 días.
     - q: ¿La eSIM para Liberia admite VoLTE y llamadas de voz HD?
       a: |
         Si, la eSIM para Liberia admite VoLTE y voz HD si tu dispositivo lo permite.
@@ -257,7 +259,6 @@ faq_section:
         locales en Liberia?
       a: A diferencia de las tarjetas SIM prepago locales, no necesitas ir a una tienda,
         pasar por verificación de identidad (KYC) o buscar una tarjeta de recarga
-
 
     - q: ¿Roami ofrece planes ilimitados para Liberia? ¿Hay política de uso justo
         (FUP)?
@@ -569,95 +570,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Liberia eSIM vs Physical SIM: Which Is Better for Travel?'
-  subtitle: "Comparativa de SIM prepagadas locales liberianas y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Liberia) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Liberia"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Liberia"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Orange en el aeropuerto Roberts requiere registro con pasaporte, demora unos 15 minutos; en puestos callejeros hay riesgo de SIM no registrada."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las colas en tiendas Orange o LoneStar en el aeropuerto Roberts. Con Roami eSIM, activas en línea en 1 minuto al llegar a Monrovia, sin necesidad de buscar una tienda física."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Todas las SIM deben registrarse con identificación oficial o pasaporte en tiendas de LoneStar u Orange; las SIM no registradas solo reciben llamadas."
-      esim_title: "Sin pasaporte ni registro"
-      esim_desc: "Olvídate del registro obligatorio con pasaporte en Liberia. Roami eSIM no requiere KYC, a diferencia de las SIM locales que exigen identificación oficial y pueden tardar hasta 30 minutos en tienda."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Los planes de LoneStar y Orange son solo para uso local en Liberia; al viajar a países vecinos como Costa de Marfil, los datos se cortan o aplican tarifas de roaming muy altas."
-      esim_title: "Roaming global sin fronteras"
-      esim_desc: "Mientras que las SIM de LoneStar y Orange solo funcionan en Liberia (sin datos al salir del país), Roami eSIM ofrece cobertura en múltiples países de África Occidental, con planes desde $1.99/GB."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Los planes de LoneStar van de 5 días ($5) a 30 días ($40); Orange ofrece paquetes de 1 día ($0.25-$1) y mensuales ($5-$99). Un viaje de 3 días con un plan de 5 días desperdicia el 40% del costo."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "Los planes locales de 5 días ($5) o 15 días ($15) fuerzan a pagar por días no usados. Roami ofrece planes de datos de 7 días desde $1.99/GB, ahorrando hasta un 60% frente al plan de 5 días de Orange ($5 por 3GB)."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "No hay restricciones explícitas de tethering en los planes de LoneStar u Orange, pero la velocidad 3G/4G limitada en zonas rurales reduce la utilidad práctica."
-      esim_title: "Tethering ilimitado sin restricciones"
-      esim_desc: "A diferencia de algunas SIM locales que limitan la velocidad después de cierto uso, Roami eSIM permite tethering ilimitado a máxima velocidad 4G LTE en zonas con cobertura Orange 4G en Monrovia."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "La recarga se realiza principalmente mediante tarjetas físicas de recarga (scratch cards) que se compran en tiendas; no se aceptan tarjetas de crédito internacionales ni pagos en línea."
-      esim_title: "Pagos globales sin efectivo"
-      esim_desc: "Olvídate de las tarjetas de recarga físicas. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, mientras que en Liberia la recarga es casi exclusivamente con scratch cards en tiendas."
-    - icon:
-
-
-      prepaid_title: ""
-      prepaid_desc: "La atención al cliente de LoneStar y Orange está disponible en horario local (lunes a viernes 8:00-17:00), principalmente en inglés; no hay soporte 24/7 ni chat en línea para prepago."
-      esim_title: "Soporte 24/7 en español"
-      esim_desc: "Mientras que LoneStar y Orange ofrecen atención solo en horario laboral local (inglés), Roami brinda soporte en español 24/7 por chat y email, resolviendo cualquier incidencia al instante."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "clock"
-
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        desc: "Comprar una SIM local en el aeropuerto Roberts implica colas y registro con pasaporte. Roami eSIM se activa en <b>1 minuto</b> desde el móvil, nada más aterrizar, sin necesidad de buscar una tienda física."
-      - icon: "hourglass-empty"
-
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-      - icon: "passport"
-
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        desc: "Las SIM locales de <b>LoneStar</b> y <b>Orange</b> exigen registro obligatorio con pasaporte en tienda. Las SIM no registradas solo reciben llamadas. Roami eSIM activa sin ningún documento, ahorrando tiempo y trámites."
-      - icon: "tower-observation"
-
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        desc: "Orange tiene 4G solo en <b>Monrovia</b> y pocas ciudades; LoneStar cubre más pero con 3G/2G en zonas rurales. Roami eSIM se conecta a la mejor red disponible, mejorando la conectividad en áreas con cobertura débil."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "Ventajas e inconvenientes de eSIM y SIM física en Liberia"
   subtitle: "Comparativa de SIM prepagadas locales (LoneStar, Orange) y soluciones eSIM (referencia 2024/2025)"
@@ -692,7 +604,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Los planes de LoneStar van de 5 días ($5) a 30 días ($40); Orange ofrece paquetes de 1 día ($0.25-$1) y mensuales ($5-$99). Un viaje de 3 días obliga a comprar un plan de 5 días, desperdiciando el 40% del valor."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "Los planes de LoneStar (5 días mínimo $5) y Orange (1 día $0.25-$1) fuerzan a pagar por días no usados. Roami ofrece planes de datos desde 7 días, desde 1,99 $/GB, ajustados a tu estancia real. Un viaje de 3 días con Roami cuesta solo $6, frente a $5+ de LoneStar con 40% de desperdicio."
+      esim_desc: "Los planes de LoneStar (5 días mínimo $5) y Orange (1 día $0.25-$1) fuerzan a pagar por días no usados. Roami ofrece planes de datos desde 7 días, desde $27.99, ajustados a tu estancia real. Un viaje de 3 días con Roami cuesta solo $6, frente a $5+ de LoneStar con 40% de desperdicio."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -704,7 +616,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "La recarga se realiza principalmente mediante tarjetas físicas de recarga (scratch cards) vendidas en tiendas; no se aceptan tarjetas de crédito internacionales ni pagos en línea."
       esim_title: "Pagos globales sin efectivo"
-      esim_desc: "Olvídate de las tarjetas de recarga físicas (scratch cards) que exigen efectivo. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal. Recarga en línea al instante, sin necesidad de buscar tiendas en Liberia."
+      esim_desc: "Olvídate de las tarjetas de recarga físicas (scratch cards) que exigen efectivo. Roami acepta pagos con Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal. Recarga en línea al instante, sin necesidad de buscar tiendas en Liberia."
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
@@ -714,18 +626,18 @@ market_analysis:
 
   # =============== Módulo Veredicto de Expertos ===============
   expert_verdict:
-    title: "eSIM para Liberia: la solución más inteligente yeconómica frente a la SIM física local"
+    title: "eSIM para Liberia: la solución más inteligente y económica frente a la SIM física local"
     cards:
       - icon: "wifi"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
-        title: "Tethering sinrestricciones de velocidad"
+        title: "Tethering sin restricciones de velocidad"
         desc: "Aunque LoneStar y Orange no bloquean el tethering, la velocidad en zonas 3G/2G limita la experiencia. Roami eSIM permite tethering ilimitado a velocidad 4G LTE en áreas cubiertas, ideal para compartir conexión con otros dispositivos."
       - icon: "hourglass-empty"
         icon_bg: "bg-amber-100"
         icon_color: "text-amber-600"
         title: "Planes rígidosvs. flexibilidad diaria"
-        desc: "Los planes de LoneStar comienzan en <b>5 días ($5)</b> y saltan a <b>15 días ($15)</b>. Orange ofrece paquetes de 1 día pero a precios altos (500 MB/$1). Un viaje de 3 días con LoneStar desperdicia el 40% del valor. Roami ofrece planes desde 7 días, desde <b>1,99 $/GB</b>, sin desperdicio."
+        desc: "Los planes de LoneStar comienzan en <b>5 días ($5)</b> y saltan a <b>15 días ($15)</b>. Orange ofrece paquetes de 1 día pero a precios altos (500 MB/$1). Un viaje de 3 días con LoneStar desperdicia el 40% del valor. Roami ofrece planes desde 7 días, desde <b>$27.99</b>, sin desperdicio."
       - icon: "shield"
         icon_bg: "bg-teal-100"
         icon_color: "text-teal-600"

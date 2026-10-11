@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Brunéi 2026: Guía de Cobertura y Velocidad | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ seo:
   title: eSIM Brunéi | El Mejor Plan de Datos para Viajeros
   description: Prepárate para Brunéi con la mejor eSIM de viaje prepago de Roami. Datos 5G ilimitados en todo el sultanato. Cobertura en Bandar Seri Begawan. Activación instantánea.
   keywords: eSIM Brunéi, comprar eSIM Brunéi, mejor eSIM Brunéi, eSIM para viajar a Brunéi, DST Brunéi, Progresif Brunéi, imagine Brunéi, eSIM Bandar Seri Begawan, eSIM Kuala Belait, eSIM Seria, eSIM prepago Brunéi, eSIM 5G Brunéi
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 9.99
+  high_price: 99.99
 order_summary:
   title: Plan Seleccionado
   label_data: Datos Incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de Brunéi para la mejor señal
 plans_title: 'Compra eSIM Brunéi: Planes para Cada Duración de Viaje'
 plans_data:
-  7 Days:
+  7 días:
   - spec: 1GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes de negocios cortos
@@ -80,7 +80,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.43'
-  15 Days:
+  15 días:
   - spec: 3GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para hacer turismo
@@ -90,7 +90,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '1.53'
     tagIcon: star
-  30 Days:
+  30 días:
   - spec: 20GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para tu viaje
@@ -234,149 +234,52 @@ related_products:
   items:
   - name: eSIM Estados Unidos
     flag: img/flags/us.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Reino Unido
     flag: img/flags/gb.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Europa
     flag: img/flags/eu.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM Canadá
     flag: img/flags/ca.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Turquía
     flag: img/flags/tr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM China
     flag: img/flags/cn.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Japón
     flag: img/flags/jp.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Francia
     flag: img/flags/fr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM España
     flag: img/flags/es.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Alemania
     flag: img/flags/de.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
-market_analysis_1:
-  title: 'Brunei eSIM vs Prepaid SIM: Cost and Convenience Compared'
-  subtitle: SIM Prepago Local en Brunéi vs. Soluciones eSIM (Referencia 2024/2025)
-  citation:
-    text: 'Fuente de Datos: Prepaid Data SIM Card Wiki (Brunéi) + Sitios de Operadores Locales'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Brunei
-  table_headers:
-  - Matriz de Comparación
-  - SIM Prepago Local (Datos de Mercado)
-  - eSIM Roami Brunéi
-  table_rows:
-  - icon:
-    title: Acquisition &<br>Activation
-
-
-
-    prepaid_title: ''
-    prepaid_desc: La tienda de DST en el aeropuerto abre de 10 AM a 5 PM y cierra los viernes al mediodía por oraciones; la activación de la tarjeta Easi requiere marcar 159 y escuchar un mensaje de bienvenida.
-    esim_title: Entrega Digital Instantánea
-    esim_desc: Salta las colas del aeropuerto de DST (abre 10 AM-5 PM, cerrado viernes al mediodía). Activa tu eSIM en línea en 1 minuto después de aterrizar en Brunéi.
-  - icon:
-    title: KYC & Real-Name<br>Registration
-
-
-
-    prepaid_title: ''
-    prepaid_desc: Cada tarjeta SIM requiere registro con pasaporte en el punto de compra; las SIM no registradas dejan de funcionar después de 7 días.
-    esim_title: No se Requiere Pasaporte
-    esim_desc: Evita entregar tu pasaporte en las tiendas DST. La eSIM Roami se activa instantáneamente sin KYC, eliminando el riesgo de desactivación de SIM en 7 días.
-  - icon:
-    title: International<br>Roaming
-
-
-
-    prepaid_title: ''
-    prepaid_desc: Todos los paquetes de datos de DST y Progresif están estrictamente bloqueados para uso dentro de Brunéi; no ofrecen roaming a Malasia.
-    esim_title: Listo para Roaming Global
-    esim_desc: A diferencia de los paquetes DST/Progresif bloqueados a Brunéi, la eSIM Roami funciona en Malasia y más allá, con acceso a múltiples redes 4G LTE de DST.
-  - icon:
-    title: Billing Cycle &<br>Sunk Cost
-
-
-
-    prepaid_title: ''
-    prepaid_desc: Los paquetes de datos DST tienen una validez mínima de 3 días (200 MB por 3 B$) o 30 días (1 GB por 10 B$); los Planes Traveller de Progresif tienen una validez fija de 28 días, desperdiciando más del 80% para un viaje de 5 días.
-    esim_title: Planes Diarios Flexibles
-    esim_desc: A diferencia del mínimo de 3 días de DST (200 MB por 3 B$) o el plan fijo de 28 días de Progresif (10 B$ por 1 GB), Roami ofrece planes de 7 días desde $1.99/GB, ahorrando más del 80% de desperdicio para viajes cortos.
-  - icon:
-    title: Hotspot &<br>Speed Policies
-
-
-
-    prepaid_title: ''
-    prepaid_desc: No hay datos específicos en la fuente para esta dimensión. Según la práctica común del mercado, DST y Progresif probablemente permiten tethering pero pueden reducir la velocidad después de cierto límite.
-    esim_title: Conexión Compartida Sin Restricciones
-    esim_desc: La eSIM Roami permite compartir hotspot a máxima velocidad, a diferencia de DST/Progresif que pueden reducir la velocidad después de unos GB. Mantente conectado en todos tus dispositivos.
-  - icon:
-    title: Top-up Payments
-
-
-
-    prepaid_title: ''
-    prepaid_desc: La recarga requiere vales físicos o efectivo en quioscos; el pago en línea con tarjetas extranjeras no está soportado.
-    esim_title: Se Aceptan Pagos Globales
-    esim_desc: Paga con Visa, Mastercard, AMEX, Apple Pay, Google Pay o PayPal. No necesitas vales físicos ni efectivo en quioscos como requiere DST.
-  - icon:
-    title: Customer Support
-
-
-
-    prepaid_title: ''
-    prepaid_desc: La atención al cliente está disponible solo en horario local; no hay chat en vivo 24/7 para usuarios prepago.
-    esim_title: Soporte Multilingüe 24/7
-    esim_desc: Obtén asistencia por chat en vivo las 24 horas en inglés, a diferencia del soporte telefónico limitado en horario local de DST/Progresif.
-  expert_verdict_1:
-    cards:
-    - icon: credit-card
-
-      icon_bg: bg-emerald-100
-      icon_color: text-emerald-600
-      desc: DST y Progresif requieren vales físicos o recargas en efectivo. Roami acepta <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal</b> para pago en línea instantáneo.
-    - icon: clock
-
-      icon_bg: bg-indigo-100
-      icon_color: text-indigo-600
-      desc: La tienda de DST en el aeropuerto abre de <b>10 AM a 5 PM</b> y cierra los viernes al mediodía. La eSIM Roami se activa en <b>1 minuto</b> en línea, en cualquier momento y lugar.
-    - icon: headset
-
-      icon_bg: bg-teal-100
-      icon_color: text-teal-600
-      desc: DST y Progresif ofrecen soporte telefónico limitado en horario local. Roami proporciona <b>chat en vivo 24/7</b> en inglés para asistencia inmediata.
-    - icon: globe
-
-      icon_bg: bg-purple-100
-      icon_color: text-purple-600
-      desc: Los paquetes de datos de DST y Progresif están bloqueados a Brunéi. La eSIM Roami funciona en <b>Malasia</b> y otros países, eliminando la necesidad de múltiples SIM.
-
 # =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "Guía completa para comparar eSIM y tarjeta SIM en Brunéi"
@@ -406,13 +309,13 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Los paquetes de datos de DST y Progresif son solo para uso nacional; no se mencionan opciones de roaming internacional en los planes turísticos."
       esim_title: "Roaming global sin límites"
-      esim_desc: "Los paquetes de DST y Progresif solo funcionan en Brunéi. Con Roami eSIM, disfrutas de roaming en múltiples países del sudeste asiático (Malasia, Indonesia, etc.) sin necesidad de cambiar de SIM, con planes desde 1,99 $/GB."
+      esim_desc: "Los paquetes de DST y Progresif solo funcionan en Brunéi. Con Roami eSIM, disfrutas de roaming en múltiples países del sudeste asiático (Malasia, Indonesia, etc.) sin necesidad de cambiar de SIM, con planes desde $9.99."
     - icon: "calendar-xmark"
       title: "Ciclo de facturación y<br>costes desperdiciados"
       prepaid_title: ""
       prepaid_desc: "El paquete turístico de Progresif tiene una validez fija de 28 días; si viajas 5 días, pagas el plan completo de 28 días (ej. 25 B$ por datos ilimitados), desperdiciando más del 80% del valor."
       esim_title: "Planes flexibles por días"
-      esim_desc: "A diferencia del ciclo fijo de 28 días de Progresif (25 B$ por datos ilimitados, que caduca), Roami ofrece planes de 7 días desde 1,99 $/GB. Para un viaje de 5 días, pagas solo por lo que usas, ahorrando más del 80% del costo del plan local."
+      esim_desc: "A diferencia del ciclo fijo de 28 días de Progresif (25 B$ por datos ilimitados, que caduca), Roami ofrece planes de 7 días desde $9.99. Para un viaje de 5 días, pagas solo por lo que usas, ahorrando más del 80% del costo del plan local."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -434,17 +337,17 @@ market_analysis:
 
   # =============== Módulo Veredicto de Expertos ===============
   expert_verdict:
-    title: "eSIM para Brunéi vs SIM física: la solución más inteligente yeconómica para viajar"
+    title: "eSIM para Brunéi vs SIM física: la solución más inteligente y económica para viajar"
     cards:
       - icon: "credit-card"
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "Paga contus métodos habituales"
-        desc: "Las SIM locales requieren efectivo o tarjeta local en tiendas físicas. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal. Compra y recarga online desde cualquier lugar."
+        desc: "Las SIM locales requieren efectivo o tarjeta local en tiendas físicas. Roami admite Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal. Compra y recarga online desde cualquier lugar."
       - icon: "wifi"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
-        title: "Tethering sinrestricciones"
+        title: "Tethering sin restricciones"
         desc: "Progresif limita la velocidad tras consumir datos (ej. plan de 40 GB se ralentiza). Roami eSIM permite tethering ilimitado: comparte datos con todos tus dispositivos sin penalización."
       - icon: "clock"
         icon_bg: "bg-indigo-100"

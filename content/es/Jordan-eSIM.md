@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Jordania | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:05:11+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,6 +19,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Jordania | Red Local Fiable y Prepago Sin Contrato
+  low_price: 6.99
+  high_price: 99.99
   description: Viaja a Jordania con Roami y obtén conexión fiable, datos sin límite
     y cobertura en todo el país. Perfecto para visitar Petra y el Mar Muerto.
   keywords: eSIM Jordania, viaje a Jordania, mejor eSIM para Jordania, conectividad
@@ -336,10 +338,10 @@ faq_section:
         Esto cubre problemas tecnicos, no aplica si ya activaste el plan en Jordania y la cobertura de red es la esperada.
         Revisa la pagina de cobertura antes de comprar para asegurarte de que tu destino en Jordania tiene buena recepcion.
     - q: ¿Cuánto cuesta la eSIM para Jordania y hay descuentos?
-      a: Nuestro plan eSIM para Jordania comienza en 1,99 $/GB. Con el código promocional
+      a: Nuestro plan eSIM para Jordania comienza en $6.99. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
-        Por $1.99 obtienes 1GB para 7 dias, por $9.99 tienes 5GB para 15 dias, y por $19.99 disfrutas de 10GB para 30 dias. Todo con velocidades 5G de alta velocidad.
+        Los planes de Roami abarcan desde $6.99 (1 GB, 7 días) hasta $99.99 (20 GB, 30 días), sin contratos ni cargos ocultos. Todo con velocidades 5G de alta velocidad.
     - q: ¿Puedo comprar e instalar la eSIM para Jordania sin código QR?
       a: Sí, además del código QR, puedes instalar la eSIM manualmente usando la dirección
         SM‑DP+ y el código de activación (ambos indicados en tu confirmación de pedido).
@@ -669,97 +671,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Jordan eSIM vs Local Prepaid SIM: Which Is More Convenient?'
-  subtitle: "Comparativa de SIM prepagadas locales jordanas y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Jordan) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Jordan"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Jordania"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Encuentra respuestas sobre la eSIM para Jordania. Compara precios, descubre la mejor red y como mantenerte conectado durante todo el viaje."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las colas de 20-40 minutos en los mostradores de Zain o Umniah del aeropuerto de Amán. Con Roami eSIM, activas en línea al llegar, sin necesidad de buscar tiendas ni esperar."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "La compra de la tarjeta requiere presentar el pasaporte. En el aeropuerto Queen Alia de Amán, los mostradores de Zain y Umniah realizan el registro con fotocopia del pasaporte."
-      esim_title: "Sin pasaporte ni fotocopias"
-      esim_desc: "Olvida el registro obligatorio con pasaporte y fotocopia que exigen Zain y Umniah. Roami eSIM no requiere KYC, protegiendo tu privacidad y evitando riesgos de pérdida de documentos."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Los tres operadores principales de Jordania no mencionan datos de roaming internacional en sus planes; solo ofrecen tráfico nacional con restricciones horarias y de redes sociales. Si el viaje incluye países vecinos, la SIM física queda inutilizable."
-      esim_title: "Roaming global sin restricciones"
-      esim_desc: "Mientras que las SIM locales de Zain, Umniah y Orange no ofrecen roaming internacional, Roami eSIM te permite usar datos en múltiples países sin cambiar de tarjeta, con cobertura en más de 190 destinos."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Los planes prepagos de Zain, Umniah y Orange tienen un ciclo de facturación fijo de 30 días. Por ejemplo, el plan Zain de 10 JOD incluye solo 2 GB; si el viaje es de 3 a 5 días, se desperdicia casi todo el valor del plan."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo fijo de 30 días de Zain (10 JOD/2GB) o Umniah (6.55 JOD/6GB), Roami ofrece planes de datos desde 7 días, desde 1,99 $/GB, evitando pagar por días no usados."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "Umniah prohíbe explícitamente el tethering en todos sus planes Smart, y no son compatibles con tablets, routers o dispositivos MiFi."
-      esim_title: "Tethering ilimitado sin bloqueos"
-      esim_desc: "Mientras Umniah prohíbe el tethering en sus planes Smart, Roami eSIM permite compartir datos con todos tus dispositivos: laptop, tablet, etc., sin restricciones."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento del mercado, los métodos de pago comunes son efectivo y tarjetas Visa/Mastercard en tiendas."
-      esim_title: "Pagos globales sin sorpresas"
-      esim_desc: "Paga con Visa, Mastercard, AMEX, Apple Pay, Google Pay o PayPal. Sin necesidad de efectivo ni recargas físicas, evitando el 16% de impuesto oculto que aplican los operadores locales."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento del mercado, el soporte al cliente suele ser en árabe e inglés, con horario limitado."
-      esim_title: "Soporte 24/7 en tu idioma"
-      esim_desc: "A diferencia del soporte limitado de los operadores locales (solo árabe/inglés), Roami ofrece atención al cliente en español las 24 horas, los 7 días de la semana, vía chat y email."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "passport"
-
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        desc: "Zain y Umniah exigen presentar el pasaporte y realizar fotocopia en el punto de venta. En el aeropuerto Queen Alia, el proceso puede demorar 20-40 minutos. Con eSIM, no necesitas mostrar tu pasaporte ni compartir datos personales."
-      - icon: "clock"
-
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        desc: "Comprar una SIM local en el aeropuerto de Amán implica hacer cola en los mostradores de Zain o Umniah, presentar pasaporte y esperar 20-40 minutos. Con eSIM, la activación es digital y toma menos de un minuto desde que aterrizas."
-      - icon: "shield"
-
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        desc: "Al usar una SIM física local, debes retirar tu SIM habitual, perdiendo la recepción de SMS de tu banco o WhatsApp. eSIM funciona como línea secundaria, manteniendo tu número principal activo y seguro."
-      - icon: "hourglass-empty"
-
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        desc: "Los planes prepagos de Zain, Umniah y Orange tienen un ciclo fijo de 30 días. Por ejemplo, el plan Zain de <b>10 JOD/2GB</b> o el Umniah Smart de <b>6.55 JOD/6GB</b>. Un viajero que se queda 5 días desperdicia el 83% del valor del plan. eSIM ofrece planes desde 7 días, desde <b>1,99 $/GB</b>."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "eSIM vs SIM prepagada en Jordania: lo que debes saber"
   subtitle: "Comparativa de SIM prepagadas locales jordanas y soluciones eSIM (referencia 2024/2025)"
@@ -794,7 +705,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Todos los planes prepagados de Zain, Umniah y Orange tienen un ciclo de facturación de 30 días. Por ejemplo, el plan Zain Shahameh 60 Mix cuesta 7.86 JOD por 8 GB, pero un viajero de 5 días desperdicia el 83% del valor."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo fijo de 30 días de las SIM jordanas (ej. Zain 7.86 JOD por 8 GB), Roami ofrece planes de 7 días desde 1,99 $/GB, ahorrando hasta un 83% en viajes cortos."
+      esim_desc: "A diferencia del ciclo fijo de 30 días de las SIM jordanas (ej. Zain 7.86 JOD por 8 GB), Roami ofrece planes de 7 días desde $6.99, ahorrando hasta un 83% en viajes cortos."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -806,7 +717,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Los métodos de pago comunes en tiendas y recargas incluyen efectivo y tarjetas locales; las tarjetas extranjeras pueden tener problemas en recargas online."
       esim_title: "Pagos globales sin complicaciones"
-      esim_desc: "Paga con Visa, Mastercard, AMEX, Apple Pay, Google Pay o PayPal. Sin necesidad de efectivo ni recargas en tiendas locales."
+      esim_desc: "Visa, Mastercard, AMEX, Apple Pay, Google Pay o PayPal, todo admitido. Sin necesidad de efectivo ni recargas en tiendas locales."
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
@@ -836,6 +747,6 @@ market_analysis:
       - icon: "tower-observation"
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"
-        title: "Cobertura multi-red sinpuntos ciegos"
+        title: "Cobertura multi-red sin puntos ciegos"
         desc: "Orange tiene una cobertura muy deficiente incluso en el centro de Amán, con 3G inestable. Roami eSIM se conecta a la mejor red disponible (Zain o Umniah) y puede cambiar automáticamente si una falla, garantizando conectividad."
 ---

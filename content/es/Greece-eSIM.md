@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Grecia | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:04:41+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,6 +19,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Grecia | Red Local Fiable y Prepago Sin Contrato
+  low_price: 1.99
+  high_price: 77.99
   description: Roami te ofrece conexión rápida en Grecia, con datos sin límite y cobertura
     en islas y continente. Ideal para tus vacaciones en el Egeo.
   keywords: eSIM Grecia, datos móviles Grecia, roaming Grecia, viaje a Grecia, internet
@@ -747,97 +749,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Greece eSIM vs Prepaid SIM: Which One Is Right for You?'
-  subtitle: "Comparativa de SIM prepagadas locales griegas y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Greece) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Greece"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Grecia"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Encuentra respuestas sobre la eSIM para Grecia. Compara precios, descubre la mejor red y como mantenerte conectado durante todo el viaje."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita el engorroso viaje al centro de Atenas para comprar una SIM en Cosmote o Vodafone. Con Roami eSIM, activas tu plan en menos de 1 minuto desde el avión, nada más aterrizar en el aeropuerto de Atenas."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Para comprar una SIM prepagada en Grecia es obligatorio presentar el pasaporte o documento de identidad y firmar un contrato; no se aceptan permisos de conducir ni carnés de estudiante."
-      esim_title: "Sin pasaporte ni papeleo"
-      esim_desc: "Olvídate de presentar el pasaporte y firmar contratos en tiendas griegas. Roami eSIM no requiere KYC: compras e instalas digitalmente, sin compartir datos personales."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Cosmote ofrece paquetes de datos ilimitados en Grecia, pero en la UE tienen un tope de 7 GB (por ejemplo, el paquete Frog Mobile de 7 días por 6,50 €); además, los paquetes Mobile Internet Prepaid de Cosmote no permiten roaming fuera de Grecia."
-      esim_title: "Roaming global sin sorpresas"
-      esim_desc: "Mientras que los paquetes de Cosmote limitan el roaming UE a 7 GB o lo bloquean por completo, Roami eSIM ofrece datos en toda Europa sin topes ocultos, con cobertura en las mejores redes locales como Cosmote."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Los paquetes prepagados en Grecia tienen ciclos fijos de 30 días o 7 días; por ejemplo, el paquete de 30 días ilimitado de Cosmote cuesta 25 €, pero un turista que viaja 7 días desperdicia el 77% del valor del plan."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo fijo de 30 días de Cosmote (25 €/ilimitado) que desperdicia el 77% para estancias cortas, Roami ofrece planes de 7 días desde 1,99 $/GB, ajustados a tu viaje real."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "No se menciona explícitamente en la fuente, pero según el conocimiento del mercado, la mayoría de los operadores griegos permiten tethering, aunque con límites de velocidad después de cierto consumo; por ejemplo, Vodafone puede reducir la velocidad a 1,5 Mbps tras 3 GB diarios."
-      esim_title: "Tethering ilimitado sin restricciones"
-      esim_desc: "Mientras que Vodafone puede limitar la velocidad tras 3 GB diarios, Roami eSIM permite compartir datos con todos tus dispositivos sin límites de velocidad ni restricciones de uso."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "La recarga en línea requiere una tarjeta de crédito emitida en la UE con autenticación 3D o PayPal de la UE; las tarjetas extranjeras suelen ser rechazadas. Todas las recargas están sujetas a un impuesto del 12%."
-      esim_title: "Pagos globales sin complicaciones"
-      esim_desc: "Evita el rechazo de tarjetas extranjeras en recargas de operadores griegos. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, sin necesidad de tarjeta emitida en la UE."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "La atención al cliente de Cosmote y Vodafone está disponible en griego e inglés limitado, solo en horario laboral; no hay chat en línea para clientes prepagos."
-      esim_title: "Soporte 24/7 en tu idioma"
-      esim_desc: "Mientras que la atención al cliente de Cosmote y Vodafone solo está disponible en horario laboral y con inglés limitado, Roami ofrece soporte multilingüe 24/7 por chat y email, resolviendo cualquier incidencia al instante."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "globe"
-
-        icon_bg: "bg-cyan-100"
-        icon_color: "text-cyan-600"
-        desc: "Mientras que Nova tiene cobertura 5G limitada y sin mapa, Roami eSIM se conecta a la red de <b>Cosmote</b>, la más rápida y extensa de Grecia, garantizando la mejor experiencia en Atenas, Santorini y las islas."
-      - icon: "wifi"
-
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        desc: "Aunque Vodafone permite tethering, puede reducir la velocidad tras 3 GB diarios. Roami eSIM ofrece <b>tethering ilimitado</b> sin restricciones de velocidad, ideal para compartir conexión con tu portátil o tablet."
-      - icon: "shield"
-
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        desc: "La atención al cliente de Cosmote y Vodafone solo está disponible en horario laboral y con inglés limitado. Roami ofrece <b>soporte 24/7</b> en español e inglés por chat, resolviendo cualquier problema al instante."
-      - icon: "tower-observation"
-
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        desc: "Los paquetes <b>Mobile Internet Prepaid</b> de Cosmote (ej. 30 días ilimitado por 25 €) <b>no funcionan fuera de Grecia</b>. Roami eSIM te ofrece datos en toda Europa sin restricciones, usando la mejor red local."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "Guía completa para comparar eSIM y tarjeta SIM en Grecia"
   subtitle: "Comparativa de SIM prepagadas locales griegas y soluciones eSIM (referencia 2024/2025)"
@@ -872,11 +783,11 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Los paquetes de Cosmote tienen ciclos fijos de 1, 7 o 30 días. Un turista que viaja 5 días y compra un paquete de 7 días (6,50 €) desperdicia 2 días de servicio, lo que supone un 29% del valor del paquete."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "Los paquetes de Cosmote son de 1, 7 o 30 días fijos. Un viaje de 5 días con un paquete de 7 días (6,50 €) desperdicia el 29% del valor. Roami ofrece planes de 7 días desde 1,99 $/GB, ajustados a tu estancia."
+      esim_desc: "Los paquetes de Cosmote son de 1, 7 o 30 días fijos. Un viaje de 5 días con un paquete de 7 días (6,50 €) desperdicia el 29% del valor. Roami ofrece planes de 7 días desde $2.99, ajustados a tu estancia."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, Cosmote y Vodafone permiten tethering, pero con límites de velocidad después de cierto consumo; Nova puede restringirlo en planes de bajo costo."
+      prepaid_desc: "Cosmote y Vodafone permiten tethering, pero con límites de velocidad después de cierto consumo; Nova puede restringirlo en planes de bajo costo."
       esim_title: "Tethering ilimitado sin restricciones"
       esim_desc: "A diferencia de las SIM locales que pueden limitar el tethering (por ejemplo, Nova en planes baratos), Roami eSIM permite compartir datos libremente con todos tus dispositivos."
     - icon: "credit-card"
@@ -894,22 +805,22 @@ market_analysis:
 
   # =============== Módulo Veredicto de Expertos ===============
   expert_verdict:
-    title: "eSIM para Grecia: la solución más inteligente yeconómica frente a la SIM física local"
+    title: "eSIM para Grecia: la solución más inteligente y económica frente a la SIM física local"
     cards:
       - icon: "tower-observation"
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"
-        title: "Roaming UE sinlímites ocultos"
+        title: "Roaming UE sin límites ocultos"
         desc: "El paquete '7 días ilimitado' de Frog Mobile (6,50 €) solo permite 7 GB en la UE. Los planes 'Mobile Internet Prepaid' de Cosmote no funcionan fuera de Grecia. Roami eSIM te da datos completos en toda la UE."
       - icon: "hourglass-empty"
         icon_bg: "bg-amber-100"
         icon_color: "text-amber-600"
         title: "Ciclos flexiblesque eliminan el desperdicio"
-        desc: "Los paquetes de Cosmote son de 1, 7 o 30 días fijos. Un viaje de 5 días con un paquete de 7 días (6,50 €) desperdicia el 29% del valor. Roami ofrece planes de 7 días desde 1,99 $/GB, sin días pagados de más."
+        desc: "Los paquetes de Cosmote son de 1, 7 o 30 días fijos. Un viaje de 5 días con un paquete de 7 días (6,50 €) desperdicia el 29% del valor. Roami ofrece planes de 7 días desde $2.99, sin días pagados de más."
       - icon: "globe"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
-        title: "Cobertura enla mejor red griega"
+        title: "Cobertura en la mejor red griega"
         desc: "Roami eSIM se conecta a la red de Cosmote, la más rápida y extensa de Grecia, evitando la cobertura limitada de Nova o las restricciones de Vodafone."
       - icon: "clock"
         icon_bg: "bg-indigo-100"

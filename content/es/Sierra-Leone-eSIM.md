@@ -1,6 +1,6 @@
 ---
 title: 'Sierra Leona eSIM : Guía de Viaje Completa | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: "Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>.<br>Los nuevos clientes disfrutan de un 20% de descuento, código promocional: web20"
 seo:
   title: 'Sierra Leona eSIM 2026: Guía de Cobertura Africell y Sierratel | Mejor eSIM de Viaje'
-  description: Compara planes de eSIM para Sierra Leona con rápida 5G en Freetown, Bo, Kenema. Guía de cobertura de Africell, Sierratel y Orange SL para turistas y viajeros. Activación instantánea con QR desde $1.99.
+  description: Compara planes de eSIM para Sierra Leona con rápida 5G en Freetown, Bo, Kenema. Guía de cobertura de Africell, Sierratel y Orange SL para turistas y viajeros. Activación instantánea con QR desde $10.99.
   keywords: Sierra Leona eSIM, comprar Sierra Leona eSIM, mejor Sierra Leona eSIM, eSIM para viajar a Sierra Leona, Africell Sierra Leona, Sierratel Sierra Leona, Orange SL Sierra Leona, eSIM Freetown, eSIM Bo, eSIM Kenema, eSIM prepago Sierra Leona, 5G Sierra Leona eSIM
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 10.99
+  high_price: 33.99
 order_summary:
   title: Plan Seleccionado
   label_data: Datos Incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de Sierra Leona para la mejor señal
 plans_title: 'Compra Sierra Leona eSIM: Planes para Cada Duración de Viaje'
 plans_data:
-  30 Días:
+  30 días:
   - spec: 5GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes en profundidad
@@ -89,7 +89,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '1.13'
     tagIcon: star
-  7 Días:
+  7 días:
   - spec: 1GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes de negocios cortos
@@ -215,50 +215,128 @@ related_products:
   items:
   - name: eSIM para Estados Unidos
     flag: img/flags/us.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Reino Unido
     flag: img/flags/gb.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Europa
     flag: img/flags/eu.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM para Canadá
     flag: img/flags/ca.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Turquía
     flag: img/flags/tr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para China
     flag: img/flags/cn.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Japón
     flag: img/flags/jp.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Hong Kong
     flag: img/flags/hk.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Francia
     flag: img/flags/fr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para España
     flag: img/flags/es.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Alemania
     flag: img/flags/de.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM para Australia
     flag: img/flags/au.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en Sierra Leona: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en Sierra Leona (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (Sierra-Leone) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Sierra-Leone"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para Sierra Leona"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "Orange y Africell venden en el aeropuerto de Lungi y en tiendas del centro de Freetown."
+      esim_title: "Activación instantánea sin colas"
+      esim_desc: "Con Africell la SIM se activa en tienda y puede tardar; con Roami escaneas un QR en 1 minuto al aterrizar en Freetown."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "Sierra Leona exige registrar la SIM con pasaporte."
+      esim_title: "Cero trámites de identidad"
+      esim_desc: "En Sierra Leona, olvídate del registro obligatorio: la eSIM se instala sin escanear el pasaporte ni facilitar datos personales."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "En Sierra Leona, fuera del país el roaming se factura aparte."
+      esim_title: "Sin FUP oculto"
+      esim_desc: "En Sierra Leona, frente a las condiciones de roaming de las SIM locales, la eSIM no recorta datos ni aplica límites de uso justo sorpresa."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "Los paquetes arrancan en unos 3 $, con ciclos de 30 días."
+      esim_title: "Duración a tu medida"
+      esim_desc: "La eSIM ajusta la validez a tu estancia, desde $10.99, mientras las SIM locales fuerzan recargas de 30 días."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "En Sierra Leona, el uso compartido depende del paquete contratado."
+      esim_title: "Tethering sin penalización"
+      esim_desc: "Usa la eSIM como hotspot sin recargos, algo no siempre permitido en las prepagadas de Africell."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "En Sierra Leona, la recarga se hace con cupones en efectivo y con mobile money."
+      esim_title: "Pago online con tu tarjeta"
+      esim_desc: "Sin efectivo ni cupones como en las recargas de Africell: la eSIM se compra con Visa, Mastercard, AMEX o PayPal."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "La atención se presta en inglés y krio."
+      esim_title: "Asistencia sin horarios"
+      esim_desc: "La eSIM ofrece atención en español 24/7, sin depender del horario de las tiendas de Africell."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para Sierra Leona: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "globe"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "La red más fuerte, siempre"
+        desc: "Cobertura urbana en Freetown; limitada en el interior del país. En Sierra Leona la eSIM salta a la mejor red para evitar zonas débiles."
+      - icon: "tower-observation"
+        icon_bg: "bg-rose-100"
+        icon_color: "text-rose-600"
+        title: "Sin sobrecostes fuera de la red"
+        desc: "Fuera del país el roaming se factura aparte. Sin tarifas extra por datos al cruzar fronteras desde Sierra Leona."
+      - icon: "wifi"
+        icon_bg: "bg-green-100"
+        icon_color: "text-green-600"
+        title: "Comparte datos sin límites"
+        desc: "El uso compartido depende del paquete contratado. En Sierra Leona puedes usar el móvil como hotspot cuando quieras."
+      - icon: "hourglass-empty"
+        icon_bg: "bg-amber-100"
+        icon_color: "text-amber-600"
+        title: "Duración a tu medida"
+        desc: "Los paquetes arrancan en unos 3 $, con ciclos de 30 días. Elige la duración exacta de tu viaje en Sierra Leona desde $10.99."
 ---

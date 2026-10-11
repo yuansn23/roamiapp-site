@@ -1,6 +1,6 @@
 ---
 title: 'Oman eSIM 2026: Guía de Ciudades y Redes | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -16,11 +16,11 @@ modal:
   text_default: "Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIMGo</strong>.<br>Los nuevos clientes disfrutan de un 20% de descuento, código promocional: web20"
   text_android: "Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>.<br>Los nuevos clientes disfrutan de un 20% de descuento, código promocional: web20"
 seo:
-  title: 'eSIM Omán desde $1.99: 5G Ilimitado en todo Omán'
-  description: Compara planes eSIM para Omán con 5G rápido en Mascate, Salalah, Nizwa. Guía de cobertura Omantel, Ooredoo y Vodafone para turistas y viajeros. Activación instantánea con QR desde $1.99.
+  title: 'eSIM Omán desde $5.99: 5G Ilimitado en todo Omán'
+  description: Compara planes eSIM para Omán con 5G rápido en Mascate, Salalah, Nizwa. Guía de cobertura Omantel, Ooredoo y Vodafone para turistas y viajeros. Activación instantánea con QR desde $5.99.
   keywords: eSIM Omán, comprar eSIM Omán, mejor eSIM Omán, eSIM viaje Omán, Omantel Omán, Ooredoo Omán, Vodafone Omán, eSIM Mascate, eSIM Salalah, eSIM Nizwa, eSIM prepago Omán, 5G eSIM Omán
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 5.99
+  high_price: 67.99
 order_summary:
   title: Plan Seleccionado
   label_data: Datos incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de Omán para la mejor señal
 plans_title: 'Compra eSIM Omán: Planes para cada duración de viaje'
 plans_data:
-  7 Days:
+  7 días:
   - spec: 1GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes de negocios cortos
@@ -121,7 +121,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '6.00'
-  30 Days:
+  30 días:
   - spec: 3GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para hacer turismo
@@ -163,7 +163,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.27'
-  15 Days:
+  15 días:
   - spec: 5GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes en profundidad
@@ -205,7 +205,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '4.27'
-  3 Days:
+  3 días:
   - spec: 3GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para hacer turismo
@@ -355,50 +355,128 @@ related_products:
   items:
   - name: eSIM Estados Unidos
     flag: img/flags/us.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Reino Unido
     flag: img/flags/gb.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Europa
     flag: img/flags/eu.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM Canadá
     flag: img/flags/ca.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Turquía
     flag: img/flags/tr.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM China
     flag: img/flags/cn.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Japón
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Francia
     flag: img/flags/fr.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM España
     flag: img/flags/es.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Alemania
     flag: img/flags/de.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en Omán: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en Omán (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (Oman) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Oman"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para Omán"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "Omantel y Ooredoo tienen mostrador en el aeropuerto de Mascate, tras la aduana, y Omantel suele tener menos cola."
+      esim_title: "Activación instantánea sin colas"
+      esim_desc: "Con Omantel la SIM se activa en tienda y puede tardar; con Roami escaneas un QR en 1 minuto al aterrizar en Mascate."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "Omán exige registrar la SIM con pasaporte."
+      esim_title: "Cero trámites de identidad"
+      esim_desc: "En Omán, olvídate del registro obligatorio: la eSIM se instala sin escanear el pasaporte ni facilitar datos personales."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "El roaming fuera del país se factura a tarifas altas."
+      esim_title: "Sin FUP oculto"
+      esim_desc: "En Omán, frente a las condiciones de roaming de las SIM locales, la eSIM no recorta datos ni aplica límites de uso justo sorpresa."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "Omantel vende Tourist de 5GB por 3 OMR (7 días) y de 15GB por 6 OMR (30 días)."
+      esim_title: "Duración a tu medida"
+      esim_desc: "La eSIM ajusta la validez a tu estancia, desde $5.99, mientras las SIM locales fuerzan recargas de 30 días."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "En Omán, el tethering está habilitado, aunque ciertas tarifas lo limitan durante las horas punta."
+      esim_title: "Tethering sin penalización"
+      esim_desc: "Usa la eSIM como hotspot sin recargos, algo no siempre permitido en las prepagadas de Omantel."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "En Omán, la recarga se hace online o en tienda con tarjeta local."
+      esim_title: "Pago online con tu tarjeta"
+      esim_desc: "Sin efectivo ni cupones como en las recargas de Omantel: la eSIM se compra con Visa, Mastercard, AMEX o PayPal."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "En Omán, la atención se presta en árabe e inglés."
+      esim_title: "Asistencia sin horarios"
+      esim_desc: "La eSIM ofrece atención en español 24/7, sin depender del horario de las tiendas de Omantel."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para Omán: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "shield"
+        icon_bg: "bg-teal-100"
+        icon_color: "text-teal-600"
+        title: "Sin cargos ocultos ni caducidad"
+        desc: "Las prepagadas locales pierden saldo si no se recargan con frecuencia. Con Roami no pagas mantenimiento ni pierdes saldo por inactividad en Omán."
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "Recarga sin cupones locales"
+        desc: "La recarga se hace online o en tienda con tarjeta local. Con Roami pagas con tarjeta internacional durante tu estancia en Omán."
+      - icon: "globe"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "Cobertura multi-red"
+        desc: "Excelente cobertura en Mascate y Salalah; irregular en el desierto y en las montañas. La eSIM elige la red más potente disponible en Omán sin configuración manual."
+      - icon: "hourglass-empty"
+        icon_bg: "bg-amber-100"
+        icon_color: "text-amber-600"
+        title: "Paga solo los días que usas"
+        desc: "Omantel vende Tourist de 5GB por 3 OMR (7 días) y de 15GB por 6 OMR (30 días). Paga solo los días que estarás en Omán, sin bloques de 30 días."
 ---

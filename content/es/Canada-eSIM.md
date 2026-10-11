@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Canadá | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:04:25+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Rogers, Bell, Telus
   competitors: Airalo, Holafly, Nomad, GigSky, Ubigi
   main_cities: Toronto, Vancouver, Montreal, Calgary, Ottawa
-  main_packages: 3/7/15/30 días, datos ilimitados
+  main_packages: 3/7/15/30 días, 1 GB a 30 GB e ilimitado en 3 y 7 días
 modal:
   title: ¡Actualización del servicio!
   btn_text: Continuar
@@ -18,9 +18,11 @@ modal:
   text_android: |-
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
-  title: eSIM Estados Unidos | Alta Velocidad y Roaming Incluido
-  description: Con Roami en EE.UU., disfruta de Internet estable, datos ilimitados
-    y cobertura total. Ideal para viajes de negocios o turismo.
+  title: eSIM Canadá | Alta Velocidad y Roaming Incluido
+  low_price: 3.99
+  high_price: 59.99
+  description: Compara la eSIM Canadá de Roami con la SIM prepagada local — datos en las redes Rogers
+    y Bell desde $3.99, con planes de 1 GB a 30 GB y activación por QR.
   keywords: eSIM Canadá, datos móviles Canadá, viajar a Canadá, internet ilimitado
     Canadá, Roaming Canadá, eSIM para turistas Canadá
 order_summary:
@@ -390,7 +392,7 @@ faq_section:
         uso justo solo se aplica en caso de consumo extremo (por ejemplo, transmisión
         4K continua durante varios días). La navegación habitual, redes sociales,
         videollamadas y GPS no están limitados.
-        Por solo $1.99/GB puedes navegar a velocidades 5G de hasta 300 Mbps. Roami ofrece planes de 1GB a ilimitados, todos con activacion en menos de 2 minutos.
+        Los planes de datos de Roami comienzan en $3.99 (1 GB, 7 días) y llegan hasta $59.99 (30 GB, 30 días). Roami ofrece planes de 1GB a ilimitados, todos con activacion en menos de 2 minutos.
     - q: ¿La eSIM para Canadá es más segura que una tarjeta SIM física?
       a: |
         Las eSIM son mas seguras que las SIM fisicas porque estan integradas en el dispositivo y no pueden extraerse ni clonarse.
@@ -424,13 +426,11 @@ faq_section:
         Pero puedes mantener tu SIM fisica activa en modo dual SIM para recibir llamadas y SMS mientras usas los datos de Roami.
         Configura la eSIM Roami para datos moviles y tu SIM habitual para llamadas y SMS.
         Asi sigues recibiendo verificaciones bancarias y mensajes de tu operador, sin pagar roaming de datos que es lo mas caro.
-    - q: ¿Puedo seguir recibiendo llamadas en mi tarjeta SIM doméstica mientras uso
-        la eSIM para Canadá?
+    - q: ¿Tiene algún coste mantener mi SIM doméstica activa junto a la eSIM para Canadá?
       a: |
-        Si, la eSIM para Canada admite VoLTE y voz HD si tu dispositivo lo permite.
-        Puedes usar la eSIM para datos mientras mantienes tu SIM fisica para llamadas en modo dual SIM.
-        Esto es util para recibir llamadas de tu operador habitual sin costos de roaming.
-        La calidad de las videollamadas (WhatsApp, FaceTime) es excelente con la velocidad 5G que ofrece Roami en las principales ciudades de Canada.
+        Depende de tu operador de origen: recibir SMS suele ser gratuito en roaming, pero las llamadas y los datos de tu SIM doméstica pueden generar cargos.
+        Por eso recomendamos dejar la eSIM Roami como línea de datos y desactivar el roaming de datos en tu SIM doméstica.
+        Así mantienes tu número para llamadas y SMS importantes sin pagar datos en roaming.
     - q: ¿Cómo funciona el roaming internacional con la eSIM para Canadá en países
         vecinos?
       a: La eSIM para Canadá está optimizada principalmente para Canadá. Para viajes
@@ -441,6 +441,21 @@ faq_section:
         correo electrónico. La validez comienza solo cuando tu teléfono se conecta
         por primera vez a una de nuestras redes asociadas (Rogers / Bell) en Canadá.
         Así, solo pagas por los días que realmente estás en el país.
+    - q: ¿La eSIM para Canadá incluye número de teléfono o es solo de datos?
+      a: |
+        La eSIM Roami para Canadá es solo de datos: no incluye un número de teléfono local canadiense.
+        Para llamadas y SMS puedes mantener tu SIM física activa en modo dual SIM mientras los datos del viaje van por la eSIM.
+        Si necesitas un número canadiense real para llamar a servicios locales, tendrías que contratar una SIM prepagada local con número, que exige registro con pasaporte.
+    - q: ¿Cuál es la mejor eSIM para Canadá y cuánto cuesta?
+      a: |
+        Para la mayoría de viajeros, la mejor eSIM para Canadá es una eSIM de datos prepago de activación inmediata y sin registro.
+        La eSIM Roami para Canadá funciona sobre Rogers y Bell y se instala con un código QR antes de volar.
+        Los precios van de $3.99 (1 GB, 7 días) a $59.99 (30 GB, 30 días); también hay planes ilimitados de 3 días ($22.99) y 7 días ($50.99).
+    - q: ¿La eSIM para Canadá funciona en Toronto, Vancouver y Montreal?
+      a: |
+        Sí. La eSIM para Canadá funciona en Toronto, Vancouver, Montreal, Calgary y Ottawa, y en los principales aeropuertos internacionales.
+        La cobertura 5G se concentra en las grandes ciudades; en rutas de montaña o zonas del norte puede limitarse a 4G.
+        Si vas a hacer un viaje por carretera largo, revisa la página de cobertura antes de comprar.
   - id: faq-airport
     icon: plane
     tab_title: Aeropuertos
@@ -744,99 +759,8 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Canada eSIM vs Physical SIM: Which Is Better for Travel?'
-  subtitle: "Comparativa de SIM prepagadas locales canadienses y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Canada) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Canada"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Canadá"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Encuentra respuestas sobre la eSIM para Canadá. Compara precios, descubre la mejor red y como mantenerte conectado durante todo el viaje."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las colas en tiendas como Walmart para comprar una SIM de Public Mobile o el pago de $20 por la SIM de Koodo. Con Roami eSIM, activas en línea en un minuto al llegar a Toronto o Vancouver."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Para activar una SIM prepagada en Canadá, se requiere un pasaporte y, en algunos casos, una tarjeta de crédito con dirección canadiense (Telus) o una tarjeta bancaria de EE. UU. o Canadá (Public Mobile)."
-      esim_title: "Sin pasaporte ni registro"
-      esim_desc: "Olvídate de los requisitos de pasaporte y dirección canadiense de Telus o de la tarjeta bancaria de EE. UU./Canadá de Public Mobile. Roami eSIM no requiere KYC, solo conexión a internet."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Rogers y Fido no permiten roaming en EE. UU. desde 2022; Chatr cobra $36/MB por datos en roaming internacional. Freedom Mobile ofrece roaming en EE. UU. y México pero con un límite de 30 días por ciclo bajo su política de uso justo (FUP)."
-      esim_title: "Roaming global sin restricciones"
-      esim_desc: "Mientras que Rogers bloquea el roaming en EE. UU. y Chatr cobra $36/MB, Roami eSIM ofrece datos en más de 100 países sin límites de uso justo, perfecto para viajes entre Canadá y EE. UU."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Los planes prepagados canadienses tienen ciclos de 30 días, como el plan de $40/30 días de Rogers con 2.5 GB, o el de $35/30 días de Chatr con 1 GB. Un turista que viaja 7 días y compra un plan de 30 días desperdicia más del 75% del valor del plan."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo forzado de 30 días de Rogers ($40/2.5 GB) o Lucky Mobile ($30/1.5 GB), Roami ofrece planes de 7 días desde $1.99/GB, ahorrando hasta un 75% del costo para estancias cortas."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "No se menciona explícitamente en la fuente, pero según el conocimiento del mercado, la mayoría de los operadores canadienses permiten tethering, aunque con límites de velocidad; por ejemplo, los planes de Chatr limitan la velocidad a 3G (10 Mbps) en planes de bajo costo."
-      esim_title: "Tethering ilimitado sin límites"
-      esim_desc: "Mientras que los planes de Chatr limitan la velocidad a 3G (10 Mbps), Roami eSIM permite tethering a máxima velocidad (hasta 150 Mbps) sin restricciones, ideal para compartir datos con otros dispositivos."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Rogers y Fido rechazan tarjetas de crédito extranjeras en tiendas y en línea; Telus exige una tarjeta de crédito con dirección canadiense. Public Mobile solo acepta tarjetas bancarias de EE. UU. o Canadá. Los métodos de pago comunes son Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal."
-      esim_title: "Pagos globales sin complicaciones"
-      esim_desc: "Evita el rechazo de tarjetas extranjeras de Rogers o la exigencia de dirección canadiense de Telus. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, sin cargos ocultos."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "La atención al cliente de los operadores canadienses suele ser en inglés y francés, con horario limitado. No se menciona soporte en línea para prepago, pero según el conocimiento del mercado, el soporte telefónico está disponible de lunes a viernes de 9 a 17 horas."
-      esim_title: "Soporte 24/7 en múltiples idiomas"
-      esim_desc: "Mientras que el soporte de los operadores canadienses es limitado a horario laboral, Roami ofrece atención al cliente 24/7 en español e inglés, resolviendo cualquier problema al instante."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "wifi"
-
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        desc: "Los planes de <b>Chatr</b> limitan la velocidad a 3G (10 Mbps) en opciones económicas. Roami eSIM permite tethering a máxima velocidad (hasta <b>150 Mbps</b>), ideal para compartir datos en viajes."
-      - icon: "clock"
-
-        icon_bg: "bg-sky-100"
-        icon_color: "text-sky-600"
-        desc: "Las SIM de <b>Koodo</b> requieren configurar el APN manualmente (sp.koodo.com). Roami eSIM se activa automáticamente al escanear un código QR, sin necesidad de ajustes."
-      - icon: "tower-observation"
-
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        desc: "Los planes de <b>Rogers</b> y <b>Fido</b> no permiten roaming en EE. UU. desde 2022, y <b>Chatr</b> cobra <b>$36/MB</b> por datos internacionales. Roami eSIM ofrece roaming en más de 100 países sin límites de uso justo."
-      - icon: "shield"
-
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        desc: "Al usar una SIM física canadiense, debes extraer tu SIM doméstica, perdiendo acceso a bancos y apps. Roami eSIM funciona en modo dual SIM, manteniendo tu número activo."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
-  title: "¿Cuál es la verdadera diferencia entre eSIM y SIM física en Canadá?"
+  title: "La verdadera diferencia entre eSIM y SIM física en Canadá: comparativa"
   subtitle: "Comparativa de SIM prepagadas locales canadienses y soluciones eSIM (referencia 2024/2025)"
   citation:
     text: "Fuente: Prepaid Data SIM Card Wiki (Canada) + sitios oficiales de operadores locales"
@@ -869,7 +793,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Los planes prepagados canadienses tienen ciclos de 30 días. Por ejemplo, Chatr ofrece $35/30 días por 1 GB+5 GB extra. Un turista que viaja 7 días y compra un plan de $35 desperdicia el 77% del valor del plan."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "Los planes prepagados canadienses son de 30 días obligatorios. Por ejemplo, Chatr cobra $35 por 1 GB + 5 GB extra. Con Roami, elige planes de 7 días desde $1.99/GB, ahorrando hasta un 77% del costo si viajas solo una semana."
+      esim_desc: "Los planes prepagados canadienses son de 30 días obligatorios. Por ejemplo, Chatr cobra $35 por 1 GB + 5 GB extra. Con Roami, elige planes de 7 días desde $3.99, ahorrando hasta un 77% del costo si viajas solo una semana."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -881,7 +805,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Rogers y Fido rechazan tarjetas de crédito extranjeras en tiendas y online. Telus exige dirección canadiense para pagos online. Public Mobile solo acepta tarjetas de EE. UU. o Canadá para activación eSIM. Koodo es la excepción y acepta tarjetas internacionales."
       esim_title: "Pagos globales sin complicaciones"
-      esim_desc: "Rogers y Telus rechazan tarjetas extranjeras. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal. Sin necesidad de efectivo ni tarjetas canadienses. Paga fácilmente desde cualquier país."
+      esim_desc: "Rogers y Telus rechazan tarjetas extranjeras. En Roami se puede pagar con Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal. Sin necesidad de efectivo ni tarjetas canadienses. Paga fácilmente desde cualquier país."
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
@@ -891,7 +815,7 @@ market_analysis:
 
   # =============== Módulo Veredicto de Expertos ===============
   expert_verdict:
-    title: "eSIM para Canadá: la solución más inteligente yeconómica frente a la SIM prepagada local"
+    title: "eSIM para Canadá: la solución más inteligente y económica frente a la SIM prepagada local"
     cards:
       - icon: "shield"
         icon_bg: "bg-sky-100"
@@ -901,7 +825,7 @@ market_analysis:
       - icon: "hourglass-empty"
         icon_bg: "bg-amber-100"
         icon_color: "text-amber-600"
-        title: "Planes flexibles que se adaptan atu viaje"
+        title: "Planes flexibles que se adaptan a tu viaje"
       - icon: "wifi"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
@@ -910,6 +834,6 @@ market_analysis:
       - icon: "globe"
         icon_bg: "bg-teal-100"
         icon_color: "text-teal-600"
-        title: "Cobertura nacional sinzonas muertas"
+        title: "Cobertura nacional sin zonas muertas"
         desc: "Rogers no tiene cobertura en el norte de Canadá (Yukón, Territorios del Noroeste, Nunavut). Roami eSIM se conecta a las redes de <b>Telus y Bell</b>, que ofrecen la mejor cobertura del país, incluyendo áreas remotas."
 ---

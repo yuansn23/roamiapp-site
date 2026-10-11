@@ -1,6 +1,6 @@
 ---
 title: 'eSIM para Macedonia : Guía de ciudades y redes | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -16,11 +16,11 @@ modal:
   text_default: "Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIMGo</strong>.<br>Los nuevos clientes disfrutan de un 20% de descuento, código promocional: web20"
   text_android: "Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>.<br>Los nuevos clientes disfrutan de un 20% de descuento, código promocional: web20"
 seo:
-  title: 'eSIM Macedonia desde $1.99: Cobertura 5G ilimitada'
-  description: Compara planes eSIM para Macedonia con 5G rápido en Skopje, Ohrid, Bitola. Guía de cobertura de A1 Macedonia, Telekom Macedonia y Lycamobile para turistas y viajeros. Activación QR instantánea desde $1.99.
+  title: 'eSIM Macedonia desde $4.99: Cobertura 5G ilimitada'
+  description: Compara planes eSIM para Macedonia con 5G rápido en Skopje, Ohrid, Bitola. Guía de cobertura de A1 Macedonia, Telekom Macedonia y Lycamobile para turistas y viajeros. Activación QR instantánea desde $4.99.
   keywords: eSIM Macedonia, comprar eSIM Macedonia, mejor eSIM Macedonia, eSIM de viaje Macedonia, A1 Macedonia Macedonia, Telekom Macedonia Macedonia, Lycamobile Macedonia, eSIM Skopje, eSIM Ohrid, eSIM Bitola, eSIM prepago Macedonia, 5G eSIM Macedonia
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 4.99
+  high_price: 94.99
 order_summary:
   title: Plan seleccionado
   label_data: Datos incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de Macedonia para la mejor señal
 plans_title: 'Compra eSIM para Macedonia: Planes para cada duración de viaje'
 plans_data:
-  7 Days:
+  7 días:
   - spec: 1GB
     data: 5G/4G/LTE de alta velocidad
     desc: Perfecto para viajes de negocios cortos
@@ -88,7 +88,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '6.43'
-  30 Days:
+  30 días:
   - spec: 10GB
     data: 5G/4G/LTE de alta velocidad
     desc: Perfecto para viajes en profundidad
@@ -122,7 +122,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.83'
-  3 Days:
+  3 días:
   - spec: Ilimitado
     data: Alta velocidad ilimitada
     desc: Uso de datos sin preocupaciones
@@ -131,7 +131,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '7.66'
-  15 Days:
+  15 días:
   - spec: Ilimitado
     data: Alta velocidad ilimitada
     desc: Uso de datos sin preocupaciones
@@ -256,50 +256,128 @@ related_products:
   items:
   - name: eSIM Estados Unidos
     flag: img/flags/us.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Reino Unido
     flag: img/flags/gb.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Europa
     flag: img/flags/eu.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM Canadá
     flag: img/flags/ca.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Turquía
     flag: img/flags/tr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM China
     flag: img/flags/cn.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Japón
     flag: img/flags/jp.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Francia
     flag: img/flags/fr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM España
     flag: img/flags/es.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Alemania
     flag: img/flags/de.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en Macedonia del Norte: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en Macedonia del Norte (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (Macedonia) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Macedonia"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para Macedonia del Norte"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "Telekom (T-Mobile) y A1 venden en el aeropuerto de Skopje y en tiendas del centro de la ciudad."
+      esim_title: "Instalación antes de volar"
+      esim_desc: "Configura la eSIM en minutos desde casa y llega a Skopje con datos, sin paradas en tiendas de A1 Macedonia."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "Se exige identificación para registrar la prepagada."
+      esim_title: "Sin pasaporte ni registro"
+      esim_desc: "En Macedonia del Norte: Roami no pide pasaporte ni datos biométricos. Activa sin compartir documentos personales."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "Macedonia del Norte no está en la UE, así que los planes europeos se facturan como roaming."
+      esim_title: "Datos completos fuera de la red local"
+      esim_desc: "Algunas prepagadas de A1 Macedonia recortan los GB al salir del país; la eSIM conserva el volumen contratado en roaming."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "Los paquetes turísticos arrancan en unos 5 $, siempre con ciclos de 30 días."
+      esim_title: "Sin días muertos"
+      esim_desc: "Si te quedas una semana, un plan local de 30 días desperdicia buena parte del saldo. La eSIM arranca desde $4.99 en planes cortos."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "En Macedonia del Norte, el uso compartido depende del operador y de la promoción activa."
+      esim_title: "Datos para todos tus dispositivos"
+      esim_desc: "En Macedonia del Norte, con la eSIM compartes la conexión sin la penalización de tethering que aplican ciertas SIM locales."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "En Macedonia del Norte, la recarga se hace en tienda o quiosco con efectivo y tarjeta local."
+      esim_title: "Sin barreras de cobro"
+      esim_desc: "En Macedonia del Norte, con la eSIM pagas con Visa o Mastercard desde cualquier país, sin depender de los puntos de recarga físicos."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "La atención se presta en macedonio, con inglés en las tiendas."
+      esim_title: "Soporte en español a cualquier hora"
+      esim_desc: "En Macedonia del Norte, frente a la atención local, limitada al idioma del país, la eSIM responde en español los 365 días."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para Macedonia del Norte: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "shield"
+        icon_bg: "bg-teal-100"
+        icon_color: "text-teal-600"
+        title: "Cero cuotas de mantenimiento"
+        desc: "Los ciclos obligatorios de 30 días se desperdician en estancias cortas. La eSIM se paga una sola vez para tu viaje en Macedonia del Norte, sin cuotas recurrentes."
+      - icon: "clock"
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "Conectado en 60 segundos"
+        desc: "Telekom (T-Mobile) y A1 venden en el aeropuerto de Skopje y en tiendas del centro de la ciudad. En Macedonia del Norte la eSIM se activa sola; no dependes del horario de las tiendas locales."
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "Pago internacional sin fricción"
+        desc: "La recarga se hace en tienda o quiosco con efectivo y tarjeta local. Paga tu plan para Macedonia del Norte con Visa, Mastercard, AMEX o PayPal."
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "Sin registro de identidad"
+        desc: "Macedonia del Norte exige identificarse para registrar la prepagada. El registro obligatorio en Macedonia del Norte no se aplica a la eSIM."
 ---

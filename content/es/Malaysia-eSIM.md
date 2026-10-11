@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Malasia | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:04:17+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,6 +19,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Malasia | Alta Velocidad y Roaming Incluido
+  low_price: 1.99
+  high_price: 65.99
   description: Viaja a Malasia con Roami y obtén conexión rápida, datos sin límite
     y auto-conexión. Perfecto para Kuala Lumpur y sus playas.
   keywords: eSIM Malasia, viajar a Malasia, datos móviles Malasia, cobertura Malasia,
@@ -441,7 +443,7 @@ faq_section:
         Galaxy S20+/Note20+, Google Pixel 3a+) son compatibles con eSIM. Instalas
         la eSIM para Malasia escaneando el código QR en los ajustes móviles. Las redes
         Celcom / Maxis ofrecen una excelente cobertura 5G/4G en Malasia.
-        Los precios de Roami empiezan en $1.99/GB. El plan mas popular es 5GB/15 dias por $9.99. La velocidad 5G alcanza hasta 300 Mbps en ciudades principales.
+        Puedes empezar desde $1.99 (1 GB, 3 días) y subir hasta $65.99 por el plan más completo (datos ilimitados, 30 días). El plan con mejor relación calidad-precio es el de 5 GB para 3 días, por $4.99. La velocidad 5G alcanza hasta 300 Mbps en ciudades principales.
   - id: faq-airport
     icon: plane
     tab_title: Aeropuertos
@@ -747,97 +749,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Malaysia eSIM vs SIM Card: The Complete Comparison Guide'
-  subtitle: "Comparativa de SIM prepagadas locales malasias y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Malaysia) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Malaysia"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Malasia"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Encuentra respuestas sobre la eSIM para Malasia. Compara precios, descubre la mejor red y como mantenerte conectado durante todo el viaje."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las colas en tiendas del aeropuerto de Kuala Lumpur para comprar la SIM Digi (RM 20, 7 días). Con Roami eSIM, activas en línea en 1 minuto al llegar."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "马来西亚强制实名制，Digi游客卡需在机场门店凭护照购买；常规SIM卡需通过App上传身份证件完成KYC注册。"
-      esim_title: "Sin pasaporte ni registro"
-      esim_desc: "A diferencia de Digi o Maxis que exigen pasaporte y registro en app, Roami eSIM no requiere KYC, protegiendo tu privacidad."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Celcom在亚洲漫游时每日流量包仅1GB，且自动触发扣费；U Mobile的“无限”漫游实际高速流量仅500MB/天，超出后降速。"
-      esim_title: "Roaming global sin sorpresas"
-      esim_desc: "Mientras Celcom limita el roaming asiático a 1 GB/día con auto-cobro, Roami ofrece datos en múltiples países sin restricciones de FUP."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Digi游客卡强制7天或15天周期，RM 20起；月租套餐如Celcom 30天5GB RM 30，短期旅客浪费严重。"
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo forzado de 7 días de Digi (RM 20) o 30 días de Celcom (RM 30), Roami ofrece planes de 7 días desde 1,99 $/GB, ahorrando hasta un 75% en viajes cortos."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "Celcom的“无限”流量包明确限制热点分享，7天套餐仅1GB热点配额；U Mobile所有“无限”套餐严格限制热点共享流量。"
-      esim_title: "Tethering ilimitado"
-      esim_desc: "Mientras Celcom limita el hotspot a 1 GB en su plan 'ilimitado', Roami permite compartir datos sin restricciones."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "多数本地卡如Unifi Mobile需通过本地银行或特定电子钱包充值，国际信用卡充值可能受阻。"
-      esim_title: "Pagos globales sin complicaciones"
-      esim_desc: "Olvídate de las recargas con métodos locales. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Basado en conocimiento general, la atención al cliente de operadores locales suele ser en malayo e inglés, con horario limitado."
-      esim_title: "Soporte 24/7 en español"
-      esim_desc: "Mientras los operadores locales ofrecen atención limitada en malayo/inglés, Roami brinda soporte en español las 24 horas."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "credit-card"
-
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        desc: "Las recargas locales requieren métodos malasios. Roami acepta <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal</b>."
-      - icon: "shield"
-
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        desc: "Al no requerir KYC, Roami protege tu información personal, a diferencia de los operadores locales que exigen pasaporte y datos biométricos."
-      - icon: "tower-observation"
-
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        desc: "<b>Celcom</b> cobra RM 7.99/día por 1 GB en Asia, con auto-activación. <b>U Mobile</b> limita a 500 Mbps/día. Roami ofrece datos sin FUP en múltiples países."
-      - icon: "clock"
-
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        desc: "Evita las largas filas en tiendas del aeropuerto KLIA para comprar la SIM Digi. Roami se activa en 1 minuto."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "eSIM vs SIM física en Malasia: ¿cuál elegir para viajar?"
   subtitle: "Comparativa de SIM prepagadas locales malasias y soluciones eSIM (referencia 2024/2025)"
@@ -852,43 +763,43 @@ market_analysis:
     - icon: "store"
       title: "Adquisición y<br>activación"
       prepaid_title: ""
-      prepaid_desc: "Digi的游客SIM卡需在机场指定门店凭护照购买，RM 20含2GB互联网+1GB/天社交应用，7天有效。"
+      prepaid_desc: "La SIM turística de Digi debe comprarse con pasaporte en tiendas designadas del aeropuerto; por RM 20 incluye 2 GB de internet más 1 GB al día para redes sociales, con 7 días de validez."
       esim_title: "Activación instantánea sin colas"
       esim_desc: "Evita las largas filas en los mostradores del aeropuerto de Kuala Lumpur para comprar la SIM Digi (RM 20, 7 días). Con Roami eSIM, activas en línea en 1 minuto al llegar a Malasia."
     - icon: "id-card"
       title: "KYC y<br>registro de pasaporte"
       prepaid_title: ""
-      prepaid_desc: "马来西亚所有预付费SIM卡均需实名注册，Digi游客卡需在机场门店凭护照购买，常规卡需通过App上传身份证件完成KYC。"
+      prepaid_desc: "Todas las SIM prepagadas de Malasia exigen registro con nombre real. La tarjeta turística de Digi se compra en tiendas del aeropuerto con pasaporte, mientras que las tarjetas habituales requieren subir el documento de identidad a la aplicación para completar el KYC."
       esim_title: "Sin pasaporte ni registro"
       esim_desc: "A diferencia de Digi y Maxis que exigen pasaporte y registro en tienda o app, Roami eSIM no requiere KYC. Actívala al instante sin compartir datos personales."
     - icon: "globe"
       title: "Roaming<br>internacional"
       prepaid_title: ""
-      prepaid_desc: "Celcom在亚洲漫游时每日流量包仅1GB，自动触发扣费；U Mobile的“无限”漫游实际高速流量仅500MB/天，超出后降速。"
+      prepaid_desc: "El paquete diario de roaming de Celcom en Asia incluye solo 1 GB y se activa con cargo automático; el roaming «ilimitado» de U Mobile ofrece en realidad solo 500 MB al día a alta velocidad antes de reducir la velocidad."
       esim_title: "Roaming global sin sorpresas"
       esim_desc: "Mientras Celcom limita el roaming asiático a 1 GB/día con auto-cobro (RM 7.99/día), Roami ofrece planes multinacionales sin restricciones de FUP, perfecto para viajeros que cruzan fronteras."
     - icon: "calendar-xmark"
       title: "Ciclo de facturación y<br>costes desperdiciados"
       prepaid_title: ""
-      prepaid_desc: "Digi游客卡强制7天或15天周期，RM 20起；月租套餐如Celcom 30天5GB RM 30，短期旅客浪费严重。"
+      prepaid_desc: "La tarjeta turística de Digi obliga a ciclos de 7 o 15 días desde RM 20; los planes mensuales como el de Celcom (30 días, 5 GB por RM 30) generan un gran desperdicio en estancias cortas."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "Los planes locales como Digi (7 días mínimo RM 20) fuerzan a pagar por días no usados. Roami ofrece planes de datos de 7 días desde 1,99 $/GB, ajustados a tu estancia real."
+      esim_desc: "Los planes locales como Digi (7 días mínimo RM 20) fuerzan a pagar por días no usados. Roami ofrece planes de datos de 7 días desde $2.99, ajustados a tu estancia real."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
-      prepaid_desc: "Celcom的“无限”流量包明确限制热点分享，7天套餐仅1GB热点配额；U Mobile所有“无限”套餐严格限制热点共享流量。"
+      prepaid_desc: "El paquete «ilimitado» de Celcom limita expresamente el uso compartido (hotspot): el plan de 7 días solo incluye 1 GB de hotspot; todos los planes «ilimitados» de U Mobile restringen estrictamente el tethering."
       esim_title: "Tethering ilimitado sin trabas"
       esim_desc: "Celcom limita el hotspot a 1 GB en su plan 'ilimitado' de 7 días (RM 12). Con Roami, disfruta de tethering sin restricciones para compartir datos con todos tus dispositivos."
     - icon: "credit-card"
       title: "Recarga y<br>pago"
       prepaid_title: ""
-      prepaid_desc: "多数本地卡如Unifi Mobile需通过本地银行或特定电子钱包充值，国际信用卡充值可能受限。"
+      prepaid_desc: "La mayoría de las tarjetas locales, como Unifi Mobile, requieren recargar mediante un banco local o una cartera electrónica específica; la recarga con tarjetas internacionales puede estar restringida."
       esim_title: "Pagos globales sin complicaciones"
       esim_desc: "Olvídate de las recargas complicadas con tarjetas locales. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal para una compra segura y rápida."
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general, la atención al cliente de los operadores locales suele ser en malayo e inglés, con horario limitado."
+      prepaid_desc: "La atención al cliente de los operadores locales suele ser en malayo e inglés, con horario limitado."
       esim_title: "Soporte 24/7 en tu idioma"
       esim_desc: "Mientras la atención local suele ser solo en malayo e inglés con horario limitado, Roami ofrece soporte multilingüe 24/7 para resolver cualquier incidencia al instante."
 
@@ -909,7 +820,7 @@ market_analysis:
       - icon: "tower-observation"
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"
-        title: "Cobertura dual sinzonas muertas"
+        title: "Cobertura dual sin zonas muertas"
         desc: "Mientras <b>U Mobile</b> depende del roaming con Maxis y tiene cobertura limitada, Roami eSIM se conecta a las redes de <b>Celcom</b> y <b>Maxis</b>, garantizando señal en Kuala Lumpur, Penang y zonas rurales."
       - icon: "credit-card"
         icon_bg: "bg-emerald-100"

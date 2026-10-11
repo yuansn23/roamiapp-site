@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Dominica | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:05:41+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,6 +19,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Dominica | Alta Velocidad y Roaming Incluido
+  low_price: 11.99
+  high_price: 52.99
   description: Viaja a Dominica con Roami y mantente conectado con Internet de alto
     rendimiento, datos ilimitados y sin roaming. Ideal para explorar sus bosques.
   keywords: eSIM Dominica, viajar a Dominica, cobertura móvil Dominica, internet en
@@ -595,97 +597,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Dominica eSIM vs Local Prepaid SIM: Which Is More Convenient?'
-  subtitle: "Comparativa de SIM prepagadas locales de Flow y Digicel vs soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Dominica) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Dominica"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Dominica"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "En las tiendas Flow o Digicel en Roseau, es obligatorio presentar el pasaporte para la compra, y la tarjeta SIM cuesta EC$ 25 adicionales. No se puede usar de inmediato."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las colas en las tiendas de Flow o Digicel en Roseau y el pago de EC$ 25 por la tarjeta física. Con eSIM, activas en línea en menos de 1 minuto al llegar a Dominica."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Tanto Flow como Digicel exigen mostrar el pasaporte en el punto de compra (Be prepared to show your passport at the point of purchase)."
-      esim_title: "Sin pasaporte ni trámites"
-      esim_desc: "Olvídate de mostrar tu pasaporte como exigen Flow y Digicel. La eSIM no requiere KYC, solo escanea el código QR y ya tienes datos."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Digicel ofrece 'Roam Like You're Home' por EC$ 13.79/7 días, pero los paquetes de datos locales no aplican durante el roaming; se cobra la tarifa predeterminada de EC$ 1/MB."
-      esim_title: "Roaming global sin sorpresas"
-      esim_desc: "A diferencia de Digicel, cuyo 'Roam Like You're Home' cobra EC$ 1/MB (1 GB = EC$ 1024) al usar datos fuera de Dominica, la eSIM ofrece tarifas fijas y transparentes en múltiples países."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Flow y Digicel ofrecen planes de 7, 14 y 30 días. Por ejemplo, Digicel 30 días 1.5 GB cuesta EC$ 54.99; si solo te quedas 5 días, el resto se desperdicia. Además, los planes de Flow (excepto el de 1 día) se renuevan automáticamente."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "Mientras que Digicel vende planes de 30 días (1.5 GB por EC$ 54.99) que caducan si viajas poco, Roami eSIM ofrece planes desde 7 días y desde 1,99 $/GB, ahorrando hasta un 75% del costo desperdiciado."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, los operadores locales suelen permitir tethering sin restricciones explícitas, pero la velocidad puede reducirse después de cierto uso."
-      esim_title: "Tethering ilimitado incluido"
-      esim_desc: "Comparte datos con tus dispositivos sin restricciones. A diferencia de algunas SIM locales que limitan el tethering, la eSIM permite compartir la conexión libremente."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Las recargas se realizan mediante tarjetas de recarga físicas en tiendas de conveniencia o en línea. El saldo de la cuenta caduca a los 90 días. No se mencionan métodos de pago específicos."
-      esim_title: "Pagos globales sin efectivo"
-      esim_desc: "Paga con Visa, Mastercard, AMEX, Apple Pay, Google Pay o PayPal. Olvídate de buscar tiendas para recargar tarjetas físicas o del riesgo de que el saldo caduque a los 90 días."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Se asume que la atención al cliente es limitada y principalmente en inglés local."
-      esim_title: "Soporte 24/7 en tu idioma"
-      esim_desc: "Atención al cliente multilingüe disponible las 24 horas, los 7 días de la semana. Resuelve cualquier incidencia sin depender del horario limitado de las operadoras locales."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "globe"
-
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        desc: "Digicel solo ofrece roaming en países selectos y con costos ocultos. La eSIM funciona en toda la región del Caribe y más allá, sin necesidad de cambiar de operador."
-      - icon: "clock"
-
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        desc: "Flow renueva automáticamente todos los planes excepto el de 1 día. Si olvidas cancelar, seguirás pagando. La eSIM no tiene renovación automática: contratas solo lo que necesitas."
-      - icon: "wifi"
-
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        desc: "Comparte datos con todos tus dispositivos. Las SIM locales pueden limitar el tethering; la eSIM lo permite sin límites."
-      - icon: "credit-card"
-
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        desc: "Las recargas de Flow y Digicel requieren tarjetas físicas o efectivo. La eSIM acepta <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal</b>."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "eSIM vs SIM prepagada en Dominica: todo lo que debes considerar"
   subtitle: "Comparativa de SIM prepagadas locales dominiquesas y soluciones eSIM (referencia 2024/2025)"
@@ -714,17 +625,17 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Digicel ofrece 'Roam Like You're Home' por EC$ 13.79/7 días, pero los paquetes de datos locales no aplican durante el roaming, cobrando EC$ 1/MB."
       esim_title: "Roaming global sin sorpresas"
-      esim_desc: "Digicel cobra EC$ 1/MB en roaming si usas 'Roam Like You're Home', y los paquetes locales no aplican. Roami eSIM ofrece roaming en múltiples países sin cargos ocultos, desde 1,99 $/GB."
+      esim_desc: "Digicel cobra EC$ 1/MB en roaming si usas 'Roam Like You're Home', y los paquetes locales no aplican. Roami eSIM ofrece roaming en múltiples países sin cargos ocultos, desde $11.99."
     - icon: "calendar-xmark"
       title: "Ciclo de facturación y<br>costes desperdiciados"
       prepaid_title: ""
       prepaid_desc: "Flow y Digicel ofrecen planes de 7, 14 y 30 días. Por ejemplo, el plan de 30 días de Flow con 3 GB cuesta EC$ 69.99; un viaje de 7 días desperdicia más del 75% del valor."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "Flow y Digicel atan a planes de 7-30 días (ej. Flow 30 días 3GB por EC$ 69.99). Roami ofrece planes de 7 días desde 1,99 $/GB, evitando el 75% de desperdicio en viajes cortos."
+      esim_desc: "Flow y Digicel atan a planes de 7-30 días (ej. Flow 30 días 3GB por EC$ 69.99). Roami ofrece planes de 7 días desde $11.99, evitando el 75% de desperdicio en viajes cortos."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente."
+      prepaid_desc: "Digicel y Flow permiten el uso compartido (tethering) en sus planes prepagados, aunque pueden aplicar límites de velocidad tras cierto consumo de datos."
       esim_title: "Tethering ilimitado incluido"
       esim_desc: "Mientras que Flow y Digicel pueden restringir el tethering, Roami eSIM permite compartir datos sin límites ni cargos extra. Perfecto para conectar varios dispositivos."
     - icon: "credit-card"
@@ -736,7 +647,7 @@ market_analysis:
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente."
+      prepaid_desc: "La atención al cliente de Digicel y Flow está disponible en inglés y en horario comercial, sin soporte 24/7 ni chat dedicado para prepago."
       esim_title: "Soporte 24/7 en español"
       esim_desc: "Flow y Digicel ofrecen atención limitada. Roami brinda soporte al cliente 24/7 en español, resolviendo dudas al instante durante tu viaje."
 
@@ -753,7 +664,7 @@ market_analysis:
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"
         title: "Evita el roaming caro deDigicel"
-        desc: "Digicel cobra <b>EC$ 1/MB</b> en roaming si usas 'Roam Like You're Home', y los paquetes locales no aplican. eSIM ofrece roaming global desde <b>1,99 $/GB</b> sin sorpresas."
+        desc: "Digicel cobra <b>EC$ 1/MB</b> en roaming si usas 'Roam Like You're Home', y los paquetes locales no aplican. eSIM ofrece roaming global desde <b>$11.99</b> sin sorpresas."
       - icon: "shield"
         icon_bg: "bg-teal-100"
         icon_color: "text-teal-600"

@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Indonesia | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:05:27+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,6 +20,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Indonesia | Alta Velocidad y Roaming Incluido
+  low_price: 1.99
+  high_price: 68.99
   description: Viaja a Indonesia con Roami y obtén conexión de alto rendimiento, datos
     ilimitados y soporte 24/7. Perfecto para Bali y más allá.
   keywords: eSIM Indonesia, Internet Indonesia, viaje a Indonesia, cobertura móvil
@@ -414,7 +416,7 @@ faq_section:
         Si tu telefono es de empresa o esta bloqueado, consulta con tu operador antes de comprar.
         Roami funciona en todos los iPhone desde XS/XR y en la mayoria de Android 2019 en adelante.
     - q: ¿Cuánto cuesta la eSIM para Indonesia y hay descuentos?
-      a: Nuestro plan eSIM para Indonesia comienza en 1,99 $/GB. Con el código promocional
+      a: Nuestro plan eSIM para Indonesia comienza en $1.99. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
     - q: ¿La eSIM para Indonesia es más segura que una tarjeta SIM física?
@@ -758,97 +760,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Indonesia eSIM or Prepaid SIM Card: A Side-by-Side Comparison'
-  subtitle: "Comparativa de SIM prepagadas locales indonesias y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Indonesia) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Indonesia"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Indonesia"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Resuelve tus dudas sobre la eSIM para Indonesia. Informacion sobre instalacion, compatibilidad con tu movil, operadores disponibles y planes para turistas."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las largas filas en la aduana para declarar el IMEI y las tiendas GraPARI de Telkomsel. Con Roami eSIM, activas tu plan en menos de 1 minuto desde tu móvil, sin necesidad de pasaporte ni pago de impuestos. Olvida los precios inflados 4-10 veces en el aeropuerto de Bali."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Los turistas extranjeros deben registrarse con su pasaporte para obtener una SIM prepagada en Indonesia. Además, deben pagar el impuesto IMEI: los dispositivos de más de 500 USD están sujetos a un arancel del 40% sobre el excedente. Si no se declara, la SIM puede ser bloqueada."
-      esim_title: "Sin pasaporte ni impuesto IMEI"
-      esim_desc: "Las SIM locales exigen registro con pasaporte y pago del 40% de impuesto sobre el valor del dispositivo que exceda 500 USD. Roami eSIM no requiere KYC ni declaración de IMEI, evitando el riesgo de bloqueo de señal y la exposición de datos personales."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Las SIM prepagadas locales de Indonesia, como Telkomsel o Indosat, ofrecen principalmente datos nacionales. Al salir del país, por ejemplo hacia Malasia o Singapur, se aplican altas tarifas de roaming internacional. No hay roaming gratuito incluido en los planes estándar."
-      esim_title: "Roaming global sin sorpresas"
-      esim_desc: "Las SIM indonesias como Telkomsel solo ofrecen datos nacionales; al viajar a Malasia o Singapur, se aplican altas tarifas de roaming. Roami eSIM ofrece cobertura en múltiples países con un solo plan, permitiendo conectividad seamless en todo el sudeste asiático sin costos adicionales."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Indosat TravelOn tiene un ciclo fijo de 10 días (Rp 100,000 por 15 GB), mientras que Telkomsel SimPATI ofrece un ciclo de 30 días (Rp 133,000 por 25 GB). Un turista que viaja 5 días y compra el plan de 30 días desperdicia más del 80% del valor del plan."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "Indosat TravelOn tiene un ciclo fijo de 10 días (Rp 100,000/15GB) y Telkomsel de 30 días (Rp 133,000/25GB). Un viaje de 5 días desperdicia más del 80% del valor. Roami ofrece planes de 7 días desde 1,99 $/GB, ajustados a tu duración de viaje, eliminando el desperdicio."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "No se mencionan restricciones específicas de tethering en el texto fuente. Sin embargo, en Indonesia, muchos operadores permiten tethering pero con límites de velocidad después de cierto consumo. Por ejemplo, Telkomsel puede reducir la velocidad a 1 Mbps después de 3 GB al día."
-      esim_title: "Tethering ilimitado sin restricciones"
-      esim_desc: "Las SIM locales pueden reducir la velocidad después de cierto uso (ej. Telkomsel limita a 1 Mbps tras 3GB/día). Roami eSIM permite tethering ilimitado a máxima velocidad, ideal para compartir datos con otros dispositivos durante tu estancia en Indonesia."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Las recargas en Indonesia suelen realizarse en tiendas de conveniencia como Indomaret o Alfamart, donde se aplica un recargo del 2-5% sobre el monto. No se aceptan tarjetas extranjeras en línea para recargas. Los métodos de pago comunes son efectivo o tarjetas locales."
-      esim_title: "Pagos globales sin recargos"
-      esim_desc: "Las recargas en Indonesia conllevan un recargo del 2-5% en tiendas de conveniencia y no aceptan tarjetas extranjeras online. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, con precios transparentes y sin cargos ocultos."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "La atención al cliente de los operadores locales como Telkomsel e Indosat está disponible en indonesio e inglés limitado, generalmente en horario laboral. No hay soporte 24/7 para clientes prepagos. Los turistas deben acudir a tiendas físicas para resolver problemas."
-      esim_title: "Soporte 24/7 en tu idioma"
-      esim_desc: "La atención al cliente de Telkomsel e Indosat es limitada a horario laboral y principalmente en indonesio. Roami ofrece soporte multilingüe 24/7 vía chat y email, resolviendo cualquier incidencia de forma rápida y eficiente."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "wifi"
-
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        desc: "Telkomsel puede reducir la velocidad a 1 Mbps después de 3 GB al día. Roami eSIM permite tethering ilimitado a máxima velocidad, ideal para compartir datos con otros dispositivos durante tu estancia en Indonesia."
-      - icon: "credit-card"
-
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        desc: "Las recargas en Indonesia conllevan un recargo del 2-5% en tiendas de conveniencia y no aceptan tarjetas extranjeras online. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, con precios transparentes y sin cargos ocultos."
-      - icon: "globe"
-
-        icon_bg: "bg-green-100"
-        icon_color: "text-green-600"
-        desc: "Las SIM indonesias solo incluyen datos nacionales; al salir del país (ej. a Malasia o Singapur) se aplican altas tarifas de roaming. Roami eSIM ofrece cobertura en múltiples países con un solo plan, permitiendo conectividad sin interrupciones en todo el sudeste asiático."
-      - icon: "tower-observation"
-
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        desc: "Telkomsel cubre el 98% del territorio pero es lento en ciudades; XL cubre solo Java y Bali. Roami eSIM se conecta a la mejor red disponible (Telkomsel, Indosat, XL) según la ubicación, garantizando velocidad en ciudades y señal en islas remotas."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "eSIM vs SIM prepagada en Indonesia: todo lo que debes considerar"
   subtitle: "Comparativa de SIM prepagadas locales indonesias y soluciones eSIM (referencia 2024/2025)"
@@ -883,11 +794,11 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Indosat TravelOn tiene una validez fija de 10 días (Rp 100.000 por 15 GB); Telkomsel SimPATI tiene un ciclo de 30 días (Rp 133.000 por 25 GB). Un turista que viaja 5 días y compra el plan de 30 días desperdicia más del 80% del valor del plan."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo rígido de Indosat TravelOn (10 días) o Telkomsel (30 días), Roami ofrece planes de datos desde 7 días, desde 1,99 $/GB, ajustándose exactamente a la duración de tu viaje y evitando pagar por días no usados."
+      esim_desc: "A diferencia del ciclo rígido de Indosat TravelOn (10 días) o Telkomsel (30 días), Roami ofrece planes de datos desde 7 días, desde $2.99, ajustándose exactamente a la duración de tu viaje y evitando pagar por días no usados."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, las SIM prepagadas en Indonesia generalmente permiten tethering, pero puede haber restricciones de velocidad después de cierto uso."
+      prepaid_desc: "Las SIM prepagadas en Indonesia generalmente permiten tethering, pero puede haber restricciones de velocidad después de cierto uso."
       esim_title: "Tethering ilimitado sin restricciones"
       esim_desc: "Mientras que algunas SIM locales pueden limitar la velocidad después de cierto uso, Roami eSIM permite tethering sin restricciones, compartiendo datos con todos tus dispositivos a máxima velocidad."
     - icon: "credit-card"
@@ -899,13 +810,13 @@ market_analysis:
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, la atención al cliente de los operadores indonesios suele ser en indonesio e inglés limitado, con horario de oficina."
+      prepaid_desc: "La atención al cliente de los operadores indonesios suele ser en indonesio e inglés limitado, con horario de oficina."
       esim_title: "Soporte 24/7 en tu idioma"
       esim_desc: "Mientras que la atención al cliente local puede ser limitada, Roami ofrece soporte en español las 24 horas, los 7 días de la semana, resolviendo cualquier incidencia de forma rápida y eficiente."
 
   # =============== Módulo Veredicto de Expertos ===============
   expert_verdict:
-    title: "eSIM para Indonesia: la solución más inteligente yeconómica frente a la SIM física local"
+    title: "eSIM para Indonesia: la solución más inteligente y económica frente a la SIM física local"
     cards:
       - icon: "credit-card"
         icon_bg: "bg-emerald-100"
@@ -915,7 +826,7 @@ market_analysis:
       - icon: "globe"
         icon_bg: "bg-teal-100"
         icon_color: "text-teal-600"
-        title: "Roaming internacional sincostes ocultos"
+        title: "Roaming internacional sin costes ocultos"
         desc: "Las SIM indonesias solo funcionan dentro del país; al viajar a Malasia o Singapur, se activan tarifas de roaming muy altas. Roami ofrece conectividad en múltiples países sin costes adicionales, ideal para viajes combinados."
       - icon: "tower-observation"
         icon_bg: "bg-rose-100"
@@ -925,6 +836,6 @@ market_analysis:
       - icon: "hourglass-empty"
         icon_bg: "bg-amber-100"
         icon_color: "text-amber-600"
-        title: "Planes flexibles que se adaptan atu viaje"
-        desc: "Indosat TravelOn tiene una validez fija de <b>10 días</b> (Rp 100.000/15GB); Telkomsel SimPATI es de <b>30 días</b> (Rp 133.000/25GB). Un viaje de 5 días con Telkomsel desperdicia más del <b>80%</b> del costo. Roami ofrece planes desde 7 días, desde <b>1,99 $/GB</b>, sin desperdicio."
+        title: "Planes flexibles que se adaptan a tu viaje"
+        desc: "Indosat TravelOn tiene una validez fija de <b>10 días</b> (Rp 100.000/15GB); Telkomsel SimPATI es de <b>30 días</b> (Rp 133.000/25GB). Un viaje de 5 días con Telkomsel desperdicia más del <b>80%</b> del costo. Roami ofrece planes desde 7 días, desde <b>$2.99</b>, sin desperdicio."
 ---

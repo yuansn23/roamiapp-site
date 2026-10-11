@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Costa Rica | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:05:19+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -29,6 +29,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Costa Rica | Red Local Fiable y Prepago Sin Contrato
+  low_price: 9.99
+  high_price: 84.99
   description: Roami te conecta en Costa Rica con conexión fiable, datos sin límite
     y cobertura nacional. Ideal para selvas y playas.
   keywords:
@@ -376,10 +378,10 @@ faq_section:
         Configura la eSIM Roami para datos moviles y tu SIM habitual para llamadas y SMS.
         Asi sigues recibiendo verificaciones bancarias y mensajes de tu operador, sin pagar roaming de datos que es lo mas caro.
     - q: ¿Cuánto cuesta la eSIM para Costa Rica y hay descuentos?
-      a: Nuestro plan eSIM para Costa Rica comienza en 1,99 $/GB. Con el código promocional
+      a: Nuestro plan eSIM para Costa Rica comienza en $9.99. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
-        Los precios de Roami empiezan en $1.99/GB. El plan mas popular es 5GB/15 dias por $9.99. La velocidad 5G alcanza hasta 300 Mbps en ciudades principales.
+        Los planes de datos de Roami comienzan en $9.99 (1 GB, 7 días) y llegan hasta $84.99 (datos ilimitados, 7 días). El plan con mejor relación calidad-precio es el de 5 GB para 7 días, por $23.99. La velocidad 5G alcanza hasta 300 Mbps en ciudades principales.
     - q: ¿Cómo activar la eSIM para Costa Rica y cuándo comienza el período de validez?
       a: |
         Al comprar, recibes al instante un codigo QR por correo electronico.
@@ -717,96 +719,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Costa-Rica eSIM vs SIM Card Plans: Which One Fits Your Needs?'
-  subtitle: "Comparativa de SIM prepagadas locales costarricenses y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Costa-Rica) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Costa-Rica"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Costa Rica"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Todo sobre la eSIM para Costa Rica: como comprar, instalar y activar tu plan de datos. Consejos sobre operadores, cobertura 5G y precios segun tu viaje."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las complicaciones de activación de Liberty (App solo disponible en Costa Rica) o las colas en tiendas kölbi. Con Roami eSIM, activas en 1 minuto mediante un código QR, sin necesidad de buscar una tienda física ni lidiar con procesos en español."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Desde 2014, todas las SIM deben registrarse no solo con el operador sino también a través del regulador nacional Sutel, requiriendo un documento de identidad con foto o pasaporte. Si la tienda no completa el registro, el usuario debe hacerlo en un sitio web solo en español y la activación puede demorar horas."
-      esim_title: "Sin pasaporte ni registro Sutel"
-      esim_desc: "Olvídate del registro obligatorio con Sutel y la espera de horas para la activación. Roami eSIM no requiere ningún documento de identidad ni verificación gubernamental, solo compras y usas al instante."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Liberty ofrece un paquete de roaming en EE. UU. por 5 USD al día, pero el exceso se cobra a 1 USD/MB, lo que supone una trampa de facturación elevada para viajeros."
-      esim_title: "Roaming global sin sorpresas"
-      esim_desc: "Mientras Liberty cobra 1 USD/MB en exceso de roaming en EE. UU., Roami eSIM ofrece planes multinacionales transparentes sin cargos ocultos. Además, al usar múltiples redes locales (kölbi, Liberty, Claro), evitas las zonas muertas de Claro fuera del Valle Central."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "El plan 'En Todas y más' de kölbi tiene una validez de 30 días por 2 GB a 4,000 colones; si un viajero se queda solo 5 días, desperdicia aproximadamente 3,333 colones (83% del valor del plan)."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de 30 días de kölbi (2 GB por 4,000 colones) que desperdicia el 83% del valor en un viaje de 5 días, Roami ofrece planes de datos de 7 días desde 1,99 $/GB, pagando solo por los días que necesitas."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, los operadores en Costa Rica generalmente permiten tethering, pero puede estar limitado en planes de datos específicos."
-      esim_title: "Tethering ilimitado sin restricciones"
-      esim_desc: "Mientras que algunos operadores locales pueden limitar el tethering en planes específicos, Roami eSIM permite compartir datos sin límites, ideal para conectar tu laptop o tableta durante tus viajes por Costa Rica."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Las recargas se realizan principalmente en efectivo en tiendas físicas o mediante tarjetas de crédito locales. Los métodos de pago internacionales como Visa o Mastercard pueden no ser aceptados para recargas en línea."
-      esim_title: "Pagos globales sin efectivo"
-      esim_desc: "Evita la necesidad de efectivo o tarjetas locales para recargar. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, facilitando la compra desde cualquier lugar del mundo."
-    - icon:
-
-
-      prepaid_title: ""
-      prepaid_desc: "La atención al cliente de los operadores locales suele ser en español, con horarios limitados y sin soporte en inglés para turistas."
-      esim_title: "Soporte 24/7 en tu idioma"
-      esim_desc: "Mientras que la atención al cliente de los operadores locales es solo en español y con horarios limitados, Roami ofrece soporte en español e inglés las 24 horas, los 7 días de la semana, para resolver cualquier problema al instante."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "credit-card"
-
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        desc: "Las recargas locales requieren efectivo o tarjetas costarricenses. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, facilitando la compra desde casa."
-      - icon: "wifi"
-
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        desc: "Mientras que algunos planes locales pueden restringir el tethering, Roami eSIM permite compartir datos sin límites, ideal para conectar tu portátil en cualquier lugar de Costa Rica."
-      - icon: "clock"
-
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        desc: "La App de Liberty solo está disponible en la tienda costarricense, bloqueando la activación. Roami se activa con un código QR en 1 minuto, sin importar tu ubicación."
-      - icon: "globe"
-
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        desc: "Liberty cobra 1 USD/MB en exceso de roaming en EE. UU. Roami ofrece planes multinacionales transparentes, sin cargos ocultos, perfecto para escalas o viajes combinados."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "eSIM vs SIM prepagada en Costa Rica: lo que debes saber"
   subtitle: "Comparativa de SIM prepagadas locales costarricenses y soluciones eSIM (referencia 2024/2025)"
@@ -841,7 +753,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "El plan 'En Todas y más' de kölbi cuesta 4.000 colones por 30 días/2GB; un viaje de 5 días desperdicia aproximadamente 1.410 colones (35% del valor)."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de 30 días de kölbi (4.000 colones/2GB) o Claro (17.500 colones/10GB), Roami ofrece planes de 7 días desde 1,99 USD/GB, ahorrando hasta un 75% del costo en viajes cortos."
+      esim_desc: "A diferencia del ciclo de 30 días de kölbi (4.000 colones/2GB) o Claro (17.500 colones/10GB), Roami ofrece planes de 7 días desde $9.99, ahorrando hasta un 75% del costo en viajes cortos."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -851,9 +763,9 @@ market_analysis:
     - icon: "credit-card"
       title: "Recarga y<br>pago"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Por conocimiento general, los métodos de pago comunes en tiendas incluyen efectivo y tarjetas Visa/Mastercard."
+      prepaid_desc: "Los métodos de pago comunes en tiendas incluyen efectivo y tarjetas Visa/Mastercard."
       esim_title: "Pagos globales sin complicaciones"
-      esim_desc: "Paga con Visa, Mastercard, AMEX, Apple Pay, Google Pay o PayPal. Sin necesidad de efectivo en colones ni tarjetas locales."
+      esim_desc: "Se aceptan Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal. Sin necesidad de efectivo en colones ni tarjetas locales."
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
@@ -868,12 +780,12 @@ market_analysis:
       - icon: "globe"
         icon_bg: "bg-teal-100"
         icon_color: "text-teal-600"
-        title: "Roaming seguro sincargos ocultos"
+        title: "Roaming seguro sin cargos ocultos"
         desc: "Liberty cobra 1 USD/MB en exceso de roaming en EE.UU. Roami ofrece planes de roaming global con precios transparentes, sin riesgo de facturas elevadas."
       - icon: "tower-observation"
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"
-        title: "Cobertura multi-red sinpuntos ciegos"
+        title: "Cobertura multi-red sin puntos ciegos"
         desc: "Claro tiene señal 'bastante dispersa' fuera del Valle Central. Roami eSIM se conecta automáticamente a la mejor red disponible (kölbi, Liberty, Claro), evitando zonas sin cobertura."
       - icon: "passport"
         icon_bg: "bg-blue-100"

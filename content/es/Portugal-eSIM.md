@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Portugal | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:05:25+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,6 +20,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Portugal | Red Local Fiable y Prepago Sin Contrato
+  low_price: 1.99
+  high_price: 71.99
   description: Con Roami en Portugal, disfruta de Internet ultrarrápido, datos sin
     límite y cobertura en todo el país. Ideal para playas y ciudades.
   keywords: eSIM Portugal, internet en Portugal, viaje a Portugal, cobertura móvil
@@ -446,7 +448,7 @@ faq_section:
         Esto es util para recibir llamadas de tu operador habitual sin costos de roaming.
         La calidad de las videollamadas (WhatsApp, FaceTime) es excelente con la velocidad 5G que ofrece Roami en las principales ciudades de Portugal.
     - q: ¿Cuánto cuesta la eSIM para Portugal y hay descuentos?
-      a: Nuestro plan eSIM para Portugal comienza en 1,99 $/GB. Con el código promocional
+      a: Nuestro plan eSIM para Portugal comienza en $1.99. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
     - q: ¿Qué redes 5G/4G utiliza la eSIM para Portugal y cuál es la cobertura?
@@ -756,97 +758,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Portugal eSIM vs Local SIM Card: Which One Saves You More?'
-  subtitle: "Comparativa de SIM prepagadas locales portuguesas y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Portugal) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Portugal"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Portugal"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Todo sobre la eSIM para Portugal: como comprar, instalar y activar tu plan de datos. Consejos sobre operadores, cobertura 5G y precios segun tu viaje."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las complicaciones de buscar tiendas con el plan Connected Holidays de MEO (solo disponible en puntos selectos) o las restricciones de pago de Vodafone. Con Roami eSIM, activas en línea en 1 minuto al llegar a Lisboa, sin necesidad de visitar una tienda física."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "En Portugal no se requiere registro con pasaporte para comprar una SIM prepagada; la compra es anónima."
-      esim_title: "Sin registro de pasaporte"
-      esim_desc: "Aunque Portugal no exige KYC, la eSIM de Roami elimina cualquier posible requisito futuro. Activa tu eSIM al instante, sin escanear pasaportes ni proporcionar datos personales."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Vodafone Portugal aplica un FUP en roaming UE: el tráfico de datos se reduce según el plan, y el exceso se cobra a 5,40 €/GB. Lyca Mobile ofrece 30 GB con roaming UE, pero solo 21 GB utilizables en el extranjero (una reducción del 30%). Los planes de datos puro como Vodafone Go y NOS Kanguru no permiten roaming internacional."
-      esim_title: "Roaming global sin trampas"
-      esim_desc: "Evita los FUP de Vodafone (que cobra 5,40 €/GB extra en roaming UE) y la reducción del 30% de Lyca Mobile (30 GB se convierten en 21 GB en la UE). Roami eSIM ofrece datos en toda la UE sin restricciones ocultas, con planes desde 1,99 $/GB."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "MEO ofrece un plan semanal desde 3,50 €/semana (1 GB) y un plan turístico de 15 días por 14,99 € (30 GB). Vodafone tiene un plan de 28 días por 20 € (5 GB + 500 min). Un turista que viaja 7 días y compra el plan Vodafone de 20 €/28 días desperdicia más del 50% del valor."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de 28 días de Vodafone (20 €/5 GB) o el plan de 15 días de MEO (14,99 €/30 GB), Roami ofrece planes de datos de 7 días desde 1,99 $/GB. Un viaje de 5 días con Roami cuesta solo 9,95 $, ahorrando más del 50% frente a los planes locales."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "Lyca Mobile prohíbe explícitamente el tethering (compartir datos). Otros operadores como MEO y Vodafone permiten tethering, pero con límites de velocidad tras consumir cierta cantidad."
-      esim_title: "Tethering ilimitado"
-      esim_desc: "Mientras Lyca Mobile bloquea el tethering, Roami eSIM permite compartir datos con todos tus dispositivos sin restricciones. Conecta tu portátil o tablet en cualquier lugar de Portugal sin preocuparte por políticas restrictivas."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "MEO y NOS no aceptan tarjetas de crédito internacionales ni PayPal para recargas. Vodafone solo acepta tarjetas con al menos 3 meses de antigüedad. Las recargas en tiendas Payshop tienen un recargo de 0,50 € por transacción y un mínimo de 7,50 €."
-      esim_title: "Pagos globales sin barreras"
-      esim_desc: "Olvídate de las restricciones de MEO y NOS (no aceptan tarjetas internacionales) o del requisito de 3 meses de Vodafone. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, permitiendo recargas online inmediatas desde cualquier país."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general, la atención al cliente de los operadores portugueses suele ser en portugués, con horario limitado y sin chat 24/7 para prepago."
-      esim_title: "Soporte 24/7 en español"
-      esim_desc: "La atención al cliente de los operadores locales suele ser solo en portugués y con horario limitado. Roami ofrece soporte en español las 24 horas del día, los 7 días de la semana, para resolver cualquier incidencia durante tu viaje."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "globe"
-
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        desc: "NOS tiene solo el <b>20% de cuota de mercado</b> y su cobertura rural es limitada. Roami eSIM se conecta a la mejor red disponible (MEO, Vodafone, NOS) automáticamente, garantizando señal en todo Portugal."
-      - icon: "clock"
-
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        desc: "MEO cobra <b>1 €/mes</b> de mantenimiento si no usas la SIM. Vodafone cobra <b>1,50 € cada 60 días</b>. Con Roami eSIM, no hay cargos ocultos: pagas solo por los datos que usas."
-      - icon: "hourglass-empty"
-
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        desc: "El plan Vodafone de <b>20 €/28 días</b> (5 GB) desperdicia más del 50% para un viaje de 7 días. MEO cobra <b>14,99 €/15 días</b> (30 GB). Roami ofrece planes desde <b>1,99 $/GB</b> con duración de 7 días, ajustándose a tu estancia."
-      - icon: "tower-observation"
-
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        desc: "Lyca Mobile ofrece 30 GB con roaming UE, pero solo <b>21 GB utilizables</b> (reducción del 30%). Vodafone aplica un FUP que puede cobrar <b>5,40 €/GB extra</b>. Roami eSIM proporciona datos completos en toda la UE sin recortes."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "¿Cuál es más cómoda en Portugal: eSIM o prepagada local?"
   subtitle: "Comparativa de SIM prepagadas locales portuguesas y soluciones eSIM (referencia 2024/2025)"
@@ -881,7 +792,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "MEO usa ciclo semanal (€3.50/7 días con 1GB) o de 15 días (€14.99/30GB); Vodafone usa ciclo de 28 días (€14/1GB). Un turista de 7 días que compra el plan Vodafone de €20/30 días desperdicia más del 50%."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "Los planes locales tienen ciclos rígidos de 7, 15 o 28 días. Roami ofrece planes de datos de 7 días desde 1,99 $/GB, ahorrando hasta un 75% frente al plan Vodafone de €20/30 días para una estancia de 7 días."
+      esim_desc: "Los planes locales tienen ciclos rígidos de 7, 15 o 28 días. Roami ofrece planes de datos de 7 días desde $2.99, ahorrando hasta un 75% frente al plan Vodafone de €20/30 días para una estancia de 7 días."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -897,13 +808,13 @@ market_analysis:
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente."
+      prepaid_desc: "La atención al cliente de MEO, NOS y Vodafone está disponible en portugués y en horario de oficina, con soporte limitado en inglés para prepago."
       esim_title: "Soporte 24/7 multilingüe"
       esim_desc: "El soporte local portugués suele ser solo en portugués. Las eSIM ofrecen atención en español e inglés las 24 horas."
 
   # =============== Módulo Veredicto de Expertos ===============
   expert_verdict:
-    title: "eSIM para Portugal: la solución más inteligente yeconómica frente a la prepagada local"
+    title: "eSIM para Portugal: la solución más inteligente y económica frente a la prepagada local"
     cards:
       - icon: "shield"
         icon_bg: "bg-teal-100"
@@ -913,12 +824,12 @@ market_analysis:
       - icon: "tower-observation"
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"
-        title: "Roaming sintrampas ni reducciones"
+        title: "Roaming sin trampas ni reducciones"
         desc: "Lyca Mobile reduce su plan de 30GB a solo 21GB en roaming UE (30% menos). Vodafone Go y NOS Kanguru no tienen roaming. Las eSIM ofrecen datos completos en toda Europa sin FUP."
       - icon: "globe"
         icon_bg: "bg-indigo-100"
         icon_color: "text-indigo-600"
-        title: "Cobertura multi-red sinzonas muertas"
+        title: "Cobertura multi-red sin zonas muertas"
         desc: "NOS tiene solo 20% de cobertura en zonas rurales. Las eSIM se conectan a la mejor red disponible (MEO, Vodafone) automáticamente."
       - icon: "passport"
         icon_bg: "bg-blue-100"

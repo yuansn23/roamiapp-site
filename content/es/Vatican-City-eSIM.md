@@ -1,6 +1,6 @@
 ---
 title: 'Ciudad del Vaticano eSIM 2026: Guía de 5G y Datos | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: "Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>.<br>Los nuevos clientes disfrutan de un 20% de descuento, código promocional: web20"
 seo:
   title: 'Ciudad del Vaticano eSIM 2026: Guía de Cobertura Vodafone y TIM | Mejor eSIM de Viaje'
-  description: Compara planes eSIM para la Ciudad del Vaticano con 5G rápido en el Vaticano, Roma, Florencia. Guía de cobertura Vodafone, TIM y WindTre para turistas y viajeros. Activación instantánea con QR desde $1.99.
+  description: Compara planes eSIM para la Ciudad del Vaticano con 5G rápido en el Vaticano, Roma, Florencia. Guía de cobertura Vodafone, TIM y WindTre para turistas y viajeros. Activación instantánea con QR desde $10.99.
   keywords: eSIM Ciudad del Vaticano, comprar eSIM Ciudad del Vaticano, mejor eSIM Ciudad del Vaticano, eSIM viaje Ciudad del Vaticano, Vodafone Ciudad del Vaticano, TIM Ciudad del Vaticano, WindTre Ciudad del Vaticano, eSIM Roma, eSIM Florencia, eSIM prepago Ciudad del Vaticano, 5G eSIM Ciudad del Vaticano
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 10.99
+  high_price: 78.99
 order_summary:
   title: Plan Seleccionado
   label_data: Datos incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de la Ciudad del Vaticano para la mejor señal
 plans_title: 'Compra eSIM Ciudad del Vaticano: Planes para cada duración de viaje'
 plans_data:
-  3 Days:
+  3 días:
   - spec: Ilimitado
     data: Ilimitada alta velocidad
     desc: Uso de datos sin preocupaciones
@@ -80,7 +80,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.66'
-  7 Days:
+  7 días:
   - spec: Ilimitado
     data: Ilimitada alta velocidad
     desc: Uso de datos sin preocupaciones
@@ -89,7 +89,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.00'
-  15 Days:
+  15 días:
   - spec: Ilimitado
     data: Ilimitada alta velocidad
     desc: Uso de datos sin preocupaciones
@@ -98,7 +98,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.87'
-  30 Days:
+  30 días:
   - spec: Ilimitado
     data: Ilimitada alta velocidad
     desc: Uso de datos sin preocupaciones
@@ -222,50 +222,128 @@ related_products:
   items:
   - name: eSIM Estados Unidos
     flag: img/flags/us.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Reino Unido
     flag: img/flags/gb.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Europa
     flag: img/flags/eu.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM Canadá
     flag: img/flags/ca.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Turquía
     flag: img/flags/tr.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM China
     flag: img/flags/cn.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Japón
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Francia
     flag: img/flags/fr.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM España
     flag: img/flags/es.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Alemania
     flag: img/flags/de.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
-    price: From $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en la Ciudad del Vaticano: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en la Ciudad del Vaticano (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (Vatican-City) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Vatican-City"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para la Ciudad del Vaticano"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "La Ciudad del Vaticano no tiene red móvil propia: usa los operadores italianos (TIM, Vodafone, WindTre) y la SIM se compra en Roma."
+      esim_title: "Listo antes de aterrizar"
+      esim_desc: "Instala la eSIM desde casa y evita las colas de las tiendas de TIM. Al llegar a Roma ya tienes datos."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "Italia exige identificarse para activar la línea prepagada."
+      esim_title: "Sin KYC ni huellas"
+      esim_desc: "Frente al registro con pasaporte de TIM, la eSIM no exige identificación: compra, escanea y conecta."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "Las prepagadas italianas incluyen roaming en la UE, pero con política de uso justo que recorta los gigas fuera del país."
+      esim_title: "Roaming sin sobrecoste"
+      esim_desc: "La eSIM evita las tarifas por uso en el extranjero que aplican las prepagadas de TIM."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "Las SIM italianas usan ciclos mensuales o paquetes turísticos cortos, con tarifas desde unos 10 €."
+      esim_title: "Sin bloque mensual obligatorio"
+      esim_desc: "Con Roami compras exactamente lo que dura tu viaje, desde $10.99, en lugar del ciclo de 30 días de TIM."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "En la Ciudad del Vaticano, compartir la conexión es posible, con restricciones según el paquete contratado."
+      esim_title: "Hotspot sin límites"
+      esim_desc: "La eSIM no aplica los límites de tethering de algunas prepagadas de TIM: compartes datos con lo que quieras."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "En la Ciudad del Vaticano, la recarga se hace online o en tienda con tarjeta y con cupones locales."
+      esim_title: "Cobro sin fronteras"
+      esim_desc: "La eSIM admite tarjetas internacionales y carteras digitales, evitando las limitaciones de pago de TIM."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "La atención se presta en italiano, con inglés en las tiendas del centro."
+      esim_title: "Soporte 24/7 multilingüe"
+      esim_desc: "En la Ciudad del Vaticano, el soporte local suele limitarse al idioma del país y al horario de oficina. La eSIM ofrece ayuda en español las 24 horas."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para la Ciudad del Vaticano: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "shield"
+        icon_bg: "bg-teal-100"
+        icon_color: "text-teal-600"
+        title: "Sin cargos ocultos ni caducidad"
+        desc: "Las prepagadas italianas obligan a ciclos mensuales poco flexibles. Con Roami no pagas mantenimiento ni pierdes saldo por inactividad en la Ciudad del Vaticano."
+      - icon: "clock"
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "Listo antes de aterrizar"
+        desc: "La Ciudad del Vaticano no tiene red móvil propia: usa los operadores italianos (TIM, Vodafone, WindTre) y la SIM se compra en Roma. Instálala antes de viajar y tendrás datos desde el primer minuto en la Ciudad del Vaticano."
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "Cero trámites de alta"
+        desc: "Italia exige identificarse para activar la línea prepagada. La eSIM se instala sin pasaporte, sin foto y sin formularios en la Ciudad del Vaticano."
+      - icon: "hourglass-empty"
+        icon_bg: "bg-amber-100"
+        icon_color: "text-amber-600"
+        title: "Paga solo los días que usas"
+        desc: "Las SIM italianas usan ciclos mensuales o paquetes turísticos cortos, con tarifas desde unos 10 €. Paga solo los días que estarás en la Ciudad del Vaticano, sin bloques de 30 días."
 ---

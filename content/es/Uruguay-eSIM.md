@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Uruguay | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:06:29+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,6 +20,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Uruguay | Cobertura Total y Soporte 24/7
+  low_price: 11.99
+  high_price: 98.99
   description: Roami te conecta en Uruguay con conexión de alto rendimiento, datos
     sin límite y roaming multi-país. Perfecto para explorar Montevideo y playas.
   keywords: eSIM Uruguay, datos móviles Uruguay, viajar a Uruguay, cobertura 4G Uruguay,
@@ -404,7 +406,7 @@ faq_section:
       a: Sí, además del código QR, puedes instalar la eSIM manualmente usando la dirección
         SM‑DP+ y el código de activación (ambos indicados en tu confirmación de pedido).
         El código QR es el método más rápido y sencillo.
-        Roami tiene planes flexibles desde $1.99/GB (7 dias) hasta $59.99 (30 dias ilimitados). La velocidad 5G alcanza 100 a 300 Mbps en areas urbanas y 10 a 50 Mbps en 4G.
+        El plan más económico cuesta $11.99 (1 GB, 7 días) y el más completo, $98.99 (30 GB, 15 días). La velocidad 5G alcanza 100 a 300 Mbps en areas urbanas y 10 a 50 Mbps en 4G.
   - id: faq-airport
     icon: plane
     tab_title: Aeropuertos
@@ -710,97 +712,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Uruguay eSIM vs Local Prepaid SIM: Which Is More Convenient?'
-  subtitle: "Comparativa de SIM prepagadas locales uruguayas y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Uruguay) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Uruguay"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Uruguay"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Resuelve tus dudas sobre la eSIM para Uruguay. Informacion sobre instalacion, compatibilidad con tu movil, operadores disponibles y planes para turistas.'Chip Prepago' cuesta 65 pesos uruguayos y se puede comprar en tiendas Antel, incluyendo la del aeropuerto de Montevideo, presentando el pasaporte original."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las colas en tiendas Antel en el aeropuerto de Montevideo; activa tu eSIM en línea en menos de 1 minuto al llegar."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Todos los operadores (Antel, Movistar, Claro) exigen el pasaporte original para comprar la SIM; no se aceptan copias."
-      esim_title: "Sin pasaporte ni trámites"
-      esim_desc: "Olvídate del KYC con pasaporte original que exigen Antel, Movistar y Claro; con eSIM no necesitas identificación."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "El roaming en el Mercosur no aplica para prepago, por lo que usar la SIM en Argentina o Brasil tiene costos elevados."
-      esim_title: "Roaming global sin sorpresas"
-      esim_desc: "Mientras que las SIM prepago uruguayas no tienen roaming Mercosur, Roami eSIM ofrece cobertura en Argentina y Brasil sin costos adicionales."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Antel ofrece un plan de 40 GB por 7 días a 200 UYU (unos 5 USD), pero un viajero de 3 días desperdiciaría más del 50% del valor del plan."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de 7 días de Antel (40 GB por 200 UYU), Roami ofrece planes de 7 días desde 1,99 $/GB, ahorrando hasta un 75% si viajas pocos días."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "No se mencionan restricciones de tethering en la fuente; se asume que está permitido, pero puede haber límites de velocidad."
-      esim_title: "Tethering ilimitado incluido"
-      esim_desc: "Comparte datos con tus dispositivos sin restricciones, a diferencia de algunas SIM locales que limitan la velocidad tras cierto consumo."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "La recarga se realiza en efectivo en puntos físicos como Redpagos o Abitab; no se mencionan pagos con tarjeta internacional."
-      esim_title: "Pagos globales sin efectivo"
-      esim_desc: "Paga con Visa, Mastercard, AMEX, Apple Pay, Google Pay o PayPal; olvídate de las recargas en efectivo en Redpagos."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "La atención al cliente es principalmente en español, sin horario específico mencionado; probablemente limitada para turistas."
-      esim_title: "Soporte 24/7 en español"
-      esim_desc: "Atención al cliente multilingüe disponible 24/7, mientras que el soporte local suele ser solo en horario comercial y en español."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "passport"
-
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        desc: "Antel, Movistar y Claro exigen el <b>pasaporte original</b> para comprar cualquier SIM prepago. Con eSIM, no necesitas identificación, activas en segundos."
-      - icon: "wifi"
-
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        desc: "Aunque no se mencionan restricciones en las SIM locales, muchas operadoras limitan la velocidad tras cierto uso. Roami ofrece <b>tethering ilimitado</b> sin reducir velocidad."
-      - icon: "globe"
-
-        icon_bg: "bg-indigo-100"
-        icon_color: "text-indigo-600"
-        desc: "Antel usa frecuencias europeas (B4, B28), mientras que Movistar y Claro usan americanas. Tu móvil podría no ser compatible. Roami usa redes locales sin importar el origen del dispositivo."
-      - icon: "clock"
-
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        desc: "Comprar una SIM local implica ir a una tienda (ej. en el aeropuerto) y hacer cola. Con eSIM, la activación es <b>instantánea</b> desde tu móvil."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "eSIM vs SIM prepagada en Uruguay: todo lo que debes considerar"
   subtitle: "Comparativa de SIM prepagadas locales uruguayas y soluciones eSIM (referencia 2024/2025)"
@@ -829,17 +740,17 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "El roaming en el Mercosur (Argentina, Brasil, etc.) no está incluido para usuarios prepagos, lo que genera costos adicionales elevados."
       esim_title: "Roaming global sin sorpresas"
-      esim_desc: "Mientras que las SIM prepagas uruguayas no incluyen roaming en Mercosur (costos elevados en Argentina o Brasil), Roami eSIM ofrece planes de datos globales con tarifas transparentes, desde 1,99 $/GB."
+      esim_desc: "Mientras que las SIM prepagas uruguayas no incluyen roaming en Mercosur (costos elevados en Argentina o Brasil), Roami eSIM ofrece planes de datos globales con tarifas transparentes, desde $11.99."
     - icon: "calendar-xmark"
       title: "Ciclo de facturación y<br>costes desperdiciados"
       prepaid_title: ""
       prepaid_desc: "Antel ofrece un plan de 40 GB por 7 días a 200 UYU (unos 5 USD), pero un turista que solo use 3 días desperdicia más del 50% del valor del plan."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de 7 días de Antel (40 GB por 200 UYU, ~5 USD), Roami ofrece planes de 7 días desde 1,99 $/GB, permitiendo elegir la cantidad exacta de datos y evitando pagar por días no usados."
+      esim_desc: "A diferencia del ciclo de 7 días de Antel (40 GB por 200 UYU, ~5 USD), Roami ofrece planes de 7 días desde $11.99, permitiendo elegir la cantidad exacta de datos y evitando pagar por días no usados."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
-      prepaid_desc: "No hay datos específicos en la fuente sobre políticas de tethering. Según conocimiento general, Antel permite tethering sin restricciones explícitas, pero Movistar y Claro pueden limitarlo en planes prepagos."
+      prepaid_desc: "No hay datos específicos en la fuente sobre políticas de tethering. Antel permite tethering sin restricciones explícitas, pero Movistar y Claro pueden limitarlo en planes prepagos."
       esim_title: "Tethering ilimitado sin restricciones"
       esim_desc: "Mientras que Movistar y Claro pueden restringir el tethering en prepago, Roami eSIM permite compartir datos con todos tus dispositivos sin límites ni cargos adicionales."
     - icon: "credit-card"
@@ -851,13 +762,13 @@ market_analysis:
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
-      prepaid_desc: "No hay datos específicos en la fuente sobre atención al cliente. Según conocimiento general, el soporte es principalmente en español, con horario local y sin chat en línea para prepagos."
+      prepaid_desc: "No hay datos específicos en la fuente sobre atención al cliente. El soporte es principalmente en español, con horario local y sin chat en línea para prepagos."
       esim_title: "Soporte 24/7 en tu idioma"
       esim_desc: "Mientras que la atención al cliente de Antel es solo en español y en horario local, Roami ofrece soporte multilingüe 24/7 por chat y correo electrónico, resolviendo cualquier duda al instante."
 
   # =============== Módulo Veredicto de Expertos ===============
   expert_verdict:
-    title: "eSIM para Uruguay: la solución más inteligente yeconómica frente a la SIM física"
+    title: "eSIM para Uruguay: la solución más inteligente y económica frente a la SIM física"
     cards:
       - icon: "shield"
         icon_bg: "bg-teal-100"
@@ -872,11 +783,11 @@ market_analysis:
       - icon: "wifi"
         icon_bg: "bg-green-100"
         icon_color: "text-green-600"
-        title: "Tethering sinrestricciones"
+        title: "Tethering sin restricciones"
         desc: "Movistar y Claro pueden limitar el tethering en prepago. Roami eSIM permite <b>compartir datos ilimitadamente</b> con tus dispositivos, ideal para conectar tu portátil o tablet."
       - icon: "globe"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
-        title: "Cobertura nacional sinproblemas de compatibilidad"
+        title: "Cobertura nacional sin problemas de compatibilidad"
         desc: "Antel usa frecuencias europeas (B4, B28), mientras Movistar y Claro usan americanas (B2, B4, B28). Roami eSIM se conecta a la <b>mejor red disponible</b> sin preocuparte por la compatibilidad de tu móvil."
 ---

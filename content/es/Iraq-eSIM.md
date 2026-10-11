@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Irak : Guía de Ciudades y Redes | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: "Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>.<br>Los nuevos clientes disfrutan de un 20% de descuento, código promocional: web20"
 seo:
   title: 'eSIM Irak: 5G Ilimitado, Sin Contratos ni Cargos Ocultos'
-  description: Compara planes eSIM para Irak con 5G rápido en Bagdad, Basora, Mosul. Guía de cobertura de Zain Iraq, Asiacell y Korek Telecom para turistas y viajeros. Activación QR instantánea desde $1.99.
+  description: Compara planes eSIM para Irak con 5G rápido en Bagdad, Basora, Mosul. Guía de cobertura de Zain Iraq, Asiacell y Korek Telecom para turistas y viajeros. Activación QR instantánea desde $21.99.
   keywords: eSIM Irak, comprar eSIM Irak, mejor eSIM Irak, eSIM para viajar a Irak, Zain Iraq Irak, Asiacell Irak, Korek Telecom Irak, eSIM Bagdad, eSIM Basora, eSIM Mosul, eSIM prepago Irak, eSIM 5G Irak
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 21.99
+  high_price: 124.99
 order_summary:
   title: Plan Seleccionado
   label_data: Datos Incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de Irak para la mejor señal
 plans_title: 'Compra eSIM Irak: Planes para Cada Duración de Viaje'
 plans_data:
-  7 Days:
+  7 días:
   - spec: 3GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para hacer turismo
@@ -89,7 +89,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '9.57'
-  15 Days:
+  15 días:
   - spec: 5GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes en profundidad
@@ -106,7 +106,7 @@ plans_data:
     tag: Gran Valor
     tagColor: bg-emerald-500
     daily: '4.33'
-  30 Days:
+  30 días:
   - spec: 20GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para tu viaje
@@ -123,7 +123,7 @@ plans_data:
     tag: Gran Valor
     tagColor: bg-emerald-500
     daily: '2.17'
-  3 Days:
+  3 días:
   - spec: Ilimitado
     data: Alta velocidad ilimitada
     desc: Uso de datos sin preocupaciones
@@ -252,50 +252,128 @@ related_products:
   items:
   - name: eSIM Estados Unidos
     flag: img/flags/us.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Reino Unido
     flag: img/flags/gb.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Europa
     flag: img/flags/eu.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM Canadá
     flag: img/flags/ca.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Turquía
     flag: img/flags/tr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM China
     flag: img/flags/cn.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Japón
     flag: img/flags/jp.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Francia
     flag: img/flags/fr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM España
     flag: img/flags/es.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Alemania
     flag: img/flags/de.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en Irak: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en Irak (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (Iraq) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Iraq"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para Irak"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "Zain y Korek venden en el aeropuerto de Bagdad y en tiendas de Erbil y Sulaymaniyah, en el Kurdistán."
+      esim_title: "Sin pasar por la tienda"
+      esim_desc: "Evita desplazarte a un establecimiento de Zain Iraq; activa la eSIM online y úsala nada más llegar a Bagdad."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "Irak exige registrar la SIM con pasaporte."
+      esim_title: "Privacidad total"
+      esim_desc: "Con la eSIM no entregas copia del pasaporte ni foto; tus datos no quedan en el sistema de Zain Iraq."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "El roaming fuera de Irak es caro y con cobertura limitada."
+      esim_title: "Sin sorpresas al cruzar la frontera"
+      esim_desc: "Mientras las locales de Zain Iraq ajustan o cortan los datos fuera del país, la eSIM mantiene el paquete completo."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "Los planes son mensuales y Zain ofrece paquetes de datos desde unos 7 $."
+      esim_title: "Planes por días, no por meses"
+      esim_desc: "En lugar de asumir un mes completo de Zain Iraq, la eSIM ofrece paquetes cortos desde $21.99."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "En Irak, el uso compartido depende del paquete contratado."
+      esim_title: "Tethering ilimitado"
+      esim_desc: "Comparte datos con portátil y tablet sin restricciones, algo que algunas prepagadas de Zain Iraq limitan o cobran aparte."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "La recarga se hace con efectivo o cupones locales."
+      esim_title: "Compra con tu tarjeta de siempre"
+      esim_desc: "Frente a las recargas de Zain Iraq, que a veces exigen efectivo o tarjetas locales, la eSIM acepta Visa, Mastercard y Apple Pay."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "La atención se presta en árabe y kurdo."
+      esim_title: "Ayuda cuando la necesitas"
+      esim_desc: "En Irak, sin depender del horario de las tiendas, la eSIM cuenta con atención en español 24/7."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para Irak: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "shield"
+        icon_bg: "bg-teal-100"
+        icon_color: "text-teal-600"
+        title: "Cero cuotas de mantenimiento"
+        desc: "Las prepagadas locales pierden saldo si no se recargan con frecuencia. La eSIM se paga una sola vez para tu viaje en Irak, sin cuotas recurrentes."
+      - icon: "tower-observation"
+        icon_bg: "bg-rose-100"
+        icon_color: "text-rose-600"
+        title: "Sin sobrecostes fuera de la red"
+        desc: "El roaming fuera de Irak es caro y con cobertura limitada. Sin tarifas extra por datos al cruzar fronteras desde Irak."
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "Sin registro de identidad"
+        desc: "Irak exige registrar la SIM con pasaporte. El registro obligatorio en Irak no se aplica a la eSIM."
+      - icon: "wifi"
+        icon_bg: "bg-green-100"
+        icon_color: "text-green-600"
+        title: "Comparte datos sin límites"
+        desc: "El uso compartido depende del paquete contratado. En Irak puedes usar el móvil como hotspot cuando quieras."
 ---

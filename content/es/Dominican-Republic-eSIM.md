@@ -1,6 +1,6 @@
 ---
 title: 'eSIM República Dominicana 2026: Guía Turística y de Redes | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ seo:
   title: eSIM República Dominicana | Plan de Datos Prepago Rápido y Fiable
   description: Viaja a República Dominicana con la mejor eSIM de viaje prepago de Roami. Datos 5G ilimitados en todo el país. Cobertura en Punta Cana, Santo Domingo y Puerto Plata.
   keywords: eSIM República Dominicana, comprar eSIM República Dominicana, mejor eSIM República Dominicana, eSIM para viajar a República Dominicana, Claro República Dominicana, Altice República Dominicana, Viva República Dominicana, eSIM Santo Domingo, eSIM Punta Cana, eSIM Santiago, eSIM prepago República Dominicana, eSIM 5G República Dominicana
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 5.99
+  high_price: 54.99
 order_summary:
   title: Plan Seleccionado
   label_data: Datos Incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de República Dominicana para la mejor señal
 plans_title: 'Compra eSIM República Dominicana: Planes para Cada Duración de Viaje'
 plans_data:
-  30 Days:
+  30 días:
   - spec: 10GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes en profundidad
@@ -105,7 +105,7 @@ plans_data:
     tag: Gran Valor
     tagColor: bg-emerald-500
     daily: '1.07'
-  7 Days:
+  7 días:
   - spec: 1GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes de negocios cortos
@@ -131,7 +131,7 @@ plans_data:
     tag: Gran Valor
     tagColor: bg-emerald-500
     daily: '2.71'
-  15 Days:
+  15 días:
   - spec: 3GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para hacer turismo
@@ -165,7 +165,7 @@ plans_data:
     tag: Gran Valor
     tagColor: bg-emerald-500
     daily: '3.67'
-  3 Days:
+  3 días:
   - spec: 1GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes de negocios cortos
@@ -302,50 +302,128 @@ related_products:
   items:
   - name: eSIM Estados Unidos
     flag: img/flags/us.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Reino Unido
     flag: img/flags/gb.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Europa
     flag: img/flags/eu.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM Canadá
     flag: img/flags/ca.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Turquía
     flag: img/flags/tr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM China
     flag: img/flags/cn.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Japón
     flag: img/flags/jp.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Francia
     flag: img/flags/fr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM España
     flag: img/flags/es.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Alemania
     flag: img/flags/de.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en República Dominicana: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en República Dominicana (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (Dominican-Republic) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Dominican-Republic"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para República Dominicana"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "Claro y Altice tienen mostrador en el aeropuerto de Punta Cana, pero sus precios son un 30-50% más altos que en las tiendas de Bávaro."
+      esim_title: "Sin pasar por la tienda"
+      esim_desc: "Evita desplazarte a un establecimiento de Claro; activa la eSIM online y úsala nada más llegar a Punta Cana."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "La SIM se registra con pasaporte en el punto de venta."
+      esim_title: "Privacidad total"
+      esim_desc: "Con la eSIM no entregas copia del pasaporte ni foto; tus datos no quedan en el sistema de Claro."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "Los planes son solo para territorio dominicano; cualquier uso fuera se factura aparte."
+      esim_title: "Sin sorpresas al cruzar la frontera"
+      esim_desc: "Mientras las locales de Claro ajustan o cortan los datos fuera del país, la eSIM mantiene el paquete completo."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "Los turistas compran paquetes de 7-10 días (5-10GB), mientras un plan de 30 días obliga a pagar días que no usarás."
+      esim_title: "Planes por días, no por meses"
+      esim_desc: "En lugar de asumir un mes completo de Claro, la eSIM ofrece paquetes cortos desde $5.99."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "Muchos resorts bloquean el hotspot en su wifi, aunque la SIM local sí permite compartir datos."
+      esim_title: "Tethering ilimitado"
+      esim_desc: "Comparte datos con portátil y tablet sin restricciones, algo que algunas prepagadas de Claro limitan o cobran aparte."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "Se aceptan tarjetas y efectivo en pesos; las recargas se hacen con cupones."
+      esim_title: "Compra con tu tarjeta de siempre"
+      esim_desc: "Frente a las recargas de Claro, que a veces exigen efectivo o tarjetas locales, la eSIM acepta Visa, Mastercard y Apple Pay."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "La atención es casi siempre en español."
+      esim_title: "Ayuda cuando la necesitas"
+      esim_desc: "En República Dominicana, sin depender del horario de las tiendas, la eSIM cuenta con atención en español 24/7."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para República Dominicana: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "clock"
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "Listo antes de aterrizar"
+        desc: "Claro y Altice tienen mostrador en el aeropuerto de Punta Cana, pero sus precios son un 30-50% más altos que en las tiendas de Bávaro. Instálala antes de viajar y tendrás datos desde el primer minuto en República Dominicana."
+      - icon: "tower-observation"
+        icon_bg: "bg-rose-100"
+        icon_color: "text-rose-600"
+        title: "Datos íntegros al cruzar fronteras"
+        desc: "Los planes son solo para territorio dominicano; cualquier uso fuera se factura aparte. En República Dominicana la eSIM no recorta el paquete ni aplica FUP sorpresa al salir del país."
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "Cero trámites de alta"
+        desc: "República Dominicana registra la SIM con pasaporte del titular. La eSIM se instala sin pasaporte, sin foto y sin formularios en República Dominicana."
+      - icon: "hourglass-empty"
+        icon_bg: "bg-amber-100"
+        icon_color: "text-amber-600"
+        title: "Paga solo los días que usas"
+        desc: "Los turistas compran paquetes de 7-10 días (5-10GB), mientras un plan de 30 días obliga a pagar días que no usarás. Paga solo los días que estarás en República Dominicana, sin bloques de 30 días."
 ---

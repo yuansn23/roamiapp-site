@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Mozambique : Guía de Operadores Locales | Roami'
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: "Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>.<br>Los nuevos clientes disfrutan de un 20% de descuento, código promocional: web20"
 seo:
   title: 'eSIM 5G Mozambique: Datos Ilimitados, Sin Tarifas de Roaming'
-  description: Compara planes eSIM para Mozambique con 5G rápido en Maputo, Beira, Nampula. Guía de cobertura de Movitel, Vodacom y Tmcel para turistas y viajeros. Activación QR instantánea desde $1.99.
+  description: Compara planes eSIM para Mozambique con 5G rápido en Maputo, Beira, Nampula. Guía de cobertura de Movitel, Vodacom y Tmcel para turistas y viajeros. Activación QR instantánea desde $14.99.
   keywords: eSIM Mozambique, comprar eSIM Mozambique, mejor eSIM Mozambique, eSIM para viajar a Mozambique, Movitel Mozambique, Vodacom Mozambique, Tmcel Mozambique, eSIM Maputo, eSIM Beira, eSIM Nampula, eSIM prepago Mozambique, eSIM 5G Mozambique
-  low_price: 1.99
-  high_price: 39.9
+  low_price: 14.99
+  high_price: 41.99
 order_summary:
   title: Plan Seleccionado
   label_data: Datos Incluidos
@@ -71,7 +71,7 @@ features:
     desc: Se conecta automáticamente a los mejores operadores de Mozambique para la mejor señal
 plans_title: 'Compra eSIM Mozambique: Planes para Cada Duración de Viaje'
 plans_data:
-  7 Days:
+  7 días:
   - spec: 1GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para viajes de negocios cortos
@@ -80,7 +80,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.14'
-  15 Days:
+  15 días:
   - spec: 3GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para hacer turismo
@@ -90,7 +90,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '1.93'
     tagIcon: star
-  30 Days:
+  30 días:
   - spec: 3GB
     data: Alta velocidad 5G/4G/LTE
     desc: Perfecto para hacer turismo
@@ -228,50 +228,128 @@ related_products:
   items:
   - name: eSIM Estados Unidos
     flag: img/flags/us.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Reino Unido
     flag: img/flags/gb.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Europa
     flag: img/flags/eu.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: true
   - name: eSIM Canadá
     flag: img/flags/ca.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Turquía
     flag: img/flags/tr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM China
     flag: img/flags/cn.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Japón
     flag: img/flags/jp.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Francia
     flag: img/flags/fr.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM España
     flag: img/flags/es.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Alemania
     flag: img/flags/de.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
-    price: Desde $1.99
+    price: Desde 1,99 $
     is_highlight: false
+market_analysis:
+  title: "¿Cuál es más cómoda en Mozambique: eSIM o prepagada local?"
+  subtitle: "Comparativa de SIM prepagadas locales y soluciones eSIM en Mozambique (referencia 2024/2025)"
+  citation:
+    text: "Fuente: Prepaid Data SIM Card Wiki (Mozambique) + sitios oficiales de operadores locales"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Mozambique"
+  table_headers:
+    - "Matriz de comparación"
+    - "SIM prepagada local (datos de mercado)"
+    - "Roami eSIM para Mozambique"
+  table_rows:
+    - icon: "store"
+      title: "Adquisición y<br>activación"
+      prepaid_title: ""
+      prepaid_desc: "Vodacom y Movitel venden en el aeropuerto de Maputo y en tiendas de la Avenida Julius Nyerere."
+      esim_title: "Alta digital inmediata"
+      esim_desc: "La eSIM de Roami se activa por QR en segundos, sin depender del horario de las tiendas de Movitel."
+    - icon: "id-card"
+      title: "KYC y<br>registro de pasaporte"
+      prepaid_title: ""
+      prepaid_desc: "Mozambique exige registrar la SIM con pasaporte."
+      esim_title: "Alta sin identificación"
+      esim_desc: "El registro con pasaporte de Movitel no es necesario: la eSIM se activa sin verificación de identidad."
+    - icon: "globe"
+      title: "Roaming<br>internacional"
+      prepaid_title: ""
+      prepaid_desc: "En Mozambique, no hay roaming regional barato: fuera del país se factura a tarifas altas."
+      esim_title: "El mismo paquete en todo el viaje"
+      esim_desc: "La eSIM no hereda las condiciones de roaming de Movitel: el volumen contratado es el que disfrutas."
+    - icon: "calendar-xmark"
+      title: "Ciclo de facturación y<br>costes desperdiciados"
+      prepaid_title: ""
+      prepaid_desc: "Mcel y Vodacom venden paquetes de 30 días, como 5GB por 350 MZN y 20GB por 1.100 MZN."
+      esim_title: "Planes flexibles sin desperdicio"
+      esim_desc: "Los ciclos locales son rígidos de 7, 15 o 30 días. Roami ofrece planes flexibles desde $14.99, sin pagar días que no usarás."
+    - icon: "wifi"
+      title: "Tethering y<br>políticas de velocidad"
+      prepaid_title: ""
+      prepaid_desc: "En Mozambique, el hotspot está disponible, pero el operador puede aplicar una tarifa extra en prepago."
+      esim_title: "Comparte sin bloqueos"
+      esim_desc: "En Mozambique, la eSIM permite usar el móvil como punto de acceso en todos tus dispositivos, sin la tarifa o el bloqueo de hotspot de algunas locales."
+    - icon: "credit-card"
+      title: "Recarga y<br>pago"
+      prepaid_title: ""
+      prepaid_desc: "La recarga se hace con cupones en efectivo y con mobile money (M-Pesa, e-Mola)."
+      esim_title: "Sin fricción de pago"
+      esim_desc: "En Mozambique, olvídate de los cupones rascables: la eSIM se compra online con Visa, Mastercard, AMEX o Google Pay."
+    - icon: "headset"
+      title: "Atención<br>al cliente"
+      prepaid_title: ""
+      prepaid_desc: "La atención se presta en portugués."
+      esim_title: "Soporte sin barreras"
+      esim_desc: "El servicio al cliente de Movitel puede prestarse solo en el idioma local; la eSIM responde en español a cualquier hora."
+
+  # =============== Módulo Veredicto de Expertos ===============
+  expert_verdict:
+    title: "eSIM para Mozambique: la solución más inteligente y económica frente a la prepagada local"
+    cards:
+      - icon: "clock"
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "Listo antes de aterrizar"
+        desc: "Vodacom y Movitel venden en el aeropuerto de Maputo y en tiendas de la Avenida Julius Nyerere. Instálala antes de viajar y tendrás datos desde el primer minuto en Mozambique."
+      - icon: "globe"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "Cobertura multi-red"
+        desc: "Buena cobertura en Maputo y Beira; limitada en el interior y en las zonas rurales. La eSIM elige la red más potente disponible en Mozambique sin configuración manual."
+      - icon: "tower-observation"
+        icon_bg: "bg-rose-100"
+        icon_color: "text-rose-600"
+        title: "Datos íntegros al cruzar fronteras"
+        desc: "No hay roaming regional barato: fuera del país se factura a tarifas altas. En Mozambique la eSIM no recorta el paquete ni aplica FUP sorpresa al salir del país."
+      - icon: "hourglass-empty"
+        icon_bg: "bg-amber-100"
+        icon_color: "text-amber-600"
+        title: "Paga solo los días que usas"
+        desc: "Mcel y Vodacom venden paquetes de 30 días, como 5GB por 350 MZN y 20GB por 1.100 MZN. Paga solo los días que estarás en Mozambique, sin bloques de 30 días."
 ---

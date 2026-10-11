@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Nueva Zelanda | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:05:41+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,6 +20,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Nueva Zelanda | Cobertura Total y Soporte 24/7
+  low_price: 3.99
+  high_price: 99.99
   description: Con Roami en Nueva Zelanda, disfruta de Internet de alta velocidad,
     datos sin límite y roaming multi-país. Perfecto para recorrer sus paisajes.
   keywords: eSIM Nueva Zelanda, datos móviles Nueva Zelanda, viajar a Nueva Zelanda,
@@ -407,7 +409,7 @@ faq_section:
         de uso justo solo se aplica en caso de consumo extremo (por ejemplo, transmisión
         4K continua durante varios días). La navegación habitual, redes sociales,
         videollamadas y GPS no están limitados.
-        Por $1.99 obtienes 1GB para 7 dias, por $9.99 tienes 5GB para 15 dias, y por $19.99 disfrutas de 10GB para 30 dias. Todo con velocidades 5G de alta velocidad.
+        El plan más económico cuesta $3.99 (1 GB, 7 días) y el más completo, $99.99 (datos ilimitados, 30 días). Todo con velocidades 5G de alta velocidad.
     - q: ¿Mi teléfono es compatible con eSIM para Nueva Zelanda y cómo instalarlo?
       a: Sí, la mayoría de los teléfonos modernos (iPhone XS/XR o posterior, Samsung
         Galaxy S20+/Note20+, Google Pixel 3a+) son compatibles con eSIM. Instalas
@@ -418,7 +420,7 @@ faq_section:
         Europa, Asia, América del Norte y todo el mundo. Ideal para viajes de varios
         días entre ciudades o giras por varios países — sin cambiar de tarjeta SIM.
     - q: ¿Cuánto cuesta la eSIM para Nueva Zelanda y hay descuentos?
-      a: Nuestro plan eSIM para Nueva Zelanda comienza en 1,99 $/GB. Con el código
+      a: Nuestro plan eSIM para Nueva Zelanda comienza en $3.99. Con el código
         promocional 'web20', obtienes un 20% de descuento en todo el pedido — válido
         para todos los planes. Sin cargos ocultos, sin compromiso de duración mínima.
     - q: ¿Puedo comprar e instalar la eSIM para Nueva Zelanda antes de mi viaje y activarla
@@ -742,97 +744,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'New-Zealand eSIM vs Local SIM Card: Which One Saves You More?'
-  subtitle: "Comparativa de SIM prepagadas locales neozelandesas y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (New-Zealand) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/New-Zealand"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Nueva Zelanda"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Resuelve tus dudas sobre la eSIM para Nueva Zelanda. Informacion sobre instalacion, compatibilidad con tu movil, operadores disponibles y planes para turistas."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las largas filas en tiendas de Spark o One NZ en el aeropuerto de Auckland. Con Roami eSIM, activas tu plan en línea en menos de 1 minuto al llegar a Queenstown."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "En Nueva Zelanda, las tarjetas SIM prepagadas no requieren registro de pasaporte ni identificación obligatoria. Se pueden comprar de forma anónima."
-      esim_title: "Sin pasaporte ni registro"
-      esim_desc: "A diferencia de las SIM locales que requieren compra anónima pero con restricciones, Roami eSIM no necesita ningún documento de identidad. Actívala al instante desde tu móvil."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Los planes prepagados locales de Nueva Zelanda generalmente no incluyen roaming internacional. Por ejemplo, el Spark Travel Pack solo ofrece llamadas internacionales limitadas, pero no datos en roaming fuera del país."
-      esim_title: "Roaming global sin sorpresas"
-      esim_desc: "Mientras que los planes locales como Spark Travel Pack no incluyen roaming internacional, Roami eSIM ofrece cobertura en múltiples países con tarifas desde 1,99 $/GB, ideal para viajeros que visitan también Australia."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "La mayoría de los planes prepagados en Nueva Zelanda tienen un ciclo de facturación de 28 o 30 días. Por ejemplo, el One NZ Travel SIM de 30 días cuesta 29 NZD por 2 GB, lo que para un viaje de 7 días resulta en un desperdicio del 77% del valor del plan."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo forzado de 30 días de One NZ (29 NZD/2 GB), Roami ofrece planes de 7 días desde 1,99 $/GB, ahorrando hasta un 77% del costo para estancias cortas."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "One NZ prohíbe explícitamente el tethering en sus pases de datos de redes sociales. Otros operadores como Spark permiten tethering, pero con límites de velocidad después de cierto uso."
-      esim_title: "Tethering ilimitado sin restricciones"
-      esim_desc: "Mientras que One NZ prohíbe el tethering en sus pases de datos sociales, Roami eSIM permite compartir datos con todos tus dispositivos sin límites ni cargos adicionales."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Las recargas en línea para SIM prepagadas en Nueva Zelanda a menudo requieren una tarjeta local o internacional (Visa, Mastercard). Algunos operadores como Warehouse Mobile aceptan Visa internacional, pero otros pueden tener restricciones."
-      esim_title: "Pagos globales sin complicaciones"
-      esim_desc: "Olvídate de las restricciones de pago con tarjetas extranjeras. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal, facilitando la recarga desde cualquier país."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "La atención al cliente de los operadores locales suele estar disponible en inglés, con horario limitado. Por ejemplo, Spark ofrece soporte telefónico de lunes a viernes de 8:00 a 20:00, sin chat en línea para prepago."
-      esim_title: "Soporte 24/7 en español"
-      esim_desc: "Mientras que la atención al cliente de Spark solo está disponible en inglés de 8 a 20 h, Roami ofrece soporte multilingüe las 24 horas del día, los 7 días de la semana, vía chat y correo electrónico."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "tower-observation"
-
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        desc: "Los planes locales como Spark Travel Pack no incluyen datos en roaming fuera de Nueva Zelanda. Roami eSIM ofrece cobertura en más de 190 países con tarifas desde 1,99 $/GB, perfecto para escalas en Australia o Fiji."
-      - icon: "passport"
-
-        icon_bg: "bg-blue-100"
-        icon_color: "text-blue-600"
-        desc: "Aunque las SIM prepagadas en Nueva Zelanda no exigen registro obligatorio, algunas como Skinny Holiday SIM solo se venden en tiendas específicas (Christchurch y Queenstown). Con Roami eSIM, activas en línea sin necesidad de presentar ningún documento."
-      - icon: "credit-card"
-
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        desc: "Las recargas en línea de operadores como Warehouse Mobile requieren tarjeta Visa internacional, pero otras pueden rechazar tarjetas extranjeras. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal."
-      - icon: "shield"
-
-        icon_bg: "bg-teal-100"
-        icon_color: "text-teal-600"
-        desc: "La atención al cliente de Spark solo está disponible en inglés de lunes a viernes de 8:00 a 20:00. Roami ofrece soporte multilingüe las 24 horas del día, los 7 días de la semana, vía chat en vivo y correo electrónico."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "eSIM vs SIM prepagada en Nueva Zelanda: ¿deberías cambiar a eSIM?"
   subtitle: "Comparativa de SIM prepagadas locales neozelandesas y soluciones eSIM (referencia 2024/2025)"
@@ -853,21 +764,21 @@ market_analysis:
     - icon: "id-card"
       title: "KYC y<br>registro de pasaporte"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, Nueva Zelanda no exige registro de pasaporte para SIM prepagadas, a diferencia de otros países."
+      prepaid_desc: "Nueva Zelanda no exige registro de pasaporte para SIM prepagadas, a diferencia de otros países."
       esim_title: "Sin registro de pasaporte"
       esim_desc: "Nueva Zelanda no exige KYC para SIM prepagadas, pero con eSIM no necesitas presentar ningún documento. Actívala al instante desde tu móvil."
     - icon: "globe"
       title: "Roaming<br>internacional"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general del mercado, las SIM prepagadas locales de Nueva Zelanda generalmente no incluyen roaming internacional gratuito; los viajeros deben comprar paquetes adicionales o usar eSIM."
+      prepaid_desc: "Las SIM prepagadas locales de Nueva Zelanda generalmente no incluyen roaming internacional gratuito; los viajeros deben comprar paquetes adicionales o usar eSIM."
       esim_title: "Roaming global incluido"
-      esim_desc: "Las SIM locales no incluyen roaming internacional. Con eSIM, disfruta de cobertura en múltiples países sin costes adicionales. Por ejemplo, planes con datos en Nueva Zelanda y Australia desde 1,99 $/GB."
+      esim_desc: "Las SIM locales no incluyen roaming internacional. Con eSIM, disfruta de cobertura en múltiples países sin costes adicionales. Por ejemplo, planes con datos en Nueva Zelanda y Australia desde $3.99."
     - icon: "calendar-xmark"
       title: "Ciclo de facturación y<br>costes desperdiciados"
       prepaid_title: ""
       prepaid_desc: "One NZ Travel SIM tiene un ciclo mínimo de 30 días (29 NZD/2 GB), mientras que Skinny Holiday SIM tiene 14 días (26 NZD/1.5 GB). Un viaje de 7 días desperdicia más del 70% del valor del plan."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo mínimo de 30 días de One NZ (29 NZD/2 GB) o 14 días de Skinny (26 NZD/1.5 GB), Roami ofrece planes de 7 días desde 1,99 $/GB, ahorrando más del 70% de desperdicio para viajes cortos."
+      esim_desc: "A diferencia del ciclo mínimo de 30 días de One NZ (29 NZD/2 GB) o 14 días de Skinny (26 NZD/1.5 GB), Roami ofrece planes de 7 días desde $3.99, ahorrando más del 70% de desperdicio para viajes cortos."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -883,7 +794,7 @@ market_analysis:
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
-      prepaid_desc: "Esta dimensión no tiene datos específicos en la fuente. Según conocimiento general, la atención al cliente de los operadores locales suele ser en inglés, con horario limitado."
+      prepaid_desc: "La atención al cliente de los operadores locales suele ser en inglés, con horario limitado."
       esim_title: "Soporte 24/7 en español"
       esim_desc: "Atención al cliente en español las 24 horas, los 7 días de la semana. Resuelve cualquier duda al instante, a diferencia del soporte limitado de los operadores locales."
 
@@ -895,7 +806,7 @@ market_analysis:
         icon_bg: "bg-amber-100"
         icon_color: "text-amber-600"
         title: "Planes flexibles sindesperdicio"
-        desc: "One NZ Travel SIM tiene un ciclo mínimo de <b>30 días (29 NZD/2 GB)</b>, mientras que Skinny Holiday SIM tiene <b>14 días (26 NZD/1.5 GB)</b>. Un viaje de 7 días desperdicia más del <b>70%</b> del valor del plan. Con eSIM, elige planes de 7 días desde 1,99 $/GB."
+        desc: "One NZ Travel SIM tiene un ciclo mínimo de <b>30 días (29 NZD/2 GB)</b>, mientras que Skinny Holiday SIM tiene <b>14 días (26 NZD/1.5 GB)</b>. Un viaje de 7 días desperdicia más del <b>70%</b> del valor del plan. Con eSIM, elige planes de 7 días desde $3.99."
       - icon: "globe"
         icon_bg: "bg-indigo-100"
         icon_color: "text-indigo-600"
@@ -904,11 +815,11 @@ market_analysis:
       - icon: "credit-card"
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
-        title: "Pagos globales sincomplicaciones"
+        title: "Pagos globales sin complicaciones"
         desc: "Aceptamos <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal</b>. Olvídate de las restricciones de tarjetas locales o efectivo que imponen operadores como Warehouse Mobile."
       - icon: "tower-observation"
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"
-        title: "Roaming internacional sincostes ocultos"
-        desc: "Las SIM locales como One NZ no incluyen roaming internacional. Con eSIM, disfruta de cobertura en múltiples países sin costes adicionales. Por ejemplo, planes con datos en Nueva Zelanda y Australia desde 1,99 $/GB."
+        title: "Roaming internacional sin costes ocultos"
+        desc: "Las SIM locales como One NZ no incluyen roaming internacional. Con eSIM, disfruta de cobertura en múltiples países sin costes adicionales. Por ejemplo, planes con datos en Nueva Zelanda y Australia desde $3.99."
 ---

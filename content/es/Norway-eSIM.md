@@ -1,6 +1,6 @@
 ---
 title: Plan eSIM Noruega | Mejor eSIM de viaje 2026 | Roami
-date: '2026-06-24T04:05:26+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,6 +20,8 @@ modal:
     ¡Nuestro servicio eSIM ha sido actualizado a <strong>PhoneSIM</strong>!<br>Los nuevos clientes obtienen un 20% de descuento con el código: web20
 seo:
   title: eSIM Noruega | Internet Rápido con Cobertura Nacional
+  low_price: 1.99
+  high_price: 79.99
   description: Roami te conecta a la mejor red local de Noruega. Lleva datos ilimitados
     mientras recorres paisajes nevados, con activación instantánea y cobertura nacional
     hasta el Círculo Polar.
@@ -441,9 +443,9 @@ faq_section:
       a: El código QR es válido durante 30 días después de su envío a tu correo electrónico.
         Tienes suficiente tiempo para instalar la eSIM antes de tu viaje. Pasado ese
         plazo, podemos proporcionarte un nuevo código.
-        Roami ofrece planes desde $1.99/GB (7 dias) hasta $59.99 por datos ilimitados (30 dias), con velocidades 5G de 100 a 300 Mbps en la mayoria de zonas urbanas.
+        En Roami, los precios van desde $1.99 por 1 GB (3 días) hasta $79.99 por datos ilimitados (30 días).
     - q: ¿Cuánto cuesta la eSIM para Noruega y hay descuentos?
-      a: Nuestro plan eSIM para Noruega comienza en 1,99 $/GB. Con el código promocional
+      a: Nuestro plan eSIM para Noruega comienza en $1.99. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
   - id: faq-airport
@@ -746,97 +748,6 @@ related_products:
     is_highlight: false
     slug: australia-esim
 # =============== Módulo de comparación basado en datos ===============
-market_analysis_1:
-  title: 'Norway eSIM Compared to Prepaid SIM Cards: What You Need to Know'
-  subtitle: "Comparativa de SIM prepagadas locales noruegas y soluciones eSIM (referencia 2024/2025)"
-  citation:
-    text: "Fuente: Prepaid Data SIM Card Wiki (Norway) + sitios oficiales de operadores locales"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Norway"
-  table_headers:
-    - "Matriz de comparación"
-    - "SIM prepagada local (datos de mercado)"
-    - "Roami eSIM para Noruega"
-  table_rows:
-    - icon:
-      title: Acquisition &<br>Activation
-
-      prepaid_title: ""
-      prepaid_desc: "Descubre como funciona la eSIM para Noruega: activacion instantanea, redes compatibles y la mejor relacion calidad-precio en datos moviles."
-      esim_title: "Activación instantánea sin colas"
-      esim_desc: "Evita las colas en tiendas Telenor o el viaje a la única tienda de MyCall en Oslo. Activa tu eSIM en línea en un minuto al llegar a Noruega, sin necesidad de buscar una tienda física."
-    - icon:
-      title: KYC & Real-Name<br>Registration
-
-
-      prepaid_title: ""
-      prepaid_desc: "Telenor exige presentar el pasaporte en la tienda para registrarse. Telia requiere que los extranjeros se registren con pasaporte o documento de identidad de la UE en una tienda oficial."
-      esim_title: "Sin pasaporte ni registro"
-      esim_desc: "Olvídate del registro obligatorio con pasaporte en Telenor o Telia. Con eSIM no necesitas presentar documentos ni pasar por el engorroso proceso KYC, ideal para viajeros."
-    - icon:
-      title: International<br>Roaming
-
-
-      prepaid_title: ""
-      prepaid_desc: "Lyca Mobile aplica un límite de uso justo (FUP) en roaming UE: el plan de 50 GB solo permite 32 GB en roaming, y el de 30 GB solo 25.5 GB. Telia no ofrece roaming gratuito en sus planes prepago; se necesita un paquete adicional."
-      esim_title: "Roaming global sin límites ocultos"
-      esim_desc: "Evita los límites FUP de Lyca Mobile (ej. 50 GB se reducen a 32 GB en roaming UE). Con eSIM disfrutas de datos completos en toda Europa, sin restricciones ni cargos adicionales."
-    - icon:
-      title: Billing Cycle &<br>Sunk Cost
-
-
-      prepaid_title: ""
-      prepaid_desc: "Telia ofrece planes con validez de 31 días: 3 GB por 269 NOK, 7 GB por 369 NOK, 20 GB por 479 NOK. Un turista que viaja 4 días y compra el plan de 1 GB por 119 NOK desperdicia el 87% del valor del plan."
-      esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de 31 días de Telia (ej. 3 GB por 269 NOK), Roami ofrece planes de datos de 7 días desde 1,99 $/GB, ahorrando hasta un 87% de desperdicio para estancias cortas."
-    - icon:
-      title: Hotspot &<br>Speed Policies
-
-
-      prepaid_title: ""
-      prepaid_desc: "Lyca Mobile prohíbe explícitamente el tethering (compartir datos). Telenor permite tethering pero tras 1 GB mensual la velocidad se reduce a 128 Kbps."
-      esim_title: "Tethering ilimitado sin bloqueos"
-      esim_desc: "Mientras Lyca Mobile bloquea el tethering y Telenor lo limita a 1 GB antes de reducir la velocidad, con eSIM puedes compartir datos libremente a máxima velocidad."
-    - icon:
-      title: Top-up Payments
-
-
-      prepaid_title: ""
-      prepaid_desc: "Telenor y Telia solo aceptan tarjetas de crédito nórdicas para recargas online; las tarjetas internacionales son rechazadas. Los usuarios deben comprar vales físicos (Ladekode) en tiendas, sin menú en inglés."
-      esim_title: "Pagos globales sin rechazos"
-      esim_desc: "Olvídate de las restricciones de pago de Telenor y Telia que solo aceptan tarjetas nórdicas. Con eSIM paga con Visa, Mastercard, AMEX, Apple Pay, Google Pay o PayPal sin problemas."
-    - icon:
-      title: Customer Support
-
-
-      prepaid_title: ""
-      prepaid_desc: "La atención telefónica de Telenor y Telia solo está disponible en noruego, sin opción en inglés. No hay chat en línea para clientes prepago."
-      esim_title: "Soporte 24/7 en tu idioma"
-      esim_desc: "Mientras la atención al cliente de Telenor y Telia solo está en noruego, Roami ofrece soporte en español e inglés las 24 horas, los 7 días de la semana."
-  # =============== Módulo Veredicto de Expertos ===============
-  expert_verdict_1:
-    cards:
-      - icon: "credit-card"
-
-        icon_bg: "bg-emerald-100"
-        icon_color: "text-emerald-600"
-        desc: "Telenor y Telia solo aceptan tarjetas nórdicas para recargas online; las internacionales son rechazadas. Con eSIM pagas con Visa, Mastercard, AMEX, Apple Pay, Google Pay o PayPal."
-      - icon: "tower-observation"
-
-        icon_bg: "bg-rose-100"
-        icon_color: "text-rose-600"
-        desc: "Lyca Mobile reduce su plan de 50 GB a solo 32 GB en roaming UE (FUP del 36%). Con eSIM, disfrutas de tus datos completos en toda Europa sin restricciones ocultas."
-      - icon: "hourglass-empty"
-
-        icon_bg: "bg-amber-100"
-        icon_color: "text-amber-600"
-        desc: "Telia vende planes de 31 días (ej. 3 GB por 269 NOK). Un viaje de 4 días desperdicia el 87% del plan. Roami ofrece planes desde 7 días y 1,99 $/GB, sin desperdicio."
-      - icon: "globe"
-
-        icon_bg: "bg-purple-100"
-        icon_color: "text-purple-600"
-        desc: "Las SIM físicas se atan a una red (ej. Telenor o Telia). En zonas como Trollstigen, solo Telia tiene señal. eSIM permite cambiar de red o usar múltiples operadores para mejor cobertura."
-
-# =============== Módulo de comparación basado en datos ===============
 market_analysis:
   title: "Ventajas e inconvenientes de eSIM y SIM física en Noruega"
   subtitle: "Comparativa de SIM prepagadas locales noruegas y soluciones eSIM (referencia 2024/2025)"
@@ -871,7 +782,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Telia ofrece planes de datos con validez de 31 días (ej. 3 GB por 269 NOK); Telenor aplica tope diario de 20 NOK pero limita el tráfico rápido a 1 GB al mes. Un turista de 4 días desperdicia gran parte del plan."
       esim_title: "Planes flexibles sin desperdicio"
-      esim_desc: "A diferencia del ciclo de 31 días de Telia (3 GB por 269 NOK) o el tope mensual de 1 GB de Telenor, Roami ofrece planes de datos desde 7 días y desde 1,99 $/GB, ahorrando hasta un 75% en viajes cortos."
+      esim_desc: "A diferencia del ciclo de 31 días de Telia (3 GB por 269 NOK) o el tope mensual de 1 GB de Telenor, Roami ofrece planes de datos desde 7 días y desde $2.99, ahorrando hasta un 75% en viajes cortos."
     - icon: "wifi"
       title: "Tethering y<br>políticas de velocidad"
       prepaid_title: ""
@@ -883,7 +794,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Telenor y Telia solo aceptan tarjetas de crédito nórdicas para recarga online; los turistas deben comprar vales físicos 'Ladekode' en tiendas, sin menú en inglés."
       esim_title: "Pagos globales sin barreras"
-      esim_desc: "Olvida las restricciones de Telenor y Telia que solo aceptan tarjetas nórdicas. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal."
+      esim_desc: "Olvida las restricciones de Telenor y Telia que solo aceptan tarjetas nórdicas. En Roami se puede pagar con Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal."
     - icon: "headset"
       title: "Atención<br>al cliente"
       prepaid_title: ""
@@ -893,7 +804,7 @@ market_analysis:
 
   # =============== Módulo Veredicto de Expertos ===============
   expert_verdict:
-    title: "eSIM para Noruega: la solución más inteligente yeconómica frente a la SIM física local"
+    title: "eSIM para Noruega: la solución más inteligente y económica frente a la SIM física local"
     cards:
       - icon: "shield"
         icon_bg: "bg-teal-100"
@@ -909,7 +820,7 @@ market_analysis:
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "Pagos globales sinbarreras"
-        desc: "Telenor y Telia solo aceptan tarjetas nórdicas para recarga online. Roami acepta Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal."
+        desc: "Telenor y Telia solo aceptan tarjetas nórdicas para recarga online. Roami trabaja con Visa, Mastercard, AMEX, Apple Pay, Google Pay y PayPal."
       - icon: "wifi"
         icon_bg: "bg-green-100"
         icon_color: "text-green-600"
