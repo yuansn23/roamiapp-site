@@ -1,6 +1,6 @@
 ---
 title: 'Mauritius eSIM 2026: Complete Travel Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,8 +21,7 @@ modal:
 seo:
   title: Mauritius eSIM | Best 5G Prepaid Data for Travelers
   description: 'Roami''s best prepaid Mauritius eSIM for your trip. Unlimited 5G data with instant activation. Covers Port Louis, Curepipe. Instant activation.'
-  keywords: Mauritius eSIM, buy Mauritius eSIM, best Mauritius eSIM, Mauritius travel eSIM, Emtel Mauritius, my.t Mauritius,
-    Orange Mauritius, Port Louis eSIM, Quatre Bornes eSIM, Curepipe eSIM, Mauritius prepaid eSIM, 5G Mauritius eSIM
+  keywords: 'Mauritius eSIM, Mauritius eSIM plans, best Mauritius eSIM, cheap Mauritius eSIM, buy Mauritius eSIM online, unlimited data Mauritius eSIM, prepaid Mauritius eSIM, best eSIM for Mauritius, eSIM Mauritius price, Mauritius eSIM activation, Mauritius eSIM coverage, best eSIM for Port Louis, Port Louis eSIM, Quatre Bornes eSIM'
   low_price: 7.99
   high_price: 98.99
 order_summary:
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Mauritius carriers for the best signal
-plans_title: 'Mauritius eSIM Plans Built Around Your Itinerary'
+plans_title: 'Mauritius eSIM Data Plans: Compare Prepaid Prices Before You Fly'
 plans_data:
   7 Days:
   - spec: 1GB
@@ -302,6 +301,8 @@ reminders:
     html: 'Background reading: the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM hub and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> support pages (including the <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel FAQ</a>) answer most first-timer questions.'
   - icon: 🧭
     html: 'Multi-country trip? Take a look at our <a href="/macedonia-esim/">Macedonia eSIM</a> and <a href="/mexico-esim/">Mexico eSIM</a> pages as well.'
+  - icon: 🗺️
+    html: Splitting the trip between Port Louis and Quatre Bornes? One Mauritius eSIM covers both cities on the same plan.
   compatibility_check:
     title: 'Is Your Phone eSIM-Ready?'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'

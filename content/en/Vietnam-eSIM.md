@@ -1,6 +1,6 @@
 ---
 title: 'Vietnam eSIM 2026: City & Network Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,8 +20,7 @@ modal:
 seo:
   title: Vietnam eSIM | Unlimited 5G Data for Your Journey
   description: 'Vietnam eSIM: unlimited 5G data, instant QR activation from $1.99. Covers Ho Chi Minh City & Hanoi.'
-  keywords: Vietnam eSIM, buy Vietnam eSIM, best Vietnam eSIM, Vietnam travel eSIM, Viettel Vietnam, Mobifone Vietnam, Vinaphone
-    Vietnam, Ho Chi Minh City eSIM, Hanoi eSIM, Da Nang eSIM, Vietnam prepaid eSIM, 5G Vietnam eSIM
+  keywords: 'Vietnam eSIM, Vietnam eSIM plans, best Vietnam eSIM, cheap Vietnam eSIM, buy Vietnam eSIM online, unlimited data Vietnam eSIM, prepaid Vietnam eSIM, best eSIM for Vietnam, Vietnam eSIM with phone number, eSIM Vietnam price, Vietnam eSIM activation, Vietnam eSIM coverage, best eSIM for Ho Chi Minh City, Ho Chi Minh City eSIM, Hanoi eSIM'
   low_price: 1.99
   high_price: 74.99
 order_summary:
@@ -46,7 +45,7 @@ hero:
   title: 'Vietnam eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Vietnam
 features:
-  title: 'Why Vietnam Travelers Pick Roami: Coverage, Plans and Help'
+  title: 'Vietnam eSIM Benefits: Unlimited Data, 5G Speeds and Prepaid Plans'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -72,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Vietnam carriers for the best signal
-plans_title: 'Flexible Vietnam eSIM Plans: Data for Any Trip Length'
+plans_title: 'Compare Vietnam eSIM Plans: Prepaid, Unlimited and Fixed-Data'
 plans_data:
   15 Days:
   - spec: 3GB
@@ -315,7 +314,7 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Set Up Your Vietnam eSIM Before Departure: Key Tips'
+  title: 'Vietnam eSIM Activation and Compatibility: Get Ready to Fly'
   items:
   - icon: 📱
     html: Not sure your handset supports eSIM? Check the <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibility checklist</a> first.
@@ -333,6 +332,12 @@ reminders:
     html: 'Want the technical background? See the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM pages and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> setup support, plus its guide to <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">using eSIM abroad</a>.'
   - icon: 🧭
     html: 'If your itinerary includes other countries, see the <a href="/fiji-esim/">Fiji eSIM</a> and <a href="/algeria-esim/">Algeria eSIM</a> options.'
+  - icon: 🗺️
+    html: City-hopping between Ho Chi Minh City and Hanoi? The Vietnam eSIM switches networks automatically.
+  - icon: 📞
+    html: Data-only keeps the Vietnam eSIM cheap and instant — your regular line stays active for calls and messages throughout the trip.
+  - icon: 🌏
+    html: Crossing into Cambodia as well? A multi-country plan keeps the same eSIM live in both.
   compatibility_check:
     title: 'Compatibility Check in 10 Seconds'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -401,6 +406,14 @@ faq_section:
         Can I use my Vietnam eSIM right after buying it, or do I need to wait?
       a: |
         The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Vietnam. So you can install weeks before your trip without losing any plan days.
+    - q: |
+        Does the Vietnam eSIM come with a phone number, or is it data-only?
+      a: |
+        Roami Vietnam plans are data-only, which keeps prices low and activation instant. Your regular number stays active, so calls and SMS keep arriving on your home SIM while the eSIM handles data in Vietnam.
+    - q: |
+        Can I use my Vietnam eSIM in Cambodia too?
+      a: |
+        A Vietnam-only plan is designed for Vietnam. If the trip continues into Cambodia, choose a regional or multi-country plan so one eSIM keeps working across the border.
 related_products:
   title: Related Vietnam eSIM Plans
   items:

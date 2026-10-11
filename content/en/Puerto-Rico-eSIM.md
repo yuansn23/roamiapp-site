@@ -1,6 +1,6 @@
 ---
 title: 'Puerto Rico eSIM 2026: Operator & Coverage Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Claro Puerto Rico, Liberty Puerto Rico, T-Mobile Puerto Rico
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: San Juan, Ponce, Mayagüez, Caguas, Carolina
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  main_packages: 3/7/15/30 Days, Prepaid Data
 modal:
   title: Service Upgraded!
   btn_text: Continue
@@ -21,9 +21,7 @@ modal:
 seo:
   title: Puerto Rico eSIM | 5G Prepaid Data Plan for Travelers
   description: 'Explore Puerto Rico eSIM with the best prepaid travel eSIM from Roami. Prepaid 5G data up to 30GB island-wide. Covers San Juan, Ponce. Instant activation.'
-  keywords: Puerto Rico eSIM, buy Puerto Rico eSIM, best Puerto Rico eSIM, Puerto Rico travel eSIM, Claro Puerto Rico Puerto
-    Rico, Liberty Puerto Rico Puerto Rico, T-Mobile Puerto Rico Puerto Rico, San Juan eSIM, Ponce eSIM, Mayagüez eSIM, Puerto
-    Rico prepaid eSIM, 5G Puerto Rico eSIM
+  keywords: 'Puerto Rico eSIM, Puerto Rico eSIM plans, best Puerto Rico eSIM, cheap Puerto Rico eSIM, buy Puerto Rico eSIM online, Puerto Rico eSIM data plans, prepaid Puerto Rico eSIM, best eSIM for Puerto Rico, Puerto Rico eSIM with phone number, eSIM Puerto Rico price, Puerto Rico eSIM activation, Puerto Rico eSIM coverage, best eSIM for San Juan, San Juan eSIM, Ponce eSIM'
   low_price: 6.99
   high_price: 64.99
 order_summary:
@@ -45,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/pu.svg
   flag_alt: Puerto Rico Flag
-  title: 'Puerto Rico eSIM: Stay Connected Everywhere You Go'
+  title: 'Puerto Rico eSIM: Fast Data & Instant QR Delivery'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Puerto Rico
 features:
   title: 'Why Puerto Rico Travelers Choose Roami: Data, Coverage & Support'
@@ -74,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Puerto Rico carriers for the best signal
-plans_title: 'Puerto Rico eSIM Data Plans for Every Stay'
+plans_title: 'Puerto Rico eSIM Data Plans: Compare Prepaid Prices Before You Fly'
 plans_data:
   7 Days:
   - spec: 1GB
@@ -204,6 +202,12 @@ reminders:
     html: 'New to eSIM? <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> explains the standard, and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> plus its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel guide</a> walk through setup.'
   - icon: 🧭
     html: 'Heading further afield? Compare <a href="/ivory-coast-esim/">Ivory Coast eSIM</a> and <a href="/jamaica-esim/">Jamaica eSIM</a> plans before you book.'
+  - icon: 🗺️
+    html: 'San Juan and Ponce are both covered by the same Puerto Rico eSIM — one plan, one balance.'
+  - icon: 📞
+    html: 'Roami Puerto Rico plans are data-only. Your own number keeps working for calls and texts, while the eSIM carries all your mobile data.'
+  - icon: 🌏
+    html: Extending your travels further afield? A multi-country plan covers the wider region on one eSIM.
   compatibility_check:
     title: 'Quick Compatibility Check'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -253,9 +257,9 @@ faq_section:
       a: |
         Correct — Puerto Rico eSIM doesn't need passport or ID verification. Puerto Rico prepaid cards typically do NOT require KYC. Just purchase, install, and you're online. No uploading documents, no waiting for approval. Install before you leave, enable Data Roaming on arrival, and you're set.
     - q: |
-        What's the difference between a 5GB plan and an unlimited plan for Puerto Rico?
+        Does Puerto Rico have an unlimited plan, or only fixed-data plans?
       a: |
-        A 5GB plan gives you a fixed amount of high-speed data, 5GB in total. Once it is used up, you top up or buy a new plan. Unlimited plans keep providing data, though speeds may reduce after 30GB in a day under the fair usage policy. For most travelers doing maps, messaging and social media, 5GB is perfectly sufficient.
+        Puerto Rico plans are sold by data size, so the allowance you buy is exactly what you get at full speed. There is no unlimited option for Puerto Rico; if you run out, top up or buy another plan before you travel on.
     - q: |
         Does the Puerto Rico eSIM work in rural areas and smaller towns?
       a: |
@@ -272,6 +276,14 @@ faq_section:
         What if I accidentally delete my Puerto Rico eSIM before my trip?
       a: |
         No problem — sign in to your Roami account and re-download the QR code in about a minute. It is worth saving it as a screenshot or PDF the first time you receive it.
+    - q: |
+        Is my device Puerto Rico eSIM compatible, and how can I confirm it?
+      a: |
+        Almost every recent flagship supports eSIM, including iPhone XS and later, Pixel 3 and later, and most Galaxy S20-and-newer models. To confirm in under a minute, dial *#06#: an EID on screen means your phone is ready.
+    - q: |
+        Will I be able to make calls and send texts with a Puerto Rico eSIM?
+      a: |
+        There is no Puerto Rico number bundled with a Roami plan; it is built for data. Dual-SIM phones keep the home line live for incoming calls and SMS while messaging and internet calls use the eSIM.
 related_products:
   title: Related Puerto Rico eSIM Plans
   items:

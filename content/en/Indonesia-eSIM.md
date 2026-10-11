@@ -1,6 +1,6 @@
 ---
 title: 'Indonesia eSIM - 5G in Bali & Jakarta | No IMEI Tax | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Indonesia eSIM - Best 5G Prepaid Plan | No IMEI Tax
-  description: 'Indonesia eSIM: 5G on Telkomsel, Indosat Ooredoo, XL Axiata. No IMEI registration or 40% tax — skip airport price gouging. Instant QR activation from $1.99.'
-  keywords: Indonesia eSIM, buy Indonesia eSIM, best Indonesia eSIM, Indonesia travel eSIM, Telkomsel Indonesia, Indosat Ooredoo Indonesia, XL Axiata Indonesia, Jakarta eSIM, Bali eSIM, Yogyakarta eSIM, Indonesia prepaid eSIM, 5G Indonesia eSIM, Indonesia eSIM no IMEI
+  title: 'Cheap Indonesia eSIM - Prepaid & Unlimited Data Plans'
+  description: 'Choose an Indonesia eSIM plan from $1.99. Prepaid and unlimited data on Telkomsel and Indosat Ooredoo, instant QR activation and no hidden fees.'
+  keywords: 'Indonesia eSIM, Indonesia eSIM plans, best Indonesia eSIM, cheap Indonesia eSIM, buy Indonesia eSIM online, unlimited data Indonesia eSIM, prepaid Indonesia eSIM, best eSIM for Indonesia, eSIM Indonesia price, Indonesia eSIM activation, Indonesia eSIM coverage, best eSIM for Bali, Bali eSIM, Jakarta eSIM'
   low_price: 1.99
   high_price: 68.99
 order_summary:
@@ -42,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/id.svg
   flag_alt: Indonesia Flag
-  title: 'Indonesia eSIM: 5G in Bali, Jakarta & Beyond — No IMEI Tax'
+  title: 'Indonesia eSIM: Unlimited and Prepaid Data Plans for Travelers'
   subtitle: 5G on Telkomsel, Indosat & XL | No IMEI registration | No 40% device tax | 24/7 support
 features:
-  title: 'What Makes Roami a Good Fit for Indonesia: Plans and Coverage'
+  title: 'How Roami Covers Indonesia: Prepaid Plans, Unlimited Data and Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -75,7 +75,7 @@ features:
     color: from-sky-400 to-sky-600
     title: Bali & Islands Ready
     desc: 4G/5G across Bali, Java & major tourist islands — stay connected from Seminyak to Ubud
-plans_title: 'Flexible Indonesia eSIM Plans: Data for Any Trip Length'
+plans_title: 'Buy a Indonesia eSIM Plan: Cheap Prepaid Data from 3 to 30 Days'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -293,7 +293,7 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Indonesia eSIM Coverage: Networks, Bands and Reach'
+  title: 'Indonesia eSIM Coverage Details: Carriers, Bands and Cities'
   supports_text: 'Supports:'
   service_details:
     title: 'What Your eSIM Covers'
@@ -324,7 +324,7 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Set Up Your Indonesia eSIM Before Departure: Key Tips'
+  title: 'Indonesia eSIM Activation Guide: Check Your Device First'
   items:
   - icon: 📱
     html: Check that your device supports eSIM — see the <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">phone compatibility list</a>.
@@ -348,6 +348,10 @@ reminders:
     html: 'Learn how eSIM works from the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a>; device setup steps are documented by <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> and its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">traveling with eSIM guide</a>.'
   - icon: 🧭
     html: 'Traveling on from Indonesia? Prices for <a href="/madagascar-esim/">Madagascar eSIM</a> and <a href="/ukraine-esim/">Ukraine eSIM</a> are worth comparing.'
+  - icon: 🗺️
+    html: 'Off to Bali or Jakarta? Your Indonesia eSIM works the same in both cities and everywhere between them.'
+  - icon: 🌏
+    html: 'Travelling on to Singapore? A regional plan keeps one eSIM working in both — no second SIM to buy.'
   compatibility_check:
     title: 'Check Your Phone Compatibility'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -355,7 +359,7 @@ reminders:
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'Indonesia eSIM Activation: A Simple Three-Step Guide'
+  title: 'Install Your Indonesia eSIM: A Three-Step Activation Guide'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
@@ -374,7 +378,7 @@ activation_steps:
     desc: Upon arriving in Indonesia, enable your Indonesia eSIM in settings to start using data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Indonesia eSIM Guide: 5G, IMEI Tax & Travel Tips"
+  title: 'Indonesia eSIM Guide: Coverage, Activation and Where It Works Best'
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Indonesia. Find out what speeds to expect in Bali, Jakarta, and Yogyakarta — and how to avoid the IMEI tax trap."
   categories:
   - id: faq-general
@@ -418,6 +422,18 @@ faq_section:
         When does the validity period of my Indonesia eSIM start?
       a: |
         The plan validity starts when you connect to a local network in Indonesia, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+    - q: |
+        What is the price of a Indonesia eSIM, and how much data do I get?
+      a: |
+        Indonesia eSIM plans start at $1.99 and rise to unlimited data for longer stays, running on Telkomsel and Indosat Ooredoo. Match the plan to your trip: 3- and 7-day plans suit short visits, while 15- and 30-day unlimited plans work best for longer trips. Everything is prepaid, so there is no contract and no bill after you leave Indonesia.
+    - q: |
+        How good is Indonesia eSIM coverage in rural areas?
+      a: |
+        Because the Indonesia eSIM roams across Telkomsel and Indosat Ooredoo, it picks whichever network is strongest where you are — handy once you leave Bali for smaller towns. Expect reliable 4G/5G in populated areas and along highways; coverage thins only in genuinely remote terrain.
+    - q: |
+        Can I use my Indonesia eSIM in Singapore too?
+      a: |
+        A Indonesia-only plan is designed for Indonesia. If your trip continues into Singapore, choose a regional or multi-country plan so the same eSIM keeps working across the border without buying a second SIM.
 related_products:
   title: Related Indonesia eSIM Plans
   items:
@@ -462,7 +478,7 @@ related_products:
     price: From $1.99
     is_highlight: false
 market_analysis:
-  title: 'Indonesia eSIM vs Local SIM: No IMEI Tax, No Airport Markup, No Passport'
+  title: Is an Indonesia eSIM Better Than a Prepaid SIM? Full Comparison
   subtitle: Indonesia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
     text: 'Data Source: Prepaid Data SIM Card Wiki (Indonesia) + Local Operator Sites'

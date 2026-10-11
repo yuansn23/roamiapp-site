@@ -1,6 +1,6 @@
 ---
 title: 'Dominica eSIM 2026: Plan & Coverage Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,8 +20,7 @@ modal:
 seo:
   title: Dominica eSIM | Best 5G Prepaid Data for Your Stay
   description: 'Planning a trip to Dominica? Get the best prepaid Dominica eSIM from Roami with unlimited 5G data. Covers Roseau & all parishes. Instant activation.'
-  keywords: Dominica eSIM, buy Dominica eSIM, best Dominica eSIM, Dominica travel eSIM, Digicel Dominica, Flow Dominica, Orange
-    Dominica, Roseau eSIM, Portsmouth eSIM, Marigot eSIM, Dominica prepaid eSIM, 5G Dominica eSIM
+  keywords: 'Dominica eSIM, Dominica eSIM plans, best Dominica eSIM, cheap Dominica eSIM, buy Dominica eSIM online, unlimited data Dominica eSIM, prepaid Dominica eSIM, best eSIM for Dominica, eSIM Dominica price, Dominica eSIM activation, Dominica eSIM coverage, best eSIM for Roseau, Roseau eSIM, Portsmouth eSIM'
   low_price: 11.99
   high_price: 52.99
 order_summary:
@@ -43,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/dm.svg
   flag_alt: Dominica Flag
-  title: 'Dominica eSIM: Reliable Network & Coverage for Travelers'
+  title: 'Dominica eSIM: Fast Data, Unlimited Plans & 24/7 Support'
   subtitle: Best prepaid eSIM for Dominica travelers - fast 5G, instant activation, 24/7 support
 features:
-  title: 'Why Dominica Travelers Pick Roami: Coverage, Plans and Help'
+  title: 'What You Get with Roami in Dominica: Data Plans, Coverage and Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -72,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Dominica carriers for the best signal
-plans_title: 'Dominica eSIM Plans: Pick the Length That Fits Your Trip'
+plans_title: 'Cheap Dominica eSIM Plans: Prepaid Data, 3 to 30 Days'
 plans_data:
   15 Days:
   - spec: 3GB
@@ -186,6 +185,10 @@ reminders:
     html: 'Want the technical background? See the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM pages and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> setup support, plus its guide to <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">using eSIM abroad</a>.'
   - icon: 🧭
     html: 'If your itinerary includes other countries, see the <a href="/ecuador-esim/">Ecuador eSIM</a> and <a href="/indonesia-esim/">Indonesia eSIM</a> options.'
+  - icon: 🗺️
+    html: City-hopping between Roseau and Portsmouth? The Dominica eSIM switches networks automatically.
+  - icon: 🌏
+    html: More than one stop on the itinerary? One regional eSIM covers several destinations with a single balance.
   compatibility_check:
     title: 'Compatibility Check in 10 Seconds'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'

@@ -1,6 +1,6 @@
 ---
 title: 'Romania eSIM 2026: Plan & Coverage Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,8 +20,7 @@ modal:
 seo:
   title: Romania eSIM | Best Prepaid Data Plan for Visitors
   description: 'Planning a trip to Romania? Get the best prepaid Romania eSIM from Roami with unlimited 5G data. Instant QR activation. Covers Bucharest, Cluj & Transylvania.'
-  keywords: Romania eSIM, buy Romania eSIM, best Romania eSIM, Romania travel eSIM, Orange Romania, Vodafone Romania, Telekom
-    Romania, Bucharest eSIM, Cluj-Napoca eSIM, Timișoara eSIM, Romania prepaid eSIM, 5G Romania eSIM
+  keywords: 'Romania eSIM, Romania eSIM plans, best Romania eSIM, cheap Romania eSIM, buy Romania eSIM online, unlimited data Romania eSIM, prepaid Romania eSIM, best eSIM for Romania, eSIM Romania price, Romania eSIM activation, Romania eSIM coverage, best eSIM for Bucharest, Bucharest eSIM, Cluj-Napoca eSIM'
   low_price: 1.99
   high_price: 78.99
 order_summary:
@@ -43,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/ro.svg
   flag_alt: Romania Flag
-  title: 'Romania eSIM: Reliable Network & Coverage for Travelers'
+  title: 'Romania eSIM: Fast Data, Unlimited Plans & 24/7 Support'
   subtitle: Best prepaid eSIM for Romania travelers - fast 5G, instant activation, 24/7 support
 features:
-  title: 'Why Romania Travelers Choose Roami: Plans, Network & Support'
+  title: 'Romania eSIM Benefits: Unlimited Data, 5G Speeds and Prepaid Plans'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -72,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Romania carriers for the best signal
-plans_title: 'Romania eSIM Plans Built Around Your Itinerary'
+plans_title: 'Prepaid Romania eSIM Plans: Compare Prices and Durations'
 plans_data:
   7 Days:
   - spec: 1GB
@@ -348,6 +347,8 @@ reminders:
     html: 'Background reading: the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM hub and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> support pages (including the <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel FAQ</a>) answer most first-timer questions.'
   - icon: 🧭
     html: 'Multi-country trip? Take a look at our <a href="/malta-esim/">Malta eSIM</a> and <a href="/hungary-esim/">Hungary eSIM</a> pages as well.'
+  - icon: 🗺️
+    html: Splitting the trip between Bucharest and Cluj-Napoca? One Romania eSIM covers both cities on the same plan.
   compatibility_check:
     title: 'Quick Compatibility Check'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'

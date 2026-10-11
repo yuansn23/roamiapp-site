@@ -1,6 +1,6 @@
 ---
 title: 'Guadeloupe eSIM 2026: City & Network Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,9 +20,7 @@ modal:
 seo:
   title: 'Guadeloupe eSIM: 5G Coverage, No ID Verification'
   description: 'Guadeloupe eSIM plans from $8.99 with 5G on Orange, SFR, Free Mobile. No SIM queue and instant QR activation, with coverage in Pointe-à-Pitre & Basse-Terre.'
-  keywords: Guadeloupe eSIM, buy Guadeloupe eSIM, best Guadeloupe eSIM, Guadeloupe travel eSIM, Orange Guadeloupe, SFR Guadeloupe,
-    Free Mobile Guadeloupe, Pointe-à-Pitre eSIM, Basse-Terre eSIM, Le Gosier eSIM, Guadeloupe prepaid eSIM, 5G Guadeloupe
-    eSIM
+  keywords: 'Guadeloupe eSIM, Guadeloupe eSIM plans, best Guadeloupe eSIM, cheap Guadeloupe eSIM, buy Guadeloupe eSIM online, unlimited data Guadeloupe eSIM, prepaid Guadeloupe eSIM, best eSIM for Guadeloupe, eSIM Guadeloupe price, Guadeloupe eSIM activation, Guadeloupe eSIM coverage, best eSIM for Pointe-à-Pitre, Pointe-à-Pitre eSIM, Basse-Terre eSIM'
   low_price: 8.99
   high_price: 64.99
 order_summary:
@@ -73,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Guadeloupe carriers for the best signal
-plans_title: 'Guadeloupe eSIM Plans Built Around Your Itinerary'
+plans_title: 'Buy Guadeloupe eSIM: Prepaid Data Plans for Every Trip Length'
 plans_data:
   7 Days:
   - spec: 1GB
@@ -187,6 +185,8 @@ reminders:
     html: 'Background reading: the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM hub and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> support pages (including the <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel FAQ</a>) answer most first-timer questions.'
   - icon: 🧭
     html: 'Multi-country trip? Take a look at our <a href="/niger-esim/">Niger eSIM</a> and <a href="/southeast-asia-esim/">Southeast Asia eSIM</a> pages as well.'
+  - icon: 🗺️
+    html: Pointe-à-Pitre or Basse-Terre first? The Guadeloupe eSIM covers both from the moment you land.
   compatibility_check:
     title: 'Verify Your Device Supports eSIM'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -255,6 +255,10 @@ faq_section:
         I'm traveling to Guadeloupe for just 2-3 days. What eSIM should I get?
       a: |
         For a short trip, the 1GB/7 day plan ($8.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($14.99) gives more breathing room. Both activate instantly and you can top up if needed.
+    - q: |
+        What does unlimited data on a Guadeloupe eSIM include?
+      a: |
+        The plan removes the risk of topping up mid-journey: you keep full-speed data for the length of the plan, which suits travellers who stream, video-call or work remotely from Guadeloupe.
 related_products:
   title: Related Guadeloupe eSIM Plans
   items:

@@ -1,6 +1,6 @@
 ---
 title: 'Fiji eSIM 2026: 5G & Data Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,7 +20,7 @@ modal:
 seo:
   title: Fiji eSIM | Best Unlimited Data Plan for Your Journey
   description: 'Stay connected in Fiji eSIM with the best prepaid travel eSIM from Roami. Unlimited 5G data on main islands & beyond. Covers Suva, Nadi & the Mamanucas.'
-  keywords: Fiji eSIM, buy Fiji eSIM, best Fiji eSIM, Fiji travel eSIM, Vodafone Fiji, Digicel Fiji, Telecom Fiji, Suva eSIM, Nadi eSIM, Lautoka eSIM, Fiji prepaid eSIM, 5G Fiji eSIM
+  keywords: 'Fiji eSIM, Fiji eSIM plans, best Fiji eSIM, cheap Fiji eSIM, buy Fiji eSIM online, unlimited data Fiji eSIM, prepaid Fiji eSIM, best eSIM for Fiji, eSIM Fiji price, Fiji eSIM activation, Fiji eSIM coverage, best eSIM for Suva, Suva eSIM, Nadi eSIM'
   low_price: 6.99
   high_price: 94.99
 order_summary:
@@ -42,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/fj.svg
   flag_alt: Fiji Flag
-  title: 'Fiji eSIM: Instant Connectivity for Worry-Free Travel'
+  title: 'Fiji eSIM: Unlimited Data, 5G Coverage & No Contract'
   subtitle: Best prepaid eSIM for Fiji travelers - fast 5G, instant activation, 24/7 support
 features:
-  title: 'What Makes Roami a Good Fit for Fiji: Plans and Coverage'
+  title: 'What You Get with a Fiji eSIM: Unlimited Data and Full Coverage'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Fiji carriers for the best signal
-plans_title: 'Choose Your Fiji eSIM Plan: 3, 7, 15 and 30 Days'
+plans_title: 'Compare Fiji eSIM Prices: Prepaid Data Plans by Trip Length'
 plans_data:
   7 Days:
   - spec: 1GB
@@ -307,6 +307,10 @@ reminders:
     html: 'Learn how eSIM works from the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a>; device setup steps are documented by <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> and its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">traveling with eSIM guide</a>.'
   - icon: 🧭
     html: 'Traveling on from Fiji? Prices for <a href="/macedonia-esim/">Macedonia eSIM</a> and <a href="/norway-esim/">Norway eSIM</a> are worth comparing.'
+  - icon: 🗺️
+    html: Suva then Nadi — or the other way round? The Fiji eSIM does not care which order you travel in.
+  - icon: 🌏
+    html: Extending your travels further afield? A multi-country plan covers the wider region on one eSIM.
   compatibility_check:
     title: 'Quick Compatibility Check'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'

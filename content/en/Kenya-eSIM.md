@@ -1,6 +1,6 @@
 ---
 title: 'Kenya eSIM 2026: 5G & Data Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,7 +20,7 @@ modal:
 seo:
   title: Kenya eSIM | Fast Prepaid Data Plan for Tourists
   description: 'Travel to Kenya eSIM with the best prepaid travel eSIM from Roami. Unlimited 5G data on top networks. Covers Nairobi, Mombasa & Kisumu. Instant activation.'
-  keywords: Kenya eSIM, buy Kenya eSIM, best Kenya eSIM, Kenya travel eSIM, Safaricom Kenya, Airtel Kenya, Telkom Kenya, Nairobi eSIM, Mombasa eSIM, Kisumu eSIM, Kenya prepaid eSIM, 5G Kenya eSIM
+  keywords: 'Kenya eSIM, Kenya eSIM plans, best Kenya eSIM, cheap Kenya eSIM, buy Kenya eSIM online, unlimited data Kenya eSIM, prepaid Kenya eSIM, best eSIM for Kenya, eSIM Kenya price, Kenya eSIM activation, Kenya eSIM coverage, best eSIM for Nairobi, Nairobi eSIM, Mombasa eSIM'
   low_price: 7.99
   high_price: 98.99
 order_summary:
@@ -42,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/ke.svg
   flag_alt: Kenya Flag
-  title: 'Kenya eSIM: Instant Connectivity for Worry-Free Travel'
+  title: 'Kenya eSIM: Prepaid Data, 5G Speeds & Quick Setup'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Kenya travelers
 features:
-  title: 'Why Kenya Travelers Choose Roami: Coverage, Speed & Service'
+  title: 'Roami Kenya eSIM: Prepaid Data Plans, 5G Coverage and Local Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Kenya carriers for the best signal
-plans_title: 'Kenya eSIM Plans: Pick the Length That Fits Your Trip'
+plans_title: 'Buy Kenya eSIM: Prepaid Data Plans for Every Trip Length'
 plans_data:
   7 Days:
   - spec: 1GB
@@ -307,6 +307,10 @@ reminders:
     html: 'Want the technical background? See the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM pages and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> setup support, plus its guide to <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">using eSIM abroad</a>.'
   - icon: 🧭
     html: 'If your itinerary includes other countries, see the <a href="/reunion-island-esim/">Reunion Island eSIM</a> and <a href="/el-salvador-esim/">El Salvador eSIM</a> options.'
+  - icon: 🗺️
+    html: 'Two cities, one eSIM: the Kenya plan covers Nairobi and Mombasa without a second purchase.'
+  - icon: 🌏
+    html: 'Two destinations, one eSIM: a regional plan covers both Kenya and Tanzania.'
   compatibility_check:
     title: 'Compatibility Check in 10 Seconds'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -375,6 +379,10 @@ faq_section:
         Can I use my Kenya eSIM right after buying it, or do I need to wait?
       a: |
         The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Kenya. So you can install weeks before your trip without losing any plan days.
+    - q: |
+        Will the Kenya eSIM work if I cross into Tanzania?
+      a: |
+        The standard Kenya eSIM covers Kenya only. Travelling on to Tanzania? A regional plan keeps one eSIM live in both, so there is no new SIM to buy at the border.
 related_products:
   title: Related Kenya eSIM Plans
   items:

@@ -1,6 +1,6 @@
 ---
 title: 'China eSIM 2026: Local Carrier Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: China Mobile, China Unicom, China Telecom
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Beijing, Shanghai, Guangzhou, Shenzhen, Chengdu
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  main_packages: 3/7/15/30 Days, Prepaid Data
 modal:
   title: Service Upgraded!
   btn_text: Continue
@@ -18,11 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: China eSIM - Best Prepaid 5G Data Plan for Travelers
-  description: Planning a trip to China? Get Roami's best prepaid travel eSIM with unlimited 5G data. Instant
-    activation. Covers Beijing, Shanghai & all cities.
-  keywords: China eSIM, buy China eSIM, best China eSIM, China travel eSIM, China Mobile China, China Unicom China, China
-    Telecom China, Beijing eSIM, Shanghai eSIM, Guangzhou eSIM, China prepaid eSIM, 5G China eSIM
+  title: China eSIM - Prepaid Data Plans Compared
+  description: 'Compare China eSIM prices and prepaid plans from $1.99. Fixed 3GB to 50GB data bundles on China Mobile and China Unicom, with instant QR activation.'
+  keywords: 'China eSIM, China eSIM plans, best China eSIM, cheap China eSIM, buy China eSIM online, China eSIM data plans, prepaid China eSIM, best eSIM for China, China eSIM with phone number, eSIM China price, China eSIM activation, China eSIM coverage, best eSIM for Beijing, Beijing eSIM, Shanghai eSIM'
   low_price: 1.99
   high_price: 39.99
 order_summary:
@@ -44,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/cn.svg
   flag_alt: China Flag
-  title: 'China eSIM: Stay Connected Everywhere You Go'
+  title: 'China eSIM: Prepaid Data Plans & Instant QR Delivery'
   subtitle: Best prepaid eSIM for China travelers - fast 5G, instant activation, 24/7 support
 features:
-  title: 'Why China Travelers Choose Roami: Speed, Coverage & Support'
+  title: 'Roami for China: Prepaid eSIM Plans, Coverage and 24/7 Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top China carriers for the best signal
-plans_title: 'China eSIM Data Plans: Compare Prices Before You Fly'
+plans_title: 'China eSIM Plans and Prices: Cheap Prepaid Data for Your Trip'
 plans_data:
   30 Days:
   - spec: 20GB
@@ -251,7 +249,7 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'China eSIM Coverage: Complete Guide to Local Networks'
+  title: 'China eSIM Coverage Map: Carriers, Bands and Speed'
   supports_text: 'Supports:'
   service_details:
     title: Service Details
@@ -284,7 +282,7 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Before You Fly to China: Your eSIM Setup Checklist'
+  title: 'China eSIM Compatibility and Activation: Pre-Trip Checklist'
   items:
   - icon: 📱
     html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -297,6 +295,12 @@ reminders:
     html: The QR code will be sent to your email.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 🗺️
+    html: 'Off to Beijing or Shanghai? Your China eSIM works the same in both cities and everywhere between them.'
+  - icon: 📞
+    html: 'Roami China plans are data-only. Your own number keeps working for calls and texts, while the eSIM carries all your mobile data.'
+  - icon: 🌏
+    html: 'Extending your trip elsewhere in Asia? A regional plan covers several destinations on one eSIM.'
   compatibility_check:
     title: Quick Compatibility Check
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -305,7 +309,7 @@ reminders:
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       number appears on your screen, your device is supported!
 activation_steps:
-  title: 'Activate Your China eSIM in Three Steps'
+  title: 'China eSIM Installation Guide: Three Steps to Get Online'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
@@ -325,7 +329,7 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Will eSIM Work Well in China? A Traveler Guide to Internet Quality"
+  title: 'China eSIM Guide: Speeds, Coverage and Device Support'
   desc: "How fast is eSIM internet in China? Speeds, coverage and where the signal is strongest on China Mobile and China Unicom."
   categories:
   - id: faq-general
@@ -365,6 +369,18 @@ faq_section:
         Can I use my China eSIM for social media and sharing photos with family?
       a: |
         Absolutely. Social apps such as Instagram, WhatsApp and Facebook work as usual on the China eSIM connection. Upload speeds from China Mobile handle photos in seconds and short videos easily.
+    - q: |
+        What is the cheapest China eSIM option for a few days?
+      a: |
+        For a short trip, a 3- or 7-day plan from $1.99 is the best value. You are not paying for unused days, and there is no contract to cancel. Roami's cheapest plans still include the same China Mobile and China Unicom coverage as the longest ones.
+    - q: |
+        Does the China eSIM have an unlimited plan, or fixed-data plans?
+      a: |
+        China plans are sold as fixed data — such as 10GB, 20GB or 30GB — so the allowance is known before you fly. Speeds stay high for typical travel use on China Mobile and China Unicom, and if you run out you can top up from the app. If your trip is data-heavy, it removes the risk of topping up mid-journey.
+    - q: |
+        How do I activate a China eSIM, and how long does it take?
+      a: |
+        There is nothing to collect and no store to visit. Order online, receive the QR code by email in about five minutes, and scan it under Settings > Cellular. Enable the line when you reach China and you will be online straight away — Roami activates around the clock.
 related_products:
   title: Related China eSIM Plans
   items:
@@ -409,7 +425,7 @@ related_products:
     price: From $1.99
     is_highlight: false
 market_analysis:
-  title: 'China eSIM vs Prepaid SIM Card: Everything You Should Consider – Best eSIM for China Travelers'
+  title: Best eSIM Card for China? Local SIM vs Roami eSIM Compared
   subtitle: China Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
     text: 'Market data: GSMA eSIM hub, Ookla Speedtest Global Index (China), and MIIT tariff reporting. Local prepaid tariffs for China cross-checked with the Prepaid Data SIM Wiki.'

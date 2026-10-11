@@ -1,6 +1,6 @@
 ---
 title: 'Burkina Faso eSIM 2026: Complete Travel Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Orange, Telecel, Moov Africa
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Ouagadougou, Bobo-Dioulasso, Koudougou, Ouahigouya, Banfora
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  main_packages: 3/7/15/30 Days, Prepaid Data
 modal:
   title: Service Upgraded!
   btn_text: Continue
@@ -19,11 +19,8 @@ modal:
     code:web20
 seo:
   title: 'Burkina Faso eSIM: Fast 5G Data Plan for Travelers'
-  description: Compare Burkina Faso eSIM plans with fast 5G in Ouagadougou, Bobo-Dioulasso, Koudougou. Orange & Telecel &
-    Moov Africa coverage guide for tourists & travelers. Instant QR activation from $11.99.
-  keywords: Burkina Faso eSIM, buy Burkina Faso eSIM, best Burkina Faso eSIM, Burkina Faso travel eSIM, Orange Burkina Faso,
-    Telecel Burkina Faso, Moov Africa Burkina Faso, Ouagadougou eSIM, Bobo-Dioulasso eSIM, Koudougou eSIM, Burkina Faso prepaid
-    eSIM, 5G Burkina Faso eSIM
+  description: Compare Burkina Faso eSIM prices and prepaid plans from $11.99. 5G on Orange and Telecel and instant QR activation before you fly.
+  keywords: 'Burkina Faso eSIM, Burkina Faso eSIM plans, best Burkina Faso eSIM, cheap Burkina Faso eSIM, buy Burkina Faso eSIM online, Burkina Faso eSIM data plans, prepaid Burkina Faso eSIM, best eSIM for Burkina Faso, Burkina Faso eSIM with phone number, eSIM Burkina Faso price, Burkina Faso eSIM activation, Burkina Faso eSIM coverage, best eSIM for Ouagadougou, Ouagadougou eSIM, Bobo-Dioulasso eSIM'
   low_price: 11.99
   high_price: 54.99
 order_summary:
@@ -48,7 +45,7 @@ hero:
   title: 'Burkina Faso eSIM: Complete Data Solutions for Your Trip'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Burkina Faso travelers
 features:
-  title: 'Why Burkina Faso Travelers Choose Roami: Coverage, Speed & Service'
+  title: 'Why Burkina Faso Travelers Pick Roami: Fast 5G Data, Plans and Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -165,6 +162,12 @@ reminders:
     html: The QR code will be sent to your email.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 🗺️
+    html: Ouagadougou then Bobo-Dioulasso — or the other way round? The Burkina Faso eSIM does not care which order you travel in.
+  - icon: 📞
+    html: 'Roami Burkina Faso plans are data-only. Your own number keeps working for calls and texts, while the eSIM carries all your mobile data.'
+  - icon: 🌏
+    html: Travelling on to Ghana? A regional plan keeps one eSIM working in both — no second SIM to buy.
   compatibility_check:
     title: Quick Compatibility Check
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -233,6 +236,10 @@ faq_section:
         How does eSIM compare to pocket WiFi for Burkina Faso travel?
       a: |
         eSIM wins on convenience. Nothing extra to carry or return — eSIM works out cheaper than renting pocket WiFi in Burkina Faso. Pocket WiFi suits groups of three or more, but everyone depends on one battery that has to last 6-8 hours on a Burkina Faso trip. With eSIM, your phone is your hotspot. Hotspot sharing is included free on all Burkina Faso plans, for up to 5 devices.
+    - q: |
+        Can I get a Burkina Faso eSIM with a local phone number?
+      a: |
+        The Burkina Faso eSIM is data-only — no local number attached. That is deliberate: it lowers the price and removes registration. Your own SIM still handles calls and texts, and WhatsApp or FaceTime run over the eSIM's data.
 related_products:
   title: Related Burkina Faso eSIM Plans
   items:
@@ -361,7 +368,7 @@ market_analysis:
     - icon: wifi
       icon_bg: bg-green-100
       icon_color: text-green-600
-      title: Unlimited Hotspot Without Throttling
+      title: Full-Speed Hotspot Without Throttling
       desc: Onatel's social media plans throttle to <b>128 kbps</b> after <b>100MB/day</b>. Roami eSIM allows full-speed tethering
         with no FUP, perfect for sharing with laptops.
     - icon: tower-observation

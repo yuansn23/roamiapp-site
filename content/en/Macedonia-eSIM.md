@@ -1,6 +1,6 @@
 ---
 title: 'Macedonia eSIM 2026: City & Network Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,7 +21,7 @@ modal:
 seo:
   title: 'Macedonia eSIM from $4.99: Unlimited 5G Coverage'
   description: 'Compare Macedonia eSIM plans from $4.99. 5G on A1 Macedonia, Telekom Macedonia, Lycamobile, instant activation, covering Skopje, Ohrid & Bitola.'
-  keywords: Macedonia eSIM, buy Macedonia eSIM, best Macedonia eSIM, Macedonia travel eSIM, A1 Macedonia, Telekom Macedonia, Lycamobile Macedonia, Skopje eSIM, Ohrid eSIM, Bitola eSIM, Macedonia prepaid eSIM, 5G Macedonia eSIM
+  keywords: 'Macedonia eSIM, Macedonia eSIM plans, best Macedonia eSIM, cheap Macedonia eSIM, buy Macedonia eSIM online, unlimited data Macedonia eSIM, prepaid Macedonia eSIM, best eSIM for Macedonia, eSIM Macedonia price, Macedonia eSIM activation, Macedonia eSIM coverage, best eSIM for Skopje, Skopje eSIM, Ohrid eSIM'
   low_price: 4.99
   high_price: 94.99
 order_summary:
@@ -72,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Macedonia carriers for the best signal
-plans_title: 'Macedonia eSIM Plans Built Around Your Itinerary'
+plans_title: 'Buy a Macedonia eSIM: Cheap Prepaid Plans, 3 to 30 Days'
 plans_data:
   7 Days:
   - spec: 1GB
@@ -202,6 +202,10 @@ reminders:
     html: 'New to eSIM? <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> explains the standard, and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> plus its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel guide</a> walk through setup.'
   - icon: 🧭
     html: 'Heading further afield? Compare <a href="/zambia-esim/">Zambia eSIM</a> and <a href="/malta-esim/">Malta eSIM</a> plans before you book.'
+  - icon: 🗺️
+    html: City-hopping between Skopje and Ohrid? The Macedonia eSIM switches networks automatically.
+  - icon: 🌏
+    html: 'If your route continues into Greece, choose a regional eSIM and stay connected without a second purchase.'
   compatibility_check:
     title: 'Check Your Phone Compatibility'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'

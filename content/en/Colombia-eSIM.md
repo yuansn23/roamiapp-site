@@ -1,6 +1,6 @@
 ---
 title: 'Colombia eSIM 2026: Connection & Speed Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,8 +21,7 @@ modal:
 seo:
   title: Colombia eSIM | Best 5G Prepaid Data for Your Journey
   description: 'Get the best prepaid Colombia eSIM for your trip from Roami. Unlimited 5G data on top networks. Covers Bogota, Medellin & Cartagena. Instant activation.'
-  keywords: Colombia eSIM, buy Colombia eSIM, best Colombia eSIM, Colombia travel eSIM, Claro Colombia, Movistar Colombia,
-    Tigo Colombia, Bogotá eSIM, Medellín eSIM, Cartagena eSIM, Colombia prepaid eSIM, 5G Colombia eSIM
+  keywords: 'Colombia eSIM, Colombia eSIM plans, best Colombia eSIM, cheap Colombia eSIM, buy Colombia eSIM online, unlimited data Colombia eSIM, prepaid Colombia eSIM, best eSIM for Colombia, eSIM Colombia price, Colombia eSIM activation, Colombia eSIM coverage, best eSIM for Bogotá, Bogotá eSIM, Medellín eSIM'
   low_price: 4.99
   high_price: 86.99
 order_summary:
@@ -44,10 +43,10 @@ banner:
 hero:
   flag_image: img/flags/co.svg
   flag_alt: Colombia Flag
-  title: 'Colombia eSIM: Instant Connectivity for Worry-Free Travel'
+  title: 'Colombia eSIM: Prepaid Plans, Unlimited Data & No Contract'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Colombia
 features:
-  title: 'Why Colombia Travelers Choose Roami: Speed, Coverage & Support'
+  title: 'Why Travelers Choose Roami''s Colombia eSIM: Unlimited Data and 5G Coverage'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Colombia carriers for the best signal
-plans_title: 'Choose Your Colombia eSIM Plan: 3, 7, 15 and 30 Days'
+plans_title: 'Prepaid Colombia eSIM: Compare Prices, Durations and Data'
 plans_data:
   7 Days:
   - spec: 1GB
@@ -309,6 +308,10 @@ reminders:
     html: 'Learn how eSIM works from the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a>; device setup steps are documented by <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> and its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">traveling with eSIM guide</a>.'
   - icon: 🧭
     html: 'Traveling on from Colombia? Prices for <a href="/hungary-esim/">Hungary eSIM</a> and <a href="/greece-esim/">Greece eSIM</a> are worth comparing.'
+  - icon: 🗺️
+    html: Best eSIM for Bogotá? The same Colombia plan also covers Medellín and the rest of Colombia — no extra SIM needed.
+  - icon: 🌏
+    html: Crossing into Ecuador as well? A multi-country plan keeps the same eSIM live in both.
   compatibility_check:
     title: 'Quick Compatibility Check'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -377,6 +380,10 @@ faq_section:
         I'm traveling to Colombia for just 2-3 days. What eSIM should I get?
       a: |
         For a short trip, the 1GB/7 day plan ($6.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($9.99) gives more breathing room. Both activate instantly and you can top up if needed.
+    - q: |
+        Is my device Colombia eSIM compatible, and how can I confirm it?
+      a: |
+        Almost every recent flagship supports eSIM, including iPhone XS and later, Pixel 3 and later, and most Galaxy S20-and-newer models. To confirm in under a minute, dial *#06#: an EID on screen means your phone is ready.
 related_products:
   title: Related Colombia eSIM Plans
   items:
@@ -421,7 +428,7 @@ related_products:
     price: From $1.99
     is_highlight: false
 market_analysis:
-  title: 'Colombia eSIM or SIM Card: What’s the Best Option in 2026?'
+  title: 'Colombia eSIM vs Physical SIM: Best Option for Colombia Travelers'
   subtitle: Colombia Local Prepaid SIMs vs. eSIM Solutions (2025/2026 Benchmark)
   citation:
     text: 'Data Source: Prepaid Data SIM Card Wiki (Colombia) + Local Operator Sites'

@@ -1,6 +1,6 @@
 ---
 title: 'Vatican City eSIM 2026: 5G & Data Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: 'Vatican City eSIM: Vodafone & TIM Coverage Guide'
+  title: 'Best Vatican City eSIM - Prepaid & Unlimited Data Plans'
   description: 'Vatican City eSIM plans from $10.99 with 5G on Vodafone, TIM, WindTre. No SIM queue and instant QR activation, with coverage in Vatican City & Rome.'
-  keywords: Vatican City eSIM, buy Vatican City eSIM, best Vatican City eSIM, Vatican City travel eSIM, Vodafone Vatican City,
-    TIM Vatican City, WindTre Vatican City, Rome eSIM, Florence eSIM, Vatican City prepaid eSIM, 5G Vatican City eSIM
+  keywords: 'Vatican City eSIM, Vatican City eSIM plans, best Vatican City eSIM, cheap Vatican City eSIM, buy Vatican City eSIM online, unlimited data Vatican City eSIM, prepaid Vatican City eSIM, best eSIM for Vatican City, Vatican City eSIM with phone number, eSIM Vatican City price, Vatican City eSIM activation, Vatican City eSIM coverage, Rome eSIM'
   low_price: 10.99
   high_price: 78.99
 order_summary:
@@ -43,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/va.svg
   flag_alt: Vatican City Flag
-  title: 'Vatican City eSIM: Instant Connectivity for Worry-Free Travel'
+  title: 'Vatican City eSIM: 5G Data Plans with Instant QR Activation'
   subtitle: Best prepaid eSIM for Vatican City travelers - fast 5G, instant activation, 24/7 support
 features:
-  title: 'Why Vatican City Travelers Pick Roami: Coverage, Plans and Help'
+  title: 'Why Travelers Choose Roami''s Vatican City eSIM: Unlimited Data and 5G Coverage'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -72,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Vatican City carriers for the best signal
-plans_title: 'Vatican City eSIM Plans: Pick the Length That Fits Your Trip'
+plans_title: 'Prepaid Vatican City eSIM Plans: Compare Prices and Durations'
 plans_data:
   3 Days:
   - spec: Unlimited
@@ -168,6 +167,10 @@ reminders:
     html: 'Want the technical background? See the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM pages and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> setup support, plus its guide to <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">using eSIM abroad</a>.'
   - icon: 🧭
     html: 'If your itinerary includes other countries, see the <a href="/croatia-esim/">Croatia eSIM</a> and <a href="/macedonia-esim/">Macedonia eSIM</a> options.'
+  - icon: 📞
+    html: 'The Vatican City eSIM carries data only; calls and SMS stay on your own SIM, which means no local number registration in Vatican City.'
+  - icon: 🌏
+    html: 'Combining Vatican City with Italy? One regional eSIM covers both, so there is nothing to buy at the border.'
   compatibility_check:
     title: 'Compatibility Check in 10 Seconds'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -236,6 +239,10 @@ faq_section:
         What's the difference between a 5GB plan and an unlimited plan for Vatican City?
       a: |
         A 5GB plan hands you 5GB of high-speed data up front. Run out and you top up or switch plans. Unlimited plans keep going, though fair usage may trim speeds after 30GB in a day. Most travelers find 5GB sufficient for maps, chat and social apps.
+    - q: |
+        How do calls and texts work with a Vatican City eSIM?
+      a: |
+        Calls and texts stay on your own SIM; the Vatican City eSIM carries data only. That means no number registration in Vatican City and no change to how people reach you.
 related_products:
   title: Related Vatican City eSIM Plans
   items:

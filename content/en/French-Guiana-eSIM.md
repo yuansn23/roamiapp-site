@@ -1,6 +1,6 @@
 ---
 title: 'French Guiana eSIM 2026: Tourist & Network Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,9 +20,7 @@ modal:
 seo:
   title: 'French Guiana eSIM: Fast 5G Data Plan for Travelers'
   description: 'French Guiana eSIM plans from $3.99 with 5G on Digicel, Orange, Free. No SIM queue and instant QR activation, with coverage in Cayenne & Kourou.'
-  keywords: French Guiana eSIM, buy French Guiana eSIM, best French Guiana eSIM, French Guiana travel eSIM, Digicel French
-    Guiana, Orange French Guiana, Free French Guiana, Cayenne eSIM, Kourou eSIM, Saint-Laurent-du-Maroni eSIM, French Guiana
-    prepaid eSIM, 5G French Guiana eSIM
+  keywords: 'French Guiana eSIM, French Guiana eSIM plans, best French Guiana eSIM, cheap French Guiana eSIM, buy French Guiana eSIM online, unlimited data French Guiana eSIM, prepaid French Guiana eSIM, best eSIM for French Guiana, French Guiana eSIM with phone number, eSIM French Guiana price, French Guiana eSIM activation, French Guiana eSIM coverage, best eSIM for Cayenne, Cayenne eSIM, Kourou eSIM'
   low_price: 3.99
   high_price: 66.99
 order_summary:
@@ -47,7 +45,7 @@ hero:
   title: 'French Guiana eSIM: Complete Data Solutions for Your Trip'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for French Guiana
 features:
-  title: 'Why French Guiana Travelers Choose Roami: Coverage, Speed & Service'
+  title: 'How Roami Covers French Guiana: Prepaid Plans, Unlimited Data and Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top French Guiana carriers for the best signal
-plans_title: 'Flexible French Guiana eSIM Plans: Data for Any Trip Length'
+plans_title: 'Buy a French Guiana eSIM: Cheap Prepaid Plans, 3 to 30 Days'
 plans_data:
   15 Days:
   - spec: 5GB
@@ -208,7 +206,7 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Set Up Your French Guiana eSIM Before Departure: Key Tips'
+  title: 'French Guiana eSIM Activation and Compatibility: Get Ready to Fly'
   items:
   - icon: 📱
     html: Not sure your handset supports eSIM? Check the <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibility checklist</a> first.
@@ -226,6 +224,12 @@ reminders:
     html: 'Want the technical background? See the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM pages and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> setup support, plus its guide to <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">using eSIM abroad</a>.'
   - icon: 🧭
     html: 'If your itinerary includes other countries, see the <a href="/congo-esim/">Congo eSIM</a> and <a href="/fiji-esim/">Fiji eSIM</a> options.'
+  - icon: 🗺️
+    html: 'Start in Cayenne, finish in Kourou? The French Guiana eSIM keeps the same data balance across both.'
+  - icon: 📞
+    html: 'Roami French Guiana plans are data-only. Your own number keeps working for calls and texts, while the eSIM carries all your mobile data.'
+  - icon: 🌏
+    html: Travelling on to Brazil? A regional plan keeps one eSIM working in both — no second SIM to buy.
   compatibility_check:
     title: 'Verify Your Device Supports eSIM'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -294,6 +298,18 @@ faq_section:
         Do I need to remove my physical SIM to use eSIM in French Guiana?
       a: |
         Not at all. The physical SIM holds slot 1 and the eSIM works next to it in slot 2. Leave SMS and calls to the home SIM and data to the eSIM. Over 80% of 2020-or-later phones handle this dual setup.
+    - q: |
+        Does the French Guiana unlimited eSIM throttle speed after a certain amount?
+      a: |
+        Unlimited is built so you do not hit a daily wall. Navigation, chat, photos and video calls stay at full speed for the whole plan, which is the simplest option if you would rather not track gigabytes.
+    - q: |
+        Can I get an inexpensive French Guiana eSIM just for a short visit?
+      a: |
+        The lowest-cost French Guiana eSIM plans start at $3.99. For a few days a short plan is enough and costs a fraction of a monthly local SIM, with prepaid billing and no surprise charges.
+    - q: |
+        Is a French Guiana eSIM with a phone number available from Roami?
+      a: |
+        The Roami French Guiana eSIM is a data plan, so no local number is included. In practice that avoids registration and extra cost, and your existing SIM still receives calls and texts.
 related_products:
   title: Related French Guiana eSIM Plans
   items:

@@ -1,6 +1,6 @@
 ---
 title: 'Saudi Arabia eSIM - 5G in Riyadh & Jeddah | No Fingerprint KYC | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Saudi Arabia eSIM | Best 5G Data Plan for Travelers
-  description: 'Saudi Arabia eSIM: 5G on STC, Mobily, Zain. No passport/fingerprint registration — local SIMs require biometric KYC. Instant QR activation from $3.99.'
-  keywords: Saudi Arabia eSIM, buy Saudi Arabia eSIM, best Saudi Arabia eSIM, Saudi Arabia travel eSIM, STC Saudi Arabia, Mobily Saudi Arabia, Zain Saudi Arabia, Riyadh eSIM, Jeddah eSIM, Mecca eSIM, Saudi Arabia prepaid eSIM, 5G Saudi Arabia eSIM, Umrah eSIM, Saudi eSIM no fingerprint
+  title: 'Saudi Arabia eSIM - Cheap Prepaid Plans & 5G Coverage'
+  description: 'Buy a Saudi Arabia eSIM online: prepaid and unlimited data plans from $3.99. 5G on STC and Mobily, instant QR delivery and no contract.'
+  keywords: 'Saudi Arabia eSIM, Saudi Arabia eSIM plans, best Saudi Arabia eSIM, cheap Saudi Arabia eSIM, buy Saudi Arabia eSIM online, unlimited data Saudi Arabia eSIM, prepaid Saudi Arabia eSIM, best eSIM for Saudi Arabia, Saudi Arabia eSIM with phone number, eSIM Saudi Arabia price, Saudi Arabia eSIM activation, Saudi Arabia eSIM coverage, best eSIM for Riyadh, Riyadh eSIM, Jeddah eSIM'
   low_price: 3.99
   high_price: 96.99
 order_summary:
@@ -42,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/sa.svg
   flag_alt: Saudi Arabia Flag
-  title: 'Saudi Arabia eSIM: 5G in Riyadh, Jeddah & Beyond — No Passport'
+  title: 'Saudi Arabia eSIM: Prepaid Plans, Unlimited Data & No Contract'
   subtitle: 5G on STC, Mobily & Zain | No passport/fingerprint registration| 24/7 support
 features:
-  title: 'Why Travelers Pick Roami for Saudi Arabia: Speed, Data and Support'
+  title: 'What Makes Roami a Good Fit for Saudi Arabia: Prepaid Plans and Coverage'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -75,7 +75,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Holy Cities Ready
     desc: 4G/5G coverage in Mecca, Medina, Jeddah and Riyadh — stay connected for Umrah & sightseeing
-plans_title: 'Saudi Arabia eSIM Data Plans for Every Stay'
+plans_title: 'Saudi Arabia eSIM Data Plans: Compare Prepaid Prices Before You Fly'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -269,7 +269,7 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Saudi Arabia eSIM Coverage: Local Operators Explained'
+  title: 'Saudi Arabia eSIM Coverage: Local Networks and 5G Guide'
   supports_text: 'Supports:'
   service_details:
     title: 'Plan Service Details'
@@ -300,7 +300,7 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Before You Fly to Saudi Arabia: eSIM Setup Checklist'
+  title: 'Saudi Arabia eSIM Setup and Activation: Checklist Before You Fly'
   items:
   - icon: 📱
     html: Before you buy, confirm your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">listed as eSIM compatible</a>.
@@ -326,6 +326,12 @@ reminders:
     html: 'Background reading: the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM hub and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> support pages (including the <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel FAQ</a>) answer most first-timer questions.'
   - icon: 🧭
     html: 'Multi-country trip? Take a look at our <a href="/kenya-esim/">Kenya eSIM</a> and <a href="/kosovo-esim/">Kosovo eSIM</a> pages as well.'
+  - icon: 🗺️
+    html: 'Whether you start in Riyadh or Jeddah, one Saudi Arabia eSIM covers your whole route.'
+  - icon: 📞
+    html: 'Prefer to keep your own number? The Saudi Arabia eSIM is data-only, so calls and texts stay on your regular SIM and data runs on the eSIM.'
+  - icon: 🌏
+    html: 'Continuing on to the UAE? A regional plan covers both on a single eSIM.'
   compatibility_check:
     title: 'Is Your Phone eSIM-Ready?'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -333,7 +339,7 @@ reminders:
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'Saudi Arabia eSIM Installation: Three Quick Steps'
+  title: 'Saudi Arabia eSIM Activation: Install It in Three Simple Steps'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
@@ -352,7 +358,7 @@ activation_steps:
     desc: Upon arriving in Saudi Arabia, enable your Saudi Arabia eSIM in settings to start using data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Saudi Arabia eSIM Guide: 5G, Fingerprint KYC & Travel Tips"
+  title: 'Saudi Arabia eSIM FAQ: Speeds, Coverage and Activation Questions'
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Saudi Arabia. Find out what speeds to expect in Riyadh, Jeddah and Mecca — and how to avoid the fingerprint registration hassle."
   categories:
   - id: faq-general
@@ -396,6 +402,18 @@ faq_section:
         When does the validity period of my Saudi Arabia eSIM start?
       a: |
         The plan validity starts when you connect to a local network in Saudi Arabia, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+    - q: |
+        Does the Saudi Arabia unlimited eSIM throttle speed after a certain amount?
+      a: |
+        Unlike many local 'unlimited' offers, Roami does not apply a small daily cap. You get full-speed data for the length of the plan, which suits travellers who stream, video-call or work remotely from Saudi Arabia.
+    - q: |
+        Can I get an inexpensive Saudi Arabia eSIM just for a short visit?
+      a: |
+        Yes — Saudi Arabia eSIM plans start at $3.99 with no contract and no hidden fees. Short 3- and 7-day plans are the cheapest option for a quick visit, and you only pay for the days you need. Billing is prepaid, so nothing renews after your trip.
+    - q: |
+        Will my phone work with a Saudi Arabia eSIM? How do I check compatibility?
+      a: |
+        Almost every recent flagship supports eSIM, including iPhone XS and later, Pixel 3 and later, and most Galaxy S20-and-newer models. To confirm in under a minute, dial *#06# — an EID number on screen means your phone is ready. See the full compatibility list before you order.
 related_products:
   title: Related Saudi Arabia eSIM Plans
   items:
@@ -440,7 +458,7 @@ related_products:
     price: From $1.99
     is_highlight: false
 market_analysis:
-  title: 'Saudi Arabia eSIM vs Local SIM: No Fingerprints, No 28-Day Waste, No Illegal SIMs'
+  title: 'Best eSIM for Saudi Arabia: Local Prepaid SIM vs Travel eSIM'
   subtitle: Saudi Arabia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
     text: 'Data Source: Prepaid Data SIM Card Wiki (Saudi Arabia) + Local Operator Sites'

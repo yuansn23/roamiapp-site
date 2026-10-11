@@ -1,6 +1,6 @@
 ---
 title: 'Dominican Republic eSIM 2026: Tourist & Network Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Claro, Altice, Viva
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Santo Domingo, Punta Cana, Santiago, La Romana, Puerto Plata
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  main_packages: 3/7/15/30 Days, Prepaid Data
 modal:
   title: Service Upgraded!
   btn_text: Continue
@@ -19,11 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Dominican Rep eSIM | Fast & Reliable Prepaid Plan
+  title: 'Dominican Republic eSIM - Cheap Prepaid Plans & 5G Coverage'
   description: 'Dominican Republic eSIM: prepaid 5G data up to 15GB, instant QR activation from $5.99. Covers Santo Domingo & Punta Cana.'
-  keywords: Dominican Republic eSIM, buy Dominican Republic eSIM, best Dominican Republic eSIM, Dominican Republic travel
-    eSIM, Claro Dominican Republic, Altice Dominican Republic, Viva Dominican Republic, Santo Domingo eSIM, Punta Cana eSIM,
-    Santiago eSIM, Dominican Republic prepaid eSIM, 5G Dominican Republic eSIM
+  keywords: 'Dominican Republic eSIM, Dominican Republic eSIM plans, best Dominican Republic eSIM, cheap Dominican Republic eSIM, buy Dominican Republic eSIM online, Dominican Republic eSIM data plans, prepaid Dominican Republic eSIM, best eSIM for Dominican Republic, Dominican Republic eSIM with phone number, eSIM Dominican Republic price, Dominican Republic eSIM activation, Dominican Republic eSIM coverage, best eSIM for Santo Domingo, Santo Domingo eSIM, Punta Cana eSIM'
   low_price: 5.99
   high_price: 54.99
 order_summary:
@@ -48,7 +46,7 @@ hero:
   title: 'Dominican Republic eSIM: Complete Data Solutions for Your Trip'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Dominican Republic
 features:
-  title: 'Why Dominican Republic Travelers Choose Roami: Network, Plans & Value'
+  title: 'Why Travelers Choose Roami for the Dominican Republic: 5G Data & Coverage'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -247,6 +245,12 @@ reminders:
     html: 'New to eSIM? <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> explains the standard, and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> plus its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel guide</a> walk through setup.'
   - icon: 🧭
     html: 'Heading further afield? Compare <a href="/macao-esim/">Macao eSIM</a> and <a href="/mexico-esim/">Mexico eSIM</a> plans before you book.'
+  - icon: 🗺️
+    html: The best eSIM for Punta Cana is the same one that covers Santo Domingo — no second purchase needed.
+  - icon: 📞
+    html: 'The Dominican Republic eSIM carries data only; calls and SMS stay on your own SIM, which means no local number registration in Dominican Republic.'
+  - icon: 🌏
+    html: Island-hopping or travelling multi-stop? A regional plan keeps the same eSIM active throughout.
   compatibility_check:
     title: 'Quick Compatibility Check'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -296,9 +300,9 @@ faq_section:
       a: |
         The cheapest plan is $5.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
     - q: |
-        What's the difference between a 5GB plan and an unlimited plan for Dominican Republic?
+        Does Dominican Republic have an unlimited plan, or only fixed-data plans?
       a: |
-        A 5GB plan gives you a fixed amount of high-speed data, 5GB in total. Once it is used up, you top up or buy a new plan. Unlimited plans keep providing data, though speeds may reduce after 30GB in a day under the fair usage policy. For most travelers doing maps, messaging and social media, 5GB is perfectly sufficient.
+        Roami sells Dominican Republic as prepaid, fixed-data plans rather than an unlimited tier. Pick the allowance that fits your trip, and if you use it all, adding more data takes a minute in the app.
     - q: |
         Can I check how much data I've used on my Dominican Republic eSIM?
       a: |
@@ -315,6 +319,10 @@ faq_section:
         What documents do I need to buy a Dominican Republic eSIM from Roami?
       a: |
         All you need is a valid payment method — credit card, PayPal, Apple Pay or Google Pay. There are no passport uploads, no address checks and no contracts. Buy online, get your QR code by email within minutes, then install it straight on your phone.
+    - q: |
+        How do calls and texts work with a Dominican Republic eSIM?
+      a: |
+        Calls and texts stay on your own SIM; the Dominican Republic eSIM carries data only. That means no number registration in Dominican Republic and no change to how people reach you.
 related_products:
   title: Related Dominican Republic eSIM Plans
   items:

@@ -1,6 +1,6 @@
 ---
 title: 'Mexico eSIM - 5G in Cancún & Mexico City | No Passport Selfie | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Mexico eSIM - Best Unlimited Data Plan for Travel
-  description: 'Mexico eSIM: 5G on Telcel, AT&T, Movistar. No passport/selfie registration — since 2026, local SIMs require ID + selfie. Instant QR activation from $3.99.'
-  keywords: Mexico eSIM, buy Mexico eSIM, best Mexico eSIM, Mexico travel eSIM, Telcel Mexico, AT&T Mexico, Movistar Mexico, Mexico City eSIM, Cancún eSIM, Riviera Maya eSIM, Mexico prepaid eSIM, 5G Mexico eSIM, Mexico eSIM no passport
+  title: 'Best Mexico eSIM - Prepaid & Unlimited Data Plans'
+  description: 'Cheap Mexico eSIM plans from $3.99 - prepaid, unlimited-data and short-trip options with 5G on Telcel and AT&T and instant activation.'
+  keywords: 'Mexico eSIM, Mexico eSIM plans, best Mexico eSIM, cheap Mexico eSIM, buy Mexico eSIM online, unlimited data Mexico eSIM, prepaid Mexico eSIM, best eSIM for Mexico, Mexico eSIM with phone number, eSIM Mexico price, Mexico eSIM activation, Mexico eSIM coverage, best eSIM for Cancun, Cancun eSIM, Mexico City eSIM'
   low_price: 3.99
   high_price: 68.99
 order_summary:
@@ -42,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/mx.svg
   flag_alt: Mexico Flag
-  title: 'Mexico eSIM: 5G in Cancún, Mexico City & Beyond — No Passport'
+  title: 'Mexico eSIM: Fast Data, Unlimited Plans & 24/7 Support'
   subtitle: 5G on Telcel, AT&T & Movistar | No passport/selfie registration| 24/7 support
 features:
-  title: 'Why Mexico Travelers Choose Roami: Network, Plans & Value'
+  title: 'Why Roami Is a Good Fit for Mexico: Plans, Coverage and Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -75,7 +75,7 @@ features:
     color: from-sky-400 to-sky-600
     title: Beach & Ruins Ready
     desc: 4G/5G across Cancún, Riviera Maya, Chichen Itza, Tulum & Teotihuacan
-plans_title: 'Mexico eSIM Data Plans for Every Stay'
+plans_title: 'Compare Mexico eSIM Plans: Prepaid, Unlimited and Fixed-Data'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -269,7 +269,7 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Mexico eSIM Coverage: Network Coverage & Operator Comparison'
+  title: 'Mexico eSIM Network Coverage: Carriers and Signal Explained'
   supports_text: 'Supports:'
   service_details:
     title: 'Plan Service Details'
@@ -300,7 +300,7 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Before You Fly to Mexico: eSIM Setup Checklist'
+  title: 'Setting Up Your Mexico eSIM: Activation and Compatibility'
   items:
   - icon: 📱
     html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-ready</a> before buying.
@@ -326,6 +326,12 @@ reminders:
     html: 'New to eSIM? <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> explains the standard, and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> plus its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel guide</a> walk through setup.'
   - icon: 🧭
     html: 'Heading further afield? Compare <a href="/faroe-islands-esim/">Faroe Islands eSIM</a> and <a href="/uruguay-esim/">Uruguay eSIM</a> plans before you book.'
+  - icon: 🗺️
+    html: 'Off to Cancun or Mexico City? Your Mexico eSIM works the same in both cities and everywhere between them.'
+  - icon: 📞
+    html: 'Prefer to keep your own number? The Mexico eSIM is data-only, so calls and texts stay on your regular SIM and data runs on the eSIM.'
+  - icon: 🌏
+    html: 'Continuing on to the USA? A regional plan covers both on a single eSIM.'
   compatibility_check:
     title: 'Is Your Phone eSIM-Ready?'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -333,7 +339,7 @@ reminders:
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'Mexico eSIM Installation: Three Quick Steps'
+  title: 'Mexico eSIM Activation Steps: Scan, Install, Connect'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
@@ -352,7 +358,7 @@ activation_steps:
     desc: Upon arriving in Mexico, enable your Mexico eSIM in settings to start using data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Mexico eSIM Guide: 5G, Passport/Selfie Rules & Travel Tips"
+  title: 'Mexico eSIM Questions: Coverage, Speeds and Compatibility'
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Mexico. Find out what speeds to expect in Cancún, Mexico City, and at the ruins — and why Roami is the answer to Mexico's new 2026 SIM registration rules."
   categories:
   - id: faq-general
@@ -400,6 +406,18 @@ faq_section:
         When does the validity period of my Mexico eSIM start?
       a: |
         The plan validity starts when you connect to a local network in Mexico, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+    - q: |
+        Does my Mexico eSIM cover the USA as well?
+      a: |
+        For Mexico alone, the single-country plan is the best value. If the USA is on your itinerary too, pick a regional plan — it covers both on one eSIM and one balance.
+    - q: |
+        How much does a Mexico eSIM cost, and which plan should I pick?
+      a: |
+        Mexico eSIM plans start at $3.99 and rise to unlimited data for longer stays, running on Telcel and AT&T. Match the plan to your trip: 3- and 7-day plans suit short visits, while 15- and 30-day unlimited plans work best for longer trips. Everything is prepaid, so there is no contract and no bill after you leave Mexico.
+    - q: |
+        How good is Mexico eSIM coverage outside the big cities and tourist areas?
+      a: |
+        Because the Mexico eSIM roams across Telcel and AT&T, it picks whichever network is strongest where you are — handy once you leave Cancun for smaller towns. Expect reliable 4G/5G in populated areas and along highways; coverage thins only in genuinely remote terrain.
 related_products:
   title: Related Mexico eSIM Plans
   items:
@@ -444,7 +462,7 @@ related_products:
     price: From $1.99
     is_highlight: false
 market_analysis:
-  title: 'Mexico eSIM vs Local SIM: No Passport/Selfie, No 7-Day Waste, No Hotspot Ban'
+  title: 'Mexico eSIM vs Roaming and Prepaid SIM: What Is Best?'
   subtitle: Mexico Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
     text: 'Data Source: Prepaid Data SIM Card Wiki (Mexico) + Local Operator Sites'

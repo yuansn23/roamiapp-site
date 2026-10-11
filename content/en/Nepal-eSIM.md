@@ -1,6 +1,6 @@
 ---
 title: 'Nepal eSIM 2026: Connection & Speed Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,8 +20,7 @@ modal:
 seo:
   title: Nepal eSIM | Fast Prepaid Data Plan for Visitors
   description: 'Nepal eSIM: unlimited 5G data, instant QR activation from $10.99. Covers Kathmandu & Pokhara.'
-  keywords: Nepal eSIM, buy Nepal eSIM, best Nepal eSIM, Nepal travel eSIM, Ncell Nepal, Nepal Telecom Nepal, Smart Cell Nepal,
-    Kathmandu eSIM, Pokhara eSIM, Bharatpur eSIM, Nepal prepaid eSIM, 5G Nepal eSIM
+  keywords: 'Nepal eSIM, Nepal eSIM plans, best Nepal eSIM, cheap Nepal eSIM, buy Nepal eSIM online, unlimited data Nepal eSIM, prepaid Nepal eSIM, best eSIM for Nepal, eSIM Nepal price, Nepal eSIM activation, Nepal eSIM coverage, best eSIM for Kathmandu, Kathmandu eSIM, Pokhara eSIM'
   low_price: 10.99
   high_price: 124.99
 order_summary:
@@ -43,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/ne.svg
   flag_alt: Nepal Flag
-  title: 'Nepal eSIM: Instant Connectivity for Worry-Free Travel'
+  title: 'Nepal eSIM: Affordable Prepaid Plans & Instant Activation'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Nepal
 features:
-  title: 'Why Nepal Travelers Choose Roami: Coverage, Speed & Service'
+  title: 'Unlimited Data and 5G Coverage: Why Travelers Pick Roami for Nepal'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -72,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Nepal carriers for the best signal
-plans_title: 'Flexible Nepal eSIM Plans: Data for Any Trip Length'
+plans_title: 'Compare Nepal eSIM Prices: Prepaid Data Plans by Trip Length'
 plans_data:
   7 Days:
   - spec: 3GB
@@ -250,7 +249,7 @@ network_coverage:
       coverage: Good urban coverage
       network: 4G/LTE Network
 reminders:
-  title: 'Set Up Your Nepal eSIM Before Departure: Key Tips'
+  title: 'Before You Fly to Nepal: eSIM Activation Checklist'
   items:
   - icon: 📱
     html: Not sure your handset supports eSIM? Check the <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibility checklist</a> first.
@@ -268,6 +267,10 @@ reminders:
     html: 'Want the technical background? See the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM pages and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> setup support, plus its guide to <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">using eSIM abroad</a>.'
   - icon: 🧭
     html: 'If your itinerary includes other countries, see the <a href="/montenegro-esim/">Montenegro eSIM</a> and <a href="/serbia-esim/">Serbia eSIM</a> options.'
+  - icon: 🗺️
+    html: Best eSIM for Kathmandu? The same Nepal plan also covers Pokhara and the rest of Nepal — no extra SIM needed.
+  - icon: 🌏
+    html: Travelling on to India? A regional plan keeps one eSIM working in both — no second SIM to buy.
   compatibility_check:
     title: 'Quick Compatibility Check'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'

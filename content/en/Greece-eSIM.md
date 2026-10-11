@@ -1,6 +1,6 @@
 ---
 title: 'Greece eSIM - 5G in Athens & Santorini | No Airport Hunt | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,7 +20,7 @@ modal:
 seo:
   title: Greece eSIM - Best Unlimited 5G Data for Travelers
   description: 'Greece eSIM: 5G on Vodafone, Cosmote, Wind. No SIM hunt at Athens airport — instant QR delivery. Plans from $1.99.'
-  keywords: Greece eSIM, buy Greece eSIM, best Greece eSIM, Greece travel eSIM, Vodafone Greece, Cosmote Greece, Wind Greece, Athens eSIM, Thessaloniki eSIM, Santorini eSIM, Greece prepaid eSIM, 5G Greece eSIM, Greek islands eSIM
+  keywords: 'Greece eSIM, Greece eSIM plans, best Greece eSIM, cheap Greece eSIM, buy Greece eSIM online, unlimited data Greece eSIM, prepaid Greece eSIM, best eSIM for Greece, eSIM Greece price, Greece eSIM activation, Greece eSIM coverage, best eSIM for Athens, Athens eSIM, Thessaloniki eSIM'
   low_price: 1.99
   high_price: 77.99
 order_summary:
@@ -426,6 +426,10 @@ faq_section:
         When does the validity period of my Greece eSIM start?
       a: |
         The plan validity starts when you connect to a local network in Greece, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+    - q: |
+        Can I use my Greece eSIM in Turkey too?
+      a: |
+        A Greece-only plan is designed for Greece. If the trip continues into Turkey, choose a regional or multi-country plan so one eSIM keeps working across the border.
 related_products:
   title: Related Greece eSIM Plans
   items:

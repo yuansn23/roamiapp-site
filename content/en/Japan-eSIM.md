@@ -1,6 +1,6 @@
 ---
 title: 'Japan eSIM 2026 - Best 5G Plan for Tokyo & Kyoto | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Japan eSIM - Fast Prepaid Data Plan for Travelers
-  description: 'Get the best prepaid Japan eSIM with 5G on NTT Docomo, SoftBank & KDDI. No ID needed — instant QR activation, 24/7. No activation time windows. From $1.99.'
-  keywords: Japan eSIM, buy Japan eSIM, best Japan eSIM, Japan travel eSIM, NTT Docomo Japan, SoftBank Japan, KDDI Japan, Tokyo eSIM, Osaka eSIM, Kyoto eSIM, Japan prepaid eSIM, 5G Japan eSIM, Shinkansen eSIM, onsen eSIM
+  title: 'Japan eSIM - Best Unlimited & Prepaid Data Plans'
+  description: 'Japan eSIM plans from $1.99: compare prepaid, unlimited and short-term data options on NTT Docomo and SoftBank, with instant activation and 24/7 support.'
+  keywords: 'Japan eSIM, Japan eSIM plans, best Japan eSIM, cheap Japan eSIM, buy Japan eSIM online, unlimited data Japan eSIM, prepaid Japan eSIM, best eSIM for Japan, Japan eSIM with phone number, eSIM Japan price, Japan eSIM activation, Japan eSIM coverage, best eSIM for Tokyo, Tokyo eSIM, Osaka eSIM'
   low_price: 1.99
   high_price: 71.99
 order_summary:
@@ -42,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/jp.svg
   flag_alt: Japan Flag
-  title: 'Japan eSIM: 5G in Tokyo, Kyoto & Beyond — No ID Needed'
+  title: 'Japan eSIM: 5G Coverage with Prepaid & Unlimited Plans'
   subtitle: No ID required | 5G on Docomo, SoftBank & KDDI | 24/7 activation | Instant QR delivery
 features:
-  title: 'What Makes Roami a Good Fit for Japan: Plans and Coverage'
+  title: 'Why Japan Travelers Pick Roami: Unlimited Data, Plans and Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +71,7 @@ features:
     color: from-brand-400 to-brand-600
     title: Auto-Switch
     desc: Auto-connects to NTT Docomo, SoftBank & KDDI for the best signal across Japan
-plans_title: 'Flexible Japan eSIM Plans: Data for Any Trip Length'
+plans_title: 'Cheap Japan eSIM Plans: Prepaid Data, 3 to 30 Days'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -281,7 +281,7 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Japan eSIM Coverage: Networks, Bands and Reach'
+  title: Which Network Powers Your Japan eSIM? Coverage Explained
   supports_text: 'Supports:'
   service_details:
     title: 'What Your eSIM Covers'
@@ -312,7 +312,7 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Set Up Your Japan eSIM Before Departure: Key Tips'
+  title: 'Before You Fly to Japan: eSIM Activation Checklist'
   items:
   - icon: 📱
     html: Check that your device supports eSIM — see the <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">phone compatibility list</a>.
@@ -332,6 +332,12 @@ reminders:
     html: 'Learn how eSIM works from the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a>; device setup steps are documented by <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> and its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">traveling with eSIM guide</a>.'
   - icon: 🧭
     html: 'Traveling on from Japan? Prices for <a href="/france-esim/">France eSIM</a> and <a href="/tunisia-esim/">Tunisia eSIM</a> are worth comparing.'
+  - icon: 🗺️
+    html: 'Travelling to Tokyo and Osaka on one trip? A single Japan eSIM keeps you connected in both.'
+  - icon: 📞
+    html: 'Prefer to keep your own number? The Japan eSIM is data-only, so calls and texts stay on your regular SIM and data runs on the eSIM.'
+  - icon: 🌏
+    html: 'Continuing on to South Korea? A regional plan covers both on a single eSIM.'
   compatibility_check:
     title: 'Verify Your Device Supports eSIM'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -339,7 +345,7 @@ reminders:
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'Japan eSIM Activation: A Simple Three-Step Guide'
+  title: 'Activate a Japan eSIM: From QR Code to First Signal'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
@@ -358,7 +364,7 @@ activation_steps:
     desc: Upon arriving in Japan, enable your Japan eSIM in settings to start using data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Japan eSIM Guide: Speeds, Coverage, and Travel Tips for Japan"
+  title: 'Japan eSIM Coverage and Compatibility: Traveler Questions'
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Japan. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
@@ -402,6 +408,18 @@ faq_section:
         How does Roami compare to Klook for eSIM in Japan?
       a: |
         Roami typically offers better value for Japan eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Klook. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+    - q: |
+        Is there a cheap Japan eSIM for a short trip?
+      a: |
+        Cheap does not mean limited here: short Japan plans begin at $1.99 and use the same NTT Docomo and SoftBank networks as longer ones. Pick the smallest plan that covers your days, and you avoid paying for a month you will not use.
+    - q: |
+        Can I get a Japan eSIM with a local phone number?
+      a: |
+        Roami Japan plans are data-only, which keeps prices low and activation instant. Your regular number stays active in your phone, so you keep receiving calls and SMS on your home SIM while the eSIM handles all your data in Japan. If you specifically need a local number, a regional plan may suit better.
+    - q: |
+        How do I know whether my phone supports a Japan eSIM?
+      a: |
+        Almost every recent flagship supports eSIM, including iPhone XS and later, Pixel 3 and later, and most Galaxy S20-and-newer models. To confirm in under a minute, dial *#06# — an EID number on screen means your phone is ready. See the full compatibility list before you order.
 related_products:
   title: Related Japan eSIM Plans
   items:
@@ -446,7 +464,7 @@ related_products:
     price: From $1.99
     is_highlight: false
 market_analysis:
-  title: 'Japan eSIM vs Prepaid SIM Card: Key Differences Explained – Best eSIM for Japan Travelers'
+  title: 'Japan eSIM vs Physical SIM: Best Option for Japan Travelers'
   subtitle: Japan Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
     text: 'Data Source: Prepaid Data SIM Card Wiki (Japan) + Local Operator Sites'

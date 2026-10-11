@@ -1,6 +1,6 @@
 ---
 title: 'Sierra Leone eSIM 2026: Complete Travel Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Africell, Sierratel, Orange SL
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Freetown, Bo, Kenema, Makeni, Koidu
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  main_packages: 3/7/15/30 Days, Prepaid Data
 modal:
   title: Service Upgraded!
   btn_text: Continue
@@ -18,11 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: 'Sierra Leone eSIM: Africell & Sierratel Coverage'
+  title: 'Sierra Leone eSIM Plans: Prepaid, Cheap and 5G Options'
   description: 'Sierra Leone eSIM: 5G on Africell, Sierratel, Orange SL. Instant QR activation from $10.99. Covers Freetown, Bo & Kenema.'
-  keywords: Sierra Leone eSIM, buy Sierra Leone eSIM, best Sierra Leone eSIM, Sierra Leone travel eSIM, Africell Sierra Leone,
-    Sierratel Sierra Leone, Orange SL Sierra Leone, Freetown eSIM, Bo eSIM, Kenema eSIM, Sierra Leone prepaid eSIM, 5G Sierra
-    Leone eSIM
+  keywords: 'Sierra Leone eSIM, Sierra Leone eSIM plans, best Sierra Leone eSIM, cheap Sierra Leone eSIM, buy Sierra Leone eSIM online, Sierra Leone eSIM data plans, prepaid Sierra Leone eSIM, best eSIM for Sierra Leone, Sierra Leone eSIM with phone number, eSIM Sierra Leone price, Sierra Leone eSIM activation, Sierra Leone eSIM coverage, best eSIM for Freetown, Freetown eSIM, Bo eSIM'
   low_price: 10.99
   high_price: 33.99
 order_summary:
@@ -47,7 +45,7 @@ hero:
   title: 'Sierra Leone eSIM: Complete Data Solutions for Your Trip'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Sierra Leone travelers
 features:
-  title: 'Why Sierra Leone Travelers Choose Roami: Speed, Coverage & Support'
+  title: 'Why Sierra Leone Travelers Choose Roami: 5G Data, Coverage and Prepaid Plans'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Sierra Leone carriers for the best signal
-plans_title: 'Sierra Leone eSIM Plans: Pick the Length That Fits Your Trip'
+plans_title: 'Sierra Leone eSIM Plans and Prices: Buy Prepaid Data Online'
 plans_data:
   30 Days:
   - spec: 5GB
@@ -160,6 +158,10 @@ reminders:
     html: 'Learn how eSIM works from the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a>; device setup steps are documented by <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> and its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">traveling with eSIM guide</a>.'
   - icon: 🧭
     html: 'Traveling on from Sierra Leone? Prices for <a href="/new-zealand-esim/">New Zealand eSIM</a> and <a href="/latvia-esim/">Latvia eSIM</a> are worth comparing.'
+  - icon: 📞
+    html: 'No local Sierra Leone number is needed with an eSIM — your home SIM stays live for calls and SMS, and the eSIM covers data in Sierra Leone.'
+  - icon: 🌏
+    html: Liberia on the same itinerary? A regional eSIM covers both destinations with one balance.
   compatibility_check:
     title: 'Is Your Phone eSIM-Ready?'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -228,6 +230,10 @@ faq_section:
         How much data does a typical traveler actually use per day in Sierra Leone?
       a: |
         Most tourists use 300-500MB a day for maps and messaging, or closer to 1GB with frequent social media. 5GB suits a one-week trip and 10GB suits two weeks. If you run low, topping up with Roami is straightforward.
+    - q: |
+        Is a Sierra Leone eSIM with a phone number available from Roami?
+      a: |
+        The Roami Sierra Leone eSIM is a data plan, so no local number is included. In practice that avoids registration and extra cost, and your existing SIM still receives calls and texts.
 related_products:
   title: Related Sierra Leone eSIM Plans
   items:

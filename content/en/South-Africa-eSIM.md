@@ -1,6 +1,6 @@
 ---
 title: 'South Africa eSIM 2026: City & Network Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,9 +21,7 @@ modal:
 seo:
   title: South Africa eSIM | 5G Coverage, No Roaming Fees
   description: 'Travel South Africa with a prepaid eSIM: unlimited 5G data, instant activation from $3.99. Covers Johannesburg, Cape Town & Durban.'
-  keywords: South Africa eSIM, buy South Africa eSIM, best South Africa eSIM, South Africa travel eSIM, Vodacom South Africa,
-    MTN South Africa, Cell C South Africa, Johannesburg eSIM, Cape Town eSIM, Durban eSIM, South Africa prepaid eSIM, 5G South
-    Africa eSIM
+  keywords: 'South Africa eSIM, South Africa eSIM plans, best South Africa eSIM, cheap South Africa eSIM, buy South Africa eSIM online, unlimited data South Africa eSIM, prepaid South Africa eSIM, best eSIM for South Africa, South Africa eSIM with phone number, eSIM South Africa price, South Africa eSIM activation, South Africa eSIM coverage, best eSIM for Johannesburg, Johannesburg eSIM, Cape Town eSIM'
   low_price: 3.99
   high_price: 94.99
 order_summary:
@@ -48,7 +46,7 @@ hero:
   title: 'South Africa eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for South Africa
 features:
-  title: 'Why South Africa Travelers Choose Roami: Speed, Coverage & Support'
+  title: 'What You Get with Roami in South Africa: Data Plans, Coverage and Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -74,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top South Africa carriers for the best signal
-plans_title: 'South Africa eSIM Plans: Pick the Length That Fits Your Trip'
+plans_title: 'South Africa eSIM Price Guide: Prepaid Plans for Every Trip'
 plans_data:
   30 Days:
   - spec: 20GB
@@ -326,6 +324,12 @@ reminders:
     html: 'Learn how eSIM works from the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a>; device setup steps are documented by <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> and its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">traveling with eSIM guide</a>.'
   - icon: 🧭
     html: 'Traveling on from South Africa? Prices for <a href="/new-zealand-esim/">New Zealand eSIM</a> and <a href="/latvia-esim/">Latvia eSIM</a> are worth comparing.'
+  - icon: 🗺️
+    html: Off to Johannesburg or Cape Town? Your South Africa eSIM works the same in both cities and everywhere between them.
+  - icon: 📞
+    html: 'Prefer to keep your own number? The South Africa eSIM is data-only, so calls and texts stay on your regular SIM and data runs on the eSIM.'
+  - icon: 🌏
+    html: Visiting South Africa and Botswana? A multi-country eSIM avoids buying two separate plans.
   compatibility_check:
     title: 'Is Your Phone eSIM-Ready?'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -394,6 +398,14 @@ faq_section:
         Does WhatsApp and FaceTime work with eSIM in South Africa?
       a: |
         Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Vodacom's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+    - q: |
+        What do I need to check before buying a South Africa eSIM?
+      a: |
+        Compatibility comes down to the handset, not the country. If your phone is unlocked and eSIM-capable — broadly iPhone XS or newer, Pixel 3 or newer, recent Galaxy — a South Africa plan will install normally.
+    - q: |
+        Do I need a local number for South Africa, or is data enough?
+      a: |
+        If you need a local South Africa number, a data-only eSIM will not provide one — but for most trips it is unnecessary, since your home SIM stays live for calls and VoIP apps run over the eSIM data.
 related_products:
   title: Related South Africa eSIM Plans
   items:

@@ -1,6 +1,6 @@
 ---
 title: 'Bulgaria eSIM 2026: Travel & Network Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,8 +21,7 @@ seo:
   title: Bulgaria eSIM | Best 5G Prepaid Data for Travelers
   description: Explore Bulgaria with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant activation.
     Covers Sofia, Plovdiv & the coast.
-  keywords: Bulgaria eSIM, buy Bulgaria eSIM, best Bulgaria eSIM, Bulgaria travel eSIM, A1 Bulgaria Bulgaria, Telenor Bulgaria,
-    Vivacom Bulgaria, Sofia eSIM, Plovdiv eSIM, Varna eSIM, Bulgaria prepaid eSIM, 5G Bulgaria eSIM
+  keywords: 'Bulgaria eSIM, Bulgaria eSIM plans, best Bulgaria eSIM, cheap Bulgaria eSIM, buy Bulgaria eSIM online, unlimited data Bulgaria eSIM, prepaid Bulgaria eSIM, best eSIM for Bulgaria, eSIM Bulgaria price, Bulgaria eSIM activation, Bulgaria eSIM coverage, best eSIM for Sofia, Sofia eSIM, Plovdiv eSIM'
   low_price: 1.99
   high_price: 77.99
 order_summary:
@@ -44,10 +43,10 @@ banner:
 hero:
   flag_image: img/flags/bg.svg
   flag_alt: Bulgaria Flag
-  title: 'Bulgaria eSIM: Reliable Network & Coverage for Travelers'
+  title: 'Bulgaria eSIM: Unlimited Data, 5G Coverage & No Contract'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Bulgaria
 features:
-  title: 'Why Bulgaria Travelers Choose Roami: Network, Plans & Value'
+  title: 'What Makes Roami a Good Fit for Bulgaria: Prepaid Plans and Coverage'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Bulgaria carriers for the best signal
-plans_title: 'Pick a Bulgaria eSIM Plan — Short Stays to 30 Days'
+plans_title: 'Bulgaria eSIM Plans and Prices: Buy Prepaid Data Online'
 plans_data:
   30 Days:
   - spec: 20GB
@@ -345,6 +344,10 @@ reminders:
     html: The QR code will be sent to your email.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 🗺️
+    html: Splitting the trip between Sofia and Plovdiv? One Bulgaria eSIM covers both cities on the same plan.
+  - icon: 🌏
+    html: 'Two destinations, one eSIM: a regional plan covers both Bulgaria and Greece.'
   compatibility_check:
     title: Quick Compatibility Check
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -373,7 +376,7 @@ activation_steps:
       WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "eSIM in Bulgaria -- Is the Connection Fast and Reliable for Tourists?"
+  title: 'Bulgaria eSIM Guide: Speeds, Coverage and Device Support'
   desc: "eSIM internet quality in Bulgaria: typical download speeds, coverage on A1 Bulgaria and Telenor, and staying connected in Sofia and Plovdiv."
   categories:
   - id: faq-general

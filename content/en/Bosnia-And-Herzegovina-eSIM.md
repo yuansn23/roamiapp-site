@@ -1,6 +1,6 @@
 ---
 title: 'Bosnia and Herzegovina eSIM 2026: Tourist & Network Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: BH Telecom, HT Mostar, m:tel
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Sarajevo, Mostar, Banja Luka, Tuzla, Zenica
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  main_packages: 3/7/15/30 Days, Prepaid Data
 modal:
   title: Service Upgraded!
   btn_text: Continue
@@ -18,12 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: 'Bosnia eSIM: Unlimited 5G Data, No Hidden Charges'
-  description: Compare Bosnia and Herzegovina eSIM plans with fast 5G in Sarajevo, Mostar, Banja Luka. BH Telecom & HT Mostar
-    & m:tel coverage guide for tourists & travelers. Instant QR activation from $30.99.
-  keywords: Bosnia and Herzegovina eSIM, buy Bosnia and Herzegovina eSIM, best Bosnia and Herzegovina eSIM, Bosnia and Herzegovina
-    travel eSIM, BH Telecom Bosnia and Herzegovina, HT Mostar Bosnia and Herzegovina, m:tel Bosnia and Herzegovina, Sarajevo
-    eSIM, Mostar eSIM, Banja Luka eSIM, Bosnia and Herzegovina prepaid eSIM, 5G Bosnia and Herzegovina eSIM
+  title: 'Bosnia eSIM: Prepaid 5G Data, No Hidden Charges'
+  description: 'Bosnia eSIM plans from $30.99: compare prepaid and short-term data options on BH Telecom and HT Mostar, with instant activation and 24/7 support.'
+  keywords: 'Bosnia and Herzegovina eSIM, Bosnia and Herzegovina eSIM plans, best Bosnia and Herzegovina eSIM, cheap Bosnia and Herzegovina eSIM, buy Bosnia and Herzegovina eSIM online, Bosnia and Herzegovina eSIM data plans, prepaid Bosnia and Herzegovina eSIM, best eSIM for Bosnia and Herzegovina, Bosnia and Herzegovina eSIM with phone number, eSIM Bosnia and Herzegovina price, Bosnia and Herzegovina eSIM activation, Bosnia and Herzegovina eSIM coverage, best eSIM for Sarajevo, Sarajevo eSIM, Mostar eSIM'
   low_price: 30.99
   high_price: 30.99
 order_summary:
@@ -48,7 +45,7 @@ hero:
   title: 'Bosnia and Herzegovina eSIM: Complete Data Solutions for Your Trip'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Bosnia and Herzegovina
 features:
-  title: 'Why Bosnia and Herzegovina Travelers Choose Roami: Network, Plans & Value'
+  title: 'Fast 5G Data and Wide Coverage: Why Travelers Pick Roami for Bosnia'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -139,6 +136,12 @@ reminders:
     html: The QR code will be sent to your email.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 🗺️
+    html: 'Sarajevo and Mostar are both covered by the same Bosnia eSIM — one plan, one balance.'
+  - icon: 📞
+    html: 'Need a Bosnia eSIM with a phone number? Roami plans are data-only, so your home number stays active for calls and SMS while the eSIM handles the data.'
+  - icon: 🌏
+    html: Extending the trip to Croatia? A regional plan keeps one eSIM working across the border.
   compatibility_check:
     title: Quick Compatibility Check
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -178,7 +181,7 @@ faq_section:
     - q: |
         How much should I budget for an eSIM when visiting Bosnia and Herzegovina?
       a: |
-        Roami offers Bosnia and Herzegovina eSIM as a single plan: 20GB of data over 30 Days for $30.99. Most Bosnia and Herzegovina visitors choose the 20GB / 30 Days plan at $30.99 — it covers navigation, social media and messaging without stress. If you stream or scroll heavily in Bosnia and Herzegovina, step up to a higher-capacity or unlimited plan. BH Telecom provides reliable speeds across Bosnia and Herzegovina. Bosnia and Herzegovina plans are prepaid — no surprise bills and no auto-renewal, just straightforward pricing.
+        Roami offers Bosnia and Herzegovina eSIM as a single plan: 20GB of data over 30 Days for $30.99. Most Bosnia and Herzegovina visitors choose the 20GB / 30 Days plan at $30.99 — it covers navigation, social media and messaging without stress. If you stream or scroll heavily in Bosnia and Herzegovina, step up to a higher-capacity plan. BH Telecom provides reliable speeds across Bosnia and Herzegovina. Bosnia and Herzegovina plans are prepaid — no surprise bills and no auto-renewal, just straightforward pricing.
     - q: |
         How does Roami compare to Holafly for eSIM in Bosnia and Herzegovina?
       a: |
@@ -207,6 +210,10 @@ faq_section:
         Do I need to remove my physical SIM to use eSIM in Bosnia and Herzegovina?
       a: |
         Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Keep your home SIM for calls and SMS, and let the Bosnia and Herzegovina eSIM handle data. More than 80% of handsets released since 2020 handle this dual-SIM setup on Bosnia and Herzegovina trips.
+    - q: |
+        Does the Bosnia eSIM come with a phone number, or is it data-only?
+      a: |
+        Roami Bosnia plans are data-only, which keeps prices low and activation instant. Your regular number stays active, so calls and SMS keep arriving on your home SIM while the eSIM handles data in Bosnia and Herzegovina.
 market_analysis:
   title: 'Bosnia and Herzegovina eSIM vs Prepaid SIM Card: Which Saves You More?'
   subtitle: Bosnia and Herzegovina Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)

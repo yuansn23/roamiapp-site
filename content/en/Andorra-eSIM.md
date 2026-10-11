@@ -1,6 +1,6 @@
 ---
 title: 'Andorra eSIM 2026: Operator & Coverage Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,8 +20,7 @@ modal:
 seo:
   title: "Andorra eSIM: Best Travel eSIM & 5G Coverage Guide"
   description: 'Andorra eSIM plans from $6.99 with 5G on Andorra Telecom. No SIM queue and instant QR activation, with coverage in Andorra la Vella & Escaldes-Engordany.'
-  keywords: Andorra eSIM, buy Andorra eSIM, best Andorra eSIM, Andorra travel eSIM, Andorra Telecom Andorra, Andorra la Vella
-    eSIM, Escaldes-Engordany eSIM, Encamp eSIM, Andorra prepaid eSIM, 5G Andorra eSIM
+  keywords: 'Andorra eSIM, Andorra eSIM plans, best Andorra eSIM, cheap Andorra eSIM, buy Andorra eSIM online, unlimited data Andorra eSIM, prepaid Andorra eSIM, best eSIM for Andorra, eSIM Andorra price, Andorra eSIM activation, Andorra eSIM coverage, best eSIM for Andorra la Vella, Andorra la Vella eSIM, Escaldes-Engordany eSIM'
   low_price: 6.99
   high_price: 89.99
 order_summary:
@@ -43,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/ad.svg
   flag_alt: Andorra Flag
-  title: 'Andorra eSIM: Stay Connected Everywhere You Go'
+  title: 'Andorra eSIM: Prepaid Plans, Unlimited Data & No Contract'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Andorra
 features:
-  title: 'Why Andorra Travelers Choose Roami: Plans, Network & Support'
+  title: 'Roami for Andorra: Prepaid eSIM Plans, Coverage and 24/7 Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -72,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Andorra carriers for the best signal
-plans_title: 'Andorra eSIM Plans Built Around Your Itinerary'
+plans_title: 'Andorra eSIM Plans and Prices: Cheap Prepaid Data for Your Trip'
 plans_data:
   7 Days:
   - spec: 3GB
@@ -254,6 +253,8 @@ reminders:
     html: 'Background reading: the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM hub and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> support pages (including the <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel FAQ</a>) answer most first-timer questions.'
   - icon: 🧭
     html: 'Multi-country trip? Take a look at our <a href="/mauritius-esim/">Mauritius eSIM</a> and <a href="/iceland-esim/">Iceland eSIM</a> pages as well.'
+  - icon: 🗺️
+    html: Travelling to Andorra la Vella and Escaldes-Engordany on one trip? A single Andorra eSIM keeps you connected in both.
   compatibility_check:
     title: 'Quick Compatibility Check'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -322,6 +323,10 @@ faq_section:
         Is eSIM cheaper than international roaming for Andorra?
       a: |
         Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Andorra costs $16.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+    - q: |
+        Is the Andorra unlimited plan really unlimited, or does it slow down?
+      a: |
+        The unlimited Andorra plans give high-speed data for the full validity period with no small daily cap. Everyday use — maps, messaging, social media and video calls — runs at normal speed throughout, on Andorra Telecom.
 related_products:
   title: Related Andorra eSIM Plans
   items:

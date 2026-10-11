@@ -1,6 +1,6 @@
 ---
 title: 'Uzbekistan eSIM 2026: Operator & Coverage Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,7 +20,7 @@ modal:
 seo:
   title: Uzbekistan eSIM | Best 5G Coverage for Your Trip
   description: 'Planning a trip to Uzbekistan? Get the best prepaid Uzbekistan eSIM from Roami with unlimited 5G data. Covers Tashkent, Samarkand & Bukhara. Instant activation.'
-  keywords: Uzbekistan eSIM, buy Uzbekistan eSIM, best Uzbekistan eSIM, Uzbekistan travel eSIM, Ucell Uzbekistan, Beeline Uzbekistan, UMS (Universal Mobile Systems) Uzbekistan, Tashkent eSIM, Samarkand eSIM, Bukhara eSIM, Uzbekistan prepaid eSIM, 5G Uzbekistan eSIM
+  keywords: 'Uzbekistan eSIM, Uzbekistan eSIM plans, best Uzbekistan eSIM, cheap Uzbekistan eSIM, buy Uzbekistan eSIM online, unlimited data Uzbekistan eSIM, prepaid Uzbekistan eSIM, best eSIM for Uzbekistan, eSIM Uzbekistan price, Uzbekistan eSIM activation, Uzbekistan eSIM coverage, best eSIM for Tashkent, Tashkent eSIM, Samarkand eSIM'
   low_price: 1.99
   high_price: 96.99
 order_summary:
@@ -42,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/uz.svg
   flag_alt: Uzbekistan Flag
-  title: 'Uzbekistan eSIM: Stay Connected Everywhere You Go'
+  title: 'Uzbekistan eSIM: Affordable Prepaid Plans & Instant Activation'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Uzbekistan
 features:
-  title: 'Why Uzbekistan Travelers Choose Roami: Coverage, Speed & Service'
+  title: 'How Roami Covers Uzbekistan: Prepaid Plans, Unlimited Data and Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Uzbekistan carriers for the best signal
-plans_title: 'Uzbekistan eSIM Plans: Pick the Length That Fits Your Trip'
+plans_title: 'Uzbekistan eSIM Plans and Prices: Cheap Prepaid Data for Your Trip'
 plans_data:
   7 Days:
   - spec: 3GB
@@ -243,6 +243,10 @@ reminders:
     html: 'Want the technical background? See the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM pages and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> setup support, plus its guide to <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">using eSIM abroad</a>.'
   - icon: 🧭
     html: 'If your itinerary includes other countries, see the <a href="/afghanistan-esim/">Afghanistan eSIM</a> and <a href="/uruguay-esim/">Uruguay eSIM</a> options.'
+  - icon: 🗺️
+    html: Arriving in Tashkent and moving on to Samarkand? Your Uzbekistan eSIM travels with you.
+  - icon: 🌏
+    html: Continuing on to Kazakhstan? A regional plan covers both on a single eSIM.
   compatibility_check:
     title: 'Quick Compatibility Check'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'

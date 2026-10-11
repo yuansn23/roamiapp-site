@@ -1,6 +1,6 @@
 ---
 title: 'New Zealand eSIM - 5G in Auckland & Queenstown | No 30-Day Waste | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,7 +20,7 @@ modal:
 seo:
   title: New Zealand eSIM - 5G Prepaid Data Plan for Tourists
   description: 'New Zealand eSIM: 5G on Spark, Vodafone NZ, 2degrees. No 30-day forced plans — local SIMs waste 70%+ on short trips. Instant QR activation from $3.99.'
-  keywords: New Zealand eSIM, buy New Zealand eSIM, best New Zealand eSIM, New Zealand travel eSIM, Spark New Zealand, Vodafone NZ New Zealand, 2degrees New Zealand, Auckland eSIM, Wellington eSIM, Queenstown eSIM, New Zealand prepaid eSIM, 5G New Zealand eSIM, Hobbiton eSIM
+  keywords: 'New Zealand eSIM, New Zealand eSIM plans, best New Zealand eSIM, cheap New Zealand eSIM, buy New Zealand eSIM online, unlimited data New Zealand eSIM, prepaid New Zealand eSIM, best eSIM for New Zealand, New Zealand eSIM with phone number, eSIM New Zealand price, New Zealand eSIM activation, New Zealand eSIM coverage, best eSIM for Auckland, Auckland eSIM, Wellington eSIM'
   low_price: 3.99
   high_price: 99.99
 order_summary:
@@ -45,7 +45,7 @@ hero:
   title: 'New Zealand eSIM: 5G in Auckland & Queenstown — No 30-Day Waste'
   subtitle: 5G on Spark, Vodafone & 2degrees | No 30-day forced plans| Instant QR delivery
 features:
-  title: 'Why New Zealand Travelers Choose Roami: Speed, Coverage & Support'
+  title: 'What You Get with Roami in New Zealand: Data Plans, Coverage and Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -75,7 +75,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Both Islands Ready
     desc: 4G/5G across North & South Islands — from Auckland to Queenstown and Milford Sound
-plans_title: 'Choose Your New Zealand eSIM Plan: 3, 7, 15 and 30 Days'
+plans_title: 'New Zealand eSIM Plans and Prices: Buy Prepaid Data Online'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -332,6 +332,12 @@ reminders:
     html: 'Learn how eSIM works from the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a>; device setup steps are documented by <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> and its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">traveling with eSIM guide</a>.'
   - icon: 🧭
     html: 'Traveling on from New Zealand? Prices for <a href="/maldives-esim/">Maldives eSIM</a> and <a href="/qatar-esim/">Qatar eSIM</a> are worth comparing.'
+  - icon: 🗺️
+    html: Travelling to Auckland and Wellington on one trip? A single New Zealand eSIM keeps you connected in both.
+  - icon: 📞
+    html: Data-only keeps the New Zealand eSIM cheap and instant — your regular line stays active for calls and messages throughout the trip.
+  - icon: 🌏
+    html: Adding Australia to your trip? A multi-country eSIM covers both destinations on one plan.
   compatibility_check:
     title: 'Quick Compatibility Check'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -398,6 +404,14 @@ faq_section:
         When does the validity period of my New Zealand eSIM start?
       a: |
         The plan validity starts when you connect to a local network in New Zealand, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+    - q: |
+        What do I need to check before buying a New Zealand eSIM?
+      a: |
+        Compatibility comes down to the handset, not the country. If your phone is unlocked and eSIM-capable — broadly iPhone XS or newer, Pixel 3 or newer, recent Galaxy — a New Zealand plan will install normally.
+    - q: |
+        Can I get a New Zealand eSIM with a local phone number?
+      a: |
+        The New Zealand eSIM is data-only — no local number attached. That is deliberate: it lowers the price and removes registration. Your own SIM still handles calls and texts, and WhatsApp or FaceTime run over the eSIM's data.
 related_products:
   title: Related New Zealand eSIM Plans
   items:

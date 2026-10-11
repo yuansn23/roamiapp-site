@@ -1,6 +1,6 @@
 ---
 title: 'Malaysia eSIM 2026: Local Carrier Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,8 +21,7 @@ modal:
 seo:
   title: Malaysia eSIM | Buy Travel Data Plan for Your Trip
   description: 'Explore Malaysia eSIM with the best prepaid travel eSIM from Roami. Unlimited 5G data on top networks. Instant activation. Covers KL, Penang & all cities.'
-  keywords: Malaysia eSIM, buy Malaysia eSIM, best Malaysia eSIM, Malaysia travel eSIM, Maxis Malaysia, Celcom Malaysia, Digi
-    Malaysia, Kuala Lumpur eSIM, Penang eSIM, Johor Bahru eSIM, Malaysia prepaid eSIM, 5G Malaysia eSIM
+  keywords: 'Malaysia eSIM, Malaysia eSIM plans, best Malaysia eSIM, cheap Malaysia eSIM, buy Malaysia eSIM online, unlimited data Malaysia eSIM, prepaid Malaysia eSIM, best eSIM for Malaysia, Malaysia eSIM with phone number, eSIM Malaysia price, Malaysia eSIM activation, Malaysia eSIM coverage, best eSIM for Kuala Lumpur, Kuala Lumpur eSIM, Penang eSIM'
   low_price: 1.99
   high_price: 65.99
 order_summary:
@@ -44,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/my.svg
   flag_alt: Malaysia Flag
-  title: 'Malaysia eSIM: Stay Connected Everywhere You Go'
+  title: 'Malaysia eSIM: Cheap Prepaid Plans with Unlimited Data'
   subtitle: Best prepaid eSIM for Malaysia travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Malaysia Travelers Choose Roami: Data, Coverage & Support'
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Malaysia carriers for the best signal
-plans_title: 'Malaysia eSIM Data Plans for Every Stay'
+plans_title: 'Cheap Malaysia eSIM Plans: Buy Prepaid Data Before You Fly'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -341,6 +340,12 @@ reminders:
     html: 'New to eSIM? <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> explains the standard, and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> plus its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel guide</a> walk through setup.'
   - icon: 🧭
     html: 'Heading further afield? Compare <a href="/guyana-esim/">Guyana eSIM</a> and <a href="/nigeria-esim/">Nigeria eSIM</a> plans before you book.'
+  - icon: 🗺️
+    html: 'Whether you land in Kuala Lumpur or Penang, the Malaysia eSIM is ready before you arrive.'
+  - icon: 📞
+    html: 'The Malaysia eSIM carries data only; calls and SMS stay on your own SIM, which means no local number registration in Malaysia.'
+  - icon: 🌏
+    html: Planning Singapore after Malaysia? One regional plan covers the whole route on a single eSIM.
   compatibility_check:
     title: 'Check Your Phone Compatibility'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -409,6 +414,14 @@ faq_section:
         Can I use my Malaysia eSIM for social media and sharing photos with family?
       a: |
         Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Maxis handle photos in seconds and short videos easily.
+    - q: |
+        Does the Malaysia eSIM come with a phone number, or is it data-only?
+      a: |
+        Roami Malaysia plans are data-only, which keeps prices low and activation instant. Your regular number stays active, so calls and SMS keep arriving on your home SIM while the eSIM handles data in Malaysia.
+    - q: |
+        Should I buy separate eSIMs for Malaysia and Singapore?
+      a: |
+        If Singapore is part of the same trip, a multi-country eSIM is simpler and usually cheaper than two separate plans for Malaysia and Singapore.
 related_products:
   title: Related Malaysia eSIM Plans
   items:

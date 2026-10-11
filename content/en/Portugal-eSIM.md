@@ -1,6 +1,6 @@
 ---
 title: 'Portugal eSIM 2026 - Best 5G Plan for Lisbon & Algarve | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,7 +20,7 @@ modal:
 seo:
   title: Portugal eSIM - Best 5G Prepaid Plan for Your Journey
   description: 'Portugal eSIM: 5G on Vodafone Portugal, MEO, NOS. No ID needed — instant QR activation. Plans from $1.99.'
-  keywords: Portugal eSIM, buy Portugal eSIM, best Portugal eSIM, Portugal travel eSIM, Vodafone Portugal, MEO Portugal, NOS Portugal, Lisbon eSIM, Porto eSIM, Faro eSIM, Portugal prepaid eSIM, 5G Portugal eSIM, Algarve eSIM, Douro Valley eSIM, Sintra eSIM
+  keywords: 'Portugal eSIM, Portugal eSIM plans, best Portugal eSIM, cheap Portugal eSIM, buy Portugal eSIM online, unlimited data Portugal eSIM, prepaid Portugal eSIM, best eSIM for Portugal, Portugal eSIM with phone number, eSIM Portugal price, Portugal eSIM activation, Portugal eSIM coverage, best eSIM for Lisbon, Lisbon eSIM, Porto eSIM'
   low_price: 1.99
   high_price: 71.99
 order_summary:
@@ -45,7 +45,7 @@ hero:
   title: 'Portugal eSIM: 5G in Lisbon, Algarve & Beyond — No ID Needed'
   subtitle: No ID required | 5G on Vodafone, MEO & NOS | Global payment accepted | Instant QR delivery
 features:
-  title: 'Why Portugal Travelers Choose Roami: Speed, Coverage & Support'
+  title: 'How Roami Covers Portugal: Prepaid Plans, Unlimited Data and Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to Vodafone, MEO & NOS for the best signal across Portugal
-plans_title: 'Portugal eSIM Plans: Pick the Length That Fits Your Trip'
+plans_title: 'Buy Portugal eSIM: Prepaid Data Plans for Every Trip Length'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -340,6 +340,12 @@ reminders:
     html: 'Learn how eSIM works from the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a>; device setup steps are documented by <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> and its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">traveling with eSIM guide</a>.'
   - icon: 🧭
     html: 'Traveling on from Portugal? Prices for <a href="/tajikistan-esim/">Tajikistan eSIM</a> and <a href="/estonia-esim/">Estonia eSIM</a> are worth comparing.'
+  - icon: 🗺️
+    html: 'Whether you land in Lisbon or Porto, the Portugal eSIM is ready before you arrive.'
+  - icon: 📞
+    html: 'Need a Portugal eSIM with a phone number? Roami plans are data-only, so your home number stays active for calls and SMS while the eSIM handles the data.'
+  - icon: 🌏
+    html: Doing Portugal and Spain in one trip? A regional plan is simpler than two separate eSIMs.
   compatibility_check:
     title: 'Quick Compatibility Check'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -410,6 +416,10 @@ faq_section:
         Can I top up my Portugal eSIM if I run out of data?
       a: |
         Yes — you can top up through your Roami account at any time with one click. Unlike Portuguese prepaid SIMs with their complex payment restrictions (MEO/NOS reject international cards, Vodafone requires 3+ month old cards, NOS charges Payshop fees), Roami accepts global payment methods with no barriers.
+    - q: |
+        Does the Portugal unlimited eSIM throttle speed after a certain amount?
+      a: |
+        Unlimited is built so you do not hit a daily wall. Navigation, chat, photos and video calls stay at full speed for the whole plan, which is the simplest option if you would rather not track gigabytes.
 related_products:
   title: Related Portugal eSIM Plans
   items:

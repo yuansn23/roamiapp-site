@@ -1,6 +1,6 @@
 ---
 title: slovenia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,8 +21,7 @@ modal:
 seo:
   title: "Slovenia eSIM | 5G Unlimited Data for Travelers"
   description: 'Travel Slovenia with a prepaid eSIM: unlimited 5G data, instant activation from $1.99. Covers Ljubljana, Maribor & Kranj.'
-  keywords: Slovenia eSIM, eSIM Slovenia, cheap eSIM Slovenia, travel internet Slovenia,
-    A1 Slovenia, Telekom Slovenije, instant eSIM, no roaming charges
+  keywords: 'Slovenia eSIM, Slovenia eSIM plans, best Slovenia eSIM, cheap Slovenia eSIM, buy Slovenia eSIM online, unlimited data Slovenia eSIM, prepaid Slovenia eSIM, best eSIM for Slovenia, eSIM Slovenia price, Slovenia eSIM activation, Slovenia eSIM coverage, best eSIM for Ljubljana, Ljubljana eSIM, Maribor eSIM'
   low_price: 1.99
   high_price: 78.99
 order_summary:
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Connect to top carriers
-plans_title: 'slovenia eSIM Data Plans for Every Stay'
+plans_title: 'Compare Slovenia eSIM Prices: Prepaid Data Plans by Trip Length'
 plans_data:
   30 Days:
   - spec: 30GB
@@ -327,6 +326,10 @@ reminders:
     html: 'New to eSIM? <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> explains the standard, and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> plus its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel guide</a> walk through setup.'
   - icon: 🧭
     html: 'Heading further afield? Compare <a href="/uruguay-esim/">Uruguay eSIM</a> and <a href="/finland-esim/">Finland eSIM</a> plans before you book.'
+  - icon: 🗺️
+    html: Touring Ljubljana then Maribor? Keep one Slovenia eSIM active for the entire trip.
+  - icon: 🌏
+    html: 'If your route continues into Croatia, choose a regional eSIM and stay connected without a second purchase.'
   compatibility_check:
     title: 'Verify Your Device Supports eSIM'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself

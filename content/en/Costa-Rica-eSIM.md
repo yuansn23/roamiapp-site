@@ -1,6 +1,6 @@
 ---
 title: 'Costa Rica eSIM 2026: Travel & Network Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,8 +20,7 @@ modal:
 seo:
   title: Costa Rica eSIM | Best 5G Coverage for Travelers
   description: 'Explore Costa Rica eSIM with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant activation. Covers San Jose, Liberia & all regions.'
-  keywords: Costa Rica eSIM, buy Costa Rica eSIM, best Costa Rica eSIM, Costa Rica travel eSIM, Liberty Costa Rica, Claro
-    Costa Rica, ICE Costa Rica, San José eSIM, Alajuela eSIM, Heredia eSIM, Costa Rica prepaid eSIM, 5G Costa Rica eSIM
+  keywords: 'Costa Rica eSIM, Costa Rica eSIM plans, best Costa Rica eSIM, cheap Costa Rica eSIM, buy Costa Rica eSIM online, unlimited data Costa Rica eSIM, prepaid Costa Rica eSIM, best eSIM for Costa Rica, Costa Rica eSIM with phone number, eSIM Costa Rica price, Costa Rica eSIM activation, Costa Rica eSIM coverage, best eSIM for San José, San José eSIM, Alajuela eSIM'
   low_price: 9.99
   high_price: 84.99
 order_summary:
@@ -43,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/cr.svg
   flag_alt: Costa Rica Flag
-  title: 'Costa Rica eSIM: Reliable Network & Coverage for Travelers'
+  title: 'Costa Rica eSIM: 5G Coverage with Prepaid & Unlimited Plans'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Costa Rica
 features:
-  title: 'Why Costa Rica Travelers Choose Roami: Speed, Coverage & Support'
+  title: 'What Roami Offers Costa Rica Travelers: 5G Data, Prepaid Plans and Coverage'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -274,7 +273,7 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Set Up Your Costa Rica eSIM Before Departure: Key Tips'
+  title: 'Costa Rica eSIM Activation Guide: Check Your Device First'
   items:
   - icon: 📱
     html: Check that your device supports eSIM — see the <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">phone compatibility list</a>.
@@ -292,6 +291,12 @@ reminders:
     html: 'Learn how eSIM works from the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a>; device setup steps are documented by <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> and its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">traveling with eSIM guide</a>.'
   - icon: 🧭
     html: 'Traveling on from Costa Rica? Prices for <a href="/estonia-esim/">Estonia eSIM</a> and <a href="/armenia-esim/">Armenia eSIM</a> are worth comparing.'
+  - icon: 🗺️
+    html: 'Whether you start in San José or Alajuela, one Costa Rica eSIM covers your whole route.'
+  - icon: 📞
+    html: 'No local Costa Rica number is needed with an eSIM — your home SIM stays live for calls and SMS, and the eSIM covers data in Costa Rica.'
+  - icon: 🌏
+    html: 'If your route continues into Panama, choose a regional eSIM and stay connected without a second purchase.'
   compatibility_check:
     title: 'Compatibility Check in 10 Seconds'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -360,6 +365,10 @@ faq_section:
         How far in advance should I buy my Costa Rica eSIM?
       a: |
         You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Costa Rica, so buying early doesn't waste your plan days.
+    - q: |
+        Will I be able to make calls and send texts with a Costa Rica eSIM?
+      a: |
+        There is no Costa Rica number bundled with a Roami plan; it is built for data. Dual-SIM phones keep the home line live for incoming calls and SMS while messaging and internet calls use the eSIM.
 related_products:
   title: Related Costa Rica eSIM Plans
   items:

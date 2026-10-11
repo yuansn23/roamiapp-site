@@ -1,6 +1,6 @@
 ---
 title: 'Liberia eSIM 2026: Coverage & Speed Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Orange Liberia, Lonestar Cell MTN, LiberCell
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Monrovia, Gbarnga, Buchanan, Kakata, Zwedru
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  main_packages: 3/7/15/30 Days, Prepaid Data
 modal:
   title: Service Upgraded!
   btn_text: Continue
@@ -21,8 +21,7 @@ modal:
 seo:
   title: "Liberia eSIM: Orange & Lonestar 5G Coverage Guide"
   description: 'Compare Liberia eSIM plans from $27.99. 5G on Orange Liberia, Lonestar Cell MTN, LiberCell, instant activation, covering Monrovia, Gbarnga & Buchanan.'
-  keywords: Liberia eSIM, buy Liberia eSIM, best Liberia eSIM, Liberia travel eSIM, Orange Liberia, Lonestar Cell
-    MTN Liberia, LiberCell Liberia, Monrovia eSIM, Gbarnga eSIM, Buchanan eSIM, Liberia prepaid eSIM, 5G Liberia eSIM
+  keywords: 'Liberia eSIM, Liberia eSIM plans, best Liberia eSIM, cheap Liberia eSIM, buy Liberia eSIM online, Liberia eSIM data plans, prepaid Liberia eSIM, best eSIM for Liberia, eSIM Liberia price, Liberia eSIM activation, Liberia eSIM coverage, best eSIM for Monrovia, Monrovia eSIM, Gbarnga eSIM'
   low_price: 27.99
   high_price: 99.99
 order_summary:
@@ -47,7 +46,7 @@ hero:
   title: 'Liberia eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Best prepaid eSIM for Liberia travelers - fast 5G, instant activation, 24/7 support
 features:
-  title: 'Why Liberia Travelers Choose Roami: Coverage, Speed & Service'
+  title: 'Why Travelers Choose Roami for Liberia: 5G Data & Coverage'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Liberia carriers for the best signal
-plans_title: 'Liberia eSIM Plans: Pick the Length That Fits Your Trip'
+plans_title: 'Prepaid Liberia eSIM Plans: Compare Prices and Durations'
 plans_data:
   7 Days:
   - spec: 1GB
@@ -162,6 +161,10 @@ reminders:
     html: 'Want the technical background? See the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM pages and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> setup support, plus its guide to <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">using eSIM abroad</a>.'
   - icon: 🧭
     html: 'If your itinerary includes other countries, see the <a href="/hong-kong-esim/">Hong Kong eSIM</a> and <a href="/denmark-esim/">Denmark eSIM</a> options.'
+  - icon: 🗺️
+    html: 'Whether you start in Monrovia or Gbarnga, one Liberia eSIM covers your whole route.'
+  - icon: 🌏
+    html: 'Combining Liberia with Sierra Leone? One regional eSIM covers both, so there is nothing to buy at the border.'
   compatibility_check:
     title: 'Quick Compatibility Check'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -207,9 +210,9 @@ faq_section:
       a: |
         Indeed — the home SIM stays in slot 1 for SMS and 2FA logins, and the eSIM covers data in slot 2. Turn off data roaming on the home SIM to avoid charges of up to $10-15 per MB.
     - q: |
-        What's the difference between a 5GB plan and an unlimited plan for Liberia?
+        Does Liberia have an unlimited plan, or only fixed-data plans?
       a: |
-        A 5GB plan hands you 5GB of high-speed data up front. Run out and you top up or switch plans. Unlimited plans keep going, though fair usage may trim speeds after 30GB in a day. Most travelers find 5GB sufficient for maps, chat and social apps.
+        Liberia plans are sold by data size, so the allowance you buy is exactly what you get at full speed. There is no unlimited option for Liberia; if you run out, top up or buy another plan before you travel on.
     - q: |
         Is eSIM cheaper than international roaming for Liberia?
       a: |

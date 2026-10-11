@@ -1,6 +1,6 @@
 ---
 title: 'Croatia eSIM 2026: Complete Travel Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,8 +20,7 @@ modal:
 seo:
   title: Croatia eSIM | Best 5G Unlimited Data for Your Trip
   description: 'Need a prepaid Croatia eSIM for your trip? Roami offers unlimited 5G data along the coast & inland. Instant activation. Covers Dubrovnik, Split & Zagreb.'
-  keywords: Croatia eSIM, buy Croatia eSIM, best Croatia eSIM, Croatia travel eSIM, Hrvatski Telekom Croatia, A1 Hrvatska
-    Croatia, Tele2 Croatia, Zagreb eSIM, Split eSIM, Dubrovnik eSIM, Croatia prepaid eSIM, 5G Croatia eSIM
+  keywords: 'Croatia eSIM, Croatia eSIM plans, best Croatia eSIM, cheap Croatia eSIM, buy Croatia eSIM online, unlimited data Croatia eSIM, prepaid Croatia eSIM, best eSIM for Croatia, Croatia eSIM with phone number, eSIM Croatia price, Croatia eSIM activation, Croatia eSIM coverage, best eSIM for Zagreb, Zagreb eSIM, Split eSIM'
   low_price: 1.99
   high_price: 76.99
 order_summary:
@@ -348,6 +347,10 @@ reminders:
     html: 'Background reading: the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM hub and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> support pages (including the <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">international travel FAQ</a>) answer most first-timer questions.'
   - icon: 🧭
     html: 'Multi-country trip? Take a look at our <a href="/israel-esim/">Israel eSIM</a> and <a href="/paraguay-esim/">Paraguay eSIM</a> pages as well.'
+  - icon: 🗺️
+    html: Zagreb or Split first? The Croatia eSIM covers both from the moment you land.
+  - icon: 📞
+    html: 'Prefer to keep your own number? The Croatia eSIM is data-only, so calls and texts stay on your regular SIM and data runs on the eSIM.'
   compatibility_check:
     title: 'Check Your Phone Compatibility'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -416,6 +419,10 @@ faq_section:
         Do I need to remove my physical SIM to use eSIM in Croatia?
       a: |
         Not at all — the physical SIM keeps slot 1 and the eSIM sits in slot 2 beside it. Your home line handles SMS and calls while the eSIM carries data. Most phones from 2020 onward support dual SIM this way.
+    - q: |
+        Is a Croatia eSIM with a phone number available from Roami?
+      a: |
+        The Roami Croatia eSIM is a data plan, so no local number is included. In practice that avoids registration and extra cost, and your existing SIM still receives calls and texts.
 related_products:
   title: Related Croatia eSIM Plans
   items:

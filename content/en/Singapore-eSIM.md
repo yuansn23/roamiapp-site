@@ -1,6 +1,6 @@
 ---
 title: 'Singapore eSIM - 5G Island-Wide Coverage | No Airport Queues | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Singapore eSIM - Best 5G Prepaid Plan Island-Wide 
-  description: 'Singapore eSIM: 5G on Singtel, StarHub, M1. No passport queues at Changi — instant QR delivery. Plans from $1.99.'
-  keywords: Singapore eSIM, buy Singapore eSIM, best Singapore eSIM, Singapore travel eSIM, Singtel Singapore, StarHub Singapore, M1 Singapore, Singapore City eSIM, Jurong East eSIM, Tampines eSIM, Singapore prepaid eSIM, 5G Singapore eSIM, Marina Bay eSIM, Sentosa eSIM
+  title: 'Singapore eSIM Plans: Prepaid, Unlimited & Cheap Options'
+  description: 'Get a prepaid Singapore eSIM from $1.99: unlimited and fixed-data plans on Singtel and StarHub, with instant QR delivery and no contract to cancel.'
+  keywords: 'Singapore eSIM, Singapore eSIM plans, best Singapore eSIM, cheap Singapore eSIM, buy Singapore eSIM online, unlimited data Singapore eSIM, prepaid Singapore eSIM, best eSIM for Singapore, Singapore eSIM with phone number, eSIM Singapore price, Singapore eSIM activation, Singapore eSIM coverage, best eSIM for Singapore City, Singapore City eSIM, Sentosa eSIM'
   low_price: 1.99
   high_price: 65.99
 order_summary:
@@ -42,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/sg.svg
   flag_alt: Singapore Flag
-  title: 'Singapore eSIM: 5G Island-Wide — Skip the Changi Airport Queue'
+  title: 'Singapore eSIM: Cheap Prepaid Plans with Unlimited Data'
   subtitle: 5G on Singtel, StarHub & M1 | No passport registration | Instant QR delivery | 24/7 support
 features:
-  title: 'Why Singapore Travelers Choose Roami: Coverage, Speed & Service'
+  title: 'What You Get with a Singapore eSIM: Unlimited Data and Full Coverage'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -75,7 +75,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Island-Wide 5G
     desc: Full 5G coverage from Changi Airport to Sentosa — every corner of Singapore
-plans_title: 'Singapore eSIM Plans: Pick the Length That Fits Your Trip'
+plans_title: 'Prepaid Singapore eSIM Plans: Compare Prices and Durations'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -285,7 +285,7 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Singapore eSIM Coverage: Mobile Network Operator Guide'
+  title: 'Singapore eSIM Coverage: Operator Guide and Speeds'
   supports_text: 'Supports:'
   service_details:
     title: 'What''s Included'
@@ -316,7 +316,7 @@ network_coverage:
       coverage: Good urban 5G coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Singapore eSIM Setup: What to Check Before You Fly'
+  title: 'Singapore eSIM Activation and Compatibility: Get Ready to Fly'
   items:
   - icon: 📱
     html: Not sure your handset supports eSIM? Check the <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibility checklist</a> first.
@@ -340,6 +340,12 @@ reminders:
     html: 'Want the technical background? See the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM pages and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> setup support, plus its guide to <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">using eSIM abroad</a>.'
   - icon: 🧭
     html: 'If your itinerary includes other countries, see the <a href="/hong-kong-esim/">Hong Kong eSIM</a> and <a href="/vietnam-esim/">Vietnam eSIM</a> options.'
+  - icon: 🗺️
+    html: 'Best eSIM for Singapore City? The same Singapore plan also covers Sentosa and the rest of Singapore — no extra SIM needed.'
+  - icon: 📞
+    html: 'Prefer to keep your own number? The Singapore eSIM is data-only, so calls and texts stay on your regular SIM and data runs on the eSIM.'
+  - icon: 🌏
+    html: 'Continuing on to Malaysia? A regional plan covers both on a single eSIM.'
   compatibility_check:
     title: 'Quick Compatibility Check'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -347,7 +353,7 @@ reminders:
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'Installing Your Singapore eSIM in Three Steps'
+  title: How to Install and Activate Your Singapore eSIM
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
@@ -366,7 +372,7 @@ activation_steps:
     desc: Upon arriving in Singapore, enable your Singapore eSIM in settings to start using data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Singapore eSIM Guide: 5G Island-Wide, Speeds & Travel Tips"
+  title: 'Answers on Singapore eSIM: Coverage, Activation and Compatibility'
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Singapore. Find out what speeds to expect and where 5G works best."
   categories:
   - id: faq-general
@@ -414,6 +420,18 @@ faq_section:
         When does the validity period of my Singapore eSIM start?
       a: |
         The plan validity starts when you connect to a local network in Singapore, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+    - q: |
+        How do I activate a Singapore eSIM, and how long does it take?
+      a: |
+        There is nothing to collect and no store to visit. Order online, receive the QR code by email in about five minutes, and scan it under Settings > Cellular. Enable the line when you reach Singapore and you will be online straight away — Roami activates around the clock.
+    - q: |
+        What is the price of a Singapore eSIM, and how much data do I get?
+      a: |
+        Singapore eSIM plans start at $1.99 and rise to unlimited data for longer stays, running on Singtel and StarHub. Match the plan to your trip: 3- and 7-day plans suit short visits, while 15- and 30-day unlimited plans work best for longer trips. Everything is prepaid, so there is no contract and no bill after you leave Singapore.
+    - q: |
+        How does the Singapore unlimited data plan actually work?
+      a: |
+        The unlimited plan is built so you do not hit a daily wall. Normal use such as navigation, chat, photos and video calls stays at full speed for the whole plan. It is the simplest option if you would rather not track gigabytes while travelling.
 related_products:
   title: Related Singapore eSIM Plans
   items:
@@ -458,7 +476,7 @@ related_products:
     price: From $9.99
     is_highlight: false
 market_analysis:
-  title: 'Singapore eSIM vs Local Prepaid SIM: Convenience vs Cost'
+  title: 'Singapore eSIM vs Local SIM: Which Offers the Best Value?'
   subtitle: Singapore Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
     text: 'Data Source: Prepaid Data SIM Card Wiki (Singapore) + Local Operator Sites'

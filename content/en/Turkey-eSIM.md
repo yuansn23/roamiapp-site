@@ -1,6 +1,6 @@
 ---
 title: 'Turkey eSIM - 5G in Istanbul & Cappadocia | No Passport Needed | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Turkey eSIM - Best 5G Data Plan | No Passport Needed
-  description: 'Turkey eSIM: 5G on Turkcell, Vodafone, Türk Telekom. No passport or ID needed — skip local SIM registration. Instant QR activation from $1.99.'
-  keywords: Turkey eSIM, buy Turkey eSIM, best Turkey eSIM, Turkey travel eSIM, Turkcell Turkey, Vodafone Turkey, Türk Telekom Turkey, Istanbul eSIM, Ankara eSIM, Izmir eSIM, Turkey prepaid eSIM, 5G Turkey eSIM, Turkey eSIM no passport, eSIM for Cappadocia
+  title: Turkey eSIM - Prepaid Data Plans Compared
+  description: 'Compare Turkey eSIM prices and prepaid plans from $1.99. Unlimited data options, 5G on Turkcell and Vodafone and instant QR activation before you fly.'
+  keywords: 'Turkey eSIM, Turkey eSIM plans, best Turkey eSIM, cheap Turkey eSIM, buy Turkey eSIM online, unlimited data Turkey eSIM, prepaid Turkey eSIM, best eSIM for Turkey, eSIM Turkey price, Turkey eSIM activation, Turkey eSIM coverage, best eSIM for Istanbul, Istanbul eSIM, Antalya eSIM'
   low_price: 1.99
   high_price: 78.99
 order_summary:
@@ -42,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/tr.svg
   flag_alt: Turkey Flag
-  title: 'Turkey eSIM: 5G in Istanbul, Cappadocia'
+  title: 'Turkey eSIM: Unlimited Data Options & Instant QR Delivery'
   subtitle: 5G on Turkcell, Vodafone & Türk Telekom | No passport/ID needed | Bypass local censorship | Instant QR delivery
 features:
-  title: 'Why Turkey Travelers Pick Roami: Coverage, Plans and Help'
+  title: 'Roami for Turkey: Prepaid eSIM Plans, Coverage and 24/7 Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -75,7 +75,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Bypass Censorship
     desc: Access all websites — Twitter, Facebook, Wikipedia, VPNs — no blocks
-plans_title: 'Choose Your Turkey eSIM Plan: 3, 7, 15 and 30 Days'
+plans_title: 'Turkey eSIM Plans and Prices: Cheap Prepaid Data for Your Trip'
 plans_data:
   3 Days:
   - spec: 1GB
@@ -294,7 +294,7 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Turkey eSIM Coverage: How the Local Networks Compare'
+  title: 'Turkey eSIM Coverage Map: Carriers, Bands and Speed'
   supports_text: 'Supports:'
   service_details:
     title: 'Included Services'
@@ -325,7 +325,7 @@ network_coverage:
       coverage: Good urban coverage
       network: 5G/4G/LTE Network
 reminders:
-  title: 'Getting Your Turkey eSIM Ready: Setup Essentials'
+  title: 'Turkey eSIM Compatibility and Activation: Pre-Trip Checklist'
   items:
   - icon: 📱
     html: Not sure your handset supports eSIM? Check the <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibility checklist</a> first.
@@ -349,6 +349,10 @@ reminders:
     html: 'Want the technical background? See the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a> eSIM pages and <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> setup support, plus its guide to <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">using eSIM abroad</a>.'
   - icon: 🧭
     html: 'If your itinerary includes other countries, see the <a href="/vatican-city-esim/">Vatican City eSIM</a> and <a href="/slovakia-esim/">Slovakia eSIM</a> options.'
+  - icon: 🗺️
+    html: 'Looking for the best eSIM for Istanbul or Antalya? One Turkey eSIM covers both — plus the rest of Turkey.'
+  - icon: 🌏
+    html: 'Continuing on to Greece? A regional plan covers both on a single eSIM.'
   compatibility_check:
     title: 'Compatibility Check in 10 Seconds'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -356,7 +360,7 @@ reminders:
     code: '*#06#'
     result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
-  title: 'Get Online in Turkey: How to Install Your eSIM'
+  title: 'Turkey eSIM Installation Guide: Three Steps to Get Online'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
@@ -375,7 +379,7 @@ activation_steps:
     desc: Upon arriving in Turkey, enable your Turkey eSIM in settings to start using data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Turkey eSIM Guide: 5G, Censorship Bypass & Tourist Tips"
+  title: 'Turkey eSIM Guide: Speeds, Coverage and Device Support'
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Turkey. Find out what speeds to expect, how to bypass blocks, and where eSIM works best."
   categories:
   - id: faq-general
@@ -423,6 +427,18 @@ faq_section:
         When does the validity period of my Turkey eSIM start?
       a: |
         The plan validity starts when you connect to a local network in Turkey, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+    - q: |
+        Is there a cheap Turkey eSIM for a short trip?
+      a: |
+        Cheap does not mean limited here: short Turkey plans begin at $1.99 and use the same Turkcell and Vodafone networks as longer ones. Pick the smallest plan that covers your days, and you avoid paying for a month you will not use.
+    - q: |
+        Does the Turkey unlimited eSIM throttle speed after a certain amount?
+      a: |
+        Roami's unlimited Turkey plans give you high-speed data for the full validity period with no daily caps. Everyday use — maps, messaging, social media and video calls — runs at normal speed throughout, so you can stream and share without watching a data counter.
+    - q: |
+        Is Turkey eSIM activation complicated? What do I need to do?
+      a: |
+        Installation takes about two minutes. Order online, open the QR code that lands in your inbox, and scan it under Settings > Cellular. Keep the line switched off until you arrive in Turkey, then enable it — the eSIM joins a network automatically, at any hour.
 related_products:
   title: Related Turkey eSIM Plans
   items:
@@ -467,7 +483,7 @@ related_products:
     price: From $7.99
     is_highlight: false
 market_analysis:
-  title: 'Turkey eSIM vs Local Prepaid SIM: No Passport, No 28-Day Waste'
+  title: Best eSIM Card for Turkey? Local SIM vs Roami eSIM Compared
   subtitle: Turkey Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
     text: 'Data Source: Prepaid Data SIM Card Wiki (Turkey) + Local Operator Sites'

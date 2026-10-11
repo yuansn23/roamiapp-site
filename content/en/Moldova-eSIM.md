@@ -1,6 +1,6 @@
 ---
 title: 'Moldova eSIM 2026: 5G & Data Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,8 +21,7 @@ modal:
 seo:
   title: 'Moldova eSIM: Best 5G High-Speed Unlimited Data Plan'
   description: 'Moldova eSIM plans from $1.99 with 5G on Orange Moldova, Moldcell, Moldtelecom. No SIM queue and instant QR activation, with coverage in Chișinău & Bălți.'
-  keywords: Moldova eSIM, buy Moldova eSIM, best Moldova eSIM, Moldova travel eSIM, Orange Moldova, Moldcell Moldova,
-    Moldtelecom Moldova, Chișinău eSIM, Bălți eSIM, Tiraspol eSIM, Moldova prepaid eSIM, 5G Moldova eSIM
+  keywords: 'Moldova eSIM, Moldova eSIM plans, best Moldova eSIM, cheap Moldova eSIM, buy Moldova eSIM online, unlimited data Moldova eSIM, prepaid Moldova eSIM, best eSIM for Moldova, eSIM Moldova price, Moldova eSIM activation, Moldova eSIM coverage, best eSIM for Chișinău, Chișinău eSIM, Bălți eSIM'
   low_price: 1.99
   high_price: 78.99
 order_summary:
@@ -44,10 +43,10 @@ banner:
 hero:
   flag_image: img/flags/mo.svg
   flag_alt: Moldova Flag
-  title: 'Moldova eSIM: Instant Connectivity for Worry-Free Travel'
+  title: 'Moldova eSIM: Instant 5G Data & Prepaid Plans'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Moldova travelers
 features:
-  title: 'What Makes Roami a Good Fit for Moldova: Plans and Coverage'
+  title: 'Why Travelers Choose Roami''s Moldova eSIM: Unlimited Data and 5G Coverage'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-Switch
     desc: Auto-connects to top Moldova carriers for the best signal
-plans_title: 'Choose Your Moldova eSIM Plan: 3, 7, 15 and 30 Days'
+plans_title: 'Cheap Moldova eSIM Plans: Prepaid Data, 3 to 30 Days'
 plans_data:
   30 Days:
   - spec: 30GB
@@ -318,6 +317,10 @@ reminders:
     html: 'Learn how eSIM works from the <a href="https://www.gsma.com/esim/" rel="noopener" target="_blank">GSMA</a>; device setup steps are documented by <a href="https://support.apple.com/en-us/118669" rel="noopener" target="_blank">Apple</a> and its <a href="https://support.apple.com/en-us/118227" rel="noopener" target="_blank">traveling with eSIM guide</a>.'
   - icon: 🧭
     html: 'Traveling on from Moldova? Prices for <a href="/uganda-esim/">Uganda eSIM</a> and <a href="/mali-esim/">Mali eSIM</a> are worth comparing.'
+  - icon: 🗺️
+    html: Chișinău then Bălți — or the other way round? The Moldova eSIM does not care which order you travel in.
+  - icon: 🌏
+    html: Romania on the same itinerary? A regional eSIM covers both destinations with one balance.
   compatibility_check:
     title: 'Check Your Phone Compatibility'
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'

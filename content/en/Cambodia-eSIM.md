@@ -1,6 +1,6 @@
 ---
 title: 'Cambodia eSIM 2026: Operator & Coverage Guide | Roami'
-date: '2026-10-10T00:00:00+00:00'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -22,8 +22,7 @@ seo:
   title: Cambodia eSIM | Best 5G Prepaid Data for Visitors
   description: Explore Cambodia with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Covers Phnom Penh,
     Siem Reap & Sihanoukville. Instant activation.
-  keywords: Cambodia eSIM, buy Cambodia eSIM, best Cambodia eSIM, Cambodia travel eSIM, Smart Cambodia, Metfone Cambodia,
-    Cellcard Cambodia, Phnom Penh eSIM, Siem Reap eSIM, Sihanoukville eSIM, Cambodia prepaid eSIM, 5G Cambodia eSIM
+  keywords: 'Cambodia eSIM, Cambodia eSIM plans, best Cambodia eSIM, cheap Cambodia eSIM, buy Cambodia eSIM online, unlimited data Cambodia eSIM, prepaid Cambodia eSIM, best eSIM for Cambodia, eSIM Cambodia price, Cambodia eSIM activation, Cambodia eSIM coverage, best eSIM for Phnom Penh, Phnom Penh eSIM, Siem Reap eSIM'
   low_price: 3.99
   high_price: 88.99
 order_summary:
@@ -45,10 +44,10 @@ banner:
 hero:
   flag_image: img/flags/kh.svg
   flag_alt: Cambodia Flag
-  title: 'Cambodia eSIM: Stay Connected Everywhere You Go'
+  title: 'Cambodia eSIM: Affordable Prepaid Plans & Instant Activation'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Cambodia
 features:
-  title: 'Why Cambodia Travelers Choose Roami: Plans, Network & Support'
+  title: 'Roami for Cambodia: Prepaid eSIM Plans, Coverage and 24/7 Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -330,6 +329,10 @@ reminders:
     html: The QR code will be sent to your email.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 🗺️
+    html: 'Two cities, one eSIM: the Cambodia plan covers Phnom Penh and Siem Reap without a second purchase.'
+  - icon: 🌏
+    html: Adding Vietnam to your trip? A multi-country eSIM covers both destinations on one plan.
   compatibility_check:
     title: Quick Compatibility Check
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
@@ -398,6 +401,10 @@ faq_section:
         What's the most popular eSIM choice for travelers going to Cambodia?
       a: |
         The Cambodia plan most visitors pick is 10GB over 7 Days at $10.99. It's enough for daily navigation, social media, and messaging. For longer Cambodia stays the Unlimited plan at $88.99 is the better pick. All plans activate in minutes and include 24/7 support.
+    - q: |
+        Does my Cambodia eSIM cover Vietnam as well?
+      a: |
+        For Cambodia alone the single-country plan is the best value. If Vietnam is on the itinerary too, a regional plan covers both on one eSIM and one balance.
 related_products:
   title: Popular eSIM Plans Near Cambodia
   items:
