@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Asie du Sud-Est 2026 : Couverture et Prix | Roami'
-date: ''2026-10-09T00:00:00+00:00'
+date: '2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
