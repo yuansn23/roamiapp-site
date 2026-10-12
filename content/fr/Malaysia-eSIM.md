@@ -1,15 +1,15 @@
 ---
-title: 'Forfait eSIM Malaisie 2026: Forfaits & Couverture | Roami'
-date: '2026-06-24T00:00:00+00:00'
+title: 'Forfait eSIM Malaisie 2026 : Voyage & Réseau | Roami'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Malaisie
-  scenario_keywords: visites touristiques, voyage d'affaires, road trip en Malaisie, vacances en famille
+  scenario_keywords: 'city break, week-end prolongé, voyage de noces, séjour longue durée, voyage sac au dos'
   operators: Celcom, Maxis, Digi
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Kuala Lumpur, George Town, Johor Bahru, Kota Kinabalu, Kuching
-  main_packages: 3/7/15/30 jours, données illimitées
+  main_packages: '3/7/15/30 jours : données illimitées'
 modal:
   title: Mise à jour du service !
   btn_text: Continuer
@@ -18,11 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: Malaisie eSIM | Pas cher & sans engagement
-  description: Roami a Malaisie, c'est sans engagement. Pas d'abonnement, pas de surprise. Vous payez seulement pour votre
-    voyage. Couvre tout le pays.
-  keywords: eSIM Malaisie, forfait eSIM Malaisie, meilleure eSIM Malaisie, Malaisie data, Celcom Malaisie, Maxis Malaisie,
-    Digi Malaisie, eSIM Kuala Lumpur, eSIM George Town, eSIM Johor Bahru, internet mobile Malaisie, 5G Malaisie
+  title: 'Malaisie eSIM | Le prix le plus bas'
+  description: 'eSIM Malaisie : forfaits de 3 à 30 jours, activation immédiate par QR.'
+  keywords: 'eSIM Malaisie, forfait eSIM Malaisie, meilleure eSIM Malaisie, eSIM Malaisie pas cher, acheter eSIM Malaisie en ligne, données illimitées eSIM Malaisie, carte eSIM prépayée Malaisie, eSIM Malaisie pour voyageurs, prix eSIM Malaisie, activation eSIM Malaisie, couverture eSIM Malaisie, eSIM Malaisie 5G, eSIM Kuala Lumpur, eSIM George Town'
 order_summary:
   title: Forfait sélectionné
   label_data: Volume de données
@@ -38,14 +36,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleure eSIM pour Malaisie
-  title: Meilleure eSIM pour Malaisie
+  title: 'Votre eSIM Malaisie Prépayée'
 hero:
   flag_image: img/flags/my.svg
   flag_alt: Drapeau Malaisie
-  title: 'eSIM Malaisie: Solutions Data Complètes pour Votre Voyage'
-  subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour Malaisie
+  title: 'eSIM Malaisie : Données 5G à Prix Léger'
+  subtitle: 'eSIM Malaisie - couverture 5G, activation immédiate, aide 24/7'
 features:
-  title: 'Pourquoi les voyageurs choisissent Roami pour Malaisie: Couverture, Vitesse & Service'
+  title: 'Pourquoi les voyageurs choisissent Roami pour leur eSIM Malaisie : Réseau, Forfaits & Prix'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Sélection auto
     desc: Connexion auto aux meilleurs opérateurs Malaisie pour le signal le plus fort
-plans_title: 'Acheter eSIM Malaisie: Forfaits pour Tout Voyage'
+plans_title: 'Acheter une eSIM Malaisie : Formules en quelques clics'
 plans_data:
   3 jours:
   - spec: 1GB
@@ -289,7 +287,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Valable : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Malaisie: Guide des Opérateurs & Carte'
+  title: 'Couverture eSIM Malaisie : Guide Complet des Réseaux Locaux'
   supports_text: 'Prend en charge :'
   service_details:
     title: Détails du service
@@ -297,8 +295,8 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Couverture
-      desc: Profitez d'une couverture reseau complete dans toute Malaisie, y compris Kuala Lumpur, George Town, Johor Bahru,
-        Kota Kinabalu. Votre eSIM se connecte aux reseaux robustes de Celcom, Maxis, Digi.
+      desc: Profitez d'une couverture réseau complète en Malaisie, y compris Kuala Lumpur, George Town, Johor Bahru,
+        Kota Kinabalu. Votre eSIM se connecte aux réseaux robustes de Celcom, Maxis, Digi.
     - icon: zap
       color: text-amber-500
       title: Délai de livraison
@@ -308,7 +306,7 @@ network_coverage:
       title: Point d'accès
       desc: Pas de restriction sur le point d'accès.
   carriers:
-    title: 'Celcom, Maxis & Digi: Operateurs eSIM Malaisie'
+    title: 'Celcom, Maxis & Digi : opérateurs, couverture et vitesse'
     badge: Partenaire officiel
     items:
     - name: Celcom
@@ -318,19 +316,20 @@ network_coverage:
       coverage: 5G rapide en villes
       network: Réseau 5G/4G/LTE
 reminders:
-  title: 'Conseils eSIM Malaisie: Avant de Partir'
+  title: 'Conseils eSIM Malaisie : Guide de Préparation'
   items:
   - icon: 📱
-    html: Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
+    html: 'Pensez-y : <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.'
   - icon: ✈️
-    html: Nous recommandons d'activer l'eSIM uniquement après votre arrivée à Malaisie.
+    html: "Il est préférable d'activer l'eSIM Malaisie après avoir atterri."
   - icon: ⏰
-    html: La validité commence lors de la connexion au réseau partenaire.
+    html: 'La validité commence dès votre première connexion sur le réseau hôte.'
   - icon: 📧
-    html: Le code QR sera envoyé à votre adresse e-mail.
+    html: 'Le QR code arrive par e-mail immédiatement après le paiement.'
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: 'Vous pouvez de conserver deux eSIM ou plus sur le même téléphone.'
+  - icon: 📍
+    html: "Astuce : l'eSIM Malaisie couvre aussi Kuala Lumpur comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Pas sûr ? Vérifiez immédiatement sur votre téléphone :'
@@ -339,14 +338,14 @@ reminders:
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       s'affiche, l'eSIM est prise en charge !
 activation_steps:
-  title: 'Activation eSIM Malaisie: 3 Etapes Simples'
+  title: 'Activation eSIM Malaisie : Comment Activer Votre eSIM'
   steps:
   - num: '1'
     title: Recevez et conservez le code QR – préparez-vous pour Malaisie
     desc: Immédiatement après votre commande, vous recevrez un e-mail avec votre code QR d'activation personnel et des instructions.
       Conservez le code QR sur votre smartphone ou imprimez-le – vous n'avez pas besoin d'une connexion Internet active pour
       l'installation ultérieure. L'eSIM est valable 30 jours, vous pouvez donc la préparer tranquillement pour votre voyage
-      à Malaisie.
+      en Malaisie.
     is_list: false
   - num: '2'
     title: Installez l'eSIM sur votre appareil – scannez le code QR
@@ -361,13 +360,13 @@ activation_steps:
   - num: '3'
     title: Préparez-vous à la maison – testez sans risque
     desc: Après l'installation, vous pouvez laisser l'eSIM désactivée dans les réglages. Cependant, vous pouvez déjà la tester
-      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez à Malaisie, il vous
+      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez en Malaisie, il vous
       suffit d'activer l'eSIM – la validité commencera automatiquement lors de la première connexion au réseau Celcom / Maxis.
       Aucun frais caché d'activation, aucun frais d'itinérance.
     is_list: false
   - num: '4'
-    title: 'Arrivée à Malaisie : connexion instantanée 5G/4G'
-    desc: Dès que vous atterrissez à Malaisie (par exemple dans Aéroport international de Kuala Lumpur (KLIA), Aéroport international
+    title: 'Arrivée en Malaisie : connexion instantanée 5G/4G'
+    desc: Dès que vous atterrissez en Malaisie (par exemple à l'aéroport international de Kuala Lumpur (KLIA), Aéroport international
       de Penang, Aéroport international de Kota Kinabalu), désactivez le mode avion (ou restez dedans et activez uniquement
       l'eSIM). Allez dans **Réglages → Réseau cellulaire** et activez votre eSIM Roami pour Malaisie. En quelques secondes,
       votre appareil se connectera automatiquement au réseau 5G/4G le plus rapide disponible de Celcom / Maxis. Vous pourrez
@@ -375,50 +374,50 @@ activation_steps:
       – sans attente, sans pièce d'identité, sans contrat.
     is_list: false
 faq_section:
-  title: "Malaisie eSIM : vitesse de navigation, couverture en déplacement et qualité du réseau pour touristes."
-  desc: "Vous partez à Malaisie? Découvrez tout sur l'eSIM Malaisie : vitesses 4G/5G réelles, couverture du réseau Maxis en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
+  title: "eSIM Malaisie : le guide complet de l'eSIM"
+  desc: "Tout sur l'eSIM Malaisie : guide pratique : réseau, prix, installation et bonnes astuces de voyage."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: "Tout sur l eSIM pour Malaisie"
+    title: "Le guide complet de l'eSIM Malaisie"
 
     questions:
     - q: |
-            Quel est le forfait de donnees eSIM le moins cher
+            Quel forfait eSIM Malaisie offre le meilleur rapport qualité-prix ?
 
       a: |
-        Le forfait le moins cher commence à $1.99. La plupart choisissent 5GB/15 jours ($9.99). Évitez les kiosques d'aéroport qui sont 30-50% plus chers.
+        Le forfait le moins cher est à 1,99 $ (3 jours, 1GB). La plupart choisissent 50GB/30 jours (33,99 $). Évitez les kiosques d'aéroport qui sont 30-50% plus chers.
     - q: |
         L'eSIM Malaisie est-elle sécurisée pour les paiements en ligne?
       a: |
         Oui — la connexion eSIM est chiffrée de bout en bout, contrairement au WiFi public des hôtels et cafés qui peut être intercepté. Les applications bancaires, PayPal et les cartes de crédit fonctionnent parfaitement sur la connexion 4G/5G de l'eSIM. Pour les opérations sensibles, l'eSIM est nettement plus sûre que le WiFi public, et tout aussi pratique.
     - q: |
-        Puis-je utiliser l eSIM Malaysia pour connecter mon ordinateur en hotspot sans frais supplementaires?
+        Puis-je utiliser l'eSIM Malaisie pour connecter mon ordinateur en hotspot sans frais supplémentaires?
       a: |
-        Oui — tous les forfaits Roami incluent le partage de connexion (point d'accès personnel). Activez le partage dans les réglages de votre téléphone pour connecter votre PC, tablette ou ceux de vos compagnons de voyage. Pour une utilisation professionnelle (visioconférence, fichiers volumineux), un forfait 10GB ($14.99) ou illimité ($59.99) est conseillé.
+        Oui — tous les forfaits Roami incluent le partage de connexion (point d'accès personnel). Activez le partage dans les réglages de votre téléphone pour connecter votre PC, tablette ou ceux de vos compagnons de voyage. Pour une utilisation professionnelle (visioconférence, fichiers volumineux), un forfait 10GB (7,99 $) ou illimité (9,99 $) est conseillé.
     - q: |
         Les cartes SIM vendues à l'aéroport de Malaisie sont-elles moins chères?
       a: |
         Non — elles sont généralement 30-50% plus chères que l'eSIM Roami, sans compter le temps d'attente aux kiosques. À l'aéroport, vous devez faire la queue, présenter votre passeport et parfois fournir une adresse locale. Avec Roami, vous achetez en ligne en 2 minutes, le QR code arrive par email, et vous gardez votre SIM française active.
     - q: |
-        Combien d eSIM peut-on installer sur un meme telephone avant de partir en Malaisie sans conflit?
+        Combien d'eSIM peut-on installer sur un même téléphone avant de partir en Malaisie sans conflit?
       a: |
         La plupart des téléphones modernes stockent 5 à 10 profils eSIM. Vous pouvez conserver votre eSIM Malaisie en parallèle de votre carte SIM française et de plusieurs autres profils internationaux. Le passage d'un profil à l'autre prend environ 10 secondes dans les réglages. Idéal pour les voyageurs multi-destinations.
     - q: |
-        Y a-t-il des frais supplementaires avec l eSIM Malaysia ou le prix affiche est-il le prix final?
+        Y a-t-il des frais supplémentaires avec l'eSIM Malaisie ou le prix affiche est-il le prix final?
       a: |
-        Non — le prix affiché est le prix final, sans aucune taxe ajoutée ni frais de dossier. Les forfaits commencent à $1.99 (7 jours, 1GB). Le forfait 5GB ($9.99) n'a pas de surprise. Pas de renouvellement automatique, pas de frais d'activation: le forfait s'arrête simplement à la date d'expiration.
+        Non — le prix affiché est le prix final, sans aucune taxe ajoutée ni frais de dossier. Les tarifs démarrent à 1,99 $ (3 jours, 1GB). Le forfait 5GB (4,99 $) n'a rien d'imprévisible. Pas de renouvellement automatique, pas de frais d'activation: le forfait s'arrête simplement à la date d'expiration.
     - q: |
         L'eSIM fonctionne-t-elle dans les zones rurales et montagneuses de Malaisie?
       a: |
         La couverture atteint environ 95% des zones urbaines mais peut descendre à 60-70% dans les régions isolées. Les vitesses passent de 200-300 Mbps (5G en ville) à 10-30 Mbps (4G en campagne), puis 3-5 Mbps dans les zones reculées — suffisant pour la messagerie et la navigation. Roami bascule automatiquement vers le réseau le plus fort disponible. Téléchargez des cartes hors-ligne avant de partir dans les zones reculées.
     - q: |
-        L application Roami permet-elle de voir en temps reel les GB consommes sur l eSIM Malaisie?
+        L'application Roami permet-elle de voir en temps réel les GB consommés sur l'eSIM Malaisie?
       a: |
         Oui — deux façons: directement dans les réglages du téléphone (Réglages > Données cellulaires > Utilisation des données) ou via le tableau de bord Roami. Roami envoie des notifications automatiques à 70% et 90% de consommation. En cas de besoin, vous pouvez recharger instantanément depuis l'application sans changer de SIM.
 related_products:
-  title: Forfaits eSIM similaires
+  title: "Explorez d'autres forfaits eSIM"
   items:
   - name: eSIM États-Unis
     flag: img/flags/us.svg
@@ -437,7 +436,7 @@ related_products:
     slug: europe-esim
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: À partir de 1,99 $
+    price: 'À partir de 3,99 $'
     is_highlight: false
     slug: canada-esim
   - name: eSIM Turquie
@@ -481,15 +480,15 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'eSIM pour les Malaysia contre carte SIM prépayée : faut-il passer à l''eSIM ?'
-  subtitle: Cartes SIM prépayées locales en Malaisie contre solutions eSIM (benchmark 2024/2025)
+  title: 'eSIM Malaisie ou carte SIM prépayée : le match prix, réseau et confort'
+  subtitle: 'Le point sur les SIM prépayées et les eSIM pour Malaisie (2024/2025)'
   citation:
-    text: 'Source des données : Prepaid Data SIM Card Wiki (Malaysia) + sites Web des opérateurs locaux'
+    text: 'Source des données : Prepaid Data SIM Card Wiki (Malaisie) + sites Web des opérateurs locaux'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Malaysia
   table_headers:
   - Matrice de comparaison
   - Carte SIM prépayée locale (données de marché)
-  - Roami eSIM pour Malaysia
+  - Roami eSIM pour Malaisie
   table_rows:
   - icon: store
     title: Acquisition et<br>activation
@@ -516,7 +515,7 @@ market_analysis:
       roaming quotidien de 1 Go à RM 7,99 dès l'utilisation de données à l'étranger.
     esim_title: Itinérance mondiale sans tracas
     esim_desc: Fini les forfaits roaming limités de Celcom (1 Go/jour à RM 7,99) ou les restrictions de Digi (RM 50 pour 2
-      Go en Europe). Roami eSIM offre une couverture dans plus de 190 pays avec des forfaits data à partir de 1,99 $/Go, sans
+      Go en Europe). Roami eSIM offre une couverture dans plus de 190 pays avec des forfaits data à partir de 1,99 $, sans
       activation automatique.
   - icon: calendar-xmark
     title: Cycle de facturation et<br>coûts perdus
@@ -525,7 +524,7 @@ market_analysis:
       40), Celcom 30 jours (RM 30 pour 5 Go), entraînant un gaspillage pour les courts séjours.'
     esim_title: Forfaits flexibles sans gaspillage
     esim_desc: Contrairement au cycle fixe de 7 jours de Digi (RM 20) ou 30 jours de Celcom (RM 30 pour 5 Go), Roami propose
-      des forfaits de 7 jours à partir de 1,99 $/Go, adaptés à la durée exacte de votre voyage, évitant tout gaspillage.
+      des forfaits de 7 jours à partir de 1,99 $, adaptés à la durée exacte de votre voyage, évitant tout gaspillage.
   - icon: wifi
     title: Partage de connexion et<br>politique de vitesse
     prepaid_title: ''
@@ -551,7 +550,7 @@ market_analysis:
     esim_desc: Contrairement au support limité des opérateurs malaisiens (principalement en malais/anglais), Roami offre une
       assistance 24h/24 et 7j/7 en français, anglais et d'autres langues, par chat en direct et email.
   expert_verdict:
-    title: 'eSIM pour les Malaysia ou carte SIM prépayée : la solution ultime pour une meilleure connectivité'
+    title: 'eSIM Malaisie ou carte SIM prépayée : la solution ultime pour une meilleure connectivité'
     cards:
     - icon: credit-card
       icon_bg: bg-emerald-100
@@ -573,7 +572,7 @@ market_analysis:
       title: Forfaits flexibles sans gaspillage
       desc: 'Les forfaits prépayés malaisiens imposent des cycles fixes : Digi touristique <b>7 jours (RM 20)</b> ou <b>15
         jours (RM 40)</b>, Celcom <b>30 jours (RM 30 pour 5 Go)</b>. Un voyage de 3 jours gaspille <b>57%</b> du forfait Digi.
-        Roami eSIM offre des forfaits de <b>7 jours à partir de 1,99 $/Go</b>, adaptés à votre séjour.'
+        Roami eSIM offre des forfaits de <b>7 jours à partir de 2,99 $</b>, adaptés à votre séjour.'
     - icon: clock
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600

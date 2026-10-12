@@ -1,15 +1,15 @@
 ---
-title: 'Forfait eSIM Singapour 2026: Touristes & Réseau | Roami'
-date: '2026-06-24T00:00:00+00:00'
+title: 'Forfait eSIM Singapour 2026 : Villes & Couverture | Roami'
+date: ''2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Singapour
-  scenario_keywords: Visites touristiques, voyage d'affaires, shopping, séjour linguistique, événements internationaux
+  scenario_keywords: 'visite de parcs nationaux, séjour culturel, tourisme de nature, randonnée, road trip en voiture'
   operators: Singtel, StarHub, M1
   competitors: Airalo, Holafly, Nomad, Ubigi, eSIM.net
   main_cities: Singapour-centre, Jurong East, Tampines, Woodlands, Bedok
-  main_packages: 3/7/15/30 jours, données illimitées
+  main_packages: 'Formules 3/7/15/30 jours, forfaits illimités disponibles'
 modal:
   title: Mise à jour du service !
   btn_text: Continuer
@@ -18,11 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: Singapour eSIM | Acheter pas cher, données illimitées
-  description: L'eSIM Roami pour Singapour s'active en quelques secondes. Recevez votre code par email et partez tranquillement.
-    Couvre Singapour & toute l'île.
-  keywords: eSIM Singapour, forfait eSIM Singapour, meilleure eSIM Singapour, Singapour data, Singtel Singapour, StarHub Singapour,
-    M1 Singapour, eSIM Singapour-centre, eSIM Jurong East, eSIM Tampines, internet mobile Singapour, 5G Singapour
+  title: 'Singapour eSIM | Sans contrat, sans justificatif'
+  description: 'eSIM Singapour : réseau local, tarifs transparents, activation rapide.'
+  keywords: 'eSIM Singapour, forfait eSIM Singapour, meilleure eSIM Singapour, eSIM Singapour pas cher, acheter eSIM Singapour en ligne, données illimitées eSIM Singapour, carte eSIM prépayée Singapour, eSIM Singapour pour voyageurs, prix eSIM Singapour, activation eSIM Singapour, couverture eSIM Singapour, eSIM Singapour 5G, eSIM Singapour-centre, eSIM Jurong East'
 order_summary:
   title: Forfait sélectionné
   label_data: Volume de données
@@ -38,14 +36,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleure eSIM pour Singapour
-  title: Meilleure eSIM pour Singapour
+  title: 'eSIM Singapour pour Voyageurs'
 hero:
   flag_image: img/flags/sg.svg
   flag_alt: Drapeau Singapour
-  title: 'eSIM Singapour: Restez Connecté Partout'
-  subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Singapour
+  title: 'eSIM Singapour : Une eSIM, Tout Votre Voyage'
+  subtitle: 'eSIM Singapour - prépayé, sans engagement, prêt en 5 minutes'
 features:
-  title: 'Pourquoi les voyageurs choisissent Roami pour Singapour: Forfaits, Réseau & Support'
+  title: 'Les atouts Roami pour votre eSIM Singapour : Support, Réseau & Prix'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Sélection auto
     desc: Connexion auto aux meilleurs opérateurs Singapour pour le signal le plus fort
-plans_title: 'Acheter eSIM Singapour: Forfaits pour Tout Voyage'
+plans_title: 'Acheter une eSIM Singapour : Tarifs eSIM de 3 à 30 jours'
 plans_data:
   30 jours:
   - spec: 30GB
@@ -289,7 +287,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Valable : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Singapour: Guide des Opérateurs Mobiles'
+  title: 'Couverture eSIM Singapour : Réseaux, Villes & Vitesse'
   supports_text: 'Prend en charge :'
   service_details:
     title: Détails du service
@@ -297,8 +295,8 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Couverture
-      desc: Profitez d'une couverture reseau complete dans toute Singapour, y compris Singapour-centre, Jurong East, Tampines,
-        Woodlands. Votre eSIM se connecte aux reseaux robustes de Singtel, StarHub, M1.
+      desc: Profitez d'une couverture réseau complète à Singapour, y compris Singapour-centre, Jurong East, Tampines,
+        Woodlands. Votre eSIM se connecte aux réseaux robustes de Singtel, StarHub, M1.
     - icon: zap
       color: text-amber-500
       title: Délai de livraison
@@ -308,7 +306,7 @@ network_coverage:
       title: Point d'accès
       desc: Pas de restriction sur le point d'accès.
   carriers:
-    title: 'Singtel, StarHub & M1: Operateurs eSIM Singapour'
+    title: 'Singtel, StarHub & M1 : votre couverture eSIM'
     badge: Partenaire officiel
     items:
     - name: Singtel
@@ -318,19 +316,20 @@ network_coverage:
       coverage: 5G rapide en villes
       network: Réseau 5G/4G/LTE
 reminders:
-  title: 'Conseils eSIM Singapour: Avant de Partir'
+  title: 'Conseils eSIM Singapour : À Faire Avant le Vol'
   items:
   - icon: 📱
-    html: Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
+    html: 'À retenir : <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> de votre appareil.'
   - icon: ✈️
-    html: Nous recommandons d'activer l'eSIM uniquement après votre arrivée à Singapour.
+    html: "Il est préférable d'activer l'eSIM Singapour après avoir atterri."
   - icon: ⏰
-    html: La validité commence lors de la connexion au réseau partenaire.
+    html: 'Le décompte démarre au moment de la connexion au réseau local.'
   - icon: 📧
-    html: Le code QR sera envoyé à votre adresse e-mail.
+    html: "Le code QR sera envoyé par courriel dès l'achat."
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: "Il est possible de conserver d'autres profils eSIM en parallèle."
+  - icon: 📍
+    html: "Astuce : l'eSIM Singapour couvre aussi Singapour-centre comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Pas sûr ? Vérifiez immédiatement sur votre téléphone :'
@@ -339,7 +338,7 @@ reminders:
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       s'affiche, l'eSIM est prise en charge !
 activation_steps:
-  title: 'Activation eSIM Singapour: 3 Etapes Simples'
+  title: 'Activation eSIM Singapour : Pas-à-Pas Facile'
   steps:
   - num: '1'
     title: Recevez et conservez le code QR – préparez-vous pour Singapour
@@ -367,33 +366,33 @@ activation_steps:
     is_list: false
   - num: '4'
     title: 'Arrivée à Singapour : connexion instantanée 5G/4G'
-    desc: Dès que vous atterrissez à Singapour (par exemple dans Aéroport de Singapour Changi, Aéroport de Seletar, Aéroport
+    desc: Dès que vous atterrissez à Singapour (par exemple à l'aéroport de Singapour Changi, Aéroport de Seletar, Aéroport
       de Paya Lebar), désactivez le mode avion (ou restez dedans et activez uniquement l'eSIM). Allez dans **Réglages → Réseau
       cellulaire** et activez votre eSIM Roami pour Singapour. En quelques secondes, votre appareil se connectera automatiquement
       au réseau 5G/4G le plus rapide disponible de Singtel / StarHub. Vous pourrez immédiatement utiliser la navigation, WhatsApp,
       les réseaux sociaux ou partager la connexion avec d'autres appareils – sans attente, sans pièce d'identité, sans contrat.
     is_list: false
 faq_section:
-  title: "eSIM Singapour : guide pratique de la connexion Internet avec les débits 4G/5G et la couverture mobile."
-  desc: "Vous partez à Singapour? Découvrez tout sur l'eSIM Singapour : vitesses 4G/5G réelles, couverture du réseau Singtel en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
+  title: 'eSIM Singapour : vitesse réelle, couverture et conseils'
+  desc: "Tout sur l'eSIM Singapour : vitesse, couverture et conseils pratiques pour profiter d'Internet pendant le voyage."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: "Guide de l eSIM pour les voyageurs en Singapour"
+    title: "eSIM Singapour : mode d'emploi"
 
     questions:
     - q: |
-            Quel est le forfait de donnees eSIM le moins cher pour
+            Pour l'eSIM Singapour, quel forfait offre le meilleur prix ?
 
       a: |
-        Le forfait le moins cher commence à $1.99. La plupart choisissent 5GB/15 jours ($9.99). Évitez les kiosques d'aéroport qui sont 30-50% plus chers.
+        Le forfait le moins cher est à 1,99 $ (7 jours, 1GB). La plupart choisissent 50GB/30 jours (39,99 $). Évitez les kiosques d'aéroport qui sont 30-50% plus chers.
     - q: |
-        L application Roami permet-elle de voir en temps reel les GB consommes sur l eSIM Singapour?
+        L'application Roami permet-elle de voir en temps réel les GB consommés sur l'eSIM Singapour?
       a: |
         Oui — deux façons: directement dans les réglages du téléphone (Réglages > Données cellulaires > Utilisation des données) ou via le tableau de bord Roami. Roami envoie des notifications automatiques à 70% et 90% de consommation. En cas de besoin, vous pouvez recharger instantanément depuis l'application sans changer de SIM.
     - q: |
-        Puis-je utiliser Google Maps dans le metro de Singapore avec l eSIM ou vais-je perdre le signal?
+        Puis-je utiliser Google Maps dans le métro de Singapour avec l'eSIM ou vais-je perdre le signal?
       a: |
         Dans la plupart des grandes villes, les stations de métro sont équipées d'antennes 4G/5G avec des vitesses de 10-30 Mbps. Dans les tunnels, la connexion peut être interrompue pendant 10-30 secondes puis reprend automatiquement. Téléchargez vos itinéraires et cartes hors-ligne avant de prendre le métro pour plus de tranquillité.
     - q: |
@@ -401,23 +400,23 @@ faq_section:
       a: |
         Oui — c'est même l'un des principaux avantages de l'eSIM. Votre carte SIM reste dans le slot 1 pour recevoir les SMS (codes bancaires, validation 2FA). L'eSIM gère toutes les données dans le slot 2. Désactivez simplement l'itinérance des données sur votre SIM française pour éviter des frais pouvant atteindre $10-15 par MB.
     - q: |
-        Avec l eSIM Singapour, est-ce que les appels video WhatsApp et FaceTime fonctionnent en 4G et 5G?
+        Avec l'eSIM Singapour, est-ce que les appels vidéo WhatsApp et FaceTime fonctionnent en 4G et 5G?
       a: |
-        Oui — toutes les applications fonctionnent sans restriction. Un appel WhatsApp audio consomme environ 1MB par minute, un appel vidéo 5-8MB par minute. Un forfait 5GB ($9.99) permet environ 500 heures d'appels audio ou 10 heures de vidéo FaceTime. Le réseau 4G/5G de Singtel assure une qualité d'appel fluide.
+        Oui — toutes les applications fonctionnent sans restriction. Un appel WhatsApp audio consomme environ 1MB par minute, un appel vidéo 5-8MB par minute. Un forfait 5GB (4,99 $) autorise environ 500 heures d'appels audio ou 10 heures de vidéo FaceTime. Le réseau 4G/5G de Singtel assure une qualité d'appel fluide.
     - q: |
-        Est-ce que Roami applique des frais d activation caches pour l eSIM Singapore en plus du prix?
+        Est-ce que Roami applique des frais d'activation cachés pour l'eSIM Singapour en plus du prix?
       a: |
-        Non — le prix affiché est le prix final, sans aucune taxe ajoutée ni frais de dossier. Les forfaits commencent à $1.99 (7 jours, 1GB). Le forfait 5GB ($9.99) n'a pas de surprise. Pas de renouvellement automatique, pas de frais d'activation: le forfait s'arrête simplement à la date d'expiration.
+        Non — le prix affiché est le prix final, sans aucune taxe ajoutée ni frais de dossier. Les forfaits démarrent à 1,99 $ (7 jours, 1GB). Le forfait 5GB (4,99 $) ne réserve aucune mauvaise surprise. Pas de renouvellement automatique, pas de frais d'activation: le forfait s'arrête simplement à la date d'expiration.
     - q: |
-        Est-ce que le debit est reduit apres avoir consomme tout le forfait eSIM Singapore ou suis-je coupe?
+        Est-ce que le débit est réduit après avoir consomme tout le forfait eSIM Singapour ou suis-je coupe?
       a: |
-        Avec un forfait à volume fixe (5GB, 10GB), les données s'arrêtent automatiquement à la limite — pas de frais supplémentaires. Vous pouvez recharger instantanément depuis l'application Roami, sans changer de SIM ni installer un nouveau QR code. Avec le forfait illimité, le débit est réduit à 512 kbps après 30GB dans la journée, mais vous restez connecté pour la messagerie et la navigation.
+        Avec un forfait à volume fixe (1GB, 50GB), les données s'arrêtent automatiquement à la limite — pas de frais supplémentaires. Vous pouvez recharger instantanément depuis l'application Roami, sans changer de SIM ni installer un nouveau QR code. Avec le forfait illimité, le débit est réduit à 512 kbps après 30GB dans la journée, mais vous restez connecté pour la messagerie et la navigation.
     - q: |
-        Si j oublie d acheter l eSIM Singapore avant le vol, puis-je le faire depuis l aeroport?
+        Si j'oublie d'acheter l'eSIM Singapour avant le vol, puis-je le faire depuis l'aéroport?
       a: |
-        Oui — le QR code est envoyé par email sous 5 minutes après l'achat. Vous pouvez commander à l'aéroport et installer dans l'avion. À l'arrivée dans Singapour, activez l'itinérance des données et vous serez connecté en 1 à 2 minutes. Temps total entre l'achat et la connexion: moins de 10 minutes si vous installez à l'avance.
+        Oui — le QR code est envoyé par email sous 5 minutes après l'achat. Vous pouvez commander à l'aéroport et installer dans l'avion. À l'arrivée à Singapour, activez l'itinérance des données et vous serez connecté en 1 à 2 minutes. Temps total entre l'achat et la connexion: moins de 10 minutes si vous installez à l'avance.
 related_products:
-  title: Forfaits eSIM similaires
+  title: 'eSIM pour vos autres escales'
   items:
   - name: eSIM États-Unis
     flag: img/flags/us.svg
@@ -436,7 +435,7 @@ related_products:
     slug: europe-esim
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: À partir de 1,99 $
+    price: 'À partir de 3,99 $'
     is_highlight: false
     slug: canada-esim
   - name: eSIM Turquie
@@ -480,21 +479,21 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'eSIM pour les Singapore ou carte SIM pour touristes : que choisir ?'
-  subtitle: Cartes SIM prépayées locales à Singapour contre solutions eSIM (benchmark 2024/2025)
+  title: 'eSIM Singapour ou carte SIM prépayée : le match prix, réseau et confort'
+  subtitle: 'Le point sur les SIM prépayées et les eSIM pour Singapour (2024/2025)'
   citation:
-    text: 'Source des données : Prepaid Data SIM Card Wiki (Singapore) + sites Web des opérateurs locaux'
+    text: 'Source des données : Prepaid Data SIM Card Wiki (Singapour) + sites Web des opérateurs locaux'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Singapore
   table_headers:
   - Matrice de comparaison
   - Carte SIM prépayée locale (données de marché)
-  - Roami eSIM pour Singapore
+  - Roami eSIM pour Singapour
   table_rows:
   - icon: store
     title: Acquisition et<br>activation
     prepaid_title: ''
     prepaid_desc: À l'aéroport de Changi, seuls les forfaits coûteux Singtel S$38 ou StarHub S$50 sont disponibles ; en ville,
-      il faut se rendre à Little India pour faire la queue pour une carte bon marché à S$8.
+      il faut se rendre à Little Inde pour faire la queue pour une carte bon marché à S$8.
     esim_title: Activation instantanée sans file d'attente
     esim_desc: Évitez les files d'attente à l'aéroport de Changi pour les forfaits Singtel S$38 ou StarHub S$50. Activez votre
       eSIM Roami en ligne dès l'atterrissage, sans passer par les kiosques.
@@ -521,7 +520,7 @@ market_analysis:
       des forfaits de 28 jours ; M1 propose des forfaits de 15, 20 et 30 jours.
     esim_title: Forfaits flexibles sans perte
     esim_desc: Évitez les cycles rigides de 7 jours (Singtel S$20 pour 5 Go) ou 28 jours (StarHub). Roami propose des forfaits
-      de 7 jours à partir de 1,99 $/Go, adaptés à votre séjour.
+      de 7 jours à partir de 1,99 $, adaptés à votre séjour.
   - icon: wifi
     title: Partage de connexion et<br>politique de vitesse
     prepaid_title: ''
@@ -547,7 +546,7 @@ market_analysis:
     esim_desc: Bénéficiez d'un support client disponible 24h/24 et 7j/7 en français, contrairement aux horaires limités des
       opérateurs locaux.
   expert_verdict:
-    title: 'eSIM pour les Singapore contre prépayée : la solution ultime pour une meilleure connectivité et des économies'
+    title: 'eSIM Singapour contre prépayée : la solution ultime pour une meilleure connectivité et des économies'
     cards:
     - icon: wifi
       icon_bg: bg-purple-100
@@ -561,7 +560,7 @@ market_analysis:
       title: Évitez les cycles de facturation rigides
       desc: Singlet impose un cycle de <b>7 jours</b> pour son forfait S$20 (5 Go). StarHub et M1 privilégient les cycles
         de <b>28 ou 30 jours</b>. Un séjour de 5 jours avec Singtel S$20 entraîne une perte de <b>plus de 70%</b> de la valeur.
-        Roami propose des forfaits de 7 jours à partir de <b>1,99 $/Go</b>.
+        Roami propose des forfaits de 7 jours à partir de <b>1,99 $</b>.
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600

@@ -1,15 +1,15 @@
 ---
-title: 'Forfait eSIM Uruguay 2026: Guide Complet | Roami'
-date: '2026-06-24T00:00:00+00:00'
+title: 'Forfait eSIM Uruguay 2026 : Données & Vitesse | Roami'
+date: ''2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Uruguay
-  scenario_keywords: tourisme balnéaire, voyage d'affaires, road trip, voyage culturel, écotourisme
+  scenario_keywords: 'pèlerinage, croisière, congrès et salons, navigation, road trip'
   operators: Antel, Movistar, Claro
   competitors: Airalo, Holafly, Nomad, Ubigi, Sim Local
   main_cities: Montevideo, Punta del Este, Colonia del Sacramento, Salto, Rivera
-  main_packages: 3/7/15/30 jours, données illimitées
+  main_packages: 'Offres 3/7/15/30 jours - données illimitées incluses'
 modal:
   title: Mise à jour du service !
   btn_text: Continuer
@@ -18,11 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: Uruguay eSIM | Acheter pas cher pour voyager
-  description: Achetez votre eSIM Roami pour Uruguay depuis votre canape. Valable des l'achat, prete a l'emploi a l'arrivee.
-    Couvre tout le pays.
-  keywords: eSIM Uruguay, forfait eSIM Uruguay, meilleure eSIM Uruguay, Uruguay data, Antel Uruguay, Movistar Uruguay, Claro
-    Uruguay, eSIM Montevideo, eSIM Punta del Este, eSIM Colonia del Sacramento, internet mobile Uruguay, 5G Uruguay
+  title: 'Uruguay eSIM | Meilleur prix garanti'
+  description: 'eSIM Uruguay : forfaits flexibles, réseau fiable, support 24/7.'
+  keywords: 'eSIM Uruguay, forfait eSIM Uruguay, meilleure eSIM Uruguay, eSIM Uruguay pas cher, acheter eSIM Uruguay en ligne, données illimitées eSIM Uruguay, carte eSIM prépayée Uruguay, eSIM Uruguay pour voyageurs, prix eSIM Uruguay, activation eSIM Uruguay, couverture eSIM Uruguay, eSIM Uruguay 5G, eSIM Montevideo, eSIM Punta del Este'
 order_summary:
   title: Forfait sélectionné
   label_data: Volume de données
@@ -38,14 +36,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleure eSIM pour Uruguay
-  title: Meilleure eSIM pour Uruguay
+  title: 'eSIM Uruguay en 5 Minutes'
 hero:
   flag_image: img/flags/uy.svg
   flag_alt: Drapeau Uruguay
-  title: 'eSIM Uruguay: Solutions Data Complètes pour Votre Voyage'
-  subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour Uruguay
+  title: 'eSIM Uruguay : Solutions Data Complètes pour Votre Voyage'
+  subtitle: 'eSIM Uruguay - internet sans souci, réseau local fiable, sans contrat'
 features:
-  title: 'Pourquoi les voyageurs choisissent Roami pour Uruguay: Couverture, Vitesse & Service'
+  title: 'Pourquoi les voyageurs choisissent Roami pour leur eSIM Uruguay : Prix, Réseau & Activation'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Sélection auto
     desc: Connexion auto aux meilleurs opérateurs Uruguay pour le signal le plus fort
-plans_title: 'Acheter eSIM Uruguay: Forfaits pour Tout Voyage'
+plans_title: 'Choisir une eSIM Uruguay : Forfaits livrés instantanément'
 plans_data:
   7 jours:
   - spec: 1GB
@@ -249,7 +247,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Valable : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Uruguay: Guide des Opérateurs & Carte'
+  title: 'Couverture eSIM Uruguay : Qualité du Signal et Villes Clés'
   supports_text: 'Prend en charge :'
   service_details:
     title: Détails du service
@@ -257,8 +255,8 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Couverture
-      desc: Profitez d'une couverture reseau complete dans toute Uruguay, y compris Montevideo, Punta del Este, Colonia del
-        Sacramento, Salto. Votre eSIM se connecte aux reseaux robustes de Antel, Movistar, Claro.
+      desc: Profitez d'une couverture réseau complète en Uruguay, y compris Montevideo, Punta del Este, Colonia del
+        Sacramento, Salto. Votre eSIM se connecte aux réseaux robustes de Antel, Movistar, Claro.
     - icon: zap
       color: text-amber-500
       title: Délai de livraison
@@ -268,7 +266,7 @@ network_coverage:
       title: Point d'accès
       desc: Pas de restriction sur le point d'accès.
   carriers:
-    title: 'Antel, Movistar & Claro: Operateurs eSIM Uruguay'
+    title: 'Antel, Movistar & Claro : qualité et étendue du réseau'
     badge: Partenaire officiel
     items:
     - name: Antel
@@ -278,19 +276,20 @@ network_coverage:
       coverage: 5G rapide en villes
       network: Réseau 5G/4G/LTE
 reminders:
-  title: 'Conseils eSIM Uruguay: Avant de Partir'
+  title: 'Conseils eSIM Uruguay : Préparer Votre Voyage Connecté'
   items:
   - icon: 📱
-    html: Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
+    html: 'Pensez-y : <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> sur votre téléphone.'
   - icon: ✈️
-    html: Nous recommandons d'activer l'eSIM uniquement après votre arrivée à Uruguay.
+    html: "Il est préférable d'activer l'eSIM Uruguay après avoir atterri."
   - icon: ⏰
-    html: La validité commence lors de la connexion au réseau partenaire.
+    html: 'Votre forfait commence au moment de la connexion au réseau local.'
   - icon: 📧
-    html: Le code QR sera envoyé à votre adresse e-mail.
+    html: "Votre code QR arrive par courriel dès l'achat."
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: "Il est possible de stocker d'autres profils eSIM en parallèle."
+  - icon: 📍
+    html: "Astuce : l'eSIM Uruguay couvre aussi Montevideo comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Pas sûr ? Vérifiez immédiatement sur votre téléphone :'
@@ -299,14 +298,14 @@ reminders:
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       s'affiche, l'eSIM est prise en charge !
 activation_steps:
-  title: 'Activation eSIM Uruguay: 3 Etapes Simples'
+  title: "Activation eSIM Uruguay : Le Guide d'Activation"
   steps:
   - num: '1'
     title: Recevez et conservez le code QR – préparez-vous pour Uruguay
     desc: Immédiatement après votre commande, vous recevrez un e-mail avec votre code QR d'activation personnel et des instructions.
       Conservez le code QR sur votre smartphone ou imprimez-le – vous n'avez pas besoin d'une connexion Internet active pour
       l'installation ultérieure. L'eSIM est valable 30 jours, vous pouvez donc la préparer tranquillement pour votre voyage
-      à Uruguay.
+      en Uruguay.
     is_list: false
   - num: '2'
     title: Installez l'eSIM sur votre appareil – scannez le code QR
@@ -321,13 +320,13 @@ activation_steps:
   - num: '3'
     title: Préparez-vous à la maison – testez sans risque
     desc: Après l'installation, vous pouvez laisser l'eSIM désactivée dans les réglages. Cependant, vous pouvez déjà la tester
-      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez à Uruguay, il vous
+      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez en Uruguay, il vous
       suffit d'activer l'eSIM – la validité commencera automatiquement lors de la première connexion au réseau Antel / Movistar.
       Aucun frais caché d'activation, aucun frais d'itinérance.
     is_list: false
   - num: '4'
-    title: 'Arrivée à Uruguay : connexion instantanée 5G/4G'
-    desc: Dès que vous atterrissez à Uruguay (par exemple dans Aéroport international de Carrasco, Aéroport international
+    title: 'Arrivée en Uruguay : connexion instantanée 5G/4G'
+    desc: Dès que vous atterrissez en Uruguay (par exemple à l'aéroport international de Carrasco, Aéroport international
       de Punta del Este, Aéroport international de Laguna del Sauce), désactivez le mode avion (ou restez dedans et activez
       uniquement l'eSIM). Allez dans **Réglages → Réseau cellulaire** et activez votre eSIM Roami pour Uruguay. En quelques
       secondes, votre appareil se connectera automatiquement au réseau 5G/4G le plus rapide disponible de Antel / Movistar.
@@ -335,19 +334,19 @@ activation_steps:
       appareils – sans attente, sans pièce d'identité, sans contrat.
     is_list: false
 faq_section:
-  title: "Quelle est la meilleure eSIM pour Uruguay? Guide des vitesses, de la couverture et du choix."
-  desc: "Vous partez à Uruguay? Découvrez tout sur l'eSIM Uruguay : vitesses 4G/5G réelles, couverture du réseau Antel en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
+  title: "eSIM Uruguay : tout ce qu'il faut savoir"
+  desc: "Tout sur l'eSIM Uruguay : réseau, prix et installation : les réponses aux questions les plus fréquentes des voyageurs."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: "Informations generales sur l eSIM en Uruguay"
+    title: "eSIM Uruguay : l'essentiel pour les voyageurs"
 
     questions:
     - q: |
-        Comment faire pour avoir internet des l arrivee en Uruguay sans chercher une carte SIM locale?
+        Comment faire pour avoir internet dès l'arrivée en Uruguay sans chercher une carte SIM locale?
       a: |
-        L'eSIM Roami est la solution la plus simple: achetez en ligne à partir de $1.99, recevez le QR code par email en 5 minutes, installez en 2 minutes. Pas de file d'attente à l'aéroport, pas de passeport à présenter, pas de carte SIM à insérer. Votre numéro français reste actif pour les SMS, et vous êtes connecté dès l'arrivée en activant l'itinérance.
+        Avec Roami, tout se fait en ligne à partir de 11,99 $: recevez le QR code par email en 5 minutes, installez en 2 minutes. Pas de file d'attente à l'aéroport, pas de passeport à présenter, pas de carte SIM à insérer. Votre numéro français reste actif pour les SMS, et vous êtes connecté dès l'arrivée en activant l'itinérance.
     - q: |
         Les cartes SIM vendues à l'aéroport de Uruguay sont-elles moins chères?
       a: |
@@ -357,27 +356,27 @@ faq_section:
       a: |
         Dans la plupart des grandes villes, les stations de métro sont équipées d'antennes 4G/5G avec des vitesses de 10-30 Mbps. Dans les tunnels, la connexion peut être interrompue pendant 10-30 secondes puis reprend automatiquement. Téléchargez vos itinéraires et cartes hors-ligne avant de prendre le métro pour plus de tranquillité.
     - q: |
-        Vaut-il mieux installer l eSIM Uruguay avant de partir ou directement a l arrivee dans le pays?
+        Vaut-il mieux installer l'eSIM Uruguay avant de partir ou directement a l'arrivée dans le pays?
       a: |
-        Avant le départ, sans exception. L'installation nécessite une connexion Internet, et le WiFi de l'aéroport demande souvent une vérification par SMS — un vrai piège si vous n'avez pas encore de réseau local. Le QR code arrive par email sous 5 minutes après l'achat. L'installation prend environ 2 minutes sur iPhone ou Android. À l'arrivée dans Uruguay, activez simplement l'itinérance des données. Vous serez connecté en moins de 60 secondes.
+        Avant le départ, sans exception. L'installation nécessite une connexion Internet, et le WiFi de l'aéroport demande souvent une vérification par SMS — un vrai piège si vous n'avez pas encore de réseau local. Le QR code arrive par email sous 5 minutes après l'achat. L'installation prend environ 2 minutes sur iPhone ou Android. À l'arrivée en Uruguay, activez simplement l'itinérance des données. Vous serez connecté en moins de 60 secondes.
     - q: |
-        Si je garde ma carte SIM habituelle, est-ce que l eSIM Uruguay fonctionne quand meme pour internet sans conflit?
+        Si je garde ma carte SIM habituelle, est-ce que l'eSIM Uruguay fonctionne quand même pour internet sans conflit?
       a: |
         Pas du tout — votre carte SIM reste en place dans le slot 1. L'eSIM fonctionne en parallèle dans le slot 2. Vous pouvez ainsi utiliser votre numéro français pour les appels et SMS, et l'eSIM pour les données. Cette configuration permet d'économiser 30-50% par rapport à une carte SIM d'aéroport, tout en conservant vos services habituels.
     - q: |
-        Quel forfait eSIM recommandez-vous pour un premier voyage en Uruguay: 5GB, 10GB ou illimite?
+        Quel forfait eSIM recommandez-vous pour un premier voyage en Uruguay: 5GB, 10GB ou illimité?
       a: |
-        Le 5GB/15 jours ($9.99) est le plus populaire — il suffit pour la navigation GPS, les réseaux sociaux et la messagerie quotidienne. Pour les voyageurs qui regardent des vidéos ou travaillent à distance, le forfait 10GB ($14.99) offre plus de marge. Le forfait illimité ($59.99) est idéal pour le partage de connexion ou les longs séjours.
+        Le 20GB/30 jours (30,99 $) est le plus populaire — parfait pour la navigation GPS, les réseaux sociaux et la messagerie du quotidien. Pour les voyageurs qui regardent des vidéos ou travaillent à distance, le forfait 10GB (31,99 $) offre plus de marge. Le forfait illimité (30,99 $) est idéal pour le partage de connexion ou les longs séjours.
     - q: |
-        Puis-je utiliser l eSIM Uruguay pour connecter mon ordinateur en hotspot sans frais supplementaires?
+        Puis-je utiliser l'eSIM Uruguay pour connecter mon ordinateur en hotspot sans frais supplémentaires?
       a: |
-        Oui — tous les forfaits Roami incluent le partage de connexion (point d'accès personnel). Activez le partage dans les réglages de votre téléphone pour connecter votre PC, tablette ou ceux de vos compagnons de voyage. Pour une utilisation professionnelle (visioconférence, fichiers volumineux), un forfait 10GB ($14.99) ou illimité ($59.99) est conseillé.
+        Oui — tous les forfaits Roami incluent le partage de connexion (point d'accès personnel). Activez le partage dans les réglages de votre téléphone pour connecter votre PC, tablette ou ceux de vos compagnons de voyage. Pour une utilisation professionnelle (visioconférence, fichiers volumineux), un forfait 10GB (31,99 $) ou illimité (30,99 $) est conseillé.
     - q: |
         Quelle est la différence entre un forfait 5GB et un forfait illimité pour Uruguay?
       a: |
-        Le forfait 5GB ($9.99) offre un volume de données fixe — suffisant pour environ 500 heures d'appels WhatsApp, 10 heures de vidéo ou une semaine de navigation normale. Le forfait illimité ($59.99) continue après 30GB mais le débit est réduit à 512 kbps. Pour la plupart des voyageurs (cartes, messagerie, photos), 5GB suffit. Pour le streaming intensif ou le partage de connexion, choisissez l'illimité.
+        Le forfait 5GB (21,99 $) offre un volume de données fixe — suffisant pour environ 500 heures d'appels WhatsApp, 10 heures de vidéo ou une semaine de navigation normale. Le forfait illimité (30,99 $) continue après 30GB mais le débit est réduit à 512 kbps. Pour la plupart des voyageurs (cartes, messagerie, photos), 5GB suffit. Pour le streaming intensif ou le partage de connexion, choisissez l'illimité.
 related_products:
-  title: Forfaits eSIM similaires
+  title: 'Pour vos autres voyages en eSIM'
   items:
   - name: eSIM États-Unis
     flag: img/flags/us.svg
@@ -396,7 +395,7 @@ related_products:
     slug: europe-esim
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: À partir de 1,99 $
+    price: 'À partir de 3,99 $'
     is_highlight: false
     slug: canada-esim
   - name: eSIM Turquie
@@ -440,8 +439,8 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'eSIM pour les Uruguay contre carte SIM physique : quelle est la vraie différence ?'
-  subtitle: Cartes SIM prépayées locales en Uruguay contre solutions eSIM (benchmark 2024/2025)
+  title: "eSIM Uruguay ou carte SIM prépayée : l'eSIM face à la SIM locale"
+  subtitle: "Cartes prépayées locales et eSIM : ce qu'il faut savoir pour Uruguay"
   citation:
     text: 'Source des données : Prepaid Data SIM Card Wiki (Uruguay) + sites Web des opérateurs locaux'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Uruguay
@@ -473,7 +472,7 @@ market_analysis:
       d'itinérance élevés.
     esim_title: Itinérance mondiale sans frais cachés
     esim_desc: Les prépayés Antel ne bénéficient pas du roaming Mercosur, entraînant des frais élevés en Argentine ou au Brésil.
-      Roami eSIM offre des forfaits de données mondiaux à partir de 1,99 $/Go, sans supplément.
+      Roami eSIM offre des forfaits de données mondiaux à partir de 11,99 $, sans supplément.
   - icon: calendar-xmark
     title: Cycle de facturation et<br>coûts perdus
     prepaid_title: ''
@@ -481,7 +480,7 @@ market_analysis:
       jours ; le forfait 180 UYU/1 Go/30 jours se renouvelle automatiquement.
     esim_title: Forfaits flexibles sans perte
     esim_desc: Les forfaits Antel de 3 jours (120 UYU/30 Go) ou 7 jours (200 UYU/40 Go) sont rigides ; un voyage de 2 jours
-      gaspille 33% de la valeur. Roami propose des forfaits de 7 jours à partir de 1,99 $/Go, ajustables à vos besoins.
+      gaspille 33% de la valeur. Roami propose des forfaits de 7 jours à partir de 11,99 $, ajustables à vos besoins.
   - icon: wifi
     title: Partage de connexion et<br>politique de vitesse
     prepaid_title: ''
@@ -507,7 +506,7 @@ market_analysis:
     esim_desc: Le support local est souvent en espagnol et limité. Roami offre une assistance en français 24h/24 et 7j/7 par
       chat en direct, pour une tranquillité d'esprit totale.
   expert_verdict:
-    title: 'eSIM pour les Uruguay : la solution ultime pour une connectivité sans stress et économique'
+    title: 'eSIM Uruguay : la solution ultime pour une connectivité sans stress et économique'
     cards:
     - icon: globe
       icon_bg: bg-indigo-100

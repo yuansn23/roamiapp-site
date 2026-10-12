@@ -1,24 +1,24 @@
 ---
-title: 'eSIM Oman 2026 : Guide ville et réseau | Roami'
-date: '2026-06-17T00:00:00+00:00'
+title: 'Forfait eSIM Oman 2026 : Données & Couverture | Roami'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Oman
-  scenario_keywords: Visite de Mascate, safari dans le désert, visite de forts historiques, farniente sur la plage, aventure dans un oued
+  scenario_keywords: 'croisière, congrès et salons, navigation, road trip, séjour balnéaire'
   operators: Omantel, Ooredoo, Vodafone
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Mascate, Salalah, Nizwa, Sohar, Sur
-  main_packages: 3/7/15/30 jours, données illimitées
+  main_packages: '3/7/15/30 jours : option illimitée disponible'
 modal:
   title: Service amélioré !
   btn_text: Continuer
   text_default: "Notre service eSIM a été amélioré vers <strong>PhoneSIMGo</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20"
   text_android: "Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20"
 seo:
-  title: 'eSIM Oman à partir de 1,99 $ : 5G illimitée dans tout Oman'
-  description: Comparez les forfaits eSIM pour Oman avec 5G rapide à Mascate, Salalah, Nizwa. Guide de couverture Omantel, Ooredoo et Vodafone pour touristes et voyageurs. Activation QR instantanée à partir de 1,99 $.
-  keywords: eSIM Oman, acheter eSIM Oman, meilleure eSIM Oman, eSIM voyage Oman, Omantel Oman, Ooredoo Oman, Vodafone Oman, eSIM Mascate, eSIM Salalah, eSIM Nizwa, eSIM prépayée Oman, eSIM 5G Oman
+  title: 'Oman eSIM | Activation QR instantanée'
+  description: 'eSIM Oman : comparez les prix et activez votre eSIM en quelques minutes.'
+  keywords: 'eSIM Oman, forfait eSIM Oman, meilleure eSIM Oman, eSIM Oman pas cher, acheter eSIM Oman en ligne, données illimitées eSIM Oman, carte eSIM prépayée Oman, eSIM Oman pour voyageurs, prix eSIM Oman, activation eSIM Oman, couverture eSIM Oman, eSIM Oman 5G, eSIM Mascate, eSIM Salalah'
   low_price: 1.99
   high_price: 39.9
 order_summary:
@@ -36,14 +36,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleure eSIM pour Oman
-  title: Meilleure eSIM pour Oman
+  title: 'La meilleure eSIM Oman'
 hero:
   flag_image: img/flags/om.svg
   flag_alt: Drapeau d'Oman
-  title: 'eSIM Oman : données 5G rapides pour chaque ville et destination'
-  subtitle: Activation instantanée | Couverture 5G de premier choix | Assistance 24/7 - la meilleure eSIM prépayée pour Oman
+  title: 'eSIM Oman : Connectivité Sans Frontières'
+  subtitle: 'eSIM Oman - activable avant le départ, 5G rapide'
 features:
-  title: 'Pourquoi les voyageurs à Oman choisissent Roami : réseau, forfaits et valeur'
+  title: 'Ce que Roami apporte à votre eSIM Oman : Données, Couverture & Prix'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Commutation automatique
     desc: Se connecte automatiquement aux meilleurs opérateurs d'Oman pour un signal optimal
-plans_title: 'Acheter une eSIM Oman : forfaits pour chaque durée de voyage'
+plans_title: 'Acheter une eSIM Oman : Offres en quelques clics'
 plans_data:
   7 jours:
   - spec: 1 Go
@@ -245,7 +245,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Validité : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Oman : couverture réseau et comparaison des opérateurs'
+  title: 'Couverture eSIM Oman : Comparatif des Opérateurs Locaux'
   supports_text: 'Support :'
   service_details:
     title: Détails du service
@@ -263,7 +263,7 @@ network_coverage:
       title: Partage de connexion
       desc: Aucune limite ou contrainte de partage de connexion.
   carriers:
-    title: 'Omantel, Ooredoo et Vodafone : couverture opérateur eSIM Oman'
+    title: 'Omantel, Ooredoo & Vodafone : les opérateurs mobiles disponibles'
     badge: Partenaire officiel
     items:
     - name: Omantel
@@ -276,18 +276,20 @@ network_coverage:
       coverage: Bonne couverture urbaine
       network: Réseau 5G/4G/LTE
 reminders:
-  title: 'Conseils d''installation eSIM Oman : ce qu''il faut savoir avant de partir'
+  title: 'Conseils eSIM Oman : Bien Préparer Votre eSIM'
   items:
   - icon: 📱
-    html: Assurez-vous que votre téléphone est <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatible eSIM</a> avant l'achat.
+    html: 'Avant de commander, <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.'
   - icon: ✈️
-    html: Nous recommandons d'activer la ligne après votre arrivée à Oman.
+    html: "Il est préférable d'activer l'eSIM Oman après avoir atterri."
   - icon: ⏰
-    html: La validité commence dès la connexion à un réseau pris en charge.
+    html: 'La validité se déclenche dès la connexion au réseau local.'
   - icon: 📧
-    html: Le code QR vous sera envoyé par e-mail.
+    html: "Le QR code vous sera transmis par e-mail dès l'achat."
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: 'Vous pouvez de stocker deux eSIM ou plus en parallèle.'
+  - icon: 📍
+    html: "Astuce : l'eSIM Oman couvre aussi Mascate comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Vous ne savez pas si votre téléphone prend en charge l''eSIM ? Vous pouvez le vérifier facilement vous-même dès maintenant :'
@@ -295,7 +297,7 @@ reminders:
     code: '*#06#'
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> apparaît à l'écran, votre appareil est compatible !
 activation_steps:
-  title: 'Comment installer l''eSIM Oman : 3 étapes simples'
+  title: 'Activation eSIM Oman : 3 Étapes Vers la Connexion'
   steps:
   - num: '1'
     title: 'Étape 1 : Recevoir le code QR'
@@ -314,18 +316,18 @@ activation_steps:
     desc: À votre arrivée à Oman, activez votre eSIM Oman dans les réglages pour commencer à utiliser les données. Nous recommandons de vous connecter au Wi-Fi lors de l'activation initiale.
     is_list: false
 faq_section:
-  title: "Quelle est la vitesse de l'internet eSIM à Oman ? Débits et couverture pour les voyageurs"
-  desc: "Guide complet sur les débits internet eSIM, la couverture réseau et la qualité de connexion pour les voyageurs à Oman. Découvrez les débits attendus et où l'eSIM fonctionne le mieux."
+  title: 'eSIM Oman : guide de connexion pour voyageurs'
+  desc: "Tout sur l'eSIM Oman : couverture en ville et à la campagne, et conseils pour une connexion sans souci."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: FAQ eSIM Oman
+    title: "Guide de l'eSIM Oman pour les voyageurs"
     questions:
     - q: |
         Puis-je obtenir une eSIM pour Oman sans trop dépenser ?
       a: |
-        Absolument. Les forfaits eSIM Oman de Roami commencent à partir de 1,99 $. L'offre 5 Go / 15 jours (9,99 $) est la plus populaire auprès des voyageurs — elle gère confortablement les cartes, WhatsApp, Instagram et les e-mails. Si vous êtes un gros consommateur de données, les forfaits 10 Go (14,99 $) ou illimité (59,99 $) vous offrent une tranquillité d'esprit. Éviter le comptoir SIM de l'aéroport vous fait économiser 30 à 50 % et vous évite la file d'attente. Besoin d'ajuster ? Vous pouvez recharger à tout moment depuis l'application Roami.
+        Absolument. Les forfaits eSIM Oman de Roami commencent à partir de 5,99 $. L'offre 20 Go/7 jours (41,99 $) est la plus populaire auprès des voyageurs — elle gère confortablement les cartes, WhatsApp, Instagram et les e-mails. Si vous êtes un gros consommateur de données, les forfaits 10 Go (20,99 $) ou illimité (23,99 $) vous offrent une tranquillité d'esprit. Éviter le comptoir SIM de l'aéroport vous fait économiser 30 à 50 % et vous évite la file d'attente. Besoin d'ajuster ? Vous pouvez recharger à tout moment depuis l'application Roami.
     - q: |
         Le forfait eSIM illimité pour Oman vaut-il le coup, ou un forfait data fixe serait-il préférable ?
       a: |
@@ -355,7 +357,7 @@ faq_section:
       a: |
         Tout d'abord, essayez de redémarrer votre téléphone et d'activer l'itinérance des données. La plupart des problèmes se résolvent en 2 minutes. Sinon, sélectionnez manuellement un opérateur dans les paramètres réseau. L'assistance 24/7 de Roami peut vous aider si les problèmes persistent.
 related_products:
-  title: Forfaits eSIM associés
+  title: 'Autres pays en eSIM'
   items:
   - name: eSIM États-Unis
     flag: img/flags/us.svg

@@ -1,11 +1,11 @@
 ---
-title: 'Forfait eSIM Liechtenstein 2026: Voyage & Réseau | Roami'
-date: '2026-06-24T00:00:00+00:00'
+title: 'Forfait eSIM Liechtenstein 2026 : Prix & Couverture | Roami'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Liechtenstein
-  scenario_keywords: visites touristiques, voyage d'affaires, randonnée en montagne, séjour culturel, escale
+  scenario_keywords: "voyage d'affaires, voyage en solo, festival, tourisme thermal, voyage d'études"
   operators: Swisscom, Sunrise, Salt
   competitors: Airalo, Holafly, Nomad, Ubigi, eSIM Plus
   main_cities: Vaduz, Schaan, Triesen, Balzers, Eschen
@@ -18,11 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: 'eSIM Liechtenstein : Swisscom & Sunrise – Meilleur réseau'
-  description: Comparez les forfaits eSIM Liechtenstein avec la 5G à Vaduz, Schaan, Triesen. Guide de couverture Swisscom
-    & Sunrise & Salt. Activation QR instantanee des $1.99.
-  keywords: eSIM Liechtenstein, forfait eSIM Liechtenstein, meilleure eSIM Liechtenstein, Liechtenstein data, Swisscom Liechtenstein,
-    Sunrise Liechtenstein, Salt Liechtenstein, eSIM Vaduz, eSIM Schaan, eSIM Triesen, internet mobile Liechtenstein, 5G Liechtenstein
+  title: 'Liechtenstein eSIM | Connexion 5G immédiate'
+  description: 'eSIM Liechtenstein : données 5G, prix clairs et installation instantanée.'
+  keywords: 'eSIM Liechtenstein, forfait eSIM Liechtenstein, meilleure eSIM Liechtenstein, eSIM Liechtenstein pas cher, acheter eSIM Liechtenstein en ligne, données illimitées eSIM Liechtenstein, carte eSIM prépayée Liechtenstein, eSIM Liechtenstein pour voyageurs, prix eSIM Liechtenstein, activation eSIM Liechtenstein, couverture eSIM Liechtenstein, eSIM Liechtenstein 5G, eSIM Vaduz, eSIM Schaan'
 order_summary:
   title: Forfait sélectionné
   label_data: Volume de données
@@ -38,14 +36,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleure eSIM pour Liechtenstein
-  title: Meilleure eSIM pour Liechtenstein
+  title: 'La Référence eSIM pour Liechtenstein'
 hero:
   flag_image: img/flags/li.svg
   flag_alt: Drapeau Liechtenstein
-  title: 'eSIM Liechtenstein: Réseau Fiable pour les Voyageurs'
-  subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Liechtenstein
+  title: 'eSIM Liechtenstein : 5G Rapide pour Chaque Destination'
+  subtitle: 'eSIM Liechtenstein - 5G rapide, activation instantanée, support 24/7'
 features:
-  title: 'Pourquoi les voyageurs choisissent Roami pour Liechtenstein: Réseau, Forfaits & Prix'
+  title: 'Pourquoi les voyageurs choisissent Roami pour leur eSIM Liechtenstein : 5G, Couverture & Forfaits'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Sélection auto
     desc: Connexion auto aux meilleurs opérateurs Liechtenstein pour le signal le plus fort
-plans_title: 'Acheter eSIM Liechtenstein: Forfaits pour Tout Voyage'
+plans_title: 'Acheter une eSIM Liechtenstein : Formules 5G à prix réduit'
 plans_data:
   30 jours:
   - spec: 20GB
@@ -297,7 +295,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Valable : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Liechtenstein: Couverture & Comparatif Opérateurs'
+  title: 'Couverture eSIM Liechtenstein : Carte et Qualité du Réseau'
   supports_text: 'Prend en charge :'
   service_details:
     title: Détails du service
@@ -305,8 +303,8 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Couverture
-      desc: Profitez d'une couverture reseau complete dans toute Liechtenstein, y compris Vaduz, Schaan, Triesen, Balzers.
-        Votre eSIM se connecte aux reseaux robustes de Swisscom, Sunrise, Salt.
+      desc: Profitez d'une couverture réseau complète au Liechtenstein, y compris Vaduz, Schaan, Triesen, Balzers.
+        Votre eSIM se connecte aux réseaux robustes de Swisscom, Sunrise, Salt.
     - icon: zap
       color: text-amber-500
       title: Délai de livraison
@@ -316,7 +314,7 @@ network_coverage:
       title: Point d'accès
       desc: Pas de restriction sur le point d'accès.
   carriers:
-    title: 'Swisscom, Sunrise & Salt: Operateurs eSIM Liechtenstein'
+    title: 'Swisscom, Sunrise & Salt : les réseaux disponibles pour votre eSIM'
     badge: Partenaire officiel
     items:
     - name: Swisscom
@@ -326,19 +324,20 @@ network_coverage:
       coverage: 5G rapide en villes
       network: Réseau 5G/4G/LTE
 reminders:
-  title: 'Conseils eSIM Liechtenstein: Avant de Partir'
+  title: 'Conseils eSIM Liechtenstein : Avant de Partir'
   items:
   - icon: 📱
-    html: Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
+    html: 'Avant l''achat, <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> avant de commander.'
   - icon: ✈️
-    html: Nous recommandons d'activer l'eSIM uniquement après votre arrivée à Liechtenstein.
+    html: "Il est préférable d'activer l'eSIM Liechtenstein après avoir atterri."
   - icon: ⏰
-    html: La validité commence lors de la connexion au réseau partenaire.
+    html: 'Votre forfait se déclenche lors de votre première connexion sur le réseau hôte.'
   - icon: 📧
-    html: Le code QR sera envoyé à votre adresse e-mail.
+    html: 'Votre code QR vous sera transmis à votre adresse e-mail immédiatement après le paiement.'
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: "Vous pouvez d'installer plusieurs eSIM sur le même téléphone."
+  - icon: 📍
+    html: "Astuce : l'eSIM Liechtenstein couvre aussi Vaduz comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Pas sûr ? Vérifiez immédiatement sur votre téléphone :'
@@ -347,14 +346,14 @@ reminders:
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       s'affiche, l'eSIM est prise en charge !
 activation_steps:
-  title: 'Activation eSIM Liechtenstein: 3 Etapes Simples'
+  title: 'Activation eSIM Liechtenstein : 3 Étapes Avant le Départ'
   steps:
   - num: '1'
     title: Recevez et conservez le code QR – préparez-vous pour Liechtenstein
     desc: Immédiatement après votre commande, vous recevrez un e-mail avec votre code QR d'activation personnel et des instructions.
       Conservez le code QR sur votre smartphone ou imprimez-le – vous n'avez pas besoin d'une connexion Internet active pour
       l'installation ultérieure. L'eSIM est valable 30 jours, vous pouvez donc la préparer tranquillement pour votre voyage
-      à Liechtenstein.
+      au Liechtenstein.
     is_list: false
   - num: '2'
     title: Installez l'eSIM sur votre appareil – scannez le code QR
@@ -369,13 +368,13 @@ activation_steps:
   - num: '3'
     title: Préparez-vous à la maison – testez sans risque
     desc: Après l'installation, vous pouvez laisser l'eSIM désactivée dans les réglages. Cependant, vous pouvez déjà la tester
-      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez à Liechtenstein, il
+      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez au Liechtenstein, il
       vous suffit d'activer l'eSIM – la validité commencera automatiquement lors de la première connexion au réseau Swisscom
       / Sunrise. Aucun frais caché d'activation, aucun frais d'itinérance.
     is_list: false
   - num: '4'
-    title: 'Arrivée à Liechtenstein : connexion instantanée 5G/4G'
-    desc: Dès que vous atterrissez à Liechtenstein (par exemple dans Aéroport de Zurich (Suisse), Aéroport de Saint-Gall-Altenrhein
+    title: 'Arrivée au Liechtenstein : connexion instantanée 5G/4G'
+    desc: Dès que vous atterrissez au Liechtenstein (par exemple à l'aéroport de Zurich (Suisse), Aéroport de Saint-Gall-Altenrhein
       (Suisse), Aéroport de Friedrichshafen (Allemagne)), désactivez le mode avion (ou restez dedans et activez uniquement
       l'eSIM). Allez dans **Réglages → Réseau cellulaire** et activez votre eSIM Roami pour Liechtenstein. En quelques secondes,
       votre appareil se connectera automatiquement au réseau 5G/4G le plus rapide disponible de Swisscom / Sunrise. Vous pourrez
@@ -383,17 +382,17 @@ activation_steps:
       – sans attente, sans pièce d'identité, sans contrat.
     is_list: false
 faq_section:
-  title: "Liechtenstein eSIM : vitesse, couverture et qualité de la connexion, tout savoir avant de partir."
-  desc: "Vous partez à Liechtenstein? Découvrez tout sur l'eSIM Liechtenstein : vitesses 4G/5G réelles, couverture du réseau Swisscom en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
+  title: "eSIM Liechtenstein : ce qu'il faut savoir avant de partir"
+  desc: "Tout sur l'eSIM Liechtenstein : ce qu'il faut savoir sur le réseau, les forfaits et l'activation de votre eSIM."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: "Questions et reponses sur l eSIM en Liechtenstein"
+    title: "Bien utiliser l'eSIM Liechtenstein"
 
     questions:
     - q: |
-        Faut-il enlever sa carte SIM francaise pour utiliser l eSIM Liechtenstein ou les deux peuvent-elles coexister?
+        Faut-il enlever sa carte SIM française pour utiliser l'eSIM Liechtenstein ou les deux peuvent-elles coexister?
       a: |
         Pas du tout — votre carte SIM reste en place dans le slot 1. L'eSIM fonctionne en parallèle dans le slot 2. Vous pouvez ainsi utiliser votre numéro français pour les appels et SMS, et l'eSIM pour les données. Cette configuration permet d'économiser 30-50% par rapport à une carte SIM d'aéroport, tout en conservant vos services habituels.
     - q: |
@@ -401,7 +400,7 @@ faq_section:
       a: |
         Ouvrez simplement une page web ou l'application Roami. Si la page s'affiche, tout fonctionne. Vous pouvez aussi vérifier le nom de l'opérateur dans les réglages du téléphone. Si rien ne s'affiche après 2 minutes, activez l'itinérance des données ou redémarrez le téléphone. Dans 90% des cas, le problème est résolu en moins d'une minute.
     - q: |
-        Puis-je garder ma carte SIM française tout en utilisant eSIM à Liechtenstein?
+        Puis-je garder ma carte SIM française tout en utilisant eSIM au Liechtenstein?
       a: |
         Oui — c'est même l'un des principaux avantages de l'eSIM. Votre carte SIM reste dans le slot 1 pour recevoir les SMS (codes bancaires, validation 2FA). L'eSIM gère toutes les données dans le slot 2. Désactivez simplement l'itinérance des données sur votre SIM française pour éviter des frais pouvant atteindre $10-15 par MB.
     - q: |
@@ -409,23 +408,23 @@ faq_section:
       a: |
         Oui — la connexion eSIM est chiffrée de bout en bout, contrairement au WiFi public des hôtels et cafés qui peut être intercepté. Les applications bancaires, PayPal et les cartes de crédit fonctionnent parfaitement sur la connexion 4G/5G de l'eSIM. Pour les opérations sensibles, l'eSIM est nettement plus sûre que le WiFi public, et tout aussi pratique.
     - q: |
-        Si j oublie d acheter l eSIM Liechtenstein avant le vol, puis-je le faire depuis l aeroport?
+        Si j'oublie d'acheter l'eSIM Liechtenstein avant le vol, puis-je le faire depuis l'aéroport?
       a: |
-        Oui — le QR code est envoyé par email sous 5 minutes après l'achat. Vous pouvez commander à l'aéroport et installer dans l'avion. À l'arrivée dans Liechtenstein, activez l'itinérance des données et vous serez connecté en 1 à 2 minutes. Temps total entre l'achat et la connexion: moins de 10 minutes si vous installez à l'avance.
+        Oui — le QR code est envoyé par email sous 5 minutes après l'achat. Vous pouvez commander à l'aéroport et installer dans l'avion. À l'arrivée au Liechtenstein, activez l'itinérance des données et vous serez connecté en 1 à 2 minutes. Temps total entre l'achat et la connexion: moins de 10 minutes si vous installez à l'avance.
     - q: |
-        Les connexions VPN sont-elles autorisees avec l eSIM Liechtenstein sans limitation de debit?
+        Les connexions VPN sont-elles autorisées avec l'eSIM Liechtenstein sans limitation de débit?
       a: |
         Oui — Roami ne bloque pas les connexions VPN, ce qui permet de sécuriser vos échanges ou d'accéder à vos services habituels. Les vitesses avec VPN restent bonnes: 30-80 Mbps en 5G, 5-15 Mbps en 4G — suffisantes pour le télétravail et le streaming. Aucune restriction ni limitation de débit spécifique aux VPN n'est appliquée.
     - q: |
-        Avec l eSIM Liechtenstein, est-ce que les appels video WhatsApp et FaceTime fonctionnent en 4G et 5G?
+        Avec l'eSIM Liechtenstein, est-ce que les appels vidéo WhatsApp et FaceTime fonctionnent en 4G et 5G?
       a: |
-        Oui — toutes les applications fonctionnent sans restriction. Un appel WhatsApp audio consomme environ 1MB par minute, un appel vidéo 5-8MB par minute. Un forfait 5GB ($9.99) permet environ 500 heures d'appels audio ou 10 heures de vidéo FaceTime. Le réseau 4G/5G de Swisscom assure une qualité d'appel fluide.
+        Oui — toutes les applications fonctionnent sans restriction. Un appel WhatsApp audio consomme environ 1MB par minute, un appel vidéo 5-8MB par minute. Un forfait 5GB (6,99 $) autorise environ 500 heures d'appels audio ou 10 heures de vidéo FaceTime. Le réseau 4G/5G de Swisscom assure une qualité d'appel fluide.
     - q: |
-        Combien de données un touriste utilise-t-il par jour à Liechtenstein?
+        Combien de données un touriste utilise-t-il par jour au Liechtenstein?
       a: |
-        En moyenne, un touriste consomme 300-500MB par jour pour la navigation, la messagerie et les réseaux sociaux. Avec des appels vidéo ou du streaming, la consommation peut atteindre 1-2GB par jour. Pour une semaine, un forfait 5GB ($9.99) est généralement suffisant. Pour deux semaines, prévoyez 10GB ($14.99).
+        En moyenne, un touriste consomme 300-500MB par jour pour la navigation, la messagerie et les réseaux sociaux. Avec des appels vidéo ou du streaming, la consommation peut atteindre 1-2GB par jour. Pour une semaine, un forfait 5GB (6,99 $) couvre largement vos besoins. Pour deux semaines, prévoyez 10GB (11,99 $).
 related_products:
-  title: Forfaits eSIM similaires
+  title: 'Autres destinations en eSIM'
   items:
   - name: eSIM États-Unis
     flag: img/flags/us.svg
@@ -444,7 +443,7 @@ related_products:
     slug: europe-esim
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: À partir de 1,99 $
+    price: 'À partir de 3,99 $'
     is_highlight: false
     slug: canada-esim
   - name: eSIM Turquie
@@ -488,8 +487,8 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'eSIM pour les Liechtenstein ou carte SIM pour touristes : que choisir ?'
-  subtitle: Cartes SIM prépayées locales au Liechtenstein contre solutions eSIM (benchmark 2024/2025)
+  title: 'eSIM Liechtenstein ou carte SIM prépayée : laquelle est la plus économique ?'
+  subtitle: 'Comparaison 2024/2025 des options mobiles pour Liechtenstein'
   citation:
     text: 'Source des données : Prepaid Data SIM Card Wiki (Liechtenstein) + sites Web des opérateurs locaux'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Liechtenstein
@@ -532,7 +531,7 @@ market_analysis:
       entraîne un gaspillage important pour les séjours courts (par exemple, un voyage de 2 jours paie pour 30 jours).
     esim_title: Forfaits flexibles sans gaspillage
     esim_desc: Les cartes locales imposent un cycle de 30 jours (ex. 30 € pour 5 Go). Roami propose des forfaits de 7 jours
-      à partir de 1,99 $/Go, idéal pour les courts séjours.
+      à partir de 1,99 $, idéal pour les courts séjours.
   - icon: wifi
     title: Partage de connexion et<br>politique de vitesse
     prepaid_title: ''
@@ -559,7 +558,7 @@ market_analysis:
     esim_desc: Bénéficiez d'un support en français 24h/24 et 7j/7, contrairement au support local limité aux heures ouvrables
       en allemand.
   expert_verdict:
-    title: 'eSIM pour les Liechtenstein contre carte SIM locale : laquelle permet de mieux économiser ?'
+    title: 'eSIM Liechtenstein contre carte SIM locale : laquelle permet de mieux économiser ?'
     cards:
     - icon: wifi
       icon_bg: bg-green-100
@@ -578,7 +577,7 @@ market_analysis:
       icon_color: text-amber-600
       title: Forfaits courts sans gaspillage
       desc: Les cartes locales imposent un cycle de 30 jours (ex. 30 € pour 5 Go). Pour un séjour de 2 jours, vous perdez
-        93% de la valeur. Roami propose des forfaits de 7 jours à partir de 1,99 $/Go.
+        93% de la valeur. Roami propose des forfaits de 7 jours à partir de 2,99 $.
     - icon: globe
       icon_bg: bg-purple-100
       icon_color: text-purple-600

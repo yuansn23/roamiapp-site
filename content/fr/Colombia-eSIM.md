@@ -1,15 +1,15 @@
 ---
-title: 'Forfait eSIM Colombie 2026: Connexion & Vitesse | Roami'
-date: '2026-06-24T00:00:00+00:00'
+title: 'eSIM Colombie 2026 : Guide 5G et Données | Roami'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Colombie
-  scenario_keywords: voyage d'affaires, vacances en famille, découverte culturelle, tourisme d'aventure, séjour linguistique
+  scenario_keywords: "voyage d'études, sports d'hiver, visites touristiques, télétravail en déplacement, shopping"
   operators: Claro, Movistar, Tigo
   competitors: Airalo, Holafly, Nomad, Ubigi, Maya Mobile
   main_cities: Bogota, Medellin, Cali, Carthagène, Barranquilla
-  main_packages: 3/7/15/30 jours, données illimitées
+  main_packages: '3/7/15/30 jours avec data illimitée au choix'
 modal:
   title: Mise à jour du service !
   btn_text: Continuer
@@ -19,10 +19,8 @@ modal:
     20% de réduction avec le code : web20'
 seo:
   title: Colombie eSIM | Acheter pas cher pour voyager
-  description: L'eSIM prepayee Roami pour Colombie s'achete en ligne sans attendre. Pas de livraison, tout est dematerialise.
-    Couvre tout le pays.
-  keywords: eSIM Colombie, forfait eSIM Colombie, meilleure eSIM Colombie, Colombie data, Claro Colombie, Movistar Colombie,
-    Tigo Colombie, eSIM Bogota, eSIM Medellin, eSIM Cali, internet mobile Colombie, 5G Colombie
+  description: 'eSIM Colombie : comparez les forfaits, activez en 5 minutes, sans contrat.'
+  keywords: 'eSIM Colombie, forfait eSIM Colombie, meilleure eSIM Colombie, eSIM Colombie pas cher, acheter eSIM Colombie en ligne, données illimitées eSIM Colombie, carte eSIM prépayée Colombie, eSIM Colombie pour voyageurs, prix eSIM Colombie, activation eSIM Colombie, couverture eSIM Colombie, eSIM Colombie 5G, eSIM Bogota, eSIM Medellin'
 order_summary:
   title: Forfait sélectionné
   label_data: Volume de données
@@ -38,14 +36,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleure eSIM pour Colombie
-  title: Meilleure eSIM pour Colombie
+  title: 'eSIM Colombie Activable Partout'
 hero:
   flag_image: img/flags/co.svg
   flag_alt: Drapeau Colombie
-  title: 'eSIM Colombie: Réseau Fiable pour les Voyageurs'
-  subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Colombie
+  title: 'eSIM Colombie : En Ligne du Premier au Dernier Jour'
+  subtitle: 'eSIM Colombie - données 5G, QR instantané, assistance 24h/24'
 features:
-  title: 'Pourquoi les voyageurs choisissent Roami pour Colombie: Réseau, Forfaits & Prix'
+  title: 'Pourquoi choisir Roami pour votre eSIM Colombie : Vitesse, Couverture & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Sélection auto
     desc: Connexion auto aux meilleurs opérateurs Colombie pour le signal le plus fort
-plans_title: 'Acheter eSIM Colombie: Forfaits pour Tout Voyage'
+plans_title: 'Acheter eSIM Colombie : Formules prépayés sans engagement'
 plans_data:
   7 jours:
   - spec: 1GB
@@ -257,7 +255,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Valable : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Colombie: Couverture & Comparatif Opérateurs'
+  title: 'Couverture eSIM Colombie : Guide Réseau pour Voyageurs'
   supports_text: 'Prend en charge :'
   service_details:
     title: Détails du service
@@ -265,8 +263,8 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Couverture
-      desc: Profitez d'une couverture reseau complete dans toute Colombie, y compris Bogota, Medellin, Cali, Carthagène. Votre
-        eSIM se connecte aux reseaux robustes de Claro, Movistar, Tigo.
+      desc: Profitez d'une couverture réseau complète en Colombie, y compris Bogota, Medellin, Cali, Carthagène. Votre
+        eSIM se connecte aux réseaux robustes de Claro, Movistar, Tigo.
     - icon: zap
       color: text-amber-500
       title: Délai de livraison
@@ -276,7 +274,7 @@ network_coverage:
       title: Point d'accès
       desc: Pas de restriction sur le point d'accès.
   carriers:
-    title: 'Claro, Movistar & Tigo: Operateurs eSIM Colombie'
+    title: 'Claro, Movistar & Tigo : les opérateurs de votre eSIM'
     badge: Partenaire officiel
     items:
     - name: Claro
@@ -286,19 +284,20 @@ network_coverage:
       coverage: 5G rapide en villes
       network: Réseau 5G/4G/LTE
 reminders:
-  title: 'Conseils eSIM Colombie: Avant de Partir'
+  title: 'Conseils eSIM Colombie : Installer et Activer Sans Stress'
   items:
   - icon: 📱
-    html: Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
+    html: 'Avant de commander, <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> avant de commander.'
   - icon: ✈️
-    html: Nous recommandons d'activer l'eSIM uniquement après votre arrivée à Colombie.
+    html: "Il est préférable d'activer l'eSIM Colombie après avoir atterri."
   - icon: ⏰
-    html: La validité commence lors de la connexion au réseau partenaire.
+    html: 'Le décompte commence au moment de votre première connexion au réseau partenaire.'
   - icon: 📧
-    html: Le code QR sera envoyé à votre adresse e-mail.
+    html: 'Le code QR arrive par courriel en quelques minutes.'
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: "Il est possible de stocker d'autres profils eSIM simultanément."
+  - icon: 📍
+    html: "Astuce : l'eSIM Colombie couvre aussi Bogota comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Pas sûr ? Vérifiez immédiatement sur votre téléphone :'
@@ -307,14 +306,14 @@ reminders:
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       s'affiche, l'eSIM est prise en charge !
 activation_steps:
-  title: 'Activation eSIM Colombie: 3 Etapes Simples'
+  title: "Activation eSIM Colombie : De l'Achat à la Connexion"
   steps:
   - num: '1'
     title: Recevez et conservez le code QR – préparez-vous pour Colombie
     desc: Immédiatement après votre commande, vous recevrez un e-mail avec votre code QR d'activation personnel et des instructions.
       Conservez le code QR sur votre smartphone ou imprimez-le – vous n'avez pas besoin d'une connexion Internet active pour
       l'installation ultérieure. L'eSIM est valable 30 jours, vous pouvez donc la préparer tranquillement pour votre voyage
-      à Colombie.
+      en Colombie.
     is_list: false
   - num: '2'
     title: Installez l'eSIM sur votre appareil – scannez le code QR
@@ -329,13 +328,13 @@ activation_steps:
   - num: '3'
     title: Préparez-vous à la maison – testez sans risque
     desc: Après l'installation, vous pouvez laisser l'eSIM désactivée dans les réglages. Cependant, vous pouvez déjà la tester
-      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez à Colombie, il vous
+      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez en Colombie, il vous
       suffit d'activer l'eSIM – la validité commencera automatiquement lors de la première connexion au réseau Claro / Movistar.
       Aucun frais caché d'activation, aucun frais d'itinérance.
     is_list: false
   - num: '4'
-    title: 'Arrivée à Colombie : connexion instantanée 5G/4G'
-    desc: Dès que vous atterrissez à Colombie (par exemple dans Aéroport international El Dorado (Bogota), Aéroport international
+    title: 'Arrivée en Colombie : connexion instantanée 5G/4G'
+    desc: Dès que vous atterrissez en Colombie (par exemple à l'aéroport international El Dorado (Bogota), Aéroport international
       José María Córdova (Medellin), Aéroport international Rafael Núñez (Carthagène)), désactivez le mode avion (ou restez
       dedans et activez uniquement l'eSIM). Allez dans **Réglages → Réseau cellulaire** et activez votre eSIM Roami pour Colombie.
       En quelques secondes, votre appareil se connectera automatiquement au réseau 5G/4G le plus rapide disponible de Claro
@@ -343,50 +342,50 @@ activation_steps:
       avec d'autres appareils – sans attente, sans pièce d'identité, sans contrat.
     is_list: false
 faq_section:
-  title: "eSIM Colombie : Comparatif des prix, donnees et la meilleure connexion"
-  desc: "Tout ce que vous devez savoir sur l eSIM pour Colombie: activation, operateurs avec la meilleure couverture, prix des donnees et conseils pour voyageurs.'eSIM Colombie : vitesses 4G/5G réelles, couverture du réseau Claro en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
+  title: 'eSIM Colombie : les questions que se posent les voyageurs'
+  desc: "Tout sur l'eSIM Colombie : les réponses aux questions courantes sur l'eSIM et la connexion mobile."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: "Informations generales sur l eSIM en Colombie"
+    title: "Le point sur l'eSIM Colombie"
 
     questions:
     - q: |
-        Est-ce que les VPN fonctionnent avec l eSIM Colombia ou y a-t-il des restrictions?
+        Est-ce que les VPN fonctionnent avec l'eSIM Colombie ou y a-t-il des restrictions?
       a: |
         Oui — Roami ne bloque pas les connexions VPN, ce qui permet de sécuriser vos échanges ou d'accéder à vos services habituels. Les vitesses avec VPN restent bonnes: 30-80 Mbps en 5G, 5-15 Mbps en 4G — suffisantes pour le télétravail et le streaming. Aucune restriction ni limitation de débit spécifique aux VPN n'est appliquée.
     - q: |
-            Quel est le meilleur rapport qualite-prix pour l eSIM Colombia selon la duree du sejour?
+            Quel est le meilleur rapport qualité-prix pour l'eSIM Colombie selon la durée du séjour?
 
       a: |
-        Le 5GB/15 jours ($9.99) est le plus populaire — il suffit pour la navigation GPS, les réseaux sociaux et la messagerie quotidienne. Pour les voyageurs qui regardent des vidéos ou travaillent à distance, le forfait 10GB ($14.99) offre plus de marge. Le forfait illimité ($59.99) est idéal pour le partage de connexion ou les longs séjours.
+        Le 20GB/30 jours (30,99 $) est le plus populaire — parfait pour la navigation GPS, les réseaux sociaux et la messagerie du quotidien. Pour les voyageurs qui regardent des vidéos ou travaillent à distance, le forfait 10GB (21,99 $) offre plus de marge. Le forfait illimité (52,99 $) est idéal pour le partage de connexion ou les longs séjours.
     - q: |
-        L eSIM Colombia s active-t-elle immediatement apres l achat ou y a-t-il un delai d activation?
+        L'eSIM Colombie s'active-t-elle immédiatement après l'achat ou y a-t-il un délai d'activation?
       a: |
-        Oui — le QR code est envoyé par email sous 5 minutes après l'achat. Vous pouvez commander à l'aéroport et installer dans l'avion. À l'arrivée dans Colombie, activez l'itinérance des données et vous serez connecté en 1 à 2 minutes. Temps total entre l'achat et la connexion: moins de 10 minutes si vous installez à l'avance.
+        Oui — le QR code est envoyé par email sous 5 minutes après l'achat. Vous pouvez commander à l'aéroport et installer dans l'avion. À l'arrivée en Colombie, activez l'itinérance des données et vous serez connecté en 1 à 2 minutes. Temps total entre l'achat et la connexion: moins de 10 minutes si vous installez à l'avance.
     - q: |
-        Le prix de l eSIM Colombia comprend-il tout ou y a-t-il des couts additionnels a prevoir?
+        Le prix de l'eSIM Colombie comprend-il tout ou y a-t-il des coûts additionnels à prévoir?
       a: |
-        Non — le prix affiché est le prix final, sans aucune taxe ajoutée ni frais de dossier. Les forfaits commencent à $1.99 (7 jours, 1GB). Le forfait 5GB ($9.99) n'a pas de surprise. Pas de renouvellement automatique, pas de frais d'activation: le forfait s'arrête simplement à la date d'expiration.
+        Non — le prix affiché est le prix final, sans aucune taxe ajoutée ni frais de dossier. Les tarifs démarrent à 4,99 $ (3 jours, 1GB). Le forfait 5GB (14,99 $) n'a rien d'imprévisible. Pas de renouvellement automatique, pas de frais d'activation: le forfait s'arrête simplement à la date d'expiration.
     - q: |
-        Combien de données un touriste utilise-t-il par jour à Colombie?
+        Combien de données un touriste utilise-t-il par jour en Colombie?
       a: |
-        En moyenne, un touriste consomme 300-500MB par jour pour la navigation, la messagerie et les réseaux sociaux. Avec des appels vidéo ou du streaming, la consommation peut atteindre 1-2GB par jour. Pour une semaine, un forfait 5GB ($9.99) est généralement suffisant. Pour deux semaines, prévoyez 10GB ($14.99).
+        En moyenne, un touriste consomme 300-500MB par jour pour la navigation, la messagerie et les réseaux sociaux. Avec des appels vidéo ou du streaming, la consommation peut atteindre 1-2GB par jour. Pour une semaine, un forfait 5GB (14,99 $) couvre largement vos besoins. Pour deux semaines, prévoyez 10GB (21,99 $).
     - q: |
-        Est-ce que l eSIM Colombia est moins chere qu un Pocket WiFi pour un sejour de 2 semaines?
+        Est-ce que l'eSIM Colombie est moins chère qu'un Pocket WiFi pour un séjour de 2 semaines?
       a: |
-        L'eSIM est plus pratique: pas d'appareil supplémentaire à transporter ou à recharger, pas de caution à payer. La location d'un pocket WiFi coûte $3-8 par jour plus une caution, et la batterie tient 6-10 heures. Roami eSIM commence à $1.99 par jour, fonctionne directement dans votre téléphone et ne nécessite pas de recharge séparée. Les deux permettent le partage de connexion.
+        L'eSIM est plus pratique: pas d'appareil supplémentaire à transporter ou à recharger, pas de caution à payer. La location d'un pocket WiFi coûte $3-8 par jour plus une caution, et la batterie tient 6-10 heures. Roami eSIM commence à 4,99 $ (3 jours, 1GB), fonctionne directement dans votre téléphone et ne nécessite pas de recharge séparée. Les deux permettent le partage de connexion.
     - q: |
-        Vaut-il mieux installer l eSIM Colombia avant de partir ou directement a l arrivee dans le pays?
+        Vaut-il mieux installer l'eSIM Colombie avant de partir ou directement a l'arrivée dans le pays?
       a: |
-        Avant le départ, sans exception. L'installation nécessite une connexion Internet, et le WiFi de l'aéroport demande souvent une vérification par SMS — un vrai piège si vous n'avez pas encore de réseau local. Le QR code arrive par email sous 5 minutes après l'achat. L'installation prend environ 2 minutes sur iPhone ou Android. À l'arrivée dans Colombie, activez simplement l'itinérance des données. Vous serez connecté en moins de 60 secondes.
+        Avant le départ, sans exception. L'installation nécessite une connexion Internet, et le WiFi de l'aéroport demande souvent une vérification par SMS — un vrai piège si vous n'avez pas encore de réseau local. Le QR code arrive par email sous 5 minutes après l'achat. L'installation prend environ 2 minutes sur iPhone ou Android. À l'arrivée en Colombie, activez simplement l'itinérance des données. Vous serez connecté en moins de 60 secondes.
     - q: |
-        Peut-on recharger son forfait eSIM Colombia depuis l etranger en cours de voyage?
+        Peut-on recharger son forfait eSIM Colombie depuis l'étranger en cours de voyage?
       a: |
         Oui — la recharge se fait directement depuis l'application Roami, où que vous soyez. Le nouveau forfait est activé instantanément, sans nouveau QR code ni réinstallation. Nous recommandons de recharger lorsque vous atteignez 20% de données restantes. Roami vous envoie une notification à 70% et 90% de consommation.
 related_products:
-  title: Forfaits eSIM similaires
+  title: "Forfaits eSIM pour d'autres voyageurs"
   items:
   - name: eSIM États-Unis
     flag: img/flags/us.svg
@@ -405,7 +404,7 @@ related_products:
     slug: europe-esim
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: À partir de 1,99 $
+    price: 'À partir de 3,99 $'
     is_highlight: false
     slug: canada-esim
   - name: eSIM Turquie
@@ -449,15 +448,15 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'eSIM pour les Colombia contre carte SIM locale : laquelle permet de mieux économiser ?'
-  subtitle: Cartes SIM prépayées locales en Colombie contre solutions eSIM (benchmark 2024/2025)
+  title: "eSIM Colombie ou carte SIM prépayée : l'eSIM face à la SIM locale"
+  subtitle: "Cartes prépayées locales et eSIM : ce qu'il faut savoir pour Colombie"
   citation:
-    text: 'Source des données : Prepaid Data SIM Card Wiki (Colombia) + sites Web des opérateurs locaux'
+    text: 'Source des données : Prepaid Data SIM Card Wiki (Colombie) + sites Web des opérateurs locaux'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Colombia
   table_headers:
   - Matrice de comparaison
   - Carte SIM prépayée locale (données de marché)
-  - Roami eSIM pour Colombia
+  - Roami eSIM pour Colombie
   table_rows:
   - icon: store
     title: Acquisition et<br>activation
@@ -490,7 +489,7 @@ market_analysis:
       des cycles fixes, entraînant une perte de valeur pour les séjours plus courts.
     esim_title: Forfaits flexibles sans perte
     esim_desc: Contre les cycles fixes de 7 jours de Claro (COP 11 000/5 Go) ou Movistar (COP 13 900/1,4 Go), Roami propose
-      des forfaits de 7 jours à partir de 1,99 $/Go, sans gaspillage.
+      des forfaits de 7 jours à partir de 4,99 $, sans gaspillage.
   - icon: wifi
     title: Partage de connexion et<br>politique de vitesse
     prepaid_title: ''
@@ -515,7 +514,7 @@ market_analysis:
     esim_desc: Bénéficiez d'une assistance en français par chat et email, contrairement au support espagnol uniquement des
       opérateurs locaux (horaires limités).
   expert_verdict:
-    title: 'eSIM pour les Colombia : la solution ultime pour une connectivité sans stress et économique'
+    title: 'eSIM Colombie : la solution ultime pour une connectivité sans stress et économique'
     cards:
     - icon: credit-card
       icon_bg: bg-emerald-100
@@ -540,7 +539,6 @@ market_analysis:
       icon_color: text-amber-600
       title: Évitez les cycles de facturation rigides
       desc: Les forfaits Claro de 7 jours (COP 11 000/5 Go) ou Movistar de 7 jours (COP 13 900/1,4 Go) imposent des cycles
-        fixes. Un séjour de 5 jours gaspille jusqu'à 40% du forfait. Roami propose des forfaits de 7 jours à partir de 1,99
-        $/Go, sans perte.
+        fixes. Un séjour de 5 jours gaspille jusqu'à 40% du forfait. Roami propose des forfaits de 7 jours à partir de 6,99 $, sans perte.
 
 ---

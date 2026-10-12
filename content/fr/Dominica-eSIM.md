@@ -1,15 +1,15 @@
 ---
-title: 'Forfait eSIM Dominique 2026: Forfaits & Couverture | Roami'
-date: '2026-06-24T00:00:00+00:00'
+title: 'Forfait eSIM Dominique 2026 : Connexion & Vitesse | Roami'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Dominique
-  scenario_keywords: séjour balnéaire, randonnée, plongée, voyage d'affaires, écotourisme
+  scenario_keywords: "sports d'hiver, visites touristiques, télétravail en déplacement, shopping, voyage linguistique"
   operators: Digicel, Flow, Orange
   competitors: Airalo, Holafly, Nomad, GigSky, BNESIM
   main_cities: Roseau, Portsmouth, Saint Joseph, Mahaut, Castle Bruce
-  main_packages: 3/7/15/30 jours, données illimitées
+  main_packages: 'Durées 3/7/15/30 jours : forfaits illimités disponibles'
 modal:
   title: Mise à jour du service !
   btn_text: Continuer
@@ -18,11 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: Dominique eSIM | Pas cher & sans engagement
-  description: Partez a Dominique sans contrainte. Roami ne vous enferme dans aucun abonnement. Vous decidez de tout. Couvre
-    tout le pays.
-  keywords: eSIM Dominique, forfait eSIM Dominique, meilleure eSIM Dominique, Dominique data, Digicel Dominique, Flow Dominique,
-    Orange Dominique, eSIM Roseau, eSIM Portsmouth, eSIM Saint Joseph, internet mobile Dominique, 5G Dominique
+  title: 'Dominique eSIM | Forfait data livré en 5 minutes'
+  description: 'eSIM Dominique : forfaits 5G prépayés, activation immédiate par QR code.'
+  keywords: 'eSIM Dominique, forfait eSIM Dominique, meilleure eSIM Dominique, eSIM Dominique pas cher, acheter eSIM Dominique en ligne, données illimitées eSIM Dominique, carte eSIM prépayée Dominique, eSIM Dominique pour voyageurs, prix eSIM Dominique, activation eSIM Dominique, couverture eSIM Dominique, eSIM Dominique 5G, eSIM Roseau, eSIM Portsmouth'
 order_summary:
   title: Forfait sélectionné
   label_data: Volume de données
@@ -38,14 +36,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleure eSIM pour Dominique
-  title: Meilleure eSIM pour Dominique
+  title: 'eSIM Dominique en 5 Minutes'
 hero:
   flag_image: img/flags/dm.svg
   flag_alt: Drapeau Dominique
-  title: 'eSIM Dominique: 5G Rapide pour Chaque Destination'
-  subtitle: Meilleure eSIM prépayée pour Dominique - 5G rapide, activation instantanée, support 24/7
+  title: 'eSIM Dominique : Solutions Data Complètes pour Votre Voyage'
+  subtitle: 'eSIM Dominique - internet sans souci, réseau local fiable, sans contrat'
 features:
-  title: 'Pourquoi les voyageurs choisissent Roami pour Dominique: Vitesse, Couverture & Support'
+  title: 'Pourquoi les voyageurs choisissent Roami pour leur eSIM Dominique : Prix, Réseau & Activation'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Sélection auto
     desc: Connexion auto aux meilleurs opérateurs Dominique pour le signal le plus fort
-plans_title: 'Acheter eSIM Dominique: Forfaits pour Tout Voyage'
+plans_title: 'Acheter eSIM Dominique : Offres avec activation immédiate'
 plans_data:
   15 jours:
   - spec: 3GB
@@ -135,7 +133,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Valable : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Dominique: Guide Complet des Réseaux Locaux'
+  title: 'Couverture eSIM Dominique : Qualité du Signal et Villes Clés'
   supports_text: 'Prend en charge :'
   service_details:
     title: Détails du service
@@ -143,8 +141,8 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Couverture
-      desc: Profitez d'une couverture reseau complete dans toute Dominique, y compris Roseau, Portsmouth, Saint Joseph, Mahaut.
-        Votre eSIM se connecte aux reseaux robustes de Digicel, Flow, Orange.
+      desc: Profitez d'une couverture réseau complète en Dominique, y compris Roseau, Portsmouth, Saint Joseph, Mahaut.
+        Votre eSIM se connecte aux réseaux robustes de Digicel, Flow, Orange.
     - icon: zap
       color: text-amber-500
       title: Délai de livraison
@@ -154,7 +152,7 @@ network_coverage:
       title: Point d'accès
       desc: Pas de restriction sur le point d'accès.
   carriers:
-    title: 'Digicel, Flow & Orange: Operateurs eSIM Dominique'
+    title: 'Digicel, Flow & Orange : opérateurs eSIM Dominique'
     badge: Partenaire officiel
     items:
     - name: Digicel
@@ -164,19 +162,20 @@ network_coverage:
       coverage: 5G rapide en villes
       network: Réseau 5G/4G/LTE
 reminders:
-  title: 'Conseils eSIM Dominique: Avant de Partir'
+  title: 'Conseils eSIM Dominique : Préparer Votre Voyage Connecté'
   items:
   - icon: 📱
-    html: Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
+    html: 'Avant l''achat, <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> sur votre téléphone.'
   - icon: ✈️
-    html: Nous recommandons d'activer l'eSIM uniquement après votre arrivée à Dominique.
+    html: "Il est préférable d'activer l'eSIM Dominique après avoir atterri."
   - icon: ⏰
-    html: La validité commence lors de la connexion au réseau partenaire.
+    html: 'Le décompte commence lors de votre première connexion sur le réseau hôte.'
   - icon: 📧
-    html: Le code QR sera envoyé à votre adresse e-mail.
+    html: 'Le code QR arrive à votre adresse e-mail immédiatement après le paiement.'
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: 'Il est possible de stocker plusieurs eSIM sur le même téléphone.'
+  - icon: 📍
+    html: "Astuce : l'eSIM Dominique couvre aussi Roseau comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Pas sûr ? Vérifiez immédiatement sur votre téléphone :'
@@ -185,14 +184,14 @@ reminders:
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       s'affiche, l'eSIM est prise en charge !
 activation_steps:
-  title: 'Activation eSIM Dominique: 3 Etapes Simples'
+  title: "Activation eSIM Dominique : Le Guide d'Activation"
   steps:
   - num: '1'
     title: Recevez et conservez le code QR – préparez-vous pour Dominique
     desc: Immédiatement après votre commande, vous recevrez un e-mail avec votre code QR d'activation personnel et des instructions.
       Conservez le code QR sur votre smartphone ou imprimez-le – vous n'avez pas besoin d'une connexion Internet active pour
       l'installation ultérieure. L'eSIM est valable 30 jours, vous pouvez donc la préparer tranquillement pour votre voyage
-      à Dominique.
+      en Dominique.
     is_list: false
   - num: '2'
     title: Installez l'eSIM sur votre appareil – scannez le code QR
@@ -207,13 +206,13 @@ activation_steps:
   - num: '3'
     title: Préparez-vous à la maison – testez sans risque
     desc: Après l'installation, vous pouvez laisser l'eSIM désactivée dans les réglages. Cependant, vous pouvez déjà la tester
-      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez à Dominique, il vous
+      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez en Dominique, il vous
       suffit d'activer l'eSIM – la validité commencera automatiquement lors de la première connexion au réseau Digicel / Flow.
       Aucun frais caché d'activation, aucun frais d'itinérance.
     is_list: false
   - num: '4'
-    title: 'Arrivée à Dominique : connexion instantanée 5G/4G'
-    desc: Dès que vous atterrissez à Dominique (par exemple dans Aéroport international Douglas-Charles (DOM), Aéroport de
+    title: 'Arrivée en Dominique : connexion instantanée 5G/4G'
+    desc: Dès que vous atterrissez en Dominique (par exemple à l'aéroport international Douglas-Charles (DOM), Aéroport de
       Canefield, Aéroport de Melville Hall), désactivez le mode avion (ou restez dedans et activez uniquement l'eSIM). Allez
       dans **Réglages → Réseau cellulaire** et activez votre eSIM Roami pour Dominique. En quelques secondes, votre appareil
       se connectera automatiquement au réseau 5G/4G le plus rapide disponible de Digicel / Flow. Vous pourrez immédiatement
@@ -221,31 +220,31 @@ activation_steps:
       sans pièce d'identité, sans contrat.
     is_list: false
 faq_section:
-  title: "Dominique eSIM : vitesse de la 4G et de la 5G, qualité de la couverture et avis de voyageurs."
-  desc: "Vous partez à Dominique? Découvrez tout sur l'eSIM Dominique : vitesses 4G/5G réelles, couverture du réseau Flow en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
+  title: "eSIM Dominique : tout ce qu'il faut savoir"
+  desc: "Tout sur l'eSIM Dominique : réseau, prix et installation : les réponses aux questions les plus fréquentes des voyageurs."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: "Guide de l eSIM pour les voyageurs en Dominique"
+    title: "eSIM Dominique : l'essentiel pour les voyageurs"
 
     questions:
     - q: |
-        Le prix de l eSIM Dominica comprend-il tout ou y a-t-il des couts additionnels a prevoir?
+        Le prix de l'eSIM Dominique comprend-il tout ou y a-t-il des coûts additionnels à prévoir?
       a: |
-        Non — le prix affiché est le prix final, sans aucune taxe ajoutée ni frais de dossier. Les forfaits commencent à $1.99 (7 jours, 1GB). Le forfait 5GB ($9.99) n'a pas de surprise. Pas de renouvellement automatique, pas de frais d'activation: le forfait s'arrête simplement à la date d'expiration.
+        Non — le prix affiché est le prix final, sans aucune taxe ajoutée ni frais de dossier. Les forfaits démarrent à 11,99 $ (7 jours, 1GB). Le forfait 5GB (37,99 $) ne réserve aucune mauvaise surprise. Pas de renouvellement automatique, pas de frais d'activation: le forfait s'arrête simplement à la date d'expiration.
     - q: |
-        Que faire si l eSIM Dominica ne s active pas ou ne capte pas a l arrivee dans le pays?
+        Que faire si l'eSIM Dominique ne s'active pas ou ne capte pas a l'arrivée dans le pays?
       a: |
         Trois vérifications simples, chacune prenant moins de 30 secondes: 1) L'itinérance des données est-elle activée dans les réglages? 2) Essayez une sélection manuelle du réseau: choisissez Flow dans la liste. 3) Redémarrez votre téléphone. Environ 90% des problèmes se résolvent avec l'une de ces étapes. Si le problème persiste, le support Roami est disponible 24h/7j par chat.
     - q: |
-        Si mon forfait eSIM Dominica est epuise, puis-je ajouter des gigas depuis mon telephone directement?
+        Si mon forfait eSIM Dominique est épuisé, puis-je ajouter des gigas depuis mon téléphone directement?
       a: |
         Oui — la recharge se fait directement depuis l'application Roami, où que vous soyez. Le nouveau forfait est activé instantanément, sans nouveau QR code ni réinstallation. Nous recommandons de recharger lorsque vous atteignez 20% de données restantes. Roami vous envoie une notification à 70% et 90% de consommation.
     - q: |
-        Netflix et les services de streaming marchent-ils sans coupure avec l eSIM Dominique?
+        Netflix et les services de streaming marchent-ils sans coupure avec l'eSIM Dominique?
       a: |
-        Oui — le streaming passe par la connexion eSIM sans restriction. Netflix en HD consomme environ 1GB par heure, Spotify 50-100MB par heure. Avec un forfait 5GB ($9.99), vous pouvez regarder environ 5 heures de Netflix en HD ou écouter 50 heures de musique. Pour les gros consommateurs de streaming, le forfait illimité ($59.99) est plus adapté. Alternative: téléchargez vos contenus en WiFi avant de partir.
+        Oui — le streaming passe par la connexion eSIM sans restriction. Netflix en HD consomme environ 1GB par heure, Spotify 50-100MB par heure. Avec un forfait 5GB (37,99 $), vous pouvez regarder environ 5 heures de Netflix en HD ou écouter 50 heures de musique. Pour les gros consommateurs de streaming, le forfait illimité (52,99 $) est plus adapté. Alternative: téléchargez vos contenus en WiFi avant de partir.
     - q: |
         Puis-je recevoir les SMS de vérification bancaire avec eSIM Dominique?
       a: |
@@ -255,15 +254,15 @@ faq_section:
       a: |
         Non — elles sont généralement 30-50% plus chères que l'eSIM Roami, sans compter le temps d'attente aux kiosques. À l'aéroport, vous devez faire la queue, présenter votre passeport et parfois fournir une adresse locale. Avec Roami, vous achetez en ligne en 2 minutes, le QR code arrive par email, et vous gardez votre SIM française active.
     - q: |
-        Quelle est la solution la plus pratique pour rester connecte en Dominique sans se prendre la tete?
+        Quelle est la solution la plus pratique pour rester connecté en Dominique sans se prendre la tête?
       a: |
-        L'eSIM Roami est la solution la plus simple: achetez en ligne à partir de $1.99, recevez le QR code par email en 5 minutes, installez en 2 minutes. Pas de file d'attente à l'aéroport, pas de passeport à présenter, pas de carte SIM à insérer. Votre numéro français reste actif pour les SMS, et vous êtes connecté dès l'arrivée en activant l'itinérance.
+        Roami simplifie la connexion: réservez en ligne à partir de 11,99 $ et recevez le QR code par email en 5 minutes, installez en 2 minutes. Pas de file d'attente à l'aéroport, pas de passeport à présenter, pas de carte SIM à insérer. Votre numéro français reste actif pour les SMS, et vous êtes connecté dès l'arrivée en activant l'itinérance.
     - q: |
-        Puis-je installer plusieurs eSIM pour differents pays en meme temps que celle de Dominique?
+        Puis-je installer plusieurs eSIM pour différents pays en même temps que celle de Dominique?
       a: |
         La plupart des téléphones modernes stockent 5 à 10 profils eSIM. Vous pouvez conserver votre eSIM Dominique en parallèle de votre carte SIM française et de plusieurs autres profils internationaux. Le passage d'un profil à l'autre prend environ 10 secondes dans les réglages. Idéal pour les voyageurs multi-destinations.
 related_products:
-  title: Forfaits eSIM similaires
+  title: 'Pour vos autres voyages en eSIM'
   items:
   - name: eSIM États-Unis
     flag: img/flags/us.svg
@@ -282,7 +281,7 @@ related_products:
     slug: europe-esim
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: À partir de 1,99 $
+    price: 'À partir de 3,99 $'
     is_highlight: false
     slug: canada-esim
   - name: eSIM Turquie
@@ -326,15 +325,15 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'eSIM pour les Dominica contre prépayée : quel est le meilleur rapport qualité-prix ?'
-  subtitle: Cartes SIM prépayées locales en Dominique contre solutions eSIM (benchmark 2024/2025)
+  title: 'eSIM Dominique ou carte SIM prépayée : le guide du meilleur choix'
+  subtitle: 'Le duel SIM locale contre eSIM pour Dominique'
   citation:
-    text: 'Source des données : Prepaid Data SIM Card Wiki (Dominica) + sites Web des opérateurs locaux'
+    text: 'Source des données : Prepaid Data SIM Card Wiki (Dominique) + sites Web des opérateurs locaux'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Dominica
   table_headers:
   - Matrice de comparaison
   - Carte SIM prépayée locale (données de marché)
-  - Roami eSIM pour Dominica
+  - Roami eSIM pour Dominique
   table_rows:
   - icon: store
     title: Acquisition et<br>activation
@@ -366,7 +365,7 @@ market_analysis:
       forfait 1 jour, tous les forfaits se renouvellent automatiquement.
     esim_title: Forfaits flexibles sans perte
     esim_desc: Contre les cycles rigides de Flow (30 jours 3 Go à 69,99 EC$) et le renouvellement automatique, Roami propose
-      des forfaits de 7 jours à partir de 1,99 $/Go, sans engagement.
+      des forfaits de 7 jours à partir de 11,99 $, sans engagement.
   - icon: wifi
     title: Partage de connexion et<br>politique de vitesse
     prepaid_title: ''
@@ -392,7 +391,7 @@ market_analysis:
     esim_desc: Contrairement au support limité aux heures d'ouverture des magasins, Roami offre une assistance en ligne 24h/24
       et 7j/7, en français et anglais.
   expert_verdict:
-    title: 'eSIM pour les Dominica : la solution ultime pour éviter les tracas des cartes SIM prépayées locales'
+    title: 'eSIM Dominique : la solution ultime pour éviter les tracas des cartes SIM prépayées locales'
     cards:
     - icon: globe
       icon_bg: bg-teal-100

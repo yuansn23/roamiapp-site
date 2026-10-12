@@ -1,16 +1,15 @@
 ---
-title: 'Forfait eSIM Taïwan 2026: 5G & Forfaits | Roami'
-date: '2026-06-24T00:00:00+00:00'
+title: 'eSIM Taïwan 2026 : Guide Complet du Voyageur | Roami'
+date: ''2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Taïwan
-  scenario_keywords: Visite de Taipei, exploration des marchés de nuit, voyage en train à grande vitesse, détente dans les
-    sources chaudes
+  scenario_keywords: "escapade urbaine, voyage en couple, plongée sous-marine, excursion d'une journée, séjour bien-être"
   operators: Chunghwa Telecom, FarEasTone, Taiwan Mobile
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Taipei, Nouveau Taipei, Taichung, Kaohsiung, Tainan
-  main_packages: 3/7/15/30 Jours, Données illimitées
+  main_packages: 'Formules 3/7/15/30 jours, données illimitées'
 modal:
   title: Service mis à jour !
   btn_text: Continuer
@@ -19,11 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d''une
     réduction de 20 %, code promo : web20'
 seo:
-  title: Taïwan eSIM | Acheter prépayé, activation immédiate
-  description: Besoin de beaucoup de data a Taïwan? Roami propose des forfaits avec donnees illimitees. Plus besoin de chercher
-    le WiFi. Couvre tout le pays.
-  keywords: eSIM Taïwan, forfait eSIM Taïwan, meilleure eSIM Taïwan, Taïwan data, Chunghwa Telecom Taïwan, FarEasTone Taïwan,
-    Taiwan Mobile Taïwan, eSIM Taipei, eSIM Nouveau Taipei, eSIM Taichung, internet mobile Taïwan, 5G Taïwan
+  title: 'Taïwan eSIM | Achetez et activez en 2 minutes'
+  description: "eSIM Taïwan : comparez les offres, choisissez, activez : c'est simple."
+  keywords: 'eSIM Taïwan, forfait eSIM Taïwan, meilleure eSIM Taïwan, eSIM Taïwan pas cher, acheter eSIM Taïwan en ligne, données illimitées eSIM Taïwan, carte eSIM prépayée Taïwan, eSIM Taïwan pour voyageurs, prix eSIM Taïwan, activation eSIM Taïwan, couverture eSIM Taïwan, eSIM Taïwan 5G, eSIM Taipei, eSIM Nouveau Taipei'
   low_price: 1.99
   high_price: 39.9
 order_summary:
@@ -41,14 +38,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleur eSIM pour Taïwan
-  title: Meilleur eSIM pour Taïwan
+  title: 'Votre eSIM pour Taïwan'
 hero:
   flag_image: img/flags/tw.svg
   flag_alt: Drapeau Taïwan
-  title: 'eSIM Taïwan: Solutions Data Complètes pour Votre Voyage'
-  subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour Taïwan
+  title: 'eSIM Taïwan : Des Données Mobiles Simples et Rapides'
+  subtitle: 'eSIM Taïwan - connexion instantanée, prix mini'
 features:
-  title: 'Pourquoi les voyageurs choisissent Roami pour Taïwan: Couverture, Vitesse & Service'
+  title: 'Pourquoi choisir Roami pour votre eSIM Taïwan : Prix, Réseau & Activation'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -74,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Commutation automatique
     desc: Connexion auto aux meilleurs opérateurs Taïwan pour le signal le plus fort
-plans_title: 'Acheter eSIM Taïwan: Forfaits pour Tout Voyage'
+plans_title: 'Acheter une eSIM Taïwan : Tarifs eSIM sans frais cachés'
 plans_data:
   7 jours:
   - spec: 20GB
@@ -284,7 +281,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Validité : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Taïwan: Guide des Opérateurs & Carte'
+  title: 'Couverture eSIM Taïwan : Couverture en Ville et à la Campagne'
   supports_text: 'Supporte :'
   service_details:
     title: Détails du service
@@ -292,8 +289,8 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Couverture
-      desc: Profitez d'une couverture reseau complete dans toute Taïwan, y compris Taipei, Nouveau Taipei, Taichung, Kaohsiung.
-        Votre eSIM se connecte aux reseaux robustes de Chunghwa Telecom, FarEasTone, Taiwan Mobile.
+      desc: Profitez d'une couverture réseau complète à Taïwan, y compris Taipei, Nouveau Taipei, Taichung, Kaohsiung.
+        Votre eSIM se connecte aux réseaux robustes de Chunghwa Telecom, FarEasTone, Taiwan Mobile.
     - icon: zap
       color: text-amber-500
       title: Délai de livraison
@@ -303,7 +300,7 @@ network_coverage:
       title: Point d'accès
       desc: Aucune limite ou restriction de partage de connexion.
   carriers:
-    title: 'Chunghwa Telecom, FarEasTone & Taiwan Mobile: Operateurs eSIM Taïwan'
+    title: 'Chunghwa Telecom, FarEasTone & Taiwan Mobile : les opérateurs derrière votre eSIM'
     badge: Partenaire officiel
     items:
     - name: Chunghwa Telecom
@@ -316,19 +313,20 @@ network_coverage:
       coverage: Bonne couverture urbaine
       network: Réseau 5G/4G/LTE
 reminders:
-  title: 'Conseils eSIM Taïwan: Avant de Partir'
+  title: 'Conseils eSIM Taïwan : Conseils Pratiques de Voyage'
   items:
   - icon: 📱
-    html: Assurez-vous que votre téléphone est <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline
-      underline-offset-2 font-bold transition-colors">compatible eSIM</a> avant l'achat.
+    html: 'Avant de commander, <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> de votre appareil.'
   - icon: ✈️
-    html: Nous recommandons d'activer la ligne après votre arrivée à Taïwan.
+    html: "Il est préférable d'activer l'eSIM Taïwan après avoir atterri."
   - icon: ⏰
-    html: La validité commence à la connexion à un réseau pris en charge.
+    html: 'Le décompte démarre lors de votre première connexion sur le réseau hôte.'
   - icon: 📧
-    html: Le code QR sera envoyé à votre adresse e-mail.
+    html: 'Le code QR sera envoyé à votre adresse e-mail immédiatement après le paiement.'
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: 'Il est possible de conserver plusieurs eSIM sur le même téléphone.'
+  - icon: 📍
+    html: "Astuce : l'eSIM Taïwan couvre aussi Taipei comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Vous ne savez pas si votre téléphone prend en charge l''eSIM ? Vous pouvez le vérifier facilement vous-même dès
@@ -338,7 +336,7 @@ reminders:
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       apparaît à l'écran, votre appareil est compatible !
 activation_steps:
-  title: 'Activation eSIM Taïwan: 3 Etapes Simples'
+  title: 'Activation eSIM Taïwan : Activez en Quelques Minutes'
   steps:
   - num: '1'
     title: 'Étape 1 : Recevoir le code QR'
@@ -359,33 +357,33 @@ activation_steps:
       vous recommandons de vous connecter au Wi-Fi lors de l'activation initiale.
     is_list: false
 faq_section:
-  title: "eSIM Taïwan : la couverture réseau en question avec les vitesses en ville, campagne et route."
-  desc: "Vous partez à Taïwan? Découvrez tout sur l'eSIM Taïwan : vitesses 4G/5G réelles, couverture du réseau Chunghwa Telecom en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
+  title: 'eSIM Taïwan : installation, réseau et prix'
+  desc: "Tout sur l'eSIM Taïwan : guide du voyageur : connexion, couverture et conseils pratiques."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: "Guide de l eSIM pour les voyageurs en Taiwan"
+    title: 'Le dossier eSIM Taïwan'
 
     questions:
     - q: |
-        Est-ce que les VPN fonctionnent avec l eSIM Taiwan ou y a-t-il des restrictions?
+        Est-ce que les VPN fonctionnent avec l'eSIM Taïwan ou y a-t-il des restrictions?
       a: |
         Oui — Roami ne bloque pas les connexions VPN, ce qui permet de sécuriser vos échanges ou d'accéder à vos services habituels. Les vitesses avec VPN restent bonnes: 30-80 Mbps en 5G, 5-15 Mbps en 4G — suffisantes pour le télétravail et le streaming. Aucune restriction ni limitation de débit spécifique aux VPN n'est appliquée.
     - q: |
-            Peut-on recharger son forfait eSIM Taiwan depuis l etranger en cours de voyage?
+            Peut-on recharger son forfait eSIM Taïwan depuis l'étranger en cours de voyage?
 
       a: |
         Oui — la recharge se fait directement depuis l'application Roami, où que vous soyez. Le nouveau forfait est activé instantanément, sans nouveau QR code ni réinstallation. Nous recommandons de recharger lorsque vous atteignez 20% de données restantes. Roami vous envoie une notification à 70% et 90% de consommation.
     - q: |
-            Est-ce que le debit est reduit apres avoir consomme tout le forfait eSIM Taiwan ou suis-je coupe?
+            Est-ce que le débit est réduit après avoir consomme tout le forfait eSIM Taïwan ou suis-je coupe?
 
       a: |
-        Avec un forfait à volume fixe (5GB, 10GB), les données s'arrêtent automatiquement à la limite — pas de frais supplémentaires. Vous pouvez recharger instantanément depuis l'application Roami, sans changer de SIM ni installer un nouveau QR code. Avec le forfait illimité, le débit est réduit à 512 kbps après 30GB dans la journée, mais vous restez connecté pour la messagerie et la navigation.
+        Avec un forfait à volume fixe (1GB, 30GB), les données s'arrêtent automatiquement à la limite — pas de frais supplémentaires. Vous pouvez recharger instantanément depuis l'application Roami, sans changer de SIM ni installer un nouveau QR code. Avec le forfait illimité, le débit est réduit à 512 kbps après 30GB dans la journée, mais vous restez connecté pour la messagerie et la navigation.
     - q: |
-        Puis-je regarder des videos en streaming avec l eSIM Taiwan sans mise en buffer constante?
+        Puis-je regarder des vidéos en streaming avec l'eSIM Taïwan sans mise en buffer constante?
       a: |
-        Oui — le streaming passe par la connexion eSIM sans restriction. Netflix en HD consomme environ 1GB par heure, Spotify 50-100MB par heure. Avec un forfait 5GB ($9.99), vous pouvez regarder environ 5 heures de Netflix en HD ou écouter 50 heures de musique. Pour les gros consommateurs de streaming, le forfait illimité ($59.99) est plus adapté. Alternative: téléchargez vos contenus en WiFi avant de partir.
+        Oui — le streaming passe par la connexion eSIM sans restriction. Netflix en HD consomme environ 1GB par heure, Spotify 50-100MB par heure. Avec un forfait 5GB (5,99 $), vous pouvez regarder environ 5 heures de Netflix en HD ou écouter 50 heures de musique. Pour les gros consommateurs de streaming, le forfait illimité (9,99 $) est plus adapté. Alternative: téléchargez vos contenus en WiFi avant de partir.
     - q: |
         Puis-je garder ma carte SIM française tout en utilisant eSIM à Taïwan?
       a: |
@@ -393,17 +391,17 @@ faq_section:
     - q: |
         La qualité des appels vidéo est-elle bonne avec eSIM à Taïwan?
       a: |
-        Oui — le réseau de Chunghwa Telecom gère très bien les appels vidéo. Un appel Zoom de 30 minutes consomme environ 150-300MB. En 5G (100-300 Mbps), la qualité est parfaite pour le 4K. En 4G (10-30 Mbps), les appels vidéo restent fluides. Pour les voyageurs qui travaillent à distance, un forfait 10GB ($14.99) ou illimité ($59.99) est recommandé.
+        Oui — le réseau de Chunghwa Telecom gère très bien les appels vidéo. Un appel Zoom de 30 minutes consomme environ 150-300MB. En 5G (100-300 Mbps), la qualité est parfaite pour le 4K. En 4G (10-30 Mbps), les appels vidéo restent fluides. Pour les voyageurs qui travaillent à distance, un forfait 10GB (8,99 $) ou illimité (9,99 $) est recommandé.
     - q: |
         Combien de données un touriste utilise-t-il par jour à Taïwan?
       a: |
-        En moyenne, un touriste consomme 300-500MB par jour pour la navigation, la messagerie et les réseaux sociaux. Avec des appels vidéo ou du streaming, la consommation peut atteindre 1-2GB par jour. Pour une semaine, un forfait 5GB ($9.99) est généralement suffisant. Pour deux semaines, prévoyez 10GB ($14.99).
+        En moyenne, un touriste consomme 300-500MB par jour pour la navigation, la messagerie et les réseaux sociaux. Avec des appels vidéo ou du streaming, la consommation peut atteindre 1-2GB par jour. Pour une semaine, un forfait 5GB (5,99 $) couvre largement vos besoins. Pour deux semaines, prévoyez 10GB (8,99 $).
     - q: |
         Puis-je recevoir les SMS de vérification bancaire avec eSIM Taïwan?
       a: |
         Oui — conservez votre carte SIM française dans le slot 1 pour recevoir les SMS (codes 2FA, validation bancaire). Les frais de réception de SMS à l'étranger sont d'environ $0.50 par message, bien moins que les données en itinérance. L'eSIM en slot 2 gère toutes les données. Cette configuration dual-SIM est supportée par 80% des téléphones depuis 2020.
 related_products:
-  title: Forfaits eSIM similaires
+  title: 'Destinations eSIM associées'
   items:
   - name: eSIM États-Unis
     flag: img/flags/us.svg
@@ -422,7 +420,7 @@ related_products:
     slug: europe-esim
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: À partir de 1,99 $
+    price: 'À partir de 3,99 $'
     is_highlight: false
     slug: canada-esim
   - name: eSIM Turquie
@@ -466,8 +464,8 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'eSIM Taïwan vs SIM prépayée : comparaison des vitesses, couverture et prix'
-  subtitle: Cartes SIM prépayées locales taïwanaises vs solutions eSIM (référence 2024/2025)
+  title: 'eSIM Taïwan ou carte SIM prépayée : simplicité contre prix bas'
+  subtitle: "Tarifs et couverture : SIM locale face à l'eSIM pour Taïwan"
   citation:
     text: 'Source des données : Prepaid Data SIM Card Wiki (Taïwan) + Sites des opérateurs locaux'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Taiwan
@@ -479,7 +477,7 @@ market_analysis:
   - icon: store
     title: Acquisition &<br>Activation
     prepaid_title: ''
-    prepaid_desc: Les SIM touristiques d'aéroport de Chunghwa Telecom, Taiwan Mobile et FarEasTone nécessitent un achat en
+    prepaid_desc: Les SIM touristiques d'aéroport de Chunghwa Telecom, Taïwan Mobile et FarEasTone nécessitent un achat en
       personne aux kiosques d'aéroport ou en magasin en ville ; la vérification du passeport prend 10 à 15 minutes.
     esim_title: Livraison numérique instantanée
     esim_desc: Évitez les files d'attente aux kiosques d'aéroport et les visites en magasin. Activez votre eSIM Roami en ligne
@@ -491,17 +489,17 @@ market_analysis:
       exiger une deuxième pièce d'identité (ex. permis de conduire) et un formulaire, avec un niveau d'anglais limité parmi
       le personnel.
     esim_title: Aucun passeport requis
-    esim_desc: Contrairement à Chunghwa Telecom, Taiwan Mobile et FarEasTone qui exigent un enregistrement avec passeport
+    esim_desc: Contrairement à Chunghwa Telecom, Taïwan Mobile et FarEasTone qui exigent un enregistrement avec passeport
       (et parfois une deuxième pièce d'identité), l'eSIM Roami ne nécessite aucune identification personnelle — il suffit
       de télécharger et de se connecter.
   - icon: globe
     title: Itinérance<br>internationale
     prepaid_title: ''
-    prepaid_desc: Taiwan Mobile est le seul opérateur proposant une itinérance internationale prépayée, mais nécessite l'achat
+    prepaid_desc: Taïwan Mobile est le seul opérateur proposant une itinérance internationale prépayée, mais nécessite l'achat
       d'un forfait d'itinérance dédié (par ex. forfait 5 jours Chine NT$199 pour 3Go haut débit, puis illimité à 128kbps)
       et une activation avant le départ.
     esim_title: Prêt pour l'itinérance mondiale
-    esim_desc: L'itinérance prépayée de Taiwan Mobile nécessite l'achat préalable d'un forfait dédié (ex. forfait 5 jours
+    esim_desc: L'itinérance prépayée de Taïwan Mobile nécessite l'achat préalable d'un forfait dédié (ex. forfait 5 jours
       Chine NT$199 pour 3Go haut débit) et une activation avant le départ. L'eSIM Roami offre une itinérance transparente
       dans plus de 100 pays sans étapes supplémentaires.
   - icon: calendar-xmark
@@ -512,7 +510,7 @@ market_analysis:
       SIM d'aéroport ne peuvent pas être rechargées ni prolongées.
     esim_title: Forfaits courts flexibles
     esim_desc: Contrairement au cycle de 30 jours de Chunghwa Telecom (NT$1000 pour données illimitées) qui gaspille 77% de
-      la valeur pour un voyage de 7 jours, Roami propose des forfaits 7 jours à partir de 1,99$/Go, vous faisant économiser
+      la valeur pour un voyage de 7 jours, Roami propose des forfaits 7 jours à partir de 1,99 $, vous faisant économiser
       de l'argent.
   - icon: wifi
     title: Politiques de point d'accès<br>et de vitesse
@@ -552,7 +550,7 @@ market_analysis:
       icon_bg: bg-rose-100
       icon_color: text-rose-600
       title: Évitez l'itinérance internationale limitée
-      desc: <b>Taiwan Mobile</b> est le seul opérateur avec itinérance prépayée, mais nécessite l'achat préalable d'un forfait
+      desc: <b>Taïwan Mobile</b> est le seul opérateur avec itinérance prépayée, mais nécessite l'achat préalable d'un forfait
         dédié (ex. forfait 5 jours Chine <b>NT$199</b> pour <b>3Go</b> haut débit, puis illimité <b>128kbps</b>) et une activation
         avant le départ. L'eSIM Roami offre une itinérance mondiale dans plus de 100 pays sans étapes supplémentaires.
     - icon: globe

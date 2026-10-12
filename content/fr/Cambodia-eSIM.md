@@ -1,15 +1,15 @@
 ---
-title: 'Forfait eSIM Cambodge 2026: Opérateurs & Couverture | Roami'
-date: '2026-06-24T00:00:00+00:00'
+title: 'Forfait eSIM Cambodge 2026 : Voyage & Réseau | Roami'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Cambodge
-  scenario_keywords: visites touristiques, voyage d'affaires, vacances plage, découverte culturelle, travail à distance
+  scenario_keywords: 'croisière, congrès et salons, navigation, road trip, séjour balnéaire'
   operators: Cellcard, Smart Axiata, Metfone
   competitors: Airalo, Holafly, Nomad, Ubigi, BNESIM
   main_cities: Phnom Penh, Siem Reap, Sihanoukville, Battambang, Kampot
-  main_packages: 3/7/15/30 jours, données illimitées
+  main_packages: '3/7/15/30 jours : option illimitée disponible'
 modal:
   title: Mise à jour du service !
   btn_text: Continuer
@@ -18,11 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: Cambodge eSIM | Acheter pas cher pour voyager
-  description: Commandez votre eSIM prepayee pour Cambodge sur Roami. Simple, rapide, et vous etes connecte avant meme d'arriver.
-    Couvre tout le pays.
-  keywords: eSIM Cambodge, forfait eSIM Cambodge, meilleure eSIM Cambodge, Cambodge data, Cellcard Cambodge, Smart Axiata
-    Cambodge, Metfone Cambodge, eSIM Phnom Penh, eSIM Siem Reap, eSIM Sihanoukville, internet mobile Cambodge, 5G Cambodge
+  title: 'Cambodge eSIM | Tarif clair, sans frais cachés'
+  description: 'eSIM Cambodge : tarifs clairs, activation rapide, aucun justificatif.'
+  keywords: 'eSIM Cambodge, forfait eSIM Cambodge, meilleure eSIM Cambodge, eSIM Cambodge pas cher, acheter eSIM Cambodge en ligne, données illimitées eSIM Cambodge, carte eSIM prépayée Cambodge, eSIM Cambodge pour voyageurs, prix eSIM Cambodge, activation eSIM Cambodge, couverture eSIM Cambodge, eSIM Cambodge 5G, eSIM Phnom Penh, eSIM Siem Reap'
 order_summary:
   title: Forfait sélectionné
   label_data: Volume de données
@@ -38,14 +36,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleure eSIM pour Cambodge
-  title: Meilleure eSIM pour Cambodge
+  title: 'La meilleure eSIM Cambodge'
 hero:
   flag_image: img/flags/kh.svg
   flag_alt: Drapeau Cambodge
-  title: 'eSIM Cambodge: Restez Connecté Partout'
-  subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Cambodge
+  title: 'eSIM Cambodge : Connectivité Sans Frontières'
+  subtitle: 'eSIM Cambodge - activable avant le départ, 5G rapide'
 features:
-  title: 'Pourquoi les voyageurs choisissent Roami pour Cambodge: Forfaits, Réseau & Support'
+  title: 'Pourquoi choisir Roami pour votre eSIM Cambodge : Données, Couverture & Prix'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Sélection auto
     desc: Connexion auto aux meilleurs opérateurs Cambodge pour le signal le plus fort
-plans_title: 'Acheter eSIM Cambodge: Forfaits pour Tout Voyage'
+plans_title: 'Acheter eSIM Cambodge : Formules en quelques clics'
 plans_data:
   30 jours:
   - spec: 20GB
@@ -281,7 +279,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Valable : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Cambodge: Guide des Opérateurs Mobiles'
+  title: 'Couverture eSIM Cambodge : Comparatif des Opérateurs Locaux'
   supports_text: 'Prend en charge :'
   service_details:
     title: Détails du service
@@ -289,8 +287,8 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Couverture
-      desc: Profitez d'une couverture reseau complete dans toute Cambodge, y compris Phnom Penh, Siem Reap, Sihanoukville,
-        Battambang. Votre eSIM se connecte aux reseaux robustes de Cellcard, Smart Axiata, Metfone.
+      desc: Profitez d'une couverture réseau complète au Cambodge, y compris Phnom Penh, Siem Reap, Sihanoukville,
+        Battambang. Votre eSIM se connecte aux réseaux robustes de Cellcard, Smart Axiata, Metfone.
     - icon: zap
       color: text-amber-500
       title: Délai de livraison
@@ -300,7 +298,7 @@ network_coverage:
       title: Point d'accès
       desc: Pas de restriction sur le point d'accès.
   carriers:
-    title: 'Cellcard, Smart Axiata & Metfone: Operateurs eSIM Cambodge'
+    title: 'Cellcard, Smart Axiata & Metfone : à quels réseaux vous connecter ?'
     badge: Partenaire officiel
     items:
     - name: Cellcard
@@ -310,19 +308,20 @@ network_coverage:
       coverage: 5G rapide en villes
       network: Réseau 5G/4G/LTE
 reminders:
-  title: 'Conseils eSIM Cambodge: Avant de Partir'
+  title: 'Conseils eSIM Cambodge : Bien Préparer Votre eSIM'
   items:
   - icon: 📱
-    html: Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
+    html: 'À retenir : <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.'
   - icon: ✈️
-    html: Nous recommandons d'activer l'eSIM uniquement après votre arrivée à Cambodge.
+    html: "Il est préférable d'activer l'eSIM Cambodge après avoir atterri."
   - icon: ⏰
-    html: La validité commence lors de la connexion au réseau partenaire.
+    html: 'La validité se déclenche dès votre première connexion au réseau partenaire.'
   - icon: 📧
-    html: Le code QR sera envoyé à votre adresse e-mail.
+    html: 'Le QR code vous sera transmis par e-mail en quelques minutes.'
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: 'Il est possible de garder deux eSIM ou plus simultanément.'
+  - icon: 📍
+    html: "Astuce : l'eSIM Cambodge couvre aussi Phnom Penh comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Pas sûr ? Vérifiez immédiatement sur votre téléphone :'
@@ -331,14 +330,14 @@ reminders:
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       s'affiche, l'eSIM est prise en charge !
 activation_steps:
-  title: 'Activation eSIM Cambodge: 3 Etapes Simples'
+  title: 'Activation eSIM Cambodge : 3 Étapes Vers la Connexion'
   steps:
   - num: '1'
     title: Recevez et conservez le code QR – préparez-vous pour Cambodge
     desc: Immédiatement après votre commande, vous recevrez un e-mail avec votre code QR d'activation personnel et des instructions.
       Conservez le code QR sur votre smartphone ou imprimez-le – vous n'avez pas besoin d'une connexion Internet active pour
       l'installation ultérieure. L'eSIM est valable 30 jours, vous pouvez donc la préparer tranquillement pour votre voyage
-      à Cambodge.
+      au Cambodge.
     is_list: false
   - num: '2'
     title: Installez l'eSIM sur votre appareil – scannez le code QR
@@ -353,13 +352,13 @@ activation_steps:
   - num: '3'
     title: Préparez-vous à la maison – testez sans risque
     desc: Après l'installation, vous pouvez laisser l'eSIM désactivée dans les réglages. Cependant, vous pouvez déjà la tester
-      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez à Cambodge, il vous
+      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez au Cambodge, il vous
       suffit d'activer l'eSIM – la validité commencera automatiquement lors de la première connexion au réseau Cellcard /
       Smart Axiata. Aucun frais caché d'activation, aucun frais d'itinérance.
     is_list: false
   - num: '4'
-    title: 'Arrivée à Cambodge : connexion instantanée 5G/4G'
-    desc: Dès que vous atterrissez à Cambodge (par exemple dans Aéroport international de Phnom Penh, Aéroport international
+    title: 'Arrivée au Cambodge : connexion instantanée 5G/4G'
+    desc: Dès que vous atterrissez au Cambodge (par exemple à l'aéroport international de Phnom Penh, Aéroport international
       de Siem Reap-Angkor, Aéroport international de Sihanoukville), désactivez le mode avion (ou restez dedans et activez
       uniquement l'eSIM). Allez dans **Réglages → Réseau cellulaire** et activez votre eSIM Roami pour Cambodge. En quelques
       secondes, votre appareil se connectera automatiquement au réseau 5G/4G le plus rapide disponible de Cellcard / Smart
@@ -367,23 +366,23 @@ activation_steps:
       d'autres appareils – sans attente, sans pièce d'identité, sans contrat.
     is_list: false
 faq_section:
-  title: "eSIM Cambodge pour voyager : quelle est la qualité du réseau 4G/5G? Guide des vitesses et couverture."
-  desc: "Vous partez à Cambodge? Découvrez tout sur l'eSIM Cambodge : vitesses 4G/5G réelles, couverture du réseau Cellcard en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
+  title: 'eSIM Cambodge : guide de connexion pour voyageurs'
+  desc: "Tout sur l'eSIM Cambodge : couverture en ville et à la campagne, et conseils pour une connexion sans souci."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: "Tout sur l eSIM pour Cambodge"
+    title: "Guide de l'eSIM Cambodge pour les voyageurs"
 
     questions:
     - q: |
-        Quel opérateur à Cambodge est le meilleur — Cellcard, Smart ou Metfone?
+        Quel opérateur au Cambodge est le meilleur — Cellcard, Smart ou Metfone?
       a: |
-        Cambodge a trois opérateurs. Cellcard atteint 95% de la population. Smart couvre mieux les zones rurales. Metfone est 15-20% moins cher. Roami choisit le meilleur réseau automatiquement.
+        Au Cambodge, il y a trois opérateurs. Cellcard atteint 95% de la population. Smart couvre mieux les zones rurales. Metfone est 15-20% moins cher. Roami choisit le meilleur réseau automatiquement.
     - q: |
         Combien coûte une eSIM pour Cambodge? Quels sont les tarifs?
       a: |
-        Roami propose des eSIM pour Cambodge à partir de $1.99 (7 jours, 1GB) jusqu'à $59.99 (30 jours, illimité). Le forfait le plus populaire est 5GB/15 jours à $9.99 — suffisant pour navigation, réseaux sociaux et messagerie. Le réseau 5G de Cellcard atteint 100-300 Mbps. Les tarifs Roami sont prépayés, sans frais cachés ni renouvellement automatique.
+        Roami propose des eSIM pour Cambodge à partir de 3,99 $ (3 jours, 1GB) jusqu'à 11,99 $ (3 jours, illimité). Le forfait le plus populaire est 20GB/7 jours (17,99 $) — suffisant pour navigation, réseaux sociaux et messagerie. Le réseau 5G de Cellcard atteint 100-300 Mbps. Les tarifs Roami sont prépayés, sans frais cachés ni renouvellement automatique.
     - q: |
         L'eSIM fonctionne-t-elle dans les zones rurales et montagneuses de Cambodge?
       a: |
@@ -393,15 +392,15 @@ faq_section:
       a: |
         Ouvrez simplement une page web ou l'application Roami. Si la page s'affiche, tout fonctionne. Vous pouvez aussi vérifier le nom de l'opérateur dans les réglages du téléphone. Si rien ne s'affiche après 2 minutes, activez l'itinérance des données ou redémarrez le téléphone. Dans 90% des cas, le problème est résolu en moins d'une minute.
     - q: |
-        Est-ce que la connexion eSIM Cambodia fonctionne dans les transports souterrains des grandes villes?
+        Est-ce que la connexion eSIM Cambodge fonctionne dans les transports souterrains des grandes villes?
       a: |
         Dans la plupart des grandes villes, les stations de métro sont équipées d'antennes 4G/5G avec des vitesses de 10-30 Mbps. Dans les tunnels, la connexion peut être interrompue pendant 10-30 secondes puis reprend automatiquement. Téléchargez vos itinéraires et cartes hors-ligne avant de prendre le métro pour plus de tranquillité.
     - q: |
-        Faut-il installer l eSIM Cambodia chez soi ou peut-on le faire depuis l aeroport de Cambodge?
+        Faut-il installer l'eSIM Cambodge chez soi ou peut-on le faire depuis l'aéroport de Cambodge?
       a: |
-        Avant le départ, sans exception. L'installation nécessite une connexion Internet, et le WiFi de l'aéroport demande souvent une vérification par SMS — un vrai piège si vous n'avez pas encore de réseau local. Le QR code arrive par email sous 5 minutes après l'achat. L'installation prend environ 2 minutes sur iPhone ou Android. À l'arrivée dans Cambodge, activez simplement l'itinérance des données. Vous serez connecté en moins de 60 secondes.
+        Avant le départ, sans exception. L'installation nécessite une connexion Internet, et le WiFi de l'aéroport demande souvent une vérification par SMS — un vrai piège si vous n'avez pas encore de réseau local. Le QR code arrive par email sous 5 minutes après l'achat. L'installation prend environ 2 minutes sur iPhone ou Android. À l'arrivée au Cambodge, activez simplement l'itinérance des données. Vous serez connecté en moins de 60 secondes.
     - q: |
-        Est-ce que je recois une alerte quand mon forfait eSIM Cambodia arrive a epuisement?
+        Est-ce que je reçois une alerte quand mon forfait eSIM Cambodge arrive à épuisement?
       a: |
         Oui — deux façons: directement dans les réglages du téléphone (Réglages > Données cellulaires > Utilisation des données) ou via le tableau de bord Roami. Roami envoie des notifications automatiques à 70% et 90% de consommation. En cas de besoin, vous pouvez recharger instantanément depuis l'application sans changer de SIM.
     - q: |
@@ -409,7 +408,7 @@ faq_section:
       a: |
         La plupart des téléphones modernes stockent 5 à 10 profils eSIM. Vous pouvez conserver votre eSIM Cambodge en parallèle de votre carte SIM française et de plusieurs autres profils internationaux. Le passage d'un profil à l'autre prend environ 10 secondes dans les réglages. Idéal pour les voyageurs multi-destinations.
 related_products:
-  title: Forfaits eSIM similaires
+  title: 'Autres pays en eSIM'
   items:
   - name: eSIM États-Unis
     flag: img/flags/us.svg
@@ -428,7 +427,7 @@ related_products:
     slug: europe-esim
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: À partir de 1,99 $
+    price: 'À partir de 3,99 $'
     is_highlight: false
     slug: canada-esim
   - name: eSIM Turquie
@@ -472,15 +471,15 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'eSIM pour les Cambodia contre carte SIM physique : comparaison de l''activation et de la configuration'
-  subtitle: Cartes SIM prépayées locales au Cambodge contre solutions eSIM (benchmark 2024/2025)
+  title: 'eSIM Cambodge ou carte SIM prépayée : avantages et limites de chaque option'
+  subtitle: 'Analyse 2024/2025 des forfaits SIM et eSIM pour Cambodge'
   citation:
-    text: 'Source des données : Prepaid Data SIM Card Wiki (Cambodia) + sites Web des opérateurs locaux'
+    text: 'Source des données : Prepaid Data SIM Card Wiki (Cambodge) + sites Web des opérateurs locaux'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Cambodia
   table_headers:
   - Matrice de comparaison
   - Carte SIM prépayée locale (données de marché)
-  - Roami eSIM pour Cambodia
+  - Roami eSIM pour Cambodge
   table_rows:
   - icon: store
     title: Acquisition et<br>activation
@@ -508,7 +507,7 @@ market_analysis:
     esim_title: Itinérance mondiale sans frais cachés
     esim_desc: Évitez les frais d'itinérance élevés de Metfone (1,25 $/jour pour 1 Go dégradé à 64 kbps) et de Smart (2 $/jour
       pour des données limitées). Roami eSIM offre une connectivité transparente au Cambodge, au Vietnam et en Thaïlande avec
-      des forfaits de données mondiaux à partir de 1,99 $/Go.
+      des forfaits de données mondiaux à partir de 3,99 $.
   - icon: calendar-xmark
     title: Cycle de facturation et<br>coûts perdus
     prepaid_title: ''
@@ -516,7 +515,7 @@ market_analysis:
       a un cycle de 28 jours à 4 $ pour 25 Go.
     esim_title: Forfaits flexibles sans perte
     esim_desc: Contrairement aux cycles rigides de Smart (7 jours à 3 $) ou de Cellcard (28 jours à 4 $), Roami propose des
-      forfaits de données de 7 jours à partir de 1,99 $/Go, parfaitement adaptés à la durée de votre voyage, sans payer pour
+      forfaits de données de 7 jours à partir de 3,99 $, parfaitement adaptés à la durée de votre voyage, sans payer pour
       des jours inutilisés.
   - icon: wifi
     title: Partage de connexion et<br>politique de vitesse
@@ -541,7 +540,7 @@ market_analysis:
     esim_desc: Bénéficiez d'une assistance en ligne 24h/24 et 7j/7 en français et en anglais, contrairement aux opérateurs
       locaux dont le support est souvent limité aux horaires de bureau et en khmer.
   expert_verdict:
-    title: 'eSIM pour les Cambodia : la solution ultime plus intelligente et économique pour voyager sans stress'
+    title: 'eSIM Cambodge : la solution ultime plus intelligente et économique pour voyager sans stress'
     cards:
     - icon: hourglass-empty
       icon_bg: bg-amber-100
@@ -549,7 +548,7 @@ market_analysis:
       title: Forfaits flexibles adaptés à votre séjour
       desc: Smart Traveller SIM impose des forfaits de <b>7 jours à 3 $</b> ou <b>15 jours à 5 $</b>, même pour un séjour
         de 5 jours. Cellcard Serey+ a un cycle de <b>28 jours à 4 $</b>. Roami eSIM propose des forfaits de <b>7 jours à partir
-        de 1,99 $/Go</b>, vous permettant de ne payer que pour les données dont vous avez besoin.
+        de 4,99 $</b>, vous permettant de ne payer que pour les données dont vous avez besoin.
     - icon: shield
       icon_bg: bg-sky-100
       icon_color: text-sky-600

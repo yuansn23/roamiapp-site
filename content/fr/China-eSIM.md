@@ -1,15 +1,15 @@
 ---
-title: 'Forfait eSIM Chine 2026: Opérateurs Locaux | Roami'
-date: '2026-06-24T00:00:00+00:00'
+title: 'eSIM Chine 2026 : Forfaits et Vitesse | Roami'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Chine
-  scenario_keywords: visites touristiques, voyage d'affaires, escapade urbaine, exploration culturelle, shopping
+  scenario_keywords: 'séjour longue durée, voyage sac au dos, vacances en famille, circuit touristique, pèlerinage'
   operators: China Mobile, China Unicom, China Telecom
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Pékin, Shanghai, Canton, Shenzhen, Chengdu
-  main_packages: 3/7/15/30 jours, données illimitées
+  main_packages: 'Durées 3/7/15/30 jours : forfaits GB au choix'
 modal:
   title: Mise à jour du service !
   btn_text: Continuer
@@ -18,11 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: Chine eSIM | Voyager pas cher, données illimitées
-  description: Preparez votre voyage a Chine avec Roami. Notre eSIM vous accompagne partout pour un voyage sans accroc. Couvre
-    Pékin, Shanghai & les grandes villes.
-  keywords: eSIM Chine, forfait eSIM Chine, meilleure eSIM Chine, Chine data, China Mobile Chine, China Unicom Chine, China
-    Telecom Chine, eSIM Pékin, eSIM Shanghai, eSIM Canton, internet mobile Chine, 5G Chine
+  title: 'Chine eSIM | Achat simple et rapide'
+  description: "eSIM Chine : achetez votre eSIM en ligne, activez dès l'arrivée."
+  keywords: 'eSIM Chine, forfait eSIM Chine, meilleure eSIM Chine, eSIM Chine pas cher, acheter eSIM Chine en ligne, forfaits data eSIM Chine, carte eSIM prépayée Chine, eSIM Chine pour voyageurs, prix eSIM Chine, activation eSIM Chine, couverture eSIM Chine, eSIM Chine 5G, eSIM Pékin, eSIM Shanghai'
 order_summary:
   title: Forfait sélectionné
   label_data: Volume de données
@@ -38,14 +36,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleure eSIM pour Chine
-  title: Meilleure eSIM pour Chine
+  title: 'eSIM Chine 5G Immédiate'
 hero:
   flag_image: img/flags/cn.svg
   flag_alt: Drapeau Chine
-  title: 'eSIM Chine: 5G Rapide pour Chaque Destination'
-  subtitle: Meilleure eSIM prépayée pour Chine - 5G rapide, activation instantanée, support 24/7
+  title: 'eSIM Chine : Données Mobiles Sans Souci'
+  subtitle: 'eSIM Chine - données 5G à prix léger, prête en 5 minutes'
 features:
-  title: 'Pourquoi les voyageurs choisissent Roami pour Chine: Vitesse, Couverture & Support'
+  title: 'Pourquoi choisir Roami pour votre eSIM Chine : Support, Réseau & Prix'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Sélection auto
     desc: Connexion auto aux meilleurs opérateurs Chine pour le signal le plus fort
-plans_title: 'Acheter eSIM Chine: Forfaits pour Tout Voyage'
+plans_title: 'Acheter eSIM Chine : Formules pour un voyage sans souci'
 plans_data:
   30 jours:
   - spec: 20GB
@@ -249,7 +247,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Valable : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Chine: Guide Complet des Réseaux Locaux'
+  title: 'Couverture eSIM Chine : Guide Réseau Complet'
   supports_text: 'Prend en charge :'
   service_details:
     title: Détails du service
@@ -257,8 +255,8 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Couverture
-      desc: Profitez d'une couverture reseau complete dans toute Chine, y compris Pékin, Shanghai, Canton, Shenzhen. Votre
-        eSIM se connecte aux reseaux robustes de China Mobile, China Unicom, China Telecom.
+      desc: Profitez d'une couverture réseau complète en Chine, y compris Pékin, Shanghai, Canton, Shenzhen. Votre
+        eSIM se connecte aux réseaux robustes de China Mobile, China Unicom, China Telecom.
     - icon: zap
       color: text-amber-500
       title: Délai de livraison
@@ -268,7 +266,7 @@ network_coverage:
       title: Point d'accès
       desc: Pas de restriction sur le point d'accès.
   carriers:
-    title: 'China Mobile, China Unicom & China Telecom: Operateurs eSIM Chine'
+    title: 'China Mobile, China Unicom & China Telecom : le réseau derrière votre eSIM'
     badge: Partenaire officiel
     items:
     - name: China Mobile
@@ -278,19 +276,20 @@ network_coverage:
       coverage: 5G rapide en villes
       network: Réseau 5G/4G/LTE
 reminders:
-  title: 'Conseils eSIM Chine: Avant de Partir'
+  title: 'Conseils eSIM Chine : Installation Sereine'
   items:
   - icon: 📱
-    html: Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
+    html: 'Avant d''acheter, <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> sur votre téléphone.'
   - icon: ✈️
-    html: Nous recommandons d'activer l'eSIM uniquement après votre arrivée à Chine.
+    html: "Il est préférable d'activer l'eSIM Chine après avoir atterri."
   - icon: ⏰
-    html: La validité commence lors de la connexion au réseau partenaire.
+    html: 'Le décompte commence au moment de la connexion au réseau local.'
   - icon: 📧
-    html: Le code QR sera envoyé à votre adresse e-mail.
+    html: "Le code QR arrive par courriel dès l'achat."
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: "Il est possible de stocker d'autres profils eSIM en parallèle."
+  - icon: 📍
+    html: "Astuce : l'eSIM Chine couvre aussi Pékin comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Pas sûr ? Vérifiez immédiatement sur votre téléphone :'
@@ -299,14 +298,14 @@ reminders:
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       s'affiche, l'eSIM est prise en charge !
 activation_steps:
-  title: 'Activation eSIM Chine: 3 Etapes Simples'
+  title: 'Activation eSIM Chine : Comment ça Marche'
   steps:
   - num: '1'
     title: Recevez et conservez le code QR – préparez-vous pour Chine
     desc: Immédiatement après votre commande, vous recevrez un e-mail avec votre code QR d'activation personnel et des instructions.
       Conservez le code QR sur votre smartphone ou imprimez-le – vous n'avez pas besoin d'une connexion Internet active pour
       l'installation ultérieure. L'eSIM est valable 30 jours, vous pouvez donc la préparer tranquillement pour votre voyage
-      à Chine.
+      en Chine.
     is_list: false
   - num: '2'
     title: Installez l'eSIM sur votre appareil – scannez le code QR
@@ -321,13 +320,13 @@ activation_steps:
   - num: '3'
     title: Préparez-vous à la maison – testez sans risque
     desc: Après l'installation, vous pouvez laisser l'eSIM désactivée dans les réglages. Cependant, vous pouvez déjà la tester
-      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez à Chine, il vous suffit
+      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez en Chine, il vous suffit
       d'activer l'eSIM – la validité commencera automatiquement lors de la première connexion au réseau China Mobile / China
       Unicom. Aucun frais caché d'activation, aucun frais d'itinérance.
     is_list: false
   - num: '4'
-    title: 'Arrivée à Chine : connexion instantanée 5G/4G'
-    desc: Dès que vous atterrissez à Chine (par exemple dans Aéroport international de Pékin (PEK), Aéroport international
+    title: 'Arrivée en Chine : connexion instantanée 5G/4G'
+    desc: Dès que vous atterrissez en Chine (par exemple à l'aéroport international de Pékin (PEK), Aéroport international
       de Shanghai Pudong (PVG), Aéroport international de Canton Baiyun (CAN)), désactivez le mode avion (ou restez dedans
       et activez uniquement l'eSIM). Allez dans **Réglages → Réseau cellulaire** et activez votre eSIM Roami pour Chine. En
       quelques secondes, votre appareil se connectera automatiquement au réseau 5G/4G le plus rapide disponible de China Mobile
@@ -335,51 +334,50 @@ activation_steps:
       avec d'autres appareils – sans attente, sans pièce d'identité, sans contrat.
     is_list: false
 faq_section:
-  title: "eSIM Chine : Guide pour touristes avec donnees illimitees et couverture"
-  desc: "Repondez a vos questions sur l eSIM pour Chine. Informations sur l installation, la compatibilite avec votre telephone, les operateurs disponibles et les forfaits pour touristes.'eSIM Chine : vitesses 4G/5G réelles, couverture du réseau China Mobile en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
+  title: 'eSIM Chine : le guide pratique du voyageur'
+  desc: "Tout sur l'eSIM Chine : le guide des voyageurs connectés : réseau, tarifs et activation."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: "Guide de l eSIM pour les voyageurs en Chine"
+    title: 'Le guide eSIM Chine du voyageur'
 
     questions:
     - q: |
-            Le forfait de donnees illimité pour Chine est-il
+            Quel est le forfait eSIM le plus adapté pour Chine ?
+      a: |
+        Les forfaits Roami sont à volume fixe : les données s'arrêtent à la limite du forfait, sans réduction de débit. Les voyageurs utilisent en moyenne 500MB-3GB/jour. Un forfait 10GB (7,99 $) convient selon l'usage. La Chine utilise la 5G sur bandes n41/n78/n79. Certains Un forfait 5GB (5,99 $) suffit pour une semaine.
+    - q: |
+            Quel est le forfait de données eSIM le moins cher
 
       a: |
-        Après 30GB/jour, le débit passe à 512 kbps. Les voyageurs utilisent en moyenne 500MB-3GB/jour. Un forfait 10GB ($14.99) ou illimité ($59.99) convient selon l'usage. La Chine utilise la 5G sur bandes n41/n78/n79. Certains Un forfait 5GB ($9.99) suffit pour une semaine.
+        Le forfait le moins cher est à 1,99 $ (7 jours, 1GB). La plupart choisissent 20GB/7 jours (15,99 $). Évitez les kiosques d'aéroport qui sont 30-50% plus chers.
     - q: |
-            Quel est le forfait de donnees eSIM le moins cher
-
+        Y a-t-il une garantie si l'eSIM Chine ne fonctionne pas des le premier jour du voyage?
       a: |
-        Le forfait le moins cher commence à $1.99. La plupart choisissent 5GB/15 jours ($9.99). Évitez les kiosques d'aéroport qui sont 30-50% plus chers.
+        Trois vérifications simples, chacune prenant moins de 30 secondes: 1) L'itinérance des données est-elle activée dans les réglages? 2) Essayez une sélection manuelle du réseau: choisissez Chine Mobile dans la liste. 3) Redémarrez votre téléphone. Environ 90% des problèmes se résolvent avec l'une de ces étapes. Si le problème persiste, le support Roami est disponible 24h/7j par chat.
     - q: |
-        Y a-t-il une garantie si l eSIM China ne fonctionne pas des le premier jour du voyage?
+        Comment faire pour avoir internet dès l'arrivée en Chine sans chercher une carte SIM locale?
       a: |
-        Trois vérifications simples, chacune prenant moins de 30 secondes: 1) L'itinérance des données est-elle activée dans les réglages? 2) Essayez une sélection manuelle du réseau: choisissez China Mobile dans la liste. 3) Redémarrez votre téléphone. Environ 90% des problèmes se résolvent avec l'une de ces étapes. Si le problème persiste, le support Roami est disponible 24h/7j par chat.
+        Avec Roami, tout se fait en ligne à partir de 1,99 $: recevez le QR code par email en 5 minutes, installez en 2 minutes. Pas de file d'attente à l'aéroport, pas de passeport à présenter, pas de carte SIM à insérer. Votre numéro français reste actif pour les SMS, et vous êtes connecté dès l'arrivée en activant l'itinérance.
     - q: |
-        Comment faire pour avoir internet des l arrivee en Chine sans chercher une carte SIM locale?
-      a: |
-        L'eSIM Roami est la solution la plus simple: achetez en ligne à partir de $1.99, recevez le QR code par email en 5 minutes, installez en 2 minutes. Pas de file d'attente à l'aéroport, pas de passeport à présenter, pas de carte SIM à insérer. Votre numéro français reste actif pour les SMS, et vous êtes connecté dès l'arrivée en activant l'itinérance.
-    - q: |
-        Est-ce que je recois une alerte quand mon forfait eSIM China arrive a epuisement?
+        Est-ce que je reçois une alerte quand mon forfait eSIM Chine arrive à épuisement?
       a: |
         Oui — deux façons: directement dans les réglages du téléphone (Réglages > Données cellulaires > Utilisation des données) ou via le tableau de bord Roami. Roami envoie des notifications automatiques à 70% et 90% de consommation. En cas de besoin, vous pouvez recharger instantanément depuis l'application sans changer de SIM.
     - q: |
-        Puis-je garder ma carte SIM physique tout en utilisant l eSIM China pour les donnees mobiles?
+        Puis-je garder ma carte SIM physique tout en utilisant l'eSIM Chine pour les données mobiles?
       a: |
         Pas du tout — votre carte SIM reste en place dans le slot 1. L'eSIM fonctionne en parallèle dans le slot 2. Vous pouvez ainsi utiliser votre numéro français pour les appels et SMS, et l'eSIM pour les données. Cette configuration permet d'économiser 30-50% par rapport à une carte SIM d'aéroport, tout en conservant vos services habituels.
     - q: |
-        Le prix de l eSIM China comprend-il tout ou y a-t-il des couts additionnels a prevoir?
+        Le prix de l'eSIM Chine comprend-il tout ou y a-t-il des coûts additionnels à prévoir?
       a: |
-        Non — le prix affiché est le prix final, sans aucune taxe ajoutée ni frais de dossier. Les forfaits commencent à $1.99 (7 jours, 1GB). Le forfait 5GB ($9.99) n'a pas de surprise. Pas de renouvellement automatique, pas de frais d'activation: le forfait s'arrête simplement à la date d'expiration.
+        Non — le prix affiché est le prix final, sans aucune taxe ajoutée ni frais de dossier. Les forfaits démarrent à 1,99 $ (7 jours, 1GB). Le forfait 5GB (5,99 $) ne réserve aucune mauvaise surprise. Pas de renouvellement automatique, pas de frais d'activation: le forfait s'arrête simplement à la date d'expiration.
     - q: |
         Quel est le forfait eSIM le plus choisi par les voyageurs se rendant en Chine?
       a: |
-        Le 5GB/15 jours ($9.99) est le plus populaire — il suffit pour la navigation GPS, les réseaux sociaux et la messagerie quotidienne. Pour les voyageurs qui regardent des vidéos ou travaillent à distance, le forfait 10GB ($14.99) offre plus de marge. Le forfait illimité ($59.99) est idéal pour le partage de connexion ou les longs séjours.
+        Le 20GB/7 jours (15,99 $) est le plus populaire — il suffit pour la navigation GPS, les réseaux sociaux et la messagerie quotidienne. Pour les voyageurs qui regardent des vidéos ou travaillent à distance, le forfait 10GB (7,99 $) offre plus de marge. Le forfait 50GB est idéal pour le partage de connexion ou les longs séjours.
 related_products:
-  title: Forfaits eSIM similaires
+  title: 'Forfaits eSIM complémentaires'
   items:
   - name: eSIM États-Unis
     flag: img/flags/us.svg
@@ -398,7 +396,7 @@ related_products:
     slug: europe-esim
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: À partir de 1,99 $
+    price: 'À partir de 3,99 $'
     is_highlight: false
     slug: canada-esim
   - name: eSIM Turquie
@@ -442,15 +440,15 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'eSIM pour les China contre carte SIM physique : quelle est la meilleure pour voyager ?'
-  subtitle: Cartes SIM prépayées locales en Chine contre solutions eSIM (benchmark 2024/2025)
+  title: "eSIM Chine ou carte SIM prépayée : faut-il passer à l'eSIM ?"
+  subtitle: 'Cartes SIM sur place ou eSIM : que choisir pour Chine ? (2024/2025)'
   citation:
-    text: 'Source des données : Prepaid Data SIM Card Wiki (China) + sites Web des opérateurs locaux'
+    text: 'Source des données : Prepaid Data SIM Card Wiki (Chine) + sites Web des opérateurs locaux'
     url: https://prepaid-data-sim-card.fandom.com/wiki/China
   table_headers:
   - Matrice de comparaison
   - Carte SIM prépayée locale (données de marché)
-  - Roami eSIM pour China
+  - Roami eSIM pour Chine
   table_rows:
   - icon: store
     title: Acquisition et<br>activation
@@ -459,12 +457,12 @@ market_analysis:
       un passeport et une preuve d'hébergement, et de passer une vérification par reconnaissance faciale. Les boutiques d'aéroport
       facturent des prix plus élevés.
     esim_title: Activation instantanée en ligne
-    esim_desc: Évitez les files d'attente dans les boutiques China Mobile. Activez votre eSIM en ligne en une minute après
+    esim_desc: Évitez les files d'attente dans les boutiques Chine Mobile. Activez votre eSIM en ligne en une minute après
       votre atterrissage à Pékin, sans avoir à chercher une boutique ou à montrer votre passeport.
   - icon: id-card
     title: KYC et enregistrement<br>par passeport
     prepaid_title: ''
-    prepaid_desc: Tous les opérateurs chinois (China Mobile, China Unicom, China Telecom) exigent un enregistrement de passeport
+    prepaid_desc: Tous les opérateurs chinois (Chine Mobile, China Unicom, China Telecom) exigent un enregistrement de passeport
       avec reconnaissance faciale obligatoire depuis 2019.
     esim_title: Sans passeport ni reconnaissance faciale
     esim_desc: Contournez l'obligation de reconnaissance faciale et d'enregistrement de passeport imposée par China Unicom
@@ -472,20 +470,20 @@ market_analysis:
   - icon: globe
     title: Itinérance<br>internationale
     prepaid_title: ''
-    prepaid_desc: Les forfaits prépayés de China Mobile et China Unicom n'incluent aucun volume de données en itinérance internationale
+    prepaid_desc: Les forfaits prépayés de Chine Mobile et China Unicom n'incluent aucun volume de données en itinérance internationale
       ; sortir de Chine entraîne une coupure réseau ou des frais d'itinérance élevés.
     esim_title: Itinérance mondiale incluse
-    esim_desc: Contrairement aux forfaits China Mobile qui n'offrent aucune donnée en itinérance, Roami eSIM vous permet de
+    esim_desc: Contrairement aux forfaits Chine Mobile qui n'offrent aucune donnée en itinérance, Roami eSIM vous permet de
       rester connecté lors de vos déplacements vers Hong Kong, Macao ou d'autres pays, sans frais supplémentaires.
   - icon: calendar-xmark
     title: Cycle de facturation et<br>coûts perdus
     prepaid_title: ''
-    prepaid_desc: 'China Mobile et China Unicom facturent sur un cycle de mois calendaire : un forfait à 129 RMB pour 30 Go
+    prepaid_desc: 'Chine Mobile et China Unicom facturent sur un cycle de mois calendaire : un forfait à 129 RMB pour 30 Go
       acheté le 25 juillet est réinitialisé le 1er août, entraînant une perte de plus de 60 % de la valeur pour un séjour
       de 7 jours.'
     esim_title: Forfaits flexibles sans perte
     esim_desc: Fini le cycle de mois calendaire de China Unicom (129 RMB pour 30 Go, perte de 60 % pour un séjour de 7 jours).
-      Roami propose des forfaits de 7 jours à partir de 1,99 $/Go, vous ne payez que pour ce que vous utilisez.
+      Roami propose des forfaits de 7 jours à partir de 1,99 $, vous ne payez que pour ce que vous utilisez.
   - icon: wifi
     title: Partage de connexion et<br>politique de vitesse
     prepaid_title: ''
@@ -501,7 +499,7 @@ market_analysis:
       ne sont pas acceptées pour le premier paiement.
     esim_title: Paiement global accepté
     esim_desc: Payez avec Visa, Mastercard, AMEX, Apple Pay, Google Pay ou PayPal. Plus besoin d'espèces ou de carte UnionPay
-      pour le premier rechargement, comme exigé par China Mobile.
+      pour le premier rechargement, comme exigé par Chine Mobile.
   - icon: headset
     title: Support client
     prepaid_title: ''
@@ -511,7 +509,7 @@ market_analysis:
     esim_desc: Bénéficiez d'une assistance en anglais et en français 24 heures sur 24, contrairement au support en chinois
       uniquement des opérateurs locaux. Résolvez vos problèmes rapidement.
   expert_verdict:
-    title: 'eSIM pour les China : la solution ultime pour une connectivité sans stress et économique'
+    title: 'eSIM Chine : la solution ultime pour une connectivité sans stress et économique'
     cards:
     - icon: shield
       icon_bg: bg-sky-100
@@ -524,9 +522,9 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Évitez les pertes liées au cycle mensuel
-      desc: Les forfaits China Mobile et China Unicom sont facturés par <b>mois calendaire</b>. Un forfait à 129 RMB acheté
+      desc: Les forfaits Chine Mobile et China Unicom sont facturés par <b>mois calendaire</b>. Un forfait à 129 RMB acheté
         le 25 juillet est réinitialisé le 1er août, soit <b>60 % de perte</b> pour un séjour de 7 jours. Roami propose des
-        forfaits de 7 jours à partir de 1,99 $/Go.
+        forfaits de 7 jours à partir de 1,99 $.
     - icon: clock
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600

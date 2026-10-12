@@ -1,16 +1,15 @@
 ---
-title: 'Forfait eSIM Portugal 2026: Opérateurs & Couverture | Roami'
-date: '2026-06-24T00:00:00+00:00'
+title: 'Forfait eSIM Portugal 2026 : Opérateurs & Couverture | Roami'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Portugal
-  scenario_keywords: tourisme Portugal, voyage d'affaires Portugal, vacances Portugal, road trip Portugal, séjour linguistique
-    Portugal
+  scenario_keywords: 'congrès et salons, navigation, road trip, séjour balnéaire, gastronomie'
   operators: NOS, MEO, Vodafone
   competitors: Airalo, Holafly, Nomad, Ubigi, Airalo
   main_cities: Lisbonne, Porto, Faro, Coimbra, Braga
-  main_packages: 3/7/15/30 jours, données illimitées
+  main_packages: 'Formules 3/7/15/30 jours, data illimitée au choix'
 modal:
   title: Mise à jour du service !
   btn_text: Continuer
@@ -19,11 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: Portugal eSIM | Acheter prépayé, activation immédiate
-  description: L'eSIM Roami pour Portugal inclut des donnees illimitees. Ideal pour les voyageurs qui veulent rester en ligne
-    sans stress. Couvre tout le pays.
-  keywords: eSIM Portugal, forfait eSIM Portugal, meilleure eSIM Portugal, Portugal data, NOS Portugal, MEO Portugal, Vodafone
-    Portugal, eSIM Lisbonne, eSIM Porto, eSIM Faro, internet mobile Portugal, 5G Portugal
+  title: 'Portugal eSIM | Forfaits flexibles à petit prix'
+  description: 'eSIM Portugal : forfaits data simples, prix mini, activation par QR.'
+  keywords: 'eSIM Portugal, forfait eSIM Portugal, meilleure eSIM Portugal, eSIM Portugal pas cher, acheter eSIM Portugal en ligne, données illimitées eSIM Portugal, carte eSIM prépayée Portugal, eSIM Portugal pour voyageurs, prix eSIM Portugal, activation eSIM Portugal, couverture eSIM Portugal, eSIM Portugal avec numéro de téléphone, eSIM Lisbonne, eSIM Porto'
 order_summary:
   title: Forfait sélectionné
   label_data: Volume de données
@@ -39,14 +36,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleure eSIM pour Portugal
-  title: Meilleure eSIM pour Portugal
+  title: 'eSIM Portugal Livrée par E-mail'
 hero:
   flag_image: img/flags/pt.svg
   flag_alt: Drapeau Portugal
-  title: 'eSIM Portugal: Restez Connecté Partout'
-  subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Portugal
+  title: 'eSIM Portugal : Forfaits Data pour Voyageurs'
+  subtitle: 'eSIM Portugal - données 5G, livraison par e-mail, sans frais cachés'
 features:
-  title: 'Pourquoi les voyageurs choisissent Roami pour Portugal: Forfaits, Réseau & Support'
+  title: 'Ce que Roami apporte à votre eSIM Portugal : Vitesse, Forfaits & Couverture'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -72,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Sélection auto
     desc: Connexion auto aux meilleurs opérateurs Portugal pour le signal le plus fort
-plans_title: 'Acheter eSIM Portugal: Forfaits pour Tout Voyage'
+plans_title: 'Acheter une eSIM Portugal : Offres sans frais cachés'
 plans_data:
   30 jours:
   - spec: 20GB
@@ -306,7 +303,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Valable : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Portugal: Guide des Opérateurs Mobiles'
+  title: 'Couverture eSIM Portugal : Guide des Opérateurs & Carte'
   supports_text: 'Prend en charge :'
   service_details:
     title: Détails du service
@@ -314,8 +311,8 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Couverture
-      desc: Profitez d'une couverture reseau complete dans toute Portugal, y compris Lisbonne, Porto, Faro, Coimbra. Votre
-        eSIM se connecte aux reseaux robustes de NOS, MEO, Vodafone.
+      desc: Profitez d'une couverture réseau complète au Portugal, y compris Lisbonne, Porto, Faro, Coimbra. Votre
+        eSIM se connecte aux réseaux robustes de NOS, MEO, Vodafone.
     - icon: zap
       color: text-amber-500
       title: Délai de livraison
@@ -325,7 +322,7 @@ network_coverage:
       title: Point d'accès
       desc: Pas de restriction sur le point d'accès.
   carriers:
-    title: 'NOS, MEO & Vodafone: Operateurs eSIM Portugal'
+    title: 'NOS, MEO & Vodafone : opérateurs locaux et eSIM'
     badge: Partenaire officiel
     items:
     - name: NOS
@@ -335,19 +332,20 @@ network_coverage:
       coverage: 5G rapide en villes
       network: Réseau 5G/4G/LTE
 reminders:
-  title: 'Conseils eSIM Portugal: Avant de Partir'
+  title: "Conseils eSIM Portugal : L'Essentiel Avant de Partir"
   items:
   - icon: 📱
-    html: Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
+    html: 'Pensez-y : <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> de votre appareil.'
   - icon: ✈️
-    html: Nous recommandons d'activer l'eSIM uniquement après votre arrivée à Portugal.
+    html: "Il est préférable d'activer l'eSIM Portugal après avoir atterri."
   - icon: ⏰
-    html: La validité commence lors de la connexion au réseau partenaire.
+    html: 'Le décompte commence au moment de votre première connexion au réseau partenaire.'
   - icon: 📧
-    html: Le code QR sera envoyé à votre adresse e-mail.
+    html: 'Le code QR arrive par courriel en quelques minutes.'
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: "Il est possible d'installer d'autres profils eSIM simultanément."
+  - icon: 📍
+    html: "Astuce : l'eSIM Portugal couvre aussi Lisbonne comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Pas sûr ? Vérifiez immédiatement sur votre téléphone :'
@@ -356,14 +354,14 @@ reminders:
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       s'affiche, l'eSIM est prise en charge !
 activation_steps:
-  title: 'Activation eSIM Portugal: 3 Etapes Simples'
+  title: 'Activation eSIM Portugal : Guide Pas à Pas'
   steps:
   - num: '1'
     title: Recevez et conservez le code QR – préparez-vous pour Portugal
     desc: Immédiatement après votre commande, vous recevrez un e-mail avec votre code QR d'activation personnel et des instructions.
       Conservez le code QR sur votre smartphone ou imprimez-le – vous n'avez pas besoin d'une connexion Internet active pour
       l'installation ultérieure. L'eSIM est valable 30 jours, vous pouvez donc la préparer tranquillement pour votre voyage
-      à Portugal.
+      au Portugal.
     is_list: false
   - num: '2'
     title: Installez l'eSIM sur votre appareil – scannez le code QR
@@ -378,13 +376,13 @@ activation_steps:
   - num: '3'
     title: Préparez-vous à la maison – testez sans risque
     desc: Après l'installation, vous pouvez laisser l'eSIM désactivée dans les réglages. Cependant, vous pouvez déjà la tester
-      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez à Portugal, il vous
+      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez au Portugal, il vous
       suffit d'activer l'eSIM – la validité commencera automatiquement lors de la première connexion au réseau NOS / MEO.
       Aucun frais caché d'activation, aucun frais d'itinérance.
     is_list: false
   - num: '4'
-    title: 'Arrivée à Portugal : connexion instantanée 5G/4G'
-    desc: Dès que vous atterrissez à Portugal (par exemple dans Aéroport de Lisbonne-Humberto Delgado, Aéroport de Porto-Francisco
+    title: 'Arrivée au Portugal : connexion instantanée 5G/4G'
+    desc: Dès que vous atterrissez au Portugal (par exemple à l'aéroport de Lisbonne-Humberto Delgado, Aéroport de Porto-Francisco
       Sá Carneiro, Aéroport de Faro), désactivez le mode avion (ou restez dedans et activez uniquement l'eSIM). Allez dans
       **Réglages → Réseau cellulaire** et activez votre eSIM Roami pour Portugal. En quelques secondes, votre appareil se
       connectera automatiquement au réseau 5G/4G le plus rapide disponible de NOS / MEO. Vous pourrez immédiatement utiliser
@@ -392,13 +390,13 @@ activation_steps:
       d'identité, sans contrat.
     is_list: false
 faq_section:
-  title: "L eSIM Portugal est-elle fiable? Test de vitesse, couverture et qualité de connexion pour les touristes."
-  desc: "Vous partez à Portugal? Découvrez tout sur l'eSIM Portugal : vitesses 4G/5G réelles, couverture du réseau MEO en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
+  title: 'eSIM Portugal : questions des voyageurs'
+  desc: "Tout sur l'eSIM Portugal : les réponses claires aux questions des voyageurs sur la connexion mobile."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: "Tout sur l eSIM pour Portugal"
+    title: "Questions & réponses sur l'eSIM Portugal"
 
     questions:
     - q: |
@@ -410,17 +408,17 @@ faq_section:
       a: |
         Ouvrez simplement une page web ou l'application Roami. Si la page s'affiche, tout fonctionne. Vous pouvez aussi vérifier le nom de l'opérateur dans les réglages du téléphone. Si rien ne s'affiche après 2 minutes, activez l'itinérance des données ou redémarrez le téléphone. Dans 90% des cas, le problème est résolu en moins d'une minute.
     - q: |
-        Puis-je garder ma carte SIM française tout en utilisant eSIM à Portugal?
+        Puis-je garder ma carte SIM française tout en utilisant eSIM au Portugal?
       a: |
         Oui — c'est même l'un des principaux avantages de l'eSIM. Votre carte SIM reste dans le slot 1 pour recevoir les SMS (codes bancaires, validation 2FA). L'eSIM gère toutes les données dans le slot 2. Désactivez simplement l'itinérance des données sur votre SIM française pour éviter des frais pouvant atteindre $10-15 par MB.
     - q: |
-        Peut-on utiliser WhatsApp, Messenger et FaceTime sans probleme avec l eSIM Portugal?
+        Peut-on utiliser WhatsApp, Messenger et FaceTime sans problème avec l'eSIM Portugal?
       a: |
-        Avec un forfait à volume fixe (5GB, 10GB), les données s'arrêtent automatiquement à la limite — pas de frais supplémentaires. Vous pouvez recharger instantanément depuis l'application Roami, sans changer de SIM ni installer un nouveau QR code. Avec le forfait illimité, le débit est réduit à 512 kbps après 30GB dans la journée, mais vous restez connecté pour la messagerie et la navigation.
+        Avec un forfait à volume fixe (1GB, 100GB), les données s'arrêtent automatiquement à la limite — pas de frais supplémentaires. Vous pouvez recharger instantanément depuis l'application Roami, sans changer de SIM ni installer un nouveau QR code. Avec le forfait illimité, le débit est réduit à 512 kbps après 30GB dans la journée, mais vous restez connecté pour la messagerie et la navigation.
     - q: |
-        La qualité des appels vidéo est-elle bonne avec eSIM à Portugal?
+        La qualité des appels vidéo est-elle bonne avec eSIM au Portugal?
       a: |
-        Oui — le réseau de MEO gère très bien les appels vidéo. Un appel Zoom de 30 minutes consomme environ 150-300MB. En 5G (100-300 Mbps), la qualité est parfaite pour le 4K. En 4G (10-30 Mbps), les appels vidéo restent fluides. Pour les voyageurs qui travaillent à distance, un forfait 10GB ($14.99) ou illimité ($59.99) est recommandé.
+        Oui — le réseau de MEO gère très bien les appels vidéo. Un appel Zoom de 30 minutes consomme environ 150-300MB. En 5G (100-300 Mbps), la qualité est parfaite pour le 4K. En 4G (10-30 Mbps), les appels vidéo restent fluides. Pour les voyageurs qui travaillent à distance, un forfait 10GB (8,99 $) ou illimité (9,99 $) est recommandé.
     - q: |
         Les cartes SIM vendues à l'aéroport de Portugal sont-elles moins chères?
       a: |
@@ -430,11 +428,11 @@ faq_section:
       a: |
         Dans la plupart des grandes villes, les stations de métro sont équipées d'antennes 4G/5G avec des vitesses de 10-30 Mbps. Dans les tunnels, la connexion peut être interrompue pendant 10-30 secondes puis reprend automatiquement. Téléchargez vos itinéraires et cartes hors-ligne avant de prendre le métro pour plus de tranquillité.
     - q: |
-        Y a-t-il une garantie si l eSIM Portugal ne fonctionne pas des le premier jour du voyage?
+        Y a-t-il une garantie si l'eSIM Portugal ne fonctionne pas des le premier jour du voyage?
       a: |
         Trois vérifications simples, chacune prenant moins de 30 secondes: 1) L'itinérance des données est-elle activée dans les réglages? 2) Essayez une sélection manuelle du réseau: choisissez MEO dans la liste. 3) Redémarrez votre téléphone. Environ 90% des problèmes se résolvent avec l'une de ces étapes. Si le problème persiste, le support Roami est disponible 24h/7j par chat.
 related_products:
-  title: Forfaits eSIM similaires
+  title: 'Forfaits eSIM recommandés'
   items:
   - name: eSIM États-Unis
     flag: img/flags/us.svg
@@ -453,7 +451,7 @@ related_products:
     slug: europe-esim
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: À partir de 1,99 $
+    price: 'À partir de 3,99 $'
     is_highlight: false
     slug: canada-esim
   - name: eSIM Turquie
@@ -497,8 +495,8 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'eSIM pour les Portugal par rapport aux cartes SIM prépayées : ce qu''il faut savoir'
-  subtitle: Cartes SIM prépayées locales en Portugal contre solutions eSIM (benchmark 2024/2025)
+  title: 'eSIM Portugal ou carte SIM prépayée : laquelle vous convient le mieux ?'
+  subtitle: 'Comparatif des cartes SIM locales et des eSIM pour Portugal (données 2024/2025)'
   citation:
     text: 'Source des données : Prepaid Data SIM Card Wiki (Portugal) + sites Web des opérateurs locaux'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Portugal
@@ -538,7 +536,7 @@ market_analysis:
       inconvénients tels qu'une vérification d'identité stricte ou un itinérance limitée.
     esim_title: Forfaits flexibles sans perte
     esim_desc: Contrairement au cycle de 28 jours de Vodafone (€20/5GB) ou au forfait 15 jours de MEO (€14.99/30GB), Roami
-      propose des forfaits de 7 jours à partir de 1,99 $/Go, économisant jusqu'à 75 % de pertes.
+      propose des forfaits de 7 jours à partir de 1,99 $, économisant jusqu'à 75 % de pertes.
   - icon: wifi
     title: Partage de connexion et<br>politique de vitesse
     prepaid_title: ''
@@ -563,7 +561,7 @@ market_analysis:
     esim_desc: Contrairement aux opérateurs locaux sans support en anglais, Roami offre une assistance multilingue 24h/24
       et 7j/7 par chat en direct.
   expert_verdict:
-    title: 'eSIM pour les Portugal : la solution plus intelligente et économique face aux prépayées locales'
+    title: 'eSIM Portugal : la solution plus intelligente et économique face aux prépayées locales'
     cards:
     - icon: tower-observation
       icon_bg: bg-rose-100

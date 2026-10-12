@@ -1,15 +1,15 @@
 ---
-title: 'Forfait eSIM Jordanie 2026: Guide Complet | Roami'
-date: '2026-06-24T00:00:00+00:00'
+title: 'Forfait eSIM Jordanie 2026 : Données & Vitesse | Roami'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Jordanie
-  scenario_keywords: visites touristiques, voyage d'affaires, vacances en famille, trekking et nature, séjour culturel
+  scenario_keywords: 'visite de musées, tour des villes, escapade urbaine, voyage en couple, plongée sous-marine'
   operators: Orange, Zain, Umniah
   competitors: Airalo, Holafly, Nomad, Ubigi, eSIM Plus
   main_cities: Amman, Aqaba, Petra, Irbid
-  main_packages: 3/7/15/30 jours, données illimitées
+  main_packages: 'Offres 3/7/15/30 jours - data illimitée au choix'
 modal:
   title: Mise à jour du service !
   btn_text: Continuer
@@ -18,11 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: 'eSIM Jordanie : 5G sans engagement ni frais cachés'
-  description: Comparez les forfaits eSIM Jordanie avec la 5G à Amman, Aqaba, Petra. Guide de couverture Orange & Zain & Umniah.
-    Activation QR instantanee des $1.99.
-  keywords: eSIM Jordanie, forfait eSIM Jordanie, meilleure eSIM Jordanie, Jordanie data, Orange Jordanie, Zain Jordanie,
-    Umniah Jordanie, eSIM Amman, eSIM Aqaba, eSIM Petra, internet mobile Jordanie, 5G Jordanie
+  title: 'Jordanie eSIM | eSIM prépayée à prix mini'
+  description: 'eSIM Jordanie : votre eSIM prête en 5 minutes, à prix réduit.'
+  keywords: 'eSIM Jordanie, forfait eSIM Jordanie, meilleure eSIM Jordanie, eSIM Jordanie pas cher, acheter eSIM Jordanie en ligne, données illimitées eSIM Jordanie, carte eSIM prépayée Jordanie, eSIM Jordanie pour voyageurs, prix eSIM Jordanie, activation eSIM Jordanie, couverture eSIM Jordanie, eSIM Jordanie 5G, eSIM Amman, eSIM Aqaba'
 order_summary:
   title: Forfait sélectionné
   label_data: Volume de données
@@ -38,14 +36,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleure eSIM pour Jordanie
-  title: Meilleure eSIM pour Jordanie
+  title: 'eSIM Jordanie Sans Contrat'
 hero:
   flag_image: img/flags/jo.svg
   flag_alt: Drapeau Jordanie
-  title: 'eSIM Jordanie: 5G Rapide pour Chaque Destination'
-  subtitle: Meilleure eSIM prépayée pour Jordanie - 5G rapide, activation instantanée, support 24/7
+  title: 'eSIM Jordanie : Le Réseau qui Suit Vos Voyages'
+  subtitle: "eSIM Jordanie - forfait data simple, prêt à l'emploi"
 features:
-  title: 'Pourquoi les voyageurs choisissent Roami pour Jordanie: Vitesse, Couverture & Support'
+  title: 'Pourquoi choisir Roami pour votre eSIM Jordanie : Couverture, Vitesse & Service'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Sélection auto
     desc: Connexion auto aux meilleurs opérateurs Jordanie pour le signal le plus fort
-plans_title: 'Acheter eSIM Jordanie: Forfaits pour Tout Voyage'
+plans_title: 'Acheter une eSIM Jordanie : Forfaits livrés instantanément'
 plans_data:
   7 jours:
   - spec: 1GB
@@ -217,7 +215,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Valable : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Jordanie: Guide Complet des Réseaux Locaux'
+  title: 'Couverture eSIM Jordanie : Guide du Réseau Mobile'
   supports_text: 'Prend en charge :'
   service_details:
     title: Détails du service
@@ -225,8 +223,8 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Couverture
-      desc: Profitez d'une couverture reseau complete dans toute Jordanie, y compris Amman, Aqaba, Petra, Irbid. Votre eSIM
-        se connecte aux reseaux robustes de Orange, Zain, Umniah.
+      desc: Profitez d'une couverture réseau complète en Jordanie, y compris Amman, Aqaba, Petra, Irbid. Votre eSIM
+        se connecte aux réseaux robustes de Orange, Zain, Umniah.
     - icon: zap
       color: text-amber-500
       title: Délai de livraison
@@ -236,7 +234,7 @@ network_coverage:
       title: Point d'accès
       desc: Pas de restriction sur le point d'accès.
   carriers:
-    title: 'Orange, Zain & Umniah: Operateurs eSIM Jordanie'
+    title: 'Orange, Zain & Umniah : à qui vous connecter sur place'
     badge: Partenaire officiel
     items:
     - name: Orange
@@ -246,19 +244,20 @@ network_coverage:
       coverage: 5G rapide en villes
       network: Réseau 5G/4G/LTE
 reminders:
-  title: 'Conseils eSIM Jordanie: Avant de Partir'
+  title: 'Conseils eSIM Jordanie : Les Points à Retenir'
   items:
   - icon: 📱
-    html: Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
+    html: 'À retenir : <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> sur votre téléphone.'
   - icon: ✈️
-    html: Nous recommandons d'activer l'eSIM uniquement après votre arrivée à Jordanie.
+    html: "Il est préférable d'activer l'eSIM Jordanie après avoir atterri."
   - icon: ⏰
-    html: La validité commence lors de la connexion au réseau partenaire.
+    html: 'Votre forfait démarre lors de votre première connexion sur le réseau hôte.'
   - icon: 📧
-    html: Le code QR sera envoyé à votre adresse e-mail.
+    html: 'Votre code QR sera envoyé à votre adresse e-mail immédiatement après le paiement.'
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: 'Vous avez la possibilité de stocker plusieurs eSIM sur le même téléphone.'
+  - icon: 📍
+    html: "Astuce : l'eSIM Jordanie couvre aussi Amman comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Pas sûr ? Vérifiez immédiatement sur votre téléphone :'
@@ -267,14 +266,14 @@ reminders:
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       s'affiche, l'eSIM est prise en charge !
 activation_steps:
-  title: 'Activation eSIM Jordanie: 3 Etapes Simples'
+  title: "Activation eSIM Jordanie : Guide d'Installation Facile"
   steps:
   - num: '1'
     title: Recevez et conservez le code QR – préparez-vous pour Jordanie
     desc: Immédiatement après votre commande, vous recevrez un e-mail avec votre code QR d'activation personnel et des instructions.
       Conservez le code QR sur votre smartphone ou imprimez-le – vous n'avez pas besoin d'une connexion Internet active pour
       l'installation ultérieure. L'eSIM est valable 30 jours, vous pouvez donc la préparer tranquillement pour votre voyage
-      à Jordanie.
+      en Jordanie.
     is_list: false
   - num: '2'
     title: Installez l'eSIM sur votre appareil – scannez le code QR
@@ -289,13 +288,13 @@ activation_steps:
   - num: '3'
     title: Préparez-vous à la maison – testez sans risque
     desc: Après l'installation, vous pouvez laisser l'eSIM désactivée dans les réglages. Cependant, vous pouvez déjà la tester
-      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez à Jordanie, il vous
+      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez en Jordanie, il vous
       suffit d'activer l'eSIM – la validité commencera automatiquement lors de la première connexion au réseau Orange / Zain.
       Aucun frais caché d'activation, aucun frais d'itinérance.
     is_list: false
   - num: '4'
-    title: 'Arrivée à Jordanie : connexion instantanée 5G/4G'
-    desc: Dès que vous atterrissez à Jordanie (par exemple dans Aéroport international Queen Alia (Amman), Aéroport international
+    title: 'Arrivée en Jordanie : connexion instantanée 5G/4G'
+    desc: Dès que vous atterrissez en Jordanie (par exemple à l'aéroport international Queen Alia (Amman), Aéroport international
       King Hussein (Aqaba), Aéroport civil d'Amman), désactivez le mode avion (ou restez dedans et activez uniquement l'eSIM).
       Allez dans **Réglages → Réseau cellulaire** et activez votre eSIM Roami pour Jordanie. En quelques secondes, votre appareil
       se connectera automatiquement au réseau 5G/4G le plus rapide disponible de Orange / Zain. Vous pourrez immédiatement
@@ -303,13 +302,13 @@ activation_steps:
       sans pièce d'identité, sans contrat.
     is_list: false
 faq_section:
-  title: "Jordanie eSIM 5G et 4G : à quelle vitesse peut-on vraiment surfer? Guide complet de la couverture."
-  desc: "Vous partez à Jordanie? Découvrez tout sur l'eSIM Jordanie : vitesses 4G/5G réelles, couverture du réseau Zain en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
+  title: 'eSIM Jordanie : questions fréquentes et réponses'
+  desc: "Tout sur l'eSIM Jordanie : opérateurs, vitesse et activation : tout ce qu'il faut savoir avant de partir."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: "Tout sur l eSIM pour Jordanie"
+    title: "Tout ce qu'il faut savoir sur l'eSIM Jordanie"
 
     questions:
     - q: |
@@ -317,24 +316,24 @@ faq_section:
       a: |
         Non — elles sont généralement 30-50% plus chères que l'eSIM Roami, sans compter le temps d'attente aux kiosques. À l'aéroport, vous devez faire la queue, présenter votre passeport et parfois fournir une adresse locale. Avec Roami, vous achetez en ligne en 2 minutes, le QR code arrive par email, et vous gardez votre SIM française active.
     - q: |
-            Est-ce que le debit est reduit apres avoir consomme tout le forfait eSIM Jordan ou suis-je coupe?
+            Est-ce que le débit est réduit après avoir consomme tout le forfait eSIM Jordanie ou suis-je coupe?
 
       a: |
-        Avec un forfait à volume fixe (5GB, 10GB), les données s'arrêtent automatiquement à la limite — pas de frais supplémentaires. Vous pouvez recharger instantanément depuis l'application Roami, sans changer de SIM ni installer un nouveau QR code. Avec le forfait illimité, le débit est réduit à 512 kbps après 30GB dans la journée, mais vous restez connecté pour la messagerie et la navigation.
+        Avec un forfait à volume fixe (1GB, 20GB), les données s'arrêtent automatiquement à la limite — pas de frais supplémentaires. Vous pouvez recharger instantanément depuis l'application Roami, sans changer de SIM ni installer un nouveau QR code. Avec le forfait illimité, le débit est réduit à 512 kbps après 30GB dans la journée, mais vous restez connecté pour la messagerie et la navigation.
     - q: |
-        Les connexions VPN sont-elles autorisees avec l eSIM Jordan sans limitation de debit?
+        Les connexions VPN sont-elles autorisées avec l'eSIM Jordanie sans limitation de débit?
       a: |
         Oui — Roami ne bloque pas les connexions VPN, ce qui permet de sécuriser vos échanges ou d'accéder à vos services habituels. Les vitesses avec VPN restent bonnes: 30-80 Mbps en 5G, 5-15 Mbps en 4G — suffisantes pour le télétravail et le streaming. Aucune restriction ni limitation de débit spécifique aux VPN n'est appliquée.
     - q: |
-        Peut-on recharger son forfait eSIM Jordan depuis l etranger en cours de voyage?
+        Peut-on recharger son forfait eSIM Jordanie depuis l'étranger en cours de voyage?
       a: |
         Oui — la recharge se fait directement depuis l'application Roami, où que vous soyez. Le nouveau forfait est activé instantanément, sans nouveau QR code ni réinstallation. Nous recommandons de recharger lorsque vous atteignez 20% de données restantes. Roami vous envoie une notification à 70% et 90% de consommation.
     - q: |
         Quand commence la période de validité de mon eSIM Jordanie?
       a: |
-        La validité commence au moment où vous vous connectez au réseau dans Jordanie, pas à l'achat ni à l'installation. Vous pouvez donc acheter et installer votre eSIM jusqu'à 30 jours avant votre départ sans perdre un seul jour de validité. Un forfait 7 jours vous donne 7 jours complets à partir de la première connexion. Pratique pour les départs anticipés ou les retards de vol.
+        La validité commence au moment où vous vous connectez au réseau en Jordanie, pas à l'achat ni à l'installation. Vous pouvez donc acheter et installer votre eSIM jusqu'à 30 jours avant votre départ sans perdre un seul jour de validité. Un forfait 7 jours vous donne 7 jours complets à partir de la première connexion. Pratique pour les départs anticipés ou les retards de vol.
     - q: |
-        Est-ce que la connexion eSIM Jordan fonctionne dans les transports souterrains des grandes villes?
+        Est-ce que la connexion eSIM Jordanie fonctionne dans les transports souterrains des grandes villes?
       a: |
         Dans la plupart des grandes villes, les stations de métro sont équipées d'antennes 4G/5G avec des vitesses de 10-30 Mbps. Dans les tunnels, la connexion peut être interrompue pendant 10-30 secondes puis reprend automatiquement. Téléchargez vos itinéraires et cartes hors-ligne avant de prendre le métro pour plus de tranquillité.
     - q: |
@@ -342,11 +341,11 @@ faq_section:
       a: |
         Oui — la connexion eSIM est chiffrée de bout en bout, contrairement au WiFi public des hôtels et cafés qui peut être intercepté. Les applications bancaires, PayPal et les cartes de crédit fonctionnent parfaitement sur la connexion 4G/5G de l'eSIM. Pour les opérations sensibles, l'eSIM est nettement plus sûre que le WiFi public, et tout aussi pratique.
     - q: |
-        Est-ce que l eSIM Jordan est moins chere qu un Pocket WiFi pour un sejour de 2 semaines?
+        Est-ce que l'eSIM Jordanie est moins chère qu'un Pocket WiFi pour un séjour de 2 semaines?
       a: |
-        L'eSIM est plus pratique: pas d'appareil supplémentaire à transporter ou à recharger, pas de caution à payer. La location d'un pocket WiFi coûte $3-8 par jour plus une caution, et la batterie tient 6-10 heures. Roami eSIM commence à $1.99 par jour, fonctionne directement dans votre téléphone et ne nécessite pas de recharge séparée. Les deux permettent le partage de connexion.
+        L'eSIM est plus pratique: pas d'appareil supplémentaire à transporter ou à recharger, pas de caution à payer. La location d'un pocket WiFi coûte $3-8 par jour plus une caution, et la batterie tient 6-10 heures. Roami eSIM commence à 6,99 $ (7 jours, 1GB), fonctionne directement dans votre téléphone et ne nécessite pas de recharge séparée. Les deux permettent le partage de connexion.
 related_products:
-  title: Forfaits eSIM similaires
+  title: 'Forfaits eSIM à comparer'
   items:
   - name: eSIM États-Unis
     flag: img/flags/us.svg
@@ -365,7 +364,7 @@ related_products:
     slug: europe-esim
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: À partir de 1,99 $
+    price: 'À partir de 3,99 $'
     is_highlight: false
     slug: canada-esim
   - name: eSIM Turquie
@@ -409,15 +408,15 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'eSIM pour les Jordan contre carte SIM physique : quelle est la vraie différence ?'
-  subtitle: Cartes SIM prépayées locales en Jordanie contre solutions eSIM (benchmark 2024/2025)
+  title: 'eSIM Jordanie ou carte SIM prépayée : simplicité contre prix bas'
+  subtitle: "Tarifs et couverture : SIM locale face à l'eSIM pour Jordanie"
   citation:
-    text: 'Source des données : Prepaid Data SIM Card Wiki (Jordan) + sites Web des opérateurs locaux'
+    text: 'Source des données : Prepaid Data SIM Card Wiki (Jordanie) + sites Web des opérateurs locaux'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Jordan
   table_headers:
   - Matrice de comparaison
   - Carte SIM prépayée locale (données de marché)
-  - Roami eSIM pour Jordan
+  - Roami eSIM pour Jordanie
   table_rows:
   - icon: store
     title: Acquisition et<br>activation
@@ -452,7 +451,7 @@ market_analysis:
       valeur.
     esim_title: Forfaits flexibles par jour
     esim_desc: Fini les cycles rigides de 30 jours de Zain (10 JOD pour 2 Go) ou Orange (85 JOD pour un forfait touristique).
-      Roami propose des forfaits de données de 7 jours à partir de 1,99 $/Go, économisant jusqu'à 80 % sur les coûts perdus.
+      Roami propose des forfaits de données de 7 jours à partir de 6,99 $, économisant jusqu'à 80 % sur les coûts perdus.
   - icon: wifi
     title: Partage de connexion et<br>politique de vitesse
     prepaid_title: ''
@@ -478,7 +477,7 @@ market_analysis:
     esim_desc: Bénéficiez d'une assistance en français, anglais et arabe 24h/24 et 7j/7, contrairement aux horaires limités
       des opérateurs locaux.
   expert_verdict:
-    title: 'eSIM pour les Jordan contre carte SIM physique : comparaison de l''activation et de la configuration'
+    title: 'eSIM Jordanie contre carte SIM physique : comparaison de l''activation et de la configuration'
     cards:
     - icon: tower-observation
       icon_bg: bg-rose-100

@@ -1,15 +1,15 @@
 ---
-title: 'Forfait eSIM Pays-Bas 2026: Guide Complet | Roami'
-date: '2026-06-24T00:00:00+00:00'
+title: 'Forfait eSIM Pays-Bas 2026 : 5G & Forfaits | Roami'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Pays-Bas
-  scenario_keywords: voyage d'affaires, visites touristiques, séminaire, tourisme culturel, festival
+  scenario_keywords: 'gastronomie, découverte en famille, visite de musées, tour des villes, escapade urbaine'
   operators: KPN, Vodafone, T-Mobile
   competitors: Airalo, Holafly, Nomad, Ubigi, Flexiroam
   main_cities: Amsterdam, Rotterdam, La Haye, Utrecht, Eindhoven
-  main_packages: 3/7/15/30 jours, données illimitées
+  main_packages: 'Forfaits 3/7/15/30 jours : option illimitée disponible'
 modal:
   title: Mise à jour du service !
   btn_text: Continuer
@@ -18,11 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: Pays-Bas eSIM | Activation immédiate sans engagement
-  description: Vous voulez une eSIM pas chere pour Pays-Bas? Roami vous propose le prix le plus attractif du marche. Couvre
-    tout le pays.
-  keywords: eSIM Pays-Bas, forfait eSIM Pays-Bas, meilleure eSIM Pays-Bas, Pays-Bas data, KPN Pays-Bas, Vodafone Pays-Bas,
-    T-Mobile Pays-Bas, eSIM Amsterdam, eSIM Rotterdam, eSIM La Haye, internet mobile Pays-Bas, 5G Pays-Bas
+  title: 'Pays-Bas eSIM | Achat 100% en ligne'
+  description: "eSIM Pays-Bas : achetez en ligne, gardez votre numéro, activez à l'arrivée."
+  keywords: 'eSIM Pays-Bas, forfait eSIM Pays-Bas, meilleure eSIM Pays-Bas, eSIM Pays-Bas pas cher, acheter eSIM Pays-Bas en ligne, données illimitées eSIM Pays-Bas, carte eSIM prépayée Pays-Bas, eSIM Pays-Bas pour voyageurs, prix eSIM Pays-Bas, activation eSIM Pays-Bas, couverture eSIM Pays-Bas, eSIM Pays-Bas 5G, eSIM Amsterdam, eSIM Rotterdam'
 order_summary:
   title: Forfait sélectionné
   label_data: Volume de données
@@ -38,14 +36,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleure eSIM pour Pays-Bas
-  title: Meilleure eSIM pour Pays-Bas
+  title: 'eSIM Pays-Bas pour Voyageurs'
 hero:
   flag_image: img/flags/nl.svg
   flag_alt: Drapeau Pays-Bas
-  title: 'eSIM Pays-Bas: 5G Rapide pour Chaque Destination'
-  subtitle: Meilleure eSIM prépayée pour Pays-Bas - 5G rapide, activation instantanée, support 24/7
+  title: 'eSIM Pays-Bas : Une eSIM, Tout Votre Voyage'
+  subtitle: 'eSIM Pays-Bas - prépayé, sans engagement, prêt en 5 minutes'
 features:
-  title: 'Pourquoi les voyageurs choisissent Roami pour Pays-Bas: Vitesse, Couverture & Support'
+  title: "Pourquoi les voyageurs préfèrent l'eSIM Pays-Bas de Roami : Support, Réseau & Prix"
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Sélection auto
     desc: Connexion auto aux meilleurs opérateurs Pays-Bas pour le signal le plus fort
-plans_title: 'Acheter eSIM Pays-Bas: Forfaits pour Tout Voyage'
+plans_title: 'Acheter une eSIM Pays-Bas : Offres adaptés à votre séjour'
 plans_data:
   30 jours:
   - spec: 20GB
@@ -297,7 +295,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Valable : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Pays-Bas: Guide Complet des Réseaux Locaux'
+  title: 'Couverture eSIM Pays-Bas : Réseaux, Villes & Vitesse'
   supports_text: 'Prend en charge :'
   service_details:
     title: Détails du service
@@ -305,8 +303,8 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Couverture
-      desc: Profitez d'une couverture reseau complete dans toute Pays-Bas, y compris Amsterdam, Rotterdam, La Haye, Utrecht.
-        Votre eSIM se connecte aux reseaux robustes de KPN, Vodafone, T-Mobile.
+      desc: Profitez d'une couverture réseau complète aux Pays-Bas, y compris Amsterdam, Rotterdam, La Haye, Utrecht.
+        Votre eSIM se connecte aux réseaux robustes de KPN, Vodafone, T-Mobile.
     - icon: zap
       color: text-amber-500
       title: Délai de livraison
@@ -316,7 +314,7 @@ network_coverage:
       title: Point d'accès
       desc: Pas de restriction sur le point d'accès.
   carriers:
-    title: 'KPN, Vodafone & T-Mobile: Operateurs eSIM Pays-Bas'
+    title: 'KPN, Vodafone & T-Mobile : couverture et partenaires eSIM'
     badge: Partenaire officiel
     items:
     - name: KPN
@@ -326,19 +324,20 @@ network_coverage:
       coverage: 5G rapide en villes
       network: Réseau 5G/4G/LTE
 reminders:
-  title: 'Conseils eSIM Pays-Bas: Avant de Partir'
+  title: 'Conseils eSIM Pays-Bas : À Faire Avant le Vol'
   items:
   - icon: 📱
-    html: Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
+    html: 'Avant d''acheter, <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> de votre appareil.'
   - icon: ✈️
-    html: Nous recommandons d'activer l'eSIM uniquement après votre arrivée à Pays-Bas.
+    html: "Il est préférable d'activer l'eSIM Pays-Bas après avoir atterri."
   - icon: ⏰
-    html: La validité commence lors de la connexion au réseau partenaire.
+    html: 'La validité démarre lors de votre première connexion au réseau partenaire.'
   - icon: 📧
-    html: Le code QR sera envoyé à votre adresse e-mail.
+    html: 'Le QR code sera envoyé à votre adresse e-mail en quelques minutes.'
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: 'Vous pouvez de garder plusieurs eSIM simultanément.'
+  - icon: 📍
+    html: "Astuce : l'eSIM Pays-Bas couvre aussi Amsterdam comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Pas sûr ? Vérifiez immédiatement sur votre téléphone :'
@@ -347,14 +346,14 @@ reminders:
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       s'affiche, l'eSIM est prise en charge !
 activation_steps:
-  title: 'Activation eSIM Pays-Bas: 3 Etapes Simples'
+  title: 'Activation eSIM Pays-Bas : Pas-à-Pas Facile'
   steps:
   - num: '1'
     title: Recevez et conservez le code QR – préparez-vous pour Pays-Bas
     desc: Immédiatement après votre commande, vous recevrez un e-mail avec votre code QR d'activation personnel et des instructions.
       Conservez le code QR sur votre smartphone ou imprimez-le – vous n'avez pas besoin d'une connexion Internet active pour
       l'installation ultérieure. L'eSIM est valable 30 jours, vous pouvez donc la préparer tranquillement pour votre voyage
-      à Pays-Bas.
+      aux Pays-Bas.
     is_list: false
   - num: '2'
     title: Installez l'eSIM sur votre appareil – scannez le code QR
@@ -369,13 +368,13 @@ activation_steps:
   - num: '3'
     title: Préparez-vous à la maison – testez sans risque
     desc: Après l'installation, vous pouvez laisser l'eSIM désactivée dans les réglages. Cependant, vous pouvez déjà la tester
-      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez à Pays-Bas, il vous
+      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez aux Pays-Bas, il vous
       suffit d'activer l'eSIM – la validité commencera automatiquement lors de la première connexion au réseau KPN / Vodafone.
       Aucun frais caché d'activation, aucun frais d'itinérance.
     is_list: false
   - num: '4'
-    title: 'Arrivée à Pays-Bas : connexion instantanée 5G/4G'
-    desc: Dès que vous atterrissez à Pays-Bas (par exemple dans Aéroport d'Amsterdam-Schiphol, Aéroport de Rotterdam La Haye,
+    title: 'Arrivée aux Pays-Bas : connexion instantanée 5G/4G'
+    desc: Dès que vous atterrissez aux Pays-Bas (par exemple à l'aéroport d'Amsterdam-Schiphol, Aéroport de Rotterdam La Haye,
       Aéroport d'Eindhoven), désactivez le mode avion (ou restez dedans et activez uniquement l'eSIM). Allez dans **Réglages
       → Réseau cellulaire** et activez votre eSIM Roami pour Pays-Bas. En quelques secondes, votre appareil se connectera
       automatiquement au réseau 5G/4G le plus rapide disponible de KPN / Vodafone. Vous pourrez immédiatement utiliser la
@@ -383,49 +382,49 @@ activation_steps:
       d'identité, sans contrat.
     is_list: false
 faq_section:
-  title: "Pays-Bas eSIM : ce que les voyageurs doivent savoir sur la vitesse de connexion et la couverture."
-  desc: "Vous partez à Pays-Bas? Découvrez tout sur l'eSIM Pays-Bas : vitesses 4G/5G réelles, couverture du réseau KPN en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
+  title: 'eSIM Pays-Bas : vitesse réelle, couverture et conseils'
+  desc: "Tout sur l'eSIM Pays-Bas : vitesse, couverture et conseils pratiques pour profiter d'Internet pendant le voyage."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: "Tout sur l eSIM pour Pays Bas"
+    title: "eSIM Pays-Bas : mode d'emploi"
 
     questions:
     - q: |
-        Puis-je garder ma carte SIM française tout en utilisant eSIM à Pays-Bas?
+        Puis-je garder ma carte SIM française tout en utilisant eSIM aux Pays-Bas?
       a: |
         Oui — c'est même l'un des principaux avantages de l'eSIM. Votre carte SIM reste dans le slot 1 pour recevoir les SMS (codes bancaires, validation 2FA). L'eSIM gère toutes les données dans le slot 2. Désactivez simplement l'itinérance des données sur votre SIM française pour éviter des frais pouvant atteindre $10-15 par MB.
     - q: |
         Quelle est la différence entre un forfait 5GB et un forfait illimité pour Pays-Bas?
       a: |
-        Le forfait 5GB ($9.99) offre un volume de données fixe — suffisant pour environ 500 heures d'appels WhatsApp, 10 heures de vidéo ou une semaine de navigation normale. Le forfait illimité ($59.99) continue après 30GB mais le débit est réduit à 512 kbps. Pour la plupart des voyageurs (cartes, messagerie, photos), 5GB suffit. Pour le streaming intensif ou le partage de connexion, choisissez l'illimité.
+        Le forfait 5GB (5,99 $) offre un volume de données fixe — suffisant pour environ 500 heures d'appels WhatsApp, 10 heures de vidéo ou une semaine de navigation normale. Le forfait illimité (9,99 $) continue après 30GB mais le débit est réduit à 512 kbps. Pour la plupart des voyageurs (cartes, messagerie, photos), 5GB suffit. Pour le streaming intensif ou le partage de connexion, choisissez l'illimité.
     - q: |
         Quand commence la période de validité de mon eSIM Pays-Bas?
       a: |
-        La validité commence au moment où vous vous connectez au réseau dans Pays-Bas, pas à l'achat ni à l'installation. Vous pouvez donc acheter et installer votre eSIM jusqu'à 30 jours avant votre départ sans perdre un seul jour de validité. Un forfait 7 jours vous donne 7 jours complets à partir de la première connexion. Pratique pour les départs anticipés ou les retards de vol.
+        La validité commence au moment où vous vous connectez au réseau aux Pays-Bas, pas à l'achat ni à l'installation. Vous pouvez donc acheter et installer votre eSIM jusqu'à 30 jours avant votre départ sans perdre un seul jour de validité. Un forfait 7 jours vous donne 7 jours complets à partir de la première connexion. Pratique pour les départs anticipés ou les retards de vol.
     - q: |
         Que se passe-t-il si je depasse le quota de mon forfait eSIM Pays Bas? Puis-je encore naviguer?
       a: |
-        Avec un forfait à volume fixe (5GB, 10GB), les données s'arrêtent automatiquement à la limite — pas de frais supplémentaires. Vous pouvez recharger instantanément depuis l'application Roami, sans changer de SIM ni installer un nouveau QR code. Avec le forfait illimité, le débit est réduit à 512 kbps après 30GB dans la journée, mais vous restez connecté pour la messagerie et la navigation.
+        Avec un forfait à volume fixe (1GB, 100GB), les données s'arrêtent automatiquement à la limite — pas de frais supplémentaires. Vous pouvez recharger instantanément depuis l'application Roami, sans changer de SIM ni installer un nouveau QR code. Avec le forfait illimité, le débit est réduit à 512 kbps après 30GB dans la journée, mais vous restez connecté pour la messagerie et la navigation.
     - q: |
-        Est-ce que les appels WhatsApp et FaceTime passent bien avec l eSIM Netherlands sans limitation de debit?
+        Est-ce que les appels WhatsApp et FaceTime passent bien avec l'eSIM Pays-Bas sans limitation de débit?
       a: |
-        Oui — toutes les applications fonctionnent sans restriction. Un appel WhatsApp audio consomme environ 1MB par minute, un appel vidéo 5-8MB par minute. Un forfait 5GB ($9.99) permet environ 500 heures d'appels audio ou 10 heures de vidéo FaceTime. Le réseau 4G/5G de KPN assure une qualité d'appel fluide.
+        Oui — toutes les applications fonctionnent sans restriction. Un appel WhatsApp audio consomme environ 1MB par minute, un appel vidéo 5-8MB par minute. Un forfait 5GB (5,99 $) autorise environ 500 heures d'appels audio ou 10 heures de vidéo FaceTime. Le réseau 4G/5G de KPN assure une qualité d'appel fluide.
     - q: |
-        Les connexions VPN sont-elles autorisees avec l eSIM Netherlands sans limitation de debit?
+        Les connexions VPN sont-elles autorisées avec l'eSIM Pays-Bas sans limitation de débit?
       a: |
         Oui — Roami ne bloque pas les connexions VPN, ce qui permet de sécuriser vos échanges ou d'accéder à vos services habituels. Les vitesses avec VPN restent bonnes: 30-80 Mbps en 5G, 5-15 Mbps en 4G — suffisantes pour le télétravail et le streaming. Aucune restriction ni limitation de débit spécifique aux VPN n'est appliquée.
     - q: |
-        Puis-je regarder des videos en streaming avec l eSIM Netherlands sans mise en buffer constante?
+        Puis-je regarder des vidéos en streaming avec l'eSIM Pays-Bas sans mise en buffer constante?
       a: |
-        Oui — le streaming passe par la connexion eSIM sans restriction. Netflix en HD consomme environ 1GB par heure, Spotify 50-100MB par heure. Avec un forfait 5GB ($9.99), vous pouvez regarder environ 5 heures de Netflix en HD ou écouter 50 heures de musique. Pour les gros consommateurs de streaming, le forfait illimité ($59.99) est plus adapté. Alternative: téléchargez vos contenus en WiFi avant de partir.
+        Oui — le streaming passe par la connexion eSIM sans restriction. Netflix en HD consomme environ 1GB par heure, Spotify 50-100MB par heure. Avec un forfait 5GB (5,99 $), vous pouvez regarder environ 5 heures de Netflix en HD ou écouter 50 heures de musique. Pour les gros consommateurs de streaming, le forfait illimité (9,99 $) est plus adapté. Alternative: téléchargez vos contenus en WiFi avant de partir.
     - q: |
-        Le partage de connexion fonctionne-t-il avec l eSIM Netherlands ou est-il bloque par Roami?
+        Le partage de connexion fonctionne-t-il avec l'eSIM Pays-Bas ou est-il bloque par Roami?
       a: |
-        Oui — tous les forfaits Roami incluent le partage de connexion (point d'accès personnel). Activez le partage dans les réglages de votre téléphone pour connecter votre PC, tablette ou ceux de vos compagnons de voyage. Pour une utilisation professionnelle (visioconférence, fichiers volumineux), un forfait 10GB ($14.99) ou illimité ($59.99) est conseillé.
+        Oui — tous les forfaits Roami incluent le partage de connexion (point d'accès personnel). Activez le partage dans les réglages de votre téléphone pour connecter votre PC, tablette ou ceux de vos compagnons de voyage. Pour une utilisation professionnelle (visioconférence, fichiers volumineux), un forfait 10GB (10,99 $) ou illimité (9,99 $) est conseillé.
 related_products:
-  title: Forfaits eSIM similaires
+  title: 'eSIM pour vos autres escales'
   items:
   - name: eSIM États-Unis
     flag: img/flags/us.svg
@@ -444,7 +443,7 @@ related_products:
     slug: europe-esim
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: À partir de 1,99 $
+    price: 'À partir de 3,99 $'
     is_highlight: false
     slug: canada-esim
   - name: eSIM Turquie
@@ -488,15 +487,15 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'eSIM pour les Netherlands contre prépayée : comparaison de la vitesse, de la couverture et du prix'
-  subtitle: Cartes SIM prépayées locales aux Pays-Bas contre solutions eSIM (benchmark 2024/2025)
+  title: 'eSIM Pays-Bas ou carte SIM prépayée : simplicité contre prix bas'
+  subtitle: "Tarifs et couverture : SIM locale face à l'eSIM pour Pays-Bas"
   citation:
-    text: 'Source des données : Prepaid Data SIM Card Wiki (Netherlands) + sites Web des opérateurs locaux'
+    text: 'Source des données : Prepaid Data SIM Card Wiki (Pays-Bas) + sites Web des opérateurs locaux'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Netherlands
   table_headers:
   - Matrice de comparaison
   - Carte SIM prépayée locale (données de marché)
-  - Roami eSIM pour Netherlands
+  - Roami eSIM pour Pays-Bas
   table_rows:
   - icon: store
     title: Acquisition et<br>activation
@@ -531,7 +530,7 @@ market_analysis:
       7 jours à 7 € pour 2 Go/jour (total 14 Go) et un forfait 30 jours à 44 € pour 60 Go.
     esim_title: Forfaits flexibles sans gaspillage
     esim_desc: Contrairement au forfait 31 jours de KPN à 14,99 € pour 1 Go ou au forfait 30 jours de Vodafone à 44 € pour
-      60 Go, Roami propose des forfaits de 7 jours à partir de 1,99 $/Go, économisant jusqu'à 75 % de coûts perdus pour les
+      60 Go, Roami propose des forfaits de 7 jours à partir de 1,99 $, économisant jusqu'à 75 % de coûts perdus pour les
       courts séjours.
   - icon: wifi
     title: Partage de connexion et<br>politique de vitesse
@@ -558,7 +557,7 @@ market_analysis:
     esim_desc: Bénéficiez d'un support client multilingue 24h/24 et 7j/7, contrairement aux horaires limités des opérateurs
       locaux.
   expert_verdict:
-    title: 'eSIM pour les Netherlands : la solution ultime pour une connectivité sans stress et économique'
+    title: 'eSIM pour les Pays-Bas : la solution ultime pour une connectivité sans stress et économique'
     cards:
     - icon: clock
       icon_bg: bg-indigo-100

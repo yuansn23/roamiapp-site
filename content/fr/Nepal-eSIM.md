@@ -1,15 +1,15 @@
 ---
-title: 'eSIM Népal 2026 : Guide connexion & débit | Roami'
-date: '2026-06-17T00:00:00+00:00'
+title: 'Forfait eSIM Népal 2026 : 5G & Couverture | Roami'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Népal
-  scenario_keywords: visites touristiques à Kathmandu, trek de l'Everest, parapente à Pokhara, pèlerinage à Lumbini, safari à Chitwan
+  scenario_keywords: 'shopping, voyage linguistique, boucle de plusieurs pays, visite de parcs nationaux, séjour culturel'
   operators: Ncell, Nepal Telecom, Smart Cell
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Kathmandu, Pokhara, Bharatpur, Lalitpur, Biratnagar
-  main_packages: 3/7/15/30 jours, données illimitées
+  main_packages: '3/7/15/30 jours, option illimitée disponible'
 modal:
   title: Mise à jour du service !
   btn_text: Continuer
@@ -18,9 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: Népal eSIM | Meilleur forfait prépayé pour voyager
-  description: Voyagez au Népal avec la meilleure eSIM prépayée de voyage de Roami. Données 5G illimitées. Couvre Kathmandu, Pokhara et Bharatpur. Activation instantanée par code QR. Achetez votre forfait en ligne dès aujourd'hui.
-  keywords: eSIM Népal, acheter eSIM Népal, meilleure eSIM Népal, eSIM voyage Népal, Ncell Népal, Nepal Telecom Népal, Smart Cell Népal, eSIM Kathmandu, eSIM Pokhara, eSIM Bharatpur, eSIM prépayée Népal, eSIM 5G Népal
+  title: "Népal eSIM | 5G rapide dès l'arrivée"
+  description: "eSIM Népal : achetez en 2 minutes, activez à l'arrivée, sans engagement."
+  keywords: 'eSIM Népal, forfait eSIM Népal, meilleure eSIM Népal, eSIM Népal pas cher, acheter eSIM Népal en ligne, données illimitées eSIM Népal, carte eSIM prépayée Népal, eSIM Népal pour voyageurs, prix eSIM Népal, activation eSIM Népal, couverture eSIM Népal, eSIM Népal 5G, eSIM Kathmandu, eSIM Pokhara'
   low_price: 1.99
   high_price: 39.9
 order_summary:
@@ -38,14 +38,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleure eSIM pour Népal
-  title: Meilleure eSIM pour Népal
+  title: 'eSIM Népal en Quelques Clics'
 hero:
   flag_image: img/flags/ne.svg
   flag_alt: Drapeau Népal
-  title: 'eSIM Népal: Connectivité instantanée pour un voyage sans souci'
-  subtitle: 5G rapide | Livraison instantanée du code QR | Support 24/7 humain - la meilleure eSIM prépayée pour Népal
+  title: 'eSIM Népal : Un Réseau 5G pour Tout le Voyage'
+  subtitle: 'eSIM Népal - mise en route en 5 minutes, 5G, support en français'
 features:
-  title: 'Pourquoi les voyageurs choisissent Roami pour Népal: Forfaits, Réseau & Support'
+  title: "Pourquoi les voyageurs préfèrent l'eSIM Népal de Roami : Réseau, Forfaits & Prix"
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Sélection auto
     desc: Connexion auto aux meilleurs opérateurs Népal pour le signal le plus fort
-plans_title: 'Acheter eSIM Népal: Forfaits pour Tout Voyage'
+plans_title: 'Acheter une eSIM Népal : Offres 5G à prix réduit'
 plans_data:
   7 jours:
   - spec: 3GB
@@ -217,7 +217,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Valable : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Népal: Guide des Opérateurs Mobiles'
+  title: 'Couverture eSIM Népal : Réseau 5G, Zones et Vitesse'
   supports_text: 'Prend en charge :'
   service_details:
     title: Détails du service
@@ -235,7 +235,7 @@ network_coverage:
       title: Point d'accès
       desc: Aucune limite de partage de connexion.
   carriers:
-    title: 'Ncell, Nepal Telecom & Smart Cell: Opérateurs eSIM Népal'
+    title: 'Ncell, Nepal Telecom & Smart Cell : comparatif des opérateurs locaux'
     badge: Partenaire officiel
     items:
     - name: Ncell
@@ -248,19 +248,20 @@ network_coverage:
       coverage: Bonne couverture urbaine
       network: Réseau 4G/LTE
 reminders:
-  title: 'Conseils eSIM Népal: Avant de Partir'
+  title: "Conseils eSIM Népal : Tout Préparer à l'Avance"
   items:
   - icon: 📱
-    html: Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
+    html: 'Avant d''acheter, <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> avant de commander.'
   - icon: ✈️
-    html: Nous recommandons d'activer l'eSIM uniquement après votre arrivée au Népal.
+    html: "Il est préférable d'activer l'eSIM Népal après avoir atterri."
   - icon: ⏰
-    html: La validité commence lors de la connexion au réseau partenaire.
+    html: 'La validité démarre lors de la connexion au réseau local.'
   - icon: 📧
-    html: Le code QR sera envoyé à votre adresse e-mail.
+    html: "Le QR code sera envoyé à votre adresse e-mail dès l'achat."
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: 'Vous pouvez de garder plusieurs eSIM en parallèle.'
+  - icon: 📍
+    html: "Astuce : l'eSIM Népal couvre aussi Kathmandu comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Votre téléphone est-il compatible eSIM ? Vérifiez-le vous-même en quelques secondes :'
@@ -269,7 +270,7 @@ reminders:
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       apparaît à l'écran, votre appareil est compatible !
 activation_steps:
-  title: 'Comment installer l''eSIM Népal : 3 étapes simples'
+  title: 'Activation eSIM Népal : Mise en Route Rapide'
   steps:
   - num: '1'
     title: 'Étape 1 : Recevoir le code QR'
@@ -288,13 +289,13 @@ activation_steps:
     desc: À votre arrivée au Népal, activez votre eSIM Népal dans les réglages pour commencer à utiliser les données. Nous recommandons de vous connecter au WiFi lors de l'activation initiale.
     is_list: false
 faq_section:
-  title: "eSIM Népal : quelle vitesse Internet pour les touristes ? Guide de la couverture réseau."
-  desc: "Vous partez au Népal ? Découvrez tout sur l'eSIM Népal : vitesses 4G/5G réelles, couverture des réseaux en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
+  title: 'eSIM Népal : tout sur la connexion mobile : guide utile'
+  desc: "Tout sur l'eSIM Népal : tout ce que les voyageurs demandent : questions sur l'eSIM, le réseau et les forfaits."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: "Questions fréquentes sur l'eSIM Népal"
+    title: 'eSIM Népal : les réponses des experts'
     questions:
     - q: |
         Pour un touriste au Népal, vaut-il mieux choisir Ncell ou NTC ?
@@ -323,13 +324,13 @@ faq_section:
     - q: |
         J'ai besoin d'un accès Internet pour seulement quelques jours au Népal. Quel est le minimum que je peux acheter ?
       a: |
-        Le forfait le moins cher est à $1.99 pour 7 jours avec 1GB — parfait pour un court week-end avec une utilisation légère. Si vous avez besoin de plus, rechargez à tout moment depuis l'application.
+        Le forfait le moins cher est à 10,99 $ (7 jours, 1GB). — parfait pour un court week-end avec une utilisation légère. Si vous avez besoin de plus, rechargez à tout moment depuis l'application.
     - q: |
         Quel est le choix d'eSIM le plus populaire pour les voyageurs se rendant au Népal ?
       a: |
-        La plupart des voyageurs au Népal choisissent le forfait 5GB/15 jours ($9.99). Il suffit pour la navigation quotidienne, les réseaux sociaux et la messagerie. Pour les séjours plus longs ou une utilisation plus intensive, les forfaits 10GB ($14.99) ou illimité ($59.99) sont d'excellentes options. Tous les forfaits s'activent en quelques minutes et incluent un support 24/7.
+        La plupart des voyageurs au Népal choisissent le forfait 20GB/30 jours (99,99 $). Il suffit pour la navigation quotidienne, les réseaux sociaux et la messagerie. Pour les séjours plus longs ou une utilisation plus intensive, les forfaits 10GB (57,99 $) ou illimité (52,99 $) sont d'excellentes options. Tous les forfaits s'activent en quelques minutes et incluent un support 24/7.
 related_products:
-  title: Forfaits eSIM associés
+  title: "eSIM pour d'autres destinations"
   items:
   - name: eSIM États-Unis
     flag: img/flags/us.svg

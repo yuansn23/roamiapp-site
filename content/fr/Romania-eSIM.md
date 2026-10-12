@@ -1,16 +1,15 @@
 ---
-title: 'Forfait eSIM Roumanie 2026: 5G & Forfaits | Roami'
-date: '2026-06-24T00:00:00+00:00'
+title: 'Forfait eSIM Roumanie 2026 : Prix & Activation | Roami'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Roumanie
-  scenario_keywords: vacances en Roumanie, voyage d'affaires Roumanie, road trip Roumanie, séjour culturel Roumanie, randonnée
-    Carpates
+  scenario_keywords: 'visite de musées, tour des villes, escapade urbaine, voyage en couple, plongée sous-marine'
   operators: Orange, Vodafone, Digi
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Bucarest, Cluj-Napoca, Timișoara, Brașov, Iași
-  main_packages: 3/7/15/30 jours, données illimitées
+  main_packages: 'Offres 3/7/15/30 jours - data illimitée au choix'
 modal:
   title: Mise à jour du service !
   btn_text: Continuer
@@ -19,11 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: Roumanie eSIM | Meilleur prix sans engagement
-  description: Partez a Roumanie sans contrainte. Roami ne vous enferme dans aucun abonnement. Vous decidez de tout. Couvre
-    tout le pays.
-  keywords: eSIM Roumanie, forfait eSIM Roumanie, meilleure eSIM Roumanie, Roumanie data, Orange Roumanie, Vodafone Roumanie,
-    Digi Roumanie, eSIM Bucarest, eSIM Cluj-Napoca, eSIM Timișoara, internet mobile Roumanie, 5G Roumanie
+  title: 'Roumanie eSIM | Meilleur prix garanti'
+  description: 'eSIM Roumanie : forfaits flexibles, réseau fiable, support 24/7.'
+  keywords: 'eSIM Roumanie, forfait eSIM Roumanie, meilleure eSIM Roumanie, eSIM Roumanie pas cher, acheter eSIM Roumanie en ligne, données illimitées eSIM Roumanie, carte eSIM prépayée Roumanie, eSIM Roumanie pour voyageurs, prix eSIM Roumanie, activation eSIM Roumanie, couverture eSIM Roumanie, eSIM Roumanie avec numéro de téléphone, eSIM Bucarest, eSIM Cluj-Napoca'
 order_summary:
   title: Forfait sélectionné
   label_data: Volume de données
@@ -39,14 +36,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleure eSIM pour Roumanie
-  title: Meilleure eSIM pour Roumanie
+  title: 'eSIM Roumanie Sans Contrat'
 hero:
   flag_image: img/flags/ro.svg
   flag_alt: Drapeau Roumanie
-  title: 'eSIM Roumanie: 5G Rapide pour Chaque Destination'
-  subtitle: Meilleure eSIM prépayée pour Roumanie - 5G rapide, activation instantanée, support 24/7
+  title: 'eSIM Roumanie : Le Réseau qui Suit Vos Voyages'
+  subtitle: "eSIM Roumanie - forfait data simple, prêt à l'emploi"
 features:
-  title: 'Pourquoi les voyageurs choisissent Roami pour Roumanie: Vitesse, Couverture & Support'
+  title: 'Les atouts Roami pour votre eSIM Roumanie : Couverture, Vitesse & Service'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -72,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Sélection auto
     desc: Connexion auto aux meilleurs opérateurs Roumanie pour le signal le plus fort
-plans_title: 'Acheter eSIM Roumanie: Forfaits pour Tout Voyage'
+plans_title: 'Acheter une eSIM Roumanie : Offres à petit prix'
 plans_data:
   7 jours:
   - spec: 1GB
@@ -298,7 +295,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Valable : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Roumanie: Guide Complet des Réseaux Locaux'
+  title: 'Couverture eSIM Roumanie : Guide du Réseau Mobile'
   supports_text: 'Prend en charge :'
   service_details:
     title: Détails du service
@@ -306,8 +303,8 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Couverture
-      desc: Profitez d'une couverture reseau complete dans toute Roumanie, y compris Bucarest, Cluj-Napoca, Timișoara, Brașov.
-        Votre eSIM se connecte aux reseaux robustes de Orange, Vodafone, Digi.
+      desc: Profitez d'une couverture réseau complète en Roumanie, y compris Bucarest, Cluj-Napoca, Timișoara, Brașov.
+        Votre eSIM se connecte aux réseaux robustes de Orange, Vodafone, Digi.
     - icon: zap
       color: text-amber-500
       title: Délai de livraison
@@ -317,7 +314,7 @@ network_coverage:
       title: Point d'accès
       desc: Pas de restriction sur le point d'accès.
   carriers:
-    title: 'Orange, Vodafone & Digi: Operateurs eSIM Roumanie'
+    title: 'Orange, Vodafone & Digi : qualité et étendue du réseau'
     badge: Partenaire officiel
     items:
     - name: Orange
@@ -327,19 +324,20 @@ network_coverage:
       coverage: 5G rapide en villes
       network: Réseau 5G/4G/LTE
 reminders:
-  title: 'Conseils eSIM Roumanie: Avant de Partir'
+  title: 'Conseils eSIM Roumanie : Les Points à Retenir'
   items:
   - icon: 📱
-    html: Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
+    html: 'Pensez-y : <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> sur votre téléphone.'
   - icon: ✈️
-    html: Nous recommandons d'activer l'eSIM uniquement après votre arrivée à Roumanie.
+    html: "Il est préférable d'activer l'eSIM Roumanie après avoir atterri."
   - icon: ⏰
-    html: La validité commence lors de la connexion au réseau partenaire.
+    html: 'Le décompte commence dès la connexion au réseau local.'
   - icon: 📧
-    html: Le code QR sera envoyé à votre adresse e-mail.
+    html: "Le code QR arrive par e-mail dès l'achat."
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: "Il est possible d'installer deux eSIM ou plus en parallèle."
+  - icon: 📍
+    html: "Astuce : l'eSIM Roumanie couvre aussi Bucarest comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Pas sûr ? Vérifiez immédiatement sur votre téléphone :'
@@ -348,14 +346,14 @@ reminders:
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       s'affiche, l'eSIM est prise en charge !
 activation_steps:
-  title: 'Activation eSIM Roumanie: 3 Etapes Simples'
+  title: "Activation eSIM Roumanie : Guide d'Installation Facile"
   steps:
   - num: '1'
     title: Recevez et conservez le code QR – préparez-vous pour Roumanie
     desc: Immédiatement après votre commande, vous recevrez un e-mail avec votre code QR d'activation personnel et des instructions.
       Conservez le code QR sur votre smartphone ou imprimez-le – vous n'avez pas besoin d'une connexion Internet active pour
       l'installation ultérieure. L'eSIM est valable 30 jours, vous pouvez donc la préparer tranquillement pour votre voyage
-      à Roumanie.
+      en Roumanie.
     is_list: false
   - num: '2'
     title: Installez l'eSIM sur votre appareil – scannez le code QR
@@ -370,13 +368,13 @@ activation_steps:
   - num: '3'
     title: Préparez-vous à la maison – testez sans risque
     desc: Après l'installation, vous pouvez laisser l'eSIM désactivée dans les réglages. Cependant, vous pouvez déjà la tester
-      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez à Roumanie, il vous
+      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez en Roumanie, il vous
       suffit d'activer l'eSIM – la validité commencera automatiquement lors de la première connexion au réseau Orange / Vodafone.
       Aucun frais caché d'activation, aucun frais d'itinérance.
     is_list: false
   - num: '4'
-    title: 'Arrivée à Roumanie : connexion instantanée 5G/4G'
-    desc: Dès que vous atterrissez à Roumanie (par exemple dans Aéroport international Henri Coandă (Bucarest), Aéroport international
+    title: 'Arrivée en Roumanie : connexion instantanée 5G/4G'
+    desc: Dès que vous atterrissez en Roumanie (par exemple à l'aéroport international Henri Coandă (Bucarest), Aéroport international
       de Cluj-Napoca, Aéroport international Traian Vuia (Timișoara)), désactivez le mode avion (ou restez dedans et activez
       uniquement l'eSIM). Allez dans **Réglages → Réseau cellulaire** et activez votre eSIM Roami pour Roumanie. En quelques
       secondes, votre appareil se connectera automatiquement au réseau 5G/4G le plus rapide disponible de Orange / Vodafone.
@@ -384,50 +382,50 @@ activation_steps:
       appareils – sans attente, sans pièce d'identité, sans contrat.
     is_list: false
 faq_section:
-  title: "eSIM Roumanie : tout savoir sur la vitesse Internet, la couverture 4G/5G et la fiabilité du réseau."
-  desc: "Vous partez à Roumanie? Découvrez tout sur l'eSIM Roumanie : vitesses 4G/5G réelles, couverture du réseau Orange en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
+  title: 'eSIM Roumanie : questions fréquentes et réponses'
+  desc: "Tout sur l'eSIM Roumanie : opérateurs, vitesse et activation : tout ce qu'il faut savoir avant de partir."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: "Tout sur l eSIM pour Roumanie"
+    title: "Tout ce qu'il faut savoir sur l'eSIM Roumanie"
 
     questions:
     - q: |
-        Quel opérateur à Roumanie est le meilleur — Orange, Vodafone ou Digi?
+        Quel opérateur en Roumanie est le meilleur — Orange, Vodafone ou Digi?
       a: |
-        Roumanie a trois opérateurs. Orange atteint 95% de la population. Vodafone couvre mieux les zones rurales. Digi est 15-20% moins cher. Roami choisit le meilleur réseau automatiquement.
+        En Roumanie, il y a trois opérateurs. Orange atteint 95% de la population. Vodafone couvre mieux les zones rurales. Digi est 15-20% moins cher. Roami choisit le meilleur réseau automatiquement.
     - q: |
-            Quel forfait eSIM recommandez-vous pour un premier voyage en Romania: 5GB, 10GB ou illimite?
+            Quel forfait eSIM recommandez-vous pour un premier voyage en Roumanie: 5GB, 10GB ou illimité?
 
       a: |
-        Le 5GB/15 jours ($9.99) est le plus populaire — il suffit pour la navigation GPS, les réseaux sociaux et la messagerie quotidienne. Pour les voyageurs qui regardent des vidéos ou travaillent à distance, le forfait 10GB ($14.99) offre plus de marge. Le forfait illimité ($59.99) est idéal pour le partage de connexion ou les longs séjours.
+        Le 100GB/30 jours (54,99 $) est le plus populaire — il suffit pour la navigation GPS, les réseaux sociaux et la messagerie quotidienne. Pour les voyageurs qui regardent des vidéos ou travaillent à distance, le forfait 10GB (11,99 $) offre plus de marge. Le forfait illimité (13,99 $) est idéal pour le partage de connexion ou les longs séjours.
     - q: |
-        Le partage de connexion fonctionne-t-il avec l eSIM Romania ou est-il bloque par Roami?
+        Le partage de connexion fonctionne-t-il avec l'eSIM Roumanie ou est-il bloque par Roami?
       a: |
-        Oui — tous les forfaits Roami incluent le partage de connexion (point d'accès personnel). Activez le partage dans les réglages de votre téléphone pour connecter votre PC, tablette ou ceux de vos compagnons de voyage. Pour une utilisation professionnelle (visioconférence, fichiers volumineux), un forfait 10GB ($14.99) ou illimité ($59.99) est conseillé.
+        Oui — tous les forfaits Roami incluent le partage de connexion (point d'accès personnel). Activez le partage dans les réglages de votre téléphone pour connecter votre PC, tablette ou ceux de vos compagnons de voyage. Pour une utilisation professionnelle (visioconférence, fichiers volumineux), un forfait 10GB (11,99 $) ou illimité (13,99 $) est conseillé.
     - q: |
-        Combien de données un touriste utilise-t-il par jour à Roumanie?
+        Combien de données un touriste utilise-t-il par jour en Roumanie?
       a: |
-        En moyenne, un touriste consomme 300-500MB par jour pour la navigation, la messagerie et les réseaux sociaux. Avec des appels vidéo ou du streaming, la consommation peut atteindre 1-2GB par jour. Pour une semaine, un forfait 5GB ($9.99) est généralement suffisant. Pour deux semaines, prévoyez 10GB ($14.99).
+        En moyenne, un touriste consomme 300-500MB par jour pour la navigation, la messagerie et les réseaux sociaux. Avec des appels vidéo ou du streaming, la consommation peut atteindre 1-2GB par jour. Pour une semaine, un forfait 5GB (6,99 $) est généralement suffisant. Pour deux semaines, prévoyez 10GB (11,99 $).
     - q: |
-        Peut-on utiliser WhatsApp, Messenger et FaceTime sans probleme avec l eSIM Roumanie?
+        Peut-on utiliser WhatsApp, Messenger et FaceTime sans problème avec l'eSIM Roumanie?
       a: |
-        Avec un forfait à volume fixe (5GB, 10GB), les données s'arrêtent automatiquement à la limite — pas de frais supplémentaires. Vous pouvez recharger instantanément depuis l'application Roami, sans changer de SIM ni installer un nouveau QR code. Avec le forfait illimité, le débit est réduit à 512 kbps après 30GB dans la journée, mais vous restez connecté pour la messagerie et la navigation.
+        Avec un forfait à volume fixe (1GB, 100GB), les données s'arrêtent automatiquement à la limite — pas de frais supplémentaires. Vous pouvez recharger instantanément depuis l'application Roami, sans changer de SIM ni installer un nouveau QR code. Avec le forfait illimité, le débit est réduit à 512 kbps après 30GB dans la journée, mais vous restez connecté pour la messagerie et la navigation.
     - q: |
-        Y a-t-il des frais supplementaires avec l eSIM Romania ou le prix affiche est-il le prix final?
+        Y a-t-il des frais supplémentaires avec l'eSIM Roumanie ou le prix affiche est-il le prix final?
       a: |
-        Non — le prix affiché est le prix final, sans aucune taxe ajoutée ni frais de dossier. Les forfaits commencent à $1.99 (7 jours, 1GB). Le forfait 5GB ($9.99) n'a pas de surprise. Pas de renouvellement automatique, pas de frais d'activation: le forfait s'arrête simplement à la date d'expiration.
+        Non — le prix affiché est le prix final, sans aucune taxe ajoutée ni frais de dossier. Les forfaits commencent à 1,99 $ (3 jours, 1GB). Le forfait 5GB (6,99 $) n'a pas de surprise. Pas de renouvellement automatique, pas de frais d'activation: le forfait s'arrête simplement à la date d'expiration.
     - q: |
-        Quel est le moyen le plus simple d avoir internet mobile en Roumanie en tant que touriste?
+        Quel est le moyen le plus simple d'avoir internet mobile en Roumanie en tant que touriste?
       a: |
-        L'eSIM Roami est la solution la plus simple: achetez en ligne à partir de $1.99, recevez le QR code par email en 5 minutes, installez en 2 minutes. Pas de file d'attente à l'aéroport, pas de passeport à présenter, pas de carte SIM à insérer. Votre numéro français reste actif pour les SMS, et vous êtes connecté dès l'arrivée en activant l'itinérance.
+        Roami simplifie la connexion: réservez en ligne à partir de 1,99 $ et recevez le QR code par email en 5 minutes, installez en 2 minutes. Pas de file d'attente à l'aéroport, pas de passeport à présenter, pas de carte SIM à insérer. Votre numéro français reste actif pour les SMS, et vous êtes connecté dès l'arrivée en activant l'itinérance.
     - q: |
         Y a-t-il une limite de profils eSIM stockables sur iPhone ou Android quand on voyage en Roumanie?
       a: |
         La plupart des téléphones modernes stockent 5 à 10 profils eSIM. Vous pouvez conserver votre eSIM Roumanie en parallèle de votre carte SIM française et de plusieurs autres profils internationaux. Le passage d'un profil à l'autre prend environ 10 secondes dans les réglages. Idéal pour les voyageurs multi-destinations.
 related_products:
-  title: Forfaits eSIM similaires
+  title: 'Forfaits eSIM à comparer'
   items:
   - name: eSIM États-Unis
     flag: img/flags/us.svg
@@ -446,7 +444,7 @@ related_products:
     slug: europe-esim
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: À partir de 1,99 $
+    price: 'À partir de 3,99 $'
     is_highlight: false
     slug: canada-esim
   - name: eSIM Turquie
@@ -490,15 +488,15 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'eSIM pour les Romania contre prépayée : quel est le meilleur rapport qualité-prix ?'
-  subtitle: Cartes SIM prépayées locales en Roumanie contre solutions eSIM (benchmark 2024/2025)
+  title: 'eSIM Roumanie ou carte SIM prépayée : le comparatif complet'
+  subtitle: 'Forfaits locaux et eSIM : comparaison des prix et du réseau pour Roumanie'
   citation:
-    text: 'Source des données : Prepaid Data SIM Card Wiki (Romania) + sites Web des opérateurs locaux'
+    text: 'Source des données : Prepaid Data SIM Card Wiki (Roumanie) + sites Web des opérateurs locaux'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Romania
   table_headers:
   - Matrice de comparaison
   - Carte SIM prépayée locale (données de marché)
-  - Roami eSIM pour Romania
+  - Roami eSIM pour Roumanie
   table_rows:
   - icon: store
     title: Acquisition et<br>activation
@@ -531,7 +529,7 @@ market_analysis:
       de €5 (hors TVA 21%), ce qui entraîne une perte de valeur pour les séjours courts.
     esim_title: Forfaits flexibles sans perte
     esim_desc: Contre les cycles rigides de 28 jours d'Orange (€5/5 Go + TVA), Roami propose des forfaits de 7 jours à partir
-      de 1,99 $/Go, évitant 75% de perte pour les courts séjours.
+      de 1,99 $, évitant 75% de perte pour les courts séjours.
   - icon: wifi
     title: Partage de connexion et<br>politique de vitesse
     prepaid_title: ''
@@ -556,7 +554,7 @@ market_analysis:
     esim_title: Support client 24/7 multilingue
     esim_desc: Bénéficiez d'une assistance en anglais et français 24h/24, contrairement au support limité des opérateurs locaux.
   expert_verdict:
-    title: 'eSIM pour les Romania contre carte SIM physique : avantages et inconvénients pour une connectivité sans stress'
+    title: 'eSIM Roumanie contre carte SIM physique : avantages et inconvénients pour une connectivité sans stress'
     cards:
     - icon: passport
       icon_bg: bg-blue-100

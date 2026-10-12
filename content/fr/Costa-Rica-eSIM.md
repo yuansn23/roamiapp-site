@@ -1,15 +1,15 @@
 ---
-title: 'Forfait eSIM Costa Rica 2026: Voyage & Réseau | Roami'
-date: '2026-06-24T00:00:00+00:00'
+title: 'eSIM Costa Rica 2026 : Guide de Voyage Connecté | Roami'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Costa Rica
-  scenario_keywords: voyage touristique, voyage d'affaires, aventure en plein air, voyage en famille, travail à distance
+  scenario_keywords: 'boucle de plusieurs pays, visite de parcs nationaux, séjour culturel, tourisme de nature, randonnée'
   operators: Claro, Movistar, Kolbi
   competitors: Airalo, Holafly, Nomad, Ubigi, Airalo
   main_cities: San José, Alajuela, Liberia, Cartago, Heredia
-  main_packages: 3/7/15/30 jours, données illimitées
+  main_packages: '3/7/15/30 jours : data illimitée au choix'
 modal:
   title: Mise à jour du service !
   btn_text: Continuer
@@ -18,11 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: Costa Rica eSIM | Données illimitées au meilleur prix
-  description: L'eSIM Roami pour Costa Rica s'active en quelques secondes. Recevez votre code par email et partez tranquillement.
-    Couvre tout le pays.
-  keywords: eSIM Costa Rica, forfait eSIM Costa Rica, meilleure eSIM Costa Rica, Costa Rica data, Claro Costa Rica, Movistar
-    Costa Rica, Kolbi Costa Rica, eSIM San José, eSIM Alajuela, eSIM Liberia, internet mobile Costa Rica, 5G Costa Rica
+  title: 'Costa Rica eSIM | Activation QR instantanée'
+  description: 'eSIM Costa Rica : comparez les prix et activez votre eSIM en quelques minutes.'
+  keywords: 'eSIM Costa Rica, forfait eSIM Costa Rica, meilleure eSIM Costa Rica, eSIM Costa Rica pas cher, acheter eSIM Costa Rica en ligne, données illimitées eSIM Costa Rica, carte eSIM prépayée Costa Rica, eSIM Costa Rica pour voyageurs, prix eSIM Costa Rica, activation eSIM Costa Rica, couverture eSIM Costa Rica, eSIM Costa Rica 5G, eSIM San José, eSIM Alajuela'
 order_summary:
   title: Forfait sélectionné
   label_data: Volume de données
@@ -38,14 +36,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleure eSIM pour Costa Rica
-  title: Meilleure eSIM pour Costa Rica
+  title: "eSIM Costa Rica Prête à l'Emploi"
 hero:
   flag_image: img/flags/cr.svg
   flag_alt: Drapeau Costa Rica
-  title: 'eSIM Costa Rica: Restez Connecté Partout'
-  subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Costa Rica
+  title: 'eSIM Costa Rica : Internet Partout, Sans Contrat'
+  subtitle: 'eSIM Costa Rica - données mobiles fiables, QR en 5 min'
 features:
-  title: 'Pourquoi les voyageurs choisissent Roami pour Costa Rica: Forfaits, Réseau & Support'
+  title: 'Pourquoi les voyageurs choisissent Roami pour leur eSIM Costa Rica : 5G, Couverture & Forfaits'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Sélection auto
     desc: Connexion auto aux meilleurs opérateurs Costa Rica pour le signal le plus fort
-plans_title: 'Acheter eSIM Costa Rica: Forfaits pour Tout Voyage'
+plans_title: 'Acheter eSIM Costa Rica : Formules à la carte'
 plans_data:
   7 jours:
   - spec: 1GB
@@ -241,7 +239,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Valable : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Costa Rica: Guide des Opérateurs Mobiles'
+  title: 'Couverture eSIM Costa Rica : Guide des Opérateurs Mobiles'
   supports_text: 'Prend en charge :'
   service_details:
     title: Détails du service
@@ -249,8 +247,8 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Couverture
-      desc: Profitez d'une couverture reseau complete dans toute Costa Rica, y compris San José, Alajuela, Liberia, Cartago.
-        Votre eSIM se connecte aux reseaux robustes de Claro, Movistar, Kolbi.
+      desc: Profitez d'une couverture réseau complète au Costa Rica, y compris San José, Alajuela, Liberia, Cartago.
+        Votre eSIM se connecte aux réseaux robustes de Claro, Movistar, Kolbi.
     - icon: zap
       color: text-amber-500
       title: Délai de livraison
@@ -260,7 +258,7 @@ network_coverage:
       title: Point d'accès
       desc: Pas de restriction sur le point d'accès.
   carriers:
-    title: 'Claro, Movistar & Kolbi: Operateurs eSIM Costa Rica'
+    title: 'Claro, Movistar & Kolbi : les opérateurs mobiles disponibles'
     badge: Partenaire officiel
     items:
     - name: Claro
@@ -270,19 +268,20 @@ network_coverage:
       coverage: 5G rapide en villes
       network: Réseau 5G/4G/LTE
 reminders:
-  title: 'Conseils eSIM Costa Rica: Avant de Partir'
+  title: 'Conseils eSIM Costa Rica : Les Bons Réflexes'
   items:
   - icon: 📱
-    html: Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
+    html: 'Avant de commander, <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.'
   - icon: ✈️
-    html: Nous recommandons d'activer l'eSIM uniquement après votre arrivée à Costa Rica.
+    html: "Il est préférable d'activer l'eSIM Costa Rica après avoir atterri."
   - icon: ⏰
-    html: La validité commence lors de la connexion au réseau partenaire.
+    html: 'Le décompte commence dès la connexion au réseau local.'
   - icon: 📧
-    html: Le code QR sera envoyé à votre adresse e-mail.
+    html: "Le code QR arrive par e-mail dès l'achat."
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: 'Il est possible de stocker deux eSIM ou plus en parallèle.'
+  - icon: 📍
+    html: "Astuce : l'eSIM Costa Rica couvre aussi San José comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Pas sûr ? Vérifiez immédiatement sur votre téléphone :'
@@ -291,14 +290,14 @@ reminders:
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       s'affiche, l'eSIM est prise en charge !
 activation_steps:
-  title: 'Activation eSIM Costa Rica: 3 Etapes Simples'
+  title: "Activation eSIM Costa Rica : Guide d'Activation Complet"
   steps:
   - num: '1'
     title: Recevez et conservez le code QR – préparez-vous pour Costa Rica
     desc: Immédiatement après votre commande, vous recevrez un e-mail avec votre code QR d'activation personnel et des instructions.
       Conservez le code QR sur votre smartphone ou imprimez-le – vous n'avez pas besoin d'une connexion Internet active pour
       l'installation ultérieure. L'eSIM est valable 30 jours, vous pouvez donc la préparer tranquillement pour votre voyage
-      à Costa Rica.
+      au Costa Rica.
     is_list: false
   - num: '2'
     title: Installez l'eSIM sur votre appareil – scannez le code QR
@@ -313,13 +312,13 @@ activation_steps:
   - num: '3'
     title: Préparez-vous à la maison – testez sans risque
     desc: Après l'installation, vous pouvez laisser l'eSIM désactivée dans les réglages. Cependant, vous pouvez déjà la tester
-      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez à Costa Rica, il vous
+      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez au Costa Rica, il vous
       suffit d'activer l'eSIM – la validité commencera automatiquement lors de la première connexion au réseau Claro / Movistar.
       Aucun frais caché d'activation, aucun frais d'itinérance.
     is_list: false
   - num: '4'
-    title: 'Arrivée à Costa Rica : connexion instantanée 5G/4G'
-    desc: Dès que vous atterrissez à Costa Rica (par exemple dans Aéroport international Juan Santamaría (San José), Aéroport
+    title: 'Arrivée au Costa Rica : connexion instantanée 5G/4G'
+    desc: Dès que vous atterrissez au Costa Rica (par exemple à l'aéroport international Juan Santamaría (San José), Aéroport
       international Daniel Oduber (Liberia), Aéroport international Tobías Bolaños (San José)), désactivez le mode avion (ou
       restez dedans et activez uniquement l'eSIM). Allez dans **Réglages → Réseau cellulaire** et activez votre eSIM Roami
       pour Costa Rica. En quelques secondes, votre appareil se connectera automatiquement au réseau 5G/4G le plus rapide disponible
@@ -327,40 +326,40 @@ activation_steps:
       connexion avec d'autres appareils – sans attente, sans pièce d'identité, sans contrat.
     is_list: false
 faq_section:
-  title: "Vous partez à Costa Rica? Découvrez la vitesse de l eSIM, la couverture réseau et les conseils utiles."
-  desc: "Vous partez à Costa Rica? Découvrez tout sur l'eSIM Costa Rica : vitesses 4G/5G réelles, couverture du réseau Kölbi en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
+  title: 'eSIM Costa Rica : questions et réponses pratiques'
+  desc: "Tout sur l'eSIM Costa Rica : opérateurs locaux, qualité du réseau et conseils d'installation pas à pas."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: "Tout sur l eSIM pour Costa Rica"
+    title: "Questions fréquentes sur l'eSIM Costa Rica"
 
     questions:
     - q: |
-            Le forfait de donnees illimité pour Costa Rica est-il
+            Le forfait de données illimité pour Costa Rica est-il
 
       a: |
-        Après 30GB/jour, le débit passe à 512 kbps. Les voyageurs utilisent en moyenne 500MB-3GB/jour. Un forfait 10GB ($14.99) ou illimité ($59.99) convient selon l'usage. Le Costa Rica est principalement en 4G, la 5G se déploi Un forfait 5GB ($9.99) suffit pour une semaine.
+        Après 30GB/jour, le débit passe à 512 kbps. Les voyageurs utilisent en moyenne 500MB-3GB/jour. Un forfait 10GB (34,99 $) ou illimité (38,99 $) convient selon l'usage. Le Costa Rica est principalement en 4G, la 5G se déploi Un forfait 5GB (20,99 $) suffit pour une semaine.
     - q: |
         Est-ce que le partage de connexion hotspot est autorise sur tous les forfaits eSIM Costa Rica?
       a: |
-        Oui — tous les forfaits Roami incluent le partage de connexion (point d'accès personnel). Activez le partage dans les réglages de votre téléphone pour connecter votre PC, tablette ou ceux de vos compagnons de voyage. Pour une utilisation professionnelle (visioconférence, fichiers volumineux), un forfait 10GB ($14.99) ou illimité ($59.99) est conseillé.
+        Oui — tous les forfaits Roami incluent le partage de connexion (point d'accès personnel). Activez le partage dans les réglages de votre téléphone pour connecter votre PC, tablette ou ceux de vos compagnons de voyage. Pour une utilisation professionnelle (visioconférence, fichiers volumineux), un forfait 10GB (34,99 $) ou illimité (38,99 $) est conseillé.
     - q: |
         Quel est le meilleur choix pour internet en Costa Rica: eSIM, Pocket WiFi ou carte SIM locale?
       a: |
-        L'eSIM est plus pratique: pas d'appareil supplémentaire à transporter ou à recharger, pas de caution à payer. La location d'un pocket WiFi coûte $3-8 par jour plus une caution, et la batterie tient 6-10 heures. Roami eSIM commence à $1.99 par jour, fonctionne directement dans votre téléphone et ne nécessite pas de recharge séparée. Les deux permettent le partage de connexion.
+        L'eSIM est plus pratique: pas d'appareil supplémentaire à transporter ou à recharger, pas de caution à payer. La location d'un pocket WiFi coûte $3-8 par jour plus une caution, et la batterie tient 6-10 heures. Roami eSIM commence à 9,99 $ (7 jours, 1GB), fonctionne directement dans votre téléphone et ne nécessite pas de recharge séparée. Les deux permettent le partage de connexion.
     - q: |
-        Faut-il enlever sa carte SIM francaise pour utiliser l eSIM Costa Rica ou les deux peuvent-elles coexister?
+        Faut-il enlever sa carte SIM française pour utiliser l'eSIM Costa Rica ou les deux peuvent-elles coexister?
       a: |
         Pas du tout — votre carte SIM reste en place dans le slot 1. L'eSIM fonctionne en parallèle dans le slot 2. Vous pouvez ainsi utiliser votre numéro français pour les appels et SMS, et l'eSIM pour les données. Cette configuration permet d'économiser 30-50% par rapport à une carte SIM d'aéroport, tout en conservant vos services habituels.
     - q: |
-        Puis-je regarder des videos en streaming avec l eSIM Costa Rica sans mise en buffer constante?
+        Puis-je regarder des vidéos en streaming avec l'eSIM Costa Rica sans mise en buffer constante?
       a: |
-        Oui — le streaming passe par la connexion eSIM sans restriction. Netflix en HD consomme environ 1GB par heure, Spotify 50-100MB par heure. Avec un forfait 5GB ($9.99), vous pouvez regarder environ 5 heures de Netflix en HD ou écouter 50 heures de musique. Pour les gros consommateurs de streaming, le forfait illimité ($59.99) est plus adapté. Alternative: téléchargez vos contenus en WiFi avant de partir.
+        Oui — le streaming passe par la connexion eSIM sans restriction. Netflix en HD consomme environ 1GB par heure, Spotify 50-100MB par heure. Avec un forfait 5GB (20,99 $), vous pouvez regarder environ 5 heures de Netflix en HD ou écouter 50 heures de musique. Pour les gros consommateurs de streaming, le forfait illimité (38,99 $) est plus adapté. Alternative: téléchargez vos contenus en WiFi avant de partir.
     - q: |
-        Si j oublie d acheter l eSIM Costa Rica avant le vol, puis-je le faire depuis l aeroport?
+        Si j'oublie d'acheter l'eSIM Costa Rica avant le vol, puis-je le faire depuis l'aéroport?
       a: |
-        Oui — le QR code est envoyé par email sous 5 minutes après l'achat. Vous pouvez commander à l'aéroport et installer dans l'avion. À l'arrivée dans Costa Rica, activez l'itinérance des données et vous serez connecté en 1 à 2 minutes. Temps total entre l'achat et la connexion: moins de 10 minutes si vous installez à l'avance.
+        Oui — le QR code est envoyé par email sous 5 minutes après l'achat. Vous pouvez commander à l'aéroport et installer dans l'avion. À l'arrivée au Costa Rica, activez l'itinérance des données et vous serez connecté en 1 à 2 minutes. Temps total entre l'achat et la connexion: moins de 10 minutes si vous installez à l'avance.
     - q: |
         Y a-t-il une limite de profils eSIM stockables sur iPhone ou Android quand on voyage en Costa Rica?
       a: |
@@ -368,7 +367,7 @@ faq_section:
     - q: |
         Quelle est la différence entre un forfait 5GB et un forfait illimité pour Costa Rica?
       a: |
-        Le forfait 5GB ($9.99) offre un volume de données fixe — suffisant pour environ 500 heures d'appels WhatsApp, 10 heures de vidéo ou une semaine de navigation normale. Le forfait illimité ($59.99) continue après 30GB mais le débit est réduit à 512 kbps. Pour la plupart des voyageurs (cartes, messagerie, photos), 5GB suffit. Pour le streaming intensif ou le partage de connexion, choisissez l'illimité.
+        Le forfait 5GB (20,99 $) offre un volume de données fixe — suffisant pour environ 500 heures d'appels WhatsApp, 10 heures de vidéo ou une semaine de navigation normale. Le forfait illimité (38,99 $) continue après 30GB mais le débit est réduit à 512 kbps. Pour la plupart des voyageurs (cartes, messagerie, photos), 5GB suffit. Pour le streaming intensif ou le partage de connexion, choisissez l'illimité.
 related_products:
   title: Forfaits eSIM similaires
   items:
@@ -389,7 +388,7 @@ related_products:
     slug: europe-esim
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: À partir de 1,99 $
+    price: 'À partir de 3,99 $'
     is_highlight: false
     slug: canada-esim
   - name: eSIM Turquie
@@ -433,8 +432,8 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'eSIM pour les Costa-Rica contre carte SIM : guide complet comparatif'
-  subtitle: Cartes SIM prépayées locales au Costa Rica contre solutions eSIM (benchmark 2024/2025)
+  title: 'eSIM Costa Rica ou carte SIM prépayée : la comparaison détaillée'
+  subtitle: 'Ce qui coûte le moins cher pour un séjour au Costa Rica : SIM ou eSIM ?'
   citation:
     text: 'Source des données : Prepaid Data SIM Card Wiki (Costa-Rica) + sites Web des opérateurs locaux'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Costa-Rica
@@ -468,7 +467,7 @@ market_analysis:
       autres opérateurs n'offrent pas de roaming abordable.
     esim_title: Itinérance mondiale transparente
     esim_desc: Contrairement à Liberty qui facture 1 $/Mo en dépassement de roaming aux États-Unis, Roami propose des forfaits
-      multi-pays transparents à partir de 1,99 $/Go, sans frais cachés.
+      multi-pays transparents à partir de 9,99 $, sans frais cachés.
   - icon: calendar-xmark
     title: Cycle de facturation et<br>coûts perdus
     prepaid_title: ''
@@ -476,7 +475,7 @@ market_analysis:
       colones. Un voyage de 5 jours avec un forfait 30 jours entraîne une perte de valeur de plus de 80 %.
     esim_title: Forfaits flexibles sans gaspillage
     esim_desc: 'Les forfaits locaux imposent des cycles de 30 jours (ex: Claro 30 jours/10 Go à 17 500 colones). Roami propose
-      des forfaits de 7 jours à partir de 1,99 $/Go, adaptés à la durée du séjour, évitant 80 % de perte.'
+      des forfaits de 7 jours à partir de 9,99 $, adaptés à la durée du séjour, évitant 80 % de perte.'
   - icon: wifi
     title: Partage de connexion et<br>politique de vitesse
     prepaid_title: ''
@@ -502,7 +501,7 @@ market_analysis:
     esim_desc: Contrairement au support local uniquement en espagnol et aux horaires limités, Roami offre une assistance en
       français et anglais 24h/24 et 7j/7 par chat et email.
   expert_verdict:
-    title: 'eSIM pour les Costa-Rica : la solution ultime pour une connectivité sans stress et économique'
+    title: 'eSIM Costa-Rica : la solution ultime pour une connectivité sans stress et économique'
     cards:
     - icon: credit-card
       icon_bg: bg-emerald-100
@@ -521,7 +520,7 @@ market_analysis:
       icon_color: text-rose-600
       title: Évitez les frais de roaming exorbitants
       desc: Liberty facture <b>1 $/Mo</b> en dépassement de roaming aux États-Unis. Roami propose des forfaits multi-pays
-        à partir de <b>1,99 $/Go</b>, sans surprise.
+        à partir de <b>9,99 $</b>, sans surprise.
     - icon: clock
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600

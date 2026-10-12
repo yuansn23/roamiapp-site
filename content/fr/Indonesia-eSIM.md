@@ -1,15 +1,15 @@
 ---
-title: 'Forfait eSIM Indonésie 2026: 5G & Forfaits | Roami'
-date: '2026-06-24T00:00:00+00:00'
+title: 'eSIM Indonésie 2026 : Réseau et Couverture | Roami'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Indonésie
-  scenario_keywords: voyage Bali, séjour culturel Yogyakarta, affaires Jakarta, plongée Lombok, randonnée Sumatra
+  scenario_keywords: 'voyage linguistique, boucle de plusieurs pays, visite de parcs nationaux, séjour culturel, tourisme de nature'
   operators: Telkomsel, XL Axiata, Indosat
   competitors: Airalo, Holafly, Nomad, Ubigi, BNESIM
   main_cities: Jakarta, Surabaya, Bandung, Medan, Semarang
-  main_packages: 3/7/15/30 jours, données illimitées
+  main_packages: 'Offres 3/7/15/30 jours - option illimitée disponible'
 modal:
   title: Mise à jour du service !
   btn_text: Continuer
@@ -18,11 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: Indonésie eSIM | Activation immédiate sans engagement
-  description: Pour Indonésie, choisissez Roami et payez moins cher. Notre eSIM est au meilleur prix pour voyager sans vous
-    ruiner. Couvre tout le pays.
-  keywords: eSIM Indonésie, forfait eSIM Indonésie, meilleure eSIM Indonésie, Indonésie data, Telkomsel Indonésie, XL Axiata
-    Indonésie, Indosat Indonésie, eSIM Jakarta, eSIM Surabaya, eSIM Bandung, internet mobile Indonésie, 5G Indonésie
+  title: 'Indonésie eSIM | Meilleur prix garanti'
+  description: 'eSIM Indonésie : forfaits flexibles, réseau fiable, support 24/7.'
+  keywords: 'eSIM Indonésie, forfait eSIM Indonésie, meilleure eSIM Indonésie, eSIM Indonésie pas cher, acheter eSIM Indonésie en ligne, données illimitées eSIM Indonésie, carte eSIM prépayée Indonésie, eSIM Indonésie pour voyageurs, prix eSIM Indonésie, activation eSIM Indonésie, couverture eSIM Indonésie, eSIM Indonésie 5G, eSIM Jakarta, eSIM Surabaya'
 order_summary:
   title: Forfait sélectionné
   label_data: Volume de données
@@ -38,14 +36,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleure eSIM pour Indonésie
-  title: Meilleure eSIM pour Indonésie
+  title: 'Meilleure eSIM Indonésie'
 hero:
   flag_image: img/flags/id.svg
   flag_alt: Drapeau Indonésie
-  title: 'eSIM Indonésie: 5G Rapide pour Chaque Destination'
-  subtitle: Meilleure eSIM prépayée pour Indonésie - 5G rapide, activation instantanée, support 24/7
+  title: "eSIM Indonésie : Connecté dès l'Atterrissage"
+  subtitle: 'eSIM Indonésie - activation par QR code, 5G rapide, aide 24/7'
 features:
-  title: 'Pourquoi les voyageurs choisissent Roami pour Indonésie: Vitesse, Couverture & Support'
+  title: 'Les atouts Roami pour votre eSIM Indonésie : Forfaits, Réseau & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Sélection auto
     desc: Connexion auto aux meilleurs opérateurs Indonésie pour le signal le plus fort
-plans_title: 'Acheter eSIM Indonésie: Forfaits pour Tout Voyage'
+plans_title: 'Acheter eSIM Indonésie : Tarifs eSIM à petit prix'
 plans_data:
   15 jours:
   - spec: Illimité
@@ -297,7 +295,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Valable : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Indonésie: Guide Complet des Réseaux Locaux'
+  title: 'Couverture eSIM Indonésie : Couverture & Comparatif Opérateurs'
   supports_text: 'Prend en charge :'
   service_details:
     title: Détails du service
@@ -305,8 +303,8 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Couverture
-      desc: Profitez d'une couverture reseau complete dans toute Indonésie, y compris Jakarta, Surabaya, Bandung, Medan. Votre
-        eSIM se connecte aux reseaux robustes de Telkomsel, XL Axiata, Indosat.
+      desc: Profitez d'une couverture réseau complète en Indonésie, y compris Jakarta, Surabaya, Bandung, Medan. Votre
+        eSIM se connecte aux réseaux robustes de Telkomsel, XL Axiata, Indosat.
     - icon: zap
       color: text-amber-500
       title: Délai de livraison
@@ -316,7 +314,7 @@ network_coverage:
       title: Point d'accès
       desc: Pas de restriction sur le point d'accès.
   carriers:
-    title: 'Telkomsel, XL Axiata & Indosat: Operateurs eSIM Indonésie'
+    title: 'Telkomsel, XL Axiata & Indosat : qualité et étendue du réseau'
     badge: Partenaire officiel
     items:
     - name: Telkomsel
@@ -326,19 +324,20 @@ network_coverage:
       coverage: 5G rapide en villes
       network: Réseau 5G/4G/LTE
 reminders:
-  title: 'Conseils eSIM Indonésie: Avant de Partir'
+  title: "Conseils eSIM Indonésie : Ce Qu'il Faut Savoir"
   items:
   - icon: 📱
-    html: Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
+    html: 'Pensez-y : <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> sur votre téléphone.'
   - icon: ✈️
-    html: Nous recommandons d'activer l'eSIM uniquement après votre arrivée à Indonésie.
+    html: "Il est préférable d'activer l'eSIM Indonésie après avoir atterri."
   - icon: ⏰
-    html: La validité commence lors de la connexion au réseau partenaire.
+    html: 'Votre forfait démarre au moment de la connexion au réseau local.'
   - icon: 📧
-    html: Le code QR sera envoyé à votre adresse e-mail.
+    html: "Votre code QR sera envoyé par courriel dès l'achat."
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: "Vous avez la possibilité de stocker d'autres profils eSIM en parallèle."
+  - icon: 📍
+    html: "Astuce : l'eSIM Indonésie couvre aussi Jakarta comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Pas sûr ? Vérifiez immédiatement sur votre téléphone :'
@@ -347,14 +346,14 @@ reminders:
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       s'affiche, l'eSIM est prise en charge !
 activation_steps:
-  title: 'Activation eSIM Indonésie: 3 Etapes Simples'
+  title: "Activation eSIM Indonésie : 3 Étapes, C'est Tout"
   steps:
   - num: '1'
     title: Recevez et conservez le code QR – préparez-vous pour Indonésie
     desc: Immédiatement après votre commande, vous recevrez un e-mail avec votre code QR d'activation personnel et des instructions.
       Conservez le code QR sur votre smartphone ou imprimez-le – vous n'avez pas besoin d'une connexion Internet active pour
       l'installation ultérieure. L'eSIM est valable 30 jours, vous pouvez donc la préparer tranquillement pour votre voyage
-      à Indonésie.
+      en Indonésie.
     is_list: false
   - num: '2'
     title: Installez l'eSIM sur votre appareil – scannez le code QR
@@ -369,13 +368,13 @@ activation_steps:
   - num: '3'
     title: Préparez-vous à la maison – testez sans risque
     desc: Après l'installation, vous pouvez laisser l'eSIM désactivée dans les réglages. Cependant, vous pouvez déjà la tester
-      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez à Indonésie, il vous
+      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez en Indonésie, il vous
       suffit d'activer l'eSIM – la validité commencera automatiquement lors de la première connexion au réseau Telkomsel /
       XL Axiata. Aucun frais caché d'activation, aucun frais d'itinérance.
     is_list: false
   - num: '4'
-    title: 'Arrivée à Indonésie : connexion instantanée 5G/4G'
-    desc: Dès que vous atterrissez à Indonésie (par exemple dans Aéroport international Soekarno-Hatta (Jakarta), Aéroport
+    title: 'Arrivée en Indonésie : connexion instantanée 5G/4G'
+    desc: Dès que vous atterrissez en Indonésie (par exemple à l'aéroport international Soekarno-Hatta (Jakarta), Aéroport
       international Ngurah Rai (Bali), Aéroport international Juanda (Surabaya)), désactivez le mode avion (ou restez dedans
       et activez uniquement l'eSIM). Allez dans **Réglages → Réseau cellulaire** et activez votre eSIM Roami pour Indonésie.
       En quelques secondes, votre appareil se connectera automatiquement au réseau 5G/4G le plus rapide disponible de Telkomsel
@@ -383,51 +382,51 @@ activation_steps:
       avec d'autres appareils – sans attente, sans pièce d'identité, sans contrat.
     is_list: false
 faq_section:
-  title: "Indonésie eSIM : vitesse, couverture et qualité de la connexion, tout savoir avant de partir."
-  desc: "Vous partez à Indonésie? Découvrez tout sur l'eSIM Indonésie : vitesses 4G/5G réelles, couverture du réseau Telkomsel en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
+  title: 'eSIM Indonésie : guide de la connexion sur place'
+  desc: "Tout sur l'eSIM Indonésie : couverture, débits 5G et conseils pour une connexion fiable."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: "Questions frequentes sur l eSIM pour Indonesie"
+    title: "Guide pratique de l'eSIM Indonésie"
 
     questions:
     - q: |
-            Quel est le forfait de donnees eSIM le moins cher pour
+            Quel est le forfait de données eSIM le moins cher pour
 
       a: |
-        Le forfait le moins cher commence à $1.99. La plupart choisissent 5GB/15 jours ($9.99). Évitez les kiosques d'aéroport qui sont 30-50% plus chers.
+        Le forfait le moins cher est à 1,99 $ (3 jours, 1GB). La plupart choisissent 50GB/15 jours (37,99 $). Évitez les kiosques d'aéroport qui sont 30-50% plus chers.
     - q: |
-            Quelle est la différence entre un forfait de donnees 5GB et un forfait illimité pour
+            Quelle est la différence entre un forfait de données 5GB et un forfait illimité pour
 
       a: |
-        Le forfait 5GB ($9.99) offre un volume de données fixe — suffisant pour environ 500 heures d'appels WhatsApp, 10 heures de vidéo ou une semaine de navigation normale. Le forfait illimité ($59.99) continue après 30GB mais le débit est réduit à 512 kbps. Pour la plupart des voyageurs (cartes, messagerie, photos), 5GB suffit. Pour le streaming intensif ou le partage de connexion, choisissez l'illimité.
+        Le forfait 5GB (5,99 $) offre un volume de données fixe — suffisant pour environ 500 heures d'appels WhatsApp, 10 heures de vidéo ou une semaine de navigation normale. Le forfait illimité (9,99 $) continue après 30GB mais le débit est réduit à 512 kbps. Pour la plupart des voyageurs (cartes, messagerie, photos), 5GB suffit. Pour le streaming intensif ou le partage de connexion, choisissez l'illimité.
     - q: |
         Puis-je recevoir les SMS de vérification bancaire avec eSIM Indonésie?
       a: |
         Oui — conservez votre carte SIM française dans le slot 1 pour recevoir les SMS (codes 2FA, validation bancaire). Les frais de réception de SMS à l'étranger sont d'environ $0.50 par message, bien moins que les données en itinérance. L'eSIM en slot 2 gère toutes les données. Cette configuration dual-SIM est supportée par 80% des téléphones depuis 2020.
     - q: |
-        Puis-je utiliser Google Maps dans le metro de Indonesia avec l eSIM ou vais-je perdre le signal?
+        Puis-je utiliser Google Maps dans le métro de Indonésie avec l'eSIM ou vais-je perdre le signal?
       a: |
         Dans la plupart des grandes villes, les stations de métro sont équipées d'antennes 4G/5G avec des vitesses de 10-30 Mbps. Dans les tunnels, la connexion peut être interrompue pendant 10-30 secondes puis reprend automatiquement. Téléchargez vos itinéraires et cartes hors-ligne avant de prendre le métro pour plus de tranquillité.
     - q: |
-        Quel est le moyen le plus simple d avoir internet mobile en Indonesie en tant que touriste?
+        Quel est le moyen le plus simple d'avoir internet mobile en Indonésie en tant que touriste?
       a: |
-        L'eSIM Roami est la solution la plus simple: achetez en ligne à partir de $1.99, recevez le QR code par email en 5 minutes, installez en 2 minutes. Pas de file d'attente à l'aéroport, pas de passeport à présenter, pas de carte SIM à insérer. Votre numéro français reste actif pour les SMS, et vous êtes connecté dès l'arrivée en activant l'itinérance.
+        Avec Roami, tout se fait en ligne à partir de 1,99 $: recevez le QR code par email en 5 minutes, installez en 2 minutes. Pas de file d'attente à l'aéroport, pas de passeport à présenter, pas de carte SIM à insérer. Votre numéro français reste actif pour les SMS, et vous êtes connecté dès l'arrivée en activant l'itinérance.
     - q: |
-        Si j installe l eSIM Indonesia avant le depart, est-ce que la validite commence tout de suite ou a l arrivee?
+        Si j'installe l'eSIM Indonésie avant le départ, est-ce que la validité commence tout de suite ou a l'arrivée?
       a: |
-        Avant le départ, sans exception. L'installation nécessite une connexion Internet, et le WiFi de l'aéroport demande souvent une vérification par SMS — un vrai piège si vous n'avez pas encore de réseau local. Le QR code arrive par email sous 5 minutes après l'achat. L'installation prend environ 2 minutes sur iPhone ou Android. À l'arrivée dans Indonésie, activez simplement l'itinérance des données. Vous serez connecté en moins de 60 secondes.
+        Avant le départ, sans exception. L'installation nécessite une connexion Internet, et le WiFi de l'aéroport demande souvent une vérification par SMS — un vrai piège si vous n'avez pas encore de réseau local. Le QR code arrive par email sous 5 minutes après l'achat. L'installation prend environ 2 minutes sur iPhone ou Android. À l'arrivée en Indonésie, activez simplement l'itinérance des données. Vous serez connecté en moins de 60 secondes.
     - q: |
-        Puis-je utiliser l eSIM Indonesia pour connecter mon ordinateur en hotspot sans frais supplementaires?
+        Puis-je utiliser l'eSIM Indonésie pour connecter mon ordinateur en hotspot sans frais supplémentaires?
       a: |
-        Oui — tous les forfaits Roami incluent le partage de connexion (point d'accès personnel). Activez le partage dans les réglages de votre téléphone pour connecter votre PC, tablette ou ceux de vos compagnons de voyage. Pour une utilisation professionnelle (visioconférence, fichiers volumineux), un forfait 10GB ($14.99) ou illimité ($59.99) est conseillé.
+        Oui — tous les forfaits Roami incluent le partage de connexion (point d'accès personnel). Activez le partage dans les réglages de votre téléphone pour connecter votre PC, tablette ou ceux de vos compagnons de voyage. Pour une utilisation professionnelle (visioconférence, fichiers volumineux), un forfait 10GB (8,99 $) ou illimité (9,99 $) est conseillé.
     - q: |
         Comment vérifier que mon eSIM Indonésie fonctionne dès l'atterrissage?
       a: |
         Ouvrez simplement une page web ou l'application Roami. Si la page s'affiche, tout fonctionne. Vous pouvez aussi vérifier le nom de l'opérateur dans les réglages du téléphone. Si rien ne s'affiche après 2 minutes, activez l'itinérance des données ou redémarrez le téléphone. Dans 90% des cas, le problème est résolu en moins d'une minute.
 related_products:
-  title: Forfaits eSIM similaires
+  title: "Comparer d'autres forfaits eSIM"
   items:
   - name: eSIM États-Unis
     flag: img/flags/us.svg
@@ -446,7 +445,7 @@ related_products:
     slug: europe-esim
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: À partir de 1,99 $
+    price: 'À partir de 3,99 $'
     is_highlight: false
     slug: canada-esim
   - name: eSIM Turquie
@@ -490,15 +489,15 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'eSIM pour les Indonesia contre prépayée : lequel vous convient le mieux ?'
-  subtitle: Cartes SIM prépayées locales en Indonésie contre solutions eSIM (benchmark 2024/2025)
+  title: 'eSIM Indonésie ou carte SIM prépayée : le match prix, réseau et confort'
+  subtitle: 'Le point sur les SIM prépayées et les eSIM pour Indonésie (2024/2025)'
   citation:
-    text: 'Source des données : Prepaid Data SIM Card Wiki (Indonesia) + sites Web des opérateurs locaux'
+    text: 'Source des données : Prepaid Data SIM Card Wiki (Indonésie) + sites Web des opérateurs locaux'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Indonesia
   table_headers:
   - Matrice de comparaison
   - Carte SIM prépayée locale (données de marché)
-  - Roami eSIM pour Indonesia
+  - Roami eSIM pour Indonésie
   table_rows:
   - icon: store
     title: Acquisition et<br>activation
@@ -534,7 +533,7 @@ market_analysis:
       forfait.
     esim_title: Forfaits flexibles sans perte
     esim_desc: Contrairement au cycle de 30 jours de Telkomsel (Rp 133 000 pour 25 Go) ou au forfait fixe de 10 jours d'Indosat,
-      Roami propose des forfaits de 7 jours à partir de 1,99 $/Go, économisant jusqu'à 83 % de pertes pour un séjour de 5
+      Roami propose des forfaits de 7 jours à partir de 1,99 $, économisant jusqu'à 83 % de pertes pour un séjour de 5
       jours.
   - icon: wifi
     title: Partage de connexion et<br>politique de vitesse
@@ -561,7 +560,7 @@ market_analysis:
     esim_desc: Bénéficiez d'une assistance en français 24h/24 et 7j/7, contrairement au support local souvent limité à l'indonésien
       et aux heures ouvrables.
   expert_verdict:
-    title: 'eSIM pour les Indonesia contre carte SIM prépayée : la solution ultime pour une connectivité sans stress'
+    title: 'eSIM Indonésie contre carte SIM prépayée : la solution ultime pour une connectivité sans stress'
     cards:
     - icon: clock
       icon_bg: bg-indigo-100

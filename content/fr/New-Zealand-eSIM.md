@@ -1,16 +1,15 @@
 ---
-title: 'Forfait eSIM Nouvelle-Zélande 2026: Opérateurs & Couverture | Roami'
-date: '2026-06-24T00:00:00+00:00'
+title: 'Forfait eSIM Nouvelle-Zélande 2026 : Activation & Réseau | Roami'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Nouvelle-Zélande
-  scenario_keywords: vacances en Nouvelle-Zélande, voyage d'affaires Nouvelle-Zélande, road trip Nouvelle-Zélande, séjour
-    linguistique Nouvelle-Zélande, trekking Nouvelle-Zélande
+  scenario_keywords: "randonnée, road trip en voiture, tourisme photographique, séjour chez l'habitant, city break"
   operators: Spark, Vodafone NZ, 2degrees
   competitors: Airalo, Holafly, Nomad, Ubigi, Flexiroam
   main_cities: Auckland, Wellington, Christchurch, Queenstown, Hamilton
-  main_packages: 3/7/15/30 jours, données illimitées
+  main_packages: '3/7/15/30 jours - option illimitée disponible'
 modal:
   title: Mise à jour du service !
   btn_text: Continuer
@@ -19,12 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: Nouv-Zélande eSIM | Meilleur prix sans engagement
-  description: Roami simplifie vos voyage a Nouvelle-Zélande. Une eSIM telechargeable avant le depart, et vous voila pare
-    pour l'aventure. Couvre les deux îles de Nouvelle-Zélande.
-  keywords: eSIM Nouvelle-Zélande, forfait eSIM Nouvelle-Zélande, meilleure eSIM Nouvelle-Zélande, Nouvelle-Zélande data,
-    Spark Nouvelle-Zélande, Vodafone NZ Nouvelle-Zélande, 2degrees Nouvelle-Zélande, eSIM Auckland, eSIM Wellington, eSIM
-    Christchurch, internet mobile Nouvelle-Zélande, 5G Nouvelle-Zélande
+  title: 'Nouvelle-Zélande eSIM | Achat en ligne en 5 minutes'
+  description: "eSIM Nouvelle-Zélande : achetez une eSIM et connectez-vous dès l'atterrissage."
+  keywords: 'eSIM Nouvelle-Zélande, forfait eSIM Nouvelle-Zélande, meilleure eSIM Nouvelle-Zélande, eSIM Nouvelle-Zélande pas cher, acheter eSIM Nouvelle-Zélande en ligne, données illimitées eSIM Nouvelle-Zélande, carte eSIM prépayée Nouvelle-Zélande, eSIM Nouvelle-Zélande pour voyageurs, prix eSIM Nouvelle-Zélande, activation eSIM Nouvelle-Zélande, couverture eSIM Nouvelle-Zélande, eSIM Nouvelle-Zélande 5G, eSIM Auckland, eSIM Wellington'
 order_summary:
   title: Forfait sélectionné
   label_data: Volume de données
@@ -40,14 +36,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleure eSIM pour Nouvelle-Zélande
-  title: Meilleure eSIM pour Nouvelle-Zélande
+  title: 'eSIM Nouvelle-Zélande sans Engagement'
 hero:
   flag_image: img/flags/nz.svg
   flag_alt: Drapeau Nouvelle-Zélande
-  title: 'eSIM Nouvelle-Zélande: Réseau Fiable pour les Voyageurs'
-  subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Nouvelle-Zélande
+  title: 'eSIM Nouvelle-Zélande : Votre Connexion de Voyage'
+  subtitle: 'eSIM Nouvelle-Zélande - prépayée, instantanée, sans justificatif'
 features:
-  title: 'Pourquoi les voyageurs choisissent Roami pour Nouvelle-Zélande: Réseau, Forfaits & Prix'
+  title: "Pourquoi les voyageurs préfèrent l'eSIM Nouvelle-Zélande de Roami : Vitesse, Couverture & Support"
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Sélection auto
     desc: Connexion auto aux meilleurs opérateurs Nouvelle-Zélande pour le signal le plus fort
-plans_title: 'Acheter eSIM Nouvelle-Zélande: Forfaits pour Tout Voyage'
+plans_title: 'Acheter une eSIM Nouvelle-Zélande : Offres au meilleur rapport qualité-prix'
 plans_data:
   30 jours:
   - spec: 5GB
@@ -283,7 +279,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Valable : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Nouvelle-Zélande: Couverture & Comparatif Opérateurs'
+  title: 'Couverture eSIM Nouvelle-Zélande : Villes, Opérateurs & Signal'
   supports_text: 'Prend en charge :'
   service_details:
     title: Détails du service
@@ -291,8 +287,8 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Couverture
-      desc: Profitez d'une couverture reseau complete dans toute Nouvelle-Zélande, y compris Auckland, Wellington, Christchurch,
-        Queenstown. Votre eSIM se connecte aux reseaux robustes de Spark, Vodafone NZ, 2degrees.
+      desc: Profitez d'une couverture réseau complète en Nouvelle-Zélande, y compris Auckland, Wellington, Christchurch,
+        Queenstown. Votre eSIM se connecte aux réseaux robustes de Spark, Vodafone NZ, 2degrees.
     - icon: zap
       color: text-amber-500
       title: Délai de livraison
@@ -302,7 +298,7 @@ network_coverage:
       title: Point d'accès
       desc: Pas de restriction sur le point d'accès.
   carriers:
-    title: 'Spark, Vodafone NZ & 2degrees: Operateurs eSIM Nouvelle-Zélande'
+    title: 'Spark, Vodafone NZ & 2degrees : couverture, vitesse et opérateurs'
     badge: Partenaire officiel
     items:
     - name: Spark
@@ -312,19 +308,20 @@ network_coverage:
       coverage: 5G rapide en villes
       network: Réseau 5G/4G/LTE
 reminders:
-  title: 'Conseils eSIM Nouvelle-Zélande: Avant de Partir'
+  title: 'Conseils eSIM Nouvelle-Zélande : À Savoir Avant le Départ'
   items:
   - icon: 📱
-    html: Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
+    html: 'Avant d''acheter, <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.'
   - icon: ✈️
-    html: Nous recommandons d'activer l'eSIM uniquement après votre arrivée à Nouvelle-Zélande.
+    html: "Il est préférable d'activer l'eSIM Nouvelle-Zélande après avoir atterri."
   - icon: ⏰
-    html: La validité commence lors de la connexion au réseau partenaire.
+    html: 'La validité démarre lors de votre première connexion sur le réseau hôte.'
   - icon: 📧
-    html: Le code QR sera envoyé à votre adresse e-mail.
+    html: 'Le QR code sera envoyé à votre adresse e-mail immédiatement après le paiement.'
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: 'Vous pouvez de garder plusieurs eSIM sur le même téléphone.'
+  - icon: 📍
+    html: "Astuce : l'eSIM Nouvelle-Zélande couvre aussi Auckland comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Pas sûr ? Vérifiez immédiatement sur votre téléphone :'
@@ -333,14 +330,14 @@ reminders:
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       s'affiche, l'eSIM est prise en charge !
 activation_steps:
-  title: 'Activation eSIM Nouvelle-Zélande: 3 Etapes Simples'
+  title: 'Activation eSIM Nouvelle-Zélande : Prêt en Moins de 5 Minutes'
   steps:
   - num: '1'
     title: Recevez et conservez le code QR – préparez-vous pour Nouvelle-Zélande
     desc: Immédiatement après votre commande, vous recevrez un e-mail avec votre code QR d'activation personnel et des instructions.
       Conservez le code QR sur votre smartphone ou imprimez-le – vous n'avez pas besoin d'une connexion Internet active pour
       l'installation ultérieure. L'eSIM est valable 30 jours, vous pouvez donc la préparer tranquillement pour votre voyage
-      à Nouvelle-Zélande.
+      en Nouvelle-Zélande.
     is_list: false
   - num: '2'
     title: Installez l'eSIM sur votre appareil – scannez le code QR
@@ -355,13 +352,13 @@ activation_steps:
   - num: '3'
     title: Préparez-vous à la maison – testez sans risque
     desc: Après l'installation, vous pouvez laisser l'eSIM désactivée dans les réglages. Cependant, vous pouvez déjà la tester
-      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez à Nouvelle-Zélande,
+      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez en Nouvelle-Zélande,
       il vous suffit d'activer l'eSIM – la validité commencera automatiquement lors de la première connexion au réseau Spark
       / Vodafone NZ. Aucun frais caché d'activation, aucun frais d'itinérance.
     is_list: false
   - num: '4'
-    title: 'Arrivée à Nouvelle-Zélande : connexion instantanée 5G/4G'
-    desc: Dès que vous atterrissez à Nouvelle-Zélande (par exemple dans Aéroport international d'Auckland, Aéroport international
+    title: 'Arrivée en Nouvelle-Zélande : connexion instantanée 5G/4G'
+    desc: Dès que vous atterrissez en Nouvelle-Zélande (par exemple à l'aéroport international d'Auckland, Aéroport international
       de Wellington, Aéroport international de Christchurch), désactivez le mode avion (ou restez dedans et activez uniquement
       l'eSIM). Allez dans **Réglages → Réseau cellulaire** et activez votre eSIM Roami pour Nouvelle-Zélande. En quelques
       secondes, votre appareil se connectera automatiquement au réseau 5G/4G le plus rapide disponible de Spark / Vodafone
@@ -369,35 +366,35 @@ activation_steps:
       appareils – sans attente, sans pièce d'identité, sans contrat.
     is_list: false
 faq_section:
-  title: "eSIM Nouvelle-Zélande pour voyager : quelle est la qualité du réseau 4G/5G? Guide des vitesses et couverture."
-  desc: "Vous partez à Nouvelle-Zélande? Découvrez tout sur l'eSIM Nouvelle-Zélande : vitesses 4G/5G réelles, couverture du réseau Spark en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
+  title: 'eSIM Nouvelle-Zélande : vitesse, réseau et bons plans'
+  desc: "Tout sur l'eSIM Nouvelle-Zélande : vitesses 4G/5G réelles, couverture du réseau et conseils pratiques pour rester connecté."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: "Tout sur l eSIM pour Nouvelle Zelande"
+    title: 'eSIM Nouvelle-Zélande : ressources pour voyageurs'
 
     questions:
     - q: |
-        Combien de données un touriste utilise-t-il par jour à Nouvelle-Zélande?
+        Combien de données un touriste utilise-t-il par jour en Nouvelle-Zélande?
       a: |
-        En moyenne, un touriste consomme 300-500MB par jour pour la navigation, la messagerie et les réseaux sociaux. Avec des appels vidéo ou du streaming, la consommation peut atteindre 1-2GB par jour. Pour une semaine, un forfait 5GB ($9.99) est généralement suffisant. Pour deux semaines, prévoyez 10GB ($14.99).
+        En moyenne, un touriste consomme 300-500MB par jour pour la navigation, la messagerie et les réseaux sociaux. Avec des appels vidéo ou du streaming, la consommation peut atteindre 1-2GB par jour. Pour une semaine, un forfait 5GB (5,99 $) est en général suffisant. Pour deux semaines, prévoyez 10GB (8,99 $).
     - q: |
-        Quel est le meilleur rapport qualite-prix pour l eSIM New Zealand selon la duree du sejour?
+        Quel est le meilleur rapport qualité-prix pour l'eSIM Nouvelle-Zélande selon la durée du séjour?
       a: |
-        Le 5GB/15 jours ($9.99) est le plus populaire — il suffit pour la navigation GPS, les réseaux sociaux et la messagerie quotidienne. Pour les voyageurs qui regardent des vidéos ou travaillent à distance, le forfait 10GB ($14.99) offre plus de marge. Le forfait illimité ($59.99) est idéal pour le partage de connexion ou les longs séjours.
+        Le 20GB/7 jours (15,99 $) est le plus populaire — parfait pour la navigation GPS, les réseaux sociaux et la messagerie du quotidien. Pour les voyageurs qui regardent des vidéos ou travaillent à distance, le forfait 10GB (8,99 $) offre plus de marge. Le forfait illimité (12,99 $) est idéal pour le partage de connexion ou les longs séjours.
     - q: |
-        Est-ce que Roami applique des frais d activation caches pour l eSIM New Zealand en plus du prix?
+        Est-ce que Roami applique des frais d'activation cachés pour l'eSIM Nouvelle-Zélande en plus du prix?
       a: |
-        Non — le prix affiché est le prix final, sans aucune taxe ajoutée ni frais de dossier. Les forfaits commencent à $1.99 (7 jours, 1GB). Le forfait 5GB ($9.99) n'a pas de surprise. Pas de renouvellement automatique, pas de frais d'activation: le forfait s'arrête simplement à la date d'expiration.
+        Non — le prix affiché est le prix final, sans aucune taxe ajoutée ni frais de dossier. Les tarifs démarrent à 3,99 $ (7 jours, 1GB). Le forfait 5GB (5,99 $) n'a rien d'imprévisible. Pas de renouvellement automatique, pas de frais d'activation: le forfait s'arrête simplement à la date d'expiration.
     - q: |
-        Si mon forfait eSIM New Zealand est epuise, puis-je ajouter des gigas depuis mon telephone directement?
+        Si mon forfait eSIM Nouvelle-Zélande est épuisé, puis-je ajouter des gigas depuis mon téléphone directement?
       a: |
         Oui — la recharge se fait directement depuis l'application Roami, où que vous soyez. Le nouveau forfait est activé instantanément, sans nouveau QR code ni réinstallation. Nous recommandons de recharger lorsque vous atteignez 20% de données restantes. Roami vous envoie une notification à 70% et 90% de consommation.
     - q: |
         Quelle est la différence entre un forfait 5GB et un forfait illimité pour Nouvelle-Zélande?
       a: |
-        Le forfait 5GB ($9.99) offre un volume de données fixe — suffisant pour environ 500 heures d'appels WhatsApp, 10 heures de vidéo ou une semaine de navigation normale. Le forfait illimité ($59.99) continue après 30GB mais le débit est réduit à 512 kbps. Pour la plupart des voyageurs (cartes, messagerie, photos), 5GB suffit. Pour le streaming intensif ou le partage de connexion, choisissez l'illimité.
+        Le forfait 5GB (5,99 $) offre un volume de données fixe — suffisant pour environ 500 heures d'appels WhatsApp, 10 heures de vidéo ou une semaine de navigation normale. Le forfait illimité (12,99 $) continue après 30GB mais le débit est réduit à 512 kbps. Pour la plupart des voyageurs (cartes, messagerie, photos), 5GB suffit. Pour le streaming intensif ou le partage de connexion, choisissez l'illimité.
     - q: |
         Puis-je recevoir les SMS de vérification bancaire avec eSIM Nouvelle-Zélande?
       a: |
@@ -407,11 +404,11 @@ faq_section:
       a: |
         Non — elles sont généralement 30-50% plus chères que l'eSIM Roami, sans compter le temps d'attente aux kiosques. À l'aéroport, vous devez faire la queue, présenter votre passeport et parfois fournir une adresse locale. Avec Roami, vous achetez en ligne en 2 minutes, le QR code arrive par email, et vous gardez votre SIM française active.
     - q: |
-        Est-ce que je recois une alerte quand mon forfait eSIM New Zealand arrive a epuisement?
+        Est-ce que je reçois une alerte quand mon forfait eSIM Nouvelle-Zélande arrive à épuisement?
       a: |
         Oui — deux façons: directement dans les réglages du téléphone (Réglages > Données cellulaires > Utilisation des données) ou via le tableau de bord Roami. Roami envoie des notifications automatiques à 70% et 90% de consommation. En cas de besoin, vous pouvez recharger instantanément depuis l'application sans changer de SIM.
 related_products:
-  title: Forfaits eSIM similaires
+  title: 'eSIM pour vos prochaines destinations'
   items:
   - name: eSIM États-Unis
     flag: img/flags/us.svg
@@ -430,7 +427,7 @@ related_products:
     slug: europe-esim
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: À partir de 1,99 $
+    price: 'À partir de 3,99 $'
     is_highlight: false
     slug: canada-esim
   - name: eSIM Turquie
@@ -474,15 +471,15 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'eSIM pour les New-Zealand contre prépayée : quel est le meilleur rapport qualité-prix ?'
-  subtitle: Cartes SIM prépayées locales en Nouvelle-Zélande contre solutions eSIM (benchmark 2024/2025)
+  title: 'eSIM Nouvelle-Zélande ou carte SIM prépayée : avantages et limites de chaque option'
+  subtitle: 'Analyse 2024/2025 des forfaits SIM et eSIM pour Nouvelle-Zélande'
   citation:
-    text: 'Source des données : Prepaid Data SIM Card Wiki (New-Zealand) + sites Web des opérateurs locaux'
+    text: 'Source des données : Prepaid Data SIM Card Wiki (Nouvelle-Zélande) + sites Web des opérateurs locaux'
     url: https://prepaid-data-sim-card.fandom.com/wiki/New-Zealand
   table_headers:
   - Matrice de comparaison
   - Carte SIM prépayée locale (données de marché)
-  - Roami eSIM pour New-Zealand
+  - Roami eSIM pour Nouvelle-Zélande
   table_rows:
   - icon: store
     title: Acquisition et<br>activation
@@ -515,7 +512,7 @@ market_analysis:
       perte de 70 % de la valeur du forfait.
     esim_title: Forfaits flexibles sans gaspillage
     esim_desc: Contrairement au forfait One NZ Travel SIM de 30 jours (29 NZD/2 Go) qui gaspille 70 % pour un séjour de 7
-      jours, Roami propose des forfaits de 7 jours à partir de 1,99 $/Go, économisant ainsi les coûts perdus.
+      jours, Roami propose des forfaits de 7 jours à partir de 3,99 $, économisant ainsi les coûts perdus.
   - icon: wifi
     title: Partage de connexion et<br>politique de vitesse
     prepaid_title: ''
@@ -540,7 +537,7 @@ market_analysis:
     esim_desc: Le support des opérateurs locaux est limité aux horaires d'ouverture. Roami offre un support client 24h/24
       et 7j/7 en français pour résoudre vos problèmes instantanément.
   expert_verdict:
-    title: 'eSIM pour les New-Zealand : la solution ultime plus intelligente et économique que la carte SIM prépayée'
+    title: 'eSIM Nouvelle-Zélande : la solution ultime plus intelligente et économique que la carte SIM prépayée'
     cards:
     - icon: credit-card
       icon_bg: bg-emerald-100

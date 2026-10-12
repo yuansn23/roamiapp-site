@@ -1,16 +1,15 @@
 ---
-title: 'eSIM Moldavie 2026 : Guide 5G & données | Roami'
-date: '2026-06-17T00:00:00+00:00'
+title: 'eSIM Moldavie 2026 : Guide 5G et Données | Roami'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Moldavie
-  scenario_keywords: visite de Chișinău, dégustation de vin à Cricova, visite du monastère d'Orheiul Vechi, voyage en Transnistrie,
-    exploration de la campagne moldave
+  scenario_keywords: "voyage en couple, plongée sous-marine, excursion d'une journée, séjour bien-être, voyage d'affaires"
   operators: Orange Moldova, Moldcell, Moldtelecom
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Chișinău, Bălți, Tiraspol, Cahul, Ungheni
-  main_packages: 3/7/15/30 jours, données illimitées
+  main_packages: '3/7/15/30 jours avec données illimitées incluses'
 modal:
   title: Mise à jour du service !
   btn_text: Continuer
@@ -19,11 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: 'eSIM Moldavie : 5G haut débit et données illimitées'
-  description: Comparez les forfaits eSIM Moldavie avec la 5G rapide à Chișinău, Bălți et Tiraspol. Guide de couverture Orange
-    Moldova, Moldcell et Moldtelecom pour les touristes et les voyageurs. Activation par QR code instantanée à partir de 1,99 $.
-  keywords: eSIM Moldavie, acheter eSIM Moldavie, meilleure eSIM Moldavie, eSIM voyage Moldavie, Orange Moldova, Moldcell,
-    Moldtelecom, eSIM Chișinău, eSIM Bălți, eSIM Tiraspol, eSIM prépayée Moldavie, eSIM 5G Moldavie
+  title: 'Moldavie eSIM | Réservez votre eSIM maintenant'
+  description: 'eSIM Moldavie : réseau 5G, prix bas et activation instantanée.'
+  keywords: 'eSIM Moldavie, forfait eSIM Moldavie, meilleure eSIM Moldavie, eSIM Moldavie pas cher, acheter eSIM Moldavie en ligne, données illimitées eSIM Moldavie, carte eSIM prépayée Moldavie, eSIM Moldavie pour voyageurs, prix eSIM Moldavie, activation eSIM Moldavie, couverture eSIM Moldavie, eSIM Moldavie 5G, eSIM Chișinău, eSIM Bălți'
   low_price: 1.99
   high_price: 39.9
 order_summary:
@@ -41,14 +38,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleure eSIM pour Moldavie
-  title: Meilleure eSIM pour Moldavie
+  title: 'eSIM Moldavie Simple et Rapide'
 hero:
   flag_image: img/flags/mo.svg
   flag_alt: Drapeau Moldavie
-  title: 'eSIM Moldavie : connexion instantanée pour un voyage sans souci'
-  subtitle: Sans frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour les voyageurs en Moldavie
+  title: 'eSIM Moldavie : Rester en Ligne Facilement'
+  subtitle: 'eSIM Moldavie - forfait flexible, activation rapide, 5G inclus'
 features:
-  title: 'Pourquoi les voyageurs choisissent Roami pour Moldavie : couverture, vitesse et service'
+  title: "Pourquoi les voyageurs préfèrent l'eSIM Moldavie de Roami : Données, Couverture & Prix"
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -74,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Sélection auto
     desc: Connexion auto aux meilleurs opérateurs Moldavie pour le signal le plus fort
-plans_title: 'Acheter eSIM Moldavie: Forfaits pour Tout Voyage'
+plans_title: 'Acheter une eSIM Moldavie : Formules prépayés sans engagement'
 plans_data:
   30 jours:
   - spec: 30GB
@@ -268,7 +265,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Valable : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Moldavie : guide des opérateurs et carte de couverture'
+  title: 'Couverture eSIM Moldavie : Opérateurs Locaux & Zones Couvertes'
   supports_text: 'Prend en charge :'
   service_details:
     title: Détails du service
@@ -288,7 +285,7 @@ network_coverage:
       title: Point d'accès
       desc: Aucune limite de partage de connexion.
   carriers:
-    title: 'Orange Moldova, Moldcell & Moldtelecom : couverture eSIM Moldavie'
+    title: 'Orange Moldova, Moldcell & Moldtelecom : réseaux partenaires pour Moldavie'
     badge: Partenaire officiel
     items:
     - name: Orange Moldova
@@ -301,19 +298,20 @@ network_coverage:
       coverage: Bonne couverture urbaine
       network: Réseau 5G/4G/LTE
 reminders:
-  title: 'Conseils eSIM Moldavie : à savoir avant de partir'
+  title: 'Conseils eSIM Moldavie : Les Étapes Clés Avant le Voyage'
   items:
   - icon: 📱
-    html: Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
+    html: 'À retenir : <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> avant de commander.'
   - icon: ✈️
-    html: Nous recommandons d'activer la ligne après votre arrivée en Moldavie.
+    html: "Il est préférable d'activer l'eSIM Moldavie après avoir atterri."
   - icon: ⏰
-    html: La validité commence lors de la connexion à un réseau pris en charge.
+    html: 'La validité démarre au moment de votre première connexion sur le réseau hôte.'
   - icon: 📧
-    html: Le code QR sera envoyé à votre adresse e-mail.
+    html: 'Le QR code sera envoyé par courriel immédiatement après le paiement.'
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: "Vous pouvez de garder d'autres profils eSIM sur le même téléphone."
+  - icon: 📍
+    html: "Astuce : l'eSIM Moldavie couvre aussi Chișinău comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Votre téléphone est-il compatible eSIM ? Vérifiez-le vous-même en quelques secondes :'
@@ -322,7 +320,7 @@ reminders:
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       apparaît à l'écran, votre appareil est compatible !
 activation_steps:
-  title: "Comment installer l'eSIM Moldavie : 3 étapes simples"
+  title: 'Activation eSIM Moldavie : Installation Détaillée'
   steps:
   - num: '1'
     title: 'Étape 1 : Recevoir le code QR'
@@ -343,13 +341,13 @@ activation_steps:
       Nous recommandons de vous connecter au Wi-Fi lors de l'activation initiale.
     is_list: false
 faq_section:
-  title: "eSIM pour les voyageurs en Moldavie : vitesses réseau, couverture et conseils"
-  desc: "Guide complet des vitesses Internet eSIM, de la couverture réseau et de la qualité de connexion pour les voyageurs en Moldavie. Découvrez les vitesses à attendre et où l'eSIM fonctionne le mieux."
+  title: "eSIM Moldavie : questions fréquentes sur l'eSIM"
+  desc: "Tout sur l'eSIM Moldavie : questions fréquentes sur l'eSIM, le réseau et les forfaits locaux."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: "Questions fréquentes sur l'eSIM Moldavie"
+    title: "Tout savoir sur l'eSIM Moldavie"
     questions:
     - q: |
         Pour un touriste en Moldavie, Orange ou Moldcell est-il le meilleur choix ?
@@ -362,7 +360,7 @@ faq_section:
     - q: |
         J'ai besoin d'un accès Internet pour seulement quelques jours en Moldavie. Quel est le minimum que je peux acheter ?
       a: |
-        Le forfait le moins cher est à 1,99 $ pour 7 jours avec 1 Go — parfait pour un court week-end avec une utilisation légère. Si vous avez besoin de plus, rechargez à tout moment depuis l'application.
+        Le forfait le moins cher est à 1,99 $ (3 jours, 1GB). — parfait pour un court week-end avec une utilisation légère. Si vous avez besoin de plus, rechargez à tout moment depuis l'application.
     - q: |
         Puis-je utiliser des applications de navigation comme Google Maps avec une eSIM en Moldavie ?
       a: |
@@ -384,7 +382,7 @@ faq_section:
       a: |
         Absolument. Les réseaux Orange offrent des connexions stables pour Zoom, Teams et Google Meet. Pour le télétravail, un forfait 10 Go ou illimité est recommandé. L'eSIM prend également en charge le partage de connexion pour votre ordinateur portable.
 related_products:
-  title: Forfaits eSIM associés
+  title: 'Forfaits eSIM à découvrir'
   items:
   - name: eSIM États-Unis
     flag: img/flags/us.svg

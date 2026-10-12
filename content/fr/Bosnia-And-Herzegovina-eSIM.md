@@ -1,15 +1,15 @@
 ---
-title: 'Forfait eSIM Bosnie-Herzégovine 2026: Touristes & Réseau | Roami'
-date: '2026-06-24T00:00:00+00:00'
+title: 'Forfait eSIM Bosnie-Herzégovine 2026 : Prix & Couverture | Roami'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Bosnie-Herzégovine
-  scenario_keywords: voyage d'affaires, vacances en famille, visite touristique, road trip, festival culturel
+  scenario_keywords: 'shopping, voyage linguistique, boucle de plusieurs pays, visite de parcs nationaux, séjour culturel'
   operators: BH Telecom, m:tel, HT ERONET
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Sarajevo, Mostar, Banja Luka, Tuzla, Zenica
-  main_packages: 3/7/15/30 jours, données illimitées
+  main_packages: '30 jours, données à la carte'
 modal:
   title: Mise à jour du service !
   btn_text: Continuer
@@ -18,12 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: 'eSIM Bosnie 30 jours : Idéal pour voyages d''affaires'
-  description: Comparez les forfaits eSIM Bosnie-Herzégovine avec la 5G à Sarajevo, Mostar, Banja Luka. Guide de couverture
-    BH Telecom & m:tel & HT ERONET. Activation QR instantanee des $1.99.
-  keywords: eSIM Bosnie-Herzégovine, forfait eSIM Bosnie-Herzégovine, meilleure eSIM Bosnie-Herzégovine, Bosnie-Herzégovine
-    data, BH Telecom Bosnie-Herzégovine, m:tel Bosnie-Herzégovine, HT ERONET Bosnie-Herzégovine, eSIM Sarajevo, eSIM Mostar,
-    eSIM Banja Luka, internet mobile Bosnie-Herzégovine, 5G Bosnie-Herzégovine
+  title: 'Bosnie-Herzégovine eSIM | Offre eSIM instantanée'
+  description: 'eSIM Bosnie-Herzégovine : forfaits prépayés, livraison immédiate, sans frais cachés.'
+  keywords: 'eSIM Bosnie-Herzégovine, forfait eSIM Bosnie-Herzégovine, meilleure eSIM Bosnie-Herzégovine, eSIM Bosnie-Herzégovine pas cher, acheter eSIM Bosnie-Herzégovine en ligne, forfaits data eSIM Bosnie-Herzégovine, carte eSIM prépayée Bosnie-Herzégovine, eSIM Bosnie-Herzégovine pour voyageurs, prix eSIM Bosnie-Herzégovine, activation eSIM Bosnie-Herzégovine, couverture eSIM Bosnie-Herzégovine, eSIM Bosnie-Herzégovine 5G, eSIM Sarajevo, eSIM Mostar'
 order_summary:
   title: Forfait sélectionné
   label_data: Volume de données
@@ -39,14 +36,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleure eSIM pour Bosnie-Herzégovine
-  title: Meilleure eSIM pour Bosnie-Herzégovine
+  title: 'eSIM Bosnie-Herzégovine en Quelques Clics'
 hero:
   flag_image: img/flags/ba.svg
   flag_alt: Drapeau Bosnie-Herzégovine
-  title: 'eSIM Bosnie-Herzégovine: Réseau Fiable pour les Voyageurs'
-  subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Bosnie-Herzégovine
+  title: 'eSIM Bosnie-Herzégovine : Un Réseau 5G pour Tout le Voyage'
+  subtitle: 'eSIM Bosnie-Herzégovine - mise en route en 5 minutes, 5G, support en français'
 features:
-  title: 'Pourquoi les voyageurs choisissent Roami pour Bosnie-Herzégovine: Réseau, Forfaits & Prix'
+  title: 'Les atouts Roami pour votre eSIM Bosnie-Herzégovine : Réseau, Forfaits & Prix'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -72,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Sélection auto
     desc: Connexion auto aux meilleurs opérateurs Bosnie-Herzégovine pour le signal le plus fort
-plans_title: 'Acheter eSIM Bosnie-Herzégovine: Forfaits pour Tout Voyage'
+plans_title: 'Acheter eSIM Bosnie-Herzégovine : Formules 5G à prix réduit'
 plans_data:
   30 jours:
   - spec: 20GB
@@ -91,7 +88,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Valable : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Bosnie-Herzégovine: Couverture & Comparatif Opérateurs'
+  title: 'Couverture eSIM Bosnie-Herzégovine : Réseau 5G, Zones et Vitesse'
   supports_text: 'Prend en charge :'
   service_details:
     title: Détails du service
@@ -99,8 +96,8 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Couverture
-      desc: Profitez d'une couverture reseau complete dans toute Bosnie-Herzégovine, y compris Sarajevo, Mostar, Banja Luka,
-        Tuzla. Votre eSIM se connecte aux reseaux robustes de BH Telecom, m:tel, HT ERONET.
+      desc: Profitez d'une couverture réseau complète en Bosnie-Herzégovine, y compris Sarajevo, Mostar, Banja Luka,
+        Tuzla. Votre eSIM se connecte aux réseaux robustes de BH Telecom, m:tel, HT ERONET.
     - icon: zap
       color: text-amber-500
       title: Délai de livraison
@@ -110,7 +107,7 @@ network_coverage:
       title: Point d'accès
       desc: Pas de restriction sur le point d'accès.
   carriers:
-    title: 'BH Telecom, m:tel & HT ERONET: Operateurs eSIM Bosnie-Herzégovine'
+    title: 'BH Telecom, m:tel & HT ERONET : qui couvre le mieux le pays ?'
     badge: Partenaire officiel
     items:
     - name: BH Telecom
@@ -120,19 +117,20 @@ network_coverage:
       coverage: 5G rapide en villes
       network: Réseau 5G/4G/LTE
 reminders:
-  title: 'Conseils eSIM Bosnie-Herzégovine: Avant de Partir'
+  title: "Conseils eSIM Bosnie-Herzégovine : Tout Préparer à l'Avance"
   items:
   - icon: 📱
-    html: Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
+    html: 'Première étape, <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> avant de commander.'
   - icon: ✈️
-    html: Nous recommandons d'activer l'eSIM uniquement après votre arrivée à Bosnie-Herzégovine.
+    html: "Il est préférable d'activer l'eSIM Bosnie-Herzégovine après avoir atterri."
   - icon: ⏰
-    html: La validité commence lors de la connexion au réseau partenaire.
+    html: 'La validité démarre lors de votre première connexion au réseau partenaire.'
   - icon: 📧
-    html: Le code QR sera envoyé à votre adresse e-mail.
+    html: 'Le QR code sera envoyé à votre adresse e-mail en quelques minutes.'
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: 'Il est possible de conserver plusieurs eSIM simultanément.'
+  - icon: 📍
+    html: "Astuce : l'eSIM Bosnie-Herzégovine couvre aussi Sarajevo comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Pas sûr ? Vérifiez immédiatement sur votre téléphone :'
@@ -141,14 +139,14 @@ reminders:
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       s'affiche, l'eSIM est prise en charge !
 activation_steps:
-  title: 'Activation eSIM Bosnie-Herzégovine: 3 Etapes Simples'
+  title: 'Activation eSIM Bosnie-Herzégovine : Mise en Route Rapide'
   steps:
   - num: '1'
     title: Recevez et conservez le code QR – préparez-vous pour Bosnie-Herzégovine
     desc: Immédiatement après votre commande, vous recevrez un e-mail avec votre code QR d'activation personnel et des instructions.
       Conservez le code QR sur votre smartphone ou imprimez-le – vous n'avez pas besoin d'une connexion Internet active pour
       l'installation ultérieure. L'eSIM est valable 30 jours, vous pouvez donc la préparer tranquillement pour votre voyage
-      à Bosnie-Herzégovine.
+      en Bosnie-Herzégovine.
     is_list: false
   - num: '2'
     title: Installez l'eSIM sur votre appareil – scannez le code QR
@@ -163,13 +161,13 @@ activation_steps:
   - num: '3'
     title: Préparez-vous à la maison – testez sans risque
     desc: Après l'installation, vous pouvez laisser l'eSIM désactivée dans les réglages. Cependant, vous pouvez déjà la tester
-      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez à Bosnie-Herzégovine,
+      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez en Bosnie-Herzégovine,
       il vous suffit d'activer l'eSIM – la validité commencera automatiquement lors de la première connexion au réseau BH
       Telecom / m:tel. Aucun frais caché d'activation, aucun frais d'itinérance.
     is_list: false
   - num: '4'
-    title: 'Arrivée à Bosnie-Herzégovine : connexion instantanée 5G/4G'
-    desc: Dès que vous atterrissez à Bosnie-Herzégovine (par exemple dans Aéroport international de Sarajevo, Aéroport international
+    title: 'Arrivée en Bosnie-Herzégovine : connexion instantanée 5G/4G'
+    desc: Dès que vous atterrissez en Bosnie-Herzégovine (par exemple à l'aéroport international de Sarajevo, Aéroport international
       de Mostar, Aéroport international de Banja Luka), désactivez le mode avion (ou restez dedans et activez uniquement l'eSIM).
       Allez dans **Réglages → Réseau cellulaire** et activez votre eSIM Roami pour Bosnie-Herzégovine. En quelques secondes,
       votre appareil se connectera automatiquement au réseau 5G/4G le plus rapide disponible de BH Telecom / m:tel. Vous pourrez
@@ -177,23 +175,23 @@ activation_steps:
       – sans attente, sans pièce d'identité, sans contrat.
     is_list: false
 faq_section:
-  title: "Bosnie-Herzégovine eSIM : la 4G et la 5G sont-elles au rendez-vous? Guide complet de la couverture réseau."
-  desc: "Vous partez à Bosnie-Herzégovine? Découvrez tout sur l'eSIM Bosnie-Herzégovine : vitesses 4G/5G réelles, couverture du réseau BH Telecom en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
+  title: 'eSIM Bosnie-Herzégovine : tout sur la connexion mobile : guide utile'
+  desc: "Tout sur l'eSIM Bosnie-Herzégovine : tout ce que les voyageurs demandent : questions sur l'eSIM, le réseau et les forfaits."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: "Guide de l eSIM pour les voyageurs en Bosnie"
+    title: 'eSIM Bosnie-Herzégovine : les réponses des experts'
 
     questions:
     - q: |
-        Quel est le moyen le plus simple d avoir internet mobile en Bosnia And Herzegovina en tant que touriste?
+        Quel est le moyen le plus simple d'avoir internet mobile en Bosnie-Herzégovine en tant que touriste?
       a: |
-        L'eSIM Roami est la solution la plus simple: achetez en ligne à partir de $1.99, recevez le QR code par email en 5 minutes, installez en 2 minutes. Pas de file d'attente à l'aéroport, pas de passeport à présenter, pas de carte SIM à insérer. Votre numéro français reste actif pour les SMS, et vous êtes connecté dès l'arrivée en activant l'itinérance.
+        L'eSIM Roami est la solution la plus simple: achetez en ligne à partir de 30,99 $, recevez le QR code par email en 5 minutes, installez en 2 minutes. Pas de file d'attente à l'aéroport, pas de passeport à présenter, pas de carte SIM à insérer. Votre numéro français reste actif pour les SMS, et vous êtes connecté dès l'arrivée en activant l'itinérance.
     - q: |
-        Puis-je regarder des videos en streaming avec l eSIM Bosnia And Herzegovina sans mise en buffer constante?
+        Puis-je regarder des vidéos en streaming avec l'eSIM Bosnie-Herzégovine sans mise en buffer constante?
       a: |
-        Oui — le streaming passe par la connexion eSIM sans restriction. Netflix en HD consomme environ 1GB par heure, Spotify 50-100MB par heure. Avec un forfait 5GB ($9.99), vous pouvez regarder environ 5 heures de Netflix en HD ou écouter 50 heures de musique. Pour les gros consommateurs de streaming, le forfait illimité ($59.99) est plus adapté. Alternative: téléchargez vos contenus en WiFi avant de partir.
+        Oui — le streaming passe par la connexion eSIM sans restriction. Netflix en HD consomme environ 1GB par heure, Spotify 50-100MB par heure. Avec un forfait 20GB (30,99 $), vous pouvez regarder environ 5 heures de Netflix en HD ou écouter 50 heures de musique. Pour les gros consommateurs de streaming, le forfait 20GB (30,99 $) est plus adapté. Alternative: téléchargez vos contenus en WiFi avant de partir.
     - q: |
         L'eSIM Bosnie-Herzégovine est-elle sécurisée pour les paiements en ligne?
       a: |
@@ -205,21 +203,21 @@ faq_section:
     - q: |
         L'eSIM Bosnie-Herzégovine est-elle vraiment moins chère que le roaming international?
       a: |
-        Oui — Roami eSIM est 80-90% moins chère que les tarifs de roaming des opérateurs traditionnels. Un forfait 5GB pour Bosnie-Herzégovine coûte $9.99 chez Roami, contre $50 à $100 chez la plupart des opérateurs. En plus d'économiser, vous bénéficiez des vitesses locales (100-300 Mbps en 5G) au lieu du roaming bridé (souvent limité à 256 kbps).
+        Oui — Roami eSIM est 80-90% moins chère que les tarifs de roaming des opérateurs traditionnels. Un forfait 20GB pour Bosnie-Herzégovine coûte 30,99 $ chez Roami, bien moins cher qu'en itinérance chez la plupart des opérateurs. En plus d'économiser, vous bénéficiez des vitesses locales (100-300 Mbps en 5G) au lieu du roaming bridé (souvent limité à 256 kbps).
     - q: |
-        Avec l eSIM Bosnia And Herzegovina, est-ce que les appels video WhatsApp et FaceTime fonctionnent en 4G et 5G?
+        Avec l'eSIM Bosnie-Herzégovine, est-ce que les appels vidéo WhatsApp et FaceTime fonctionnent en 4G et 5G?
       a: |
-        Oui — toutes les applications fonctionnent sans restriction. Un appel WhatsApp audio consomme environ 1MB par minute, un appel vidéo 5-8MB par minute. Un forfait 5GB ($9.99) permet environ 500 heures d'appels audio ou 10 heures de vidéo FaceTime. Le réseau 4G/5G de BH Telecom assure une qualité d'appel fluide.
+        Oui — toutes les applications fonctionnent sans restriction. Un appel WhatsApp audio consomme environ 1MB par minute, un appel vidéo 5-8MB par minute. Un forfait 20GB (30,99 $) permet environ 500 heures d'appels audio ou 10 heures de vidéo FaceTime. Le réseau 4G/5G de BH Telecom assure une qualité d'appel fluide.
     - q: |
-        Le partage de connexion fonctionne-t-il avec l eSIM Bosnia And Herzegovina ou est-il bloque par Roami?
+        Le partage de connexion fonctionne-t-il avec l'eSIM Bosnie-Herzégovine ou est-il bloque par Roami?
       a: |
-        Oui — tous les forfaits Roami incluent le partage de connexion (point d'accès personnel). Activez le partage dans les réglages de votre téléphone pour connecter votre PC, tablette ou ceux de vos compagnons de voyage. Pour une utilisation professionnelle (visioconférence, fichiers volumineux), un forfait 10GB ($14.99) ou illimité ($59.99) est conseillé.
+        Oui — tous les forfaits Roami incluent le partage de connexion (point d'accès personnel). Activez le partage dans les réglages de votre téléphone pour connecter votre PC, tablette ou ceux de vos compagnons de voyage. Pour une utilisation professionnelle (visioconférence, fichiers volumineux), un forfait 20GB (30,99 $) est conseillé.
     - q: |
-        La qualité des appels vidéo est-elle bonne avec eSIM à Bosnie-Herzégovine?
+        La qualité des appels vidéo est-elle bonne avec eSIM en Bosnie-Herzégovine?
       a: |
-        Oui — le réseau de BH Telecom gère très bien les appels vidéo. Un appel Zoom de 30 minutes consomme environ 150-300MB. En 5G (100-300 Mbps), la qualité est parfaite pour le 4K. En 4G (10-30 Mbps), les appels vidéo restent fluides. Pour les voyageurs qui travaillent à distance, un forfait 10GB ($14.99) ou illimité ($59.99) est recommandé.
+        Oui — le réseau de BH Telecom gère très bien les appels vidéo. Un appel Zoom de 30 minutes consomme environ 150-300MB. En 5G (100-300 Mbps), la qualité est parfaite pour le 4K. En 4G (10-30 Mbps), les appels vidéo restent fluides. Pour les voyageurs qui travaillent à distance, un forfait 20GB (30,99 $) est recommandé.
 related_products:
-  title: Forfaits eSIM similaires
+  title: "eSIM pour d'autres destinations"
   items:
   - name: eSIM États-Unis
     flag: img/flags/us.svg
@@ -238,7 +236,7 @@ related_products:
     slug: europe-esim
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: À partir de 1,99 $
+    price: 'À partir de 3,99 $'
     is_highlight: false
     slug: canada-esim
   - name: eSIM Turquie

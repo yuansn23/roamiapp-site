@@ -1,15 +1,15 @@
 ---
-title: 'Forfait eSIM Guam 2026: Forfaits & Couverture | Roami'
-date: '2026-06-24T00:00:00+00:00'
+title: 'Forfait eSIM Guam 2026 : Voyage Connecté | Roami'
+date: '2026-10-10T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Guam
-  scenario_keywords: voyage d'affaires, vacances à la plage, plongée sous-marine, tourisme culturel, lune de miel
+  scenario_keywords: 'pèlerinage, croisière, congrès et salons, navigation, road trip'
   operators: Docomo Pacific, IT&E, GTA
   competitors: Airalo, Holafly, Nomad, Ubigi, GigSky
   main_cities: Hagåtña, Tamuning, Mangilao, Dededo, Yona
-  main_packages: 3/7/15/30 jours, données illimitées
+  main_packages: 'Offres 3/7/15/30 jours - données illimitées incluses'
 modal:
   title: Mise à jour du service !
   btn_text: Continuer
@@ -18,11 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: Guam eSIM | Pas cher & sans engagement
-  description: Pour Guam, Roami vous offre une eSIM sans engagement. Utilisez-la pendant votre voyage, puis c'est fini. Rien
-    a resilier. Couvre tout le pays.
-  keywords: eSIM Guam, forfait eSIM Guam, meilleure eSIM Guam, Guam data, Docomo Pacific Guam, IT&E Guam, GTA Guam, eSIM Hagåtña,
-    eSIM Tamuning, eSIM Mangilao, internet mobile Guam, 5G Guam
+  title: 'Guam eSIM | Activation immédiate sans engagement'
+  description: 'eSIM Guam : comparez, choisissez, activez : eSIM en 3 étapes.'
+  keywords: 'eSIM Guam, forfait eSIM Guam, meilleure eSIM Guam, eSIM Guam pas cher, acheter eSIM Guam en ligne, données illimitées eSIM Guam, carte eSIM prépayée Guam, eSIM Guam pour voyageurs, prix eSIM Guam, activation eSIM Guam, couverture eSIM Guam, eSIM Guam 5G, eSIM Hagåtña, eSIM Tamuning'
 order_summary:
   title: Forfait sélectionné
   label_data: Volume de données
@@ -38,14 +36,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleure eSIM pour Guam
-  title: Meilleure eSIM pour Guam
+  title: 'eSIM Guam en 5 Minutes'
 hero:
   flag_image: img/flags/gu.svg
   flag_alt: Drapeau Guam
-  title: 'eSIM Guam: 5G Rapide pour Chaque Destination'
-  subtitle: Meilleure eSIM prépayée pour Guam - 5G rapide, activation instantanée, support 24/7
+  title: 'eSIM Guam : Solutions Data Complètes pour Votre Voyage'
+  subtitle: 'eSIM Guam - internet sans souci, réseau local fiable, sans contrat'
 features:
-  title: 'Pourquoi les voyageurs choisissent Roami pour Guam: Vitesse, Couverture & Support'
+  title: 'Ce que Roami apporte à votre eSIM Guam : Prix, Réseau & Activation'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Sélection auto
     desc: Connexion auto aux meilleurs opérateurs Guam pour le signal le plus fort
-plans_title: 'Acheter eSIM Guam: Forfaits pour Tout Voyage'
+plans_title: 'Acheter eSIM Guam : Tarifs eSIM livrés instantanément'
 plans_data:
   30 jours:
   - spec: 3GB
@@ -142,7 +140,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Valable : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Guam: Guide Complet des Réseaux Locaux'
+  title: 'Couverture eSIM Guam : Qualité du Signal et Villes Clés'
   supports_text: 'Prend en charge :'
   service_details:
     title: Détails du service
@@ -150,8 +148,8 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Couverture
-      desc: Profitez d'une couverture reseau complete dans toute Guam, y compris Hagåtña, Tamuning, Mangilao, Dededo. Votre
-        eSIM se connecte aux reseaux robustes de Docomo Pacific, IT&E, GTA.
+      desc: Profitez d'une couverture réseau complète à Guam, y compris Hagåtña, Tamuning, Mangilao, Dededo. Votre
+        eSIM se connecte aux réseaux robustes de Docomo Pacific, IT&E, GTA.
     - icon: zap
       color: text-amber-500
       title: Délai de livraison
@@ -161,7 +159,7 @@ network_coverage:
       title: Point d'accès
       desc: Pas de restriction sur le point d'accès.
   carriers:
-    title: 'Docomo Pacific, IT&E & GTA: Operateurs eSIM Guam'
+    title: 'Docomo Pacific, IT&E & GTA : les partenaires réseau eSIM'
     badge: Partenaire officiel
     items:
     - name: Docomo Pacific
@@ -171,19 +169,20 @@ network_coverage:
       coverage: 5G rapide en villes
       network: Réseau 5G/4G/LTE
 reminders:
-  title: 'Conseils eSIM Guam: Avant de Partir'
+  title: 'Conseils eSIM Guam : Préparer Votre Voyage Connecté'
   items:
   - icon: 📱
-    html: Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
+    html: 'Avant de commander, <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> sur votre téléphone.'
   - icon: ✈️
-    html: Nous recommandons d'activer l'eSIM uniquement après votre arrivée à Guam.
+    html: "Il est préférable d'activer l'eSIM Guam après avoir atterri."
   - icon: ⏰
-    html: La validité commence lors de la connexion au réseau partenaire.
+    html: 'Votre forfait commence au moment de votre première connexion au réseau partenaire.'
   - icon: 📧
-    html: Le code QR sera envoyé à votre adresse e-mail.
+    html: 'Votre code QR arrive par courriel en quelques minutes.'
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: "Vous avez la possibilité de garder d'autres profils eSIM simultanément."
+  - icon: 📍
+    html: "Astuce : l'eSIM Guam couvre aussi Hagåtña comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Pas sûr ? Vérifiez immédiatement sur votre téléphone :'
@@ -192,7 +191,7 @@ reminders:
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       s'affiche, l'eSIM est prise en charge !
 activation_steps:
-  title: 'Activation eSIM Guam: 3 Etapes Simples'
+  title: "Activation eSIM Guam : Le Guide d'Activation"
   steps:
   - num: '1'
     title: Recevez et conservez le code QR – préparez-vous pour Guam
@@ -220,20 +219,20 @@ activation_steps:
     is_list: false
   - num: '4'
     title: 'Arrivée à Guam : connexion instantanée 5G/4G'
-    desc: Dès que vous atterrissez à Guam (par exemple dans Aéroport international Antonio B. Won Pat (GUM)), désactivez le
+    desc: Dès que vous atterrissez à Guam (par exemple à l'aéroport international Antonio B. Won Pat (GUM)), désactivez le
       mode avion (ou restez dedans et activez uniquement l'eSIM). Allez dans **Réglages → Réseau cellulaire** et activez votre
       eSIM Roami pour Guam. En quelques secondes, votre appareil se connectera automatiquement au réseau 5G/4G le plus rapide
       disponible de Docomo Pacific / IT&E. Vous pourrez immédiatement utiliser la navigation, WhatsApp, les réseaux sociaux
       ou partager la connexion avec d'autres appareils – sans attente, sans pièce d'identité, sans contrat.
     is_list: false
 faq_section:
-  title: "Guam eSIM 5G et 4G : à quelle vitesse peut-on vraiment surfer? Guide complet de la couverture."
-  desc: "Vous partez à Guam? Découvrez tout sur l'eSIM Guam : vitesses 4G/5G réelles, couverture du réseau DoCoMo Pacific en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
+  title: "eSIM Guam : tout ce qu'il faut savoir"
+  desc: "Tout sur l'eSIM Guam : réseau, prix et installation : les réponses aux questions les plus fréquentes des voyageurs."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: "Questions frequentes sur l eSIM pour Guam"
+    title: "eSIM Guam : l'essentiel pour les voyageurs"
 
     questions:
     - q: |
@@ -241,13 +240,13 @@ faq_section:
       a: |
         La plupart des téléphones modernes stockent 5 à 10 profils eSIM. Vous pouvez conserver votre eSIM Guam en parallèle de votre carte SIM française et de plusieurs autres profils internationaux. Le passage d'un profil à l'autre prend environ 10 secondes dans les réglages. Idéal pour les voyageurs multi-destinations.
     - q: |
-        Si je garde ma carte SIM habituelle, est-ce que l eSIM Guam fonctionne quand meme pour internet sans conflit?
+        Si je garde ma carte SIM habituelle, est-ce que l'eSIM Guam fonctionne quand même pour internet sans conflit?
       a: |
         Pas du tout — votre carte SIM reste en place dans le slot 1. L'eSIM fonctionne en parallèle dans le slot 2. Vous pouvez ainsi utiliser votre numéro français pour les appels et SMS, et l'eSIM pour les données. Cette configuration permet d'économiser 30-50% par rapport à une carte SIM d'aéroport, tout en conservant vos services habituels.
     - q: |
-        Puis-je utiliser l eSIM Guam pour connecter mon ordinateur en hotspot sans frais supplementaires?
+        Puis-je utiliser l'eSIM Guam pour connecter mon ordinateur en hotspot sans frais supplémentaires?
       a: |
-        Oui — tous les forfaits Roami incluent le partage de connexion (point d'accès personnel). Activez le partage dans les réglages de votre téléphone pour connecter votre PC, tablette ou ceux de vos compagnons de voyage. Pour une utilisation professionnelle (visioconférence, fichiers volumineux), un forfait 10GB ($14.99) ou illimité ($59.99) est conseillé.
+        Oui — tous les forfaits Roami incluent le partage de connexion (point d'accès personnel). Activez le partage dans les réglages de votre téléphone pour connecter votre PC, tablette ou ceux de vos compagnons de voyage. Pour une utilisation professionnelle (visioconférence, fichiers volumineux), un forfait 10GB (67,99 $) ou illimité (18,99 $) est conseillé.
     - q: |
         Comment vérifier que mon eSIM Guam fonctionne dès l'atterrissage?
       a: |
@@ -257,19 +256,19 @@ faq_section:
       a: |
         Dans la plupart des grandes villes, les stations de métro sont équipées d'antennes 4G/5G avec des vitesses de 10-30 Mbps. Dans les tunnels, la connexion peut être interrompue pendant 10-30 secondes puis reprend automatiquement. Téléchargez vos itinéraires et cartes hors-ligne avant de prendre le métro pour plus de tranquillité.
     - q: |
-        Est-ce que le debit est reduit apres avoir consomme tout le forfait eSIM Guam ou suis-je coupe?
+        Est-ce que le débit est réduit après avoir consomme tout le forfait eSIM Guam ou suis-je coupe?
       a: |
-        Avec un forfait à volume fixe (5GB, 10GB), les données s'arrêtent automatiquement à la limite — pas de frais supplémentaires. Vous pouvez recharger instantanément depuis l'application Roami, sans changer de SIM ni installer un nouveau QR code. Avec le forfait illimité, le débit est réduit à 512 kbps après 30GB dans la journée, mais vous restez connecté pour la messagerie et la navigation.
+        Avec un forfait à volume fixe (1GB, 10GB), les données s'arrêtent automatiquement à la limite — pas de frais supplémentaires. Vous pouvez recharger instantanément depuis l'application Roami, sans changer de SIM ni installer un nouveau QR code. Avec le forfait illimité, le débit est réduit à 512 kbps après 30GB dans la journée, mais vous restez connecté pour la messagerie et la navigation.
     - q: |
         Quel est le meilleur choix pour internet en Guam: eSIM, Pocket WiFi ou carte SIM locale?
       a: |
-        L'eSIM est plus pratique: pas d'appareil supplémentaire à transporter ou à recharger, pas de caution à payer. La location d'un pocket WiFi coûte $3-8 par jour plus une caution, et la batterie tient 6-10 heures. Roami eSIM commence à $1.99 par jour, fonctionne directement dans votre téléphone et ne nécessite pas de recharge séparée. Les deux permettent le partage de connexion.
+        L'eSIM est plus pratique: pas d'appareil supplémentaire à transporter ou à recharger, pas de caution à payer. La location d'un pocket WiFi coûte $3-8 par jour plus une caution, et la batterie tient 6-10 heures. Roami eSIM commence à 9,99 $ (7 jours, 1GB), fonctionne directement dans votre téléphone et ne nécessite pas de recharge séparée. Les deux permettent le partage de connexion.
     - q: |
-        Comment surveiller sa consommation de donnees avec l eSIM Guam pour ne pas depasser son forfait?
+        Comment surveiller sa consommation de données avec l'eSIM Guam pour ne pas depasser son forfait?
       a: |
         Oui — deux façons: directement dans les réglages du téléphone (Réglages > Données cellulaires > Utilisation des données) ou via le tableau de bord Roami. Roami envoie des notifications automatiques à 70% et 90% de consommation. En cas de besoin, vous pouvez recharger instantanément depuis l'application sans changer de SIM.
 related_products:
-  title: Forfaits eSIM similaires
+  title: 'Pour vos autres voyages en eSIM'
   items:
   - name: eSIM États-Unis
     flag: img/flags/us.svg
@@ -288,7 +287,7 @@ related_products:
     slug: europe-esim
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: À partir de 1,99 $
+    price: 'À partir de 3,99 $'
     is_highlight: false
     slug: canada-esim
   - name: eSIM Turquie

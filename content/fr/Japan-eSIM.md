@@ -1,15 +1,15 @@
 ---
-title: 'Forfait eSIM Japon 2026: Voyage & Réseau | Roami'
-date: '2026-06-24T00:00:00+00:00'
+title: 'Forfait eSIM Japon 2026 : Données & Couverture | Roami'
+date: '2026-10-11T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Japon
-  scenario_keywords: visites touristiques, voyage d'affaires, festival des cerisiers en fleurs, séjour thermal (onsen), shopping
+  scenario_keywords: 'boucle de plusieurs pays, visite de parcs nationaux, séjour culturel, tourisme de nature, randonnée'
   operators: NTT Docomo, SoftBank, KDDI (au)
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Tokyo, Osaka, Kyoto, Yokohama, Sapporo
-  main_packages: 3/7/15/30 jours, données illimitées
+  main_packages: '3/7/15/30 jours : data illimitée au choix'
 modal:
   title: Mise à jour du service !
   btn_text: Continuer
@@ -18,11 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: Japon eSIM | Activation immédiate sans engagement
-  description: Vous voulez une eSIM pas chere pour Japon? Roami vous propose le prix le plus attractif du marche. Couvre Tokyo,
-    Osaka & Kyoto.
-  keywords: eSIM Japon, forfait eSIM Japon, meilleure eSIM Japon, Japon data, NTT Docomo Japon, SoftBank Japon, KDDI (au)
-    Japon, eSIM Tokyo, eSIM Osaka, eSIM Kyoto, internet mobile Japon, 5G Japon
+  title: 'Japon eSIM | Tarif clair, sans frais cachés'
+  description: 'eSIM Japon : tarifs clairs, activation rapide, aucun justificatif.'
+  keywords: 'eSIM Japon, forfait eSIM Japon, meilleure eSIM Japon, eSIM Japon pas cher, acheter eSIM Japon en ligne, données illimitées eSIM Japon, carte eSIM prépayée Japon, eSIM Japon pour voyageurs, prix eSIM Japon, activation eSIM Japon, couverture eSIM Japon, eSIM Japon 5G, eSIM Tokyo, eSIM Osaka'
 order_summary:
   title: Forfait sélectionné
   label_data: Volume de données
@@ -38,14 +36,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleure eSIM pour Japon
-  title: Meilleure eSIM pour Japon
+  title: "eSIM Japon Prête à l'Emploi"
 hero:
   flag_image: img/flags/jp.svg
   flag_alt: Drapeau Japon
-  title: 'eSIM Japon: Restez Connecté Partout'
-  subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Japon
+  title: 'eSIM Japon : Internet Partout, Sans Contrat'
+  subtitle: 'eSIM Japon - données mobiles fiables, QR en 5 min'
 features:
-  title: 'Pourquoi les voyageurs choisissent Roami pour Japon: Forfaits, Réseau & Support'
+  title: 'Pourquoi choisir Roami pour votre eSIM Japon : 5G, Couverture & Forfaits'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Sélection auto
     desc: Connexion auto aux meilleurs opérateurs Japon pour le signal le plus fort
-plans_title: 'Acheter eSIM Japon: Forfaits pour Tout Voyage'
+plans_title: 'Acheter une eSIM Japon : Forfaits en quelques clics'
 plans_data:
   7 jours:
   - spec: 3GB
@@ -289,7 +287,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Valable : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Japon: Guide des Opérateurs Mobiles'
+  title: 'Couverture eSIM Japon : Guide des Opérateurs Mobiles'
   supports_text: 'Prend en charge :'
   service_details:
     title: Détails du service
@@ -297,8 +295,8 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Couverture
-      desc: Profitez d'une couverture reseau complete dans toute Japon, y compris Tokyo, Osaka, Kyoto, Yokohama. Votre eSIM
-        se connecte aux reseaux robustes de NTT Docomo, SoftBank, KDDI (au).
+      desc: Profitez d'une couverture réseau complète au Japon, y compris Tokyo, Osaka, Kyoto, Yokohama. Votre eSIM
+        se connecte aux réseaux robustes de NTT Docomo, SoftBank, KDDI (au).
     - icon: zap
       color: text-amber-500
       title: Délai de livraison
@@ -308,7 +306,7 @@ network_coverage:
       title: Point d'accès
       desc: Pas de restriction sur le point d'accès.
   carriers:
-    title: 'NTT Docomo, SoftBank & KDDI (au): Operateurs eSIM Japon'
+    title: 'NTT Docomo, SoftBank & KDDI (au) : à quels réseaux vous connecter ?'
     badge: Partenaire officiel
     items:
     - name: NTT Docomo
@@ -318,19 +316,20 @@ network_coverage:
       coverage: 5G rapide en villes
       network: Réseau 5G/4G/LTE
 reminders:
-  title: 'Conseils eSIM Japon: Avant de Partir'
+  title: 'Conseils eSIM Japon : Les Bons Réflexes'
   items:
   - icon: 📱
-    html: Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
+    html: 'À retenir : <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.'
   - icon: ✈️
-    html: Nous recommandons d'activer l'eSIM uniquement après votre arrivée à Japon.
+    html: "Il est préférable d'activer l'eSIM Japon après avoir atterri."
   - icon: ⏰
-    html: La validité commence lors de la connexion au réseau partenaire.
+    html: 'Votre forfait démarre lors de votre première connexion au réseau partenaire.'
   - icon: 📧
-    html: Le code QR sera envoyé à votre adresse e-mail.
+    html: 'Votre code QR sera envoyé à votre adresse e-mail en quelques minutes.'
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: 'Vous avez la possibilité de stocker plusieurs eSIM simultanément.'
+  - icon: 📍
+    html: "Astuce : l'eSIM Japon couvre aussi Tokyo comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Pas sûr ? Vérifiez immédiatement sur votre téléphone :'
@@ -339,14 +338,14 @@ reminders:
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       s'affiche, l'eSIM est prise en charge !
 activation_steps:
-  title: 'Activation eSIM Japon: 3 Etapes Simples'
+  title: "Activation eSIM Japon : Guide d'Activation Complet"
   steps:
   - num: '1'
     title: Recevez et conservez le code QR – préparez-vous pour Japon
     desc: Immédiatement après votre commande, vous recevrez un e-mail avec votre code QR d'activation personnel et des instructions.
       Conservez le code QR sur votre smartphone ou imprimez-le – vous n'avez pas besoin d'une connexion Internet active pour
       l'installation ultérieure. L'eSIM est valable 30 jours, vous pouvez donc la préparer tranquillement pour votre voyage
-      à Japon.
+      au Japon.
     is_list: false
   - num: '2'
     title: Installez l'eSIM sur votre appareil – scannez le code QR
@@ -361,13 +360,13 @@ activation_steps:
   - num: '3'
     title: Préparez-vous à la maison – testez sans risque
     desc: Après l'installation, vous pouvez laisser l'eSIM désactivée dans les réglages. Cependant, vous pouvez déjà la tester
-      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez à Japon, il vous suffit
+      via votre Wi-Fi domestique (les données mobiles ne sont pas consommées). Dès que vous atterrissez au Japon, il vous suffit
       d'activer l'eSIM – la validité commencera automatiquement lors de la première connexion au réseau NTT Docomo / SoftBank.
       Aucun frais caché d'activation, aucun frais d'itinérance.
     is_list: false
   - num: '4'
-    title: 'Arrivée à Japon : connexion instantanée 5G/4G'
-    desc: Dès que vous atterrissez à Japon (par exemple dans Aéroport international de Narita (Tokyo), Aéroport international
+    title: 'Arrivée au Japon : connexion instantanée 5G/4G'
+    desc: Dès que vous atterrissez au Japon (par exemple à l'aéroport international de Narita (Tokyo), Aéroport international
       du Kansai (Osaka), Aéroport international de Chubu (Nagoya)), désactivez le mode avion (ou restez dedans et activez
       uniquement l'eSIM). Allez dans **Réglages → Réseau cellulaire** et activez votre eSIM Roami pour Japon. En quelques
       secondes, votre appareil se connectera automatiquement au réseau 5G/4G le plus rapide disponible de NTT Docomo / SoftBank.
@@ -375,26 +374,26 @@ activation_steps:
       appareils – sans attente, sans pièce d'identité, sans contrat.
     is_list: false
 faq_section:
-  title: "Japon eSIM : peut-on vraiment compter sur la 4G et la 5G? Test et analyse de la couverture."
-  desc: "Vous partez à Japon? Découvrez tout sur l'eSIM Japon : vitesses 4G/5G réelles, couverture du réseau Docomo en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
+  title: 'eSIM Japon : questions et réponses pratiques'
+  desc: "Tout sur l'eSIM Japon : opérateurs locaux, qualité du réseau et conseils d'installation pas à pas."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: "Informations generales sur l eSIM en Japan"
+    title: "Questions fréquentes sur l'eSIM Japon"
 
     questions:
     - q: |
         Combien coûte une eSIM pour Japon? Quels sont les tarifs?
       a: |
-        Roami propose des eSIM pour Japon à partir de $1.99 (7 jours, 1GB) jusqu'à $59.99 (30 jours, illimité). Le forfait le plus populaire est 5GB/15 jours à $9.99 — suffisant pour navigation, réseaux sociaux et messagerie. Le réseau 5G de Docomo atteint 100-300 Mbps. Les tarifs Roami sont prépayés, sans frais cachés ni renouvellement automatique.
+        Roami propose des eSIM pour Japon à partir de 1,99 $ (7 jours, 1GB) jusqu'à 9,99 $ (3 jours, illimité). Le forfait le plus populaire est 50GB/30 jours (37,99 $) — suffisant pour navigation, réseaux sociaux et messagerie. Le réseau 5G de Docomo atteint 100-300 Mbps. Les tarifs Roami sont prépayés, sans frais cachés ni renouvellement automatique.
     - q: |
-            Est-ce que la recharge du forfait eSIM Japan est instantanee ou faut-il attendre quelques minutes?
+            Est-ce que la recharge du forfait eSIM Japon est instantanée ou faut-il attendre quelques minutes?
 
       a: |
         Oui — la recharge se fait directement depuis l'application Roami, où que vous soyez. Le nouveau forfait est activé instantanément, sans nouveau QR code ni réinstallation. Nous recommandons de recharger lorsque vous atteignez 20% de données restantes. Roami vous envoie une notification à 70% et 90% de consommation.
     - q: |
-        Faut-il enlever sa carte SIM francaise pour utiliser l eSIM Japan ou les deux peuvent-elles coexister?
+        Faut-il enlever sa carte SIM française pour utiliser l'eSIM Japon ou les deux peuvent-elles coexister?
       a: |
         Pas du tout — votre carte SIM reste en place dans le slot 1. L'eSIM fonctionne en parallèle dans le slot 2. Vous pouvez ainsi utiliser votre numéro français pour les appels et SMS, et l'eSIM pour les données. Cette configuration permet d'économiser 30-50% par rapport à une carte SIM d'aéroport, tout en conservant vos services habituels.
     - q: |
@@ -402,21 +401,21 @@ faq_section:
       a: |
         Oui — la connexion eSIM est chiffrée de bout en bout, contrairement au WiFi public des hôtels et cafés qui peut être intercepté. Les applications bancaires, PayPal et les cartes de crédit fonctionnent parfaitement sur la connexion 4G/5G de l'eSIM. Pour les opérations sensibles, l'eSIM est nettement plus sûre que le WiFi public, et tout aussi pratique.
     - q: |
-        Est-ce que les appels WhatsApp et FaceTime passent bien avec l eSIM Japan sans limitation de debit?
+        Est-ce que les appels WhatsApp et FaceTime passent bien avec l'eSIM Japon sans limitation de débit?
       a: |
-        Oui — toutes les applications fonctionnent sans restriction. Un appel WhatsApp audio consomme environ 1MB par minute, un appel vidéo 5-8MB par minute. Un forfait 5GB ($9.99) permet environ 500 heures d'appels audio ou 10 heures de vidéo FaceTime. Le réseau 4G/5G de Docomo assure une qualité d'appel fluide.
+        Oui — toutes les applications fonctionnent sans restriction. Un appel WhatsApp audio consomme environ 1MB par minute, un appel vidéo 5-8MB par minute. Un forfait 5GB (5,99 $) autorise environ 500 heures d'appels audio ou 10 heures de vidéo FaceTime. Le réseau 4G/5G de Docomo assure une qualité d'appel fluide.
     - q: |
-        Si j oublie d acheter l eSIM Japan avant le vol, puis-je le faire depuis l aeroport?
+        Si j'oublie d'acheter l'eSIM Japon avant le vol, puis-je le faire depuis l'aéroport?
       a: |
-        Oui — le QR code est envoyé par email sous 5 minutes après l'achat. Vous pouvez commander à l'aéroport et installer dans l'avion. À l'arrivée dans Japon, activez l'itinérance des données et vous serez connecté en 1 à 2 minutes. Temps total entre l'achat et la connexion: moins de 10 minutes si vous installez à l'avance.
+        Oui — le QR code est envoyé par email sous 5 minutes après l'achat. Vous pouvez commander à l'aéroport et installer dans l'avion. À l'arrivée au Japon, activez l'itinérance des données et vous serez connecté en 1 à 2 minutes. Temps total entre l'achat et la connexion: moins de 10 minutes si vous installez à l'avance.
     - q: |
-        Est-ce que les VPN fonctionnent avec l eSIM Japan ou y a-t-il des restrictions?
+        Est-ce que les VPN fonctionnent avec l'eSIM Japon ou y a-t-il des restrictions?
       a: |
         Oui — Roami ne bloque pas les connexions VPN, ce qui permet de sécuriser vos échanges ou d'accéder à vos services habituels. Les vitesses avec VPN restent bonnes: 30-80 Mbps en 5G, 5-15 Mbps en 4G — suffisantes pour le télétravail et le streaming. Aucune restriction ni limitation de débit spécifique aux VPN n'est appliquée.
     - q: |
         Quelle est la différence entre un forfait 5GB et un forfait illimité pour Japon?
       a: |
-        Le forfait 5GB ($9.99) offre un volume de données fixe — suffisant pour environ 500 heures d'appels WhatsApp, 10 heures de vidéo ou une semaine de navigation normale. Le forfait illimité ($59.99) continue après 30GB mais le débit est réduit à 512 kbps. Pour la plupart des voyageurs (cartes, messagerie, photos), 5GB suffit. Pour le streaming intensif ou le partage de connexion, choisissez l'illimité.
+        Le forfait 5GB (5,99 $) offre un volume de données fixe — suffisant pour environ 500 heures d'appels WhatsApp, 10 heures de vidéo ou une semaine de navigation normale. Le forfait illimité (9,99 $) continue après 30GB mais le débit est réduit à 512 kbps. Pour la plupart des voyageurs (cartes, messagerie, photos), 5GB suffit. Pour le streaming intensif ou le partage de connexion, choisissez l'illimité.
 related_products:
   title: Forfaits eSIM similaires
   items:
@@ -437,7 +436,7 @@ related_products:
     slug: europe-esim
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: À partir de 1,99 $
+    price: 'À partir de 3,99 $'
     is_highlight: false
     slug: canada-esim
   - name: eSIM Turquie
@@ -481,15 +480,15 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'eSIM pour les Japan contre carte SIM prépayée : les différences clés'
-  subtitle: Cartes SIM prépayées locales au Japon contre solutions eSIM (benchmark 2024/2025)
+  title: 'eSIM Japon ou carte SIM prépayée : quel forfait pour votre séjour ?'
+  subtitle: 'SIM prépayée locale contre eSIM : le comparatif pour Japon (2024/2025)'
   citation:
-    text: 'Source des données : Prepaid Data SIM Card Wiki (Japan) + sites Web des opérateurs locaux'
+    text: 'Source des données : Prepaid Data SIM Card Wiki (Japon) + sites Web des opérateurs locaux'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Japan
   table_headers:
   - Matrice de comparaison
   - Carte SIM prépayée locale (données de marché)
-  - Roami eSIM pour Japan
+  - Roami eSIM pour Japon
   table_rows:
   - icon: store
     title: Acquisition et<br>activation
@@ -521,7 +520,7 @@ market_analysis:
       jours à ¥1 990.
     esim_title: Forfaits flexibles sans perte
     esim_desc: Contre le cycle rigide de b-mobile (décompte dès l'achat) ou IIJmio (1,5 Go/30 jours à ¥1 990), Roami propose
-      des forfaits de 7 jours à partir de 1,99 $/Go, sans gaspillage.
+      des forfaits de 7 jours à partir de 1,99 $, sans gaspillage.
   - icon: wifi
     title: Partage de connexion et<br>politique de vitesse
     prepaid_title: ''
@@ -546,7 +545,7 @@ market_analysis:
     esim_desc: Contre un support japonais limité aux heures ouvrables, Roami offre une assistance en français 24h/24 et 7j/7
       par chat et email.
   expert_verdict:
-    title: 'eSIM pour les Japan contre carte SIM physique : la solution ultime pour une connectivité sans stress'
+    title: 'eSIM Japon contre carte SIM physique : la solution ultime pour une connectivité sans stress'
     cards:
     - icon: passport
       icon_bg: bg-blue-100

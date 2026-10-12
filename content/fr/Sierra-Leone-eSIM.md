@@ -1,24 +1,24 @@
 ---
-title: 'eSIM Sierra Leone 2026 : Guide complet du voyageur | Roami'
-date: '2026-06-17T00:00:00+00:00'
+title: 'Forfait eSIM Sierra Leone 2026 : Touristes & Réseau | Roami'
+date: ''2026-10-09T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Sierra Leone
-  scenario_keywords: visiter Freetown, plages de Sierra Leone, safari Tacugama, sites historiques Bunce Island, randonnée dans la péninsule
+  scenario_keywords: 'navigation, road trip, séjour balnéaire, gastronomie, découverte en famille'
   operators: Africell, Sierratel, Orange SL
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Freetown, Bo, Kenema, Makeni, Koidu
-  main_packages: 3/7/15/30 Jours, Données illimitées
+  main_packages: '3/7/15/30 jours avec data prépayée 5G'
 modal:
   title: Service mis à niveau !
   btn_text: Continuer
   text_default: "Notre service eSIM a été amélioré vers <strong>PhoneSIMGo</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20"
   text_android: "Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20"
 seo:
-  title: 'eSIM Sierra Leone 2026 : Guide des couvertures Africell & Sierratel | Meilleur eSIM voyage'
-  description: Comparez les forfaits eSIM Sierra Leone avec 5G rapide à Freetown, Bo, Kenema. Guide des couvertures Africell, Sierratel et Orange SL pour touristes et voyageurs. Activation QR instantanée à partir de 1,99 $.
-  keywords: eSIM Sierra Leone, acheter eSIM Sierra Leone, meilleur eSIM Sierra Leone, eSIM voyage Sierra Leone, Africell Sierra Leone, Sierratel Sierra Leone, Orange SL Sierra Leone, eSIM Freetown, eSIM Bo, eSIM Kenema, eSIM prépayé Sierra Leone, eSIM 5G Sierra Leone
+  title: 'Sierra Leone eSIM | Réservez votre eSIM maintenant'
+  description: 'eSIM Sierra Leone : réseau 5G, prix bas et activation instantanée.'
+  keywords: 'eSIM Sierra Leone, forfait eSIM Sierra Leone, meilleure eSIM Sierra Leone, eSIM Sierra Leone pas cher, acheter eSIM Sierra Leone en ligne, forfaits data eSIM Sierra Leone, carte eSIM prépayée Sierra Leone, eSIM Sierra Leone pour voyageurs, prix eSIM Sierra Leone, activation eSIM Sierra Leone, couverture eSIM Sierra Leone, eSIM Sierra Leone 5G, eSIM Freetown, eSIM Bo'
   low_price: 1.99
   high_price: 39.9
 order_summary:
@@ -36,14 +36,14 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: Meilleur eSIM pour Sierra Leone
-  title: Meilleur eSIM pour Sierra Leone
+  title: 'eSIM Sierra Leone en Quelques Clics'
 hero:
   flag_image: img/flags/si.svg
   flag_alt: Drapeau de la Sierra Leone
-  title: 'eSIM Sierra Leone : solutions data complètes pour votre voyage'
-  subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - le meilleur eSIM prépayé pour les voyageurs en Sierra Leone
+  title: 'eSIM Sierra Leone : Un Réseau 5G pour Tout le Voyage'
+  subtitle: 'eSIM Sierra Leone - mise en route en 5 minutes, 5G, support en français'
 features:
-  title: 'Pourquoi les voyageurs en Sierra Leone choisissent Roami : couverture, vitesse et service'
+  title: 'Les atouts Roami pour votre eSIM Sierra Leone : Réseau, Forfaits & Prix'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Bascule automatique
     desc: Se connecte automatiquement aux meilleurs opérateurs de Sierra Leone pour un signal optimal
-plans_title: 'Acheter un eSIM Sierra Leone : des forfaits pour chaque durée de voyage'
+plans_title: 'Acheter une eSIM Sierra Leone : Tarifs eSIM de 1 Go à 100 Go'
 plans_data:
   30 Jours:
   - spec: 5 Go
@@ -104,7 +104,7 @@ discount_banner:
   btn_text: Profiter de la réduction
   validity: 'Validité : 3 jours'
 network_coverage:
-  title: 'Couverture eSIM Sierra Leone : guide des opérateurs et carte de couverture'
+  title: 'Couverture eSIM Sierra Leone : Réseau 5G, Zones et Vitesse'
   supports_text: 'Prend en charge :'
   service_details:
     title: Détails du service
@@ -122,7 +122,7 @@ network_coverage:
       title: Partage de connexion
       desc: Aucune limite ou restriction de partage.
   carriers:
-    title: 'Africell, Sierratel & Orange SL : couverture des opérateurs pour l''eSIM Sierra Leone'
+    title: 'Africell, Sierratel & Orange SL : réseaux partenaires pour Sierra Leone'
     badge: Partenaire officiel
     items:
     - name: Africell
@@ -135,18 +135,20 @@ network_coverage:
       coverage: Bonne couverture urbaine
       network: Réseau 4G/LTE
 reminders:
-  title: 'Conseils d''installation de l''eSIM Sierra Leone : ce qu''il faut savoir avant de partir'
+  title: "Conseils eSIM Sierra Leone : Tout Préparer à l'Avance"
   items:
   - icon: 📱
-    html: Assurez-vous que votre téléphone est <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatible eSIM</a> avant d'acheter.
+    html: 'À retenir : <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilité eSIM</a> avant de commander.'
   - icon: ✈️
-    html: Nous vous recommandons d'activer la ligne après votre arrivée en Sierra Leone.
+    html: "Il est préférable d'activer l'eSIM Sierra Leone après avoir atterri."
   - icon: ⏰
-    html: La validité commence à la connexion à un réseau pris en charge.
+    html: 'Le décompte commence lors de votre première connexion sur le réseau hôte.'
   - icon: 📧
-    html: Le code QR vous sera envoyé par e-mail.
+    html: 'Le code QR arrive à votre adresse e-mail immédiatement après le paiement.'
   - icon: 🔄
-    html: Vous pouvez installer plusieurs eSIM simultanément.
+    html: "Il est possible d'installer plusieurs eSIM sur le même téléphone."
+  - icon: 📍
+    html: "Astuce : l'eSIM Sierra Leone couvre aussi Freetown comme dans tout le pays."
   compatibility_check:
     title: Vérification rapide de compatibilité
     desc: 'Vous ne savez pas si votre téléphone prend en charge l''eSIM ? Vous pouvez le vérifier facilement vous-même maintenant :'
@@ -154,7 +156,7 @@ reminders:
     code: '*#06#'
     result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> apparaît à l'écran, votre appareil est compatible !
 activation_steps:
-  title: 'Comment installer l''eSIM Sierra Leone : 3 étapes simples'
+  title: 'Activation eSIM Sierra Leone : Mise en Route Rapide'
   steps:
   - num: '1'
     title: 'Étape 1 : Recevoir le code QR'
@@ -173,13 +175,13 @@ activation_steps:
     desc: À votre arrivée en Sierra Leone, activez votre eSIM Sierra Leone dans les réglages pour commencer à utiliser les données. Nous vous recommandons de vous connecter au WiFi lors de l'activation initiale.
     is_list: false
 faq_section:
-  title: "Quelle est la vitesse d'Internet en eSIM en Sierra Leone ? Débits et couverture pour les voyageurs"
-  desc: "Guide complet sur les débits Internet eSIM, la couverture réseau et la qualité de connexion pour les voyageurs en Sierra Leone. Découvrez les débits à attendre et où l'eSIM fonctionne le mieux."
+  title: 'eSIM Sierra Leone : tout sur la connexion mobile : guide utile'
+  desc: "Tout sur l'eSIM Sierra Leone : tout ce que les voyageurs demandent : questions sur l'eSIM, le réseau et les forfaits."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: FAQ eSIM Sierra Leone
+    title: 'eSIM Sierra Leone : les réponses des experts'
     questions:
     - q: |
         Quel réseau en Sierra Leone offre la meilleure couverture pour les voyageurs — Sierratel, Orange ou Africell ?
@@ -214,7 +216,7 @@ faq_section:
       a: |
         Utilisation quotidienne moyenne pour la plupart des touristes : 300-500 Mo pour les cartes et la messagerie, jusqu'à 1 Go si vous utilisez beaucoup les réseaux sociaux. Pour un voyage d'une semaine, 5 Go est confortable. Pour deux semaines, optez pour 10 Go. Roami permet de recharger facilement si vous manquez de données.
 related_products:
-  title: Forfaits eSIM associés
+  title: "eSIM pour d'autres destinations"
   items:
   - name: eSIM États-Unis
     flag: img/flags/us.svg
