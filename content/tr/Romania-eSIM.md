@@ -1,6 +1,6 @@
 ---
 title: 'Romanya eSIM 2026: Plan ve Kapsama Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
 seo:
   title: 'Romanya eSIM | Seyahatçiler için En İyi Ön Ödemeli eSIM'
-  description: 'Romanya''ya mı seyahat ediyorsunuz? Roami''nin en iyi ön ödemeli seyahat eSIM''ini sınırsız 5G veri ile alın. Anında QR aktivasyonu. Bükreş, Cluj ve Transilvanya''yı kapsar.'
-  keywords: 'Romanya eSIM, Romanya eSIM satın al, en iyi Romanya eSIM, Romanya seyahat eSIM, Orange Romanya, Vodafone Romanya, Telekom Romanya, Bükreş eSIM, Cluj-Napoca eSIM, Timișoara eSIM, Romanya ön ödemeli eSIM, 5G Romanya eSIM'
+  description: 'Romanya eSIM planları 1,99$''dan başlar. Bükreş ve Cluj-Napoca''de hızlı 5G, sözleşme yok, hotspot dahil. Anında etkinleştirme.'
+  keywords: 'Romanya eSIM, Romanya eSIM planları, en iyi Romanya eSIM, ucuz Romanya eSIM, Romanya eSIM çevrimiçi satın al, sınırsız veri Romanya eSIM, ön ödemeli Romanya eSIM, Romanya için en iyi eSIM, Romanya eSIM fiyatı, Romanya eSIM aktivasyonu, Romanya eSIM kapsama alanı, Bükreş için en iyi eSIM, Bükreş eSIM, Cluj-Napoca eSIM'
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: 'Seçilen Plan'
   label_data: 'Dahil Olan Veri'
@@ -336,6 +336,8 @@ reminders:
     html: 'QR kodu e-posta adresinize gönderilecektir.'
   - icon: 🔄
     html: 'Aynı anda birden fazla eSIM kurabilirsiniz.'
+  - icon: 📍
+    html: 'Bükreş için eSIM''i varışta etkinleştirmenizi öneririz: geçerlilik ilk bağlantıda başlar.'
   compatibility_check:
     title: 'Hızlı Uyumluluk Kontrolü'
     desc: 'Telefonunuzun eSIM''i destekleyip desteklemediğinden emin değil misiniz? Hemen kendiniz kolayca kontrol edebilirsiniz:'
@@ -371,7 +373,7 @@ faq_section:
     title: 'Romanya eSIM SSS'
     questions:
     - q: 'Romanya için çok fazla harcamadan eSIM alabilir miyim?'
-      a: 'Kesinlikle. Roami''nin Romanya eSIM planları $1.99 kadar düşük fiyatlarla başlar. 5GB/15 gün seçeneği ($9.99) seyahatçiler arasında en popüler olanıdır —haritalar, WhatsApp, Instagram ve e-posta için rahatça yeterlidir. Yoğun veri kullanıcısıysanız, 10GB ($14.99) veya sınırsız ($59.99) planlar size gönül rahatlığı sağlar. Havaalanı SIM gişesini atlamak size %30-50 tasarruf ve sırada beklemek zorunda kalmama avantajı sağlar. Ayarlamanız mı gerekiyor? Roami uygulamasından istediğiniz zaman ek yükleme yapabilirsiniz.'
+      a: 'Kesinlikle. Roami''nin Romanya eSIM planları $1.99 kadar düşük fiyatlarla başlar. Gezginler arasında en çok 6.99$ (3 Gün, 5GB) seçeneği tercih edilir — harita, WhatsApp, Instagram ve e-posta için yeterlidir. Yoğun veri kullanıcıları için 54.99$ (30 Gün, 100GB) planı daha rahat bir seçenektir. Havaalanı SIM gişesini atlamak size %30-50 tasarruf ve sırada beklemek zorunda kalmama avantajı sağlar. Ayarlamanız mı gerekiyor? Roami uygulamasından istediğiniz zaman ek yükleme yapabilirsiniz.'
     - q: 'Romanya eSIM kaydı için pasaportumu yüklemek güvenli mi? Gizlilik konusunda endişeliyim.'
       a: 'Romanya yasalar gereği kimlik doğrulaması gerektirir. Romanya ön ödemeli SIM kartlar için KYC doğrulaması gerektirir. Pasaport gereklidir. Süreç basittir: pasaportunuzu Roami''nin güvenli portalı üzerinden yükleyin, onay 5-10 dakika sürer. Bunu ayrılmadan önce yapın —havaalanında dengesiz WiFi ile yapmak sinir bozucudur. Onaylandıktan sonra, Romanya''da Veri Dolaşımını etkinleştirdiğinizde otomatik olarak bağlanırsınız.'
     - q: 'Romanya''da tipik bir seyahatçi günde ne kadar veri kullanır?'
@@ -379,63 +381,75 @@ faq_section:
     - q: 'Romanya''ya seyahat etmek için telefonumda kaç eSIM profili saklayabilirim?'
       a: 'Çoğu telefon 5-10 eSIM profili saklar. Romanya eSIM''inizi kendi SIM''iniz ve diğer ülke profillerinizle birlikte saklayabilirsiniz. İhtiyacınız olanı etkinleştirin ve diğerlerini devre dışı bırakın. Aralarında geçiş yapmak telefon ayarlarınızda yaklaşık 10 saniye sürer.'
     - q: 'Romanya''ya giden seyahatçiler için en popüler eSIM seçeneği hangisidir?'
-      a: 'Romanya''ya giden çoğu seyahatçi 5GB/15 gün planını ($9.99) seçer. Günlük navigasyon, sosyal medya ve mesajlaşma için yeterlidir. Daha uzun konaklamalar veya daha yoğun kullanım için 10GB ($14.99) veya sınırsız ($59.99) planlar harika seçeneklerdir. Tüm planlar dakikalar içinde etkinleşir ve 7/24 destek içerir.'
+      a: 'Romanya''ya giden çoğu seyahatçi 5GB/15 gün planını ($8.99) seçer. Günlük navigasyon, sosyal medya ve mesajlaşma için yeterlidir. Daha uzun konaklamalar veya daha yoğun kullanım için 10GB ($11.99) veya sınırsız ($78.99) planlar harika seçeneklerdir. Tüm planlar dakikalar içinde etkinleşir ve 7/24 destek içerir.'
     - q: 'Romanya eSIM''imi satın aldıktan hemen sonra kullanabilir miyim, yoksa beklemem mi gerekir?'
       a: 'QR kodu dakikalar içinde gelir. Hemen kurun —2 dakika sürer. Ancak, plan geçerliliği yalnızca Romanya''da bir ağa bağlandığınızda başlar. Bu nedenle, seyahatinizden haftalar önce kurabilir ve plan günlerinizi kaybetmezsiniz.'
     - q: 'Romanya eSIM''im indiğim anda çalışır mı, yoksa aktivasyon gecikmesi var mı?'
       a: 'eSIM''i ayrılmadan önce kurduysanız, indikten sonra 1-2 dakika içinde etkinleşir. Uçak Modunu kapatın ve Veri Dolaşımını etkinleştirin. Telefonunuz otomatik olarak Orange''a bağlanır. Sıra yok, evrak işi yok —bagaj teslim alma alanına varmadan çevrimiçi olursunuz.'
     - q: 'Romanya''da eSIM kullanırken kendi SIM''imi telefonumda tutabilir miyim?'
       a: 'Evet —kendi SIM''iniz SMS (banka kodları, 2FA girişleri) için yuva 1''de kalır. eSIM, yuva 2''de veri işler. MB başına $10-15''e varan ücretlerden kaçınmak için kendi SIM''inizde veri dolaşımını devre dışı bırakın.'
+    - q: |
+        Romanya genelinde Orange ve Vodafone kapsaması eSIM ile nasıl çalışır?
+      a: |
+        Roami eSIM Orange ve Vodafone ağlarını kullanır; Bükreş, Cluj-Napoca ve Timișoara'de 4G/5G mevcuttur. Şehir dışında bağlantı 4G hızında sabit kalır.
+    - q: |
+        Bükreş ve Cluj-Napoca'de Orange ağında eSIM hızı yeterli mi?
+      a: |
+        Evet; Bükreş ve Cluj-Napoca merkezinde Roami eSIM Orange 5G/4G ağında çalışır ve tipik olarak 50-200 Mbps sunar. Görüntülü görüşme ve navigasyon için idealdir.
+    - q: |
+        Romanya eSIM ile fiziksel SIM'i aynı anda kullanabilir miyim, Orange numaram çalışır mı?
+      a: |
+        Evet: veri eSIM'de, ses ve SMS kendi hattınızda kalır. Böylece Orange numaranız önemli aramaları almaya devam eder.
 related_products:
-  title: 'İlgili Romanya eSIM Planları'
+  title: İlgili eSIM Planları
   items:
-  - name: 'Amerika Birleşik Devletleri eSIM'
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Birleşik Krallık eSIM'
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Avrupa eSIM'
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: 'Kanada eSIM'
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Türkiye eSIM'
+  - name: Türkiye eSIM
     flag: img/flags/tr.svg
-    price: From $1.99
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Çin eSIM'
-    flag: img/flags/cn.svg
-    price: From $1.99
+  - name: Ukrayna eSIM
+    flag: img/flags/ua.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Japonya eSIM'
-    flag: img/flags/jp.svg
-    price: From $1.99
+  - name: BK eSIM
+    flag: img/flags/gb.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Hong Kong eSIM'
-    flag: img/flags/hk.svg
-    price: From $1.99
+  - name: Vatikan Şehri eSIM
+    flag: img/flags/va.svg
+    price: $10.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Fransa eSIM'
-    flag: img/flags/fr.svg
-    price: From $1.99
+  - name: Arnavutluk eSIM
+    flag: img/flags/al.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'İspanya eSIM'
-    flag: img/flags/es.svg
-    price: From $1.99
+  - name: Andorra eSIM
+    flag: img/flags/ad.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Almanya eSIM'
-    flag: img/flags/de.svg
-    price: From $1.99
+  - name: Ermenistan eSIM
+    flag: img/flags/am.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Avustralya eSIM'
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: Avusturya eSIM
+    flag: img/flags/at.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: true
+  - name: Azerbaycan eSIM
+    flag: img/flags/az.svg
+    price: $6.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Belarus eSIM
+    flag: img/flags/by.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Belçika eSIM
+    flag: img/flags/be.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Bosna Hersek eSIM
+    flag: img/flags/ba.svg
+    price: $30.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Romanya eSIM vs Ön Ödemeli SIM Kart: Geçiş Yapmaya Değer mi?'
@@ -471,7 +485,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 'Orange, Vodafone ve Digi ana akım planları 28 gün veya 30 gün faturalandırma döngüsü gerektirir, vergi sonrası —''dan başlar. 7 günlük bir turist planın değerinin %75''inden fazlasını israf eder.'
     esim_title: 'Esnek Kısa Planlar'
-    esim_desc: 'Orange''un 28 günlük döngüsünün (—+%21 KDV) aksine, Roami $1.99/GB''den başlayan 7 günlük planlar sunar, kısa geziler için %75''ten fazla israftan tasarruf sağlar.'
+    esim_desc: 'Orange''un 28 günlük döngüsünün (—+%21 KDV) aksine, Roami $2.99''dan başlayan 7 günlük planlar sunar, kısa geziler için %75''ten fazla israftan tasarruf sağlar.'
   - icon: wifi
     title: 'Sıcak Nokta ve<br>Hız Politikaları'
     prepaid_title: ''

@@ -1,6 +1,6 @@
 ---
 title: 'Yeni Zelanda eSIM 2026: Seyahat ve Ağ Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
 seo:
   title: 'Yeni Zelanda eSIM | Nihai Seyahat Veri Planı'
-  description: 'Roami''nin en iyi ön ödemeli seyahat eSIM''i ile Yeni Zelanda''ya seyahat edin. Her iki adada da sınırsız 5G veri. Anında etkinleştirme. Auckland, Queenstown ve Christchurch''ü kapsar.'
-  keywords: 'Yeni Zelanda eSIM, Yeni Zelanda eSIM satın al, en iyi Yeni Zelanda eSIM, Yeni Zelanda seyahat eSIM, Spark Yeni Zelanda, Vodafone NZ Yeni Zelanda, 2degrees Yeni Zelanda, Auckland eSIM, Wellington eSIM, Christchurch eSIM, Yeni Zelanda ön ödemeli eSIM, 5G Yeni Zelanda eSIM'
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Ucuz Yeni Zelanda eSIM: Auckland, Wellington ve Christchurch''de 5G. QR kod ile 2 dakikada kurulum, 24/7 destek. 3,99$''dan fiyatlar.'
+  keywords: 'Yeni Zelanda eSIM, Yeni Zelanda eSIM planları, en iyi Yeni Zelanda eSIM, ucuz Yeni Zelanda eSIM, Yeni Zelanda eSIM çevrimiçi satın al, sınırsız veri Yeni Zelanda eSIM, ön ödemeli Yeni Zelanda eSIM, Yeni Zelanda için en iyi eSIM, Yeni Zelanda eSIM fiyatı, Yeni Zelanda eSIM aktivasyonu, Yeni Zelanda eSIM kapsama alanı, Auckland için en iyi eSIM, Auckland eSIM, Wellington eSIM'
+  low_price: 3.99
+  high_price: 99.99
 order_summary:
   title: 'Seçilen Plan'
   label_data: 'Dahil Olan Veri'
@@ -320,6 +320,10 @@ reminders:
     html: 'QR kodu e-posta adresinize gönderilecektir.'
   - icon: 🔄
     html: 'Aynı anda birden fazla eSIM kurabilirsiniz.'
+  - icon: 📞
+    html: 'Roami eSIM yalnızca veri içindir: kendi numaranız açık kalır, SMS ve aramaları almaya devam edersiniz.'
+  - icon: 📍
+    html: 'Auckland için eSIM''i varışta etkinleştirmenizi öneririz: geçerlilik ilk bağlantıda başlar.'
   compatibility_check:
     title: 'Hızlı Uyumluluk Kontrolü'
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kolayca kontrol edebilirsiniz:'
@@ -355,7 +359,7 @@ faq_section:
     title: 'Yeni Zelanda eSIM SSS'
     questions:
     - q: 'Yeni Zelanda için çok fazla harcamadan eSIM alabilir miyim?'
-      a: 'Kesinlikle. Roami''nin Yeni Zelanda eSIM planları 1,99$ kadar düşük fiyatlarla başlar. 5GB/15 günlük seçenek (9,99$) gezginler arasında en popüler olanıdır —haritalar, WhatsApp, Instagram ve e-postayı rahatça karşılar. Yoğun veri kullanıcısıysanız, 10GB (14,99$) veya sınırsız (59,99$) planlar size gönül rahatlığı sağlar. Havaalanı SIM tezgahını atlamak size %30-50 tasarruf ve kuyruk bekleme derdinden kurtarır. Ayarlama yapmanız mı gerekiyor? Roami uygulamasından istediğiniz zaman ekleme yapabilirsiniz.'
+      a: 'Kesinlikle. Roami''nin Yeni Zelanda eSIM planları 1,99$ kadar düşük fiyatlarla başlar. Gezginler arasında en çok 5.99$ (3 Gün, 5GB) seçeneği tercih edilir — harita, WhatsApp, Instagram ve e-posta için yeterlidir. Yoğun veri kullanıcıları için 32.99$ (30 Gün, 30GB) planı daha rahat bir seçenektir. Havaalanı SIM tezgahını atlamak size %30-50 tasarruf ve kuyruk bekleme derdinden kurtarır. Ayarlama yapmanız mı gerekiyor? Roami uygulamasından istediğiniz zaman ekleme yapabilirsiniz.'
     - q: 'Yeni Zelanda''da gezginler için en iyi kapsamaya sahip ağ hangisi —Spark, 2degrees veya Vodafone?'
       a: 'Yeni Zelanda''nın üç ana taşıyıcısı vardır: Spark, 2degrees ve Vodafone. Spark, 4G/5G ile nüfusun yaklaşık %95''ine ulaşır. 2degrees yaklaşık %90''ını kapsar ancak kırsal alanlarda daha güçlü erişime sahiptir. Vodafone rekabetçi fiyatlandırma sunar, genellikle Spark''tan %15-20 daha ucuzdur. Yeni Zelanda, n78 bandında 5G kullanır ve şehirlerde iyi kapsama sahiptir. Roami sizi konumunuzda hangisi en güçlüyse ona otomatik olarak bağlar.'
     - q: 'Yeni Zelanda''da eSIM için Roami, Airalo ile karşılaştırıldığında nasıl?'
@@ -363,63 +367,75 @@ faq_section:
     - q: 'Yeni Zelanda eSIM''imin geçerlilik süresi ne zaman başlar?'
       a: 'Plan geçerliliği, satın aldığınızda veya kurduğunuzda değil, Yeni Zelanda''da yerel bir ağa bağlandığınızda başlar. Yani seyahatinizden haftalar önce satın alıp kurabilir ve plan günlerinizi kaybetmeden kullanabilirsiniz. 7 günlük bir plan, ilk bağlantıdan itibaren size 7 tam gün verir.'
     - q: 'Roami''den Yeni Zelanda eSIM satın aldığımda neler dahildir?'
-      a: '5 dakika içinde QR kodu teslimatı, Spark''ın ağına erişim, 7/24 müşteri desteği ve 5 cihaza kadar ücretsiz sıcak nokta. Planlar 1,99$''dan başlar. Sözleşme yok, gizli ücret yok, otomatik yenileme yok.'
+      a: '5 dakika içinde QR kodu teslimatı, Spark''ın ağına erişim, 7/24 müşteri desteği ve 5 cihaza kadar ücretsiz sıcak nokta. Planlar 3,99$''dan başlar. Sözleşme yok, gizli ücret yok, otomatik yenileme yok.'
     - q: 'Yeni Zelanda eSIM''imde ne kadar veri kullandığımı kontrol edebilir miyim?'
       a: 'Evet —veri kullanımını doğrudan telefon ayarlarınızdan (iPhone''da Ayarlar > Hücresel > Veri Kullanımı) veya Roami hesap panelinizden kontrol edebilirsiniz. Roami ayrıca plan verinizin %70 ve %90''ını kullandığınızda bildirim gönderir.'
     - q: 'Yeni Zelanda eSIM''im vardığımda bağlanmazsa ne yapmalıyım?'
       a: 'Her biri yaklaşık 30 saniye süren üç hızlı kontrol: 1) Veri Dolaşımı açık mı? 2) Ağ ayarlarından manuel olarak Spark''ı seçebilir misiniz? 3) Telefonunuzu yeniden başlatmayı deneyin. Bağlantı sorunlarının yaklaşık %90''ı bu adımlardan biriyle çözülür. Olmazsa, Roami 7/24 destek yardımcı olabilir.'
     - q: 'Yeni Zelanda için 5GB plan ile sınırsız plan arasındaki fark nedir?'
       a: '5GB plan size sabit miktarda yüksek hızlı veri (toplam 5GB) verir. Kullanıldığında ekleme yaparsınız veya yeni bir plan satın alırsınız. Sınırsız plan veri sağlamaya devam eder, ancak adil kullanım politikası gereği günde 30GB''tan sonra hızlar düşebilir. Haritalar, mesajlaşma ve sosyal medya kullanan çoğu gezgin için 5GB plan fazlasıyla yeterlidir.'
+    - q: |
+        Yola çıkmadan Yeni Zelanda eSIM'i nasıl etkinleştiririm, Spark hattına geçiş ne zaman olur?
+      a: |
+        Çevrimiçi satın alın, QR kodunu e-posta ile 5 dakikada alın ve Ayarlar > Hücresel > eSIM Ekle'den tarayın. Evde Wi-Fi ile kurup Yeni Zelanda'de varışta etkinleştirin.
+    - q: |
+        Yeni Zelanda seyahati için kaç GB yeter, Spark paketleriyle kıyaslanınca?
+      a: |
+        Hafif kullanım (harita, mesaj) için 3-5GB yeter; sosyal medya ve video için 10GB idealdir. Roami Yeni Zelanda planları 3,99$'dan başlar ve uygulamadan anında yükleme yapılır.
+    - q: |
+        Yeni Zelanda eSIM ile Spark turist SIM'i arasındaki fark ne?
+      a: |
+        Roami Yeni Zelanda eSIM 3,99$'dan başlar ve online alınır; Spark turist SIM'i genellikle mağaza ziyareti ve kayıt gerektirir. eSIM'de kuyruk ve aktivasyon beklemesi yoktur.
 related_products:
-  title: 'İlgili Yeni Zelanda eSIM Planları'
+  title: İlgili eSIM Planları
   items:
-  - name: 'Amerika Birleşik Devletleri eSIM'
-    flag: img/flags/us.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Birleşik Krallık eSIM'
-    flag: img/flags/gb.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Avrupa eSIM'
-    flag: img/flags/eu.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: true
-  - name: 'Kanada eSIM'
-    flag: img/flags/ca.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Türkiye eSIM'
-    flag: img/flags/tr.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Çin eSIM'
-    flag: img/flags/cn.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Japonya eSIM'
-    flag: img/flags/jp.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Hong Kong eSIM'
-    flag: img/flags/hk.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Fransa eSIM'
-    flag: img/flags/fr.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'İspanya eSIM'
-    flag: img/flags/es.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Almanya eSIM'
-    flag: img/flags/de.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Avustralya eSIM'
+  - name: Avustralya eSIM
     flag: img/flags/au.svg
-    price: 'Başlangıç $1.99'
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Fiji eSIM
+    flag: img/flags/fj.svg
+    price: $6.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Guam eSIM
+    flag: img/flags/gu.svg
+    price: $9.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Fransa eSIM
+    flag: img/flags/fr.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Japonya eSIM
+    flag: img/flags/jp.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: true
+  - name: İspanya eSIM
+    flag: img/flags/es.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kanada eSIM
+    flag: img/flags/ca.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Çin eSIM
+    flag: img/flags/cn.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Türkiye eSIM
+    flag: img/flags/tr.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: İtalya eSIM
+    flag: img/flags/it.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Singapur eSIM
+    flag: img/flags/sg.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Yeni Zelanda eSIM vs Yerel SIM Kart: Hangisi Size Daha Çok Tasarruf Ettirir?'
@@ -455,7 +471,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 'One NZ Seyahat SIM''i minimum süre 30 gündür (29$/2 GB), turistleri 5-7 günlük bir seyahat için bile tam bir ay ödemeye zorlar, plan değerinin %70''inden fazlasını boşa harcar.'
     esim_title: 'Esnek Kısa Vadeli Planlar'
-    esim_desc: 'One NZ Seyahat SIM''inin 30 günlük minimumundan (29$/2 GB) kaçının. Roami 1,99$/GB''den başlayan 7 günlük planlar sunar, kısa seyahatler için %70''den fazla israftan tasarruf sağlar.'
+    esim_desc: 'One NZ Seyahat SIM''inin 30 günlük minimumundan (29$/2 GB) kaçının. Roami 3,99$''dan başlayan 7 günlük planlar sunar, kısa seyahatler için %70''den fazla israftan tasarruf sağlar.'
   - icon: wifi
     title: 'Sıcak Nokta ve<br>Hız Politikaları'
     prepaid_title: ''
@@ -491,7 +507,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: 'Uzun Faturalandırma Döngülerinden Kaynaklanan Batık Maliyeti Ortadan Kaldırın'
-      desc: 'One NZ Seyahat SIM''i <b>30 günlük</b> minimum (29$/2 GB) dayatır. 7 günlük bir seyahat için planın <b>%70''inden</b> fazlası boşa harcanır. Roami, tam konaklama sürenize uygun <b>1,99$/GB</b>''den başlayan <b>7 günlük</b> planlar sunar.'
+      desc: 'One NZ Seyahat SIM''i <b>30 günlük</b> minimum (29$/2 GB) dayatır. 7 günlük bir seyahat için planın <b>%70''inden</b> fazlası boşa harcanır. Roami, tam konaklama sürenize uygun <b>3,99$</b>''den başlayan <b>7 günlük</b> planlar sunar.'
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600

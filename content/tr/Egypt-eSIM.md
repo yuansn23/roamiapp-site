@@ -1,6 +1,6 @@
 ---
 title: 'Mısır eSIM 2026: Bağlantı ve Hız Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,10 +21,9 @@ seo:
   title: Mısır eSIM | Turistler İçin En İyi eSIM Planını Satın Alın
   description: Roami'den Mısır için en iyi ön ödemeli seyahat eSIM'ini alın. En iyi ağlarda sınırsız 5G veri. Anında QR
     aktivasyonu. Kahire, İskenderiye ve Giza'yı kapsar.
-  keywords: Mısır eSIM, Mısır eSIM satın al, en iyi Mısır eSIM, Mısır seyahat eSIM, Orange Mısır, Vodafone Mısır, Etisalat
-    Mısır, Kahire eSIM, İskenderiye eSIM, Luksor eSIM, Mısır ön ödemeli eSIM, 5G Mısır eSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: Mısır eSIM, Mısır eSIM planları, en iyi Mısır eSIM, ucuz Mısır eSIM, Mısır eSIM çevrimiçi satın al, sınırsız veri Mısır eSIM, ön ödemeli Mısır eSIM, Mısır için en iyi eSIM, Mısır eSIM fiyatı, Mısır eSIM aktivasyonu, Mısır eSIM kapsama alanı, Kahire için en iyi eSIM, Kahire eSIM, İskenderiye eSIM
+  low_price: 2.99
+  high_price: 94.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -321,6 +320,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🏙️
+    html: 'Kahire ve İskenderiye''de en iyi kapsama: verilerinizi paylaşmak için hotspot dahildir.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -369,7 +370,7 @@ faq_section:
     - q: |
         Çok fazla harcamadan Mısır için eSIM alabilir miyim?
       a: |
-        Kesinlikle. Roami'nin Mısır eSIM planları 1,99$ kadar düşük fiyatlarla başlar. 5GB/15 günlük seçenek (9,99$) gezginler arasında en popüler olanıdır —haritalar, WhatsApp, Instagram ve e-postayı rahatça karşılar. Yoğun veri kullanıcısıysanız, 10GB (14,99$) veya sınırsız (59,99$) planlar size gönül rahatlığı verir. Havaalanı SIM tezgahını atlamak size %30-50 ve kuyruk bekleme zahmetinden tasarruf ettirir. Ayarlamanız mı gerekiyor? Roami uygulamasından dilediğiniz zaman ek paket satın alabilirsiniz.
+        Kesinlikle. Roami'nin Mısır eSIM planları 1,99$ kadar düşük fiyatlarla başlar. En popüler tercih 9.99$ (3 Gün, 5GB) seçeneğidir — haritalar, WhatsApp ve e-posta için rahatça yeter. Yoğun veri kullanıcıları için 61.99$ (30 Gün, 30GB) planı daha rahat bir seçenektir. Havaalanı SIM tezgahını atlamak size %30-50 ve kuyruk bekleme zahmetinden tasarruf ettirir. Ayarlamanız mı gerekiyor? Roami uygulamasından dilediğiniz zaman ek paket satın alabilirsiniz.
     - q: |
         Mısır için sınırsız eSIM planı buna değer mi, yoksa sabit veri planı daha mı iyi olur?
       a: |
@@ -390,56 +391,68 @@ faq_section:
         Seyahatimden önce Mısır eSIM'imi yanlışlıkla silersem ne olur?
       a: |
         Sorun değil. QR kodunu yeniden indirmek için Roami hesabınıza giriş yapın —yaklaşık 1 dakika sürer. İlk aldığınızda ekran görüntüsü veya PDF olarak kaydetmenizi öneririz, her ihtimale karşı.
+    - q: |
+        Kahire'de Orange şebekesinde eSIM hızı nasıl?
+      a: |
+        Kahire'de Roami eSIM Orange 5G/4G ağını kullanır; şehir merkezinde tipik hız 50-200 Mbps. Harita, sosyal medya ve görüntülü arama için uygundur.
+    - q: |
+        Mısır eSIM'i kendi hattımla birlikte kullanabilir miyim, Orange hattım açık kalır mı?
+      a: |
+        Evet: veri eSIM üzerinden akar, kendi SIM'iniz arama ve SMS için açık kalır. Ayarlar'dan hangi hattın ses, SMS ve veri kullanacağını seçebilirsiniz.
+    - q: |
+        Yola çıkmadan Mısır eSIM'i nasıl etkinleştiririm, Orange hattına geçiş ne zaman olur?
+      a: |
+        Çevrimiçi satın alın, QR kodunu e-posta ile 5 dakikada alın ve Ayarlar > Hücresel > eSIM Ekle'den tarayın. Evde Wi-Fi ile kurup Mısır'de varışta etkinleştirin.
 related_products:
-  title: İlgili Mısır eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Esvatini eSIM
+    flag: img/flags/sz.svg
+    price: $19.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Gabon eSIM
+    flag: img/flags/ga.svg
+    price: $14.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Gana eSIM
+    flag: img/flags/gh.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Fildişi Sahili eSIM
+    flag: img/flags/ci.svg
+    price: $9.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Kenya eSIM
+    flag: img/flags/ke.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Liberya eSIM
+    flag: img/flags/lr.svg
+    price: $27.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Madagaskar eSIM
+    flag: img/flags/mg.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Malawi eSIM
+    flag: img/flags/mw.svg
+    price: $14.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Mali eSIM
+    flag: img/flags/ml.svg
+    price: $27.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Nijer eSIM
+    flag: img/flags/ni.svg
+    price: $23.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Nijerya eSIM
+    flag: img/flags/ng.svg
+    price: $5.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Reunion Adası eSIM
+    flag: img/flags/re.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Mısır eSIM ve Ön Ödemeli SIM: Maliyet ve Kolaylık Karşılaştırması'
@@ -482,8 +495,7 @@ market_analysis:
     prepaid_desc: Tüm büyük operatörler (Vodafone, Orange, Etisalat) 30 günlük faturalandırma döngüleri kullanır; Orange'ın
       EGP 200/5GB planını satın alan 7 günlük bir turist plan değerinin %75'inden fazlasını israf eder.
     esim_title: Esnek Kısa Planlar
-    esim_desc: Kısa geziler için %75+ değer israf eden 30 günlük planlardan kaçının. Roami, kalış sürenize tam olarak
-      uyan 1,99$/GB'dan başlayan 7 günlük planlar sunar.
+    esim_desc: Kısa geziler için %75+ değer israf eden 30 günlük planlardan kaçının. Roami, kalış sürenize tam olarak uyan 4,99$'dan başlayan 7 günlük planlar sunar.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''
@@ -527,8 +539,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: 30 Günlük Batık Maliyet İsrafını Ortadan Kaldırın
-      desc: Vodafone/Orange 30 günlük planları (örn. EGP 200/5GB) 7 günlük bir gezi için %75'ten fazlasını israf eder.
-        Roami, 1,99$/GB'dan başlayan 7 günlük planlar sunar, para ve veri tasarrufu sağlar.
+      desc: Vodafone/Orange 30 günlük planları (örn. EGP 200/5GB) 7 günlük bir gezi için %75'ten fazlasını israf eder. Roami, 4,99$'dan başlayan 7 günlük planlar sunar, para ve veri tasarrufu sağlar.
     - icon: globe
       icon_bg: bg-purple-100
       icon_color: text-purple-600

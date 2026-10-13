@@ -1,6 +1,6 @@
 ---
 title: "Arnavutluk eSIM 2026: Seyahat ve Ağ Rehberi | Roami"
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,12 +19,10 @@ modal:
     kodu:web20
 seo:
   title: "Arnavutluk eSIM: 5G Yüksek Hızlı Veri, Dolaşım Ücreti Yok"
-  description: Tiran, Dıraç, Vlorë'de hızlı 5G ile Arnavutluk eSIM planlarını karşılaştırın. Vodafone Arnavutluk, Telekom Arnavutluk
-    ve One Arnavutluk kapsama alanı rehberi. Anında QR aktivasyonu, 1,99$'dan başlayan fiyatlarla.
-  keywords: Arnavutluk eSIM, Arnavutluk eSIM satın al, en iyi Arnavutluk eSIM, Arnavutluk seyahat eSIM, Vodafone Arnavutluk,
-    Telekom Arnavutluk, One Arnavutluk, Tiran eSIM, Dıraç eSIM, Vlorë eSIM, Arnavutluk ön ödemeli eSIM, 5G Arnavutluk eSIM
+  description: 'Arnavutluk için ön ödemeli seyahat eSIM''i: Tiran, Dıraç ve tüm ülkede 5G. Pasaport kaydı yok. 1,99$''dan başlar.'
+  keywords: Arnavutluk eSIM, Arnavutluk eSIM planları, en iyi Arnavutluk eSIM, ucuz Arnavutluk eSIM, Arnavutluk eSIM çevrimiçi satın al, sınırsız veri Arnavutluk eSIM, ön ödemeli Arnavutluk eSIM, Arnavutluk için en iyi eSIM, Arnavutluk eSIM fiyatı, Arnavutluk eSIM aktivasyonu, Arnavutluk eSIM kapsama alanı, Tiran için en iyi eSIM, Tiran eSIM, Dıraç eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -321,6 +319,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 📍
+    html: 'Tiran için eSIM''i varışta etkinleştirmenizi öneririz: geçerlilik ilk bağlantıda başlar.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: "Telefonunuzun eSIM'i destekleyip desteklemediğinden emin değil misiniz? Hemen kendiniz kolayca kontrol edebilirsiniz:"
@@ -361,7 +361,7 @@ faq_section:
     - q: |
         Çok fazla harcamadan Arnavutluk için eSIM alabilir miyim?
       a: |
-        Kesinlikle. Roami'nin Arnavutluk eSIM planları 1,99$ kadar düşük fiyatlarla başlar. 5GB/15 günlük seçenek (9,99$) gezginler arasında en popüler olanıdır - haritalar, WhatsApp, Instagram ve e-posta ihtiyaçlarınızı rahatlıkla karşılar. Yoğun veri kullanıcısıysanız, 10GB (14,99$) veya sınırsız (59,99$) planlar size gönül rahatlığı sağlar. Havaalanındaki SIM satış noktalarından kaçınmak %30-50 ve sırada beklemekten kurtarır. Ayarlamanız mı gerekiyor? Roami uygulamasından istediğiniz zaman ek veri satın alabilirsiniz.
+        Kesinlikle. Roami'nin Arnavutluk eSIM planları 1,99$ kadar düşük fiyatlarla başlar. Gezginler arasında en çok 6.99$ (3 Gün, 5GB) seçeneği tercih edilir — harita, WhatsApp, Instagram ve e-posta için yeterlidir. Yoğun veri kullanıcıları için 29.99$ (30 Gün, 30GB) planı daha rahat bir seçenektir. Havaalanındaki SIM satış noktalarından kaçınmak %30-50 ve sırada beklemekten kurtarır. Ayarlamanız mı gerekiyor? Roami uygulamasından istediğiniz zaman ek veri satın alabilirsiniz.
     - q: |
         Arnavutluk'u ziyaret eden turistler - hangi ağ en iyi deneyimi sunar?
       a: |
@@ -390,56 +390,68 @@ faq_section:
         Havaalanı SIM satış noktalarıyla uğraşmadan Arnavutluk'ta bağlantıda kalmanın en kolay yolu nedir?
       a: |
         eSIM cevabınızdır. Çevrimiçi satın alın, e-postayla QR kodunu alın, 2 dakikada kurun. Havaalanı sırasını atlayın. Roami, güvenilir kapsama için Vodafone'a bağlanır. Ev SIM'iniz SMS için aktif kalır. Bağlantıda kalmanın en basit yoludur.
+    - q: |
+        Arnavutluk eSIM hangi ağlarda çalışır, Vodafone Arnavutluk kapsaması yeterli mi?
+      a: |
+        Roami eSIM Vodafone Arnavutluk ve Telekom Arnavutluk ağlarına bağlanır; Tiran ve Dıraç gibi büyük şehirlerde 4G/5G sunar. Kırsal bölgelerde 4G kapsama güçlü kalır.
+    - q: |
+        Tiran'de Vodafone Arnavutluk şebekesinde eSIM hızı nasıl?
+      a: |
+        Tiran'de Roami eSIM Vodafone Arnavutluk 5G/4G ağını kullanır; şehir merkezinde tipik hız 50-200 Mbps. Harita, sosyal medya ve görüntülü arama için uygundur.
+    - q: |
+        Arnavutluk eSIM'i kendi hattımla birlikte kullanabilir miyim, Vodafone Arnavutluk hattım açık kalır mı?
+      a: |
+        Evet: veri eSIM üzerinden akar, kendi SIM'iniz arama ve SMS için açık kalır. Ayarlar'dan hangi hattın ses, SMS ve veri kullanacağını seçebilirsiniz.
 related_products:
-  title: İlgili Arnavutluk eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1,99$'dan başlayan
+  - name: Andorra eSIM
+    flag: img/flags/ad.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık eSIM
-    flag: img/flags/gb.svg
-    price: 1,99$'dan başlayan
-    is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1,99$'dan başlayan
+  - name: Ermenistan eSIM
+    flag: img/flags/am.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1,99$'dan başlayan
+  - name: Avusturya eSIM
+    flag: img/flags/at.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1,99$'dan başlayan
+  - name: Azerbaycan eSIM
+    flag: img/flags/az.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1,99$'dan başlayan
+  - name: Belarus eSIM
+    flag: img/flags/by.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1,99$'dan başlayan
+  - name: Belçika eSIM
+    flag: img/flags/be.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1,99$'dan başlayan
+  - name: Bosna Hersek eSIM
+    flag: img/flags/ba.svg
+    price: $30.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1,99$'dan başlayan
+  - name: Bulgaristan eSIM
+    flag: img/flags/bg.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1,99$'dan başlayan
+  - name: Hırvatistan eSIM
+    flag: img/flags/hr.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1,99$'dan başlayan
+  - name: Kıbrıs eSIM
+    flag: img/flags/cy.svg
+    price: $2.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1,99$'dan başlayan
+  - name: Çek Cumhuriyeti eSIM
+    flag: img/flags/cz.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Danimarka eSIM
+    flag: img/flags/dk.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: "Arnavutluk eSIM ve Ön Ödemeli SIM Kart: Geçiş Yapmaya Değer mi?"
@@ -482,8 +494,7 @@ market_analysis:
     prepaid_desc: One'ın turist planları sabit 21 günlük geçerliliğe sahiptir (örn. Tourist Pro 2600 Lek). 5 günlük bir seyahat,
       planın değerinin %70'inden fazlasını boşa harcar.
     esim_title: Esnek Planlar, İsraf Yok
-    esim_desc: One'ın 21 günlük sabit planlarının (Tourist Pro 2600 Lek) aksine, Roami 1,99$/GB'dan başlayan 7 günlük planlar
-      sunarak kısa bir seyahatte %70'ten fazla tasarruf etmenizi sağlar.
+    esim_desc: One'ın 21 günlük sabit planlarının (Tourist Pro 2600 Lek) aksine, Roami 4,99$'dan başlayan 7 günlük planlar sunarak kısa bir seyahatte %70'ten fazla tasarruf etmenizi sağlar.
   - icon: wifi
     title: Paylaşım ve<br>Hız Politikaları
     prepaid_title: ''

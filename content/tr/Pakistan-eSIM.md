@@ -1,6 +1,6 @@
 ---
 title: 'Pakistan eSIM 2026: Plan ve Kapsama Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,12 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Pakistan eSIM | En İyi Ön Ödemeli Seyahat eSIM Planı
-  description: Roami'nin en iyi ön ödemeli seyahat eSIM'i ile Pakistan'da bağlantıda kalın. Ülke genelinde sınırsız 5G veri.
-    Karaçi, Lahor ve İslamabad'ı kapsar. Anında etkinleştirme.
-  keywords: Pakistan eSIM, Pakistan eSIM satın al, en iyi Pakistan eSIM, Pakistan seyahat eSIM, Jazz Pakistan, Telenor Pakistan,
-    Zong Pakistan, Karaçi eSIM, Lahor eSIM, İslamabad eSIM, Pakistan ön ödemeli eSIM, 5G Pakistan eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Pakistan için ön ödemeli seyahat eSIM''i: Karaçi, Lahor ve tüm ülkede 5G. Pasaport kaydı yok. 3,99$''dan başlar.'
+  keywords: Pakistan eSIM, Pakistan eSIM planları, en iyi Pakistan eSIM, ucuz Pakistan eSIM, Pakistan eSIM çevrimiçi satın al, sınırsız veri Pakistan eSIM, ön ödemeli Pakistan eSIM, Pakistan için en iyi eSIM, Pakistan eSIM fiyatı, Pakistan eSIM aktivasyonu, Pakistan eSIM kapsama alanı, Karaçi için en iyi eSIM, Karaçi eSIM, Lahor eSIM
+  low_price: 3.99
+  high_price: 96.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -329,6 +327,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🗺️
+    html: 'Karaçi ve Lahor''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -378,7 +378,7 @@ faq_section:
     - q: |
         Pakistan'a giden gezginler için en popüler eSIM seçeneği hangisidir?
       a: |
-        Pakistan'a giden çoğu gezgin 5GB/15 günlük planı ($9.99) tercih eder. Günlük navigasyon, sosyal medya ve mesajlaşma için yeterlidir. Daha uzun konaklamalar veya yoğun kullanım için 10GB ($14.99) veya sınırsız ($59.99) planlar harika seçeneklerdir. Tüm planlar dakikalar içinde etkinleşir ve 7/24 destek içerir.
+        Pakistan'a giden çoğu gezgin 5GB/15 günlük planı ($7.99) tercih eder. Günlük navigasyon, sosyal medya ve mesajlaşma için yeterlidir. Daha uzun konaklamalar veya yoğun kullanım için 10GB ($9.99) veya sınırsız ($96.99) planlar harika seçeneklerdir. Tüm planlar dakikalar içinde etkinleşir ve 7/24 destek içerir.
     - q: |
         Pakistan eSIM'imi satın aldıktan hemen sonra kullanabilir miyim yoksa beklemem mi gerekir?
       a: |
@@ -390,7 +390,7 @@ faq_section:
     - q: |
         eSIM, Pakistan için uluslararası dolaşımdan daha mı ucuz?
       a: |
-        Evet —Roami eSIM, çoğu ev operatörünün dolaşım planlarına göre tipik olarak %80-90 daha ucuzdur. Pakistan için 5GB plan $9.99 iken, aynı veri için dolaşım kolayca $50+ olabilir. Ayrıca kısıtlanmış dolaşım yerine yerel ağ hızları elde edersiniz.
+        Evet —Roami eSIM, çoğu ev operatörünün dolaşım planlarına göre tipik olarak %80-90 daha ucuzdur. Pakistan için 5GB plan $6.99 iken, aynı veri için dolaşım kolayca $50+ olabilir. Ayrıca kısıtlanmış dolaşım yerine yerel ağ hızları elde edersiniz.
     - q: |
         Pakistan eSIM'ini son dakikada, uçuşumdan hemen önce satın alabilir miyim?
       a: |
@@ -399,56 +399,68 @@ faq_section:
         Pakistan'da tipik bir gezgin günde ne kadar veri kullanır?
       a: |
         Çoğu turist için günlük ortalama kullanım: haritalar ve mesajlaşma için 300-500MB, sosyal medyayı yoğun kullanıyorsanız 1GB'a kadar. Bir haftalık seyahat için 5GB rahattır. İki hafta için 10GB tercih edin. Roami, veriniz azalırsa kolayca ek yükleme yapmanızı sağlar.
+    - q: |
+        Pakistan eSIM ile fiziksel SIM'i aynı anda kullanabilir miyim, Jazz numaram çalışır mı?
+      a: |
+        Evet: veri eSIM'de, ses ve SMS kendi hattınızda kalır. Böylece Jazz numaranız önemli aramaları almaya devam eder.
+    - q: |
+        Pakistan için eSIM kurulumu Jazz SIM almaktan daha mı hızlı?
+      a: |
+        Evet: QR kodunu e-posta ile 5 dakikada alıp evde kurulur; Jazz mağazasında beklemek gerekmez. Varışta eSIM otomatik olarak devreye girer.
+    - q: |
+        Pakistan gezisi için kaç GB almalıyım, Jazz paketlerine göre?
+      a: |
+        Günlük harita ve mesaj için 3-5GB, sosyal medya ve video için 10GB uygundur. Roami Pakistan planları 3,99$'dan başlar ve Jazz paketlerinden bağımsızdır.
 related_products:
-  title: İlgili Pakistan eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: $1.99’dan başlayan
+  - name: Güney Kore eSIM
+    flag: img/flags/kr.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: $1.99’dan başlayan
+  - name: Tayvan eSIM
+    flag: img/flags/tw.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: $1.99’dan başlayan
+  - name: Tacikistan eSIM
+    flag: img/flags/tj.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Tayland eSIM
+    flag: img/flags/th.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Özbekistan eSIM
+    flag: img/flags/uz.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Vietnam eSIM
+    flag: img/flags/vn.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Afganistan eSIM
+    flag: img/flags/af.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Bangladeş eSIM
+    flag: img/flags/bd.svg
+    price: $5.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Brunei eSIM
+    flag: img/flags/bn.svg
+    price: $9.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kamboçya eSIM
+    flag: img/flags/kh.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
   - name: Çin eSIM
     flag: img/flags/cn.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: $1.99’dan başlayan
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Hong Kong eSIM
     flag: img/flags/hk.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: $1.99’dan başlayan
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Pakistan eSIM vs Ön Ödemeli SIM: Maliyet ve Kolaylık Karşılaştırması'
@@ -491,8 +503,7 @@ market_analysis:
     prepaid_desc: Jazz'ın 30 günlük planı (869 PKR için 15GB) 30 günlük bir döngüyü zorunlu kılar; 5 günlük bir turist
       27 gün geçerlilik ve verinin çoğunu israf eder. Telenor ve Zong aylık planları benzer batık maliyetlere sahiptir.
     esim_title: Esnek Kısa Süreli Planlar
-    esim_desc: Jazz'ın 30 günlük döngüsünden (869 PKR için 15GB, 3 günlük seyahat için %90 israf) farklı olarak Roami,
-      $1.99/GB'dan başlayan 7 günlük planlar sunar, %75'e varan israftan tasarruf sağlar.
+    esim_desc: Jazz'ın 30 günlük döngüsünden (869 PKR için 15GB, 3 günlük seyahat için %90 israf) farklı olarak Roami, $3.99'dan başlayan 7 günlük planlar sunar, %75'e varan israftan tasarruf sağlar.
   - icon: wifi
     title: Paylaşım ve<br>Hız Politikaları
     prepaid_title: ''
@@ -530,8 +541,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: 30 Günlük Batık Maliyetleri Ortadan Kaldırın
-      desc: Jazz'ın 15GB/30 günlük planı (869 PKR) tam bir ay döngüsünü zorunlu kılar. 5 günlük bir turist 27 gün geçerliliği
-        israf eder. Roami, tam seyahat uzunluğunuza uygun <b>$1.99/GB</b>'dan başlayan 7 günlük planlar sunar.
+      desc: Jazz'ın 15GB/30 günlük planı (869 PKR) tam bir ay döngüsünü zorunlu kılar. 5 günlük bir turist 27 gün geçerliliği israf eder. Roami, tam seyahat uzunluğunuza uygun <b>$3.99</b>'dan başlayan 7 günlük planlar sunar.
     - icon: wifi
       icon_bg: bg-teal-100
       icon_color: text-teal-600

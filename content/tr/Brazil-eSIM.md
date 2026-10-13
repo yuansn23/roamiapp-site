@@ -1,6 +1,6 @@
 ---
 title: 'Brezilya eSIM 2026: Bağlantı ve Hız Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Brezilya eSIM | Gezginler için Sınırsız Veri Planı
-  description: Roami'nin en iyi ön ödemeli seyahat eSIM'i ile Brezilya'ya hazırlanın. En iyi ağlarda sınırsız 5G veri. Rio, Sao Paulo ve tüm büyük şehirleri kapsar. Anında aktivasyon.
-  keywords: Brezilya eSIM, Brezilya eSIM satın al, en iyi Brezilya eSIM, Brezilya seyahat eSIM, Claro Brezilya, Vivo Brezilya, TIM Brezilya, São Paulo eSIM, Rio de Janeiro eSIM, Brasília eSIM, Brezilya ön ödemeli eSIM, 5G Brezilya eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Roami Brezilya eSIM ile Claro ağında 5G kapsama. São Paulo ve Rio de Janeiro'de yüksek hız, gizli ücret yok. 4,99$'dan planlar.
+  keywords: Brezilya eSIM, Brezilya eSIM planları, en iyi Brezilya eSIM, ucuz Brezilya eSIM, Brezilya eSIM çevrimiçi satın al, sınırsız veri Brezilya eSIM, ön ödemeli Brezilya eSIM, Brezilya için en iyi eSIM, Brezilya eSIM fiyatı, Brezilya eSIM aktivasyonu, Brezilya eSIM kapsama alanı, São Paulo için en iyi eSIM, São Paulo eSIM, Rio de Janeiro eSIM
+  low_price: 4.99
+  high_price: 86.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -306,6 +306,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🗺️
+    html: 'São Paulo ve Rio de Janeiro''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -343,7 +345,7 @@ faq_section:
     - q: |
         Çok fazla harcamadan Brezilya için eSIM alabilir miyim?
       a: |
-        Kesinlikle. Roami'nin Brezilya eSIM planları 1.99$ kadar düşük fiyatlarla başlar. 5GB/15 günlük seçenek (9.99$) gezginler arasında en popüler olanıdır - haritaları, WhatsApp, Instagram ve e-postayı rahatça karşılar. Yoğun veri kullanıcısıysanız, 10GB (14.99$) veya sınırsız (59.99$) planlar size gönül rahatlığı sağlar. Havalimanı SIM gişesini atlamak size %30-50 ve kuyrukta bekleme derdini tasarruf ettirir. Ayarlamanız mı gerekiyor? Roami uygulamasından istediğiniz zaman ek yükleme yapabilirsiniz.
+        Kesinlikle. Roami'nin Brezilya eSIM planları 1.99$ kadar düşük fiyatlarla başlar. 14.99$ (7 Gün, 5GB) seçeneği gezginler arasında en popüler olanıdır — haritalar, WhatsApp, Instagram ve e-posta için rahatça yeterlidir. Yoğun veri kullanıcıları için 86.99$ (30 Gün, 30GB) planı daha rahat bir seçenektir. Havalimanı SIM gişesini atlamak size %30-50 ve kuyrukta bekleme derdini tasarruf ettirir. Ayarlamanız mı gerekiyor? Roami uygulamasından istediğiniz zaman ek yükleme yapabilirsiniz.
     - q: |
         Brezilya'da eSIM için Roami Holafly ile karşılaştırıldığında nasıldır?
       a: |
@@ -372,56 +374,68 @@ faq_section:
         Brezilya'da eSIM kullanırken ana SIM'imi telefonumda tutabilir miyim?
       a: |
         Evet - ana SIM'iniz SMS için (banka kodları, 2FA girişleri) 1. yuvada kalır. eSIM 2. yuvada veriyi yönetir. MB başına 10-15$'a kadar çıkabilen ücretlerden kaçınmak için ana SIM'inizde veri dolaşımını devre dışı bırakın.
+    - q: |
+        Brezilya eSIM ile Claro turist SIM'i arasındaki fark ne?
+      a: |
+        Roami Brezilya eSIM 4,99$'dan başlar ve online alınır; Claro turist SIM'i genellikle mağaza ziyareti ve kayıt gerektirir. eSIM'de kuyruk ve aktivasyon beklemesi yoktur.
+    - q: |
+        Brezilya genelinde Claro ve Vivo kapsaması eSIM ile nasıl çalışır?
+      a: |
+        Roami eSIM Claro ve Vivo ağlarını kullanır; São Paulo, Rio de Janeiro ve Brasília'de 4G/5G mevcuttur. Şehir dışında bağlantı 4G hızında sabit kalır.
+    - q: |
+        São Paulo ve Rio de Janeiro'de Claro ağında eSIM hızı yeterli mi?
+      a: |
+        Evet; São Paulo ve Rio de Janeiro merkezinde Roami eSIM Claro 5G/4G ağında çalışır ve tipik olarak 50-200 Mbps sunar. Görüntülü görüşme ve navigasyon için idealdir.
 related_products:
-  title: İlgili Brezilya eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1.99$'dan itibaren
+  - name: Şili eSIM
+    flag: img/flags/cl.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1.99$'dan itibaren
+  - name: Kolombiya eSIM
+    flag: img/flags/co.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1.99$'dan itibaren
+  - name: Ekvador eSIM
+    flag: img/flags/ec.svg
+    price: $6.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Fransız Guyanası eSIM
+    flag: img/flags/gf.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Guyana eSIM
+    flag: img/flags/gy.svg
+    price: $9.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Paraguay eSIM
+    flag: img/flags/py.svg
+    price: $22.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Peru eSIM
+    flag: img/flags/pe.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1.99$'dan itibaren
+  - name: Uruguay eSIM
+    flag: img/flags/uy.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1.99$'dan itibaren
+  - name: Arjantin eSIM
+    flag: img/flags/ar.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1.99$'dan itibaren
+  - name: eSIM Bolívia eSIM
+    flag: img/flags/bo.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Almanya eSIM
     flag: img/flags/de.svg
-    price: 1.99$'dan itibaren
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1.99$'dan itibaren
+  - name: Fransa eSIM
+    flag: img/flags/fr.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Brezilya eSIM veya Turistler için SIM Kart: Hangisini Seçmelisiniz?'
@@ -457,7 +471,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: TIM'in en ucuz planı sadece 1.42GB için R$15 tutarındadır ve 9 gün geçerlidir; Vivo'nun R$17 planı 15 gün için 4GB sunar; 7 günlük bir seyahat planın değerinin %50'sine kadarını boşa harcar.
     esim_title: Esnek Günlük Planlar
-    esim_desc: TIM'in 9 günlük minimum (R$15) israfından kaçının. Roami 1.99$/GB'den başlayan 7 günlük planlar sunar, yerel SIM'lerle karşılaştırıldığında kullanılmayan günlerde %50'ye varan tasarruf sağlar.
+    esim_desc: TIM'in 9 günlük minimum (R$15) israfından kaçının. Roami 7.99$'dan başlayan 7 günlük planlar sunar, yerel SIM'lerle karşılaştırıldığında kullanılmayan günlerde %50'ye varan tasarruf sağlar.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''
@@ -483,7 +497,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Kısa Geçerlilikten Batık Maliyeti Ortadan Kaldırın
-      desc: TIM'in en ucuz planı sadece 1.42GB için R$15 tutarındadır ve 9 gün geçerlidir. 7 günlük bir turist 2 günü (planın %22'si) boşa harcar. Roami 1.99$/GB'den başlayan 7 günlük planlar sunar, tam seyahat sürenize uygun.
+      desc: TIM'in en ucuz planı sadece 1.42GB için R$15 tutarındadır ve 9 gün geçerlidir. 7 günlük bir turist 2 günü (planın %22'si) boşa harcar. Roami 7.99$'dan başlayan 7 günlük planlar sunar, tam seyahat sürenize uygun.
     - icon: headset
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600

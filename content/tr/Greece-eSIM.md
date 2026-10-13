@@ -1,6 +1,6 @@
 ---
 title: 'Yunanistan eSIM 2026: Operatör ve Kapsama Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Yunanistan eSIM | En İyi Ön Ödemeli Seyahat eSIM Planı
-  description: Roami'nin en iyi ön ödemeli seyahat eSIM'i ile Yunanistan'ı keşfedin. Anakara ve adalarda sınırsız 5G veri. Anında aktivasyon. Atina, Santorini ve Mikonos'u kapsar.
-  keywords: Yunanistan eSIM, Yunanistan eSIM satın al, en iyi Yunanistan eSIM, Yunanistan seyahat eSIM, Vodafone Yunanistan, Cosmote Yunanistan, Wind Yunanistan, Atina eSIM, Selanik eSIM, Kandiye eSIM, Yunanistan ön ödemeli eSIM, 5G Yunanistan eSIM
+  description: 'Ucuz Yunanistan eSIM: Atina, Selanik ve Kandiye''de 5G. QR kod ile 2 dakikada kurulum, 24/7 destek. 1,99$''dan fiyatlar.'
+  keywords: Yunanistan eSIM, Yunanistan eSIM planları, en iyi Yunanistan eSIM, ucuz Yunanistan eSIM, Yunanistan eSIM çevrimiçi satın al, sınırsız veri Yunanistan eSIM, ön ödemeli Yunanistan eSIM, Yunanistan için en iyi eSIM, Yunanistan eSIM fiyatı, Yunanistan eSIM aktivasyonu, Yunanistan eSIM kapsama alanı, Atina için en iyi eSIM, Atina eSIM, Selanik eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -338,6 +338,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 📍
+    html: 'Atina için eSIM''i varışta etkinleştirmenizi öneririz: geçerlilik ilk bağlantıda başlar.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -379,7 +381,7 @@ faq_section:
     - q: |
         Çok fazla harcamadan Yunanistan için eSIM alabilir miyim?
       a: |
-        Kesinlikle. Roami'nin Yunanistan eSIM planları 1.99$ kadar düşük fiyatlarla başlar. 5GB/15 günlük seçenek (9.99$) gezginler arasında en popüler olanıdır - haritaları, WhatsApp, Instagram ve e-postayı rahatça karşılar. Yoğun veri kullanıcısıysanız, 10GB (14.99$) veya sınırsız (59.99$) planlar size gönül rahatlığı sağlar. Havalimanı SIM gişesini atlamak size %30-50 ve kuyrukta bekleme derdini tasarruf ettirir. Ayarlamanız mı gerekiyor? Roami uygulamasından istediğiniz zaman ek yükleme yapabilirsiniz.
+        Kesinlikle. Roami'nin Yunanistan eSIM planları 1.99$ kadar düşük fiyatlarla başlar. Gezginler arasında en çok 6.99$ (3 Gün, 5GB) seçeneği tercih edilir — harita, WhatsApp, Instagram ve e-posta için yeterlidir. Yoğun veri kullanıcıları için 54.99$ (30 Gün, 100GB) planı daha rahat bir seçenektir. Havalimanı SIM gişesini atlamak size %30-50 ve kuyrukta bekleme derdini tasarruf ettirir. Ayarlamanız mı gerekiyor? Roami uygulamasından istediğiniz zaman ek yükleme yapabilirsiniz.
     - q: |
         Yunanistan'da eSIM için Roami Airalo ile karşılaştırıldığında nasıldır?
       a: |
@@ -399,61 +401,73 @@ faq_section:
     - q: |
         Yunanistan'a giden gezginler için en popüler eSIM seçeneği hangisidir?
       a: |
-        Yunanistan'a giden çoğu gezgin 5GB/15 günlük planı (9.99$) seçer. Günlük navigasyon, sosyal medya ve mesajlaşma için yeterlidir. Daha uzun konaklamalar veya daha yoğun kullanım için 10GB (14.99$) veya sınırsız (59.99$) planlar harika seçeneklerdir. Tüm planlar dakikalar içinde etkinleşir ve 7/24 destek içerir.
+        Yunanistan'a giden çoğu gezgin 5GB/15 günlük planı (8.99$) seçer. Günlük navigasyon, sosyal medya ve mesajlaşma için yeterlidir. Daha uzun konaklamalar veya daha yoğun kullanım için 10GB (7.99$) veya sınırsız (59.99$) planlar harika seçeneklerdir. Tüm planlar dakikalar içinde etkinleşir ve 7/24 destek içerir.
     - q: |
         Yunanistan'a sadece 2-3 günlüğüne seyahat ediyorum. Hangi eSIM'i almalıyım?
       a: |
-        Kısa bir seyahat için 1GB/7 günlük plan (1.99$) haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB plan (4.99$) daha fazla alan sağlar. Her ikisi de anında etkinleşir ve gerektiğinde ek yükleme yapabilirsiniz.
+        Kısa bir seyahat için 1GB/7 günlük plan (2.99$) haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB plan (3.99$) daha fazla alan sağlar. Her ikisi de anında etkinleşir ve gerektiğinde ek yükleme yapabilirsiniz.
+    - q: |
+        Yola çıkmadan Yunanistan eSIM'i nasıl etkinleştiririm, Vodafone hattına geçiş ne zaman olur?
+      a: |
+        Çevrimiçi satın alın, QR kodunu e-posta ile 5 dakikada alın ve Ayarlar > Hücresel > eSIM Ekle'den tarayın. Evde Wi-Fi ile kurup Yunanistan'de varışta etkinleştirin.
+    - q: |
+        Yunanistan seyahati için kaç GB yeter, Vodafone paketleriyle kıyaslanınca?
+      a: |
+        Hafif kullanım (harita, mesaj) için 3-5GB yeter; sosyal medya ve video için 10GB idealdir. Roami Yunanistan planları 1,99$'dan başlar ve uygulamadan anında yükleme yapılır.
+    - q: |
+        Yunanistan eSIM ile Vodafone turist SIM'i arasındaki fark ne?
+      a: |
+        Roami Yunanistan eSIM 1,99$'dan başlar ve online alınır; Vodafone turist SIM'i genellikle mağaza ziyareti ve kayıt gerektirir. eSIM'de kuyruk ve aktivasyon beklemesi yoktur.
 related_products:
-  title: İlgili Yunanistan eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1.99$'dan itibaren
+  - name: Macaristan eSIM
+    flag: img/flags/hu.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1.99$'dan itibaren
+  - name: İzlanda eSIM
+    flag: img/flags/is.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1.99$'dan itibaren
+  - name: İrlanda eSIM
+    flag: img/flags/ie.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: İtalya eSIM
+    flag: img/flags/it.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kosova eSIM
+    flag: img/flags/xk.svg
+    price: $13.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1.99$'dan itibaren
+  - name: Letonya eSIM
+    flag: img/flags/lv.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1.99$'dan itibaren
+  - name: Lihtenştayn eSIM
+    flag: img/flags/li.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1.99$'dan itibaren
+  - name: Litvanya eSIM
+    flag: img/flags/lt.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1.99$'dan itibaren
+  - name: Lüksemburg eSIM
+    flag: img/flags/lu.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1.99$'dan itibaren
+  - name: Malta eSIM
+    flag: img/flags/mt.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1.99$'dan itibaren
+  - name: Hollanda eSIM
+    flag: img/flags/nl.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1.99$'dan itibaren
+  - name: Norveç eSIM
+    flag: img/flags/no.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Yunanistan eSIM vs Ön Ödemeli SIM: Hangisi Sizin İçin Uygun?'
@@ -489,7 +503,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Cosmote'un 7 günlük sınırsız planı €6.50 tutarındadır; 5 günlük bir seyahat 2 gün hizmeti boşa harcar (%29 israf).
     esim_title: Esnek Planlar, İsraf Yok
-    esim_desc: 5 günlük seyahat için 2 gün israfa neden olan Cosmote'un 7 günlük planından (€6.50) farklı olarak, Roami 1.99$/GB'den başlayan 7 günlük planlar sunar, %29'a varan israf tasarrufu sağlar.
+    esim_desc: 5 günlük seyahat için 2 gün israfa neden olan Cosmote'un 7 günlük planından (€6.50) farklı olarak, Roami 2.99$'dan başlayan 7 günlük planlar sunar, %29'a varan israf tasarrufu sağlar.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''

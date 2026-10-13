@@ -1,6 +1,6 @@
 ---
 title: 'Türkiye eSIM 2026: Plan ve Kapsama Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,12 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Türkiye eSIM | Gezginler için Ön Ödemeli eSIM Satın Alın
-  description: Türkiye için ön ödemeli seyahat eSIM'ine mi ihtiyacınız var? Roami, anında etkinleştirme ile sınırsız 5G veri
-    sunar. İstanbul, Ankara ve tüm büyük şehirleri kapsar. Planlar $1.99'dan başlayan.
-  keywords: Türkiye eSIM, Türkiye eSIM satın al, en iyi Türkiye eSIM, Türkiye seyahat eSIM, Turkcell Türkiye, Vodafone Türkiye,
-    Türk Telekom Türkiye, İstanbul eSIM, Ankara eSIM, İzmir eSIM, Türkiye ön ödemeli eSIM, 5G Türkiye eSIM
+  description: 'Roami Türkiye eSIM: İstanbul, Ankara kapsama, Turkcell ağında 5G. Anında kurulum, hotspot dahil. 1,99$''dan başlar.'
+  keywords: Türkiye eSIM, Türkiye eSIM planları, en iyi Türkiye eSIM, ucuz Türkiye eSIM, Türkiye eSIM çevrimiçi satın al, sınırsız veri Türkiye eSIM, ön ödemeli Türkiye eSIM, Türkiye için en iyi eSIM, Türkiye eSIM fiyatı, Türkiye eSIM aktivasyonu, Türkiye eSIM kapsama alanı, İstanbul için en iyi eSIM, İstanbul eSIM, Ankara eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -346,6 +344,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🗺️
+    html: 'İstanbul ve Ankara''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -393,11 +393,7 @@ faq_section:
     - q: |
         Çok fazla harcamadan Türkiye için eSIM alabilir miyim?
       a: |
-        Kesinlikle. Roami'nin Türkiye eSIM planları sadece $1.99'dan başlar. 5GB/15 günlük seçenek ($9.99) gezginler arasında
-        en popüler olanıdır —haritalar, WhatsApp, Instagram ve e-posta ile rahatça başa çıkar. Yoğun veri kullanıcısıysanız,
-        10GB ($14.99) veya sınırsız ($59.99) planlar size gönül rahatlığı sağlar. Havalimanı SIM tezgahını atlamak size
-        %30-50 tasarruf ve sırada bekleme zahmetinden kurtarır. Ayarlamanız mı gerekiyor? Roami uygulamasından istediğiniz
-        zaman ek yükleme yapabilirsiniz.
+        Kesinlikle. Roami'nin Türkiye eSIM planları sadece $1.99'dan başlar. 4.99$ (3 Gün, 5GB) seçeneği gezginler arasında en popüler olanıdır — haritalar, WhatsApp, Instagram ve e-posta için rahatça yeterlidir. Yoğun veri kullanıcıları için 74.99$ (180 Gün, 50GB) planı daha rahat bir seçenektir. Havalimanı SIM tezgahını atlamak size %30-50 tasarruf ve sırada bekleme zahmetinden kurtarır. Ayarlamanız mı gerekiyor? Roami uygulamasından istediğiniz zaman ek yükleme yapabilirsiniz.
     - q: |
         Roami, Türkiye'de eSIM için Saily ile karşılaştırıldığında nasıl?
       a: |
@@ -433,56 +429,68 @@ faq_section:
         Çoğu turist için günlük ortalama kullanım: haritalar ve mesajlaşma için 300-500MB, sosyal medyayı yoğun kullanıyorsanız
         1GB'a kadar. Bir haftalık seyahat için 5GB rahattır. İki hafta için 10GB tercih edin. Roami, veriniz azalırsa kolayca
         ek yükleme yapmanızı sağlar.
+    - q: |
+        Türkiye eSIM'i kendi hattımla birlikte kullanabilir miyim, Turkcell hattım açık kalır mı?
+      a: |
+        Evet: veri eSIM üzerinden akar, kendi SIM'iniz arama ve SMS için açık kalır. Ayarlar'dan hangi hattın ses, SMS ve veri kullanacağını seçebilirsiniz.
+    - q: |
+        Yola çıkmadan Türkiye eSIM'i nasıl etkinleştiririm, Turkcell hattına geçiş ne zaman olur?
+      a: |
+        Çevrimiçi satın alın, QR kodunu e-posta ile 5 dakikada alın ve Ayarlar > Hücresel > eSIM Ekle'den tarayın. Evde Wi-Fi ile kurup Türkiye'de varışta etkinleştirin.
+    - q: |
+        Türkiye seyahati için kaç GB yeter, Turkcell paketleriyle kıyaslanınca?
+      a: |
+        Hafif kullanım (harita, mesaj) için 3-5GB yeter; sosyal medya ve video için 10GB idealdir. Roami Türkiye planları 1,99$'dan başlar ve uygulamadan anında yükleme yapılır.
 related_products:
   title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: $1.99’dan başlayan
+  - name: Azerbaycan eSIM
+    flag: img/flags/az.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: $1.99’dan başlayan
+  - name: Belarus eSIM
+    flag: img/flags/by.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: $1.99’dan başlayan
+  - name: Belçika eSIM
+    flag: img/flags/be.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Bosna Hersek eSIM
+    flag: img/flags/ba.svg
+    price: $30.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: $1.99’dan başlayan
+  - name: Bulgaristan eSIM
+    flag: img/flags/bg.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: $1.99’dan başlayan
+  - name: Hırvatistan eSIM
+    flag: img/flags/hr.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: $1.99’dan başlayan
+  - name: Kıbrıs eSIM
+    flag: img/flags/cy.svg
+    price: $2.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: $1.99’dan başlayan
+  - name: Çek Cumhuriyeti eSIM
+    flag: img/flags/cz.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: $1.99’dan başlayan
+  - name: Danimarka eSIM
+    flag: img/flags/dk.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: $1.99’dan başlayan
+  - name: Estonya eSIM
+    flag: img/flags/ee.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: $1.99’dan başlayan
+  - name: Faroe Adaları eSIM
+    flag: img/flags/fo.svg
+    price: $5.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: $1.99’dan başlayan
+  - name: Honduras eSIM
+    flag: img/flags/hn.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Türkiye eSIM vs Ön Ödemeli SIM Kart: Değiştirmeye Değer mi?'
@@ -527,9 +535,7 @@ market_analysis:
     prepaid_desc: Turkcell'in Fırsat serisi ve Vodafone'un Tam Senlik serisi 28 günlük sabit fatura döngüsü kullanır. Örneğin,
       Turkcell Fırsat 1GB 28 gün için —50 tutar; 5 günlük bir turist planın çoğunu israf eder.
     esim_title: Esnek Planlar, Sıfır İsraf
-    esim_desc: Turkcell'in 28 günlük döngüsü (1GB için —50), 5 günlük turistleri planın %82'sini israf etmeye zorlar.
-      Roami, $1.99/GB'dan başlayan 7 günlük planlar sunar, kısa seyahatlerle mükemmel uyum sağlar. Türkiye'nin sunduğu
-      en ucuz eSIM, israf edilen günler olmadan.
+    esim_desc: Turkcell'in 28 günlük döngüsü (1GB için —50), 5 günlük turistleri planın %82'sini israf etmeye zorlar. Roami, $1.99'dan başlayan 7 günlük planlar sunar, kısa seyahatlerle mükemmel uyum sağlar. Türkiye'nin sunduğu en ucuz eSIM, israf edilen günler olmadan.
   - icon: wifi
     title: Paylaşım ve<br>Hız Politikaları
     prepaid_title: ''
@@ -560,9 +566,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: 28 Günlük Faturalama İsrafını Ortadan Kaldırın
-      desc: Turkcell'in Fırsat 1GB'ı <b>28 gün</b> için <b>—50</b> tutar. 5 günlük bir turist planın <b>%82</b>'sini
-        israf eder. Roami, seyahat uzunluğuna uygun <b>$1.99/GB</b>'dan başlayan 7 günlük planlar sunar —akıllı Türkiye
-        seyahat eSIM seçimi.
+      desc: Turkcell'in Fırsat 1GB'ı <b>28 gün</b> için <b>—50</b> tutar. 5 günlük bir turist planın <b>%82</b>'sini israf eder. Roami, seyahat uzunluğuna uygun <b>$1.99</b>'dan başlayan 7 günlük planlar sunar —akıllı Türkiye seyahat eSIM seçimi.
     - icon: shield
       icon_bg: bg-teal-100
       icon_color: text-teal-600

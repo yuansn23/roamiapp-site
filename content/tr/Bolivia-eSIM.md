@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Bolívia 2026: Plan ve Kapsama Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Entel, Tigo, Viva
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: La Paz, Santa Cruz, Cochabamba, Sucre, El Alto
-  main_packages: 3/7/15/30 Gün, Sınırsız Veri
+  main_packages: 7/15/30 Gün, 1GB–20GB Veri
 modal:
   title: Hizmet güncellendi!
   btn_text: Devam Et
@@ -17,12 +17,10 @@ modal:
   text_android: "eSIM hizmetimiz <strong>PhoneSIM</strong> olarak güncellendi.<br>Yeni müşteriler %20 indirim kazanır, promosyon kodu: web20"
 seo:
   title: eSIM Bolívia | En iyi ön ödemeli seyahat eSIM planı
-  description: Roami'nin en iyi ön ödemeli seyahat eSIM'i ile Bolívia'yı keşfedin. Sınırsız 5G veri. La Paz, Santa Cruz ve Cochabamba'yı kapsar.
-    Anında aktivasyon. Planınızı bugün çevrimiçi satın alın.
-  keywords: eSIM Bolívia, eSIM Bolívia satın al, en iyi eSIM Bolívia, eSIM seyahat Bolívia, Entel Bolívia, Tigo Bolívia, Viva Bolívia,
-    eSIM La Paz, eSIM Santa Cruz, eSIM Cochabamba, ön ödemeli eSIM Bolívia, 5G eSIM Bolívia
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Roami eSIM Bolívia eSIM: La Paz, Santa Cruz kapsama, Entel ağında 5G. Anında kurulum, hotspot dahil. 11,99$''dan başlar.'
+  keywords: eSIM Bolívia eSIM, eSIM Bolívia eSIM planları, en iyi eSIM Bolívia eSIM, ucuz eSIM Bolívia eSIM, eSIM Bolívia eSIM çevrimiçi satın al, eSIM Bolívia eSIM veri planları, ön ödemeli eSIM Bolívia eSIM, eSIM Bolívia için en iyi eSIM, eSIM Bolívia eSIM fiyatı, eSIM Bolívia eSIM aktivasyonu, eSIM Bolívia eSIM kapsama alanı, La Paz için en iyi eSIM, La Paz eSIM, Santa Cruz eSIM
+  low_price: 11.99
+  high_price: 209.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Veri
@@ -184,6 +182,10 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 📱
+    html: 'Arama ve SMS için fiziksel SIM''inizi açık tutun; eSIM Bolívia eSIM''i yalnızca mobil veri için kullanın.'
+  - icon: 🗺️
+    html: 'La Paz ve Santa Cruz''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı uyumluluk kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kontrol edebilirsiniz:'
@@ -250,55 +252,67 @@ faq_section:
         Roami'den eSIM Bolívia satın almak için hangi belgelere ihtiyacım var?
       a: |
         Sadece geçerli bir ödeme yöntemi — kredi kartı, PayPal, Apple Pay veya Google Pay. Pasaport gönderme, adres doğrulama, sözleşme yok. Çevrimiçi satın alın, QR kodunuzu dakikalar içinde e-posta ile alın ve doğrudan telefonunuza kurun.
+    - q: |
+        eSIM Bolívia eSIM'i kendi hattımla birlikte kullanabilir miyim, Entel hattım açık kalır mı?
+      a: |
+        Evet: veri eSIM üzerinden akar, kendi SIM'iniz arama ve SMS için açık kalır. Ayarlar'dan hangi hattın ses, SMS ve veri kullanacağını seçebilirsiniz.
+    - q: |
+        Yola çıkmadan eSIM Bolívia eSIM'i nasıl etkinleştiririm, Entel hattına geçiş ne zaman olur?
+      a: |
+        Çevrimiçi satın alın, QR kodunu e-posta ile 5 dakikada alın ve Ayarlar > Hücresel > eSIM Ekle'den tarayın. Evde Wi-Fi ile kurup eSIM Bolívia'de varışta etkinleştirin.
+    - q: |
+        eSIM Bolívia seyahati için kaç GB yeter, Entel paketleriyle kıyaslanınca?
+      a: |
+        Hafif kullanım (harita, mesaj) için 3-5GB yeter; sosyal medya ve video için 10GB idealdir. Roami eSIM Bolívia planları 11,99$'dan başlar ve uygulamadan anında yükleme yapılır.
 related_products:
-  title: İlgili eSIM Bolívia planları
+  title: İlgili eSIM Planları
   items:
-  - name: eSIM Amerika Birleşik Devletleri
-    flag: img/flags/us.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Brezilya eSIM
+    flag: img/flags/br.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
+  - name: Şili eSIM
+    flag: img/flags/cl.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kolombiya eSIM
+    flag: img/flags/co.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Ekvador eSIM
+    flag: img/flags/ec.svg
+    price: $6.99'dan başlayan fiyatlarla
+    is_highlight: true
+  - name: Fransız Guyanası eSIM
+    flag: img/flags/gf.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Guyana eSIM
+    flag: img/flags/gy.svg
+    price: $9.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Paraguay eSIM
+    flag: img/flags/py.svg
+    price: $22.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Peru eSIM
+    flag: img/flags/pe.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Uruguay eSIM
+    flag: img/flags/uy.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Arjantin eSIM
+    flag: img/flags/ar.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: BK eSIM
     flag: img/flags/gb.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: eSIM Avrupa
-    flag: img/flags/eu.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: eSIM Türkiye
-    flag: img/flags/tr.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: eSIM Çin
-    flag: img/flags/cn.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: eSIM Japonya
-    flag: img/flags/jp.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: eSIM Fransa
-    flag: img/flags/fr.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: eSIM İspanya
-    flag: img/flags/es.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: eSIM Almanya
+  - name: Almanya eSIM
     flag: img/flags/de.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: eSIM Avustralya
-    flag: img/flags/au.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
@@ -327,7 +341,7 @@ market_analysis:
   - icon: globe
     title: Uluslararası<br>Dolaşım
     prepaid_title: ''
-    prepaid_desc: Kolombiya, Peru ve Ekvador ile CAN dolaşım anlaşması vardır, ancak adil kullanım politikası (FUP) net değildir, hız düşürme riski taşır; CAN dışında uluslararası dolaşım ücretleri pahalıdır.
+    prepaid_desc: Paketler sabit verilidir; her plan belirli bir veri hacmi sunar.
     esim_title: Küresel dolaşıma hazır
     esim_desc: Belirsiz FUP sınırları olan Entel'in CAN dolaşımının aksine, Roami 100'den fazla ülkede hız düşürme riski olmadan şeffaf veri planları sunar.
   - icon: calendar-xmark
@@ -336,7 +350,7 @@ market_analysis:
     prepaid_desc: "Entel 30 günlük planlar (ör: 1GB Bs 40) ve günlük planlar sunar; Tigo 7 günlük (1,2GB Bs 35) ve 30 günlük planlar sunar; Viva iptal edilmedikçe planları otomatik olarak yeniler.
 "
     esim_title: Esnek kısa vadeli planlar
-    esim_desc: Tigo'nun 30 günlük planının (1GB Bs 55) veya Viva'nın otomatik yenilemeli 7 günlük planının aksine, Roami $1,99/GB'dan başlayan 7 günlük planlar sunarak batık maliyetleri ortadan kaldırır.
+    esim_desc: Tigo'nun 30 günlük planının (1GB Bs 55) veya Viva'nın otomatik yenilemeli 7 günlük planının aksine, Roami $11,99'dan başlayan 7 günlük planlar sunarak batık maliyetleri ortadan kaldırır.
   - icon: wifi
     title: Sıcak nokta politikaları<br>ve hız
     prepaid_title: ''
@@ -377,5 +391,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: 30 günlük planların batık maliyetlerini ortadan kaldırın
-      desc: Tigo'nun 30 günlük 1GB planı Bs 55'tir, ancak 7 günlük bir turist planın %77'sini boşa harcar. Roami'nin 7 günlük planı <b>$1,99/GB</b>'dan başlayarak seyahat sürenize tam olarak uyar.
+      desc: Tigo'nun 30 günlük 1GB planı Bs 55'tir, ancak 7 günlük bir turist planın %77'sini boşa harcar. Roami'nin 7 günlük planı <b>$11,99</b>'dan başlayarak seyahat sürenize tam olarak uyar.
 ---

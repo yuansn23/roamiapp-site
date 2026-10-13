@@ -1,6 +1,6 @@
 ---
 title: 'Afganistan eSIM 2026: Kapsama ve Hız Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,12 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: 'Afganistan 5G eSIM: İş ve Seyahat İçin Yüksek Hızlı İnternet'
-  description: Kabil, Kandahar, Herat'ta hızlı 5G ile Afganistan eSIM planlarını karşılaştırın. Turistler ve gezginler için
-    Afghan Wireless & MTN & Roshan kapsama rehberi. 1,99$'dan başlayan fiyatlarla anında QR aktivasyonu.
-  keywords: Afganistan eSIM, Afganistan eSIM satın al, en iyi Afganistan eSIM, Afganistan seyahat eSIM, Afghan Wireless Afganistan,
-    MTN Afganistan, Roshan Afganistan, Kabil eSIM, Kandahar eSIM, Herat eSIM, Afganistan ön ödemeli eSIM, 5G Afganistan eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Afganistan eSIM planlarını karşılaştırın: Afghan Wireless ağı, Kabil ve Kandahar''de hızlı 5G. Anında QR aktivasyonu. 11,99$''dan başlayan fiyatlar.'
+  keywords: Afganistan eSIM, Afganistan eSIM planları, en iyi Afganistan eSIM, ucuz Afganistan eSIM, Afganistan eSIM çevrimiçi satın al, sınırsız veri Afganistan eSIM, ön ödemeli Afganistan eSIM, Afganistan için en iyi eSIM, Afganistan eSIM fiyatı, Afganistan eSIM aktivasyonu, Afganistan eSIM kapsama alanı, Kabil için en iyi eSIM, Kabil eSIM, Kandahar eSIM
+  low_price: 11.99
+  high_price: 52.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -165,6 +163,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🗺️
+    html: 'Kabil ve Kandahar''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -217,7 +217,7 @@ faq_section:
     - q: |
         Afganistan'a sadece 2-3 günlüğüne seyahat ediyorum. Hangi eSIM'i almalıyım?
       a: |
-        Kısa bir gezi için 1GB/7 günlük plan (1,99$), haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB'lık plan (4,99$) size daha fazla alan sağlar. Her ikisi de anında etkinleşir ve ihtiyaç halinde ek paket satın alabilirsiniz.
+        Kısa bir gezi için 1GB/7 günlük plan (11,99$), haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB'lık plan (4,99$) size daha fazla alan sağlar. Her ikisi de anında etkinleşir ve ihtiyaç halinde ek paket satın alabilirsiniz.
     - q: |
         Afganistan'da eSIM ile Google Haritalar gibi navigasyon uygulamalarını kullanabilir miyim?
       a: |
@@ -234,55 +234,67 @@ faq_section:
         Afganistan'daki eSIM'im video aramalar ve uzaktan çalışma için çalışır mı?
       a: |
         Kesinlikle. Roshan ağları, Zoom, Teams ve Google Meet için istikrarlı bağlantılar sağlar. Uzaktan çalışma için 10GB veya sınırsız bir plan önerilir. eSIM ayrıca dizüstü bilgisayarınız için sıcak nokta paylaşımını destekler.
+    - q: |
+        Afganistan eSIM fiyatı Afghan Wireless ön ödemeli SIM'e kıyasla nasıl?
+      a: |
+        Roami Afganistan planları 11,99$'dan başlar ve çevrimiçi birkaç tıkla alınır. Afghan Wireless mağazasında sıra beklemek ve yerel ön ödemeli SIM'lerde sık görülen kayıt/aktivasyon ücreti gerekmez.
+    - q: |
+        Afganistan eSIM hangi ağlarda çalışır, Afghan Wireless kapsaması yeterli mi?
+      a: |
+        Roami eSIM Afghan Wireless ve MTN ağlarına bağlanır; Kabil ve Kandahar gibi büyük şehirlerde 4G/5G sunar. Kırsal bölgelerde 4G kapsama güçlü kalır.
+    - q: |
+        Kabil'de Afghan Wireless şebekesinde eSIM hızı nasıl?
+      a: |
+        Kabil'de Roami eSIM Afghan Wireless 5G/4G ağını kullanır; şehir merkezinde tipik hız 50-200 Mbps. Harita, sosyal medya ve görüntülü arama için uygundur.
 related_products:
-  title: İlgili Afganistan eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Bangladeş eSIM
+    flag: img/flags/bd.svg
+    price: $5.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Brunei eSIM
+    flag: img/flags/bn.svg
+    price: $9.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Kamboçya eSIM
+    flag: img/flags/kh.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Çin eSIM
     flag: img/flags/cn.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1,99$'dan başlayan fiyatlarla
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Hong Kong eSIM
     flag: img/flags/hk.svg
-    price: 1,99$'dan başlayan fiyatlarla
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Hindistan eSIM
+    flag: img/flags/in.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Endonezya eSIM
+    flag: img/flags/id.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Japonya eSIM
+    flag: img/flags/jp.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Kazakistan eSIM
+    flag: img/flags/kz.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kırgızistan eSIM
+    flag: img/flags/kg.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Laos eSIM
+    flag: img/flags/la.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Malezya eSIM
+    flag: img/flags/my.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 ---

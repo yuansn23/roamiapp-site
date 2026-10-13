@@ -1,6 +1,6 @@
 ---
 title: 'Finlandiya eSIM 2026: Şehir ve Ağ Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,13 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Finlandiya eSIM | Gezginler İçin Sınırsız Veri Planı
-  description: Finlandiya için ön ödemeli seyahat eSIM'ine mi ihtiyacınız var? Roami ülke genelinde sınırsız 5G veri sunar.
-    Anında QR aktivasyonu. Helsinki, Rovaniemi ve tüm bölgeleri kapsar.
-  keywords: Finlandiya eSIM, Finlandiya eSIM satın al, en iyi Finlandiya eSIM, Finlandiya seyahat eSIM, Elisa Finlandiya,
-    DNA Finlandiya, Telia Finlandiya, Helsinki eSIM, Espoo eSIM, Tampere eSIM, Finlandiya ön ödemeli eSIM, 5G Finlandiya
-    eSIM
+  description: 'Ucuz Finlandiya eSIM: Helsinki, Espoo ve Tampere''de 5G. QR kod ile 2 dakikada kurulum, 24/7 destek. 1,99$''dan fiyatlar.'
+  keywords: Finlandiya eSIM, Finlandiya eSIM planları, en iyi Finlandiya eSIM, ucuz Finlandiya eSIM, Finlandiya eSIM çevrimiçi satın al, sınırsız veri Finlandiya eSIM, ön ödemeli Finlandiya eSIM, Finlandiya için en iyi eSIM, Finlandiya eSIM fiyatı, Finlandiya eSIM aktivasyonu, Finlandiya eSIM kapsama alanı, Helsinki için en iyi eSIM, Helsinki eSIM, Espoo eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -346,6 +343,10 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 📞
+    html: 'Roami eSIM yalnızca veri içindir: kendi numaranız açık kalır, SMS ve aramaları almaya devam edersiniz.'
+  - icon: 🏙️
+    html: 'Helsinki ve Espoo''de en iyi kapsama: verilerinizi paylaşmak için hotspot dahildir.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -394,7 +395,7 @@ faq_section:
     - q: |
         Finlandiya seyahati için en ucuz eSIM seçenekleri nelerdir?
       a: |
-        Roami Finlandiya eSIM planları 1,99$'dan (7 gün, 1GB) başlar ve 59,99$'a (30 gün sınırsız) kadar çıkar. Tipik bir 5-7 günlük gezi için 9,99$'lık 5GB plan en iyi seçenektir —haritalar, mesajlaşma ve sosyal medya kontrolü için yeterlidir. Video izlemek veya uzaktan çalışmak mı gerekiyor? 10GB veya sınırsız planı tercih edin. Elisa'nın 5G ağı sayesinde yayın ve video aramaları harika çalışır. Havaalanı SIM tezgahları %30-50 daha pahalıdır ve sırada beklemeniz gerekir. Veri ihtiyacınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek paket satın alın.
+        Finlandiya için Roami planları 1.99$ (3 Gün, 1GB) ile 77.99$ (30 Gün, Sınırsız) arasında konumlanır. Tipik bir 5-7 günlük gezi için 6.99$ (7 Gün, 5GB) planı en ideal olanıdır — günlük harita, mesajlaşma ve sosyal medya için yeterlidir. Video izlemek veya uzaktan çalışmak mı gerekiyor? 10GB veya sınırsız planı tercih edin. Elisa'nın 5G ağı sayesinde yayın ve video aramaları harika çalışır. Havaalanı SIM tezgahları %30-50 daha pahalıdır ve sırada beklemeniz gerekir. Veri ihtiyacınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek paket satın alın.
     - q: |
         Finlandiya'da planım sona ermeden önce tüm verimi kullanırsam ne olur?
       a: |
@@ -414,57 +415,69 @@ faq_section:
     - q: |
         Finlandiya'ya sadece 2-3 günlüğüne seyahat ediyorum. Hangi eSIM'i almalıyım?
       a: |
-        Kısa bir gezi için 1GB/7 günlük plan (1,99$) haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB'lık plan (4,99$) size daha fazla alan sağlar. Her ikisi de anında etkinleşir ve ihtiyaç halinde ek paket satın alabilirsiniz.
+        Kısa bir gezi için 1GB/7 günlük plan (2,99$) haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB'lık plan (4,99$) size daha fazla alan sağlar. Her ikisi de anında etkinleşir ve ihtiyaç halinde ek paket satın alabilirsiniz.
+    - q: |
+        Helsinki ve Espoo'de Elisa ağında eSIM hızı yeterli mi?
+      a: |
+        Evet; Helsinki ve Espoo merkezinde Roami eSIM Elisa 5G/4G ağında çalışır ve tipik olarak 50-200 Mbps sunar. Görüntülü görüşme ve navigasyon için idealdir.
+    - q: |
+        Finlandiya eSIM ile fiziksel SIM'i aynı anda kullanabilir miyim, Elisa numaram çalışır mı?
+      a: |
+        Evet: veri eSIM'de, ses ve SMS kendi hattınızda kalır. Böylece Elisa numaranız önemli aramaları almaya devam eder.
+    - q: |
+        Finlandiya için eSIM kurulumu Elisa SIM almaktan daha mı hızlı?
+      a: |
+        Evet: QR kodunu e-posta ile 5 dakikada alıp evde kurulur; Elisa mağazasında beklemek gerekmez. Varışta eSIM otomatik olarak devreye girer.
 related_products:
-  title: İlgili Finlandiya eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
   - name: Fransa eSIM
     flag: img/flags/fr.svg
-    price: 1,99$'dan başlayan fiyatlarla
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Gürcistan eSIM
+    flag: img/flags/ge.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Almanya eSIM
     flag: img/flags/de.svg
-    price: 1,99$'dan başlayan fiyatlarla
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Cebelitarık eSIM
+    flag: img/flags/gi.svg
+    price: $5.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Yunanistan eSIM
+    flag: img/flags/gr.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Macaristan eSIM
+    flag: img/flags/hu.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: İzlanda eSIM
+    flag: img/flags/is.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: İrlanda eSIM
+    flag: img/flags/ie.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: İtalya eSIM
+    flag: img/flags/it.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: true
+  - name: Kosova eSIM
+    flag: img/flags/xk.svg
+    price: $13.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Letonya eSIM
+    flag: img/flags/lv.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Lihtenştayn eSIM
+    flag: img/flags/li.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Finlandiya eSIM ve Fiziksel SIM: Seyahat İçin Hangisi Daha İyi?'
@@ -498,19 +511,15 @@ market_analysis:
   - icon: globe
     title: Uluslararası<br>Dolaşım
     prepaid_title: ''
-    prepaid_desc: Telia ön ödemeli AB dolaşımı 10 ülke ile sınırlıdır; Saunalahti, İskandinav ülkelerinde 50GB'dan sonra
-      0.5 Mbps'ye yavaşlatır; DNA, İngiltere dolaşımı için 59—GB ücretlendirir.
+    prepaid_desc: Telia ön ödemeli AB dolaşımı 10 ülke ile sınırlıdır; Saunalahti, İskandinav ülkelerinde 50GB'dan sonra 0.5 Mbps'ye yavaşlatır; DNA, İngiltere dolaşımı için 59€/GB ücretlendirir.
     esim_title: Sınırsız Küresel Dolaşım
-    esim_desc: Telia'nın 10 ülke sınırından ve Saunalahti'nin 50GB yavaşlatmasından (0.5 Mbps) kaçının. Roami, İngiltere
-      dahil olmak üzere 59—GB değil, standart oranlarla tam hızda sorunsuz çok ülkeli veri sunar.
+    esim_desc: Telia'nın 10 ülke sınırından ve Saunalahti'nin 50GB yavaşlatmasından (0.5 Mbps) kaçının. Roami, İngiltere dahil olmak üzere 59€/GB değil, standart oranlarla tam hızda sorunsuz çok ülkeli veri sunar.
   - icon: calendar-xmark
     title: Faturalandırma Döngüsü ve<br>Batık Maliyet
     prepaid_title: ''
-    prepaid_desc: DNA Rajaton Prepaid, kullanılmasa bile günde 0,89—(4G) veya 1,19—(5G) ücretlendirir; 3 günlük bir turist
-      manuel olarak duraklatmazsa (5—ücret) 4 günlük ücreti israf eder.
+    prepaid_desc: DNA Rajaton Prepaid, kullanılmasa bile günde 0,89€ (4G) veya 1,19€ (5G) ücretlendirir; 3 günlük bir turist manuel olarak duraklatmazsa (5€ ücret) 4 günlük ücreti israf eder.
     esim_title: Esnek Günlük Planlar
-    esim_desc: Kullanılmayan günlerde para israf eden DNA'nın zorunlu 0,89—gün kesintisinden farklı olarak, Roami 1,99$/GB'dan
-      başlayan 7 günlük planlar sunar. Yalnızca kullandığınız kadar ödeyin, batık maliyet yok.
+    esim_desc: Kullanılmayan günlerde para israf eden DNA'nın zorunlu 0,89€ gün kesintisinden farklı olarak, Roami 2,99$'dan başlayan 7 günlük planlar sunar. Yalnızca kullandığınız kadar ödeyin, batık maliyet yok.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''

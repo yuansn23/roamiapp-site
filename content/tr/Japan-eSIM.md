@@ -1,6 +1,6 @@
 ---
 title: 'Japonya eSIM 2026: Seyahat ve Ağ Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,12 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Japonya eSIM | Gezginler İçin Ön Ödemeli eSIM Satın Alın
-  description: Roami'nin en iyi ön ödemeli seyahat eSIM'i ile Japonya'da bağlantıda kalın. Anında aktivasyon ile sınırsız 5G veri alın.
-    Hareket etmeden önce planınızı çevrimiçi satın alın.
-  keywords: Japonya eSIM, Japonya eSIM satın al, en iyi Japonya eSIM, Japonya seyahat eSIM, NTT Docomo Japonya, SoftBank Japonya,
-    KDDI Japonya, Tokyo eSIM, Osaka eSIM, Kyoto eSIM, Japonya ön ödemeli eSIM, 5G Japonya eSIM
+  description: Japonya eSIM ile Tokyo ve Osaka'de bağlantıda kalın. Ön ödemeli, sözleşmesiz 5G veri. 1,99$'dan planlar.
+  keywords: Japonya eSIM, Japonya eSIM planları, en iyi Japonya eSIM, ucuz Japonya eSIM, Japonya eSIM çevrimiçi satın al, sınırsız veri Japonya eSIM, ön ödemeli Japonya eSIM, Japonya için en iyi eSIM, Japonya eSIM fiyatı, Japonya eSIM aktivasyonu, Japonya eSIM kapsama alanı, Tokyo için en iyi eSIM, Tokyo eSIM, Osaka eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 71.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -337,6 +335,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 📍
+    html: 'Tokyo için eSIM''i varışta etkinleştirmenizi öneririz: geçerlilik ilk bağlantıda başlar.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -385,7 +385,7 @@ faq_section:
     - q: |
         Japonya için çok fazla harcamadan eSIM alabilir miyim?
       a: |
-        Kesinlikle. Roami'nin Japonya eSIM planları sadece 1,99$'dan başlıyor. 5GB/15 günlük seçenek (9,99$) gezginler arasında en popüler olanıdır —haritalar, WhatsApp, Instagram ve e-postayı rahatça kullanmanızı sağlar. Yoğun veri kullanıcısıysanız, 10GB (14,99$) veya sınırsız (59,99$) planlar size gönül rahatlığı verir. Havalimanı SIM gişesini atlamak size %30-50 tasarruf ve sıra bekleme derdinden kurtarır. Ayarlamak mı istiyorsunuz? Roami uygulamasından istediğiniz zaman ek paket satın alabilirsiniz.
+        Kesinlikle. Roami'nin Japonya eSIM planları sadece 1,99$'dan başlıyor. Gezginler arasında en çok 5.99$ (7 Gün, 5GB) seçeneği tercih edilir — harita, WhatsApp, Instagram ve e-posta için yeterlidir. Yoğun veri kullanıcıları için 37.99$ (30 Gün, 50GB) planı daha rahat bir seçenektir. Havalimanı SIM gişesini atlamak size %30-50 tasarruf ve sıra bekleme derdinden kurtarır. Ayarlamak mı istiyorsunuz? Roami uygulamasından istediğiniz zaman ek paket satın alabilirsiniz.
     - q: |
         Roami Japonya'da Docomo, SoftBank ve AU arasında otomatik olarak geçiş yapar mı?
       a: |
@@ -393,7 +393,7 @@ faq_section:
     - q: |
         Japonya'ya giden gezginler için en popüler eSIM seçeneği hangisidir?
       a: |
-        Japonya'ya giden çoğu gezgin 5GB/15 günlük planı (9,99$) tercih eder. Günlük navigasyon, sosyal medya ve mesajlaşma için yeterlidir. Daha uzun konaklamalar veya daha yoğun kullanım için 10GB (14,99$) veya sınırsız (59,99$) planlar harika seçeneklerdir. Tüm planlar dakikalar içinde etkinleşir ve 7/24 destek içerir.
+        Japonya'ya giden çoğu gezgin 5GB/15 günlük planı (6,99$) tercih eder. Günlük navigasyon, sosyal medya ve mesajlaşma için yeterlidir. Daha uzun konaklamalar veya daha yoğun kullanım için 10GB (8,99$) veya sınırsız (59,99$) planlar harika seçeneklerdir. Tüm planlar dakikalar içinde etkinleşir ve 7/24 destek içerir.
     - q: |
         Japonya eSIM'imin geçerlilik süresi ne zaman başlar?
       a: |
@@ -406,56 +406,68 @@ faq_section:
         Japonya eSIM'imi son dakikada, uçuşumdan hemen önce satın alabilir miyim?
       a: |
         Evet —QR kodu satın alma işleminden sonra dakikalar içinde e-posta ile gönderilir. Havalimanı kapısında satın alabilir ve uçakta WiFi kullanarak kurabilirsiniz. Japonya'ya indiğinizde, sadece Veri Dolaşımı'nı etkinleştirin ve hemen çevrimiçi olursunuz.
+    - q: |
+        Japonya için eSIM kurulumu NTT Docomo SIM almaktan daha mı hızlı?
+      a: |
+        Evet: QR kodunu e-posta ile 5 dakikada alıp evde kurulur; NTT Docomo mağazasında beklemek gerekmez. Varışta eSIM otomatik olarak devreye girer.
+    - q: |
+        Japonya gezisi için kaç GB almalıyım, NTT Docomo paketlerine göre?
+      a: |
+        Günlük harita ve mesaj için 3-5GB, sosyal medya ve video için 10GB uygundur. Roami Japonya planları 1,99$'dan başlar ve NTT Docomo paketlerinden bağımsızdır.
+    - q: |
+        Japonya eSIM fiyatı NTT Docomo ön ödemeli SIM'e kıyasla nasıl?
+      a: |
+        Roami Japonya planları 1,99$'dan başlar ve çevrimiçi birkaç tıkla alınır. NTT Docomo mağazasında sıra beklemek ve yerel ön ödemeli SIM'lerde sık görülen kayıt/aktivasyon ücreti gerekmez.
 related_products:
-  title: İlgili Japonya eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
+  - name: Kazakistan eSIM
+    flag: img/flags/kz.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kırgızistan eSIM
+    flag: img/flags/kg.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Laos eSIM
+    flag: img/flags/la.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Malezya eSIM
+    flag: img/flags/my.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık eSIM
-    flag: img/flags/gb.svg
+  - name: Maldivler eSIM
+    flag: img/flags/mv.svg
+    price: $14.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Nepal eSIM
+    flag: img/flags/ne.svg
+    price: $10.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Pakistan eSIM
+    flag: img/flags/pk.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Filipinler eSIM
+    flag: img/flags/ph.svg
+    price: $2.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Singapur eSIM
+    flag: img/flags/sg.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
+  - name: Güney Kore eSIM
+    flag: img/flags/kr.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Tayvan eSIM
+    flag: img/flags/tw.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Tacikistan eSIM
+    flag: img/flags/tj.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Japonya eSIM ve Ön Ödemeli SIM Kart: Temel Farklar Açıklandı —Japonya Gezginleri İçin En İyi eSIM'
@@ -491,7 +503,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: b-mobile fiziksel SIM geçerliliği aktivasyon tarihinden değil, sevkiyat tarihinden başlar; IIJmio ek paket geçerliliği son ek paket satın alımından itibaren 3 ay uzar, kısa süreli turistler için israfa neden olur.
     esim_title: Esnek Fatura Döngüleri
-    esim_desc: b-mobile'ın 30 günlük planı sevkiyat tarihinden başlar, geçerliliğin %20-40'ını israf eder. Roami, tam seyahat sürenize uyan ve %75'e varan israftan tasarruf eden $1,99/GB'den başlayan 7 günlük planlar sunar.
+    esim_desc: b-mobile'ın 30 günlük planı sevkiyat tarihinden başlar, geçerliliğin %20-40'ını israf eder. Roami, tam seyahat sürenize uyan ve %75'e varan israftan tasarruf eden $1,99'dan başlayan 7 günlük planlar sunar.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''

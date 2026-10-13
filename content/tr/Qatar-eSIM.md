@@ -1,6 +1,6 @@
 ---
 title: 'Katar eSIM 2026: 5G ve Veri Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
 seo:
   title: 'Katar eSIM $1.99''dan Başlıyor: Körfez Bölgesinde Dolaşım'
-  description: 'Doha, Al Wakrah, Al Khor''da hızlı 5G ile Katar eSIM planlarını karşılaştırın. Turistler ve seyahatçiler için Ooredoo ve Vodafone Qatar ve Orange Qatar kapsama rehberi. $1.99''dan anında QR aktivasyonu.'
-  keywords: 'Katar eSIM, Katar eSIM satın al, en iyi Katar eSIM, Katar seyahat eSIM, Ooredoo Katar, Vodafone Qatar Katar, Orange Qatar Katar, Doha eSIM, Al Wakrah eSIM, Al Khor eSIM, Katar ön ödemeli eSIM, 5G Katar eSIM'
+  description: 'Katar için ön ödemeli seyahat eSIM''i: Doha, Al Wakrah ve tüm ülkede 5G. Pasaport kaydı yok. 1,99$''dan başlar.'
+  keywords: 'Katar eSIM, Katar eSIM planları, en iyi Katar eSIM, ucuz Katar eSIM, Katar eSIM çevrimiçi satın al, sınırsız veri Katar eSIM, ön ödemeli Katar eSIM, Katar için en iyi eSIM, Katar eSIM fiyatı, Katar eSIM aktivasyonu, Katar eSIM kapsama alanı, Doha için en iyi eSIM, Doha eSIM, Al Wakrah eSIM'
   low_price: 1.99
-  high_price: 39.9
+  high_price: 94.99
 order_summary:
   title: 'Seçilen Plan'
   label_data: 'Dahil Olan Veri'
@@ -304,6 +304,8 @@ reminders:
     html: 'QR kodu e-posta adresinize gönderilecektir.'
   - icon: 🔄
     html: 'Aynı anda birden fazla eSIM kurabilirsiniz.'
+  - icon: 🏙️
+    html: 'Doha ve Al Wakrah''de en iyi kapsama: verilerinizi paylaşmak için hotspot dahildir.'
   compatibility_check:
     title: 'Hızlı Uyumluluk Kontrolü'
     desc: 'Telefonunuzun eSIM''i destekleyip desteklemediğinden emin değil misiniz? Hemen kendiniz kolayca kontrol edebilirsiniz:'
@@ -343,66 +345,78 @@ faq_section:
     - q: 'Roami, Katar''da eSIM için Klook ile karşılaştırıldığında nasıldır?'
       a: 'Roami genellikle Katar eSIM için daha iyi değer sunar çünkü doğrudan satıyoruz —pazar yeri farkı yok. Fiyatlar genellikle Klook''tan %10-20 daha düşüktür. Ayrıca 7/24 doğrudan destek sağlıyoruz. Planlar ön ödemelidir ve otomatik yenileme yoktur, böylece seyahatiniz bittikten sonra ücretlendirilmezsiniz.'
     - q: 'Katar seyahati için en ucuz eSIM seçenekleri nelerdir?'
-      a: 'Roami Katar eSIM planları $1.99''dan (7 gün, 1GB) başlar ve $59.99''a kadar (30 gün sınırsız) çıkar. Tipik bir 5-7 günlük gezi için 5GB plan $9.99 ile en uygun seçenektir —haritalar, mesajlaşma ve sosyal medya kontrolü için yeterlidir. Video izlemek veya uzaktan çalışmak mı gerekiyor? 10GB veya sınırsız tercih edin. Ooredoo''nun 5G ağı sayesinde yayın ve görüntülü aramalar harika çalışır. Havaalanı SIM gişeleri %30-50 daha pahalıdır ve sırada beklemeniz gerekir. Veri ihtiyacınızdan emin değil misiniz? Küçük başlayın ve eSIM''inizi değiştirmeden uygulama üzerinden ek yükleme yapın.'
+      a: 'Katar eSIM planlarımız 1.99$ (7 Gün, 100MB) ile 94.99$ (15 Gün, Sınırsız) arasında değişir. Kısa bir seyahat için 9.99$ (3 Gün, 5GB) planı idealdir — harita, mesajlaşma ve sosyal medya ihtiyacını karşılar. Video izlemek veya uzaktan çalışmak mı gerekiyor? 30GB tercih edin. Ooredoo''nun 5G ağı sayesinde yayın ve görüntülü aramalar harika çalışır. Havaalanı SIM gişeleri %30-50 daha pahalıdır ve sırada beklemeniz gerekir. Veri ihtiyacınızdan emin değil misiniz? Küçük başlayın ve eSIM''inizi değiştirmeden uygulama üzerinden ek yükleme yapın.'
     - q: 'Katar eSIM kaydı için pasaportumu yüklemek güvenli mi? Gizlilik konusunda endişeliyim.'
       a: 'Katar yasalar gereği kimlik doğrulaması gerektirir. Katar ön ödemeli SIM kartlar için KYC doğrulaması gerektirir. Pasaport gereklidir. Süreç basittir: pasaportunuzu Roami''nin güvenli portalı üzerinden yükleyin, onay 5-10 dakika sürer. Bunu ayrılmadan önce yapın —havaalanında dengesiz WiFi ile yapmak sinir bozucudur. Onaylandıktan sonra, Katar''da Veri Dolaşımını etkinleştirdiğinizde otomatik olarak bağlanırsınız.'
     - q: 'Katar eSIM sınırsız planı çok fazla veri kullanırsam yavaşlar mı?'
-      a: 'Adil kullanım politikası vardır: günde 30GB''den sonra hızlar düşer. Düşük hızda mesajlaşabilir, gezinebilir ve internette dolaşabilirsiniz —sadece akıcı video olmaz. Gerçekçi olarak, çoğu seyahatçi 30GB''a yaklaşmaz. Endişeleniyorsanız, 10GB ($14.99) veya 20GB ($24.99) sabit plan belirsizliği tamamen ortadan kaldırır.'
+      a: 'Adil kullanım politikası vardır: günde 30GB''den sonra hızlar düşer. Düşük hızda mesajlaşabilir, gezinebilir ve internette dolaşabilirsiniz —sadece akıcı video olmaz. Gerçekçi olarak, çoğu seyahatçi 30GB''a yaklaşmaz. Endişeleniyorsanız, 10GB ($17.99) veya 20GB ($38.99) sabit plan belirsizliği tamamen ortadan kaldırır.'
     - q: 'Katar eSIM''im vardığımda bağlanmazsa ne yapmalıyım?'
       a: 'Her biri yaklaşık 30 saniye süren üç hızlı kontrol: 1) Veri Dolaşımı açık mı? 2) Ağ ayarlarından manuel olarak Ooredoo seçebilir misiniz? 3) Telefonunuzu yeniden başlatmayı deneyin. Bağlantı sorunlarının yaklaşık %90''ı bu adımlardan biriyle çözülür. Değilse, Roami 7/24 desteği yardımcı olabilir.'
     - q: 'Katar''da sadece birkaç günlüğüne internet erişimine ihtiyacım var. Satın alabileceğim en düşük plan nedir?'
-      a: 'En ucuz plan, 1GB ile 7 gün için $1.99''dur —hafif kullanımlı kısa bir hafta sonu gezisi için mükemmel. Daha fazlasına ihtiyacınız varsa, uygulamadan istediğiniz zaman ek yükleme yapabilirsiniz.'
+      a: 'En ucuz plan, 1GB ile 7 gün için $6.99''dur —hafif kullanımlı kısa bir hafta sonu gezisi için mükemmel. Daha fazlasına ihtiyacınız varsa, uygulamadan istediğiniz zaman ek yükleme yapabilirsiniz.'
     - q: 'Havaalanı SIM gişeleriyle uğraşmadan Katar''da bağlantıda kalmanın en kolay yolu nedir?'
       a: 'eSIM cevabınızdır. Çevrimiçi satın alın, e-posta ile QR kodu alın, 2 dakikada kurun. Havaalanı kuyruğunu atlayın. Roami güvenilir kapsama için Ooredoo''ya bağlanır. Kendi SIM''iniz SMS için aktif kalır. Bağlantıda kalmanın en basit yoludur.'
+    - q: |
+        Katar seyahati için kaç GB yeter, Ooredoo paketleriyle kıyaslanınca?
+      a: |
+        Hafif kullanım (harita, mesaj) için 3-5GB yeter; sosyal medya ve video için 10GB idealdir. Roami Katar planları 1,99$'dan başlar ve uygulamadan anında yükleme yapılır.
+    - q: |
+        Katar eSIM ile Ooredoo turist SIM'i arasındaki fark ne?
+      a: |
+        Roami Katar eSIM 1,99$'dan başlar ve online alınır; Ooredoo turist SIM'i genellikle mağaza ziyareti ve kayıt gerektirir. eSIM'de kuyruk ve aktivasyon beklemesi yoktur.
+    - q: |
+        Katar genelinde Ooredoo ve Vodafone Qatar kapsaması eSIM ile nasıl çalışır?
+      a: |
+        Roami eSIM Ooredoo ve Vodafone Qatar ağlarını kullanır; Doha, Al Wakrah ve Al Khor'de 4G/5G mevcuttur. Şehir dışında bağlantı 4G hızında sabit kalır.
 related_products:
-  title: 'İlgili eSIM Planları'
+  title: İlgili eSIM Planları
   items:
-  - name: 'Amerika Birleşik Devletleri eSIM'
-    flag: img/flags/us.svg
-    price: From $1.99
+  - name: Suudi Arabistan eSIM
+    flag: img/flags/sa.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Birleşik Krallık eSIM'
-    flag: img/flags/gb.svg
-    price: From $1.99
+  - name: BAE eSIM
+    flag: img/flags/ae.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Avrupa eSIM'
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Bahreyn eSIM
+    flag: img/flags/bh.svg
+    price: $6.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Irak eSIM
+    flag: img/flags/iq.svg
+    price: $21.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: İsrail eSIM
+    flag: img/flags/il.svg
+    price: $2.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Ürdün eSIM
+    flag: img/flags/jo.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: 'Kanada eSIM'
+  - name: Kuveyt eSIM
+    flag: img/flags/kw.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Umman eSIM
+    flag: img/flags/om.svg
+    price: $5.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: From $1.99
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Türkiye eSIM'
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Çin eSIM'
+  - name: Çin eSIM
     flag: img/flags/cn.svg
-    price: From $1.99
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Japonya eSIM'
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Hong Kong eSIM'
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Fransa eSIM'
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'İspanya eSIM'
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Almanya eSIM'
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Avustralya eSIM'
+  - name: Avustralya eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 ---

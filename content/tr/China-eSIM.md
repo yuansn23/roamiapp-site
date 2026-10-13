@@ -1,6 +1,6 @@
 ---
 title: 'Çin eSIM 2026: Yerel Taşıyıcı Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: China Mobile, China Unicom, China Telecom
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Pekin, Şanghay, Guangzhou, Şenzen, Çengdu
-  main_packages: 3/7/15/30 Gün, Sınırsız Veri
+  main_packages: 3/7/15/30 Gün, 1GB–50GB Veri
 modal:
   title: Hizmet Yükseltildi!
   btn_text: Devam Et
@@ -19,10 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Çin eSIM | VPN'siz En İyi Ön Ödemeli Seyahat Planı
-  description: Çin'e seyahat mi planlıyorsunuz? Roami'nin en iyi ön ödemeli seyahat eSIM'ini sınırsız 5G veri ile alın. VPN gerekmez. Anında aktivasyon. Pekin, Şanghay ve tüm şehirleri kapsar.
-  keywords: Çin eSIM, Çin eSIM satın al, en iyi Çin eSIM, Çin seyahat eSIM, China Mobile Çin, China Unicom Çin, China Telecom Çin, Pekin eSIM, Şanghay eSIM, Guangzhou eSIM, Çin ön ödemeli eSIM, 5G Çin eSIM
+  description: Çin eSIM planları 1,99$'dan başlar. Pekin ve Şanghay'de hızlı 5G, sözleşme yok, hotspot dahil. Anında etkinleştirme.
+  keywords: Çin eSIM, Çin eSIM planları, en iyi Çin eSIM, ucuz Çin eSIM, Çin eSIM çevrimiçi satın al, Çin eSIM veri planları, ön ödemeli Çin eSIM, Çin için en iyi eSIM, Çin eSIM fiyatı, Çin eSIM aktivasyonu, Çin eSIM kapsama alanı, Pekin için en iyi eSIM, Pekin eSIM, Şanghay eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 39.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -290,6 +290,10 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 📱
+    html: 'Arama ve SMS için fiziksel SIM''inizi açık tutun; Çin eSIM''i yalnızca mobil veri için kullanın.'
+  - icon: 🗺️
+    html: 'Pekin ve Şanghay''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -356,56 +360,68 @@ faq_section:
         Çin eSIM'imi sosyal medya ve ailemle fotoğraf paylaşmak için kullanabilir miyim?
       a: |
         Kesinlikle. Instagram, WhatsApp, Facebook ve diğer sosyal uygulamalar eSIM bağlantısı üzerinden çalışır. China Mobile'dan yükleme hızları fotoğrafları saniyeler içinde ve kısa videoları kolayca işler.
+    - q: |
+        Çin eSIM'i kendi hattımla birlikte kullanabilir miyim, China Mobile hattım açık kalır mı?
+      a: |
+        Evet: veri eSIM üzerinden akar, kendi SIM'iniz arama ve SMS için açık kalır. Ayarlar'dan hangi hattın ses, SMS ve veri kullanacağını seçebilirsiniz.
+    - q: |
+        Yola çıkmadan Çin eSIM'i nasıl etkinleştiririm, China Mobile hattına geçiş ne zaman olur?
+      a: |
+        Çevrimiçi satın alın, QR kodunu e-posta ile 5 dakikada alın ve Ayarlar > Hücresel > eSIM Ekle'den tarayın. Evde Wi-Fi ile kurup Çin'de varışta etkinleştirin.
+    - q: |
+        Çin seyahati için kaç GB yeter, China Mobile paketleriyle kıyaslanınca?
+      a: |
+        Hafif kullanım (harita, mesaj) için 3-5GB yeter; sosyal medya ve video için 10GB idealdir. Roami Çin planları 1,99$'dan başlar ve uygulamadan anında yükleme yapılır.
 related_products:
-  title: İlgili Çin eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1.99$'dan itibaren
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1.99$'dan itibaren
+  - name: Hindistan eSIM
+    flag: img/flags/in.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1.99$'dan itibaren
-    is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1.99$'dan itibaren
+  - name: Endonezya eSIM
+    flag: img/flags/id.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Japonya eSIM
     flag: img/flags/jp.svg
-    price: 1.99$'dan itibaren
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: true
+  - name: Kazakistan eSIM
+    flag: img/flags/kz.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1.99$'dan itibaren
+  - name: Kırgızistan eSIM
+    flag: img/flags/kg.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1.99$'dan itibaren
+  - name: Laos eSIM
+    flag: img/flags/la.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1.99$'dan itibaren
+  - name: Malezya eSIM
+    flag: img/flags/my.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1.99$'dan itibaren
+  - name: Maldivler eSIM
+    flag: img/flags/mv.svg
+    price: $14.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1.99$'dan itibaren
+  - name: Nepal eSIM
+    flag: img/flags/ne.svg
+    price: $10.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Pakistan eSIM
+    flag: img/flags/pk.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Filipinler eSIM
+    flag: img/flags/ph.svg
+    price: $2.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Çin eSIM vs Ön Ödemeli SIM Kart: Dikkate Almanız Gereken Her Şey – Çin Gezginleri için En İyi eSIM'
@@ -441,7 +457,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: China Mobile ve China Unicom katı takvim-ay faturalaması kullanır; 25 Ocak'ta aktifleştirilirse, veri 1 Şubat'ta sıfırlanır, planın %80'ini boşa harcar.
     esim_title: Esnek Gün Bazlı Planlar
-    esim_desc: China Unicom'un 129 RMB/30GB takvim-ay planından (7 günlük seyahat için %80 israf) farklı olarak, Roami 1.99$/GB'den başlayan 7 günlük planlar sunar.
+    esim_desc: China Unicom'un 129 RMB/30GB takvim-ay planından (7 günlük seyahat için %80 israf) farklı olarak, Roami 1.99$'dan başlayan 7 günlük planlar sunar.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''

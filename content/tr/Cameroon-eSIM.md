@@ -1,6 +1,6 @@
 ---
 title: 'Kamerun eSIM 2026: 5G ve Veri Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: MTN Cameroon, Orange Cameroon, CAMTEL
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Douala, Yaoundé, Bamenda, Garoua, Maroua
-  main_packages: 3/7/15/30 Gün, Sınırsız Veri
+  main_packages: 7/15/30 Gün, 1GB–20GB Veri
 modal:
   title: Hizmet Yükseltildi!
   btn_text: Devam Et
@@ -19,10 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: 'Kamerun eSIM: Kısa ve Uzun Konaklamalar için 5G Veri Planı'
-  description: Douala, Yaoundé, Bamenda'da hızlı 5G ile Kamerun eSIM planlarını karşılaştırın. Turistler ve gezginler için MTN Cameroon, Orange Cameroon ve CAMTEL kapsama rehberi. 1.99$'dan başlayan anında QR aktivasyonu.
-  keywords: Kamerun eSIM, Kamerun eSIM satın al, en iyi Kamerun eSIM, Kamerun seyahat eSIM, MTN Cameroon Kamerun, Orange Cameroon Kamerun, CAMTEL Kamerun, Douala eSIM, Yaoundé eSIM, Bamenda eSIM, Kamerun ön ödemeli eSIM, 5G Kamerun eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Roami Kamerun eSIM: Douala, Yaoundé kapsama, MTN Cameroon ağında 5G. Anında kurulum, hotspot dahil. 27,99$''dan başlar.'
+  keywords: Kamerun eSIM, Kamerun eSIM planları, en iyi Kamerun eSIM, ucuz Kamerun eSIM, Kamerun eSIM çevrimiçi satın al, Kamerun eSIM veri planları, ön ödemeli Kamerun eSIM, Kamerun için en iyi eSIM, Kamerun eSIM fiyatı, Kamerun eSIM aktivasyonu, Kamerun eSIM kapsama alanı, Douala için en iyi eSIM, Douala eSIM, Yaoundé eSIM
+  low_price: 27.99
+  high_price: 89.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -150,6 +150,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🏙️
+    html: 'Douala ve Yaoundé''de en iyi kapsama: verilerinizi paylaşmak için hotspot dahildir.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -195,7 +197,7 @@ faq_section:
     - q: |
         Kamerun'daki otelimde ücretsiz WiFi varsa - yine de eSIM verisine ihtiyacım var mı?
       a: |
-        Otel WiFi'si odanızda çalışır ancak keşfe çıktığınızda çalışmaz. eSIM size her yerde veri sağlar - sokaklarda gezinmek, yakındaki yerleri aramak, ulaşım tarifelerini kontrol etmek. 5GB plan 9.99$'dır ve bu genellikle bir haftalık ücretli otel WiFi'sinden (birçok otelde 10-15$) daha ucuzdur. Çoğu gezgin büyük indirmeler için otel WiFi'sini ve hareket halindeyken bağlantı için eSIM'i kullanır.
+        Otel WiFi'si odanızda çalışır ancak keşfe çıktığınızda çalışmaz. eSIM size her yerde veri sağlar - sokaklarda gezinmek, yakındaki yerleri aramak, ulaşım tarifelerini kontrol etmek. 30.99$ (30 Gün, 20GB) planı'dır ve bu genellikle bir haftalık ücretli otel WiFi'sinden (birçok otelde 10-15$) daha ucuzdur. Çoğu gezgin büyük indirmeler için otel WiFi'sini ve hareket halindeyken bağlantı için eSIM'i kullanır.
     - q: |
         Kamerun eSIM'im indiğim anda çalışacak mı, yoksa aktivasyon gecikmesi var mı?
       a: |
@@ -207,7 +209,7 @@ faq_section:
     - q: |
         Kamerun'a sadece 2-3 günlüğüne seyahat ediyorum. Hangi eSIM'i almalıyım?
       a: |
-        Kısa bir seyahat için 1GB/7 günlük plan (1.99$) haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB plan (4.99$) daha fazla alan sağlar. Her ikisi de anında etkinleşir ve gerektiğinde ek yükleme yapabilirsiniz.
+        Kısa bir seyahat için 1GB/7 günlük plan (27.99$) haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB plan (89.99$) daha fazla alan sağlar. Her ikisi de anında etkinleşir ve gerektiğinde ek yükleme yapabilirsiniz.
     - q: |
         Roami'den Kamerun eSIM satın almak için hangi belgelere ihtiyacım var?
       a: |
@@ -215,58 +217,70 @@ faq_section:
     - q: |
         Roami'den Kamerun eSIM satın aldığımda neler dahildir?
       a: |
-        5 dakika içinde QR kodu teslimatı, MTN'nin ağına erişim, 7/24 müşteri desteği ve 5 cihaza kadar ücretsiz sıcak nokta. Planlar 1.99$'dan başlar. Sözleşme yok, gizli ücret yok, otomatik yenileme yok.
+        5 dakika içinde QR kodu teslimatı, MTN'nin ağına erişim, 7/24 müşteri desteği ve 5 cihaza kadar ücretsiz sıcak nokta. Planlar 27.99$'dan başlar. Sözleşme yok, gizli ücret yok, otomatik yenileme yok.
+    - q: |
+        Kamerun gezisi için kaç GB almalıyım, MTN Cameroon paketlerine göre?
+      a: |
+        Günlük harita ve mesaj için 3-5GB, sosyal medya ve video için 10GB uygundur. Roami Kamerun planları 27,99$'dan başlar ve MTN Cameroon paketlerinden bağımsızdır.
+    - q: |
+        Kamerun eSIM fiyatı MTN Cameroon ön ödemeli SIM'e kıyasla nasıl?
+      a: |
+        Roami Kamerun planları 27,99$'dan başlar ve çevrimiçi birkaç tıkla alınır. MTN Cameroon mağazasında sıra beklemek ve yerel ön ödemeli SIM'lerde sık görülen kayıt/aktivasyon ücreti gerekmez.
+    - q: |
+        Kamerun eSIM hangi ağlarda çalışır, MTN Cameroon kapsaması yeterli mi?
+      a: |
+        Roami eSIM MTN Cameroon ve Orange Cameroon ağlarına bağlanır; Douala ve Yaoundé gibi büyük şehirlerde 4G/5G sunar. Kırsal bölgelerde 4G kapsama güçlü kalır.
 related_products:
-  title: İlgili Kamerun eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1.99$'dan itibaren
+  - name: Çad eSIM
+    flag: img/flags/td.svg
+    price: $23.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1.99$'dan itibaren
+  - name: Kongo (Kinşasa) eSIM
+    flag: img/flags/cg.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1.99$'dan itibaren
+  - name: Mısır eSIM
+    flag: img/flags/eg.svg
+    price: $2.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Esvatini eSIM
+    flag: img/flags/sz.svg
+    price: $19.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Gabon eSIM
+    flag: img/flags/ga.svg
+    price: $14.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Gana eSIM
+    flag: img/flags/gh.svg
+    price: $7.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Fildişi Sahili eSIM
+    flag: img/flags/ci.svg
+    price: $9.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kenya eSIM
+    flag: img/flags/ke.svg
+    price: $7.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Liberya eSIM
+    flag: img/flags/lr.svg
+    price: $27.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Madagaskar eSIM
+    flag: img/flags/mg.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Malawi eSIM
+    flag: img/flags/mw.svg
+    price: $14.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Mali eSIM
+    flag: img/flags/ml.svg
+    price: $27.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
 market_analysis:
   title: 'Kamerun eSIM vs SIM Kart Planları: Hangisi İhtiyaçlarınıza Uygun?'
   subtitle: Kamerun Yerel Ön Ödemeli SIM'ler vs. eSIM Çözümleri (2024/2025 Kıyaslaması)
@@ -301,7 +315,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: MTN'nin 30 günlük planları 850 CFA/250MB'den başlar; Orange'ın 1.2GB planı 30 gün için 2000 CFA'dır; Nexttel'in 1.5GB planı 30 gün için 4000 CFA'dır. 30 günlük bir plan satın alan 7 günlük bir turist, planın değerinin %75'inden fazlasını boşa harcar.
     esim_title: Esnek Kısa Vadeli Planlar
-    esim_desc: MTN'nin 30 günlük planından (850 CFA/250MB) veya Orange'ın 30 günlük planından (2000 CFA/1.2GB) farklı olarak, Roami 1.99$/GB'den başlayan 7 günlük planlar sunar, kısa seyahatler için %75'ten fazla israf tasarrufu sağlar.
+    esim_desc: MTN'nin 30 günlük planından (850 CFA/250MB) veya Orange'ın 30 günlük planından (2000 CFA/1.2GB) farklı olarak, Roami 27.99$'dan başlayan 7 günlük planlar sunar, kısa seyahatler için %75'ten fazla israf tasarrufu sağlar.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''
@@ -327,7 +341,7 @@ market_analysis:
       icon_bg: bg-green-100
       icon_color: text-green-600
       title: Kısıtlamasız Sıcak Nokta ve Tam Hız
-      desc: MTN ve Orange'ın 30GB/30 günlük planları günlük 1GB ile sınırlıdır, aşıldığında hız düşer. Nexttel'in sosyal paketleri VoIP'yi hariç tutar ve tethering'i engelleyebilir. Roami eSIM tam hızda sınırsız sıcak nokta sağlar.
+      desc: MTN ve Orange'ın 30GB/30 günlük planları günlük 1GB ile sınırlıdır, aşıldığında hız düşer. Nexttel'in sosyal paketleri VoIP'yi hariç tutar ve tethering'i engelleyebilir. Roami eSIM tam hızda sıcak nokta paylaşımı sağlar.
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600
@@ -342,5 +356,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: 30 Günlük Planlarda %75 İsrafı Ortadan Kaldırın
-      desc: MTN'nin en küçük 30 günlük planı 850 CFA/250MB'dir; Orange'ın 1.2GB planı 30 gün için 2000 CFA'dır. 7 günlük bir turist planın değerinin %75'inden fazlasını boşa harcar. Roami'nin 7 günlük planları 1.99$/GB'den başlar, tam seyahat sürenize uygun.
+      desc: MTN'nin en küçük 30 günlük planı 850 CFA/250MB'dir; Orange'ın 1.2GB planı 30 gün için 2000 CFA'dır. 7 günlük bir turist planın değerinin %75'inden fazlasını boşa harcar. Roami'nin 7 günlük planları 27.99$'dan başlar, tam seyahat sürenize uygun.
 ---

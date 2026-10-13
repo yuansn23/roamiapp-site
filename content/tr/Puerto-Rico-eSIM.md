@@ -1,6 +1,6 @@
 ---
 title: 'Porto Riko eSIM 2026: Operatör ve Kapsama Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Claro Porto Riko, Liberty Porto Riko, T-Mobile Porto Riko
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: San Juan, Ponce, Mayagüez, Caguas, Carolina
-  main_packages: 3/7/15/30 Gün, Sınırsız Veri
+  main_packages: 7/15/30 Gün, 1GB–30GB Veri
 modal:
   title: Hizmet Yükseltildi!
   btn_text: Devam Et
@@ -20,13 +20,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Porto Riko eSIM | Seyahatiniz için En İyi Seyahat eSIM
-  description: Roami'den Porto Riko için en iyi ön ödemeli seyahat eSIM'ini keşfedin. Ada genelinde sınırsız 5G veri. San
-    Juan, Ponce'u kapsar. Anında etkinleştirme.
-  keywords: Porto Riko eSIM, Porto Riko eSIM satın al, en iyi Porto Riko eSIM, Porto Riko seyahat eSIM, Claro Porto Riko,
-    Liberty Porto Riko, T-Mobile Porto Riko, San Juan eSIM, Ponce eSIM, Mayagüez eSIM, Porto Riko ön ödemeli eSIM, 5G Porto
-    Riko eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Roami'den Porto Riko için en iyi ön ödemeli seyahat eSIM'ini keşfedin. Ada genelinde yüksek hızlı 5G veri. San Juan, Ponce'u kapsar. Anında etkinleştirme.
+  keywords: Porto Riko eSIM, Porto Riko eSIM planları, en iyi Porto Riko eSIM, ucuz Porto Riko eSIM, Porto Riko eSIM çevrimiçi satın al, Porto Riko eSIM veri planları, ön ödemeli Porto Riko eSIM, Porto Riko için en iyi eSIM, Porto Riko eSIM fiyatı, Porto Riko eSIM aktivasyonu, Porto Riko eSIM kapsama alanı, San Juan için en iyi eSIM, San Juan eSIM, Ponce eSIM
+  low_price: 6.99
+  high_price: 64.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -200,6 +197,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 📍
+    html: 'San Juan için eSIM''i varışta etkinleştirmenizi öneririz: geçerlilik ilk bağlantıda başlar.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -251,9 +250,9 @@ faq_section:
       a: |
         Doğru —Porto Riko eSIM pasaport veya kimlik doğrulaması gerektirmez. Porto Riko ön ödemeli kartları tipik olarak KYC gerektirmez. Sadece satın alın, kurun ve çevrimiçi olun. Belge yükleme yok, onay beklemek yok. Kalkıştan önce kurun, varışta Veri Dolaşımını etkinleştirin ve hazırsınız.
     - q: |
-        Porto Riko için 5GB plan ile sınırsız plan arasındaki fark nedir?
+        Porto Riko için 5GB plan ile 10GB plan arasındaki fark nedir?
       a: |
-        5GB plan size sabit miktarda yüksek hızlı veri (toplam 5GB) sağlar. Kullanıldığında, ek yükleme yapar veya yeni bir plan satın alırsınız. Sınırsız plan veri sağlamaya devam eder, ancak adil kullanım politikası uyarınca günde 30GB'dan sonra hızlar düşebilir. Haritalar, mesajlaşma ve sosyal medya yapan çoğu gezgin için 5GB plan fazlasıyla yeterlidir.
+        5GB plan size sabit miktarda yüksek hızlı veri (toplam 5GB) sağlar. Kullanıldığında, ek yükleme yapar veya yeni bir plan satın alırsınız. Paketler sabit verilidir; her plan belirli bir veri hacmi sunar. Haritalar, mesajlaşma ve sosyal medya yapan çoğu gezgin için 5GB plan fazlasıyla yeterlidir.
     - q: |
         Porto Riko eSIM kırsal alanlarda ve küçük kasabalarda çalışır mı?
       a: |
@@ -270,55 +269,67 @@ faq_section:
         Porto Riko eSIM'imi seyahatimden önce yanlışlıkla silersem ne olur?
       a: |
         Sorun değil. QR kodunu yeniden indirmek için Roami hesabınıza giriş yapın —yaklaşık 1 dakika sürer. İlk aldığınızda bir ekran görüntüsü veya PDF olarak kaydetmenizi öneririz, her ihtimale karşı.
+    - q: |
+        Yola çıkmadan Porto Riko eSIM'i nasıl etkinleştiririm, Claro Porto Riko hattına geçiş ne zaman olur?
+      a: |
+        Çevrimiçi satın alın, QR kodunu e-posta ile 5 dakikada alın ve Ayarlar > Hücresel > eSIM Ekle'den tarayın. Evde Wi-Fi ile kurup Porto Riko'de varışta etkinleştirin.
+    - q: |
+        Porto Riko seyahati için kaç GB yeter, Claro Porto Riko paketleriyle kıyaslanınca?
+      a: |
+        Hafif kullanım (harita, mesaj) için 3-5GB yeter; sosyal medya ve video için 10GB idealdir. Roami Porto Riko planları 6,99$'dan başlar ve uygulamadan anında yükleme yapılır.
+    - q: |
+        Porto Riko eSIM ile Claro Porto Riko turist SIM'i arasındaki fark ne?
+      a: |
+        Roami Porto Riko eSIM 6,99$'dan başlar ve online alınır; Claro Porto Riko turist SIM'i genellikle mağaza ziyareti ve kayıt gerektirir. eSIM'de kuyruk ve aktivasyon beklemesi yoktur.
 related_products:
   title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: $1.99’dan başlayan
+  - name: Bahamalar eSIM
+    flag: img/flags/bs.svg
+    price: $16.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: $1.99’dan başlayan
+  - name: Barbados eSIM
+    flag: img/flags/bb.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: $1.99’dan başlayan
+  - name: Kosta Rika eSIM
+    flag: img/flags/cr.svg
+    price: $9.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Dominika eSIM
+    flag: img/flags/dm.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Dominik Cumhuriyeti eSIM
+    flag: img/flags/do.svg
+    price: $5.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: $1.99’dan başlayan
+  - name: El Salvador eSIM
+    flag: img/flags/sv.svg
+    price: $23.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: $1.99’dan başlayan
+  - name: Grenada eSIM
+    flag: img/flags/gd.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: $1.99’dan başlayan
+  - name: Guadeloupe eSIM
+    flag: img/flags/gp.svg
+    price: $8.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: $1.99’dan başlayan
+  - name: Guatemala eSIM
+    flag: img/flags/gt.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: $1.99’dan başlayan
+  - name: Honduras eSIM
+    flag: img/flags/hn.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: $1.99’dan başlayan
+  - name: Jamaika eSIM
+    flag: img/flags/jm.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: $1.99’dan başlayan
+  - name: Panama eSIM
+    flag: img/flags/pa.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
 ---

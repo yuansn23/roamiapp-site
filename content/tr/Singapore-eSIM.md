@@ -1,6 +1,6 @@
 ---
 title: 'Singapur eSIM 2026: Operatör ve Kapsama Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -16,11 +16,11 @@ modal:
   text_default: 'eSIM hizmetimiz <strong>PhoneSIMGo</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
   text_android: 'eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
 seo:
-  title: 'Singapur eSIM | Seyahatiniz için Seyahat Veri Planı Satın Alın'
-  description: 'Roami''nin en iyi ön ödemeli seyahat eSIM''i ile Singapur''u keşfedin. Anında QR aktivasyonu ile ada genelinde sınırsız 5G veri. İş ve tatil seyahatleri için mükemmel.'
-  keywords: 'Singapur eSIM, Singapur eSIM satın al, en iyi Singapur eSIM, Singapur seyahat eSIM, Singtel Singapur, StarHub Singapur, M1 Singapur, Singapur Şehri eSIM, Jurong East eSIM, Tampines eSIM, Singapur ön ödemeli eSIM, 5G Singapur eSIM'
+  title: 'Singapur eSIM: Seyahat için 5G Veri Planı'
+  description: 'Roami Singapur eSIM ile Singtel ağında 5G kapsama. Singapur Şehri ve Jurong East''de yüksek hız, gizli ücret yok. 1,99$''dan planlar.'
+  keywords: 'Singapur eSIM, Singapur eSIM planları, en iyi Singapur eSIM, ucuz Singapur eSIM, Singapur eSIM çevrimiçi satın al, sınırsız veri Singapur eSIM, ön ödemeli Singapur eSIM, Singapur için en iyi eSIM, Singapur eSIM fiyatı, Singapur eSIM aktivasyonu, Singapur eSIM kapsama alanı, Singapur Şehri için en iyi eSIM, Singapur Şehri eSIM, Jurong East eSIM'
   low_price: 1.99
-  high_price: 39.9
+  high_price: 65.99
 order_summary:
   title: 'Seçilen Plan'
   label_data: 'Dahil Olan Veri'
@@ -328,6 +328,8 @@ reminders:
     html: 'QR kodu e-posta adresinize gönderilecektir.'
   - icon: 🔄
     html: 'Aynı anda birden fazla eSIM kurabilirsiniz.'
+  - icon: 🏙️
+    html: 'Singapur Şehri ve Jurong East''de en iyi kapsama: verilerinizi paylaşmak için hotspot dahildir.'
   compatibility_check:
     title: 'Hızlı Uyumluluk Kontrolü'
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kolayca kontrol edebilirsiniz:'
@@ -378,56 +380,68 @@ faq_section:
       a: 'Evet —veri kullanımını doğrudan telefon ayarlarınızdan (iPhone''da Ayarlar > Hücresel > Veri Kullanımı) veya Roami hesap panelinizden kontrol edebilirsiniz. Roami ayrıca plan verinizin %70 ve %90''ını kullandığınızda bildirim gönderir.'
     - q: 'Singapur eSIM''imi havaalanında kurabilir miyim yoksa evden çıkmadan önce mi yapmalıyım?'
       a: 'Gitmeden önce yapın —kurulum internet bağlantısı gerektirir ve yaklaşık 2 dakika sürer. eSIM QR kodu satın alımdan sonra 5 dakika içinde e-posta ile gelir. Singapur havaalanında Veri Dolaşımı''nı etkinleştirin ve 60 saniyeden kısa sürede çevrimiçi olursunuz.'
+    - q: |
+        Singapur Şehri'de Singtel şebekesinde eSIM hızı nasıl?
+      a: |
+        Singapur Şehri'de Roami eSIM Singtel 5G/4G ağını kullanır; şehir merkezinde tipik hız 50-200 Mbps. Harita, sosyal medya ve görüntülü arama için uygundur.
+    - q: |
+        Singapur eSIM'i kendi hattımla birlikte kullanabilir miyim, Singtel hattım açık kalır mı?
+      a: |
+        Evet: veri eSIM üzerinden akar, kendi SIM'iniz arama ve SMS için açık kalır. Ayarlar'dan hangi hattın ses, SMS ve veri kullanacağını seçebilirsiniz.
+    - q: |
+        Yola çıkmadan Singapur eSIM'i nasıl etkinleştiririm, Singtel hattına geçiş ne zaman olur?
+      a: |
+        Çevrimiçi satın alın, QR kodunu e-posta ile 5 dakikada alın ve Ayarlar > Hücresel > eSIM Ekle'den tarayın. Evde Wi-Fi ile kurup Singapur'de varışta etkinleştirin.
 related_products:
-  title: 'İlgili Singapur eSIM Planları'
+  title: İlgili eSIM Planları
   items:
-  - name: 'Amerika Birleşik Devletleri eSIM'
-    flag: img/flags/us.svg
-    price: 'Başlangıç $1.99'
+  - name: Tacikistan eSIM
+    flag: img/flags/tj.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Birleşik Krallık eSIM'
-    flag: img/flags/gb.svg
-    price: 'Başlangıç $1.99'
+  - name: Tayland eSIM
+    flag: img/flags/th.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Avrupa eSIM'
-    flag: img/flags/eu.svg
-    price: 'Başlangıç $1.99'
+  - name: Özbekistan eSIM
+    flag: img/flags/uz.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: 'Kanada eSIM'
-    flag: img/flags/ca.svg
-    price: 'Başlangıç $1.99'
+  - name: Vietnam eSIM
+    flag: img/flags/vn.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Türkiye eSIM'
-    flag: img/flags/tr.svg
-    price: 'Başlangıç $1.99'
+  - name: Afganistan eSIM
+    flag: img/flags/af.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Çin eSIM'
+  - name: Bangladeş eSIM
+    flag: img/flags/bd.svg
+    price: $5.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Brunei eSIM
+    flag: img/flags/bn.svg
+    price: $9.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kamboçya eSIM
+    flag: img/flags/kh.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Çin eSIM
     flag: img/flags/cn.svg
-    price: 'Başlangıç $1.99'
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Japonya eSIM'
-    flag: img/flags/jp.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Hong Kong eSIM'
+  - name: Hong Kong eSIM
     flag: img/flags/hk.svg
-    price: 'Başlangıç $1.99'
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Fransa eSIM'
-    flag: img/flags/fr.svg
-    price: 'Başlangıç $1.99'
+  - name: Hindistan eSIM
+    flag: img/flags/in.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'İspanya eSIM'
-    flag: img/flags/es.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Almanya eSIM'
-    flag: img/flags/de.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Avustralya eSIM'
-    flag: img/flags/au.svg
-    price: 'Başlangıç $1.99'
+  - name: Endonezya eSIM
+    flag: img/flags/id.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Singapur eSIM vs SIM Kart Planları: Hangisi İhtiyaçlarınıza Uygun?'
@@ -463,7 +477,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 'Singtel S$20 planı yalnızca 7 gün geçerliliğe sahiptir; 5 günlük konaklama plan değerinin %28''ini boşa harcar.'
     esim_title: 'Esnek Kısa Vadeli Planlar'
-    esim_desc: 'Singtel''in 7 günlük S$20 plan israfından kaçının. Roami 1,99$/GB''den başlayan 7 günlük planlar sunar, kısa konaklamalar için %75''e varan tasarruf sağlar.'
+    esim_desc: 'Singtel''in 7 günlük S$20 plan israfından kaçının. Roami 1,99$''dan başlayan 7 günlük planlar sunar, kısa konaklamalar için %75''e varan tasarruf sağlar.'
   - icon: wifi
     title: 'Sıcak Nokta ve<br>Hız Politikaları'
     prepaid_title: ''
@@ -489,7 +503,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: 'Kısa Geçerlilik ve Batık Maliyetlerden Kaçının'
-      desc: 'Singtel''in S$20 planı yalnızca <b>7 gün geçerliliğe</b> sahiptir; 5 günlük konaklama <b>%28</b> israf eder. Roami <b>1,99$/GB</b>''den başlayan esnek 7 günlük planlar sunar.'
+      desc: 'Singtel''in S$20 planı yalnızca <b>7 gün geçerliliğe</b> sahiptir; 5 günlük konaklama <b>%28</b> israf eder. Roami <b>1,99$</b>''den başlayan esnek 7 günlük planlar sunar.'
     - icon: shield
       icon_bg: bg-teal-100
       icon_color: text-teal-600

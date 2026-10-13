@@ -1,6 +1,6 @@
 ---
 title: 'Sırbistan eSIM 2026: Kapsama ve Hız Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
 seo:
   title: 'Sırbistan eSIM | Turistler için En İyi eSIM Planı'
-  description: 'Roami''nin en iyi ön ödemeli seyahat eSIM''i ile Sırbistan''da bağlantıda kalın. Ülke genelinde sınırsız 5G veri. Anında QR aktivasyonu. Belgrad, Novi Sad ve Niš''i kapsar.'
-  keywords: 'Sırbistan eSIM, Sırbistan eSIM satın al, en iyi Sırbistan eSIM, Sırbistan seyahat eSIM, Telenor Serbia Sırbistan, Telekom Srbija Sırbistan, A1 Srbija Sırbistan, Belgrad eSIM, Novi Sad eSIM, Niš eSIM, Sırbistan ön ödemeli eSIM, 5G Sırbistan eSIM'
+  description: 'Roami Sırbistan eSIM: Belgrad, Novi Sad kapsama, Telenor Serbia ağında 5G. Anında kurulum, hotspot dahil. 1,99$''dan başlar.'
+  keywords: 'Sırbistan eSIM, Sırbistan eSIM planları, en iyi Sırbistan eSIM, ucuz Sırbistan eSIM, Sırbistan eSIM çevrimiçi satın al, sınırsız veri Sırbistan eSIM, ön ödemeli Sırbistan eSIM, Sırbistan için en iyi eSIM, Sırbistan eSIM fiyatı, Sırbistan eSIM aktivasyonu, Sırbistan eSIM kapsama alanı, Belgrad için en iyi eSIM, Belgrad eSIM, Novi Sad eSIM'
   low_price: 1.99
-  high_price: 39.9
+  high_price: 89.99
 order_summary:
   title: 'Seçilen Plan'
   label_data: 'Dahil Olan Veri'
@@ -320,6 +320,8 @@ reminders:
     html: 'QR kodu e-posta adresinize gönderilecektir.'
   - icon: 🔄
     html: 'Aynı anda birden fazla eSIM kurabilirsiniz.'
+  - icon: 🏙️
+    html: 'Belgrad ve Novi Sad''de en iyi kapsama: verilerinizi paylaşmak için hotspot dahildir.'
   compatibility_check:
     title: 'Hızlı Uyumluluk Kontrolü'
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kolayca kontrol edebilirsiniz:'
@@ -355,7 +357,7 @@ faq_section:
     title: 'Sırbistan eSIM SSS'
     questions:
     - q: 'Sırbistan için çok fazla harcamadan eSIM alabilir miyim?'
-      a: 'Kesinlikle. Roami''nin Sırbistan eSIM planları 1,99$ kadar düşük fiyatlarla başlar. 5GB/15 günlük seçenek (9,99$) gezginler arasında en popüler olanıdır —haritalar, WhatsApp, Instagram ve e-postayı rahatça karşılar. Yoğun veri kullanıcısıysanız, 10GB (14,99$) veya sınırsız (59,99$) planlar size gönül rahatlığı sağlar. Havaalanı SIM tezgahını atlamak size %30-50 tasarruf ve kuyruk bekleme derdinden kurtarır. Ayarlama yapmanız mı gerekiyor? Roami uygulamasından istediğiniz zaman ekleme yapabilirsiniz.'
+      a: 'Kesinlikle. Roami''nin Sırbistan eSIM planları 1,99$ kadar düşük fiyatlarla başlar. En popüler tercih 6.99$ (3 Gün, 5GB) seçeneğidir — haritalar, WhatsApp ve e-posta için rahatça yeter. Yoğun veri kullanıcıları için 29.99$ (30 Gün, 30GB) planı daha rahat bir seçenektir. Havaalanı SIM tezgahını atlamak size %30-50 tasarruf ve kuyruk bekleme derdinden kurtarır. Ayarlama yapmanız mı gerekiyor? Roami uygulamasından istediğiniz zaman ekleme yapabilirsiniz.'
     - q: 'Sırbistan''da eSIM kullanmak için pasaport veya kimliğe ihtiyacım var mı? Doğrulama nasıl çalışıyor?'
       a: 'Evet, Sırbistan eSIM için kimlik doğrulaması gerektirir. Sırbistan ön ödemeli SIM kartlar için KYC doğrulaması gerektirir. Pasaport gereklidir. Pek çok gezgin bunu ancak vardıktan sonra öğrenir ve ardından onay beklerken havaalanı Wi-Fi''si ile uğraşır. Gitmeden önce doğrulamayı tamamlayın —yaklaşık 5-10 dakika sürer. Ayrıca, bazı telefonlar MTS''nin ağında diğerlerinden daha iyi çalışır —[eSIM uyumluluk](/compatibility/) sayfamızı kontrol edin.'
     - q: 'Sırbistan''daki otelimde ücretsiz Wi-Fi varsa —yine de eSIM verisine ihtiyacım var mı?'
@@ -370,55 +372,67 @@ faq_section:
       a: 'Evet —veri kullanımını doğrudan telefon ayarlarınızdan (iPhone''da Ayarlar > Hücresel > Veri Kullanımı) veya Roami hesap panelinizden kontrol edebilirsiniz. Roami ayrıca plan verinizin %70 ve %90''ını kullandığınızda bildirim gönderir.'
     - q: 'Sırbistan seyahati için telefonumda kaç eSIM profili saklayabilirim?'
       a: 'Çoğu telefon 5-10 eSIM profili saklar. Sırbistan eSIM''inizi ana SIM''iniz ve diğer ülke profilleriyle birlikte saklayabilirsiniz. İhtiyacınız olanı etkinleştirin ve diğerlerini devre dışı bırakın. Aralarında geçiş yapmak telefon ayarlarınızda yaklaşık 10 saniye sürer.'
+    - q: |
+        Sırbistan gezisi için kaç GB almalıyım, Telenor Serbia paketlerine göre?
+      a: |
+        Günlük harita ve mesaj için 3-5GB, sosyal medya ve video için 10GB uygundur. Roami Sırbistan planları 1,99$'dan başlar ve Telenor Serbia paketlerinden bağımsızdır.
+    - q: |
+        Sırbistan eSIM fiyatı Telenor Serbia ön ödemeli SIM'e kıyasla nasıl?
+      a: |
+        Roami Sırbistan planları 1,99$'dan başlar ve çevrimiçi birkaç tıkla alınır. Telenor Serbia mağazasında sıra beklemek ve yerel ön ödemeli SIM'lerde sık görülen kayıt/aktivasyon ücreti gerekmez.
+    - q: |
+        Sırbistan eSIM hangi ağlarda çalışır, Telenor Serbia kapsaması yeterli mi?
+      a: |
+        Roami eSIM Telenor Serbia ve Telekom Srbija ağlarına bağlanır; Belgrad ve Novi Sad gibi büyük şehirlerde 4G/5G sunar. Kırsal bölgelerde 4G kapsama güçlü kalır.
 related_products:
-  title: 'İlgili eSIM Planları'
+  title: İlgili eSIM Planları
   items:
-  - name: 'Amerika Birleşik Devletleri eSIM'
-    flag: img/flags/us.svg
-    price: 'Başlangıç $1.99'
+  - name: Ukrayna eSIM
+    flag: img/flags/ua.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Birleşik Krallık eSIM'
+  - name: BK eSIM
     flag: img/flags/gb.svg
-    price: 'Başlangıç $1.99'
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Avrupa eSIM'
-    flag: img/flags/eu.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: true
-  - name: 'Kanada eSIM'
-    flag: img/flags/ca.svg
-    price: 'Başlangıç $1.99'
+  - name: Vatikan Şehri eSIM
+    flag: img/flags/va.svg
+    price: $10.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Türkiye eSIM'
-    flag: img/flags/tr.svg
-    price: 'Başlangıç $1.99'
+  - name: Arnavutluk eSIM
+    flag: img/flags/al.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Çin eSIM'
-    flag: img/flags/cn.svg
-    price: 'Başlangıç $1.99'
+  - name: Andorra eSIM
+    flag: img/flags/ad.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Japonya eSIM'
-    flag: img/flags/jp.svg
-    price: 'Başlangıç $1.99'
+  - name: Ermenistan eSIM
+    flag: img/flags/am.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Hong Kong eSIM'
-    flag: img/flags/hk.svg
-    price: 'Başlangıç $1.99'
+  - name: Avusturya eSIM
+    flag: img/flags/at.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Fransa eSIM'
-    flag: img/flags/fr.svg
-    price: 'Başlangıç $1.99'
+  - name: Azerbaycan eSIM
+    flag: img/flags/az.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'İspanya eSIM'
-    flag: img/flags/es.svg
-    price: 'Başlangıç $1.99'
+  - name: Belarus eSIM
+    flag: img/flags/by.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Almanya eSIM'
+  - name: Belçika eSIM
+    flag: img/flags/be.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Bosna Hersek eSIM
+    flag: img/flags/ba.svg
+    price: $30.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Almanya eSIM
     flag: img/flags/de.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Avustralya eSIM'
-    flag: img/flags/au.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: true
 ---

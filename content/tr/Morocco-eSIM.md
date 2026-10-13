@@ -1,6 +1,6 @@
 ---
 title: 'Fas eSIM 2026: Turist ve Ağ Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
 seo:
   title: 'Fas eSIM | Gezginler için Ön Ödemeli eSIM Satın Alın'
-  description: 'Fas''a seyahat mi planlıyorsunuz? Roami''nin sınırsız 5G veri sunan en iyi ön ödemeli seyahat eSIM''ini alın. Kazablanka, Marakeş ve Rabat''ı kapsar. Anında etkinleştirme.'
-  keywords: 'Fas eSIM, Fas eSIM satın al, en iyi Fas eSIM, Fas seyahat eSIM, Orange Fas, Maroc Telecom Fas, Inwi Fas, Kazablanka eSIM, Marakeş eSIM, Fes eSIM, Fas ön ödemeli eSIM, 5G Fas eSIM'
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Fas eSIM planlarını karşılaştırın: Orange ağı, Kazablanka ve Marakeş''de hızlı 5G. Anında QR aktivasyonu. 3,99$''dan başlayan fiyatlar.'
+  keywords: 'Fas eSIM, Fas eSIM planları, en iyi Fas eSIM, ucuz Fas eSIM, Fas eSIM çevrimiçi satın al, sınırsız veri Fas eSIM, ön ödemeli Fas eSIM, Fas için en iyi eSIM, Fas eSIM fiyatı, Fas eSIM aktivasyonu, Fas eSIM kapsama alanı, Kazablanka için en iyi eSIM, Kazablanka eSIM, Marakeş eSIM'
+  low_price: 3.99
+  high_price: 94.99
 order_summary:
   title: 'Seçilen Plan'
   label_data: 'Dahil Olan Veri'
@@ -312,6 +312,8 @@ reminders:
     html: 'QR kodu e-posta adresinize gönderilecektir.'
   - icon: 🔄
     html: 'Aynı anda birden fazla eSIM kurabilirsiniz.'
+  - icon: 🗺️
+    html: 'Kazablanka ve Marakeş''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: 'Hızlı Uyumluluk Kontrolü'
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kolayca kontrol edebilirsiniz:'
@@ -349,7 +351,7 @@ faq_section:
     - q: 'Fas''ta eSIM''im için hangi taşıyıcıya güvenmeliyim?'
       a: 'Maroc Telecom, Fas genelinde 15.000''den fazla kule ile tüm büyük şehirleri kapsar. Orange, nüfusun yaklaşık %90''ına ulaşan ek kırsal kapsama ile bunu tamamlar. Inwi ise uygun fiyata odaklanır, veri planları Maroc Telecom''dan yaklaşık %20 daha ucuzdur. Roami ile birini seçmezsiniz —hangisi en güçlüyse ona bağlanır.'
     - q: 'Fas için çok fazla harcamadan eSIM alabilir miyim?'
-      a: 'Kesinlikle. Roami''nin Fas eSIM planları 1,99$ kadar düşük fiyatlarla başlar. 5GB/15 günlük seçenek (9,99$) gezginler arasında en popüler olanıdır —haritalar, WhatsApp, Instagram ve e-postayı rahatça karşılar. Yoğun veri kullanıcısıysanız, 10GB (14,99$) veya sınırsız (59,99$) planlar size gönül rahatlığı sağlar. Havaalanı SIM tezgahını atlamak size %30-50 tasarruf ve kuyruk bekleme derdinden kurtarır. Ayarlama yapmanız mı gerekiyor? Roami uygulamasından istediğiniz zaman ekleme yapabilirsiniz.'
+      a: 'Kesinlikle. Roami''nin Fas eSIM planları 1,99$ kadar düşük fiyatlarla başlar. 10.99$ (3 Gün, 5GB) seçeneği gezginler arasında en popüler olanıdır — haritalar, WhatsApp, Instagram ve e-posta için rahatça yeterlidir. Yoğun veri kullanıcıları için 61.99$ (30 Gün, 30GB) planı daha rahat bir seçenektir. Havaalanı SIM tezgahını atlamak size %30-50 tasarruf ve kuyruk bekleme derdinden kurtarır. Ayarlama yapmanız mı gerekiyor? Roami uygulamasından istediğiniz zaman ekleme yapabilirsiniz.'
     - q: 'Fas''ta eSIM için Roami, Airalo ile karşılaştırıldığında nasıl?'
       a: 'Roami genellikle Fas eSIM için daha iyi değer sunar çünkü doğrudan satıyoruz —pazar yeri kâr marjı yok. Fiyatlar genellikle Airalo''dan %10-20 daha düşüktür. Ayrıca 7/24 doğrudan destek sağlıyoruz. Planlar ön ödemelidir ve otomatik yenileme yoktur, böylece seyahatiniz bittikten sonra ücretlendirilmezsiniz.'
     - q: 'Havaalanı SIM tezgahlarıyla uğraşmadan Fas''ta bağlantıda kalmanın en kolay yolu nedir?'
@@ -362,56 +364,68 @@ faq_section:
       a: 'Evet —QR kodu satın alımdan dakikalar içinde e-posta ile teslim edilir. Havaalanı kapısında satın alabilir ve uçakta Wi-Fi kullanarak kurabilirsiniz. Fas''a indiğinizde, Veri Dolaşımı''nı etkinleştirin ve hemen çevrimiçi olursunuz.'
     - q: 'Fas seyahati için telefonumda kaç eSIM profili saklayabilirim?'
       a: 'Çoğu telefon 5-10 eSIM profili saklar. Fas eSIM''inizi ana SIM''iniz ve diğer ülke profilleriyle birlikte saklayabilirsiniz. İhtiyacınız olanı etkinleştirin ve diğerlerini devre dışı bırakın. Aralarında geçiş yapmak telefon ayarlarınızda yaklaşık 10 saniye sürer.'
+    - q: |
+        Fas eSIM fiyatı Orange ön ödemeli SIM'e kıyasla nasıl?
+      a: |
+        Roami Fas planları 3,99$'dan başlar ve çevrimiçi birkaç tıkla alınır. Orange mağazasında sıra beklemek ve yerel ön ödemeli SIM'lerde sık görülen kayıt/aktivasyon ücreti gerekmez.
+    - q: |
+        Fas eSIM hangi ağlarda çalışır, Orange kapsaması yeterli mi?
+      a: |
+        Roami eSIM Orange ve Maroc Telecom ağlarına bağlanır; Kazablanka ve Marakeş gibi büyük şehirlerde 4G/5G sunar. Kırsal bölgelerde 4G kapsama güçlü kalır.
+    - q: |
+        Kazablanka'de Orange şebekesinde eSIM hızı nasıl?
+      a: |
+        Kazablanka'de Roami eSIM Orange 5G/4G ağını kullanır; şehir merkezinde tipik hız 50-200 Mbps. Harita, sosyal medya ve görüntülü arama için uygundur.
 related_products:
-  title: 'İlgili Fas eSIM Planları'
+  title: İlgili eSIM Planları
   items:
-  - name: 'Amerika Birleşik Devletleri eSIM'
-    flag: img/flags/us.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Birleşik Krallık eSIM'
-    flag: img/flags/gb.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Avrupa eSIM'
-    flag: img/flags/eu.svg
-    price: 'Başlangıç $1.99'
+  - name: Nijerya eSIM
+    flag: img/flags/ng.svg
+    price: $5.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: 'Kanada eSIM'
-    flag: img/flags/ca.svg
-    price: 'Başlangıç $1.99'
+  - name: Reunion Adası eSIM
+    flag: img/flags/re.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Türkiye eSIM'
-    flag: img/flags/tr.svg
-    price: 'Başlangıç $1.99'
+  - name: Sierra Leone eSIM
+    flag: img/flags/si.svg
+    price: $10.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Çin eSIM'
-    flag: img/flags/cn.svg
-    price: 'Başlangıç $1.99'
+  - name: Tanzanya eSIM
+    flag: img/flags/tz.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Japonya eSIM'
-    flag: img/flags/jp.svg
-    price: 'Başlangıç $1.99'
+  - name: Tunus eSIM
+    flag: img/flags/tn.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Hong Kong eSIM'
-    flag: img/flags/hk.svg
-    price: 'Başlangıç $1.99'
+  - name: Uganda eSIM
+    flag: img/flags/ug.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Fransa eSIM'
-    flag: img/flags/fr.svg
-    price: 'Başlangıç $1.99'
+  - name: Cezayir eSIM
+    flag: img/flags/dz.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'İspanya eSIM'
-    flag: img/flags/es.svg
-    price: 'Başlangıç $1.99'
+  - name: Botsvana eSIM
+    flag: img/flags/bw.svg
+    price: $14.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Almanya eSIM'
-    flag: img/flags/de.svg
-    price: 'Başlangıç $1.99'
+  - name: Burkina Faso eSIM
+    flag: img/flags/bf.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Avustralya eSIM'
-    flag: img/flags/au.svg
-    price: 'Başlangıç $1.99'
+  - name: Kamerun eSIM
+    flag: img/flags/cm.svg
+    price: $27.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Çad eSIM
+    flag: img/flags/td.svg
+    price: $23.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kongo (Kinşasa) eSIM
+    flag: img/flags/cg.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Fas eSIM mi SIM Kart mı: 2026''da En İyi Seçenek Hangisi?'
@@ -447,7 +461,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 'Maroc Telecom 50 DHS/5GB 30 gün, Orange 50 DHS/5GB 30 gün, Inwi 50 DHS/5GB 30 gün sunar; 7 günlük bir turistin 30 günlük plan satın alması plan değerinin %70''inden fazlasını boşa harcar.'
     esim_title: 'Esnek Kısa Planlar'
-    esim_desc: 'Orange''ın 30 günlük döngüsünden (50 DHS/5GB) farklı olarak, 7 günlük seyahat için %70 israf eden Roami, 1,99$/GB''den başlayan 7 günlük planlar sunar, para ve veriden tasarruf sağlar.'
+    esim_desc: 'Orange''ın 30 günlük döngüsünden (50 DHS/5GB) farklı olarak, 7 günlük seyahat için %70 israf eden Roami, 3,99$''dan başlayan 7 günlük planlar sunar, para ve veriden tasarruf sağlar.'
   - icon: wifi
     title: 'Sıcak Nokta ve<br>Hız Politikaları'
     prepaid_title: ''
@@ -483,7 +497,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: '30 Günlük Planlarda %70 Batık Maliyeti Ortadan Kaldırın'
-      desc: '7 günlük bir turistin <b>Maroc Telecom</b>''un <b>50 DHS/5GB</b> 30 günlük planını satın alması değerin <b>%70''inden</b> fazlasını boşa harcar. Roami''nin <b>1,99$/GB</b>''den başlayan 7 günlük planları seyahat sürenizle eşleşir.'
+      desc: '7 günlük bir turistin <b>Maroc Telecom</b>''un <b>50 DHS/5GB</b> 30 günlük planını satın alması değerin <b>%70''inden</b> fazlasını boşa harcar. Roami''nin <b>3,99$</b>''den başlayan 7 günlük planları seyahat sürenizle eşleşir.'
     - icon: tower-observation
       icon_bg: bg-rose-100
       icon_color: text-rose-600

@@ -1,6 +1,6 @@
 ---
 title: 'Guam eSIM 2026: Plan ve Kapsama Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,10 +21,9 @@ seo:
   title: Guam eSIM | Gezginler İçin En İyi Ön Ödemeli eSIM
   description: Guam'da anında çevrimiçi olun. Anında aktivasyon ile sınırsız 5G veri. Hagatna, Tumon ve Dededo'yu kapsar.
     Planınızı bugün çevrimiçi satın alın.
-  keywords: Guam eSIM, Guam eSIM satın al, en iyi Guam eSIM, Guam seyahat eSIM, DOCOMO Pacific Guam, IT&E Guam, GTA Guam, Hagåtña
-    eSIM, Tamuning eSIM, Dededo eSIM, Guam ön ödemeli eSIM, 5G Guam eSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: Guam eSIM, Guam eSIM planları, en iyi Guam eSIM, ucuz Guam eSIM, Guam eSIM çevrimiçi satın al, sınırsız veri Guam eSIM, ön ödemeli Guam eSIM, Guam için en iyi eSIM, Guam eSIM fiyatı, Guam eSIM aktivasyonu, Guam eSIM kapsama alanı, Hagåtña için en iyi eSIM, Hagåtña eSIM, Tamuning eSIM
+  low_price: 9.99
+  high_price: 88.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -190,6 +189,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 📍
+    html: 'Hagåtña için eSIM''i varışta etkinleştirmenizi öneririz: geçerlilik ilk bağlantıda başlar.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -250,7 +251,7 @@ faq_section:
     - q: |
         Guam'a sadece 2-3 günlüğüne seyahat ediyorum. Hangi eSIM'i almalıyım?
       a: |
-        Kısa bir gezi için 1GB/7 günlük plan (1,99$), haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB'lık plan (4,99$) size daha fazla alan sağlar. Her ikisi de anında etkinleşir ve ihtiyaç halinde ek paket satın alabilirsiniz.
+        Kısa bir gezi için 1GB/7 günlük plan (9,99$), haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB'lık plan (4,99$) size daha fazla alan sağlar. Her ikisi de anında etkinleşir ve ihtiyaç halinde ek paket satın alabilirsiniz.
     - q: |
         Guam eSIM'imde ne kadar veri kullandığımı kontrol edebilir miyim?
       a: |
@@ -259,55 +260,67 @@ faq_section:
         Guam'a seyahat için telefonumda kaç eSIM profili saklayabilirim?
       a: |
         Çoğu telefon 5-10 eSIM profili saklar. Guam eSIM'inizi ev SIM'iniz ve diğer ülke profillerinizle birlikte saklayabilirsiniz. Sadece ihtiyacınız olanı etkinleştirin ve diğerlerini devre dışı bırakın. Aralarında geçiş yapmak telefon ayarlarınızda yaklaşık 10 saniye sürer.
+    - q: |
+        Guam genelinde DOCOMO Pacific ve IT&E kapsaması eSIM ile nasıl çalışır?
+      a: |
+        Roami eSIM DOCOMO Pacific ve IT&E ağlarını kullanır; Hagåtña, Tamuning ve Dededo'de 4G/5G mevcuttur. Şehir dışında bağlantı 4G hızında sabit kalır.
+    - q: |
+        Hagåtña ve Tamuning'de DOCOMO Pacific ağında eSIM hızı yeterli mi?
+      a: |
+        Evet; Hagåtña ve Tamuning merkezinde Roami eSIM DOCOMO Pacific 5G/4G ağında çalışır ve tipik olarak 50-200 Mbps sunar. Görüntülü görüşme ve navigasyon için idealdir.
+    - q: |
+        Guam eSIM ile fiziksel SIM'i aynı anda kullanabilir miyim, DOCOMO Pacific numaram çalışır mı?
+      a: |
+        Evet: veri eSIM'de, ses ve SMS kendi hattınızda kalır. Böylece DOCOMO Pacific numaranız önemli aramaları almaya devam eder.
 related_products:
-  title: İlgili Guam eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
+  - name: Yeni Zelanda eSIM
+    flag: img/flags/nz.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Avustralya eSIM
+    flag: img/flags/au.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık eSIM
-    flag: img/flags/gb.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Fiji eSIM
+    flag: img/flags/fj.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Almanya eSIM
+    flag: img/flags/de.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Fransa eSIM
     flag: img/flags/fr.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
+  - name: Japonya eSIM
+    flag: img/flags/jp.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
   - name: İspanya eSIM
     flag: img/flags/es.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
+  - name: Kanada eSIM
+    flag: img/flags/ca.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: true
+  - name: Çin eSIM
+    flag: img/flags/cn.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Türkiye eSIM
+    flag: img/flags/tr.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: İtalya eSIM
+    flag: img/flags/it.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 ---

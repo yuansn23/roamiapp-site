@@ -1,6 +1,6 @@
 ---
 title: 'Bahamalar eSIM 2026: Kapsama ve Hız Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: BTC, Aliv, Cable Bahamas
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Nassau, Freeport, Marsh Harbour, George Town, West End
-  main_packages: 3/7/15/30 Gün, Sınırsız Veri
+  main_packages: 7/15/30 Gün, 1GB–5GB Veri
 modal:
   title: Hizmet Yükseltildi!
   btn_text: Devam Et
@@ -19,10 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Bahamalar eSIM | Seyahat için En İyi Ön Ödemeli Plan
-  description: Roami'den Bahamalar için en iyi ön ödemeli seyahat eSIM'ini alın. 700'den fazla adada sınırsız 5G veri. Nassau, Freeport ve Exuma'yı kapsar. Anında aktivasyon.
-  keywords: Bahamalar eSIM, Bahamalar eSIM satın al, en iyi Bahamalar eSIM, Bahamalar seyahat eSIM, BTC Bahamalar, Aliv Bahamalar, Cable Bahamas Bahamalar, Nassau eSIM, Freeport eSIM, Marsh Harbour eSIM, Bahamalar ön ödemeli eSIM, 5G Bahamalar eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Bahamalar için ön ödemeli seyahat eSIM''i: Nassau, Freeport ve tüm ülkede 5G. Pasaport kaydı yok. 16,99$''dan başlar.'
+  keywords: Bahamalar eSIM, Bahamalar eSIM planları, en iyi Bahamalar eSIM, ucuz Bahamalar eSIM, Bahamalar eSIM çevrimiçi satın al, Bahamalar eSIM veri planları, ön ödemeli Bahamalar eSIM, Bahamalar için en iyi eSIM, Bahamalar eSIM fiyatı, Bahamalar eSIM aktivasyonu, Bahamalar eSIM kapsama alanı, Nassau için en iyi eSIM, Nassau eSIM, Freeport eSIM
+  low_price: 16.99
+  high_price: 67.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -167,6 +167,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🗺️
+    html: 'Nassau ve Freeport''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -208,7 +210,7 @@ faq_section:
     - q: |
         Bahamalar seyahati için en ucuz eSIM seçenekleri nelerdir?
       a: |
-        Roami Bahamalar eSIM planları 1.99$'dan (7 gün, 1GB) başlar ve 59.99$'a (30 gün sınırsız) kadar çıkar. Tipik bir 5-7 günlük seyahat için 9.99$'lık 5GB plan en idealidir - haritalar, mesajlaşma ve sosyal medya kontrolü için yeterlidir. Video izlemek veya uzaktan çalışmak mı gerekiyor? 10GB veya sınırsız tercih edin. Bahamalar haritalar ve mesajlaşma için gayet iyi çalışan 4G kullanır. Havalimanı SIM büfeleri %30-50 daha pahalıdır ve sırada beklemeniz gerekir. Veri ihtiyaçlarınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek yükleme yapın.
+        Bahamalar eSIM planlarımız 16.99$ (7 Gün, 1GB) ile 67.99$ (30 Gün, 5GB) arasında değişir. Kısa bir seyahat için 67.99$ (30 Gün, 5GB) planı idealdir — harita, mesajlaşma ve sosyal medya ihtiyacını karşılar. Video izlemek veya uzaktan çalışmak mı gerekiyor? 5GB tercih edin. Bahamalar haritalar ve mesajlaşma için gayet iyi çalışan 4G kullanır. Havalimanı SIM büfeleri %30-50 daha pahalıdır ve sırada beklemeniz gerekir. Veri ihtiyaçlarınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek yükleme yapın.
     - q: |
         Bahamalar'da eSIM için Roami Airalo ile karşılaştırıldığında nasıldır?
       a: |
@@ -226,63 +228,75 @@ faq_section:
       a: |
         Çoğu telefon 5-10 eSIM profili saklar. Bahamalar eSIM'inizi ana SIM'iniz ve diğer ülke profilleriyle birlikte tutabilirsiniz. İhtiyacınız olanı etkinleştirin ve diğerlerini devre dışı bırakın. Aralarında geçiş yapmak telefon ayarlarınızda yaklaşık 10 saniye sürer.
     - q: |
-        Bahamalar için 5GB plan ile sınırsız plan arasındaki fark nedir?
+        Bahamalar için 5GB plan yeterli mi?
       a: |
-        5GB plan size sabit miktarda yüksek hızlı veri (toplam 5GB) verir. Kullanıldığında, ek yükleme yapar veya yeni bir plan satın alırsınız. Sınırsız plan veri sağlamaya devam eder, ancak adil kullanım politikası kapsamında günde 30GB'dan sonra hızlar düşebilir. Haritalar, mesajlaşma ve sosyal medya yapan çoğu gezgin için 5GB plan yeterlidir.
+        5GB plan size sabit miktarda yüksek hızlı veri (toplam 5GB) verir. Kullanıldığında, ek yükleme yapar veya yeni bir plan satın alırsınız. Paketler sabit verilidir; her plan belirli bir veri hacmi sunar. Haritalar, mesajlaşma ve sosyal medya yapan çoğu gezgin için 5GB plan yeterlidir.
     - q: |
         Bahamalar eSIM'im için geçerlilik süresi ne zaman başlar?
       a: |
         Plan geçerliliği, satın aldığınızda veya kurduğunuzda değil, Bahamalar'da yerel bir ağa bağlandığınızda başlar. Bu nedenle, seyahatinizden haftalar önce satın alıp kurabilir ve plan günlerinizden kaybetmezsiniz. 7 günlük bir plan, ilk bağlantıdan itibaren size 7 tam gün verir.
+    - q: |
+        Bahamalar eSIM ile fiziksel SIM'i aynı anda kullanabilir miyim, BTC numaram çalışır mı?
+      a: |
+        Evet: veri eSIM'de, ses ve SMS kendi hattınızda kalır. Böylece BTC numaranız önemli aramaları almaya devam eder.
+    - q: |
+        Bahamalar için eSIM kurulumu BTC SIM almaktan daha mı hızlı?
+      a: |
+        Evet: QR kodunu e-posta ile 5 dakikada alıp evde kurulur; BTC mağazasında beklemek gerekmez. Varışta eSIM otomatik olarak devreye girer.
+    - q: |
+        Bahamalar gezisi için kaç GB almalıyım, BTC paketlerine göre?
+      a: |
+        Günlük harita ve mesaj için 3-5GB, sosyal medya ve video için 10GB uygundur. Roami Bahamalar planları 16,99$'dan başlar ve BTC paketlerinden bağımsızdır.
 related_products:
-  title: İlgili Bahamalar eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1.99$'dan itibaren
+  - name: Barbados eSIM
+    flag: img/flags/bb.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1.99$'dan itibaren
+  - name: Kosta Rika eSIM
+    flag: img/flags/cr.svg
+    price: $9.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1.99$'dan itibaren
+  - name: Dominika eSIM
+    flag: img/flags/dm.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Dominik Cumhuriyeti eSIM
+    flag: img/flags/do.svg
+    price: $5.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: El Salvador eSIM
+    flag: img/flags/sv.svg
+    price: $23.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Grenada eSIM
+    flag: img/flags/gd.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Guadeloupe eSIM
+    flag: img/flags/gp.svg
+    price: $8.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Guatemala eSIM
+    flag: img/flags/gt.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Honduras eSIM
+    flag: img/flags/hn.svg
+    price: $6.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Jamaika eSIM
+    flag: img/flags/jm.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1.99$'dan itibaren
+  - name: Panama eSIM
+    flag: img/flags/pa.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1.99$'dan itibaren
+  - name: Porto Riko eSIM
+    flag: img/flags/pu.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Bahamalar eSIM ile Ön Ödemeli SIM Kartlar Karşılaştırması: Bilmeniz Gerekenler'
@@ -318,7 +332,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: BTC 7 günlük plan 2GB için 9.99$'dır (artı %12 KDV); aliv 7 günlük planlar 500MB için 5$'dan başlar. aliv 30 günlük planlar 3GB için 30$'dan başlar. Kısa seyahatler plan değerinin %80'ine kadarını boşa harcar.
     esim_title: Esnek Planlar, Sıfır İsraf
-    esim_desc: aliv'in 7 günlük (5$/500MB) veya 30 günlük (30$/3GB) döngülerinden farklı olarak, Roami 1.99$/GB'den başlayan 7 günlük planlar sunar, kısa seyahatler için %80'e varan israf tasarrufu sağlar.
+    esim_desc: aliv'in 7 günlük (5$/500MB) veya 30 günlük (30$/3GB) döngülerinden farklı olarak, Roami 16.99$'dan başlayan 7 günlük planlar sunar, kısa seyahatler için %80'e varan israf tasarrufu sağlar.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''

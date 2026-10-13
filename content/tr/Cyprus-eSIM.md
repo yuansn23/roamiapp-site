@@ -1,6 +1,6 @@
 ---
 title: 'Kıbrıs eSIM 2026: Operatör ve Kapsama Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,12 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Kıbrıs eSIM | Turistler İçin En İyi eSIM Planı
-  description: Roami'nin en iyi ön ödemeli seyahat eSIM'i ile Kıbrıs'ta sınırsız 5G verinin keyfini çıkarın. Ada genelinde kapsama.
-    Lefkoşa, Limasol ve Baf'ı kapsar. Anında aktivasyon.
-  keywords: Kıbrıs eSIM, Kıbrıs eSIM satın al, en iyi Kıbrıs eSIM, Kıbrıs seyahat eSIM, Cyta Kıbrıs, PrimeTel Kıbrıs, Epic Kıbrıs,
-    Lefkoşa eSIM, Limasol eSIM, Larnaka eSIM, Kıbrıs ön ödemeli eSIM, 5G Kıbrıs eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Kıbrıs eSIM planlarını karşılaştırın: Cyta ağı, Lefkoşa ve Limasol''de hızlı 5G. Anında QR aktivasyonu. 2,99$''dan başlayan fiyatlar.'
+  keywords: Kıbrıs eSIM, Kıbrıs eSIM planları, en iyi Kıbrıs eSIM, ucuz Kıbrıs eSIM, Kıbrıs eSIM çevrimiçi satın al, sınırsız veri Kıbrıs eSIM, ön ödemeli Kıbrıs eSIM, Kıbrıs için en iyi eSIM, Kıbrıs eSIM fiyatı, Kıbrıs eSIM aktivasyonu, Kıbrıs eSIM kapsama alanı, Lefkoşa için en iyi eSIM, Lefkoşa eSIM, Limasol eSIM
+  low_price: 2.99
+  high_price: 77.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -345,6 +343,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🏙️
+    html: 'Lefkoşa ve Limasol''de en iyi kapsama: verilerinizi paylaşmak için hotspot dahildir.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -389,7 +389,7 @@ faq_section:
     - q: |
         Kıbrıs için çok fazla harcamadan eSIM alabilir miyim?
       a: |
-        Kesinlikle. Roami'nin Kıbrıs eSIM planları sadece 1,99$'dan başlıyor. 5GB/15 günlük seçenek (9,99$) gezginler arasında en popüler olanıdır —haritalar, WhatsApp, Instagram ve e-postayı rahatça kullanmanızı sağlar. Yoğun veri kullanıcısıysanız, 10GB (14,99$) veya sınırsız (59,99$) planlar size gönül rahatlığı verir. Havalimanı SIM gişesini atlamak size %30-50 tasarruf ve sıra bekleme derdinden kurtarır. Ayarlamak mı istiyorsunuz? Roami uygulamasından istediğiniz zaman ek paket satın alabilirsiniz.
+        Kesinlikle. Roami'nin Kıbrıs eSIM planları sadece 1,99$'dan başlıyor. En popüler tercih 5.99$ (3 Gün, 5GB) seçeneğidir — haritalar, WhatsApp ve e-posta için rahatça yeter. Yoğun veri kullanıcıları için 54.99$ (30 Gün, 100GB) planı daha rahat bir seçenektir. Havalimanı SIM gişesini atlamak size %30-50 tasarruf ve sıra bekleme derdinden kurtarır. Ayarlamak mı istiyorsunuz? Roami uygulamasından istediğiniz zaman ek paket satın alabilirsiniz.
     - q: |
         Kıbrıs'ta eSIM kullanmak için fiziksel SIM'imi çıkarmam gerekir mi?
       a: |
@@ -401,7 +401,7 @@ faq_section:
     - q: |
         Kıbrıs'a giden gezginler için en popüler eSIM seçeneği hangisidir?
       a: |
-        Kıbrıs'a giden çoğu gezgin 5GB/15 günlük planı (9,99$) tercih eder. Günlük navigasyon, sosyal medya ve mesajlaşma için yeterlidir. Daha uzun konaklamalar veya daha yoğun kullanım için 10GB (14,99$) veya sınırsız (59,99$) planlar harika seçeneklerdir. Tüm planlar dakikalar içinde etkinleşir ve 7/24 destek içerir.
+        Kıbrıs'a giden çoğu gezgin 5GB/15 günlük planı (8,99$) tercih eder. Günlük navigasyon, sosyal medya ve mesajlaşma için yeterlidir. Daha uzun konaklamalar veya daha yoğun kullanım için 10GB (7,99$) veya sınırsız (59,99$) planlar harika seçeneklerdir. Tüm planlar dakikalar içinde etkinleşir ve 7/24 destek içerir.
     - q: |
         Seyahatimden önce Kıbrıs eSIM'imi yanlışlıkla silersem ne olur?
       a: |
@@ -414,55 +414,67 @@ faq_section:
         Seyahat sırasında Kıbrıs eSIM'im çalışmayı durdurursa ne olur?
       a: |
         İlk olarak, telefonunuzu yeniden başlatmayı ve Veri Dolaşımı'nı etkinleştirmeyi deneyin. Çoğu sorun 2 dakika içinde çözülür. Değilse, ağ ayarlarında manuel olarak bir operatör seçin. Sorun devam ederse Roami 7/24 desteği yardımcı olabilir.
+    - q: |
+        Lefkoşa ve Limasol'de Cyta ağında eSIM hızı yeterli mi?
+      a: |
+        Evet; Lefkoşa ve Limasol merkezinde Roami eSIM Cyta 5G/4G ağında çalışır ve tipik olarak 50-200 Mbps sunar. Görüntülü görüşme ve navigasyon için idealdir.
+    - q: |
+        Kıbrıs eSIM ile fiziksel SIM'i aynı anda kullanabilir miyim, Cyta numaram çalışır mı?
+      a: |
+        Evet: veri eSIM'de, ses ve SMS kendi hattınızda kalır. Böylece Cyta numaranız önemli aramaları almaya devam eder.
+    - q: |
+        Kıbrıs için eSIM kurulumu Cyta SIM almaktan daha mı hızlı?
+      a: |
+        Evet: QR kodunu e-posta ile 5 dakikada alıp evde kurulur; Cyta mağazasında beklemek gerekmez. Varışta eSIM otomatik olarak devreye girer.
 related_products:
-  title: İlgili Kıbrıs eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
+  - name: Çek Cumhuriyeti eSIM
+    flag: img/flags/cz.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık eSIM
-    flag: img/flags/gb.svg
+  - name: Danimarka eSIM
+    flag: img/flags/dk.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Estonya eSIM
+    flag: img/flags/ee.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Faroe Adaları eSIM
+    flag: img/flags/fo.svg
+    price: $5.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Finlandiya eSIM
+    flag: img/flags/fi.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Fransa eSIM
     flag: img/flags/fr.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Gürcistan eSIM
+    flag: img/flags/ge.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Almanya eSIM
     flag: img/flags/de.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
+  - name: Cebelitarık eSIM
+    flag: img/flags/gi.svg
+    price: $5.99'dan başlayan fiyatlarla
+    is_highlight: true
+  - name: Yunanistan eSIM
+    flag: img/flags/gr.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Macaristan eSIM
+    flag: img/flags/hu.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: İzlanda eSIM
+    flag: img/flags/is.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
@@ -491,15 +503,15 @@ market_analysis:
   - icon: globe
     title: Uluslararası<br>Dolaşım
     prepaid_title: ''
-    prepaid_desc: Cyta, Kuzey Kıbrıs'ta dolaşım için 0,20—MB (200—GB) ücret alır ve dolaşım varsayılan olarak devre dışıdır. Telsim Vodafone, Güney Kıbrıs'ta dolaşım için 0,16—MB (yaklaşık 5—GB) ücret alır. Epic'in Data Top-Up kartları yalnızca Kıbrıs'ta geçerlidir, AB dolaşımı için değildir.
+    prepaid_desc: Cyta, Kuzey Kıbrıs'ta dolaşım için 0,20€/MB (200€/GB) ücret alır ve dolaşım varsayılan olarak devre dışıdır. Telsim Vodafone, Güney Kıbrıs'ta dolaşım için 0,16€/MB (yaklaşık 5€/GB) ücret alır. Epic'in Data Top-Up kartları yalnızca Kıbrıs'ta geçerlidir, AB dolaşımı için değildir.
     esim_title: Kesintisiz Sınır Ötesi Dolaşım
-    esim_desc: Cyta'nın Kuzey Kıbrıs'taki 0,20—MB (200—GB) dolaşımının veya Telsim'in 0,16—MB dolaşımının aksine, Roami eSIM gizli ücret olmaksızın hem Güney hem de Kuzey Kıbrıs'ı kapsayan uygun fiyatlı çok ülkeli planlar sunar.
+    esim_desc: Cyta'nın Kuzey Kıbrıs'taki 0,20€/MB (200€/GB) dolaşımının veya Telsim'in 0,16€/MB dolaşımının aksine, Roami eSIM gizli ücret olmaksızın hem Güney hem de Kuzey Kıbrıs'ı kapsayan uygun fiyatlı çok ülkeli planlar sunar.
   - icon: calendar-xmark
     title: Fatura Döngüsü ve<br>Batık Maliyet
     prepaid_title: ''
-    prepaid_desc: Cyta'nın soeasy Plus planları 30 günlük döngülerdir (20GB için 10— 50GB için 20— 100GB için 35—. Primetel'in Combo Top Up'ları 30 günlük döngülerdir (60GB için 10—. Kısa bir gezi planın değerinin çoğunu israf eder.
+    prepaid_desc: Cyta'nın soeasy Plus planları 30 günlük döngülerdir (20GB için 10€, 50GB için 20€, 100GB için 35€. Primetel'in Combo Top Up'ları 30 günlük döngülerdir (60GB için 10€. Kısa bir gezi planın değerinin çoğunu israf eder.
     esim_title: Esnek Kısa Süreli Planlar
-    esim_desc: Cyta'nın 30 günlük döngüsünün (20GB için 10— veya Primetel'in aylık 60GB için 10—planının aksine, Roami kısa gezilerde %75'e varan israftan tasarruf eden $1,99/GB'den başlayan 7 günlük planlar sunar.
+    esim_desc: Cyta'nın 30 günlük döngüsünün (20GB için 10€ veya Primetel'in aylık 60GB için 10€ planının aksine, Roami kısa gezilerde %75'e varan israftan tasarruf eden $2,99'dan başlayan 7 günlük planlar sunar.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''
@@ -539,6 +551,6 @@ market_analysis:
     - icon: tower-observation
       icon_bg: bg-rose-100
       icon_color: text-rose-600
-      title: Kuzey Kıbrıs'ta 200—GB Dolaşımdan Kaçının
-      desc: Cyta ön ödemeli kullanıcıları Kuzey Kıbrıs'ta <b>0,20—MB (200—GB)</b> dolaşım ile karşı karşıyadır ve dolaşım varsayılan olarak devre dışıdır. Telsim Vodafone Güney Kıbrıs'ta <b>0,16—MB (5—GB)</b> ücret alır. Roami eSIM her iki bölgeyi kapsayan uygun fiyatlı sınır ötesi planlar sunar.
+      title: Kuzey Kıbrıs'ta 200€/GB Dolaşımdan Kaçının
+      desc: Cyta ön ödemeli kullanıcıları Kuzey Kıbrıs'ta <b>0,20€/MB (200€/GB)</b> dolaşım ile karşı karşıyadır ve dolaşım varsayılan olarak devre dışıdır. Telsim Vodafone Güney Kıbrıs'ta <b>0,16€/MB (5€/GB)</b> ücret alır. Roami eSIM her iki bölgeyi kapsayan uygun fiyatlı sınır ötesi planlar sunar.
 ---

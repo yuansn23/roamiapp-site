@@ -1,6 +1,6 @@
 ---
 title: 'Umman eSIM 2026: Şehir ve Ağ Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
 seo:
   title: 'Umman eSIM 1,99$''dan Başlıyor: Umman Genelinde Sınırsız 5G'
-  description: 'Maskat, Salalah, Nizwa''da hızlı 5G ile Umman eSIM planlarını karşılaştırın. Turistler ve gezginler için Omantel ve Ooredoo ve Vodafone kapsama rehberi. 1,99$''dan başlayan anında QR aktivasyonu.'
-  keywords: 'Umman eSIM, Umman eSIM satın al, en iyi Umman eSIM, Umman seyahat eSIM, Omantel Umman, Ooredoo Umman, Vodafone Umman, Maskat eSIM, Salalah eSIM, Nizwa eSIM, Umman ön ödemeli eSIM, 5G Umman eSIM'
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Umman eSIM planlarını karşılaştırın: Omantel ağı, Maskat ve Salalah''de hızlı 5G. Anında QR aktivasyonu. 5,99$''dan başlayan fiyatlar.'
+  keywords: 'Umman eSIM, Umman eSIM planları, en iyi Umman eSIM, ucuz Umman eSIM, Umman eSIM çevrimiçi satın al, sınırsız veri Umman eSIM, ön ödemeli Umman eSIM, Umman için en iyi eSIM, Umman eSIM fiyatı, Umman eSIM aktivasyonu, Umman eSIM kapsama alanı, Maskat için en iyi eSIM, Maskat eSIM, Salalah eSIM'
+  low_price: 5.99
+  high_price: 67.99
 order_summary:
   title: 'Seçilen Plan'
   label_data: 'Dahil Olan Veri'
@@ -288,6 +288,8 @@ reminders:
     html: 'QR kodu e-posta adresinize gönderilecektir.'
   - icon: 🔄
     html: 'Aynı anda birden fazla eSIM kurabilirsiniz.'
+  - icon: 🏙️
+    html: 'Maskat ve Salalah''de en iyi kapsama: verilerinizi paylaşmak için hotspot dahildir.'
   compatibility_check:
     title: 'Hızlı Uyumluluk Kontrolü'
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kolayca kontrol edebilirsiniz:'
@@ -323,7 +325,7 @@ faq_section:
     title: 'Umman eSIM SSS'
     questions:
     - q: 'Umman için çok fazla harcamadan eSIM alabilir miyim?'
-      a: 'Kesinlikle. Roami''nin Umman eSIM planları 1,99$ kadar düşük fiyatlarla başlar. 5GB/15 günlük seçenek (9,99$) gezginler arasında en popüler olanıdır —haritalar, WhatsApp, Instagram ve e-postayı rahatça karşılar. Yoğun veri kullanıcısıysanız, 10GB (14,99$) veya sınırsız (59,99$) planlar size gönül rahatlığı sağlar. Havaalanı SIM tezgahını atlamak size %30-50 tasarruf ve kuyruk bekleme derdinden kurtarır. Ayarlama yapmanız mı gerekiyor? Roami uygulamasından istediğiniz zaman ekleme yapabilirsiniz.'
+      a: 'Kesinlikle. Roami''nin Umman eSIM planları 1,99$ kadar düşük fiyatlarla başlar. En popüler tercih 11.99$ (3 Gün, 5GB) seçeneğidir — haritalar, WhatsApp ve e-posta için rahatça yeter. Yoğun veri kullanıcıları için 67.99$ (30 Gün, 30GB) planı daha rahat bir seçenektir. Havaalanı SIM tezgahını atlamak size %30-50 tasarruf ve kuyruk bekleme derdinden kurtarır. Ayarlama yapmanız mı gerekiyor? Roami uygulamasından istediğiniz zaman ekleme yapabilirsiniz.'
     - q: 'Umman için sınırsız eSIM planı buna değer mi, yoksa sabit veri planı daha mı iyi olur?'
       a: 'Roami''nin sınırsız planının adil bir kotası vardır: günde 30GB, sonrasında gece yarısına kadar hız 512 kbps''ye düşer. Çoğu gezgin günde 500MB ila 3GB kullanır —30GB''a ulaşmak, 10 saat boyunca aralıksız 4K video izlemek anlamına gelir. Normal gezinti, haritalar ve sosyal medya için 5GB veya 10GB plan fazlasıyla yeterlidir. Yoğun yayın veya sıcak nokta paylaşımı planlıyorsanız sınırsızı seçin.'
     - q: 'Umman eSIM kaydı için pasaportumu yüklemek güvenli mi? Gizlilik konusunda endişeliyim.'
@@ -338,55 +340,67 @@ faq_section:
       a: 'Plan geçerliliği, satın aldığınızda veya kurduğunuzda değil, Umman''da yerel bir ağa bağlandığınızda başlar. Yani seyahatinizden haftalar önce satın alıp kurabilir ve plan günlerinizi kaybetmeden kullanabilirsiniz. 7 günlük bir plan, ilk bağlantıdan itibaren size 7 tam gün verir.'
     - q: 'Umman eSIM''im seyahat sırasında çalışmayı durdurursa ne olur?'
       a: 'Önce telefonunuzu yeniden başlatmayı ve Veri Dolaşımı''nı etkinleştirmeyi deneyin. Çoğu sorun 2 dakika içinde çözülür. Olmazsa, ağ ayarlarından manuel olarak bir taşıyıcı seçin. Sorun devam ederse Roami 7/24 destek yardımcı olabilir.'
+    - q: |
+        Maskat ve Salalah'de Omantel ağında eSIM hızı yeterli mi?
+      a: |
+        Evet; Maskat ve Salalah merkezinde Roami eSIM Omantel 5G/4G ağında çalışır ve tipik olarak 50-200 Mbps sunar. Görüntülü görüşme ve navigasyon için idealdir.
+    - q: |
+        Umman eSIM ile fiziksel SIM'i aynı anda kullanabilir miyim, Omantel numaram çalışır mı?
+      a: |
+        Evet: veri eSIM'de, ses ve SMS kendi hattınızda kalır. Böylece Omantel numaranız önemli aramaları almaya devam eder.
+    - q: |
+        Umman için eSIM kurulumu Omantel SIM almaktan daha mı hızlı?
+      a: |
+        Evet: QR kodunu e-posta ile 5 dakikada alıp evde kurulur; Omantel mağazasında beklemek gerekmez. Varışta eSIM otomatik olarak devreye girer.
 related_products:
-  title: 'İlgili eSIM Planları'
+  title: İlgili eSIM Planları
   items:
-  - name: 'Amerika Birleşik Devletleri eSIM'
-    flag: img/flags/us.svg
-    price: 'Başlangıç $1.99'
+  - name: Katar eSIM
+    flag: img/flags/qa.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Birleşik Krallık eSIM'
-    flag: img/flags/gb.svg
-    price: 'Başlangıç $1.99'
+  - name: Suudi Arabistan eSIM
+    flag: img/flags/sa.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Avrupa eSIM'
-    flag: img/flags/eu.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: true
-  - name: 'Kanada eSIM'
-    flag: img/flags/ca.svg
-    price: 'Başlangıç $1.99'
+  - name: BAE eSIM
+    flag: img/flags/ae.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Türkiye eSIM'
-    flag: img/flags/tr.svg
-    price: 'Başlangıç $1.99'
+  - name: Bahreyn eSIM
+    flag: img/flags/bh.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Çin eSIM'
-    flag: img/flags/cn.svg
-    price: 'Başlangıç $1.99'
+  - name: Irak eSIM
+    flag: img/flags/iq.svg
+    price: $21.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Japonya eSIM'
-    flag: img/flags/jp.svg
-    price: 'Başlangıç $1.99'
+  - name: İsrail eSIM
+    flag: img/flags/il.svg
+    price: $2.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Hong Kong eSIM'
-    flag: img/flags/hk.svg
-    price: 'Başlangıç $1.99'
+  - name: Ürdün eSIM
+    flag: img/flags/jo.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Fransa eSIM'
-    flag: img/flags/fr.svg
-    price: 'Başlangıç $1.99'
+  - name: Kuveyt eSIM
+    flag: img/flags/kw.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'İspanya eSIM'
+  - name: İspanya eSIM
     flag: img/flags/es.svg
-    price: 'Başlangıç $1.99'
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: true
+  - name: Kanada eSIM
+    flag: img/flags/ca.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Almanya eSIM'
-    flag: img/flags/de.svg
-    price: 'Başlangıç $1.99'
+  - name: Çin eSIM
+    flag: img/flags/cn.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Avustralya eSIM'
+  - name: Avustralya eSIM
     flag: img/flags/au.svg
-    price: 'Başlangıç $1.99'
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 ---

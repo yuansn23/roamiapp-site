@@ -1,6 +1,6 @@
 ---
 title: 'Litvanya eSIM 2026: Tam Seyahat Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,12 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Litvanya eSIM | Hızlı ve Güvenilir Ön Ödemeli Veri Planı
-  description: Litvanya için ön ödemeli eSIM ile akıllıca seyahat edin. Anında aktivasyon ile sınırsız 5G veri. Vilnius,
-    Kaunas ve Klaipeda'yı kapsar. Planınızı bugün çevrimiçi satın alın.
-  keywords: Litvanya eSIM, Litvanya eSIM satın al, en iyi Litvanya eSIM, Litvanya seyahat eSIM, Tele2 Litvanya, Telia Litvanya,
-    BITE Litvanya, Vilnius eSIM, Kaunas eSIM, Klaipėda eSIM, Litvanya ön ödemeli eSIM, 5G Litvanya eSIM
+  description: 'Litvanya için ön ödemeli seyahat eSIM''i: Vilnius, Kaunas ve tüm ülkede 5G. Pasaport kaydı yok. 1,99$''dan başlar.'
+  keywords: Litvanya eSIM, Litvanya eSIM planları, en iyi Litvanya eSIM, ucuz Litvanya eSIM, Litvanya eSIM çevrimiçi satın al, sınırsız veri Litvanya eSIM, ön ödemeli Litvanya eSIM, Litvanya için en iyi eSIM, Litvanya eSIM fiyatı, Litvanya eSIM aktivasyonu, Litvanya eSIM kapsama alanı, Vilnius için en iyi eSIM, Vilnius eSIM, Kaunas eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -345,6 +343,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🗺️
+    html: 'Vilnius ve Kaunas''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -393,7 +393,7 @@ faq_section:
     - q: |
         Litvanya eSIM sınırsız planı çok fazla veri kullanırsam yavaşlar mı?
       a: |
-        Adil kullanım politikası vardır: bir günde 30GB'dan sonra hızlar düşer. Düşük hızda yine de mesajlaşabilir, navigasyon yapabilir ve internette gezinebilirsiniz —sadece akıcı video yok. Gerçekçi olarak, çoğu gezgin 30GB'a yaklaşmaz. Endişeleniyorsanız, 10GB (14,99$) veya 20GB (24,99$) sabit plan belirsizliği tamamen ortadan kaldırır.
+        Adil kullanım politikası vardır: bir günde 30GB'dan sonra hızlar düşer. Düşük hızda yine de mesajlaşabilir, navigasyon yapabilir ve internette gezinebilirsiniz —sadece akıcı video yok. Gerçekçi olarak, çoğu gezgin 30GB'a yaklaşmaz. Endişeleniyorsanız, 10GB (11,99$) veya 20GB (24,99$) sabit plan belirsizliği tamamen ortadan kaldırır.
     - q: |
         Litvanya eSIM'im vardığımda bağlanmazsa ne yapmalıyım?
       a: |
@@ -414,56 +414,68 @@ faq_section:
         Litvanya'ya seyahat için telefonumda kaç eSIM profili saklayabilirim?
       a: |
         Çoğu telefon 5-10 eSIM profili saklar. Litvanya eSIM'inizi ev SIM'iniz ve diğer ülke profillerinizle birlikte saklayabilirsiniz. İhtiyacınız olanı etkinleştirin ve diğerlerini devre dışı bırakın. Aralarında geçiş yapmak telefon ayarlarınızda yaklaşık 10 saniye sürer.
+    - q: |
+        Litvanya eSIM ile fiziksel SIM'i aynı anda kullanabilir miyim, Tele2 numaram çalışır mı?
+      a: |
+        Evet: veri eSIM'de, ses ve SMS kendi hattınızda kalır. Böylece Tele2 numaranız önemli aramaları almaya devam eder.
+    - q: |
+        Litvanya için eSIM kurulumu Tele2 SIM almaktan daha mı hızlı?
+      a: |
+        Evet: QR kodunu e-posta ile 5 dakikada alıp evde kurulur; Tele2 mağazasında beklemek gerekmez. Varışta eSIM otomatik olarak devreye girer.
+    - q: |
+        Litvanya gezisi için kaç GB almalıyım, Tele2 paketlerine göre?
+      a: |
+        Günlük harita ve mesaj için 3-5GB, sosyal medya ve video için 10GB uygundur. Roami Litvanya planları 1,99$'dan başlar ve Tele2 paketlerinden bağımsızdır.
 related_products:
-  title: İlgili Litvanya eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Lüksemburg eSIM
+    flag: img/flags/lu.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Malta eSIM
+    flag: img/flags/mt.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Hollanda eSIM
+    flag: img/flags/nl.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Norveç eSIM
+    flag: img/flags/no.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Polonya eSIM
+    flag: img/flags/pl.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Portekiz eSIM
+    flag: img/flags/pt.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Romanya eSIM
+    flag: img/flags/ro.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Rusya eSIM
+    flag: img/flags/ru.svg
+    price: $2.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: İspanya eSIM
     flag: img/flags/es.svg
-    price: 1,99$'dan başlayan fiyatlarla
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: İsviçre eSIM
+    flag: img/flags/ch.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: true
+  - name: Türkiye eSIM
+    flag: img/flags/tr.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Ukrayna eSIM
+    flag: img/flags/ua.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Litvanya eSIM ve SIM Kart Planları: Hangisi İhtiyaçlarınıza Uyuyor?'
@@ -495,9 +507,7 @@ market_analysis:
   - icon: globe
     title: Uluslararası<br>Dolaşım
     prepaid_title: ''
-    prepaid_desc: Pildyk yerel planları AB'de tamamen kullanılamaz; ayrı dolaşım paketleri satın alınmalıdır (ör. 7
-      gün/1GB AB verisi için 4,99—. Ežys sınırsız planları AB'de katı FUP sınırlarına sahiptir (ör. 7 günlük sınırsız
-      plan AB'de yalnızca 5.1GB).
+    prepaid_desc: Pildyk yerel planları AB'de tamamen kullanılamaz; ayrı dolaşım paketleri satın alınmalıdır (ör. 7 gün/1GB AB verisi için 4,99€. Ežys sınırsız planları AB'de katı FUP sınırlarına sahiptir (ör. 7 günlük sınırsız plan AB'de yalnızca 5.1GB).
     esim_title: Sorunsuz AB Dolaşımı
     esim_desc: Litvanya dışında engellenen Pildyk'in yerel planlarından farklı olarak, Roami eSIM, ekstra dolaşım eki
       olmadan AB genelinde çalışır.
@@ -507,8 +517,7 @@ market_analysis:
     prepaid_desc: Çoğu plan, otomatik yenilemeli 30 günlük veya 7 günlük sabit döngülerdir; 30 günlük plan satın alan
       5 günlük bir turist sözleşme süresinin %83'ünü israf eder.
     esim_title: Esnek Kısa Süreli Planlar
-    esim_desc: Ežys'in 30 günlük döngüsünden (12,99—16.6GB) farklı olarak, Roami 1,99$/GB'dan başlayan 7 günlük planlar
-      sunar, kısa geziler için %83'e varan israfı önler.
+    esim_desc: Ežys'in 30 günlük döngüsünden (12,99€/16.6GB) farklı olarak, Roami 2,99$'dan başlayan 7 günlük planlar sunar, kısa geziler için %83'e varan israfı önler.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''
@@ -526,8 +535,7 @@ market_analysis:
   - icon: headset
     title: Müşteri Desteği
     prepaid_title: ''
-    prepaid_desc: Labas web sitesi ve yönetim sistemi tamamen Litvancadır ve İngilizce destek yoktur; bakiye kontrolü
-      0,33—ya mal olur.
+    prepaid_desc: Labas web sitesi ve yönetim sistemi tamamen Litvancadır ve İngilizce destek yoktur; bakiye kontrolü 0,33€'ya mal olur.
     esim_title: 7/24 İngilizce Destek
     esim_desc: Yalnızca Litvanca hizmet sunan Labas'ın aksine, İngilizce 7/24 destek alın.
   expert_verdict:
@@ -555,6 +563,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Uzun Döngülerden Batık Maliyeti Ortadan Kaldırın
-      desc: Ežys'in <b>30 günlük</b> planı (12,99—16.6GB) 5 günlük bir gezi için <b>%83</b> israf eder. Roami'nin <b>7
-        günlük</b> planları <b>1,99$/GB</b>'dan başlar ve kalış sürenize tam olarak uyar.
+      desc: Ežys'in <b>30 günlük</b> planı (12,99€/16.6GB) 5 günlük bir gezi için <b>%83</b> israf eder. Roami'nin <b>7 günlük</b> planları <b>2,99$</b>'dan başlar ve kalış sürenize tam olarak uyar.
 ---

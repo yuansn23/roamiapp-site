@@ -1,6 +1,6 @@
 ---
 title: 'İzlanda eSIM 2026: Tam Seyahat Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,12 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: İzlanda eSIM | Seyahatiniz İçin Ön Ödemeli Veri Planı
-  description: İzlanda'ya bir gezi mi planlıyorsunuz? Roami'nin en iyi ön ödemeli seyahat eSIM'ini sınırsız 5G veri ile alın. Anında aktivasyon.
-    Reykjavik, Akureyri ve Altın Çember'i kapsar.
-  keywords: İzlanda eSIM, İzlanda eSIM satın al, en iyi İzlanda eSIM, İzlanda seyahat eSIM, Síminn İzlanda, Vodafone İzlanda, Telenor
-    İzlanda, Reykjavik eSIM, Akureyri eSIM, Keflavik eSIM, İzlanda ön ödemeli eSIM, 5G İzlanda eSIM
+  description: 'İzlanda seyahati için eSIM: Síminn ve Vodafone ağı, Reykjavik''de 5G. Anında aktivasyon, iade garantisi. 1,99$''dan başlar.'
+  keywords: İzlanda eSIM, İzlanda eSIM planları, en iyi İzlanda eSIM, ucuz İzlanda eSIM, İzlanda eSIM çevrimiçi satın al, sınırsız veri İzlanda eSIM, ön ödemeli İzlanda eSIM, İzlanda için en iyi eSIM, İzlanda eSIM fiyatı, İzlanda eSIM aktivasyonu, İzlanda eSIM kapsama alanı, Reykjavik için en iyi eSIM, Reykjavik eSIM, Akureyri eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -345,6 +343,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 📍
+    html: 'Reykjavik için eSIM''i varışta etkinleştirmenizi öneririz: geçerlilik ilk bağlantıda başlar.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -385,7 +385,7 @@ faq_section:
     - q: |
         İzlanda eSIM sınırsız planı çok fazla veri kullanırsam yavaşlar mı?
       a: |
-        Adil kullanım politikası vardır: günde 30GB'den sonra hızlar düşer. Düşük hızda hala mesajlaşabilir, gezinebilir ve internette dolaşabilirsiniz —sadece pürüzsüz video yok. Gerçekçi olarak, çoğu gezgin 30GB'a yaklaşmaz. Endişeleniyorsanız, 10GB (14,99$) veya 20GB (24,99$) sabit plan belirsizliği tamamen ortadan kaldırır.
+        Adil kullanım politikası vardır: günde 30GB'den sonra hızlar düşer. Düşük hızda hala mesajlaşabilir, gezinebilir ve internette dolaşabilirsiniz —sadece pürüzsüz video yok. Gerçekçi olarak, çoğu gezgin 30GB'a yaklaşmaz. Endişeleniyorsanız, 10GB (11,99$) veya 20GB (24,99$) sabit plan belirsizliği tamamen ortadan kaldırır.
     - q: |
         Roami, İzlanda'da eSIM için Saily ile karşılaştırıldığında nasıldır?
       a: |
@@ -414,55 +414,67 @@ faq_section:
         Roami'den İzlanda eSIM satın almak için hangi belgelere ihtiyacım var?
       a: |
         Sadece geçerli bir ödeme yöntemi —kredi kartı, PayPal, Apple Pay veya Google Pay. Pasaport yüklemesi yok, adres doğrulaması yok, sözleşme yok. Çevrimiçi satın alın, QR kodunuzu dakikalar içinde e-posta ile alın ve doğrudan telefonunuza kurun.
+    - q: |
+        İzlanda eSIM hangi ağlarda çalışır, Síminn kapsaması yeterli mi?
+      a: |
+        Roami eSIM Síminn ve Vodafone ağlarına bağlanır; Reykjavik ve Akureyri gibi büyük şehirlerde 4G/5G sunar. Kırsal bölgelerde 4G kapsama güçlü kalır.
+    - q: |
+        Reykjavik'de Síminn şebekesinde eSIM hızı nasıl?
+      a: |
+        Reykjavik'de Roami eSIM Síminn 5G/4G ağını kullanır; şehir merkezinde tipik hız 50-200 Mbps. Harita, sosyal medya ve görüntülü arama için uygundur.
+    - q: |
+        İzlanda eSIM'i kendi hattımla birlikte kullanabilir miyim, Síminn hattım açık kalır mı?
+      a: |
+        Evet: veri eSIM üzerinden akar, kendi SIM'iniz arama ve SMS için açık kalır. Ayarlar'dan hangi hattın ses, SMS ve veri kullanacağını seçebilirsiniz.
 related_products:
-  title: İlgili İzlanda eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
+  - name: İrlanda eSIM
+    flag: img/flags/ie.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık eSIM
-    flag: img/flags/gb.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
+  - name: İtalya eSIM
+    flag: img/flags/it.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Kosova eSIM
+    flag: img/flags/xk.svg
+    price: $13.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Letonya eSIM
+    flag: img/flags/lv.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
+  - name: Lihtenştayn eSIM
+    flag: img/flags/li.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
+  - name: Litvanya eSIM
+    flag: img/flags/lt.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
+  - name: Lüksemburg eSIM
+    flag: img/flags/lu.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Malta eSIM
+    flag: img/flags/mt.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
+  - name: Hollanda eSIM
+    flag: img/flags/nl.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
+  - name: Norveç eSIM
+    flag: img/flags/no.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
+  - name: Polonya eSIM
+    flag: img/flags/pl.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
+  - name: Portekiz eSIM
+    flag: img/flags/pt.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Ürdün eSIM 2026: Tam Seyahat Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: 'Ürdün 5G eSIM: Anında Aktivasyon, Sınırsız Veri'
-  description: Amman, Zarqa, Irbid'de hızlı 5G ile Ürdün eSIM planlarını karşılaştırın. Turistler ve gezginler için Orange Jordan, Zain Jordan ve Umniah kapsama rehberi. 1.99$'dan başlayan anında QR aktivasyonu.
-  keywords: Ürdün eSIM, Ürdün eSIM satın al, en iyi Ürdün eSIM, Ürdün seyahat eSIM, Orange Jordan Ürdün, Zain Jordan Ürdün, Umniah Ürdün, Amman eSIM, Zarqa eSIM, Irbid eSIM, Ürdün ön ödemeli eSIM, 5G Ürdün eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Roami Ürdün eSIM: Amman, Zarqa kapsama, Orange Jordan ağında 5G. Anında kurulum, hotspot dahil. 6,99$''dan başlar.'
+  keywords: Ürdün eSIM, Ürdün eSIM planları, en iyi Ürdün eSIM, ucuz Ürdün eSIM, Ürdün eSIM çevrimiçi satın al, sınırsız veri Ürdün eSIM, ön ödemeli Ürdün eSIM, Ürdün için en iyi eSIM, Ürdün eSIM fiyatı, Ürdün eSIM aktivasyonu, Ürdün eSIM kapsama alanı, Amman için en iyi eSIM, Amman eSIM, Zarqa eSIM
+  low_price: 6.99
+  high_price: 99.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -258,6 +258,10 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 📱
+    html: 'Arama ve SMS için fiziksel SIM''inizi açık tutun; Ürdün eSIM''i yalnızca mobil veri için kullanın.'
+  - icon: 🏙️
+    html: 'Amman ve Zarqa''de en iyi kapsama: verilerinizi paylaşmak için hotspot dahildir.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -303,7 +307,7 @@ faq_section:
     - q: |
         Ürdün'ü ziyaret ederken eSIM için ne kadar bütçe ayırmalıyım?
       a: |
-        Roami, 7 günlük hafif plan için 1.99$'dan 30 gün sınırsız veri için 59.99$'a kadar Ürdün eSIM sunar. Çoğu ziyaretçi 9.99$'lık 5GB/15 günlük planı seçer - günlük navigasyon, sosyal medya ve mesajlaşmayı stressiz karşılar. Yayın tutkunları veya yoğun sosyal kullanıcılar 10GB veya sınırsızı düşünmelidir. Zain Ürdün genelinde güvenilir hızlar sağlar. Roami planları ön ödemelidir - sürpriz faturalar yok, otomatik yenileme yok, sadece net fiyatlandırma.
+        Roami'nin Ürdün eSIM planları 6.99$ (7 Gün, 1GB) ile 99.99$ (30 Gün, 20GB) arasında yer alır. En çok tercih edilen seçenek 16.99$ (30 Gün, 5GB) planıdır — günlük kullanımda rahatça yeter. Yayın tutkunları veya yoğun sosyal kullanıcılar 10GB veya sınırsızı düşünmelidir. Zain Ürdün genelinde güvenilir hızlar sağlar. Roami planları ön ödemelidir - sürpriz faturalar yok, otomatik yenileme yok, sadece net fiyatlandırma.
     - q: |
         Ürdün eSIM'imi sosyal medya ve ailemle fotoğraf paylaşmak için kullanabilir miyim?
       a: |
@@ -324,57 +328,69 @@ faq_section:
         Ürdün'de eSIM ile Google Haritalar gibi navigasyon uygulamalarını kullanabilir miyim?
       a: |
         Evet - Google Haritalar, gerçek zamanlı trafik ile navigasyon için saatte yaklaşık 5MB kullanır. Yedek olarak gitmeden önce Ürdün için çevrimdışı haritalar indirin (şehir başına yaklaşık 200-500MB).
+    - q: |
+        Ürdün gezisi için kaç GB almalıyım, Orange Jordan paketlerine göre?
+      a: |
+        Günlük harita ve mesaj için 3-5GB, sosyal medya ve video için 10GB uygundur. Roami Ürdün planları 6,99$'dan başlar ve Orange Jordan paketlerinden bağımsızdır.
+    - q: |
+        Ürdün eSIM fiyatı Orange Jordan ön ödemeli SIM'e kıyasla nasıl?
+      a: |
+        Roami Ürdün planları 6,99$'dan başlar ve çevrimiçi birkaç tıkla alınır. Orange Jordan mağazasında sıra beklemek ve yerel ön ödemeli SIM'lerde sık görülen kayıt/aktivasyon ücreti gerekmez.
+    - q: |
+        Ürdün eSIM hangi ağlarda çalışır, Orange Jordan kapsaması yeterli mi?
+      a: |
+        Roami eSIM Orange Jordan ve Zain Jordan ağlarına bağlanır; Amman ve Zarqa gibi büyük şehirlerde 4G/5G sunar. Kırsal bölgelerde 4G kapsama güçlü kalır.
 related_products:
-  title: İlgili Ürdün eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1.99$'dan itibaren
+  - name: Kuveyt eSIM
+    flag: img/flags/kw.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1.99$'dan itibaren
+  - name: Umman eSIM
+    flag: img/flags/om.svg
+    price: $5.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1.99$'dan itibaren
-    is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1.99$'dan itibaren
+  - name: Katar eSIM
+    flag: img/flags/qa.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1.99$'dan itibaren
+  - name: Suudi Arabistan eSIM
+    flag: img/flags/sa.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1.99$'dan itibaren
+  - name: BAE eSIM
+    flag: img/flags/ae.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1.99$'dan itibaren
+  - name: Bahreyn eSIM
+    flag: img/flags/bh.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1.99$'dan itibaren
+  - name: Irak eSIM
+    flag: img/flags/iq.svg
+    price: $21.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: İsrail eSIM
+    flag: img/flags/il.svg
+    price: $2.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Fransa eSIM
     flag: img/flags/fr.svg
-    price: 1.99$'dan itibaren
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Japonya eSIM
+    flag: img/flags/jp.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: İspanya eSIM
     flag: img/flags/es.svg
-    price: 1.99$'dan itibaren
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
+  - name: Kanada eSIM
+    flag: img/flags/ca.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: true
 market_analysis:
   title: 'Ürdün eSIM vs Yerel Ön Ödemeli SIM: Hangisi Daha Kullanışlı?'
   subtitle: Ürdün Yerel Ön Ödemeli SIM'ler vs. eSIM Çözümleri (2025 Kıyaslaması)
@@ -409,7 +425,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Tüm ön ödemeli planlar kesinlikle 30 günlük fatura döngüsü izler; örn. Zain'in 10 JOD planı 30 gün için yalnızca 2GB sunar, 5 günlük bir seyahat için 25 gün israf eder.
     esim_title: Esnek Kısa Vadeli Planlar
-    esim_desc: Zain'in 10 JOD/2GB gibi 30 günlük planlardan kaçının (25 gün israf). Roami 1.99$/GB'den başlayan 7 günlük planlar sunar, %75'e varan israf tasarrufu sağlar.
+    esim_desc: Zain'in 10 JOD/2GB gibi 30 günlük planlardan kaçının (25 gün israf). Roami 6.99$'dan başlayan 7 günlük planlar sunar, %75'e varan israf tasarrufu sağlar.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''

@@ -1,6 +1,6 @@
 ---
 title: 'İsrail eSIM 2026: Turist ve Ağ Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,12 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: 'İsrail 5G eSIM: Anında Aktivasyon, Sınırsız Veri'
-  description: Tel Aviv, Kudüs, Hayfa'da hızlı 5G ile İsrail eSIM planlarını karşılaştırın. Turistler ve gezginler için
-    Cellcom & Pelephone & Partner kapsama rehberi. 1,99$'dan başlayan fiyatlarla anında QR aktivasyonu.
-  keywords: İsrail eSIM, İsrail eSIM satın al, en iyi İsrail eSIM, İsrail seyahat eSIM, Cellcom İsrail, Pelephone İsrail, Partner
-    İsrail, Tel Aviv eSIM, Kudüs eSIM, Hayfa eSIM, İsrail ön ödemeli eSIM, 5G İsrail eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Roami İsrail eSIM ile Cellcom ağında 5G kapsama. Tel Aviv ve Kudüs'de yüksek hız, gizli ücret yok. 2,99$'dan planlar.
+  keywords: İsrail eSIM, İsrail eSIM planları, en iyi İsrail eSIM, ucuz İsrail eSIM, İsrail eSIM çevrimiçi satın al, sınırsız veri İsrail eSIM, ön ödemeli İsrail eSIM, İsrail için en iyi eSIM, İsrail eSIM fiyatı, İsrail eSIM aktivasyonu, İsrail eSIM kapsama alanı, Tel Aviv için en iyi eSIM, Tel Aviv eSIM, Kudüs eSIM
+  low_price: 2.99
+  high_price: 69.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -321,6 +319,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🗺️
+    html: 'Tel Aviv ve Kudüs''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -365,7 +365,7 @@ faq_section:
     - q: |
         İsrail için çok fazla harcamadan eSIM alabilir miyim?
       a: |
-        Kesinlikle. Roami'nin İsrail eSIM planları sadece 1,99$'dan başlıyor. 5GB/15 günlük seçenek (9,99$) gezginler arasında en popüler olanıdır —haritalar, WhatsApp, Instagram ve e-postayı rahatça kullanmanızı sağlar. Yoğun veri kullanıcısıysanız, 10GB (14,99$) veya sınırsız (59,99$) planlar size gönül rahatlığı verir. Havalimanı SIM gişesini atlamak size %30-50 tasarruf ve sıra bekleme derdinden kurtarır. Ayarlamak mı istiyorsunuz? Roami uygulamasından istediğiniz zaman ek paket satın alabilirsiniz.
+        Kesinlikle. Roami'nin İsrail eSIM planları sadece 1,99$'dan başlıyor. 4.99$ (3 Gün, 5GB) seçeneği gezginler arasında en popüler olanıdır — haritalar, WhatsApp, Instagram ve e-posta için rahatça yeterlidir. Yoğun veri kullanıcıları için 34.99$ (15 Gün, 30GB) planı daha rahat bir seçenektir. Havalimanı SIM gişesini atlamak size %30-50 tasarruf ve sıra bekleme derdinden kurtarır. Ayarlamak mı istiyorsunuz? Roami uygulamasından istediğiniz zaman ek paket satın alabilirsiniz.
     - q: |
         İsrail eSIM kaydı için pasaportumu yüklemek güvenli mi? Gizlilik konusunda endişeliyim.
       a: |
@@ -377,7 +377,7 @@ faq_section:
     - q: |
         İsrail'e giden gezginler için en popüler eSIM seçeneği hangisidir?
       a: |
-        İsrail'e giden çoğu gezgin 5GB/15 günlük planı (9,99$) tercih eder. Günlük navigasyon, sosyal medya ve mesajlaşma için yeterlidir. Daha uzun konaklamalar veya daha yoğun kullanım için 10GB (14,99$) veya sınırsız (59,99$) planlar harika seçeneklerdir. Tüm planlar dakikalar içinde etkinleşir ve 7/24 destek içerir.
+        İsrail'e giden çoğu gezgin 5GB/15 günlük planı (6,99$) tercih eder. Günlük navigasyon, sosyal medya ve mesajlaşma için yeterlidir. Daha uzun konaklamalar veya daha yoğun kullanım için 10GB (6,99$) veya sınırsız (59,99$) planlar harika seçeneklerdir. Tüm planlar dakikalar içinde etkinleşir ve 7/24 destek içerir.
     - q: |
         Seyahatimden önce İsrail eSIM'imi yanlışlıkla silersem ne olur?
       a: |
@@ -390,55 +390,67 @@ faq_section:
         İsrail eSIM'imi ne kadar önceden satın almalıyım?
       a: |
         İstediğiniz zaman satın alabilirsiniz —kapıda bile. QR kodu dakikalar içinde gelir. Evde WiFi'da kurabilmeniz için birkaç gün önceden satın almanızı öneririz. Plan yalnızca İsrail'de bağlandığınızda etkinleşir, bu nedenle erken satın almak plan günlerinizi boşa harcamaz.
+    - q: |
+        İsrail eSIM ile Cellcom turist SIM'i arasındaki fark ne?
+      a: |
+        Roami İsrail eSIM 2,99$'dan başlar ve online alınır; Cellcom turist SIM'i genellikle mağaza ziyareti ve kayıt gerektirir. eSIM'de kuyruk ve aktivasyon beklemesi yoktur.
+    - q: |
+        İsrail genelinde Cellcom ve Pelephone kapsaması eSIM ile nasıl çalışır?
+      a: |
+        Roami eSIM Cellcom ve Pelephone ağlarını kullanır; Tel Aviv, Kudüs ve Hayfa'de 4G/5G mevcuttur. Şehir dışında bağlantı 4G hızında sabit kalır.
+    - q: |
+        Tel Aviv ve Kudüs'de Cellcom ağında eSIM hızı yeterli mi?
+      a: |
+        Evet; Tel Aviv ve Kudüs merkezinde Roami eSIM Cellcom 5G/4G ağında çalışır ve tipik olarak 50-200 Mbps sunar. Görüntülü görüşme ve navigasyon için idealdir.
 related_products:
-  title: İlgili İsrail eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
+  - name: Ürdün eSIM
+    flag: img/flags/jo.svg
+    price: $6.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kuveyt eSIM
+    flag: img/flags/kw.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Umman eSIM
+    flag: img/flags/om.svg
+    price: $5.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Katar eSIM
+    flag: img/flags/qa.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık eSIM
-    flag: img/flags/gb.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Suudi Arabistan eSIM
+    flag: img/flags/sa.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: BAE eSIM
+    flag: img/flags/ae.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Bahreyn eSIM
+    flag: img/flags/bh.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Irak eSIM
+    flag: img/flags/iq.svg
+    price: $21.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Almanya eSIM
+    flag: img/flags/de.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Fransa eSIM
     flag: img/flags/fr.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
+  - name: Japonya eSIM
+    flag: img/flags/jp.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
   - name: İspanya eSIM
     flag: img/flags/es.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
@@ -455,8 +467,7 @@ market_analysis:
   - icon: store
     title: Satın Alma ve<br>Aktivasyon
     prepaid_title: ''
-    prepaid_desc: Partner SIM kartları, *454 tuşlayarak ve İbranice sesli yönergeleri takip ederek 4G'nin manuel aktivasyonunu gerektirir;
-      havalimanı gişeleri 019 Mobile'ın 10 günlük 10GB planını 29$'a satar, şehir fiyatının 2-3 katı.
+    prepaid_desc: Partner SIM kartları, *454 tuşlayarak ve İbranice sesli yönergeleri takip ederek 4G'nin manuel aktivasyonunu gerektirir; havalimanı gişeleri 019 Mobile'ın 10 günlük 10GB planını 6.99$'a satar, şehir fiyatının 2-3 katı.
     esim_title: Anında Dijital Teslimat
     esim_desc: Partner'ın *454 aktivasyon zahmetinden kaçının. Roami eSIM, Tel Aviv'e indikten sonra 1 dakikadan kısa sürede çevrimiçi etkinleşir,
       havalimanı fiyat şişirmesinden kaçınır (ör. 019'un 29$/10GB planı).
@@ -478,7 +489,7 @@ market_analysis:
     prepaid_desc: Partner yalnızca —0/125GB'den başlayan 30 günlük planlar sunar; 7 günlük bir turist planın değerinin %75'inden fazlasını israf eder.
       Cellcom'un 7 günlük planı —9/3GB iken, 30 günlük planı —9/100GB'dir ve fiyat tersine çevrilmesi yaratır.
     esim_title: Esnek Günlük Planlar
-    esim_desc: Partner'ın 30 günlük bağlayıcılığından (—0/125GB, 7 günlük geziler için %75 israf) kaçının. Roami, tam konaklama sürenize uyan $1,99/GB'den başlayan 7 günlük planlar sunar.
+    esim_desc: Partner'ın 30 günlük bağlayıcılığından (—0/125GB, 7 günlük geziler için %75 israf) kaçının. Roami, tam konaklama sürenize uyan $2,99'dan başlayan 7 günlük planlar sunar.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''
@@ -514,8 +525,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: 30 Günlük Plan İsrafından Kaçının
-      desc: Partner'ın en ucuz planı <b>30 gün için —0/125GB</b>'dır. 7 günlük bir turist planın <b>%75</b>'ini israf eder. Roami
-        <b>$1,99/GB'den başlayan 7 günlük planlar</b> sunar, yalnızca kullandığınız kadar ödersiniz.
+      desc: Partner'ın en ucuz planı <b>30 gün için —0/125GB</b>'dır. 7 günlük bir turist planın <b>%75</b>'ini israf eder. Roami <b>$2,99'dan başlayan 7 günlük planlar</b> sunar, yalnızca kullandığınız kadar ödersiniz.
     - icon: headset
       icon_bg: bg-teal-100
       icon_color: text-teal-600

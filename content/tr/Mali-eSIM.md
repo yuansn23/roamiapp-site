@@ -1,6 +1,6 @@
 ---
 title: 'Mali eSIM 2026: Kapsama ve Hız Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,18 +9,18 @@ country_meta:
   operators: 'Sotelma-Malitel, Orange Mali, Moov Africa'
   competitors: 'Airalo, Holafly, Nomad eSIM, Ubigi, Yesim'
   main_cities: 'Bamako, Segou, Mopti, Timbuktu'
-  main_packages: '3/7/15/30 Gün, Sınırsız Veri'
+  main_packages: '7/15/30 Gün, 1GB–20GB Veri'
 modal:
   title: 'Hizmet Yükseltildi!'
   btn_text: 'Devam Et'
   text_default: 'eSIM hizmetimiz <strong>PhoneSIMGo</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
   text_android: 'eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
 seo:
-  title: 'Mali 5G eSIM: Sınırsız Veri, Dolaşım Ücreti Yok'
-  description: 'Bamako, Segou, Mopti''de hızlı 5G ile Mali eSIM planlarını karşılaştırın. Turistler ve gezginler için Sotelma-Malitel ve Orange Mali ve Moov Africa kapsama rehberi. 1,99$''dan başlayan anında QR aktivasyonu.'
-  keywords: 'Mali eSIM, Mali eSIM satın al, en iyi Mali eSIM, Mali seyahat eSIM, Sotelma-Malitel Mali, Orange Mali Mali, Moov Africa Mali, Bamako eSIM, Segou eSIM, Mopti eSIM, Mali ön ödemeli eSIM, 5G Mali eSIM'
-  low_price: 1.99
-  high_price: 39.9
+  title: 'Mali 5G eSIM: Yüksek Hızlı Veri, Dolaşım Ücreti Yok'
+  description: 'Mali için ön ödemeli seyahat eSIM''i: Bamako, Segou ve tüm ülkede 5G. Pasaport kaydı yok. 27,99$''dan başlar.'
+  keywords: 'Mali eSIM, Mali eSIM planları, en iyi Mali eSIM, ucuz Mali eSIM, Mali eSIM çevrimiçi satın al, Mali eSIM veri planları, ön ödemeli Mali eSIM, Mali için en iyi eSIM, Mali eSIM fiyatı, Mali eSIM aktivasyonu, Mali eSIM kapsama alanı, Bamako için en iyi eSIM, Bamako eSIM, Segou eSIM'
+  low_price: 27.99
+  high_price: 79.99
 order_summary:
   title: 'Seçilen Plan'
   label_data: 'Dahil Olan Veri'
@@ -148,6 +148,8 @@ reminders:
     html: 'QR kodu e-posta adresinize gönderilecektir.'
   - icon: 🔄
     html: 'Aynı anda birden fazla eSIM kurabilirsiniz.'
+  - icon: 🏙️
+    html: 'Bamako ve Segou''de en iyi kapsama: verilerinizi paylaşmak için hotspot dahildir.'
   compatibility_check:
     title: 'Hızlı Uyumluluk Kontrolü'
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kolayca kontrol edebilirsiniz:'
@@ -197,57 +199,69 @@ faq_section:
     - q: 'Mali''de tipik bir gezgin günlük ne kadar veri kullanır?'
       a: 'Çoğu turist için ortalama günlük kullanım: haritalar ve mesajlaşma için 300-500MB, sosyal medyayı yoğun kullanıyorsanız 1GB''a kadar. Bir haftalık seyahat için 5GB rahattır. İki hafta için 10GB tercih edin. Roami, veriniz azalırsa ekleme yapmayı kolaylaştırır.'
     - q: 'Mali''deki eSIM''im video görüşmeleri ve uzaktan çalışma için çalışır mı?'
-      a: 'Kesinlikle. Orange ağları Zoom, Teams ve Google Meet için istikrarlı bağlantılar sağlar. Uzaktan çalışma için 10GB veya sınırsız plan önerilir. eSIM ayrıca dizüstü bilgisayarınız için sıcak nokta paylaşımını da destekler.'
+      a: 'Kesinlikle. Orange ağları Zoom, Teams ve Google Meet için istikrarlı bağlantılar sağlar. Uzaktan çalışma için 30.99$ (30 Gün, 20GB) planı önerilir. eSIM ayrıca dizüstü bilgisayarınız için sıcak nokta paylaşımını da destekler.'
+    - q: |
+        Mali seyahati için kaç GB yeter, Sotelma-Malitel paketleriyle kıyaslanınca?
+      a: |
+        Hafif kullanım (harita, mesaj) için 3-5GB yeter; sosyal medya ve video için 10GB idealdir. Roami Mali planları 27,99$'dan başlar ve uygulamadan anında yükleme yapılır.
+    - q: |
+        Mali eSIM ile Sotelma-Malitel turist SIM'i arasındaki fark ne?
+      a: |
+        Roami Mali eSIM 27,99$'dan başlar ve online alınır; Sotelma-Malitel turist SIM'i genellikle mağaza ziyareti ve kayıt gerektirir. eSIM'de kuyruk ve aktivasyon beklemesi yoktur.
+    - q: |
+        Mali genelinde Sotelma-Malitel ve Orange Mali kapsaması eSIM ile nasıl çalışır?
+      a: |
+        Roami eSIM Sotelma-Malitel ve Orange Mali ağlarını kullanır; Bamako, Segou ve Mopti'de 4G/5G mevcuttur. Şehir dışında bağlantı 4G hızında sabit kalır.
 related_products:
-  title: 'İlgili Mali eSIM Planları'
+  title: İlgili eSIM Planları
   items:
-  - name: 'Amerika Birleşik Devletleri eSIM'
-    flag: img/flags/us.svg
-    price: 'Başlangıç $1.99'
+  - name: Nijer eSIM
+    flag: img/flags/ni.svg
+    price: $23.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Birleşik Krallık eSIM'
-    flag: img/flags/gb.svg
-    price: 'Başlangıç $1.99'
+  - name: Nijerya eSIM
+    flag: img/flags/ng.svg
+    price: $5.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Avrupa eSIM'
-    flag: img/flags/eu.svg
-    price: 'Başlangıç $1.99'
+  - name: Reunion Adası eSIM
+    flag: img/flags/re.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Sierra Leone eSIM
+    flag: img/flags/si.svg
+    price: $10.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Tanzanya eSIM
+    flag: img/flags/tz.svg
+    price: $7.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Tunus eSIM
+    flag: img/flags/tn.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: 'Kanada eSIM'
-    flag: img/flags/ca.svg
-    price: 'Başlangıç $1.99'
+  - name: Uganda eSIM
+    flag: img/flags/ug.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Türkiye eSIM'
-    flag: img/flags/tr.svg
-    price: 'Başlangıç $1.99'
+  - name: Cezayir eSIM
+    flag: img/flags/dz.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Çin eSIM'
-    flag: img/flags/cn.svg
-    price: 'Başlangıç $1.99'
+  - name: Botsvana eSIM
+    flag: img/flags/bw.svg
+    price: $14.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Japonya eSIM'
-    flag: img/flags/jp.svg
-    price: 'Başlangıç $1.99'
+  - name: Burkina Faso eSIM
+    flag: img/flags/bf.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Hong Kong eSIM'
-    flag: img/flags/hk.svg
-    price: 'Başlangıç $1.99'
+  - name: Kamerun eSIM
+    flag: img/flags/cm.svg
+    price: $27.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Fransa eSIM'
-    flag: img/flags/fr.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'İspanya eSIM'
-    flag: img/flags/es.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Almanya eSIM'
-    flag: img/flags/de.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Avustralya eSIM'
-    flag: img/flags/au.svg
-    price: 'Başlangıç $1.99'
+  - name: Çad eSIM
+    flag: img/flags/td.svg
+    price: $23.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Mali eSIM mi SIM Kart mı: 2026''da En İyi Seçenek Hangisi?'
@@ -283,7 +297,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 'Orange veri paketleri, 30 günlük sabit geçerlilik süresine sahip tek seferlik satın alımlardır; örn. 1GB 7500 CFA''dır.'
     esim_title: 'Esnek Kısa Vadeli Planlar'
-    esim_desc: 'Orange''ın 30 günlük döngüsünden (1GB/7500 CFA) farklı olarak, Roami 1,99$/GB''den başlayan 7 günlük planlar sunar, %75 israftan tasarruf sağlar.'
+    esim_desc: 'Orange''ın 30 günlük döngüsünden (1GB/7500 CFA) farklı olarak, Roami 27,99$''dan başlayan 7 günlük planlar sunar, %75 israftan tasarruf sağlar.'
   - icon: wifi
     title: 'Sıcak Nokta ve<br>Hız Politikaları'
     prepaid_title: ''

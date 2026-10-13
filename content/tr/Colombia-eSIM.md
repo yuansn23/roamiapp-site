@@ -1,6 +1,6 @@
 ---
 title: 'Kolombiya eSIM 2026: Bağlantı ve Hız Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,13 +18,12 @@ modal:
   text_android: eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltilmiştir.<br>Yeni müşteriler %20 indirimden yararlanır,
     promosyon kodu:web20
 seo:
-  title: Kolombiya eSIM | Turistler İçin En İyi eSIM Planını Satın Alın
+  title: 'Kolombiya için eSIM: 5G Kapsama ve Hotspot'
   description: Roami'den Kolombiya için en iyi ön ödemeli seyahat eSIM'ini alın. En iyi ağlarda sınırsız 5G veri. Bogota,
     Medellin ve Cartagena'yı kapsar. Anında aktivasyon.
-  keywords: Kolombiya eSIM, Kolombiya eSIM satın al, en iyi Kolombiya eSIM, Kolombiya seyahat eSIM, Claro Kolombiya, Movistar
-    Kolombiya, Tigo Kolombiya, Bogotá eSIM, Medellín eSIM, Cartagena eSIM, Kolombiya ön ödemeli eSIM, 5G Kolombiya eSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: Kolombiya eSIM, Kolombiya eSIM planları, en iyi Kolombiya eSIM, ucuz Kolombiya eSIM, Kolombiya eSIM çevrimiçi satın al, sınırsız veri Kolombiya eSIM, ön ödemeli Kolombiya eSIM, Kolombiya için en iyi eSIM, Kolombiya eSIM fiyatı, Kolombiya eSIM aktivasyonu, Kolombiya eSIM kapsama alanı, Bogotá için en iyi eSIM, Bogotá eSIM, Medellín eSIM
+  low_price: 4.99
+  high_price: 86.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -305,6 +304,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 📍
+    html: 'Bogotá için eSIM''i varışta etkinleştirmenizi öneririz: geçerlilik ilk bağlantıda başlar.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -345,7 +346,7 @@ faq_section:
     - q: |
         Kolombiya seyahati için en ucuz eSIM seçenekleri nelerdir?
       a: |
-        Roami Kolombiya eSIM planları 1,99$'dan (7 gün, 1GB) başlar ve 59,99$'a (30 gün sınırsız) kadar çıkar. Tipik bir 5-7 günlük gezi için 9,99$'lık 5GB plan en iyi seçenektir —haritalar, mesajlaşma ve sosyal medya kontrolü için yeterlidir. Video izlemek veya uzaktan çalışmak mı gerekiyor? 10GB veya sınırsız planı tercih edin. Claro'nun 5G ağı sayesinde yayın ve video aramaları harika çalışır. Havaalanı SIM tezgahları %30-50 daha pahalıdır ve sırada beklemeniz gerekir. Veri ihtiyacınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek paket satın alın.
+        Kolombiya için Roami planları 4.99$ (3 Gün, 1GB) ile 86.99$ (30 Gün, 30GB) arasında konumlanır. Tipik bir 5-7 günlük gezi için 14.99$ (3 Gün, 5GB) planı en ideal olanıdır — günlük harita, mesajlaşma ve sosyal medya için yeterlidir. Video izlemek veya uzaktan çalışmak mı gerekiyor? 10GB veya sınırsız planı tercih edin. Claro'nun 5G ağı sayesinde yayın ve video aramaları harika çalışır. Havaalanı SIM tezgahları %30-50 daha pahalıdır ve sırada beklemeniz gerekir. Veri ihtiyacınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek paket satın alın.
     - q: |
         Kolombiya'yı ziyaret eden bir turist için Claro, Movistar ve Tigo nasıl karşılaştırılır?
       a: |
@@ -373,57 +374,69 @@ faq_section:
     - q: |
         Kolombiya'ya sadece 2-3 günlüğüne seyahat ediyorum. Hangi eSIM'i almalıyım?
       a: |
-        Kısa bir gezi için 1GB/7 günlük plan (1,99$) haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB'lık plan (4,99$) size daha fazla alan sağlar. Her ikisi de anında etkinleşir ve ihtiyaç halinde ek paket satın alabilirsiniz.
+        Kısa bir gezi için 1GB/7 günlük plan (6,99$) haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB'lık plan (4,99$) size daha fazla alan sağlar. Her ikisi de anında etkinleşir ve ihtiyaç halinde ek paket satın alabilirsiniz.
+    - q: |
+        Yola çıkmadan Kolombiya eSIM'i nasıl etkinleştiririm, Claro hattına geçiş ne zaman olur?
+      a: |
+        Çevrimiçi satın alın, QR kodunu e-posta ile 5 dakikada alın ve Ayarlar > Hücresel > eSIM Ekle'den tarayın. Evde Wi-Fi ile kurup Kolombiya'de varışta etkinleştirin.
+    - q: |
+        Kolombiya seyahati için kaç GB yeter, Claro paketleriyle kıyaslanınca?
+      a: |
+        Hafif kullanım (harita, mesaj) için 3-5GB yeter; sosyal medya ve video için 10GB idealdir. Roami Kolombiya planları 4,99$'dan başlar ve uygulamadan anında yükleme yapılır.
+    - q: |
+        Kolombiya eSIM ile Claro turist SIM'i arasındaki fark ne?
+      a: |
+        Roami Kolombiya eSIM 4,99$'dan başlar ve online alınır; Claro turist SIM'i genellikle mağaza ziyareti ve kayıt gerektirir. eSIM'de kuyruk ve aktivasyon beklemesi yoktur.
 related_products:
-  title: İlgili Kolombiya eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Ekvador eSIM
+    flag: img/flags/ec.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Fransız Guyanası eSIM
+    flag: img/flags/gf.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Guyana eSIM
+    flag: img/flags/gy.svg
+    price: $9.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Paraguay eSIM
+    flag: img/flags/py.svg
+    price: $22.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Peru eSIM
+    flag: img/flags/pe.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Uruguay eSIM
+    flag: img/flags/uy.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Arjantin eSIM
+    flag: img/flags/ar.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: eSIM Bolívia eSIM
+    flag: img/flags/bo.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Brezilya eSIM
+    flag: img/flags/br.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Şili eSIM
+    flag: img/flags/cl.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Japonya eSIM
     flag: img/flags/jp.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1,99$'dan başlayan fiyatlarla
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: İspanya eSIM
     flag: img/flags/es.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1,99$'dan başlayan fiyatlarla
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Kolombiya eSIM veya SIM Kart: 2026''da En İyi Seçenek Hangisi?'
@@ -466,8 +479,7 @@ market_analysis:
     prepaid_desc: Claro 7 günlük plan (5GB, COP 11.000) ve Movistar 7 günlük plan (1.4GB, COP 13.900) tipiktir; 5 günlük
       bir gezi 2 günlük değeri israf eder.
     esim_title: Esnek Günlük Planlar
-    esim_desc: 5 günlük bir gezi için 2 günü israf eden Claro'nun 7 günlük sabit döngüsünden (COP 11.000/5GB) kaçının. Roami,
-      1,99$/GB'dan başlayan 7 günlük planlar sunar, yalnızca kullandığınız kadar ödersiniz.
+    esim_desc: 5 günlük bir gezi için 2 günü israf eden Claro'nun 7 günlük sabit döngüsünden (COP 11.000/5GB) kaçının. Roami, 6,99$'dan başlayan 7 günlük planlar sunar, yalnızca kullandığınız kadar ödersiniz.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''

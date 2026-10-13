@@ -1,6 +1,6 @@
 ---
 title: 'Fildişi Sahili eSIM 2026: Bağlantı ve Hız Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Orange, MTN, Moov
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Abidjan, Yamoussoukro, Bouaké, Daloa, San-Pédro
-  main_packages: 3/7/15/30 Gün, Sınırsız Veri
+  main_packages: 7/30 Gün, 1GB–5GB Veri
 modal:
   title: Hizmet Yükseltildi!
   btn_text: Devam Et
@@ -18,14 +18,11 @@ modal:
   text_android: eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltilmiştir.<br>Yeni müşteriler %20 indirimden yararlanır,
     promosyon kodu:web20
 seo:
-  title: 'Fildişi Sahili eSIM: 5G Yüksek Hızlı Veri, Dolaşım Ücreti Yok'
-  description: Abidjan, Yamoussoukro, Bouaké'da hızlı 5G ile Fildişi Sahili eSIM planlarını karşılaştırın. Turistler ve gezginler
-    için Orange & MTN & Moov kapsama rehberi. 1,99$'dan başlayan fiyatlarla anında QR aktivasyonu.
-  keywords: Fildişi Sahili eSIM, Fildişi Sahili eSIM satın al, en iyi Fildişi Sahili eSIM, Fildişi Sahili seyahat eSIM,
-    Orange Fildişi Sahili, MTN Fildişi Sahili, Moov Fildişi Sahili, Abidjan eSIM, Yamoussoukro eSIM, Bouaké eSIM, Fildişi
-    Sahili ön ödemeli eSIM, 5G Fildişi Sahili eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: 'Fildişi Sahili için eSIM: 5G Kapsama ve Hotspot'
+  description: 'Ucuz Fildişi Sahili eSIM: Abidjan, Yamoussoukro ve Bouaké''de 5G. QR kod ile 2 dakikada kurulum, 24/7 destek. 9,99$''dan fiyatlar.'
+  keywords: Fildişi Sahili eSIM, Fildişi Sahili eSIM planları, en iyi Fildişi Sahili eSIM, ucuz Fildişi Sahili eSIM, Fildişi Sahili eSIM çevrimiçi satın al, Fildişi Sahili eSIM veri planları, ön ödemeli Fildişi Sahili eSIM, Fildişi Sahili için en iyi eSIM, Fildişi Sahili eSIM fiyatı, Fildişi Sahili eSIM aktivasyonu, Fildişi Sahili eSIM kapsama alanı, Abidjan için en iyi eSIM, Abidjan eSIM, Yamoussoukro eSIM
+  low_price: 9.99
+  high_price: 31.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -157,6 +154,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🏙️
+    html: 'Abidjan ve Yamoussoukro''de en iyi kapsama: verilerinizi paylaşmak için hotspot dahildir.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -201,7 +200,7 @@ faq_section:
     - q: |
         Fildişi Sahili'ni ziyaret ederken eSIM için ne kadar bütçe ayırmalıyım?
       a: |
-        Roami, Fildişi Sahili eSIM'ini 7 günlük hafif plan için 1,99$'dan 30 gün sınırsız veri için 59,99$'a kadar sunar. Çoğu ziyaretçi 9,99$'lık 5GB/15 günlük planı tercih eder —günlük navigasyon, sosyal medya ve mesajlaşmayı stres olmadan karşılar. Yayın severler veya yoğun sosyal medya kullanıcıları 10GB veya sınırsız planı düşünmelidir. Orange, Fildişi Sahili genelinde güvenilir hızlar sağlar. Roami planları ön ödemelidir —sürpriz faturalar yok, otomatik yenileme yok, sadece net fiyatlandırma.
+        Fildişi Sahili için Roami planları 9.99$ (7 Gün, 1GB) ile 31.99$ (30 Gün, 5GB) arasında konumlanır. Çoğu ziyaretçi 31.99$ (30 Gün, 5GB) planını tercih eder — günlük navigasyon, sosyal medya ve mesajlaşmayı rahatça karşılar. Yayın severler veya yoğun sosyal medya kullanıcıları 10GB veya yüksek veri paketi düşünmelidir. Orange, Fildişi Sahili genelinde güvenilir hızlar sağlar. Roami planları ön ödemelidir —sürpriz faturalar yok, otomatik yenileme yok, sadece net fiyatlandırma.
     - q: |
         Fildişi Sahili'ni ziyaret eden bir turist için Orange, MTN ve Moov nasıl karşılaştırılır?
       a: |
@@ -215,9 +214,9 @@ faq_section:
       a: |
         Sadece geçerli bir ödeme yöntemi —kredi kartı, PayPal, Apple Pay veya Google Pay. Pasaport yüklemesi yok, adres doğrulaması yok, sözleşme yok. Çevrimiçi satın alın, QR kodunuzu dakikalar içinde e-posta ile alın ve doğrudan telefonunuza kurun.
     - q: |
-        Fildişi Sahili için 5GB plan ile sınırsız plan arasındaki fark nedir?
+        Fildişi Sahili için 5GB plan yeterli mi?
       a: |
-        5GB plan size sabit miktarda yüksek hızlı veri (toplam 5GB) verir. Kullanıldığında, ek paket satın alırsınız veya yeni bir plan satın alırsınız. Sınırsız plan veri sağlamaya devam eder, ancak adil kullanım politikası kapsamında bir günde 30GB'dan sonra hızlar düşebilir. Haritalar, mesajlaşma ve sosyal medya yapan çoğu gezgin için 5GB plan fazlasıyla yeterlidir.
+        5GB plan size sabit miktarda yüksek hızlı veri (toplam 5GB) verir. Kullanıldığında, ek paket satın alırsınız veya yeni bir plan satın alırsınız. Paketler sabit verilidir; her plan belirli bir veri hacmi sunar. Haritalar, mesajlaşma ve sosyal medya yapan çoğu gezgin için 5GB plan fazlasıyla yeterlidir.
     - q: |
         Fildişi Sahili eSIM'imi sosyal medya ve ailemle fotoğraf paylaşmak için kullanabilir miyim?
       a: |
@@ -226,55 +225,67 @@ faq_section:
         Fildişi Sahili eSIM kırsal alanlarda ve küçük kasabalarda çalışır mı?
       a: |
         Fildişi Sahili'nde kapsama kentsel alanların yaklaşık %95'ine ulaşır ancak uzak konumlarda düşer. Hızlar 200-300 Mbps'den (5G) 10-30 Mbps'ye (4G) düşebilir. Roami en güçlü ağa otomatik olarak geçer. Uzak bölgelere gitmeden önce çevrimdışı haritaları indirin.
+    - q: |
+        Abidjan ve Yamoussoukro'de Orange ağında eSIM hızı yeterli mi?
+      a: |
+        Evet; Abidjan ve Yamoussoukro merkezinde Roami eSIM Orange 5G/4G ağında çalışır ve tipik olarak 50-200 Mbps sunar. Görüntülü görüşme ve navigasyon için idealdir.
+    - q: |
+        Fildişi Sahili eSIM ile fiziksel SIM'i aynı anda kullanabilir miyim, Orange numaram çalışır mı?
+      a: |
+        Evet: veri eSIM'de, ses ve SMS kendi hattınızda kalır. Böylece Orange numaranız önemli aramaları almaya devam eder.
+    - q: |
+        Fildişi Sahili için eSIM kurulumu Orange SIM almaktan daha mı hızlı?
+      a: |
+        Evet: QR kodunu e-posta ile 5 dakikada alıp evde kurulur; Orange mağazasında beklemek gerekmez. Varışta eSIM otomatik olarak devreye girer.
 related_products:
-  title: İlgili Fildişi Sahili eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Kenya eSIM
+    flag: img/flags/ke.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Liberya eSIM
+    flag: img/flags/lr.svg
+    price: $27.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Madagaskar eSIM
+    flag: img/flags/mg.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Malawi eSIM
+    flag: img/flags/mw.svg
+    price: $14.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Mali eSIM
+    flag: img/flags/ml.svg
+    price: $27.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Nijer eSIM
+    flag: img/flags/ni.svg
+    price: $23.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Nijerya eSIM
+    flag: img/flags/ng.svg
+    price: $5.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Reunion Adası eSIM
+    flag: img/flags/re.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Sierra Leone eSIM
+    flag: img/flags/si.svg
+    price: $10.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Tanzanya eSIM
+    flag: img/flags/tz.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Tunus eSIM
+    flag: img/flags/tn.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Uganda eSIM
+    flag: img/flags/ug.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: false
 ---

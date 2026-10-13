@@ -1,6 +1,6 @@
 ---
 title: 'Bulgaristan eSIM 2026: Seyahat ve Ağ Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,10 +21,9 @@ seo:
   title: Bulgaristan eSIM | Nihai Seyahat Veri Planı
   description: Roami'nin en iyi ön ödemeli seyahat eSIM'i ile Bulgaristan'ı keşfedin. Ülke genelinde sınırsız 5G veri. Anında aktivasyon.
     Sofya, Filibe ve sahili kapsar.
-  keywords: Bulgaristan eSIM, Bulgaristan eSIM satın al, en iyi Bulgaristan eSIM, Bulgaristan seyahat eSIM, A1 Bulgaristan,
-    Telenor Bulgaristan, Vivacom Bulgaristan, Sofya eSIM, Filibe eSIM, Varna eSIM, Bulgaristan ön ödemeli eSIM, 5G Bulgaristan eSIM
+  keywords: Bulgaristan eSIM, Bulgaristan eSIM planları, en iyi Bulgaristan eSIM, ucuz Bulgaristan eSIM, Bulgaristan eSIM çevrimiçi satın al, sınırsız veri Bulgaristan eSIM, ön ödemeli Bulgaristan eSIM, Bulgaristan için en iyi eSIM, Bulgaristan eSIM fiyatı, Bulgaristan eSIM aktivasyonu, Bulgaristan eSIM kapsama alanı, Sofya için en iyi eSIM, Sofya eSIM, Filibe eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -345,6 +344,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🏙️
+    html: 'Sofya ve Filibe''de en iyi kapsama: verilerinizi paylaşmak için hotspot dahildir.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -385,7 +386,7 @@ faq_section:
     - q: |
         Bulgaristan eSIM sınırsız planı çok fazla veri kullanırsam yavaşlar mı?
       a: |
-        Adil kullanım politikası vardır: günde 30GB'den sonra hızlar düşer. Düşük hızda hala mesajlaşabilir, gezinebilir ve internette dolaşabilirsiniz —sadece pürüzsüz video yok. Gerçekçi olarak, çoğu gezgin 30GB'a yaklaşmaz. Endişeleniyorsanız, 10GB (14,99$) veya 20GB (24,99$) sabit plan belirsizliği tamamen ortadan kaldırır.
+        Adil kullanım politikası vardır: günde 30GB'den sonra hızlar düşer. Düşük hızda hala mesajlaşabilir, gezinebilir ve internette dolaşabilirsiniz —sadece pürüzsüz video yok. Gerçekçi olarak, çoğu gezgin 30GB'a yaklaşmaz. Endişeleniyorsanız, 10GB (11,99$) veya 20GB (24,99$) sabit plan belirsizliği tamamen ortadan kaldırır.
     - q: |
         Bulgaristan eSIM kaydı için pasaportumu yüklemek güvenli mi? Gizlilik konusunda endişeliyim.
       a: |
@@ -393,7 +394,7 @@ faq_section:
     - q: |
         Bulgaristan seyahati için en ucuz eSIM seçenekleri nelerdir?
       a: |
-        Roami Bulgaristan eSIM planları $1.99'dan (7 gün, 1GB) başlar ve $59.99'a (30 gün sınırsız) kadar çıkar. Tipik bir 5-7 günlük gezi için, $9.99'daki 5GB plan en ideal olanıdır —haritalar, mesajlaşma ve sosyal medya kontrolü için yeterlidir. Video izlemek veya uzaktan çalışmak mı istiyorsunuz? 10GB veya sınırsız tercih edin. A1'in 5G ağı sayesinde akış ve video aramalar harika çalışır. Havalimanı SIM gişeleri %30-50 daha pahalıdır ve sıra beklemeniz gerekir. Veri ihtiyaçlarınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek paket satın alın.
+        Bulgaristan için Roami planları 1.99$ (3 Gün, 1GB) ile 77.99$ (30 Gün, Sınırsız) arasında konumlanır. Tipik bir 5-7 günlük gezi için 6.99$ (3 Gün, 5GB) planı en ideal olanıdır — günlük harita, mesajlaşma ve sosyal medya için yeterlidir. Video izlemek veya uzaktan çalışmak mı istiyorsunuz? 100GB tercih edin. A1'in 5G ağı sayesinde akış ve video aramalar harika çalışır. Havalimanı SIM gişeleri %30-50 daha pahalıdır ve sıra beklemeniz gerekir. Veri ihtiyaçlarınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek paket satın alın.
     - q: |
         Bulgaristan eSIM'imde ne kadar veri kullandığımı kontrol edebilir miyim?
       a: |
@@ -414,55 +415,67 @@ faq_section:
         Bulgaristan eSIM'imin geçerlilik süresi ne zaman başlar?
       a: |
         Plan geçerliliği, satın aldığınızda veya kurduğunuzda değil, Bulgaristan'da yerel bir ağa bağlandığınızda başlar. Bu nedenle, seyahatinizden haftalar önce satın alabilir ve kurabilirsiniz, plan günlerinizi kaybetmezsiniz. 7 günlük bir plan size ilk bağlantıdan itibaren 7 tam gün verir.
+    - q: |
+        Sofya ve Filibe'de A1 Bulgaria ağında eSIM hızı yeterli mi?
+      a: |
+        Evet; Sofya ve Filibe merkezinde Roami eSIM A1 Bulgaria 5G/4G ağında çalışır ve tipik olarak 50-200 Mbps sunar. Görüntülü görüşme ve navigasyon için idealdir.
+    - q: |
+        Bulgaristan eSIM ile fiziksel SIM'i aynı anda kullanabilir miyim, A1 Bulgaria numaram çalışır mı?
+      a: |
+        Evet: veri eSIM'de, ses ve SMS kendi hattınızda kalır. Böylece A1 Bulgaria numaranız önemli aramaları almaya devam eder.
+    - q: |
+        Bulgaristan için eSIM kurulumu A1 Bulgaria SIM almaktan daha mı hızlı?
+      a: |
+        Evet: QR kodunu e-posta ile 5 dakikada alıp evde kurulur; A1 Bulgaria mağazasında beklemek gerekmez. Varışta eSIM otomatik olarak devreye girer.
 related_products:
-  title: İlgili Bulgaristan eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
+  - name: Hırvatistan eSIM
+    flag: img/flags/hr.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık eSIM
-    flag: img/flags/gb.svg
+  - name: Kıbrıs eSIM
+    flag: img/flags/cy.svg
+    price: $2.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Çek Cumhuriyeti eSIM
+    flag: img/flags/cz.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Danimarka eSIM
+    flag: img/flags/dk.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
+  - name: Estonya eSIM
+    flag: img/flags/ee.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Faroe Adaları eSIM
+    flag: img/flags/fo.svg
+    price: $5.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Finlandiya eSIM
+    flag: img/flags/fi.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Fransa eSIM
     flag: img/flags/fr.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
+  - name: Gürcistan eSIM
+    flag: img/flags/ge.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: true
   - name: Almanya eSIM
     flag: img/flags/de.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
+  - name: Cebelitarık eSIM
+    flag: img/flags/gi.svg
+    price: $5.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Yunanistan eSIM
+    flag: img/flags/gr.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
@@ -500,7 +513,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: A1 Max 19 gün geçerlidir (—,11/15GB); Vivacom Data2Go 28 gün geçerlidir (—2,89/80GB); çoğu plan 30 günlük döngüye sahiptir; 5 günlük bir gezi plan değerinin %80'inden fazlasını israf eder.
     esim_title: Esnek Kısa Süreli Planlar
-    esim_desc: A1'in 19 günlük döngüsünün (—,11/15GB) veya Vivacom'un 28 günlük döngüsünün (—2,89/80GB) aksine, Roami kısa gezilerde %75'e varan israftan tasarruf eden $1,99/GB'den başlayan 7 günlük planlar sunar.
+    esim_desc: A1'in 19 günlük döngüsünün (—,11/15GB) veya Vivacom'un 28 günlük döngüsünün (—2,89/80GB) aksine, Roami kısa gezilerde %75'e varan israftan tasarruf eden $2,99'dan başlayan 7 günlük planlar sunar.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''

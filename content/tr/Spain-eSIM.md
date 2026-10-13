@@ -1,6 +1,6 @@
 ---
 title: 'İspanya eSIM 2026: Yerel Operatör Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,12 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: İspanya eSIM | Hızlı ve Güvenilir Ön Ödemeli Veri Planı
-  description: İspanya için ön ödemeli seyahat eSIM'ine mi ihtiyacınız var? Roami, gezginler için en iyi sınırsız 5G veri
-    planını sunar. Anında etkinleştirme. Barselona, Madrid ve adaları kapsar.
-  keywords: İspanya eSIM, İspanya eSIM satın al, en iyi İspanya eSIM, İspanya seyahat eSIM, Movistar İspanya, Orange İspanya,
-    Vodafone İspanya, Madrid eSIM, Barselona eSIM, Valensiya eSIM, İspanya ön ödemeli eSIM, 5G İspanya eSIM
+  description: 'Roami İspanya eSIM: Madrid, Barselona kapsama, Movistar ağında 5G. Anında kurulum, hotspot dahil. 1,99$''dan başlar.'
+  keywords: İspanya eSIM, İspanya eSIM planları, en iyi İspanya eSIM, ucuz İspanya eSIM, İspanya eSIM çevrimiçi satın al, sınırsız veri İspanya eSIM, ön ödemeli İspanya eSIM, İspanya için en iyi eSIM, İspanya eSIM fiyatı, İspanya eSIM aktivasyonu, İspanya eSIM kapsama alanı, Madrid için en iyi eSIM, Madrid eSIM, Barselona eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -353,6 +351,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 📍
+    html: 'Madrid için eSIM''i varışta etkinleştirmenizi öneririz: geçerlilik ilk bağlantıda başlar.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -394,11 +394,7 @@ faq_section:
     - q: |
         Çok fazla harcamadan İspanya için eSIM alabilir miyim?
       a: |
-        Kesinlikle. Roami'nin İspanya eSIM planları sadece $1.99'dan başlar. 5GB/15 günlük seçenek ($9.99) gezginler arasında
-        en popüler olanıdır —haritalar, WhatsApp, Instagram ve e-posta ile rahatça başa çıkar. Yoğun veri kullanıcısıysanız,
-        10GB ($14.99) veya sınırsız ($59.99) planlar size gönül rahatlığı sağlar. Havalimanı SIM tezgahını atlamak size
-        %30-50 tasarruf ve sırada bekleme zahmetinden kurtarır. Ayarlamanız mı gerekiyor? Roami uygulamasından istediğiniz
-        zaman ek yükleme yapabilirsiniz.
+        Kesinlikle. Roami'nin İspanya eSIM planları sadece $1.99'dan başlar. Gezginler arasında en çok 6.99$ (7 Gün, 5GB) seçeneği tercih edilir — harita, WhatsApp, Instagram ve e-posta için yeterlidir. Yoğun veri kullanıcıları için 54.99$ (30 Gün, 100GB) planı daha rahat bir seçenektir. Havalimanı SIM tezgahını atlamak size %30-50 tasarruf ve sırada bekleme zahmetinden kurtarır. Ayarlamanız mı gerekiyor? Roami uygulamasından istediğiniz zaman ek yükleme yapabilirsiniz.
     - q: |
         İspanya'da eSIM'im için hangi operatöre güvenmeliyim?
       a: |
@@ -442,56 +438,68 @@ faq_section:
         Plan geçerliliği, satın aldığınız veya kurduğunuz zaman değil, İspanya'daki yerel bir ağa bağlandığınızda başlar.
         Yani seyahatinizden haftalar önce satın alıp kurabilir ve plan günlerinizden kaybetmezsiniz. 7 günlük bir plan,
         ilk bağlantıdan itibaren size 7 tam gün verir.
+    - q: |
+        İspanya genelinde Movistar ve Orange kapsaması eSIM ile nasıl çalışır?
+      a: |
+        Roami eSIM Movistar ve Orange ağlarını kullanır; Madrid, Barselona ve Valensiya'de 4G/5G mevcuttur. Şehir dışında bağlantı 4G hızında sabit kalır.
+    - q: |
+        Madrid ve Barselona'de Movistar ağında eSIM hızı yeterli mi?
+      a: |
+        Evet; Madrid ve Barselona merkezinde Roami eSIM Movistar 5G/4G ağında çalışır ve tipik olarak 50-200 Mbps sunar. Görüntülü görüşme ve navigasyon için idealdir.
+    - q: |
+        İspanya eSIM ile fiziksel SIM'i aynı anda kullanabilir miyim, Movistar numaram çalışır mı?
+      a: |
+        Evet: veri eSIM'de, ses ve SMS kendi hattınızda kalır. Böylece Movistar numaranız önemli aramaları almaya devam eder.
 related_products:
-  title: İlgili İspanya eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: $1.99’dan başlayan
+  - name: Andorra eSIM
+    flag: img/flags/ad.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: $1.99’dan başlayan
+  - name: Ermenistan eSIM
+    flag: img/flags/am.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: $1.99’dan başlayan
+  - name: Avusturya eSIM
+    flag: img/flags/at.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Azerbaycan eSIM
+    flag: img/flags/az.svg
+    price: $6.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Belarus eSIM
+    flag: img/flags/by.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Belçika eSIM
+    flag: img/flags/be.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Bosna Hersek eSIM
+    flag: img/flags/ba.svg
+    price: $30.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Bulgaristan eSIM
+    flag: img/flags/bg.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: $1.99’dan başlayan
+  - name: Hırvatistan eSIM
+    flag: img/flags/hr.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: $1.99’dan başlayan
+  - name: Kıbrıs eSIM
+    flag: img/flags/cy.svg
+    price: $2.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: $1.99’dan başlayan
+  - name: Çek Cumhuriyeti eSIM
+    flag: img/flags/cz.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: $1.99’dan başlayan
+  - name: Guam eSIM
+    flag: img/flags/gu.svg
+    price: $9.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'İspanya eSIM vs Yerel Ön Ödemeli SIM: Hangisi Daha Kullanışlı? —İspanya Gezginleri için En İyi eSIM'
@@ -535,8 +543,7 @@ market_analysis:
       —0/50GB, Orange —5/20GB). Vodafone'un —0 planını satın alan 7 günlük bir turist planın değerinin %75'ini israf
       eder.
     esim_title: Esnek Kısa Süreli Planlar
-    esim_desc: 7 günlük bir seyahat için %75 israf eden 28 günlük döngülerin (ör. Vodafone —0/50GB, Orange —5/20GB)
-      aksine, Roami $1.99/GB'dan başlayan 7 günlük planlar sunar.
+    esim_desc: 7 günlük bir seyahat için %75 israf eden 28 günlük döngülerin (ör. Vodafone —0/50GB, Orange —5/20GB) aksine, Roami $2.99'dan başlayan 7 günlük planlar sunar.
   - icon: wifi
     title: Paylaşım ve<br>Hız Politikaları
     prepaid_title: ''

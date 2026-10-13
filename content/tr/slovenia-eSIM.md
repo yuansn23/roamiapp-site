@@ -1,6 +1,6 @@
 ---
 title: 'Slovenya eSIM Veri Planı | 2026 En İyi Seyahat eSIM | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
 seo:
   title: 'Slovenya eSIM | Seyahatiniz İçin Ön Ödemeli Veri Planı'
-  description: 'Roami''nin en iyi ön ödemeli seyahat eSIM''i ile Slovenya''ya hazırlanın. Ülke genelinde sınırsız 5G veri. Anında aktivasyon. Ljubljana, Bled ve Maribor''u kapsar.'
-  keywords: 'Slovenya eSIM, eSIM Slovenya, ucuz eSIM Slovenya, seyahat internet Slovenya, A1 Slovenya, Telekom Slovenije, anında eSIM, dolaşım ücreti yok'
+  description: 'Roami Slovenya eSIM ile A1 ağında 5G kapsama. Ljubljana ve Maribor''de yüksek hız, gizli ücret yok. 1,99$''dan planlar.'
+  keywords: 'Slovenya eSIM, Slovenya eSIM planları, en iyi Slovenya eSIM, ucuz Slovenya eSIM, Slovenya eSIM çevrimiçi satın al, sınırsız veri Slovenya eSIM, ön ödemeli Slovenya eSIM, Slovenya için en iyi eSIM, Slovenya eSIM fiyatı, Slovenya eSIM aktivasyonu, Slovenya eSIM kapsama alanı, Ljubljana için en iyi eSIM, Ljubljana eSIM, Maribor eSIM'
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: 'Seçilen Plan'
   label_data: 'Dahil Olan Veri'
@@ -312,6 +312,8 @@ reminders:
     html: 'QR kodu e-posta adresinize gönderilecektir.'
   - icon: 🔄
     html: 'Aynı anda birden fazla eSIM kurabilirsiniz.'
+  - icon: 🏙️
+    html: 'Ljubljana ve Maribor''de en iyi kapsama: verilerinizi paylaşmak için hotspot dahildir.'
   compatibility_check:
     title: 'Hızlı Uyumluluk Kontrolü'
     desc: 'Telefonunuzun eSIM''i destekleyip desteklemediğinden emin değil misiniz? Hemen kendiniz kolayca kontrol edebilirsiniz:'
@@ -355,62 +357,74 @@ faq_section:
     - q: 'Slovenya eSIM''imi havaalanında kurabilir miyim, yoksa evden ayrılmadan önce mi yapmalıyım?'
       a: 'Ayrılmadan önce yapın —kurulum için internet bağlantısı gerekir ve yaklaşık 2 dakika sürer. eSIM QR kodu satın alımdan sonra 5 dakika içinde e-posta ile gelir. Slovenya havaalanında Veri Dolaşımını etkinleştirin ve 60 saniyeden kısa sürede çevrimiçi olursunuz.'
     - q: 'Slovenya için eSIM, uluslararası dolaşımdan daha mı ucuz?'
-      a: 'Evet —Roami eSIM, çoğu ev operatörünün dolaşım planlarından tipik olarak %80-90 daha ucuzdur. Slovenya için 5GB plan $9.99''dur, aynı veri için dolaşım kolayca 50$+ olabilir. Ayrıca kısıtlanmış dolaşım yerine yerel ağ hızlarına sahip olursunuz.'
+      a: 'Evet —Roami eSIM, çoğu ev operatörünün dolaşım planlarından tipik olarak %80-90 daha ucuzdur. Slovenya için 5GB plan $6.99''dur, aynı veri için dolaşım kolayca 50$+ olabilir. Ayrıca kısıtlanmış dolaşım yerine yerel ağ hızlarına sahip olursunuz.'
     - q: 'Slovenya eSIM''imi ne kadar önceden satın almalıyım?'
       a: 'İstediğiniz zaman satın alabilirsiniz —kapıda bile. QR kodu dakikalar içinde gelir. Evde WiFi''de kurabilmeniz için birkaç gün önceden satın almanızı öneririz. Plan yalnızca Slovenya''da bağlandığınızda etkinleşir, bu nedenle erken satın almak plan günlerinizi boşa harcamaz.'
     - q: 'Roami''den Slovenya eSIM satın almak için hangi belgelere ihtiyacım var?'
       a: 'Sadece geçerli bir ödeme yöntemi —kredi kartı, PayPal, Apple Pay veya Google Pay. Pasaport yüklemesi yok, adres doğrulaması yok, sözleşme yok. Çevrimiçi satın alın, QR kodunuzu dakikalar içinde e-posta ile alın ve doğrudan telefonunuza kurun.'
     - q: 'Slovenya''ya sadece 2-3 günlüğüne seyahat ediyorum. Hangi eSIM''i almalıyım?'
-      a: 'Kısa bir gezi için 1GB/7 gün planı ($1.99) haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB plan ($4.99) daha fazla alan sağlar. Her ikisi de anında etkinleşir ve ihtiyacınız olursa ek yükleme yapabilirsiniz.'
+      a: 'Kısa bir gezi için 1GB/7 gün planı ($2.99) haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB plan ($3.99) daha fazla alan sağlar. Her ikisi de anında etkinleşir ve ihtiyacınız olursa ek yükleme yapabilirsiniz.'
+    - q: |
+        Ljubljana'de A1 şebekesinde eSIM hızı nasıl?
+      a: |
+        Ljubljana'de Roami eSIM A1 5G/4G ağını kullanır; şehir merkezinde tipik hız 50-200 Mbps. Harita, sosyal medya ve görüntülü arama için uygundur.
+    - q: |
+        Slovenya eSIM'i kendi hattımla birlikte kullanabilir miyim, A1 hattım açık kalır mı?
+      a: |
+        Evet: veri eSIM üzerinden akar, kendi SIM'iniz arama ve SMS için açık kalır. Ayarlar'dan hangi hattın ses, SMS ve veri kullanacağını seçebilirsiniz.
+    - q: |
+        Yola çıkmadan Slovenya eSIM'i nasıl etkinleştiririm, A1 hattına geçiş ne zaman olur?
+      a: |
+        Çevrimiçi satın alın, QR kodunu e-posta ile 5 dakikada alın ve Ayarlar > Hücresel > eSIM Ekle'den tarayın. Evde Wi-Fi ile kurup Slovenya'de varışta etkinleştirin.
 related_products:
-  title: 'İlgili eSIM Planları'
+  title: İlgili eSIM Planları
   items:
-  - name: 'Amerika Birleşik Devletleri eSIM'
-    flag: img/flags/us.svg
-    price: From $1.99
+  - name: Bosna Hersek eSIM
+    flag: img/flags/ba.svg
+    price: $30.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Birleşik Krallık eSIM'
-    flag: img/flags/gb.svg
-    price: From $1.99
+  - name: Bulgaristan eSIM
+    flag: img/flags/bg.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Avrupa eSIM'
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Hırvatistan eSIM
+    flag: img/flags/hr.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: 'Kanada eSIM'
-    flag: img/flags/ca.svg
-    price: From $1.99
+  - name: Kıbrıs eSIM
+    flag: img/flags/cy.svg
+    price: $2.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Türkiye eSIM'
-    flag: img/flags/tr.svg
-    price: From $1.99
+  - name: Çek Cumhuriyeti eSIM
+    flag: img/flags/cz.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Çin eSIM'
-    flag: img/flags/cn.svg
-    price: From $1.99
+  - name: Danimarka eSIM
+    flag: img/flags/dk.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Japonya eSIM'
-    flag: img/flags/jp.svg
-    price: From $1.99
+  - name: Estonya eSIM
+    flag: img/flags/ee.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Hong Kong eSIM'
-    flag: img/flags/hk.svg
-    price: From $1.99
+  - name: Faroe Adaları eSIM
+    flag: img/flags/fo.svg
+    price: $5.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Fransa eSIM'
+  - name: Finlandiya eSIM
+    flag: img/flags/fi.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Fransa eSIM
     flag: img/flags/fr.svg
-    price: From $1.99
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'İspanya eSIM'
-    flag: img/flags/es.svg
-    price: From $1.99
+  - name: Gürcistan eSIM
+    flag: img/flags/ge.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Almanya eSIM'
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Avustralya eSIM'
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: Hindistan eSIM
+    flag: img/flags/in.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
 ---

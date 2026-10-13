@@ -1,6 +1,6 @@
 ---
 title: 'İrlanda eSIM 2026: Plan ve Kapsama Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: İrlanda eSIM | Kaşifler için En İyi Seyahat Veri Planı
-  description: Roami'nin en iyi ön ödemeli seyahat eSIM'i ile İrlanda'da bağlantıda kalın. Ülke genelinde sınırsız 5G veri. Anında QR aktivasyonu. Dublin, Cork ve Galway'i kapsar.
-  keywords: İrlanda eSIM, İrlanda eSIM satın al, en iyi İrlanda eSIM, İrlanda seyahat eSIM, Vodafone İrlanda, Three İrlanda, Eir İrlanda, Dublin eSIM, Cork eSIM, Limerick eSIM, İrlanda ön ödemeli eSIM, 5G İrlanda eSIM
+  description: 'İrlanda için ön ödemeli seyahat eSIM''i: Dublin, Cork ve tüm ülkede 5G. Pasaport kaydı yok. 1,99$''dan başlar.'
+  keywords: İrlanda eSIM, İrlanda eSIM planları, en iyi İrlanda eSIM, ucuz İrlanda eSIM, İrlanda eSIM çevrimiçi satın al, sınırsız veri İrlanda eSIM, ön ödemeli İrlanda eSIM, İrlanda için en iyi eSIM, İrlanda eSIM fiyatı, İrlanda eSIM aktivasyonu, İrlanda eSIM kapsama alanı, Dublin için en iyi eSIM, Dublin eSIM, Cork eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -338,6 +338,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🏙️
+    html: 'Dublin ve Cork''de en iyi kapsama: verilerinizi paylaşmak için hotspot dahildir.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -383,7 +385,7 @@ faq_section:
     - q: |
         İrlanda seyahati için en ucuz eSIM seçenekleri nelerdir?
       a: |
-        Roami İrlanda eSIM planları 1.99$'dan (7 gün, 1GB) başlar ve 59.99$'a (30 gün sınırsız) kadar çıkar. Tipik bir 5-7 günlük seyahat için 9.99$'lık 5GB plan en idealidir - haritalar, mesajlaşma ve sosyal medya kontrolü için yeterlidir. Video izlemek veya uzaktan çalışmak mı gerekiyor? 10GB veya sınırsız tercih edin. Vodafone'un 5G ağı sayesinde video izleme ve görüntülü aramalar harika çalışır. Havalimanı SIM büfeleri %30-50 daha pahalıdır ve sırada beklemeniz gerekir. Veri ihtiyaçlarınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek yükleme yapın.
+        İrlanda eSIM planlarımız 1.99$ (3 Gün, 1GB) ile 77.99$ (30 Gün, Sınırsız) arasında değişir. Kısa bir seyahat için 6.99$ (3 Gün, 5GB) planı idealdir — harita, mesajlaşma ve sosyal medya ihtiyacını karşılar. Video izlemek veya uzaktan çalışmak mı gerekiyor? 100GB tercih edin. Vodafone'un 5G ağı sayesinde video izleme ve görüntülü aramalar harika çalışır. Havalimanı SIM büfeleri %30-50 daha pahalıdır ve sırada beklemeniz gerekir. Veri ihtiyaçlarınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek yükleme yapın.
     - q: |
         İrlanda eSIM'ini son dakikada, uçağımdan hemen önce satın alabilir miyim?
       a: |
@@ -395,65 +397,77 @@ faq_section:
     - q: |
         İrlanda'ya sadece 2-3 günlüğüne seyahat ediyorum. Hangi eSIM'i almalıyım?
       a: |
-        Kısa bir seyahat için 1GB/7 günlük plan (1.99$) haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB plan (4.99$) daha fazla alan sağlar. Her ikisi de anında etkinleşir ve gerektiğinde ek yükleme yapabilirsiniz.
+        Kısa bir seyahat için 1GB/7 günlük plan (2.99$) haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB plan (3.99$) daha fazla alan sağlar. Her ikisi de anında etkinleşir ve gerektiğinde ek yükleme yapabilirsiniz.
     - q: |
         İrlanda için eSIM uluslararası dolaşımdan daha mı ucuz?
       a: |
-        Evet - Roami eSIM, çoğu ev taşıyıcısının dolaşım planlarından tipik olarak %80-90 daha ucuzdur. İrlanda için 5GB plan 9.99$ iken, aynı veri için dolaşım kolayca 50$+ olabilir. Ayrıca kısıtlı dolaşım yerine yerel ağ hızları elde edersiniz.
+        Evet - Roami eSIM, çoğu ev taşıyıcısının dolaşım planlarından tipik olarak %80-90 daha ucuzdur. İrlanda için 5GB plan 6.99$ iken, aynı veri için dolaşım kolayca 50$+ olabilir. Ayrıca kısıtlı dolaşım yerine yerel ağ hızları elde edersiniz.
     - q: |
         İrlanda'da sadece birkaç günlüğüne internet erişimine ihtiyacım var. Satın alabileceğim minimum nedir?
       a: |
         En ucuz plan 7 gün için 1GB ile 1.99$'dır - hafif kullanımlı kısa bir hafta sonu seyahati için mükemmeldir. Daha fazlasına ihtiyacınız varsa, uygulamadan istediğiniz zaman ek yükleme yapın.
+    - q: |
+        İrlanda seyahati için kaç GB yeter, Vodafone paketleriyle kıyaslanınca?
+      a: |
+        Hafif kullanım (harita, mesaj) için 3-5GB yeter; sosyal medya ve video için 10GB idealdir. Roami İrlanda planları 1,99$'dan başlar ve uygulamadan anında yükleme yapılır.
+    - q: |
+        İrlanda eSIM ile Vodafone turist SIM'i arasındaki fark ne?
+      a: |
+        Roami İrlanda eSIM 1,99$'dan başlar ve online alınır; Vodafone turist SIM'i genellikle mağaza ziyareti ve kayıt gerektirir. eSIM'de kuyruk ve aktivasyon beklemesi yoktur.
+    - q: |
+        İrlanda genelinde Vodafone ve Three kapsaması eSIM ile nasıl çalışır?
+      a: |
+        Roami eSIM Vodafone ve Three ağlarını kullanır; Dublin, Cork ve Limerick'de 4G/5G mevcuttur. Şehir dışında bağlantı 4G hızında sabit kalır.
 related_products:
-  title: İlgili İrlanda eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1.99$'dan itibaren
+  - name: İtalya eSIM
+    flag: img/flags/it.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1.99$'dan itibaren
+  - name: Kosova eSIM
+    flag: img/flags/xk.svg
+    price: $13.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1.99$'dan itibaren
+  - name: Letonya eSIM
+    flag: img/flags/lv.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Lihtenştayn eSIM
+    flag: img/flags/li.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Litvanya eSIM
+    flag: img/flags/lt.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Lüksemburg eSIM
+    flag: img/flags/lu.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1.99$'dan itibaren
+  - name: Malta eSIM
+    flag: img/flags/mt.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1.99$'dan itibaren
+  - name: Hollanda eSIM
+    flag: img/flags/nl.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1.99$'dan itibaren
+  - name: Norveç eSIM
+    flag: img/flags/no.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1.99$'dan itibaren
+  - name: Polonya eSIM
+    flag: img/flags/pl.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1.99$'dan itibaren
+  - name: Portekiz eSIM
+    flag: img/flags/pt.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1.99$'dan itibaren
+  - name: Romanya eSIM
+    flag: img/flags/ro.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'İrlanda eSIM vs Ön Ödemeli SIM: Hangisi Sizin İçin Uygun?'
@@ -489,7 +503,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Tüm büyük ön ödemeli planlar (Vodafone, Three, eir) €20'den başlayan 28 günlük döngüye sahiptir; 7 günlük bir turist planın değerinin %75'ini boşa harcar.
     esim_title: Esnek Kısa Vadeli Planlar
-    esim_desc: Vodafone'un 28 günlük döngüsünden (€20/10GB) farklı olarak, Roami 1.99$/GB'den başlayan 7 günlük planlar sunar, %75 israf tasarrufu sağlar.
+    esim_desc: Vodafone'un 28 günlük döngüsünden (€20/10GB) farklı olarak, Roami 2.99$'dan başlayan 7 günlük planlar sunar, %75 israf tasarrufu sağlar.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''
@@ -530,5 +544,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: 28 Günlük Planlarda %75 Batık Maliyeti Ortadan Kaldırın
-      desc: Vodafone, Three ve eir'in tümü <b>28 günlük döngüler</b> kullanır, <b>€20</b>'den başlar. 7 günlük bir turist planın <b>%75'ini</b> boşa harcar. Roami <b>$1.99/GB</b>'den başlayan <b>7 günlük</b> planlar sunar.
+      desc: Vodafone, Three ve eir'in tümü <b>28 günlük döngüler</b> kullanır, <b>€20</b>'den başlar. 7 günlük bir turist planın <b>%75'ini</b> boşa harcar. Roami <b>$2.99</b>'den başlayan <b>7 günlük</b> planlar sunar.
 ---

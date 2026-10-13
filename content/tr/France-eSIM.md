@@ -1,6 +1,6 @@
 ---
 title: 'Fransa eSIM 2026: Plan ve Kapsama Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,12 +20,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Fransa eSIM | Turistler İçin En İyi eSIM Planı
-  description: Roami'nin en iyi ön ödemeli seyahat eSIM'i ile Fransa'yı keşfedin. En iyi ağlarda sınırsız 5G veri. Planınızı
-    satın alın ve anında etkinleştirin. Paris, Nice ve ötesini kapsar.
-  keywords: Fransa eSIM, Fransa eSIM satın al, en iyi Fransa eSIM, Fransa seyahat eSIM, Orange Fransa, SFR Fransa, Bouygues
-    Telecom Fransa, Paris eSIM, Marsilya eSIM, Lyon eSIM, Fransa ön ödemeli eSIM, 5G Fransa eSIM
+  description: 'Fransa seyahati için eSIM: Orange ve SFR ağı, Paris''de 5G. Anında aktivasyon, iade garantisi. 1,99$''dan başlar.'
+  keywords: Fransa eSIM, Fransa eSIM planları, en iyi Fransa eSIM, ucuz Fransa eSIM, Fransa eSIM çevrimiçi satın al, sınırsız veri Fransa eSIM, ön ödemeli Fransa eSIM, Fransa için en iyi eSIM, Fransa eSIM fiyatı, Fransa eSIM aktivasyonu, Fransa eSIM kapsama alanı, Paris için en iyi eSIM, Paris eSIM, Marsilya eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 70.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -354,6 +352,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🗺️
+    html: 'Paris ve Marsilya''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -394,7 +394,7 @@ faq_section:
     - q: |
         Fransa seyahati için en ucuz eSIM seçenekleri nelerdir?
       a: |
-        Roami Fransa eSIM planları 1,99$'dan (7 gün, 1GB) başlar ve 59,99$'a (30 gün sınırsız) kadar çıkar. Tipik bir 5-7 günlük gezi için 9,99$'lık 5GB plan en iyi seçenektir —haritalar, mesajlaşma ve sosyal medya kontrolü için yeterlidir. Video izlemek veya uzaktan çalışmak mı gerekiyor? 10GB veya sınırsız planı tercih edin. Orange'ın 5G ağı sayesinde yayın ve video aramaları harika çalışır. Havaalanı SIM tezgahları %30-50 daha pahalıdır ve sırada beklemeniz gerekir. Veri ihtiyacınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek paket satın alın.
+        Roami'nin Fransa eSIM paketleri 1.99$ (3 Gün, 1GB) ile 70.99$ (30 Gün, Sınırsız) arasında sunulmaktadır. Kısa bir seyahat için 6.99$ (3 Gün, 5GB) planı idealdir — harita, mesajlaşma ve sosyal medya ihtiyacını karşılar. Video izlemek veya uzaktan çalışmak mı gerekiyor? 10GB veya sınırsız planı tercih edin. Orange'ın 5G ağı sayesinde yayın ve video aramaları harika çalışır. Havaalanı SIM tezgahları %30-50 daha pahalıdır ve sırada beklemeniz gerekir. Veri ihtiyacınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek paket satın alın.
     - q: |
         Fransa eSIM kaydı için pasaportumu yüklemek güvenli mi? Gizlilik konusunda endişeliyim.
       a: |
@@ -422,57 +422,69 @@ faq_section:
     - q: |
         Fransa'ya giden gezginler için en popüler eSIM seçeneği hangisidir?
       a: |
-        Fransa'ya giden çoğu gezgin 5GB/15 günlük planı (9,99$) tercih eder. Günlük navigasyon, sosyal medya ve mesajlaşma için yeterlidir. Daha uzun konaklamalar veya yoğun kullanım için 10GB (14,99$) veya sınırsız (59,99$) planlar harika seçeneklerdir. Tüm planlar dakikalar içinde etkinleşir ve 7/24 destek içerir.
+        Fransa'ya giden çoğu gezgin 5GB/15 günlük planı (7,99$) tercih eder. Günlük navigasyon, sosyal medya ve mesajlaşma için yeterlidir. Daha uzun konaklamalar veya yoğun kullanım için 10GB (10,99$) veya sınırsız (59,99$) planlar harika seçeneklerdir. Tüm planlar dakikalar içinde etkinleşir ve 7/24 destek içerir.
+    - q: |
+        Fransa eSIM ile fiziksel SIM'i aynı anda kullanabilir miyim, Orange numaram çalışır mı?
+      a: |
+        Evet: veri eSIM'de, ses ve SMS kendi hattınızda kalır. Böylece Orange numaranız önemli aramaları almaya devam eder.
+    - q: |
+        Fransa için eSIM kurulumu Orange SIM almaktan daha mı hızlı?
+      a: |
+        Evet: QR kodunu e-posta ile 5 dakikada alıp evde kurulur; Orange mağazasında beklemek gerekmez. Varışta eSIM otomatik olarak devreye girer.
+    - q: |
+        Fransa gezisi için kaç GB almalıyım, Orange paketlerine göre?
+      a: |
+        Günlük harita ve mesaj için 3-5GB, sosyal medya ve video için 10GB uygundur. Roami Fransa planları 1,99$'dan başlar ve Orange paketlerinden bağımsızdır.
 related_products:
-  title: İlgili Fransa eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Gürcistan eSIM
+    flag: img/flags/ge.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Almanya eSIM
     flag: img/flags/de.svg
-    price: 1,99$'dan başlayan fiyatlarla
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Cebelitarık eSIM
+    flag: img/flags/gi.svg
+    price: $5.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Yunanistan eSIM
+    flag: img/flags/gr.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Macaristan eSIM
+    flag: img/flags/hu.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: İzlanda eSIM
+    flag: img/flags/is.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: İrlanda eSIM
+    flag: img/flags/ie.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: İtalya eSIM
+    flag: img/flags/it.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kosova eSIM
+    flag: img/flags/xk.svg
+    price: $13.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Letonya eSIM
+    flag: img/flags/lv.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: true
+  - name: Lihtenştayn eSIM
+    flag: img/flags/li.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Litvanya eSIM
+    flag: img/flags/lt.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Fransa eSIM ve Ön Ödemeli SIM: Maliyet ve Kolaylık Karşılaştırması —Fransa Gezginleri İçin En İyi eSIM'
@@ -514,12 +526,9 @@ market_analysis:
   - icon: calendar-xmark
     title: Faturalandırma Döngüsü ve<br>Batık Maliyet
     prepaid_title: ''
-    prepaid_desc: Orange Holiday, 8,99—4GB/31 günden başlar; 10 günlük bir gezi 20 günden fazla geçerlilik süresini israf
-      eder. Bouygues, 19,90—15GB/15 gün ve 39,90—120GB/30 gün sunarak, yetersiz veri veya kullanılmayan günler için ödeme
-      arasında seçim yapmaya zorlar.
+    prepaid_desc: Orange Holiday, 8,99€/4GB/31 günden başlar; 10 günlük bir gezi 20 günden fazla geçerlilik süresini israf eder. Bouygues, 19,90€/15GB/15 gün ve 39,90€/120GB/30 gün sunarak, yetersiz veri veya kullanılmayan günler için ödeme arasında seçim yapmaya zorlar.
     esim_title: Esnek Planlar, İsraf Yok
-    esim_desc: Orange'ın 31 günlük döngüsünden (8,99—4GB) veya Bouygues'in 15 günlük minimumundan (19,90— farklı olarak,
-      Roami 1,99$/GB'dan başlayan 7 günlük planlar sunar, kısa geziler için %75'e varan israfı önler.
+    esim_desc: Orange'ın 31 günlük döngüsünden (8,99€/4GB) veya Bouygues'in 15 günlük minimumundan (19,90€ farklı olarak, Roami 2,99$'dan başlayan 7 günlük planlar sunar, kısa geziler için %75'e varan israfı önler.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''

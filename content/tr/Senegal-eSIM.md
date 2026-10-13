@@ -1,6 +1,6 @@
 ---
 title: 'Senegal eSIM 2026: Bağlantı ve Hız Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,18 +9,18 @@ country_meta:
   operators: Orange, Free, Tigo
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Dakar, Saint-Louis, Thiès, Touba, Mbour
-  main_packages: '3/7/15/30 Gün, Sınırsız Veri'
+  main_packages: '7/30 Gün, 1GB–5GB Veri'
 modal:
   title: 'Hizmet Yükseltildi!'
   btn_text: 'Devam'
   text_default: 'eSIM hizmetimiz <strong>PhoneSIMGo</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
   text_android: 'eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
 seo:
-  title: 'Senegal eSIM 2026: Batı Afrika Seyahati için Sınırsız 5G Veri'
-  description: 'Dakar, Saint-Louis, Thiès''de hızlı 5G ile Senegal eSIM planlarını karşılaştırın. Turistler ve seyahatçiler için Orange ve Free ve Tigo kapsama rehberi. $1.99''dan anında QR aktivasyonu.'
-  keywords: 'Senegal eSIM, Senegal eSIM satın al, en iyi Senegal eSIM, Senegal seyahat eSIM, Orange Senegal, Free Senegal, Tigo Senegal, Dakar eSIM, Saint-Louis eSIM, Thiès eSIM, Senegal ön ödemeli eSIM, 5G Senegal eSIM'
-  low_price: 1.99
-  high_price: 39.9
+  title: 'Senegal eSIM 2026: Batı Afrika için Yüksek Hızlı 5G Veri'
+  description: 'Senegal eSIM ile Dakar ve Saint-Louis''de bağlantıda kalın. Ön ödemeli, sözleşmesiz 5G veri. 12,99$''dan planlar.'
+  keywords: 'Senegal eSIM, Senegal eSIM planları, en iyi Senegal eSIM, ucuz Senegal eSIM, Senegal eSIM çevrimiçi satın al, Senegal eSIM veri planları, ön ödemeli Senegal eSIM, Senegal için en iyi eSIM, Senegal eSIM fiyatı, Senegal eSIM aktivasyonu, Senegal eSIM kapsama alanı, Dakar için en iyi eSIM, Dakar eSIM, Saint-Louis eSIM'
+  low_price: 12.99
+  high_price: 39.99
 order_summary:
   title: 'Seçilen Plan'
   label_data: 'Dahil Olan Veri'
@@ -147,6 +147,8 @@ reminders:
     html: 'QR kodu e-posta adresinize gönderilecektir.'
   - icon: 🔄
     html: 'Aynı anda birden fazla eSIM kurabilirsiniz.'
+  - icon: 📍
+    html: 'Dakar için eSIM''i varışta etkinleştirmenizi öneririz: geçerlilik ilk bağlantıda başlar.'
   compatibility_check:
     title: 'Hızlı Uyumluluk Kontrolü'
     desc: 'Telefonunuzun eSIM''i destekleyip desteklemediğinden emin değil misiniz? Hemen kendiniz kolayca kontrol edebilirsiniz:'
@@ -197,55 +199,67 @@ faq_section:
       a: 'Çoğu telefon 5-10 eSIM profili saklar. Senegal eSIM''inizi kendi SIM''iniz ve diğer ülke profillerinizle birlikte saklayabilirsiniz. İhtiyacınız olanı etkinleştirin ve diğerlerini devre dışı bırakın. Aralarında geçiş yapmak telefon ayarlarınızda yaklaşık 10 saniye sürer.'
     - q: 'Senegal eSIM''ini son dakikada, uçuşumdan hemen önce satın alabilir miyim?'
       a: 'Evet —QR kodu satın alımdan dakikalar içinde e-posta ile gönderilir. Havaalanı kapısında satın alabilir ve uçakta WiFi kullanarak kurabilirsiniz. Senegal''e indiğinizde, sadece Veri Dolaşımını etkinleştirin ve hemen çevrimiçi olursunuz.'
+    - q: |
+        Senegal için eSIM kurulumu Orange SIM almaktan daha mı hızlı?
+      a: |
+        Evet: QR kodunu e-posta ile 5 dakikada alıp evde kurulur; Orange mağazasında beklemek gerekmez. Varışta eSIM otomatik olarak devreye girer.
+    - q: |
+        Senegal gezisi için kaç GB almalıyım, Orange paketlerine göre?
+      a: |
+        Günlük harita ve mesaj için 3-5GB, sosyal medya ve video için 10GB uygundur. Roami Senegal planları 12,99$'dan başlar ve Orange paketlerinden bağımsızdır.
+    - q: |
+        Senegal eSIM fiyatı Orange ön ödemeli SIM'e kıyasla nasıl?
+      a: |
+        Roami Senegal planları 12,99$'dan başlar ve çevrimiçi birkaç tıkla alınır. Orange mağazasında sıra beklemek ve yerel ön ödemeli SIM'lerde sık görülen kayıt/aktivasyon ücreti gerekmez.
 related_products:
-  title: 'İlgili eSIM Planları'
+  title: İlgili eSIM Planları
   items:
-  - name: 'Amerika Birleşik Devletleri eSIM'
-    flag: img/flags/us.svg
-    price: From $1.99
+  - name: Uganda eSIM
+    flag: img/flags/ug.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Birleşik Krallık eSIM'
-    flag: img/flags/gb.svg
-    price: From $1.99
+  - name: Cezayir eSIM
+    flag: img/flags/dz.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Avrupa eSIM'
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Botsvana eSIM
+    flag: img/flags/bw.svg
+    price: $14.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Burkina Faso eSIM
+    flag: img/flags/bf.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kamerun eSIM
+    flag: img/flags/cm.svg
+    price: $27.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Çad eSIM
+    flag: img/flags/td.svg
+    price: $23.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kongo (Kinşasa) eSIM
+    flag: img/flags/cg.svg
+    price: $7.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Mısır eSIM
+    flag: img/flags/eg.svg
+    price: $2.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Esvatini eSIM
+    flag: img/flags/sz.svg
+    price: $19.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Gabon eSIM
+    flag: img/flags/ga.svg
+    price: $14.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Gana eSIM
+    flag: img/flags/gh.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: 'Kanada eSIM'
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Türkiye eSIM'
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Çin eSIM'
+  - name: Çin eSIM
     flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Japonya eSIM'
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Hong Kong eSIM'
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Fransa eSIM'
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'İspanya eSIM'
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Almanya eSIM'
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Avustralya eSIM'
-    flag: img/flags/au.svg
-    price: From $1.99
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 ---

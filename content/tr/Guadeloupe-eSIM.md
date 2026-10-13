@@ -1,6 +1,6 @@
 ---
 title: 'Guadeloupe eSIM 2026: Şehir ve Ağ Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,13 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: 'Guadeloupe eSIM: 5G Kapsama, Kimlik Doğrulaması Gerekmez'
-  description: Pointe-à-Pitre, Basse-Terre, Le Gosier'da hızlı 5G ile Guadeloupe eSIM planlarını karşılaştırın. Turistler
-    ve gezginler için Orange & SFR & Free Mobile kapsama rehberi. 1,99$'dan başlayan fiyatlarla anında QR aktivasyonu.
-  keywords: Guadeloupe eSIM, Guadeloupe eSIM satın al, en iyi Guadeloupe eSIM, Guadeloupe seyahat eSIM, Orange Guadeloupe,
-    SFR Guadeloupe, Free Mobile Guadeloupe, Pointe-à-Pitre eSIM, Basse-Terre eSIM, Le Gosier eSIM, Guadeloupe ön ödemeli
-    eSIM, 5G Guadeloupe eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Guadeloupe eSIM ile Pointe-à-Pitre ve Basse-Terre'de bağlantıda kalın. Ön ödemeli, sözleşmesiz 5G veri. 8,99$'dan planlar.
+  keywords: Guadeloupe eSIM, Guadeloupe eSIM planları, en iyi Guadeloupe eSIM, ucuz Guadeloupe eSIM, Guadeloupe eSIM çevrimiçi satın al, sınırsız veri Guadeloupe eSIM, ön ödemeli Guadeloupe eSIM, Guadeloupe için en iyi eSIM, Guadeloupe eSIM fiyatı, Guadeloupe eSIM aktivasyonu, Guadeloupe eSIM kapsama alanı, Pointe-à-Pitre için en iyi eSIM, Pointe-à-Pitre eSIM, Basse-Terre eSIM
+  low_price: 8.99
+  high_price: 64.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -183,6 +180,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🗺️
+    html: 'Pointe-à-Pitre ve Basse-Terre''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -251,56 +250,68 @@ faq_section:
     - q: |
         Guadeloupe'ya sadece 2-3 günlüğüne seyahat ediyorum. Hangi eSIM'i almalıyım?
       a: |
-        Kısa bir gezi için 1GB/7 günlük plan (1,99$) haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB'lık plan (4,99$) size daha fazla alan sağlar. Her ikisi de anında etkinleşir ve ihtiyaç halinde ek paket satın alabilirsiniz.
+        Kısa bir gezi için 1GB/7 günlük plan (8,99$) haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB'lık plan (4,99$) size daha fazla alan sağlar. Her ikisi de anında etkinleşir ve ihtiyaç halinde ek paket satın alabilirsiniz.
+    - q: |
+        Guadeloupe eSIM ile Orange turist SIM'i arasındaki fark ne?
+      a: |
+        Roami Guadeloupe eSIM 8,99$'dan başlar ve online alınır; Orange turist SIM'i genellikle mağaza ziyareti ve kayıt gerektirir. eSIM'de kuyruk ve aktivasyon beklemesi yoktur.
+    - q: |
+        Guadeloupe genelinde Orange ve SFR kapsaması eSIM ile nasıl çalışır?
+      a: |
+        Roami eSIM Orange ve SFR ağlarını kullanır; Pointe-à-Pitre, Basse-Terre ve Le Gosier'de 4G/5G mevcuttur. Şehir dışında bağlantı 4G hızında sabit kalır.
+    - q: |
+        Pointe-à-Pitre ve Basse-Terre'de Orange ağında eSIM hızı yeterli mi?
+      a: |
+        Evet; Pointe-à-Pitre ve Basse-Terre merkezinde Roami eSIM Orange 5G/4G ağında çalışır ve tipik olarak 50-200 Mbps sunar. Görüntülü görüşme ve navigasyon için idealdir.
 related_products:
-  title: İlgili Guadeloupe eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Guatemala eSIM
+    flag: img/flags/gt.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Honduras eSIM
+    flag: img/flags/hn.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Jamaika eSIM
+    flag: img/flags/jm.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Panama eSIM
+    flag: img/flags/pa.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Porto Riko eSIM
+    flag: img/flags/pu.svg
+    price: $6.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Bahamalar eSIM
+    flag: img/flags/bs.svg
+    price: $16.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Barbados eSIM
+    flag: img/flags/bb.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Kosta Rika eSIM
+    flag: img/flags/cr.svg
+    price: $9.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Dominika eSIM
+    flag: img/flags/dm.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Dominik Cumhuriyeti eSIM
+    flag: img/flags/do.svg
+    price: $5.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: El Salvador eSIM
+    flag: img/flags/sv.svg
+    price: $23.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Grenada eSIM
+    flag: img/flags/gd.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
 ---

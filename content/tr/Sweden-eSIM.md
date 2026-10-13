@@ -1,6 +1,6 @@
 ---
 title: 'İsveç eSIM 2026: Bağlantı ve Hız Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
 seo:
   title: 'İsveç eSIM | Seyahatçiler için Sınırsız Veri Planı'
-  description: 'Roami''nin en iyi ön ödemeli seyahat eSIM''i ile İsveç''te bağlantıda kalın. Ülke genelinde sınırsız 5G veri. Anında aktivasyon. Stockholm ve Gothenburg''u kapsar.'
-  keywords: 'İsveç eSIM, İsveç eSIM satın al, en iyi İsveç eSIM, İsveç seyahat eSIM, Telia İsveç, Telenor İsveç, Tele2 İsveç, Stockholm eSIM, Gothenburg eSIM, Malmö eSIM, İsveç ön ödemeli eSIM, 5G İsveç eSIM'
+  description: 'İsveç eSIM planlarını karşılaştırın: Telia ağı, Stockholm ve Gothenburg''de hızlı 5G. Anında QR aktivasyonu. 1,99$''dan başlayan fiyatlar.'
+  keywords: 'İsveç eSIM, İsveç eSIM planları, en iyi İsveç eSIM, ucuz İsveç eSIM, İsveç eSIM çevrimiçi satın al, sınırsız veri İsveç eSIM, ön ödemeli İsveç eSIM, İsveç için en iyi eSIM, İsveç eSIM fiyatı, İsveç eSIM aktivasyonu, İsveç eSIM kapsama alanı, Stockholm için en iyi eSIM, Stockholm eSIM, Gothenburg eSIM'
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: 'Seçilen Plan'
   label_data: 'Dahil Olan Veri'
@@ -336,6 +336,8 @@ reminders:
     html: 'QR kodu e-posta adresinize gönderilecektir.'
   - icon: 🔄
     html: 'Aynı anda birden fazla eSIM kurabilirsiniz.'
+  - icon: 🏙️
+    html: 'Stockholm ve Gothenburg''de en iyi kapsama: verilerinizi paylaşmak için hotspot dahildir.'
   compatibility_check:
     title: 'Hızlı Uyumluluk Kontrolü'
     desc: 'Telefonunuzun eSIM''i destekleyip desteklemediğinden emin değil misiniz? Hemen kendiniz kolayca kontrol edebilirsiniz:'
@@ -373,7 +375,7 @@ faq_section:
     - q: 'İsveç''de eSIM kullanmak için pasaport veya kimlik belgesine ihtiyacım var mı? Doğrulama nasıl çalışır?'
       a: 'Evet, İsveç eSIM için kimlik doğrulaması gerektirir. İsveç ön ödemeli SIM kartlar için KYC doğrulaması gerektirir. Pasaport gereklidir. Birçok seyahatçi bunu ancak vardıktan sonra öğrenir ve ardından onay beklerken havaalanı WiFi''si ile uğraşır. Gitmeden önce doğrulamayı tamamlayın —yaklaşık 5-10 dakika sürer. Ayrıca, bazı telefonlar Telia''nın ağı ile diğerlerinden daha iyi çalışır —[eSIM uyumluluğu](/compatibility/) sayfamızı kontrol edin.'
     - q: 'İsveç''i ziyaret ederken eSIM için ne kadar bütçe ayırmalıyım?'
-      a: 'Roami, 7 günlük hafif plan için $1.99''dan 30 gün sınırsız veri için $59.99''a kadar İsveç eSIM sunar. Çoğu ziyaretçi 5GB/15 gün planını $9.99''dan seçer —günlük navigasyon, sosyal medya ve mesajlaşmayı sorunsuz karşılar. Yayın hayranları veya yoğun sosyal medya kullanıcıları 10GB veya sınırsız düşünmelidir. Telia, İsveç genelinde güvenilir hızlar sağlar. Roami planları ön ödemelidir —sürpriz faturalar yok, otomatik yenileme yok, sadece net fiyatlandırma.'
+      a: 'Roami İsveç eSIM planları 1.99$ (3 Gün, 1GB) ile 78.99$ (30 Gün, Sınırsız) arasında sunulur. Çoğu ziyaretçi 5GB/15 gün planını $7.99''dan seçer —günlük navigasyon, sosyal medya ve mesajlaşmayı sorunsuz karşılar. Yayın hayranları veya yoğun sosyal medya kullanıcıları 10GB veya sınırsız düşünmelidir. Telia, İsveç genelinde güvenilir hızlar sağlar. Roami planları ön ödemelidir —sürpriz faturalar yok, otomatik yenileme yok, sadece net fiyatlandırma.'
     - q: 'İsveç''de eSIM kullanırken kendi SIM''imi telefonumda tutabilir miyim?'
       a: 'Evet —kendi SIM''iniz SMS (banka kodları, 2FA girişleri) için yuva 1''de kalır. eSIM, yuva 2''de veri işler. MB başına $10-15''e varan ücretlerden kaçınmak için kendi SIM''inizde veri dolaşımını devre dışı bırakın.'
     - q: 'İsveç eSIM''im indiğim anda çalışır mı, yoksa aktivasyon gecikmesi var mı?'
@@ -386,56 +388,68 @@ faq_section:
       a: 'Sorun değil. QR kodunu yeniden indirmek için Roami hesabınıza giriş yapın —yaklaşık 1 dakika sürer. İlk aldığınızda ekran görüntüsü veya PDF olarak kaydetmenizi öneririz, her ihtimale karşı.'
     - q: 'İsveç seyahati için eSIM, cepten WiFi ile karşılaştırıldığında nasıldır?'
       a: 'eSIM rahatlık konusunda kazanır. Taşınacak, şarj edilecek veya seyahatinizin sonunda iade edilecek cihaz yok —cepten WiFi kiralamaya kıyasla günde yaklaşık $3-5 tasarruf sağlar. Cepten WiFi 3+ kişilik gruplar için çalışır, ancak tek bir cihaza bağlısınızdır ve 6-8 saat şarjlı tutmanız gerekir. eSIM ile telefonunuz sıcak noktanızdır. Tüm Roami planları 5 cihaza kadar ücretsiz sıcak nokta paylaşımı içerir.'
+    - q: |
+        Stockholm ve Gothenburg'de Telia ağında eSIM hızı yeterli mi?
+      a: |
+        Evet; Stockholm ve Gothenburg merkezinde Roami eSIM Telia 5G/4G ağında çalışır ve tipik olarak 50-200 Mbps sunar. Görüntülü görüşme ve navigasyon için idealdir.
+    - q: |
+        İsveç eSIM ile fiziksel SIM'i aynı anda kullanabilir miyim, Telia numaram çalışır mı?
+      a: |
+        Evet: veri eSIM'de, ses ve SMS kendi hattınızda kalır. Böylece Telia numaranız önemli aramaları almaya devam eder.
+    - q: |
+        İsveç için eSIM kurulumu Telia SIM almaktan daha mı hızlı?
+      a: |
+        Evet: QR kodunu e-posta ile 5 dakikada alıp evde kurulur; Telia mağazasında beklemek gerekmez. Varışta eSIM otomatik olarak devreye girer.
 related_products:
-  title: 'İlgili İsveç eSIM Planları'
+  title: İlgili eSIM Planları
   items:
-  - name: 'Amerika Birleşik Devletleri eSIM'
-    flag: img/flags/us.svg
-    price: From $1.99
+  - name: Andorra eSIM
+    flag: img/flags/ad.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Birleşik Krallık eSIM'
-    flag: img/flags/gb.svg
-    price: From $1.99
+  - name: Ermenistan eSIM
+    flag: img/flags/am.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Avrupa eSIM'
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Avusturya eSIM
+    flag: img/flags/at.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Azerbaycan eSIM
+    flag: img/flags/az.svg
+    price: $6.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Belarus eSIM
+    flag: img/flags/by.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Belçika eSIM
+    flag: img/flags/be.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Bosna Hersek eSIM
+    flag: img/flags/ba.svg
+    price: $30.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Bulgaristan eSIM
+    flag: img/flags/bg.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Hırvatistan eSIM
+    flag: img/flags/hr.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: 'Kanada eSIM'
-    flag: img/flags/ca.svg
-    price: From $1.99
+  - name: Kıbrıs eSIM
+    flag: img/flags/cy.svg
+    price: $2.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Türkiye eSIM'
-    flag: img/flags/tr.svg
-    price: From $1.99
+  - name: Çek Cumhuriyeti eSIM
+    flag: img/flags/cz.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Çin eSIM'
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Japonya eSIM'
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Hong Kong eSIM'
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Fransa eSIM'
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'İspanya eSIM'
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Almanya eSIM'
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Avustralya eSIM'
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: Guatemala eSIM
+    flag: img/flags/gt.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'İsveç eSIM veya Turistler için SIM Kart: Hangisini Seçmelisiniz?'
@@ -471,7 +485,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 'Ana akım planlar 30 veya 31 günlük döngülerdir (ör. Telenor Fastpris 149 SEK/5GB, Telia 199 SEK/3GB). Telenor''un 149 SEK/5GB planını satın alan 7 günlük bir turist planın değerinin %75''inden fazlasını israf eder.'
     esim_title: 'Esnek Kısa Vadeli Planlar'
-    esim_desc: '7 günlük bir gezi için %75 israf ettiren Telenor''un 31 günlük döngüsünün (149 SEK/5GB) aksine, Roami $1.99/GB''den başlayan 7 günlük planlar sunar, para tasarrufu sağlar ve otomatik yenilemeden kaçınır.'
+    esim_desc: '7 günlük bir gezi için %75 israf ettiren Telenor''un 31 günlük döngüsünün (149 SEK/5GB) aksine, Roami $2.99''dan başlayan 7 günlük planlar sunar, para tasarrufu sağlar ve otomatik yenilemeden kaçınır.'
   - icon: wifi
     title: 'Sıcak Nokta ve<br>Hız Politikaları'
     prepaid_title: ''
@@ -512,5 +526,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: '30 Günlük Planlardan Batık Maliyeti Ortadan Kaldırın'
-      desc: 'Telenor''un Fastpris 149 SEK/5GB ve Telia''nın 199 SEK/3GB planları <b>31 günlük</b> döngülerdir. 7 günlük bir turist planın <b>%75''inden fazlasını</b> israf eder. Roami, kısa gezilerle mükemmel şekilde eşleşen <b>$1.99/GB</b>''den başlayan 7 günlük planlar sunar.'
+      desc: 'Telenor''un Fastpris 149 SEK/5GB ve Telia''nın 199 SEK/3GB planları <b>31 günlük</b> döngülerdir. 7 günlük bir turist planın <b>%75''inden fazlasını</b> israf eder. Roami, kısa gezilerle mükemmel şekilde eşleşen <b>$2.99</b>''den başlayan 7 günlük planlar sunar.'
 ---

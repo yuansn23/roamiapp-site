@@ -1,6 +1,6 @@
 ---
 title: 'Hollanda eSIM 2026: Kapsama ve Hız Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
 seo:
   title: 'Hollanda eSIM | Seyahatiniz İçin Ön Ödemeli Veri Planı'
-  description: 'Roami''nin en iyi ön ödemeli seyahat eSIM''i ile Hollanda''da bağlantıda kalın. Ülke genelinde sınırsız 5G veri. Anında QR aktivasyonu. Amsterdam ve tüm şehirleri kapsar.'
-  keywords: 'Hollanda eSIM, Hollanda eSIM satın al, en iyi Hollanda eSIM, Hollanda seyahat eSIM, KPN Hollanda, Vodafone Hollanda, T-Mobile Hollanda, Amsterdam eSIM, Rotterdam eSIM, Lahey eSIM, Hollanda ön ödemeli eSIM, 5G Hollanda eSIM'
+  description: 'Hollanda eSIM planları 1,99$''dan başlar. Amsterdam ve Rotterdam''de hızlı 5G, sözleşme yok, hotspot dahil. Anında etkinleştirme.'
+  keywords: 'Hollanda eSIM, Hollanda eSIM planları, en iyi Hollanda eSIM, ucuz Hollanda eSIM, Hollanda eSIM çevrimiçi satın al, sınırsız veri Hollanda eSIM, ön ödemeli Hollanda eSIM, Hollanda için en iyi eSIM, Hollanda eSIM fiyatı, Hollanda eSIM aktivasyonu, Hollanda eSIM kapsama alanı, Amsterdam için en iyi eSIM, Amsterdam eSIM, Rotterdam eSIM'
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: 'Seçilen Plan'
   label_data: 'Dahil Olan Veri'
@@ -336,6 +336,8 @@ reminders:
     html: 'QR kodu e-posta adresinize gönderilecektir.'
   - icon: 🔄
     html: 'Aynı anda birden fazla eSIM kurabilirsiniz.'
+  - icon: 🗺️
+    html: 'Amsterdam ve Rotterdam''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: 'Hızlı Uyumluluk Kontrolü'
     desc: 'Telefonunuzun eSIM''i destekleyip desteklemediğinden emin değil misiniz? Hemen kendiniz kolayca kontrol edebilirsiniz:'
@@ -381,61 +383,73 @@ faq_section:
     - q: 'Hollanda''da eSIM kullanırken kendi SIM''imi telefonumda tutabilir miyim?'
       a: 'Evet —kendi SIM''iniz SMS (banka kodları, 2FA girişleri) için yuva 1''de kalır. eSIM, yuva 2''de veri işler. MB başına $10-15''e varan ücretlerden kaçınmak için kendi SIM''inizde veri dolaşımını devre dışı bırakın.'
     - q: 'Hollanda''da sadece birkaç günlüğüne internet erişimine ihtiyacım var. Satın alabileceğim en düşük plan nedir?'
-      a: 'En ucuz plan, 1GB ile 7 gün için $1.99''dur —hafif kullanımlı kısa bir hafta sonu gezisi için mükemmel. Daha fazlasına ihtiyacınız varsa, uygulamadan istediğiniz zaman ek yükleme yapabilirsiniz.'
+      a: 'En ucuz plan, 1GB ile 7 gün için $2.99''dur —hafif kullanımlı kısa bir hafta sonu gezisi için mükemmel. Daha fazlasına ihtiyacınız varsa, uygulamadan istediğiniz zaman ek yükleme yapabilirsiniz.'
     - q: 'WhatsApp ve FaceTime Hollanda''da eSIM ile çalışır mı?'
       a: 'Evet —tüm veri tabanlı uygulamalar eSIM üzerinden mükemmel çalışır. WhatsApp aramaları ses için dakikada yaklaşık 1MB ve video için dakikada 5-8MB kullanır. FaceTime, Zoom, Google Haritalar, Instagram —her şey kısıtlama olmaksızın eSIM veri bağlantısı üzerinden çalışır. KPN''nin ağı görüntülü aramaları sorunsuz şekilde yönetir. 5GB plan yaklaşık 500 saat WhatsApp sesli arama veya 10 saat FaceTime görüntülü görüşme sağlar.'
     - q: 'Roami''den Hollanda eSIM satın aldığımda neler dahildir?'
       a: '5 dakika içinde QR kodu teslimi, KPN ağına erişim, 7/24 müşteri desteği ve 5 cihaza kadar ücretsiz sıcak nokta. Planlar $1.99''dan başlar. Sözleşme yok, gizli ücret yok, otomatik yenileme yok.'
+    - q: |
+        Hollanda eSIM'i kendi hattımla birlikte kullanabilir miyim, KPN hattım açık kalır mı?
+      a: |
+        Evet: veri eSIM üzerinden akar, kendi SIM'iniz arama ve SMS için açık kalır. Ayarlar'dan hangi hattın ses, SMS ve veri kullanacağını seçebilirsiniz.
+    - q: |
+        Yola çıkmadan Hollanda eSIM'i nasıl etkinleştiririm, KPN hattına geçiş ne zaman olur?
+      a: |
+        Çevrimiçi satın alın, QR kodunu e-posta ile 5 dakikada alın ve Ayarlar > Hücresel > eSIM Ekle'den tarayın. Evde Wi-Fi ile kurup Hollanda'de varışta etkinleştirin.
+    - q: |
+        Hollanda seyahati için kaç GB yeter, KPN paketleriyle kıyaslanınca?
+      a: |
+        Hafif kullanım (harita, mesaj) için 3-5GB yeter; sosyal medya ve video için 10GB idealdir. Roami Hollanda planları 1,99$'dan başlar ve uygulamadan anında yükleme yapılır.
 related_products:
-  title: 'İlgili Hollanda eSIM Planları'
+  title: İlgili eSIM Planları
   items:
-  - name: 'Amerika Birleşik Devletleri eSIM'
-    flag: img/flags/us.svg
-    price: From $1.99
+  - name: Romanya eSIM
+    flag: img/flags/ro.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Birleşik Krallık eSIM'
-    flag: img/flags/gb.svg
-    price: From $1.99
+  - name: Rusya eSIM
+    flag: img/flags/ru.svg
+    price: $2.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Avrupa eSIM'
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: 'Kanada eSIM'
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Türkiye eSIM'
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Çin eSIM'
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Japonya eSIM'
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Hong Kong eSIM'
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Fransa eSIM'
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'İspanya eSIM'
+  - name: İspanya eSIM
     flag: img/flags/es.svg
-    price: From $1.99
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Almanya eSIM'
-    flag: img/flags/de.svg
-    price: From $1.99
+  - name: İsviçre eSIM
+    flag: img/flags/ch.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: true
+  - name: Türkiye eSIM
+    flag: img/flags/tr.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Avustralya eSIM'
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: Ukrayna eSIM
+    flag: img/flags/ua.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: BK eSIM
+    flag: img/flags/gb.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Vatikan Şehri eSIM
+    flag: img/flags/va.svg
+    price: $10.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Arnavutluk eSIM
+    flag: img/flags/al.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Andorra eSIM
+    flag: img/flags/ad.svg
+    price: $6.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Ermenistan eSIM
+    flag: img/flags/am.svg
+    price: $7.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Avusturya eSIM
+    flag: img/flags/at.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Hollanda eSIM vs Ön Ödemeli SIM: Hangisi Daha İyi Değer Sunar?'
@@ -471,7 +485,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 'KPN 1 gün (—.99) veya 31 gün (—4.99) planlar sunar; Vodafone''un 30 gün sınırsız (—4) planı 7 günlük bir gezi için %75 değer kaybettirir.'
     esim_title: 'Esnek Günlük Planlar'
-    esim_desc: '7 günlük bir gezi için %75 değer kaybettiren Vodafone''un 30 gün —4 planının aksine, Roami $1.99/GB''den başlayan 7 günlük planlar sunarak size tasarruf sağlar.'
+    esim_desc: '7 günlük bir gezi için %75 değer kaybettiren Vodafone''un 30 gün —4 planının aksine, Roami $2.99''dan başlayan 7 günlük planlar sunarak size tasarruf sağlar.'
   - icon: wifi
     title: 'Sıcak Nokta ve<br>Hız Politikaları'
     prepaid_title: ''

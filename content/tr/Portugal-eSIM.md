@@ -1,6 +1,6 @@
 ---
 title: 'Portekiz eSIM 2026: Kapsamlı Seyahat Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
 seo:
   title: 'Portekiz eSIM | Turistler için En İyi eSIM Planı'
-  description: 'Roami''nin en iyi ön ödemeli seyahat eSIM''i ile Portekiz''de sınırsız 5G verinin tadını çıkarın. Anında aktivasyon. Lizbon, Porto ve Algarve kıyısını kapsar. Planınızı bugün çevrimiçi satın alın.'
-  keywords: 'Portekiz eSIM, Portekiz eSIM satın al, en iyi Portekiz eSIM, Portekiz seyahat eSIM, Vodafone Portekiz, MEO Portekiz, NOS Portekiz, Lizbon eSIM, Porto eSIM, Faro eSIM, Portekiz ön ödemeli eSIM, 5G Portekiz eSIM'
+  description: 'Roami Portekiz eSIM: Lizbon, Porto kapsama, Vodafone Portekiz ağında 5G. Anında kurulum, hotspot dahil. 1,99$''dan başlar.'
+  keywords: 'Portekiz eSIM, Portekiz eSIM planları, en iyi Portekiz eSIM, ucuz Portekiz eSIM, Portekiz eSIM çevrimiçi satın al, sınırsız veri Portekiz eSIM, ön ödemeli Portekiz eSIM, Portekiz için en iyi eSIM, Portekiz eSIM fiyatı, Portekiz eSIM aktivasyonu, Portekiz eSIM kapsama alanı, Lizbon için en iyi eSIM, Lizbon eSIM, Porto eSIM'
   low_price: 1.99
-  high_price: 39.9
+  high_price: 71.99
 order_summary:
   title: 'Seçilen Plan'
   label_data: 'Dahil Olan Veri'
@@ -344,6 +344,8 @@ reminders:
     html: 'QR kodu e-posta adresinize gönderilecektir.'
   - icon: 🔄
     html: 'Aynı anda birden fazla eSIM kurabilirsiniz.'
+  - icon: 🗺️
+    html: 'Lizbon ve Porto''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: 'Hızlı Uyumluluk Kontrolü'
     desc: 'Telefonunuzun eSIM''i destekleyip desteklemediğinden emin değil misiniz? Hemen kendiniz kolayca kontrol edebilirsiniz:'
@@ -394,56 +396,68 @@ faq_section:
       a: 'eSIM cevabınızdır. Çevrimiçi satın alın, e-posta ile QR kodu alın, 2 dakikada kurun. Havaalanı kuyruğunu atlayın. Roami güvenilir kapsama için MEO''ya bağlanır. Kendi SIM''iniz SMS için aktif kalır. Bağlantıda kalmanın en basit yoludur.'
     - q: 'Portekiz eSIM planımın aktif ve kullanıma hazır olduğunu nasıl anlarım?'
       a: 'Satın aldıktan sonra QR kodunu dakikalar içinde alırsınız. Seyahatinizden önce kurun. Plan, telefonunuz Portekiz''de bir ağa bağlandığında otomatik olarak etkinleşir —durum çubuğunuzda bir operatör adı görürsünüz. Herhangi bir web sayfasını açarak veya Roami hesabınızı kontrol ederek doğrulayabilirsiniz. 2 dakika sonra hiçbir şey olmazsa, Veri Dolaşımını etkinleştirin veya telefonunuzu yeniden başlatın.'
+    - q: |
+        Portekiz eSIM'i kendi hattımla birlikte kullanabilir miyim, Vodafone Portekiz hattım açık kalır mı?
+      a: |
+        Evet: veri eSIM üzerinden akar, kendi SIM'iniz arama ve SMS için açık kalır. Ayarlar'dan hangi hattın ses, SMS ve veri kullanacağını seçebilirsiniz.
+    - q: |
+        Yola çıkmadan Portekiz eSIM'i nasıl etkinleştiririm, Vodafone Portekiz hattına geçiş ne zaman olur?
+      a: |
+        Çevrimiçi satın alın, QR kodunu e-posta ile 5 dakikada alın ve Ayarlar > Hücresel > eSIM Ekle'den tarayın. Evde Wi-Fi ile kurup Portekiz'de varışta etkinleştirin.
+    - q: |
+        Portekiz seyahati için kaç GB yeter, Vodafone Portekiz paketleriyle kıyaslanınca?
+      a: |
+        Hafif kullanım (harita, mesaj) için 3-5GB yeter; sosyal medya ve video için 10GB idealdir. Roami Portekiz planları 1,99$'dan başlar ve uygulamadan anında yükleme yapılır.
 related_products:
-  title: 'İlgili Portekiz eSIM Planları'
+  title: İlgili eSIM Planları
   items:
-  - name: 'Amerika Birleşik Devletleri eSIM'
-    flag: img/flags/us.svg
-    price: From $1.99
+  - name: İsviçre eSIM
+    flag: img/flags/ch.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Birleşik Krallık eSIM'
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Avrupa eSIM'
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: 'Kanada eSIM'
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Türkiye eSIM'
+  - name: Türkiye eSIM
     flag: img/flags/tr.svg
-    price: From $1.99
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Çin eSIM'
-    flag: img/flags/cn.svg
-    price: From $1.99
+  - name: Ukrayna eSIM
+    flag: img/flags/ua.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Japonya eSIM'
-    flag: img/flags/jp.svg
-    price: From $1.99
+  - name: BK eSIM
+    flag: img/flags/gb.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: true
+  - name: Vatikan Şehri eSIM
+    flag: img/flags/va.svg
+    price: $10.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Hong Kong eSIM'
-    flag: img/flags/hk.svg
-    price: From $1.99
+  - name: Arnavutluk eSIM
+    flag: img/flags/al.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Fransa eSIM'
-    flag: img/flags/fr.svg
-    price: From $1.99
+  - name: Andorra eSIM
+    flag: img/flags/ad.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'İspanya eSIM'
-    flag: img/flags/es.svg
-    price: From $1.99
+  - name: Ermenistan eSIM
+    flag: img/flags/am.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Almanya eSIM'
-    flag: img/flags/de.svg
-    price: From $1.99
+  - name: Avusturya eSIM
+    flag: img/flags/at.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Avustralya eSIM'
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: Azerbaycan eSIM
+    flag: img/flags/az.svg
+    price: $6.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Belarus eSIM
+    flag: img/flags/by.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Belçika eSIM
+    flag: img/flags/be.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Portekiz eSIM vs Yerel SIM Kart: Hangisi Size Daha Fazla Tasarruf Ettirir?'
@@ -479,7 +493,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 'MEO''nun haftalık planı 1GB için —.50 (7 gün); Vodafone''un 28 günlük planı 5GB için —0 tutarındadır. Vodafone''un —0/28 günlük planını satın alan 5 günlük bir turist planın değerinin %80''inden fazlasını israf eder.'
     esim_title: 'Esnek Kısa Vadeli Planlar'
-    esim_desc: 'MEO''nun —4.99/15 günlük katı planından veya 5 günlük bir gezi için %80''den fazla israf ettiren Vodafone''un —0/28 günlük planından kaçının. Roami $1.99/GB''den başlayan 7 günlük planlar sunar, size tasarruf sağlar.'
+    esim_desc: 'MEO''nun —4.99/15 günlük katı planından veya 5 günlük bir gezi için %80''den fazla israf ettiren Vodafone''un —0/28 günlük planından kaçının. Roami $2.99''dan başlayan 7 günlük planlar sunar, size tasarruf sağlar.'
   - icon: wifi
     title: 'Sıcak Nokta ve<br>Hız Politikaları'
     prepaid_title: ''

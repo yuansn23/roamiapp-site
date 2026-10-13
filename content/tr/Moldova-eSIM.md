@@ -1,6 +1,6 @@
 ---
 title: 'Moldova eSIM 2026: 5G ve Veri Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
 seo:
   title: 'Moldova eSIM: 5G Yüksek Hızlı Sınırsız Veri Planı'
-  description: 'Kişinev, Bălți, Tiraspol''da hızlı 5G ile Moldova eSIM planlarını karşılaştırın. Turistler ve seyahatçiler için Orange Moldova ve Moldcell ve Moldtelecom kapsama rehberi. $1.99''dan anında QR aktivasyonu.'
-  keywords: 'Moldova eSIM, Moldova eSIM satın al, en iyi Moldova eSIM, Moldova seyahat eSIM, Orange Moldova, Moldcell Moldova, Moldtelecom Moldova, Kişinev eSIM, Bălți eSIM, Tiraspol eSIM, Moldova ön ödemeli eSIM, 5G Moldova eSIM'
+  description: 'Moldova seyahati için eSIM: Orange Moldova ve Moldcell ağı, Kişinev''de 5G. Anında aktivasyon, iade garantisi. 1,99$''dan başlar.'
+  keywords: 'Moldova eSIM, Moldova eSIM planları, en iyi Moldova eSIM, ucuz Moldova eSIM, Moldova eSIM çevrimiçi satın al, sınırsız veri Moldova eSIM, ön ödemeli Moldova eSIM, Moldova için en iyi eSIM, Moldova eSIM fiyatı, Moldova eSIM aktivasyonu, Moldova eSIM kapsama alanı, Kişinev için en iyi eSIM, Kişinev eSIM, Bălți eSIM'
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: 'Seçilen Plan'
   label_data: 'Dahil Olan Veri'
@@ -304,6 +304,10 @@ reminders:
     html: 'QR kodu e-posta adresinize gönderilecektir.'
   - icon: 🔄
     html: 'Aynı anda birden fazla eSIM kurabilirsiniz.'
+  - icon: 📱
+    html: 'Arama ve SMS için fiziksel SIM''inizi açık tutun; Moldova eSIM''i yalnızca mobil veri için kullanın.'
+  - icon: 🗺️
+    html: 'Kişinev ve Bălți''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: 'Hızlı Uyumluluk Kontrolü'
     desc: 'Telefonunuzun eSIM''i destekleyip desteklemediğinden emin değil misiniz? Hemen kendiniz kolayca kontrol edebilirsiniz:'
@@ -343,7 +347,7 @@ faq_section:
     - q: 'Moldova''da eSIM kullanmak için pasaport veya kimlik belgesine ihtiyacım var mı? Doğrulama nasıl çalışır?'
       a: 'Evet, Moldova eSIM için kimlik doğrulaması gerektirir. Moldova ön ödemeli SIM kartlar için KYC doğrulaması gerektirir. Pasaport gereklidir. Birçok seyahatçi bunu ancak vardıktan sonra öğrenir ve ardından onay beklerken havaalanı WiFi''si ile uğraşır. Gitmeden önce doğrulamayı tamamlayın —yaklaşık 5-10 dakika sürer. Ayrıca, bazı telefonlar Orange''un ağı ile diğerlerinden daha iyi çalışır —[eSIM uyumluluğu](/compatibility/) sayfamızı kontrol edin.'
     - q: 'Moldova''da sadece birkaç günlüğüne internet erişimine ihtiyacım var. Satın alabileceğim en düşük plan nedir?'
-      a: 'En ucuz plan, 1GB ile 7 gün için $1.99''dur —hafif kullanımlı kısa bir hafta sonu gezisi için mükemmel. Daha fazlasına ihtiyacınız varsa, uygulamadan istediğiniz zaman ek yükleme yapabilirsiniz.'
+      a: 'En ucuz plan, 1GB ile 7 gün için $2.99''dur —hafif kullanımlı kısa bir hafta sonu gezisi için mükemmel. Daha fazlasına ihtiyacınız varsa, uygulamadan istediğiniz zaman ek yükleme yapabilirsiniz.'
     - q: 'Moldova''da eSIM ile Google Haritalar gibi navigasyon uygulamalarını kullanabilir miyim?'
       a: 'Evet —Google Haritalar, gerçek zamanlı trafik ile navigasyon için saatte yaklaşık 5MB kullanır. Gitmeden önce yedek olarak Moldova için çevrimdışı haritaları (şehir başına yaklaşık 200-500MB) indirin.'
     - q: 'Moldova''ya seyahat etmek için telefonumda kaç eSIM profili saklayabilirim?'
@@ -354,55 +358,67 @@ faq_section:
       a: 'Önce telefonunuzu yeniden başlatmayı ve Veri Dolaşımını etkinleştirmeyi deneyin. Çoğu sorun 2 dakika içinde çözülür. Değilse, ağ ayarlarından manuel olarak bir operatör seçin. Sorunlar devam ederse Roami 7/24 desteği yardımcı olabilir.'
     - q: 'Moldova''daki eSIM''im görüntülü aramalar ve uzaktan çalışma için çalışır mı?'
       a: 'Kesinlikle. Orange ağları Zoom, Teams ve Google Meet için istikrarlı bağlantılar sağlar. Uzaktan çalışma için 10GB veya sınırsız plan önerilir. eSIM ayrıca dizüstü bilgisayarınız için sıcak nokta paylaşımını destekler.'
+    - q: |
+        Moldova eSIM ile fiziksel SIM'i aynı anda kullanabilir miyim, Orange Moldova numaram çalışır mı?
+      a: |
+        Evet: veri eSIM'de, ses ve SMS kendi hattınızda kalır. Böylece Orange Moldova numaranız önemli aramaları almaya devam eder.
+    - q: |
+        Moldova için eSIM kurulumu Orange Moldova SIM almaktan daha mı hızlı?
+      a: |
+        Evet: QR kodunu e-posta ile 5 dakikada alıp evde kurulur; Orange Moldova mağazasında beklemek gerekmez. Varışta eSIM otomatik olarak devreye girer.
+    - q: |
+        Moldova gezisi için kaç GB almalıyım, Orange Moldova paketlerine göre?
+      a: |
+        Günlük harita ve mesaj için 3-5GB, sosyal medya ve video için 10GB uygundur. Roami Moldova planları 1,99$'dan başlar ve Orange Moldova paketlerinden bağımsızdır.
 related_products:
-  title: 'İlgili eSIM Planları'
+  title: İlgili eSIM Planları
   items:
-  - name: 'Amerika Birleşik Devletleri eSIM'
-    flag: img/flags/us.svg
-    price: From $1.99
+  - name: Norveç eSIM
+    flag: img/flags/no.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Birleşik Krallık eSIM'
-    flag: img/flags/gb.svg
-    price: From $1.99
+  - name: Polonya eSIM
+    flag: img/flags/pl.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Avrupa eSIM'
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: 'Kanada eSIM'
-    flag: img/flags/ca.svg
-    price: From $1.99
+  - name: Portekiz eSIM
+    flag: img/flags/pt.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Türkiye eSIM'
-    flag: img/flags/tr.svg
-    price: From $1.99
+  - name: Romanya eSIM
+    flag: img/flags/ro.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Çin eSIM'
-    flag: img/flags/cn.svg
-    price: From $1.99
+  - name: Rusya eSIM
+    flag: img/flags/ru.svg
+    price: $2.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Japonya eSIM'
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Hong Kong eSIM'
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Fransa eSIM'
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'İspanya eSIM'
+  - name: İspanya eSIM
     flag: img/flags/es.svg
-    price: From $1.99
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Almanya eSIM'
-    flag: img/flags/de.svg
-    price: From $1.99
+  - name: İsviçre eSIM
+    flag: img/flags/ch.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Avustralya eSIM'
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: Türkiye eSIM
+    flag: img/flags/tr.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Ukrayna eSIM
+    flag: img/flags/ua.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: BK eSIM
+    flag: img/flags/gb.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: true
+  - name: Vatikan Şehri eSIM
+    flag: img/flags/va.svg
+    price: $10.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Çek Cumhuriyeti eSIM
+    flag: img/flags/cz.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 ---

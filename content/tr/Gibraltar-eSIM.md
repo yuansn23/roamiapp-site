@@ -1,6 +1,6 @@
 ---
 title: 'Cebelitarık eSIM 2026: Tam Seyahat Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,13 +20,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: "Cebelitarık eSIM: Sınırsız 5G, Sözleşme veya Gizli Ücret Yok"
-  description: Cebelitarık Şehri, Catalan Bay, Europa Point'te hızlı 5G ile Cebelitarık eSIM planlarını karşılaştırın. Turistler ve gezginler için
-    Gibtelecom & CTS Gibraltar & Gibtel kapsama rehberi. 1,99$'dan başlayan fiyatlarla anında QR aktivasyonu.
-  keywords: Cebelitarık eSIM, Cebelitarık eSIM satın al, en iyi Cebelitarık eSIM, Cebelitarık seyahat eSIM, Gibtelecom Cebelitarık, CTS Gibraltar
-    Cebelitarık, Gibtel Cebelitarık, Cebelitarık Şehri eSIM, Catalan Bay eSIM, Europa Point eSIM, Cebelitarık ön ödemeli eSIM, 5G Cebelitarık
-    eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Cebelitarık eSIM planları 5,99$'dan başlar. Cebelitarık Şehri ve Catalan Bay'de hızlı 5G, sözleşme yok, hotspot dahil. Anında etkinleştirme.
+  keywords: Cebelitarık eSIM, Cebelitarık eSIM planları, en iyi Cebelitarık eSIM, ucuz Cebelitarık eSIM, Cebelitarık eSIM çevrimiçi satın al, sınırsız veri Cebelitarık eSIM, ön ödemeli Cebelitarık eSIM, Cebelitarık için en iyi eSIM, Cebelitarık eSIM fiyatı, Cebelitarık eSIM aktivasyonu, Cebelitarık eSIM kapsama alanı, Cebelitarık Şehri için en iyi eSIM, Cebelitarık Şehri eSIM, Catalan Bay eSIM
+  low_price: 5.99
+  high_price: 86.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -239,6 +236,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🗺️
+    html: 'Cebelitarık Şehri ve Catalan Bay''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -279,11 +278,11 @@ faq_section:
     - q: |
         Cebelitarık seyahati için en ucuz eSIM seçenekleri nelerdir?
       a: |
-        Roami Cebelitarık eSIM planları $1.99'dan (7 gün, 1GB) başlar ve $59.99'a (30 gün sınırsız) kadar çıkar. Tipik bir 5-7 günlük gezi için, $9.99'daki 5GB plan en ideal olanıdır —haritalar, mesajlaşma ve sosyal medya kontrolü için yeterlidir. Video izlemek veya uzaktan çalışmak mı istiyorsunuz? 10GB veya sınırsız tercih edin. Gibtelecom'un 5G ağı sayesinde akış ve video aramalar harika çalışır. Havalimanı SIM gişeleri %30-50 daha pahalıdır ve sıra beklemeniz gerekir. Veri ihtiyaçlarınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek paket satın alın.
+        Roami'nin Cebelitarık eSIM planları 5.99$ (7 Gün, 1GB) ile 86.99$ (30 Gün, Sınırsız) arasında fiyatlanır. Hafif kullanım için 11.99$ (7 Gün, 5GB) planı yeterlidir; harita, mesaj ve sosyal medya sorunsuz çalışır. Video izlemek veya uzaktan çalışmak mı istiyorsunuz? 20GB tercih edin. Gibtelecom'un 5G ağı sayesinde akış ve video aramalar harika çalışır. Havalimanı SIM gişeleri %30-50 daha pahalıdır ve sıra beklemeniz gerekir. Veri ihtiyaçlarınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek paket satın alın.
     - q: |
         Cebelitarık eSIM sınırsız planı çok fazla veri kullanırsam yavaşlar mı?
       a: |
-        Adil kullanım politikası vardır: günde 30GB'den sonra hızlar düşer. Düşük hızda hala mesajlaşabilir, gezinebilir ve internette dolaşabilirsiniz —sadece pürüzsüz video yok. Gerçekçi olarak, çoğu gezgin 30GB'a yaklaşmaz. Endişeleniyorsanız, 10GB (14,99$) veya 20GB (24,99$) sabit plan belirsizliği tamamen ortadan kaldırır.
+        Adil kullanım politikası vardır: günde 30GB'den sonra hızlar düşer. Düşük hızda hala mesajlaşabilir, gezinebilir ve internette dolaşabilirsiniz —sadece pürüzsüz video yok. Gerçekçi olarak, çoğu gezgin 30GB'a yaklaşmaz. Endişeleniyorsanız, 10GB (17,99$) veya 20GB (24,99$) sabit plan belirsizliği tamamen ortadan kaldırır.
     - q: |
         Roami, Cebelitarık'ta eSIM için Holafly ile karşılaştırıldığında nasıldır?
       a: |
@@ -308,55 +307,67 @@ faq_section:
         Seyahat sırasında Cebelitarık eSIM'im çalışmayı durdurursa ne olur?
       a: |
         İlk olarak, telefonunuzu yeniden başlatmayı ve Veri Dolaşımı'nı etkinleştirmeyi deneyin. Çoğu sorun 2 dakika içinde çözülür. Değilse, ağ ayarlarında manuel olarak bir operatör seçin. Sorun devam ederse Roami 7/24 desteği yardımcı olabilir.
+    - q: |
+        Cebelitarık eSIM'i kendi hattımla birlikte kullanabilir miyim, Gibtelecom hattım açık kalır mı?
+      a: |
+        Evet: veri eSIM üzerinden akar, kendi SIM'iniz arama ve SMS için açık kalır. Ayarlar'dan hangi hattın ses, SMS ve veri kullanacağını seçebilirsiniz.
+    - q: |
+        Yola çıkmadan Cebelitarık eSIM'i nasıl etkinleştiririm, Gibtelecom hattına geçiş ne zaman olur?
+      a: |
+        Çevrimiçi satın alın, QR kodunu e-posta ile 5 dakikada alın ve Ayarlar > Hücresel > eSIM Ekle'den tarayın. Evde Wi-Fi ile kurup Cebelitarık'de varışta etkinleştirin.
+    - q: |
+        Cebelitarık seyahati için kaç GB yeter, Gibtelecom paketleriyle kıyaslanınca?
+      a: |
+        Hafif kullanım (harita, mesaj) için 3-5GB yeter; sosyal medya ve video için 10GB idealdir. Roami Cebelitarık planları 5,99$'dan başlar ve uygulamadan anında yükleme yapılır.
 related_products:
   title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
+  - name: Yunanistan eSIM
+    flag: img/flags/gr.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık eSIM
-    flag: img/flags/gb.svg
+  - name: Macaristan eSIM
+    flag: img/flags/hu.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
+  - name: İzlanda eSIM
+    flag: img/flags/is.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: İrlanda eSIM
+    flag: img/flags/ie.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: İtalya eSIM
+    flag: img/flags/it.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
+  - name: Kosova eSIM
+    flag: img/flags/xk.svg
+    price: $13.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Letonya eSIM
+    flag: img/flags/lv.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
+  - name: Lihtenştayn eSIM
+    flag: img/flags/li.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
+  - name: Litvanya eSIM
+    flag: img/flags/lt.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Lüksemburg eSIM
+    flag: img/flags/lu.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
+  - name: Malta eSIM
+    flag: img/flags/mt.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
+  - name: Hollanda eSIM
+    flag: img/flags/nl.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Mozambik eSIM 2026: Yerel Operatör Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Movitel, Vodacom, Tmcel
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Maputo, Beira, Nampula, Quelimane, Tete
-  main_packages: 3/7/15/30 Gün, Sınırsız Veri
+  main_packages: 7/15/30 Gün, 1GB–5GB Veri
 modal:
   title: Hizmet Yükseltildi!
   btn_text: Devam Et
@@ -18,13 +18,11 @@ modal:
   text_android: eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır,
     promosyon kodu:web20
 seo:
-  title: 'Mozambik 5G eSIM: Sınırsız Veri, Dolaşım Ücreti Yok'
-  description: Maputo, Beira, Nampula'da hızlı 5G ile Mozambik eSIM planlarını karşılaştırın. Turistler ve gezginler için
-    Movitel, Vodacom ve Tmcel kapsama rehberi. $1.99'dan başlayan anında QR etkinleştirme.
-  keywords: Mozambik eSIM, Mozambik eSIM satın al, en iyi Mozambik eSIM, Mozambik seyahat eSIM, Movitel Mozambik, Vodacom
-    Mozambik, Tmcel Mozambik, Maputo eSIM, Beira eSIM, Nampula eSIM, Mozambik ön ödemeli eSIM, 5G Mozambik eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: 'Mozambik 5G eSIM: Yüksek Hızlı Veri, Dolaşım Ücreti Yok'
+  description: 'Mozambik için ön ödemeli seyahat eSIM''i: Maputo, Beira ve tüm ülkede 5G. Pasaport kaydı yok. 14,99$''dan başlar.'
+  keywords: Mozambik eSIM, Mozambik eSIM planları, en iyi Mozambik eSIM, ucuz Mozambik eSIM, Mozambik eSIM çevrimiçi satın al, Mozambik eSIM veri planları, ön ödemeli Mozambik eSIM, Mozambik için en iyi eSIM, Mozambik eSIM fiyatı, Mozambik eSIM aktivasyonu, Mozambik eSIM kapsama alanı, Maputo için en iyi eSIM, Maputo eSIM, Beira eSIM
+  low_price: 14.99
+  high_price: 41.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -166,6 +164,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 📍
+    html: 'Maputo için eSIM''i varışta etkinleştirmenizi öneririz: geçerlilik ilk bağlantıda başlar.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -207,7 +207,7 @@ faq_section:
     - q: |
         Mozambik seyahati için en ucuz eSIM seçenekleri nelerdir?
       a: |
-        Roami Mozambik eSIM planları $1.99'dan (7 gün, 1GB) başlar ve $59.99'a (30 gün sınırsız) kadar çıkar. Tipik 5-7 günlük bir seyahat için 5GB planı ($9.99) en uygunudur —haritalar, mesajlaşma ve sosyal medya kontrolü için yeterlidir. Video izlemek veya uzaktan çalışmak mı istiyorsunuz? 10GB veya sınırsız tercih edin. Mozambik, haritalar ve mesajlaşma için yeterli olan 4G kullanır. Havalimanı SIM büfeleri %30-50 daha pahalıdır ve sırada beklemeniz gerekir. Veri ihtiyaçlarınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek yükleme yapın.
+        Mozambik eSIM planlarımız 14.99$ (7 Gün, 1GB) ile 41.99$ (30 Gün, 5GB) arasında değişir. Kısa bir seyahat için 41.99$ (30 Gün, 5GB) planı idealdir — harita, mesajlaşma ve sosyal medya ihtiyacını karşılar. Video izlemek veya uzaktan çalışmak mı istiyorsunuz? 5GB tercih edin. Mozambik, haritalar ve mesajlaşma için yeterli olan 4G kullanır. Havalimanı SIM büfeleri %30-50 daha pahalıdır ve sırada beklemeniz gerekir. Veri ihtiyaçlarınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek yükleme yapın.
     - q: |
         Roami, Mozambik'te eSIM için Saily ile karşılaştırıldığında nasıl?
       a: |
@@ -219,7 +219,7 @@ faq_section:
     - q: |
         Mozambik'teki eSIM'im video aramaları ve uzaktan çalışma için çalışır mı?
       a: |
-        Kesinlikle. Vodacom ağları Zoom, Teams ve Google Meet için istikrarlı bağlantılar sağlar. Uzaktan çalışma için 10GB veya sınırsız plan önerilir. eSIM ayrıca dizüstü bilgisayarınız için paylaşımı da destekler.
+        Kesinlikle. Vodacom ağları Zoom, Teams ve Google Meet için istikrarlı bağlantılar sağlar. Uzaktan çalışma için 41.99$ (30 Gün, 5GB) planı önerilir. eSIM ayrıca dizüstü bilgisayarınız için paylaşımı da destekler.
     - q: |
         Mozambik'te tipik bir gezgin günde ne kadar veri kullanır?
       a: |
@@ -229,62 +229,74 @@ faq_section:
       a: |
         eSIM'i kalkıştan önce kurduysanız, inişten sonraki 1-2 dakika içinde etkinleşir. Uçak Modunu kapatın ve Veri Dolaşımını etkinleştirin. Telefonunuz otomatik olarak Vodacom'a bağlanır. Sıra yok, evrak yok —bagaj alanına varmadan çevrimiçi olursunuz.
     - q: |
-        Mozambik için 5GB plan ile sınırsız plan arasındaki fark nedir?
+        Mozambik için 5GB plan yeterli mi?
       a: |
-        5GB plan size sabit miktarda yüksek hızlı veri (toplam 5GB) sağlar. Kullanıldığında, ek yükleme yapar veya yeni bir plan satın alırsınız. Sınırsız plan veri sağlamaya devam eder, ancak adil kullanım politikası uyarınca günde 30GB'dan sonra hızlar düşebilir. Haritalar, mesajlaşma ve sosyal medya yapan çoğu gezgin için 5GB plan fazlasıyla yeterlidir.
+        5GB plan size sabit miktarda yüksek hızlı veri (toplam 5GB) sağlar. Kullanıldığında, ek yükleme yapar veya yeni bir plan satın alırsınız. Paketler sabit verilidir; her plan belirli bir veri hacmi sunar. Haritalar, mesajlaşma ve sosyal medya yapan çoğu gezgin için 5GB plan fazlasıyla yeterlidir.
     - q: |
         Mozambik eSIM'imi havalimanında kurabilir miyim, yoksa evden çıkmadan önce mi yapmalıyım?
       a: |
         Kalkıştan önce yapın —kurulum için internet bağlantısı gerekir ve yaklaşık 2 dakika sürer. eSIM QR kodu satın alımdan sonraki 5 dakika içinde e-posta ile gelir. Mozambik havalimanında Veri Dolaşımını etkinleştirin ve 60 saniyeden kısa sürede çevrimiçi olursunuz.
+    - q: |
+        Mozambik eSIM hangi ağlarda çalışır, Movitel kapsaması yeterli mi?
+      a: |
+        Roami eSIM Movitel ve Vodacom ağlarına bağlanır; Maputo ve Beira gibi büyük şehirlerde 4G/5G sunar. Kırsal bölgelerde 4G kapsama güçlü kalır.
+    - q: |
+        Maputo'de Movitel şebekesinde eSIM hızı nasıl?
+      a: |
+        Maputo'de Roami eSIM Movitel 5G/4G ağını kullanır; şehir merkezinde tipik hız 50-200 Mbps. Harita, sosyal medya ve görüntülü arama için uygundur.
+    - q: |
+        Mozambik eSIM'i kendi hattımla birlikte kullanabilir miyim, Movitel hattım açık kalır mı?
+      a: |
+        Evet: veri eSIM üzerinden akar, kendi SIM'iniz arama ve SMS için açık kalır. Ayarlar'dan hangi hattın ses, SMS ve veri kullanacağını seçebilirsiniz.
 related_products:
   title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: $1.99’dan başlayan
+  - name: Reunion Adası eSIM
+    flag: img/flags/re.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: $1.99’dan başlayan
+  - name: Sierra Leone eSIM
+    flag: img/flags/si.svg
+    price: $10.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: $1.99’dan başlayan
+  - name: Tanzanya eSIM
+    flag: img/flags/tz.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: $1.99’dan başlayan
+  - name: Tunus eSIM
+    flag: img/flags/tn.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: $1.99’dan başlayan
+  - name: Uganda eSIM
+    flag: img/flags/ug.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: $1.99’dan başlayan
+  - name: Cezayir eSIM
+    flag: img/flags/dz.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: $1.99’dan başlayan
+  - name: Botsvana eSIM
+    flag: img/flags/bw.svg
+    price: $14.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: $1.99’dan başlayan
+  - name: Burkina Faso eSIM
+    flag: img/flags/bf.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: $1.99’dan başlayan
+  - name: Kamerun eSIM
+    flag: img/flags/cm.svg
+    price: $27.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: $1.99’dan başlayan
+  - name: Çad eSIM
+    flag: img/flags/td.svg
+    price: $23.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: $1.99’dan başlayan
+  - name: Kongo (Kinşasa) eSIM
+    flag: img/flags/cg.svg
+    price: $7.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Mısır eSIM
+    flag: img/flags/eg.svg
+    price: $2.99'dan başlayan fiyatlarla
     is_highlight: false
 ---

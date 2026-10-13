@@ -1,6 +1,6 @@
 ---
 title: 'Peru eSIM 2026: Bağlantı ve Hız Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,12 +20,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Peru eSIM | Hızlı Ön Ödemeli Veri Planı Satın Alın
-  description: Peru için ön ödemeli seyahat eSIM'ine mi ihtiyacınız var? Roami ülke genelinde sınırsız 5G veri sunar. Lima,
-    Cusco ve Arequipa'yı kapsar. Anında etkinleştirme. Planlar $1.99'dan başlayan.
-  keywords: Peru eSIM, Peru eSIM satın al, en iyi Peru eSIM, Peru seyahat eSIM, Claro Peru, Movistar Peru, Entel Peru,
-    Lima eSIM, Cusco eSIM, Arequipa eSIM, Peru ön ödemeli eSIM, 5G Peru eSIM
-  low_price: '1.99'
-  high_price: '39.9'
+  description: 'Ucuz Peru eSIM: Lima, Cusco ve Arequipa''de 5G. QR kod ile 2 dakikada kurulum, 24/7 destek. 4,99$''dan fiyatlar.'
+  keywords: Peru eSIM, Peru eSIM planları, en iyi Peru eSIM, ucuz Peru eSIM, Peru eSIM çevrimiçi satın al, sınırsız veri Peru eSIM, ön ödemeli Peru eSIM, Peru için en iyi eSIM, Peru eSIM fiyatı, Peru eSIM aktivasyonu, Peru eSIM kapsama alanı, Lima için en iyi eSIM, Lima eSIM, Cusco eSIM
+  low_price: 4.99
+  high_price: 85.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -306,6 +304,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🗺️
+    html: 'Lima ve Cusco''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -351,7 +351,7 @@ faq_section:
     - q: |
         Peru seyahati için en ucuz eSIM seçenekleri nelerdir?
       a: |
-        Roami Peru eSIM planları $1.99'dan (7 gün, 1GB) başlar ve $59.99'a (30 gün sınırsız) kadar çıkar. Tipik 5-7 günlük bir seyahat için 5GB planı ($9.99) en uygunudur —haritalar, mesajlaşma ve sosyal medya kontrolü için yeterlidir. Video izlemek veya uzaktan çalışmak mı istiyorsunuz? 10GB veya sınırsız tercih edin. Claro'nun 5G ağı sayesinde yayın ve video aramaları harika çalışır. Havalimanı SIM büfeleri %30-50 daha pahalıdır ve sırada beklemeniz gerekir. Veri ihtiyaçlarınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek yükleme yapın.
+        Peru için Roami planları 4.99$ (3 Gün, 1GB) ile 85.99$ (30 Gün, 30GB) arasında konumlanır. Tipik bir 5-7 günlük gezi için 13.99$ (3 Gün, 5GB) planı en ideal olanıdır — günlük harita, mesajlaşma ve sosyal medya için yeterlidir. Video izlemek veya uzaktan çalışmak mı istiyorsunuz? 30GB tercih edin. Claro'nun 5G ağı sayesinde yayın ve video aramaları harika çalışır. Havalimanı SIM büfeleri %30-50 daha pahalıdır ve sırada beklemeniz gerekir. Veri ihtiyaçlarınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek yükleme yapın.
     - q: |
         Roami, Peru'da eSIM için Holafly ile karşılaştırıldığında nasıl?
       a: |
@@ -376,56 +376,68 @@ faq_section:
         Peru eSIM'im vardığımda bağlanmazsa ne yapmalıyım?
       a: |
         Her biri yaklaşık 30 saniye süren üç hızlı kontrol: 1) Veri Dolaşımı açık mı? 2) Ağ ayarlarında manuel olarak Claro seçebilir misiniz? 3) Telefonunuzu yeniden başlatmayı deneyin. Bağlantı sorunlarının yaklaşık %90'ı bu adımlardan biriyle çözülür. Olmazsa, Roami 7/24 desteği yardımcı olabilir.
+    - q: |
+        Peru eSIM fiyatı Claro ön ödemeli SIM'e kıyasla nasıl?
+      a: |
+        Roami Peru planları 4,99$'dan başlar ve çevrimiçi birkaç tıkla alınır. Claro mağazasında sıra beklemek ve yerel ön ödemeli SIM'lerde sık görülen kayıt/aktivasyon ücreti gerekmez.
+    - q: |
+        Peru eSIM hangi ağlarda çalışır, Claro kapsaması yeterli mi?
+      a: |
+        Roami eSIM Claro ve Movistar ağlarına bağlanır; Lima ve Cusco gibi büyük şehirlerde 4G/5G sunar. Kırsal bölgelerde 4G kapsama güçlü kalır.
+    - q: |
+        Lima'de Claro şebekesinde eSIM hızı nasıl?
+      a: |
+        Lima'de Roami eSIM Claro 5G/4G ağını kullanır; şehir merkezinde tipik hız 50-200 Mbps. Harita, sosyal medya ve görüntülü arama için uygundur.
 related_products:
-  title: İlgili Peru eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: $1.99’dan başlayan
+  - name: Uruguay eSIM
+    flag: img/flags/uy.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: $1.99’dan başlayan
+  - name: Arjantin eSIM
+    flag: img/flags/ar.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: $1.99’dan başlayan
+  - name: eSIM Bolívia eSIM
+    flag: img/flags/bo.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: $1.99’dan başlayan
+  - name: Brezilya eSIM
+    flag: img/flags/br.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: $1.99’dan başlayan
+  - name: Şili eSIM
+    flag: img/flags/cl.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kolombiya eSIM
+    flag: img/flags/co.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Ekvador eSIM
+    flag: img/flags/ec.svg
+    price: $6.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Fransız Guyanası eSIM
+    flag: img/flags/gf.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Guyana eSIM
+    flag: img/flags/gy.svg
+    price: $9.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Paraguay eSIM
+    flag: img/flags/py.svg
+    price: $22.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Hong Kong eSIM
     flag: img/flags/hk.svg
-    price: $1.99’dan başlayan
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: $1.99’dan başlayan
+  - name: Türkiye eSIM
+    flag: img/flags/tr.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Peru eSIM vs Fiziksel SIM Kart: Etkinleştirme ve Kurulum Karşılaştırması'
@@ -467,9 +479,7 @@ market_analysis:
     prepaid_desc: Movistar 7 gün için 1GB/S/7, 20 gün için 4GB/S/20, 30 gün için 7GB/S/30 sunar. Entel'in Plan Turista'sı
       7 gün/5GB için S/67 tutarken, normal 10 gün/3GB planı sadece S/10'dur.
     esim_title: Esnek Kısa Süreli Planlar
-    esim_desc: Movistar'ın 7 günlük minimumundan (S/7/1GB) veya Entel'in aşırı fiyatlı Plan Turista'sından (S/67/7 gün)
-      farklı olarak Roami, $1.99/GB'dan başlayan 7 günlük planlar sunar, kısa seyahatlerde %75'e varan israftan tasarruf
-      sağlar.
+    esim_desc: Movistar'ın 7 günlük minimumundan (S/7/1GB) veya Entel'in aşırı fiyatlı Plan Turista'sından (S/67/7 gün) farklı olarak Roami, $7.99'dan başlayan 7 günlük planlar sunar, kısa seyahatlerde %75'e varan israftan tasarruf sağlar.
   - icon: wifi
     title: Paylaşım ve<br>Hız Politikaları
     prepaid_title: ''

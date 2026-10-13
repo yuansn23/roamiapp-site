@@ -1,6 +1,6 @@
 ---
 title: 'Suudi Arabistan eSIM 2026: Yerel Operatör Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,13 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Suudi Arabistan eSIM | Seyahat için En İyi Ön Ödemeli Plan
-  description: Roami'nin en iyi ön ödemeli seyahat eSIM'i ile Suudi Arabistan'da sınırsız 5G verinin keyfini çıkarın. Anında
-    etkinleştirme. Riyad, Cidde ve Dammam'ı kapsar. Planınızı bugün çevrimiçi satın alın.
-  keywords: Suudi Arabistan eSIM, Suudi Arabistan eSIM satın al, en iyi Suudi Arabistan eSIM, Suudi Arabistan seyahat eSIM,
-    STC Suudi Arabistan, Mobily Suudi Arabistan, Zain Suudi Arabistan, Riyad eSIM, Cidde eSIM, Mekke eSIM, Suudi Arabistan
-    ön ödemeli eSIM, 5G Suudi Arabistan eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Suudi Arabistan seyahati için eSIM: STC ve Mobily ağı, Riyad''de 5G. Anında aktivasyon, iade garantisi. 3,99$''dan başlar.'
+  keywords: Suudi Arabistan eSIM, Suudi Arabistan eSIM planları, en iyi Suudi Arabistan eSIM, ucuz Suudi Arabistan eSIM, Suudi Arabistan eSIM çevrimiçi satın al, sınırsız veri Suudi Arabistan eSIM, ön ödemeli Suudi Arabistan eSIM, Suudi Arabistan için en iyi eSIM, Suudi Arabistan eSIM fiyatı, Suudi Arabistan eSIM aktivasyonu, Suudi Arabistan eSIM kapsama alanı, Riyad için en iyi eSIM, Riyad eSIM, Cidde eSIM
+  low_price: 3.99
+  high_price: 96.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -322,6 +319,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🗺️
+    html: 'Riyad ve Cidde''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -363,12 +362,7 @@ faq_section:
     - q: |
         Suudi Arabistan seyahati için en ucuz eSIM seçenekleri nelerdir?
       a: |
-        Roami Suudi Arabistan eSIM planları $1.99'dan (7 gün, 1GB) başlar ve $59.99'a (30 gün sınırsız) kadar çıkar. Tipik
-        5-7 günlük bir seyahat için 5GB planı ($9.99) en uygunudur —haritalar, mesajlaşma ve sosyal medya kontrolü için
-        yeterlidir. Video izlemek veya uzaktan çalışmak mı istiyorsunuz? 10GB veya sınırsız tercih edin. STC'nin 5G ağı
-        sayesinde yayın ve video aramaları harika çalışır. Havalimanı SIM büfeleri %30-50 daha pahalıdır ve sırada beklemeniz
-        gerekir. Veri ihtiyaçlarınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden
-        ek yükleme yapın.
+        Roami'nin Suudi Arabistan eSIM paketleri 3.99$ (3 Gün, 1GB) ile 96.99$ (15 Gün, Sınırsız) arasında sunulmaktadır. Kısa bir seyahat için 9.99$ (3 Gün, 5GB) planı idealdir — harita, mesajlaşma ve sosyal medya ihtiyacını karşılar. Video izlemek veya uzaktan çalışmak mı istiyorsunuz? 30GB tercih edin. STC'nin 5G ağı sayesinde yayın ve video aramaları harika çalışır. Havalimanı SIM büfeleri %30-50 daha pahalıdır ve sırada beklemeniz gerekir. Veri ihtiyaçlarınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek yükleme yapın.
     - q: |
         Suudi Arabistan'da eSIM kullanmak için pasaport veya kimliğe ihtiyacım var mı? Doğrulama nasıl çalışıyor?
       a: |
@@ -386,7 +380,7 @@ faq_section:
     - q: |
         Suudi Arabistan'da sadece birkaç günlüğüne internet erişimine ihtiyacım var. Satın alabileceğim minimum nedir?
       a: |
-        En ucuz plan 7 gün boyunca 1GB ile $1.99'dur —hafif kullanımlı kısa bir hafta sonu gezisi için mükemmel. Daha
+        En ucuz plan 7 gün boyunca 1GB ile $3.99'dur —hafif kullanımlı kısa bir hafta sonu gezisi için mükemmel. Daha
         fazlasına ihtiyacınız varsa, uygulamadan istediğiniz zaman ek yükleme yapabilirsiniz.
     - q: |
         Suudi Arabistan eSIM kırsal alanlarda ve küçük kasabalarda çalışır mı?
@@ -398,7 +392,7 @@ faq_section:
         Roami'den Suudi Arabistan eSIM satın aldığımda neler dahildir?
       a: |
         5 dakika içinde QR kodu teslimi, STC ağına erişim, 7/24 müşteri desteği ve 5 cihaza kadar ücretsiz paylaşım. Planlar
-        $1.99'dan başlar. Sözleşme yok, gizli ücret yok, otomatik yenileme yok.
+        $3.99'dan başlar. Sözleşme yok, gizli ücret yok, otomatik yenileme yok.
     - q: |
         Roami'den Suudi Arabistan eSIM satın almak için hangi belgelere ihtiyacım var?
       a: |
@@ -410,56 +404,68 @@ faq_section:
       a: |
         Kesinlikle. STC ağları Zoom, Teams ve Google Meet için istikrarlı bağlantılar sağlar. Uzaktan çalışma için 10GB
         veya sınırsız plan önerilir. eSIM ayrıca dizüstü bilgisayarınız için paylaşımı da destekler.
+    - q: |
+        Suudi Arabistan eSIM ile fiziksel SIM'i aynı anda kullanabilir miyim, STC numaram çalışır mı?
+      a: |
+        Evet: veri eSIM'de, ses ve SMS kendi hattınızda kalır. Böylece STC numaranız önemli aramaları almaya devam eder.
+    - q: |
+        Suudi Arabistan için eSIM kurulumu STC SIM almaktan daha mı hızlı?
+      a: |
+        Evet: QR kodunu e-posta ile 5 dakikada alıp evde kurulur; STC mağazasında beklemek gerekmez. Varışta eSIM otomatik olarak devreye girer.
+    - q: |
+        Suudi Arabistan gezisi için kaç GB almalıyım, STC paketlerine göre?
+      a: |
+        Günlük harita ve mesaj için 3-5GB, sosyal medya ve video için 10GB uygundur. Roami Suudi Arabistan planları 3,99$'dan başlar ve STC paketlerinden bağımsızdır.
 related_products:
-  title: İlgili Suudi Arabistan eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: $1.99’dan başlayan
+  - name: BAE eSIM
+    flag: img/flags/ae.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: $1.99’dan başlayan
+  - name: Bahreyn eSIM
+    flag: img/flags/bh.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: $1.99’dan başlayan
-    is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: $1.99’dan başlayan
+  - name: Irak eSIM
+    flag: img/flags/iq.svg
+    price: $21.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: $1.99’dan başlayan
+  - name: İsrail eSIM
+    flag: img/flags/il.svg
+    price: $2.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Ürdün eSIM
+    flag: img/flags/jo.svg
+    price: $6.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kuveyt eSIM
+    flag: img/flags/kw.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Umman eSIM
+    flag: img/flags/om.svg
+    price: $5.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Katar eSIM
+    flag: img/flags/qa.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Çin eSIM
     flag: img/flags/cn.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: $1.99’dan başlayan
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Avustralya eSIM
     flag: img/flags/au.svg
-    price: $1.99’dan başlayan
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: true
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Türkiye eSIM
+    flag: img/flags/tr.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Suudi Arabistan eSIM vs SIM Kart Planları: Hangisi İhtiyaçlarınıza Uyuyor?'
@@ -494,16 +500,14 @@ market_analysis:
       Zain GCC dolaşım paketleri sunar: 3 gün sınırsız veri için 179 SAR; Mobily 99 SAR için 3
       gün/2GB ve 199 SAR için 7 gün/7GB sunar; yerel plan verileri yurtdışında kullanılamaz.
     esim_title: Sorunsuz Çok Ülkeli Dolaşım
-    esim_desc: Zain'in GCC dolaşım paketinin (3 gün sınırsız için 179 SAR) aksine, Roami $1.99/GB'dan başlayan çok ülkeli
-      planlar sunar, ek ücret ödemeden GCC genelinde kullanılabilir.
+    esim_desc: Zain'in GCC dolaşım paketinin (3 gün sınırsız için 179 SAR) aksine, Roami $3.99'dan başlayan çok ülkeli planlar sunar, ek ücret ödemeden GCC genelinde kullanılabilir.
   - icon: calendar-xmark
     title: Fatura Döngüsü ve<br>Batık Maliyet
     prepaid_title: ''
     prepaid_desc: Çoğu ön ödemeli plan 28 gün veya 30 gün döngülerine sahiptir; örn. STC 'Like' 28 gün için 65 SAR, Zain
       'Visitor 55' 28 gün için 55 SAR; 5 günlük bir seyahat 23 günü (plan değerinin %82'si) israf eder.
     esim_title: Esnek Kısa Süreli Planlar
-    esim_desc: STC'nin 28 günlük döngüsünden (2GB için 65 SAR) farklı olarak Roami, $1.99/GB'dan başlayan 7 günlük planlar
-      sunar, kısa seyahatlerde %82'ye varan israftan tasarruf sağlar.
+    esim_desc: STC'nin 28 günlük döngüsünden (2GB için 65 SAR) farklı olarak Roami, $3.99'dan başlayan 7 günlük planlar sunar, kısa seyahatlerde %82'ye varan israftan tasarruf sağlar.
   - icon: wifi
     title: Paylaşım ve<br>Hız Politikaları
     prepaid_title: ''

@@ -1,6 +1,6 @@
 ---
 title: 'Kosta Rika eSIM 2026: Seyahat ve Ağ Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,13 +18,11 @@ modal:
   text_android: eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltilmiştir.<br>Yeni müşteriler %20 indirimden yararlanır,
     promosyon kodu:web20
 seo:
-  title: Kosta Rika eSIM | Gezginler İçin Sınırsız Veri Planı Satın Alın
-  description: Roami'nin en iyi ön ödemeli seyahat eSIM'i ile Kosta Rika'yı keşfedin. Ülke genelinde sınırsız 5G veri. Anında aktivasyon.
-    San Jose, Liberia ve tüm bölgeleri kapsar.
-  keywords: Kosta Rika eSIM, Kosta Rika eSIM satın al, en iyi Kosta Rika eSIM, Kosta Rika seyahat eSIM, Liberty Kosta Rika, Claro
-    Kosta Rika, ICE Kosta Rika, San José eSIM, Alajuela eSIM, Heredia eSIM, Kosta Rika ön ödemeli eSIM, 5G Kosta Rika eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: 'Kosta Rika eSIM: Esnek 5G Veri Paketleri'
+  description: Kosta Rika eSIM ile San José ve Alajuela'de bağlantıda kalın. Ön ödemeli, sözleşmesiz 5G veri. 9,99$'dan planlar.
+  keywords: Kosta Rika eSIM, Kosta Rika eSIM planları, en iyi Kosta Rika eSIM, ucuz Kosta Rika eSIM, Kosta Rika eSIM çevrimiçi satın al, sınırsız veri Kosta Rika eSIM, ön ödemeli Kosta Rika eSIM, Kosta Rika için en iyi eSIM, Kosta Rika eSIM fiyatı, Kosta Rika eSIM aktivasyonu, Kosta Rika eSIM kapsama alanı, San José için en iyi eSIM, San José eSIM, Alajuela eSIM
+  low_price: 9.99
+  high_price: 84.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -289,6 +287,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🗺️
+    html: 'San José ve Alajuela''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -337,7 +337,7 @@ faq_section:
     - q: |
         Kosta Rika için çok fazla harcamadan eSIM alabilir miyim?
       a: |
-        Kesinlikle. Roami'nin Kosta Rika eSIM planları sadece 1,99$'dan başlıyor. 5GB/15 günlük seçenek (9,99$) gezginler arasında en popüler olanıdır —haritalar, WhatsApp, Instagram ve e-postayı rahatça kullanmanızı sağlar. Yoğun veri kullanıcısıysanız, 10GB (14,99$) veya sınırsız (59,99$) planlar size gönül rahatlığı verir. Havalimanı SIM gişesini atlamak size %30-50 tasarruf ve sıra bekleme derdinden kurtarır. Ayarlamak mı istiyorsunuz? Roami uygulamasından istediğiniz zaman ek paket satın alabilirsiniz.
+        Kesinlikle. Roami'nin Kosta Rika eSIM planları sadece 1,99$'dan başlıyor. 20.99$ (3 Gün, 5GB) seçeneği gezginler arasında en popüler olanıdır — haritalar, WhatsApp, Instagram ve e-posta için rahatça yeterlidir. Yoğun veri kullanıcıları için 78.99$ (15 Gün, 20GB) planı daha rahat bir seçenektir. Havalimanı SIM gişesini atlamak size %30-50 tasarruf ve sıra bekleme derdinden kurtarır. Ayarlamak mı istiyorsunuz? Roami uygulamasından istediğiniz zaman ek paket satın alabilirsiniz.
     - q: |
         Kosta Rika seyahati için eSIM, taşınabilir WiFi ile karşılaştırıldığında nasıldır?
       a: |
@@ -345,7 +345,7 @@ faq_section:
     - q: |
         Roami'den Kosta Rika eSIM satın aldığımda neler dahildir?
       a: |
-        5 dakika içinde QR kodu teslimi, Kölbi ağına erişim, 7/24 müşteri desteği ve 5 cihaza kadar ücretsiz sıcak nokta. Planlar 1,99$'dan başlar. Sözleşme yok, gizli ücret yok, otomatik yenileme yok.
+        5 dakika içinde QR kodu teslimi, Kölbi ağına erişim, 7/24 müşteri desteği ve 5 cihaza kadar ücretsiz sıcak nokta. Planlar 9,99$'dan başlar. Sözleşme yok, gizli ücret yok, otomatik yenileme yok.
     - q: |
         Kosta Rika için 5GB plan ile sınırsız plan arasındaki fark nedir?
       a: |
@@ -358,56 +358,68 @@ faq_section:
         Kosta Rika eSIM'imi ne kadar önceden satın almalıyım?
       a: |
         İstediğiniz zaman satın alabilirsiniz —kapıda bile. QR kodu dakikalar içinde gelir. Evde WiFi'da kurabilmeniz için birkaç gün önceden satın almanızı öneririz. Plan yalnızca Kosta Rika'da bağlandığınızda etkinleşir, bu nedenle erken satın almak plan günlerinizi boşa harcamaz.
+    - q: |
+        Kosta Rika eSIM ile Liberty turist SIM'i arasındaki fark ne?
+      a: |
+        Roami Kosta Rika eSIM 9,99$'dan başlar ve online alınır; Liberty turist SIM'i genellikle mağaza ziyareti ve kayıt gerektirir. eSIM'de kuyruk ve aktivasyon beklemesi yoktur.
+    - q: |
+        Kosta Rika genelinde Liberty ve Claro kapsaması eSIM ile nasıl çalışır?
+      a: |
+        Roami eSIM Liberty ve Claro ağlarını kullanır; San José, Alajuela ve Heredia'de 4G/5G mevcuttur. Şehir dışında bağlantı 4G hızında sabit kalır.
+    - q: |
+        San José ve Alajuela'de Liberty ağında eSIM hızı yeterli mi?
+      a: |
+        Evet; San José ve Alajuela merkezinde Roami eSIM Liberty 5G/4G ağında çalışır ve tipik olarak 50-200 Mbps sunar. Görüntülü görüşme ve navigasyon için idealdir.
 related_products:
-  title: İlgili Kosta Rika eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Dominika eSIM
+    flag: img/flags/dm.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık eSIM
-    flag: img/flags/gb.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Dominik Cumhuriyeti eSIM
+    flag: img/flags/do.svg
+    price: $5.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: El Salvador eSIM
+    flag: img/flags/sv.svg
+    price: $23.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Grenada eSIM
+    flag: img/flags/gd.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Guadeloupe eSIM
+    flag: img/flags/gp.svg
+    price: $8.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Guatemala eSIM
+    flag: img/flags/gt.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Honduras eSIM
+    flag: img/flags/hn.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Jamaika eSIM
+    flag: img/flags/jm.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Panama eSIM
+    flag: img/flags/pa.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Porto Riko eSIM
+    flag: img/flags/pu.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Bahamalar eSIM
+    flag: img/flags/bs.svg
+    price: $16.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Barbados eSIM
+    flag: img/flags/bb.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Kosta Rika eSIM ve SIM Kart Planları: Hangisi İhtiyaçlarınıza Uyuyor?'
@@ -443,7 +455,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Kölbi'nin en uzun planı 30 gün/2GB için 4.000 colón; Claro'nun yalnızca veri planı 30 gün/10GB için 17.500 colón; Claro'nun 30 günlük planını satın alan 5 günlük bir gezi yaklaşık 12.016 colón (maliyetin %70'i) israf eder.
     esim_title: Esnek Kısa Süreli Planlar
-    esim_desc: Kölbi'nin 30 gün/2GB planının (4.000 colón) veya Claro'nun 30 gün/10GB planının (17.500 colón) aksine, Roami 5 günlük bir gezide %70'e varan israftan tasarruf eden $1,99/GB'den başlayan 7 günlük planlar sunar.
+    esim_desc: Kölbi'nin 30 gün/2GB planının (4.000 colón) veya Claro'nun 30 gün/10GB planının (17.500 colón) aksine, Roami 5 günlük bir gezide %70'e varan israftan tasarruf eden $9,99'dan başlayan 7 günlük planlar sunar.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''
@@ -474,8 +486,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: 30 Günlük Plan İsrafını Ortadan Kaldırın
-      desc: <b>Kölbi</b>'nin en büyük planı 30 gün/2GB (4.000 colón); <b>Claro</b>'nun veri SIM'i 30 gün/10GB (17.500 colón)'dur.
-        7 günlük bir gezi maliyetin ~%70'ini israf eder. Roami, yalnızca kullandığınız kadar ödeyerek <b>$1,99/GB'den</b> başlayan 7 günlük planlar sunar.
+      desc: <b>Kölbi</b>'nin en büyük planı 30 gün/2GB (4.000 colón); <b>Claro</b>'nun veri SIM'i 30 gün/10GB (17.500 colón)'dur. 7 günlük bir gezi maliyetin ~%70'ini israf eder. Roami, yalnızca kullandığınız kadar ödeyerek <b>$9,99'dan</b> başlayan 7 günlük planlar sunar.
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600

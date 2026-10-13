@@ -1,6 +1,6 @@
 ---
 title: 'ABD eSIM 2026: Seyahat ve Ağ Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
 seo:
   title: 'ABD eSIM | Gezginler için En İyi Ön Ödemeli eSIM'
-  description: 'ABD''ye seyahat mi planlıyorsunuz? Roami''den en iyi ön ödemeli seyahat eSIM''ini alın, en iyi ağlarda sınırsız 5G veri. Ülke genelinde anında etkinleştirme. 1,99$''dan başlayan planlar.'
-  keywords: 'ABD eSIM, ABD eSIM satın al, en iyi ABD eSIM, ABD seyahat eSIM, T-Mobile Amerika Birleşik Devletleri, AT&T ABD, Verizon ABD, New York eSIM, Los Angeles eSIM, Chicago eSIM, ABD ön ödemeli eSIM, 5G ABD eSIM'
+  description: 'Ucuz ABD eSIM: New York, Los Angeles ve Chicago''de 5G. QR kod ile 2 dakikada kurulum, 24/7 destek. 1,99$''dan fiyatlar.'
+  keywords: 'ABD eSIM, ABD eSIM planları, en iyi ABD eSIM, ucuz ABD eSIM, ABD eSIM çevrimiçi satın al, sınırsız veri ABD eSIM, ön ödemeli ABD eSIM, ABD için en iyi eSIM, ABD eSIM fiyatı, ABD eSIM aktivasyonu, ABD eSIM kapsama alanı, New York için en iyi eSIM, New York eSIM, Los Angeles eSIM'
   low_price: 1.99
-  high_price: 39.9
+  high_price: 49.99
 order_summary:
   title: 'Seçilen Plan'
   label_data: 'Dahil Olan Veri'
@@ -328,6 +328,8 @@ reminders:
     html: 'QR kodu e-posta adresinize gönderilecektir.'
   - icon: 🔄
     html: 'Aynı anda birden fazla eSIM kurabilirsiniz.'
+  - icon: 🏙️
+    html: 'New York ve Los Angeles''de en iyi kapsama: verilerinizi paylaşmak için hotspot dahildir.'
   compatibility_check:
     title: 'Hızlı Uyumluluk Kontrolü'
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kolayca kontrol edebilirsiniz:'
@@ -363,7 +365,7 @@ faq_section:
     title: 'ABD eSIM SSS'
     questions:
     - q: 'ABD seyahati için en ucuz eSIM seçenekleri nelerdir?'
-      a: 'Roami ABD eSIM planları 1,99$''dan başlar (7 gün, 1GB) ve 59,99$''a (30 gün sınırsız) kadar çıkar. Tipik 5-7 günlük bir seyahat için 9,99$''daki 5GB plan en uygunudur —haritalar, mesajlaşma ve sosyal medya kontrolü için yeterlidir. Video izlemek veya uzaktan çalışmak mı istiyorsunuz? 10GB veya sınırsız tercih edin. T-Mobile''ın 5G ağı sayesinde yayın ve video görüşmeleri harika çalışır. Havaalanı SIM büfeleri %30-50 daha pahalıdır ve kuyrukta beklemeniz gerekir. Veri ihtiyaçlarınızdan emin değil misiniz? Küçük başlayın ve eSIM''inizi değiştirmeden uygulama üzerinden ekleme yapın.'
+      a: 'ABD için Roami planları 1.99$ (7 Gün, 1GB) ile 49.99$ (30 Gün, Sınırsız) arasında konumlanır. Tipik bir 5-7 günlük gezi için 5.99$ (3 Gün, 5GB) planı en ideal olanıdır — günlük harita, mesajlaşma ve sosyal medya için yeterlidir. Video izlemek veya uzaktan çalışmak mı istiyorsunuz? 50GB tercih edin. T-Mobile''ın 5G ağı sayesinde yayın ve video görüşmeleri harika çalışır. Havaalanı SIM büfeleri %30-50 daha pahalıdır ve kuyrukta beklemeniz gerekir. Veri ihtiyaçlarınızdan emin değil misiniz? Küçük başlayın ve eSIM''inizi değiştirmeden uygulama üzerinden ekleme yapın.'
     - q: 'ABD gerçekten eSIM kullanmak için herhangi bir kimlik gerektirmiyor mu? Sadece satın alıp gidebilir miyim?'
       a: 'Doğru —ABD eSIM''i pasaport veya kimlik doğrulaması gerektirmez. ABD ön ödemeli kartları genellikle KYC gerektirmez, ancak bazı taşıyıcılar ABD adresi isteyebilir. Sadece satın alın, kurun ve çevrimiçi olun. Belge yükleme yok, onay beklemek yok. Gitmeden önce kurun, varışta Veri Dolaşımı''nı etkinleştirin ve hazırsınız.'
     - q: 'Roami''den ABD eSIM satın almak için hangi belgelere ihtiyacım var?'
@@ -378,56 +380,68 @@ faq_section:
       a: 'eSIM rahatlık konusunda kazanır. Seyahatinizin sonunda taşıyacak, şarj edecek veya iade edecek bir cihaz yok —cep WiFi kiralama ile karşılaştırıldığında günde yaklaşık 3-5$ tasarruf sağlar. Cep WiFi 3+ kişilik gruplar için çalışır, ancak tek bir cihaza bağlısınız ve 6-8 saat boyunca şarjlı tutmanız gerekir. eSIM ile telefonunuz sıcak noktanızdır. Tüm Roami planları 5 cihaza kadar ücretsiz sıcak nokta paylaşımı içerir.'
     - q: 'ABD eSIM''imin geçerlilik süresi ne zaman başlar?'
       a: 'Plan geçerliliği, satın aldığınızda veya kurduğunuzda değil, ABD''de yerel bir ağa bağlandığınızda başlar. Yani seyahatinizden haftalar önce satın alıp kurabilir ve plan günlerinizi kaybetmeden kullanabilirsiniz. 7 günlük bir plan, ilk bağlantıdan itibaren size 7 tam gün verir.'
+    - q: |
+        New York ve Los Angeles'de T-Mobile ağında eSIM hızı yeterli mi?
+      a: |
+        Evet; New York ve Los Angeles merkezinde Roami eSIM T-Mobile 5G/4G ağında çalışır ve tipik olarak 50-200 Mbps sunar. Görüntülü görüşme ve navigasyon için idealdir.
+    - q: |
+        ABD eSIM ile fiziksel SIM'i aynı anda kullanabilir miyim, T-Mobile numaram çalışır mı?
+      a: |
+        Evet: veri eSIM'de, ses ve SMS kendi hattınızda kalır. Böylece T-Mobile numaranız önemli aramaları almaya devam eder.
+    - q: |
+        ABD için eSIM kurulumu T-Mobile SIM almaktan daha mı hızlı?
+      a: |
+        Evet: QR kodunu e-posta ile 5 dakikada alıp evde kurulur; T-Mobile mağazasında beklemek gerekmez. Varışta eSIM otomatik olarak devreye girer.
 related_products:
-  title: 'İlgili ABD eSIM Planları'
+  title: İlgili eSIM Planları
   items:
-  - name: 'ABD eSIM'
-    flag: img/flags/us.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Birleşik Krallık eSIM'
-    flag: img/flags/gb.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Avrupa eSIM'
-    flag: img/flags/eu.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: true
-  - name: 'Kanada eSIM'
+  - name: Kanada eSIM
     flag: img/flags/ca.svg
-    price: 'Başlangıç $1.99'
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Türkiye eSIM'
-    flag: img/flags/tr.svg
-    price: 'Başlangıç $1.99'
+  - name: Meksika eSIM
+    flag: img/flags/mx.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Çin eSIM'
-    flag: img/flags/cn.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Japonya eSIM'
-    flag: img/flags/jp.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Hong Kong eSIM'
-    flag: img/flags/hk.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Fransa eSIM'
-    flag: img/flags/fr.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'İspanya eSIM'
-    flag: img/flags/es.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Almanya eSIM'
+  - name: Almanya eSIM
     flag: img/flags/de.svg
-    price: 'Başlangıç $1.99'
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Avustralya eSIM'
+  - name: Fransa eSIM
+    flag: img/flags/fr.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Japonya eSIM
+    flag: img/flags/jp.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: İspanya eSIM
+    flag: img/flags/es.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Çin eSIM
+    flag: img/flags/cn.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Avustralya eSIM
     flag: img/flags/au.svg
-    price: 'Başlangıç $1.99'
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: true
+  - name: Türkiye eSIM
+    flag: img/flags/tr.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: İtalya eSIM
+    flag: img/flags/it.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Singapur eSIM
+    flag: img/flags/sg.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'ABD eSIM vs Fiziksel SIM Kart: Artılar ve Eksiler —ABD Gezginleri için En İyi eSIM'
@@ -463,11 +477,11 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 'Neredeyse tüm ABD ön ödemeli planları 30 günlük aylık aboneliklerdir; ortalama veri maliyeti GB başına 6$''dır, ayrıca %10''a varan satış vergisi, kısa süreli ziyaretçiler için yüksek batık maliyetle sonuçlanır.'
     esim_title: 'Esnek Kısa Vadeli Planlar'
-    esim_desc: '30 günlük ABD planlarından (GB başına 6$ + %10 vergi) farklı olarak, Roami 1,99$/GB''den başlayan 7 günlük planlar sunar, kısa seyahatler için %75''e varan israftan tasarruf sağlar.'
+    esim_desc: '30 günlük ABD planlarından (GB başına 6$ + %10 vergi) farklı olarak, Roami 1,99$''dan başlayan 7 günlük planlar sunar, kısa seyahatler için %75''e varan israftan tasarruf sağlar.'
   - icon: wifi
     title: 'Sıcak Nokta ve<br>Hız Politikaları'
     prepaid_title: ''
-    prepaid_desc: 'T-Mobile sınırsız planları, 35GB veya 50GB''tan sonra sıcak noktayı öncelik hızının %15''ine düşürür; AT&T ön ödemeli kullanıcılar QCI 8 veya 9''dadır (öncelik hızının %33-%67''si), yoğunluk sırasında sıcak noktayı neredeyse kullanılamaz hale getirir.'
+    prepaid_desc: 'T-Mobile sınırsız planları, 30GB veya 50GB''tan sonra sıcak noktayı öncelik hızının %15''ine düşürür; AT&T ön ödemeli kullanıcılar QCI 8 veya 9''dadır (öncelik hızının %33-%67''si), yoğunluk sırasında sıcak noktayı neredeyse kullanılamaz hale getirir.'
     esim_title: 'Kısıtlamasız Tethering'
     esim_desc: 'T-Mobile gibi 35GB sonrası hız sınırlaması yok. Roami eSIM tam hızda sıcak nokta paylaşımına izin verir, dizüstü bilgisayarlar ve tabletler bağlamak için mükemmeldir.'
   - icon: credit-card

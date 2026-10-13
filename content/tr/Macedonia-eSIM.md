@@ -1,6 +1,6 @@
 ---
 title: 'Makedonya eSIM 2026: Şehir ve Ağ Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,14 +18,11 @@ modal:
   text_android: eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltilmiştir.<br>Yeni müşteriler %20 indirimden yararlanır,
     promosyon kodu:web20
 seo:
-  title: 'Makedonya eSIM 1,99$''dan başlayan fiyatlarla: Sınırsız 5G Kapsama'
-  description: Üsküp, Ohrid, Bitola'da hızlı 5G ile Makedonya eSIM planlarını karşılaştırın. Turistler ve gezginler için
-    A1 Macedonia & Telekom Macedonia & Lycamobile kapsama rehberi. 1,99$'dan başlayan fiyatlarla anında QR aktivasyonu.
-  keywords: Makedonya eSIM, Makedonya eSIM satın al, en iyi Makedonya eSIM, Makedonya seyahat eSIM, A1 Macedonia Makedonya,
-    Telekom Macedonia Makedonya, Lycamobile Makedonya, Üsküp eSIM, Ohrid eSIM, Bitola eSIM, Makedonya ön ödemeli eSIM, 5G
-    Makedonya eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: 'Makedonya için eSIM: 5G Kapsama ve Hotspot'
+  description: 'Ucuz Makedonya eSIM: Üsküp, Ohrid ve Bitola''de 5G. QR kod ile 2 dakikada kurulum, 24/7 destek. 4,99$''dan fiyatlar.'
+  keywords: Makedonya eSIM, Makedonya eSIM planları, en iyi Makedonya eSIM, ucuz Makedonya eSIM, Makedonya eSIM çevrimiçi satın al, sınırsız veri Makedonya eSIM, ön ödemeli Makedonya eSIM, Makedonya için en iyi eSIM, Makedonya eSIM fiyatı, Makedonya eSIM aktivasyonu, Makedonya eSIM kapsama alanı, Üsküp için en iyi eSIM, Üsküp eSIM, Ohrid eSIM
+  low_price: 4.99
+  high_price: 94.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -199,6 +196,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🗺️
+    html: 'Üsküp ve Ohrid''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -247,7 +246,7 @@ faq_section:
     - q: |
         Roami'den Makedonya eSIM satın aldığımda neler dahil?
       a: |
-        5 dakika içinde QR kodu teslimatı, Makedonski Telekom'un ağına erişim, 7/24 müşteri desteği ve 5 cihaza kadar ücretsiz sıcak nokta. Planlar 1,99$'dan başlar. Sözleşme yok, gizli ücret yok, otomatik yenileme yok.
+        5 dakika içinde QR kodu teslimatı, Makedonski Telekom'un ağına erişim, 7/24 müşteri desteği ve 5 cihaza kadar ücretsiz sıcak nokta. Planlar 4,99$'dan başlar. Sözleşme yok, gizli ücret yok, otomatik yenileme yok.
     - q: |
         Havaalanı SIM tezgahlarıyla uğraşmadan Makedonya'da bağlantıda kalmanın en kolay yolu nedir?
       a: |
@@ -268,55 +267,67 @@ faq_section:
         Makedonya'da planım sona ermeden önce tüm verimi kullanırsam ne olur?
       a: |
         Roami uygulamasından ek paket satın alın. Yeni veri anında etkinleşir —yeni QR kodu yok, yeniden kurulum yok. Herhangi bir kesintiyi önlemek için yaklaşık %20 veri kaldığında ek paket satın almanızı öneririz.
+    - q: |
+        Makedonya eSIM fiyatı A1 Macedonia ön ödemeli SIM'e kıyasla nasıl?
+      a: |
+        Roami Makedonya planları 4,99$'dan başlar ve çevrimiçi birkaç tıkla alınır. A1 Macedonia mağazasında sıra beklemek ve yerel ön ödemeli SIM'lerde sık görülen kayıt/aktivasyon ücreti gerekmez.
+    - q: |
+        Makedonya eSIM hangi ağlarda çalışır, A1 Macedonia kapsaması yeterli mi?
+      a: |
+        Roami eSIM A1 Macedonia ve Telekom Macedonia ağlarına bağlanır; Üsküp ve Ohrid gibi büyük şehirlerde 4G/5G sunar. Kırsal bölgelerde 4G kapsama güçlü kalır.
+    - q: |
+        Üsküp'de A1 Macedonia şebekesinde eSIM hızı nasıl?
+      a: |
+        Üsküp'de Roami eSIM A1 Macedonia 5G/4G ağını kullanır; şehir merkezinde tipik hız 50-200 Mbps. Harita, sosyal medya ve görüntülü arama için uygundur.
 related_products:
   title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Malta eSIM
+    flag: img/flags/mt.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Hollanda eSIM
+    flag: img/flags/nl.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Norveç eSIM
+    flag: img/flags/no.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Polonya eSIM
+    flag: img/flags/pl.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Portekiz eSIM
+    flag: img/flags/pt.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Romanya eSIM
+    flag: img/flags/ro.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Rusya eSIM
+    flag: img/flags/ru.svg
+    price: $2.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: İspanya eSIM
     flag: img/flags/es.svg
-    price: 1,99$'dan başlayan fiyatlarla
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: İsviçre eSIM
+    flag: img/flags/ch.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Türkiye eSIM
+    flag: img/flags/tr.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Ukrayna eSIM
+    flag: img/flags/ua.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kosta Rika eSIM
+    flag: img/flags/cr.svg
+    price: $9.99'dan başlayan fiyatlarla
     is_highlight: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Guyana eSIM 2026: Yerel Operatör Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Digicel, GTT, E-Networks
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Georgetown, Linden, New Amsterdam, Bartica, Anna Regina
-  main_packages: 3/7/15/30 Gün, Sınırsız Veri
+  main_packages: 7/15/30 Gün, 1GB–6GB Veri
 modal:
   title: Hizmet Yükseltildi!
   btn_text: Devam Et
@@ -18,13 +18,11 @@ modal:
   text_android: eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltilmiştir.<br>Yeni müşteriler %20 indirimden yararlanır,
     promosyon kodu:web20
 seo:
-  title: 'Guyana eSIM 1,99$''dan başlayan fiyatlarla: Gezginler İçin Hızlı 5G Veri'
-  description: Georgetown, Linden, New Amsterdam'da hızlı 5G ile Guyana eSIM planlarını karşılaştırın. Turistler ve gezginler
-    için Digicel & GTT & E-Networks kapsama rehberi. 1,99$'dan başlayan fiyatlarla anında QR aktivasyonu.
-  keywords: Guyana eSIM, Guyana eSIM satın al, en iyi Guyana eSIM, Guyana seyahat eSIM, Digicel Guyana, GTT Guyana, E-Networks
-    Guyana, Georgetown eSIM, Linden eSIM, New Amsterdam eSIM, Guyana ön ödemeli eSIM, 5G Guyana eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: 'Guyana eSIM | Anında QR Aktivasyonu'
+  description: 'Guyana için ön ödemeli seyahat eSIM''i: Georgetown, Linden ve tüm ülkede 5G. Pasaport kaydı yok. 9,99$''dan başlar.'
+  keywords: Guyana eSIM, Guyana eSIM planları, en iyi Guyana eSIM, ucuz Guyana eSIM, Guyana eSIM çevrimiçi satın al, Guyana eSIM veri planları, ön ödemeli Guyana eSIM, Guyana için en iyi eSIM, Guyana eSIM fiyatı, Guyana eSIM aktivasyonu, Guyana eSIM kapsama alanı, Georgetown için en iyi eSIM, Georgetown eSIM, Linden eSIM
+  low_price: 9.99
+  high_price: 49.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -165,6 +163,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🗺️
+    html: 'Georgetown ve Linden''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -207,9 +207,9 @@ faq_section:
       a: |
         Digicel ve GTT, Guyana'nın mobil pazarını kapsar. Digicel, en hızlı kentsel veri hızlarıyla mobil kullanıcıların yaklaşık %60'ına hizmet verir. GTT, yaklaşık %10 daha geniş coğrafi kapsama ile daha uzak bölgelere ulaşır. Guyana öncelikle 4G'dir. Roami ile her ikisinin de en iyisini elde edersiniz —otomatik geçiş.
     - q: |
-        Guyana için sınırsız eSIM planı buna değer mi, yoksa sabit veri planı daha mı iyi olur?
+        Guyana eSIM planlarında sabit veri mi, yoksa kullanım sınırı mı var?
       a: |
-        Roami'nin sınırsız planının adil bir sınırı vardır: günde 30GB, sonrasında gece yarısına kadar hız 512 kbps'ye düşer. Çoğu gezgin günlük 500MB ile 3GB arasında kullanır —30GB'a ulaşmak, 10 saat boyunca kesintisiz 4K video izlemek anlamına gelir. Normal gezinti, haritalar ve sosyal medya için 5GB veya 10GB plan yeterlidir. Yoğun yayın veya sıcak nokta paylaşımı planlıyorsanız sınırsızı seçin.
+        Paketler sabit verilidir; her plan belirli bir veri hacmi sunar. Çoğu gezgin günlük 500MB ile 3GB arasında kullanır —30GB'a ulaşmak, 10 saat boyunca kesintisiz 4K video izlemek anlamına gelir. Normal gezinti, haritalar ve sosyal medya için 5GB veya 6GB plan yeterlidir. Yoğun yayın veya sıcak nokta paylaşımı planlıyorsanız 6GB paketini seçin.
     - q: |
         Roami'den Guyana eSIM satın almak için hangi belgelere ihtiyacım var?
       a: |
@@ -234,56 +234,68 @@ faq_section:
         Guyana eSIM'im vardığımda bağlanmazsa ne yapmalıyım?
       a: |
         Her biri yaklaşık 30 saniye süren üç hızlı kontrol: 1) Veri Dolaşımı açık mı? 2) Ağ ayarlarında Digicel'i manuel olarak seçebilir misiniz? 3) Telefonunuzu yeniden başlatmayı deneyin. Bağlantı sorunlarının yaklaşık %90'ı bu adımlardan biriyle çözülür. Değilse, Roami 7/24 destek yardımcı olabilir.
+    - q: |
+        Guyana eSIM ile fiziksel SIM'i aynı anda kullanabilir miyim, Digicel numaram çalışır mı?
+      a: |
+        Evet: veri eSIM'de, ses ve SMS kendi hattınızda kalır. Böylece Digicel numaranız önemli aramaları almaya devam eder.
+    - q: |
+        Guyana için eSIM kurulumu Digicel SIM almaktan daha mı hızlı?
+      a: |
+        Evet: QR kodunu e-posta ile 5 dakikada alıp evde kurulur; Digicel mağazasında beklemek gerekmez. Varışta eSIM otomatik olarak devreye girer.
+    - q: |
+        Guyana gezisi için kaç GB almalıyım, Digicel paketlerine göre?
+      a: |
+        Günlük harita ve mesaj için 3-5GB, sosyal medya ve video için 10GB uygundur. Roami Guyana planları 9,99$'dan başlar ve Digicel paketlerinden bağımsızdır.
 related_products:
-  title: İlgili Guyana eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Paraguay eSIM
+    flag: img/flags/py.svg
+    price: $22.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Peru eSIM
+    flag: img/flags/pe.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Uruguay eSIM
+    flag: img/flags/uy.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Arjantin eSIM
+    flag: img/flags/ar.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: eSIM Bolívia eSIM
+    flag: img/flags/bo.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Brezilya eSIM
+    flag: img/flags/br.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Şili eSIM
+    flag: img/flags/cl.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kolombiya eSIM
+    flag: img/flags/co.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Ekvador eSIM
+    flag: img/flags/ec.svg
+    price: $6.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Fransız Guyanası eSIM
+    flag: img/flags/gf.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
   - name: Çin eSIM
     flag: img/flags/cn.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1,99$'dan başlayan fiyatlarla
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Avustralya eSIM
     flag: img/flags/au.svg
-    price: 1,99$'dan başlayan fiyatlarla
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Guyana eSIM ve Ön Ödemeli SIM: Hangisi Sizin İçin Doğru?'
@@ -327,8 +339,7 @@ market_analysis:
     prepaid_desc: GTT+ 1 gün, 3 gün, 7 gün ve 30 günlük planlar sunar; Digicel 1 gün, 2 gün, 3 gün, 7 gün, 30 gün ve
       90 günlük planlar sunar. Örneğin, GTT+ Aylık 4GB, 30 gün için 3499 GYD'dir.
     esim_title: Esnek Kısa Süreli Planlar
-    esim_desc: 5 günlük bir gezinin verinin %75'ini israf ettiği GTT+'nın 30 günlük 4GB planından (3499 GYD) farklı
-      olarak, Roami, seyahat sürenize tam olarak uyan 1,99$/GB'dan başlayan 7 günlük planlar sunar.
+    esim_desc: 5 günlük bir gezinin verinin %75'ini israf ettiği GTT+'nın 30 günlük 4GB planından (3499 GYD) farklı olarak, Roami, seyahat sürenize tam olarak uyan 9,99$'dan başlayan 7 günlük planlar sunar.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''

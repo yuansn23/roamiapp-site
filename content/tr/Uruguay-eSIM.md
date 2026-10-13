@@ -1,6 +1,6 @@
 ---
 title: 'Uruguay eSIM 2026: Kapsamlı Seyahat Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,12 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Uruguay eSIM | Gezginler için Sınırsız Veri Planı
-  description: Roami'den Uruguay için en iyi ön ödemeli seyahat eSIM'i ile seyahat edin. Ülke genelinde sınırsız 5G veri.
-    Montevideo, Punta del Este ve Colonia'yı kapsar. Anında etkinleştirme.
-  keywords: Uruguay eSIM, Uruguay eSIM satın al, en iyi Uruguay eSIM, Uruguay seyahat eSIM, Antel Uruguay, Claro Uruguay,
-    Movistar Uruguay, Montevideo eSIM, Salto eSIM, Punta del Este eSIM, Uruguay ön ödemeli eSIM, 5G Uruguay eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Uruguay seyahati için eSIM: Antel ve Claro ağı, Montevideo''de 5G. Anında aktivasyon, iade garantisi. 11,99$''dan başlar.'
+  keywords: Uruguay eSIM, Uruguay eSIM planları, en iyi Uruguay eSIM, ucuz Uruguay eSIM, Uruguay eSIM çevrimiçi satın al, sınırsız veri Uruguay eSIM, ön ödemeli Uruguay eSIM, Uruguay için en iyi eSIM, Uruguay eSIM fiyatı, Uruguay eSIM aktivasyonu, Uruguay eSIM kapsama alanı, Montevideo için en iyi eSIM, Montevideo eSIM, Salto eSIM
+  low_price: 11.99
+  high_price: 98.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -297,6 +295,10 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 📱
+    html: 'Arama ve SMS için fiziksel SIM''inizi açık tutun; Uruguay eSIM''i yalnızca mobil veri için kullanın.'
+  - icon: 🗺️
+    html: 'Montevideo ve Salto''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -351,11 +353,7 @@ faq_section:
     - q: |
         Uruguay'ı ziyaret ederken eSIM için ne kadar bütçe ayırmalıyım?
       a: |
-        Roami, 7 günlük hafif plan için $1.99'dan 30 gün sınırsız veri için $59.99'a kadar Uruguay eSIM sunar. Çoğu ziyaretçi
-        5GB/15 günlük planı $9.99 ile tercih eder —günlük navigasyon, sosyal medya ve mesajlaşmayı stres olmadan karşılar.
-        Yayın severler veya yoğun sosyal medya kullanıcıları 10GB veya sınırsız düşünmelidir. Antel, Uruguay genelinde
-        güvenilir hızlar sağlar. Roami planları ön ödemelidir —sürpriz faturalar yok, otomatik yenileme yok, sadece anlaşılır
-        fiyatlandırma.
+        Roami'nin Uruguay eSIM paketleri 11.99$ (7 Gün, 1GB) ile 98.99$ (15 Gün, 30GB) arasında sunulmaktadır. Çoğu ziyaretçi 5GB/15 günlük planı $26.99 ile tercih eder —günlük navigasyon, sosyal medya ve mesajlaşmayı stres olmadan karşılar. Yayın severler veya yoğun sosyal medya kullanıcıları 10GB veya sınırsız düşünmelidir. Antel, Uruguay genelinde güvenilir hızlar sağlar. Roami planları ön ödemelidir —sürpriz faturalar yok, otomatik yenileme yok, sadece anlaşılır fiyatlandırma.
     - q: |
         Uruguay eSIM kaydı için pasaportumu yüklemek güvenli mi? Gizlilik konusunda endişeliyim.
       a: |
@@ -386,56 +384,68 @@ faq_section:
         Çoğu turist için günlük ortalama kullanım: haritalar ve mesajlaşma için 300-500MB, sosyal medyayı yoğun kullanıyorsanız
         1GB'a kadar. Bir haftalık seyahat için 5GB rahattır. İki hafta için 10GB tercih edin. Roami, veriniz azalırsa kolayca
         ek yükleme yapmanızı sağlar.
+    - q: |
+        Uruguay eSIM ile fiziksel SIM'i aynı anda kullanabilir miyim, Antel numaram çalışır mı?
+      a: |
+        Evet: veri eSIM'de, ses ve SMS kendi hattınızda kalır. Böylece Antel numaranız önemli aramaları almaya devam eder.
+    - q: |
+        Uruguay için eSIM kurulumu Antel SIM almaktan daha mı hızlı?
+      a: |
+        Evet: QR kodunu e-posta ile 5 dakikada alıp evde kurulur; Antel mağazasında beklemek gerekmez. Varışta eSIM otomatik olarak devreye girer.
+    - q: |
+        Uruguay gezisi için kaç GB almalıyım, Antel paketlerine göre?
+      a: |
+        Günlük harita ve mesaj için 3-5GB, sosyal medya ve video için 10GB uygundur. Roami Uruguay planları 11,99$'dan başlar ve Antel paketlerinden bağımsızdır.
 related_products:
-  title: İlgili Uruguay eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: $1.99’dan başlayan
+  - name: Arjantin eSIM
+    flag: img/flags/ar.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: $1.99’dan başlayan
+  - name: eSIM Bolívia eSIM
+    flag: img/flags/bo.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: $1.99’dan başlayan
+  - name: Brezilya eSIM
+    flag: img/flags/br.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Şili eSIM
+    flag: img/flags/cl.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kolombiya eSIM
+    flag: img/flags/co.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Ekvador eSIM
+    flag: img/flags/ec.svg
+    price: $6.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Fransız Guyanası eSIM
+    flag: img/flags/gf.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Guyana eSIM
+    flag: img/flags/gy.svg
+    price: $9.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Paraguay eSIM
+    flag: img/flags/py.svg
+    price: $22.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Peru eSIM
+    flag: img/flags/pe.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
   - name: Türkiye eSIM
     flag: img/flags/tr.svg
-    price: $1.99’dan başlayan
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: $1.99’dan başlayan
+  - name: İtalya eSIM
+    flag: img/flags/it.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Uruguay eSIM vs Yerel Ön Ödemeli SIM: Hangisi Daha Kullanışlı?'
@@ -478,8 +488,7 @@ market_analysis:
     prepaid_desc: Antel 3 gün (120 UYU/30GB) ile 120 gün (500 UYU/2.3GB) arası planlar sunar; 30 günlük plan (165 UYU/760MB)
       satın alan 7 günlük bir turist planın değerinin %75'inden fazlasını israf eder.
     esim_title: Esnek Kısa Süreli Planlar
-    esim_desc: 7 günlük bir seyahat için %75 israf eden Antel'in 30 günlük döngüsünden (165 UYU/760MB) farklı olarak Roami,
-      $1.99/GB'dan başlayan 7 günlük planlar sunar.
+    esim_desc: 7 günlük bir seyahat için %75 israf eden Antel'in 30 günlük döngüsünden (165 UYU/760MB) farklı olarak Roami, $11.99'dan başlayan 7 günlük planlar sunar.
   - icon: wifi
     title: Paylaşım ve<br>Hız Politikaları
     prepaid_title: ''

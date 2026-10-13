@@ -1,6 +1,6 @@
 ---
 title: 'Dominika eSIM 2026: Plan ve Kapsama Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,12 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Dominika eSIM | Gezginler İçin En İyi Ön Ödemeli eSIM
-  description: Dominika'ya seyahat mi planlıyorsunuz? Roami'nin en iyi ön ödemeli seyahat eSIM'ini sınırsız 5G veri ile alın.
-    Roseau ve tüm bölgeleri kapsar. Anında aktivasyon.
-  keywords: Dominika eSIM, Dominika eSIM satın al, en iyi Dominika eSIM, Dominika seyahat eSIM, Digicel Dominika, Flow Dominika,
-    Orange Dominika, Roseau eSIM, Portsmouth eSIM, Marigot eSIM, Dominika ön ödemeli eSIM, 5G Dominika eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Dominika eSIM planları 11,99$'dan başlar. Roseau ve Portsmouth'de hızlı 5G, sözleşme yok, hotspot dahil. Anında etkinleştirme.
+  keywords: Dominika eSIM, Dominika eSIM planları, en iyi Dominika eSIM, ucuz Dominika eSIM, Dominika eSIM çevrimiçi satın al, sınırsız veri Dominika eSIM, ön ödemeli Dominika eSIM, Dominika için en iyi eSIM, Dominika eSIM fiyatı, Dominika eSIM aktivasyonu, Dominika eSIM kapsama alanı, Roseau için en iyi eSIM, Roseau eSIM, Portsmouth eSIM
+  low_price: 11.99
+  high_price: 52.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -183,6 +181,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🏙️
+    html: 'Roseau ve Portsmouth''de en iyi kapsama: verilerinizi paylaşmak için hotspot dahildir.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -252,57 +252,69 @@ faq_section:
         Dominika eSIM kırsal alanlarda ve küçük kasabalarda çalışır mı?
       a: |
         Dominika'da kapsama kentsel alanların yaklaşık %95'ine ulaşır ancak uzak konumlarda düşer. Hızlar 200-300 Mbps'den (5G) 10-30 Mbps'ye (4G) düşebilir. Roami en güçlü ağa otomatik olarak geçer. Uzak bölgelere gitmeden önce çevrimdışı haritaları indirin.
+    - q: |
+        Dominika gezisi için kaç GB almalıyım, Digicel paketlerine göre?
+      a: |
+        Günlük harita ve mesaj için 3-5GB, sosyal medya ve video için 10GB uygundur. Roami Dominika planları 11,99$'dan başlar ve Digicel paketlerinden bağımsızdır.
+    - q: |
+        Dominika eSIM fiyatı Digicel ön ödemeli SIM'e kıyasla nasıl?
+      a: |
+        Roami Dominika planları 11,99$'dan başlar ve çevrimiçi birkaç tıkla alınır. Digicel mağazasında sıra beklemek ve yerel ön ödemeli SIM'lerde sık görülen kayıt/aktivasyon ücreti gerekmez.
+    - q: |
+        Dominika eSIM hangi ağlarda çalışır, Digicel kapsaması yeterli mi?
+      a: |
+        Roami eSIM Digicel ve Flow ağlarına bağlanır; Roseau ve Portsmouth gibi büyük şehirlerde 4G/5G sunar. Kırsal bölgelerde 4G kapsama güçlü kalır.
 related_products:
-  title: İlgili Dominika eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Dominik Cumhuriyeti eSIM
+    flag: img/flags/do.svg
+    price: $5.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: El Salvador eSIM
+    flag: img/flags/sv.svg
+    price: $23.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Grenada eSIM
+    flag: img/flags/gd.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Guadeloupe eSIM
+    flag: img/flags/gp.svg
+    price: $8.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Guatemala eSIM
+    flag: img/flags/gt.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Honduras eSIM
+    flag: img/flags/hn.svg
+    price: $6.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Jamaika eSIM
+    flag: img/flags/jm.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Panama eSIM
+    flag: img/flags/pa.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Porto Riko eSIM
+    flag: img/flags/pu.svg
+    price: $6.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Bahamalar eSIM
+    flag: img/flags/bs.svg
+    price: $16.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Barbados eSIM
+    flag: img/flags/bb.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kosta Rika eSIM
+    flag: img/flags/cr.svg
+    price: $9.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
 market_analysis:
   title: 'Dominika eSIM ve Yerel Ön Ödemeli SIM: Hangisi Daha Kullanışlı?'
   subtitle: Dominika Yerel Ön Ödemeli SIM''ler ve eSIM Çözümleri (2024/2025 Kıyaslaması)
@@ -344,8 +356,7 @@ market_analysis:
     prepaid_desc: Flow, EC$69.99/3GB gibi 30 günlük planlar sunar; Digicel, EC$54.99/1.5GB/30 gün sunar. 1 günlük hariç
       tüm planlarda otomatik yenileme vardır.
     esim_title: Esnek Planlar, İsraf Yok
-    esim_desc: 7 günlük bir gezi için %75 israf eden ve otomatik yenilenen Flow'un 30 günlük planlarından (EC$69.99/3GB)
-      farklı olarak, Roami 1,99$/GB'dan başlayan 7 günlük planlar sunar. Otomatik yenileme yok, batık maliyet yok.
+    esim_desc: 7 günlük bir gezi için %75 israf eden ve otomatik yenilenen Flow'un 30 günlük planlarından (EC$69.99/3GB) farklı olarak, Roami 11,99$'dan başlayan 7 günlük planlar sunar. Otomatik yenileme yok, batık maliyet yok.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''
@@ -393,6 +404,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Uzun Faturalandırma Döngülerinden Batık Maliyeti Ortadan Kaldırın
-      desc: Flow'un 30 günlük planı (EC$69.99/3GB) ve Digicel'in 30 günlük planı (EC$54.99/1.5GB) 7 günlük bir gezi için
-        %70'ten fazlasını israf eder. Roami, <b>$1.99/GB</b>'dan başlayan 7 günlük planlar sunar, otomatik yenileme yoktur.
+      desc: Flow'un 30 günlük planı (EC$69.99/3GB) ve Digicel'in 30 günlük planı (EC$54.99/1.5GB) 7 günlük bir gezi için %70'ten fazlasını israf eder. Roami, <b>$11.99</b>'dan başlayan 7 günlük planlar sunar, otomatik yenileme yoktur.
 ---

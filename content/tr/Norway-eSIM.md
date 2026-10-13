@@ -1,6 +1,6 @@
 ---
 title: 'Norveç eSIM 2026: 5G ve Veri Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: 'Norveç eSIM | Gezginler için En İyi Ön Ödemeli eSIM'
   description: 'Roami''den Norveç için en iyi ön ödemeli seyahat eSIM''ini alın. Ülke genelinde sınırsız 5G veri. Anında etkinleştirme. Oslo, Bergen ve fiyortları kapsar.'
-  keywords: 'Norveç eSIM, Norveç eSIM satın al, en iyi Norveç eSIM, Norveç seyahat eSIM, Telenor Norveç, Telia Norveç, Ice Norveç, Oslo eSIM, Bergen eSIM, Trondheim eSIM, Norveç ön ödemeli eSIM, 5G Norveç eSIM'
+  keywords: 'Norveç eSIM, Norveç eSIM planları, en iyi Norveç eSIM, ucuz Norveç eSIM, Norveç eSIM çevrimiçi satın al, sınırsız veri Norveç eSIM, ön ödemeli Norveç eSIM, Norveç için en iyi eSIM, Norveç eSIM fiyatı, Norveç eSIM aktivasyonu, Norveç eSIM kapsama alanı, Oslo için en iyi eSIM, Oslo eSIM, Bergen eSIM'
   low_price: 1.99
-  high_price: 39.9
+  high_price: 79.99
 order_summary:
   title: 'Seçilen Plan'
   label_data: 'Dahil Olan Veri'
@@ -336,6 +336,8 @@ reminders:
     html: 'QR kodu e-posta adresinize gönderilecektir.'
   - icon: 🔄
     html: 'Aynı anda birden fazla eSIM kurabilirsiniz.'
+  - icon: 📍
+    html: 'Oslo için eSIM''i varışta etkinleştirmenizi öneririz: geçerlilik ilk bağlantıda başlar.'
   compatibility_check:
     title: 'Hızlı Uyumluluk Kontrolü'
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kolayca kontrol edebilirsiniz:'
@@ -371,7 +373,7 @@ faq_section:
     title: 'Norveç eSIM SSS'
     questions:
     - q: 'Norveç''i ziyaret ederken bir eSIM için ne kadar bütçe ayırmalıyım?'
-      a: 'Roami, 7 günlük hafif plan için 1,99$''dan 30 gün sınırsız veri için 59,99$''a kadar Norveç eSIM sunar. Çoğu ziyaretçi 5GB/15 günlük planı 9,99$''a tercih eder —günlük navigasyon, sosyal medya ve mesajlaşmayı stres olmadan karşılar. Yayın severler veya yoğun sosyal medya kullanıcıları 10GB veya sınırsızı düşünmeli. Telenor Norveç genelinde güvenilir hızlar sağlar. Roami planları ön ödemelidir —sürpriz faturalar yok, otomatik yenileme yok, sadece net fiyatlandırma.'
+      a: 'Roami''nin Norveç eSIM planları 1.99$ (3 Gün, 1GB) ile 79.99$ (30 Gün, Sınırsız) arasında yer alır. Çoğu ziyaretçi 5GB/15 günlük planı 8,99$''a tercih eder —günlük navigasyon, sosyal medya ve mesajlaşmayı stres olmadan karşılar. Yayın severler veya yoğun sosyal medya kullanıcıları 10GB veya sınırsızı düşünmeli. Telenor Norveç genelinde güvenilir hızlar sağlar. Roami planları ön ödemelidir —sürpriz faturalar yok, otomatik yenileme yok, sadece net fiyatlandırma.'
     - q: 'Norveç''te eSIM için Roami, Airalo ile karşılaştırıldığında nasıl?'
       a: 'Roami genellikle Norveç eSIM için daha iyi değer sunar çünkü doğrudan satıyoruz —pazar yeri kâr marjı yok. Fiyatlar genellikle Airalo''dan %10-20 daha düşüktür. Ayrıca 7/24 doğrudan destek sağlıyoruz. Planlar ön ödemelidir ve otomatik yenileme yoktur, böylece seyahatiniz bittikten sonra ücretlendirilmezsiniz.'
     - q: 'Norveç eSIM kaydı için pasaportumu yüklemek güvenli mi? Gizlilik konusunda endişeliyim.'
@@ -386,56 +388,68 @@ faq_section:
       a: 'Gitmeden önce yapın —kurulum internet bağlantısı gerektirir ve yaklaşık 2 dakika sürer. eSIM QR kodu satın alımdan sonra 5 dakika içinde e-posta ile gelir. Norveç havaalanında Veri Dolaşımı''nı etkinleştirin ve 60 saniyeden kısa sürede çevrimiçi olursunuz.'
     - q: 'Norveç''e gece geç saatte varıyorum. Hemen çevrimiçi olabilecek miyim?'
       a: 'Evet. eSIM''i gitmeden önce kurduysanız, inişten 2 dakika içinde çevrimiçi olursunuz. Veri Dolaşımı''nı etkinleştirin ve telefonunuz otomatik olarak Telenor''u alır. Sıra yok, evrak yok, gece yarısı SIM büfesi aramak yok.'
+    - q: |
+        Norveç genelinde Telenor ve Telia kapsaması eSIM ile nasıl çalışır?
+      a: |
+        Roami eSIM Telenor ve Telia ağlarını kullanır; Oslo, Bergen ve Trondheim'de 4G/5G mevcuttur. Şehir dışında bağlantı 4G hızında sabit kalır.
+    - q: |
+        Oslo ve Bergen'de Telenor ağında eSIM hızı yeterli mi?
+      a: |
+        Evet; Oslo ve Bergen merkezinde Roami eSIM Telenor 5G/4G ağında çalışır ve tipik olarak 50-200 Mbps sunar. Görüntülü görüşme ve navigasyon için idealdir.
+    - q: |
+        Norveç eSIM ile fiziksel SIM'i aynı anda kullanabilir miyim, Telenor numaram çalışır mı?
+      a: |
+        Evet: veri eSIM'de, ses ve SMS kendi hattınızda kalır. Böylece Telenor numaranız önemli aramaları almaya devam eder.
 related_products:
-  title: 'İlgili Norveç eSIM Planları'
+  title: İlgili eSIM Planları
   items:
-  - name: 'Amerika Birleşik Devletleri eSIM'
-    flag: img/flags/us.svg
-    price: 'Başlangıç $1.99'
+  - name: Rusya eSIM
+    flag: img/flags/ru.svg
+    price: $2.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Birleşik Krallık eSIM'
-    flag: img/flags/gb.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Avrupa eSIM'
-    flag: img/flags/eu.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: true
-  - name: 'Kanada eSIM'
-    flag: img/flags/ca.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Türkiye eSIM'
-    flag: img/flags/tr.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Çin eSIM'
-    flag: img/flags/cn.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Japonya eSIM'
-    flag: img/flags/jp.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Hong Kong eSIM'
-    flag: img/flags/hk.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Fransa eSIM'
-    flag: img/flags/fr.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'İspanya eSIM'
+  - name: İspanya eSIM
     flag: img/flags/es.svg
-    price: 'Başlangıç $1.99'
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Almanya eSIM'
-    flag: img/flags/de.svg
-    price: 'Başlangıç $1.99'
+  - name: İsviçre eSIM
+    flag: img/flags/ch.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Avustralya eSIM'
-    flag: img/flags/au.svg
-    price: 'Başlangıç $1.99'
+  - name: Türkiye eSIM
+    flag: img/flags/tr.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Ukrayna eSIM
+    flag: img/flags/ua.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: BK eSIM
+    flag: img/flags/gb.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Vatikan Şehri eSIM
+    flag: img/flags/va.svg
+    price: $10.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Arnavutluk eSIM
+    flag: img/flags/al.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: true
+  - name: Andorra eSIM
+    flag: img/flags/ad.svg
+    price: $6.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Ermenistan eSIM
+    flag: img/flags/am.svg
+    price: $7.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Avusturya eSIM
+    flag: img/flags/at.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Azerbaycan eSIM
+    flag: img/flags/az.svg
+    price: $6.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Norveç eSIM ile Ön Ödemeli SIM Kartların Karşılaştırması: Bilmeniz Gerekenler'
@@ -471,7 +485,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 'Telia''nın minimum faturalandırma döngüsü 31 gündür (ör. 269 NOK için 3GB). Telenor''un aylık 1GB yüksek hız kotası vardır, sonrasında hız 128 Kbps''ye düşer.'
     esim_title: 'Esnek Kısa Vadeli Planlar'
-    esim_desc: 'Telia''nın 31 günlük döngüsünden (ör. 269 NOK için 3GB) veya Telenor''un aylık 1GB kotasından farklı olarak, Roami 1,99$/GB''den başlayan 7 günlük planlar sunar, kısa seyahatler için %75''e varan israftan tasarruf sağlar.'
+    esim_desc: 'Telia''nın 31 günlük döngüsünden (ör. 269 NOK için 3GB) veya Telenor''un aylık 1GB kotasından farklı olarak, Roami 2,99$''dan başlayan 7 günlük planlar sunar, kısa seyahatler için %75''e varan israftan tasarruf sağlar.'
   - icon: wifi
     title: 'Sıcak Nokta ve<br>Hız Politikaları'
     prepaid_title: ''

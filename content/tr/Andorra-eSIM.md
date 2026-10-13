@@ -1,6 +1,6 @@
 ---
 title: 'Andorra eSIM 2026: Operatör ve Kapsama Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,12 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: "Andorra eSIM 2026: En İyi Seyahat eSIM ve Kapsama Rehberi"
-  description: Andorra la Vella, Escaldes-Engordany, Encamp'ta hızlı 5G ile Andorra eSIM planlarını karşılaştırın. Turistler
-    ve gezginler için Andorra Telecom kapsama rehberi. 1,99$'dan başlayan fiyatlarla anında QR aktivasyonu.
-  keywords: Andorra eSIM, Andorra eSIM satın al, en iyi Andorra eSIM, Andorra seyahat eSIM, Andorra Telecom Andorra, Andorra
-    la Vella eSIM, Escaldes-Engordany eSIM, Encamp eSIM, Andorra ön ödemeli eSIM, 5G Andorra eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Andorra eSIM planları 6,99$'dan başlar. Andorra la Vella ve Escaldes-Engordany'de hızlı 5G, sözleşme yok, hotspot dahil. Anında etkinleştirme.
+  keywords: Andorra eSIM, Andorra eSIM planları, en iyi Andorra eSIM, ucuz Andorra eSIM, Andorra eSIM çevrimiçi satın al, sınırsız veri Andorra eSIM, ön ödemeli Andorra eSIM, Andorra için en iyi eSIM, Andorra eSIM fiyatı, Andorra eSIM aktivasyonu, Andorra eSIM kapsama alanı, Andorra la Vella için en iyi eSIM, Andorra la Vella eSIM, Escaldes-Engordany eSIM
+  low_price: 6.99
+  high_price: 89.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -250,6 +248,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🗺️
+    html: 'Andorra la Vella ve Escaldes-Engordany''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -319,56 +319,68 @@ faq_section:
         eSIM, Andorra için uluslararası dolaşımdan daha mı ucuz?
       a: |
         Evet —Roami eSIM, çoğu ev operatörünün dolaşım planlarından tipik olarak %80-90 daha ucuzdur. Andorra için 5GB'lık bir plan 9,99$ iken, aynı veri için dolaşım kolayca 50$ veya daha fazla olabilir. Ayrıca kısıtlı dolaşım yerine yerel ağ hızlarına sahip olursunuz.
+    - q: |
+        Andorra eSIM'i kendi hattımla birlikte kullanabilir miyim, Andorra Telecom hattım açık kalır mı?
+      a: |
+        Evet: veri eSIM üzerinden akar, kendi SIM'iniz arama ve SMS için açık kalır. Ayarlar'dan hangi hattın ses, SMS ve veri kullanacağını seçebilirsiniz.
+    - q: |
+        Yola çıkmadan Andorra eSIM'i nasıl etkinleştiririm, Andorra Telecom hattına geçiş ne zaman olur?
+      a: |
+        Çevrimiçi satın alın, QR kodunu e-posta ile 5 dakikada alın ve Ayarlar > Hücresel > eSIM Ekle'den tarayın. Evde Wi-Fi ile kurup Andorra'de varışta etkinleştirin.
+    - q: |
+        Andorra seyahati için kaç GB yeter, Andorra Telecom paketleriyle kıyaslanınca?
+      a: |
+        Hafif kullanım (harita, mesaj) için 3-5GB yeter; sosyal medya ve video için 10GB idealdir. Roami Andorra planları 6,99$'dan başlar ve uygulamadan anında yükleme yapılır.
 related_products:
-  title: İlgili Andorra eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Ermenistan eSIM
+    flag: img/flags/am.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Avusturya eSIM
+    flag: img/flags/at.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Azerbaycan eSIM
+    flag: img/flags/az.svg
+    price: $6.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Belarus eSIM
+    flag: img/flags/by.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Belçika eSIM
+    flag: img/flags/be.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Bosna Hersek eSIM
+    flag: img/flags/ba.svg
+    price: $30.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Bulgaristan eSIM
+    flag: img/flags/bg.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Hırvatistan eSIM
+    flag: img/flags/hr.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Kıbrıs eSIM
+    flag: img/flags/cy.svg
+    price: $2.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Çek Cumhuriyeti eSIM
+    flag: img/flags/cz.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Danimarka eSIM
+    flag: img/flags/dk.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Estonya eSIM
+    flag: img/flags/ee.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Andorra eSIM ve Ön Ödemeli SIM: Hız, Kapsama ve Fiyat Karşılaştırması'
@@ -400,11 +412,9 @@ market_analysis:
   - icon: globe
     title: Uluslararası<br>Dolaşım
     prepaid_title: ''
-    prepaid_desc: Andorra AB'de değildir; Avrupa'da (İspanya, Fransa, ABD, Kanada, Türkiye dahil) dolaşım, gece yarısına kadar
-      geçerli olmak üzere 1GB için 3—tutarındadır.
+    prepaid_desc: Andorra AB'de değildir; Avrupa'da (İspanya, Fransa, ABD, Kanada, Türkiye dahil) dolaşım, gece yarısına kadar geçerli olmak üzere 1GB için 3€ tutarındadır.
     esim_title: Sorunsuz Sınır Ötesi Dolaşım
-    esim_desc: Andorra Telecom'un 3—1GB günlük dolaşım paketinden (gece yarısına kadar geçerli) kaçının. Roami eSIM, Andorra,
-      İspanya ve Fransa'yı ekstra ücret ödemeden kapsayan çok ülkeli planlar sunar.
+    esim_desc: Andorra Telecom'un 3€/1GB günlük dolaşım paketinden (gece yarısına kadar geçerli) kaçının. Roami eSIM, Andorra, İspanya ve Fransa'yı ekstra ücret ödemeden kapsayan çok ülkeli planlar sunar.
   - icon: calendar-xmark
     title: Faturalandırma Döngüsü ve<br>Batık Maliyet
     prepaid_title: ''
@@ -412,8 +422,7 @@ market_analysis:
       Andorra Telecom ön ödemeli planları katı bir 30 günlük döngüye sahiptir: Tarifa S 3GB için 10€? Tarifa M
       12GB için 20€?tutarındadır. Tarifa S satın alan 2 günlük bir turist, plan değerinin %90'ından fazlasını israf eder.
     esim_title: Esnek Kısa Süreli Planlar
-    esim_desc: Andorra Telecom'un 30 günlük döngüsünden (3GB için 10— kısa geziler için %90 israf) farklı olarak, Roami 1,99$/GB'dan
-      başlayan 7 günlük planlar sunar. Yalnızca kullandığınız kadar ödeyin.
+    esim_desc: Andorra Telecom'un 30 günlük döngüsünden (3GB için 10€ kısa geziler için %90 israf) farklı olarak, Roami 6,99$'dan başlayan 7 günlük planlar sunar. Yalnızca kullandığınız kadar ödeyin.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''
@@ -425,7 +434,7 @@ market_analysis:
   - icon: credit-card
     title: Ek Yükleme Ödemeleri
     prepaid_title: ''
-    prepaid_desc: Ek yükleme çevrimiçi olarak kredi kartıyla (5—60— veya 15— 30—veya 60—luk fiziksel kuponlarla yapılabilir.
+    prepaid_desc: Ek yükleme çevrimiçi olarak kredi kartıyla (5–60€ veya 15, 30 veya 60€'luk fiziksel kuponlarla yapılabilir.
     esim_title: Küresel Ödeme Yöntemleri
     esim_desc: Roami eSIM''inizi Visa, Mastercard, AMEX, Apple Pay, Google Pay veya PayPal ile yükleyin. Yerel kuponlara veya
       kredi kartı kısıtlamalarına gerek yoktur.
@@ -444,15 +453,12 @@ market_analysis:
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
       title: Visa, Mastercard, Apple Pay ve Daha Fazlasıyla Ödeyin
-      desc: Andorra Telecom ek yüklemesi yerel kuponlar (15—30—60— veya minimum tutarlı kredi kartları gerektirir. Roami
-        herhangi bir miktar için <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay ve PayPal</b> kabul eder.
+      desc: Andorra Telecom ek yüklemesi yerel kuponlar (15, 30 veya 60€ ya da minimum tutarlı kredi kartları gerektirir. Roami herhangi bir miktar için <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay ve PayPal</b> kabul eder.
     - icon: hourglass-empty
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: 30 Günlük Planlarda %90 İsrafı Ortadan Kaldırın
-      desc: Andorra Telecom'un <b>Tarifa S (10—3GB)</b> 30 günlük bir plandır. 2 günlük bir turist maliyetin ve verinin
-        <b>%90'ından</b> fazlasını israf eder. Roami, seyahat sürenize tam olarak uyan <b>1,99$/GB'dan başlayan 7 günlük planlar</b>
-        sunar.
+      desc: Andorra Telecom'un <b>Tarifa S (10€/3GB)</b> 30 günlük bir plandır. 2 günlük bir turist maliyetin ve verinin <b>%90'ından</b> fazlasını israf eder. Roami, seyahat sürenize tam olarak uyan <b>6,99$'dan başlayan 7 günlük planlar</b> sunar.
     - icon: shield
       icon_bg: bg-teal-100
       icon_color: text-teal-600

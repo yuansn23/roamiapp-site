@@ -1,6 +1,6 @@
 ---
 title: 'Vietnam eSIM 2026: Şehir ve Ağ Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,12 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Vietnam eSIM | Hızlı Ön Ödemeli Veri Planı Satın Alın
-  description: Roami'den Vietnam için en iyi ön ödemeli seyahat eSIM'i ile seyahat edin. En iyi ağlarda sınırsız 5G veri.
-    Anında etkinleştirme. Hanoi, Ho Chi Minh Şehri ve Da Nang'ı kapsar.
-  keywords: Vietnam eSIM, Vietnam eSIM satın al, en iyi Vietnam eSIM, Vietnam seyahat eSIM, Viettel Vietnam, Mobifone Vietnam,
-    Vinaphone Vietnam, Ho Chi Minh Şehri eSIM, Hanoi eSIM, Da Nang eSIM, Vietnam ön ödemeli eSIM, 5G Vietnam eSIM
+  description: 'Vietnam eSIM planlarını karşılaştırın: Viettel ağı, Ho Chi Minh Şehri ve Hanoi''de hızlı 5G. Anında QR aktivasyonu. 1,99$''dan başlayan fiyatlar.'
+  keywords: Vietnam eSIM, Vietnam eSIM planları, en iyi Vietnam eSIM, ucuz Vietnam eSIM, Vietnam eSIM çevrimiçi satın al, sınırsız veri Vietnam eSIM, ön ödemeli Vietnam eSIM, Vietnam için en iyi eSIM, Vietnam eSIM fiyatı, Vietnam eSIM aktivasyonu, Vietnam eSIM kapsama alanı, Ho Chi Minh Şehri için en iyi eSIM, Ho Chi Minh Şehri eSIM, Hanoi eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 74.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -329,6 +327,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🗺️
+    html: 'Ho Chi Minh Şehri ve Hanoi''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -376,11 +376,7 @@ faq_section:
     - q: |
         Çok fazla harcamadan Vietnam için eSIM alabilir miyim?
       a: |
-        Kesinlikle. Roami'nin Vietnam eSIM planları sadece $1.99'dan başlar. 5GB/15 günlük seçenek ($9.99) gezginler arasında
-        en popüler olanıdır —haritalar, WhatsApp, Instagram ve e-posta ile rahatça başa çıkar. Yoğun veri kullanıcısıysanız,
-        10GB ($14.99) veya sınırsız ($59.99) planlar size gönül rahatlığı sağlar. Havalimanı SIM tezgahını atlamak size
-        %30-50 tasarruf ve sırada bekleme zahmetinden kurtarır. Ayarlamanız mı gerekiyor? Roami uygulamasından istediğiniz
-        zaman ek yükleme yapabilirsiniz.
+        Kesinlikle. Roami'nin Vietnam eSIM planları sadece $1.99'dan başlar. 5.99$ (3 Gün, 5GB) seçeneği gezginler arasında en popüler olanıdır — haritalar, WhatsApp, Instagram ve e-posta için rahatça yeterlidir. Yoğun veri kullanıcıları için 39.99$ (30 Gün, 30GB) planı daha rahat bir seçenektir. Havalimanı SIM tezgahını atlamak size %30-50 tasarruf ve sırada bekleme zahmetinden kurtarır. Ayarlamanız mı gerekiyor? Roami uygulamasından istediğiniz zaman ek yükleme yapabilirsiniz.
     - q: |
         Vietnam eSIM'imin geçerlilik süresi ne zaman başlar?
       a: |
@@ -417,56 +413,68 @@ faq_section:
       a: |
         QR kodu dakikalar içinde gelir. Hemen kurun —2 dakika sürer. Ancak, plan geçerliliği yalnızca Vietnam'daki bir
         ağa bağlandığınızda başlar. Böylece seyahatinizden haftalar önce kurabilir ve plan günlerinizden kaybetmezsiniz.
+    - q: |
+        Vietnam eSIM fiyatı Viettel ön ödemeli SIM'e kıyasla nasıl?
+      a: |
+        Roami Vietnam planları 1,99$'dan başlar ve çevrimiçi birkaç tıkla alınır. Viettel mağazasında sıra beklemek ve yerel ön ödemeli SIM'lerde sık görülen kayıt/aktivasyon ücreti gerekmez.
+    - q: |
+        Vietnam eSIM hangi ağlarda çalışır, Viettel kapsaması yeterli mi?
+      a: |
+        Roami eSIM Viettel ve Mobifone ağlarına bağlanır; Ho Chi Minh Şehri ve Hanoi gibi büyük şehirlerde 4G/5G sunar. Kırsal bölgelerde 4G kapsama güçlü kalır.
+    - q: |
+        Ho Chi Minh Şehri'de Viettel şebekesinde eSIM hızı nasıl?
+      a: |
+        Ho Chi Minh Şehri'de Roami eSIM Viettel 5G/4G ağını kullanır; şehir merkezinde tipik hız 50-200 Mbps. Harita, sosyal medya ve görüntülü arama için uygundur.
 related_products:
-  title: İlgili Vietnam eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: $1.99’dan başlayan
+  - name: Brunei eSIM
+    flag: img/flags/bn.svg
+    price: $9.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: $1.99’dan başlayan
+  - name: Kamboçya eSIM
+    flag: img/flags/kh.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Çin eSIM
     flag: img/flags/cn.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: $1.99’dan başlayan
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Hong Kong eSIM
     flag: img/flags/hk.svg
-    price: $1.99’dan başlayan
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: $1.99’dan başlayan
+  - name: Hindistan eSIM
+    flag: img/flags/in.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: $1.99’dan başlayan
+  - name: Endonezya eSIM
+    flag: img/flags/id.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: $1.99’dan başlayan
+  - name: Japonya eSIM
+    flag: img/flags/jp.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: $1.99’dan başlayan
+  - name: Kazakistan eSIM
+    flag: img/flags/kz.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kırgızistan eSIM
+    flag: img/flags/kg.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Laos eSIM
+    flag: img/flags/la.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Malezya eSIM
+    flag: img/flags/my.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kolombiya eSIM
+    flag: img/flags/co.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Vietnam eSIM vs Fiziksel SIM: Seyahat, Maliyet ve Kurulum Karşılaştırması'
@@ -510,9 +518,7 @@ market_analysis:
       Way2go turist SIM'i 30 gün için 6GB üzerinden 250.000 VND tutar. 5 günlük bir seyahat planın değerinin %80'inden
       fazlasını israf eder.
     esim_title: Esnek Kısa Süreli Planlar
-    esim_desc: Viettel'in 30 günlük V160B planının (160.000 VND, günde 4GB günlük sıfırlama) veya Mobifone'un 30 günlük
-      Way2go'sunun (250.000 VND, toplam 6GB) aksine, Roami $1.99/GB'dan başlayan 7 günlük planlar sunar, kısa seyahatlerde
-      %80'in üzerinde israftan tasarruf sağlar.
+    esim_desc: Viettel'in 30 günlük V160B planının (160.000 VND, günde 4GB günlük sıfırlama) veya Mobifone'un 30 günlük Way2go'sunun (250.000 VND, toplam 6GB) aksine, Roami $3.99'dan başlayan 7 günlük planlar sunar, kısa seyahatlerde %80'in üzerinde israftan tasarruf sağlar.
   - icon: wifi
     title: Paylaşım ve<br>Hız Politikaları
     prepaid_title: ''
@@ -550,9 +556,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: 30 Günlük Planlarda %80+ Batık Maliyetten Kaçının
-      desc: Viettel'in V160B planı (160.000 VND) günlük veri sıfırlamalı 30 günlük bir döngüyü zorunlu kılar. 5 günlük bir
-        seyahat planın %80'inden fazlasını israf eder. Roami'nin <b>$1.99/GB</b>'dan başlayan 7 günlük planları bu israfı
-        ortadan kaldırır.
+      desc: Viettel'in V160B planı (160.000 VND) günlük veri sıfırlamalı 30 günlük bir döngüyü zorunlu kılar. 5 günlük bir seyahat planın %80'inden fazlasını israf eder. Roami'nin <b>$3.99</b>'dan başlayan 7 günlük planları bu israfı ortadan kaldırır.
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600

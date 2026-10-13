@@ -1,6 +1,6 @@
 ---
 title: 'Malezya eSIM 2026: Yerel Operatör Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,10 +21,9 @@ seo:
   title: Malezya eSIM | Seyahatiniz İçin Veri Planı Satın Alın
   description: Roami'nin en iyi ön ödemeli seyahat eSIM'i ile Malezya'yı keşfedin. En iyi ağlarda sınırsız 5G veri. Anında aktivasyon.
     KL, Penang ve tüm şehirleri kapsar.
-  keywords: Malezya eSIM, Malezya eSIM satın al, en iyi Malezya eSIM, Malezya seyahat eSIM, Maxis Malezya, Celcom Malezya, Digi
-    Malezya, Kuala Lumpur eSIM, Penang eSIM, Johor Bahru eSIM, Malezya ön ödemeli eSIM, 5G Malezya eSIM
+  keywords: Malezya eSIM, Malezya eSIM planları, en iyi Malezya eSIM, ucuz Malezya eSIM, Malezya eSIM çevrimiçi satın al, sınırsız veri Malezya eSIM, ön ödemeli Malezya eSIM, Malezya için en iyi eSIM, Malezya eSIM fiyatı, Malezya eSIM aktivasyonu, Malezya eSIM kapsama alanı, Kuala Lumpur için en iyi eSIM, Kuala Lumpur eSIM, Penang eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 65.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -337,6 +336,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🗺️
+    html: 'Kuala Lumpur ve Penang''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -377,7 +378,7 @@ faq_section:
     - q: |
         Malezya seyahati için en ucuz eSIM seçenekleri nelerdir?
       a: |
-        Roami Malezya eSIM planları $1.99'dan (7 gün, 1GB) başlar ve $59.99'a (30 gün sınırsız) kadar çıkar. Tipik bir 5-7 günlük gezi için, $9.99'daki 5GB plan en ideal olanıdır —haritalar, mesajlaşma ve sosyal medya kontrolü için yeterlidir. Video izlemek veya uzaktan çalışmak mı istiyorsunuz? 10GB veya sınırsız tercih edin. Maxis'in 5G ağı sayesinde akış ve video aramalar harika çalışır. Havalimanı SIM gişeleri %30-50 daha pahalıdır ve sıra beklemeniz gerekir. Veri ihtiyaçlarınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek paket satın alın.
+        Roami'nin Malezya eSIM planları 1.99$ (3 Gün, 1GB) ile 65.99$ (30 Gün, Sınırsız) arasında yer alır. Hafif kullanım için 4.99$ (3 Gün, 5GB) planı yeterlidir; harita, mesaj ve sosyal medya sorunsuz çalışır. Video izlemek veya uzaktan çalışmak mı istiyorsunuz? 50GB tercih edin. Maxis'in 5G ağı sayesinde akış ve video aramalar harika çalışır. Havalimanı SIM gişeleri %30-50 daha pahalıdır ve sıra beklemeniz gerekir. Veri ihtiyaçlarınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek paket satın alın.
     - q: |
         Malezya'da eSIM kullanmak için pasaport veya kimlik gerekli mi? Doğrulama nasıl çalışır?
       a: |
@@ -406,56 +407,68 @@ faq_section:
         Malezya eSIM'imi sosyal medya ve ailemle fotoğraf paylaşımı için kullanabilir miyim?
       a: |
         Kesinlikle. Instagram, WhatsApp, Facebook ve diğer sosyal uygulamalar eSIM bağlantısı üzerinden çalışır. Maxis'ten yükleme hızları fotoğrafları saniyeler içinde ve kısa videoları kolayca yükler.
+    - q: |
+        Malezya eSIM'i kendi hattımla birlikte kullanabilir miyim, Maxis hattım açık kalır mı?
+      a: |
+        Evet: veri eSIM üzerinden akar, kendi SIM'iniz arama ve SMS için açık kalır. Ayarlar'dan hangi hattın ses, SMS ve veri kullanacağını seçebilirsiniz.
+    - q: |
+        Yola çıkmadan Malezya eSIM'i nasıl etkinleştiririm, Maxis hattına geçiş ne zaman olur?
+      a: |
+        Çevrimiçi satın alın, QR kodunu e-posta ile 5 dakikada alın ve Ayarlar > Hücresel > eSIM Ekle'den tarayın. Evde Wi-Fi ile kurup Malezya'de varışta etkinleştirin.
+    - q: |
+        Malezya seyahati için kaç GB yeter, Maxis paketleriyle kıyaslanınca?
+      a: |
+        Hafif kullanım (harita, mesaj) için 3-5GB yeter; sosyal medya ve video için 10GB idealdir. Roami Malezya planları 1,99$'dan başlar ve uygulamadan anında yükleme yapılır.
 related_products:
-  title: İlgili Malezya eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Nepal eSIM
+    flag: img/flags/ne.svg
+    price: $10.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık eSIM
-    flag: img/flags/gb.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Pakistan eSIM
+    flag: img/flags/pk.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
+  - name: Filipinler eSIM
+    flag: img/flags/ph.svg
+    price: $2.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Singapur eSIM
+    flag: img/flags/sg.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Güney Kore eSIM
+    flag: img/flags/kr.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
+  - name: Tayvan eSIM
+    flag: img/flags/tw.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
+  - name: Tacikistan eSIM
+    flag: img/flags/tj.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Tayland eSIM
+    flag: img/flags/th.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
+  - name: Özbekistan eSIM
+    flag: img/flags/uz.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Vietnam eSIM
+    flag: img/flags/vn.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Afganistan eSIM
+    flag: img/flags/af.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Bangladeş eSIM
+    flag: img/flags/bd.svg
+    price: $5.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Malezya eSIM ve SIM Kart: Tam Karşılaştırma Rehberi'
@@ -491,7 +504,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Digi turist SIM'i 7 gün RM20'den başlar; Celcom ve Maxis aylık planları 30 günlük döngülerdir; 5 günlük bir gezi 7 günlük bir planın 2 gününü israf eder.
     esim_title: Esnek Günlük Planlar
-    esim_desc: 5 günlük bir gezide 2 gün israf eden Digi'nin 7 günlük RM20 turist SIM'inin aksine, Roami %75'e varan israftan tasarruf eden $1,99/GB'den başlayan 7 günlük planlar sunar.
+    esim_desc: 5 günlük bir gezide 2 gün israf eden Digi'nin 7 günlük RM20 turist SIM'inin aksine, Roami %75'e varan israftan tasarruf eden $2,99'dan başlayan 7 günlük planlar sunar.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''
@@ -517,7 +530,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Sabit Fatura Döngülerinden Kaynaklanan Batık Maliyeti Ortadan Kaldırın
-      desc: Digi turist SIM'i 7 gün RM20'den başlar; Celcom/Maxis aylık planları 30 günlük döngülerdir. 5 günlük bir gezi 7 günlük bir planın 2 gününü israf eder. Roami eSIM $1,99/GB'den başlayan esnek günlük planlar sunar.
+      desc: Digi turist SIM'i 7 gün RM20'den başlar; Celcom/Maxis aylık planları 30 günlük döngülerdir. 5 günlük bir gezi 7 günlük bir planın 2 gününü israf eder. Roami eSIM $1,99'dan başlayan esnek günlük planlar sunar.
     - icon: headset
       icon_bg: bg-teal-100
       icon_color: text-teal-600

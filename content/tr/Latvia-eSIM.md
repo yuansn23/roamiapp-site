@@ -1,6 +1,6 @@
 ---
 title: 'Letonya eSIM 2026: Bağlantı ve Hız Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,12 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Letonya eSIM | Seyahat İçin En İyi Ön Ödemeli Plan
-  description: Roami'nin en iyi ön ödemeli seyahat eSIM'i ile Letonya'yı keşfedin. Ülke genelinde sınırsız 5G veri. Anında
-    QR aktivasyonu. Riga, Daugavpils ve Jurmala'yı kapsar.
-  keywords: Letonya eSIM, Letonya eSIM satın al, en iyi Letonya eSIM, Letonya seyahat eSIM, LMT Letonya, Tele2 Letonya,
-    Bite Letonya, Riga eSIM, Daugavpils eSIM, Liepaja eSIM, Letonya ön ödemeli eSIM, 5G Letonya eSIM
+  description: Letonya eSIM ile Riga ve Daugavpils'de bağlantıda kalın. Ön ödemeli, sözleşmesiz 5G veri. 1,99$'dan planlar.
+  keywords: Letonya eSIM, Letonya eSIM planları, en iyi Letonya eSIM, ucuz Letonya eSIM, Letonya eSIM çevrimiçi satın al, sınırsız veri Letonya eSIM, ön ödemeli Letonya eSIM, Letonya için en iyi eSIM, Letonya eSIM fiyatı, Letonya eSIM aktivasyonu, Letonya eSIM kapsama alanı, Riga için en iyi eSIM, Riga eSIM, Daugavpils eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -345,6 +343,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🗺️
+    html: 'Riga ve Daugavpils''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -414,56 +414,68 @@ faq_section:
         Letonya eSIM'imin geçerlilik süresi ne zaman başlar?
       a: |
         Plan geçerliliği, satın aldığınızda veya kurduğunuzda değil, Letonya'da yerel bir ağa bağlandığınızda başlar. Bu nedenle, seyahatinizden haftalar önce satın alabilir ve kurabilir, hiçbir plan gününü kaybetmezsiniz. 7 günlük bir plan, ilk bağlantıdan itibaren size 7 tam gün verir.
+    - q: |
+        Letonya eSIM ile LMT turist SIM'i arasındaki fark ne?
+      a: |
+        Roami Letonya eSIM 1,99$'dan başlar ve online alınır; LMT turist SIM'i genellikle mağaza ziyareti ve kayıt gerektirir. eSIM'de kuyruk ve aktivasyon beklemesi yoktur.
+    - q: |
+        Letonya genelinde LMT ve Tele2 kapsaması eSIM ile nasıl çalışır?
+      a: |
+        Roami eSIM LMT ve Tele2 ağlarını kullanır; Riga, Daugavpils ve Liepaja'de 4G/5G mevcuttur. Şehir dışında bağlantı 4G hızında sabit kalır.
+    - q: |
+        Riga ve Daugavpils'de LMT ağında eSIM hızı yeterli mi?
+      a: |
+        Evet; Riga ve Daugavpils merkezinde Roami eSIM LMT 5G/4G ağında çalışır ve tipik olarak 50-200 Mbps sunar. Görüntülü görüşme ve navigasyon için idealdir.
 related_products:
-  title: İlgili Letonya eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Lihtenştayn eSIM
+    flag: img/flags/li.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Litvanya eSIM
+    flag: img/flags/lt.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Lüksemburg eSIM
+    flag: img/flags/lu.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Malta eSIM
+    flag: img/flags/mt.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Hollanda eSIM
+    flag: img/flags/nl.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Norveç eSIM
+    flag: img/flags/no.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Polonya eSIM
+    flag: img/flags/pl.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Portekiz eSIM
+    flag: img/flags/pt.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Romanya eSIM
+    flag: img/flags/ro.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Rusya eSIM
+    flag: img/flags/ru.svg
+    price: $2.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: İspanya eSIM
     flag: img/flags/es.svg
-    price: 1,99$'dan başlayan fiyatlarla
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: İsviçre eSIM
+    flag: img/flags/ch.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Letonya eSIM veya Ön Ödemeli SIM Kart: Yan Yana Karşılaştırma'
@@ -479,11 +491,9 @@ market_analysis:
   - icon: store
     title: Satın Alma ve<br>Aktivasyon
     prepaid_title: ''
-    prepaid_desc: LMT resmi web sitesi düşük maliyetli 1,5—luk SIM kartları satmaz; fiziksel satın alma perakende mağazalarını
-      ziyaret etmeyi gerektirir. ZZ fiziksel SIM fiyatları 1,49—ile 3,99—arasında değişir.
+    prepaid_desc: LMT resmi web sitesi düşük maliyetli 1,5€'luk SIM kartları satmaz; fiziksel satın alma perakende mağazalarını ziyaret etmeyi gerektirir. ZZ fiziksel SIM fiyatları 1,49€ ile 3,99€ arasında değişir.
     esim_title: Anında Dijital Teslimat
-    esim_desc: LMT mağaza kuyruklarını atlayın ve süpermarketlerde 1,5—luk SIM kart aramaktan kaçının. Riga'ya indikten
-      sonra 1 dakika içinde eSIM'inizi çevrimiçi etkinleştirin.
+    esim_desc: LMT mağaza kuyruklarını atlayın ve süpermarketlerde 1,5€'luk SIM kart aramaktan kaçının. Riga'ya indikten sonra 1 dakika içinde eSIM'inizi çevrimiçi etkinleştirin.
   - icon: id-card
     title: KYC ve Gerçek İsim<br>Kaydı
     prepaid_title: ''
@@ -495,20 +505,15 @@ market_analysis:
   - icon: globe
     title: Uluslararası<br>Dolaşım
     prepaid_title: ''
-    prepaid_desc: LMT'nin 3,50—luk 7 günlük sınırsız planı yalnızca 3.2GB AB dolaşımı sunar; ZZ'nin 2,49—luk sınırsız
-      haftalık planı AB dolaşımını tamamen engeller; Bite'ın tek dolaşım planı, 100MB ile 6,75—30 gün olan 'Bite Priekšapmaksa
-      Eiropa'dır.
+    prepaid_desc: LMT'nin 3,50€'luk 7 günlük sınırsız planı yalnızca 3.2GB AB dolaşımı sunar; ZZ'nin 2,49€'luk sınırsız haftalık planı AB dolaşımını tamamen engeller; Bite'ın tek dolaşım planı, 100MB ile 6,75€/30 gün olan 'Bite Priekšapmaksa Eiropa'dır.
     esim_title: Gerçek AB Dolaşımı Dahil
-    esim_desc: 3,50—luk bir planda LMT'nin 3.2GB AB dolaşım sınırından (yerel verinin yalnızca %26'sı) veya ZZ'nin tam
-      dolaşım engelinden kaçının. Roami eSIM, tüm AB ülkelerinde tam veri kotası sunar.
+    esim_desc: 3,50€'luk bir planda LMT'nin 3.2GB AB dolaşım sınırından (yerel verinin yalnızca %26'sı) veya ZZ'nin tam dolaşım engelinden kaçının. Roami eSIM, tüm AB ülkelerinde tam veri kotası sunar.
   - icon: calendar-xmark
     title: Faturalandırma Döngüsü ve<br>Batık Maliyet
     prepaid_title: ''
-    prepaid_desc: LMT'nin en ucuz 3,50—luk planı 7 günlük döngüye kilitlidir; kullanıcı 'STOP' kodu göndermedikçe otomatik
-      yenileme bir hafta sonra tam fiyatı yansıtır. 2 günlük bir gezi planın 5 gününü israf eder.
+    prepaid_desc: LMT'nin en ucuz 3,50€'luk planı 7 günlük döngüye kilitlidir; kullanıcı 'STOP' kodu göndermedikçe otomatik yenileme bir hafta sonra tam fiyatı yansıtır. 2 günlük bir gezi planın 5 gününü israf eder.
     esim_title: Esnek Kısa Süreli Planlar
-    esim_desc: 2 günlük bir gezide değerin %71'ini israf eden LMT'nin 7 günlük döngüsünden (3,50— farklı olarak, Roami
-      1,99$/GB'dan başlayan 7 günlük planlar sunar, %75'e varan israfı önler.
+    esim_desc: 2 günlük bir gezide değerin %71'ini israf eden LMT'nin 7 günlük döngüsünden (3,50€ farklı olarak, Roami 2,99$'dan başlayan 7 günlük planlar sunar, %75'e varan israfı önler.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''
@@ -552,8 +557,7 @@ market_analysis:
       icon_bg: bg-purple-100
       icon_color: text-purple-600
       title: Gerçek Çok Ülkeli Dolaşım
-      desc: Bite'ın tek dolaşım planı 6,75—için yalnızca 100MB sunar. Roami eSIM, aynı veri kotasıyla tüm AB ülkelerinde
-        sorunsuz çalışır.
+      desc: Bite'ın tek dolaşım planı 6,75€ için yalnızca 100MB sunar. Roami eSIM, aynı veri kotasıyla tüm AB ülkelerinde sorunsuz çalışır.
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600

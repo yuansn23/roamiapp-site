@@ -1,6 +1,6 @@
 ---
 title: 'Birleşik Krallık eSIM 2026: Kapsama ve Hız Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,12 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: BK eSIM | En İyi Seyahat Veri Planı
-  description: Roami'nin en iyi ön ödemeli seyahat eSIM'i ile Birleşik Krallık'a seyahat edin. Anında QR etkinleştirme ile
-    sınırsız 5G veri. Planınızı seyahatinizden önce satın alın. Tüm büyük şehirleri kapsar.
-  keywords: BK eSIM, BK eSIM satın al, en iyi BK eSIM, BK seyahat eSIM, Vodafone Birleşik Krallık, EE BK, O2 BK, Londra
-    eSIM, Manchester eSIM, Birmingham eSIM, BK ön ödemeli eSIM, 5G BK eSIM
+  description: BK eSIM planları 1,99$'dan başlar. Londra ve Manchester'de hızlı 5G, sözleşme yok, hotspot dahil. Anında etkinleştirme.
+  keywords: BK eSIM, BK eSIM planları, en iyi BK eSIM, ucuz BK eSIM, BK eSIM çevrimiçi satın al, sınırsız veri BK eSIM, ön ödemeli BK eSIM, BK için en iyi eSIM, BK eSIM fiyatı, BK eSIM aktivasyonu, BK eSIM kapsama alanı, Londra için en iyi eSIM, Londra eSIM, Manchester eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 54.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -361,6 +359,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 📍
+    html: 'Londra için eSIM''i varışta etkinleştirmenizi öneririz: geçerlilik ilk bağlantıda başlar.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -420,9 +420,7 @@ faq_section:
     - q: |
         eSIM, BK için uluslararası dolaşımdan daha mı ucuz?
       a: |
-        Evet —Roami eSIM, çoğu ev operatörünün dolaşım planlarına göre tipik olarak %80-90 daha ucuzdur. BK için 5GB plan
-        $9.99 iken, aynı veri için dolaşım kolayca $50+ olabilir. Ayrıca kısıtlanmış dolaşım yerine yerel ağ hızları elde
-        edersiniz.
+        Evet —Roami eSIM, çoğu ev operatörünün dolaşım planlarına göre tipik olarak %80-90 daha ucuzdur. BK için 5GB plan $5.99 iken, aynı veri için dolaşım kolayca $50+ olabilir. Ayrıca kısıtlanmış dolaşım yerine yerel ağ hızları elde edersiniz.
     - q: |
         BK'ya gece geç saatte varıyorum. Hemen çevrimiçi olabilecek miyim?
       a: |
@@ -446,56 +444,68 @@ faq_section:
         Plan geçerliliği, satın aldığınız veya kurduğunuz zaman değil, BK'daki yerel bir ağa bağlandığınızda başlar. Yani
         seyahatinizden haftalar önce satın alıp kurabilir ve plan günlerinizden kaybetmezsiniz. 7 günlük bir plan, ilk
         bağlantıdan itibaren size 7 tam gün verir.
+    - q: |
+        BK genelinde Vodafone ve EE kapsaması eSIM ile nasıl çalışır?
+      a: |
+        Roami eSIM Vodafone ve EE ağlarını kullanır; Londra, Manchester ve Birmingham'de 4G/5G mevcuttur. Şehir dışında bağlantı 4G hızında sabit kalır.
+    - q: |
+        Londra ve Manchester'de Vodafone ağında eSIM hızı yeterli mi?
+      a: |
+        Evet; Londra ve Manchester merkezinde Roami eSIM Vodafone 5G/4G ağında çalışır ve tipik olarak 50-200 Mbps sunar. Görüntülü görüşme ve navigasyon için idealdir.
+    - q: |
+        BK eSIM ile fiziksel SIM'i aynı anda kullanabilir miyim, Vodafone numaram çalışır mı?
+      a: |
+        Evet: veri eSIM'de, ses ve SMS kendi hattınızda kalır. Böylece Vodafone numaranız önemli aramaları almaya devam eder.
 related_products:
-  title: İlgili BK eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: $1.99’dan başlayan
+  - name: Belçika eSIM
+    flag: img/flags/be.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: $1.99’dan başlayan
+  - name: Bosna Hersek eSIM
+    flag: img/flags/ba.svg
+    price: $30.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: $1.99’dan başlayan
+  - name: Bulgaristan eSIM
+    flag: img/flags/bg.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Hırvatistan eSIM
+    flag: img/flags/hr.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kıbrıs eSIM
+    flag: img/flags/cy.svg
+    price: $2.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Çek Cumhuriyeti eSIM
+    flag: img/flags/cz.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Danimarka eSIM
+    flag: img/flags/dk.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Estonya eSIM
+    flag: img/flags/ee.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: $1.99’dan başlayan
+  - name: Faroe Adaları eSIM
+    flag: img/flags/fo.svg
+    price: $5.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: $1.99’dan başlayan
+  - name: Finlandiya eSIM
+    flag: img/flags/fi.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Fransa eSIM
     flag: img/flags/fr.svg
-    price: $1.99’dan başlayan
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: $1.99’dan başlayan
+  - name: Macaristan eSIM
+    flag: img/flags/hu.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Birleşik Krallık eSIM vs Fiziksel SIM Kart: Gerçek Fark Nedir? —BK Gezginleri için En İyi eSIM'
@@ -538,8 +548,7 @@ market_analysis:
     prepaid_desc: EE, Vodafone ve O2'den başlıca ön ödemeli planların tümü 30 günlük fatura döngüleridir. Vodafone'un £10/8GB
       planını satın alan 7 günlük bir turist planın değerinin %70'inden fazlasını israf eder.
     esim_title: Esnek Planlar, İsraf Yok
-    esim_desc: EE/Vodafone/O2'nin 30 günlük fatura döngülerinden kaçının. Roami $1.99/GB'dan başlayan 7 günlük planlar
-      sunar, kısa seyahatlerde %70'in üzerinde israftan tasarruf sağlar.
+    esim_desc: EE/Vodafone/O2'nin 30 günlük fatura döngülerinden kaçının. Roami $2.99'dan başlayan 7 günlük planlar sunar, kısa seyahatlerde %70'in üzerinde israftan tasarruf sağlar.
   - icon: wifi
     title: Paylaşım ve<br>Hız Politikaları
     prepaid_title: ''

@@ -1,6 +1,6 @@
 ---
 title: 'Endonezya eSIM 2026: 5G ve Veri Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,11 +21,9 @@ seo:
   title: Endonezya eSIM | Gezginler İçin Ön Ödemeli eSIM Satın Alın
   description: Roami'nin en iyi ön ödemeli seyahat eSIM'i ile Endonezya'da bağlantıda kalın. En iyi ağlarda sınırsız 5G veri.
     Bali, Jakarta ve büyük adaları kapsar. Anında.
-  keywords: Endonezya eSIM, Endonezya eSIM satın al, en iyi Endonezya eSIM, Endonezya seyahat eSIM, Telkomsel Endonezya,
-    Indosat Ooredoo Endonezya, XL Axiata Endonezya, Jakarta eSIM, Surabaya eSIM, Bandung eSIM, Endonezya ön ödemeli eSIM,
-    5G Endonezya eSIM
+  keywords: Endonezya eSIM, Endonezya eSIM planları, en iyi Endonezya eSIM, ucuz Endonezya eSIM, Endonezya eSIM çevrimiçi satın al, sınırsız veri Endonezya eSIM, ön ödemeli Endonezya eSIM, Endonezya için en iyi eSIM, Endonezya eSIM fiyatı, Endonezya eSIM aktivasyonu, Endonezya eSIM kapsama alanı, Jakarta için en iyi eSIM, Jakarta eSIM, Surabaya eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 68.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -346,6 +344,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🗺️
+    html: 'Jakarta ve Surabaya''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -390,7 +390,7 @@ faq_section:
     - q: |
         Çok fazla harcamadan Endonezya için eSIM alabilir miyim?
       a: |
-        Kesinlikle. Roami'nin Endonezya eSIM planları 1,99$ kadar düşük fiyatlarla başlar. 5GB/15 günlük seçenek (9,99$) gezginler arasında en popüler olanıdır —haritalar, WhatsApp, Instagram ve e-postayı rahatça karşılar. Yoğun veri kullanıcısıysanız, 10GB (14,99$) veya sınırsız (59,99$) planlar size gönül rahatlığı verir. Havaalanı SIM tezgahını atlamak size %30-50 ve kuyruk bekleme zahmetinden tasarruf ettirir. Ayarlamanız mı gerekiyor? Roami uygulamasından dilediğiniz zaman ek paket satın alabilirsiniz.
+        Kesinlikle. Roami'nin Endonezya eSIM planları 1,99$ kadar düşük fiyatlarla başlar. 5.99$ (3 Gün, 5GB) seçeneği gezginler arasında en popüler olanıdır — haritalar, WhatsApp, Instagram ve e-posta için rahatça yeterlidir. Yoğun veri kullanıcıları için 37.99$ (30 Gün, 50GB) planı daha rahat bir seçenektir. Havaalanı SIM tezgahını atlamak size %30-50 ve kuyruk bekleme zahmetinden tasarruf ettirir. Ayarlamanız mı gerekiyor? Roami uygulamasından dilediğiniz zaman ek paket satın alabilirsiniz.
     - q: |
         Roami'den Endonezya eSIM satın aldığımda neler dahil?
       a: |
@@ -415,56 +415,68 @@ faq_section:
         Endonezya eSIM planımın aktif ve kullanıma hazır olduğunu nasıl anlarım?
       a: |
         Satın aldıktan sonra, QR kodunu dakikalar içinde alırsınız. Seyahatinizden önce kurun. Plan, telefonunuz Endonezya'daki bir ağa bağlandığında otomatik olarak etkinleşir —durum çubuğunuzda bir operatör adı göreceksiniz. Herhangi bir web sayfasını açarak veya Roami hesabınızı kontrol ederek doğrulayabilirsiniz. 2 dakika sonra hiçbir şey olmazsa, Veri Dolaşımını etkinleştirin veya telefonunuzu yeniden başlatın.
+    - q: |
+        Endonezya eSIM'i kendi hattımla birlikte kullanabilir miyim, Telkomsel hattım açık kalır mı?
+      a: |
+        Evet: veri eSIM üzerinden akar, kendi SIM'iniz arama ve SMS için açık kalır. Ayarlar'dan hangi hattın ses, SMS ve veri kullanacağını seçebilirsiniz.
+    - q: |
+        Yola çıkmadan Endonezya eSIM'i nasıl etkinleştiririm, Telkomsel hattına geçiş ne zaman olur?
+      a: |
+        Çevrimiçi satın alın, QR kodunu e-posta ile 5 dakikada alın ve Ayarlar > Hücresel > eSIM Ekle'den tarayın. Evde Wi-Fi ile kurup Endonezya'de varışta etkinleştirin.
+    - q: |
+        Endonezya seyahati için kaç GB yeter, Telkomsel paketleriyle kıyaslanınca?
+      a: |
+        Hafif kullanım (harita, mesaj) için 3-5GB yeter; sosyal medya ve video için 10GB idealdir. Roami Endonezya planları 1,99$'dan başlar ve uygulamadan anında yükleme yapılır.
 related_products:
-  title: İlgili Endonezya eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
   - name: Japonya eSIM
     flag: img/flags/jp.svg
-    price: 1,99$'dan başlayan fiyatlarla
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Kazakistan eSIM
+    flag: img/flags/kz.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Kırgızistan eSIM
+    flag: img/flags/kg.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Laos eSIM
+    flag: img/flags/la.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: true
+  - name: Malezya eSIM
+    flag: img/flags/my.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Maldivler eSIM
+    flag: img/flags/mv.svg
+    price: $14.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Nepal eSIM
+    flag: img/flags/ne.svg
+    price: $10.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Pakistan eSIM
+    flag: img/flags/pk.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Filipinler eSIM
+    flag: img/flags/ph.svg
+    price: $2.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Singapur eSIM
+    flag: img/flags/sg.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Güney Kore eSIM
+    flag: img/flags/kr.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Tayvan eSIM
+    flag: img/flags/tw.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Endonezya eSIM veya Ön Ödemeli SIM Kart: Yan Yana Karşılaştırma'
@@ -507,8 +519,7 @@ market_analysis:
     prepaid_desc: Indosat TravelOn, sabit 10 gün geçerliliğe sahiptir (Rp 100.000/15GB); Telkomsel SimPATI 30 günlük
       planı Rp 133.000/25GB'dir.
     esim_title: Esnek Kısa Süreli Planlar
-    esim_desc: Indosat'ın sabit 10 günlük planından (Rp 100.000/15GB) veya Telkomsel'in 30 günlük planından (Rp 133.000/25GB)
-      farklı olarak, Roami 1,99$/GB'dan başlayan 7 günlük planlar sunar, kısa geziler için %75'e varan israfı önler.
+    esim_desc: Indosat'ın sabit 10 günlük planından (Rp 100.000/15GB) veya Telkomsel'in 30 günlük planından (Rp 133.000/25GB) farklı olarak, Roami 2,99$'dan başlayan 7 günlük planlar sunar, kısa geziler için %75'e varan israfı önler.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''

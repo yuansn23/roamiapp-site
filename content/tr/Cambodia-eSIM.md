@@ -1,6 +1,6 @@
 ---
 title: 'Kamboçya eSIM 2026: Operatör ve Kapsama Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,12 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Kamboçya eSIM | Hızlı ve Güvenilir Ön Ödemeli Veri Planı
-  description: Roami'nin en iyi ön ödemeli seyahat eSIM'i ile Kamboçya'yı keşfedin. Ülke genelinde sınırsız 5G veri. Phnom Penh,
-    Siem Reap ve Sihanoukville'i kapsar. Anında aktivasyon.
-  keywords: Kamboçya eSIM, Kamboçya eSIM satın al, en iyi Kamboçya eSIM, Kamboçya seyahat eSIM, Smart Kamboçya, Metfone Kamboçya,
-    Cellcard Kamboçya, Phnom Penh eSIM, Siem Reap eSIM, Sihanoukville eSIM, Kamboçya ön ödemeli eSIM, 5G Kamboçya eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Kamboçya eSIM ile Phnom Penh ve Siem Reap'de bağlantıda kalın. Ön ödemeli, sözleşmesiz 5G veri. 3,99$'dan planlar.
+  keywords: Kamboçya eSIM, Kamboçya eSIM planları, en iyi Kamboçya eSIM, ucuz Kamboçya eSIM, Kamboçya eSIM çevrimiçi satın al, sınırsız veri Kamboçya eSIM, ön ödemeli Kamboçya eSIM, Kamboçya için en iyi eSIM, Kamboçya eSIM fiyatı, Kamboçya eSIM aktivasyonu, Kamboçya eSIM kapsama alanı, Phnom Penh için en iyi eSIM, Phnom Penh eSIM, Siem Reap eSIM
+  low_price: 3.99
+  high_price: 88.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -329,6 +327,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 📍
+    html: 'Phnom Penh için eSIM''i varışta etkinleştirmenizi öneririz: geçerlilik ilk bağlantıda başlar.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -369,7 +369,7 @@ faq_section:
     - q: |
         Kamboçya'yı ziyaret ederken eSIM için ne kadar bütçe ayırmalıyım?
       a: |
-        Roami, 7 günlük hafif plan için $1.99'dan 30 gün sınırsız veri için $59.99'a kadar Kamboçya eSIM sunar. Çoğu ziyaretçi $9.99'daki 5GB/15 günlük planı tercih eder —günlük navigasyon, sosyal medya ve mesajlaşmayı sorunsuzca kapsar. Akış hayranları veya yoğun sosyal kullanıcılar 10GB veya sınırsız düşünmelidir. Cellcard, Kamboçya genelinde güvenilir hızlar sağlar. Roami planları ön ödemelidir —sürpriz faturalar yok, otomatik yenileme yok, sadece şeffaf fiyatlandırma.
+        Kamboçya eSIM planları 3.99$ (3 Gün, 1GB) ile 88.99$ (30 Gün, Sınırsız) arasında değişen fiyatlarla satılır. Gezginlerin çoğu 6.99$ (7 Gün, 5GB) seçeneğini tercih eder — harita, mesajlaşma ve sosyal medya için idealdir. Akış hayranları veya yoğun sosyal kullanıcılar 10GB veya sınırsız düşünmelidir. Cellcard, Kamboçya genelinde güvenilir hızlar sağlar. Roami planları ön ödemelidir —sürpriz faturalar yok, otomatik yenileme yok, sadece şeffaf fiyatlandırma.
     - q: |
         Roami, Kamboçya'da eSIM için Airalo ile karşılaştırıldığında nasıldır?
       a: |
@@ -377,7 +377,7 @@ faq_section:
     - q: |
         Kamboçya eSIM sınırsız planı çok fazla veri kullanırsam yavaşlar mı?
       a: |
-        Adil kullanım politikası vardır: günde 30GB'den sonra hızlar düşer. Düşük hızda hala mesajlaşabilir, gezinebilir ve internette dolaşabilirsiniz —sadece pürüzsüz video yok. Gerçekçi olarak, çoğu gezgin 30GB'a yaklaşmaz. Endişeleniyorsanız, 10GB (14,99$) veya 20GB (24,99$) sabit plan belirsizliği tamamen ortadan kaldırır.
+        Adil kullanım politikası vardır: günde 30GB'den sonra hızlar düşer. Düşük hızda hala mesajlaşabilir, gezinebilir ve internette dolaşabilirsiniz —sadece pürüzsüz video yok. Gerçekçi olarak, çoğu gezgin 30GB'a yaklaşmaz. Endişeleniyorsanız, 10GB (9,99$) veya 20GB (24,99$) sabit plan belirsizliği tamamen ortadan kaldırır.
     - q: |
         Kamboçya eSIM kaydı için pasaportumu yüklemek güvenli mi? Gizlilik konusunda endişeliyim.
       a: |
@@ -397,57 +397,69 @@ faq_section:
     - q: |
         Kamboçya'ya giden gezginler için en popüler eSIM seçeneği hangisidir?
       a: |
-        Kamboçya'ya giden çoğu gezgin 5GB/15 günlük planı (9,99$) tercih eder. Günlük navigasyon, sosyal medya ve mesajlaşma için yeterlidir. Daha uzun konaklamalar veya daha yoğun kullanım için 10GB (14,99$) veya sınırsız (59,99$) planlar harika seçeneklerdir. Tüm planlar dakikalar içinde etkinleşir ve 7/24 destek içerir.
+        Kamboçya'ya giden çoğu gezgin 5GB/15 günlük planı (7,99$) tercih eder. Günlük navigasyon, sosyal medya ve mesajlaşma için yeterlidir. Daha uzun konaklamalar veya daha yoğun kullanım için 10GB (9,99$) veya sınırsız (59,99$) planlar harika seçeneklerdir. Tüm planlar dakikalar içinde etkinleşir ve 7/24 destek içerir.
+    - q: |
+        Kamboçya için eSIM kurulumu Smart SIM almaktan daha mı hızlı?
+      a: |
+        Evet: QR kodunu e-posta ile 5 dakikada alıp evde kurulur; Smart mağazasında beklemek gerekmez. Varışta eSIM otomatik olarak devreye girer.
+    - q: |
+        Kamboçya gezisi için kaç GB almalıyım, Smart paketlerine göre?
+      a: |
+        Günlük harita ve mesaj için 3-5GB, sosyal medya ve video için 10GB uygundur. Roami Kamboçya planları 3,99$'dan başlar ve Smart paketlerinden bağımsızdır.
+    - q: |
+        Kamboçya eSIM fiyatı Smart ön ödemeli SIM'e kıyasla nasıl?
+      a: |
+        Roami Kamboçya planları 3,99$'dan başlar ve çevrimiçi birkaç tıkla alınır. Smart mağazasında sıra beklemek ve yerel ön ödemeli SIM'lerde sık görülen kayıt/aktivasyon ücreti gerekmez.
 related_products:
-  title: İlgili Kamboçya eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Birleşik Krallık eSIM
-    flag: img/flags/gb.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
   - name: Çin eSIM
     flag: img/flags/cn.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Hong Kong eSIM
     flag: img/flags/hk.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
+  - name: Hindistan eSIM
+    flag: img/flags/in.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Endonezya eSIM
+    flag: img/flags/id.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
+  - name: Japonya eSIM
+    flag: img/flags/jp.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
+  - name: Kazakistan eSIM
+    flag: img/flags/kz.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kırgızistan eSIM
+    flag: img/flags/kg.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Laos eSIM
+    flag: img/flags/la.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Malezya eSIM
+    flag: img/flags/my.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Maldivler eSIM
+    flag: img/flags/mv.svg
+    price: $14.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Nepal eSIM
+    flag: img/flags/ne.svg
+    price: $10.99'dan başlayan fiyatlarla
+    is_highlight: true
+  - name: Pakistan eSIM
+    flag: img/flags/pk.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Kamboçya eSIM ve Ön Ödemeli SIM: Hız, Kapsama ve Fiyat Karşılaştırması'
@@ -484,7 +496,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Smart Traveller SIM 7 günlük ($3/25GB) ve 15 günlük ($5/35GB) planlar sunar; Cellcard Serey+ 28 günlük döngüler kullanır ($4/25GB); Metfone standart planları 30 günlüktür ($1/700MB, $3/4GB, $10/15GB).
     esim_title: Esnek Kısa Süreli Planlar
-    esim_desc: Roami eSIM, 5 günlük seyahatinizle mükemmel şekilde eşleşen $1,99/GB'den başlayan 7 günlük veri planları sunar. Smart'ın $3/7 günlük planında veya Metfone'un $1/30 günlük planında kullanılmayan günler için para ödemekten kaçının.
+    esim_desc: Roami eSIM, 5 günlük seyahatinizle mükemmel şekilde eşleşen $4,99'dan başlayan 7 günlük veri planları sunar. Smart'ın $3/7 günlük planında veya Metfone'un $1/30 günlük planında kullanılmayan günler için para ödemekten kaçının.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''
@@ -520,7 +532,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Zorunlu 7 Gün veya 30 Gün Planlarından Kaçının
-      desc: Smart Traveller SIM, 5 günlük bir gezi için bile <b>$3/7 gün</b> planını zorunlu kılar; Metfone standart planları <b>30 gün</b> (<b>$1/700MB</b>)'dür. Roami eSIM, tam seyahat sürenize uyan <b>$1,99/GB'den</b> başlayan esnek 7 günlük planlar sunar ve <b>%70</b>'e varan israftan tasarruf eder.
+      desc: Smart Traveller SIM, 5 günlük bir gezi için bile <b>$3/7 gün</b> planını zorunlu kılar; Metfone standart planları <b>30 gün</b> (<b>$1/700MB</b>)'dür. Roami eSIM, tam seyahat sürenize uyan <b>$4,99'dan</b> başlayan esnek 7 günlük planlar sunar ve <b>%70</b>'e varan israftan tasarruf eder.
     - icon: clock
       icon_bg: bg-teal-100
       icon_color: text-teal-600

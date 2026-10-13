@@ -1,6 +1,6 @@
 ---
 title: 'Gabon eSIM 2026: Yerel Taşıyıcı Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: 'Gabon 5G eSIM: İş ve Tatil için Yüksek Hızlı İnternet'
-  description: Libreville, Port-Gentil, Franceville'de hızlı 5G ile Gabon eSIM planlarını karşılaştırın. Turistler ve gezginler için Airtel, Moov Africa ve Gabon Telecom kapsama rehberi. 1.99$'dan başlayan anında QR aktivasyonu.
-  keywords: Gabon eSIM, Gabon eSIM satın al, en iyi Gabon eSIM, Gabon seyahat eSIM, Airtel Gabon, Moov Africa Gabon, Gabon Telecom Gabon, Libreville eSIM, Port-Gentil eSIM, Franceville eSIM, Gabon ön ödemeli eSIM, 5G Gabon eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Roami Gabon eSIM: Libreville, Port-Gentil kapsama, Airtel ağında 5G. Anında kurulum, hotspot dahil. 14,99$''dan başlar.'
+  keywords: Gabon eSIM, Gabon eSIM planları, en iyi Gabon eSIM, ucuz Gabon eSIM, Gabon eSIM çevrimiçi satın al, sınırsız veri Gabon eSIM, ön ödemeli Gabon eSIM, Gabon için en iyi eSIM, Gabon eSIM fiyatı, Gabon eSIM aktivasyonu, Gabon eSIM kapsama alanı, Libreville için en iyi eSIM, Libreville eSIM, Port-Gentil eSIM
+  low_price: 14.99
+  high_price: 99.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -225,6 +225,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🏙️
+    html: 'Libreville ve Port-Gentil''de en iyi kapsama: verilerinizi paylaşmak için hotspot dahildir.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -282,7 +284,7 @@ faq_section:
     - q: |
         Gabon'a sadece 2-3 günlüğüne seyahat ediyorum. Hangi eSIM'i almalıyım?
       a: |
-        Kısa bir seyahat için 1GB/7 günlük plan (1.99$) haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB plan (4.99$) daha fazla alan sağlar. Her ikisi de anında etkinleşir ve gerektiğinde ek yükleme yapabilirsiniz.
+        Kısa bir seyahat için 1GB/7 günlük plan (14.99$) haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB plan (23.99$) daha fazla alan sağlar. Her ikisi de anında etkinleşir ve gerektiğinde ek yükleme yapabilirsiniz.
     - q: |
         Roami'den Gabon eSIM satın almak için hangi belgelere ihtiyacım var?
       a: |
@@ -291,57 +293,69 @@ faq_section:
         Gabon eSIM'imi ne kadar önceden satın almalıyım?
       a: |
         İstediğiniz zaman satın alabilirsiniz - kapıda bile. QR kodu dakikalar içinde gelir. Evde WiFi üzerinden kurabilmek için birkaç gün önceden satın almanızı öneririz. Plan yalnızca Gabon'da bağlandığınızda etkinleşir, bu nedenle erken satın almak plan günlerinizi boşa harcamaz.
+    - q: |
+        Gabon gezisi için kaç GB almalıyım, Airtel paketlerine göre?
+      a: |
+        Günlük harita ve mesaj için 3-5GB, sosyal medya ve video için 10GB uygundur. Roami Gabon planları 14,99$'dan başlar ve Airtel paketlerinden bağımsızdır.
+    - q: |
+        Gabon eSIM fiyatı Airtel ön ödemeli SIM'e kıyasla nasıl?
+      a: |
+        Roami Gabon planları 14,99$'dan başlar ve çevrimiçi birkaç tıkla alınır. Airtel mağazasında sıra beklemek ve yerel ön ödemeli SIM'lerde sık görülen kayıt/aktivasyon ücreti gerekmez.
+    - q: |
+        Gabon eSIM hangi ağlarda çalışır, Airtel kapsaması yeterli mi?
+      a: |
+        Roami eSIM Airtel ve Moov Africa ağlarına bağlanır; Libreville ve Port-Gentil gibi büyük şehirlerde 4G/5G sunar. Kırsal bölgelerde 4G kapsama güçlü kalır.
 related_products:
-  title: İlgili Gabon eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1.99$'dan itibaren
+  - name: Gana eSIM
+    flag: img/flags/gh.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1.99$'dan itibaren
+  - name: Fildişi Sahili eSIM
+    flag: img/flags/ci.svg
+    price: $9.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1.99$'dan itibaren
+  - name: Kenya eSIM
+    flag: img/flags/ke.svg
+    price: $7.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Liberya eSIM
+    flag: img/flags/lr.svg
+    price: $27.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Madagaskar eSIM
+    flag: img/flags/mg.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Malawi eSIM
+    flag: img/flags/mw.svg
+    price: $14.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Mali eSIM
+    flag: img/flags/ml.svg
+    price: $27.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Nijer eSIM
+    flag: img/flags/ni.svg
+    price: $23.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Nijerya eSIM
+    flag: img/flags/ng.svg
+    price: $5.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Reunion Adası eSIM
+    flag: img/flags/re.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Sierra Leone eSIM
+    flag: img/flags/si.svg
+    price: $10.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Tanzanya eSIM
+    flag: img/flags/tz.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
 market_analysis:
   title: 'Gabon eSIM vs Yerel Ön Ödemeli SIM: Hangisi Daha Kullanışlı?'
   subtitle: Gabon Yerel Ön Ödemeli SIM'ler vs. eSIM Çözümleri (2024/2025 Kıyaslaması)
@@ -376,7 +390,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Gabon Telecom 2GB/7 gün için 4500 CFA sunar; Airtel 2GB/7 gün için 5000 CFA sunar. Kısa vadeli paketler mevcuttur ancak parçalıdır.
     esim_title: Esnek Günlük Planlar
-    esim_desc: Gabon Telecom'un 2GB/7 gün 4500 CFA veya Airtel'in 2GB/7 gün 5000 CFA planından farklı olarak, Roami 1.99$/GB'den başlayan 7 günlük planlar sunar, uyumsuz seyahat sürelerinden kaynaklanan israfı ortadan kaldırır.
+    esim_desc: Gabon Telecom'un 2GB/7 gün 4500 CFA veya Airtel'in 2GB/7 gün 5000 CFA planından farklı olarak, Roami 14.99$'dan başlayan 7 günlük planlar sunar, uyumsuz seyahat sürelerinden kaynaklanan israfı ortadan kaldırır.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''

@@ -1,6 +1,6 @@
 ---
 title: 'Kenya eSIM 2026: 5G ve Veri Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Kenya eSIM | Seyahatiniz için Seyahat Veri Planı Satın Alın
-  description: Roami'nin en iyi ön ödemeli seyahat eSIM'i ile Kenya'ya seyahat edin. En iyi ağlarda sınırsız 5G veri. Nairobi, Mombasa ve Kisumu'yu kapsar. Anında aktivasyon.
-  keywords: Kenya eSIM, Kenya eSIM satın al, en iyi Kenya eSIM, Kenya seyahat eSIM, Safaricom Kenya, Airtel Kenya Kenya, Telkom Kenya Kenya, Nairobi eSIM, Mombasa eSIM, Kisumu eSIM, Kenya ön ödemeli eSIM, 5G Kenya eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Kenya için ön ödemeli seyahat eSIM''i: Nairobi, Mombasa ve tüm ülkede 5G. Pasaport kaydı yok. 7,99$''dan başlar.'
+  keywords: Kenya eSIM, Kenya eSIM planları, en iyi Kenya eSIM, ucuz Kenya eSIM, Kenya eSIM çevrimiçi satın al, sınırsız veri Kenya eSIM, ön ödemeli Kenya eSIM, Kenya için en iyi eSIM, Kenya eSIM fiyatı, Kenya eSIM aktivasyonu, Kenya eSIM kapsama alanı, Nairobi için en iyi eSIM, Nairobi eSIM, Mombasa eSIM
+  low_price: 7.99
+  high_price: 98.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -298,6 +298,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 📍
+    html: 'Nairobi için eSIM''i varışta etkinleştirmenizi öneririz: geçerlilik ilk bağlantıda başlar.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -335,7 +337,7 @@ faq_section:
     - q: |
         Kenya seyahati için en ucuz eSIM seçenekleri nelerdir?
       a: |
-        Roami Kenya eSIM planları 1.99$'dan (7 gün, 1GB) başlar ve 59.99$'a (30 gün sınırsız) kadar çıkar. Tipik bir 5-7 günlük seyahat için 9.99$'lık 5GB plan en idealidir - haritalar, mesajlaşma ve sosyal medya kontrolü için yeterlidir. Video izlemek veya uzaktan çalışmak mı gerekiyor? 10GB veya sınırsız tercih edin. Safaricom'un 5G ağı sayesinde video izleme ve görüntülü aramalar harika çalışır. Havalimanı SIM büfeleri %30-50 daha pahalıdır ve sırada beklemeniz gerekir. Veri ihtiyaçlarınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek yükleme yapın.
+        Kenya eSIM planlarımız 7.99$ (3 Gün, 1GB) ile 98.99$ (30 Gün, 30GB) arasında değişir. Kısa bir seyahat için 21.99$ (3 Gün, 5GB) planı idealdir — harita, mesajlaşma ve sosyal medya ihtiyacını karşılar. Video izlemek veya uzaktan çalışmak mı gerekiyor? 30GB tercih edin. Safaricom'un 5G ağı sayesinde video izleme ve görüntülü aramalar harika çalışır. Havalimanı SIM büfeleri %30-50 daha pahalıdır ve sırada beklemeniz gerekir. Veri ihtiyaçlarınızdan emin değil misiniz? Küçük başlayın ve eSIM'inizi değiştirmeden uygulama üzerinden ek yükleme yapın.
     - q: |
         Kenya'da eSIM'im için hangi taşıyıcıya güvenmeliyim?
       a: |
@@ -364,56 +366,68 @@ faq_section:
         Kenya eSIM'imi satın aldıktan hemen sonra kullanabilir miyim, yoksa beklemem mi gerekir?
       a: |
         QR kodu dakikalar içinde gelir. Hemen kurun - 2 dakika sürer. Ancak, plan geçerliliği yalnızca Kenya'da bir ağa bağlandığınızda başlar. Bu nedenle, seyahatinizden haftalar önce kurabilir ve plan günlerinizden kaybetmezsiniz.
+    - q: |
+        Kenya eSIM hangi ağlarda çalışır, Safaricom kapsaması yeterli mi?
+      a: |
+        Roami eSIM Safaricom ve Airtel Kenya ağlarına bağlanır; Nairobi ve Mombasa gibi büyük şehirlerde 4G/5G sunar. Kırsal bölgelerde 4G kapsama güçlü kalır.
+    - q: |
+        Nairobi'de Safaricom şebekesinde eSIM hızı nasıl?
+      a: |
+        Nairobi'de Roami eSIM Safaricom 5G/4G ağını kullanır; şehir merkezinde tipik hız 50-200 Mbps. Harita, sosyal medya ve görüntülü arama için uygundur.
+    - q: |
+        Kenya eSIM'i kendi hattımla birlikte kullanabilir miyim, Safaricom hattım açık kalır mı?
+      a: |
+        Evet: veri eSIM üzerinden akar, kendi SIM'iniz arama ve SMS için açık kalır. Ayarlar'dan hangi hattın ses, SMS ve veri kullanacağını seçebilirsiniz.
 related_products:
-  title: İlgili Kenya eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1.99$'dan itibaren
+  - name: Liberya eSIM
+    flag: img/flags/lr.svg
+    price: $27.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1.99$'dan itibaren
+  - name: Madagaskar eSIM
+    flag: img/flags/mg.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1.99$'dan itibaren
+  - name: Malawi eSIM
+    flag: img/flags/mw.svg
+    price: $14.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1.99$'dan itibaren
+  - name: Mali eSIM
+    flag: img/flags/ml.svg
+    price: $27.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1.99$'dan itibaren
+  - name: Nijer eSIM
+    flag: img/flags/ni.svg
+    price: $23.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1.99$'dan itibaren
+  - name: Nijerya eSIM
+    flag: img/flags/ng.svg
+    price: $5.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1.99$'dan itibaren
+  - name: Reunion Adası eSIM
+    flag: img/flags/re.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1.99$'dan itibaren
+  - name: Sierra Leone eSIM
+    flag: img/flags/si.svg
+    price: $10.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1.99$'dan itibaren
+  - name: Tanzanya eSIM
+    flag: img/flags/tz.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1.99$'dan itibaren
+  - name: Tunus eSIM
+    flag: img/flags/tn.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1.99$'dan itibaren
+  - name: Uganda eSIM
+    flag: img/flags/ug.svg
+    price: $7.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Cezayir eSIM
+    flag: img/flags/dz.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Kenya eSIM vs Fiziksel SIM Kart: Artılar ve Eksiler Karşılaştırması'
@@ -443,13 +457,13 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Safaricom ve Airtel aylık planları Doğu Afrika dolaşımını içermez; sınır ötesi kullanım yaklaşık MB başına KES 4 olan yüksek ücretleri tetikler.
     esim_title: Sorunsuz Doğu Afrika Dolaşımı
-    esim_desc: Tanzanya veya Uganda'da Safaricom'un KES 4/MB dolaşım ücretlerinden kaçının. eSIM 1.99$/GB'den başlayan uygun fiyatlı bölgesel veri planları sunar.
+    esim_desc: Tanzanya veya Uganda'da Safaricom'un KES 4/MB dolaşım ücretlerinden kaçının. eSIM 7.99$'dan başlayan uygun fiyatlı bölgesel veri planları sunar.
   - icon: calendar-xmark
     title: Fatura Döngüsü ve<br>Batık Maliyet
     prepaid_title: ''
     prepaid_desc: Safaricom 1 gün (KES 99/500MB) ve 7 gün (KES 250/1GB) planlar sunar; 5 günlük bir turist kullanılmayan günlerde KES 100-250 israf eder.
     esim_title: Esnek Planlar, İsraf Yok
-    esim_desc: Sizi kullanılmayan günler için ödeme yapmaya zorlayan Safaricom'un 7 günlük planından (KES 250/1GB) farklı olarak, Roami 1.99$/GB'den başlayan 7 günlük planlar sunar, %75'e varan israf tasarrufu sağlar.
+    esim_desc: Sizi kullanılmayan günler için ödeme yapmaya zorlayan Safaricom'un 7 günlük planından (KES 250/1GB) farklı olarak, Roami 10.99$'dan başlayan 7 günlük planlar sunar, %75'e varan israf tasarrufu sağlar.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''
@@ -475,7 +489,7 @@ market_analysis:
       icon_bg: bg-rose-100
       icon_color: text-rose-600
       title: Doğu Afrika'da Yüksek Dolaşım Ücretlerinden Kaçının
-      desc: Safaricom ve Airtel Tanzanya/Uganda'da sınır ötesi dolaşım için <b>MB başına KES 4</b> ücret alır. eSIM <b>$1.99/GB</b>'den başlayan bölgesel planlar sunar.
+      desc: Safaricom ve Airtel Tanzanya/Uganda'da sınır ötesi dolaşım için <b>MB başına KES 4</b> ücret alır. eSIM <b>$7.99</b>'den başlayan bölgesel planlar sunar.
     - icon: shield
       icon_bg: bg-yellow-100
       icon_color: text-yellow-600
@@ -490,5 +504,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Kullanılmayan Günlerde Batık Maliyet Yok
-      desc: Safaricom'un 7 günlük planı (KES 250/1GB) turistleri kullanılmayan günler için ödeme yapmaya zorlar. eSIM <b>$1.99/GB</b>'den başlayan <b>7 günlük planlar</b> sunar, <b>%75</b>'e varan tasarruf sağlar.
+      desc: Safaricom'un 7 günlük planı (KES 250/1GB) turistleri kullanılmayan günler için ödeme yapmaya zorlar. eSIM <b>$10.99</b>'den başlayan <b>7 günlük planlar</b> sunar, <b>%75</b>'e varan tasarruf sağlar.
 ---

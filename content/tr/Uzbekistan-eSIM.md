@@ -1,6 +1,6 @@
 ---
 title: 'Özbekistan eSIM 2026: Operatör ve Kapsama Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
 seo:
   title: 'Özbekistan eSIM | Seyahatiniz için Ön Ödemeli Veri Planı'
-  description: 'Özbekistan''a seyahat mi planlıyorsunuz? Roami''nin sınırsız 5G veri sunan en iyi ön ödemeli seyahat eSIM''ini alın. Taşkent, Semerkant ve Buhara''yı kapsar. Anında etkinleştirme.'
-  keywords: 'Özbekistan eSIM, Özbekistan eSIM satın al, en iyi Özbekistan eSIM, Özbekistan seyahat eSIM, Ucell Özbekistan, Beeline Uzbekistan Özbekistan, UMS (Universal Mobile Systems) Özbekistan, Taşkent eSIM, Semerkant eSIM, Buhara eSIM, Özbekistan ön ödemeli eSIM, 5G Özbekistan eSIM'
+  description: 'Özbekistan eSIM ile Taşkent ve Semerkant''de bağlantıda kalın. Ön ödemeli, sözleşmesiz 5G veri. 1,99$''dan planlar.'
+  keywords: 'Özbekistan eSIM, Özbekistan eSIM planları, en iyi Özbekistan eSIM, ucuz Özbekistan eSIM, Özbekistan eSIM çevrimiçi satın al, sınırsız veri Özbekistan eSIM, ön ödemeli Özbekistan eSIM, Özbekistan için en iyi eSIM, Özbekistan eSIM fiyatı, Özbekistan eSIM aktivasyonu, Özbekistan eSIM kapsama alanı, Taşkent için en iyi eSIM, Taşkent eSIM, Semerkant eSIM'
   low_price: 1.99
-  high_price: 39.9
+  high_price: 96.99
 order_summary:
   title: 'Seçilen Plan'
   label_data: 'Dahil Olan Veri'
@@ -231,6 +231,8 @@ reminders:
     html: 'QR kodu e-posta adresinize gönderilecektir.'
   - icon: 🔄
     html: 'Aynı anda birden fazla eSIM kurabilirsiniz.'
+  - icon: 📍
+    html: 'Taşkent için eSIM''i varışta etkinleştirmenizi öneririz: geçerlilik ilk bağlantıda başlar.'
   compatibility_check:
     title: 'Hızlı Uyumluluk Kontrolü'
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kolayca kontrol edebilirsiniz:'
@@ -276,60 +278,72 @@ faq_section:
     - q: 'Özbekistan''da eSIM kullanmak için fiziksel SIM''imi çıkarmam gerekiyor mu?'
       a: 'Hiç de değil. Fiziksel SIM''iniz 1. yuvada kalır. eSIM, 2. yuvada onunla birlikte çalışır. SMS ve aramalar için ana SIM''inizi, veri için eSIM''i kullanın. 2020''den itibaren telefonların %80''inden fazlası bu ikili kurulumu destekler.'
     - q: 'Özbekistan''a giden gezginler için en popüler eSIM seçeneği hangisidir?'
-      a: 'Özbekistan''a giden çoğu gezgin 5GB/15 günlük planı (9,99$) tercih eder. Günlük navigasyon, sosyal medya ve mesajlaşma için yeterlidir. Daha uzun konaklamalar veya daha yoğun kullanım için 10GB (14,99$) veya sınırsız (59,99$) planlar harika seçeneklerdir. Tüm planlar dakikalar içinde etkinleşir ve 7/24 destek içerir.'
+      a: 'Özbekistan''a giden çoğu gezgin 5GB/15 günlük planı (11,99$) tercih eder. Günlük navigasyon, sosyal medya ve mesajlaşma için yeterlidir. Daha uzun konaklamalar veya daha yoğun kullanım için 10GB (19,99$) veya sınırsız (59,99$) planlar harika seçeneklerdir. Tüm planlar dakikalar içinde etkinleşir ve 7/24 destek içerir.'
     - q: 'Özbekistan eSIM''imin geçerlilik süresi ne zaman başlar?'
       a: 'Plan geçerliliği, satın aldığınızda veya kurduğunuzda değil, Özbekistan''da yerel bir ağa bağlandığınızda başlar. Yani seyahatinizden haftalar önce satın alıp kurabilir ve plan günlerinizi kaybetmeden kullanabilirsiniz. 7 günlük bir plan, ilk bağlantıdan itibaren size 7 tam gün verir.'
     - q: 'Özbekistan''da WhatsApp ve FaceTime eSIM ile çalışır mı?'
       a: 'Evet —tüm veri tabanlı uygulamalar eSIM üzerinden mükemmel çalışır. WhatsApp aramaları ses için dakikada yaklaşık 1MB, video için dakikada 5-8MB kullanır. FaceTime, Zoom, Google Maps, Instagram —her şey kısıtlama olmadan eSIM veri bağlantısı üzerinden çalışır. Ucell''in ağı video görüşmelerini sorunsuz şekilde yönetir. 5GB''lık bir plan yaklaşık 500 saat WhatsApp sesli arama veya 10 saat FaceTime videosu sağlar.'
+    - q: |
+        Özbekistan için eSIM kurulumu Ucell SIM almaktan daha mı hızlı?
+      a: |
+        Evet: QR kodunu e-posta ile 5 dakikada alıp evde kurulur; Ucell mağazasında beklemek gerekmez. Varışta eSIM otomatik olarak devreye girer.
+    - q: |
+        Özbekistan gezisi için kaç GB almalıyım, Ucell paketlerine göre?
+      a: |
+        Günlük harita ve mesaj için 3-5GB, sosyal medya ve video için 10GB uygundur. Roami Özbekistan planları 1,99$'dan başlar ve Ucell paketlerinden bağımsızdır.
+    - q: |
+        Özbekistan eSIM fiyatı Ucell ön ödemeli SIM'e kıyasla nasıl?
+      a: |
+        Roami Özbekistan planları 1,99$'dan başlar ve çevrimiçi birkaç tıkla alınır. Ucell mağazasında sıra beklemek ve yerel ön ödemeli SIM'lerde sık görülen kayıt/aktivasyon ücreti gerekmez.
 related_products:
-  title: 'İlgili eSIM Planları'
+  title: İlgili eSIM Planları
   items:
-  - name: 'Amerika Birleşik Devletleri eSIM'
-    flag: img/flags/us.svg
-    price: 'Başlangıç $1.99'
+  - name: Bangladeş eSIM
+    flag: img/flags/bd.svg
+    price: $5.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Birleşik Krallık eSIM'
-    flag: img/flags/gb.svg
-    price: 'Başlangıç $1.99'
+  - name: Brunei eSIM
+    flag: img/flags/bn.svg
+    price: $9.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Avrupa eSIM'
-    flag: img/flags/eu.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: true
-  - name: 'Kanada eSIM'
-    flag: img/flags/ca.svg
-    price: 'Başlangıç $1.99'
+  - name: Kamboçya eSIM
+    flag: img/flags/kh.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Türkiye eSIM'
-    flag: img/flags/tr.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Çin eSIM'
+  - name: Çin eSIM
     flag: img/flags/cn.svg
-    price: 'Başlangıç $1.99'
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Japonya eSIM'
-    flag: img/flags/jp.svg
-    price: 'Başlangıç $1.99'
-    is_highlight: false
-  - name: 'Hong Kong eSIM'
+  - name: Hong Kong eSIM
     flag: img/flags/hk.svg
-    price: 'Başlangıç $1.99'
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Fransa eSIM'
-    flag: img/flags/fr.svg
-    price: 'Başlangıç $1.99'
+  - name: Hindistan eSIM
+    flag: img/flags/in.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'İspanya eSIM'
-    flag: img/flags/es.svg
-    price: 'Başlangıç $1.99'
+  - name: Endonezya eSIM
+    flag: img/flags/id.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Almanya eSIM'
-    flag: img/flags/de.svg
-    price: 'Başlangıç $1.99'
+  - name: Japonya eSIM
+    flag: img/flags/jp.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Avustralya eSIM'
-    flag: img/flags/au.svg
-    price: 'Başlangıç $1.99'
+  - name: Kazakistan eSIM
+    flag: img/flags/kz.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kırgızistan eSIM
+    flag: img/flags/kg.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Laos eSIM
+    flag: img/flags/la.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: true
+  - name: Kolombiya eSIM
+    flag: img/flags/co.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: false
 ---

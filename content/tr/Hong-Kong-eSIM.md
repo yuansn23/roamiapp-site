@@ -1,6 +1,6 @@
 ---
 title: 'Hong Kong eSIM 2026: Kapsama ve Hız Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Hong Kong eSIM | Hızlı Ön Ödemeli Veri Planı Satın Alın
-  description: Roami'nin en iyi ön ödemeli seyahat eSIM'i ile Hong Kong'da bağlantıda kalın. Şehir genelinde sınırsız 5G veri. Anında aktivasyon. Planınızı varmadan önce satın alın.
-  keywords: Hong Kong eSIM, Hong Kong eSIM satın al, en iyi Hong Kong eSIM, Hong Kong seyahat eSIM, CSL Hong Kong, SmarTone Hong Kong, China Mobile Hong Kong Hong Kong, Hong Kong Adası eSIM, Kowloon eSIM, Tsuen Wan eSIM, Hong Kong ön ödemeli eSIM, 5G Hong Kong eSIM
+  description: Hong Kong eSIM planları 1,99$'dan başlar. Hong Kong Adası ve Kowloon'de hızlı 5G, sözleşme yok, hotspot dahil. Anında etkinleştirme.
+  keywords: Hong Kong eSIM, Hong Kong eSIM planları, en iyi Hong Kong eSIM, ucuz Hong Kong eSIM, Hong Kong eSIM çevrimiçi satın al, sınırsız veri Hong Kong eSIM, ön ödemeli Hong Kong eSIM, Hong Kong için en iyi eSIM, Hong Kong eSIM fiyatı, Hong Kong eSIM aktivasyonu, Hong Kong eSIM kapsama alanı, Hong Kong Adası için en iyi eSIM, Hong Kong Adası eSIM, Kowloon eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 57.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -330,6 +330,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🏙️
+    html: 'Hong Kong Adası ve Kowloon''de en iyi kapsama: verilerinizi paylaşmak için hotspot dahildir.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -395,58 +397,70 @@ faq_section:
     - q: |
         Hong Kong'a giden gezginler için en popüler eSIM seçeneği hangisidir?
       a: |
-        Hong Kong'a giden çoğu gezgin 5GB/15 günlük planı (9.99$) seçer. Günlük navigasyon, sosyal medya ve mesajlaşma için yeterlidir. Daha uzun konaklamalar veya daha yoğun kullanım için 10GB (14.99$) veya sınırsız (59.99$) planlar harika seçeneklerdir. Tüm planlar dakikalar içinde etkinleşir ve 7/24 destek içerir.
+        Hong Kong'a giden çoğu gezgin 5GB/15 günlük planı (7.99$) seçer. Günlük navigasyon, sosyal medya ve mesajlaşma için yeterlidir. Daha uzun konaklamalar veya daha yoğun kullanım için 10GB (9.99$) veya sınırsız (59.99$) planlar harika seçeneklerdir. Tüm planlar dakikalar içinde etkinleşir ve 7/24 destek içerir.
+    - q: |
+        Hong Kong gezisi için kaç GB almalıyım, CSL paketlerine göre?
+      a: |
+        Günlük harita ve mesaj için 3-5GB, sosyal medya ve video için 10GB uygundur. Roami Hong Kong planları 1,99$'dan başlar ve CSL paketlerinden bağımsızdır.
+    - q: |
+        Hong Kong eSIM fiyatı CSL ön ödemeli SIM'e kıyasla nasıl?
+      a: |
+        Roami Hong Kong planları 1,99$'dan başlar ve çevrimiçi birkaç tıkla alınır. CSL mağazasında sıra beklemek ve yerel ön ödemeli SIM'lerde sık görülen kayıt/aktivasyon ücreti gerekmez.
+    - q: |
+        Hong Kong eSIM hangi ağlarda çalışır, CSL kapsaması yeterli mi?
+      a: |
+        Roami eSIM CSL ve SmarTone ağlarına bağlanır; Hong Kong Adası ve Kowloon gibi büyük şehirlerde 4G/5G sunar. Kırsal bölgelerde 4G kapsama güçlü kalır.
 related_products:
-  title: İlgili Hong Kong eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1.99$'dan itibaren
+  - name: Hindistan eSIM
+    flag: img/flags/in.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1.99$'dan itibaren
-    is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1.99$'dan itibaren
+  - name: Endonezya eSIM
+    flag: img/flags/id.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Japonya eSIM
     flag: img/flags/jp.svg
-    price: 1.99$'dan itibaren
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1.99$'dan itibaren
+  - name: Kazakistan eSIM
+    flag: img/flags/kz.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1.99$'dan itibaren
+  - name: Kırgızistan eSIM
+    flag: img/flags/kg.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1.99$'dan itibaren
+  - name: Laos eSIM
+    flag: img/flags/la.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1.99$'dan itibaren
+  - name: Malezya eSIM
+    flag: img/flags/my.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1.99$'dan itibaren
+  - name: Maldivler eSIM
+    flag: img/flags/mv.svg
+    price: $14.99'dan başlayan fiyatlarla
     is_highlight: false
+  - name: Nepal eSIM
+    flag: img/flags/ne.svg
+    price: $10.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Pakistan eSIM
+    flag: img/flags/pk.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Filipinler eSIM
+    flag: img/flags/ph.svg
+    price: $2.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Singapur eSIM
+    flag: img/flags/sg.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: true
 market_analysis:
   title: 'Hong-Kong eSIM vs Yerel Ön Ödemeli SIM: Hangisi Daha Kullanışlı?'
   subtitle: Hong Kong Yerel Ön Ödemeli SIM'ler vs. eSIM Çözümleri (2024/2025 Kıyaslaması)
@@ -481,7 +495,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 3 HK SoSIM (HK$33/50GB/30 gün) 30 günlük döngü zorunluluğu getirir; 3 günlük bir turist 27 gün ve 45GB'den fazlasını boşa harcar. csl. Discover Hong Kong SIM'i (HK$88/3GB/5 gün) kullandıkça öde seçeneği olmadan sona erer; devam etmek için HK$48 eklenti paketi satın alınması gerekir.
     esim_title: Esnek Kısa Vadeli Planlar
-    esim_desc: Kısa seyahatler için %90 israfa neden olan 3 HK SoSIM'in 30 günlük döngüsünden (HK$33/50GB) farklı olarak, Roami 1.99$/GB'den başlayan 7 günlük planlar sunar, %75'e varan israf tasarrufu sağlar.
+    esim_desc: Kısa seyahatler için %90 israfa neden olan 3 HK SoSIM'in 30 günlük döngüsünden (HK$33/50GB) farklı olarak, Roami 2.99$'dan başlayan 7 günlük planlar sunar, %75'e varan israf tasarrufu sağlar.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''
@@ -522,5 +536,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Uzun Fatura Döngülerinden Batık Maliyeti Ortadan Kaldırın
-      desc: <b>3 HK SoSIM (HK$33/50GB/30 gün)</b> 30 günlük döngü zorunluluğu getirir; 3 günlük bir turist <b>27 gün</b> ve <b>45GB'den</b> fazlasını boşa harcar. <b>csl. Discover Hong Kong SIM'i (HK$88/3GB/5 gün)</b> kullandıkça öde seçeneği olmadan sona erer; <b>HK$48</b> eklenti satın alınması gerekir. Roami <b>$1.99/GB</b>'den başlayan esnek 7 günlük planlar sunar.
+      desc: <b>3 HK SoSIM (HK$33/50GB/30 gün)</b> 30 günlük döngü zorunluluğu getirir; 3 günlük bir turist <b>27 gün</b> ve <b>45GB'den</b> fazlasını boşa harcar. <b>csl. Discover Hong Kong SIM'i (HK$88/3GB/5 gün)</b> kullandıkça öde seçeneği olmadan sona erer; <b>HK$48</b> eklenti satın alınması gerekir. Roami <b>$2.99</b>'den başlayan esnek 7 günlük planlar sunar.
 ---

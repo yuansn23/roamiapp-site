@@ -1,6 +1,6 @@
 ---
 title: 'Hindistan eSIM 2026: Operatör ve Kapsama Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Hindistan eSIM | Hızlı Ön Ödemeli Veri Planı Satın Alın
-  description: Roami'nin en iyi ön ödemeli seyahat eSIM'i ile Hindistan'a seyahat edin. Yerel kimlik gerektirmeyen sınırsız 5G veri. Anında aktivasyon. Planınızı 1.99$'dan satın alın.
-  keywords: Hindistan eSIM, Hindistan eSIM satın al, en iyi Hindistan eSIM, Hindistan seyahat eSIM, Airtel Hindistan, Jio Hindistan, Vi Hindistan, Delhi eSIM, Mumbai eSIM, Bangalore eSIM, Hindistan ön ödemeli eSIM, 5G Hindistan eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Hindistan eSIM ile Delhi ve Mumbai'de bağlantıda kalın. Ön ödemeli, sözleşmesiz 5G veri. 3,99$'dan planlar.
+  keywords: Hindistan eSIM, Hindistan eSIM planları, en iyi Hindistan eSIM, ucuz Hindistan eSIM, Hindistan eSIM çevrimiçi satın al, sınırsız veri Hindistan eSIM, ön ödemeli Hindistan eSIM, Hindistan için en iyi eSIM, Hindistan eSIM fiyatı, Hindistan eSIM aktivasyonu, Hindistan eSIM kapsama alanı, Delhi için en iyi eSIM, Delhi eSIM, Mumbai eSIM
+  low_price: 3.99
+  high_price: 94.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -314,6 +314,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🏙️
+    html: 'Delhi ve Mumbai''de en iyi kapsama: verilerinizi paylaşmak için hotspot dahildir.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -355,7 +357,7 @@ faq_section:
     - q: |
         Çok fazla harcamadan Hindistan için eSIM alabilir miyim?
       a: |
-        Kesinlikle. Roami'nin Hindistan eSIM planları 1.99$ kadar düşük fiyatlarla başlar. 5GB/15 günlük seçenek (9.99$) gezginler arasında en popüler olanıdır - haritaları, WhatsApp, Instagram ve e-postayı rahatça karşılar. Yoğun veri kullanıcısıysanız, 10GB (14.99$) veya sınırsız (59.99$) planlar size gönül rahatlığı sağlar. Havalimanı SIM gişesini atlamak size %30-50 ve kuyrukta bekleme derdini tasarruf ettirir. Ayarlamanız mı gerekiyor? Roami uygulamasından istediğiniz zaman ek yükleme yapabilirsiniz.
+        Kesinlikle. Roami'nin Hindistan eSIM planları 1.99$ kadar düşük fiyatlarla başlar. En popüler tercih 10.99$ (7 Gün, 5GB) seçeneğidir — haritalar, WhatsApp ve e-posta için rahatça yeter. Yoğun veri kullanıcıları için 59.99$ (30 Gün, 30GB) planı daha rahat bir seçenektir. Havalimanı SIM gişesini atlamak size %30-50 ve kuyrukta bekleme derdini tasarruf ettirir. Ayarlamanız mı gerekiyor? Roami uygulamasından istediğiniz zaman ek yükleme yapabilirsiniz.
     - q: |
         Hindistan'da eSIM için Roami Airalo ile karşılaştırıldığında nasıldır?
       a: |
@@ -380,56 +382,68 @@ faq_section:
         WhatsApp ve FaceTime Hindistan'da eSIM ile çalışır mı?
       a: |
         Evet - tüm veri tabanlı uygulamalar eSIM üzerinden mükemmel çalışır. WhatsApp aramaları ses için dakikada yaklaşık 1MB, video için dakikada 5-8MB kullanır. FaceTime, Zoom, Google Maps, Instagram - her şey kısıtlama olmaksızın eSIM veri bağlantısı üzerinden çalışır. Airtel'in ağı görüntülü aramaları sorunsuz şekilde yönetir. 5GB plan yaklaşık 500 saat WhatsApp sesli arama veya 10 saat FaceTime videosu sağlar.
+    - q: |
+        Delhi'de Airtel şebekesinde eSIM hızı nasıl?
+      a: |
+        Delhi'de Roami eSIM Airtel 5G/4G ağını kullanır; şehir merkezinde tipik hız 50-200 Mbps. Harita, sosyal medya ve görüntülü arama için uygundur.
+    - q: |
+        Hindistan eSIM'i kendi hattımla birlikte kullanabilir miyim, Airtel hattım açık kalır mı?
+      a: |
+        Evet: veri eSIM üzerinden akar, kendi SIM'iniz arama ve SMS için açık kalır. Ayarlar'dan hangi hattın ses, SMS ve veri kullanacağını seçebilirsiniz.
+    - q: |
+        Yola çıkmadan Hindistan eSIM'i nasıl etkinleştiririm, Airtel hattına geçiş ne zaman olur?
+      a: |
+        Çevrimiçi satın alın, QR kodunu e-posta ile 5 dakikada alın ve Ayarlar > Hücresel > eSIM Ekle'den tarayın. Evde Wi-Fi ile kurup Hindistan'de varışta etkinleştirin.
 related_products:
-  title: İlgili Hindistan eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1.99$'dan itibaren
-    is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1.99$'dan itibaren
+  - name: Endonezya eSIM
+    flag: img/flags/id.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Japonya eSIM
     flag: img/flags/jp.svg
-    price: 1.99$'dan itibaren
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1.99$'dan itibaren
+  - name: Kazakistan eSIM
+    flag: img/flags/kz.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: true
+  - name: Kırgızistan eSIM
+    flag: img/flags/kg.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1.99$'dan itibaren
+  - name: Laos eSIM
+    flag: img/flags/la.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1.99$'dan itibaren
+  - name: Malezya eSIM
+    flag: img/flags/my.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: 1.99$'dan itibaren
+  - name: Maldivler eSIM
+    flag: img/flags/mv.svg
+    price: $14.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1.99$'dan itibaren
+  - name: Nepal eSIM
+    flag: img/flags/ne.svg
+    price: $10.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Pakistan eSIM
+    flag: img/flags/pk.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Filipinler eSIM
+    flag: img/flags/ph.svg
+    price: $2.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Singapur eSIM
+    flag: img/flags/sg.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Güney Kore eSIM
+    flag: img/flags/kr.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Hindistan eSIM vs Ön Ödemeli SIM Kart: Geçmeye Değer mi?'
@@ -465,7 +479,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Ana akım planlar 28 günlük döngülerdir (ör. Vi ₹549/3.5GB/gün, Airtel ₹349/3GB/gün, Jio ₹149/1.5GB/gün); 5-7 günlük bir seyahat planın değerinin %75'inden fazlasını boşa harcar.
     esim_title: Esnek Kısa Planlar
-    esim_desc: 28 günlük israftan kaçının. Roami 1.99$/GB'den başlayan 7 günlük planlar sunar, 5 günlük bir seyahat için Vi'nin ₹549/28 günlük planına kıyasla %75'ten fazla tasarruf sağlar.
+    esim_desc: 28 günlük israftan kaçının. Roami 4.99$'dan başlayan 7 günlük planlar sunar, 5 günlük bir seyahat için Vi'nin ₹549/28 günlük planına kıyasla %75'ten fazla tasarruf sağlar.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''
@@ -501,7 +515,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Paranızın %75'ini Boşa Harcayan 28 Günlük Fatura Döngülerinden Kaçın
-      desc: Vi <b>₹549/28-gün</b> veya Airtel <b>₹349/28-gün</b> gibi ana akım planlar kullanmadığınız 3+ hafta için ödeme yapmanıza zorlar. Roami'nin <b>1.99$/GB'den başlayan 7 günlük planları</b> seyahat sürenize uygundur.
+      desc: Vi <b>₹549/28-gün</b> veya Airtel <b>₹349/28-gün</b> gibi ana akım planlar kullanmadığınız 3+ hafta için ödeme yapmanıza zorlar. Roami'nin <b>4.99$'dan başlayan 7 günlük planları</b> seyahat sürenize uygundur.
     - icon: shield
       icon_bg: bg-teal-100
       icon_color: text-teal-600

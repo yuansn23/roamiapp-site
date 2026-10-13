@@ -1,6 +1,6 @@
 ---
 title: 'Kırgızistan eSIM 2026: Turist ve Ağ Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,12 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: 'Kırgızistan eSIM: 5G Yüksek Hızlı Sınırsız Veri Planı'
-  description: Bişkek, Oş, Karakol'da hızlı 5G ile Kırgızistan eSIM planlarını karşılaştırın. Turistler ve gezginler için
-    Megacom & Beeline & O! kapsama rehberi. 1,99$'dan başlayan fiyatlarla anında QR aktivasyonu.
-  keywords: Kırgızistan eSIM, Kırgızistan eSIM satın al, en iyi Kırgızistan eSIM, Kırgızistan seyahat eSIM, Megacom Kırgızistan, Beeline
-    Kırgızistan, O! Kırgızistan, Bişkek eSIM, Oş eSIM, Karakol eSIM, Kırgızistan ön ödemeli eSIM, 5G Kırgızistan eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Ucuz Kırgızistan eSIM: Bişkek, Oş ve Karakol''de 5G. QR kod ile 2 dakikada kurulum, 24/7 destek. 4,99$''dan fiyatlar.'
+  keywords: Kırgızistan eSIM, Kırgızistan eSIM planları, en iyi Kırgızistan eSIM, ucuz Kırgızistan eSIM, Kırgızistan eSIM çevrimiçi satın al, sınırsız veri Kırgızistan eSIM, ön ödemeli Kırgızistan eSIM, Kırgızistan için en iyi eSIM, Kırgızistan eSIM fiyatı, Kırgızistan eSIM aktivasyonu, Kırgızistan eSIM kapsama alanı, Bişkek için en iyi eSIM, Bişkek eSIM, Oş eSIM
+  low_price: 4.99
+  high_price: 96.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -256,6 +254,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 📍
+    html: 'Bişkek için eSIM''i varışta etkinleştirmenizi öneririz: geçerlilik ilk bağlantıda başlar.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -325,55 +325,67 @@ faq_section:
         Kırgızistan'daki otelimde ücretsiz WiFi varsa —yine de eSIM verisine ihtiyacım var mı?
       a: |
         Otel WiFi odanızda çalışır ama keşfe çıktığınızda çalışmaz. eSIM size her yerde veri sağlar —sokaklarda gezinme, yakındaki yerleri arama, toplu taşıma tarifelerini kontrol etme. 5GB plan 9,99$'dır ve bu genellikle bir haftalık otel WiFi'sinden (birçok otelde 10-15$) daha ucuzdur. Çoğu gezgin büyük indirmeler için otel WiFi'sini ve hareket halindeyken bağlantı için eSIM'i kullanır.
+    - q: |
+        Yola çıkmadan Kırgızistan eSIM'i nasıl etkinleştiririm, Megacom hattına geçiş ne zaman olur?
+      a: |
+        Çevrimiçi satın alın, QR kodunu e-posta ile 5 dakikada alın ve Ayarlar > Hücresel > eSIM Ekle'den tarayın. Evde Wi-Fi ile kurup Kırgızistan'de varışta etkinleştirin.
+    - q: |
+        Kırgızistan seyahati için kaç GB yeter, Megacom paketleriyle kıyaslanınca?
+      a: |
+        Hafif kullanım (harita, mesaj) için 3-5GB yeter; sosyal medya ve video için 10GB idealdir. Roami Kırgızistan planları 4,99$'dan başlar ve uygulamadan anında yükleme yapılır.
+    - q: |
+        Kırgızistan eSIM ile Megacom turist SIM'i arasındaki fark ne?
+      a: |
+        Roami Kırgızistan eSIM 4,99$'dan başlar ve online alınır; Megacom turist SIM'i genellikle mağaza ziyareti ve kayıt gerektirir. eSIM'de kuyruk ve aktivasyon beklemesi yoktur.
 related_products:
-  title: İlgili Kırgızistan eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
+  - name: Laos eSIM
+    flag: img/flags/la.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Malezya eSIM
+    flag: img/flags/my.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık eSIM
-    flag: img/flags/gb.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Maldivler eSIM
+    flag: img/flags/mv.svg
+    price: $14.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Nepal eSIM
+    flag: img/flags/ne.svg
+    price: $10.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Pakistan eSIM
+    flag: img/flags/pk.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Filipinler eSIM
+    flag: img/flags/ph.svg
+    price: $2.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Singapur eSIM
+    flag: img/flags/sg.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
+  - name: Güney Kore eSIM
+    flag: img/flags/kr.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
+  - name: Tayvan eSIM
+    flag: img/flags/tw.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
+  - name: Tacikistan eSIM
+    flag: img/flags/tj.svg
+    price: $4.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Tayland eSIM
+    flag: img/flags/th.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
+  - name: Özbekistan eSIM
+    flag: img/flags/uz.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
@@ -410,7 +422,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: MegaCom'un 'Popüler İnternet 90'ı 6GB için 90 som, 7 gün geçerlidir; O!'nın 'Unlim Internet+'ı 390 som ile 30 günlük bir plandır; 3-4 günlük bir gezi planın değerinin %80'ine kadarını israf eder.
     esim_title: Esnek Kısa Süreli Planlar
-    esim_desc: O!'nın 30 günlük döngüsünün (390 som) veya MegaCom'un 7 günlük planlarının (6GB için 90 som) aksine, Roami kısa gezilerde %80'e varan israftan tasarruf eden $1,99/GB'den başlayan 7 günlük planlar sunar.
+    esim_desc: O!'nın 30 günlük döngüsünün (390 som) veya MegaCom'un 7 günlük planlarının (6GB için 90 som) aksine, Roami kısa gezilerde %80'e varan israftan tasarruf eden $4,99'dan başlayan 7 günlük planlar sunar.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''
@@ -446,7 +458,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: 7 Günlük Planlardaki Batık Maliyeti Ortadan Kaldırın
-      desc: MegaCom'un <b>90 som/6GB</b> planı ve O!'nın <b>390 som/30 gün</b> planı uzun döngüleri zorunlu kılar. 3 günlük bir turist verinin <b>%80</b>'inden fazlasını israf eder. Roami, tam seyahat sürenize uyan <b>$1,99/GB'den</b> başlayan 7 günlük planlar sunar.
+      desc: MegaCom'un <b>90 som/6GB</b> planı ve O!'nın <b>390 som/30 gün</b> planı uzun döngüleri zorunlu kılar. 3 günlük bir turist verinin <b>%80</b>'inden fazlasını israf eder. Roami, tam seyahat sürenize uyan <b>$4,99'dan</b> başlayan 7 günlük planlar sunar.
     - icon: tower-observation
       icon_bg: bg-rose-100
       icon_color: text-rose-600

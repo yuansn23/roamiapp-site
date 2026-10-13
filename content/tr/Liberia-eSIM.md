@@ -1,6 +1,6 @@
 ---
 title: 'Liberya eSIM 2026: Kapsama ve Hız Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Orange Liberia, Lonestar Cell MTN, LiberCell
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Monrovia, Gbarnga, Buchanan, Kakata, Zwedru
-  main_packages: 3/7/15/30 Gün, Sınırsız Veri
+  main_packages: 7/15/30 Gün, 1GB–5GB Veri
 modal:
   title: Hizmet Yükseltildi!
   btn_text: Devam Et
@@ -18,13 +18,11 @@ modal:
   text_android: eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltilmiştir.<br>Yeni müşteriler %20 indirimden yararlanır,
     promosyon kodu:web20
 seo:
-  title: "Liberya eSIM: Orange ve Lonestar 5G Arasında Kesintisiz Geçiş Yapın"
-  description: Monrovia, Gbarnga, Buchanan'da hızlı 5G ile Liberya eSIM planlarını karşılaştırın. Turistler ve gezginler için
-    Orange Liberia & Lonestar Cell MTN & LiberCell kapsama rehberi. 1,99$'dan başlayan fiyatlarla anında QR aktivasyonu.
-  keywords: Liberya eSIM, Liberya eSIM satın al, en iyi Liberya eSIM, Liberya seyahat eSIM, Orange Liberia Liberya, Lonestar Cell
-    MTN Liberya, LiberCell Liberya, Monrovia eSIM, Gbarnga eSIM, Buchanan eSIM, Liberya ön ödemeli eSIM, 5G Liberya eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: "Liberya eSIM | Ön Ödemeli Seyahat Verisi"
+  description: 'Roami Liberya eSIM: Monrovia, Gbarnga kapsama, Orange Liberia ağında 5G. Anında kurulum, hotspot dahil. 27,99$''dan başlar.'
+  keywords: Liberya eSIM, Liberya eSIM planları, en iyi Liberya eSIM, ucuz Liberya eSIM, Liberya eSIM çevrimiçi satın al, Liberya eSIM veri planları, ön ödemeli Liberya eSIM, Liberya için en iyi eSIM, Liberya eSIM fiyatı, Liberya eSIM aktivasyonu, Liberya eSIM kapsama alanı, Monrovia için en iyi eSIM, Monrovia eSIM, Gbarnga eSIM
+  low_price: 27.99
+  high_price: 99.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -157,6 +155,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 📍
+    html: 'Monrovia için eSIM''i varışta etkinleştirmenizi öneririz: geçerlilik ilk bağlantıda başlar.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -203,9 +203,9 @@ faq_section:
       a: |
         Evet —ev SIM kartınız SMS'ler (banka kodları, 2FA girişleri) için yuva 1'de kalır. eSIM, yuva 2'deki verileri yönetir. MB başına 10-15$'a kadar varan ücretlerden kaçınmak için ev SIM kartınızda veri dolaşımını devre dışı bırakın.
     - q: |
-        Liberya için 5GB plan ile sınırsız plan arasındaki fark nedir?
+        Liberya için 5GB plan yeterli mi?
       a: |
-        5GB plan size sabit miktarda yüksek hızlı veri (toplam 5GB) verir. Kullanıldığında, ek paket satın alırsınız veya yeni bir plan alırsınız. Sınırsız plan veri sağlamaya devam eder, ancak adil kullanım politikası kapsamında günde 30GB'dan sonra hızlar düşebilir. Haritalar, mesajlaşma ve sosyal medya için çoğu gezgin için 5GB plan yeterlidir.
+        5GB plan size sabit miktarda yüksek hızlı veri (toplam 5GB) verir. Kullanıldığında, ek paket satın alırsınız veya yeni bir plan alırsınız. Paketler sabit verilidir; her plan belirli bir veri hacmi sunar. Haritalar, mesajlaşma ve sosyal medya için çoğu gezgin için 5GB plan yeterlidir.
     - q: |
         eSIM, Liberya için uluslararası dolaşımdan daha mı ucuz?
       a: |
@@ -226,56 +226,68 @@ faq_section:
         Liberya seyahati için eSIM, taşınabilir WiFi ile karşılaştırıldığında nasıldır?
       a: |
         eSIM rahatlık açısından kazanır. Taşınacak, şarj edilecek veya seyahat sonunda iade edilecek bir cihaz yok —taşınabilir WiFi kiralamaya kıyasla günde yaklaşık 3-5$ tasarruf sağlar. Taşınabilir WiFi 3+ kişilik gruplar için çalışır, ancak tek bir cihaza bağlısınız ve 6-8 saat şarjlı tutmanız gerekir. eSIM ile telefonunuz sıcak noktanızdır. Tüm Roami planları, 5 cihaza kadar ücretsiz sıcak nokta paylaşımı içerir.
+    - q: |
+        Liberya genelinde Orange Liberia ve Lonestar Cell MTN kapsaması eSIM ile nasıl çalışır?
+      a: |
+        Roami eSIM Orange Liberia ve Lonestar Cell MTN ağlarını kullanır; Monrovia, Gbarnga ve Buchanan'de 4G/5G mevcuttur. Şehir dışında bağlantı 4G hızında sabit kalır.
+    - q: |
+        Monrovia ve Gbarnga'de Orange Liberia ağında eSIM hızı yeterli mi?
+      a: |
+        Evet; Monrovia ve Gbarnga merkezinde Roami eSIM Orange Liberia 5G/4G ağında çalışır ve tipik olarak 50-200 Mbps sunar. Görüntülü görüşme ve navigasyon için idealdir.
+    - q: |
+        Liberya eSIM ile fiziksel SIM'i aynı anda kullanabilir miyim, Orange Liberia numaram çalışır mı?
+      a: |
+        Evet: veri eSIM'de, ses ve SMS kendi hattınızda kalır. Böylece Orange Liberia numaranız önemli aramaları almaya devam eder.
 related_products:
-  title: İlgili Liberya eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
+  - name: Madagaskar eSIM
+    flag: img/flags/mg.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Malawi eSIM
+    flag: img/flags/mw.svg
+    price: $14.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Mali eSIM
+    flag: img/flags/ml.svg
+    price: $27.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Nijer eSIM
+    flag: img/flags/ni.svg
+    price: $23.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Nijerya eSIM
+    flag: img/flags/ng.svg
+    price: $5.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Reunion Adası eSIM
+    flag: img/flags/re.svg
     price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık eSIM
-    flag: img/flags/gb.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Sierra Leone eSIM
+    flag: img/flags/si.svg
+    price: $10.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Tanzanya eSIM
+    flag: img/flags/tz.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Tunus eSIM
+    flag: img/flags/tn.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Uganda eSIM
+    flag: img/flags/ug.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Cezayir eSIM
+    flag: img/flags/dz.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: $1.99'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: $1.99'dan başlayan fiyatlarla
+  - name: Botsvana eSIM
+    flag: img/flags/bw.svg
+    price: $14.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Liberya eSIM ve Fiziksel SIM: Seyahat İçin Hangisi Daha İyi?'
@@ -314,11 +326,11 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Planlar 5 gün (5$), 15 gün (15$) veya 30 gün (5$-40$) sabit döngülere sahiptir. Orange Liberia veri paketleri otomatik yenilenmez; hizmet sona erdiğinde veya veri bittiğinde durur. Tüm fiyatlar ek %15 vergiye tabidir.
     esim_title: Esnek Kısa Süreli Planlar
-    esim_desc: 3 günlük bir gezide maliyetin %40'ını israf eden LoneStar'ın 5 günlük (5$) veya 15 günlük (15$) sabit planlarının aksine, Roami $1,99/GB'den başlayan 7 günlük planlar sunar. Yalnızca kullandığınız kadar ödeyin, %15 vergi yok.
+    esim_desc: 3 günlük bir gezide maliyetin %40'ını israf eden LoneStar'ın 5 günlük (5$) veya 15 günlük (15$) sabit planlarının aksine, Roami $27,99'dan başlayan 7 günlük planlar sunar. Yalnızca kullandığınız kadar ödeyin, %15 vergi yok.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''
-    prepaid_desc: Bu boyut için kaynakta belirli bir veri yok. Piyasa bilgisine göre, Liberya ön ödemeli SIM'lerinde tethering genellikle izin verilir, ancak sınırsız planlarda hızlar düşebilir.
+    prepaid_desc: Bu boyut için kaynakta belirli bir veri yok. Piyasa bilgisine göre, Liberya ön ödemeli SIM'lerinde tethering genellikle izin verilir, ancak yüksek veri paketlerinde hızlar düşebilir.
     esim_title: Kısıtlamasız Tethering
     esim_desc: Roami eSIM, tam hızda sıcak nokta paylaşımına izin verir. Tethering'i hız sınırlamasına tabi tutabilecek bazı yerel SIM'lerin aksine, dizüstü bilgisayarınızı ve cihazlarınızı hız sınırı olmadan bağlayabilirsiniz.
   - icon: credit-card
@@ -350,8 +362,7 @@ market_analysis:
       icon_bg: bg-purple-100
       icon_color: text-purple-600
       title: Kısıtlamasız Sıcak Nokta ve Tam Hız
-      desc: Yerel SIM'ler sınırsız planlarda tethering'i hız sınırlamasına tabi tutabilirken, Roami eSIM <b>tam hızda sıcak nokta paylaşımına</b> izin verir.
-        Dizüstü bilgisayarınızı ve cihazlarınızı hız sınırı olmadan bağlayın, iş seyahatindekiler için idealdir.
+      desc: Yerel SIM'ler yüksek veri paketlerinde tethering'i hız sınırlamasına tabi tutabilirken, Roami eSIM <b>tam hızda sıcak nokta paylaşımına</b> izin verir. Dizüstü bilgisayarınızı ve cihazlarınızı hız sınırı olmadan bağlayın, iş seyahatindekiler için idealdir.
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600

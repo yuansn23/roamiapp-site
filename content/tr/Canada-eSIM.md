@@ -1,6 +1,6 @@
 ---
 title: 'Kanada eSIM 2026: Şehir ve Ağ Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,12 +20,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Kanada eSIM | Gezginler İçin Sınırsız Veri Planı
-  description: Roami'nin en iyi ön ödemeli seyahat eSIM'i ile Kanada'ya güvenle seyahat edin. Ülke genelinde sınırsız 5G
-    veri. Anında aktivasyon. Toronto, Vancouver ve daha fazlasını kapsar.
-  keywords: Kanada eSIM, Kanada eSIM satın al, en iyi Kanada eSIM, Kanada seyahat eSIM, Rogers Kanada, Bell Kanada, Telus
-    Kanada, Toronto eSIM, Vancouver eSIM, Montreal eSIM, Kanada ön ödemeli eSIM, 5G Kanada eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Kanada eSIM planlarını karşılaştırın: Rogers ağı, Toronto ve Vancouver''de hızlı 5G. Anında QR aktivasyonu. 3,99$''dan başlayan fiyatlar.'
+  keywords: Kanada eSIM, Kanada eSIM planları, en iyi Kanada eSIM, ucuz Kanada eSIM, Kanada eSIM çevrimiçi satın al, sınırsız veri Kanada eSIM, ön ödemeli Kanada eSIM, Kanada için en iyi eSIM, Kanada eSIM fiyatı, Kanada eSIM aktivasyonu, Kanada eSIM kapsama alanı, Toronto için en iyi eSIM, Toronto eSIM, Vancouver eSIM
+  low_price: 3.99
+  high_price: 59.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -338,6 +336,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🗺️
+    html: 'Toronto ve Vancouver''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -386,7 +386,7 @@ faq_section:
     - q: |
         Çok fazla harcamadan Kanada için eSIM alabilir miyim?
       a: |
-        Kesinlikle. Roami'nin Kanada eSIM planları 1,99$ kadar düşük fiyatlarla başlar. 5GB/15 günlük seçenek (9,99$) gezginler arasında en popüler olanıdır —haritalar, WhatsApp, Instagram ve e-postayı rahatça karşılar. Yoğun veri kullanıcısıysanız, 10GB (14,99$) veya sınırsız (59,99$) planlar size gönül rahatlığı verir. Havaalanı SIM tezgahını atlamak size %30-50 ve kuyruk bekleme zahmetinden tasarruf ettirir. Ayarlamanız mı gerekiyor? Roami uygulamasından dilediğiniz zaman ek paket satın alabilirsiniz.
+        Kesinlikle. Roami'nin Kanada eSIM planları 1,99$ kadar düşük fiyatlarla başlar. 11.99$ (7 Gün, 5GB) seçeneği gezginler arasında en popüler olanıdır — haritalar, WhatsApp, Instagram ve e-posta için rahatça yeterlidir. Yoğun veri kullanıcıları için 59.99$ (30 Gün, 30GB) planı daha rahat bir seçenektir. Havaalanı SIM tezgahını atlamak size %30-50 ve kuyruk bekleme zahmetinden tasarruf ettirir. Ayarlamanız mı gerekiyor? Roami uygulamasından dilediğiniz zaman ek paket satın alabilirsiniz.
     - q: |
         Kanada eSIM'im seyahat sırasında çalışmayı durdurursa ne olur?
       a: |
@@ -407,56 +407,68 @@ faq_section:
         Kanada'da sadece birkaç günlüğüne internet erişimine ihtiyacım var. Satın alabileceğim en düşük plan nedir?
       a: |
         En ucuz plan, hafif kullanımlı kısa bir hafta sonu gezisi için mükemmel olan 7 gün 1GB için 1,99$'dır. Daha fazlasına ihtiyacınız varsa, uygulamadan dilediğiniz zaman ek paket satın alabilirsiniz.
+    - q: |
+        Kanada eSIM fiyatı Rogers ön ödemeli SIM'e kıyasla nasıl?
+      a: |
+        Roami Kanada planları 3,99$'dan başlar ve çevrimiçi birkaç tıkla alınır. Rogers mağazasında sıra beklemek ve yerel ön ödemeli SIM'lerde sık görülen kayıt/aktivasyon ücreti gerekmez.
+    - q: |
+        Kanada eSIM hangi ağlarda çalışır, Rogers kapsaması yeterli mi?
+      a: |
+        Roami eSIM Rogers ve Bell ağlarına bağlanır; Toronto ve Vancouver gibi büyük şehirlerde 4G/5G sunar. Kırsal bölgelerde 4G kapsama güçlü kalır.
+    - q: |
+        Toronto'de Rogers şebekesinde eSIM hızı nasıl?
+      a: |
+        Toronto'de Roami eSIM Rogers 5G/4G ağını kullanır; şehir merkezinde tipik hız 50-200 Mbps. Harita, sosyal medya ve görüntülü arama için uygundur.
 related_products:
-  title: İlgili Kanada eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: Meksika eSIM
+    flag: img/flags/mx.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: ABD eSIM
+    flag: img/flags/us.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: 1,99$'dan başlayan fiyatlarla
-    is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1,99$'dan başlayan fiyatlarla
+  - name: BK eSIM
+    flag: img/flags/gb.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Almanya eSIM
     flag: img/flags/de.svg
-    price: 1,99$'dan başlayan fiyatlarla
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Fransa eSIM
+    flag: img/flags/fr.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Japonya eSIM
+    flag: img/flags/jp.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: İspanya eSIM
+    flag: img/flags/es.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Çin eSIM
+    flag: img/flags/cn.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Avustralya eSIM
     flag: img/flags/au.svg
-    price: 1,99$'dan başlayan fiyatlarla
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Türkiye eSIM
+    flag: img/flags/tr.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: İtalya eSIM
+    flag: img/flags/it.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Kanada eSIM ve Fiziksel SIM: Seyahat İçin Hangisi Daha İyi?'
@@ -500,8 +512,7 @@ market_analysis:
       Çoğu plan 30 günlük döngülerdir: örn. Chatr 35$/30 gün (1GB+5GB bonus), Lucky Mobile 30$/30 gün (1.5GB+5GB
       bonus). 7 günlük bir gezi plan değerinin %70'inden fazlasını israf eder.
     esim_title: Esnek Kısa Süreli Planlar
-    esim_desc: Lucky Mobile'ın 30 günlük 30$ planından (1.5GB+5GB bonus) farklı olarak, Roami 1,99$/GB'dan başlayan 7 günlük
-      planlar sunar, kısa geziler için %70'den fazla israfı önler.
+    esim_desc: Lucky Mobile'ın 30 günlük 30$ planından (1.5GB+5GB bonus) farklı olarak, Roami 3,99$'dan başlayan 7 günlük planlar sunar, kısa geziler için %70'den fazla israfı önler.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''

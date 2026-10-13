@@ -1,6 +1,6 @@
 ---
 title: 'Sierra Leone eSIM 2026: Kapsamlı Seyahat Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,18 +9,18 @@ country_meta:
   operators: Africell, Sierratel, Orange SL
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Freetown, Bo, Kenema, Makeni, Koidu
-  main_packages: '3/7/15/30 Gün, Sınırsız Veri'
+  main_packages: '7/30 Gün, 1GB–5GB Veri'
 modal:
   title: 'Hizmet Yükseltildi!'
   btn_text: 'Devam'
   text_default: 'eSIM hizmetimiz <strong>PhoneSIMGo</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
   text_android: 'eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
 seo:
-  title: 'Sierra Leone eSIM 2026: Africell ve Sierratel Kapsama Rehberi | En İyi Seyahat eSIM'
-  description: 'Freetown, Bo, Kenema''da hızlı 5G ile Sierra Leone eSIM planlarını karşılaştırın. Turistler ve seyahatçiler için Africell ve Sierratel ve Orange SL kapsama rehberi. $1.99''dan anında QR aktivasyonu.'
-  keywords: 'Sierra Leone eSIM, Sierra Leone eSIM satın al, en iyi Sierra Leone eSIM, Sierra Leone seyahat eSIM, Africell Sierra Leone, Sierratel Sierra Leone, Orange SL Sierra Leone, Freetown eSIM, Bo eSIM, Kenema eSIM, Sierra Leone ön ödemeli eSIM, 5G Sierra Leone eSIM'
-  low_price: 1.99
-  high_price: 39.9
+  title: 'Sierra Leone eSIM | Anında QR Aktivasyonu'
+  description: 'Sierra Leone için ön ödemeli seyahat eSIM''i: Freetown, Bo ve tüm ülkede 5G. Pasaport kaydı yok. 10,99$''dan başlar.'
+  keywords: 'Sierra Leone eSIM, Sierra Leone eSIM planları, en iyi Sierra Leone eSIM, ucuz Sierra Leone eSIM, Sierra Leone eSIM çevrimiçi satın al, Sierra Leone eSIM veri planları, ön ödemeli Sierra Leone eSIM, Sierra Leone için en iyi eSIM, Sierra Leone eSIM fiyatı, Sierra Leone eSIM aktivasyonu, Sierra Leone eSIM kapsama alanı, Freetown için en iyi eSIM, Freetown eSIM, Bo eSIM'
+  low_price: 10.99
+  high_price: 33.99
 order_summary:
   title: 'Seçilen Plan'
   label_data: 'Dahil Olan Veri'
@@ -147,6 +147,8 @@ reminders:
     html: 'QR kodu e-posta adresinize gönderilecektir.'
   - icon: 🔄
     html: 'Aynı anda birden fazla eSIM kurabilirsiniz.'
+  - icon: 📍
+    html: 'Freetown için eSIM''i varışta etkinleştirmenizi öneririz: geçerlilik ilk bağlantıda başlar.'
   compatibility_check:
     title: 'Hızlı Uyumluluk Kontrolü'
     desc: 'Telefonunuzun eSIM''i destekleyip desteklemediğinden emin değil misiniz? Hemen kendiniz kolayca kontrol edebilirsiniz:'
@@ -197,55 +199,67 @@ faq_section:
       a: 'Roami uygulamasından ek yükleme yapın. Yeni veri hemen etkinleşir —yeni QR koduna veya yeniden kuruluma gerek yok. Herhangi bir kesintiyi önlemek için yaklaşık %20 veriniz kaldığında ek yükleme yapmanızı öneririz.'
     - q: 'Sierra Leone''de tipik bir seyahatçi günde ne kadar veri kullanır?'
       a: 'Çoğu turist için ortalama günlük kullanım: haritalar ve mesajlaşma için 300-500MB, sosyal medyayı yoğun kullanıyorsanız 1GB''a kadar. Bir haftalık gezi için 5GB rahattır. İki hafta için 10GB tercih edin. Roami, veriniz azalırsa ek yükleme yapmayı kolaylaştırır.'
+    - q: |
+        Sierra Leone eSIM hangi ağlarda çalışır, Africell kapsaması yeterli mi?
+      a: |
+        Roami eSIM Africell ve Sierratel ağlarına bağlanır; Freetown ve Bo gibi büyük şehirlerde 4G/5G sunar. Kırsal bölgelerde 4G kapsama güçlü kalır.
+    - q: |
+        Freetown'de Africell şebekesinde eSIM hızı nasıl?
+      a: |
+        Freetown'de Roami eSIM Africell 5G/4G ağını kullanır; şehir merkezinde tipik hız 50-200 Mbps. Harita, sosyal medya ve görüntülü arama için uygundur.
+    - q: |
+        Sierra Leone eSIM'i kendi hattımla birlikte kullanabilir miyim, Africell hattım açık kalır mı?
+      a: |
+        Evet: veri eSIM üzerinden akar, kendi SIM'iniz arama ve SMS için açık kalır. Ayarlar'dan hangi hattın ses, SMS ve veri kullanacağını seçebilirsiniz.
 related_products:
-  title: 'İlgili eSIM Planları'
+  title: İlgili eSIM Planları
   items:
-  - name: 'Amerika Birleşik Devletleri eSIM'
-    flag: img/flags/us.svg
-    price: From $1.99
+  - name: Burkina Faso eSIM
+    flag: img/flags/bf.svg
+    price: $11.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Birleşik Krallık eSIM'
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Avrupa eSIM'
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Kamerun eSIM
+    flag: img/flags/cm.svg
+    price: $27.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: 'Kanada eSIM'
-    flag: img/flags/ca.svg
-    price: From $1.99
+  - name: Çad eSIM
+    flag: img/flags/td.svg
+    price: $23.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Türkiye eSIM'
-    flag: img/flags/tr.svg
-    price: From $1.99
+  - name: Kongo (Kinşasa) eSIM
+    flag: img/flags/cg.svg
+    price: $7.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Çin eSIM'
+  - name: Mısır eSIM
+    flag: img/flags/eg.svg
+    price: $2.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Esvatini eSIM
+    flag: img/flags/sz.svg
+    price: $19.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Gabon eSIM
+    flag: img/flags/ga.svg
+    price: $14.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Gana eSIM
+    flag: img/flags/gh.svg
+    price: $7.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Fildişi Sahili eSIM
+    flag: img/flags/ci.svg
+    price: $9.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kenya eSIM
+    flag: img/flags/ke.svg
+    price: $7.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Liberya eSIM
+    flag: img/flags/lr.svg
+    price: $27.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Çin eSIM
     flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Japonya eSIM'
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Hong Kong eSIM'
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Fransa eSIM'
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'İspanya eSIM'
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Almanya eSIM'
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Avustralya eSIM'
-    flag: img/flags/au.svg
-    price: From $1.99
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 ---

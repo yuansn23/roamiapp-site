@@ -1,6 +1,6 @@
 ---
 title: 'Hırvatistan eSIM 2026: Tam Seyahat Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     promosyon kodu:web20
 seo:
   title: Hırvatistan eSIM | Seyahatiniz için En İyi Seyahat eSIM'i
-  description: Hırvatistan için ön ödemeli bir seyahat eSIM'ine mi ihtiyacınız var? Roami sahil ve iç kesimlerde sınırsız 5G veri sunar. Anında aktivasyon. Dubrovnik, Split ve Zagreb'i kapsar.
-  keywords: Hırvatistan eSIM, Hırvatistan eSIM satın al, en iyi Hırvatistan eSIM, Hırvatistan seyahat eSIM, Hrvatski Telekom Hırvatistan, A1 Hrvatska Hırvatistan, Tele2 Hırvatistan, Zagreb eSIM, Split eSIM, Dubrovnik eSIM, Hırvatistan ön ödemeli eSIM, 5G Hırvatistan eSIM
+  description: 'Roami Hırvatistan eSIM: Zagreb, Split kapsama, Hrvatski Telekom ağında 5G. Anında kurulum, hotspot dahil. 1,99$''dan başlar.'
+  keywords: Hırvatistan eSIM, Hırvatistan eSIM planları, en iyi Hırvatistan eSIM, ucuz Hırvatistan eSIM, Hırvatistan eSIM çevrimiçi satın al, sınırsız veri Hırvatistan eSIM, ön ödemeli Hırvatistan eSIM, Hırvatistan için en iyi eSIM, Hırvatistan eSIM fiyatı, Hırvatistan eSIM aktivasyonu, Hırvatistan eSIM kapsama alanı, Zagreb için en iyi eSIM, Zagreb eSIM, Split eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 76.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -338,6 +338,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 📍
+    html: 'Zagreb için eSIM''i varışta etkinleştirmenizi öneririz: geçerlilik ilk bağlantıda başlar.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -379,7 +381,7 @@ faq_section:
     - q: |
         Hırvatistan eSIM sınırsız planı çok fazla veri kullanırsam yavaşlar mı?
       a: |
-        Adil kullanım politikası vardır: günde 30GB'dan sonra hızlar düşer. Düşük hızda mesajlaşmaya, navigasyona ve internette gezinmeye devam edebilirsiniz - sadece akıcı video olmaz. Gerçekçi olarak, çoğu gezgin 30GB'a yaklaşmaz. Endişeleniyorsanız, 10GB (14.99$) veya 20GB (24.99$) sabit plan belirsizliği tamamen ortadan kaldırır.
+        Adil kullanım politikası vardır: günde 30GB'dan sonra hızlar düşer. Düşük hızda mesajlaşmaya, navigasyona ve internette gezinmeye devam edebilirsiniz - sadece akıcı video olmaz. Gerçekçi olarak, çoğu gezgin 30GB'a yaklaşmaz. Endişeleniyorsanız, 10GB (11.99$) veya 20GB (24.99$) sabit plan belirsizliği tamamen ortadan kaldırır.
     - q: |
         Hırvatistan'da sadece birkaç günlüğüne internet erişimine ihtiyacım var. Satın alabileceğim minimum nedir?
       a: |
@@ -387,7 +389,7 @@ faq_section:
     - q: |
         Hırvatistan'a sadece 2-3 günlüğüne seyahat ediyorum. Hangi eSIM'i almalıyım?
       a: |
-        Kısa bir seyahat için 1GB/7 günlük plan (1.99$) haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB plan (4.99$) daha fazla alan sağlar. Her ikisi de anında etkinleşir ve gerektiğinde ek yükleme yapabilirsiniz.
+        Kısa bir seyahat için 1GB/7 günlük plan (2.99$) haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB plan (3.99$) daha fazla alan sağlar. Her ikisi de anında etkinleşir ve gerektiğinde ek yükleme yapabilirsiniz.
     - q: |
         Hırvatistan eSIM'im seyahat ortasında çalışmayı durdurursa ne olur?
       a: |
@@ -404,56 +406,68 @@ faq_section:
         Hırvatistan'da eSIM kullanmak için fiziksel SIM'imi çıkarmam gerekiyor mu?
       a: |
         Hiç de değil. Fiziksel SIM'iniz 1. yuvada kalır. eSIM 2. yuvada onunla birlikte çalışır. SMS ve aramalar için ana SIM'inizi, veri için eSIM'i kullanın. 2020'den sonraki telefonların %80'inden fazlası bu çift kurulumu destekler.
+    - q: |
+        Hırvatistan genelinde Hrvatski Telekom ve A1 Hrvatska kapsaması eSIM ile nasıl çalışır?
+      a: |
+        Roami eSIM Hrvatski Telekom ve A1 Hrvatska ağlarını kullanır; Zagreb, Split ve Dubrovnik'de 4G/5G mevcuttur. Şehir dışında bağlantı 4G hızında sabit kalır.
+    - q: |
+        Zagreb ve Split'de Hrvatski Telekom ağında eSIM hızı yeterli mi?
+      a: |
+        Evet; Zagreb ve Split merkezinde Roami eSIM Hrvatski Telekom 5G/4G ağında çalışır ve tipik olarak 50-200 Mbps sunar. Görüntülü görüşme ve navigasyon için idealdir.
+    - q: |
+        Hırvatistan eSIM ile fiziksel SIM'i aynı anda kullanabilir miyim, Hrvatski Telekom numaram çalışır mı?
+      a: |
+        Evet: veri eSIM'de, ses ve SMS kendi hattınızda kalır. Böylece Hrvatski Telekom numaranız önemli aramaları almaya devam eder.
 related_products:
-  title: İlgili Hırvatistan eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: 1.99$'dan itibaren
+  - name: Kıbrıs eSIM
+    flag: img/flags/cy.svg
+    price: $2.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: 1.99$'dan itibaren
+  - name: Çek Cumhuriyeti eSIM
+    flag: img/flags/cz.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: 1.99$'dan itibaren
-    is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: 1.99$'dan itibaren
+  - name: Danimarka eSIM
+    flag: img/flags/dk.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: 1.99$'dan itibaren
+  - name: Estonya eSIM
+    flag: img/flags/ee.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: 1.99$'dan itibaren
+  - name: Faroe Adaları eSIM
+    flag: img/flags/fo.svg
+    price: $5.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: 1.99$'dan itibaren
+  - name: Finlandiya eSIM
+    flag: img/flags/fi.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: Fransa eSIM
     flag: img/flags/fr.svg
-    price: 1.99$'dan itibaren
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: İspanya eSIM
-    flag: img/flags/es.svg
-    price: 1.99$'dan itibaren
-    is_highlight: false
+  - name: Gürcistan eSIM
+    flag: img/flags/ge.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: true
   - name: Almanya eSIM
     flag: img/flags/de.svg
-    price: 1.99$'dan itibaren
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: 1.99$'dan itibaren
+  - name: Cebelitarık eSIM
+    flag: img/flags/gi.svg
+    price: $5.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Yunanistan eSIM
+    flag: img/flags/gr.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Macaristan eSIM
+    flag: img/flags/hu.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Hırvatistan eSIM vs Yerel Ön Ödemeli SIM: Hangisi Daha Kullanışlı?'
@@ -489,7 +503,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Hrvatski Telekom 24s (€1.49), 7 günlük (€9.99), 30 günlük ve 90 günlük planlar sunar; A1 turist eSIM 3 gün (€5.90) veya 10 gün (€7.90) ile başlar; 10 günlük plan satın alan 5 günlük bir seyahat değerin %50'sini boşa harcar.
     esim_title: Esnek Günlük Planlar
-    esim_desc: Hrvatski Telekom'un 10 günlük (€10) veya A1'in 3 günlük (€5.90) sabit döngülerinden kaçının. Roami 1.99$/GB'den başlayan 7 günlük planlar sunar, kısa seyahatlerde %50'ye varan israf tasarrufu sağlar.
+    esim_desc: Hrvatski Telekom'un 10 günlük (€10) veya A1'in 3 günlük (€5.90) sabit döngülerinden kaçının. Roami 2.99$'dan başlayan 7 günlük planlar sunar, kısa seyahatlerde %50'ye varan israf tasarrufu sağlar.
   - icon: wifi
     title: Sıcak Nokta ve<br>Hız Politikaları
     prepaid_title: ''

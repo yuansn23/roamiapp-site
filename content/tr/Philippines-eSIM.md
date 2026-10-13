@@ -1,6 +1,6 @@
 ---
 title: 'Filipinler eSIM 2026: Kapsama ve Hız Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -16,11 +16,11 @@ modal:
   text_default: 'eSIM hizmetimiz <strong>PhoneSIMGo</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
   text_android: 'eSIM hizmetimiz <strong>PhoneSIM</strong> olarak yükseltildi.<br>Yeni müşteriler %20 indirimden yararlanır, promosyon kodu:web20'
 seo:
-  title: 'Filipinler eSIM | Seyahatçiler için Ön Ödemeli eSIM Satın Alın'
+  title: 'Filipinler eSIM Planları | Uygun Fiyatlı 5G'
   description: 'Roami''den Filipinler için en iyi ön ödemeli seyahat eSIM''ini alın. En iyi ağlarda sınırsız 5G veri. Manila, Cebu ve 7.000 adayı kapsar. Anında aktivasyon.'
-  keywords: 'Filipinler eSIM, Filipinler eSIM satın al, en iyi Filipinler eSIM, Filipinler seyahat eSIM, Globe Filipinler, Smart Filipinler, DITO Filipinler, Manila eSIM, Cebu eSIM, Davao eSIM, Filipinler ön ödemeli eSIM, 5G Filipinler eSIM'
-  low_price: 1.99
-  high_price: 39.9
+  keywords: 'Filipinler eSIM, Filipinler eSIM planları, en iyi Filipinler eSIM, ucuz Filipinler eSIM, Filipinler eSIM çevrimiçi satın al, sınırsız veri Filipinler eSIM, ön ödemeli Filipinler eSIM, Filipinler için en iyi eSIM, Filipinler eSIM fiyatı, Filipinler eSIM aktivasyonu, Filipinler eSIM kapsama alanı, Manila için en iyi eSIM, Manila eSIM, Cebu eSIM'
+  low_price: 2.99
+  high_price: 70.99
 order_summary:
   title: 'Seçilen Plan'
   label_data: 'Dahil Olan Veri'
@@ -328,6 +328,8 @@ reminders:
     html: 'QR kodu e-posta adresinize gönderilecektir.'
   - icon: 🔄
     html: 'Aynı anda birden fazla eSIM kurabilirsiniz.'
+  - icon: 📍
+    html: 'Manila için eSIM''i varışta etkinleştirmenizi öneririz: geçerlilik ilk bağlantıda başlar.'
   compatibility_check:
     title: 'Hızlı Uyumluluk Kontrolü'
     desc: 'Telefonunuzun eSIM''i destekleyip desteklemediğinden emin değil misiniz? Hemen kendiniz kolayca kontrol edebilirsiniz:'
@@ -371,63 +373,75 @@ faq_section:
     - q: 'Filipinler''de eSIM kullanmak için fiziksel SIM''imi çıkarmam gerekir mi?'
       a: 'Hiç değil. Fiziksel SIM''iniz yuva 1''de kalır. eSIM, yuva 2''de onunla birlikte çalışır. SMS ve aramalar için kendi SIM''inizi, veri için eSIM''i kullanın. 2020''den itibaren telefonların %80''inden fazlası bu çift kurulumu destekler.'
     - q: 'Filipinler''e giden seyahatçiler için en popüler eSIM seçeneği hangisidir?'
-      a: 'Filipinler''e giden çoğu seyahatçi 5GB/15 gün planını ($9.99) seçer. Günlük navigasyon, sosyal medya ve mesajlaşma için yeterlidir. Daha uzun konaklamalar veya daha yoğun kullanım için 10GB ($14.99) veya sınırsız ($59.99) planlar harika seçeneklerdir. Tüm planlar dakikalar içinde etkinleşir ve 7/24 destek içerir.'
+      a: 'Filipinler''e giden çoğu seyahatçi 5GB/15 gün planını ($8.99) seçer. Günlük navigasyon, sosyal medya ve mesajlaşma için yeterlidir. Daha uzun konaklamalar veya daha yoğun kullanım için 10GB ($7.99) veya sınırsız ($70.99) planlar harika seçeneklerdir. Tüm planlar dakikalar içinde etkinleşir ve 7/24 destek içerir.'
     - q: 'WhatsApp ve FaceTime Filipinler''de eSIM ile çalışır mı?'
       a: 'Evet —tüm veri tabanlı uygulamalar eSIM üzerinden mükemmel çalışır. WhatsApp aramaları ses için dakikada yaklaşık 1MB ve video için dakikada 5-8MB kullanır. FaceTime, Zoom, Google Haritalar, Instagram —her şey kısıtlama olmaksızın eSIM veri bağlantısı üzerinden çalışır. Globe''un ağı görüntülü aramaları sorunsuz şekilde yönetir. 5GB plan yaklaşık 500 saat WhatsApp sesli arama veya 10 saat FaceTime görüntülü görüşme sağlar.'
     - q: 'Filipinler''e sadece 2-3 günlüğüne seyahat ediyorum. Hangi eSIM''i almalıyım?'
-      a: 'Kısa bir gezi için 1GB/7 gün planı ($1.99) haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB plan ($4.99) daha fazla alan sağlar. Her ikisi de anında etkinleşir ve ihtiyacınız olursa ek yükleme yapabilirsiniz.'
+      a: 'Kısa bir gezi için 1GB/7 gün planı ($3.99) haritalar ve mesajlaşma için yeterlidir. Sosyal medya kullanmayı ve fotoğraf paylaşmayı planlıyorsanız, 3GB plan ($4.99) daha fazla alan sağlar. Her ikisi de anında etkinleşir ve ihtiyacınız olursa ek yükleme yapabilirsiniz.'
     - q: 'Filipinler eSIM''imi havaalanında kurabilir miyim, yoksa evden ayrılmadan önce mi yapmalıyım?'
       a: 'Ayrılmadan önce yapın —kurulum için internet bağlantısı gerekir ve yaklaşık 2 dakika sürer. eSIM QR kodu satın alımdan sonra 5 dakika içinde e-posta ile gelir. Filipinler havaalanında Veri Dolaşımını etkinleştirin ve 60 saniyeden kısa sürede çevrimiçi olursunuz.'
+    - q: |
+        Filipinler eSIM hangi ağlarda çalışır, Globe kapsaması yeterli mi?
+      a: |
+        Roami eSIM Globe ve Smart ağlarına bağlanır; Manila ve Cebu gibi büyük şehirlerde 4G/5G sunar. Kırsal bölgelerde 4G kapsama güçlü kalır.
+    - q: |
+        Manila'de Globe şebekesinde eSIM hızı nasıl?
+      a: |
+        Manila'de Roami eSIM Globe 5G/4G ağını kullanır; şehir merkezinde tipik hız 50-200 Mbps. Harita, sosyal medya ve görüntülü arama için uygundur.
+    - q: |
+        Filipinler eSIM'i kendi hattımla birlikte kullanabilir miyim, Globe hattım açık kalır mı?
+      a: |
+        Evet: veri eSIM üzerinden akar, kendi SIM'iniz arama ve SMS için açık kalır. Ayarlar'dan hangi hattın ses, SMS ve veri kullanacağını seçebilirsiniz.
 related_products:
-  title: 'İlgili Filipinler eSIM Planları'
+  title: İlgili eSIM Planları
   items:
-  - name: 'Amerika Birleşik Devletleri eSIM'
-    flag: img/flags/us.svg
-    price: From $1.99
+  - name: Tayvan eSIM
+    flag: img/flags/tw.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Birleşik Krallık eSIM'
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Avrupa eSIM'
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: Tacikistan eSIM
+    flag: img/flags/tj.svg
+    price: $4.99'dan başlayan fiyatlarla
     is_highlight: true
-  - name: 'Kanada eSIM'
-    flag: img/flags/ca.svg
-    price: From $1.99
+  - name: Tayland eSIM
+    flag: img/flags/th.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Türkiye eSIM'
-    flag: img/flags/tr.svg
-    price: From $1.99
+  - name: Özbekistan eSIM
+    flag: img/flags/uz.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Çin eSIM'
+  - name: Vietnam eSIM
+    flag: img/flags/vn.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Afganistan eSIM
+    flag: img/flags/af.svg
+    price: $11.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Bangladeş eSIM
+    flag: img/flags/bd.svg
+    price: $5.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Brunei eSIM
+    flag: img/flags/bn.svg
+    price: $9.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Kamboçya eSIM
+    flag: img/flags/kh.svg
+    price: $3.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Çin eSIM
     flag: img/flags/cn.svg
-    price: From $1.99
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Japonya eSIM'
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Hong Kong eSIM'
+  - name: Hong Kong eSIM
     flag: img/flags/hk.svg
-    price: From $1.99
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: 'Fransa eSIM'
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'İspanya eSIM'
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Almanya eSIM'
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 'Avustralya eSIM'
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: Hindistan eSIM
+    flag: img/flags/in.svg
+    price: $3.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Filipinler eSIM vs Ön Ödemeli SIM Kart: Geçiş Yapmaya Değer mi?'
@@ -463,7 +477,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 'Smart ve Globe''un yüksek değerli planları (ör. 24GB ile All Data 299, 48GB ile All Data 499) 30 günlük döngülere kilitlenmiştir; havaalanı turist SIM''leri 30 gün için —.050''den başlar, bu da 5-7 günlük bir gezimin plan ömrünün en az %70''ini israf ettiği anlamına gelir.'
     esim_title: 'Esnek Kısa Vadeli Planlar'
-    esim_desc: '7 günlük bir gezi için %70 israf ettiren Smart''ın 30 günlük kilitlenmesinin (—99/24GB) aksine, Roami $1.99/GB''den başlayan 7 günlük planlar sunar, sizi zorunlu 30 günlük döngülerden kurtarır.'
+    esim_desc: '7 günlük bir gezi için %70 israf ettiren Smart''ın 30 günlük kilitlenmesinin (—99/24GB) aksine, Roami $3.99''dan başlayan 7 günlük planlar sunar, sizi zorunlu 30 günlük döngülerden kurtarır.'
   - icon: wifi
     title: 'Sıcak Nokta ve<br>Hız Politikaları'
     prepaid_title: ''
@@ -504,5 +518,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: '30 Günlük Batık Maliyet Tuzaklarından Kurtulun'
-      desc: 'Smart''ın All Data 299 (—99/24GB) ve Globe''un GoSURF299 (—99/2GB) planları 30 günlük döngülere kilitlenmiştir. 7 günlük bir turist planın %70''inden fazlasını israf eder. Roami $1.99/GB''den başlayan 7 günlük planlar sunar.'
+      desc: 'Smart''ın All Data 299 (—99/24GB) ve Globe''un GoSURF299 (—99/2GB) planları 30 günlük döngülere kilitlenmiştir. 7 günlük bir turist planın %70''inden fazlasını israf eder. Roami $3.99''dan başlayan 7 günlük planlar sunar.'
 ---

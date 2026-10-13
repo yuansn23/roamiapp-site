@@ -1,6 +1,6 @@
 ---
 title: 'Malta eSIM 2026: Seyahat ve Ağ Rehberi | Roami'
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,10 +21,9 @@ seo:
   title: Malta eSIM | En İyi Seyahat Veri Planı
   description: Roami ile Malta’da en iyi ön ödemeli seyahat eSIM’ini keşfedin. Her üç adada da sınırsız 5G veri. Valletta,
     Gozo ve Comino’yu kapsar. Anında etkinleştirme.
-  keywords: Malta eSIM, Malta eSIM satın al, en iyi Malta eSIM, Malta seyahat eSIM, GO Malta, Melita Malta, Epic Malta,
-    Valletta eSIM, Sliema eSIM, St. Julian's eSIM, Malta ön ödemeli eSIM, 5G Malta eSIM
+  keywords: Malta eSIM, Malta eSIM planları, en iyi Malta eSIM, ucuz Malta eSIM, Malta eSIM çevrimiçi satın al, sınırsız veri Malta eSIM, ön ödemeli Malta eSIM, Malta için en iyi eSIM, Malta eSIM fiyatı, Malta eSIM aktivasyonu, Malta eSIM kapsama alanı, Valletta için en iyi eSIM, Valletta eSIM, Sliema eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Seçilen Plan
   label_data: Dahil Olan Veri
@@ -345,6 +344,8 @@ reminders:
     html: QR kodu e-posta adresinize gönderilecektir.
   - icon: 🔄
     html: Aynı anda birden fazla eSIM kurabilirsiniz.
+  - icon: 🗺️
+    html: 'Valletta ve Sliema''de 5G merkez bölgeleri kapsar: yola çıkmadan çevrimdışı haritaları indirin.'
   compatibility_check:
     title: Hızlı Uyumluluk Kontrolü
     desc: 'Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Şimdi kendiniz kolayca kontrol edebilirsiniz:'
@@ -394,11 +395,11 @@ faq_section:
     - q: |
         Malta eSIM sınırsız planı çok fazla veri kullanırsam yavaşlar mı?
       a: |
-        Adil kullanım politikası vardır: günde 30GB’dan sonra hızlar düşer. Düşük hızda mesajlaşmaya, navigasyona ve gezinmeye devam edebilirsiniz —ancak akıcı video yok. Gerçekçi olarak, çoğu gezgin 30GB’a yaklaşmaz. Endişeleniyorsanız, 10GB ($14.99) veya 20GB ($24.99) sabit plan belirsizliği tamamen ortadan kaldırır.
+        Adil kullanım politikası vardır: günde 30GB’dan sonra hızlar düşer. Düşük hızda mesajlaşmaya, navigasyona ve gezinmeye devam edebilirsiniz —ancak akıcı video yok. Gerçekçi olarak, çoğu gezgin 30GB’a yaklaşmaz. Endişeleniyorsanız, 10GB ($11.99) veya 20GB ($21.99) sabit plan belirsizliği tamamen ortadan kaldırır.
     - q: |
         eSIM, Malta için uluslararası dolaşımdan daha mı ucuz?
       a: |
-        Evet —Roami eSIM, çoğu ev operatörünün dolaşım planlarına göre tipik olarak %80-90 daha ucuzdur. Malta için 5GB plan $9.99 iken, aynı veri için dolaşım kolayca $50+ olabilir. Ayrıca kısıtlanmış dolaşım yerine yerel ağ hızları elde edersiniz.
+        Evet —Roami eSIM, çoğu ev operatörünün dolaşım planlarına göre tipik olarak %80-90 daha ucuzdur. Malta için 5GB plan $6.99 iken, aynı veri için dolaşım kolayca $50+ olabilir. Ayrıca kısıtlanmış dolaşım yerine yerel ağ hızları elde edersiniz.
     - q: |
         Malta için 5GB plan ile sınırsız plan arasındaki fark nedir?
       a: |
@@ -415,56 +416,68 @@ faq_section:
         Roami’den Malta eSIM satın aldığımda neler dahildir?
       a: |
         5 dakika içinde QR kodu teslimi, GO ağına erişim, 7/24 müşteri desteği ve 5 cihaza kadar ücretsiz paylaşım. Planlar $1.99’dan başlar. Sözleşme yok, gizli ücret yok, otomatik yenileme yok.
+    - q: |
+        Malta eSIM ile GO turist SIM'i arasındaki fark ne?
+      a: |
+        Roami Malta eSIM 1,99$'dan başlar ve online alınır; GO turist SIM'i genellikle mağaza ziyareti ve kayıt gerektirir. eSIM'de kuyruk ve aktivasyon beklemesi yoktur.
+    - q: |
+        Malta genelinde GO ve Melita kapsaması eSIM ile nasıl çalışır?
+      a: |
+        Roami eSIM GO ve Melita ağlarını kullanır; Valletta, Sliema ve St. Julian's'de 4G/5G mevcuttur. Şehir dışında bağlantı 4G hızında sabit kalır.
+    - q: |
+        Valletta ve Sliema'de GO ağında eSIM hızı yeterli mi?
+      a: |
+        Evet; Valletta ve Sliema merkezinde Roami eSIM GO 5G/4G ağında çalışır ve tipik olarak 50-200 Mbps sunar. Görüntülü görüşme ve navigasyon için idealdir.
 related_products:
-  title: İlgili Malta eSIM Planları
+  title: İlgili eSIM Planları
   items:
-  - name: Amerika Birleşik Devletleri eSIM
-    flag: img/flags/us.svg
-    price: $1.99’dan başlayan
+  - name: Norveç eSIM
+    flag: img/flags/no.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Birleşik Krallık
-    flag: img/flags/gb.svg
-    price: $1.99’dan başlayan
+  - name: Polonya eSIM
+    flag: img/flags/pl.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avrupa eSIM
-    flag: img/flags/eu.svg
-    price: $1.99’dan başlayan
-    is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: $1.99’dan başlayan
+  - name: Portekiz eSIM
+    flag: img/flags/pt.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Türkiye eSIM
-    flag: img/flags/tr.svg
-    price: $1.99’dan başlayan
+  - name: Romanya eSIM
+    flag: img/flags/ro.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Çin eSIM
-    flag: img/flags/cn.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Japonya eSIM
-    flag: img/flags/jp.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: $1.99’dan başlayan
-    is_highlight: false
-  - name: Fransa eSIM
-    flag: img/flags/fr.svg
-    price: $1.99’dan başlayan
+  - name: Rusya eSIM
+    flag: img/flags/ru.svg
+    price: $2.99'dan başlayan fiyatlarla
     is_highlight: false
   - name: İspanya eSIM
     flag: img/flags/es.svg
-    price: $1.99’dan başlayan
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Almanya eSIM
-    flag: img/flags/de.svg
-    price: $1.99’dan başlayan
+  - name: İsviçre eSIM
+    flag: img/flags/ch.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: true
+  - name: Türkiye eSIM
+    flag: img/flags/tr.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
-  - name: Avustralya eSIM
-    flag: img/flags/au.svg
-    price: $1.99’dan başlayan
+  - name: Ukrayna eSIM
+    flag: img/flags/ua.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: BK eSIM
+    flag: img/flags/gb.svg
+    price: $1.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Vatikan Şehri eSIM
+    flag: img/flags/va.svg
+    price: $10.99'dan başlayan fiyatlarla
+    is_highlight: false
+  - name: Arnavutluk eSIM
+    flag: img/flags/al.svg
+    price: $1.99'dan başlayan fiyatlarla
     is_highlight: false
 market_analysis:
   title: 'Malta eSIM mi SIM Kart mı: 2026’da En İyi Seçenek Hangisi?'
@@ -507,8 +520,7 @@ market_analysis:
     prepaid_desc: Epic ve GO Mobile 28 günlük döngüler kullanır (ör. Epic —.99/4GB); Melita 30 günlük döngüler kullanır
       (ör. —0/600MB). 5 günlük bir seyahat, planın değerinin %80’inden fazlasını boşa harcar.
     esim_title: Esnek Planlar, İsraf Yok
-    esim_desc: Epic’in 28 günlük döngüsünden (—.99/4GB) veya Melita’nın 30 günlük döngüsünden (—0/600MB) farklı olarak
-      Roami, $1.99/GB’dan başlayan 7 günlük planlar sunar ve kısa seyahatlerde %80’in üzerinde tasarruf sağlar.
+    esim_desc: Epic’in 28 günlük döngüsünden (—.99/4GB) veya Melita’nın 30 günlük döngüsünden (—0/600MB) farklı olarak Roami, $2.99'dan başlayan 7 günlük planlar sunar ve kısa seyahatlerde %80’in üzerinde tasarruf sağlar.
   - icon: wifi
     title: Paylaşım ve<br>Hız Politikaları
     prepaid_title: ''
@@ -540,9 +552,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: 28 Günlük Faturalama İsrafından Kaçının
-      desc: Epic’in —.99/4GB planı ve GO’nun —/250MB planı 28 günlük döngülerle çalışır. 5 günlük bir seyahat, plan
-        değerinin %80’inden fazlasını boşa harcar. Roami, tam konaklamanıza uygun $1.99/GB’dan başlayan 7 günlük planlar
-        sunar.
+      desc: Epic’in —.99/4GB planı ve GO’nun —/250MB planı 28 günlük döngülerle çalışır. 5 günlük bir seyahat, plan değerinin %80’inden fazlasını boşa harcar. Roami, tam konaklamanıza uygun $2.99'dan başlayan 7 günlük planlar sunar.
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600
