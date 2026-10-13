@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Perù 2026: 5G & Piani Dati | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,8 +21,9 @@ seo:
   title: Perù eSIM | Ricarica immediata senza contratto
   description: Roami è la eSIM più conveniente per Perù. Prezzo trasparente, nessuna sorpresa. Perfetta per viaggiare senza
     spendere troppo. Copre tutte le regioni.
-  keywords: eSIM Perù, piano eSIM Perù, migliore eSIM Perù, Perù dati, Movistar Perù, Claro Perù, Entel Perù, eSIM Lima, eSIM
-    Cusco, eSIM Arequipa, internet mobile Perù, 5G Perù
+  keywords: eSIM Perù, piani eSIM Perù, migliore eSIM Perù, eSIM Perù economica, comprare eSIM Perù online, eSIM Perù dati illimitati, eSIM Perù prepagata, migliore eSIM per Perù, prezzo eSIM Perù, attivazione eSIM Perù, copertura eSIM Perù, migliore eSIM per Lima, eSIM Lima, eSIM Cusco
+  low_price: '4.99'
+  high_price: '85.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -302,6 +303,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📱
+    html: 'Tieni la tua SIM fisica attiva per chiamate e SMS; usa la eSIM Perù solo per la navigazione dati.'
+  - icon: 🏙️
+    html: 'Copertura ottimale a Lima e Cusco: hotspot incluso per condividere i dati con chi viaggia con te.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -353,7 +358,7 @@ faq_section:
     title: Perù eSIM FAQ
     questions:
     - q: |
-        Quali sono i passaggi per attivare la eSIM e iniziare a usarla?
+        Qual è la procedura per attivare la eSIM e iniziare a navigare?
       a: |
         1) Acquista il piano sul sito Roami (30 sec). 2) Ricevi il QR code via email (fino a 5 min). 3) Su iPhone: Impostazioni > Cellulare > Aggiungi eSIM. Su Android: Impostazioni > Connessioni > Gestore SIM > eSIM. 4) Scannerizza il QR code. 5) Assegna la eSIM per i dati. 6) All'arrivo in Perù attiva il roaming dati. Fatto!
     - q: |
@@ -363,7 +368,7 @@ faq_section:
     - q: |
         Cosa scelgono di solito i turisti come piano eSIM per il Perù?
       a: |
-        Il piano più popolare è 5GB/15 giorni a $9.99 (scelto da oltre la metà dei turisti). Il secondo è 10GB/30 giorni a $14.99 — per chi usa internet attivamente. I piani illimitati sono scelti da circa il 15% dei viaggiatori, principalmente chi lavora da remoto o viaggia in famiglia.
+        Il piano più popolare è 5GB/15 giorni a $17.99 (scelto da oltre la metà dei turisti). Il secondo è 10GB/30 giorni a $27.99 — per chi usa internet attivamente. I piani illimitati sono scelti da circa il 15% dei viaggiatori, principalmente chi lavora da remoto o viaggia in famiglia.
     - q: |
         Come controllare il traffico residuo sulla eSIM in Perù?
       a: |
@@ -371,11 +376,11 @@ faq_section:
     - q: |
         Meglio 5GB o piano illimitato per un viaggio in Perù?
       a: |
-        5GB ($9.99) bastano per navigazione, social e messaggistica per una settimana. 10GB ($14.99) per uso più attivo con video. Il piano illimitato ($59.99) è ideale per streaming, videochiamate e hotspot. La maggior parte dei turisti sceglie 5GB. Puoi sempre aumentare il piano dall'app.
+        5GB ($13.99) bastano per navigazione, social e messaggistica per una settimana. 10GB ($20.99) per uso più attivo con video. Il piano illimitato ($30.99) è ideale per streaming, videochiamate e hotspot. La maggior parte dei turisti sceglie 5GB. Puoi sempre aumentare il piano dall'app.
     - q: |
         Qual è la migliore eSIM da acquistare per un viaggio in Perù?
       a: |
-        La scelta migliore per la maggior parte è 5GB/15 giorni a $9.99. Abbastanza per navigazione, social e messaggistica con circa 300-500MB al giorno. Se guardi video o lavori da remoto, scegli 10GB ($14.99) o illimitato ($59.99). Tutti i piani sono prepagati, senza costi nascosti. Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
+        La scelta migliore per la maggior parte è 5GB/15 giorni a $17.99. Abbastanza per navigazione, social e messaggistica con circa 300-500MB al giorno. Se guardi video o lavori da remoto, scegli 10GB ($20.99) o illimitato ($30.99). Tutti i piani sono prepagati, senza costi nascosti. Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
     - q: |
         eSIM non funziona in Perù: come risolvere rapidamente?
       a: |
@@ -383,7 +388,82 @@ faq_section:
     - q: |
         Quanto pago realmente per la eSIM per il Perù — ci sono extra?
       a: |
-        No, il prezzo è finale. I piani partono da $1.99 (7 giorni, 1GB). Senza tasse, senza canone mensile, senza rinnovo automatico. Il piano scade automaticamente alla data di fine — nessuna sorpresa. Il prezzo sul sito Roami è quello che paghi.
+        No, il prezzo è finale. I piani partono da $4.99 (3 giorni, 1GB). Senza tasse, senza canone mensile, senza rinnovo automatico. Il piano scade automaticamente alla data di fine — nessuna sorpresa. Il prezzo sul sito Roami è quello che paghi.
+    - q: |
+        Quanti GB servono per un viaggio in Perù?
+      a: |
+        Per un uso leggero (mappe, messaggi) bastano 3-5GB; per social e video 10GB sono l'ideale. I piani Roami per Perù partono da $4.99 e puoi ricaricare dall'app in tempo reale.
+    - q: |
+        Quanto costa una eSIM per Perù e conviene rispetto alla SIM locale?
+      a: |
+        I piani Roami per Perù partono da $4.99 e si acquistano online in pochi clic, senza file in negozio né costi di attivazione. Rispetto a una SIM prepagata locale eviti la registrazione con passaporto e l'attesa allo sportello.
+    - q: |
+        La eSIM ha copertura 5G in tutte le città di Perù?
+      a: |
+        Sì, la eSIM Roami si aggancia alle reti Movistar e Claro e offre 4G/5G nelle principali città come Lima e Cusco. Nelle zone rurali la copertura resta solida in 4G.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Uruguay eSIM
+    flag: img/flags/uy.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: uruguay
+  - name: Argentina eSIM
+    flag: img/flags/ar.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: argentina
+  - name: Bolivia eSIM
+    flag: img/flags/bo.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: bolivia
+  - name: Brasile eSIM
+    flag: img/flags/br.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: brazil
+  - name: Cile eSIM
+    flag: img/flags/cl.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: chile
+  - name: Colombia eSIM
+    flag: img/flags/co.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: colombia
+  - name: Ecuador eSIM
+    flag: img/flags/ec.svg
+    price: A partire da $6,99
+    is_highlight: true
+    slug: ecuador
+  - name: Guyana francese eSIM
+    flag: img/flags/gf.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: french-guiana
+  - name: Guyana eSIM
+    flag: img/flags/gy.svg
+    price: A partire da $9,99
+    is_highlight: false
+    slug: guyana
+  - name: Paraguay eSIM
+    flag: img/flags/py.svg
+    price: A partire da $22,99
+    is_highlight: false
+    slug: paraguay
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: hong-kong
+  - name: Turchia eSIM
+    flag: img/flags/tr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: turkey
 market_analysis:
   title: "Qual è la vera differenza tra eSIM e SIM fisica in Perù?"
   subtitle: "Confronto tra SIM prepagate locali peruviane e soluzioni eSIM (riferimento 2024/2025)"

@@ -1,6 +1,6 @@
 ---
 title: 'eSIM India 2026: Operatori & Copertura | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     di sconto con codice: web20'
 seo:
   title: India eSIM | Offerte eSIM per viaggiatori
-  description: Roami è la eSIM più conveniente per India. Prezzo trasparente, nessuna sorpresa. Perfetta per viaggiare senza
-    spendere troppo. Copre Delhi, Mumbai & tutta l'India.
-  keywords: eSIM India, piano eSIM India, migliore eSIM India, India dati, Airtel India, Jio India, Vi (Vodafone Idea) India,
-    eSIM Nuova Delhi, eSIM Mumbai, eSIM Bangalore, internet mobile India, 5G India
+  description: 'eSIM prepagata India con copertura Airtel e Jio: installazione immediata, hotspot consentito, da $3.99. Ideale a Nuova Delhi.'
+  keywords: eSIM India, piani eSIM India, migliore eSIM India, eSIM India economica, comprare eSIM India online, eSIM India dati illimitati, eSIM India prepagata, migliore eSIM per India, prezzo eSIM India, attivazione eSIM India, copertura eSIM India, migliore eSIM per Nuova Delhi, eSIM Nuova Delhi, eSIM Mumbai
+  low_price: '3.99'
+  high_price: '94.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -318,6 +318,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📱
+    html: 'Tieni la tua SIM fisica attiva per chiamate e SMS; usa la eSIM India solo per la navigazione dati.'
+  - icon: 📍
+    html: 'Per Nuova Delhi consigliamo di attivare la eSIM all''arrivo: la validità parte al primo collegamento.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -369,15 +373,15 @@ faq_section:
     title: India eSIM FAQ
     questions:
     - q: |
-        La eSIM supporta la modalità hotspot per altri dispositivi?
+        La eSIM consente il tethering per altri dispositivi?
       a: |
-        Sì, tutti i piani Roami supportano la modalità hotspot. Attiva la condivisione nelle impostazioni del telefono. Per lavorare con il computer (videoconferenze, file) consigliamo il piano 10GB ($14.99) o illimitato ($59.99). La condivisione funziona senza costi aggiuntivi.
+        Sì, tutti i piani Roami supportano la modalità hotspot. Attiva la condivisione nelle impostazioni del telefono. Per lavorare con il computer (videoconferenze, file) consigliamo il piano 10GB ($18.99) o illimitato ($17.99). La condivisione funziona senza costi aggiuntivi.
     - q: |
-        Perché la eSIM non si connette alla rete e come risolvere?
+        Per quale motivo la eSIM non si connette e come sistemarlo?
       a: |
         Tre passaggi da 30 secondi ciascuno: 1) Il roaming dati è attivo nelle impostazioni? 2) Prova la selezione manuale dell'operatore: scegli Airtel dalla lista. 3) Riavvia il telefono. Il 90% dei problemi si risolve con uno di questi passaggi. Se non funziona, il supporto Roami 24/7 risponde in 2 minuti.
     - q: |
-        Meglio installare la eSIM a casa o direttamente in aeroporto?
+        Installare la eSIM prima di partire o in aeroporto?
       a: |
         Acquistare in anticipo dà tre vantaggi: 1) Installazione con WiFi di casa — senza rischi di non avere connessione all'arrivo. 2) Il piano non si attiva fino all'atterraggio — la validità inizia al primo aggancio alla rete locale. 3) Niente code di 20-40 minuti in aeroporto. Comprato, installato in 2 minuti e dimenticato fino alla partenza.
     - q: |
@@ -387,7 +391,7 @@ faq_section:
     - q: |
         Che eSIM consigliate per un turista che va in India?
       a: |
-        La scelta migliore per la maggior parte è 5GB/15 giorni a $9.99. Abbastanza per navigazione, social e messaggistica con circa 300-500MB al giorno. Se guardi video o lavori da remoto, scegli 10GB ($14.99) o illimitato ($59.99). Tutti i piani sono prepagati, senza costi nascosti. Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
+        La scelta migliore per la maggior parte è 5GB/15 giorni a $11.99. Abbastanza per navigazione, social e messaggistica con circa 300-500MB al giorno. Se guardi video o lavori da remoto, scegli 10GB ($18.99) o illimitato ($17.99). Tutti i piani sono prepagati, senza costi nascosti. Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
     - q: |
         È sicuro usare la eSIM per pagamenti online in India?
       a: |
@@ -395,76 +399,86 @@ faq_section:
     - q: |
         Meglio eSIM o SIM fisica per un viaggio in India?
       a: |
-        La eSIM è meglio: costa il 30-50% in meno, non devi cambiare SIM, puoi installarla prima di partire. La SIM fisica richiede coda in aeroporto e passaporto — 15-30 minuti persi. Roami eSIM da $1.99, installazione in 2 minuti. Se hai iPhone XR o più recente, o un Android moderno, la eSIM è la scelta migliore. Il tuo numero italiano resta attivo per SMS e chiamate.
+        La eSIM è meglio: costa il 30-50% in meno, non devi cambiare SIM, puoi installarla prima di partire. La SIM fisica richiede coda in aeroporto e passaporto — 15-30 minuti persi. Roami eSIM da $3.99, installazione in 2 minuti. Se hai iPhone XR o più recente, o un Android moderno, la eSIM è la scelta migliore. Il tuo numero italiano resta attivo per SMS e chiamate.
     - q: |
         Quanto tempo prima devo comprare la eSIM per partire per l'India?
       a: |
         Sì, il QR code arriva via email entro 5 minuti dal pagamento. Puoi comprarlo in aeroporto e installarlo in aereo con il WiFi di bordo. All'arrivo in India attiva il roaming dati e sarai online in 1-2 minuti. Il processo totale richiede 2-3 minuti.
+    - q: |
+        La eSIM ha copertura 5G in tutte le città di India?
+      a: |
+        Sì, la eSIM Roami si aggancia alle reti Airtel e Jio e offre 4G/5G nelle principali città come Nuova Delhi e Mumbai. Nelle zone rurali la copertura resta solida in 4G.
+    - q: |
+        A Nuova Delhi la connessione è veloce con la eSIM?
+      a: |
+        A Nuova Delhi la eSIM Roami sfrutta la rete 5G/4G locale: velocità tipiche di 50-200 Mbps in centro. Ottima per mappe, social e videochiamate.
+    - q: |
+        Posso usare la eSIM India e la mia SIM italiana insieme?
+      a: |
+        Sì: la eSIM gestisce i dati mentre la tua SIM italiana resta attiva per chiamate e SMS. Puoi scegliere in Impostazioni quale linea usare per voce, SMS e dati.
 related_products:
   title: Piani eSIM simili
   items:
-  - name: Stati Uniti eSIM
-    flag: img/flags/us.svg
+  - name: Indonesia eSIM
+    flag: img/flags/id.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: united-states-esim
-  - name: Regno Unito eSIM
-    flag: img/flags/gb.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: united-kingdom-esim
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: A partire da $1,99
-    is_highlight: true
-    slug: europe-esim
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: canada-esim
-  - name: Turchia eSIM
-    flag: img/flags/tr.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: turkey-esim
-  - name: Cina eSIM
-    flag: img/flags/cn.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: china-esim
+    slug: indonesia
   - name: Giappone eSIM
     flag: img/flags/jp.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: japan-esim
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+    slug: japan
+  - name: Kazakistan eSIM
+    flag: img/flags/kz.svg
+    price: A partire da $3,99
+    is_highlight: true
+    slug: kazakhstan
+  - name: Kirghizistan eSIM
+    flag: img/flags/kg.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: kyrgyzstan
+  - name: Laos eSIM
+    flag: img/flags/la.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: laos
+  - name: Malaysia eSIM
+    flag: img/flags/my.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: Francia eSIM
-    flag: img/flags/fr.svg
+    slug: malaysia
+  - name: Maldive eSIM
+    flag: img/flags/mv.svg
+    price: A partire da $14,99
+    is_highlight: false
+    slug: maldives
+  - name: Nepal eSIM
+    flag: img/flags/np.svg
+    price: A partire da $10,99
+    is_highlight: false
+    slug: nepal
+  - name: Pakistan eSIM
+    flag: img/flags/pk.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: pakistan
+  - name: Filippine eSIM
+    flag: img/flags/ph.svg
+    price: A partire da $2,99
+    is_highlight: false
+    slug: philippines
+  - name: Singapore eSIM
+    flag: img/flags/sg.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: france-esim
-  - name: Spagna eSIM
-    flag: img/flags/es.svg
+    slug: singapore
+  - name: Corea del Sud eSIM
+    flag: img/flags/kr.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: spain-esim
-  - name: Germania eSIM
-    flag: img/flags/de.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: germany-esim
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: australia-esim
-
-# =============== Modulo di confronto basato su dati ===============
+    slug: south-korea
 market_analysis:
   title: "eSIM vs SIM prepagata in India: tutto ciò che devi considerare"
   subtitle: "Confronto tra SIM prepagate locali indiane e soluzioni eSIM (riferimento 2024/2025)"

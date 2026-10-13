@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Bulgaria 2026: Viaggio & Rete | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,8 +21,9 @@ seo:
   title: Bulgaria eSIM | Ricarica immediata senza contratto
   description: La eSIM Roami per Bulgaria offre una connessione 5G veloce e stabile. Perfetta per chi viaggia e vuole restare
     sempre online. Copre tutte le regioni.
-  keywords: eSIM Bulgaria, piano eSIM Bulgaria, migliore eSIM Bulgaria, Bulgaria dati, A1 Bulgaria, Telenor Bulgaria, Vivacom
-    Bulgaria, eSIM Sofia, eSIM Plovdiv, eSIM Varna, internet mobile Bulgaria, 5G Bulgaria
+  keywords: eSIM Bulgaria, piani eSIM Bulgaria, migliore eSIM Bulgaria, eSIM Bulgaria economica, comprare eSIM Bulgaria online, eSIM Bulgaria dati illimitati, eSIM Bulgaria prepagata, migliore eSIM per Bulgaria, prezzo eSIM Bulgaria, attivazione eSIM Bulgaria, copertura eSIM Bulgaria, migliore eSIM per Sofia, eSIM Sofia, eSIM Plovdiv
+  low_price: '1.99'
+  high_price: '77.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -342,6 +343,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 🏙️
+    html: 'Copertura ottimale a Sofia e Plovdiv: hotspot incluso per condividere i dati con chi viaggia con te.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -394,7 +399,7 @@ faq_section:
     - q: |
         Quanti GB servono al giorno in Bulgaria?
       a: |
-        Un turista medio consuma 300-500MB al giorno tra mappe, social e messaggistica. Con video si arriva a 1-2GB/giorno. Per una settimana bastano 5GB ($9.99), per due settimane 10GB ($14.99). Puoi sempre ricaricare dall'app se il traffico finisce prima.
+        Un turista medio consuma 300-500MB al giorno tra mappe, social e messaggistica. Con video si arriva a 1-2GB/giorno. Per una settimana bastano 5GB ($6.99), per due settimane 10GB ($11.99). Puoi sempre ricaricare dall'app se il traffico finisce prima.
     - q: |
         Come sapere quanti GB sono rimasti sulla mia eSIM per la Bulgaria?
       a: |
@@ -406,23 +411,98 @@ faq_section:
     - q: |
         Cosa scelgono di solito i turisti come piano eSIM per la Bulgaria?
       a: |
-        Il piano più popolare è 5GB/15 giorni a $9.99 (scelto da oltre la metà dei turisti). Il secondo è 10GB/30 giorni a $14.99 — per chi usa internet attivamente. I piani illimitati sono scelti da circa il 15% dei viaggiatori, principalmente chi lavora da remoto o viaggia in famiglia.
+        Il piano più popolare è 5GB/15 giorni a $8.99 (scelto da oltre la metà dei turisti). Il secondo è 10GB/30 giorni a $14.99 — per chi usa internet attivamente. I piani illimitati sono scelti da circa il 15% dei viaggiatori, principalmente chi lavora da remoto o viaggia in famiglia.
     - q: |
         Basta il piano minimo eSIM per usare Google Maps in Bulgaria?
       a: |
         Per la navigazione non serve tanta velocità: le mappe si caricano già a 1-2 Mbps. La cosa più importante è scaricare le mappe offline in hotel, risparmiando fino all'80% del traffico. Google Maps consuma 3-8MB/h, 2GIS 2-5MB/h. Anche il piano da 1GB a $1.99 basta se usi solo il navigatore.
     - q: |
-        Perché la eSIM non si connette alla rete e come risolvere?
+        La eSIM non si connette: quali sono le cause e le soluzioni?
       a: |
         Il problema più comune è il roaming dati disattivato — controlla in Impostazioni > Cellulare > Opzioni dati. Se il roaming è attivo, prova la selezione manuale della rete. Il riavvio del telefono risolve i casi restanti. Il supporto Roami è disponibile 24/7 via chat con risposta in circa 2 minuti.
     - q: |
-        Perché acquistare la eSIM prima di partire se posso comprarla all'arrivo?
+        Che vantaggi ha comprare la eSIM online prima di partire?
       a: |
         Acquistare in anticipo dà tre vantaggi: 1) Installazione con WiFi di casa — senza rischi di non avere connessione all'arrivo. 2) Il piano non si attiva fino all'atterraggio — la validità inizia al primo aggancio alla rete locale. 3) Niente code di 20-40 minuti in aeroporto. Comprato, installato in 2 minuti e dimenticato fino alla partenza.
     - q: |
         La eSIM è più conveniente del roaming internazionale per la Bulgaria?
       a: |
-        Il risparmio è notevole: 1GB in roaming costa €10-20 dagli operatori italiani, mentre Roami offre 5GB a $9.99. Differenza di 10-20 volte. Inoltre con la eSIM non hai limiti di velocità dopo il consumo del pacchetto — puoi ricaricare istantaneamente dall'app. Nessuna sorpresa in bolletta.
+        Il risparmio è notevole: 1GB in roaming costa €10-20 dagli operatori italiani, mentre Roami offre 5GB a $6.99. Differenza di 10-20 volte. Inoltre con la eSIM non hai limiti di velocità dopo il consumo del pacchetto — puoi ricaricare istantaneamente dall'app. Nessuna sorpresa in bolletta.
+    - q: |
+        A Sofia la connessione è veloce con la eSIM?
+      a: |
+        A Sofia la eSIM Roami sfrutta la rete 5G/4G locale: velocità tipiche di 50-200 Mbps in centro. Ottima per mappe, social e videochiamate.
+    - q: |
+        Posso usare la eSIM Bulgaria e la mia SIM italiana insieme?
+      a: |
+        Sì: la eSIM gestisce i dati mentre la tua SIM italiana resta attiva per chiamate e SMS. Puoi scegliere in Impostazioni quale linea usare per voce, SMS e dati.
+    - q: |
+        Come attivo la eSIM per Bulgaria prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in Bulgaria.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Croazia eSIM
+    flag: img/flags/hr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: croatia
+  - name: Cipro eSIM
+    flag: img/flags/cy.svg
+    price: A partire da $2,99
+    is_highlight: false
+    slug: cyprus
+  - name: Repubblica Ceca eSIM
+    flag: img/flags/cz.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: czech-republic
+  - name: Danimarca eSIM
+    flag: img/flags/dk.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: denmark
+  - name: Estonia eSIM
+    flag: img/flags/ee.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: estonia
+  - name: Isole Fær Øer eSIM
+    flag: img/flags/fo.svg
+    price: A partire da $5,99
+    is_highlight: false
+    slug: faroe-islands
+  - name: Finlandia eSIM
+    flag: img/flags/fi.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: finland
+  - name: Francia eSIM
+    flag: img/flags/fr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: france
+  - name: Georgia eSIM
+    flag: img/flags/ge.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: georgia
+  - name: Germania eSIM
+    flag: img/flags/de.svg
+    price: A partire da $1,99
+    is_highlight: true
+    slug: germany
+  - name: Grecia eSIM
+    flag: img/flags/gr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: greece
+  - name: Ungheria eSIM
+    flag: img/flags/hu.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: hungary
 market_analysis:
   title: "Attivazione e configurazione: eSIM vs SIM fisica in Bulgaria"
   subtitle: "Confronto tra SIM prepagate locali bulgare e soluzioni eSIM (riferimento 2024/2025)"

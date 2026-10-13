@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Qatar 2026: Operatori Locali | Roami'
-date: '2026-06-15T08:51:27+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     di sconto con codice: web20'
 seo:
   title: 'eSIM Qatar da 1,99€: 5G senza roaming'
-  description: Confronta i piani eSIM Qatar con 5G a Doha, Al Wakrah, Al Khor. Guida alla copertura Ooredoo & Vodafone & STC.
-    Attivazione QR istantanea da $1.99.
-  keywords: eSIM Qatar, piano eSIM Qatar, migliore eSIM Qatar, Qatar dati, Ooredoo Qatar, Vodafone Qatar, STC Qatar, eSIM
-    Doha, eSIM Al Wakrah, eSIM Al Khor, internet mobile Qatar, 5G Qatar
+  description: 'eSIM Qatar per il tuo viaggio: dati 5G a Doha, Al Wakrah e Al Khor. Nessun contratto, QR via email in 5 minuti. Piani da $6.99.'
+  keywords: eSIM Qatar, piani eSIM Qatar, migliore eSIM Qatar, eSIM Qatar economica, comprare eSIM Qatar online, eSIM Qatar dati illimitati, eSIM Qatar prepagata, migliore eSIM per Qatar, prezzo eSIM Qatar, attivazione eSIM Qatar, copertura eSIM Qatar, migliore eSIM per Doha, eSIM Doha, eSIM Al Wakrah
+  low_price: '6.99'
+  high_price: '94.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -310,6 +310,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📱
+    html: 'Tieni la tua SIM fisica attiva per chiamate e SMS; usa la eSIM Qatar solo per la navigazione dati.'
+  - icon: 🗺️
+    html: 'A Doha e Al Wakrah il 5G copre le zone centrali: scarica le mappe offline prima di partire.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -364,9 +368,9 @@ faq_section:
       a: |
         Il QR code arriva via email entro 5 minuti dal pagamento. Installazione su iPhone: Impostazioni > Cellulare > Aggiungi eSIM. Su Android: Impostazioni > Rete > Aggiungi eSIM. Processo totale: circa 2 minuti. Consigliamo di installare prima della partenza con WiFi di casa. All'arrivo attiva il roaming dati e sei online.
     - q: |
-        La eSIM supporta la modalità hotspot per altri dispositivi?
+        La eSIM supporta il tethering verso altri dispositivi?
       a: |
-        Sì, puoi connettere computer, tablet o un secondo telefono. L'hotspot funziona su tutti i piani senza costi extra. Un dispositivo in condivisione consuma più o meno come se fosse connesso direttamente. Per due viaggiatori, il piano illimitato ($59.99) conviene più di due piani separati.
+        Sì, puoi connettere computer, tablet o un secondo telefono. L'hotspot funziona su tutti i piani senza costi extra. Un dispositivo in condivisione consuma più o meno come se fosse connesso direttamente. Per due viaggiatori, il piano illimitato ($18.99) conviene più di due piani separati.
     - q: |
         Come controllare il traffico residuo sulla eSIM in Qatar?
       a: |
@@ -374,7 +378,7 @@ faq_section:
     - q: |
         Meglio 5GB o piano illimitato per un viaggio in Qatar?
       a: |
-        5GB ($9.99) bastano per navigazione, social e messaggistica per una settimana. 10GB ($14.99) per uso più attivo con video. Il piano illimitato ($59.99) è ideale per streaming, videochiamate e hotspot. La maggior parte dei turisti sceglie 5GB. Puoi sempre aumentare il piano dall'app.
+        5GB ($9.99) bastano per navigazione, social e messaggistica per una settimana. 10GB ($17.99) per uso più attivo con video. Il piano illimitato ($18.99) è ideale per streaming, videochiamate e hotspot. La maggior parte dei turisti sceglie 5GB. Puoi sempre aumentare il piano dall'app.
     - q: |
         Qual è la velocità reale di 4G e 5G con la eSIM in Qatar?
       a: |
@@ -386,9 +390,84 @@ faq_section:
     - q: |
         Le videochiamate con Zoom e WhatsApp funzionano bene con eSIM in Qatar?
       a: |
-        Sì, le videochiamate funzionano bene. Una chiamata Zoom di 30 minuti consuma circa 150-300MB. Con 5G (100-300 Mbps) la qualità arriva al 4K, con 4G (10-30 Mbps) le chiamate sono comunque nitide. Per lavoro da remoto consiglio il piano 10GB ($14.99) o illimitato ($59.99).
+        Sì, le videochiamate funzionano bene. Una chiamata Zoom di 30 minuti consuma circa 150-300MB. Con 5G (100-300 Mbps) la qualità arriva al 4K, con 4G (10-30 Mbps) le chiamate sono comunque nitide. Per lavoro da remoto consiglio il piano 10GB ($17.99) o illimitato ($18.99).
     - q: |
         La SIM italiana interferisce con la eSIM in Qatar?
       a: |
         SIM fisica e eSIM funzionano benissimo insieme. Nelle impostazioni del telefono puoi specificare: SIM 1 — voce e SMS (numero italiano), eSIM — solo dati. La batteria dura solo il 5-8% in meno, praticamente impercettibile. Il tuo numero resta attivo per ricevere SMS bancari.
+    - q: |
+        Posso usare la eSIM Qatar e la mia SIM italiana insieme?
+      a: |
+        Sì: la eSIM gestisce i dati mentre la tua SIM italiana resta attiva per chiamate e SMS. Puoi scegliere in Impostazioni quale linea usare per voce, SMS e dati.
+    - q: |
+        Come attivo la eSIM per Qatar prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in Qatar.
+    - q: |
+        Quanti GB servono per un viaggio in Qatar?
+      a: |
+        Per un uso leggero (mappe, messaggi) bastano 3-5GB; per social e video 10GB sono l'ideale. I piani Roami per Qatar partono da $6.99 e puoi ricaricare dall'app in tempo reale.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Arabia Saudita eSIM
+    flag: img/flags/sa.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: saudi-arabia
+  - name: UAE eSIM
+    flag: img/flags/ae.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: united-arab-emirates
+  - name: Bahrein eSIM
+    flag: img/flags/bh.svg
+    price: A partire da $6,99
+    is_highlight: false
+    slug: bahrain
+  - name: Iraq eSIM
+    flag: img/flags/iq.svg
+    price: A partire da $21,99
+    is_highlight: false
+    slug: iraq
+  - name: Israele eSIM
+    flag: img/flags/il.svg
+    price: A partire da $2,99
+    is_highlight: false
+    slug: israel
+  - name: Giordania eSIM
+    flag: img/flags/jo.svg
+    price: A partire da $6,99
+    is_highlight: false
+    slug: jordan
+  - name: Kuwait eSIM
+    flag: img/flags/kw.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: kuwait
+  - name: Oman eSIM
+    flag: img/flags/om.svg
+    price: A partire da $7,99
+    is_highlight: false
+    slug: oman
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: canada
+  - name: Cina eSIM
+    flag: img/flags/cn.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: china
+  - name: Australia eSIM
+    flag: img/flags/au.svg
+    price: A partire da $1,99
+    is_highlight: true
+    slug: australia
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: hong-kong
 ---

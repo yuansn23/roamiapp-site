@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Indonesia 2026: 5G & Piani Dati | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -22,8 +22,9 @@ seo:
   title: Indonesia eSIM | Attivazione immediata
   description: Per Indonesia scegli Roami e paghi meno. La nostra eSIM offre il prezzo migliore per restare connesso durante
     il tuo viaggio. Copre tutte le regioni.
-  keywords: eSIM Indonesia, piano eSIM Indonesia, migliore eSIM Indonesia, Indonesia dati, Telkomsel Indonesia, XL Axiata
-    Indonesia, Indosat Ooredoo Indonesia, eSIM Giacarta, eSIM Surabaya, eSIM Bandung, internet mobile Indonesia, 5G Indonesia
+  keywords: eSIM Indonesia, piani eSIM Indonesia, migliore eSIM Indonesia, eSIM Indonesia economica, comprare eSIM Indonesia online, eSIM Indonesia dati illimitati, eSIM Indonesia prepagata, migliore eSIM per Indonesia, prezzo eSIM Indonesia, attivazione eSIM Indonesia, copertura eSIM Indonesia, migliore eSIM per Giacarta, eSIM Giacarta, eSIM Surabaya
+  low_price: '1.99'
+  high_price: '68.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -343,6 +344,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 🏙️
+    html: 'Copertura ottimale a Giacarta e Surabaya: hotspot incluso per condividere i dati con chi viaggia con te.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -395,13 +400,13 @@ faq_section:
     title: Indonesia eSIM FAQ
     questions:
     - q: |
-        Quali sono i passaggi per configurare la eSIM prima di partire?
+        In che modo si configura la eSIM prima di partire?
       a: |
         L'installazione richiede 2 minuti. Dopo l'acquisto ricevi il QR code via email entro 5 minuti. Su iPhone: Impostazioni > Cellulare > Aggiungi eSIM. Su Android: Impostazioni > Rete > Aggiungi eSIM. Installa prima della partenza con WiFi di casa. All'arrivo in Indonesia, attiva il roaming dati — sei online in 60 secondi.
     - q: |
         Qual è la migliore eSIM da acquistare per un viaggio in Indonesia?
       a: |
-        Roami eSIM funziona sulla rete Telkomsel — uno dei principali operatori con copertura del 95% del territorio. 5GB a $9.99 è l'opzione ottimale per il turista medio. Se il viaggio dura più di due settimane, scegli 10GB ($14.99). Supporto 24/7 con risposta in 2 minuti.
+        Roami eSIM funziona sulla rete Telkomsel — uno dei principali operatori con copertura del 95% del territorio. 5GB a $5.99 è l'opzione ottimale per il turista medio. Se il viaggio dura più di due settimane, scegli 10GB ($8.99). Supporto 24/7 con risposta in 2 minuti.
     - q: |
         Qual è la velocità reale di 4G e 5G con la eSIM in Indonesia?
       a: |
@@ -417,7 +422,7 @@ faq_section:
     - q: |
         Instagram, TikTok e Telegram sono accessibili con eSIM in Indonesia?
       a: |
-        Tutte le app funzionano: il feed Instagram si carica in 1-2 secondi, i video TikTok senza buffering, i messaggi Telegram sono istantanei. Al giorno sui social si consumano 200-400MB con uso attivo. 5GB ($9.99) bastano per 12-20 giorni di navigazione moderata.
+        Tutte le app funzionano: il feed Instagram si carica in 1-2 secondi, i video TikTok senza buffering, i messaggi Telegram sono istantanei. Al giorno sui social si consumano 200-400MB con uso attivo. 5GB ($5.99) bastano per 12-20 giorni di navigazione moderata.
     - q: |
         Ci sono costi nascosti con Roami per l'Indonesia?
       a: |
@@ -426,6 +431,81 @@ faq_section:
         È sicuro usare la eSIM per pagamenti online in Indonesia?
       a: |
         Usare la eSIM per i pagamenti è più sicuro del WiFi: i dati sono criptati a livello di rete dell'operatore. Puoi usare senza problemi app come PayPal, bonifici e home banking. Le notifiche SMS arrivano sulla tua SIM fisica. Nessun rischio di intercettazione come sul WiFi pubblico.
+    - q: |
+        A Giacarta la connessione è veloce con la eSIM?
+      a: |
+        A Giacarta la eSIM Roami sfrutta la rete 5G/4G locale: velocità tipiche di 50-200 Mbps in centro. Ottima per mappe, social e videochiamate.
+    - q: |
+        Posso usare la eSIM Indonesia e la mia SIM italiana insieme?
+      a: |
+        Sì: la eSIM gestisce i dati mentre la tua SIM italiana resta attiva per chiamate e SMS. Puoi scegliere in Impostazioni quale linea usare per voce, SMS e dati.
+    - q: |
+        Come attivo la eSIM per Indonesia prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in Indonesia.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Giappone eSIM
+    flag: img/flags/jp.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: japan
+  - name: Kazakistan eSIM
+    flag: img/flags/kz.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: kazakhstan
+  - name: Kirghizistan eSIM
+    flag: img/flags/kg.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: kyrgyzstan
+  - name: Laos eSIM
+    flag: img/flags/la.svg
+    price: A partire da $4,99
+    is_highlight: true
+    slug: laos
+  - name: Malaysia eSIM
+    flag: img/flags/my.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: malaysia
+  - name: Maldive eSIM
+    flag: img/flags/mv.svg
+    price: A partire da $14,99
+    is_highlight: false
+    slug: maldives
+  - name: Nepal eSIM
+    flag: img/flags/np.svg
+    price: A partire da $10,99
+    is_highlight: false
+    slug: nepal
+  - name: Pakistan eSIM
+    flag: img/flags/pk.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: pakistan
+  - name: Filippine eSIM
+    flag: img/flags/ph.svg
+    price: A partire da $2,99
+    is_highlight: false
+    slug: philippines
+  - name: Singapore eSIM
+    flag: img/flags/sg.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: singapore
+  - name: Corea del Sud eSIM
+    flag: img/flags/kr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: south-korea
+  - name: Sri Lanka eSIM
+    flag: img/flags/lk.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: sri-lanka
 market_analysis:
   title: "Guida completa al confronto eSIM vs SIM card in Indonesia"
   subtitle: "Confronto tra SIM prepagate locali indonesiane e soluzioni eSIM (riferimento 2024/2025)"

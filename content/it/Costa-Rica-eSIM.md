@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Costa Rica 2026: Viaggio & Rete | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,8 +21,9 @@ seo:
   title: Costa Rica eSIM | Attivazione immediata
   description: La tua eSIM Roami per Costa Rica è pronta in pochi secondi. Ricevi il QR code via email e attivalo subito.
     Senza complicazioni. Copre tutte le regioni.
-  keywords: eSIM Costa Rica, piano eSIM Costa Rica, migliore eSIM Costa Rica, Costa Rica dati, Kölbi Costa Rica, Claro Costa
-    Rica, Movistar Costa Rica, eSIM San José, eSIM Alajuela, eSIM Cartago, internet mobile Costa Rica, 5G Costa Rica
+  keywords: eSIM Costa Rica, piani eSIM Costa Rica, migliore eSIM Costa Rica, eSIM Costa Rica economica, comprare eSIM Costa Rica online, eSIM Costa Rica dati illimitati, eSIM Costa Rica prepagata, migliore eSIM per Costa Rica, prezzo eSIM Costa Rica, attivazione eSIM Costa Rica, copertura eSIM Costa Rica, migliore eSIM per San José, eSIM San José, eSIM Alajuela
+  low_price: '9.99'
+  high_price: '84.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -286,6 +287,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 🗺️
+    html: 'A San José e Alajuela il 5G copre le zone centrali: scarica le mappe offline prima di partire.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -340,23 +345,23 @@ faq_section:
     - q: |
         Quanti GB servono al giorno in Costa Rica?
       a: |
-        L'uso tipico giornaliero: navigatore 50-80MB/h, social 150-200MB, messaggistica 50-100MB. Con video streaming si sale a 1-2GB/h. 5GB ($9.99) sono sufficienti per 7-10 giorni di uso moderato. Consiglio: scarica le mappe offline in hotel per risparmiare traffico.
+        L'uso tipico giornaliero: navigatore 50-80MB/h, social 150-200MB, messaggistica 50-100MB. Con video streaming si sale a 1-2GB/h. 5GB ($20.99) sono sufficienti per 7-10 giorni di uso moderato. Consiglio: scarica le mappe offline in hotel per risparmiare traffico.
     - q: |
         Quale quantità di dati scegliere per il mio viaggio per la Costa Rica?
       a: |
-        5GB ($9.99) bastano per navigazione, social e messaggistica per una settimana. 10GB ($14.99) per uso più attivo con video. Il piano illimitato ($59.99) è ideale per streaming, videochiamate e hotspot. La maggior parte dei turisti sceglie 5GB. Puoi sempre aumentare il piano dall'app.
+        5GB ($20.99) bastano per navigazione, social e messaggistica per una settimana. 10GB ($34.99) per uso più attivo con video. Il piano illimitato ($38.99) è ideale per streaming, videochiamate e hotspot. La maggior parte dei turisti sceglie 5GB. Puoi sempre aumentare il piano dall'app.
     - q: |
-        La eSIM supporta la modalità hotspot per altri dispositivi?
+        La eSIM permette la condivisione hotspot con altri dispositivi?
       a: |
-        Sì, tutti i piani Roami supportano la modalità hotspot. Attiva la condivisione nelle impostazioni del telefono. Per lavorare con il computer (videoconferenze, file) consigliamo il piano 10GB ($14.99) o illimitato ($59.99). La condivisione funziona senza costi aggiuntivi.
+        Sì, tutti i piani Roami supportano la modalità hotspot. Attiva la condivisione nelle impostazioni del telefono. Per lavorare con il computer (videoconferenze, file) consigliamo il piano 10GB ($34.99) o illimitato ($38.99). La condivisione funziona senza costi aggiuntivi.
     - q: |
         Si può ricaricare la eSIM da remoto durante il viaggio in Costa Rica?
       a: |
-        Sì, dall'app Roami, in tempo reale. Senza nuovo QR code e senza reinstallare. Consigliamo di ricaricare quando il saldo è al 20%. Roami invia notifiche al 70% e 90% di utilizzo. Pacchetti aggiuntivi disponibili: 1GB ($1.99), 3GB ($4.99), 5GB ($9.99).
+        Sì, dall'app Roami, in tempo reale. Senza nuovo QR code e senza reinstallare. Consigliamo di ricaricare quando il saldo è al 20%. Roami invia notifiche al 70% e 90% di utilizzo. Pacchetti aggiuntivi disponibili: 1GB ($9.99), 3GB ($13.99), 5GB ($20.99).
     - q: |
         La eSIM è adatta per viaggi brevi di 2-3 giorni in Costa Rica?
       a: |
-        Sì, per viaggi brevi la eSIM è perfetta. Il piano minimo è 7 giorni / 1GB a $1.99 — sufficiente per mappe e messaggi. Per 3-5 giorni di uso attivo consigliamo 3GB ($4.99). Installazione in 2 minuti, acquisto fino a 5 minuti prima della partenza. All'arrivo in Costa Rica attiva il roaming dati e sei subito online.
+        Sì, per viaggi brevi la eSIM è perfetta. Il piano minimo è 7 giorni / 1GB a $9.99 — sufficiente per mappe e messaggi. Per 3-5 giorni di uso attivo consigliamo 3GB ($13.99). Installazione in 2 minuti, acquisto fino a 5 minuti prima della partenza. All'arrivo in Costa Rica attiva il roaming dati e sei subito online.
     - q: |
         Come verificare se la eSIM funziona correttamente in Costa Rica?
       a: |
@@ -364,76 +369,86 @@ faq_section:
     - q: |
         Ci sono costi nascosti con Roami per la Costa Rica?
       a: |
-        No, il prezzo è finale. I piani partono da $1.99 (7 giorni, 1GB). Senza tasse, senza canone mensile, senza rinnovo automatico. Il piano scade automaticamente alla data di fine — nessuna sorpresa. Il prezzo sul sito Roami è quello che paghi.
+        No, il prezzo è finale. I piani partono da $9.99 (7 giorni, 1GB). Senza tasse, senza canone mensile, senza rinnovo automatico. Il piano scade automaticamente alla data di fine — nessuna sorpresa. Il prezzo sul sito Roami è quello che paghi.
     - q: |
         Quanto risparmio usando eSIM invece del roaming in Costa Rica?
       a: |
-        Sì, la eSIM Roami costa l'80-90% in meno del roaming tradizionale. Un piano 5GB costa $9.99 mentre il roaming dell'operatore italiano può costare $50-100. In più ottieni velocità locali 4G/5G, non il roaming limitato a 256 kbps. Attiva solo la eSIM per i dati e tieni la tua SIM per SMS e chiamate.
+        Sì, la eSIM Roami costa l'80-90% in meno del roaming tradizionale. Un piano 5GB costa $20.99 mentre il roaming dell'operatore italiano può costare $50-100. In più ottieni velocità locali 4G/5G, non il roaming limitato a 256 kbps. Attiva solo la eSIM per i dati e tieni la tua SIM per SMS e chiamate.
+    - q: |
+        Quanto costa una eSIM per Costa Rica e conviene rispetto alla SIM locale?
+      a: |
+        I piani Roami per Costa Rica partono da $9.99 e si acquistano online in pochi clic, senza file in negozio né costi di attivazione. Rispetto a una SIM prepagata locale eviti la registrazione con passaporto e l'attesa allo sportello.
+    - q: |
+        La eSIM ha copertura 5G in tutte le città di Costa Rica?
+      a: |
+        Sì, la eSIM Roami si aggancia alle reti Kölbi e Claro e offre 4G/5G nelle principali città come San José e Alajuela. Nelle zone rurali la copertura resta solida in 4G.
+    - q: |
+        A San José la connessione è veloce con la eSIM?
+      a: |
+        A San José la eSIM Roami sfrutta la rete 5G/4G locale: velocità tipiche di 50-200 Mbps in centro. Ottima per mappe, social e videochiamate.
 related_products:
   title: Piani eSIM simili
   items:
-  - name: Stati Uniti eSIM
-    flag: img/flags/us.svg
-    price: A partire da $1,99
+  - name: Dominica eSIM
+    flag: img/flags/dm.svg
+    price: A partire da $11,99
     is_highlight: false
-    slug: united-states-esim
-  - name: Regno Unito eSIM
-    flag: img/flags/gb.svg
-    price: A partire da $1,99
+    slug: dominica
+  - name: Repubblica Dominicana eSIM
+    flag: img/flags/do.svg
+    price: A partire da $5,99
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: A partire da $1,99
+    slug: dominican-republic
+  - name: El Salvador eSIM
+    flag: img/flags/sv.svg
+    price: A partire da $23,99
+    is_highlight: false
+    slug: el-salvador
+  - name: Grenada eSIM
+    flag: img/flags/gd.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: grenada
+  - name: Guadalupa eSIM
+    flag: img/flags/gp.svg
+    price: A partire da $8,99
+    is_highlight: false
+    slug: guadeloupe
+  - name: Guatemala eSIM
+    flag: img/flags/gt.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: guatemala
+  - name: Honduras eSIM
+    flag: img/flags/hn.svg
+    price: A partire da $6,99
+    is_highlight: false
+    slug: honduras
+  - name: Giamaica eSIM
+    flag: img/flags/jm.svg
+    price: A partire da $11,99
     is_highlight: true
-    slug: europe-esim
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: A partire da $1,99
+    slug: jamaica
+  - name: Panama eSIM
+    flag: img/flags/pa.svg
+    price: A partire da $11,99
     is_highlight: false
-    slug: canada-esim
-  - name: Turchia eSIM
-    flag: img/flags/tr.svg
-    price: A partire da $1,99
+    slug: panama
+  - name: Bahamas eSIM
+    flag: img/flags/bs.svg
+    price: A partire da $16,99
     is_highlight: false
-    slug: turkey-esim
-  - name: Cina eSIM
-    flag: img/flags/cn.svg
-    price: A partire da $1,99
+    slug: bahamas
+  - name: Barbados eSIM
+    flag: img/flags/bb.svg
+    price: A partire da $11,99
     is_highlight: false
-    slug: china-esim
+    slug: barbados
   - name: Giappone eSIM
     flag: img/flags/jp.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: japan-esim
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: Francia eSIM
-    flag: img/flags/fr.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: france-esim
-  - name: Spagna eSIM
-    flag: img/flags/es.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: spain-esim
-  - name: Germania eSIM
-    flag: img/flags/de.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: germany-esim
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: australia-esim
-
-# =============== Modulo di confronto basato su dati ===============
+    slug: japan
 market_analysis:
   title: "eSIM vs SIM fisica in Costa Rica: viaggio, costi e configurazione a confronto"
   subtitle: "Confronto tra SIM prepagate locali costaricane e soluzioni eSIM (riferimento 2024/2025)"

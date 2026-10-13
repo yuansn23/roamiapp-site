@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Svizzera 2026: Viaggio & Rete | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,8 +21,9 @@ seo:
   title: Svizzera eSIM | Dati illimitati per viaggiare
   description: Vuoi una eSIM per Svizzera? Roami ti invia il codice direttamente via email, senza spese di spedizione. Copre
     Zurigo, Ginevra & le Alpi.
-  keywords: eSIM Svizzera, piano eSIM Svizzera, migliore eSIM Svizzera, Svizzera dati, Swisscom Svizzera, Salt Svizzera, Sunrise
-    Svizzera, eSIM Zurigo, eSIM Ginevra, eSIM Basilea, internet mobile Svizzera, 5G Svizzera
+  keywords: eSIM Svizzera, piani eSIM Svizzera, migliore eSIM Svizzera, eSIM Svizzera economica, comprare eSIM Svizzera online, eSIM Svizzera dati illimitati, eSIM Svizzera prepagata, migliore eSIM per Svizzera, prezzo eSIM Svizzera, attivazione eSIM Svizzera, copertura eSIM Svizzera, migliore eSIM per Zurigo, eSIM Zurigo, eSIM Ginevra
+  low_price: '1.99'
+  high_price: '78.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -342,6 +343,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 📍
+    html: 'Per Zurigo consigliamo di attivare la eSIM all''arrivo: la validità parte al primo collegamento.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -398,19 +403,19 @@ faq_section:
     - q: |
         Basta il piano minimo eSIM per usare Google Maps in Svizzera?
       a: |
-        Google Maps consuma circa 5MB all'ora — qualsiasi piano Roami (da $1.99) va bene per la navigazione. Per scaricare le mappe di una città servono 200-500MB, fallo prima con WiFi. Se ascolti anche musica e usi social in viaggio, bastano 5GB ($9.99) a settimana. La navigazione funziona anche su 3G lento — non ti perderai.
+        Google Maps consuma circa 5MB all'ora — qualsiasi piano Roami (da $1.99) va bene per la navigazione. Per scaricare le mappe di una città servono 200-500MB, fallo prima con WiFi. Se ascolti anche musica e usi social in viaggio, bastano 5GB ($5.99) a settimana. La navigazione funziona anche su 3G lento — non ti perderai.
     - q: |
         Qual è la differenza tra eSIM e router WiFi portatile per la Svizzera?
       a: |
-        La eSIM è più comoda: non devi portare, caricare e restituire un dispositivo separato. Il pocket WiFi costa $3-8 al giorno più cauzione. Roami eSIM da $1.99 al giorno, funziona direttamente nel telefono, non serve ricarica separata. Entrambi supportano la condivisione internet.
+        La eSIM è più comoda: non devi portare, caricare e restituire un dispositivo separato. Il pocket WiFi costa $3-8 al giorno più cauzione. Roami eSIM da $0.23 al giorno, funziona direttamente nel telefono, non serve ricarica separata. Entrambi supportano la condivisione internet.
     - q: |
         Quale quantità di dati scegliere per il mio viaggio per la Svizzera?
       a: |
-        5GB ($9.99) bastano per navigazione, social e messaggistica per una settimana. 10GB ($14.99) per uso più attivo con video. Il piano illimitato ($59.99) è ideale per streaming, videochiamate e hotspot. La maggior parte dei turisti sceglie 5GB. Puoi sempre aumentare il piano dall'app.
+        5GB ($5.99) bastano per navigazione, social e messaggistica per una settimana. 10GB ($9.99) per uso più attivo con video. Il piano illimitato ($12.99) è ideale per streaming, videochiamate e hotspot. La maggior parte dei turisti sceglie 5GB. Puoi sempre aumentare il piano dall'app.
     - q: |
         Quanti GB servono al giorno in Svizzera?
       a: |
-        Un turista medio consuma 300-500MB al giorno tra mappe, social e messaggistica. Con video si arriva a 1-2GB/giorno. Per una settimana bastano 5GB ($9.99), per due settimane 10GB ($14.99). Puoi sempre ricaricare dall'app se il traffico finisce prima.
+        Un turista medio consuma 300-500MB al giorno tra mappe, social e messaggistica. Con video si arriva a 1-2GB/giorno. Per una settimana bastano 5GB ($5.99), per due settimane 10GB ($9.99). Puoi sempre ricaricare dall'app se il traffico finisce prima.
     - q: |
         Posso tenere la mia SIM italiana mentre uso la eSIM in Svizzera?
       a: |
@@ -418,11 +423,86 @@ faq_section:
     - q: |
         Qual è il piano eSIM più scelto dai turisti in Svizzera?
       a: |
-        5GB/15 giorni a $9.99 — la scelta del 60% dei turisti. Abbastanza per navigazione, social e messaggistica. Per coppie in viaggio consigliamo 10GB. Se guardi video ogni sera, meglio l'illimitato ($59.99). Puoi sempre ricaricare dall'app in qualsiasi momento.
+        5GB/15 giorni a $7.99 — la scelta del 60% dei turisti. Abbastanza per navigazione, social e messaggistica. Per coppie in viaggio consigliamo 10GB. Se guardi video ogni sera, meglio l'illimitato ($12.99). Puoi sempre ricaricare dall'app in qualsiasi momento.
     - q: |
         La eSIM è adatta per viaggi brevi di 2-3 giorni in Svizzera?
       a: |
-        Sì, per viaggi brevi c'è il piano 7 giorni / 1GB a $1.99 — ideale per un weekend. Per 3-4 giorni bastano 3GB ($4.99). Il piano inizia dal primo aggancio alla rete locale, quindi usi esattamente i tuoi giorni. Acquista e installa prima della partenza per essere subito operativo all'arrivo.
+        Sì, per viaggi brevi c'è il piano 7 giorni / 1GB a $2.99 — ideale per un weekend. Per 3-4 giorni bastano 3GB ($3.99). Il piano inizia dal primo aggancio alla rete locale, quindi usi esattamente i tuoi giorni. Acquista e installa prima della partenza per essere subito operativo all'arrivo.
+    - q: |
+        Come attivo la eSIM per Svizzera prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in Svizzera.
+    - q: |
+        Quanti GB servono per un viaggio in Svizzera?
+      a: |
+        Per un uso leggero (mappe, messaggi) bastano 3-5GB; per social e video 10GB sono l'ideale. I piani Roami per Svizzera partono da $1.99 e puoi ricaricare dall'app in tempo reale.
+    - q: |
+        Quanto costa una eSIM per Svizzera e conviene rispetto alla SIM locale?
+      a: |
+        I piani Roami per Svizzera partono da $1.99 e si acquistano online in pochi clic, senza file in negozio né costi di attivazione. Rispetto a una SIM prepagata locale eviti la registrazione con passaporto e l'attesa allo sportello.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Turchia eSIM
+    flag: img/flags/tr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: turkey
+  - name: UK eSIM
+    flag: img/flags/gb.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: united-kingdom
+  - name: Albania eSIM
+    flag: img/flags/al.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: albania
+  - name: Andorra eSIM
+    flag: img/flags/ad.svg
+    price: A partire da $6,99
+    is_highlight: false
+    slug: andorra
+  - name: Armenia eSIM
+    flag: img/flags/am.svg
+    price: A partire da $7,99
+    is_highlight: false
+    slug: armenia
+  - name: Austria eSIM
+    flag: img/flags/at.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: austria
+  - name: Azerbaigian eSIM
+    flag: img/flags/az.svg
+    price: A partire da $6,99
+    is_highlight: false
+    slug: azerbaijan
+  - name: Bielorussia eSIM
+    flag: img/flags/by.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: belarus
+  - name: Belgio eSIM
+    flag: img/flags/be.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: belgium
+  - name: Bosnia ed Erzegovina eSIM
+    flag: img/flags/ba.svg
+    price: A partire da $30,99
+    is_highlight: false
+    slug: bosnia-and-herzegovina
+  - name: Bulgaria eSIM
+    flag: img/flags/bg.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: bulgaria
+  - name: Croazia eSIM
+    flag: img/flags/hr.svg
+    price: A partire da $1,99
+    is_highlight: true
+    slug: croatia
 market_analysis:
   title: "eSIM o piano SIM in Svizzera: quale soddisfa le tue esigenze?"
   subtitle: "Confronto tra SIM prepagate locali svizzere e soluzioni eSIM (riferimento 2024/2025)"

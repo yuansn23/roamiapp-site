@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Singapore 2026: 5G & Piani Dati | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     di sconto con codice: web20'
 seo:
   title: Singapore eSIM | Attivazione immediata
-  description: La tua eSIM Roami per Singapore è pronta in pochi secondi. Ricevi il QR code via email e attivalo subito. Senza
-    complicazioni. Copre Singapore & tutta l'isola.
-  keywords: eSIM Singapore, piano eSIM Singapore, migliore eSIM Singapore, Singapore dati, Singtel Singapore, StarHub Singapore,
-    M1 Singapore, eSIM Singapore City, eSIM Jurong East, eSIM Woodlands, internet mobile Singapore, 5G Singapore
+  description: 'Roami eSIM per Singapore: rete Singtel, dati 5G a Singapore City e Jurong East. Nessun contratto, assistenza 24/7. Da $1.99.'
+  keywords: eSIM Singapore, piani eSIM Singapore, migliore eSIM Singapore, eSIM Singapore economica, comprare eSIM Singapore online, eSIM Singapore dati illimitati, eSIM Singapore prepagata, migliore eSIM per Singapore, prezzo eSIM Singapore, attivazione eSIM Singapore, copertura eSIM Singapore, migliore eSIM per Singapore City, eSIM Singapore City, eSIM Jurong East
+  low_price: '1.99'
+  high_price: '65.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -334,6 +334,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📱
+    html: 'Tieni la tua SIM fisica attiva per chiamate e SMS; usa la eSIM Singapore solo per la navigazione dati.'
+  - icon: 🗺️
+    html: 'A Singapore City e Jurong East il 5G copre le zone centrali: scarica le mappe offline prima di partire.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -387,7 +391,7 @@ faq_section:
     - q: |
         Quale quantità di dati scegliere per il mio viaggio per la Singapore?
       a: |
-        5GB ($9.99) bastano per navigazione, social e messaggistica per una settimana. 10GB ($14.99) per uso più attivo con video. Il piano illimitato ($59.99) è ideale per streaming, videochiamate e hotspot. La maggior parte dei turisti sceglie 5GB. Puoi sempre aumentare il piano dall'app.
+        5GB ($4.99) bastano per navigazione, social e messaggistica per una settimana. 10GB ($8.99) per uso più attivo con video. Il piano illimitato ($9.99) è ideale per streaming, videochiamate e hotspot. La maggior parte dei turisti sceglie 5GB. Puoi sempre aumentare il piano dall'app.
     - q: |
         La eSIM funziona anche in zone rurali e fuori città in Singapore?
       a: |
@@ -399,9 +403,9 @@ faq_section:
     - q: |
         Esiste un piano minimo per un weekend in Singapore?
       a: |
-        Sì, per viaggi brevi c'è il piano 7 giorni / 1GB a $1.99 — ideale per un weekend. Per 3-4 giorni bastano 3GB ($4.99). Il piano inizia dal primo aggancio alla rete locale, quindi usi esattamente i tuoi giorni. Acquista e installa prima della partenza per essere subito operativo all'arrivo.
+        Sì, per viaggi brevi c'è il piano 7 giorni / 1GB a $1.99 — ideale per un weekend. Per 3-4 giorni bastano 3GB ($2.99). Il piano inizia dal primo aggancio alla rete locale, quindi usi esattamente i tuoi giorni. Acquista e installa prima della partenza per essere subito operativo all'arrivo.
     - q: |
-        Come si fa a configurare la eSIM sul telefono prima del viaggio?
+        Come impostare la eSIM sul proprio telefono prima della partenza?
       a: |
         1) Acquista il piano sul sito Roami (30 sec). 2) Ricevi il QR code via email (fino a 5 min). 3) Su iPhone: Impostazioni > Cellulare > Aggiungi eSIM. Su Android: Impostazioni > Connessioni > Gestore SIM > eSIM. 4) Scannerizza il QR code. 5) Assegna la eSIM per i dati. 6) All'arrivo in Singapore attiva il roaming dati. Fatto!
     - q: |
@@ -416,6 +420,81 @@ faq_section:
         È necessaria la registrazione con documento per la eSIM in Singapore?
       a: |
         Nella maggior parte dei paesi non serve il passaporto per Roami eSIM. In alcuni paesi (Cina, Turchia, India) può essere necessaria la verifica KYC. Consigliamo di completarla prima del viaggio — richiede 5-10 minuti. Negli altri paesi l'eSIM si attiva subito dopo il pagamento.
+    - q: |
+        Posso usare la eSIM Singapore e la mia SIM italiana insieme?
+      a: |
+        Sì: la eSIM gestisce i dati mentre la tua SIM italiana resta attiva per chiamate e SMS. Puoi scegliere in Impostazioni quale linea usare per voce, SMS e dati.
+    - q: |
+        Come attivo la eSIM per Singapore prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in Singapore.
+    - q: |
+        Quanti GB servono per un viaggio in Singapore?
+      a: |
+        Per un uso leggero (mappe, messaggi) bastano 3-5GB; per social e video 10GB sono l'ideale. I piani Roami per Singapore partono da $1.99 e puoi ricaricare dall'app in tempo reale.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Corea del Sud eSIM
+    flag: img/flags/kr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: south-korea
+  - name: Sri Lanka eSIM
+    flag: img/flags/lk.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: sri-lanka
+  - name: Taiwan eSIM
+    flag: img/flags/tw.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: taiwan
+  - name: Thailandia eSIM
+    flag: img/flags/th.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: thailand
+  - name: Uzbekistan eSIM
+    flag: img/flags/uz.svg
+    price: A partire da $3,99
+    is_highlight: true
+    slug: uzbekistan
+  - name: Vietnam eSIM
+    flag: img/flags/vn.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: vietnam
+  - name: Afghanistan eSIM
+    flag: img/flags/af.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: afghanistan
+  - name: Bangladesh eSIM
+    flag: img/flags/bd.svg
+    price: A partire da $5,99
+    is_highlight: false
+    slug: bangladesh
+  - name: Brunei eSIM
+    flag: img/flags/bn.svg
+    price: A partire da $9,99
+    is_highlight: false
+    slug: brunei
+  - name: Cambogia eSIM
+    flag: img/flags/kh.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: cambodia
+  - name: Cina eSIM
+    flag: img/flags/cn.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: china
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: hong-kong
 market_analysis:
   title: "Vantaggi e svantaggi di eSIM e SIM fisica in Singapore"
   subtitle: "Confronto tra SIM prepagate locali di Singapore e soluzioni eSIM (riferimento 2024/2025)"

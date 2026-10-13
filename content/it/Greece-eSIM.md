@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Grecia 2026: Operatori & Copertura | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,8 +21,9 @@ seo:
   title: Grecia eSIM | Compra al miglior prezzo online
   description: Acquista la tua eSIM Roami per Grecia comodamente da casa. Valida subito, pronta all'arrivo. Facile e veloce.
     Copre tutte le regioni.
-  keywords: eSIM Grecia, piano eSIM Grecia, migliore eSIM Grecia, Grecia dati, Cosmote Grecia, Vodafone GR Grecia, Wind Tre
-    Grecia, eSIM Atene, eSIM Salonicco, eSIM Candia, internet mobile Grecia, 5G Grecia
+  keywords: eSIM Grecia, piani eSIM Grecia, migliore eSIM Grecia, eSIM Grecia economica, comprare eSIM Grecia online, eSIM Grecia dati illimitati, eSIM Grecia prepagata, migliore eSIM per Grecia, prezzo eSIM Grecia, attivazione eSIM Grecia, copertura eSIM Grecia, migliore eSIM per Atene, eSIM Atene, eSIM Salonicco
+  low_price: '1.99'
+  high_price: '77.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -342,6 +343,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📱
+    html: 'Tieni la tua SIM fisica attiva per chiamate e SMS; usa la eSIM Grecia solo per la navigazione dati.'
+  - icon: 🗺️
+    html: 'A Atene e Salonicco il 5G copre le zone centrali: scarica le mappe offline prima di partire.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -394,11 +399,11 @@ faq_section:
     - q: |
         Quanto traffico dati consuma un turista al giorno in Grecia?
       a: |
-        L'uso tipico giornaliero: navigatore 50-80MB/h, social 150-200MB, messaggistica 50-100MB. Con video streaming si sale a 1-2GB/h. 5GB ($9.99) sono sufficienti per 7-10 giorni di uso moderato. Consiglio: scarica le mappe offline in hotel per risparmiare traffico.
+        L'uso tipico giornaliero: navigatore 50-80MB/h, social 150-200MB, messaggistica 50-100MB. Con video streaming si sale a 1-2GB/h. 5GB ($6.99) sono sufficienti per 7-10 giorni di uso moderato. Consiglio: scarica le mappe offline in hotel per risparmiare traffico.
     - q: |
         Quanti dispositivi posso collegare alla eSIM in hotspot in Grecia?
       a: |
-        Sì, tutti i piani Roami supportano la modalità hotspot. Attiva la condivisione nelle impostazioni del telefono. Per lavorare con il computer (videoconferenze, file) consigliamo il piano 10GB ($14.99) o illimitato ($59.99). La condivisione funziona senza costi aggiuntivi.
+        Sì, tutti i piani Roami supportano la modalità hotspot. Attiva la condivisione nelle impostazioni del telefono. Per lavorare con il computer (videoconferenze, file) consigliamo il piano 10GB ($7.99) o illimitato ($9.99). La condivisione funziona senza costi aggiuntivi.
     - q: |
         Posso tenere la mia SIM italiana mentre uso la eSIM in Grecia?
       a: |
@@ -406,23 +411,98 @@ faq_section:
     - q: |
         I social network funzionano con la eSIM in Grecia?
       a: |
-        Sì, tutti i social funzionano senza limiti. Instagram, TikTok, Facebook, Telegram — il caricamento delle foto richiede 2-3 secondi su 4G. Con 5GB ($9.99) puoi caricare circa 5000 foto o guardare 10 ore di video. Per uso intensivo di social con video è meglio 10GB ($14.99).
+        Sì, tutti i social funzionano senza limiti. Instagram, TikTok, Facebook, Telegram — il caricamento delle foto richiede 2-3 secondi su 4G. Con 5GB ($6.99) puoi caricare circa 5000 foto o guardare 10 ore di video. Per uso intensivo di social con video è meglio 10GB ($7.99).
     - q: |
         Meglio eSIM o pocket WiFi per viaggiare in Grecia?
       a: |
-        Pocket WiFi: da portare sempre con sé, ricaricare ogni sera, restituire in aeroporto. Costa $5-10/giorno più deposito $50-100. eSIM Roami: installazione in 2 minuti, da $1.99/giorno, niente da restituire. Puoi condividere internet con altri dispositivi. La eSIM vince per comodità e prezzo.
+        Pocket WiFi: da portare sempre con sé, ricaricare ogni sera, restituire in aeroporto. Costa $5-10/giorno più deposito $50-100. eSIM Roami: installazione in 2 minuti, da $0.23/giorno, niente da restituire. Puoi condividere internet con altri dispositivi. La eSIM vince per comodità e prezzo.
     - q: |
         Si può ricaricare la eSIM da remoto durante il viaggio in Grecia?
       a: |
-        Sì, dall'app Roami, in tempo reale. Senza nuovo QR code e senza reinstallare. Consigliamo di ricaricare quando il saldo è al 20%. Roami invia notifiche al 70% e 90% di utilizzo. Pacchetti aggiuntivi disponibili: 1GB ($1.99), 3GB ($4.99), 5GB ($9.99).
+        Sì, dall'app Roami, in tempo reale. Senza nuovo QR code e senza reinstallare. Consigliamo di ricaricare quando il saldo è al 20%. Roami invia notifiche al 70% e 90% di utilizzo. Pacchetti aggiuntivi disponibili: 1GB ($1.99), 3GB ($3.99), 5GB ($6.99).
     - q: |
         Che velocità internet posso aspettarmi con la eSIM in Grecia?
       a: |
         In città: 100-300 Mbps su 5G (sufficienti per video 4K). In periferia: 10-30 Mbps su 4G (ottimi per social e navigazione). In zone remote: 3-5 Mbps (sufficienti per messaggi e mappe). La velocità dipende dalla zona e dal carico della rete. Roami si connette automaticamente al segnale più veloce disponibile.
     - q: |
-        Perché acquistare la eSIM prima di partire se posso comprarla all'arrivo?
+        Quali sono i motivi per acquistare la eSIM prima della partenza?
       a: |
         Sì — installa la eSIM 1-2 giorni prima della partenza con WiFi di casa. All'arrivo in Grecia attiva il roaming dati e sei online in 60 secondi. Niente code in aeroporto per comprare una SIM. Se il viaggio è last minute, puoi acquistare fino a 5 minuti prima del volo.
+    - q: |
+        Posso usare la eSIM Grecia e la mia SIM italiana insieme?
+      a: |
+        Sì: la eSIM gestisce i dati mentre la tua SIM italiana resta attiva per chiamate e SMS. Puoi scegliere in Impostazioni quale linea usare per voce, SMS e dati.
+    - q: |
+        Come attivo la eSIM per Grecia prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in Grecia.
+    - q: |
+        Quanti GB servono per un viaggio in Grecia?
+      a: |
+        Per un uso leggero (mappe, messaggi) bastano 3-5GB; per social e video 10GB sono l'ideale. I piani Roami per Grecia partono da $1.99 e puoi ricaricare dall'app in tempo reale.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Ungheria eSIM
+    flag: img/flags/hu.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: hungary
+  - name: Islanda eSIM
+    flag: img/flags/is.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: iceland
+  - name: Irlanda eSIM
+    flag: img/flags/ie.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: ireland
+  - name: Italia eSIM
+    flag: img/flags/it.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: italy
+  - name: Kosovo eSIM
+    flag: img/flags/xk.svg
+    price: A partire da $13,99
+    is_highlight: true
+    slug: kosovo
+  - name: Lettonia eSIM
+    flag: img/flags/lv.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: latvia
+  - name: Liechtenstein eSIM
+    flag: img/flags/li.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: liechtenstein
+  - name: Lituania eSIM
+    flag: img/flags/lt.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: lithuania
+  - name: Lussemburgo eSIM
+    flag: img/flags/lu.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: luxembourg
+  - name: Malta eSIM
+    flag: img/flags/mt.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: malta
+  - name: Montenegro eSIM
+    flag: img/flags/me.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: montenegro
+  - name: Paesi Bassi eSIM
+    flag: img/flags/nl.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: netherlands
 market_analysis:
   title: "Attivazione e configurazione: eSIM vs SIM fisica in Grecia"
   subtitle: "Confronto tra SIM prepagate locali greche e soluzioni eSIM (riferimento 2024/2025)"

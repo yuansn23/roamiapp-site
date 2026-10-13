@@ -1,6 +1,6 @@
 ---
 title: 'eSIM El Salvador 2026: Copertura & Velocità | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,11 +19,10 @@ modal:
     di sconto con codice: web20'
 seo:
   title: El Salvador eSIM | Compra al miglior prezzo
-  description: La eSIM Roami per El Salvador ti dà la libertà di scegliere. Senza vincoli, usala quando vuoi. Controlli tutto
-    tu, in totale trasparenza. Copre tutte le regioni.
-  keywords: eSIM El Salvador, piano eSIM El Salvador, migliore eSIM El Salvador, El Salvador dati, Tigo El Salvador, Claro
-    El Salvador, Movistar El Salvador, eSIM San Salvador, eSIM Santa Ana, eSIM San Miguel, internet mobile El Salvador, 5G
-    El Salvador
+  description: 'Roami eSIM per El Salvador: rete Tigo, dati 5G a San Salvador e Santa Ana. Nessun contratto, assistenza 24/7. Da $23.99.'
+  keywords: eSIM El Salvador, piani eSIM El Salvador, migliore eSIM El Salvador, eSIM El Salvador economica, comprare eSIM El Salvador online, eSIM El Salvador dati illimitati, eSIM El Salvador prepagata, migliore eSIM per El Salvador, prezzo eSIM El Salvador, attivazione eSIM El Salvador, copertura eSIM El Salvador, migliore eSIM per San Salvador, eSIM San Salvador, eSIM Santa Ana
+  low_price: '23.99'
+  high_price: '165.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -238,6 +237,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📱
+    html: 'Tieni la tua SIM fisica attiva per chiamate e SMS; usa la eSIM El Salvador solo per la navigazione dati.'
+  - icon: 🗺️
+    html: 'A San Salvador e Santa Ana il 5G copre le zone centrali: scarica le mappe offline prima di partire.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -300,17 +303,17 @@ faq_section:
     - q: |
         Si può lavorare da remoto con la eSIM in El Salvador?
       a: |
-        Sì, la eSIM è perfetta per il lavoro da remoto. Con 5G le velocità raggiungono 100-300 Mbps, sufficienti per videoconferenze Zoom/Teams e invio di file pesanti. Con 4G (10-30 Mbps) puoi lavorare con email e documenti. Per lavoro consigliamo 10GB ($14.99) a settimana o illimitato ($59.99). La eSIM supporta anche la condivisione internet verso il computer.
+        Sì, la eSIM è perfetta per il lavoro da remoto. Con 5G le velocità raggiungono 100-300 Mbps, sufficienti per videoconferenze Zoom/Teams e invio di file pesanti. Con 4G (10-30 Mbps) puoi lavorare con email e documenti. Per lavoro consigliamo 10GB ($64.99) a settimana o illimitato ($49.99). La eSIM supporta anche la condivisione internet verso il computer.
     - q: |
         Quale quantità di dati scegliere per il mio viaggio per l'El Salvador?
       a: |
-        Parti dalle tue abitudini: 3GB ($4.99) per 7 giorni per navigazione leggera. 5GB ($9.99) è lo standard per la maggior parte. 10GB ($14.99) per video e social intensivi. Illimitato ($59.99) per streaming attivo e condivisione. Tutti i piani si possono ricaricare dall'app senza cambiare QR code.
+        Parti dalle tue abitudini: 3GB ($23.99) per 7 giorni per navigazione leggera. 5GB ($34.99) è lo standard per la maggior parte. 10GB ($64.99) per video e social intensivi. Illimitato ($49.99) per streaming attivo e condivisione. Tutti i piani si possono ricaricare dall'app senza cambiare QR code.
     - q: |
         Come usare la mia SIM e la eSIM contemporaneamente in El Salvador?
       a: |
         La SIM italiana e la eSIM funzionano perfettamente insieme. Puoi ricevere chiamate e SMS sulla tua SIM mentre navighi con la eSIM. Il consumo della batteria aumenta solo del 5-8%, appena percepibile. In Impostazioni > Cellulare puoi scegliere quale linea usare per voce, SMS e dati.
     - q: |
-        Meglio installare la eSIM a casa o direttamente in aeroporto?
+        Dove è meglio installare la eSIM: a casa o in aeroporto?
       a: |
         Acquistare in anticipo dà tre vantaggi: 1) Installazione con WiFi di casa — senza rischi di non avere connessione all'arrivo. 2) Il piano non si attiva fino all'atterraggio — la validità inizia al primo aggancio alla rete locale. 3) Niente code di 20-40 minuti in aeroporto. Comprato, installato in 2 minuti e dimenticato fino alla partenza.
     - q: |
@@ -320,72 +323,82 @@ faq_section:
     - q: |
         Basta il piano minimo eSIM per usare Google Maps in El Salvador?
       a: |
-        Google Maps consuma circa 5MB all'ora — qualsiasi piano Roami (da $1.99) va bene per la navigazione. Per scaricare le mappe di una città servono 200-500MB, fallo prima con WiFi. Se ascolti anche musica e usi social in viaggio, bastano 5GB ($9.99) a settimana. La navigazione funziona anche su 3G lento — non ti perderai.
+        Google Maps consuma circa 5MB all'ora — qualsiasi piano Roami (da $23.99) va bene per la navigazione. Per scaricare le mappe di una città servono 200-500MB, fallo prima con WiFi. Se ascolti anche musica e usi social in viaggio, bastano 5GB ($34.99) a settimana. La navigazione funziona anche su 3G lento — non ti perderai.
+    - q: |
+        Posso usare la eSIM El Salvador e la mia SIM italiana insieme?
+      a: |
+        Sì: la eSIM gestisce i dati mentre la tua SIM italiana resta attiva per chiamate e SMS. Puoi scegliere in Impostazioni quale linea usare per voce, SMS e dati.
+    - q: |
+        Come attivo la eSIM per El Salvador prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in El Salvador.
+    - q: |
+        Quanti GB servono per un viaggio in El Salvador?
+      a: |
+        Per un uso leggero (mappe, messaggi) bastano 3-5GB; per social e video 10GB sono l'ideale. I piani Roami per El Salvador partono da $23.99 e puoi ricaricare dall'app in tempo reale.
 related_products:
   title: Piani eSIM simili
   items:
-  - name: Stati Uniti eSIM
-    flag: img/flags/us.svg
-    price: A partire da $1,99
+  - name: Grenada eSIM
+    flag: img/flags/gd.svg
+    price: A partire da $11,99
     is_highlight: false
-    slug: united-states-esim
-  - name: Regno Unito eSIM
-    flag: img/flags/gb.svg
-    price: A partire da $1,99
+    slug: grenada
+  - name: Guadalupa eSIM
+    flag: img/flags/gp.svg
+    price: A partire da $8,99
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: A partire da $1,99
+    slug: guadeloupe
+  - name: Guatemala eSIM
+    flag: img/flags/gt.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: guatemala
+  - name: Honduras eSIM
+    flag: img/flags/hn.svg
+    price: A partire da $6,99
+    is_highlight: false
+    slug: honduras
+  - name: Giamaica eSIM
+    flag: img/flags/jm.svg
+    price: A partire da $11,99
     is_highlight: true
-    slug: europe-esim
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: A partire da $1,99
+    slug: jamaica
+  - name: Panama eSIM
+    flag: img/flags/pa.svg
+    price: A partire da $11,99
     is_highlight: false
-    slug: canada-esim
-  - name: Turchia eSIM
-    flag: img/flags/tr.svg
-    price: A partire da $1,99
+    slug: panama
+  - name: Bahamas eSIM
+    flag: img/flags/bs.svg
+    price: A partire da $16,99
     is_highlight: false
-    slug: turkey-esim
-  - name: Cina eSIM
-    flag: img/flags/cn.svg
-    price: A partire da $1,99
+    slug: bahamas
+  - name: Barbados eSIM
+    flag: img/flags/bb.svg
+    price: A partire da $11,99
     is_highlight: false
-    slug: china-esim
-  - name: Giappone eSIM
-    flag: img/flags/jp.svg
-    price: A partire da $1,99
+    slug: barbados
+  - name: Costa Rica eSIM
+    flag: img/flags/cr.svg
+    price: A partire da $9,99
     is_highlight: false
-    slug: japan-esim
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: A partire da $1,99
+    slug: costa-rica
+  - name: Dominica eSIM
+    flag: img/flags/dm.svg
+    price: A partire da $11,99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: Francia eSIM
-    flag: img/flags/fr.svg
-    price: A partire da $1,99
+    slug: dominica
+  - name: Repubblica Dominicana eSIM
+    flag: img/flags/do.svg
+    price: A partire da $5,99
     is_highlight: false
-    slug: france-esim
+    slug: dominican-republic
   - name: Spagna eSIM
     flag: img/flags/es.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: spain-esim
-  - name: Germania eSIM
-    flag: img/flags/de.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: germany-esim
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: australia-esim
-
-# =============== Modulo di confronto basato su dati ===============
+    slug: spain
 market_analysis:
   title: "Qual è la vera differenza tra eSIM e SIM fisica in El Salvador?"
   subtitle: "Confronto tra SIM prepagate locali salvadoregne e soluzioni eSIM (riferimento 2024/2025)"

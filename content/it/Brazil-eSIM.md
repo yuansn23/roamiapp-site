@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Brasile 2026: Connessione & Velocità | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,8 +21,9 @@ seo:
   title: Brasile eSIM | Attivazione immediata conveniente
   description: Viaggia in Brasile in libertà con Roami. Nessun rinnovo automatico, nessuna penale di recesso. Usala e basta.
     Copre Rio, San Paolo & tutto il Brasile.
-  keywords: eSIM Brasile, piano eSIM Brasile, migliore eSIM Brasile, Brasile dati, Vivo Brasile, Claro Brasile, TIM Brasil
-    Brasile, eSIM San Paolo, eSIM Rio de Janeiro, eSIM Brasilia, internet mobile Brasile, 5G Brasile
+  keywords: eSIM Brasile, piani eSIM Brasile, migliore eSIM Brasile, eSIM Brasile economica, comprare eSIM Brasile online, eSIM Brasile dati illimitati, eSIM Brasile prepagata, migliore eSIM per Brasile, prezzo eSIM Brasile, attivazione eSIM Brasile, copertura eSIM Brasile, migliore eSIM per San Paolo, eSIM San Paolo, eSIM Rio de Janeiro
+  low_price: '4.99'
+  high_price: '86.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -310,6 +311,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 🗺️
+    html: 'A San Paolo e Rio de Janeiro il 5G copre le zone centrali: scarica le mappe offline prima di partire.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -371,7 +376,7 @@ faq_section:
     - q: |
         Quanto costa una eSIM per il Brasile?
       a: |
-        I piani Roami partono da $1.99 (7 giorni, 1GB) fino a $59.99 (30 giorni, illimitato). Il piano più popolare è 5GB/15 giorni a $9.99 — sufficiente per navigazione, social e messaggistica. Per uso intensivo con video, scegli 10GB ($14.99) o illimitato ($59.99). Tutti i piani sono prepagati, senza costi nascosti e senza rinnovo automatico.
+        I piani Roami partono da $4.99 (3 giorni, 1GB) fino a $86.99 (30 giorni, 30GB). Il piano più popolare è 5GB/15 giorni a $16.99 — sufficiente per navigazione, social e messaggistica. Per uso intensivo con video, scegli 10GB ($22.99) o illimitato ($32.99). Tutti i piani sono prepagati, senza costi nascosti e senza rinnovo automatico.
     - q: |
         Devo registrare un documento per usare la eSIM in Brasile?
       a: |
@@ -379,19 +384,94 @@ faq_section:
     - q: |
         Quale quantità di dati scegliere per il mio viaggio per il Brasile?
       a: |
-        5GB ($9.99) bastano per navigazione, social e messaggistica per una settimana. 10GB ($14.99) per uso più attivo con video. Il piano illimitato ($59.99) è ideale per streaming, videochiamate e hotspot. La maggior parte dei turisti sceglie 5GB. Puoi sempre aumentare il piano dall'app.
+        5GB ($14.99) bastano per navigazione, social e messaggistica per una settimana. 10GB ($22.99) per uso più attivo con video. Il piano illimitato ($32.99) è ideale per streaming, videochiamate e hotspot. La maggior parte dei turisti sceglie 5GB. Puoi sempre aumentare il piano dall'app.
     - q: |
         Qual è il piano eSIM più scelto dai turisti in Brasile?
       a: |
-        5GB/15 giorni a $9.99 — la scelta del 60% dei turisti. Abbastanza per navigazione, social e messaggistica. Per coppie in viaggio consigliamo 10GB. Se guardi video ogni sera, meglio l'illimitato ($59.99). Puoi sempre ricaricare dall'app in qualsiasi momento.
+        5GB/15 giorni a $16.99 — la scelta del 60% dei turisti. Abbastanza per navigazione, social e messaggistica. Per coppie in viaggio consigliamo 10GB. Se guardi video ogni sera, meglio l'illimitato ($32.99). Puoi sempre ricaricare dall'app in qualsiasi momento.
     - q: |
         Quanti GB servono al giorno in Brasile?
       a: |
-        L'uso tipico giornaliero: navigatore 50-80MB/h, social 150-200MB, messaggistica 50-100MB. Con video streaming si sale a 1-2GB/h. 5GB ($9.99) sono sufficienti per 7-10 giorni di uso moderato. Consiglio: scarica le mappe offline in hotel per risparmiare traffico.
+        L'uso tipico giornaliero: navigatore 50-80MB/h, social 150-200MB, messaggistica 50-100MB. Con video streaming si sale a 1-2GB/h. 5GB ($14.99) sono sufficienti per 7-10 giorni di uso moderato. Consiglio: scarica le mappe offline in hotel per risparmiare traffico.
     - q: |
         Quanto internet serve per il navigatore e le mappe in Brasile?
       a: |
-        Per la navigazione non serve tanta velocità: le mappe si caricano già a 1-2 Mbps. La cosa più importante è scaricare le mappe offline in hotel, risparmiando fino all'80% del traffico. Google Maps consuma 3-8MB/h, 2GIS 2-5MB/h. Anche il piano da 1GB a $1.99 basta se usi solo il navigatore.
+        Per la navigazione non serve tanta velocità: le mappe si caricano già a 1-2 Mbps. La cosa più importante è scaricare le mappe offline in hotel, risparmiando fino all'80% del traffico. Google Maps consuma 3-8MB/h, 2GIS 2-5MB/h. Anche il piano da 1GB a $4.99 basta se usi solo il navigatore.
+    - q: |
+        Quanto costa una eSIM per Brasile e conviene rispetto alla SIM locale?
+      a: |
+        I piani Roami per Brasile partono da $4.99 e si acquistano online in pochi clic, senza file in negozio né costi di attivazione. Rispetto a una SIM prepagata locale eviti la registrazione con passaporto e l'attesa allo sportello.
+    - q: |
+        La eSIM ha copertura 5G in tutte le città di Brasile?
+      a: |
+        Sì, la eSIM Roami si aggancia alle reti Vivo e Claro e offre 4G/5G nelle principali città come San Paolo e Rio de Janeiro. Nelle zone rurali la copertura resta solida in 4G.
+    - q: |
+        A San Paolo la connessione è veloce con la eSIM?
+      a: |
+        A San Paolo la eSIM Roami sfrutta la rete 5G/4G locale: velocità tipiche di 50-200 Mbps in centro. Ottima per mappe, social e videochiamate.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Cile eSIM
+    flag: img/flags/cl.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: chile
+  - name: Colombia eSIM
+    flag: img/flags/co.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: colombia
+  - name: Ecuador eSIM
+    flag: img/flags/ec.svg
+    price: A partire da $6,99
+    is_highlight: false
+    slug: ecuador
+  - name: Guyana francese eSIM
+    flag: img/flags/gf.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: french-guiana
+  - name: Guyana eSIM
+    flag: img/flags/gy.svg
+    price: A partire da $9,99
+    is_highlight: false
+    slug: guyana
+  - name: Paraguay eSIM
+    flag: img/flags/py.svg
+    price: A partire da $22,99
+    is_highlight: false
+    slug: paraguay
+  - name: Perù eSIM
+    flag: img/flags/pe.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: peru
+  - name: Uruguay eSIM
+    flag: img/flags/uy.svg
+    price: A partire da $11,99
+    is_highlight: true
+    slug: uruguay
+  - name: Argentina eSIM
+    flag: img/flags/ar.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: argentina
+  - name: Bolivia eSIM
+    flag: img/flags/bo.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: bolivia
+  - name: Giappone eSIM
+    flag: img/flags/jp.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: japan
+  - name: Francia eSIM
+    flag: img/flags/fr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: france
 market_analysis:
   title: "Confronto diretto tra eSIM e SIM prepagata in Brasile"
   subtitle: "Analisi basata su dati reali di Vivo, TIM e Claro (riferimento 2024/2025)"

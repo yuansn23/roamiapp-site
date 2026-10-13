@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Croazia 2026: Guida Completa | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     di sconto con codice: web20'
 seo:
   title: Croazia eSIM | Attivazione immediata conveniente
-  description: Resta connesso in Croazia con Roami. Naviga, condividi, guarda video in streaming con il 5G veloce. La connessione
-    perfetta per il tuo viaggio. Copre tutte le regioni.
-  keywords: eSIM Croazia, piano eSIM Croazia, migliore eSIM Croazia, Croazia dati, A1 Hrvatska Croazia, T-Mobile Hrvatska
-    Croazia, Tele2 Hrvatska Croazia, eSIM Zagabria, eSIM Spalato, eSIM Dubrovnik, internet mobile Croazia, 5G Croazia
+  description: 'Roami eSIM per Croazia: rete A1 Hrvatska, dati 5G a Zagabria e Spalato. Nessun contratto, assistenza 24/7. Da $1.99.'
+  keywords: eSIM Croazia, piani eSIM Croazia, migliore eSIM Croazia, eSIM Croazia economica, comprare eSIM Croazia online, eSIM Croazia dati illimitati, eSIM Croazia prepagata, migliore eSIM per Croazia, prezzo eSIM Croazia, attivazione eSIM Croazia, copertura eSIM Croazia, migliore eSIM per Zagabria, eSIM Zagabria, eSIM Spalato
+  low_price: '1.99'
+  high_price: '76.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -342,6 +342,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📱
+    html: 'Tieni la tua SIM fisica attiva per chiamate e SMS; usa la eSIM Croazia solo per la navigazione dati.'
+  - icon: 📍
+    html: 'Per Zagabria consigliamo di attivare la eSIM all''arrivo: la validità parte al primo collegamento.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -399,15 +403,15 @@ faq_section:
     - q: |
         Esiste un piano minimo per un weekend in Croazia?
       a: |
-        Sì, per viaggi brevi c'è il piano 7 giorni / 1GB a $1.99 — ideale per un weekend. Per 3-4 giorni bastano 3GB ($4.99). Il piano inizia dal primo aggancio alla rete locale, quindi usi esattamente i tuoi giorni. Acquista e installa prima della partenza per essere subito operativo all'arrivo.
+        Sì, per viaggi brevi c'è il piano 7 giorni / 1GB a $2.99 — ideale per un weekend. Per 3-4 giorni bastano 3GB ($3.99). Il piano inizia dal primo aggancio alla rete locale, quindi usi esattamente i tuoi giorni. Acquista e installa prima della partenza per essere subito operativo all'arrivo.
     - q: |
-        Come si fa a configurare la eSIM sul telefono prima del viaggio?
+        Come si imposta la eSIM sul telefono prima di partire?
       a: |
         1) Acquista il piano sul sito Roami (30 sec). 2) Ricevi il QR code via email (fino a 5 min). 3) Su iPhone: Impostazioni > Cellulare > Aggiungi eSIM. Su Android: Impostazioni > Connessioni > Gestore SIM > eSIM. 4) Scannerizza il QR code. 5) Assegna la eSIM per i dati. 6) All'arrivo in Croazia attiva il roaming dati. Fatto!
     - q: |
         La eSIM è adatta per videoconferenze e lavoro online in Croazia?
       a: |
-        Per lavoro da remoto la eSIM è ideale: velocità 50-200 Mbps permettono di lavorare con servizi cloud, partecipare a conferenze Zoom e caricare file di qualsiasi dimensione. Ping 20-50ms è adatto anche per VPN e giochi online. Consigliamo un piano da 10GB+ ($14.99) se lavori con video e file grandi.
+        Per lavoro da remoto la eSIM è ideale: velocità 50-200 Mbps permettono di lavorare con servizi cloud, partecipare a conferenze Zoom e caricare file di qualsiasi dimensione. Ping 20-50ms è adatto anche per VPN e giochi online. Consigliamo un piano da 10GB+ ($11.99) se lavori con video e file grandi.
     - q: |
         Quanto internet serve per il navigatore e le mappe in Croazia?
       a: |
@@ -415,7 +419,7 @@ faq_section:
     - q: |
         Cosa scelgono di solito i turisti come piano eSIM per la Croazia?
       a: |
-        Il piano più popolare è 5GB/15 giorni a $9.99 (scelto da oltre la metà dei turisti). Il secondo è 10GB/30 giorni a $14.99 — per chi usa internet attivamente. I piani illimitati sono scelti da circa il 15% dei viaggiatori, principalmente chi lavora da remoto o viaggia in famiglia.
+        Il piano più popolare è 5GB/15 giorni a $8.99 (scelto da oltre la metà dei turisti). Il secondo è 10GB/30 giorni a $14.99 — per chi usa internet attivamente. I piani illimitati sono scelti da circa il 15% dei viaggiatori, principalmente chi lavora da remoto o viaggia in famiglia.
     - q: |
         La eSIM supporta lo streaming video in buona qualità in Croazia?
       a: |
@@ -423,7 +427,82 @@ faq_section:
     - q: |
         Meglio ordinare eSIM online o comprare SIM locale all'aeroporto in Croazia?
       a: |
-        La SIM locale in aeroporto costa $10-30 più 15-60 minuti di coda. Con Roami eSIM paghi da $1.99 per 7 giorni e non perdi tempo — installata a casa, pronta all'arrivo. Il tuo numero italiano resta attivo per SMS bancari. La differenza di prezzo è netta: 30-50% in meno con eSIM.
+        La SIM locale in aeroporto costa $10-30 più 15-60 minuti di coda. Con Roami eSIM paghi da $2.99 per 7 giorni e non perdi tempo — installata a casa, pronta all'arrivo. Il tuo numero italiano resta attivo per SMS bancari. La differenza di prezzo è netta: 30-50% in meno con eSIM.
+    - q: |
+        La eSIM ha copertura 5G in tutte le città di Croazia?
+      a: |
+        Sì, la eSIM Roami si aggancia alle reti A1 Hrvatska e T-Mobile Hrvatska e offre 4G/5G nelle principali città come Zagabria e Spalato. Nelle zone rurali la copertura resta solida in 4G.
+    - q: |
+        A Zagabria la connessione è veloce con la eSIM?
+      a: |
+        A Zagabria la eSIM Roami sfrutta la rete 5G/4G locale: velocità tipiche di 50-200 Mbps in centro. Ottima per mappe, social e videochiamate.
+    - q: |
+        Posso usare la eSIM Croazia e la mia SIM italiana insieme?
+      a: |
+        Sì: la eSIM gestisce i dati mentre la tua SIM italiana resta attiva per chiamate e SMS. Puoi scegliere in Impostazioni quale linea usare per voce, SMS e dati.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Cipro eSIM
+    flag: img/flags/cy.svg
+    price: A partire da $2,99
+    is_highlight: false
+    slug: cyprus
+  - name: Repubblica Ceca eSIM
+    flag: img/flags/cz.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: czech-republic
+  - name: Danimarca eSIM
+    flag: img/flags/dk.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: denmark
+  - name: Estonia eSIM
+    flag: img/flags/ee.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: estonia
+  - name: Isole Fær Øer eSIM
+    flag: img/flags/fo.svg
+    price: A partire da $5,99
+    is_highlight: false
+    slug: faroe-islands
+  - name: Finlandia eSIM
+    flag: img/flags/fi.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: finland
+  - name: Francia eSIM
+    flag: img/flags/fr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: france
+  - name: Georgia eSIM
+    flag: img/flags/ge.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: georgia
+  - name: Germania eSIM
+    flag: img/flags/de.svg
+    price: A partire da $1,99
+    is_highlight: true
+    slug: germany
+  - name: Grecia eSIM
+    flag: img/flags/gr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: greece
+  - name: Ungheria eSIM
+    flag: img/flags/hu.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: hungary
+  - name: Islanda eSIM
+    flag: img/flags/is.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: iceland
 market_analysis:
   title: "eSIM vs SIM fisica in Croazia: viaggio, costi e configurazione a confronto"
   subtitle: "Confronto tra SIM prepagate locali croate e soluzioni eSIM (riferimento 2024/2025)"

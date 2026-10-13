@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Brunei 2026: Copertura & Velocità | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: DST, Progresif, UNN
   competitors: Airalo, Holafly, Ubigi, Nomad eSIM, Yesim
   main_cities: Bandar Seri Begawan, Kuala Belait, Seria, Tutong, Bangar
-  main_packages: 3/7/15/30 giorni, Dati illimitati
+  main_packages: 1GB/3GB/5GB/20GB, 7/15/30 giorni
 modal:
   title: Aggiornamento del Servizio!
   btn_text: Continua
@@ -19,13 +19,12 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con il codice: web20'
 seo:
-  title: Brunei eSIM | Internet veloce senza limiti
+  title: 'eSIM Brunei: 5G e piani dati flessibili | Roami'
   description: Vuoi una eSIM per Brunei? Roami ti invia il codice direttamente via email, senza spese di spedizione. Copre
     tutte le regioni.
-  keywords: eSIM Brunei, piano eSIM Brunei, migliore eSIM Brunei, Brunei dati, DST Brunei, Progresif Brunei, UNN Brunei, eSIM
-    Bandar Seri Begawan, eSIM Kuala Belait, eSIM Seria, internet mobile Brunei, 5G Brunei
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM Brunei, piani eSIM Brunei, migliore eSIM Brunei, eSIM Brunei economica, comprare eSIM Brunei online, piani dati eSIM Brunei, eSIM Brunei prepagata, migliore eSIM per Brunei, prezzo eSIM Brunei, attivazione eSIM Brunei, copertura eSIM Brunei, migliore eSIM per Bandar Seri Begawan, eSIM Bandar Seri Begawan, eSIM Kuala Belait
+  low_price: 9.99
+  high_price: 99.99
 order_summary:
   title: Tariffa selezionata
   label_data: Volume dati
@@ -174,6 +173,10 @@ reminders:
     html: Il codice QR verrà inviato alla tua email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📱
+    html: 'Tieni la tua SIM fisica attiva per chiamate e SMS; usa la eSIM Brunei solo per la navigazione dati.'
+  - icon: 📍
+    html: 'Per Bandar Seri Begawan consigliamo di attivare la eSIM all''arrivo: la validità parte al primo collegamento.'
   compatibility_check:
     title: Controllo rapido di compatibilità
     desc: 'Non sei sicuro? Verificalo subito direttamente sul tuo telefono:'
@@ -220,7 +223,7 @@ faq_section:
     - q: |
         La eSIM è adatta per viaggi brevi di 2-3 giorni in Brunei?
       a: |
-        Sì, per viaggi brevi la eSIM è perfetta. Il piano minimo è 7 giorni / 1GB a $1.99 — sufficiente per mappe e messaggi. Per 3-5 giorni di uso attivo consigliamo 3GB ($4.99). Installazione in 2 minuti, acquisto fino a 5 minuti prima della partenza. All'arrivo in Brunei attiva il roaming dati e sei subito online.
+        Sì, per viaggi brevi la eSIM è perfetta. Il piano minimo è 7 giorni / 1GB a $9.99 — sufficiente per mappe e messaggi. Per 3-5 giorni di uso attivo consigliamo 3GB ($22.99). Installazione in 2 minuti, acquisto fino a 5 minuti prima della partenza. All'arrivo in Brunei attiva il roaming dati e sei subito online.
     - q: |
         Quali sono i passaggi per configurare la eSIM prima di partire?
       a: |
@@ -241,6 +244,81 @@ faq_section:
         Quanto tempo prima devo comprare la eSIM per partire per il Brunei?
       a: |
         Sì, bastano 2-3 minuti: acquisto sul sito Roami (30 sec), QR code via email (fino a 5 min), installazione (2 min). In aereo connettiti al WiFi, installa la eSIM e all'atterraggio disattiva la modalità aereo — sei subito online. Nessuna coda in aeroporto per comprare una SIM locale.
+    - q: |
+        La eSIM ha copertura 5G in tutte le città di Brunei?
+      a: |
+        Sì, la eSIM Roami si aggancia alle reti DST e Progresif e offre 4G/5G nelle principali città come Bandar Seri Begawan e Kuala Belait. Nelle zone rurali la copertura resta solida in 4G.
+    - q: |
+        A Bandar Seri Begawan la connessione è veloce con la eSIM?
+      a: |
+        A Bandar Seri Begawan la eSIM Roami sfrutta la rete 5G/4G locale: velocità tipiche di 50-200 Mbps in centro. Ottima per mappe, social e videochiamate.
+    - q: |
+        Posso usare la eSIM Brunei e la mia SIM italiana insieme?
+      a: |
+        Sì: la eSIM gestisce i dati mentre la tua SIM italiana resta attiva per chiamate e SMS. Puoi scegliere in Impostazioni quale linea usare per voce, SMS e dati.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Cambogia eSIM
+    flag: img/flags/kh.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: cambodia
+  - name: Cina eSIM
+    flag: img/flags/cn.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: china
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: hong-kong
+  - name: India eSIM
+    flag: img/flags/in.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: india
+  - name: Indonesia eSIM
+    flag: img/flags/id.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: indonesia
+  - name: Giappone eSIM
+    flag: img/flags/jp.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: japan
+  - name: Kazakistan eSIM
+    flag: img/flags/kz.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: kazakhstan
+  - name: Kirghizistan eSIM
+    flag: img/flags/kg.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: kyrgyzstan
+  - name: Laos eSIM
+    flag: img/flags/la.svg
+    price: A partire da $4,99
+    is_highlight: true
+    slug: laos
+  - name: Malaysia eSIM
+    flag: img/flags/my.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: malaysia
+  - name: Maldive eSIM
+    flag: img/flags/mv.svg
+    price: A partire da $14,99
+    is_highlight: false
+    slug: maldives
+  - name: Nepal eSIM
+    flag: img/flags/np.svg
+    price: A partire da $10,99
+    is_highlight: false
+    slug: nepal
 market_analysis:
   title: "eSIM o piano SIM in Brunei: quale soddisfa le tue esigenze?"
   subtitle: "Confronto tra SIM prepagate locali del Brunei e soluzioni eSIM (riferimento 2024/2025)"
@@ -255,31 +333,31 @@ market_analysis:
     - icon: "store"
       title: "Acquisizione e attivazione"
       prepaid_title: ""
-      prepaid_desc: "DST 的机场门店营业时间是上午10点至下午5点，且周五中午会因祈祷而关闭，这给特定时段抵达的旅客带来了不便。"
+      prepaid_desc: "La boutique DST in aeroporto apre dalle 10:00 alle 17:00 ed è chiusa il venerdì a mezzogiorno per la preghiera: scomoda per chi arriva in certi orari."
       esim_title: "Attivazione istantanea senza file"
       esim_desc: "Evita le file nei negozi DST (aperti solo fino alle 17:00 e chiusi il venerdì a mezzogiorno). Con Roami eSIM, attiva online in un minuto al tuo arrivo all'aeroporto di Bandar Seri Begawan."
     - icon: "id-card"
       title: "KYC e registrazione passaporto"
       prepaid_title: ""
-      prepaid_desc: "购买 SIM 卡时必须出示护照进行实名注册。文本明确指出：'Every SIM card ... You need to register the SIM on your name at the point of purchase'。"
+      prepaid_desc: "Per acquistare una SIM è obbligatorio presentare il passaporto per la registrazione: «Every SIM card... You need to register the SIM on your name at the point of purchase»."
       esim_title: "Nessun passaporto richiesto"
       esim_desc: "A differenza di DST che richiede la registrazione obbligatoria del passaporto all'acquisto (con rischio di disattivazione dopo 7 giorni), Roami eSIM non richiede alcun documento di identità."
     - icon: "globe"
       title: "Roaming internazionale"
       prepaid_title: ""
-      prepaid_desc: "DST 和 Progresif 的套餐均为本地属性，无法覆盖文莱以外的多国行程。"
+      prepaid_desc: "I piani DST e Progresif sono solo locali e non coprono viaggi multi-paese oltre il Brunei."
       esim_title: "Roaming globale senza confini"
       esim_desc: "Mentre DST e Progresif offrono solo piani locali, Roami eSIM ti permette di navigare in Malesia e altri paesi del Sud-est asiatico senza cambiare SIM."
     - icon: "calendar-xmark"
       title: "Ciclo di fatturazione e costi sprecati"
       prepaid_title: ""
-      prepaid_desc: "Progresif 的游客计划有效期仅为激活后的4周（28天），一旦过期，SIM卡将彻底失效作废。"
+      prepaid_desc: "Il piano turistico Progresif dura solo 4 settimane (28 giorni) dall'attivazione: una volta scaduto, la SIM diventa inutilizzabile."
       esim_title: "Piani flessibili senza sprechi"
       esim_desc: "A differenza del ciclo fisso di 28 giorni di Progresif (10 B$ per 1GB), Roami offre piani da 7 giorni a partire da 1,99 $/GB, eliminando gli sprechi per viaggi brevi."
     - icon: "wifi"
       title: "Tethering e politiche di velocità"
       prepaid_title: ""
-      prepaid_desc: "Progresif 的所谓'无限'套餐在超出配额后并不会断网，但会执行限速。"
+      prepaid_desc: "Il piano «illimitato» di Progresif non si interrompe al superamento della quota, ma applica una riduzione di velocità."
       esim_title: "Tethering illimitato"
       esim_desc: "Mentre Progresif limita la velocità dopo il consumo (es. 40GB a 70 B$), Roami eSIM consente tethering senza restrizioni, ideale per condividere la connessione con altri dispositivi."
     - icon: "credit-card"

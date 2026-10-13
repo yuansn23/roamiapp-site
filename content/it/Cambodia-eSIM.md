@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Cambogia 2026: Operatori & Copertura | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -22,19 +22,9 @@ seo:
   title: Cambogia eSIM | Ricarica immediata senza contratto
   description: Ordina la tua eSIM per Cambogia da Roami. Semplice, veloce e sarai connesso prima ancora di partire. Copre
     tutte le regioni.
-  keywords:
-  - eSIM Cambogia
-  - piano eSIM Cambogia
-  - migliore eSIM Cambogia
-  - Cambogia dati
-  - Smart Axiata Cambogia
-  - Metfone Cambogia
-  - Cellcard Cambogia
-  - eSIM Phnom Penh
-  - eSIM Siem Reap
-  - eSIM Sihanoukville
-  - internet mobile Cambogia
-  - 5G Cambogia
+  keywords: 'eSIM Cambogia, piani eSIM Cambogia, migliore eSIM Cambogia, eSIM Cambogia economica, comprare eSIM Cambogia online, eSIM Cambogia dati illimitati, eSIM Cambogia prepagata, migliore eSIM per Cambogia, prezzo eSIM Cambogia, attivazione eSIM Cambogia, copertura eSIM Cambogia, migliore eSIM per Phnom Penh, eSIM Phnom Penh, eSIM Siem Reap'
+  low_price: '3.99'
+  high_price: '88.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -338,6 +328,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 📍
+    html: 'Per Phnom Penh consigliamo di attivare la eSIM all''arrivo: la validità parte al primo collegamento.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -396,15 +390,15 @@ faq_section:
     - q: |
         Posso condividere internet dalla eSIM al computer in Cambogia?
       a: |
-        Sì, tutti i piani Roami supportano la modalità hotspot. Attiva la condivisione nelle impostazioni del telefono. Per lavorare con il computer (videoconferenze, file) consigliamo il piano 10GB ($14.99) o illimitato ($59.99). La condivisione funziona senza costi aggiuntivi.
+        Sì, tutti i piani Roami supportano la modalità hotspot. Attiva la condivisione nelle impostazioni del telefono. Per lavorare con il computer (videoconferenze, file) consigliamo il piano 10GB ($9.99) o illimitato ($11.99). La condivisione funziona senza costi aggiuntivi.
     - q: |
         Si può lavorare da remoto con la eSIM in Cambogia?
       a: |
-        Sì, la eSIM è perfetta per il lavoro da remoto. Con 5G le velocità raggiungono 100-300 Mbps, sufficienti per videoconferenze Zoom/Teams e invio di file pesanti. Con 4G (10-30 Mbps) puoi lavorare con email e documenti. Per lavoro consigliamo 10GB ($14.99) a settimana o illimitato ($59.99). La eSIM supporta anche la condivisione internet verso il computer.
+        Sì, la eSIM è perfetta per il lavoro da remoto. Con 5G le velocità raggiungono 100-300 Mbps, sufficienti per videoconferenze Zoom/Teams e invio di file pesanti. Con 4G (10-30 Mbps) puoi lavorare con email e documenti. Per lavoro consigliamo 10GB ($9.99) a settimana o illimitato ($11.99). La eSIM supporta anche la condivisione internet verso il computer.
     - q: |
         Basta il piano minimo eSIM per usare Google Maps in Cambogia?
       a: |
-        Google Maps consuma circa 5MB all'ora — qualsiasi piano Roami (da $1.99) va bene per la navigazione. Per scaricare le mappe di una città servono 200-500MB, fallo prima con WiFi. Se ascolti anche musica e usi social in viaggio, bastano 5GB ($9.99) a settimana. La navigazione funziona anche su 3G lento — non ti perderai.
+        Google Maps consuma circa 5MB all'ora — qualsiasi piano Roami (da $3.99) va bene per la navigazione. Per scaricare le mappe di una città servono 200-500MB, fallo prima con WiFi. Se ascolti anche musica e usi social in viaggio, bastano 5GB ($6.99) a settimana. La navigazione funziona anche su 3G lento — non ti perderai.
     - q: |
         Come sapere quanti GB sono rimasti sulla mia eSIM per la Cambogia?
       a: |
@@ -412,15 +406,90 @@ faq_section:
     - q: |
         La eSIM è più conveniente del roaming internazionale per la Cambogia?
       a: |
-        Sì, la eSIM Roami costa l'80-90% in meno del roaming tradizionale. Un piano 5GB costa $9.99 mentre il roaming dell'operatore italiano può costare $50-100. In più ottieni velocità locali 4G/5G, non il roaming limitato a 256 kbps. Attiva solo la eSIM per i dati e tieni la tua SIM per SMS e chiamate.
+        Sì, la eSIM Roami costa l'80-90% in meno del roaming tradizionale. Un piano 5GB costa $6.99 mentre il roaming dell'operatore italiano può costare $50-100. In più ottieni velocità locali 4G/5G, non il roaming limitato a 256 kbps. Attiva solo la eSIM per i dati e tieni la tua SIM per SMS e chiamate.
     - q: |
         Che qualità hanno le videochiamate con la eSIM in Cambogia?
       a: |
-        Sì, le videochiamate funzionano bene. Una chiamata Zoom di 30 minuti consuma circa 150-300MB. Con 5G (100-300 Mbps) la qualità arriva al 4K, con 4G (10-30 Mbps) le chiamate sono comunque nitide. Per lavoro da remoto consiglio il piano 10GB ($14.99) o illimitato ($59.99).
+        Sì, le videochiamate funzionano bene. Una chiamata Zoom di 30 minuti consuma circa 150-300MB. Con 5G (100-300 Mbps) la qualità arriva al 4K, con 4G (10-30 Mbps) le chiamate sono comunque nitide. Per lavoro da remoto consiglio il piano 10GB ($9.99) o illimitato ($11.99).
     - q: |
         Qual è la migliore eSIM da acquistare per un viaggio in Cambogia?
       a: |
-        Roami eSIM funziona sulla rete Cellcard — uno dei principali operatori con copertura del 95% del territorio. 5GB a $9.99 è l'opzione ottimale per il turista medio. Se il viaggio dura più di due settimane, scegli 10GB ($14.99). Supporto 24/7 con risposta in 2 minuti.
+        Roami eSIM funziona sulla rete Cellcard — uno dei principali operatori con copertura del 95% del territorio. 5GB a $6.99 è l'opzione ottimale per il turista medio. Se il viaggio dura più di due settimane, scegli 10GB ($9.99). Supporto 24/7 con risposta in 2 minuti.
+    - q: |
+        Come attivo la eSIM per Cambogia prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in Cambogia.
+    - q: |
+        Quanti GB servono per un viaggio in Cambogia?
+      a: |
+        Per un uso leggero (mappe, messaggi) bastano 3-5GB; per social e video 10GB sono l'ideale. I piani Roami per Cambogia partono da $3.99 e puoi ricaricare dall'app in tempo reale.
+    - q: |
+        Quanto costa una eSIM per Cambogia e conviene rispetto alla SIM locale?
+      a: |
+        I piani Roami per Cambogia partono da $3.99 e si acquistano online in pochi clic, senza file in negozio né costi di attivazione. Rispetto a una SIM prepagata locale eviti la registrazione con passaporto e l'attesa allo sportello.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Cina eSIM
+    flag: img/flags/cn.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: china
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: hong-kong
+  - name: India eSIM
+    flag: img/flags/in.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: india
+  - name: Indonesia eSIM
+    flag: img/flags/id.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: indonesia
+  - name: Giappone eSIM
+    flag: img/flags/jp.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: japan
+  - name: Kazakistan eSIM
+    flag: img/flags/kz.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: kazakhstan
+  - name: Kirghizistan eSIM
+    flag: img/flags/kg.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: kyrgyzstan
+  - name: Laos eSIM
+    flag: img/flags/la.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: laos
+  - name: Malaysia eSIM
+    flag: img/flags/my.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: malaysia
+  - name: Maldive eSIM
+    flag: img/flags/mv.svg
+    price: A partire da $14,99
+    is_highlight: false
+    slug: maldives
+  - name: Nepal eSIM
+    flag: img/flags/np.svg
+    price: A partire da $10,99
+    is_highlight: false
+    slug: nepal
+  - name: Pakistan eSIM
+    flag: img/flags/pk.svg
+    price: A partire da $3,99
+    is_highlight: true
+    slug: pakistan
 market_analysis:
   title: "eSIM o piano SIM in Cambogia: quale soddisfa le tue esigenze?"
   subtitle: "Confronto tra SIM prepagate locali cambogiane e soluzioni eSIM (riferimento 2024/2025)"

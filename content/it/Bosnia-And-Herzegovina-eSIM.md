@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Bosnia ed Erzegovina 2026: Turisti & Rete | Roami'
-date: '2026-06-15T08:51:27+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: BH Telecom, HT Eronet, m:tel
   competitors: Airalo, Holafly, Nomad, Maya Mobile, Ubigi
   main_cities: Sarajevo, Mostar, Banja Luka, Tuzla, Zenica
-  main_packages: 3/7/15/30 giorni, dati illimitati
+  main_packages: 20GB, 7/15/30 giorni
 modal:
   title: Aggiornamento del servizio!
   btn_text: Continua
@@ -19,12 +19,11 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: 'Bosnia eSIM: 5G e dati illimitati per ogni viaggio'
-  description: Confronta i piani eSIM Bosnia ed Erzegovina con 5G a Sarajevo, Mostar, Banja Luka. Guida alla copertura BH
-    Telecom & HT Eronet & m:tel. Attivazione QR istantanea da $1.99.
-  keywords: eSIM Bosnia ed Erzegovina, piano eSIM Bosnia ed Erzegovina, migliore eSIM Bosnia ed Erzegovina, Bosnia ed Erzegovina
-    dati, BH Telecom Bosnia ed Erzegovina, HT Eronet Bosnia ed Erzegovina, m:tel Bosnia ed Erzegovina, eSIM Sarajevo, eSIM
-    Mostar, eSIM Banja Luka, internet mobile Bosnia ed Erzegovina, 5G Bosnia ed Erzegovina
+  title: 'eSIM Bosnia And Herzegovina: 5G e piani dati flessibili | Roami'
+  description: Confronta i piani eSIM Bosnia ed Erzegovina con 5G a Sarajevo, Mostar. Copertura BH Telecom e HT Eronet, attivazione QR in 2 minuti, da $30.99.
+  keywords: eSIM Bosnia ed Erzegovina, piani eSIM Bosnia ed Erzegovina, migliore eSIM Bosnia ed Erzegovina, eSIM Bosnia ed Erzegovina economica, comprare eSIM Bosnia ed Erzegovina online, piani dati eSIM Bosnia ed Erzegovina, eSIM Bosnia ed Erzegovina prepagata, migliore eSIM per Bosnia ed Erzegovina, prezzo eSIM Bosnia ed Erzegovina, attivazione eSIM Bosnia ed Erzegovina, copertura eSIM Bosnia ed Erzegovina, migliore eSIM per Sarajevo, eSIM Sarajevo, eSIM Mostar
+  low_price: '30.99'
+  high_price: '30.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -137,6 +136,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 📍
+    html: 'Per Sarajevo consigliamo di attivare la eSIM all''arrivo: la validità parte al primo collegamento.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -194,11 +197,11 @@ faq_section:
     - q: |
         Esiste un piano minimo per un weekend in Bosnia ed Erzegovina?
       a: |
-        Sì, per viaggi brevi la eSIM è perfetta. Il piano minimo è 7 giorni / 1GB a $1.99 — sufficiente per mappe e messaggi. Per 3-5 giorni di uso attivo consigliamo 3GB ($4.99). Installazione in 2 minuti, acquisto fino a 5 minuti prima della partenza. All'arrivo in Bosnia ed Erzegovina attiva il roaming dati e sei subito online.
+        Sì, per viaggi brevi la eSIM è perfetta. Il piano minimo è 7 giorni / 20GB a $30.99 — sufficiente per mappe e messaggi. Per 3-5 giorni di uso attivo consigliamo 20GB ($30.99). Installazione in 2 minuti, acquisto fino a 5 minuti prima della partenza. All'arrivo in Bosnia ed Erzegovina attiva il roaming dati e sei subito online.
     - q: |
         Conviene comprare una SIM in aeroporto all'arrivo in Bosnia ed Erzegovina?
       a: |
-        La SIM locale in aeroporto costa $10-30 più 15-60 minuti di coda. Con Roami eSIM paghi da $1.99 per 7 giorni e non perdi tempo — installata a casa, pronta all'arrivo. Il tuo numero italiano resta attivo per SMS bancari. La differenza di prezzo è netta: 30-50% in meno con eSIM.
+        La SIM locale in aeroporto costa $10-30 più 15-60 minuti di coda. Con Roami eSIM paghi da $30.99 e non perdi tempo — installata a casa, pronta all'arrivo. Il tuo numero italiano resta attivo per SMS bancari. La differenza di prezzo è netta: 30-50% in meno con eSIM.
     - q: |
         La eSIM funziona anche in zone rurali e fuori città in Bosnia ed Erzegovina?
       a: |
@@ -206,11 +209,11 @@ faq_section:
     - q: |
         I social network funzionano con la eSIM in Bosnia ed Erzegovina?
       a: |
-        Tutte le app funzionano: il feed Instagram si carica in 1-2 secondi, i video TikTok senza buffering, i messaggi Telegram sono istantanei. Al giorno sui social si consumano 200-400MB con uso attivo. 5GB ($9.99) bastano per 12-20 giorni di navigazione moderata.
+        Tutte le app funzionano: il feed Instagram si carica in 1-2 secondi, i video TikTok senza buffering, i messaggi Telegram sono istantanei. Al giorno sui social si consumano 200-400MB con uso attivo. 20GB ($30.99) bastano per 12-20 giorni di navigazione moderata.
     - q: |
         Che qualità hanno le videochiamate con la eSIM in Bosnia ed Erzegovina?
       a: |
-        Sì, le videochiamate funzionano bene. Una chiamata Zoom di 30 minuti consuma circa 150-300MB. Con 5G (100-300 Mbps) la qualità arriva al 4K, con 4G (10-30 Mbps) le chiamate sono comunque nitide. Per lavoro da remoto consiglio il piano 10GB ($14.99) o illimitato ($59.99).
+        Sì, le videochiamate funzionano bene. Una chiamata Zoom di 30 minuti consuma circa 150-300MB. Con 5G (100-300 Mbps) la qualità arriva al 4K, con 4G (10-30 Mbps) le chiamate sono comunque nitide. Per lavoro da remoto consiglio il piano 20GB ($30.99).
     - q: |
         Che errori evitare quando si usa la eSIM per la prima volta in Bosnia ed Erzegovina?
       a: |
@@ -218,5 +221,80 @@ faq_section:
     - q: |
         Si può usare la eSIM come modem per il portatile in Bosnia ed Erzegovina?
       a: |
-        Sì, puoi connettere computer, tablet o un secondo telefono. L'hotspot funziona su tutti i piani senza costi extra. Un dispositivo in condivisione consuma più o meno come se fosse connesso direttamente. Per due viaggiatori, il piano illimitato ($59.99) conviene più di due piani separati.
+        Sì, puoi connettere computer, tablet o un secondo telefono. L'hotspot funziona su tutti i piani senza costi extra. Un dispositivo in condivisione consuma più o meno come se fosse connesso direttamente. Per due viaggiatori, il piano 20GB ($30.99) conviene più di due piani separati.
+    - q: |
+        Come attivo la eSIM per Bosnia ed Erzegovina prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in Bosnia ed Erzegovina.
+    - q: |
+        Quanti GB servono per un viaggio in Bosnia ed Erzegovina?
+      a: |
+        Per un uso leggero (mappe, messaggi) bastano 3-5GB; per social e video 10GB sono l'ideale. I piani Roami per Bosnia ed Erzegovina partono da $30.99 e puoi ricaricare dall'app in tempo reale.
+    - q: |
+        Quanto costa una eSIM per Bosnia ed Erzegovina e conviene rispetto alla SIM locale?
+      a: |
+        I piani Roami per Bosnia ed Erzegovina partono da $30.99 e si acquistano online in pochi clic, senza file in negozio né costi di attivazione. Rispetto a una SIM prepagata locale eviti la registrazione con passaporto e l'attesa allo sportello.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Bulgaria eSIM
+    flag: img/flags/bg.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: bulgaria
+  - name: Croazia eSIM
+    flag: img/flags/hr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: croatia
+  - name: Cipro eSIM
+    flag: img/flags/cy.svg
+    price: A partire da $2,99
+    is_highlight: false
+    slug: cyprus
+  - name: Repubblica Ceca eSIM
+    flag: img/flags/cz.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: czech-republic
+  - name: Danimarca eSIM
+    flag: img/flags/dk.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: denmark
+  - name: Estonia eSIM
+    flag: img/flags/ee.svg
+    price: A partire da $1,99
+    is_highlight: true
+    slug: estonia
+  - name: Isole Fær Øer eSIM
+    flag: img/flags/fo.svg
+    price: A partire da $5,99
+    is_highlight: false
+    slug: faroe-islands
+  - name: Finlandia eSIM
+    flag: img/flags/fi.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: finland
+  - name: Francia eSIM
+    flag: img/flags/fr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: france
+  - name: Georgia eSIM
+    flag: img/flags/ge.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: georgia
+  - name: Germania eSIM
+    flag: img/flags/de.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: germany
+  - name: Grecia eSIM
+    flag: img/flags/gr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: greece
 ---

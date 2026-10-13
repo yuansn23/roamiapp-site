@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Figi 2026: Città & Copertura | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     di sconto con codice: web20'
 seo:
   title: Figi eSIM | Internet veloce senza limiti
-  description: Viaggi in Figi? Attiva la tua eSIM Roami in meno di 2 minuti. Nessuna procedura complicata, ricevi il QR code
-    via email e sei subito online. Copre tutte le regioni.
-  keywords: eSIM Figi, piano eSIM Figi, migliore eSIM Figi, Figi dati, Vodafone Fiji Figi, Digicel Fiji Figi, Telecom Fiji
-    Figi, eSIM Suva, eSIM Nadi, eSIM Lautoka, internet mobile Figi, 5G Figi
+  description: 'Piani eSIM Figi da $6.99: 5G veloce a Suva e Nadi, nessuna registrazione, QR immediato. Perfetta per turisti e viaggi d''affari.'
+  keywords: eSIM Figi, piani eSIM Figi, migliore eSIM Figi, eSIM Figi economica, comprare eSIM Figi online, eSIM Figi dati illimitati, eSIM Figi prepagata, migliore eSIM per Figi, prezzo eSIM Figi, attivazione eSIM Figi, copertura eSIM Figi, migliore eSIM per Suva, eSIM Suva, eSIM Nadi
+  low_price: '6.99'
+  high_price: '94.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -302,6 +302,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📱
+    html: 'Tieni la tua SIM fisica attiva per chiamate e SMS; usa la eSIM Figi solo per la navigazione dati.'
+  - icon: 📍
+    html: 'Per Suva consigliamo di attivare la eSIM all''arrivo: la validità parte al primo collegamento.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -354,15 +358,15 @@ faq_section:
     title: Figi eSIM FAQ
     questions:
     - q: |
-        La eSIM supporta la modalità hotspot per altri dispositivi?
+        Posso usare la eSIM come hotspot per altri dispositivi?
       a: |
-        Sì, puoi connettere computer, tablet o un secondo telefono. L'hotspot funziona su tutti i piani senza costi extra. Un dispositivo in condivisione consuma più o meno come se fosse connesso direttamente. Per due viaggiatori, il piano illimitato ($59.99) conviene più di due piani separati.
+        Sì, puoi connettere computer, tablet o un secondo telefono. L'hotspot funziona su tutti i piani senza costi extra. Un dispositivo in condivisione consuma più o meno come se fosse connesso direttamente. Per due viaggiatori, il piano illimitato ($21.99) conviene più di due piani separati.
     - q: |
         Che copertura c'è in campagna e nelle aree remote alle Figi?
       a: |
         Nelle città la copertura 4G/5G è eccellente (50-300 Mbps). Fuori città il segnale cala: 5-15 Mbps nei paesi, 2-5 Mbps nei parchi naturali e montagne. Mappe e messaggistica funzionano ovunque, i video potrebbero caricare lentamente. Consiglio: scarica le mappe offline in hotel per sicurezza.
     - q: |
-        Dopo l'acquisto della eSIM, cosa devo fare per attivarla?
+        Una volta acquistata la eSIM, come si attiva?
       a: |
         Il QR code arriva via email entro 5 minuti dal pagamento. Installazione su iPhone: Impostazioni > Cellulare > Aggiungi eSIM. Su Android: Impostazioni > Rete > Aggiungi eSIM. Processo totale: circa 2 minuti. Consigliamo di installare prima della partenza con WiFi di casa. All'arrivo attiva il roaming dati e sei online.
     - q: |
@@ -372,7 +376,7 @@ faq_section:
     - q: |
         Qual è la migliore eSIM da acquistare per un viaggio alle Figi?
       a: |
-        Roami eSIM funziona sulla rete Vodafone — uno dei principali operatori con copertura del 95% del territorio. 5GB a $9.99 è l'opzione ottimale per il turista medio. Se il viaggio dura più di due settimane, scegli 10GB ($14.99). Supporto 24/7 con risposta in 2 minuti.
+        Roami eSIM funziona sulla rete Vodafone — uno dei principali operatori con copertura del 95% del territorio. 5GB a $10.99 è l'opzione ottimale per il turista medio. Se il viaggio dura più di due settimane, scegli 10GB ($18.99). Supporto 24/7 con risposta in 2 minuti.
     - q: |
         Meglio eSIM o SIM fisica per un viaggio alle Figi?
       a: |
@@ -384,7 +388,82 @@ faq_section:
     - q: |
         Quanto traffico dati consuma un turista al giorno alle Figi?
       a: |
-        L'uso tipico giornaliero: navigatore 50-80MB/h, social 150-200MB, messaggistica 50-100MB. Con video streaming si sale a 1-2GB/h. 5GB ($9.99) sono sufficienti per 7-10 giorni di uso moderato. Consiglio: scarica le mappe offline in hotel per risparmiare traffico.
+        L'uso tipico giornaliero: navigatore 50-80MB/h, social 150-200MB, messaggistica 50-100MB. Con video streaming si sale a 1-2GB/h. 5GB ($10.99) sono sufficienti per 7-10 giorni di uso moderato. Consiglio: scarica le mappe offline in hotel per risparmiare traffico.
+    - q: |
+        La eSIM ha copertura 5G in tutte le città di Figi?
+      a: |
+        Sì, la eSIM Roami si aggancia alle reti Vodafone Fiji e Digicel Fiji e offre 4G/5G nelle principali città come Suva e Nadi. Nelle zone rurali la copertura resta solida in 4G.
+    - q: |
+        A Suva la connessione è veloce con la eSIM?
+      a: |
+        A Suva la eSIM Roami sfrutta la rete 5G/4G locale: velocità tipiche di 50-200 Mbps in centro. Ottima per mappe, social e videochiamate.
+    - q: |
+        Posso usare la eSIM Figi e la mia SIM italiana insieme?
+      a: |
+        Sì: la eSIM gestisce i dati mentre la tua SIM italiana resta attiva per chiamate e SMS. Puoi scegliere in Impostazioni quale linea usare per voce, SMS e dati.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Guam eSIM
+    flag: img/flags/gu.svg
+    price: A partire da $9,99
+    is_highlight: false
+    slug: guam
+  - name: Nuova Zelanda eSIM
+    flag: img/flags/nz.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: new-zealand
+  - name: Australia eSIM
+    flag: img/flags/au.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: australia
+  - name: UK eSIM
+    flag: img/flags/gb.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: united-kingdom
+  - name: Giappone eSIM
+    flag: img/flags/jp.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: japan
+  - name: Francia eSIM
+    flag: img/flags/fr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: france
+  - name: Germania eSIM
+    flag: img/flags/de.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: germany
+  - name: Spagna eSIM
+    flag: img/flags/es.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: spain
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: A partire da $3,99
+    is_highlight: true
+    slug: canada
+  - name: Cina eSIM
+    flag: img/flags/cn.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: china
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: hong-kong
+  - name: Turchia eSIM
+    flag: img/flags/tr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: turkey
 market_analysis:
   title: "eSIM o prepagata in Figi: quale fa per te?"
   subtitle: "Confronto tra SIM prepagate locali figiane e soluzioni eSIM (riferimento 2024/2025)"

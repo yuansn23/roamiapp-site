@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Filippine 2026: Città & Copertura | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,10 +19,10 @@ modal:
     di sconto con codice: web20'
 seo:
   title: Filippine eSIM | Prepagato senza vincoli
-  description: Per il tuo viaggio in Filippine, la eSIM Roami è operativa in 2 minuti. Attivazione rapida, senza stress, connessione
-    immediata all'arrivo. Copre tutte le regioni.
-  keywords: eSIM Filippine, piano eSIM Filippine, migliore eSIM Filippine, Filippine dati, Globe Filippine, Smart Filippine,
-    Dito Filippine, eSIM Manila, eSIM Cebu City, eSIM Davao City, internet mobile Filippine, 5G Filippine
+  description: 'eSIM Filippine: 5G a Manila, Cebu City e Davao City, senza vincoli né costi nascosti. Attivazione QR istantanea, prezzi da $2.99.'
+  keywords: eSIM Filippine, piani eSIM Filippine, migliore eSIM Filippine, eSIM Filippine economica, comprare eSIM Filippine online, eSIM Filippine dati illimitati, eSIM Filippine prepagata, migliore eSIM per Filippine, prezzo eSIM Filippine, attivazione eSIM Filippine, copertura eSIM Filippine, migliore eSIM per Manila, eSIM Manila, eSIM Cebu City
+  low_price: '2.99'
+  high_price: '70.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -334,6 +334,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 🗺️
+    html: 'A Manila e Cebu City il 5G copre le zone centrali: scarica le mappe offline prima di partire.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -396,7 +400,7 @@ faq_section:
     - q: |
         Qual è la migliore eSIM da acquistare per un viaggio nelle Filippine?
       a: |
-        Roami eSIM funziona sulla rete Globe — uno dei principali operatori con copertura del 95% del territorio. 5GB a $9.99 è l'opzione ottimale per il turista medio. Se il viaggio dura più di due settimane, scegli 10GB ($14.99). Supporto 24/7 con risposta in 2 minuti.
+        Roami eSIM funziona sulla rete Globe — uno dei principali operatori con copertura del 95% del territorio. 5GB a $6.99 è l'opzione ottimale per il turista medio. Se il viaggio dura più di due settimane, scegli 10GB ($7.99). Supporto 24/7 con risposta in 2 minuti.
     - q: |
         Che velocità internet posso aspettarmi con la eSIM nelle Filippine?
       a: |
@@ -412,11 +416,86 @@ faq_section:
     - q: |
         La eSIM è adatta per viaggi brevi di 2-3 giorni nelle Filippine?
       a: |
-        Sì, per viaggi brevi la eSIM è perfetta. Il piano minimo è 7 giorni / 1GB a $1.99 — sufficiente per mappe e messaggi. Per 3-5 giorni di uso attivo consigliamo 3GB ($4.99). Installazione in 2 minuti, acquisto fino a 5 minuti prima della partenza. All'arrivo nelle Filippine attiva il roaming dati e sei subito online.
+        Sì, per viaggi brevi la eSIM è perfetta. Il piano minimo è 7 giorni / 1GB a $3.99 — sufficiente per mappe e messaggi. Per 3-5 giorni di uso attivo consigliamo 3GB ($4.99). Installazione in 2 minuti, acquisto fino a 5 minuti prima della partenza. All'arrivo nelle Filippine attiva il roaming dati e sei subito online.
     - q: |
         Instagram, TikTok e Telegram sono accessibili con eSIM nelle Filippine?
       a: |
-        Sì, tutti i social funzionano senza limiti. Instagram, TikTok, Facebook, Telegram — il caricamento delle foto richiede 2-3 secondi su 4G. Con 5GB ($9.99) puoi caricare circa 5000 foto o guardare 10 ore di video. Per uso intensivo di social con video è meglio 10GB ($14.99).
+        Sì, tutti i social funzionano senza limiti. Instagram, TikTok, Facebook, Telegram — il caricamento delle foto richiede 2-3 secondi su 4G. Con 5GB ($6.99) puoi caricare circa 5000 foto o guardare 10 ore di video. Per uso intensivo di social con video è meglio 10GB ($7.99).
+    - q: |
+        Quanto costa una eSIM per Filippine e conviene rispetto alla SIM locale?
+      a: |
+        I piani Roami per Filippine partono da $2.99 e si acquistano online in pochi clic, senza file in negozio né costi di attivazione. Rispetto a una SIM prepagata locale eviti la registrazione con passaporto e l'attesa allo sportello.
+    - q: |
+        La eSIM ha copertura 5G in tutte le città di Filippine?
+      a: |
+        Sì, la eSIM Roami si aggancia alle reti Globe e Smart e offre 4G/5G nelle principali città come Manila e Cebu City. Nelle zone rurali la copertura resta solida in 4G.
+    - q: |
+        A Manila la connessione è veloce con la eSIM?
+      a: |
+        A Manila la eSIM Roami sfrutta la rete 5G/4G locale: velocità tipiche di 50-200 Mbps in centro. Ottima per mappe, social e videochiamate.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Singapore eSIM
+    flag: img/flags/sg.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: singapore
+  - name: Corea del Sud eSIM
+    flag: img/flags/kr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: south-korea
+  - name: Sri Lanka eSIM
+    flag: img/flags/lk.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: sri-lanka
+  - name: Taiwan eSIM
+    flag: img/flags/tw.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: taiwan
+  - name: Thailandia eSIM
+    flag: img/flags/th.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: thailand
+  - name: Uzbekistan eSIM
+    flag: img/flags/uz.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: uzbekistan
+  - name: Vietnam eSIM
+    flag: img/flags/vn.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: vietnam
+  - name: Afghanistan eSIM
+    flag: img/flags/af.svg
+    price: A partire da $11,99
+    is_highlight: true
+    slug: afghanistan
+  - name: Bangladesh eSIM
+    flag: img/flags/bd.svg
+    price: A partire da $5,99
+    is_highlight: false
+    slug: bangladesh
+  - name: Brunei eSIM
+    flag: img/flags/bn.svg
+    price: A partire da $9,99
+    is_highlight: false
+    slug: brunei
+  - name: Cambogia eSIM
+    flag: img/flags/kh.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: cambodia
+  - name: Cina eSIM
+    flag: img/flags/cn.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: china
 market_analysis:
   title: "eSIM vs SIM prepagata in Filippine: le differenze chiave"
   subtitle: "Confronto tra SIM prepagate locali filippine e soluzioni eSIM (riferimento 2024/2025)"

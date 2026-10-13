@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Canada 2026: Città & Copertura | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -22,8 +22,9 @@ seo:
   title: Canada eSIM | Compra al miglior prezzo online
   description: Viaggia in Canada in libertà con Roami. Nessun rinnovo automatico, nessuna penale di recesso. Usala e basta.
     Copre Toronto, Vancouver & tutto il Canada.
-  keywords: eSIM Canada, piano eSIM Canada, migliore eSIM Canada, Canada dati, Rogers Canada, Bell Canada, Telus Canada, eSIM
-    Toronto, eSIM Vancouver, eSIM Montreal, internet mobile Canada, 5G Canada
+  keywords: eSIM Canada, piani eSIM Canada, migliore eSIM Canada, eSIM Canada economica, comprare eSIM Canada online, eSIM Canada dati illimitati, eSIM Canada prepagata, migliore eSIM per Canada, prezzo eSIM Canada, attivazione eSIM Canada, copertura eSIM Canada, migliore eSIM per Toronto, eSIM Toronto, eSIM Vancouver
+  low_price: '3.99'
+  high_price: '59.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -335,6 +336,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 🗺️
+    html: 'A Toronto e Vancouver il 5G copre le zone centrali: scarica le mappe offline prima di partire.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -388,7 +393,7 @@ faq_section:
     - q: |
         Posso condividere internet dalla eSIM al computer in Canada?
       a: |
-        Sì, puoi connettere computer, tablet o un secondo telefono. L'hotspot funziona su tutti i piani senza costi extra. Un dispositivo in condivisione consuma più o meno come se fosse connesso direttamente. Per due viaggiatori, il piano illimitato ($59.99) conviene più di due piani separati.
+        Sì, puoi connettere computer, tablet o un secondo telefono. L'hotspot funziona su tutti i piani senza costi extra. Un dispositivo in condivisione consuma più o meno come se fosse connesso direttamente. Per due viaggiatori, il piano illimitato ($22.99) conviene più di due piani separati.
     - q: |
         Posso acquistare la eSIM all'ultimo minuto prima del volo per il Canada?
       a: |
@@ -416,7 +421,82 @@ faq_section:
     - q: |
         Meglio eSIM o SIM fisica per un viaggio in Canada?
       a: |
-        La eSIM è meglio: costa il 30-50% in meno, non devi cambiare SIM, puoi installarla prima di partire. La SIM fisica richiede coda in aeroporto e passaporto — 15-30 minuti persi. Roami eSIM da $1.99, installazione in 2 minuti. Se hai iPhone XR o più recente, o un Android moderno, la eSIM è la scelta migliore. Il tuo numero italiano resta attivo per SMS e chiamate.
+        La eSIM è meglio: costa il 30-50% in meno, non devi cambiare SIM, puoi installarla prima di partire. La SIM fisica richiede coda in aeroporto e passaporto — 15-30 minuti persi. Roami eSIM da $3.99, installazione in 2 minuti. Se hai iPhone XR o più recente, o un Android moderno, la eSIM è la scelta migliore. Il tuo numero italiano resta attivo per SMS e chiamate.
+    - q: |
+        Quanto costa una eSIM per Canada e conviene rispetto alla SIM locale?
+      a: |
+        I piani Roami per Canada partono da $3.99 e si acquistano online in pochi clic, senza file in negozio né costi di attivazione. Rispetto a una SIM prepagata locale eviti la registrazione con passaporto e l'attesa allo sportello.
+    - q: |
+        La eSIM ha copertura 5G in tutte le città di Canada?
+      a: |
+        Sì, la eSIM Roami si aggancia alle reti Rogers e Bell e offre 4G/5G nelle principali città come Toronto e Vancouver. Nelle zone rurali la copertura resta solida in 4G.
+    - q: |
+        A Toronto la connessione è veloce con la eSIM?
+      a: |
+        A Toronto la eSIM Roami sfrutta la rete 5G/4G locale: velocità tipiche di 50-200 Mbps in centro. Ottima per mappe, social e videochiamate.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Messico eSIM
+    flag: img/flags/mx.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: mexico
+  - name: USA eSIM
+    flag: img/flags/us.svg
+    price: A partire da $1,99
+    is_highlight: true
+    slug: united-states
+  - name: UK eSIM
+    flag: img/flags/gb.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: united-kingdom
+  - name: Giappone eSIM
+    flag: img/flags/jp.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: japan
+  - name: Francia eSIM
+    flag: img/flags/fr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: france
+  - name: Germania eSIM
+    flag: img/flags/de.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: germany
+  - name: Spagna eSIM
+    flag: img/flags/es.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: spain
+  - name: Cina eSIM
+    flag: img/flags/cn.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: china
+  - name: Australia eSIM
+    flag: img/flags/au.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: australia
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: hong-kong
+  - name: Turchia eSIM
+    flag: img/flags/tr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: turkey
+  - name: Italia eSIM
+    flag: img/flags/it.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: italy
 market_analysis:
   title: "Guida completa al confronto eSIM vs SIM card in Canada"
   subtitle: "Confronto tra SIM prepagate locali canadesi e soluzioni eSIM (riferimento 2024/2025)"

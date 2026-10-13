@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Guyana 2026: Operatori Locali | Roami'
-date: '2026-06-15T08:51:27+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Digicel, GTT, E-Networks
   competitors: Airalo, Holafly, Nomad eSIM, Ubigi, Flexiroam
   main_cities: Georgetown, Linden, New Amsterdam, Lethem, Bartica
-  main_packages: 3/7/15/30 giorni, dati illimitati
+  main_packages: 1GB/3GB/5GB/6GB, 7/15/30 giorni
 modal:
   title: Aggiornamento del servizio!
   btn_text: Continua
@@ -19,11 +19,11 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: 'Guyana eSIM: 5G Coverage from $1.99/Day'
-  description: Confronta i piani eSIM Guyana con 5G a Georgetown, Linden, New Amsterdam. Guida alla copertura Digicel & GTT
-    & E-Networks. Attivazione QR istantanea da $1.99.
-  keywords: eSIM Guyana, piano eSIM Guyana, migliore eSIM Guyana, Guyana dati, Digicel Guyana, GTT Guyana, E-Networks Guyana,
-    eSIM Georgetown, eSIM Linden, eSIM New Amsterdam, internet mobile Guyana, 5G Guyana
+  title: 'eSIM Guyana: 5G veloce e nessun contratto | Roami'
+  description: Confronta i piani eSIM Guyana con 5G a Georgetown, Linden. Copertura Digicel e GTT, attivazione QR in 2 minuti, da $9.99.
+  keywords: eSIM Guyana, piani eSIM Guyana, migliore eSIM Guyana, eSIM Guyana economica, comprare eSIM Guyana online, piani dati eSIM Guyana, eSIM Guyana prepagata, migliore eSIM per Guyana, prezzo eSIM Guyana, attivazione eSIM Guyana, copertura eSIM Guyana, migliore eSIM per Georgetown, eSIM Georgetown, eSIM Linden
+  low_price: '9.99'
+  high_price: '49.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -163,6 +163,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 🏙️
+    html: 'Copertura ottimale a Georgetown e Linden: hotspot incluso per condividere i dati con chi viaggia con te.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -227,15 +231,15 @@ faq_section:
     - q: |
         Posso condividere internet dalla eSIM al computer in Guyana?
       a: |
-        Sì, puoi connettere computer, tablet o un secondo telefono. L'hotspot funziona su tutti i piani senza costi extra. Un dispositivo in condivisione consuma più o meno come se fosse connesso direttamente. Per due viaggiatori, il piano illimitato ($59.99) conviene più di due piani separati.
+        Sì, puoi connettere computer, tablet o un secondo telefono. L'hotspot funziona su tutti i piani senza costi extra. Un dispositivo in condivisione consuma più o meno come se fosse connesso direttamente. Per due viaggiatori, il piano 6GB ($18.99) conviene più di due piani separati.
     - q: |
         Quanto traffico dati consuma un turista al giorno in Guyana?
       a: |
-        Un turista medio consuma 300-500MB al giorno tra mappe, social e messaggistica. Con video si arriva a 1-2GB/giorno. Per una settimana bastano 5GB ($9.99), per due settimane 10GB ($14.99). Puoi sempre ricaricare dall'app se il traffico finisce prima.
+        Un turista medio consuma 300-500MB al giorno tra mappe, social e messaggistica. Con video si arriva a 1-2GB/giorno. Per una settimana bastano 5GB ($49.99), per due settimane 6GB ($18.99). Puoi sempre ricaricare dall'app se il traffico finisce prima.
     - q: |
         Si può ricaricare la eSIM da remoto durante il viaggio in Guyana?
       a: |
-        Sì, dall'app Roami, in tempo reale. Senza nuovo QR code e senza reinstallare. Consigliamo di ricaricare quando il saldo è al 20%. Roami invia notifiche al 70% e 90% di utilizzo. Pacchetti aggiuntivi disponibili: 1GB ($1.99), 3GB ($4.99), 5GB ($9.99).
+        Sì, dall'app Roami, in tempo reale. Senza nuovo QR code e senza reinstallare. Consigliamo di ricaricare quando il saldo è al 20%. Roami invia notifiche al 70% e 90% di utilizzo. Pacchetti aggiuntivi disponibili: 1GB ($9.99), 3GB ($30.99), 5GB ($49.99).
     - q: |
         La eSIM supporta lo streaming video in buona qualità in Guyana?
       a: |
@@ -244,71 +248,81 @@ faq_section:
         Devo togliere la SIM fisica per usare la eSIM in Guyana?
       a: |
         SIM fisica e eSIM funzionano benissimo insieme. Nelle impostazioni del telefono puoi specificare: SIM 1 — voce e SMS (numero italiano), eSIM — solo dati. La batteria dura solo il 5-8% in meno, praticamente impercettibile. Il tuo numero resta attivo per ricevere SMS bancari.
+    - q: |
+        A Georgetown la connessione è veloce con la eSIM?
+      a: |
+        A Georgetown la eSIM Roami sfrutta la rete 5G/4G locale: velocità tipiche di 50-200 Mbps in centro. Ottima per mappe, social e videochiamate.
+    - q: |
+        Posso usare la eSIM Guyana e la mia SIM italiana insieme?
+      a: |
+        Sì: la eSIM gestisce i dati mentre la tua SIM italiana resta attiva per chiamate e SMS. Puoi scegliere in Impostazioni quale linea usare per voce, SMS e dati.
+    - q: |
+        Come attivo la eSIM per Guyana prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in Guyana.
 related_products:
   title: Piani eSIM simili
   items:
-  - name: Stati Uniti eSIM
-    flag: img/flags/us.svg
-    price: A partire da $1,99
+  - name: Paraguay eSIM
+    flag: img/flags/py.svg
+    price: A partire da $22,99
     is_highlight: false
-    slug: united-states-esim
-  - name: Regno Unito eSIM
-    flag: img/flags/gb.svg
-    price: A partire da $1,99
+    slug: paraguay
+  - name: Perù eSIM
+    flag: img/flags/pe.svg
+    price: A partire da $4,99
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: A partire da $1,99
+    slug: peru
+  - name: Uruguay eSIM
+    flag: img/flags/uy.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: uruguay
+  - name: Argentina eSIM
+    flag: img/flags/ar.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: argentina
+  - name: Bolivia eSIM
+    flag: img/flags/bo.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: bolivia
+  - name: Brasile eSIM
+    flag: img/flags/br.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: brazil
+  - name: Cile eSIM
+    flag: img/flags/cl.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: chile
+  - name: Colombia eSIM
+    flag: img/flags/co.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: colombia
+  - name: Ecuador eSIM
+    flag: img/flags/ec.svg
+    price: A partire da $6,99
+    is_highlight: false
+    slug: ecuador
+  - name: Guyana francese eSIM
+    flag: img/flags/gf.svg
+    price: A partire da $3,99
     is_highlight: true
-    slug: europe-esim
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: canada-esim
-  - name: Turchia eSIM
-    flag: img/flags/tr.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: turkey-esim
+    slug: french-guiana
   - name: Cina eSIM
     flag: img/flags/cn.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: china-esim
-  - name: Giappone eSIM
-    flag: img/flags/jp.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: japan-esim
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: Francia eSIM
-    flag: img/flags/fr.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: france-esim
-  - name: Spagna eSIM
-    flag: img/flags/es.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: spain-esim
-  - name: Germania eSIM
-    flag: img/flags/de.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: germany-esim
+    slug: china
   - name: Australia eSIM
     flag: img/flags/au.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: australia-esim
-
-# =============== Modulo di confronto basato su dati ===============
+    slug: australia
 market_analysis:
   title: "Confronto diretto tra eSIM e SIM prepagata in Guyana"
   subtitle: "Confronto tra SIM prepagate locali guyanesi e soluzioni eSIM (riferimento 2024/2025)"

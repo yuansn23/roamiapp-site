@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Uzbekistan 2026: Viaggio & Rete | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,10 +20,10 @@ modal:
     di sconto con codice: web20'
 seo:
   title: Uzbekistan eSIM | Ricarica immediata senza contratto
-  description: Resta connesso in Uzbekistan con Roami. Naviga, condividi, guarda video in streaming con il 5G veloce. La connessione
-    perfetta per il tuo viaggio. Copre tutte le regioni.
-  keywords: eSIM Uzbekistan, piano eSIM Uzbekistan, migliore eSIM Uzbekistan, Uzbekistan dati, Ucell Uzbekistan, Beeline Uzbekistan
-    Uzbekistan, Mobiuz Uzbekistan, eSIM Tashkent, eSIM Samarcanda, eSIM Bukhara, internet mobile Uzbekistan, 5G Uzbekistan
+  description: Confronta i piani eSIM Uzbekistan con 5G a Tashkent, Samarcanda. Copertura Ucell e Beeline Uzbekistan, attivazione QR in 2 minuti, da $3.99.
+  keywords: eSIM Uzbekistan, piani eSIM Uzbekistan, migliore eSIM Uzbekistan, eSIM Uzbekistan economica, comprare eSIM Uzbekistan online, eSIM Uzbekistan dati illimitati, eSIM Uzbekistan prepagata, migliore eSIM per Uzbekistan, prezzo eSIM Uzbekistan, attivazione eSIM Uzbekistan, copertura eSIM Uzbekistan, migliore eSIM per Tashkent, eSIM Tashkent, eSIM Samarcanda
+  low_price: '3.99'
+  high_price: '96.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -238,6 +238,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 🏙️
+    html: 'Copertura ottimale a Tashkent e Samarcanda: hotspot incluso per condividere i dati con chi viaggia con te.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -302,86 +306,98 @@ faq_section:
       a: |
         Tre passaggi da 30 secondi ciascuno: 1) Il roaming dati è attivo nelle impostazioni? 2) Prova la selezione manuale dell'operatore: scegli Ucell dalla lista. 3) Riavvia il telefono. Il 90% dei problemi si risolve con uno di questi passaggi. Se non funziona, il supporto Roami 24/7 risponde in 2 minuti.
     - q: |
-        Quali sono i passaggi per attivare la eSIM e iniziare a usarla?
+        Come attivare la eSIM e iniziare subito a usarla?
       a: |
         1) Acquista il piano sul sito Roami (30 sec). 2) Ricevi il QR code via email (fino a 5 min). 3) Su iPhone: Impostazioni > Cellulare > Aggiungi eSIM. Su Android: Impostazioni > Connessioni > Gestore SIM > eSIM. 4) Scannerizza il QR code. 5) Assegna la eSIM per i dati. 6) All'arrivo in Uzbekistan attiva il roaming dati. Fatto!
     - q: |
         Quanto pago realmente per la eSIM per l'Uzbekistan — ci sono extra?
       a: |
-        No, il prezzo è finale. I piani partono da $1.99 (7 giorni, 1GB). Senza tasse, senza canone mensile, senza rinnovo automatico. Il piano scade automaticamente alla data di fine — nessuna sorpresa. Il prezzo sul sito Roami è quello che paghi.
+        No, il prezzo è finale. I piani partono da $3.99 (7 giorni, 1GB). Senza tasse, senza canone mensile, senza rinnovo automatico. Il piano scade automaticamente alla data di fine — nessuna sorpresa. Il prezzo sul sito Roami è quello che paghi.
     - q: |
         Meglio eSIM o pocket WiFi per viaggiare in Uzbekistan?
       a: |
-        Pocket WiFi: da portare sempre con sé, ricaricare ogni sera, restituire in aeroporto. Costa $5-10/giorno più deposito $50-100. eSIM Roami: installazione in 2 minuti, da $1.99/giorno, niente da restituire. Puoi condividere internet con altri dispositivi. La eSIM vince per comodità e prezzo.
+        Pocket WiFi: da portare sempre con sé, ricaricare ogni sera, restituire in aeroporto. Costa $5-10/giorno più deposito $50-100. eSIM Roami: installazione in 2 minuti, da $0.30/giorno, niente da restituire. Puoi condividere internet con altri dispositivi. La eSIM vince per comodità e prezzo.
     - q: |
         Si può lavorare da remoto con la eSIM in Uzbekistan?
       a: |
-        Sì, la eSIM è perfetta per il lavoro da remoto. Con 5G le velocità raggiungono 100-300 Mbps, sufficienti per videoconferenze Zoom/Teams e invio di file pesanti. Con 4G (10-30 Mbps) puoi lavorare con email e documenti. Per lavoro consigliamo 10GB ($14.99) a settimana o illimitato ($59.99). La eSIM supporta anche la condivisione internet verso il computer.
+        Sì, la eSIM è perfetta per il lavoro da remoto. Con 5G le velocità raggiungono 100-300 Mbps, sufficienti per videoconferenze Zoom/Teams e invio di file pesanti. Con 4G (10-30 Mbps) puoi lavorare con email e documenti. Per lavoro consigliamo 10GB ($19.99) a settimana o illimitato ($12.99). La eSIM supporta anche la condivisione internet verso il computer.
     - q: |
         Quale piano eSIM scegliere per un viaggio in Uzbekistan?
       a: |
-        I piani Roami partono da $1.99 (7 giorni, 1GB) fino a $59.99 (30 giorni, illimitato). Il piano più popolare è 5GB/15 giorni a $9.99 — sufficiente per navigazione, social e messaggistica. Per uso intensivo con video, scegli 10GB ($14.99) o illimitato ($59.99). Tutti i piani sono prepagati, senza costi nascosti e senza rinnovo automatico.
+        I piani Roami partono da $3.99 (7 giorni, 1GB) fino a $96.99 (30 giorni, illimitato). Il piano più popolare è 5GB/15 giorni a $11.99 — sufficiente per navigazione, social e messaggistica. Per uso intensivo con video, scegli 10GB ($19.99) o illimitato ($12.99). Tutti i piani sono prepagati, senza costi nascosti e senza rinnovo automatico.
+    - q: |
+        A Tashkent la connessione è veloce con la eSIM?
+      a: |
+        A Tashkent la eSIM Roami sfrutta la rete 5G/4G locale: velocità tipiche di 50-200 Mbps in centro. Ottima per mappe, social e videochiamate.
+    - q: |
+        Posso usare la eSIM Uzbekistan e la mia SIM italiana insieme?
+      a: |
+        Sì: la eSIM gestisce i dati mentre la tua SIM italiana resta attiva per chiamate e SMS. Puoi scegliere in Impostazioni quale linea usare per voce, SMS e dati.
+    - q: |
+        Come attivo la eSIM per Uzbekistan prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in Uzbekistan.
 related_products:
   title: Piani eSIM simili
   items:
-  - name: Stati Uniti eSIM
-    flag: img/flags/us.svg
+  - name: Vietnam eSIM
+    flag: img/flags/vn.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: united-states-esim
-  - name: Regno Unito eSIM
-    flag: img/flags/gb.svg
-    price: A partire da $1,99
+    slug: vietnam
+  - name: Afghanistan eSIM
+    flag: img/flags/af.svg
+    price: A partire da $11,99
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: A partire da $1,99
-    is_highlight: true
-    slug: europe-esim
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: A partire da $1,99
+    slug: afghanistan
+  - name: Bangladesh eSIM
+    flag: img/flags/bd.svg
+    price: A partire da $5,99
     is_highlight: false
-    slug: canada-esim
-  - name: Turchia eSIM
-    flag: img/flags/tr.svg
-    price: A partire da $1,99
+    slug: bangladesh
+  - name: Brunei eSIM
+    flag: img/flags/bn.svg
+    price: A partire da $9,99
     is_highlight: false
-    slug: turkey-esim
+    slug: brunei
+  - name: Cambogia eSIM
+    flag: img/flags/kh.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: cambodia
   - name: Cina eSIM
     flag: img/flags/cn.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: china-esim
-  - name: Giappone eSIM
-    flag: img/flags/jp.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: japan-esim
+    slug: china
   - name: Hong Kong eSIM
     flag: img/flags/hk.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: Francia eSIM
-    flag: img/flags/fr.svg
+    slug: hong-kong
+  - name: India eSIM
+    flag: img/flags/in.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: india
+  - name: Indonesia eSIM
+    flag: img/flags/id.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: france-esim
-  - name: Spagna eSIM
-    flag: img/flags/es.svg
+    slug: indonesia
+  - name: Giappone eSIM
+    flag: img/flags/jp.svg
     price: A partire da $1,99
+    is_highlight: true
+    slug: japan
+  - name: Kazakistan eSIM
+    flag: img/flags/kz.svg
+    price: A partire da $3,99
     is_highlight: false
-    slug: spain-esim
-  - name: Germania eSIM
-    flag: img/flags/de.svg
-    price: A partire da $1,99
+    slug: kazakhstan
+  - name: Kirghizistan eSIM
+    flag: img/flags/kg.svg
+    price: A partire da $4,99
     is_highlight: false
-    slug: germany-esim
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: australia-esim
+    slug: kyrgyzstan
 ---

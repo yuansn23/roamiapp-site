@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Arabia Saudita 2026: Viaggio & Rete | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,11 +20,10 @@ modal:
     di sconto con codice: web20'
 seo:
   title: Arabia Saudita eSIM | Dati illimitati per viaggiare
-  description: 'Roami per Arabia Saudita: installazione rapida e attivazione immediata. Pronta prima ancora di atterrare.
-    La soluzione più semplice per viaggiare. Copre tutte le regioni.'
-  keywords: eSIM Arabia Saudita, piano eSIM Arabia Saudita, migliore eSIM Arabia Saudita, Arabia Saudita dati, STC Arabia
-    Saudita, Mobily Arabia Saudita, Zain Arabia Saudita, eSIM Riyadh, eSIM Jeddah, eSIM La Mecca, internet mobile Arabia Saudita,
-    5G Arabia Saudita
+  description: 'Viaggi in Arabia Saudita? Scegli la eSIM Roami: 5G a Riyadh e Jeddah, supporto 24/7 e attivazione in 2 minuti. Da $3.99.'
+  keywords: eSIM Arabia Saudita, piani eSIM Arabia Saudita, migliore eSIM Arabia Saudita, eSIM Arabia Saudita economica, comprare eSIM Arabia Saudita online, eSIM Arabia Saudita dati illimitati, eSIM Arabia Saudita prepagata, migliore eSIM per Arabia Saudita, prezzo eSIM Arabia Saudita, attivazione eSIM Arabia Saudita, copertura eSIM Arabia Saudita, migliore eSIM per Riyadh, eSIM Riyadh, eSIM Jeddah
+  low_price: '3.99'
+  high_price: '96.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -320,6 +319,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 🗺️
+    html: 'A Riyadh e Jeddah il 5G copre le zone centrali: scarica le mappe offline prima di partire.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -374,15 +377,15 @@ faq_section:
     - q: |
         Qual è la migliore eSIM da acquistare per un viaggio in Arabia Saudita?
       a: |
-        La scelta migliore per la maggior parte è 5GB/15 giorni a $9.99. Abbastanza per navigazione, social e messaggistica con circa 300-500MB al giorno. Se guardi video o lavori da remoto, scegli 10GB ($14.99) o illimitato ($59.99). Tutti i piani sono prepagati, senza costi nascosti. Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
+        La scelta migliore per la maggior parte è 5GB/15 giorni a $11.99. Abbastanza per navigazione, social e messaggistica con circa 300-500MB al giorno. Se guardi video o lavori da remoto, scegli 10GB ($14.99) o illimitato ($18.99). Tutti i piani sono prepagati, senza costi nascosti. Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
     - q: |
         Quanto internet serve per il navigatore e le mappe in Arabia Saudita?
       a: |
-        Google Maps consuma circa 5MB all'ora — qualsiasi piano Roami (da $1.99) va bene per la navigazione. Per scaricare le mappe di una città servono 200-500MB, fallo prima con WiFi. Se ascolti anche musica e usi social in viaggio, bastano 5GB ($9.99) a settimana. La navigazione funziona anche su 3G lento — non ti perderai.
+        Google Maps consuma circa 5MB all'ora — qualsiasi piano Roami (da $3.99) va bene per la navigazione. Per scaricare le mappe di una città servono 200-500MB, fallo prima con WiFi. Se ascolti anche musica e usi social in viaggio, bastano 5GB ($9.99) a settimana. La navigazione funziona anche su 3G lento — non ti perderai.
     - q: |
         Meglio ordinare eSIM online o comprare SIM locale all'aeroporto in Arabia Saudita?
       a: |
-        La SIM locale in aeroporto costa $10-30 più 15-60 minuti di coda. Con Roami eSIM paghi da $1.99 per 7 giorni e non perdi tempo — installata a casa, pronta all'arrivo. Il tuo numero italiano resta attivo per SMS bancari. La differenza di prezzo è netta: 30-50% in meno con eSIM.
+        La SIM locale in aeroporto costa $10-30 più 15-60 minuti di coda. Con Roami eSIM paghi da $3.99 per 7 giorni e non perdi tempo — installata a casa, pronta all'arrivo. Il tuo numero italiano resta attivo per SMS bancari. La differenza di prezzo è netta: 30-50% in meno con eSIM.
     - q: |
         Basta scansionare il QR code per attivare la eSIM per l'Arabia Saudita?
       a: |
@@ -402,72 +405,82 @@ faq_section:
     - q: |
         La eSIM è adatta per viaggi brevi di 2-3 giorni in Arabia Saudita?
       a: |
-        Sì, per viaggi brevi la eSIM è perfetta. Il piano minimo è 7 giorni / 1GB a $1.99 — sufficiente per mappe e messaggi. Per 3-5 giorni di uso attivo consigliamo 3GB ($4.99). Installazione in 2 minuti, acquisto fino a 5 minuti prima della partenza. All'arrivo in Arabia Saudita attiva il roaming dati e sei subito online.
+        Sì, per viaggi brevi la eSIM è perfetta. Il piano minimo è 7 giorni / 1GB a $3.99 — sufficiente per mappe e messaggi. Per 3-5 giorni di uso attivo consigliamo 3GB ($5.99). Installazione in 2 minuti, acquisto fino a 5 minuti prima della partenza. All'arrivo in Arabia Saudita attiva il roaming dati e sei subito online.
+    - q: |
+        Quanto costa una eSIM per Arabia Saudita e conviene rispetto alla SIM locale?
+      a: |
+        I piani Roami per Arabia Saudita partono da $3.99 e si acquistano online in pochi clic, senza file in negozio né costi di attivazione. Rispetto a una SIM prepagata locale eviti la registrazione con passaporto e l'attesa allo sportello.
+    - q: |
+        La eSIM ha copertura 5G in tutte le città di Arabia Saudita?
+      a: |
+        Sì, la eSIM Roami si aggancia alle reti STC e Mobily e offre 4G/5G nelle principali città come Riyadh e Jeddah. Nelle zone rurali la copertura resta solida in 4G.
+    - q: |
+        A Riyadh la connessione è veloce con la eSIM?
+      a: |
+        A Riyadh la eSIM Roami sfrutta la rete 5G/4G locale: velocità tipiche di 50-200 Mbps in centro. Ottima per mappe, social e videochiamate.
 related_products:
   title: Piani eSIM simili
   items:
-  - name: Stati Uniti eSIM
-    flag: img/flags/us.svg
-    price: A partire da $1,99
+  - name: UAE eSIM
+    flag: img/flags/ae.svg
+    price: A partire da $3,99
     is_highlight: false
-    slug: united-states-esim
-  - name: Regno Unito eSIM
-    flag: img/flags/gb.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: united-kingdom-esim
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: A partire da $1,99
+    slug: united-arab-emirates
+  - name: Bahrein eSIM
+    flag: img/flags/bh.svg
+    price: A partire da $6,99
     is_highlight: true
-    slug: europe-esim
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: A partire da $1,99
+    slug: bahrain
+  - name: Iraq eSIM
+    flag: img/flags/iq.svg
+    price: A partire da $21,99
     is_highlight: false
-    slug: canada-esim
-  - name: Turchia eSIM
-    flag: img/flags/tr.svg
-    price: A partire da $1,99
+    slug: iraq
+  - name: Israele eSIM
+    flag: img/flags/il.svg
+    price: A partire da $2,99
     is_highlight: false
-    slug: turkey-esim
+    slug: israel
+  - name: Giordania eSIM
+    flag: img/flags/jo.svg
+    price: A partire da $6,99
+    is_highlight: false
+    slug: jordan
+  - name: Kuwait eSIM
+    flag: img/flags/kw.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: kuwait
+  - name: Oman eSIM
+    flag: img/flags/om.svg
+    price: A partire da $7,99
+    is_highlight: false
+    slug: oman
+  - name: Qatar eSIM
+    flag: img/flags/qa.svg
+    price: A partire da $6,99
+    is_highlight: false
+    slug: qatar
   - name: Cina eSIM
     flag: img/flags/cn.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: china-esim
-  - name: Giappone eSIM
-    flag: img/flags/jp.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: japan-esim
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: Francia eSIM
-    flag: img/flags/fr.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: france-esim
-  - name: Spagna eSIM
-    flag: img/flags/es.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: spain-esim
-  - name: Germania eSIM
-    flag: img/flags/de.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: germany-esim
+    slug: china
   - name: Australia eSIM
     flag: img/flags/au.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: australia-esim
-
-# =============== Modulo di confronto basato su dati ===============
+    slug: australia
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: hong-kong
+  - name: Turchia eSIM
+    flag: img/flags/tr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: turkey
 market_analysis:
   title: "Confronto diretto tra eSIM e SIM prepagata in Arabia Saudita"
   subtitle: "Confronto tra SIM prepagate locali saudite e soluzioni eSIM (riferimento 2024/2025)"

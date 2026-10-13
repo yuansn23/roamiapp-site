@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Giappone 2026: Viaggio & Rete | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,8 +21,9 @@ seo:
   title: Giappone eSIM | Ricarica immediata senza contratto
   description: Cerchi una eSIM economica per Giappone? Roami offre il miglior prezzo sul mercato. Nessun costo nascosto, qualità
     garantita. Acquista online e usa subito.
-  keywords: eSIM Giappone, piano eSIM Giappone, migliore eSIM Giappone, Giappone dati, NTT Docomo Giappone, SoftBank Giappone,
-    KDDI Giappone, eSIM Tokyo, eSIM Osaka, eSIM Kyoto, internet mobile Giappone, 5G Giappone
+  keywords: eSIM Giappone, piani eSIM Giappone, migliore eSIM Giappone, eSIM Giappone economica, comprare eSIM Giappone online, eSIM Giappone dati illimitati, eSIM Giappone prepagata, migliore eSIM per Giappone, prezzo eSIM Giappone, attivazione eSIM Giappone, copertura eSIM Giappone, migliore eSIM per Tokyo, eSIM Tokyo, eSIM Osaka
+  low_price: '1.99'
+  high_price: '71.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -334,6 +335,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📱
+    html: 'Tieni la tua SIM fisica attiva per chiamate e SMS; usa la eSIM Giappone solo per la navigazione dati.'
+  - icon: 🗺️
+    html: 'A Tokyo e Osaka il 5G copre le zone centrali: scarica le mappe offline prima di partire.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -387,7 +392,7 @@ faq_section:
     - q: |
         Si può usare la eSIM come modem per il portatile in Giappone?
       a: |
-        Sì, tutti i piani Roami supportano la modalità hotspot. Attiva la condivisione nelle impostazioni del telefono. Per lavorare con il computer (videoconferenze, file) consigliamo il piano 10GB ($14.99) o illimitato ($59.99). La condivisione funziona senza costi aggiuntivi.
+        Sì, tutti i piani Roami supportano la modalità hotspot. Attiva la condivisione nelle impostazioni del telefono. Per lavorare con il computer (videoconferenze, file) consigliamo il piano 10GB ($8.99) o illimitato ($9.99). La condivisione funziona senza costi aggiuntivi.
     - q: |
         Che copertura c'è in campagna e nelle aree remote in Giappone?
       a: |
@@ -407,15 +412,90 @@ faq_section:
     - q: |
         Le videochiamate con Zoom e WhatsApp funzionano bene con eSIM in Giappone?
       a: |
-        Sì, le videochiamate funzionano bene. Una chiamata Zoom di 30 minuti consuma circa 150-300MB. Con 5G (100-300 Mbps) la qualità arriva al 4K, con 4G (10-30 Mbps) le chiamate sono comunque nitide. Per lavoro da remoto consiglio il piano 10GB ($14.99) o illimitato ($59.99).
+        Sì, le videochiamate funzionano bene. Una chiamata Zoom di 30 minuti consuma circa 150-300MB. Con 5G (100-300 Mbps) la qualità arriva al 4K, con 4G (10-30 Mbps) le chiamate sono comunque nitide. Per lavoro da remoto consiglio il piano 10GB ($8.99) o illimitato ($9.99).
     - q: |
-        Perché acquistare la eSIM prima di partire se posso comprarla all'arrivo?
+        Conviene davvero comprare la eSIM prima di partire?
       a: |
         Sì — installa la eSIM 1-2 giorni prima della partenza con WiFi di casa. All'arrivo in Giappone attiva il roaming dati e sei online in 60 secondi. Niente code in aeroporto per comprare una SIM. Se il viaggio è last minute, puoi acquistare fino a 5 minuti prima del volo.
     - q: |
         Posso tenere la mia SIM italiana mentre uso la eSIM in Giappone?
       a: |
         Sì, questo è uno dei principali vantaggi della eSIM. La tua SIM fisica rimane nello slot 1 per ricevere SMS (codici bancari, 2FA). La eSIM funziona nello slot 2 per tutti i dati. Disattiva il roaming dati sulla tua SIM per evitare costi di €10-15 per MB. Nelle impostazioni puoi assegnare: SIM fisica per voce, eSIM per dati.
+    - q: |
+        Posso usare la eSIM Giappone e la mia SIM italiana insieme?
+      a: |
+        Sì: la eSIM gestisce i dati mentre la tua SIM italiana resta attiva per chiamate e SMS. Puoi scegliere in Impostazioni quale linea usare per voce, SMS e dati.
+    - q: |
+        Come attivo la eSIM per Giappone prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in Giappone.
+    - q: |
+        Quanti GB servono per un viaggio in Giappone?
+      a: |
+        Per un uso leggero (mappe, messaggi) bastano 3-5GB; per social e video 10GB sono l'ideale. I piani Roami per Giappone partono da $1.99 e puoi ricaricare dall'app in tempo reale.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Kazakistan eSIM
+    flag: img/flags/kz.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: kazakhstan
+  - name: Kirghizistan eSIM
+    flag: img/flags/kg.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: kyrgyzstan
+  - name: Laos eSIM
+    flag: img/flags/la.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: laos
+  - name: Malaysia eSIM
+    flag: img/flags/my.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: malaysia
+  - name: Maldive eSIM
+    flag: img/flags/mv.svg
+    price: A partire da $14,99
+    is_highlight: false
+    slug: maldives
+  - name: Nepal eSIM
+    flag: img/flags/np.svg
+    price: A partire da $10,99
+    is_highlight: false
+    slug: nepal
+  - name: Pakistan eSIM
+    flag: img/flags/pk.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: pakistan
+  - name: Filippine eSIM
+    flag: img/flags/ph.svg
+    price: A partire da $2,99
+    is_highlight: false
+    slug: philippines
+  - name: Singapore eSIM
+    flag: img/flags/sg.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: singapore
+  - name: Corea del Sud eSIM
+    flag: img/flags/kr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: south-korea
+  - name: Sri Lanka eSIM
+    flag: img/flags/lk.svg
+    price: A partire da $3,99
+    is_highlight: true
+    slug: sri-lanka
+  - name: Taiwan eSIM
+    flag: img/flags/tw.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: taiwan
 market_analysis:
   title: "Confronto diretto tra eSIM e SIM prepagata in Giappone"
   subtitle: "Confronto tra SIM prepagate locali giapponesi e soluzioni eSIM (riferimento 2024/2025)"

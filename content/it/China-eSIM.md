@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Cina 2026: Operatori Locali | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: China Mobile, China Unicom, China Telecom
   competitors: Airalo, Holafly, Nomad eSIM, Ubigi, Flexiroam
   main_cities: Pechino, Shanghai, Guangzhou, Shenzhen, Chengdu
-  main_packages: 3/7/15/30 giorni, dati illimitati
+  main_packages: 1GB/3GB/5GB/10GB/20GB/30GB, 7/15/30 giorni
 modal:
   title: Aggiornamento del servizio!
   btn_text: Continua
@@ -21,8 +21,9 @@ seo:
   title: Cina eSIM | Attivazione immediata conveniente
   description: Prepara il tuo viaggio in Cina con Roami. La nostra eSIM ti accompagna ovunque per un'esperienza senza preoccupazioni,
     sempre connesso.
-  keywords: eSIM Cina, piano eSIM Cina, migliore eSIM Cina, Cina dati, China Mobile Cina, China Unicom Cina, China Telecom
-    Cina, eSIM Pechino, eSIM Shanghai, eSIM Guangzhou, internet mobile Cina, 5G Cina
+  keywords: eSIM Cina, piani eSIM Cina, migliore eSIM Cina, eSIM Cina economica, comprare eSIM Cina online, piani dati eSIM Cina, eSIM Cina prepagata, migliore eSIM per Cina, prezzo eSIM Cina, attivazione eSIM Cina, copertura eSIM Cina, migliore eSIM per Pechino, eSIM Pechino, eSIM Shanghai
+  low_price: '1.99'
+  high_price: '39.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -294,6 +295,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📱
+    html: 'Tieni la tua SIM fisica attiva per chiamate e SMS; usa la eSIM Cina solo per la navigazione dati.'
+  - icon: 🗺️
+    html: 'A Pechino e Shanghai il 5G copre le zone centrali: scarica le mappe offline prima di partire.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -358,13 +363,13 @@ faq_section:
       a: |
         1) Acquista il piano sul sito Roami (30 sec). 2) Ricevi il QR code via email (fino a 5 min). 3) Su iPhone: Impostazioni > Cellulare > Aggiungi eSIM. Su Android: Impostazioni > Connessioni > Gestore SIM > eSIM. 4) Scannerizza il QR code. 5) Assegna la eSIM per i dati. 6) All'arrivo in Cina attiva il roaming dati. Fatto!
     - q: |
-        Meglio installare la eSIM a casa o direttamente in aeroporto?
+        Conviene installare la eSIM a casa o all'aeroporto?
       a: |
         Sì — installa la eSIM 1-2 giorni prima della partenza con WiFi di casa. All'arrivo in Cina attiva il roaming dati e sei online in 60 secondi. Niente code in aeroporto per comprare una SIM. Se il viaggio è last minute, puoi acquistare fino a 5 minuti prima del volo.
     - q: |
         Instagram, TikTok e Telegram sono accessibili con eSIM in Cina?
       a: |
-        Sì, tutti i social funzionano senza limiti. Instagram, TikTok, Facebook, Telegram — il caricamento delle foto richiede 2-3 secondi su 4G. Con 5GB ($9.99) puoi caricare circa 5000 foto o guardare 10 ore di video. Per uso intensivo di social con video è meglio 10GB ($14.99).
+        Sì, tutti i social funzionano senza limiti. Instagram, TikTok, Facebook, Telegram — il caricamento delle foto richiede 2-3 secondi su 4G. Con 5GB ($5.99) puoi caricare circa 5000 foto o guardare 10 ore di video. Per uso intensivo di social con video è meglio 10GB ($7.99).
     - q: |
         Conviene comprare una SIM in aeroporto all'arrivo in Cina?
       a: |
@@ -372,11 +377,86 @@ faq_section:
     - q: |
         Quanto risparmio usando eSIM invece del roaming in Cina?
       a: |
-        Sì, la eSIM Roami costa l'80-90% in meno del roaming tradizionale. Un piano 5GB costa $9.99 mentre il roaming dell'operatore italiano può costare $50-100. In più ottieni velocità locali 4G/5G, non il roaming limitato a 256 kbps. Attiva solo la eSIM per i dati e tieni la tua SIM per SMS e chiamate.
+        Sì, la eSIM Roami costa l'80-90% in meno del roaming tradizionale. Un piano 5GB costa $5.99 mentre il roaming dell'operatore italiano può costare $50-100. In più ottieni velocità locali 4G/5G, non il roaming limitato a 256 kbps. Attiva solo la eSIM per i dati e tieni la tua SIM per SMS e chiamate.
     - q: |
         È necessaria la registrazione con documento per la eSIM in Cina?
       a: |
         Per il 90% dei paesi bastano solo email e metodo di pagamento. Nessun documento richiesto. Dopo il pagamento il QR code arriva via email — scannerizzi e via. Nel 10% dei paesi (Cina, India, Turchia, Pakistan) serve verifica KYC: caricare foto del passaporto nell'app Roami.
+    - q: |
+        Posso usare la eSIM Cina e la mia SIM italiana insieme?
+      a: |
+        Sì: la eSIM gestisce i dati mentre la tua SIM italiana resta attiva per chiamate e SMS. Puoi scegliere in Impostazioni quale linea usare per voce, SMS e dati.
+    - q: |
+        Come attivo la eSIM per Cina prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in Cina.
+    - q: |
+        Quanti GB servono per un viaggio in Cina?
+      a: |
+        Per un uso leggero (mappe, messaggi) bastano 3-5GB; per social e video 10GB sono l'ideale. I piani Roami per Cina partono da $1.99 e puoi ricaricare dall'app in tempo reale.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: hong-kong
+  - name: India eSIM
+    flag: img/flags/in.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: india
+  - name: Indonesia eSIM
+    flag: img/flags/id.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: indonesia
+  - name: Giappone eSIM
+    flag: img/flags/jp.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: japan
+  - name: Kazakistan eSIM
+    flag: img/flags/kz.svg
+    price: A partire da $3,99
+    is_highlight: true
+    slug: kazakhstan
+  - name: Kirghizistan eSIM
+    flag: img/flags/kg.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: kyrgyzstan
+  - name: Laos eSIM
+    flag: img/flags/la.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: laos
+  - name: Malaysia eSIM
+    flag: img/flags/my.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: malaysia
+  - name: Maldive eSIM
+    flag: img/flags/mv.svg
+    price: A partire da $14,99
+    is_highlight: false
+    slug: maldives
+  - name: Nepal eSIM
+    flag: img/flags/np.svg
+    price: A partire da $10,99
+    is_highlight: false
+    slug: nepal
+  - name: Pakistan eSIM
+    flag: img/flags/pk.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: pakistan
+  - name: Filippine eSIM
+    flag: img/flags/ph.svg
+    price: A partire da $2,99
+    is_highlight: false
+    slug: philippines
 market_analysis:
   title: "eSIM vs SIM prepagata in Cina: le differenze chiave"
   subtitle: "Confronto tra SIM prepagate locali cinesi e soluzioni eSIM (riferimento 2024/2025)"

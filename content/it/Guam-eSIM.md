@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Guam 2026: Piani & Copertura | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,8 +21,9 @@ seo:
   title: Guam eSIM | Internet veloce senza limiti
   description: 'Roami per Guam: niente contratto, niente vincoli. Usala durante la tua vacanza, poi è finita. Senza complicazioni.
     Copre tutte le regioni.'
-  keywords: eSIM Guam, piano eSIM Guam, migliore eSIM Guam, Guam dati, Docomo Pacific Guam, IT&E Guam, GTA Guam, eSIM Hagåtña,
-    eSIM Tumon, eSIM Dededo, internet mobile Guam, 5G Guam
+  keywords: eSIM Guam, piani eSIM Guam, migliore eSIM Guam, eSIM Guam economica, comprare eSIM Guam online, eSIM Guam dati illimitati, eSIM Guam prepagata, migliore eSIM per Guam, prezzo eSIM Guam, attivazione eSIM Guam, copertura eSIM Guam, migliore eSIM per Hagåtña, eSIM Hagåtña, eSIM Tumon
+  low_price: '9.99'
+  high_price: '88.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -187,6 +188,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 🗺️
+    html: 'A Hagåtña e Tumon il 5G copre le zone centrali: scarica le mappe offline prima di partire.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -239,11 +244,11 @@ faq_section:
     - q: |
         Meglio eSIM o SIM fisica per un viaggio in Guam?
       a: |
-        La eSIM è meglio: costa il 30-50% in meno, non devi cambiare SIM, puoi installarla prima di partire. La SIM fisica richiede coda in aeroporto e passaporto — 15-30 minuti persi. Roami eSIM da $1.99, installazione in 2 minuti. Se hai iPhone XR o più recente, o un Android moderno, la eSIM è la scelta migliore. Il tuo numero italiano resta attivo per SMS e chiamate.
+        La eSIM è meglio: costa il 30-50% in meno, non devi cambiare SIM, puoi installarla prima di partire. La SIM fisica richiede coda in aeroporto e passaporto — 15-30 minuti persi. Roami eSIM da $9.99, installazione in 2 minuti. Se hai iPhone XR o più recente, o un Android moderno, la eSIM è la scelta migliore. Il tuo numero italiano resta attivo per SMS e chiamate.
     - q: |
         Basta il piano minimo eSIM per usare Google Maps in Guam?
       a: |
-        Google Maps consuma circa 5MB all'ora — qualsiasi piano Roami (da $1.99) va bene per la navigazione. Per scaricare le mappe di una città servono 200-500MB, fallo prima con WiFi. Se ascolti anche musica e usi social in viaggio, bastano 5GB ($9.99) a settimana. La navigazione funziona anche su 3G lento — non ti perderai.
+        Google Maps consuma circa 5MB all'ora — qualsiasi piano Roami (da $9.99) va bene per la navigazione. Per scaricare le mappe di una città servono 200-500MB, fallo prima con WiFi. Se ascolti anche musica e usi social in viaggio, bastano 5GB ($36.99) a settimana. La navigazione funziona anche su 3G lento — non ti perderai.
     - q: |
         Che errori evitare quando si usa la eSIM per la prima volta in Guam?
       a: |
@@ -263,72 +268,84 @@ faq_section:
     - q: |
         Quanti GB servono al giorno in Guam?
       a: |
-        Un turista medio consuma 300-500MB al giorno tra mappe, social e messaggistica. Con video si arriva a 1-2GB/giorno. Per una settimana bastano 5GB ($9.99), per due settimane 10GB ($14.99). Puoi sempre ricaricare dall'app se il traffico finisce prima.
+        Un turista medio consuma 300-500MB al giorno tra mappe, social e messaggistica. Con video si arriva a 1-2GB/giorno. Per una settimana bastano 5GB ($36.99), per due settimane 10GB ($67.99). Puoi sempre ricaricare dall'app se il traffico finisce prima.
     - q: |
         Che qualità hanno le videochiamate con la eSIM in Guam?
       a: |
-        Sì, le videochiamate funzionano bene. Una chiamata Zoom di 30 minuti consuma circa 150-300MB. Con 5G (100-300 Mbps) la qualità arriva al 4K, con 4G (10-30 Mbps) le chiamate sono comunque nitide. Per lavoro da remoto consiglio il piano 10GB ($14.99) o illimitato ($59.99).
+        Sì, le videochiamate funzionano bene. Una chiamata Zoom di 30 minuti consuma circa 150-300MB. Con 5G (100-300 Mbps) la qualità arriva al 4K, con 4G (10-30 Mbps) le chiamate sono comunque nitide. Per lavoro da remoto consiglio il piano 10GB ($67.99) o illimitato ($18.99).
+    - q: |
+        Quanto costa una eSIM per Guam e conviene rispetto alla SIM locale?
+      a: |
+        I piani Roami per Guam partono da $9.99 e si acquistano online in pochi clic, senza file in negozio né costi di attivazione. Rispetto a una SIM prepagata locale eviti la registrazione con passaporto e l'attesa allo sportello.
+    - q: |
+        La eSIM ha copertura 5G in tutte le città di Guam?
+      a: |
+        Sì, la eSIM Roami si aggancia alle reti Docomo Pacific e IT&E e offre 4G/5G nelle principali città come Hagåtña e Tumon. Nelle zone rurali la copertura resta solida in 4G.
+    - q: |
+        A Hagåtña la connessione è veloce con la eSIM?
+      a: |
+        A Hagåtña la eSIM Roami sfrutta la rete 5G/4G locale: velocità tipiche di 50-200 Mbps in centro. Ottima per mappe, social e videochiamate.
 related_products:
   title: Piani eSIM simili
   items:
-  - name: Stati Uniti eSIM
-    flag: img/flags/us.svg
-    price: A partire da $1,99
+  - name: Nuova Zelanda eSIM
+    flag: img/flags/nz.svg
+    price: A partire da $3,99
     is_highlight: false
-    slug: united-states-esim
-  - name: Regno Unito eSIM
-    flag: img/flags/gb.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: united-kingdom-esim
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: A partire da $1,99
-    is_highlight: true
-    slug: europe-esim
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: canada-esim
-  - name: Turchia eSIM
-    flag: img/flags/tr.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: turkey-esim
-  - name: Cina eSIM
-    flag: img/flags/cn.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: china-esim
-  - name: Giappone eSIM
-    flag: img/flags/jp.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: japan-esim
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: Francia eSIM
-    flag: img/flags/fr.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: france-esim
-  - name: Spagna eSIM
-    flag: img/flags/es.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: spain-esim
-  - name: Germania eSIM
-    flag: img/flags/de.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: germany-esim
+    slug: new-zealand
   - name: Australia eSIM
     flag: img/flags/au.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: australia-esim
+    slug: australia
+  - name: Figi eSIM
+    flag: img/flags/fj.svg
+    price: A partire da $6,99
+    is_highlight: false
+    slug: fiji
+  - name: Giappone eSIM
+    flag: img/flags/jp.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: japan
+  - name: Francia eSIM
+    flag: img/flags/fr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: france
+  - name: Germania eSIM
+    flag: img/flags/de.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: germany
+  - name: Spagna eSIM
+    flag: img/flags/es.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: spain
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: A partire da $3,99
+    is_highlight: true
+    slug: canada
+  - name: Cina eSIM
+    flag: img/flags/cn.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: china
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: hong-kong
+  - name: Turchia eSIM
+    flag: img/flags/tr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: turkey
+  - name: Italia eSIM
+    flag: img/flags/it.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: italy
 ---

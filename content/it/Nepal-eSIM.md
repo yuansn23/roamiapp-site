@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Nepal 2026: 5G & Piani Dati | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,8 +21,9 @@ seo:
   title: Nepal eSIM | Compra al miglior prezzo online
   description: Per Nepal scegli Roami e paghi meno. La nostra eSIM offre il prezzo migliore per restare connesso durante il
     tuo viaggio. Copre tutte le regioni.
-  keywords: eSIM Nepal, piano eSIM Nepal, migliore eSIM Nepal, Nepal dati, Nepal Telecom Nepal, Ncell Nepal, SmartCell Nepal,
-    eSIM Katmandu, eSIM Pokhara, eSIM Lumbini, internet mobile Nepal, 5G Nepal
+  keywords: eSIM Nepal, piani eSIM Nepal, migliore eSIM Nepal, eSIM Nepal economica, comprare eSIM Nepal online, eSIM Nepal dati illimitati, eSIM Nepal prepagata, migliore eSIM per Nepal, prezzo eSIM Nepal, attivazione eSIM Nepal, copertura eSIM Nepal, migliore eSIM per Katmandu, eSIM Katmandu, eSIM Pokhara
+  low_price: '10.99'
+  high_price: '124.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -270,6 +271,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 🏙️
+    html: 'Copertura ottimale a Katmandu e Pokhara: hotspot incluso per condividere i dati con chi viaggia con te.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -331,11 +336,11 @@ faq_section:
     - q: |
         Si può ricaricare la eSIM da remoto durante il viaggio in Nepal?
       a: |
-        Sì, dall'app Roami, in tempo reale. Senza nuovo QR code e senza reinstallare. Consigliamo di ricaricare quando il saldo è al 20%. Roami invia notifiche al 70% e 90% di utilizzo. Pacchetti aggiuntivi disponibili: 1GB ($1.99), 3GB ($4.99), 5GB ($9.99).
+        Sì, dall'app Roami, in tempo reale. Senza nuovo QR code e senza reinstallare. Consigliamo di ricaricare quando il saldo è al 20%. Roami invia notifiche al 70% e 90% di utilizzo. Pacchetti aggiuntivi disponibili: 1GB ($10.99), 3GB ($21.99), 5GB ($31.99).
     - q: |
         Qual è la migliore eSIM da acquistare per un viaggio in Nepal?
       a: |
-        Roami eSIM funziona sulla rete Ncell — uno dei principali operatori con copertura del 95% del territorio. 5GB a $9.99 è l'opzione ottimale per il turista medio. Se il viaggio dura più di due settimane, scegli 10GB ($14.99). Supporto 24/7 con risposta in 2 minuti.
+        Roami eSIM funziona sulla rete Ncell — uno dei principali operatori con copertura del 95% del territorio. 5GB a $31.99 è l'opzione ottimale per il turista medio. Se il viaggio dura più di due settimane, scegli 10GB ($57.99). Supporto 24/7 con risposta in 2 minuti.
     - q: |
         Che copertura c'è in campagna e nelle aree remote in Nepal?
       a: |
@@ -343,7 +348,7 @@ faq_section:
     - q: |
         Si può lavorare da remoto con la eSIM in Nepal?
       a: |
-        Sì, la eSIM è perfetta per il lavoro da remoto. Con 5G le velocità raggiungono 100-300 Mbps, sufficienti per videoconferenze Zoom/Teams e invio di file pesanti. Con 4G (10-30 Mbps) puoi lavorare con email e documenti. Per lavoro consigliamo 10GB ($14.99) a settimana o illimitato ($59.99). La eSIM supporta anche la condivisione internet verso il computer.
+        Sì, la eSIM è perfetta per il lavoro da remoto. Con 5G le velocità raggiungono 100-300 Mbps, sufficienti per videoconferenze Zoom/Teams e invio di file pesanti. Con 4G (10-30 Mbps) puoi lavorare con email e documenti. Per lavoro consigliamo 10GB ($57.99) a settimana o illimitato ($52.99). La eSIM supporta anche la condivisione internet verso il computer.
     - q: |
         Come capire se la eSIM si è connessa alla rete in Nepal?
       a: |
@@ -351,5 +356,80 @@ faq_section:
     - q: |
         Quale piano eSIM scegliere per un viaggio in Nepal?
       a: |
-        I piani Roami partono da $1.99 (7 giorni, 1GB) fino a $59.99 (30 giorni, illimitato). Il piano più popolare è 5GB/15 giorni a $9.99 — sufficiente per navigazione, social e messaggistica. Per uso intensivo con video, scegli 10GB ($14.99) o illimitato ($59.99). Tutti i piani sono prepagati, senza costi nascosti e senza rinnovo automatico.
+        I piani Roami partono da $10.99 (7 giorni, 1GB) fino a $124.99 (15 giorni, 20GB). Il piano più popolare è 5GB/15 giorni a $37.99 — sufficiente per navigazione, social e messaggistica. Per uso intensivo con video, scegli 10GB ($57.99) o illimitato ($52.99). Tutti i piani sono prepagati, senza costi nascosti e senza rinnovo automatico.
+    - q: |
+        A Katmandu la connessione è veloce con la eSIM?
+      a: |
+        A Katmandu la eSIM Roami sfrutta la rete 5G/4G locale: velocità tipiche di 50-200 Mbps in centro. Ottima per mappe, social e videochiamate.
+    - q: |
+        Posso usare la eSIM Nepal e la mia SIM italiana insieme?
+      a: |
+        Sì: la eSIM gestisce i dati mentre la tua SIM italiana resta attiva per chiamate e SMS. Puoi scegliere in Impostazioni quale linea usare per voce, SMS e dati.
+    - q: |
+        Come attivo la eSIM per Nepal prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in Nepal.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Pakistan eSIM
+    flag: img/flags/pk.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: pakistan
+  - name: Filippine eSIM
+    flag: img/flags/ph.svg
+    price: A partire da $2,99
+    is_highlight: false
+    slug: philippines
+  - name: Singapore eSIM
+    flag: img/flags/sg.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: singapore
+  - name: Corea del Sud eSIM
+    flag: img/flags/kr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: south-korea
+  - name: Sri Lanka eSIM
+    flag: img/flags/lk.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: sri-lanka
+  - name: Taiwan eSIM
+    flag: img/flags/tw.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: taiwan
+  - name: Thailandia eSIM
+    flag: img/flags/th.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: thailand
+  - name: Uzbekistan eSIM
+    flag: img/flags/uz.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: uzbekistan
+  - name: Vietnam eSIM
+    flag: img/flags/vn.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: vietnam
+  - name: Afghanistan eSIM
+    flag: img/flags/af.svg
+    price: A partire da $11,99
+    is_highlight: true
+    slug: afghanistan
+  - name: Bangladesh eSIM
+    flag: img/flags/bd.svg
+    price: A partire da $5,99
+    is_highlight: false
+    slug: bangladesh
+  - name: Brunei eSIM
+    flag: img/flags/bn.svg
+    price: A partire da $9,99
+    is_highlight: false
+    slug: brunei
 ---

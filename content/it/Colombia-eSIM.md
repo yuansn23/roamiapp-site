@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Colombia 2026: Connessione & Velocità | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,8 +21,9 @@ seo:
   title: Colombia eSIM | Internet veloce senza limiti
   description: La eSIM Roami per Colombia si acquista online senza attese. Niente spedizione, tutto digitale, ricevuto via
     email. Copre tutte le regioni.
-  keywords: eSIM Colombia, piano eSIM Colombia, migliore eSIM Colombia, Colombia dati, Claro Colombia, Movistar Colombia,
-    Tigo Colombia, eSIM Bogotá, eSIM Medellín, eSIM Cartagena, internet mobile Colombia, 5G Colombia
+  keywords: eSIM Colombia, piani eSIM Colombia, migliore eSIM Colombia, eSIM Colombia economica, comprare eSIM Colombia online, eSIM Colombia dati illimitati, eSIM Colombia prepagata, migliore eSIM per Colombia, prezzo eSIM Colombia, attivazione eSIM Colombia, copertura eSIM Colombia, migliore eSIM per Bogotá, eSIM Bogotá, eSIM Medellín
+  low_price: '4.99'
+  high_price: '86.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -302,6 +303,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 📍
+    html: 'Per Bogotá consigliamo di attivare la eSIM all''arrivo: la validità parte al primo collegamento.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -355,7 +360,7 @@ faq_section:
     - q: |
         Quale quantità di dati scegliere per il mio viaggio per la Colombia?
       a: |
-        Parti dalle tue abitudini: 3GB ($4.99) per 7 giorni per navigazione leggera. 5GB ($9.99) è lo standard per la maggior parte. 10GB ($14.99) per video e social intensivi. Illimitato ($59.99) per streaming attivo e condivisione. Tutti i piani si possono ricaricare dall'app senza cambiare QR code.
+        Parti dalle tue abitudini: 3GB ($9.99) per 7 giorni per navigazione leggera. 5GB ($14.99) è lo standard per la maggior parte. 10GB ($21.99) per video e social intensivi. Illimitato ($52.99) per streaming attivo e condivisione. Tutti i piani si possono ricaricare dall'app senza cambiare QR code.
     - q: |
         La eSIM supporta lo streaming video in buona qualità in Colombia?
       a: |
@@ -363,7 +368,7 @@ faq_section:
     - q: |
         Come aggiungere GB se il traffico della eSIM finisce in Colombia?
       a: |
-        Sì, dall'app Roami, in tempo reale. Senza nuovo QR code e senza reinstallare. Consigliamo di ricaricare quando il saldo è al 20%. Roami invia notifiche al 70% e 90% di utilizzo. Pacchetti aggiuntivi disponibili: 1GB ($1.99), 3GB ($4.99), 5GB ($9.99).
+        Sì, dall'app Roami, in tempo reale. Senza nuovo QR code e senza reinstallare. Consigliamo di ricaricare quando il saldo è al 20%. Roami invia notifiche al 70% e 90% di utilizzo. Pacchetti aggiuntivi disponibili: 1GB ($4.99), 3GB ($9.99), 5GB ($14.99).
     - q: |
         Che qualità hanno le videochiamate con la eSIM in Colombia?
       a: |
@@ -371,7 +376,7 @@ faq_section:
     - q: |
         Quanto internet serve per il navigatore e le mappe in Colombia?
       a: |
-        Per la navigazione non serve tanta velocità: le mappe si caricano già a 1-2 Mbps. La cosa più importante è scaricare le mappe offline in hotel, risparmiando fino all'80% del traffico. Google Maps consuma 3-8MB/h, 2GIS 2-5MB/h. Anche il piano da 1GB a $1.99 basta se usi solo il navigatore.
+        Per la navigazione non serve tanta velocità: le mappe si caricano già a 1-2 Mbps. La cosa più importante è scaricare le mappe offline in hotel, risparmiando fino all'80% del traffico. Google Maps consuma 3-8MB/h, 2GIS 2-5MB/h. Anche il piano da 1GB a $4.99 basta se usi solo il navigatore.
     - q: |
         Come sapere quanti GB sono rimasti sulla mia eSIM per la Colombia?
       a: |
@@ -379,11 +384,86 @@ faq_section:
     - q: |
         Cosa conviene: eSIM o SIM tradizionale per viaggiare in Colombia?
       a: |
-        La eSIM è meglio: costa il 30-50% in meno, non devi cambiare SIM, puoi installarla prima di partire. La SIM fisica richiede coda in aeroporto e passaporto — 15-30 minuti persi. Roami eSIM da $1.99, installazione in 2 minuti. Se hai iPhone XR o più recente, o un Android moderno, la eSIM è la scelta migliore. Il tuo numero italiano resta attivo per SMS e chiamate.
+        La eSIM è meglio: costa il 30-50% in meno, non devi cambiare SIM, puoi installarla prima di partire. La SIM fisica richiede coda in aeroporto e passaporto — 15-30 minuti persi. Roami eSIM da $4.99, installazione in 2 minuti. Se hai iPhone XR o più recente, o un Android moderno, la eSIM è la scelta migliore. Il tuo numero italiano resta attivo per SMS e chiamate.
     - q: |
         Meglio eSIM o pocket WiFi per viaggiare in Colombia?
       a: |
-        La eSIM è più comoda: non devi portare, caricare e restituire un dispositivo separato. Il pocket WiFi costa $3-8 al giorno più cauzione. Roami eSIM da $1.99 al giorno, funziona direttamente nel telefono, non serve ricarica separata. Entrambi supportano la condivisione internet.
+        La eSIM è più comoda: non devi portare, caricare e restituire un dispositivo separato. Il pocket WiFi costa $3-8 al giorno più cauzione. Roami eSIM da $0.67 al giorno, funziona direttamente nel telefono, non serve ricarica separata. Entrambi supportano la condivisione internet.
+    - q: |
+        Come attivo la eSIM per Colombia prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in Colombia.
+    - q: |
+        Quanti GB servono per un viaggio in Colombia?
+      a: |
+        Per un uso leggero (mappe, messaggi) bastano 3-5GB; per social e video 10GB sono l'ideale. I piani Roami per Colombia partono da $4.99 e puoi ricaricare dall'app in tempo reale.
+    - q: |
+        Quanto costa una eSIM per Colombia e conviene rispetto alla SIM locale?
+      a: |
+        I piani Roami per Colombia partono da $4.99 e si acquistano online in pochi clic, senza file in negozio né costi di attivazione. Rispetto a una SIM prepagata locale eviti la registrazione con passaporto e l'attesa allo sportello.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Ecuador eSIM
+    flag: img/flags/ec.svg
+    price: A partire da $6,99
+    is_highlight: false
+    slug: ecuador
+  - name: Guyana francese eSIM
+    flag: img/flags/gf.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: french-guiana
+  - name: Guyana eSIM
+    flag: img/flags/gy.svg
+    price: A partire da $9,99
+    is_highlight: false
+    slug: guyana
+  - name: Paraguay eSIM
+    flag: img/flags/py.svg
+    price: A partire da $22,99
+    is_highlight: false
+    slug: paraguay
+  - name: Perù eSIM
+    flag: img/flags/pe.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: peru
+  - name: Uruguay eSIM
+    flag: img/flags/uy.svg
+    price: A partire da $11,99
+    is_highlight: true
+    slug: uruguay
+  - name: Argentina eSIM
+    flag: img/flags/ar.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: argentina
+  - name: Bolivia eSIM
+    flag: img/flags/bo.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: bolivia
+  - name: Brasile eSIM
+    flag: img/flags/br.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: brazil
+  - name: Cile eSIM
+    flag: img/flags/cl.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: chile
+  - name: Germania eSIM
+    flag: img/flags/de.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: germany
+  - name: Spagna eSIM
+    flag: img/flags/es.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: spain
 market_analysis:
   title: "eSIM vs SIM prepagata in Colombia: dovresti passare all'eSIM?"
   subtitle: "Confronto tra SIM prepagate locali colombiane e soluzioni eSIM (riferimento 2024/2025)"

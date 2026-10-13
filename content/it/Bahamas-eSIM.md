@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Bahamas 2026: Copertura & Velocità | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: BTC, Aliv, Cable Bahamas
   competitors: Airalo, Holafly, Nomad, eSIM Go, Maya Mobile
   main_cities: Nassau, Freeport, Marsh Harbour, George Town, West End
-  main_packages: 3/7/15/30 giorni, dati illimitati
+  main_packages: 1GB/3GB/5GB, 7/15/30 giorni
 modal:
   title: Aggiornamento del servizio!
   btn_text: Continua
@@ -18,11 +18,12 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: Bahamas eSIM | Dati illimitati per viaggiare
+  title: 'eSIM Bahamas: 5G e piani dati flessibili | Roami'
   description: Per il tuo viaggio in Bahamas, Roami è la soluzione eSIM più pratica. Attiva subito, senza perdere tempo. Copre
     tutte le regioni.
-  keywords: eSIM Bahamas, piano eSIM Bahamas, migliore eSIM Bahamas, Bahamas dati, BTC Bahamas, Aliv Bahamas, Cable Bahamas
-    Bahamas, eSIM Nassau, eSIM Freeport, eSIM Marsh Harbour, internet mobile Bahamas, 5G Bahamas
+  keywords: eSIM Bahamas, piani eSIM Bahamas, migliore eSIM Bahamas, eSIM Bahamas economica, comprare eSIM Bahamas online, piani dati eSIM Bahamas, eSIM Bahamas prepagata, migliore eSIM per Bahamas, prezzo eSIM Bahamas, attivazione eSIM Bahamas, copertura eSIM Bahamas, migliore eSIM per Nassau, eSIM Nassau, eSIM Freeport
+  low_price: '16.99'
+  high_price: '67.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -171,6 +172,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📱
+    html: 'Tieni la tua SIM fisica attiva per chiamate e SMS; usa la eSIM Bahamas solo per la navigazione dati.'
+  - icon: 🗺️
+    html: 'A Nassau e Freeport il 5G copre le zone centrali: scarica le mappe offline prima di partire.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -244,7 +249,7 @@ faq_section:
     - q: |
         La eSIM è più conveniente del roaming internazionale per le Bahamas?
       a: |
-        Sì, la eSIM Roami costa l'80-90% in meno del roaming tradizionale. Un piano 5GB costa $9.99 mentre il roaming dell'operatore italiano può costare $50-100. In più ottieni velocità locali 4G/5G, non il roaming limitato a 256 kbps. Attiva solo la eSIM per i dati e tieni la tua SIM per SMS e chiamate.
+        Sì, la eSIM Roami costa l'80-90% in meno del roaming tradizionale. Un piano 5GB costa $67.99 mentre il roaming dell'operatore italiano può costare $50-100. In più ottieni velocità locali 4G/5G, non il roaming limitato a 256 kbps. Attiva solo la eSIM per i dati e tieni la tua SIM per SMS e chiamate.
     - q: |
         Come si installa e attiva una eSIM per viaggiare alle Bahamas?
       a: |
@@ -252,72 +257,82 @@ faq_section:
     - q: |
         Qual è la migliore eSIM da acquistare per un viaggio alle Bahamas?
       a: |
-        La scelta migliore per la maggior parte è 5GB/15 giorni a $9.99. Abbastanza per navigazione, social e messaggistica con circa 300-500MB al giorno. Se guardi video o lavori da remoto, scegli 10GB ($14.99) o illimitato ($59.99). Tutti i piani sono prepagati, senza costi nascosti. Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
+        La scelta migliore per la maggior parte è 5GB/15 giorni a $67.99. Abbastanza per navigazione, social e messaggistica con circa 300-500MB al giorno. Se guardi video o lavori da remoto, scegli 5GB ($67.99). Tutti i piani sono prepagati, senza costi nascosti. Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
+    - q: |
+        Posso usare la eSIM Bahamas e la mia SIM italiana insieme?
+      a: |
+        Sì: la eSIM gestisce i dati mentre la tua SIM italiana resta attiva per chiamate e SMS. Puoi scegliere in Impostazioni quale linea usare per voce, SMS e dati.
+    - q: |
+        Come attivo la eSIM per Bahamas prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in Bahamas.
+    - q: |
+        Quanti GB servono per un viaggio in Bahamas?
+      a: |
+        Per un uso leggero (mappe, messaggi) bastano 3-5GB; per social e video 10GB sono l'ideale. I piani Roami per Bahamas partono da $16.99 e puoi ricaricare dall'app in tempo reale.
 related_products:
   title: Piani eSIM simili
   items:
-  - name: Stati Uniti eSIM
+  - name: Barbados eSIM
+    flag: img/flags/bb.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: barbados
+  - name: Costa Rica eSIM
+    flag: img/flags/cr.svg
+    price: A partire da $9,99
+    is_highlight: false
+    slug: costa-rica
+  - name: Dominica eSIM
+    flag: img/flags/dm.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: dominica
+  - name: Repubblica Dominicana eSIM
+    flag: img/flags/do.svg
+    price: A partire da $5,99
+    is_highlight: false
+    slug: dominican-republic
+  - name: El Salvador eSIM
+    flag: img/flags/sv.svg
+    price: A partire da $23,99
+    is_highlight: false
+    slug: el-salvador
+  - name: Grenada eSIM
+    flag: img/flags/gd.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: grenada
+  - name: Guadalupa eSIM
+    flag: img/flags/gp.svg
+    price: A partire da $8,99
+    is_highlight: false
+    slug: guadeloupe
+  - name: Guatemala eSIM
+    flag: img/flags/gt.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: guatemala
+  - name: Honduras eSIM
+    flag: img/flags/hn.svg
+    price: A partire da $6,99
+    is_highlight: false
+    slug: honduras
+  - name: Giamaica eSIM
+    flag: img/flags/jm.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: jamaica
+  - name: Panama eSIM
+    flag: img/flags/pa.svg
+    price: A partire da $11,99
+    is_highlight: true
+    slug: panama
+  - name: USA eSIM
     flag: img/flags/us.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: united-states-esim
-  - name: Regno Unito eSIM
-    flag: img/flags/gb.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: united-kingdom-esim
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: A partire da $1,99
-    is_highlight: true
-    slug: europe-esim
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: canada-esim
-  - name: Turchia eSIM
-    flag: img/flags/tr.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: turkey-esim
-  - name: Cina eSIM
-    flag: img/flags/cn.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: china-esim
-  - name: Giappone eSIM
-    flag: img/flags/jp.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: japan-esim
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: Francia eSIM
-    flag: img/flags/fr.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: france-esim
-  - name: Spagna eSIM
-    flag: img/flags/es.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: spain-esim
-  - name: Germania eSIM
-    flag: img/flags/de.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: germany-esim
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: australia-esim
-
-# =============== Modulo di confronto basato su dati ===============
+    slug: united-states
 market_analysis:
   title: "eSIM vs SIM prepagata in Bahamas: dovresti passare all'eSIM?"
   subtitle: "Confronto tra SIM prepagate locali bahamensi e soluzioni eSIM (riferimento 2024/2025)"

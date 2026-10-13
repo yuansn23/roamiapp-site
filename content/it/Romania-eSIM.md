@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Romania 2026: Connessione & Velocità | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -22,8 +22,9 @@ seo:
   title: Romania eSIM | Internet veloce senza limiti
   description: Viaggia in Romania senza pensieri. Roami non ti lega ad alcun abbonamento. Decidi tu quanto e quando usarla.
     Semplice e onesto. Copre tutte le regioni.
-  keywords: eSIM Romania, piano eSIM Romania, migliore eSIM Romania, Romania dati, Orange Romania, Vodafone Romania, Telekom
-    Romania, eSIM Bucarest, eSIM Cluj-Napoca, eSIM Timișoara, internet mobile Romania, 5G Romania
+  keywords: eSIM Romania, piani eSIM Romania, migliore eSIM Romania, eSIM Romania economica, comprare eSIM Romania online, eSIM Romania dati illimitati, eSIM Romania prepagata, migliore eSIM per Romania, prezzo eSIM Romania, attivazione eSIM Romania, copertura eSIM Romania, migliore eSIM per Bucarest, eSIM Bucarest, eSIM Cluj-Napoca
+  low_price: '1.99'
+  high_price: '78.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -343,6 +344,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 📍
+    html: 'Per Bucarest consigliamo di attivare la eSIM all''arrivo: la validità parte al primo collegamento.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -420,11 +425,86 @@ faq_section:
     - q: |
         I social network funzionano con la eSIM in Romania?
       a: |
-        Sì, tutti i social funzionano senza limiti. Instagram, TikTok, Facebook, Telegram — il caricamento delle foto richiede 2-3 secondi su 4G. Con 5GB ($9.99) puoi caricare circa 5000 foto o guardare 10 ore di video. Per uso intensivo di social con video è meglio 10GB ($14.99).
+        Sì, tutti i social funzionano senza limiti. Instagram, TikTok, Facebook, Telegram — il caricamento delle foto richiede 2-3 secondi su 4G. Con 5GB ($6.99) puoi caricare circa 5000 foto o guardare 10 ore di video. Per uso intensivo di social con video è meglio 10GB ($11.99).
     - q: |
         Meglio eSIM o SIM fisica per un viaggio in Romania?
       a: |
         La eSIM vince su tutti i fronti: risparmio del 30-50%, installazione in 2 minuti, niente ricerca di negozi. SIM fisica: devi trovare un punto vendita, mostrare il passaporto, inserire nel telefono. Tempo: 30-60 minuti. eSIM Roami: scegli il piano online, ricevi il QR code, scannerizzi — fatto. La tua SIM resta in telefono per le chiamate.
+    - q: |
+        Come attivo la eSIM per Romania prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in Romania.
+    - q: |
+        Quanti GB servono per un viaggio in Romania?
+      a: |
+        Per un uso leggero (mappe, messaggi) bastano 3-5GB; per social e video 10GB sono l'ideale. I piani Roami per Romania partono da $1.99 e puoi ricaricare dall'app in tempo reale.
+    - q: |
+        Quanto costa una eSIM per Romania e conviene rispetto alla SIM locale?
+      a: |
+        I piani Roami per Romania partono da $1.99 e si acquistano online in pochi clic, senza file in negozio né costi di attivazione. Rispetto a una SIM prepagata locale eviti la registrazione con passaporto e l'attesa allo sportello.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Russia eSIM
+    flag: img/flags/ru.svg
+    price: A partire da $2,99
+    is_highlight: false
+    slug: russia
+  - name: Serbia eSIM
+    flag: img/flags/rs.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: serbia
+  - name: Spagna eSIM
+    flag: img/flags/es.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: spain
+  - name: Svezia eSIM
+    flag: img/flags/se.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: sweden
+  - name: Svizzera eSIM
+    flag: img/flags/ch.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: switzerland
+  - name: Turchia eSIM
+    flag: img/flags/tr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: turkey
+  - name: UK eSIM
+    flag: img/flags/gb.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: united-kingdom
+  - name: Albania eSIM
+    flag: img/flags/al.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: albania
+  - name: Andorra eSIM
+    flag: img/flags/ad.svg
+    price: A partire da $6,99
+    is_highlight: false
+    slug: andorra
+  - name: Armenia eSIM
+    flag: img/flags/am.svg
+    price: A partire da $7,99
+    is_highlight: false
+    slug: armenia
+  - name: Austria eSIM
+    flag: img/flags/at.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: austria
+  - name: Azerbaigian eSIM
+    flag: img/flags/az.svg
+    price: A partire da $6,99
+    is_highlight: true
+    slug: azerbaijan
 market_analysis:
   title: "eSIM vs SIM prepagata in Romania: tutto ciò che devi considerare"
   subtitle: "Confronto tra SIM prepagate locali rumene e soluzioni eSIM (riferimento 2024/2025)"

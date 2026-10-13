@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Giordania 2026: Guida Completa | Roami'
-date: '2026-06-15T08:51:27+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,11 +19,11 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: 'Jordan eSIM: Instant Activation, No Paperwork'
-  description: Confronta i piani eSIM Giordania con 5G a Amman, Petra, Aqaba. Guida alla copertura Zain Jordan & Orange Jordan
-    & Umniah. Attivazione QR istantanea da $1.99.
-  keywords: eSIM Giordania, piano eSIM Giordania, migliore eSIM Giordania, Giordania dati, Zain Jordan Giordania, Orange Jordan
-    Giordania, Umniah Giordania, eSIM Amman, eSIM Petra, eSIM Aqaba, internet mobile Giordania, 5G Giordania
+  title: 'eSIM Giordania: piani 5G flessibili per ogni viaggio'
+  description: 'eSIM Giordania: 5G a Amman, Petra e Aqaba, senza vincoli né costi nascosti. Attivazione QR istantanea, prezzi da $6.99.'
+  keywords: eSIM Giordania, piani eSIM Giordania, migliore eSIM Giordania, eSIM Giordania economica, comprare eSIM Giordania online, eSIM Giordania dati illimitati, eSIM Giordania prepagata, migliore eSIM per Giordania, prezzo eSIM Giordania, attivazione eSIM Giordania, copertura eSIM Giordania, migliore eSIM per Amman, eSIM Amman, eSIM Petra
+  low_price: '6.99'
+  high_price: '99.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -263,6 +263,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 📍
+    html: 'Per Amman consigliamo di attivare la eSIM all''arrivo: la validità parte al primo collegamento.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -321,7 +325,7 @@ faq_section:
     - q: |
         Che eSIM consigliate per un turista che va in Giordania?
       a: |
-        La scelta migliore per la maggior parte è 5GB/15 giorni a $9.99. Abbastanza per navigazione, social e messaggistica con circa 300-500MB al giorno. Se guardi video o lavori da remoto, scegli 10GB ($14.99) o illimitato ($59.99). Tutti i piani sono prepagati, senza costi nascosti. Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
+        La scelta migliore per la maggior parte è 5GB/15 giorni a $37.99. Abbastanza per navigazione, social e messaggistica con circa 300-500MB al giorno. Se guardi video o lavori da remoto, scegli 10GB ($25.99) o illimitato ($52.99). Tutti i piani sono prepagati, senza costi nascosti. Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
     - q: |
         Conviene comprare la eSIM prima del viaggio per la Giordania?
       a: |
@@ -337,15 +341,90 @@ faq_section:
     - q: |
         Le videochiamate con Zoom e WhatsApp funzionano bene con eSIM in Giordania?
       a: |
-        Sì, le videochiamate funzionano bene. Una chiamata Zoom di 30 minuti consuma circa 150-300MB. Con 5G (100-300 Mbps) la qualità arriva al 4K, con 4G (10-30 Mbps) le chiamate sono comunque nitide. Per lavoro da remoto consiglio il piano 10GB ($14.99) o illimitato ($59.99).
+        Sì, le videochiamate funzionano bene. Una chiamata Zoom di 30 minuti consuma circa 150-300MB. Con 5G (100-300 Mbps) la qualità arriva al 4K, con 4G (10-30 Mbps) le chiamate sono comunque nitide. Per lavoro da remoto consiglio il piano 10GB ($25.99) o illimitato ($52.99).
     - q: |
         Quanto costa una eSIM per la Giordania?
       a: |
-        Il piano più conveniente per la maggior parte dei turisti è 5GB/15 giorni a $9.99. Bastano per circa 300-500MB al giorno di navigazione e social. Se guardi video o lavori da remoto, scegli 10GB ($14.99) o illimitato ($59.99). Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
+        Il piano più conveniente per la maggior parte dei turisti è 5GB/15 giorni a $37.99. Bastano per circa 300-500MB al giorno di navigazione e social. Se guardi video o lavori da remoto, scegli 10GB ($25.99) o illimitato ($52.99). Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
     - q: |
-        Come si fa a configurare la eSIM sul telefono prima del viaggio?
+        In che modo configurare la eSIM sul telefono prima del viaggio?
       a: |
         Il QR code arriva via email entro 5 minuti dal pagamento. Installazione su iPhone: Impostazioni > Cellulare > Aggiungi eSIM. Su Android: Impostazioni > Rete > Aggiungi eSIM. Processo totale: circa 2 minuti. Consigliamo di installare prima della partenza con WiFi di casa. All'arrivo attiva il roaming dati e sei online.
+    - q: |
+        Come attivo la eSIM per Giordania prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in Giordania.
+    - q: |
+        Quanti GB servono per un viaggio in Giordania?
+      a: |
+        Per un uso leggero (mappe, messaggi) bastano 3-5GB; per social e video 10GB sono l'ideale. I piani Roami per Giordania partono da $6.99 e puoi ricaricare dall'app in tempo reale.
+    - q: |
+        Quanto costa una eSIM per Giordania e conviene rispetto alla SIM locale?
+      a: |
+        I piani Roami per Giordania partono da $6.99 e si acquistano online in pochi clic, senza file in negozio né costi di attivazione. Rispetto a una SIM prepagata locale eviti la registrazione con passaporto e l'attesa allo sportello.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Kuwait eSIM
+    flag: img/flags/kw.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: kuwait
+  - name: Oman eSIM
+    flag: img/flags/om.svg
+    price: A partire da $7,99
+    is_highlight: false
+    slug: oman
+  - name: Qatar eSIM
+    flag: img/flags/qa.svg
+    price: A partire da $6,99
+    is_highlight: false
+    slug: qatar
+  - name: Arabia Saudita eSIM
+    flag: img/flags/sa.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: saudi-arabia
+  - name: UAE eSIM
+    flag: img/flags/ae.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: united-arab-emirates
+  - name: Bahrein eSIM
+    flag: img/flags/bh.svg
+    price: A partire da $6,99
+    is_highlight: false
+    slug: bahrain
+  - name: Iraq eSIM
+    flag: img/flags/iq.svg
+    price: A partire da $21,99
+    is_highlight: false
+    slug: iraq
+  - name: Israele eSIM
+    flag: img/flags/il.svg
+    price: A partire da $2,99
+    is_highlight: false
+    slug: israel
+  - name: Francia eSIM
+    flag: img/flags/fr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: france
+  - name: Germania eSIM
+    flag: img/flags/de.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: germany
+  - name: Spagna eSIM
+    flag: img/flags/es.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: spain
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: A partire da $3,99
+    is_highlight: true
+    slug: canada
 market_analysis:
   title: "eSIM vs SIM fisica in Giordania: viaggio, costi e configurazione a confronto"
   subtitle: "Confronto tra SIM prepagate locali giordane e soluzioni eSIM (riferimento 2024/2025)"

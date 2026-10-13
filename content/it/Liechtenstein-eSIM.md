@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Liechtenstein 2026: Viaggio & Rete | Roami'
-date: '2026-06-15T08:51:27+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,11 +18,12 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: 'Liechtenstein eSIM: High-Speed 5G, No Contract'
+  title: 'eSIM Liechtenstein prepagata: 5G veloce, attivazione in 2 minuti'
   description: Confronta i piani eSIM Liechtenstein con 5G a Vaduz, Schaan, Balzers. Guida alla copertura Swisscom & Salt
     & Sunrise. Attivazione QR istantanea da $1.99.
-  keywords: eSIM Liechtenstein, piano eSIM Liechtenstein, migliore eSIM Liechtenstein, Liechtenstein dati, Swisscom Liechtenstein,
-    Salt Liechtenstein, Sunrise Liechtenstein, eSIM Vaduz, eSIM Schaan, eSIM Balzers, internet mobile Liechtenstein, 5G Liechtenstein
+  keywords: eSIM Liechtenstein, piani eSIM Liechtenstein, migliore eSIM Liechtenstein, eSIM Liechtenstein economica, comprare eSIM Liechtenstein online, eSIM Liechtenstein dati illimitati, eSIM Liechtenstein prepagata, migliore eSIM per Liechtenstein, prezzo eSIM Liechtenstein, attivazione eSIM Liechtenstein, copertura eSIM Liechtenstein, migliore eSIM per Vaduz, eSIM Vaduz, eSIM Schaan
+  low_price: '1.99'
+  high_price: '77.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -342,6 +343,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📱
+    html: 'Tieni la tua SIM fisica attiva per chiamate e SMS; usa la eSIM Liechtenstein solo per la navigazione dati.'
+  - icon: 📍
+    html: 'Per Vaduz consigliamo di attivare la eSIM all''arrivo: la validità parte al primo collegamento.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -404,7 +409,7 @@ faq_section:
     - q: |
         Meglio eSIM o pocket WiFi per viaggiare in Liechtenstein?
       a: |
-        La eSIM è più comoda: non devi portare, caricare e restituire un dispositivo separato. Il pocket WiFi costa $3-8 al giorno più cauzione. Roami eSIM da $1.99 al giorno, funziona direttamente nel telefono, non serve ricarica separata. Entrambi supportano la condivisione internet.
+        La eSIM è più comoda: non devi portare, caricare e restituire un dispositivo separato. Il pocket WiFi costa $3-8 al giorno più cauzione. Roami eSIM da $0.23 al giorno, funziona direttamente nel telefono, non serve ricarica separata. Entrambi supportano la condivisione internet.
     - q: |
         Come capire se la eSIM si è connessa alla rete in Liechtenstein?
       a: |
@@ -418,78 +423,88 @@ faq_section:
       a: |
         Per il 90% dei paesi bastano solo email e metodo di pagamento. Nessun documento richiesto. Dopo il pagamento il QR code arriva via email — scannerizzi e via. Nel 10% dei paesi (Cina, India, Turchia, Pakistan) serve verifica KYC: caricare foto del passaporto nell'app Roami.
     - q: |
-        Quali sono i passaggi per configurare la eSIM prima di partire?
+        Come impostare la eSIM prima di lasciare casa?
       a: |
         L'installazione richiede 2 minuti. Dopo l'acquisto ricevi il QR code via email entro 5 minuti. Su iPhone: Impostazioni > Cellulare > Aggiungi eSIM. Su Android: Impostazioni > Rete > Aggiungi eSIM. Installa prima della partenza con WiFi di casa. All'arrivo in Liechtenstein, attiva il roaming dati — sei online in 60 secondi.
     - q: |
-        La connessione eSIM è protetta per home banking e app?
+        È sicuro usare l'home banking con la eSIM?
       a: |
         Usare la eSIM per i pagamenti è più sicuro del WiFi: i dati sono criptati a livello di rete dell'operatore. Puoi usare senza problemi app come PayPal, bonifici e home banking. Le notifiche SMS arrivano sulla tua SIM fisica. Nessun rischio di intercettazione come sul WiFi pubblico.
+    - q: |
+        La eSIM ha copertura 5G in tutte le città di Liechtenstein?
+      a: |
+        Sì, la eSIM Roami si aggancia alle reti Swisscom e Salt e offre 4G/5G nelle principali città come Vaduz e Schaan. Nelle zone rurali la copertura resta solida in 4G.
+    - q: |
+        A Vaduz la connessione è veloce con la eSIM?
+      a: |
+        A Vaduz la eSIM Roami sfrutta la rete 5G/4G locale: velocità tipiche di 50-200 Mbps in centro. Ottima per mappe, social e videochiamate.
+    - q: |
+        Posso usare la eSIM Liechtenstein e la mia SIM italiana insieme?
+      a: |
+        Sì: la eSIM gestisce i dati mentre la tua SIM italiana resta attiva per chiamate e SMS. Puoi scegliere in Impostazioni quale linea usare per voce, SMS e dati.
 related_products:
   title: Piani eSIM simili
   items:
-  - name: Stati Uniti eSIM
-    flag: img/flags/us.svg
+  - name: Lituania eSIM
+    flag: img/flags/lt.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: united-states-esim
-  - name: Regno Unito eSIM
-    flag: img/flags/gb.svg
+    slug: lithuania
+  - name: Lussemburgo eSIM
+    flag: img/flags/lu.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
+    slug: luxembourg
+  - name: Malta eSIM
+    flag: img/flags/mt.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: malta
+  - name: Montenegro eSIM
+    flag: img/flags/me.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: montenegro
+  - name: Paesi Bassi eSIM
+    flag: img/flags/nl.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: netherlands
+  - name: Norvegia eSIM
+    flag: img/flags/no.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: norway
+  - name: Polonia eSIM
+    flag: img/flags/pl.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: poland
+  - name: Portogallo eSIM
+    flag: img/flags/pt.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: portugal
+  - name: Romania eSIM
+    flag: img/flags/ro.svg
     price: A partire da $1,99
     is_highlight: true
-    slug: europe-esim
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+    slug: romania
+  - name: Russia eSIM
+    flag: img/flags/ru.svg
+    price: A partire da $2,99
+    is_highlight: false
+    slug: russia
+  - name: Serbia eSIM
+    flag: img/flags/rs.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: canada-esim
-  - name: Turchia eSIM
-    flag: img/flags/tr.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: turkey-esim
-  - name: Cina eSIM
-    flag: img/flags/cn.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: china-esim
-  - name: Giappone eSIM
-    flag: img/flags/jp.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: japan-esim
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: Francia eSIM
-    flag: img/flags/fr.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: france-esim
+    slug: serbia
   - name: Spagna eSIM
     flag: img/flags/es.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: spain-esim
-  - name: Germania eSIM
-    flag: img/flags/de.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: germany-esim
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: australia-esim
-
-# =============== Modulo di confronto basato su dati ===============
+    slug: spain
 market_analysis:
   title: "Quale ha il miglior rapporto qualità-prezzo in Liechtenstein: eSIM o prepagata?"
   subtitle: "Confronto tra SIM prepagate locali del Liechtenstein e soluzioni eSIM (riferimento 2024/2025)"

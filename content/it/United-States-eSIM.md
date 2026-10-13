@@ -1,6 +1,6 @@
 ---
 title: 'eSIM USA 2026: Connessione & Velocità | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,8 +21,9 @@ seo:
   title: USA eSIM | Compra al miglior prezzo online
   description: Arrivi in USA? Attiva subito la tua eSIM Roami. Nessun negozio da cercare, nessuna coda. Connesso in pochi
     secondi. Copre tutte le regioni.
-  keywords: eSIM USA, piano eSIM USA, migliore eSIM USA, USA dati, AT&T USA, Verizon USA, T-Mobile USA, eSIM New York, eSIM
-    Los Angeles, eSIM Chicago, internet mobile USA, 5G USA
+  keywords: eSIM USA, piani eSIM USA, migliore eSIM USA, eSIM USA economica, comprare eSIM USA online, eSIM USA dati illimitati, eSIM USA prepagata, migliore eSIM per USA, prezzo eSIM USA, attivazione eSIM USA, copertura eSIM USA, migliore eSIM per New York, eSIM New York, eSIM Los Angeles
+  low_price: '1.99'
+  high_price: '49.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -334,6 +335,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 🗺️
+    html: 'A New York e Los Angeles il 5G copre le zone centrali: scarica le mappe offline prima di partire.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -399,7 +404,7 @@ faq_section:
     - q: |
         La eSIM è adatta per videoconferenze e lavoro online negli USA?
       a: |
-        Sì, la eSIM è perfetta per il lavoro da remoto. Con 5G le velocità raggiungono 100-300 Mbps, sufficienti per videoconferenze Zoom/Teams e invio di file pesanti. Con 4G (10-30 Mbps) puoi lavorare con email e documenti. Per lavoro consigliamo 10GB ($14.99) a settimana o illimitato ($59.99). La eSIM supporta anche la condivisione internet verso il computer.
+        Sì, la eSIM è perfetta per il lavoro da remoto. Con 5G le velocità raggiungono 100-300 Mbps, sufficienti per videoconferenze Zoom/Teams e invio di file pesanti. Con 4G (10-30 Mbps) puoi lavorare con email e documenti. Per lavoro consigliamo 10GB ($7.99) a settimana o illimitato ($8.99). La eSIM supporta anche la condivisione internet verso il computer.
     - q: |
         La eSIM funziona anche in zone rurali e fuori città negli USA?
       a: |
@@ -416,71 +421,81 @@ faq_section:
         Cosa conviene: eSIM o SIM tradizionale per viaggiare negli USA?
       a: |
         La eSIM vince su tutti i fronti: risparmio del 30-50%, installazione in 2 minuti, niente ricerca di negozi. SIM fisica: devi trovare un punto vendita, mostrare il passaporto, inserire nel telefono. Tempo: 30-60 minuti. eSIM Roami: scegli il piano online, ricevi il QR code, scannerizzi — fatto. La tua SIM resta in telefono per le chiamate.
+    - q: |
+        Quanto costa una eSIM per USA e conviene rispetto alla SIM locale?
+      a: |
+        I piani Roami per USA partono da $1.99 e si acquistano online in pochi clic, senza file in negozio né costi di attivazione. Rispetto a una SIM prepagata locale eviti la registrazione con passaporto e l'attesa allo sportello.
+    - q: |
+        La eSIM ha copertura 5G in tutte le città di USA?
+      a: |
+        Sì, la eSIM Roami si aggancia alle reti AT&T e Verizon e offre 4G/5G nelle principali città come New York e Los Angeles. Nelle zone rurali la copertura resta solida in 4G.
+    - q: |
+        A New York la connessione è veloce con la eSIM?
+      a: |
+        A New York la eSIM Roami sfrutta la rete 5G/4G locale: velocità tipiche di 50-200 Mbps in centro. Ottima per mappe, social e videochiamate.
 related_products:
   title: Piani eSIM simili
   items:
-  - name: USA eSIM
-    flag: img/flags/us.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: united-states-esim
-  - name: Regno Unito eSIM
-    flag: img/flags/gb.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: united-kingdom-esim
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: A partire da $1,99
-    is_highlight: true
-    slug: europe-esim
   - name: Canada eSIM
     flag: img/flags/ca.svg
-    price: A partire da $1,99
+    price: A partire da $3,99
     is_highlight: false
-    slug: canada-esim
-  - name: Turchia eSIM
-    flag: img/flags/tr.svg
-    price: A partire da $1,99
+    slug: canada
+  - name: Messico eSIM
+    flag: img/flags/mx.svg
+    price: A partire da $3,99
     is_highlight: false
-    slug: turkey-esim
-  - name: Cina eSIM
-    flag: img/flags/cn.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: china-esim
+    slug: mexico
   - name: Giappone eSIM
     flag: img/flags/jp.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: japan-esim
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: hong-kong-esim
+    slug: japan
   - name: Francia eSIM
     flag: img/flags/fr.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: france-esim
-  - name: Spagna eSIM
-    flag: img/flags/es.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: spain-esim
+    slug: france
   - name: Germania eSIM
     flag: img/flags/de.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: germany-esim
+    slug: germany
+  - name: Spagna eSIM
+    flag: img/flags/es.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: spain
+  - name: Cina eSIM
+    flag: img/flags/cn.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: china
   - name: Australia eSIM
     flag: img/flags/au.svg
     price: A partire da $1,99
+    is_highlight: true
+    slug: australia
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
+    price: A partire da $1,99
     is_highlight: false
-    slug: australia-esim
-
-# =============== Modulo di confronto basato su dati ===============
+    slug: hong-kong
+  - name: Turchia eSIM
+    flag: img/flags/tr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: turkey
+  - name: Italia eSIM
+    flag: img/flags/it.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: italy
+  - name: Singapore eSIM
+    flag: img/flags/sg.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: singapore
 market_analysis:
   title: "Quale ha il miglior rapporto qualità-prezzo in Stati Uniti: eSIM o prepagata?"
   subtitle: "Confronto tra SIM prepagate locali statunitensi e soluzioni eSIM (riferimento 2024/2025)"

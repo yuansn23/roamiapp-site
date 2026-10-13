@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Nuova Zelanda 2026: Piani & Copertura | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,9 +21,9 @@ seo:
   title: Nuova Zelanda eSIM | Dati illimitati per viaggiare
   description: Roami rende il tuo viaggio in Nuova Zelanda più semplice. Scarica l'eSIM prima della partenza, usala all'arrivo.
     Pronto in un attimo.
-  keywords: eSIM Nuova Zelanda, piano eSIM Nuova Zelanda, migliore eSIM Nuova Zelanda, Nuova Zelanda dati, Spark Nuova Zelanda,
-    Vodafone Nuova Zelanda, 2degrees Nuova Zelanda, eSIM Auckland, eSIM Wellington, eSIM Christchurch, internet mobile Nuova
-    Zelanda, 5G Nuova Zelanda
+  keywords: eSIM Nuova Zelanda, piani eSIM Nuova Zelanda, migliore eSIM Nuova Zelanda, eSIM Nuova Zelanda economica, comprare eSIM Nuova Zelanda online, eSIM Nuova Zelanda dati illimitati, eSIM Nuova Zelanda prepagata, migliore eSIM per Nuova Zelanda, prezzo eSIM Nuova Zelanda, attivazione eSIM Nuova Zelanda, copertura eSIM Nuova Zelanda, migliore eSIM per Auckland, eSIM Auckland, eSIM Wellington
+  low_price: '3.99'
+  high_price: '99.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -327,6 +327,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 📍
+    html: 'Per Auckland consigliamo di attivare la eSIM all''arrivo: la validità parte al primo collegamento.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -397,84 +401,94 @@ faq_section:
     - q: |
         Conviene comprare una eSIM per la Nuova Zelanda rispetto a una SIM locale?
       a: |
-        Il piano più conveniente per la maggior parte dei turisti è 5GB/15 giorni a $9.99. Bastano per circa 300-500MB al giorno di navigazione e social. Se guardi video o lavori da remoto, scegli 10GB ($14.99) o illimitato ($59.99). Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
+        Il piano più conveniente per la maggior parte dei turisti è 5GB/15 giorni a $9.99. Bastano per circa 300-500MB al giorno di navigazione e social. Se guardi video o lavori da remoto, scegli 10GB ($8.99) o illimitato ($12.99). Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
     - q: |
         Quanti GB servono al giorno in Nuova Zelanda?
       a: |
-        Un turista medio consuma 300-500MB al giorno tra mappe, social e messaggistica. Con video si arriva a 1-2GB/giorno. Per una settimana bastano 5GB ($9.99), per due settimane 10GB ($14.99). Puoi sempre ricaricare dall'app se il traffico finisce prima.
+        Un turista medio consuma 300-500MB al giorno tra mappe, social e messaggistica. Con video si arriva a 1-2GB/giorno. Per una settimana bastano 5GB ($5.99), per due settimane 10GB ($8.99). Puoi sempre ricaricare dall'app se il traffico finisce prima.
     - q: |
         Instagram, TikTok e Telegram sono accessibili con eSIM in Nuova Zelanda?
       a: |
-        Sì, tutti i social funzionano senza limiti. Instagram, TikTok, Facebook, Telegram — il caricamento delle foto richiede 2-3 secondi su 4G. Con 5GB ($9.99) puoi caricare circa 5000 foto o guardare 10 ore di video. Per uso intensivo di social con video è meglio 10GB ($14.99).
+        Sì, tutti i social funzionano senza limiti. Instagram, TikTok, Facebook, Telegram — il caricamento delle foto richiede 2-3 secondi su 4G. Con 5GB ($5.99) puoi caricare circa 5000 foto o guardare 10 ore di video. Per uso intensivo di social con video è meglio 10GB ($8.99).
     - q: |
         Conviene comprare una SIM in aeroporto all'arrivo in Nuova Zelanda?
       a: |
         No, le SIM in aeroporto costano il 30-50% in più e devi fare la coda con il passaporto. Roami eSIM si compra online in 2 minuti, il QR code arriva via email, non devi cambiare la tua SIM. Risparmi tempo e denaro.
+    - q: |
+        Come attivo la eSIM per Nuova Zelanda prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in Nuova Zelanda.
+    - q: |
+        Quanti GB servono per un viaggio in Nuova Zelanda?
+      a: |
+        Per un uso leggero (mappe, messaggi) bastano 3-5GB; per social e video 10GB sono l'ideale. I piani Roami per Nuova Zelanda partono da $3.99 e puoi ricaricare dall'app in tempo reale.
+    - q: |
+        Quanto costa una eSIM per Nuova Zelanda e conviene rispetto alla SIM locale?
+      a: |
+        I piani Roami per Nuova Zelanda partono da $3.99 e si acquistano online in pochi clic, senza file in negozio né costi di attivazione. Rispetto a una SIM prepagata locale eviti la registrazione con passaporto e l'attesa allo sportello.
 related_products:
   title: Piani eSIM simili
   items:
-  - name: Stati Uniti eSIM
-    flag: img/flags/us.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: united-states-esim
-  - name: Regno Unito eSIM
-    flag: img/flags/gb.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: united-kingdom-esim
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: A partire da $1,99
-    is_highlight: true
-    slug: europe-esim
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: canada-esim
-  - name: Turchia eSIM
-    flag: img/flags/tr.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: turkey-esim
-  - name: Cina eSIM
-    flag: img/flags/cn.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: china-esim
-  - name: Giappone eSIM
-    flag: img/flags/jp.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: japan-esim
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: Francia eSIM
-    flag: img/flags/fr.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: france-esim
-  - name: Spagna eSIM
-    flag: img/flags/es.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: spain-esim
-  - name: Germania eSIM
-    flag: img/flags/de.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: germany-esim
   - name: Australia eSIM
     flag: img/flags/au.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: australia-esim
-
-# =============== Modulo di confronto basato su dati ===============
+    slug: australia
+  - name: Figi eSIM
+    flag: img/flags/fj.svg
+    price: A partire da $6,99
+    is_highlight: false
+    slug: fiji
+  - name: Guam eSIM
+    flag: img/flags/gu.svg
+    price: A partire da $9,99
+    is_highlight: false
+    slug: guam
+  - name: Francia eSIM
+    flag: img/flags/fr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: france
+  - name: Germania eSIM
+    flag: img/flags/de.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: germany
+  - name: Spagna eSIM
+    flag: img/flags/es.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: spain
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: canada
+  - name: Cina eSIM
+    flag: img/flags/cn.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: china
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: hong-kong
+  - name: Turchia eSIM
+    flag: img/flags/tr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: turkey
+  - name: Italia eSIM
+    flag: img/flags/it.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: italy
+  - name: Singapore eSIM
+    flag: img/flags/sg.svg
+    price: A partire da $1,99
+    is_highlight: true
+    slug: singapore
 market_analysis:
   title: "Velocità, copertura e prezzi: eSIM vs prepagata in Nuova Zelanda"
   subtitle: "Confronto tra SIM prepagate locali neozelandesi e soluzioni eSIM (riferimento 2024/2025)"

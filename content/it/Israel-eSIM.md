@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Israele 2026: Turisti & Rete | Roami'
-date: '2026-06-15T08:51:27+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,11 +18,11 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: 'Israel eSIM: Unlimited Data, No Contract Needed'
-  description: Confronta i piani eSIM Israele con 5G a Tel Aviv, Gerusalemme, Haifa. Guida alla copertura Partner Communications
-    & Cellcom Israel & Pelephone. Attivazione QR istantanea da $1.99.
-  keywords: eSIM Israele, piano eSIM Israele, migliore eSIM Israele, Israele dati, Partner Communications Israele, Cellcom
-    Israel Israele, Pelephone Israele, eSIM Tel Aviv, eSIM Gerusalemme, eSIM Haifa, internet mobile Israele, 5G Israele
+  title: 'eSIM Israele 2026: attivazione immediata | Roami'
+  description: 'eSIM Israele per il tuo viaggio: dati 5G a Tel Aviv, Gerusalemme e Haifa. Nessun contratto, QR via email in 5 minuti. Piani da $2.99.'
+  keywords: eSIM Israele, piani eSIM Israele, migliore eSIM Israele, eSIM Israele economica, comprare eSIM Israele online, eSIM Israele dati illimitati, eSIM Israele prepagata, migliore eSIM per Israele, prezzo eSIM Israele, attivazione eSIM Israele, copertura eSIM Israele, migliore eSIM per Tel Aviv, eSIM Tel Aviv, eSIM Gerusalemme
+  low_price: '2.99'
+  high_price: '69.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -318,6 +318,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📱
+    html: 'Tieni la tua SIM fisica attiva per chiamate e SMS; usa la eSIM Israele solo per la navigazione dati.'
+  - icon: 🏙️
+    html: 'Copertura ottimale a Tel Aviv e Gerusalemme: hotspot incluso per condividere i dati con chi viaggia con te.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -383,7 +387,7 @@ faq_section:
     - q: |
         Come aggiungere GB se il traffico della eSIM finisce in Israele?
       a: |
-        Sì, dall'app Roami, in tempo reale. Senza nuovo QR code e senza reinstallare. Consigliamo di ricaricare quando il saldo è al 20%. Roami invia notifiche al 70% e 90% di utilizzo. Pacchetti aggiuntivi disponibili: 1GB ($1.99), 3GB ($4.99), 5GB ($9.99).
+        Sì, dall'app Roami, in tempo reale. Senza nuovo QR code e senza reinstallare. Consigliamo di ricaricare quando il saldo è al 20%. Roami invia notifiche al 70% e 90% di utilizzo. Pacchetti aggiuntivi disponibili: 1GB ($2.99), 3GB ($2.99), 5GB ($4.99).
     - q: |
         È difficile attivare una eSIM per l'Israele? Quanto tempo ci vuole?
       a: |
@@ -393,13 +397,88 @@ faq_section:
       a: |
         In pratica i turisti ottengono: in centro città 50-200 Mbps (5G), in zone residenziali 15-50 Mbps (4G+), in aeroporti e centri commerciali 20-100 Mbps. La sera la velocità può calare del 20-30% per il carico della rete. Per la maggior parte delle attività questa velocità è più che sufficiente.
     - q: |
-        Perché la eSIM non si connette alla rete e come risolvere?
+        La eSIM non si registra sulla rete: come intervenire?
       a: |
         Tre passaggi da 30 secondi ciascuno: 1) Il roaming dati è attivo nelle impostazioni? 2) Prova la selezione manuale dell'operatore: scegli Cellcom dalla lista. 3) Riavvia il telefono. Il 90% dei problemi si risolve con uno di questi passaggi. Se non funziona, il supporto Roami 24/7 risponde in 2 minuti.
     - q: |
         Posso guardare Netflix e YouTube con la eSIM in Israele?
       a: |
         Sì, lo streaming funziona senza limiti. Netflix in HD consuma circa 1GB/ora, YouTube 500-800MB/ora. Con 5GB puoi guardare 5-6 ore di video HD. Per uso intensivo meglio il piano illimitato. Con 5G la qualità arriva al 4K, con 4G lo streaming in 1080p è fluido.
+    - q: |
+        Quanti GB servono per un viaggio in Israele?
+      a: |
+        Per un uso leggero (mappe, messaggi) bastano 3-5GB; per social e video 10GB sono l'ideale. I piani Roami per Israele partono da $2.99 e puoi ricaricare dall'app in tempo reale.
+    - q: |
+        Quanto costa una eSIM per Israele e conviene rispetto alla SIM locale?
+      a: |
+        I piani Roami per Israele partono da $2.99 e si acquistano online in pochi clic, senza file in negozio né costi di attivazione. Rispetto a una SIM prepagata locale eviti la registrazione con passaporto e l'attesa allo sportello.
+    - q: |
+        La eSIM ha copertura 5G in tutte le città di Israele?
+      a: |
+        Sì, la eSIM Roami si aggancia alle reti Partner Communications e Cellcom Israel e offre 4G/5G nelle principali città come Tel Aviv e Gerusalemme. Nelle zone rurali la copertura resta solida in 4G.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Giordania eSIM
+    flag: img/flags/jo.svg
+    price: A partire da $6,99
+    is_highlight: false
+    slug: jordan
+  - name: Kuwait eSIM
+    flag: img/flags/kw.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: kuwait
+  - name: Oman eSIM
+    flag: img/flags/om.svg
+    price: A partire da $7,99
+    is_highlight: false
+    slug: oman
+  - name: Qatar eSIM
+    flag: img/flags/qa.svg
+    price: A partire da $6,99
+    is_highlight: false
+    slug: qatar
+  - name: Arabia Saudita eSIM
+    flag: img/flags/sa.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: saudi-arabia
+  - name: UAE eSIM
+    flag: img/flags/ae.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: united-arab-emirates
+  - name: Bahrein eSIM
+    flag: img/flags/bh.svg
+    price: A partire da $6,99
+    is_highlight: true
+    slug: bahrain
+  - name: Iraq eSIM
+    flag: img/flags/iq.svg
+    price: A partire da $21,99
+    is_highlight: false
+    slug: iraq
+  - name: Giappone eSIM
+    flag: img/flags/jp.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: japan
+  - name: Francia eSIM
+    flag: img/flags/fr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: france
+  - name: Germania eSIM
+    flag: img/flags/de.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: germany
+  - name: Spagna eSIM
+    flag: img/flags/es.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: spain
 market_analysis:
   title: "Attivazione e configurazione: eSIM vs SIM fisica in Israele"
   subtitle: "Confronto tra SIM prepagate locali israeliane e soluzioni eSIM (riferimento 2024/2025)"
@@ -414,25 +493,25 @@ market_analysis:
     - icon: "store"
       title: "Acquisizione e attivazione"
       prepaid_title: ""
-      prepaid_desc: "Partner: 30天套餐起步，无短期周套餐；机场溢价：在本古里安机场书店出售的此卡，价格是市区的1.5到2倍。"
+      prepaid_desc: "Partner parte da piani da 30 giorni, senza pacchetti settimanali brevi; sovrapprezzo aeroportuale: la stessa SIM venduta alla libreria del Ben Gurion costa da 1,5 a 2 volte il prezzo in città."
       esim_title: "Attivazione istantanea digitale"
       esim_desc: "Evita le file nei negozi e le truffe aeroportuali (es. 019 Mobile vende 10 giorni/10GB a 29$ in aeroporto contro i 49₪ per 30 giorni/50GB in città). Attiva online in un minuto."
     - icon: "id-card"
       title: "KYC e registrazione passaporto"
       prepaid_title: ""
-      prepaid_desc: "尽管“所有预付卡均为匿名”，但激活并非零门槛（如Partner需手动操作开通4G）。"
+      prepaid_desc: "Sebbene «tutte le prepagate siano anonime», l'attivazione non è immediata (ad es. Partner richiede l'attivazione manuale del 4G)."
       esim_title: "Nessun passaporto richiesto"
       esim_desc: "Salta la registrazione con passaporto e l'attivazione manuale del 4G (es. Partner richiede di chiamare *454 in ebraico). Con eSIM, nessun KYC."
     - icon: "globe"
       title: "Roaming internazionale"
       prepaid_title: ""
-      prepaid_desc: "Golan Telecom明确无国际漫游；Pelephone的500GB套餐仅含以色列本地流量，若需拨打国际电话，必须额外加购₪30的通话包。"
+      prepaid_desc: "Golan Telecom non offre roaming internazionale; il piano da 500GB di Pelephone include solo traffico locale israeliano e per le chiamate internazionali serve un pacchetto voce aggiuntivo da ₪30."
       esim_title: "Roaming globale senza sorprese"
       esim_desc: "Evita il blocco di Golan Telecom (nessun roaming) e i costi aggiuntivi di Pelephone (₪30 per chiamate internazionali). Roami offre piani multinazione senza costi extra."
     - icon: "calendar-xmark"
       title: "Ciclo di fatturazione e costi sprecati"
       prepaid_title: ""
-      prepaid_desc: "Partner套餐计费周期全部为30天，价格从₪60起步；短期游客被迫购买50GB-100GB的月度包，浪费75%以上。"
+      prepaid_desc: "I piani Partner hanno tutti un ciclo di 30 giorni, da ₪60: i turisti a breve termine sono costretti ad acquistare pacchetti mensili da 50-100GB, sprecandone oltre il 75%."
       esim_title: "Piani flessibili senza sprechi"
       esim_desc: "A differenza dei piani obbligatori da 30 giorni di Partner (₪60/125GB), Roami offre piani da 7 giorni a partire da 1,99 $/GB, risparmiando oltre il 75% di spreco."
     - icon: "wifi"
@@ -444,7 +523,7 @@ market_analysis:
     - icon: "credit-card"
       title: "Ricarica e pagamento"
       prepaid_title: ""
-      prepaid_desc: "从以色列境外在线充值极其困难，主流支付方式不接受国际信用卡，仅有的线上渠道PAYEXPRESS或WebMoney对于短期游客几乎不可行。"
+      prepaid_desc: "La ricarica online dall'estero è estremamente difficile: i principali metodi di pagamento non accettano carte internazionali e i pochi canali online (PAYEXPRESS o WebMoney) sono impraticabili per i turisti a breve termine."
       esim_title: "Pagamenti globali facili"
       esim_desc: "Evita il problema della ricarica online (le carte estere non sono accettate). Paga con Visa, Mastercard, AMEX, Apple Pay, Google Pay o PayPal."
     - icon: "headset"

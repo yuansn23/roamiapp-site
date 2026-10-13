@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Repubblica Dominicana 2026: Turisti & Rete | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Claro, Altice, Viva
   competitors: Airalo, Holafly, Nomad, Airhub, Truphone
   main_cities: Santo Domingo, Punta Cana, Santiago de los Caballeros, La Romana, Puerto Plata
-  main_packages: 3/7/15/30 giorni, dati illimitati
+  main_packages: 1GB/3GB/5GB/8GB/10GB/15GB, 7/15/30 giorni
 modal:
   title: Aggiornamento del servizio!
   btn_text: Continua
@@ -18,12 +18,12 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: Repubblica Dominicana eSIM | Dati illimitati per viaggiare
+  title: 'eSIM Dominican Republic: 5G e piani dati flessibili | Roami'
   description: Con Roami in Repubblica Dominicana dì addio ai limiti di dati. 5G veloce per tutte le tue esigenze di viaggio.
     Sempre connesso. Copre tutte le regioni.
-  keywords: eSIM Repubblica Dominicana, piano eSIM Repubblica Dominicana, migliore eSIM Repubblica Dominicana, Repubblica
-    Dominicana dati, Claro Repubblica Dominicana, Altice Repubblica Dominicana, Viva Repubblica Dominicana, eSIM Santo Domingo,
-    eSIM Punta Cana, eSIM Santiago de los Caballeros, internet mobile Repubblica Dominicana, 5G Repubblica Dominicana
+  keywords: eSIM Repubblica Dominicana, piani eSIM Repubblica Dominicana, migliore eSIM Repubblica Dominicana, eSIM Repubblica Dominicana economica, comprare eSIM Repubblica Dominicana online, piani dati eSIM Repubblica Dominicana, eSIM Repubblica Dominicana prepagata, migliore eSIM per Repubblica Dominicana, prezzo eSIM Repubblica Dominicana, attivazione eSIM Repubblica Dominicana, copertura eSIM Repubblica Dominicana, migliore eSIM per Santo Domingo, eSIM Santo Domingo, eSIM Punta Cana
+  low_price: '5.99'
+  high_price: '54.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -239,6 +239,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 🗺️
+    html: 'A Santo Domingo e Punta Cana il 5G copre le zone centrali: scarica le mappe offline prima di partire.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -297,23 +301,23 @@ faq_section:
     - q: |
         Quanti GB servono al giorno in Repubblica Dominicana?
       a: |
-        L'uso tipico giornaliero: navigatore 50-80MB/h, social 150-200MB, messaggistica 50-100MB. Con video streaming si sale a 1-2GB/h. 5GB ($9.99) sono sufficienti per 7-10 giorni di uso moderato. Consiglio: scarica le mappe offline in hotel per risparmiare traffico.
+        L'uso tipico giornaliero: navigatore 50-80MB/h, social 150-200MB, messaggistica 50-100MB. Con video streaming si sale a 1-2GB/h. 5GB ($18.99) sono sufficienti per 7-10 giorni di uso moderato. Consiglio: scarica le mappe offline in hotel per risparmiare traffico.
     - q: |
         Instagram, TikTok e Telegram sono accessibili con eSIM in Repubblica Dominicana?
       a: |
-        Tutte le app funzionano: il feed Instagram si carica in 1-2 secondi, i video TikTok senza buffering, i messaggi Telegram sono istantanei. Al giorno sui social si consumano 200-400MB con uso attivo. 5GB ($9.99) bastano per 12-20 giorni di navigazione moderata.
+        Tutte le app funzionano: il feed Instagram si carica in 1-2 secondi, i video TikTok senza buffering, i messaggi Telegram sono istantanei. Al giorno sui social si consumano 200-400MB con uso attivo. 5GB ($18.99) bastano per 12-20 giorni di navigazione moderata.
     - q: |
         Qual è la migliore eSIM da acquistare per un viaggio in Repubblica Dominicana?
       a: |
-        La scelta migliore per la maggior parte è 5GB/15 giorni a $9.99. Abbastanza per navigazione, social e messaggistica con circa 300-500MB al giorno. Se guardi video o lavori da remoto, scegli 10GB ($14.99) o illimitato ($59.99). Tutti i piani sono prepagati, senza costi nascosti. Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
+        La scelta migliore per la maggior parte è 5GB/15 giorni a $19.99. Abbastanza per navigazione, social e messaggistica con circa 300-500MB al giorno. Se guardi video o lavori da remoto, scegli 10GB ($32.99) o 15GB ($31.99). Tutti i piani sono prepagati, senza costi nascosti. Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
     - q: |
         Cosa conviene: eSIM o SIM tradizionale per viaggiare in Repubblica Dominicana?
       a: |
-        La eSIM è meglio: costa il 30-50% in meno, non devi cambiare SIM, puoi installarla prima di partire. La SIM fisica richiede coda in aeroporto e passaporto — 15-30 minuti persi. Roami eSIM da $1.99, installazione in 2 minuti. Se hai iPhone XR o più recente, o un Android moderno, la eSIM è la scelta migliore. Il tuo numero italiano resta attivo per SMS e chiamate.
+        La eSIM è meglio: costa il 30-50% in meno, non devi cambiare SIM, puoi installarla prima di partire. La SIM fisica richiede coda in aeroporto e passaporto — 15-30 minuti persi. Roami eSIM da $5.99, installazione in 2 minuti. Se hai iPhone XR o più recente, o un Android moderno, la eSIM è la scelta migliore. Il tuo numero italiano resta attivo per SMS e chiamate.
     - q: |
         Come aggiungere GB se il traffico della eSIM finisce in Repubblica Dominicana?
       a: |
-        Sì, dall'app Roami, in tempo reale. Senza nuovo QR code e senza reinstallare. Consigliamo di ricaricare quando il saldo è al 20%. Roami invia notifiche al 70% e 90% di utilizzo. Pacchetti aggiuntivi disponibili: 1GB ($1.99), 3GB ($4.99), 5GB ($9.99).
+        Sì, dall'app Roami, in tempo reale. Senza nuovo QR code e senza reinstallare. Consigliamo di ricaricare quando il saldo è al 20%. Roami invia notifiche al 70% e 90% di utilizzo. Pacchetti aggiuntivi disponibili: 1GB ($5.99), 3GB ($10.99), 5GB ($18.99).
     - q: |
         Come verificare se la eSIM funziona correttamente in Repubblica Dominicana?
       a: |
@@ -321,68 +325,80 @@ faq_section:
     - q: |
         Quanto risparmio usando eSIM invece del roaming in Repubblica Dominicana?
       a: |
-        Il risparmio è notevole: 1GB in roaming costa €10-20 dagli operatori italiani, mentre Roami offre 5GB a $9.99. Differenza di 10-20 volte. Inoltre con la eSIM non hai limiti di velocità dopo il consumo del pacchetto — puoi ricaricare istantaneamente dall'app. Nessuna sorpresa in bolletta.
+        Il risparmio è notevole: 1GB in roaming costa €10-20 dagli operatori italiani, mentre Roami offre 5GB a $18.99. Differenza di 10-20 volte. Inoltre con la eSIM non hai limiti di velocità dopo il consumo del pacchetto — puoi ricaricare istantaneamente dall'app. Nessuna sorpresa in bolletta.
+    - q: |
+        Quanto costa una eSIM per Repubblica Dominicana e conviene rispetto alla SIM locale?
+      a: |
+        I piani Roami per Repubblica Dominicana partono da $5.99 e si acquistano online in pochi clic, senza file in negozio né costi di attivazione. Rispetto a una SIM prepagata locale eviti la registrazione con passaporto e l'attesa allo sportello.
+    - q: |
+        La eSIM ha copertura 5G in tutte le città di Repubblica Dominicana?
+      a: |
+        Sì, la eSIM Roami si aggancia alle reti Claro e Altice e offre 4G/5G nelle principali città come Santo Domingo e Punta Cana. Nelle zone rurali la copertura resta solida in 4G.
+    - q: |
+        A Santo Domingo la connessione è veloce con la eSIM?
+      a: |
+        A Santo Domingo la eSIM Roami sfrutta la rete 5G/4G locale: velocità tipiche di 50-200 Mbps in centro. Ottima per mappe, social e videochiamate.
 related_products:
   title: Piani eSIM simili
   items:
-  - name: Stati Uniti eSIM
-    flag: img/flags/us.svg
-    price: A partire da $1,99
+  - name: El Salvador eSIM
+    flag: img/flags/sv.svg
+    price: A partire da $23,99
     is_highlight: false
-    slug: united-states-esim
-  - name: Regno Unito eSIM
-    flag: img/flags/gb.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: united-kingdom-esim
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: A partire da $1,99
+    slug: el-salvador
+  - name: Grenada eSIM
+    flag: img/flags/gd.svg
+    price: A partire da $11,99
     is_highlight: true
-    slug: europe-esim
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: A partire da $1,99
+    slug: grenada
+  - name: Guadalupa eSIM
+    flag: img/flags/gp.svg
+    price: A partire da $8,99
     is_highlight: false
-    slug: canada-esim
-  - name: Turchia eSIM
-    flag: img/flags/tr.svg
-    price: A partire da $1,99
+    slug: guadeloupe
+  - name: Guatemala eSIM
+    flag: img/flags/gt.svg
+    price: A partire da $11,99
     is_highlight: false
-    slug: turkey-esim
-  - name: Cina eSIM
-    flag: img/flags/cn.svg
-    price: A partire da $1,99
+    slug: guatemala
+  - name: Honduras eSIM
+    flag: img/flags/hn.svg
+    price: A partire da $6,99
     is_highlight: false
-    slug: china-esim
-  - name: Giappone eSIM
-    flag: img/flags/jp.svg
-    price: A partire da $1,99
+    slug: honduras
+  - name: Giamaica eSIM
+    flag: img/flags/jm.svg
+    price: A partire da $11,99
     is_highlight: false
-    slug: japan-esim
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: A partire da $1,99
+    slug: jamaica
+  - name: Panama eSIM
+    flag: img/flags/pa.svg
+    price: A partire da $11,99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: Francia eSIM
-    flag: img/flags/fr.svg
-    price: A partire da $1,99
+    slug: panama
+  - name: Bahamas eSIM
+    flag: img/flags/bs.svg
+    price: A partire da $16,99
     is_highlight: false
-    slug: france-esim
-  - name: Spagna eSIM
-    flag: img/flags/es.svg
-    price: A partire da $1,99
+    slug: bahamas
+  - name: Barbados eSIM
+    flag: img/flags/bb.svg
+    price: A partire da $11,99
     is_highlight: false
-    slug: spain-esim
+    slug: barbados
+  - name: Costa Rica eSIM
+    flag: img/flags/cr.svg
+    price: A partire da $9,99
+    is_highlight: false
+    slug: costa-rica
+  - name: Dominica eSIM
+    flag: img/flags/dm.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: dominica
   - name: Germania eSIM
     flag: img/flags/de.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: germany-esim
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: australia-esim
+    slug: germany
 ---

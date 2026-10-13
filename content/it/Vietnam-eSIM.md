@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Vietnam 2026: Guida Completa | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,8 +21,9 @@ seo:
   title: Vietnam eSIM | Attivazione immediata conveniente
   description: Ordina la tua eSIM per Vietnam da Roami. Semplice, veloce e sarai connesso prima ancora di partire. Copre Hanoi,
     Ho Chi Minh & Da Nang.
-  keywords: eSIM Vietnam, piano eSIM Vietnam, migliore eSIM Vietnam, Vietnam dati, Viettel Vietnam, Vinaphone Vietnam, Mobifone
-    Vietnam, eSIM Hanoi, eSIM Ho Chi Minh City, eSIM Da Nang, internet mobile Vietnam, 5G Vietnam
+  keywords: eSIM Vietnam, piani eSIM Vietnam, migliore eSIM Vietnam, eSIM Vietnam economica, comprare eSIM Vietnam online, eSIM Vietnam dati illimitati, eSIM Vietnam prepagata, migliore eSIM per Vietnam, prezzo eSIM Vietnam, attivazione eSIM Vietnam, copertura eSIM Vietnam, migliore eSIM per Hanoi, eSIM Hanoi, eSIM Ho Chi Minh City
+  low_price: '1.99'
+  high_price: '74.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -326,6 +327,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📱
+    html: 'Tieni la tua SIM fisica attiva per chiamate e SMS; usa la eSIM Vietnam solo per la navigazione dati.'
+  - icon: 🗺️
+    html: 'A Hanoi e Ho Chi Minh City il 5G copre le zone centrali: scarica le mappe offline prima di partire.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -383,11 +388,11 @@ faq_section:
     - q: |
         Quale piano eSIM scegliere per un viaggio in Vietnam?
       a: |
-        I piani Roami partono da $1.99 (7 giorni, 1GB) fino a $59.99 (30 giorni, illimitato). Il piano più popolare è 5GB/15 giorni a $9.99 — sufficiente per navigazione, social e messaggistica. Per uso intensivo con video, scegli 10GB ($14.99) o illimitato ($59.99). Tutti i piani sono prepagati, senza costi nascosti e senza rinnovo automatico.
+        I piani Roami partono da $1.99 (3 giorni, 1GB) fino a $74.99 (30 giorni, illimitato). Il piano più popolare è 5GB/15 giorni a $11.99 — sufficiente per navigazione, social e messaggistica. Per uso intensivo con video, scegli 10GB ($8.99) o illimitato ($10.99). Tutti i piani sono prepagati, senza costi nascosti e senza rinnovo automatico.
     - q: |
         Che qualità hanno le videochiamate con la eSIM in Vietnam?
       a: |
-        Sì, le videochiamate funzionano bene. Una chiamata Zoom di 30 minuti consuma circa 150-300MB. Con 5G (100-300 Mbps) la qualità arriva al 4K, con 4G (10-30 Mbps) le chiamate sono comunque nitide. Per lavoro da remoto consiglio il piano 10GB ($14.99) o illimitato ($59.99).
+        Sì, le videochiamate funzionano bene. Una chiamata Zoom di 30 minuti consuma circa 150-300MB. Con 5G (100-300 Mbps) la qualità arriva al 4K, con 4G (10-30 Mbps) le chiamate sono comunque nitide. Per lavoro da remoto consiglio il piano 10GB ($8.99) o illimitato ($10.99).
     - q: |
         Si può installare la eSIM a casa o serve farlo all'arrivo in Vietnam?
       a: |
@@ -397,17 +402,92 @@ faq_section:
       a: |
         La eSIM vince su tutti i fronti: risparmio del 30-50%, installazione in 2 minuti, niente ricerca di negozi. SIM fisica: devi trovare un punto vendita, mostrare il passaporto, inserire nel telefono. Tempo: 30-60 minuti. eSIM Roami: scegli il piano online, ricevi il QR code, scannerizzi — fatto. La tua SIM resta in telefono per le chiamate.
     - q: |
-        Dopo l'acquisto della eSIM, cosa devo fare per attivarla?
+        Dopo aver comprato la eSIM, quali sono i passi per attivarla?
       a: |
         1) Acquista il piano sul sito Roami (30 sec). 2) Ricevi il QR code via email (fino a 5 min). 3) Su iPhone: Impostazioni > Cellulare > Aggiungi eSIM. Su Android: Impostazioni > Connessioni > Gestore SIM > eSIM. 4) Scannerizza il QR code. 5) Assegna la eSIM per i dati. 6) All'arrivo in Vietnam attiva il roaming dati. Fatto!
     - q: |
         Esiste un piano minimo per un weekend in Vietnam?
       a: |
-        Sì, per viaggi brevi c'è il piano 7 giorni / 1GB a $1.99 — ideale per un weekend. Per 3-4 giorni bastano 3GB ($4.99). Il piano inizia dal primo aggancio alla rete locale, quindi usi esattamente i tuoi giorni. Acquista e installa prima della partenza per essere subito operativo all'arrivo.
+        Sì, per viaggi brevi c'è il piano 7 giorni / 1GB a $3.99 — ideale per un weekend. Per 3-4 giorni bastano 3GB ($3.99). Il piano inizia dal primo aggancio alla rete locale, quindi usi esattamente i tuoi giorni. Acquista e installa prima della partenza per essere subito operativo all'arrivo.
     - q: |
         Si può lavorare da remoto con la eSIM in Vietnam?
       a: |
-        Per lavoro da remoto la eSIM è ideale: velocità 50-200 Mbps permettono di lavorare con servizi cloud, partecipare a conferenze Zoom e caricare file di qualsiasi dimensione. Ping 20-50ms è adatto anche per VPN e giochi online. Consigliamo un piano da 10GB+ ($14.99) se lavori con video e file grandi.
+        Per lavoro da remoto la eSIM è ideale: velocità 50-200 Mbps permettono di lavorare con servizi cloud, partecipare a conferenze Zoom e caricare file di qualsiasi dimensione. Ping 20-50ms è adatto anche per VPN e giochi online. Consigliamo un piano da 10GB+ ($8.99) se lavori con video e file grandi.
+    - q: |
+        Posso usare la eSIM Vietnam e la mia SIM italiana insieme?
+      a: |
+        Sì: la eSIM gestisce i dati mentre la tua SIM italiana resta attiva per chiamate e SMS. Puoi scegliere in Impostazioni quale linea usare per voce, SMS e dati.
+    - q: |
+        Come attivo la eSIM per Vietnam prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in Vietnam.
+    - q: |
+        Quanti GB servono per un viaggio in Vietnam?
+      a: |
+        Per un uso leggero (mappe, messaggi) bastano 3-5GB; per social e video 10GB sono l'ideale. I piani Roami per Vietnam partono da $1.99 e puoi ricaricare dall'app in tempo reale.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Afghanistan eSIM
+    flag: img/flags/af.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: afghanistan
+  - name: Bangladesh eSIM
+    flag: img/flags/bd.svg
+    price: A partire da $5,99
+    is_highlight: false
+    slug: bangladesh
+  - name: Brunei eSIM
+    flag: img/flags/bn.svg
+    price: A partire da $9,99
+    is_highlight: false
+    slug: brunei
+  - name: Cambogia eSIM
+    flag: img/flags/kh.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: cambodia
+  - name: Cina eSIM
+    flag: img/flags/cn.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: china
+  - name: Hong Kong eSIM
+    flag: img/flags/hk.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: hong-kong
+  - name: India eSIM
+    flag: img/flags/in.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: india
+  - name: Indonesia eSIM
+    flag: img/flags/id.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: indonesia
+  - name: Giappone eSIM
+    flag: img/flags/jp.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: japan
+  - name: Kazakistan eSIM
+    flag: img/flags/kz.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: kazakhstan
+  - name: Kirghizistan eSIM
+    flag: img/flags/kg.svg
+    price: A partire da $4,99
+    is_highlight: true
+    slug: kyrgyzstan
+  - name: Laos eSIM
+    flag: img/flags/la.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: laos
 market_analysis:
   title: "eSIM o piano SIM in Vietnam: quale soddisfa le tue esigenze?"
   subtitle: "Confronto tra SIM prepagate locali vietnamite e soluzioni eSIM (riferimento 2024/2025)"

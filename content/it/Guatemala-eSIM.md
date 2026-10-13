@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Guatemala 2026: Turisti & Rete | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Tigo, Claro, Movistar
   competitors: Airalo, Holafly, Nomad, BNESIM, Simify
   main_cities: Città del Guatemala, Antigua Guatemala, Quetzaltenango, Flores, Puerto Barrios
-  main_packages: 3/7/15/30 giorni, dati illimitati
+  main_packages: 1GB/3GB/5GB/10GB/20GB, 7/15/30 giorni
 modal:
   title: Aggiornamento del servizio!
   btn_text: Continua
@@ -19,11 +19,10 @@ modal:
     di sconto con codice: web20'
 seo:
   title: Guatemala eSIM | Ricarica immediata senza contratto
-  description: Viaggi in Guatemala? Attiva la tua eSIM Roami in meno di 2 minuti. Nessuna procedura complicata, ricevi il
-    QR code via email e sei subito online. Copre tutte le regioni.
-  keywords: eSIM Guatemala, piano eSIM Guatemala, migliore eSIM Guatemala, Guatemala dati, Tigo Guatemala, Claro Guatemala,
-    Movistar Guatemala, eSIM Città del Guatemala, eSIM Antigua Guatemala, eSIM Quetzaltenango, internet mobile Guatemala,
-    5G Guatemala
+  description: 'Roami eSIM per Guatemala: rete Tigo, dati 5G a Città del Guatemala e Antigua Guatemala. Nessun contratto, assistenza 24/7. Da $11.99.'
+  keywords: eSIM Guatemala, piani eSIM Guatemala, migliore eSIM Guatemala, eSIM Guatemala economica, comprare eSIM Guatemala online, piani dati eSIM Guatemala, eSIM Guatemala prepagata, migliore eSIM per Guatemala, prezzo eSIM Guatemala, attivazione eSIM Guatemala, copertura eSIM Guatemala, migliore eSIM per Città del Guatemala, eSIM Città del Guatemala, eSIM Antigua Guatemala
+  low_price: '11.99'
+  high_price: '48.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -180,6 +179,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📱
+    html: 'Tieni la tua SIM fisica attiva per chiamate e SMS; usa la eSIM Guatemala solo per la navigazione dati.'
+  - icon: 📍
+    html: 'Per Città del Guatemala consigliamo di attivare la eSIM all''arrivo: la validità parte al primo collegamento.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -234,23 +237,23 @@ faq_section:
     - q: |
         Quanto internet serve per il navigatore e le mappe in Guatemala?
       a: |
-        Google Maps consuma circa 5MB all'ora — qualsiasi piano Roami (da $1.99) va bene per la navigazione. Per scaricare le mappe di una città servono 200-500MB, fallo prima con WiFi. Se ascolti anche musica e usi social in viaggio, bastano 5GB ($9.99) a settimana. La navigazione funziona anche su 3G lento — non ti perderai.
+        Google Maps consuma circa 5MB all'ora — qualsiasi piano Roami (da $11.99) va bene per la navigazione. Per scaricare le mappe di una città servono 200-500MB, fallo prima con WiFi. Se ascolti anche musica e usi social in viaggio, bastano 5GB ($35.99) a settimana. La navigazione funziona anche su 3G lento — non ti perderai.
     - q: |
-        Perché la eSIM non si connette alla rete e come risolvere?
+        La eSIM non ha segnale: perché succede e come si risolve?
       a: |
         Il problema più comune è il roaming dati disattivato — controlla in Impostazioni > Cellulare > Opzioni dati. Se il roaming è attivo, prova la selezione manuale della rete. Il riavvio del telefono risolve i casi restanti. Il supporto Roami è disponibile 24/7 via chat con risposta in circa 2 minuti.
     - q: |
         Esiste un piano minimo per un weekend in Guatemala?
       a: |
-        Sì, per viaggi brevi la eSIM è perfetta. Il piano minimo è 7 giorni / 1GB a $1.99 — sufficiente per mappe e messaggi. Per 3-5 giorni di uso attivo consigliamo 3GB ($4.99). Installazione in 2 minuti, acquisto fino a 5 minuti prima della partenza. All'arrivo in Guatemala attiva il roaming dati e sei subito online.
+        Sì, per viaggi brevi la eSIM è perfetta. Il piano minimo è 7 giorni / 1GB a $11.99 — sufficiente per mappe e messaggi. Per 3-5 giorni di uso attivo consigliamo 3GB ($15.99). Installazione in 2 minuti, acquisto fino a 5 minuti prima della partenza. All'arrivo in Guatemala attiva il roaming dati e sei subito online.
     - q: |
         Posso condividere internet dalla eSIM al computer in Guatemala?
       a: |
-        Sì, tutti i piani Roami supportano la modalità hotspot. Attiva la condivisione nelle impostazioni del telefono. Per lavorare con il computer (videoconferenze, file) consigliamo il piano 10GB ($14.99) o illimitato ($59.99). La condivisione funziona senza costi aggiuntivi.
+        Sì, tutti i piani Roami supportano la modalità hotspot. Attiva la condivisione nelle impostazioni del telefono. Per lavorare con il computer (videoconferenze, file) consigliamo il piano 10GB ($48.99) o 20GB ($30.99). La condivisione funziona senza costi aggiuntivi.
     - q: |
         Che eSIM consigliate per un turista che va in Guatemala?
       a: |
-        La scelta migliore per la maggior parte è 5GB/15 giorni a $9.99. Abbastanza per navigazione, social e messaggistica con circa 300-500MB al giorno. Se guardi video o lavori da remoto, scegli 10GB ($14.99) o illimitato ($59.99). Tutti i piani sono prepagati, senza costi nascosti. Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
+        La scelta migliore per la maggior parte è 5GB/15 giorni a $35.99. Abbastanza per navigazione, social e messaggistica con circa 300-500MB al giorno. Se guardi video o lavori da remoto, scegli 10GB ($48.99) o 20GB ($30.99). Tutti i piani sono prepagati, senza costi nascosti. Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
     - q: |
         Come verificare se la eSIM funziona correttamente in Guatemala?
       a: |
@@ -263,6 +266,81 @@ faq_section:
         Devo togliere la SIM fisica per usare la eSIM in Guatemala?
       a: |
         No, la SIM rimane nello slot 1. La eSIM funziona in parallelo nello slot 2. Usa il tuo numero per SMS e chiamate, la eSIM per internet. Risparmio del 30-50% rispetto alla SIM in aeroporto. Nelle impostazioni puoi assegnare: SIM 1 per voce, eSIM per dati.
+    - q: |
+        La eSIM ha copertura 5G in tutte le città di Guatemala?
+      a: |
+        Sì, la eSIM Roami si aggancia alle reti Tigo e Claro e offre 4G/5G nelle principali città come Città del Guatemala e Antigua Guatemala. Nelle zone rurali la copertura resta solida in 4G.
+    - q: |
+        A Città del Guatemala la connessione è veloce con la eSIM?
+      a: |
+        A Città del Guatemala la eSIM Roami sfrutta la rete 5G/4G locale: velocità tipiche di 50-200 Mbps in centro. Ottima per mappe, social e videochiamate.
+    - q: |
+        Posso usare la eSIM Guatemala e la mia SIM italiana insieme?
+      a: |
+        Sì: la eSIM gestisce i dati mentre la tua SIM italiana resta attiva per chiamate e SMS. Puoi scegliere in Impostazioni quale linea usare per voce, SMS e dati.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Honduras eSIM
+    flag: img/flags/hn.svg
+    price: A partire da $6,99
+    is_highlight: false
+    slug: honduras
+  - name: Giamaica eSIM
+    flag: img/flags/jm.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: jamaica
+  - name: Panama eSIM
+    flag: img/flags/pa.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: panama
+  - name: Bahamas eSIM
+    flag: img/flags/bs.svg
+    price: A partire da $16,99
+    is_highlight: false
+    slug: bahamas
+  - name: Barbados eSIM
+    flag: img/flags/bb.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: barbados
+  - name: Costa Rica eSIM
+    flag: img/flags/cr.svg
+    price: A partire da $9,99
+    is_highlight: false
+    slug: costa-rica
+  - name: Dominica eSIM
+    flag: img/flags/dm.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: dominica
+  - name: Repubblica Dominicana eSIM
+    flag: img/flags/do.svg
+    price: A partire da $5,99
+    is_highlight: false
+    slug: dominican-republic
+  - name: El Salvador eSIM
+    flag: img/flags/sv.svg
+    price: A partire da $23,99
+    is_highlight: true
+    slug: el-salvador
+  - name: Grenada eSIM
+    flag: img/flags/gd.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: grenada
+  - name: Guadalupa eSIM
+    flag: img/flags/gp.svg
+    price: A partire da $8,99
+    is_highlight: false
+    slug: guadeloupe
+  - name: Australia eSIM
+    flag: img/flags/au.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: australia
 market_analysis:
   title: "Quale ha il miglior rapporto qualità-prezzo in Guatemala: eSIM o prepagata?"
   subtitle: "Confronto tra SIM prepagate locali guatemalteche e soluzioni eSIM (riferimento 2024/2025)"

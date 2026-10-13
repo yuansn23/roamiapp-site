@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Hong Kong 2026: Copertura & Velocità | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -22,9 +22,9 @@ seo:
   title: Hong Kong eSIM | Prepagato senza vincoli
   description: 'Roami per Hong Kong: niente contratto, niente vincoli. Usala durante la tua vacanza, poi è finita. Senza complicazioni.
     Copre tutte le regioni.'
-  keywords: eSIM Hong Kong, piano eSIM Hong Kong, migliore eSIM Hong Kong, Hong Kong dati, SmarTone Hong Kong, CSL Hong Kong,
-    China Mobile Hong Kong Hong Kong, eSIM Hong Kong Island, eSIM Kowloon, eSIM New Territories, internet mobile Hong Kong,
-    5G Hong Kong
+  keywords: eSIM Hong Kong, piani eSIM Hong Kong, migliore eSIM Hong Kong, eSIM Hong Kong economica, comprare eSIM Hong Kong online, eSIM Hong Kong dati illimitati, eSIM Hong Kong prepagata, migliore eSIM per Hong Kong, prezzo eSIM Hong Kong, attivazione eSIM Hong Kong, copertura eSIM Hong Kong, migliore eSIM per Hong Kong Island, eSIM Hong Kong Island, eSIM Kowloon
+  low_price: '1.99'
+  high_price: '57.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -336,6 +336,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 📍
+    html: 'Per Hong Kong Island consigliamo di attivare la eSIM all''arrivo: la validità parte al primo collegamento.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -401,7 +405,7 @@ faq_section:
     - q: |
         Quanto internet serve per il navigatore e le mappe in Hong Kong?
       a: |
-        Google Maps consuma circa 5MB all'ora — qualsiasi piano Roami (da $1.99) va bene per la navigazione. Per scaricare le mappe di una città servono 200-500MB, fallo prima con WiFi. Se ascolti anche musica e usi social in viaggio, bastano 5GB ($9.99) a settimana. La navigazione funziona anche su 3G lento — non ti perderai.
+        Google Maps consuma circa 5MB all'ora — qualsiasi piano Roami (da $1.99) va bene per la navigazione. Per scaricare le mappe di una città servono 200-500MB, fallo prima con WiFi. Se ascolti anche musica e usi social in viaggio, bastano 5GB ($4.99) a settimana. La navigazione funziona anche su 3G lento — non ti perderai.
     - q: |
         Meglio eSIM o SIM fisica per un viaggio in Hong Kong?
       a: |
@@ -409,80 +413,90 @@ faq_section:
     - q: |
         La eSIM è adatta per viaggi brevi di 2-3 giorni in Hong Kong?
       a: |
-        Sì, per viaggi brevi la eSIM è perfetta. Il piano minimo è 7 giorni / 1GB a $1.99 — sufficiente per mappe e messaggi. Per 3-5 giorni di uso attivo consigliamo 3GB ($4.99). Installazione in 2 minuti, acquisto fino a 5 minuti prima della partenza. All'arrivo in Hong Kong attiva il roaming dati e sei subito online.
+        Sì, per viaggi brevi la eSIM è perfetta. Il piano minimo è 7 giorni / 1GB a $2.99 — sufficiente per mappe e messaggi. Per 3-5 giorni di uso attivo consigliamo 3GB ($2.99). Installazione in 2 minuti, acquisto fino a 5 minuti prima della partenza. All'arrivo in Hong Kong attiva il roaming dati e sei subito online.
     - q: |
         Meglio eSIM o pocket WiFi per viaggiare in Hong Kong?
       a: |
-        La eSIM è più comoda: non devi portare, caricare e restituire un dispositivo separato. Il pocket WiFi costa $3-8 al giorno più cauzione. Roami eSIM da $1.99 al giorno, funziona direttamente nel telefono, non serve ricarica separata. Entrambi supportano la condivisione internet.
+        La eSIM è più comoda: non devi portare, caricare e restituire un dispositivo separato. Il pocket WiFi costa $3-8 al giorno più cauzione. Roami eSIM da $0.20 al giorno, funziona direttamente nel telefono, non serve ricarica separata. Entrambi supportano la condivisione internet.
     - q: |
         Che documenti servono per acquistare la eSIM in Hong Kong?
       a: |
         Per il 90% dei paesi bastano solo email e metodo di pagamento. Niente passaporto. Dopo il pagamento il QR code arriva via email — scannerizzi e via. Nel 10% dei paesi (Cina, India, Turchia, Pakistan) serve verifica KYC con foto del passaporto nell'app Roami.
+    - q: |
+        Come attivo la eSIM per Hong Kong prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in Hong Kong.
+    - q: |
+        Quanti GB servono per un viaggio in Hong Kong?
+      a: |
+        Per un uso leggero (mappe, messaggi) bastano 3-5GB; per social e video 10GB sono l'ideale. I piani Roami per Hong Kong partono da $1.99 e puoi ricaricare dall'app in tempo reale.
+    - q: |
+        Quanto costa una eSIM per Hong Kong e conviene rispetto alla SIM locale?
+      a: |
+        I piani Roami per Hong Kong partono da $1.99 e si acquistano online in pochi clic, senza file in negozio né costi di attivazione. Rispetto a una SIM prepagata locale eviti la registrazione con passaporto e l'attesa allo sportello.
 related_products:
   title: Piani eSIM simili
   items:
-  - name: Stati Uniti eSIM
-    flag: img/flags/us.svg
+  - name: India eSIM
+    flag: img/flags/in.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: india
+  - name: Indonesia eSIM
+    flag: img/flags/id.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: united-states-esim
-  - name: Regno Unito eSIM
-    flag: img/flags/gb.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: united-kingdom-esim
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: A partire da $1,99
-    is_highlight: true
-    slug: europe-esim
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: canada-esim
-  - name: Turchia eSIM
-    flag: img/flags/tr.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: turkey-esim
-  - name: Cina eSIM
-    flag: img/flags/cn.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: china-esim
+    slug: indonesia
   - name: Giappone eSIM
     flag: img/flags/jp.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: japan-esim
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+    slug: japan
+  - name: Kazakistan eSIM
+    flag: img/flags/kz.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: kazakhstan
+  - name: Kirghizistan eSIM
+    flag: img/flags/kg.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: kyrgyzstan
+  - name: Laos eSIM
+    flag: img/flags/la.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: laos
+  - name: Malaysia eSIM
+    flag: img/flags/my.svg
     price: A partire da $1,99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: Francia eSIM
-    flag: img/flags/fr.svg
-    price: A partire da $1,99
+    slug: malaysia
+  - name: Maldive eSIM
+    flag: img/flags/mv.svg
+    price: A partire da $14,99
     is_highlight: false
-    slug: france-esim
-  - name: Spagna eSIM
-    flag: img/flags/es.svg
-    price: A partire da $1,99
+    slug: maldives
+  - name: Nepal eSIM
+    flag: img/flags/np.svg
+    price: A partire da $10,99
     is_highlight: false
-    slug: spain-esim
-  - name: Germania eSIM
-    flag: img/flags/de.svg
-    price: A partire da $1,99
+    slug: nepal
+  - name: Pakistan eSIM
+    flag: img/flags/pk.svg
+    price: A partire da $3,99
     is_highlight: false
-    slug: germany-esim
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: A partire da $1,99
+    slug: pakistan
+  - name: Filippine eSIM
+    flag: img/flags/ph.svg
+    price: A partire da $2,99
     is_highlight: false
-    slug: australia-esim
-
-# =============== Modulo di confronto basato su dati ===============
+    slug: philippines
+  - name: Singapore eSIM
+    flag: img/flags/sg.svg
+    price: A partire da $1,99
+    is_highlight: true
+    slug: singapore
 market_analysis:
   title: "eSIM o prepagata in Hong Kong: quale fa per te?"
   subtitle: "Confronto tra SIM prepagate locali di Hong Kong e soluzioni eSIM (riferimento 2024/2025)"

@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Guyana francese 2026: Operatori Locali | Roami'
-date: '2026-06-15T08:51:27+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,12 +18,11 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: 'GFrench Guiana eSIM: Fast 5G from $1.99'
-  description: Confronta i piani eSIM Guyana francese con 5G a Caienna, Kourou, Saint-Laurent-du-Maroni. Guida alla copertura
-    Orange & Digicel & SFR. Attivazione QR istantanea da $1.99.
-  keywords: eSIM Guyana francese, piano eSIM Guyana francese, migliore eSIM Guyana francese, Guyana francese dati, Orange
-    Guyana francese, Digicel Guyana francese, SFR Guyana francese, eSIM Caienna, eSIM Kourou, eSIM Saint-Laurent-du-Maroni,
-    internet mobile Guyana francese, 5G Guyana francese
+  title: 'eSIM Guyana francese: piani 5G flessibili per ogni viaggio'
+  description: 'eSIM Guyana francese: 5G a Caienna, Kourou e Saint-Laurent-du-Maroni, senza vincoli né costi nascosti. Attivazione QR istantanea, prezzi da $3.99.'
+  keywords: eSIM Guyana francese, piani eSIM Guyana francese, migliore eSIM Guyana francese, eSIM Guyana francese economica, comprare eSIM Guyana francese online, eSIM Guyana francese dati illimitati, eSIM Guyana francese prepagata, migliore eSIM per Guyana francese, prezzo eSIM Guyana francese, attivazione eSIM Guyana francese, copertura eSIM Guyana francese, migliore eSIM per Caienna, eSIM Caienna, eSIM Kourou
+  low_price: '3.99'
+  high_price: '66.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -220,6 +219,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 📍
+    html: 'Per Caienna consigliamo di attivare la eSIM all''arrivo: la validità parte al primo collegamento.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -278,7 +281,7 @@ faq_section:
     - q: |
         Meglio ordinare eSIM online o comprare SIM locale all'aeroporto in Guyana Francese?
       a: |
-        La SIM locale in aeroporto costa $10-30 più 15-60 minuti di coda. Con Roami eSIM paghi da $1.99 per 7 giorni e non perdi tempo — installata a casa, pronta all'arrivo. Il tuo numero italiano resta attivo per SMS bancari. La differenza di prezzo è netta: 30-50% in meno con eSIM.
+        La SIM locale in aeroporto costa $10-30 più 15-60 minuti di coda. Con Roami eSIM paghi da $3.99 per 7 giorni e non perdi tempo — installata a casa, pronta all'arrivo. Il tuo numero italiano resta attivo per SMS bancari. La differenza di prezzo è netta: 30-50% in meno con eSIM.
     - q: |
         Qual è la velocità reale di 4G e 5G con la eSIM in Guyana Francese?
       a: |
@@ -290,11 +293,11 @@ faq_section:
     - q: |
         Quale piano eSIM scegliere per un viaggio in Guyana Francese?
       a: |
-        I piani Roami partono da $1.99 (7 giorni, 1GB) fino a $59.99 (30 giorni, illimitato). Il piano più popolare è 5GB/15 giorni a $9.99 — sufficiente per navigazione, social e messaggistica. Per uso intensivo con video, scegli 10GB ($14.99) o illimitato ($59.99). Tutti i piani sono prepagati, senza costi nascosti e senza rinnovo automatico.
+        I piani Roami partono da $3.99 (7 giorni, 1GB) fino a $66.99 (7 giorni, illimitato). Il piano più popolare è 5GB/15 giorni a $12.99 — sufficiente per navigazione, social e messaggistica. Per uso intensivo con video, scegli 10GB ($19.99) o illimitato ($30.99). Tutti i piani sono prepagati, senza costi nascosti e senza rinnovo automatico.
     - q: |
         Meglio eSIM o SIM fisica per un viaggio in Guyana Francese?
       a: |
-        La eSIM è meglio: costa il 30-50% in meno, non devi cambiare SIM, puoi installarla prima di partire. La SIM fisica richiede coda in aeroporto e passaporto — 15-30 minuti persi. Roami eSIM da $1.99, installazione in 2 minuti. Se hai iPhone XR o più recente, o un Android moderno, la eSIM è la scelta migliore. Il tuo numero italiano resta attivo per SMS e chiamate.
+        La eSIM è meglio: costa il 30-50% in meno, non devi cambiare SIM, puoi installarla prima di partire. La SIM fisica richiede coda in aeroporto e passaporto — 15-30 minuti persi. Roami eSIM da $3.99, installazione in 2 minuti. Se hai iPhone XR o più recente, o un Android moderno, la eSIM è la scelta migliore. Il tuo numero italiano resta attivo per SMS e chiamate.
     - q: |
         Si può ricaricare la eSIM da remoto durante il viaggio in Guyana Francese?
       a: |
@@ -303,67 +306,79 @@ faq_section:
         Si può comprare la eSIM il giorno stesso della partenza per la Guyana Francese?
       a: |
         Sì — installa la eSIM 1-2 giorni prima della partenza con WiFi di casa. All'arrivo in Guyana Francese attiva il roaming dati e sei online in 60 secondi. Niente code in aeroporto per comprare una SIM. Se il viaggio è last minute, puoi acquistare fino a 5 minuti prima del volo.
+    - q: |
+        Come attivo la eSIM per Guyana francese prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in Guyana francese.
+    - q: |
+        Quanti GB servono per un viaggio in Guyana francese?
+      a: |
+        Per un uso leggero (mappe, messaggi) bastano 3-5GB; per social e video 10GB sono l'ideale. I piani Roami per Guyana francese partono da $3.99 e puoi ricaricare dall'app in tempo reale.
+    - q: |
+        Quanto costa una eSIM per Guyana francese e conviene rispetto alla SIM locale?
+      a: |
+        I piani Roami per Guyana francese partono da $3.99 e si acquistano online in pochi clic, senza file in negozio né costi di attivazione. Rispetto a una SIM prepagata locale eviti la registrazione con passaporto e l'attesa allo sportello.
 related_products:
   title: Piani eSIM simili
   items:
-  - name: Stati Uniti eSIM
-    flag: img/flags/us.svg
-    price: A partire da $1,99
+  - name: Guyana eSIM
+    flag: img/flags/gy.svg
+    price: A partire da $9,99
     is_highlight: false
-    slug: united-states-esim
-  - name: Regno Unito eSIM
-    flag: img/flags/gb.svg
-    price: A partire da $1,99
+    slug: guyana
+  - name: Paraguay eSIM
+    flag: img/flags/py.svg
+    price: A partire da $22,99
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: A partire da $1,99
-    is_highlight: true
-    slug: europe-esim
+    slug: paraguay
+  - name: Perù eSIM
+    flag: img/flags/pe.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: peru
+  - name: Uruguay eSIM
+    flag: img/flags/uy.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: uruguay
+  - name: Argentina eSIM
+    flag: img/flags/ar.svg
+    price: A partire da $3,99
+    is_highlight: false
+    slug: argentina
+  - name: Bolivia eSIM
+    flag: img/flags/bo.svg
+    price: A partire da $11,99
+    is_highlight: false
+    slug: bolivia
+  - name: Brasile eSIM
+    flag: img/flags/br.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: brazil
+  - name: Cile eSIM
+    flag: img/flags/cl.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: chile
+  - name: Colombia eSIM
+    flag: img/flags/co.svg
+    price: A partire da $4,99
+    is_highlight: false
+    slug: colombia
+  - name: Ecuador eSIM
+    flag: img/flags/ec.svg
+    price: A partire da $6,99
+    is_highlight: false
+    slug: ecuador
   - name: Canada eSIM
     flag: img/flags/ca.svg
-    price: A partire da $1,99
+    price: A partire da $3,99
     is_highlight: false
-    slug: canada-esim
-  - name: Turchia eSIM
-    flag: img/flags/tr.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: turkey-esim
+    slug: canada
   - name: Cina eSIM
     flag: img/flags/cn.svg
     price: A partire da $1,99
-    is_highlight: false
-    slug: china-esim
-  - name: Giappone eSIM
-    flag: img/flags/jp.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: japan-esim
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: Francia eSIM
-    flag: img/flags/fr.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: france-esim
-  - name: Spagna eSIM
-    flag: img/flags/es.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: spain-esim
-  - name: Germania eSIM
-    flag: img/flags/de.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: germany-esim
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: A partire da $1,99
-    is_highlight: false
-    slug: australia-esim
+    is_highlight: true
+    slug: china
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Portogallo 2026: Turisti & Rete | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-10-12T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,8 +21,9 @@ seo:
   title: Portogallo eSIM | Attivazione immediata
   description: La eSIM Roami per Portogallo offre una connessione 5G veloce e stabile. Perfetta per chi viaggia e vuole restare
     sempre online. Copre tutte le regioni.
-  keywords: eSIM Portogallo, piano eSIM Portogallo, migliore eSIM Portogallo, Portogallo dati, Vodafone Portogallo, NOS Portogallo,
-    MEO Portogallo, eSIM Lisbona, eSIM Porto, eSIM Faro, internet mobile Portogallo, 5G Portogallo
+  keywords: eSIM Portogallo, piani eSIM Portogallo, migliore eSIM Portogallo, eSIM Portogallo economica, comprare eSIM Portogallo online, eSIM Portogallo dati illimitati, eSIM Portogallo prepagata, migliore eSIM per Portogallo, prezzo eSIM Portogallo, attivazione eSIM Portogallo, copertura eSIM Portogallo, migliore eSIM per Lisbona, eSIM Lisbona, eSIM Porto
+  low_price: '1.99'
+  high_price: '71.99'
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -350,6 +351,10 @@ reminders:
     html: Il codice QR verrà inviato al tuo indirizzo email.
   - icon: 🔄
     html: Puoi installare più eSIM contemporaneamente.
+  - icon: 📞
+    html: 'La eSIM Roami è solo dati: il tuo numero italiano resta attivo e continui a ricevere SMS e chiamate.'
+  - icon: 🏙️
+    html: 'Copertura ottimale a Lisbona e Porto: hotspot incluso per condividere i dati con chi viaggia con te.'
   compatibility_check:
     title: Verifica rapida compatibilità
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
@@ -403,7 +408,7 @@ faq_section:
     - q: |
         Conviene comprare una eSIM per il Portogallo rispetto a una SIM locale?
       a: |
-        Il piano più conveniente per la maggior parte dei turisti è 5GB/15 giorni a $9.99. Bastano per circa 300-500MB al giorno di navigazione e social. Se guardi video o lavori da remoto, scegli 10GB ($14.99) o illimitato ($59.99). Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
+        Il piano più conveniente per la maggior parte dei turisti è 5GB/15 giorni a $6.99. Bastano per circa 300-500MB al giorno di navigazione e social. Se guardi video o lavori da remoto, scegli 10GB ($8.99) o illimitato ($9.99). Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
     - q: |
         Come verificare se la eSIM funziona correttamente in Portogallo?
       a: |
@@ -415,7 +420,7 @@ faq_section:
     - q: |
         Qual è la migliore eSIM da acquistare per un viaggio in Portogallo?
       a: |
-        La scelta migliore per la maggior parte è 5GB/15 giorni a $9.99. Abbastanza per navigazione, social e messaggistica con circa 300-500MB al giorno. Se guardi video o lavori da remoto, scegli 10GB ($14.99) o illimitato ($59.99). Tutti i piani sono prepagati, senza costi nascosti. Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
+        La scelta migliore per la maggior parte è 5GB/15 giorni a $6.99. Abbastanza per navigazione, social e messaggistica con circa 300-500MB al giorno. Se guardi video o lavori da remoto, scegli 10GB ($8.99) o illimitato ($9.99). Tutti i piani sono prepagati, senza costi nascosti. Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
     - q: |
         Che copertura c'è in campagna e nelle aree remote in Portogallo?
       a: |
@@ -427,11 +432,86 @@ faq_section:
     - q: |
         Come aggiungere GB se il traffico della eSIM finisce in Portogallo?
       a: |
-        Sì, dall'app Roami, in tempo reale. Senza nuovo QR code e senza reinstallare. Consigliamo di ricaricare quando il saldo è al 20%. Roami invia notifiche al 70% e 90% di utilizzo. Pacchetti aggiuntivi disponibili: 1GB ($1.99), 3GB ($4.99), 5GB ($9.99).
+        Sì, dall'app Roami, in tempo reale. Senza nuovo QR code e senza reinstallare. Consigliamo di ricaricare quando il saldo è al 20%. Roami invia notifiche al 70% e 90% di utilizzo. Pacchetti aggiuntivi disponibili: 1GB ($1.99), 3GB ($3.99), 5GB ($5.99).
     - q: |
         Posso tenere la mia SIM italiana mentre uso la eSIM in Portogallo?
       a: |
         Sì, questo è uno dei principali vantaggi della eSIM. La tua SIM fisica rimane nello slot 1 per ricevere SMS (codici bancari, 2FA). La eSIM funziona nello slot 2 per tutti i dati. Disattiva il roaming dati sulla tua SIM per evitare costi di €10-15 per MB. Nelle impostazioni puoi assegnare: SIM fisica per voce, eSIM per dati.
+    - q: |
+        A Lisbona la connessione è veloce con la eSIM?
+      a: |
+        A Lisbona la eSIM Roami sfrutta la rete 5G/4G locale: velocità tipiche di 50-200 Mbps in centro. Ottima per mappe, social e videochiamate.
+    - q: |
+        Posso usare la eSIM Portogallo e la mia SIM italiana insieme?
+      a: |
+        Sì: la eSIM gestisce i dati mentre la tua SIM italiana resta attiva per chiamate e SMS. Puoi scegliere in Impostazioni quale linea usare per voce, SMS e dati.
+    - q: |
+        Come attivo la eSIM per Portogallo prima di partire?
+      a: |
+        Acquisti online, ricevi il QR code via email entro 5 minuti e lo scansioni in Impostazioni > Cellulare > Aggiungi eSIM. Puoi installarla a casa con il Wi-Fi e attivarla all'arrivo in Portogallo.
+related_products:
+  title: Piani eSIM simili
+  items:
+  - name: Romania eSIM
+    flag: img/flags/ro.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: romania
+  - name: Russia eSIM
+    flag: img/flags/ru.svg
+    price: A partire da $2,99
+    is_highlight: false
+    slug: russia
+  - name: Serbia eSIM
+    flag: img/flags/rs.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: serbia
+  - name: Spagna eSIM
+    flag: img/flags/es.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: spain
+  - name: Svezia eSIM
+    flag: img/flags/se.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: sweden
+  - name: Svizzera eSIM
+    flag: img/flags/ch.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: switzerland
+  - name: Turchia eSIM
+    flag: img/flags/tr.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: turkey
+  - name: UK eSIM
+    flag: img/flags/gb.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: united-kingdom
+  - name: Albania eSIM
+    flag: img/flags/al.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: albania
+  - name: Andorra eSIM
+    flag: img/flags/ad.svg
+    price: A partire da $6,99
+    is_highlight: true
+    slug: andorra
+  - name: Armenia eSIM
+    flag: img/flags/am.svg
+    price: A partire da $7,99
+    is_highlight: false
+    slug: armenia
+  - name: Austria eSIM
+    flag: img/flags/at.svg
+    price: A partire da $1,99
+    is_highlight: false
+    slug: austria
 market_analysis:
   title: "eSIM o SIM turistica in Portogallo: cosa scegliere?"
   subtitle: "Confronto tra SIM prepagate locali portoghesi e soluzioni eSIM (riferimento 2024/2025)"
@@ -446,37 +526,37 @@ market_analysis:
     - icon: "store"
       title: "Acquisizione e attivazione"
       prepaid_title: ""
-      prepaid_desc: "MEO Connected Holidays 15天30GB套餐（€14.99）仅在少数门店有售，且店员可能不熟悉；NOS和MEO均无法使用国际信用卡在线支付，必须线下寻找Payshop排队，每次被多收€0.50手续费。"
+      prepaid_desc: "Il piano MEO Connected Holidays 15 giorni/30GB (€14,99) è disponibile solo in pochi negozi e i commessi potrebbero non conoscerlo; NOS e MEO non accettano carte internazionali online, obbligando a recarsi fisicamente da Payshop con una commissione di €0,50 ogni volta."
       esim_title: "Attivazione istantanea online"
       esim_desc: "Evita le file nei negozi MEO o Vodafone e la ricerca di rari punti vendita per il Connected Holidays. Con Roami eSIM, attiva in un minuto al tuo arrivo a Lisbona o Porto, senza bisogno di documenti."
     - icon: "id-card"
       title: "KYC e registrazione passaporto"
       prepaid_title: ""
-      prepaid_desc: "购买葡萄牙SIM卡不需要注册，无实名制要求。"
+      prepaid_desc: "Acquistare una SIM portoghese non richiede registrazione né identificazione."
       esim_title: "Nessun passaporto richiesto"
       esim_desc: "Mentre le SIM locali non richiedono registrazione, Roami eSIM elimina ogni formalità: nessun passaporto, nessuna scansione, nessuna attesa. Attivazione immediata e anonima."
     - icon: "globe"
       title: "Roaming internazionale"
       prepaid_title: ""
-      prepaid_desc: "Vodafone Go和NOS Kanguru纯数据卡明确禁止国际漫游；Lyca Mobile 30GB套餐在欧盟漫游时仅可使用21GB（打七折）；Vodafone超出FUP后按€5.40/GB计费。"
+      prepaid_desc: "Le SIM solo dati Vodafone Go e NOS Kanguru vietano esplicitamente il roaming internazionale; il piano Lyca Mobile da 30GB consente solo 21GB in roaming UE; Vodafone applica €5,40/GB oltre la FUP."
       esim_title: "Roaming globale senza sorprese"
       esim_desc: "A differenza di Vodafone Go e NOS Kanguru che bloccano il roaming, e di Lyca Mobile che riduce il traffico del 30% in UE (30GB diventano 21GB), Roami offre piani con roaming reale in tutta Europa, senza FUP nascosti né costi aggiuntivi."
     - icon: "calendar-xmark"
       title: "Ciclo di fatturazione e costi sprecati"
       prepaid_title: ""
-      prepaid_desc: "MEO周付套餐最低€3.5/周（含1GB），Vodafone You套餐€14/28天（1GB+500分钟），旅游套餐€20/30天（5GB）。短期游客购买周卡或月卡，未使用天数无法退款，浪费50%以上成本。"
+      prepaid_desc: "I piani settimanali MEO partono da €3,5/settimana (1GB), Vodafone You costa €14/28 giorni (1GB+500 minuti), il piano turistico €20/30 giorni (5GB). I turisti a breve termine acquistano pacchetti settimanali o mensili e non recuperano i giorni non usati, sprecando oltre il 50% del costo."
       esim_title: "Piani flessibili senza sprechi"
       esim_desc: "Mentre MEO impone cicli settimanali (€3.5/1GB) o 15 giorni (€14.99/30GB) e Vodafone 28 giorni (€14/1GB), Roami offre piani dati da 7 giorni a partire da 1,99 $/GB. Per un viaggio di 3 giorni, risparmi fino al 75% rispetto a un piano settimanale MEO."
     - icon: "wifi"
       title: "Tethering e politiche di velocità"
       prepaid_title: ""
-      prepaid_desc: "Lyca Mobile明确禁止热点分享（Tethering）。"
+      prepaid_desc: "Lyca Mobile vieta esplicitamente la condivisione hotspot (tethering)."
       esim_title: "Tethering illimitato"
       esim_desc: "A differenza di Lyca Mobile che vieta esplicitamente il tethering, Roami eSIM consente di condividere i dati con tablet e laptop senza restrizioni, ideale per chi lavora in viaggio."
     - icon: "credit-card"
       title: "Ricarica e pagamento"
       prepaid_title: ""
-      prepaid_desc: "MEO无法使用国际信用卡或PayPal充值；NOS仅支持葡萄牙网上银行或实体店（Payshop），每次充值加收€0.50手续费，最低€7.50；Vodafone虽支持国际信用卡，但要求持卡满3个月。"
+      prepaid_desc: "MEO non accetta carte internazionali né PayPal; NOS supporta solo l'online banking portoghese o i negozi fisici (Payshop), con €0,50 di commissione per ricarica e un minimo di €7,50; Vodafone accetta carte internazionali ma richiede che siano attive da almeno 3 mesi."
       esim_title: "Pagamenti globali accettati"
       esim_desc: "Mentre MEO e NOS rifiutano carte internazionali e PayPal, e Vodafone richiede 3 mesi di possesso della carta, Roami accetta Visa, Mastercard, AMEX, Apple Pay, Google Pay e PayPal per ricariche immediate e sicure."
     - icon: "headset"
