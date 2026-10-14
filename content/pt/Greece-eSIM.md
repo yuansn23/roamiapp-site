@@ -329,7 +329,7 @@ reminders:
   title: 'Dicas de Configuração do Grécia eSIM: O que Saber Antes de Viajar'
   items:
   - icon: 📱
-    html: Verifique se seu telefone é <a href="/pt/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
+    html: Verifique se seu telefone é <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
       font-bold transition-colors">compatível com eSIM</a> antes de comprar.
   - icon: ✈️
     html: Recomendamos ativar a linha após chegar na Grécia.
@@ -377,7 +377,7 @@ faq_section:
     - q: |
         Preciso de passaporte ou identidade para usar eSIM na Grécia? Como funciona a verificação?
       a: |
-        Sim, a Grécia exige verificação de identidade para eSIM. A Grécia exige verificação KYC para cartões SIM pré-pagos. Passaporte necessário. Muitos viajantes só descobrem isso após chegar, e então lutam com o WiFi do aeroporto enquanto esperam a aprovação. Complete a verificação antes de viajar — leva cerca de 5 a 10 minutos. Além disso, alguns telefones funcionam melhor com a rede da Cosmote do que outros — verifique nossa página de [compatibilidade eSIM](/pt/compatibility/).
+        Sim, a Grécia exige verificação de identidade para eSIM. A Grécia exige verificação KYC para cartões SIM pré-pagos. Passaporte necessário. Muitos viajantes só descobrem isso após chegar, e então lutam com o WiFi do aeroporto enquanto esperam a aprovação. Complete a verificação antes de viajar — leva cerca de 5 a 10 minutos. Além disso, alguns telefones funcionam melhor com a rede da Cosmote do que outros — verifique nossa página de [compatibilidade eSIM](/compatibility/).
     - q: |
         Posso obter um eSIM para a Grécia sem gastar muito?
       a: |
@@ -471,7 +471,8 @@ market_analysis:
   - icon: store
     title: Aquisição e<br>Ativação
     prepaid_title: ''
-    prepaid_desc: "Não há local para comprar o cartão SIM no aeroporto de Atenas; você deve viajar para o centro da cidade (ex: Praça Syntagma) para encontrar uma loja da Cosmote."
+    prepaid_desc: "Não há local para comprar o cartão SIM no aeroporto de Atenas; você deve viajar para o centro da cidade (ex: Praça Syntagma) para encontrar uma loja da Cosmote.
+"
     esim_title: Entrega Digital Instantânea
     esim_desc: Pule o incômodo de encontrar uma loja no aeroporto de Atenas (não há venda de SIM lá). Ative seu eSIM online em menos de 1 minuto após desembarcar na Grécia.
   - icon: id-card
@@ -483,7 +484,8 @@ market_analysis:
   - icon: globe
     title: Roaming<br>Internacional
     prepaid_title: ''
-    prepaid_desc: "O plano ilimitado de 7 dias da Frog Mobile (€6,50) tem limite de 7GB na UE; os planos Mobile Internet Prepaid da Cosmote (ex: €25/30 dias ilimitado) não podem ser usados para roaming no exterior."
+    prepaid_desc: "O plano ilimitado de 7 dias da Frog Mobile (€6,50) tem limite de 7GB na UE; os planos Mobile Internet Prepaid da Cosmote (ex: €25/30 dias ilimitado) não podem ser usados para roaming no exterior.
+"
     esim_title: Pronto para Roaming Global
     esim_desc: Ao contrário do Mobile Internet Prepaid da Cosmote (bloqueado para a Grécia) ou do limite de 7GB na UE da Frog Mobile, o Roami eSIM oferece roaming perfeito em toda a Europa sem redução de dados.
   - icon: calendar-xmark

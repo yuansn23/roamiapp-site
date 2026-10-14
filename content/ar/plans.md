@@ -484,7 +484,7 @@ all_countries:
     slug: "united-kingdom"
   - name: "الولايات المتحدة"
     code: "us"
-    slug: "USA"
+    slug: "united-states"
   - name: "أوروغواي"
     code: "uy"
     slug: "uruguay"

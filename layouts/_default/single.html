@@ -188,14 +188,14 @@
             <nav class="flex mb-6 text-sm text-blue-200" aria-label="Breadcrumb">
                 <ol class="inline-flex items-center space-x-2">
                     <li class="inline-flex items-center">
-                        <a href="{{ .Params.breadcrumbs.home.url | default "/" | relLangURL }}" class="hover:text-white transition-colors">
+                        <a href="{{ partial "langurl.html" (.Params.breadcrumbs.home.url | default "/") }}" class="hover:text-white transition-colors">
                             {{ .Params.breadcrumbs.home.text | default "Home" }}
                         </a>
                     </li>
                     <li>
                         <div class="flex items-center">
                             <i data-lucide="chevron-right" class="w-4 h-4 mx-1 opacity-70" aria-hidden="true"></i>
-                            <a href="{{ .Params.breadcrumbs.parent.url | default "/faq/" | relLangURL }}" class="hover:text-white transition-colors">
+                            <a href="{{ partial "langurl.html" (.Params.breadcrumbs.parent.url | default "/faq/") }}" class="hover:text-white transition-colors">
                                 {{ .Params.breadcrumbs.parent.text | default "Help Center" }}
                             </a>
                         </div>
@@ -278,7 +278,7 @@
             </h3>
             <div class="grid grid-cols-2 gap-3">
                 {{ range .items }}
-                <a href="{{ .url | relLangURL }}" class="relative overflow-hidden flex flex-col items-center justify-center p-3 rounded-xl border border-slate-100 bg-slate-50 hover:bg-white hover:border-blue-500 hover:shadow-md transition-all group text-center">
+                <a href="{{ partial "langurl.html" .url }}" class="relative overflow-hidden flex flex-col items-center justify-center p-3 rounded-xl border border-slate-100 bg-slate-50 hover:bg-white hover:border-blue-500 hover:shadow-md transition-all group text-center">
                     {{ with .badge }}
                     <div class="absolute top-0 right-0 bg-blue-600 text-white text-[9px] font-black px-1.5 py-0.5 rounded-bl-lg z-10">{{ . }}</div>
                     {{ end }}
@@ -299,7 +299,7 @@
             <ul class="space-y-3">
                 {{ range .items }}
                 <li>
-                    <a href="{{ .url | lower | relLangURL }}" class="group flex items-start text-sm text-slate-600 hover:text-blue-600 transition-colors">
+                    <a href="{{ partial "langurl.html" (.url | lower) }}" class="group flex items-start text-sm text-slate-600 hover:text-blue-600 transition-colors">
                         <i data-lucide="chevron-right" class="w-4 h-4 text-slate-400 group-hover:text-blue-500 mt-0.5 mr-1.5 shrink-0 transition-colors"></i>
                         <span class="leading-snug">{{ .question }}</span>
                     </a>
@@ -316,7 +316,7 @@
             </h3>
             <div class="grid grid-cols-2 gap-3">
                 {{ range .items }}
-                <a href="{{ .url | relLangURL }}" class="flex items-center gap-2.5 p-3 bg-white rounded-xl border border-blue-100 hover:border-blue-500 hover:shadow-sm transition-all group">
+                <a href="{{ partial "langurl.html" .url }}" class="flex items-center gap-2.5 p-3 bg-white rounded-xl border border-blue-100 hover:border-blue-500 hover:shadow-sm transition-all group">
                     <img src="{{ .flag }}" loading="lazy" alt="{{ .name }} eSIM" class="w-6 h-6 object-contain group-hover:scale-110 transition-transform shrink-0">
                     <div class="flex flex-col">
                         <span class="text-xs font-bold text-slate-800 leading-tight">{{ .name }}</span>

@@ -1,6 +1,6 @@
 ---
 title: 'Jordania eSIM 2026: Kompletny przewodnik dla podróżnych | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,18 +9,18 @@ country_meta:
   operators: Orange Jordan, Zain Jordan, Umniah
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Amman, Zarqa, Irbid, Akaba, Petra
-  main_packages: 3/7/15/30 dni, nielimitowane dane
+  main_packages: 3/7/15/30 dni, dane bez limitu
 modal:
   title: Usługa ulepszona!
   btn_text: Kontynuuj
   text_default: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIMGo</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
   text_android: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
-  title: 'Jordania 5G eSIM: natychmiastowa aktywacja, nielimitowane dane'
-  description: Porównaj plany eSIM w Jordanii z szybkim 5G w Ammanie, Zarqa, Irbid. Przewodnik po zasięgu Orange Jordan, Zain Jordan i Umniah dla turystów i podróżnych. Natychmiastowa aktywacja QR od 1,99 $.
-  keywords: Jordania eSIM, kup Jordania eSIM, najlepszy Jordania eSIM, eSIM podróżny Jordania, Orange Jordan Jordania, Zain Jordan Jordania, Umniah Jordania, Amman eSIM, Zarqa eSIM, Irbid eSIM, przedpłacony eSIM Jordania, 5G Jordania eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: 'eSIM Jordania - eSIM z natychmiastową aktywacją'
+  description: Porównaj plany eSIM w Jordanii z szybkim 5G w Ammanie, Zarqa, Irbid. Natychmiastowa aktywacja QR od 6,99 $.
+  keywords: Jordania eSIM, najlepsza eSIM Jordania, kup Jordania eSIM, plany eSIM Jordania, Jordania eSIM cena, eSIM podróżny Jordania, najlepszy Jordania eSIM, Jordania eSIM nielimitowane, jak aktywować eSIM Jordania, przedpłacony eSIM Jordania, Jordania eSIM opinie, Jordania 5G eSIM, Orange Jordan Jordania, Amman eSIM, Zarqa eSIM, Irbid eSIM
+  low_price: 6.99
+  high_price: 99.99
 order_summary:
   title: Wybrany plan
   label_data: Zawarte dane
@@ -301,7 +301,7 @@ faq_section:
     - q: |
         Jaki budżet powinienem przeznaczyć na eSIM podczas wizyty w Jordanii?
       a: |
-        Roami oferuje eSIM dla Jordanii od 1,99 $ za lekki plan 7-dniowy do 59,99 $ za 30 dni nielimitowanych danych. Większość odwiedzających wybiera plan 5 GB/15 dni za 9,99 $ – wystarcza na codzienną nawigację, media społecznościowe i komunikację bez stresu. Fani streamingu lub intensywni użytkownicy social mediów powinni rozważyć 10 GB lub nielimitowany. Zain zapewnia niezawodne prędkości w całej Jordanii. Plany Roami są przedpłacone – bez niespodziewanych rachunków, bez automatycznego odnawiania, proste ceny.
+        Roami oferuje eSIM dla Jordanii od 6,99 $ za lekki plan 7-dniowy do 52,99 $ za 3 dni nielimitowanych danych. Większość odwiedzających wybiera plan 5 GB/15 dni za 37,99 $ – wystarcza na codzienną nawigację, media społecznościowe i komunikację bez stresu. Fani streamingu lub intensywni użytkownicy social mediów powinni rozważyć 10 GB lub nielimitowany. Zain zapewnia niezawodne prędkości w całej Jordanii. Plany Roami są przedpłacone – bez niespodziewanych rachunków, bez automatycznego odnawiania, proste ceny.
     - q: |
         Czy mogę używać eSIM dla Jordanii do mediów społecznościowych i udostępniania zdjęć rodzinie?
       a: |
@@ -309,7 +309,7 @@ faq_section:
     - q: |
         Potrzebuję dostępu do internetu tylko na kilka dni w Jordanii. Co mogę kupić w minimum?
       a: |
-        Najtańszy plan kosztuje 1,99 $ na 7 dni z 1 GB – idealny na krótki weekendowy wyjazd z lekkim użyciem. Jeśli potrzebujesz więcej, doładuj w dowolnym momencie z aplikacji.
+        Najtańszy plan kosztuje 6,99 $ na 7 dni z 1 GB – idealny na krótki weekendowy wyjazd z lekkim użyciem. Jeśli potrzebujesz więcej, doładuj w dowolnym momencie z aplikacji.
     - q: |
         Jaka jest różnica między planem 5 GB a nielimitowanym dla Jordanii?
       a: |
@@ -322,63 +322,75 @@ faq_section:
         Czy mogę używać aplikacji nawigacyjnych, takich jak Mapy Google, z eSIM w Jordanii?
       a: |
         Tak – Mapy Google zużywają około 5 MB na godzinę nawigacji z ruchem w czasie rzeczywistym. Pobierz mapy offline dla Jordanii (około 200–500 MB na miasto) przed wyjazdem jako zapas.
+    - q: |
+        Co się dzieje z numerem Orange Jordan po instalacji eSIM Jordania?
+      a: |
+        Numer Orange Jordan pozostaje bez zmian. eSIM Roami Jordania to osobna linia danych, więc możesz dalej odbierać połączenia i SMS-y na dotychczasowym numerze.
+    - q: |
+        Jak wypada koszt eSIM Jordania przy dłuższym pobycie w porównaniu z Orange Jordan?
+      a: |
+        Na dłuższy pobyt wybierasz plan o dłuższej ważności. W porównaniu z długoterminową ofertą Orange Jordan zaletą jest brak umowy — kupujesz dokładnie na potrzebny czas.
+    - q: |
+        Czy w trakcie podróży do Jordania mogę zmienić plan danych, nie ruszając karty Orange Jordan?
+      a: |
+        Tak. Możesz dokupić większy plan w trakcie korzystania i od razu go włączyć — bez szukania salonu Orange Jordan, wszystko online.
 related_products:
   title: Powiązane plany eSIM dla Jordanii
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania eSIM
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Portugalia eSIM
+    flag: img/flags/pt.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
+  - name: Kenia eSIM
+    flag: img/flags/ke.svg
+    price: Od 7,99 $
+    is_highlight: false
+  - name: Chorwacja eSIM
+    flag: img/flags/hr.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
+  - name: Rosja eSIM
+    flag: img/flags/ru.svg
+    price: Od 2,99 $
+    is_highlight: false
+  - name: Botswana eSIM
+    flag: img/flags/bw.svg
+    price: Od 14,99 $
+    is_highlight: false
+  - name: Fidżi eSIM
+    flag: img/flags/fj.svg
+    price: Od 6,99 $
+    is_highlight: false
+  - name: Tajwan eSIM
+    flag: img/flags/tw.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
+  - name: Algieria eSIM
+    flag: img/flags/dz.svg
+    price: Od 3,99 $
     is_highlight: false
-  - name: Hongkong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
+  - name: Seszele eSIM
+    flag: img/flags/sc.svg
+    price: Od 9,99 $
     is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
+  - name: Malawi eSIM
+    flag: img/flags/mw.svg
+    price: Od 14,99 $
     is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: Od 1,99 $
+  - name: Kazachstan eSIM
+    flag: img/flags/kz.svg
+    price: Od 3,99 $
     is_highlight: false
 market_analysis:
   title: 'Jordania eSIM a lokalna przedpłacona SIM – która jest wygodniejsza?'
   subtitle: 'Lokalne przedpłacone karty SIM w Jordanii a rozwiązania eSIM (benchmark 2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Jordania) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Jordan
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna przedpłacona SIM (dane rynkowe)

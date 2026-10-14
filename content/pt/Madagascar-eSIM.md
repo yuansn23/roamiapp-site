@@ -216,7 +216,7 @@ reminders:
   title: 'Dicas de Configuração do Madagáscar eSIM: O que Saber Antes de Viajar'
   items:
   - icon: 📱
-    html: Verifique se seu telefone é <a href="/pt/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
+    html: Verifique se seu telefone é <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
       font-bold transition-colors">compatível com eSIM</a> antes de comprar.
   - icon: ✈️
     html: Recomendamos ativar a linha após chegar em Madagáscar.
@@ -388,7 +388,8 @@ market_analysis:
   - icon: credit-card
     title: Pagamentos de<br>Recarga
     prepaid_title: ''
-    prepaid_desc: "Os vouchers de recarga são vendidos em denominações baixas (ex: 1000 Ar) e exigem dinheiro local; cartões de crédito internacionais raramente são aceitos para recargas pré-pagas."
+    prepaid_desc: "Os vouchers de recarga são vendidos em denominações baixas (ex: 1000 Ar) e exigem dinheiro local; cartões de crédito internacionais raramente são aceitos para recargas pré-pagas.
+"
     esim_title: Métodos de Pagamento Globais
     esim_desc: "Pule o sistema de vouchers de baixa denominação de Madagáscar (ex: 1000 Ar) e recargas apenas em dinheiro. A Roami aceita Visa, Mastercard, AMEX, Apple Pay, Google Pay e PayPal."
   - icon: headset

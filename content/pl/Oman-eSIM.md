@@ -1,6 +1,6 @@
 ---
 title: 'Oman eSIM - 5G w Maskacie i Nizwie | Bez kłopotów z paszportem | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
   title: Oman eSIM - Przedpłacony plan danych 5G na Twoją podróż
-  description: Zdobądź najlepszą eSIM dla Omanu z 5G na Omantel, Ooredoo i Vodafone. Bez rejestracji paszportu — pomiń kolejki na lotnisku. Obejmuje Maskat, Nizwę i Salalę. Plany od 1,99 $.
-  keywords: Oman eSIM, kup Oman eSIM, najlepszy Oman eSIM, eSIM podróżny Oman, Omantel Oman, Ooredoo Oman, Vodafone Oman, Maskat eSIM, Salala eSIM, Nizwa eSIM, przedpłacony eSIM Oman, 5G Oman eSIM, Oman eSIM bez paszportu
-  low_price: 1.99
-  high_price: 39.9
+  description: Zdobądź najlepszą eSIM dla Omanu z 5G na Omantel, Ooredoo i Vodafone. Bez rejestracji paszportu — pomiń kolejki na lotnisku. Plany od 5,99 $.
+  keywords: Oman eSIM, najlepsza eSIM Oman, kup Oman eSIM, plany eSIM Oman, Oman eSIM cena, eSIM podróżny Oman, najlepszy Oman eSIM, Oman eSIM nielimitowane, jak aktywować eSIM Oman, przedpłacony eSIM Oman, Oman eSIM opinie, Oman 5G eSIM, Omantel, Maskat eSIM, Salala eSIM, Nizwa eSIM
+  low_price: 5.99
+  high_price: 67.99
 order_summary:
   title: Wybrany plan
   label_data: Zawarte dane
@@ -368,63 +368,75 @@ faq_section:
         Kiedy zaczyna się okres ważności mojego eSIM dla Omanu?
       a: |
         Ważność planu rozpoczyna się po połączeniu z lokalną siecią w Omanie, a nie w momencie zakupu lub instalacji. Możesz więc kupić i zainstalować tygodnie przed podróżą bez utraty dni planu. Plan 7-dniowy daje 7 pełnych dni od pierwszego połączenia.
+    - q: |
+        Jak aktywować eSIM Oman w sieci Omantel?
+      a: |
+        eSIM Roami Oman aktywuje się przez zeskanowanie kodu QR. Kod przychodzi e-mailem w ciągu 5 minut od zakupu, a połączenie z siecią Omantel i lokalnymi partnerami następuje automatycznie. Nie musisz odwiedzać salonu ani składać dodatkowych dokumentów.
+    - q: |
+        Czy eSIM Oman jest tańszy niż przedpłacona karta Omantel?
+      a: |
+        Zwykle tak. Roami sprzedaje bezpośrednio, bez prowizji marketplace'ów, więc cena bywa niższa niż w przedpłaconych planach Omantel, i nie ma ukrytych opłat.
+    - q: |
+        Jak doładować dane, gdy skończy się limit w eSIM Oman, zamiast korzystać z Omantel?
+      a: |
+        Z tego samego konta dokupisz większy plan. Nie musisz iść do salonu Omantel ani kupować zdrapki — wszystko załatwiasz online od razu.
 related_products:
-  title: Powiązane plany eSIM
+  title: Powiązane plany eSIM - Oman
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania eSIM
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: Od 1,99 $
+  - name: Tanzania eSIM
+    flag: img/flags/tz.svg
+    price: Od 7,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Hongkong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
+  - name: Gwatemala eSIM
+    flag: img/flags/gt.svg
+    price: Od 11,99 $
     is_highlight: false
   - name: Francja eSIM
     flag: img/flags/fr.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
+  - name: Niger eSIM
+    flag: img/flags/ni.svg
+    price: Od 23,99 $
+    is_highlight: false
+  - name: Wyspy Owcze eSIM
+    flag: img/flags/fo.svg
+    price: Od 5,99 $
+    is_highlight: false
+  - name: Panama eSIM
+    flag: img/flags/pa.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Nowa Zelandia eSIM
+    flag: img/flags/nz.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Sierra Leone eSIM
+    flag: img/flags/si.svg
+    price: Od 10,99 $
+    is_highlight: false
+  - name: Finlandia eSIM
+    flag: img/flags/fi.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
+  - name: Barbados eSIM
+    flag: img/flags/bb.svg
+    price: Od 11,99 $
     is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: Od 1,99 $
+  - name: Kamerun eSIM
+    flag: img/flags/cm.svg
+    price: Od 27,99 $
     is_highlight: false
 market_analysis:
   title: 'Oman eSIM a lokalna SIM: bez paszportu, bez kolejek, gotowy na GCC'
   subtitle: 'Lokalne przedpłacone karty SIM w Omanie a rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Oman) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Oman
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna przedpłacona SIM (dane rynkowe)
@@ -453,7 +465,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Wszyscy operatorzy używają <strong>30-dniowych cykli rozliczeniowych</strong>. 7-dniowy turysta marnuje ponad <strong>75%</strong> wartości planu. Brak opcji krótkoterminowych poniżej 30 dni.
     esim_title: Elastyczne krótkie plany
-    esim_desc: Roami oferuje <strong>plany 3/7/15/30-dniowe</strong> od 1,99 $ — płać tylko za rzeczywistą długość podróży. Bez narzuconego 30-dniowego zobowiązania.
+    esim_desc: Roami oferuje <strong>plany 3/7/15/3-dniowe</strong> od 5,99 $ — płać tylko za rzeczywistą długość podróży. Bez narzuconego 30-dniowego zobowiązania.
   - icon: wifi
     title: Zasady hotspotu<br>i prędkości
     prepaid_title: ''

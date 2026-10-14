@@ -99,7 +99,7 @@ regions:
     countries:
       - name: "美國"
         slug: "usa"
-        url: "/usa-esim/"
+        url: "/united-states-esim/"
       - name: "加拿大"
         slug: "canada"
         url: "/canada-esim/"

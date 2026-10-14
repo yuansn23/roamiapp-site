@@ -329,7 +329,7 @@ reminders:
   title: 'Dicas de Configuração do Noruega eSIM: O que Saber Antes de Viajar'
   items:
   - icon: 📱
-    html: Verifique se seu telefone é <a href="/pt/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
+    html: Verifique se seu telefone é <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
       font-bold transition-colors">compatível com eSIM</a> antes de comprar.
   - icon: ✈️
     html: Recomendamos ativar a linha após chegar na Noruega.
@@ -489,7 +489,8 @@ market_analysis:
   - icon: calendar-xmark
     title: Ciclo de Faturamento e<br>Custo Afundado
     prepaid_title: ''
-    prepaid_desc: "O ciclo de faturamento mínimo da Telia é de 31 dias (ex: 3GB por 269 NOK). A Telenor tem um limite mensal de 1GB de alta velocidade, após o qual a velocidade cai para 128 Kbps."
+    prepaid_desc: "O ciclo de faturamento mínimo da Telia é de 31 dias (ex: 3GB por 269 NOK). A Telenor tem um limite mensal de 1GB de alta velocidade, após o qual a velocidade cai para 128 Kbps.
+"
     esim_title: Planos Curtos Flexíveis
     esim_desc: "Ao contrário do ciclo de 31 dias da Telia (ex: 3GB por 269 NOK) ou do limite mensal de 1GB da Telenor, a Roami oferece planos de 7 dias a partir de $1,99/GB, economizando até 75% de desperdício em viagens curtas."
   - icon: wifi

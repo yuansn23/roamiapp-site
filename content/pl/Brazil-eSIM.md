@@ -1,6 +1,6 @@
 ---
 title: 'Brazylia eSIM - 5G w Rio i São Paulo | Bez CPF | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
   title: Brazylia eSIM - Najlepszy przedpłacony plan 5G | Bez CPF
-  description: Zdobądź najlepszą eSIM dla Brazylii z 5G na Claro, Vivo i TIM. Bez CPF i paszportu — pomiń aktywację telefoniczną po portugalsku. Obejmuje Rio, São Paulo i Brasílię. Plany od 1,99 $.
-  keywords: Brazylia eSIM, kup Brazylia eSIM, najlepsza Brazylia eSIM, eSIM podróżny Brazylia, Claro Brazylia, Vivo Brazylia, TIM Brazylia, São Paulo eSIM, Rio de Janeiro eSIM, Brasília eSIM, przedpłacony eSIM Brazylia, 5G Brazylia eSIM, Brazylia eSIM bez CPF
-  low_price: 1.99
-  high_price: 39.9
+  description: Zdobądź najlepszą eSIM dla Brazylii z 5G na Claro, Vivo i TIM. Bez CPF i paszportu — pomiń aktywację telefoniczną po portugalsku. Plany od 4,99 $.
+  keywords: Brazylia eSIM, najlepsza eSIM Brazylia, kup Brazylia eSIM, plany eSIM Brazylia, Brazylia eSIM cena, eSIM podróżny Brazylia, najlepszy Brazylia eSIM, Brazylia eSIM nielimitowane, jak aktywować eSIM Brazylia, przedpłacony eSIM Brazylia, Brazylia eSIM opinie, Brazylia 5G eSIM, Claro Brazylia, São Paulo eSIM, Rio de Janeiro eSIM, Brasília eSIM
+  low_price: 4.99
+  high_price: 86.99
 order_summary:
   title: Wybrany plan
   label_data: Zawarte dane
@@ -380,63 +380,75 @@ faq_section:
         Kiedy zaczyna się okres ważności mojego eSIM dla Brazylii?
       a: |
         Ważność planu rozpoczyna się po połączeniu z lokalną siecią w Brazylii, a nie w momencie zakupu lub instalacji. Możesz więc kupić i zainstalować tygodnie przed podróżą bez utraty dni planu. Plan 7-dniowy daje 7 pełnych dni od pierwszego połączenia.
+    - q: |
+        Czy eSIM Brazylia można zainstalować przed przylotem, nie zmieniając karty Claro?
+      a: |
+        Tak. Zainstaluj profil przed wyjazdem, a po przylocie włącz linię — eSIM połączy się z siecią Claro automatycznie. Okres ważności zaczyna się od pierwszego połączenia z obsługiwaną siecią.
+    - q: |
+        Od jakiej kwoty zaczynają się plany eSIM Brazylia w porównaniu z Claro?
+      a: |
+        Plany eSIM Roami Brazylia zaczynają się od najtańszych pakietów o małym limicie. Lokalne plany Claro wymagają zwykle umowy i rejestracji, a Roami daje krótkie plany dopasowane do długości podróży.
+    - q: |
+        Czy eSIM Brazylia odnawia się automatycznie, inaczej niż Claro?
+      a: |
+        Nie. Wszystkie plany są przedpłacone i nie odnawiają się same. Po zakończeniu podróży nie ma dodatkowych obciążeń, co jest bardziej przewidywalne niż abonament Claro.
 related_products:
   title: Powiązane plany eSIM dla Brazylii
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania eSIM
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: Od 1,99 $
+  - name: Filipiny eSIM
+    flag: img/flags/ph.svg
+    price: Od 2,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Hongkong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
+  - name: Tadżykistan eSIM
+    flag: img/flags/tj.svg
+    price: Od 4,99 $
     is_highlight: false
   - name: Australia eSIM
     flag: img/flags/au.svg
     price: Od 1,99 $
     is_highlight: false
+  - name: Korea Południowa eSIM
+    flag: img/flags/kr.svg
+    price: Od 1,99 $
+    is_highlight: false
+  - name: Honduras eSIM
+    flag: img/flags/hn.svg
+    price: Od 6,99 $
+    is_highlight: false
+  - name: Belgia eSIM
+    flag: img/flags/be.svg
+    price: Od 1,99 $
+    is_highlight: false
+  - name: Portugalia eSIM
+    flag: img/flags/pt.svg
+    price: Od 1,99 $
+    is_highlight: false
+  - name: Barbados eSIM
+    flag: img/flags/bb.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Francja eSIM
+    flag: img/flags/fr.svg
+    price: Od 1,99 $
+    is_highlight: false
+  - name: Gujana Francuska eSIM
+    flag: img/flags/gf.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Azerbejdżan eSIM
+    flag: img/flags/az.svg
+    price: Od 6,99 $
+    is_highlight: false
 market_analysis:
   title: 'Brazylia eSIM a lokalna przedpłacona SIM: wygoda bez CPF'
   subtitle: 'Lokalne przedpłacone karty SIM w Brazylii a rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Brazylia) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Brazil
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna przedpłacona SIM (dane rynkowe)

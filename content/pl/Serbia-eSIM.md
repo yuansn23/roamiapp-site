@@ -1,6 +1,6 @@
 ---
 title: 'Serbia eSIM 2026: Przewodnik po zasięgu i prędkości | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Telenor Serbia, Telekom Srbija, A1 Srbija
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Belgrad, Nowy Sad, Nisz, Kragujevac, Subotica
-  main_packages: 3/7/15/30 dni, nielimitowane dane
+  main_packages: 3/7/15/30 dni, dane bez limitu
 modal:
   title: Usługa ulepszona!
   btn_text: Kontynuuj
@@ -17,10 +17,10 @@ modal:
   text_android: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
   title: Serbia eSIM | Nielimitowane przedpłacone dane dla odkrywców
-  description: Pozostań w kontakcie w Serbii z najlepszą przedpłaconą kartą eSIM od Roami. Nielimitowane dane 5G w całym kraju. Natychmiastowa aktywacja QR. Obejmuje Belgrad, Nowy Sad i Nisz.
-  keywords: Serbia eSIM, kup Serbia eSIM, najlepszy Serbia eSIM, eSIM podróżny Serbia, Telenor Serbia Serbia, Telekom Srbija Serbia, A1 Srbija Serbia, Belgrad eSIM, Nowy Sad eSIM, Nisz eSIM, przedpłacony eSIM Serbia, 5G Serbia eSIM
+  description: Pozostań w kontakcie w Serbii z najlepszą przedpłaconą kartą eSIM od Roami. Nielimitowane dane 5G w całym kraju. Natychmiastowa aktywacja QR. Ceny od 1,99 $.
+  keywords: Serbia eSIM, najlepsza eSIM Serbia, kup Serbia eSIM, plany eSIM Serbia, Serbia eSIM cena, eSIM podróżny Serbia, najlepszy Serbia eSIM, Serbia eSIM nielimitowane, jak aktywować eSIM Serbia, przedpłacony eSIM Serbia, Serbia eSIM opinie, Serbia 5G eSIM, Telenor Serbia, Belgrad eSIM, Nowy Sad eSIM, Nisz eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 89.99
 order_summary:
   title: Wybrany plan
   label_data: Zawarte dane
@@ -357,7 +357,7 @@ faq_section:
     - q: |
         Czy mogę uzyskać eSIM dla Serbii bez wydawania zbyt dużo?
       a: |
-        Oczywiście. Plany eSIM Roami dla Serbii zaczynają się już od 1,99 $. Opcja 5 GB/15 dni (9,99 $) jest najpopularniejsza wśród podróżnych – wygodnie obsługuje mapy, WhatsApp, Instagram i e-mail. Jeśli jesteś intensywnym użytkownikiem danych, plany 10 GB (14,99 $) lub nielimitowany (59,99 $) dają spokój ducha. Pominięcie kiosku SIM na lotnisku oszczędza 30-50% i kłopotów z kolejką. Potrzebujesz dostosować? Możesz doładować w dowolnym momencie z aplikacji Roami.
+        Oczywiście. Plany eSIM Roami dla Serbii zaczynają się już od 1,99 $. Opcja 5 GB/15 dni (8,99 $) jest najpopularniejsza wśród podróżnych – wygodnie obsługuje mapy, WhatsApp, Instagram i e-mail. Jeśli jesteś intensywnym użytkownikiem danych, plany 10 GB (14,99 $) lub nielimitowany (9,99 $) dają spokój ducha. Pominięcie kiosku SIM na lotnisku oszczędza 30-50% i kłopotów z kolejką. Potrzebujesz dostosować? Możesz doładować w dowolnym momencie z aplikacji Roami.
     - q: |
         Czy potrzebuję paszportu lub dowodu, aby używać eSIM w Serbii? Jak działa weryfikacja?
       a: |
@@ -386,55 +386,67 @@ faq_section:
         Ile profili eSIM mogę przechowywać w telefonie na podróż do Serbii?
       a: |
         Większość telefonów przechowuje 5-10 profili eSIM. Możesz przechowywać eSIM dla Serbii obok domowej karty SIM i innych profili krajowych. Po prostu aktywuj ten, którego potrzebujesz, a deaktywuj pozostałe. Przełączanie między nimi zajmuje około 10 sekund w ustawieniach telefonu.
+    - q: |
+        Co się dzieje z numerem Telenor Serbia po instalacji eSIM Serbia?
+      a: |
+        Numer Telenor Serbia pozostaje bez zmian. eSIM Roami Serbia to osobna linia danych, więc możesz dalej odbierać połączenia i SMS-y na dotychczasowym numerze.
+    - q: |
+        Jak wypada koszt eSIM Serbia przy dłuższym pobycie w porównaniu z Telenor Serbia?
+      a: |
+        Na dłuższy pobyt wybierasz plan o dłuższej ważności. W porównaniu z długoterminową ofertą Telenor Serbia zaletą jest brak umowy — kupujesz dokładnie na potrzebny czas.
+    - q: |
+        Czy w trakcie podróży do Serbia mogę zmienić plan danych, nie ruszając karty Telenor Serbia?
+      a: |
+        Tak. Możesz dokupić większy plan w trakcie korzystania i od razu go włączyć — bez szukania salonu Telenor Serbia, wszystko online.
 related_products:
-  title: Powiązane plany eSIM
+  title: Powiązane plany eSIM - Serbia
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania eSIM
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Luksemburg eSIM
+    flag: img/flags/lu.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
+  - name: Reunion eSIM
+    flag: img/flags/re.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
+  - name: Nowa Zelandia eSIM
+    flag: img/flags/nz.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Meksyk eSIM
+    flag: img/flags/mx.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Bośnia i Hercegowina eSIM
+    flag: img/flags/ba.svg
+    price: Od 30,99 $
+    is_highlight: false
+  - name: Bangladesh eSIM
+    flag: img/flags/bd.svg
+    price: Od 5,99 $
+    is_highlight: false
+  - name: Liechtenstein eSIM
+    flag: img/flags/li.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
+  - name: Estonia eSIM
+    flag: img/flags/ee.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Hongkong eSIM
-    flag: img/flags/hk.svg
+  - name: Norwegia eSIM
+    flag: img/flags/no.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
+  - name: Polska eSIM
+    flag: img/flags/pl.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: Od 1,99 $
+  - name: Dominikana eSIM
+    flag: img/flags/do.svg
+    price: Od 5,99 $
     is_highlight: false
 ---

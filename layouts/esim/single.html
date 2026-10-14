@@ -581,7 +581,15 @@
         {{ range .items }}
         <li class="flex items-start gap-3 p-4 bg-slate-50 rounded-2xl border border-slate-100">
             <span class="text-2xl leading-none flex-shrink-0" aria-hidden="true">{{ .icon }}</span>
-            <span class="text-slate-700 text-sm leading-relaxed">{{ replace .html "/compatibility/" $compatURL | safeHTML }}</span>
+            {{- /* 归一化：先剥掉内容里可能已写死的语言前缀，再统一补上当前语言前缀——保证幂等，避免出现 /pt/pt/compatibility/ */ -}}
+            {{- $h := .html -}}
+            {{- range site.Languages -}}
+              {{- if ne .Lang "en" -}}
+                {{- $h = replace $h (printf "href=\"/%s/compatibility/" .Lang) "href=\"/compatibility/" -}}
+              {{- end -}}
+            {{- end -}}
+            {{- $h = replace $h "href=\"/compatibility/" (printf "href=\"%s" $compatURL) -}}
+            <span class="text-slate-700 text-sm leading-relaxed">{{ $h | safeHTML }}</span>
         </li>
         {{ end }}
     </ul>
@@ -847,14 +855,15 @@
   <ul class="grid grid-cols-2 md:grid-cols-4 gap-4 list-none p-0 m-0">
     {{ range $finalItems }}
       {{ $targetUrl := "" }}
+      {{ $relSlug := .slug | default (.name | urlize) }}
       {{ if eq $.Site.Language.Lang "en" }}
-        {{ $targetUrl = or .url .link (printf "/%s/" (.slug | lower)) }}
+        {{ $targetUrl = or .url .link (printf "/%s/" ($relSlug | lower)) }}
       {{ else }}
-        {{ $targetUrl = printf "/%s/" (.slug | lower) }}
+        {{ $targetUrl = printf "/%s/" ($relSlug | lower) }}
       {{ end }}
 
       <li class="h-full">
-        <a href="{{ $targetUrl | relLangURL }}" class="{{ if .is_highlight }}bg-brand-50 border-brand-200{{ else }}bg-white border-slate-200{{ end }} border rounded-2xl p-4 hover:border-brand-50 hover:shadow-md transition-all group h-full flex flex-col justify-center">
+        <a href="{{ partial "langurl.html" $targetUrl }}" class="{{ if .is_highlight }}bg-brand-50 border-brand-200{{ else }}bg-white border-slate-200{{ end }} border rounded-2xl p-4 hover:border-brand-50 hover:shadow-md transition-all group h-full flex flex-col justify-center">
           {{ $imgPath := or .image .icon .img .flag "" }}
           {{ if $imgPath }}
             <img src="/{{ trim $imgPath "/" }}" loading="lazy" class="w-12 h-8 object-cover rounded-md shadow-sm mb-3" alt="{{ .name }}">

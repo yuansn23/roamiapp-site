@@ -329,7 +329,7 @@ reminders:
   title: 'Dicas de Configuração do Suécia eSIM: O que Saber Antes de Viajar'
   items:
   - icon: 📱
-    html: Verifique se seu telefone é <a href="/pt/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
+    html: Verifique se seu telefone é <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
       font-bold transition-colors">compatível com eSIM</a> antes de comprar.
   - icon: ✈️
     html: Recomendamos ativar a linha após chegar na Suécia.
@@ -377,7 +377,7 @@ faq_section:
     - q: |
         Preciso de passaporte ou identidade para usar eSIM na Suécia? Como funciona a verificação?
       a: |
-        Sim, a Suécia exige verificação de identidade para eSIM. A Suécia exige verificação KYC para cartões SIM pré-pagos. Passaporte necessário. Muitos viajantes só descobrem isso após chegar, e então lutam com o WiFi do aeroporto enquanto esperam a aprovação. Complete a verificação antes de viajar — leva cerca de 5 a 10 minutos. Além disso, alguns telefones funcionam melhor com a rede da Telia do que outros — verifique nossa página de [compatibilidade eSIM](/pt/compatibility/).
+        Sim, a Suécia exige verificação de identidade para eSIM. A Suécia exige verificação KYC para cartões SIM pré-pagos. Passaporte necessário. Muitos viajantes só descobrem isso após chegar, e então lutam com o WiFi do aeroporto enquanto esperam a aprovação. Complete a verificação antes de viajar — leva cerca de 5 a 10 minutos. Além disso, alguns telefones funcionam melhor com a rede da Telia do que outros — verifique nossa página de [compatibilidade eSIM](/compatibility/).
     - q: |
         Quanto devo orçar para um eSIM ao visitar a Suécia?
       a: |
@@ -489,7 +489,8 @@ market_analysis:
   - icon: calendar-xmark
     title: Ciclo de Faturamento e<br>Custo Afundado
     prepaid_title: ''
-    prepaid_desc: "Os planos principais têm ciclos de 30 ou 31 dias (ex: Telenor Fastpris 149 SEK/5GB, Telia 199 SEK/3GB). Um turista de 7 dias comprando o plano 149 SEK/5GB da Telenor desperdiça mais de 75% do valor do plano."
+    prepaid_desc: "Os planos principais têm ciclos de 30 ou 31 dias (ex: Telenor Fastpris 149 SEK/5GB, Telia 199 SEK/3GB). Um turista de 7 dias comprando o plano 149 SEK/5GB da Telenor desperdiça mais de 75% do valor do plano.
+"
     esim_title: Planos Curtos Flexíveis
     esim_desc: Ao contrário do ciclo de 31 dias da Telenor (149 SEK/5GB) que desperdiça 75% para uma viagem de 7 dias, a Roami oferece planos de 7 dias a partir de $1,99/GB, economizando dinheiro e evitando renovação automática.
   - icon: wifi

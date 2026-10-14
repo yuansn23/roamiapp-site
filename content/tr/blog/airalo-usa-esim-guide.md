@@ -24,7 +24,7 @@ products:
     flag: "/img/flags/us.svg"
     price: "1,99 $'dan itibaren"
     is_highlight: true
-    slug: "usa"
+    slug: "united-states"
   - name: "Kanada eSIM"
     flag: "/img/flags/ca.svg"
     price: "1,99 $'dan itibaren"
@@ -39,7 +39,7 @@ products:
     flag: "/img/flags/gb.svg"
     price: "1,99 $'dan itibaren"
     is_highlight: false
-    slug: "uk"
+    slug: "united-kingdom"
   - name: "Fransa eSIM"
     flag: "/img/flags/fr.svg"
     price: "1,99 $'dan itibaren"

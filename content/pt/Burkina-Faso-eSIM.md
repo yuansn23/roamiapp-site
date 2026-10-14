@@ -148,7 +148,7 @@ reminders:
   title: 'Dicas de Configuração do Burquina Faso eSIM: O que Saber Antes de Viajar'
   items:
   - icon: 📱
-    html: Verifique se seu telefone é <a href="/pt/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
+    html: Verifique se seu telefone é <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
       font-bold transition-colors">compatível com eSIM</a> antes de comprar.
   - icon: ✈️
     html: Recomendamos ativar a linha após chegar em Burquina Faso.
@@ -308,7 +308,8 @@ market_analysis:
   - icon: calendar-xmark
     title: Ciclo de Faturamento e<br>Custo Afundado
     prepaid_title: ''
-    prepaid_desc: "Os planos de 30 dias da Orange (ex: 1GB/2500 CFA, 5GB/8000 CFA) dominam; o plano de 30 dias 10GB da Onatel custa 15.000 CFA; o menor plano de 10MB da Telecel força validade de 30 dias. Um turista de 5 dias comprando um plano de 30 dias desperdiça mais de 80% do valor do plano."
+    prepaid_desc: "Os planos de 30 dias da Orange (ex: 1GB/2500 CFA, 5GB/8000 CFA) dominam; o plano de 30 dias 10GB da Onatel custa 15.000 CFA; o menor plano de 10MB da Telecel força validade de 30 dias. Um turista de 5 dias comprando um plano de 30 dias desperdiça mais de 80% do valor do plano.
+"
     esim_title: Planos Curtos Flexíveis
     esim_desc: Ao contrário do ciclo de 30 dias da Orange (1GB/2500 CFA, desperdiçando 80% em uma viagem de 5 dias), a Roami oferece planos de 7 dias a partir de $1,99/GB, economizando mais de 75% de desperdício.
   - icon: wifi

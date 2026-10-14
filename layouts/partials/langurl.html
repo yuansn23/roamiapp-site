@@ -1,0 +1,43 @@
+{{- /*
+  langurl.html —— 多语言安全链接解析（输出式 partial）
+
+  入参：一个站内绝对路径字符串（如 "/carriers/"），或外部链接，或空值
+  出参：
+    - 入参为空（nil / 空串）   → 输出空串（与原 relLangURL 对 nil 的行为一致）
+    - 外部链接（http/https/#） → 原样返回
+    - 当前语言下存在该页面     → 返回带语言前缀的路径（等价 relLangURL）
+    - 当前语言下不存在该页面   → 回落为无前缀路径（英文站页面），避免 404
+
+  用途：替换模板里对「数据/内容驱动路径」直接使用 relLangURL 的写法。
+        relLangURL 会无条件加语言前缀，当某语言缺少该页面时
+        （例如 pl/nl/ko/ar/vi/th/he 没有 carriers 目录）会生成 404 链接。
+
+  兼容性说明：
+    1. 采用「直接输出」而非 `return` —— 本机 Hugo 0.159.1 对 `return x`
+       报 wrong number of args for return。
+    2. 先用 `if` 过滤空值、再用 `printf "%v"` 转成字符串，
+       避免把 nil 传给 hasPrefix / site.GetPage 导致模板报错
+       （等价于旧写法里 relLangURL 对 nil 返回空串的效果）。
+    3. 站内路径先折叠重复斜杠（/a//b/ → /a/b/），只作用于站内路径，
+       不会破坏 http(s):// 里的双斜杠。
+*/ -}}
+{{- $in := . -}}
+{{- $out := "" -}}
+{{- if $in -}}
+  {{- $url := printf "%v" $in -}}
+  {{- if or (hasPrefix $url "http") (hasPrefix $url "#") -}}
+    {{- $out = $url -}}
+  {{- else -}}
+    {{- $url = replaceRE "/{2,}" "/" $url -}}
+    {{- $href := $url | relLangURL -}}
+    {{- with site.GetPage $url -}}
+      {{- if ne .Language.Lang site.Language.Lang -}}
+        {{- $href = $url -}}
+      {{- end -}}
+    {{- else -}}
+      {{- $href = $url -}}
+    {{- end -}}
+    {{- $out = $href -}}
+  {{- end -}}
+{{- end -}}
+{{- $out -}}

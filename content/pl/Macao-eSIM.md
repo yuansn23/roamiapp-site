@@ -1,6 +1,6 @@
 ---
 title: 'Makau eSIM 2026: Przewodnik po 5G i danych | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: CTM, 3 Macau, SmarTone
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Półwysep Makau, Taipa, Coloane, Cotai, Ilha Verde
-  main_packages: 3/7/15/30 dni, nielimitowane dane
+  main_packages: 3/7/15/30 dni, dane bez limitu
 modal:
   title: Usługa ulepszona!
   btn_text: Kontynuuj
@@ -17,10 +17,10 @@ modal:
   text_android: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
   title: 'Makau eSIM: Najlepszy nielimitowany plan danych 5G'
-  description: Porównaj plany eSIM w Makau z szybkim 5G na Półwyspie Makau, Taipa, Coloane. Przewodnik po zasięgu CTM, 3 Macau i SmarTone dla turystów i podróżnych. Natychmiastowa aktywacja QR od 1,99 $.
-  keywords: Makau eSIM, kup Makau eSIM, najlepszy Makau eSIM, eSIM podróżny Makau, CTM Makau, 3 Macau Makau, SmarTone Makau, Półwysep Makau eSIM, Taipa eSIM, Coloane eSIM, przedpłacony eSIM Makau, 5G Makau eSIM
+  description: Porównaj plany eSIM w Makau z szybkim 5G na Półwyspie Makau, Taipa, Coloane. Natychmiastowa aktywacja QR od 1,99 $.
+  keywords: Makau eSIM, najlepsza eSIM Makau, kup Makau eSIM, plany eSIM Makau, Makau eSIM cena, eSIM podróżny Makau, najlepszy Makau eSIM, Makau eSIM nielimitowane, jak aktywować eSIM Makau, przedpłacony eSIM Makau, Makau eSIM opinie, Makau 5G eSIM, CTM Makau, Półwysep Makau eSIM, Taipa eSIM, Coloane eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 64.99
 order_summary:
   title: Wybrany plan
   label_data: Zawarte dane
@@ -386,55 +386,67 @@ faq_section:
         Czy mogę używać eSIM dla Makau do mediów społecznościowych i udostępniania zdjęć rodzinie?
       a: |
         Oczywiście. Instagram, WhatsApp, Facebook i inne aplikacje społecznościowe działają przez połączenie eSIM. Prędkości wysyłania od CTM obsługują zdjęcia w kilka sekund, a krótkie filmy bez problemu.
+    - q: |
+        Jak dodać eSIM Makau na iPhone z numerem CTM?
+      a: |
+        Wejdź w Ustawienia > Komórkowe > Dodaj eSIM i zeskanuj kod QR z e-maila. Twoja linia CTM pozostaje aktywna przez cały czas.
+    - q: |
+        Dlaczego eSIM Makau opłaca się bardziej niż oferta CTM?
+      a: |
+        Jest przedpłacony i nie odnawia się automatycznie, więc po powrocie nie ma dodatkowych opłat. Kupujesz i aktywujesz online — bez szukania salonu CTM, co oszczędza czas i pieniądze.
+    - q: |
+        Co się stanie z linią CTM, gdy przekroczę limit danych w eSIM Makau?
+      a: |
+        Po wykorzystaniu danych linia eSIM zostaje wstrzymana i nie ma automatycznego obciążenia. W razie potrzeby dokup nowy plan na tym samym koncie — bez wizyty w salonie CTM.
 related_products:
-  title: Powiązane plany eSIM
+  title: Powiązane plany eSIM - Makau
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania eSIM
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Białoruś eSIM
+    flag: img/flags/by.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
+  - name: Oman eSIM
+    flag: img/flags/om.svg
+    price: Od 5,99 $
+    is_highlight: false
+  - name: Burkina Faso eSIM
+    flag: img/flags/bf.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Katar eSIM
+    flag: img/flags/qa.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
-    price: Od 1,99 $
+  - name: Indie eSIM
+    flag: img/flags/in.svg
+    price: Od 3,99 $
     is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
+  - name: ZEA eSIM
+    flag: img/flags/ae.svg
+    price: Od 3,99 $
     is_highlight: false
-  - name: Hongkong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
+  - name: Brazylia eSIM
+    flag: img/flags/br.svg
+    price: Od 4,99 $
     is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
+  - name: Grenada eSIM
+    flag: img/flags/gd.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Szwajcaria eSIM
+    flag: img/flags/ch.svg
     price: Od 1,99 $
     is_highlight: false
   - name: Hiszpania eSIM
     flag: img/flags/es.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: Od 1,99 $
+  - name: Gujana eSIM
+    flag: img/flags/gy.svg
+    price: Od 9,99 $
     is_highlight: false
 ---

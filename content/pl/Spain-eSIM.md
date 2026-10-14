@@ -1,6 +1,6 @@
 ---
 title: 'Hiszpania eSIM 2026 - Najlepszy plan 5G dla Madrytu i Barcelony | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,18 +9,18 @@ country_meta:
   operators: Movistar, Orange, Vodafone
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Madryt, Barcelona, Walencja, Sewilla, Bilbao
-  main_packages: 3/7/15/30 dni, nielimitowane dane
+  main_packages: 3/7/15/30 dni, dane bez limitu
 modal:
   title: Usługa uaktualniona!
   btn_text: Kontynuuj
   text_default: 'Nasza usługa eSIM została uaktualniona do <strong>PhoneSIMGo</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
   text_android: 'Nasza usługa eSIM została uaktualniona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
-  title: Hiszpania eSIM - Szybki prepaidowy plan danych na Twoją podróż
-  description: Zdobądź najlepszą prepaid eSIM dla Hiszpanii z 5G w sieciach Movistar, Orange i Vodafone. Bez paszportu lub dowodu — natychmiastowa aktywacja QR. Obejmuje roaming UE. Od 1,99 $.
-  keywords: Hiszpania eSIM, kup Hiszpania eSIM, najlepsza Hiszpania eSIM, eSIM podróżna Hiszpania, Movistar Hiszpania, Orange Hiszpania, Vodafone Hiszpania, eSIM Madryt, eSIM Barcelona, eSIM Walencja, prepaid eSIM Hiszpania, 5G Hiszpania eSIM, eSIM na Camino de Santiago, eSIM Wyspy Kanaryjskie
+  title: eSIM Hiszpania | sprawdź plany danych
+  description: Zdobądź najlepszą prepaid eSIM dla Hiszpanii z 5G w sieciach Movistar, Orange i Vodafone. Bez paszportu lub dowodu — natychmiastowa aktywacja QR. Od 1,99 $.
+  keywords: Hiszpania eSIM, najlepsza eSIM Hiszpania, kup Hiszpania eSIM, plany eSIM Hiszpania, Hiszpania eSIM cena, eSIM podróżny Hiszpania, najlepszy Hiszpania eSIM, Hiszpania eSIM nielimitowane, jak aktywować eSIM Hiszpania, przedpłacony eSIM Hiszpania, Hiszpania eSIM opinie, Hiszpania 5G eSIM, Movistar Hiszpania, Madryt eSIM, Barcelona eSIM, Walencja eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -400,63 +400,75 @@ faq_section:
         Kiedy rozpoczyna się okres ważności mojej eSIM do Hiszpanii?
       a: |
         Ważność planu rozpoczyna się, gdy połączysz się z lokalną siecią w Hiszpanii, a nie w momencie zakupu lub instalacji. Możesz więc kupić i zainstalować tygodnie przed podróżą, nie tracąc dni ważności. Plan 7-dniowy daje 7 pełnych dni od pierwszego połączenia.
+    - q: |
+        Co się dzieje z numerem Movistar po instalacji eSIM Hiszpania?
+      a: |
+        Numer Movistar pozostaje bez zmian. eSIM Roami Hiszpania to osobna linia danych, więc możesz dalej odbierać połączenia i SMS-y na dotychczasowym numerze.
+    - q: |
+        Jak wypada koszt eSIM Hiszpania przy dłuższym pobycie w porównaniu z Movistar?
+      a: |
+        Na dłuższy pobyt wybierasz plan o dłuższej ważności. W porównaniu z długoterminową ofertą Movistar zaletą jest brak umowy — kupujesz dokładnie na potrzebny czas.
+    - q: |
+        Czy w trakcie podróży do Hiszpania mogę zmienić plan danych, nie ruszając karty Movistar?
+      a: |
+        Tak. Możesz dokupić większy plan w trakcie korzystania i od razu go włączyć — bez szukania salonu Movistar, wszystko online.
 related_products:
   title: Powiązane plany Hiszpania eSIM
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Wielka Brytania eSIM
+    flag: img/flags/gb.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
+  - name: Urugwaj eSIM
+    flag: img/flags/uy.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Liberia eSIM
+    flag: img/flags/lr.svg
+    price: Od 27,99 $
+    is_highlight: false
+  - name: Polska eSIM
+    flag: img/flags/pl.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
+  - name: Bahrajn eSIM
+    flag: img/flags/bh.svg
+    price: Od 6,99 $
+    is_highlight: false
+  - name: Filipiny eSIM
+    flag: img/flags/ph.svg
+    price: Od 2,99 $
+    is_highlight: false
+  - name: Kenia eSIM
+    flag: img/flags/ke.svg
+    price: Od 7,99 $
+    is_highlight: false
+  - name: Peru eSIM
+    flag: img/flags/pe.svg
+    price: Od 4,99 $
+    is_highlight: false
+  - name: Austria eSIM
+    flag: img/flags/at.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
+  - name: Tadżykistan eSIM
+    flag: img/flags/tj.svg
+    price: Od 4,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Islandia eSIM
+    flag: img/flags/is.svg
     price: Od 1,99 $
     is_highlight: false
 market_analysis:
   title: 'Hiszpania eSIM vs lokalna prepaid SIM – która opcja jest wygodniejsza? – Najlepsza eSIM dla podróżujących do Hiszpanii'
   subtitle: 'Lokalne prepaidowe SIM w Hiszpanii vs rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Hiszpania) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Spain
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matryca porównawcza
   - Lokalna prepaid SIM (dane rynkowe)

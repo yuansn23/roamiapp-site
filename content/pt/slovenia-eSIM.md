@@ -311,7 +311,7 @@ reminders:
   items:
   - icon: 📱
     html: |-
-      Verifique se seu telefone é <a href="/pt/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatível com eSIM</a> antes de comprar.
+      Verifique se seu telefone é <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatível com eSIM</a> antes de comprar.
   - icon: ✈️
     html: Recomendamos ativar a linha após chegar na Eslovênia.
   - icon: ⏰

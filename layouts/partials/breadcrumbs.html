@@ -281,7 +281,7 @@
             {{ end }}
             {{ if $item.url }}
             <li class="inline-flex items-center">
-                <a href="{{ $item.url | relLangURL }}" class="hover:text-blue-600 transition-colors">{{ $item.label }}</a>
+                <a href="{{ partial "langurl.html" $item.url }}" class="hover:text-blue-600 transition-colors">{{ $item.label }}</a>
             </li>
             {{ else }}
             <li aria-current="page" class="inline-flex items-center">

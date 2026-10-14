@@ -1,6 +1,6 @@
 ---
 title: 'Irlandia eSIM 2026: Przewodnik po planach i zasięgu | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,18 +9,18 @@ country_meta:
   operators: Vodafone, Three, Eir
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Dublin, Cork, Limerick, Galway, Waterford
-  main_packages: 3/7/15/30 dni, nielimitowane dane
+  main_packages: 3/7/15/30 dni, dane bez limitu
 modal:
   title: Usługa ulepszona!
   btn_text: Kontynuuj
   text_default: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIMGo</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
   text_android: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
-  title: Irlandia eSIM | Najlepszy przedpłacony plan danych dla nomadów
-  description: Pozostań w kontakcie w Irlandii z najlepszą przedpłaconą kartą eSIM od Roami. Nielimitowane dane 5G w całym kraju. Natychmiastowa aktywacja QR. Obejmuje Dublin, Cork i Galway.
-  keywords: Irlandia eSIM, kup Irlandia eSIM, najlepszy Irlandia eSIM, eSIM podróżny Irlandia, Vodafone Irlandia, Three Irlandia, Eir Irlandia, Dublin eSIM, Cork eSIM, Limerick eSIM, przedpłacony eSIM Irlandia, 5G Irlandia eSIM
+  title: 'eSIM Irlandia: 5G w sieciach Vodafone'
+  description: Pozostań w kontakcie w Irlandii z najlepszą przedpłaconą kartą eSIM od Roami. Nielimitowane dane 5G w całym kraju. Ceny od 1,99 $.
+  keywords: Irlandia eSIM, najlepsza eSIM Irlandia, kup Irlandia eSIM, plany eSIM Irlandia, Irlandia eSIM cena, eSIM podróżny Irlandia, najlepszy Irlandia eSIM, Irlandia eSIM nielimitowane, jak aktywować eSIM Irlandia, przedpłacony eSIM Irlandia, Irlandia eSIM opinie, Irlandia 5G eSIM, Vodafone Irlandia, Dublin eSIM, Cork eSIM, Limerick eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Wybrany plan
   label_data: Zawarte dane
@@ -381,7 +381,7 @@ faq_section:
     - q: |
         Jakie są najtańsze opcje eSIM na wyjazd do Irlandii?
       a: |
-        Plany eSIM Roami dla Irlandii zaczynają się od 1,99 $ (7 dni, 1 GB) i sięgają 59,99 $ (30 dni nielimitowane). Na typową 5-7-dniową podróż plan 5 GB za 9,99 $ to optymalny wybór – wystarcza na mapy, wiadomości i przeglądanie mediów społecznościowych. Potrzebujesz streamingu wideo lub pracy zdalnej? Wybierz 10 GB lub nielimitowany. Dzięki sieci 5G Vodafone streaming i rozmowy wideo działają świetnie. Kioski SIM na lotnisku pobierają 30-50% więcej, a do tego czeka Cię kolejka. Nie jesteś pewien swojego zużycia? Zacznij od małego planu i doładuj przez aplikację bez zmiany eSIM.
+        Plany eSIM Roami dla Irlandii zaczynają się od 2,99 $ (7 dni, 1 GB) i sięgają 1,99 $ (30 dni nielimitowane). Na typową 5-7-dniową podróż plan 5 GB za 9,99 $ to optymalny wybór – wystarcza na mapy, wiadomości i przeglądanie mediów społecznościowych. Potrzebujesz streamingu wideo lub pracy zdalnej? Wybierz 10 GB lub nielimitowany. Dzięki sieci 5G Vodafone streaming i rozmowy wideo działają świetnie. Kioski SIM na lotnisku pobierają 30-50% więcej, a do tego czeka Cię kolejka. Nie jesteś pewien swojego zużycia? Zacznij od małego planu i doładuj przez aplikację bez zmiany eSIM.
     - q: |
         Czy mogę kupić eSIM dla Irlandii w ostatniej chwili, tuż przed lotem?
       a: |
@@ -393,7 +393,7 @@ faq_section:
     - q: |
         Wybieram się do Irlandii tylko na 2–3 dni. Jaki eSIM wybrać?
       a: |
-        Na krótki wyjazd plan 1 GB/7 dni (1,99 $) wystarczy na mapy i komunikację. Jeśli planujesz korzystać z mediów społecznościowych i udostępniać zdjęcia, plan 3 GB (4,99 $) daje więcej swobody. Oba aktywują się natychmiast i można doładować w razie potrzeby.
+        Na krótki wyjazd plan 1 GB/7 dni (2,99 $) wystarczy na mapy i komunikację. Jeśli planujesz korzystać z mediów społecznościowych i udostępniać zdjęcia, plan 3 GB (4,99 $) daje więcej swobody. Oba aktywują się natychmiast i można doładować w razie potrzeby.
     - q: |
         Czy eSIM jest tańszy niż roaming międzynarodowy w Irlandii?
       a: |
@@ -402,63 +402,75 @@ faq_section:
         Potrzebuję dostępu do internetu tylko na kilka dni w Irlandii. Co mogę kupić w minimum?
       a: |
         Najtańszy plan kosztuje 1,99 $ na 7 dni z 1 GB – idealny na krótki weekendowy wyjazd z lekkim użyciem. Jeśli potrzebujesz więcej, doładuj w dowolnym momencie z aplikacji.
+    - q: |
+        Czy mogę używać eSIM Irlandia razem z kartą Vodafone?
+      a: |
+        Tak. Większość nowych smartfonów obsługuje kartę fizyczną i eSIM jednocześnie, więc możesz odbierać połączenia i SMS-y na numerze Vodafone, a dane przesyłać przez eSIM Roami Irlandia.
+    - q: |
+        Ile można zaoszczędzić, wybierając eSIM Irlandia zamiast roamingu Vodafone?
+      a: |
+        Roaming w Vodafone rośnie wraz ze zużyciem danych, a eSIM Roami Irlandia ma stałą cenę planu — bez niespodziewanych rachunków. Im dłuższy wyjazd, tym większa oszczędność.
+    - q: |
+        Czy po wyczerpaniu danych eSIM Irlandia mogę dokupić plan w sieci Vodafone?
+      a: |
+        Tak. Gdy zabraknie danych, dokup plan w aplikacji lub online — od razu zadziała w sieci Vodafone.
 related_products:
   title: Powiązane plany eSIM dla Irlandii
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania eSIM
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Mali eSIM
+    flag: img/flags/ml.svg
+    price: Od 27,99 $
+    is_highlight: false
+  - name: Uganda eSIM
+    flag: img/flags/ug.svg
+    price: Od 7,99 $
+    is_highlight: false
+  - name: Peru eSIM
+    flag: img/flags/pe.svg
+    price: Od 4,99 $
+    is_highlight: false
+  - name: Wybrzeże Kości Słoniowej eSIM
+    flag: img/flags/ci.svg
+    price: Od 9,99 $
+    is_highlight: false
+  - name: Katar eSIM
+    flag: img/flags/qa.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
+  - name: Gibraltar eSIM
+    flag: img/flags/gi.svg
+    price: Od 5,99 $
+    is_highlight: false
+  - name: Indonezja eSIM
+    flag: img/flags/id.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
-    price: Od 1,99 $
+  - name: Gruzja eSIM
+    flag: img/flags/ge.svg
+    price: Od 3,99 $
     is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Hongkong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
+  - name: Rumunia eSIM
+    flag: img/flags/ro.svg
     price: Od 1,99 $
     is_highlight: false
   - name: Niemcy eSIM
     flag: img/flags/de.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Włochy eSIM
+    flag: img/flags/it.svg
     price: Od 1,99 $
     is_highlight: false
 market_analysis:
   title: 'Irlandia eSIM a karta SIM przedpłacona – która jest dla Ciebie odpowiednia?'
   subtitle: 'Lokalne przedpłacone karty SIM w Irlandii a rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Irlandia) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Ireland
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna przedpłacona SIM (dane rynkowe)

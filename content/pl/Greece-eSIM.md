@@ -1,6 +1,6 @@
 ---
 title: 'Grecja eSIM - 5G w Atenach i na Santorini | Bez szukania na lotnisku | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -16,11 +16,11 @@ modal:
   text_default: 'Nasza usługa eSIM została uaktualniona do <strong>PhoneSIMGo</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
   text_android: 'Nasza usługa eSIM została uaktualniona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
-  title: Grecja eSIM - Najlepszy nielimitowany plan danych dla nomadów
-  description: Zdobądź najlepszą eSIM dla Grecji z 5G w sieciach Vodafone, Cosmote i Wind. Bez szukania SIM na lotnisku w Atenach — natychmiastowa dostawa QR. Obejmuje Ateny, Santorini, Mykonos i wszystkie wyspy. Plany od 1,99 $.
-  keywords: Grecja eSIM, kup Grecja eSIM, najlepsza Grecja eSIM, eSIM podróżna Grecja, Vodafone Grecja, Cosmote Grecja, Wind Grecja, eSIM Ateny, eSIM Saloniki, eSIM Santorini, prepaid eSIM Grecja, 5G Grecja eSIM, eSIM greckie wyspy
+  title: Grecja eSIM - nielimitowane dane 5G
+  description: Zdobądź najlepszą eSIM dla Grecji z 5G w sieciach Vodafone, Cosmote i Wind. Obejmuje Ateny, Santorini, Mykonos i wszystkie wyspy. Plany od 1,99 $.
+  keywords: Grecja eSIM, najlepsza eSIM Grecja, kup Grecja eSIM, plany eSIM Grecja, Grecja eSIM cena, eSIM podróżny Grecja, najlepszy Grecja eSIM, Grecja eSIM nielimitowane, jak aktywować eSIM Grecja, przedpłacony eSIM Grecja, Grecja eSIM opinie, Grecja 5G eSIM, Vodafone Grecja, Ateny eSIM, Saloniki eSIM, Heraklion eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -416,63 +416,75 @@ faq_section:
         Kiedy rozpoczyna się okres ważności mojej eSIM do Grecji?
       a: |
         Ważność planu rozpoczyna się, gdy połączysz się z lokalną siecią w Grecji, a nie w momencie zakupu lub instalacji. Możesz więc kupić i zainstalować tygodnie przed podróżą, nie tracąc dni ważności. Plan 7-dniowy daje 7 pełnych dni od pierwszego połączenia.
+    - q: |
+        Jak skonfigurować eSIM Grecja na Androidzie z kartą Vodafone?
+      a: |
+        Wejdź w Ustawienia > Sieć i internet > SIM > Pobierz eSIM i zeskanuj kod QR. Aby korzystać z karty Vodafone i eSIM razem, ustaw Roami jako linię danych.
+    - q: |
+        Czy w cenie eSIM Grecja są ukryte opłaty w porównaniu z Vodafone?
+      a: |
+        Nie. Poza ceną planu nie ma opłaty aktywacyjnej ani dopłaty za roaming. Przedpłacone karty Vodafone często wymagają opłaty rejestracyjnej lub minimalnego doładowania.
+    - q: |
+        Czy prędkość w eSIM Grecja spada po wykorzystaniu limitu w sieci Vodafone?
+      a: |
+        eSIM Roami Grecja działa z pełną prędkością do wyczerpania limitu, a potem połączenie wstrzymuje się do dokupienia danych w aplikacji — bez kontaktu z Vodafone. Cena nie rośnie nagle.
 related_products:
   title: Powiązane plany Grecja eSIM
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Ekwador eSIM
+    flag: img/flags/ec.svg
+    price: Od 6,99 $
+    is_highlight: false
+  - name: Argentyna eSIM
+    flag: img/flags/ar.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Litwa eSIM
+    flag: img/flags/lt.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
+  - name: Chorwacja eSIM
+    flag: img/flags/hr.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
+  - name: Dania eSIM
+    flag: img/flags/dk.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
+  - name: Gwatemala eSIM
+    flag: img/flags/gt.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Nigeria eSIM
+    flag: img/flags/ng.svg
+    price: Od 5,99 $
+    is_highlight: false
+  - name: Eswatini eSIM
+    flag: img/flags/sz.svg
+    price: Od 19,99 $
+    is_highlight: false
+  - name: Wietnam eSIM
+    flag: img/flags/vn.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
+  - name: Arabia Saudyjska eSIM
+    flag: img/flags/sa.svg
+    price: Od 3,99 $
     is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: Od 1,99 $
+  - name: Jamajka eSIM
+    flag: img/flags/jm.svg
+    price: Od 11,99 $
     is_highlight: false
 market_analysis:
   title: 'Grecja eSIM vs lokalna SIM: Bez szukania na lotnisku, bez 12% podatku'
   subtitle: 'Lokalne prepaidowe SIM w Grecji vs rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Grecja) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Greece
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matryca porównawcza
   - Lokalna prepaid SIM (dane rynkowe)

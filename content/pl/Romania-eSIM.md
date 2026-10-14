@@ -1,6 +1,6 @@
 ---
 title: 'Rumunia eSIM 2026: Przewodnik po planach i zasięgu | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,18 +9,18 @@ country_meta:
   operators: Orange, Vodafone, Telekom
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Bukareszt, Kluż-Napoka, Timișoara, Jassy, Konstanca
-  main_packages: 3/7/15/30 dni, nielimitowane dane
+  main_packages: 3/7/15/30 dni, dane bez limitu
 modal:
   title: Usługa uaktualniona!
   btn_text: Kontynuuj
   text_default: 'Nasza usługa eSIM została uaktualniona do <strong>PhoneSIMGo</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
   text_android: 'Nasza usługa eSIM została uaktualniona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
-  title: Rumunia eSIM | Najlepszy prepaidowy plan danych dla odwiedzających
-  description: Planujesz podróż do Rumunii? Zdobądź najlepszą prepaid eSIM podróżną Roami z nielimitowanymi danymi 5G. Natychmiastowa aktywacja QR. Obejmuje Bukareszt, Kluż i Transylwanię.
-  keywords: Rumunia eSIM, kup Rumunia eSIM, najlepsza Rumunia eSIM, eSIM podróżna Rumunia, Orange Rumunia, Vodafone Rumunia, Telekom Rumunia, eSIM Bukareszt, eSIM Kluż-Napoka, eSIM Timișoara, prepaid eSIM Rumunia, 5G Rumunia eSIM
+  title: 'eSIM Rumunia: 5G w sieciach Orange'
+  description: Planujesz podróż do Rumunii? Zdobądź najlepszą prepaid eSIM podróżną Roami z nielimitowanymi danymi 5G. Natychmiastowa aktywacja QR. Od 1,99 $.
+  keywords: Rumunia eSIM, najlepsza eSIM Rumunia, kup Rumunia eSIM, plany eSIM Rumunia, Rumunia eSIM cena, eSIM podróżny Rumunia, najlepszy Rumunia eSIM, Rumunia eSIM nielimitowane, jak aktywować eSIM Rumunia, przedpłacony eSIM Rumunia, Rumunia eSIM opinie, Rumunia 5G eSIM, Orange Rumunia, Bukareszt eSIM, Kluż-Napoka eSIM, Timișoara eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -373,7 +373,7 @@ faq_section:
     - q: |
         Czy mogę uzyskać eSIM dla Rumunii bez wydawania zbyt dużo?
       a: |
-        Oczywiście. Plany eSIM Roami dla Rumunii zaczynają się już od 1,99 $. Opcja 5GB/15 dni (9,99 $) jest najpopularniejsza wśród podróżników – bez problemu obsługuje mapy, WhatsApp, Instagram i e-mail. Jeśli jesteś użytkownikiem dużych danych, plany 10GB (14,99 $) lub nielimitowany (59,99 $) dają spokój ducha. Pominięcie stoiska SIM na lotnisku oszczędza 30-50% i unikasz kolejek. Potrzebujesz dostosować? Możesz doładować w dowolnym momencie z aplikacji Roami.
+        Oczywiście. Plany eSIM Roami dla Rumunii zaczynają się już od 1,99 $. Opcja 5GB/15 dni (8,99 $) jest najpopularniejsza wśród podróżników – bez problemu obsługuje mapy, WhatsApp, Instagram i e-mail. Jeśli jesteś użytkownikiem dużych danych, plany 10GB (14,99 $) lub nielimitowany (59,99 $) dają spokój ducha. Pominięcie stoiska SIM na lotnisku oszczędza 30-50% i unikasz kolejek. Potrzebujesz dostosować? Możesz doładować w dowolnym momencie z aplikacji Roami.
     - q: |
         Czy bezpieczne jest przesyłanie mojego paszportu do rejestracji eSIM w Rumunii? Martwię się o prywatność.
       a: |
@@ -389,7 +389,7 @@ faq_section:
     - q: |
         Jaki jest najpopularniejszy wybór eSIM dla podróżujących do Rumunii?
       a: |
-        Większość podróżników do Rumunii wybiera plan 5GB/15 dni (9,99 $). Wystarcza na codzienną nawigację, media społecznościowe i komunikację. Na dłuższe pobyty lub intensywniejsze użytkowanie plany 10GB (14,99 $) lub nielimitowany (59,99 $) są świetnymi opcjami. Wszystkie plany aktywują się w kilka minut i obejmują całodobowe wsparcie.
+        Większość podróżników do Rumunii wybiera plan 5GB/15 dni (8,99 $). Wystarcza na codzienną nawigację, media społecznościowe i komunikację. Na dłuższe pobyty lub intensywniejsze użytkowanie plany 10GB (14,99 $) lub nielimitowany (13,99 $) są świetnymi opcjami. Wszystkie plany aktywują się w kilka minut i obejmują całodobowe wsparcie.
     - q: |
         Czy mogę używać mojej eSIM do Rumunii zaraz po zakupie, czy muszę czekać?
       a: |
@@ -402,63 +402,75 @@ faq_section:
         Czy mogę zostawić moją domową kartę SIM w telefonie podczas korzystania z eSIM w Rumunii?
       a: |
         Tak – Twoja domowa SIM pozostaje w gnieździe 1 do SMS-ów (kody bankowe, logowania 2FA). eSIM obsługuje dane w gnieździe 2. Wyłącz roaming danych na domowej SIM, aby uniknąć opłat sięgających 10-15 $ za MB.
+    - q: |
+        Jak dodać eSIM Rumunia na iPhone z numerem Orange?
+      a: |
+        Wejdź w Ustawienia > Komórkowe > Dodaj eSIM i zeskanuj kod QR z e-maila. Twoja linia Orange pozostaje aktywna przez cały czas.
+    - q: |
+        Dlaczego eSIM Rumunia opłaca się bardziej niż oferta Orange?
+      a: |
+        Jest przedpłacony i nie odnawia się automatycznie, więc po powrocie nie ma dodatkowych opłat. Kupujesz i aktywujesz online — bez szukania salonu Orange, co oszczędza czas i pieniądze.
+    - q: |
+        Co się stanie z linią Orange, gdy przekroczę limit danych w eSIM Rumunia?
+      a: |
+        Po wykorzystaniu danych linia eSIM zostaje wstrzymana i nie ma automatycznego obciążenia. W razie potrzeby dokup nowy plan na tym samym koncie — bez wizyty w salonie Orange.
 related_products:
   title: Powiązane plany Rumunia eSIM
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Włochy eSIM
+    flag: img/flags/it.svg
     price: Od 1,99 $
+    is_highlight: false
+  - name: Tanzania eSIM
+    flag: img/flags/tz.svg
+    price: Od 7,99 $
     is_highlight: false
   - name: Turcja eSIM
     flag: img/flags/tr.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
+  - name: Białoruś eSIM
+    flag: img/flags/by.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
+  - name: Irlandia eSIM
+    flag: img/flags/ie.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Gabon eSIM
+    flag: img/flags/ga.svg
+    price: Od 14,99 $
+    is_highlight: false
+  - name: Singapur eSIM
+    flag: img/flags/sg.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
+  - name: Portoryko eSIM
+    flag: img/flags/pu.svg
+    price: Od 6,99 $
+    is_highlight: false
+  - name: Meksyk eSIM
+    flag: img/flags/mx.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Estonia eSIM
+    flag: img/flags/ee.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Belgia eSIM
+    flag: img/flags/be.svg
     price: Od 1,99 $
     is_highlight: false
 market_analysis:
   title: 'Rumunia eSIM vs prepaid SIM – czy warto przejść na eSIM?'
   subtitle: 'Lokalne prepaidowe SIM w Rumunii vs rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Rumunia) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Romania
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matryca porównawcza
   - Lokalna prepaid SIM (dane rynkowe)

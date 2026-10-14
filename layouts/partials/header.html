@@ -10,7 +10,7 @@
                     <div class="flex items-center gap-7">
                         {{ range $index, $link := .Site.Params.nav_links }}
                             <!-- 渲染导航链接 -->
-                            <a href="{{ $link.url | relLangURL }}" class="flex items-center text-slate-500 hover:text-slate-900 text-sm font-medium transition-colors">
+                            <a href="{{ partial "langurl.html" $link.url }}" class="flex items-center text-slate-500 hover:text-slate-900 text-sm font-medium transition-colors">
                                 <span>{{ $link.name }}</span>
                                 {{ if eq $link.name "Plans" }}
                                 <span class="ml-1.5 bg-red-500 text-white text-[10px] leading-none font-bold px-1.5 py-0.5 rounded-full shadow-sm">HOT</span>
@@ -43,7 +43,7 @@
                                                     <ul class="space-y-1">
                                                         {{ range .countries }}
                                                         <li>
-                                                            <a href="{{ .url | relLangURL }}" 
+                                                            <a href="{{ partial "langurl.html" .url }}" 
                                                                class="block text-sm text-slate-600 hover:text-blue-600 hover:bg-slate-50 px-2 py-1 rounded transition-colors truncate">
                                                                 {{ .name }}
                                                             </a>
@@ -97,7 +97,7 @@
             {{ range $index, $link := .Site.Params.nav_links }}
                 {{ if eq $index 0 }}
                     <!-- 第一个导航链接 -->
-                    <a href="{{ $link.url | relLangURL }}" class="flex items-center px-3 py-2 text-sm text-slate-600 hover:text-blue-600 rounded-lg hover:bg-slate-50 transition-colors">
+                    <a href="{{ partial "langurl.html" $link.url }}" class="flex items-center px-3 py-2 text-sm text-slate-600 hover:text-blue-600 rounded-lg hover:bg-slate-50 transition-colors">
                         <span>{{ $link.name }}</span>
                         {{ if eq $link.name "Plans" }}
                         <span class="ml-2 bg-red-500 text-white text-[10px] leading-none font-bold px-1.5 py-0.5 rounded-full">HOT</span>
@@ -127,7 +127,7 @@
                                 </button>
                                 <div id="region-{{ $regionIndex }}" class="region-content grid grid-cols-2 gap-1.5 px-3 pb-2 {{ if eq $regionIndex 0 }}block{{ else }}hidden{{ end }}">
                                     {{ range $region.countries }}
-                                    <a href="{{ .url | relLangURL }}" class="text-sm text-slate-600 hover:text-blue-600 hover:bg-slate-50 px-3 py-1.5 rounded transition-colors">
+                                    <a href="{{ partial "langurl.html" .url }}" class="text-sm text-slate-600 hover:text-blue-600 hover:bg-slate-50 px-3 py-1.5 rounded transition-colors">
                                         {{ .name }}
                                     </a>
                                     {{ end }}
@@ -140,7 +140,7 @@
 
                 {{ else }}
                     <!-- 其余导航链接 -->
-                    <a href="{{ $link.url | relLangURL }}" class="flex items-center px-3 py-2 text-sm text-slate-600 hover:text-blue-600 rounded-lg hover:bg-slate-50 transition-colors">
+                    <a href="{{ partial "langurl.html" $link.url }}" class="flex items-center px-3 py-2 text-sm text-slate-600 hover:text-blue-600 rounded-lg hover:bg-slate-50 transition-colors">
                         <span>{{ $link.name }}</span>
                         {{ if eq $link.name "Plans" }}
                         <span class="ml-2 bg-red-500 text-white text-[10px] leading-none font-bold px-1.5 py-0.5 rounded-full">HOT</span>

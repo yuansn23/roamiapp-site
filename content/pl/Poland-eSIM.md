@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Polska - 5G w Warszawie i Krakowie | Bez KYC z paszportem | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,18 +9,18 @@ country_meta:
   operators: Play, Orange, T-Mobile
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Warszawa, Kraków, Gdańsk, Wrocław, Poznań
-  main_packages: 3/7/15/30 dni, Nielimitowane dane
+  main_packages: 3/7/15/30 dni, nielimitowane dane
 modal:
   title: Usługa zaktualizowana!
   btn_text: Kontynuuj
   text_default: 'Nasza usługa eSIM została zaktualizowana do <strong>PhoneSIMGo</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
   text_android: 'Nasza usługa eSIM została zaktualizowana do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
-  title: eSIM Polska - Najlepszy nielimitowany plan danych na Twoją podróż
-  description: Uzyskaj najlepszy eSIM do Polski z 5G w sieciach Play, Orange i T-Mobile. Bez rejestracji paszportowej — turyści nie mogą rejestrować się online w przypadku polskich kart SIM. Obejmuje Warszawę, Kraków i Gdańsk. Plany od 1,99 $.
-  keywords: eSIM Polska, kup eSIM Polska, najlepszy eSIM Polska, podróżna eSIM Polska, Play Polska, Orange Polska, T-Mobile Polska, eSIM Warszawa, eSIM Kraków, eSIM Gdańsk, prepaid eSIM Polska, 5G eSIM Polska, eSIM Polska bez paszportu
+  title: 'Polska eSIM: szybkie dane 5G dla podróżnych'
+  description: Uzyskaj najlepszy eSIM do Polski z 5G w sieciach Play, Orange i T-Mobile. Obejmuje Warszawę, Kraków i Gdańsk. Plany od 1,99 $.
+  keywords: Polska eSIM, najlepsza eSIM Polska, kup Polska eSIM, plany eSIM Polska, Polska eSIM cena, eSIM podróżny Polska, najlepszy Polska eSIM, Polska eSIM nielimitowane, jak aktywować eSIM Polska, przedpłacony eSIM Polska, Polska eSIM opinie, Polska 5G eSIM, Play Polska, Warszawa eSIM, Kraków eSIM, Gdańsk eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -398,63 +398,75 @@ faq_section:
         Kiedy zaczyna się okres ważności mojego eSIM Polska?
       a: |
         Ważność planu rozpoczyna się w momencie połączenia z lokalną siecią w Polsce, a nie w momencie zakupu lub instalacji. Możesz więc kupić i zainstalować tygodnie przed podróżą bez utraty dni planu. Plan 7-dniowy daje Ci 7 pełnych dni od pierwszego połączenia.
+    - q: |
+        Czy do aktywacji eSIM Polska potrzebne są dokumenty, skoro mam już kartę Play?
+      a: |
+        Przedpłacona karta Play często wymaga rejestracji paszportu, ale eSIM Roami Polska służy tylko do danych, więc aktywujesz go online bez skanowania dokumentów i wizyty w salonie.
+    - q: |
+        Ile kosztuje eSIM Polska w porównaniu z przedpłaconym planem Play?
+      a: |
+        Zależy od planu i zużycia danych, ale w porównaniu z ofertą Play nie ma wizyty w salonie, rejestracji ani opłat za niewykorzystane dane. Wszystkie plany są przedpłacone.
+    - q: |
+        Czy doładowanie eSIM Polska odnowi również linię Play?
+      a: |
+        Nie. eSIM Roami Polska i fizyczna karta Play są niezależne — dokupienie planu eSIM nie zmienia oferty Play.
 related_products:
   title: Powiązane plany eSIM Polska
   items:
-  - name: eSIM Stany Zjednoczone
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Europa
+  - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: Pakistan eSIM
+    flag: img/flags/pk.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Ukraina eSIM
+    flag: img/flags/ua.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Turcja
-    flag: img/flags/tr.svg
+  - name: Jamajka eSIM
+    flag: img/flags/jm.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Niger eSIM
+    flag: img/flags/ni.svg
+    price: Od 23,99 $
+    is_highlight: false
+  - name: Korea Południowa eSIM
+    flag: img/flags/kr.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Chiny
-    flag: img/flags/cn.svg
-    price: Od 1,99 $
+  - name: Cypr eSIM
+    flag: img/flags/cy.svg
+    price: Od 2,99 $
     is_highlight: false
-  - name: eSIM Japonia
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
+  - name: Kostaryka eSIM
+    flag: img/flags/cr.svg
+    price: Od 9,99 $
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Francja
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Hiszpania
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Niemcy
+  - name: Niemcy eSIM
     flag: img/flags/de.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Od 1,99 $
+  - name: Laos eSIM
+    flag: img/flags/la.svg
+    price: Od 4,99 $
+    is_highlight: false
+  - name: Fidżi eSIM
+    flag: img/flags/fj.svg
+    price: Od 6,99 $
+    is_highlight: false
+  - name: Bośnia i Hercegowina eSIM
+    flag: img/flags/ba.svg
+    price: Od 30,99 $
     is_highlight: false
 market_analysis:
   title: 'eSIM Polska vs lokalna SIM: Bez wizyty w sklepie, bez 66% redukcji danych UE'
   subtitle: 'Lokalne karty SIM prepaid w Polsce vs. rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Polska) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Poland
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna karta SIM prepaid (dane rynkowe)

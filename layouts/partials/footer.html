@@ -59,7 +59,7 @@
                 <h3 class="text-xs font-bold text-slate-400 uppercase tracking-widest mb-4">{{ .Site.Params.footer_col1_title }}</h3>
                 <ul class="space-y-2.5 text-sm">
                     {{ range .Site.Params.footer_col1_links }}
-                    <li><a href="{{ .url | relLangURL }}" class="text-slate-500 hover:text-white transition-colors">{{ .name }}</a></li>
+                    <li><a href="{{ partial "langurl.html" .url }}" class="text-slate-500 hover:text-white transition-colors">{{ .name }}</a></li>
                     {{ end }}
                 </ul>
             </div>
@@ -67,7 +67,7 @@
                 <h3 class="text-xs font-bold text-slate-400 uppercase tracking-widest mb-4">{{ .Site.Params.footer_col2_title }}</h3>
                 <ul class="space-y-2.5 text-sm"> 
                     {{ range .Site.Params.footer_col2_links }}
-                    <li><a href="{{ .url | relLangURL }}" class="text-slate-500 hover:text-white transition-colors">{{ .name }}</a></li>
+                    <li><a href="{{ partial "langurl.html" .url }}" class="text-slate-500 hover:text-white transition-colors">{{ .name }}</a></li>
                     {{ end }}
                 </ul>
             </div>
@@ -75,7 +75,7 @@
                 <h3 class="text-xs font-bold text-slate-400 uppercase tracking-widest mb-4">{{ .Site.Params.footer_col3_title }}</h3>
                 <ul class="space-y-2.5 text-sm">
                     {{ range .Site.Params.footer_col3_links }}
-                    <li><a href="{{ .url | relLangURL }}" class="text-slate-500 hover:text-white transition-colors">{{ .name }}</a></li>
+                    <li><a href="{{ partial "langurl.html" .url }}" class="text-slate-500 hover:text-white transition-colors">{{ .name }}</a></li>
                     {{ end }}
                 </ul>
             </div>

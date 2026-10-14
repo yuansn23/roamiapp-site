@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Andora 2026: Przewodnik po operatorze i zasięgu | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,20 +9,18 @@ country_meta:
   operators: Andorra Telecom
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Andora la Vella, Escaldes-Engordany, Encamp, La Massana, Sant Julià de Lòria
-  main_packages: 3/7/15/30 dni, Nielimitowane dane
+  main_packages: 3/7/15/30 dni, dane bez limitu
 modal:
   title: Usługa zaktualizowana!
   btn_text: Kontynuuj
   text_default: 'Nasza usługa eSIM została zaktualizowana do <strong>PhoneSIMGo</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
   text_android: 'Nasza usługa eSIM została zaktualizowana do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
-  title: "eSIM Andora: Najlepsza podróżna eSIM i przewodnik po zasięgu 5G"
-  description: Porównaj plany eSIM Andora z szybkim 5G w Andorze la Vella, Escaldes-Engordany, Encamp. Przewodnik po zasięgu
-    Andorra Telecom dla turystów i podróżnych. Natychmiastowa aktywacja QR od 1,99 $.
-  keywords: eSIM Andora, kup eSIM Andora, najlepszy eSIM Andora, podróżna eSIM Andora, Andorra Telecom Andora, eSIM Andora
-    la Vella, eSIM Escaldes-Engordany, eSIM Encamp, prepaid eSIM Andora, 5G eSIM Andora
-  low_price: 1.99
-  high_price: 39.9
+  title: "eSIM Andora - Najlepszy plan danych 5G"
+  description: Porównaj plany eSIM Andora z szybkim 5G w Andorze la Vella, Escaldes-Engordany, Encamp. Natychmiastowa aktywacja QR od 6,99 $.
+  keywords: Andora eSIM, najlepsza eSIM Andora, kup Andora eSIM, plany eSIM Andora, Andora eSIM cena, eSIM podróżny Andora, najlepszy Andora eSIM, Andora eSIM nielimitowane, jak aktywować eSIM Andora, przedpłacony eSIM Andora, Andora eSIM opinie, Andora 5G eSIM, Andorra Telecom Andora, Andora la Vella eSIM, Escaldes-Engordany eSIM, Encamp eSIM
+  low_price: 6.99
+  high_price: 89.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -317,64 +315,76 @@ faq_section:
     - q: |
         Czy eSIM jest tańszy niż roaming międzynarodowy w Andorze?
       a: |
-        Tak – eSIM Roami jest zazwyczaj o 80-90% tańszy niż plany roamingowe większości operatorów domowych. Plan 5 GB dla Andory kosztuje 9,99 $, podczas gdy roaming może łatwo kosztować 50 $+ za te same dane. Otrzymujesz również lokalne prędkości sieci zamiast ograniczonego roamingu.
+        Tak – eSIM Roami jest zazwyczaj o 80-90% tańszy niż plany roamingowe większości operatorów domowych. Plan 5 GB dla Andory kosztuje 16,99 $, podczas gdy roaming może łatwo kosztować 50 $+ za te same dane. Otrzymujesz również lokalne prędkości sieci zamiast ograniczonego roamingu.
+    - q: |
+        Jak dodać eSIM Andora na iPhone z numerem Andorra Telecom?
+      a: |
+        Wejdź w Ustawienia > Komórkowe > Dodaj eSIM i zeskanuj kod QR z e-maila. Twoja linia Andorra Telecom pozostaje aktywna przez cały czas.
+    - q: |
+        Dlaczego eSIM Andora opłaca się bardziej niż oferta Andorra Telecom?
+      a: |
+        Jest przedpłacony i nie odnawia się automatycznie, więc po powrocie nie ma dodatkowych opłat. Kupujesz i aktywujesz online — bez szukania salonu Andorra Telecom, co oszczędza czas i pieniądze.
+    - q: |
+        Co się stanie z linią Andorra Telecom, gdy przekroczę limit danych w eSIM Andora?
+      a: |
+        Po wykorzystaniu danych linia eSIM zostaje wstrzymana i nie ma automatycznego obciążenia. W razie potrzeby dokup nowy plan na tym samym koncie — bez wizyty w salonie Andorra Telecom.
 related_products:
   title: Powiązane plany eSIM Andora
   items:
-  - name: eSIM Stany Zjednoczone
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Europa
+  - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: Liechtenstein eSIM
+    flag: img/flags/li.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Turcja
-    flag: img/flags/tr.svg
+  - name: Tajlandia eSIM
+    flag: img/flags/th.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Chiny
-    flag: img/flags/cn.svg
+  - name: Wyspy Owcze eSIM
+    flag: img/flags/fo.svg
+    price: Od 5,99 $
+    is_highlight: false
+  - name: Irlandia eSIM
+    flag: img/flags/ie.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Japonia
-    flag: img/flags/jp.svg
+  - name: Belgia eSIM
+    flag: img/flags/be.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
+  - name: Pakistan eSIM
+    flag: img/flags/pk.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Jordania eSIM
+    flag: img/flags/jo.svg
+    price: Od 6,99 $
+    is_highlight: false
+  - name: Fidżi eSIM
+    flag: img/flags/fj.svg
+    price: Od 6,99 $
+    is_highlight: false
+  - name: Gwatemala eSIM
+    flag: img/flags/gt.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Czech Republic eSIM
+    flag: img/flags/cz.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Francja
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Hiszpania
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Niemcy
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Od 1,99 $
+  - name: Brunei eSIM
+    flag: img/flags/bn.svg
+    price: Od 9,99 $
     is_highlight: false
 market_analysis:
   title: 'eSIM Andora vs karta SIM prepaid: Porównanie prędkości, zasięgu i ceny'
   subtitle: 'Lokalne karty SIM prepaid w Andorze vs. rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Andora) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Andorra
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna karta SIM prepaid (dane rynkowe)

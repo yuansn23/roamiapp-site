@@ -240,7 +240,7 @@ reminders:
   title: 'Dicas de Configuração do Quirguistão eSIM: O que Saber Antes de Viajar'
   items:
   - icon: 📱
-    html: Verifique se seu telefone é <a href="/pt/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
+    html: Verifique se seu telefone é <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
       font-bold transition-colors">compatível com eSIM</a> antes de comprar.
   - icon: ✈️
     html: Recomendamos ativar a linha após chegar no Quirguistão.
@@ -292,7 +292,7 @@ faq_section:
     - q: |
         Como posso ter certeza de que meu telefone é compatível com eSIM no Quirguistão antes de comprar?
       a: |
-        O método mais confiável: disque *#06#. Se um número EID aparecer (16-32 dígitos), seu telefone suporta eSIM. Você também pode verificar o aplicativo Configurações do seu telefone — procure por 'Adicionar eSIM' ou 'Adicionar Plano Celular'. Se estiver lá, você está pronto. Se não, verifique nossa página de [compatibilidade eSIM](/pt/compatibility/) para seu modelo exato. Cerca de 90% dos telefones flagship a partir de 2020 suportam eSIM.
+        O método mais confiável: disque *#06#. Se um número EID aparecer (16-32 dígitos), seu telefone suporta eSIM. Você também pode verificar o aplicativo Configurações do seu telefone — procure por 'Adicionar eSIM' ou 'Adicionar Plano Celular'. Se estiver lá, você está pronto. Se não, verifique nossa página de [compatibilidade eSIM](/compatibility/) para seu modelo exato. Cerca de 90% dos telefones flagship a partir de 2020 suportam eSIM.
     - q: |
         Se eu usar eSIM no Quirguistão, ainda posso receber chamadas e SMS no meu número regular?
       a: |

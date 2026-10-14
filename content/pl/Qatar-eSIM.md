@@ -1,6 +1,6 @@
 ---
 title: 'Katar eSIM 2026: Przewodnik po 5G i danych | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Ooredoo, Vodafone Qatar, Orange Qatar
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Doha, Al Wakrah, Al Khor, Mesaieed, Lusail
-  main_packages: 3/7/15/30 dni, nielimitowane dane
+  main_packages: 3/7/15/30 dni, dane bez limitu
 modal:
   title: Usługa ulepszona!
   btn_text: Kontynuuj
@@ -17,10 +17,10 @@ modal:
   text_android: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
   title: 'Katar eSIM od 1,99 $: roaming w regionie Zatoki'
-  description: Porównaj plany eSIM w Katarze z szybkim 5G w Doha, Al Wakrah, Al Khor. Przewodnik po zasięgu Ooredoo, Vodafone Qatar i Orange Qatar dla turystów i podróżnych. Natychmiastowa aktywacja QR od 1,99 $.
-  keywords: Katar eSIM, kup Katar eSIM, najlepszy Katar eSIM, eSIM podróżny Katar, Ooredoo Katar, Vodafone Qatar Katar, Orange Qatar Katar, Doha eSIM, Al Wakrah eSIM, Al Khor eSIM, przedpłacony eSIM Katar, 5G Katar eSIM
+  description: Porównaj plany eSIM w Katarze z szybkim 5G w Doha, Al Wakrah, Al Khor. Natychmiastowa aktywacja QR od 1,99 $.
+  keywords: Katar eSIM, najlepsza eSIM Katar, kup Katar eSIM, plany eSIM Katar, Katar eSIM cena, eSIM podróżny Katar, najlepszy Katar eSIM, Katar eSIM nielimitowane, jak aktywować eSIM Katar, przedpłacony eSIM Katar, Katar eSIM opinie, Katar 5G eSIM, Ooredoo Katar, Doha eSIM, Al Wakrah eSIM, Al Khor eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 94.99
 order_summary:
   title: Wybrany plan
   label_data: Zawarte dane
@@ -349,7 +349,7 @@ faq_section:
     - q: |
         Jakie są najtańsze opcje eSIM na wyjazd do Kataru?
       a: |
-        Plany eSIM Roami dla Kataru zaczynają się od 1,99 $ (7 dni, 1 GB) i sięgają 59,99 $ (30 dni nielimitowane). Na typową 5-7-dniową podróż plan 5 GB za 9,99 $ to optymalny wybór – wystarcza na mapy, wiadomości i przeglądanie mediów społecznościowych. Potrzebujesz streamingu wideo lub pracy zdalnej? Wybierz 10 GB lub nielimitowany. Dzięki sieci 5G Ooredoo streaming i rozmowy wideo działają świetnie. Kioski SIM na lotnisku pobierają 30-50% więcej, a do tego czeka Cię kolejka. Nie jesteś pewien swojego zużycia? Zacznij od małego planu i doładuj przez aplikację bez zmiany eSIM.
+        Plany eSIM Roami dla Kataru zaczynają się od 6,99 $ (7 dni, 1 GB) i sięgają 6,99 $ (30 dni nielimitowane). Na typową 5-7-dniową podróż plan 5 GB za 9,99 $ to optymalny wybór – wystarcza na mapy, wiadomości i przeglądanie mediów społecznościowych. Potrzebujesz streamingu wideo lub pracy zdalnej? Wybierz 10 GB lub nielimitowany. Dzięki sieci 5G Ooredoo streaming i rozmowy wideo działają świetnie. Kioski SIM na lotnisku pobierają 30-50% więcej, a do tego czeka Cię kolejka. Nie jesteś pewien swojego zużycia? Zacznij od małego planu i doładuj przez aplikację bez zmiany eSIM.
     - q: |
         Czy bezpiecznie jest przesyłać mój paszport do rejestracji eSIM w Katarze? Martwię się o prywatność.
       a: |
@@ -357,7 +357,7 @@ faq_section:
     - q: |
         Czy nielimitowany plan eSIM w Katarze zwalnia, jeśli zużyję zbyt dużo danych?
       a: |
-        Obowiązuje zasada uczciwego użytkowania: prędkość spada po 30 GB w ciągu dnia. Przy zmniejszonej prędkości nadal możesz wysyłać wiadomości, nawigować i przeglądać – ale bez płynnego wideo. Realnie większość podróżnych nie zbliża się do 30 GB. Jeśli się martwisz, plan stały 10 GB (14,99 $) lub 20 GB (24,99 $) całkowicie usuwa niepewność.
+        Obowiązuje zasada uczciwego użytkowania: prędkość spada po 30 GB w ciągu dnia. Przy zmniejszonej prędkości nadal możesz wysyłać wiadomości, nawigować i przeglądać – ale bez płynnego wideo. Realnie większość podróżnych nie zbliża się do 30 GB. Jeśli się martwisz, plan stały 10 GB (17,99 $) lub 20 GB (33,99 $) całkowicie usuwa niepewność.
     - q: |
         Co zrobić, jeśli mój eSIM w Katarze nie łączy się po przyjeździe?
       a: |
@@ -365,60 +365,72 @@ faq_section:
     - q: |
         Potrzebuję dostępu do internetu tylko na kilka dni w Katarze. Co mogę kupić w minimum?
       a: |
-        Najtańszy plan kosztuje 1,99 $ na 7 dni z 1 GB – idealny na krótki weekendowy wyjazd z lekkim użyciem. Jeśli potrzebujesz więcej, doładuj w dowolnym momencie z aplikacji.
+        Najtańszy plan kosztuje 6,99 $ na 7 dni z 1 GB – idealny na krótki weekendowy wyjazd z lekkim użyciem. Jeśli potrzebujesz więcej, doładuj w dowolnym momencie z aplikacji.
     - q: |
         Jaki jest najprostszy sposób na pozostanie w kontakcie w Katarze bez korzystania z kiosków SIM na lotnisku?
       a: |
         Odpowiedzią jest eSIM. Kup online, otrzymaj kod QR e-mailem, zainstaluj w 2 minuty. Pomiń kolejkę na lotnisku. Roami łączy się z Ooredoo dla niezawodnego zasięgu. Twoja domowa karta SIM pozostaje aktywna dla SMS-ów. To najprostszy sposób na pozostanie w kontakcie.
+    - q: |
+        Czy mogę używać eSIM Katar razem z kartą Ooredoo?
+      a: |
+        Tak. Większość nowych smartfonów obsługuje kartę fizyczną i eSIM jednocześnie, więc możesz odbierać połączenia i SMS-y na numerze Ooredoo, a dane przesyłać przez eSIM Roami Katar.
+    - q: |
+        Ile można zaoszczędzić, wybierając eSIM Katar zamiast roamingu Ooredoo?
+      a: |
+        Roaming w Ooredoo rośnie wraz ze zużyciem danych, a eSIM Roami Katar ma stałą cenę planu — bez niespodziewanych rachunków. Im dłuższy wyjazd, tym większa oszczędność.
+    - q: |
+        Czy po wyczerpaniu danych eSIM Katar mogę dokupić plan w sieci Ooredoo?
+      a: |
+        Tak. Gdy zabraknie danych, dokup plan w aplikacji lub online — od razu zadziała w sieci Ooredoo.
 related_products:
-  title: Powiązane plany eSIM
+  title: Powiązane plany eSIM - Katar
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania eSIM
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: Od 1,99 $
+  - name: Nowa Zelandia eSIM
+    flag: img/flags/nz.svg
+    price: Od 3,99 $
     is_highlight: false
   - name: Turcja eSIM
     flag: img/flags/tr.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
+  - name: Łotwa eSIM
+    flag: img/flags/lv.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
+  - name: Fidżi eSIM
+    flag: img/flags/fj.svg
+    price: Od 6,99 $
+    is_highlight: false
+  - name: Irak eSIM
+    flag: img/flags/iq.svg
+    price: Od 9,99 $
+    is_highlight: false
+  - name: Liberia eSIM
+    flag: img/flags/lr.svg
+    price: Od 27,99 $
+    is_highlight: false
+  - name: Finlandia eSIM
+    flag: img/flags/fi.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Hongkong eSIM
-    flag: img/flags/hk.svg
+  - name: Norwegia eSIM
+    flag: img/flags/no.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
+  - name: Guam eSIM
+    flag: img/flags/gu.svg
+    price: Od 9,99 $
     is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
+  - name: Tadżykistan eSIM
+    flag: img/flags/tj.svg
+    price: Od 4,99 $
     is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Bułgaria eSIM
+    flag: img/flags/bg.svg
     price: Od 1,99 $
     is_highlight: false
 ---

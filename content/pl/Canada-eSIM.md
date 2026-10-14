@@ -1,6 +1,6 @@
 ---
 title: 'Kanada eSIM 2026: Przewodnik po miastach i sieciach | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -16,11 +16,11 @@ modal:
   text_default: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIMGo</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
   text_android: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
-  title: Kanada eSIM | Najlepszy nielimitowany plan danych dla podróżnych
-  description: Podróżuj do Kanady z najlepszą przedpłaconą kartą eSIM od Roami. Nielimitowane dane 5G w całym kraju. Natychmiastowa aktywacja. Obejmuje Toronto, Vancouver i nie tylko.
-  keywords: Kanada eSIM, kup Kanada eSIM, najlepszy Kanada eSIM, eSIM podróżny Kanada, Rogers Kanada, Bell Kanada, Telus Kanada, Toronto eSIM, Vancouver eSIM, Montreal eSIM, przedpłacony eSIM Kanada, 5G Kanada eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: 'Kanada eSIM: dane 5G na Twoją podróż'
+  description: Podróżuj do Kanady z najlepszą przedpłaconą kartą eSIM od Roami. Nielimitowane dane 5G w całym kraju. Natychmiastowa aktywacja. Plany od 3,99 $.
+  keywords: Kanada eSIM, najlepsza eSIM Kanada, kup Kanada eSIM, plany eSIM Kanada, Kanada eSIM cena, eSIM podróżny Kanada, najlepszy Kanada eSIM, Kanada eSIM nielimitowane, jak aktywować eSIM Kanada, przedpłacony eSIM Kanada, Kanada eSIM opinie, Kanada 5G eSIM, Rogers Kanada, Toronto eSIM, Vancouver eSIM, Montreal eSIM
+  low_price: 3.99
+  high_price: 59.99
 order_summary:
   title: Wybrany plan
   label_data: Zawarte dane
@@ -373,7 +373,7 @@ faq_section:
     - q: |
         Czy mogę uzyskać eSIM dla Kanady bez wydawania zbyt dużo?
       a: |
-        Oczywiście. Plany eSIM Roami dla Kanady zaczynają się już od 1,99 $. Opcja 5 GB/15 dni (9,99 $) jest najpopularniejsza wśród podróżnych – wygodnie obsługuje mapy, WhatsApp, Instagram i e-mail. Jeśli jesteś intensywnym użytkownikiem danych, plany 10 GB (14,99 $) lub nielimitowany (59,99 $) dają spokój ducha. Pominięcie kiosku SIM na lotnisku oszczędza 30-50% i kłopotów z kolejką. Potrzebujesz dostosować? Możesz doładować w dowolnym momencie z aplikacji Roami.
+        Oczywiście. Plany eSIM Roami dla Kanady zaczynają się już od 3,99 $. Opcja 5 GB/15 dni (14,99 $) jest najpopularniejsza wśród podróżnych – wygodnie obsługuje mapy, WhatsApp, Instagram i e-mail. Jeśli jesteś intensywnym użytkownikiem danych, plany 10 GB (15,99 $) lub nielimitowany (22,99 $) dają spokój ducha. Pominięcie kiosku SIM na lotnisku oszczędza 30-50% i kłopotów z kolejką. Potrzebujesz dostosować? Możesz doładować w dowolnym momencie z aplikacji Roami.
     - q: |
         Co się stanie, jeśli mój eSIM w Kanadzie przestanie działać w trakcie podróży?
       a: |
@@ -393,64 +393,76 @@ faq_section:
     - q: |
         Potrzebuję dostępu do internetu tylko na kilka dni w Kanadzie. Co mogę kupić w minimum?
       a: |
-        Najtańszy plan kosztuje 1,99 $ na 7 dni z 1 GB – idealny na krótki weekendowy wyjazd z lekkim użyciem. Jeśli potrzebujesz więcej, doładuj w dowolnym momencie z aplikacji.
+        Najtańszy plan kosztuje 3,99 $ na 7 dni z 1 GB – idealny na krótki weekendowy wyjazd z lekkim użyciem. Jeśli potrzebujesz więcej, doładuj w dowolnym momencie z aplikacji.
+    - q: |
+        Jak aktywować eSIM Kanada w sieci Rogers?
+      a: |
+        eSIM Roami Kanada aktywuje się przez zeskanowanie kodu QR. Kod przychodzi e-mailem w ciągu 5 minut od zakupu, a połączenie z siecią Rogers i lokalnymi partnerami następuje automatycznie. Nie musisz odwiedzać salonu ani składać dodatkowych dokumentów.
+    - q: |
+        Czy eSIM Kanada jest tańszy niż przedpłacona karta Rogers?
+      a: |
+        Zwykle tak. Roami sprzedaje bezpośrednio, bez prowizji marketplace'ów, więc cena bywa niższa niż w przedpłaconych planach Rogers, i nie ma ukrytych opłat.
+    - q: |
+        Jak doładować dane, gdy skończy się limit w eSIM Kanada, zamiast korzystać z Rogers?
+      a: |
+        Z tego samego konta dokupisz większy plan. Nie musisz iść do salonu Rogers ani kupować zdrapki — wszystko załatwiasz online od razu.
 related_products:
   title: Powiązane plany eSIM dla Kanady
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania eSIM
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Belgia eSIM
+    flag: img/flags/be.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
+  - name: Bahamy eSIM
+    flag: img/flags/bs.svg
+    price: Od 16,99 $
+    is_highlight: false
+  - name: Nepal eSIM
+    flag: img/flags/ne.svg
+    price: Od 10,99 $
+    is_highlight: false
+  - name: Reunion eSIM
+    flag: img/flags/re.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
+  - name: Guam eSIM
+    flag: img/flags/gu.svg
+    price: Od 9,99 $
+    is_highlight: false
+  - name: Algieria eSIM
+    flag: img/flags/dz.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Gujana Francuska eSIM
+    flag: img/flags/gf.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Dominikana eSIM
+    flag: img/flags/do.svg
+    price: Od 5,99 $
+    is_highlight: false
+  - name: Uzbekistan eSIM
+    flag: img/flags/uz.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
+  - name: Malawi eSIM
+    flag: img/flags/mw.svg
+    price: Od 14,99 $
     is_highlight: false
-  - name: Hongkong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Malezja eSIM
+    flag: img/flags/my.svg
     price: Od 1,99 $
     is_highlight: false
 market_analysis:
   title: 'Kanada eSIM a fizyczna karta SIM – która jest lepsza dla podróżnych?'
   subtitle: 'Lokalne przedpłacone karty SIM w Kanadzie a rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Kanada) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Canada
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna przedpłacona SIM (dane rynkowe)

@@ -1,6 +1,6 @@
 ---
 title: 'Japonia eSIM 2026 - Najlepszy plan 5G dla Tokio i Kioto | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Nasza usługa eSIM została uaktualniona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
   title: Japonia eSIM - Szybki prepaidowy plan danych dla odkrywców
-  description: Zdobądź najlepszą prepaid eSIM dla Japonii z 5G w sieciach NTT Docomo, SoftBank i KDDI. Bez potrzeby okazywania dowodu — natychmiastowa aktywacja QR, 24/7. Bez okien aktywacji. Od 1,99 $.
-  keywords: Japonia eSIM, kup Japonia eSIM, najlepsza Japonia eSIM, eSIM podróżna Japonia, NTT Docomo Japonia, SoftBank Japonia, KDDI Japonia, eSIM Tokio, eSIM Osaka, eSIM Kioto, prepaid eSIM Japonia, 5G Japonia eSIM, eSIM Shinkansen, eSIM onsen
+  description: Zdobądź najlepszą prepaid eSIM dla Japonii z 5G w sieciach NTT Docomo, SoftBank i KDDI. Bez okien aktywacji. Od 1,99 $.
+  keywords: Japonia eSIM, najlepsza eSIM Japonia, kup Japonia eSIM, plany eSIM Japonia, Japonia eSIM cena, eSIM podróżny Japonia, najlepszy Japonia eSIM, Japonia eSIM nielimitowane, jak aktywować eSIM Japonia, przedpłacony eSIM Japonia, Japonia eSIM opinie, Japonia 5G eSIM, NTT Docomo Japonia, Tokio eSIM, Osaka eSIM, Kioto eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 71.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -392,63 +392,75 @@ faq_section:
         Jak wypada Roami w porównaniu z Klook dla eSIM w Japonii?
       a: |
         Roami zazwyczaj oferuje lepszą wartość dla eSIM w Japonii, ponieważ sprzedajemy bezpośrednio — bez narzutów rynkowych. Ceny są zwykle o 10-20% niższe niż u Klook. Zapewniamy również całodobową bezpośrednią pomoc. Plany są prepaid bez automatycznego odnawiania, więc nie zostaniesz obciążony po zakończeniu podróży.
+    - q: |
+        Czy do aktywacji eSIM Japonia potrzebne są dokumenty, skoro mam już kartę NTT Docomo?
+      a: |
+        Przedpłacona karta NTT Docomo często wymaga rejestracji paszportu, ale eSIM Roami Japonia służy tylko do danych, więc aktywujesz go online bez skanowania dokumentów i wizyty w salonie.
+    - q: |
+        Ile kosztuje eSIM Japonia w porównaniu z przedpłaconym planem NTT Docomo?
+      a: |
+        Zależy od planu i zużycia danych, ale w porównaniu z ofertą NTT Docomo nie ma wizyty w salonie, rejestracji ani opłat za niewykorzystane dane. Wszystkie plany są przedpłacone.
+    - q: |
+        Czy doładowanie eSIM Japonia odnowi również linię NTT Docomo?
+      a: |
+        Nie. eSIM Roami Japonia i fizyczna karta NTT Docomo są niezależne — dokupienie planu eSIM nie zmienia oferty NTT Docomo.
 related_products:
   title: Powiązane plany Japonia eSIM
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Watykan eSIM
+    flag: img/flags/va.svg
+    price: Od 10,99 $
+    is_highlight: false
+  - name: Szwajcaria eSIM
+    flag: img/flags/ch.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
+  - name: Kolumbia eSIM
+    flag: img/flags/co.svg
+    price: Od 4,99 $
+    is_highlight: false
+  - name: Dominikana eSIM
+    flag: img/flags/do.svg
+    price: Od 5,99 $
+    is_highlight: false
+  - name: Rumunia eSIM
+    flag: img/flags/ro.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
+  - name: Indonezja eSIM
+    flag: img/flags/id.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
+  - name: Peru eSIM
+    flag: img/flags/pe.svg
+    price: Od 4,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
+  - name: Gujana Francuska eSIM
+    flag: img/flags/gf.svg
+    price: Od 3,99 $
     is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
+  - name: Bahrajn eSIM
+    flag: img/flags/bh.svg
+    price: Od 6,99 $
     is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
+  - name: Fidżi eSIM
+    flag: img/flags/fj.svg
+    price: Od 6,99 $
     is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: Od 1,99 $
+  - name: Ghana eSIM
+    flag: img/flags/gh.svg
+    price: Od 7,99 $
     is_highlight: false
 market_analysis:
   title: 'Japonia eSIM vs prepaid SIM – kluczowe różnice – najlepsza eSIM dla podróżujących do Japonii'
   subtitle: 'Lokalne prepaidowe SIM w Japonii vs rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Japonia) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Japan
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matryca porównawcza
   - Lokalna prepaid SIM (dane rynkowe)

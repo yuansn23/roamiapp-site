@@ -1,6 +1,6 @@
 ---
 title: 'Włochy eSIM - 5G w Rzymie i Wenecji | Bez Codice Fiscale | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,18 +9,18 @@ country_meta:
   operators: TIM, Vodafone Italia, Wind Tre
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Rzym, Mediolan, Neapol, Turyn, Palermo
-  main_packages: 3/7/15/30 dni, nielimitowane dane
+  main_packages: 3/7/15/30 dni, dane bez limitu
 modal:
   title: Usługa uaktualniona!
   btn_text: Kontynuuj
   text_default: 'Nasza usługa eSIM została uaktualniona do <strong>PhoneSIMGo</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
   text_android: 'Nasza usługa eSIM została uaktualniona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
-  title: Włochy eSIM - Najlepszy prepaidowy plan 5G | Bez Codice Fiscale
-  description: Zdobądź najlepszą eSIM dla Włoch z 5G w sieciach TIM, Vodafone i Wind Tre. Bez Codice Fiscale lub paszportu — pomiń odrzucenia w sklepach TIM. Obejmuje Rzym, Wenecję, Florencję i Mediolan. Plany od 1,99 $.
-  keywords: Włochy eSIM, kup Włochy eSIM, najlepsza Włochy eSIM, eSIM podróżna Włochy, TIM Włochy, Vodafone Italia Włochy, Wind Tre Włochy, eSIM Rzym, eSIM Mediolan, eSIM Wenecja, prepaid eSIM Włochy, 5G Włochy eSIM, Włochy eSIM bez kodu podatkowego
+  title: eSIM Włochy | sprawdź plany danych
+  description: Zdobądź najlepszą eSIM dla Włoch z 5G w sieciach TIM, Vodafone i Wind Tre. Obejmuje Rzym, Wenecję, Florencję i Mediolan. Plany od 1,99 $.
+  keywords: Włochy eSIM, najlepsza eSIM Włochy, kup Włochy eSIM, plany eSIM Włochy, Włochy eSIM cena, eSIM podróżny Włochy, najlepszy Włochy eSIM, Włochy eSIM nielimitowane, jak aktywować eSIM Włochy, przedpłacony eSIM Włochy, Włochy eSIM opinie, Włochy 5G eSIM, TIM Włochy, Rzym eSIM, Mediolan eSIM, Neapol eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -389,7 +389,7 @@ faq_section:
     - q: |
         Dlaczego włoskie SIM mają 28-dniowe cykle rozliczeniowe? Czy to strata dla krótkich podróży?
       a: |
-        Tak — większość włoskich operatorów używa <strong>28-dniowych cykli rozliczeniowych</strong> (nie miesiąca kalendarzowego). TIM Tourist kosztuje 30 € za 15GB/30 dni. Vodafone używa 28-dniowych cykli (13 opłat rocznie). Jeśli odwiedzasz na 7 dni, płacisz za <strong>21-23 dni, których nie używasz (75%+ strat)</strong>. Roami oferuje plany 3, 7, 15 i 30-dniowe — płacisz <strong>tylko za rzeczywistą długość podróży</strong>. 7-dniowa podróż z Roami może kosztować zaledwie 2,99 $ w porównaniu z 30 € u TIM, bez zmarnowanych dni.
+        Tak — większość włoskich operatorów używa <strong>28-dniowych cykli rozliczeniowych</strong> (nie miesiąca kalendarzowego). TIM Tourist kosztuje 30 € za 15GB/30 dni. Vodafone używa 28-dniowych cykli (13 opłat rocznie). Jeśli odwiedzasz na 7 dni, płacisz za <strong>21-23 dni, których nie używasz (75%+ strat)</strong>. Roami oferuje plany 3, 7, 15 i 30-dniowe — płacisz <strong>tylko za rzeczywistą długość podróży</strong>. 7-dniowa podróż z Roami może kosztować zaledwie 13,99 $ w porównaniu z 30 € u TIM, bez zmarnowanych dni.
     - q: |
         Czy moja eSIM będzie działać w szybkich pociągach między Rzymem, Florencją, Wenecją i Mediolanem?
       a: |
@@ -410,63 +410,75 @@ faq_section:
         Kiedy rozpoczyna się okres ważności mojej eSIM do Włoch?
       a: |
         Ważność planu rozpoczyna się, gdy połączysz się z lokalną siecią we Włoszech, a nie w momencie zakupu lub instalacji. Możesz więc kupić i zainstalować tygodnie przed podróżą, nie tracąc dni ważności. Plan 7-dniowy daje 7 pełnych dni od pierwszego połączenia.
+    - q: |
+        Jak dodać eSIM Włochy na iPhone z numerem TIM?
+      a: |
+        Wejdź w Ustawienia > Komórkowe > Dodaj eSIM i zeskanuj kod QR z e-maila. Twoja linia TIM pozostaje aktywna przez cały czas.
+    - q: |
+        Dlaczego eSIM Włochy opłaca się bardziej niż oferta TIM?
+      a: |
+        Jest przedpłacony i nie odnawia się automatycznie, więc po powrocie nie ma dodatkowych opłat. Kupujesz i aktywujesz online — bez szukania salonu TIM, co oszczędza czas i pieniądze.
+    - q: |
+        Co się stanie z linią TIM, gdy przekroczę limit danych w eSIM Włochy?
+      a: |
+        Po wykorzystaniu danych linia eSIM zostaje wstrzymana i nie ma automatycznego obciążenia. W razie potrzeby dokup nowy plan na tym samym koncie — bez wizyty w salonie TIM.
 related_products:
   title: Powiązane plany Włochy eSIM
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Egipt eSIM
+    flag: img/flags/eg.svg
+    price: Od 2,99 $
+    is_highlight: false
+  - name: Nowa Zelandia eSIM
+    flag: img/flags/nz.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Tanzania eSIM
+    flag: img/flags/tz.svg
+    price: Od 7,99 $
+    is_highlight: false
+  - name: Irlandia eSIM
+    flag: img/flags/ie.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
+  - name: Austria eSIM
+    flag: img/flags/at.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
-    price: Od 1,99 $
+  - name: Oman eSIM
+    flag: img/flags/om.svg
+    price: Od 5,99 $
+    is_highlight: false
+  - name: Azerbejdżan eSIM
+    flag: img/flags/az.svg
+    price: Od 6,99 $
     is_highlight: false
   - name: Japonia eSIM
     flag: img/flags/jp.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
+  - name: Kazachstan eSIM
+    flag: img/flags/kz.svg
+    price: Od 3,99 $
     is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
+  - name: Filipiny eSIM
+    flag: img/flags/ph.svg
+    price: Od 2,99 $
     is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Białoruś eSIM
+    flag: img/flags/by.svg
     price: Od 1,99 $
     is_highlight: false
 market_analysis:
   title: 'Włochy eSIM vs lokalna SIM: Bez Codice Fiscale, bez 28-dniowej straty, bez odrzuceń kart'
   subtitle: 'Lokalne prepaidowe SIM we Włoszech vs rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Włochy) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Italy
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matryca porównawcza
   - Lokalna prepaid SIM (dane rynkowe)

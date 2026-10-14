@@ -148,7 +148,7 @@
                 <span class="text-xs text-slate-500 mt-1 block">{{ .name }}</span>
             </div>
             {{ end }}
-            <a href="{{ .Params.partners.view_all_link | relLangURL }}" class="bg-blue-50 hover:bg-blue-100 rounded-lg p-3 text-center border border-blue-200 transition group flex flex-col items-center justify-center">
+            <a href="{{ partial "langurl.html" .Params.partners.view_all_link }}" class="bg-blue-50 hover:bg-blue-100 rounded-lg p-3 text-center border border-blue-200 transition group flex flex-col items-center justify-center">
                 <i data-lucide="plus-circle" class="w-6 h-6 text-blue-600 mb-1 group-hover:scale-110 transition"></i>
                 <span class="text-xs font-medium text-blue-600">{{ .Params.partners.view_all_text }}</span>
             </a>
@@ -158,13 +158,13 @@
             <!-- 第一行：带图标的关键词按钮组 + 折扣码 -->
             <div class="flex flex-wrap justify-center gap-3 mb-4">
                 {{ range .Params.partners.seo_links }}
-                <a href="{{ .link | relLangURL }}" class="inline-flex items-center gap-1.5 bg-white border border-slate-200 hover:border-blue-300 hover:bg-blue-50 rounded-full px-3 py-1.5 text-xs font-medium text-slate-600 hover:text-blue-600 transition group">
+                <a href="{{ partial "langurl.html" .link }}" class="inline-flex items-center gap-1.5 bg-white border border-slate-200 hover:border-blue-300 hover:bg-blue-50 rounded-full px-3 py-1.5 text-xs font-medium text-slate-600 hover:text-blue-600 transition group">
                     <span>{{ .emoji }}</span> {{ .text }}
                     <span class="ml-1 {{ .discount_badge_class | default "bg-red-500 text-white" }} text-[10px] font-bold px-1.5 py-0.5 rounded-full">{{ .discount_code | default $.Params.partners.default_discount_code }}</span>
                 </a>
                 {{ end }}
                 <!-- 高亮按钮（单独的 plans 链接） -->
-                <a href="{{ .Params.partners.highlight_link | relLangURL }}" class="inline-flex items-center gap-1.5 {{ .Params.partners.highlight_button_class | default "bg-white border border-slate-200 hover:border-blue-300 hover:bg-blue-50" }} rounded-full px-3 py-1.5 text-xs font-medium text-slate-600 hover:text-blue-600 transition group">
+                <a href="{{ partial "langurl.html" .Params.partners.highlight_link }}" class="inline-flex items-center gap-1.5 {{ .Params.partners.highlight_button_class | default "bg-white border border-slate-200 hover:border-blue-300 hover:bg-blue-50" }} rounded-full px-3 py-1.5 text-xs font-medium text-slate-600 hover:text-blue-600 transition group">
                     {{ .Params.partners.highlight_emoji }} {{ .Params.partners.highlight_text }}
                     <span class="ml-1 {{ .Params.partners.highlight_badge_class | default "bg-yellow-300 text-red-700" }} text-[10px] font-bold px-1.5 py-0.5 rounded-full">{{ .Params.partners.highlight_discount_text }}</span>
                 </a>
@@ -245,7 +245,7 @@
             <a href="{{ .Params.cta.android_link }}" class="appstore-btn android-download hidden inline-flex items-center gap-3 bg-black text-white px-6 py-3 rounded-xl font-semibold shadow-xl hover:scale-105 transition border-2 border-yellow-400/40 hover:border-yellow-400">
                 <span>{{ .Params.cta.android_text }}</span>
             </a>
-            <a href="{{ .Params.cta.contact_link | relLangURL }}" class="px-6 py-3 rounded-xl transition flex items-center gap-2 font-bold" style="background-color: {{ .Params.cta.contact_bg }}; color: {{ .Params.cta.contact_color }}; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+            <a href="{{ partial "langurl.html" .Params.cta.contact_link }}" class="px-6 py-3 rounded-xl transition flex items-center gap-2 font-bold" style="background-color: {{ .Params.cta.contact_bg }}; color: {{ .Params.cta.contact_color }}; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
                 {{ .Params.cta.contact_text }}
             </a>
         </div>

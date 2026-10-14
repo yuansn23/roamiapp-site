@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Arabia Saudyjska - 5G w Rijadzie i Dżeddzie | Bez KYC z odciskami palców | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,18 +9,18 @@ country_meta:
   operators: STC, Mobily, Zain
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Rijad, Dżedda, Mekka, Medyna, Dammam
-  main_packages: 3/7/15/30 dni, Nielimitowane dane
+  main_packages: 3/7/15/30 dni, dane bez limitu
 modal:
   title: Usługa zaktualizowana!
   btn_text: Kontynuuj
   text_default: 'Nasza usługa eSIM została zaktualizowana do <strong>PhoneSIMGo</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
   text_android: 'Nasza usługa eSIM została zaktualizowana do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
-  title: eSIM Arabia Saudyjska | Najlepszy plan danych 5G dla podróżnych
-  description: Uzyskaj najlepszy eSIM do Arabii Saudyjskiej z 5G w sieciach STC, Mobily i Zain. Bez rejestracji paszportowej i odcisków palców — lokalne karty SIM wymagają biometrycznego KYC. Obejmuje Rijad, Dżeddę, Mekkę i Medynę. Plany od 1,99 $.
-  keywords: eSIM Arabia Saudyjska, kup eSIM Arabia Saudyjska, najlepszy eSIM Arabia Saudyjska, podróżna eSIM Arabia Saudyjska, STC Arabia Saudyjska, Mobily Arabia Saudyjska, Zain Arabia Saudyjska, eSIM Rijad, eSIM Dżedda, eSIM Mekka, prepaid eSIM Arabia Saudyjska, 5G eSIM Arabia Saudyjska, eSIM Umrah, eSIM Arabia Saudyjska bez odcisków palców
-  low_price: 1.99
-  high_price: 39.9
+  title: eSIM Arabia Saudyjska | sprawdź plany danych
+  description: Uzyskaj najlepszy eSIM do Arabii Saudyjskiej z 5G w sieciach STC, Mobily i Zain. Obejmuje Rijad, Dżeddę, Mekkę i Medynę. Plany od 3,99 $.
+  keywords: Arabia Saudyjska eSIM, najlepsza eSIM Arabia Saudyjska, kup Arabia Saudyjska eSIM, plany eSIM Arabia Saudyjska, Arabia Saudyjska eSIM cena, eSIM podróżny Arabia Saudyjska, najlepszy Arabia Saudyjska eSIM, Arabia Saudyjska eSIM nielimitowane, jak aktywować eSIM Arabia Saudyjska, przedpłacony eSIM Arabia Saudyjska, Arabia Saudyjska eSIM opinie, Arabia Saudyjska 5G eSIM, STC Arabia Saudyjska, Rijad eSIM, Dżedda eSIM, Mekka eSIM
+  low_price: 3.99
+  high_price: 96.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -371,7 +371,7 @@ faq_section:
     - q: |
         Dlaczego saudyjskie karty SIM mają 28-dniowe cykle? Czy to strata dla krótkich wyjazdów?
       a: |
-        Tak — to poważna strata. Większość saudyjskich operatorów stosuje <strong>28-dniowe cykle rozliczeniowe</strong> (STC, Zain, Mobily). Plan 'Like' STC kosztuje 65 SAR (~17 $) za 2 GB/28 dni. Turysta na 5 dni marnuje <strong>23 dni (82% wartości planu)</strong>. Roami oferuje <strong>plany 3, 7, 15 i 30-dniowe</strong> od 1,99 $ — <strong>płacisz tylko za rzeczywisty czas podróży</strong>. Bez 28-dniowej straty, bez przepłacania.
+        Tak — to poważna strata. Większość saudyjskich operatorów stosuje <strong>28-dniowe cykle rozliczeniowe</strong> (STC, Zain, Mobily). Plan 'Like' STC kosztuje 65 SAR (~17 $) za 2 GB/28 dni. Turysta na 5 dni marnuje <strong>23 dni (82% wartości planu)</strong>. Roami oferuje <strong>plany 3, 7, 15 i 3-dniowe</strong> od 3,99 $ — <strong>płacisz tylko za rzeczywisty czas podróży</strong>. Bez 28-dniowej straty, bez przepłacania.
     - q: |
         Czy mogę używać eSIM w ZEA, Bahrajnie lub innych krajach Zatoki?
       a: |
@@ -388,63 +388,75 @@ faq_section:
         Kiedy zaczyna się okres ważności mojego eSIM Arabia Saudyjska?
       a: |
         Ważność planu rozpoczyna się w momencie połączenia z lokalną siecią w Arabii Saudyjskiej, a nie w momencie zakupu lub instalacji. Możesz więc kupić i zainstalować tygodnie przed podróżą bez utraty dni planu. Plan 7-dniowy daje Ci 7 pełnych dni od pierwszego połączenia.
+    - q: |
+        Czy eSIM Arabia Saudyjska działa tam, gdzie zasięg STC jest słaby?
+      a: |
+        eSIM Roami Arabia Saudyjska łączy się automatycznie z wieloma lokalnymi operatorami, więc w miejscach ze słabym sygnałem STC przełączy się na silniejszą sieć i utrzyma połączenie.
+    - q: |
+        Co jest tańsze: dane od STC czy eSIM Arabia Saudyjska?
+      a: |
+        Przy krótkim wyjeździe zwykle wygrywa eSIM Roami Arabia Saudyjska. Plany STC wiążą się z dłuższym zobowiązaniem, a Roami kupujesz tylko na potrzebny okres.
+    - q: |
+        Czy w Arabia Saudyjska mogę udostępniać dane z eSIM Arabia Saudyjska przez hotspot, mimo że główna karta to STC?
+      a: |
+        Tak. Udostępnianie hotspotu jest obsługiwane, więc z danych eSIM Arabia Saudyjska skorzystasz też na laptopie i tablecie, obok linii STC.
 related_products:
   title: Powiązane plany eSIM Arabia Saudyjska
   items:
-  - name: eSIM Stany Zjednoczone
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Europa
+  - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: Fidżi eSIM
+    flag: img/flags/fj.svg
+    price: Od 6,99 $
+    is_highlight: false
+  - name: Indie eSIM
+    flag: img/flags/in.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Liberia eSIM
+    flag: img/flags/lr.svg
+    price: Od 27,99 $
+    is_highlight: false
+  - name: Algieria eSIM
+    flag: img/flags/dz.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Seszele eSIM
+    flag: img/flags/sc.svg
+    price: Od 9,99 $
+    is_highlight: false
+  - name: Łotwa eSIM
+    flag: img/flags/lv.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Turcja
-    flag: img/flags/tr.svg
+  - name: Azja Południowo-Wschodnia eSIM
+    flag: img/flags/ya.webp
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Chiny
-    flag: img/flags/cn.svg
-    price: Od 1,99 $
+  - name: ZEA eSIM
+    flag: img/flags/ae.svg
+    price: Od 3,99 $
     is_highlight: false
-  - name: eSIM Japonia
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
+  - name: Kirgistan eSIM
+    flag: img/flags/kg.svg
+    price: Od 4,99 $
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
+  - name: Irak eSIM
+    flag: img/flags/iq.svg
+    price: Od 9,99 $
     is_highlight: false
-  - name: eSIM Francja
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Hiszpania
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Niemcy
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Od 1,99 $
+  - name: Gwadelupa eSIM
+    flag: img/flags/gp.svg
+    price: Od 8,99 $
     is_highlight: false
 market_analysis:
   title: 'eSIM Arabia Saudyjska vs lokalna SIM: Bez odcisków palców, bez 28-dniowej straty, bez nielegalnych SIM'
   subtitle: 'Lokalne karty SIM prepaid w Arabii Saudyjskiej vs. rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Arabia Saudyjska) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Saudi-Arabia
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna karta SIM prepaid (dane rynkowe)
@@ -473,7 +485,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Wszyscy operatorzy stosują <strong>28-dniowe cykle rozliczeniowe</strong>. STC 'Like' kosztuje 65 SAR (~17 $) za 2 GB/28 dni. Turysta na 5 dni marnuje <strong>23 dni (82% strat)</strong>.
     esim_title: Elastyczne krótkie plany
-    esim_desc: Roami oferuje <strong>plany 3/7/15/30-dniowe</strong> od 1,99 $ — płać tylko za rzeczywisty czas podróży. Bez 28-dniowego wymuszonego zobowiązania, bez 82% strat.
+    esim_desc: Roami oferuje <strong>plany 3/7/15/3-dniowe</strong> od 3,99 $ — płać tylko za rzeczywisty czas podróży. Bez 28-dniowego wymuszonego zobowiązania, bez 82% strat.
   - icon: wifi
     title: Zasady dotyczące hotspotu<br>i prędkości
     prepaid_title: ''

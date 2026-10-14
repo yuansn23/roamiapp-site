@@ -1,6 +1,6 @@
 ---
 title: 'Indie eSIM 2026 - Najlepszy plan 5G dla Delhi i Tadż Mahal | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
   title: Indie eSIM - Szybkie przedpłacone dane 5G na Twoją podróż
-  description: Zdobądź najlepszą przedpłaconą eSIM dla Indii z 5G na Airtel, Jio i Vi. Bez KYC i paszportu — natychmiastowa aktywacja QR. Bez marnowania 28 dni. Od 1,99 $.
-  keywords: Indie eSIM, kup Indie eSIM, najlepsza Indie eSIM, eSIM podróżny Indie, Airtel Indie, Jio Indie, Vi Indie, Delhi eSIM, Mumbaj eSIM, Bangalore eSIM, przedpłacony eSIM Indie, 5G Indie eSIM, Tadż Mahal eSIM, Jaipur eSIM, Kerala eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Zdobądź najlepszą przedpłaconą eSIM dla Indii z 5G na Airtel, Jio i Vi. Bez KYC i paszportu — natychmiastowa aktywacja QR. Bez marnowania 28 dni. Od 3,99 $.
+  keywords: Indie eSIM, najlepsza eSIM Indie, kup Indie eSIM, plany eSIM Indie, Indie eSIM cena, eSIM podróżny Indie, najlepszy Indie eSIM, Indie eSIM nielimitowane, jak aktywować eSIM Indie, przedpłacony eSIM Indie, Indie eSIM opinie, Indie 5G eSIM, Airtel Indie, Delhi eSIM, Mumbaj eSIM, Bangalore eSIM
+  low_price: 3.99
+  high_price: 99.99
 order_summary:
   title: Wybrany plan
   label_data: Zawarte dane
@@ -384,63 +384,75 @@ faq_section:
         Czy mogę doładować mój eSIM dla Indii, jeśli zabraknie mi danych?
       a: |
         Tak – możesz doładować przez swoje konto Roami w dowolnym momencie. W przeciwieństwie do indyjskich przedpłaconych kart SIM wymagających lokalnych platform doładowania (SwiftRecharge.com często ma wysokie dopłaty dla zagranicznych kart), Roami akceptuje globalne metody płatności bez dodatkowych opłat.
+    - q: |
+        Czy do aktywacji eSIM Indie potrzebne są dokumenty, skoro mam już kartę Airtel?
+      a: |
+        Przedpłacona karta Airtel często wymaga rejestracji paszportu, ale eSIM Roami Indie służy tylko do danych, więc aktywujesz go online bez skanowania dokumentów i wizyty w salonie.
+    - q: |
+        Ile kosztuje eSIM Indie w porównaniu z przedpłaconym planem Airtel?
+      a: |
+        Zależy od planu i zużycia danych, ale w porównaniu z ofertą Airtel nie ma wizyty w salonie, rejestracji ani opłat za niewykorzystane dane. Wszystkie plany są przedpłacone.
+    - q: |
+        Czy doładowanie eSIM Indie odnowi również linię Airtel?
+      a: |
+        Nie. eSIM Roami Indie i fizyczna karta Airtel są niezależne — dokupienie planu eSIM nie zmienia oferty Airtel.
 related_products:
   title: Powiązane plany eSIM dla Indii
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania eSIM
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: Od 1,99 $
+  - name: Paragwaj eSIM
+    flag: img/flags/py.svg
+    price: Od 22,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
-    price: Od 1,99 $
+  - name: Wyspy Owcze eSIM
+    flag: img/flags/fo.svg
+    price: Od 5,99 $
     is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
-    price: Od 1,99 $
+  - name: Egipt eSIM
+    flag: img/flags/eg.svg
+    price: Od 2,99 $
     is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Hongkong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
+  - name: Kenia eSIM
+    flag: img/flags/ke.svg
+    price: Od 7,99 $
     is_highlight: false
   - name: Australia eSIM
     flag: img/flags/au.svg
     price: Od 1,99 $
     is_highlight: false
+  - name: Chile eSIM
+    flag: img/flags/cl.svg
+    price: Od 4,99 $
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Od 1,99 $
+    is_highlight: false
+  - name: Jamajka eSIM
+    flag: img/flags/jm.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Kamerun eSIM
+    flag: img/flags/cm.svg
+    price: Od 27,99 $
+    is_highlight: false
+  - name: Honduras eSIM
+    flag: img/flags/hn.svg
+    price: Od 6,99 $
+    is_highlight: false
+  - name: ZEA eSIM
+    flag: img/flags/ae.svg
+    price: Od 3,99 $
+    is_highlight: false
 market_analysis:
   title: 'Indie eSIM a karta SIM przedpłacona – czy warto zmienić?'
   subtitle: 'Lokalne przedpłacone karty SIM w Indiach a rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Indie) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/India
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna przedpłacona SIM (dane rynkowe)

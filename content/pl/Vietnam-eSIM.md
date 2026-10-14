@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Wietnam 2026: Przewodnik po mieście i sieci | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Viettel, Mobifone, Vinaphone
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Ho Chi Minh, Hanoi, Da Nang, Hai Phong, Can Tho
-  main_packages: 3/7/15/30 dni, Nielimitowane dane
+  main_packages: 3/7/15/30 dni, nielimitowane dane
 modal:
   title: Usługa zaktualizowana!
   btn_text: Kontynuuj
@@ -17,12 +17,10 @@ modal:
   text_android: 'Nasza usługa eSIM została zaktualizowana do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
   title: eSIM Wietnam | Nielimitowane dane 5G na Twoją podróż
-  description: Podróżuj do Wietnamu z najlepszym prepaid eSIM od Roami. Nielimitowane dane 5G w najlepszych sieciach. Natychmiastowa
-    aktywacja. Obejmuje Hanoi, Ho Chi Minh i Da Nang.
-  keywords: eSIM Wietnam, kup eSIM Wietnam, najlepszy eSIM Wietnam, podróżna eSIM Wietnam, Viettel Wietnam, Mobifone Wietnam, Vinaphone
-    Wietnam, eSIM Ho Chi Minh, eSIM Hanoi, eSIM Da Nang, prepaid eSIM Wietnam, 5G eSIM Wietnam
+  description: Podróżuj do Wietnamu z najlepszym prepaid eSIM od Roami. Nielimitowane dane 5G w najlepszych sieciach. Natychmiastowa aktywacja. Plany od 1,99 $.
+  keywords: Wietnam eSIM, najlepsza eSIM Wietnam, kup Wietnam eSIM, plany eSIM Wietnam, Wietnam eSIM cena, eSIM podróżny Wietnam, najlepszy Wietnam eSIM, Wietnam eSIM nielimitowane, jak aktywować eSIM Wietnam, przedpłacony eSIM Wietnam, Wietnam eSIM opinie, Wietnam 5G eSIM, Viettel Wietnam, Ho Chi Minh eSIM, Hanoi eSIM, Da Nang eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 74.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -372,7 +370,7 @@ faq_section:
     - q: |
         Czy mogę uzyskać eSIM do Wietnamu bez wydawania zbyt dużo?
       a: |
-        Oczywiście. Plany eSIM Roami Wietnam zaczynają się już od 1,99 $. Opcja 5 GB / 15 dni (9,99 $) jest najpopularniejsza wśród podróżnych – wygodnie obsługuje mapy, WhatsApp, Instagram i e-maile. Jeśli jesteś intensywnym użytkownikiem danych, plany 10 GB (14,99 $) lub nielimitowany (59,99 $) dają Ci spokój ducha. Pominięcie stanowiska z SIM na lotnisku oszczędza 30-50% i kolejek. Potrzebujesz dostosować? Możesz doładować w dowolnym momencie z aplikacji Roami.
+        Oczywiście. Plany eSIM Roami Wietnam zaczynają się już od 1,99 $. Opcja 5 GB / 15 dni (11,99 $) jest najpopularniejsza wśród podróżnych – wygodnie obsługuje mapy, WhatsApp, Instagram i e-maile. Jeśli jesteś intensywnym użytkownikiem danych, plany 10 GB (14,99 $) lub nielimitowany (10,99 $) dają Ci spokój ducha. Pominięcie stanowiska z SIM na lotnisku oszczędza 30-50% i kolejek. Potrzebujesz dostosować? Możesz doładować w dowolnym momencie z aplikacji Roami.
     - q: |
         Kiedy zaczyna się okres ważności mojego eSIM Wietnam?
       a: |
@@ -397,63 +395,75 @@ faq_section:
         Czy mogę użyć eSIM Wietnam zaraz po zakupie, czy muszę czekać?
       a: |
         Kod QR dociera w ciągu kilku minut. Zainstaluj go od razu – zajmuje to 2 minuty. Jednak ważność planu rozpoczyna się dopiero po połączeniu z siecią w Wietnamie. Możesz więc zainstalować tygodnie przed podróżą bez utraty dni planu.
+    - q: |
+        Jak aktywować eSIM Wietnam w sieci Viettel?
+      a: |
+        eSIM Roami Wietnam aktywuje się przez zeskanowanie kodu QR. Kod przychodzi e-mailem w ciągu 5 minut od zakupu, a połączenie z siecią Viettel i lokalnymi partnerami następuje automatycznie. Nie musisz odwiedzać salonu ani składać dodatkowych dokumentów.
+    - q: |
+        Czy eSIM Wietnam jest tańszy niż przedpłacona karta Viettel?
+      a: |
+        Zwykle tak. Roami sprzedaje bezpośrednio, bez prowizji marketplace'ów, więc cena bywa niższa niż w przedpłaconych planach Viettel, i nie ma ukrytych opłat.
+    - q: |
+        Jak doładować dane, gdy skończy się limit w eSIM Wietnam, zamiast korzystać z Viettel?
+      a: |
+        Z tego samego konta dokupisz większy plan. Nie musisz iść do salonu Viettel ani kupować zdrapki — wszystko załatwiasz online od razu.
 related_products:
   title: Powiązane plany eSIM Wietnam
   items:
-  - name: eSIM Stany Zjednoczone
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Europa
+  - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: Irlandia eSIM
+    flag: img/flags/ie.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Turcja
-    flag: img/flags/tr.svg
+  - name: Meksyk eSIM
+    flag: img/flags/mx.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Chile eSIM
+    flag: img/flags/cl.svg
+    price: Od 4,99 $
+    is_highlight: false
+  - name: Austria eSIM
+    flag: img/flags/at.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Chiny
-    flag: img/flags/cn.svg
+  - name: Tajwan eSIM
+    flag: img/flags/tw.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Japonia
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
+  - name: Gujana eSIM
+    flag: img/flags/gy.svg
+    price: Od 9,99 $
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
+  - name: Afganistan eSIM
+    flag: img/flags/af.svg
+    price: Od 11,99 $
     is_highlight: false
-  - name: eSIM Francja
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
+  - name: Kongo eSIM
+    flag: img/flags/cg.svg
+    price: Od 7,99 $
     is_highlight: false
-  - name: eSIM Hiszpania
-    flag: img/flags/es.svg
-    price: Od 1,99 $
+  - name: Oman eSIM
+    flag: img/flags/om.svg
+    price: Od 5,99 $
     is_highlight: false
-  - name: eSIM Niemcy
-    flag: img/flags/de.svg
-    price: Od 1,99 $
+  - name: Pakistan eSIM
+    flag: img/flags/pk.svg
+    price: Od 3,99 $
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
+  - name: Włochy eSIM
+    flag: img/flags/it.svg
     price: Od 1,99 $
     is_highlight: false
 market_analysis:
   title: 'eSIM Wietnam vs fizyczna karta SIM: Porównanie podróży, kosztów i konfiguracji'
   subtitle: 'Lokalne karty SIM prepaid w Wietnamie vs. rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Wietnam) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Vietnam
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna karta SIM prepaid (dane rynkowe)

@@ -307,7 +307,7 @@ reminders:
   title: 'Dicas de Configuração do Albânia eSIM: O que Saber Antes de Viajar'
   items:
   - icon: 📱
-    html: Verifique se seu telefone é <a href="/pt/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
+    html: Verifique se seu telefone é <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
       font-bold transition-colors">compatível com eSIM</a> antes de comprar.
   - icon: ✈️
     html: Recomendamos ativar a linha após chegar na Albânia.
@@ -363,7 +363,7 @@ faq_section:
     - q: |
         Preciso de passaporte ou identidade para usar eSIM na Albânia? Como funciona a verificação?
       a: |
-        Sim, a Albânia exige verificação de identidade para eSIM. A Albânia exige verificação KYC para cartões SIM pré-pagos. Passaporte necessário. Muitos viajantes só descobrem isso após chegar, e então lutam com o WiFi do aeroporto enquanto esperam a aprovação. Complete a verificação antes de viajar — leva cerca de 5 a 10 minutos. Além disso, alguns telefones funcionam melhor com a rede da Vodafone do que outros — verifique nossa página de [compatibilidade eSIM](/pt/compatibility/).
+        Sim, a Albânia exige verificação de identidade para eSIM. A Albânia exige verificação KYC para cartões SIM pré-pagos. Passaporte necessário. Muitos viajantes só descobrem isso após chegar, e então lutam com o WiFi do aeroporto enquanto esperam a aprovação. Complete a verificação antes de viajar — leva cerca de 5 a 10 minutos. Além disso, alguns telefones funcionam melhor com a rede da Vodafone do que outros — verifique nossa página de [compatibilidade eSIM](/compatibility/).
     - q: |
         Como a Roami se compara à Airalo para eSIM na Albânia?
       a: |
@@ -467,7 +467,8 @@ market_analysis:
   - icon: calendar-xmark
     title: Ciclo de Faturamento e<br>Custo Afundado
     prepaid_title: ''
-    prepaid_desc: "Os planos turísticos da One têm validade fixa de 21 dias (ex: Tourist Pro 2600 Lekë). Uma viagem de 5 dias desperdiça mais de 70% do valor do plano."
+    prepaid_desc: "Os planos turísticos da One têm validade fixa de 21 dias (ex: Tourist Pro 2600 Lekë). Uma viagem de 5 dias desperdiça mais de 70% do valor do plano.
+"
     esim_title: Planos Flexíveis, Sem Desperdício
     esim_desc: Ao contrário dos planos fixos de 21 dias da One (Tourist Pro 2600 Lekë), a Roami oferece planos de 7 dias a partir de $1,99/GB, economizando mais de 70% em uma viagem curta.
   - icon: wifi

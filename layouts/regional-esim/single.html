@@ -316,7 +316,7 @@
             {{ .Params.hero.primary_cta_text }}
             <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
           </a>
-          <a href="{{ .Params.hero.secondary_cta_url | relLangURL }}" class="inline-flex items-center gap-2 px-5 py-3 border-2 border-slate-600 text-slate-300 font-semibold rounded-xl hover:border-slate-400 hover:text-white transition text-sm">
+          <a href="{{ partial "langurl.html" .Params.hero.secondary_cta_url }}" class="inline-flex items-center gap-2 px-5 py-3 border-2 border-slate-600 text-slate-300 font-semibold rounded-xl hover:border-slate-400 hover:text-white transition text-sm">
             {{ .Params.hero.secondary_cta_text }}
           </a>
         </div>
@@ -396,7 +396,7 @@
         </h3>
         <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-1.5 sm:gap-2">
           {{ range $entries }}
-          <a href="{{ .url | relLangURL }}" class="rn-country flex items-center gap-2 p-2 sm:p-2.5 bg-white rounded-xl border border-slate-200 text-slate-900 hover:border-blue-500 hover:shadow-md no-underline transition-all duration-150" title="{{ .name }} eSIM — {{ .network }} data on {{ .carriers }}">
+          <a href="{{ partial "langurl.html" .url }}" class="rn-country flex items-center gap-2 p-2 sm:p-2.5 bg-white rounded-xl border border-slate-200 text-slate-900 hover:border-blue-500 hover:shadow-md no-underline transition-all duration-150" title="{{ .name }} eSIM — {{ .network }} data on {{ .carriers }}">
             <img src="{{ .flag_image }}" alt="{{ .name }} flag" class="w-6 h-4 sm:w-7 sm:h-5 rounded-sm flex-shrink-0 border border-slate-100 object-cover" loading="lazy" width="28" height="20" onerror="this.style.display='none';this.nextElementSibling.style.display='inline-block'">
             <span class="text-base flex-shrink-0 leading-none hidden">{{ .flag }}</span>
             <span class="rn-country-name text-xs sm:text-sm font-semibold text-slate-800 truncate flex-1 min-w-0 transition-colors duration-150">{{ .name }}</span>
@@ -413,7 +413,7 @@
     <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-1.5 sm:gap-2">
       {{ range $regionKey, $countryList := $countries }}
         {{ range $countryList }}
-        <a href="{{ .url | relLangURL }}" class="rn-country flex items-center gap-2 p-2 sm:p-2.5 bg-white rounded-xl border border-slate-200 text-slate-900 hover:border-blue-500 hover:shadow-md no-underline transition-all duration-150" title="{{ .name }} eSIM — {{ .network }} data on {{ .carriers }}">
+        <a href="{{ partial "langurl.html" .url }}" class="rn-country flex items-center gap-2 p-2 sm:p-2.5 bg-white rounded-xl border border-slate-200 text-slate-900 hover:border-blue-500 hover:shadow-md no-underline transition-all duration-150" title="{{ .name }} eSIM — {{ .network }} data on {{ .carriers }}">
           <img src="{{ .flag_image }}" alt="{{ .name }} flag" class="w-6 h-4 sm:w-7 sm:h-5 rounded-sm flex-shrink-0 border border-slate-100 object-cover" loading="lazy" width="28" height="20" onerror="this.style.display='none';this.nextElementSibling.style.display='inline-block'">
           <span class="text-base flex-shrink-0 leading-none hidden">{{ .flag }}</span>
           <span class="rn-country-name text-xs sm:text-sm font-semibold text-slate-800 truncate flex-1 min-w-0 transition-colors duration-150">{{ .name }}</span>
@@ -623,7 +623,7 @@
     </div>
     <div class="grid sm:grid-cols-3 gap-3 sm:gap-4">
       {{ range $cross }}
-      <a href="{{ .url | relLangURL }}" class="flex flex-col p-4 bg-white rounded-2xl border border-slate-200 text-center transition hover:-translate-y-1 hover:shadow-lg">
+      <a href="{{ partial "langurl.html" .url }}" class="flex flex-col p-4 bg-white rounded-2xl border border-slate-200 text-center transition hover:-translate-y-1 hover:shadow-lg">
         <span class="text-sm sm:text-base font-bold text-slate-800">{{ .title }}</span>
         <span class="text-xs sm:text-sm text-slate-400 mt-1">{{ .note }}</span>
       </a>

@@ -1,6 +1,6 @@
 ---
 title: 'Chiny eSIM 2026: Przewodnik po lokalnych operatorach | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,18 +9,18 @@ country_meta:
   operators: China Mobile, China Unicom, China Telecom
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Pekin, Szanghaj, Kanton, Shenzhen, Chengdu
-  main_packages: 3/7/15/30 dni, nielimitowane dane
+  main_packages: 3/7/15/30 dni, pakiety danych 1–50 GB
 modal:
   title: Usługa ulepszona!
   btn_text: Kontynuuj
   text_default: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIMGo</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
   text_android: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
-  title: Chiny eSIM | Najlepszy przedpłacony plan danych, bez VPN
-  description: Planujesz podróż do Chin? Zdobądź najlepszą przedpłaconą eSIM od Roami z nielimitowanymi danymi 5G. Bez VPN. Natychmiastowa aktywacja. Obejmuje Pekin, Szanghaj i wszystkie miasta.
-  keywords: Chiny eSIM, kup Chiny eSIM, najlepszy Chiny eSIM, eSIM podróżny Chiny, China Mobile Chiny, China Unicom Chiny, China Telecom Chiny, Pekin eSIM, Szanghaj eSIM, Kanton eSIM, przedpłacony eSIM Chiny, 5G Chiny eSIM
+  title: Chiny eSIM | Najlepszy przedpłacony plan danych
+  description: Planujesz podróż do Chin? Natychmiastowa aktywacja. Obejmuje Pekin, Szanghaj i wszystkie miasta. Plany od 1,99 $.
+  keywords: Chiny eSIM, najlepsza eSIM Chiny, kup Chiny eSIM, plany eSIM Chiny, Chiny eSIM cena, eSIM podróżny Chiny, najlepszy Chiny eSIM, Chiny eSIM dane, jak aktywować eSIM Chiny, przedpłacony eSIM Chiny, Chiny eSIM opinie, Chiny 5G eSIM, China Mobile Chiny, Pekin eSIM, Szanghaj eSIM, Kanton eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 39.99
 order_summary:
   title: Wybrany plan
   label_data: Zawarte dane
@@ -354,63 +354,75 @@ faq_section:
         Czy mogę używać eSIM dla Chin do mediów społecznościowych i udostępniania zdjęć rodzinie?
       a: |
         Oczywiście. Instagram, WhatsApp, Facebook i inne aplikacje społecznościowe działają przez połączenie eSIM. Prędkości wysyłania od China Mobile obsługują zdjęcia w kilka sekund, a krótkie filmy bez problemu.
+    - q: |
+        Jak dodać eSIM Chiny na iPhone z numerem China Mobile?
+      a: |
+        Wejdź w Ustawienia > Komórkowe > Dodaj eSIM i zeskanuj kod QR z e-maila. Twoja linia China Mobile pozostaje aktywna przez cały czas.
+    - q: |
+        Dlaczego eSIM Chiny opłaca się bardziej niż oferta China Mobile?
+      a: |
+        Jest przedpłacony i nie odnawia się automatycznie, więc po powrocie nie ma dodatkowych opłat. Kupujesz i aktywujesz online — bez szukania salonu China Mobile, co oszczędza czas i pieniądze.
+    - q: |
+        Co się stanie z linią China Mobile, gdy przekroczę limit danych w eSIM Chiny?
+      a: |
+        Po wykorzystaniu danych linia eSIM zostaje wstrzymana i nie ma automatycznego obciążenia. W razie potrzeby dokup nowy plan na tym samym koncie — bez wizyty w salonie China Mobile.
 related_products:
   title: Powiązane plany eSIM dla Chin
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania eSIM
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Madagaskar eSIM
+    flag: img/flags/mg.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Paragwaj eSIM
+    flag: img/flags/py.svg
+    price: Od 22,99 $
+    is_highlight: false
+  - name: Kostaryka eSIM
+    flag: img/flags/cr.svg
+    price: Od 9,99 $
+    is_highlight: false
+  - name: Ghana eSIM
+    flag: img/flags/gh.svg
+    price: Od 7,99 $
+    is_highlight: false
+  - name: Watykan eSIM
+    flag: img/flags/va.svg
+    price: Od 10,99 $
+    is_highlight: false
+  - name: Norwegia eSIM
+    flag: img/flags/no.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Hongkong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
+  - name: Kamerun eSIM
+    flag: img/flags/cm.svg
+    price: Od 27,99 $
     is_highlight: false
   - name: Australia eSIM
     flag: img/flags/au.svg
     price: Od 1,99 $
     is_highlight: false
+  - name: Albania eSIM
+    flag: img/flags/al.svg
+    price: Od 1,99 $
+    is_highlight: false
+  - name: Kongo eSIM
+    flag: img/flags/cg.svg
+    price: Od 7,99 $
+    is_highlight: false
+  - name: Peru eSIM
+    flag: img/flags/pe.svg
+    price: Od 4,99 $
+    is_highlight: false
 market_analysis:
   title: 'Chiny eSIM a karta SIM przedpłacona: wszystko, co powinieneś rozważyć – najlepszy eSIM dla podróżnych do Chin'
   subtitle: 'Lokalne przedpłacone karty SIM w Chinach a rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Chiny) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/China
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna przedpłacona SIM (dane rynkowe)
@@ -479,6 +491,6 @@ market_analysis:
     - icon: tower-observation
       icon_bg: bg-rose-100
       icon_color: text-rose-600
-      title: Uniknij niezgodności sieci i blokad VPN
-      desc: TDD-LTE China Mobile jest niekompatybilny z wieloma międzynarodowymi telefonami, spadając do <b>2G EDGE (320 Kbps)</b>. China Unicom aktywnie blokuje VPN-y. Roami eSIM działa na każdym odblokowanym telefonie i omija Wielkie Zapory.
+      title: Uniknij niezgodności sieci i słabego zasięgu
+      desc: TDD-LTE China Mobile jest niekompatybilny z wieloma międzynarodowymi telefonami, spadając do <b>2G EDGE (320 Kbps)</b>. Roami eSIM działa na każdym odblokowanym telefonie i automatycznie wybiera najszybszą dostępną sieć lokalną.
 ---

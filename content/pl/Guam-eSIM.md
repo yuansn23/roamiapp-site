@@ -1,6 +1,6 @@
 ---
 title: 'Guam eSIM 2026: Przewodnik po planach i zasięgu | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: DOCOMO Pacific, IT&E, GTA
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Hagåtña, Tamuning, Dededo, Mangilao, Tumon
-  main_packages: 3/7/15/30 dni, nielimitowane dane
+  main_packages: 3/7/15/30 dni, dane bez limitu
 modal:
   title: Usługa ulepszona!
   btn_text: Kontynuuj
@@ -17,10 +17,10 @@ modal:
   text_android: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
   title: Guam eSIM | Szybki przedpłacony plan danych na Twój pobyt
-  description: Uzyskaj natychmiastowy dostęp do internetu na Guam. Nielimitowane dane 5G z natychmiastową aktywacją. Obejmuje Hagatna, Tumon i Dededo. Natychmiastowa aktywacja – kup plan online już dziś.
-  keywords: Guam eSIM, kup Guam eSIM, najlepszy Guam eSIM, eSIM podróżny Guam, DOCOMO Pacific Guam, IT&E Guam, GTA Guam, Hagåtña eSIM, Tamuning eSIM, Dededo eSIM, przedpłacony eSIM Guam, 5G Guam eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Uzyskaj natychmiastowy dostęp do internetu na Guam. Nielimitowane dane 5G z natychmiastową aktywacją. Obejmuje Hagatna, Tumon i Dededo. Od 9,99 $.
+  keywords: Guam eSIM, najlepsza eSIM Guam, kup Guam eSIM, plany eSIM Guam, Guam eSIM cena, eSIM podróżny Guam, najlepszy Guam eSIM, Guam eSIM nielimitowane, jak aktywować eSIM Guam, przedpłacony eSIM Guam, Guam eSIM opinie, Guam 5G eSIM, DOCOMO Pacific Guam, Hagåtña eSIM, Tamuning eSIM, Dededo eSIM
+  low_price: 9.99
+  high_price: 88.99
 order_summary:
   title: Wybrany plan
   label_data: Zawarte dane
@@ -238,7 +238,7 @@ faq_section:
     - q: |
         Wybieram się na Guam tylko na 2–3 dni. Jaki eSIM wybrać?
       a: |
-        Na krótki wyjazd plan 1 GB/7 dni (1,99 $) wystarczy na mapy i komunikację. Jeśli planujesz korzystać z mediów społecznościowych i udostępniać zdjęcia, plan 3 GB (4,99 $) daje więcej swobody. Oba aktywują się natychmiast i można doładować w razie potrzeby.
+        Na krótki wyjazd plan 1 GB/7 dni (9,99 $) wystarczy na mapy i komunikację. Jeśli planujesz korzystać z mediów społecznościowych i udostępniać zdjęcia, plan 3 GB (22,99 $) daje więcej swobody. Oba aktywują się natychmiast i można doładować w razie potrzeby.
     - q: |
         Czy mogę sprawdzić, ile danych zużyłem na eSIM na Guam?
       a: |
@@ -247,55 +247,67 @@ faq_section:
         Ile profili eSIM mogę przechowywać w telefonie na podróż na Guam?
       a: |
         Większość telefonów przechowuje 5-10 profili eSIM. Możesz przechowywać eSIM dla Guam obok domowej karty SIM i innych profili krajowych. Po prostu aktywuj ten, którego potrzebujesz, a deaktywuj pozostałe. Przełączanie między nimi zajmuje około 10 sekund w ustawieniach telefonu.
+    - q: |
+        Co się dzieje z numerem DOCOMO Pacific po instalacji eSIM Guam?
+      a: |
+        Numer DOCOMO Pacific pozostaje bez zmian. eSIM Roami Guam to osobna linia danych, więc możesz dalej odbierać połączenia i SMS-y na dotychczasowym numerze.
+    - q: |
+        Jak wypada koszt eSIM Guam przy dłuższym pobycie w porównaniu z DOCOMO Pacific?
+      a: |
+        Na dłuższy pobyt wybierasz plan o dłuższej ważności. W porównaniu z długoterminową ofertą DOCOMO Pacific zaletą jest brak umowy — kupujesz dokładnie na potrzebny czas.
+    - q: |
+        Czy w trakcie podróży do Guam mogę zmienić plan danych, nie ruszając karty DOCOMO Pacific?
+      a: |
+        Tak. Możesz dokupić większy plan w trakcie korzystania i od razu go włączyć — bez szukania salonu DOCOMO Pacific, wszystko online.
 related_products:
   title: Powiązane plany eSIM dla Guam
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania eSIM
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Dania eSIM
+    flag: img/flags/dk.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
+  - name: Katar eSIM
+    flag: img/flags/qa.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
-    price: Od 1,99 $
+  - name: Honduras eSIM
+    flag: img/flags/hn.svg
+    price: Od 6,99 $
     is_highlight: false
   - name: Japonia eSIM
     flag: img/flags/jp.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Hongkong eSIM
-    flag: img/flags/hk.svg
+  - name: Czech Republic eSIM
+    flag: img/flags/cz.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
+  - name: Egipt eSIM
+    flag: img/flags/eg.svg
+    price: Od 2,99 $
     is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
+  - name: Niger eSIM
+    flag: img/flags/ni.svg
+    price: Od 23,99 $
     is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
+  - name: Cypr eSIM
+    flag: img/flags/cy.svg
+    price: Od 2,99 $
     is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Kuwejt eSIM
+    flag: img/flags/kw.svg
+    price: Od 4,99 $
+    is_highlight: false
+  - name: Urugwaj eSIM
+    flag: img/flags/uy.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Azja Południowo-Wschodnia eSIM
+    flag: img/flags/ya.webp
     price: Od 1,99 $
     is_highlight: false
 ---

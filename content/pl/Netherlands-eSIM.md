@@ -1,6 +1,6 @@
 ---
 title: 'Holandia eSIM 2026 - Najlepszy plan 5G dla Amsterdamu | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: KPN, Vodafone, T-Mobile
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Amsterdam, Rotterdam, Haga, Utrecht
-  main_packages: 3/7/15/30 dni, nielimitowane dane
+  main_packages: 3/7/15/30 dni, dane bez limitu
 modal:
   title: Usługa uaktualniona!
   btn_text: Kontynuuj
@@ -17,10 +17,10 @@ modal:
   text_android: 'Nasza usługa eSIM została uaktualniona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
   title: Holandia eSIM - Prepaidowy plan danych 5G dla nomadów
-  description: Zdobądź najlepszą prepaid eSIM dla Holandii z 5G w sieciach KPN, Vodafone i T-Mobile. Bez potrzeby okazywania dowodu — natychmiastowa aktywacja QR. Pełny roaming UE bez limitów. Od 1,99 $.
-  keywords: Holandia eSIM, kup Holandia eSIM, najlepsza Holandia eSIM, eSIM podróżna Holandia, KPN Holandia, Vodafone Holandia, T-Mobile Holandia, eSIM Amsterdam, eSIM Rotterdam, eSIM Haga, prepaid eSIM Holandia, 5G Holandia eSIM, eSIM Keukenhof, eSIM pola tulipanów
+  description: Zdobądź najlepszą prepaid eSIM dla Holandii z 5G w sieciach KPN, Vodafone i T-Mobile. Bez potrzeby okazywania dowodu — natychmiastowa aktywacja QR. Od 1,99 $.
+  keywords: Holandia eSIM, najlepsza eSIM Holandia, kup Holandia eSIM, plany eSIM Holandia, Holandia eSIM cena, eSIM podróżny Holandia, najlepszy Holandia eSIM, Holandia eSIM nielimitowane, jak aktywować eSIM Holandia, przedpłacony eSIM Holandia, Holandia eSIM opinie, Holandia 5G eSIM, KPN Holandia, Amsterdam eSIM, Rotterdam eSIM, Haga eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -400,63 +400,75 @@ faq_section:
         Czy mogę korzystać z hotspotu/tetheringu z moją eSIM do Holandii?
       a: |
         Tak — Roami umożliwia udostępnianie hotspotu z pełną prędkością na wszystkich planach. To kontrast w porównaniu z niektórymi holenderskimi lokalnymi SIM: Lyca Mobile wyraźnie zabrania tetheringu całkowicie. Z Roami możesz udostępniać dane towarzyszom podróży, laptopom lub tabletom bez żadnych ograniczeń.
+    - q: |
+        Jak dodać eSIM Holandia na iPhone z numerem KPN?
+      a: |
+        Wejdź w Ustawienia > Komórkowe > Dodaj eSIM i zeskanuj kod QR z e-maila. Twoja linia KPN pozostaje aktywna przez cały czas.
+    - q: |
+        Dlaczego eSIM Holandia opłaca się bardziej niż oferta KPN?
+      a: |
+        Jest przedpłacony i nie odnawia się automatycznie, więc po powrocie nie ma dodatkowych opłat. Kupujesz i aktywujesz online — bez szukania salonu KPN, co oszczędza czas i pieniądze.
+    - q: |
+        Co się stanie z linią KPN, gdy przekroczę limit danych w eSIM Holandia?
+      a: |
+        Po wykorzystaniu danych linia eSIM zostaje wstrzymana i nie ma automatycznego obciążenia. W razie potrzeby dokup nowy plan na tym samym koncie — bez wizyty w salonie KPN.
 related_products:
   title: Powiązane plany Holandia eSIM
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: Od 1,99 $
+  - name: Gujana eSIM
+    flag: img/flags/gy.svg
+    price: Od 9,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
-    price: Od 1,99 $
+  - name: Brazylia eSIM
+    flag: img/flags/br.svg
+    price: Od 4,99 $
+    is_highlight: false
+  - name: Nepal eSIM
+    flag: img/flags/ne.svg
+    price: Od 10,99 $
     is_highlight: false
   - name: Chiny eSIM
     flag: img/flags/cn.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
+  - name: Rumunia eSIM
+    flag: img/flags/ro.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
+  - name: ZEA eSIM
+    flag: img/flags/ae.svg
+    price: Od 3,99 $
     is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
+  - name: Watykan eSIM
+    flag: img/flags/va.svg
+    price: Od 10,99 $
     is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
+  - name: Oman eSIM
+    flag: img/flags/om.svg
+    price: Od 5,99 $
     is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
+  - name: Kazachstan eSIM
+    flag: img/flags/kz.svg
+    price: Od 3,99 $
     is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Uganda eSIM
+    flag: img/flags/ug.svg
+    price: Od 7,99 $
+    is_highlight: false
+  - name: Reunion eSIM
+    flag: img/flags/re.svg
     price: Od 1,99 $
     is_highlight: false
 market_analysis:
   title: 'Holandia eSIM vs prepaid SIM – która oferuje lepszą wartość?'
   subtitle: 'Lokalne prepaidowe SIM w Holandii vs rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Holandia) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Netherlands
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matryca porównawcza
   - Lokalna prepaid SIM (dane rynkowe)

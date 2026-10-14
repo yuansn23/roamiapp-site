@@ -1,6 +1,6 @@
 ---
 title: 'Hongkong eSIM 2026 - Najlepszy plan 5G dla Victoria Harbour | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: CSL, SmarTone, China Mobile Hong Kong
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Wyspa Hongkong, Kowloon, Tsuen Wan, Sha Tin, Tuen Mun
-  main_packages: 3/7/15/30 dni, nielimitowane dane
+  main_packages: 3/7/15/30 dni, dane bez limitu
 modal:
   title: Usługa ulepszona!
   btn_text: Kontynuuj
@@ -17,10 +17,10 @@ modal:
   text_android: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
   title: Hongkong eSIM - Najlepszy plan danych 5G na Twoją podróż
-  description: Zdobądź najlepszą przedpłaconą eSIM dla Hongkongu z 5G na CSL, SmarTone i CMHK. Bez rejestracji i dowodu — natychmiastowa aktywacja QR. Bez marnowania 30 dni. Od 1,99 $.
-  keywords: Hongkong eSIM, kup Hongkong eSIM, najlepsza Hongkong eSIM, eSIM podróżny Hongkong, CSL Hongkong, SmarTone Hongkong, China Mobile Hongkong, Wyspa Hongkong eSIM, Kowloon eSIM, Tsuen Wan eSIM, przedpłacony eSIM Hongkong, 5G Hongkong eSIM, Disneyland Hongkong eSIM, Victoria Harbour eSIM
+  description: Zdobądź najlepszą przedpłaconą eSIM dla Hongkongu z 5G na CSL, SmarTone i CMHK. Bez rejestracji i dowodu — natychmiastowa aktywacja QR. Od 1,99 $.
+  keywords: Hongkong eSIM, najlepsza eSIM Hongkong, kup Hongkong eSIM, plany eSIM Hongkong, Hongkong eSIM cena, eSIM podróżny Hongkong, najlepszy Hongkong eSIM, Hongkong eSIM nielimitowane, jak aktywować eSIM Hongkong, przedpłacony eSIM Hongkong, Hongkong eSIM opinie, Hongkong 5G eSIM, CSL Hongkong, Wyspa Hongkong eSIM, Kowloon eSIM, Tsuen Wan eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 57.99
 order_summary:
   title: Wybrany plan
   label_data: Zawarte dane
@@ -392,63 +392,75 @@ faq_section:
         Czy mogę doładować mój eSIM dla Hongkongu, jeśli zabraknie mi danych?
       a: |
         Tak – możesz doładować przez swoje konto Roami w dowolnym momencie. W przeciwieństwie do hongkońskich przedpłaconych kart SIM ze skomplikowanymi procesami doładowania (system online CMHK akceptuje tylko karty UnionPay wydane w Chinach kontynentalnych), Roami akceptuje globalne metody płatności. Bez potrzeby kupowania nowej SIM lub szukania 7-Eleven po voucher doładowania.
+    - q: |
+        Jak dodać eSIM Hongkong na iPhone z numerem CSL?
+      a: |
+        Wejdź w Ustawienia > Komórkowe > Dodaj eSIM i zeskanuj kod QR z e-maila. Twoja linia CSL pozostaje aktywna przez cały czas.
+    - q: |
+        Dlaczego eSIM Hongkong opłaca się bardziej niż oferta CSL?
+      a: |
+        Jest przedpłacony i nie odnawia się automatycznie, więc po powrocie nie ma dodatkowych opłat. Kupujesz i aktywujesz online — bez szukania salonu CSL, co oszczędza czas i pieniądze.
+    - q: |
+        Co się stanie z linią CSL, gdy przekroczę limit danych w eSIM Hongkong?
+      a: |
+        Po wykorzystaniu danych linia eSIM zostaje wstrzymana i nie ma automatycznego obciążenia. W razie potrzeby dokup nowy plan na tym samym koncie — bez wizyty w salonie CSL.
 related_products:
   title: Powiązane plany eSIM dla Hongkongu
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania eSIM
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Uganda eSIM
+    flag: img/flags/ug.svg
+    price: Od 7,99 $
+    is_highlight: false
+  - name: Reunion eSIM
+    flag: img/flags/re.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
+  - name: Sierra Leone eSIM
+    flag: img/flags/si.svg
+    price: Od 10,99 $
+    is_highlight: false
+  - name: Czad eSIM
+    flag: img/flags/td.svg
+    price: Od 23,99 $
+    is_highlight: false
+  - name: Norwegia eSIM
+    flag: img/flags/no.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
-    price: Od 1,99 $
+  - name: Bahrajn eSIM
+    flag: img/flags/bh.svg
+    price: Od 6,99 $
     is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
+  - name: Egipt eSIM
+    flag: img/flags/eg.svg
+    price: Od 2,99 $
     is_highlight: false
-  - name: Hongkong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
+  - name: Kambodża eSIM
+    flag: img/flags/kh.svg
+    price: Od 3,99 $
     is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
+  - name: Kamerun eSIM
+    flag: img/flags/cm.svg
+    price: Od 27,99 $
     is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
+  - name: Cypr eSIM
+    flag: img/flags/cy.svg
+    price: Od 2,99 $
     is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: Od 1,99 $
+  - name: Meksyk eSIM
+    flag: img/flags/mx.svg
+    price: Od 3,99 $
     is_highlight: false
 market_analysis:
   title: 'Hongkong eSIM a lokalna przedpłacona SIM – która jest wygodniejsza?'
   subtitle: 'Lokalne przedpłacone karty SIM w Hongkongu a rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Hong-Kong) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Hong-Kong
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna przedpłacona SIM (dane rynkowe)

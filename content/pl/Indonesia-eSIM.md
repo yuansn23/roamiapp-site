@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Indonezja - 5G na Bali i w Dżakarcie | Bez podatku IMEI | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -10,18 +10,18 @@ country_meta:
   operators: Telkomsel, Indosat Ooredoo, XL Axiata
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Dżakarta, Surabaja, Bandung, Medan, Semarang
-  main_packages: 3/7/15/30 dni, Nielimitowane dane
+  main_packages: 3/7/15/30 dni, dane bez limitu
 modal:
   title: Usługa zaktualizowana!
   btn_text: Kontynuuj
   text_default: 'Nasza usługa eSIM została zaktualizowana do <strong>PhoneSIMGo</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
   text_android: 'Nasza usługa eSIM została zaktualizowana do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
-  title: eSIM Indonezja - Najlepszy prepaid plan 5G | Bez podatku IMEI
-  description: Uzyskaj najlepszy eSIM do Indonezji z 5G w sieciach Telkomsel, Indosat i XL. Bez rejestracji IMEI i 40% podatku — pomiń zawyżanie cen na lotnisku. Obejmuje Bali, Dżakartę i Yogyakartę. Plany od 1,99 $.
-  keywords: eSIM Indonezja, kup eSIM Indonezja, najlepszy eSIM Indonezja, podróżna eSIM Indonezja, Telkomsel Indonezja, Indosat Ooredoo Indonezja, XL Axiata Indonezja, eSIM Dżakarta, eSIM Bali, eSIM Yogyakarta, prepaid eSIM Indonezja, 5G eSIM Indonezja, eSIM Indonezja bez IMEI
+  title: eSIM Indonezja - Najlepszy plan danych 5G
+  description: Uzyskaj najlepszy eSIM do Indonezji z 5G w sieciach Telkomsel, Indosat i XL. Obejmuje Bali, Dżakartę i Yogyakartę. Plany od 1,99 $.
+  keywords: Indonezja eSIM, najlepsza eSIM Indonezja, kup Indonezja eSIM, plany eSIM Indonezja, Indonezja eSIM cena, eSIM podróżny Indonezja, najlepszy Indonezja eSIM, Indonezja eSIM nielimitowane, jak aktywować eSIM Indonezja, przedpłacony eSIM Indonezja, Indonezja eSIM opinie, Indonezja 5G eSIM, Telkomsel Indonezja, Dżakarta eSIM, Surabaja eSIM, Bandung eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 68.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -382,7 +382,7 @@ faq_section:
     - q: |
         Czy to prawda, że karty SIM na lotniskach w Indonezji są drogie?
       a: |
-        Tak — to jedna z najgorszych pułapek turystycznych w Indonezji. Kioski na lotniskach w Dżakarcie i Bali pobierają <strong>4 do 10 razy więcej niż oficjalna cena</strong> za karty prepaid. Turyści często zgłaszają płacenie Rp 200 000-500 000 (13-33 USD) za kartę SIM, która w mieście kosztuje Rp 30 000-50 000 (2-3 USD). Napotykasz również problem podatku IMEI. Roami kosztuje <strong>1,99 $ za 3 dni</strong> — przejrzyste ceny, bez zawyżania na lotnisku, bez podatku IMEI.
+        Tak — to jedna z najgorszych pułapek turystycznych w Indonezji. Kioski na lotniskach w Dżakarcie i Bali pobierają <strong>4 do 10 razy więcej niż oficjalna cena</strong> za karty prepaid. Turyści często zgłaszają płacenie Rp 200 000-500 000 (13-33 USD) za kartę SIM, która w mieście kosztuje Rp 30 000-50 000 (2-3 USD). Napotykasz również problem podatku IMEI. Roami kosztuje <strong>8,99 $ za 3 dni</strong> — przejrzyste ceny, bez zawyżania na lotnisku, bez podatku IMEI.
     - q: |
         Czy mój eSIM będzie działać na Bali — Seminyak, Kuta, Ubud i plaże?
       a: |
@@ -411,54 +411,66 @@ faq_section:
         Kiedy zaczyna się okres ważności mojego eSIM Indonezja?
       a: |
         Ważność planu rozpoczyna się w momencie połączenia z lokalną siecią w Indonezji, a nie w momencie zakupu lub instalacji. Możesz więc kupić i zainstalować tygodnie przed podróżą bez utraty dni planu. Plan 7-dniowy daje Ci 7 pełnych dni od pierwszego połączenia.
+    - q: |
+        Co się dzieje z numerem Telkomsel po instalacji eSIM Indonezja?
+      a: |
+        Numer Telkomsel pozostaje bez zmian. eSIM Roami Indonezja to osobna linia danych, więc możesz dalej odbierać połączenia i SMS-y na dotychczasowym numerze.
+    - q: |
+        Jak wypada koszt eSIM Indonezja przy dłuższym pobycie w porównaniu z Telkomsel?
+      a: |
+        Na dłuższy pobyt wybierasz plan o dłuższej ważności. W porównaniu z długoterminową ofertą Telkomsel zaletą jest brak umowy — kupujesz dokładnie na potrzebny czas.
+    - q: |
+        Czy w trakcie podróży do Indonezja mogę zmienić plan danych, nie ruszając karty Telkomsel?
+      a: |
+        Tak. Możesz dokupić większy plan w trakcie korzystania i od razu go włączyć — bez szukania salonu Telkomsel, wszystko online.
 related_products:
   title: Powiązane plany eSIM Indonezja
   items:
-  - name: eSIM Stany Zjednoczone
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Europa
+  - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: Gujana Francuska eSIM
+    flag: img/flags/gf.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Barbados eSIM
+    flag: img/flags/bb.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Węgry eSIM
+    flag: img/flags/hu.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Turcja
-    flag: img/flags/tr.svg
+  - name: Algieria eSIM
+    flag: img/flags/dz.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Jordania eSIM
+    flag: img/flags/jo.svg
+    price: Od 6,99 $
+    is_highlight: false
+  - name: Nigeria eSIM
+    flag: img/flags/ng.svg
+    price: Od 5,99 $
+    is_highlight: false
+  - name: Gibraltar eSIM
+    flag: img/flags/gi.svg
+    price: Od 5,99 $
+    is_highlight: false
+  - name: Rumunia eSIM
+    flag: img/flags/ro.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Chiny
-    flag: img/flags/cn.svg
+  - name: Chorwacja eSIM
+    flag: img/flags/hr.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Japonia
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
+  - name: Azerbejdżan eSIM
+    flag: img/flags/az.svg
+    price: Od 6,99 $
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Francja
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Hiszpania
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Niemcy
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Australia
+  - name: Australia eSIM
     flag: img/flags/au.svg
     price: Od 1,99 $
     is_highlight: false
@@ -466,8 +478,8 @@ market_analysis:
   title: 'eSIM Indonezja vs lokalna SIM: Bez podatku IMEI, bez zawyżania na lotnisku, bez paszportu'
   subtitle: 'Lokalne karty SIM prepaid w Indonezji vs. rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Indonezja) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Indonesia
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna karta SIM prepaid (dane rynkowe)

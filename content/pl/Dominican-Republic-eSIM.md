@@ -1,6 +1,6 @@
 ---
 title: 'Dominikana eSIM 2026: Przewodnik dla turystów i sieci | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Claro, Altice, Viva
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Santo Domingo, Punta Cana, Santiago, La Romana, Puerto Plata
-  main_packages: 3/7/15/30 dni, nielimitowane dane
+  main_packages: 3/7/15/30 dni, dane 1–15 GB
 modal:
   title: Usługa uaktualniona!
   btn_text: Kontynuuj
@@ -17,10 +17,10 @@ modal:
   text_android: 'Nasza usługa eSIM została uaktualniona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
   title: Dominikana eSIM | Szybki i niezawodny plan prepaid
-  description: Podróżuj na Dominikanę z najlepszą prepaid eSIM podróżną od Roami. Nielimitowane dane 5G w całym kraju. Obejmuje Punta Cana, Santo Domingo i Puerto Plata.
-  keywords: Dominikana eSIM, kup Dominikana eSIM, najlepsza Dominikana eSIM, eSIM podróżna Dominikana, Claro Dominikana, Altice Dominikana, Viva Dominikana, eSIM Santo Domingo, eSIM Punta Cana, eSIM Santiago, prepaid eSIM Dominikana, 5G Dominikana eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Podróżuj na Dominikanę z najlepszą prepaid eSIM podróżną od Roami. Obejmuje Punta Cana, Santo Domingo i Puerto Plata. Plany od 5,99 $.
+  keywords: Dominikana eSIM, najlepsza eSIM Dominikana, kup Dominikana eSIM, plany eSIM Dominikana, Dominikana eSIM cena, eSIM podróżny Dominikana, najlepszy Dominikana eSIM, Dominikana eSIM dane, jak aktywować eSIM Dominikana, przedpłacony eSIM Dominikana, Dominikana eSIM opinie, Dominikana 5G eSIM, Claro Dominikana, Santo Domingo eSIM, Punta Cana eSIM, Santiago eSIM
+  low_price: 5.99
+  high_price: 54.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -269,7 +269,7 @@ faq_section:
     - q: |
         Co jeśli mój hotel na Dominikanie ma darmowe WiFi – czy nadal potrzebuję danych eSIM?
       a: |
-        WiFi w hotelu działa w pokoju, ale nie podczas zwiedzania. eSIM daje Ci dane wszędzie – nawigację po ulicach, wyszukiwanie pobliskich miejsc, sprawdzanie rozkładów transportu. Plan 5GB kosztuje 9,99 $, co jest często tańsze niż płatne WiFi w hotelu na tydzień (10-15 $ w wielu hotelach). Większość podróżników używa hotelowego WiFi do dużych pobrań, a eSIM do łączności w podróży.
+        WiFi w hotelu działa w pokoju, ale nie podczas zwiedzania. eSIM daje Ci dane wszędzie – nawigację po ulicach, wyszukiwanie pobliskich miejsc, sprawdzanie rozkładów transportu. Plan 5GB kosztuje 18,99 $, co jest często tańsze niż płatne WiFi w hotelu na tydzień (10-15 $ w wielu hotelach). Większość podróżników używa hotelowego WiFi do dużych pobrań, a eSIM do łączności w podróży.
     - q: |
         Jak wypada eSIM w porównaniu z przenośnym WiFi podczas podróży na Dominikanę?
       a: |
@@ -277,7 +277,7 @@ faq_section:
     - q: |
         Potrzebuję dostępu do internetu tylko na kilka dni na Dominikanie. Jaki jest minimalny plan, jaki mogę kupić?
       a: |
-        Najtańszy plan to 1,99 $ za 7 dni z 1 GB – idealny na krótki weekendowy wyjazd z lekkim użyciem. Jeśli potrzebujesz więcej, możesz doładować w dowolnym momencie z aplikacji.
+        Najtańszy plan to 5,99 $ za 7 dni z 1 GB – idealny na krótki weekendowy wyjazd z lekkim użyciem. Jeśli potrzebujesz więcej, możesz doładować w dowolnym momencie z aplikacji.
     - q: |
         Jaka jest różnica między planem 5GB a planem nielimitowanym dla Dominikany?
       a: |
@@ -298,55 +298,67 @@ faq_section:
         Jakie dokumenty są potrzebne do zakupu eSIM na Dominikanę od Roami?
       a: |
         Wystarczy ważna metoda płatności – karta kredytowa, PayPal, Apple Pay lub Google Pay. Bez przesyłania paszportu, bez weryfikacji adresu, bez umów. Kup online, otrzymaj kod QR e-mailem w ciągu kilku minut i zainstaluj bezpośrednio na telefonie.
+    - q: |
+        Jak skonfigurować eSIM Dominikana na Androidzie z kartą Claro?
+      a: |
+        Wejdź w Ustawienia > Sieć i internet > SIM > Pobierz eSIM i zeskanuj kod QR. Aby korzystać z karty Claro i eSIM razem, ustaw Roami jako linię danych.
+    - q: |
+        Czy w cenie eSIM Dominikana są ukryte opłaty w porównaniu z Claro?
+      a: |
+        Nie. Poza ceną planu nie ma opłaty aktywacyjnej ani dopłaty za roaming. Przedpłacone karty Claro często wymagają opłaty rejestracyjnej lub minimalnego doładowania.
+    - q: |
+        Czy prędkość w eSIM Dominikana spada po wykorzystaniu limitu w sieci Claro?
+      a: |
+        eSIM Roami Dominikana działa z pełną prędkością do wyczerpania limitu, a potem połączenie wstrzymuje się do dokupienia danych w aplikacji — bez kontaktu z Claro. Cena nie rośnie nagle.
 related_products:
   title: Powiązane plany Dominikana eSIM
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Bahrajn eSIM
+    flag: img/flags/bh.svg
+    price: Od 6,99 $
+    is_highlight: false
+  - name: Urugwaj eSIM
+    flag: img/flags/uy.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Jordania eSIM
+    flag: img/flags/jo.svg
+    price: Od 6,99 $
+    is_highlight: false
+  - name: Kambodża eSIM
+    flag: img/flags/kh.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Uganda eSIM
+    flag: img/flags/ug.svg
+    price: Od 7,99 $
+    is_highlight: false
+  - name: Gibraltar eSIM
+    flag: img/flags/gi.svg
+    price: Od 5,99 $
+    is_highlight: false
+  - name: Malta eSIM
+    flag: img/flags/mt.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
-    price: Od 1,99 $
+  - name: Gruzja eSIM
+    flag: img/flags/ge.svg
+    price: Od 3,99 $
     is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
+  - name: Panama eSIM
+    flag: img/flags/pa.svg
+    price: Od 11,99 $
     is_highlight: false
   - name: Niemcy eSIM
     flag: img/flags/de.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: Od 1,99 $
+  - name: Gwadelupa eSIM
+    flag: img/flags/gp.svg
+    price: Od 8,99 $
     is_highlight: false
 ---

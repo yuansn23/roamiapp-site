@@ -234,12 +234,12 @@
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
         </div>
         <ul>
-            <li><a href="{{ .Site.BaseURL | relLangURL }}">Home</a></li>
-            <li><a href="{{ "/plans/" | relLangURL }}">All eSIMs</a></li>
-            <li><a href="{{ "/coverage/" | relLangURL }}">Coverage</a></li>
-            <li><a href="{{ "/help/" | relLangURL }}">Help</a></li>
-            <li><a href="{{ "/blog/" | relLangURL }}">Blog</a></li>
-            <li><a href="{{ "/account/" | relLangURL }}">Account</a></li>
+            <li><a href="{{ partial "langurl.html" "/" }}">Home</a></li>
+            <li><a href="{{ partial "langurl.html" "/plans/" }}">All eSIMs</a></li>
+            <li><a href="{{ partial "langurl.html" "/plans/" }}">Coverage</a></li>
+            <li><a href="{{ partial "langurl.html" "/faq/" }}">Help</a></li>
+            <li><a href="{{ partial "langurl.html" "/blog/" }}">Blog</a></li>
+            <li><a href="{{ partial "langurl.html" "/" }}">Account</a></li>
         </ul>
     </div>
 
@@ -389,7 +389,7 @@
                 <ul class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6 list-none p-0 m-0">
                     {{ range .items }}
                         <li>
-                            <a href="{{ (printf "/%s-esim/" (.slug | lower)) | relLangURL }}" aria-label="{{ $.Params.ui.explore | default "Explore" }} {{ .name }} {{ $.Params.ui.esim_plans | default "eSIM plans" }}" class="block bg-white rounded-2xl p-6 border border-slate-100 hover:shadow-xl hover:-translate-y-1 transition duration-300 relative overflow-hidden group h-full">
+                            <a href="{{ partial "langurl.html" (printf "/%s-esim/" (.slug | default (.name | urlize) | lower)) }}" aria-label="{{ $.Params.ui.explore | default "Explore" }} {{ .name }} {{ $.Params.ui.esim_plans | default "eSIM plans" }}" class="block bg-white rounded-2xl p-6 border border-slate-100 hover:shadow-xl hover:-translate-y-1 transition duration-300 relative overflow-hidden group h-full">
                                 <div class="absolute top-4 right-4 {{ .badgeColor }} text-white text-[11px] font-black px-3 py-1 rounded-full tracking-wider shadow-sm z-10">{{ .badge }}</div>
 
                                 <div class="flex flex-col items-center text-center mt-2 mb-2">

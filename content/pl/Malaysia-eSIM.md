@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Malezja 2026: Przewodnik po lokalnych operatorach | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Maxis, Celcom, Digi
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Kuala Lumpur, Penang, Johor Bahru, Kota Kinabalu, Kuching
-  main_packages: 3/7/15/30 dni, Nielimitowane dane
+  main_packages: 3/7/15/30 dni, dane bez limitu
 modal:
   title: Usługa zaktualizowana!
   btn_text: Kontynuuj
@@ -18,12 +18,10 @@ modal:
   text_android: 'Nasza usługa eSIM została zaktualizowana do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
   title: eSIM Malezja | Kup plan danych na swoją podróż
-  description: Odkrywaj Malezję z najlepszym prepaid eSIM od Roami. Nielimitowane dane 5G w najlepszych sieciach. Natychmiastowa
-    aktywacja. Obejmuje Kuala Lumpur, Penang i wszystkie miasta.
-  keywords: eSIM Malezja, kup eSIM Malezja, najlepszy eSIM Malezja, podróżna eSIM Malezja, Maxis Malezja, Celcom Malezja, Digi
-    Malezja, eSIM Kuala Lumpur, eSIM Penang, eSIM Johor Bahru, prepaid eSIM Malezja, 5G eSIM Malezja
+  description: Odkrywaj Malezję z najlepszym prepaid eSIM od Roami. Nielimitowane dane 5G w najlepszych sieciach. Natychmiastowa aktywacja. Plany od 1,99 $.
+  keywords: Malezja eSIM, najlepsza eSIM Malezja, kup Malezja eSIM, plany eSIM Malezja, Malezja eSIM cena, eSIM podróżny Malezja, najlepszy Malezja eSIM, Malezja eSIM nielimitowane, jak aktywować eSIM Malezja, przedpłacony eSIM Malezja, Malezja eSIM opinie, Malezja 5G eSIM, Maxis Malezja, Kuala Lumpur eSIM, Penang eSIM, Johor Bahru eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 65.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -377,7 +375,7 @@ faq_section:
     - q: |
         Jakie są najtańsze opcje eSIM na podróż do Malezji?
       a: |
-        Plany eSIM Roami Malezja zaczynają się od 1,99 $ (7 dni, 1GB) i sięgają 59,99 $ (30 dni nielimitowane). Na typową 5-7 dniową podróż plan 5 GB za 9,99 $ jest optymalny – wystarcza na mapy, komunikatory i przeglądanie mediów społecznościowych. Potrzebujesz streamować wideo lub pracować zdalnie? Wybierz 10 GB lub nielimitowany. Dzięki sieci 5G Maxis streaming i rozmowy wideo działają świetnie. Kioski z SIM na lotnisku pobierają 30-50% więcej, a do tego trzeba czekać w kolejce. Nie wiesz, ile danych potrzebujesz? Zacznij od małego pakietu i doładuj przez aplikację bez zmiany eSIM.
+        Plany eSIM Roami Malezja zaczynają się od 2,99 $ (7 dni, 1GB) i sięgają 1,99 $ (30 dni nielimitowane). Na typową 5-7 dniową podróż plan 5 GB za 4,99 $ jest optymalny – wystarcza na mapy, komunikatory i przeglądanie mediów społecznościowych. Potrzebujesz streamować wideo lub pracować zdalnie? Wybierz 10 GB lub nielimitowany. Dzięki sieci 5G Maxis streaming i rozmowy wideo działają świetnie. Kioski z SIM na lotnisku pobierają 30-50% więcej, a do tego trzeba czekać w kolejce. Nie wiesz, ile danych potrzebujesz? Zacznij od małego pakietu i doładuj przez aplikację bez zmiany eSIM.
     - q: |
         Czy potrzebuję paszportu lub dowodu tożsamości, aby użyć eSIM w Malezji? Jak wygląda weryfikacja?
       a: |
@@ -406,63 +404,75 @@ faq_section:
         Czy mogę używać eSIM Malezja do mediów społecznościowych i udostępniania zdjęć rodzinie?
       a: |
         Absolutnie. Instagram, WhatsApp, Facebook i inne aplikacje społecznościowe działają przez połączenie eSIM. Prędkości wysyłania z Maxis obsługują zdjęcia w kilka sekund, a krótkie filmy bez problemu.
+    - q: |
+        Co się dzieje z numerem Maxis po instalacji eSIM Malezja?
+      a: |
+        Numer Maxis pozostaje bez zmian. eSIM Roami Malezja to osobna linia danych, więc możesz dalej odbierać połączenia i SMS-y na dotychczasowym numerze.
+    - q: |
+        Jak wypada koszt eSIM Malezja przy dłuższym pobycie w porównaniu z Maxis?
+      a: |
+        Na dłuższy pobyt wybierasz plan o dłuższej ważności. W porównaniu z długoterminową ofertą Maxis zaletą jest brak umowy — kupujesz dokładnie na potrzebny czas.
+    - q: |
+        Czy w trakcie podróży do Malezja mogę zmienić plan danych, nie ruszając karty Maxis?
+      a: |
+        Tak. Możesz dokupić większy plan w trakcie korzystania i od razu go włączyć — bez szukania salonu Maxis, wszystko online.
 related_products:
   title: Powiązane plany eSIM Malezja
   items:
-  - name: eSIM Stany Zjednoczone
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Europa
+  - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: Węgry eSIM
+    flag: img/flags/hu.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Turcja
-    flag: img/flags/tr.svg
+  - name: Algieria eSIM
+    flag: img/flags/dz.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Gabon eSIM
+    flag: img/flags/ga.svg
+    price: Od 14,99 $
+    is_highlight: false
+  - name: Honduras eSIM
+    flag: img/flags/hn.svg
+    price: Od 6,99 $
+    is_highlight: false
+  - name: Chile eSIM
+    flag: img/flags/cl.svg
+    price: Od 4,99 $
+    is_highlight: false
+  - name: Łotwa eSIM
+    flag: img/flags/lv.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Chiny
-    flag: img/flags/cn.svg
-    price: Od 1,99 $
+  - name: Kostaryka eSIM
+    flag: img/flags/cr.svg
+    price: Od 9,99 $
     is_highlight: false
-  - name: eSIM Japonia
+  - name: Kuwejt eSIM
+    flag: img/flags/kw.svg
+    price: Od 4,99 $
+    is_highlight: false
+  - name: Japonia eSIM
     flag: img/flags/jp.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
+  - name: Litwa eSIM
+    flag: img/flags/lt.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Francja
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Hiszpania
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Niemcy
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Od 1,99 $
+  - name: Kosowo eSIM
+    flag: img/flags/xk.svg
+    price: Od 13,99 $
     is_highlight: false
 market_analysis:
   title: 'eSIM Malezja vs karta SIM: Kompletny przewodnik porównawczy'
   subtitle: 'Lokalne karty SIM prepaid w Malezji vs. rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Malezja) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Malaysia
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna karta SIM prepaid (dane rynkowe)

@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Norwegia 2026 - Najlepszy plan 5G dla Oslo i fiordów | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,18 +9,18 @@ country_meta:
   operators: Telenor, Telia, Ice
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Oslo, Bergen, Trondheim, Stavanger, Tromsø
-  main_packages: 3/7/15/30 dni, Nielimitowane dane
+  main_packages: 3/7/15/30 dni, dane bez limitu
 modal:
   title: Usługa zaktualizowana!
   btn_text: Kontynuuj
   text_default: 'Nasza usługa eSIM została zaktualizowana do <strong>PhoneSIMGo</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
   text_android: 'Nasza usługa eSIM została zaktualizowana do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
-  title: eSIM Norwegia - Najlepszy nielimitowany plan danych dla odwiedzających
-  description: Uzyskaj najlepszy prepaid eSIM do Norwegii z 5G w sieciach Telenor, Telia i Ice. Bez paszportu i wizyty w sklepie — natychmiastowa aktywacja QR. Bez marnowania 31 dni. Od 1,99 $.
-  keywords: eSIM Norwegia, kup eSIM Norwegia, najlepszy eSIM Norwegia, podróżna eSIM Norwegia, Telenor Norwegia, Telia Norwegia, Ice Norwegia, eSIM Oslo, eSIM Bergen, eSIM Trondheim, prepaid eSIM Norwegia, 5G eSIM Norwegia, eSIM fiordy, eSIM zorza polarna, eSIM Tromsø
+  title: eSIM Norwegia - Najlepszy plan danych 5G
+  description: Uzyskaj najlepszy prepaid eSIM do Norwegii z 5G w sieciach Telenor, Telia i Ice. Bez paszportu i wizyty w sklepie — natychmiastowa aktywacja QR. Od 1,99 $.
+  keywords: Norwegia eSIM, najlepsza eSIM Norwegia, kup Norwegia eSIM, plany eSIM Norwegia, Norwegia eSIM cena, eSIM podróżny Norwegia, najlepszy Norwegia eSIM, Norwegia eSIM nielimitowane, jak aktywować eSIM Norwegia, przedpłacony eSIM Norwegia, Norwegia eSIM opinie, Norwegia 5G eSIM, Telenor Norwegia, Oslo eSIM, Bergen eSIM, Trondheim eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 79.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -402,63 +402,75 @@ faq_section:
         Czy mogę doładować eSIM Norwegia, jeśli skończą mi się dane?
       a: |
         Tak — możesz doładować przez swoje konto Roami w dowolnym momencie jednym kliknięciem. W przeciwieństwie do norweskich kart prepaid, które wymagają kupowania fizycznych voucherów doładowania w 7-Eleven (bez angielskich instrukcji) lub nawigowania po norweskojęzycznych portalach online, Roami akceptuje globalne metody płatności bez barier językowych.
+    - q: |
+        Co się dzieje z numerem Telenor po instalacji eSIM Norwegia?
+      a: |
+        Numer Telenor pozostaje bez zmian. eSIM Roami Norwegia to osobna linia danych, więc możesz dalej odbierać połączenia i SMS-y na dotychczasowym numerze.
+    - q: |
+        Jak wypada koszt eSIM Norwegia przy dłuższym pobycie w porównaniu z Telenor?
+      a: |
+        Na dłuższy pobyt wybierasz plan o dłuższej ważności. W porównaniu z długoterminową ofertą Telenor zaletą jest brak umowy — kupujesz dokładnie na potrzebny czas.
+    - q: |
+        Czy w trakcie podróży do Norwegia mogę zmienić plan danych, nie ruszając karty Telenor?
+      a: |
+        Tak. Możesz dokupić większy plan w trakcie korzystania i od razu go włączyć — bez szukania salonu Telenor, wszystko online.
 related_products:
   title: Powiązane plany eSIM Norwegia
   items:
-  - name: eSIM Stany Zjednoczone
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Europa
+  - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: Dominika eSIM
+    flag: img/flags/dm.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Grenada eSIM
+    flag: img/flags/gd.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Kenia eSIM
+    flag: img/flags/ke.svg
+    price: Od 7,99 $
+    is_highlight: false
+  - name: Bahamy eSIM
+    flag: img/flags/bs.svg
+    price: Od 16,99 $
+    is_highlight: false
+  - name: Rumunia eSIM
+    flag: img/flags/ro.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Turcja
-    flag: img/flags/tr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Chiny
-    flag: img/flags/cn.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Japonia
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Hong Kong
+  - name: Hongkong eSIM
     flag: img/flags/hk.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Francja
-    flag: img/flags/fr.svg
+  - name: Meksyk eSIM
+    flag: img/flags/mx.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Austria eSIM
+    flag: img/flags/at.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Hiszpania
+  - name: Kazachstan eSIM
+    flag: img/flags/kz.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Reunion eSIM
+    flag: img/flags/re.svg
+    price: Od 1,99 $
+    is_highlight: false
+  - name: Hiszpania eSIM
     flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Niemcy
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
     price: Od 1,99 $
     is_highlight: false
 market_analysis:
   title: 'eSIM Norwegia w porównaniu z kartami SIM prepaid: Co musisz wiedzieć'
   subtitle: 'Lokalne karty SIM prepaid w Norwegii vs. rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Norwegia) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Norway
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna karta SIM prepaid (dane rynkowe)

@@ -304,7 +304,8 @@
                 {{ end }}">
 
                 {{ range .cards }}
-                <a href="{{ printf "/%s/" (.slug | lower) | relLangURL }}"
+                {{ $cardSlug := .slug | default (.name | urlize) }}
+                <a href="{{ partial "langurl.html" (printf "/%s/" ($cardSlug | lower)) }}"
                 aria-label="View eSIM data plans and pricing for {{ .name }}"
                 class="dest-card group bg-white rounded-2xl border border-slate-200 text-center relative overflow-hidden flex flex-col h-full hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
 
@@ -333,7 +334,7 @@
         </div>
         <!-- 修改点：href 使用当前 tab 的 zslug 字段，而不是固定的 "plans/" -->
         <div class="text-center mt-8">
-            <a href="{{ .zslug | default "#" | relLangURL }}" aria-label="Browse all global eSIM plans" class="inline-flex items-center gap-2 px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-xl text-sm transition-colors shadow-sm">
+            <a href="{{ partial "langurl.html" (.zslug | default "#") }}" aria-label="Browse all global eSIM plans" class="inline-flex items-center gap-2 px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-xl text-sm transition-colors shadow-sm">
                 {{ .btn }} <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
             </a>
         </div>

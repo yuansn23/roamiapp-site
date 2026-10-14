@@ -24,7 +24,7 @@ products:
     flag: "/img/flags/us.svg"
     price: "החל מ-$1.99"
     is_highlight: true
-    slug: "usa"
+    slug: "united-states"
   - name: "eSIM לקנדה"
     flag: "/img/flags/ca.svg"
     price: "החל מ-$1.99"
@@ -39,7 +39,7 @@ products:
     flag: "/img/flags/gb.svg"
     price: "החל מ-$1.99"
     is_highlight: false
-    slug: "uk"
+    slug: "united-kingdom"
   - name: "eSIM לצרפת"
     flag: "/img/flags/fr.svg"
     price: "החל מ-$1.99"

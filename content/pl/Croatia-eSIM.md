@@ -1,6 +1,6 @@
 ---
 title: 'Chorwacja eSIM 2026: Kompletny przewodnik dla podróżnych | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,18 +9,18 @@ country_meta:
   operators: Hrvatski Telekom, A1 Hrvatska, Tele2
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Zagrzeb, Split, Dubrownik, Zadar, Rijeka
-  main_packages: 3/7/15/30 dni, nielimitowane dane
+  main_packages: 3/7/15/30 dni, dane bez limitu
 modal:
   title: Usługa ulepszona!
   btn_text: Kontynuuj
   text_default: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIMGo</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
   text_android: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
-  title: Chorwacja eSIM | Najlepsze nielimitowane dane 5G na Twoją podróż
-  description: Potrzebujesz przedpłaconej karty eSIM do podróży do Chorwacji? Roami oferuje nielimitowane dane 5G wzdłuż wybrzeża i w głębi lądu. Natychmiastowa aktywacja. Obejmuje Dubrownik, Split i Zagrzeb.
-  keywords: Chorwacja eSIM, kup Chorwacja eSIM, najlepszy Chorwacja eSIM, eSIM podróżny Chorwacja, Hrvatski Telekom Chorwacja, A1 Hrvatska Chorwacja, Tele2 Chorwacja, Zagrzeb eSIM, Split eSIM, Dubrownik eSIM, przedpłacony eSIM Chorwacja, 5G Chorwacja eSIM
+  title: eSIM Chorwacja - eSIM z natychmiastową aktywacją
+  description: Potrzebujesz przedpłaconej karty eSIM do podróży do Chorwacji? Roami oferuje nielimitowane dane 5G wzdłuż wybrzeża i w głębi lądu. Od 1,99 $.
+  keywords: Chorwacja eSIM, najlepsza eSIM Chorwacja, kup Chorwacja eSIM, plany eSIM Chorwacja, Chorwacja eSIM cena, eSIM podróżny Chorwacja, najlepszy Chorwacja eSIM, Chorwacja eSIM nielimitowane, jak aktywować eSIM Chorwacja, przedpłacony eSIM Chorwacja, Chorwacja eSIM opinie, Chorwacja 5G eSIM, Hrvatski Telekom Chorwacja, Zagrzeb eSIM, Split eSIM, Dubrownik eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 76.99
 order_summary:
   title: Wybrany plan
   label_data: Zawarte dane
@@ -377,7 +377,7 @@ faq_section:
     - q: |
         Czy nielimitowany plan eSIM w Chorwacji zwalnia, jeśli zużyję zbyt dużo danych?
       a: |
-        Obowiązuje zasada uczciwego użytkowania: prędkość spada po 30 GB w ciągu dnia. Przy zmniejszonej prędkości nadal możesz wysyłać wiadomości, nawigować i przeglądać – ale bez płynnego wideo. Realnie większość podróżnych nie zbliża się do 30 GB. Jeśli się martwisz, plan stały 10 GB (14,99 $) lub 20 GB (24,99 $) całkowicie usuwa niepewność.
+        Obowiązuje zasada uczciwego użytkowania: prędkość spada po 30 GB w ciągu dnia. Przy zmniejszonej prędkości nadal możesz wysyłać wiadomości, nawigować i przeglądać – ale bez płynnego wideo. Realnie większość podróżnych nie zbliża się do 30 GB. Jeśli się martwisz, plan stały 10 GB (14,99 $) lub 20 GB (20,99 $) całkowicie usuwa niepewność.
     - q: |
         Potrzebuję dostępu do internetu tylko na kilka dni w Chorwacji. Co mogę kupić w minimum?
       a: |
@@ -385,7 +385,7 @@ faq_section:
     - q: |
         Wybieram się do Chorwacji tylko na 2–3 dni. Jaki eSIM wybrać?
       a: |
-        Na krótki wyjazd plan 1 GB/7 dni (1,99 $) wystarczy na mapy i komunikację. Jeśli planujesz korzystać z mediów społecznościowych i udostępniać zdjęcia, plan 3 GB (4,99 $) daje więcej swobody. Oba aktywują się natychmiast i można doładować w razie potrzeby.
+        Na krótki wyjazd plan 1 GB/7 dni (2,99 $) wystarczy na mapy i komunikację. Jeśli planujesz korzystać z mediów społecznościowych i udostępniać zdjęcia, plan 3 GB (4,99 $) daje więcej swobody. Oba aktywują się natychmiast i można doładować w razie potrzeby.
     - q: |
         Co się stanie, jeśli mój eSIM w Chorwacji przestanie działać w trakcie podróży?
       a: |
@@ -402,63 +402,75 @@ faq_section:
         Czy muszę wyjąć fizyczną kartę SIM, aby używać eSIM w Chorwacji?
       a: |
         Wcale nie. Twoja fizyczna karta SIM pozostaje w slocie 1. eSIM działa obok niej w slocie 2. Używaj domowej karty do SMS-ów i połączeń, eSIM do danych. Ponad 80% telefonów z 2020 roku obsługuje tę konfigurację dual SIM.
+    - q: |
+        Co się dzieje z numerem Hrvatski Telekom po instalacji eSIM Chorwacja?
+      a: |
+        Numer Hrvatski Telekom pozostaje bez zmian. eSIM Roami Chorwacja to osobna linia danych, więc możesz dalej odbierać połączenia i SMS-y na dotychczasowym numerze.
+    - q: |
+        Jak wypada koszt eSIM Chorwacja przy dłuższym pobycie w porównaniu z Hrvatski Telekom?
+      a: |
+        Na dłuższy pobyt wybierasz plan o dłuższej ważności. W porównaniu z długoterminową ofertą Hrvatski Telekom zaletą jest brak umowy — kupujesz dokładnie na potrzebny czas.
+    - q: |
+        Czy w trakcie podróży do Chorwacja mogę zmienić plan danych, nie ruszając karty Hrvatski Telekom?
+      a: |
+        Tak. Możesz dokupić większy plan w trakcie korzystania i od razu go włączyć — bez szukania salonu Hrvatski Telekom, wszystko online.
 related_products:
   title: Powiązane plany eSIM dla Chorwacji
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania eSIM
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Azja Południowo-Wschodnia eSIM
+    flag: img/flags/ya.webp
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
+  - name: Cypr eSIM
+    flag: img/flags/cy.svg
+    price: Od 2,99 $
     is_highlight: false
   - name: Hongkong eSIM
     flag: img/flags/hk.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
+  - name: Polska eSIM
+    flag: img/flags/pl.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
+  - name: Tajwan eSIM
+    flag: img/flags/tw.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
+  - name: Litwa eSIM
+    flag: img/flags/lt.svg
     price: Od 1,99 $
+    is_highlight: false
+  - name: Tanzania eSIM
+    flag: img/flags/tz.svg
+    price: Od 7,99 $
+    is_highlight: false
+  - name: Barbados eSIM
+    flag: img/flags/bb.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Jamajka eSIM
+    flag: img/flags/jm.svg
+    price: Od 11,99 $
     is_highlight: false
   - name: Australia eSIM
     flag: img/flags/au.svg
     price: Od 1,99 $
     is_highlight: false
+  - name: Bahrajn eSIM
+    flag: img/flags/bh.svg
+    price: Od 6,99 $
+    is_highlight: false
 market_analysis:
   title: 'Chorwacja eSIM a lokalna przedpłacona SIM – która jest wygodniejsza?'
   subtitle: 'Lokalne przedpłacone karty SIM w Chorwacji a rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Chorwacja) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Croatia
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna przedpłacona SIM (dane rynkowe)

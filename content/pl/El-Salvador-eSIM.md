@@ -1,6 +1,6 @@
 ---
 title: 'Salwador eSIM 2026: Przewodnik po zasięgu i prędkości | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Tigo, Claro, Movistar
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: San Salvador, Santa Ana, San Miguel, Usulután, Sonsonate
-  main_packages: 3/7/15/30 dni, nielimitowane dane
+  main_packages: 3/7/15/30 dni, dane bez limitu
 modal:
   title: Usługa uaktualniona!
   btn_text: Kontynuuj
@@ -17,10 +17,10 @@ modal:
   text_android: 'Nasza usługa eSIM została uaktualniona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
   title: Salwador eSIM | Prepaidowy plan danych 5G dla odkrywców
-  description: Korzystaj z szybkich danych 5G w Salwadorze. Nielimitowane dane 5G z natychmiastową aktywacją. Obejmuje San Salvador, Santa Ana i San Miguel. Natychmiastowa aktywacja.
-  keywords: Salwador eSIM, kup Salwador eSIM, najlepsza Salwador eSIM, eSIM podróżna Salwador, Tigo Salwador, Claro Salwador, Movistar Salwador, eSIM San Salvador, eSIM Santa Ana, eSIM San Miguel, prepaid eSIM Salwador, 5G Salwador eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Korzystaj z szybkich danych 5G w Salwadorze. Nielimitowane dane 5G z natychmiastową aktywacją. Plany od 23,99 $.
+  keywords: Salwador eSIM, najlepsza eSIM Salwador, kup Salwador eSIM, plany eSIM Salwador, Salwador eSIM cena, eSIM podróżny Salwador, najlepszy Salwador eSIM, Salwador eSIM nielimitowane, jak aktywować eSIM Salwador, przedpłacony eSIM Salwador, Salwador eSIM opinie, Salwador 5G eSIM, Tigo Salwador, San Salvador eSIM, Santa Ana eSIM, San Miguel eSIM
+  low_price: 23.99
+  high_price: 165.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -297,63 +297,75 @@ faq_section:
         Czy mogę zostawić moją domową kartę SIM w telefonie podczas korzystania z eSIM w Salwadorze?
       a: |
         Tak – Twoja domowa SIM pozostaje w gnieździe 1 do SMS-ów (kody bankowe, logowania 2FA). eSIM obsługuje dane w gnieździe 2. Wyłącz roaming danych na domowej SIM, aby uniknąć opłat sięgających 10-15 $ za MB.
+    - q: |
+        Co się dzieje z numerem Tigo po instalacji eSIM Salwador?
+      a: |
+        Numer Tigo pozostaje bez zmian. eSIM Roami Salwador to osobna linia danych, więc możesz dalej odbierać połączenia i SMS-y na dotychczasowym numerze.
+    - q: |
+        Jak wypada koszt eSIM Salwador przy dłuższym pobycie w porównaniu z Tigo?
+      a: |
+        Na dłuższy pobyt wybierasz plan o dłuższej ważności. W porównaniu z długoterminową ofertą Tigo zaletą jest brak umowy — kupujesz dokładnie na potrzebny czas.
+    - q: |
+        Czy w trakcie podróży do Salwador mogę zmienić plan danych, nie ruszając karty Tigo?
+      a: |
+        Tak. Możesz dokupić większy plan w trakcie korzystania i od razu go włączyć — bez szukania salonu Tigo, wszystko online.
 related_products:
   title: Powiązane plany Salwador eSIM
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Panama eSIM
+    flag: img/flags/pa.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Azja Południowo-Wschodnia eSIM
+    flag: img/flags/ya.webp
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
+  - name: Grecja eSIM
+    flag: img/flags/gr.svg
+    price: Od 1,99 $
+    is_highlight: false
+  - name: Niger eSIM
+    flag: img/flags/ni.svg
+    price: Od 23,99 $
+    is_highlight: false
+  - name: Malezja eSIM
+    flag: img/flags/my.svg
     price: Od 1,99 $
     is_highlight: false
   - name: Chiny eSIM
     flag: img/flags/cn.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
+  - name: Indonezja eSIM
+    flag: img/flags/id.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
+  - name: Brazylia eSIM
+    flag: img/flags/br.svg
+    price: Od 4,99 $
     is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
+  - name: Boliwia eSIM
+    flag: img/flags/bo.svg
+    price: Od 11,99 $
     is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
+  - name: Malawi eSIM
+    flag: img/flags/mw.svg
+    price: Od 14,99 $
     is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: Od 1,99 $
+  - name: Ekwador eSIM
+    flag: img/flags/ec.svg
+    price: Od 6,99 $
     is_highlight: false
 market_analysis:
   title: 'Salwador eSIM vs prepaid SIM – porównanie kosztów i wygody'
   subtitle: 'Lokalne prepaidowe SIM w Salwadorze vs rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Salwador) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/El-Salvador
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matryca porównawcza
   - Lokalna prepaid SIM (dane rynkowe)

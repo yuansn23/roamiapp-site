@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Bahamy 2026: Przewodnik po zasięgu i prędkości | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,20 +9,18 @@ country_meta:
   operators: BTC, Aliv, Cable Bahamas
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Nassau, Freeport, Marsh Harbour, George Town, West End
-  main_packages: 3/7/15/30 dni, Nielimitowane dane
+  main_packages: 7/15/30 dni, pakiety danych 1–5 GB
 modal:
   title: Usługa zaktualizowana!
   btn_text: Kontynuuj
   text_default: 'Nasza usługa eSIM została zaktualizowana do <strong>PhoneSIMGo</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
   text_android: 'Nasza usługa eSIM została zaktualizowana do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
-  title: eSIM Bahamy | Najlepsze nielimitowane dane 5G dla podróżnych
-  description: Uzyskaj najlepszy prepaid eSIM na Bahamy od Roami. Nielimitowane dane 5G na ponad 700 wyspach. Obejmuje
-    Nassau, Freeport i Exuma. Natychmiastowa aktywacja.
-  keywords: eSIM Bahamy, kup eSIM Bahamy, najlepszy eSIM Bahamy, podróżna eSIM Bahamy, BTC Bahamy, Aliv Bahamy, Cable Bahamas
-    Bahamy, eSIM Nassau, eSIM Freeport, eSIM Marsh Harbour, prepaid eSIM Bahamy, 5G eSIM Bahamy
-  low_price: 1.99
-  high_price: 39.9
+  title: 'eSIM Bahamy: internet 5G bez roamingu'
+  description: Uzyskaj najlepszy prepaid eSIM na Bahamy od Roami. Obejmuje Nassau, Freeport i Exuma. Natychmiastowa aktywacja. Plany od 16,99 $.
+  keywords: Bahamy eSIM, najlepsza eSIM Bahamy, kup Bahamy eSIM, plany eSIM Bahamy, Bahamy eSIM cena, eSIM podróżny Bahamy, najlepszy Bahamy eSIM, Bahamy eSIM dane, jak aktywować eSIM Bahamy, przedpłacony eSIM Bahamy, Bahamy eSIM opinie, Bahamy 5G eSIM, BTC Bahamy, Nassau eSIM, Freeport eSIM, Marsh Harbour eSIM
+  low_price: 16.99
+  high_price: 67.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -217,7 +215,7 @@ faq_section:
     - q: |
         Jakie są najtańsze opcje eSIM na podróż na Bahamy?
       a: |
-        Plany eSIM Roami Bahamy zaczynają się od 1,99 $ (7 dni, 1GB) i sięgają 59,99 $ (30 dni nielimitowane). Na typową 5-7 dniową podróż plan 5 GB za 9,99 $ jest optymalny – wystarcza na mapy, komunikatory i przeglądanie mediów społecznościowych. Potrzebujesz streamować wideo lub pracować zdalnie? Wybierz 10 GB lub nielimitowany. Na Bahamach działa 4G, które dobrze obsługuje mapy i komunikację. Kioski z SIM na lotnisku pobierają 30-50% więcej, a do tego trzeba czekać w kolejce. Nie wiesz, ile danych potrzebujesz? Zacznij od małego pakietu i doładuj przez aplikację bez zmiany eSIM.
+        Plany eSIM Roami Bahamy zaczynają się od 16,99 $ (7 dni, 1GB) i sięgają 16,99 $ (30 dni nielimitowane). Na typową 5-7 dniową podróż plan 5 GB za 67,99 $ jest optymalny – wystarcza na mapy, komunikatory i przeglądanie mediów społecznościowych. Potrzebujesz streamować wideo lub pracować zdalnie? Wybierz 10 GB lub nielimitowany. Na Bahamach działa 4G, które dobrze obsługuje mapy i komunikację. Kioski z SIM na lotnisku pobierają 30-50% więcej, a do tego trzeba czekać w kolejce. Nie wiesz, ile danych potrzebujesz? Zacznij od małego pakietu i doładuj przez aplikację bez zmiany eSIM.
     - q: |
         Jak Roami wypada w porównaniu z Airalo dla eSIM na Bahamach?
       a: |
@@ -242,63 +240,75 @@ faq_section:
         Kiedy zaczyna się okres ważności mojego eSIM Bahamy?
       a: |
         Ważność planu rozpoczyna się w momencie połączenia z lokalną siecią na Bahamach, a nie w momencie zakupu lub instalacji. Możesz więc kupić i zainstalować tygodnie przed podróżą bez utraty dni planu. Plan 7-dniowy daje Ci 7 pełnych dni od pierwszego połączenia.
+    - q: |
+        Czy mogę używać eSIM Bahamy razem z kartą BTC?
+      a: |
+        Tak. Większość nowych smartfonów obsługuje kartę fizyczną i eSIM jednocześnie, więc możesz odbierać połączenia i SMS-y na numerze BTC, a dane przesyłać przez eSIM Roami Bahamy.
+    - q: |
+        Ile można zaoszczędzić, wybierając eSIM Bahamy zamiast roamingu BTC?
+      a: |
+        Roaming w BTC rośnie wraz ze zużyciem danych, a eSIM Roami Bahamy ma stałą cenę planu — bez niespodziewanych rachunków. Im dłuższy wyjazd, tym większa oszczędność.
+    - q: |
+        Czy po wyczerpaniu danych eSIM Bahamy mogę dokupić plan w sieci BTC?
+      a: |
+        Tak. Gdy zabraknie danych, dokup plan w aplikacji lub online — od razu zadziała w sieci BTC.
 related_products:
   title: Powiązane plany eSIM Bahamy
   items:
-  - name: eSIM Stany Zjednoczone
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Europa
+  - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Od 1,99 $
+  - name: Gujana eSIM
+    flag: img/flags/gy.svg
+    price: Od 9,99 $
     is_highlight: false
-  - name: eSIM Turcja
-    flag: img/flags/tr.svg
-    price: Od 1,99 $
+  - name: Kosowo eSIM
+    flag: img/flags/xk.svg
+    price: Od 13,99 $
     is_highlight: false
-  - name: eSIM Chiny
+  - name: Mali eSIM
+    flag: img/flags/ml.svg
+    price: Od 27,99 $
+    is_highlight: false
+  - name: Chiny eSIM
     flag: img/flags/cn.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Japonia
-    flag: img/flags/jp.svg
+  - name: Indie eSIM
+    flag: img/flags/in.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Seszele eSIM
+    flag: img/flags/sc.svg
+    price: Od 9,99 $
+    is_highlight: false
+  - name: Reunion eSIM
+    flag: img/flags/re.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Francja
+  - name: Francja eSIM
     flag: img/flags/fr.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Hiszpania
-    flag: img/flags/es.svg
+  - name: Peru eSIM
+    flag: img/flags/pe.svg
+    price: Od 4,99 $
+    is_highlight: false
+  - name: Bułgaria eSIM
+    flag: img/flags/bg.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Niemcy
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Od 1,99 $
+  - name: Portoryko eSIM
+    flag: img/flags/pu.svg
+    price: Od 6,99 $
     is_highlight: false
 market_analysis:
   title: 'eSIM Bahamy w porównaniu z kartami SIM prepaid: Co musisz wiedzieć'
   subtitle: 'Lokalne karty SIM prepaid na Bahamach vs. rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Bahamy) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Bahamas
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna karta SIM prepaid (dane rynkowe)

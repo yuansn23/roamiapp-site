@@ -1,6 +1,6 @@
 ---
 title: 'Liberia eSIM 2026: Przewodnik po zasięgu i prędkości | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Orange Liberia, Lonestar Cell MTN, LiberCell
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Monrovia, Gbarnga, Buchanan, Kakata, Zwedru
-  main_packages: 3/7/15/30 dni, nielimitowane dane
+  main_packages: 7/15/30 dni, pakiety danych 1–5 GB
 modal:
   title: Usługa uaktualniona!
   btn_text: Kontynuuj
@@ -17,10 +17,10 @@ modal:
   text_android: 'Nasza usługa eSIM została uaktualniona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
   title: "Liberia eSIM: Przewodnik po zasięgu 5G Orange i Lonestar"
-  description: Porównaj plany eSIM dla Liberii z szybkim 5G w Monrovii, Gbarndze, Buchanan. Przewodnik po zasięgu Orange Liberia, Lonestar Cell MTN i LiberCell dla turystów i podróżników. Natychmiastowa aktywacja QR od 1,99 $.
-  keywords: Liberia eSIM, kup Liberia eSIM, najlepsza Liberia eSIM, eSIM podróżna Liberia, Orange Liberia Liberia, Lonestar Cell MTN Liberia, LiberCell Liberia, eSIM Monrovia, eSIM Gbarnga, eSIM Buchanan, prepaid eSIM Liberia, 5G Liberia eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Porównaj plany eSIM dla Liberii z szybkim 5G w Monrovii, Gbarndze, Buchanan. Natychmiastowa aktywacja QR od 27,99 $.
+  keywords: Liberia eSIM, najlepsza eSIM Liberia, kup Liberia eSIM, plany eSIM Liberia, Liberia eSIM cena, eSIM podróżny Liberia, najlepszy Liberia eSIM, Liberia eSIM dane, jak aktywować eSIM Liberia, przedpłacony eSIM Liberia, Liberia eSIM opinie, Liberia 5G eSIM, Orange Liberia, Monrovia eSIM, Gbarnga eSIM, Buchanan eSIM
+  low_price: 27.99
+  high_price: 99.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -197,7 +197,7 @@ faq_section:
     - q: |
         Czy eSIM jest tańsza niż roaming międzynarodowy w Liberii?
       a: |
-        Tak – eSIM Roami jest zazwyczaj o 80-90% tańsza niż plany roamingowe większości operatorów domowych. Plan 5GB dla Liberii kosztuje 9,99 $, podczas gdy roaming może łatwo kosztować 50 $+ za te same dane. Otrzymujesz również prędkości lokalnych sieci zamiast ograniczonego roamingu.
+        Tak – eSIM Roami jest zazwyczaj o 80-90% tańsza niż plany roamingowe większości operatorów domowych. Plan 5GB dla Liberii kosztuje 99,99 $, podczas gdy roaming może łatwo kosztować 50 $+ za te same dane. Otrzymujesz również prędkości lokalnych sieci zamiast ograniczonego roamingu.
     - q: |
         Czy mogę używać mojej eSIM do Liberii w mediach społecznościowych i udostępniać zdjęcia rodzinie?
       a: |
@@ -214,52 +214,64 @@ faq_section:
         Jak wypada eSIM w porównaniu z przenośnym WiFi podczas podróży do Liberii?
       a: |
         eSIM wygrywa pod względem wygody. Brak urządzenia do noszenia, ładowania lub zwracania po zakończeniu podróży – oszczędza około 3-5 $ dziennie w porównaniu z wynajmem przenośnego WiFi. Przenośne WiFi działa dla grup 3+, ale jesteś przywiązany do jednego urządzenia i musisz je ładować przez 6-8 godzin. Z eSIM Twój telefon jest hotspotem. Wszystkie plany Roami obejmują darmowe udostępnianie hotspotu dla maksymalnie 5 urządzeń.
+    - q: |
+        Co się dzieje z numerem Orange Liberia po instalacji eSIM Liberia?
+      a: |
+        Numer Orange Liberia pozostaje bez zmian. eSIM Roami Liberia to osobna linia danych, więc możesz dalej odbierać połączenia i SMS-y na dotychczasowym numerze.
+    - q: |
+        Jak wypada koszt eSIM Liberia przy dłuższym pobycie w porównaniu z Orange Liberia?
+      a: |
+        Na dłuższy pobyt wybierasz plan o dłuższej ważności. W porównaniu z długoterminową ofertą Orange Liberia zaletą jest brak umowy — kupujesz dokładnie na potrzebny czas.
+    - q: |
+        Czy w trakcie podróży do Liberia mogę zmienić plan danych, nie ruszając karty Orange Liberia?
+      a: |
+        Tak. Możesz dokupić większy plan w trakcie korzystania i od razu go włączyć — bez szukania salonu Orange Liberia, wszystko online.
 related_products:
   title: Powiązane plany Liberia eSIM
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Czech Republic eSIM
+    flag: img/flags/cz.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
+  - name: Madagaskar eSIM
+    flag: img/flags/mg.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Włochy eSIM
+    flag: img/flags/it.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
+  - name: Singapur eSIM
+    flag: img/flags/sg.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
+  - name: Mali eSIM
+    flag: img/flags/ml.svg
+    price: Od 27,99 $
+    is_highlight: false
+  - name: Ghana eSIM
+    flag: img/flags/gh.svg
+    price: Od 7,99 $
+    is_highlight: false
+  - name: Cypr eSIM
+    flag: img/flags/cy.svg
+    price: Od 2,99 $
+    is_highlight: false
+  - name: Estonia eSIM
+    flag: img/flags/ee.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
+  - name: Urugwaj eSIM
+    flag: img/flags/uy.svg
+    price: Od 11,99 $
     is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
+  - name: Boliwia eSIM
+    flag: img/flags/bo.svg
+    price: Od 11,99 $
     is_highlight: false
   - name: Australia eSIM
     flag: img/flags/au.svg
@@ -269,8 +281,8 @@ market_analysis:
   title: 'Liberia eSIM vs fizyczna SIM – która jest lepsza dla podróżnych?'
   subtitle: 'Lokalne prepaidowe SIM w Liberii vs rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Liberia) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Liberia
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matryca porównawcza
   - Lokalna prepaid SIM (dane rynkowe)
@@ -297,7 +309,7 @@ market_analysis:
   - icon: calendar-xmark
     title: Cykl rozliczeniowy i<br>koszt utracony
     prepaid_title: ''
-    prepaid_desc: Plany mają stałe cykle 5 dni (5 $), 15 dni (15 $) lub 30 dni (5-40 $). Pakiety danych Orange Liberia nie odnawiają się automatycznie; usługa kończy się po wygaśnięciu lub wyczerpaniu danych. Wszystkie ceny podlegają dodatkowemu 15% podatkowi.
+    prepaid_desc: Plany mają stałe cykle 30 dni (99,99 $), 30 dni (99,99 $) lub 30 dni (5-99,99 $). Pakiety danych Orange Liberia nie odnawiają się automatycznie; usługa kończy się po wygaśnięciu lub wyczerpaniu danych. Wszystkie ceny podlegają dodatkowemu 15% podatkowi.
     esim_title: Elastyczne plany krótkoterminowe
     esim_desc: W przeciwieństwie do 5-dniowych (5 $) lub 15-dniowych (15 $) stałych planów LoneStar, które marnują 40% kosztu przy 3-dniowej podróży, Roami oferuje plany 7-dniowe od 1,99 $/GB. Płać tylko za to, czego używasz, bez 15% podatku.
   - icon: wifi

@@ -1,6 +1,6 @@
 ---
 title: 'Korea Południowa eSIM - Najszybsze 5G w Seulu i Pusan'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,18 +9,18 @@ country_meta:
   operators: SK Telecom, KT, LG U+
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Seul, Pusan, Incheon, Daegu, Daejeon
-  main_packages: 3/7/15/30 dni, nielimitowane dane
+  main_packages: 3/7/15/30 dni, dane bez limitu
 modal:
   title: Usługa ulepszona!
   btn_text: Kontynuuj
   text_default: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIMGo</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
   text_android: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
-  title: Korea Południowa eSIM - Przedpłacony plan danych 5G dla gości
-  description: Zdobądź najlepszą eSIM dla Korei Południowej z najszybszym na świecie 5G na SK Telecom, KT i LG U+. Bez kolejek na lotnisku — natychmiastowa aktywacja QR. Plany od 1,99 $. Idealna dla Seulu, Pusan i Jeju.
-  keywords: Korea Południowa eSIM, kup Korea Południowa eSIM, najlepsza Korea Południowa eSIM, eSIM podróżny Korea Południowa, SK Telecom Korea Południowa, KT Korea Południowa, LG U+ Korea Południowa, Seul eSIM, Pusan eSIM, Incheon eSIM, przedpłacony eSIM Korea Południowa, 5G Korea Południowa eSIM, najszybsze 5G Korea Południowa, eSIM na koncert K-pop
+  title: 'eSIM Korea Południowa: 5G w sieciach SK Telecom'
+  description: Zdobądź najlepszą eSIM dla Korei Południowej z najszybszym na świecie 5G na SK Telecom, KT i LG U+. Idealna dla Seulu, Pusan i Jeju. Plany od 1,99 $.
+  keywords: Korea Południowa eSIM, najlepsza eSIM Korea Południowa, kup Korea Południowa eSIM, plany eSIM Korea Południowa, Korea Południowa eSIM cena, eSIM podróżny Korea Południowa, najlepszy Korea Południowa eSIM, Korea Południowa eSIM nielimitowane, jak aktywować eSIM Korea Południowa, przedpłacony eSIM Korea Południowa, Korea Południowa eSIM opinie, Korea Południowa 5G eSIM, SK Telecom Korea Południowa, Seul eSIM, Pusan eSIM, Incheon eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 61.99
 order_summary:
   title: Wybrany plan
   label_data: Zawarte dane
@@ -388,63 +388,75 @@ faq_section:
         Kiedy zaczyna się okres ważności mojego eSIM dla Korei Południowej?
       a: |
         Ważność planu rozpoczyna się po połączeniu z lokalną siecią w Korei Południowej, a nie w momencie zakupu lub instalacji. Możesz więc kupić i zainstalować tygodnie przed podróżą bez utraty dni planu. Plan 7-dniowy daje 7 pełnych dni od pierwszego połączenia.
+    - q: |
+        Czy eSIM Korea Południowa działa tam, gdzie zasięg SK Telecom jest słaby?
+      a: |
+        eSIM Roami Korea Południowa łączy się automatycznie z wieloma lokalnymi operatorami, więc w miejscach ze słabym sygnałem SK Telecom przełączy się na silniejszą sieć i utrzyma połączenie.
+    - q: |
+        Co jest tańsze: dane od SK Telecom czy eSIM Korea Południowa?
+      a: |
+        Przy krótkim wyjeździe zwykle wygrywa eSIM Roami Korea Południowa. Plany SK Telecom wiążą się z dłuższym zobowiązaniem, a Roami kupujesz tylko na potrzebny okres.
+    - q: |
+        Czy w Korea Południowa mogę udostępniać dane z eSIM Korea Południowa przez hotspot, mimo że główna karta to SK Telecom?
+      a: |
+        Tak. Udostępnianie hotspotu jest obsługiwane, więc z danych eSIM Korea Południowa skorzystasz też na laptopie i tablecie, obok linii SK Telecom.
 related_products:
   title: Powiązane plany eSIM dla Korei Południowej
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania eSIM
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Katar eSIM
+    flag: img/flags/qa.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
-    price: Od 1,99 $
+  - name: Egipt eSIM
+    flag: img/flags/eg.svg
+    price: Od 2,99 $
     is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
-    price: Od 1,99 $
+  - name: Fidżi eSIM
+    flag: img/flags/fj.svg
+    price: Od 6,99 $
     is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
+  - name: Tunezja eSIM
+    flag: img/flags/tn.svg
+    price: Od 3,99 $
     is_highlight: false
-  - name: Hongkong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
+  - name: Malediwy eSIM
+    flag: img/flags/mv.svg
+    price: Od 14,99 $
     is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
+  - name: Gwatemala eSIM
+    flag: img/flags/gt.svg
+    price: Od 11,99 $
     is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
+  - name: Sierra Leone eSIM
+    flag: img/flags/si.svg
+    price: Od 10,99 $
     is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
+  - name: Argentyna eSIM
+    flag: img/flags/ar.svg
+    price: Od 3,99 $
     is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: Od 1,99 $
+  - name: Algieria eSIM
+    flag: img/flags/dz.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Panama eSIM
+    flag: img/flags/pa.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Czad eSIM
+    flag: img/flags/td.svg
+    price: Od 23,99 $
     is_highlight: false
 market_analysis:
   title: 'Korea Południowa eSIM a lokalna przedpłacona SIM – która jest lepsza dla podróżnych?'
   subtitle: 'Lokalne przedpłacone karty SIM w Korei Południowej a rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Korea Południowa) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/South_Korea
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna przedpłacona SIM (dane rynkowe)
@@ -473,7 +485,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Plany przedpłacone mają stałe 30-dniowe cykle. 5-dniowy turysta kupujący 30-dniowy plan za ₩30 000 marnuje ~80% wartości.
     esim_title: Elastyczne plany krótkoterminowe
-    esim_desc: Roami oferuje plany 3/7/15/30-dniowe. 5-dniowa podróż kosztuje zaledwie 1,99 $ — bez 30-dniowego minimum, bez zmarnowanych danych.
+    esim_desc: Roami oferuje plany 3/7/15/30-dniowe. 30-dniowa podróż kosztuje zaledwie 37,99 $ — bez 30-dniowego minimum, bez zmarnowanych danych.
   - icon: wifi
     title: Zasady hotspotu<br>i prędkości
     prepaid_title: ''

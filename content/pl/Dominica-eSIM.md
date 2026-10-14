@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Dominika 2026: Przewodnik po planach i zasięgu | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Digicel, Flow, Orange
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Roseau, Portsmouth, Marigot, Saint Joseph, Grand Bay
-  main_packages: 3/7/15/30 dni, Nielimitowane dane
+  main_packages: 3/7/15/30 dni, dane bez limitu
 modal:
   title: Usługa zaktualizowana!
   btn_text: Kontynuuj
@@ -17,12 +17,10 @@ modal:
   text_android: 'Nasza usługa eSIM została zaktualizowana do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
   title: eSIM Dominika | Najlepsze prepaid dane 5G na Twój pobyt
-  description: Planujesz podróż na Dominikę? Uzyskaj najlepszy prepaid eSIM od Roami z nielimitowanymi danymi 5G. Obejmuje Roseau
-    i wszystkie parafie. Natychmiastowa aktywacja.
-  keywords: eSIM Dominika, kup eSIM Dominika, najlepszy eSIM Dominika, podróżna eSIM Dominika, Digicel Dominika, Flow Dominika, Orange
-    Dominika, eSIM Roseau, eSIM Portsmouth, eSIM Marigot, prepaid eSIM Dominika, 5G eSIM Dominika
-  low_price: 1.99
-  high_price: 39.9
+  description: Planujesz podróż na Dominikę? Uzyskaj najlepszy prepaid eSIM od Roami z nielimitowanymi danymi 5G. Obejmuje Roseau i wszystkie parafie. Ceny od 11,99 $.
+  keywords: Dominika eSIM, najlepsza eSIM Dominika, kup Dominika eSIM, plany eSIM Dominika, Dominika eSIM cena, eSIM podróżny Dominika, najlepszy Dominika eSIM, Dominika eSIM nielimitowane, jak aktywować eSIM Dominika, przedpłacony eSIM Dominika, Dominika eSIM opinie, Dominika 5G eSIM, Digicel Dominika, Roseau eSIM, Portsmouth eSIM, Marigot eSIM
+  low_price: 11.99
+  high_price: 52.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -230,7 +228,7 @@ faq_section:
     - q: |
         Co jeśli mój hotel na Dominice ma darmowe WiFi – czy nadal potrzebuję danych eSIM?
       a: |
-        WiFi w hotelu działa w pokoju, ale nie gdy jesteś na zwiedzaniu. eSIM daje Ci dane wszędzie – nawigację po ulicach, wyszukiwanie pobliskich miejsc, sprawdzanie rozkładów transportu. Plan 5 GB kosztuje 9,99 $, co często jest tańsze niż płatne WiFi w hotelu na tydzień (10-15 $ w wielu hotelach). Większość podróżnych używa WiFi w hotelu do dużych pobrań, a eSIM do łączności w podróży.
+        WiFi w hotelu działa w pokoju, ale nie gdy jesteś na zwiedzaniu. eSIM daje Ci dane wszędzie – nawigację po ulicach, wyszukiwanie pobliskich miejsc, sprawdzanie rozkładów transportu. Plan 5 GB kosztuje 37,99 $, co często jest tańsze niż płatne WiFi w hotelu na tydzień (10-15 $ w wielu hotelach). Większość podróżnych używa WiFi w hotelu do dużych pobrań, a eSIM do łączności w podróży.
     - q: |
         Jak eSIM wypada w porównaniu z przenośnym WiFi podczas podróży na Dominikę?
       a: |
@@ -238,7 +236,7 @@ faq_section:
     - q: |
         Potrzebuję dostępu do internetu tylko na kilka dni na Dominice. Jaki jest minimalny pakiet, jaki mogę kupić?
       a: |
-        Najtańszy plan kosztuje 1,99 $ za 7 dni z 1 GB – idealny na krótki weekendowy wyjazd z umiarkowanym użyciem. Jeśli potrzebujesz więcej, doładuj w dowolnym momencie z aplikacji.
+        Najtańszy plan kosztuje 11,99 $ za 7 dni z 1 GB – idealny na krótki weekendowy wyjazd z umiarkowanym użyciem. Jeśli potrzebujesz więcej, doładuj w dowolnym momencie z aplikacji.
     - q: |
         Jaka jest różnica między planem 5 GB a planem nielimitowanym na Dominikę?
       a: |
@@ -251,63 +249,75 @@ faq_section:
         Czy eSIM Dominika działa na obszarach wiejskich i w mniejszych miastach?
       a: |
         Zasięg na Dominice sięga około 95% obszarów miejskich, ale spada w odległych lokalizacjach. Prędkości mogą spaść z 200-300 Mb/s (5G) do 10-30 Mb/s (4G). Roami automatycznie przełącza się na najsilniejszą sieć. Pobierz mapy offline przed udaniem się w odległe miejsca.
+    - q: |
+        Jak dodać eSIM Dominika na iPhone z numerem Digicel?
+      a: |
+        Wejdź w Ustawienia > Komórkowe > Dodaj eSIM i zeskanuj kod QR z e-maila. Twoja linia Digicel pozostaje aktywna przez cały czas.
+    - q: |
+        Dlaczego eSIM Dominika opłaca się bardziej niż oferta Digicel?
+      a: |
+        Jest przedpłacony i nie odnawia się automatycznie, więc po powrocie nie ma dodatkowych opłat. Kupujesz i aktywujesz online — bez szukania salonu Digicel, co oszczędza czas i pieniądze.
+    - q: |
+        Co się stanie z linią Digicel, gdy przekroczę limit danych w eSIM Dominika?
+      a: |
+        Po wykorzystaniu danych linia eSIM zostaje wstrzymana i nie ma automatycznego obciążenia. W razie potrzeby dokup nowy plan na tym samym koncie — bez wizyty w salonie Digicel.
 related_products:
   title: Powiązane plany eSIM Dominika
   items:
-  - name: eSIM Stany Zjednoczone
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Europa
+  - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: Tajwan eSIM
+    flag: img/flags/tw.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Turcja
-    flag: img/flags/tr.svg
+  - name: Szwajcaria eSIM
+    flag: img/flags/ch.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Chiny
-    flag: img/flags/cn.svg
+  - name: Fidżi eSIM
+    flag: img/flags/fj.svg
+    price: Od 6,99 $
+    is_highlight: false
+  - name: Estonia eSIM
+    flag: img/flags/ee.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Japonia
-    flag: img/flags/jp.svg
+  - name: Dania eSIM
+    flag: img/flags/dk.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
+  - name: Seszele eSIM
+    flag: img/flags/sc.svg
+    price: Od 9,99 $
+    is_highlight: false
+  - name: Chorwacja eSIM
+    flag: img/flags/hr.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Francja
-    flag: img/flags/fr.svg
+  - name: Kenia eSIM
+    flag: img/flags/ke.svg
+    price: Od 7,99 $
+    is_highlight: false
+  - name: Singapur eSIM
+    flag: img/flags/sg.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Hiszpania
-    flag: img/flags/es.svg
-    price: Od 1,99 $
+  - name: Malediwy eSIM
+    flag: img/flags/mv.svg
+    price: Od 14,99 $
     is_highlight: false
-  - name: eSIM Niemcy
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
+  - name: Białoruś eSIM
+    flag: img/flags/by.svg
     price: Od 1,99 $
     is_highlight: false
 market_analysis:
   title: 'eSIM Dominika vs lokalna karta SIM prepaid: Co jest wygodniejsze?'
   subtitle: 'Lokalne karty SIM prepaid na Dominice vs. rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Dominika) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Dominica
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna karta SIM prepaid (dane rynkowe)

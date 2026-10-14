@@ -69,7 +69,7 @@
         <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-4">
             {{ range .Params.popular.items }}
             <!-- 修复点：增加 relLangURL 处理多语言路径 -->
-            <a href="{{ .url | relLangURL }}" class="group block bg-slate-50 rounded-2xl p-4 border border-slate-200 hover:border-blue-400 hover:shadow-md transition-all">
+            <a href="{{ partial "langurl.html" .url }}" class="group block bg-slate-50 rounded-2xl p-4 border border-slate-200 hover:border-blue-400 hover:shadow-md transition-all">
                 <div class="flex items-center gap-3 mb-3">
                     <img src="{{ .flag }}" alt="{{ .name }}" width="32" height="24" class="w-8 h-6 object-cover shadow-sm border border-slate-200 rounded-sm">
                     <h3 class="font-bold text-slate-900 group-hover:text-blue-600 transition-colors">{{ .name }}</h3>
@@ -103,7 +103,7 @@
                     <div id="noResultsMsg" class="hidden absolute top-0 left-0 w-full text-center py-8 text-slate-500 text-sm">
                         <svg class="w-12 h-12 mx-auto text-slate-300 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                         {{ .Params.sidebar.no_results_text }}<br>
-                        <a href="{{ .Params.sidebar.no_results_link_url | relLangURL }}" class="text-blue-600 hover:underline mt-2 inline-block">{{ .Params.sidebar.no_results_link_text | safeHTML }}</a>
+                        <a href="{{ partial "langurl.html" .Params.sidebar.no_results_link_url }}" class="text-blue-600 hover:underline mt-2 inline-block">{{ .Params.sidebar.no_results_link_text | safeHTML }}</a>
                     </div>
 
                     {{ range .Params.sidebar.regions }}
@@ -160,12 +160,12 @@
                     
                    <div class="mt-4 pt-5 border-t border-slate-100 flex flex-col sm:flex-row gap-3 justify-end">
     <!-- 详情按钮 -->
-    <a href="{{ .btn_details_url | relLangURL }}" class="inline-flex items-center justify-center px-5 py-2.5 bg-white border border-slate-300 hover:bg-slate-50 text-slate-700 text-sm font-medium rounded-xl transition-colors">
+    <a href="{{ partial "langurl.html" .btn_details_url }}" class="inline-flex items-center justify-center px-5 py-2.5 bg-white border border-slate-300 hover:bg-slate-50 text-slate-700 text-sm font-medium rounded-xl transition-colors">
         {{ .btn_details_text }}
     </a>
     
     <!-- 购买按钮 -->
-    <a href="{{ .btn_buy_url | relLangURL }}" class="inline-flex items-center justify-center gap-2 px-6 py-2.5 bg-blue-600 hover:bg-blue-700 text-white text-sm font-bold rounded-xl transition-colors shadow-sm">
+    <a href="{{ partial "langurl.html" .btn_buy_url }}" class="inline-flex items-center justify-center gap-2 px-6 py-2.5 bg-blue-600 hover:bg-blue-700 text-white text-sm font-bold rounded-xl transition-colors shadow-sm">
         {{ .btn_buy_text }}
         <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>

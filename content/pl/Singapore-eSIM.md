@@ -1,6 +1,6 @@
 ---
 title: 'Singapur eSIM - Zasięg 5G na całej wyspie | Bez kolejek na lotnisku | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -16,11 +16,11 @@ modal:
   text_default: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIMGo</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
   text_android: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
-  title: Singapur eSIM - Najlepszy przedpłacony plan 5G na całej wyspie
-  description: Zdobądź najlepszą eSIM dla Singapuru z 5G na całej wyspie na Singtel, StarHub i M1. Bez kolejek paszportowych na Changi — natychmiastowa dostawa QR. Idealna dla Marina Bay, Sentosa i Orchard Road. Plany od 1,99 $.
-  keywords: Singapur eSIM, kup Singapur eSIM, najlepsza Singapur eSIM, eSIM podróżny Singapur, Singtel Singapur, StarHub Singapur, M1 Singapur, Singapur eSIM, Jurong East eSIM, Tampines eSIM, przedpłacony eSIM Singapur, 5G Singapur eSIM, Marina Bay eSIM, Sentosa eSIM
+  title: Singapur eSIM - nielimitowane dane 5G
+  description: Zdobądź najlepszą eSIM dla Singapuru z 5G na całej wyspie na Singtel, StarHub i M1. Idealna dla Marina Bay, Sentosa i Orchard Road. Plany od 1,99 $.
+  keywords: Singapur eSIM, najlepsza eSIM Singapur, kup Singapur eSIM, plany eSIM Singapur, Singapur eSIM cena, eSIM podróżny Singapur, najlepszy Singapur eSIM, Singapur eSIM nielimitowane, jak aktywować eSIM Singapur, przedpłacony eSIM Singapur, Singapur eSIM opinie, Singapur 5G eSIM, Singtel Singapur, Jurong East eSIM, Tampines eSIM, Woodlands eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 65.99
 order_summary:
   title: Wybrany plan
   label_data: Zawarte dane
@@ -404,63 +404,75 @@ faq_section:
         Kiedy zaczyna się okres ważności mojego eSIM dla Singapuru?
       a: |
         Ważność planu rozpoczyna się po połączeniu z lokalną siecią w Singapurze, a nie w momencie zakupu lub instalacji. Możesz więc kupić i zainstalować tygodnie przed podróżą bez utraty dni planu. Plan 7-dniowy daje 7 pełnych dni od pierwszego połączenia.
+    - q: |
+        Czy eSIM Singapur można zainstalować przed przylotem, nie zmieniając karty Singtel?
+      a: |
+        Tak. Zainstaluj profil przed wyjazdem, a po przylocie włącz linię — eSIM połączy się z siecią Singtel automatycznie. Okres ważności zaczyna się od pierwszego połączenia z obsługiwaną siecią.
+    - q: |
+        Od jakiej kwoty zaczynają się plany eSIM Singapur w porównaniu z Singtel?
+      a: |
+        Plany eSIM Roami Singapur zaczynają się od najtańszych pakietów o małym limicie. Lokalne plany Singtel wymagają zwykle umowy i rejestracji, a Roami daje krótkie plany dopasowane do długości podróży.
+    - q: |
+        Czy eSIM Singapur odnawia się automatycznie, inaczej niż Singtel?
+      a: |
+        Nie. Wszystkie plany są przedpłacone i nie odnawiają się same. Po zakończeniu podróży nie ma dodatkowych obciążeń, co jest bardziej przewidywalne niż abonament Singtel.
 related_products:
   title: Powiązane plany eSIM dla Singapuru
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania eSIM
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Burkina Faso eSIM
+    flag: img/flags/bf.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Guam eSIM
+    flag: img/flags/gu.svg
+    price: Od 9,99 $
+    is_highlight: false
+  - name: Kirgistan eSIM
+    flag: img/flags/kg.svg
+    price: Od 4,99 $
+    is_highlight: false
+  - name: Rumunia eSIM
+    flag: img/flags/ro.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
+  - name: Nigeria eSIM
+    flag: img/flags/ng.svg
+    price: Od 5,99 $
+    is_highlight: false
+  - name: Austria eSIM
+    flag: img/flags/at.svg
     price: Od 1,99 $
     is_highlight: false
   - name: Chiny eSIM
     flag: img/flags/cn.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
+  - name: Filipiny eSIM
+    flag: img/flags/ph.svg
+    price: Od 2,99 $
+    is_highlight: false
+  - name: Watykan eSIM
+    flag: img/flags/va.svg
+    price: Od 10,99 $
+    is_highlight: false
+  - name: Szwajcaria eSIM
+    flag: img/flags/ch.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Hongkong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: Od 1,99 $
+  - name: Tanzania eSIM
+    flag: img/flags/tz.svg
+    price: Od 7,99 $
     is_highlight: false
 market_analysis:
   title: 'Singapur eSIM a lokalna przedpłacona SIM: wygoda vs koszt'
   subtitle: 'Lokalne przedpłacone karty SIM w Singapurze a rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Singapur) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Singapore
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna przedpłacona SIM (dane rynkowe)

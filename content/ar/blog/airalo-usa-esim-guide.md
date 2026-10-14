@@ -24,7 +24,7 @@ products:
     flag: "/img/flags/us.svg"
     price: "ابتداءً من 1.99 دولار"
     is_highlight: true
-    slug: "usa"
+    slug: "united-states"
   - name: "eSIM كندا"
     flag: "/img/flags/ca.svg"
     price: "ابتداءً من 1.99 دولار"
@@ -39,7 +39,7 @@ products:
     flag: "/img/flags/gb.svg"
     price: "ابتداءً من 1.99 دولار"
     is_highlight: false
-    slug: "uk"
+    slug: "united-kingdom"
   - name: "eSIM فرنسا"
     flag: "/img/flags/fr.svg"
     price: "ابتداءً من 1.99 دولار"

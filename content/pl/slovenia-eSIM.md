@@ -1,9 +1,9 @@
 ---
-title: "Słowenia eSIM | Najlepsze nielimitowane dane 5G dla odkrywców"
-description: "Przygotuj się na Słowenię z najlepszą prepaid eSIM podróżną od Roami. Nielimitowane dane 5G w całym kraju. Natychmiastowa aktywacja. Obejmuje Lublanę, Bled i Maribor."
-keywords: Słowenia eSIM, eSIM Słowenia, tania eSIM Słowenia, internet podróżny Słowenia, A1 Słowenia, Telekom Slovenije, natychmiastowa eSIM, brak opłat roamingowych
+title: "Słowenia eSIM | Zasięg 5G i aktywacja QR"
+description: "Przygotuj się na Słowenię z najlepszą prepaid eSIM podróżną od Roami. Nielimitowane dane 5G w całym kraju. Natychmiastowa aktywacja. Ceny od 1,99 $."
+keywords: Słowenia eSIM, najlepsza eSIM Słowenia, kup Słowenia eSIM, plany eSIM Słowenia, Słowenia eSIM cena, eSIM podróżny Słowenia, najlepszy Słowenia eSIM, Słowenia eSIM nielimitowane, jak aktywować eSIM Słowenia, przedpłacony eSIM Słowenia, Słowenia eSIM opinie, Słowenia 5G eSIM, A1 Słowenia, Lublana eSIM, Maribor eSIM, Kranj eSIM
 layout: "esim"
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,11 +21,11 @@ modal:
   text_android: |
     Nasza usługa eSIM została uaktualniona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20
 seo:
-  title: "Słowenia eSIM | Najlepsze nielimitowane dane 5G dla odkrywców"
-  description: "Przygotuj się na Słowenię z najlepszą prepaid eSIM podróżną od Roami. Nielimitowane dane 5G w całym kraju. Natychmiastowa aktywacja. Obejmuje Lublanę, Bled i Maribor."
-  keywords: Słowenia eSIM, eSIM Słowenia, tania eSIM Słowenia, internet podróżny Słowenia, A1 Słowenia, Telekom Slovenije, natychmiastowa eSIM, brak opłat roamingowych
+  title: "Słowenia eSIM | Zasięg 5G i aktywacja QR"
+  description: "Przygotuj się na Słowenię z najlepszą prepaid eSIM podróżną od Roami. Nielimitowane dane 5G w całym kraju. Natychmiastowa aktywacja. Ceny od 1,99 $."
+  keywords: Słowenia eSIM, najlepsza eSIM Słowenia, kup Słowenia eSIM, plany eSIM Słowenia, Słowenia eSIM cena, eSIM podróżny Słowenia, najlepszy Słowenia eSIM, Słowenia eSIM nielimitowane, jak aktywować eSIM Słowenia, przedpłacony eSIM Słowenia, Słowenia eSIM opinie, Słowenia 5G eSIM, A1 Słowenia, Lublana eSIM, Maribor eSIM, Kranj eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -386,56 +386,68 @@ faq_section:
     - q: |
         Wyjeżdżam do Słowenii na 2-3 dni. Jaką eSIM powinienem wybrać?
       a: |
-        Na krótką podróż plan 1GB/7 dni (1,99 $) wystarczy na mapy i komunikację. Jeśli planujesz korzystać z mediów społecznościowych i udostępniać zdjęcia, plan 3GB (4,99 $) daje więcej swobody. Oba aktywują się natychmiast, a w razie potrzeby możesz doładować.
+        Na krótką podróż plan 1GB/7 dni (2,99 $) wystarczy na mapy i komunikację. Jeśli planujesz korzystać z mediów społecznościowych i udostępniać zdjęcia, plan 3GB (4,99 $) daje więcej swobody. Oba aktywują się natychmiast, a w razie potrzeby możesz doładować.
+    - q: |
+        Czy eSIM Słowenia można zainstalować przed przylotem, nie zmieniając karty A1?
+      a: |
+        Tak. Zainstaluj profil przed wyjazdem, a po przylocie włącz linię — eSIM połączy się z siecią A1 automatycznie. Okres ważności zaczyna się od pierwszego połączenia z obsługiwaną siecią.
+    - q: |
+        Od jakiej kwoty zaczynają się plany eSIM Słowenia w porównaniu z A1?
+      a: |
+        Plany eSIM Roami Słowenia zaczynają się od najtańszych pakietów o małym limicie. Lokalne plany A1 wymagają zwykle umowy i rejestracji, a Roami daje krótkie plany dopasowane do długości podróży.
+    - q: |
+        Czy eSIM Słowenia odnawia się automatycznie, inaczej niż A1?
+      a: |
+        Nie. Wszystkie plany są przedpłacone i nie odnawiają się same. Po zakończeniu podróży nie ma dodatkowych obciążeń, co jest bardziej przewidywalne niż abonament A1.
 related_products:
-  title: Powiązane plany eSIM
+  title: Powiązane plany eSIM - Słowenia
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Kolumbia eSIM
+    flag: img/flags/co.svg
+    price: Od 4,99 $
+    is_highlight: false
+  - name: Peru eSIM
+    flag: img/flags/pe.svg
+    price: Od 4,99 $
+    is_highlight: false
+  - name: Malawi eSIM
+    flag: img/flags/mw.svg
+    price: Od 14,99 $
+    is_highlight: false
+  - name: Wielka Brytania eSIM
+    flag: img/flags/gb.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
+  - name: Afganistan eSIM
+    flag: img/flags/af.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Indie eSIM
+    flag: img/flags/in.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Szwajcaria eSIM
+    flag: img/flags/ch.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
+  - name: Madagaskar eSIM
+    flag: img/flags/mg.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Holandia eSIM
+    flag: img/flags/nl.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
+  - name: Gwadelupa eSIM
+    flag: img/flags/gp.svg
+    price: Od 8,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Malta eSIM
+    flag: img/flags/mt.svg
     price: Od 1,99 $
     is_highlight: false
 ---

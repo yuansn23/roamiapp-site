@@ -224,7 +224,7 @@ reminders:
   title: 'Dicas de Configuração do El Salvador eSIM: O que Saber Antes de Viajar'
   items:
   - icon: 📱
-    html: Verifique se seu telefone é <a href="/pt/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
+    html: Verifique se seu telefone é <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
       font-bold transition-colors">compatível com eSIM</a> antes de comprar.
   - icon: ✈️
     html: Recomendamos ativar a linha após chegar em El Salvador.
@@ -272,7 +272,7 @@ faq_section:
     - q: |
         E se meu telefone não suportar eSIM? Ainda posso ter internet em El Salvador?
       a: |
-        Se seu telefone não tem eSIM (sem EID ao discar *#06#), você tem opções alternativas: Alugue um dispositivo WiFi portátil (cerca de $3-5 por dia em El Salvador), ou compre um SIM físico no aeroporto. No entanto, a maioria dos telefones dos últimos 3-4 anos funcionam bem. Verifique nossa página de [compatibilidade eSIM](/pt/compatibility/) para confirmar seu modelo antes de comprar.
+        Se seu telefone não tem eSIM (sem EID ao discar *#06#), você tem opções alternativas: Alugue um dispositivo WiFi portátil (cerca de $3-5 por dia em El Salvador), ou compre um SIM físico no aeroporto. No entanto, a maioria dos telefones dos últimos 3-4 anos funcionam bem. Verifique nossa página de [compatibilidade eSIM](/compatibility/) para confirmar seu modelo antes de comprar.
     - q: |
         Qual rede em El Salvador tem a melhor cobertura para viajantes — Tigo, Claro ou Movistar?
       a: |

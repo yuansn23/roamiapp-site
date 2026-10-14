@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Kolumbia 2026: Przewodnik po połączeniu i prędkości | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Claro, Movistar, Tigo
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Bogota, Medellín, Cartagena, Cali, Barranquilla
-  main_packages: 3/7/15/30 dni, Nielimitowane dane
+  main_packages: 3/7/15/30 dni, nielimitowane dane
 modal:
   title: Usługa zaktualizowana!
   btn_text: Kontynuuj
@@ -18,12 +18,10 @@ modal:
   text_android: 'Nasza usługa eSIM została zaktualizowana do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
   title: eSIM Kolumbia | Najlepsze prepaid dane 5G na Twoją podróż
-  description: Uzyskaj najlepszy prepaid eSIM do Kolumbii od Roami. Nielimitowane dane 5G w najlepszych sieciach. Obejmuje Bogotę,
-    Medellín i Cartagenę. Natychmiastowa aktywacja.
-  keywords: eSIM Kolumbia, kup eSIM Kolumbia, najlepszy eSIM Kolumbia, podróżna eSIM Kolumbia, Claro Kolumbia, Movistar Kolumbia,
-    Tigo Kolumbia, eSIM Bogota, eSIM Medellín, eSIM Cartagena, prepaid eSIM Kolumbia, 5G eSIM Kolumbia
-  low_price: 1.99
-  high_price: 39.9
+  description: Uzyskaj najlepszy prepaid eSIM do Kolumbii od Roami. Nielimitowane dane 5G w najlepszych sieciach. Obejmuje Bogotę, Medellín i Cartagenę. Od 4,99 $.
+  keywords: Kolumbia eSIM, najlepsza eSIM Kolumbia, kup Kolumbia eSIM, plany eSIM Kolumbia, Kolumbia eSIM cena, eSIM podróżny Kolumbia, najlepszy Kolumbia eSIM, Kolumbia eSIM nielimitowane, jak aktywować eSIM Kolumbia, przedpłacony eSIM Kolumbia, Kolumbia eSIM opinie, Kolumbia 5G eSIM, Claro Kolumbia, Bogota eSIM, Medellín eSIM, Cartagena eSIM
+  low_price: 4.99
+  high_price: 86.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -345,7 +343,7 @@ faq_section:
     - q: |
         Jakie są najtańsze opcje eSIM na podróż do Kolumbii?
       a: |
-        Plany eSIM Roami Kolumbia zaczynają się od 1,99 $ (7 dni, 1GB) i sięgają 59,99 $ (30 dni nielimitowane). Na typową 5-7 dniową podróż plan 5 GB za 9,99 $ jest optymalny – wystarcza na mapy, komunikatory i przeglądanie mediów społecznościowych. Potrzebujesz streamować wideo lub pracować zdalnie? Wybierz 10 GB lub nielimitowany. Dzięki sieci 5G Claro streaming i rozmowy wideo działają świetnie. Kioski z SIM na lotnisku pobierają 30-50% więcej, a do tego trzeba czekać w kolejce. Nie wiesz, ile danych potrzebujesz? Zacznij od małego pakietu i doładuj przez aplikację bez zmiany eSIM.
+        Plany eSIM Roami Kolumbia zaczynają się od 6,99 $ (7 dni, 1GB) i sięgają 4,99 $ (30 dni nielimitowane). Na typową 5-7 dniową podróż plan 5 GB za 14,99 $ jest optymalny – wystarcza na mapy, komunikatory i przeglądanie mediów społecznościowych. Potrzebujesz streamować wideo lub pracować zdalnie? Wybierz 10 GB lub nielimitowany. Dzięki sieci 5G Claro streaming i rozmowy wideo działają świetnie. Kioski z SIM na lotnisku pobierają 30-50% więcej, a do tego trzeba czekać w kolejce. Nie wiesz, ile danych potrzebujesz? Zacznij od małego pakietu i doładuj przez aplikację bez zmiany eSIM.
     - q: |
         Jak wypadają Claro, Movistar i Tigo dla turysty odwiedzającego Kolumbię?
       a: |
@@ -365,7 +363,7 @@ faq_section:
     - q: |
         Co jeśli mój hotel w Kolumbii ma darmowe WiFi – czy nadal potrzebuję danych eSIM?
       a: |
-        WiFi w hotelu działa w pokoju, ale nie gdy jesteś na zwiedzaniu. eSIM daje Ci dane wszędzie – nawigację po ulicach, wyszukiwanie pobliskich miejsc, sprawdzanie rozkładów transportu. Plan 5 GB kosztuje 9,99 $, co często jest tańsze niż płatne WiFi w hotelu na tydzień (10-15 $ w wielu hotelach). Większość podróżnych używa WiFi w hotelu do dużych pobrań, a eSIM do łączności w podróży.
+        WiFi w hotelu działa w pokoju, ale nie gdy jesteś na zwiedzaniu. eSIM daje Ci dane wszędzie – nawigację po ulicach, wyszukiwanie pobliskich miejsc, sprawdzanie rozkładów transportu. Plan 5 GB kosztuje 14,99 $, co często jest tańsze niż płatne WiFi w hotelu na tydzień (10-15 $ w wielu hotelach). Większość podróżnych używa WiFi w hotelu do dużych pobrań, a eSIM do łączności w podróży.
     - q: |
         Ile profili eSIM mogę przechowywać w telefonie na podróż do Kolumbii?
       a: |
@@ -373,64 +371,76 @@ faq_section:
     - q: |
         Wyjeżdżam do Kolumbii tylko na 2-3 dni. Jaki eSIM powinienem wybrać?
       a: |
-        Na krótką podróż plan 1 GB / 7 dni (1,99 $) wystarcza na mapy i komunikatory. Jeśli planujesz korzystać z mediów społecznościowych i udostępniać zdjęcia, plan 3 GB (4,99 $) daje więcej swobody. Oba aktywują się natychmiast, a w razie potrzeby możesz doładować.
+        Na krótką podróż plan 1 GB / 7 dni (6,99 $) wystarcza na mapy i komunikatory. Jeśli planujesz korzystać z mediów społecznościowych i udostępniać zdjęcia, plan 3 GB (9,99 $) daje więcej swobody. Oba aktywują się natychmiast, a w razie potrzeby możesz doładować.
+    - q: |
+        Jak skonfigurować eSIM Kolumbia na Androidzie z kartą Claro?
+      a: |
+        Wejdź w Ustawienia > Sieć i internet > SIM > Pobierz eSIM i zeskanuj kod QR. Aby korzystać z karty Claro i eSIM razem, ustaw Roami jako linię danych.
+    - q: |
+        Czy w cenie eSIM Kolumbia są ukryte opłaty w porównaniu z Claro?
+      a: |
+        Nie. Poza ceną planu nie ma opłaty aktywacyjnej ani dopłaty za roaming. Przedpłacone karty Claro często wymagają opłaty rejestracyjnej lub minimalnego doładowania.
+    - q: |
+        Czy prędkość w eSIM Kolumbia spada po wykorzystaniu limitu w sieci Claro?
+      a: |
+        eSIM Roami Kolumbia działa z pełną prędkością do wyczerpania limitu, a potem połączenie wstrzymuje się do dokupienia danych w aplikacji — bez kontaktu z Claro. Cena nie rośnie nagle.
 related_products:
   title: Powiązane plany eSIM Kolumbia
   items:
-  - name: eSIM Stany Zjednoczone
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Europa
+  - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: Reunion eSIM
+    flag: img/flags/re.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Turcja
-    flag: img/flags/tr.svg
+  - name: Gwadelupa eSIM
+    flag: img/flags/gp.svg
+    price: Od 8,99 $
+    is_highlight: false
+  - name: Bośnia i Hercegowina eSIM
+    flag: img/flags/ba.svg
+    price: Od 30,99 $
+    is_highlight: false
+  - name: Niger eSIM
+    flag: img/flags/ni.svg
+    price: Od 23,99 $
+    is_highlight: false
+  - name: Salwador eSIM
+    flag: img/flags/sv.svg
+    price: Od 23,99 $
+    is_highlight: false
+  - name: Norwegia eSIM
+    flag: img/flags/no.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Chiny
-    flag: img/flags/cn.svg
+  - name: Indonezja eSIM
+    flag: img/flags/id.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Japonia
-    flag: img/flags/jp.svg
+  - name: Rosja eSIM
+    flag: img/flags/ru.svg
+    price: Od 2,99 $
+    is_highlight: false
+  - name: Azerbejdżan eSIM
+    flag: img/flags/az.svg
+    price: Od 6,99 $
+    is_highlight: false
+  - name: Katar eSIM
+    flag: img/flags/qa.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Francja
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Hiszpania
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Niemcy
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
+  - name: Islandia eSIM
+    flag: img/flags/is.svg
     price: Od 1,99 $
     is_highlight: false
 market_analysis:
   title: 'eSIM Kolumbia czy karta SIM: Jaka jest najlepsza opcja w 2026?'
   subtitle: 'Lokalne karty SIM prepaid w Kolumbii vs. rozwiązania eSIM (benchmark 2025/2026)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Kolumbia) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Colombia
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna karta SIM prepaid (dane rynkowe)

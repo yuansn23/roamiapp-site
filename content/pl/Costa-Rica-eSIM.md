@@ -1,6 +1,6 @@
 ---
 title: 'Kostaryka eSIM 2026: Przewodnik podróży i sieci | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Nasza usługa eSIM została uaktualniona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
   title: Kostaryka eSIM | Najlepszy zasięg 5G dla odkrywców
-  description: Odkrywaj Kostarykę z najlepszą prepaid eSIM podróżną od Roami. Nielimitowane dane 5G w całym kraju. Natychmiastowa aktywacja. Obejmuje San José, Liberię i wszystkie regiony.
-  keywords: Kostaryka eSIM, kup Kostaryka eSIM, najlepsza Kostaryka eSIM, eSIM podróżna Kostaryka, Liberty Kostaryka, Claro Kostaryka, ICE Kostaryka, eSIM San José, eSIM Alajuela, eSIM Heredia, prepaid eSIM Kostaryka, 5G Kostaryka eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Odkrywaj Kostarykę z najlepszą prepaid eSIM podróżną od Roami. Nielimitowane dane 5G w całym kraju. Natychmiastowa aktywacja. Plany od 9,99 $.
+  keywords: Kostaryka eSIM, najlepsza eSIM Kostaryka, kup Kostaryka eSIM, plany eSIM Kostaryka, Kostaryka eSIM cena, eSIM podróżny Kostaryka, najlepszy Kostaryka eSIM, Kostaryka eSIM nielimitowane, jak aktywować eSIM Kostaryka, przedpłacony eSIM Kostaryka, Kostaryka eSIM opinie, Kostaryka 5G eSIM, Liberty Kostaryka, San José eSIM, Alajuela eSIM, Heredia eSIM
+  low_price: 9.99
+  high_price: 84.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -325,7 +325,7 @@ faq_section:
     - q: |
         Czy mogę uzyskać eSIM dla Kostaryki bez wydawania zbyt dużo?
       a: |
-        Oczywiście. Plany eSIM Roami dla Kostaryki zaczynają się już od 1,99 $. Opcja 5GB/15 dni (9,99 $) jest najpopularniejsza wśród podróżników – bez problemu obsługuje mapy, WhatsApp, Instagram i e-mail. Jeśli jesteś użytkownikiem dużych danych, plany 10GB (14,99 $) lub nielimitowany (59,99 $) dają spokój ducha. Pominięcie stoiska SIM na lotnisku oszczędza 30-50% i unikasz kolejek. Potrzebujesz dostosować? Możesz doładować w dowolnym momencie z aplikacji Roami.
+        Oczywiście. Plany eSIM Roami dla Kostaryki zaczynają się już od 9,99 $. Opcja 5GB/15 dni (24,99 $) jest najpopularniejsza wśród podróżników – bez problemu obsługuje mapy, WhatsApp, Instagram i e-mail. Jeśli jesteś użytkownikiem dużych danych, plany 10GB (14,99 $) lub nielimitowany (59,99 $) dają spokój ducha. Pominięcie stoiska SIM na lotnisku oszczędza 30-50% i unikasz kolejek. Potrzebujesz dostosować? Możesz doładować w dowolnym momencie z aplikacji Roami.
     - q: |
         Jak wypada eSIM w porównaniu z przenośnym WiFi podczas podróży do Kostaryki?
       a: |
@@ -333,7 +333,7 @@ faq_section:
     - q: |
         Co otrzymuję, kupując eSIM do Kostaryki od Roami?
       a: |
-        Dostawa kodu QR w ciągu 5 minut, dostęp do sieci Kölbi, całodobowe wsparcie klienta i darmowy hotspot dla maksymalnie 5 urządzeń. Plany zaczynają się od 1,99 $. Bez umów, bez ukrytych opłat, bez automatycznego odnawiania.
+        Dostawa kodu QR w ciągu 5 minut, dostęp do sieci Kölbi, całodobowe wsparcie klienta i darmowy hotspot dla maksymalnie 5 urządzeń. Plany zaczynają się od 9,99 $. Bez umów, bez ukrytych opłat, bez automatycznego odnawiania.
     - q: |
         Jaka jest różnica między planem 5GB a planem nielimitowanym dla Kostaryki?
       a: |
@@ -346,63 +346,75 @@ faq_section:
         Z jakim wyprzedzeniem powinienem kupić eSIM do Kostaryki?
       a: |
         Możesz kupić w dowolnym momencie – nawet przy bramce. Kod QR przychodzi w ciągu kilku minut. Zalecamy zakup kilka dni wcześniej, aby zainstalować przez WiFi w domu. Plan aktywuje się dopiero po połączeniu w Kostaryce, więc wcześniejszy zakup nie marnuje dni ważności.
+    - q: |
+        Czy do aktywacji eSIM Kostaryka potrzebne są dokumenty, skoro mam już kartę Liberty?
+      a: |
+        Przedpłacona karta Liberty często wymaga rejestracji paszportu, ale eSIM Roami Kostaryka służy tylko do danych, więc aktywujesz go online bez skanowania dokumentów i wizyty w salonie.
+    - q: |
+        Ile kosztuje eSIM Kostaryka w porównaniu z przedpłaconym planem Liberty?
+      a: |
+        Zależy od planu i zużycia danych, ale w porównaniu z ofertą Liberty nie ma wizyty w salonie, rejestracji ani opłat za niewykorzystane dane. Wszystkie plany są przedpłacone.
+    - q: |
+        Czy doładowanie eSIM Kostaryka odnowi również linię Liberty?
+      a: |
+        Nie. eSIM Roami Kostaryka i fizyczna karta Liberty są niezależne — dokupienie planu eSIM nie zmienia oferty Liberty.
 related_products:
   title: Powiązane plany Kostaryka eSIM
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Szwajcaria eSIM
+    flag: img/flags/ch.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
+  - name: Cypr eSIM
+    flag: img/flags/cy.svg
+    price: Od 2,99 $
+    is_highlight: false
+  - name: Reunion eSIM
+    flag: img/flags/re.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
+  - name: Arabia Saudyjska eSIM
+    flag: img/flags/sa.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Sierra Leone eSIM
+    flag: img/flags/si.svg
+    price: Od 10,99 $
+    is_highlight: false
+  - name: Niger eSIM
+    flag: img/flags/ni.svg
+    price: Od 23,99 $
+    is_highlight: false
+  - name: Tajlandia eSIM
+    flag: img/flags/th.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
+  - name: Nigeria eSIM
+    flag: img/flags/ng.svg
+    price: Od 5,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
+  - name: Kazachstan eSIM
+    flag: img/flags/kz.svg
+    price: Od 3,99 $
     is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
+  - name: Guam eSIM
+    flag: img/flags/gu.svg
+    price: Od 9,99 $
     is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Włochy eSIM
+    flag: img/flags/it.svg
     price: Od 1,99 $
     is_highlight: false
 market_analysis:
   title: 'Kostaryka eSIM a plany SIM – która opcja spełni Twoje potrzeby?'
   subtitle: 'Lokalne prepaidowe SIM w Kostaryce vs rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Kostaryka) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Costa-Rica
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matryca porównawcza
   - Lokalna prepaid SIM (dane rynkowe)

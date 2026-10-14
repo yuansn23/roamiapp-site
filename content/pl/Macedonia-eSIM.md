@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Macedonia Północna 2026: Przewodnik po mieście i sieci | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -10,21 +10,18 @@ country_meta:
   operators: A1 Macedonia, Telekom Macedonia, Lycamobile
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Skopje, Ochryda, Bitola, Tetowo, Kumanowo
-  main_packages: 3/7/15/30 dni, Nielimitowane dane
+  main_packages: 3/7/15/30 dni, nielimitowane dane
 modal:
   title: Usługa zaktualizowana!
   btn_text: Kontynuuj
   text_default: 'Nasza usługa eSIM została zaktualizowana do <strong>PhoneSIMGo</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
   text_android: 'Nasza usługa eSIM została zaktualizowana do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
-  title: 'eSIM Macedonia Północna od 1,99 $: Nielimitowany zasięg 5G'
-  description: Porównaj plany eSIM Macedonia Północna z szybkim 5G w Skopje, Ochrydzie, Bitoli. Przewodnik po zasięgu A1 Macedonia,
-    Telekom Macedonia i Lycamobile dla turystów i podróżnych. Natychmiastowa aktywacja QR od 1,99 $.
-  keywords: eSIM Macedonia Północna, kup eSIM Macedonia Północna, najlepszy eSIM Macedonia Północna, podróżna eSIM Macedonia Północna,
-    A1 Macedonia, Telekom Macedonia, Lycamobile Macedonia, eSIM Skopje, eSIM Ochryda, eSIM Bitola, prepaid eSIM Macedonia
-    Północna, 5G eSIM Macedonia Północna
-  low_price: 1.99
-  high_price: 39.9
+  title: 'eSIM Macedonia Północna od 4,99 $: Nielimitowany zasięg 5G'
+  description: Porównaj plany eSIM Macedonia Północna z szybkim 5G w Skopje, Ochrydzie, Bitoli. Natychmiastowa aktywacja QR od 4,99 $.
+  keywords: Macedonia Północna eSIM, najlepsza eSIM Macedonia Północna, kup Macedonia Północna eSIM, plany eSIM Macedonia Północna, Macedonia Północna eSIM cena, eSIM podróżny Macedonia Północna, najlepszy Macedonia Północna eSIM, Macedonia Północna eSIM nielimitowane, jak aktywować eSIM Macedonia Północna, przedpłacony eSIM Macedonia Północna, Macedonia Północna eSIM opinie, Macedonia Północna 5G eSIM, A1 Macedonia Macedonia Północna, Skopje eSIM, Ochryda eSIM, Bitola eSIM
+  low_price: 4.99
+  high_price: 94.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -247,7 +244,7 @@ faq_section:
     - q: |
         Co otrzymuję, kupując eSIM Macedonia Północna od Roami?
       a: |
-        Dostawa kodu QR w ciągu 5 minut, dostęp do sieci Makedonski Telekom, całodobowa obsługa klienta i bezpłatny hotspot dla maksymalnie 5 urządzeń. Plany zaczynają się od 1,99 $. Bez umów, bez ukrytych opłat, bez automatycznego odnawiania.
+        Dostawa kodu QR w ciągu 5 minut, dostęp do sieci Makedonski Telekom, całodobowa obsługa klienta i bezpłatny hotspot dla maksymalnie 5 urządzeń. Plany zaczynają się od 4,99 $. Bez umów, bez ukrytych opłat, bez automatycznego odnawiania.
     - q: |
         Jaki jest najłatwiejszy sposób na pozostanie w kontakcie w Macedonii Północnej bez korzystania z kiosków SIM na lotnisku?
       a: |
@@ -268,55 +265,67 @@ faq_section:
         Co się stanie, jeśli wykorzystam wszystkie dane w Macedonii Północnej przed końcem ważności planu?
       a: |
         Doładuj z aplikacji Roami. Nowe dane aktywują się natychmiast – bez nowego kodu QR, bez ponownej instalacji. Zalecamy doładowanie, gdy zostanie Ci około 20% danych, aby uniknąć przerw.
+    - q: |
+        Jak skonfigurować eSIM Macedonia Północna na Androidzie z kartą A1 Macedonia?
+      a: |
+        Wejdź w Ustawienia > Sieć i internet > SIM > Pobierz eSIM i zeskanuj kod QR. Aby korzystać z karty A1 Macedonia i eSIM razem, ustaw Roami jako linię danych.
+    - q: |
+        Czy w cenie eSIM Macedonia Północna są ukryte opłaty w porównaniu z A1 Macedonia?
+      a: |
+        Nie. Poza ceną planu nie ma opłaty aktywacyjnej ani dopłaty za roaming. Przedpłacone karty A1 Macedonia często wymagają opłaty rejestracyjnej lub minimalnego doładowania.
+    - q: |
+        Czy prędkość w eSIM Macedonia Północna spada po wykorzystaniu limitu w sieci A1 Macedonia?
+      a: |
+        eSIM Roami Macedonia Północna działa z pełną prędkością do wyczerpania limitu, a potem połączenie wstrzymuje się do dokupienia danych w aplikacji — bez kontaktu z A1 Macedonia. Cena nie rośnie nagle.
 related_products:
-  title: Powiązane plany eSIM
+  title: Powiązane plany eSIM - Macedonia Północna
   items:
-  - name: eSIM Stany Zjednoczone
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Europa
+  - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: Mali eSIM
+    flag: img/flags/ml.svg
+    price: Od 27,99 $
+    is_highlight: false
+  - name: Salwador eSIM
+    flag: img/flags/sv.svg
+    price: Od 23,99 $
+    is_highlight: false
+  - name: Botswana eSIM
+    flag: img/flags/bw.svg
+    price: Od 14,99 $
+    is_highlight: false
+  - name: Irlandia eSIM
+    flag: img/flags/ie.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Turcja
-    flag: img/flags/tr.svg
+  - name: Belgia eSIM
+    flag: img/flags/be.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Chiny
-    flag: img/flags/cn.svg
-    price: Od 1,99 $
+  - name: Irak eSIM
+    flag: img/flags/iq.svg
+    price: Od 9,99 $
     is_highlight: false
-  - name: eSIM Japonia
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
+  - name: Nepal eSIM
+    flag: img/flags/ne.svg
+    price: Od 10,99 $
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
+  - name: Peru eSIM
+    flag: img/flags/pe.svg
+    price: Od 4,99 $
     is_highlight: false
-  - name: eSIM Francja
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
+  - name: Boliwia eSIM
+    flag: img/flags/bo.svg
+    price: Od 11,99 $
     is_highlight: false
-  - name: eSIM Hiszpania
-    flag: img/flags/es.svg
-    price: Od 1,99 $
+  - name: Paragwaj eSIM
+    flag: img/flags/py.svg
+    price: Od 22,99 $
     is_highlight: false
-  - name: eSIM Niemcy
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
+  - name: Singapur eSIM
+    flag: img/flags/sg.svg
     price: Od 1,99 $
     is_highlight: false
 ---

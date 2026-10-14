@@ -251,7 +251,7 @@
     <ol class="flex flex-wrap items-center gap-2">
         <li><a href="{{ relLangURL "/" }}" class="hover:text-blue-600 transition-colors">{{ i18n "home" | default "Home" }}</a></li>
         <li><span class="mx-1 text-slate-300">/</span></li>
-        <li><a href="{{ relLangURL "/carriers/" }}" class="hover:text-blue-600 transition-colors">{{ i18n "carriers" | default "Carriers" }}</a></li>
+        <li><a href="{{ partial "langurl.html" "/carriers/" }}" class="hover:text-blue-600 transition-colors">{{ i18n "carriers" | default "Carriers" }}</a></li>
         <li><span class="mx-1 text-slate-300">/</span></li>
         <li class="text-slate-800 font-medium truncate" aria-current="page">{{ $.Title }}</li>
     </ol>
@@ -687,7 +687,7 @@
                 <div class="product-grid">
                     {{ range first 10 (shuffle $products) }}
                     {{ $slug := .slug | default (.name | urlize) }}
-                    {{ $productURL := printf "/%s/" ($slug | lower) | relLangURL }}
+                    {{ $productURL := partial "langurl.html" (printf "/%s/" ($slug | lower)) }}
                     <a class="product-item" href="{{ $productURL }}">
                         <img src="{{ .flag | relURL }}" alt="{{ .name }}" class="product-flag-img" loading="lazy">
                         <div class="product-info">

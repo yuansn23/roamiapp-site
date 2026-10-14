@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Turcja - 5G w Stambule i Kapadocji | Bez paszportu | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Turkcell, Vodafone, Türk Telekom
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Stambuł, Ankara, Izmir, Antalya, Bursa
-  main_packages: 3/7/15/30 dni, Nielimitowane dane
+  main_packages: 3/7/15/30/180 dni, dane bez limitu
 modal:
   title: Usługa zaktualizowana!
   btn_text: Kontynuuj
@@ -17,11 +17,10 @@ modal:
   text_android: 'Nasza usługa eSIM została zaktualizowana do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
   title: eSIM Turcja - Najlepszy plan danych 5G | Bez paszportu
-  description: Uzyskaj najlepszy eSIM do Turcji z 5G w sieciach Turkcell, Vodafone i Türk Telekom. Bez paszportu lub dowodu
-    tożsamości — automatycznie omijaj blokady internetowe w Turcji. Pomiń zawyżanie cen na lotnisku w Stambule. Plany od 1,99 $.
-  keywords: eSIM Turcja, kup eSIM Turcja, najlepszy eSIM Turcja, podróżna eSIM Turcja, Turkcell Turcja, Vodafone Turcja, Türk Telekom Turcja, eSIM Stambuł, eSIM Ankara, eSIM Izmir, prepaid eSIM Turcja, 5G eSIM Turcja, eSIM Turcja bez paszportu, eSIM dla Kapadocji
+  description: Uzyskaj najlepszy eSIM do Turcji z 5G w sieciach Turkcell, Vodafone i Türk Telekom. Pomiń zawyżanie cen na lotnisku w Stambule. Plany od 1,99 $.
+  keywords: Turcja eSIM, najlepsza eSIM Turcja, kup Turcja eSIM, plany eSIM Turcja, Turcja eSIM cena, eSIM podróżny Turcja, najlepszy Turcja eSIM, Turcja eSIM nielimitowane, jak aktywować eSIM Turcja, przedpłacony eSIM Turcja, Turcja eSIM opinie, Turcja 5G eSIM, Turkcell Turcja, Stambuł eSIM, Ankara eSIM, Izmir eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -42,7 +41,7 @@ hero:
   flag_image: img/flags/tr.svg
   flag_alt: Flaga Turcji
   title: 'eSIM Turcja: 5G w Stambule, Kapadocji'
-  subtitle: 5G w sieciach Turkcell, Vodafone i Türk Telekom | Bez paszportu/dowodu | Omijaj lokalną cenzurę | Natychmiastowa dostawa QR
+  subtitle: 5G w sieciach Turkcell, Vodafone i Türk Telekom | Bez paszportu/dowodu | Pełny dostęp do internetu | Natychmiastowa dostawa QR
 features:
   title: 'Dlaczego podróżni do Turcji wybierają Roami: Prędkość, prywatność i wartość'
   items:
@@ -72,8 +71,8 @@ features:
     desc: Automatyczne łączenie z Turkcell, Vodafone i Türk Telekom dla najlepszego sygnału
   - icon: globe
     color: from-emerald-400 to-emerald-600
-    title: Omijanie cenzury
-    desc: Dostęp do wszystkich stron — Twitter, Facebook, Wikipedia, VPN — bez blokad
+    title: Pełny dostęp do internetu
+    desc: Dostęp do wszystkich stron i aplikacji — bez dodatkowej konfiguracji
 plans_title: 'Kup eSIM Turcja: Plany na każdy czas podróży'
 plans_data:
   3 dni:
@@ -339,7 +338,7 @@ reminders:
   - icon: 🛂
     html: <span class="font-medium">Bez paszportu:</span> Turcja wymaga paszportu + notarialnego tłumaczenia dla lokalnych SIM. Roami nie wymaga <span class="font-bold">żadnych danych</span> — bez formalności, bez wizyty w sklepie.
   - icon: 🌐
-    html: <span class="font-medium">Dostęp do wszystkich stron:</span> Turcja blokuje Twitter, Facebook, Wikipedia i VPN. Międzynarodowe routowanie Roami automatycznie omija te blokady — bez potrzeby VPN.
+    html: <span class="font-medium">Dostęp do wszystkich stron:</span> Dzięki międzynarodowemu routowaniu Roami Twoje ulubione strony, komunikatory i aplikacje działają od razu — bez dodatkowej konfiguracji.
   - icon: 🕌
     html: <span class="font-medium">Lokalna wskazówka:</span> Pobierz aplikację <span class="font-medium">Google Translate</span> z offline'owym pakietem tureckim — pomaga z menu, znakami i targowaniem na Wielkim Bazarze.
   compatibility_check:
@@ -368,8 +367,8 @@ activation_steps:
     desc: Po przylocie do Turcji włącz swojego eSIM Turcja w ustawieniach, aby rozpocząć korzystanie z danych. Zalecamy połączenie z WiFi podczas początkowej aktywacji.
     is_list: false
 faq_section:
-  title: "Przewodnik po eSIM Turcja: 5G, omijanie cenzury i wskazówki dla turystów"
-  desc: "Kompletny przewodnik po prędkościach internetu eSIM, zasięgu sieci i jakości połączenia dla podróżnych w Turcji. Dowiedz się, jakich prędkości się spodziewać, jak omijać blokady i gdzie eSIM działa najlepiej."
+  title: "Przewodnik po eSIM Turcja: 5G, zasięg sieci i wskazówki dla turystów"
+  desc: "Kompletny przewodnik po prędkościach internetu eSIM, zasięgu sieci i jakości połączenia dla podróżnych w Turcji. Dowiedz się, jakich prędkości się spodziewać, jak działa roaming i gdzie eSIM działa najlepiej."
   categories:
   - id: faq-general
     icon: help-circle
@@ -381,9 +380,9 @@ faq_section:
       a: |
         Zgadza się — eSIM Roami do Turcji nie wymaga paszportu ani weryfikacji tożsamości. Oto dlaczego to ważne: tureckie prawo wymaga rejestracji wszystkich lokalnych kart prepaid z paszportem. Jeśli Twój paszport używa alfabetu innego niż łaciński (np. chiński, arabski, rosyjski), musisz również dostarczyć <strong>notarialne tłumaczenie</strong> — proces, który może zająć godziny i kosztować dodatkowo. Tureckie karty SIM kosztują również 350+ TL (~11 $) bez żadnych danych wliczonych. Roami to międzynarodowy eSIM danych, który całkowicie omija te wymagania. Kup online, zeskanuj QR, jedź.
     - q: |
-        Turcja blokuje Twitter, Facebook i Wikipedia — czy nadal mogę z nich korzystać z Roami?
+        Czy moje ulubione aplikacje i serwisy działają z eSIM Roami w Turcji?
       a: |
-        Tak. Tureccy operatorzy (Turkcell, Vodafone, Türk Telekom) są prawnie zobowiązani do blokowania dostępu do Twittera, Facebooka, Wikipedii, YouTube i wielu usług VPN. eSIM Roami kieruje dane przez serwery międzynarodowe, <strong>automatycznie omijając te blokady</strong>. Nie potrzebujesz osobnego VPN — wszystkie Twoje aplikacje działają tak samo jak w domu. Instagram, WhatsApp, Mapy Google i usługi streamingowe działają normalnie.
+        Tak. Dzięki międzynarodowemu routowaniu Roami Twoje ulubione serwisy i aplikacje — Instagram, WhatsApp, Mapy Google, YouTube i serwisy streamingowe — działają tak samo jak w domu. Nie musisz nic konfigurować ani instalować dodatkowego oprogramowania.
     - q: |
         Który turecki operator jest najlepszy — Turkcell, Vodafone czy Türk Telekom?
       a: |
@@ -407,7 +406,7 @@ faq_section:
     - q: |
         Czy kupno karty SIM na lotnisku w Stambule jest naprawdę takie złe?
       a: |
-        Niestety tak. Ceny SIM na lotnisku są <strong>3-5 razy wyższe</strong> niż w sklepach w centrum. Turyści zgłaszają płacenie 500-900 TL (~15-28 $) za podstawową SIM z minimalnymi danymi. Wielu jest również obciążanych dodatkową opłatą 100+ TL „za usługę tłumaczenia”, jeśli ich paszport używa alfabetu innego niż łaciński. Sklepy na lotnisku mają również długie kolejki i ograniczone godziny otwarcia. Roami kosztuje <strong>1,99 $ za 3 dni</strong> — oszczędzasz pieniądze i całkowicie omijasz kolejkę.
+        Niestety tak. Ceny SIM na lotnisku są <strong>3-5 razy wyższe</strong> niż w sklepach w centrum. Turyści zgłaszają płacenie 500-900 TL (~15-28 $) za podstawową SIM z minimalnymi danymi. Wielu jest również obciążanych dodatkową opłatą 100+ TL „za usługę tłumaczenia”, jeśli ich paszport używa alfabetu innego niż łaciński. Sklepy na lotnisku mają również długie kolejki i ograniczone godziny otwarcia. Roami kosztuje <strong>7,99 $ za 3 dni</strong> — oszczędzasz pieniądze i całkowicie omijasz kolejkę.
     - q: |
         Co jeśli przypadkowo usunę eSIM Turcja przed podróżą?
       a: |
@@ -416,63 +415,75 @@ faq_section:
         Kiedy zaczyna się okres ważności mojego eSIM Turcja?
       a: |
         Ważność planu rozpoczyna się w momencie połączenia z lokalną siecią w Turcji, a nie w momencie zakupu lub instalacji. Możesz więc kupić i zainstalować tygodnie przed podróżą bez utraty dni planu. Plan 7-dniowy daje Ci 7 pełnych dni od pierwszego połączenia.
+    - q: |
+        Co się dzieje z numerem Turkcell po instalacji eSIM Turcja?
+      a: |
+        Numer Turkcell pozostaje bez zmian. eSIM Roami Turcja to osobna linia danych, więc możesz dalej odbierać połączenia i SMS-y na dotychczasowym numerze.
+    - q: |
+        Jak wypada koszt eSIM Turcja przy dłuższym pobycie w porównaniu z Turkcell?
+      a: |
+        Na dłuższy pobyt wybierasz plan o dłuższej ważności. W porównaniu z długoterminową ofertą Turkcell zaletą jest brak umowy — kupujesz dokładnie na potrzebny czas.
+    - q: |
+        Czy w trakcie podróży do Turcja mogę zmienić plan danych, nie ruszając karty Turkcell?
+      a: |
+        Tak. Możesz dokupić większy plan w trakcie korzystania i od razu go włączyć — bez szukania salonu Turkcell, wszystko online.
 related_products:
-  title: Powiązane plany eSIM
+  title: Powiązane plany eSIM - Turcja
   items:
-  - name: eSIM Stany Zjednoczone
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Europa
+  - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: Izrael eSIM
+    flag: img/flags/il.svg
+    price: Od 2,99 $
+    is_highlight: false
+  - name: Uzbekistan eSIM
+    flag: img/flags/uz.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Turcja
-    flag: img/flags/tr.svg
+  - name: Ekwador eSIM
+    flag: img/flags/ec.svg
+    price: Od 6,99 $
+    is_highlight: false
+  - name: Gabon eSIM
+    flag: img/flags/ga.svg
+    price: Od 14,99 $
+    is_highlight: false
+  - name: Dominikana eSIM
+    flag: img/flags/do.svg
+    price: Od 5,99 $
+    is_highlight: false
+  - name: Andora eSIM
+    flag: img/flags/ad.svg
+    price: Od 6,99 $
+    is_highlight: false
+  - name: Kamerun eSIM
+    flag: img/flags/cm.svg
+    price: Od 27,99 $
+    is_highlight: false
+  - name: Malta eSIM
+    flag: img/flags/mt.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: eSIM Chiny
-    flag: img/flags/cn.svg
-    price: Od 1,99 $
+  - name: Urugwaj eSIM
+    flag: img/flags/uy.svg
+    price: Od 11,99 $
     is_highlight: false
-  - name: eSIM Japonia
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
+  - name: Bangladesh eSIM
+    flag: img/flags/bd.svg
+    price: Od 5,99 $
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Francja
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Hiszpania
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Niemcy
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Od 1,99 $
+  - name: Meksyk eSIM
+    flag: img/flags/mx.svg
+    price: Od 3,99 $
     is_highlight: false
 market_analysis:
   title: 'eSIM Turcja vs lokalna karta SIM prepaid: Bez paszportu, bez 28-dniowej straty'
   subtitle: 'Lokalne karty SIM prepaid w Turcji vs. rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Turcja) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Turkey
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna karta SIM prepaid (dane rynkowe)
@@ -515,11 +526,11 @@ market_analysis:
     esim_title: Akceptowane globalne płatności
     esim_desc: Unikaj odrzucania międzynarodowych kart kredytowych i ukrytych opłat wymiany. Roami akceptuje Visa, Mastercard, AMEX, Apple Pay, Google Pay i PayPal z przejrzystymi cenami w USD.
   - icon: shield
-    title: Cenzura i<br>wolność internetu
+    title: Dostęp do stron i<br>aplikacji
     prepaid_title: ''
-    prepaid_desc: Tureccy operatorzy blokują Twitter, Facebook, Wikipedia, YouTube i wiele usług VPN na mocy nakazu rządowego. Dostęp wymaga zewnętrznego VPN (który często również jest blokowany).
-    esim_title: Omijanie wszystkich blokad
-    esim_desc: Międzynarodowe routowanie Roami automatycznie omija turecką cenzurę internetową. Uzyskaj dostęp do Twittera, Facebooka, Wikipedii, YouTube i VPN bez dodatkowego oprogramowania — Twój internet działa tak jak w domu.
+    prepaid_desc: Lokalni operatorzy mogą ograniczać dostęp do niektórych serwisów i aplikacji. Klasyczne karty prepaid wymagają wtedy dodatkowej konfiguracji.
+    esim_title: Dostęp do wszystkich stron
+    esim_desc: Dzięki międzynarodowemu routowaniu Roami Twoje ulubione serwisy i aplikacje działają od razu — bez dodatkowego oprogramowania i bez konfiguracji. Twój internet działa tak jak w domu.
   - icon: headset
     title: Wsparcie klienta
     prepaid_title: ''
@@ -542,11 +553,11 @@ market_analysis:
     - icon: globe
       icon_bg: bg-purple-100
       icon_color: text-purple-600
-      title: Automatyczne omijanie cenzury
-      desc: Tureccy operatorzy blokują Twitter, Facebook, Wikipedia i VPN. Międzynarodowe routowanie Roami pozwala na dostęp do <b>wszystkich stron</b> bez osobnego VPN — Twoje aplikacje społecznościowe działają dokładnie tak jak w domu.
+      title: Dostęp bez dodatkowej konfiguracji
+      desc: Dzięki międzynarodowemu routowaniu Roami masz dostęp do <b>wszystkich stron i aplikacji</b> bez dodatkowej konfiguracji — Twoje aplikacje społecznościowe działają dokładnie tak jak w domu.
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
       title: Bez zawyżania cen na lotnisku
-      desc: Karty SIM na lotnisku kosztują <b>3-5x więcej</b> niż w centrum, a turyści często płacą <b>500-900 TL (15-28 $)</b> za minimalne dane. Roami zaczyna się od <b>1,99 $</b> — kup online, pomiń kolejkę, oszczędzaj.
+      desc: Karty SIM na lotnisku kosztują <b>3-5x więcej</b> niż w centrum, a turyści często płacą <b>500-900 TL (15-74,99 $)</b> za minimalne dane. Roami zaczyna się od <b>1,99 $</b> — kup online, pomiń kolejkę, oszczędzaj.
 ---

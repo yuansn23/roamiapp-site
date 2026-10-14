@@ -141,7 +141,7 @@ reminders:
   title: 'Dicas de Configuração do Botsuana eSIM: O que Saber Antes de Viajar'
   items:
   - icon: 📱
-    html: Verifique se seu telefone é <a href="/pt/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
+    html: Verifique se seu telefone é <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
       font-bold transition-colors">compatível com eSIM</a> antes de comprar.
   - icon: ✈️
     html: Recomendamos ativar a linha após chegar em Botsuana.
@@ -313,7 +313,8 @@ market_analysis:
   - icon: credit-card
     title: Pagamentos de<br>Recarga
     prepaid_title: ''
-    prepaid_desc: "Vouchers de recarga (ex: P10, P20) têm apenas 14 dias de validade para Orange; a recarga online pode rejeitar cartões estrangeiros."
+    prepaid_desc: "Vouchers de recarga (ex: P10, P20) têm apenas 14 dias de validade para Orange; a recarga online pode rejeitar cartões estrangeiros.
+"
     esim_title: Pagamento Global Aceito
     esim_desc: Pague com Visa, Mastercard, AMEX, Apple Pay, Google Pay ou PayPal. Sem necessidade de vouchers locais com validade de 14 dias.
   - icon: headset

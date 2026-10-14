@@ -1,6 +1,6 @@
 ---
 title: 'Nowa Zelandia eSIM - 5G w Auckland i Queenstown | Bez 30-dniowych strat | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -16,11 +16,11 @@ modal:
   text_default: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIMGo</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
   text_android: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
-  title: Nowa Zelandia eSIM - Przedpłacony plan danych 5G dla turystów
-  description: Zdobądź najlepszą eSIM dla Nowej Zelandii z 5G na Spark, Vodafone i 2degrees. Bez narzuconych 30-dniowych planów — lokalne karty SIM marnują 70%+ na krótkich wyjazdach. Obejmuje Auckland, Queenstown i Hobbiton. Plany od 1,99 $.
-  keywords: Nowa Zelandia eSIM, kup Nowa Zelandia eSIM, najlepsza Nowa Zelandia eSIM, eSIM podróżny Nowa Zelandia, Spark Nowa Zelandia, Vodafone NZ Nowa Zelandia, 2degrees Nowa Zelandia, Auckland eSIM, Wellington eSIM, Queenstown eSIM, przedpłacony eSIM Nowa Zelandia, 5G Nowa Zelandia eSIM, Hobbiton eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: 'Nowa Zelandia eSIM: szybkie dane 5G dla podróżnych'
+  description: Zdobądź najlepszą eSIM dla Nowej Zelandii z 5G na Spark, Vodafone i 2degrees. Obejmuje Auckland, Queenstown i Hobbiton. Plany od 3,99 $.
+  keywords: Nowa Zelandia eSIM, najlepsza eSIM Nowa Zelandia, kup Nowa Zelandia eSIM, plany eSIM Nowa Zelandia, Nowa Zelandia eSIM cena, eSIM podróżny Nowa Zelandia, najlepszy Nowa Zelandia eSIM, Nowa Zelandia eSIM nielimitowane, jak aktywować eSIM Nowa Zelandia, przedpłacony eSIM Nowa Zelandia, Nowa Zelandia eSIM opinie, Nowa Zelandia 5G eSIM, Spark Nowa Zelandia, Auckland eSIM, Wellington eSIM, Christchurch eSIM
+  low_price: 3.99
+  high_price: 99.99
 order_summary:
   title: Wybrany plan
   label_data: Zawarte dane
@@ -359,7 +359,7 @@ faq_section:
     - q: |
         Dlaczego zakup lokalnej karty SIM w Nowej Zelandii to strata pieniędzy na krótkie wyjazdy?
       a: |
-        Rynek przedpłaconych kart SIM w Nowej Zelandii ma <strong>poważną wadę dla turystów</strong>. One NZ Travel SIM ma <strong>30-dniowe minimum</strong> — 29 NZD za zaledwie 2 GB danych na 30 dni. Na 7-dniową podróż płacisz za <strong>23 dni, których nie używasz (ponad 70% straty)</strong>. Skinny Holiday SIM jest dostępna tylko w <strong>dwóch konkretnych sklepach na lotnisku</strong> (Christchurch Hub Convenience i Queenstown Paper Plus) — jeśli lądujesz w Auckland, nie możesz jej kupić. Roami oferuje <strong>plany 3, 7, 15 i 30-dniowe</strong> od 1,99 $ — bez narzuconego 30-dniowego zobowiązania, bez strat.
+        Rynek przedpłaconych kart SIM w Nowej Zelandii ma <strong>poważną wadę dla turystów</strong>. One NZ Travel SIM ma <strong>30-dniowe minimum</strong> — 29 NZD za zaledwie 2 GB danych na 30 dni. Na 7-dniową podróż płacisz za <strong>23 dni, których nie używasz (ponad 70% straty)</strong>. Skinny Holiday SIM jest dostępna tylko w <strong>dwóch konkretnych sklepach na lotnisku</strong> (Christchurch Hub Convenience i Queenstown Paper Plus) — jeśli lądujesz w Auckland, nie możesz jej kupić. Roami oferuje <strong>plany 3, 7, 15 i 3-dniowe</strong> od 3,99 $ — bez narzuconego 30-dniowego zobowiązania, bez strat.
     - q: |
         Czy Nowa Zelandia ma 5G? Jak szybkie jest w Auckland i Queenstown?
       a: |
@@ -388,63 +388,75 @@ faq_section:
         Kiedy zaczyna się okres ważności mojego eSIM dla Nowej Zelandii?
       a: |
         Ważność planu rozpoczyna się po połączeniu z lokalną siecią w Nowej Zelandii, a nie w momencie zakupu lub instalacji. Możesz więc kupić i zainstalować tygodnie przed podróżą bez utraty dni planu. Plan 7-dniowy daje 7 pełnych dni od pierwszego połączenia.
+    - q: |
+        Jak skonfigurować eSIM Nowa Zelandia na Androidzie z kartą Spark?
+      a: |
+        Wejdź w Ustawienia > Sieć i internet > SIM > Pobierz eSIM i zeskanuj kod QR. Aby korzystać z karty Spark i eSIM razem, ustaw Roami jako linię danych.
+    - q: |
+        Czy w cenie eSIM Nowa Zelandia są ukryte opłaty w porównaniu z Spark?
+      a: |
+        Nie. Poza ceną planu nie ma opłaty aktywacyjnej ani dopłaty za roaming. Przedpłacone karty Spark często wymagają opłaty rejestracyjnej lub minimalnego doładowania.
+    - q: |
+        Czy prędkość w eSIM Nowa Zelandia spada po wykorzystaniu limitu w sieci Spark?
+      a: |
+        eSIM Roami Nowa Zelandia działa z pełną prędkością do wyczerpania limitu, a potem połączenie wstrzymuje się do dokupienia danych w aplikacji — bez kontaktu z Spark. Cena nie rośnie nagle.
 related_products:
   title: Powiązane plany eSIM dla Nowej Zelandii
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania eSIM
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Albania eSIM
+    flag: img/flags/al.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
+  - name: Bośnia i Hercegowina eSIM
+    flag: img/flags/ba.svg
+    price: Od 30,99 $
+    is_highlight: false
+  - name: Jamajka eSIM
+    flag: img/flags/jm.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Honduras eSIM
+    flag: img/flags/hn.svg
+    price: Od 6,99 $
+    is_highlight: false
+  - name: Finlandia eSIM
+    flag: img/flags/fi.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
+  - name: Izrael eSIM
+    flag: img/flags/il.svg
+    price: Od 2,99 $
+    is_highlight: false
+  - name: Nepal eSIM
+    flag: img/flags/ne.svg
+    price: Od 10,99 $
+    is_highlight: false
+  - name: Tajlandia eSIM
+    flag: img/flags/th.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
+  - name: Austria eSIM
+    flag: img/flags/at.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Hongkong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
+  - name: Eswatini eSIM
+    flag: img/flags/sz.svg
+    price: Od 19,99 $
     is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: Od 1,99 $
+  - name: Argentyna eSIM
+    flag: img/flags/ar.svg
+    price: Od 3,99 $
     is_highlight: false
 market_analysis:
   title: 'Nowa Zelandia eSIM a lokalna SIM: bez 30-dniowych strat, bez zakazu hotspotu'
   subtitle: 'Lokalne przedpłacone karty SIM w Nowej Zelandii a rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Nowa Zelandia) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/New-Zealand
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna przedpłacona SIM (dane rynkowe)
@@ -473,7 +485,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: One NZ Travel SIM narzuca <strong>30-dniowe minimum</strong> (29 NZD za 2 GB). Skinny Holiday SIM narzuca 30-dniową ważność. 7-dniowy turysta marnuje <strong>ponad 70%</strong> wartości planu.
     esim_title: Elastyczne krótkie plany
-    esim_desc: Roami oferuje <strong>plany 3/7/15/30-dniowe</strong> od 1,99 $ — płać tylko za rzeczywistą długość podróży. Bez narzuconego 30-dniowego zobowiązania, bez strat.
+    esim_desc: Roami oferuje <strong>plany 3/7/15/3-dniowe</strong> od 3,99 $ — płać tylko za rzeczywistą długość podróży. Bez narzuconego 30-dniowego zobowiązania, bez strat.
   - icon: wifi
     title: Zasady hotspotu<br>i prędkości
     prepaid_title: ''

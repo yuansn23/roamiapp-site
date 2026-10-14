@@ -739,7 +739,7 @@
                     <div class="product-grid">
                         {{ range first 4 (shuffle $products) }}
                         {{ $slug := .slug | default (.name | urlize) }}
-                        {{ $productURL := printf "/%s/" ($slug | lower) | relLangURL }}
+                        {{ $productURL := partial "langurl.html" (printf "/%s/" ($slug | lower)) }}
                         <a class="product-item" href="{{ $productURL }}">
                             <img src="{{ .flag | relURL }}" alt="{{ .name }} 旗幟" class="product-flag-img" loading="lazy">
                             <div class="product-info">

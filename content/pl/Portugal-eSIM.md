@@ -1,6 +1,6 @@
 ---
 title: 'Portugalia eSIM 2026 - Najlepszy plan 5G dla Lizbony i Algarve | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,18 +9,18 @@ country_meta:
   operators: Vodafone Portugal, MEO, NOS
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Lizbona, Porto, Faro, Coimbra, Braga
-  main_packages: 3/7/15/30 dni, nielimitowane dane
+  main_packages: 3/7/15/30 dni, dane bez limitu
 modal:
   title: Usługa uaktualniona!
   btn_text: Kontynuuj
   text_default: 'Nasza usługa eSIM została uaktualniona do <strong>PhoneSIMGo</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
   text_android: 'Nasza usługa eSIM została uaktualniona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
-  title: Portugalia eSIM - Najlepszy prepaidowy plan 5G na Twoją podróż
-  description: Zdobądź najlepszą prepaid eSIM dla Portugalii z 5G w sieciach Vodafone, MEO i NOS. Bez potrzeby okazywania dowodu — natychmiastowa aktywacja QR. Akceptowane globalne płatności — bez lokalnych ograniczeń kart. Od 1,99 $.
-  keywords: Portugalia eSIM, kup Portugalia eSIM, najlepsza Portugalia eSIM, eSIM podróżna Portugalia, Vodafone Portugalia, MEO Portugalia, NOS Portugalia, eSIM Lizbona, eSIM Porto, eSIM Faro, prepaid eSIM Portugalia, 5G Portugalia eSIM, eSIM Algarve, eSIM Dolina Douro, eSIM Sintra
+  title: eSIM Portugalia - eSIM z natychmiastową aktywacją
+  description: Zdobądź najlepszą prepaid eSIM dla Portugalii z 5G w sieciach Vodafone, MEO i NOS. Bez potrzeby okazywania dowodu — natychmiastowa aktywacja QR. Od 1,99 $.
+  keywords: Portugalia eSIM, najlepsza eSIM Portugalia, kup Portugalia eSIM, plany eSIM Portugalia, Portugalia eSIM cena, eSIM podróżny Portugalia, najlepszy Portugalia eSIM, Portugalia eSIM nielimitowane, jak aktywować eSIM Portugalia, przedpłacony eSIM Portugalia, Portugalia eSIM opinie, Portugalia 5G eSIM, Vodafone Portugal Portugalia, Lizbona eSIM, Porto eSIM, Faro eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 71.99
 order_summary:
   title: Wybrany plan
   label_data: Dane wliczone
@@ -400,63 +400,75 @@ faq_section:
         Czy mogę doładować moją eSIM do Portugalii, jeśli zabraknie mi danych?
       a: |
         Tak — możesz doładować przez swoje konto Roami w dowolnym momencie jednym kliknięciem. W przeciwieństwie do portugalskich prepaid SIM z ich skomplikowanymi ograniczeniami płatniczymi (MEO/NOS odrzucają karty międzynarodowe, Vodafone wymaga kart starszych niż 3 miesiące, NOS pobiera opłaty Payshop), Roami akceptuje globalne metody płatności bez barier.
+    - q: |
+        Co się dzieje z numerem Vodafone Portugal po instalacji eSIM Portugalia?
+      a: |
+        Numer Vodafone Portugal pozostaje bez zmian. eSIM Roami Portugalia to osobna linia danych, więc możesz dalej odbierać połączenia i SMS-y na dotychczasowym numerze.
+    - q: |
+        Jak wypada koszt eSIM Portugalia przy dłuższym pobycie w porównaniu z Vodafone Portugal?
+      a: |
+        Na dłuższy pobyt wybierasz plan o dłuższej ważności. W porównaniu z długoterminową ofertą Vodafone Portugal zaletą jest brak umowy — kupujesz dokładnie na potrzebny czas.
+    - q: |
+        Czy w trakcie podróży do Portugalia mogę zmienić plan danych, nie ruszając karty Vodafone Portugal?
+      a: |
+        Tak. Możesz dokupić większy plan w trakcie korzystania i od razu go włączyć — bez szukania salonu Vodafone Portugal, wszystko online.
 related_products:
   title: Powiązane plany Portugalia eSIM
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Dominika eSIM
+    flag: img/flags/dm.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Filipiny eSIM
+    flag: img/flags/ph.svg
+    price: Od 2,99 $
+    is_highlight: false
+  - name: Niger eSIM
+    flag: img/flags/ni.svg
+    price: Od 23,99 $
+    is_highlight: false
+  - name: Katar eSIM
+    flag: img/flags/qa.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
+  - name: Belgia eSIM
+    flag: img/flags/be.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
-    price: Od 1,99 $
+  - name: Jamajka eSIM
+    flag: img/flags/jm.svg
+    price: Od 11,99 $
     is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
+  - name: Arabia Saudyjska eSIM
+    flag: img/flags/sa.svg
+    price: Od 3,99 $
     is_highlight: false
   - name: Australia eSIM
     flag: img/flags/au.svg
     price: Od 1,99 $
     is_highlight: false
+  - name: Algieria eSIM
+    flag: img/flags/dz.svg
+    price: Od 3,99 $
+    is_highlight: false
+  - name: Grenada eSIM
+    flag: img/flags/gd.svg
+    price: Od 11,99 $
+    is_highlight: false
+  - name: Bangladesh eSIM
+    flag: img/flags/bd.svg
+    price: Od 5,99 $
+    is_highlight: false
 market_analysis:
   title: 'Portugalia eSIM vs lokalna karta SIM – która pozwala zaoszczędzić więcej?'
   subtitle: 'Lokalne prepaidowe SIM w Portugalii vs rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Portugalia) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Portugal
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matryca porównawcza
   - Lokalna prepaid SIM (dane rynkowe)

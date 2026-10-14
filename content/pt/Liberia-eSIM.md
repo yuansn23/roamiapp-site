@@ -141,7 +141,7 @@ reminders:
   title: 'Dicas de Configuração do Libéria eSIM: O que Saber Antes de Viajar'
   items:
   - icon: 📱
-    html: Verifique se seu telefone é <a href="/pt/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
+    html: Verifique se seu telefone é <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
       font-bold transition-colors">compatível com eSIM</a> antes de comprar.
   - icon: ✈️
     html: Recomendamos ativar a linha após chegar na Libéria.
@@ -295,7 +295,8 @@ market_analysis:
   - icon: globe
     title: Roaming<br>Internacional
     prepaid_title: ''
-    prepaid_desc: "Sem dados específicos nesta fonte para esta dimensão. Com base no conhecimento de mercado, os SIMs pré-pagos da Libéria são apenas locais; o roaming para países vizinhos (ex: Senegal, Costa do Marfim) incorreria em altas tarifas internacionais ou exigiria um novo SIM."
+    prepaid_desc: "Sem dados específicos nesta fonte para esta dimensão. Com base no conhecimento de mercado, os SIMs pré-pagos da Libéria são apenas locais; o roaming para países vizinhos (ex: Senegal, Costa do Marfim) incorreria em altas tarifas internacionais ou exigiria um novo SIM.
+"
     esim_title: Roaming Multi-País Perfeito
     esim_desc: Enquanto os SIMs da LoneStar e Orange são bloqueados apenas para a Libéria, o Roami eSIM funciona em toda a África Ocidental. Use o mesmo eSIM no Senegal, Costa do Marfim e além sem comprar novos SIMs.
   - icon: calendar-xmark

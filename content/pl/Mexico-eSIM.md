@@ -1,6 +1,6 @@
 ---
 title: 'Meksyk eSIM - 5G w Cancún i Meksyku | Bez selfie z paszportem | Roami'
-date: '2026-09-08T00:00:00+00:00'
+date: '2026-10-14T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Nasza usługa eSIM została ulepszona do <strong>PhoneSIM</strong>.<br>Nowi klienci otrzymują 20% zniżki, kod promocyjny: web20'
 seo:
   title: Meksyk eSIM - Najlepszy nielimitowany plan danych na podróż
-  description: Zdobądź najlepszą eSIM dla Meksyku z 5G na Telcel, AT&T i Movistar. Bez rejestracji paszportu/selfie — od 2026 lokalne karty SIM wymagają dowodu + selfie. Obejmuje Cancún, Meksyk i Riviera Maya. Plany od 1,99 $.
-  keywords: Meksyk eSIM, kup Meksyk eSIM, najlepszy Meksyk eSIM, eSIM podróżny Meksyk, Telcel Meksyk, AT&T Meksyk, Movistar Meksyk, Meksyk eSIM, Cancún eSIM, Riviera Maya eSIM, przedpłacony eSIM Meksyk, 5G Meksyk eSIM, Meksyk eSIM bez paszportu
-  low_price: 1.99
-  high_price: 39.9
+  description: Zdobądź najlepszą eSIM dla Meksyku z 5G na Telcel, AT&T i Movistar. Obejmuje Cancún, Meksyk i Riviera Maya. Plany od 3,99 $.
+  keywords: Meksyk eSIM, najlepsza eSIM Meksyk, kup Meksyk eSIM, plany eSIM Meksyk, Meksyk eSIM cena, eSIM podróżny Meksyk, najlepszy Meksyk eSIM, Meksyk eSIM nielimitowane, jak aktywować eSIM Meksyk, przedpłacony eSIM Meksyk, Meksyk eSIM opinie, Meksyk 5G eSIM, Telcel Meksyk, Cancún eSIM, Guadalajara eSIM, Monterrey eSIM
+  low_price: 3.99
+  high_price: 68.99
 order_summary:
   title: Wybrany plan
   label_data: Zawarte dane
@@ -369,7 +369,7 @@ faq_section:
     - q: |
         Dlaczego meksykańskie karty SIM mają 7-dniowe minimum? Czy to strata na krótkie wyjazdy?
       a: |
-        Tak — to strata pieniędzy i danych. Najtańszy plan Telcel to <strong>7 dni (50 MXN ≈ 3 USD)</strong> z ograniczoną ilością danych. Minimum AT&T to <strong>14 dni (100 MXN)</strong>, Movistar to <strong>15 dni (75 MXN)</strong>. 5-dniowy turysta kupujący 7-dniowy plan marnuje <strong>29%</strong> planu. 14-dniowy plan AT&T marnuje <strong>64%</strong>. Roami oferuje <strong>plany 3, 7, 15 i 30-dniowe</strong> od 1,99 $ — bez narzuconego minimum, bez strat.
+        Tak — to strata pieniędzy i danych. Najtańszy plan Telcel to <strong>7 dni (50 MXN ≈ 3 USD)</strong> z ograniczoną ilością danych. Minimum AT&T to <strong>14 dni (100 MXN)</strong>, Movistar to <strong>15 dni (75 MXN)</strong>. 5-dniowy turysta kupujący 7-dniowy plan marnuje <strong>29%</strong> planu. 14-dniowy plan AT&T marnuje <strong>64%</strong>. Roami oferuje <strong>plany 3, 7, 15 i 3-dniowe</strong> od 3,99 $ — bez narzuconego minimum, bez strat.
     - q: |
         Czy mój eSIM będzie działać przy ruinach Chichén Itzá, Teotihuacán i Tulum?
       a: |
@@ -390,63 +390,75 @@ faq_section:
         Kiedy zaczyna się okres ważności mojego eSIM dla Meksyku?
       a: |
         Ważność planu rozpoczyna się po połączeniu z lokalną siecią w Meksyku, a nie w momencie zakupu lub instalacji. Możesz więc kupić i zainstalować tygodnie przed podróżą bez utraty dni planu. Plan 7-dniowy daje 7 pełnych dni od pierwszego połączenia.
+    - q: |
+        Jak skonfigurować eSIM Meksyk na Androidzie z kartą Telcel?
+      a: |
+        Wejdź w Ustawienia > Sieć i internet > SIM > Pobierz eSIM i zeskanuj kod QR. Aby korzystać z karty Telcel i eSIM razem, ustaw Roami jako linię danych.
+    - q: |
+        Czy w cenie eSIM Meksyk są ukryte opłaty w porównaniu z Telcel?
+      a: |
+        Nie. Poza ceną planu nie ma opłaty aktywacyjnej ani dopłaty za roaming. Przedpłacone karty Telcel często wymagają opłaty rejestracyjnej lub minimalnego doładowania.
+    - q: |
+        Czy prędkość w eSIM Meksyk spada po wykorzystaniu limitu w sieci Telcel?
+      a: |
+        eSIM Roami Meksyk działa z pełną prędkością do wyczerpania limitu, a potem połączenie wstrzymuje się do dokupienia danych w aplikacji — bez kontaktu z Telcel. Cena nie rośnie nagle.
 related_products:
   title: Powiązane plany eSIM dla Meksyku
   items:
-  - name: Stany Zjednoczone eSIM
-    flag: img/flags/us.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Wielka Brytania eSIM
-    flag: img/flags/gb.svg
-    price: Od 1,99 $
-    is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Od 1,99 $
     is_highlight: true
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
+  - name: Irlandia eSIM
+    flag: img/flags/ie.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Turcja eSIM
-    flag: img/flags/tr.svg
+  - name: Izrael eSIM
+    flag: img/flags/il.svg
+    price: Od 2,99 $
+    is_highlight: false
+  - name: Portugalia eSIM
+    flag: img/flags/pt.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Chiny eSIM
-    flag: img/flags/cn.svg
+  - name: Gibraltar eSIM
+    flag: img/flags/gi.svg
+    price: Od 5,99 $
+    is_highlight: false
+  - name: Jordania eSIM
+    flag: img/flags/jo.svg
+    price: Od 6,99 $
+    is_highlight: false
+  - name: Grecja eSIM
+    flag: img/flags/gr.svg
     price: Od 1,99 $
     is_highlight: false
-  - name: Japonia eSIM
-    flag: img/flags/jp.svg
-    price: Od 1,99 $
+  - name: Kenia eSIM
+    flag: img/flags/ke.svg
+    price: Od 7,99 $
     is_highlight: false
-  - name: Hongkong eSIM
-    flag: img/flags/hk.svg
-    price: Od 1,99 $
+  - name: ZEA eSIM
+    flag: img/flags/ae.svg
+    price: Od 3,99 $
     is_highlight: false
-  - name: Francja eSIM
-    flag: img/flags/fr.svg
-    price: Od 1,99 $
+  - name: Liberia eSIM
+    flag: img/flags/lr.svg
+    price: Od 27,99 $
     is_highlight: false
-  - name: Hiszpania eSIM
-    flag: img/flags/es.svg
-    price: Od 1,99 $
+  - name: Bahamy eSIM
+    flag: img/flags/bs.svg
+    price: Od 16,99 $
     is_highlight: false
-  - name: Niemcy eSIM
-    flag: img/flags/de.svg
-    price: Od 1,99 $
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: Od 1,99 $
+  - name: Gujana Francuska eSIM
+    flag: img/flags/gf.svg
+    price: Od 3,99 $
     is_highlight: false
 market_analysis:
   title: 'Meksyk eSIM a lokalna SIM: bez paszportu/selfie, bez 7-dniowych strat, bez zakazu hotspotu'
   subtitle: 'Lokalne przedpłacone karty SIM w Meksyku a rozwiązania eSIM (benchmark 2024/2025)'
   citation:
-    text: 'Źródło danych: Prepaid Data SIM Card Wiki (Meksyk) + strony lokalnych operatorów'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Mexico
+    text: 'Źródło danych: GSMA Mobile Connectivity Index + strony lokalnych operatorów'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Macierz porównawcza
   - Lokalna przedpłacona SIM (dane rynkowe)
@@ -475,7 +487,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Telcel minimum 7 dni (50), AT&T 14 dni (100), Movistar 15 dni (75). <strong>Brak planów poniżej 5 dni</strong> dla turystów. 5-dniowa podróż marnuje 29-67% planu.
     esim_title: Elastyczne krótkie plany
-    esim_desc: Roami oferuje <strong>plany 3/7/15/30-dniowe</strong> od 1,99 $ — płać tylko za rzeczywistą długość podróży. Bez 7-dniowego minimum, bez strat.
+    esim_desc: Roami oferuje <strong>plany 3/7/15/3-dniowe</strong> od 3,99 $ — płać tylko za rzeczywistą długość podróży. Bez 7-dniowego minimum, bez strat.
   - icon: wifi
     title: Zasady hotspotu<br>i prędkości
     prepaid_title: ''
@@ -516,5 +528,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Bez 7-dniowego minimum i strat
-      desc: Minimum Telcel to <b>7 dni (50)</b>, AT&T to <b>14 dni (100)</b>. 5-dniowy turysta marnuje <b>29-64%</b>. Roami oferuje <b>plany 3-dniowe od 1,99 $</b> — bez narzuconego minimum.
+      desc: Minimum Telcel to <b>7 dni (50)</b>, AT&T to <b>14 dni (100)</b>. 5-dniowy turysta marnuje <b>29-64%</b>. Roami oferuje <b>plany 3-dniowe od 3,99 $</b> — bez narzuconego minimum.
 ---

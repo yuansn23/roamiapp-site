@@ -273,7 +273,7 @@ reminders:
   title: 'Dicas de Configuração do Armênia eSIM: O que Saber Antes de Viajar'
   items:
   - icon: 📱
-    html: Verifique se seu telefone é <a href="/pt/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
+    html: Verifique se seu telefone é <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
       font-bold transition-colors">compatível com eSIM</a> antes de comprar.
   - icon: ✈️
     html: Recomendamos ativar a linha após chegar na Armênia.
@@ -433,7 +433,8 @@ market_analysis:
   - icon: calendar-xmark
     title: Ciclo de Faturamento e<br>Custo Afundado
     prepaid_title: ''
-    prepaid_desc: "Todos os principais planos pré-pagos (ex: Viva-MTS AMD 2500/4GB, Team AMD 1500/3GB) usam ciclos de 30 dias; uma viagem de 3 dias desperdiça ~90% do valor do plano."
+    prepaid_desc: "Todos os principais planos pré-pagos (ex: Viva-MTS AMD 2500/4GB, Team AMD 1500/3GB) usam ciclos de 30 dias; uma viagem de 3 dias desperdiça ~90% do valor do plano.
+"
     esim_title: Planos Flexíveis de Curta Duração
     esim_desc: Ao contrário do ciclo de 30 dias da Viva-MTS (AMD 2500/4GB), a Roami oferece planos de 7 dias a partir de $1,99/GB, economizando até 90% de desperdício em viagens curtas.
   - icon: wifi
@@ -445,7 +446,8 @@ market_analysis:
   - icon: credit-card
     title: Pagamentos de<br>Recarga
     prepaid_title: ''
-    prepaid_desc: "Recarga via vouchers físicos com validade curta (ex: Viva-MTS AMD 500 válido por 12 dias); recarga online pode rejeitar cartões estrangeiros."
+    prepaid_desc: "Recarga via vouchers físicos com validade curta (ex: Viva-MTS AMD 500 válido por 12 dias); recarga online pode rejeitar cartões estrangeiros.
+"
     esim_title: Métodos de Pagamento Globais
     esim_desc: Pague com Visa, Mastercard, AMEX, Apple Pay, Google Pay ou PayPal. Sem necessidade de comprar vouchers físicos de curta duração.
   - icon: headset

@@ -340,7 +340,7 @@
             "@type": "Service",
             "name": {{ printf "%s%s" $.Params.ui.schema.item_name_prefix $country.name | jsonify | safeJS }},
             "description": {{ printf "%s%s" $.Params.ui.schema.item_desc_prefix $country.name | jsonify | safeJS }},
-            "url": {{ (printf "/%s-esim/" ($country.slug | lower)) | relLangURL | absURL | jsonify | safeJS }},
+            "url": {{ (printf "/%s-esim/" ($country.slug | default ($country.name | urlize) | lower)) | relLangURL | absURL | jsonify | safeJS }},
             "areaServed": {
               "@type": "Country",
               "name": {{ $country.name | jsonify | safeJS }}
@@ -971,7 +971,7 @@
                                     </a>
                                 </div>
                                 
-                                <a href="{{ (printf "/%s-esim/" (.slug | lower)) | relLangURL }}" class="w-full sm:w-auto inline-flex justify-center items-center rounded-xl bg-white border border-slate-300 px-6 py-3 text-base font-medium text-slate-700 shadow-sm hover:bg-slate-50 hover:text-blue-600 transition-all focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 mt-2 sm:mt-0">
+                                <a href="{{ partial "langurl.html" (printf "/%s-esim/" (.slug | default (.name | urlize) | lower)) }}" class="w-full sm:w-auto inline-flex justify-center items-center rounded-xl bg-white border border-slate-300 px-6 py-3 text-base font-medium text-slate-700 shadow-sm hover:bg-slate-50 hover:text-blue-600 transition-all focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 mt-2 sm:mt-0">
                                     {{ $.Params.ui.modal.btn_view_plans | default "View Paid Plans" }}
                                 </a>
                             </div>

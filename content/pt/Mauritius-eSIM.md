@@ -281,7 +281,7 @@ reminders:
   title: 'Dicas de Configuração do Maurício eSIM: O que Saber Antes de Viajar'
   items:
   - icon: 📱
-    html: Verifique se seu telefone é <a href="/pt/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
+    html: Verifique se seu telefone é <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
       font-bold transition-colors">compatível com eSIM</a> antes de comprar.
   - icon: ✈️
     html: Recomendamos ativar a linha após chegar em Maurício.
@@ -337,7 +337,7 @@ faq_section:
     - q: |
         Preciso de passaporte ou identidade para usar eSIM em Maurício? Como funciona a verificação?
       a: |
-        Sim, Maurício exige verificação de identidade para eSIM. Maurício exige verificação KYC. Passaporte necessário. Muitos viajantes só descobrem isso após chegar, e então lutam com o WiFi do aeroporto enquanto esperam a aprovação. Complete a verificação antes de viajar — leva cerca de 5 a 10 minutos. Além disso, alguns telefones funcionam melhor com a rede da my.t do que outros — verifique nossa página de [compatibilidade eSIM](/pt/compatibility/).
+        Sim, Maurício exige verificação de identidade para eSIM. Maurício exige verificação KYC. Passaporte necessário. Muitos viajantes só descobrem isso após chegar, e então lutam com o WiFi do aeroporto enquanto esperam a aprovação. Complete a verificação antes de viajar — leva cerca de 5 a 10 minutos. Além disso, alguns telefones funcionam melhor com a rede da my.t do que outros — verifique nossa página de [compatibilidade eSIM](/compatibility/).
     - q: |
         Como a Roami se compara à Airalo para eSIM em Maurício?
       a: |
