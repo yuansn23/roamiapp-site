@@ -1,7 +1,7 @@
 ---
 title: '도미니카공화국 eSIM 2026: 관광객 및 네트워크 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Claro, Altice, Viva
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: 산토도밍고, 푼타카나, 산티아고, 라로마나, 푸에르토플라타
-  main_packages: 3/7/15/30일, 무제한 데이터
+  main_packages: 3/7/15/30일, 1–15GB 데이터
 modal:
   title: 서비스 업그레이드 완료!
   btn_text: 계속하기
@@ -18,10 +18,10 @@ modal:
   text_android: '당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객은 20% 할인 혜택을 받으실 수 있습니다. 프로모션 코드: web20'
 seo:
   title: 도미니카공화국 eSIM | 빠르고 안정적인 선불 데이터 요금제
-  description: Roami의 최고 선불 여행 eSIM으로 도미니카공화국을 여행하세요. 전국 무제한 5G 데이터. 푼타카나, 산토도밍고 및 푸에르토플라타를 커버합니다.
-  keywords: 도미니카공화국 eSIM, 도미니카공화국 eSIM 구매, 최고의 도미니카공화국 eSIM, 도미니카공화국 여행 eSIM, Claro 도미니카공화국, Altice 도미니카공화국, Viva 도미니카공화국, 산토도밍고 eSIM, 푼타카나 eSIM, 산티아고 eSIM, 도미니카공화국 선불 eSIM, 5G 도미니카공화국 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Roami의 최고 선불 여행 eSIM으로 도미니카공화국을 여행하세요. 전국 빠른 5G 데이터. 푼타카나, 산토도밍고 및 푸에르토플라타를 커버합니다.
+  keywords: 도미니카공화국 eSIM, 도미니카공화국 eSIM 추천, 도미니카공화국 eSIM 구매, 도미니카공화국 eSIM 요금제, 도미니카공화국 eSIM 가격, 도미니카공화국 여행 eSIM, 최고의 도미니카공화국 eSIM, 도미니카공화국 eSIM 데이터, 도미니카공화국 eSIM 사용법, 도미니카공화국 선불 eSIM, 도미니카공화국 eSIM 후기, 도미니카공화국 5G eSIM, Claro 도미니카공화국, 산토도밍고 eSIM, 푼타카나 eSIM, 산티아고 eSIM
+  low_price: 5.99
+  high_price: 54.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -270,7 +270,8 @@ faq_section:
     - q: |
         도미니카공화국의 호텔에 무료 Wi-Fi가 있으면 eSIM 데이터가 여전히 필요한가요?
       a: |
-        호텔 Wi-Fi는 객실에서 작동하지만 외부 탐험 시에는 사용할 수 없습니다. eSIM은 어디서나 데이터를 제공합니다 — 길 안내, 주변 장소 검색, 대중교통 일정 확인 등. 5GB 요금제는 $9.99로, 많은 호텔의 일주일 유료 Wi-Fi($10-15)보다 저렴한 경우가 많습니다. 대부분의 여행객은 대용량 다운로드에는 호텔 Wi-Fi를, 이동 중 연결에는 eSIM을 사용합니다.
+        호텔 Wi-Fi는 객실에서 작동하지만 외부 탐험 시에는 사용할 수 없습니다. eSIM은 어디서나 데이터를 제공합니다 — 길 안내, 주변 장소 검색, 대중교통 일정 확인 등. 5GB 요금제는 $18.99로, 많은 호텔의 일주일 유료 Wi-Fi($10-15)보다 저렴한 경우가 많습니다. 대부분의 여행객은 대용량 다운로드에는 호텔 Wi-Fi를, 이동 중 연결에는 eSIM을 사용합니다.
+
     - q: |
         도미니카공화국 여행에서 eSIM과 포켓 WiFi를 비교하면 어떤가요?
       a: |
@@ -278,7 +279,8 @@ faq_section:
     - q: |
         도미니카공화국에서 며칠 동안만 인터넷이 필요합니다. 최소 구매 가능한 요금제는 무엇인가요?
       a: |
-        가장 저렴한 요금제는 7일 1GB에 $1.99입니다 — 가벼운 사용으로 주말 단기 여행에 완벽합니다. 더 많은 데이터가 필요하면 언제든지 앱에서 데이터를 추가하세요.
+        가장 저렴한 요금제는 7일 1GB에 $5.99입니다 — 가벼운 사용으로 주말 단기 여행에 완벽합니다. 더 많은 데이터가 필요하면 언제든지 앱에서 데이터를 추가하세요.
+
     - q: |
         도미니카공화국에서 5GB 요금제와 무제한 요금제의 차이점은 무엇인가요?
       a: |
@@ -299,55 +301,67 @@ faq_section:
         Roami에서 도미니카공화국 eSIM을 구매하려면 어떤 서류가 필요한가요?
       a: |
         유효한 결제 수단만 있으면 됩니다 — 신용카드, PayPal, Apple Pay 또는 Google Pay. 여권 업로드, 주소 확인, 약정이 필요하지 않습니다. 온라인으로 구매하고 몇 분 내에 이메일로 QR 코드를 받아 휴대폰에 직접 설치하세요.
+    - q: |
+        안드로이드에서 Claro 도미니카공화국 eSIM을 설정하는 방법은 무엇인가요?
+      a: |
+        설정 > 네트워크 및 인터넷 > SIM > 'eSIM 다운로드'에서 QR 코드를 스캔합니다. Claro 물리 SIM과 함께 쓰려면 데이터 회선을 Roami로 지정하세요.
+    - q: |
+        도미니카공화국 eSIM 가격에 숨겨진 수수료가 있나요? Claro과 비교해 주세요.
+      a: |
+        없습니다. 표시된 가격 외에 활성화 수수료나 로밍 추가 요금이 붙지 않습니다. Claro 선불 SIM은 등록비나 최소 충전 조건이 붙는 경우가 있습니다.
+    - q: |
+        Claro 네트워크 속도로 도미니카공화국 eSIM 데이터를 다 쓰면 느려지나요?
+      a: |
+        Roami 도미니카공화국 eSIM은 정해진 데이터 한도까지 고속으로 사용하고, 한도를 모두 쓰면 추가 구매 전까지 연결이 멈춥니다. 요금이 갑자기 오르지 않습니다.
 related_products:
   title: 관련 도미니카공화국 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 에콰도르 eSIM
+    flag: img/flags/ec.svg
+    price: $6.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 이집트 eSIM
+    flag: img/flags/eg.svg
+    price: $2.99부터
+    is_highlight: false
+  - name: 엘살바도르 eSIM
+    flag: img/flags/sv.svg
+    price: $23.99부터
+    is_highlight: false
+  - name: 에스토니아 eSIM
+    flag: img/flags/ee.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
+  - name: 에스와티니 eSIM
+    flag: img/flags/sz.svg
+    price: $19.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
+  - name: 페로 제도 eSIM
+    flag: img/flags/fo.svg
+    price: $5.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
+  - name: 피지 eSIM
+    flag: img/flags/fj.svg
+    price: $6.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
+  - name: 핀란드 eSIM
+    flag: img/flags/fi.svg
     price: $1.99부터
     is_highlight: false
   - name: 프랑스 eSIM
     flag: img/flags/fr.svg
     price: $1.99부터
     is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
+  - name: 프랑스령 기아나 eSIM
+    flag: img/flags/gf.svg
+    price: $3.99부터
     is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
+  - name: 가봉 eSIM
+    flag: img/flags/ga.svg
+    price: $14.99부터
     is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 조지아 eSIM
+    flag: img/flags/ge.svg
+    price: $3.99부터
     is_highlight: false
 ---

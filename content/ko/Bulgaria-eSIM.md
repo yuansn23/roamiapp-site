@@ -1,7 +1,7 @@
 ---
 title: '불가리아 eSIM 2026: 여행 및 네트워크 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 불가리아 eSIM | 최고의 여행 데이터 요금제
   description: Roami의 최고 선불 여행 eSIM으로 불가리아를 탐험하세요. 전국 무제한 5G 데이터. 즉시 활성화. 소피아, 플로브디프 및 해안 지역을 커버합니다.
-  keywords: 불가리아 eSIM, 불가리아 eSIM 구매, 최고의 불가리아 eSIM, 불가리아 여행 eSIM, A1 Bulgaria 불가리아, Telenor 불가리아, Vivacom 불가리아, 소피아 eSIM, 플로브디프 eSIM, 바르나 eSIM, 불가리아 선불 eSIM, 5G 불가리아 eSIM
+  keywords: 불가리아 eSIM, 불가리아 eSIM 추천, 불가리아 eSIM 구매, 불가리아 eSIM 요금제, 불가리아 eSIM 가격, 불가리아 여행 eSIM, 최고의 불가리아 eSIM, 불가리아 eSIM 무제한, 불가리아 eSIM 사용법, 불가리아 선불 eSIM, 불가리아 eSIM 후기, 불가리아 5G eSIM, A1 Bulgaria 불가리아, 소피아 eSIM, 플로브디프 eSIM, 바르나 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -374,7 +374,8 @@ faq_section:
     - q: |
         불가리아 eSIM 무제한 요금제는 데이터를 많이 사용하면 속도가 느려지나요?
       a: |
-        공정 사용 정책이 있습니다: 하루 30GB 이후에는 속도가 저하됩니다. 속도가 저하된 상태에서도 메시징, 내비게이션, 브라우징은 가능합니다 — 단, 원활한 비디오 시청은 어렵습니다. 현실적으로 대부분의 여행객은 30GB에 근접하지 않습니다. 걱정되신다면 10GB($14.99) 또는 20GB($24.99) 고정 요금제가 불확실성을 완전히 제거해 드립니다.
+        공정 사용 정책이 있습니다: 하루 30GB 이후에는 속도가 저하됩니다. 속도가 저하된 상태에서도 메시징, 내비게이션, 브라우징은 가능합니다 — 단, 원활한 비디오 시청은 어렵습니다. 현실적으로 대부분의 여행객은 30GB에 근접하지 않습니다. 걱정되신다면 10GB($14.99) 또는 20GB($20.99) 고정 요금제가 불확실성을 완전히 제거해 드립니다.
+
     - q: |
         불가리아 eSIM 등록을 위해 여권을 업로드해도 안전한가요? 프라이버시가 걱정됩니다.
       a: |
@@ -382,7 +383,8 @@ faq_section:
     - q: |
         불가리아 여행을 위한 가장 저렴한 eSIM 옵션은 무엇인가요?
       a: |
-        Roami 불가리아 eSIM 요금제는 $1.99(7일, 1GB)부터 시작하며 $59.99(30일 무제한)까지 있습니다. 일반적인 5-7일 여행의 경우 $9.99의 5GB 요금제가 적당합니다 — 지도, 메시징, 소셜 미디어 확인에 충분합니다. 비디오 스트리밍이나 원격 근무가 필요하신가요? 10GB 또는 무제한을 선택하세요. A1의 5G 네트워크 덕분에 스트리밍과 화상 통화가 잘 작동합니다. 공항 SIM 키오스크는 30-50% 더 비싸고 대기해야 합니다. 데이터 필요량이 확실하지 않으신가요? 작게 시작하여 eSIM을 변경하지 않고 앱을 통해 데이터를 추가하세요.
+        Roami 불가리아 eSIM 요금제는 $2.99(7일, 1GB)부터 시작하며 $77.99(30일 무제한)까지 있습니다. 일반적인 5-7일 여행의 경우 $9.99의 5GB 요금제가 적당합니다 — 지도, 메시징, 소셜 미디어 확인에 충분합니다. 비디오 스트리밍이나 원격 근무가 필요하신가요? 10GB 또는 무제한을 선택하세요. A1의 5G 네트워크 덕분에 스트리밍과 화상 통화가 잘 작동합니다. 공항 SIM 키오스크는 30-50% 더 비싸고 대기해야 합니다. 데이터 필요량이 확실하지 않으신가요? 작게 시작하여 eSIM을 변경하지 않고 앱을 통해 데이터를 추가하세요.
+
     - q: |
         불가리아 eSIM에서 데이터 사용량을 확인할 수 있나요?
       a: |
@@ -403,63 +405,75 @@ faq_section:
         불가리아 eSIM의 유효 기간은 언제부터 시작되나요?
       a: |
         요금제 유효 기간은 불가리아 현지 네트워크에 연결될 때 시작되며, 구매하거나 설치할 때가 아닙니다. 따라서 여행 몇 주 전에 구매하고 설치해도 요금제 일수가 낭비되지 않습니다. 7일 요금제는 첫 연결 시점부터 7일간 사용할 수 있습니다.
+    - q: |
+        안드로이드에서 A1 Bulgaria 불가리아 eSIM을 설정하는 방법은 무엇인가요?
+      a: |
+        설정 > 네트워크 및 인터넷 > SIM > 'eSIM 다운로드'에서 QR 코드를 스캔합니다. A1 Bulgaria 물리 SIM과 함께 쓰려면 데이터 회선을 Roami로 지정하세요.
+    - q: |
+        불가리아 eSIM 가격에 숨겨진 수수료가 있나요? A1 Bulgaria과 비교해 주세요.
+      a: |
+        없습니다. 표시된 가격 외에 활성화 수수료나 로밍 추가 요금이 붙지 않습니다. A1 Bulgaria 선불 SIM은 등록비나 최소 충전 조건이 붙는 경우가 있습니다.
+    - q: |
+        A1 Bulgaria 네트워크 속도로 불가리아 eSIM 데이터를 다 쓰면 느려지나요?
+      a: |
+        Roami 불가리아 eSIM은 정해진 데이터 한도까지 고속으로 사용하고, 한도를 모두 쓰면 추가 구매 전까지 연결이 멈춥니다. 요금이 갑자기 오르지 않습니다.
 related_products:
   title: 관련 불가리아 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 부르키나파소 eSIM
+    flag: img/flags/bf.svg
+    price: $11.99부터
     is_highlight: true
+  - name: 캄보디아 eSIM
+    flag: img/flags/kh.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 카메룬 eSIM
+    flag: img/flags/cm.svg
+    price: $27.99부터
+    is_highlight: false
   - name: 캐나다 eSIM
     flag: img/flags/ca.svg
-    price: $1.99부터
+    price: $3.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
+  - name: 차드 eSIM
+    flag: img/flags/td.svg
+    price: $23.99부터
+    is_highlight: false
+  - name: 칠레 eSIM
+    flag: img/flags/cl.svg
+    price: $4.99부터
     is_highlight: false
   - name: 중국 eSIM
     flag: img/flags/cn.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
+  - name: 콜롬비아 eSIM
+    flag: img/flags/co.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 콩고(킨샤사) eSIM
+    flag: img/flags/cg.svg
+    price: $7.99부터
+    is_highlight: false
+  - name: 코스타리카 eSIM
+    flag: img/flags/cr.svg
+    price: $9.99부터
+    is_highlight: false
+  - name: 크로아티아 eSIM
+    flag: img/flags/hr.svg
     price: $1.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 키프로스 eSIM
+    flag: img/flags/cy.svg
+    price: $2.99부터
     is_highlight: false
 market_analysis:
   title: '불가리아 eSIM vs SIM 카드 요금제: 어떤 것이 귀하의 필요에 맞을까요?'
   subtitle: 불가리아 현지 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (불가리아) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Bulgaria
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

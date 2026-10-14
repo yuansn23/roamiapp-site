@@ -1,7 +1,7 @@
 ---
 title: '싱가포르 eSIM - 섬 전체 5G 커버리지 | 공항 대기열 불필요 | Roami'
-date: '2026-08-18T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 싱가포르 eSIM - 섬 전체 5G 커버리지
   description: Singtel, StarHub 및 M1에서 섬 전체 5G를 제공하는 최고의 싱가포르 eSIM을 만나보세요. 창이에서 여권 대기열 불필요 — 즉시 QR 배송. 마리나 베이, 센토사 및 오차드 로드에 완벽. 요금제는 $1.99부터 시작합니다.
-  keywords: 싱가포르 eSIM, 싱가포르 eSIM 구매, 최고의 싱가포르 eSIM, 싱가포르 여행 eSIM, Singtel 싱가포르, StarHub 싱가포르, M1 싱가포르, 싱가포르 시티 eSIM, 주롱 이스트 eSIM, 탐피니스 eSIM, 싱가포르 선불 eSIM, 싱가포르 5G eSIM, 마리나 베이 eSIM, 센토사 eSIM
+  keywords: 싱가포르 eSIM, 싱가포르 eSIM 추천, 싱가포르 eSIM 구매, 싱가포르 eSIM 요금제, 싱가포르 eSIM 가격, 싱가포르 여행 eSIM, 최고의 싱가포르 eSIM, 싱가포르 eSIM 무제한, 싱가포르 eSIM 사용법, 싱가포르 선불 eSIM, 싱가포르 eSIM 후기, 싱가포르 5G eSIM, Singtel 싱가포르, 싱가포르 시티 eSIM, 주롱 이스트 eSIM, 탐피니스 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 65.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -405,63 +405,75 @@ faq_section:
         싱가포르 eSIM의 유효 기간은 언제 시작되나요?
       a: |
         요금제 유효 기간은 구매 또는 설치 시가 아닌 싱가포르 현지 네트워크에 연결될 때 시작됩니다. 따라서 여행 몇 주 전에 구매 및 설치해도 요금제 일수를 손실하지 않습니다. 7일 요금제는 첫 연결부터 7일간 사용 가능합니다.
+    - q: |
+        싱가포르 도착 전에 Singtel용 eSIM을 미리 설치할 수 있나요?
+      a: |
+        가능합니다. 출국 전에 설치해 두고, 싱가포르 도착 후 회선을 켜면 Singtel 네트워크에 자동 연결됩니다. 유효 기간은 지원 네트워크에 처음 연결될 때 시작됩니다.
+    - q: |
+        싱가포르 eSIM 요금제는 얼마부터 시작하며, Singtel 현지 요금제와 비교하면 어떤가요?
+      a: |
+        Roami 싱가포르 eSIM은 저렴한 소용량 요금제부터 시작합니다. Singtel 현지 요금제는 보통 장기 약정과 등록 절차가 필요한 반면, Roami는 여행 기간에 맞춘 단기 요금제를 제공합니다.
+    - q: |
+        Singtel와 달리 Roami 싱가포르 eSIM은 자동 갱신되나요?
+      a: |
+        아니요. 모든 요금제는 선불이며 자동 갱신되지 않습니다. 여행이 끝난 뒤 추가 청구가 발생하지 않아 Singtel 후불 요금제보다 예측 가능합니다.
 related_products:
   title: 관련 싱가포르 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
+  - name: 슬로바키아 eSIM
+    flag: img/flags/sl.svg
     price: $1.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 남아프리카 eSIM
+    flag: img/flags/za.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 한국 eSIM
+    flag: img/flags/kr.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
+  - name: 동남아시아 eSIM
+    flag: img/flags/ya.webp
     price: $1.99부터
     is_highlight: false
   - name: 스페인 eSIM
     flag: img/flags/es.svg
     price: $1.99부터
     is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
+  - name: 스웨덴 eSIM
+    flag: img/flags/se.svg
     price: $1.99부터
     is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 스위스 eSIM
+    flag: img/flags/ch.svg
     price: $1.99부터
+    is_highlight: false
+  - name: 대만 eSIM
+    flag: img/flags/tw.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 타지키스탄 eSIM
+    flag: img/flags/tj.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 탄자니아 eSIM
+    flag: img/flags/tz.svg
+    price: $7.99부터
+    is_highlight: false
+  - name: 태국 eSIM
+    flag: img/flags/th.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 튀니지 eSIM
+    flag: img/flags/tn.svg
+    price: $3.99부터
     is_highlight: false
 market_analysis:
   title: '싱가포르 eSIM vs 현지 선불 SIM: 편의성 대비 비용'
   subtitle: 싱가포르 현지 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (싱가포르) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Singapore
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

@@ -1,7 +1,7 @@
 ---
 title: '이스라엘 eSIM 2026: 관광객 및 네트워크 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Cellcom, Pelephone, Partner
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: 텔아비브, 예루살렘, 하이파, 에일랏, 베르셰바
-  main_packages: 3/7/15/30 일, 무제한 데이터
+  main_packages: 3/7/15/30일, 무제한 데이터
 modal:
   title: 서비스 업그레이드 완료!
   btn_text: 계속하기
@@ -18,10 +18,10 @@ modal:
   text_android: 당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객님께는 20% 할인 혜택이 제공되며, 프로모션 코드는 web20 입니다.
 seo:
   title: '이스라엘 5G eSIM: 즉시 활성화, 무제한 데이터'
-  description: 텔아비브, 예루살렘, 하이파에서 빠른 5G를 제공하는 이스라엘 eSIM 요금제를 비교하세요. 관광객 및 여행자를 위한 Cellcom, Pelephone, Partner 커버리지 가이드. $1.99부터 즉시 QR 활성화.
-  keywords: 이스라엘 eSIM, 이스라엘 eSIM 구매, 최고의 이스라엘 eSIM, 이스라엘 여행 eSIM, Cellcom Israel, Pelephone Israel, Partner Israel, 텔아비브 eSIM, 예루살렘 eSIM, 하이파 eSIM, 이스라엘 선불 eSIM, 5G 이스라엘 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: 텔아비브, 예루살렘, 하이파에서 빠른 5G를 제공하는 이스라엘 eSIM 요금제를 비교하세요. 관광객 및 여행자를 위한 Cellcom, Pelephone, Partner 커버리지 가이드. $2.99부터 즉시 QR 활성화.
+  keywords: 이스라엘 eSIM, 이스라엘 eSIM 추천, 이스라엘 eSIM 구매, 이스라엘 eSIM 요금제, 이스라엘 eSIM 가격, 이스라엘 여행 eSIM, 최고의 이스라엘 eSIM, 이스라엘 eSIM 무제한, 이스라엘 eSIM 사용법, 이스라엘 선불 eSIM, 이스라엘 eSIM 후기, 이스라엘 5G eSIM, Cellcom 이스라엘, 텔아비브 eSIM, 예루살렘 eSIM, 하이파 eSIM
+  low_price: 2.99
+  high_price: 69.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -354,7 +354,8 @@ faq_section:
     - q: |
         너무 많은 비용을 들이지 않고 이스라엘용 eSIM을 구할 수 있나요?
       a: |
-        물론입니다. Roami의 이스라엘 eSIM 요금제는 $1.99부터 시작합니다. 5GB/15일 옵션($9.99)은 여행자들 사이에서 가장 인기가 많습니다 — 지도, WhatsApp, Instagram, 이메일을 편안하게 처리할 수 있습니다. 데이터를 많이 사용하는 경우 10GB($14.99) 또는 무제한($59.99) 요금제가 안심을 제공합니다. 공항 SIM 카운터를 건너뛰면 30-50%를 절약하고 줄 서는 번거로움을 피할 수 있습니다. 조정이 필요하신가요? Roami 앱에서 언제든지 추가 충전할 수 있습니다.
+        물론입니다. Roami의 이스라엘 eSIM 요금제는 $2.99부터 시작합니다. 5GB/15일 옵션($6.99)은 여행자들 사이에서 가장 인기가 많습니다 — 지도, WhatsApp, Instagram, 이메일을 편안하게 처리할 수 있습니다. 데이터를 많이 사용하는 경우 10GB($6.99) 또는 무제한($69.99) 요금제가 안심을 제공합니다. 공항 SIM 카운터를 건너뛰면 30-50%를 절약하고 줄 서는 번거로움을 피할 수 있습니다. 조정이 필요하신가요? Roami 앱에서 언제든지 추가 충전할 수 있습니다.
+
     - q: |
         이스라엘 eSIM 등록을 위해 여권을 업로드해도 안전한가요? 개인정보 보호가 걱정됩니다.
       a: |
@@ -366,7 +367,8 @@ faq_section:
     - q: |
         이스라엘을 여행하는 여행자들에게 가장 인기 있는 eSIM 선택은 무엇인가요?
       a: |
-        대부분의 이스라엘 여행자는 5GB/15일 요금제($9.99)를 선택합니다. 일일 내비게이션, 소셜 미디어, 메시징에 충분합니다. 더 긴 체류나 더 많은 사용량을 위해서는 10GB($14.99) 또는 무제한($59.99) 요금제가 좋은 옵션입니다. 모든 요금제는 몇 분 내에 활성화되며 24/7 지원을 포함합니다.
+        대부분의 이스라엘 여행자는 5GB/15일 요금제($6.99)를 선택합니다. 일일 내비게이션, 소셜 미디어, 메시징에 충분합니다. 더 긴 체류나 더 많은 사용량을 위해서는 10GB($6.99) 또는 무제한($69.99) 요금제가 좋은 옵션입니다. 모든 요금제는 몇 분 내에 활성화되며 24/7 지원을 포함합니다.
+
     - q: |
         여행 전에 실수로 이스라엘 eSIM을 삭제하면 어떻게 되나요?
       a: |
@@ -379,63 +381,75 @@ faq_section:
         이스라엘 eSIM을 얼마나 미리 구매해야 하나요?
       a: |
         언제든지 구매할 수 있습니다 — 게이트에서도 가능합니다. QR 코드는 몇 분 내에 도착합니다. 집에서 Wi-Fi를 통해 설치할 수 있도록 며칠 전에 구매하는 것을 권장합니다. 요금제는 이스라엘에서 연결될 때만 활성화되므로 미리 구매해도 요금제 사용 일수가 낭비되지 않습니다.
+    - q: |
+        이스라엘 도착 전에 Cellcom용 eSIM을 미리 설치할 수 있나요?
+      a: |
+        가능합니다. 출국 전에 설치해 두고, 이스라엘 도착 후 회선을 켜면 Cellcom 네트워크에 자동 연결됩니다. 유효 기간은 지원 네트워크에 처음 연결될 때 시작됩니다.
+    - q: |
+        이스라엘 eSIM 요금제는 얼마부터 시작하며, Cellcom 현지 요금제와 비교하면 어떤가요?
+      a: |
+        Roami 이스라엘 eSIM은 저렴한 소용량 요금제부터 시작합니다. Cellcom 현지 요금제는 보통 장기 약정과 등록 절차가 필요한 반면, Roami는 여행 기간에 맞춘 단기 요금제를 제공합니다.
+    - q: |
+        Cellcom와 달리 Roami 이스라엘 eSIM은 자동 갱신되나요?
+      a: |
+        아니요. 모든 요금제는 선불이며 자동 갱신되지 않습니다. 여행이 끝난 뒤 추가 청구가 발생하지 않아 Cellcom 후불 요금제보다 예측 가능합니다.
 related_products:
   title: 관련 이스라엘 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
+  - name: 이탈리아 eSIM
+    flag: img/flags/it.svg
     price: $1.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
-    price: $1.99부터
+  - name: 코트디부아르 eSIM
+    flag: img/flags/ci.svg
+    price: $9.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
+  - name: 자메이카 eSIM
+    flag: img/flags/jm.svg
+    price: $11.99부터
     is_highlight: false
   - name: 일본 eSIM
     flag: img/flags/jp.svg
     price: $1.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
+  - name: 요르단 eSIM
+    flag: img/flags/jo.svg
+    price: $6.99부터
     is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
+  - name: 카자흐스탄 eSIM
+    flag: img/flags/kz.svg
+    price: $3.99부터
     is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
+  - name: 케냐 eSIM
+    flag: img/flags/ke.svg
+    price: $7.99부터
     is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
+  - name: 코소보 eSIM
+    flag: img/flags/xk.svg
+    price: $13.99부터
     is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 쿠웨이트 eSIM
+    flag: img/flags/kw.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 키르기스스탄 eSIM
+    flag: img/flags/kg.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 라오스 eSIM
+    flag: img/flags/la.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 라트비아 eSIM
+    flag: img/flags/lv.svg
     price: $1.99부터
     is_highlight: false
 market_analysis:
   title: '이스라엘 eSIM 또는 SIM 카드: 2026년 최선의 선택은?'
   subtitle: 이스라엘 로컬 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (이스라엘) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Israel
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 로컬 선불 SIM (시장 데이터)

@@ -1,7 +1,7 @@
 ---
 title: '코트디부아르 eSIM 2026: 연결 및 속도 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Orange, MTN, Moov
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: 아비장, 야무수크로, 부아케, 달로아, 상페드로
-  main_packages: 3/7/15/30일, 무제한 데이터
+  main_packages: 3/7/15/30일, 1–5GB 데이터
 modal:
   title: 서비스가 업그레이드되었습니다!
   btn_text: 계속하기
@@ -18,10 +18,10 @@ modal:
   text_android: '당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객께서는 20% 할인을 받으실 수 있습니다. 프로모션 코드: web20'
 seo:
   title: '코트디부아르 eSIM: 5G 고속 데이터, 로밍 수수료 없음'
-  description: 아비장, 야무수크로, 부아케에서 빠른 5G를 제공하는 코트디부아르 eSIM 요금제를 비교하세요. 관광객 및 여행자를 위한 Orange, MTN, Moov 커버리지 가이드. $1.99부터 즉시 QR 활성화.
-  keywords: 코트디부아르 eSIM, 코트디부아르 eSIM 구매, 최고의 코트디부아르 eSIM, 코트디부아르 여행 eSIM, Orange 코트디부아르, MTN 코트디부아르, Moov 코트디부아르, 아비장 eSIM, 야무수크로 eSIM, 부아케 eSIM, 코트디부아르 선불 eSIM, 5G 코트디부아르 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: 아비장, 야무수크로, 부아케에서 빠른 5G를 제공하는 코트디부아르 eSIM 요금제를 비교하세요. 관광객 및 여행자를 위한 Orange, MTN, Moov 커버리지 가이드. $9.99부터 즉시 QR 활성화.
+  keywords: 코트디부아르 eSIM, 코트디부아르 eSIM 추천, 코트디부아르 eSIM 구매, 코트디부아르 eSIM 요금제, 코트디부아르 eSIM 가격, 코트디부아르 여행 eSIM, 최고의 코트디부아르 eSIM, 코트디부아르 eSIM 데이터, 코트디부아르 eSIM 사용법, 코트디부아르 선불 eSIM, 코트디부아르 eSIM 후기, 코트디부아르 5G eSIM, Orange 코트디부아르, 아비장 eSIM, 야무수크로 eSIM, 부아케 eSIM
+  low_price: 9.99
+  high_price: 31.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -189,7 +189,8 @@ faq_section:
     - q: |
         코트디부아르 방문 시 eSIM에 얼마를 예산해야 하나요?
       a: |
-        Roami는 7일 라이트 요금제 $1.99부터 30일 무제한 데이터 $59.99까지 코트디부아르 eSIM을 제공합니다. 대부분의 방문객은 $9.99의 5GB/15일 요금제를 선택합니다 — 일일 내비게이션, 소셜 미디어 및 메시징을 스트레스 없이 커버합니다. 스트리밍 애호가나 소셜 미디어를 많이 사용하는 분들은 10GB 또는 무제한을 고려해야 합니다. Orange는 코트디부아르 전역에서 안정적인 속도를 제공합니다. Roami 요금제는 선불입니다 — 예상치 못한 청구서, 자동 갱신 없이 간단한 가격 책정입니다.
+        Roami는 7일 라이트 요금제 $9.99부터 30일 5GB 데이터 $31.99까지 코트디부아르 eSIM을 제공합니다. 대부분의 방문객은 $31.99의 5GB/15일 요금제를 선택합니다 — 일일 내비게이션, 소셜 미디어 및 메시징을 스트레스 없이 커버합니다. 스트리밍 애호가나 소셜 미디어를 많이 사용하는 분들은 10GB 또는 무제한을 고려해야 합니다. Orange는 코트디부아르 전역에서 안정적인 속도를 제공합니다. Roami 요금제는 선불입니다 — 예상치 못한 청구서, 자동 갱신 없이 간단한 가격 책정입니다.
+
     - q: |
         코트디부아르를 방문하는 관광객에게 Orange, MTN, Moov는 어떻게 비교되나요?
       a: |
@@ -214,55 +215,67 @@ faq_section:
         코트디부아르 eSIM은 시골 지역이나 작은 마을에서도 작동하나요?
       a: |
         코트디부아르의 커버리지는 도심 지역의 약 95%에 달하지만 외딴 지역에서는 감소합니다. 속도는 200-300 Mbps(5G)에서 10-30 Mbps(4G)로 떨어질 수 있습니다. Roami는 가장 강력한 네트워크로 자동 전환됩니다. 외딴 지역으로 향하기 전에 오프라인 지도를 다운로드하세요.
+    - q: |
+        안드로이드에서 Orange 코트디부아르 eSIM을 설정하는 방법은 무엇인가요?
+      a: |
+        설정 > 네트워크 및 인터넷 > SIM > 'eSIM 다운로드'에서 QR 코드를 스캔합니다. Orange 물리 SIM과 함께 쓰려면 데이터 회선을 Roami로 지정하세요.
+    - q: |
+        코트디부아르 eSIM 가격에 숨겨진 수수료가 있나요? Orange과 비교해 주세요.
+      a: |
+        없습니다. 표시된 가격 외에 활성화 수수료나 로밍 추가 요금이 붙지 않습니다. Orange 선불 SIM은 등록비나 최소 충전 조건이 붙는 경우가 있습니다.
+    - q: |
+        Orange 네트워크 속도로 코트디부아르 eSIM 데이터를 다 쓰면 느려지나요?
+      a: |
+        Roami 코트디부아르 eSIM은 정해진 데이터 한도까지 고속으로 사용하고, 한도를 모두 쓰면 추가 구매 전까지 연결이 멈춥니다. 요금이 갑자기 오르지 않습니다.
 related_products:
   title: 관련 코트디부아르 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 자메이카 eSIM
+    flag: img/flags/jm.svg
+    price: $11.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
-    is_highlight: false
   - name: 일본 eSIM
     flag: img/flags/jp.svg
     price: $1.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
+  - name: 요르단 eSIM
+    flag: img/flags/jo.svg
+    price: $6.99부터
+    is_highlight: false
+  - name: 카자흐스탄 eSIM
+    flag: img/flags/kz.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 케냐 eSIM
+    flag: img/flags/ke.svg
+    price: $7.99부터
+    is_highlight: false
+  - name: 코소보 eSIM
+    flag: img/flags/xk.svg
+    price: $13.99부터
+    is_highlight: false
+  - name: 쿠웨이트 eSIM
+    flag: img/flags/kw.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 키르기스스탄 eSIM
+    flag: img/flags/kg.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 라오스 eSIM
+    flag: img/flags/la.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 라트비아 eSIM
+    flag: img/flags/lv.svg
     price: $1.99부터
     is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
+  - name: 라이베리아 eSIM
+    flag: img/flags/lr.svg
+    price: $27.99부터
     is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 리히텐슈타인 eSIM
+    flag: img/flags/li.svg
     price: $1.99부터
     is_highlight: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: '캄보디아 eSIM 2026: 통신사 및 커버리지 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 캄보디아 eSIM | 빠르고 안정적인 선불 데이터 요금제
   description: Roami의 최고의 선불 여행용 eSIM으로 캄보디아를 탐험하세요. 전국 무제한 5G 데이터. 프놈펜, 시엠립 및 시하누크빌 커버. 즉시 활성화.
-  keywords: 캄보디아 eSIM, 캄보디아 eSIM 구매, 최고의 캄보디아 eSIM, 캄보디아 여행용 eSIM, Smart 캄보디아, Metfone 캄보디아, Cellcard 캄보디아, 프놈펜 eSIM, 시엠립 eSIM, 시하누크빌 eSIM, 캄보디아 선불 eSIM, 5G 캄보디아 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: 캄보디아 eSIM, 캄보디아 eSIM 추천, 캄보디아 eSIM 구매, 캄보디아 eSIM 요금제, 캄보디아 eSIM 가격, 캄보디아 여행 eSIM, 최고의 캄보디아 eSIM, 캄보디아 eSIM 무제한, 캄보디아 eSIM 사용법, 캄보디아 선불 eSIM, 캄보디아 eSIM 후기, 캄보디아 5G eSIM, Smart 캄보디아, 프놈펜 eSIM, 시엠립 eSIM, 시하누크빌 eSIM
+  low_price: 3.99
+  high_price: 88.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -358,7 +358,8 @@ faq_section:
     - q: |
         캄보디아 방문 시 eSIM에 얼마나 예산을 책정해야 하나요?
       a: |
-        Roami는 7일 라이트 요금제 $1.99부터 30일 무제한 데이터 $59.99까지 캄보디아 eSIM을 제공합니다. 대부분의 방문객은 $9.99에 5GB/15일 요금제를 선택합니다 — 일일 내비게이션, 소셜 미디어, 메시징을 부담 없이 커버합니다. 스트리밍 애호가나 소셜 미디어 헤비 유저는 10GB 또는 무제한을 고려해야 합니다. Cellcard는 캄보디아 전역에서 안정적인 속도를 제공합니다. Roami 요금제는 선불입니다 — 예상치 못한 청구서 없음, 자동 갱신 없음, 간단한 가격 책정.
+        Roami는 3일 라이트 요금제 $3.99부터 30일 무제한 데이터 $88.99까지 캄보디아 eSIM을 제공합니다. 대부분의 방문객은 $7.99에 5GB/15일 요금제를 선택합니다 — 일일 내비게이션, 소셜 미디어, 메시징을 부담 없이 커버합니다. 스트리밍 애호가나 소셜 미디어 헤비 유저는 10GB 또는 무제한을 고려해야 합니다. Cellcard는 캄보디아 전역에서 안정적인 속도를 제공합니다. Roami 요금제는 선불입니다 — 예상치 못한 청구서 없음, 자동 갱신 없음, 간단한 가격 책정.
+
     - q: |
         캄보디아에서 Roami는 Airalo eSIM과 어떻게 비교되나요?
       a: |
@@ -366,7 +367,8 @@ faq_section:
     - q: |
         캄보디아 eSIM 무제한 요금제는 데이터를 너무 많이 사용하면 속도가 느려지나요?
       a: |
-        공정 사용 정책이 있습니다: 하루 30GB 이후 속도가 감소합니다. 감소된 속도에서도 메시지, 내비게이션, 브라우징은 가능합니다 — 단, 원활한 비디오는 어렵습니다. 현실적으로 대부분의 여행객은 30GB에 근접하지 않습니다. 걱정된다면 10GB($14.99) 또는 20GB($24.99) 고정 요금제가 완전히 불확실성을 제거합니다.
+        공정 사용 정책이 있습니다: 하루 30GB 이후 속도가 감소합니다. 감소된 속도에서도 메시지, 내비게이션, 브라우징은 가능합니다 — 단, 원활한 비디오는 어렵습니다. 현실적으로 대부분의 여행객은 30GB에 근접하지 않습니다. 걱정된다면 10GB($9.99) 또는 20GB($17.99) 고정 요금제가 완전히 불확실성을 제거합니다.
+
     - q: |
         캄보디아 eSIM 등록을 위해 여권을 업로드해도 안전한가요? 개인정보 보호가 걱정됩니다.
       a: |
@@ -374,7 +376,8 @@ faq_section:
     - q: |
         캄보디아의 국제 로밍보다 eSIM이 더 저렴한가요?
       a: |
-        네 — Roami eSIM은 일반적으로 대부분의 자국 통신사 로밍 요금제보다 80-90% 저렴합니다. 캄보디아 5GB 요금제는 $9.99인 반면, 로밍은 동일한 데이터에 대해 $50 이상이 될 수 있습니다. 또한 제한된 로밍 대신 현지 네트워크 속도를 이용할 수 있습니다.
+        네 — Roami eSIM은 일반적으로 대부분의 자국 통신사 로밍 요금제보다 80-90% 저렴합니다. 캄보디아 5GB 요금제는 $6.99인 반면, 로밍은 동일한 데이터에 대해 $50 이상이 될 수 있습니다. 또한 제한된 로밍 대신 현지 네트워크 속도를 이용할 수 있습니다.
+
     - q: |
         캄보디아 eSIM을 소셜 미디어와 가족 사진 공유에 사용할 수 있나요?
       a: |
@@ -386,64 +389,77 @@ faq_section:
     - q: |
         캄보디아로 여행하는 여행객에게 가장 인기 있는 eSIM 선택은 무엇인가요?
       a: |
-        캄보디아로 여행하는 대부분의 여행객은 5GB/15일 요금제($9.99)를 선택합니다. 일일 내비게이션, 소셜 미디어, 메시징에 충분합니다. 더 긴 체류나 더 많은 사용량을 위해 10GB($14.99) 또는 무제한($59.99) 요금제가 훌륭한 옵션입니다. 모든 요금제는 몇 분 내에 활성화되며 24/7 지원을 포함합니다.
+        캄보디아로 여행하는 대부분의 여행객은 5GB/15일 요금제($7.99)를 선택합니다. 일일 내비게이션, 소셜 미디어, 메시징에 충분합니다. 더 긴 체류나 더 많은 사용량을 위해 10GB($9.99) 또는 무제한($88.99) 요금제가 훌륭한 옵션입니다. 모든 요금제는 몇 분 내에 활성화되며 24/7 지원을 포함합니다.
+
+    - q: |
+        Smart 선불 SIM과 달리 캄보디아 eSIM 개통에 별도 서류가 필요한가요?
+      a: |
+        Smart 선불 SIM은 여권 등록이 필요한 경우가 많지만, Roami 캄보디아 eSIM은 데이터 전용이라 신분증 업로드나 매장 방문 없이 온라인으로 즉시 개통됩니다.
+    - q: |
+        캄보디아 eSIM을 Smart 선불 요금제 대신 쓰면 비용이 얼마나 줄어드나요?
+      a: |
+        요금제와 사용량에 따라 다르지만, 매장 방문·등록·미사용 데이터 비용을 없앨 수 있어 실질 부담이 낮아집니다. 모든 요금제는 선불입니다.
+    - q: |
+        캄보디아 eSIM을 충전하면 Smart 회선도 함께 갱신되나요?
+      a: |
+        아니요. Roami 캄보디아 eSIM과 Smart 물리 회선은 별개입니다. eSIM 요금제를 추가 구매해도 Smart 요금제에는 영향이 없습니다.
 related_products:
   title: 관련 캄보디아 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 카메룬 eSIM
+    flag: img/flags/cm.svg
+    price: $27.99부터
     is_highlight: true
   - name: 캐나다 eSIM
     flag: img/flags/ca.svg
-    price: $1.99부터
+    price: $3.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
+  - name: 차드 eSIM
+    flag: img/flags/td.svg
+    price: $23.99부터
+    is_highlight: false
+  - name: 칠레 eSIM
+    flag: img/flags/cl.svg
+    price: $4.99부터
     is_highlight: false
   - name: 중국 eSIM
     flag: img/flags/cn.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
+  - name: 콜롬비아 eSIM
+    flag: img/flags/co.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 콩고(킨샤사) eSIM
+    flag: img/flags/cg.svg
+    price: $7.99부터
+    is_highlight: false
+  - name: 코스타리카 eSIM
+    flag: img/flags/cr.svg
+    price: $9.99부터
+    is_highlight: false
+  - name: 크로아티아 eSIM
+    flag: img/flags/hr.svg
     price: $1.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
+  - name: 키프로스 eSIM
+    flag: img/flags/cy.svg
+    price: $2.99부터
+    is_highlight: false
+  - name: 체코 eSIM
+    flag: img/flags/cz.svg
     price: $1.99부터
     is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 덴마크 eSIM
+    flag: img/flags/dk.svg
     price: $1.99부터
     is_highlight: false
 market_analysis:
   title: '캄보디아 eSIM vs 선불 SIM: 속도, 커버리지 및 가격 비교'
   subtitle: 캄보디아 현지 선불 SIM vs. eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (캄보디아) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Cambodia
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

@@ -1,7 +1,7 @@
 ---
 title: '필리핀 eSIM 2026 - 마닐라 & 세부 최고의 5G 요금제 | Roami'
-date: '2026-08-18T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: '당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객은 20% 할인을 받으실 수 있습니다. 프로모션 코드: web20'
 seo:
   title: 필리핀 eSIM - 마닐라 & 세부 최고의 5G 요금제
-  description: Globe, Smart 및 DITO의 5G를 지원하는 최고의 필리핀 선불 eSIM 요금제를 만나보세요. 신분증이나 셀카 불필요 — 즉시 QR 활성화. RA 11934 등록 우회. $1.99부터.
-  keywords: 필리핀 eSIM, 필리핀 eSIM 구매, 최고의 필리핀 eSIM, 필리핀 여행 eSIM, Globe 필리핀, Smart 필리핀, DITO 필리핀, 마닐라 eSIM, 세부 eSIM, 다바오 eSIM, 필리핀 선불 eSIM, 5G 필리핀 eSIM, 보라카이 eSIM, 팔라완 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Globe, Smart 및 DITO의 5G를 지원하는 최고의 필리핀 선불 eSIM 요금제를 만나보세요. 신분증이나 셀카 불필요 — 즉시 QR 활성화. RA 11934 등록 우회. $2.99부터.
+  keywords: 필리핀 eSIM, 필리핀 eSIM 추천, 필리핀 eSIM 구매, 필리핀 eSIM 요금제, 필리핀 eSIM 가격, 필리핀 여행 eSIM, 최고의 필리핀 eSIM, 필리핀 eSIM 무제한, 필리핀 eSIM 사용법, 필리핀 선불 eSIM, 필리핀 eSIM 후기, 필리핀 5G eSIM, Globe 필리핀, 마닐라 eSIM, 세부 eSIM, 다바오 eSIM
+  low_price: 2.99
+  high_price: 70.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -393,63 +393,75 @@ faq_section:
         필리핀 eSIM의 유효 기간은 언제 시작되나요?
       a: |
         요금제 유효 기간은 구매 또는 설치 시가 아닌 필리핀 현지 네트워크에 연결될 때 시작됩니다. 따라서 여행 몇 주 전에 구매 및 설치해도 요금제 사용 일수를 잃지 않습니다. 7일 요금제는 최초 연결 시점부터 7일간의 완전한 사용이 가능합니다.
+    - q: |
+        필리핀에서 Globe 커버리지가 약한 지역에서도 eSIM이 작동하나요?
+      a: |
+        Roami 필리핀 eSIM은 여러 현지 사업자에 자동 연결되므로, Globe 신호가 약한 지역에서도 더 강한 네트워크로 전환되어 연결을 유지합니다.
+    - q: |
+        Globe 데이터 요금과 필리핀 eSIM 요금 중 어느 쪽이 더 저렴한가요?
+      a: |
+        단기 여행이라면 대개 Roami 필리핀 eSIM이 유리합니다. Globe 요금제는 장기 약정이나 최소 사용 조건이 있는 반면, Roami는 필요한 기간만큼만 구매할 수 있습니다.
+    - q: |
+        필리핀에서 핫스팟으로 Globe 기기와 데이터를 공유할 수 있나요?
+      a: |
+        네. 핫스팟 공유가 지원되어 노트북이나 태블릿 등 다른 기기에서도 필리핀 eSIM 데이터를 사용할 수 있습니다.
 related_products:
   title: 관련 필리핀 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
+  - name: 폴란드 eSIM
+    flag: img/flags/pl.svg
     price: $1.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 포르투갈 eSIM
+    flag: img/flags/pt.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 푸에르토리코 eSIM
+    flag: img/flags/pu.svg
+    price: $6.99부터
+    is_highlight: false
+  - name: 카타르 eSIM
+    flag: img/flags/qa.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 레위니옹 eSIM
+    flag: img/flags/re.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
+  - name: 루마니아 eSIM
+    flag: img/flags/ro.svg
     price: $1.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
+  - name: 러시아 eSIM
+    flag: img/flags/ru.svg
+    price: $2.99부터
     is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
+  - name: 사우디아라비아 eSIM
+    flag: img/flags/sa.svg
+    price: $3.99부터
     is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
+  - name: 세네갈 eSIM
+    flag: img/flags/se.svg
+    price: $12.99부터
     is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
+  - name: 세이셸 eSIM
+    flag: img/flags/sc.svg
+    price: $9.99부터
     is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 시에라리온 eSIM
+    flag: img/flags/si.svg
+    price: $10.99부터
+    is_highlight: false
+  - name: 싱가포르 eSIM
+    flag: img/flags/sg.svg
     price: $1.99부터
     is_highlight: false
 market_analysis:
   title: '필리핀 eSIM vs 선불 SIM 카드: 전환할 가치가 있을까요?'
   subtitle: 필리핀 현지 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (Philippines) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Philippines
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

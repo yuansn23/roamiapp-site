@@ -1,7 +1,7 @@
 ---
 title: '세르비아 eSIM 2026: 커버리지 및 속도 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 세르비아 eSIM | 관광객용 최고의 eSIM 요금제
   description: Roami의 최고의 선불 여행 eSIM으로 세르비아에서 연결 상태를 유지하세요. 전국 무제한 5G 데이터. 즉시 QR 활성화. 베오그라드, 노비사드 및 니시 커버.
-  keywords: 세르비아 eSIM, 세르비아 eSIM 구매, 최고의 세르비아 eSIM, 세르비아 여행 eSIM, Telenor Serbia 세르비아, Telekom Srbija 세르비아, A1 Srbija 세르비아, 베오그라드 eSIM, 노비사드 eSIM, 니시 eSIM, 세르비아 선불 eSIM, 5G 세르비아 eSIM
+  keywords: 세르비아 eSIM, 세르비아 eSIM 추천, 세르비아 eSIM 구매, 세르비아 eSIM 요금제, 세르비아 eSIM 가격, 세르비아 여행 eSIM, 최고의 세르비아 eSIM, 세르비아 eSIM 무제한, 세르비아 eSIM 사용법, 세르비아 선불 eSIM, 세르비아 eSIM 후기, 세르비아 5G eSIM, Telenor Serbia 세르비아, 베오그라드 eSIM, 노비사드 eSIM, 니시 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 89.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -358,7 +358,8 @@ faq_section:
     - q: |
         너무 많은 비용을 들이지 않고 세르비아용 eSIM을 받을 수 있나요?
       a: |
-        물론입니다. Roami의 세르비아 eSIM 요금제는 $1.99부터 시작합니다. 5GB/15일 옵션($9.99)은 여행객들에게 가장 인기가 많습니다 — 지도, WhatsApp, Instagram 및 이메일을 편안하게 처리할 수 있습니다. 데이터를 많이 사용하는 경우 10GB($14.99) 또는 무제한($59.99) 요금제가 안심을 제공합니다. 공항 SIM 카운터를 건너뛰면 30-50%의 비용과 대기하는 번거로움을 절약할 수 있습니다. 조정이 필요하신가요? Roami 앱에서 언제든지 충전할 수 있습니다.
+        물론입니다. Roami의 세르비아 eSIM 요금제는 $1.99부터 시작합니다. 5GB/15일 옵션($8.99)은 여행객들에게 가장 인기가 많습니다 — 지도, WhatsApp, Instagram 및 이메일을 편안하게 처리할 수 있습니다. 데이터를 많이 사용하는 경우 10GB($14.99) 또는 무제한($89.99) 요금제가 안심을 제공합니다. 공항 SIM 카운터를 건너뛰면 30-50%의 비용과 대기하는 번거로움을 절약할 수 있습니다. 조정이 필요하신가요? Roami 앱에서 언제든지 충전할 수 있습니다.
+
     - q: |
         세르비아에서 eSIM을 사용하려면 여권이나 신분증이 필요한가요? 인증은 어떻게 진행되나요?
       a: |
@@ -387,55 +388,67 @@ faq_section:
         세르비아 여행을 위해 휴대폰에 몇 개의 eSIM 프로필을 저장할 수 있나요?
       a: |
         대부분의 휴대폰은 5-10개의 eSIM 프로필을 저장할 수 있습니다. 세르비아 eSIM을 집 SIM 및 다른 국가 프로필과 함께 보관할 수 있습니다. 필요한 것을 활성화하고 다른 것은 비활성화하세요. 전환하는 데 휴대폰 설정에서 약 10초가 소요됩니다.
+    - q: |
+        세르비아 eSIM을 설치한 뒤 Telenor Serbia 번호는 어떻게 되나요?
+      a: |
+        Telenor Serbia 번호는 그대로 유지됩니다. Roami 세르비아 eSIM은 데이터 전용 회선이므로, 기존 번호로 전화·문자를 받으면서 데이터는 eSIM으로 사용할 수 있습니다.
+    - q: |
+        장기 체류 시 Telenor Serbia 대비 세르비아 eSIM 비용은 어떻게 되나요?
+      a: |
+        장기 체류에는 더 긴 유효 기간의 요금제를 선택할 수 있습니다. Telenor Serbia 장기 요금제와 비교해도 약정 없이 필요한 기간만 구매할 수 있다는 점이 장점입니다.
+    - q: |
+        세르비아 여행 중 Telenor Serbia 회선은 유지한 채 eSIM 데이터 요금제를 바꿀 수 있나요?
+      a: |
+        가능합니다. 사용 중에도 더 큰 요금제를 구매해 즉시 적용할 수 있습니다. Telenor Serbia 매장을 찾을 필요 없이 온라인으로 처리됩니다.
 related_products:
   title: 관련 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 세이셸 eSIM
+    flag: img/flags/sc.svg
+    price: $9.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 시에라리온 eSIM
+    flag: img/flags/si.svg
+    price: $10.99부터
+    is_highlight: false
+  - name: 싱가포르 eSIM
+    flag: img/flags/sg.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 슬로바키아 eSIM
+    flag: img/flags/sl.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 남아프리카 eSIM
+    flag: img/flags/za.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 한국 eSIM
+    flag: img/flags/kr.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
+  - name: 동남아시아 eSIM
+    flag: img/flags/ya.webp
     price: $1.99부터
     is_highlight: false
   - name: 스페인 eSIM
     flag: img/flags/es.svg
     price: $1.99부터
     is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
+  - name: 스웨덴 eSIM
+    flag: img/flags/se.svg
     price: $1.99부터
     is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 스위스 eSIM
+    flag: img/flags/ch.svg
     price: $1.99부터
+    is_highlight: false
+  - name: 대만 eSIM
+    flag: img/flags/tw.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 타지키스탄 eSIM
+    flag: img/flags/tj.svg
+    price: $4.99부터
     is_highlight: false
 ---

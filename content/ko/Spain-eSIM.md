@@ -1,7 +1,7 @@
 ---
 title: '스페인 eSIM 2026 - 마드리드 & 바르셀로나 최고의 5G 요금제 | Roami'
-date: '2026-08-18T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 스페인 eSIM 2026 - 마드리드 & 바르셀로나 최고의 5G 요금제 | Roami
   description: Movistar, Orange 및 Vodafone의 5G를 지원하는 최고의 스페인 선불 eSIM 요금제를 만나보세요. 여권 또는 신분증 불필요 — 즉시 QR 활성화. EU 로밍 포함. $1.99부터.
-  keywords: 스페인 eSIM, 스페인 eSIM 구매, 최고의 스페인 eSIM, 스페인 여행 eSIM, Movistar 스페인, Orange 스페인, Vodafone 스페인, 마드리드 eSIM, 바르셀로나 eSIM, 발렌시아 eSIM, 스페인 선불 eSIM, 5G 스페인 eSIM, 산티아고 순례길 eSIM, 카나리아 제도 eSIM
+  keywords: 스페인 eSIM, 스페인 eSIM 추천, 스페인 eSIM 구매, 스페인 eSIM 요금제, 스페인 eSIM 가격, 스페인 여행 eSIM, 최고의 스페인 eSIM, 스페인 eSIM 무제한, 스페인 eSIM 사용법, 스페인 선불 eSIM, 스페인 eSIM 후기, 스페인 5G eSIM, Movistar 스페인, 마드리드 eSIM, 바르셀로나 eSIM, 발렌시아 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -401,63 +401,75 @@ faq_section:
         스페인 eSIM의 유효 기간은 언제 시작되나요?
       a: |
         요금제 유효 기간은 구매 또는 설치 시가 아닌 스페인 현지 네트워크에 연결될 때 시작됩니다. 따라서 여행 몇 주 전에 구매 및 설치해도 요금제 사용 일수를 잃지 않습니다. 7일 요금제는 최초 연결 시점부터 7일간의 완전한 사용이 가능합니다.
+    - q: |
+        스페인 eSIM을 설치한 뒤 Movistar 번호는 어떻게 되나요?
+      a: |
+        Movistar 번호는 그대로 유지됩니다. Roami 스페인 eSIM은 데이터 전용 회선이므로, 기존 번호로 전화·문자를 받으면서 데이터는 eSIM으로 사용할 수 있습니다.
+    - q: |
+        장기 체류 시 Movistar 대비 스페인 eSIM 비용은 어떻게 되나요?
+      a: |
+        장기 체류에는 더 긴 유효 기간의 요금제를 선택할 수 있습니다. Movistar 장기 요금제와 비교해도 약정 없이 필요한 기간만 구매할 수 있다는 점이 장점입니다.
+    - q: |
+        스페인 여행 중 Movistar 회선은 유지한 채 eSIM 데이터 요금제를 바꿀 수 있나요?
+      a: |
+        가능합니다. 사용 중에도 더 큰 요금제를 구매해 즉시 적용할 수 있습니다. Movistar 매장을 찾을 필요 없이 온라인으로 처리됩니다.
 related_products:
   title: 관련 스페인 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
+  - name: 스웨덴 eSIM
+    flag: img/flags/se.svg
     price: $1.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 스위스 eSIM
+    flag: img/flags/ch.svg
     price: $1.99부터
+    is_highlight: false
+  - name: 대만 eSIM
+    flag: img/flags/tw.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 타지키스탄 eSIM
+    flag: img/flags/tj.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 탄자니아 eSIM
+    flag: img/flags/tz.svg
+    price: $7.99부터
+    is_highlight: false
+  - name: 태국 eSIM
+    flag: img/flags/th.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 튀니지 eSIM
+    flag: img/flags/tn.svg
+    price: $3.99부터
     is_highlight: false
   - name: 터키 eSIM
     flag: img/flags/tr.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 우간다 eSIM
+    flag: img/flags/ug.svg
+    price: $7.99부터
+    is_highlight: false
+  - name: 우크라이나 eSIM
+    flag: img/flags/ua.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
+  - name: UAE eSIM
+    flag: img/flags/ae.svg
+    price: $3.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 영국 eSIM
+    flag: img/flags/gb.svg
     price: $1.99부터
     is_highlight: false
 market_analysis:
   title: '스페인 eSIM vs 현지 선불 SIM: 어느 것이 더 편리한가요? – 스페인 여행자를 위한 최고의 eSIM'
   subtitle: 스페인 현지 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (Spain) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Spain
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

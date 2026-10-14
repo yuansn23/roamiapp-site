@@ -1,7 +1,7 @@
 ---
 title: '과들루프 eSIM 2026: 도시 및 네트워크 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: '당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객은 20% 할인을 받으실 수 있으며, 프로모션 코드: web20'
 seo:
   title: '과들루프 eSIM: 5G 커버리지, 신분증 인증 불필요'
-  description: 푸앵타피트르, 바스테르, 르고지에에서 빠른 5G를 제공하는 과들루프 eSIM 요금제를 비교하세요. 관광객 및 여행객을 위한 Orange, SFR, Free Mobile 커버리지 가이드. 즉시 QR 활성화, $1.99부터.
-  keywords: 과들루프 eSIM, 과들루프 eSIM 구매, 최고의 과들루프 eSIM, 과들루프 여행용 eSIM, Orange 과들루프, SFR 과들루프, Free Mobile 과들루프, 푸앵타피트르 eSIM, 바스테르 eSIM, 르고지에 eSIM, 과들루프 선불 eSIM, 5G 과들루프 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: 푸앵타피트르, 바스테르, 르고지에에서 빠른 5G를 제공하는 과들루프 eSIM 요금제를 비교하세요. 관광객 및 여행객을 위한 Orange, SFR, Free Mobile 커버리지 가이드. 즉시 QR 활성화, $8.99부터.
+  keywords: 과들루프 eSIM, 과들루프 eSIM 추천, 과들루프 eSIM 구매, 과들루프 eSIM 요금제, 과들루프 eSIM 가격, 과들루프 여행 eSIM, 최고의 과들루프 eSIM, 과들루프 eSIM 무제한, 과들루프 eSIM 사용법, 과들루프 선불 eSIM, 과들루프 eSIM 후기, 과들루프 5G eSIM, Orange 과들루프, 푸앵타피트르 eSIM, 바스테르 eSIM, 르고지에 eSIM
+  low_price: 8.99
+  high_price: 64.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -235,60 +235,74 @@ faq_section:
     - q: |
         과들루프 호텔에 무료 WiFi가 있다면 eSIM 데이터가 여전히 필요한가요?
       a: |
-        호텔 WiFi는 객실에서 작동하지만 외부 탐험 시에는 작동하지 않습니다. eSIM은 모든 곳에서 데이터를 제공합니다 — 거리 내비게이션, 주변 장소 검색, 대중교통 일정 확인. 5GB 요금제는 $9.99로, 많은 호텔에서 일주일 유료 WiFi($10-15)보다 저렴한 경우가 많습니다. 대부분의 여행객은 대용량 다운로드에 호텔 WiFi를, 이동 중 연결에는 eSIM을 사용합니다.
+        호텔 WiFi는 객실에서 작동하지만 외부 탐험 시에는 작동하지 않습니다. eSIM은 모든 곳에서 데이터를 제공합니다 — 거리 내비게이션, 주변 장소 검색, 대중교통 일정 확인. 3GB 요금제는 $14.99로, 많은 호텔에서 일주일 유료 WiFi($10-15)보다 저렴한 경우가 많습니다. 대부분의 여행객은 대용량 다운로드에 호텔 WiFi를, 이동 중 연결에는 eSIM을 사용합니다.
+
     - q: |
         과들루프에 2-3일만 여행합니다. 어떤 eSIM을 받아야 하나요?
       a: |
-        단기 여행의 경우 1GB/7일 요금제($1.99)가 지도와 메시징을 커버합니다. 소셜 미디어를 사용하고 사진을 공유할 계획이라면 3GB 요금제($4.99)가 더 여유를 줍니다. 둘 다 즉시 활성화되며 필요시 충전할 수 있습니다.
+        단기 여행의 경우 1GB/7일 요금제($8.99)가 지도와 메시징을 커버합니다. 소셜 미디어를 사용하고 사진을 공유할 계획이라면 3GB 요금제($14.99)가 더 여유를 줍니다. 둘 다 즉시 활성화되며 필요시 충전할 수 있습니다.
+
+    - q: |
+        Orange 선불 SIM과 달리 과들루프 eSIM 개통에 별도 서류가 필요한가요?
+      a: |
+        Orange 선불 SIM은 여권 등록이 필요한 경우가 많지만, Roami 과들루프 eSIM은 데이터 전용이라 신분증 업로드나 매장 방문 없이 온라인으로 즉시 개통됩니다.
+    - q: |
+        과들루프 eSIM을 Orange 선불 요금제 대신 쓰면 비용이 얼마나 줄어드나요?
+      a: |
+        요금제와 사용량에 따라 다르지만, 매장 방문·등록·미사용 데이터 비용을 없앨 수 있어 실질 부담이 낮아집니다. 모든 요금제는 선불입니다.
+    - q: |
+        과들루프 eSIM을 충전하면 Orange 회선도 함께 갱신되나요?
+      a: |
+        아니요. Roami 과들루프 eSIM과 Orange 물리 회선은 별개입니다. eSIM 요금제를 추가 구매해도 Orange 요금제에는 영향이 없습니다.
 related_products:
   title: 관련 과들루프 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 괌 eSIM
+    flag: img/flags/gu.svg
+    price: $9.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
-    price: $1.99부터
+  - name: 과테말라 eSIM
+    flag: img/flags/gt.svg
+    price: $11.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
+  - name: 가이아나 eSIM
+    flag: img/flags/gy.svg
+    price: $9.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
+  - name: 온두라스 eSIM
+    flag: img/flags/hn.svg
+    price: $6.99부터
     is_highlight: false
   - name: 홍콩 eSIM
     flag: img/flags/hk.svg
     price: $1.99부터
     is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
+  - name: 헝가리 eSIM
+    flag: img/flags/hu.svg
     price: $1.99부터
     is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
+  - name: 아이슬란드 eSIM
+    flag: img/flags/is.svg
     price: $1.99부터
     is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
+  - name: 인도 eSIM
+    flag: img/flags/in.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 인도네시아 eSIM
+    flag: img/flags/id.svg
     price: $1.99부터
     is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 이라크 eSIM
+    flag: img/flags/iq.svg
+    price: $9.99부터
+    is_highlight: false
+  - name: 아일랜드 eSIM
+    flag: img/flags/ie.svg
     price: $1.99부터
+    is_highlight: false
+  - name: 이스라엘 eSIM
+    flag: img/flags/il.svg
+    price: $2.99부터
     is_highlight: false
 ---

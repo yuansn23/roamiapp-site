@@ -1,7 +1,7 @@
 ---
 title: '뉴질랜드 eSIM - 오클랜드 & 퀸스타운 5G | 30일 낭비 없음 | Roami'
-date: '2026-08-18T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: '당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객은 20% 할인을 받으실 수 있습니다. 프로모션 코드: web20'
 seo:
   title: 뉴질랜드 eSIM - 오클랜드 & 퀸스타운 5G
-  description: Spark, Vodafone 및 2degrees의 5G를 지원하는 최고의 뉴질랜드 eSIM 요금제를 만나보세요. 30일 강제 요금제 없음 — 현지 SIM은 단기 여행 시 70% 이상 낭비합니다. 오클랜드, 퀸스타운 및 호빗온 커버리지. $1.99부터.
-  keywords: 뉴질랜드 eSIM, 뉴질랜드 eSIM 구매, 최고의 뉴질랜드 eSIM, 뉴질랜드 여행 eSIM, Spark 뉴질랜드, Vodafone NZ 뉴질랜드, 2degrees 뉴질랜드, 오클랜드 eSIM, 웰링턴 eSIM, 퀸스타운 eSIM, 뉴질랜드 선불 eSIM, 5G 뉴질랜드 eSIM, 호빗온 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Spark, Vodafone 및 2degrees의 5G를 지원하는 최고의 뉴질랜드 eSIM 요금제를 만나보세요. 30일 강제 요금제 없음 — 현지 SIM은 단기 여행 시 70% 이상 낭비합니다. 오클랜드, 퀸스타운 및 호빗온 커버리지. $3.99부터.
+  keywords: 뉴질랜드 eSIM, 뉴질랜드 eSIM 추천, 뉴질랜드 eSIM 구매, 뉴질랜드 eSIM 요금제, 뉴질랜드 eSIM 가격, 뉴질랜드 여행 eSIM, 최고의 뉴질랜드 eSIM, 뉴질랜드 eSIM 무제한, 뉴질랜드 eSIM 사용법, 뉴질랜드 선불 eSIM, 뉴질랜드 eSIM 후기, 뉴질랜드 5G eSIM, Spark 뉴질랜드, 오클랜드 eSIM, 웰링턴 eSIM, 크라이스트처치 eSIM
+  low_price: 3.99
+  high_price: 99.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -360,7 +360,8 @@ faq_section:
     - q: |
         뉴질랜드에서 현지 SIM을 구매하는 것이 단기 여행에 왜 그렇게 돈 낭비인가요?
       a: |
-        뉴질랜드의 선불 SIM 시장은 <strong>관광객에게 주요 결함</strong>이 있습니다. One NZ 여행 SIM은 <strong>30일 최소 기간</strong>을 가지고 있습니다 — 30일 동안 단 2GB 데이터에 $29 NZD입니다. 7일 여행의 경우 <strong>사용하지 않는 23일(70% 이상 낭비)</strong>에 대한 비용을 지불하는 것입니다. Skinny Holiday SIM은 <strong>두 개의 특정 공항 매장</strong>(크라이스트처치 허브 편의점 및 퀸스타운 페이퍼 플러스)에서만 구매 가능합니다 — 오클랜드에 도착하면 구매할 수 없습니다. Roami는 $1.99부터 시작하는 <strong>3, 7, 15 및 30일 요금제</strong>를 제공합니다 — 30일 강제 약정 없음, 낭비 없음.
+        뉴질랜드의 선불 SIM 시장은 <strong>관광객에게 주요 결함</strong>이 있습니다. One NZ 여행 SIM은 <strong>30일 최소 기간</strong>을 가지고 있습니다 — 30일 동안 단 2GB 데이터에 $29 NZD입니다. 7일 여행의 경우 <strong>사용하지 않는 23일(70% 이상 낭비)</strong>에 대한 비용을 지불하는 것입니다. Skinny Holiday SIM은 <strong>두 개의 특정 공항 매장</strong>(크라이스트처치 허브 편의점 및 퀸스타운 페이퍼 플러스)에서만 구매 가능합니다 — 오클랜드에 도착하면 구매할 수 없습니다. Roami는 $3.99부터 시작하는 <strong>3, 7, 15 및 30일 요금제</strong>를 제공합니다 — 30일 강제 약정 없음, 낭비 없음.
+
     - q: |
         뉴질랜드에 5G가 있나요? 오클랜드와 퀸스타운에서 속도는 어느 정도인가요?
       a: |
@@ -389,63 +390,75 @@ faq_section:
         뉴질랜드 eSIM의 유효 기간은 언제 시작되나요?
       a: |
         요금제 유효 기간은 구매 또는 설치 시가 아닌 뉴질랜드 현지 네트워크에 연결될 때 시작됩니다. 따라서 여행 몇 주 전에 구매 및 설치해도 요금제 사용 일수를 잃지 않습니다. 7일 요금제는 최초 연결 시점부터 7일간의 완전한 사용이 가능합니다.
+    - q: |
+        안드로이드에서 Spark 뉴질랜드 eSIM을 설정하는 방법은 무엇인가요?
+      a: |
+        설정 > 네트워크 및 인터넷 > SIM > 'eSIM 다운로드'에서 QR 코드를 스캔합니다. Spark 물리 SIM과 함께 쓰려면 데이터 회선을 Roami로 지정하세요.
+    - q: |
+        뉴질랜드 eSIM 가격에 숨겨진 수수료가 있나요? Spark과 비교해 주세요.
+      a: |
+        없습니다. 표시된 가격 외에 활성화 수수료나 로밍 추가 요금이 붙지 않습니다. Spark 선불 SIM은 등록비나 최소 충전 조건이 붙는 경우가 있습니다.
+    - q: |
+        Spark 네트워크 속도로 뉴질랜드 eSIM 데이터를 다 쓰면 느려지나요?
+      a: |
+        Roami 뉴질랜드 eSIM은 정해진 데이터 한도까지 고속으로 사용하고, 한도를 모두 쓰면 추가 구매 전까지 연결이 멈춥니다. 요금이 갑자기 오르지 않습니다.
 related_products:
   title: 관련 뉴질랜드 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 니제르 eSIM
+    flag: img/flags/ni.svg
+    price: $23.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 나이지리아 eSIM
+    flag: img/flags/ng.svg
+    price: $5.99부터
+    is_highlight: false
+  - name: 노르웨이 eSIM
+    flag: img/flags/no.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 오만 eSIM
+    flag: img/flags/om.svg
+    price: $5.99부터
+    is_highlight: false
+  - name: 파키스탄 eSIM
+    flag: img/flags/pk.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 파나마 eSIM
+    flag: img/flags/pa.svg
+    price: $11.99부터
+    is_highlight: false
+  - name: 파라과이 eSIM
+    flag: img/flags/py.svg
+    price: $22.99부터
+    is_highlight: false
+  - name: 페루 eSIM
+    flag: img/flags/pe.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 필리핀 eSIM
+    flag: img/flags/ph.svg
+    price: $2.99부터
+    is_highlight: false
+  - name: 폴란드 eSIM
+    flag: img/flags/pl.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 포르투갈 eSIM
+    flag: img/flags/pt.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 푸에르토리코 eSIM
+    flag: img/flags/pu.svg
+    price: $6.99부터
     is_highlight: false
 market_analysis:
   title: '뉴질랜드 eSIM vs 현지 SIM: 30일 낭비 없음, 핫스팟 금지 없음'
   subtitle: 뉴질랜드 현지 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (New Zealand) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/New-Zealand
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)
@@ -474,7 +487,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: One NZ 여행 SIM은 <strong>30일 최소</strong> 요금제를 강제합니다 ($29 NZD/2GB). Skinny Holiday SIM은 30일 유효 기간을 강제합니다. 7일 여행객은 요금제 가치의 <strong>70% 이상</strong>을 낭비합니다.
     esim_title: 유연한 단기 요금제
-    esim_desc: Roami는 $1.99부터 시작하는 <strong>3/7/15/30일 요금제</strong>를 제공합니다 — 실제 여행 기간만큼만 지불하세요. 30일 강제 약정 없음, 낭비 없음.
+    esim_desc: Roami는 $3.99부터 시작하는 <strong>3/7/15/30일 요금제</strong>를 제공합니다 — 실제 여행 기간만큼만 지불하세요. 30일 강제 약정 없음, 낭비 없음.
   - icon: wifi
     title: 핫스팟 및<br>속도 정책
     prepaid_title: ''

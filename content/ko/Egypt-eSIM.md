@@ -1,7 +1,7 @@
 ---
 title: '이집트 eSIM - 카이로 & 룩소르 4G/5G | 여권 불필요 | Roami'
-date: '2026-08-18T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: '당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객은 20% 할인을 받으실 수 있으며, 프로모션 코드: web20'
 seo:
   title: 이집트 eSIM - 카이로 & 룩소르 4G/5G | Roami
-  description: Orange, Vodafone 및 Etisalat에서 4G/5G를 제공하는 최고의 이집트 eSIM을 만나보세요. 여권이나 호텔 주소가 필요하지 않습니다. 공항 SIM 사기를 건너뛰세요. 카이로, 기자 및 룩소르를 커버합니다. 요금제는 $1.99부터 시작합니다.
-  keywords: 이집트 eSIM, 이집트 eSIM 구매, 최고의 이집트 eSIM, 이집트 여행 eSIM, Orange 이집트, Vodafone 이집트, Etisalat 이집트, 카이로 eSIM, 알렉산드리아 eSIM, 룩소르 eSIM, 이집트 선불 eSIM, 기자 피라미드 eSIM, 여권 없는 이집트 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Orange, Vodafone 및 Etisalat에서 4G/5G를 제공하는 최고의 이집트 eSIM을 만나보세요. 여권이나 호텔 주소가 필요하지 않습니다. 공항 SIM 사기를 건너뛰세요. 카이로, 기자 및 룩소르를 커버합니다. 요금제는 $2.99부터 시작합니다.
+  keywords: 이집트 eSIM, 이집트 eSIM 추천, 이집트 eSIM 구매, 이집트 eSIM 요금제, 이집트 eSIM 가격, 이집트 여행 eSIM, 최고의 이집트 eSIM, 이집트 eSIM 무제한, 이집트 eSIM 사용법, 이집트 선불 eSIM, 이집트 eSIM 후기, 이집트 5G eSIM, Orange 이집트, 카이로 eSIM, 알렉산드리아 eSIM, 룩소르 eSIM
+  low_price: 2.99
+  high_price: 94.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -395,63 +395,75 @@ faq_section:
         이집트 eSIM의 유효 기간은 언제 시작되나요?
       a: |
         요금제 유효 기간은 구매 또는 설치 시가 아닌 이집트 현지 네트워크에 연결될 때 시작됩니다. 따라서 여행 몇 주 전에 구매 및 설치해도 요금제 일수를 손실하지 않습니다. 7일 요금제는 첫 연결부터 7일간 사용 가능합니다.
+    - q: |
+        Orange 선불 SIM과 달리 이집트 eSIM 개통에 별도 서류가 필요한가요?
+      a: |
+        Orange 선불 SIM은 여권 등록이 필요한 경우가 많지만, Roami 이집트 eSIM은 데이터 전용이라 신분증 업로드나 매장 방문 없이 온라인으로 즉시 개통됩니다.
+    - q: |
+        이집트 eSIM을 Orange 선불 요금제 대신 쓰면 비용이 얼마나 줄어드나요?
+      a: |
+        요금제와 사용량에 따라 다르지만, 매장 방문·등록·미사용 데이터 비용을 없앨 수 있어 실질 부담이 낮아집니다. 모든 요금제는 선불입니다.
+    - q: |
+        이집트 eSIM을 충전하면 Orange 회선도 함께 갱신되나요?
+      a: |
+        아니요. Roami 이집트 eSIM과 Orange 물리 회선은 별개입니다. eSIM 요금제를 추가 구매해도 Orange 요금제에는 영향이 없습니다.
 related_products:
   title: 관련 이집트 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 엘살바도르 eSIM
+    flag: img/flags/sv.svg
+    price: $23.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 에스토니아 eSIM
+    flag: img/flags/ee.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
+  - name: 에스와티니 eSIM
+    flag: img/flags/sz.svg
+    price: $19.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
+  - name: 페로 제도 eSIM
+    flag: img/flags/fo.svg
+    price: $5.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
+  - name: 피지 eSIM
+    flag: img/flags/fj.svg
+    price: $6.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
+  - name: 핀란드 eSIM
+    flag: img/flags/fi.svg
     price: $1.99부터
     is_highlight: false
   - name: 프랑스 eSIM
     flag: img/flags/fr.svg
     price: $1.99부터
     is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
+  - name: 프랑스령 기아나 eSIM
+    flag: img/flags/gf.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 가봉 eSIM
+    flag: img/flags/ga.svg
+    price: $14.99부터
+    is_highlight: false
+  - name: 조지아 eSIM
+    flag: img/flags/ge.svg
+    price: $3.99부터
     is_highlight: false
   - name: 독일 eSIM
     flag: img/flags/de.svg
     price: $1.99부터
     is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 가나 eSIM
+    flag: img/flags/gh.svg
+    price: $7.99부터
     is_highlight: false
 market_analysis:
   title: '이집트 eSIM vs 현지 선불 SIM: 여권 불필요, 30% 세금 없음'
   subtitle: 이집트 현지 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (이집트) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Egypt
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

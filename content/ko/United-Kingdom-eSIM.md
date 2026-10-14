@@ -1,7 +1,7 @@
 ---
 title: '영국 eSIM 2026 - 런던 & 에든버러 최고의 5G 요금제'
-date: '2026-08-18T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 영국 eSIM - 런던 & 에든버러 최고의 5G 요금제
   description: EE, Vodafone 및 O2에서 5G를 제공하는 최고의 영국 선불 eSIM을 만나보세요. 여권이나 신분증 불필요 — 즉시 QR 활성화. EU 로밍 포함. 요금제는 $1.99부터 시작합니다.
-  keywords: 영국 eSIM, 영국 eSIM 구매, 최고의 영국 eSIM, 영국 여행 eSIM, Vodafone 영국, EE 영국, O2 영국, 런던 eSIM, 맨체스터 eSIM, 버밍엄 eSIM, 영국 선불 eSIM, 영국 5G eSIM, 신분증 없는 영국 eSIM, 런던 지하철 eSIM
+  keywords: 영국 eSIM, 영국 eSIM 추천, 영국 eSIM 구매, 영국 eSIM 요금제, 영국 eSIM 가격, 영국 여행 eSIM, 최고의 영국 eSIM, 영국 eSIM 무제한, 영국 eSIM 사용법, 영국 선불 eSIM, 영국 eSIM 후기, 영국 5G eSIM, Vodafone 영국, 런던 eSIM, 맨체스터 eSIM, 버밍엄 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 54.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -409,63 +409,75 @@ faq_section:
         Roami eSIM은 어떤 영국 통신사 네트워크를 사용하나요?
       a: |
         Roami는 Vodafone, EE 및 O2 — 영국의 3대 통신사 중 사용 가능한 최상의 네트워크에 자동으로 연결됩니다. 이 자동 전환 기능은 런던 중심가에 있든 에든버러 시골에 있든 어디서든 가장 강력한 신호를 보장합니다.
+    - q: |
+        아이폰에서 Vodafone 영국 eSIM을 추가하는 방법은 무엇인가요?
+      a: |
+        설정 > 셀룰러(또는 모바일 데이터) > 'eSIM 추가'를 선택하고 이메일로 받은 QR 코드를 스캔하면 됩니다. Vodafone 회선은 그대로 유지됩니다.
+    - q: |
+        예산 여행자에게 Vodafone 대비 영국 eSIM이 유리한 이유는 무엇인가요?
+      a: |
+        선불이고 자동 갱신이 없어 여행이 끝나면 추가 청구가 없습니다. 또한 Vodafone 매장을 찾을 필요 없이 온라인으로 구매·개통할 수 있어 시간과 비용을 아낍니다.
+    - q: |
+        Vodafone 요금제와 별개로 영국 eSIM 데이터 한도를 초과하면 어떻게 되나요?
+      a: |
+        데이터를 모두 사용하면 회선이 정지되며, 자동으로 추가 청구되지 않습니다. 필요하면 같은 계정에서 새 요금제를 구매해 이어서 사용할 수 있습니다.
 related_products:
   title: 관련 영국 eSIM 요금제
   items:
   - name: 미국 eSIM
     flag: img/flags/us.svg
     price: $1.99부터
+    is_highlight: true
+  - name: 우루과이 eSIM
+    flag: img/flags/uy.svg
+    price: $11.99부터
     is_highlight: false
-  - name: 영국
-    flag: img/flags/gb.svg
+  - name: 우즈베키스탄 eSIM
+    flag: img/flags/uz.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 바티칸 시국 eSIM
+    flag: img/flags/va.svg
+    price: $10.99부터
+    is_highlight: false
+  - name: 베트남 eSIM
+    flag: img/flags/vn.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 잠비아 eSIM
+    flag: img/flags/za.svg
+    price: $11.99부터
+    is_highlight: false
+  - name: 슬로베니아 eSIM
+    flag: img/flags/sl.svg
     price: $1.99부터
     is_highlight: false
   - name: 유럽 eSIM
     flag: img/flags/eu.svg
     price: $1.99부터
-    is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+    is_highlight: false
+  - name: 아프가니스탄 eSIM
+    flag: img/flags/af.svg
+    price: $11.99부터
+    is_highlight: false
+  - name: 알바니아 eSIM
+    flag: img/flags/al.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
+  - name: 알제리 eSIM
+    flag: img/flags/dz.svg
+    price: $3.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 안도라 eSIM
+    flag: img/flags/ad.svg
+    price: $6.99부터
     is_highlight: false
 market_analysis:
   title: '영국 eSIM vs 물리적 SIM 카드'
   subtitle: 영국 현지 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (영국) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/United-Kingdom
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

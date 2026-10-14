@@ -1,7 +1,7 @@
 ---
 title: '캐나다 eSIM 2026: 도시 및 네트워크 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 캐나다 eSIM | 여행객용 무제한 데이터 요금제
   description: Roami의 최고의 선불 여행 eSIM으로 캐나다를 자신 있게 여행하세요. 전국적으로 무제한 5G 데이터. 즉시 활성화. 토론토, 밴쿠버 등 커버.
-  keywords: 캐나다 eSIM, 캐나다 eSIM 구매, 최고의 캐나다 eSIM, 캐나다 여행 eSIM, Rogers 캐나다, Bell 캐나다, Telus 캐나다, 토론토 eSIM, 밴쿠버 eSIM, 몬트리올 eSIM, 캐나다 선불 eSIM, 5G 캐나다 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: 캐나다 eSIM, 캐나다 eSIM 추천, 캐나다 eSIM 구매, 캐나다 eSIM 요금제, 캐나다 eSIM 가격, 캐나다 여행 eSIM, 최고의 캐나다 eSIM, 캐나다 eSIM 무제한, 캐나다 eSIM 사용법, 캐나다 선불 eSIM, 캐나다 eSIM 후기, 캐나다 5G eSIM, Rogers 캐나다, 토론토 eSIM, 밴쿠버 eSIM, 몬트리올 eSIM
+  low_price: 3.99
+  high_price: 59.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -374,7 +374,8 @@ faq_section:
     - q: |
         비용을 많이 들이지 않고 캐나다용 eSIM을 구할 수 있나요?
       a: |
-        물론입니다. Roami의 캐나다 eSIM 요금제는 $1.99부터 시작합니다. 5GB/15일 옵션($9.99)이 여행객 사이에서 가장 인기가 많습니다. 지도, WhatsApp, Instagram 및 이메일을 편안하게 처리합니다. 데이터를 많이 사용하는 경우 10GB($14.99) 또는 무제한($59.99) 요금제가 안심을 제공합니다. 공항 SIM 카운터를 건너뛰면 30-50%를 절약하고 줄 서는 번거로움을 피할 수 있습니다. 조정이 필요하신가요? Roami 앱에서 언제든지 데이터를 추가할 수 있습니다.
+        물론입니다. Roami의 캐나다 eSIM 요금제는 $3.99부터 시작합니다. 5GB/15일 옵션($14.99)이 여행객 사이에서 가장 인기가 많습니다. 지도, WhatsApp, Instagram 및 이메일을 편안하게 처리합니다. 데이터를 많이 사용하는 경우 10GB($15.99) 또는 무제한($50.99) 요금제가 안심을 제공합니다. 공항 SIM 카운터를 건너뛰면 30-50%를 절약하고 줄 서는 번거로움을 피할 수 있습니다. 조정이 필요하신가요? Roami 앱에서 언제든지 데이터를 추가할 수 있습니다.
+
     - q: |
         여행 중에 캐나다 eSIM이 작동을 멈추면 어떻게 되나요?
       a: |
@@ -394,64 +395,77 @@ faq_section:
     - q: |
         캐나다에서 이틀 정도만 인터넷 접속이 필요합니다. 최소한 얼마를 구매할 수 있나요?
       a: |
-        가장 저렴한 요금제는 7일 동안 1GB를 제공하는 $1.99입니다. 가벼운 사용으로 주말 여행에 완벽합니다. 더 필요하면 앱에서 언제든지 데이터를 추가할 수 있습니다.
+        가장 저렴한 요금제는 7일 동안 1GB를 제공하는 $3.99입니다. 가벼운 사용으로 주말 여행에 완벽합니다. 더 필요하면 앱에서 언제든지 데이터를 추가할 수 있습니다.
+
+    - q: |
+        Rogers 네트워크에서 캐나다 eSIM은 어떻게 개통하나요?
+      a: |
+        Roami 캐나다 eSIM은 QR 코드 스캔만으로 개통됩니다. 결제 후 5분 이내에 이메일로 QR 코드가 오고, Rogers 및 현지 파트너 네트워크에 자동 연결됩니다. 매장 방문이나 추가 서류가 필요 없습니다.
+    - q: |
+        캐나다 eSIM 가격은 Rogers 선불 SIM보다 저렴한가요?
+      a: |
+        대체로 그렇습니다. Roami 캐나다 eSIM은 마켓플레이스 수수료 없이 직접 판매하므로 Rogers 선불 요금제보다 낮은 경우가 많고, 숨겨진 수수료가 없습니다.
+    - q: |
+        캐나다에서 데이터가 부족하면 Rogers 대신 어떻게 충전하나요?
+      a: |
+        같은 계정에서 더 큰 요금제를 추가 구매할 수 있습니다. Rogers 매장을 방문하거나 충전권을 살 필요 없이 온라인으로 즉시 처리됩니다.
 related_products:
   title: 관련 캐나다 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 차드 eSIM
+    flag: img/flags/td.svg
+    price: $23.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
+  - name: 칠레 eSIM
+    flag: img/flags/cl.svg
+    price: $4.99부터
     is_highlight: false
   - name: 중국 eSIM
     flag: img/flags/cn.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
+  - name: 콜롬비아 eSIM
+    flag: img/flags/co.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 콩고(킨샤사) eSIM
+    flag: img/flags/cg.svg
+    price: $7.99부터
+    is_highlight: false
+  - name: 코스타리카 eSIM
+    flag: img/flags/cr.svg
+    price: $9.99부터
+    is_highlight: false
+  - name: 크로아티아 eSIM
+    flag: img/flags/hr.svg
     price: $1.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
+  - name: 키프로스 eSIM
+    flag: img/flags/cy.svg
+    price: $2.99부터
+    is_highlight: false
+  - name: 체코 eSIM
+    flag: img/flags/cz.svg
     price: $1.99부터
     is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
+  - name: 덴마크 eSIM
+    flag: img/flags/dk.svg
     price: $1.99부터
     is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
+  - name: 도미니카 eSIM
+    flag: img/flags/dm.svg
+    price: $11.99부터
     is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 도미니카공화국 eSIM
+    flag: img/flags/do.svg
+    price: $5.99부터
     is_highlight: false
 market_analysis:
   title: '캐나다 eSIM 대 물리적 SIM: 여행에 어떤 것이 더 좋을까요?'
   subtitle: 캐나다 현지 선불 SIM 대 eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (캐나다) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Canada
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

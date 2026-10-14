@@ -1,7 +1,7 @@
 ---
 title: '브라질 eSIM - 리우 & 상파울루 5G | CPF 불필요 | Roami'
-date: '2026-08-18T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: '당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객은 20% 할인을 받으실 수 있으며, 프로모션 코드: web20'
 seo:
   title: 브라질 eSIM - 리우 & 상파울루 5G | CPF 불필요
-  description: Claro, Vivo 및 TIM에서 5G를 제공하는 최고의 브라질 eSIM을 만나보세요. CPF 또는 여권이 필요하지 않습니다. 포르투갈어 전화 활성화를 건너뛰세요. 리우, 상파울루 및 브라질리아를 커버합니다. 요금제는 $1.99부터 시작합니다.
-  keywords: 브라질 eSIM, 브라질 eSIM 구매, 최고의 브라질 eSIM, 브라질 여행 eSIM, Claro 브라질, Vivo 브라질, TIM 브라질, 상파울루 eSIM, 리우데자네이루 eSIM, 브라질리아 eSIM, 브라질 선불 eSIM, 브라질 5G eSIM, CPF 없는 브라질 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Claro, Vivo 및 TIM에서 5G를 제공하는 최고의 브라질 eSIM을 만나보세요. CPF 또는 여권이 필요하지 않습니다. 포르투갈어 전화 활성화를 건너뛰세요. 리우, 상파울루 및 브라질리아를 커버합니다. 요금제는 $4.99부터 시작합니다.
+  keywords: 브라질 eSIM, 브라질 eSIM 추천, 브라질 eSIM 구매, 브라질 eSIM 요금제, 브라질 eSIM 가격, 브라질 여행 eSIM, 최고의 브라질 eSIM, 브라질 eSIM 무제한, 브라질 eSIM 사용법, 브라질 선불 eSIM, 브라질 eSIM 후기, 브라질 5G eSIM, Claro 브라질, 상파울루 eSIM, 리우데자네이루 eSIM, 브라질리아 eSIM
+  low_price: 4.99
+  high_price: 86.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -381,63 +381,75 @@ faq_section:
         브라질 eSIM의 유효 기간은 언제 시작되나요?
       a: |
         요금제 유효 기간은 구매 또는 설치 시가 아닌 브라질 현지 네트워크에 연결될 때 시작됩니다. 따라서 여행 몇 주 전에 구매 및 설치해도 요금제 일수를 손실하지 않습니다. 7일 요금제는 첫 연결부터 7일간 사용 가능합니다.
+    - q: |
+        브라질 도착 전에 Claro용 eSIM을 미리 설치할 수 있나요?
+      a: |
+        가능합니다. 출국 전에 설치해 두고, 브라질 도착 후 회선을 켜면 Claro 네트워크에 자동 연결됩니다. 유효 기간은 지원 네트워크에 처음 연결될 때 시작됩니다.
+    - q: |
+        브라질 eSIM 요금제는 얼마부터 시작하며, Claro 현지 요금제와 비교하면 어떤가요?
+      a: |
+        Roami 브라질 eSIM은 저렴한 소용량 요금제부터 시작합니다. Claro 현지 요금제는 보통 장기 약정과 등록 절차가 필요한 반면, Roami는 여행 기간에 맞춘 단기 요금제를 제공합니다.
+    - q: |
+        Claro와 달리 Roami 브라질 eSIM은 자동 갱신되나요?
+      a: |
+        아니요. 모든 요금제는 선불이며 자동 갱신되지 않습니다. 여행이 끝난 뒤 추가 청구가 발생하지 않아 Claro 후불 요금제보다 예측 가능합니다.
 related_products:
   title: 관련 브라질 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 브루나이 eSIM
+    flag: img/flags/bn.svg
+    price: $9.99부터
     is_highlight: true
+  - name: 불가리아 eSIM
+    flag: img/flags/bg.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 부르키나파소 eSIM
+    flag: img/flags/bf.svg
+    price: $11.99부터
+    is_highlight: false
+  - name: 캄보디아 eSIM
+    flag: img/flags/kh.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 카메룬 eSIM
+    flag: img/flags/cm.svg
+    price: $27.99부터
+    is_highlight: false
   - name: 캐나다 eSIM
     flag: img/flags/ca.svg
-    price: $1.99부터
+    price: $3.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
+  - name: 차드 eSIM
+    flag: img/flags/td.svg
+    price: $23.99부터
+    is_highlight: false
+  - name: 칠레 eSIM
+    flag: img/flags/cl.svg
+    price: $4.99부터
     is_highlight: false
   - name: 중국 eSIM
     flag: img/flags/cn.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
+  - name: 콜롬비아 eSIM
+    flag: img/flags/co.svg
+    price: $4.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
+  - name: 콩고(킨샤사) eSIM
+    flag: img/flags/cg.svg
+    price: $7.99부터
     is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 코스타리카 eSIM
+    flag: img/flags/cr.svg
+    price: $9.99부터
     is_highlight: false
 market_analysis:
   title: '브라질 eSIM vs 현지 선불 SIM: CPF 없는 편의성'
   subtitle: 브라질 현지 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (브라질) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Brazil
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

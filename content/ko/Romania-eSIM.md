@@ -1,7 +1,7 @@
 ---
 title: '루마니아 eSIM 2026: 요금제 및 커버리지 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 루마니아 eSIM | 여행객을 위한 최고의 선불 eSIM
   description: 루마니아 여행을 계획 중이신가요? Roami의 최고의 선불 여행 eSIM으로 무제한 5G 데이터를 이용하세요. 즉시 QR 활성화됩니다. 부쿠레슈티, 클루지 및 트란실바니아를 커버합니다.
-  keywords: 루마니아 eSIM, 루마니아 eSIM 구매, 최고의 루마니아 eSIM, 루마니아 여행 eSIM, Orange 루마니아, Vodafone 루마니아, Telekom 루마니아, 부쿠레슈티 eSIM, 클루지나포카 eSIM, 티미쇼아라 eSIM, 루마니아 선불 eSIM, 5G 루마니아 eSIM
+  keywords: 루마니아 eSIM, 루마니아 eSIM 추천, 루마니아 eSIM 구매, 루마니아 eSIM 요금제, 루마니아 eSIM 가격, 루마니아 여행 eSIM, 최고의 루마니아 eSIM, 루마니아 eSIM 무제한, 루마니아 eSIM 사용법, 루마니아 선불 eSIM, 루마니아 eSIM 후기, 루마니아 5G eSIM, Orange 루마니아, 부쿠레슈티 eSIM, 클루지나포카 eSIM, 티미쇼아라 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: 선택한 요금제
   label_data: 데이터 용량
@@ -374,7 +374,8 @@ faq_section:
     - q: |
         비용을 많이 들이지 않고 루마니아용 eSIM을 구할 수 있나요?
       a: |
-        물론입니다. Roami의 루마니아 eSIM 요금제는 $1.99부터 시작합니다. 5GB/15일 옵션($9.99)은 여행객들에게 가장 인기가 많습니다 - 지도, WhatsApp, Instagram, 이메일을 편안하게 처리합니다. 데이터를 많이 사용하는 사용자라면 10GB($14.99) 또는 무제한($59.99) 요금제가 안심을 줍니다. 공항 SIM 카운터를 건너뛰면 30-50%를 절약하고 대기하는 번거로움을 피할 수 있습니다. 조정이 필요하신가요? Roami 앱에서 언제든지 추가 충전할 수 있습니다.
+        물론입니다. Roami의 루마니아 eSIM 요금제는 $1.99부터 시작합니다. 5GB/15일 옵션($8.99)은 여행객들에게 가장 인기가 많습니다 - 지도, WhatsApp, Instagram, 이메일을 편안하게 처리합니다. 데이터를 많이 사용하는 사용자라면 10GB($14.99) 또는 무제한($78.99) 요금제가 안심을 줍니다. 공항 SIM 카운터를 건너뛰면 30-50%를 절약하고 대기하는 번거로움을 피할 수 있습니다. 조정이 필요하신가요? Roami 앱에서 언제든지 추가 충전할 수 있습니다.
+
     - q: |
         루마니아 eSIM 등록을 위해 여권을 업로드해도 안전한가요? 개인정보 보호가 걱정됩니다.
       a: |
@@ -390,7 +391,8 @@ faq_section:
     - q: |
         루마니아를 여행하는 여행객들에게 가장 인기 있는 eSIM 선택은 무엇인가요?
       a: |
-        루마니아를 방문하는 대부분의 여행객은 5GB/15일 요금제($9.99)를 선택합니다. 일상적인 내비게이션, 소셜 미디어, 메시징에 충분합니다. 더 오래 머물거나 더 많이 사용하는 경우 10GB($14.99) 또는 무제한($59.99) 요금제가 훌륭한 옵션입니다. 모든 요금제는 몇 분 내에 활성화되며 연중무휴 24시간 지원이 포함됩니다.
+        루마니아를 방문하는 대부분의 여행객은 5GB/15일 요금제($8.99)를 선택합니다. 일상적인 내비게이션, 소셜 미디어, 메시징에 충분합니다. 더 오래 머물거나 더 많이 사용하는 경우 10GB($14.99) 또는 무제한($78.99) 요금제가 훌륭한 옵션입니다. 모든 요금제는 몇 분 내에 활성화되며 연중무휴 24시간 지원이 포함됩니다.
+
     - q: |
         루마니아 eSIM을 구매하자마자 사용할 수 있나요, 아니면 기다려야 하나요?
       a: |
@@ -403,63 +405,75 @@ faq_section:
         루마니아에서 eSIM을 사용하는 동안 홈 SIM을 휴대폰에 계속 넣어둘 수 있나요?
       a: |
         네 - 홈 SIM은 SMS(은행 코드, 2FA 로그인)를 위해 슬롯 1에 그대로 유지됩니다. eSIM은 슬롯 2에서 데이터를 처리합니다. 홈 SIM의 데이터 로밍을 비활성화하여 최대 MB당 $10-15의 요금이 부과되는 것을 방지하세요.
+    - q: |
+        아이폰에서 Orange 루마니아 eSIM을 추가하는 방법은 무엇인가요?
+      a: |
+        설정 > 셀룰러(또는 모바일 데이터) > 'eSIM 추가'를 선택하고 이메일로 받은 QR 코드를 스캔하면 됩니다. Orange 회선은 그대로 유지됩니다.
+    - q: |
+        예산 여행자에게 Orange 대비 루마니아 eSIM이 유리한 이유는 무엇인가요?
+      a: |
+        선불이고 자동 갱신이 없어 여행이 끝나면 추가 청구가 없습니다. 또한 Orange 매장을 찾을 필요 없이 온라인으로 구매·개통할 수 있어 시간과 비용을 아낍니다.
+    - q: |
+        Orange 요금제와 별개로 루마니아 eSIM 데이터 한도를 초과하면 어떻게 되나요?
+      a: |
+        데이터를 모두 사용하면 회선이 정지되며, 자동으로 추가 청구되지 않습니다. 필요하면 같은 계정에서 새 요금제를 구매해 이어서 사용할 수 있습니다.
 related_products:
   title: 관련 루마니아 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 러시아 eSIM
+    flag: img/flags/ru.svg
+    price: $2.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 사우디아라비아 eSIM
+    flag: img/flags/sa.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 세네갈 eSIM
+    flag: img/flags/se.svg
+    price: $12.99부터
+    is_highlight: false
+  - name: 세이셸 eSIM
+    flag: img/flags/sc.svg
+    price: $9.99부터
+    is_highlight: false
+  - name: 시에라리온 eSIM
+    flag: img/flags/si.svg
+    price: $10.99부터
+    is_highlight: false
+  - name: 싱가포르 eSIM
+    flag: img/flags/sg.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 슬로바키아 eSIM
+    flag: img/flags/sl.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 남아프리카 eSIM
+    flag: img/flags/za.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 한국 eSIM
+    flag: img/flags/kr.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
+  - name: 동남아시아 eSIM
+    flag: img/flags/ya.webp
     price: $1.99부터
     is_highlight: false
   - name: 스페인 eSIM
     flag: img/flags/es.svg
     price: $1.99부터
     is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 스위스 eSIM
+    flag: img/flags/ch.svg
     price: $1.99부터
     is_highlight: false
 market_analysis:
   title: '루마니아 eSIM vs 선불 SIM 카드: 전환할 가치가 있을까요?'
   subtitle: 루마니아 현지 선불 SIM vs. eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (루마니아) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Romania
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 항목
   - 현지 선불 SIM (시장 데이터)

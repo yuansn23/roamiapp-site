@@ -1,7 +1,7 @@
 ---
 title: '피지 eSIM 2026: 5G 및 데이터 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 피지 eSIM | 여행을 위한 선불 데이터 요금제
   description: Roami의 최고의 선불 여행용 eSIM으로 피지에서 연결 상태를 유지하세요. 주요 섬 및 그 너머에서 무제한 5G 데이터. 수바, 나디 및 마마누카 커버.
-  keywords: 피지 eSIM, 피지 eSIM 구매, 최고의 피지 eSIM, 피지 여행용 eSIM, Vodafone Fiji 피지, Digicel Fiji 피지, Telecom Fiji 피지, 수바 eSIM, 나디 eSIM, 라우토카 eSIM, 피지 선불 eSIM, 5G 피지 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: 피지 eSIM, 피지 eSIM 추천, 피지 eSIM 구매, 피지 eSIM 요금제, 피지 eSIM 가격, 피지 여행 eSIM, 최고의 피지 eSIM, 피지 eSIM 무제한, 피지 eSIM 사용법, 피지 선불 eSIM, 피지 eSIM 후기, 피지 5G eSIM, Vodafone Fiji 피지, 수바 eSIM, 나디 eSIM, 라우토카 eSIM
+  low_price: 6.99
+  high_price: 94.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -338,7 +338,8 @@ faq_section:
     - q: |
         피지 여행을 위한 가장 저렴한 eSIM 옵션은 무엇인가요?
       a: |
-        Roami 피지 eSIM 요금제는 $1.99(7일, 1GB)부터 $59.99(30일 무제한)까지입니다. 일반적인 5-7일 여행의 경우 $9.99의 5GB 요금제가 적당합니다 — 지도, 메시징, 소셜 미디어 확인에 충분합니다. 비디오 스트리밍이나 원격 근무가 필요하신가요? 10GB 또는 무제한을 선택하세요. 피지는 지도와 메시징을 잘 처리하는 4G를 사용합니다. 공항 SIM 키오스크는 30-50% 더 비싸고 대기해야 합니다. 데이터 필요량이 확실하지 않으신가요? 작게 시작하여 eSIM을 변경하지 않고 앱을 통해 충전하세요.
+        Roami 피지 eSIM 요금제는 $6.99(7일, 1GB)부터 $94.99(15일 무제한)까지입니다. 일반적인 5-7일 여행의 경우 $10.99의 5GB 요금제가 적당합니다 — 지도, 메시징, 소셜 미디어 확인에 충분합니다. 비디오 스트리밍이나 원격 근무가 필요하신가요? 10GB 또는 무제한을 선택하세요. 피지는 지도와 메시징을 잘 처리하는 4G를 사용합니다. 공항 SIM 키오스크는 30-50% 더 비싸고 대기해야 합니다. 데이터 필요량이 확실하지 않으신가요? 작게 시작하여 eSIM을 변경하지 않고 앱을 통해 충전하세요.
+
     - q: |
         피지에서 Roami는 Airalo eSIM과 어떻게 비교되나요?
       a: |
@@ -363,63 +364,75 @@ faq_section:
         공항 SIM 키오스크를 거치지 않고 피지에서 연결 상태를 유지하는 가장 쉬운 방법은 무엇인가요?
       a: |
         eSIM이 답입니다. 온라인으로 구매하고 이메일로 QR 코드를 받아 2분 만에 설치하세요. 공항 대기열을 건너뛰세요. Roami는 안정적인 커버리지를 위해 Vodafone에 연결됩니다. 홈 SIM은 SMS를 위해 활성 상태로 유지됩니다. 연결 상태를 유지하는 가장 간단한 방법입니다.
+    - q: |
+        아이폰에서 Vodafone Fiji 피지 eSIM을 추가하는 방법은 무엇인가요?
+      a: |
+        설정 > 셀룰러(또는 모바일 데이터) > 'eSIM 추가'를 선택하고 이메일로 받은 QR 코드를 스캔하면 됩니다. Vodafone Fiji 회선은 그대로 유지됩니다.
+    - q: |
+        예산 여행자에게 Vodafone Fiji 대비 피지 eSIM이 유리한 이유는 무엇인가요?
+      a: |
+        선불이고 자동 갱신이 없어 여행이 끝나면 추가 청구가 없습니다. 또한 Vodafone Fiji 매장을 찾을 필요 없이 온라인으로 구매·개통할 수 있어 시간과 비용을 아낍니다.
+    - q: |
+        Vodafone Fiji 요금제와 별개로 피지 eSIM 데이터 한도를 초과하면 어떻게 되나요?
+      a: |
+        데이터를 모두 사용하면 회선이 정지되며, 자동으로 추가 청구되지 않습니다. 필요하면 같은 계정에서 새 요금제를 구매해 이어서 사용할 수 있습니다.
 related_products:
   title: 관련 피지 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
+  - name: 핀란드 eSIM
+    flag: img/flags/fi.svg
     price: $1.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
   - name: 프랑스 eSIM
     flag: img/flags/fr.svg
     price: $1.99부터
     is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
+  - name: 프랑스령 기아나 eSIM
+    flag: img/flags/gf.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 가봉 eSIM
+    flag: img/flags/ga.svg
+    price: $14.99부터
+    is_highlight: false
+  - name: 조지아 eSIM
+    flag: img/flags/ge.svg
+    price: $3.99부터
     is_highlight: false
   - name: 독일 eSIM
     flag: img/flags/de.svg
     price: $1.99부터
     is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 가나 eSIM
+    flag: img/flags/gh.svg
+    price: $7.99부터
+    is_highlight: false
+  - name: 지브롤터 eSIM
+    flag: img/flags/gi.svg
+    price: $5.99부터
+    is_highlight: false
+  - name: 그리스 eSIM
+    flag: img/flags/gr.svg
     price: $1.99부터
+    is_highlight: false
+  - name: 그레나다 eSIM
+    flag: img/flags/gd.svg
+    price: $11.99부터
+    is_highlight: false
+  - name: 과들루프 eSIM
+    flag: img/flags/gp.svg
+    price: $8.99부터
+    is_highlight: false
+  - name: 괌 eSIM
+    flag: img/flags/gu.svg
+    price: $9.99부터
     is_highlight: false
 market_analysis:
   title: '피지 eSIM vs 선불 SIM: 어떤 것이 적합한가요?'
   subtitle: 피지 현지 선불 SIM vs. eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (피지) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Fiji
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

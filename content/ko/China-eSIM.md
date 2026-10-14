@@ -1,7 +1,7 @@
 ---
 title: '중국 eSIM 2026: 현지 통신사 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: China Mobile, China Unicom, China Telecom
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: 베이징, 상하이, 광저우, 선전, 청두
-  main_packages: 3/7/15/30일, 무제한 데이터
+  main_packages: 3/7/15/30일, 1–50GB 데이터
 modal:
   title: 서비스가 업그레이드되었습니다!
   btn_text: 계속하기
@@ -18,10 +18,10 @@ modal:
   text_android: '당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객은 20% 할인을 받으실 수 있습니다. 프로모션 코드: web20'
 seo:
   title: 중국 eSIM | VPN 필요 없는 최고의 선불 여행 요금제
-  description: 중국 여행을 계획 중이신가요? Roami의 최고의 선불 여행 eSIM으로 무제한 5G 데이터를 만나보세요. VPN이 필요 없습니다. 즉시 활성화. 베이징, 상하이 및 모든 도시를 커버합니다.
-  keywords: 중국 eSIM, 중국 eSIM 구매, 최고의 중국 eSIM, 중국 여행 eSIM, China Mobile 중국, China Unicom 중국, China Telecom 중국, 베이징 eSIM, 상하이 eSIM, 광저우 eSIM, 중국 선불 eSIM, 5G 중국 eSIM
+  description: 중국 여행을 계획 중이신가요? Roami의 최고의 선불 여행 eSIM으로 빠른 5G 데이터를 만나보세요. VPN이 필요 없습니다. 즉시 활성화. 베이징, 상하이 및 모든 도시를 커버합니다.
+  keywords: 중국 eSIM, 중국 eSIM 추천, 중국 eSIM 구매, 중국 eSIM 요금제, 중국 eSIM 가격, 중국 여행 eSIM, 최고의 중국 eSIM, 중국 eSIM 데이터, 중국 eSIM 사용법, 중국 선불 eSIM, 중국 eSIM 후기, 중국 5G eSIM, China Mobile 중국, 베이징 eSIM, 상하이 eSIM, 광저우 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 39.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -355,63 +355,75 @@ faq_section:
         중국 eSIM으로 소셜 미디어를 사용하고 가족과 사진을 공유할 수 있나요?
       a: |
         물론입니다. Instagram, WhatsApp, Facebook 및 기타 소셜 앱은 모두 eSIM 연결을 통해 작동합니다. China Mobile의 업로드 속도는 몇 초 만에 사진을 처리하고 짧은 비디오도 쉽게 처리합니다.
+    - q: |
+        아이폰에서 China Mobile 중국 eSIM을 추가하는 방법은 무엇인가요?
+      a: |
+        설정 > 셀룰러(또는 모바일 데이터) > 'eSIM 추가'를 선택하고 이메일로 받은 QR 코드를 스캔하면 됩니다. China Mobile 회선은 그대로 유지됩니다.
+    - q: |
+        예산 여행자에게 China Mobile 대비 중국 eSIM이 유리한 이유는 무엇인가요?
+      a: |
+        선불이고 자동 갱신이 없어 여행이 끝나면 추가 청구가 없습니다. 또한 China Mobile 매장을 찾을 필요 없이 온라인으로 구매·개통할 수 있어 시간과 비용을 아낍니다.
+    - q: |
+        China Mobile 요금제와 별개로 중국 eSIM 데이터 한도를 초과하면 어떻게 되나요?
+      a: |
+        데이터를 모두 사용하면 회선이 정지되며, 자동으로 추가 청구되지 않습니다. 필요하면 같은 계정에서 새 요금제를 구매해 이어서 사용할 수 있습니다.
 related_products:
   title: 관련 중국 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 콜롬비아 eSIM
+    flag: img/flags/co.svg
+    price: $4.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 콩고(킨샤사) eSIM
+    flag: img/flags/cg.svg
+    price: $7.99부터
+    is_highlight: false
+  - name: 코스타리카 eSIM
+    flag: img/flags/cr.svg
+    price: $9.99부터
+    is_highlight: false
+  - name: 크로아티아 eSIM
+    flag: img/flags/hr.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 키프로스 eSIM
+    flag: img/flags/cy.svg
+    price: $2.99부터
+    is_highlight: false
+  - name: 체코 eSIM
+    flag: img/flags/cz.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 덴마크 eSIM
+    flag: img/flags/dk.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
+  - name: 도미니카 eSIM
+    flag: img/flags/dm.svg
+    price: $11.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
+  - name: 도미니카공화국 eSIM
+    flag: img/flags/do.svg
+    price: $5.99부터
     is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
+  - name: 에콰도르 eSIM
+    flag: img/flags/ec.svg
+    price: $6.99부터
     is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
+  - name: 이집트 eSIM
+    flag: img/flags/eg.svg
+    price: $2.99부터
     is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 엘살바도르 eSIM
+    flag: img/flags/sv.svg
+    price: $23.99부터
     is_highlight: false
 market_analysis:
   title: '중국 eSIM 대 선불 SIM 카드: 고려해야 할 모든 사항 – 중국 여행자를 위한 최고의 eSIM'
   subtitle: 중국 현지 선불 SIM 대 eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (중국) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/China
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

@@ -1,7 +1,7 @@
 ---
 title: '시에라리온 eSIM 2026: 완벽한 여행 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Africell, Sierratel, Orange SL
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: 프리타운, 보, 케네마, 마케니, 코이두
-  main_packages: 3/7/15/30일, 무제한 데이터
+  main_packages: 3/7/15/30일, 1–5GB 데이터
 modal:
   title: 서비스가 업그레이드되었습니다!
   btn_text: 계속하기
@@ -18,10 +18,10 @@ modal:
   text_android: '당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객께서는 20% 할인을 받으실 수 있습니다. 프로모션 코드: web20'
 seo:
   title: '시에라리온 eSIM 2026: Africell 및 Sierratel 커버리지 가이드 | 최고의 여행 eSIM'
-  description: 프리타운, 보, 케네마에서 빠른 5G를 제공하는 시에라리온 eSIM 요금제를 비교하세요. 관광객 및 여행자를 위한 Africell, Sierratel, Orange SL 커버리지 가이드. $1.99부터 즉시 QR 활성화.
-  keywords: 시에라리온 eSIM, 시에라리온 eSIM 구매, 최고의 시에라리온 eSIM, 시에라리온 여행 eSIM, Africell 시에라리온, Sierratel 시에라리온, Orange SL 시에라리온, 프리타운 eSIM, 보 eSIM, 케네마 eSIM, 시에라리온 선불 eSIM, 5G 시에라리온 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: 프리타운, 보, 케네마에서 빠른 5G를 제공하는 시에라리온 eSIM 요금제를 비교하세요. 관광객 및 여행자를 위한 Africell, Sierratel, Orange SL 커버리지 가이드. $10.99부터 즉시 QR 활성화.
+  keywords: 시에라리온 eSIM, 시에라리온 eSIM 추천, 시에라리온 eSIM 구매, 시에라리온 eSIM 요금제, 시에라리온 eSIM 가격, 시에라리온 여행 eSIM, 최고의 시에라리온 eSIM, 시에라리온 eSIM 데이터, 시에라리온 eSIM 사용법, 시에라리온 선불 eSIM, 시에라리온 eSIM 후기, 시에라리온 5G eSIM, Africell 시에라리온, 프리타운 eSIM, 보 eSIM, 케네마 eSIM
+  low_price: 10.99
+  high_price: 33.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -214,55 +214,67 @@ faq_section:
         시에라리온에서 일반적인 여행객은 하루에 실제로 얼마나 많은 데이터를 사용하나요?
       a: |
         대부분의 관광객의 일일 평균 사용량: 지도 및 메시징에 300-500MB, 소셜 미디어를 많이 사용하는 경우 최대 1GB입니다. 1주일 여행의 경우 5GB면 충분합니다. 2주일이면 10GB로 가세요. Roami는 데이터가 부족할 경우 쉽게 충전할 수 있습니다.
+    - q: |
+        시에라리온에서 Africell 회선과 함께 eSIM을 사용할 수 있나요?
+      a: |
+        네. 대부분의 최신 스마트폰은 물리 SIM과 eSIM을 동시에 쓸 수 있어, Africell 회선으로 전화·문자를 받으면서 Roami 시에라리온 eSIM으로 데이터를 사용할 수 있습니다.
+    - q: |
+        Africell 로밍 요금과 비교하면 시에라리온 eSIM이 얼마나 절약되나요?
+      a: |
+        통신사 로밍은 데이터 사용량에 따라 요금이 크게 오르지만, Roami 시에라리온 eSIM은 고정 요금제라 예상치 못한 청구가 없습니다. 장기 체류일수록 절감 폭이 커집니다.
+    - q: |
+        시에라리온 eSIM 데이터 소진 시 Africell 네트워크에서 추가 구매가 가능한가요?
+      a: |
+        가능합니다. 데이터가 부족해지면 앱이나 웹에서 추가 요금제를 구매하면 되고, Africell 네트워크에서 바로 적용됩니다.
 related_products:
   title: 관련 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
+  - name: 싱가포르 eSIM
+    flag: img/flags/sg.svg
     price: $1.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 슬로바키아 eSIM
+    flag: img/flags/sl.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 남아프리카 eSIM
+    flag: img/flags/za.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 한국 eSIM
+    flag: img/flags/kr.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
+  - name: 동남아시아 eSIM
+    flag: img/flags/ya.webp
     price: $1.99부터
     is_highlight: false
   - name: 스페인 eSIM
     flag: img/flags/es.svg
     price: $1.99부터
     is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
+  - name: 스웨덴 eSIM
+    flag: img/flags/se.svg
     price: $1.99부터
     is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 스위스 eSIM
+    flag: img/flags/ch.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 대만 eSIM
+    flag: img/flags/tw.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 타지키스탄 eSIM
+    flag: img/flags/tj.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 탄자니아 eSIM
+    flag: img/flags/tz.svg
+    price: $7.99부터
+    is_highlight: false
+  - name: 태국 eSIM
+    flag: img/flags/th.svg
     price: $1.99부터
     is_highlight: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: '말레이시아 eSIM 2026: 현지 통신사 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Maxis, Celcom, Digi
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: 쿠알라룸푸르, 페낭, 조호르바루, 코타키나발루, 쿠칭
-  main_packages: 3/7/15/30 일, 무제한 데이터
+  main_packages: 3/7/15/30일, 무제한 데이터
 modal:
   title: 서비스 업그레이드 완료!
   btn_text: 계속하기
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 말레이시아 eSIM | 여행용 데이터 요금제 구매
   description: Roami의 최고의 선불 여행 eSIM으로 말레이시아를 탐험하세요. 최고 네트워크에서 무제한 5G 데이터를 이용하세요. 즉시 활성화. 쿠알라룸푸르, 페낭 및 모든 도시를 커버합니다.
-  keywords: 말레이시아 eSIM, 말레이시아 eSIM 구매, 최고의 말레이시아 eSIM, 말레이시아 여행 eSIM, Maxis Malaysia, Celcom Malaysia, Digi Malaysia, 쿠알라룸푸르 eSIM, 페낭 eSIM, 조호르바루 eSIM, 말레이시아 선불 eSIM, 5G 말레이시아 eSIM
+  keywords: 말레이시아 eSIM, 말레이시아 eSIM 추천, 말레이시아 eSIM 구매, 말레이시아 eSIM 요금제, 말레이시아 eSIM 가격, 말레이시아 여행 eSIM, 최고의 말레이시아 eSIM, 말레이시아 eSIM 무제한, 말레이시아 eSIM 사용법, 말레이시아 선불 eSIM, 말레이시아 eSIM 후기, 말레이시아 5G eSIM, Maxis 말레이시아, 쿠알라룸푸르 eSIM, 페낭 eSIM, 조호르바루 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 65.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -366,7 +366,8 @@ faq_section:
     - q: |
         말레이시아 여행을 위한 가장 저렴한 eSIM 옵션은 무엇인가요?
       a: |
-        Roami 말레이시아 eSIM 요금제는 $1.99(7일, 1GB)부터 시작하여 $59.99(30일 무제한)까지 다양합니다. 일반적인 5-7일 여행의 경우 $9.99의 5GB 요금제가 가장 적합합니다 — 지도, 메시징, 소셜 미디어 확인에 충분합니다. 비디오 스트리밍이나 원격 근무가 필요하신가요? 10GB 또는 무제한 요금제를 선택하세요. Maxis의 5G 네트워크 덕분에 스트리밍과 화상 통화가 원활하게 작동합니다. 공항 SIM 키오스크는 30-50% 더 비싸고 줄을 서서 기다려야 합니다. 데이터 필요량이 확실하지 않나요? 소량으로 시작하여 eSIM을 변경하지 않고 앱을 통해 추가 충전하세요.
+        Roami 말레이시아 eSIM 요금제는 $2.99(7일, 1GB)부터 시작하여 $65.99(30일 무제한)까지 다양합니다. 일반적인 5-7일 여행의 경우 $4.99의 5GB 요금제가 가장 적합합니다 — 지도, 메시징, 소셜 미디어 확인에 충분합니다. 비디오 스트리밍이나 원격 근무가 필요하신가요? 10GB 또는 무제한 요금제를 선택하세요. Maxis의 5G 네트워크 덕분에 스트리밍과 화상 통화가 원활하게 작동합니다. 공항 SIM 키오스크는 30-50% 더 비싸고 줄을 서서 기다려야 합니다. 데이터 필요량이 확실하지 않나요? 소량으로 시작하여 eSIM을 변경하지 않고 앱을 통해 추가 충전하세요.
+
     - q: |
         말레이시아에서 eSIM을 사용하려면 여권이나 신분증이 필요한가요? 인증은 어떻게 이루어지나요?
       a: |
@@ -395,63 +396,75 @@ faq_section:
         말레이시아 eSIM을 소셜 미디어와 가족 사진 공유에 사용할 수 있나요?
       a: |
         물론입니다. Instagram, WhatsApp, Facebook 및 기타 소셜 앱은 모두 eSIM 연결을 통해 작동합니다. Maxis의 업로드 속도는 사진을 몇 초 만에 처리하고 짧은 비디오도 쉽게 처리합니다.
+    - q: |
+        말레이시아 eSIM을 설치한 뒤 Maxis 번호는 어떻게 되나요?
+      a: |
+        Maxis 번호는 그대로 유지됩니다. Roami 말레이시아 eSIM은 데이터 전용 회선이므로, 기존 번호로 전화·문자를 받으면서 데이터는 eSIM으로 사용할 수 있습니다.
+    - q: |
+        장기 체류 시 Maxis 대비 말레이시아 eSIM 비용은 어떻게 되나요?
+      a: |
+        장기 체류에는 더 긴 유효 기간의 요금제를 선택할 수 있습니다. Maxis 장기 요금제와 비교해도 약정 없이 필요한 기간만 구매할 수 있다는 점이 장점입니다.
+    - q: |
+        말레이시아 여행 중 Maxis 회선은 유지한 채 eSIM 데이터 요금제를 바꿀 수 있나요?
+      a: |
+        가능합니다. 사용 중에도 더 큰 요금제를 구매해 즉시 적용할 수 있습니다. Maxis 매장을 찾을 필요 없이 온라인으로 처리됩니다.
 related_products:
   title: 관련 말레이시아 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 몰디브 eSIM
+    flag: img/flags/mv.svg
+    price: $14.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 말리 eSIM
+    flag: img/flags/ml.svg
+    price: $27.99부터
+    is_highlight: false
+  - name: 몰타 eSIM
+    flag: img/flags/mt.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 모리셔스 eSIM
+    flag: img/flags/ma.svg
+    price: $7.99부터
+    is_highlight: false
+  - name: 멕시코 eSIM
+    flag: img/flags/mx.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 몰도바 eSIM
+    flag: img/flags/mo.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 네팔 eSIM
+    flag: img/flags/ne.svg
+    price: $10.99부터
+    is_highlight: false
+  - name: 네덜란드 eSIM
+    flag: img/flags/nl.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
+  - name: 뉴질랜드 eSIM
+    flag: img/flags/nz.svg
+    price: $3.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
+  - name: 니제르 eSIM
+    flag: img/flags/ni.svg
+    price: $23.99부터
     is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
+  - name: 나이지리아 eSIM
+    flag: img/flags/ng.svg
+    price: $5.99부터
     is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 노르웨이 eSIM
+    flag: img/flags/no.svg
     price: $1.99부터
     is_highlight: false
 market_analysis:
   title: '말레이시아 eSIM vs SIM 카드: 완전 비교 가이드'
   subtitle: 말레이시아 로컬 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (말레이시아) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Malaysia
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 로컬 선불 SIM (시장 데이터)

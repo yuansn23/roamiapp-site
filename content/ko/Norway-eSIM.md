@@ -1,7 +1,7 @@
 ---
 title: '노르웨이 eSIM 2026 - 오슬로 & 피오르드 최고의 5G 요금제 | Roami'
-date: '2026-08-18T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 노르웨이 eSIM - 오슬로 & 피오르드 최고의 5G 요금제 | Roami
   description: Telenor, Telia 및 Ice에서 5G를 제공하는 최고의 노르웨이 선불 eSIM을 만나보세요. 여권이나 매장 방문이 필요 없습니다 — 즉시 QR 활성화. 31일 낭비 없음. $1.99부터.
-  keywords: 노르웨이 eSIM, 노르웨이 eSIM 구매, 최고의 노르웨이 eSIM, 노르웨이 여행 eSIM, Telenor 노르웨이, Telia 노르웨이, Ice 노르웨이, 오슬로 eSIM, 베르겐 eSIM, 트론헤임 eSIM, 노르웨이 선불 eSIM, 5G 노르웨이 eSIM, 피오르드 eSIM, 오로라 eSIM, 트롬쇠 eSIM
+  keywords: 노르웨이 eSIM, 노르웨이 eSIM 추천, 노르웨이 eSIM 구매, 노르웨이 eSIM 요금제, 노르웨이 eSIM 가격, 노르웨이 여행 eSIM, 최고의 노르웨이 eSIM, 노르웨이 eSIM 무제한, 노르웨이 eSIM 사용법, 노르웨이 선불 eSIM, 노르웨이 eSIM 후기, 노르웨이 5G eSIM, Telenor 노르웨이, 오슬로 eSIM, 베르겐 eSIM, 트론헤임 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 79.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -401,63 +401,75 @@ faq_section:
         데이터가 부족하면 노르웨이 eSIM을 충전할 수 있나요?
       a: |
         네 — 언제든지 Roami 계정을 통해 한 번의 클릭으로 충전할 수 있습니다. 7-Eleven에서 물리적 충전 바우처를 구매하거나(영어 안내 없음) 노르웨이어 전용 온라인 포털을 탐색해야 하는 노르웨이 선불 SIM과 달리, Roami는 언어 장벽 없이 글로벌 결제 수단을 허용합니다.
+    - q: |
+        노르웨이 eSIM을 설치한 뒤 Telenor 번호는 어떻게 되나요?
+      a: |
+        Telenor 번호는 그대로 유지됩니다. Roami 노르웨이 eSIM은 데이터 전용 회선이므로, 기존 번호로 전화·문자를 받으면서 데이터는 eSIM으로 사용할 수 있습니다.
+    - q: |
+        장기 체류 시 Telenor 대비 노르웨이 eSIM 비용은 어떻게 되나요?
+      a: |
+        장기 체류에는 더 긴 유효 기간의 요금제를 선택할 수 있습니다. Telenor 장기 요금제와 비교해도 약정 없이 필요한 기간만 구매할 수 있다는 점이 장점입니다.
+    - q: |
+        노르웨이 여행 중 Telenor 회선은 유지한 채 eSIM 데이터 요금제를 바꿀 수 있나요?
+      a: |
+        가능합니다. 사용 중에도 더 큰 요금제를 구매해 즉시 적용할 수 있습니다. Telenor 매장을 찾을 필요 없이 온라인으로 처리됩니다.
 related_products:
   title: 관련 노르웨이 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 오만 eSIM
+    flag: img/flags/om.svg
+    price: $5.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 파키스탄 eSIM
+    flag: img/flags/pk.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 파나마 eSIM
+    flag: img/flags/pa.svg
+    price: $11.99부터
+    is_highlight: false
+  - name: 파라과이 eSIM
+    flag: img/flags/py.svg
+    price: $22.99부터
+    is_highlight: false
+  - name: 페루 eSIM
+    flag: img/flags/pe.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 필리핀 eSIM
+    flag: img/flags/ph.svg
+    price: $2.99부터
+    is_highlight: false
+  - name: 폴란드 eSIM
+    flag: img/flags/pl.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 포르투갈 eSIM
+    flag: img/flags/pt.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 푸에르토리코 eSIM
+    flag: img/flags/pu.svg
+    price: $6.99부터
+    is_highlight: false
+  - name: 카타르 eSIM
+    flag: img/flags/qa.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
+  - name: 레위니옹 eSIM
+    flag: img/flags/re.svg
     price: $1.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 루마니아 eSIM
+    flag: img/flags/ro.svg
     price: $1.99부터
     is_highlight: false
 market_analysis:
   title: '노르웨이 eSIM vs 선불 SIM 카드 비교: 알아야 할 사항'
   subtitle: 노르웨이 현지 선불 SIM vs. eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (노르웨이) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Norway
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

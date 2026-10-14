@@ -1,7 +1,7 @@
 ---
 title: '사우디아라비아 eSIM - 리야드 & 제다 5G | 지문 KYC 없음 | Roami'
-date: '2026-08-18T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: '당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객은 20% 할인을 받으실 수 있습니다. 프로모션 코드: web20'
 seo:
   title: 사우디아라비아 eSIM - 리야드 & 제다 5G | Roami
-  description: STC, Mobily 및 Zain의 5G를 지원하는 최고의 사우디아라비아 eSIM 요금제를 만나보세요. 여권/지문 등록 불필요 — 현지 SIM은 생체 KYC를 요구합니다. 리야드, 제다, 메카 및 메디나 커버리지. $1.99부터.
-  keywords: 사우디아라비아 eSIM, 사우디아라비아 eSIM 구매, 최고의 사우디아라비아 eSIM, 사우디아라비아 여행 eSIM, STC 사우디아라비아, Mobily 사우디아라비아, Zain 사우디아라비아, 리야드 eSIM, 제다 eSIM, 메카 eSIM, 사우디아라비아 선불 eSIM, 5G 사우디아라비아 eSIM, 움라 eSIM, 지문 없는 사우디 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: STC, Mobily 및 Zain의 5G를 지원하는 최고의 사우디아라비아 eSIM 요금제를 만나보세요. 여권/지문 등록 불필요 — 현지 SIM은 생체 KYC를 요구합니다. 리야드, 제다, 메카 및 메디나 커버리지. $3.99부터.
+  keywords: 사우디아라비아 eSIM, 사우디아라비아 eSIM 추천, 사우디아라비아 eSIM 구매, 사우디아라비아 eSIM 요금제, 사우디아라비아 eSIM 가격, 사우디아라비아 여행 eSIM, 최고의 사우디아라비아 eSIM, 사우디아라비아 eSIM 무제한, 사우디아라비아 eSIM 사용법, 사우디아라비아 선불 eSIM, 사우디아라비아 eSIM 후기, 사우디아라비아 5G eSIM, STC 사우디아라비아, 리야드 eSIM, 제다 eSIM, 메카 eSIM
+  low_price: 3.99
+  high_price: 96.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -370,7 +370,8 @@ faq_section:
     - q: |
         사우디 SIM이 28일 주기를 사용하는 이유는 무엇인가요? 단기 여행에 낭비인가요?
       a: |
-        네 — 큰 낭비입니다. 대부분의 사우디 통신사는 <strong>28일 청구 주기</strong>를 사용합니다(STC, Zain, Mobily). STC의 'Like' 요금제는 2GB/28일에 65 SAR(~$17 USD)입니다. 5일 여행객은 <strong>23일(요금제 가치의 82%)</strong>을 낭비합니다. Roami는 $1.99부터 시작하는 <strong>3, 7, 15 및 30일 요금제</strong>를 제공합니다 — <strong>실제 여행 기간만큼만 지불하세요</strong>. 28일 낭비 없음, 초과 지불 없음.
+        네 — 큰 낭비입니다. 대부분의 사우디 통신사는 <strong>28일 청구 주기</strong>를 사용합니다(STC, Zain, Mobily). STC의 'Like' 요금제는 2GB/28일에 65 SAR(~$17 USD)입니다. 5일 여행객은 <strong>23일(요금제 가치의 82%)</strong>을 낭비합니다. Roami는 $3.99부터 시작하는 <strong>3, 7, 15 및 30일 요금제</strong>를 제공합니다 — <strong>실제 여행 기간만큼만 지불하세요</strong>. 28일 낭비 없음, 초과 지불 없음.
+
     - q: |
         사우디 eSIM을 UAE, 바레인 또는 다른 걸프 국가에서 사용할 수 있나요?
       a: |
@@ -387,63 +388,75 @@ faq_section:
         사우디아라비아 eSIM의 유효 기간은 언제 시작되나요?
       a: |
         요금제 유효 기간은 구매 또는 설치 시가 아닌 사우디아라비아 현지 네트워크에 연결될 때 시작됩니다. 따라서 여행 몇 주 전에 구매 및 설치해도 요금제 사용 일수를 잃지 않습니다. 7일 요금제는 최초 연결 시점부터 7일간의 완전한 사용이 가능합니다.
+    - q: |
+        사우디아라비아에서 STC 커버리지가 약한 지역에서도 eSIM이 작동하나요?
+      a: |
+        Roami 사우디아라비아 eSIM은 여러 현지 사업자에 자동 연결되므로, STC 신호가 약한 지역에서도 더 강한 네트워크로 전환되어 연결을 유지합니다.
+    - q: |
+        STC 데이터 요금과 사우디아라비아 eSIM 요금 중 어느 쪽이 더 저렴한가요?
+      a: |
+        단기 여행이라면 대개 Roami 사우디아라비아 eSIM이 유리합니다. STC 요금제는 장기 약정이나 최소 사용 조건이 있는 반면, Roami는 필요한 기간만큼만 구매할 수 있습니다.
+    - q: |
+        사우디아라비아에서 핫스팟으로 STC 기기와 데이터를 공유할 수 있나요?
+      a: |
+        네. 핫스팟 공유가 지원되어 노트북이나 태블릿 등 다른 기기에서도 사우디아라비아 eSIM 데이터를 사용할 수 있습니다.
 related_products:
   title: 관련 사우디아라비아 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 세네갈 eSIM
+    flag: img/flags/se.svg
+    price: $12.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 세이셸 eSIM
+    flag: img/flags/sc.svg
+    price: $9.99부터
+    is_highlight: false
+  - name: 시에라리온 eSIM
+    flag: img/flags/si.svg
+    price: $10.99부터
+    is_highlight: false
+  - name: 싱가포르 eSIM
+    flag: img/flags/sg.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 슬로바키아 eSIM
+    flag: img/flags/sl.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 남아프리카 eSIM
+    flag: img/flags/za.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 한국 eSIM
+    flag: img/flags/kr.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
+  - name: 동남아시아 eSIM
+    flag: img/flags/ya.webp
     price: $1.99부터
     is_highlight: false
   - name: 스페인 eSIM
     flag: img/flags/es.svg
     price: $1.99부터
     is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
+  - name: 스위스 eSIM
+    flag: img/flags/ch.svg
     price: $1.99부터
     is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 대만 eSIM
+    flag: img/flags/tw.svg
     price: $1.99부터
+    is_highlight: false
+  - name: 타지키스탄 eSIM
+    flag: img/flags/tj.svg
+    price: $4.99부터
     is_highlight: false
 market_analysis:
   title: '사우디아라비아 eSIM vs 현지 SIM: 지문 없음, 28일 낭비 없음, 불법 SIM 없음'
   subtitle: 사우디아라비아 현지 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (Saudi Arabia) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Saudi-Arabia
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)
@@ -472,7 +485,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 모든 통신사는 <strong>28일 청구 주기</strong>를 사용합니다. STC 'Like'는 2GB/28일에 65 SAR(~$17 USD)입니다. 5일 여행객은 <strong>23일(82% 낭비)</strong>을 낭비합니다.
     esim_title: 유연한 단기 요금제
-    esim_desc: Roami는 $1.99부터 시작하는 <strong>3/7/15/30일 요금제</strong>를 제공합니다 — 실제 여행 기간만큼만 지불하세요. 28일 강제 약정 없음, 82% 낭비 없음.
+    esim_desc: Roami는 $3.99부터 시작하는 <strong>3/7/15/30일 요금제</strong>를 제공합니다 — 실제 여행 기간만큼만 지불하세요. 28일 강제 약정 없음, 82% 낭비 없음.
   - icon: wifi
     title: 핫스팟 및<br>속도 정책
     prepaid_title: ''

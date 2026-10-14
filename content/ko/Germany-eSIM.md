@@ -1,7 +1,7 @@
 ---
 title: '독일 eSIM - 베를린 & 뮌헨 5G | PostIdent 불필요 | Roami'
-date: '2026-08-18T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 독일 eSIM - 베를린 & 뮌헨 5G | PostIdent 불필요
   description: Deutsche Telekom, Vodafone 및 O2에서 5G를 제공하는 최고의 독일 eSIM을 만나보세요. PostIdent/VideoIdent 불필요 — 독일의 엄격한 SIM 등록을 건너뛰세요. 베를린, 뮌헨 및 그 이상을 커버합니다. 요금제는 $1.99부터.
-  keywords: 독일 eSIM, 독일 eSIM 구매, 최고의 독일 eSIM, 독일 여행 eSIM, Deutsche Telekom 독일, Vodafone 독일, O2 독일, 베를린 eSIM, 뮌헨 eSIM, 함부르크 eSIM, 독일 선불 eSIM, 5G 독일 eSIM, 등록 불필요 독일 eSIM
+  keywords: 독일 eSIM, 독일 eSIM 추천, 독일 eSIM 구매, 독일 eSIM 요금제, 독일 eSIM 가격, 독일 여행 eSIM, 최고의 독일 eSIM, 독일 eSIM 무제한, 독일 eSIM 사용법, 독일 선불 eSIM, 독일 eSIM 후기, 독일 5G eSIM, Deutsche Telekom 독일, 베를린 eSIM, 뮌헨 eSIM, 함부르크 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 70.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -413,63 +413,75 @@ faq_section:
         독일 eSIM의 유효 기간은 언제 시작되나요?
       a: |
         요금제 유효 기간은 구매 또는 설치 시가 아니라 독일 현지 네트워크에 연결될 때 시작됩니다. 따라서 여행 몇 주 전에 구매하고 설치해도 요금제 일수를 손실하지 않습니다. 7일 요금제는 첫 연결 시점부터 7일간 사용 가능합니다.
+    - q: |
+        독일에서 Deutsche Telekom 회선과 함께 eSIM을 사용할 수 있나요?
+      a: |
+        네. 대부분의 최신 스마트폰은 물리 SIM과 eSIM을 동시에 쓸 수 있어, Deutsche Telekom 회선으로 전화·문자를 받으면서 Roami 독일 eSIM으로 데이터를 사용할 수 있습니다.
+    - q: |
+        Deutsche Telekom 로밍 요금과 비교하면 독일 eSIM이 얼마나 절약되나요?
+      a: |
+        통신사 로밍은 데이터 사용량에 따라 요금이 크게 오르지만, Roami 독일 eSIM은 고정 요금제라 예상치 못한 청구가 없습니다. 장기 체류일수록 절감 폭이 커집니다.
+    - q: |
+        독일 eSIM 데이터 소진 시 Deutsche Telekom 네트워크에서 추가 구매가 가능한가요?
+      a: |
+        가능합니다. 데이터가 부족해지면 앱이나 웹에서 추가 요금제를 구매하면 되고, Deutsche Telekom 네트워크에서 바로 적용됩니다.
 related_products:
   title: 관련 독일 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 가나 eSIM
+    flag: img/flags/gh.svg
+    price: $7.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 지브롤터 eSIM
+    flag: img/flags/gi.svg
+    price: $5.99부터
+    is_highlight: false
+  - name: 그리스 eSIM
+    flag: img/flags/gr.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
+  - name: 그레나다 eSIM
+    flag: img/flags/gd.svg
+    price: $11.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
+  - name: 과들루프 eSIM
+    flag: img/flags/gp.svg
+    price: $8.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
+  - name: 괌 eSIM
+    flag: img/flags/gu.svg
+    price: $9.99부터
+    is_highlight: false
+  - name: 과테말라 eSIM
+    flag: img/flags/gt.svg
+    price: $11.99부터
+    is_highlight: false
+  - name: 가이아나 eSIM
+    flag: img/flags/gy.svg
+    price: $9.99부터
+    is_highlight: false
+  - name: 온두라스 eSIM
+    flag: img/flags/hn.svg
+    price: $6.99부터
     is_highlight: false
   - name: 홍콩 eSIM
     flag: img/flags/hk.svg
     price: $1.99부터
     is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
+  - name: 헝가리 eSIM
+    flag: img/flags/hu.svg
     price: $1.99부터
     is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 아이슬란드 eSIM
+    flag: img/flags/is.svg
     price: $1.99부터
     is_highlight: false
 market_analysis:
   title: '독일 eSIM vs 선불 SIM: PostIdent 불필요, 28일 낭비 없음'
   subtitle: 독일 현지 선불 SIM vs. eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (독일) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Germany
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

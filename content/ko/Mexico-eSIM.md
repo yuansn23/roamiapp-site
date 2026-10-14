@@ -1,7 +1,7 @@
 ---
 title: '멕시코 eSIM - 칸쿤 & 멕시코시티 5G | 여권 셀카 불필요 | Roami'
-date: '2026-08-18T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: '당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객은 20% 할인 혜택을 누리세요. 프로모션 코드: web20'
 seo:
   title: 멕시코 eSIM - 칸쿤 & 멕시코시티 5G | Roami
-  description: Telcel, AT&T 및 Movistar에서 5G를 제공하는 최고의 멕시코 eSIM을 만나보세요. 여권/셀카 등록 불필요 — 2026년부터 현지 SIM은 신분증 + 셀카 필요. 칸쿤, 멕시코시티 및 리비에라 마야를 커버합니다. 요금제는 $1.99부터.
-  keywords: 멕시코 eSIM, 멕시코 eSIM 구매, 최고의 멕시코 eSIM, 멕시코 여행 eSIM, Telcel 멕시코, AT&T 멕시코, Movistar 멕시코, 멕시코시티 eSIM, 칸쿤 eSIM, 리비에라 마야 eSIM, 멕시코 선불 eSIM, 5G 멕시코 eSIM, 여권 불필요 멕시코 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Telcel, AT&T 및 Movistar에서 5G를 제공하는 최고의 멕시코 eSIM을 만나보세요. 여권/셀카 등록 불필요 — 2026년부터 현지 SIM은 신분증 + 셀카 필요. 칸쿤, 멕시코시티 및 리비에라 마야를 커버합니다. 요금제는 $3.99부터.
+  keywords: 멕시코 eSIM, 멕시코 eSIM 추천, 멕시코 eSIM 구매, 멕시코 eSIM 요금제, 멕시코 eSIM 가격, 멕시코 여행 eSIM, 최고의 멕시코 eSIM, 멕시코 eSIM 무제한, 멕시코 eSIM 사용법, 멕시코 선불 eSIM, 멕시코 eSIM 후기, 멕시코 5G eSIM, Telcel 멕시코, 멕시코시티 eSIM, 칸쿤 eSIM, 과달라하라 eSIM
+  low_price: 3.99
+  high_price: 68.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -370,7 +370,8 @@ faq_section:
     - q: |
         멕시코 SIM에 7일 최소 기간이 있는 이유는 무엇인가요? 단기 여행에 낭비인가요?
       a: |
-        네 — 돈과 데이터의 낭비입니다. Telcel의 가장 저렴한 요금제는 <strong>7일($50 MXN ≈ $3 USD)</strong>로 제한된 데이터를 제공합니다. AT&T의 최소 기간은 <strong>14일($100 MXN)</strong>, Movistar는 <strong>15일($75 MXN)</strong>입니다. 5일 여행객이 7일 요금제를 구매하면 요금제의 <strong>29%</strong>를 낭비합니다. AT&T의 14일 요금제는 <strong>64%</strong>를 낭비합니다. Roami는 $1.99부터 시작하는 <strong>3일, 7일, 15일 및 30일 요금제</strong>를 제공합니다 — 강제 최소 기간 없음, 낭비 없음.
+        네 — 돈과 데이터의 낭비입니다. Telcel의 가장 저렴한 요금제는 <strong>7일($50 MXN ≈ $3 USD)</strong>로 제한된 데이터를 제공합니다. AT&T의 최소 기간은 <strong>14일($100 MXN)</strong>, Movistar는 <strong>15일($75 MXN)</strong>입니다. 5일 여행객이 7일 요금제를 구매하면 요금제의 <strong>29%</strong>를 낭비합니다. AT&T의 14일 요금제는 <strong>64%</strong>를 낭비합니다. Roami는 $3.99부터 시작하는 <strong>3일, 7일, 15일 및 30일 요금제</strong>를 제공합니다 — 강제 최소 기간 없음, 낭비 없음.
+
     - q: |
         치첸이트사, 테오티우아칸 및 툴룸 유적지에서 eSIM이 작동하나요?
       a: |
@@ -391,63 +392,75 @@ faq_section:
         멕시코 eSIM의 유효 기간은 언제 시작되나요?
       a: |
         요금제 유효 기간은 구매 또는 설치 시가 아니라 멕시코 현지 네트워크에 연결될 때 시작됩니다. 따라서 여행 몇 주 전에 구매하고 설치해도 요금제 일수를 손실하지 않습니다. 7일 요금제는 첫 연결 시점부터 7일간 사용 가능합니다.
+    - q: |
+        안드로이드에서 Telcel 멕시코 eSIM을 설정하는 방법은 무엇인가요?
+      a: |
+        설정 > 네트워크 및 인터넷 > SIM > 'eSIM 다운로드'에서 QR 코드를 스캔합니다. Telcel 물리 SIM과 함께 쓰려면 데이터 회선을 Roami로 지정하세요.
+    - q: |
+        멕시코 eSIM 가격에 숨겨진 수수료가 있나요? Telcel과 비교해 주세요.
+      a: |
+        없습니다. 표시된 가격 외에 활성화 수수료나 로밍 추가 요금이 붙지 않습니다. Telcel 선불 SIM은 등록비나 최소 충전 조건이 붙는 경우가 있습니다.
+    - q: |
+        Telcel 네트워크 속도로 멕시코 eSIM 데이터를 다 쓰면 느려지나요?
+      a: |
+        Roami 멕시코 eSIM은 정해진 데이터 한도까지 고속으로 사용하고, 한도를 모두 쓰면 추가 구매 전까지 연결이 멈춥니다. 요금이 갑자기 오르지 않습니다.
 related_products:
   title: 관련 멕시코 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
+  - name: 몰도바 eSIM
+    flag: img/flags/mo.svg
     price: $1.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 모로코 eSIM
+    flag: img/flags/ma.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 네팔 eSIM
+    flag: img/flags/ne.svg
+    price: $10.99부터
+    is_highlight: false
+  - name: 네덜란드 eSIM
+    flag: img/flags/nl.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 뉴질랜드 eSIM
+    flag: img/flags/nz.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 니제르 eSIM
+    flag: img/flags/ni.svg
+    price: $23.99부터
+    is_highlight: false
+  - name: 나이지리아 eSIM
+    flag: img/flags/ng.svg
+    price: $5.99부터
+    is_highlight: false
+  - name: 노르웨이 eSIM
+    flag: img/flags/no.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
+  - name: 오만 eSIM
+    flag: img/flags/om.svg
+    price: $5.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
+  - name: 파키스탄 eSIM
+    flag: img/flags/pk.svg
+    price: $3.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
+  - name: 파나마 eSIM
+    flag: img/flags/pa.svg
+    price: $11.99부터
     is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 파라과이 eSIM
+    flag: img/flags/py.svg
+    price: $22.99부터
     is_highlight: false
 market_analysis:
   title: '멕시코 eSIM vs 현지 SIM: 여권/셀카 불필요, 7일 낭비 없음, 핫스팟 금지 없음'
   subtitle: 멕시코 현지 선불 SIM vs. eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (멕시코) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Mexico
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)
@@ -476,7 +489,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Telcel 최소 7일($50), AT&T 14일($100), Movistar 15일($75). 관광객을 위한 <strong>5일 미만 요금제 없음</strong>. 5일 여행은 요금제의 29-67%를 낭비합니다.
     esim_title: 유연한 단기 요금제
-    esim_desc: Roami는 $1.99부터 시작하는 <strong>3/7/15/30일 요금제</strong>를 제공합니다 — 실제 여행 기간만큼만 지불하세요. 7일 최소 기간 없음, 낭비 없음.
+    esim_desc: Roami는 $3.99부터 시작하는 <strong>3/7/15/30일 요금제</strong>를 제공합니다 — 실제 여행 기간만큼만 지불하세요. 7일 최소 기간 없음, 낭비 없음.
   - icon: wifi
     title: 핫스팟 및<br>속도 정책
     prepaid_title: ''
@@ -517,5 +530,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: 7일 최소 기간 낭비 없음
-      desc: Telcel의 최소 기간은 <b>7일($50)</b>, AT&T는 <b>14일($100)</b>입니다. 5일 여행객은 <b>29-64%</b>를 낭비합니다. Roami는 <b>$1.99</b>부터 시작하는 <b>3일 요금제</b>를 제공합니다 — 강제 최소 기간 없음.
+      desc: Telcel의 최소 기간은 <b>7일($50)</b>, AT&T는 <b>14일($100)</b>입니다. 5일 여행객은 <b>29-64%</b>를 낭비합니다. Roami는 <b>$3.99</b>부터 시작하는 <b>3일 요금제</b>를 제공합니다 — 강제 최소 기간 없음.
 ---

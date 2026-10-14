@@ -1,7 +1,7 @@
 ---
 title: '괌 eSIM 2026: 요금제 및 커버리지 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: '당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객은 20% 할인 혜택을 받으실 수 있습니다. 프로모션 코드: web20'
 seo:
   title: 괌 eSIM | 여행객을 위한 최고의 선불 eSIM
-  description: 괌에서 즉시 인터넷에 연결하세요. 즉시 활성화되는 무제한 5G 데이터. 하갓냐, 투몬 및 데데도를 커버합니다. 즉시 활성화. 오늘 온라인으로 요금제를 구매하세요.
-  keywords: 괌 eSIM, 괌 eSIM 구매, 최고의 괌 eSIM, 괌 여행 eSIM, DOCOMO Pacific 괌, IT&E 괌, GTA 괌, 하갓냐 eSIM, 타무닝 eSIM, 데데도 eSIM, 괌 선불 eSIM, 5G 괌 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: 괌 eSIM 요금제를 비교하세요 — 하갓냐, 투몬, 데데도에서 무제한 5G 데이터. DOCOMO Pacific, IT&E, GTA 커버리지 가이드. $9.99부터 즉시 QR 활성화.
+  keywords: 괌 eSIM, 괌 eSIM 추천, 괌 eSIM 구매, 괌 eSIM 요금제, 괌 eSIM 가격, 괌 여행 eSIM, 최고의 괌 eSIM, 괌 eSIM 무제한, 괌 eSIM 사용법, 괌 선불 eSIM, 괌 eSIM 후기, 괌 5G eSIM, DOCOMO Pacific 괌, 하갓냐 eSIM, 타무닝 eSIM, 데데도 eSIM
+  low_price: 9.99
+  high_price: 88.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -239,7 +239,8 @@ faq_section:
     - q: |
         괌에 2-3일만 여행합니다. 어떤 eSIM을 구매해야 하나요?
       a: |
-        단기 여행의 경우 1GB/7일 요금제($1.99)로 지도와 메시징을 커버할 수 있습니다. 소셜 미디어를 사용하고 사진을 공유할 계획이라면 3GB 요금제($4.99)가 더 여유롭습니다. 둘 다 즉시 활성화되며 필요 시 데이터를 추가할 수 있습니다.
+        단기 여행의 경우 1GB/7일 요금제($9.99)로 지도와 메시징을 커버할 수 있습니다. 소셜 미디어를 사용하고 사진을 공유할 계획이라면 3GB 요금제($22.99)가 더 여유롭습니다. 둘 다 즉시 활성화되며 필요 시 데이터를 추가할 수 있습니다.
+
     - q: |
         괌 eSIM에서 데이터 사용량을 확인할 수 있나요?
       a: |
@@ -248,55 +249,67 @@ faq_section:
         괌 여행을 위해 휴대폰에 몇 개의 eSIM 프로필을 저장할 수 있나요?
       a: |
         대부분의 휴대폰은 5-10개의 eSIM 프로필을 저장할 수 있습니다. 괌 eSIM을 기존 SIM 및 다른 국가 프로필과 함께 보관할 수 있습니다. 필요한 프로필을 활성화하고 다른 프로필은 비활성화하면 됩니다. 프로필 간 전환은 휴대폰 설정에서 약 10초면 됩니다.
+    - q: |
+        괌 eSIM을 설치한 뒤 DOCOMO Pacific 번호는 어떻게 되나요?
+      a: |
+        DOCOMO Pacific 번호는 그대로 유지됩니다. Roami 괌 eSIM은 데이터 전용 회선이므로, 기존 번호로 전화·문자를 받으면서 데이터는 eSIM으로 사용할 수 있습니다.
+    - q: |
+        장기 체류 시 DOCOMO Pacific 대비 괌 eSIM 비용은 어떻게 되나요?
+      a: |
+        장기 체류에는 더 긴 유효 기간의 요금제를 선택할 수 있습니다. DOCOMO Pacific 장기 요금제와 비교해도 약정 없이 필요한 기간만 구매할 수 있다는 점이 장점입니다.
+    - q: |
+        괌 여행 중 DOCOMO Pacific 회선은 유지한 채 eSIM 데이터 요금제를 바꿀 수 있나요?
+      a: |
+        가능합니다. 사용 중에도 더 큰 요금제를 구매해 즉시 적용할 수 있습니다. DOCOMO Pacific 매장을 찾을 필요 없이 온라인으로 처리됩니다.
 related_products:
   title: 관련 괌 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 과테말라 eSIM
+    flag: img/flags/gt.svg
+    price: $11.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
-    price: $1.99부터
+  - name: 가이아나 eSIM
+    flag: img/flags/gy.svg
+    price: $9.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
+  - name: 온두라스 eSIM
+    flag: img/flags/hn.svg
+    price: $6.99부터
     is_highlight: false
   - name: 홍콩 eSIM
     flag: img/flags/hk.svg
     price: $1.99부터
     is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
+  - name: 헝가리 eSIM
+    flag: img/flags/hu.svg
     price: $1.99부터
     is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
+  - name: 아이슬란드 eSIM
+    flag: img/flags/is.svg
     price: $1.99부터
     is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
+  - name: 인도 eSIM
+    flag: img/flags/in.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 인도네시아 eSIM
+    flag: img/flags/id.svg
     price: $1.99부터
     is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 이라크 eSIM
+    flag: img/flags/iq.svg
+    price: $9.99부터
+    is_highlight: false
+  - name: 아일랜드 eSIM
+    flag: img/flags/ie.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 이스라엘 eSIM
+    flag: img/flags/il.svg
+    price: $2.99부터
+    is_highlight: false
+  - name: 이탈리아 eSIM
+    flag: img/flags/it.svg
     price: $1.99부터
     is_highlight: false
 ---

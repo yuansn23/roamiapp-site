@@ -1,7 +1,7 @@
 ---
 title: '인도네시아 eSIM - 발리 & 자카르타 5G | IMEI 세금 없음 | Roami'
-date: '2026-08-18T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 인도네시아 eSIM - 발리 & 자카르타 5G | IMEI 세금 없음
   description: Telkomsel, Indosat 및 XL의 5G를 지원하는 최고의 인도네시아 eSIM 요금제를 만나보세요. IMEI 등록이나 40% 세금 불필요 — 공항 바가지 요금 피하세요. 발리, 자카르타 및 욕야카르타 커버리지. $1.99부터.
-  keywords: 인도네시아 eSIM, 인도네시아 eSIM 구매, 최고의 인도네시아 eSIM, 인도네시아 여행 eSIM, Telkomsel 인도네시아, Indosat Ooredoo 인도네시아, XL Axiata 인도네시아, 자카르타 eSIM, 발리 eSIM, 욕야카르타 eSIM, 인도네시아 선불 eSIM, 5G 인도네시아 eSIM, IMEI 없는 인도네시아 eSIM
+  keywords: 인도네시아 eSIM, 인도네시아 eSIM 추천, 인도네시아 eSIM 구매, 인도네시아 eSIM 요금제, 인도네시아 eSIM 가격, 인도네시아 여행 eSIM, 최고의 인도네시아 eSIM, 인도네시아 eSIM 무제한, 인도네시아 eSIM 사용법, 인도네시아 선불 eSIM, 인도네시아 eSIM 후기, 인도네시아 5G eSIM, Telkomsel 인도네시아, 자카르타 eSIM, 수라바야 eSIM, 반둥 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 68.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -380,7 +380,8 @@ faq_section:
     - q: |
         인도네시아의 공항 SIM 카드가 실제로 바가지라는 것이 사실인가요?
       a: |
-        네 — 인도네시아에서 최악의 관광객 함정 중 하나입니다. 자카르타와 발리의 공항 키오스크는 선불 SIM 카드를 <strong>공식 가격의 4~10배</strong>에 판매합니다. 관광객들은 시내에서 Rp 30,000-50,000($2-3 USD)에 판매되는 SIM을 Rp 200,000-500,000($13-33 USD)에 구매했다고 자주 보고합니다. 또한 IMEI 세금 문제에 직면하게 됩니다. Roami는 <strong>3일 동안 $1.99</strong>입니다 — 투명한 가격, 공항 바가지 없음, IMEI 세금 없음.
+        네 — 인도네시아에서 최악의 관광객 함정 중 하나입니다. 자카르타와 발리의 공항 키오스크는 선불 SIM 카드를 <strong>공식 가격의 4~10배</strong>에 판매합니다. 관광객들은 시내에서 Rp 30,000-50,000($2-3 USD)에 판매되는 SIM을 Rp 200,000-500,000($13-33 USD)에 구매했다고 자주 보고합니다. 또한 IMEI 세금 문제에 직면하게 됩니다. Roami는 <strong>3일 동안 $8.99</strong>입니다 — 투명한 가격, 공항 바가지 없음, IMEI 세금 없음.
+
     - q: |
         내 eSIM이 발리 — 스미냑, 쿠타, 우붓 및 해변에서 작동하나요?
       a: |
@@ -409,63 +410,75 @@ faq_section:
         인도네시아 eSIM의 유효 기간은 언제 시작되나요?
       a: |
         요금제 유효 기간은 구매 또는 설치 시가 아닌 인도네시아 현지 네트워크에 연결될 때 시작됩니다. 따라서 여행 몇 주 전에 구매 및 설치해도 요금제 사용 일수를 잃지 않습니다. 7일 요금제는 최초 연결 시점부터 7일간의 완전한 사용이 가능합니다.
+    - q: |
+        인도네시아 eSIM을 설치한 뒤 Telkomsel 번호는 어떻게 되나요?
+      a: |
+        Telkomsel 번호는 그대로 유지됩니다. Roami 인도네시아 eSIM은 데이터 전용 회선이므로, 기존 번호로 전화·문자를 받으면서 데이터는 eSIM으로 사용할 수 있습니다.
+    - q: |
+        장기 체류 시 Telkomsel 대비 인도네시아 eSIM 비용은 어떻게 되나요?
+      a: |
+        장기 체류에는 더 긴 유효 기간의 요금제를 선택할 수 있습니다. Telkomsel 장기 요금제와 비교해도 약정 없이 필요한 기간만 구매할 수 있다는 점이 장점입니다.
+    - q: |
+        인도네시아 여행 중 Telkomsel 회선은 유지한 채 eSIM 데이터 요금제를 바꿀 수 있나요?
+      a: |
+        가능합니다. 사용 중에도 더 큰 요금제를 구매해 즉시 적용할 수 있습니다. Telkomsel 매장을 찾을 필요 없이 온라인으로 처리됩니다.
 related_products:
   title: 관련 인도네시아 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 이라크 eSIM
+    flag: img/flags/iq.svg
+    price: $9.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 아일랜드 eSIM
+    flag: img/flags/ie.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 이스라엘 eSIM
+    flag: img/flags/il.svg
+    price: $2.99부터
+    is_highlight: false
+  - name: 이탈리아 eSIM
+    flag: img/flags/it.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
+  - name: 코트디부아르 eSIM
+    flag: img/flags/ci.svg
+    price: $9.99부터
+    is_highlight: false
+  - name: 자메이카 eSIM
+    flag: img/flags/jm.svg
+    price: $11.99부터
     is_highlight: false
   - name: 일본 eSIM
     flag: img/flags/jp.svg
     price: $1.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
+  - name: 요르단 eSIM
+    flag: img/flags/jo.svg
+    price: $6.99부터
     is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
+  - name: 카자흐스탄 eSIM
+    flag: img/flags/kz.svg
+    price: $3.99부터
     is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
+  - name: 케냐 eSIM
+    flag: img/flags/ke.svg
+    price: $7.99부터
     is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
+  - name: 코소보 eSIM
+    flag: img/flags/xk.svg
+    price: $13.99부터
     is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 쿠웨이트 eSIM
+    flag: img/flags/kw.svg
+    price: $4.99부터
     is_highlight: false
 market_analysis:
   title: '인도네시아 eSIM vs 현지 SIM: IMEI 세금 없음, 공항 바가지 없음, 여권 불필요'
   subtitle: 인도네시아 현지 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (Indonesia) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Indonesia
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

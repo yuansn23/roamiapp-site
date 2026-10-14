@@ -1,7 +1,7 @@
 ---
 title: '베트남 eSIM 2026: 도시 및 네트워크 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 베트남 eSIM | 빠른 선불 데이터 요금제 구매
   description: Roami의 최고의 선불 여행용 eSIM으로 베트남을 여행하세요. 최고 네트워크에서 무제한 5G 데이터. 즉시 활성화. 하노이, 호치민시 및 다낭을 커버합니다.
-  keywords: 베트남 eSIM, 베트남 eSIM 구매, 최고의 베트남 eSIM, 베트남 여행 eSIM, Viettel 베트남, Mobifone 베트남, Vinaphone 베트남, 호치민시 eSIM, 하노이 eSIM, 다낭 eSIM, 베트남 선불 eSIM, 5G 베트남 eSIM
+  keywords: 베트남 eSIM, 베트남 eSIM 추천, 베트남 eSIM 구매, 베트남 eSIM 요금제, 베트남 eSIM 가격, 베트남 여행 eSIM, 최고의 베트남 eSIM, 베트남 eSIM 무제한, 베트남 eSIM 사용법, 베트남 선불 eSIM, 베트남 eSIM 후기, 베트남 5G eSIM, Viettel 베트남, 호치민시 eSIM, 하노이 eSIM, 다낭 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 74.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -362,7 +362,8 @@ faq_section:
     - q: |
         너무 많은 비용을 들이지 않고 베트남용 eSIM을 받을 수 있나요?
       a: |
-        물론입니다. Roami의 베트남 eSIM 요금제는 $1.99부터 시작합니다. 5GB/15일 옵션($9.99)은 여행객들 사이에서 가장 인기가 많습니다 — 지도, WhatsApp, Instagram, 이메일을 편안하게 처리합니다. 데이터를 많이 사용하는 사용자라면 10GB($14.99) 또는 무제한($59.99) 요금제가 안심을 제공합니다. 공항 SIM 카운터를 건너뛰면 30-50%를 절약하고 대기열의 번거로움을 피할 수 있습니다. 조정이 필요하신가요? Roami 앱에서 언제든지 추가 충전할 수 있습니다.
+        물론입니다. Roami의 베트남 eSIM 요금제는 $1.99부터 시작합니다. 5GB/15일 옵션($11.99)은 여행객들 사이에서 가장 인기가 많습니다 — 지도, WhatsApp, Instagram, 이메일을 편안하게 처리합니다. 데이터를 많이 사용하는 사용자라면 10GB($14.99) 또는 무제한($74.99) 요금제가 안심을 제공합니다. 공항 SIM 카운터를 건너뛰면 30-50%를 절약하고 대기열의 번거로움을 피할 수 있습니다. 조정이 필요하신가요? Roami 앱에서 언제든지 추가 충전할 수 있습니다.
+
     - q: |
         베트남 eSIM의 유효 기간은 언제 시작되나요?
       a: |
@@ -387,63 +388,75 @@ faq_section:
         베트남 eSIM을 구매 직후 사용할 수 있나요, 아니면 기다려야 하나요?
       a: |
         QR 코드는 몇 분 이내에 도착합니다. 바로 설치하세요 — 2분이 소요됩니다. 그러나 요금제 유효 기간은 베트남의 네트워크에 연결할 때만 시작됩니다. 따라서 여행 몇 주 전에 설치해도 요금제 사용 일수가 낭비되지 않습니다.
+    - q: |
+        Viettel 네트워크에서 베트남 eSIM은 어떻게 개통하나요?
+      a: |
+        Roami 베트남 eSIM은 QR 코드 스캔만으로 개통됩니다. 결제 후 5분 이내에 이메일로 QR 코드가 오고, Viettel 및 현지 파트너 네트워크에 자동 연결됩니다. 매장 방문이나 추가 서류가 필요 없습니다.
+    - q: |
+        베트남 eSIM 가격은 Viettel 선불 SIM보다 저렴한가요?
+      a: |
+        대체로 그렇습니다. Roami 베트남 eSIM은 마켓플레이스 수수료 없이 직접 판매하므로 Viettel 선불 요금제보다 낮은 경우가 많고, 숨겨진 수수료가 없습니다.
+    - q: |
+        베트남에서 데이터가 부족하면 Viettel 대신 어떻게 충전하나요?
+      a: |
+        같은 계정에서 더 큰 요금제를 추가 구매할 수 있습니다. Viettel 매장을 방문하거나 충전권을 살 필요 없이 온라인으로 즉시 처리됩니다.
 related_products:
   title: 관련 베트남 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
+  - name: 잠비아 eSIM
+    flag: img/flags/za.svg
+    price: $11.99부터
+    is_highlight: true
+  - name: 슬로베니아 eSIM
+    flag: img/flags/sl.svg
     price: $1.99부터
     is_highlight: false
   - name: 유럽 eSIM
     flag: img/flags/eu.svg
     price: $1.99부터
-    is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+    is_highlight: false
+  - name: 아프가니스탄 eSIM
+    flag: img/flags/af.svg
+    price: $11.99부터
+    is_highlight: false
+  - name: 알바니아 eSIM
+    flag: img/flags/al.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
+  - name: 알제리 eSIM
+    flag: img/flags/dz.svg
+    price: $3.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
+  - name: 안도라 eSIM
+    flag: img/flags/ad.svg
+    price: $6.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
+  - name: 아르헨티나 eSIM
+    flag: img/flags/ar.svg
+    price: $3.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
+  - name: 아르메니아 eSIM
+    flag: img/flags/am.svg
+    price: $7.99부터
     is_highlight: false
   - name: 호주 eSIM
     flag: img/flags/au.svg
     price: $1.99부터
     is_highlight: false
+  - name: 오스트리아 eSIM
+    flag: img/flags/at.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 아제르바이잔 eSIM
+    flag: img/flags/az.svg
+    price: $6.99부터
+    is_highlight: false
 market_analysis:
   title: '베트남 eSIM vs 물리적 SIM: 여행, 비용 및 설정 비교'
   subtitle: 베트남 현지 선불 SIM vs. eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (Vietnam) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Vietnam
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

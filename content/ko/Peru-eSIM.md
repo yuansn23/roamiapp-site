@@ -1,7 +1,7 @@
 ---
 title: '페루 eSIM 2026: 연결 및 속도 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Claro, Movistar, Entel
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: 리마, 쿠스코, 아레키파, 트루히요, 이키토스
-  main_packages: 3/7/15/30 일, 무제한 데이터
+  main_packages: 3/7/15/30일, 무제한 데이터
 modal:
   title: 서비스 업그레이드 완료!
   btn_text: 계속하기
@@ -18,10 +18,10 @@ modal:
   text_android: 당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객님께는 20% 할인 혜택이 제공되며, 프로모션 코드는 web20 입니다.
 seo:
   title: 페루 eSIM | 빠른 선불 데이터 요금제 구매
-  description: 페루용 선불 여행 eSIM이 필요하신가요? Roami는 전국에서 무제한 5G 데이터를 제공합니다. 리마, 쿠스코 및 아레키파를 커버합니다. 즉시 활성화. $1.99부터 시작하는 요금제.
-  keywords: 페루 eSIM, 페루 eSIM 구매, 최고의 페루 eSIM, 페루 여행 eSIM, Claro Peru, Movistar Peru, Entel Peru, 리마 eSIM, 쿠스코 eSIM, 아레키파 eSIM, 페루 선불 eSIM, 5G 페루 eSIM
-  low_price: '1.99'
-  high_price: '39.9'
+  description: 페루용 선불 여행 eSIM이 필요하신가요? Roami는 전국에서 무제한 5G 데이터를 제공합니다. 리마, 쿠스코 및 아레키파를 커버합니다. 즉시 활성화. $4.99부터 시작하는 요금제.
+  keywords: 페루 eSIM, 페루 eSIM 추천, 페루 eSIM 구매, 페루 eSIM 요금제, 페루 eSIM 가격, 페루 여행 eSIM, 최고의 페루 eSIM, 페루 eSIM 무제한, 페루 eSIM 사용법, 페루 선불 eSIM, 페루 eSIM 후기, 페루 5G eSIM, Claro 페루, 리마 eSIM, 쿠스코 eSIM, 아레키파 eSIM
+  low_price: 4.99
+  high_price: 85.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -338,7 +338,8 @@ faq_section:
     - q: |
         페루 여행을 위한 가장 저렴한 eSIM 옵션은 무엇인가요?
       a: |
-        Roami 페루 eSIM 요금제는 $1.99(7일, 1GB)부터 시작하여 $59.99(30일 무제한)까지 다양합니다. 일반적인 5-7일 여행의 경우 $9.99의 5GB 요금제가 가장 적합합니다 — 지도, 메시징, 소셜 미디어 확인에 충분합니다. 비디오 스트리밍이나 원격 근무가 필요하신가요? 10GB 또는 무제한 요금제를 선택하세요. Claro의 5G 네트워크 덕분에 스트리밍과 화상 통화가 원활하게 작동합니다. 공항 SIM 키오스크는 30-50% 더 비싸고 줄을 서서 기다려야 합니다. 데이터 필요량이 확실하지 않나요? 소량으로 시작하여 eSIM을 변경하지 않고 앱을 통해 추가 충전하세요.
+        Roami 페루 eSIM 요금제는 $7.99(7일, 1GB)부터 시작하여 $30.99(3일 무제한)까지 다양합니다. 일반적인 5-7일 여행의 경우 $13.99의 5GB 요금제가 가장 적합합니다 — 지도, 메시징, 소셜 미디어 확인에 충분합니다. 비디오 스트리밍이나 원격 근무가 필요하신가요? 10GB 또는 무제한 요금제를 선택하세요. Claro의 5G 네트워크 덕분에 스트리밍과 화상 통화가 원활하게 작동합니다. 공항 SIM 키오스크는 30-50% 더 비싸고 줄을 서서 기다려야 합니다. 데이터 필요량이 확실하지 않나요? 소량으로 시작하여 eSIM을 변경하지 않고 앱을 통해 추가 충전하세요.
+
     - q: |
         페루 eSIM의 경우 Roami와 Holafly를 비교하면 어떤가요?
       a: |
@@ -363,63 +364,75 @@ faq_section:
         도착했을 때 페루 eSIM이 연결되지 않으면 어떻게 해야 하나요?
       a: |
         각각 약 30초가 소요되는 세 가지 빠른 확인 사항: 1) 데이터 로밍이 켜져 있나요? 2) 네트워크 설정에서 Claro를 수동으로 선택할 수 있나요? 3) 휴대폰을 다시 시작해 보세요. 연결 문제의 약 90%는 이러한 단계 중 하나로 해결됩니다. 그래도 해결되지 않으면 Roami 24/7 지원이 도움을 드릴 수 있습니다.
+    - q: |
+        안드로이드에서 Claro 페루 eSIM을 설정하는 방법은 무엇인가요?
+      a: |
+        설정 > 네트워크 및 인터넷 > SIM > 'eSIM 다운로드'에서 QR 코드를 스캔합니다. Claro 물리 SIM과 함께 쓰려면 데이터 회선을 Roami로 지정하세요.
+    - q: |
+        페루 eSIM 가격에 숨겨진 수수료가 있나요? Claro과 비교해 주세요.
+      a: |
+        없습니다. 표시된 가격 외에 활성화 수수료나 로밍 추가 요금이 붙지 않습니다. Claro 선불 SIM은 등록비나 최소 충전 조건이 붙는 경우가 있습니다.
+    - q: |
+        Claro 네트워크 속도로 페루 eSIM 데이터를 다 쓰면 느려지나요?
+      a: |
+        Roami 페루 eSIM은 정해진 데이터 한도까지 고속으로 사용하고, 한도를 모두 쓰면 추가 구매 전까지 연결이 멈춥니다. 요금이 갑자기 오르지 않습니다.
 related_products:
   title: 관련 페루 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 필리핀 eSIM
+    flag: img/flags/ph.svg
+    price: $2.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 폴란드 eSIM
+    flag: img/flags/pl.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 포르투갈 eSIM
+    flag: img/flags/pt.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 푸에르토리코 eSIM
+    flag: img/flags/pu.svg
+    price: $6.99부터
+    is_highlight: false
+  - name: 카타르 eSIM
+    flag: img/flags/qa.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
+  - name: 레위니옹 eSIM
+    flag: img/flags/re.svg
     price: $1.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
+  - name: 루마니아 eSIM
+    flag: img/flags/ro.svg
     price: $1.99부터
     is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
+  - name: 러시아 eSIM
+    flag: img/flags/ru.svg
+    price: $2.99부터
     is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
+  - name: 사우디아라비아 eSIM
+    flag: img/flags/sa.svg
+    price: $3.99부터
     is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
+  - name: 세네갈 eSIM
+    flag: img/flags/se.svg
+    price: $12.99부터
     is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 세이셸 eSIM
+    flag: img/flags/sc.svg
+    price: $9.99부터
+    is_highlight: false
+  - name: 시에라리온 eSIM
+    flag: img/flags/si.svg
+    price: $10.99부터
     is_highlight: false
 market_analysis:
   title: '페루 eSIM vs 물리적 SIM 카드: 활성화 및 설정 비교'
   subtitle: 페루 로컬 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (페루) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Peru
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 로컬 선불 SIM (시장 데이터)

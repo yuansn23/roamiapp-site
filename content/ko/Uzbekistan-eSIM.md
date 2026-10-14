@@ -1,7 +1,7 @@
 ---
 title: '우즈베키스탄 eSIM 2026: 통신사 및 커버리지 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 우즈베키스탄 eSIM | 여행을 위한 선불 데이터 요금제
   description: 우즈베키스탄 여행을 계획 중이신가요? Roami의 최고의 선불 여행용 eSIM으로 무제한 5G 데이터를 이용하세요. 타슈켄트, 사마르칸트 및 부하라를 커버합니다. 즉시 활성화.
-  keywords: 우즈베키스탄 eSIM, 우즈베키스탄 eSIM 구매, 최고의 우즈베키스탄 eSIM, 우즈베키스탄 여행 eSIM, Ucell 우즈베키스탄, Beeline 우즈베키스탄, UMS (Universal Mobile Systems) 우즈베키스탄, 타슈켄트 eSIM, 사마르칸트 eSIM, 부하라 eSIM, 우즈베키스탄 선불 eSIM, 5G 우즈베키스탄 eSIM
+  keywords: 우즈베키스탄 eSIM, 우즈베키스탄 eSIM 추천, 우즈베키스탄 eSIM 구매, 우즈베키스탄 eSIM 요금제, 우즈베키스탄 eSIM 가격, 우즈베키스탄 여행 eSIM, 최고의 우즈베키스탄 eSIM, 우즈베키스탄 eSIM 무제한, 우즈베키스탄 eSIM 사용법, 우즈베키스탄 선불 eSIM, 우즈베키스탄 eSIM 후기, 우즈베키스탄 5G eSIM, Ucell 우즈베키스탄, 타슈켄트 eSIM, 사마르칸트 eSIM, 부하라 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 96.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -289,7 +289,8 @@ faq_section:
     - q: |
         우즈베키스탄 여행객에게 가장 인기 있는 eSIM 선택은 무엇인가요?
       a: |
-        우즈베키스탄 여행객 대부분은 5GB/15일 요금제($9.99)를 선택합니다. 일상적인 내비게이션, 소셜 미디어, 메시징에 충분합니다. 더 긴 체류 또는 더 많은 사용량에는 10GB($14.99) 또는 무제한($59.99) 요금제가 좋은 옵션입니다. 모든 요금제는 몇 분 안에 활성화되며 24/7 지원을 포함합니다.
+        우즈베키스탄 여행객 대부분은 5GB/15일 요금제($11.99)를 선택합니다. 일상적인 내비게이션, 소셜 미디어, 메시징에 충분합니다. 더 긴 체류 또는 더 많은 사용량에는 10GB($19.99) 또는 무제한($96.99) 요금제가 좋은 옵션입니다. 모든 요금제는 몇 분 안에 활성화되며 24/7 지원을 포함합니다.
+
     - q: |
         우즈베키스탄 eSIM의 유효 기간은 언제 시작되나요?
       a: |
@@ -298,52 +299,64 @@ faq_section:
         우즈베키스탄에서 eSIM으로 WhatsApp과 FaceTime을 사용할 수 있나요?
       a: |
         네 — 모든 데이터 기반 앱은 eSIM을 통해 완벽하게 작동합니다. WhatsApp 통화는 오디오의 경우 약 1MB/분, 비디오의 경우 5-8MB/분을 사용합니다. FaceTime, Zoom, Google Maps, Instagram — 모든 것이 제한 없이 eSIM 데이터 연결을 통해 실행됩니다. Ucell의 네트워크는 화상 통화를 원활하게 처리합니다. 5GB 요금제는 약 500시간의 WhatsApp 오디오 통화 또는 10시간의 FaceTime 비디오를 제공합니다.
+    - q: |
+        Ucell 선불 SIM과 달리 우즈베키스탄 eSIM 개통에 별도 서류가 필요한가요?
+      a: |
+        Ucell 선불 SIM은 여권 등록이 필요한 경우가 많지만, Roami 우즈베키스탄 eSIM은 데이터 전용이라 신분증 업로드나 매장 방문 없이 온라인으로 즉시 개통됩니다.
+    - q: |
+        우즈베키스탄 eSIM을 Ucell 선불 요금제 대신 쓰면 비용이 얼마나 줄어드나요?
+      a: |
+        요금제와 사용량에 따라 다르지만, 매장 방문·등록·미사용 데이터 비용을 없앨 수 있어 실질 부담이 낮아집니다. 모든 요금제는 선불입니다.
+    - q: |
+        우즈베키스탄 eSIM을 충전하면 Ucell 회선도 함께 갱신되나요?
+      a: |
+        아니요. Roami 우즈베키스탄 eSIM과 Ucell 물리 회선은 별개입니다. eSIM 요금제를 추가 구매해도 Ucell 요금제에는 영향이 없습니다.
 related_products:
   title: 관련 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
+  - name: 바티칸 시국 eSIM
+    flag: img/flags/va.svg
+    price: $10.99부터
+    is_highlight: true
+  - name: 베트남 eSIM
+    flag: img/flags/vn.svg
     price: $1.99부터
     is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
+  - name: 잠비아 eSIM
+    flag: img/flags/za.svg
+    price: $11.99부터
+    is_highlight: false
+  - name: 슬로베니아 eSIM
+    flag: img/flags/sl.svg
     price: $1.99부터
     is_highlight: false
   - name: 유럽 eSIM
     flag: img/flags/eu.svg
     price: $1.99부터
-    is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+    is_highlight: false
+  - name: 아프가니스탄 eSIM
+    flag: img/flags/af.svg
+    price: $11.99부터
+    is_highlight: false
+  - name: 알바니아 eSIM
+    flag: img/flags/al.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
+  - name: 알제리 eSIM
+    flag: img/flags/dz.svg
+    price: $3.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
+  - name: 안도라 eSIM
+    flag: img/flags/ad.svg
+    price: $6.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
+  - name: 아르헨티나 eSIM
+    flag: img/flags/ar.svg
+    price: $3.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
+  - name: 아르메니아 eSIM
+    flag: img/flags/am.svg
+    price: $7.99부터
     is_highlight: false
   - name: 호주 eSIM
     flag: img/flags/au.svg

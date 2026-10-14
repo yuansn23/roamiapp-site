@@ -1,7 +1,7 @@
 ---
 title: '일본 eSIM 2026 - 도쿄 & 교토 최고의 5G 요금제 | Roami'
-date: '2026-08-18T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 일본 eSIM - 도쿄 & 교토 최고의 5G 요금제 | Roami
   description: NTT Docomo, SoftBank 및 KDDI의 5G를 지원하는 최고의 일본 선불 eSIM 요금제를 만나보세요. 신분증 불필요 — 즉시 QR 활성화, 24/7. 활성화 시간 제한 없음. $1.99부터.
-  keywords: 일본 eSIM, 일본 eSIM 구매, 최고의 일본 eSIM, 일본 여행 eSIM, NTT Docomo 일본, SoftBank 일본, KDDI 일본, 도쿄 eSIM, 오사카 eSIM, 교토 eSIM, 일본 선불 eSIM, 5G 일본 eSIM, 신칸센 eSIM, 온천 eSIM
+  keywords: 일본 eSIM, 일본 eSIM 추천, 일본 eSIM 구매, 일본 eSIM 요금제, 일본 eSIM 가격, 일본 여행 eSIM, 최고의 일본 eSIM, 일본 eSIM 무제한, 일본 eSIM 사용법, 일본 선불 eSIM, 일본 eSIM 후기, 일본 5G eSIM, NTT Docomo 일본, 도쿄 eSIM, 오사카 eSIM, 교토 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 71.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -393,63 +393,75 @@ faq_section:
         일본 eSIM에서 Roami와 Klook은 어떻게 비교되나요?
       a: |
         Roami는 일반적으로 일본 eSIM에서 더 나은 가치를 제공합니다. 직접 판매하기 때문에 마켓플레이스 마크업이 없습니다. 가격은 일반적으로 Klook보다 10-20% 저렴합니다. 또한 24/7 직접 지원을 제공합니다. 요금제는 선불이며 자동 갱신이 없으므로 여행 종료 후 청구되지 않습니다.
+    - q: |
+        NTT Docomo 선불 SIM과 달리 일본 eSIM 개통에 별도 서류가 필요한가요?
+      a: |
+        NTT Docomo 선불 SIM은 여권 등록이 필요한 경우가 많지만, Roami 일본 eSIM은 데이터 전용이라 신분증 업로드나 매장 방문 없이 온라인으로 즉시 개통됩니다.
+    - q: |
+        일본 eSIM을 NTT Docomo 선불 요금제 대신 쓰면 비용이 얼마나 줄어드나요?
+      a: |
+        요금제와 사용량에 따라 다르지만, 매장 방문·등록·미사용 데이터 비용을 없앨 수 있어 실질 부담이 낮아집니다. 모든 요금제는 선불입니다.
+    - q: |
+        일본 eSIM을 충전하면 NTT Docomo 회선도 함께 갱신되나요?
+      a: |
+        아니요. Roami 일본 eSIM과 NTT Docomo 물리 회선은 별개입니다. eSIM 요금제를 추가 구매해도 NTT Docomo 요금제에는 영향이 없습니다.
 related_products:
   title: 관련 일본 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 요르단 eSIM
+    flag: img/flags/jo.svg
+    price: $6.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 카자흐스탄 eSIM
+    flag: img/flags/kz.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 케냐 eSIM
+    flag: img/flags/ke.svg
+    price: $7.99부터
+    is_highlight: false
+  - name: 코소보 eSIM
+    flag: img/flags/xk.svg
+    price: $13.99부터
+    is_highlight: false
+  - name: 쿠웨이트 eSIM
+    flag: img/flags/kw.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 키르기스스탄 eSIM
+    flag: img/flags/kg.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 라오스 eSIM
+    flag: img/flags/la.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 라트비아 eSIM
+    flag: img/flags/lv.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 라이베리아 eSIM
+    flag: img/flags/lr.svg
+    price: $27.99부터
+    is_highlight: false
+  - name: 리히텐슈타인 eSIM
+    flag: img/flags/li.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 리투아니아 eSIM
+    flag: img/flags/lt.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 룩셈부르크 eSIM
+    flag: img/flags/lu.svg
     price: $1.99부터
     is_highlight: false
 market_analysis:
   title: '일본 eSIM vs 선불 SIM 카드: 주요 차이점 설명 – 일본 여행자를 위한 최고의 eSIM'
   subtitle: 일본 현지 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (Japan) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Japan
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

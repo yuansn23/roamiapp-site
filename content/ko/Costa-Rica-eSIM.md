@@ -1,7 +1,7 @@
 ---
 title: '코스타리카 eSIM 2026: 여행 및 네트워크 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 코스타리카 eSIM | 여행객을 위한 무제한 데이터 요금제 구매
   description: Roami의 최고 선불 여행 eSIM으로 코스타리카를 탐험하세요. 전국 무제한 5G 데이터. 즉시 활성화. 산호세, 리베리아 및 모든 지역을 커버합니다.
-  keywords: 코스타리카 eSIM, 코스타리카 eSIM 구매, 최고의 코스타리카 eSIM, 코스타리카 여행 eSIM, Liberty 코스타리카, Claro 코스타리카, ICE 코스타리카, 산호세 eSIM, 알라후엘라 eSIM, 에레디아 eSIM, 코스타리카 선불 eSIM, 5G 코스타리카 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: 코스타리카 eSIM, 코스타리카 eSIM 추천, 코스타리카 eSIM 구매, 코스타리카 eSIM 요금제, 코스타리카 eSIM 가격, 코스타리카 여행 eSIM, 최고의 코스타리카 eSIM, 코스타리카 eSIM 무제한, 코스타리카 eSIM 사용법, 코스타리카 선불 eSIM, 코스타리카 eSIM 후기, 코스타리카 5G eSIM, Liberty 코스타리카, 산호세 eSIM, 알라후엘라 eSIM, 에레디아 eSIM
+  low_price: 9.99
+  high_price: 84.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -326,7 +326,8 @@ faq_section:
     - q: |
         너무 비용 부담 없이 코스타리카에서 사용할 eSIM을 구매할 수 있나요?
       a: |
-        물론입니다. Roami의 코스타리카 eSIM 요금제는 $1.99부터 시작합니다. 여행객들 사이에서 가장 인기 있는 옵션은 5GB/15일 요금제($9.99)로, 지도, WhatsApp, 인스타그램, 이메일을 충분히 이용할 수 있습니다. 데이터를 많이 사용하시는 분이라면 10GB($14.99) 또는 무제한($59.99) 요금제가 안심을 드립니다. 공항 SIM 카드 판매대를 건너뛰면 30-50%를 절약하고 대기 시간을 피할 수 있습니다. 필요에 따라 Roami 앱에서 언제든지 데이터를 추가할 수 있습니다.
+        물론입니다. Roami의 코스타리카 eSIM 요금제는 $9.99부터 시작합니다. 여행객들 사이에서 가장 인기 있는 옵션은 5GB/15일 요금제($24.99)로, 지도, WhatsApp, 인스타그램, 이메일을 충분히 이용할 수 있습니다. 데이터를 많이 사용하시는 분이라면 10GB($34.99) 또는 무제한($84.99) 요금제가 안심을 드립니다. 공항 SIM 카드 판매대를 건너뛰면 30-50%를 절약하고 대기 시간을 피할 수 있습니다. 필요에 따라 Roami 앱에서 언제든지 데이터를 추가할 수 있습니다.
+
     - q: |
         코스타리카 여행에서 eSIM과 포켓 WiFi를 비교하면 어떤가요?
       a: |
@@ -334,7 +335,8 @@ faq_section:
     - q: |
         Roami에서 코스타리카 eSIM을 구매하면 무엇이 포함되나요?
       a: |
-        5분 이내 QR 코드 전송, Kölbi 네트워크 이용 권한, 24/7 고객 지원, 최대 5개 기기용 무료 핫스팟이 포함됩니다. 요금제는 $1.99부터 시작합니다. 약정 없음, 숨겨진 수수료 없음, 자동 갱신 없음.
+        5분 이내 QR 코드 전송, Kölbi 네트워크 이용 권한, 24/7 고객 지원, 최대 5개 기기용 무료 핫스팟이 포함됩니다. 요금제는 $9.99부터 시작합니다. 약정 없음, 숨겨진 수수료 없음, 자동 갱신 없음.
+
     - q: |
         코스타리카에서 5GB 요금제와 무제한 요금제의 차이점은 무엇인가요?
       a: |
@@ -347,63 +349,75 @@ faq_section:
         코스타리카 eSIM을 얼마나 미리 구매해야 하나요?
       a: |
         언제든지 구매하실 수 있습니다 — 탑승 게이트에서도 가능합니다. QR 코드는 몇 분 안에 도착합니다. 집에서 Wi-Fi로 설치할 수 있도록 며칠 전에 구매하는 것을 권장합니다. 요금제는 코스타리카에서 연결될 때만 활성화되므로 일찍 구매해도 요금제 일수가 낭비되지 않습니다.
+    - q: |
+        Liberty 선불 SIM과 달리 코스타리카 eSIM 개통에 별도 서류가 필요한가요?
+      a: |
+        Liberty 선불 SIM은 여권 등록이 필요한 경우가 많지만, Roami 코스타리카 eSIM은 데이터 전용이라 신분증 업로드나 매장 방문 없이 온라인으로 즉시 개통됩니다.
+    - q: |
+        코스타리카 eSIM을 Liberty 선불 요금제 대신 쓰면 비용이 얼마나 줄어드나요?
+      a: |
+        요금제와 사용량에 따라 다르지만, 매장 방문·등록·미사용 데이터 비용을 없앨 수 있어 실질 부담이 낮아집니다. 모든 요금제는 선불입니다.
+    - q: |
+        코스타리카 eSIM을 충전하면 Liberty 회선도 함께 갱신되나요?
+      a: |
+        아니요. Roami 코스타리카 eSIM과 Liberty 물리 회선은 별개입니다. eSIM 요금제를 추가 구매해도 Liberty 요금제에는 영향이 없습니다.
 related_products:
   title: 관련 코스타리카 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
+  - name: 크로아티아 eSIM
+    flag: img/flags/hr.svg
     price: $1.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 키프로스 eSIM
+    flag: img/flags/cy.svg
+    price: $2.99부터
+    is_highlight: false
+  - name: 체코 eSIM
+    flag: img/flags/cz.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 덴마크 eSIM
+    flag: img/flags/dk.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 도미니카 eSIM
+    flag: img/flags/dm.svg
+    price: $11.99부터
+    is_highlight: false
+  - name: 도미니카공화국 eSIM
+    flag: img/flags/do.svg
+    price: $5.99부터
+    is_highlight: false
+  - name: 에콰도르 eSIM
+    flag: img/flags/ec.svg
+    price: $6.99부터
+    is_highlight: false
+  - name: 이집트 eSIM
+    flag: img/flags/eg.svg
+    price: $2.99부터
+    is_highlight: false
+  - name: 엘살바도르 eSIM
+    flag: img/flags/sv.svg
+    price: $23.99부터
+    is_highlight: false
+  - name: 에스토니아 eSIM
+    flag: img/flags/ee.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
+  - name: 에스와티니 eSIM
+    flag: img/flags/sz.svg
+    price: $19.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 페로 제도 eSIM
+    flag: img/flags/fo.svg
+    price: $5.99부터
     is_highlight: false
 market_analysis:
   title: '코스타리카 eSIM vs SIM 카드 요금제: 어떤 것이 귀하의 필요에 맞을까요?'
   subtitle: 코스타리카 현지 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (코스타리카) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Costa-Rica
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

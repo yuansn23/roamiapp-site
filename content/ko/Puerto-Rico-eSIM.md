@@ -1,7 +1,7 @@
 ---
 title: '푸에르토리코 eSIM 2026: 통신사 및 커버리지 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Claro Puerto Rico, Liberty Puerto Rico, T-Mobile Puerto Rico
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: 산후안, 폰세, 마야궤스, 카과스, 캐롤라이나
-  main_packages: 3/7/15/30 일, 무제한 데이터
+  main_packages: 3/7/15/30일, 1–30GB 데이터
 modal:
   title: 서비스 업그레이드 완료!
   btn_text: 계속하기
@@ -18,10 +18,10 @@ modal:
   text_android: 당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객님께는 20% 할인 혜택이 제공되며, 프로모션 코드는 web20 입니다.
 seo:
   title: 푸에르토리코 eSIM | 여행을 위한 최고의 여행 eSIM
-  description: Roami의 최고의 선불 여행 eSIM으로 푸에르토리코를 탐험하세요. 섬 전체에서 무제한 5G 데이터를 이용하세요. 산후안, 폰세를 커버합니다. 즉시 활성화.
-  keywords: 푸에르토리코 eSIM, 푸에르토리코 eSIM 구매, 최고의 푸에르토리코 eSIM, 푸에르토리코 여행 eSIM, Claro Puerto Rico, Liberty Puerto Rico, T-Mobile Puerto Rico, 산후안 eSIM, 폰세 eSIM, 마야궤스 eSIM, 푸에르토리코 선불 eSIM, 5G 푸에르토리코 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Roami의 최고의 선불 여행 eSIM으로 푸에르토리코를 탐험하세요. 섬 전체에서 빠른 5G 데이터를 이용하세요. 산후안, 폰세를 커버합니다. 즉시 활성화.
+  keywords: 푸에르토리코 eSIM, 푸에르토리코 eSIM 추천, 푸에르토리코 eSIM 구매, 푸에르토리코 eSIM 요금제, 푸에르토리코 eSIM 가격, 푸에르토리코 여행 eSIM, 최고의 푸에르토리코 eSIM, 푸에르토리코 eSIM 데이터, 푸에르토리코 eSIM 사용법, 푸에르토리코 선불 eSIM, 푸에르토리코 eSIM 후기, 푸에르토리코 5G eSIM, Claro Puerto Rico 푸에르토리코, 산후안 eSIM, 폰세 eSIM, 마야궤스 eSIM
+  low_price: 6.99
+  high_price: 64.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -256,55 +256,67 @@ faq_section:
         여행 전에 실수로 푸에르토리코 eSIM을 삭제하면 어떻게 되나요?
       a: |
         문제없습니다. Roami 계정에 로그인하여 QR 코드를 다시 다운로드하세요 — 약 1분이 소요됩니다. 처음 받을 때 스크린샷이나 PDF로 저장해 두는 것이 좋습니다.
+    - q: |
+        Claro Puerto Rico 네트워크에서 푸에르토리코 eSIM은 어떻게 개통하나요?
+      a: |
+        Roami 푸에르토리코 eSIM은 QR 코드 스캔만으로 개통됩니다. 결제 후 5분 이내에 이메일로 QR 코드가 오고, Claro Puerto Rico 및 현지 파트너 네트워크에 자동 연결됩니다. 매장 방문이나 추가 서류가 필요 없습니다.
+    - q: |
+        푸에르토리코 eSIM 가격은 Claro Puerto Rico 선불 SIM보다 저렴한가요?
+      a: |
+        대체로 그렇습니다. Roami 푸에르토리코 eSIM은 마켓플레이스 수수료 없이 직접 판매하므로 Claro Puerto Rico 선불 요금제보다 낮은 경우가 많고, 숨겨진 수수료가 없습니다.
+    - q: |
+        푸에르토리코에서 데이터가 부족하면 Claro Puerto Rico 대신 어떻게 충전하나요?
+      a: |
+        같은 계정에서 더 큰 요금제를 추가 구매할 수 있습니다. Claro Puerto Rico 매장을 방문하거나 충전권을 살 필요 없이 온라인으로 즉시 처리됩니다.
 related_products:
   title: 관련 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
+  - name: 카타르 eSIM
+    flag: img/flags/qa.svg
     price: $1.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 레위니옹 eSIM
+    flag: img/flags/re.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 루마니아 eSIM
+    flag: img/flags/ro.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 러시아 eSIM
+    flag: img/flags/ru.svg
+    price: $2.99부터
+    is_highlight: false
+  - name: 사우디아라비아 eSIM
+    flag: img/flags/sa.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 세네갈 eSIM
+    flag: img/flags/se.svg
+    price: $12.99부터
+    is_highlight: false
+  - name: 세이셸 eSIM
+    flag: img/flags/sc.svg
+    price: $9.99부터
+    is_highlight: false
+  - name: 시에라리온 eSIM
+    flag: img/flags/si.svg
+    price: $10.99부터
+    is_highlight: false
+  - name: 싱가포르 eSIM
+    flag: img/flags/sg.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
+  - name: 슬로바키아 eSIM
+    flag: img/flags/sl.svg
     price: $1.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
+  - name: 남아프리카 eSIM
+    flag: img/flags/za.svg
+    price: $3.99부터
     is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 한국 eSIM
+    flag: img/flags/kr.svg
     price: $1.99부터
     is_highlight: false
 ---

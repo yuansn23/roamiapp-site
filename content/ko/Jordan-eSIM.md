@@ -1,7 +1,7 @@
 ---
 title: '요르단 eSIM 2026: 완벽한 여행 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: '당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객께서는 20% 할인을 받으실 수 있습니다. 프로모션 코드: web20'
 seo:
   title: '요르단 5G eSIM: 즉시 활성화, 무제한 데이터'
-  description: 암만, 자르카, 이르비드에서 빠른 5G를 제공하는 요르단 eSIM 요금제를 비교하세요. 관광객 및 여행자를 위한 Orange Jordan, Zain Jordan, Umniah 커버리지 가이드. $1.99부터 즉시 QR 활성화.
-  keywords: 요르단 eSIM, 요르단 eSIM 구매, 최고의 요르단 eSIM, 요르단 여행 eSIM, Orange Jordan 요르단, Zain Jordan 요르단, Umniah 요르단, 암만 eSIM, 자르카 eSIM, 이르비드 eSIM, 요르단 선불 eSIM, 5G 요르단 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: 암만, 자르카, 이르비드에서 빠른 5G를 제공하는 요르단 eSIM 요금제를 비교하세요. 관광객 및 여행자를 위한 Orange Jordan, Zain Jordan, Umniah 커버리지 가이드. $6.99부터 즉시 QR 활성화.
+  keywords: 요르단 eSIM, 요르단 eSIM 추천, 요르단 eSIM 구매, 요르단 eSIM 요금제, 요르단 eSIM 가격, 요르단 여행 eSIM, 최고의 요르단 eSIM, 요르단 eSIM 무제한, 요르단 eSIM 사용법, 요르단 선불 eSIM, 요르단 eSIM 후기, 요르단 5G eSIM, Orange Jordan 요르단, 암만 eSIM, 자르카 eSIM, 이르비드 eSIM
+  low_price: 6.99
+  high_price: 99.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -302,7 +302,8 @@ faq_section:
     - q: |
         요르단 방문 시 eSIM에 얼마를 예산해야 하나요?
       a: |
-        Roami는 7일 라이트 요금제 $1.99부터 30일 무제한 데이터 $59.99까지 요르단 eSIM을 제공합니다. 대부분의 방문객은 $9.99의 5GB/15일 요금제를 선택합니다 — 일일 내비게이션, 소셜 미디어 및 메시징을 스트레스 없이 커버합니다. 스트리밍 애호가나 소셜 미디어를 많이 사용하는 분들은 10GB 또는 무제한을 고려해야 합니다. Zain은 요르단 전역에서 안정적인 속도를 제공합니다. Roami 요금제는 선불입니다 — 예상치 못한 청구서, 자동 갱신 없이 간단한 가격 책정입니다.
+        Roami는 7일 라이트 요금제 $6.99부터 3일 무제한 데이터 $52.99까지 요르단 eSIM을 제공합니다. 대부분의 방문객은 $37.99의 5GB/15일 요금제를 선택합니다 — 일일 내비게이션, 소셜 미디어 및 메시징을 스트레스 없이 커버합니다. 스트리밍 애호가나 소셜 미디어를 많이 사용하는 분들은 10GB 또는 무제한을 고려해야 합니다. Zain은 요르단 전역에서 안정적인 속도를 제공합니다. Roami 요금제는 선불입니다 — 예상치 못한 청구서, 자동 갱신 없이 간단한 가격 책정입니다.
+
     - q: |
         요르단 eSIM을 소셜 미디어 및 가족과 사진 공유에 사용할 수 있나요?
       a: |
@@ -310,7 +311,8 @@ faq_section:
     - q: |
         요르단에서 이틀 정도만 인터넷에 접속해야 합니다. 최소 구매 가능 용량은 어떻게 되나요?
       a: |
-        가장 저렴한 요금제는 7일 1GB에 $1.99입니다 — 가벼운 사용으로 짧은 주말 여행에 완벽합니다. 더 필요한 경우 앱에서 언제든지 충전할 수 있습니다.
+        가장 저렴한 요금제는 7일 1GB에 $6.99입니다 — 가벼운 사용으로 짧은 주말 여행에 완벽합니다. 더 필요한 경우 앱에서 언제든지 충전할 수 있습니다.
+
     - q: |
         요르단의 5GB 요금제와 무제한 요금제의 차이점은 무엇인가요?
       a: |
@@ -323,63 +325,75 @@ faq_section:
         요르단에서 eSIM으로 Google Maps 같은 내비게이션 앱을 사용할 수 있나요?
       a: |
         네 — Google Maps는 실시간 교통 정보와 함께 내비게이션에 시간당 약 5MB를 사용합니다. 백업으로 출발 전에 요르단의 오프라인 지도(도시당 약 200-500MB)를 다운로드하세요.
+    - q: |
+        요르단 eSIM을 설치한 뒤 Orange Jordan 번호는 어떻게 되나요?
+      a: |
+        Orange Jordan 번호는 그대로 유지됩니다. Roami 요르단 eSIM은 데이터 전용 회선이므로, 기존 번호로 전화·문자를 받으면서 데이터는 eSIM으로 사용할 수 있습니다.
+    - q: |
+        장기 체류 시 Orange Jordan 대비 요르단 eSIM 비용은 어떻게 되나요?
+      a: |
+        장기 체류에는 더 긴 유효 기간의 요금제를 선택할 수 있습니다. Orange Jordan 장기 요금제와 비교해도 약정 없이 필요한 기간만 구매할 수 있다는 점이 장점입니다.
+    - q: |
+        요르단 여행 중 Orange Jordan 회선은 유지한 채 eSIM 데이터 요금제를 바꿀 수 있나요?
+      a: |
+        가능합니다. 사용 중에도 더 큰 요금제를 구매해 즉시 적용할 수 있습니다. Orange Jordan 매장을 찾을 필요 없이 온라인으로 처리됩니다.
 related_products:
   title: 관련 요르단 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 카자흐스탄 eSIM
+    flag: img/flags/kz.svg
+    price: $3.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 케냐 eSIM
+    flag: img/flags/ke.svg
+    price: $7.99부터
+    is_highlight: false
+  - name: 코소보 eSIM
+    flag: img/flags/xk.svg
+    price: $13.99부터
+    is_highlight: false
+  - name: 쿠웨이트 eSIM
+    flag: img/flags/kw.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 키르기스스탄 eSIM
+    flag: img/flags/kg.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 라오스 eSIM
+    flag: img/flags/la.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 라트비아 eSIM
+    flag: img/flags/lv.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 라이베리아 eSIM
+    flag: img/flags/lr.svg
+    price: $27.99부터
+    is_highlight: false
+  - name: 리히텐슈타인 eSIM
+    flag: img/flags/li.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 리투아니아 eSIM
+    flag: img/flags/lt.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
+  - name: 룩셈부르크 eSIM
+    flag: img/flags/lu.svg
     price: $1.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 마카오 eSIM
+    flag: img/flags/ma.svg
     price: $1.99부터
     is_highlight: false
 market_analysis:
   title: '요르단 eSIM vs 현지 선불 SIM: 어떤 것이 더 편리할까요?'
   subtitle: 요르단 현지 선불 SIM vs eSIM 솔루션 (2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (요르단) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Jordan
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

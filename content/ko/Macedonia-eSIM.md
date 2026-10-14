@@ -1,7 +1,7 @@
 ---
 title: '북마케도니아 eSIM 2026: 도시 및 네트워크 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,18 +10,18 @@ country_meta:
   operators: A1 Macedonia, Telekom Macedonia, Lycamobile
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: 스코페, 오흐리드, 비톨라, 테토보, 쿠마노보
-  main_packages: 3/7/15/30 일, 무제한 데이터
+  main_packages: 3/7/15/30일, 무제한 데이터
 modal:
   title: 서비스 업그레이드 완료!
   btn_text: 계속하기
   text_default: 당사의 eSIM 서비스가 <strong>PhoneSIMGo</strong>로 업그레이드되었습니다.<br>신규 고객님께는 20% 할인 혜택이 제공되며, 프로모션 코드는 web20 입니다.
   text_android: 당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객님께는 20% 할인 혜택이 제공되며, 프로모션 코드는 web20 입니다.
 seo:
-  title: '북마케도니아 eSIM $1.99부터: 무제한 5G 커버리지'
-  description: 스코페, 오흐리드, 비톨라에서 빠른 5G를 제공하는 북마케도니아 eSIM 요금제를 비교하세요. 관광객 및 여행자를 위한 A1 Macedonia, Telekom Macedonia, Lycamobile 커버리지 가이드. $1.99부터 즉시 QR 활성화.
-  keywords: 북마케도니아 eSIM, 북마케도니아 eSIM 구매, 최고의 북마케도니아 eSIM, 북마케도니아 여행 eSIM, A1 Macedonia, Telekom Macedonia, Lycamobile, 스코페 eSIM, 오흐리드 eSIM, 비톨라 eSIM, 북마케도니아 선불 eSIM, 5G 북마케도니아 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: '북마케도니아 eSIM $4.99부터: 무제한 5G 커버리지'
+  description: 스코페, 오흐리드, 비톨라에서 빠른 5G를 제공하는 북마케도니아 eSIM 요금제를 비교하세요. 관광객 및 여행자를 위한 A1 Macedonia, Telekom Macedonia, Lycamobile 커버리지 가이드. $4.99부터 즉시 QR 활성화.
+  keywords: 북마케도니아 eSIM, 북마케도니아 eSIM 추천, 북마케도니아 eSIM 구매, 북마케도니아 eSIM 요금제, 북마케도니아 eSIM 가격, 북마케도니아 여행 eSIM, 최고의 북마케도니아 eSIM, 북마케도니아 eSIM 무제한, 북마케도니아 eSIM 사용법, 북마케도니아 선불 eSIM, 북마케도니아 eSIM 후기, 북마케도니아 5G eSIM, A1 Macedonia 북마케도니아, 스코페 eSIM, 오흐리드 eSIM, 비톨라 eSIM
+  low_price: 4.99
+  high_price: 94.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -235,7 +235,8 @@ faq_section:
     - q: |
         Roami에서 북마케도니아 eSIM을 구매하면 무엇이 포함되나요?
       a: |
-        5분 이내 QR 코드 전송, Makedonski Telekom 네트워크 접속, 24/7 고객 지원, 최대 5개 기기용 무료 핫스팟이 포함됩니다. 요금제는 $1.99부터 시작합니다. 계약 없음, 숨은 수수료 없음, 자동 갱신 없음.
+        5분 이내 QR 코드 전송, Makedonski Telekom 네트워크 접속, 24/7 고객 지원, 최대 5개 기기용 무료 핫스팟이 포함됩니다. 요금제는 $4.99부터 시작합니다. 계약 없음, 숨은 수수료 없음, 자동 갱신 없음.
+
     - q: |
         공항 SIM 키오스크를 이용하지 않고 북마케도니아에서 연결 상태를 유지하는 가장 쉬운 방법은 무엇인가요?
       a: |
@@ -256,55 +257,67 @@ faq_section:
         요금제가 만료되기 전에 북마케도니아에서 모든 데이터를 사용하면 어떻게 되나요?
       a: |
         Roami 앱에서 추가 충전하세요. 새 데이터가 즉시 활성화됩니다 — 새 QR 코드 없음, 재설치 없음. 중단을 피하기 위해 약 20% 남았을 때 추가 충전하는 것을 권장합니다.
+    - q: |
+        안드로이드에서 A1 Macedonia 북마케도니아 eSIM을 설정하는 방법은 무엇인가요?
+      a: |
+        설정 > 네트워크 및 인터넷 > SIM > 'eSIM 다운로드'에서 QR 코드를 스캔합니다. A1 Macedonia 물리 SIM과 함께 쓰려면 데이터 회선을 Roami로 지정하세요.
+    - q: |
+        북마케도니아 eSIM 가격에 숨겨진 수수료가 있나요? A1 Macedonia과 비교해 주세요.
+      a: |
+        없습니다. 표시된 가격 외에 활성화 수수료나 로밍 추가 요금이 붙지 않습니다. A1 Macedonia 선불 SIM은 등록비나 최소 충전 조건이 붙는 경우가 있습니다.
+    - q: |
+        A1 Macedonia 네트워크 속도로 북마케도니아 eSIM 데이터를 다 쓰면 느려지나요?
+      a: |
+        Roami 북마케도니아 eSIM은 정해진 데이터 한도까지 고속으로 사용하고, 한도를 모두 쓰면 추가 구매 전까지 연결이 멈춥니다. 요금이 갑자기 오르지 않습니다.
 related_products:
   title: 관련 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 마다가스카르 eSIM
+    flag: img/flags/mg.svg
+    price: $11.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 말라위 eSIM
+    flag: img/flags/mw.svg
+    price: $14.99부터
+    is_highlight: false
+  - name: 말레이시아 eSIM
+    flag: img/flags/my.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 몰디브 eSIM
+    flag: img/flags/mv.svg
+    price: $14.99부터
+    is_highlight: false
+  - name: 말리 eSIM
+    flag: img/flags/ml.svg
+    price: $27.99부터
+    is_highlight: false
+  - name: 몰타 eSIM
+    flag: img/flags/mt.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 모리셔스 eSIM
+    flag: img/flags/ma.svg
+    price: $7.99부터
+    is_highlight: false
+  - name: 멕시코 eSIM
+    flag: img/flags/mx.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 몰도바 eSIM
+    flag: img/flags/mo.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
+  - name: 네팔 eSIM
+    flag: img/flags/ne.svg
+    price: $10.99부터
+    is_highlight: false
+  - name: 네덜란드 eSIM
+    flag: img/flags/nl.svg
     price: $1.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 뉴질랜드 eSIM
+    flag: img/flags/nz.svg
+    price: $3.99부터
     is_highlight: false
 ---

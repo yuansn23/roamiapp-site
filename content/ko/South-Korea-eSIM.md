@@ -1,7 +1,7 @@
 ---
 title: '한국 eSIM - 서울 & 부산 최고 속도 5G | Roami'
-date: '2026-08-18T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 한국 eSIM - 서울 & 부산 5G | 대기열 건너뛰기
   description: SK텔레콤, KT 및 LG U+의 세계에서 가장 빠른 5G를 지원하는 최고의 한국 eSIM 요금제를 만나보세요. 공항 대기열 없음 — 즉시 QR 활성화. $1.99부터. 서울, 부산 및 제주에 완벽.
-  keywords: 한국 eSIM, 한국 eSIM 구매, 최고의 한국 eSIM, 한국 여행 eSIM, SK텔레콤 한국, KT 한국, LG U+ 한국, 서울 eSIM, 부산 eSIM, 인천 eSIM, 한국 선불 eSIM, 5G 한국 eSIM, 가장 빠른 5G 한국, K-팝 콘서트 eSIM
+  keywords: 한국 eSIM, 한국 eSIM 추천, 한국 eSIM 구매, 한국 eSIM 요금제, 한국 eSIM 가격, 한국 여행 eSIM, 최고의 한국 eSIM, 한국 eSIM 무제한, 한국 eSIM 사용법, 한국 선불 eSIM, 한국 eSIM 후기, 한국 5G eSIM, SK텔레콤 한국, 서울 eSIM, 부산 eSIM, 인천 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 61.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -389,63 +389,75 @@ faq_section:
         한국 eSIM의 유효 기간은 언제 시작되나요?
       a: |
         요금제 유효 기간은 구매 또는 설치 시가 아닌 한국 현지 네트워크에 연결될 때 시작됩니다. 따라서 여행 몇 주 전에 구매 및 설치해도 요금제 사용 일수를 잃지 않습니다. 7일 요금제는 최초 연결 시점부터 7일간의 완전한 사용이 가능합니다.
+    - q: |
+        한국에서 SK텔레콤 커버리지가 약한 지역에서도 eSIM이 작동하나요?
+      a: |
+        Roami 한국 eSIM은 여러 현지 사업자에 자동 연결되므로, SK텔레콤 신호가 약한 지역에서도 더 강한 네트워크로 전환되어 연결을 유지합니다.
+    - q: |
+        SK텔레콤 데이터 요금과 한국 eSIM 요금 중 어느 쪽이 더 저렴한가요?
+      a: |
+        단기 여행이라면 대개 Roami 한국 eSIM이 유리합니다. SK텔레콤 요금제는 장기 약정이나 최소 사용 조건이 있는 반면, Roami는 필요한 기간만큼만 구매할 수 있습니다.
+    - q: |
+        한국에서 핫스팟으로 SK텔레콤 기기와 데이터를 공유할 수 있나요?
+      a: |
+        네. 핫스팟 공유가 지원되어 노트북이나 태블릿 등 다른 기기에서도 한국 eSIM 데이터를 사용할 수 있습니다.
 related_products:
   title: 관련 한국 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
+  - name: 동남아시아 eSIM
+    flag: img/flags/ya.webp
     price: $1.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 스페인 eSIM
+    flag: img/flags/es.svg
     price: $1.99부터
+    is_highlight: false
+  - name: 스웨덴 eSIM
+    flag: img/flags/se.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 스위스 eSIM
+    flag: img/flags/ch.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 대만 eSIM
+    flag: img/flags/tw.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 타지키스탄 eSIM
+    flag: img/flags/tj.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 탄자니아 eSIM
+    flag: img/flags/tz.svg
+    price: $7.99부터
+    is_highlight: false
+  - name: 태국 eSIM
+    flag: img/flags/th.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 튀니지 eSIM
+    flag: img/flags/tn.svg
+    price: $3.99부터
     is_highlight: false
   - name: 터키 eSIM
     flag: img/flags/tr.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
+  - name: 우간다 eSIM
+    flag: img/flags/ug.svg
+    price: $7.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 우크라이나 eSIM
+    flag: img/flags/ua.svg
     price: $1.99부터
     is_highlight: false
 market_analysis:
   title: '한국 eSIM vs 현지 선불 SIM: 여행객에게 어느 것이 더 좋을까요?'
   subtitle: 한국 현지 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (South Korea) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/South_Korea
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)
@@ -474,7 +486,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 선불 요금제는 30일 고정 주기입니다. 30일 ₩30,000 요금제를 구매한 5일 여행객은 가치의 ~80%를 낭비합니다.
     esim_title: 유연한 단기 요금제
-    esim_desc: Roami는 3/7/15/30일 요금제를 제공합니다. 5일 여행은 $1.99만큼 저렴합니다 — 30일 최소 요금제 없음, 낭비되는 데이터 없음.
+    esim_desc: Roami는 3/7/15/30일 요금제를 제공합니다. 5일 여행은 $37.99만큼 저렴합니다 — 30일 최소 요금제 없음, 낭비되는 데이터 없음.
   - icon: wifi
     title: 핫스팟 및<br>속도 정책
     prepaid_title: ''

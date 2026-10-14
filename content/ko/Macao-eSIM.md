@@ -1,7 +1,7 @@
 ---
 title: '마카오 eSIM 2026: 5G 및 데이터 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: '마카오 eSIM: 5G 고속 무제한 데이터 요금제'
   description: 마카오 반도, 타이파, 콜로안에서 빠른 5G를 제공하는 마카오 eSIM 요금제를 비교하세요. 관광객 및 여행자를 위한 CTM, 3 Macau, SmarTone 커버리지 가이드. $1.99부터 즉시 QR 활성화.
-  keywords: 마카오 eSIM, 마카오 eSIM 구매, 최고의 마카오 eSIM, 마카오 여행 eSIM, CTM 마카오, 3 Macau 마카오, SmarTone 마카오, 마카오 반도 eSIM, 타이파 eSIM, 콜로안 eSIM, 마카오 선불 eSIM, 5G 마카오 eSIM
+  keywords: 마카오 eSIM, 마카오 eSIM 추천, 마카오 eSIM 구매, 마카오 eSIM 요금제, 마카오 eSIM 가격, 마카오 여행 eSIM, 최고의 마카오 eSIM, 마카오 eSIM 무제한, 마카오 eSIM 사용법, 마카오 선불 eSIM, 마카오 eSIM 후기, 마카오 5G eSIM, CTM 마카오, 마카오 반도 eSIM, 타이파 eSIM, 콜로안 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 64.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -387,55 +387,67 @@ faq_section:
         마카오 eSIM을 소셜 미디어 및 가족과 사진 공유에 사용할 수 있나요?
       a: |
         물론입니다. Instagram, WhatsApp, Facebook 및 기타 소셜 앱은 모두 eSIM 연결을 통해 작동합니다. CTM의 업로드 속도는 사진을 몇 초 만에 처리하고 짧은 비디오도 쉽게 처리합니다.
+    - q: |
+        아이폰에서 CTM 마카오 eSIM을 추가하는 방법은 무엇인가요?
+      a: |
+        설정 > 셀룰러(또는 모바일 데이터) > 'eSIM 추가'를 선택하고 이메일로 받은 QR 코드를 스캔하면 됩니다. CTM 회선은 그대로 유지됩니다.
+    - q: |
+        예산 여행자에게 CTM 대비 마카오 eSIM이 유리한 이유는 무엇인가요?
+      a: |
+        선불이고 자동 갱신이 없어 여행이 끝나면 추가 청구가 없습니다. 또한 CTM 매장을 찾을 필요 없이 온라인으로 구매·개통할 수 있어 시간과 비용을 아낍니다.
+    - q: |
+        CTM 요금제와 별개로 마카오 eSIM 데이터 한도를 초과하면 어떻게 되나요?
+      a: |
+        데이터를 모두 사용하면 회선이 정지되며, 자동으로 추가 청구되지 않습니다. 필요하면 같은 계정에서 새 요금제를 구매해 이어서 사용할 수 있습니다.
 related_products:
   title: 관련 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 북마케도니아 eSIM
+    flag: img/flags/ma.svg
+    price: $4.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 마다가스카르 eSIM
+    flag: img/flags/mg.svg
+    price: $11.99부터
+    is_highlight: false
+  - name: 말라위 eSIM
+    flag: img/flags/mw.svg
+    price: $14.99부터
+    is_highlight: false
+  - name: 말레이시아 eSIM
+    flag: img/flags/my.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 몰디브 eSIM
+    flag: img/flags/mv.svg
+    price: $14.99부터
+    is_highlight: false
+  - name: 말리 eSIM
+    flag: img/flags/ml.svg
+    price: $27.99부터
+    is_highlight: false
+  - name: 몰타 eSIM
+    flag: img/flags/mt.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 멕시코 eSIM
+    flag: img/flags/mx.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 몰도바 eSIM
+    flag: img/flags/mo.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
+  - name: 네팔 eSIM
+    flag: img/flags/ne.svg
+    price: $10.99부터
+    is_highlight: false
+  - name: 네덜란드 eSIM
+    flag: img/flags/nl.svg
     price: $1.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 뉴질랜드 eSIM
+    flag: img/flags/nz.svg
+    price: $3.99부터
     is_highlight: false
 ---

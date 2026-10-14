@@ -1,7 +1,7 @@
 ---
 title: '그레나다 eSIM 2026: 5G 및 데이터 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 그레나다 eSIM | 최고의 여행 데이터 요금제
   description: Roami의 최고의 선불 여행 eSIM으로 그레나다를 탐험하세요. 섬 전체에서 무제한 5G 데이터. 세인트조지스, 그렌빌을 커버합니다. 즉시 활성화.
-  keywords: 그레나다 eSIM, 그레나다 eSIM 구매, 최고의 그레나다 eSIM, 그레나다 여행 eSIM, Flow 그레나다, Digicel 그레나다, Dawn Mobile 그레나다, 세인트조지스 eSIM, 그렌빌 eSIM, 구야브 eSIM, 그레나다 선불 eSIM, 5G 그레나다 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: 그레나다 eSIM, 그레나다 eSIM 추천, 그레나다 eSIM 구매, 그레나다 eSIM 요금제, 그레나다 eSIM 가격, 그레나다 여행 eSIM, 최고의 그레나다 eSIM, 그레나다 eSIM 무제한, 그레나다 eSIM 사용법, 그레나다 선불 eSIM, 그레나다 eSIM 후기, 그레나다 5G eSIM, Flow 그레나다, 세인트조지스 eSIM, 그렌빌 eSIM, 구야브 eSIM
+  low_price: 11.99
+  high_price: 67.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -230,64 +230,77 @@ faq_section:
     - q: |
         그레나다로 여행하는 여행객에게 가장 인기 있는 eSIM 선택은 무엇인가요?
       a: |
-        그레나다로 여행하는 대부분의 여행객은 5GB/15일 요금제($9.99)를 선택합니다. 일일 내비게이션, 소셜 미디어 및 메시징에 충분합니다. 더 긴 체류나 더 많은 사용을 위해서는 10GB($14.99) 또는 무제한($59.99) 요금제가 좋은 옵션입니다. 모든 요금제는 몇 분 안에 활성화되며 24시간 지원이 포함됩니다.
+        그레나다로 여행하는 대부분의 여행객은 5GB/15일 요금제($38.99)를 선택합니다. 일일 내비게이션, 소셜 미디어 및 메시징에 충분합니다. 더 긴 체류나 더 많은 사용을 위해서는 10GB($67.99) 또는 무제한($52.99) 요금제가 좋은 옵션입니다. 모든 요금제는 몇 분 안에 활성화되며 24시간 지원이 포함됩니다.
+
+    - q: |
+        그레나다에서 Flow 커버리지가 약한 지역에서도 eSIM이 작동하나요?
+      a: |
+        Roami 그레나다 eSIM은 여러 현지 사업자에 자동 연결되므로, Flow 신호가 약한 지역에서도 더 강한 네트워크로 전환되어 연결을 유지합니다.
+    - q: |
+        Flow 데이터 요금과 그레나다 eSIM 요금 중 어느 쪽이 더 저렴한가요?
+      a: |
+        단기 여행이라면 대개 Roami 그레나다 eSIM이 유리합니다. Flow 요금제는 장기 약정이나 최소 사용 조건이 있는 반면, Roami는 필요한 기간만큼만 구매할 수 있습니다.
+    - q: |
+        그레나다에서 핫스팟으로 Flow 기기와 데이터를 공유할 수 있나요?
+      a: |
+        네. 핫스팟 공유가 지원되어 노트북이나 태블릿 등 다른 기기에서도 그레나다 eSIM 데이터를 사용할 수 있습니다.
 related_products:
   title: 관련 그레나다 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 과들루프 eSIM
+    flag: img/flags/gp.svg
+    price: $8.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
-    price: $1.99부터
+  - name: 괌 eSIM
+    flag: img/flags/gu.svg
+    price: $9.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
+  - name: 과테말라 eSIM
+    flag: img/flags/gt.svg
+    price: $11.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
+  - name: 가이아나 eSIM
+    flag: img/flags/gy.svg
+    price: $9.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
+  - name: 온두라스 eSIM
+    flag: img/flags/hn.svg
+    price: $6.99부터
     is_highlight: false
   - name: 홍콩 eSIM
     flag: img/flags/hk.svg
     price: $1.99부터
     is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
+  - name: 헝가리 eSIM
+    flag: img/flags/hu.svg
     price: $1.99부터
     is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
+  - name: 아이슬란드 eSIM
+    flag: img/flags/is.svg
     price: $1.99부터
     is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
+  - name: 인도 eSIM
+    flag: img/flags/in.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 인도네시아 eSIM
+    flag: img/flags/id.svg
     price: $1.99부터
     is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 이라크 eSIM
+    flag: img/flags/iq.svg
+    price: $9.99부터
+    is_highlight: false
+  - name: 아일랜드 eSIM
+    flag: img/flags/ie.svg
     price: $1.99부터
     is_highlight: false
 market_analysis:
   title: '그레나다 eSIM 또는 SIM 카드: 2026년 최선의 선택은?'
   subtitle: 그레나다 현지 선불 SIM 대 eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (그레나다) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Grenada
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

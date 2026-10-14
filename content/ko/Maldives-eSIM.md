@@ -1,7 +1,7 @@
 ---
 title: '몰디브 eSIM 2026: 연결 및 속도 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Dhiraagu, Ooredoo, Focus Infocom
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: 말레, 아두시티, 푸바물라, 히타두, 쿨후두푸시
-  main_packages: 3/7/15/30일, 무제한 데이터
+  main_packages: 3/7/15/30일, 1–30GB 데이터
 modal:
   title: 서비스 업그레이드 완료!
   btn_text: 계속하기
@@ -18,10 +18,10 @@ modal:
   text_android: '당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객은 20% 할인을 받으세요. 프로모션 코드: web20'
 seo:
   title: 몰디브 eSIM | 여행객을 위한 최고의 선불 eSIM
-  description: Roami의 최고의 선불 여행 eSIM으로 몰디브로 떠나세요. 환초 전역에서 무제한 5G 데이터를 이용하세요. 즉시 QR 활성화됩니다. 말레 및 모든 리조트 섬을 커버합니다.
-  keywords: 몰디브 eSIM, 몰디브 eSIM 구매, 최고의 몰디브 eSIM, 몰디브 여행 eSIM, Dhiraagu 몰디브, Ooredoo 몰디브, Focus Infocom 몰디브, 말레 eSIM, 아두시티 eSIM, 푸바물라 eSIM, 몰디브 선불 eSIM, 5G 몰디브 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Roami의 최고의 선불 여행 eSIM으로 몰디브로 떠나세요. 환초 전역에서 빠른 5G 데이터를 이용하세요. 즉시 QR 활성화됩니다. 말레 및 모든 리조트 섬을 커버합니다.
+  keywords: 몰디브 eSIM, 몰디브 eSIM 추천, 몰디브 eSIM 구매, 몰디브 eSIM 요금제, 몰디브 eSIM 가격, 몰디브 여행 eSIM, 최고의 몰디브 eSIM, 몰디브 eSIM 데이터, 몰디브 eSIM 사용법, 몰디브 선불 eSIM, 몰디브 eSIM 후기, 몰디브 5G eSIM, Dhiraagu 몰디브, 말레 eSIM, 아두시티 eSIM, 푸바물라 eSIM
+  low_price: 14.99
+  high_price: 165.99
 order_summary:
   title: 선택한 요금제
   label_data: 데이터 용량
@@ -227,7 +227,8 @@ faq_section:
     - q: |
         비용을 많이 들이지 않고 몰디브용 eSIM을 구할 수 있나요?
       a: |
-        물론입니다. Roami의 몰디브 eSIM 요금제는 $1.99부터 시작합니다. 5GB/15일 옵션($9.99)은 여행객들에게 가장 인기가 많습니다 - 지도, WhatsApp, Instagram, 이메일을 편안하게 처리합니다. 데이터를 많이 사용하는 사용자라면 10GB($14.99) 또는 무제한($59.99) 요금제가 안심을 줍니다. 공항 SIM 카운터를 건너뛰면 30-50%를 절약하고 대기하는 번거로움을 피할 수 있습니다. 조정이 필요하신가요? Roami 앱에서 언제든지 추가 충전할 수 있습니다.
+        물론입니다. Roami의 몰디브 eSIM 요금제는 $14.99부터 시작합니다. 5GB/15일 옵션($64.99)은 여행객들에게 가장 인기가 많습니다 - 지도, WhatsApp, Instagram, 이메일을 편안하게 처리합니다. 데이터를 많이 사용하는 사용자라면 10GB($99.99) 또는 30GB($87.99) 요금제가 안심을 줍니다. 공항 SIM 카운터를 건너뛰면 30-50%를 절약하고 대기하는 번거로움을 피할 수 있습니다. 조정이 필요하신가요? Roami 앱에서 언제든지 추가 충전할 수 있습니다.
+
     - q: |
         몰디브 eSIM 등록을 위해 여권을 업로드해도 안전한가요? 개인정보 보호가 걱정됩니다.
       a: |
@@ -248,63 +249,75 @@ faq_section:
         요금제가 만료되기 전에 몰디브에서 데이터를 모두 사용하면 어떻게 되나요?
       a: |
         Roami 앱에서 데이터를 추가 충전하세요. 새 데이터는 즉시 활성화되며 새 QR 코드나 재설치가 필요하지 않습니다. 중단을 방지하기 위해 약 20% 남았을 때 충전하는 것이 좋습니다.
+    - q: |
+        Dhiraagu 네트워크에서 몰디브 eSIM은 어떻게 개통하나요?
+      a: |
+        Roami 몰디브 eSIM은 QR 코드 스캔만으로 개통됩니다. 결제 후 5분 이내에 이메일로 QR 코드가 오고, Dhiraagu 및 현지 파트너 네트워크에 자동 연결됩니다. 매장 방문이나 추가 서류가 필요 없습니다.
+    - q: |
+        몰디브 eSIM 가격은 Dhiraagu 선불 SIM보다 저렴한가요?
+      a: |
+        대체로 그렇습니다. Roami 몰디브 eSIM은 마켓플레이스 수수료 없이 직접 판매하므로 Dhiraagu 선불 요금제보다 낮은 경우가 많고, 숨겨진 수수료가 없습니다.
+    - q: |
+        몰디브에서 데이터가 부족하면 Dhiraagu 대신 어떻게 충전하나요?
+      a: |
+        같은 계정에서 더 큰 요금제를 추가 구매할 수 있습니다. Dhiraagu 매장을 방문하거나 충전권을 살 필요 없이 온라인으로 즉시 처리됩니다.
 related_products:
   title: 관련 몰디브 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 말리 eSIM
+    flag: img/flags/ml.svg
+    price: $27.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 몰타 eSIM
+    flag: img/flags/mt.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 모리셔스 eSIM
+    flag: img/flags/ma.svg
+    price: $7.99부터
+    is_highlight: false
+  - name: 멕시코 eSIM
+    flag: img/flags/mx.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 몰도바 eSIM
+    flag: img/flags/mo.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 네팔 eSIM
+    flag: img/flags/ne.svg
+    price: $10.99부터
+    is_highlight: false
+  - name: 네덜란드 eSIM
+    flag: img/flags/nl.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
+  - name: 뉴질랜드 eSIM
+    flag: img/flags/nz.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 니제르 eSIM
+    flag: img/flags/ni.svg
+    price: $23.99부터
+    is_highlight: false
+  - name: 나이지리아 eSIM
+    flag: img/flags/ng.svg
+    price: $5.99부터
+    is_highlight: false
+  - name: 노르웨이 eSIM
+    flag: img/flags/no.svg
     price: $1.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 오만 eSIM
+    flag: img/flags/om.svg
+    price: $5.99부터
     is_highlight: false
 market_analysis:
   title: '몰디브 eSIM vs 선불 SIM: 어떤 것이 더 나은 가치를 제공할까요?'
   subtitle: 몰디브 현지 선불 SIM vs. eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (몰디브) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Maldives
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 항목
   - 현지 선불 SIM (시장 데이터)
@@ -327,7 +340,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 물리적 SIM은 단일 국가 현지 네트워크입니다. 몰디브를 떠나는 즉시 무효화됩니다. 두 네트워크 간 자동 로밍이 없습니다.
     esim_title: 다국적 로밍
-    esim_desc: 물리적 SIM은 몰디브 외부에서 작동하지 않습니다. Roami eSIM은 스리랑카, 두바이 및 기타 경유국에서 작동하며 7일 300MB에 $3.99부터 시작하는 요금제를 제공합니다.
+    esim_desc: 물리적 SIM은 몰디브 외부에서 작동하지 않습니다. Roami eSIM은 스리랑카, 두바이 및 기타 경유국에서 작동하며 7일 300MB에 $14.99부터 시작하는 요금제를 제공합니다.
   - icon: calendar-xmark
     title: 결제 주기 및<br>비용 낭비
     prepaid_title: ''
@@ -364,7 +377,7 @@ market_analysis:
       icon_bg: bg-rose-100
       icon_color: text-rose-600
       title: 추가 비용 없는 다국적 로밍
-      desc: 물리적 SIM은 <b>단일 국가 전용</b>입니다. Roami eSIM은 몰디브와 스리랑카, 두바이와 같은 경유국을 커버하며 <b>$3.99/7일</b>부터 시작하는 요금제를 제공합니다.
+      desc: 물리적 SIM은 <b>단일 국가 전용</b>입니다. Roami eSIM은 몰디브와 스리랑카, 두바이와 같은 경유국을 커버하며 <b>$14.99/7일</b>부터 시작하는 요금제를 제공합니다.
     - icon: tower-observation
       icon_bg: bg-rose-100
       icon_color: text-rose-600

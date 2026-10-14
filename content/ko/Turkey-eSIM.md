@@ -1,7 +1,7 @@
 ---
 title: '터키 eSIM - 이스탄불 & 카파도키아 5G | 여권 불필요 | Roami'
-date: '2026-08-18T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 터키 eSIM - 이스탄불 5G | 여권 불필요
   description: Turkcell, Vodafone 및 Türk Telekom의 5G를 지원하는 최고의 터키 eSIM 요금제를 만나보세요. 여권 또는 신분증 불필요 — 터키의 인터넷 차단을 자동으로 우회합니다. 이스탄불 공항 바가지 요금 피하세요. $1.99부터.
-  keywords: 터키 eSIM, 터키 eSIM 구매, 최고의 터키 eSIM, 터키 여행 eSIM, Turkcell 터키, Vodafone 터키, Türk Telekom 터키, 이스탄불 eSIM, 앙카라 eSIM, 이즈미르 eSIM, 터키 선불 eSIM, 5G 터키 eSIM, 여권 없는 터키 eSIM, 카파도키아 eSIM
+  keywords: 터키 eSIM, 터키 eSIM 추천, 터키 eSIM 구매, 터키 eSIM 요금제, 터키 eSIM 가격, 터키 여행 eSIM, 최고의 터키 eSIM, 터키 eSIM 무제한, 터키 eSIM 사용법, 터키 선불 eSIM, 터키 eSIM 후기, 터키 5G eSIM, Turkcell 터키, 이스탄불 eSIM, 앙카라 eSIM, 이즈미르 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -405,7 +405,8 @@ faq_section:
     - q: |
         이스탄불 공항에서 SIM 카드를 구매하는 것이 정말 그렇게 나쁜가요?
       a: |
-        불행히도 그렇습니다. 공항 SIM 가격은 시내 매장보다 <strong>3-5배 높습니다</strong>. 관광객들은 최소한의 데이터로 기본 SIM에 500-900 TL(~$15-28 USD)을 지불했다고 보고합니다. 많은 경우 여권이 비라틴 문자를 사용하는 경우 추가로 ₺100+의 "번역 서비스 수수료"가 부과됩니다. 공항 매장은 또한 대기열이 길고 운영 시간이 제한적입니다. Roami는 <strong>3일 동안 $1.99</strong>입니다 — 돈을 절약하고 대기열을 완전히 건너뛸 수 있습니다.
+        불행히도 그렇습니다. 공항 SIM 가격은 시내 매장보다 <strong>3-5배 높습니다</strong>. 관광객들은 최소한의 데이터로 기본 SIM에 500-900 TL(~$15-28 USD)을 지불했다고 보고합니다. 많은 경우 여권이 비라틴 문자를 사용하는 경우 추가로 ₺100+의 "번역 서비스 수수료"가 부과됩니다. 공항 매장은 또한 대기열이 길고 운영 시간이 제한적입니다. Roami는 <strong>3일 동안 $7.99</strong>입니다 — 돈을 절약하고 대기열을 완전히 건너뛸 수 있습니다.
+
     - q: |
         여행 전에 실수로 터키 eSIM을 삭제하면 어떻게 되나요?
       a: |
@@ -414,63 +415,75 @@ faq_section:
         터키 eSIM의 유효 기간은 언제 시작되나요?
       a: |
         요금제 유효 기간은 구매 또는 설치 시가 아닌 터키 현지 네트워크에 연결될 때 시작됩니다. 따라서 여행 몇 주 전에 구매 및 설치해도 요금제 사용 일수를 잃지 않습니다. 7일 요금제는 최초 연결 시점부터 7일간의 완전한 사용이 가능합니다.
+    - q: |
+        터키 eSIM을 설치한 뒤 Turkcell 번호는 어떻게 되나요?
+      a: |
+        Turkcell 번호는 그대로 유지됩니다. Roami 터키 eSIM은 데이터 전용 회선이므로, 기존 번호로 전화·문자를 받으면서 데이터는 eSIM으로 사용할 수 있습니다.
+    - q: |
+        장기 체류 시 Turkcell 대비 터키 eSIM 비용은 어떻게 되나요?
+      a: |
+        장기 체류에는 더 긴 유효 기간의 요금제를 선택할 수 있습니다. Turkcell 장기 요금제와 비교해도 약정 없이 필요한 기간만 구매할 수 있다는 점이 장점입니다.
+    - q: |
+        터키 여행 중 Turkcell 회선은 유지한 채 eSIM 데이터 요금제를 바꿀 수 있나요?
+      a: |
+        가능합니다. 사용 중에도 더 큰 요금제를 구매해 즉시 적용할 수 있습니다. Turkcell 매장을 찾을 필요 없이 온라인으로 처리됩니다.
 related_products:
   title: 관련 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
+  - name: 우간다 eSIM
+    flag: img/flags/ug.svg
+    price: $7.99부터
+    is_highlight: true
+  - name: 우크라이나 eSIM
+    flag: img/flags/ua.svg
     price: $1.99부터
+    is_highlight: false
+  - name: UAE eSIM
+    flag: img/flags/ae.svg
+    price: $3.99부터
     is_highlight: false
   - name: 영국 eSIM
     flag: img/flags/gb.svg
     price: $1.99부터
     is_highlight: false
+  - name: 미국 eSIM
+    flag: img/flags/us.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 우루과이 eSIM
+    flag: img/flags/uy.svg
+    price: $11.99부터
+    is_highlight: false
+  - name: 우즈베키스탄 eSIM
+    flag: img/flags/uz.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 바티칸 시국 eSIM
+    flag: img/flags/va.svg
+    price: $10.99부터
+    is_highlight: false
+  - name: 베트남 eSIM
+    flag: img/flags/vn.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 잠비아 eSIM
+    flag: img/flags/za.svg
+    price: $11.99부터
+    is_highlight: false
+  - name: 슬로베니아 eSIM
+    flag: img/flags/sl.svg
+    price: $1.99부터
+    is_highlight: false
   - name: 유럽 eSIM
     flag: img/flags/eu.svg
-    price: $1.99부터
-    is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
     price: $1.99부터
     is_highlight: false
 market_analysis:
   title: '터키 eSIM vs 현지 선불 SIM: 여권 없음, 28일 낭비 없음'
   subtitle: 터키 현지 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (Turkey) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Turkey
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

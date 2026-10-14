@@ -1,7 +1,7 @@
 ---
 title: 슬로베니아 eSIM 데이터 요금제 | 2026년 여행용 eSIM 베스트 | Roami
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -21,9 +21,9 @@ modal:
 seo:
   title: "슬로베니아 eSIM | 여행용 선불 데이터 요금제"
   description: "Roami의 최고의 선불 여행용 eSIM으로 슬로베니아 여행을 준비하세요. 전국 무제한 5G 데이터. 즉시 활성화. 류블랴나, 블레드 및 마리보르를 커버합니다."
-  keywords: 슬로베니아 eSIM, eSIM 슬로베니아, 저렴한 eSIM 슬로베니아, 여행 인터넷 슬로베니아, A1 슬로베니아, Telekom Slovenije, 즉시 eSIM, 로밍 수수료 없음
+  keywords: 슬로베니아 eSIM, 슬로베니아 eSIM 추천, 슬로베니아 eSIM 구매, 슬로베니아 eSIM 요금제, 슬로베니아 eSIM 가격, 슬로베니아 여행 eSIM, 최고의 슬로베니아 eSIM, 슬로베니아 eSIM 무제한, 슬로베니아 eSIM 사용법, 슬로베니아 선불 eSIM, 슬로베니아 eSIM 후기, 슬로베니아 5G eSIM, A1 슬로베니아, 류블랴나 eSIM, 마리보르 eSIM, 크란 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -384,56 +384,69 @@ faq_section:
     - q: |
         2-3일 동안 슬로베니아를 여행합니다. 어떤 eSIM을 받아야 하나요?
       a: |
-        짧은 여행의 경우 1GB/7일 요금제($1.99)는 지도와 메시징을 커버합니다. 소셜 미디어를 사용하고 사진을 공유할 계획이라면 3GB 요금제($4.99)가 더 넉넉합니다. 둘 다 즉시 활성화되며 필요한 경우 추가 충전할 수 있습니다.
+        짧은 여행의 경우 1GB/7일 요금제($2.99)는 지도와 메시징을 커버합니다. 소셜 미디어를 사용하고 사진을 공유할 계획이라면 3GB 요금제($4.99)가 더 넉넉합니다. 둘 다 즉시 활성화되며 필요한 경우 추가 충전할 수 있습니다.
+
+    - q: |
+        슬로베니아 도착 전에 A1용 eSIM을 미리 설치할 수 있나요?
+      a: |
+        가능합니다. 출국 전에 설치해 두고, 슬로베니아 도착 후 회선을 켜면 A1 네트워크에 자동 연결됩니다. 유효 기간은 지원 네트워크에 처음 연결될 때 시작됩니다.
+    - q: |
+        슬로베니아 eSIM 요금제는 얼마부터 시작하며, A1 현지 요금제와 비교하면 어떤가요?
+      a: |
+        Roami 슬로베니아 eSIM은 저렴한 소용량 요금제부터 시작합니다. A1 현지 요금제는 보통 장기 약정과 등록 절차가 필요한 반면, Roami는 여행 기간에 맞춘 단기 요금제를 제공합니다.
+    - q: |
+        A1와 달리 Roami 슬로베니아 eSIM은 자동 갱신되나요?
+      a: |
+        아니요. 모든 요금제는 선불이며 자동 갱신되지 않습니다. 여행이 끝난 뒤 추가 청구가 발생하지 않아 A1 후불 요금제보다 예측 가능합니다.
 related_products:
   title: 관련 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
   - name: 유럽 eSIM
     flag: img/flags/eu.svg
     price: $1.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 아프가니스탄 eSIM
+    flag: img/flags/af.svg
+    price: $11.99부터
+    is_highlight: false
+  - name: 알바니아 eSIM
+    flag: img/flags/al.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
+  - name: 알제리 eSIM
+    flag: img/flags/dz.svg
+    price: $3.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
+  - name: 안도라 eSIM
+    flag: img/flags/ad.svg
+    price: $6.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
+  - name: 아르헨티나 eSIM
+    flag: img/flags/ar.svg
+    price: $3.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
+  - name: 아르메니아 eSIM
+    flag: img/flags/am.svg
+    price: $7.99부터
     is_highlight: false
   - name: 호주 eSIM
     flag: img/flags/au.svg
     price: $1.99부터
+    is_highlight: false
+  - name: 오스트리아 eSIM
+    flag: img/flags/at.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 아제르바이잔 eSIM
+    flag: img/flags/az.svg
+    price: $6.99부터
+    is_highlight: false
+  - name: 바하마 eSIM
+    flag: img/flags/bs.svg
+    price: $16.99부터
+    is_highlight: false
+  - name: 바레인 eSIM
+    flag: img/flags/bh.svg
+    price: $6.99부터
     is_highlight: false
 ---

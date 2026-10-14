@@ -1,7 +1,7 @@
 ---
 title: '우루과이 eSIM 2026: 완벽한 여행 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 우루과이 eSIM | 여행자를 위한 무제한 데이터 요금제
   description: Roami의 최고의 선불 여행용 eSIM으로 우루과이를 여행하세요. 전국 어디서나 무제한 5G 데이터. 몬테비데오, 푼타델에스테 및 콜로니아를 커버합니다. 즉시 활성화.
-  keywords: 우루과이 eSIM, 우루과이 eSIM 구매, 최고의 우루과이 eSIM, 우루과이 여행용 eSIM, Antel 우루과이, Claro 우루과이, Movistar 우루과이, 몬테비데오 eSIM, 살토 eSIM, 푼타델에스테 eSIM, 우루과이 선불 eSIM, 5G 우루과이 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: 우루과이 eSIM, 우루과이 eSIM 추천, 우루과이 eSIM 구매, 우루과이 eSIM 요금제, 우루과이 eSIM 가격, 우루과이 여행 eSIM, 최고의 우루과이 eSIM, 우루과이 eSIM 무제한, 우루과이 eSIM 사용법, 우루과이 선불 eSIM, 우루과이 eSIM 후기, 우루과이 5G eSIM, Antel 우루과이, 몬테비데오 eSIM, 살토 eSIM, 푼타델에스테 eSIM
+  low_price: 11.99
+  high_price: 98.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -334,7 +334,8 @@ faq_section:
     - q: |
         우루과이 방문 시 eSIM에 얼마를 예산으로 잡아야 하나요?
       a: |
-        Roami는 7일 라이트 요금제 $1.99부터 30일 무제한 데이터 $59.99까지 우루과이 eSIM을 제공합니다. 대부분의 방문객은 5GB/15일 요금제($9.99)를 선택합니다 — 스트레스 없이 일상적인 내비게이션, 소셜 미디어 및 메시징을 커버합니다. 스트리밍 애호가나 소셜 미디어를 많이 사용하는 경우 10GB 또는 무제한을 고려해야 합니다. Antel은 우루과이 전역에서 안정적인 속도를 제공합니다. Roami 요금제는 선불입니다 — 예상치 못한 청구서, 자동 갱신 없이 간단한 가격 정책입니다.
+        Roami는 7일 라이트 요금제 $11.99부터 7일 무제한 데이터 $66.99까지 우루과이 eSIM을 제공합니다. 대부분의 방문객은 5GB/15일 요금제($26.99)를 선택합니다 — 스트레스 없이 일상적인 내비게이션, 소셜 미디어 및 메시징을 커버합니다. 스트리밍 애호가나 소셜 미디어를 많이 사용하는 경우 10GB 또는 무제한을 고려해야 합니다. Antel은 우루과이 전역에서 안정적인 속도를 제공합니다. Roami 요금제는 선불입니다 — 예상치 못한 청구서, 자동 갱신 없이 간단한 가격 정책입니다.
+
     - q: |
         우루과이 eSIM 등록을 위해 여권을 업로드해도 안전한가요? 개인정보 보호가 걱정됩니다.
       a: |
@@ -355,63 +356,75 @@ faq_section:
         우루과이에서 일반적인 여행자는 실제로 하루에 얼마나 많은 데이터를 사용하나요?
       a: |
         대부분의 관광객의 일일 평균 사용량: 지도 및 메시징의 경우 300-500MB, 소셜 미디어를 많이 사용하는 경우 최대 1GB입니다. 1주일 여행의 경우 5GB면 충분합니다. 2주일의 경우 10GB를 선택하세요. Roami는 데이터가 부족할 경우 쉽게 추가 충전할 수 있도록 합니다.
+    - q: |
+        우루과이에서 Antel 커버리지가 약한 지역에서도 eSIM이 작동하나요?
+      a: |
+        Roami 우루과이 eSIM은 여러 현지 사업자에 자동 연결되므로, Antel 신호가 약한 지역에서도 더 강한 네트워크로 전환되어 연결을 유지합니다.
+    - q: |
+        Antel 데이터 요금과 우루과이 eSIM 요금 중 어느 쪽이 더 저렴한가요?
+      a: |
+        단기 여행이라면 대개 Roami 우루과이 eSIM이 유리합니다. Antel 요금제는 장기 약정이나 최소 사용 조건이 있는 반면, Roami는 필요한 기간만큼만 구매할 수 있습니다.
+    - q: |
+        우루과이에서 핫스팟으로 Antel 기기와 데이터를 공유할 수 있나요?
+      a: |
+        네. 핫스팟 공유가 지원되어 노트북이나 태블릿 등 다른 기기에서도 우루과이 eSIM 데이터를 사용할 수 있습니다.
 related_products:
   title: 관련 우루과이 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
+  - name: 우즈베키스탄 eSIM
+    flag: img/flags/uz.svg
+    price: $1.99부터
+    is_highlight: true
+  - name: 바티칸 시국 eSIM
+    flag: img/flags/va.svg
+    price: $10.99부터
+    is_highlight: false
+  - name: 베트남 eSIM
+    flag: img/flags/vn.svg
     price: $1.99부터
     is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
+  - name: 잠비아 eSIM
+    flag: img/flags/za.svg
+    price: $11.99부터
+    is_highlight: false
+  - name: 슬로베니아 eSIM
+    flag: img/flags/sl.svg
     price: $1.99부터
     is_highlight: false
   - name: 유럽 eSIM
     flag: img/flags/eu.svg
     price: $1.99부터
-    is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+    is_highlight: false
+  - name: 아프가니스탄 eSIM
+    flag: img/flags/af.svg
+    price: $11.99부터
+    is_highlight: false
+  - name: 알바니아 eSIM
+    flag: img/flags/al.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
+  - name: 알제리 eSIM
+    flag: img/flags/dz.svg
+    price: $3.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
+  - name: 안도라 eSIM
+    flag: img/flags/ad.svg
+    price: $6.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
+  - name: 아르헨티나 eSIM
+    flag: img/flags/ar.svg
+    price: $3.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 아르메니아 eSIM
+    flag: img/flags/am.svg
+    price: $7.99부터
     is_highlight: false
 market_analysis:
   title: '우루과이 eSIM vs 현지 선불 SIM: 어떤 것이 더 편리할까요?'
   subtitle: 우루과이 현지 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (우루과이) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Uruguay
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

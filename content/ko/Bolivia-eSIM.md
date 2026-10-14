@@ -1,7 +1,7 @@
 ---
 title: '볼리비아 eSIM 2026: 요금제 및 커버리지 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Entel, Tigo, Viva
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: 라파스, 산타크루스, 코차밤바, 수크레, 엘알토
-  main_packages: 3/7/15/30일, 무제한 데이터
+  main_packages: 3/7/15/30일, 1–20GB 데이터
 modal:
   title: 서비스가 업그레이드되었습니다!
   btn_text: 계속하기
@@ -18,10 +18,10 @@ modal:
   text_android: '당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객은 20% 할인을 받으실 수 있습니다. 프로모션 코드: web20'
 seo:
   title: 볼리비아 eSIM | 최고의 선불 여행 eSIM 요금제
-  description: Roami의 최고의 선불 여행 eSIM으로 볼리비아를 탐험하세요. 무제한 5G 데이터. 라파스, 산타크루스 및 코차밤바를 커버합니다. 즉시 활성화. 오늘 온라인으로 요금제를 구매하세요.
-  keywords: 볼리비아 eSIM, 볼리비아 eSIM 구매, 최고의 볼리비아 eSIM, 볼리비아 여행 eSIM, Entel 볼리비아, Tigo 볼리비아, Viva 볼리비아, 라파스 eSIM, 산타크루스 eSIM, 코차밤바 eSIM, 볼리비아 선불 eSIM, 5G 볼리비아 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Roami의 최고의 선불 여행 eSIM으로 볼리비아를 탐험하세요. 빠른 5G 데이터. 라파스, 산타크루스 및 코차밤바를 커버합니다. 즉시 활성화. 오늘 온라인으로 요금제를 구매하세요.
+  keywords: 볼리비아 eSIM, 볼리비아 eSIM 추천, 볼리비아 eSIM 구매, 볼리비아 eSIM 요금제, 볼리비아 eSIM 가격, 볼리비아 여행 eSIM, 최고의 볼리비아 eSIM, 볼리비아 eSIM 데이터, 볼리비아 eSIM 사용법, 볼리비아 선불 eSIM, 볼리비아 eSIM 후기, 볼리비아 5G eSIM, Entel 볼리비아, 라파스 eSIM, 산타크루스 eSIM, 코차밤바 eSIM
+  low_price: 11.99
+  high_price: 209.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -248,63 +248,75 @@ faq_section:
         Roami에서 볼리비아 eSIM을 구매하려면 어떤 서류가 필요한가요?
       a: |
         유효한 결제 수단(신용카드, PayPal, Apple Pay 또는 Google Pay)만 있으면 됩니다. 여권 업로드, 주소 확인, 계약이 필요하지 않습니다. 온라인으로 구매하고 몇 분 내에 이메일로 QR 코드를 받아 휴대폰에 직접 설치하세요.
+    - q: |
+        볼리비아 eSIM을 설치한 뒤 Entel 번호는 어떻게 되나요?
+      a: |
+        Entel 번호는 그대로 유지됩니다. Roami 볼리비아 eSIM은 데이터 전용 회선이므로, 기존 번호로 전화·문자를 받으면서 데이터는 eSIM으로 사용할 수 있습니다.
+    - q: |
+        장기 체류 시 Entel 대비 볼리비아 eSIM 비용은 어떻게 되나요?
+      a: |
+        장기 체류에는 더 긴 유효 기간의 요금제를 선택할 수 있습니다. Entel 장기 요금제와 비교해도 약정 없이 필요한 기간만 구매할 수 있다는 점이 장점입니다.
+    - q: |
+        볼리비아 여행 중 Entel 회선은 유지한 채 eSIM 데이터 요금제를 바꿀 수 있나요?
+      a: |
+        가능합니다. 사용 중에도 더 큰 요금제를 구매해 즉시 적용할 수 있습니다. Entel 매장을 찾을 필요 없이 온라인으로 처리됩니다.
 related_products:
   title: 관련 볼리비아 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 보스니아 헤르체고비나 eSIM
+    flag: img/flags/ba.svg
+    price: $30.99부터
     is_highlight: true
+  - name: 보츠와나 eSIM
+    flag: img/flags/bw.svg
+    price: $14.99부터
+    is_highlight: false
+  - name: 브라질 eSIM
+    flag: img/flags/br.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 브루나이 eSIM
+    flag: img/flags/bn.svg
+    price: $9.99부터
+    is_highlight: false
+  - name: 불가리아 eSIM
+    flag: img/flags/bg.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 부르키나파소 eSIM
+    flag: img/flags/bf.svg
+    price: $11.99부터
+    is_highlight: false
+  - name: 캄보디아 eSIM
+    flag: img/flags/kh.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 카메룬 eSIM
+    flag: img/flags/cm.svg
+    price: $27.99부터
+    is_highlight: false
   - name: 캐나다 eSIM
     flag: img/flags/ca.svg
-    price: $1.99부터
+    price: $3.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
+  - name: 차드 eSIM
+    flag: img/flags/td.svg
+    price: $23.99부터
+    is_highlight: false
+  - name: 칠레 eSIM
+    flag: img/flags/cl.svg
+    price: $4.99부터
     is_highlight: false
   - name: 중국 eSIM
     flag: img/flags/cn.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
     price: $1.99부터
     is_highlight: false
 market_analysis:
   title: '볼리비아 eSIM 대 현지 선불 SIM: 어떤 것이 더 편리할까요?'
   subtitle: 볼리비아 현지 선불 SIM 대 eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (볼리비아) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Bolivia
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

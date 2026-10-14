@@ -1,7 +1,7 @@
 ---
 title: '세네갈 eSIM 2026: 연결 및 속도 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,18 +10,18 @@ country_meta:
   operators: Orange, Free, Tigo
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: 다카르, 생루이, 티에스, 투바, 음부르
-  main_packages: 3/7/15/30일, 무제한 데이터
+  main_packages: 3/7/15/30일, 1–5GB 데이터
 modal:
   title: 서비스 업그레이드 완료!
   btn_text: 계속하기
   text_default: '당사의 eSIM 서비스가 <strong>PhoneSIMGo</strong>로 업그레이드되었습니다.<br>신규 고객은 20% 할인을 받으세요. 프로모션 코드: web20'
   text_android: '당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객은 20% 할인을 받으세요. 프로모션 코드: web20'
 seo:
-  title: '세네갈 eSIM 2026: 서아프리카 여행을 위한 무제한 5G 데이터'
-  description: 다카르, 생루이, 티에스에서 빠른 5G를 제공하는 세네갈 eSIM 요금제를 비교하세요. 관광객 및 여행객을 위한 Orange, Free, Tigo 커버리지 가이드. $1.99부터 즉시 QR 활성화.
-  keywords: 세네갈 eSIM, 세네갈 eSIM 구매, 최고의 세네갈 eSIM, 세네갈 여행 eSIM, Orange 세네갈, Free 세네갈, Tigo 세네갈, 다카르 eSIM, 생루이 eSIM, 티에스 eSIM, 세네갈 선불 eSIM, 5G 세네갈 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: '세네갈 eSIM 2026: 서아프리카 여행을 위한 5G 데이터 요금제'
+  description: 다카르, 생루이, 티에스에서 빠른 5G를 제공하는 세네갈 eSIM 요금제를 비교하세요. 관광객 및 여행객을 위한 Orange, Free, Tigo 커버리지 가이드. $12.99부터 즉시 QR 활성화.
+  keywords: 세네갈 eSIM, 세네갈 eSIM 추천, 세네갈 eSIM 구매, 세네갈 eSIM 요금제, 세네갈 eSIM 가격, 세네갈 여행 eSIM, 최고의 세네갈 eSIM, 세네갈 eSIM 데이터, 세네갈 eSIM 사용법, 세네갈 선불 eSIM, 세네갈 eSIM 후기, 세네갈 5G eSIM, Orange 세네갈, 다카르 eSIM, 생루이 eSIM, 티에스 eSIM
+  low_price: 12.99
+  high_price: 39.99
 order_summary:
   title: 선택한 요금제
   label_data: 데이터 용량
@@ -214,55 +214,67 @@ faq_section:
         비행기 직전에 마지막 순간에 세네갈 eSIM을 구매할 수 있나요?
       a: |
         네 - QR 코드는 구매 후 수분 이내에 이메일로 전송됩니다. 공항 게이트에서 구매하고 비행기 내 WiFi를 사용하여 설치할 수 있습니다. 세네갈에 착륙하면 데이터 로밍을 활성화하기만 하면 즉시 온라인 상태가 됩니다.
+    - q: |
+        Orange 선불 SIM과 달리 세네갈 eSIM 개통에 별도 서류가 필요한가요?
+      a: |
+        Orange 선불 SIM은 여권 등록이 필요한 경우가 많지만, Roami 세네갈 eSIM은 데이터 전용이라 신분증 업로드나 매장 방문 없이 온라인으로 즉시 개통됩니다.
+    - q: |
+        세네갈 eSIM을 Orange 선불 요금제 대신 쓰면 비용이 얼마나 줄어드나요?
+      a: |
+        요금제와 사용량에 따라 다르지만, 매장 방문·등록·미사용 데이터 비용을 없앨 수 있어 실질 부담이 낮아집니다. 모든 요금제는 선불입니다.
+    - q: |
+        세네갈 eSIM을 충전하면 Orange 회선도 함께 갱신되나요?
+      a: |
+        아니요. Roami 세네갈 eSIM과 Orange 물리 회선은 별개입니다. eSIM 요금제를 추가 구매해도 Orange 요금제에는 영향이 없습니다.
 related_products:
   title: 관련 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
+  - name: 세르비아 eSIM
+    flag: img/flags/se.svg
     price: $1.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 세이셸 eSIM
+    flag: img/flags/sc.svg
+    price: $9.99부터
+    is_highlight: false
+  - name: 시에라리온 eSIM
+    flag: img/flags/si.svg
+    price: $10.99부터
+    is_highlight: false
+  - name: 싱가포르 eSIM
+    flag: img/flags/sg.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 슬로바키아 eSIM
+    flag: img/flags/sl.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 남아프리카 eSIM
+    flag: img/flags/za.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 한국 eSIM
+    flag: img/flags/kr.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
+  - name: 동남아시아 eSIM
+    flag: img/flags/ya.webp
     price: $1.99부터
     is_highlight: false
   - name: 스페인 eSIM
     flag: img/flags/es.svg
     price: $1.99부터
     is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
+  - name: 스위스 eSIM
+    flag: img/flags/ch.svg
     price: $1.99부터
     is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 대만 eSIM
+    flag: img/flags/tw.svg
     price: $1.99부터
+    is_highlight: false
+  - name: 타지키스탄 eSIM
+    flag: img/flags/tj.svg
+    price: $4.99부터
     is_highlight: false
 ---

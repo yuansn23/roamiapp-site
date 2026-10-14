@@ -1,7 +1,7 @@
 ---
 title: '도미니카 eSIM 2026: 요금제 및 커버리지 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 도미니카 eSIM | 여행객을 위한 최고의 선불 eSIM
   description: 도미니카 여행을 계획 중이신가요? Roami의 최고의 선불 여행용 eSIM으로 무제한 5G 데이터를 이용하세요. 로조 및 모든 교구 커버. 즉시 활성화.
-  keywords: 도미니카 eSIM, 도미니카 eSIM 구매, 최고의 도미니카 eSIM, 도미니카 여행용 eSIM, Digicel 도미니카, Flow 도미니카, Orange 도미니카, 로조 eSIM, 포츠머스 eSIM, 마리고 eSIM, 도미니카 선불 eSIM, 5G 도미니카 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: 도미니카 eSIM, 도미니카 eSIM 추천, 도미니카 eSIM 구매, 도미니카 eSIM 요금제, 도미니카 eSIM 가격, 도미니카 여행 eSIM, 최고의 도미니카 eSIM, 도미니카 eSIM 무제한, 도미니카 eSIM 사용법, 도미니카 선불 eSIM, 도미니카 eSIM 후기, 도미니카 5G eSIM, Digicel 도미니카, 로조 eSIM, 포츠머스 eSIM, 마리고 eSIM
+  low_price: 11.99
+  high_price: 52.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -220,7 +220,8 @@ faq_section:
     - q: |
         도미니카 호텔에 무료 WiFi가 있다면 eSIM 데이터가 여전히 필요한가요?
       a: |
-        호텔 WiFi는 객실에서 작동하지만 외부 탐험 시에는 작동하지 않습니다. eSIM은 모든 곳에서 데이터를 제공합니다 — 거리 내비게이션, 주변 장소 검색, 대중교통 일정 확인. 5GB 요금제는 $9.99로, 많은 호텔에서 일주일 유료 WiFi($10-15)보다 저렴한 경우가 많습니다. 대부분의 여행객은 대용량 다운로드에 호텔 WiFi를, 이동 중 연결에는 eSIM을 사용합니다.
+        호텔 WiFi는 객실에서 작동하지만 외부 탐험 시에는 작동하지 않습니다. eSIM은 모든 곳에서 데이터를 제공합니다 — 거리 내비게이션, 주변 장소 검색, 대중교통 일정 확인. 5GB 요금제는 $37.99로, 많은 호텔에서 일주일 유료 WiFi($10-15)보다 저렴한 경우가 많습니다. 대부분의 여행객은 대용량 다운로드에 호텔 WiFi를, 이동 중 연결에는 eSIM을 사용합니다.
+
     - q: |
         도미니카 여행에서 eSIM은 포켓 WiFi와 어떻게 비교되나요?
       a: |
@@ -228,7 +229,8 @@ faq_section:
     - q: |
         도미니카에서 이틀 정도만 인터넷이 필요합니다. 최소한 얼마나 구매할 수 있나요?
       a: |
-        가장 저렴한 요금제는 $1.99의 7일 1GB 요금제입니다 — 가벼운 사용으로 짧은 주말 여행에 완벽합니다. 더 필요하면 앱에서 언제든지 충전하세요.
+        가장 저렴한 요금제는 $11.99의 7일 1GB 요금제입니다 — 가벼운 사용으로 짧은 주말 여행에 완벽합니다. 더 필요하면 앱에서 언제든지 충전하세요.
+
     - q: |
         도미니카 5GB 요금제와 무제한 요금제의 차이점은 무엇인가요?
       a: |
@@ -241,63 +243,75 @@ faq_section:
         도미니카 eSIM은 시골 지역과 소도시에서도 작동하나요?
       a: |
         도미니카의 커버리지는 도심 지역의 약 95%에 도달하지만 외딴 지역에서는 감소합니다. 속도는 200-300 Mbps(5G)에서 10-30 Mbps(4G)로 떨어질 수 있습니다. Roami는 가장 강력한 네트워크로 자동 전환됩니다. 외딴 지역으로 가기 전에 오프라인 지도를 다운로드하세요.
+    - q: |
+        아이폰에서 Digicel 도미니카 eSIM을 추가하는 방법은 무엇인가요?
+      a: |
+        설정 > 셀룰러(또는 모바일 데이터) > 'eSIM 추가'를 선택하고 이메일로 받은 QR 코드를 스캔하면 됩니다. Digicel 회선은 그대로 유지됩니다.
+    - q: |
+        예산 여행자에게 Digicel 대비 도미니카 eSIM이 유리한 이유는 무엇인가요?
+      a: |
+        선불이고 자동 갱신이 없어 여행이 끝나면 추가 청구가 없습니다. 또한 Digicel 매장을 찾을 필요 없이 온라인으로 구매·개통할 수 있어 시간과 비용을 아낍니다.
+    - q: |
+        Digicel 요금제와 별개로 도미니카 eSIM 데이터 한도를 초과하면 어떻게 되나요?
+      a: |
+        데이터를 모두 사용하면 회선이 정지되며, 자동으로 추가 청구되지 않습니다. 필요하면 같은 계정에서 새 요금제를 구매해 이어서 사용할 수 있습니다.
 related_products:
   title: 관련 도미니카 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 도미니카공화국 eSIM
+    flag: img/flags/do.svg
+    price: $5.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 에콰도르 eSIM
+    flag: img/flags/ec.svg
+    price: $6.99부터
+    is_highlight: false
+  - name: 이집트 eSIM
+    flag: img/flags/eg.svg
+    price: $2.99부터
+    is_highlight: false
+  - name: 엘살바도르 eSIM
+    flag: img/flags/sv.svg
+    price: $23.99부터
+    is_highlight: false
+  - name: 에스토니아 eSIM
+    flag: img/flags/ee.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
+  - name: 에스와티니 eSIM
+    flag: img/flags/sz.svg
+    price: $19.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
+  - name: 페로 제도 eSIM
+    flag: img/flags/fo.svg
+    price: $5.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
+  - name: 피지 eSIM
+    flag: img/flags/fj.svg
+    price: $6.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
+  - name: 핀란드 eSIM
+    flag: img/flags/fi.svg
     price: $1.99부터
     is_highlight: false
   - name: 프랑스 eSIM
     flag: img/flags/fr.svg
     price: $1.99부터
     is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
+  - name: 프랑스령 기아나 eSIM
+    flag: img/flags/gf.svg
+    price: $3.99부터
     is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 가봉 eSIM
+    flag: img/flags/ga.svg
+    price: $14.99부터
     is_highlight: false
 market_analysis:
   title: '도미니카 eSIM vs 현지 선불 SIM: 무엇이 더 편리한가요?'
   subtitle: 도미니카 현지 선불 SIM vs. eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (도미니카) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Dominica
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

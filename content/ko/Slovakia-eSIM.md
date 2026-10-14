@@ -1,7 +1,7 @@
 ---
 title: '슬로바키아 eSIM 2026: 5G 및 데이터 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 슬로바키아 eSIM | 여행을 위한 최고의 여행용 eSIM
   description: Roami의 최고의 선불 여행용 eSIM으로 슬로바키아를 여행하세요. 전국 어디서나 무제한 5G 데이터. 즉시 활성화. 브라티슬라바, 코시체 및 타트라 산맥을 커버합니다.
-  keywords: 슬로바키아 eSIM, 슬로바키아 eSIM 구매, 최고의 슬로바키아 eSIM, 슬로바키아 여행용 eSIM, Orange Slovensko 슬로바키아, Slovak Telekom 슬로바키아, O2 Slovakia 슬로바키아, 브라티슬라바 eSIM, 코시체 eSIM, 프레쇼우 eSIM, 슬로바키아 선불 eSIM, 5G 슬로바키아 eSIM
+  keywords: 슬로바키아 eSIM, 슬로바키아 eSIM 추천, 슬로바키아 eSIM 구매, 슬로바키아 eSIM 요금제, 슬로바키아 eSIM 가격, 슬로바키아 여행 eSIM, 최고의 슬로바키아 eSIM, 슬로바키아 eSIM 무제한, 슬로바키아 eSIM 사용법, 슬로바키아 선불 eSIM, 슬로바키아 eSIM 후기, 슬로바키아 5G eSIM, Orange Slovensko 슬로바키아, 브라티슬라바 eSIM, 코시체 eSIM, 프레쇼우 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -379,55 +379,67 @@ faq_section:
         슬로바키아 eSIM을 얼마나 미리 구매해야 하나요?
       a: |
         언제든지 구매 가능합니다 — 탑승 게이트에서도 가능합니다. QR 코드는 몇 분 내에 도착합니다. 집에서 WiFi로 설치할 수 있도록 며칠 전에 구매하는 것이 좋습니다. 요금제는 슬로바키아에서 연결할 때만 활성화되므로 미리 구매해도 요금제 사용 일수가 낭비되지 않습니다.
+    - q: |
+        아이폰에서 Orange Slovensko 슬로바키아 eSIM을 추가하는 방법은 무엇인가요?
+      a: |
+        설정 > 셀룰러(또는 모바일 데이터) > 'eSIM 추가'를 선택하고 이메일로 받은 QR 코드를 스캔하면 됩니다. Orange Slovensko 회선은 그대로 유지됩니다.
+    - q: |
+        예산 여행자에게 Orange Slovensko 대비 슬로바키아 eSIM이 유리한 이유는 무엇인가요?
+      a: |
+        선불이고 자동 갱신이 없어 여행이 끝나면 추가 청구가 없습니다. 또한 Orange Slovensko 매장을 찾을 필요 없이 온라인으로 구매·개통할 수 있어 시간과 비용을 아낍니다.
+    - q: |
+        Orange Slovensko 요금제와 별개로 슬로바키아 eSIM 데이터 한도를 초과하면 어떻게 되나요?
+      a: |
+        데이터를 모두 사용하면 회선이 정지되며, 자동으로 추가 청구되지 않습니다. 필요하면 같은 계정에서 새 요금제를 구매해 이어서 사용할 수 있습니다.
 related_products:
   title: 관련 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 남아프리카 eSIM
+    flag: img/flags/za.svg
+    price: $3.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 한국 eSIM
+    flag: img/flags/kr.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
+  - name: 동남아시아 eSIM
+    flag: img/flags/ya.webp
     price: $1.99부터
     is_highlight: false
   - name: 스페인 eSIM
     flag: img/flags/es.svg
     price: $1.99부터
     is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
+  - name: 스웨덴 eSIM
+    flag: img/flags/se.svg
     price: $1.99부터
     is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 스위스 eSIM
+    flag: img/flags/ch.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 대만 eSIM
+    flag: img/flags/tw.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 타지키스탄 eSIM
+    flag: img/flags/tj.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 탄자니아 eSIM
+    flag: img/flags/tz.svg
+    price: $7.99부터
+    is_highlight: false
+  - name: 태국 eSIM
+    flag: img/flags/th.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 튀니지 eSIM
+    flag: img/flags/tn.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 터키 eSIM
+    flag: img/flags/tr.svg
     price: $1.99부터
     is_highlight: false
 ---

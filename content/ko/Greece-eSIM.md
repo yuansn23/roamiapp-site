@@ -1,7 +1,7 @@
 ---
 title: '그리스 eSIM - 아테네 & 산토리니 5G | 공항 SIM 찾기 불필요 | Roami'
-date: '2026-08-18T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 그리스 eSIM - 아테네 & 산토리니 5G | 공항 SIM 찾기 불필요
   description: Vodafone, Cosmote 및 Wind에서 5G를 제공하는 최고의 그리스 eSIM을 만나보세요. 아테네 공항에서 SIM을 찾을 필요가 없습니다 — 즉시 QR 배송. 아테네, 산토리니, 미코노스 및 모든 섬을 커버합니다. 요금제는 $1.99부터 시작합니다.
-  keywords: 그리스 eSIM, 그리스 eSIM 구매, 최고의 그리스 eSIM, 그리스 여행 eSIM, Vodafone 그리스, Cosmote 그리스, Wind 그리스, 아테네 eSIM, 테살로니키 eSIM, 산토리니 eSIM, 그리스 선불 eSIM, 그리스 5G eSIM, 그리스 섬 eSIM
+  keywords: 그리스 eSIM, 그리스 eSIM 추천, 그리스 eSIM 구매, 그리스 eSIM 요금제, 그리스 eSIM 가격, 그리스 여행 eSIM, 최고의 그리스 eSIM, 그리스 eSIM 무제한, 그리스 eSIM 사용법, 그리스 선불 eSIM, 그리스 eSIM 후기, 그리스 5G eSIM, Vodafone 그리스, 아테네 eSIM, 테살로니키 eSIM, 이라클리오 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -417,63 +417,75 @@ faq_section:
         그리스 eSIM의 유효 기간은 언제 시작되나요?
       a: |
         요금제 유효 기간은 구매 또는 설치 시가 아닌 그리스 현지 네트워크에 연결될 때 시작됩니다. 따라서 여행 몇 주 전에 구매 및 설치해도 요금제 일수를 손실하지 않습니다. 7일 요금제는 첫 연결부터 7일간 사용 가능합니다.
+    - q: |
+        안드로이드에서 Vodafone 그리스 eSIM을 설정하는 방법은 무엇인가요?
+      a: |
+        설정 > 네트워크 및 인터넷 > SIM > 'eSIM 다운로드'에서 QR 코드를 스캔합니다. Vodafone 물리 SIM과 함께 쓰려면 데이터 회선을 Roami로 지정하세요.
+    - q: |
+        그리스 eSIM 가격에 숨겨진 수수료가 있나요? Vodafone과 비교해 주세요.
+      a: |
+        없습니다. 표시된 가격 외에 활성화 수수료나 로밍 추가 요금이 붙지 않습니다. Vodafone 선불 SIM은 등록비나 최소 충전 조건이 붙는 경우가 있습니다.
+    - q: |
+        Vodafone 네트워크 속도로 그리스 eSIM 데이터를 다 쓰면 느려지나요?
+      a: |
+        Roami 그리스 eSIM은 정해진 데이터 한도까지 고속으로 사용하고, 한도를 모두 쓰면 추가 구매 전까지 연결이 멈춥니다. 요금이 갑자기 오르지 않습니다.
 related_products:
   title: 관련 그리스 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 그레나다 eSIM
+    flag: img/flags/gd.svg
+    price: $11.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
-    price: $1.99부터
+  - name: 과들루프 eSIM
+    flag: img/flags/gp.svg
+    price: $8.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
+  - name: 괌 eSIM
+    flag: img/flags/gu.svg
+    price: $9.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
+  - name: 과테말라 eSIM
+    flag: img/flags/gt.svg
+    price: $11.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
+  - name: 가이아나 eSIM
+    flag: img/flags/gy.svg
+    price: $9.99부터
+    is_highlight: false
+  - name: 온두라스 eSIM
+    flag: img/flags/hn.svg
+    price: $6.99부터
     is_highlight: false
   - name: 홍콩 eSIM
     flag: img/flags/hk.svg
     price: $1.99부터
     is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
+  - name: 헝가리 eSIM
+    flag: img/flags/hu.svg
     price: $1.99부터
     is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
+  - name: 아이슬란드 eSIM
+    flag: img/flags/is.svg
     price: $1.99부터
     is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
+  - name: 인도 eSIM
+    flag: img/flags/in.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 인도네시아 eSIM
+    flag: img/flags/id.svg
     price: $1.99부터
     is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 이라크 eSIM
+    flag: img/flags/iq.svg
+    price: $9.99부터
     is_highlight: false
 market_analysis:
   title: '그리스 eSIM vs 현지 SIM: 공항 SIM 찾기 불필요, 12% 세금 없음'
   subtitle: 그리스 현지 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (그리스) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Greece
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

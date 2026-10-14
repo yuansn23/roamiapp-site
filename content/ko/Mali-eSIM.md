@@ -1,7 +1,7 @@
 ---
 title: '말리 eSIM 2026: 커버리지 및 속도 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,18 +10,18 @@ country_meta:
   operators: Sotelma-Malitel, Orange Mali, Moov Africa
   competitors: Airalo, Holafly, Nomad eSIM, Ubigi, Yesim
   main_cities: 바마코, 세구, 몹티, 팀북투
-  main_packages: 3/7/15/30일, 무제한 데이터
+  main_packages: 3/7/15/30일, 1–20GB 데이터
 modal:
   title: 서비스가 업그레이드되었습니다!
   btn_text: 계속하기
   text_default: '당사의 eSIM 서비스가 <strong>PhoneSIMGo</strong>로 업그레이드되었습니다.<br>신규 고객께서는 20% 할인을 받으실 수 있습니다. 프로모션 코드: web20'
   text_android: '당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객께서는 20% 할인을 받으실 수 있습니다. 프로모션 코드: web20'
 seo:
-  title: '말리 5G eSIM: 무제한 데이터, 로밍 수수료 없음'
-  description: 바마코, 세구, 몹티에서 빠른 5G를 제공하는 말리 eSIM 요금제를 비교하세요. 관광객 및 여행자를 위한 Sotelma-Malitel, Orange Mali, Moov Africa 커버리지 가이드. $1.99부터 즉시 QR 활성화.
-  keywords: 말리 eSIM, 말리 eSIM 구매, 최고의 말리 eSIM, 말리 여행 eSIM, Sotelma-Malitel 말리, Orange Mali 말리, Moov Africa 말리, 바마코 eSIM, 세구 eSIM, 몹티 eSIM, 말리 선불 eSIM, 5G 말리 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: '말리 5G eSIM: 데이터 요금제, 로밍 수수료 없음'
+  description: 바마코, 세구, 몹티에서 빠른 5G를 제공하는 말리 eSIM 요금제를 비교하세요. 관광객 및 여행자를 위한 Sotelma-Malitel, Orange Mali, Moov Africa 커버리지 가이드. $27.99부터 즉시 QR 활성화.
+  keywords: 말리 eSIM, 말리 eSIM 추천, 말리 eSIM 구매, 말리 eSIM 요금제, 말리 eSIM 가격, 말리 여행 eSIM, 최고의 말리 eSIM, 말리 eSIM 데이터, 말리 eSIM 사용법, 말리 선불 eSIM, 말리 eSIM 후기, 말리 5G eSIM, Sotelma-Malitel 말리, 바마코 eSIM, 세구 eSIM, 몹티 eSIM
+  low_price: 27.99
+  high_price: 79.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -215,63 +215,75 @@ faq_section:
         말리의 eSIM이 화상 통화 및 원격 근무에 적합할까요?
       a: |
         물론입니다. Orange 네트워크는 Zoom, Teams 및 Google Meet에 안정적인 연결을 제공합니다. 원격 근무의 경우 10GB 또는 무제한 요금제를 권장합니다. eSIM은 노트북용 핫스팟 공유도 지원합니다.
+    - q: |
+        말리에서 Sotelma-Malitel 회선과 함께 eSIM을 사용할 수 있나요?
+      a: |
+        네. 대부분의 최신 스마트폰은 물리 SIM과 eSIM을 동시에 쓸 수 있어, Sotelma-Malitel 회선으로 전화·문자를 받으면서 Roami 말리 eSIM으로 데이터를 사용할 수 있습니다.
+    - q: |
+        Sotelma-Malitel 로밍 요금과 비교하면 말리 eSIM이 얼마나 절약되나요?
+      a: |
+        통신사 로밍은 데이터 사용량에 따라 요금이 크게 오르지만, Roami 말리 eSIM은 고정 요금제라 예상치 못한 청구가 없습니다. 장기 체류일수록 절감 폭이 커집니다.
+    - q: |
+        말리 eSIM 데이터 소진 시 Sotelma-Malitel 네트워크에서 추가 구매가 가능한가요?
+      a: |
+        가능합니다. 데이터가 부족해지면 앱이나 웹에서 추가 요금제를 구매하면 되고, Sotelma-Malitel 네트워크에서 바로 적용됩니다.
 related_products:
   title: 관련 말리 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
+  - name: 몰타 eSIM
+    flag: img/flags/mt.svg
     price: $1.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 모리셔스 eSIM
+    flag: img/flags/ma.svg
+    price: $7.99부터
+    is_highlight: false
+  - name: 멕시코 eSIM
+    flag: img/flags/mx.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 몰도바 eSIM
+    flag: img/flags/mo.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 네팔 eSIM
+    flag: img/flags/ne.svg
+    price: $10.99부터
+    is_highlight: false
+  - name: 네덜란드 eSIM
+    flag: img/flags/nl.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 뉴질랜드 eSIM
+    flag: img/flags/nz.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 니제르 eSIM
+    flag: img/flags/ni.svg
+    price: $23.99부터
+    is_highlight: false
+  - name: 나이지리아 eSIM
+    flag: img/flags/ng.svg
+    price: $5.99부터
+    is_highlight: false
+  - name: 노르웨이 eSIM
+    flag: img/flags/no.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
+  - name: 오만 eSIM
+    flag: img/flags/om.svg
+    price: $5.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 파키스탄 eSIM
+    flag: img/flags/pk.svg
+    price: $3.99부터
     is_highlight: false
 market_analysis:
   title: '말리 eSIM 또는 SIM 카드: 2026년 최선의 선택은?'
   subtitle: 말리 현지 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (말리) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Mali
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

@@ -1,7 +1,7 @@
 ---
 title: '오만 eSIM - 무스카트 & 니즈와 5G | 여권 번거로움 불필요 | Roami'
-date: '2026-08-18T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: '당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객은 20% 할인을 받으실 수 있으며, 프로모션 코드: web20'
 seo:
   title: 오만 eSIM - 무스카트 & 니즈와 5G | Roami
-  description: Omantel, Ooredoo 및 Vodafone에서 5G를 제공하는 최고의 오만 eSIM을 만나보세요. 여권 등록 불필요 — 공항 대기열을 건너뛰세요. 무스카트, 니즈와 및 살랄라를 커버합니다. 요금제는 $1.99부터 시작합니다.
-  keywords: 오만 eSIM, 오만 eSIM 구매, 최고의 오만 eSIM, 오만 여행 eSIM, Omantel 오만, Ooredoo 오만, Vodafone 오만, 무스카트 eSIM, 살랄라 eSIM, 니즈와 eSIM, 오만 선불 eSIM, 오만 5G eSIM, 여권 없는 오만 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Omantel, Ooredoo 및 Vodafone에서 5G를 제공하는 최고의 오만 eSIM을 만나보세요. 여권 등록 불필요 — 공항 대기열을 건너뛰세요. 무스카트, 니즈와 및 살랄라를 커버합니다. 요금제는 $5.99부터 시작합니다.
+  keywords: 오만 eSIM, 오만 eSIM 추천, 오만 eSIM 구매, 오만 eSIM 요금제, 오만 eSIM 가격, 오만 여행 eSIM, 최고의 오만 eSIM, 오만 eSIM 무제한, 오만 eSIM 사용법, 오만 선불 eSIM, 오만 eSIM 후기, 오만 5G eSIM, Omantel 오만, 무스카트 eSIM, 살랄라 eSIM, 니즈와 eSIM
+  low_price: 5.99
+  high_price: 67.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -369,63 +369,75 @@ faq_section:
         오만 eSIM의 유효 기간은 언제 시작되나요?
       a: |
         요금제 유효 기간은 구매 또는 설치 시가 아닌 오만 현지 네트워크에 연결될 때 시작됩니다. 따라서 여행 몇 주 전에 구매 및 설치해도 요금제 일수를 손실하지 않습니다. 7일 요금제는 첫 연결부터 7일간 사용 가능합니다.
+    - q: |
+        Omantel 네트워크에서 오만 eSIM은 어떻게 개통하나요?
+      a: |
+        Roami 오만 eSIM은 QR 코드 스캔만으로 개통됩니다. 결제 후 5분 이내에 이메일로 QR 코드가 오고, Omantel 및 현지 파트너 네트워크에 자동 연결됩니다. 매장 방문이나 추가 서류가 필요 없습니다.
+    - q: |
+        오만 eSIM 가격은 Omantel 선불 SIM보다 저렴한가요?
+      a: |
+        대체로 그렇습니다. Roami 오만 eSIM은 마켓플레이스 수수료 없이 직접 판매하므로 Omantel 선불 요금제보다 낮은 경우가 많고, 숨겨진 수수료가 없습니다.
+    - q: |
+        오만에서 데이터가 부족하면 Omantel 대신 어떻게 충전하나요?
+      a: |
+        같은 계정에서 더 큰 요금제를 추가 구매할 수 있습니다. Omantel 매장을 방문하거나 충전권을 살 필요 없이 온라인으로 즉시 처리됩니다.
 related_products:
   title: 관련 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 파키스탄 eSIM
+    flag: img/flags/pk.svg
+    price: $3.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 파나마 eSIM
+    flag: img/flags/pa.svg
+    price: $11.99부터
+    is_highlight: false
+  - name: 파라과이 eSIM
+    flag: img/flags/py.svg
+    price: $22.99부터
+    is_highlight: false
+  - name: 페루 eSIM
+    flag: img/flags/pe.svg
+    price: $4.99부터
+    is_highlight: false
+  - name: 필리핀 eSIM
+    flag: img/flags/ph.svg
+    price: $2.99부터
+    is_highlight: false
+  - name: 폴란드 eSIM
+    flag: img/flags/pl.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 포르투갈 eSIM
+    flag: img/flags/pt.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 푸에르토리코 eSIM
+    flag: img/flags/pu.svg
+    price: $6.99부터
+    is_highlight: false
+  - name: 카타르 eSIM
+    flag: img/flags/qa.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
+  - name: 레위니옹 eSIM
+    flag: img/flags/re.svg
     price: $1.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
+  - name: 루마니아 eSIM
+    flag: img/flags/ro.svg
     price: $1.99부터
     is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 러시아 eSIM
+    flag: img/flags/ru.svg
+    price: $2.99부터
     is_highlight: false
 market_analysis:
   title: '오만 eSIM vs 현지 SIM: 여권 불필요, 대기열 불필요, GCC 준비 완료'
   subtitle: 오만 현지 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (오만) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Oman
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)
@@ -454,7 +466,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 모든 통신사는 <strong>30일 청구 주기</strong>를 사용합니다. 7일 관광객은 요금제 가치의 <strong>75% 이상</strong>을 낭비합니다. 30일 미만의 단기 옵션이 없습니다.
     esim_title: 유연한 단기 요금제
-    esim_desc: Roami는 $1.99부터 시작하는 <strong>3/7/15/30일 요금제</strong>를 제공합니다 — 실제 여행 기간만큼만 비용을 지불하세요. 30일 강제 의무 없음.
+    esim_desc: Roami는 $5.99부터 시작하는 <strong>3/7/15/30일 요금제</strong>를 제공합니다 — 실제 여행 기간만큼만 비용을 지불하세요. 30일 강제 의무 없음.
   - icon: wifi
     title: 핫스팟 및<br>속도 정책
     prepaid_title: ''

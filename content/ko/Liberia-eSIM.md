@@ -1,7 +1,7 @@
 ---
 title: '라이베리아 eSIM 2026: 커버리지 및 속도 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Orange Liberia, Lonestar Cell MTN, LiberCell
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: 몬로비아, 그방가, 뷰캐넌, 카카타, 즈웨드루
-  main_packages: 3/7/15/30일, 무제한 데이터
+  main_packages: 3/7/15/30일, 1–5GB 데이터
 modal:
   title: 서비스 업그레이드 완료!
   btn_text: 계속하기
@@ -18,10 +18,10 @@ modal:
   text_android: '당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객은 20% 할인을 받으세요. 프로모션 코드: web20'
 seo:
   title: "라이베리아 eSIM: Orange와 Lonestar 5G 간 원활한 전환"
-  description: 몬로비아, 그방가, 뷰캐넌에서 빠른 5G를 제공하는 라이베리아 eSIM 요금제를 비교하세요. 관광객 및 여행객을 위한 Orange Liberia, Lonestar Cell MTN, LiberCell 커버리지 가이드. $1.99부터 즉시 QR 활성화.
-  keywords: 라이베리아 eSIM, 라이베리아 eSIM 구매, 최고의 라이베리아 eSIM, 라이베리아 여행 eSIM, Orange Liberia 라이베리아, Lonestar Cell MTN 라이베리아, LiberCell 라이베리아, 몬로비아 eSIM, 그방가 eSIM, 뷰캐넌 eSIM, 라이베리아 선불 eSIM, 5G 라이베리아 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: 몬로비아, 그방가, 뷰캐넌에서 빠른 5G를 제공하는 라이베리아 eSIM 요금제를 비교하세요. 관광객 및 여행객을 위한 Orange Liberia, Lonestar Cell MTN, LiberCell 커버리지 가이드. $27.99부터 즉시 QR 활성화.
+  keywords: 라이베리아 eSIM, 라이베리아 eSIM 추천, 라이베리아 eSIM 구매, 라이베리아 eSIM 요금제, 라이베리아 eSIM 가격, 라이베리아 여행 eSIM, 최고의 라이베리아 eSIM, 라이베리아 eSIM 데이터, 라이베리아 eSIM 사용법, 라이베리아 선불 eSIM, 라이베리아 eSIM 후기, 라이베리아 5G eSIM, Orange Liberia 라이베리아, 몬로비아 eSIM, 그방가 eSIM, 뷰캐넌 eSIM
+  low_price: 27.99
+  high_price: 99.99
 order_summary:
   title: 선택한 요금제
   label_data: 데이터 용량
@@ -198,7 +198,8 @@ faq_section:
     - q: |
         라이베리아의 경우 eSIM이 국제 로밍보다 저렴한가요?
       a: |
-        네 - Roami eSIM은 일반적으로 대부분의 자국 통신사 로밍 요금제보다 80-90% 저렴합니다. 라이베리아용 5GB 요금제는 $9.99인 반면, 로밍은 같은 데이터에 $50 이상이 들 수 있습니다. 또한 속도가 제한된 로밍 대신 현지 네트워크 속도를 이용할 수 있습니다.
+        네 - Roami eSIM은 일반적으로 대부분의 자국 통신사 로밍 요금제보다 80-90% 저렴합니다. 라이베리아용 5GB 요금제는 $99.99인 반면, 로밍은 같은 데이터에 $50 이상이 들 수 있습니다. 또한 속도가 제한된 로밍 대신 현지 네트워크 속도를 이용할 수 있습니다.
+
     - q: |
         라이베리아 eSIM을 소셜 미디어 및 가족과의 사진 공유에 사용할 수 있나요?
       a: |
@@ -215,63 +216,75 @@ faq_section:
         라이베리아 여행을 위해 eSIM과 포켓 WiFi를 비교하면 어떤가요?
       a: |
         eSIM이 편의성에서 승리합니다. 휴대하거나 충전하거나 여행 종료 시 반납해야 할 기기가 없습니다 - 포켓 WiFi 대여에 비해 하루 약 $3-5를 절약합니다. 포켓 WiFi는 3인 이상 그룹에 적합하지만 하나의 기기에 의존해야 하며 6-8시간 동안 충전 상태를 유지해야 합니다. eSIM을 사용하면 휴대폰이 핫스팟이 됩니다. 모든 Roami 요금제에는 최대 5대 기기용 무료 핫스팟 공유가 포함됩니다.
+    - q: |
+        라이베리아 eSIM을 설치한 뒤 Orange Liberia 번호는 어떻게 되나요?
+      a: |
+        Orange Liberia 번호는 그대로 유지됩니다. Roami 라이베리아 eSIM은 데이터 전용 회선이므로, 기존 번호로 전화·문자를 받으면서 데이터는 eSIM으로 사용할 수 있습니다.
+    - q: |
+        장기 체류 시 Orange Liberia 대비 라이베리아 eSIM 비용은 어떻게 되나요?
+      a: |
+        장기 체류에는 더 긴 유효 기간의 요금제를 선택할 수 있습니다. Orange Liberia 장기 요금제와 비교해도 약정 없이 필요한 기간만 구매할 수 있다는 점이 장점입니다.
+    - q: |
+        라이베리아 여행 중 Orange Liberia 회선은 유지한 채 eSIM 데이터 요금제를 바꿀 수 있나요?
+      a: |
+        가능합니다. 사용 중에도 더 큰 요금제를 구매해 즉시 적용할 수 있습니다. Orange Liberia 매장을 찾을 필요 없이 온라인으로 처리됩니다.
 related_products:
   title: 관련 라이베리아 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
+  - name: 리히텐슈타인 eSIM
+    flag: img/flags/li.svg
     price: $1.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 리투아니아 eSIM
+    flag: img/flags/lt.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 룩셈부르크 eSIM
+    flag: img/flags/lu.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 마카오 eSIM
+    flag: img/flags/ma.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
+  - name: 마다가스카르 eSIM
+    flag: img/flags/mg.svg
+    price: $11.99부터
+    is_highlight: false
+  - name: 말라위 eSIM
+    flag: img/flags/mw.svg
+    price: $14.99부터
+    is_highlight: false
+  - name: 말레이시아 eSIM
+    flag: img/flags/my.svg
     price: $1.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
+  - name: 몰디브 eSIM
+    flag: img/flags/mv.svg
+    price: $14.99부터
+    is_highlight: false
+  - name: 말리 eSIM
+    flag: img/flags/ml.svg
+    price: $27.99부터
+    is_highlight: false
+  - name: 몰타 eSIM
+    flag: img/flags/mt.svg
     price: $1.99부터
     is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
+  - name: 멕시코 eSIM
+    flag: img/flags/mx.svg
+    price: $3.99부터
     is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
+  - name: 몰도바 eSIM
+    flag: img/flags/mo.svg
     price: $1.99부터
     is_highlight: false
 market_analysis:
   title: '라이베리아 eSIM vs 물리적 SIM: 여행에 어떤 것이 더 나을까요?'
   subtitle: 라이베리아 현지 선불 SIM vs. eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (라이베리아) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Liberia
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 항목
   - 현지 선불 SIM (시장 데이터)
@@ -298,7 +311,7 @@ market_analysis:
   - icon: calendar-xmark
     title: 결제 주기 및<br>비용 낭비
     prepaid_title: ''
-    prepaid_desc: 요금제는 5일($5), 15일($15), 또는 30일($5-$40)의 고정 주기를 가짐. Orange Liberia 데이터 팩은 자동 갱신되지 않음; 만료 또는 데이터 소진 시 서비스 중단. 모든 가격에는 추가 15% 세금이 부과됨.
+    prepaid_desc: 요금제는 5일($99.99), 15일($64.99), 또는 30일($99.99-$99.99)의 고정 주기를 가짐. Orange Liberia 데이터 팩은 자동 갱신되지 않음; 만료 또는 데이터 소진 시 서비스 중단. 모든 가격에는 추가 15% 세금이 부과됨.
     esim_title: 유연한 단기 요금제
     esim_desc: 3일 여행에 비용의 40%를 낭비하는 LoneStar의 5일($5) 또는 15일($15) 고정 요금제와 달리 Roami는 $1.99/GB부터 시작하는 7일 요금제를 제공합니다. 사용한 만큼만 지불하고 15% 세금이 없습니다.
   - icon: wifi

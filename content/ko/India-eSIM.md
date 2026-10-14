@@ -1,7 +1,7 @@
 ---
 title: '인도 eSIM 2026 - 델리 & 타지마할 최고의 5G 요금제 | Roami'
-date: '2026-08-18T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: '당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객은 20% 할인을 받으실 수 있으며, 프로모션 코드: web20'
 seo:
   title: 인도 eSIM - 델리 & 타지마할 최고의 5G 요금제 | Roami
-  description: Airtel, Jio 및 Vi에서 5G를 제공하는 최고의 인도 선불 eSIM을 만나보세요. KYC 또는 여권 불필요 — 즉시 QR 활성화. 28일 낭비 없음. $1.99부터.
-  keywords: 인도 eSIM, 인도 eSIM 구매, 최고의 인도 eSIM, 인도 여행 eSIM, Airtel 인도, Jio 인도, Vi 인도, 델리 eSIM, 뭄바이 eSIM, 방갈로르 eSIM, 인도 선불 eSIM, 인도 5G eSIM, 타지마할 eSIM, 자이푸르 eSIM, 케랄라 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Airtel, Jio 및 Vi에서 5G를 제공하는 최고의 인도 선불 eSIM을 만나보세요. KYC 또는 여권 불필요 — 즉시 QR 활성화. 28일 낭비 없음. $3.99부터.
+  keywords: 인도 eSIM, 인도 eSIM 추천, 인도 eSIM 구매, 인도 eSIM 요금제, 인도 eSIM 가격, 인도 여행 eSIM, 최고의 인도 eSIM, 인도 eSIM 무제한, 인도 eSIM 사용법, 인도 선불 eSIM, 인도 eSIM 후기, 인도 5G eSIM, Airtel 인도, 델리 eSIM, 뭄바이 eSIM, 방갈로르 eSIM
+  low_price: 3.99
+  high_price: 99.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -385,63 +385,75 @@ faq_section:
         데이터가 부족하면 인도 eSIM을 충전할 수 있나요?
       a: |
         네 — 언제든지 Roami 계정을 통해 충전할 수 있습니다. 현지 충전 플랫폼(SwiftRecharge.com은 종종 외국 카드에 높은 수수료를 부과)이 필요한 인도 선불 SIM과 달리, Roami는 추가 수수료 없이 글로벌 결제 방법을 허용합니다.
+    - q: |
+        Airtel 선불 SIM과 달리 인도 eSIM 개통에 별도 서류가 필요한가요?
+      a: |
+        Airtel 선불 SIM은 여권 등록이 필요한 경우가 많지만, Roami 인도 eSIM은 데이터 전용이라 신분증 업로드나 매장 방문 없이 온라인으로 즉시 개통됩니다.
+    - q: |
+        인도 eSIM을 Airtel 선불 요금제 대신 쓰면 비용이 얼마나 줄어드나요?
+      a: |
+        요금제와 사용량에 따라 다르지만, 매장 방문·등록·미사용 데이터 비용을 없앨 수 있어 실질 부담이 낮아집니다. 모든 요금제는 선불입니다.
+    - q: |
+        인도 eSIM을 충전하면 Airtel 회선도 함께 갱신되나요?
+      a: |
+        아니요. Roami 인도 eSIM과 Airtel 물리 회선은 별개입니다. eSIM 요금제를 추가 구매해도 Airtel 요금제에는 영향이 없습니다.
 related_products:
   title: 관련 인도 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
+  - name: 인도네시아 eSIM
+    flag: img/flags/id.svg
     price: $1.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 이라크 eSIM
+    flag: img/flags/iq.svg
+    price: $9.99부터
+    is_highlight: false
+  - name: 아일랜드 eSIM
+    flag: img/flags/ie.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 이스라엘 eSIM
+    flag: img/flags/il.svg
+    price: $2.99부터
+    is_highlight: false
+  - name: 이탈리아 eSIM
+    flag: img/flags/it.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
+  - name: 코트디부아르 eSIM
+    flag: img/flags/ci.svg
+    price: $9.99부터
+    is_highlight: false
+  - name: 자메이카 eSIM
+    flag: img/flags/jm.svg
+    price: $11.99부터
     is_highlight: false
   - name: 일본 eSIM
     flag: img/flags/jp.svg
     price: $1.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
+  - name: 요르단 eSIM
+    flag: img/flags/jo.svg
+    price: $6.99부터
     is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
+  - name: 카자흐스탄 eSIM
+    flag: img/flags/kz.svg
+    price: $3.99부터
     is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
+  - name: 케냐 eSIM
+    flag: img/flags/ke.svg
+    price: $7.99부터
     is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 코소보 eSIM
+    flag: img/flags/xk.svg
+    price: $13.99부터
     is_highlight: false
 market_analysis:
   title: '인도 eSIM vs 선불 SIM 카드: 전환할 가치가 있나요?'
   subtitle: 인도 현지 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (인도) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/India
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

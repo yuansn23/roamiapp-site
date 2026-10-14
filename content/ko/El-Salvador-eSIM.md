@@ -1,7 +1,7 @@
 ---
 title: '엘살바도르 eSIM 2026: 커버리지 및 속도 가이드 | Roami'
-date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: '당사의 eSIM 서비스가 <strong>PhoneSIM</strong>으로 업그레이드되었습니다.<br>신규 고객은 20% 할인을 받으실 수 있습니다. 프로모션 코드: web20'
 seo:
   title: 엘살바도르 eSIM | 여행을 위한 최고의 여행 eSIM
-  description: 엘살바도르에서 빠른 5G 데이터를 즐기세요. 즉시 활성화되는 무제한 5G 데이터. 산살바도르, 산타아나 및 산미겔을 커버합니다. 즉시 활성화.
-  keywords: 엘살바도르 eSIM, 엘살바도르 eSIM 구매, 최고의 엘살바도르 eSIM, 엘살바도르 여행 eSIM, Tigo 엘살바도르, Claro 엘살바도르, Movistar 엘살바도르, 산살바도르 eSIM, 산타아나 eSIM, 산미겔 eSIM, 엘살바도르 선불 eSIM, 5G 엘살바도르 eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: 엘살바도르 여행 eSIM을 찾고 계신가요? 산살바도르, 산타아나, 산미겔에서 무제한 5G 데이터. Tigo, Claro, Movistar 커버리지 가이드. $23.99부터 즉시 QR 활성화.
+  keywords: 엘살바도르 eSIM, 엘살바도르 eSIM 추천, 엘살바도르 eSIM 구매, 엘살바도르 eSIM 요금제, 엘살바도르 eSIM 가격, 엘살바도르 여행 eSIM, 최고의 엘살바도르 eSIM, 엘살바도르 eSIM 무제한, 엘살바도르 eSIM 사용법, 엘살바도르 선불 eSIM, 엘살바도르 eSIM 후기, 엘살바도르 5G eSIM, Tigo 엘살바도르, 산살바도르 eSIM, 산타아나 eSIM, 산미겔 eSIM
+  low_price: 23.99
+  high_price: 165.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -298,63 +298,75 @@ faq_section:
         엘살바도르에서 eSIM을 사용하는 동안 내 휴대폰에 기존 홈 SIM을 유지할 수 있나요?
       a: |
         네 — 홈 SIM은 SMS(은행 코드, 2FA 로그인)를 위해 슬롯 1에 그대로 둡니다. eSIM은 슬롯 2에서 데이터를 처리합니다. 홈 SIM의 데이터 로밍을 비활성화하여 MB당 최대 $10-15의 요금이 부과되는 것을 방지하세요.
+    - q: |
+        엘살바도르 eSIM을 설치한 뒤 Tigo 번호는 어떻게 되나요?
+      a: |
+        Tigo 번호는 그대로 유지됩니다. Roami 엘살바도르 eSIM은 데이터 전용 회선이므로, 기존 번호로 전화·문자를 받으면서 데이터는 eSIM으로 사용할 수 있습니다.
+    - q: |
+        장기 체류 시 Tigo 대비 엘살바도르 eSIM 비용은 어떻게 되나요?
+      a: |
+        장기 체류에는 더 긴 유효 기간의 요금제를 선택할 수 있습니다. Tigo 장기 요금제와 비교해도 약정 없이 필요한 기간만 구매할 수 있다는 점이 장점입니다.
+    - q: |
+        엘살바도르 여행 중 Tigo 회선은 유지한 채 eSIM 데이터 요금제를 바꿀 수 있나요?
+      a: |
+        가능합니다. 사용 중에도 더 큰 요금제를 구매해 즉시 적용할 수 있습니다. Tigo 매장을 찾을 필요 없이 온라인으로 처리됩니다.
 related_products:
   title: 관련 엘살바도르 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
+  - name: 에스토니아 eSIM
+    flag: img/flags/ee.svg
     price: $1.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
-    price: $1.99부터
+  - name: 에스와티니 eSIM
+    flag: img/flags/sz.svg
+    price: $19.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
-    price: $1.99부터
+  - name: 페로 제도 eSIM
+    flag: img/flags/fo.svg
+    price: $5.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99부터
+  - name: 피지 eSIM
+    flag: img/flags/fj.svg
+    price: $6.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
+  - name: 핀란드 eSIM
+    flag: img/flags/fi.svg
     price: $1.99부터
     is_highlight: false
   - name: 프랑스 eSIM
     flag: img/flags/fr.svg
     price: $1.99부터
     is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
+  - name: 프랑스령 기아나 eSIM
+    flag: img/flags/gf.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 가봉 eSIM
+    flag: img/flags/ga.svg
+    price: $14.99부터
+    is_highlight: false
+  - name: 조지아 eSIM
+    flag: img/flags/ge.svg
+    price: $3.99부터
     is_highlight: false
   - name: 독일 eSIM
     flag: img/flags/de.svg
     price: $1.99부터
     is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 가나 eSIM
+    flag: img/flags/gh.svg
+    price: $7.99부터
+    is_highlight: false
+  - name: 지브롤터 eSIM
+    flag: img/flags/gi.svg
+    price: $5.99부터
     is_highlight: false
 market_analysis:
   title: '엘살바도르 eSIM 대 선불 SIM: 비용 및 편의성 비교'
   subtitle: 엘살바도르 현지 선불 SIM 대 eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (엘살바도르) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/El-Salvador
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

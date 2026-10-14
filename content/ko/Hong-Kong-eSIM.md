@@ -1,7 +1,7 @@
 ---
 title: '홍콩 eSIM 2026 - 빅토리아 하버 최고의 5G 요금제 | Roami'
-date: '2026-08-18T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 홍콩 eSIM - 빅토리아 하버 최고의 5G 요금제
   description: CSL, SmarTone 및 CMHK의 5G를 지원하는 최고의 홍콩 선불 eSIM 요금제를 만나보세요. 등록이나 신분증 불필요 — 즉시 QR 활성화. 30일 낭비 없음. $1.99부터.
-  keywords: 홍콩 eSIM, 홍콩 eSIM 구매, 최고의 홍콩 eSIM, 홍콩 여행 eSIM, CSL 홍콩, SmarTone 홍콩, China Mobile 홍콩, 홍콩섬 eSIM, 구룡 eSIM, 쯔완 eSIM, 홍콩 선불 eSIM, 5G 홍콩 eSIM, 디즈니랜드 홍콩 eSIM, 빅토리아 하버 eSIM
+  keywords: 홍콩 eSIM, 홍콩 eSIM 추천, 홍콩 eSIM 구매, 홍콩 eSIM 요금제, 홍콩 eSIM 가격, 홍콩 여행 eSIM, 최고의 홍콩 eSIM, 홍콩 eSIM 무제한, 홍콩 eSIM 사용법, 홍콩 선불 eSIM, 홍콩 eSIM 후기, 홍콩 5G eSIM, CSL 홍콩, 홍콩섬 eSIM, 구룡 eSIM, 쯔완 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 57.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -393,63 +393,75 @@ faq_section:
         데이터가 부족하면 홍콩 eSIM을 충전할 수 있나요?
       a: |
         네 — 언제든지 Roami 계정을 통해 충전할 수 있습니다. 복잡한 충전 절차를 가진 홍콩 선불 SIM(CMHK의 온라인 시스템은 중국 본토 발행 UnionPay 카드만 허용)과 달리, Roami는 글로벌 결제 수단을 허용합니다. 새 SIM을 구매하거나 충전 바우처를 위해 7-Eleven을 찾을 필요가 없습니다.
+    - q: |
+        아이폰에서 CSL 홍콩 eSIM을 추가하는 방법은 무엇인가요?
+      a: |
+        설정 > 셀룰러(또는 모바일 데이터) > 'eSIM 추가'를 선택하고 이메일로 받은 QR 코드를 스캔하면 됩니다. CSL 회선은 그대로 유지됩니다.
+    - q: |
+        예산 여행자에게 CSL 대비 홍콩 eSIM이 유리한 이유는 무엇인가요?
+      a: |
+        선불이고 자동 갱신이 없어 여행이 끝나면 추가 청구가 없습니다. 또한 CSL 매장을 찾을 필요 없이 온라인으로 구매·개통할 수 있어 시간과 비용을 아낍니다.
+    - q: |
+        CSL 요금제와 별개로 홍콩 eSIM 데이터 한도를 초과하면 어떻게 되나요?
+      a: |
+        데이터를 모두 사용하면 회선이 정지되며, 자동으로 추가 청구되지 않습니다. 필요하면 같은 계정에서 새 요금제를 구매해 이어서 사용할 수 있습니다.
 related_products:
   title: 관련 홍콩 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국 eSIM
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
+  - name: 헝가리 eSIM
+    flag: img/flags/hu.svg
     price: $1.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 아이슬란드 eSIM
+    flag: img/flags/is.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 인도 eSIM
+    flag: img/flags/in.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 인도네시아 eSIM
+    flag: img/flags/id.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 이라크 eSIM
+    flag: img/flags/iq.svg
+    price: $9.99부터
+    is_highlight: false
+  - name: 아일랜드 eSIM
+    flag: img/flags/ie.svg
     price: $1.99부터
+    is_highlight: false
+  - name: 이스라엘 eSIM
+    flag: img/flags/il.svg
+    price: $2.99부터
+    is_highlight: false
+  - name: 이탈리아 eSIM
+    flag: img/flags/it.svg
+    price: $1.99부터
+    is_highlight: false
+  - name: 코트디부아르 eSIM
+    flag: img/flags/ci.svg
+    price: $9.99부터
+    is_highlight: false
+  - name: 자메이카 eSIM
+    flag: img/flags/jm.svg
+    price: $11.99부터
     is_highlight: false
   - name: 일본 eSIM
     flag: img/flags/jp.svg
     price: $1.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 요르단 eSIM
+    flag: img/flags/jo.svg
+    price: $6.99부터
     is_highlight: false
 market_analysis:
   title: '홍콩 eSIM vs 현지 선불 SIM: 어느 것이 더 편리한가요?'
   subtitle: 홍콩 현지 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (Hong-Kong) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Hong-Kong
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)

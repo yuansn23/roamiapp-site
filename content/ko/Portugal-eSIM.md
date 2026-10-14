@@ -1,7 +1,7 @@
 ---
 title: '포르투갈 eSIM 2026 - 리스본 & 알가르브 최고의 5G 요금제 | Roami'
-date: '2026-08-18T00:00:00+00:00'
-lastmod: 2026-08-20T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 포르투갈 eSIM - 리스본 & 알가르브 최고의 5G 요금제
   description: Vodafone, MEO 및 NOS에서 5G를 제공하는 최고의 포르투갈 선불 eSIM을 만나보세요. 신분증 불필요 — 즉시 QR 활성화. 글로벌 결제 허용 — 현지 카드 제한 없음. $1.99부터.
-  keywords: 포르투갈 eSIM, 포르투갈 eSIM 구매, 최고의 포르투갈 eSIM, 포르투갈 여행 eSIM, Vodafone 포르투갈, MEO 포르투갈, NOS 포르투갈, 리스본 eSIM, 포르투 eSIM, 파루 eSIM, 포르투갈 선불 eSIM, 포르투갈 5G eSIM, 알가르브 eSIM, 두루 밸리 eSIM, 신트라 eSIM
+  keywords: 포르투갈 eSIM, 포르투갈 eSIM 추천, 포르투갈 eSIM 구매, 포르투갈 eSIM 요금제, 포르투갈 eSIM 가격, 포르투갈 여행 eSIM, 최고의 포르투갈 eSIM, 포르투갈 eSIM 무제한, 포르투갈 eSIM 사용법, 포르투갈 선불 eSIM, 포르투갈 eSIM 후기, 포르투갈 5G eSIM, Vodafone Portugal 포르투갈, 리스본 eSIM, 포르투 eSIM, 파루 eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 71.99
 order_summary:
   title: 선택한 요금제
   label_data: 포함 데이터
@@ -401,63 +401,75 @@ faq_section:
         데이터가 부족하면 포르투갈 eSIM을 충전할 수 있나요?
       a: |
         네 — 언제든지 Roami 계정을 통해 원클릭으로 충전할 수 있습니다. 복잡한 결제 제한이 있는 포르투갈 선불 SIM(MEO/NOS는 국제 카드 거부, Vodafone은 3개월 이상 된 카드 요구, NOS는 Payshop 수수료 부과)과 달리, Roami는 장벽 없이 글로벌 결제 방법을 허용합니다.
+    - q: |
+        포르투갈 eSIM을 설치한 뒤 Vodafone Portugal 번호는 어떻게 되나요?
+      a: |
+        Vodafone Portugal 번호는 그대로 유지됩니다. Roami 포르투갈 eSIM은 데이터 전용 회선이므로, 기존 번호로 전화·문자를 받으면서 데이터는 eSIM으로 사용할 수 있습니다.
+    - q: |
+        장기 체류 시 Vodafone Portugal 대비 포르투갈 eSIM 비용은 어떻게 되나요?
+      a: |
+        장기 체류에는 더 긴 유효 기간의 요금제를 선택할 수 있습니다. Vodafone Portugal 장기 요금제와 비교해도 약정 없이 필요한 기간만 구매할 수 있다는 점이 장점입니다.
+    - q: |
+        포르투갈 여행 중 Vodafone Portugal 회선은 유지한 채 eSIM 데이터 요금제를 바꿀 수 있나요?
+      a: |
+        가능합니다. 사용 중에도 더 큰 요금제를 구매해 즉시 적용할 수 있습니다. Vodafone Portugal 매장을 찾을 필요 없이 온라인으로 처리됩니다.
 related_products:
   title: 관련 포르투갈 eSIM 요금제
   items:
-  - name: 미국 eSIM
-    flag: img/flags/us.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 영국
-    flag: img/flags/gb.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 유럽 eSIM
-    flag: img/flags/eu.svg
-    price: $1.99부터
+  - name: 푸에르토리코 eSIM
+    flag: img/flags/pu.svg
+    price: $6.99부터
     is_highlight: true
-  - name: 캐나다 eSIM
-    flag: img/flags/ca.svg
+  - name: 카타르 eSIM
+    flag: img/flags/qa.svg
     price: $1.99부터
     is_highlight: false
-  - name: 터키 eSIM
-    flag: img/flags/tr.svg
+  - name: 레위니옹 eSIM
+    flag: img/flags/re.svg
     price: $1.99부터
     is_highlight: false
-  - name: 중국 eSIM
-    flag: img/flags/cn.svg
+  - name: 루마니아 eSIM
+    flag: img/flags/ro.svg
     price: $1.99부터
     is_highlight: false
-  - name: 일본 eSIM
-    flag: img/flags/jp.svg
+  - name: 러시아 eSIM
+    flag: img/flags/ru.svg
+    price: $2.99부터
+    is_highlight: false
+  - name: 사우디아라비아 eSIM
+    flag: img/flags/sa.svg
+    price: $3.99부터
+    is_highlight: false
+  - name: 세네갈 eSIM
+    flag: img/flags/se.svg
+    price: $12.99부터
+    is_highlight: false
+  - name: 세이셸 eSIM
+    flag: img/flags/sc.svg
+    price: $9.99부터
+    is_highlight: false
+  - name: 시에라리온 eSIM
+    flag: img/flags/si.svg
+    price: $10.99부터
+    is_highlight: false
+  - name: 싱가포르 eSIM
+    flag: img/flags/sg.svg
     price: $1.99부터
     is_highlight: false
-  - name: 홍콩 eSIM
-    flag: img/flags/hk.svg
+  - name: 슬로바키아 eSIM
+    flag: img/flags/sl.svg
     price: $1.99부터
     is_highlight: false
-  - name: 프랑스 eSIM
-    flag: img/flags/fr.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 스페인 eSIM
-    flag: img/flags/es.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 독일 eSIM
-    flag: img/flags/de.svg
-    price: $1.99부터
-    is_highlight: false
-  - name: 호주 eSIM
-    flag: img/flags/au.svg
-    price: $1.99부터
+  - name: 남아프리카 eSIM
+    flag: img/flags/za.svg
+    price: $3.99부터
     is_highlight: false
 market_analysis:
   title: '포르투갈 eSIM vs 현지 SIM 카드: 어떤 것이 더 많은 비용을 절약하나요?'
   subtitle: 포르투갈 현지 선불 SIM vs eSIM 솔루션 (2024/2025 벤치마크)
   citation:
-    text: '데이터 출처: Prepaid Data SIM Card Wiki (포르투갈) + 현지 통신사 사이트'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Portugal
+    text: '데이터 출처: GSMA Mobile Connectivity Index + 현지 통신사 사이트'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - 비교 매트릭스
   - 현지 선불 SIM (시장 데이터)
