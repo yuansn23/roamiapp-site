@@ -1,6 +1,6 @@
 ---
 title: 'eSIM زامبيا 2026: دليل الخطط والتغطية | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,9 @@ modal:
 seo:
   title: eSIM زامبيا | بيانات مسبقة الدفع غير محدودة لرحلتك
   description: "أفضل eSIM سفر مسبق الدفع من Roami إلى زامبيا. بيانات غير محدودة 5G على أفضل الشبكات. تغطي لوساكا وكيتوي وندولا. تفعيل فوري."
-  keywords: eSIM زامبيا، شراء eSIM زامبيا، أفضل eSIM زامبيا، eSIM السفر إلى زامبيا، Airtel Zambia زامبيا، MTN Zambia زامبيا، Zamtel
-    زامبيا، eSIM لوساكا، eSIM ندولا، eSIM كيتوي، eSIM زامبيا مسبقة الدفع، eSIM 5G زامبيا
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM زامبيا، شراء eSIM زامبيا، أفضل eSIM زامبيا، eSIM زامبيا رخيصة، eSIM زامبيا مسبقة الدفع، باقة eSIM زامبيا، eSIM زامبيا غير محدودة، eSIM زامبيا 5G، أفضل eSIM لـ زامبيا، سعر eSIM زامبيا، تفعيل eSIM زامبيا، تغطية eSIM زامبيا، Airtel Zambia زامبيا، eSIM لوساكا، eSIM ندولا، eSIM كيتوي
+  low_price: 11.99
+  high_price: 54.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -41,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/za.svg
   flag_alt: علم زامبيا
-  title: 'eSIM زامبيا: شبكة وتغطية موثوقة للمسافرين'
+  title: 'eSIM زامبيا: بيانات موثوقة طوال رحلتك'
   subtitle: لا رسوم خفية | إنترنت بدون قلق | دعم 24/7 - أفضل eSIM مسبق الدفع للمسافرين إلى زامبيا
 features:
-  title: 'لماذا يختار المسافرون إلى زامبيا Roami: التغطية، السرعة والخدمة'
+  title: ما يميز Roami للمسافرين إلى زامبيا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: التبديل التلقائي
     desc: يتصل تلقائيًا بأفضل شركات الاتصال في زامبيا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM زامبيا: خطط تناسب كل مدة رحلة'
+plans_title: 'خطط eSIM زامبيا: من رحلة قصيرة إلى إقامة طويلة'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -117,7 +116,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM زامبيا: دليل المشغلين وخريطة التغطية'
+  title: 'تغطية eSIM زامبيا: أين تحصل على أفضل إشارة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -150,7 +149,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM زامبيا: ما يجب معرفته قبل الذهاب'
+  title: 'نصائح eSIM زامبيا: جهّز اتصالك قبل الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -171,7 +170,7 @@ reminders:
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM زامبيا: 3 خطوات بسيطة'
+  title: 'تركيب eSIM زامبيا: من الشراء إلى الاتصال'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -198,7 +197,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM زامبيا
+    title: استفسارات شائعة عن eSIM زامبيا
     questions:
     - q: |
         كيف يقارن Roami بـ Holafly لـ eSIM في زامبيا؟
@@ -211,7 +210,7 @@ faq_section:
     - q: |
         هل يمكنني الحصول على eSIM لـ زامبيا دون إنفاق الكثير؟
       a: |
-        بالتأكيد. تبدأ خطط eSIM زامبيا من Roami من 1.99 دولار. خيار 5 جيجابايت / 15 يومًا (9.99 دولار) هو الأكثر شيوعًا بين المسافرين — فهو يتعامل بشكل مريح مع الخرائط وواتساب وإنستغرام والبريد الإلكتروني. إذا كنت مستخدمًا كثيفًا للبيانات، فإن خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) تمنحك راحة البال. تخطي كاونتر SIM في المطار يوفر لك 30-50٪ والمتاعب الناتجة عن الانتظار. هل تحتاج إلى تعديل؟ يمكنك الشحن في أي وقت من تطبيق Roami.
+        بالتأكيد. تبدأ خطط eSIM زامبيا من Roami من 11.99 دولار. خيار 5 جيجابايت / 15 يومًا (54.99 دولار) هو الأكثر شيوعًا بين المسافرين — فهو يتعامل بشكل مريح مع الخرائط وواتساب وإنستغرام والبريد الإلكتروني. إذا كنت مستخدمًا كثيفًا للبيانات، فإن خطط 5 جيجابايت (54.99 دولار) أو غير المحدودة (52.99 دولار) تمنحك راحة البال. تخطي كاونتر SIM في المطار يوفر لك 30-50٪ والمتاعب الناتجة عن الانتظار. هل تحتاج إلى تعديل؟ يمكنك الشحن في أي وقت من تطبيق Roami.
     - q: |
         هل يمكنني استخدام تطبيقات الملاحة مثل خرائط Google مع eSIM في زامبيا؟
       a: |
@@ -232,55 +231,67 @@ faq_section:
         ماذا يحدث إذا استخدمت كل بياناتي في زامبيا قبل انتهاء صلاحية خطتي؟
       a: |
         قم بالشحن من تطبيق Roami. يتم تنشيط البيانات الجديدة فورًا — لا حاجة لرمز QR جديد، لا إعادة تثبيت. نوصي بالشحن عندما يتبقى لديك حوالي 20٪ لتجنب أي انقطاع.
+    - q: |
+        هل يجب أن أشتري eSIM زامبيا قبل المغادرة؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        هل تُفرض رسوم إضافية على أسعار eSIM زامبيا؟
+      a: |
+        بما أنك تختار الحجم المناسب، يكون eSIM أقل هدرًا للمال في زامبيا. بطاقات SIM المحلية في زامبيا تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        هل تكفي بيانات eSIM لإقامة طويلة في زامبيا؟
+      a: |
+        eSIM زامبيا بنظام مسبق الدفع، ويمكن شراء باقة إضافية من التطبيق عند نقص البيانات. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM ذات الصلة
+  title: وجهات مرتبطة بـ زامبيا وخططها
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
+  - name: eSIM السعودية
+    flag: img/flags/sa.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM أوزبكستان
+    flag: img/flags/uz.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM نيوزيلندا
+    flag: img/flags/nz.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM الفلبين
+    flag: img/flags/ph.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM ليتوانيا
+    flag: img/flags/lt.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
+  - name: eSIM الجزائر
+    flag: img/flags/dz.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM جمهورية الدومينيكان
+    flag: img/flags/do.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM البحرين
+    flag: img/flags/bh.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM البوسنة والهرسك
+    flag: img/flags/ba.svg
+    price: من 30.99 دولار
+    is_highlight: false
+  - name: eSIM لاتفيا
+    flag: img/flags/lv.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM مصر
+    flag: img/flags/eg.svg
+    price: من 2.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM أيرلندا
+    flag: img/flags/ie.svg
     price: من 1.99 دولار
     is_highlight: false
 ---

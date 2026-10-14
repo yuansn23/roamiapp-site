@@ -1,6 +1,6 @@
 ---
 title: 'eSIM المملكة المتحدة 2026 - أفضل خطة 5G للندن وأدنبرة | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM المملكة المتحدة - أفضل خطة بيانات 5G للمسافرين"
   description: "أفضل eSIM مسبق الدفع في المملكة المتحدة مع 5G على إي إي وفودافون وO2. تفعيل فوري عبر QR. يشمل تجوال الاتحاد الأوروبي. وخطط مرنة."
-  keywords: eSIM المملكة المتحدة, شراء eSIM المملكة المتحدة, أفضل eSIM المملكة المتحدة, eSIM سفر المملكة المتحدة, فودافون المملكة المتحدة, إي إي المملكة المتحدة, O2 المملكة المتحدة, eSIM لندن, eSIM مانشستر, eSIM برمنغهام, eSIM مسبق الدفع المملكة المتحدة, 5G eSIM المملكة المتحدة, eSIM المملكة المتحدة بدون هوية, eSIM لمترو لندن, eSIM بريطانيا العظمى, eSIM إنجلترا
+  keywords: eSIM المملكة المتحدة، شراء eSIM المملكة المتحدة، أفضل eSIM المملكة المتحدة، eSIM المملكة المتحدة رخيصة، eSIM المملكة المتحدة مسبقة الدفع، باقة eSIM المملكة المتحدة، eSIM المملكة المتحدة غير محدودة، eSIM المملكة المتحدة 5G، أفضل eSIM لـ المملكة المتحدة، سعر eSIM المملكة المتحدة، تفعيل eSIM المملكة المتحدة، تغطية eSIM المملكة المتحدة، فودافون المملكة المتحدة، eSIM لندن، eSIM مانشستر، eSIM برمنغهام
   low_price: 1.99
-  high_price: 39.9
+  high_price: 54.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/gb.svg
   flag_alt: علم المملكة المتحدة
-  title: 'eSIM المملكة المتحدة: 5G في لندن وأدنبرة وما بعدها — لا حاجة لجواز سفر'
+  title: 'eSIM المملكة المتحدة: اتصال واضح وتغطية شاملة'
   subtitle: لا هوية أو جواز سفر مطلوب | 5G على إي إي وفودافون وO2 | يشمل التجوال في الاتحاد الأوروبي | تسليم فوري للـ QR
 features:
-  title: 'لماذا يختار مسافرو المملكة المتحدة Roami: السرعة والتغطية والدعم'
+  title: لماذا تفضّل روامي لرحلة المملكة المتحدة
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بشبكات فودافون وإي إي وO2 للحصول على أفضل إشارة في جميع أنحاء المملكة المتحدة
-plans_title: 'شراء eSIM المملكة المتحدة: خطط تناسب كل مدة رحلة'
+plans_title: 'شراء باقة eSIM المملكة المتحدة: خطط بسيطة وأسعار شفافة'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -293,7 +293,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM المملكة المتحدة: دليل شبكات إي إي وفودافون وO2'
+  title: 'تغطية eSIM المملكة المتحدة: من العاصمة إلى المناطق النائية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -324,7 +324,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM المملكة المتحدة: ما يجب معرفته قبل الذهاب'
+  title: 'تحضير eSIM المملكة المتحدة: أهم النقاط قبل الانطلاق'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -345,7 +345,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM المملكة المتحدة: 3 خطوات بسيطة'
+  title: 'تفعيل eSIM المملكة المتحدة: طريقة بسيطة وسريعة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -370,7 +370,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM المملكة المتحدة
+    title: ما تحتاج معرفته عن eSIM المملكة المتحدة
     questions:
     - q: |
         هل أحتاج حقًا إلى جواز سفر أو هوية لاستخدام eSIM المملكة المتحدة من Roami؟
@@ -408,63 +408,75 @@ faq_section:
         أي شبكة مشغل في المملكة المتحدة ستستخدمها eSIM Roami؟
       a: |
         تتصل Roami تلقائيًا بأفضل شبكة متاحة من فودافون وإي إي وO2 — أكبر ثلاثة مشغلين في المملكة المتحدة. تضمن ميزة التبديل التلقائي هذه حصولك على أقوى إشارة أينما كنت، سواء في وسط لندن أو في ريف أدنبرة.
+    - q: |
+        هل يمكنني شراء eSIM المملكة المتحدة لعائلتي معًا؟
+      a: |
+        يتيح Roami شراء eSIM المملكة المتحدة من التطبيق أو الموقع. بعد الوصول إلى المملكة المتحدة، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        كيف يختلف eSIM المملكة المتحدة عن باقات التجوال الدولية؟
+      a: |
+        بما أنك تختار الحجم المناسب، يكون eSIM أقل هدرًا للمال في المملكة المتحدة. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        هل يمكنني التبديل بين عدة باقات بيانات في eSIM المملكة المتحدة؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM ذات صلة بالمملكة المتحدة
+  title: باقات eSIM مقترحة حول المملكة المتحدة
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM بيلاروسيا
+    flag: img/flags/by.svg
+    price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM بنما
+    flag: img/flags/pa.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: true
   - name: eSIM كندا
     flag: img/flags/ca.svg
-    price: ابتداءً من 1.99 دولار
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM سيراليون
+    flag: img/flags/si.svg
+    price: من 10.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM ماكاو
+    flag: img/flags/ma.svg
+    price: من 1.99 دولار
     is_highlight: false
   - name: eSIM ألمانيا
     flag: img/flags/de.svg
-    price: ابتداءً من 1.99 دولار
+    price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM السعودية
+    flag: img/flags/sa.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM أوزبكستان
+    flag: img/flags/uz.svg
+    price: من 1.99 دولار
+    is_highlight: true
+  - name: eSIM نيوزيلندا
+    flag: img/flags/nz.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM الفلبين
+    flag: img/flags/ph.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM ليتوانيا
+    flag: img/flags/lt.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM الجزائر
+    flag: img/flags/dz.svg
+    price: من 3.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM المملكة المتحدة مقابل شريحة SIM الفعلية'
   subtitle: شرائح SIM المحلية المدفوعة مسبقًا في المملكة المتحدة مقابل حلول eSIM (معايير 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقة بيانات SIM المدفوعة مسبقًا (المملكة المتحدة) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/United-Kingdom
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - شريحة SIM محلية مسبقة الدفع (بيانات السوق)

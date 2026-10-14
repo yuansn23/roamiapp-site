@@ -1,6 +1,6 @@
 ---
 title: 'eSIM بلغاريا 2026: دليل السفر والشبكات | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM بلغاريا | أفضل بيانات 5G مدفوعة مسبقاً للمسافرين"
   description: "أفضل eSIM سفر مدفوعة مسبقاً من روامي لبلغاريا. بيانات 5G غير محدودة وتفعيل فوري. تغطي صوفيا وبلوفديف والساحل. اشترِ خطتك الآن."
-  keywords: eSIM بلغاريا، شراء eSIM بلغاريا، أفضل eSIM بلغاريا، eSIM السفر إلى بلغاريا، A1 بلغاريا، تيلينور بلغاريا، فيفاكوم بلغاريا، eSIM صوفيا، eSIM بلوفديف، eSIM فارنا، eSIM بلغاريا مسبقة الدفع، 5G eSIM بلغاريا
+  keywords: eSIM بلغاريا، شراء eSIM بلغاريا، أفضل eSIM بلغاريا، eSIM بلغاريا رخيصة، eSIM بلغاريا مسبقة الدفع، باقة eSIM بلغاريا، eSIM بلغاريا غير محدودة، eSIM بلغاريا 5G، أفضل eSIM لـ بلغاريا، سعر eSIM بلغاريا، تفعيل eSIM بلغاريا، تغطية eSIM بلغاريا، A1 بلغاريا بلغاريا، eSIM صوفيا، eSIM بلوفديف، eSIM فارنا
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/bg.svg
   flag_alt: علم بلغاريا
-  title: 'eSIM بلغاريا: شبكة وتغطية موثوقة للمسافرين'
+  title: 'eSIM بلغاريا: بيانات 5G سريعة لكل مدينة ووجهة'
   subtitle: تفعيل فوري | تغطية 5G عالية التقييم | دعم 24/7 - أفضل eSIM مسبقة الدفع لبلغاريا
 features:
-  title: 'لماذا يختار مسافرو بلغاريا روامي: الشبكة، الخطط والقيمة'
+  title: 'لماذا يختار المسافرون إلى بلغاريا Roami: السرعة والتغطية والدعم'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائياً بأفضل مشغلي بلغاريا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM بلغاريا: خطط تناسب كل مدة سفر'
+plans_title: 'شراء eSIM بلغاريا: خطط لكل مدة رحلة'
 plans_data:
   30 يوم:
   - spec: 20 جيجابايت
@@ -293,7 +293,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM بلغاريا: تغطية الشبكة ومقارنة المشغلين'
+  title: 'تغطية eSIM بلغاريا: دليل كامل للشبكات المحلية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -324,7 +324,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM بلغاريا: ما يجب معرفته قبل الذهاب'
+  title: 'نصائح إعداد eSIM بلغاريا: ما يجب معرفته قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -373,7 +373,7 @@ faq_section:
     - q: |
         هل ستبطأ خطة eSIM بلغاريا غير المحدودة إذا استخدمت الكثير من البيانات؟
       a: |
-        هناك سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح — فقط لا فيديو سلس. واقعياً، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقاً، فإن خطة ثابتة 10 جيجابايت (14.99 دولار) أو 20 جيجابايت (24.99 دولار) تزيل عدم اليقين تماماً.
+        هناك سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح — فقط لا فيديو سلس. واقعياً، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقاً، فإن خطة ثابتة 10 جيجابايت (14.99 دولار) أو 20 جيجابايت (20.99 دولار) تزيل عدم اليقين تماماً.
     - q: |
         هل من الآمن تحميل جواز سفري لتسجيل eSIM بلغاريا؟ أنا قلق بشأن الخصوصية.
       a: |
@@ -402,63 +402,75 @@ faq_section:
         متى تبدأ فترة صلاحية eSIM بلغاريا الخاصة بي؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في بلغاريا، وليس عند الشراء أو التثبيت. لذلك يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة. تمنحك خطة 7 أيام 7 أيام كاملة من أول اتصال.
+    - q: |
+        من أين يمكنني شراء eSIM بلغاريا؟
+      a: |
+        يمكن شراء eSIM بلغاريا من Roami بالكامل عبر الإنترنت. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة A1 بلغاريا لتبدأ الاستخدام فورًا.
+    - q: |
+        هل يوفر eSIM تكلفة الاتصال في بلغاريا؟
+      a: |
+        في بلغاريا يتطلب شراء بطاقة SIM المحلية تسجيلًا في المتجر، لذا غالبًا يكون eSIM أوفر. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل يمكنني إضافة باقة بيانات أثناء الإقامة في بلغاريا؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM بلغاريا ذات الصلة
+  title: خطط eSIM ذات صلة بـ بلغاريا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM أستراليا
+    flag: img/flags/au.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM النيجر
+    flag: img/flags/ni.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM جزيرة ريونيون
+    flag: img/flags/re.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM تايلاند
+    flag: img/flags/th.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM بوركينا فاسو
+    flag: img/flags/bf.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM نيبال
+    flag: img/flags/ne.svg
+    price: من 10.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
+  - name: eSIM قيرغيزستان
+    flag: img/flags/kg.svg
+    price: من 4.99 دولار
     is_highlight: false
   - name: eSIM فرنسا
     flag: img/flags/fr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
+  - name: eSIM بوليفيا
+    flag: img/flags/bo.svg
+    price: من 11.99 دولار
+    is_highlight: true
+  - name: eSIM بلجيكا
+    flag: img/flags/be.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
+  - name: eSIM كمبوديا
+    flag: img/flags/kh.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM مالي
+    flag: img/flags/ml.svg
+    price: من 27.99 دولار
     is_highlight: false
 market_analysis:
   title: 'خطط eSIM بلغاريا مقابل بطاقات SIM: أي منها يناسب احتياجاتك؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقاً في بلغاريا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (بلغاريا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Bulgaria
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - SIM محلية مسبقة الدفع (بيانات السوق)

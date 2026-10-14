@@ -1,6 +1,6 @@
 ---
 title: 'eSIM لاوس 2026: دليل المشغل المحلي | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM لاوس | بيانات 5G غير محدودة سريعة لرحلتك الآن"
   description: "أفضل eSIM مدفوع مسبق للسفر من Roami إلى لاوس. بيانات 5G غير محدودة. تغطي فيينتيان ولوانغ برابانغ وسافاناخت. اشترِ خطتك الآن."
-  keywords: eSIM لاوس, شراء eSIM لاوس, أفضل eSIM لاوس, eSIM سفر لاوس, لاو تيليكوم لاوس, يونيتل لاوس, ETL لاوس, eSIM فيينتيان, eSIM لوانغ برابانغ, eSIM باكسي, eSIM مدفوع مسبق لاوس, 5G eSIM لاوس
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM لاوس، شراء eSIM لاوس، أفضل eSIM لاوس، eSIM لاوس رخيصة، eSIM لاوس مسبقة الدفع، باقة eSIM لاوس، eSIM لاوس غير محدودة، eSIM لاوس 5G، أفضل eSIM لـ لاوس، سعر eSIM لاوس، تفعيل eSIM لاوس، تغطية eSIM لاوس، لاو تيليكوم لاوس، eSIM فيينتيان، eSIM لوانغ برابانغ، eSIM باكسي
+  low_price: 4.99
+  high_price: 98.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/la.svg
   flag_alt: علم لاوس
-  title: 'eSIM لاوس: ابق على اتصال أينما ذهبت'
+  title: 'eSIM لاوس: شبكة قوية من اليوم الأول'
   subtitle: بدون رسوم خفية | إنترنت بدون قلق | دعم 24/7 - أفضل eSIM مدفوع مسبق للمسافرين إلى لاوس
 features:
-  title: 'لماذا يختار المسافرون إلى لاوس Roami: التغطية، السرعة والخدمة'
+  title: لماذا يختار المسافرون روامي في لاوس
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي لاوس للحصول على أفضل إشارة
-plans_title: 'شراء eSIM لاوس: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM لاوس: بيانات مرنة بأسعار تنافسية'
 plans_data:
   30 يوم:
   - spec: 20 جيجابايت
@@ -278,7 +278,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM لاوس: دليل المشغل وخريطة التغطية'
+  title: دليل الشبكات المحلية لـ eSIM لاوس
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -309,7 +309,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM لاوس: ما يجب معرفته قبل الذهاب'
+  title: 'قبل الذهاب إلى لاوس: تحضير eSIM خطوة بخطوة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -328,7 +328,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM لاوس: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM لاوس: من رمز QR إلى الاتصال'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -353,12 +353,12 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM لاوس
+    title: أجوبة على أشهر أسئلة eSIM لاوس
     questions:
     - q: |
         ما هي أرخص خيارات eSIM لرحلة إلى لاوس؟
       a: |
-        تبدأ خطط Roami eSIM لاوس من 1.99 دولار (7 أيام، 1 جيجابايت) وتصل إلى 59.99 دولار (30 يومًا غير محدود). لرحلة نموذجية مدتها 5-7 أيام، خطة 5 جيجابايت بسعر 9.99 دولار هي النقطة المثالية - كافية للخرائط والرسائل وتصفح وسائل التواصل الاجتماعي. بحاجة إلى بث فيديو أو العمل عن بعد؟ اختر 10 جيجابايت أو غير محدود. تستخدم لاوس 4G التي تتعامل مع الخرائط والرسائل بشكل جيد. تتقاضى أكشاك SIM في المطار 30-50٪ أكثر، وعليك الانتظار في الطابور. لست متأكدًا من احتياجاتك للبيانات؟ ابدأ صغيرًا وقم بالشحن عبر التطبيق دون تغيير eSIM الخاص بك.
+        تبدأ خطط Roami eSIM لاوس من 4.99 دولار (7 أيام، 1 جيجابايت) وتصل إلى 59.99 دولار (30 يومًا غير محدود). لرحلة نموذجية مدتها 5-7 أيام، خطة 5 جيجابايت بسعر 10.99 دولار هي النقطة المثالية - كافية للخرائط والرسائل وتصفح وسائل التواصل الاجتماعي. بحاجة إلى بث فيديو أو العمل عن بعد؟ اختر 10 جيجابايت أو غير محدود. تستخدم لاوس 4G التي تتعامل مع الخرائط والرسائل بشكل جيد. تتقاضى أكشاك SIM في المطار 30-50٪ أكثر، وعليك الانتظار في الطابور. لست متأكدًا من احتياجاتك للبيانات؟ ابدأ صغيرًا وقم بالشحن عبر التطبيق دون تغيير eSIM الخاص بك.
     - q: |
         كيف تقارن يونيتل، لاو تيليكوم، و Beeline لسائح يزور لاوس؟
       a: |
@@ -387,63 +387,75 @@ faq_section:
         ما هي أسهل طريقة للبقاء على اتصال في لاوس دون التعامل مع أكشاك SIM في المطار؟
       a: |
         eSIM هو حلك. اشترِ عبر الإنترنت، واحصل على رمز QR عبر البريد الإلكتروني، وقم بالتثبيت في دقيقتين. تجنب طابور المطار. يتصل Roami بشبكة يونيتل لتغطية موثوقة. تبقى بطاقة SIM المنزلية نشطة لتلقي الرسائل النصية. إنها الطريقة الأبسط للبقاء على اتصال.
+    - q: |
+        هل يمكنني شراء eSIM لاوس ليلاً؟
+      a: |
+        يتيح Roami شراء eSIM لاوس من التطبيق أو الموقع. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        ما أرخص باقة eSIM لاوس متاحة؟
+      a: |
+        في لاوس يتطلب شراء بطاقة SIM المحلية تسجيلًا في المتجر، لذا غالبًا يكون eSIM أوفر. بطاقات SIM المحلية في لاوس تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        هل يمكنني تغيير باقة بيانات eSIM أثناء الإقامة في لاوس؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM ذات الصلة للاوس
+  title: باقات eSIM إضافية لمسافري لاوس
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM ليختنشتاين
+    flag: img/flags/li.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM غوادلوب
+    flag: img/flags/gp.svg
+    price: من 8.99 دولار
+    is_highlight: false
+  - name: eSIM أندورا
+    flag: img/flags/ad.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM إيطاليا
+    flag: img/flags/it.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM موزمبيق
+    flag: img/flags/mo.svg
+    price: من 14.99 دولار
+    is_highlight: false
+  - name: eSIM طاجيكستان
+    flag: img/flags/tj.svg
+    price: من 4.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM جامايكا
+    flag: img/flags/jm.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM باكستان
+    flag: img/flags/pk.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM أذربيجان
+    flag: img/flags/az.svg
+    price: من 6.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
+  - name: eSIM مدغشقر
+    flag: img/flags/mg.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
+  - name: eSIM غيانا
+    flag: img/flags/gy.svg
+    price: من 9.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM البرتغال
+    flag: img/flags/pt.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM لاوس مقابل بطاقة SIM المدفوعة مسبقًا: أيهما مناسب لك؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في لاوس مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (Laos) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Laos
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

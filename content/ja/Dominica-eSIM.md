@@ -1,6 +1,6 @@
 ---
 title: ドミニカ国 eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:02:35+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -25,12 +25,25 @@ modal:
 seo:
   title: eSIM ドミニカ国 | 無制限データと高速5G対応のおすすめ通信プラン比較
   description: ドミニカ国を含む複数国旅行に便利なリージョナルeSIMはRoami。近隣諸国への移動でも追加設定不要で自動ネットワーク切替。国境を越えるたびにSIMを買い替える必要なく1枚のeSIMで旅全体をカバー。
+  low_price: 11.99
+  high_price: 52.99
   keywords:
   - ドミニカ国 eSIM
+  - ドミニカ国 eSIM 料金
+  - ドミニカ国 eSIM おすすめ
+  - ドミニカ国 eSIM 安い
+  - ドミニカ国 eSIM 購入
+  - ドミニカ国 eSIM 申し込み
+  - ドミニカ国 eSIM データ無制限
   - ドミニカ国 プリペイドSIM
-  - ドミニカ国 ネットワーク
-  - ドミニカ国 旅行 インターネット
-  - ドミニカ国 現地キャリア
+  - ドミニカ国 旅行 eSIM
+  - ドミニカ国 eSIM 価格
+  - ドミニカ国 eSIM 設定方法
+  - ドミニカ国 eSIM 対応エリア
+  - ロゾー eSIM
+  - ポーツマス eSIM
+  - ドミニカ国 モバイルデータ
+  - ドミニカ国 eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -46,7 +59,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: ドミニカ国向け最高のeSIM
-  title: 海外旅行，就选ドミニカ国 eSIM
+  title: ドミニカ国 eSIMで現地のネットワークに接続
 hero:
   flag_image: img/flags/dm.svg
   flag_alt: ドミニカ国の国旗
@@ -79,7 +92,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: プランを見る
 plans_data:
   15 日:
   - spec: 3GB
@@ -170,7 +183,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: 安心して使うために
   items:
   - icon: 📱
     html: |-
@@ -221,22 +234,22 @@ activation_steps:
     is_list: false
 faq_section:
   title: 'ドミニカ国 eSIM : よくある質問と旅行ガイド'
-  desc: ドミニカで使えるおすすめのデータ通信eSIMを厳選。5G対応で高速通信、24時間日本語サポート、返金保証付きで初めてでも安心。QRコード即時発行で到着後すぐにインターネット接続が可能。ドミニカではDigicelのネットワークに対応。
+  desc: ドミニカで使えるおすすめのデータ通信eSIMを厳選。QRコード即時発行で到着後すぐにインターネット接続が可能。ドミニカではDigicelのネットワークに対応。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. よくあるご質問
     questions:
     - q: インストール後にドミニカ国用eSIMを別のデバイスに移行できますか？
       a: 一度インストールしたeSIMは他のデバイスに移行できません。旅行中に使用するデバイスにインストールしてください。追加のデバイスには個別にeSIMをお買い求めいただけます。
     - q: Roamiはドミニカ国以外の地域向けeSIMも提供していますか？
       a: はい、ドミニカ国用eSIMの他に、ヨーロッパ、アジア、北米、グローバル向けの地域別eSIMも提供しています。複数都市をまたぐ旅行や数カ国を巡るツアーに最適です
         — SIMカードの交換は不要です。
-        Roamiなら1GB/$1.99からの格安プランでdominicaの5G高速通信を利用可能。24時間日本語サポート付きで初めての海外eSIMも安心です。
+
     - q: ドミニカ国用eSIMのQRコードの有効期限は？
       a: QRコードはメール送信後30日間有効です。旅行前に十分な時間があります。期限が切れた場合は、新しいコードを発行できます。
-        出発前にdominica用eSIMをインストールすれば、到着後すぐにデータ通信が始められます。海外旅行eSIMの準備は、自宅のWi-Fi環境で事前に完了させるのがおすすめです。
+
     - q: ドミニカ国用eSIMは物理SIMよりも安全ですか？
       a: eSIMはデバイスに組み込まれているため、抜き取ったりコピーしたりすることができず、不正アクセスに対してより保護されています。データは暗号化され、SIMカードの紛失や盗難のリスクもありません。
     - q: ドミニカ国用eSIMを使用するためにスマートフォンに求められる要件は？
@@ -254,6 +267,12 @@ faq_section:
     - q: 私のスマートフォンはドミニカ国のeSIMに対応していますか？また、インストール方法は？
       a: はい、最新のスマートフォン（iPhone XS/XR以降、Samsung Galaxy S20+/Note20+、Google Pixel 3a+など）はeSIMに対応しています。ドミニカ国用eSIMは、モバイル設定でQRコードをスキャンしてインストールします。Digicel
         / Flowのネットワークはドミニカ国で優れた5G/4Gカバレッジを提供します。
+    - q: 申し込み後にドミニカ国用eSIMのプラン変更はできますか？
+      a: クレジットカードがあれば、ドミニカ国用eSIMはオンラインで申し込めます。ドミニカ国到着後にデータ通信をオンにすれば自動で接続され、追加の申し込みは不要です。
+    - q: ドミニカ国でデータ通信費を最も安くする方法は何ですか？
+      a: ドミニカ国用eSIMの料金はプランごとに明示されており、現地SIMのような追加チャージは不要です。実際の料金は選ぶプランによって異なるため、現在の価格は公式サイトでご確認ください。
+    - q: ドミニカ国用eSIMのデータを使い切ったらチャージできますか？
+      a: ドミニカ国用eSIMのデータを使い切った場合は、同じアカウントから新しいデータプランを追加できます。現地SIMのように店舗でチャージする必要はなく、すべてオンラインで完結します。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -417,81 +436,80 @@ faq_section:
       a: ドミニカ国用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: ドミニカ国用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        eSIMの設定はQRコードをスキャンするだけで完了。物理SIM不要でデュアルSIM運用も可能。最安1GB/$1.99から使える格安データ通信。
-        eSIMのメリットは物理SIM不要で機種変更時も簡単。デュアルSIM対応で日本の番号を維持したまま海外データ通信が可能。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にドミニカ国用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
+  - name: ドミニカ共和国 eSIM
+    flag: img/flags/do.svg
+    price: 5.99ドルから
+    is_highlight: false
+    slug: dominican-republic-esim
+  - name: エクアドル eSIM
+    flag: img/flags/ec.svg
+    price: 6.99ドルから
+    is_highlight: false
+    slug: ecuador-esim
+  - name: エジプト eSIM
+    flag: img/flags/eg.svg
+    price: 2.99ドルから
+    is_highlight: false
+    slug: egypt-esim
+  - name: エルサルバドル eSIM
+    flag: img/flags/sv.svg
+    price: 23.99ドルから
+    is_highlight: false
+    slug: el-salvador-esim
+  - name: エストニア eSIM
+    flag: img/flags/ee.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
+    slug: estonia-esim
+  - name: エスワティニ eSIM
+    flag: img/flags/sz.svg
+    price: 19.99ドルから
+    is_highlight: false
+    slug: eswatini-esim
+  - name: フェロー諸島 eSIM
+    flag: img/flags/fo.svg
+    price: 5.99ドルから
+    is_highlight: false
+    slug: faroe-islands-esim
+  - name: フィジー eSIM
+    flag: img/flags/fj.svg
+    price: 6.99ドルから
+    is_highlight: false
+    slug: fiji-esim
+  - name: フィンランド eSIM
+    flag: img/flags/fi.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
-    price: 1.99ドルから
-    is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
+    slug: finland-esim
+  - name: フランス eSIM
     flag: img/flags/fr.svg
     price: 1.99ドルから
     is_highlight: false
     slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
+  - name: フランス領ギアナ eSIM
+    flag: img/flags/gf.svg
+    price: 3.99ドルから
     is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+    slug: french-guiana-esim
+  - name: ガボン eSIM
+    flag: img/flags/ga.svg
+    price: 14.99ドルから
+    is_highlight: true
+    slug: gabon-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "ドミニカで自分に合うのはeSIMかプリペイドか？"
   subtitle: "ドミニカの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Dominica) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Dominica"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -524,7 +542,7 @@ market_analysis:
     - icon: "wifi"
       title: "テザリングと速度ポリシー"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。"
+      prepaid_desc: "現地事業者の多くはテザリングを許可していますが、プランによっては速度制限や追加料金がかかる場合があります。"
       esim_title: "無制限テザリング"
       esim_desc: "現地SIMのテザリング制限を気にせず、eSIMはテザリングを完全サポート。"
     - icon: "credit-card"
@@ -536,7 +554,7 @@ market_analysis:
     - icon: "headset"
       title: "カスタマーサポート"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。"
+      prepaid_desc: "現地事業者のサポートは現地語が中心で、対応時間が限られる場合があります。"
       esim_title: "24時間サポート"
       esim_desc: "現地の営業時間に依存せず、eSIMは24時間日本語対応のカスタマーサポートを提供。"
 

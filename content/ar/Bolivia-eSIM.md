@@ -1,6 +1,6 @@
 ---
 title: 'eSIM بوليفيا 2026: دليل الخطط والتغطية | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,19 +9,18 @@ country_meta:
   operators: إنتيل، تيغو، فيفا
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: لاباز، سانتا كروز، كوتشابامبا، سوكري، إل ألتو
-  main_packages: 3/7/15/30 يومًا، بيانات غير محدودة
+  main_packages: 7/15/30 يومًا، حتى 20 جيجابايت
 modal:
   title: تم ترقية الخدمة!
   btn_text: متابعة
   text_default: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIMGo</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
 seo:
-  title: eSIM بوليفيا | أفضل بيانات 5G غير محدودة لإقامتك
-  description: "أفضل eSIM سفر مدفوعة مسبقًا من Roami لبوليفيا. بيانات 5G غير محدودة. تغطي لاباز وسانتا كروز وكوتشابامبا. تفعيل فوري. وخطط مرنة."
-  keywords: eSIM بوليفيا، شراء eSIM بوليفيا، أفضل eSIM بوليفيا، eSIM سفر بوليفيا، إنتيل بوليفيا، تيغو بوليفيا، فيفا بوليفيا،
-    eSIM لاباز، eSIM سانتا كروز، eSIM كوتشابامبا، eSIM مدفوعة مسبقًا بوليفيا، eSIM 5G بوليفيا
-  low_price: 1.99
-  high_price: 39.9
+  title: eSIM بوليفيا | أفضل بيانات 5G عالية السرعة لإقامتك
+  description: "أفضل eSIM سفر مدفوعة مسبقًا من Roami لبوليفيا. بيانات 5G عالية السرعة. تغطي لاباز وسانتا كروز وكوتشابامبا. تفعيل فوري. وخطط مرنة."
+  keywords: eSIM بوليفيا، شراء eSIM بوليفيا، أفضل eSIM بوليفيا، eSIM بوليفيا رخيصة، eSIM بوليفيا مسبقة الدفع، باقة eSIM بوليفيا، باقة بيانات eSIM بوليفيا، eSIM بوليفيا 5G، أفضل eSIM لـ بوليفيا، سعر eSIM بوليفيا، تفعيل eSIM بوليفيا، تغطية eSIM بوليفيا، إنتيل بوليفيا، eSIM لاباز، eSIM سانتا كروز، eSIM كوتشابامبا
+  low_price: 11.99
+  high_price: 209.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -41,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/bo.svg
   flag_alt: علم بوليفيا
-  title: 'eSIM بوليفيا: شبكة موثوقة وتغطية للمسافرين'
+  title: 'eSIM بوليفيا: اتصال دائم أثناء السفر'
   subtitle: أفضل eSIM مدفوعة مسبقًا للمسافرين إلى بوليفيا - 5G سريع، تفعيل فوري، دعم 24/7
 features:
-  title: 'لماذا يختار المسافرون إلى بوليفيا Roami: السرعة والتغطية والدعم'
+  title: لماذا روامي مناسب لرحلتك إلى بوليفيا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي بوليفيا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM بوليفيا: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM بوليفيا: مقارنة المدة والسعر'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -141,7 +140,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM بوليفيا: دليل كامل للشبكات المحلية'
+  title: 'تغطية شبكة eSIM بوليفيا: ما تحتاج معرفته'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -172,7 +171,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM بوليفيا: ما يجب معرفته قبل السفر'
+  title: نصائح ما قبل الرحلة لـ eSIM بوليفيا
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -192,7 +191,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM بوليفيا: 3 خطوات بسيطة'
+  title: كيف تثبّت eSIM بوليفيا على آيفون وأندرويد
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -217,7 +216,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM بوليفيا
+    title: توضيحات سريعة حول eSIM بوليفيا
     questions:
     - q: |
         أي شبكة في بوليفيا لديها أفضل تغطية للمسافرين - تيغو أم إنتيل أم فيفا؟
@@ -251,63 +250,75 @@ faq_section:
         ما هي المستندات التي أحتاجها لشراء eSIM بوليفيا من Roami؟
       a: |
         مجرد طريقة دفع صالحة — بطاقة ائتمان، PayPal، Apple Pay، أو Google Pay. لا حاجة لتحميل جواز السفر، لا تحقق من العنوان، لا عقود. اشترِ عبر الإنترنت، واستلم رمز QR عبر البريد الإلكتروني في غضون دقائق، وقم بتثبيته مباشرة على هاتفك.
+    - q: |
+        هل يمكنني تغيير باقة eSIM بوليفيا بعد الشراء؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM بوليفيا عبر الإنترنت. بعد الوصول إلى بوليفيا، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        ما أفضل طريقة لتقليل تكلفة البيانات في بوليفيا؟
+      a: |
+        أسعار eSIM بوليفيا معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        هل يمكنني إعادة تعبئة بيانات eSIM بوليفيا بعد نفادها؟
+      a: |
+        عند نفاد بيانات eSIM بوليفيا يمكنك إضافة باقة بيانات جديدة من نفس الحساب. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM ذات الصلة بوليفيا
+  title: مقترحات eSIM حول رحلتك إلى بوليفيا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
+  - name: eSIM بوتسوانا
+    flag: img/flags/bw.svg
+    price: من 14.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM تونس
+    flag: img/flags/tn.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM عمان
+    flag: img/flags/om.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM السويد
+    flag: img/flags/se.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
   - name: eSIM هونغ كونغ
     flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
     price: من 1.99 دولار
     is_highlight: false
   - name: eSIM أستراليا
     flag: img/flags/au.svg
     price: من 1.99 دولار
     is_highlight: false
+  - name: eSIM النيجر
+    flag: img/flags/ni.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM جزيرة ريونيون
+    flag: img/flags/re.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM تايلاند
+    flag: img/flags/th.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بوركينا فاسو
+    flag: img/flags/bf.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM نيبال
+    flag: img/flags/ne.svg
+    price: من 10.99 دولار
+    is_highlight: false
+  - name: eSIM قيرغيزستان
+    flag: img/flags/kg.svg
+    price: من 4.99 دولار
+    is_highlight: false
 market_analysis:
   title: 'مقارنة eSIM بوليفيا ببطاقة SIM المحلية المدفوعة مسبقًا: أيهما أكثر راحة؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في بوليفيا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM للبيانات المدفوعة مسبقًا (بوليفيا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Bolivia
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

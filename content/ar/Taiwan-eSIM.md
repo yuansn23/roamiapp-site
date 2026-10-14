@@ -1,6 +1,6 @@
 ---
 title: 'تايوان eSIM 2026 - أفضل خطة 5G لتايبي والأسواق الليلية | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM تايوان - بيانات مسبقة الدفع غير محدودة للمسافرين
   description: "أفضل eSIM مسبق الدفع في تايوان مع 5G على تشونغهوا وفار إيست تون وتايوان موبايل. تفعيل فوري عبر QR بدون هوية. اشترِ خطتك الآن."
-  keywords: eSIM تايوان, شراء eSIM تايوان, أفضل eSIM تايوان, eSIM سفر تايوان, تشونغهوا تيليكوم تايوان, فار إيست تون تايوان, تايوان موبايل تايوان, eSIM تايبيه, eSIM مدينة تايبيه الجديدة, eSIM تايتشونغ, eSIM مسبق الدفع تايوان, 5G eSIM تايوان, eSIM للأسواق الليلية في تايوان, سوق شيلين الليلي eSIM, THSR eSIM, تايبيه 101 eSIM
+  keywords: eSIM تايوان، شراء eSIM تايوان، أفضل eSIM تايوان، eSIM تايوان رخيصة، eSIM تايوان مسبقة الدفع، باقة eSIM تايوان، eSIM تايوان غير محدودة، eSIM تايوان 5G، أفضل eSIM لـ تايوان، سعر eSIM تايوان، تفعيل eSIM تايوان، تغطية eSIM تايوان، تشونغهوا تيليكوم تايوان، eSIM تايبيه، eSIM مدينة تايبيه الجديدة، eSIM تايتشونغ
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/tw.svg
   flag_alt: علم تايوان
-  title: 'eSIM تايوان: 5G في تايبيه، الأسواق الليلية وما بعدها — لا حاجة لجواز سفر'
+  title: 'eSIM تايوان: اتصال موثوق في كل مدينة'
   subtitle: لا هوية مطلوبة | 5G على تشونغهوا وفار إيست تون وتايوان موبايل | لا طوابير SIM في المطار | تسليم فوري للـ QR
 features:
-  title: 'لماذا يختار مسافرو تايوان Roami: الخطط، الشبكة والدعم'
+  title: 'ميزات Roami: تغطية قوية ودعم على مدار الساعة في تايوان'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بشبكات تشونغهوا وفار إيست تون وتايوان موبايل للحصول على أفضل إشارة في جميع أنحاء تايوان
-plans_title: 'شراء eSIM تايوان: خطط تناسب كل مدة رحلة'
+plans_title: 'باقات eSIM تايوان: مرونة كاملة بدون أيام مهدرة'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -269,7 +269,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM تايوان: دليل شبكات تشونغهوا وفار إيست تون وتايوان موبايل'
+  title: 'eSIM تايوان: تغطية 5G والمشغلين المحليين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -300,7 +300,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM تايوان: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM تايوان: نصائح سريعة قبل بدء الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -321,7 +321,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM تايوان: 3 خطوات بسيطة'
+  title: 'eSIM تايوان: دليل التركيب والتفعيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -346,7 +346,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM تايوان
+    title: أسئلة الزوار الشائعة عن eSIM تايوان
     questions:
     - q: |
         هل أحتاج حقًا إلى جواز سفر أو هوية لاستخدام eSIM تايوان من Roami؟
@@ -384,63 +384,75 @@ faq_section:
         كيف تقارن Roami مع Klook لـ eSIM في تايوان؟
       a: |
         تقدم Roami عادةً قيمة أفضل لـ eSIM تايوان لأننا نبيع مباشرة — بدون هامش ربح من السوق. الأسعار عادةً أقل بنسبة 10-20٪ من Klook. نقدم أيضًا دعمًا مباشرًا على مدار الساعة. الخطط مدفوعة مسبقًا بدون تجديد تلقائي، لذلك لن يتم تحصيل رسوم منك بعد انتهاء رحلتك.
+    - q: |
+        هل يمكنني شراء eSIM تايوان في يوم السفر؟
+      a: |
+        يمكن شراء eSIM تايوان قبل السفر أو بعده. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        كم يمكن توفيره باستخدام eSIM في تايوان؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM تايوان شبكة محلية مباشرة (تشونغهوا تيليكوم) فيكون أوفر. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        هل يمكنني البدء بباقة صغيرة ثم زيادتها لاحقًا في تايوان؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM ذات صلة بتايوان
+  title: باقات eSIM أخرى قد تهمك مع تايوان
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM رومانيا
+    flag: img/flags/ro.svg
+    price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM جبل طارق
+    flag: img/flags/gi.svg
+    price: من 5.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM جمهورية التشيك
+    flag: img/flags/cz.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM إندونيسيا
+    flag: img/flags/id.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM تشيلي
+    flag: img/flags/cl.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM غواتيمالا
+    flag: img/flags/gt.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM الأرجنتين
+    flag: img/flags/ar.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM البرازيل
+    flag: img/flags/br.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM المجر
+    flag: img/flags/hu.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بيلاروسيا
+    flag: img/flags/by.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بنما
+    flag: img/flags/pa.svg
+    price: من 11.99 دولار
     is_highlight: true
   - name: eSIM كندا
     flag: img/flags/ca.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: ابتداءً من 1.99 دولار
+    price: من 3.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM تايوان مقابل شريحة SIM المدفوعة مسبقًا: مقارنة السرعة والتغطية والسعر'
   subtitle: شرائح SIM المحلية المدفوعة مسبقًا في تايوان مقابل حلول eSIM (معايير 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقة بيانات SIM المدفوعة مسبقًا (تايوان) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Taiwan
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - شريحة SIM محلية مسبقة الدفع (بيانات السوق)

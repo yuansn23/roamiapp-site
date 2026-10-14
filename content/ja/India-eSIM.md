@@ -1,6 +1,6 @@
 ---
 title: インド eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:00:55+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,10 @@ modal:
     当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました！<br>新規のお客様はコード <strong>web20</strong> で20%オフ！
 seo:
   title: eSIM インド | 速度と価格と品質のバランスを重視した選び方ガイド
-  description: インド旅行のデータ通信はRoamiにおまかせ。購入から設定・利用・サポートまで全てオンラインで完結。物理SIM不要・契約不要・縛りなしのシンプル設計で、到着後すぐに快適なインターネット。
-  keywords: インドeSIM, インド旅行, インドネットワーク, インド観光, インドビジネス
+  description: インドへの旅行はeSIMでスマートに。3.99ドルからのプランを選べ、LINEやGoogleマップも快適。アクティベーションはQRコードで簡単です。
+  low_price: 3.99
+  high_price: 94.99
+  keywords: インド eSIM, インド eSIM 料金, インド eSIM おすすめ, インド eSIM 安い, インド eSIM 購入, インド eSIM 申し込み, インド eSIM データ無制限, インド プリペイドSIM, インド 旅行 eSIM, インド eSIM 価格, インド eSIM 設定方法, インド eSIM 対応エリア, デリー eSIM, ムンバイ eSIM, インド モバイルデータ, インド eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: インド向け最高のeSIM
-  title: インド eSIM，海外旅行上网无忧
+  title: インド旅行のデータ通信はeSIMで決まり
 hero:
   flag_image: img/flags/in.svg
   flag_alt: インドの国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: データプランを選ぶ
 plans_data:
   7 日:
   - spec: 3GB
@@ -298,7 +300,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: 購入前のチェックリスト
   items:
   - icon: 📱
     html: |-
@@ -349,12 +351,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: 'eSIM インド | 最安値に挑戦！格安データ通信プラン'
-  desc: インド旅行で役立つeSIMの完全情報。事前購入のメリット、物理SIM不要でそのまま使える便利さ、現地キャリアネットワークの品質比較、データ容量別のおすすめプランまで。長期滞在から短期旅行まで幅広くカバーします。インドではAirtelのネットワークに対応。
+  desc: インド旅行で役立つeSIMの完全情報。長期滞在から短期旅行まで幅広くカバーします。インドではAirtelのネットワークに対応。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. 基本の質問
     questions:
     - q: インド用eSIMはどの5G/4Gネットワークを使用し、カバレッジはどうですか？
       a: インド用eSIMはAirtel / Jioと専属提携しています。都市部だけでなく、郊外や高速道路沿いでも最適なネットワーク（5G/4G/LTE）に自動接続し、最高のカバレッジを実現します。
@@ -364,7 +366,7 @@ faq_section:
       a: eSIMはデバイスに組み込まれているため、抜き取ったりコピーしたりすることができず、不正アクセスに対してより保護されています。データは暗号化され、SIMカードの紛失や盗難のリスクもありません。
     - q: インド用eSIMは近隣諸国での国際ローミングはどうなりますか？
       a: インド用eSIMは主にインド向けに最適化されています。近隣諸国への旅行には、当社のヨーロッパまたは地域別eSIMをお勧めします。これにより追加料金なしでシームレスなローミングが可能です。
-        複数国を周遊する旅行なら、地域別eSIM（ヨーロッパやアジア）を選べば国境を越えるたびに自動でネットワーク切替。追加購入や設定変更の手間がかかりません。海外旅行eSIMの地域別プランなら周遊旅行もスムーズです。
+
     - q: インド用eSIMのデータ使用量を確認するには？
       a: アクティベーション後、オンラインのダッシュボードにアクセスできます。そこでデータ残量、残り時間をリアルタイムで確認し、いつでもサポートを依頼できます。
     - q: インド用eSIMが機能しない場合、返金保証はありますか？
@@ -375,12 +377,18 @@ faq_section:
       a: はい、最新のスマートフォン（iPhone XS/XR以降、Samsung Galaxy S20+/Note20+、Google Pixel 3a+など）はeSIMに対応しています。インド用eSIMは、モバイル設定でQRコードをスキャンしてインストールします。Airtel
         / Jioのネットワークはインドで優れた5G/4Gカバレッジを提供します。
     - q: Roamiはインド以外の地域向けeSIMも提供していますか？
-        インド旅行のデータ通信はRoamiにお任せ。最安1GB/$1.99、無制限プランもあり、5G対応の高速ネットワークで快適な旅をサポートします。
+
       a: はい、インド用eSIMの他に、ヨーロッパ、アジア、北米、グローバル向けの地域別eSIMも提供しています。複数都市をまたぐ旅行や数カ国を巡るツアーに最適です
         — SIMカードの交換は不要です。
 
     - q: QRコードなしでインド用eSIMをインストールできますか？
       a: はい、QRコードの他に、SM‑DP+アドレスとアクティベーションコード（注文確認メールに記載）を使って手動でインストールすることも可能です。QRコードが最も簡単で迅速な方法です。
+    - q: インド向けeSIMの申し込みは日本にいながら可能ですか？
+      a: Roamiのインド用eSIMはすべてオンラインで申し込みできます。パスポートや現地住所の登録は不要で、受け取ったQRコードをスキャンするだけです。
+    - q: インドでeSIMを選ぶと現地SIMより安くなる理由は何ですか？
+      a: 用途に合わせて容量を選べるため、インドではeSIMのほうが無駄なく費用を抑えられます。短期旅行では容量の小さいプラン、長期滞在では大容量プランが割安になる傾向があります。
+    - q: インド用eSIMに後からデータを足すことは可能ですか？
+      a: インド用eSIMはプリペイド式で、データが少なくなったらアプリから追加購入できます。データ残量はアプリでリアルタイムに確認できるため、使い切る前に追加できます。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -543,81 +551,80 @@ faq_section:
       a: インド用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: インド用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        eSIMのメリットは物理SIM不要で機種変更時も簡単。デュアルSIM対応で日本の番号を維持したまま海外データ通信が可能。
-        eSIMのメリットは物理SIM不要で機種変更時も簡単。デュアルSIM対応で日本の番号を維持したまま海外データ通信が可能。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にインド用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
+  - name: インドネシア eSIM
+    flag: img/flags/id.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
-    price: 1.99ドルから
+    slug: indonesia-esim
+  - name: イラク eSIM
+    flag: img/flags/iq.svg
+    price: 21.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
+    slug: iraq-esim
+  - name: アイルランド eSIM
+    flag: img/flags/ie.svg
     price: 1.99ドルから
     is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
+    slug: ireland-esim
+  - name: イスラエル eSIM
+    flag: img/flags/il.svg
+    price: 2.99ドルから
+    is_highlight: false
+    slug: israel-esim
+  - name: イタリア eSIM
+    flag: img/flags/it.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: 1.99ドルから
+    slug: italy-esim
+  - name: コートジボワール eSIM
+    flag: img/flags/ci.svg
+    price: 9.99ドルから
     is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
+    slug: ivory-coast-esim
+  - name: ジャマイカ eSIM
+    flag: img/flags/jm.svg
+    price: 11.99ドルから
     is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
+    slug: jamaica-esim
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
     price: 1.99ドルから
     is_highlight: false
     slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
+  - name: ヨルダン eSIM
+    flag: img/flags/jo.svg
+    price: 6.99ドルから
     is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
+    slug: jordan-esim
+  - name: カザフスタン eSIM
+    flag: img/flags/kz.svg
+    price: 3.99ドルから
     is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
+    slug: kazakhstan-esim
+  - name: ケニア eSIM
+    flag: img/flags/ke.svg
+    price: 7.99ドルから
     is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
+    slug: kenya-esim
+  - name: コソボ eSIM
+    flag: img/flags/xk.svg
+    price: 13.99ドルから
     is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+    slug: kosovo-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "インド旅行者向け：eSIMか観光用SIMか？"
   subtitle: "インドの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (India) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/India"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -691,4 +698,3 @@ market_analysis:
         title: "アクティベーションの時間短縮"
         desc: "インドのプリペイドSIMはアクティベーションに<b>1～24時間</b>。Roami eSIMは購入後<b>即時</b>アクティベーション。"
 ---
-        eSIMのメリットは物理SIM不要で機種変更時も簡単。デュアルSIM対応で日本の番号を維持したまま海外データ通信が可能。

@@ -1,6 +1,6 @@
 ---
 title: 'تشيلي eSIM 2026: دليل السياح والشبكات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM تشيلي | بيانات غير محدودة مسبقة الدفع لإقامتك
   description: "أفضل eSIM سياحي مسبق الدفع من Roami لتشيلي. بيانات غير محدودة 5G وتفعيل فوري. تغطي سانتياغو وفالبارايسو وكونثبثيون. خطط مرنة الآن."
-  keywords: eSIM تشيلي، شراء eSIM تشيلي، أفضل eSIM تشيلي، eSIM سفر تشيلي، Entel تشيلي، Movistar تشيلي، Claro تشيلي، eSIM سانتياغو، eSIM فالبارايسو، eSIM كونثبثيون، eSIM مسبق الدفع تشيلي، eSIM 5G تشيلي
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM تشيلي، شراء eSIM تشيلي، أفضل eSIM تشيلي، eSIM تشيلي رخيصة، eSIM تشيلي مسبقة الدفع، باقة eSIM تشيلي، eSIM تشيلي غير محدودة، eSIM تشيلي 5G، أفضل eSIM لـ تشيلي، سعر eSIM تشيلي، تفعيل eSIM تشيلي، تغطية eSIM تشيلي، Entel تشيلي، eSIM سانتياغو، eSIM فالبارايسو، eSIM كونثبثيون
+  low_price: 4.99
+  high_price: 86.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/cl.svg
   flag_alt: علم تشيلي
-  title: 'eSIM تشيلي: حلول بيانات كاملة لرحلتك'
+  title: 'eSIM تشيلي: 5G فوري بدون رسوم تجوال'
   subtitle: 5G سريع | تسليم QR فوري | دعم بشري 24/7 - أفضل eSIM مسبق الدفع لتشيلي
 features:
-  title: 'لماذا يختار مسافرو تشيلي Roami: الخطط، الشبكة والدعم'
+  title: 'لماذا Roami خيار مسافري تشيلي: السرعة والسعر والدعم'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي تشيلي للحصول على أفضل إشارة
-plans_title: 'شراء eSIM تشيلي: خطط لكل مدة رحلة'
+plans_title: شراء باقة eSIM تشيلي بالمدة التي تحتاجها
 plans_data:
   7 أيام:
   - spec: 1GB
@@ -261,7 +261,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'المدة: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM تشيلي: دليل مشغلي الشبكات المحمولة'
+  title: 'eSIM تشيلي: دليل تغطية الشبكات المحلية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -292,7 +292,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM تشيلي: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM تشيلي: إرشادات الإعداد قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -311,7 +311,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على الشاشة، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM تشيلي: 3 خطوات بسيطة'
+  title: 'eSIM تشيلي: كيفية التثبيت والتفعيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -336,7 +336,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM تشيلي
+    title: أسئلة وأجوبة عن eSIM تشيلي
     questions:
     - q: |
         هل من الآمن تحميل جواز سفري لتسجيل eSIM تشيلي؟ أنا قلق بشأن الخصوصية.
@@ -345,11 +345,11 @@ faq_section:
     - q: |
         ما هي أرخص خيارات eSIM لرحلة إلى تشيلي؟
       a: |
-        تبدأ خطط Roami eSIM لتشيلي من 1.99 دولار (7 أيام، 1 جيجابايت) وتصل إلى 59.99 دولار (30 يومًا غير محدود). بالنسبة لرحلة نموذجية مدتها 5-7 أيام، فإن خطة 5 جيجابايت بسعر 9.99 دولار هي الخيار الأمثل — كافية للخرائط والمراسلة وتصفح وسائل التواصل الاجتماعي. هل تحتاج إلى بث الفيديو أو العمل عن بُعد؟ اختر 10 جيجابايت أو غير محدود. بفضل شبكة Entel 5G، يعمل البث ومكالمات الفيديو بشكل رائع. تتقاضى أكشاك SIM في المطار أسعارًا أعلى بنسبة 30-50٪، وعليك الانتظار في الطابور. لست متأكدًا من احتياجاتك للبيانات؟ ابدأ بحزمة صغيرة وقم بالشحن عبر التطبيق دون تغيير eSIM الخاص بك.
+        تبدأ خطط Roami eSIM لتشيلي من 4.99 دولار (7 أيام، 1 جيجابايت) وتصل إلى 59.99 دولار (30 يومًا غير محدود). بالنسبة لرحلة نموذجية مدتها 5-7 أيام، فإن خطة 5 جيجابايت بسعر 14.99 دولار هي الخيار الأمثل — كافية للخرائط والمراسلة وتصفح وسائل التواصل الاجتماعي. هل تحتاج إلى بث الفيديو أو العمل عن بُعد؟ اختر 10 جيجابايت أو غير محدود. بفضل شبكة Entel 5G، يعمل البث ومكالمات الفيديو بشكل رائع. تتقاضى أكشاك SIM في المطار أسعارًا أعلى بنسبة 30-50٪، وعليك الانتظار في الطابور. لست متأكدًا من احتياجاتك للبيانات؟ ابدأ بحزمة صغيرة وقم بالشحن عبر التطبيق دون تغيير eSIM الخاص بك.
     - q: |
         هل ستنخفض سرعة الخطة غير المحدودة لـ eSIM تشيلي إذا استخدمت بيانات كثيرة؟
       a: |
-        توجد سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والملاحة والتصفح — فقط لا يمكن بث الفيديو بسلاسة. في الواقع، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقًا، فإن الخطة الثابتة 10 جيجابايت (14.99 دولار) أو 20 جيجابايت (24.99 دولار) تزيل عدم اليقين تمامًا.
+        توجد سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والملاحة والتصفح — فقط لا يمكن بث الفيديو بسلاسة. في الواقع، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقًا، فإن الخطة الثابتة 10 جيجابايت (21.99 دولار) أو 20 جيجابايت (30.99 دولار) تزيل عدم اليقين تمامًا.
     - q: |
         كيف يقارن Roami بـ Saily من حيث eSIM في تشيلي؟
       a: |
@@ -370,63 +370,75 @@ faq_section:
         ما هي المستندات المطلوبة لشراء eSIM تشيلي من Roami؟
       a: |
         مجرد وسيلة دفع صالحة — بطاقة ائتمان، PayPal، Apple Pay، أو Google Pay. لا حاجة لتحميل جواز السفر، لا تحقق من العنوان، لا عقود. قم بالشراء عبر الإنترنت، واستلم رمز QR عبر البريد الإلكتروني في غضون دقائق، وقم بتثبيته مباشرة على هاتفك.
+    - q: |
+        ما خطوات شراء eSIM تشيلي واستلامه؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        ما هيكل أسعار eSIM تشيلي؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في تشيلي أسهل. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        هل يمكنني شراء المزيد من البيانات إذا نفدت في تشيلي؟
+      a: |
+        عند نفاد بيانات eSIM تشيلي يمكنك إضافة باقة بيانات جديدة من نفس الحساب. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM ذات الصلة لتشيلي
+  title: خطط eSIM قد تحتاجها بعد تشيلي
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
+  - name: eSIM قيرغيزستان
+    flag: img/flags/kg.svg
+    price: من 4.99 دولار
     is_highlight: false
   - name: eSIM فرنسا
     flag: img/flags/fr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
+  - name: eSIM بوليفيا
+    flag: img/flags/bo.svg
+    price: من 11.99 دولار
+    is_highlight: true
+  - name: eSIM بلجيكا
+    flag: img/flags/be.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
+  - name: eSIM كمبوديا
+    flag: img/flags/kh.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM مالي
+    flag: img/flags/ml.svg
+    price: من 27.99 دولار
+    is_highlight: false
+  - name: eSIM بلغاريا
+    flag: img/flags/bg.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM جزر فارو
+    flag: img/flags/fo.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM النمسا
+    flag: img/flags/at.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM فيتنام
+    flag: img/flags/vn.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بيرو
+    flag: img/flags/pe.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM كازاخستان
+    flag: img/flags/kz.svg
+    price: من 3.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM تشيلي مقابل بطاقة SIM المدفوعة مسبقًا: مقارنة السرعة والتغطية والسعر'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في تشيلي مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM المدفوعة مسبقًا (تشيلي) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Chile
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

@@ -1,6 +1,6 @@
 ---
 title: 'البرتغال eSIM 2026 - أفضل خطة 5G لشبونة والغارف | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "البرتغال eSIM - أفضل خطة بيانات 5G مسبقة الدفع لرحلتك"
   description: "أفضل eSIM مسبقة الدفع للبرتغال مع 5G على فودافون وMEO وNOS. تفعيل فوري عبر رمز QR بدون هوية. من 1.99 دولار. اشترِ خطتك الآن."
-  keywords: البرتغال eSIM, شراء البرتغال eSIM, أفضل البرتغال eSIM, البرتغال eSIM للسفر, فودافون البرتغال, MEO البرتغال, NOS البرتغال, لشبونة eSIM, بورتو eSIM, فارو eSIM, البرتغال eSIM مسبقة الدفع, 5G البرتغال eSIM, الغارف eSIM, وادي دورو eSIM, سينترا eSIM
+  keywords: eSIM البرتغال، شراء eSIM البرتغال، أفضل eSIM البرتغال، eSIM البرتغال رخيصة، eSIM البرتغال مسبقة الدفع، باقة eSIM البرتغال، eSIM البرتغال غير محدودة، eSIM البرتغال 5G، أفضل eSIM لـ البرتغال، سعر eSIM البرتغال، تفعيل eSIM البرتغال، تغطية eSIM البرتغال، فودافون البرتغال البرتغال، eSIM لشبونة، eSIM بورتو، eSIM فارو
   low_price: 1.99
-  high_price: 39.9
+  high_price: 71.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/pt.svg
   flag_alt: علم البرتغال
-  title: 'البرتغال eSIM: 5G في لشبونة والغارف وما وراءها — بدون هوية'
+  title: 'eSIM البرتغال: بيانات عالية السرعة بأسعار مناسبة'
   subtitle: لا حاجة لهوية | 5G على فودافون وMEO وNOS | قبول المدفوعات العالمية | تسليم فوري لرمز QR
 features:
-  title: 'لماذا يختار المسافرون إلى البرتغال Roami: السرعة والتغطية والدعم'
+  title: 'لماذا يختار مسافرو البرتغال روامي: تفعيل فوري وأسعار واضحة'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بشبكات فودافون وMEO وNOS للحصول على أفضل إشارة في جميع أنحاء البرتغال
-plans_title: 'شراء البرتغال eSIM: خطط لكل مدة رحلة'
+plans_title: 'خطط eSIM البرتغال: تغطية كاملة بسعر مناسب'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -287,7 +287,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية البرتغال eSIM: دليل شبكات فودافون وMEO وNOS'
+  title: 'دليل تغطية eSIM البرتغال: الشبكات والمشغلون'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -318,7 +318,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد البرتغال eSIM: ما يجب معرفته قبل الذهاب'
+  title: 'إعداد eSIM البرتغال: ما تحتاج تجهيزه مسبقًا'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -339,7 +339,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت البرتغال eSIM: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM البرتغال: خطوات واضحة وسريعة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -364,7 +364,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول البرتغال eSIM
+    title: إجابات لأهم أسئلة eSIM البرتغال
     questions:
     - q: |
         هل أحتاج إلى إظهار هوية لشراء بطاقة SIM في البرتغال؟
@@ -402,63 +402,75 @@ faq_section:
         هل يمكنني إعادة شحن eSIM البرتغال الخاصة بي إذا نفدت البيانات؟
       a: |
         نعم — يمكنك إعادة الشحن من خلال حساب Roami الخاص بك في أي وقت بنقرة واحدة. على عكس بطاقات SIM البرتغالية المدفوعة مسبقًا مع قيود الدفع المعقدة (ترفض MEO/NOS البطاقات الدولية، وتتطلب فودافون بطاقات عمرها أكثر من 3 أشهر، وتفرض NOS رسوم Payshop)، تقبل Roami طرق دفع عالمية بدون حواجز.
+    - q: |
+        كم يستغرق شراء eSIM البرتغال؟
+      a: |
+        يمكن شراء eSIM البرتغال قبل السفر أو بعده. بعد الوصول إلى البرتغال، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        أيّهما أرخص في البرتغال، eSIM أم بطاقة SIM المحلية؟
+      a: |
+        في البرتغال يتطلب شراء بطاقة SIM المحلية تسجيلًا في المتجر، لذا غالبًا يكون eSIM أوفر. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        هل يعمل eSIM البرتغال بدون تعبئة؟
+      a: |
+        eSIM البرتغال بنظام مسبق الدفع، ويمكن شراء باقة إضافية من التطبيق عند نقص البيانات. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط البرتغال eSIM ذات الصلة
+  title: وجهات إضافية بخطط eSIM مناسبة لـ البرتغال
   items:
-  - name: الولايات المتحدة eSIM
-    flag: img/flags/us.svg
+  - name: eSIM مولدوفا
+    flag: img/flags/mo.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM فيجي
+    flag: img/flags/fj.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM تايوان
+    flag: img/flags/tw.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: أوروبا eSIM
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM المغرب
+    flag: img/flags/ma.svg
+    price: من 3.99 دولار
     is_highlight: true
-  - name: كندا eSIM
-    flag: img/flags/ca.svg
+  - name: eSIM غرينادا
+    flag: img/flags/gd.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM غانا
+    flag: img/flags/gh.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM إيسواتيني
+    flag: img/flags/sz.svg
+    price: من 19.99 دولار
+    is_highlight: false
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: تركيا eSIM
-    flag: img/flags/tr.svg
+  - name: eSIM لاوس
+    flag: img/flags/la.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM قطر
+    flag: img/flags/qa.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: الصين eSIM
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM كوسوفو
+    flag: img/flags/xk.svg
+    price: من 13.99 دولار
     is_highlight: false
-  - name: اليابان eSIM
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: هونغ كونغ eSIM
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: فرنسا eSIM
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: إسبانيا eSIM
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: ألمانيا eSIM
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أستراليا eSIM
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM الكاميرون
+    flag: img/flags/cm.svg
+    price: من 27.99 دولار
     is_highlight: false
 market_analysis:
   title: 'البرتغال eSIM مقابل بطاقة SIM المحلية: أيهما يوفر لك أكثر؟'
   subtitle: 'بطاقات SIM المحلية المدفوعة مسبقًا في البرتغال مقابل حلول eSIM (معيار 2024/2025)'
   citation:
-    text: 'مصدر البيانات: ويكي بطاقة بيانات SIM المدفوعة مسبقًا (البرتغال) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Portugal
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

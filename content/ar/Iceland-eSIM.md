@@ -1,6 +1,6 @@
 ---
 title: 'eSIM أيسلندا - 5G في ريكيافيك والدائرة الذهبية | لا حاجة للبحث عن SIM | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM أيسلندا - أفضل خطة بيانات مدفوعة مسبقًا للمستكشفين
   description: "أفضل eSIM لأيسلندا مع 5G على سيمين وفودافون وتيلينور. تسليم QR فوري بدون تسجيل. تغطي ريكيافيك ورينغ رود. من 1.99 دولار. وخطط مرنة."
-  keywords: eSIM أيسلندا، شراء eSIM أيسلندا، أفضل eSIM أيسلندا، eSIM سفر أيسلندا، سيمين أيسلندا، فودافون أيسلندا، تيلينور أيسلندا، eSIM ريكيافيك، eSIM أكوريري، eSIM الدائرة الذهبية، eSIM مدفوعة مسبقًا أيسلندا، eSIM 5G أيسلندا، eSIM رينغ رود
+  keywords: eSIM أيسلندا، شراء eSIM أيسلندا، أفضل eSIM أيسلندا، eSIM أيسلندا رخيصة، eSIM أيسلندا مسبقة الدفع، باقة eSIM أيسلندا، eSIM أيسلندا غير محدودة، eSIM أيسلندا 5G، أفضل eSIM لـ أيسلندا، سعر eSIM أيسلندا، تفعيل eSIM أيسلندا، تغطية eSIM أيسلندا، سيمين أيسلندا، eSIM ريكيافيك، eSIM أكوريري، eSIM كيفلافيك
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/is.svg
   flag_alt: علم أيسلندا
-  title: 'eSIM أيسلندا: 5G في ريكيافيك والدائرة الذهبية وما بعدها — لا حاجة للبحث عن SIM'
+  title: 'eSIM أيسلندا: حلول بيانات كاملة لرحلتك'
   subtitle: 5G على سيمين وفودافون وتيلينور | لا حاجة لتسجيل جواز السفر | دعم 24/7
 features:
-  title: 'لماذا يختار المسافرون إلى أيسلندا Roami: التغطية والقيمة وعدم متاعب التسجيل'
+  title: 'لماذا يختار المسافرون إلى أيسلندا Roami: التغطية والسرعة والخدمة'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +73,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: جاهز لرينغ رود
     desc: تغطية 4G/5G على طول رينغ رود — ابقَ على اتصال من ريكيافيك إلى أكوريري
-plans_title: 'شراء eSIM أيسلندا: خطط لكل مدة رحلة'
+plans_title: 'شراء eSIM أيسلندا: خطط تناسب كل مدة سفر'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -291,7 +291,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM أيسلندا: دليل 5G لسيمين وفودافون وتيلينور — من رينغ رود إلى ريكيافيك'
+  title: 'تغطية eSIM أيسلندا: تغطية الشبكة ومقارنة المشغلين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -322,7 +322,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM أيسلندا: ما يجب معرفته قبل السفر'
+  title: 'نصائح إعداد eSIM أيسلندا: ما يجب معرفته قبل الذهاب'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -349,7 +349,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM أيسلندا: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM أيسلندا: ثلاث خطوات فقط'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -374,7 +374,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM أيسلندا
+    title: أسئلة يتكرر طرحها عن eSIM أيسلندا
     questions:
     - q: |
         هل تمتلك أيسلندا تغطية جيدة للهواتف المحمولة على طول رينغ رود؟
@@ -416,63 +416,75 @@ faq_section:
         متى تبدأ فترة صلاحية eSIM أيسلندا الخاصة بي؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في أيسلندا، وليس عند الشراء أو التثبيت. لذا يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة. تمنحك خطة 7 أيام 7 أيام كاملة من أول اتصال.
+    - q: |
+        كيف أشتري eSIM أيسلندا قبل رحلتي؟
+      a: |
+        يمكن شراء eSIM أيسلندا من Roami بالكامل عبر الإنترنت. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        لمجموعة مسافرين إلى أيسلندا، أيّهما أوفر، eSIM أم بطاقة SIM المحلية؟
+      a: |
+        أسعار eSIM أيسلندا معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. بطاقات SIM المحلية في أيسلندا تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        بيانات eSIM تنفد بسرعة، فهل هناك نصائح؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في أيسلندا، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM ذات الصلة بأيسلندا
+  title: باقات eSIM مرتبطة برحلتك إلى أيسلندا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
+  - name: eSIM غويانا الفرنسية
+    flag: img/flags/gf.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM النرويج
+    flag: img/flags/no.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM العراق
+    flag: img/flags/iq.svg
+    price: من 9.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM بروناي
+    flag: img/flags/bn.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM مقدونيا
+    flag: img/flags/ma.svg
+    price: من 4.99 دولار
     is_highlight: false
   - name: eSIM الصين
     flag: img/flags/cn.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+  - name: eSIM مالطا
+    flag: img/flags/mt.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
+  - name: eSIM الإكوادور
+    flag: img/flags/ec.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM باهاماس
+    flag: img/flags/bs.svg
+    price: من 16.99 دولار
+    is_highlight: false
+  - name: eSIM أوكرانيا
+    flag: img/flags/uk.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
+  - name: eSIM الكونغو (كينشاسا)
+    flag: img/flags/cg.svg
+    price: من 7.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM تشاد
+    flag: img/flags/td.svg
+    price: من 23.99 دولار
     is_highlight: false
 market_analysis:
   title: 'مقارنة eSIM أيسلندا ببطاقة SIM المحلية: لا جواز سفر، تكلفة أقل، جاهز لرينغ رود'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في أيسلندا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM للبيانات المدفوعة مسبقًا (أيسلندا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Iceland
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

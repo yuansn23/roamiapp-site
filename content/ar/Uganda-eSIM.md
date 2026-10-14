@@ -1,6 +1,6 @@
 ---
 title: 'eSIM أوغندا 2026: دليل السائح والشبكات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM أوغندا | بيانات غير محدودة مسبقة الدفع للزوار
   description: "أفضل eSIM سفر مسبق الدفع من Roami إلى أوغندا. بيانات 5G غير محدودة. تغطي كامبالا وجينجا وغولو. تفعيل فوري. اشترِ خطتك الآن."
-  keywords: eSIM أوغندا، شراء eSIM أوغندا، أفضل eSIM أوغندا، eSIM السفر إلى أوغندا، MTN أوغندا، Airtel أوغندا، Uganda Telecom أوغندا، eSIM كامبالا، eSIM جينجا، eSIM غولو، eSIM مسبق الدفع أوغندا، 5G eSIM أوغندا
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM أوغندا، شراء eSIM أوغندا، أفضل eSIM أوغندا، eSIM أوغندا رخيصة، eSIM أوغندا مسبقة الدفع، باقة eSIM أوغندا، eSIM أوغندا غير محدودة، eSIM أوغندا 5G، أفضل eSIM لـ أوغندا، سعر eSIM أوغندا، تفعيل eSIM أوغندا، تغطية eSIM أوغندا، MTN أوغندا أوغندا، eSIM كامبالا، eSIM جينجا، eSIM غولو
+  low_price: 7.99
+  high_price: 98.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المشمولة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/ug.svg
   flag_alt: علم أوغندا
-  title: 'eSIM أوغندا: حلول بيانات كاملة لرحلتك'
+  title: 'eSIM أوغندا: بيانات مرنة بتفعيل لحظي'
   subtitle: تفعيل فوري | تغطية 5G من الدرجة الأولى | دعم 24/7 - أفضل eSIM مسبق الدفع لأوغندا
 features:
-  title: 'لماذا يختار المسافرون إلى أوغندا Roami: الشبكة والخطط والقيمة'
+  title: 'ما يميز eSIM أوغندا من روامي: السرعة والخدمة'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل شركات الاتصال في أوغندا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM أوغندا: خطط تناسب كل مدة رحلة'
+plans_title: 'خطط eSIM أوغندا: اختر ما يناسب جدول رحلتك'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -245,7 +245,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM أوغندا: مقارنة التغطية والمشغلين'
+  title: 'eSIM أوغندا: تغطية الشبكة وأفضل المشغلين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -276,7 +276,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM أوغندا: ما يجب معرفته قبل السفر'
+  title: 'eSIM أوغندا: خطوات تحضير سريعة قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -295,7 +295,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM أوغندا: 3 خطوات بسيطة'
+  title: 'eSIM أوغندا: خطوات الإعداد والتفعيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -320,7 +320,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM أوغندا
+    title: أسئلة المسافر المتكررة عن eSIM أوغندا
     questions:
     - q: |
         كيف يقارن Roami بـ Holafly لـ eSIM في أوغندا؟
@@ -333,11 +333,11 @@ faq_section:
     - q: |
         هل ستبطئ خطة eSIM أوغندا غير المحدودة إذا استخدمت بيانات كثيرة؟
       a: |
-        هناك سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح — فقط لا يمكن بث الفيديو بسلاسة. في الواقع، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقًا، فإن الخطة الثابتة 10 جيجابايت (14.99 دولارًا) أو 20 جيجابايت (24.99 دولارًا) تزيل عدم اليقين تمامًا.
+        هناك سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح — فقط لا يمكن بث الفيديو بسلاسة. في الواقع، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقًا، فإن الخطة الثابتة 10 جيجابايت (31.99 دولارًا) أو 20 جيجابايت (64.99 دولارًا) تزيل عدم اليقين تمامًا.
     - q: |
         أحتاج إلى اتصال بالإنترنت لبضعة أيام فقط في أوغندا. ما هو الحد الأدنى الذي يمكنني شراؤه؟
       a: |
-        أرخص خطة هي 1.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لرحلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك زيادة الرصيد في أي وقت من التطبيق.
+        أرخص خطة هي 7.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لرحلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك زيادة الرصيد في أي وقت من التطبيق.
     - q: |
         هل أحتاج إلى إزالة شريحة SIM الفعلية لاستخدام eSIM في أوغندا؟
       a: |
@@ -354,55 +354,67 @@ faq_section:
         ماذا يحدث إذا استهلكت كل بياناتي في أوغندا قبل انتهاء صلاحية خطتي؟
       a: |
         قم بزيادة الرصيد من تطبيق Roami. يتم تفعيل البيانات الجديدة فورًا — بدون رمز QR جديد، ولا إعادة تثبيت. نوصي بزيادة الرصيد عندما يتبقى لديك حوالي 20٪ لتجنب أي انقطاع.
+    - q: |
+        هل أحتاج إدخال تواريخ الرحلة عند شراء eSIM أوغندا؟
+      a: |
+        يتيح Roami شراء eSIM أوغندا من التطبيق أو الموقع. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة MTN أوغندا لتبدأ الاستخدام فورًا.
+    - q: |
+        هل يوفّر eSIM أوغندا التكلفة للإقامات الطويلة؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM أوغندا شبكة محلية مباشرة (MTN أوغندا) فيكون أوفر. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل هناك حد لعدد مرات إضافة البيانات إلى eSIM أوغندا؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM ذات الصلة
+  title: وجهات أخرى لرحلتك القادمة من أوغندا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM الأرجنتين
+    flag: img/flags/ar.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM البرازيل
+    flag: img/flags/br.svg
+    price: من 4.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM المجر
+    flag: img/flags/hu.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بيلاروسيا
+    flag: img/flags/by.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بنما
+    flag: img/flags/pa.svg
+    price: من 11.99 دولار
     is_highlight: true
   - name: eSIM كندا
     flag: img/flags/ca.svg
-    price: ابتداءً من 1.99 دولار
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM سيراليون
+    flag: img/flags/si.svg
+    price: من 10.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM ماكاو
+    flag: img/flags/ma.svg
+    price: من 1.99 دولار
     is_highlight: false
   - name: eSIM ألمانيا
     flag: img/flags/de.svg
-    price: ابتداءً من 1.99 دولار
+    price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM السعودية
+    flag: img/flags/sa.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM أوزبكستان
+    flag: img/flags/uz.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM نيوزيلندا
+    flag: img/flags/nz.svg
+    price: من 3.99 دولار
     is_highlight: false
 ---

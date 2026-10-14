@@ -1,6 +1,6 @@
 ---
 title: トルコ eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:02:26+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,7 +20,9 @@ modal:
 seo:
   title: eSIM トルコ | 安定接続と広範囲カバレッジのおすすめデータ通信
   description: トルコ旅行で複数端末を接続するならRoamiのeSIM。テザリング対応でタブレットや家族のスマホとデータ共有可能。1アカウントで複数国対応プランを管理でき、グループ旅行や長期滞在に最適。
-  keywords: トルコ eSIM, トルコ旅行, トルコ ネットワーク, トルコ観光, トルコ モバイルデータ
+  low_price: 1.99
+  high_price: 78.99
+  keywords: トルコ eSIM, トルコ eSIM 料金, トルコ eSIM おすすめ, トルコ eSIM 安い, トルコ eSIM 購入, トルコ eSIM 申し込み, トルコ eSIM データ無制限, トルコ プリペイドSIM, トルコ 旅行 eSIM, トルコ eSIM 価格, トルコ eSIM 設定方法, トルコ eSIM 対応エリア, イスタンブール eSIM, アンカラ eSIM, トルコ モバイルデータ, トルコ eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: トルコ向け最高のeSIM
-  title: トルコ eSIM，海外旅行上网无忧
+  title: トルコ eSIMで現地のネットワークに接続
 hero:
   flag_image: img/flags/tr.svg
   flag_alt: トルコの国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: プランを見る
 plans_data:
   15 日:
   - spec: 5GB
@@ -324,7 +326,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: 安心して使うために
   items:
   - icon: 📱
     html: |-
@@ -375,12 +377,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: 'eSIM トル | QRコードで簡単インストール・即時接続の設定方法'
-  desc: トルコでおすすめのeSIMプラン比較ガイド。格安データ通信、購入からインストールまで5分で完了する手軽さ、5G対応の高速通信、24時間日本語サポートの安心感について詳しく解説。トルコではTurkcellのネットワークに対応。
+  desc: トルコでおすすめのeSIMプラン比較ガイド。トルコではTurkcellのネットワークに対応。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. よくあるご質問
     questions:
     - q: 私のスマートフォンはトルコのeSIMに対応していますか？また、インストール方法は？
       a: はい、最新のスマートフォン（iPhone XS/XR以降、Samsung Galaxy S20+/Note20+、Google Pixel 3a+など）はeSIMに対応しています。トルコ用eSIMは、モバイル設定でQRコードをスキャンしてインストールします。Turkcell
@@ -390,13 +392,12 @@ faq_section:
     - q: トルコ用eSIMを他のデバイスとテザリング（ポケットWi-Fi）できますか？
       a: はい、Roamiのトルコ用eSIMプランは全てテザリング（ポケットWi-Fi）を無制限でサポートしています。ノートパソコン、タブレット、または旅行仲間と接続を共有できます
         — 隠れたコストも速度制限もありません。
-        Roamiなら1GB/$1.99からの格安プランでトルコの5G高速通信を利用可能。24時間日本語サポート付きで初めての海外eSIMも安心です。
+
     - q: インストール後にトルコ用eSIMを別のデバイスに移行できますか？
       a: 一度インストールしたeSIMは他のデバイスに移行できません。旅行中に使用するデバイスにインストールしてください。追加のデバイスには個別にeSIMをお買い求めいただけます。
     - q: トルコ用eSIMは近隣諸国での国際ローミングはどうなりますか？
       a: トルコ用eSIMは主にトルコ向けに最適化されています。近隣諸国への旅行には、当社のヨーロッパまたは地域別eSIMをお勧めします。これにより追加料金なしでシームレスなローミングが可能です。
-        複数国を周遊する旅行なら、地域別eSIM（ヨーロッパやアジア）を選べば国境を越えるたびに自動でネットワーク切替。追加購入や設定変
-        トルコ旅行のデータ通信はRoamiにお任せ。最安1GB/$1.99、無制限プランもあり、5G対応の高速ネットワークで快適な旅をサポートします。更の手間がかかりません。海外旅行eSIMの地域別プランなら周遊旅行もスムーズです。
+        追加購入や設定変更の手間がかかりません。
     - q: Roamiはトルコ以外の地域向けeSIMも提供していますか？
       a: はい、トルコ用eSIMの他に、ヨーロッパ、アジア、北米、グローバル向けの地域別eSIMも提供しています。複数都市をまたぐ旅行や数カ国を巡るツアーに最適です
         — SIMカードの交換は不要です。
@@ -410,6 +411,12 @@ faq_section:
 
     - q: QRコードなしでトルコ用eSIMをインストールできますか？
       a: はい、QRコードの他に、SM‑DP+アドレスとアクティベーションコード（注文確認メールに記載）を使って手動でインストールすることも可能です。QRコードが最も簡単で迅速な方法です。
+    - q: 申し込み後にトルコ用eSIMのプラン変更はできますか？
+      a: クレジットカードがあれば、トルコ用eSIMはオンラインで申し込めます。トルコ到着後にデータ通信をオンにすれば自動で接続され、追加の申し込みは不要です。
+    - q: トルコでデータ通信費を最も安くする方法は何ですか？
+      a: トルコ用eSIMの料金はプランごとに明示されており、現地SIMのような追加チャージは不要です。実際の料金は選ぶプランによって異なるため、現在の価格は公式サイトでご確認ください。
+    - q: トルコ用eSIMのデータを使い切ったらチャージできますか？
+      a: トルコ用eSIMのデータを使い切った場合は、同じアカウントから新しいデータプランを追加できます。現地SIMのように店舗でチャージする必要はなく、すべてオンラインで完結します。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -572,81 +579,80 @@ faq_section:
       a: トルコ用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: トルコ用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        旅行用eSIMの使い方は簡単。購入後メールで届くQRコードをスキャンしてインストール。Roamiなら無制限プランもあり5G対応。
-        eSIMのメリットは物理SIM不要で機種変更時も簡単。デュアルSIM対応で日本の番号を維持したまま海外データ通信が可能。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にトルコ用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
+  - name: ウガンダ eSIM
+    flag: img/flags/ug.svg
+    price: 7.99ドルから
+    is_highlight: false
+    slug: uganda-esim
+  - name: ウクライナ eSIM
+    flag: img/flags/ua.svg
+    price: 1.99ドルから
+    is_highlight: false
+    slug: ukraine-esim
+  - name: UAE eSIM
+    flag: img/flags/ae.svg
+    price: 3.99ドルから
+    is_highlight: false
+    slug: united-arab-emirates-esim
+  - name: イギリス eSIM
+    flag: img/flags/gb.svg
+    price: 1.99ドルから
+    is_highlight: true
+    slug: united-kingdom-esim
+  - name: アメリカ合衆国 eSIM
     flag: img/flags/us.svg
     price: 1.99ドルから
     is_highlight: false
     slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
+  - name: ウルグアイ eSIM
+    flag: img/flags/uy.svg
+    price: 11.99ドルから
+    is_highlight: false
+    slug: uruguay-esim
+  - name: ウズベキスタン eSIM
+    flag: img/flags/uz.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
+    slug: uzbekistan-esim
+  - name: バチカン市国 eSIM
+    flag: img/flags/va.svg
+    price: 10.99ドルから
+    is_highlight: false
+    slug: vatican-city-esim
+  - name: ベトナム eSIM
+    flag: img/flags/vn.svg
+    price: 1.99ドルから
+    is_highlight: false
+    slug: vietnam-esim
+  - name: ザンビア eSIM
+    flag: img/flags/za.svg
+    price: 11.99ドルから
+    is_highlight: false
+    slug: zambia-esim
+  - name: スロベニア eSIM
+    flag: img/flags/sl.svg
+    price: 1.99ドルから
+    is_highlight: false
+    slug: slovenia-esim
+  - name: ヨーロッパ eSIM
     flag: img/flags/eu.svg
     price: 1.99ドルから
-    is_highlight: true
+    is_highlight: false
     slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "トルコでeSIMとプリペイドSIMを直接比較"
   subtitle: "トルコの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Turkey) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Turkey"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -691,7 +697,7 @@ market_analysis:
     - icon: "headset"
       title: "カスタマーサポート"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。"
+      prepaid_desc: "現地事業者のサポートは現地語が中心で、対応時間が限られる場合があります。"
       esim_title: "24時間多言語サポート"
       esim_desc: "トルコのプリペイドカードのサポートは限定的だが、eSIMは24時間英語サポートを提供。"
 
@@ -720,4 +726,3 @@ market_analysis:
         title: "即時アクティベーションで時間節約"
         desc: "店舗での購入・アクティベーションに30〜60分かかる。eSIMは購入後すぐにQRコードでアクティベーション完了。"
 ---
-        eSIMのメリットは物理SIM不要で機種変更時も簡単。デュアルSIM対応で日本の番号を維持したまま海外データ通信が可能。

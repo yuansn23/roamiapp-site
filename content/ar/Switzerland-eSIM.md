@@ -1,6 +1,6 @@
 ---
 title: 'eSIM سويسرا - تغطية الجيل الخامس في الألب والتجوال في الاتحاد الأوروبي | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM سويسرا - تغطية 5G في الألب والتجوال الأوروبي"
   description: "أفضل eSIM لسويسرا مع 5G على Swisscom و Sunrise و Salt. يشمل تجوال الاتحاد الأوروبي. تجنب طوابير مطار زيورخ. من 1.99 دولار."
-  keywords: eSIM سويسرا، شراء eSIM سويسرا، أفضل eSIM سويسرا، eSIM السفر إلى سويسرا، Swisscom سويسرا، Sunrise سويسرا، Salt سويسرا، eSIM زيورخ، eSIM جنيف، eSIM بازل، eSIM سويسرا مسبقة الدفع، eSIM 5G سويسرا، eSIM جبال الألب السويسرية، eSIM يونغفراو، eSIM سويسرا تجوال الاتحاد الأوروبي
+  keywords: eSIM سويسرا، شراء eSIM سويسرا، أفضل eSIM سويسرا، eSIM سويسرا رخيصة، eSIM سويسرا مسبقة الدفع، باقة eSIM سويسرا، eSIM سويسرا غير محدودة، eSIM سويسرا 5G، أفضل eSIM لـ سويسرا، سعر eSIM سويسرا، تفعيل eSIM سويسرا، تغطية eSIM سويسرا، Swisscom سويسرا، eSIM زيورخ، eSIM جنيف، eSIM بازل
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/ch.svg
   flag_alt: علم سويسرا
-  title: 'eSIM سويسرا: الجيل الخامس في الألب والمدن وما بعدها — بدون سعر Swisscom الباهظ'
+  title: 'eSIM سويسرا: بياناتك جاهزة قبل الإقلاع'
   subtitle: الجيل الخامس في الألب على شبكات Swisscom و Sunrise و Salt | يشمل التجوال في الاتحاد الأوروبي | تجنب طوابير مطار زيورخ | تسليم فوري عبر QR
 features:
-  title: 'لماذا يختار المسافرون إلى سويسرا Roami: التغطية الجبلية، السرعة، والقيمة'
+  title: لماذا يفضّل المسافرون إلى سويسرا روامي
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +73,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: تغطية جبال الألب
     desc: الجيل الخامس/الرابع في يونغفراو، زيرمات، إنترلاكن، وجميع منتجعات التزلج الرئيسية
-plans_title: 'شراء eSIM سويسرا: خطط تناسب كل مدة رحلة'
+plans_title: اختر باقة eSIM سويسرا المناسبة لمدة سفرك
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -291,7 +291,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM سويسرا: دليل شبكات 5G من Swisscom و Sunrise و Salt — من الألب إلى المدن'
+  title: 'تغطية eSIM سويسرا: من المدن الكبرى إلى الريف'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -322,7 +322,7 @@ network_coverage:
       coverage: تغطية 5G حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM سويسرا: ما يجب معرفته قبل الذهاب'
+  title: 'تحضيرات eSIM سويسرا: تذكيرات مهمة للمسافر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -345,7 +345,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM سويسرا: 3 خطوات بسيطة'
+  title: كيفية تفعيل eSIM سويسرا على هاتفك
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -370,7 +370,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM سويسرا
+    title: توضيحات حول eSIM سويسرا
     questions:
     - q: |
         هل سيعمل eSIM الخاص بي في جبال الألب السويسرية — يونغفراو، زيرمات، إنترلاكن؟
@@ -408,63 +408,75 @@ faq_section:
         متى تبدأ فترة صلاحية eSIM سويسرا الخاص بي؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في سويسرا، وليس عند الشراء أو التثبيت. لذلك يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أيام من الخطة. تمنحك خطة 7 أيام 7 أيام كاملة من أول اتصال.
+    - q: |
+        هل يعمل eSIM سويسرا فور شرائه؟
+      a: |
+        يمكن شراء eSIM سويسرا قبل السفر أو بعده. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        هل eSIM سويسرا أرخص من العروض الأخرى؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في سويسرا أسهل. بطاقات SIM المحلية في سويسرا تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        ماذا أفعل إذا أوشكت بيانات eSIM سويسرا على النفاد؟
+      a: |
+        عند نفاد بيانات eSIM سويسرا يمكنك إضافة باقة بيانات جديدة من نفس الحساب. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM سويسرا ذات الصلة
+  title: خطط eSIM لرحلات متعددة انطلاقًا من سويسرا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM كوريا الجنوبية
+    flag: img/flags/kr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM رومانيا
+    flag: img/flags/ro.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM جبل طارق
+    flag: img/flags/gi.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM جمهورية التشيك
+    flag: img/flags/cz.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM إندونيسيا
+    flag: img/flags/id.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM تشيلي
+    flag: img/flags/cl.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM غواتيمالا
+    flag: img/flags/gt.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM الأرجنتين
+    flag: img/flags/ar.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM البرازيل
+    flag: img/flags/br.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM المجر
+    flag: img/flags/hu.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM بيلاروسيا
+    flag: img/flags/by.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM بنما
+    flag: img/flags/pa.svg
+    price: من 11.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM سويسرا مقابل بطاقات SIM المحلية المدفوعة مسبقًا: أيهما أفضل للمسافرين إلى الألب؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في سويسرا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقة بيانات SIM المدفوعة مسبقًا (سويسرا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Switzerland
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مسبقة الدفع (بيانات السوق)

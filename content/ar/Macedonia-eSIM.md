@@ -1,6 +1,6 @@
 ---
 title: 'مقدونيا eSIM 2026: دليل المدن والشبكات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -16,11 +16,11 @@ modal:
   text_default: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIMGo</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
 seo:
-  title: "مقدونيا eSIM من 1.99 دولار: تغطية 5G غير محدودة للسياح"
-  description: "قارن خطط مقدونيا eSIM مع 5G سريع في سكوبيه وأوخريد وبيتولا. تغطية A1 مقدونيا وتيليكوم مقدونيا. تفعيل فوري من 1.99 دولار."
-  keywords: مقدونيا eSIM, شراء مقدونيا eSIM, أفضل مقدونيا eSIM, مقدونيا eSIM للسفر, A1 مقدونيا, تيليكوم مقدونيا, لايكاموبايل مقدونيا, سكوبيه eSIM, أوخريد eSIM, بيتولا eSIM, مقدونيا eSIM مسبقة الدفع, 5G مقدونيا eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: "مقدونيا eSIM من 4.99 دولار: تغطية 5G غير محدودة للسياح"
+  description: "قارن خطط مقدونيا eSIM مع 5G سريع في سكوبيه وأوخريد وبيتولا. تغطية A1 مقدونيا وتيليكوم مقدونيا. تفعيل فوري من 4.99 دولار."
+  keywords: eSIM مقدونيا، شراء eSIM مقدونيا، أفضل eSIM مقدونيا، eSIM مقدونيا رخيصة، eSIM مقدونيا مسبقة الدفع، باقة eSIM مقدونيا، eSIM مقدونيا غير محدودة، eSIM مقدونيا 5G، أفضل eSIM لـ مقدونيا، سعر eSIM مقدونيا، تفعيل eSIM مقدونيا، تغطية eSIM مقدونيا، A1 مقدونيا مقدونيا، eSIM سكوبيه، eSIM أوخريد، eSIM بيتولا
+  low_price: 4.99
+  high_price: 94.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/ma.svg
   flag_alt: علم مقدونيا
-  title: 'مقدونيا eSIM: بيانات 5G سريعة لكل مدينة ووجهة'
+  title: 'eSIM مقدونيا: إنترنت سريع بدون هوية أو انتظار'
   subtitle: تفعيل فوري | تغطية 5G من الدرجة الأولى | دعم 24/7 - أفضل eSIM مسبقة الدفع لمقدونيا
 features:
-  title: 'لماذا يختار المسافرون إلى مقدونيا Roami: الشبكة والباقات والقيمة'
+  title: مزايا Roami للمسافرين إلى مقدونيا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات الاتصالات في مقدونيا للحصول على أفضل إشارة
-plans_title: 'شراء مقدونيا eSIM: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM مقدونيا: أسعار واضحة لكل رحلة'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -148,7 +148,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية مقدونيا eSIM: تغطية الشبكة ومقارنة المشغلين'
+  title: 'eSIM مقدونيا: نظرة على التغطية والمشغلين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -181,7 +181,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد مقدونيا eSIM: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM مقدونيا: أمور يجب ترتيبها قبل الوصول'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -202,7 +202,7 @@ reminders:
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت مقدونيا eSIM: 3 خطوات بسيطة'
+  title: 'إعداد eSIM مقدونيا: دليل التركيب خطوة بخطوة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -227,7 +227,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول مقدونيا eSIM
+    title: أسئلة المسافرين حول eSIM مقدونيا
     questions:
     - q: |
         هل أحتاج إلى جواز سفر أو هوية لاستخدام eSIM في مقدونيا؟ كيف يعمل التحقق؟
@@ -240,7 +240,7 @@ faq_section:
     - q: |
         ما الذي يتضمنه شراء eSIM مقدونيا من Roami؟
       a: |
-        تسليم رمز QR في غضون 5 دقائق، والوصول إلى شبكة تيليكوم المقدونية، ودعم العملاء 24/7، ونقطة اتصال مجانية لما يصل إلى 5 أجهزة. تبدأ الخطط من 1.99 دولار. لا عقود، لا رسوم خفية، لا تجديد تلقائي.
+        تسليم رمز QR في غضون 5 دقائق، والوصول إلى شبكة تيليكوم المقدونية، ودعم العملاء 24/7، ونقطة اتصال مجانية لما يصل إلى 5 أجهزة. تبدأ الخطط من 4.99 دولار. لا عقود، لا رسوم خفية، لا تجديد تلقائي.
     - q: |
         ما هي أسهل طريقة للبقاء على اتصال في مقدونيا دون التعامل مع أكشاك SIM في المطار؟
       a: |
@@ -261,55 +261,67 @@ faq_section:
         ماذا يحدث إذا استخدمت كل بياناتي في مقدونيا قبل انتهاء صلاحية خطتي؟
       a: |
         أعد الشحن من تطبيق Roami. يتم تفعيل البيانات الجديدة فورًا — لا حاجة لرمز QR جديد، لا إعادة تثبيت. نوصي بإعادة الشحن عندما يتبقى لديك حوالي 20٪ لتجنب أي انقطاع.
+    - q: |
+        هل يمكنني شراء eSIM مقدونيا من هاتفي؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة A1 مقدونيا لتبدأ الاستخدام فورًا.
+    - q: |
+        كيف يتغير سعر eSIM مقدونيا حسب حجم البيانات؟
+      a: |
+        أسعار eSIM مقدونيا معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل يمكن ترحيل البيانات المتبقية إلى اليوم التالي؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في مقدونيا، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM ذات الصلة
+  title: باقات eSIM إضافية لرحلة مقدونيا
   items:
-  - name: الولايات المتحدة eSIM
+  - name: eSIM باكستان
+    flag: img/flags/pk.svg
+    price: من 3.99 دولار
+    is_highlight: true
+  - name: eSIM أذربيجان
+    flag: img/flags/az.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM مدغشقر
+    flag: img/flags/mg.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM غيانا
+    flag: img/flags/gy.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM البرتغال
+    flag: img/flags/pt.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM أرمينيا
+    flag: img/flags/am.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM لوكسمبورغ
+    flag: img/flags/lu.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM سيشل
+    flag: img/flags/sc.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM الولايات المتحدة الأمريكية
     flag: img/flags/us.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM كوستاريكا
+    flag: img/flags/cr.svg
+    price: من 9.99 دولار
     is_highlight: false
-  - name: أوروبا eSIM
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: كندا eSIM
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM روسيا
+    flag: img/flags/ru.svg
+    price: من 2.99 دولار
     is_highlight: false
-  - name: تركيا eSIM
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: الصين eSIM
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: اليابان eSIM
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: هونغ كونغ eSIM
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: فرنسا eSIM
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: إسبانيا eSIM
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: ألمانيا eSIM
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أستراليا eSIM
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM المالديف
+    flag: img/flags/mv.svg
+    price: من 14.99 دولار
     is_highlight: false
 ---

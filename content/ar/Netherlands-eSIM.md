@@ -1,6 +1,6 @@
 ---
 title: 'eSIM هولندا 2026 - أفضل خطة 5G لأمستردام | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM هولندا - خطة بيانات 5G مسبقة الدفع للبدو الرقميين"
   description: "أفضل eSIM هولندا مدفوعة مسبقًا مع 5G على KPN و Vodafone و T-Mobile. تفعيل فوري عبر QR. تجوال أوروبي كامل. من 1.99 دولار."
-  keywords: eSIM هولندا, شراء eSIM هولندا, أفضل eSIM هولندا, eSIM سفر هولندا, KPN هولندا, Vodafone هولندا, T-Mobile هولندا, eSIM أمستردام, eSIM روتردام, eSIM لاهاي, eSIM هولندا مسبقة الدفع, 5G eSIM هولندا, eSIM كيوكينهوف, eSIM حقول التوليب
+  keywords: eSIM هولندا، شراء eSIM هولندا، أفضل eSIM هولندا، eSIM هولندا رخيصة، eSIM هولندا مسبقة الدفع، باقة eSIM هولندا، eSIM هولندا غير محدودة، eSIM هولندا 5G، أفضل eSIM لـ هولندا، سعر eSIM هولندا، تفعيل eSIM هولندا، تغطية eSIM هولندا، KPN هولندا، eSIM أمستردام، eSIM روتردام، eSIM لاهاي
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/nl.svg
   flag_alt: علم هولندا
-  title: 'eSIM هولندا: 5G في أمستردام وما بعدها — بدون حاجة لهوية'
+  title: 'eSIM هولندا: اتصال واضح وتغطية شاملة'
   subtitle: لا حاجة لهوية/تسجيل | 5G على KPN و Vodafone و T-Mobile | تجوال أوروبي كامل السرعة
 features:
-  title: 'لماذا يختار المسافرون إلى هولندا Roami: السرعة والتغطية والدعم'
+  title: لماذا تفضّل روامي لرحلة هولندا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بـ KPN و Vodafone و T-Mobile للحصول على أفضل إشارة في جميع أنحاء هولندا
-plans_title: 'شراء eSIM هولندا: خطط تناسب كل مدة رحلة'
+plans_title: 'شراء باقة eSIM هولندا: خطط بسيطة وأسعار شفافة'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -285,7 +285,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM هولندا: دليل شبكات KPN و Vodafone و T-Mobile'
+  title: 'تغطية eSIM هولندا: من العاصمة إلى المناطق النائية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -316,7 +316,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM هولندا: ما يجب معرفته قبل الذهاب'
+  title: 'تحضير eSIM هولندا: أهم النقاط قبل الانطلاق'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -337,7 +337,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM هولندا: 3 خطوات بسيطة'
+  title: 'تفعيل eSIM هولندا: طريقة بسيطة وسريعة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -362,7 +362,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM هولندا
+    title: ما تحتاج معرفته عن eSIM هولندا
     questions:
     - q: |
         هل أحتاج إلى تسجيل أو إظهار هوية لبطاقة SIM في هولندا؟
@@ -400,63 +400,75 @@ faq_section:
         هل يمكنني استخدام نقطة الاتصال/المشاركة مع eSIM هولندا؟
       a: |
         نعم — تسمح Roami بمشاركة نقطة الاتصال بالسرعة الكاملة على جميع الخطط. هذا على عكس بعض بطاقات SIM الهولندية المحلية: تحظر Lyca Mobile المشاركة تمامًا. مع Roami، يمكنك مشاركة بياناتك مع رفاق السفر أو أجهزة الكمبيوتر المحمولة أو الأجهزة اللوحية بدون أي قيود.
+    - q: |
+        هل يمكنني شراء eSIM هولندا لعائلتي معًا؟
+      a: |
+        يتيح Roami شراء eSIM هولندا من التطبيق أو الموقع. بعد الوصول إلى هولندا، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        كيف يختلف eSIM هولندا عن باقات التجوال الدولية؟
+      a: |
+        بما أنك تختار الحجم المناسب، يكون eSIM أقل هدرًا للمال في هولندا. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        هل يمكنني التبديل بين عدة باقات بيانات في eSIM هولندا؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM هولندا ذات الصلة
+  title: باقات eSIM مقترحة حول هولندا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM بورتوريكو
+    flag: img/flags/pu.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM كرواتيا
+    flag: img/flags/hr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
+  - name: eSIM سلوفينيا
+    flag: img/flags/sl.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM هندوراس
+    flag: img/flags/hn.svg
+    price: من 6.99 دولار
+    is_highlight: true
+  - name: eSIM غوام
+    flag: img/flags/gu.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM أوروغواي
+    flag: img/flags/uy.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM بولندا
+    flag: img/flags/pl.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM الأردن
+    flag: img/flags/jo.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM كيويت
+    flag: img/flags/kw.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM نيجيريا
+    flag: img/flags/ng.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM المملكة المتحدة
     flag: img/flags/gb.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM موريشيوس
+    flag: img/flags/ma.svg
+    price: من 7.99 دولار
     is_highlight: false
 market_analysis:
   title: 'مقارنة eSIM هولندا مقابل بطاقة SIM المدفوعة مسبقًا: أيهما يقدم قيمة أفضل؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في هولندا مقابل حلول eSIM (معايير 2024/2025)
   citation:
-    text: 'مصدر البيانات: Wiki بطاقة بيانات SIM المدفوعة مسبقًا (هولندا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Netherlands
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

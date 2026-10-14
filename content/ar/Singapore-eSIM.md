@@ -1,6 +1,6 @@
 ---
 title: 'eSIM سنغافورة - تغطية 5G في جميع أنحاء الجزيرة | بدون طوابير المطار | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM سنغافورة - أفضل خطة 5G مسبقة الدفع في الجزيرة"
   description: "أفضل eSIM لسنغافورة مع 5G على Singtel و StarHub و M1. تسليم فوري عبر QR. مثالي لخليج مارينا وسينتوسا. من 1.99 دولار. وخطط مرنة."
-  keywords: eSIM سنغافورة, شراء eSIM سنغافورة, أفضل eSIM سنغافورة, eSIM سفر سنغافورة, Singtel سنغافورة, StarHub سنغافورة, M1 سنغافورة, eSIM مدينة سنغافورة, eSIM جورونغ إيست, eSIM تامبينيس, eSIM مدفوع مسبق سنغافورة, 5G eSIM سنغافورة, eSIM خليج مارينا, eSIM سينتوسا
+  keywords: eSIM سنغافورة، شراء eSIM سنغافورة، أفضل eSIM سنغافورة، eSIM سنغافورة رخيصة، eSIM سنغافورة مسبقة الدفع، باقة eSIM سنغافورة، eSIM سنغافورة غير محدودة، eSIM سنغافورة 5G، أفضل eSIM لـ سنغافورة، سعر eSIM سنغافورة، تفعيل eSIM سنغافورة، تغطية eSIM سنغافورة، Singtel سنغافورة، eSIM مدينة سنغافورة، eSIM جورونغ إيست، eSIM تامبينيس
   low_price: 1.99
-  high_price: 39.9
+  high_price: 65.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/sg.svg
   flag_alt: علم سنغافورة
-  title: 'eSIM سنغافورة: 5G في جميع أنحاء الجزيرة — تجنب طابور مطار شانغي'
+  title: 'eSIM سنغافورة: اتصال فوري لسفر خالٍ من القلق'
   subtitle: 5G على Singtel و StarHub و M1 | بدون تسجيل جواز سفر | تسليم فوري عبر QR | دعم 24/7
 features:
-  title: 'لماذا يختار المسافرون إلى سنغافورة Roami: السرعة، التغطية والراحة'
+  title: 'لماذا يختار مسافرو سنغافورة روامي: الشبكة والخطط والقيمة'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +73,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: 5G في جميع أنحاء الجزيرة
     desc: تغطية 5G كاملة من مطار شانغي إلى سينتوسا — كل ركن من أركان سنغافورة
-plans_title: 'شراء eSIM سنغافورة: خطط لكل مدة رحلة'
+plans_title: 'شراء eSIM سنغافورة: باقات مرنة لمدة إقامتك'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -281,7 +281,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM سنغافورة: دليل Singtel و StarHub و M1 5G في جميع أنحاء الجزيرة'
+  title: 'تغطية eSIM سنغافورة: دليل المشغلين وخريطة التغطية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -312,7 +312,7 @@ network_coverage:
       coverage: تغطية 5G حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM سنغافورة: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM سنغافورة: خطوات التحضير قبل المغادرة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -337,7 +337,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM سنغافورة: 3 خطوات بسيطة'
+  title: 'eSIM سنغافورة: خطوات التركيب بالتفصيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -362,7 +362,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM سنغافورة
+    title: أجوبة سريعة عن eSIM سنغافورة
     questions:
     - q: |
         هل 5G متاحة حقًا في كل مكان في سنغافورة؟ ماذا عن سينتوسا ومطار شانغي؟
@@ -404,63 +404,75 @@ faq_section:
         متى تبدأ فترة صلاحية eSIM سنغافورة الخاص بي؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في سنغافورة، وليس عند الشراء أو التثبيت. لذا يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة. خطة 7 أيام تمنحك 7 أيام كاملة من أول اتصال.
+    - q: |
+        هل يمكنني شراء eSIM سنغافورة من بلدي قبل السفر؟
+      a: |
+        يمكن شراء eSIM سنغافورة من Roami بالكامل عبر الإنترنت. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        لماذا يكون eSIM أوفر من بطاقة SIM المحلية في سنغافورة؟
+      a: |
+        بما أنك تختار الحجم المناسب، يكون eSIM أقل هدرًا للمال في سنغافورة. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        هل يمكن إضافة بيانات إلى eSIM سنغافورة لاحقًا؟
+      a: |
+        eSIM سنغافورة بنظام مسبق الدفع، ويمكن شراء باقة إضافية من التطبيق عند نقص البيانات. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM ذات الصلة لسنغافورة
+  title: وجهات أخرى وخطط eSIM قد تفيد رحلتك إلى سنغافورة
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
+  - name: eSIM الكاميرون
+    flag: img/flags/cm.svg
+    price: من 27.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM كولومبيا
+    flag: img/flags/co.svg
+    price: من 4.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM جنوب شرق آسيا
+    flag: img/flags/ya.webp
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM ملاوي
+    flag: img/flags/mw.svg
+    price: من 14.99 دولار
+    is_highlight: false
+  - name: eSIM دومينيكا
+    flag: img/flags/dm.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM بنغلاديش
+    flag: img/flags/bd.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM السلفادور
+    flag: img/flags/sv.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM كوريا الجنوبية
+    flag: img/flags/kr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
+  - name: eSIM رومانيا
+    flag: img/flags/ro.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
+  - name: eSIM جبل طارق
+    flag: img/flags/gi.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM جمهورية التشيك
+    flag: img/flags/cz.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM إندونيسيا
+    flag: img/flags/id.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM سنغافورة مقابل بطاقة SIM المحلية المدفوعة مسبقًا: الراحة مقابل التكلفة'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في سنغافورة مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (Singapore) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Singapore
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

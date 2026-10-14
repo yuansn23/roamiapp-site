@@ -1,6 +1,6 @@
 ---
 title: 'eSIM الأردن 2026: دليل السفر الشامل | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>يتمتع العملاء الجدد بخصم 20%، رمز الخصم: web20'
 seo:
   title: "eSIM 5G الأردن: تفعيل فوري، بيانات غير محدودة للسياح"
-  description: "قارن خطط eSIM الأردن مع 5G سريع في عمان والزرقاء وإربد. تغطية أورانج الأردن وزين وأمنية. تفعيل فوري عبر QR من 1.99 دولار."
-  keywords: eSIM الأردن، شراء eSIM الأردن، أفضل eSIM الأردن، eSIM السفر إلى الأردن، أورانج الأردن، زين الأردن، أمنية الأردن، eSIM عمان، eSIM الزرقاء، eSIM إربد، eSIM الأردن مسبقة الدفع، 5G eSIM الأردن
-  low_price: 1.99
-  high_price: 39.9
+  description: "قارن خطط eSIM الأردن مع 5G سريع في عمان والزرقاء وإربد. تغطية أورانج الأردن وزين وأمنية. تفعيل فوري عبر QR من 6.99 دولار."
+  keywords: eSIM الأردن، شراء eSIM الأردن، أفضل eSIM الأردن، eSIM الأردن رخيصة، eSIM الأردن مسبقة الدفع، باقة eSIM الأردن، eSIM الأردن غير محدودة، eSIM الأردن 5G، أفضل eSIM لـ الأردن، سعر eSIM الأردن، تفعيل eSIM الأردن، تغطية eSIM الأردن، أورانج الأردن الأردن، eSIM عمان، eSIM الزرقاء، eSIM إربد
+  low_price: 6.99
+  high_price: 99.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/jo.svg
   flag_alt: علم الأردن
-  title: 'eSIM الأردن: حلول بيانات كاملة لرحلتك'
+  title: 'eSIM الأردن: بيانات عالية السرعة بأسعار مناسبة'
   subtitle: أفضل eSIM مسبقة الدفع للمسافرين إلى الأردن - 5G سريع، تفعيل فوري، دعم 24/7
 features:
-  title: 'لماذا يختار مسافرو الأردن روامي: السرعة، التغطية والدعم'
+  title: 'لماذا يختار مسافرو الأردن روامي: تفعيل فوري وأسعار واضحة'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائياً بأفضل مشغلي الأردن للحصول على أفضل إشارة
-plans_title: 'شراء eSIM الأردن: خطط تناسب كل مدة سفر'
+plans_title: 'خطط eSIM الأردن: تغطية كاملة بسعر مناسب'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -213,7 +213,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM الأردن: دليل كامل للشبكات المحلية'
+  title: 'دليل تغطية eSIM الأردن: الشبكات والمشغلون'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -244,7 +244,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM الأردن: ما يجب معرفته قبل الذهاب'
+  title: 'إعداد eSIM الأردن: ما تحتاج تجهيزه مسبقًا'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -263,7 +263,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM الأردن: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM الأردن: خطوات واضحة وسريعة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -288,7 +288,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM الأردن
+    title: إجابات لأهم أسئلة eSIM الأردن
     questions:
     - q: |
         هل يتحول روامي تلقائياً بين زين وأورانج وأمنية في الأردن؟
@@ -301,7 +301,7 @@ faq_section:
     - q: |
         كم يجب أن أخصص ميزانية لـ eSIM عند زيارة الأردن؟
       a: |
-        تقدم روامي eSIM الأردن من 1.99 دولار لخطة خفيفة لمدة 7 أيام حتى 59.99 دولار لـ 30 يوماً من البيانات غير المحدودة. يختار معظم الزوار خطة 5 جيجابايت/15 يوماً بسعر 9.99 دولار — تغطي الملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة دون عناء. يجب على محبي البث المباشر أو مستخدمي وسائل التواصل الثقيلة التفكير في 10 جيجابايت أو غير المحدودة. توفر زين سرعات موثوقة في جميع أنحاء الأردن. خطط روامي مدفوعة مسبقاً — لا فواتير مفاجئة، لا تجديد تلقائي، فقط تسعير مباشر.
+        تقدم روامي eSIM الأردن من 6.99 دولار لخطة خفيفة لمدة 7 أيام حتى 52.99 دولار لـ 3 يوماً من البيانات غير المحدودة. يختار معظم الزوار خطة 5 جيجابايت/15 يوماً بسعر 16.99 دولار — تغطي الملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة دون عناء. يجب على محبي البث المباشر أو مستخدمي وسائل التواصل الثقيلة التفكير في 10 جيجابايت أو غير المحدودة. توفر زين سرعات موثوقة في جميع أنحاء الأردن. خطط روامي مدفوعة مسبقاً — لا فواتير مفاجئة، لا تجديد تلقائي، فقط تسعير مباشر.
     - q: |
         هل يمكنني استخدام eSIM الأردن لوسائل التواصل الاجتماعي ومشاركة الصور مع العائلة؟
       a: |
@@ -309,7 +309,7 @@ faq_section:
     - q: |
         أحتاج إلى الوصول إلى الإنترنت لبضعة أيام فقط في الأردن. ما هو الحد الأدنى الذي يمكنني شراؤه؟
       a: |
-        أرخص خطة هي 1.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لعطلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك الشحن في أي وقت من التطبيق.
+        أرخص خطة هي 6.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لعطلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك الشحن في أي وقت من التطبيق.
     - q: |
         ما الفرق بين خطة 5 جيجابايت والخطة غير المحدودة للأردن؟
       a: |
@@ -322,63 +322,75 @@ faq_section:
         هل يمكنني استخدام تطبيقات الملاحة مثل Google Maps مع eSIM في الأردن؟
       a: |
         نعم — يستخدم Google Maps حوالي 5 ميجابايت في الساعة للملاحة مع حركة المرور في الوقت الفعلي. قم بتنزيل خرائط غير متصلة للأردن (حوالي 200-500 ميجابايت لكل مدينة) قبل الذهاب كنسخة احتياطية.
+    - q: |
+        كم يستغرق شراء eSIM الأردن؟
+      a: |
+        يمكن شراء eSIM الأردن قبل السفر أو بعده. بعد الوصول إلى الأردن، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        أيّهما أرخص في الأردن، eSIM أم بطاقة SIM المحلية؟
+      a: |
+        في الأردن يتطلب شراء بطاقة SIM المحلية تسجيلًا في المتجر، لذا غالبًا يكون eSIM أوفر. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        هل يعمل eSIM الأردن بدون تعبئة؟
+      a: |
+        eSIM الأردن بنظام مسبق الدفع، ويمكن شراء باقة إضافية من التطبيق عند نقص البيانات. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM الأردن ذات الصلة
+  title: وجهات إضافية بخطط eSIM مناسبة لـ الأردن
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM أوكرانيا
+    flag: img/flags/uk.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM الكونغو (كينشاسا)
+    flag: img/flags/cg.svg
+    price: من 7.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM تشاد
+    flag: img/flags/td.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM الغابون
+    flag: img/flags/ga.svg
+    price: من 14.99 دولار
     is_highlight: false
   - name: eSIM تركيا
     flag: img/flags/tr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
+  - name: eSIM صربيا
+    flag: img/flags/se.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+  - name: eSIM ليختنشتاين
+    flag: img/flags/li.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
+  - name: eSIM غوادلوب
+    flag: img/flags/gp.svg
+    price: من 8.99 دولار
+    is_highlight: false
+  - name: eSIM أندورا
+    flag: img/flags/ad.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM إيطاليا
+    flag: img/flags/it.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
+  - name: eSIM موزمبيق
+    flag: img/flags/mo.svg
+    price: من 14.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
-    is_highlight: false
+  - name: eSIM طاجيكستان
+    flag: img/flags/tj.svg
+    price: من 4.99 دولار
+    is_highlight: true
 market_analysis:
   title: 'eSIM الأردن مقابل بطاقة SIM المحلية المدفوعة مسبقاً: أيهما أكثر ملاءمة؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقاً في الأردن مقابل حلول eSIM (معيار 2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (الأردن) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Jordan
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - SIM محلية مسبقة الدفع (بيانات السوق)

@@ -1,6 +1,6 @@
 ---
 title: ヨルダン eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:01:39+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,10 @@ modal:
     当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました！<br>新規のお客様はコード <strong>web20</strong> で20%オフ！
 seo:
   title: eSIM ヨルダン | 契約不要のプリペイドデータ通信プラン徹底比較解説
-  description: ヨルダン旅行で通信費を抑えるRoamiのeSIM。事前購入で現地SIMの3分の1以下の価格を実現。設定はQRコードをスキャンするだけの簡単3ステップ。データ残量はアプリでいつでも確認可能。
-  keywords: ヨルダン eSIM, ヨルダン モバイルデータ, ヨルダン 観光, ヨルダン 旅行, ヨルダン インターネット
+  description: ヨルダン eSIMをお探しならRoami。6.99ドルからのデータプランで現地の5G/4Gに接続。事前購入で空港のSIMカウンターをスキップできます。
+  low_price: 6.99
+  high_price: 99.99
+  keywords: ヨルダン eSIM, ヨルダン eSIM 料金, ヨルダン eSIM おすすめ, ヨルダン eSIM 安い, ヨルダン eSIM 購入, ヨルダン eSIM 申し込み, ヨルダン eSIM データ無制限, ヨルダン プリペイドSIM, ヨルダン 旅行 eSIM, ヨルダン eSIM 価格, ヨルダン eSIM 設定方法, ヨルダン eSIM 対応エリア, アンマン eSIM, アカバ eSIM, ヨルダン モバイルデータ, ヨルダン eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: ヨルダン向け最高のeSIM
-  title: 海外旅行，就选ヨルダン eSIM
+  title: ヨルダン eSIMで旅先でも安心の通信
 hero:
   flag_image: img/flags/jo.svg
   flag_alt: ヨルダンの国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: 旅程に合うプラン
 plans_data:
   7 日:
   - spec: 1GB
@@ -242,7 +244,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: 購入前にご確認ください
   items:
   - icon: 📱
     html: |-
@@ -292,13 +294,13 @@ activation_steps:
       – 待ち時間なし、本人確認不要、契約不要。
     is_list: false
 faq_section:
-  title: 'eSIM ヨル | 事前購入で到着後すぐに使える設定ガイド'
+  title: 'eSIM ヨルダン | 事前購入で到着後すぐに使える設定ガイド'
   desc: Jordan用eSIMのデータ通信プランを徹底比較。おすすめ容量の目安、価格/GBの計算方法、無制限プランの速度制限情報、プリペイド型とポストペイド型の違いまで旅行者に役立つ情報をまとめました。ヨルダンではZainのネットワークに対応。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. 基礎知識
     questions:
     - q: ヨルダン用eSIMは近隣諸国での国際ローミングはどうなりますか？
       a: ヨルダン用eSIMは主にヨルダン向けに最適化されています。近隣諸国への旅行には、当社のヨーロッパまたは地域別eSIMをお勧めします。これにより追加料金なしでシームレスなローミングが可能です。
@@ -314,7 +316,7 @@ faq_section:
       a: 現地のプリペイドSIMとは異なり、店舗に行く必要がなく、本人確認（KYC）やチャージ用のカードを探す手間もありません。Roamiなら、2分以内でデジタルアクティベーションが完了し、空港で列に並ぶ必要もありません。
     - q: ヨルダン用eSIMのQRコードの有効期限は？
       a: QRコードはメール送信後30日間有効です。旅行前に十分な時間があります。期限が切れた場合は、新しいコードを発行できます。
-        余裕を持って準備したい方は、出発の1ヶ月前でも購入してQRコードを保存可能。jordan旅行前に海外旅行eSIMをインストールしておけば、到着後スムーズに通信を開始できます。
+
     - q: インストール後にヨルダン用eSIMを別のデバイスに移行できますか？
       a: 一度インストールしたeSIMは他のデバイスに移行できません。旅行中に使用するデバイスにインストールしてください。追加のデバイスには個別にeSIMをお買い求めいただけます。
     - q: ヨルダン用eSIMはどの5G/4Gネットワークを使用し、カバレッジはどうですか？
@@ -322,7 +324,13 @@ faq_section:
 
     - q: ヨルダン用eSIMはVoLTEやHD音声通話に対応していますか？
       a: はい、お使いの端末が対応していれば、ヨルダン用eSIMはVoLTEとHD音声をサポートします。Zain / Orangeの5G/4Gネットワークを通じてクリアな通話品質をお楽しみいただけます。
-        Jordan旅行のデータ通信はRoamiで比較が簡単。無制限プランから1GBまで選べ、QRコードスキャンで即時設定完了。現地最速ネットワークに自動接続し、安定した通信を提供します。
+
+    - q: ヨルダン用eSIMの申し込みは何分くらいで完了しますか？
+      a: ヨルダン用eSIMは出発前でも現地でも申し込み可能です。ヨルダン到着後にデータ通信をオンにすれば自動で接続され、追加の申し込みは不要です。
+    - q: ヨルダンのeSIMと現地SIM、安いのはどちらですか？
+      a: ヨルダンでは現地SIMの購入に店舗での登録が必要なため、eSIMのほうが結果的に安く済むことが多いです。実際の料金は選ぶプランによって異なるため、現在の価格は公式サイトでご確認ください。
+    - q: ヨルダンのeSIMはチャージ不要で使えますか？
+      a: ヨルダン用eSIMはプリペイド式で、データが少なくなったらアプリから追加購入できます。現地SIMのように店舗でチャージする必要はなく、すべてオンラインで完結します。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -485,81 +493,80 @@ faq_section:
       a: ヨルダン用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: ヨルダン用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        旅行用eSIMの使い方は簡単。購入後メールで届くQRコードをスキャンしてインストール。Roamiなら無制限プランもあり5G対応。
-        格安eSIMならRoamiがおすすめ。1GB/$1.99からのデータプランで5G高速通信。24時間日本語サポートで初めての海外eSIMも安心。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にヨルダン用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
+  - name: カザフスタン eSIM
+    flag: img/flags/kz.svg
+    price: 3.99ドルから
+    is_highlight: false
+    slug: kazakhstan-esim
+  - name: ケニア eSIM
+    flag: img/flags/ke.svg
+    price: 7.99ドルから
+    is_highlight: false
+    slug: kenya-esim
+  - name: コソボ eSIM
+    flag: img/flags/xk.svg
+    price: 13.99ドルから
+    is_highlight: false
+    slug: kosovo-esim
+  - name: クウェート eSIM
+    flag: img/flags/kw.svg
+    price: 4.99ドルから
+    is_highlight: false
+    slug: kuwait-esim
+  - name: キルギス eSIM
+    flag: img/flags/kg.svg
+    price: 4.99ドルから
+    is_highlight: false
+    slug: kyrgyzstan-esim
+  - name: ラオス eSIM
+    flag: img/flags/la.svg
+    price: 4.99ドルから
+    is_highlight: false
+    slug: laos-esim
+  - name: ラトビア eSIM
+    flag: img/flags/lv.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
+    slug: latvia-esim
+  - name: リベリア eSIM
+    flag: img/flags/lr.svg
+    price: 27.99ドルから
+    is_highlight: false
+    slug: liberia-esim
+  - name: リヒテンシュタイン eSIM
+    flag: img/flags/li.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
+    slug: liechtenstein-esim
+  - name: リトアニア eSIM
+    flag: img/flags/lt.svg
+    price: 1.99ドルから
+    is_highlight: false
+    slug: lithuania-esim
+  - name: ルクセンブルク eSIM
+    flag: img/flags/lu.svg
+    price: 1.99ドルから
+    is_highlight: false
+    slug: luxembourg-esim
+  - name: マカオ eSIM
+    flag: img/flags/ma.svg
     price: 1.99ドルから
     is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+    slug: macao-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "ヨルダンでeSIMとプリペイドSIMを直接比較"
   subtitle: "ヨルダンの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Jordan) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Jordan"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -598,13 +605,13 @@ market_analysis:
     - icon: "credit-card"
       title: "チャージと支払い"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。一般的に、店舗での現金払いが主流で、クレジットカードは一部の正規店のみ利用可能です。"
+      prepaid_desc: "一般的に、店舗での現金払いが主流で、クレジットカードは一部の正規店のみ利用可能です。"
       esim_title: "グローバル決済"
       esim_desc: "現地店舗での現金払いや高額なチャージカード不要。Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPalで簡単購入。"
     - icon: "headset"
       title: "カスタマーサポート"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。一般的に、現地オペレーターのカスタマーサポートはアラビア語または英語で、営業時間は限られています。"
+      prepaid_desc: "一般的に、現地オペレーターのカスタマーサポートはアラビア語または英語で、営業時間は限られています。"
       esim_title: "24時間サポート"
       esim_desc: "現地オペレーターの限られた営業時間とは異なり、eSIMは24時間オンラインサポートを提供。"
 
@@ -633,4 +640,3 @@ market_analysis:
         title: "テザリング制限を回避"
         desc: "UmniahのSmartプランは<b>テザリング禁止</b>。eSIMはテザリングを完全サポートし、ノートPCやタブレットで利用可能。"
 ---
-        格安eSIMならRoamiがおすすめ。1GB/$1.99からのデータプランで5G高速通信。24時間日本語サポートで初めての海外eSIMも安心。

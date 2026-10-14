@@ -1,6 +1,6 @@
 ---
 title: 'eSIM بنما 2026: دليل السياح والشبكات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM بنما | أفضل خطة بيانات 5G غير محدودة لإقامتك"
   description: "أفضل eSIM سفر مدفوعة مسبقًا من Roami لبنما. بيانات غير محدودة 5G. تغطي مدينة بنما ودافيد وكولون. تفعيل فوري. اشترِ خطتك الآن."
-  keywords: eSIM بنما, شراء eSIM بنما, أفضل eSIM بنما, eSIM سفر بنما, +Movil بنما, Digicel بنما, Cable & Wireless بنما, eSIM مدينة بنما, eSIM كولون, eSIM دافيد, eSIM بنما مسبقة الدفع, 5G eSIM بنما
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM بنما، شراء eSIM بنما، أفضل eSIM بنما، eSIM بنما رخيصة، eSIM بنما مسبقة الدفع، باقة eSIM بنما، eSIM بنما غير محدودة، eSIM بنما 5G، أفضل eSIM لـ بنما، سعر eSIM بنما، تفعيل eSIM بنما، تغطية eSIM بنما، +Movil بنما، eSIM مدينة بنما، eSIM كولون، eSIM دافيد
+  low_price: 11.99
+  high_price: 84.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/pa.svg
   flag_alt: علم بنما
-  title: 'eSIM بنما: حلول بيانات كاملة لرحلتك'
+  title: 'eSIM بنما: 5G فوري بدون رسوم تجوال'
   subtitle: 5G سريع | تسليم QR فوري | دعم بشري 24/7 - أفضل eSIM مدفوعة مسبقًا لبنما
 features:
-  title: 'لماذا يختار المسافرون إلى بنما Roami: الخطط والشبكة والدعم'
+  title: 'لماذا Roami خيار مسافري بنما: السرعة والسعر والدعم'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات النقل في بنما للحصول على أفضل إشارة
-plans_title: 'شراء eSIM بنما: خطط تناسب كل مدة رحلة'
+plans_title: شراء باقة eSIM بنما بالمدة التي تحتاجها
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -229,7 +229,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM بنما: دليل مشغلي الشبكات المحمولة'
+  title: 'eSIM بنما: دليل تغطية الشبكات المحلية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -260,7 +260,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM بنما: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM بنما: إرشادات الإعداد قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -279,7 +279,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM بنما: 3 خطوات بسيطة'
+  title: 'eSIM بنما: كيفية التثبيت والتفعيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -304,7 +304,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM بنما
+    title: أسئلة وأجوبة عن eSIM بنما
     questions:
     - q: |
         هل من الآمن تحميل جواز سفري لتسجيل eSIM بنما؟ أنا قلق بشأن الخصوصية.
@@ -313,11 +313,11 @@ faq_section:
     - q: |
         كم يجب أن أخصص ميزانية لـ eSIM عند زيارة بنما؟
       a: |
-        تقدم Roami eSIM بنما من 1.99 دولار لخطة خفيفة لمدة 7 أيام وحتى 59.99 دولار لـ 30 يومًا من البيانات غير المحدودة. يختار معظم الزوار خطة 5 جيجابايت / 15 يومًا بسعر 9.99 دولار - تغطي الملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة دون ضغط. يجب على عشاق البث أو مستخدمي وسائل التواصل الاجتماعي الكثيفين التفكير في 10 جيجابايت أو غير محدود. توفر Claro سرعات موثوقة في جميع أنحاء بنما. خطط Roami مدفوعة مسبقًا - بدون فواتير مفاجئة، بدون تجديد تلقائي، فقط تسعير مباشر.
+        تقدم Roami eSIM بنما من 11.99 دولار لخطة خفيفة لمدة 7 أيام وحتى 38.99 دولار لـ 3 يومًا من البيانات غير المحدودة. يختار معظم الزوار خطة 5 جيجابايت / 15 يومًا بسعر 20.99 دولار - تغطي الملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة دون ضغط. يجب على عشاق البث أو مستخدمي وسائل التواصل الاجتماعي الكثيفين التفكير في 10 جيجابايت أو غير محدود. توفر Claro سرعات موثوقة في جميع أنحاء بنما. خطط Roami مدفوعة مسبقًا - بدون فواتير مفاجئة، بدون تجديد تلقائي، فقط تسعير مباشر.
     - q: |
         هل ستنخفض سرعة خطة eSIM بنما غير المحدودة إذا استخدمت بيانات كثيرة؟
       a: |
-        هناك سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح - فقط لا يمكن بث الفيديو بسلاسة. واقعيًا، لا يقترب معظم المسافرين من 30 جيجابايت. إذا كنت قلقًا، فإن خطة 10 جيجابايت (14.99 دولار) أو 20 جيجابايت (24.99 دولار) الثابتة تزيل عدم اليقين تمامًا.
+        هناك سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح - فقط لا يمكن بث الفيديو بسلاسة. واقعيًا، لا يقترب معظم المسافرين من 30 جيجابايت. إذا كنت قلقًا، فإن خطة 10 جيجابايت (34.99 دولار) أو 20 جيجابايت (72.99 دولار) الثابتة تزيل عدم اليقين تمامًا.
     - q: |
         هل ستعمل eSIM الخاصة بي في بنما لمكالمات الفيديو والعمل عن بُعد؟
       a: |
@@ -337,64 +337,76 @@ faq_section:
     - q: |
         أنا أسافر إلى بنما لمدة 2-3 أيام فقط. ما هي eSIM التي يجب أن أحصل عليها؟
       a: |
-        لرحلة قصيرة، تغطي خطة 1 جيجابايت / 7 أيام (1.99 دولار) الخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (4.99 دولار) تمنح مساحة أكبر. يتم تفعيل كلاهما فوريًا ويمكنك شحن الرصيد إذا لزم الأمر.
+        لرحلة قصيرة، تغطي خطة 1 جيجابايت / 7 أيام (11.99 دولار) الخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (13.99 دولار) تمنح مساحة أكبر. يتم تفعيل كلاهما فوريًا ويمكنك شحن الرصيد إذا لزم الأمر.
+    - q: |
+        ما خطوات شراء eSIM بنما واستلامه؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        ما هيكل أسعار eSIM بنما؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في بنما أسهل. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        هل يمكنني شراء المزيد من البيانات إذا نفدت في بنما؟
+      a: |
+        عند نفاد بيانات eSIM بنما يمكنك إضافة باقة بيانات جديدة من نفس الحساب. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM بنما ذات الصلة
+  title: خطط eSIM قد تحتاجها بعد بنما
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
+  - name: eSIM الأردن
+    flag: img/flags/jo.svg
+    price: من 6.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
+  - name: eSIM كيويت
+    flag: img/flags/kw.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM نيجيريا
+    flag: img/flags/ng.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM المملكة المتحدة
     flag: img/flags/gb.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM موريشيوس
+    flag: img/flags/ma.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM مولدوفا
+    flag: img/flags/mo.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM فيجي
+    flag: img/flags/fj.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM تايوان
+    flag: img/flags/tw.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM غرينادا
+    flag: img/flags/gd.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM غانا
+    flag: img/flags/gh.svg
+    price: من 7.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM إيسواتيني
+    flag: img/flags/sz.svg
+    price: من 19.99 دولار
     is_highlight: false
 market_analysis:
   title: 'مقارنة eSIM بنما مقابل بطاقة SIM المدفوعة مسبقًا: التكلفة والراحة'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في بنما مقابل حلول eSIM (معايير 2024/2025)
   citation:
-    text: 'مصدر البيانات: Wiki بطاقة بيانات SIM المدفوعة مسبقًا (بنما) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Panama
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

@@ -1,6 +1,6 @@
 ---
 title: 'eSIM منغوليا 2026: دليل المدن والشبكات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM منغوليا | أفضل خطة بيانات مسبقة الدفع 5G للسياح"
   description: "أفضل eSIM مدفوع مسبق للسفر إلى منغوليا من Roami. بيانات 5G غير محدودة. تغطي أولان باتور ودارخان وإردينت. تفعيل فوري. وخطط مرنة."
-  keywords: eSIM منغوليا, شراء eSIM منغوليا, أفضل eSIM منغوليا, eSIM سفر منغوليا, Mobicom منغوليا, Unitel منغوليا, Skytel منغوليا, eSIM أولان باتور, eSIM إردينت, eSIM دارخان, eSIM مدفوع مسبق منغوليا, 5G eSIM منغوليا
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM منغوليا، شراء eSIM منغوليا، أفضل eSIM منغوليا، eSIM منغوليا رخيصة، eSIM منغوليا مسبقة الدفع، باقة eSIM منغوليا، eSIM منغوليا غير محدودة، eSIM منغوليا 5G، أفضل eSIM لـ منغوليا، سعر eSIM منغوليا، تفعيل eSIM منغوليا، تغطية eSIM منغوليا، Mobicom منغوليا، eSIM أولان باتور، eSIM إردينت، eSIM دارخان
+  low_price: 9.99
+  high_price: 57.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/mo.svg
   flag_alt: علم منغوليا
-  title: 'eSIM منغوليا: بيانات 5G سريعة لكل مدينة ووجهة'
+  title: 'eSIM منغوليا: إنترنت موثوق لكل رحلة'
   subtitle: 5G سريع | تسليم فوري عبر QR | دعم بشري 24/7 - أفضل eSIM مدفوع مسبق لمنغوليا
 features:
-  title: 'لماذا يختار المسافرون إلى منغوليا Roami: الخطط، الشبكة والدعم'
+  title: 'مزايا روامي للمسافرين إلى منغوليا: بساطة وموثوقية'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي منغوليا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM منغوليا: خطط لكل مدة رحلة'
+plans_title: 'شراء eSIM منغوليا: باقات لكل ميزانية'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -139,7 +139,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM منغوليا: دليل مشغل شبكة الهاتف المحمول'
+  title: 'eSIM منغوليا: تغطية موثوقة في كل أنحاء البلد'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -170,7 +170,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM منغوليا: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM منغوليا: ما يجب التحقق منه قبل الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -189,7 +189,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM منغوليا: 3 خطوات بسيطة'
+  title: 'eSIM منغوليا: تثبيت سهل قبل رحلتك'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -214,7 +214,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM منغوليا
+    title: أسئلة شائعة عند شراء eSIM منغوليا
     questions:
     - q: |
         السياح الذين يزورون منغوليا - أي شبكة تقدم أفضل تجربة؟
@@ -231,7 +231,7 @@ faq_section:
     - q: |
         هل eSIM أرخص من التجوال الدولي لمنغوليا؟
       a: |
-        نعم - عادةً ما يكون Roami eSIM أرخص بنسبة 80-90٪ من خطط التجوال من معظم المشغلين المنزليين. تبلغ تكلفة خطة 5 جيجابايت لمنغوليا 9.99 دولار، بينما يمكن أن تكلف التجوال بسهولة 50 دولارًا أو أكثر لنفس البيانات. تحصل أيضًا على سرعات شبكة محلية بدلاً من التجوال المخفض.
+        نعم - عادةً ما يكون Roami eSIM أرخص بنسبة 80-90٪ من خطط التجوال من معظم المشغلين المنزليين. تبلغ تكلفة خطة 5 جيجابايت لمنغوليا 35.99 دولار، بينما يمكن أن تكلف التجوال بسهولة 50 دولارًا أو أكثر لنفس البيانات. تحصل أيضًا على سرعات شبكة محلية بدلاً من التجوال المخفض.
     - q: |
         ماذا يحدث إذا توقف eSIM منغوليا الخاص بي عن العمل في منتصف الرحلة؟
       a: |
@@ -248,55 +248,67 @@ faq_section:
         ماذا يحدث إذا استنفدت كل بياناتي في منغوليا قبل انتهاء صلاحية خطتي؟
       a: |
         قم بالشحن من تطبيق Roami. يتم تفعيل البيانات الجديدة فورًا - بدون رمز QR جديد، أو إعادة تثبيت. نوصي بالشحن عندما يتبقى لديك حوالي 20٪ لتجنب أي انقطاع.
+    - q: |
+        هل يمكن شراء eSIM منغوليا عبر الهاتف أو في متجر؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM منغوليا عبر الإنترنت. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        كيف تقارن تكلفة eSIM منغوليا ببطاقة SIM المحلية مسبقة الدفع؟
+      a: |
+        في منغوليا يتطلب شراء بطاقة SIM المحلية تسجيلًا في المتجر، لذا غالبًا يكون eSIM أوفر. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        كيف أزيد حجم بيانات eSIM منغوليا؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM ذات الصلة
+  title: خطط ذات صلة برحلتك إلى منغوليا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM روسيا
+    flag: img/flags/ru.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM المالديف
+    flag: img/flags/mv.svg
+    price: من 14.99 دولار
+    is_highlight: false
+  - name: eSIM الإمارات
+    flag: img/flags/ae.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM ألبانيا
+    flag: img/flags/al.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM سويسرا
+    flag: img/flags/ch.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM بورتوريكو
+    flag: img/flags/pu.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM كرواتيا
+    flag: img/flags/hr.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM سلوفينيا
+    flag: img/flags/sl.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM هندوراس
+    flag: img/flags/hn.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM غوام
+    flag: img/flags/gu.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM أوروغواي
+    flag: img/flags/uy.svg
+    price: من 11.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM بولندا
+    flag: img/flags/pl.svg
     price: من 1.99 دولار
     is_highlight: false
 ---

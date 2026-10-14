@@ -1,6 +1,6 @@
 ---
 title: 'بوركينا فاسو eSIM 2026: دليل السفر الشامل | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Orange, Telecel, Moov Africa
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: واغادوغو، بوبو ديولاسو، كودوغو، واهيغويا، بانفورا
-  main_packages: 3/7/15/30 يوم، بيانات غير محدودة
+  main_packages: 7/30 يومًا، حتى 5 جيجابايت
 modal:
   title: تم ترقية الخدمة!
   btn_text: متابعة
@@ -17,10 +17,10 @@ modal:
   text_android: تم ترقية خدمة eSIM لدينا إلى <strong>PhoneSIM</strong>.<br>يحصل العملاء الجدد على خصم 20%، رمز الخصم:web20
 seo:
   title: 'eSIM بوركينا فاسو: خطة بيانات 5G سريعة للمسافرين'
-  description: "قارن خطط eSIM بوركينا فاسو مع 5G سريع في واغادوغو وبوبو ديولاسو. تغطية Orange و Telecel و Moov. تفعيل QR فوري من 1.99 دولار."
-  keywords: eSIM بوركينا فاسو، شراء eSIM بوركينا فاسو، أفضل eSIM بوركينا فاسو، eSIM سفر بوركينا فاسو، Orange بوركينا فاسو، Telecel بوركينا فاسو، Moov Africa بوركينا فاسو، eSIM واغادوغو، eSIM بوبو ديولاسو، eSIM كودوغو، eSIM مسبق الدفع بوركينا فاسو، eSIM 5G بوركينا فاسو
-  low_price: 1.99
-  high_price: 39.9
+  description: "قارن خطط eSIM بوركينا فاسو مع 5G سريع في واغادوغو وبوبو ديولاسو. تغطية Orange و Telecel و Moov. تفعيل QR فوري من 11.99 دولار."
+  keywords: eSIM بوركينا فاسو، شراء eSIM بوركينا فاسو، أفضل eSIM بوركينا فاسو، eSIM بوركينا فاسو رخيصة، eSIM بوركينا فاسو مسبقة الدفع، باقة eSIM بوركينا فاسو، باقة بيانات eSIM بوركينا فاسو، eSIM بوركينا فاسو 5G، أفضل eSIM لـ بوركينا فاسو، سعر eSIM بوركينا فاسو، تفعيل eSIM بوركينا فاسو، تغطية eSIM بوركينا فاسو، Orange بوركينا فاسو، eSIM واغادوغو، eSIM بوبو ديولاسو، eSIM كودوغو
+  low_price: 11.99
+  high_price: 54.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -43,7 +43,7 @@ hero:
   title: 'eSIM بوركينا فاسو: حلول بيانات كاملة لرحلتك'
   subtitle: لا رسوم خفية | إنترنت بدون قلق | دعم 24/7 - أفضل eSIM مسبق الدفع لمسافري بوركينا فاسو
 features:
-  title: 'لماذا يختار مسافرو بوركينا فاسو Roami: التغطية، السرعة والخدمة'
+  title: 'لماذا يختار المسافرون إلى بوركينا فاسو Roami: التغطية والسرعة والخدمة'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي بوركينا فاسو للحصول على أفضل إشارة
-plans_title: 'شراء eSIM بوركينا فاسو: خطط لكل مدة رحلة'
+plans_title: 'شراء eSIM بوركينا فاسو: خطط تناسب كل مدة سفر'
 plans_data:
   7 أيام:
   - spec: 1GB
@@ -112,7 +112,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'المدة: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM بوركينا فاسو: دليل المشغل وخريطة التغطية'
+  title: 'تغطية eSIM بوركينا فاسو: تغطية الشبكة ومقارنة المشغلين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -162,7 +162,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على الشاشة، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM بوركينا فاسو: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM بوركينا فاسو: ثلاث خطوات فقط'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -187,7 +187,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM بوركينا فاسو
+    title: أسئلة يتكرر طرحها عن eSIM بوركينا فاسو
     questions:
     - q: |
         أي شبكة في بوركينا فاسو لديها أفضل تغطية للمسافرين — Orange أم Telecel أم Telmob؟
@@ -221,63 +221,75 @@ faq_section:
         كيف يقارن eSIM بـ Wi-Fi المحمول (Pocket WiFi) للسفر في بوركينا فاسو؟
       a: |
         يتفوق eSIM من حيث الراحة. لا حاجة لحمل جهاز إضافي أو شحنه أو إعادته في نهاية الرحلة — يوفر حوالي 3-5 دولارات يوميًا مقارنة باستئجار Wi-Fi المحمول. يعمل Wi-Fi المحمول للمجموعات التي تضم 3+ أشخاص، لكنك مقيد بجهاز واحد وتحتاج إلى شحنه لمدة 6-8 ساعات. مع eSIM، هاتفك هو نقطة الاتصال. تشمل جميع خطط Roami مشاركة نقطة الاتصال مجانًا لما يصل إلى 5 أجهزة.
+    - q: |
+        كيف أشتري eSIM بوركينا فاسو قبل رحلتي؟
+      a: |
+        يمكن شراء eSIM بوركينا فاسو من Roami بالكامل عبر الإنترنت. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        لمجموعة مسافرين إلى بوركينا فاسو، أيّهما أوفر، eSIM أم بطاقة SIM المحلية؟
+      a: |
+        أسعار eSIM بوركينا فاسو معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. بطاقات SIM المحلية في بوركينا فاسو تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        بيانات eSIM تنفد بسرعة، فهل هناك نصائح؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في بوركينا فاسو، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM ذات الصلة لبوركينا فاسو
+  title: باقات eSIM مرتبطة برحلتك إلى بوركينا فاسو
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM النيجر
+    flag: img/flags/ni.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM جزيرة ريونيون
+    flag: img/flags/re.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM تايلاند
+    flag: img/flags/th.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM نيبال
+    flag: img/flags/ne.svg
+    price: من 10.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
+  - name: eSIM قيرغيزستان
+    flag: img/flags/kg.svg
+    price: من 4.99 دولار
     is_highlight: false
   - name: eSIM فرنسا
     flag: img/flags/fr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
+  - name: eSIM بوليفيا
+    flag: img/flags/bo.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM بلجيكا
+    flag: img/flags/be.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
+  - name: eSIM كمبوديا
+    flag: img/flags/kh.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM مالي
+    flag: img/flags/ml.svg
+    price: من 27.99 دولار
+    is_highlight: true
+  - name: eSIM بلغاريا
+    flag: img/flags/bg.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM جزر فارو
+    flag: img/flags/fo.svg
+    price: من 5.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM بوركينا فاسو مقابل بطاقة SIM المدفوعة مسبقًا: شرح الاختلافات الرئيسية'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في بوركينا فاسو مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM المدفوعة مسبقًا (بوركينا فاسو) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Burkina-Faso
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)
@@ -300,7 +312,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: معدل بيانات التجوال لـ Orange هو 281 فرنك إفريقي / ميجابايت (حوالي 0.47 دولار / ميجابايت)؛ الاتفاقية متعددة الأطراف لغرب إفريقيا تعفي تجوال الصوت ولكنها تستبعد البيانات صراحةً، لذا فإن استخدام البيانات عبر الحدود يتكبد تكاليف عالية.
     esim_title: تجوال عالمي مشمول
-    esim_desc: تجنب رسوم تجوال Orange البالغة 281 فرنك إفريقي / ميجابايت. يقدم eSIM من Roami خططًا متعددة البلدان بأسعار ثابتة، على سبيل المثال 9.99 دولار مقابل 3 جيجابايت عبر غرب إفريقيا، بدون استبعاد للبيانات.
+    esim_desc: تجنب رسوم تجوال Orange البالغة 281 فرنك إفريقي / ميجابايت. يقدم eSIM من Roami خططًا متعددة البلدان بأسعار ثابتة، على سبيل المثال 32.99 دولار مقابل 3 جيجابايت عبر غرب إفريقيا، بدون استبعاد للبيانات.
   - icon: calendar-xmark
     title: دورة الفوترة و<br>التكلفة الغارقة
     prepaid_title: ''
@@ -347,5 +359,5 @@ market_analysis:
       icon_bg: bg-rose-100
       icon_color: text-rose-600
       title: تجنب رسوم تجوال Orange البالغة 281 فرنك إفريقي / ميجابايت
-      desc: معدل البيانات عبر الحدود لـ Orange هو <b>281 فرنك إفريقي / ميجابايت</b> (0.47 دولار / ميجابايت). يقدم eSIM من Roami خططًا إقليمية من <b>9.99 دولار / 3 جيجابايت</b>، مما يلغي خطر فاتورة الصدمة عند السفر إلى الدول المجاورة.
+      desc: معدل البيانات عبر الحدود لـ Orange هو <b>281 فرنك إفريقي / ميجابايت</b> (0.47 دولار / ميجابايت). يقدم eSIM من Roami خططًا إقليمية من <b>32.99 دولار / 3 جيجابايت</b>، مما يلغي خطر فاتورة الصدمة عند السفر إلى الدول المجاورة.
 ---

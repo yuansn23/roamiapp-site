@@ -1,6 +1,6 @@
 ---
 title: 'eSIM فنلندا 2026: دليل المدن والشبكات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,9 @@ modal:
 seo:
   title: eSIM فنلندا | أفضل بيانات 5G مدفوعة مسبقًا للزوار
   description: "أفضل eSIM سفر مدفوعة مسبقًا من Roami لفنلندا. بيانات 5G غير محدودة وتفعيل فوري. تغطي هلسنكي ورووفانيمي وكل المناطق. خطط مرنة الآن."
-  keywords: eSIM فنلندا، شراء eSIM فنلندا، أفضل eSIM فنلندا، eSIM سفر فنلندا، إليسا فنلندا، دي إن إيه فنلندا، تيليا فنلندا،
-    eSIM هلسنكي، eSIM إسبو، eSIM تامبيري، eSIM مدفوعة مسبقًا فنلندا، eSIM 5G فنلندا
+  keywords: eSIM فنلندا، شراء eSIM فنلندا، أفضل eSIM فنلندا، eSIM فنلندا رخيصة، eSIM فنلندا مسبقة الدفع، باقة eSIM فنلندا، eSIM فنلندا غير محدودة، eSIM فنلندا 5G، أفضل eSIM لـ فنلندا، سعر eSIM فنلندا، تفعيل eSIM فنلندا، تغطية eSIM فنلندا، إليسا فنلندا، eSIM هلسنكي، eSIM إسبو، eSIM تامبيري
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -41,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/fi.svg
   flag_alt: علم فنلندا
-  title: 'eSIM فنلندا: بيانات 5G سريعة لكل مدينة ووجهة'
+  title: 'eSIM فنلندا: إنترنت سريع بدون هوية أو انتظار'
   subtitle: تفعيل فوري | تغطية 5G من الدرجة الأولى | دعم 24/7 - أفضل eSIM مدفوعة مسبقًا لفنلندا
 features:
-  title: 'لماذا يختار المسافرون إلى فنلندا Roami: الشبكة والخطط والقيمة'
+  title: مزايا Roami للمسافرين إلى فنلندا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي فنلندا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM فنلندا: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM فنلندا: أسعار واضحة لكل رحلة'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -296,7 +295,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM فنلندا: مقارنة التغطية والمشغلين'
+  title: 'eSIM فنلندا: نظرة على التغطية والمشغلين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -327,7 +326,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM فنلندا: ما يجب معرفته قبل السفر'
+  title: 'eSIM فنلندا: أمور يجب ترتيبها قبل الوصول'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -347,7 +346,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM فنلندا: 3 خطوات بسيطة'
+  title: 'إعداد eSIM فنلندا: دليل التركيب خطوة بخطوة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -372,7 +371,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM فنلندا
+    title: أسئلة المسافرين حول eSIM فنلندا
     questions:
     - q: |
         هل تستحق خطة eSIM غير المحدودة لفنلندا العناء، أم أن خطة البيانات الثابتة أفضل؟
@@ -385,7 +384,7 @@ faq_section:
     - q: |
         ما هي أرخص خيارات eSIM لرحلة إلى فنلندا؟
       a: |
-        تبدأ خطط Roami eSIM لفنلندا من 1.99 دولار (7 أيام، 1 جيجابايت) وتصل إلى 59.99 دولارًا (30 يومًا غير محدود). لرحلة نموذجية مدتها 5-7 أيام، تعتبر خطة 5 جيجابايت بسعر 9.99 دولار هي النقطة المثالية — وهي كافية للخرائط والمراسلة وتفقد وسائل التواصل الاجتماعي. هل تحتاج إلى بث الفيديو أو العمل عن بُعد؟ اختر 10 جيجابايت أو غير محدود. بفضل شبكة 5G من إليسا، يعمل البث ومكالمات الفيديو بشكل رائع. تتقاضى أكشاك SIM في المطار 30-50% أكثر، وعليك الانتظار في الطابور. لست متأكدًا من احتياجاتك للبيانات؟ ابدأ بخطة صغيرة وقم بالشحن الإضافي عبر التطبيق دون تغيير eSIM الخاص بك.
+        تبدأ خطط Roami eSIM لفنلندا من 1.99 دولار (7 أيام، 1 جيجابايت) وتصل إلى 59.99 دولارًا (30 يومًا غير محدود). لرحلة نموذجية مدتها 5-7 أيام، تعتبر خطة 5 جيجابايت بسعر 6.99 دولار هي النقطة المثالية — وهي كافية للخرائط والمراسلة وتفقد وسائل التواصل الاجتماعي. هل تحتاج إلى بث الفيديو أو العمل عن بُعد؟ اختر 10 جيجابايت أو غير محدود. بفضل شبكة 5G من إليسا، يعمل البث ومكالمات الفيديو بشكل رائع. تتقاضى أكشاك SIM في المطار 30-50% أكثر، وعليك الانتظار في الطابور. لست متأكدًا من احتياجاتك للبيانات؟ ابدأ بخطة صغيرة وقم بالشحن الإضافي عبر التطبيق دون تغيير eSIM الخاص بك.
     - q: |
         ماذا يحدث إذا استنفدت كل بياناتي في فنلندا قبل انتهاء صلاحية خطتي؟
       a: |
@@ -406,63 +405,75 @@ faq_section:
         أنا مسافر إلى فنلندا لمدة 2-3 أيام فقط. ما هو eSIM الذي يجب أن أحصل عليه؟
       a: |
         لرحلة قصيرة، تكفي خطة 1 جيجابايت / 7 أيام (1.99 دولار) للخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (4.99 دولار) تمنحك مساحة أكبر. كلاهما يُفعّل فورًا ويمكنك الشحن الإضافي إذا لزم الأمر.
+    - q: |
+        هل يمكنني شراء eSIM فنلندا من هاتفي؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة إليسا لتبدأ الاستخدام فورًا.
+    - q: |
+        كيف يتغير سعر eSIM فنلندا حسب حجم البيانات؟
+      a: |
+        أسعار eSIM فنلندا معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل يمكن ترحيل البيانات المتبقية إلى اليوم التالي؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في فنلندا، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM ذات الصلة بفنلندا
+  title: باقات eSIM إضافية لرحلة فنلندا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM اليونان
+    flag: img/flags/gr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM هولندا
+    flag: img/flags/nl.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM زامبيا
+    flag: img/flags/za.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM مدينة الفاتيكان
+    flag: img/flags/va.svg
+    price: من 10.99 دولار
+    is_highlight: false
+  - name: eSIM الدنمارك
+    flag: img/flags/dk.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM ساحل العاج
+    flag: img/flags/ci.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM السنغال
+    flag: img/flags/se.svg
+    price: من 12.99 دولار
+    is_highlight: false
+  - name: eSIM باراغواي
+    flag: img/flags/py.svg
+    price: من 22.99 دولار
+    is_highlight: false
+  - name: eSIM جورجيا
+    flag: img/flags/ge.svg
+    price: من 3.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM المكسيك
+    flag: img/flags/mx.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM ماليزيا
+    flag: img/flags/my.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM سنغافورة
+    flag: img/flags/sg.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'مقارنة eSIM فنلندا ببطاقة SIM الفعلية: أيهما أفضل للسفر؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في فنلندا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM للبيانات المدفوعة مسبقًا (فنلندا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Finland
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

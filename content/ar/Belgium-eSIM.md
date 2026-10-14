@@ -1,6 +1,6 @@
 ---
 title: 'بلجيكا eSIM 2026: دليل المدن والشبكات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM بلجيكا | أفضل بيانات غير محدودة 5G للزوار الآن"
   description: "أفضل eSIM سياحي مسبق الدفع من Roami لبلجيكا. بيانات غير محدودة 5G وتفعيل فوري. تغطي بروكسل وبروج وأنتويرب. اشترِ خطتك الآن."
-  keywords: eSIM بلجيكا، شراء eSIM بلجيكا، أفضل eSIM بلجيكا، eSIM سفر بلجيكا، Proximus بلجيكا، Orange Belgium بلجيكا، Telenet بلجيكا، eSIM بروكسل، eSIM أنتويرب، eSIM غنت، eSIM مسبق الدفع بلجيكا، eSIM 5G بلجيكا
+  keywords: eSIM بلجيكا، شراء eSIM بلجيكا، أفضل eSIM بلجيكا، eSIM بلجيكا رخيصة، eSIM بلجيكا مسبقة الدفع، باقة eSIM بلجيكا، eSIM بلجيكا غير محدودة، eSIM بلجيكا 5G، أفضل eSIM لـ بلجيكا، سعر eSIM بلجيكا، تفعيل eSIM بلجيكا، تغطية eSIM بلجيكا، Proximus بلجيكا، eSIM بروكسل، eSIM أنتويرب، eSIM غنت
   low_price: 1.99
-  high_price: 39.9
+  high_price: 71.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/be.svg
   flag_alt: علم بلجيكا
-  title: 'eSIM بلجيكا: بيانات 5G سريعة لكل مدينة ووجهة'
+  title: 'eSIM بلجيكا: إنترنت موثوق لكل رحلة'
   subtitle: 5G سريع | تسليم QR فوري | دعم بشري 24/7 - أفضل eSIM مسبق الدفع لبلجيكا
 features:
-  title: 'لماذا يختار مسافرو بلجيكا Roami: الخطط، الشبكة والدعم'
+  title: 'مزايا روامي للمسافرين إلى بلجيكا: بساطة وموثوقية'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي بلجيكا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM بلجيكا: خطط لكل مدة رحلة'
+plans_title: 'شراء eSIM بلجيكا: باقات لكل ميزانية'
 plans_data:
   30 يومًا:
   - spec: 20GB
@@ -301,7 +301,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'المدة: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM بلجيكا: دليل مشغلي الشبكات المحمولة'
+  title: 'eSIM بلجيكا: تغطية موثوقة في كل أنحاء البلد'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -332,7 +332,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM بلجيكا: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM بلجيكا: ما يجب التحقق منه قبل الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -351,7 +351,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على الشاشة، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM بلجيكا: 3 خطوات بسيطة'
+  title: 'eSIM بلجيكا: تثبيت سهل قبل رحلتك'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -376,7 +376,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM بلجيكا
+    title: أسئلة شائعة عند شراء eSIM بلجيكا
     questions:
     - q: |
         هل أحتاج إلى جواز سفر أو هوية لاستخدام eSIM في بلجيكا؟ كيف يعمل التحقق؟
@@ -385,7 +385,7 @@ faq_section:
     - q: |
         ما الميزانية التي يجب أن أخُصصها لـ eSIM عند زيارة بلجيكا؟
       a: |
-        يقدم Roami eSIM بلجيكا من 1.99 دولار لخطة خفيفة لمدة 7 أيام حتى 59.99 دولار لبيانات غير محدودة لمدة 30 يومًا. يختار معظم الزوار خطة 5 جيجابايت / 15 يومًا بسعر 9.99 دولار — وهي تغطي الملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة دون إجهاد. يجب على عشاق البث أو مستخدمي وسائل التواصل الاجتماعي الكثيفين التفكير في 10 جيجابايت أو غير محدود. توفر Proximus سرعات موثوقة في جميع أنحاء بلجيكا. خطط Roami مدفوعة مسبقًا — لا فواتير مفاجئة، لا تجديد تلقائي، فقط تسعير واضح.
+        يقدم Roami eSIM بلجيكا من 1.99 دولار لخطة خفيفة لمدة 3 أيام حتى 71.99 دولار لبيانات غير محدودة لمدة 30 يومًا. يختار معظم الزوار خطة 5 جيجابايت / 15 يومًا بسعر 6.99 دولار — وهي تغطي الملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة دون إجهاد. يجب على عشاق البث أو مستخدمي وسائل التواصل الاجتماعي الكثيفين التفكير في 10 جيجابايت أو غير محدود. توفر Proximus سرعات موثوقة في جميع أنحاء بلجيكا. خطط Roami مدفوعة مسبقًا — لا فواتير مفاجئة، لا تجديد تلقائي، فقط تسعير واضح.
     - q: |
         أحتاج إلى اتصال إنترنت لبضعة أيام فقط في بلجيكا. ما هو الحد الأدنى الذي يمكنني شراؤه؟
       a: |
@@ -410,63 +410,75 @@ faq_section:
         ما الفرق بين خطة 5 جيجابايت والخطة غير المحدودة لبلجيكا؟
       a: |
         تمنحك خطة 5 جيجابايت كمية محددة من البيانات عالية السرعة (5 جيجابايت إجمالاً). بمجرد استنفادها، يمكنك الشحن أو شراء خطة جديدة. تستمر الخطة غير المحدودة في توفير البيانات، لكن السرعات قد تنخفض بعد 30 جيجابايت في اليوم بموجب سياسة الاستخدام العادل. بالنسبة لمعظم المسافرين الذين يستخدمون الخرائط والمراسلة ووسائل التواصل الاجتماعي، فإن خطة 5 جيجابايت كافية تمامًا.
+    - q: |
+        هل يمكن شراء eSIM بلجيكا عبر الهاتف أو في متجر؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM بلجيكا عبر الإنترنت. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        كيف تقارن تكلفة eSIM بلجيكا ببطاقة SIM المحلية مسبقة الدفع؟
+      a: |
+        في بلجيكا يتطلب شراء بطاقة SIM المحلية تسجيلًا في المتجر، لذا غالبًا يكون eSIM أوفر. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        كيف أزيد حجم بيانات eSIM بلجيكا؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM ذات الصلة لبلجيكا
+  title: خطط ذات صلة برحلتك إلى بلجيكا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
+  - name: eSIM أوغندا
+    flag: img/flags/ug.svg
+    price: من 7.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM بوتسوانا
+    flag: img/flags/bw.svg
+    price: من 14.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM تونس
+    flag: img/flags/tn.svg
+    price: من 3.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM عمان
+    flag: img/flags/om.svg
+    price: من 5.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+  - name: eSIM السويد
+    flag: img/flags/se.svg
     price: من 1.99 دولار
     is_highlight: false
   - name: eSIM هونغ كونغ
     flag: img/flags/hk.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
   - name: eSIM أستراليا
     flag: img/flags/au.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM النيجر
+    flag: img/flags/ni.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM جزيرة ريونيون
+    flag: img/flags/re.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM تايلاند
+    flag: img/flags/th.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بوركينا فاسو
+    flag: img/flags/bf.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM نيبال
+    flag: img/flags/ne.svg
+    price: من 10.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM بلجيكا مقابل بطاقة SIM المدفوعة مسبقًا: مقارنة التكلفة والراحة'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في بلجيكا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM المدفوعة مسبقًا (بلجيكا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Belgium
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

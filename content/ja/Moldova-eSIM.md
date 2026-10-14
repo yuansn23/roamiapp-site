@@ -1,6 +1,6 @@
 ---
 title: "モルドバeSIM 2026：5G＆データガイド | Roami"
-date: '2026-06-26T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました。<br>新規のお客様はプロモーションコード <strong>web20</strong> で20%オフ！
 seo:
   title: eSIM モルドバ | 海外ローミング不要の格安データ通信プラン
-  description: モルドバ旅行に最適なeSIM。事前購入で到着後すぐに使える。5G対応の高速データ通信と広範囲カバレッジで観光地でも安定した通信。
-  keywords: モルドバeSIM, モルドバeSIM購入, 最適なモルドバeSIM, モルドバ旅行eSIM, Orange Moldova モルドバ, Moldcell モルドバ, Moldtelecom モルドバ, キシナウeSIM, バルツィeSIM, ティラスポリeSIM, モルドバプリペイドeSIM, 5GモルドバeSIM
+  description: モルドバ eSIMのプランは1.99ドルから。Roamiなら出発前にインストールでき、到着後すぐにインターネット接続が可能です。
+  keywords: モルドバ eSIM, モルドバ eSIM 料金, モルドバ eSIM おすすめ, モルドバ eSIM 安い, モルドバ eSIM 購入, モルドバ eSIM 申し込み, モルドバ eSIM データ無制限, モルドバ プリペイドSIM, モルドバ 旅行 eSIM, モルドバ eSIM 価格, モルドバ eSIM 設定方法, モルドバ eSIM 対応エリア, キシナウ eSIM, バルツィ eSIM, モルドバ モバイルデータ, モルドバ eSIM 比較
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +36,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: モルドバ向け最適なeSIM
-  title: 海外旅行，就选モルドバ eSIM
+  title: モルドバ eSIMでストレスフリーな旅行を
 hero:
   flag_image: img/flags/mo.svg
   flag_alt: モルドバの国旗
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動切り替え
     desc: モルドバの主要キャリアに自動接続し最適な信号を確保
-plans_title: 'モルドバeSIMを購入：旅行期間別プラン'
+plans_title: ベストなプラン選び
 plans_data:
   30 Days:
   - spec: 30GB
@@ -292,7 +292,7 @@ network_coverage:
       coverage: 都市部で良好なカバレッジ
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 'モルドバeSIM設定のヒント：出発前に知っておくべきこと'
+  title: 旅の準備チェック
   items:
   - icon: 📱
     html: 購入前にスマートフォンが<a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM対応</a>であることを確認してください。
@@ -336,12 +336,12 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: モルドバeSIM FAQ
+    title: 1. はじめての方へ
     questions:
     - q: |
         モルドバの観光客にとって、OrangeとMoldcellのどちらが良い選択ですか？
       a: |
-        OrangeとMoldcellはモルドバのモバイル市場をカバーしています。Orangeはモバイルユーザーの約60%を占め、都市部で最速のデータ速度を提供します。Moldcellはより遠隔地に到達し、地理的カバレッジが約10%広くなっています。モルドバは主に4Gで、主要都市でカバレッジがあります。Roamiを使えば、両方の長所を自動切り替えで得られます。 海外旅行eSIMならRoamiの地域別プランで周遊もスムーズです。
+        OrangeとMoldcellはモルドバのモバイル市場をカバーしています。Orangeはモバイルユーザーの約60%を占め、都市部で最速のデータ速度を提供します。Moldcellはより遠隔地に到達し、地理的カバレッジが約10%広くなっています。モルドバは主に4Gで、主要都市でカバレッジがあります。Roamiを使えば、両方の長所を自動切り替えで得られます。
     - q: |
         モルドバでeSIMを使用するにはパスポートや身分証明書が必要ですか？認証はどのように行われますか？
       a: |
@@ -366,62 +366,79 @@ faq_section:
         旅行中にモルドバeSIMが突然機能しなくなった場合はどうなりますか？
       a: |
         まず、スマートフォンを再起動し、データローミングを有効にしてみてください。ほとんどの問題は2分以内に解決します。解決しない場合は、ネットワーク設定でキャリアを手動選択してください。問題が続く場合はRoamiの24時間サポートがお手伝いします。
-        moldova旅行のデータ通信はRoamiにお任せ。最安1GB/$1.99、無制限プランもあり、5G対応の高速ネットワークで快適な旅をサポートします。
+
 
     - q: |
         モルドバのeSIMはビデオ通話やリモートワークで機能しますか？
       a: |
         もちろんです。OrangeのネットワークはZoom、Teams、Google Meetの安定した接続を提供します。リモートワークには10GBまたは無制限プランをお勧めします。eSIMはノートパソコン用のホットスポット共有もサポートしています。
+    - q: モルドバのeSIMを申し込むとQRコードはどう届きますか？
+      a: クレジットカードがあれば、モルドバ用eSIMはオンラインで申し込めます。手続きに店舗へ行く必要はなく、QRコードを読み込めば到着後すぐに接続できます。
+    - q: モルドバ用eSIMの安いプランと高いプランの違いは何ですか？
+      a: ローミングと比べると、モルドバ用eSIMは現地ネットワーク（Orange Moldova）を直接使うため割安です。モルドバの現地SIMは本人確認やカード購入の手間がかかり、結果的にコストが高くなりがちです。
+    - q: モルドバでeSIMのデータを追加購入する手順は？
+      a: 残データはアプリやWebのダッシュボードでいつでも確認でき、足りなくなれば追加できます。複数のデータプランを同時に持つことはできませんが、購入後はすぐに新しいプランへ切り替わります。
 related_products:
   title: 関連eSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
-    price: $1.99から
+  - name: モンゴル eSIM
+    flag: img/flags/mo.svg
+    price: 9.99ドルから
     is_highlight: false
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
-    price: $1.99から
+    slug: mongolia-esim
+  - name: モロッコ eSIM
+    flag: img/flags/ma.svg
+    price: 3.99ドルから
     is_highlight: false
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
-    price: $1.99から
+    slug: morocco-esim
+  - name: ネパール eSIM
+    flag: img/flags/ne.svg
+    price: 10.99ドルから
+    is_highlight: false
+    slug: nepal-esim
+  - name: オランダ eSIM
+    flag: img/flags/nl.svg
+    price: 1.99ドルから
+    is_highlight: false
+    slug: netherlands-esim
+  - name: ニュージーランド eSIM
+    flag: img/flags/nz.svg
+    price: 3.99ドルから
+    is_highlight: false
+    slug: new-zealand-esim
+  - name: ニジェール eSIM
+    flag: img/flags/ni.svg
+    price: 23.99ドルから
+    is_highlight: false
+    slug: niger-esim
+  - name: ナイジェリア eSIM
+    flag: img/flags/ng.svg
+    price: 5.99ドルから
+    is_highlight: false
+    slug: nigeria-esim
+  - name: ノルウェー eSIM
+    flag: img/flags/no.svg
+    price: 1.99ドルから
+    is_highlight: false
+    slug: norway-esim
+  - name: オマーン eSIM
+    flag: img/flags/om.svg
+    price: 5.99ドルから
+    is_highlight: false
+    slug: oman-esim
+  - name: パキスタン eSIM
+    flag: img/flags/pk.svg
+    price: 3.99ドルから
     is_highlight: true
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
-    price: $1.99から
+    slug: pakistan-esim
+  - name: パナマ eSIM
+    flag: img/flags/pa.svg
+    price: 11.99ドルから
     is_highlight: false
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: $1.99から
+    slug: panama-esim
+  - name: パラグアイ eSIM
+    flag: img/flags/py.svg
+    price: 22.99ドルから
     is_highlight: false
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: $1.99から
-    is_highlight: false
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: $1.99から
-    is_highlight: false
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: $1.99から
-    is_highlight: false
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: $1.99から
-    is_highlight: false
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: $1.99から
-    is_highlight: false
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: $1.99から
-    is_highlight: false
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: $1.99から
-    is_highlight: false
+    slug: paraguay-esim
 ---
-        eSIMの設定はQRコードをスキャンするだけで完了。物理SIM不要でデュアルSIM運用も可能。最安1GB/$1.99から使える格安データ通信。

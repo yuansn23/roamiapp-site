@@ -1,6 +1,6 @@
 ---
 title: 'غويانا الفرنسية eSIM 2026: دليل السياح والشبكات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: تم ترقية خدمة eSIM لدينا إلى <strong>PhoneSIM</strong>.<br>يحصل العملاء الجدد على خصم 20%، رمز الخصم:web20
 seo:
   title: 'eSIM غويانا الفرنسية: خطة بيانات 5G سريعة للمسافرين'
-  description: "قارن خطط eSIM غويانا الفرنسية مع 5G سريع في كايين وكورو. تغطية Digicel و Orange و Free. تفعيل QR فوري من 1.99 دولار. وخطط مرنة."
-  keywords: eSIM غويانا الفرنسية، شراء eSIM غويانا الفرنسية، أفضل eSIM غويانا الفرنسية، eSIM سفر غويانا الفرنسية، Digicel غويانا الفرنسية، Orange غويانا الفرنسية، Free غويانا الفرنسية، eSIM كايين، eSIM كورو، eSIM سان لوران دو ماروني، eSIM مسبق الدفع غويانا الفرنسية، eSIM 5G غويانا الفرنسية
-  low_price: 1.99
-  high_price: 39.9
+  description: "قارن خطط eSIM غويانا الفرنسية مع 5G سريع في كايين وكورو. تغطية Digicel و Orange و Free. تفعيل QR فوري من 3.99 دولار. وخطط مرنة."
+  keywords: eSIM غويانا الفرنسية، شراء eSIM غويانا الفرنسية، أفضل eSIM غويانا الفرنسية، eSIM غويانا الفرنسية رخيصة، eSIM غويانا الفرنسية مسبقة الدفع، باقة eSIM غويانا الفرنسية، eSIM غويانا الفرنسية غير محدودة، eSIM غويانا الفرنسية 5G، أفضل eSIM لـ غويانا الفرنسية، سعر eSIM غويانا الفرنسية، تفعيل eSIM غويانا الفرنسية، تغطية eSIM غويانا الفرنسية، Digicel غويانا الفرنسية، eSIM كايين، eSIM كورو، eSIM سان لوران دو ماروني
+  low_price: 3.99
+  high_price: 66.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/gf.svg
   flag_alt: علم غويانا الفرنسية
-  title: 'eSIM غويانا الفرنسية: حلول بيانات كاملة لرحلتك'
+  title: 'eSIM غويانا الفرنسية: 5G فوري بدون رسوم تجوال'
   subtitle: 5G سريع | تسليم QR فوري | دعم بشري 24/7 - أفضل eSIM مسبق الدفع لغويانا الفرنسية
 features:
-  title: 'لماذا يختار مسافرو غويانا الفرنسية Roami: الخطط، الشبكة والدعم'
+  title: 'لماذا Roami خيار مسافري غويانا الفرنسية: السرعة والسعر والدعم'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي غويانا الفرنسية للحصول على أفضل إشارة
-plans_title: 'شراء eSIM غويانا الفرنسية: خطط لكل مدة رحلة'
+plans_title: شراء باقة eSIM غويانا الفرنسية بالمدة التي تحتاجها
 plans_data:
   15 يومًا:
   - spec: 5GB
@@ -170,7 +170,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'المدة: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM غويانا الفرنسية: دليل مشغلي الشبكات المحمولة'
+  title: 'eSIM غويانا الفرنسية: دليل تغطية الشبكات المحلية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -201,7 +201,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM غويانا الفرنسية: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM غويانا الفرنسية: إرشادات الإعداد قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -220,7 +220,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على الشاشة، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM غويانا الفرنسية: 3 خطوات بسيطة'
+  title: 'eSIM غويانا الفرنسية: كيفية التثبيت والتفعيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -245,7 +245,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM غويانا الفرنسية
+    title: أسئلة وأجوبة عن eSIM غويانا الفرنسية
     questions:
     - q: |
         هل يمكنني الاحتفاظ ببطاقة SIM المنزلية في هاتفي أثناء استخدام eSIM في غويانا الفرنسية؟
@@ -266,7 +266,7 @@ faq_section:
     - q: |
         أسافر إلى غويانا الفرنسية لمدة 2-3 أيام فقط. ما هو eSIM الذي يجب أن أحصل عليه؟
       a: |
-        لرحلة قصيرة، تغطي خطة 1 جيجابايت / 7 أيام (1.99 دولار) الخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (4.99 دولار) تمنحك مساحة أكبر. يتم تفعيل كلاهما فورًا ويمكنك الشحن إذا لزم الأمر.
+        لرحلة قصيرة، تغطي خطة 1 جيجابايت / 7 أيام (3.99 دولار) الخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (9.99 دولار) تمنحك مساحة أكبر. يتم تفعيل كلاهما فورًا ويمكنك الشحن إذا لزم الأمر.
     - q: |
         هل يعمل eSIM غويانا الفرنسية في المناطق الريفية والبلدات الصغيرة؟
       a: |
@@ -279,55 +279,67 @@ faq_section:
         هل أحتاج إلى إزالة بطاقة SIM الفعلية لاستخدام eSIM في غويانا الفرنسية؟
       a: |
         ليس على الإطلاق. تبقى بطاقة SIM الفعلية في الشريحة 1. يعمل eSIM بجانبها في الشريحة 2. استخدم بطاقة SIM المنزلية للرسائل النصية والمكالمات، و eSIM للبيانات. أكثر من 80٪ من الهواتف من عام 2020 تدعم هذا الإعداد المزدوج.
+    - q: |
+        ما خطوات شراء eSIM غويانا الفرنسية واستلامه؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        ما هيكل أسعار eSIM غويانا الفرنسية؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في غويانا الفرنسية أسهل. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        هل يمكنني شراء المزيد من البيانات إذا نفدت في غويانا الفرنسية؟
+      a: |
+        عند نفاد بيانات eSIM غويانا الفرنسية يمكنك إضافة باقة بيانات جديدة من نفس الحساب. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM ذات الصلة لغويانا الفرنسية
+  title: خطط eSIM قد تحتاجها بعد غويانا الفرنسية
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM زامبيا
+    flag: img/flags/za.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM مدينة الفاتيكان
+    flag: img/flags/va.svg
+    price: من 10.99 دولار
+    is_highlight: false
+  - name: eSIM الدنمارك
+    flag: img/flags/dk.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM فنلندا
+    flag: img/flags/fi.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM ساحل العاج
+    flag: img/flags/ci.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM السنغال
+    flag: img/flags/se.svg
+    price: من 12.99 دولار
+    is_highlight: false
+  - name: eSIM باراغواي
+    flag: img/flags/py.svg
+    price: من 22.99 دولار
+    is_highlight: false
+  - name: eSIM جورجيا
+    flag: img/flags/ge.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM المكسيك
+    flag: img/flags/mx.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM ماليزيا
+    flag: img/flags/my.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM سنغافورة
+    flag: img/flags/sg.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM سلوفاكيا
+    flag: img/flags/sl.svg
     price: من 1.99 دولار
     is_highlight: false
 ---

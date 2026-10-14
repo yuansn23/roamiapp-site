@@ -1,6 +1,6 @@
 ---
 title: 'eSIM ألمانيا - 5G في برلين وميونخ | بدون PostIdent | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM ألمانيا - أفضل خطة 5G مسبقة الدفع بدون PostIdent"
   description: "أفضل eSIM ألمانيا مع 5G على دويتشه تيليكوم وفودافون وO2. لا حاجة لـ PostIdent. تغطي برلين وميونخ وما وراءها. من 1.99 دولار."
-  keywords: eSIM ألمانيا، شراء eSIM ألمانيا، أفضل eSIM ألمانيا، eSIM السفر إلى ألمانيا، دويتشه تيليكوم ألمانيا، فودافون ألمانيا، O2 ألمانيا، eSIM برلين، eSIM ميونخ، eSIM هامبورغ، eSIM ألمانيا مسبقة الدفع، 5G eSIM ألمانيا، eSIM ألمانيا بدون تسجيل
+  keywords: eSIM ألمانيا، شراء eSIM ألمانيا، أفضل eSIM ألمانيا، eSIM ألمانيا رخيصة، eSIM ألمانيا مسبقة الدفع، باقة eSIM ألمانيا، eSIM ألمانيا غير محدودة، eSIM ألمانيا 5G، أفضل eSIM لـ ألمانيا، سعر eSIM ألمانيا، تفعيل eSIM ألمانيا، تغطية eSIM ألمانيا، دويتشه تيليكوم ألمانيا، eSIM برلين، eSIM ميونخ، eSIM هامبورغ
   low_price: 1.99
-  high_price: 39.9
+  high_price: 70.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/de.svg
   flag_alt: علم ألمانيا
-  title: 'eSIM ألمانيا: 5G في برلين وميونخ وما وراءها — بدون PostIdent، بدون VideoIdent'
+  title: 'eSIM ألمانيا: بياناتك جاهزة قبل الإقلاع'
   subtitle: 5G على دويتشه تيليكوم وفودافون وO2 | لا حاجة لتسجيل جواز السفر | تجنب التحقق بالفيديو | دعم 24/7
 features:
-  title: 'لماذا يختار مسافرو ألمانيا روامي: التغطية، السرعة وعدم متاعب التسجيل'
+  title: لماذا يفضّل المسافرون إلى ألمانيا روامي
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +73,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: جاهز لقطارات ICE
     desc: ابق على اتصال على القطارات فائقة السرعة بين برلين وميونخ وفرانكفورت
-plans_title: 'شراء eSIM ألمانيا: خطط تناسب كل مدة سفر'
+plans_title: اختر باقة eSIM ألمانيا المناسبة لمدة سفرك
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -289,7 +289,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM ألمانيا: دليل 5G من دويتشه تيليكوم وفودافون وO2'
+  title: 'تغطية eSIM ألمانيا: من المدن الكبرى إلى الريف'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -320,7 +320,7 @@ network_coverage:
       coverage: تغطية 5G حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM ألمانيا: ما يجب معرفته قبل الذهاب'
+  title: 'تحضيرات eSIM ألمانيا: تذكيرات مهمة للمسافر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -345,7 +345,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM ألمانيا: 3 خطوات بسيطة'
+  title: كيفية تفعيل eSIM ألمانيا على هاتفك
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -370,7 +370,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM ألمانيا
+    title: توضيحات حول eSIM ألمانيا
     questions:
     - q: |
         ما هو PostIdent/VideoIdent ولماذا يمثل مشكلة كبيرة للسياح؟
@@ -391,7 +391,7 @@ faq_section:
     - q: |
         لماذا تمتلك بطاقات SIM الألمانية المدفوعة مسبقاً دورات فوترة مدتها 28 يوماً؟ هل هذا هدر للرحلات القصيرة؟
       a: |
-        نعم — إنه هدر كبير. تستخدم جميع المشغلين الألمان (تيليكوم وفودافون وO2) <strong>دورة فوترة مدتها 28 يوماً</strong> (وليس شهراً تقويمياً). مثال: تكلف MagentaMobil M من تيليكوم 9.95 يورو لـ 10 جيجابايت/28 يوماً. إذا كنت تزور لمدة 7 أيام، فأنت تدفع ثمن <strong>21 يوماً لا تستخدمها (هدر 75%)</strong>. تقدم روامي خططاً لمدة 3 و7 و15 و30 يوماً — تدفع <strong>فقط مقابل مدة رحلتك الفعلية</strong>. يمكن أن تكلف رحلة لمدة 7 أيام مع روامي 2.99 دولار فقط مقابل 10 يورو في تيليكوم، مع صفر أيام مهدرة.
+        نعم — إنه هدر كبير. تستخدم جميع المشغلين الألمان (تيليكوم وفودافون وO2) <strong>دورة فوترة مدتها 28 يوماً</strong> (وليس شهراً تقويمياً). مثال: تكلف MagentaMobil M من تيليكوم 9.95 يورو لـ 10 جيجابايت/28 يوماً. إذا كنت تزور لمدة 7 أيام، فأنت تدفع ثمن <strong>21 يوماً لا تستخدمها (هدر 75%)</strong>. تقدم روامي خططاً لمدة 3 و7 و15 و30 يوماً — تدفع <strong>فقط مقابل مدة رحلتك الفعلية</strong>. يمكن أن تكلف رحلة لمدة 7 أيام مع روامي 17.99 دولار فقط مقابل 10 يورو في تيليكوم، مع صفر أيام مهدرة.
     - q: |
         أي مشغل هو الأفضل في ألمانيا — تيليكوم أم فودافون أم O2؟
       a: |
@@ -412,63 +412,75 @@ faq_section:
         متى تبدأ فترة صلاحية eSIM ألمانيا الخاصة بي؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في ألمانيا، وليس عند الشراء أو التثبيت. لذلك يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة. تمنحك خطة 7 أيام 7 أيام كاملة من أول اتصال.
+    - q: |
+        هل يعمل eSIM ألمانيا فور شرائه؟
+      a: |
+        يمكن شراء eSIM ألمانيا قبل السفر أو بعده. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        هل eSIM ألمانيا أرخص من العروض الأخرى؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في ألمانيا أسهل. بطاقات SIM المحلية في ألمانيا تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        ماذا أفعل إذا أوشكت بيانات eSIM ألمانيا على النفاد؟
+      a: |
+        عند نفاد بيانات eSIM ألمانيا يمكنك إضافة باقة بيانات جديدة من نفس الحساب. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM ألمانيا ذات الصلة
+  title: خطط eSIM لرحلات متعددة انطلاقًا من ألمانيا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM فنلندا
+    flag: img/flags/fi.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM ساحل العاج
+    flag: img/flags/ci.svg
+    price: من 9.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM السنغال
+    flag: img/flags/se.svg
+    price: من 12.99 دولار
+    is_highlight: false
+  - name: eSIM باراغواي
+    flag: img/flags/py.svg
+    price: من 22.99 دولار
+    is_highlight: false
+  - name: eSIM جورجيا
+    flag: img/flags/ge.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM المكسيك
+    flag: img/flags/mx.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM ماليزيا
+    flag: img/flags/my.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
+  - name: eSIM سنغافورة
+    flag: img/flags/sg.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
+  - name: eSIM سلوفاكيا
+    flag: img/flags/sl.svg
     price: من 1.99 دولار
     is_highlight: false
   - name: eSIM إسبانيا
     flag: img/flags/es.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
+  - name: eSIM تنزانيا
+    flag: img/flags/tz.svg
+    price: من 7.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM اليابان
+    flag: img/flags/jp.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM ألمانيا مقابل SIM المدفوعة مسبقاً: بدون PostIdent، بدون هدر 28 يوماً'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقاً في ألمانيا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (ألمانيا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Germany
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - SIM محلية مسبقة الدفع (بيانات السوق)

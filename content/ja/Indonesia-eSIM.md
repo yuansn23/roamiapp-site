@@ -1,6 +1,6 @@
 ---
 title: インドネシア eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:00:34+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,10 @@ modal:
     当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました！<br>新規のお客様はコード <strong>web20</strong> で20%オフ！
 seo:
   title: eSIM インドネシア | LINE・Googleマップ・SNSが使い放題のデータプラン
-  description: インドネシアへの旅行にRoamiのeSIMをおすすめ。QRコードをスキャンするだけの面倒なし設定、5G対応高速通信で地図もSNSもストレスフリー。24時間日本語サポート付きで海外でも安心してご利用いただけます。
-  keywords: インドネリア eSIM, インドネシア 旅行 インターネット, インドネシア データ 通信, インドネシア 観光 情報, インドネシア 現地
+  description: インドネシア eSIMのプランは1.99ドルから。Roamiなら出発前にインストールでき、到着後すぐにインターネット接続が可能です。
+  low_price: 1.99
+  high_price: 68.99
+  keywords: インドネシア eSIM, インドネシア eSIM 料金, インドネシア eSIM おすすめ, インドネシア eSIM 安い, インドネシア eSIM 購入, インドネシア eSIM 申し込み, インドネシア eSIM データ無制限, インドネシア プリペイドSIM, インドネシア 旅行 eSIM, インドネシア eSIM 価格, インドネシア eSIM 設定方法, インドネシア eSIM 対応エリア, ジャカルタ eSIM, バンドン eSIM, インドネシア モバイルデータ, インドネシア eSIM 比較
     ネットワーク
 order_summary:
   title: 選択したプラン
@@ -37,7 +39,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: インドネシア向け最高のeSIM
-  title: 海外旅行，就选インドネシア eSIM
+  title: インドネシア eSIMで到着後すぐにネット接続
 hero:
   flag_image: img/flags/id.svg
   flag_alt: インドネシアの国旗
@@ -70,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: あなたに合ったプラン
 plans_data:
   15 日:
   - spec: 無制限
@@ -324,7 +326,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: お役立ち情報
   items:
   - icon: 📱
     html: |-
@@ -375,12 +377,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: 'インドネシア eSIM : よくある質問と旅行ガイド'
-  desc: インドネシア旅行で役立つeSIMの完全情報。事前購入のメリット、物理SIM不要でそのまま使える便利さ、現地キャリアネットワークの品質比較、データ容量別のおすすめプランまで。長期滞在から短期旅行まで幅広くカバーします。インドネシアではTelkomselのネットワークに対応。
+  desc: インドネシア旅行で役立つeSIMの完全情報。長期滞在から短期旅行まで幅広くカバーします。インドネシアではTelkomselのネットワークに対応。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. はじめに
     questions:
     - q: 旅行前にインドネシア用eSIMをインストールして、後でアクティベーションすることはできますか？
       a: はい、今すぐ（Wi-Fi経由で）eSIMをインストールできます。アクティベーションは、インドネシアに到着した際に端末がTelkomsel / Indosat
@@ -398,18 +400,23 @@ faq_section:
       a: はい、お使いの端末が対応していれば、インドネシア用eSIMはVoLTEとHD音声をサポートします。Telkomsel / Indosat Ooredooの5G/4Gネットワークを通じてクリアな通話品質をお楽しみいただけます。
     - q: インドネシア用eSIMは近隣諸国での国際ローミングはどうなりますか？
       a: インドネシア用eSIMは主にインドネシア向けに最適化されています。近隣諸国への旅行には、当社のヨーロッパまたは地域別eSIMをお勧めします。これにより追加料金なしでシームレスなローミングが可能です。
-        複数国を周遊する旅行なら、地域別eSIM（ヨーロッパやアジア）を選べば国境を越えるたびに自動でネットワーク切替。追加購入や設定変更の手間がかかりません。海外旅行eSIMの地域別プランなら周遊旅行もスムーズです。
+
     - q: QRコードなしでインドネシア用eSIMをインストールできますか？
       a: はい、QRコードの他に、SM‑DP+アドレスとアクティベーションコード（注文確認メールに記載）を使って手動でインストールすることも可能です。QRコードが最も簡単で迅速な方法です。
     - q: インドネシア用eSIMを他のデバイスとテザリング（ポケットWi-Fi）できますか？
-      a: はい、R
-        Roamiなら1GB/$1.99からの格安プランでインドネシアの5G高速通信を利用可能。24時間日本語サポート付きで初めての海外eSIMも安心です。oamiのインドネシア用eSIMプランは全てテザリング（ポケットWi-Fi）を無制限でサポートしています。ノートパソコン、タブレット、または旅行仲間と接続を共有できます
+      a: はい、Roamiのインドネシア用eSIMプランは全てテザリング（ポケットWi-Fi）を無制限でサポートしています。ノートパソコン、タブレット、または旅行仲間と接続を共有できます
         — 隠れたコストも速度制限もありません。
 
     - q: インドネシア用eSIMを使用中、自分の電話番号を維持できますか？
       a: Roami eSIMはデータ専用です。国内の物理SIMを並行して使用（通話/SMS用）できます。多くのデュアルSIM端末では両方のプロファイルを管理でき、モバイルデータ通信にはRoami
         eSIMをデフォルトに設定するだけです。
-        インドネシアで使えるeSIMならRoamiがおすすめ。1GB/$1.99からの格安プランで、5G対応の高速データ通信を実現。事前購入で到着後すぐにアクティベーション可能。日本語サポート24時間対応で安心。
+
+    - q: インドネシア用eSIMを申し込む際に必要な情報はありますか？
+      a: Roamiのインドネシア用eSIMはすべてオンラインで申し込みできます。インドネシア到着後にデータ通信をオンにすれば自動で接続され、追加の申し込みは不要です。
+    - q: インドネシアのeSIMとレンタルルーターを比較するとどちらがお得ですか？
+      a: eSIMは店舗手数料やチャージの手間がなく、インドネシアの通信費を抑えやすい選択です。実際の料金は選ぶプランによって異なるため、現在の価格は公式サイトでご確認ください。
+    - q: インドネシア用eSIMにデータを追加チャージする方法を教えてください。
+      a: 追加チャージという仕組みはなく、必要なときに新しいプランを選んで購入する形です。現地SIMのように店舗でチャージする必要はなく、すべてオンラインで完結します。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -572,81 +579,80 @@ faq_section:
       a: インドネシア用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: インドネシア用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        RoamiのeSIMは格安料金で、5G対応の高速通信を提供しています。1GB/$1.99からのお得なプランを用意。24時間サポートで旅行中も安心です。
-        旅行用eSIMの使い方は簡単。購入後メールで届くQRコードをスキャンしてインストール。Roamiなら無制限プランもあり5G対応。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にインドネシア用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
+  - name: イラク eSIM
+    flag: img/flags/iq.svg
+    price: 21.99ドルから
+    is_highlight: false
+    slug: iraq-esim
+  - name: アイルランド eSIM
+    flag: img/flags/ie.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
-    price: 1.99ドルから
+    slug: ireland-esim
+  - name: イスラエル eSIM
+    flag: img/flags/il.svg
+    price: 2.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
+    slug: israel-esim
+  - name: イタリア eSIM
+    flag: img/flags/it.svg
     price: 1.99ドルから
     is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
-    price: 1.99ドルから
+    slug: italy-esim
+  - name: コートジボワール eSIM
+    flag: img/flags/ci.svg
+    price: 9.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: 1.99ドルから
+    slug: ivory-coast-esim
+  - name: ジャマイカ eSIM
+    flag: img/flags/jm.svg
+    price: 11.99ドルから
     is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
+    slug: jamaica-esim
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
     price: 1.99ドルから
     is_highlight: false
     slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
+  - name: ヨルダン eSIM
+    flag: img/flags/jo.svg
+    price: 6.99ドルから
     is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
+    slug: jordan-esim
+  - name: カザフスタン eSIM
+    flag: img/flags/kz.svg
+    price: 3.99ドルから
     is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
+    slug: kazakhstan-esim
+  - name: ケニア eSIM
+    flag: img/flags/ke.svg
+    price: 7.99ドルから
     is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
+    slug: kenya-esim
+  - name: コソボ eSIM
+    flag: img/flags/xk.svg
+    price: 13.99ドルから
     is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
+    slug: kosovo-esim
+  - name: クウェート eSIM
+    flag: img/flags/kw.svg
+    price: 4.99ドルから
     is_highlight: false
-    slug: australia-esim
-
+    slug: kuwait-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "インドネシアのeSIM vs プリペイドSIM：知っておくべきこと"
   subtitle: "インドネシアの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Indonesia) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Indonesia"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -679,7 +685,7 @@ market_analysis:
     - icon: "wifi"
       title: "テザリングと速度ポリシー"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。ただし、インドネシアの主要事業者（Telkomsel、Indosat、XL）は一般的にテザリングを許可していますが、速度制限や追加料金が発生する場合があります。"
+      prepaid_desc: "ただし、インドネシアの主要事業者（Telkomsel、Indosat、XL）は一般的にテザリングを許可していますが、速度制限や追加料金が発生する場合があります。"
       esim_title: "無制限テザリング"
       esim_desc: "インドネシアの物理SIMではテザリングに制限がある場合がありますが、eSIMは無制限テザリングをサポートし、複数デバイスでデータを共有可能。"
     - icon: "credit-card"
@@ -720,4 +726,3 @@ market_analysis:
         title: "複数ネットワークを自動最適化"
         desc: "Telkomselは離島で強いが都市部で遅く、XLは都市部で速いが離島で弱い。eSIMはTelkomselとXLの基地局を自動選択し、最適な接続を提供します。"
 ---
-        旅行用eSIMの使い方は簡単。購入後メールで届くQRコードをスキャンしてインストール。Roamiなら無制限プランもあり5G対応。

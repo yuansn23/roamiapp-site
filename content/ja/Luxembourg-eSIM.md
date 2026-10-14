@@ -1,6 +1,6 @@
 ---
 title: ルクセンブルク eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:00:49+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -8,7 +8,7 @@ country_meta:
   scenario_keywords: 観光、ビジネス旅行、出張、留学、乗り継ぎ
   operators: POST Luxembourg, Orange Luxembourg, Tango
   competitors: Airalo, Holafly, Nomad, Ubigi, eSIM Plus
-  main_cities: ルクセンブルク市、エシュ＝シュル＝アルゼット、ディーキルヒ、 ディフェルダンジュ, クレアヴォー
+  main_cities: ルクセンブルク市、エシュ＝シュル＝アルゼット、ディーキルヒ、ディフェルダンジュ, クレアヴォー
   main_packages: 3/7/15/30日、データ無制限
 modal:
   title: サービスアップデートのお知らせ！
@@ -19,8 +19,10 @@ modal:
     当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました！<br>新規のお客様はコード <strong>web20</strong> で20%オフ！
 seo:
   title: eSIM ルクセンブルク | 即時接続可能な格安データ通信プランおすすめガイド
-  description: ルクセンブルク旅行のデータプラン選びに迷ったらRoami。1GBから無制限まで目的に合わせて選択可能。必要なデータ量がわからない方には後から追加チャージできる柔軟プランがおすすめ。無駄なく使えます。
-  keywords: ルクセンブルク eSIM, ルクセンブルク ネットワーク, ルクセンブルク 観光, ルクセンブルク キャリア, ルクセンブルク 旅行
+  description: ルクセンブルク旅行のデータ通信はRoamiのeSIMで。1.99ドルから選べるプリペイドプランで、現地SIMの登録手続きも不要です。
+  low_price: 1.99
+  high_price: 77.99
+  keywords: ルクセンブルク eSIM, ルクセンブルク eSIM 料金, ルクセンブルク eSIM おすすめ, ルクセンブルク eSIM 安い, ルクセンブルク eSIM 購入, ルクセンブルク eSIM 申し込み, ルクセンブルク eSIM データ無制限, ルクセンブルク プリペイドSIM, ルクセンブルク 旅行 eSIM, ルクセンブルク eSIM 価格, ルクセンブルク eSIM 設定方法, ルクセンブルク eSIM 対応エリア, ルクセンブルク市 eSIM, エシュ＝シュル＝アルゼット eSIM, ルクセンブルク モバイルデータ, ルクセンブルク eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: ルクセンブルク向け最高のeSIM
-  title: ルクセンブルク eSIM，海外旅行流量不愁
+  title: ルクセンブルク旅行のデータ通信はeSIMで決まり
 hero:
   flag_image: img/flags/lu.svg
   flag_alt: ルクセンブルクの国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: データプランを選ぶ
 plans_data:
   30 日:
   - spec: 20GB
@@ -302,7 +304,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: カバレッジ
-      desc: ルクセンブルク全域で広範なネットワークカバレッジを提供。都市（ルクセンブルク市、エシュ＝シュル＝アルゼット、ディーキルヒ、 ディフェルダンジュ）を含む。ルクセンブルク用eSIMはPOST
+      desc: ルクセンブルク全域で広範なネットワークカバレッジを提供。都市（ルクセンブルク市、エシュ＝シュル＝アルゼット、ディーキルヒ、ディフェルダンジュ）を含む。ルクセンブルク用eSIMはPOST
         Luxembourg、Tango、Orange Luxembourgのネットワークにシームレスに接続。
     - icon: zap
       color: text-amber-500
@@ -323,7 +325,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: 購入前のチェックリスト
   items:
   - icon: 📱
     html: |-
@@ -374,16 +376,16 @@ activation_steps:
     is_list: false
 faq_section:
   title: 'ルクセンブルク eSIM : よくある質問と旅行ガイド'
-  desc: Luxembourg旅行で安心のデータ接続を実現するeSIMガイド。事前購入プランの選び方、5G/4Gネットワークのエリアマップ、無制限データオプション、テザリング共有方法などを詳しくご案内。日本語サポートで安心です。ルクセンブルクではPOST ルクセンブルクのネットワークに対応。
+  desc: Luxembourg旅行で安心のデータ接続を実現するeSIMガイド。ルクセンブルクではPOST ルクセンブルクのネットワークに対応。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. 基本の質問
     questions:
     - q: ルクセンブルク用eSIMのQRコードの有効期限は？
       a: QRコードはメール送信後30日間有効です。旅行前に十分な時間があります。期限が切れた場合は、新しいコードを発行できます。
-        出発前にluxembourg用eSIMをインストールすれば、到着後すぐにデータ通信が始められます。海外旅行eSIMの準備は、自宅のWi-Fi環境で事前に完了させるのがおすすめです。
+
     - q: QRコードなしでルクセンブルク用eSIMをインストールできますか？
       a: はい、QRコードの他に、SM‑DP+アドレスとアクティベーションコード（注文確認メールに記載）を使って手動でインストールすることも可能です。QRコードが最も簡単で迅速な方法です。
     - q: ルクセンブルク用eSIMのデータ使用量を確認するには？
@@ -391,12 +393,10 @@ faq_section:
     - q: ルクセンブルク用eSIMを使用中、国内のSIMで電話を受けることはできますか？
       a: はい、デュアルSIM端末では両方のプロファイルを同時に使用できます。モバイルデータにはRoami eSIMをデフォルトに設定するだけです。通話やSMSは国内SIM経由で（ローミングが有効な場合があります）行われます。
     - q: ルクセンブルク用eSIMを他のデバイスとテザリング（ポケットWi-Fi）できますか？
-      a: はい、Roamiのルクセンブルク用eS
-        事前購入で到着後すぐに使えるRoamiのeSIM。1GBから無制限まで旅行スタイルに合わせて選択でき、追加チャージも簡単です。IMプランは全てテザリング（ポケットWi-Fi）を無制限でサポートしています。ノートパソコン、タブレット、または旅行仲間と接続を共有できます
+      a: はい、Roamiのルクセンブルク用eSIMプランは全てテザリング（ポケットWi-Fi）を無制限でサポートしています。ノートパソコン、タブレット、または旅行仲間と接続を共有できます
         — 隠れたコストも速度制限もありません。
     - q: Roamiはルクセンブルクで無制限プランを提供していますか？ フェアユースポリシー（FUP）はありますか？
-      a: Roamiはルクセンブルク向けに真の無制限プランを提供しています。フェアユースポリシーは、極端な使用（例：数日間連続で4Kストリーミング）の場合にのみ適用されます。通常のブラウジング、SNS、ビデオ通話、GP
-        luxembourg旅行のデータ通信はRoamiにお任せ。最安1GB/$1.99、無制限プランもあり、5G対応の高速ネットワークで快適な旅をサポートします。Sは制限されません。
+      a: Roamiはルクセンブルク向けに真の無制限プランを提供しています。フェアユースポリシーは、極端な使用（例：数日間連続で4Kストリーミング）の場合にのみ適用されます。通常のブラウジング、SNS、ビデオ通話、GPSは制限されません。
     - q: Roamiはルクセンブルク以外の地域向けeSIMも提供していますか？
       a: はい、ルクセンブルク用eSIMの他に、ヨーロッパ、アジア、北米、グローバル向けの地域別eSIMも提供しています。複数都市をまたぐ旅行や数カ国を巡るツアーに最適です
         — SIMカードの交換は不要です。
@@ -409,7 +409,13 @@ faq_section:
 
     - q: ルクセンブルク用eSIMは物理SIMよりも安全ですか？
       a: eSIMはデバイスに組み込まれているため、抜き取ったりコピーしたりすることができず、不正アクセスに対してより保護されています。データは暗号化され、SIMカードの紛失や盗難のリスクもありません。
-        Luxembourg旅行の通信費を抑えるならRoami。海外ローミングより格安のデータプランで、無制限から1GBまで選択可能。事前購入・即時アクティベーションで到着後すぐにインターネット。
+
+    - q: ルクセンブルク向けeSIMの申し込みは日本にいながら可能ですか？
+      a: Roamiのルクセンブルク用eSIMはすべてオンラインで申し込みできます。パスポートや現地住所の登録は不要で、受け取ったQRコードをスキャンするだけです。
+    - q: ルクセンブルクでeSIMを選ぶと現地SIMより安くなる理由は何ですか？
+      a: 用途に合わせて容量を選べるため、ルクセンブルクではeSIMのほうが無駄なく費用を抑えられます。短期旅行では容量の小さいプラン、長期滞在では大容量プランが割安になる傾向があります。
+    - q: ルクセンブルク用eSIMに後からデータを足すことは可能ですか？
+      a: ルクセンブルク用eSIMはプリペイド式で、データが少なくなったらアプリから追加購入できます。データ残量はアプリでリアルタイムに確認できるため、使い切る前に追加できます。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -572,81 +578,80 @@ faq_section:
       a: ルクセンブルク用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: ルクセンブルク用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        格安eSIMならRoamiがおすすめ。1GB/$1.99からのデータプランで5G高速通信。24時間日本語サポートで初めての海外eSIMも安心。
-        格安eSIMならRoamiがおすすめ。1GB/$1.99からのデータプランで5G高速通信。24時間日本語サポートで初めての海外eSIMも安心。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にルクセンブルク用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
+  - name: マカオ eSIM
+    flag: img/flags/ma.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
+    slug: macao-esim
+  - name: マダガスカル eSIM
+    flag: img/flags/mg.svg
+    price: 11.99ドルから
+    is_highlight: false
+    slug: madagascar-esim
+  - name: マラウイ eSIM
+    flag: img/flags/mw.svg
+    price: 14.99ドルから
+    is_highlight: false
+    slug: malawi-esim
+  - name: マレーシア eSIM
+    flag: img/flags/my.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
+    slug: malaysia-esim
+  - name: モルディブ eSIM
+    flag: img/flags/mv.svg
+    price: 14.99ドルから
+    is_highlight: false
+    slug: maldives-esim
+  - name: マリ eSIM
+    flag: img/flags/ml.svg
+    price: 27.99ドルから
+    is_highlight: false
+    slug: mali-esim
+  - name: マルタ eSIM
+    flag: img/flags/mt.svg
+    price: 1.99ドルから
+    is_highlight: false
+    slug: malta-esim
+  - name: メキシコ eSIM
+    flag: img/flags/mx.svg
+    price: 3.99ドルから
+    is_highlight: false
+    slug: mexico-esim
+  - name: モルドバ eSIM
+    flag: img/flags/mo.svg
+    price: 1.99ドルから
+    is_highlight: false
+    slug: moldova-esim
+  - name: ネパール eSIM
+    flag: img/flags/ne.svg
+    price: 10.99ドルから
+    is_highlight: false
+    slug: nepal-esim
+  - name: オランダ eSIM
+    flag: img/flags/nl.svg
     price: 1.99ドルから
     is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
-    price: 1.99ドルから
+    slug: netherlands-esim
+  - name: ニュージーランド eSIM
+    flag: img/flags/nz.svg
+    price: 3.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+    slug: new-zealand-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "ルクセンブルクでのアクティベーションと設定：eSIMと物理SIMの比較"
   subtitle: "ルクセンブルクの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Luxembourg) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Luxembourg"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -679,7 +684,7 @@ market_analysis:
     - icon: "wifi"
       title: "テザリングと速度ポリシー"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。ただし、ルクセンブルクの主要事業者は一般的にテザリングを許可していますが、FUPによる速度制限の対象となる場合があります。"
+      prepaid_desc: "ただし、ルクセンブルクの主要事業者は一般的にテザリングを許可していますが、FUPによる速度制限の対象となる場合があります。"
       esim_title: "無制限テザリング"
       esim_desc: "ルクセンブルクのプリペイドではFUP制限がある可能性がありますが、eSIMはテザリングを制限なく利用可能。"
     - icon: "credit-card"
@@ -691,7 +696,7 @@ market_analysis:
     - icon: "headset"
       title: "カスタマーサポート"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。ルクセンブルクの事業者は通常、フランス語またはドイツ語での電話サポートを提供しており、英語対応は限定的です。"
+      prepaid_desc: "ルクセンブルクの事業者は通常、フランス語またはドイツ語での電話サポートを提供しており、英語対応は限定的です。"
       esim_title: "24時間サポート"
       esim_desc: "ルクセンブルクの事業者の限定的な営業時間とは異なり、eSIMは24時間日本語・英語対応のチャットサポートを提供。"
 

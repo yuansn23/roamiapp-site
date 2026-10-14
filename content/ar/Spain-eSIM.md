@@ -1,6 +1,6 @@
 ---
 title: 'eSIM إسبانيا 2026 - أفضل خطة 5G لمدريد وبرشلونة | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM إسبانيا - خطة بيانات سريعة مدفوعة مسبقًا لرحلتك
   description: "أفضل eSIM إسبانيا مدفوعة مسبقًا مع 5G على Movistar و Orange و Vodafone. تفعيل فوري عبر QR. يشمل تجوال الاتحاد الأوروبي. وخطط مرنة."
-  keywords: eSIM إسبانيا, شراء eSIM إسبانيا, أفضل eSIM إسبانيا, eSIM سفر إسبانيا, Movistar إسبانيا, Orange إسبانيا, Vodafone إسبانيا, eSIM مدريد, eSIM برشلونة, eSIM بلنسية, eSIM إسبانيا مسبقة الدفع, 5G eSIM إسبانيا, eSIM لطريق سانتياغو, eSIM جزر الكناري
+  keywords: eSIM إسبانيا، شراء eSIM إسبانيا، أفضل eSIM إسبانيا، eSIM إسبانيا رخيصة، eSIM إسبانيا مسبقة الدفع، باقة eSIM إسبانيا، eSIM إسبانيا غير محدودة، eSIM إسبانيا 5G، أفضل eSIM لـ إسبانيا، سعر eSIM إسبانيا، تفعيل eSIM إسبانيا، تغطية eSIM إسبانيا، Movistar إسبانيا، eSIM مدريد، eSIM برشلونة، eSIM بلنسية
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/es.svg
   flag_alt: علم إسبانيا
-  title: 'eSIM إسبانيا: 5G في مدريد وبرشلونة وما بعدها — بدون حاجة لجواز سفر'
+  title: 'eSIM إسبانيا: اتصال سلس من لحظة الوصول'
   subtitle: لا حاجة لهوية | 5G على Movistar و Orange و Vodafone | تجوال الاتحاد الأوروبي مشمول | تسليم QR فوري
 features:
-  title: 'لماذا يختار المسافرون إلى إسبانيا Roami: السرعة والتغطية والدعم'
+  title: مزايا eSIM إسبانيا من روامي
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بـ Movistar و Orange و Vodafone للحصول على أفضل إشارة في جميع أنحاء إسبانيا
-plans_title: 'شراء eSIM إسبانيا: خطط تناسب كل مدة رحلة'
+plans_title: 'باقات eSIM إسبانيا: خيارات يومية وشهرية'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -285,7 +285,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM إسبانيا: دليل شبكات Movistar و Orange و Vodafone'
+  title: 'تغطية eSIM إسبانيا: المشغلون وجودة الشبكة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -316,7 +316,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM إسبانيا: ما يجب معرفته قبل الذهاب'
+  title: 'قبل السفر إلى إسبانيا: نصائح تفعيل eSIM'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -337,7 +337,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM إسبانيا: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM إسبانيا: دليل سريع للمسافرين'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -362,7 +362,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM إسبانيا
+    title: أكثر ما يُسأل عن eSIM إسبانيا
     questions:
     - q: |
         هل أحتاج حقاً إلى جواز سفر أو هوية لاستخدام eSIM إسبانيا من Roami؟
@@ -400,63 +400,75 @@ faq_section:
         متى تبدأ فترة صلاحية eSIM إسبانيا الخاصة بي؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في إسبانيا، وليس عند الشراء أو التثبيت. لذا يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة. تمنحك خطة 7 أيام 7 أيام كاملة من أول اتصال.
+    - q: |
+        هل شراء eSIM إسبانيا متاح عبر الإنترنت؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. بعد الوصول إلى إسبانيا، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        أيّهما أرخص في إسبانيا، eSIM أم بطاقة SIM المطار؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM إسبانيا شبكة محلية مباشرة (Movistar) فيكون أوفر. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        هل يمكن إدارة بيانات eSIM إسبانيا من التطبيق؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في إسبانيا، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM إسبانيا ذات الصلة
+  title: باقات مقترحة لتوسيع رحلتك خارج إسبانيا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM بنغلاديش
+    flag: img/flags/bd.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM السلفادور
+    flag: img/flags/sv.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM كوريا الجنوبية
+    flag: img/flags/kr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM رومانيا
+    flag: img/flags/ro.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM جبل طارق
+    flag: img/flags/gi.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM جمهورية التشيك
+    flag: img/flags/cz.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM إندونيسيا
+    flag: img/flags/id.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM تشيلي
+    flag: img/flags/cl.svg
+    price: من 4.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM غواتيمالا
+    flag: img/flags/gt.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM الأرجنتين
+    flag: img/flags/ar.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM البرازيل
+    flag: img/flags/br.svg
+    price: من 4.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM المجر
+    flag: img/flags/hu.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'مقارنة eSIM إسبانيا وبطاقة SIM المحلية المدفوعة مسبقًا: أيهما أكثر راحة؟ – أفضل eSIM للمسافرين إلى إسبانيا'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في إسبانيا مقابل حلول eSIM (معايير 2024/2025)
   citation:
-    text: 'مصدر البيانات: Wiki بطاقة بيانات SIM المدفوعة مسبقًا (إسبانيا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Spain
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

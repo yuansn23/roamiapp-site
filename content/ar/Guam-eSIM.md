@@ -1,6 +1,6 @@
 ---
 title: 'غوام eSIM 2026: دليل الخطط والتغطية | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: تم ترقية خدمة eSIM لدينا إلى <strong>PhoneSIM</strong>.<br>يحصل العملاء الجدد على خصم 20%، رمز الخصم:web20
 seo:
   title: eSIM غوام | خطة بيانات مسبقة الدفع سريعة لإقامتك
-  description: "بيانات 5G غير محدودة في غوام مع Roami وتفعيل فوري. تغطية IT&E وDocomo Pacific وGTA. تغطي هاغاتنيا وتومون وديديدو. اشترِ خطتك الآن."
-  keywords: eSIM غوام، شراء eSIM غوام، أفضل eSIM غوام، eSIM سفر غوام، DOCOMO Pacific غوام، IT&E غوام، GTA غوام، eSIM هاغاتنيا، eSIM تامونينغ، eSIM ديديدو، eSIM مسبق الدفع غوام، eSIM 5G غوام
-  low_price: 1.99
-  high_price: 39.9
+  description: "أفضل eSIM لغوام مع بيانات 5G غير محدودة وتفعيل فوري. تغطية IT&E وDocomo Pacific. من 9.99 دولار. اشترِ خطتك الآن."
+  keywords: eSIM غوام، شراء eSIM غوام، أفضل eSIM غوام، eSIM غوام رخيصة، eSIM غوام مسبقة الدفع، باقة eSIM غوام، eSIM غوام غير محدودة، eSIM غوام 5G، أفضل eSIM لـ غوام، سعر eSIM غوام، تفعيل eSIM غوام، تغطية eSIM غوام، DOCOMO Pacific غوام، eSIM هاغاتنيا، eSIM تامونينغ، eSIM ديديدو
+  low_price: 9.99
+  high_price: 88.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/gu.svg
   flag_alt: علم غوام
-  title: 'eSIM غوام: شبكة وتغطية موثوقة للمسافرين'
+  title: 'eSIM غوام: اتصال دائم أثناء السفر'
   subtitle: أفضل eSIM مسبق الدفع لمسافري غوام - 5G سريع، تفعيل فوري، دعم 24/7
 features:
-  title: 'لماذا يختار مسافرو غوام Roami: السرعة والتغطية والدعم'
+  title: لماذا روامي مناسب لرحلتك إلى غوام
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي غوام للحصول على أفضل إشارة
-plans_title: 'شراء eSIM غوام: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM غوام: مقارنة المدة والسعر'
 plans_data:
   30 يومًا:
   - spec: 3GB
@@ -138,7 +138,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'المدة: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM غوام: دليل كامل للشبكات المحلية'
+  title: 'تغطية شبكة eSIM غوام: ما تحتاج معرفته'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -169,7 +169,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM غوام: ما يجب معرفته قبل الذهاب'
+  title: نصائح ما قبل الرحلة لـ eSIM غوام
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -188,7 +188,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على الشاشة، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM غوام: 3 خطوات بسيطة'
+  title: كيف تثبّت eSIM غوام على آيفون وأندرويد
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -213,7 +213,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM غوام
+    title: توضيحات سريعة حول eSIM غوام
     questions:
     - q: |
         هل من الآمن تحميل جواز سفري لتسجيل eSIM غوام؟ أنا قلق بشأن الخصوصية.
@@ -238,7 +238,7 @@ faq_section:
     - q: |
         أسافر إلى غوام لمدة 2-3 أيام فقط. ما هو eSIM الذي يجب أن أحصل عليه؟
       a: |
-        لرحلة قصيرة، تغطي خطة 1 جيجابايت / 7 أيام (1.99 دولار) الخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (4.99 دولار) تمنحك مساحة أكبر. يتم تفعيل كلاهما فورًا ويمكنك الشحن إذا لزم الأمر.
+        لرحلة قصيرة، تغطي خطة 1 جيجابايت / 7 أيام (9.99 دولار) الخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (22.99 دولار) تمنحك مساحة أكبر. يتم تفعيل كلاهما فورًا ويمكنك الشحن إذا لزم الأمر.
     - q: |
         هل يمكنني التحقق من كمية البيانات التي استخدمتها على eSIM غوام؟
       a: |
@@ -247,55 +247,67 @@ faq_section:
         كم عدد ملفات تعريف eSIM التي يمكنني تخزينها على هاتفي للسفر إلى غوام؟
       a: |
         تخزن معظم الهواتف 5-10 ملفات تعريف eSIM. يمكنك الاحتفاظ بـ eSIM غوام بجانب بطاقة SIM المنزلية وملفات تعريف الدول الأخرى. فقط قم بتفعيل ما تحتاجه وإلغاء تفعيل الباقي. يستغرق التبديل بينها حوالي 10 ثوانٍ في إعدادات هاتفك.
+    - q: |
+        هل يمكنني تغيير باقة eSIM غوام بعد الشراء؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM غوام عبر الإنترنت. بعد الوصول إلى غوام، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        ما أفضل طريقة لتقليل تكلفة البيانات في غوام؟
+      a: |
+        أسعار eSIM غوام معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        هل يمكنني إعادة تعبئة بيانات eSIM غوام بعد نفادها؟
+      a: |
+        عند نفاد بيانات eSIM غوام يمكنك إضافة باقة بيانات جديدة من نفس الحساب. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM ذات الصلة لغوام
+  title: مقترحات eSIM حول رحلتك إلى غوام
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM ماليزيا
+    flag: img/flags/my.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM سنغافورة
+    flag: img/flags/sg.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
+  - name: eSIM سلوفاكيا
+    flag: img/flags/sl.svg
     price: من 1.99 دولار
     is_highlight: false
   - name: eSIM إسبانيا
     flag: img/flags/es.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
+  - name: eSIM تنزانيا
+    flag: img/flags/tz.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM اليابان
+    flag: img/flags/jp.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM غويانا الفرنسية
+    flag: img/flags/gf.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM النرويج
+    flag: img/flags/no.svg
+    price: من 1.99 دولار
+    is_highlight: true
+  - name: eSIM العراق
+    flag: img/flags/iq.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM بروناي
+    flag: img/flags/bn.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM مقدونيا
+    flag: img/flags/ma.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM الصين
+    flag: img/flags/cn.svg
     price: من 1.99 دولار
     is_highlight: false
 ---

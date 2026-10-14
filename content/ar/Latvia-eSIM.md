@@ -1,6 +1,6 @@
 ---
 title: 'لاتفيا eSIM 2026: دليل الاتصال والسرعة | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,9 @@ modal:
 seo:
   title: "لاتفيا eSIM | أفضل خطة بيانات 5G غير محدودة للسياح"
   description: "أفضل eSIM مسبقة الدفع للسفر من Roami إلى لاتفيا. بيانات 5G غير محدودة وتفعيل فوري. تغطي ريغا وداوغافبيلس ويورمالا. خطط مرنة الآن."
-  keywords: لاتفيا eSIM, شراء لاتفيا eSIM, أفضل لاتفيا eSIM, لاتفيا eSIM للسفر, LMT لاتفيا, Tele2 لاتفيا, Bite لاتفيا, ريغا
-    eSIM, داوغافبيلس eSIM, ليبايا eSIM, لاتفيا eSIM مسبقة الدفع, 5G لاتفيا eSIM
+  keywords: eSIM لاتفيا، شراء eSIM لاتفيا، أفضل eSIM لاتفيا، eSIM لاتفيا رخيصة، eSIM لاتفيا مسبقة الدفع، باقة eSIM لاتفيا، eSIM لاتفيا غير محدودة، eSIM لاتفيا 5G، أفضل eSIM لـ لاتفيا، سعر eSIM لاتفيا، تفعيل eSIM لاتفيا، تغطية eSIM لاتفيا، LMT لاتفيا، eSIM ريغا، eSIM داوغافبيلس، eSIM ليبايا
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -41,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/lv.svg
   flag_alt: علم لاتفيا
-  title: 'لاتفيا eSIM: اتصال فوري لسفر خالٍ من القلق'
+  title: 'eSIM لاتفيا: إنترنت سريع بدون تعقيدات'
   subtitle: 5G سريع | تسليم فوري لرمز QR | دعم بشري 24/7 - أفضل eSIM مسبقة الدفع للاتفيا
 features:
-  title: 'لماذا يختار المسافرون إلى لاتفيا Roami: الباقات والشبكة والدعم'
+  title: ميزات خدمة Roami في لاتفيا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات الاتصالات في لاتفيا للحصول على أفضل إشارة
-plans_title: 'شراء لاتفيا eSIM: خطط لكل مدة رحلة'
+plans_title: 'خطط eSIM لاتفيا: باقات مصممة للمسافرين'
 plans_data:
   30 يوم:
   - spec: 20 جيجابايت
@@ -296,7 +295,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية لاتفيا eSIM: دليل مشغلي الشبكات المحمولة'
+  title: 'eSIM لاتفيا: خريطة التغطية ونصائح الاتصال'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -329,7 +328,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد لاتفيا eSIM: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM لاتفيا: تذكيرات الإعداد قبل الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -350,7 +349,7 @@ reminders:
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت لاتفيا eSIM: 3 خطوات بسيطة'
+  title: 'eSIM لاتفيا: دليل التثبيت في 3 خطوات'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -375,7 +374,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول لاتفيا eSIM
+    title: أسئلة أساسية عن eSIM لاتفيا
     questions:
     - q: |
         هل من الآمن تحميل جواز سفري لتسجيل eSIM لاتفيا؟ أنا قلق بشأن الخصوصية.
@@ -409,63 +408,75 @@ faq_section:
         متى تبدأ فترة صلاحية eSIM لاتفيا الخاصة بي؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في لاتفيا، وليس عند الشراء أو التثبيت. لذا يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة. تمنحك خطة الـ 7 أيام 7 أيام كاملة من أول اتصال.
+    - q: |
+        هل يمكن استخدام كود خصم عند شراء eSIM لاتفيا؟
+      a: |
+        يتيح Roami شراء eSIM لاتفيا من التطبيق أو الموقع. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        هل eSIM لاتفيا أوفر للرحلات القصيرة؟
+      a: |
+        أسعار eSIM لاتفيا معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        كيف تختلف طريقة التعبئة بين eSIM وبطاقة SIM المحلية في لاتفيا؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في لاتفيا، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط لاتفيا eSIM ذات الصلة
+  title: خطط eSIM لوجهات قد تجمعها مع لاتفيا
   items:
-  - name: الولايات المتحدة eSIM
-    flag: img/flags/us.svg
+  - name: eSIM غوادلوب
+    flag: img/flags/gp.svg
+    price: من 8.99 دولار
+    is_highlight: false
+  - name: eSIM أندورا
+    flag: img/flags/ad.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM إيطاليا
+    flag: img/flags/it.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM موزمبيق
+    flag: img/flags/mo.svg
+    price: من 14.99 دولار
     is_highlight: false
-  - name: أوروبا eSIM
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM طاجيكستان
+    flag: img/flags/tj.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM جامايكا
+    flag: img/flags/jm.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM باكستان
+    flag: img/flags/pk.svg
+    price: من 3.99 دولار
     is_highlight: true
-  - name: كندا eSIM
-    flag: img/flags/ca.svg
+  - name: eSIM أذربيجان
+    flag: img/flags/az.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM مدغشقر
+    flag: img/flags/mg.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM غيانا
+    flag: img/flags/gy.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM البرتغال
+    flag: img/flags/pt.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: تركيا eSIM
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: الصين eSIM
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: اليابان eSIM
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: هونغ كونغ eSIM
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: فرنسا eSIM
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: إسبانيا eSIM
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: ألمانيا eSIM
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أستراليا eSIM
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM أرمينيا
+    flag: img/flags/am.svg
+    price: من 7.99 دولار
     is_highlight: false
 market_analysis:
   title: 'لاتفيا eSIM أو بطاقة SIM المدفوعة مسبقًا: مقارنة جنبًا إلى جنب'
   subtitle: 'بطاقات SIM المحلية المدفوعة مسبقًا في لاتفيا مقابل حلول eSIM (معيار 2024/2025)'
   citation:
-    text: 'مصدر البيانات: ويكي بطاقة بيانات SIM المدفوعة مسبقًا (لاتفيا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Latvia
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

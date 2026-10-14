@@ -1,6 +1,6 @@
 ---
 title: 'مالتا eSIM 2026: دليل السفر والشبكات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,9 @@ modal:
 seo:
   title: مالطا eSIM | خطة بيانات مسبقة الدفع سريعة للمسافرين
   description: "أفضل eSIM مسبقة الدفع للسفر من Roami إلى مالطا. بيانات 5G غير محدودة في الجزر الثلاث. تغطي فاليتا وغوزو وكومينو. اشترِ خطتك الآن."
-  keywords: مالطا eSIM, شراء مالطا eSIM, أفضل مالطا eSIM, مالطا eSIM للسفر, GO مالطا, Melita مالطا, Epic مالطا, فاليتا eSIM,
-    سليمة eSIM, سانت جوليان eSIM, مالطا eSIM مسبقة الدفع, 5G مالطا eSIM
+  keywords: eSIM مالطا، شراء eSIM مالطا، أفضل eSIM مالطا، eSIM مالطا رخيصة، eSIM مالطا مسبقة الدفع، باقة eSIM مالطا، eSIM مالطا غير محدودة، eSIM مالطا 5G، أفضل eSIM لـ مالطا، سعر eSIM مالطا، تفعيل eSIM مالطا، تغطية eSIM مالطا، GO مالطا، eSIM فاليتا، eSIM سليمة، eSIM سانت جوليان
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -41,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/mt.svg
   flag_alt: علم مالطا
-  title: 'مالطا eSIM: شبكة موثوقة وتغطية للمسافرين'
+  title: 'eSIM مالطا: اتصال موثوق في كل مدينة'
   subtitle: 5G سريع | تسليم فوري لرمز QR | دعم بشري 24/7 - أفضل eSIM مسبقة الدفع لمالطا
 features:
-  title: 'لماذا يختار المسافرون إلى مالطا Roami: الباقات والشبكة والدعم'
+  title: 'ميزات Roami: تغطية قوية ودعم على مدار الساعة في مالطا'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات الاتصالات في مالطا للحصول على أفضل إشارة
-plans_title: 'شراء مالطا eSIM: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM مالطا: مرونة كاملة بدون أيام مهدرة'
 plans_data:
   30 يوم:
   - spec: 20 جيجابايت
@@ -296,7 +295,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية مالطا eSIM: دليل مشغلي الشبكات المحمولة'
+  title: 'eSIM مالطا: تغطية 5G والمشغلين المحليين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -329,7 +328,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد مالطا eSIM: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM مالطا: نصائح سريعة قبل بدء الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -350,7 +349,7 @@ reminders:
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت مالطا eSIM: 3 خطوات بسيطة'
+  title: 'eSIM مالطا: دليل التركيب والتفعيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -375,7 +374,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول مالطا eSIM
+    title: أسئلة الزوار الشائعة عن eSIM مالطا
     questions:
     - q: |
         هل من الآمن تحميل جواز سفري لتسجيل eSIM مالطا؟ أنا قلق بشأن الخصوصية.
@@ -388,7 +387,7 @@ faq_section:
     - q: |
         هل ستبطئ خطة eSIM غير المحدودة في مالطا إذا استخدمت كمية كبيرة من البيانات؟
       a: |
-        هناك سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح — فقط لا يمكن مشاهدة الفيديو بسلاسة. في الواقع، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقًا، فإن خطة ثابتة بسعة 10 جيجابايت (14.99 دولار) أو 20 جيجابايت (24.99 دولار) تزيل الشك تمامًا.
+        هناك سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح — فقط لا يمكن مشاهدة الفيديو بسلاسة. في الواقع، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقًا، فإن خطة ثابتة بسعة 10 جيجابايت (14.99 دولار) أو 20 جيجابايت (20.99 دولار) تزيل الشك تمامًا.
     - q: |
         هل eSIM أرخص من التجوال الدولي لمالطا؟
       a: |
@@ -409,63 +408,75 @@ faq_section:
         ما الذي يتضمنه شراء eSIM مالطا من Roami؟
       a: |
         تسليم رمز QR في غضون 5 دقائق، والوصول إلى شبكة GO، ودعم العملاء 24/7، ونقطة اتصال مجانية لما يصل إلى 5 أجهزة. تبدأ الخطط من 1.99 دولار. لا عقود، لا رسوم خفية، لا تجديد تلقائي.
+    - q: |
+        هل يمكنني شراء eSIM مالطا في يوم السفر؟
+      a: |
+        يمكن شراء eSIM مالطا قبل السفر أو بعده. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        كم يمكن توفيره باستخدام eSIM في مالطا؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM مالطا شبكة محلية مباشرة (GO) فيكون أوفر. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        هل يمكنني البدء بباقة صغيرة ثم زيادتها لاحقًا في مالطا؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط مالطا eSIM ذات الصلة
+  title: باقات eSIM أخرى قد تهمك مع مالطا
   items:
-  - name: الولايات المتحدة eSIM
+  - name: eSIM لوكسمبورغ
+    flag: img/flags/lu.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM سيشل
+    flag: img/flags/sc.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM الولايات المتحدة الأمريكية
     flag: img/flags/us.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM كوستاريكا
+    flag: img/flags/cr.svg
+    price: من 9.99 دولار
     is_highlight: false
-  - name: أوروبا eSIM
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM روسيا
+    flag: img/flags/ru.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM المالديف
+    flag: img/flags/mv.svg
+    price: من 14.99 دولار
+    is_highlight: false
+  - name: eSIM الإمارات
+    flag: img/flags/ae.svg
+    price: من 3.99 دولار
     is_highlight: true
-  - name: كندا eSIM
-    flag: img/flags/ca.svg
+  - name: eSIM ألبانيا
+    flag: img/flags/al.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: تركيا eSIM
-    flag: img/flags/tr.svg
+  - name: eSIM سويسرا
+    flag: img/flags/ch.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: الصين eSIM
-    flag: img/flags/cn.svg
+  - name: eSIM بورتوريكو
+    flag: img/flags/pu.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM كرواتيا
+    flag: img/flags/hr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: اليابان eSIM
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: هونغ كونغ eSIM
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: فرنسا eSIM
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: إسبانيا eSIM
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: ألمانيا eSIM
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أستراليا eSIM
-    flag: img/flags/au.svg
+  - name: eSIM سلوفينيا
+    flag: img/flags/sl.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'مالطا eSIM أو بطاقة SIM: ما هو الخيار الأفضل في 2026؟'
   subtitle: 'بطاقات SIM المحلية المدفوعة مسبقًا في مالطا مقابل حلول eSIM (معيار 2025/2026)'
   citation:
-    text: 'مصدر البيانات: ويكي بطاقة بيانات SIM المدفوعة مسبقًا (مالطا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Malta
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

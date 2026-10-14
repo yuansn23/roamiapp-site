@@ -1,6 +1,6 @@
 ---
 title: 'eSIM النمسا 2026: دليل المشغل المحلي | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM النمسا | أفضل بيانات 5G غير محدودة للسفر الآن"
   description: "أفضل eSIM سفر مدفوعة مسبقاً من روامي للنمسا. بيانات 5G غير محدودة وتفعيل فوري. تغطي فيينا وسالزبورغ وإنسبروك. من 1.99 دولار."
-  keywords: eSIM النمسا، شراء eSIM النمسا، أفضل eSIM النمسا، eSIM السفر إلى النمسا، A1 Telekom النمسا، T-Mobile النمسا، Drei النمسا، eSIM فيينا، eSIM غراتس، eSIM لينتس، eSIM النمسا مسبقة الدفع، 5G eSIM النمسا
+  keywords: eSIM النمسا، شراء eSIM النمسا، أفضل eSIM النمسا، eSIM النمسا رخيصة، eSIM النمسا مسبقة الدفع، باقة eSIM النمسا، eSIM النمسا غير محدودة، eSIM النمسا 5G، أفضل eSIM لـ النمسا، سعر eSIM النمسا، تفعيل eSIM النمسا، تغطية eSIM النمسا، A1 Telekom النمسا، eSIM فيينا، eSIM غراتس، eSIM لينتس
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/at.svg
   flag_alt: علم النمسا
-  title: 'eSIM النمسا: ابق على اتصال أينما تذهب'
+  title: 'eSIM النمسا: اتصال سلس من لحظة الوصول'
   subtitle: أفضل eSIM مسبقة الدفع للمسافرين إلى النمسا - 5G سريع، تفعيل فوري، دعم 24/7
 features:
-  title: 'لماذا يختار مسافرو النمسا روامي: السرعة، التغطية والدعم'
+  title: مزايا eSIM النمسا من روامي
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائياً بأفضل مشغلي النمسا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM النمسا: خطط تناسب كل مدة سفر'
+plans_title: 'باقات eSIM النمسا: خيارات يومية وشهرية'
 plans_data:
   30 يوم:
   - spec: 20 جيجابايت
@@ -293,7 +293,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM النمسا: دليل كامل للشبكات المحلية'
+  title: 'تغطية eSIM النمسا: المشغلون وجودة الشبكة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -324,7 +324,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM النمسا: ما يجب معرفته قبل الذهاب'
+  title: 'قبل السفر إلى النمسا: نصائح تفعيل eSIM'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -343,7 +343,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM النمسا: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM النمسا: دليل سريع للمسافرين'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -368,16 +368,16 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM النمسا
+    title: أكثر ما يُسأل عن eSIM النمسا
     questions:
     - q: |
         هل ستبطأ خطة eSIM النمسا غير المحدودة إذا استخدمت الكثير من البيانات؟
       a: |
-        هناك سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح — فقط لا فيديو سلس. واقعياً، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقاً، فإن خطة ثابتة 10 جيجابايت (14.99 دولار) أو 20 جيجابايت (24.99 دولار) تزيل عدم اليقين تماماً.
+        هناك سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح — فقط لا فيديو سلس. واقعياً، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقاً، فإن خطة ثابتة 10 جيجابايت (7.99 دولار) أو 20 جيجابايت (14.99 دولار) تزيل عدم اليقين تماماً.
     - q: |
         كم يجب أن أخصص ميزانية لـ eSIM عند زيارة النمسا؟
       a: |
-        تقدم روامي eSIM النمسا من 1.99 دولار لخطة خفيفة لمدة 7 أيام حتى 59.99 دولار لـ 30 يوماً من البيانات غير المحدودة. يختار معظم الزوار خطة 5 جيجابايت/15 يوماً بسعر 9.99 دولار — تغطي الملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة دون عناء. يجب على محبي البث المباشر أو مستخدمي وسائل التواصل الثقيلة التفكير في 10 جيجابايت أو غير المحدودة. توفر A1 سرعات موثوقة في جميع أنحاء النمسا. خطط روامي مدفوعة مسبقاً — لا فواتير مفاجئة، لا تجديد تلقائي، فقط تسعير مباشر.
+        تقدم روامي eSIM النمسا من 1.99 دولار لخطة خفيفة لمدة 3 أيام حتى 69.99 دولار لـ 30 يوماً من البيانات غير المحدودة. يختار معظم الزوار خطة 5 جيجابايت/15 يوماً بسعر 5.99 دولار — تغطي الملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة دون عناء. يجب على محبي البث المباشر أو مستخدمي وسائل التواصل الثقيلة التفكير في 10 جيجابايت أو غير المحدودة. توفر A1 سرعات موثوقة في جميع أنحاء النمسا. خطط روامي مدفوعة مسبقاً — لا فواتير مفاجئة، لا تجديد تلقائي، فقط تسعير مباشر.
     - q: |
         هل من الآمن تحميل جواز سفري لتسجيل eSIM النمسا؟ أنا قلق بشأن الخصوصية.
       a: |
@@ -402,63 +402,75 @@ faq_section:
         ما الفرق بين خطة 5 جيجابايت والخطة غير المحدودة للنمسا؟
       a: |
         تمنحك خطة 5 جيجابايت كمية ثابتة من البيانات عالية السرعة (5 جيجابايت إجمالاً). بمجرد استخدامها، يمكنك الشحن أو شراء خطة جديدة. تستمر الخطة غير المحدودة في توفير البيانات، لكن السرعات قد تنخفض بعد 30 جيجابايت في اليوم بموجب سياسة الاستخدام العادل. بالنسبة لمعظم المسافرين الذين يستخدمون الخرائط والمراسلة ووسائل التواصل الاجتماعي، فإن خطة 5 جيجابايت كافية تماماً.
+    - q: |
+        هل شراء eSIM النمسا متاح عبر الإنترنت؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. بعد الوصول إلى النمسا، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        أيّهما أرخص في النمسا، eSIM أم بطاقة SIM المطار؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM النمسا شبكة محلية مباشرة (A1 Telekom) فيكون أوفر. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        هل يمكن إدارة بيانات eSIM النمسا من التطبيق؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في النمسا، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM النمسا ذات الصلة
+  title: باقات مقترحة لتوسيع رحلتك خارج النمسا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM لاتفيا
+    flag: img/flags/lv.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM مصر
+    flag: img/flags/eg.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM أيرلندا
+    flag: img/flags/ie.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM منغوليا
+    flag: img/flags/mo.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM الهند
+    flag: img/flags/in.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM قبرص
+    flag: img/flags/cy.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM أوغندا
+    flag: img/flags/ug.svg
+    price: من 7.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM بوتسوانا
+    flag: img/flags/bw.svg
+    price: من 14.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM تونس
+    flag: img/flags/tn.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM عمان
+    flag: img/flags/om.svg
+    price: من 5.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM السويد
+    flag: img/flags/se.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM النمسا مقابل بطاقة SIM الفعلية: تحليل الإيجابيات والسلبيات'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقاً في النمسا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (النمسا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Austria
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - SIM محلية مسبقة الدفع (بيانات السوق)

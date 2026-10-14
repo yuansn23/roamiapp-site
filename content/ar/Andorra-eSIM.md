@@ -1,6 +1,6 @@
 ---
 title: "eSIM أندورا : دليل المشغل والتغطية | روامي"
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>يتمتع العملاء الجدد بخصم 20%، رمز الخصم: web20'
 seo:
   title: "eSIM أندورا: أفضل eSIM للسفر ودليل تغطية 5G الكامل"
-  description: "قارن خطط eSIM أندورا مع 5G سريع في أندورا لا فيلا وإسكالديز وإنكامب. تغطية أندورا تيليكوم. تفعيل فوري عبر QR من 1.99 دولار."
-  keywords: eSIM أندورا، شراء eSIM أندورا، أفضل eSIM أندورا، eSIM السفر إلى أندورا، أندورا تيليكوم أندورا، eSIM أندورا لا فيلا، eSIM إسكالديز-إنجورداني، eSIM إنكامب، eSIM أندورا مسبقة الدفع، 5G eSIM أندورا
-  low_price: 1.99
-  high_price: 39.9
+  description: "قارن خطط eSIM أندورا مع 5G سريع في أندورا لا فيلا وإسكالديز وإنكامب. تغطية أندورا تيليكوم. تفعيل فوري عبر QR من 6.99 دولار."
+  keywords: eSIM أندورا، شراء eSIM أندورا، أفضل eSIM أندورا، eSIM أندورا رخيصة، eSIM أندورا مسبقة الدفع، باقة eSIM أندورا، eSIM أندورا غير محدودة، eSIM أندورا 5G، أفضل eSIM لـ أندورا، سعر eSIM أندورا، تفعيل eSIM أندورا، تغطية eSIM أندورا، أندورا تيليكوم أندورا، eSIM أندورا لا فيلا، eSIM إسكالديز-إنجورداني، eSIM إنكامب
+  low_price: 6.99
+  high_price: 89.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -43,7 +43,7 @@ hero:
   title: 'eSIM أندورا: ابق على اتصال أينما تذهب'
   subtitle: 5G سريع | تسليم QR فوري | دعم بشري 24/7 - أفضل eSIM مسبقة الدفع لأندورا
 features:
-  title: 'لماذا يختار مسافرو أندورا روامي: الخطط، الشبكة والدعم'
+  title: 'لماذا يختار زوار أندورا Roami: تغطية واسعة ودعم 24/7'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائياً بأفضل مشغلي أندورا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM أندورا: خطط تناسب كل مدة سفر'
+plans_title: 'خطط eSIM أندورا: اختر المدة والباقة المناسبة'
 plans_data:
   7 أيام:
   - spec: 3 جيجابايت
@@ -229,7 +229,7 @@ network_coverage:
       coverage: أفضل تغطية شاملة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM أندورا: ما يجب معرفته قبل الذهاب'
+  title: 'تحضير eSIM أندورا: قائمة ما قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -248,7 +248,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM أندورا: 3 خطوات بسيطة'
+  title: كيف تُثبّت eSIM أندورا في 3 خطوات
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -273,7 +273,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM أندورا
+    title: كل ما تتساءل عنه حول eSIM أندورا
     questions:
     - q: |
         كيف تقارن روامي بـ Saily لـ eSIM في أندورا؟
@@ -306,64 +306,76 @@ faq_section:
     - q: |
         هل eSIM أرخص من التجوال الدولي لأندورا؟
       a: |
-        نعم — عادة ما يكون eSIM روامي أرخص بنسبة 80-90% من خطط التجوال من معظم المشغلين المنزليين. خطة 5 جيجابايت لأندورا تكلف 9.99 دولار، بينما يمكن أن يكلف التجوال 50+ دولاراً لنفس البيانات. كما تحصل على سرعات شبكة محلية بدلاً من التجوال المقيد.
+        نعم — عادة ما يكون eSIM روامي أرخص بنسبة 80-90% من خطط التجوال من معظم المشغلين المنزليين. خطة 5 جيجابايت لأندورا تكلف 16.99 دولار، بينما يمكن أن يكلف التجوال 50+ دولاراً لنفس البيانات. كما تحصل على سرعات شبكة محلية بدلاً من التجوال المقيد.
+    - q: |
+        ما المعلومات المطلوبة لشراء eSIM أندورا؟
+      a: |
+        يمكن شراء eSIM أندورا من Roami بالكامل عبر الإنترنت. بعد الوصول إلى أندورا، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        أيّهما أوفر في أندورا، eSIM أم راوتر Wi-Fi متنقل؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في أندورا أسهل. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        كيف أضيف بيانات إلى eSIM أندورا؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM أندورا ذات الصلة
+  title: خطط eSIM مقترحة لمسافري أندورا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
+  - name: eSIM الجزائر
+    flag: img/flags/dz.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM جمهورية الدومينيكان
+    flag: img/flags/do.svg
+    price: من 5.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM البحرين
+    flag: img/flags/bh.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM البوسنة والهرسك
+    flag: img/flags/ba.svg
+    price: من 30.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM لاتفيا
+    flag: img/flags/lv.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
+  - name: eSIM مصر
+    flag: img/flags/eg.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM أيرلندا
+    flag: img/flags/ie.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
+  - name: eSIM منغوليا
+    flag: img/flags/mo.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM الهند
+    flag: img/flags/in.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
+  - name: eSIM قبرص
+    flag: img/flags/cy.svg
+    price: من 2.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM أوغندا
+    flag: img/flags/ug.svg
+    price: من 7.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM أندورا مقابل SIM المدفوعة مسبقاً: مقارنة السرعة والتغطية والسعر'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقاً في أندورا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (أندورا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Andorra
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - SIM محلية مسبقة الدفع (بيانات السوق)

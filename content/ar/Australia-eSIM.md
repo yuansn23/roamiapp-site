@@ -1,6 +1,6 @@
 ---
 title: 'eSIM أستراليا 2026 - أفضل خطة 5G لسيدني وملبورن | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM أستراليا - أفضل خطة بيانات 5G سريعة لرحلتك الآن"
   description: "أفضل eSIM مدفوعة مسبقًا لأستراليا مع 5G على تيلسترا وأوبتوس وتي بي جي. تفعيل فوري عبر QR بدون هوية. من 1.99 دولار. خطط مرنة الآن."
-  keywords: eSIM أستراليا، شراء eSIM أستراليا، أفضل eSIM أستراليا، eSIM سفر أستراليا، تيلسترا أستراليا، أوبتوس أستراليا، تي بي جي تيليكوم أستراليا، eSIM سيدني، eSIM ملبورن، eSIM بريزبين، eSIM مدفوعة مسبقًا أستراليا، eSIM 5G أستراليا، eSIM طريق المحيط العظيم
+  keywords: eSIM أستراليا، شراء eSIM أستراليا، أفضل eSIM أستراليا، eSIM أستراليا رخيصة، eSIM أستراليا مسبقة الدفع، باقة eSIM أستراليا، eSIM أستراليا غير محدودة، eSIM أستراليا 5G، أفضل eSIM لـ أستراليا، سعر eSIM أستراليا، تفعيل eSIM أستراليا، تغطية eSIM أستراليا، تيلسترا أستراليا، eSIM سيدني، eSIM ملبورن، eSIM بريزبين
   low_price: 1.99
-  high_price: 39.9
+  high_price: 71.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/au.svg
   flag_alt: علم أستراليا
-  title: 'eSIM أستراليا: 5G في سيدني وملبورن وما بعدها — لا حاجة لعنوان'
+  title: 'eSIM أستراليا: 5G فوري بدون رسوم تجوال'
   subtitle: لا حاجة لهوية | 5G على تيلسترا وأوبتوس وتي بي جي | لا عقود 28 يومًا | تسليم QR فوري
 features:
-  title: 'لماذا يختار المسافرون إلى أستراليا Roami: الخطط والشبكة والدعم'
+  title: 'لماذا Roami خيار مسافري أستراليا: السرعة والسعر والدعم'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بشبكات تيلسترا وأوبتوس وتي بي جي تيليكوم للحصول على أفضل إشارة في جميع أنحاء أستراليا
-plans_title: 'شراء eSIM أستراليا: خطط لكل مدة رحلة'
+plans_title: شراء باقة eSIM أستراليا بالمدة التي تحتاجها
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -279,7 +279,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM أستراليا: دليل شبكات تيلسترا وأوبتوس وتي بي جي'
+  title: 'eSIM أستراليا: دليل تغطية الشبكات المحلية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -310,7 +310,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM أستراليا: ما يجب معرفته قبل السفر'
+  title: 'eSIM أستراليا: إرشادات الإعداد قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -331,7 +331,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM أستراليا: 3 خطوات بسيطة'
+  title: 'eSIM أستراليا: كيفية التثبيت والتفعيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -356,7 +356,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM أستراليا
+    title: أسئلة وأجوبة عن eSIM أستراليا
     questions:
     - q: |
         هل أحتاج حقًا إلى عنوان أو هوية أسترالية لـ eSIM أستراليا من Roami؟
@@ -394,63 +394,75 @@ faq_section:
         هل يمكنني شحن eSIM أستراليا إذا نفدت البيانات؟
       a: |
         نعم — يمكنك الشحن الإضافي من خلال حساب Roami في أي وقت. على عكس بطاقات SIM الأسترالية المدفوعة مسبقًا التي لها عمليات شحن معقدة (تتطلب ALDI التحقق عبر دفعة صغيرة، وترفض أوبتوس العديد من البطاقات الأجنبية)، يمنحك Roami مرونة كاملة لإضافة البيانات بنقرة واحدة. لا حاجة لشراء بطاقة جديدة أو زيارة متجر.
+    - q: |
+        ما خطوات شراء eSIM أستراليا واستلامه؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        ما هيكل أسعار eSIM أستراليا؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في أستراليا أسهل. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        هل يمكنني شراء المزيد من البيانات إذا نفدت في أستراليا؟
+      a: |
+        عند نفاد بيانات eSIM أستراليا يمكنك إضافة باقة بيانات جديدة من نفس الحساب. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM ذات الصلة بأستراليا
+  title: خطط eSIM قد تحتاجها بعد أستراليا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM البوسنة والهرسك
+    flag: img/flags/ba.svg
+    price: من 30.99 دولار
+    is_highlight: false
+  - name: eSIM لاتفيا
+    flag: img/flags/lv.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM مصر
+    flag: img/flags/eg.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM أيرلندا
+    flag: img/flags/ie.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM منغوليا
+    flag: img/flags/mo.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM الهند
+    flag: img/flags/in.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM قبرص
+    flag: img/flags/cy.svg
+    price: من 2.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM أوغندا
+    flag: img/flags/ug.svg
+    price: من 7.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM بوتسوانا
+    flag: img/flags/bw.svg
+    price: من 14.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
+  - name: eSIM تونس
+    flag: img/flags/tn.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM عمان
+    flag: img/flags/om.svg
+    price: من 5.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM أستراليا مقابل بطاقة SIM الفعلية'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في أستراليا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM للبيانات المدفوعة مسبقًا (أستراليا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Australia
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

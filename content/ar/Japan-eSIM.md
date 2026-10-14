@@ -1,6 +1,6 @@
 ---
 title: 'eSIM اليابان 2026 - أفضل خطة 5G لطوكيو وكيوتو | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM اليابان - خطة بيانات 5G سريعة مسبقة الدفع الآن"
   description: "أفضل eSIM مدفوعة مسبقاً لليابان مع 5G على دوكومو وسوفت بانك وكيه دي دي آي. تفعيل فوري عبر QR على مدار 24/7. من 1.99 دولار."
-  keywords: eSIM اليابان، شراء eSIM اليابان، أفضل eSIM اليابان، eSIM السفر إلى اليابان، إن تي تي دوكومو اليابان، سوفت بانك اليابان، كيه دي دي آي اليابان، eSIM طوكيو، eSIM أوساكا، eSIM كيوتو، eSIM اليابان مسبقة الدفع، 5G eSIM اليابان، eSIM شينكانسن، eSIM أونسن
+  keywords: eSIM اليابان، شراء eSIM اليابان، أفضل eSIM اليابان، eSIM اليابان رخيصة، eSIM اليابان مسبقة الدفع، باقة eSIM اليابان، eSIM اليابان غير محدودة، eSIM اليابان 5G، أفضل eSIM لـ اليابان، سعر eSIM اليابان، تفعيل eSIM اليابان، تغطية eSIM اليابان، إن تي تي دوكومو اليابان، eSIM طوكيو، eSIM أوساكا، eSIM كيوتو
   low_price: 1.99
-  high_price: 39.9
+  high_price: 71.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/jp.svg
   flag_alt: علم اليابان
-  title: 'eSIM اليابان: 5G في طوكيو وكيوتو وما وراءها — لا حاجة لهوية'
+  title: 'eSIM اليابان: اتصال موثوق في كل مدينة'
   subtitle: لا حاجة لهوية | 5G على دوكومو وسوفت بانك وكيه دي دي آي | تفعيل 24/7 | تسليم QR فوري
 features:
-  title: 'لماذا يختار مسافرو اليابان روامي: الخطط، الشبكة والدعم'
+  title: 'ميزات Roami: تغطية قوية ودعم على مدار الساعة في اليابان'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-brand-400 to-brand-600
     title: تبديل تلقائي
     desc: يتصل تلقائياً بشبكات إن تي تي دوكومو وسوفت بانك وكيه دي دي آي للحصول على أفضل إشارة في جميع أنحاء اليابان
-plans_title: 'شراء eSIM اليابان: خطط تناسب كل مدة سفر'
+plans_title: 'باقات eSIM اليابان: مرونة كاملة بدون أيام مهدرة'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -277,7 +277,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM اليابان: دليل شبكات إن تي تي دوكومو وسوفت بانك وكيه دي دي آي'
+  title: 'eSIM اليابان: تغطية 5G والمشغلين المحليين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -308,7 +308,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM اليابان: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM اليابان: نصائح سريعة قبل بدء الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -329,7 +329,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM اليابان: 3 خطوات بسيطة'
+  title: 'eSIM اليابان: دليل التركيب والتفعيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -354,7 +354,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM اليابان
+    title: أسئلة الزوار الشائعة عن eSIM اليابان
     questions:
     - q: |
         سأصل إلى اليابان في وقت متأخر من الليل — هل لا يزال بإمكاني تفعيل eSIM الخاص بي؟
@@ -392,63 +392,75 @@ faq_section:
         كيف تقارن روامي بـ Klook لـ eSIM في اليابان？
       a: |
         تقدم روامي عادةً قيمة أفضل لـ eSIM اليابان لأننا نبيع مباشرة — بدون هامش سوق. الأسعار عادة أقل بنسبة 10-20% من Klook. كما نقدم دعماً مباشراً على مدار الساعة. الخطط مدفوعة مسبقاً بدون تجديد تلقائي، لذلك لن يتم محاسبتك بعد انتهاء رحلتك.
+    - q: |
+        هل يمكنني شراء eSIM اليابان في يوم السفر؟
+      a: |
+        يمكن شراء eSIM اليابان قبل السفر أو بعده. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        كم يمكن توفيره باستخدام eSIM في اليابان؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM اليابان شبكة محلية مباشرة (إن تي تي دوكومو) فيكون أوفر. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        هل يمكنني البدء بباقة صغيرة ثم زيادتها لاحقًا في اليابان؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM اليابان ذات الصلة
+  title: باقات eSIM أخرى قد تهمك مع اليابان
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM أيسلندا
+    flag: img/flags/is.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM أوكرانيا
+    flag: img/flags/uk.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM الكونغو (كينشاسا)
+    flag: img/flags/cg.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM تشاد
+    flag: img/flags/td.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM الغابون
+    flag: img/flags/ga.svg
+    price: من 14.99 دولار
     is_highlight: false
   - name: eSIM تركيا
     flag: img/flags/tr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
+  - name: eSIM صربيا
+    flag: img/flags/se.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+  - name: eSIM ليختنشتاين
+    flag: img/flags/li.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
+  - name: eSIM غوادلوب
+    flag: img/flags/gp.svg
+    price: من 8.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
+  - name: eSIM أندورا
+    flag: img/flags/ad.svg
+    price: من 6.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
+  - name: eSIM إيطاليا
+    flag: img/flags/it.svg
     price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+    is_highlight: true
+  - name: eSIM موزمبيق
+    flag: img/flags/mo.svg
+    price: من 14.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM اليابان مقابل بطاقة SIM المدفوعة مسبقاً: الاختلافات الرئيسية الموضحة – أفضل eSIM للمسافرين إلى اليابان'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقاً في اليابان مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (اليابان) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Japan
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - SIM محلية مسبقة الدفع (بيانات السوق)

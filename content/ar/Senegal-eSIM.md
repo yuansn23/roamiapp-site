@@ -1,6 +1,6 @@
 ---
 title: 'eSIM السنغال 2026: دليل الاتصال والسرعة | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,18 +9,18 @@ country_meta:
   operators: Orange, Free, Tigo
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: داكار, سانت لويس, تييس, توبا, مبور
-  main_packages: 3/7/15/30 يومًا, بيانات غير محدودة
+  main_packages: 7/30 يومًا، حتى 5 جيجابايت
 modal:
   title: تم ترقية الخدمة!
   btn_text: متابعة
   text_default: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIMGo</strong>.<br>يتمتع العملاء الجدد بخصم 20%، رمز الترويج: web20'
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>يتمتع العملاء الجدد بخصم 20%، رمز الترويج: web20'
 seo:
-  title: 'eSIM السنغال: بيانات غير محدودة 5G لرحلات غرب إفريقيا'
-  description: "قارن خطط eSIM السنغال مع 5G سريع في داكار وسانت لويس. تغطية Orange و Free و Tigo. تفعيل فوري عبر QR من 1.99 دولار. خطط مرنة الآن."
-  keywords: eSIM السنغال, شراء eSIM السنغال, أفضل eSIM السنغال, eSIM سفر السنغال, Orange السنغال, Free السنغال, Tigo السنغال, eSIM داكار, eSIM سانت لويس, eSIM تييس, eSIM السنغال مسبقة الدفع, 5G eSIM السنغال
-  low_price: 1.99
-  high_price: 39.9
+  title: 'eSIM السنغال: بيانات 5G عالية السرعة لرحلات غرب إفريقيا'
+  description: "قارن خطط eSIM السنغال مع 5G سريع في داكار وسانت لويس. تغطية Orange و Free و Tigo. تفعيل فوري عبر QR من 12.99 دولار. خطط مرنة الآن."
+  keywords: eSIM السنغال، شراء eSIM السنغال، أفضل eSIM السنغال، eSIM السنغال رخيصة، eSIM السنغال مسبقة الدفع، باقة eSIM السنغال، باقة بيانات eSIM السنغال، eSIM السنغال 5G، أفضل eSIM لـ السنغال، سعر eSIM السنغال، تفعيل eSIM السنغال، تغطية eSIM السنغال، Orange السنغال، eSIM داكار، eSIM سانت لويس، eSIM تييس
+  low_price: 12.99
+  high_price: 39.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/se.svg
   flag_alt: علم السنغال
-  title: 'eSIM السنغال: اتصال فوري لسفر خالٍ من القلق'
+  title: 'eSIM السنغال: إنترنت سريع بدون تعقيدات'
   subtitle: 5G سريع | تسليم QR فوري | دعم بشري 24/7 - أفضل eSIM مدفوعة مسبقًا للسنغال
 features:
-  title: 'لماذا يختار المسافرون إلى السنغال Roami: الخطط والشبكة والدعم'
+  title: ميزات خدمة Roami في السنغال
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات النقل في السنغال للحصول على أفضل إشارة
-plans_title: 'شراء eSIM السنغال: خطط تناسب كل مدة رحلة'
+plans_title: 'خطط eSIM السنغال: باقات مصممة للمسافرين'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -104,7 +104,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM السنغال: دليل مشغلي الشبكات المحمولة'
+  title: 'eSIM السنغال: خريطة التغطية ونصائح الاتصال'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -135,7 +135,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM السنغال: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM السنغال: تذكيرات الإعداد قبل الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -154,7 +154,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM السنغال: 3 خطوات بسيطة'
+  title: 'eSIM السنغال: دليل التثبيت في 3 خطوات'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -179,7 +179,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM السنغال
+    title: أسئلة أساسية عن eSIM السنغال
     questions:
     - q: |
         كيف يقارن Roami بـ Nomad لـ eSIM في السنغال؟
@@ -213,55 +213,67 @@ faq_section:
         هل يمكنني شراء eSIM السنغال في اللحظة الأخيرة، قبل رحلتي مباشرة؟
       a: |
         نعم - يتم تسليم رمز QR عبر البريد الإلكتروني في غضون دقائق من الشراء. يمكنك شراؤه عند بوابة المطار وتثبيته على الطائرة باستخدام WiFi. عند وصولك إلى السنغال، ما عليك سوى تمكين تجوال البيانات وستكون متصلاً بالإنترنت فورًا.
+    - q: |
+        هل يمكن استخدام كود خصم عند شراء eSIM السنغال؟
+      a: |
+        يتيح Roami شراء eSIM السنغال من التطبيق أو الموقع. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        هل eSIM السنغال أوفر للرحلات القصيرة؟
+      a: |
+        أسعار eSIM السنغال معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        كيف تختلف طريقة التعبئة بين eSIM وبطاقة SIM المحلية في السنغال؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في السنغال، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM ذات الصلة
+  title: خطط eSIM لوجهات قد تجمعها مع السنغال
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM مونتينيغرو
+    flag: img/flags/mo.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM لاوس
+    flag: img/flags/la.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM قطر
+    flag: img/flags/qa.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM كوسوفو
+    flag: img/flags/xk.svg
+    price: من 13.99 دولار
+    is_highlight: false
+  - name: eSIM الكاميرون
+    flag: img/flags/cm.svg
+    price: من 27.99 دولار
+    is_highlight: false
+  - name: eSIM كولومبيا
+    flag: img/flags/co.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM جنوب شرق آسيا
+    flag: img/flags/ya.webp
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM ملاوي
+    flag: img/flags/mw.svg
+    price: من 14.99 دولار
+    is_highlight: false
+  - name: eSIM دومينيكا
+    flag: img/flags/dm.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM بنغلاديش
+    flag: img/flags/bd.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM السلفادور
+    flag: img/flags/sv.svg
+    price: من 23.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM كوريا الجنوبية
+    flag: img/flags/kr.svg
     price: من 1.99 دولار
     is_highlight: false
 ---

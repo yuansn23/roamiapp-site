@@ -1,6 +1,6 @@
 ---
 title: 'eSIM البوسنة والهرسك 2026: دليل السياح والشبكات | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,18 +9,18 @@ country_meta:
   operators: BH Telecom، HT Mostar، m:tel
   competitors: Airalo، Holafly، Nomad، Ubigi، Yesim
   main_cities: سراييفو، موستار، بانيا لوكا، توزلا، زينيتسا
-  main_packages: 3/7/15/30 يوم، بيانات غير محدودة
+  main_packages: 30 يوم، حتى 20 جيجابايت
 modal:
   title: تم ترقية الخدمة!
   btn_text: متابعة
   text_default: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIMGo</strong>.<br>يتمتع العملاء الجدد بخصم 20%، رمز الخصم: web20'
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>يتمتع العملاء الجدد بخصم 20%، رمز الخصم: web20'
 seo:
-  title: 'eSIM البوسنة: بيانات 5G غير محدودة، بدون رسوم خفية'
-  description: "قارن خطط eSIM البوسنة والهرسك مع 5G سريع في سراييفو وموستار وبانيا لوكا. تغطية BH Telecom و HT Mostar. من 1.99 دولار. وخطط مرنة."
-  keywords: eSIM البوسنة والهرسك، شراء eSIM البوسنة والهرسك، أفضل eSIM البوسنة والهرسك، eSIM السفر إلى البوسنة والهرسك، BH Telecom البوسنة والهرسك، HT Mostar البوسنة والهرسك، m:tel البوسنة والهرسك، eSIM سراييفو، eSIM موستار، eSIM بانيا لوكا، eSIM البوسنة والهرسك مسبقة الدفع، 5G eSIM البوسنة والهرسك
-  low_price: 1.99
-  high_price: 39.9
+  title: 'eSIM البوسنة: بيانات 5G عالية السرعة، بدون رسوم خفية'
+  description: "قارن خطط eSIM البوسنة والهرسك مع 5G سريع في سراييفو وموستار وبانيا لوكا. تغطية BH Telecom و HT Mostar. من 30.99 دولار. وخطط مرنة."
+  keywords: eSIM البوسنة والهرسك، شراء eSIM البوسنة والهرسك، أفضل eSIM البوسنة والهرسك، eSIM البوسنة والهرسك رخيصة، eSIM البوسنة والهرسك مسبقة الدفع، باقة eSIM البوسنة والهرسك، باقة بيانات eSIM البوسنة والهرسك، eSIM البوسنة والهرسك 5G، أفضل eSIM لـ البوسنة والهرسك، سعر eSIM البوسنة والهرسك، تفعيل eSIM البوسنة والهرسك، تغطية eSIM البوسنة والهرسك، BH Telecom البوسنة والهرسك، eSIM سراييفو، eSIM موستار، eSIM بانيا لوكا
+  low_price: 30.99
+  high_price: 30.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/ba.svg
   flag_alt: علم البوسنة والهرسك
-  title: 'eSIM البوسنة والهرسك: حلول بيانات كاملة لرحلتك'
+  title: 'eSIM البوسنة والهرسك: بيانات مرنة بتفعيل لحظي'
   subtitle: تفعيل فوري | تغطية 5G عالية التقييم | دعم 24/7 - أفضل eSIM مسبقة الدفع للبوسنة والهرسك
 features:
-  title: 'لماذا يختار مسافرو البوسنة والهرسك روامي: الشبكة، الخطط والقيمة'
+  title: 'ما يميز eSIM البوسنة والهرسك من روامي: السرعة والخدمة'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائياً بأفضل مشغلي البوسنة والهرسك للحصول على أفضل إشارة
-plans_title: 'شراء eSIM البوسنة والهرسك: خطط تناسب كل مدة سفر'
+plans_title: 'خطط eSIM البوسنة والهرسك: اختر ما يناسب جدول رحلتك'
 plans_data:
   30 يوم:
   - spec: 20 جيجابايت
@@ -86,7 +86,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM البوسنة والهرسك: تغطية الشبكة ومقارنة المشغلين'
+  title: 'eSIM البوسنة والهرسك: تغطية الشبكة وأفضل المشغلين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -117,7 +117,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM البوسنة والهرسك: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM البوسنة والهرسك: خطوات تحضير سريعة قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -136,7 +136,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM البوسنة والهرسك: 3 خطوات بسيطة'
+  title: 'eSIM البوسنة والهرسك: خطوات الإعداد والتفعيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -161,12 +161,12 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM البوسنة والهرسك
+    title: أسئلة المسافر المتكررة عن eSIM البوسنة والهرسك
     questions:
     - q: |
         كم يجب أن أخصص ميزانية لـ eSIM عند زيارة البوسنة والهرسك؟
       a: |
-        تقدم روامي eSIM البوسنة والهرسك من 1.99 دولار لخطة خفيفة لمدة 7 أيام حتى 59.99 دولار لـ 30 يوماً من البيانات غير المحدودة. يختار معظم الزوار خطة 5 جيجابايت/15 يوماً بسعر 9.99 دولار — تغطي الملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة دون عناء. يجب على محبي البث المباشر أو مستخدمي وسائل التواصل الثقيلة التفكير في 10 جيجابايت أو غير المحدودة. توفر BH Telecom سرعات موثوقة في جميع أنحاء البوسنة والهرسك. خطط روامي مدفوعة مسبقاً — لا فواتير مفاجئة، لا تجديد تلقائي، فقط تسعير مباشر.
+        تقدم روامي eSIM البوسنة والهرسك من 30.99 دولار لخطة خفيفة لمدة 30 أيام حتى 30.99 دولار لـ 30 يوماً من البيانات 20 جيجابايت. يختار معظم الزوار خطة 20 جيجابايت/30 يوماً بسعر 30.99 دولار — تغطي الملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة دون عناء. يجب على محبي البث المباشر أو مستخدمي وسائل التواصل الثقيلة التفكير في 10 جيجابايت أو غير المحدودة. توفر BH Telecom سرعات موثوقة في جميع أنحاء البوسنة والهرسك. خطط روامي مدفوعة مسبقاً — لا فواتير مفاجئة، لا تجديد تلقائي، فقط تسعير مباشر.
     - q: |
         كيف تقارن روامي بـ Holafly لـ eSIM في البوسنة والهرسك؟
       a: |
@@ -178,7 +178,7 @@ faq_section:
     - q: |
         أحتاج إلى الوصول إلى الإنترنت لبضعة أيام فقط في البوسنة والهرسك. ما هو الحد الأدنى الذي يمكنني شراؤه؟
       a: |
-        أرخص خطة هي 1.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لعطلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك الشحن في أي وقت من التطبيق.
+        أرخص خطة هي 30.99 دولار لمدة 30 أيام مع 20 جيجابايت — مثالية لعطلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك الشحن في أي وقت من التطبيق.
     - q: |
         سأصل إلى البوسنة والهرسك في وقت متأخر من الليل. هل سأتمكن من الاتصال بالإنترنت فوراً؟
       a: |
@@ -195,55 +195,67 @@ faq_section:
         هل أحتاج إلى إزالة شريحة SIM الفعلية لاستخدام eSIM في البوسنة والهرسك؟
       a: |
         إطلاقاً. تبقى شريحتك الفعلية في الفتحة 1. تعمل eSIM بجانبها في الفتحة 2. استخدم شريحة منزلك للرسائل النصية والمكالمات، وeSIM للبيانات. أكثر من 80% من الهواتف من 2020 تدعم هذا الإعداد المزدوج.
+    - q: |
+        هل أحتاج إدخال تواريخ الرحلة عند شراء eSIM البوسنة والهرسك؟
+      a: |
+        يتيح Roami شراء eSIM البوسنة والهرسك من التطبيق أو الموقع. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة BH Telecom لتبدأ الاستخدام فورًا.
+    - q: |
+        هل يوفّر eSIM البوسنة والهرسك التكلفة للإقامات الطويلة؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM البوسنة والهرسك شبكة محلية مباشرة (BH Telecom) فيكون أوفر. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل هناك حد لعدد مرات إضافة البيانات إلى eSIM البوسنة والهرسك؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM البوسنة والهرسك ذات الصلة
+  title: وجهات أخرى لرحلتك القادمة من البوسنة والهرسك
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
+  - name: eSIM تونس
+    flag: img/flags/tn.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM عمان
+    flag: img/flags/om.svg
+    price: من 5.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+  - name: eSIM السويد
+    flag: img/flags/se.svg
     price: من 1.99 دولار
     is_highlight: false
   - name: eSIM هونغ كونغ
     flag: img/flags/hk.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
   - name: eSIM أستراليا
     flag: img/flags/au.svg
+    price: من 1.99 دولار
+    is_highlight: true
+  - name: eSIM النيجر
+    flag: img/flags/ni.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM جزيرة ريونيون
+    flag: img/flags/re.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM تايلاند
+    flag: img/flags/th.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بوركينا فاسو
+    flag: img/flags/bf.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM نيبال
+    flag: img/flags/ne.svg
+    price: من 10.99 دولار
+    is_highlight: false
+  - name: eSIM قيرغيزستان
+    flag: img/flags/kg.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM فرنسا
+    flag: img/flags/fr.svg
     price: من 1.99 دولار
     is_highlight: false
 ---

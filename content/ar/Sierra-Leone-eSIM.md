@@ -1,6 +1,6 @@
 ---
 title: 'eSIM سيراليون 2026: دليل السفر الكامل | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Africell, Sierratel, Orange SL
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: فريتاون, بو, كينيما, ماكيني, كويدو
-  main_packages: 3/7/15/30 يومًا, بيانات غير محدودة
+  main_packages: 7/30 أيام، حتى 3 جيجابايت
 modal:
   title: تم ترقية الخدمة!
   btn_text: متابعة
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>يتمتع العملاء الجدد بخصم 20%، رمز الترويج: web20'
 seo:
   title: "eSIM سيراليون: تغطية Africell و Sierratel 5G الكاملة"
-  description: "قارن خطط eSIM سيراليون مع 5G سريع في فريتاون وبو وكينيما. تغطية Africell و Sierratel و Orange SL. تفعيل فوري من 1.99 دولار."
-  keywords: eSIM سيراليون, شراء eSIM سيراليون, أفضل eSIM سيراليون, eSIM سفر سيراليون, Africell سيراليون, Sierratel سيراليون, Orange SL سيراليون, eSIM فريتاون, eSIM بو, eSIM كينيما, eSIM سيراليون مسبقة الدفع, 5G eSIM سيراليون
-  low_price: 1.99
-  high_price: 39.9
+  description: "قارن خطط eSIM سيراليون مع 5G سريع في فريتاون وبو وكينيما. تغطية Africell و Sierratel و Orange SL. تفعيل فوري من 10.99 دولار."
+  keywords: eSIM سيراليون، شراء eSIM سيراليون، أفضل eSIM سيراليون، eSIM سيراليون رخيصة، eSIM سيراليون مسبقة الدفع، باقة eSIM سيراليون، باقة بيانات eSIM سيراليون، eSIM سيراليون 5G، أفضل eSIM لـ سيراليون، سعر eSIM سيراليون، تفعيل eSIM سيراليون، تغطية eSIM سيراليون، Africell سيراليون، eSIM فريتاون، eSIM بو، eSIM كينيما
+  low_price: 10.99
+  high_price: 33.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات النقل في سيراليون للحصول على أفضل إشارة
-plans_title: 'شراء eSIM سيراليون: خطط تناسب كل مدة رحلة'
+plans_title: 'شراء eSIM سيراليون: خطط تناسب كل مدة سفر'
 plans_data:
   30 يومًا:
   - spec: 5 جيجابايت
@@ -104,7 +104,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM سيراليون: دليل الشبكات وخريطة التغطية'
+  title: 'تغطية eSIM سيراليون: تغطية الشبكة ومقارنة المشغلين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -154,7 +154,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM سيراليون: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM سيراليون: ثلاث خطوات فقط'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -179,7 +179,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM سيراليون
+    title: أسئلة يتكرر طرحها عن eSIM سيراليون
     questions:
     - q: |
         أي شبكة في سيراليون لديها أفضل تغطية للمسافرين — Sierratel أم Orange أم Africell؟
@@ -213,55 +213,67 @@ faq_section:
         ما هي كمية البيانات التي يستخدمها المسافر العادي فعليًا يوميًا في سيراليون؟
       a: |
         متوسط الاستخدام اليومي لمعظم السياح: 300-500 ميجابايت للخرائط والمراسلة، حتى 1 جيجابايت إذا كنت تستخدم وسائل التواصل الاجتماعي بكثافة. لرحلة مدتها أسبوع واحد، 5 جيجابايت مريحة. لمدة أسبوعين، اختر 10 جيجابايت. تجعل Roami من السهل تعبئة الرصيد إذا نفدت البيانات.
+    - q: |
+        كيف أشتري eSIM سيراليون قبل رحلتي؟
+      a: |
+        يمكن شراء eSIM سيراليون من Roami بالكامل عبر الإنترنت. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        لمجموعة مسافرين إلى سيراليون، أيّهما أوفر، eSIM أم بطاقة SIM المحلية؟
+      a: |
+        أسعار eSIM سيراليون معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. بطاقات SIM المحلية في سيراليون تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        بيانات eSIM تنفد بسرعة، فهل هناك نصائح؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في سيراليون، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM ذات الصلة
+  title: باقات eSIM مرتبطة برحلتك إلى سيراليون
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
+  - name: eSIM كوسوفو
+    flag: img/flags/xk.svg
+    price: من 13.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM الكاميرون
+    flag: img/flags/cm.svg
+    price: من 27.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM كولومبيا
+    flag: img/flags/co.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM جنوب شرق آسيا
+    flag: img/flags/ya.webp
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
+  - name: eSIM ملاوي
+    flag: img/flags/mw.svg
+    price: من 14.99 دولار
+    is_highlight: false
+  - name: eSIM دومينيكا
+    flag: img/flags/dm.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM بنغلاديش
+    flag: img/flags/bd.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM السلفادور
+    flag: img/flags/sv.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM كوريا الجنوبية
+    flag: img/flags/kr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
+  - name: eSIM رومانيا
+    flag: img/flags/ro.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
+  - name: eSIM جبل طارق
+    flag: img/flags/gi.svg
+    price: من 5.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM جمهورية التشيك
+    flag: img/flags/cz.svg
     price: من 1.99 دولار
     is_highlight: false
 ---

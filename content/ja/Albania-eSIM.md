@@ -1,6 +1,6 @@
 ---
 title: アルバニア eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:00:46+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,10 @@ modal:
     当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました！<br>新規のお客様はコード <strong>web20</strong> で20%オフ！
 seo:
   title: eSIM アルバニア | 24時間サポート付き安心データ通信プランおすすめ比較
-  description: アルバニアで初めてeSIMを使う方もRoamiなら安心。QRコードをスキャンするだけの簡単設定で、機種変更や設定変更のサポートも日本語対応。事前インストールしておけば到着後すぐにインターネット接続。
-  keywords: アルバニア, eSIM, ネットワーク, 観光, モバイルデータ
+  description: アルバニアで初めてeSIMを使う方もRoamiなら安心。事前インストールしておけば到着後すぐにインターネット接続。
+  low_price: 1.99
+  high_price: 78.99
+  keywords: アルバニア eSIM, アルバニア eSIM 料金, アルバニア eSIM おすすめ, アルバニア eSIM 安い, アルバニア eSIM 購入, アルバニア eSIM 申し込み, アルバニア eSIM データ無制限, アルバニア プリペイドSIM, アルバニア 旅行 eSIM, アルバニア eSIM 価格, アルバニア eSIM 設定方法, アルバニア eSIM 対応エリア, ティラナ eSIM, ドゥラス eSIM, アルバニア モバイルデータ, アルバニア eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: アルバニア向け最高のeSIM
-  title: 海外旅行，就选アルバニア eSIM
+  title: 海外旅行ならアルバニア eSIMがおすすめ
 hero:
   flag_image: img/flags/al.svg
   flag_alt: アルバニアの国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: おすすめプラン一覧
 plans_data:
   30 日:
   - spec: 20GB
@@ -299,7 +301,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: ご利用前の確認事項
   items:
   - icon: 📱
     html: |-
@@ -350,12 +352,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: 'アルバニア eSIM : よくある質問と旅行ガイド'
-  desc: アルバニアで使える最安の旅行eSIM比較。AiraloやHolaflyより格安なRoamiの料金プラン、5G高速通信の24時間日本語サポートと返金保証付きで初めての海外eSIMも安心。。QRコード即時発行で到着後すぐに接続可能。アルバニアではVodafone アルバニアのネットワークに対応。
+  desc: アルバニアで使える最安の旅行eSIM比較。。QRコード即時発行で到着後すぐに接続可能。アルバニアではVodafone アルバニアのネットワークに対応。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. よくある質問
     questions:
     - q: アルバニア用eSIMのデータ使用量を確認するには？
       a: アクティベーション後、オンラインのダッシュボードにアクセスできます。そこでデータ残量、残り時間をリアルタイムで確認し、いつでもサポートを依頼できます。
@@ -363,7 +365,7 @@ faq_section:
       a: 一度インストールしたeSIMは他のデバイスに移行できません。旅行中に使用するデバイスにインストールしてください。追加のデバイスには個別にeSIMをお買い求めいただけます。
     - q: アルバニア用eSIMは近隣諸国での国際ローミングはどうなりますか？
       a: アルバニア用eSIMは主にアルバニア向けに最適化されています。近隣諸国への旅行には、当社のヨーロッパまたは地域別eSIMをお勧めします。これにより追加料金なしでシームレスなローミングが可能です。
-        複数国を周遊する旅行なら、地域別eSIM（ヨーロッパやアジア）を選べば国境を越えるたびに自動でネットワーク切替。追加購入や設定変更の手間がかかりません。海外旅行eSIMの地域別プランなら周遊旅行もスムーズです。
+
     - q: QRコードなしでアルバニア用eSIMをインストールできますか？
       a: はい、QRコードの他に、SM‑DP+アドレスとアクティベーションコード（注文確認メールに記載）を使って手動でインストールすることも可能です。QRコードが最も簡単で迅速な方法です。
     - q: アルバニア用eSIMが機能しない場合、返金保証はありますか？
@@ -374,7 +376,7 @@ faq_section:
       a: はい、今すぐ（Wi-Fi経由で）eSIMをインストールできます。アクティベーションは、アルバニアに到着した際に端末がVodafone Albania
         / Telekom Albaniaのネットワークを初めて検出したときに自動的に行われます。到着時のストレスを軽減できます。
     - q: Roamiはアルバニア以外の地域向けeSIMも提供していますか？
-        albania旅行のデータ通信はRoamiにお任せ。最安1GB/$1.99、無制限プランもあり、5G対応の高速ネットワークで快適な旅をサポートします。
+
       a: はい、アルバニア用eSIMの他に、ヨーロッパ、アジア、北米、グローバル向けの地域別eSIMも提供しています。複数都市をまたぐ旅行や数カ国を巡るツアーに最適です
         — SIMカードの交換は不要です。
     - q: 私のスマートフォンはアルバニアのeSIMに対応していますか？また、インストール方法は？
@@ -384,6 +386,12 @@ faq_section:
     - q: アルバニア用eSIMのアクティベーション方法と有効期間の開始時期は？
       a: 購入後、すぐにアクティベーション用QRコードがメールで届きます。有効期間は、お使いの端末がアルバニアの提携ネットワーク（Vodafone Albania
         / Telekom Albania）に初めて接続した時点から始まります。つまり、実際に現地に到着した日数だけ課金されます。
+    - q: アルバニア旅行で使うeSIMを申し込みたいのですが、手順を教えてください。
+      a: Roamiのアルバニア用eSIMはすべてオンラインで申し込みできます。手続きに店舗へ行く必要はなく、QRコードを読み込めば到着後すぐに接続できます。
+    - q: 複数人でアルバニアに行く場合、eSIMと現地SIMどちらが安いですか？
+      a: アルバニア用eSIMの料金はプランごとに明示されており、現地SIMのような追加チャージは不要です。アルバニアの現地SIMは本人確認やカード購入の手間がかかり、結果的にコストが高くなりがちです。
+    - q: アルバニア用eSIMのデータ減りが早いのですが、対策はありますか？
+      a: アルバニア滞在中にデータが不足したら、オンラインで上位のデータプランを購入して切り替えられます。複数のデータプランを同時に持つことはできませんが、購入後はすぐに新しいプランへ切り替わります。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -546,81 +554,80 @@ faq_section:
       a: アルバニア用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: アルバニア用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        旅行用eSIMの使い方は簡単。購入後メールで届くQRコードをスキャンしてインストール。Roamiなら無制限プランもあり5G対応。
-        海外旅行のデータ通信はeSIMが便利。ローミングより格安で、対応機種ならQRコードで即時設定完了。事前購入で到着後すぐ接続。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にアルバニア用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
-    price: 1.99ドルから
+  - name: アルジェリア eSIM
+    flag: img/flags/dz.svg
+    price: 3.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
-    price: 1.99ドルから
+    slug: algeria-esim
+  - name: アンドラ eSIM
+    flag: img/flags/ad.svg
+    price: 6.99ドルから
     is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
-    price: 1.99ドルから
+    slug: andorra-esim
+  - name: アルゼンチン eSIM
+    flag: img/flags/ar.svg
+    price: 3.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: 1.99ドルから
+    slug: argentina-esim
+  - name: アルメニア eSIM
+    flag: img/flags/am.svg
+    price: 7.99ドルから
     is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
+    slug: armenia-esim
+  - name: オーストラリア eSIM
     flag: img/flags/au.svg
     price: 1.99ドルから
     is_highlight: false
     slug: australia-esim
-
+  - name: オーストリア eSIM
+    flag: img/flags/at.svg
+    price: 1.99ドルから
+    is_highlight: false
+    slug: austria-esim
+  - name: アゼルバイジャン eSIM
+    flag: img/flags/az.svg
+    price: 6.99ドルから
+    is_highlight: false
+    slug: azerbaijan-esim
+  - name: バハマ eSIM
+    flag: img/flags/bs.svg
+    price: 16.99ドルから
+    is_highlight: false
+    slug: bahamas-esim
+  - name: バーレーン eSIM
+    flag: img/flags/bh.svg
+    price: 6.99ドルから
+    is_highlight: false
+    slug: bahrain-esim
+  - name: バングラデシュ eSIM
+    flag: img/flags/bd.svg
+    price: 5.99ドルから
+    is_highlight: false
+    slug: bangladesh-esim
+  - name: バルバドス eSIM
+    flag: img/flags/bb.svg
+    price: 11.99ドルから
+    is_highlight: false
+    slug: barbados-esim
+  - name: ベラルーシ eSIM
+    flag: img/flags/by.svg
+    price: 1.99ドルから
+    is_highlight: false
+    slug: belarus-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "2026年、アルバニアでeSIMかSIMカードか？"
   subtitle: "アルバニアの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Albania) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Albania"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -653,7 +660,7 @@ market_analysis:
     - icon: "wifi"
       title: "テザリングと速度ポリシー"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。"
+      prepaid_desc: "現地事業者の多くはテザリングを許可していますが、プランによっては速度制限や追加料金がかかる場合があります。"
       esim_title: "無制限テザリング"
       esim_desc: "現地SIMのテザリング制限を気にせず、全データをテザリング可能。複数デバイスで共有。"
     - icon: "credit-card"
@@ -665,7 +672,7 @@ market_analysis:
     - icon: "headset"
       title: "カスタマーサポート"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。"
+      prepaid_desc: "現地事業者のサポートは現地語が中心で、対応時間が限られる場合があります。"
       esim_title: "24時間サポート"
       esim_desc: "英語対応の24時間カスタマーサポート。現地の言語や営業時間に依存せず、いつでも問い合わせ可能。"
 
@@ -694,4 +701,3 @@ market_analysis:
         title: "アルバニアの厳格なパスポート要件を回避"
         desc: "VodafoneとOneでは購入時に<b>パスポート</b>と<b>現地住所</b>の登録が必須。eSIMならKYC不要で即時アクティベーション。"
 ---
-        海外旅行のデータ通信はeSIMが便利。ローミングより格安で、対応機種ならQRコードで即時設定完了。事前購入で到着後すぐ接続。

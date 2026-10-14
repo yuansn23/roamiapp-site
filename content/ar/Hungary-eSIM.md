@@ -1,6 +1,6 @@
 ---
 title: 'eSIM المجر 2026: دليل السفر والشبكات | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM المجر | أفضل بيانات 5G مدفوعة مسبقاً لرحلتك"
   description: "أفضل eSIM سفر مدفوعة مسبقاً للمجر من روامي. بيانات 5G غير محدودة وتفعيل فوري. تغطي بودابست وديبريتسن وبيتش. اشترِ خطتك الآن."
-  keywords: eSIM المجر، شراء eSIM المجر، أفضل eSIM المجر، eSIM السفر إلى المجر، ماديار تيليكوم المجر، تيلينور المجر، فودافون المجر، eSIM بودابست، eSIM ديبريتسن، eSIM سيجد، eSIM المجر مسبقة الدفع، 5G eSIM المجر
+  keywords: eSIM المجر، شراء eSIM المجر، أفضل eSIM المجر، eSIM المجر رخيصة، eSIM المجر مسبقة الدفع، باقة eSIM المجر، eSIM المجر غير محدودة، eSIM المجر 5G، أفضل eSIM لـ المجر، سعر eSIM المجر، تفعيل eSIM المجر، تغطية eSIM المجر، ماديار تيليكوم المجر، eSIM بودابست، eSIM ديبريتسن، eSIM سيجد
   low_price: 1.99
-  high_price: 39.9
+  high_price: 70.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/hu.svg
   flag_alt: علم المجر
-  title: 'eSIM المجر: شبكة وتغطية موثوقة للمسافرين'
+  title: 'eSIM المجر: بيانات 5G سريعة لكل مدينة ووجهة'
   subtitle: تفعيل فوري | تغطية 5G عالية التقييم | دعم 24/7 - أفضل eSIM مسبقة الدفع للمجر
 features:
-  title: 'لماذا يختار مسافرو المجر روامي: الشبكة، الخطط والقيمة'
+  title: 'لماذا يختار المسافرون إلى المجر Roami: السرعة والتغطية والدعم'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائياً بأفضل مشغلي المجر للحصول على أفضل إشارة
-plans_title: 'شراء eSIM المجر: خطط تناسب كل مدة سفر'
+plans_title: 'شراء eSIM المجر: خطط لكل مدة رحلة'
 plans_data:
   30 يوم:
   - spec: 20 جيجابايت
@@ -293,7 +293,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM المجر: تغطية الشبكة ومقارنة المشغلين'
+  title: 'تغطية eSIM المجر: دليل كامل للشبكات المحلية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -324,7 +324,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM المجر: ما يجب معرفته قبل الذهاب'
+  title: 'نصائح إعداد eSIM المجر: ما يجب معرفته قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -402,63 +402,75 @@ faq_section:
         كم مقدماً يجب أن أشتري eSIM المجر الخاص بي؟
       a: |
         يمكنك الشراء في أي وقت — حتى عند بوابة الطائرة. يصل رمز QR في غضون دقائق. نوصي بالشراء قبل بضعة أيام حتى تتمكن من التثبيت على WiFi في المنزل. يتم تفعيل الخطة فقط عند الاتصال في المجر، لذا الشراء المبكر لا يهدر أيام خطتك.
+    - q: |
+        من أين يمكنني شراء eSIM المجر؟
+      a: |
+        يمكن شراء eSIM المجر من Roami بالكامل عبر الإنترنت. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة ماديار تيليكوم لتبدأ الاستخدام فورًا.
+    - q: |
+        هل يوفر eSIM تكلفة الاتصال في المجر؟
+      a: |
+        في المجر يتطلب شراء بطاقة SIM المحلية تسجيلًا في المتجر، لذا غالبًا يكون eSIM أوفر. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل يمكنني إضافة باقة بيانات أثناء الإقامة في المجر؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM المجر ذات الصلة
+  title: خطط eSIM ذات صلة بـ المجر
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM اليابان
+    flag: img/flags/jp.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM غويانا الفرنسية
+    flag: img/flags/gf.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM النرويج
+    flag: img/flags/no.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM العراق
+    flag: img/flags/iq.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM بروناي
+    flag: img/flags/bn.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM مقدونيا
+    flag: img/flags/ma.svg
+    price: من 4.99 دولار
     is_highlight: false
   - name: eSIM الصين
     flag: img/flags/cn.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+  - name: eSIM مالطا
+    flag: img/flags/mt.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
+  - name: eSIM الإكوادور
+    flag: img/flags/ec.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM باهاماس
+    flag: img/flags/bs.svg
+    price: من 16.99 دولار
+    is_highlight: false
+  - name: eSIM أيسلندا
+    flag: img/flags/is.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM أوكرانيا
+    flag: img/flags/uk.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM المجر مقابل بطاقة SIM المحلية: أيهما يوفر لك أكثر؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقاً في المجر مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (المجر) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Hungary
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - SIM محلية مسبقة الدفع (بيانات السوق)

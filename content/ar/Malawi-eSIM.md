@@ -1,6 +1,6 @@
 ---
 title: 'eSIM ملاوي 2026: دليل السياحة والشبكات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20٪، كود الخصم: web20'
 seo:
   title: 'eSIM ملاوي: أفضل خطة بيانات غير محدودة عالية السرعة 5G'
-  description: "قارن خطط eSIM في ملاوي مع 5G سريع في ليلونغوي وبلانتاير. تغطية Airtel ملاوي و TNM وملاوي تيليكوم. تفعيل فوري من 1.99 دولار."
-  keywords: eSIM ملاوي, شراء eSIM ملاوي, أفضل eSIM ملاوي, eSIM سفر ملاوي, Airtel ملاوي ملاوي, TNM (شبكات تيليكوم ملاوي) ملاوي, ملاوي تيليكوم ملاوي, eSIM ليلونغوي, eSIM بلانتاير, eSIM مزوزو, eSIM مدفوع مسبق ملاوي, 5G eSIM ملاوي
-  low_price: 1.99
-  high_price: 39.9
+  description: "قارن خطط eSIM في ملاوي مع 5G سريع في ليلونغوي وبلانتاير. تغطية Airtel ملاوي و TNM وملاوي تيليكوم. تفعيل فوري من 14.99 دولار."
+  keywords: eSIM ملاوي، شراء eSIM ملاوي، أفضل eSIM ملاوي، eSIM ملاوي رخيصة، eSIM ملاوي مسبقة الدفع، باقة eSIM ملاوي، eSIM ملاوي غير محدودة، eSIM ملاوي 5G، أفضل eSIM لـ ملاوي، سعر eSIM ملاوي، تفعيل eSIM ملاوي، تغطية eSIM ملاوي، Airtel ملاوي ملاوي، eSIM ليلونغوي، eSIM بلانتاير، eSIM مزوزو
+  low_price: 14.99
+  high_price: 99.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/mw.svg
   flag_alt: علم ملاوي
-  title: 'eSIM ملاوي: حلول بيانات كاملة لرحلتك'
+  title: 'eSIM ملاوي: 5G فوري بدون رسوم تجوال'
   subtitle: 5G سريع | تسليم فوري عبر QR | دعم بشري 24/7 - أفضل eSIM مدفوع مسبق لملاوي
 features:
-  title: 'لماذا يختار المسافرون إلى ملاوي Roami: الخطط، الشبكة والدعم'
+  title: 'لماذا Roami خيار مسافري ملاوي: السرعة والسعر والدعم'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي ملاوي للحصول على أفضل إشارة
-plans_title: 'شراء eSIM ملاوي: خطط لكل مدة رحلة'
+plans_title: شراء باقة eSIM ملاوي بالمدة التي تحتاجها
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -172,7 +172,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM ملاوي: دليل مشغل شبكة الهاتف المحمول'
+  title: 'eSIM ملاوي: دليل تغطية الشبكات المحلية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -203,7 +203,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM ملاوي: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM ملاوي: إرشادات الإعداد قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -222,7 +222,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM ملاوي: 3 خطوات بسيطة'
+  title: 'eSIM ملاوي: كيفية التثبيت والتفعيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -247,7 +247,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM ملاوي
+    title: أسئلة وأجوبة عن eSIM ملاوي
     questions:
     - q: |
         بالنسبة لسائح في ملاوي، هل TNM أم Airtel الخيار الأفضل؟
@@ -281,63 +281,75 @@ faq_section:
         هل ستعمل eSIM الخاصة بي في ملاوي مع مكالمات الفيديو والعمل عن بعد؟
       a: |
         بالتأكيد. توفر شبكات TNM اتصالات مستقرة لـ Zoom و Teams و Google Meet. للعمل عن بعد، يوصى بخطة 10 جيجابايت أو غير محدودة. تدعم eSIM أيضًا مشاركة نقطة الاتصال لجهاز الكمبيوتر المحمول الخاص بك.
+    - q: |
+        ما خطوات شراء eSIM ملاوي واستلامه؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        ما هيكل أسعار eSIM ملاوي؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في ملاوي أسهل. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        هل يمكنني شراء المزيد من البيانات إذا نفدت في ملاوي؟
+      a: |
+        عند نفاد بيانات eSIM ملاوي يمكنك إضافة باقة بيانات جديدة من نفس الحساب. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM ذات الصلة لملاوي
+  title: خطط eSIM قد تحتاجها بعد ملاوي
   items:
-  - name: eSIM الولايات المتحدة
+  - name: eSIM مدغشقر
+    flag: img/flags/mg.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM غيانا
+    flag: img/flags/gy.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM البرتغال
+    flag: img/flags/pt.svg
+    price: من 1.99 دولار
+    is_highlight: true
+  - name: eSIM أرمينيا
+    flag: img/flags/am.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM لوكسمبورغ
+    flag: img/flags/lu.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM سيشل
+    flag: img/flags/sc.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM الولايات المتحدة الأمريكية
     flag: img/flags/us.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM كوستاريكا
+    flag: img/flags/cr.svg
+    price: من 9.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM روسيا
+    flag: img/flags/ru.svg
+    price: من 2.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM المالديف
+    flag: img/flags/mv.svg
+    price: من 14.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM الإمارات
+    flag: img/flags/ae.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM ألبانيا
+    flag: img/flags/al.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM ملاوي مقابل بطاقة SIM المدفوعة مسبقًا: كل ما يجب مراعاته'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في ملاوي مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (Malawi) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Malawi
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

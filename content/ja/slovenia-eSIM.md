@@ -1,6 +1,6 @@
 ---
 title: スロベニア eSIM データプラン | 2026年おすすめトラベルeSIM | Roami
-date: '2026-06-26T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,9 +20,9 @@ modal:
 seo:
   title: eSIM スロベニア | ビジネス出張に最適な高速通信プラン
   description: スロベニア旅行で使えるおすすめeSIM。事前に購入インストールでき到着後すぐにインターネット接続可能。中欧エリアの高速5G通信対応。
-  keywords: スロベニア eSIM, eSIM スロベニア, 安い eSIM スロベニア, スロベニア 旅行インターネット, A1 スロベニア, Telekom Slovenije, 即時 eSIM, ローミング料金なし
+  keywords: スロベニア eSIM, スロベニア eSIM 料金, スロベニア eSIM おすすめ, スロベニア eSIM 安い, スロベニア eSIM 購入, スロベニア eSIM 申し込み, スロベニア eSIM データ無制限, スロベニア プリペイドSIM, スロベニア 旅行 eSIM, スロベニア eSIM 価格, スロベニア eSIM 設定方法, スロベニア eSIM 対応エリア, リュブリャナ eSIM, マリボル eSIM, スロベニア モバイルデータ, スロベニア eSIM 比較
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: 選択中のプラン
   label_data: データ容量
@@ -38,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: スロベニアにおすすめのeSIM
-  title: 海外旅行，就选スロベニア eSIM
+  title: スロベニア旅行をeSIMでもっと自由に
 hero:
   flag_image: img/flags/sl.svg
   flag_alt: スロベニアの国旗
@@ -71,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動切替
     desc: 主要キャリアに接続
-plans_title: プランを選択
+plans_title: 最適なプランを選ぶ
 plans_data:
   30 Days:
   - spec: 30GB
@@ -303,7 +303,7 @@ network_coverage:
       coverage: ネイティブIP
       network: 5G/4G/LTE ネットワーク
 reminders:
-  title: 'スロベニア eSIM ご利用時の重要ポイント:'
+  title: 事前に確認したいこと
   items:
   - icon: 📱
     html: |-
@@ -350,12 +350,12 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: スロベニア eSIM FAQ
+    title: 1. 概要
     questions:
     - q: |
         スロベニアeSIM登録のためにパスポートをアップロードするのは安全ですか？プライバシーが心配です。
       a: |
-        スロベニアは法律で本人確認を義務付けています。スロベニアではKYC認証が必要です。パスポートの提出が求められます。手続きは簡単です：Roamiのセキュアポータルからパスポートをアップロードし、承認には5〜10分かかります。これは出発前に行ってください — 空港で不安定なWi-Fiで行うのはイライラします。承認されれば、スロベニアでデータローミングを有効にした時点で自動接続されます。 海外旅行eSIMならRoamiの地域別プランで周遊もスムーズです。
+        スロベニアは法律で本人確認を義務付けています。スロベニアではKYC認証が必要です。パスポートの提出が求められます。手続きは簡単です：Roamiのセキュアポータルからパスポートをアップロードし、承認には5〜10分かかります。これは出発前に行ってください — 空港で不安定なWi-Fiで行うのはイライラします。承認されれば、スロベニアでデータローミングを有効にした時点で自動接続されます。
     - q: |
         スロベニアの5GBプランと無制限プランの違いは何ですか？
       a: |
@@ -371,8 +371,7 @@ faq_section:
     - q: |
         eSIMはスロベニアでの国際ローミングよりも安いですか？
       a: |
-        はい — Roami eSIMは通常、ほとんどのホームキャリアのローミングプランより80〜90%安価です。スロベニアの5GBプランは$9.99で、同じデータ量のローミングは簡単に$50以上かかることがあります。さらに、速度制限のあるローミングではなく、現地ネットワーク速度を利用できます。
-        Roamiなら1GB/$1.99からの格安プランでsloveniaの5G高速通信を利用可能。24時間日本語サポート付きで初めての海外eSIMも安心です。
+        はい — Roami eSIMは通常、ほとんどのホームキャリアのローミングプランより80〜90%安価です。スロベニアの5GBプランは$6.99で、同じデータ量のローミングは簡単に$50以上かかることがあります。さらに、速度制限のあるローミングではなく、現地ネットワーク速度を利用できます。
     - q: |
         スロベニアeSIMは旅行のどれくらい前に購入すべきですか？
       a: |
@@ -381,60 +380,77 @@ faq_section:
         RoamiからスロベニアeSIMを購入するのに必要な書類は何ですか？
       a: |
         有効な支払い方法（クレジットカード、PayPal、Apple Pay、Google Pay）のみ必要です。パスポートのアップロード、住所確認、契約は一切不要です。オンラインで購入し、数分以内にメールでQRコードを受信し、直接電話にインストールできます。
-
     - q: |
         スロベニアに2〜3日だけ旅行します。どのeSIMを選べばいいですか？
       a: |
-        短期旅行には、1GB/7日プラン（$1.99）が地図とメッセージに最適です。SNSや写真共有をする予定なら、3GBプラン（$4.99）で余裕が生まれます。どちらも即時アクティベートされ、必要に応じて追加チャージも可能です。
+        SNSや写真共有をする予定なら、3GBプラン（$3.99）で余裕が生まれます。どちらも即時アクティベートされ、必要に応じて追加チャージも可能です。
+    - q: スロベニア用eSIMの申し込みから受け取りまでの流れを教えてください。
+      a: 申し込みは公式サイトから数分で完了します。パスポートや現地住所の登録は不要で、受け取ったQRコードをスキャンするだけです。
+    - q: スロベニア用eSIMの料金体系を教えてください。
+      a: eSIMは店舗手数料やチャージの手間がなく、スロベニアの通信費を抑えやすい選択です。短期旅行では容量の小さいプラン、長期滞在では大容量プランが割安になる傾向があります。
+    - q: スロベニアでデータが足りなくなった場合、追加で購入できますか？
+      a: スロベニア用eSIMのデータを使い切った場合は、同じアカウントから新しいデータプランを追加できます。データ残量はアプリでリアルタイムに確認できるため、使い切る前に追加できます。
 related_products:
   title: 関連eSIMプラン
   items:
-  - name: アメリカ eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: イギリス eSIM
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
   - name: ヨーロッパ eSIM
     flag: img/flags/eu.svg
-    price: From $1.99
+    price: 1.99ドルから
+    is_highlight: false
+    slug: europe-esim
+  - name: アフガニスタン eSIM
+    flag: img/flags/af.svg
+    price: 11.99ドルから
+    is_highlight: false
+    slug: afghanistan-esim
+  - name: アルバニア eSIM
+    flag: img/flags/al.svg
+    price: 1.99ドルから
     is_highlight: true
-  - name: カナダ eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
+    slug: albania-esim
+  - name: アルジェリア eSIM
+    flag: img/flags/dz.svg
+    price: 3.99ドルから
     is_highlight: false
-  - name: トルコ eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
+    slug: algeria-esim
+  - name: アンドラ eSIM
+    flag: img/flags/ad.svg
+    price: 6.99ドルから
     is_highlight: false
-  - name: 中国 eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
+    slug: andorra-esim
+  - name: アルゼンチン eSIM
+    flag: img/flags/ar.svg
+    price: 3.99ドルから
     is_highlight: false
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
+    slug: argentina-esim
+  - name: アルメニア eSIM
+    flag: img/flags/am.svg
+    price: 7.99ドルから
     is_highlight: false
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: フランス eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: スペイン eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: ドイツ eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
+    slug: armenia-esim
   - name: オーストラリア eSIM
     flag: img/flags/au.svg
-    price: From $1.99
+    price: 1.99ドルから
     is_highlight: false
+    slug: australia-esim
+  - name: オーストリア eSIM
+    flag: img/flags/at.svg
+    price: 1.99ドルから
+    is_highlight: false
+    slug: austria-esim
+  - name: アゼルバイジャン eSIM
+    flag: img/flags/az.svg
+    price: 6.99ドルから
+    is_highlight: false
+    slug: azerbaijan-esim
+  - name: バハマ eSIM
+    flag: img/flags/bs.svg
+    price: 16.99ドルから
+    is_highlight: false
+    slug: bahamas-esim
+  - name: バーレーン eSIM
+    flag: img/flags/bh.svg
+    price: 6.99ドルから
+    is_highlight: false
+    slug: bahrain-esim
 ---

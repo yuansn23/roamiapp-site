@@ -1,6 +1,6 @@
 ---
 title: 'بوتسوانا eSIM 2026: دليل المشغل المحلي | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Mascom, Orange, BTC
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: غابورون، فرانسيس تاون، ماون، كاساني، سيروي
-  main_packages: 3/7/15/30 يوم، بيانات غير محدودة
+  main_packages: 7/15/30 يومًا، حتى 3 جيجابايت
 modal:
   title: تم ترقية الخدمة!
   btn_text: متابعة
@@ -17,10 +17,10 @@ modal:
   text_android: تم ترقية خدمة eSIM لدينا إلى <strong>PhoneSIM</strong>.<br>يحصل العملاء الجدد على خصم 20%، رمز الخصم:web20
 seo:
   title: eSIM بوتسوانا | أفضل بيانات مسبقة الدفع 5G للسياح
-  description: "ابق على اتصال في بوتسوانا مع Roami. بيانات غير محدودة 5G وتفعيل فوري. تغطي غابورون وفرانسيس تاون وماون. اشترِ عبر الإنترنت."
-  keywords: eSIM بوتسوانا، شراء eSIM بوتسوانا، أفضل eSIM بوتسوانا، eSIM سفر بوتسوانا، Mascom بوتسوانا، Orange بوتسوانا، BTC بوتسوانا، eSIM غابورون، eSIM فرانسيس تاون، eSIM ماون، eSIM مسبق الدفع بوتسوانا، eSIM 5G بوتسوانا
-  low_price: 1.99
-  high_price: 39.9
+  description: "أفضل eSIM لبوتسوانا مع بيانات 5G عالية السرعة وتفعيل فوري. تغطي غابورون وفرانسيس تاون وماون. من 14.99 دولار. اشترِ عبر الإنترنت."
+  keywords: eSIM بوتسوانا، شراء eSIM بوتسوانا، أفضل eSIM بوتسوانا، eSIM بوتسوانا رخيصة، eSIM بوتسوانا مسبقة الدفع، باقة eSIM بوتسوانا، باقة بيانات eSIM بوتسوانا، eSIM بوتسوانا 5G، أفضل eSIM لـ بوتسوانا، سعر eSIM بوتسوانا، تفعيل eSIM بوتسوانا، تغطية eSIM بوتسوانا، Mascom بوتسوانا، eSIM غابورون، eSIM فرانسيس تاون، eSIM ماون
+  low_price: 14.99
+  high_price: 35.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/bw.svg
   flag_alt: علم بوتسوانا
-  title: 'eSIM بوتسوانا: ابق على اتصال أينما ذهبت'
+  title: 'eSIM بوتسوانا: شبكة قوية من اليوم الأول'
   subtitle: لا رسوم خفية | إنترنت بدون قلق | دعم 24/7 - أفضل eSIM مسبق الدفع لمسافري بوتسوانا
 features:
-  title: 'لماذا يختار مسافرو بوتسوانا Roami: التغطية، السرعة والخدمة'
+  title: لماذا يختار المسافرون روامي في بوتسوانا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي بوتسوانا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM بوتسوانا: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM بوتسوانا: بيانات مرنة بأسعار تنافسية'
 plans_data:
   7 أيام:
   - spec: 1GB
@@ -105,7 +105,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'المدة: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM بوتسوانا: دليل المشغل وخريطة التغطية'
+  title: دليل الشبكات المحلية لـ eSIM بوتسوانا
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -136,7 +136,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM بوتسوانا: ما يجب معرفته قبل الذهاب'
+  title: 'قبل الذهاب إلى بوتسوانا: تحضير eSIM خطوة بخطوة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -155,7 +155,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على الشاشة، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM بوتسوانا: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM بوتسوانا: من رمز QR إلى الاتصال'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -180,7 +180,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM بوتسوانا
+    title: أجوبة على أشهر أسئلة eSIM بوتسوانا
     questions:
     - q: |
         هل يقوم Roami بالتبديل بين Mascom و BTC و Orange في بوتسوانا تلقائيًا؟
@@ -205,7 +205,7 @@ faq_section:
     - q: |
         أسافر إلى بوتسوانا لمدة 2-3 أيام فقط. ما هو eSIM الذي يجب أن أحصل عليه؟
       a: |
-        لرحلة قصيرة، تغطي خطة 1 جيجابايت / 7 أيام (1.99 دولار) الخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (4.99 دولار) تمنحك مساحة أكبر. يتم تفعيل كلاهما فورًا ويمكنك الشحن إذا لزم الأمر.
+        لرحلة قصيرة، تغطي خطة 1 جيجابايت / 7 أيام (14.99 دولار) الخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (35.99 دولار) تمنحك مساحة أكبر. يتم تفعيل كلاهما فورًا ويمكنك الشحن إذا لزم الأمر.
     - q: |
         ما هي المستندات المطلوبة لشراء eSIM بوتسوانا من Roami؟
       a: |
@@ -214,63 +214,75 @@ faq_section:
         هل يعمل eSIM بوتسوانا في المناطق الريفية والبلدات الصغيرة؟
       a: |
         تصل التغطية في بوتسوانا إلى حوالي 95٪ من المناطق الحضرية ولكنها تنخفض في المواقع النائية. قد تنخفض السرعات من 200-300 ميجابت/ثانية (5G) إلى 10-30 ميجابت/ثانية (4G). يقوم Roami بالتبديل التلقائي إلى أقوى شبكة. قم بتنزيل الخرائط دون اتصال قبل التوجه إلى المناطق النائية.
+    - q: |
+        هل يمكنني شراء eSIM بوتسوانا ليلاً؟
+      a: |
+        يتيح Roami شراء eSIM بوتسوانا من التطبيق أو الموقع. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        ما أرخص باقة eSIM بوتسوانا متاحة؟
+      a: |
+        في بوتسوانا يتطلب شراء بطاقة SIM المحلية تسجيلًا في المتجر، لذا غالبًا يكون eSIM أوفر. بطاقات SIM المحلية في بوتسوانا تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        هل يمكنني تغيير باقة بيانات eSIM أثناء الإقامة في بوتسوانا؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM ذات الصلة لبوتسوانا
+  title: باقات eSIM إضافية لمسافري بوتسوانا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
+  - name: eSIM عمان
+    flag: img/flags/om.svg
+    price: من 5.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+  - name: eSIM السويد
+    flag: img/flags/se.svg
     price: من 1.99 دولار
     is_highlight: false
   - name: eSIM هونغ كونغ
     flag: img/flags/hk.svg
     price: من 1.99 دولار
     is_highlight: false
+  - name: eSIM أستراليا
+    flag: img/flags/au.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM النيجر
+    flag: img/flags/ni.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM جزيرة ريونيون
+    flag: img/flags/re.svg
+    price: من 1.99 دولار
+    is_highlight: true
+  - name: eSIM تايلاند
+    flag: img/flags/th.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بوركينا فاسو
+    flag: img/flags/bf.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM نيبال
+    flag: img/flags/ne.svg
+    price: من 10.99 دولار
+    is_highlight: false
+  - name: eSIM قيرغيزستان
+    flag: img/flags/kg.svg
+    price: من 4.99 دولار
+    is_highlight: false
   - name: eSIM فرنسا
     flag: img/flags/fr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM بوليفيا
+    flag: img/flags/bo.svg
+    price: من 11.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM بوتسوانا مقابل خطط بطاقات SIM: أيهما يناسب احتياجاتك؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في بوتسوانا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM المدفوعة مسبقًا (بوتسوانا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Botswana
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

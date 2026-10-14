@@ -1,6 +1,6 @@
 ---
 title: 'eSIM أرمينيا 2026: دليل المدن والشبكات | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM أرمينيا | أفضل بيانات 5G غير محدودة للسياح الآن"
   description: "أفضل eSIM سفر مدفوعة مسبقاً من روامي لأرمينيا. بيانات 5G غير محدودة مع تفعيل فوري. تغطي يريفان وغيومري وفانادزور. اشترِ خطتك الآن."
-  keywords: eSIM أرمينيا، شراء eSIM أرمينيا، أفضل eSIM أرمينيا، eSIM السفر إلى أرمينيا، Viva-MTS أرمينيا، Ucom أرمينيا، Team Telecom أرمينيا، eSIM يريفان، eSIM غيومري، eSIM فانادزور، eSIM أرمينيا مسبقة الدفع، 5G eSIM أرمينيا
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM أرمينيا، شراء eSIM أرمينيا، أفضل eSIM أرمينيا، eSIM أرمينيا رخيصة، eSIM أرمينيا مسبقة الدفع، باقة eSIM أرمينيا، eSIM أرمينيا غير محدودة، eSIM أرمينيا 5G، أفضل eSIM لـ أرمينيا، سعر eSIM أرمينيا، تفعيل eSIM أرمينيا، تغطية eSIM أرمينيا، Viva-MTS أرمينيا، eSIM يريفان، eSIM غيومري، eSIM فانادزور
+  low_price: 7.99
+  high_price: 98.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/am.svg
   flag_alt: علم أرمينيا
-  title: 'eSIM أرمينيا: بيانات 5G سريعة لكل مدينة ووجهة'
+  title: 'eSIM أرمينيا: بيانات موثوقة طوال رحلتك'
   subtitle: تفعيل فوري | تغطية 5G عالية التقييم | دعم 24/7 - أفضل eSIM مسبقة الدفع لأرمينيا
 features:
-  title: 'لماذا يختار مسافرو أرمينيا روامي: الشبكة، الخطط والقيمة'
+  title: ما يميز Roami للمسافرين إلى أرمينيا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائياً بأفضل مشغلي أرمينيا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM أرمينيا: خطط تناسب كل مدة سفر'
+plans_title: 'خطط eSIM أرمينيا: من رحلة قصيرة إلى إقامة طويلة'
 plans_data:
   7 أيام:
   - spec: 3 جيجابايت
@@ -237,7 +237,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM أرمينيا: تغطية الشبكة ومقارنة المشغلين'
+  title: 'تغطية eSIM أرمينيا: أين تحصل على أفضل إشارة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -268,7 +268,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM أرمينيا: ما يجب معرفته قبل الذهاب'
+  title: 'نصائح eSIM أرمينيا: جهّز اتصالك قبل الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -287,7 +287,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM أرمينيا: 3 خطوات بسيطة'
+  title: 'تركيب eSIM أرمينيا: من الشراء إلى الاتصال'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -312,7 +312,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM أرمينيا
+    title: استفسارات شائعة عن eSIM أرمينيا
     questions:
     - q: |
         هل من الآمن تحميل جواز سفري لتسجيل eSIM أرمينيا؟ أنا قلق بشأن الخصوصية.
@@ -321,7 +321,7 @@ faq_section:
     - q: |
         هل ستبطأ خطة eSIM أرمينيا غير المحدودة إذا استخدمت الكثير من البيانات؟
       a: |
-        هناك سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح — فقط لا فيديو سلس. واقعياً، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقاً، فإن خطة ثابتة 10 جيجابايت (14.99 دولار) أو 20 جيجابايت (24.99 دولار) تزيل عدم اليقين تماماً.
+        هناك سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح — فقط لا فيديو سلس. واقعياً، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقاً، فإن خطة ثابتة 10 جيجابايت (23.99 دولار) أو 20 جيجابايت (30.99 دولار) تزيل عدم اليقين تماماً.
     - q: |
         كيف تقارن روامي بـ Saily لـ eSIM في أرمينيا؟
       a: |
@@ -329,7 +329,7 @@ faq_section:
     - q: |
         هل يمكنني الحصول على eSIM لأرمينيا دون إنفاق الكثير؟
       a: |
-        بالتأكيد. تبدأ خطط eSIM روامي أرمينيا من 1.99 دولار فقط. خيار 5 جيجابايت/15 يوم (9.99 دولار) هو الأكثر شيوعاً بين المسافرين — يتعامل بشكل مريح مع الخرائط وواتساب وإنستغرام والبريد الإلكتروني. إذا كنت مستخدماً كثيفاً للبيانات، فإن خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) تمنحك راحة البال. تخطي كاونتر SIM المطار يوفر لك 30-50% ويجنبك عناء الطوابير. هل تحتاج إلى تعديل؟ يمكنك الشحن في أي وقت من تطبيق روامي.
+        بالتأكيد. تبدأ خطط eSIM روامي أرمينيا من 7.99 دولار فقط. خيار 5 جيجابايت/15 يوم (9.99 دولار) هو الأكثر شيوعاً بين المسافرين — يتعامل بشكل مريح مع الخرائط وواتساب وإنستغرام والبريد الإلكتروني. إذا كنت مستخدماً كثيفاً للبيانات، فإن خطط 10 جيجابايت (23.99 دولار) أو غير المحدودة (98.99 دولار) تمنحك راحة البال. تخطي كاونتر SIM المطار يوفر لك 30-50% ويجنبك عناء الطوابير. هل تحتاج إلى تعديل؟ يمكنك الشحن في أي وقت من تطبيق روامي.
     - q: |
         كم مقدماً يجب أن أشتري eSIM أرمينيا الخاص بي؟
       a: |
@@ -346,63 +346,75 @@ faq_section:
         هل يعمل WhatsApp و FaceTime مع eSIM في أرمينيا؟
       a: |
         نعم — جميع التطبيقات القائمة على البيانات تعمل بشكل مثالي عبر eSIM. تستهلك مكالمات WhatsApp حوالي 1 ميجابايت في الدقيقة للصوت و5-8 ميجابايت في الدقيقة للفيديو. FaceTime، Zoom، Google Maps، Instagram — كل شيء يعمل عبر اتصال البيانات eSIM بدون قيود. تتعامل شبكة Viva-MTS مع مكالمات الفيديو بسلاسة. توفر خطة 5 جيجابايت حوالي 500 ساعة من مكالمات WhatsApp الصوتية أو 10 ساعات من مكالمات FaceTime الفيديو.
+    - q: |
+        هل يجب أن أشتري eSIM أرمينيا قبل المغادرة؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        هل تُفرض رسوم إضافية على أسعار eSIM أرمينيا؟
+      a: |
+        بما أنك تختار الحجم المناسب، يكون eSIM أقل هدرًا للمال في أرمينيا. بطاقات SIM المحلية في أرمينيا تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        هل تكفي بيانات eSIM لإقامة طويلة في أرمينيا؟
+      a: |
+        eSIM أرمينيا بنظام مسبق الدفع، ويمكن شراء باقة إضافية من التطبيق عند نقص البيانات. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM أرمينيا ذات الصلة
+  title: وجهات مرتبطة بـ أرمينيا وخططها
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM البحرين
+    flag: img/flags/bh.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM البوسنة والهرسك
+    flag: img/flags/ba.svg
+    price: من 30.99 دولار
+    is_highlight: false
+  - name: eSIM لاتفيا
+    flag: img/flags/lv.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM مصر
+    flag: img/flags/eg.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM أيرلندا
+    flag: img/flags/ie.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM منغوليا
+    flag: img/flags/mo.svg
+    price: من 9.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM الهند
+    flag: img/flags/in.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM قبرص
+    flag: img/flags/cy.svg
+    price: من 2.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM أوغندا
+    flag: img/flags/ug.svg
+    price: من 7.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
+  - name: eSIM بوتسوانا
+    flag: img/flags/bw.svg
+    price: من 14.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM تونس
+    flag: img/flags/tn.svg
+    price: من 3.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM أرمينيا مقابل بطاقة SIM الفعلية: تحليل الإيجابيات والسلبيات'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقاً في أرمينيا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (أرمينيا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Armenia
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - SIM محلية مسبقة الدفع (بيانات السوق)

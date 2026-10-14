@@ -1,6 +1,6 @@
 ---
 title: 'فيجي eSIM 2026: دليل 5G والبيانات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM فيجي | أفضل خطة بيانات 5G غير محدودة لرحلتك"
   description: "أفضل eSIM سياحي مسبق الدفع من Roami لفيجي. بيانات غير محدودة 5G في الجزر الرئيسية. تغطي سوفا ونادي ومامانوكا. اشترِ خطتك الآن."
-  keywords: eSIM فيجي، شراء eSIM فيجي، أفضل eSIM فيجي، eSIM سفر فيجي، Vodafone فيجي، Digicel فيجي، Telecom فيجي، eSIM سوفا، eSIM نادي، eSIM لاوتوكا، eSIM مسبق الدفع فيجي، eSIM 5G فيجي
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM فيجي، شراء eSIM فيجي، أفضل eSIM فيجي، eSIM فيجي رخيصة، eSIM فيجي مسبقة الدفع، باقة eSIM فيجي، eSIM فيجي غير محدودة، eSIM فيجي 5G، أفضل eSIM لـ فيجي، سعر eSIM فيجي، تفعيل eSIM فيجي، تغطية eSIM فيجي، Vodafone Fiji فيجي، eSIM سوفا، eSIM نادي، eSIM لاوتوكا
+  low_price: 6.99
+  high_price: 94.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/fj.svg
   flag_alt: علم فيجي
-  title: 'eSIM فيجي: اتصال فوري لسفر خالٍ من القلق'
+  title: 'eSIM فيجي: ابق على اتصال أينما تذهب'
   subtitle: أفضل eSIM مسبق الدفع لمسافري فيجي - 5G سريع، تفعيل فوري، دعم 24/7
 features:
-  title: 'لماذا يختار مسافرو فيجي Roami: السرعة والتغطية والدعم'
+  title: 'لماذا يختار زوار فيجي Roami: تغطية واسعة ودعم 24/7'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي فيجي للحصول على أفضل إشارة
-plans_title: 'شراء eSIM فيجي: خطط لكل مدة رحلة'
+plans_title: 'خطط eSIM فيجي: اختر المدة والباقة المناسبة'
 plans_data:
   7 أيام:
   - spec: 1GB
@@ -253,7 +253,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'المدة: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM فيجي: دليل كامل للشبكات المحلية'
+  title: 'تغطية eSIM فيجي: دليل مشغل الشبكة المحمولة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -284,7 +284,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM فيجي: ما يجب معرفته قبل الذهاب'
+  title: 'تحضير eSIM فيجي: قائمة ما قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -303,7 +303,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على الشاشة، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM فيجي: 3 خطوات بسيطة'
+  title: كيف تُثبّت eSIM فيجي في 3 خطوات
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -328,7 +328,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM فيجي
+    title: كل ما تتساءل عنه حول eSIM فيجي
     questions:
     - q: |
         هل أحتاج إلى جواز سفر أو هوية لاستخدام eSIM في فيجي؟ كيف يعمل التحقق؟
@@ -337,7 +337,7 @@ faq_section:
     - q: |
         ما هي أرخص خيارات eSIM لرحلة إلى فيجي؟
       a: |
-        تبدأ خطط Roami eSIM لفيجي من 1.99 دولار (7 أيام، 1 جيجابايت) وتصل إلى 59.99 دولار (30 يومًا غير محدود). بالنسبة لرحلة نموذجية مدتها 5-7 أيام، فإن خطة 5 جيجابايت بسعر 9.99 دولار هي الخيار الأمثل — كافية للخرائط والمراسلة وتصفح وسائل التواصل الاجتماعي. هل تحتاج إلى بث الفيديو أو العمل عن بُعد؟ اختر 10 جيجابايت أو غير محدود. تستخدم فيجي 4G التي تتعامل مع الخرائط والمراسلة بشكل جيد. تتقاضى أكشاك SIM في المطار أسعارًا أعلى بنسبة 30-50٪، وعليك الانتظار في الطابور. لست متأكدًا من احتياجاتك للبيانات؟ ابدأ بحزمة صغيرة وقم بالشحن عبر التطبيق دون تغيير eSIM الخاص بك.
+        تبدأ خطط Roami eSIM لفيجي من 6.99 دولار (7 أيام، 1 جيجابايت) وتصل إلى 59.99 دولار (30 يومًا غير محدود). بالنسبة لرحلة نموذجية مدتها 5-7 أيام، فإن خطة 5 جيجابايت بسعر 10.99 دولار هي الخيار الأمثل — كافية للخرائط والمراسلة وتصفح وسائل التواصل الاجتماعي. هل تحتاج إلى بث الفيديو أو العمل عن بُعد؟ اختر 10 جيجابايت أو غير محدود. تستخدم فيجي 4G التي تتعامل مع الخرائط والمراسلة بشكل جيد. تتقاضى أكشاك SIM في المطار أسعارًا أعلى بنسبة 30-50٪، وعليك الانتظار في الطابور. لست متأكدًا من احتياجاتك للبيانات؟ ابدأ بحزمة صغيرة وقم بالشحن عبر التطبيق دون تغيير eSIM الخاص بك.
     - q: |
         كيف يقارن Roami بـ Airalo من حيث eSIM في فيجي؟
       a: |
@@ -362,63 +362,75 @@ faq_section:
         ما هي أسهل طريقة للبقاء على اتصال في فيجي دون التعامل مع أكشاك SIM في المطار؟
       a: |
         eSIM هو الحل. اشترِ عبر الإنترنت، واحصل على رمز QR عبر البريد الإلكتروني، وقم بالتثبيت في دقيقتين. تجنب طابور المطار. يتصل Roami بـ Vodafone للحصول على تغطية موثوقة. تبقى بطاقة SIM المنزلية نشطة للرسائل النصية. إنها الطريقة الأبسط للبقاء على اتصال.
+    - q: |
+        ما المعلومات المطلوبة لشراء eSIM فيجي؟
+      a: |
+        يمكن شراء eSIM فيجي من Roami بالكامل عبر الإنترنت. بعد الوصول إلى فيجي، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        أيّهما أوفر في فيجي، eSIM أم راوتر Wi-Fi متنقل؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في فيجي أسهل. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        كيف أضيف بيانات إلى eSIM فيجي؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM ذات الصلة لفيجي
+  title: خطط eSIM مقترحة لمسافري فيجي
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM ليبيريا
+    flag: img/flags/lr.svg
+    price: من 27.99 دولار
+    is_highlight: false
+  - name: eSIM اليونان
+    flag: img/flags/gr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM هولندا
+    flag: img/flags/nl.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM زامبيا
+    flag: img/flags/za.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM مدينة الفاتيكان
+    flag: img/flags/va.svg
+    price: من 10.99 دولار
+    is_highlight: false
+  - name: eSIM الدنمارك
+    flag: img/flags/dk.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM فنلندا
+    flag: img/flags/fi.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM ساحل العاج
+    flag: img/flags/ci.svg
+    price: من 9.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM السنغال
+    flag: img/flags/se.svg
+    price: من 12.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM باراغواي
+    flag: img/flags/py.svg
+    price: من 22.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM جورجيا
+    flag: img/flags/ge.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM المكسيك
+    flag: img/flags/mx.svg
+    price: من 3.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM فيجي مقابل بطاقة SIM المدفوعة مسبقًا: أيهما مناسب لك؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في فيجي مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM المدفوعة مسبقًا (فيجي) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Fiji
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

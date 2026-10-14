@@ -1,6 +1,6 @@
 ---
 title: 'eSIM البحرين 2026: دليل السفر والشبكات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,11 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
 seo:
   title: 'eSIM البحرين: بيانات 5G غير محدودة للمسافرين إلى الخليج'
-  description: "قارن خطط eSIM للبحرين مع 5G سريع في المنامة والرفاع والمحرق. تغطية زين وبتلكو وأس تي سي. تفعيل فوري عبر QR من 1.99 دولار."
-  keywords: eSIM البحرين، شراء eSIM البحرين، أفضل eSIM البحرين، eSIM سفر البحرين، زين البحرين، بتلكو البحرين، أس تي سي البحرين،
-    eSIM المنامة، eSIM الرفاع، eSIM المحرق، eSIM مدفوعة مسبقًا البحرين، eSIM 5G البحرين
-  low_price: 1.99
-  high_price: 39.9
+  description: "قارن خطط eSIM للبحرين مع 5G سريع في المنامة والرفاع والمحرق. تغطية زين وبتلكو وأس تي سي. تفعيل فوري عبر QR من 6.99 دولار."
+  keywords: eSIM البحرين، شراء eSIM البحرين، أفضل eSIM البحرين، eSIM البحرين رخيصة، eSIM البحرين مسبقة الدفع، باقة eSIM البحرين، eSIM البحرين غير محدودة، eSIM البحرين 5G، أفضل eSIM لـ البحرين، سعر eSIM البحرين، تفعيل eSIM البحرين، تغطية eSIM البحرين، زين البحرين، eSIM المنامة، eSIM الرفاع، eSIM المحرق
+  low_price: 6.99
+  high_price: 94.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -41,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/bh.svg
   flag_alt: علم البحرين
-  title: 'eSIM البحرين: شبكة موثوقة وتغطية للمسافرين'
+  title: 'eSIM البحرين: اتصال موثوق في كل مدينة'
   subtitle: 5G سريع | تسليم QR فوري | دعم بشري 24/7 - أفضل eSIM مدفوعة مسبقًا للبحرين
 features:
-  title: 'لماذا يختار المسافرون إلى البحرين Roami: الخطط والشبكة والدعم'
+  title: 'ميزات Roami: تغطية قوية ودعم على مدار الساعة في البحرين'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي البحرين للحصول على أفضل إشارة
-plans_title: 'شراء eSIM البحرين: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM البحرين: مرونة كاملة بدون أيام مهدرة'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -224,7 +223,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM البحرين: دليل مشغلي شبكات الهاتف المحمول'
+  title: 'eSIM البحرين: تغطية 5G والمشغلين المحليين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -255,7 +254,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM البحرين: ما يجب معرفته قبل السفر'
+  title: 'eSIM البحرين: نصائح سريعة قبل بدء الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -275,7 +274,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM البحرين: 3 خطوات بسيطة'
+  title: 'eSIM البحرين: دليل التركيب والتفعيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -300,7 +299,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM البحرين
+    title: أسئلة الزوار الشائعة عن eSIM البحرين
     questions:
     - q: |
         هل أحتاج إلى جواز سفر أو هوية لاستخدام eSIM في البحرين؟ كيف يعمل التحقق؟
@@ -313,7 +312,7 @@ faq_section:
     - q: |
         هل يمكنني الحصول على eSIM للبحرين دون إنفاق الكثير؟
       a: |
-        بالتأكيد. تبدأ خطط Roami eSIM للبحرين من 1.99 دولار. خيار 5 جيجابايت / 15 يومًا (9.99 دولار) هو الأكثر شيوعًا بين المسافرين — فهو يتعامل بشكل مريح مع الخرائط وواتساب وإنستغرام والبريد الإلكتروني. إذا كنت مستخدمًا كثيفًا للبيانات، فإن خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) تمنحك راحة البال. تخطي كشك SIM في المطار يوفر لك 30-50% ومتاعب الطوابير. هل تحتاج إلى تعديل؟ يمكنك الشحن الإضافي في أي وقت من تطبيق Roami.
+        بالتأكيد. تبدأ خطط Roami eSIM للبحرين من 6.99 دولار. خيار 5 جيجابايت / 15 يومًا (22.99 دولار) هو الأكثر شيوعًا بين المسافرين — فهو يتعامل بشكل مريح مع الخرائط وواتساب وإنستغرام والبريد الإلكتروني. إذا كنت مستخدمًا كثيفًا للبيانات، فإن خطط 10 جيجابايت (17.99 دولار) أو غير المحدودة (94.99 دولار) تمنحك راحة البال. تخطي كشك SIM في المطار يوفر لك 30-50% ومتاعب الطوابير. هل تحتاج إلى تعديل؟ يمكنك الشحن الإضافي في أي وقت من تطبيق Roami.
     - q: |
         ما هي أسهل طريقة للبقاء على اتصال في البحرين دون التعامل مع أكشاك SIM في المطار؟
       a: |
@@ -321,7 +320,7 @@ faq_section:
     - q: |
         أحتاج إلى اتصال إنترنت لبضعة أيام فقط في البحرين. ما هو أقل شيء يمكنني شراؤه؟
       a: |
-        أرخص خطة هي 1.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لرحلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك الشحن الإضافي في أي وقت من التطبيق.
+        أرخص خطة هي 6.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لرحلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك الشحن الإضافي في أي وقت من التطبيق.
     - q: |
         ما هي المستندات التي أحتاجها لشراء eSIM البحرين من Roami؟
       a: |
@@ -334,63 +333,75 @@ faq_section:
         ماذا يحدث إذا استنفدت كل بياناتي في البحرين قبل انتهاء صلاحية خطتي؟
       a: |
         قم بالشحن الإضافي من تطبيق Roami. يتم تفعيل البيانات الجديدة فورًا — لا حاجة لرمز QR جديد أو إعادة تثبيت. نوصي بالشحن الإضافي عندما يتبقى لديك حوالي 20% لتجنب أي انقطاع.
+    - q: |
+        هل يمكنني شراء eSIM البحرين في يوم السفر؟
+      a: |
+        يمكن شراء eSIM البحرين قبل السفر أو بعده. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        كم يمكن توفيره باستخدام eSIM في البحرين؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM البحرين شبكة محلية مباشرة (زين) فيكون أوفر. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        هل يمكنني البدء بباقة صغيرة ثم زيادتها لاحقًا في البحرين؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM ذات الصلة بالبحرين
+  title: باقات eSIM أخرى قد تهمك مع البحرين
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM منغوليا
+    flag: img/flags/mo.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM الهند
+    flag: img/flags/in.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM قبرص
+    flag: img/flags/cy.svg
+    price: من 2.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM أوغندا
+    flag: img/flags/ug.svg
+    price: من 7.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM بوتسوانا
+    flag: img/flags/bw.svg
+    price: من 14.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM تونس
+    flag: img/flags/tn.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+  - name: eSIM عمان
+    flag: img/flags/om.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM السويد
+    flag: img/flags/se.svg
     price: من 1.99 دولار
     is_highlight: false
   - name: eSIM هونغ كونغ
     flag: img/flags/hk.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
   - name: eSIM أستراليا
     flag: img/flags/au.svg
     price: من 1.99 دولار
+    is_highlight: true
+  - name: eSIM النيجر
+    flag: img/flags/ni.svg
+    price: من 23.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM البحرين أم بطاقة SIM للسياح: أيهما تختار؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في البحرين مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM للبيانات المدفوعة مسبقًا (البحرين) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Bahrain
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

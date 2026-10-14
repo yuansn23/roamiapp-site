@@ -1,6 +1,6 @@
 ---
 title: 'eSIM المكسيك - 5G في كانكون ومكسيكو سيتي | بدون صورة شخصية أو جواز سفر | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20٪، كود الخصم: web20'
 seo:
   title: "eSIM المكسيك - أفضل خطة بيانات 5G غير محدودة للسفر"
-  description: "أفضل eSIM للمكسيك مع 5G على Telcel و AT&T و Movistar. بدون تسجيل جواز سفر أو صورة. تغطي كانكون ومكسيكو سيتي. من 1.99 دولار."
-  keywords: eSIM المكسيك, شراء eSIM المكسيك, أفضل eSIM المكسيك, eSIM سفر المكسيك, Telcel المكسيك, AT&T المكسيك, Movistar المكسيك, eSIM مكسيكو سيتي, eSIM كانكون, eSIM ريفييرا مايا, eSIM مدفوع مسبق المكسيك, 5G eSIM المكسيك, eSIM المكسيك بدون جواز سفر
-  low_price: 1.99
-  high_price: 39.9
+  description: "أفضل eSIM للمكسيك مع 5G على Telcel و AT&T و Movistar. بدون تسجيل جواز سفر أو صورة. تغطي كانكون ومكسيكو سيتي. من 3.99 دولار."
+  keywords: eSIM المكسيك، شراء eSIM المكسيك، أفضل eSIM المكسيك، eSIM المكسيك رخيصة، eSIM المكسيك مسبقة الدفع، باقة eSIM المكسيك، eSIM المكسيك غير محدودة، eSIM المكسيك 5G، أفضل eSIM لـ المكسيك، سعر eSIM المكسيك، تفعيل eSIM المكسيك، تغطية eSIM المكسيك، Telcel المكسيك، eSIM مكسيكو سيتي، eSIM كانكون، eSIM غوادالاخارا
+  low_price: 3.99
+  high_price: 68.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/mx.svg
   flag_alt: علم المكسيك
-  title: 'eSIM المكسيك: 5G في كانكون ومكسيكو سيتي وما بعدها - بدون جواز سفر'
+  title: 'eSIM المكسيك: تفعيل فوري وتغطية واسعة'
   subtitle: 5G على Telcel و AT&T و Movistar | بدون تسجيل جواز سفر أو صورة شخصية | دعم 24/7
 features:
-  title: 'لماذا يختار المسافرون إلى المكسيك Roami: التغطية، القيمة وبدون متاعب التسجيل لعام 2026'
+  title: ما يجعل eSIM المكسيك من روامي مميزًا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +73,7 @@ features:
     color: from-sky-400 to-sky-600
     title: جاهز للشواطئ والآثار
     desc: 4G/5G في جميع أنحاء كانكون وريفييرا مايا وتشيتشن إيتزا وتولوم وتيوتيهواكان
-plans_title: 'شراء eSIM المكسيك: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM المكسيك: من 3 أيام إلى 30 يومًا'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -265,7 +265,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM المكسيك: دليل Telcel و AT&T و Movistar 5G - من كانكون إلى مكسيكو سيتي'
+  title: 'eSIM المكسيك: أين تعمل الشبكة وكيف'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -296,7 +296,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM المكسيك: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM المكسيك: نصائح عملية قبل المغادرة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -323,7 +323,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM المكسيك: 3 خطوات بسيطة'
+  title: 'eSIM المكسيك: كيف تبدأ في ثلاث خطوات'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -348,7 +348,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM المكسيك
+    title: أسئلة عملية عن eSIM المكسيك
     questions:
     - q: |
         ما الذي تغير في المكسيك في يناير 2026 لشراء بطاقة SIM؟
@@ -369,7 +369,7 @@ faq_section:
     - q: |
         لماذا تحتوي بطاقات SIM المكسيكية على حد أدنى 7 أيام؟ هل هذا هدر للرحلات القصيرة؟
       a: |
-        نعم - إنه هدر للمال والبيانات. أرخص خطة من Telcel هي <strong>7 أيام (50 بيزو مكسيكي ≈ 3 دولارات)</strong> ببيانات محدودة. الحد الأدنى لـ AT&T هو <strong>14 يومًا (100 بيزو مكسيكي)</strong>، و Movistar <strong>15 يومًا (75 بيزو مكسيكي)</strong>. سائح لمدة 5 أيام يشتري خطة 7 أيام يهدر <strong>29٪</strong> من الخطة. خطة AT&T لمدة 14 يومًا تهدر <strong>64٪</strong>. يقدم Roami <strong>خطط 3 و 7 و 15 و 30 يومًا</strong> تبدأ من 1.99 دولار - بدون حد أدنى إلزامي، بدون هدر.
+        نعم - إنه هدر للمال والبيانات. أرخص خطة من Telcel هي <strong>7 أيام (50 بيزو مكسيكي ≈ 3 دولارات)</strong> ببيانات محدودة. الحد الأدنى لـ AT&T هو <strong>14 يومًا (100 بيزو مكسيكي)</strong>، و Movistar <strong>15 يومًا (75 بيزو مكسيكي)</strong>. سائح لمدة 5 أيام يشتري خطة 7 أيام يهدر <strong>29٪</strong> من الخطة. خطة AT&T لمدة 14 يومًا تهدر <strong>64٪</strong>. يقدم Roami <strong>خطط 3 و 7 و 15 و 30 يومًا</strong> تبدأ من 3.99 دولار - بدون حد أدنى إلزامي، بدون هدر.
     - q: |
         هل ستعمل eSIM الخاصة بي في تشيتشن إيتزا وتيوتيهواكان وتولوم؟
       a: |
@@ -390,63 +390,75 @@ faq_section:
         متى تبدأ فترة صلاحية eSIM المكسيك الخاص بي؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في المكسيك، وليس عند الشراء أو التثبيت. لذا يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة. خطة 7 أيام تمنحك 7 أيام كاملة من أول اتصال.
+    - q: |
+        ما أفضل وقت لشراء eSIM المكسيك قبل الرحلة؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM المكسيك عبر الإنترنت. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة Telcel لتبدأ الاستخدام فورًا.
+    - q: |
+        أيّهما أرخص في المكسيك، eSIM أم التجوال الدولي؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في المكسيك أسهل. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل يحتاج eSIM المكسيك إلى تعبئة إضافية؟
+      a: |
+        عند نفاد بيانات eSIM المكسيك يمكنك إضافة باقة بيانات جديدة من نفس الحساب. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM ذات الصلة للمكسيك
+  title: خطط eSIM مقترحة لوجهات مشابهة لـ المكسيك
   items:
-  - name: eSIM الولايات المتحدة
+  - name: eSIM الولايات المتحدة الأمريكية
     flag: img/flags/us.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM كوستاريكا
+    flag: img/flags/cr.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM روسيا
+    flag: img/flags/ru.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM المالديف
+    flag: img/flags/mv.svg
+    price: من 14.99 دولار
+    is_highlight: false
+  - name: eSIM الإمارات
+    flag: img/flags/ae.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM ألبانيا
+    flag: img/flags/al.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM سويسرا
+    flag: img/flags/ch.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بورتوريكو
+    flag: img/flags/pu.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM كرواتيا
+    flag: img/flags/hr.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM سلوفينيا
+    flag: img/flags/sl.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM هندوراس
+    flag: img/flags/hn.svg
+    price: من 6.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM غوام
+    flag: img/flags/gu.svg
+    price: من 9.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM المكسيك مقابل بطاقة SIM المحلية: بدون جواز سفر/صورة شخصية، بدون هدر 7 أيام، بدون حظر نقطة اتصال'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في المكسيك مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (Mexico) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Mexico
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)
@@ -475,7 +487,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: الحد الأدنى Telcel 7 أيام (50 بيزو)، AT&T 14 يومًا (100 بيزو)، Movistar 15 يومًا (75 بيزو). <strong>لا توجد خطط تحت 5 أيام</strong> للسياح. رحلة 5 أيام تهدر 29-67٪ من الخطة.
     esim_title: خطط مرنة قصيرة المدى
-    esim_desc: يقدم Roami <strong>خطط 3/7/15/30 يومًا</strong> تبدأ من 1.99 دولار - ادفع فقط مقابل المدة الفعلية لرحلتك. بدون حد أدنى 7 أيام، بدون هدر.
+    esim_desc: يقدم Roami <strong>خطط 3/7/15/30 يومًا</strong> تبدأ من 3.99 دولار - ادفع فقط مقابل المدة الفعلية لرحلتك. بدون حد أدنى 7 أيام، بدون هدر.
   - icon: wifi
     title: سياسات نقطة الاتصال<br>والسرعة
     prepaid_title: ''
@@ -516,5 +528,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: بدون هدر حد أدنى 7 أيام
-      desc: الحد الأدنى لـ Telcel هو <b>7 أيام (50 بيزو)</b>، والحد الأدنى لـ AT&T هو <b>14 يومًا (100 بيزو)</b>. سائح لمدة 5 أيام يهدر <b>29-64٪</b>. يقدم Roami <b>خطط 3 أيام من 1.99 دولار</b> - بدون حد أدنى إلزامي.
+      desc: الحد الأدنى لـ Telcel هو <b>7 أيام (50 بيزو)</b>، والحد الأدنى لـ AT&T هو <b>14 يومًا (100 بيزو)</b>. سائح لمدة 5 أيام يهدر <b>29-64٪</b>. يقدم Roami <b>خطط 3 أيام من 3.99 دولار</b> - بدون حد أدنى إلزامي.
 ---

@@ -1,6 +1,6 @@
 ---
 title: イスラエル eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:00:34+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,10 @@ modal:
     当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました！<br>新規のお客様はコード <strong>web20</strong> で20%オフ！
 seo:
   title: eSIM イスラエル | 即時接続可能な格安データ通信プランおすすめガイド
-  description: イスラエルで使えるeSIMを比較するならRoami。AiraloやHolafly比で最大30%割安で同一ネットワーク品質。日本語サポート完備、30日間返金保証付きで初めての方も安心してお試しいただけます。
-  keywords: イスラエル eSIM, イスラエル モバイルネットワーク, イスラエル観光, イスラエル旅行, イスラエルプリペイドSIM
+  description: イスラエル旅行ならイスラエル eSIM。Roamiのプリペイドデータプランは2.99ドルから。QRコードで到着後すぐに接続でき、現地SIMの手続きは不要。
+  low_price: 2.99
+  high_price: 69.99
+  keywords: イスラエル eSIM, イスラエル eSIM 料金, イスラエル eSIM おすすめ, イスラエル eSIM 安い, イスラエル eSIM 購入, イスラエル eSIM 申し込み, イスラエル eSIM データ無制限, イスラエル プリペイドSIM, イスラエル 旅行 eSIM, イスラエル eSIM 価格, イスラエル eSIM 設定方法, イスラエル eSIM 対応エリア, エルサレム eSIM, テルアビブ eSIM, イスラエル モバイルデータ, イスラエル eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: イスラエル向け最高のeSIM
-  title: イスラエル eSIM，海外旅行上网无忧
+  title: イスラエル旅行をeSIMでもっと自由に
 hero:
   flag_image: img/flags/il.svg
   flag_alt: イスラエルの国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: 最適なプランを選ぶ
 plans_data:
   7 日:
   - spec: 1GB
@@ -299,7 +301,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: 事前に確認したいこと
   items:
   - icon: 📱
     html: |-
@@ -355,13 +357,12 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. 概要
     questions:
     - q: イスラエル用eSIMを使用中、国内のSIMで電話を受けることはできますか？
       a: はい、デュアルSIM端末では両方のプロファイルを同時に使用できます。モバイルデータにはRoami eSIMをデフォルトに設定するだけです。通話やSMSは国内SIM経由で（ローミングが有効な場合があります）行われます。
-        デュアルSIM対応端末なら、日本で使っている電話番号をそのまま維持しながら海外データ通信を利用可能。通話は国内SIM、データはRoamiのeSIMという使い分けが便利です。海外旅行eSIMを使えば、日本の番号に届くSMS認証も受信できます。
-    - q: イスラエル用eSIMを他のデバイスとテザリング（ポケットWi-Fi）できま
-        Roamiなら1GB/$1.99からの格安プランでisraelの5G高速通信を利用可能。24時間日本語サポート付きで初めての海外eSIMも安心です。すか？
+
+    - q: イスラエル用eSIMを他のデバイスとテザリング（ポケットWi-Fi）できますか？
       a: はい、Roamiのイスラエル用eSIMプランは全てテザリング（ポケットWi-Fi）を無制限でサポートしています。ノートパソコン、タブレット、または旅行仲間と接続を共有できます
         — 隠れたコストも速度制限もありません。
     - q: 旅行前にイスラエル用eSIMをインストールして、後でアクティベーションすることはできますか？
@@ -382,6 +383,12 @@ faq_section:
 
     - q: イスラエル用eSIMはどの5G/4Gネットワークを使用し、カバレッジはどうですか？
       a: イスラエル用eSIMはCellcom / Partnerと専属提携しています。都市部だけでなく、郊外や高速道路沿いでも最適なネットワーク（5G/4G/LTE）に自動接続し、最高のカバレッジを実現します。
+    - q: イスラエル用eSIMの申し込みから受け取りまでの流れを教えてください。
+      a: 申し込みは公式サイトから数分で完了します。パスポートや現地住所の登録は不要で、受け取ったQRコードをスキャンするだけです。
+    - q: イスラエル用eSIMの料金体系を教えてください。
+      a: eSIMは店舗手数料やチャージの手間がなく、イスラエルの通信費を抑えやすい選択です。短期旅行では容量の小さいプラン、長期滞在では大容量プランが割安になる傾向があります。
+    - q: イスラエルでデータが足りなくなった場合、追加で購入できますか？
+      a: イスラエル用eSIMのデータを使い切った場合は、同じアカウントから新しいデータプランを追加できます。データ残量はアプリでリアルタイムに確認できるため、使い切る前に追加できます。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -544,81 +551,80 @@ faq_section:
       a: イスラエル用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: イスラエル用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        海外旅行のデータ通信はeSIMが便利。ローミングより格安で、対応機種ならQRコードで即時設定完了。事前購入で到着後すぐ接続。
-        旅行前にeSIMを購入して準備すれば、到着後すぐにデータ通信が可能。Roamiの格安プランは1GB/$1.99から。5G対応で快適。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にイスラエル用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
+  - name: イタリア eSIM
+    flag: img/flags/it.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
-    price: 1.99ドルから
+    slug: italy-esim
+  - name: コートジボワール eSIM
+    flag: img/flags/ci.svg
+    price: 9.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
-    price: 1.99ドルから
-    is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
-    price: 1.99ドルから
+    slug: ivory-coast-esim
+  - name: ジャマイカ eSIM
+    flag: img/flags/jm.svg
+    price: 11.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
+    slug: jamaica-esim
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
     price: 1.99ドルから
     is_highlight: false
     slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
+  - name: ヨルダン eSIM
+    flag: img/flags/jo.svg
+    price: 6.99ドルから
+    is_highlight: false
+    slug: jordan-esim
+  - name: カザフスタン eSIM
+    flag: img/flags/kz.svg
+    price: 3.99ドルから
+    is_highlight: false
+    slug: kazakhstan-esim
+  - name: ケニア eSIM
+    flag: img/flags/ke.svg
+    price: 7.99ドルから
+    is_highlight: true
+    slug: kenya-esim
+  - name: コソボ eSIM
+    flag: img/flags/xk.svg
+    price: 13.99ドルから
+    is_highlight: false
+    slug: kosovo-esim
+  - name: クウェート eSIM
+    flag: img/flags/kw.svg
+    price: 4.99ドルから
+    is_highlight: false
+    slug: kuwait-esim
+  - name: キルギス eSIM
+    flag: img/flags/kg.svg
+    price: 4.99ドルから
+    is_highlight: false
+    slug: kyrgyzstan-esim
+  - name: ラオス eSIM
+    flag: img/flags/la.svg
+    price: 4.99ドルから
+    is_highlight: false
+    slug: laos-esim
+  - name: ラトビア eSIM
+    flag: img/flags/lv.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+    slug: latvia-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "イスラエルのeSIM vs プリペイドSIM：知っておくべきこと"
   subtitle: "イスラエルの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Israel) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Israel"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -692,4 +698,3 @@ market_analysis:
         title: "空港の高額パッケージを回避"
         desc: "本古里安空港では<b>019 Mobile</b>の10日間10GBが<b>29ドル</b>と高額。eSIMは事前購入で空港価格の数分の一から利用可能。"
 ---
-        旅行前にeSIMを購入して準備すれば、到着後すぐにデータ通信が可能。Roamiの格安プランは1GB/$1.99から。5G対応で快適。

@@ -1,6 +1,6 @@
 ---
 title: 'ليتوانيا eSIM 2026: دليل السفر الكامل | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,9 @@ modal:
 seo:
   title: "ليتوانيا eSIM | أفضل خطة بيانات 5G مسبقة الدفع الآن"
   description: "أفضل eSIM مسبقة الدفع لليتوانيا من Roami. بيانات 5G غير محدودة وتفعيل فوري. تغطي فيلنيوس وكاوناس وكلايبيدا. اشترِ خطتك الآن."
-  keywords: ليتوانيا eSIM, شراء ليتوانيا eSIM, أفضل ليتوانيا eSIM, ليتوانيا eSIM للسفر, Tele2 ليتوانيا, Telia ليتوانيا,
-    BITE ليتوانيا, فيلنيوس eSIM, كاوناس eSIM, كلايبيدا eSIM, ليتوانيا eSIM مسبقة الدفع, 5G ليتوانيا eSIM
+  keywords: eSIM ليتوانيا، شراء eSIM ليتوانيا، أفضل eSIM ليتوانيا، eSIM ليتوانيا رخيصة، eSIM ليتوانيا مسبقة الدفع، باقة eSIM ليتوانيا، eSIM ليتوانيا غير محدودة، eSIM ليتوانيا 5G، أفضل eSIM لـ ليتوانيا، سعر eSIM ليتوانيا، تفعيل eSIM ليتوانيا، تغطية eSIM ليتوانيا، Tele2 ليتوانيا، eSIM فيلنيوس، eSIM كاوناس، eSIM كلايبيدا
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -41,7 +40,7 @@ banner:
 hero:
   flag_image: img/flags/lt.svg
   flag_alt: علم ليتوانيا
-  title: 'ليتوانيا eSIM: حلول بيانات كاملة لرحلتك'
+  title: 'eSIM ليتوانيا: حلول بيانات كاملة لرحلتك'
   subtitle: لا رسوم خفية | إنترنت بدون قلق | دعم 24/7 - أفضل eSIM مسبقة الدفع للمسافرين إلى ليتوانيا
 features:
   title: 'لماذا يختار المسافرون إلى ليتوانيا Roami: التغطية والسرعة والخدمة'
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات الاتصالات في ليتوانيا للحصول على أفضل إشارة
-plans_title: 'شراء ليتوانيا eSIM: خطط لكل مدة رحلة'
+plans_title: 'شراء eSIM ليتوانيا: خطط تناسب كل مدة سفر'
 plans_data:
   30 يوم:
   - spec: 20 جيجابايت
@@ -296,7 +295,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية ليتوانيا eSIM: دليل المشغلين وخريطة التغطية'
+  title: 'تغطية eSIM ليتوانيا: تغطية الشبكة ومقارنة المشغلين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -329,7 +328,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد ليتوانيا eSIM: ما يجب معرفته قبل الذهاب'
+  title: 'نصائح إعداد eSIM ليتوانيا: ما يجب معرفته قبل الذهاب'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -350,7 +349,7 @@ reminders:
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت ليتوانيا eSIM: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM ليتوانيا: ثلاث خطوات فقط'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -375,7 +374,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول ليتوانيا eSIM
+    title: أسئلة يتكرر طرحها عن eSIM ليتوانيا
     questions:
     - q: |
         ما هي شركة الاتصالات التي يجب الاعتماد عليها في ليتوانيا لـ eSIM الخاص بي؟
@@ -388,7 +387,7 @@ faq_section:
     - q: |
         هل ستبطئ خطة eSIM غير المحدودة في ليتوانيا إذا استخدمت كمية كبيرة من البيانات؟
       a: |
-        هناك سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح — فقط لا يمكن مشاهدة الفيديو بسلاسة. في الواقع، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقًا، فإن خطة ثابتة بسعة 10 جيجابايت (14.99 دولار) أو 20 جيجابايت (24.99 دولار) تزيل الشك تمامًا.
+        هناك سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح — فقط لا يمكن مشاهدة الفيديو بسلاسة. في الواقع، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقًا، فإن خطة ثابتة بسعة 10 جيجابايت (14.99 دولار) أو 20 جيجابايت (20.99 دولار) تزيل الشك تمامًا.
     - q: |
         ماذا أفعل إذا لم تتصل eSIM ليتوانيا الخاصة بي عند وصولي؟
       a: |
@@ -409,63 +408,75 @@ faq_section:
         كم عدد ملفات تعريف eSIM التي يمكنني تخزينها على هاتفي للسفر إلى ليتوانيا؟
       a: |
         تخزن معظم الهواتف 5-10 ملفات تعريف eSIM. يمكنك الاحتفاظ بـ eSIM ليتوانيا بجانب شريحة SIM المنزلية وملفات تعريف البلدان الأخرى. ما عليك سوى تفعيل الملف الذي تحتاجه وإلغاء تفعيل الآخرين. يستغرق التبديل بينها حوالي 10 ثوانٍ في إعدادات هاتفك.
+    - q: |
+        كيف أشتري eSIM ليتوانيا قبل رحلتي؟
+      a: |
+        يمكن شراء eSIM ليتوانيا من Roami بالكامل عبر الإنترنت. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        لمجموعة مسافرين إلى ليتوانيا، أيّهما أوفر، eSIM أم بطاقة SIM المحلية؟
+      a: |
+        أسعار eSIM ليتوانيا معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. بطاقات SIM المحلية في ليتوانيا تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        بيانات eSIM تنفد بسرعة، فهل هناك نصائح؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في ليتوانيا، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط ليتوانيا eSIM ذات الصلة
+  title: باقات eSIM مرتبطة برحلتك إلى ليتوانيا
   items:
-  - name: الولايات المتحدة eSIM
-    flag: img/flags/us.svg
+  - name: eSIM موزمبيق
+    flag: img/flags/mo.svg
+    price: من 14.99 دولار
+    is_highlight: false
+  - name: eSIM طاجيكستان
+    flag: img/flags/tj.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM جامايكا
+    flag: img/flags/jm.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM باكستان
+    flag: img/flags/pk.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM أذربيجان
+    flag: img/flags/az.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM مدغشقر
+    flag: img/flags/mg.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM غيانا
+    flag: img/flags/gy.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM البرتغال
+    flag: img/flags/pt.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM أرمينيا
+    flag: img/flags/am.svg
+    price: من 7.99 دولار
     is_highlight: false
-  - name: أوروبا eSIM
-    flag: img/flags/eu.svg
+  - name: eSIM لوكسمبورغ
+    flag: img/flags/lu.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: كندا eSIM
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM سيشل
+    flag: img/flags/sc.svg
+    price: من 9.99 دولار
     is_highlight: false
-  - name: تركيا eSIM
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: الصين eSIM
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: اليابان eSIM
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: هونغ كونغ eSIM
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: فرنسا eSIM
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: إسبانيا eSIM
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: ألمانيا eSIM
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أستراليا eSIM
-    flag: img/flags/au.svg
+  - name: eSIM الولايات المتحدة الأمريكية
+    flag: img/flags/us.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'ليتوانيا eSIM مقابل خطط بطاقات SIM: أي منها يناسب احتياجاتك؟'
   subtitle: 'بطاقات SIM المحلية المدفوعة مسبقًا في ليتوانيا مقابل حلول eSIM (معيار 2024/2025)'
   citation:
-    text: 'مصدر البيانات: ويكي بطاقة بيانات SIM المدفوعة مسبقًا (ليتوانيا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Lithuania
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

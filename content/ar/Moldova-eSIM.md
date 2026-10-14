@@ -1,6 +1,6 @@
 ---
 title: 'eSIM مولدوفا 2026: دليل 5G والبيانات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM مولدوفا: أفضل خطة بيانات 5G عالية السرعة الآن"
   description: "قارن خطط eSIM مولدوفا مع 5G سريع في كيشيناو وبالتي وتيراسبول. تغطية Orange و Moldcell و Moldtelecom. تفعيل فوري من 1.99 دولار."
-  keywords: eSIM مولدوفا, شراء eSIM مولدوفا, أفضل eSIM مولدوفا, eSIM سفر مولدوفا, Orange مولدوفا, Moldcell مولدوفا, Moldtelecom مولدوفا, eSIM كيشيناو, eSIM بالتي, eSIM تيراسبول, eSIM مولدوفا مسبقة الدفع, 5G eSIM مولدوفا
+  keywords: eSIM مولدوفا، شراء eSIM مولدوفا، أفضل eSIM مولدوفا، eSIM مولدوفا رخيصة، eSIM مولدوفا مسبقة الدفع، باقة eSIM مولدوفا، eSIM مولدوفا غير محدودة، eSIM مولدوفا 5G، أفضل eSIM لـ مولدوفا، سعر eSIM مولدوفا، تفعيل eSIM مولدوفا، تغطية eSIM مولدوفا، Orange Moldova مولدوفا، eSIM كيشيناو، eSIM بالتي، eSIM تيراسبول
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/mo.svg
   flag_alt: علم مولدوفا
-  title: 'eSIM مولدوفا: اتصال فوري لسفر خالٍ من القلق'
+  title: 'eSIM مولدوفا: 5G سريع بدون انتظار في المتاجر'
   subtitle: لا رسوم خفية | إنترنت بدون قلق | دعم 24/7 - أفضل eSIM مدفوعة مسبقًا للمسافرين إلى مولدوفا
 features:
-  title: 'لماذا يختار المسافرون إلى مولدوفا Roami: التغطية والسرعة والخدمة'
+  title: لماذا تختار eSIM مولدوفا من Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات النقل في مولدوفا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM مولدوفا: خطط تناسب كل مدة رحلة'
+plans_title: 'خطط eSIM مولدوفا: بيانات تكفي رحلتك بأكملها'
 plans_data:
   30 يومًا:
   - spec: 30 جيجابايت
@@ -261,7 +261,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM مولدوفا: دليل الشبكات وخريطة التغطية'
+  title: 'تغطية eSIM مولدوفا: مقارنة المشغلين والسرعة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -292,7 +292,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM مولدوفا: ما يجب معرفته قبل الذهاب'
+  title: 'جهّز eSIM مولدوفا: تذكيرات أساسية قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -311,7 +311,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM مولدوفا: 3 خطوات بسيطة'
+  title: 'تركيب eSIM مولدوفا: الدليل المبسّط'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -336,7 +336,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM مولدوفا
+    title: ما يريد المسافرون معرفته عن eSIM مولدوفا
     questions:
     - q: |
         بالنسبة لسائح في مولدوفا، هل Orange أم Moldcell هي الخيار الأفضل؟
@@ -370,55 +370,67 @@ faq_section:
         هل ستعمل eSIM الخاصة بي في مولدوفا لمكالمات الفيديو والعمل عن بُعد؟
       a: |
         بالتأكيد. توفر شبكات Orange اتصالات مستقرة لـ Zoom و Teams و Google Meet. للعمل عن بُعد، يوصى بخطة 10 جيجابايت أو غير محدودة. تدعم eSIM أيضًا مشاركة نقطة الاتصال لجهاز الكمبيوتر المحمول الخاص بك.
+    - q: |
+        كيف يصل رمز QR عند شراء eSIM مولدوفا؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM مولدوفا عبر الإنترنت. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        ما الفرق بين باقات eSIM مولدوفا الرخيصة والغالية؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM مولدوفا شبكة محلية مباشرة (Orange Moldova) فيكون أوفر. بطاقات SIM المحلية في مولدوفا تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        ما خطوات إعادة شراء البيانات في مولدوفا؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM ذات الصلة
+  title: باقات eSIM لوجهات مرتبطة بـ مولدوفا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM كوستاريكا
+    flag: img/flags/cr.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM روسيا
+    flag: img/flags/ru.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM المالديف
+    flag: img/flags/mv.svg
+    price: من 14.99 دولار
+    is_highlight: false
+  - name: eSIM الإمارات
+    flag: img/flags/ae.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM ألبانيا
+    flag: img/flags/al.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM سويسرا
+    flag: img/flags/ch.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM بورتوريكو
+    flag: img/flags/pu.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM كرواتيا
+    flag: img/flags/hr.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM سلوفينيا
+    flag: img/flags/sl.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM هندوراس
+    flag: img/flags/hn.svg
+    price: من 6.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM غوام
+    flag: img/flags/gu.svg
+    price: من 9.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM أوروغواي
+    flag: img/flags/uy.svg
+    price: من 11.99 دولار
     is_highlight: false
 ---

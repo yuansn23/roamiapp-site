@@ -1,6 +1,6 @@
 ---
 title: 'eSIM نيبال 2026: دليل الاتصال والسرعة | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM نيبال | خطة بيانات مدفوعة مسبق سريعة للزوار
   description: "أفضل eSIM مدفوع مسبق للسفر من Roami إلى نيبال. بيانات 5G غير محدودة. تغطي كاتماندو وبوكهارا وبهاراتبور. تفعيل فوري. خطط مرنة الآن."
-  keywords: eSIM نيبال, شراء eSIM نيبال, أفضل eSIM نيبال, eSIM سفر نيبال, Ncell نيبال, Nepal Telecom نيبال, Smart Cell نيبال, eSIM كاتماندو, eSIM بوكهارا, eSIM بهاراتبور, eSIM مدفوع مسبق نيبال, 5G eSIM نيبال
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM نيبال، شراء eSIM نيبال، أفضل eSIM نيبال، eSIM نيبال رخيصة، eSIM نيبال مسبقة الدفع، باقة eSIM نيبال، eSIM نيبال غير محدودة، eSIM نيبال 5G، أفضل eSIM لـ نيبال، سعر eSIM نيبال، تفعيل eSIM نيبال، تغطية eSIM نيبال، Ncell نيبال، eSIM كاتماندو، eSIM بوكهارا، eSIM بهاراتبور
+  low_price: 10.99
+  high_price: 124.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/ne.svg
   flag_alt: علم نيبال
-  title: 'eSIM نيبال: اتصال فوري لسفر خالٍ من القلق'
+  title: 'eSIM نيبال: إنترنت سريع بدون تعقيدات'
   subtitle: 5G سريع | تسليم فوري عبر QR | دعم بشري 24/7 - أفضل eSIM مدفوع مسبق لنيبال
 features:
-  title: 'لماذا يختار المسافرون إلى نيبال Roami: الخطط، الشبكة والدعم'
+  title: ميزات خدمة Roami في نيبال
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي نيبال للحصول على أفضل إشارة
-plans_title: 'شراء eSIM نيبال: خطط لكل مدة رحلة'
+plans_title: 'خطط eSIM نيبال: باقات مصممة للمسافرين'
 plans_data:
   7 أيام:
   - spec: 3 جيجابايت
@@ -213,7 +213,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM نيبال: دليل مشغل شبكة الهاتف المحمول'
+  title: 'eSIM نيبال: خريطة التغطية ونصائح الاتصال'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -244,7 +244,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM نيبال: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM نيبال: تذكيرات الإعداد قبل الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -263,7 +263,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM نيبال: 3 خطوات بسيطة'
+  title: 'eSIM نيبال: دليل التثبيت في 3 خطوات'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -288,7 +288,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM نيبال
+    title: أسئلة أساسية عن eSIM نيبال
     questions:
     - q: |
         بالنسبة لسائح في نيبال، هل Ncell أم NTC الخيار الأفضل؟
@@ -317,60 +317,72 @@ faq_section:
     - q: |
         أحتاج إلى اتصال بالإنترنت لبضعة أيام فقط في نيبال. ما هو الحد الأدنى الذي يمكنني شراؤه؟
       a: |
-        أرخص خطة هي 1.99 دولار لمدة 7 أيام مع 1 جيجابايت - مثالية لعطلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، قم بالشحن في أي وقت من التطبيق.
+        أرخص خطة هي 10.99 دولار لمدة 7 أيام مع 1 جيجابايت - مثالية لعطلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، قم بالشحن في أي وقت من التطبيق.
     - q: |
         ما هو خيار eSIM الأكثر شيوعًا للمسافرين إلى نيبال؟
       a: |
-        يختار معظم المسافرين إلى نيبال خطة 5 جيجابايت / 15 يومًا (9.99 دولار). إنها كافية للملاحة اليومية ووسائل التواصل الاجتماعي والرسائل. للإقامات الأطول أو الاستخدام الأكثر كثافة، تعد خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) خيارات رائعة. يتم تفعيل جميع الخطط في دقائق وتشمل دعمًا 24/7.
+        يختار معظم المسافرين إلى نيبال خطة 5 جيجابايت / 15 يومًا (31.99 دولار). إنها كافية للملاحة اليومية ووسائل التواصل الاجتماعي والرسائل. للإقامات الأطول أو الاستخدام الأكثر كثافة، تعد خطط 10 جيجابايت (57.99 دولار) أو غير المحدودة (52.99 دولار) خيارات رائعة. يتم تفعيل جميع الخطط في دقائق وتشمل دعمًا 24/7.
+    - q: |
+        هل يمكن استخدام كود خصم عند شراء eSIM نيبال؟
+      a: |
+        يتيح Roami شراء eSIM نيبال من التطبيق أو الموقع. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        هل eSIM نيبال أوفر للرحلات القصيرة؟
+      a: |
+        أسعار eSIM نيبال معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        كيف تختلف طريقة التعبئة بين eSIM وبطاقة SIM المحلية في نيبال؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في نيبال، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM ذات الصلة
+  title: خطط eSIM لوجهات قد تجمعها مع نيبال
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM سويسرا
+    flag: img/flags/ch.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM بورتوريكو
+    flag: img/flags/pu.svg
+    price: من 6.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM كرواتيا
+    flag: img/flags/hr.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM سلوفينيا
+    flag: img/flags/sl.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
+  - name: eSIM هندوراس
+    flag: img/flags/hn.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM غوام
+    flag: img/flags/gu.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM أوروغواي
+    flag: img/flags/uy.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM بولندا
+    flag: img/flags/pl.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM الأردن
+    flag: img/flags/jo.svg
+    price: من 6.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
+  - name: eSIM كيويت
+    flag: img/flags/kw.svg
+    price: من 4.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
+  - name: eSIM نيجيريا
+    flag: img/flags/ng.svg
+    price: من 5.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM المملكة المتحدة
+    flag: img/flags/gb.svg
     price: من 1.99 دولار
     is_highlight: false
 ---

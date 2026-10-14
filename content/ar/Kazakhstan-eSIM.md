@@ -1,6 +1,6 @@
 ---
 title: 'eSIM كازاخستان 2026: دليل المشغل والتغطية | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM كازاخستان | أفضل تغطية 5G عالية السرعة للمسافرين"
   description: "أفضل eSIM سفر مدفوعة مسبقاً من روامي لكازاخستان. بيانات 5G غير محدودة. تغطي ألماتي وأستانا وشيمكنت. تفعيل فوري. اشترِ خطتك الآن."
-  keywords: eSIM كازاخستان، شراء eSIM كازاخستان، أفضل eSIM كازاخستان، eSIM السفر إلى كازاخستان، بيلاين كازاخستان، كي سيل كازاخستان، تيلي2 كازاخستان، eSIM ألماتي، eSIM أستانا، eSIM شيمكنت، eSIM كازاخستان مسبقة الدفع، 5G eSIM كازاخستان
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM كازاخستان، شراء eSIM كازاخستان، أفضل eSIM كازاخستان، eSIM كازاخستان رخيصة، eSIM كازاخستان مسبقة الدفع، باقة eSIM كازاخستان، eSIM كازاخستان غير محدودة، eSIM كازاخستان 5G، أفضل eSIM لـ كازاخستان، سعر eSIM كازاخستان، تفعيل eSIM كازاخستان، تغطية eSIM كازاخستان، بيلاين كازاخستان كازاخستان، eSIM ألماتي، eSIM أستانا، eSIM شيمكنت
+  low_price: 3.99
+  high_price: 96.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/kz.svg
   flag_alt: علم كازاخستان
-  title: 'eSIM كازاخستان: ابق على اتصال أينما تذهب'
+  title: 'eSIM كازاخستان: تفعيل فوري وتغطية واسعة'
   subtitle: تفعيل فوري | تغطية 5G عالية التقييم | دعم 24/7 - أفضل eSIM مسبقة الدفع لكازاخستان
 features:
-  title: 'لماذا يختار مسافرو كازاخستان روامي: الشبكة، الخطط والقيمة'
+  title: ما يجعل eSIM كازاخستان من روامي مميزًا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائياً بأفضل مشغلي كازاخستان للحصول على أفضل إشارة
-plans_title: 'شراء eSIM كازاخستان: خطط تناسب كل مدة سفر'
+plans_title: 'باقات eSIM كازاخستان: من 3 أيام إلى 30 يومًا'
 plans_data:
   30 يوم:
   - spec: 30 جيجابايت
@@ -269,7 +269,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM كازاخستان: تغطية الشبكة ومقارنة المشغلين'
+  title: 'eSIM كازاخستان: أين تعمل الشبكة وكيف'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -300,7 +300,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM كازاخستان: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM كازاخستان: نصائح عملية قبل المغادرة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -319,7 +319,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM كازاخستان: 3 خطوات بسيطة'
+  title: 'eSIM كازاخستان: كيف تبدأ في ثلاث خطوات'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -344,7 +344,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM كازاخستان
+    title: أسئلة عملية عن eSIM كازاخستان
     questions:
     - q: |
         كيف تقارن روامي بـ Klook لـ eSIM في كازاخستان؟
@@ -353,7 +353,7 @@ faq_section:
     - q: |
         كم يجب أن أخصص ميزانية لـ eSIM عند زيارة كازاخستان؟
       a: |
-        تقدم روامي eSIM كازاخستان من 1.99 دولار لخطة خفيفة لمدة 7 أيام حتى 59.99 دولار لـ 30 يوماً من البيانات غير المحدودة. يختار معظم الزوار خطة 5 جيجابايت/15 يوماً بسعر 9.99 دولار — تغطي الملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة دون عناء. يجب على محبي البث المباشر أو مستخدمي وسائل التواصل الثقيلة التفكير في 10 جيجابايت أو غير المحدودة. توفر كي سيل سرعات موثوقة في جميع أنحاء كازاخستان. خطط روامي مدفوعة مسبقاً — لا فواتير مفاجئة، لا تجديد تلقائي، فقط تسعير مباشر.
+        تقدم روامي eSIM كازاخستان من 3.99 دولار لخطة خفيفة لمدة 7 أيام حتى 96.99 دولار لـ 30 يوماً من البيانات غير المحدودة. يختار معظم الزوار خطة 5 جيجابايت/15 يوماً بسعر 9.99 دولار — تغطي الملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة دون عناء. يجب على محبي البث المباشر أو مستخدمي وسائل التواصل الثقيلة التفكير في 10 جيجابايت أو غير المحدودة. توفر كي سيل سرعات موثوقة في جميع أنحاء كازاخستان. خطط روامي مدفوعة مسبقاً — لا فواتير مفاجئة، لا تجديد تلقائي، فقط تسعير مباشر.
     - q: |
         كيف تقارن كي سيل وبيلاين وتيلي2 لسائح يزور كازاخستان؟
       a: |
@@ -365,7 +365,7 @@ faq_section:
     - q: |
         أحتاج إلى الوصول إلى الإنترنت لبضعة أيام فقط في كازاخستان. ما هو الحد الأدنى الذي يمكنني شراؤه؟
       a: |
-        أرخص خطة هي 1.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لعطلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك الشحن في أي وقت من التطبيق.
+        أرخص خطة هي 3.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لعطلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك الشحن في أي وقت من التطبيق.
     - q: |
         هل تعمل eSIM كازاخستان في المناطق الريفية والبلدات الصغيرة؟
       a: |
@@ -378,63 +378,75 @@ faq_section:
         هل يمكنني استخدام تطبيقات الملاحة مثل Google Maps مع eSIM في كازاخستان？
       a: |
         نعم — يستخدم Google Maps حوالي 5 ميجابايت في الساعة للملاحة مع حركة المرور في الوقت الفعلي. قم بتنزيل خرائط غير متصلة لكازاخستان (حوالي 200-500 ميجابايت لكل مدينة) قبل الذهاب كنسخة احتياطية.
+    - q: |
+        ما أفضل وقت لشراء eSIM كازاخستان قبل الرحلة؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM كازاخستان عبر الإنترنت. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة بيلاين كازاخستان لتبدأ الاستخدام فورًا.
+    - q: |
+        أيّهما أرخص في كازاخستان، eSIM أم التجوال الدولي؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في كازاخستان أسهل. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل يحتاج eSIM كازاخستان إلى تعبئة إضافية؟
+      a: |
+        عند نفاد بيانات eSIM كازاخستان يمكنك إضافة باقة بيانات جديدة من نفس الحساب. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM كازاخستان ذات الصلة
+  title: خطط eSIM مقترحة لوجهات مشابهة لـ كازاخستان
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM الكونغو (كينشاسا)
+    flag: img/flags/cg.svg
+    price: من 7.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM تشاد
+    flag: img/flags/td.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM الغابون
+    flag: img/flags/ga.svg
+    price: من 14.99 دولار
     is_highlight: false
   - name: eSIM تركيا
     flag: img/flags/tr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
+  - name: eSIM صربيا
+    flag: img/flags/se.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+  - name: eSIM ليختنشتاين
+    flag: img/flags/li.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
+  - name: eSIM غوادلوب
+    flag: img/flags/gp.svg
+    price: من 8.99 دولار
+    is_highlight: false
+  - name: eSIM أندورا
+    flag: img/flags/ad.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM إيطاليا
+    flag: img/flags/it.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
+  - name: eSIM موزمبيق
+    flag: img/flags/mo.svg
+    price: من 14.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
+  - name: eSIM طاجيكستان
+    flag: img/flags/tj.svg
+    price: من 4.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM جامايكا
+    flag: img/flags/jm.svg
+    price: من 11.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM كازاخستان مقابل SIM المدفوعة مسبقاً: مقارنة التكلفة والراحة'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقاً في كازاخستان مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (كازاخستان) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Kazakhstan
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - SIM محلية مسبقة الدفع (بيانات السوق)

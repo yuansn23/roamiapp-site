@@ -1,6 +1,6 @@
 ---
 title: 'eSIM قيرغيزستان 2026: دليل السياح والشبكات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>يتمتع العملاء الجدد بخصم 20%، رمز الترويج: web20'
 seo:
   title: 'eSIM قيرغيزستان: باقة بيانات غير محدودة عالية السرعة 5G'
-  description: "قارن خطط eSIM قيرغيزستان مع 5G سريع في بيشكيك وأوش وكاراكول. تغطية Megacom و Beeline و O. تفعيل فوري عبر QR من 1.99 دولار."
-  keywords: eSIM قيرغيزستان, شراء eSIM قيرغيزستان, أفضل eSIM قيرغيزستان, eSIM سفر قيرغيزستان, Megacom قيرغيزستان, Beeline قيرغيزستان, O! قيرغيزستان, eSIM بيشكيك, eSIM أوش, eSIM كاراكول, eSIM قيرغيزستان مسبقة الدفع, 5G eSIM قيرغيزستان
-  low_price: 1.99
-  high_price: 39.9
+  description: "قارن خطط eSIM قيرغيزستان مع 5G سريع في بيشكيك وأوش وكاراكول. تغطية Megacom و Beeline و O. تفعيل فوري عبر QR من 4.99 دولار."
+  keywords: eSIM قيرغيزستان، شراء eSIM قيرغيزستان، أفضل eSIM قيرغيزستان، eSIM قيرغيزستان رخيصة، eSIM قيرغيزستان مسبقة الدفع، باقة eSIM قيرغيزستان، eSIM قيرغيزستان غير محدودة، eSIM قيرغيزستان 5G، أفضل eSIM لـ قيرغيزستان، سعر eSIM قيرغيزستان، تفعيل eSIM قيرغيزستان، تغطية eSIM قيرغيزستان، Megacom قيرغيزستان، eSIM بيشكيك، eSIM أوش، eSIM كاراكول
+  low_price: 4.99
+  high_price: 96.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/kg.svg
   flag_alt: علم قيرغيزستان
-  title: 'eSIM قيرغيزستان: حلول بيانات كاملة لرحلتك'
+  title: 'eSIM قيرغيزستان: بيانات مرنة بتفعيل لحظي'
   subtitle: تفعيل فوري | تغطية 5G من الدرجة الأولى | دعم 24/7 - أفضل eSIM مدفوعة مسبقًا لقيرغيزستان
 features:
-  title: 'لماذا يختار المسافرون إلى قيرغيزستان Roami: الشبكة والخطط والقيمة'
+  title: 'ما يميز eSIM قيرغيزستان من روامي: السرعة والخدمة'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات النقل في قيرغيزستان للحصول على أفضل إشارة
-plans_title: 'شراء eSIM قيرغيزستان: خطط تناسب كل مدة رحلة'
+plans_title: 'خطط eSIM قيرغيزستان: اختر ما يناسب جدول رحلتك'
 plans_data:
   7 أيام:
   - spec: 3 جيجابايت
@@ -204,7 +204,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM قيرغيزستان: مقارنة التغطية والشبكات'
+  title: 'eSIM قيرغيزستان: تغطية الشبكة وأفضل المشغلين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -235,7 +235,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM قيرغيزستان: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM قيرغيزستان: خطوات تحضير سريعة قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -254,7 +254,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM قيرغيزستان: 3 خطوات بسيطة'
+  title: 'eSIM قيرغيزستان: خطوات الإعداد والتفعيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -279,7 +279,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM قيرغيزستان
+    title: أسئلة المسافر المتكررة عن eSIM قيرغيزستان
     questions:
     - q: |
         أي شركة نقل في قيرغيزستان يجب أن أعتمد عليها لـ eSIM الخاصة بي؟
@@ -313,63 +313,75 @@ faq_section:
         ماذا لو كان الفندق في قيرغيزستان يوفر WiFi مجاني - هل ما زلت بحاجة إلى بيانات eSIM؟
       a: |
         يعمل WiFi الفندق في غرفتك ولكن ليس عندما تكون خارج الاستكشاف. تمنحك eSIM البيانات في كل مكان - التنقل في الشوارع، البحث عن الأماكن القريبة، التحقق من جداول النقل. تكلف خطة 5 جيجابايت 9.99 دولارًا، وهو غالبًا أرخص من WiFi الفندق المدفوع لمدة أسبوع (10-15 دولارًا في العديد من الفنادق). يستخدم معظم المسافرين WiFi الفندق للتنزيلات الكبيرة و eSIM للاتصال أثناء التنقل.
+    - q: |
+        هل أحتاج إدخال تواريخ الرحلة عند شراء eSIM قيرغيزستان؟
+      a: |
+        يتيح Roami شراء eSIM قيرغيزستان من التطبيق أو الموقع. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة Megacom لتبدأ الاستخدام فورًا.
+    - q: |
+        هل يوفّر eSIM قيرغيزستان التكلفة للإقامات الطويلة؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM قيرغيزستان شبكة محلية مباشرة (Megacom) فيكون أوفر. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل هناك حد لعدد مرات إضافة البيانات إلى eSIM قيرغيزستان؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM قيرغيزستان ذات الصلة
+  title: وجهات أخرى لرحلتك القادمة من قيرغيزستان
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM صربيا
+    flag: img/flags/se.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM ليختنشتاين
+    flag: img/flags/li.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM غوادلوب
+    flag: img/flags/gp.svg
+    price: من 8.99 دولار
+    is_highlight: false
+  - name: eSIM أندورا
+    flag: img/flags/ad.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM إيطاليا
+    flag: img/flags/it.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM موزمبيق
+    flag: img/flags/mo.svg
+    price: من 14.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM طاجيكستان
+    flag: img/flags/tj.svg
+    price: من 4.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM جامايكا
+    flag: img/flags/jm.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
+  - name: eSIM باكستان
+    flag: img/flags/pk.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
+  - name: eSIM أذربيجان
+    flag: img/flags/az.svg
+    price: من 6.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
+  - name: eSIM مدغشقر
+    flag: img/flags/mg.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM غيانا
+    flag: img/flags/gy.svg
+    price: من 9.99 دولار
     is_highlight: false
 market_analysis:
   title: 'مقارنة eSIM قيرغيزستان مقابل بطاقة SIM المدفوعة مسبقًا: هل يستحق التبديل؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في قيرغيزستان مقابل حلول eSIM (معايير 2024/2025)
   citation:
-    text: 'مصدر البيانات: Wiki بطاقة بيانات SIM المدفوعة مسبقًا (قيرغيزستان) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Kyrgyzstan
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

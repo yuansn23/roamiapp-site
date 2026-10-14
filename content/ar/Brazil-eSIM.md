@@ -1,6 +1,6 @@
 ---
 title: 'eSIM البرازيل - 5G في ريو وساو باولو | لا حاجة لـ CPF | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
 seo:
   title: "eSIM البرازيل - أفضل خطة 5G مسبقة الدفع بدون CPF"
-  description: "أفضل eSIM للبرازيل مع 5G على كلارو وفيفو وتيم. لا حاجة لـ CPF أو جواز سفر. يغطي ريو وساو باولو وبرازيليا. من 1.99 دولار."
-  keywords: eSIM البرازيل، شراء eSIM البرازيل، أفضل eSIM البرازيل، eSIM سفر البرازيل، كلارو البرازيل، فيفو البرازيل، تيم البرازيل، eSIM ساو باولو، eSIM ريو دي جانيرو، eSIM برازيليا، eSIM مدفوعة مسبقًا البرازيل، eSIM 5G البرازيل، eSIM البرازيل بدون CPF
-  low_price: 1.99
-  high_price: 39.9
+  description: "أفضل eSIM للبرازيل مع 5G على كلارو وفيفو وتيم. لا حاجة لـ CPF أو جواز سفر. يغطي ريو وساو باولو وبرازيليا. من 4.99 دولار."
+  keywords: eSIM البرازيل، شراء eSIM البرازيل، أفضل eSIM البرازيل، eSIM البرازيل رخيصة، eSIM البرازيل مسبقة الدفع، باقة eSIM البرازيل، eSIM البرازيل غير محدودة، eSIM البرازيل 5G، أفضل eSIM لـ البرازيل، سعر eSIM البرازيل، تفعيل eSIM البرازيل، تغطية eSIM البرازيل، كلارو البرازيل، eSIM ساو باولو، eSIM ريو دي جانيرو، eSIM برازيليا
+  low_price: 4.99
+  high_price: 86.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/br.svg
   flag_alt: علم البرازيل
-  title: 'eSIM البرازيل: 5G في ريو وساو باولو وما بعدها — لا حاجة لـ CPF أو البرتغالية'
+  title: 'eSIM البرازيل: إنترنت سريع بدون تعقيدات'
   subtitle: 5G على كلارو وفيفو وتيم | لا حاجة لتسجيل CPF/جواز السفر | تجنب تفعيل الهاتف
 features:
-  title: 'لماذا يختار المسافرون إلى البرازيل Roami: التغطية والراحة ولا حاجة لـ CPF'
+  title: ميزات خدمة Roami في البرازيل
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +73,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: جاهز للتجوال الإقليمي
     desc: تفقد البطاقات المحلية الإشارة خارج البرازيل — يعمل Roami في جميع أنحاء أمريكا الجنوبية
-plans_title: 'شراء eSIM البرازيل: خطط لكل مدة رحلة'
+plans_title: 'خطط eSIM البرازيل: باقات مصممة للمسافرين'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -259,7 +259,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM البرازيل: دليل 5G/4G لكلارو وفيفو وتيم'
+  title: 'eSIM البرازيل: خريطة التغطية ونصائح الاتصال'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -290,7 +290,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM البرازيل: ما يجب معرفته قبل السفر'
+  title: 'eSIM البرازيل: تذكيرات الإعداد قبل الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -315,7 +315,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM البرازيل: 3 خطوات بسيطة'
+  title: 'eSIM البرازيل: دليل التثبيت في 3 خطوات'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -340,7 +340,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM البرازيل
+    title: أسئلة أساسية عن eSIM البرازيل
     questions:
     - q: |
         ما هو CPF ولماذا لا يمكنني شراء بطاقة SIM محلية بدونه؟
@@ -382,63 +382,75 @@ faq_section:
         متى تبدأ فترة صلاحية eSIM البرازيل الخاصة بي؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في البرازيل، وليس عند الشراء أو التثبيت. لذا يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة. تمنحك خطة 7 أيام 7 أيام كاملة من أول اتصال.
+    - q: |
+        هل يمكن استخدام كود خصم عند شراء eSIM البرازيل؟
+      a: |
+        يتيح Roami شراء eSIM البرازيل من التطبيق أو الموقع. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        هل eSIM البرازيل أوفر للرحلات القصيرة؟
+      a: |
+        أسعار eSIM البرازيل معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        كيف تختلف طريقة التعبئة بين eSIM وبطاقة SIM المحلية في البرازيل؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في البرازيل، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM ذات الصلة بالبرازيل
+  title: خطط eSIM لوجهات قد تجمعها مع البرازيل
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+  - name: eSIM السويد
+    flag: img/flags/se.svg
     price: من 1.99 دولار
     is_highlight: false
   - name: eSIM هونغ كونغ
     flag: img/flags/hk.svg
     price: من 1.99 دولار
     is_highlight: false
+  - name: eSIM أستراليا
+    flag: img/flags/au.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM النيجر
+    flag: img/flags/ni.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM جزيرة ريونيون
+    flag: img/flags/re.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM تايلاند
+    flag: img/flags/th.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بوركينا فاسو
+    flag: img/flags/bf.svg
+    price: من 11.99 دولار
+    is_highlight: true
+  - name: eSIM نيبال
+    flag: img/flags/ne.svg
+    price: من 10.99 دولار
+    is_highlight: false
+  - name: eSIM قيرغيزستان
+    flag: img/flags/kg.svg
+    price: من 4.99 دولار
+    is_highlight: false
   - name: eSIM فرنسا
     flag: img/flags/fr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
+  - name: eSIM بوليفيا
+    flag: img/flags/bo.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM بلجيكا
+    flag: img/flags/be.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'مقارنة eSIM البرازيل ببطاقة SIM المحلية المدفوعة مسبقًا: راحة بدون CPF'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في البرازيل مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM للبيانات المدفوعة مسبقًا (البرازيل) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Brazil
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

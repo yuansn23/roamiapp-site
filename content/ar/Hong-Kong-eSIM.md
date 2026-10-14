@@ -1,6 +1,6 @@
 ---
 title: 'هونغ كونغ eSIM 2026 - أفضل خطة 5G لميناء فيكتوريا | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM هونغ كونغ - أفضل خطة بيانات 5G سريعة لرحلتك"
   description: "أفضل eSIM مسبق الدفع لهونغ كونغ مع 5G على CSL و SmarTone و CMHK. تفعيل QR فوري بدون تسجيل. من 1.99 دولار. اشترِ خطتك الآن."
-  keywords: eSIM هونغ كونغ، شراء eSIM هونغ كونغ، أفضل eSIM هونغ كونغ، eSIM سفر هونغ كونغ، CSL هونغ كونغ، SmarTone هونغ كونغ، China Mobile هونغ كونغ، eSIM جزيرة هونغ كونغ، eSIM كولون، eSIM تسوين وان، eSIM مسبق الدفع هونغ كونغ، eSIM 5G هونغ كونغ، eSIM ديزني لاند هونغ كونغ، eSIM ميناء فيكتوريا
+  keywords: eSIM هونغ كونغ، شراء eSIM هونغ كونغ، أفضل eSIM هونغ كونغ، eSIM هونغ كونغ رخيصة، eSIM هونغ كونغ مسبقة الدفع، باقة eSIM هونغ كونغ، eSIM هونغ كونغ غير محدودة، eSIM هونغ كونغ 5G، أفضل eSIM لـ هونغ كونغ، سعر eSIM هونغ كونغ، تفعيل eSIM هونغ كونغ، تغطية eSIM هونغ كونغ، CSL هونغ كونغ، eSIM جزيرة هونغ كونغ، eSIM كولون، eSIM تسوين وان
   low_price: 1.99
-  high_price: 39.9
+  high_price: 57.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/hk.svg
   flag_alt: علم هونغ كونغ
-  title: 'eSIM هونغ كونغ: 5G في ميناء فيكتوريا وما بعدها — لا حاجة لتسجيل'
+  title: 'eSIM هونغ كونغ: اتصال واضح وتغطية شاملة'
   subtitle: لا حاجة لهوية/تسجيل | 5G على CSL و SmarTone و CMHK | لا هدر لـ 30 يومًا | تسليم QR فوري
 features:
-  title: 'لماذا يختار مسافرو هونغ كونغ Roami: السرعة والتغطية والدعم'
+  title: لماذا تفضّل روامي لرحلة هونغ كونغ
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بـ CSL و SmarTone و CMHK للحصول على أفضل إشارة في جميع أنحاء هونغ كونغ
-plans_title: 'شراء eSIM هونغ كونغ: خطط لكل مدة رحلة'
+plans_title: 'شراء باقة eSIM هونغ كونغ: خطط بسيطة وأسعار شفافة'
 plans_data:
   3 أيام:
   - spec: 1GB
@@ -277,7 +277,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'المدة: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM هونغ كونغ: دليل شبكات CSL و SmarTone و CMHK'
+  title: 'تغطية eSIM هونغ كونغ: من العاصمة إلى المناطق النائية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -308,7 +308,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM هونغ كونغ: ما يجب معرفته قبل الذهاب'
+  title: 'تحضير eSIM هونغ كونغ: أهم النقاط قبل الانطلاق'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -329,7 +329,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على الشاشة، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM هونغ كونغ: 3 خطوات بسيطة'
+  title: 'تفعيل eSIM هونغ كونغ: طريقة بسيطة وسريعة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -354,7 +354,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM هونغ كونغ
+    title: ما تحتاج معرفته عن eSIM هونغ كونغ
     questions:
     - q: |
         ما هو تسجيل SIM الإلزامي في هونغ كونغ (KYC) — وهل أحتاج إلى القيام به لـ Roami؟
@@ -392,63 +392,75 @@ faq_section:
         هل يمكنني شحن eSIM هونغ كونغ إذا نفدت بياناتي؟
       a: |
         نعم — يمكنك الشحن عبر حساب Roami الخاص بك في أي وقت. على عكس بطاقات SIM المدفوعة مسبقًا في هونغ كونغ ذات عمليات الشحن المعقدة (نظام CMHK عبر الإنترنت يقبل فقط بطاقات UnionPay الصادرة عن البر الرئيسي)، يقبل Roami طرق الدفع العالمية. لا حاجة لشراء SIM جديد أو البحث عن 7-Eleven للحصول على قسيمة شحن.
+    - q: |
+        هل يمكنني شراء eSIM هونغ كونغ لعائلتي معًا؟
+      a: |
+        يتيح Roami شراء eSIM هونغ كونغ من التطبيق أو الموقع. بعد الوصول إلى هونغ كونغ، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        كيف يختلف eSIM هونغ كونغ عن باقات التجوال الدولية؟
+      a: |
+        بما أنك تختار الحجم المناسب، يكون eSIM أقل هدرًا للمال في هونغ كونغ. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        هل يمكنني التبديل بين عدة باقات بيانات في eSIM هونغ كونغ؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM ذات الصلة لهونغ كونغ
+  title: باقات eSIM مقترحة حول هونغ كونغ
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM تنزانيا
+    flag: img/flags/tz.svg
+    price: من 7.99 دولار
     is_highlight: false
   - name: eSIM اليابان
     flag: img/flags/jp.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
+  - name: eSIM غويانا الفرنسية
+    flag: img/flags/gf.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM النرويج
+    flag: img/flags/no.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
+  - name: eSIM العراق
+    flag: img/flags/iq.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM بروناي
+    flag: img/flags/bn.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM مقدونيا
+    flag: img/flags/ma.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM الصين
+    flag: img/flags/cn.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
+  - name: eSIM مالطا
+    flag: img/flags/mt.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
+  - name: eSIM الإكوادور
+    flag: img/flags/ec.svg
+    price: من 6.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM باهاماس
+    flag: img/flags/bs.svg
+    price: من 16.99 دولار
     is_highlight: false
+  - name: eSIM أيسلندا
+    flag: img/flags/is.svg
+    price: من 1.99 دولار
+    is_highlight: true
 market_analysis:
   title: 'eSIM هونغ كونغ مقابل بطاقة SIM المحلية المدفوعة مسبقًا: أيهما أكثر راحة؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في هونغ كونغ مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM المدفوعة مسبقًا (هونغ كونغ) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Hong-Kong
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

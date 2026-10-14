@@ -1,6 +1,6 @@
 ---
 title: 'eSIM هندوراس 2026: دليل الاتصال والسرعة | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: تيغو، كلارو، هوندوتيل
   competitors: Airalo، Holafly، Nomad، Ubigi، Yesim
   main_cities: تيغوسيغالبا، سان بيدرو سولا، لا سيبا، كوماياغوا، تشولوما
-  main_packages: 3/7/15/30 يوم، بيانات غير محدودة
+  main_packages: 7/15/30 يوم، حتى 10 جيجابايت
 modal:
   title: تم ترقية الخدمة!
   btn_text: متابعة
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>يتمتع العملاء الجدد بخصم 20%، رمز الخصم: web20'
 seo:
   title: "eSIM هندوراس | أفضل بيانات 5G مدفوعة مسبقاً لرحلتك"
-  description: "أفضل eSIM سفر مدفوعة مسبقاً لهندوراس من روامي. بيانات 5G غير محدودة. تغطي تيغوسيغالبا وسان بيدرو سولا ولا سيبا. اشترِ خطتك الآن."
-  keywords: eSIM هندوراس، شراء eSIM هندوراس، أفضل eSIM هندوراس، eSIM السفر إلى هندوراس، تيغو هندوراس، كلارو هندوراس، هوندوتيل هندوراس، eSIM تيغوسيغالبا، eSIM سان بيدرو سولا، eSIM لا سيبا، eSIM هندوراس مسبقة الدفع، 5G eSIM هندوراس
-  low_price: 1.99
-  high_price: 39.9
+  description: "أفضل eSIM سفر مدفوعة مسبقاً لهندوراس من روامي. بيانات 5G عالية السرعة. تغطي تيغوسيغالبا وسان بيدرو سولا ولا سيبا. اشترِ خطتك الآن."
+  keywords: eSIM هندوراس، شراء eSIM هندوراس، أفضل eSIM هندوراس، eSIM هندوراس رخيصة، eSIM هندوراس مسبقة الدفع، باقة eSIM هندوراس، باقة بيانات eSIM هندوراس، eSIM هندوراس 5G، أفضل eSIM لـ هندوراس، سعر eSIM هندوراس، تفعيل eSIM هندوراس، تغطية eSIM هندوراس، تيغو هندوراس، eSIM تيغوسيغالبا، eSIM سان بيدرو سولا، eSIM لا سيبا
+  low_price: 6.99
+  high_price: 49.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/hn.svg
   flag_alt: علم هندوراس
-  title: 'eSIM هندوراس: اتصال فوري لسفر خالٍ من القلق'
+  title: 'eSIM هندوراس: إنترنت سريع بدون تعقيدات'
   subtitle: 5G سريع | تسليم QR فوري | دعم بشري 24/7 - أفضل eSIM مسبقة الدفع لهندوراس
 features:
-  title: 'لماذا يختار مسافرو هندوراس روامي: الخطط، الشبكة والدعم'
+  title: ميزات خدمة Roami في هندوراس
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائياً بأفضل مشغلي هندوراس للحصول على أفضل إشارة
-plans_title: 'شراء eSIM هندوراس: خطط تناسب كل مدة سفر'
+plans_title: 'خطط eSIM هندوراس: باقات مصممة للمسافرين'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -130,7 +130,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM هندوراس: دليل مشغل الشبكة المحمولة'
+  title: 'eSIM هندوراس: خريطة التغطية ونصائح الاتصال'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -161,7 +161,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM هندوراس: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM هندوراس: تذكيرات الإعداد قبل الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -180,7 +180,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM هندوراس: 3 خطوات بسيطة'
+  title: 'eSIM هندوراس: دليل التثبيت في 3 خطوات'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -205,7 +205,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM هندوراس
+    title: أسئلة أساسية عن eSIM هندوراس
     questions:
     - q: |
         ماذا لو كان هاتفي لا يدعم eSIM؟ هل لا يزال بإمكاني الحصول على الإنترنت في هندوراس؟
@@ -218,7 +218,7 @@ faq_section:
     - q: |
         هل ستبطأ خطة eSIM هندوراس غير المحدودة إذا استخدمت الكثير من البيانات؟
       a: |
-        هناك سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح — فقط لا فيديو سلس. واقعياً، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقاً، فإن خطة ثابتة 10 جيجابايت (14.99 دولار) أو 20 جيجابايت (24.99 دولار) تزيل عدم اليقين تماماً.
+        هناك سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح — فقط لا فيديو سلس. واقعياً، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقاً، فإن خطة ثابتة 10 جيجابايت (49.99 دولار) أو 20 جيجابايت (30.99 دولار) تزيل عدم اليقين تماماً.
     - q: |
         ما الفرق بين خطة 5 جيجابايت والخطة غير المحدودة لهندوراس؟
       a: |
@@ -234,68 +234,80 @@ faq_section:
     - q: |
         أنا مسافر إلى هندوراس لمدة 2-3 أيام فقط. ما eSIM الذي يجب أن أحصل عليه؟
       a: |
-        لرحلة قصيرة، تغطي خطة 1 جيجابايت/7 أيام (1.99 دولار) الخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (4.99 دولار) تعطي مساحة أكبر. كلاهما يتم تفعيله فوراً ويمكنك الشحن إذا لزم الأمر.
+        لرحلة قصيرة، تغطي خطة 1 جيجابايت/7 أيام (6.99 دولار) الخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (21.99 دولار) تعطي مساحة أكبر. كلاهما يتم تفعيله فوراً ويمكنك الشحن إذا لزم الأمر.
     - q: |
         سأصل إلى هندوراس في وقت متأخر من الليل. هل سأتمكن من الاتصال بالإنترنت فوراً؟
       a: |
         نعم. إذا قمت بتثبيت eSIM قبل المغادرة، ستكون متصلاً في غضون دقيقتين من الهبوط. قم بتمكين تجوال البيانات، ويلتقط هاتفك شبكة تيغو تلقائياً. لا طوابير، لا أوراق، لا بحث عن كشك SIM في منتصف الليل.
+    - q: |
+        هل يمكن استخدام كود خصم عند شراء eSIM هندوراس؟
+      a: |
+        يتيح Roami شراء eSIM هندوراس من التطبيق أو الموقع. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        هل eSIM هندوراس أوفر للرحلات القصيرة؟
+      a: |
+        أسعار eSIM هندوراس معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        كيف تختلف طريقة التعبئة بين eSIM وبطاقة SIM المحلية في هندوراس؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في هندوراس، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM هندوراس ذات الصلة
+  title: خطط eSIM لوجهات قد تجمعها مع هندوراس
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM إسبانيا
+    flag: img/flags/es.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM تنزانيا
+    flag: img/flags/tz.svg
+    price: من 7.99 دولار
     is_highlight: false
   - name: eSIM اليابان
     flag: img/flags/jp.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
+  - name: eSIM غويانا الفرنسية
+    flag: img/flags/gf.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM النرويج
+    flag: img/flags/no.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
+  - name: eSIM العراق
+    flag: img/flags/iq.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM بروناي
+    flag: img/flags/bn.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM مقدونيا
+    flag: img/flags/ma.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM الصين
+    flag: img/flags/cn.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
+  - name: eSIM مالطا
+    flag: img/flags/mt.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM الإكوادور
+    flag: img/flags/ec.svg
+    price: من 6.99 دولار
+    is_highlight: true
+  - name: eSIM باهاماس
+    flag: img/flags/bs.svg
+    price: من 16.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM هندوراس أم بطاقة SIM المدفوعة مسبقاً: مقارنة جنباً إلى جنب'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقاً في هندوراس مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (هندوراس) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Honduras
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - SIM محلية مسبقة الدفع (بيانات السوق)

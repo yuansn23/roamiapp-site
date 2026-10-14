@@ -1,6 +1,6 @@
 ---
 title: 'eSIM الكونغو 2026: دليل التغطية والسرعة | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 aliases:
@@ -19,10 +19,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
 seo:
   title: 'eSIM الكونغو: تغطية 5G، لا حاجة للتحقق من الهوية'
-  description: "قارن خطط eSIM للكونغو مع 5G سريع في برازافيل وبوانت-نوار. تغطية إيرتل وإم تي إن وأزور تيليكوم. تفعيل فوري من 1.99 دولار."
-  keywords: eSIM الكونغو، شراء eSIM الكونغو، أفضل eSIM الكونغو، eSIM سفر الكونغو، إيرتل الكونغو الكونغو، إم تي إن الكونغو الكونغو، أزور تيليكوم الكونغو، eSIM برازافيل، eSIM بوانت-نوار، eSIM دوليسي، eSIM مدفوعة مسبقًا الكونغو، eSIM 5G الكونغو
-  low_price: 1.99
-  high_price: 39.9
+  description: "قارن خطط eSIM للكونغو مع 5G سريع في برازافيل وبوانت-نوار. تغطية إيرتل وإم تي إن وأزور تيليكوم. تفعيل فوري من 7.99 دولار."
+  keywords: eSIM الكونغو (كينشاسا)، شراء eSIM الكونغو (كينشاسا)، أفضل eSIM الكونغو (كينشاسا)، eSIM الكونغو (كينشاسا) رخيصة، eSIM الكونغو (كينشاسا) مسبقة الدفع، باقة eSIM الكونغو (كينشاسا)، eSIM الكونغو (كينشاسا) غير محدودة، eSIM الكونغو (كينشاسا) 5G، أفضل eSIM لـ الكونغو (كينشاسا)، سعر eSIM الكونغو (كينشاسا)، تفعيل eSIM الكونغو (كينشاسا)، تغطية eSIM الكونغو (كينشاسا)، إيرتل الكونغو الكونغو (كينشاسا)، eSIM برازافيل، eSIM بوانت-نوار، eSIM دوليسي
+  low_price: 7.99
+  high_price: 74.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -42,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/cg.svg
   flag_alt: علم الكونغو
-  title: 'eSIM الكونغو: بيانات 5G سريعة لكل مدينة ووجهة'
+  title: 'eSIM الكونغو (كينشاسا): بياناتك جاهزة قبل الإقلاع'
   subtitle: لا رسوم خفية | إنترنت بدون قلق | دعم 24/7 - أفضل eSIM مدفوعة مسبقًا للمسافرين إلى الكونغو
 features:
-  title: 'لماذا يختار المسافرون إلى الكونغو Roami: التغطية والسرعة والخدمة'
+  title: لماذا يفضّل المسافرون إلى الكونغو (كينشاسا) روامي
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي الكونغو للحصول على أفضل إشارة
-plans_title: 'شراء eSIM الكونغو: خطط لكل مدة رحلة'
+plans_title: اختر باقة eSIM الكونغو (كينشاسا) المناسبة لمدة سفرك
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -184,7 +184,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM الكونغو: دليل المشغلين وخريطة التغطية'
+  title: 'تغطية eSIM الكونغو (كينشاسا): من المدن الكبرى إلى الريف'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -215,7 +215,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM الكونغو: ما يجب معرفته قبل السفر'
+  title: 'تحضيرات eSIM الكونغو (كينشاسا): تذكيرات مهمة للمسافر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -235,7 +235,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM الكونغو: 3 خطوات بسيطة'
+  title: كيفية تفعيل eSIM الكونغو (كينشاسا) على هاتفك
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -260,7 +260,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM الكونغو
+    title: توضيحات حول eSIM الكونغو (كينشاسا)
     questions:
     - q: |
         أي شبكة في الكونغو لديها أفضل تغطية للمسافرين - إيرتل أم أورانج أم إم تي إن؟
@@ -273,7 +273,7 @@ faq_section:
     - q: |
         ماذا لو كان فندقي في الكونغو يوفر Wi-Fi مجاني — هل ما زلت بحاجة إلى بيانات eSIM؟
       a: |
-        تعمل Wi-Fi في الفندق في غرفتك ولكن ليس عندما تكون في الخارج تستكشف. يمنحك eSIM بيانات في كل مكان — التنقل في الشوارع، البحث عن الأماكن القريبة، التحقق من جداول النقل. تكلف خطة 5 جيجابايت 9.99 دولار، وهي غالبًا أرخص من Wi-Fi المدفوع في الفندق لمدة أسبوع (10-15 دولارًا في العديد من الفنادق). يستخدم معظم المسافرين Wi-Fi في الفندق للتنزيلات الكبيرة و eSIM للاتصال أثناء التنقل.
+        تعمل Wi-Fi في الفندق في غرفتك ولكن ليس عندما تكون في الخارج تستكشف. يمنحك eSIM بيانات في كل مكان — التنقل في الشوارع، البحث عن الأماكن القريبة، التحقق من جداول النقل. تكلف خطة 5 جيجابايت 22.99 دولار، وهي غالبًا أرخص من Wi-Fi المدفوع في الفندق لمدة أسبوع (10-15 دولارًا في العديد من الفنادق). يستخدم معظم المسافرين Wi-Fi في الفندق للتنزيلات الكبيرة و eSIM للاتصال أثناء التنقل.
     - q: |
         ما هي المستندات التي أحتاجها لشراء eSIM الكونغو من Roami؟
       a: |
@@ -294,55 +294,67 @@ faq_section:
         هل يمكنني التحقق من كمية البيانات التي استخدمتها على eSIM الكونغو؟
       a: |
         نعم — يمكنك التحقق من استخدام البيانات مباشرة في إعدادات هاتفك (الإعدادات > الخلوي > استخدام البيانات على iPhone) أو من خلال لوحة تحكم حساب Roami الخاص بك. يرسل Roami أيضًا إشعارات عند استخدام 70% و 90% من بيانات خطتك.
+    - q: |
+        هل يعمل eSIM الكونغو (كينشاسا) فور شرائه؟
+      a: |
+        يمكن شراء eSIM الكونغو (كينشاسا) قبل السفر أو بعده. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        هل eSIM الكونغو (كينشاسا) أرخص من العروض الأخرى؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في الكونغو (كينشاسا) أسهل. بطاقات SIM المحلية في الكونغو (كينشاسا) تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        ماذا أفعل إذا أوشكت بيانات eSIM الكونغو (كينشاسا) على النفاد؟
+      a: |
+        عند نفاد بيانات eSIM الكونغو (كينشاسا) يمكنك إضافة باقة بيانات جديدة من نفس الحساب. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM ذات الصلة بالكونغو (كينشاسا)
+  title: خطط eSIM لرحلات متعددة انطلاقًا من الكونغو (كينشاسا)
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM بلجيكا
+    flag: img/flags/be.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM كمبوديا
+    flag: img/flags/kh.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM مالي
+    flag: img/flags/ml.svg
+    price: من 27.99 دولار
+    is_highlight: false
+  - name: eSIM بلغاريا
+    flag: img/flags/bg.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM جزر فارو
+    flag: img/flags/fo.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM النمسا
+    flag: img/flags/at.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM فيتنام
+    flag: img/flags/vn.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM بيرو
+    flag: img/flags/pe.svg
+    price: من 4.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM كازاخستان
+    flag: img/flags/kz.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
+  - name: eSIM كينيا
+    flag: img/flags/ke.svg
+    price: من 7.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
+  - name: eSIM إسرائيل
+    flag: img/flags/il.svg
+    price: من 2.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM بربادوس
+    flag: img/flags/bb.svg
+    price: من 11.99 دولار
     is_highlight: false
 ---

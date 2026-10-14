@@ -1,6 +1,6 @@
 ---
 title: 'ネパールeSIM 2026: 接続と速度ガイド | Roami'
-date: '2026-06-26T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: "当社のeSIMサービスは<strong>PhoneSIM</strong>にアップグレードされました。<br>新規のお客様は20%割引をご利用いただけます。プロモコード: web20"
 seo:
   title: eSIM ネパール | 旅行者に人気のデータ通信プラン比較ガイド
-  description: ネパール旅行に最適なeSIM。事前購入で到着後すぐに使える。ヒマラヤ登山でも安定した通信を実現する高品質なデータプランを提供。
-  keywords: ネパールeSIM, ネパールeSIM購入, 最適なネパールeSIM, ネパール旅行用eSIM, Ncell Nepal, Nepal Telecom Nepal, Smart Cell Nepal, カトマンズeSIM, ポカラeSIM, バラトプルeSIM, ネパールプリペイドeSIM, 5GネパールeSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: ネパール旅行ならネパール eSIM。Roamiのプリペイドデータプランは10.99ドルから。QRコードで到着後すぐに接続でき、現地SIMの手続きは不要。
+  keywords: ネパール eSIM, ネパール eSIM 料金, ネパール eSIM おすすめ, ネパール eSIM 安い, ネパール eSIM 購入, ネパール eSIM 申し込み, ネパール eSIM データ無制限, ネパール プリペイドSIM, ネパール 旅行 eSIM, ネパール eSIM 価格, ネパール eSIM 設定方法, ネパール eSIM 対応エリア, カトマンズ eSIM, ポカラ eSIM, ネパール モバイルデータ, ネパール eSIM 比較
+  low_price: 10.99
+  high_price: 124.99
 order_summary:
   title: 選択したプラン
   label_data: 含まれるデータ
@@ -36,7 +36,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: ネパールに最適なeSIM
-  title: ネパール eSIM，海外旅行流量不愁
+  title: ネパール旅行のお供に便利なeSIM
 hero:
   flag_image: img/flags/ne.svg
   flag_alt: ネパール国旗
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動切り替え
     desc: 最良の信号を得るためにネパールの主要キャリアに自動接続。
-plans_title: 'ネパールeSIMを購入: あらゆる旅行期間に対応するプラン'
+plans_title: 目的別プラン
 plans_data:
   7 Days:
   - spec: 3GB
@@ -244,7 +244,7 @@ network_coverage:
       coverage: 都市部で良好なカバレッジ
       network: 4G/LTE Network
 reminders:
-  title: 'ネパールeSIM設定のヒント: 出発前に知っておくべきこと'
+  title: 利用前のひと手間
   items:
   - icon: 📱
     html: 購入前に、お使いの電話が <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM対応</a> であることを確認してください。
@@ -288,10 +288,10 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: ネパールeSIMよくある質問
+    title: 1. はじめの一歩
     questions:
     - q: ネパールの観光客にとって、NcellとNTCのどちらが良い選択ですか？
-      a: NcellとNTCはネパールのモバイル市場をカバーしています。Ncellは約60%のモバイルユーザーにサービスを提供し、都市部で最速のデータ速度を提供します。NTCはより遠隔地に到達し、地理的カバレッジが約10%広いです。ネパールは主に4Gで、主要な町でカバレッジがあります。Roamiなら、両方の長所を自動切り替えで得られます。 海外旅行eSIMならRoamiの地域別プランで周遊もスムーズです。
+      a: NcellとNTCはネパールのモバイル市場をカバーしています。Ncellは約60%のモバイルユーザーにサービスを提供し、都市部で最速のデータ速度を提供します。NTCはより遠隔地に到達し、地理的カバレッジが約10%広いです。ネパールは主に4Gで、主要な町でカバレッジがあります。Roamiなら、両方の長所を自動切り替えで得られます。
     - q: ネパールでeSIMを使用するにはパスポートや身分証明書が必要ですか？検証はどのように機能しますか？
       a: はい、ネパールではeSIMに身元確認が必要です。ネパールではプリペイドSIMカードにKYC検証が必要です。パスポートが必要です。多くの旅行者は到着後に初めてこれを知り、承認を待つ間、空港のWiFiに苦労します。出発前に検証を完了してください — 約5〜10分かかります。また、一部の電話はNcellのネットワークでより良く機能するものがあります — <a href="/compatibility/">eSIM互換性ページ</a>をご確認ください。
     - q: ネパールのeSIMに関して、RoamiはNomadとどう比較されますか？
@@ -303,59 +303,77 @@ faq_section:
     - q: ネパールeSIMは購入後すぐに使用できますか、それとも待つ必要がありますか？
       a: QRコードは数分で届きます。すぐにインストールしてください — 2分かかります。ただし、プランの有効期間はネパールのネットワークに接続したときにのみ開始されます。そのため、旅行の何週間前にインストールしてもプラン日数を失うことはありません。
     - q: ネパールで数日間だけインターネットアクセスが必要です。最小で何を購入できますか？
-      a: 最安プランは7日間1GBで$1.99 — 軽い使用の短期週末旅行に最適です。もっと必要な場合は、アプリからいつでもチャージできます。
+      a: もっと必要な場合は、アプリからいつでもチャージできます。
 
     - q: ネパールに行く旅行者にとって最も人気のあるeSIMの選択肢は何ですか？
-      a: ネパールへの旅行者のほとんどは、5GB/15日プラン（$9.99）を選びます。毎日のナビゲーション、ソーシャルメディア、メッセージングに十分です。長期滞在やより多くの使用には、10GB（$14.99）または無制限（$59.99）プランが優れた選択肢です。すべてのプランは数分でアクティベートされ、24時間サポートが含まれます。
+      a: ネパールへの旅行者のほとんどは、5GB/15日プラン（$37.99）を選びます。毎日のナビゲーション、ソーシャルメディア、メッセージングに十分です。長期滞在やより多くの使用には、10GB（$57.99）または無制限（$52.99）プランが優れた選択肢です。すべてのプランは数分でアクティベートされ、24時間サポートが含まれます。
+    - q: ネパール用eSIMの申し込みにクーポンコードは使えますか？
+      a: Roamiならネパール用eSIMをアプリまたはWebサイトから申し込みできます。パスポートや現地住所の登録は不要で、受け取ったQRコードをスキャンするだけです。
+    - q: ネパールのeSIMは短期利用でも割安ですか？
+      a: ネパール用eSIMの料金はプランごとに明示されており、現地SIMのような追加チャージは不要です。短期旅行では容量の小さいプラン、長期滞在では大容量プランが割安になる傾向があります。
+    - q: ネパールでeSIMと現地SIMのチャージ方法はどう違いますか？
+      a: ネパール滞在中にデータが不足したら、オンラインで上位のデータプランを購入して切り替えられます。データ残量はアプリでリアルタイムに確認できるため、使い切る前に追加できます。
 related_products:
   title: 関連eSIMプラン
   items:
-  - name: アメリカ合衆国eSIM
-    flag: img/flags/us.svg
-    price: $1.99から
+  - name: オランダ eSIM
+    flag: img/flags/nl.svg
+    price: 1.99ドルから
     is_highlight: false
-  - name: イギリス
-    flag: img/flags/gb.svg
-    price: $1.99から
+    slug: netherlands-esim
+  - name: ニュージーランド eSIM
+    flag: img/flags/nz.svg
+    price: 3.99ドルから
     is_highlight: false
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
-    price: $1.99から
+    slug: new-zealand-esim
+  - name: ニジェール eSIM
+    flag: img/flags/ni.svg
+    price: 23.99ドルから
     is_highlight: true
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
-    price: $1.99から
+    slug: niger-esim
+  - name: ナイジェリア eSIM
+    flag: img/flags/ng.svg
+    price: 5.99ドルから
     is_highlight: false
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: $1.99から
+    slug: nigeria-esim
+  - name: ノルウェー eSIM
+    flag: img/flags/no.svg
+    price: 1.99ドルから
     is_highlight: false
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: $1.99から
+    slug: norway-esim
+  - name: オマーン eSIM
+    flag: img/flags/om.svg
+    price: 5.99ドルから
     is_highlight: false
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: $1.99から
+    slug: oman-esim
+  - name: パキスタン eSIM
+    flag: img/flags/pk.svg
+    price: 3.99ドルから
     is_highlight: false
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: $1.99から
+    slug: pakistan-esim
+  - name: パナマ eSIM
+    flag: img/flags/pa.svg
+    price: 11.99ドルから
     is_highlight: false
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: $1.99から
+    slug: panama-esim
+  - name: パラグアイ eSIM
+    flag: img/flags/py.svg
+    price: 22.99ドルから
     is_highlight: false
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: $1.99から
+    slug: paraguay-esim
+  - name: ペルー eSIM
+    flag: img/flags/pe.svg
+    price: 4.99ドルから
     is_highlight: false
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: $1.99から
+    slug: peru-esim
+  - name: フィリピン eSIM
+    flag: img/flags/ph.svg
+    price: 2.99ドルから
     is_highlight: false
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: $1.99から
+    slug: philippines-esim
+  - name: ポーランド eSIM
+    flag: img/flags/pl.svg
+    price: 1.99ドルから
     is_highlight: false
+    slug: poland-esim
 ---

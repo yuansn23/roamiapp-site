@@ -1,6 +1,6 @@
 ---
 title: 'سيشل eSIM 2026 - أفضل خطة 5G لماهي وبراسلين | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
 seo:
   title: "سيشل eSIM - أفضل تغطية 5G عالية السرعة لإقامتك الآن"
-  description: "أفضل eSIM مسبقة الدفع لسيشل مع 5G على إيرتل وكيبل آند وايرلس. تفعيل فوري. مثالية للتنقل بين ماهي وبراسلين. من 1.99 دولار."
-  keywords: سيشل eSIM, شراء سيشل eSIM, أفضل سيشل eSIM, سيشل eSIM للسفر, إيرتل سيشل, كيبل آند وايرلس سيشل, إنتلفيجن سيشل, فيكتوريا eSIM, بو فالن eSIM, آنس رويال eSIM, سيشل eSIM مسبقة الدفع, 5G سيشل eSIM, ماهي eSIM, براسلين eSIM, لا ديغ eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: "أفضل eSIM مسبقة الدفع لسيشل مع 5G على إيرتل وكيبل آند وايرلس. تفعيل فوري. مثالية للتنقل بين ماهي وبراسلين. من 9.99 دولار."
+  keywords: eSIM سيشل، شراء eSIM سيشل، أفضل eSIM سيشل، eSIM سيشل رخيصة، eSIM سيشل مسبقة الدفع، باقة eSIM سيشل، eSIM سيشل غير محدودة، eSIM سيشل 5G، أفضل eSIM لـ سيشل، سعر eSIM سيشل، تفعيل eSIM سيشل، تغطية eSIM سيشل، إيرتل سيشل، eSIM فيكتوريا، eSIM بو فالن، eSIM آنس رويال
+  low_price: 9.99
+  high_price: 109.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/sc.svg
   flag_alt: علم سيشل
-  title: 'سيشل eSIM: 5G في ماهي وبراسلين وما وراءها — بدون هوية'
+  title: 'eSIM سيشل: بيانات 5G سريعة لكل مدينة ووجهة'
   subtitle: لا حاجة لهوية | جاهز للتنقل بين الجزر | تسليم فوري لرمز QR
 features:
-  title: 'لماذا يختار المسافرون إلى سيشل Roami: الشبكة والباقات والقيمة'
+  title: 'لماذا يختار المسافرون إلى سيشل Roami: السرعة والتغطية والدعم'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بشبكات إيرتل وكيبل آند وايرلس وإنتلفيجن للحصول على أفضل إشارة في جميع أنحاء الجزر
-plans_title: 'شراء سيشل eSIM: خطط لكل مدة رحلة'
+plans_title: 'شراء eSIM سيشل: خطط لكل مدة رحلة'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -279,7 +279,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية سيشل eSIM: دليل شبكات إيرتل وكيبل آند وايرلس وإنتلفيجن'
+  title: 'تغطية eSIM سيشل: دليل كامل للشبكات المحلية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -310,7 +310,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد سيشل eSIM: ما يجب معرفته قبل الذهاب'
+  title: 'نصائح إعداد eSIM سيشل: ما يجب معرفته قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -331,7 +331,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت سيشل eSIM: 3 خطوات بسيطة'
+  title: 'كيفية تثبيت eSIM سيشل: 3 خطوات بسيطة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -356,7 +356,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول سيشل eSIM
+    title: الأسئلة الشائعة حول eSIM سيشل
     questions:
     - q: |
         هل أحتاج إلى جواز سفر لشراء بطاقة SIM في سيشل؟
@@ -394,55 +394,67 @@ faq_section:
         هل يمكنني إعادة شحن eSIM سيشل الخاصة بي إذا نفدت البيانات؟
       a: |
         نعم — يمكنك إعادة الشحن من خلال حساب Roami الخاص بك في أي وقت بنقرة واحدة. على عكس بطاقات SIM المحلية في سيشل التي تتطلب العثور على متجر أو استخدام طرق دفع محلية، تقبل Roami طرق دفع عالمية بدون خطوات إضافية.
+    - q: |
+        من أين يمكنني شراء eSIM سيشل؟
+      a: |
+        يمكن شراء eSIM سيشل من Roami بالكامل عبر الإنترنت. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة إيرتل لتبدأ الاستخدام فورًا.
+    - q: |
+        هل يوفر eSIM تكلفة الاتصال في سيشل؟
+      a: |
+        في سيشل يتطلب شراء بطاقة SIM المحلية تسجيلًا في المتجر، لذا غالبًا يكون eSIM أوفر. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل يمكنني إضافة باقة بيانات أثناء الإقامة في سيشل؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM ذات الصلة
+  title: خطط eSIM ذات صلة بـ سيشل
   items:
-  - name: الولايات المتحدة eSIM
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أوروبا eSIM
-    flag: img/flags/eu.svg
+  - name: eSIM قطر
+    flag: img/flags/qa.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: كندا eSIM
-    flag: img/flags/ca.svg
+  - name: eSIM كوسوفو
+    flag: img/flags/xk.svg
+    price: من 13.99 دولار
+    is_highlight: false
+  - name: eSIM الكاميرون
+    flag: img/flags/cm.svg
+    price: من 27.99 دولار
+    is_highlight: false
+  - name: eSIM كولومبيا
+    flag: img/flags/co.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM جنوب شرق آسيا
+    flag: img/flags/ya.webp
     price: من 1.99 دولار
     is_highlight: false
-  - name: تركيا eSIM
-    flag: img/flags/tr.svg
+  - name: eSIM ملاوي
+    flag: img/flags/mw.svg
+    price: من 14.99 دولار
+    is_highlight: false
+  - name: eSIM دومينيكا
+    flag: img/flags/dm.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM بنغلاديش
+    flag: img/flags/bd.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM السلفادور
+    flag: img/flags/sv.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM كوريا الجنوبية
+    flag: img/flags/kr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: الصين eSIM
-    flag: img/flags/cn.svg
+  - name: eSIM رومانيا
+    flag: img/flags/ro.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: اليابان eSIM
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: هونغ كونغ eSIM
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: فرنسا eSIM
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: إسبانيا eSIM
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: ألمانيا eSIM
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أستراليا eSIM
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM جبل طارق
+    flag: img/flags/gi.svg
+    price: من 5.99 دولار
     is_highlight: false
 ---

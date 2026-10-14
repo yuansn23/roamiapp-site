@@ -1,6 +1,6 @@
 ---
 title: 'eSIM الأرجنتين 2026: دليل 5G والبيانات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,9 @@ modal:
 seo:
   title: "eSIM الأرجنتين | أفضل خطة بيانات 5G للمستكشفين الآن"
   description: "أفضل eSIM سفر مدفوعة مسبقًا من Roami للأرجنتين. بيانات 5G غير محدودة وتفعيل فوري. تغطي بوينس آيرس وقرطبة ومندوزا. اشترِ خطتك الآن."
-  keywords: eSIM الأرجنتين، شراء eSIM الأرجنتين، أفضل eSIM الأرجنتين، eSIM سفر الأرجنتين، موفيستار الأرجنتين، كلارو الأرجنتين،
-    بيرسونال الأرجنتين، eSIM بوينس آيرس، eSIM قرطبة، eSIM روزاريو، eSIM مدفوعة مسبقًا الأرجنتين، eSIM 5G الأرجنتين
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM الأرجنتين، شراء eSIM الأرجنتين، أفضل eSIM الأرجنتين، eSIM الأرجنتين رخيصة، eSIM الأرجنتين مسبقة الدفع، باقة eSIM الأرجنتين، eSIM الأرجنتين غير محدودة، eSIM الأرجنتين 5G، أفضل eSIM لـ الأرجنتين، سعر eSIM الأرجنتين، تفعيل eSIM الأرجنتين، تغطية eSIM الأرجنتين، موفيستار الأرجنتين، eSIM بوينس آيرس، eSIM قرطبة، eSIM روزاريو
+  low_price: 3.99
+  high_price: 84.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -41,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/ar.svg
   flag_alt: علم الأرجنتين
-  title: 'eSIM الأرجنتين: اتصال فوري لسفر بدون قلق'
+  title: 'eSIM الأرجنتين: إنترنت سريع بدون هوية أو انتظار'
   subtitle: أفضل eSIM مدفوعة مسبقًا للمسافرين إلى الأرجنتين - 5G سريع، تفعيل فوري، دعم 24/7
 features:
-  title: 'لماذا يختار المسافرون إلى الأرجنتين Roami: السرعة والتغطية والدعم'
+  title: مزايا Roami للمسافرين إلى الأرجنتين
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي الأرجنتين للحصول على أفضل إشارة
-plans_title: 'شراء eSIM الأرجنتين: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM الأرجنتين: أسعار واضحة لكل رحلة'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -248,7 +247,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM الأرجنتين: دليل كامل للشبكات المحلية'
+  title: 'eSIM الأرجنتين: نظرة على التغطية والمشغلين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -279,7 +278,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM الأرجنتين: ما يجب معرفته قبل السفر'
+  title: 'eSIM الأرجنتين: أمور يجب ترتيبها قبل الوصول'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -299,7 +298,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM الأرجنتين: 3 خطوات بسيطة'
+  title: 'إعداد eSIM الأرجنتين: دليل التركيب خطوة بخطوة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -324,12 +323,12 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM الأرجنتين
+    title: أسئلة المسافرين حول eSIM الأرجنتين
     questions:
     - q: |
         كيف يقارن Roami بـ Airalo لـ eSIM في الأرجنتين؟
       a: |
-        يقدم Roami عادةً قيمة أفضل لـ eSIM الأرجنتين因为我们 نبيع مباشرة — بدون رسوم السوق. الأسعار أقل بنسبة 10-20% عادةً من Airalo. كما نقدم دعمًا مباشرًا على مدار 24/7. الخطط مدفوعة مسبقًا بدون تجديد تلقائي، لذا لن يتم محاسبتك بعد انتهاء رحلتك.
+        يقدم Roami عادةً قيمة أفضل لـ eSIM الأرجنتين لأننا نبيع مباشرة — بدون رسوم السوق. الأسعار أقل بنسبة 10-20% عادةً من Airalo. كما نقدم دعمًا مباشرًا على مدار 24/7. الخطط مدفوعة مسبقًا بدون تجديد تلقائي، لذا لن يتم محاسبتك بعد انتهاء رحلتك.
     - q: |
         هل من الآمن تحميل جواز سفري لتسجيل eSIM الأرجنتين؟ أنا قلق بشأن الخصوصية.
       a: |
@@ -341,7 +340,7 @@ faq_section:
     - q: |
         ما هو الميزانية التي يجب أن أخصصها لـ eSIM عند زيارة الأرجنتين؟
       a: |
-        يقدم Roami eSIM الأرجنتين من 1.99 دولار لخطة خفيفة لمدة 7 أيام حتى 59.99 دولارًا لـ 30 يومًا من البيانات غير المحدودة. يختار معظم الزوار خطة 5 جيجابايت / 15 يومًا بسعر 9.99 دولار — وهي تغطي التنقل اليومي ووسائل التواصل الاجتماعي والمراسلة دون ضغط. يجب على محبي البث أو مستخدمي وسائل التواصل الاجتماعي الثقيلة التفكير في 10 جيجابايت أو غير محدود. توفر كلارو سرعات موثوقة في جميع أنحاء الأرجنتين. خطط Roami مدفوعة مسبقًا — لا فواتير مفاجئة، لا تجديد تلقائي، فقط تسعير مباشر.
+        يقدم Roami eSIM الأرجنتين من 3.99 دولار لخطة خفيفة لمدة 3 أيام حتى 67.99 دولارًا لـ 7 يومًا من البيانات غير المحدودة. يختار معظم الزوار خطة 5 جيجابايت / 15 يومًا بسعر 13.99 دولار — وهي تغطي التنقل اليومي ووسائل التواصل الاجتماعي والمراسلة دون ضغط. يجب على محبي البث أو مستخدمي وسائل التواصل الاجتماعي الثقيلة التفكير في 10 جيجابايت أو غير محدود. توفر كلارو سرعات موثوقة في جميع أنحاء الأرجنتين. خطط Roami مدفوعة مسبقًا — لا فواتير مفاجئة، لا تجديد تلقائي، فقط تسعير مباشر.
     - q: |
         كيف يقارن eSIM بـ WiFi الجيب للسفر إلى الأرجنتين؟
       a: |
@@ -358,63 +357,75 @@ faq_section:
         هل ستعمل eSIM الخاصة بي في الأرجنتين لمكالمات الفيديو والعمل عن بُعد؟
       a: |
         بالتأكيد. توفر شبكات كلارو اتصالات مستقرة لـ Zoom و Teams و Google Meet. للعمل عن بُعد، يوصى بخطة 10 جيجابايت أو غير محدودة. يدعم eSIM أيضًا مشاركة نقطة الاتصال لجهاز الكمبيوتر المحمول الخاص بك.
+    - q: |
+        هل يمكنني شراء eSIM الأرجنتين من هاتفي؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة موفيستار لتبدأ الاستخدام فورًا.
+    - q: |
+        كيف يتغير سعر eSIM الأرجنتين حسب حجم البيانات؟
+      a: |
+        أسعار eSIM الأرجنتين معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل يمكن ترحيل البيانات المتبقية إلى اليوم التالي؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في الأرجنتين، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM ذات الصلة بالأرجنتين
+  title: باقات eSIM إضافية لرحلة الأرجنتين
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM جمهورية الدومينيكان
+    flag: img/flags/do.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM البحرين
+    flag: img/flags/bh.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM البوسنة والهرسك
+    flag: img/flags/ba.svg
+    price: من 30.99 دولار
+    is_highlight: false
+  - name: eSIM لاتفيا
+    flag: img/flags/lv.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM مصر
+    flag: img/flags/eg.svg
+    price: من 2.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM أيرلندا
+    flag: img/flags/ie.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
+  - name: eSIM منغوليا
+    flag: img/flags/mo.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM الهند
+    flag: img/flags/in.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM قبرص
+    flag: img/flags/cy.svg
+    price: من 2.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
+  - name: eSIM أوغندا
+    flag: img/flags/ug.svg
+    price: من 7.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM بوتسوانا
+    flag: img/flags/bw.svg
+    price: من 14.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM الأرجنتين مقابل بطاقة SIM الفعلية: تحليل الإيجابيات والسلبيات'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في الأرجنتين مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM للبيانات المدفوعة مسبقًا (الأرجنتين) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Argentina
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

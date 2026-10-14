@@ -1,6 +1,6 @@
 ---
 title: ノルウェー eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:00:41+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,10 @@ modal:
     当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました！<br>新規のお客様はコード <strong>web20</strong> で20%オフ！
 seo:
   title: eSIM ノルウェー | QRコードで簡単インストール・即時接続の設定方法
-  description: ノルウェーでのリモートワークにRoamiのeSIMが最適。安定した高速通信でZoomやSlackも快適。長期滞在向け割安プランとデータ追加の柔軟性で、働きながら旅するスタイルをしっかりサポート。
-  keywords: ノルウェー eSIM, ノルウェー旅行, 海外SIM, データ通信, プリペイドSIM
+  description: ノルウェーでのリモートワークにRoamiのeSIMが最適。安定した高速通信でZoomやSlackも快適。
+  low_price: 1.99
+  high_price: 79.99
+  keywords: ノルウェー eSIM, ノルウェー eSIM 料金, ノルウェー eSIM おすすめ, ノルウェー eSIM 安い, ノルウェー eSIM 購入, ノルウェー eSIM 申し込み, ノルウェー eSIM データ無制限, ノルウェー プリペイドSIM, ノルウェー 旅行 eSIM, ノルウェー eSIM 価格, ノルウェー eSIM 設定方法, ノルウェー eSIM 対応エリア, オスロ eSIM, ベルゲン eSIM, ノルウェー モバイルデータ, ノルウェー eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: ノルウェー向け最高のeSIM
-  title: 海外旅行，就选ノルウェー eSIM
+  title: ノルウェー eSIMで到着後すぐにネット接続
 hero:
   flag_image: img/flags/no.svg
   flag_alt: ノルウェーの国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: あなたに合ったプラン
 plans_data:
   7 日:
   - spec: 1GB
@@ -322,7 +324,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: お役立ち情報
   items:
   - icon: 📱
     html: |-
@@ -378,7 +380,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. はじめに
     questions:
     - q: ノルウェー用eSIMを使用するためにスマートフォンに求められる要件は？
       a: お使いの端末がeSIMに対応している必要があります（iPhone XS/XR以降、Samsung Galaxy S20/Note20以降、Google
@@ -387,13 +389,12 @@ faq_section:
       a: ノルウェー用eSIMはTelenor / Teliaと専属提携しています。都市部だけでなく、郊外や高速道路沿いでも最適なネットワーク（5G/4G/LTE）に自動接続し、最高のカバレッジを実現します。
     - q: ノルウェー用eSIMを使用中、国内のSIMで電話を受けることはできますか？
       a: はい、デュアルSIM端末では両方のプロファイルを同時に使用できます。モバイルデータにはRoami eSIMをデフォルトに設定するだけです。通話やSMSは国内SIM経由で（ローミングが有効な場合があります）行われます。
-        デュアルSIM対応端末なら、日本で使っている電話番号をそのまま維持しながら海外データ通信を利用可能。通話は国内SIM、データはRoamiのeSIMという使い分けが便利です。海外旅行eSIMを使えば、日本の番号に届くSMS認証も受信できます。
+
     - q: QRコードなしでノルウェー用eSIMをインストールできますか？
       a: はい、QRコードの他に、SM‑DP+アドレスとアクティベーションコード（注文確認メールに記載）を使って手動でインストールすることも可能です。QRコードが最も簡単で迅速な方法です。
     - q: ノルウェー用eSIMが機能しない場合、返金保証はありますか？
       a: はい、アクティベーションから7日以内に技術的な問題が解決できない場合、100%返金保証を提供しています。リスクはありません。
-    - q: Roamiはノルウェー以外の地域向け
-        事前購入で到着後すぐに使えるRoamiのeSIM。1GBから無制限まで旅行スタイルに合わせて選択でき、追加チャージも簡単です。eSIMも提供していますか？
+    - q: Roamiはノルウェー以外の地域向けeSIMも提供していますか？
       a: はい、ノルウェー用eSIMの他に、ヨーロッパ、アジア、北米、グローバル向けの地域別eSIMも提供しています。複数都市をまたぐ旅行や数カ国を巡るツアーに最適です
         — SIMカードの交換は不要です。
     - q: RoamiのeSIMは、現地のプリペイドSIMと比べてどのような利点がありますか？
@@ -407,6 +408,12 @@ faq_section:
     - q: 私のスマートフォンはノルウェーのeSIMに対応していますか？また、インストール方法は？
       a: はい、最新のスマートフォン（iPhone XS/XR以降、Samsung Galaxy S20+/Note20+、Google Pixel 3a+など）はeSIMに対応しています。ノルウェー用eSIMは、モバイル設定でQRコードをスキャンしてインストールします。Telenor
         / Teliaのネットワークはノルウェーで優れた5G/4Gカバレッジを提供します。
+    - q: ノルウェー用eSIMを申し込む際に必要な情報はありますか？
+      a: Roamiのノルウェー用eSIMはすべてオンラインで申し込みできます。ノルウェー到着後にデータ通信をオンにすれば自動で接続され、追加の申し込みは不要です。
+    - q: ノルウェーのeSIMとレンタルルーターを比較するとどちらがお得ですか？
+      a: eSIMは店舗手数料やチャージの手間がなく、ノルウェーの通信費を抑えやすい選択です。実際の料金は選ぶプランによって異なるため、現在の価格は公式サイトでご確認ください。
+    - q: ノルウェー用eSIMにデータを追加チャージする方法を教えてください。
+      a: 追加チャージという仕組みはなく、必要なときに新しいプランを選んで購入する形です。現地SIMのように店舗でチャージする必要はなく、すべてオンラインで完結します。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -570,80 +577,79 @@ faq_section:
       a: ノルウェー用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: ノルウェー用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        旅行前にeSIMを購入して準備すれば、到着後すぐにデータ通信が可能。Roamiの格安プランは1GB/$1.99から。5G対応で快適。
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にノルウェー用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
+  - name: オマーン eSIM
+    flag: img/flags/om.svg
+    price: 5.99ドルから
+    is_highlight: false
+    slug: oman-esim
+  - name: パキスタン eSIM
+    flag: img/flags/pk.svg
+    price: 3.99ドルから
+    is_highlight: false
+    slug: pakistan-esim
+  - name: パナマ eSIM
+    flag: img/flags/pa.svg
+    price: 11.99ドルから
+    is_highlight: false
+    slug: panama-esim
+  - name: パラグアイ eSIM
+    flag: img/flags/py.svg
+    price: 22.99ドルから
+    is_highlight: false
+    slug: paraguay-esim
+  - name: ペルー eSIM
+    flag: img/flags/pe.svg
+    price: 4.99ドルから
+    is_highlight: false
+    slug: peru-esim
+  - name: フィリピン eSIM
+    flag: img/flags/ph.svg
+    price: 2.99ドルから
+    is_highlight: false
+    slug: philippines-esim
+  - name: ポーランド eSIM
+    flag: img/flags/pl.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
+    slug: poland-esim
+  - name: ポルトガル eSIM
+    flag: img/flags/pt.svg
     price: 1.99ドルから
     is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
+    slug: portugal-esim
+  - name: プエルトリコ eSIM
+    flag: img/flags/pu.svg
+    price: 6.99ドルから
+    is_highlight: false
+    slug: puerto-rico-esim
+  - name: カタール eSIM
+    flag: img/flags/qa.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
+    slug: qatar-esim
+  - name: レユニオン島 eSIM
+    flag: img/flags/re.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
+    slug: reunion-island-esim
+  - name: ルーマニア eSIM
+    flag: img/flags/ro.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+    slug: romania-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "ノルウェーでeSIMに切り替えるべきか？eSIMとプリペイドSIMの比較"
   subtitle: "ノルウェーの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Norway) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Norway"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -682,13 +688,13 @@ market_analysis:
     - icon: "credit-card"
       title: "チャージと支払い"
       prepaid_title: ""
-      prepaid_desc: "TelenorとTeliaのオンライン充值は北欧のクレジットカードのみ対応し、国際カードは拒否される。Telenorは英語メニューのない充值電話を提供。"
+      prepaid_desc: "TelenorとTeliaのオンラインチャージは北欧のクレジットカードのみ対応し、国際カードは拒否される。Telenorは英語メニューのないチャージ用電話窓口を提供。"
       esim_title: "グローバル決済対応"
       esim_desc: "TelenorやTeliaの北欧カード限定とは異なり、RoamiはVisa、Mastercard、AMEX、Apple Pay、Google Pay、PayPalに対応。"
     - icon: "headset"
       title: "カスタマーサポート"
       prepaid_title: ""
-      prepaid_desc: "Teliaのすべての情報（書面・オンライン）および充值音声ガイダンスはノルウェー語のみ。"
+      prepaid_desc: "Teliaのすべての情報（書面・オンライン）およびチャージ音声ガイダンスはノルウェー語のみ。"
       esim_title: "24時間多言語サポート"
       esim_desc: "Teliaのノルウェー語のみのサポートとは異なり、Roamiは24時間英語対応のチャットとメールサポートを提供。"
 
@@ -715,6 +721,5 @@ market_analysis:
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "国際カードでの支払いが可能"
-        desc: "TelenorとTeliaのオンライン充值は北欧カードのみ対応。eSIMはVisa、Mastercard、AMEX、Apple Pay、Google Pay、PayPalに対応。"
+        desc: "TelenorとTeliaのオンラインチャージは北欧カードのみ対応。eSIMはVisa、Mastercard、AMEX、Apple Pay、Google Pay、PayPalに対応。"
 ---
-        旅行前にeSIMを購入して準備すれば、到着後すぐにデータ通信が可能。Roamiの格安プランは1GB/$1.99から。5G対応で快適。

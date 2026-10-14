@@ -1,6 +1,6 @@
 ---
 title: コスタリカ eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:02:43+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,10 @@ modal:
     当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました！<br>新規のお客様はコード <strong>web20</strong> で20%オフ！
 seo:
   title: eSIM コスタリカ | 他社より安いおすすめデータプラン徹底比較ガイド
-  description: コスタリカで使える格安eSIMをお探しならRoami。海外ローミングより大幅に安く1GBあたり$1.99からのリーズナブルな価格設定。データ追加もアプリからワンタップで旅行中の通信費を賢く節約。
-  keywords: コスタリカ eSIM, コスタリカ 旅行, コスタリカ ネットワーク, コスタリカ 観光, コスタリカ モバイルデータ
+  description: コスタリカで使える格安eSIMをお探しならRoami。データ追加もアプリからワンタップで旅行中の通信費を賢く節約。
+  low_price: 9.99
+  high_price: 84.99
+  keywords: コスタリカ eSIM, コスタリカ eSIM 料金, コスタリカ eSIM おすすめ, コスタリカ eSIM 安い, コスタリカ eSIM 購入, コスタリカ eSIM 申し込み, コスタリカ eSIM データ無制限, コスタリカ プリペイドSIM, コスタリカ 旅行 eSIM, コスタリカ eSIM 価格, コスタリカ eSIM 設定方法, コスタリカ eSIM 対応エリア, サンホセ eSIM, リモン eSIM, コスタリカ モバイルデータ, コスタリカ eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: コスタリカ向け最高のeSIM
-  title: コスタリカ eSIM，海外旅行上网无忧
+  title: コスタリカ旅行のネット環境はeSIMにお任せ
 hero:
   flag_image: img/flags/cr.svg
   flag_alt: コスタリカの国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: プランを比較する
 plans_data:
   7 日:
   - spec: 1GB
@@ -266,7 +268,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: ご利用ガイド
   items:
   - icon: 📱
     html: |-
@@ -322,13 +324,13 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. 最初に確認したいこと
     questions:
     - q: コスタリカ用eSIMを使用中、国内のSIMで電話を受けることはできますか？
       a: はい、デュアルSIM端末では両方のプロファイルを同時に使用できます。モバイルデータにはRoami eSIMをデフォルトに設定するだけです。通話やSMSは国内SIM経由で（ローミングが有効な場合があります）行われます。
     - q: コスタリカ用eSIMは近隣諸国での国際ローミングはどうなりますか？
       a: コスタリカ用eSIMは主にコスタリカ向けに最適化されています。近隣諸国への旅行には、当社のヨーロッパまたは地域別eSIMをお勧めします。これにより追加料金なしでシームレスなローミングが可能です。
-        複数国を周遊する旅行なら、地域別eSIM（ヨーロッパやアジア）を選べば国境を越えるたびに自動でネットワーク切替。追加購入や設定変更の手間がかかりません。海外旅行eSIMの地域別プランなら周遊旅行もスムーズです。
+
     - q: コスタリカ用eSIMの価格はいくらですか？割引はありますか？
       a: コスタリカ用eSIMプランは1.99ドル/GBから始まります。プロモーションコード「web20」を使用すると、全プランが20%オフ — 隠れたコストや最低利用期間の縛りはありません。
     - q: Roamiはコスタリカで無制限プランを提供していますか？ フェアユースポリシー（FUP）はありますか？
@@ -348,7 +350,13 @@ faq_section:
     - q: コスタリカ用eSIMを使用するためにスマートフォンに求められる要件は？
       a: お使いの端末がeSIMに対応している必要があります（iPhone XS/XR以降、Samsung Galaxy S20/Note20以降、Google
         Pixel 3a以降、および最新のHuawei、Xiaomi、OnePlusなどの5G端末）。設定で「eSIMを追加」オプションがあるかご確認ください。
-        コスタリカ旅行で格安のデータ通信をお探しならRoamiのeSIM。1GB/$1.99からのプリペイドプランで、事前購入からインストールまで5分で完了。日本語サポートで初めての方も安心。
+
+    - q: コスタリカ向けのeSIMは当日申し込みでも間に合いますか？
+      a: コスタリカ用eSIMは出発前でも現地でも申し込み可能です。パスポートや現地住所の登録は不要で、受け取ったQRコードをスキャンするだけです。
+    - q: コスタリカ旅行でeSIMを使うと通信費はどのくらい抑えられますか？
+      a: ローミングと比べると、コスタリカ用eSIMは現地ネットワーク（Kölbi）を直接使うため割安です。短期旅行では容量の小さいプラン、長期滞在では大容量プランが割安になる傾向があります。
+    - q: コスタリカのeSIMは小さいプランから始めて後で増やせますか？
+      a: 残データはアプリやWebのダッシュボードでいつでも確認でき、足りなくなれば追加できます。データ残量はアプリでリアルタイムに確認できるため、使い切る前に追加できます。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -512,81 +520,80 @@ faq_section:
       a: コスタリカ用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: コスタリカ用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        格安eSIMならRoamiがおすすめ。1GB/$1.99からのデータプランで5G高速通信。24時間日本語サポートで初めての海外eSIMも安心。
-        海外旅行のデータ通信はeSIMが便利。ローミングより格安で、対応機種ならQRコードで即時設定完了。事前購入で到着後すぐ接続。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にコスタリカ用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
+  - name: クロアチア eSIM
+    flag: img/flags/hr.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
+    slug: croatia-esim
+  - name: キプロス eSIM
+    flag: img/flags/cy.svg
+    price: 2.99ドルから
+    is_highlight: false
+    slug: cyprus-esim
+  - name: チェコ eSIM
+    flag: img/flags/cz.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
+    slug: czech-republic-esim
+  - name: デンマーク eSIM
+    flag: img/flags/dk.svg
     price: 1.99ドルから
+    is_highlight: false
+    slug: denmark-esim
+  - name: ドミニカ国 eSIM
+    flag: img/flags/dm.svg
+    price: 11.99ドルから
+    is_highlight: false
+    slug: dominica-esim
+  - name: ドミニカ共和国 eSIM
+    flag: img/flags/do.svg
+    price: 5.99ドルから
+    is_highlight: false
+    slug: dominican-republic-esim
+  - name: エクアドル eSIM
+    flag: img/flags/ec.svg
+    price: 6.99ドルから
     is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
+    slug: ecuador-esim
+  - name: エジプト eSIM
+    flag: img/flags/eg.svg
+    price: 2.99ドルから
+    is_highlight: false
+    slug: egypt-esim
+  - name: エルサルバドル eSIM
+    flag: img/flags/sv.svg
+    price: 23.99ドルから
+    is_highlight: false
+    slug: el-salvador-esim
+  - name: エストニア eSIM
+    flag: img/flags/ee.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: 1.99ドルから
+    slug: estonia-esim
+  - name: エスワティニ eSIM
+    flag: img/flags/sz.svg
+    price: 19.99ドルから
     is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
+    slug: eswatini-esim
+  - name: フェロー諸島 eSIM
+    flag: img/flags/fo.svg
+    price: 5.99ドルから
     is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+    slug: faroe-islands-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "コスタリカのeSIMとプリペイドSIM：違いを徹底比較"
   subtitle: "コスタリカの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Costa-Rica) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Costa-Rica"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -660,4 +667,3 @@ market_analysis:
         title: "即時アクティベーション"
         desc: "<b>Liberty</b>のアクティベーションはSMSまたは電話で<b>1693</b>に連絡する必要があり、<b>Claro</b>は<b>*555#</b>の多段階メニュー操作が必要。eSIMは購入後<b>1分</b>で設定完了。"
 ---
-        海外旅行のデータ通信はeSIMが便利。ローミングより格安で、対応機種ならQRコードで即時設定完了。事前購入で到着後すぐ接続。

@@ -1,6 +1,6 @@
 ---
 title: 'eSIM مدينة الفاتيكان 2026: دليل 5G والبيانات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM مدينة الفاتيكان: دليل تغطية فودافون و TIM 5G"
   description: "قارن خطط eSIM لمدينة الفاتيكان مع 5G سريع في الفاتيكان وروما وفلورنسا. تغطية فودافون و TIM و WindTre. تفعيل فوري. اشترِ خطتك الآن."
-  keywords: eSIM مدينة الفاتيكان, شراء eSIM مدينة الفاتيكان, أفضل eSIM مدينة الفاتيكان, eSIM سفر مدينة الفاتيكان, فودافون مدينة الفاتيكان, TIM مدينة الفاتيكان, WindTre مدينة الفاتيكان, eSIM روما, eSIM فلورنسا, eSIM مسبق الدفع مدينة الفاتيكان, 5G eSIM مدينة الفاتيكان
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM مدينة الفاتيكان، شراء eSIM مدينة الفاتيكان، أفضل eSIM مدينة الفاتيكان، eSIM مدينة الفاتيكان رخيصة، eSIM مدينة الفاتيكان مسبقة الدفع، باقة eSIM مدينة الفاتيكان، eSIM مدينة الفاتيكان غير محدودة، eSIM مدينة الفاتيكان 5G، أفضل eSIM لـ مدينة الفاتيكان، سعر eSIM مدينة الفاتيكان، تفعيل eSIM مدينة الفاتيكان، تغطية eSIM مدينة الفاتيكان، فودافون مدينة الفاتيكان، eSIM روما، eSIM فلورنسا، eSIM مدينة الفاتيكان للسفر
+  low_price: 10.99
+  high_price: 78.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/va.svg
   flag_alt: علم مدينة الفاتيكان
-  title: 'eSIM مدينة الفاتيكان: اتصال فوري لسفر خالٍ من القلق'
+  title: 'eSIM مدينة الفاتيكان: ابق على اتصال أينما تذهب'
   subtitle: أفضل eSIM مسبق الدفع لمسافري مدينة الفاتيكان - 5G سريع، تفعيل فوري، دعم 24/7
 features:
-  title: 'لماذا يختار مسافرو مدينة الفاتيكان Roami: السرعة والتغطية والدعم'
+  title: 'لماذا يختار زوار مدينة الفاتيكان Roami: تغطية واسعة ودعم 24/7'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي مدينة الفاتيكان للحصول على أفضل إشارة
-plans_title: 'شراء eSIM مدينة الفاتيكان: خطط تناسب كل مدة رحلة'
+plans_title: 'خطط eSIM مدينة الفاتيكان: اختر المدة والباقة المناسبة'
 plans_data:
   3 أيام:
   - spec: غير محدود
@@ -113,7 +113,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM مدينة الفاتيكان: دليل كامل للشبكات المحلية'
+  title: 'تغطية eSIM مدينة الفاتيكان: دليل مشغل الشبكة المحمولة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -144,7 +144,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM مدينة الفاتيكان: ما يجب معرفته قبل الذهاب'
+  title: 'تحضير eSIM مدينة الفاتيكان: قائمة ما قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -163,7 +163,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM مدينة الفاتيكان: 3 خطوات بسيطة'
+  title: كيف تُثبّت eSIM مدينة الفاتيكان في 3 خطوات
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -188,7 +188,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM مدينة الفاتيكان
+    title: كل ما تتساءل عنه حول eSIM مدينة الفاتيكان
     questions:
     - q: |
         هل يعمل واتساب و FaceTime مع eSIM في مدينة الفاتيكان؟
@@ -197,7 +197,7 @@ faq_section:
     - q: |
         أنا مسافر إلى مدينة الفاتيكان لمدة 2-3 أيام فقط. ما eSIM الذي يجب أن أحصل عليه؟
       a: |
-        لرحلة قصيرة، تغطي خطة 1 جيجابايت / 7 أيام (1.99 دولار) الخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل ومشاركة الصور، فإن خطة 3 جيجابايت (4.99 دولار) تعطيك مساحة أكبر. يتم تفعيل كلاهما فوريًا ويمكنك إعادة الشحن إذا لزم الأمر.
+        لرحلة قصيرة، تغطي خطة غير محدودة / 3 أيام (10.99 دولار) الخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل ومشاركة الصور، فإن خطة غير محدودة (10.99 دولار) تعطيك مساحة أكبر. يتم تفعيل كلاهما فوريًا ويمكنك إعادة الشحن إذا لزم الأمر.
     - q: |
         كم عدد ملفات تعريف eSIM التي يمكنني تخزينها على هاتفي للسفر إلى مدينة الفاتيكان؟
       a: |
@@ -209,7 +209,7 @@ faq_section:
     - q: |
         ماذا لو كان فندقي في مدينة الفاتيكان يوفر WiFi مجاني — هل ما زلت بحاجة إلى بيانات eSIM؟
       a: |
-        يعمل WiFi الفندق في غرفتك ولكن ليس عندما تكون في الخارج تستكشف. يمنحك eSIM بيانات في كل مكان — التنقل في الشوارع، البحث عن الأماكن القريبة، التحقق من جداول النقل. تكلف خطة 5 جيجابايت 9.99 دولار، وهو غالبًا أرخص من WiFi الفندق المدفوع لمدة أسبوع (10-15 دولارًا في العديد من الفنادق). يستخدم معظم المسافرين WiFi الفندق للتنزيلات الكبيرة و eSIM للاتصال أثناء التنقل.
+        يعمل WiFi الفندق في غرفتك ولكن ليس عندما تكون في الخارج تستكشف. يمنحك eSIM بيانات في كل مكان — التنقل في الشوارع، البحث عن الأماكن القريبة، التحقق من جداول النقل. تكلف خطة غير محدودة 20.99 دولار، وهو غالبًا أرخص من WiFi الفندق المدفوع لمدة أسبوع (10-15 دولارًا في العديد من الفنادق). يستخدم معظم المسافرين WiFi الفندق للتنزيلات الكبيرة و eSIM للاتصال أثناء التنقل.
     - q: |
         هل يمكنني استخدام eSIM مدينة الفاتيكان فور شرائها، أم يجب أن أنتظر؟
       a: |
@@ -222,55 +222,67 @@ faq_section:
         ما الفرق بين خطة 5 جيجابايت والخطة غير المحدودة لمدينة الفاتيكان؟
       a: |
         تمنحك خطة 5 جيجابايت كمية محددة من البيانات عالية السرعة (إجمالي 5 جيجابايت). بمجرد نفادها، تقوم بإعادة الشحن أو شراء خطة جديدة. توفر الخطة غير المحدودة بيانات مستمرة، ولكن قد تنخفض السرعات بعد 30 جيجابايت في اليوم الواحد بموجب سياسة الاستخدام العادل. بالنسبة لمعظم المسافرين الذين يستخدمون الخرائط والمراسلة ووسائل التواصل، فإن خطة 5 جيجابايت كافية تمامًا.
+    - q: |
+        ما المعلومات المطلوبة لشراء eSIM مدينة الفاتيكان؟
+      a: |
+        يمكن شراء eSIM مدينة الفاتيكان من Roami بالكامل عبر الإنترنت. بعد الوصول إلى مدينة الفاتيكان، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        أيّهما أوفر في مدينة الفاتيكان، eSIM أم راوتر Wi-Fi متنقل؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في مدينة الفاتيكان أسهل. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        كيف أضيف بيانات إلى eSIM مدينة الفاتيكان؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM ذات صلة
+  title: خطط eSIM مقترحة لمسافري مدينة الفاتيكان
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM ماكاو
+    flag: img/flags/ma.svg
+    price: من 1.99 دولار
     is_highlight: false
   - name: eSIM ألمانيا
     flag: img/flags/de.svg
-    price: ابتداءً من 1.99 دولار
+    price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM السعودية
+    flag: img/flags/sa.svg
+    price: من 3.99 دولار
     is_highlight: false
+  - name: eSIM أوزبكستان
+    flag: img/flags/uz.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM نيوزيلندا
+    flag: img/flags/nz.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM الفلبين
+    flag: img/flags/ph.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM ليتوانيا
+    flag: img/flags/lt.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM الجزائر
+    flag: img/flags/dz.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM جمهورية الدومينيكان
+    flag: img/flags/do.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM البحرين
+    flag: img/flags/bh.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM البوسنة والهرسك
+    flag: img/flags/ba.svg
+    price: من 30.99 دولار
+    is_highlight: false
+  - name: eSIM لاتفيا
+    flag: img/flags/lv.svg
+    price: من 1.99 دولار
+    is_highlight: true
 ---

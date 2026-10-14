@@ -1,6 +1,6 @@
 ---
 title: 'eSIM الهند 2026 - أفضل خطة 5G لدلهي وتاج محل | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>يتمتع العملاء الجدد بخصم 20%، رمز الخصم: web20'
 seo:
   title: "eSIM الهند - بيانات 5G سريعة مدفوعة مسبقاً لرحلتك"
-  description: "أفضل eSIM مدفوعة مسبقاً للهند مع 5G على إيرتل وجيو وفي آي. تفعيل فوري عبر رمز QR بدون هوية. تبدأ من 1.99 دولار. اشترِ خطتك الآن."
-  keywords: eSIM الهند، شراء eSIM الهند، أفضل eSIM الهند، eSIM السفر إلى الهند، إيرتل الهند، جيو الهند، في آي الهند، eSIM دلهي، eSIM مومباي، eSIM بنغالور، eSIM الهند مسبقة الدفع، 5G eSIM الهند، eSIM تاج محل، eSIM جايبور، eSIM كيرالا
-  low_price: 1.99
-  high_price: 39.9
+  description: "أفضل eSIM مدفوعة مسبقاً للهند مع 5G على إيرتل وجيو وفي آي. تفعيل فوري عبر رمز QR بدون هوية. تبدأ من 3.99 دولار. اشترِ خطتك الآن."
+  keywords: eSIM الهند، شراء eSIM الهند، أفضل eSIM الهند، eSIM الهند رخيصة، eSIM الهند مسبقة الدفع، باقة eSIM الهند، eSIM الهند غير محدودة، eSIM الهند 5G، أفضل eSIM لـ الهند، سعر eSIM الهند، تفعيل eSIM الهند، تغطية eSIM الهند، إيرتل الهند، eSIM دلهي، eSIM مومباي، eSIM بنغالور
+  low_price: 3.99
+  high_price: 99.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/in.svg
   flag_alt: علم الهند
-  title: 'eSIM الهند: 5G في دلهي ومومباي وما وراءها — لا حاجة للتحقق من الهوية'
+  title: 'eSIM الهند: اتصال فوري لسفر خالٍ من القلق'
   subtitle: لا حاجة للتحقق من الهوية/لا حاجة لجواز سفر | 5G على إيرتل وجيو وفي آي | لا هدر في 28 يوماً | تسليم QR فوري
 features:
-  title: 'لماذا يختار مسافرو الهند روامي: الخطط، الشبكة والدعم'
+  title: 'لماذا يختار مسافرو الهند روامي: الشبكة والخطط والقيمة'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائياً بشبكات إيرتل وجيو وفي آي للحصول على أفضل إشارة في جميع أنحاء الهند
-plans_title: 'شراء eSIM الهند: خطط تناسب كل مدة سفر'
+plans_title: 'شراء eSIM الهند: باقات مرنة لمدة إقامتك'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -269,7 +269,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM الهند: دليل شبكات إيرتل وجيو وفي آي'
+  title: 'تغطية eSIM الهند: دليل المشغلين وخريطة التغطية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -300,7 +300,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM الهند: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM الهند: خطوات التحضير قبل المغادرة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -321,7 +321,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM الهند: 3 خطوات بسيطة'
+  title: 'eSIM الهند: خطوات التركيب بالتفصيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -346,7 +346,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM الهند
+    title: أجوبة سريعة عن eSIM الهند
     questions:
     - q: |
         ما هو التحقق الإلزامي من الهوية في الهند — وهل أحتاج إلى القيام به لـ روامي؟
@@ -384,63 +384,75 @@ faq_section:
         هل يمكنني شحن eSIM الهند إذا نفدت البيانات؟
       a: |
         نعم — يمكنك الشحن من خلال حساب روامي الخاص بك في أي وقت. على عكس بطاقات SIM الهندية المدفوعة مسبقاً التي تتطلب منصات شحن محلية (غالباً ما تفرض SwiftRecharge.com رسوماً إضافية عالية على البطاقات الأجنبية)، يقبل روامي طرق دفع عالمية بدون رسوم إضافية.
+    - q: |
+        هل يمكنني شراء eSIM الهند من بلدي قبل السفر؟
+      a: |
+        يمكن شراء eSIM الهند من Roami بالكامل عبر الإنترنت. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        لماذا يكون eSIM أوفر من بطاقة SIM المحلية في الهند؟
+      a: |
+        بما أنك تختار الحجم المناسب، يكون eSIM أقل هدرًا للمال في الهند. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        هل يمكن إضافة بيانات إلى eSIM الهند لاحقًا؟
+      a: |
+        eSIM الهند بنظام مسبق الدفع، ويمكن شراء باقة إضافية من التطبيق عند نقص البيانات. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM الهند ذات الصلة
+  title: وجهات أخرى وخطط eSIM قد تفيد رحلتك إلى الهند
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM النرويج
+    flag: img/flags/no.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM العراق
+    flag: img/flags/iq.svg
+    price: من 9.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM بروناي
+    flag: img/flags/bn.svg
+    price: من 9.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM مقدونيا
+    flag: img/flags/ma.svg
+    price: من 4.99 دولار
     is_highlight: false
   - name: eSIM الصين
     flag: img/flags/cn.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+  - name: eSIM مالطا
+    flag: img/flags/mt.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
+  - name: eSIM الإكوادور
+    flag: img/flags/ec.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM باهاماس
+    flag: img/flags/bs.svg
+    price: من 16.99 دولار
+    is_highlight: false
+  - name: eSIM أيسلندا
+    flag: img/flags/is.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
+  - name: eSIM أوكرانيا
+    flag: img/flags/uk.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
+  - name: eSIM الكونغو (كينشاسا)
+    flag: img/flags/cg.svg
+    price: من 7.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM تشاد
+    flag: img/flags/td.svg
+    price: من 23.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM الهند مقابل بطاقة SIM المدفوعة مسبقاً: هل يستحق التبديل؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقاً في الهند مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (الهند) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/India
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - SIM محلية مسبقة الدفع (بيانات السوق)

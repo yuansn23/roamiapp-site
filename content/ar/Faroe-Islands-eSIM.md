@@ -1,6 +1,6 @@
 ---
 title: 'جزر فارو eSIM 2026: دليل المشغل والتغطية | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: تم ترقية خدمة eSIM لدينا إلى <strong>PhoneSIM</strong>.<br>يحصل العملاء الجدد على خصم 20%، رمز الخصم:web20
 seo:
   title: "eSIM جزر فارو: خطة بيانات 5G سريعة للسياح والمسافرين"
-  description: "قارن خطط eSIM جزر فارو مع 5G سريع في توشهافن وكلاقسفيك. تغطية Faroese Telecom و Vodafone و Hey. تفعيل QR فوري من 1.99 دولار."
-  keywords: eSIM جزر فارو، شراء eSIM جزر فارو، أفضل eSIM جزر فارو، eSIM سفر جزر فارو، Faroese Telecom جزر فارو، Vodafone Faroe Islands جزر فارو، Hey جزر فارو، eSIM توشهافن، eSIM كلاقسفيك، eSIM رونافيك، eSIM مسبق الدفع جزر فارو، eSIM 5G جزر فارو
-  low_price: 1.99
-  high_price: 39.9
+  description: "قارن خطط eSIM جزر فارو مع 5G سريع في توشهافن وكلاقسفيك. تغطية Faroese Telecom و Vodafone و Hey. تفعيل QR فوري من 5.99 دولار."
+  keywords: eSIM جزر فارو، شراء eSIM جزر فارو، أفضل eSIM جزر فارو، eSIM جزر فارو رخيصة، eSIM جزر فارو مسبقة الدفع، باقة eSIM جزر فارو، eSIM جزر فارو غير محدودة، eSIM جزر فارو 5G، أفضل eSIM لـ جزر فارو، سعر eSIM جزر فارو، تفعيل eSIM جزر فارو، تغطية eSIM جزر فارو، Faroese Telecom جزر فارو، eSIM توشهافن، eSIM كلاقسفيك، eSIM رونافيك
+  low_price: 5.99
+  high_price: 94.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/fo.svg
   flag_alt: علم جزر فارو
-  title: 'eSIM جزر فارو: ابق على اتصال أينما ذهبت'
+  title: 'eSIM جزر فارو: اتصال فوري لسفر خالٍ من القلق'
   subtitle: 5G سريع | تسليم QR فوري | دعم بشري 24/7 - أفضل eSIM مسبق الدفع لجزر فارو
 features:
-  title: 'لماذا يختار مسافرو جزر فارو Roami: الخطط، الشبكة والدعم'
+  title: 'لماذا يختار مسافرو جزر فارو روامي: الشبكة والخطط والقيمة'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي جزر فارو للحصول على أفضل إشارة
-plans_title: 'شراء eSIM جزر فارو: خطط لكل مدة رحلة'
+plans_title: 'شراء eSIM جزر فارو: باقات مرنة لمدة إقامتك'
 plans_data:
   7 أيام:
   - spec: 3GB
@@ -196,7 +196,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'المدة: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM جزر فارو: دليل مشغلي الشبكات المحمولة'
+  title: 'تغطية eSIM جزر فارو: دليل المشغلين وخريطة التغطية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -227,7 +227,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM جزر فارو: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM جزر فارو: خطوات التحضير قبل المغادرة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -246,7 +246,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على الشاشة، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM جزر فارو: 3 خطوات بسيطة'
+  title: 'eSIM جزر فارو: خطوات التركيب بالتفصيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -271,12 +271,12 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM جزر فارو
+    title: أجوبة سريعة عن eSIM جزر فارو
     questions:
     - q: |
         أحتاج إلى اتصال إنترنت لبضعة أيام فقط في جزر فارو. ما هو الحد الأدنى الذي يمكنني شراؤه؟
       a: |
-        أرخص خطة هي 1.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لرحلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك الشحن في أي وقت من التطبيق.
+        أرخص خطة هي 5.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لرحلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك الشحن في أي وقت من التطبيق.
     - q: |
         هل يعمل eSIM جزر فارو في المناطق الريفية والبلدات الصغيرة؟
       a: |
@@ -305,55 +305,67 @@ faq_section:
         هل يعمل WhatsApp و FaceTime مع eSIM في جزر فارو؟
       a: |
         نعم — جميع التطبيقات التي تعتمد على البيانات تعمل بشكل مثالي عبر eSIM. تستخدم مكالمات WhatsApp حوالي 1 ميجابايت في الدقيقة للصوت و5-8 ميجابايت في الدقيقة للفيديو. FaceTime و Zoom و Google Maps و Instagram — كل شيء يعمل عبر اتصال البيانات الخاص بـ eSIM دون قيود. تتعامل شبكة Faroese Telecom مع مكالمات الفيديو بسلاسة. توفر خطة 5 جيجابايت حوالي 500 ساعة من مكالمات WhatsApp الصوتية أو 10 ساعات من مكالمات FaceTime الفيديو.
+    - q: |
+        هل يمكنني شراء eSIM جزر فارو من بلدي قبل السفر؟
+      a: |
+        يمكن شراء eSIM جزر فارو من Roami بالكامل عبر الإنترنت. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        لماذا يكون eSIM أوفر من بطاقة SIM المحلية في جزر فارو؟
+      a: |
+        بما أنك تختار الحجم المناسب، يكون eSIM أقل هدرًا للمال في جزر فارو. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        هل يمكن إضافة بيانات إلى eSIM جزر فارو لاحقًا؟
+      a: |
+        eSIM جزر فارو بنظام مسبق الدفع، ويمكن شراء باقة إضافية من التطبيق عند نقص البيانات. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM ذات الصلة لجزر فارو
+  title: وجهات أخرى وخطط eSIM قد تفيد رحلتك إلى جزر فارو
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM أفغانستان
+    flag: img/flags/af.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM ليبيريا
+    flag: img/flags/lr.svg
+    price: من 27.99 دولار
+    is_highlight: false
+  - name: eSIM اليونان
+    flag: img/flags/gr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM هولندا
+    flag: img/flags/nl.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM زامبيا
+    flag: img/flags/za.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM مدينة الفاتيكان
+    flag: img/flags/va.svg
+    price: من 10.99 دولار
+    is_highlight: false
+  - name: eSIM الدنمارك
+    flag: img/flags/dk.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM فنلندا
+    flag: img/flags/fi.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM ساحل العاج
+    flag: img/flags/ci.svg
+    price: من 9.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM السنغال
+    flag: img/flags/se.svg
+    price: من 12.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
+  - name: eSIM باراغواي
+    flag: img/flags/py.svg
+    price: من 22.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM جورجيا
+    flag: img/flags/ge.svg
+    price: من 3.99 دولار
     is_highlight: false
 ---

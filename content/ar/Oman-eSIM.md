@@ -1,6 +1,6 @@
 ---
 title: 'eSIM عمان - 5G في مسقط ونزوى | بدون متاعب جواز السفر | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20٪، كود الخصم: web20'
 seo:
   title: "eSIM عمان - خطة بيانات مسبقة الدفع 5G سريعة لرحلتك"
-  description: "أفضل eSIM لعمان مع 5G على عمانتل وأوريدو وفودافون. بدون تسجيل جواز السفر. تغطي مسقط ونزوى وصلالة. من 1.99 دولار. اشترِ خطتك الآن."
-  keywords: eSIM عمان, شراء eSIM عمان, أفضل eSIM عمان, eSIM سفر عمان, عمانتل عمان, أوريدو عمان, فودافون عمان, eSIM مسقط, eSIM صلالة, eSIM نزوى, eSIM مدفوع مسبق عمان, 5G eSIM عمان, eSIM عمان بدون جواز سفر
-  low_price: 1.99
-  high_price: 39.9
+  description: "أفضل eSIM لعمان مع 5G على عمانتل وأوريدو وفودافون. بدون تسجيل جواز السفر. تغطي مسقط ونزوى وصلالة. من 5.99 دولار. اشترِ خطتك الآن."
+  keywords: eSIM عمان، شراء eSIM عمان، أفضل eSIM عمان، eSIM عمان رخيصة، eSIM عمان مسبقة الدفع، باقة eSIM عمان، eSIM عمان غير محدودة، eSIM عمان 5G، أفضل eSIM لـ عمان، سعر eSIM عمان، تفعيل eSIM عمان، تغطية eSIM عمان، عمانتل عمان، eSIM مسقط، eSIM صلالة، eSIM نزوى
+  low_price: 5.99
+  high_price: 67.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/om.svg
   flag_alt: علم عمان
-  title: 'eSIM عمان: 5G في مسقط ونزوى وما بعدها — بدون جواز سفر، بدون طابور مطار'
+  title: 'eSIM عمان: إنترنت سريع بدون هوية أو انتظار'
   subtitle: 5G على عمانتل وأوريدو وفودافون | بدون تسجيل جواز سفر | دعم 24/7
 features:
-  title: 'لماذا يختار المسافرون إلى عمان Roami: التغطية، الراحة وبدون متاعب جواز السفر'
+  title: مزايا Roami للمسافرين إلى عمان
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +73,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: جاهز للتراث والساحل
     desc: 4G/5G في جميع أنحاء مسقط ونزوى وصلالة وعلى طول الطريق الساحلي
-plans_title: 'شراء eSIM عمان: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM عمان: أسعار واضحة لكل رحلة'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -257,7 +257,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM عمان: دليل عمانتل وأوريدو وفودافون 5G — من مسقط إلى صلالة'
+  title: 'eSIM عمان: نظرة على التغطية والمشغلين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -288,7 +288,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM عمان: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM عمان: أمور يجب ترتيبها قبل الوصول'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -313,7 +313,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM عمان: 3 خطوات بسيطة'
+  title: 'إعداد eSIM عمان: دليل التركيب خطوة بخطوة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -338,7 +338,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM عمان
+    title: أسئلة المسافرين حول eSIM عمان
     questions:
     - q: |
         لماذا يعتبر شراء بطاقة SIM محلية في عمان متاعب كبيرة للسياح؟
@@ -368,63 +368,75 @@ faq_section:
         متى تبدأ فترة صلاحية eSIM عمان الخاص بي؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في عمان، وليس عند الشراء أو التثبيت. لذا يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة. خطة 7 أيام تمنحك 7 أيام كاملة من أول اتصال.
+    - q: |
+        هل يمكنني شراء eSIM عمان من هاتفي؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة عمانتل لتبدأ الاستخدام فورًا.
+    - q: |
+        كيف يتغير سعر eSIM عمان حسب حجم البيانات؟
+      a: |
+        أسعار eSIM عمان معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل يمكن ترحيل البيانات المتبقية إلى اليوم التالي؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في عمان، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM ذات الصلة
+  title: باقات eSIM إضافية لرحلة عمان
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM أوروغواي
+    flag: img/flags/uy.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM بولندا
+    flag: img/flags/pl.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
+  - name: eSIM الأردن
+    flag: img/flags/jo.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM كيويت
+    flag: img/flags/kw.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM نيجيريا
+    flag: img/flags/ng.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM المملكة المتحدة
     flag: img/flags/gb.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM موريشيوس
+    flag: img/flags/ma.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM مولدوفا
+    flag: img/flags/mo.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM فيجي
+    flag: img/flags/fj.svg
+    price: من 6.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM تايوان
+    flag: img/flags/tw.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM غرينادا
+    flag: img/flags/gd.svg
+    price: من 11.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM عمان مقابل بطاقة SIM المحلية: بدون جواز سفر، بدون طابور، جاهز لمجلس التعاون الخليجي'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في عمان مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (Oman) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Oman
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)
@@ -453,7 +465,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: تستخدم جميع المشغلين <strong>دورات فوترة مدتها 30 يومًا</strong>. سائح لمدة 7 أيام يهدر أكثر من <strong>75٪</strong> من قيمة الخطة. لا توجد خيارات قصيرة المدى أقل من 30 يومًا.
     esim_title: خطط مرنة قصيرة المدى
-    esim_desc: يقدم Roami <strong>خطط 3/7/15/30 يومًا</strong> تبدأ من 1.99 دولار — ادفع فقط مقابل المدة الفعلية لرحلتك. بدون التزام إجباري لمدة 30 يومًا.
+    esim_desc: يقدم Roami <strong>خطط 3/7/15/30 يومًا</strong> تبدأ من 5.99 دولار — ادفع فقط مقابل المدة الفعلية لرحلتك. بدون التزام إجباري لمدة 30 يومًا.
   - icon: wifi
     title: سياسات نقطة الاتصال<br>والسرعة
     prepaid_title: ''

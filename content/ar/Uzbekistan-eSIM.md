@@ -1,6 +1,6 @@
 ---
 title: 'eSIM أوزبكستان 2026: دليل المشغلين والتغطية | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,11 +18,9 @@ modal:
 seo:
   title: "eSIM أوزبكستان | أفضل تغطية 5G عالية السرعة لرحلتك"
   description: "أفضل eSIM سفر مسبق الدفع من Roami إلى أوزبكستان. بيانات غير محدودة 5G. تغطي طشقند وسمرقند وبخارى. تفعيل فوري. اشترِ خطتك الآن."
-  keywords: eSIM أوزبكستان، شراء eSIM أوزبكستان، أفضل eSIM أوزبكستان، eSIM السفر إلى أوزبكستان، Ucell أوزبكستان، Beeline
-    Uzbekistan أوزبكستان، UMS (Universal Mobile Systems) أوزبكستان، eSIM طشقند، eSIM سمرقند، eSIM بخارى، eSIM أوزبكستان
-    مسبقة الدفع، eSIM 5G أوزبكستان
+  keywords: eSIM أوزبكستان، شراء eSIM أوزبكستان، أفضل eSIM أوزبكستان، eSIM أوزبكستان رخيصة، eSIM أوزبكستان مسبقة الدفع، باقة eSIM أوزبكستان، eSIM أوزبكستان غير محدودة، eSIM أوزبكستان 5G، أفضل eSIM لـ أوزبكستان، سعر eSIM أوزبكستان، تفعيل eSIM أوزبكستان، تغطية eSIM أوزبكستان، Ucell أوزبكستان، eSIM طشقند، eSIM سمرقند، eSIM بخارى
   low_price: 1.99
-  high_price: 39.9
+  high_price: 96.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -42,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/uz.svg
   flag_alt: علم أوزبكستان
-  title: 'eSIM أوزبكستان: ابق على اتصال أينما ذهبت'
+  title: 'eSIM أوزبكستان: اتصال فوري لسفر خالٍ من القلق'
   subtitle: 5G سريع | تسليم QR فوري | دعم بشري 24/7 - أفضل eSIM مسبق الدفع لأوزبكستان
 features:
-  title: 'لماذا يختار المسافرون إلى أوزبكستان Roami: الخطط، الشبكة والدعم'
+  title: 'لماذا يختار مسافرو أوزبكستان روامي: الشبكة والخطط والقيمة'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -71,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: التبديل التلقائي
     desc: يتصل تلقائيًا بأفضل شركات الاتصال في أوزبكستان للحصول على أفضل إشارة
-plans_title: 'شراء eSIM أوزبكستان: خطط تناسب كل مدة رحلة'
+plans_title: 'شراء eSIM أوزبكستان: باقات مرنة لمدة إقامتك'
 plans_data:
   7 أيام:
   - spec: 3 جيجابايت
@@ -192,7 +190,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM أوزبكستان: دليل مشغلي الشبكات المتنقلة'
+  title: 'تغطية eSIM أوزبكستان: دليل المشغلين وخريطة التغطية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -225,7 +223,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM أوزبكستان: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM أوزبكستان: خطوات التحضير قبل المغادرة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -246,7 +244,7 @@ reminders:
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM أوزبكستان: 3 خطوات بسيطة'
+  title: 'eSIM أوزبكستان: خطوات التركيب بالتفصيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -273,7 +271,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM أوزبكستان
+    title: أجوبة سريعة عن eSIM أوزبكستان
     questions:
     - q: |
         كيف يقارن Roami بـ Klook لـ eSIM في أوزبكستان؟
@@ -298,7 +296,7 @@ faq_section:
     - q: |
         ما هو اختيار eSIM الأكثر شيوعًا للمسافرين إلى أوزبكستان؟
       a: |
-        يختار معظم المسافرين إلى أوزبكستان خطة 5 جيجابايت / 15 يومًا (9.99 دولار). إنها كافية للملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة. للإقامات الأطول أو الاستخدام الأكثر كثافة، تعتبر خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) خيارات رائعة. يتم تفعيل جميع الخطط في دقائق وتتضمن دعمًا على مدار الساعة.
+        يختار معظم المسافرين إلى أوزبكستان خطة 5 جيجابايت / 15 يومًا (11.99 دولار). إنها كافية للملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة. للإقامات الأطول أو الاستخدام الأكثر كثافة، تعتبر خطط 10 جيجابايت (19.99 دولار) أو غير المحدودة (96.99 دولار) خيارات رائعة. يتم تفعيل جميع الخطط في دقائق وتتضمن دعمًا على مدار الساعة.
     - q: |
         متى تبدأ فترة صلاحية eSIM أوزبكستان الخاص بي؟
       a: |
@@ -307,55 +305,67 @@ faq_section:
         هل يعمل واتساب وفيس تايم مع eSIM في أوزبكستان؟
       a: |
         نعم — تعمل جميع التطبيقات القائمة على البيانات بشكل مثالي عبر eSIM. تستخدم مكالمات واتساب حوالي 1 ميجابايت في الدقيقة للصوت و5-8 ميجابايت في الدقيقة للفيديو. فيس تايم، زووم، خرائط جوجل، إنستغرام — كل شيء يعمل عبر اتصال بيانات eSIM دون قيود. تتعامل شبكة Ucell مع مكالمات الفيديو بسلاسة. توفر خطة 5 جيجابايت ما يقرب من 500 ساعة من مكالمات واتساب الصوتية أو 10 ساعات من مكالمات فيس تايم الفيديو.
+    - q: |
+        هل يمكنني شراء eSIM أوزبكستان من بلدي قبل السفر؟
+      a: |
+        يمكن شراء eSIM أوزبكستان من Roami بالكامل عبر الإنترنت. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        لماذا يكون eSIM أوفر من بطاقة SIM المحلية في أوزبكستان؟
+      a: |
+        بما أنك تختار الحجم المناسب، يكون eSIM أقل هدرًا للمال في أوزبكستان. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        هل يمكن إضافة بيانات إلى eSIM أوزبكستان لاحقًا؟
+      a: |
+        eSIM أوزبكستان بنظام مسبق الدفع، ويمكن شراء باقة إضافية من التطبيق عند نقص البيانات. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM ذات الصلة
+  title: وجهات أخرى وخطط eSIM قد تفيد رحلتك إلى أوزبكستان
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
+  - name: eSIM سيراليون
+    flag: img/flags/si.svg
+    price: من 10.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
+  - name: eSIM ماكاو
+    flag: img/flags/ma.svg
     price: من 1.99 دولار
     is_highlight: false
   - name: eSIM ألمانيا
     flag: img/flags/de.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM السعودية
+    flag: img/flags/sa.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM نيوزيلندا
+    flag: img/flags/nz.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM الفلبين
+    flag: img/flags/ph.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM ليتوانيا
+    flag: img/flags/lt.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM الجزائر
+    flag: img/flags/dz.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM جمهورية الدومينيكان
+    flag: img/flags/do.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM البحرين
+    flag: img/flags/bh.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM البوسنة والهرسك
+    flag: img/flags/ba.svg
+    price: من 30.99 دولار
+    is_highlight: true
+  - name: eSIM لاتفيا
+    flag: img/flags/lv.svg
     price: من 1.99 دولار
     is_highlight: false
 ---

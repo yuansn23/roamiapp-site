@@ -1,6 +1,6 @@
 ---
 title: ウルグアイ eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:00:55+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,10 @@ modal:
     当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました！<br>新規のお客様はコード <strong>web20</strong> で20%オフ！
 seo:
   title: eSIM ウルグアイ | テザリング対応・複数端末でデータ共有可能なプラン
-  description: ウルグアイで使える格安eSIMをお探しならRoami。海外ローミングより大幅に安く1GBあたり$1.99からのリーズナブルな価格設定。データ追加もアプリからワンタップで旅行中の通信費を賢く節約。
-  keywords: ウルグアイ eSIM, ウルグアイ 旅行 ネット, ウルグアイ 観光, ウルグアイ モバイルデータ, ウルグアイ インターネット
+  description: ウルグアイで使える格安eSIMをお探しならRoami。データ追加もアプリからワンタップで旅行中の通信費を賢く節約。
+  low_price: 11.99
+  high_price: 98.99
+  keywords: ウルグアイ eSIM, ウルグアイ eSIM 料金, ウルグアイ eSIM おすすめ, ウルグアイ eSIM 安い, ウルグアイ eSIM 購入, ウルグアイ eSIM 申し込み, ウルグアイ eSIM データ無制限, ウルグアイ プリペイドSIM, ウルグアイ 旅行 eSIM, ウルグアイ eSIM 価格, ウルグアイ eSIM 設定方法, ウルグアイ eSIM 対応エリア, モンテビデオ eSIM, プンタ・デル・エステ eSIM, ウルグアイ モバイルデータ, ウルグアイ eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: ウルグアイ向け最高のeSIM
-  title: ウルグアイ eSIM，海外旅行流量不愁
+  title: 海外旅行ならウルグアイ eSIMがおすすめ
 hero:
   flag_image: img/flags/uy.svg
   flag_alt: ウルグアイの国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: おすすめプラン一覧
 plans_data:
   7 日:
   - spec: 1GB
@@ -274,7 +276,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: ご利用前の確認事項
   items:
   - icon: 📱
     html: |-
@@ -330,7 +332,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. よくある質問
     questions:
     - q: ウルグアイ用eSIMのデータ使用量を確認するには？
       a: アクティベーション後、オンラインのダッシュボードにアクセスできます。そこでデータ残量、残り時間をリアルタイムで確認し、いつでもサポートを依頼できます。
@@ -349,16 +351,22 @@ faq_section:
       a: はい、今すぐ（Wi-Fi経由で）eSIMをインストールできます。アクティベーションは、ウルグアイに到着した際に端末がアンテル / モビスタルのネットワークを初めて検出したときに自動的に行われます。到着時のストレスを軽減できます。
     - q: ウルグアイ用eSIMは近隣諸国での国際ローミングはどうなりますか？
       a: ウルグアイ用eSIMは主にウルグアイ向けに最適化されています。近隣諸国への旅行には、当社のヨーロッパまたは地域別eSIMをお勧めします。これにより追加料金なしでシームレスなローミングが可能です。
-        複数国を周遊する旅行なら、地域別eSIM（ヨーロッパやアジア）を選べば国境を越えるたびに自動でネットワーク切替。追加購入や設定変更の手間がかかりません。海外旅行eSIMの地域別プランなら周遊旅行もスムーズです。
+
     - q: Roamiはウルグアイ以外の地域向けeSIMも提供していますか？
-        事前購入で到着後すぐに使えるRoamiのeSIM。1GBから無制限まで旅行スタイルに合わせて選択でき、追加チャージも簡単です。
+
       a: はい、ウルグアイ用eSIMの他に、ヨーロッパ、アジア、北米、グローバル向けの地域別eSIMも提供しています。複数都市をまたぐ旅行や数カ国を巡るツアーに最適です
         — SIMカードの交換は不要です。
 
     - q: ウルグアイ用eSIMを使用するためにスマートフォンに求められる要件は？
       a: お使いの端末がeSIMに対応している必要があります（iPhone XS/XR以降、Samsung Galaxy S20/Note20以降、Google
         Pixel 3a以降、および最新のHuawei、Xiaomi、OnePlusなどの5G端末）。設定で「eSIMを追加」オプションがあるかご確認ください。
-        Uruguay旅行のデータ通信はRoamiで比較が簡単。無制限プランから1GBまで選べ、QRコードスキャンで即時設定完了。現地最速ネットワークに自動接続し、安定した通信を提供します。
+
+    - q: ウルグアイ旅行で使うeSIMを申し込みたいのですが、手順を教えてください。
+      a: Roamiのウルグアイ用eSIMはすべてオンラインで申し込みできます。手続きに店舗へ行く必要はなく、QRコードを読み込めば到着後すぐに接続できます。
+    - q: 複数人でウルグアイに行く場合、eSIMと現地SIMどちらが安いですか？
+      a: ウルグアイ用eSIMの料金はプランごとに明示されており、現地SIMのような追加チャージは不要です。ウルグアイの現地SIMは本人確認やカード購入の手間がかかり、結果的にコストが高くなりがちです。
+    - q: ウルグアイ用eSIMのデータ減りが早いのですが、対策はありますか？
+      a: ウルグアイ滞在中にデータが不足したら、オンラインで上位のデータプランを購入して切り替えられます。複数のデータプランを同時に持つことはできませんが、購入後はすぐに新しいプランへ切り替わります。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -522,81 +530,80 @@ faq_section:
       a: ウルグアイ用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: ウルグアイ用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        eSIM対応端末をお持ちなら物理SIMより便利。契約不要でプリペイド式、1GBから無制限まで選べる。事前購入がお得でおすすめ。
-        海外旅行のデータ通信はeSIMが便利。ローミングより格安で、対応機種ならQRコードで即時設定完了。事前購入で到着後すぐ接続。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にウルグアイ用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
+  - name: ウズベキスタン eSIM
+    flag: img/flags/uz.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
+    slug: uzbekistan-esim
+  - name: バチカン市国 eSIM
+    flag: img/flags/va.svg
+    price: 10.99ドルから
+    is_highlight: false
+    slug: vatican-city-esim
+  - name: ベトナム eSIM
+    flag: img/flags/vn.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
+    slug: vietnam-esim
+  - name: ザンビア eSIM
+    flag: img/flags/za.svg
+    price: 11.99ドルから
+    is_highlight: false
+    slug: zambia-esim
+  - name: スロベニア eSIM
+    flag: img/flags/sl.svg
+    price: 1.99ドルから
+    is_highlight: false
+    slug: slovenia-esim
+  - name: ヨーロッパ eSIM
     flag: img/flags/eu.svg
     price: 1.99ドルから
-    is_highlight: true
+    is_highlight: false
     slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
+  - name: アフガニスタン eSIM
+    flag: img/flags/af.svg
+    price: 11.99ドルから
+    is_highlight: false
+    slug: afghanistan-esim
+  - name: アルバニア eSIM
+    flag: img/flags/al.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: 1.99ドルから
+    slug: albania-esim
+  - name: アルジェリア eSIM
+    flag: img/flags/dz.svg
+    price: 3.99ドルから
     is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
+    slug: algeria-esim
+  - name: アンドラ eSIM
+    flag: img/flags/ad.svg
+    price: 6.99ドルから
+    is_highlight: true
+    slug: andorra-esim
+  - name: アルゼンチン eSIM
+    flag: img/flags/ar.svg
+    price: 3.99ドルから
     is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
+    slug: argentina-esim
+  - name: アルメニア eSIM
+    flag: img/flags/am.svg
+    price: 7.99ドルから
     is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+    slug: armenia-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "ウルグアイでeSIMとプリペイドSIMを直接比較"
   subtitle: "ウルグアイの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Uruguay) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Uruguay"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -670,4 +677,3 @@ market_analysis:
         title: "即時アクティベーションで時間節約"
         desc: "Antelの店舗ではパスポート提示と購入に30分以上かかることがあります。Roami eSIMはオンラインで<b>1分以内</b>にアクティベーション完了。"
 ---
-        海外旅行のデータ通信はeSIMが便利。ローミングより格安で、対応機種ならQRコードで即時設定完了。事前購入で到着後すぐ接続。

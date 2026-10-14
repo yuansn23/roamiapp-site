@@ -1,6 +1,6 @@
 ---
 title: 'eSIM موريشيوس 2026: دليل السفر الكامل | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM موريشيوس | بيانات 5G مسبقة الدفع للبدو الرقميين"
   description: أفضل eSIM سفر مدفوعة مسبقًا من Roami لموريشيوس. بيانات غير محدودة 5G مع تفعيل فوري. تغطي بورت لويس وكوريبايب. تفعيل فوري.
-  keywords: eSIM موريشيوس, شراء eSIM موريشيوس, أفضل eSIM موريشيوس, eSIM سفر موريشيوس, Emtel موريشيوس, my.t موريشيوس, Orange موريشيوس, eSIM بورت لويس, eSIM كاتر بورن, eSIM كوريبايب, eSIM موريشيوس مسبقة الدفع, 5G eSIM موريشيوس
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM موريشيوس، شراء eSIM موريشيوس، أفضل eSIM موريشيوس، eSIM موريشيوس رخيصة، eSIM موريشيوس مسبقة الدفع، باقة eSIM موريشيوس، eSIM موريشيوس غير محدودة، eSIM موريشيوس 5G، أفضل eSIM لـ موريشيوس، سعر eSIM موريشيوس، تفعيل eSIM موريشيوس، تغطية eSIM موريشيوس، Emtel موريشيوس، eSIM بورت لويس، eSIM كاتر بورن، eSIM كوريبايب
+  low_price: 7.99
+  high_price: 98.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/ma.svg
   flag_alt: علم موريشيوس
-  title: 'eSIM موريشيوس: حلول بيانات كاملة لرحلتك'
+  title: 'eSIM موريشيوس: بيانات عالية السرعة بأسعار مناسبة'
   subtitle: أفضل eSIM مدفوعة مسبقًا للمسافرين إلى موريشيوس - 5G سريع، تفعيل فوري، دعم 24/7
 features:
-  title: 'لماذا يختار المسافرون إلى موريشيوس Roami: السرعة والتغطية والدعم'
+  title: 'لماذا يختار مسافرو موريشيوس روامي: تفعيل فوري وأسعار واضحة'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات النقل في موريشيوس للحصول على أفضل إشارة
-plans_title: 'شراء eSIM موريشيوس: خطط تناسب كل مدة رحلة'
+plans_title: 'خطط eSIM موريشيوس: تغطية كاملة بسعر مناسب'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -245,7 +245,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM موريشيوس: دليل كامل للشبكات المحلية'
+  title: 'دليل تغطية eSIM موريشيوس: الشبكات والمشغلون'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -276,7 +276,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM موريشيوس: ما يجب معرفته قبل الذهاب'
+  title: 'إعداد eSIM موريشيوس: ما تحتاج تجهيزه مسبقًا'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -295,7 +295,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM موريشيوس: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM موريشيوس: خطوات واضحة وسريعة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -320,12 +320,12 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM موريشيوس
+    title: إجابات لأهم أسئلة eSIM موريشيوس
     questions:
     - q: |
         هل يمكنني الحصول على eSIM لموريشيوس دون إنفاق الكثير؟
       a: |
-        بالتأكيد. تبدأ خطط Roami eSIM موريشيوس من 1.99 دولار. خيار 5 جيجابايت / 15 يومًا (9.99 دولار) هو الأكثر شيوعًا بين المسافرين - فهو يتعامل بشكل مريح مع الخرائط و WhatsApp و Instagram والبريد الإلكتروني. إذا كنت مستخدمًا كثيف البيانات، فإن خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) تمنحك راحة البال. تخطي كاونتر SIM في المطار يوفر لك 30-50٪ ومتاعب الطابور. هل تحتاج إلى تعديل؟ يمكنك شحن الرصيد في أي وقت من تطبيق Roami.
+        بالتأكيد. تبدأ خطط Roami eSIM موريشيوس من 7.99 دولار. خيار 5 جيجابايت / 15 يومًا (21.99 دولار) هو الأكثر شيوعًا بين المسافرين - فهو يتعامل بشكل مريح مع الخرائط و WhatsApp و Instagram والبريد الإلكتروني. إذا كنت مستخدمًا كثيف البيانات، فإن خطط 10 جيجابايت (32.99 دولار) أو غير المحدودة (52.99 دولار) تمنحك راحة البال. تخطي كاونتر SIM في المطار يوفر لك 30-50٪ ومتاعب الطابور. هل تحتاج إلى تعديل؟ يمكنك شحن الرصيد في أي وقت من تطبيق Roami.
     - q: |
         هل يتحول Roami تلقائيًا بين my.t و Emtel و Chili في موريشيوس؟
       a: |
@@ -341,7 +341,7 @@ faq_section:
     - q: |
         هل eSIM أرخص من التجوال الدولي لموريشيوس؟
       a: |
-        نعم - عادة ما تكون Roami eSIM أرخص بنسبة 80-90٪ من خطط التجوال من معظم شركات النقل المنزلية. تبلغ تكلفة خطة 5 جيجابايت لموريشيوس 9.99 دولارًا، بينما يمكن أن تكلف التجوال 50 دولارًا أو أكثر لنفس البيانات. كما تحصل على سرعات شبكة محلية بدلاً من التجوال المخفض.
+        نعم - عادة ما تكون Roami eSIM أرخص بنسبة 80-90٪ من خطط التجوال من معظم شركات النقل المنزلية. تبلغ تكلفة خطة 5 جيجابايت لموريشيوس 21.99 دولارًا، بينما يمكن أن تكلف التجوال 50 دولارًا أو أكثر لنفس البيانات. كما تحصل على سرعات شبكة محلية بدلاً من التجوال المخفض.
     - q: |
         هل يمكنني استخدام eSIM موريشيوس لوسائل التواصل الاجتماعي ومشاركة الصور مع العائلة؟
       a: |
@@ -354,55 +354,67 @@ faq_section:
         سأصل إلى موريشيوس في وقت متأخر من الليل. هل سأتمكن من الاتصال بالإنترنت فورًا؟
       a: |
         نعم. إذا قمت بتثبيت eSIM قبل المغادرة، ستكون متصلاً بالإنترنت في غضون دقيقتين من الهبوط. قم بتمكين تجوال البيانات، ويلتقط هاتفك شبكة my.t تلقائيًا. بدون طوابير، بدون أوراق، بدون البحث عن كشك SIM في منتصف الليل.
+    - q: |
+        كم يستغرق شراء eSIM موريشيوس؟
+      a: |
+        يمكن شراء eSIM موريشيوس قبل السفر أو بعده. بعد الوصول إلى موريشيوس، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        أيّهما أرخص في موريشيوس، eSIM أم بطاقة SIM المحلية؟
+      a: |
+        في موريشيوس يتطلب شراء بطاقة SIM المحلية تسجيلًا في المتجر، لذا غالبًا يكون eSIM أوفر. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        هل يعمل eSIM موريشيوس بدون تعبئة؟
+      a: |
+        eSIM موريشيوس بنظام مسبق الدفع، ويمكن شراء باقة إضافية من التطبيق عند نقص البيانات. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM ذات الصلة
+  title: وجهات إضافية بخطط eSIM مناسبة لـ موريشيوس
   items:
-  - name: eSIM الولايات المتحدة
+  - name: eSIM سيشل
+    flag: img/flags/sc.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM الولايات المتحدة الأمريكية
     flag: img/flags/us.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM كوستاريكا
+    flag: img/flags/cr.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM روسيا
+    flag: img/flags/ru.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM المالديف
+    flag: img/flags/mv.svg
+    price: من 14.99 دولار
+    is_highlight: false
+  - name: eSIM الإمارات
+    flag: img/flags/ae.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM ألبانيا
+    flag: img/flags/al.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM سويسرا
+    flag: img/flags/ch.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM بورتوريكو
+    flag: img/flags/pu.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM كرواتيا
+    flag: img/flags/hr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
+  - name: eSIM سلوفينيا
+    flag: img/flags/sl.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM هندوراس
+    flag: img/flags/hn.svg
+    price: من 6.99 دولار
     is_highlight: false
 ---

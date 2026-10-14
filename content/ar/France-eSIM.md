@@ -1,6 +1,6 @@
 ---
 title: 'eSIM فرنسا 2026 - أفضل خطة 5G لباريس وبروفانس | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM فرنسا - أفضل خطة بيانات غير محدودة للمستكشفين"
   description: "أفضل eSIM مدفوعة مسبقاً لفرنسا مع 5G على أورانج وإس إف آر وبوويغ. تفعيل فوري عبر رمز QR بدون هوية. من 1.99 دولار. اشترِ خطتك الآن."
-  keywords: eSIM فرنسا، شراء eSIM فرنسا، أفضل eSIM فرنسا، eSIM السفر إلى فرنسا، أورانج فرنسا، إس إف آر فرنسا، بوويغ تيليكوم فرنسا، eSIM باريس، eSIM مرسيليا، eSIM ليون، eSIM فرنسا مسبقة الدفع، 5G eSIM فرنسا، eSIM بروفانس، eSIM الريفيرا الفرنسية
+  keywords: eSIM فرنسا، شراء eSIM فرنسا، أفضل eSIM فرنسا، eSIM فرنسا رخيصة، eSIM فرنسا مسبقة الدفع، باقة eSIM فرنسا، eSIM فرنسا غير محدودة، eSIM فرنسا 5G، أفضل eSIM لـ فرنسا، سعر eSIM فرنسا، تفعيل eSIM فرنسا، تغطية eSIM فرنسا، أورانج فرنسا، eSIM باريس، eSIM مرسيليا، eSIM ليون
   low_price: 1.99
-  high_price: 39.9
+  high_price: 70.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/fr.svg
   flag_alt: علم فرنسا
-  title: 'eSIM فرنسا: 5G في باريس وبروفانس وما وراءها — لا حاجة لهوية'
+  title: 'eSIM فرنسا: بيانات موثوقة طوال رحلتك'
   subtitle: لا حاجة لهوية | 5G على أورانج وإس إف آر وبوويغ | لا هدر في 31 يوماً | تسليم QR فوري
 features:
-  title: 'لماذا يختار مسافرو فرنسا روامي: التغطية، السرعة والخدمة'
+  title: ما يميز Roami للمسافرين إلى فرنسا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائياً بشبكات أورانج وإس إف آر وبوويغ للحصول على أفضل إشارة في جميع أنحاء فرنسا
-plans_title: 'شراء eSIM فرنسا: خطط تناسب كل مدة سفر'
+plans_title: 'خطط eSIM فرنسا: من رحلة قصيرة إلى إقامة طويلة'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -285,7 +285,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM فرنسا: دليل شبكات أورانج وإس إف آر وبوويغ'
+  title: 'تغطية eSIM فرنسا: أين تحصل على أفضل إشارة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -316,7 +316,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM فرنسا: ما يجب معرفته قبل الذهاب'
+  title: 'نصائح eSIM فرنسا: جهّز اتصالك قبل الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -337,7 +337,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM فرنسا: 3 خطوات بسيطة'
+  title: 'تركيب eSIM فرنسا: من الشراء إلى الاتصال'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -362,7 +362,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM فرنسا
+    title: استفسارات شائعة عن eSIM فرنسا
     questions:
     - q: |
         هل حقاً لا أحتاج إلى جواز سفر أو هوية لـ eSIM فرنسا من روامي؟
@@ -400,63 +400,75 @@ faq_section:
         هل يمكنني شحن eSIM فرنسا إذا نفدت البيانات؟
       a: |
         نعم — يمكنك الشحن من خلال حساب روامي الخاص بك في أي وقت. على عكس بطاقات SIM الفرنسية المدفوعة مسبقاً ذات عمليات الشحن المعقدة (تتطلب إس إف آر بطاقات أوروبية مزودة بشريحة، لا تسمح بوويغ بالشحن للتجوال)، يمنحك روامي مرونة كاملة لإضافة البيانات بنقرة واحدة. لا حاجة لشراء SIM جديدة أو زيارة متجر.
+    - q: |
+        هل يجب أن أشتري eSIM فرنسا قبل المغادرة؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        هل تُفرض رسوم إضافية على أسعار eSIM فرنسا؟
+      a: |
+        بما أنك تختار الحجم المناسب، يكون eSIM أقل هدرًا للمال في فرنسا. بطاقات SIM المحلية في فرنسا تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        هل تكفي بيانات eSIM لإقامة طويلة في فرنسا؟
+      a: |
+        eSIM فرنسا بنظام مسبق الدفع، ويمكن شراء باقة إضافية من التطبيق عند نقص البيانات. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM فرنسا ذات الصلة
+  title: وجهات مرتبطة بـ فرنسا وخططها
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM هولندا
+    flag: img/flags/nl.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM زامبيا
+    flag: img/flags/za.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM مدينة الفاتيكان
+    flag: img/flags/va.svg
+    price: من 10.99 دولار
+    is_highlight: false
+  - name: eSIM الدنمارك
+    flag: img/flags/dk.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM فنلندا
+    flag: img/flags/fi.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM ساحل العاج
+    flag: img/flags/ci.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM السنغال
+    flag: img/flags/se.svg
+    price: من 12.99 دولار
+    is_highlight: false
+  - name: eSIM باراغواي
+    flag: img/flags/py.svg
+    price: من 22.99 دولار
+    is_highlight: false
+  - name: eSIM جورجيا
+    flag: img/flags/ge.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM المكسيك
+    flag: img/flags/mx.svg
+    price: من 3.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM ماليزيا
+    flag: img/flags/my.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM سنغافورة
+    flag: img/flags/sg.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM فرنسا مقابل SIM المدفوعة مسبقاً: مقارنة التكلفة والراحة – أفضل eSIM للمسافرين إلى فرنسا'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقاً في فرنسا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (فرنسا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/France
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - SIM محلية مسبقة الدفع (بيانات السوق)

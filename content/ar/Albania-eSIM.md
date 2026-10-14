@@ -1,6 +1,6 @@
 ---
 title: 'ألبانيا eSIM 2026: دليل السفر والشبكة | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: 'ألبانيا eSIM: بيانات عالية السرعة 5G، بدون رسوم تجوال'
   description: "قارن خطط ألبانيا eSIM مع 5G سريع في تيرانا ودوريس وفلورا. تغطية فودافون وتيليكوم وون ألبانيا. تفعيل فوري عبر QR من 1.99 دولار."
-  keywords: ألبانيا eSIM, شراء ألبانيا eSIM, أفضل ألبانيا eSIM, ألبانيا eSIM للسفر, فودافون ألبانيا ألبانيا, تيليكوم ألبانيا ألبانيا, ون ألبانيا ألبانيا, تيرانا eSIM, دوريس eSIM, فلورا eSIM, ألبانيا eSIM مسبقة الدفع, 5G ألبانيا eSIM
+  keywords: eSIM ألبانيا، شراء eSIM ألبانيا، أفضل eSIM ألبانيا، eSIM ألبانيا رخيصة، eSIM ألبانيا مسبقة الدفع، باقة eSIM ألبانيا، eSIM ألبانيا غير محدودة، eSIM ألبانيا 5G، أفضل eSIM لـ ألبانيا، سعر eSIM ألبانيا، تفعيل eSIM ألبانيا، تغطية eSIM ألبانيا، فودافون ألبانيا ألبانيا، eSIM تيرانا، eSIM دوريس، eSIM فلورا
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/al.svg
   flag_alt: علم ألبانيا
-  title: 'ألبانيا eSIM: شبكة موثوقة وتغطية للمسافرين'
+  title: 'eSIM ألبانيا: حلول بيانات كاملة لرحلتك'
   subtitle: تفعيل فوري | تغطية 5G الأعلى تقييمًا | دعم 24/7 - أفضل eSIM مسبقة الدفع لألبانيا
 features:
-  title: 'لماذا يختار مسافرو ألبانيا Roami: الشبكة، الخطط، والقيمة'
+  title: 'لماذا يختار المسافرون إلى ألبانيا Roami: التغطية والسرعة والخدمة'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل شركات الاتصال في ألبانيا للحصول على أفضل إشارة
-plans_title: 'شراء ألبانيا eSIM: خطط لكل مدة رحلة'
+plans_title: 'شراء eSIM ألبانيا: خطط تناسب كل مدة سفر'
 plans_data:
   30 Days:
   - spec: 20 جيجابايت
@@ -269,7 +269,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية ألبانيا eSIM: تغطية الشبكة ومقارنة المشغلين'
+  title: 'تغطية eSIM ألبانيا: تغطية الشبكة ومقارنة المشغلين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -300,7 +300,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد ألبانيا eSIM: ما يجب معرفته قبل الذهاب'
+  title: 'نصائح إعداد eSIM ألبانيا: ما يجب معرفته قبل الذهاب'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -319,7 +319,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت ألبانيا eSIM: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM ألبانيا: ثلاث خطوات فقط'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -344,12 +344,12 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول ألبانيا eSIM
+    title: أسئلة يتكرر طرحها عن eSIM ألبانيا
     questions:
     - q: |
         هل يمكنني الحصول على eSIM لألبانيا دون إنفاق الكثير؟
       a: |
-        بالتأكيد. تبدأ خطط Roami لألبانيا eSIM من 1.99 دولار فقط. خيار 5 جيجابايت / 15 يومًا (9.99 دولار) هو الأكثر شيوعًا بين المسافرين - فهو يتعامل بشكل مريح مع الخرائط وWhatsApp وInstagram والبريد الإلكتروني. إذا كنت مستخدمًا كثيفًا للبيانات، فإن خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) تمنحك راحة البال. توفير 30-50٪ وتجنب عناء الطوابير في كاونتر SIM بالمطار. هل تحتاج إلى تعديل؟ يمكنك إعادة الشحن في أي وقت من تطبيق Roami.
+        بالتأكيد. تبدأ خطط Roami لألبانيا eSIM من 1.99 دولار فقط. خيار 5 جيجابايت / 15 يومًا (9.99 دولار) هو الأكثر شيوعًا بين المسافرين - فهو يتعامل بشكل مريح مع الخرائط وWhatsApp وInstagram والبريد الإلكتروني. إذا كنت مستخدمًا كثيفًا للبيانات، فإن خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (78.99 دولار) تمنحك راحة البال. توفير 30-50٪ وتجنب عناء الطوابير في كاونتر SIM بالمطار. هل تحتاج إلى تعديل؟ يمكنك إعادة الشحن في أي وقت من تطبيق Roami.
     - q: |
         السياح الذين يزورون ألبانيا - أي شبكة تقدم أفضل تجربة؟
       a: |
@@ -378,63 +378,75 @@ faq_section:
         ما هي أسهل طريقة للبقاء على اتصال في ألبانيا دون التعامل مع أكشاك SIM في المطار؟
       a: |
         eSIM هو الحل. اشترِ عبر الإنترنت، واحصل على رمز QR عبر البريد الإلكتروني، وقم بتثبيته في دقيقتين. تجنب طابور المطار. يتصل Roami بـ فودافون للحصول على تغطية موثوقة. تظل بطاقة SIM المنزلية نشطة لتلقي الرسائل النصية القصيرة. إنها الطريقة الأبسط للبقاء على اتصال.
+    - q: |
+        كيف أشتري eSIM ألبانيا قبل رحلتي؟
+      a: |
+        يمكن شراء eSIM ألبانيا من Roami بالكامل عبر الإنترنت. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        لمجموعة مسافرين إلى ألبانيا، أيّهما أوفر، eSIM أم بطاقة SIM المحلية؟
+      a: |
+        أسعار eSIM ألبانيا معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. بطاقات SIM المحلية في ألبانيا تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        بيانات eSIM تنفد بسرعة، فهل هناك نصائح؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في ألبانيا، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط ألبانيا eSIM ذات الصلة
+  title: باقات eSIM مرتبطة برحلتك إلى ألبانيا
   items:
-  - name: الولايات المتحدة eSIM
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
+  - name: eSIM الفلبين
+    flag: img/flags/ph.svg
+    price: من 2.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أوروبا eSIM
-    flag: img/flags/eu.svg
+  - name: eSIM ليتوانيا
+    flag: img/flags/lt.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: كندا eSIM
-    flag: img/flags/ca.svg
+  - name: eSIM الجزائر
+    flag: img/flags/dz.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM جمهورية الدومينيكان
+    flag: img/flags/do.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM البحرين
+    flag: img/flags/bh.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM البوسنة والهرسك
+    flag: img/flags/ba.svg
+    price: من 30.99 دولار
+    is_highlight: false
+  - name: eSIM لاتفيا
+    flag: img/flags/lv.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: تركيا eSIM
-    flag: img/flags/tr.svg
+  - name: eSIM مصر
+    flag: img/flags/eg.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM أيرلندا
+    flag: img/flags/ie.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: الصين eSIM
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM منغوليا
+    flag: img/flags/mo.svg
+    price: من 9.99 دولار
     is_highlight: false
-  - name: اليابان eSIM
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
+  - name: eSIM الهند
+    flag: img/flags/in.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: هونغ كونغ eSIM
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: فرنسا eSIM
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: إسبانيا eSIM
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: ألمانيا eSIM
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أستراليا eSIM
-    flag: img/flags/au.svg
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'ألبانيا eSIM مقابل بطاقة SIM مسبقة الدفع: هل يستحق التبديل؟'
   subtitle: بطاقات SIM المحلية مسبقة الدفع في ألبانيا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (ألبانيا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Albania
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - SIM محلية مسبقة الدفع (بيانات السوق)

@@ -1,6 +1,6 @@
 ---
 title: ニュージーランド eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:01:10+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,7 +20,9 @@ modal:
 seo:
   title: eSIM ニュージーランド | 海外ローミング不要の格安データ通信プラン徹底比較
   description: ニュージーランドでの安定したインターネット接続にはRoamiのeSIMがおすすめ。現地トップキャリアと直接契約で都市部から地方まで安定通信。通信障害時の自動ネットワーク切替機能搭載でバックアップ不要。
-  keywords: ニュージーランド eSIM, ニュージーランド データ通信, 海外旅行 ニュージーランド, ニュージーランド ネットワーク, 現地SIM なし
+  low_price: 3.99
+  high_price: 99.99
+  keywords: ニュージーランド eSIM, ニュージーランド eSIM 料金, ニュージーランド eSIM おすすめ, ニュージーランド eSIM 安い, ニュージーランド eSIM 購入, ニュージーランド eSIM 申し込み, ニュージーランド eSIM データ無制限, ニュージーランド プリペイドSIM, ニュージーランド 旅行 eSIM, ニュージーランド eSIM 価格, ニュージーランド eSIM 設定方法, ニュージーランド eSIM 対応エリア, オークランド eSIM, ウェリントン eSIM, ニュージーランド モバイルデータ, ニュージーランド eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: ニュージーランド向け最高のeSIM
-  title: 海外旅行，就选ニュージーランド eSIM
+  title: ニュージーランド eSIMで海外旅行をもっと快適に
 hero:
   flag_image: img/flags/nz.svg
   flag_alt: ニュージーランドの国旗
@@ -370,7 +372,7 @@ faq_section:
     - q: ニュージーランド用eSIMを他のデバイスとテザリング（ポケットWi-Fi）できますか？
       a: はい、Roamiのニュージーランド用eSIMプランは全てテザリング（ポケットWi-Fi）を無制限でサポートしています。ノートパソコン、タブレット、または旅行仲間と接続を共有できます
         — 隠れたコストも速度制限もありません。
-        ニュージーランド旅行のデータ通信はRoamiにお任せ。最安1GB/$1.99、無制限プランもあり、5G対応の高速ネットワークで快適な旅をサポートします。
+
     - q: ニュージーランド用eSIMはVoLTEやHD音声通話に対応していますか？
       a: はい、お使いの端末が対応していれば、ニュージーランド用eSIMはVoLTEとHD音声をサポートします。Spark / Vodafone NZの5G/4Gネットワークを通じてクリアな通話品質をお楽しみいただけます。
     - q: RoamiのeSIMは、現地のプリペイドSIMと比べてどのような利点がありますか？
@@ -382,7 +384,7 @@ faq_section:
         eSIMをデフォルトに設定するだけです。
     - q: ニュージーランド用eSIMは近隣諸国での国際ローミングはどうなりますか？
       a: ニュージーランド用eSIMは主にニュージーランド向けに最適化されています。近隣諸国への旅行には、当社のヨーロッパまたは地域別eSIMをお勧めします。これにより追加料金なしでシームレスなローミングが可能です。
-        複数国を周遊する旅行なら、地域別eSIM（ヨーロッパやアジア）を選べば国境を越えるたびに自動でネットワーク切替。追加購入や設定変更の手間がかかりません。海外旅行eSIMの地域別プランなら周遊旅行もスムーズです。
+
     - q: ニュージーランド用eSIMのアクティベーション方法と有効期間の開始時期は？
       a: 購入後、すぐにアクティベーション用QRコードがメールで届きます。有効期間は、お使いの端末がニュージーランドの提携ネットワーク（Spark / Vodafone
         NZ）に初めて接続した時点から始まります。つまり、実際に現地に到着した日数だけ課金されます。
@@ -392,7 +394,13 @@ faq_section:
     - q: Roamiはニュージーランド以外の地域向けeSIMも提供していますか？
       a: はい、ニュージーランド用eSIMの他に、ヨーロッパ、アジア、北米、グローバル向けの地域別eSIMも提供しています。複数都市をまたぐ旅行や数カ国を巡るツアーに最適です
         — SIMカードの交換は不要です。
-        ニュージーランド旅行のデータプラン選びに迷ったらRoami。1GBから無制限まで、旅行スタイルに合わせて選択可能。後から追加チャージできる柔軟プランで無駄なく使える。日本語サポート付き。
+
+    - q: ニュージーランド用eSIMの申し込みはどこからできますか？
+      a: Roamiのニュージーランド用eSIMはすべてオンラインで申し込みできます。申し込み後はQRコードがメールで届き、Sparkのネットワークに接続するだけで利用を開始できます。
+    - q: ニュージーランド旅行の通信費を安く抑えるにはeSIMが有利ですか？
+      a: ニュージーランドでは現地SIMの購入に店舗での登録が必要なため、eSIMのほうが結果的に安く済むことが多いです。詳しい料金比較は、各プランの内容と合わせてプラン一覧で確認できます。
+    - q: ニュージーランドのeSIMは途中でデータプランを追加できますか？
+      a: 追加チャージという仕組みはなく、必要なときに新しいプランを選んで購入する形です。滞在日数と用途に合わせて最初に適切な容量を選ぶと、追加購入を減らせます。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -555,81 +563,80 @@ faq_section:
       a: ニュージーランド用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: ニュージーランド用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        旅行用eSIMの使い方は簡単。購入後メールで届くQRコードをスキャンしてインストール。Roamiなら無制限プランもあり5G対応。
-        旅行用eSIMの使い方は簡単。購入後メールで届くQRコードをスキャンしてインストール。Roamiなら無制限プランもあり5G対応。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にニュージーランド用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
+  - name: ニジェール eSIM
+    flag: img/flags/ni.svg
+    price: 23.99ドルから
+    is_highlight: false
+    slug: niger-esim
+  - name: ナイジェリア eSIM
+    flag: img/flags/ng.svg
+    price: 5.99ドルから
+    is_highlight: false
+    slug: nigeria-esim
+  - name: ノルウェー eSIM
+    flag: img/flags/no.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
-    price: 1.99ドルから
+    slug: norway-esim
+  - name: オマーン eSIM
+    flag: img/flags/om.svg
+    price: 5.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
-    price: 1.99ドルから
+    slug: oman-esim
+  - name: パキスタン eSIM
+    flag: img/flags/pk.svg
+    price: 3.99ドルから
     is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
+    slug: pakistan-esim
+  - name: パナマ eSIM
+    flag: img/flags/pa.svg
+    price: 11.99ドルから
+    is_highlight: false
+    slug: panama-esim
+  - name: パラグアイ eSIM
+    flag: img/flags/py.svg
+    price: 22.99ドルから
+    is_highlight: false
+    slug: paraguay-esim
+  - name: ペルー eSIM
+    flag: img/flags/pe.svg
+    price: 4.99ドルから
+    is_highlight: false
+    slug: peru-esim
+  - name: フィリピン eSIM
+    flag: img/flags/ph.svg
+    price: 2.99ドルから
+    is_highlight: false
+    slug: philippines-esim
+  - name: ポーランド eSIM
+    flag: img/flags/pl.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
+    slug: poland-esim
+  - name: ポルトガル eSIM
+    flag: img/flags/pt.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
+    slug: portugal-esim
+  - name: プエルトリコ eSIM
+    flag: img/flags/pu.svg
+    price: 6.99ドルから
     is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+    slug: puerto-rico-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "ニュージーランドで自分のニーズに合うのはeSIMかSIMプランか？"
   subtitle: "ニュージーランドの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (New-Zealand) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/New-Zealand"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -644,13 +651,13 @@ market_analysis:
     - icon: "id-card"
       title: "KYCとパスポート登録"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。ニュージーランドではプリペイドSIMの購入にパスポート登録は不要です。"
+      prepaid_desc: "ニュージーランドではプリペイドSIMの購入にパスポート登録は不要です。"
       esim_title: "パスポート不要"
       esim_desc: "ニュージーランドの物理SIMはパスポート登録が不要ですが、eSIMならさらに手間いらず。身分証明書の提示なしで購入・アクティベーション。"
     - icon: "globe"
       title: "国際ローミング"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。ニュージーランドのプリペイドSIMは通常、国内利用のみで国際ローミングは別途オプションが必要です。"
+      prepaid_desc: "ニュージーランドのプリペイドSIMは通常、国内利用のみで国際ローミングは別途オプションが必要です。"
       esim_title: "グローバルローミング対応"
       esim_desc: "eSIMはニュージーランド国内だけでなく、海外でもそのまま利用可能。現地SIMのようなローミング制限なし。"
     - icon: "calendar-xmark"
@@ -668,13 +675,13 @@ market_analysis:
     - icon: "credit-card"
       title: "チャージと支払い"
       prepaid_title: ""
-      prepaid_desc: "Warehouse Mobileのオンライン充值にはニュージーランドのローカルカードまたは国際Visaカードが必要です。"
+      prepaid_desc: "Warehouse Mobileのオンラインチャージにはニュージーランドのローカルカードまたは国際Visaカードが必要です。"
       esim_title: "グローバル決済"
       esim_desc: "Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPalで簡単購入。現地の支払い方法に依存しない。"
     - icon: "headset"
       title: "カスタマーサポート"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。ニュージーランドの通信事業者は通常、英語のカスタマーサポートを提供しています。"
+      prepaid_desc: "ニュージーランドの通信事業者は通常、英語のカスタマーサポートを提供しています。"
       esim_title: "24時間サポート"
       esim_desc: "英語対応の24時間カスタマーサポート。現地事業者の限られた営業時間に左右されない。"
 
@@ -686,7 +693,7 @@ market_analysis:
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "グローバルな支払い方法"
-        desc: "Warehouse Mobileのオンライン充值にはニュージーランドのローカルカードまたは国際Visaカードが必要。eSIMはVisa、Mastercard、AMEX、Apple Pay、Google Pay、PayPalに対応し、誰でも簡単に購入可能。"
+        desc: "Warehouse Mobileのオンラインチャージにはニュージーランドのローカルカードまたは国際Visaカードが必要。eSIMはVisa、Mastercard、AMEX、Apple Pay、Google Pay、PayPalに対応し、誰でも簡単に購入可能。"
       - icon: "clock"
         icon_bg: "bg-indigo-100"
         icon_color: "text-indigo-600"

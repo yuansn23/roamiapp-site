@@ -1,6 +1,6 @@
 ---
 title: 'eSIM إيطاليا - 5G في روما والبندقية | بدون Codice Fiscale | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM إيطاليا - خطة 5G مسبقة الدفع بدون Codice Fiscale"
   description: "أفضل eSIM إيطاليا مع 5G على تي آي إم وفودافون وويند تري. لا حاجة لـ Codice Fiscale. تغطي روما والبندقية وفلورنسا. من 1.99 دولار."
-  keywords: eSIM إيطاليا، شراء eSIM إيطاليا، أفضل eSIM إيطاليا، eSIM السفر إلى إيطاليا، تي آي إم إيطاليا، فودافون إيطاليا، ويند تري إيطاليا، eSIM روما، eSIM ميلانو، eSIM البندقية، eSIM إيطاليا مسبقة الدفع، 5G eSIM إيطاليا، eSIM إيطاليا بدون رمز ضريبي
+  keywords: eSIM إيطاليا، شراء eSIM إيطاليا، أفضل eSIM إيطاليا، eSIM إيطاليا رخيصة، eSIM إيطاليا مسبقة الدفع، باقة eSIM إيطاليا، eSIM إيطاليا غير محدودة، eSIM إيطاليا 5G، أفضل eSIM لـ إيطاليا، سعر eSIM إيطاليا، تفعيل eSIM إيطاليا، تغطية eSIM إيطاليا، تي آي إم إيطاليا، eSIM روما، eSIM ميلانو، eSIM نابولي
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/it.svg
   flag_alt: علم إيطاليا
-  title: 'eSIM إيطاليا: 5G في روما والبندقية وما وراءها — بدون Codice Fiscale، بدون جواز سفر'
+  title: 'eSIM إيطاليا: اتصال سلس من لحظة الوصول'
   subtitle: 5G على تي آي إم وفودافون وويند تري | لا حاجة للرمز الضريبي الإيطالي | دعم 24/7
 features:
-  title: 'لماذا يختار مسافرو إيطاليا روامي: التغطية، التوفير وعدم متاعب الرمز الضريبي'
+  title: مزايا eSIM إيطاليا من روامي
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +73,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: جاهز للقطارات فائقة السرعة
     desc: ابق على اتصال على قطارات Frecciarossa و Italo بين روما وفلورنسا والبندقية وميلانو
-plans_title: 'شراء eSIM إيطاليا: خطط تناسب كل مدة سفر'
+plans_title: 'باقات eSIM إيطاليا: خيارات يومية وشهرية'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -289,7 +289,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM إيطاليا: دليل 5G من تي آي إم وفودافون وويند تري — من روما إلى البندقية'
+  title: 'تغطية eSIM إيطاليا: المشغلون وجودة الشبكة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -320,7 +320,7 @@ network_coverage:
       coverage: تغطية 5G حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM إيطاليا: ما يجب معرفته قبل الذهاب'
+  title: 'قبل السفر إلى إيطاليا: نصائح تفعيل eSIM'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -347,7 +347,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM إيطاليا: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM إيطاليا: دليل سريع للمسافرين'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -372,7 +372,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM إيطاليا
+    title: أكثر ما يُسأل عن eSIM إيطاليا
     questions:
     - q: |
         ما هو Codice Fiscale ولماذا يمثل مشكلة للسياح الذين يشترون SIM في إيطاليا؟
@@ -389,7 +389,7 @@ faq_section:
     - q: |
         لماذا تمتلك بطاقات SIM الإيطالية دورات فوترة مدتها 28 يوماً؟ هل هذا هدر للرحلات القصيرة؟
       a: |
-        نعم — يستخدم معظم المشغلين الإيطاليين <strong>دورات فوترة مدتها 28 يوماً</strong> (وليس شهراً تقويمياً). تكلف TIM Tourist 30 يورو لـ 15 جيجابايت/30 يوماً. تستخدم فودافون دورات 28 يوماً (13 فاتورة في السنة). إذا كنت تزور لمدة 7 أيام، فأنت تدفع ثمن <strong>21-23 يوماً لا تستخدمها (هدر 75%+)</strong>. تقدم روامي خططاً لمدة 3 و7 و15 و30 يوماً — تدفع <strong>فقط مقابل مدة رحلتك الفعلية</strong>. يمكن أن تكلف رحلة لمدة 7 أيام مع روامي 2.99 دولار فقط مقابل 30 يورو في تي آي إم، مع صفر أيام مهدرة.
+        نعم — يستخدم معظم المشغلين الإيطاليين <strong>دورات فوترة مدتها 28 يوماً</strong> (وليس شهراً تقويمياً). تكلف TIM Tourist 30 يورو لـ 15 جيجابايت/30 يوماً. تستخدم فودافون دورات 28 يوماً (13 فاتورة في السنة). إذا كنت تزور لمدة 7 أيام، فأنت تدفع ثمن <strong>21-23 يوماً لا تستخدمها (هدر 75%+)</strong>. تقدم روامي خططاً لمدة 3 و7 و15 و30 يوماً — تدفع <strong>فقط مقابل مدة رحلتك الفعلية</strong>. يمكن أن تكلف رحلة لمدة 7 أيام مع روامي 13.99 دولار فقط مقابل 30 يورو في تي آي إم، مع صفر أيام مهدرة.
     - q: |
         هل ستعمل eSIM الخاصة بي على القطارات فائقة السرعة بين روما وفلورنسا والبندقية وميلانو؟
       a: |
@@ -410,63 +410,75 @@ faq_section:
         متى تبدأ فترة صلاحية eSIM إيطاليا الخاصة بي؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في إيطاليا، وليس عند الشراء أو التثبيت. لذلك يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة. تمنحك خطة 7 أيام 7 أيام كاملة من أول اتصال.
+    - q: |
+        هل شراء eSIM إيطاليا متاح عبر الإنترنت؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. بعد الوصول إلى إيطاليا، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        أيّهما أرخص في إيطاليا، eSIM أم بطاقة SIM المطار؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM إيطاليا شبكة محلية مباشرة (تي آي إم) فيكون أوفر. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        هل يمكن إدارة بيانات eSIM إيطاليا من التطبيق؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في إيطاليا، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM إيطاليا ذات الصلة
+  title: باقات مقترحة لتوسيع رحلتك خارج إيطاليا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM مالطا
+    flag: img/flags/mt.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM الإكوادور
+    flag: img/flags/ec.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM باهاماس
+    flag: img/flags/bs.svg
+    price: من 16.99 دولار
+    is_highlight: false
+  - name: eSIM أيسلندا
+    flag: img/flags/is.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM أوكرانيا
+    flag: img/flags/uk.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM الكونغو (كينشاسا)
+    flag: img/flags/cg.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM تشاد
+    flag: img/flags/td.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM الغابون
+    flag: img/flags/ga.svg
+    price: من 14.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
   - name: eSIM تركيا
     flag: img/flags/tr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
+  - name: eSIM صربيا
+    flag: img/flags/se.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+  - name: eSIM ليختنشتاين
+    flag: img/flags/li.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM غوادلوب
+    flag: img/flags/gp.svg
+    price: من 8.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM إيطاليا مقابل SIM المحلية: بدون Codice Fiscale، بدون هدر 28 يوماً، بدون رفض بطاقة'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقاً في إيطاليا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (إيطاليا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Italy
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - SIM محلية مسبقة الدفع (بيانات السوق)

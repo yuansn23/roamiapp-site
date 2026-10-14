@@ -1,6 +1,6 @@
 ---
 title: 'بولندا eSIM - 5G في وارسو وكراكوف | بدون KYC جواز سفر | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "بولندا eSIM - أفضل خطة بيانات 5G غير محدودة لرحلتك"
   description: "أفضل بولندا eSIM مع 5G على بلاي وأورنج وتي-موبايل. لا حاجة لتسجيل جواز سفر. تغطي وارسو وكراكوف وغدانسك. من 1.99 دولار. وخطط مرنة."
-  keywords: بولندا eSIM, شراء بولندا eSIM, أفضل بولندا eSIM, بولندا eSIM للسفر, بلاي بولندا, أورنج بولندا, تي-موبايل بولندا, وارسو eSIM, كراكوف eSIM, غدانسك eSIM, بولندا eSIM مسبقة الدفع, 5G بولندا eSIM, بولندا eSIM بدون جواز سفر
+  keywords: eSIM بولندا، شراء eSIM بولندا، أفضل eSIM بولندا، eSIM بولندا رخيصة، eSIM بولندا مسبقة الدفع، باقة eSIM بولندا، eSIM بولندا غير محدودة، eSIM بولندا 5G، أفضل eSIM لـ بولندا، سعر eSIM بولندا، تفعيل eSIM بولندا، تغطية eSIM بولندا، بلاي بولندا، eSIM وارسو، eSIM كراكوف، eSIM غدانسك
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/pl.svg
   flag_alt: علم بولندا
-  title: 'بولندا eSIM: 5G في وارسو وكراكوف وما وراءها — بدون جواز سفر'
+  title: 'eSIM بولندا: اتصال موثوق في كل مدينة'
   subtitle: 5G على بلاي وأورنج وتي-موبايل | بدون تسجيل جواز سفر | دعم 24/7
 features:
-  title: 'لماذا يختار المسافرون إلى بولندا Roami: التغطية والتوفير وعدم متاعب KYC'
+  title: 'ميزات Roami: تغطية قوية ودعم على مدار الساعة في بولندا'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +73,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: جاهز للمدينة القديمة والساحل
     desc: 4G/5G في جميع أنحاء وارسو وكراكوف وغدانسك ومالبورك وجميع الطرق السياحية الرئيسية
-plans_title: 'شراء بولندا eSIM: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM بولندا: مرونة كاملة بدون أيام مهدرة'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -291,7 +291,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية بولندا eSIM: دليل 5G من بلاي وأورنج وتي-موبايل — من وارسو إلى غدانسك'
+  title: 'eSIM بولندا: تغطية 5G والمشغلين المحليين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -322,7 +322,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد بولندا eSIM: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM بولندا: نصائح سريعة قبل بدء الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -347,7 +347,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت بولندا eSIM: 3 خطوات بسيطة'
+  title: 'eSIM بولندا: دليل التركيب والتفعيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -372,7 +372,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول بولندا eSIM
+    title: أسئلة الزوار الشائعة عن eSIM بولندا
     questions:
     - q: |
         لماذا لا يمكن للسياح شراء بطاقة SIM بولندية عبر الإنترنت أو في المطار؟
@@ -398,63 +398,75 @@ faq_section:
         متى تبدأ فترة صلاحية eSIM بولندا الخاصة بي؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في بولندا، وليس عند الشراء أو التثبيت. لذا يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة. تمنحك خطة الـ 7 أيام 7 أيام كاملة من أول اتصال.
+    - q: |
+        هل يمكنني شراء eSIM بولندا في يوم السفر؟
+      a: |
+        يمكن شراء eSIM بولندا قبل السفر أو بعده. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        كم يمكن توفيره باستخدام eSIM في بولندا؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM بولندا شبكة محلية مباشرة (بلاي) فيكون أوفر. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        هل يمكنني البدء بباقة صغيرة ثم زيادتها لاحقًا في بولندا؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط بولندا eSIM ذات الصلة
+  title: باقات eSIM أخرى قد تهمك مع بولندا
   items:
-  - name: الولايات المتحدة eSIM
-    flag: img/flags/us.svg
+  - name: eSIM موريشيوس
+    flag: img/flags/ma.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM مولدوفا
+    flag: img/flags/mo.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أوروبا eSIM
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM فيجي
+    flag: img/flags/fj.svg
+    price: من 6.99 دولار
     is_highlight: true
-  - name: كندا eSIM
-    flag: img/flags/ca.svg
+  - name: eSIM تايوان
+    flag: img/flags/tw.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: تركيا eSIM
-    flag: img/flags/tr.svg
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: الصين eSIM
-    flag: img/flags/cn.svg
+  - name: eSIM غرينادا
+    flag: img/flags/gd.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM غانا
+    flag: img/flags/gh.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM إيسواتيني
+    flag: img/flags/sz.svg
+    price: من 19.99 دولار
+    is_highlight: false
+  - name: eSIM قبرص
+    flag: img/flags/cy.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM لاوس
+    flag: img/flags/la.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM قطر
+    flag: img/flags/qa.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: اليابان eSIM
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: هونغ كونغ eSIM
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: فرنسا eSIM
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: إسبانيا eSIM
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: ألمانيا eSIM
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أستراليا eSIM
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM كوسوفو
+    flag: img/flags/xk.svg
+    price: من 13.99 دولار
     is_highlight: false
 market_analysis:
   title: 'بولندا eSIM مقابل بطاقة SIM المحلية: لا زيارة متجر، لا تخفيض 66% لبيانات الاتحاد الأوروبي'
   subtitle: 'بطاقات SIM المحلية المدفوعة مسبقًا في بولندا مقابل حلول eSIM (معيار 2024/2025)'
   citation:
-    text: 'مصدر البيانات: ويكي بطاقة بيانات SIM المدفوعة مسبقًا (بولندا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Poland
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

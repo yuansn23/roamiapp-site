@@ -1,6 +1,6 @@
 ---
 title: 'eSIM ليختنشتاين 2026: دليل السفر والشبكات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM ليختنشتاين: بيانات 5G غير محدودة لجبال الألب"
   description: "قارن خطط eSIM في ليختنشتاين مع 5G سريع في فادوز وشان وبالزرز. تغطية Swisscom و Salt. تفعيل فوري عبر QR من 1.99 دولار. وخطط مرنة."
-  keywords: eSIM ليختنشتاين, شراء eSIM ليختنشتاين, أفضل eSIM ليختنشتاين, eSIM سفر ليختنشتاين, Swisscom ليختنشتاين, Telecom Liechtenstein ليختنشتاين, Salt ليختنشتاين, eSIM فادوز, eSIM شان, eSIM بالزرز, eSIM مدفوع مسبق ليختنشتاين, 5G eSIM ليختنشتاين
+  keywords: eSIM ليختنشتاين، شراء eSIM ليختنشتاين، أفضل eSIM ليختنشتاين، eSIM ليختنشتاين رخيصة، eSIM ليختنشتاين مسبقة الدفع، باقة eSIM ليختنشتاين، eSIM ليختنشتاين غير محدودة، eSIM ليختنشتاين 5G، أفضل eSIM لـ ليختنشتاين، سعر eSIM ليختنشتاين، تفعيل eSIM ليختنشتاين، تغطية eSIM ليختنشتاين، Swisscom ليختنشتاين، eSIM فادوز، eSIM شان، eSIM بالزرز
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/li.svg
   flag_alt: علم ليختنشتاين
-  title: 'eSIM ليختنشتاين: شبكة موثوقة وتغطية للمسافرين'
+  title: 'eSIM ليختنشتاين: بيانات 5G سريعة لكل مدينة ووجهة'
   subtitle: تفعيل فوري | تغطية 5G الأعلى تقييمًا | دعم 24/7 - أفضل eSIM مدفوع مسبق ليختنشتاين
 features:
-  title: 'لماذا يختار المسافرون إلى ليختنشتاين Roami: الشبكة، الخطط والقيمة'
+  title: 'لماذا يختار المسافرون إلى ليختنشتاين Roami: السرعة والتغطية والدعم'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -293,7 +293,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM ليختنشتاين: مقارنة التغطية والمشغل'
+  title: 'تغطية eSIM ليختنشتاين: دليل كامل للشبكات المحلية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -324,7 +324,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM ليختنشتاين: ما يجب معرفته قبل الذهاب'
+  title: 'نصائح إعداد eSIM ليختنشتاين: ما يجب معرفته قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -385,7 +385,7 @@ faq_section:
     - q: |
         ما هو خيار eSIM الأكثر شيوعًا للمسافرين إلى ليختنشتاين؟
       a: |
-        يختار معظم المسافرين إلى ليختنشتاين خطة 5 جيجابايت / 15 يومًا (9.99 دولار). إنها كافية للملاحة اليومية ووسائل التواصل الاجتماعي والرسائل. للإقامات الأطول أو الاستخدام الأكثر كثافة، تعد خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) خيارات رائعة. يتم تفعيل جميع الخطط في دقائق وتشمل دعمًا 24/7.
+        يختار معظم المسافرين إلى ليختنشتاين خطة 5 جيجابايت / 15 يومًا (9.99 دولار). إنها كافية للملاحة اليومية ووسائل التواصل الاجتماعي والرسائل. للإقامات الأطول أو الاستخدام الأكثر كثافة، تعد خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (77.99 دولار) خيارات رائعة. يتم تفعيل جميع الخطط في دقائق وتشمل دعمًا 24/7.
     - q: |
         ماذا يحدث إذا استنفدت كل بياناتي في ليختنشتاين قبل انتهاء صلاحية خطتي؟
       a: |
@@ -402,63 +402,75 @@ faq_section:
         ما المضمن عند شراء eSIM ليختنشتاين من Roami؟
       a: |
         تسليم رمز QR في غضون 5 دقائق، والوصول إلى شبكة Swisscom، ودعم العملاء 24/7، ونقطة اتصال مجانية لما يصل إلى 5 أجهزة. تبدأ الخطط من 1.99 دولار. بدون عقود، أو رسوم خفية، أو تجديد تلقائي.
+    - q: |
+        من أين يمكنني شراء eSIM ليختنشتاين؟
+      a: |
+        يمكن شراء eSIM ليختنشتاين من Roami بالكامل عبر الإنترنت. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة Swisscom لتبدأ الاستخدام فورًا.
+    - q: |
+        هل يوفر eSIM تكلفة الاتصال في ليختنشتاين؟
+      a: |
+        في ليختنشتاين يتطلب شراء بطاقة SIM المحلية تسجيلًا في المتجر، لذا غالبًا يكون eSIM أوفر. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل يمكنني إضافة باقة بيانات أثناء الإقامة في ليختنشتاين؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM ذات الصلة ليختنشتاين
+  title: خطط eSIM ذات صلة بـ ليختنشتاين
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM إيطاليا
+    flag: img/flags/it.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM موزمبيق
+    flag: img/flags/mo.svg
+    price: من 14.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM طاجيكستان
+    flag: img/flags/tj.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM جامايكا
+    flag: img/flags/jm.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM باكستان
+    flag: img/flags/pk.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM أذربيجان
+    flag: img/flags/az.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM مدغشقر
+    flag: img/flags/mg.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM غيانا
+    flag: img/flags/gy.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM البرتغال
+    flag: img/flags/pt.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM أرمينيا
+    flag: img/flags/am.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM لوكسمبورغ
+    flag: img/flags/lu.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM سيشل
+    flag: img/flags/sc.svg
+    price: من 9.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM ليختنشتاين مقابل بطاقة SIM المدفوعة مسبقًا: شرح الاختلافات الرئيسية'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في ليختنشتاين مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (Liechtenstein) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Liechtenstein
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

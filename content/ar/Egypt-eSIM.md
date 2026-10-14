@@ -1,6 +1,6 @@
 ---
 title: 'مصر eSIM - 4G/5G في القاهرة والأقصر | لا حاجة لجواز السفر | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: تم ترقية خدمة eSIM لدينا إلى <strong>PhoneSIM</strong>.<br>يحصل العملاء الجدد على خصم 20%، رمز الخصم:web20
 seo:
   title: "eSIM مصر - بيانات 5G غير محدودة مسبقة الدفع لرحلتك"
-  description: "أفضل eSIM لمصر مع 4G/5G على Orange و Vodafone و Etisalat. لا حاجة لجواز سفر. تغطي القاهرة والجيزة والأقصر. من 1.99 دولار."
-  keywords: eSIM مصر، شراء eSIM مصر، أفضل eSIM مصر، eSIM سفر مصر، Orange مصر، Vodafone مصر، Etisalat مصر، eSIM القاهرة، eSIM الإسكندرية، eSIM الأقصر، eSIM مسبق الدفع مصر، eSIM أهرامات الجيزة، eSIM مصر بدون جواز سفر
-  low_price: 1.99
-  high_price: 39.9
+  description: "أفضل eSIM لمصر مع 4G/5G على Orange و Vodafone و Etisalat. لا حاجة لجواز سفر. تغطي القاهرة والجيزة والأقصر. من 2.99 دولار."
+  keywords: eSIM مصر، شراء eSIM مصر، أفضل eSIM مصر، eSIM مصر رخيصة، eSIM مصر مسبقة الدفع، باقة eSIM مصر، eSIM مصر غير محدودة، eSIM مصر 5G، أفضل eSIM لـ مصر، سعر eSIM مصر، تفعيل eSIM مصر، تغطية eSIM مصر، Orange مصر، eSIM القاهرة، eSIM الإسكندرية، eSIM الأقصر
+  low_price: 2.99
+  high_price: 94.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/eg.svg
   flag_alt: علم مصر
-  title: 'eSIM مصر: 4G/5G في القاهرة والأقصر وما بعدها — لا حاجة لجواز السفر'
+  title: 'eSIM مصر: إنترنت سريع بدون تعقيدات'
   subtitle: 4G/5G على Orange و Vodafone و Etisalat | لا حاجة لجواز السفر/عنوان الفندق | دعم 24/7
 features:
-  title: 'لماذا يختار مسافرو مصر Roami: التغطية، القيمة والثقة'
+  title: ميزات خدمة Roami في مصر
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +73,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: VoIP و WhatsApp غير محظورين
     desc: تمنع مصر مكالمات WhatsApp على الشبكات المحلية — يتجاوز Roami هذا الحظر
-plans_title: 'شراء eSIM مصر: خطط لكل مدة رحلة'
+plans_title: 'خطط eSIM مصر: باقات مصممة للمسافرين'
 plans_data:
   3 أيام:
   - spec: 1GB
@@ -265,7 +265,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'المدة: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM مصر: دليل Orange و Vodafone و Etisalat 4G/5G'
+  title: 'eSIM مصر: خريطة التغطية ونصائح الاتصال'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -296,7 +296,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM مصر: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM مصر: تذكيرات الإعداد قبل الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -323,7 +323,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على الشاشة، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM مصر: 3 خطوات بسيطة'
+  title: 'eSIM مصر: دليل التثبيت في 3 خطوات'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -348,7 +348,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM مصر
+    title: أسئلة أساسية عن eSIM مصر
     questions:
     - q: |
         لماذا لا أستطيع شراء بطاقة SIM في مطار القاهرة؟ سمعت أشياء سيئة.
@@ -394,63 +394,75 @@ faq_section:
         متى تبدأ فترة صلاحية eSIM مصر الخاصة بي؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في مصر، وليس عند الشراء أو التثبيت. لذا يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة. تمنحك خطة 7 أيام 7 أيام كاملة من أول اتصال.
+    - q: |
+        هل يمكن استخدام كود خصم عند شراء eSIM مصر؟
+      a: |
+        يتيح Roami شراء eSIM مصر من التطبيق أو الموقع. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        هل eSIM مصر أوفر للرحلات القصيرة؟
+      a: |
+        أسعار eSIM مصر معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        كيف تختلف طريقة التعبئة بين eSIM وبطاقة SIM المحلية في مصر؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في مصر، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM ذات الصلة لمصر
+  title: خطط eSIM لوجهات قد تجمعها مع مصر
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
+  - name: eSIM كينيا
+    flag: img/flags/ke.svg
+    price: من 7.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM إسرائيل
+    flag: img/flags/il.svg
+    price: من 2.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM بربادوس
+    flag: img/flags/bb.svg
+    price: من 11.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM جنوب إفريقيا
+    flag: img/flags/za.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM أفغانستان
+    flag: img/flags/af.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM ليبيريا
+    flag: img/flags/lr.svg
+    price: من 27.99 دولار
+    is_highlight: false
+  - name: eSIM اليونان
+    flag: img/flags/gr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
+  - name: eSIM هولندا
+    flag: img/flags/nl.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+  - name: eSIM مدينة الفاتيكان
+    flag: img/flags/va.svg
+    price: من 10.99 دولار
+    is_highlight: false
+  - name: eSIM الدنمارك
+    flag: img/flags/dk.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM فنلندا
+    flag: img/flags/fi.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM مصر مقابل بطاقة SIM المحلية المدفوعة مسبقًا: لا جواز سفر، لا ضريبة 30%'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في مصر مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM المدفوعة مسبقًا (مصر) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Egypt
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

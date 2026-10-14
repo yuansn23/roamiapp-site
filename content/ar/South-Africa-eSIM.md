@@ -1,6 +1,6 @@
 ---
 title: 'eSIM جنوب إفريقيا 2026: دليل المدن والشبكات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM جنوب إفريقيا | تغطية 5G سريعة، بدون رسوم تجوال"
   description: "أفضل eSIM مدفوع مسبق للسفر من Roami إلى جنوب إفريقيا. بيانات 5G غير محدودة. تغطي كيب تاون وجوهانسبرغ. تفعيل فوري. اشترِ خطتك الآن."
-  keywords: eSIM جنوب إفريقيا, شراء eSIM جنوب إفريقيا, أفضل eSIM جنوب إفريقيا, eSIM سفر جنوب إفريقيا, Vodacom جنوب إفريقيا, MTN جنوب إفريقيا, Cell C جنوب إفريقيا, eSIM جوهانسبرغ, eSIM كيب تاون, eSIM ديربان, eSIM مدفوع مسبق جنوب إفريقيا, 5G eSIM جنوب إفريقيا
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM جنوب إفريقيا، شراء eSIM جنوب إفريقيا، أفضل eSIM جنوب إفريقيا، eSIM جنوب إفريقيا رخيصة، eSIM جنوب إفريقيا مسبقة الدفع، باقة eSIM جنوب إفريقيا، eSIM جنوب إفريقيا غير محدودة، eSIM جنوب إفريقيا 5G، أفضل eSIM لـ جنوب إفريقيا، سعر eSIM جنوب إفريقيا، تفعيل eSIM جنوب إفريقيا، تغطية eSIM جنوب إفريقيا، Vodacom جنوب إفريقيا، eSIM جوهانسبرغ، eSIM كيب تاون، eSIM ديربان
+  low_price: 3.99
+  high_price: 94.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/za.svg
   flag_alt: علم جنوب إفريقيا
-  title: 'eSIM جنوب إفريقيا: بيانات 5G سريعة لكل مدينة ووجهة'
+  title: 'eSIM جنوب إفريقيا: إنترنت سريع بدون هوية أو انتظار'
   subtitle: تفعيل فوري | تغطية 5G الأعلى تقييمًا | دعم 24/7 - أفضل eSIM مدفوع مسبق لجنوب إفريقيا
 features:
-  title: 'لماذا يختار المسافرون إلى جنوب إفريقيا Roami: الشبكة، الخطط والقيمة'
+  title: مزايا Roami للمسافرين إلى جنوب إفريقيا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي جنوب إفريقيا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM جنوب إفريقيا: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM جنوب إفريقيا: أسعار واضحة لكل رحلة'
 plans_data:
   30 يوم:
   - spec: 20 جيجابايت
@@ -269,7 +269,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM جنوب إفريقيا: مقارنة التغطية والمشغل'
+  title: 'eSIM جنوب إفريقيا: نظرة على التغطية والمشغلين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -300,7 +300,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM جنوب إفريقيا: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM جنوب إفريقيا: أمور يجب ترتيبها قبل الوصول'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -319,7 +319,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM جنوب إفريقيا: 3 خطوات بسيطة'
+  title: 'إعداد eSIM جنوب إفريقيا: دليل التركيب خطوة بخطوة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -344,12 +344,12 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM جنوب إفريقيا
+    title: أسئلة المسافرين حول eSIM جنوب إفريقيا
     questions:
     - q: |
         هل يمكنني الحصول على eSIM لجنوب إفريقيا دون إنفاق الكثير؟
       a: |
-        بالتأكيد. تبدأ خطط Roami eSIM جنوب إفريقيا من 1.99 دولار. خيار 5 جيجابايت / 15 يومًا (9.99 دولار) هو الأكثر شيوعًا بين المسافرين — يتعامل بشكل مريح مع الخرائط و WhatsApp و Instagram والبريد الإلكتروني. إذا كنت مستخدمًا كثيف البيانات، فإن خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) تمنحك راحة البال. تخطي كشك SIM في المطار يوفر لك 30-50٪ ومتاعب الطابور. هل تحتاج إلى تعديل؟ يمكنك الشحن في أي وقت من تطبيق Roami.
+        بالتأكيد. تبدأ خطط Roami eSIM جنوب إفريقيا من 3.99 دولار. خيار 5 جيجابايت / 15 يومًا (10.99 دولار) هو الأكثر شيوعًا بين المسافرين — يتعامل بشكل مريح مع الخرائط و WhatsApp و Instagram والبريد الإلكتروني. إذا كنت مستخدمًا كثيف البيانات، فإن خطط 10 جيجابايت (17.99 دولار) أو غير المحدودة (94.99 دولار) تمنحك راحة البال. تخطي كشك SIM في المطار يوفر لك 30-50٪ ومتاعب الطابور. هل تحتاج إلى تعديل؟ يمكنك الشحن في أي وقت من تطبيق Roami.
     - q: |
         كيف يقارن Roami بـ Saily لـ eSIM في جنوب إفريقيا؟
       a: |
@@ -361,7 +361,7 @@ faq_section:
     - q: |
         أنا مسافر إلى جنوب إفريقيا لمدة 2-3 أيام فقط. ما هو eSIM الذي يجب أن أحصل عليه؟
       a: |
-        لرحلة قصيرة، تغطي خطة 1 جيجابايت / 7 أيام (1.99 دولار) الخرائط والرسائل. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (4.99 دولار) تعطيك مساحة أكبر للتنفس. يتم تفعيل كلاهما فورًا ويمكنك الشحن إذا لزم الأمر.
+        لرحلة قصيرة، تغطي خطة 1 جيجابايت / 7 أيام (3.99 دولار) الخرائط والرسائل. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (7.99 دولار) تعطيك مساحة أكبر للتنفس. يتم تفعيل كلاهما فورًا ويمكنك الشحن إذا لزم الأمر.
     - q: |
         ماذا لو حذفت eSIM جنوب إفريقيا الخاص بي عن طريق الخطأ قبل رحلتي؟
       a: |
@@ -369,7 +369,7 @@ faq_section:
     - q: |
         ماذا لو كان فندقي في جنوب إفريقيا يوفر WiFi مجاني — هل ما زلت بحاجة إلى بيانات eSIM؟
       a: |
-        يعمل WiFi الفندق في غرفتك ولكن ليس عندما تكون بالخارج تستكشف. يمنحك eSIM البيانات في كل مكان — التنقل في الشوارع، البحث عن الأماكن القريبة، التحقق من جداول النقل. تبلغ تكلفة خطة 5 جيجابايت 9.99 دولار، وهو غالبًا أرخص من WiFi الفندق المدفوع لمدة أسبوع (10-15 دولارًا في العديد من الفنادق). يستخدم معظم المسافرين WiFi الفندق للتنزيلات الكبيرة و eSIM للاتصال أثناء التنقل.
+        يعمل WiFi الفندق في غرفتك ولكن ليس عندما تكون بالخارج تستكشف. يمنحك eSIM البيانات في كل مكان — التنقل في الشوارع، البحث عن الأماكن القريبة، التحقق من جداول النقل. تبلغ تكلفة خطة 5 جيجابايت 10.99 دولار، وهو غالبًا أرخص من WiFi الفندق المدفوع لمدة أسبوع (10-15 دولارًا في العديد من الفنادق). يستخدم معظم المسافرين WiFi الفندق للتنزيلات الكبيرة و eSIM للاتصال أثناء التنقل.
     - q: |
         ماذا يحدث إذا توقف eSIM جنوب إفريقيا الخاص بي عن العمل في منتصف الرحلة؟
       a: |
@@ -378,63 +378,75 @@ faq_section:
         هل يعمل WhatsApp و FaceTime مع eSIM في جنوب إفريقيا؟
       a: |
         نعم — جميع التطبيقات القائمة على البيانات تعمل بشكل مثالي عبر eSIM. تستخدم مكالمات WhatsApp حوالي 1 ميجابايت في الدقيقة للصوت و 5-8 ميجابايت في الدقيقة للفيديو. FaceTime و Zoom و Google Maps و Instagram — كل شيء يعمل عبر اتصال بيانات eSIM بدون قيود. تتعامل شبكة Vodacom مع مكالمات الفيديو بسلاسة. توفر خطة 5 جيجابايت حوالي 500 ساعة من مكالمات WhatsApp الصوتية أو 10 ساعات من فيديو FaceTime.
+    - q: |
+        هل يمكنني شراء eSIM جنوب إفريقيا من هاتفي؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة Vodacom لتبدأ الاستخدام فورًا.
+    - q: |
+        كيف يتغير سعر eSIM جنوب إفريقيا حسب حجم البيانات؟
+      a: |
+        أسعار eSIM جنوب إفريقيا معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل يمكن ترحيل البيانات المتبقية إلى اليوم التالي؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في جنوب إفريقيا، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM ذات الصلة لجنوب إفريقيا
+  title: باقات eSIM إضافية لرحلة جنوب إفريقيا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM جنوب شرق آسيا
+    flag: img/flags/ya.webp
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM ملاوي
+    flag: img/flags/mw.svg
+    price: من 14.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM دومينيكا
+    flag: img/flags/dm.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM بنغلاديش
+    flag: img/flags/bd.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM السلفادور
+    flag: img/flags/sv.svg
+    price: من 23.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM كوريا الجنوبية
+    flag: img/flags/kr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
+  - name: eSIM رومانيا
+    flag: img/flags/ro.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
+  - name: eSIM جبل طارق
+    flag: img/flags/gi.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM جمهورية التشيك
+    flag: img/flags/cz.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+  - name: eSIM إندونيسيا
+    flag: img/flags/id.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
+  - name: eSIM تشيلي
+    flag: img/flags/cl.svg
+    price: من 4.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM غواتيمالا
+    flag: img/flags/gt.svg
+    price: من 11.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM جنوب إفريقيا مقابل بطاقة SIM المدفوعة مسبقًا: أيهما يقدم قيمة أفضل؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في جنوب إفريقيا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (South-Africa) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/South-Africa
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

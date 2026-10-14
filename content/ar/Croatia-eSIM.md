@@ -1,6 +1,6 @@
 ---
 title: 'eSIM كرواتيا 2026: دليل سفر شامل | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM كرواتيا | أفضل بيانات 5G غير محدودة لرحلتك الآن"
   description: "أفضل eSIM سفر مدفوعة مسبقًا لكرواتيا من Roami. بيانات 5G غير محدودة على الساحل والداخل. تغطي دوبروفنيك وسبليت وزغرب. وخطط مرنة."
-  keywords: eSIM كرواتيا، شراء eSIM كرواتيا، أفضل eSIM كرواتيا، eSIM سفر كرواتيا، هرافاتسكي تيليكوم كرواتيا، إيه1 هرافاتسكا كرواتيا، تيلي2 كرواتيا، eSIM زغرب، eSIM سبليت، eSIM دوبروفنيك، eSIM مدفوعة مسبقًا كرواتيا، eSIM 5G كرواتيا
+  keywords: eSIM كرواتيا، شراء eSIM كرواتيا، أفضل eSIM كرواتيا، eSIM كرواتيا رخيصة، eSIM كرواتيا مسبقة الدفع، باقة eSIM كرواتيا، eSIM كرواتيا غير محدودة، eSIM كرواتيا 5G، أفضل eSIM لـ كرواتيا، سعر eSIM كرواتيا، تفعيل eSIM كرواتيا، تغطية eSIM كرواتيا، هرافاتسكي تيليكوم كرواتيا، eSIM زغرب، eSIM سبليت، eSIM دوبروفنيك
   low_price: 1.99
-  high_price: 39.9
+  high_price: 76.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/hr.svg
   flag_alt: علم كرواتيا
-  title: 'eSIM كرواتيا: حلول بيانات كاملة لرحلتك'
+  title: 'eSIM كرواتيا: بيانات عالية السرعة بأسعار مناسبة'
   subtitle: أفضل eSIM مدفوعة مسبقًا للمسافرين إلى كرواتيا - 5G سريع، تفعيل فوري، دعم 24/7
 features:
-  title: 'لماذا يختار المسافرون إلى كرواتيا Roami: السرعة والتغطية والدعم'
+  title: 'لماذا يختار مسافرو كرواتيا روامي: تفعيل فوري وأسعار واضحة'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي كرواتيا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM كرواتيا: خطط لكل مدة رحلة'
+plans_title: 'خطط eSIM كرواتيا: تغطية كاملة بسعر مناسب'
 plans_data:
   30 يومًا:
   - spec: 20 جيجابايت
@@ -295,7 +295,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM كرواتيا: دليل كامل للشبكات المحلية'
+  title: 'دليل تغطية eSIM كرواتيا: الشبكات والمشغلون'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -326,7 +326,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM كرواتيا: ما يجب معرفته قبل السفر'
+  title: 'إعداد eSIM كرواتيا: ما تحتاج تجهيزه مسبقًا'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -346,7 +346,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM كرواتيا: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM كرواتيا: خطوات واضحة وسريعة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -371,7 +371,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM كرواتيا
+    title: إجابات لأهم أسئلة eSIM كرواتيا
     questions:
     - q: |
         هل من الآمن تحميل جواز سفري لتسجيل eSIM كرواتيا؟ أنا قلق بشأن الخصوصية.
@@ -380,7 +380,7 @@ faq_section:
     - q: |
         هل ستبطئ خطة eSIM غير المحدودة في كرواتيا إذا استخدمت كمية كبيرة من البيانات؟
       a: |
-        هناك سياسة استخدام عادل: تنخفض السرعة بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح - فقط لا يمكنك مشاهدة الفيديو بسلاسة. في الواقع، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقًا، فإن خطة ثابتة 10 جيجابايت (14.99 دولار) أو 20 جيجابايت (24.99 دولار) تزيل عدم اليقين تمامًا.
+        هناك سياسة استخدام عادل: تنخفض السرعة بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح - فقط لا يمكنك مشاهدة الفيديو بسلاسة. في الواقع، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقًا، فإن خطة ثابتة 10 جيجابايت (14.99 دولار) أو 20 جيجابايت (20.99 دولار) تزيل عدم اليقين تمامًا.
     - q: |
         أحتاج إلى اتصال إنترنت لبضعة أيام فقط في كرواتيا. ما هو أقل شيء يمكنني شراؤه؟
       a: |
@@ -405,63 +405,75 @@ faq_section:
         هل أحتاج إلى إزالة بطاقة SIM الفعلية لاستخدام eSIM في كرواتيا؟
       a: |
         إطلاقًا. تبقى بطاقتك الفعلية في الفتحة 1. تعمل eSIM بجانبها في الفتحة 2. استخدم بطاقتك المنزلية للرسائل القصيرة والمكالمات، و eSIM للبيانات. تدعم أكثر من 80% من الهواتف من عام 2020 هذا الإعداد المزدوج.
+    - q: |
+        كم يستغرق شراء eSIM كرواتيا؟
+      a: |
+        يمكن شراء eSIM كرواتيا قبل السفر أو بعده. بعد الوصول إلى كرواتيا، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        أيّهما أرخص في كرواتيا، eSIM أم بطاقة SIM المحلية؟
+      a: |
+        في كرواتيا يتطلب شراء بطاقة SIM المحلية تسجيلًا في المتجر، لذا غالبًا يكون eSIM أوفر. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        هل يعمل eSIM كرواتيا بدون تعبئة؟
+      a: |
+        eSIM كرواتيا بنظام مسبق الدفع، ويمكن شراء باقة إضافية من التطبيق عند نقص البيانات. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM ذات الصلة بكرواتيا
+  title: وجهات إضافية بخطط eSIM مناسبة لـ كرواتيا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM مالي
+    flag: img/flags/ml.svg
+    price: من 27.99 دولار
+    is_highlight: false
+  - name: eSIM بلغاريا
+    flag: img/flags/bg.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM جزر فارو
+    flag: img/flags/fo.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM النمسا
+    flag: img/flags/at.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM فيتنام
+    flag: img/flags/vn.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بيرو
+    flag: img/flags/pe.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM كازاخستان
+    flag: img/flags/kz.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM كينيا
+    flag: img/flags/ke.svg
+    price: من 7.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM إسرائيل
+    flag: img/flags/il.svg
+    price: من 2.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM بربادوس
+    flag: img/flags/bb.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM جنوب إفريقيا
+    flag: img/flags/za.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM أفغانستان
+    flag: img/flags/af.svg
+    price: من 11.99 دولار
     is_highlight: false
 market_analysis:
   title: 'مقارنة eSIM كرواتيا ببطاقة SIM المحلية المدفوعة مسبقًا: أيهما أكثر راحة؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في كرواتيا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM للبيانات المدفوعة مسبقًا (كرواتيا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Croatia
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

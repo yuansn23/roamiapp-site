@@ -1,6 +1,6 @@
 ---
 title: 'eSIM قبرص 2026: دليل المشغلين والتغطية | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,9 @@ modal:
 seo:
   title: eSIM قبرص | أفضل خطة بيانات مدفوعة مسبقًا لرحلتك
   description: "أفضل eSIM سفر مدفوعة مسبقًا من Roami لقبرص. بيانات 5G غير محدودة في الجزيرة. تغطي نيقوسيا وليماسول وبافوس. تفعيل فوري. وخطط مرنة."
-  keywords: eSIM قبرص، شراء eSIM قبرص، أفضل eSIM قبرص، eSIM سفر قبرص، سيتا قبرص، برايم تيل قبرص، إيبيك قبرص،
-    eSIM نيقوسيا، eSIM ليماسول، eSIM لارنكا، eSIM مدفوعة مسبقًا قبرص، eSIM 5G قبرص
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM قبرص، شراء eSIM قبرص، أفضل eSIM قبرص، eSIM قبرص رخيصة، eSIM قبرص مسبقة الدفع، باقة eSIM قبرص، eSIM قبرص غير محدودة، eSIM قبرص 5G، أفضل eSIM لـ قبرص، سعر eSIM قبرص، تفعيل eSIM قبرص، تغطية eSIM قبرص، سيتا قبرص، eSIM نيقوسيا، eSIM ليماسول، eSIM لارنكا
+  low_price: 2.99
+  high_price: 77.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -41,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/cy.svg
   flag_alt: علم قبرص
-  title: 'eSIM قبرص: ابقَ على اتصال أينما تذهب'
+  title: 'eSIM قبرص: تفعيل فوري وتغطية واسعة'
   subtitle: تفعيل فوري | تغطية 5G من الدرجة الأولى | دعم 24/7 - أفضل eSIM مدفوعة مسبقًا لقبرص
 features:
-  title: 'لماذا يختار المسافرون إلى قبرص Roami: الشبكة والخطط والقيمة'
+  title: ما يجعل eSIM قبرص من روامي مميزًا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي قبرص للحصول على أفضل إشارة
-plans_title: 'شراء eSIM قبرص: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM قبرص: من 3 أيام إلى 30 يومًا'
 plans_data:
   30 يومًا:
   - spec: 20 جيجابايت
@@ -296,7 +295,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM قبرص: مقارنة التغطية والمشغلين'
+  title: 'eSIM قبرص: أين تعمل الشبكة وكيف'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -327,7 +326,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM قبرص: ما يجب معرفته قبل السفر'
+  title: 'eSIM قبرص: نصائح عملية قبل المغادرة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -347,7 +346,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM قبرص: 3 خطوات بسيطة'
+  title: 'eSIM قبرص: كيف تبدأ في ثلاث خطوات'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -372,7 +371,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM قبرص
+    title: أسئلة عملية عن eSIM قبرص
     questions:
     - q: |
         هل من الآمن تحميل جواز سفري لتسجيل eSIM قبرص؟ أنا قلق بشأن الخصوصية.
@@ -381,7 +380,7 @@ faq_section:
     - q: |
         هل يمكنني الحصول على eSIM لقبرص دون إنفاق الكثير؟
       a: |
-        بالتأكيد. تبدأ خطط Roami eSIM لقبرص من 1.99 دولار. خيار 5 جيجابايت / 15 يومًا (9.99 دولار) هو الأكثر شيوعًا بين المسافرين — فهو يتعامل بشكل مريح مع الخرائط وواتساب وإنستغرام والبريد الإلكتروني. إذا كنت مستخدمًا كثيفًا للبيانات، فإن خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) تمنحك راحة البال. تخطي كشك SIM في المطار يوفر لك 30-50% ومتاعب الطوابير. هل تحتاج إلى تعديل؟ يمكنك الشحن الإضافي في أي وقت من تطبيق Roami.
+        بالتأكيد. تبدأ خطط Roami eSIM لقبرص من 2.99 دولار. خيار 5 جيجابايت / 15 يومًا (9.99 دولار) هو الأكثر شيوعًا بين المسافرين — فهو يتعامل بشكل مريح مع الخرائط وواتساب وإنستغرام والبريد الإلكتروني. إذا كنت مستخدمًا كثيفًا للبيانات، فإن خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (77.99 دولار) تمنحك راحة البال. تخطي كشك SIM في المطار يوفر لك 30-50% ومتاعب الطوابير. هل تحتاج إلى تعديل؟ يمكنك الشحن الإضافي في أي وقت من تطبيق Roami.
     - q: |
         هل أحتاج إلى إزالة بطاقة SIM الفعلية لاستخدام eSIM في قبرص؟
       a: |
@@ -393,7 +392,7 @@ faq_section:
     - q: |
         ما هو اختيار eSIM الأكثر شيوعًا للمسافرين إلى قبرص؟
       a: |
-        يختار معظم المسافرين إلى قبرص خطة 5 جيجابايت / 15 يومًا (9.99 دولار). إنها كافية للملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة. للإقامات الأطول أو الاستخدام الأثقل، تعتبر خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) خيارات رائعة. يتم تفعيل جميع الخطط في دقائق وتتضمن دعمًا 24/7.
+        يختار معظم المسافرين إلى قبرص خطة 5 جيجابايت / 15 يومًا (9.99 دولار). إنها كافية للملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة. للإقامات الأطول أو الاستخدام الأثقل، تعتبر خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (77.99 دولار) خيارات رائعة. يتم تفعيل جميع الخطط في دقائق وتتضمن دعمًا 24/7.
     - q: |
         ماذا لو حذفت eSIM قبرص عن طريق الخطأ قبل رحلتي؟
       a: |
@@ -406,63 +405,75 @@ faq_section:
         ماذا يحدث إذا توقف eSIM قبرص عن العمل في منتصف الرحلة؟
       a: |
         أولاً، حاول إعادة تشغيل هاتفك وتمكين تجوال البيانات. تحل معظم المشكلات في غضون دقيقتين. إذا لم يحدث ذلك، فاختر مشغلًا يدويًا في إعدادات الشبكة. يمكن لفريق الدعم 24/7 من Roami المساعدة إذا استمرت المشكلات.
+    - q: |
+        ما أفضل وقت لشراء eSIM قبرص قبل الرحلة؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM قبرص عبر الإنترنت. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة سيتا لتبدأ الاستخدام فورًا.
+    - q: |
+        أيّهما أرخص في قبرص، eSIM أم التجوال الدولي؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في قبرص أسهل. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل يحتاج eSIM قبرص إلى تعبئة إضافية؟
+      a: |
+        عند نفاد بيانات eSIM قبرص يمكنك إضافة باقة بيانات جديدة من نفس الحساب. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM ذات الصلة بقبرص
+  title: خطط eSIM مقترحة لوجهات مشابهة لـ قبرص
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM بلغاريا
+    flag: img/flags/bg.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM جزر فارو
+    flag: img/flags/fo.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM النمسا
+    flag: img/flags/at.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM فيتنام
+    flag: img/flags/vn.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بيرو
+    flag: img/flags/pe.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM كازاخستان
+    flag: img/flags/kz.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM كينيا
+    flag: img/flags/ke.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM إسرائيل
+    flag: img/flags/il.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM بربادوس
+    flag: img/flags/bb.svg
+    price: من 11.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM جنوب إفريقيا
+    flag: img/flags/za.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM أفغانستان
+    flag: img/flags/af.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM ليبيريا
+    flag: img/flags/lr.svg
+    price: من 27.99 دولار
     is_highlight: false
 market_analysis:
   title: 'مقارنة eSIM قبرص ببطاقة SIM المحلية المدفوعة مسبقًا: أيهما أكثر راحة؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في قبرص مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM للبيانات المدفوعة مسبقًا (قبرص) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Cyprus
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

@@ -1,6 +1,6 @@
 ---
 title: 'باكستان eSIM 2026: دليل الباقات والتغطية | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,9 @@ modal:
 seo:
   title: باكستان eSIM | أفضل خطة 5G مسبقة الدفع للمسافرين
   description: "أفضل eSIM مسبقة الدفع للسفر من Roami إلى باكستان. بيانات 5G غير محدودة. تغطي كراتشي ولاهور وإسلام آباد. تفعيل فوري. خطط مرنة الآن."
-  keywords: باكستان eSIM, شراء باكستان eSIM, أفضل باكستان eSIM, باكستان eSIM للسفر, جاز باكستان, تيلينور باكستان, زونغ
-    باكستان, كراتشي eSIM, لاهور eSIM, إسلام آباد eSIM, باكستان eSIM مسبقة الدفع, 5G باكستان eSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM باكستان، شراء eSIM باكستان، أفضل eSIM باكستان، eSIM باكستان رخيصة، eSIM باكستان مسبقة الدفع، باقة eSIM باكستان، eSIM باكستان غير محدودة، eSIM باكستان 5G، أفضل eSIM لـ باكستان، سعر eSIM باكستان، تفعيل eSIM باكستان، تغطية eSIM باكستان، جاز باكستان، eSIM كراتشي، eSIM لاهور، eSIM إسلام آباد
+  low_price: 3.99
+  high_price: 96.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -41,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/pk.svg
   flag_alt: علم باكستان
-  title: 'باكستان eSIM: شبكة موثوقة وتغطية للمسافرين'
+  title: 'eSIM باكستان: بيانات موثوقة طوال رحلتك'
   subtitle: لا رسوم خفية | إنترنت بدون قلق | دعم 24/7 - أفضل eSIM مسبقة الدفع للمسافرين إلى باكستان
 features:
-  title: 'لماذا يختار المسافرون إلى باكستان Roami: التغطية والسرعة والخدمة'
+  title: ما يميز Roami للمسافرين إلى باكستان
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات الاتصالات في باكستان للحصول على أفضل إشارة
-plans_title: 'شراء باكستان eSIM: خطط لكل مدة رحلة'
+plans_title: 'خطط eSIM باكستان: من رحلة قصيرة إلى إقامة طويلة'
 plans_data:
   7 أيام:
   - spec: 3 جيجابايت
@@ -280,7 +279,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية باكستان eSIM: دليل المشغلين وخريطة التغطية'
+  title: 'تغطية eSIM باكستان: أين تحصل على أفضل إشارة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -313,7 +312,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد باكستان eSIM: ما يجب معرفته قبل الذهاب'
+  title: 'نصائح eSIM باكستان: جهّز اتصالك قبل الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -334,7 +333,7 @@ reminders:
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت باكستان eSIM: 3 خطوات بسيطة'
+  title: 'تركيب eSIM باكستان: من الشراء إلى الاتصال'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -359,7 +358,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول باكستان eSIM
+    title: استفسارات شائعة عن eSIM باكستان
     questions:
     - q: |
         هل أحتاج إلى جواز سفر أو هوية لاستخدام eSIM في باكستان؟ كيف يعمل التحقق؟
@@ -372,7 +371,7 @@ faq_section:
     - q: |
         ما هو خيار eSIM الأكثر شيوعًا للمسافرين إلى باكستان؟
       a: |
-        يختار معظم المسافرين إلى باكستان خطة 5 جيجابايت / 15 يومًا (9.99 دولار). إنها كافية للملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة. للإقامات الأطول أو الاستخدام الأكثر كثافة، تعتبر خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) خيارات رائعة. يتم تفعيل جميع الخطط في دقائق وتشمل دعم 24/7.
+        يختار معظم المسافرين إلى باكستان خطة 5 جيجابايت / 15 يومًا (9.99 دولار). إنها كافية للملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة. للإقامات الأطول أو الاستخدام الأكثر كثافة، تعتبر خطط 10 جيجابايت (9.99 دولار) أو غير المحدودة (96.99 دولار) خيارات رائعة. يتم تفعيل جميع الخطط في دقائق وتشمل دعم 24/7.
     - q: |
         هل يمكنني استخدام eSIM باكستان الخاصة بي مباشرة بعد شرائها، أم هل أحتاج إلى الانتظار؟
       a: |
@@ -393,63 +392,75 @@ faq_section:
         ما هي كمية البيانات التي يستخدمها المسافر العادي يوميًا في باكستان؟
       a: |
         متوسط الاستخدام اليومي لمعظم السياح: 300-500 ميجابايت للخرائط والمراسلة، وما يصل إلى 1 جيجابايت إذا كنت تستخدم وسائل التواصل الاجتماعي بكثافة. لرحلة مدتها أسبوع، 5 جيجابايت مريحة. لأسبوعين، اختر 10 جيجابايت. يجعل Roami إعادة الشحن سهلاً إذا نفدت البيانات.
+    - q: |
+        هل يجب أن أشتري eSIM باكستان قبل المغادرة؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        هل تُفرض رسوم إضافية على أسعار eSIM باكستان؟
+      a: |
+        بما أنك تختار الحجم المناسب، يكون eSIM أقل هدرًا للمال في باكستان. بطاقات SIM المحلية في باكستان تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        هل تكفي بيانات eSIM لإقامة طويلة في باكستان؟
+      a: |
+        eSIM باكستان بنظام مسبق الدفع، ويمكن شراء باقة إضافية من التطبيق عند نقص البيانات. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط باكستان eSIM ذات الصلة
+  title: وجهات مرتبطة بـ باكستان وخططها
   items:
-  - name: الولايات المتحدة eSIM
-    flag: img/flags/us.svg
+  - name: eSIM بولندا
+    flag: img/flags/pl.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
+  - name: eSIM الأردن
+    flag: img/flags/jo.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM كيويت
+    flag: img/flags/kw.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM نيجيريا
+    flag: img/flags/ng.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM المملكة المتحدة
     flag: img/flags/gb.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: أوروبا eSIM
-    flag: img/flags/eu.svg
+  - name: eSIM موريشيوس
+    flag: img/flags/ma.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM مولدوفا
+    flag: img/flags/mo.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM فيجي
+    flag: img/flags/fj.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM تايوان
+    flag: img/flags/tw.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: كندا eSIM
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM غرينادا
+    flag: img/flags/gd.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: تركيا eSIM
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: الصين eSIM
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: اليابان eSIM
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: هونغ كونغ eSIM
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: فرنسا eSIM
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: إسبانيا eSIM
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: ألمانيا eSIM
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أستراليا eSIM
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM غانا
+    flag: img/flags/gh.svg
+    price: من 7.99 دولار
     is_highlight: false
 market_analysis:
   title: 'باكستان eSIM مقابل بطاقة SIM المدفوعة مسبقًا: مقارنة التكلفة والراحة'
   subtitle: 'بطاقات SIM المحلية المدفوعة مسبقًا في باكستان مقابل حلول eSIM (معيار 2024/2025)'
   citation:
-    text: 'مصدر البيانات: ويكي بطاقة بيانات SIM المدفوعة مسبقًا (باكستان) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Pakistan
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

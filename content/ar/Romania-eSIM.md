@@ -1,6 +1,6 @@
 ---
 title: 'eSIM رومانيا 2026: دليل الخطط والتغطية | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM رومانيا | أفضل خطة بيانات مدفوعة مسبقًا للزوار
   description: "أفضل eSIM سفر مدفوعة مسبقًا من Roami إلى رومانيا. بيانات غير محدودة 5G وتفعيل فوري. تغطي بوخارست وكلوج وترانسيلفانيا. وخطط مرنة."
-  keywords: eSIM رومانيا, شراء eSIM رومانيا, أفضل eSIM رومانيا, eSIM سفر رومانيا, Orange رومانيا, Vodafone رومانيا, Telekom رومانيا, eSIM بوخارست, eSIM كلوج-نابوكا, eSIM تيميشوارا, eSIM رومانيا مسبقة الدفع, 5G eSIM رومانيا
+  keywords: eSIM رومانيا، شراء eSIM رومانيا، أفضل eSIM رومانيا، eSIM رومانيا رخيصة، eSIM رومانيا مسبقة الدفع، باقة eSIM رومانيا، eSIM رومانيا غير محدودة، eSIM رومانيا 5G، أفضل eSIM لـ رومانيا، سعر eSIM رومانيا، تفعيل eSIM رومانيا، تغطية eSIM رومانيا، Orange رومانيا، eSIM بوخارست، eSIM كلوج-نابوكا، eSIM تيميشوارا
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/ro.svg
   flag_alt: علم رومانيا
-  title: 'eSIM رومانيا: شبكة موثوقة وتغطية للمسافرين'
+  title: 'eSIM رومانيا: اتصال دائم أثناء السفر'
   subtitle: أفضل eSIM مدفوعة مسبقًا للمسافرين إلى رومانيا - 5G سريع، تفعيل فوري، دعم 24/7
 features:
-  title: 'لماذا يختار المسافرون إلى رومانيا Roami: السرعة والتغطية والدعم'
+  title: لماذا روامي مناسب لرحلتك إلى رومانيا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات النقل في رومانيا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM رومانيا: خطط تناسب كل مدة رحلة'
+plans_title: 'باقات eSIM رومانيا: مقارنة المدة والسعر'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -293,7 +293,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM رومانيا: دليل كامل للشبكات المحلية'
+  title: 'تغطية شبكة eSIM رومانيا: ما تحتاج معرفته'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -324,7 +324,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM رومانيا: ما يجب معرفته قبل الذهاب'
+  title: نصائح ما قبل الرحلة لـ eSIM رومانيا
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -343,7 +343,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM رومانيا: 3 خطوات بسيطة'
+  title: كيف تثبّت eSIM رومانيا على آيفون وأندرويد
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -368,12 +368,12 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM رومانيا
+    title: توضيحات سريعة حول eSIM رومانيا
     questions:
     - q: |
         هل يمكنني الحصول على eSIM لرومانيا دون إنفاق الكثير؟
       a: |
-        بالتأكيد. تبدأ خطط Roami eSIM رومانيا من 1.99 دولار. خيار 5 جيجابايت / 15 يومًا (9.99 دولار) هو الأكثر شيوعًا بين المسافرين - فهو يتعامل بشكل مريح مع الخرائط و WhatsApp و Instagram والبريد الإلكتروني. إذا كنت مستخدمًا كثيف البيانات، فإن خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) تمنحك راحة البال. تخطي كاونتر SIM في المطار يوفر لك 30-50٪ ومتاعب الطابور. هل تحتاج إلى تعديل؟ يمكنك شحن الرصيد في أي وقت من تطبيق Roami.
+        بالتأكيد. تبدأ خطط Roami eSIM رومانيا من 1.99 دولار. خيار 5 جيجابايت / 15 يومًا (9.99 دولار) هو الأكثر شيوعًا بين المسافرين - فهو يتعامل بشكل مريح مع الخرائط و WhatsApp و Instagram والبريد الإلكتروني. إذا كنت مستخدمًا كثيف البيانات، فإن خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (78.99 دولار) تمنحك راحة البال. تخطي كاونتر SIM في المطار يوفر لك 30-50٪ ومتاعب الطابور. هل تحتاج إلى تعديل؟ يمكنك شحن الرصيد في أي وقت من تطبيق Roami.
     - q: |
         هل من الآمن تحميل جواز سفري لتسجيل eSIM رومانيا؟ أنا قلق بشأن الخصوصية.
       a: |
@@ -389,7 +389,7 @@ faq_section:
     - q: |
         ما هو اختيار eSIM الأكثر شيوعًا للمسافرين إلى رومانيا؟
       a: |
-        يختار معظم المسافرين إلى رومانيا خطة 5 جيجابايت / 15 يومًا (9.99 دولار). إنها كافية للملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة. للإقامات الأطول أو الاستخدام الأكثر كثافة، فإن خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) هي خيارات رائعة. يتم تفعيل جميع الخطط في دقائق وتتضمن دعمًا 24/7.
+        يختار معظم المسافرين إلى رومانيا خطة 5 جيجابايت / 15 يومًا (9.99 دولار). إنها كافية للملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة. للإقامات الأطول أو الاستخدام الأكثر كثافة، فإن خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (78.99 دولار) هي خيارات رائعة. يتم تفعيل جميع الخطط في دقائق وتتضمن دعمًا 24/7.
     - q: |
         هل يمكنني استخدام eSIM رومانيا مباشرة بعد شرائها، أم أحتاج إلى الانتظار؟
       a: |
@@ -402,63 +402,75 @@ faq_section:
         هل يمكنني الاحتفاظ ببطاقة SIM المنزلية في هاتفي أثناء استخدام eSIM في رومانيا؟
       a: |
         نعم - تبقى بطاقة SIM المنزلية في الفتحة 1 للرسائل النصية القصيرة (رموز البنك، تسجيلات الدخول ذات العاملين). تتعامل eSIM مع البيانات في الفتحة 2. قم بتعطيل تجوال البيانات على بطاقة SIM المنزلية لتجنب رسوم تصل إلى 10-15 دولارًا لكل ميجابايت.
+    - q: |
+        هل يمكنني تغيير باقة eSIM رومانيا بعد الشراء؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM رومانيا عبر الإنترنت. بعد الوصول إلى رومانيا، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        ما أفضل طريقة لتقليل تكلفة البيانات في رومانيا؟
+      a: |
+        أسعار eSIM رومانيا معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        هل يمكنني إعادة تعبئة بيانات eSIM رومانيا بعد نفادها؟
+      a: |
+        عند نفاد بيانات eSIM رومانيا يمكنك إضافة باقة بيانات جديدة من نفس الحساب. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM رومانيا ذات الصلة
+  title: مقترحات eSIM حول رحلتك إلى رومانيا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM غرينادا
+    flag: img/flags/gd.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM غانا
+    flag: img/flags/gh.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM إيسواتيني
+    flag: img/flags/sz.svg
+    price: من 19.99 دولار
+    is_highlight: false
+  - name: eSIM مونتينيغرو
+    flag: img/flags/mo.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM لاوس
+    flag: img/flags/la.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM قطر
+    flag: img/flags/qa.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM كوسوفو
+    flag: img/flags/xk.svg
+    price: من 13.99 دولار
+    is_highlight: false
+  - name: eSIM الكاميرون
+    flag: img/flags/cm.svg
+    price: من 27.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM كولومبيا
+    flag: img/flags/co.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM جنوب شرق آسيا
+    flag: img/flags/ya.webp
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM ملاوي
+    flag: img/flags/mw.svg
+    price: من 14.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM دومينيكا
+    flag: img/flags/dm.svg
+    price: من 11.99 دولار
     is_highlight: false
 market_analysis:
   title: 'مقارنة eSIM رومانيا مقابل بطاقة SIM المدفوعة مسبقًا: هل يستحق التبديل؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في رومانيا مقابل حلول eSIM (معايير 2024/2025)
   citation:
-    text: 'مصدر البيانات: Wiki بطاقة بيانات SIM المدفوعة مسبقًا (رومانيا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Romania
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

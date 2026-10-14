@@ -1,6 +1,6 @@
 ---
 title: 'eSIM أوروغواي 2026: دليل السفر الكامل | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,9 @@ modal:
 seo:
   title: "eSIM أوروغواي | أفضل بيانات 5G مسبقة الدفع لرحلتك"
   description: "أفضل eSIM سفر مسبق الدفع من Roami إلى أوروغواي. بيانات غير محدودة 5G. تغطي مونتيفيديو وبونتا دل إيستي وكولونيا. اشترِ خطتك الآن."
-  keywords: eSIM أوروغواي، شراء eSIM أوروغواي، أفضل eSIM أوروغواي، eSIM السفر إلى أوروغواي، Antel أوروغواي، Claro أوروغواي، Movistar
-    أوروغواي، eSIM مونتيفيديو، eSIM سالتو، eSIM بونتا دل إيستي، eSIM أوروغواي مسبقة الدفع، eSIM 5G أوروغواي
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM أوروغواي، شراء eSIM أوروغواي، أفضل eSIM أوروغواي، eSIM أوروغواي رخيصة، eSIM أوروغواي مسبقة الدفع، باقة eSIM أوروغواي، eSIM أوروغواي غير محدودة، eSIM أوروغواي 5G، أفضل eSIM لـ أوروغواي، سعر eSIM أوروغواي، تفعيل eSIM أوروغواي، تغطية eSIM أوروغواي، Antel أوروغواي، eSIM مونتيفيديو، eSIM سالتو، eSIM بونتا دل إيستي
+  low_price: 11.99
+  high_price: 98.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -44,7 +43,7 @@ hero:
   title: 'eSIM أوروغواي: حلول بيانات كاملة لرحلتك'
   subtitle: لا رسوم خفية | إنترنت بدون قلق | دعم 24/7 - أفضل eSIM مسبق الدفع للمسافرين إلى أوروغواي
 features:
-  title: 'لماذا يختار المسافرون إلى أوروغواي Roami: التغطية، السرعة والخدمة'
+  title: 'لماذا يختار المسافرون إلى أوروغواي Roami: التغطية والسرعة والخدمة'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: التبديل التلقائي
     desc: يتصل تلقائيًا بأفضل شركات الاتصال في أوروغواي للحصول على أفضل إشارة
-plans_title: 'شراء eSIM أوروغواي: خطط تناسب كل مدة رحلة'
+plans_title: 'شراء eSIM أوروغواي: خطط تناسب كل مدة سفر'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -248,7 +247,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM أوروغواي: دليل المشغلين وخريطة التغطية'
+  title: 'تغطية eSIM أوروغواي: تغطية الشبكة ومقارنة المشغلين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -302,7 +301,7 @@ reminders:
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM أوروغواي: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM أوروغواي: ثلاث خطوات فقط'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -329,7 +328,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM أوروغواي
+    title: أسئلة يتكرر طرحها عن eSIM أوروغواي
     questions:
     - q: |
         هل يتحول Roami تلقائيًا بين Antel و Claro و Movistar في أوروغواي؟
@@ -342,7 +341,7 @@ faq_section:
     - q: |
         كم يجب أن أخصص ميزانية لـ eSIM عند زيارة أوروغواي؟
       a: |
-        يقدم Roami eSIM أوروغواي من 1.99 دولار لخطة خفيفة لمدة 7 أيام وحتى 59.99 دولار لـ 30 يومًا من البيانات غير المحدودة. يختار معظم الزوار خطة 5 جيجابايت / 15 يومًا بسعر 9.99 دولار — وهي تغطي الملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة دون ضغط. يجب على محبي البث أو مستخدمي وسائل التواصل الاجتماعي الثقيلين التفكير في 10 جيجابايت أو غير محدودة. توفر Antel سرعات موثوقة في جميع أنحاء أوروغواي. خطط Roami مسبقة الدفع — لا فواتير مفاجئة، لا تجديد تلقائي، فقط تسعير مباشر.
+        يقدم Roami eSIM أوروغواي من 11.99 دولار لخطة خفيفة لمدة 7 أيام وحتى 30.99 دولار لـ 3 يومًا من البيانات غير المحدودة. يختار معظم الزوار خطة 5 جيجابايت / 15 يومًا بسعر 21.99 دولار — وهي تغطي الملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة دون ضغط. يجب على محبي البث أو مستخدمي وسائل التواصل الاجتماعي الثقيلين التفكير في 10 جيجابايت أو غير محدودة. توفر Antel سرعات موثوقة في جميع أنحاء أوروغواي. خطط Roami مسبقة الدفع — لا فواتير مفاجئة، لا تجديد تلقائي، فقط تسعير مباشر.
     - q: |
         هل من الآمن تحميل جواز سفري لتسجيل eSIM أوروغواي؟ أنا قلق بشأن الخصوصية.
       a: |
@@ -363,63 +362,75 @@ faq_section:
         ما مقدار البيانات التي يستخدمها المسافر العادي فعليًا في اليوم في أوروغواي؟
       a: |
         متوسط الاستخدام اليومي لمعظم السياح: 300-500 ميجابايت للخرائط والمراسلة، وحتى 1 جيجابايت إذا كنت تستخدم وسائل التواصل الاجتماعي بكثافة. لرحلة مدتها أسبوع واحد، 5 جيجابايت مريحة. لأسبوعين، اختر 10 جيجابايت. يجعل Roami من السهل الشحن إذا نفدت البيانات.
+    - q: |
+        كيف أشتري eSIM أوروغواي قبل رحلتي؟
+      a: |
+        يمكن شراء eSIM أوروغواي من Roami بالكامل عبر الإنترنت. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        لمجموعة مسافرين إلى أوروغواي، أيّهما أوفر، eSIM أم بطاقة SIM المحلية؟
+      a: |
+        أسعار eSIM أوروغواي معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. بطاقات SIM المحلية في أوروغواي تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        بيانات eSIM تنفد بسرعة، فهل هناك نصائح؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في أوروغواي، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM أوروغواي ذات الصلة
+  title: باقات eSIM مرتبطة برحلتك إلى أوروغواي
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
   - name: eSIM كندا
     flag: img/flags/ca.svg
-    price: من 1.99 دولار
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM سيراليون
+    flag: img/flags/si.svg
+    price: من 10.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
+  - name: eSIM ماكاو
+    flag: img/flags/ma.svg
     price: من 1.99 دولار
     is_highlight: false
   - name: eSIM ألمانيا
     flag: img/flags/de.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM السعودية
+    flag: img/flags/sa.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM أوزبكستان
+    flag: img/flags/uz.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM نيوزيلندا
+    flag: img/flags/nz.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM الفلبين
+    flag: img/flags/ph.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM ليتوانيا
+    flag: img/flags/lt.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM الجزائر
+    flag: img/flags/dz.svg
+    price: من 3.99 دولار
+    is_highlight: true
+  - name: eSIM جمهورية الدومينيكان
+    flag: img/flags/do.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM البحرين
+    flag: img/flags/bh.svg
+    price: من 6.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM أوروغواي مقابل بطاقة SIM المحلية المدفوعة مسبقًا: أيهما أكثر ملاءمة؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في أوروغواي مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقة بيانات SIM المدفوعة مسبقًا (أوروغواي) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Uruguay
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مسبقة الدفع (بيانات السوق)

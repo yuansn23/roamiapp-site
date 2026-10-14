@@ -1,6 +1,6 @@
 ---
 title: 'النيجر eSIM 2026: دليل السفر الكامل | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,11 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
 seo:
   title: 'النيجر eSIM: أيرتل ونيجير تيليكوم 5G – تغطية كاملة'
-  description: "قارن خطط النيجر eSIM مع 5G سريع في نيامي وزيندر ومارادي. تغطية أيرتل النيجر ونيجير تيليكوم ومووف. تفعيل فوري من 1.99 دولار."
-  keywords: النيجر eSIM, شراء النيجر eSIM, أفضل النيجر eSIM, النيجر eSIM للسفر, أيرتل النيجر, نيجير تيليكوم, مووف
-    النيجر, نيامي eSIM, زيندر eSIM, مارادي eSIM, النيجر eSIM مسبقة الدفع, 5G النيجر eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: "قارن خطط النيجر eSIM مع 5G سريع في نيامي وزيندر ومارادي. تغطية أيرتل النيجر ونيجير تيليكوم ومووف. تفعيل فوري من 23.99 دولار."
+  keywords: eSIM النيجر، شراء eSIM النيجر، أفضل eSIM النيجر، eSIM النيجر رخيصة، eSIM النيجر مسبقة الدفع، باقة eSIM النيجر، eSIM النيجر غير محدودة، eSIM النيجر 5G، أفضل eSIM لـ النيجر، سعر eSIM النيجر، تفعيل eSIM النيجر، تغطية eSIM النيجر، أيرتل النيجر النيجر، eSIM نيامي، eSIM زيندر، eSIM مارادي
+  low_price: 23.99
+  high_price: 99.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -41,7 +40,7 @@ banner:
 hero:
   flag_image: img/flags/ni.svg
   flag_alt: علم النيجر
-  title: 'النيجر eSIM: حلول بيانات كاملة لرحلتك'
+  title: 'eSIM النيجر: حلول بيانات كاملة لرحلتك'
   subtitle: لا رسوم خفية | إنترنت بدون قلق | دعم 24/7 - أفضل eSIM مسبقة الدفع للمسافرين إلى النيجر
 features:
   title: 'لماذا يختار المسافرون إلى النيجر Roami: التغطية والسرعة والخدمة'
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات الاتصالات في النيجر للحصول على أفضل إشارة
-plans_title: 'شراء النيجر eSIM: خطط لكل مدة رحلة'
+plans_title: 'شراء eSIM النيجر: خطط تناسب كل مدة سفر'
 plans_data:
   7 أيام:
   - spec: 3 جيجابايت
@@ -167,7 +166,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية النيجر eSIM: دليل المشغلين وخريطة التغطية'
+  title: 'تغطية eSIM النيجر: تغطية الشبكة ومقارنة المشغلين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -200,7 +199,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد النيجر eSIM: ما يجب معرفته قبل الذهاب'
+  title: 'نصائح إعداد eSIM النيجر: ما يجب معرفته قبل الذهاب'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -221,7 +220,7 @@ reminders:
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت النيجر eSIM: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM النيجر: ثلاث خطوات فقط'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -246,7 +245,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول النيجر eSIM
+    title: أسئلة يتكرر طرحها عن eSIM النيجر
     questions:
     - q: |
         هل ستعمل eSIM الخاصة بي في النيجر فور هبوطي، أم هناك تأخير في التفعيل؟
@@ -279,56 +278,68 @@ faq_section:
     - q: |
         ما هو خيار eSIM الأكثر شيوعًا للمسافرين إلى النيجر؟
       a: |
-        يختار معظم المسافرين إلى النيجر خطة 5 جيجابايت / 15 يومًا (9.99 دولار). إنها كافية للملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة. للإقامات الأطول أو الاستخدام الأكثر كثافة، تعتبر خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) خيارات رائعة. يتم تفعيل جميع الخطط في دقائق وتشمل دعم 24/7.
+        يختار معظم المسافرين إلى النيجر خطة 5 جيجابايت / 15 يومًا (34.99 دولار). إنها كافية للملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة. للإقامات الأطول أو الاستخدام الأكثر كثافة، تعتبر خطط 10 جيجابايت (64.99 دولار) أو غير المحدودة (52.99 دولار) خيارات رائعة. يتم تفعيل جميع الخطط في دقائق وتشمل دعم 24/7.
+    - q: |
+        كيف أشتري eSIM النيجر قبل رحلتي؟
+      a: |
+        يمكن شراء eSIM النيجر من Roami بالكامل عبر الإنترنت. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        لمجموعة مسافرين إلى النيجر، أيّهما أوفر، eSIM أم بطاقة SIM المحلية؟
+      a: |
+        أسعار eSIM النيجر معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. بطاقات SIM المحلية في النيجر تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        بيانات eSIM تنفد بسرعة، فهل هناك نصائح؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في النيجر، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM ذات الصلة
+  title: باقات eSIM مرتبطة برحلتك إلى النيجر
   items:
-  - name: الولايات المتحدة eSIM
-    flag: img/flags/us.svg
+  - name: eSIM سلوفينيا
+    flag: img/flags/sl.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
+  - name: eSIM هندوراس
+    flag: img/flags/hn.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM غوام
+    flag: img/flags/gu.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM أوروغواي
+    flag: img/flags/uy.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM بولندا
+    flag: img/flags/pl.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM الأردن
+    flag: img/flags/jo.svg
+    price: من 6.99 دولار
+    is_highlight: true
+  - name: eSIM كيويت
+    flag: img/flags/kw.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM نيجيريا
+    flag: img/flags/ng.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM المملكة المتحدة
     flag: img/flags/gb.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: أوروبا eSIM
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: كندا eSIM
-    flag: img/flags/ca.svg
+  - name: eSIM موريشيوس
+    flag: img/flags/ma.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM مولدوفا
+    flag: img/flags/mo.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: تركيا eSIM
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: الصين eSIM
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: اليابان eSIM
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: هونغ كونغ eSIM
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: فرنسا eSIM
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: إسبانيا eSIM
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: ألمانيا eSIM
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أستراليا eSIM
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM فيجي
+    flag: img/flags/fj.svg
+    price: من 6.99 دولار
     is_highlight: false
 ---

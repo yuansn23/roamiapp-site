@@ -1,6 +1,6 @@
 ---
 title: 'اليونان eSIM - 5G في أثينا وسانتوريني | لا حاجة للبحث في المطار | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM اليونان - أفضل خطة بيانات غير محدودة للبدو الرحل
   description: "أفضل eSIM لليونان مع 5G على Vodafone و Cosmote و Wind. تسليم QR فوري بدون البحث عن SIM. تغطي أثينا وسانتوريني. من 1.99 دولار."
-  keywords: eSIM اليونان، شراء eSIM اليونان، أفضل eSIM اليونان، eSIM سفر اليونان، Vodafone اليونان، Cosmote اليونان، Wind اليونان، eSIM أثينا، eSIM سالونيك، eSIM سانتوريني، eSIM مسبق الدفع اليونان، eSIM 5G اليونان، eSIM الجزر اليونانية
+  keywords: eSIM اليونان، شراء eSIM اليونان، أفضل eSIM اليونان، eSIM اليونان رخيصة، eSIM اليونان مسبقة الدفع، باقة eSIM اليونان، eSIM اليونان غير محدودة، eSIM اليونان 5G، أفضل eSIM لـ اليونان، سعر eSIM اليونان، تفعيل eSIM اليونان، تغطية eSIM اليونان، Vodafone اليونان، eSIM أثينا، eSIM سالونيك، eSIM هيراكليون
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/gr.svg
   flag_alt: علم اليونان
-  title: 'eSIM اليونان: 5G في أثينا وسانتوريني وما بعدها — لا حاجة للبحث عن SIM في المطار'
+  title: 'eSIM اليونان: تفعيل فوري وتغطية واسعة'
   subtitle: 5G على Vodafone و Cosmote و Wind | لا تسجيل جواز سفر | دعم 24/7
 features:
-  title: 'لماذا يختار مسافرو اليونان Roami: التغطية والراحة والقيمة'
+  title: ما يجعل eSIM اليونان من روامي مميزًا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +73,7 @@ features:
     color: from-sky-400 to-sky-600
     title: جاهز للتنقل بين الجزر
     desc: ابق على اتصال على العبارات بين سانتوريني وميكونوس وجميع الجزر اليونانية
-plans_title: 'شراء eSIM اليونان: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM اليونان: من 3 أيام إلى 30 يومًا'
 plans_data:
   3 أيام:
   - spec: 1GB
@@ -289,7 +289,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'المدة: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM اليونان: دليل Vodafone و Cosmote و Wind 5G — البر الرئيسي والجزر'
+  title: 'eSIM اليونان: أين تعمل الشبكة وكيف'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -320,7 +320,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM اليونان: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM اليونان: نصائح عملية قبل المغادرة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -345,7 +345,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على الشاشة، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM اليونان: 3 خطوات بسيطة'
+  title: 'eSIM اليونان: كيف تبدأ في ثلاث خطوات'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -370,7 +370,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM اليونان
+    title: أسئلة عملية عن eSIM اليونان
     questions:
     - q: |
         لماذا لا يمكنني شراء SIM في مطار أثينا؟
@@ -416,63 +416,75 @@ faq_section:
         متى تبدأ فترة صلاحية eSIM اليونان الخاصة بي؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في اليونان، وليس عند الشراء أو التثبيت. لذا يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة. تمنحك خطة 7 أيام 7 أيام كاملة من أول اتصال.
+    - q: |
+        ما أفضل وقت لشراء eSIM اليونان قبل الرحلة؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM اليونان عبر الإنترنت. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة Vodafone لتبدأ الاستخدام فورًا.
+    - q: |
+        أيّهما أرخص في اليونان، eSIM أم التجوال الدولي؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في اليونان أسهل. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل يحتاج eSIM اليونان إلى تعبئة إضافية؟
+      a: |
+        عند نفاد بيانات eSIM اليونان يمكنك إضافة باقة بيانات جديدة من نفس الحساب. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM ذات الصلة لليونان
+  title: خطط eSIM مقترحة لوجهات مشابهة لـ اليونان
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM باراغواي
+    flag: img/flags/py.svg
+    price: من 22.99 دولار
+    is_highlight: false
+  - name: eSIM جورجيا
+    flag: img/flags/ge.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM المكسيك
+    flag: img/flags/mx.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM ماليزيا
+    flag: img/flags/my.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM سنغافورة
+    flag: img/flags/sg.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
+  - name: eSIM سلوفاكيا
+    flag: img/flags/sl.svg
     price: من 1.99 دولار
     is_highlight: false
   - name: eSIM إسبانيا
     flag: img/flags/es.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
+  - name: eSIM تنزانيا
+    flag: img/flags/tz.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM اليابان
+    flag: img/flags/jp.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM غويانا الفرنسية
+    flag: img/flags/gf.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM النرويج
+    flag: img/flags/no.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM العراق
+    flag: img/flags/iq.svg
+    price: من 9.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM اليونان مقابل بطاقة SIM المحلية: لا حاجة للبحث في المطار، لا ضريبة 12%'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في اليونان مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM المدفوعة مسبقًا (اليونان) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Greece
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

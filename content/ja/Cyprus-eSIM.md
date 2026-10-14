@@ -1,6 +1,6 @@
 ---
 title: キプロス eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:00:34+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,10 @@ modal:
     当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました！<br>新規のお客様はコード <strong>web20</strong> で20%オフ！
 seo:
   title: eSIM キプロス | 無制限データと高速5G対応のおすすめ通信プラン比較
-  description: キプロス旅行を快適にするRoamiのeSIM。到着後のSIM探しや言語の壁に悩まず出発前にすべて設定完了。無制限データプランなら動画視聴や地図アプリも気にせず使い放題。日本語サポート付き。
-  keywords: キプロス eSIM, キプロス ネットワーク, キプロス 観光, キプロス 旅行, キプロス モバイルデータ
+  description: キプロス旅行を快適にするRoamiのeSIM。到着後のSIM探しや言語の壁に悩まず出発前にすべて設定完了。無制限データプランなら動画視聴や地図アプリも気にせず使い放題。
+  low_price: 2.99
+  high_price: 77.99
+  keywords: キプロス eSIM, キプロス eSIM 料金, キプロス eSIM おすすめ, キプロス eSIM 安い, キプロス eSIM 購入, キプロス eSIM 申し込み, キプロス eSIM データ無制限, キプロス プリペイドSIM, キプロス 旅行 eSIM, キプロス eSIM 価格, キプロス eSIM 設定方法, キプロス eSIM 対応エリア, ニコシア eSIM, リマソール eSIM, キプロス モバイルデータ, キプロス eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: キプロス向け最高のeSIM
-  title: 海外旅行，就选キプロス eSIM
+  title: キプロスの旅をもっと楽しくするeSIM
 hero:
   flag_image: img/flags/cy.svg
   flag_alt: キプロスの国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: プランをチェック
 plans_data:
   30 日:
   - spec: 20GB
@@ -322,7 +324,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: 便利な使い方のヒント
   items:
   - icon: 📱
     html: |-
@@ -373,12 +375,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: 'eSIM キプ | 5G対応・国内カバレッジの高速データ通信ガイド'
-  desc: キプロス用eSIMの購入から設定までの完全ガイド。1GB/$1.99からの格安プラン、無制限データの選び方、対応機種やアクティベーション方法を詳しく解説。事前に準備して到着後すぐに使える便利なeSIMの全てを紹介します。キプロスではCytaのネットワークに対応。
+  desc: キプロス用eSIMの購入から設定までの完全ガイド。事前に準備して到着後すぐに使える便利なeSIMの全てを紹介します。キプロスではCytaのネットワークに対応。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. 基本の疑問
     questions:
     - q: Roamiはキプロスで無制限プランを提供していますか？ フェアユースポリシー（FUP）はありますか？
       a: Roamiはキプロス向けに真の無制限プランを提供しています。フェアユースポリシーは、極端な使用（例：数日間連続で4Kストリーミング）の場合にのみ適用されます。通常のブラウジング、SNS、ビデオ通話、GPSは制限されません。
@@ -386,13 +388,12 @@ faq_section:
       a: はい、アクティベーションから7日以内に技術的な問題が解決できない場合、100%返金保証を提供しています。リスクはありません。
     - q: キプロス用eSIMは近隣諸国での国際ローミングはどうなりますか？
       a: キプロス用eSIMは主にキプロス向けに最適化されています。近隣諸国への旅行には、当社のヨーロッパまたは地域別eSIMをお勧めします。これにより追加料金なしでシームレスなローミングが可能です。
-        複数国を周遊する旅行なら、地域別eSIM（ヨーロッパやアジア）を選べば国境を越えるたびに自動でネットワーク切替。追加購入や設定変更の手間がかかりません。海外旅行eSIMの地域別プランなら周遊旅行もスムーズです。
+
     - q: キプロス用eSIMを使用するためにスマートフォンに求められる要件は？
       a: お使いの端末がeSIMに対応している必要があります（iPhone XS/XR以降、Samsung Galaxy S20/Note20以降、Google
         Pixel 3a以降、および最新のHuawei、Xiaomi、OnePlusなどの5G端末）。設定で「eSIMを追加」オプションがあるかご確認ください。
     - q: キプロス用eSIMを他のデバイスとテザリング（ポケットWi-Fi）できますか？
-      a: は
-        Roamiなら1GB/$1.99からの格安プランでキプロスの5G高速通信を利用可能。24時間日本語サポート付きで初めての海外eSIMも安心です。い、Roamiのキプロス用eSIMプランは全てテザリング（ポケットWi-Fi）を無制限でサポートしています。ノートパソコン、タブレット、または旅行仲間と接続を共有できます
+      a: はい、Roamiのキプロス用eSIMプランは全てテザリング（ポケットWi-Fi）を無制限でサポートしています。ノートパソコン、タブレット、または旅行仲間と接続を共有できます
         — 隠れたコストも速度制限もありません。
     - q: キプロス用eSIMを使用中、自分の電話番号を維持できますか？
       a: Roami eSIMはデータ専用です。国内の物理SIMを並行して使用（通話/SMS用）できます。多くのデュアルSIM端末では両方のプロファイルを管理でき、モバイルデータ通信にはRoami
@@ -406,6 +407,12 @@ faq_section:
 
     - q: 旅行前にキプロス用eSIMをインストールして、後でアクティベーションすることはできますか？
       a: はい、今すぐ（Wi-Fi経由で）eSIMをインストールできます。アクティベーションは、キプロスに到着した際に端末がCyta / MTNのネットワークを初めて検出したときに自動的に行われます。到着時のストレスを軽減できます。
+    - q: キプロス旅行前にeSIMを申し込むベストなタイミングはいつですか？
+      a: クレジットカードがあれば、キプロス用eSIMはオンラインで申し込めます。申し込み後はQRコードがメールで届き、Cytaのネットワークに接続するだけで利用を開始できます。
+    - q: キプロス用eSIMとローミング、料金が安いのはどちらですか？
+      a: eSIMは店舗手数料やチャージの手間がなく、キプロスの通信費を抑えやすい選択です。詳しい料金比較は、各プランの内容と合わせてプラン一覧で確認できます。
+    - q: キプロスのeSIMで追加チャージは必要ですか？
+      a: キプロス用eSIMのデータを使い切った場合は、同じアカウントから新しいデータプランを追加できます。滞在日数と用途に合わせて最初に適切な容量を選ぶと、追加購入を減らせます。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -568,81 +575,80 @@ faq_section:
       a: キプロス用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: キプロス用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        海外旅行のデータ通信はeSIMが便利。ローミングより格安で、対応機種ならQRコードで即時設定完了。事前購入で到着後すぐ接続。
-        RoamiのeSIMは格安料金で、5G対応の高速通信を提供しています。1GB/$1.99からのお得なプランを用意。24時間サポートで旅行中も安心です。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にキプロス用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
+  - name: チェコ eSIM
+    flag: img/flags/cz.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
+    slug: czech-republic-esim
+  - name: デンマーク eSIM
+    flag: img/flags/dk.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
+    slug: denmark-esim
+  - name: ドミニカ国 eSIM
+    flag: img/flags/dm.svg
+    price: 11.99ドルから
+    is_highlight: false
+    slug: dominica-esim
+  - name: ドミニカ共和国 eSIM
+    flag: img/flags/do.svg
+    price: 5.99ドルから
+    is_highlight: false
+    slug: dominican-republic-esim
+  - name: エクアドル eSIM
+    flag: img/flags/ec.svg
+    price: 6.99ドルから
+    is_highlight: false
+    slug: ecuador-esim
+  - name: エジプト eSIM
+    flag: img/flags/eg.svg
+    price: 2.99ドルから
+    is_highlight: false
+    slug: egypt-esim
+  - name: エルサルバドル eSIM
+    flag: img/flags/sv.svg
+    price: 23.99ドルから
+    is_highlight: false
+    slug: el-salvador-esim
+  - name: エストニア eSIM
+    flag: img/flags/ee.svg
     price: 1.99ドルから
+    is_highlight: false
+    slug: estonia-esim
+  - name: エスワティニ eSIM
+    flag: img/flags/sz.svg
+    price: 19.99ドルから
     is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
+    slug: eswatini-esim
+  - name: フェロー諸島 eSIM
+    flag: img/flags/fo.svg
+    price: 5.99ドルから
+    is_highlight: false
+    slug: faroe-islands-esim
+  - name: フィジー eSIM
+    flag: img/flags/fj.svg
+    price: 6.99ドルから
+    is_highlight: false
+    slug: fiji-esim
+  - name: フィンランド eSIM
+    flag: img/flags/fi.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+    slug: finland-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "キプロスでeSIMに切り替えるべきか？eSIMとプリペイドSIMの比較"
   subtitle: "キプロスの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Cyprus) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Cyprus"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -681,13 +687,13 @@ market_analysis:
     - icon: "credit-card"
       title: "チャージと支払い"
       prepaid_title: ""
-      prepaid_desc: "epicでは国際クレジットカードでのオンライン充值に高額手数料がかかります。Cytaではメールで認証コードをリクエストする必要があります。"
+      prepaid_desc: "epicでは国際クレジットカードでのオンラインチャージに高額手数料がかかります。Cytaではメールで認証コードをリクエストする必要があります。"
       esim_title: "グローバル決済"
       esim_desc: "epicの国際カード高額手数料やCytaのメール認証不要。Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPalで簡単決済。"
     - icon: "headset"
       title: "カスタマーサポート"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。"
+      prepaid_desc: "現地事業者のサポートは現地語が中心で、対応時間が限られる場合があります。"
       esim_title: "24時間サポート"
       esim_desc: "キプロスの現地サポート（営業時間限定）と異なり、Roamiは24時間365日チャットサポートを提供。"
 

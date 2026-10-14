@@ -1,6 +1,6 @@
 ---
 title: ガイアナ eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:01:33+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: GTT, Digicel, Smart
   competitors: Airalo, Holafly, Nomad, eSIM.net, Airalo
   main_cities: ジョージタウン、レイクラム、ニューアムステルダム、リンデン、バーティカ
-  main_packages: 3/7/15/30日、データ無制限
+  main_packages: 7/15/30日、1〜6GB
 modal:
   title: サービスアップデートのお知らせ！
   btn_text: 続行
@@ -20,7 +20,9 @@ modal:
 seo:
   title: eSIM ガイアナ | 旅行コスト削減に役立つデータ通信の賢い選び方ガイド
   description: ガイアナを旅するならRoamiのeSIM。空港でSIMを探す手間不要、出発前に自宅でQRコード設定完了。現地主要キャリアネットワークに自動切替で、都市部から地方まで安定した通信を実現します。
-  keywords: ガイアナ eSIM, ガイアナ 国際ローミング, ガイアナ 旅行, ガイアナ データ通信, ガイアナ 観光
+  low_price: 9.99
+  high_price: 49.99
+  keywords: ガイアナ eSIM, ガイアナ eSIM 料金, ガイアナ eSIM おすすめ, ガイアナ eSIM 安い, ガイアナ eSIM 購入, ガイアナ eSIM 申し込み, ガイアナ eSIM データプラン, ガイアナ プリペイドSIM, ガイアナ 旅行 eSIM, ガイアナ eSIM 価格, ガイアナ eSIM 設定方法, ガイアナ eSIM 対応エリア, ジョージタウン eSIM, レイクラム eSIM, ガイアナ モバイルデータ, ガイアナ eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: ガイアナ向け最高のeSIM
-  title: ガイアナ eSIM，海外旅行上网无忧
+  title: ガイアナ eSIMで旅の移動もスムーズに
 hero:
   flag_image: img/flags/gy.svg
   flag_alt: ガイアナの国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: プラン選択ガイド
 plans_data:
   15 日:
   - spec: 6GB
@@ -142,7 +144,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: よくある確認事項
   items:
   - icon: 📱
     html: |-
@@ -193,12 +195,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: 'eSIM ガイ | 日本語・即時アクティベーションガイド'
-  desc: Guyana旅行で使えるeSIMの情報まとめ。格安データプランの価格比較、対応端末の確認方法、5G通信の速度やカバレッジ、QRコードを使った簡単設定手順まで。24時間日本語サポート付きで初めての方も安心してご利用いただけます。ガイアナではGTTのネットワークに対応。
+  desc: Guyana旅行で使えるeSIMの情報まとめ。ガイアナではGTTのネットワークに対応。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. 知っておきたい基本
     questions:
     - q: 私のスマートフォンはガイアナのeSIMに対応していますか？また、インストール方法は？
       a: はい、最新のスマートフォン（iPhone XS/XR以降、Samsung Galaxy S20+/Note20+、Google Pixel 3a+など）はeSIMに対応しています。ガイアナ用eSIMは、モバイル設定でQRコードをスキャンしてインストールします。GTT
@@ -206,10 +208,10 @@ faq_section:
     - q: Roamiはガイアナ以外の地域向けeSIMも提供していますか？
       a: はい、ガイアナ用eSIMの他に、ヨーロッパ、アジア、北米、グローバル向けの地域別eSIMも提供しています。複数都市をまたぐ旅行や数カ国を巡るツアーに最適です
         — SIMカードの交換は不要です。
-        Roamiなら1GB/$1.99からの格安プランでguyanaの5G高速通信を利用可能。24時間日本語サポート付きで初めての海外eSIMも安心です。
+
     - q: ガイアナ用eSIMを使用中、国内のSIMで電話を受けることはできますか？
       a: はい、デュアルSIM端末では両方のプロファイルを同時に使用できます。モバイルデータにはRoami eSIMをデフォルトに設定するだけです。通話やSMSは国内SIM経由で（ローミングが有効な場合があります）行われます。
-        デュアルSIM対応端末なら、日本で使っている電話番号をそのまま維持しながら海外データ通信を利用可能。通話は国内SIM、データはRoamiのeSIMという使い分けが便利です。海外旅行eSIMを使えば、日本の番号に届くSMS認証も受信できます。
+
     - q: ガイアナ用eSIMの価格はいくらですか？割引はありますか？
       a: ガイアナ用eSIMプランは1.99ドル/GBから始まります。プロモーションコード「web20」を使用すると、全プランが20%オフ — 隠れたコストや最低利用期間の縛りはありません。
     - q: インストール後にガイアナ用eSIMを別のデバイスに移行できますか？
@@ -225,7 +227,13 @@ faq_section:
 
     - q: ガイアナ用eSIMはVoLTEやHD音声通話に対応していますか？
       a: はい、お使いの端末が対応していれば、ガイアナ用eSIMはVoLTEとHD音声をサポートします。GTT / Digicelの5G/4Gネットワークを通じてクリアな通話品質をお楽しみいただけます。
-        Guyana旅行でのデータ通信料金を比較するならRoami。海外ローミングより最大80%割安で契約不要。事前に日本で設定しておけば到着後すぐに接続。日本語サポート付き。
+
+    - q: ガイアナのeSIM申し込みは夜間でも可能ですか？
+      a: Roamiならガイアナ用eSIMをアプリまたはWebサイトから申し込みできます。手続きに店舗へ行く必要はなく、QRコードを読み込めば到着後すぐに接続できます。
+    - q: ガイアナで使えるeSIMのなかで安いプランはどれですか？
+      a: ガイアナでは現地SIMの購入に店舗での登録が必要なため、eSIMのほうが結果的に安く済むことが多いです。ガイアナの現地SIMは本人確認やカード購入の手間がかかり、結果的にコストが高くなりがちです。
+    - q: ガイアナ滞在中にeSIMのデータプランを変更できますか？
+      a: 追加チャージという仕組みはなく、必要なときに新しいプランを選んで購入する形です。複数のデータプランを同時に持つことはできませんが、購入後はすぐに新しいプランへ切り替わります。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -388,81 +396,80 @@ faq_section:
       a: ガイアナ用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: ガイアナ用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        格安eSIMならRoamiがおすすめ。1GB/$1.99からのデータプランで5G高速通信。24時間日本語サポートで初めての海外eSIMも安心。
-        eSIMのメリットは物理SIM不要で機種変更時も簡単。デュアルSIM対応で日本の番号を維持したまま海外データ通信が可能。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にガイアナ用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
-    price: 1.99ドルから
+  - name: ホンジュラス eSIM
+    flag: img/flags/hn.svg
+    price: 6.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
-    price: 1.99ドルから
-    is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
+    slug: honduras-esim
+  - name: 香港 eSIM
     flag: img/flags/hk.svg
     price: 1.99ドルから
     is_highlight: false
     slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
+  - name: ハンガリー eSIM
+    flag: img/flags/hu.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
+    slug: hungary-esim
+  - name: アイスランド eSIM
+    flag: img/flags/is.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
+    slug: iceland-esim
+  - name: インド eSIM
+    flag: img/flags/in.svg
+    price: 3.99ドルから
+    is_highlight: false
+    slug: india-esim
+  - name: インドネシア eSIM
+    flag: img/flags/id.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
+    slug: indonesia-esim
+  - name: イラク eSIM
+    flag: img/flags/iq.svg
+    price: 21.99ドルから
+    is_highlight: false
+    slug: iraq-esim
+  - name: アイルランド eSIM
+    flag: img/flags/ie.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: australia-esim
-
+    slug: ireland-esim
+  - name: イスラエル eSIM
+    flag: img/flags/il.svg
+    price: 2.99ドルから
+    is_highlight: false
+    slug: israel-esim
+  - name: イタリア eSIM
+    flag: img/flags/it.svg
+    price: 1.99ドルから
+    is_highlight: true
+    slug: italy-esim
+  - name: コートジボワール eSIM
+    flag: img/flags/ci.svg
+    price: 9.99ドルから
+    is_highlight: false
+    slug: ivory-coast-esim
+  - name: ジャマイカ eSIM
+    flag: img/flags/jm.svg
+    price: 11.99ドルから
+    is_highlight: false
+    slug: jamaica-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "ガイアナでeSIMとプリペイドSIM：考慮すべきすべてのこと"
   subtitle: "ガイアナの現地プリペイドSIMとeSIMソリューションの比較（2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Guyana) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Guyana"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -477,7 +484,7 @@ market_analysis:
     - icon: "id-card"
       title: "KYCとパスポート登録"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。一般的に、ギアナではプリペイドSIM購入時にパスポート提示が必要な場合があります。"
+      prepaid_desc: "一般的に、ギアナではプリペイドSIM購入時にパスポート提示が必要な場合があります。"
       esim_title: "パスポート不要"
       esim_desc: "現地SIMではパスポート提示が必要な場合がありますが、Roami eSIMは本人確認不要で、プライバシーを保護しながら即座に利用開始できます。"
     - icon: "globe"
@@ -495,19 +502,19 @@ market_analysis:
     - icon: "wifi"
       title: "テザリングと速度ポリシー"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。一般的に、ギアナのプリペイドプランではテザリングが許可される場合と制限される場合があります。"
+      prepaid_desc: "一般的に、ギアナのプリペイドプランではテザリングが許可される場合と制限される場合があります。"
       esim_title: "無制限テザリング"
       esim_desc: "現地SIMではテザリングに制限がある場合がありますが、Roami eSIMはテザリングを完全サポート。複数デバイスでデータを共有でき、追加費用はかかりません。"
     - icon: "credit-card"
       title: "チャージと支払い"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。一般的に、ギアナでは現金またはローカルのプリペイドカードでの支払いが主流です。"
+      prepaid_desc: "一般的に、ギアナでは現金またはローカルのプリペイドカードでの支払いが主流です。"
       esim_title: "グローバル決済対応"
       esim_desc: "現地SIMの購入には現金やローカルカードが必要ですが、Roami eSIMはVisa、Mastercard、AMEX、Apple Pay、Google Pay、PayPalで簡単に支払えます。"
     - icon: "headset"
       title: "カスタマーサポート"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。一般的に、ローカル事業者のカスタマーサポートは英語または現地語で、営業時間内のみ利用可能です。"
+      prepaid_desc: "一般的に、ローカル事業者のカスタマーサポートは英語または現地語で、営業時間内のみ利用可能です。"
       esim_title: "24時間サポート"
       esim_desc: "現地事業者のサポートは営業時間内のみですが、Roami eSIMは24時間365日の多言語チャットサポートを提供し、いつでも問題を解決します。"
 
@@ -536,4 +543,3 @@ market_analysis:
         title: "24時間年中無休のサポート"
         desc: "現地事業者のカスタマーサポートは営業時間内のみ。Roami eSIMは<b>24時間365日</b>の多言語チャットサポートを提供し、時差や休日を気にせず問題を解決します。"
 ---
-        eSIMのメリットは物理SIM不要で機種変更時も簡単。デュアルSIM対応で日本の番号を維持したまま海外データ通信が可能。

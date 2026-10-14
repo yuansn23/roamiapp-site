@@ -1,6 +1,6 @@
 ---
 title: マリ eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:01:34+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Orange Mali, Sotelma-Malitel, Moov Africa Mali
   competitors: Airalo, Holafly, Nomad, Ubigi, Drimsim
   main_cities: バマコ、セグー、モプティ、ガオ、キダル
-  main_packages: 3/7/15/30日、データ無制限
+  main_packages: 7/15/30日、1〜20GB
 modal:
   title: サービスアップデートのお知らせ！
   btn_text: 続行
@@ -18,9 +18,11 @@ modal:
   text_android: |-
     当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました！<br>新規のお客様はコード <strong>web20</strong> で20%オフ！
 seo:
-  title: eSIM マリ | 無制限データと高速5G対応のおすすめ通信プラン比較
+  title: eSIM マリ | 大容量データと高速5G対応のおすすめ通信プラン比較
   description: マリ用プリペイドeSIMはRoamiで。契約不要・縛りなしで必要な時に必要なだけデータを購入。クレジットカードで簡単決済、QRコードがメールですぐに届く。短期旅行にも最適な柔軟プラン。
-  keywords: マリ eSIM, マリ 旅行, マリ ネットワーク, マリ 観光, マリ ホテル
+  low_price: 27.99
+  high_price: 79.99
+  keywords: マリ eSIM, マリ eSIM 料金, マリ eSIM おすすめ, マリ eSIM 安い, マリ eSIM 購入, マリ eSIM 申し込み, マリ eSIM データプラン, マリ プリペイドSIM, マリ 旅行 eSIM, マリ eSIM 価格, マリ eSIM 設定方法, マリ eSIM 対応エリア, バマコ eSIM, セグー eSIM, マリ モバイルデータ, マリ eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: マリ向け最高のeSIM
-  title: 海外旅行，就选マリ eSIM
+  title: マリ eSIMなら現地ですぐ使える
 hero:
   flag_image: img/flags/ml.svg
   flag_alt: マリの国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: お好みのプランを選択
 plans_data:
   7 日:
   - spec: 1GB
@@ -134,7 +136,7 @@ network_coverage:
       coverage: 専用IP
       network: 4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: 注意点とヒント
   items:
   - icon: 📱
     html: |-
@@ -185,25 +187,24 @@ activation_steps:
     is_list: false
 faq_section:
   title: 'eSIM マリ | 旅行者に人気のデータ通信プランおすすめ比較'
-  desc: Mali旅行で使えるeSIMの情報まとめ。格安データプランの価格比較、対応端末の確認方法、5G通信の速度やカバレッジ、QRコードを使った簡単設定手順まで。24時間日本語サポート付きで初めての方も安心してご利用いただけます。マリではOrange マリのネットワークに対応。
+  desc: Mali旅行で使えるeSIMの情報まとめ。マリではOrange マリのネットワークに対応。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. 導入と基本
     questions:
     - q: マリ用eSIMは近隣諸国での国際ローミングはどうなりますか？
       a: マリ用eSIMは主にマリ向けに最適化されています。近隣諸国への旅行には、当社のヨーロッパまたは地域別eSIMをお勧めします。これにより追加料金なしでシームレスなローミングが可能です。
     - q: マリ用eSIMのQRコードの有効期限は？
       a: QRコードはメール送信後30日間有効です。旅行前に十分な時間があります。期限が切れた場合は、新しいコードを発行できます。
-        事前にインストールして設定まで完了すれば、mali到着後は機内モードを解除するだけで自動接続。海外旅行eSIMは購入したらすぐにセットアップしてしまうのがベストプラクティスです。
+
     - q: インストール後にマリ用eSIMを別のデバイスに移行できますか？
       a: 一度インストールしたeSIMは他のデバイスに移行できません。旅行中に使用するデバイスにインストールしてください。追加のデバイスには個別にeSIMをお買い求めいただけます。
     - q: マリ用eSIMを使用中、国内のSIMで電話を受けることはできますか？
       a: はい、デュアルSIM端末では両方のプロファイルを同時に使用できます。モバイルデータにはRoami eSIMをデフォルトに設定するだけです。通話やSMSは国内SIM経由で（ローミングが有効な場合があります）行われます。
     - q: Roamiはマリ以外の地域向けeSIMも提供していますか？
-      a: はい、マ
-        Roamiなら1GB/$1.99からの格安プランでmaliの5G高速通信を利用可能。24時間日本語サポート付きで初めての海外eSIMも安心です。リ用eSIMの他に、ヨーロッパ、アジア、北米、グローバル向けの地域別eSIMも提供しています。複数都市をまたぐ旅行や数カ国を巡るツアーに最適です
+      a: はい、マリ用eSIMの他に、ヨーロッパ、アジア、北米、グローバル向けの地域別eSIMも提供しています。複数都市をまたぐ旅行や数カ国を巡るツアーに最適です
         — SIMカードの交換は不要です。
     - q: マリ用eSIMが機能しない場合、返金保証はありますか？
       a: はい、アクティベーションから7日以内に技術的な問題が解決できない場合、100%返金保証を提供しています。リスクはありません。
@@ -211,15 +212,20 @@ faq_section:
       a: はい、最新のスマートフォン（iPhone XS/XR以降、Samsung Galaxy S20+/Note20+、Google Pixel 3a+など）はeSIMに対応しています。マリ用eSIMは、モバイル設定でQRコードをスキャンしてインストールします。Orange
         Mali / Sotelma-Malitelのネットワークはマリで優れた5G/4Gカバレッジを提供します。
     - q: RoamiのeSIMは、現地のプリペイドSIMと比べてどのような利点がありますか？
-      a: 現地のプリペイドSIMとは異なり、店舗に行く必要がなく、本人確認（KYC）やチャージ用のカードを探す手間もありません。Roamiなら、2分以内でデジタルアクティベーションが完了し、空港で列に並ぶ必
-        事前購入で到着後すぐに使えるRoamiのeSIM。1GBから無制限まで旅行スタイルに合わせて選択でき、追加チャージも簡単です。要もありません。
+      a: 現地のプリペイドSIMとは異なり、店舗に行く必要がなく、本人確認（KYC）やチャージ用のカードを探す手間もありません。Roamiなら、2分以内でデジタルアクティベーションが完了し、空港で列に並ぶ必要もありません。
     - q: マリ用eSIMを他のデバイスとテザリング（ポケットWi-Fi）できますか？
       a: はい、Roamiのマリ用eSIMプランは全てテザリング（ポケットWi-Fi）を無制限でサポートしています。ノートパソコン、タブレット、または旅行仲間と接続を共有できます
         — 隠れたコストも速度制限もありません。
 
     - q: マリ用eSIMの価格はいくらですか？割引はありますか？
       a: マリ用eSIMプランは1.99ドル/GBから始まります。プロモーションコード「web20」を使用すると、全プランが20%オフ — 隠れたコストや最低利用期間の縛りはありません。
-        Mali旅行で格安のデータ通信をお探しならRoamiのeSIM。1GB/$1.99からのプリペイドプランで、事前購入からインストールまで5分で完了。日本語サポートで初めての方も安心。
+
+    - q: マリ用eSIMを申し込んだ後、すぐに使えますか？
+      a: マリ用eSIMは出発前でも現地でも申し込み可能です。手続きに店舗へ行く必要はなく、QRコードを読み込めば到着後すぐに接続できます。
+    - q: マリのeSIMは他社と比較して安いですか？
+      a: eSIMは店舗手数料やチャージの手間がなく、マリの通信費を抑えやすい選択です。マリの現地SIMは本人確認やカード購入の手間がかかり、結果的にコストが高くなりがちです。
+    - q: マリ用eSIMの残データが少なくなったらどうすればいいですか？
+      a: マリ用eSIMのデータを使い切った場合は、同じアカウントから新しいデータプランを追加できます。複数のデータプランを同時に持つことはできませんが、購入後はすぐに新しいプランへ切り替わります。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -383,81 +389,80 @@ faq_section:
       a: マリ用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: マリ用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        eSIMのメリットは物理SIM不要で機種変更時も簡単。デュアルSIM対応で日本の番号を維持したまま海外データ通信が可能。
-        格安eSIMならRoamiがおすすめ。1GB/$1.99からのデータプランで5G高速通信。24時間日本語サポートで初めての海外eSIMも安心。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にマリ用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
+  - name: マルタ eSIM
+    flag: img/flags/mt.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
+    slug: malta-esim
+  - name: モーリシャス eSIM
+    flag: img/flags/ma.svg
+    price: 7.99ドルから
+    is_highlight: false
+    slug: mauritius-esim
+  - name: メキシコ eSIM
+    flag: img/flags/mx.svg
+    price: 3.99ドルから
+    is_highlight: false
+    slug: mexico-esim
+  - name: モルドバ eSIM
+    flag: img/flags/mo.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
+    slug: moldova-esim
+  - name: ネパール eSIM
+    flag: img/flags/ne.svg
+    price: 10.99ドルから
+    is_highlight: false
+    slug: nepal-esim
+  - name: オランダ eSIM
+    flag: img/flags/nl.svg
     price: 1.99ドルから
     is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
+    slug: netherlands-esim
+  - name: ニュージーランド eSIM
+    flag: img/flags/nz.svg
+    price: 3.99ドルから
+    is_highlight: false
+    slug: new-zealand-esim
+  - name: ニジェール eSIM
+    flag: img/flags/ni.svg
+    price: 23.99ドルから
+    is_highlight: false
+    slug: niger-esim
+  - name: ナイジェリア eSIM
+    flag: img/flags/ng.svg
+    price: 5.99ドルから
+    is_highlight: false
+    slug: nigeria-esim
+  - name: ノルウェー eSIM
+    flag: img/flags/no.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: 1.99ドルから
+    slug: norway-esim
+  - name: オマーン eSIM
+    flag: img/flags/om.svg
+    price: 5.99ドルから
     is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
+    slug: oman-esim
+  - name: パキスタン eSIM
+    flag: img/flags/pk.svg
+    price: 3.99ドルから
     is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+    slug: pakistan-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "マリでeSIMと物理SIMの本当の違いは？"
   subtitle: "マリの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Mali) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Mali"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -531,4 +536,3 @@ market_analysis:
         title: "ネットワーク選択の自由"
         desc: "Orangeの3Gカバレッジは<b>人口の20%</b>に限られる。Roami eSIMは最適なネットワークに自動接続し、盲区を回避。"
 ---
-        格安eSIMならRoamiがおすすめ。1GB/$1.99からのデータプランで5G高速通信。24時間日本語サポートで初めての海外eSIMも安心。

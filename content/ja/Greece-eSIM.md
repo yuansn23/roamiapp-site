@@ -1,6 +1,6 @@
 ---
 title: ギリシャ eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:02:27+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,10 @@ modal:
     当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました！<br>新規のお客様はコード <strong>web20</strong> で20%オフ！
 seo:
   title: eSIM ギリシャ | 契約不要のプリペイドデータ通信プラン徹底比較解説
-  description: ギリシャでInstagramやTikTokを楽しむRoamiのeSIM。無制限プランならデータ容量を気にせず動画投稿やライブ配信も可能。5G対応でアップロード速度も速く旅行の思い出をリアルタイムでシェア。
-  keywords: ギリシャ eSIM, ギリシャ ネットワーク, ギリシャ 旅行, ギリシャ データ通信, ギリシャ キャリア
+  description: ギリシャでInstagramやTikTokを楽しむRoamiのeSIM。無制限プランならデータ容量を気にせず動画投稿やライブ配信も可能。
+  low_price: 1.99
+  high_price: 77.99
+  keywords: ギリシャ eSIM, ギリシャ eSIM 料金, ギリシャ eSIM おすすめ, ギリシャ eSIM 安い, ギリシャ eSIM 購入, ギリシャ eSIM 申し込み, ギリシャ eSIM データ無制限, ギリシャ プリペイドSIM, ギリシャ 旅行 eSIM, ギリシャ eSIM 価格, ギリシャ eSIM 設定方法, ギリシャ eSIM 対応エリア, アテネ eSIM, テッサロニキ eSIM, ギリシャ モバイルデータ, ギリシャ eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: ギリシャ向け最高のeSIM
-  title: ギリシャ eSIM，海外旅行上网无忧
+  title: ギリシャの旅をもっと楽しくするeSIM
 hero:
   flag_image: img/flags/gr.svg
   flag_alt: ギリシャの国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: プランをチェック
 plans_data:
   30 日:
   - spec: 20GB
@@ -322,7 +324,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: 便利な使い方のヒント
   items:
   - icon: 📱
     html: |-
@@ -373,12 +375,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: 'eSIM ギリ | 短期旅行におすすめの格安データプラン選び方'
-  desc: ギリシャでおすすめのeSIMプラン比較ガイド。格安データ通信、購入からインストールまで5分で完了する手軽さ、5G対応の高速通信、24時間日本語サポートの安心感について詳しく解説。ギリシャではCosmoteのネットワークに対応。
+  desc: ギリシャでおすすめのeSIMプラン比較ガイド。ギリシャではCosmoteのネットワークに対応。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. 基本の疑問
     questions:
     - q: ギリシャ用eSIMのデータ使用量を確認するには？
       a: アクティベーション後、オンラインのダッシュボードにアクセスできます。そこでデータ残量、残り時間をリアルタイムで確認し、いつでもサポートを依頼できます。
@@ -390,24 +392,30 @@ faq_section:
     - q: ギリシャ用eSIMを他のデバイスとテザリング（ポケットWi-Fi）できますか？
       a: はい、Roamiのギリシャ用eSIMプランは全てテザリング（ポケットWi-Fi）を無制限でサポートしています。ノートパソコン、タブレット、または旅行仲間と接続を共有できます
         — 隠れたコストも速度制限もありません。
-        Roamiなら1GB/$1.99からの格安プランでギリシャの5G高速通信を利用可能。24時間日本語サポート付きで初めての海外eSIMも安心です。
+
     - q: ギリシャ用eSIMの価格はいくらですか？割引はありますか？
       a: ギリシャ用eSIMプランは1.99ドル/GBから始まります。プロモーションコード「web20」を使用すると、全プランが20%オフ — 隠れたコストや最低利用期間の縛りはありません。
     - q: ギリシャ用eSIMを使用中、国内のSIMで電話を受けることはできますか？
       a: はい、デュアルSIM端末では両方のプロファイルを同時に使用できます。モバイルデータにはRoami eSIMをデフォルトに設定するだけです。通話やSMSは国内SIM経由で（ローミングが有効な場合があります）行われます。
     - q: ギリシャ用eSIMのQRコードの有効期限は？
       a: QRコードはメール送信後30日間有効です。旅行前に十分な時間があります。期限が切れた場合は、新しいコードを発行できます。
-        事前にインストールして設定まで完了すれば、ギリシャ到着後は機内モードを解除するだけで自動接続。海外旅行eSIMは購入したらすぐにセットアップしてしまうのがベストプラクティスです。
+
     - q: ギリシャ用eSIMが機能しない場合、返金保証はありますか？
       a: はい、アクティベーションから7日以内に技術的な問題が解決できない場合、100%
-        ギリシャ旅行のデータ通信はRoamiにお任せ。最安1GB/$1.99、無制限プランもあり、5G対応の高速ネットワークで快適な旅をサポートします。返金保証を提供しています。リスクはありません。
+        返金保証を提供しています。リスクはありません。
     - q: Roamiはギリシャ以外の地域向けeSIMも提供していますか？
       a: はい、ギリシャ用eSIMの他に、ヨーロッパ、アジア、北米、グローバル向けの地域別eSIMも提供しています。複数都市をまたぐ旅行や数カ国を巡るツアーに最適です
         — SIMカードの交換は不要です。
 
     - q: ギリシャ用eSIMは物理SIMよりも安全ですか？
       a: eSIMはデバイスに組み込まれているため、抜き取ったりコピーしたりすることができず、不正アクセスに対してより保護されています。データは暗号化され、SIMカードの紛失や盗難のリスクもありません。
-        ギリシャでの安定したインターネット接続はRoamiのeSIM。現地トップキャリアのネットワークに自動接続し、5G高速通信を実現。24時間サポート付きでビジネス旅行にも最適。
+
+    - q: ギリシャ旅行前にeSIMを申し込むベストなタイミングはいつですか？
+      a: クレジットカードがあれば、ギリシャ用eSIMはオンラインで申し込めます。申し込み後はQRコードがメールで届き、Cosmoteのネットワークに接続するだけで利用を開始できます。
+    - q: ギリシャ用eSIMとローミング、料金が安いのはどちらですか？
+      a: eSIMは店舗手数料やチャージの手間がなく、ギリシャの通信費を抑えやすい選択です。詳しい料金比較は、各プランの内容と合わせてプラン一覧で確認できます。
+    - q: ギリシャのeSIMで追加チャージは必要ですか？
+      a: ギリシャ用eSIMのデータを使い切った場合は、同じアカウントから新しいデータプランを追加できます。滞在日数と用途に合わせて最初に適切な容量を選ぶと、追加購入を減らせます。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -570,81 +578,80 @@ faq_section:
       a: ギリシャ用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: ギリシャ用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        eSIMの設定はQRコードをスキャンするだけで完了。物理SIM不要でデュアルSIM運用も可能。最安1GB/$1.99から使える格安データ通信。
-        eSIM対応端末をお持ちなら物理SIMより便利。契約不要でプリペイド式、1GBから無制限まで選べる。事前購入がお得でおすすめ。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にギリシャ用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
-    price: 1.99ドルから
+  - name: グレナダ eSIM
+    flag: img/flags/gd.svg
+    price: 11.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
-    price: 1.99ドルから
+    slug: grenada-esim
+  - name: グアドループ eSIM
+    flag: img/flags/gp.svg
+    price: 8.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
-    price: 1.99ドルから
+    slug: guadeloupe-esim
+  - name: グアム eSIM
+    flag: img/flags/gu.svg
+    price: 9.99ドルから
+    is_highlight: false
+    slug: guam-esim
+  - name: グアテマラ eSIM
+    flag: img/flags/gt.svg
+    price: 11.99ドルから
+    is_highlight: false
+    slug: guatemala-esim
+  - name: ガイアナ eSIM
+    flag: img/flags/gy.svg
+    price: 9.99ドルから
     is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
-    price: 1.99ドルから
+    slug: guyana-esim
+  - name: ホンジュラス eSIM
+    flag: img/flags/hn.svg
+    price: 6.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
+    slug: honduras-esim
+  - name: 香港 eSIM
     flag: img/flags/hk.svg
     price: 1.99ドルから
     is_highlight: false
     slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
+  - name: ハンガリー eSIM
+    flag: img/flags/hu.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
+    slug: hungary-esim
+  - name: アイスランド eSIM
+    flag: img/flags/is.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
+    slug: iceland-esim
+  - name: インド eSIM
+    flag: img/flags/in.svg
+    price: 3.99ドルから
+    is_highlight: false
+    slug: india-esim
+  - name: インドネシア eSIM
+    flag: img/flags/id.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
+    slug: indonesia-esim
+  - name: イラク eSIM
+    flag: img/flags/iq.svg
+    price: 21.99ドルから
     is_highlight: false
-    slug: australia-esim
-
+    slug: iraq-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "ギリシャでの速度・カバレッジ・価格：eSIM vs プリペイド"
   subtitle: "ギリシャの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Greece) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Greece"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"

@@ -1,6 +1,6 @@
 ---
 title: 'eSIM غيانا 2026: دليل المشغلين المحليين | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,19 +9,18 @@ country_meta:
   operators: ديجيسيل، جي تي تي، إي-نتوركس
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: جورج تاون، ليندن، نيو أمستردام، بارتيكا، آنا ريجينا
-  main_packages: 3/7/15/30 يومًا، بيانات غير محدودة
+  main_packages: 7/15/30 يومًا، حتى 5 جيجابايت
 modal:
   title: تم ترقية الخدمة!
   btn_text: متابعة
   text_default: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIMGo</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
 seo:
-  title: 'eSIM غيانا من 1.99 دولار: بيانات 5G سريعة للمسافرين'
-  description: "قارن خطط eSIM لغيانا مع 5G سريع في جورج تاون وليندن. تغطية ديجيسيل وجي تي تي وإي-نتوركس. تفعيل فوري عبر QR من 1.99 دولار."
-  keywords: eSIM غيانا، شراء eSIM غيانا، أفضل eSIM غيانا، eSIM سفر غيانا، ديجيسيل غيانا، جي تي تي غيانا، إي-نتوركس غيانا،
-    eSIM جورج تاون، eSIM ليندن، eSIM نيو أمستردام، eSIM مدفوعة مسبقًا غيانا، eSIM 5G غيانا
-  low_price: 1.99
-  high_price: 39.9
+  title: 'eSIM غيانا من 9.99 دولار: بيانات 5G سريعة للمسافرين'
+  description: "قارن خطط eSIM لغيانا مع 5G سريع في جورج تاون وليندن. تغطية ديجيسيل وجي تي تي وإي-نتوركس. تفعيل فوري عبر QR من 9.99 دولار."
+  keywords: eSIM غيانا، شراء eSIM غيانا، أفضل eSIM غيانا، eSIM غيانا رخيصة، eSIM غيانا مسبقة الدفع، باقة eSIM غيانا، باقة بيانات eSIM غيانا، eSIM غيانا 5G، أفضل eSIM لـ غيانا، سعر eSIM غيانا، تفعيل eSIM غيانا، تغطية eSIM غيانا، ديجيسيل غيانا، eSIM جورج تاون، eSIM ليندن، eSIM نيو أمستردام
+  low_price: 9.99
+  high_price: 49.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -41,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/gy.svg
   flag_alt: علم غيانا
-  title: 'eSIM غيانا: ابقَ على اتصال أينما تذهب'
+  title: 'eSIM غيانا: شبكة قوية من اليوم الأول'
   subtitle: لا رسوم خفية | إنترنت بدون قلق | دعم 24/7 - أفضل eSIM مدفوعة مسبقًا للمسافرين إلى غيانا
 features:
-  title: 'لماذا يختار المسافرون إلى غيانا Roami: التغطية والسرعة والخدمة'
+  title: لماذا يختار المسافرون روامي في غيانا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي غيانا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM غيانا: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM غيانا: بيانات مرنة بأسعار تنافسية'
 plans_data:
   15 يومًا:
   - spec: 6 جيجابايت
@@ -116,7 +115,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM غيانا: دليل المشغلين وخريطة التغطية'
+  title: دليل الشبكات المحلية لـ eSIM غيانا
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -147,7 +146,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM غيانا: ما يجب معرفته قبل السفر'
+  title: 'قبل الذهاب إلى غيانا: تحضير eSIM خطوة بخطوة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -167,7 +166,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM غيانا: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM غيانا: من رمز QR إلى الاتصال'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -192,7 +191,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM غيانا
+    title: أجوبة على أشهر أسئلة eSIM غيانا
     questions:
     - q: |
         بالنسبة لسائح في غيانا، هل ديجيسيل أم جي تي تي الخيار الأفضل؟
@@ -226,63 +225,75 @@ faq_section:
         ماذا أفعل إذا لم يتصل eSIM غيانا عند وصولي؟
       a: |
         ثلاثة فحوصات سريعة تستغرق حوالي 30 ثانية لكل منها: 1) هل تم تمكين تجوال البيانات؟ 2) هل يمكنك تحديد ديجيسيل يدويًا في إعدادات الشبكة؟ 3) حاول إعادة تشغيل هاتفك. يتم حل حوالي 90% من مشكلات الاتصال بإحدى هذه الخطوات. إذا لم يحدث ذلك، يمكن لفريق دعم Roami 24/7 المساعدة.
+    - q: |
+        هل يمكنني شراء eSIM غيانا ليلاً؟
+      a: |
+        يتيح Roami شراء eSIM غيانا من التطبيق أو الموقع. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        ما أرخص باقة eSIM غيانا متاحة؟
+      a: |
+        في غيانا يتطلب شراء بطاقة SIM المحلية تسجيلًا في المتجر، لذا غالبًا يكون eSIM أوفر. بطاقات SIM المحلية في غيانا تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        هل يمكنني تغيير باقة بيانات eSIM أثناء الإقامة في غيانا؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM ذات الصلة بغيانا
+  title: باقات eSIM إضافية لمسافري غيانا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
+  - name: eSIM سلوفاكيا
+    flag: img/flags/sl.svg
     price: من 1.99 دولار
     is_highlight: false
   - name: eSIM إسبانيا
     flag: img/flags/es.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
+  - name: eSIM تنزانيا
+    flag: img/flags/tz.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM اليابان
+    flag: img/flags/jp.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM غويانا الفرنسية
+    flag: img/flags/gf.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM النرويج
+    flag: img/flags/no.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM العراق
+    flag: img/flags/iq.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM بروناي
+    flag: img/flags/bn.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM مقدونيا
+    flag: img/flags/ma.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM الصين
+    flag: img/flags/cn.svg
+    price: من 1.99 دولار
+    is_highlight: true
+  - name: eSIM مالطا
+    flag: img/flags/mt.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM الإكوادور
+    flag: img/flags/ec.svg
+    price: من 6.99 دولار
     is_highlight: false
 market_analysis:
   title: 'مقارنة eSIM غيانا ببطاقة SIM المدفوعة مسبقًا: أيهما مناسب لك؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في غيانا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM للبيانات المدفوعة مسبقًا (غيانا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Guyana
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)
@@ -309,7 +320,7 @@ market_analysis:
   - icon: calendar-xmark
     title: دورة الفوترة<br>والتكلفة الغارقة
     prepaid_title: ''
-    prepaid_desc: تقدم جي تي تي+ خطط يوم واحد و3 أيام و7 أيام و30 يومًا؛ تقدم ديجيسيل خطط يوم واحد ويومين و3 أيام و7 أيام و30 يومًا و90 يومًا. على سبيل المثال، تكلف خطة جي تي تي+ الشهرية 4 جيجابايت 3499 دولار غياني لمدة 30 يومًا.
+    prepaid_desc: تقدم جي تي تي+ خطط يوم واحد و3 أيام و7 أيام و30 يومًا؛ تقدم ديجيسيل خطط يوم واحد ويومين و3 أيام و7 أيام و30 يومًا و90 يومًا. على سبيل المثال، تكلف خطة جي تي تي+ الشهرية 3 جيجابايت 30.99 دولار غياني لمدة 30 يومًا.
     esim_title: خطط قصيرة الأجل مرنة
     esim_desc: على عكس خطة جي تي تي+ لمدة 30 يومًا بسعة 4 جيجابايت (3499 دولار غياني) حيث تهدر رحلة 5 أيام 75% من البيانات، يقدم Roami خططًا لمدة 7 أيام تبدأ من 1.99 دولار / جيجابايت، متطابقة مع مدة سفرك تمامًا.
   - icon: wifi

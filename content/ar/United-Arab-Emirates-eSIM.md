@@ -1,6 +1,6 @@
 ---
 title: 'eSIM الإمارات العربية المتحدة 2026 - أفضل خطة 5G مسبقة الدفع لدبي وأبوظبي | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20%، كود الخصم: web20'
 seo:
   title: "eSIM الإمارات - أفضل خطة بيانات 5G للمسافرين الآن"
-  description: "أفضل eSIM مسبق الدفع في الإمارات مع 5G على اتصالات ودو وفيرجن موبايل. رمز QR فوري بدون عقود. مثالي لدبي. من 1.99 دولار. وخطط مرنة."
-  keywords: eSIM الإمارات, شراء eSIM الإمارات, أفضل eSIM الإمارات, eSIM سفر الإمارات, اتصالات الإمارات, دو الإمارات, فيرجن موبايل الإمارات, eSIM دبي, eSIM أبوظبي, eSIM الشارقة, eSIM مسبق الدفع الإمارات, 5G eSIM الإمارات
-  low_price: 1.99
-  high_price: 39.9
+  description: "أفضل eSIM مسبق الدفع في الإمارات مع 5G على اتصالات ودو وفيرجن موبايل. رمز QR فوري بدون عقود. مثالي لدبي. من 3.99 دولار. وخطط مرنة."
+  keywords: eSIM الإمارات، شراء eSIM الإمارات، أفضل eSIM الإمارات، eSIM الإمارات رخيصة، eSIM الإمارات مسبقة الدفع، باقة eSIM الإمارات، eSIM الإمارات غير محدودة، eSIM الإمارات 5G، أفضل eSIM لـ الإمارات، سعر eSIM الإمارات، تفعيل eSIM الإمارات، تغطية eSIM الإمارات، اتصالات الإمارات، eSIM دبي، eSIM أبوظبي، eSIM الشارقة
+  low_price: 3.99
+  high_price: 99.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/ae.svg
   flag_alt: علم الإمارات
-  title: 'eSIM الإمارات: 5G سريع لمول دبي ورحلات السفاري الصحراوية وأبوظبي'
+  title: 'eSIM الإمارات: إنترنت سريع بدون تعقيدات'
   subtitle: تسليم فوري لرمز QR | تغطية 5G على اتصالات ودو وفيرجن | دعم 24/7 - أفضل eSIM مسبق الدفع للإمارات
 features:
-  title: 'لماذا يختار مسافرو الإمارات Roami: الخطط والشبكة والدعم'
+  title: ميزات خدمة Roami في الإمارات
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بشبكات اتصالات ودو وفيرجن موبايل للحصول على أفضل إشارة
-plans_title: 'شراء eSIM الإمارات: خطط تناسب كل مدة رحلة'
+plans_title: 'خطط eSIM الإمارات: باقات مصممة للمسافرين'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -269,7 +269,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM الإمارات: دليل شبكات اتصالات ودو وفيرجن موبايل'
+  title: 'eSIM الإمارات: خريطة التغطية ونصائح الاتصال'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -300,7 +300,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM الإمارات: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM الإمارات: تذكيرات الإعداد قبل الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> (تستخدم الإمارات نطاق 5G n78 — تحقق من جهازك).
@@ -319,7 +319,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM الإمارات: 3 خطوات بسيطة'
+  title: 'eSIM الإمارات: دليل التثبيت في 3 خطوات'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -344,7 +344,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM الإمارات
+    title: أسئلة أساسية عن eSIM الإمارات
     questions:
     - q: |
         ما هي المستندات التي أحتاجها لشراء eSIM الإمارات من Roami؟
@@ -390,55 +390,67 @@ faq_section:
         ما مدى سرعة 5G على eSUM الإمارات من Roami؟
       a: |
         تمتلك الإمارات واحدة من أسرع شبكات 5G عالميًا، بمتوسط سرعات 300-800 ميجابت في الثانية في دبي وأبوظبي على شبكة اتصالات. يوصلك eSIM Roami بـ 5G بالسرعة الكاملة بدون تقليل اصطناعي. توقع بث فيديو 4K سلس، ومكالمات فيديو بدون تأخير، وتحميل سريع لصور سفرك.
+    - q: |
+        هل يمكن استخدام كود خصم عند شراء eSIM الإمارات؟
+      a: |
+        يتيح Roami شراء eSIM الإمارات من التطبيق أو الموقع. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        هل eSIM الإمارات أوفر للرحلات القصيرة؟
+      a: |
+        أسعار eSIM الإمارات معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        كيف تختلف طريقة التعبئة بين eSIM وبطاقة SIM المحلية في الإمارات؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في الإمارات، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM ذات صلة بالإمارات
+  title: خطط eSIM لوجهات قد تجمعها مع الإمارات
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM المجر
+    flag: img/flags/hu.svg
+    price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM بيلاروسيا
+    flag: img/flags/by.svg
+    price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: true
+  - name: eSIM بنما
+    flag: img/flags/pa.svg
+    price: من 11.99 دولار
+    is_highlight: false
   - name: eSIM كندا
     flag: img/flags/ca.svg
-    price: ابتداءً من 1.99 دولار
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM سيراليون
+    flag: img/flags/si.svg
+    price: من 10.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM ماكاو
+    flag: img/flags/ma.svg
+    price: من 1.99 دولار
     is_highlight: false
   - name: eSIM ألمانيا
     flag: img/flags/de.svg
-    price: ابتداءً من 1.99 دولار
+    price: من 1.99 دولار
+    is_highlight: true
+  - name: eSIM السعودية
+    flag: img/flags/sa.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM أوزبكستان
+    flag: img/flags/uz.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM نيوزيلندا
+    flag: img/flags/nz.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM الفلبين
+    flag: img/flags/ph.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM ليتوانيا
+    flag: img/flags/lt.svg
+    price: من 1.99 دولار
     is_highlight: false
 ---

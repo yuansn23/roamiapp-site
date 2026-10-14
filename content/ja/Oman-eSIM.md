@@ -1,6 +1,6 @@
 ---
 title: 'オマーン eSIM 2026: 都市別ネットワークガイド | Roami'
-date: '2026-06-26T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: "当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました。<br>新規のお客様は20%割引、プロモーションコード: web20"
 seo:
   title: eSIM オマーン | 5G対応カバレッジの高速データ通信ガイド
-  description: オマーン旅行に最適なeSIM。事前購入で到着後すぐにインターネット接続可能。高速5G通信と中東エリアの安定したカバレッジを提供。
-  keywords: オマーン eSIM, オマーン eSIM 購入, おすすめ オマーン eSIM, オマーン トラベル eSIM, Omantel オマーン, Ooredoo オマーン, Vodafone オマーン, マスカット eSIM, サララ eSIM, ニズワ eSIM, オマーン プリペイド eSIM, 5G オマーン eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: オマーン eSIMをお探しならRoami。5.99ドルからのデータプランで現地の5G/4Gに接続。事前購入で空港のSIMカウンターをスキップできます。
+  keywords: オマーン eSIM, オマーン eSIM 料金, オマーン eSIM おすすめ, オマーン eSIM 安い, オマーン eSIM 購入, オマーン eSIM 申し込み, オマーン eSIM データ無制限, オマーン プリペイドSIM, オマーン 旅行 eSIM, オマーン eSIM 価格, オマーン eSIM 設定方法, オマーン eSIM 対応エリア, マスカット eSIM, サララ eSIM, オマーン モバイルデータ, オマーン eSIM 比較
+  low_price: 5.99
+  high_price: 67.99
 order_summary:
   title: 選択中のプラン
   label_data: データ容量
@@ -36,7 +36,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: オマーンにおすすめのeSIM
-  title: オマーン eSIM，海外旅行上网无忧
+  title: オマーンへの旅行はeSIMでスマートに
 hero:
   flag_image: img/flags/om.svg
   flag_alt: オマーンの国旗
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動切替
     desc: オマーンの主要キャリアに自動接続し最適な電波を確保
-plans_title: 'オマーン eSIM 購入: 旅行期間に合わせたプラン'
+plans_title: 旅行プランを選択
 plans_data:
   7 Days:
   - spec: 1GB
@@ -276,7 +276,7 @@ network_coverage:
       coverage: 都市部で良好なカバレッジ
       network: 5G/4G/LTE ネットワーク
 reminders:
-  title: 'オマーン eSIM セットアップのヒント: 出発前に知っておくこと'
+  title: 知っておきたいこと
   items:
   - icon: 📱
     html: 購入前にご利用の端末が <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM対応</a> であることをご確認ください。
@@ -320,12 +320,12 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: オマーン eSIM FAQ
+    title: 1. 基本情報
     questions:
     - q: |
         あまりお金をかけずにオマーン用のeSIMを入手できますか？
       a: |
-        もちろんです。RoamiのオマーンeSIMプランはなんと$1.99から始まります。5GB/15日プラン（$9.99）が旅行者に最も人気 — 地図、WhatsApp、Instagram、メールを快適に利用できます。ヘビーユーザーには10GB（$14.99）または無制限（$59.99）プランがおすすめです。空港のSIMカウンターをスキップすれば30〜50%節約でき、行列に並ぶ手間も省けます。調整が必要ですか？ Roamiアプリからいつでも追加チャージできます。
+        もちろんです。RoamiのオマーンeSIMプランはなんと$5.99から始まります。5GB/15日プラン（$15.99）が旅行者に最も人気 — 地図、WhatsApp、Instagram、メールを快適に利用できます。ヘビーユーザーには10GB（$20.99）または無制限（$23.99）プランがおすすめです。空港のSIMカウンターをスキップすれば30〜50%節約でき、行列に並ぶ手間も省けます。調整が必要ですか？ Roamiアプリからいつでも追加チャージできます。
     - q: |
         オマーンの無制限eSIMプランは価値がありますか？それとも固定データプランの方が良いですか？
       a: |
@@ -355,56 +355,73 @@ faq_section:
         旅行中にオマーンeSIMが突然使えなくなった場合はどうすればいいですか？
       a: |
         まず、電話を再起動し、データローミングを有効にしてみてください。ほとんどの問題は2分以内に解決します。解決しない場合は、ネットワーク設定で手動でキャリアを選択してください。それでも問題が続く場合は、Roamiの24時間サポートがお手伝いします。
+    - q: スマホからオマーン用eSIMを申し込みできますか？
+      a: 申し込みは公式サイトから数分で完了します。申し込み後はQRコードがメールで届き、Omantelのネットワークに接続するだけで利用を開始できます。
+    - q: オマーン用eSIMの料金はデータ容量によってどう変わりますか？
+      a: オマーン用eSIMの料金はプランごとに明示されており、現地SIMのような追加チャージは不要です。詳しい料金比較は、各プランの内容と合わせてプラン一覧で確認できます。
+    - q: オマーンのeSIMで残データを翌日に繰り越せますか？
+      a: オマーン滞在中にデータが不足したら、オンラインで上位のデータプランを購入して切り替えられます。滞在日数と用途に合わせて最初に適切な容量を選ぶと、追加購入を減らせます。
 related_products:
   title: 関連eSIMプラン
   items:
-  - name: アメリカ eSIM
-    flag: img/flags/us.svg
-    price: From $1.99
+  - name: パキスタン eSIM
+    flag: img/flags/pk.svg
+    price: 3.99ドルから
     is_highlight: false
-  - name: イギリス eSIM
-    flag: img/flags/gb.svg
-    price: From $1.99
+    slug: pakistan-esim
+  - name: パナマ eSIM
+    flag: img/flags/pa.svg
+    price: 11.99ドルから
     is_highlight: false
-  - name: ヨーロッパ eSIM
-    flag: img/flags/eu.svg
-    price: From $1.99
+    slug: panama-esim
+  - name: パラグアイ eSIM
+    flag: img/flags/py.svg
+    price: 22.99ドルから
+    is_highlight: false
+    slug: paraguay-esim
+  - name: ペルー eSIM
+    flag: img/flags/pe.svg
+    price: 4.99ドルから
+    is_highlight: false
+    slug: peru-esim
+  - name: フィリピン eSIM
+    flag: img/flags/ph.svg
+    price: 2.99ドルから
+    is_highlight: false
+    slug: philippines-esim
+  - name: ポーランド eSIM
+    flag: img/flags/pl.svg
+    price: 1.99ドルから
+    is_highlight: false
+    slug: poland-esim
+  - name: ポルトガル eSIM
+    flag: img/flags/pt.svg
+    price: 1.99ドルから
+    is_highlight: false
+    slug: portugal-esim
+  - name: プエルトリコ eSIM
+    flag: img/flags/pu.svg
+    price: 6.99ドルから
+    is_highlight: false
+    slug: puerto-rico-esim
+  - name: カタール eSIM
+    flag: img/flags/qa.svg
+    price: 1.99ドルから
     is_highlight: true
-  - name: カナダ eSIM
-    flag: img/flags/ca.svg
-    price: From $1.99
+    slug: qatar-esim
+  - name: レユニオン島 eSIM
+    flag: img/flags/re.svg
+    price: 1.99ドルから
     is_highlight: false
-  - name: トルコ eSIM
-    flag: img/flags/tr.svg
-    price: From $1.99
+    slug: reunion-island-esim
+  - name: ルーマニア eSIM
+    flag: img/flags/ro.svg
+    price: 1.99ドルから
     is_highlight: false
-  - name: 中国 eSIM
-    flag: img/flags/cn.svg
-    price: From $1.99
+    slug: romania-esim
+  - name: ロシア eSIM
+    flag: img/flags/ru.svg
+    price: 2.99ドルから
     is_highlight: false
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: フランス eSIM
-    flag: img/flags/fr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: スペイン eSIM
-    flag: img/flags/es.svg
-    price: From $1.99
-    is_highlight: false
-  - name: ドイツ eSIM
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: オーストラリア eSIM
-    flag: img/flags/au.svg
-    price: From $1.99
-    is_highlight: false
+    slug: russia-esim
 ---
-        海外旅行にeSIMをおすすめする理由は、事前購入で到着後すぐに使える便利さ。Roamiなら1GB/$1.99からの格安プランで5G高速通信。

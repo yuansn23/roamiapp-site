@@ -1,6 +1,6 @@
 ---
 title: 'بيرو eSIM 2026: دليل الاتصال والسرعة | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,11 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
 seo:
   title: "بيرو eSIM | أفضل خطة بيانات 5G موثوقة لرحلتك الآن"
-  description: "أفضل eSIM مسبقة الدفع للسفر إلى بيرو من Roami. بيانات 5G غير محدودة. تغطي ليما وكوسكو وأريكيبا. تفعيل فوري. من 1.99 دولار."
-  keywords: بيرو eSIM, شراء بيرو eSIM, أفضل بيرو eSIM, بيرو eSIM للسفر, كلارو بيرو, موفيستار بيرو, إنتيل بيرو, ليما eSIM,
-    كوسكو eSIM, أريكيبا eSIM, بيرو eSIM مسبقة الدفع, 5G بيرو eSIM
-  low_price: '1.99'
-  high_price: '39.9'
+  description: "أفضل eSIM مسبقة الدفع للسفر إلى بيرو من Roami. بيانات 5G غير محدودة. تغطي ليما وكوسكو وأريكيبا. تفعيل فوري. من 4.99 دولار."
+  keywords: eSIM بيرو، شراء eSIM بيرو، أفضل eSIM بيرو، eSIM بيرو رخيصة، eSIM بيرو مسبقة الدفع، باقة eSIM بيرو، eSIM بيرو غير محدودة، eSIM بيرو 5G، أفضل eSIM لـ بيرو، سعر eSIM بيرو، تفعيل eSIM بيرو، تغطية eSIM بيرو، كلارو بيرو، eSIM ليما، eSIM كوسكو، eSIM أريكيبا
+  low_price: 4.99
+  high_price: 85.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -41,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/pe.svg
   flag_alt: علم بيرو
-  title: 'بيرو eSIM: اتصال فوري لسفر خالٍ من القلق'
+  title: 'eSIM بيرو: شبكة سريعة لكل رحلاتك'
   subtitle: تفعيل فوري | تغطية 5G من الدرجة الأولى | دعم 24/7 - أفضل eSIM مسبقة الدفع لبيرو
 features:
-  title: 'لماذا يختار المسافرون إلى بيرو Roami: الشبكة والباقات والقيمة'
+  title: ما تحصل عليه مع eSIM بيرو من Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات الاتصالات في بيرو للحصول على أفضل إشارة
-plans_title: 'شراء بيرو eSIM: خطط لكل مدة رحلة'
+plans_title: خطط بيانات eSIM بيرو لكل نوع رحلة
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -256,7 +255,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية بيرو eSIM: تغطية الشبكة ومقارنة المشغلين'
+  title: 'eSIM بيرو: خريطة التغطية والمشغلون الرئيسيون'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -288,7 +287,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد بيرو eSIM: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM بيرو: ما ينبغي تجهيزه قبل الإقلاع'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -309,7 +308,7 @@ reminders:
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت بيرو eSIM: 3 خطوات بسيطة'
+  title: 'eSIM بيرو: ثلاث خطوات للاتصال بالشبكة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -334,7 +333,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول بيرو eSIM
+    title: أسئلة متكررة حول eSIM بيرو
     questions:
     - q: |
         السياح الذين يزورون بيرو — أي شبكة تقدم أفضل تجربة؟
@@ -343,7 +342,7 @@ faq_section:
     - q: |
         ما هي أرخص خيارات eSIM لرحلة إلى بيرو؟
       a: |
-        تبدأ خطط Roami بيرو eSIM من 1.99 دولار (7 أيام، 1 جيجابايت) وتصل إلى 59.99 دولار (30 يومًا غير محدود). لرحلة نموذجية مدتها 5-7 أيام، خطة 5 جيجابايت بسعر 9.99 دولار هي الخيار الأمثل — كافية للخرائط والمراسلة وتصفح وسائل التواصل الاجتماعي. هل تحتاج إلى بث الفيديو أو العمل عن بعد؟ اختر 10 جيجابايت أو غير محدود. بفضل شبكة 5G من كلارو، يعمل البث ومكالمات الفيديو بشكل رائع. تتقاضى أكشاك SIM في المطار 30-50٪ أكثر، وعليك الانتظار في الطابور. لست متأكدًا من احتياجاتك للبيانات؟ ابدأ بخطة صغيرة وأعد الشحن عبر التطبيق دون تغيير eSIM الخاص بك.
+        تبدأ خطط Roami بيرو eSIM من 4.99 دولار (7 أيام، 1 جيجابايت) وتصل إلى 59.99 دولار (30 يومًا غير محدود). لرحلة نموذجية مدتها 5-7 أيام، خطة 5 جيجابايت بسعر 13.99 دولار هي الخيار الأمثل — كافية للخرائط والمراسلة وتصفح وسائل التواصل الاجتماعي. هل تحتاج إلى بث الفيديو أو العمل عن بعد؟ اختر 10 جيجابايت أو غير محدود. بفضل شبكة 5G من كلارو، يعمل البث ومكالمات الفيديو بشكل رائع. تتقاضى أكشاك SIM في المطار 30-50٪ أكثر، وعليك الانتظار في الطابور. لست متأكدًا من احتياجاتك للبيانات؟ ابدأ بخطة صغيرة وأعد الشحن عبر التطبيق دون تغيير eSIM الخاص بك.
     - q: |
         كيف يقارن Roami بـ Holafly لـ eSIM في بيرو؟
       a: |
@@ -368,63 +367,75 @@ faq_section:
         ماذا أفعل إذا لم تتصل eSIM بيرو الخاصة بي عند وصولي؟
       a: |
         ثلاث فحوصات سريعة تستغرق حوالي 30 ثانية لكل منها: 1) هل تم تشغيل تجوال البيانات؟ 2) هل يمكنك تحديد كلارو يدويًا في إعدادات الشبكة؟ 3) حاول إعادة تشغيل هاتفك. يتم حل حوالي 90٪ من مشكلات الاتصال بإحدى هذه الخطوات. إذا لم يحدث ذلك، يمكن لفريق الدعم 24/7 من Roami المساعدة.
+    - q: |
+        كيف أدفع عند شراء eSIM بيرو؟
+      a: |
+        يمكن شراء eSIM بيرو قبل السفر أو بعده. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة كلارو لتبدأ الاستخدام فورًا.
+    - q: |
+        هل يُحاسب eSIM بيرو على الاستخدام الفعلي فقط؟
+      a: |
+        بما أنك تختار الحجم المناسب، يكون eSIM أقل هدرًا للمال في بيرو. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل ينقطع الاتصال إذا نفدت بيانات eSIM بيرو؟
+      a: |
+        eSIM بيرو بنظام مسبق الدفع، ويمكن شراء باقة إضافية من التطبيق عند نقص البيانات. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط بيرو eSIM ذات الصلة
+  title: وجهات قريبة من بيرو مع خطط eSIM
   items:
-  - name: الولايات المتحدة eSIM
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: المملكة المتحدة
+  - name: eSIM نيجيريا
+    flag: img/flags/ng.svg
+    price: من 5.99 دولار
+    is_highlight: true
+  - name: eSIM المملكة المتحدة
     flag: img/flags/gb.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: أوروبا eSIM
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: كندا eSIM
-    flag: img/flags/ca.svg
+  - name: eSIM موريشيوس
+    flag: img/flags/ma.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM مولدوفا
+    flag: img/flags/mo.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: تركيا eSIM
-    flag: img/flags/tr.svg
+  - name: eSIM فيجي
+    flag: img/flags/fj.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM تايوان
+    flag: img/flags/tw.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: الصين eSIM
-    flag: img/flags/cn.svg
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: اليابان eSIM
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
+  - name: eSIM غرينادا
+    flag: img/flags/gd.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: هونغ كونغ eSIM
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
+  - name: eSIM غانا
+    flag: img/flags/gh.svg
+    price: من 7.99 دولار
     is_highlight: false
-  - name: فرنسا eSIM
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
+  - name: eSIM إيسواتيني
+    flag: img/flags/sz.svg
+    price: من 19.99 دولار
     is_highlight: false
-  - name: إسبانيا eSIM
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
+  - name: eSIM قبرص
+    flag: img/flags/cy.svg
+    price: من 2.99 دولار
     is_highlight: false
-  - name: ألمانيا eSIM
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أستراليا eSIM
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM لاوس
+    flag: img/flags/la.svg
+    price: من 4.99 دولار
     is_highlight: false
 market_analysis:
   title: 'بيرو eSIM مقابل بطاقة SIM الفعلية: مقارنة التفعيل والإعداد'
   subtitle: 'بطاقات SIM المحلية المدفوعة مسبقًا في بيرو مقابل حلول eSIM (معيار 2024/2025)'
   citation:
-    text: 'مصدر البيانات: ويكي بطاقة بيانات SIM المدفوعة مسبقًا (بيرو) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Peru
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

@@ -1,6 +1,6 @@
 ---
 title: 'السويد eSIM 2026 - أفضل خطة 5G لستوكهولم ولابلاند | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM السويد - بيانات مسبقة الدفع غير محدودة للسياح
   description: "أفضل eSIM مسبق الدفع للسويد مع 5G على Telia و Telenor و Tele2. تفعيل فوري عبر QR بدون جواز سفر. تجوال أوروبي مشمول. خطط مرنة الآن."
-  keywords: eSIM السويد، شراء eSIM السويد، أفضل eSIM السويد، eSIM السفر إلى السويد، Telia السويد، Telenor السويد، Tele2 السويد، eSIM ستوكهولم، eSIM غوتنبرغ، eSIM مالمو، eSIM مسبق الدفع السويد، 5G eSIM السويد، eSIM للشفق القطبي، eSIM أبيسكو، eSIM كيرونا
+  keywords: eSIM السويد، شراء eSIM السويد، أفضل eSIM السويد، eSIM السويد رخيصة، eSIM السويد مسبقة الدفع، باقة eSIM السويد، eSIM السويد غير محدودة، eSIM السويد 5G، أفضل eSIM لـ السويد، سعر eSIM السويد، تفعيل eSIM السويد، تغطية eSIM السويد، Telia السويد، eSIM ستوكهولم، eSIM غوتنبرغ، eSIM مالمو
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المشمولة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/se.svg
   flag_alt: علم السويد
-  title: 'eSIM السويد: 5G في ستوكهولم، لابلاند وما بعدها — لا حاجة لجواز سفر'
+  title: 'eSIM السويد: شبكة سريعة لكل رحلاتك'
   subtitle: لا هوية مطلوبة | 5G على Telia و Telenor و Tele2 | تجوال أوروبي مشمول | لا حاجة لبطاقة سويدية | تسليم فوري عبر QR
 features:
-  title: 'لماذا يختار المسافرون إلى السويد Roami: الشبكة، الخطط والقيمة'
+  title: ما تحصل عليه مع eSIM السويد من Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بـ Telia و Telenor و Tele2 للحصول على أفضل إشارة في جميع أنحاء السويد
-plans_title: 'شراء eSIM السويد: خطط تناسب كل مدة رحلة'
+plans_title: خطط بيانات eSIM السويد لكل نوع رحلة
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -285,7 +285,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM السويد: دليل شبكات Telia و Telenor و Tele2'
+  title: 'eSIM السويد: خريطة التغطية والمشغلون الرئيسيون'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -316,7 +316,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM السويد: ما يجب معرفته قبل السفر'
+  title: 'eSIM السويد: ما ينبغي تجهيزه قبل الإقلاع'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -337,7 +337,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM السويد: 3 خطوات بسيطة'
+  title: 'eSIM السويد: ثلاث خطوات للاتصال بالشبكة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -362,7 +362,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM السويد
+    title: أسئلة متكررة حول eSIM السويد
     questions:
     - q: |
         هل أحتاج حقًا إلى جواز سفر أو هوية لاستخدام eSIM السويد من Roami؟
@@ -400,63 +400,75 @@ faq_section:
         متى تبدأ فترة صلاحية eSIM السويد الخاصة بي؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في السويد، وليس عند الشراء أو التثبيت. لذا يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة. تمنحك خطة 7 أيام 7 أيام كاملة من أول اتصال.
+    - q: |
+        كيف أدفع عند شراء eSIM السويد؟
+      a: |
+        يمكن شراء eSIM السويد قبل السفر أو بعده. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة Telia لتبدأ الاستخدام فورًا.
+    - q: |
+        هل يُحاسب eSIM السويد على الاستخدام الفعلي فقط؟
+      a: |
+        بما أنك تختار الحجم المناسب، يكون eSIM أقل هدرًا للمال في السويد. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل ينقطع الاتصال إذا نفدت بيانات eSIM السويد؟
+      a: |
+        eSIM السويد بنظام مسبق الدفع، ويمكن شراء باقة إضافية من التطبيق عند نقص البيانات. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM ذات الصلة للسويد
+  title: وجهات قريبة من السويد مع خطط eSIM
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM السلفادور
+    flag: img/flags/sv.svg
+    price: من 23.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM كوريا الجنوبية
+    flag: img/flags/kr.svg
+    price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM رومانيا
+    flag: img/flags/ro.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM جبل طارق
+    flag: img/flags/gi.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM جمهورية التشيك
+    flag: img/flags/cz.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM إندونيسيا
+    flag: img/flags/id.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM تشيلي
+    flag: img/flags/cl.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM غواتيمالا
+    flag: img/flags/gt.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM الأرجنتين
+    flag: img/flags/ar.svg
+    price: من 3.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM البرازيل
+    flag: img/flags/br.svg
+    price: من 4.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM المجر
+    flag: img/flags/hu.svg
+    price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM بيلاروسيا
+    flag: img/flags/by.svg
+    price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM السويد أم بطاقة SIM المحلية للسياح: أيهما تختار؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في السويد مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (السويد) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Sweden
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مسبقة الدفع (بيانات السوق)

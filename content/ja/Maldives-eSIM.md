@@ -1,6 +1,6 @@
 ---
 title: モルディブ eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:00:27+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: ディラグ (Dhiraagu), ウーメ (Ooredoo), オーレドゥー (Airedoo)
   competitors: Airalo, Holafly, Nomad, Ubigi, Maya Mobile
   main_cities: マレ, アッドゥ市, フヴァンムラ, クルドゥフシ, ティナドゥ
-  main_packages: 3/7/15/30日、データ無制限
+  main_packages: 7/15/30日、1〜30GB
 modal:
   title: サービスアップデートのお知らせ！
   btn_text: 続行
@@ -19,8 +19,10 @@ modal:
     当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました！<br>新規のお客様はコード <strong>web20</strong> で20%オフ！
 seo:
   title: eSIM モルディブ | 旅行者に人気のデータ通信プランおすすめ比較ガイド
-  description: モルディブへの旅行にRoamiのeSIMをおすすめ。QRコードをスキャンするだけの面倒なし設定、5G対応高速通信で地図もSNSもストレスフリー。24時間日本語サポート付きで海外でも安心してご利用いただけます。
-  keywords: モルディブ eSIM, モルディブ 旅行 ネット, モルディブ 観光, モルディブ データ通信, モルディブ インターネット
+  description: Roamiのモルディブ eSIMは14.99ドルから。到着後すぐに現地ネットワークへ接続でき、チャージや契約は不要。旅行中のデータ通信をシンプルに。
+  low_price: 14.99
+  high_price: 165.99
+  keywords: モルディブ eSIM, モルディブ eSIM 料金, モルディブ eSIM おすすめ, モルディブ eSIM 安い, モルディブ eSIM 購入, モルディブ eSIM 申し込み, モルディブ eSIM データプラン, モルディブ プリペイドSIM, モルディブ 旅行 eSIM, モルディブ eSIM 価格, モルディブ eSIM 設定方法, モルディブ eSIM 対応エリア, マレ eSIM, アッドゥ市 eSIM, モルディブ モバイルデータ, モルディブ eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: モルディブ向け最高のeSIM
-  title: モルディブ eSIM，海外旅行流量不愁
+  title: モルディブ旅行に便利なeSIMデータプラン
 hero:
   flag_image: img/flags/mv.svg
   flag_alt: モルディブの国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: データ容量を選ぶ
 plans_data:
   7 日:
   - spec: 1GB
@@ -167,7 +169,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: スムーズ利用のヒント
   items:
   - icon: 📱
     html: |-
@@ -218,12 +220,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: 'モルディブ eSIM : よくある質問と旅行ガイド'
-  desc: Maldives用eSIMを最大限活用するためのガイド。格安データプランの選び方、5G高速通信のエリア情報、QRコード設定の手順、テザリングや複数端末での共有方法まで旅行前に知りたい情報を網羅。モルディブではディラグ (Dhiraagu)のネットワークに対応。
+  desc: Maldives用eSIMを最大限活用するためのガイド。モルディブではディラグ (Dhiraagu)のネットワークに対応。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. よくある疑問
     questions:
     - q: モルディブ用eSIMはどの5G/4Gネットワークを使用し、カバレッジはどうですか？
       a: モルディブ用eSIMはディラグ (Dhiraagu) / ウーメ (Ooredoo)と専属提携しています。都市部だけでなく、郊外や高速道路沿いでも最適なネットワーク（5G/4G/LTE）に自動接続し、最高のカバレッジを実現します。
@@ -241,7 +243,7 @@ faq_section:
         / ウーメ (Ooredoo)）に初めて接続した時点から始まります。つまり、実際に現地に到着した日数だけ課金されます。
     - q: モルディブ用eSIMのQRコードの有効期限は？
       a: QRコードはメール送信後30日間有効です。旅行前に十分な時間があります。期限が切れた場合は、新しいコードを発行できます。
-        出発前にmaldives用eSIMをインストールすれば、到着後すぐにデータ通信が始められます。海外旅行eSIMの準備は、自宅のWi-Fi環境で事前に完了させるのがおすすめです。
+
     - q: QRコードなしでモルディブ用eSIMをインストールできますか？
       a: はい、QRコードの他に、SM‑DP+アドレスとアクティベーションコード（注文確認メールに記載）を使って手動でインストールすることも可能です。QRコードが最も簡単で迅速な方法です。
     - q: 私のスマートフォンはモルディブのeSIMに対応していますか？また、インストール方法は？
@@ -250,7 +252,13 @@ faq_section:
 
     - q: モルディブ用eSIMの価格はいくらですか？割引はありますか？
       a: モルディブ用eSIMプランは1.99ドル/GBから始まります。プロモーションコード「web20」を使用すると、全プランが20%オフ — 隠れたコストや最低利用期間の縛りはありません。
-        MaldivesのeSIMはRoamiで購入が一番お得。格安データ通信。事前に日本で準備して到着後すぐに使える便利さ。デュアルSIM対応で日本のSIMもそのまま。
+
+    - q: モルディブで使うeSIMの申し込み方法と支払い方法を教えてください。
+      a: モルディブ用eSIMは出発前でも現地でも申し込み可能です。申し込み後はQRコードがメールで届き、ディラグ (Dhiraagu)のネットワークに接続するだけで利用を開始できます。
+    - q: モルディブ用eSIMは使った分だけ支払う仕組みですか？
+      a: 用途に合わせて容量を選べるため、モルディブではeSIMのほうが無駄なく費用を抑えられます。詳しい料金比較は、各プランの内容と合わせてプラン一覧で確認できます。
+    - q: モルディブ用eSIMのデータが途中で尽きたら通信は止まりますか？
+      a: モルディブ用eSIMはプリペイド式で、データが少なくなったらアプリから追加購入できます。滞在日数と用途に合わせて最初に適切な容量を選ぶと、追加購入を減らせます。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -413,81 +421,80 @@ faq_section:
       a: モルディブ用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: モルディブ用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        eSIMのメリットは物理SIM不要で機種変更時も簡単。デュアルSIM対応で日本の番号を維持したまま海外データ通信が可能。
-        RoamiのeSIMは格安料金で、5G対応の高速通信を提供しています。1GB/$1.99からのお得なプランを用意。24時間サポートで旅行中も安心です。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にモルディブ用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
+  - name: マリ eSIM
+    flag: img/flags/ml.svg
+    price: 27.99ドルから
+    is_highlight: false
+    slug: mali-esim
+  - name: マルタ eSIM
+    flag: img/flags/mt.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
-    price: 1.99ドルから
+    slug: malta-esim
+  - name: モーリシャス eSIM
+    flag: img/flags/ma.svg
+    price: 7.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
+    slug: mauritius-esim
+  - name: メキシコ eSIM
+    flag: img/flags/mx.svg
+    price: 3.99ドルから
+    is_highlight: false
+    slug: mexico-esim
+  - name: モルドバ eSIM
+    flag: img/flags/mo.svg
     price: 1.99ドルから
     is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
+    slug: moldova-esim
+  - name: ネパール eSIM
+    flag: img/flags/ne.svg
+    price: 10.99ドルから
+    is_highlight: false
+    slug: nepal-esim
+  - name: オランダ eSIM
+    flag: img/flags/nl.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
+    slug: netherlands-esim
+  - name: ニュージーランド eSIM
+    flag: img/flags/nz.svg
+    price: 3.99ドルから
+    is_highlight: false
+    slug: new-zealand-esim
+  - name: ニジェール eSIM
+    flag: img/flags/ni.svg
+    price: 23.99ドルから
+    is_highlight: false
+    slug: niger-esim
+  - name: ナイジェリア eSIM
+    flag: img/flags/ng.svg
+    price: 5.99ドルから
+    is_highlight: false
+    slug: nigeria-esim
+  - name: ノルウェー eSIM
+    flag: img/flags/no.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
+    slug: norway-esim
+  - name: オマーン eSIM
+    flag: img/flags/om.svg
+    price: 5.99ドルから
     is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+    slug: oman-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "モルディブ旅行者向け：eSIMか観光用SIMか？"
   subtitle: "モルディブの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Maldives) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Maldives"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -508,7 +515,7 @@ market_analysis:
     - icon: "globe"
       title: "国際ローミング"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。一般的に、現地プリペイドSIMはモルディブ国外では使用できず、ローミングは別途高額となる。"
+      prepaid_desc: "一般的に、現地プリペイドSIMはモルディブ国外では使用できず、ローミングは別途高額となる。"
       esim_title: "グローバルローミング対応"
       esim_desc: "現地SIMはモルディブ国外で使用不可だが、Roami eSIMは複数国対応プランを提供。例えば、GoMoWorldの多国プランでモルディブと経由地をカバー。"
     - icon: "calendar-xmark"
@@ -520,7 +527,7 @@ market_analysis:
     - icon: "wifi"
       title: "テザリングと速度ポリシー"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。一般的に、モルディブのプリペイドSIMはテザリングを許可する場合が多いが、速度制限や追加料金が発生する可能性がある。"
+      prepaid_desc: "一般的に、モルディブのプリペイドSIMはテザリングを許可する場合が多いが、速度制限や追加料金が発生する可能性がある。"
       esim_title: "無制限テザリング"
       esim_desc: "現地SIMではテザリングに制限がある場合があるが、Roami eSIMはテザリングを完全サポート。複数デバイスでデータを共有可能。"
     - icon: "credit-card"
@@ -532,7 +539,7 @@ market_analysis:
     - icon: "headset"
       title: "カスタマーサポート"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。一般的に、現地オペレーターのカスタマーサポートは現地時間の営業時間内のみで、英語対応が限定的な場合がある。"
+      prepaid_desc: "一般的に、現地オペレーターのカスタマーサポートは現地時間の営業時間内のみで、英語対応が限定的な場合がある。"
       esim_title: "24時間サポート"
       esim_desc: "現地オペレーターのサポートは営業時間限定だが、Roami eSIMは24時間日本語対応のカスタマーサポートを提供。"
 

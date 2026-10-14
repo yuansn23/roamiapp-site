@@ -1,6 +1,6 @@
 ---
 title: キルギス eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:01:03+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,10 @@ modal:
     当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました！<br>新規のお客様はコード <strong>web20</strong> で20%オフ！
 seo:
   title: eSIM キルギス | QRコードで簡単インストール・即時接続の設定方法
-  description: キルギスで初めてeSIMを使う方もRoamiなら安心。QRコードをスキャンするだけの簡単設定で、機種変更や設定変更のサポートも日本語対応。事前インストールしておけば到着後すぐにインターネット接続。
-  keywords: キルギス eSIM, キルギス ネットワーク, ビシュケク eSIM, イシククル 観光, キルギス 旅行, キルギス モバイルデータ
+  description: キルギスで初めてeSIMを使う方もRoamiなら安心。事前インストールしておけば到着後すぐにインターネット接続。
+  low_price: 4.99
+  high_price: 96.99
+  keywords: キルギス eSIM, キルギス eSIM 料金, キルギス eSIM おすすめ, キルギス eSIM 安い, キルギス eSIM 購入, キルギス eSIM 申し込み, キルギス eSIM データ無制限, キルギス プリペイドSIM, キルギス 旅行 eSIM, キルギス eSIM 価格, キルギス eSIM 設定方法, キルギス eSIM 対応エリア, ビシュケク eSIM, オシ eSIM, キルギス モバイルデータ, キルギス eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: キルギス向け最高のeSIM
-  title: キルギス eSIM，海外旅行上网无忧
+  title: キルギス旅行はeSIMで賢くデータ通信
 hero:
   flag_image: img/flags/kg.svg
   flag_alt: キルギスの国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: おすすめのデータプラン
 plans_data:
   7 日:
   - spec: 3GB
@@ -233,7 +235,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: おすすめの準備
   items:
   - icon: 📱
     html: |-
@@ -284,12 +286,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: 'eSIM Kyrgyzstan | 事前準備で快適な旅行通信ガイド'
-  desc: Kyrgyzstan旅行の通信費を抑えるeSIM活用法。1GBから無制限まで選べるデータプラン、事前購入のメリット、現地ネットワークの自動切替機能、デュアルSIM設定の方法まで詳しくご紹介します。キルギスではMegaComのネットワークに対応。
+  desc: Kyrgyzstan旅行の通信費を抑えるeSIM活用法。キルギスではMegaComのネットワークに対応。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. 基本事項
     questions:
     - q: キルギス用eSIMを使用するためにスマートフォンに求められる要件は？
       a: お使いの端末がeSIMに対応している必要があります（iPhone XS/XR以降、Samsung Galaxy S20/Note20以降、Google
@@ -307,16 +309,21 @@ faq_section:
       a: 購入後、すぐにアクティベーション用QRコードがメールで届きます。有効期間は、お使いの端末がキルギスの提携ネットワーク（MegaCom / Beeline）に初めて接続した時点から始まります。つまり、実際に現地に到着した日数だけ課金されます。
     - q: キルギス用eSIMのQRコードの有効期限は？
       a: QRコードはメール送信後30日間有効です。旅行前に十分な時間があります。期限が切れた場合は、新しいコードを発行できます。
-        出発前にkyrgyzstan用eSIMをインストールすれば、到着後すぐにデータ通信が始められます。海外旅行eSIMの準備は、自宅のWi-Fi環境で事前に完了させるのがおすすめです。
+
     - q: キルギス用eSIMは物理SIMよりも安全ですか？
       a: eSIMはデバイスに組み込まれているため、抜き取ったりコピーしたりすることができず、不正アクセスに対してより保護されています。データは暗号化され、SIMカードの紛失や盗難のリスクもありません。
     - q: キルギス用eSIMを他のデバイスとテザリング（ポケットWi-Fi）できますか？
-      a: はい、Roamiのキルギス用eSI
-        Roamiなら1GB/$1.99からの格安プランでkyrgyzstanの5G高速通信を利用可能。24時間日本語サポート付きで初めての海外eSIMも安心です。Mプランは全てテザリング（ポケットWi-Fi）を無制限でサポートしています。ノートパソコン、タブレット、または旅行仲間と接続を共有できます
+      a: はい、Roamiのキルギス用eSIMプランは全てテザリング（ポケットWi-Fi）を無制限でサポートしています。ノートパソコン、タブレット、または旅行仲間と接続を共有できます
         — 隠れたコストも速度制限もありません。
 
     - q: キルギス用eSIMはどの5G/4Gネットワークを使用し、カバレッジはどうですか？
       a: キルギス用eSIMはMegaCom / Beelineと専属提携しています。都市部だけでなく、郊外や高速道路沿いでも最適なネットワーク（5G/4G/LTE）に自動接続し、最高のカバレッジを実現します。
+    - q: キルギス用eSIMを申し込むとき、滞在日程の入力は必要ですか？
+      a: Roamiならキルギス用eSIMをアプリまたはWebサイトから申し込みできます。申し込み後はQRコードがメールで届き、MegaComのネットワークに接続するだけで利用を開始できます。
+    - q: キルギスのeSIMは長期滞在でもコストを抑えられますか？
+      a: ローミングと比べると、キルギス用eSIMは現地ネットワーク（MegaCom）を直接使うため割安です。詳しい料金比較は、各プランの内容と合わせてプラン一覧で確認できます。
+    - q: キルギス用eSIMのデータを追加できる回数に上限はありますか？
+      a: 残データはアプリやWebのダッシュボードでいつでも確認でき、足りなくなれば追加できます。滞在日数と用途に合わせて最初に適切な容量を選ぶと、追加購入を減らせます。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -479,81 +486,80 @@ faq_section:
       a: キルギス用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: キルギス用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        海外旅行のデータ通信はeSIMが便利。ローミングより格安で、対応機種ならQRコードで即時設定完了。事前購入で到着後すぐ接続。
-        eSIMの設定はQRコードをスキャンするだけで完了。物理SIM不要でデュアルSIM運用も可能。最安1GB/$1.99から使える格安データ通信。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にキルギス用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
+  - name: ラオス eSIM
+    flag: img/flags/la.svg
+    price: 4.99ドルから
+    is_highlight: false
+    slug: laos-esim
+  - name: ラトビア eSIM
+    flag: img/flags/lv.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
+    slug: latvia-esim
+  - name: リベリア eSIM
+    flag: img/flags/lr.svg
+    price: 27.99ドルから
+    is_highlight: false
+    slug: liberia-esim
+  - name: リヒテンシュタイン eSIM
+    flag: img/flags/li.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
+    slug: liechtenstein-esim
+  - name: リトアニア eSIM
+    flag: img/flags/lt.svg
     price: 1.99ドルから
     is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
+    slug: lithuania-esim
+  - name: ルクセンブルク eSIM
+    flag: img/flags/lu.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
+    slug: luxembourg-esim
+  - name: マカオ eSIM
+    flag: img/flags/ma.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
+    slug: macao-esim
+  - name: マダガスカル eSIM
+    flag: img/flags/mg.svg
+    price: 11.99ドルから
+    is_highlight: false
+    slug: madagascar-esim
+  - name: マラウイ eSIM
+    flag: img/flags/mw.svg
+    price: 14.99ドルから
+    is_highlight: false
+    slug: malawi-esim
+  - name: マレーシア eSIM
+    flag: img/flags/my.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
+    slug: malaysia-esim
+  - name: モルディブ eSIM
+    flag: img/flags/mv.svg
+    price: 14.99ドルから
     is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
+    slug: maldives-esim
+  - name: マリ eSIM
+    flag: img/flags/ml.svg
+    price: 27.99ドルから
     is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+    slug: mali-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "キルギスタンでeSIMとプリペイドSIMを直接比較"
   subtitle: "キルギスタンの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Kyrgyzstan) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Kyrgyzstan"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -627,4 +633,3 @@ market_analysis:
         title: "国境を越えても途切れない接続"
         desc: "キルギスの3社は国外で即座に不通。MegaComの「無制限4G」は2G/3Gで<b>512kbps</b>に制限。Roami eSIMは中央アジア地域ローミングに対応し、国境を越えても自動でネットワークを切り替え。"
 ---
-        eSIMの設定はQRコードをスキャンするだけで完了。物理SIM不要でデュアルSIM運用も可能。最安1GB/$1.99から使える格安データ通信。

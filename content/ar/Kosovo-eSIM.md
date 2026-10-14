@@ -1,6 +1,6 @@
 ---
 title: 'eSIM كوسوفو 2026: دليل المدن والشبكات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20٪، كود الخصم: web20'
 seo:
   title: 'eSIM كوسوفو: بيانات عالية السرعة 5G، بدون رسوم تجوال'
-  description: "قارن خطط eSIM في كوسوفو مع 5G سريع في بريشتينا وبريزرن. تغطية تيليكوم كوسوفو و IPKO و Vala. تفعيل فوري عبر QR من 1.99 دولار."
-  keywords: eSIM كوسوفو, شراء eSIM كوسوفو, أفضل eSIM كوسوفو, eSIM سفر كوسوفو, تيليكوم كوسوفو كوسوفو, IPKO كوسوفو, Vala كوسوفو, eSIM بريشتينا, eSIM بريزرن, eSIM بيجا, eSIM مدفوع مسبق كوسوفو, 5G eSIM كوسوفو
-  low_price: 1.99
-  high_price: 39.9
+  description: "قارن خطط eSIM في كوسوفو مع 5G سريع في بريشتينا وبريزرن. تغطية تيليكوم كوسوفو و IPKO و Vala. تفعيل فوري عبر QR من 13.99 دولار."
+  keywords: eSIM كوسوفو، شراء eSIM كوسوفو، أفضل eSIM كوسوفو، eSIM كوسوفو رخيصة، eSIM كوسوفو مسبقة الدفع، باقة eSIM كوسوفو، eSIM كوسوفو غير محدودة، eSIM كوسوفو 5G، أفضل eSIM لـ كوسوفو، سعر eSIM كوسوفو، تفعيل eSIM كوسوفو، تغطية eSIM كوسوفو، تيليكوم كوسوفو كوسوفو، eSIM بريشتينا، eSIM بريزرن، eSIM بيجا
+  low_price: 13.99
+  high_price: 94.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/xk.svg
   flag_alt: علم كوسوفو
-  title: 'eSIM كوسوفو: بيانات 5G سريعة لكل مدينة ووجهة'
+  title: 'eSIM كوسوفو: إنترنت موثوق لكل رحلة'
   subtitle: 5G سريع | تسليم فوري عبر QR | دعم بشري 24/7 - أفضل eSIM مدفوع مسبق لكوسوفو
 features:
-  title: 'لماذا يختار المسافرون إلى كوسوفو Roami: الخطط، الشبكة والدعم'
+  title: 'مزايا روامي للمسافرين إلى كوسوفو: بساطة وموثوقية'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي كوسوفو للحصول على أفضل إشارة
-plans_title: 'شراء eSIM كوسوفو: خطط لكل مدة رحلة'
+plans_title: 'شراء eSIM كوسوفو: باقات لكل ميزانية'
 plans_data:
   30 يوم:
   - spec: 20 جيجابايت
@@ -137,7 +137,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM كوسوفو: دليل مشغل شبكة الهاتف المحمول'
+  title: 'eSIM كوسوفو: تغطية موثوقة في كل أنحاء البلد'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -168,7 +168,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM كوسوفو: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM كوسوفو: ما يجب التحقق منه قبل الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -187,7 +187,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM كوسوفو: 3 خطوات بسيطة'
+  title: 'eSIM كوسوفو: تثبيت سهل قبل رحلتك'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -212,7 +212,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM كوسوفو
+    title: أسئلة شائعة عند شراء eSIM كوسوفو
     questions:
     - q: |
         هل أحتاج إلى جواز سفر أو هوية لاستخدام eSIM في كوسوفو؟ كيف يعمل التحقق؟
@@ -229,7 +229,7 @@ faq_section:
     - q: |
         ما هي أرخص خيارات eSIM لرحلة إلى كوسوفو؟
       a: |
-        تبدأ خطط Roami eSIM كوسوفو من 1.99 دولار (7 أيام، 1 جيجابايت) وتصل إلى 59.99 دولار (30 يومًا غير محدود). لرحلة نموذجية مدتها 5-7 أيام، خطة 5 جيجابايت بسعر 9.99 دولار هي النقطة المثالية - كافية للخرائط والرسائل وتصفح وسائل التواصل الاجتماعي. بحاجة إلى بث فيديو أو العمل عن بعد؟ اختر 10 جيجابايت أو غير محدود. تستخدم كوسوفو 4G التي تتعامل مع الخرائط والرسائل بشكل جيد. تتقاضى أكشاك SIM في المطار 30-50٪ أكثر، وعليك الانتظار في الطابور. لست متأكدًا من احتياجاتك للبيانات؟ ابدأ صغيرًا وقم بالشحن عبر التطبيق دون تغيير eSIM الخاص بك.
+        تبدأ خطط Roami eSIM كوسوفو من 13.99 دولار (7 أيام، 1 جيجابايت) وتصل إلى 59.99 دولار (30 يومًا غير محدود). لرحلة نموذجية مدتها 5-7 أيام، خطة 5 جيجابايت بسعر 13.99 دولار هي النقطة المثالية - كافية للخرائط والرسائل وتصفح وسائل التواصل الاجتماعي. بحاجة إلى بث فيديو أو العمل عن بعد؟ اختر 10 جيجابايت أو غير محدود. تستخدم كوسوفو 4G التي تتعامل مع الخرائط والرسائل بشكل جيد. تتقاضى أكشاك SIM في المطار 30-50٪ أكثر، وعليك الانتظار في الطابور. لست متأكدًا من احتياجاتك للبيانات؟ ابدأ صغيرًا وقم بالشحن عبر التطبيق دون تغيير eSIM الخاص بك.
     - q: |
         ما الفرق بين خطة 5 جيجابايت وخطة غير محدودة لكوسوفو؟
       a: |
@@ -245,64 +245,76 @@ faq_section:
     - q: |
         ما المضمن عند شراء eSIM كوسوفو من Roami؟
       a: |
-        تسليم رمز QR في غضون 5 دقائق، والوصول إلى شبكة Vala، ودعم العملاء 24/7، ونقطة اتصال مجانية لما يصل إلى 5 أجهزة. تبدأ الخطط من 1.99 دولار. بدون عقود، أو رسوم خفية، أو تجديد تلقائي.
+        تسليم رمز QR في غضون 5 دقائق، والوصول إلى شبكة Vala، ودعم العملاء 24/7، ونقطة اتصال مجانية لما يصل إلى 5 أجهزة. تبدأ الخطط من 13.99 دولار. بدون عقود، أو رسوم خفية، أو تجديد تلقائي.
+    - q: |
+        هل يمكن شراء eSIM كوسوفو عبر الهاتف أو في متجر؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM كوسوفو عبر الإنترنت. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        كيف تقارن تكلفة eSIM كوسوفو ببطاقة SIM المحلية مسبقة الدفع؟
+      a: |
+        في كوسوفو يتطلب شراء بطاقة SIM المحلية تسجيلًا في المتجر، لذا غالبًا يكون eSIM أوفر. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        كيف أزيد حجم بيانات eSIM كوسوفو؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM ذات الصلة لكوسوفو
+  title: خطط ذات صلة برحلتك إلى كوسوفو
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM الغابون
+    flag: img/flags/ga.svg
+    price: من 14.99 دولار
     is_highlight: false
   - name: eSIM تركيا
     flag: img/flags/tr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
+  - name: eSIM صربيا
+    flag: img/flags/se.svg
+    price: من 1.99 دولار
+    is_highlight: true
+  - name: eSIM ليختنشتاين
+    flag: img/flags/li.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+  - name: eSIM غوادلوب
+    flag: img/flags/gp.svg
+    price: من 8.99 دولار
+    is_highlight: false
+  - name: eSIM أندورا
+    flag: img/flags/ad.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM إيطاليا
+    flag: img/flags/it.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
+  - name: eSIM موزمبيق
+    flag: img/flags/mo.svg
+    price: من 14.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
+  - name: eSIM طاجيكستان
+    flag: img/flags/tj.svg
+    price: من 4.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
+  - name: eSIM جامايكا
+    flag: img/flags/jm.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
+  - name: eSIM باكستان
+    flag: img/flags/pk.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM أذربيجان
+    flag: img/flags/az.svg
+    price: من 6.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM كوسوفو مقابل بطاقة SIM المدفوعة مسبقًا: كل ما يجب مراعاته'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في كوسوفو مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (Kosovo) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Kosovo
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

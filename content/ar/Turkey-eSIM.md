@@ -1,6 +1,6 @@
 ---
 title: 'eSIM تركيا - 5G في إسطنبول وكابادوكيا | لا حاجة لجواز سفر | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM تركيا - أفضل خطة بيانات 5G | لا حاجة لجواز سفر
   description: "أفضل eSIM لتركيا مع 5G على توركسل وفودافون وترك تليكوم. لا حاجة لجواز سفر. تجنب غلاء مطار إسطنبول. من 1.99 دولار. اشترِ خطتك الآن."
-  keywords: eSIM تركيا, شراء eSIM تركيا, أفضل eSIM تركيا, eSIM سفر تركيا, توركسل تركيا, فودافون تركيا, ترك تليكوم تركيا, eSIM إسطنبول, eSIM أنقرة, eSIM إزمير, eSIM مسبق الدفع تركيا, 5G eSIM تركيا, eSIM تركيا بدون جواز سفر, eSIM لكابادوكيا
+  keywords: eSIM تركيا، شراء eSIM تركيا، أفضل eSIM تركيا، eSIM تركيا رخيصة، eSIM تركيا مسبقة الدفع، باقة eSIM تركيا، eSIM تركيا غير محدودة، eSIM تركيا 5G، أفضل eSIM لـ تركيا، سعر eSIM تركيا، تفعيل eSIM تركيا، تغطية eSIM تركيا، توركسل تركيا، eSIM إسطنبول، eSIM أنقرة، eSIM إزمير
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/tr.svg
   flag_alt: علم تركيا
-  title: 'eSIM تركيا: 5G في إسطنبول وكابادوكيا'
+  title: 'eSIM تركيا: اتصال دائم أثناء السفر'
   subtitle: 5G على توركسل وفودافون وترك تليكوم | لا حاجة لجواز سفر/هوية | تجاوز الرقابة المحلية | تسليم فوري للـ QR
 features:
-  title: 'لماذا يختار مسافرو تركيا Roami: السرعة والخصوصية والقيمة'
+  title: لماذا روامي مناسب لرحلتك إلى تركيا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +73,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: تجاوز الرقابة
     desc: الوصول إلى جميع المواقع — تويتر، فيسبوك، ويكيبيديا، VPN — بدون حجب
-plans_title: 'شراء eSIM تركيا: خطط تناسب كل مدة رحلة'
+plans_title: 'باقات eSIM تركيا: مقارنة المدة والسعر'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -290,7 +290,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM تركيا: دليل شبكات توركسل وفودافون وترك تليكوم 5G'
+  title: 'تغطية شبكة eSIM تركيا: ما تحتاج معرفته'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -321,7 +321,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM تركيا: ما يجب معرفته قبل الذهاب'
+  title: نصائح ما قبل الرحلة لـ eSIM تركيا
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -346,7 +346,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM تركيا: 3 خطوات بسيطة'
+  title: كيف تثبّت eSIM تركيا على آيفون وأندرويد
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -371,7 +371,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM تركيا
+    title: توضيحات سريعة حول eSIM تركيا
     questions:
     - q: |
         هل أحتاج حقًا إلى جواز سفر لـ eSIM تركيا؟ لماذا؟
@@ -404,7 +404,7 @@ faq_section:
     - q: |
         هل من السيء حقًا شراء شريحة SIM في مطار إسطنبول؟
       a: |
-        للأسف، نعم. أسعار شرائح المطار <strong>أعلى بـ 3-5 مرات</strong> من المتاجر في وسط المدينة. يبلغ المسافرون عن دفع 500-900 ليرة (~15-28 دولارًا أمريكيًا) لشريحة أساسية مع بيانات قليلة. كما يتم فرض رسوم إضافية تزيد عن 100 ليرة "رسوم خدمة ترجمة" إذا كان جواز سفرهم يستخدم نصًا غير لاتيني. كما أن متاجر المطار بها طوابير طويلة وساعات عمل محدودة. تكلف Roami <strong>1.99 دولار لمدة 3 أيام</strong> — توفر المال وتتجنب الطابور تمامًا.
+        للأسف، نعم. أسعار شرائح المطار <strong>أعلى بـ 3-5 مرات</strong> من المتاجر في وسط المدينة. يبلغ المسافرون عن دفع 500-900 ليرة (~15-28 دولارًا أمريكيًا) لشريحة أساسية مع بيانات قليلة. كما يتم فرض رسوم إضافية تزيد عن 100 ليرة "رسوم خدمة ترجمة" إذا كان جواز سفرهم يستخدم نصًا غير لاتيني. كما أن متاجر المطار بها طوابير طويلة وساعات عمل محدودة. تكلف Roami <strong>7.99 دولار لمدة 3 أيام</strong> — توفر المال وتتجنب الطابور تمامًا.
     - q: |
         ماذا لو حذفت eSIM تركيا عن طريق الخطأ قبل رحلتي؟
       a: |
@@ -413,63 +413,75 @@ faq_section:
         متى تبدأ مدة صلاحية eSIM الخاصة بي في تركيا؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في تركيا، وليس عند الشراء أو التثبيت. لذلك يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة. تمنحك خطة 7 أيام 7 أيام كاملة من أول اتصال.
+    - q: |
+        هل يمكنني تغيير باقة eSIM تركيا بعد الشراء؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM تركيا عبر الإنترنت. بعد الوصول إلى تركيا، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        ما أفضل طريقة لتقليل تكلفة البيانات في تركيا؟
+      a: |
+        أسعار eSIM تركيا معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        هل يمكنني إعادة تعبئة بيانات eSIM تركيا بعد نفادها؟
+      a: |
+        عند نفاد بيانات eSIM تركيا يمكنك إضافة باقة بيانات جديدة من نفس الحساب. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM ذات صلة
+  title: مقترحات eSIM حول رحلتك إلى تركيا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM غواتيمالا
+    flag: img/flags/gt.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM الأرجنتين
+    flag: img/flags/ar.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM البرازيل
+    flag: img/flags/br.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM المجر
+    flag: img/flags/hu.svg
+    price: من 1.99 دولار
     is_highlight: true
+  - name: eSIM بيلاروسيا
+    flag: img/flags/by.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بنما
+    flag: img/flags/pa.svg
+    price: من 11.99 دولار
+    is_highlight: false
   - name: eSIM كندا
     flag: img/flags/ca.svg
-    price: ابتداءً من 1.99 دولار
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM سيراليون
+    flag: img/flags/si.svg
+    price: من 10.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM ماكاو
+    flag: img/flags/ma.svg
+    price: من 1.99 دولار
     is_highlight: false
   - name: eSIM ألمانيا
     flag: img/flags/de.svg
-    price: ابتداءً من 1.99 دولار
+    price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM السعودية
+    flag: img/flags/sa.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM أوزبكستان
+    flag: img/flags/uz.svg
+    price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM تركيا مقابل شريحة الدفع المسبق المحلية: لا جواز سفر، لا إهدار 28 يومًا'
   subtitle: شرائح SIM المحلية المدفوعة مسبقًا في تركيا مقابل حلول eSIM (معايير 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقة بيانات SIM المدفوعة مسبقًا (تركيا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Turkey
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - شريحة SIM محلية مسبقة الدفع (بيانات السوق)

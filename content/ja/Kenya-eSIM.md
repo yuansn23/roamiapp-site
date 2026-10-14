@@ -1,6 +1,6 @@
 ---
 title: ケニア eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:02:27+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,10 @@ modal:
     当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました！<br>新規のお客様はコード <strong>web20</strong> で20%オフ！
 seo:
   title: eSIM ケニア | 即時接続可能な格安データ通信プランおすすめガイド
-  description: ケニアへの旅行にRoamiのeSIMをおすすめ。QRコードをスキャンするだけの面倒なし設定、5G対応高速通信で地図もSNSもストレスフリー。24時間日本語サポート付きで海外でも安心してご利用いただけます。
-  keywords: ケニア eSIM, ケニア旅行, ケニアネットワーク, サファリ, モバイルデータ
+  description: ケニアへの旅行はeSIMでスマートに。7.99ドルからのプランを選べ、LINEやGoogleマップも快適。アクティベーションはQRコードで簡単です。
+  low_price: 7.99
+  high_price: 98.99
+  keywords: ケニア eSIM, ケニア eSIM 料金, ケニア eSIM おすすめ, ケニア eSIM 安い, ケニア eSIM 購入, ケニア eSIM 申し込み, ケニア eSIM データ無制限, ケニア プリペイドSIM, ケニア 旅行 eSIM, ケニア eSIM 価格, ケニア eSIM 設定方法, ケニア eSIM 対応エリア, ナイロビ eSIM, モンバサ eSIM, ケニア モバイルデータ, ケニア eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: ケニア向け最高のeSIM
-  title: 海外旅行，就选ケニア eSIM
+  title: ケニア eSIMでストレスフリーな旅行を
 hero:
   flag_image: img/flags/ke.svg
   flag_alt: ケニアの国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: ベストなプラン選び
 plans_data:
   7 日:
   - spec: 1GB
@@ -282,7 +284,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: 旅の準備チェック
   items:
   - icon: 📱
     html: |-
@@ -338,7 +340,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. はじめての方へ
     questions:
     - q: QRコードなしでケニア用eSIMをインストールできますか？
       a: はい、QRコードの他に、SM‑DP+アドレスとアクティベーションコード（注文確認メールに記載）を使って手動でインストールすることも可能です。QRコードが最も簡単で迅速な方法です。
@@ -350,12 +352,11 @@ faq_section:
     - q: Roamiはケニア以外の地域向けeSIMも提供していますか？
       a: はい、ケニア用eSIMの他に、ヨーロッパ、アジア、北米、グローバル向けの地域別eSIMも提供しています。複数都市をまたぐ旅行や数カ国を巡るツアーに最適です
         — SIMカードの交換は不要です。
-        ケニア旅行のデータ通信はRoamiにお任せ。最安1GB/$1.99、無制限プランもあり、5G対応の高速ネットワークで快適な旅をサポートします。 海外旅行eSIMならRoamiの地域別プランで周遊もスムーズです。
+
     - q: RoamiのeSIMは、現地のプリペイドSIMと比べてどのような利点がありますか？
       a: 現地のプリペイドSIMとは異なり、店舗に行く必要がなく、本人確認（KYC）やチャージ用のカードを探す手間もありません。Roamiなら、2分以内でデジタルアクティベーションが完了し、空港で列に並ぶ必要もありません。
-        事前購入で到着後すぐに使えるRoamiのeSIM。1GBから無制限まで旅行スタイルに合わせて選択でき、追加チャージも簡単です。
-    - q: ケニア用eSIMを他
-        事前購入で到着後すぐに使えるRoamiのeSIM。1GBから無制限まで旅行スタイルに合わせて選択でき、追加チャージも簡単です。のデバイスとテザリング（ポケットWi-Fi）できますか？
+
+    - q: ケニア用eSIMを他のデバイスとテザリング（ポケットWi-Fi）できますか？
       a: はい、Roamiのケニア用eSIMプランは全てテザリング（ポケットWi-Fi）を無制限でサポートしています。ノートパソコン、タブレット、または旅行仲間と接続を共有できます
         — 隠れたコストも速度制限もありません。
     - q: Roamiはケニアで無制限プランを提供していますか？ フェアユースポリシー（FUP）はありますか？
@@ -367,7 +368,13 @@ faq_section:
 
     - q: ケニア用eSIMはVoLTEやHD音声通話に対応していますか？
       a: はい、お使いの端末が対応していれば、ケニア用eSIMはVoLTEとHD音声をサポートします。サフリコム / エアテル・ケニアの5G/4Gネットワークを通じてクリアな通話品質をお楽しみいただけます。
-        ケニア用eSIMの設定はRoamiならQRコードをスキャンするだけで完了。5G対応の高速データ通信でGoogleマップやSNSも快適。24時間日本語サポートで滞在中も安心して利用可能。
+
+    - q: ケニアのeSIMを申し込むとQRコードはどう届きますか？
+      a: クレジットカードがあれば、ケニア用eSIMはオンラインで申し込めます。手続きに店舗へ行く必要はなく、QRコードを読み込めば到着後すぐに接続できます。
+    - q: ケニア用eSIMの安いプランと高いプランの違いは何ですか？
+      a: ローミングと比べると、ケニア用eSIMは現地ネットワーク（サフリコム）を直接使うため割安です。ケニアの現地SIMは本人確認やカード購入の手間がかかり、結果的にコストが高くなりがちです。
+    - q: ケニアでeSIMのデータを追加購入する手順は？
+      a: 残データはアプリやWebのダッシュボードでいつでも確認でき、足りなくなれば追加できます。複数のデータプランを同時に持つことはできませんが、購入後はすぐに新しいプランへ切り替わります。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -530,81 +537,80 @@ faq_section:
       a: ケニア用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: ケニア用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        旅行用eSIMの使い方は簡単。購入後メールで届くQRコードをスキャンしてインストール。Roamiなら無制限プランもあり5G対応。
-        eSIM対応端末をお持ちなら物理SIMより便利。契約不要でプリペイド式、1GBから無制限まで選べる。事前購入がお得でおすすめ。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にケニア用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
-    price: 1.99ドルから
+  - name: コソボ eSIM
+    flag: img/flags/xk.svg
+    price: 13.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
-    price: 1.99ドルから
+    slug: kosovo-esim
+  - name: クウェート eSIM
+    flag: img/flags/kw.svg
+    price: 4.99ドルから
     is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
+    slug: kuwait-esim
+  - name: キルギス eSIM
+    flag: img/flags/kg.svg
+    price: 4.99ドルから
+    is_highlight: false
+    slug: kyrgyzstan-esim
+  - name: ラオス eSIM
+    flag: img/flags/la.svg
+    price: 4.99ドルから
+    is_highlight: false
+    slug: laos-esim
+  - name: ラトビア eSIM
+    flag: img/flags/lv.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
+    slug: latvia-esim
+  - name: リベリア eSIM
+    flag: img/flags/lr.svg
+    price: 27.99ドルから
+    is_highlight: false
+    slug: liberia-esim
+  - name: リヒテンシュタイン eSIM
+    flag: img/flags/li.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
+    slug: liechtenstein-esim
+  - name: リトアニア eSIM
+    flag: img/flags/lt.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
+    slug: lithuania-esim
+  - name: ルクセンブルク eSIM
+    flag: img/flags/lu.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
+    slug: luxembourg-esim
+  - name: マカオ eSIM
+    flag: img/flags/ma.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
+    slug: macao-esim
+  - name: マダガスカル eSIM
+    flag: img/flags/mg.svg
+    price: 11.99ドルから
     is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
+    slug: madagascar-esim
+  - name: マラウイ eSIM
+    flag: img/flags/mw.svg
+    price: 14.99ドルから
     is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+    slug: malawi-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "ケニア旅行者向け：eSIMか観光用SIMか？"
   subtitle: "ケニアの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Kenya) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Kenya"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -678,4 +684,3 @@ market_analysis:
         title: "物理SIMの紛失リスクを回避"
         desc: "物理SIMを抜くと国内の銀行SMSや認証コードが受信不能。eSIMはデジタルで、M-Pesaなどの認証を維持しながらデータ通信可能。"
 ---
-        eSIM対応端末をお持ちなら物理SIMより便利。契約不要でプリペイド式、1GBから無制限まで選べる。事前購入がお得でおすすめ。

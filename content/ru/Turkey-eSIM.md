@@ -1,6 +1,6 @@
 ---
 title: 'Турция eSIM 2026: Города и Покрытие | Roami'
-date: '2026-06-21T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Turkcell, Vodafone, Türk Telekom
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim, Trip.com, МТС
   main_cities: Стамбул, Анкара, Измир, Анталья, Бодрум
-  main_packages: 3/7/15/30 дней, безлимитные данные
+  main_packages: 3/7/15/30/180 дней, безлимитные данные
 modal:
   title: Обновление сервиса!
   btn_text: Продолжить
@@ -17,10 +17,10 @@ modal:
   text_android: 'Наш eSIM-сервис обновлён до <strong>PhoneSIM</strong>.<br>Новые клиенты получают 20% скидку с кодом: web20'
 seo:
   title: eSIM Турция | СКИДКА 20%, безлимитные данные 5G
-  description: Исследуйте Турцию с Roami eSIM. Быстрый 5G по всей стране. Мгновенная настройка по QR. Безлимитные данные от
-    1,99 $. Без роуминга.
-  keywords: eSIM Турция, тариф eSIM Турция, лучшая eSIM Турция, Турция интернет, Turkcell Турция, Vodafone Турция, Türk Telekom
-    Турция, eSIM Стамбул, eSIM Анкара, eSIM Измир, мобильный интернет Турция, 5G Турция
+  description: eSIM для Турция от Roami — 5G в Стамбул и Анкара, тарифы от 1,99 $. Подключение онлайн за 2 минуты.
+  keywords: Турция eSIM, тарифы eSIM Турция, лучшая eSIM Турция, дешёвая eSIM Турция, купить eSIM Турция онлайн, предоплаченная eSIM Турция, безлимитный интернет Турция eSIM, лучшая eSIM для Турция, цена eSIM Турция, активация eSIM Турция, покрытие eSIM Турция, мобильный интернет Турция, 5G Турция, Turkcell Турция, eSIM Стамбул, eSIM Анкара
+  low_price: 1.99
+  high_price: 78.99
 order_summary:
   title: Выберите eSIM Турция
   label_data: Объём данных
@@ -338,6 +338,8 @@ reminders:
     html: QR-код будет отправлен на вашу электронную почту.
   - icon: 🔄
     html: Вы можете установить несколько eSIM одновременно.
+  - icon: 📍
+    html: Покрытие Turkcell и Vodafone охватывает Стамбул, Анкара и Измир — eSIM подключается к сильнейшей сети.
   compatibility_check:
     title: Быстрая проверка совместимости
     desc: 'Не уверены? Проверьте прямо сейчас на телефоне:'
@@ -421,7 +423,7 @@ faq_section:
     - q: |
         Почему туристы выбирают eSIM для Турции?
       a: |
-        Местная SIM может давать более высокую скорость, но eSIM удобнее. Да, можно подключить ноутбук, планшет или второй телефон. Раздача работает на всех тарифах без дополнительной платы. Одно устройство на раздаче тратит примерно столько же, сколько напрямую. Для пары путешественников безлимитный тариф ($59.99) выгоднее двух отдельных.
+        Местная SIM может давать более высокую скорость, но eSIM удобнее. Да, можно подключить ноутбук, планшет или второй телефон. Раздача работает на всех тарифах без дополнительной платы. Одно устройство на раздаче тратит примерно столько же, сколько напрямую. Для пары путешественников безлимитный тариф ($9.99) выгоднее двух отдельных.
     - q: |
         Много ли трафика съедают карты и навигатор в Турции?
       a: |
@@ -429,8 +431,82 @@ faq_section:
     - q: |
         Будет ли eSIM работать в отдалённых районах Турции?
       a: |
-        eSIM позволяет мгновенно переключать операторов. Лучший выбор для большинства туристов — 5GB/15 дней за $9.99. Этого хватает для навигации, соцсетей и мессенджеров при ежедневном использовании около 300-500MB. Если вы планируете смотреть видео или работать удаленно, выбирайте 10GB ($14.99) или безлимитный ($59.99). Все тарифы предоплачены, без скрытых платежей. Не уверены в своем потреблении? Н...
+        eSIM позволяет мгновенно переключать операторов. Лучший выбор для большинства туристов — 5GB/15 дней за $8.99. Этого хватает для навигации, соцсетей и мессенджеров при ежедневном использовании около 300-500MB. Если вы планируете смотреть видео или работать удаленно, выбирайте 10GB ($7.99) или безлимитный ($$9.99. Все тарифы предоплачены, без скрытых платежей. Не уверены в своем потреблении? Н...
+    - q: |
+        Как активируется eSIM Турция, если мой оператор — Turkcell?
+      a: |
+        Активация не зависит от вашего домашнего оператора: QR-код приходит на email, профиль подключается к Turkcell при первом входе в сеть.
+    - q: |
+        Можно ли раздавать интернет с eSIM Турция в сетях Turkcell и Vodafone?
+      a: |
+        Да, раздача работает на всех тарифах Roami без доплат — скорость сети Turkcell позволяет подключить ноутбук или планшет.
+    - q: |
+        Чем eSIM Турция отличается от предоплаченной SIM от Turkcell или Vodafone?
+      a: |
+        Местная SIM от Turkcell привязана к календарному сроку; eSIM Roami действует только выбранные дни и не требует физической карты.
 related_products:
+  title: Похожие eSIM тарифы
+  items:
+  - name: eSIM Армения
+    flag: img/flags/am.svg
+    price: От $7.99
+    is_highlight: true
+    slug: armenia-esim
+  - name: eSIM Азербайджан
+    flag: img/flags/az.svg
+    price: От $6.99
+    is_highlight: false
+    slug: azerbaijan-esim
+  - name: eSIM Бахрейн
+    flag: img/flags/bh.svg
+    price: От $6.99
+    is_highlight: false
+    slug: bahrain-esim
+  - name: eSIM Ирак
+    flag: img/flags/iq.svg
+    price: От $21.99
+    is_highlight: false
+    slug: iraq-esim
+  - name: eSIM Мали
+    flag: img/flags/ml.svg
+    price: От $27.99
+    is_highlight: false
+    slug: mali-esim
+  - name: eSIM Мальта
+    flag: img/flags/mt.svg
+    price: От $1.99
+    is_highlight: false
+    slug: malta-esim
+  - name: eSIM Маврикий
+    flag: img/flags/mu.svg
+    price: От $7.99
+    is_highlight: false
+    slug: mauritius-esim
+  - name: eSIM Мексика
+    flag: img/flags/mx.svg
+    price: От $3.99
+    is_highlight: false
+    slug: mexico-esim
+  - name: eSIM Монголия
+    flag: img/flags/mn.svg
+    price: От $9.99
+    is_highlight: false
+    slug: mongolia-esim
+  - name: eSIM Черногория
+    flag: img/flags/me.svg
+    price: От $1.99
+    is_highlight: false
+    slug: montenegro-esim
+  - name: eSIM Марокко
+    flag: img/flags/ma.svg
+    price: От $3.99
+    is_highlight: false
+    slug: morocco-esim
+  - name: eSIM Непал
+    flag: img/flags/np.svg
+    price: От $10.99
+    is_highlight: false
+    slug: nepal-esim
 
 # =============== Модуль сравнения на основе данных ===============
 market_analysis:
@@ -467,7 +543,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Основные тарифы Turkcell, Vodafone и Türk Telekom имеют 28-дневный цикл. Например, тариф Turkcell Fırsat 1GB стоит ₺350, но при поездке на 3 дня более 85% стоимости теряется."
       esim_title: "Гибкие тарифы без потерь"
-      esim_desc: "В отличие от 28-дневного цикла Turkcell (₺350 за 1GB), Roami предлагает тарифы от 1,99 $/GB на 7 дней, экономя до 85% затрат."
+      esim_desc: "В отличие от 28-дневного цикла Turkcell (₺350 за 1GB), Roami предлагает тарифы от 0,75 $/GB на 7 дней, экономя до 85% затрат."
     - icon: "wifi"
       title: "Раздача интернета и политика скорости"
       prepaid_title: ""

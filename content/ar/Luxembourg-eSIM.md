@@ -1,6 +1,6 @@
 ---
 title: 'eSIM لوكسمبورغ 2026: دليل المشغلين والتغطية | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM لوكسمبورغ | أفضل تغطية 5G عالية السرعة لرحلتك"
   description: "أفضل eSIM سفر مدفوعة مسبقًا للوكسمبورغ من Roami. بيانات 5G غير محدودة وتفعيل فوري. تغطي مدينة لوكسمبورغ وكل البلاد. وخطط مرنة."
-  keywords: eSIM لوكسمبورغ, شراء eSIM لوكسمبورغ, أفضل eSIM لوكسمبورغ, eSIM سفر لوكسمبورغ, POST لوكسمبورغ, Tango لوكسمبورغ, Orange لوكسمبورغ, eSIM مدينة لوكسمبورغ, eSIM إيش سور ألزيت, eSIM ديفردانج, eSIM لوكسمبورغ مسبقة الدفع, 5G eSIM لوكسمبورغ
+  keywords: eSIM لوكسمبورغ، شراء eSIM لوكسمبورغ، أفضل eSIM لوكسمبورغ، eSIM لوكسمبورغ رخيصة، eSIM لوكسمبورغ مسبقة الدفع، باقة eSIM لوكسمبورغ، eSIM لوكسمبورغ غير محدودة، eSIM لوكسمبورغ 5G، أفضل eSIM لـ لوكسمبورغ، سعر eSIM لوكسمبورغ، تفعيل eSIM لوكسمبورغ، تغطية eSIM لوكسمبورغ، POST Luxembourg لوكسمبورغ، eSIM مدينة لوكسمبورغ، eSIM إيش سور ألزيت، eSIM ديفردانج
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/lu.svg
   flag_alt: علم لوكسمبورغ
-  title: 'eSIM لوكسمبورغ: ابق على اتصال أينما ذهبت'
+  title: 'eSIM لوكسمبورغ: اتصال فوري لسفر خالٍ من القلق'
   subtitle: 5G سريع | تسليم QR فوري | دعم بشري 24/7 - أفضل eSIM مدفوعة مسبقًا للوكسمبورغ
 features:
-  title: 'لماذا يختار المسافرون إلى لوكسمبورغ Roami: الخطط والشبكة والدعم'
+  title: 'لماذا يختار مسافرو لوكسمبورغ روامي: الشبكة والخطط والقيمة'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات النقل في لوكسمبورغ للحصول على أفضل إشارة
-plans_title: 'شراء eSIM لوكسمبورغ: خطط تناسب كل مدة رحلة'
+plans_title: 'شراء eSIM لوكسمبورغ: باقات مرنة لمدة إقامتك'
 plans_data:
   30 يومًا:
   - spec: 20 جيجابايت
@@ -293,7 +293,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM لوكسمبورغ: دليل مشغلي الشبكات المحمولة'
+  title: 'تغطية eSIM لوكسمبورغ: دليل المشغلين وخريطة التغطية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -324,7 +324,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM لوكسمبورغ: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM لوكسمبورغ: خطوات التحضير قبل المغادرة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -343,7 +343,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM لوكسمبورغ: 3 خطوات بسيطة'
+  title: 'eSIM لوكسمبورغ: خطوات التركيب بالتفصيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -368,7 +368,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM لوكسمبورغ
+    title: أجوبة سريعة عن eSIM لوكسمبورغ
     questions:
     - q: |
         هل أحتاج إلى جواز سفر أو هوية لاستخدام eSIM في لوكسمبورغ؟ كيف يعمل التحقق؟
@@ -402,63 +402,75 @@ faq_section:
         هل تعمل WhatsApp و FaceTime مع eSIM في لوكسمبورغ؟
       a: |
         نعم - تعمل جميع التطبيقات القائمة على البيانات بشكل مثالي عبر eSIM. تستخدم مكالمات WhatsApp حوالي 1 ميجابايت في الدقيقة للصوت و5-8 ميجابايت في الدقيقة للفيديو. FaceTime و Zoom و Google Maps و Instagram - كل شيء يعمل عبر اتصال بيانات eSIM بدون قيود. تتعامل شبكة POST مع مكالمات الفيديو بسلاسة. توفر خطة 5 جيجابايت حوالي 500 ساعة من مكالمات WhatsApp الصوتية أو 10 ساعات من فيديو FaceTime.
+    - q: |
+        هل يمكنني شراء eSIM لوكسمبورغ من بلدي قبل السفر؟
+      a: |
+        يمكن شراء eSIM لوكسمبورغ من Roami بالكامل عبر الإنترنت. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        لماذا يكون eSIM أوفر من بطاقة SIM المحلية في لوكسمبورغ؟
+      a: |
+        بما أنك تختار الحجم المناسب، يكون eSIM أقل هدرًا للمال في لوكسمبورغ. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        هل يمكن إضافة بيانات إلى eSIM لوكسمبورغ لاحقًا؟
+      a: |
+        eSIM لوكسمبورغ بنظام مسبق الدفع، ويمكن شراء باقة إضافية من التطبيق عند نقص البيانات. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM لوكسمبورغ ذات الصلة
+  title: وجهات أخرى وخطط eSIM قد تفيد رحلتك إلى لوكسمبورغ
   items:
-  - name: eSIM الولايات المتحدة
+  - name: eSIM طاجيكستان
+    flag: img/flags/tj.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM جامايكا
+    flag: img/flags/jm.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM باكستان
+    flag: img/flags/pk.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM أذربيجان
+    flag: img/flags/az.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM مدغشقر
+    flag: img/flags/mg.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM غيانا
+    flag: img/flags/gy.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM البرتغال
+    flag: img/flags/pt.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM أرمينيا
+    flag: img/flags/am.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM سيشل
+    flag: img/flags/sc.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM الولايات المتحدة الأمريكية
     flag: img/flags/us.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM كوستاريكا
+    flag: img/flags/cr.svg
+    price: من 9.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM روسيا
+    flag: img/flags/ru.svg
+    price: من 2.99 دولار
     is_highlight: false
 market_analysis:
   title: 'مقارنة eSIM لوكسمبورغ مقابل بطاقة SIM المدفوعة مسبقًا: هل يستحق التبديل؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في لوكسمبورغ مقابل حلول eSIM (معايير 2024/2025)
   citation:
-    text: 'مصدر البيانات: Wiki بطاقة بيانات SIM المدفوعة مسبقًا (لوكسمبورغ) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Luxembourg
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

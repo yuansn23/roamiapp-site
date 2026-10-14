@@ -1,6 +1,6 @@
 ---
 title: 'eSIM بيلاروسيا 2026: دليل 5G والبيانات | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: 'eSIM بيلاروسيا: بيانات 5G غير محدودة للسفر في أوروبا'
   description: "قارن خطط eSIM بيلاروسيا مع 5G سريع في مينسك وبريست وفيتيبسك. تغطية A1 و MTS و life. تفعيل فوري عبر QR من 1.99 دولار. وخطط مرنة."
-  keywords: eSIM بيلاروسيا، شراء eSIM بيلاروسيا، أفضل eSIM بيلاروسيا، eSIM السفر إلى بيلاروسيا، A1 بيلاروسيا، MTS بيلاروسيا، life:) بيلاروسيا، eSIM مينسك، eSIM بريست، eSIM فيتيبسك، eSIM بيلاروسيا مسبقة الدفع، 5G eSIM بيلاروسيا
+  keywords: eSIM بيلاروسيا، شراء eSIM بيلاروسيا، أفضل eSIM بيلاروسيا، eSIM بيلاروسيا رخيصة، eSIM بيلاروسيا مسبقة الدفع، باقة eSIM بيلاروسيا، eSIM بيلاروسيا غير محدودة، eSIM بيلاروسيا 5G، أفضل eSIM لـ بيلاروسيا، سعر eSIM بيلاروسيا، تفعيل eSIM بيلاروسيا، تغطية eSIM بيلاروسيا، A1 بيلاروسيا، eSIM مينسك، eSIM بريست، eSIM فيتيبسك
   low_price: 1.99
-  high_price: 39.9
+  high_price: 66.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/by.svg
   flag_alt: علم بيلاروسيا
-  title: 'eSIM بيلاروسيا: اتصال فوري لسفر خالٍ من القلق'
+  title: 'eSIM بيلاروسيا: 5G سريع بدون انتظار في المتاجر'
   subtitle: لا رسوم خفية | إنترنت خالٍ من القلق | دعم 24/7 - أفضل eSIM مسبقة الدفع للمسافرين إلى بيلاروسيا
 features:
-  title: 'لماذا يختار مسافرو بيلاروسيا روامي: التغطية، السرعة والخدمة'
+  title: لماذا تختار eSIM بيلاروسيا من Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائياً بأفضل مشغلي بيلاروسيا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM بيلاروسيا: خطط تناسب كل مدة سفر'
+plans_title: 'خطط eSIM بيلاروسيا: بيانات تكفي رحلتك بأكملها'
 plans_data:
   30 يوم:
   - spec: 20 جيجابايت
@@ -269,7 +269,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM بيلاروسيا: دليل المشغل وخريطة التغطية'
+  title: 'تغطية eSIM بيلاروسيا: مقارنة المشغلين والسرعة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -300,7 +300,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM بيلاروسيا: ما يجب معرفته قبل الذهاب'
+  title: 'جهّز eSIM بيلاروسيا: تذكيرات أساسية قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -319,7 +319,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM بيلاروسيا: 3 خطوات بسيطة'
+  title: 'تركيب eSIM بيلاروسيا: الدليل المبسّط'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -344,7 +344,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM بيلاروسيا
+    title: ما يريد المسافرون معرفته عن eSIM بيلاروسيا
     questions:
     - q: |
         كيف تقارن A1 و MTS و life:) لسائح يزور بيلاروسيا؟
@@ -361,7 +361,7 @@ faq_section:
     - q: |
         هل ستبطأ خطة eSIM بيلاروسيا غير المحدودة إذا استخدمت الكثير من البيانات؟
       a: |
-        هناك سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح — فقط لا فيديو سلس. واقعياً، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقاً، فإن خطة ثابتة 10 جيجابايت (14.99 دولار) أو 20 جيجابايت (24.99 دولار) تزيل عدم اليقين تماماً.
+        هناك سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح — فقط لا فيديو سلس. واقعياً، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقاً، فإن خطة ثابتة 10 جيجابايت (14.99 دولار) أو 20 جيجابايت (16.99 دولار) تزيل عدم اليقين تماماً.
     - q: |
         هل يمكنني تثبيت eSIM بيلاروسيا في المطار، أم يجب أن أفعل ذلك قبل مغادرة المنزل؟
       a: |
@@ -373,68 +373,80 @@ faq_section:
     - q: |
         ما هو اختيار eSIM الأكثر شيوعاً للمسافرين إلى بيلاروسيا؟
       a: |
-        يختار معظم المسافرين إلى بيلاروسيا خطة 5 جيجابايت/15 يوماً (9.99 دولار). إنها كافية للملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة. للإقامات الأطول أو الاستخدام الأثقل، تعد خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) خيارات رائعة. يتم تفعيل جميع الخطط في دقائق وتشمل دعم 24/7.
+        يختار معظم المسافرين إلى بيلاروسيا خطة 5 جيجابايت/15 يوماً (9.99 دولار). إنها كافية للملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة. للإقامات الأطول أو الاستخدام الأثقل، تعد خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (66.99 دولار) خيارات رائعة. يتم تفعيل جميع الخطط في دقائق وتشمل دعم 24/7.
     - q: |
         هل يمكنني التحقق من كمية البيانات التي استخدمتها على eSIM بيلاروسيا؟
       a: |
         نعم — يمكنك التحقق من استخدام البيانات مباشرة في إعدادات هاتفك (الإعدادات > الخلوية > استخدام البيانات على iPhone) أو من خلال لوحة تحكم حساب روامي. يرسل روامي أيضاً إشعارات عند استخدام 70% و 90% من بيانات خطتك.
+    - q: |
+        كيف يصل رمز QR عند شراء eSIM بيلاروسيا؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM بيلاروسيا عبر الإنترنت. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        ما الفرق بين باقات eSIM بيلاروسيا الرخيصة والغالية؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM بيلاروسيا شبكة محلية مباشرة (A1) فيكون أوفر. بطاقات SIM المحلية في بيلاروسيا تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        ما خطوات إعادة شراء البيانات في بيلاروسيا؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM بيلاروسيا ذات الصلة
+  title: باقات eSIM لوجهات مرتبطة بـ بيلاروسيا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
+  - name: eSIM قبرص
+    flag: img/flags/cy.svg
+    price: من 2.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM أوغندا
+    flag: img/flags/ug.svg
+    price: من 7.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM بوتسوانا
+    flag: img/flags/bw.svg
+    price: من 14.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM تونس
+    flag: img/flags/tn.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM عمان
+    flag: img/flags/om.svg
+    price: من 5.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+  - name: eSIM السويد
+    flag: img/flags/se.svg
     price: من 1.99 دولار
     is_highlight: false
   - name: eSIM هونغ كونغ
     flag: img/flags/hk.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
   - name: eSIM أستراليا
     flag: img/flags/au.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM النيجر
+    flag: img/flags/ni.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM جزيرة ريونيون
+    flag: img/flags/re.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM تايلاند
+    flag: img/flags/th.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بوركينا فاسو
+    flag: img/flags/bf.svg
+    price: من 11.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM بيلاروسيا مقابل بطاقة SIM الفعلية: مقارنة السفر والتكلفة والإعداد'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقاً في بيلاروسيا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (بيلاروسيا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Belarus
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - SIM محلية مسبقة الدفع (بيانات السوق)

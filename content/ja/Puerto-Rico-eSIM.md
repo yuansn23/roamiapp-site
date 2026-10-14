@@ -1,6 +1,6 @@
 ---
 title: 'プエルトリコeSIM 2026: 事業者とカバレッジガイド | Roami'
-date: '2026-06-26T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Claro Puerto Rico, Liberty Puerto Rico, T-Mobile Puerto Rico
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: サンファン, ポンセ, マヤグエス, カグアス, カロリーナ
-  main_packages: 3/7/15/30日間, データ無制限
+  main_packages: 7/15/30日、1〜30GB
 modal:
   title: サービスがアップグレードされました！
   btn_text: 続行
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM プエルトリコ | 日本語サポート即時アクティベーション
   description: プエルトリコ旅行で使えるおすすめeSIM。事前に購入インストールでき到着後すぐにインターネット接続可能。カリブ海エリアでも安定した通信。
-  keywords: プエルトリコeSIM, プエルトリコeSIM購入, 最適なプエルトリコeSIM, プエルトリコ旅行用eSIM, Claro Puerto Rico, Liberty Puerto Rico, T-Mobile Puerto Rico, サンファンeSIM, ポンセeSIM, マヤグエスeSIM, プエルトリコプリペイドeSIM, 5GプエルトリコeSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: プエルトリコ eSIM, プエルトリコ eSIM 料金, プエルトリコ eSIM おすすめ, プエルトリコ eSIM 安い, プエルトリコ eSIM 購入, プエルトリコ eSIM 申し込み, プエルトリコ eSIM データプラン, プエルトリコ プリペイドSIM, プエルトリコ 旅行 eSIM, プエルトリコ eSIM 価格, プエルトリコ eSIM 設定方法, プエルトリコ eSIM 対応エリア, サンファン eSIM, ポンセ eSIM, プエルトリコ モバイルデータ, プエルトリコ eSIM 比較
+  low_price: 6.99
+  high_price: 64.99
 order_summary:
   title: 選択したプラン
   label_data: 含まれるデータ
@@ -36,7 +36,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: プエルトリコに最適なeSIM
-  title: 海外旅行，就选プエルトリコ eSIM
+  title: プエルトリコの旅をもっと楽しくするeSIM
 hero:
   flag_image: img/flags/pu.svg
   flag_alt: プエルトリコ国旗
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動切り替え
     desc: 最良の信号を得るためにプエルトリコの主要キャリアに自動接続。
-plans_title: 'プエルトリコeSIMを購入: あらゆる旅行期間に対応するプラン'
+plans_title: プランをチェック
 plans_data:
   7 Days:
   - spec: 1GB
@@ -177,7 +177,7 @@ network_coverage:
       coverage: 都市部で良好なカバレッジ
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 'プエルトリコeSIM設定のヒント: 出発前に知っておくべきこと'
+  title: 便利な使い方のヒント
   items:
   - icon: 📱
     html: 購入前に、お使いの電話が <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM対応</a> であることを確認してください。
@@ -221,12 +221,12 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: プエルトリコeSIMよくある質問
+    title: 1. 基本の疑問
     questions:
     - q: |
         プエルトリコで旅行者に最適なカバレッジを持つネットワークはどれですか — Claro、AT&T、それともT-Mobile？
       a: |
-        プエルトリコには3つの主要キャリアがあります：Claro、AT&T、T-Mobile。Claroは人口の約95%に4G/5Gを提供しています。AT&Tは約90%をカバーしていますが、地方での到達範囲が強いです。T-Mobileは競争力のある価格を提供し、Claroより15-20%安いことが多いです。プエルトリコは米国と同様にn71/n77バンドで5Gを使用します。Roamiはお客様の位置で最も強いネットワークに自動接続します。 海外旅行eSIMならRoamiの地域別プランで周遊もスムーズです。
+        プエルトリコには3つの主要キャリアがあります：Claro、AT&T、T-Mobile。Claroは人口の約95%に4G/5Gを提供しています。AT&Tは約90%をカバーしていますが、地方での到達範囲が強いです。T-Mobileは競争力のある価格を提供し、Claroより15-20%安いことが多いです。プエルトリコは米国と同様にn71/n77バンドで5Gを使用します。Roamiはお客様の位置で最も強いネットワークに自動接続します。
     - q: |
         プエルトリコのeSIMに関して、RoamiはAiraloとどう比較されますか？
       a: |
@@ -243,7 +243,6 @@ faq_section:
         プエルトリコeSIMは田舎や小さな町でも機能しますか？
       a: |
         プエルトリコのカバレッジは都市部の約95%に達しますが、遠隔地では低下します。速度は200-300 Mbps (5G) から10-30 Mbps (4G) に落ちる可能性があります。Roamiは最強のネットワークに自動切り替えします。遠隔地に行く前にオフラインマップをダウンロードしてください。
-        Roamiなら1GB/$1.99からの格安プランでpuerto-ricoの5G高速通信を利用可能。24時間日本語サポート付きで初めての海外eSIMも安心です。
     - q: |
         プエルトリコでeSIMを使用しながら、自国のSIMを電話に残しておけますか？
       a: |
@@ -252,61 +251,77 @@ faq_section:
         RoamiからプエルトリコeSIMを購入するにはどのような書類が必要ですか？
       a: |
         有効な支払い方法（クレジットカード、PayPal、Apple Pay、Google Pay）のみです。パスポートのアップロード、住所確認、契約は一切不要です。オンラインで購入し、数分以内にメールでQRコードを受け取り、直接電話にインストールできます。
-
     - q: |
         旅行前にうっかりプエルトリコeSIMを削除してしまった場合はどうなりますか？
       a: |
         問題ありません。RoamiアカウントにログインしてQRコードを再ダウンロードしてください — 約1分で完了します。最初に受け取ったときにスクリーンショットやPDFとして保存しておくことをお勧めします。
+    - q: プエルトリコ旅行前にeSIMを申し込むベストなタイミングはいつですか？
+      a: クレジットカードがあれば、プエルトリコ用eSIMはオンラインで申し込めます。申し込み後はQRコードがメールで届き、Claro Puerto Ricoのネットワークに接続するだけで利用を開始できます。
+    - q: プエルトリコ用eSIMとローミング、料金が安いのはどちらですか？
+      a: eSIMは店舗手数料やチャージの手間がなく、プエルトリコの通信費を抑えやすい選択です。詳しい料金比較は、各プランの内容と合わせてプラン一覧で確認できます。
+    - q: プエルトリコのeSIMで追加チャージは必要ですか？
+      a: プエルトリコ用eSIMのデータを使い切った場合は、同じアカウントから新しいデータプランを追加できます。滞在日数と用途に合わせて最初に適切な容量を選ぶと、追加購入を減らせます。
 related_products:
   title: 関連eSIMプラン
   items:
-  - name: アメリカ合衆国eSIM
-    flag: img/flags/us.svg
-    price: $1.99から
+  - name: カタール eSIM
+    flag: img/flags/qa.svg
+    price: 1.99ドルから
     is_highlight: false
-  - name: イギリス
-    flag: img/flags/gb.svg
-    price: $1.99から
+    slug: qatar-esim
+  - name: レユニオン島 eSIM
+    flag: img/flags/re.svg
+    price: 1.99ドルから
     is_highlight: false
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
-    price: $1.99から
+    slug: reunion-island-esim
+  - name: ルーマニア eSIM
+    flag: img/flags/ro.svg
+    price: 1.99ドルから
+    is_highlight: false
+    slug: romania-esim
+  - name: ロシア eSIM
+    flag: img/flags/ru.svg
+    price: 2.99ドルから
+    is_highlight: false
+    slug: russia-esim
+  - name: サウジアラビア eSIM
+    flag: img/flags/sa.svg
+    price: 3.99ドルから
     is_highlight: true
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
-    price: $1.99から
+    slug: saudi-arabia-esim
+  - name: セネガル eSIM
+    flag: img/flags/se.svg
+    price: 12.99ドルから
     is_highlight: false
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: $1.99から
+    slug: senegal-esim
+  - name: シエラレオネ eSIM
+    flag: img/flags/si.svg
+    price: 10.99ドルから
     is_highlight: false
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: $1.99から
+    slug: sierra-leone-esim
+  - name: シンガポール eSIM
+    flag: img/flags/sg.svg
+    price: 1.99ドルから
     is_highlight: false
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: $1.99から
+    slug: singapore-esim
+  - name: スロバキア eSIM
+    flag: img/flags/sl.svg
+    price: 1.99ドルから
     is_highlight: false
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: $1.99から
+    slug: slovakia-esim
+  - name: 南アフリカ eSIM
+    flag: img/flags/za.svg
+    price: 3.99ドルから
     is_highlight: false
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: $1.99から
+    slug: south-africa-esim
+  - name: 韓国 eSIM
+    flag: img/flags/kr.svg
+    price: 1.99ドルから
     is_highlight: false
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: $1.99から
+    slug: south-korea-esim
+  - name: 東南アジア eSIM
+    flag: img/flags/ya.webp
+    price: 1.99ドルから
     is_highlight: false
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: $1.99から
-    is_highlight: false
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: $1.99から
-    is_highlight: false
+    slug: southeast-asia-esim
 ---
-        Puerto Rico旅行の通信費を抑えるならRoami。海外ローミングより格安のデータプランで、無制限から1GBまで選択可能。事前購入・即時アクティベーションで到着後すぐにインターネット。

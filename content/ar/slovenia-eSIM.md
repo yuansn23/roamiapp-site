@@ -1,6 +1,6 @@
 ---
 title: 'eSIM سلوفينيا | أفضل خطة بيانات 5G غير محدودة للمستكشفين'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM سلوفينيا | أفضل بيانات 5G غير محدودة للمستكشفين"
   description: "أفضل eSIM سفر مدفوعة مسبقًا من Roami إلى سلوفينيا. بيانات غير محدودة 5G. تغطي ليوبليانا وبليد وماريبور. تفعيل فوري. خطط مرنة الآن."
-  keywords: eSIM سلوفينيا, eSIM سلوفينيا رخيص, إنترنت السفر سلوفينيا, A1 سلوفينيا, Telekom Slovenije, eSIM فوري, بدون رسوم تجوال
+  keywords: eSIM سلوفينيا، شراء eSIM سلوفينيا، أفضل eSIM سلوفينيا، eSIM سلوفينيا رخيصة، eSIM سلوفينيا مسبقة الدفع، باقة eSIM سلوفينيا، eSIM سلوفينيا غير محدودة، eSIM سلوفينيا 5G، أفضل eSIM لـ سلوفينيا، سعر eSIM سلوفينيا، تفعيل eSIM سلوفينيا، تغطية eSIM سلوفينيا، A1 سلوفينيا، eSIM ليوبليانا، eSIM ماريبور، eSIM كراني
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/sl.svg
   flag_alt: علم سلوفينيا
-  title: خطة بيانات eSIM سلوفينيا
+  title: 'eSIM سلوفينيا: 5G فوري بدون رسوم تجوال'
   subtitle: لا حاجة لهوية | اختيار ذكي | تفعيل في دقيقة واحدة
 features:
-  title: لماذا يختار المسافرون Roami لـ eSIM سلوفينيا
+  title: 'لماذا Roami خيار مسافري سلوفينيا: السرعة والسعر والدعم'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: الاتصال بأفضل الشركات الناقلة
-plans_title: اختر خطتك
+plans_title: شراء باقة eSIM سلوفينيا بالمدة التي تحتاجها
 plans_data:
   30 يومًا:
   - spec: 30 جيجابايت
@@ -269,7 +269,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: تفاصيل التغطية الشبكية
+  title: 'eSIM سلوفينيا: دليل تغطية الشبكات المحلية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -300,7 +300,7 @@ network_coverage:
       coverage: IP أصلي
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح مهمة لاستخدام eSIM سلوفينيا:'
+  title: 'eSIM سلوفينيا: إرشادات الإعداد قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -319,7 +319,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: خطوات التفعيل
+  title: 'eSIM سلوفينيا: كيفية التثبيت والتفعيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -344,7 +344,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM سلوفينيا
+    title: أسئلة وأجوبة عن eSIM سلوفينيا
     questions:
     - q: |
         هل من الآمن تحميل جواز سفري لتسجيل eSIM سلوفينيا؟ أنا قلق بشأن الخصوصية.
@@ -378,55 +378,67 @@ faq_section:
         أنا أسافر إلى سلوفينيا لمدة 2-3 أيام فقط. ما هي eSIM التي يجب أن أحصل عليها؟
       a: |
         لرحلة قصيرة، تغطي خطة 1 جيجابايت / 7 أيام (1.99 دولار) الخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (4.99 دولار) تمنح مساحة أكبر. يتم تفعيل كلاهما فوريًا ويمكنك شحن الرصيد إذا لزم الأمر.
+    - q: |
+        ما خطوات شراء eSIM سلوفينيا واستلامه؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        ما هيكل أسعار eSIM سلوفينيا؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في سلوفينيا أسهل. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        هل يمكنني شراء المزيد من البيانات إذا نفدت في سلوفينيا؟
+      a: |
+        عند نفاد بيانات eSIM سلوفينيا يمكنك إضافة باقة بيانات جديدة من نفس الحساب. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM ذات الصلة
+  title: خطط eSIM قد تحتاجها بعد سلوفينيا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM أوزبكستان
+    flag: img/flags/uz.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM نيوزيلندا
+    flag: img/flags/nz.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM الفلبين
+    flag: img/flags/ph.svg
+    price: من 2.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM ليتوانيا
+    flag: img/flags/lt.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
+  - name: eSIM الجزائر
+    flag: img/flags/dz.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM جمهورية الدومينيكان
+    flag: img/flags/do.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM البحرين
+    flag: img/flags/bh.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM البوسنة والهرسك
+    flag: img/flags/ba.svg
+    price: من 30.99 دولار
+    is_highlight: false
+  - name: eSIM لاتفيا
+    flag: img/flags/lv.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
+  - name: eSIM مصر
+    flag: img/flags/eg.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM أيرلندا
+    flag: img/flags/ie.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM منغوليا
+    flag: img/flags/mo.svg
+    price: من 9.99 دولار
     is_highlight: false
 ---

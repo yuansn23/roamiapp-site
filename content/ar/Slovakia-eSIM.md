@@ -1,6 +1,6 @@
 ---
 title: 'سلوفاكيا eSIM 2026: دليل 5G والبيانات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,9 @@ modal:
 seo:
   title: "سلوفاكيا eSIM | أفضل خطة بيانات 5G مسبقة الدفع لإقامتك"
   description: "أفضل eSIM مسبقة الدفع للسفر من Roami إلى سلوفاكيا. بيانات 5G غير محدودة. تغطي براتيسلافا وكوشيتسه وجبال تاترا. اشترِ خطتك الآن."
-  keywords: سلوفاكيا eSIM, شراء سلوفاكيا eSIM, أفضل سلوفاكيا eSIM, سلوفاكيا eSIM للسفر, أورنج سلوفينسكو, سلوفاك
-    تيليكوم, O2 سلوفاكيا, براتيسلافا eSIM, كوشيتسه eSIM, بريشوف eSIM, سلوفاكيا eSIM مسبقة الدفع, 5G سلوفاكيا eSIM
+  keywords: eSIM سلوفاكيا، شراء eSIM سلوفاكيا، أفضل eSIM سلوفاكيا، eSIM سلوفاكيا رخيصة، eSIM سلوفاكيا مسبقة الدفع، باقة eSIM سلوفاكيا، eSIM سلوفاكيا غير محدودة، eSIM سلوفاكيا 5G، أفضل eSIM لـ سلوفاكيا، سعر eSIM سلوفاكيا، تفعيل eSIM سلوفاكيا، تغطية eSIM سلوفاكيا، أورنج سلوفينسكو سلوفاكيا، eSIM براتيسلافا، eSIM كوشيتسه، eSIM بريشوف
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -41,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/sl.svg
   flag_alt: علم سلوفاكيا
-  title: 'سلوفاكيا eSIM: اتصال فوري لسفر خالٍ من القلق'
+  title: 'eSIM سلوفاكيا: ابق على اتصال أينما تذهب'
   subtitle: أفضل eSIM مسبقة الدفع للمسافرين إلى سلوفاكيا - 5G سريع، تفعيل فوري، دعم 24/7
 features:
-  title: 'لماذا يختار المسافرون إلى سلوفاكيا Roami: السرعة والتغطية والدعم'
+  title: 'لماذا يختار زوار سلوفاكيا Roami: تغطية واسعة ودعم 24/7'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات الاتصالات في سلوفاكيا للحصول على أفضل إشارة
-plans_title: 'شراء سلوفاكيا eSIM: خطط لكل مدة رحلة'
+plans_title: 'خطط eSIM سلوفاكيا: اختر المدة والباقة المناسبة'
 plans_data:
   30 يوم:
   - spec: 30 جيجابايت
@@ -272,7 +271,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية سلوفاكيا eSIM: دليل كامل للشبكات المحلية'
+  title: 'تغطية eSIM سلوفاكيا: دليل مشغل الشبكة المحمولة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -305,7 +304,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد سلوفاكيا eSIM: ما يجب معرفته قبل الذهاب'
+  title: 'تحضير eSIM سلوفاكيا: قائمة ما قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -326,7 +325,7 @@ reminders:
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت سلوفاكيا eSIM: 3 خطوات بسيطة'
+  title: كيف تُثبّت eSIM سلوفاكيا في 3 خطوات
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -351,7 +350,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول سلوفاكيا eSIM
+    title: كل ما تتساءل عنه حول eSIM سلوفاكيا
     questions:
     - q: |
         إذا استخدمت eSIM في سلوفاكيا، هل لا يزال بإمكاني تلقي المكالمات والرسائل النصية على رقمي المعتاد؟
@@ -385,55 +384,67 @@ faq_section:
         كم مقدمًا يجب أن أشتري eSIM سلوفاكيا الخاصة بي؟
       a: |
         يمكنك الشراء في أي وقت — حتى عند بوابة الصعود. يصل رمز QR في غضون دقائق. نوصي بالشراء قبل أيام قليلة حتى تتمكن من التثبيت عبر WiFi في المنزل. يتم تفعيل الخطة فقط عند الاتصال في سلوفاكيا، لذا فإن الشراء المبكر لا يضيع أيام خطتك.
+    - q: |
+        ما المعلومات المطلوبة لشراء eSIM سلوفاكيا؟
+      a: |
+        يمكن شراء eSIM سلوفاكيا من Roami بالكامل عبر الإنترنت. بعد الوصول إلى سلوفاكيا، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        أيّهما أوفر في سلوفاكيا، eSIM أم راوتر Wi-Fi متنقل؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في سلوفاكيا أسهل. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        كيف أضيف بيانات إلى eSIM سلوفاكيا؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM ذات الصلة
+  title: خطط eSIM مقترحة لمسافري سلوفاكيا
   items:
-  - name: الولايات المتحدة eSIM
-    flag: img/flags/us.svg
+  - name: eSIM كولومبيا
+    flag: img/flags/co.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM جنوب شرق آسيا
+    flag: img/flags/ya.webp
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM ملاوي
+    flag: img/flags/mw.svg
+    price: من 14.99 دولار
     is_highlight: false
-  - name: أوروبا eSIM
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM دومينيكا
+    flag: img/flags/dm.svg
+    price: من 11.99 دولار
     is_highlight: true
-  - name: كندا eSIM
-    flag: img/flags/ca.svg
+  - name: eSIM بنغلاديش
+    flag: img/flags/bd.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM السلفادور
+    flag: img/flags/sv.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM كوريا الجنوبية
+    flag: img/flags/kr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: تركيا eSIM
-    flag: img/flags/tr.svg
+  - name: eSIM رومانيا
+    flag: img/flags/ro.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: الصين eSIM
-    flag: img/flags/cn.svg
+  - name: eSIM جبل طارق
+    flag: img/flags/gi.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM جمهورية التشيك
+    flag: img/flags/cz.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: اليابان eSIM
-    flag: img/flags/jp.svg
+  - name: eSIM إندونيسيا
+    flag: img/flags/id.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: هونغ كونغ eSIM
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: فرنسا eSIM
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: إسبانيا eSIM
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: ألمانيا eSIM
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أستراليا eSIM
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM تشيلي
+    flag: img/flags/cl.svg
+    price: من 4.99 دولار
     is_highlight: false
 ---

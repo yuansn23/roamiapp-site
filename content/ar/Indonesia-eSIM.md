@@ -1,6 +1,6 @@
 ---
 title: 'eSIM إندونيسيا - 5G في بالي وجاكرتا | بدون ضريبة IMEI | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM إندونيسيا - خطة 5G مسبقة الدفع بدون ضريبة IMEI"
   description: "أفضل eSIM إندونيسيا مع 5G على تيلكومسيل وإندوسات وإكس إل. لا حاجة لتسجيل IMEI. تغطي بالي وجاكرتا. تبدأ من 1.99 دولار. وخطط مرنة."
-  keywords: eSIM إندونيسيا، شراء eSIM إندونيسيا، أفضل eSIM إندونيسيا، eSIM السفر إلى إندونيسيا، تيلكومسيل إندونيسيا، إندوسات أوريدو إندونيسيا، إكس إل أكسياتا إندونيسيا، eSIM جاكرتا، eSIM بالي، eSIM يوجياكارتا، eSIM إندونيسيا مسبقة الدفع، 5G eSIM إندونيسيا، eSIM إندونيسيا بدون IMEI
+  keywords: eSIM إندونيسيا، شراء eSIM إندونيسيا، أفضل eSIM إندونيسيا، eSIM إندونيسيا رخيصة، eSIM إندونيسيا مسبقة الدفع، باقة eSIM إندونيسيا، eSIM إندونيسيا غير محدودة، eSIM إندونيسيا 5G، أفضل eSIM لـ إندونيسيا، سعر eSIM إندونيسيا، تفعيل eSIM إندونيسيا، تغطية eSIM إندونيسيا، تيلكومسيل إندونيسيا، eSIM جاكرتا، eSIM سورابايا، eSIM باندونغ
   low_price: 1.99
-  high_price: 39.9
+  high_price: 68.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/id.svg
   flag_alt: علم إندونيسيا
-  title: 'eSIM إندونيسيا: 5G في بالي وجاكرتا وما وراءها — بدون ضريبة IMEI، بدون مبالغة أسعار المطار'
+  title: 'eSIM إندونيسيا: ابق على اتصال أينما تذهب'
   subtitle: 5G على تيلكومسيل وإندوسات وإكس إل | لا حاجة لتسجيل IMEI | لا ضريبة 40% على الأجهزة | دعم 24/7
 features:
-  title: 'لماذا يختار مسافرو إندونيسيا روامي: التغطية، التوفير وعدم متاعب IMEI'
+  title: 'لماذا يختار زوار إندونيسيا Roami: تغطية واسعة ودعم 24/7'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +73,7 @@ features:
     color: from-sky-400 to-sky-600
     title: جاهز لبالي والجزر
     desc: 4G/5G عبر بالي وجاوة والجزر السياحية الرئيسية — ابق على اتصال من سيمينياك إلى أوبود
-plans_title: 'شراء eSIM إندونيسيا: خطط تناسب كل مدة سفر'
+plans_title: 'خطط eSIM إندونيسيا: اختر المدة والباقة المناسبة'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -289,7 +289,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM إندونيسيا: دليل 5G من تيلكومسيل وإندوسات وإكس إل — من بالي إلى جاوة'
+  title: 'تغطية eSIM إندونيسيا: دليل مشغل الشبكة المحمولة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -320,7 +320,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM إندونيسيا: ما يجب معرفته قبل الذهاب'
+  title: 'تحضير eSIM إندونيسيا: قائمة ما قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -345,7 +345,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM إندونيسيا: 3 خطوات بسيطة'
+  title: كيف تُثبّت eSIM إندونيسيا في 3 خطوات
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -370,7 +370,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM إندونيسيا
+    title: كل ما تتساءل عنه حول eSIM إندونيسيا
     questions:
     - q: |
         ما هو تسجيل IMEI ولماذا قد يكلفني 40% من قيمة هاتفي؟
@@ -379,7 +379,7 @@ faq_section:
     - q: |
         هل صحيح أن بطاقات SIM في المطار في إندونيسيا هي عملية نصب؟
       a: |
-        نعم — إنها واحدة من أسوأ الفخاخ السياحية في إندونيسيا. تتقاضى أكشاك المطار في جاكرتا وبالي <strong>4 إلى 10 أضعاف السعر الرسمي</strong> لبطاقات SIM المدفوعة مسبقاً. يبلغ السياح بشكل متكرر عن دفع 200,000-500,000 روبية (13-33 دولاراً أمريكياً) مقابل SIM تكلف 30,000-50,000 روبية (2-3 دولاراً أمريكياً) في المدينة. كما تواجه مشكلة ضريبة IMEI. تكلف روامي <strong>1.99 دولار لمدة 3 أيام</strong> — تسعير شفاف، بدون مبالغة في أسعار المطار، بدون ضريبة IMEI.
+        نعم — إنها واحدة من أسوأ الفخاخ السياحية في إندونيسيا. تتقاضى أكشاك المطار في جاكرتا وبالي <strong>4 إلى 10 أضعاف السعر الرسمي</strong> لبطاقات SIM المدفوعة مسبقاً. يبلغ السياح بشكل متكرر عن دفع 200,000-500,000 روبية (13-33 دولاراً أمريكياً) مقابل SIM تكلف 30,000-50,000 روبية (2-3 دولاراً أمريكياً) في المدينة. كما تواجه مشكلة ضريبة IMEI. تكلف روامي <strong>8.99 دولار لمدة 3 أيام</strong> — تسعير شفاف، بدون مبالغة في أسعار المطار، بدون ضريبة IMEI.
     - q: |
         هل ستعمل eSIM الخاصة بي في بالي — سيمينياك، كوتا، أوبود، والشواطئ؟
       a: |
@@ -408,63 +408,75 @@ faq_section:
         متى تبدأ فترة صلاحية eSIM إندونيسيا الخاصة بي؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في إندونيسيا، وليس عند الشراء أو التثبيت. لذلك يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة. تمنحك خطة 7 أيام 7 أيام كاملة من أول اتصال.
+    - q: |
+        ما المعلومات المطلوبة لشراء eSIM إندونيسيا؟
+      a: |
+        يمكن شراء eSIM إندونيسيا من Roami بالكامل عبر الإنترنت. بعد الوصول إلى إندونيسيا، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        أيّهما أوفر في إندونيسيا، eSIM أم راوتر Wi-Fi متنقل؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في إندونيسيا أسهل. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        كيف أضيف بيانات إلى eSIM إندونيسيا؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM إندونيسيا ذات الصلة
+  title: خطط eSIM مقترحة لمسافري إندونيسيا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
+  - name: eSIM العراق
+    flag: img/flags/iq.svg
+    price: من 9.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM بروناي
+    flag: img/flags/bn.svg
+    price: من 9.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM مقدونيا
+    flag: img/flags/ma.svg
+    price: من 4.99 دولار
     is_highlight: false
   - name: eSIM الصين
     flag: img/flags/cn.svg
     price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+    is_highlight: true
+  - name: eSIM مالطا
+    flag: img/flags/mt.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
+  - name: eSIM الإكوادور
+    flag: img/flags/ec.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM باهاماس
+    flag: img/flags/bs.svg
+    price: من 16.99 دولار
+    is_highlight: false
+  - name: eSIM أيسلندا
+    flag: img/flags/is.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
+  - name: eSIM أوكرانيا
+    flag: img/flags/uk.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
+  - name: eSIM الكونغو (كينشاسا)
+    flag: img/flags/cg.svg
+    price: من 7.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
+  - name: eSIM تشاد
+    flag: img/flags/td.svg
+    price: من 23.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM الغابون
+    flag: img/flags/ga.svg
+    price: من 14.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM إندونيسيا مقابل SIM المحلية: بدون ضريبة IMEI، بدون مبالغة أسعار المطار، بدون جواز سفر'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقاً في إندونيسيا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (إندونيسيا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Indonesia
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - SIM محلية مسبقة الدفع (بيانات السوق)

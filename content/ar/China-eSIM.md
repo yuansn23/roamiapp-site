@@ -1,6 +1,6 @@
 ---
 title: 'eSIM الصين 2026: دليل المشغلين المحليين | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: تشاينا موبايل، تشاينا يونيكوم، تشاينا تيليكوم
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: بكين، شنغهاي، قوانغتشو، شنتشن، تشنغدو
-  main_packages: 3/7/15/30 يومًا، بيانات غير محدودة
+  main_packages: 3/7/15/30 يومًا، حتى 50 جيجابايت
 modal:
   title: تم ترقية الخدمة!
   btn_text: متابعة
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
 seo:
   title: "eSIM الصين | أفضل خطة بيانات 5G مسبقة الدفع بدون VPN"
-  description: "أفضل eSIM سفر مدفوعة مسبقًا من Roami للصين. بيانات 5G غير محدودة بدون VPN. تفعيل فوري. تغطي بكين وشنغهاي وكل المدن. خطط مرنة الآن."
-  keywords: eSIM الصين، شراء eSIM الصين، أفضل eSIM الصين، eSIM سفر الصين، تشاينا موبايل الصين، تشاينا يونيكوم الصين، تشاينا تيليكوم الصين، eSIM بكين، eSIM شنغهاي، eSIM قوانغتشو، eSIM مدفوعة مسبقًا الصين، eSIM 5G الصين
+  description: "أفضل eSIM سفر مدفوعة مسبقًا من Roami للصين. بيانات 5G عالية السرعة بدون VPN. تفعيل فوري. تغطي بكين وشنغهاي وكل المدن. خطط مرنة الآن."
+  keywords: eSIM الصين، شراء eSIM الصين، أفضل eSIM الصين، eSIM الصين رخيصة، eSIM الصين مسبقة الدفع، باقة eSIM الصين، باقة بيانات eSIM الصين، eSIM الصين 5G، أفضل eSIM لـ الصين، سعر eSIM الصين، تفعيل eSIM الصين، تغطية eSIM الصين، تشاينا موبايل الصين، eSIM بكين، eSIM شنغهاي، eSIM قوانغتشو
   low_price: 1.99
-  high_price: 39.9
+  high_price: 39.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/cn.svg
   flag_alt: علم الصين
-  title: 'eSIM الصين: ابقَ على اتصال أينما تذهب'
+  title: 'eSIM الصين: اتصال سلس من لحظة الوصول'
   subtitle: أفضل eSIM مدفوعة مسبقًا للمسافرين إلى الصين - 5G سريع، تفعيل فوري، دعم 24/7
 features:
-  title: 'لماذا يختار المسافرون إلى الصين Roami: السرعة والتغطية والدعم'
+  title: مزايا eSIM الصين من روامي
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي الصين للحصول على أفضل إشارة
-plans_title: 'شراء eSIM الصين: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM الصين: خيارات يومية وشهرية'
 plans_data:
   30 يومًا:
   - spec: 20 جيجابايت
@@ -247,7 +247,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM الصين: دليل كامل للشبكات المحلية'
+  title: 'تغطية eSIM الصين: المشغلون وجودة الشبكة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -278,7 +278,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM الصين: ما يجب معرفته قبل السفر'
+  title: 'قبل السفر إلى الصين: نصائح تفعيل eSIM'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -298,7 +298,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM الصين: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM الصين: دليل سريع للمسافرين'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -323,7 +323,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM الصين
+    title: أكثر ما يُسأل عن eSIM الصين
     questions:
     - q: |
         السياح الذين يزورون الصين — أي شبكة تعطي أفضل تجربة؟
@@ -357,63 +357,75 @@ faq_section:
         هل يمكنني استخدام eSIM الصين لوسائل التواصل الاجتماعي ومشاركة الصور مع العائلة؟
       a: |
         بالتأكيد. جميع تطبيقات إنستغرام وواتساب وفيسبوك ووسائل التواصل الاجتماعي الأخرى تعمل عبر اتصال eSIM. تتعامل سرعات الرفع من تشاينا موبايل مع الصور في ثوانٍ ومقاطع الفيديو القصيرة بسهولة.
+    - q: |
+        هل شراء eSIM الصين متاح عبر الإنترنت؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. بعد الوصول إلى الصين، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        أيّهما أرخص في الصين، eSIM أم بطاقة SIM المطار؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM الصين شبكة محلية مباشرة (تشاينا موبايل) فيكون أوفر. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        هل يمكن إدارة بيانات eSIM الصين من التطبيق؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في الصين، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM ذات الصلة بالصين
+  title: باقات مقترحة لتوسيع رحلتك خارج الصين
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
   - name: eSIM فرنسا
     flag: img/flags/fr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
+  - name: eSIM بوليفيا
+    flag: img/flags/bo.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM بلجيكا
+    flag: img/flags/be.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
+  - name: eSIM كمبوديا
+    flag: img/flags/kh.svg
+    price: من 3.99 دولار
+    is_highlight: true
+  - name: eSIM مالي
+    flag: img/flags/ml.svg
+    price: من 27.99 دولار
+    is_highlight: false
+  - name: eSIM بلغاريا
+    flag: img/flags/bg.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM جزر فارو
+    flag: img/flags/fo.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM النمسا
+    flag: img/flags/at.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM فيتنام
+    flag: img/flags/vn.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بيرو
+    flag: img/flags/pe.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM كازاخستان
+    flag: img/flags/kz.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM كينيا
+    flag: img/flags/ke.svg
+    price: من 7.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM الصين مقابل بطاقة SIM المدفوعة مسبقًا: كل ما يجب أن تنظر فيه – أفضل eSIM للمسافرين إلى الصين'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في الصين مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM للبيانات المدفوعة مسبقًا (الصين) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/China
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

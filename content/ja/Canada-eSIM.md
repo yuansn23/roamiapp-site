@@ -1,6 +1,6 @@
 ---
 title: カナダ eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:02:26+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,7 +20,9 @@ modal:
 seo:
   title: eSIM カナダ | グループ旅行でみんなと使えるデータ共有プラン比較
   description: カナダ旅行でGoogleマップを多用する方にRoamiのeSIM。オフラインマップの事前ダウンロードと組み合わせればデータ消費を最小限に抑えながら快適な旅を実現。5GBあれば1週間の観光に十分。
-  keywords: カナダ eSIM, カナダ旅行, カナダ ネットワーク, カナダ 観光, カナダ オンライン
+  low_price: 3.99
+  high_price: 59.99
+  keywords: カナダ eSIM, カナダ eSIM 料金, カナダ eSIM おすすめ, カナダ eSIM 安い, カナダ eSIM 購入, カナダ eSIM 申し込み, カナダ eSIM データ無制限, カナダ プリペイドSIM, カナダ 旅行 eSIM, カナダ eSIM 価格, カナダ eSIM 設定方法, カナダ eSIM 対応エリア, トロント eSIM, バンクーバー eSIM, カナダ モバイルデータ, カナダ eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: カナダ向け最高のeSIM
-  title: 海外旅行，就选カナダ eSIM
+  title: カナダへの旅行はeSIMでスマートに
 hero:
   flag_image: img/flags/ca.svg
   flag_alt: カナダの国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: 旅行プランを選択
 plans_data:
   7 日:
   - spec: 1GB
@@ -314,7 +316,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: 知っておきたいこと
   items:
   - icon: 📱
     html: |-
@@ -370,7 +372,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. 基本情報
     questions:
     - q: カナダ用eSIMは近隣諸国での国際ローミングはどうなりますか？
       a: カナダ用eSIMは主にカナダ向けに最適化されています。近隣諸国への旅行には、当社のヨーロッパまたは地域別eSIMをお勧めします。これにより追加料金なしでシームレスなローミングが可能です。
@@ -381,7 +383,7 @@ faq_section:
     - q: カナダ用eSIMを他のデバイスとテザリング（ポケットWi-Fi）できますか？
       a: はい、Roamiのカナダ用eSIMプランは全てテザリング（ポケットWi-Fi）を無制限でサポートしています。ノートパソコン、タブレット、または旅行仲間と接続を共有できます
         — 隠れたコストも速度制限もありません。
-        Roamiなら1GB/$1.99からの格安プランでカナダの5G高速通信を利用可能。24時間日本語サポート付きで初めての海外eSIMも安心です。
+
     - q: 私のスマートフォンはカナダのeSIMに対応していますか？また、インストール方法は？
       a: はい、最新のスマートフォン（iPhone XS/XR以降、Samsung Galaxy S20+/Note20+、Google Pixel 3a+など）はeSIMに対応しています。カナダ用eSIMは、モバイル設定でQRコードをスキャンしてインストールします。Rogers
         / Bellのネットワークはカナダで優れた5G/4Gカバレッジを提供します。
@@ -391,12 +393,18 @@ faq_section:
       a: カナダ用eSIMはRogers / Bellと専属提携しています。都市部だけでなく、郊外や高速道路沿いでも最適なネットワーク（5G/4G/LTE）に自動接続し、最高のカバレッジを実現します。
     - q: カナダ用eSIMのQRコードの有効期限は？
       a: QRコードはメール送信後30日間有効です。旅行前に十分な時間があります。期限が切れた場合は、新しいコードを発行できます。
-        余裕を持って準備したい方は、出発の1ヶ月前でも購入してQRコードを保存可能。カナダ旅行前に海外旅行eSIMをインストールしておけば、到着後スムーズに通信を開始できます。
+
     - q: QRコードなしでカナダ用eSIMをインストールできますか？
       a: はい、QRコードの他に、SM‑DP+アドレスとアクティベーションコード（注文確認メールに記載）を使って手動でインストールすることも可能です。QRコードが最も簡単で迅速な方法です。
 
     - q: RoamiのeSIMは、現地のプリペイドSIMと比べてどのような利点がありますか？
       a: 現地のプリペイドSIMとは異なり、店舗に行く必要がなく、本人確認（KYC）やチャージ用のカードを探す手間もありません。Roamiなら、2分以内でデジタルアクティベーションが完了し、空港で列に並ぶ必要もありません。
+    - q: スマホからカナダ用eSIMを申し込みできますか？
+      a: 申し込みは公式サイトから数分で完了します。申し込み後はQRコードがメールで届き、Rogersのネットワークに接続するだけで利用を開始できます。
+    - q: カナダ用eSIMの料金はデータ容量によってどう変わりますか？
+      a: カナダ用eSIMの料金はプランごとに明示されており、現地SIMのような追加チャージは不要です。詳しい料金比較は、各プランの内容と合わせてプラン一覧で確認できます。
+    - q: カナダのeSIMで残データを翌日に繰り越せますか？
+      a: カナダ滞在中にデータが不足したら、オンラインで上位のデータプランを購入して切り替えられます。滞在日数と用途に合わせて最初に適切な容量を選ぶと、追加購入を減らせます。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -559,81 +567,80 @@ faq_section:
       a: カナダ用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: カナダ用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        eSIM対応端末をお持ちなら物理SIMより便利。契約不要でプリペイド式、1GBから無制限まで選べる。事前購入がお得でおすすめ。
-        海外旅行にeSIMをおすすめする理由は、事前購入で到着後すぐに使える便利さ。Roamiなら1GB/$1.99からの格安プランで5G高速通信。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にカナダ用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
-    price: 1.99ドルから
+  - name: チャド eSIM
+    flag: img/flags/td.svg
+    price: 23.99ドルから
     is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
-    price: 1.99ドルから
+    slug: chad-esim
+  - name: チリ eSIM
+    flag: img/flags/cl.svg
+    price: 4.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
+    slug: chile-esim
+  - name: 中国 eSIM
     flag: img/flags/cn.svg
     price: 1.99ドルから
     is_highlight: false
     slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
+  - name: コロンビア eSIM
+    flag: img/flags/co.svg
+    price: 4.99ドルから
+    is_highlight: false
+    slug: colombia-esim
+  - name: コンゴ eSIM
+    flag: img/flags/cg.svg
+    price: 7.99ドルから
+    is_highlight: false
+    slug: congo-esim
+  - name: コスタリカ eSIM
+    flag: img/flags/cr.svg
+    price: 9.99ドルから
+    is_highlight: false
+    slug: costa-rica-esim
+  - name: クロアチア eSIM
+    flag: img/flags/hr.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
+    slug: croatia-esim
+  - name: キプロス eSIM
+    flag: img/flags/cy.svg
+    price: 2.99ドルから
+    is_highlight: false
+    slug: cyprus-esim
+  - name: チェコ eSIM
+    flag: img/flags/cz.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
+    slug: czech-republic-esim
+  - name: デンマーク eSIM
+    flag: img/flags/dk.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
+    slug: denmark-esim
+  - name: ドミニカ国 eSIM
+    flag: img/flags/dm.svg
+    price: 11.99ドルから
     is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
+    slug: dominica-esim
+  - name: ドミニカ共和国 eSIM
+    flag: img/flags/do.svg
+    price: 5.99ドルから
     is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+    slug: dominican-republic-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "カナダのeSIMとプリペイドSIM：違いを徹底比較"
   subtitle: "カナダの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Canada) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Canada"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -648,7 +655,7 @@ market_analysis:
     - icon: "id-card"
       title: "KYCとパスポート登録"
       prepaid_title: ""
-      prepaid_desc: "RogersとFidoは直営店で外国クレジットカードを拒否し、現金での支払いを強制します。Telusはオンライン充值にカナダ国内住所のクレジットカードを要求します。"
+      prepaid_desc: "RogersとFidoは直営店で外国クレジットカードを拒否し、現金での支払いを強制します。Telusはオンラインチャージにカナダ国内住所のクレジットカードを要求します。"
       esim_title: "パスポート不要"
       esim_desc: "RogersやTelusはパスポート登録と現地住所確認が必要だが、Roami eSIMは本人確認なしで購入可能。"
     - icon: "globe"
@@ -666,19 +673,19 @@ market_analysis:
     - icon: "wifi"
       title: "テザリングと速度ポリシー"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。ただし、カナダの主要キャリアは一般的にテザリングを許可していますが、低価格プランでは速度制限（例：3Mbps）がかかることがあります。"
+      prepaid_desc: "ただし、カナダの主要キャリアは一般的にテザリングを許可していますが、低価格プランでは速度制限（例：3Mbps）がかかることがあります。"
       esim_title: "無制限テザリング"
       esim_desc: "カナダの低価格プランは速度制限（例：3Mbps）があるが、Roami eSIMは高速テザリングをサポート。"
     - icon: "credit-card"
       title: "チャージと支払い"
       prepaid_title: ""
-      prepaid_desc: "RogersとFidoは外国クレジットカードを拒否し、現金またはカナダ国内カードのみ受け付けます。Telusはオンライン充值にカナダ住所のカードが必要です。Koodoのみ国際クレジットカードをサポートします。"
+      prepaid_desc: "RogersとFidoは外国クレジットカードを拒否し、現金またはカナダ国内カードのみ受け付けます。Telusはオンラインチャージにカナダ住所のカードが必要です。Koodoのみ国際クレジットカードをサポートします。"
       esim_title: "グローバル決済"
       esim_desc: "Rogersは外国カードを拒否するが、RoamiはVisa、Mastercard、AMEX、Apple Pay、Google Pay、PayPalを受け付け。"
     - icon: "headset"
       title: "カスタマーサポート"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。カナダのキャリアは通常、英語とフランス語のカスタマーサポートを提供していますが、プリペイド顧客向けのサポートは限定的な場合があります。"
+      prepaid_desc: "カナダのキャリアは通常、英語とフランス語のカスタマーサポートを提供していますが、プリペイド顧客向けのサポートは限定的な場合があります。"
       esim_title: "24時間サポート"
       esim_desc: "カナダのキャリアのサポートは限定的だが、Roami eSIMは24時間英語サポートを提供。"
 

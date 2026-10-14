@@ -1,6 +1,6 @@
 ---
 title: 'eSIM غوادلوب 2026: دليل المدن والشبكات | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>يتمتع العملاء الجدد بخصم 20%، رمز الخصم: web20'
 seo:
   title: "eSIM غوادلوب: تغطية 5G سريعة، بدون تحقق من الهوية"
-  description: "قارن خطط eSIM غوادلوب مع 5G سريع في بوانت-آ-بيتر وباس-تير. تغطية أورانج وإس إف آر وفري موبايل. تفعيل فوري من 1.99 دولار."
-  keywords: eSIM غوادلوب، شراء eSIM غوادلوب، أفضل eSIM غوادلوب، eSIM السفر إلى غوادلوب، أورانج غوادلوب، إس إف آر غوادلوب، فري موبايل غوادلوب، eSIM بوانت-آ-بيتر، eSIM باس-تير، eSIM لو غوزييه، eSIM غوادلوب مسبقة الدفع، 5G eSIM غوادلوب
-  low_price: 1.99
-  high_price: 39.9
+  description: "قارن خطط eSIM غوادلوب مع 5G سريع في بوانت-آ-بيتر وباس-تير. تغطية أورانج وإس إف آر وفري موبايل. تفعيل فوري من 8.99 دولار."
+  keywords: eSIM غوادلوب، شراء eSIM غوادلوب، أفضل eSIM غوادلوب، eSIM غوادلوب رخيصة، eSIM غوادلوب مسبقة الدفع، باقة eSIM غوادلوب، eSIM غوادلوب غير محدودة، eSIM غوادلوب 5G، أفضل eSIM لـ غوادلوب، سعر eSIM غوادلوب، تفعيل eSIM غوادلوب، تغطية eSIM غوادلوب، أورانج غوادلوب، eSIM بوانت-آ-بيتر، eSIM باس-تير، eSIM لو غوزييه
+  low_price: 8.99
+  high_price: 64.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/gp.svg
   flag_alt: علم غوادلوب
-  title: 'eSIM غوادلوب: بيانات 5G سريعة لكل مدينة ووجهة'
+  title: 'eSIM غوادلوب: إنترنت موثوق لكل رحلة'
   subtitle: 5G سريع | تسليم QR فوري | دعم بشري 24/7 - أفضل eSIM مسبقة الدفع لغوادلوب
 features:
-  title: 'لماذا يختار مسافرو غوادلوب روامي: الخطط، الشبكة والدعم'
+  title: 'مزايا روامي للمسافرين إلى غوادلوب: بساطة وموثوقية'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائياً بأفضل مشغلي غوادلوب للحصول على أفضل إشارة
-plans_title: 'شراء eSIM غوادلوب: خطط تناسب كل مدة سفر'
+plans_title: 'شراء eSIM غوادلوب: باقات لكل ميزانية'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -130,7 +130,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM غوادلوب: دليل مشغل الشبكة المحمولة'
+  title: 'eSIM غوادلوب: تغطية موثوقة في كل أنحاء البلد'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -161,7 +161,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM غوادلوب: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM غوادلوب: ما يجب التحقق منه قبل الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -180,7 +180,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM غوادلوب: 3 خطوات بسيطة'
+  title: 'eSIM غوادلوب: تثبيت سهل قبل رحلتك'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -205,7 +205,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM غوادلوب
+    title: أسئلة شائعة عند شراء eSIM غوادلوب
     questions:
     - q: |
         كيف تقارن روامي بـ Maya لـ eSIM في غوادلوب؟
@@ -234,60 +234,72 @@ faq_section:
     - q: |
         ماذا لو كان فندقي في غوادلوب يوفر WiFi مجانياً — هل ما زلت بحاجة إلى بيانات eSIM؟
       a: |
-        يعمل WiFi في الفندق في غرفتك ولكن ليس عندما تكون بالخارج تستكشف. يمنحك eSIM بيانات في كل مكان — التنقل في الشوارع، والبحث عن الأماكن القريبة، والتحقق من جداول النقل. تكلف خطة 5 جيجابايت 9.99 دولار، وهي غالباً أرخص من WiFi المدفوع في الفندق لمدة أسبوع (10-15 دولار في العديد من الفنادق). يستخدم معظم المسافرين WiFi الفندق للتنزيلات الكبيرة وeSIM للاتصال أثناء التنقل.
+        يعمل WiFi في الفندق في غرفتك ولكن ليس عندما تكون بالخارج تستكشف. يمنحك eSIM بيانات في كل مكان — التنقل في الشوارع، والبحث عن الأماكن القريبة، والتحقق من جداول النقل. تكلف خطة 3 جيجابايت 14.99 دولار، وهي غالباً أرخص من WiFi المدفوع في الفندق لمدة أسبوع (10-15 دولار في العديد من الفنادق). يستخدم معظم المسافرين WiFi الفندق للتنزيلات الكبيرة وeSIM للاتصال أثناء التنقل.
     - q: |
         أنا مسافر إلى غوادلوب لمدة 2-3 أيام فقط. ما eSIM الذي يجب أن أحصل عليه؟
       a: |
-        لرحلة قصيرة، تغطي خطة 1 جيجابايت/7 أيام (1.99 دولار) الخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (4.99 دولار) تعطي مساحة أكبر. كلاهما يتم تفعيله فوراً ويمكنك الشحن إذا لزم الأمر.
+        لرحلة قصيرة، تغطي خطة 1 جيجابايت/7 أيام (8.99 دولار) الخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (14.99 دولار) تعطي مساحة أكبر. كلاهما يتم تفعيله فوراً ويمكنك الشحن إذا لزم الأمر.
+    - q: |
+        هل يمكن شراء eSIM غوادلوب عبر الهاتف أو في متجر؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM غوادلوب عبر الإنترنت. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        كيف تقارن تكلفة eSIM غوادلوب ببطاقة SIM المحلية مسبقة الدفع؟
+      a: |
+        في غوادلوب يتطلب شراء بطاقة SIM المحلية تسجيلًا في المتجر، لذا غالبًا يكون eSIM أوفر. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        كيف أزيد حجم بيانات eSIM غوادلوب؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM غوادلوب ذات الصلة
+  title: خطط ذات صلة برحلتك إلى غوادلوب
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM المكسيك
+    flag: img/flags/mx.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM ماليزيا
+    flag: img/flags/my.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM سنغافورة
+    flag: img/flags/sg.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
+  - name: eSIM سلوفاكيا
+    flag: img/flags/sl.svg
     price: من 1.99 دولار
     is_highlight: false
   - name: eSIM إسبانيا
     flag: img/flags/es.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
+  - name: eSIM تنزانيا
+    flag: img/flags/tz.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM اليابان
+    flag: img/flags/jp.svg
+    price: من 1.99 دولار
+    is_highlight: true
+  - name: eSIM غويانا الفرنسية
+    flag: img/flags/gf.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM النرويج
+    flag: img/flags/no.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM العراق
+    flag: img/flags/iq.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM بروناي
+    flag: img/flags/bn.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM مقدونيا
+    flag: img/flags/ma.svg
+    price: من 4.99 دولار
     is_highlight: false
 ---

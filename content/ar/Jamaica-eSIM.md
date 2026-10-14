@@ -1,6 +1,6 @@
 ---
 title: 'eSIM جامايكا 2026: دليل التغطية والسرعة | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM جامايكا | أفضل خطة بيانات مدفوعة مسبقاً للسياح"
   description: "أفضل eSIM سفر مدفوعة مسبقاً لجامايكا من روامي. بيانات 5G غير محدودة في الجزيرة. تغطي كينغستون ومونتيفيغو باي ونيغريل. وخطط مرنة."
-  keywords: eSIM جامايكا، شراء eSIM جامايكا، أفضل eSIM جامايكا، eSIM السفر إلى جامايكا، ديجيسيل جامايكا، فلو جامايكا، لايم جامايكا، eSIM كينغستون، eSIM مونتيفيغو باي، eSIM أوتشو ريوس، eSIM جامايكا مسبقة الدفع، 5G eSIM جامايكا
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM جامايكا، شراء eSIM جامايكا، أفضل eSIM جامايكا، eSIM جامايكا رخيصة، eSIM جامايكا مسبقة الدفع، باقة eSIM جامايكا، eSIM جامايكا غير محدودة، eSIM جامايكا 5G، أفضل eSIM لـ جامايكا، سعر eSIM جامايكا، تفعيل eSIM جامايكا، تغطية eSIM جامايكا، ديجيسيل جامايكا، eSIM كينغستون، eSIM مونتيفيغو باي، eSIM أوتشو ريوس
+  low_price: 11.99
+  high_price: 67.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/jm.svg
   flag_alt: علم جامايكا
-  title: 'eSIM جامايكا: بيانات 5G سريعة لكل مدينة ووجهة'
+  title: 'eSIM جامايكا: بياناتك جاهزة قبل الإقلاع'
   subtitle: لا رسوم خفية | إنترنت خالٍ من القلق | دعم 24/7 - أفضل eSIM مسبقة الدفع للمسافرين إلى جامايكا
 features:
-  title: 'لماذا يختار مسافرو جامايكا روامي: التغطية، السرعة والخدمة'
+  title: لماذا يفضّل المسافرون إلى جامايكا روامي
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائياً بأفضل مشغلي جامايكا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM جامايكا: خطط تناسب كل مدة سفر'
+plans_title: اختر باقة eSIM جامايكا المناسبة لمدة سفرك
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -197,7 +197,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM جامايكا: دليل المشغل وخريطة التغطية'
+  title: 'تغطية eSIM جامايكا: من المدن الكبرى إلى الريف'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -228,7 +228,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM جامايكا: ما يجب معرفته قبل الذهاب'
+  title: 'تحضيرات eSIM جامايكا: تذكيرات مهمة للمسافر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -247,7 +247,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM جامايكا: 3 خطوات بسيطة'
+  title: كيفية تفعيل eSIM جامايكا على هاتفك
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -272,7 +272,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM جامايكا
+    title: توضيحات حول eSIM جامايكا
     questions:
     - q: |
         هل تقدم ديجيسيل أم فلو سرعات بيانات أفضل في جامايكا؟
@@ -281,7 +281,7 @@ faq_section:
     - q: |
         كم يجب أن أخصص ميزانية لـ eSIM عند زيارة جامايكا؟
       a: |
-        تقدم روامي eSIM جامايكا من 1.99 دولار لخطة خفيفة لمدة 7 أيام حتى 59.99 دولار لـ 30 يوماً من البيانات غير المحدودة. يختار معظم الزوار خطة 5 جيجابايت/15 يوماً بسعر 9.99 دولار — تغطي الملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة دون عناء. يجب على محبي البث المباشر أو مستخدمي وسائل التواصل الثقيلة التفكير في 10 جيجابايت أو غير المحدودة. توفر ديجيسيل سرعات موثوقة في جميع أنحاء جامايكا. خطط روامي مدفوعة مسبقاً — لا فواتير مفاجئة، لا تجديد تلقائي، فقط تسعير مباشر.
+        تقدم روامي eSIM جامايكا من 11.99 دولار لخطة خفيفة لمدة 7 أيام حتى 52.99 دولار لـ 3 يوماً من البيانات غير المحدودة. يختار معظم الزوار خطة 5 جيجابايت/15 يوماً بسعر 32.99 دولار — تغطي الملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة دون عناء. يجب على محبي البث المباشر أو مستخدمي وسائل التواصل الثقيلة التفكير في 10 جيجابايت أو غير المحدودة. توفر ديجيسيل سرعات موثوقة في جميع أنحاء جامايكا. خطط روامي مدفوعة مسبقاً — لا فواتير مفاجئة، لا تجديد تلقائي، فقط تسعير مباشر.
     - q: |
         هل من الآمن تحميل جواز سفري لتسجيل eSIM جامايكا؟ أنا قلق بشأن الخصوصية.
       a: |
@@ -289,7 +289,7 @@ faq_section:
     - q: |
         أنا مسافر إلى جامايكا لمدة 2-3 أيام فقط. ما eSIM الذي يجب أن أحصل عليه؟
       a: |
-        لرحلة قصيرة، تغطي خطة 1 جيجابايت/7 أيام (1.99 دولار) الخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (4.99 دولار) تعطي مساحة أكبر. كلاهما يتم تفعيله فوراً ويمكنك الشحن إذا لزم الأمر.
+        لرحلة قصيرة، تغطي خطة 1 جيجابايت/7 أيام (11.99 دولار) الخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (23.99 دولار) تعطي مساحة أكبر. كلاهما يتم تفعيله فوراً ويمكنك الشحن إذا لزم الأمر.
     - q: |
         متى تبدأ فترة صلاحية eSIM جامايكا الخاصة بي؟
       a: |
@@ -306,63 +306,75 @@ faq_section:
         هل ستعمل eSIM جامايكا الخاصة بي فور هبوطي، أم هناك تأخير في التفعيل؟
       a: |
         إذا قمت بتثبيت eSIM قبل المغادرة، يتم تفعيله في غضون 1-2 دقيقة من الهبوط. فقط قم بإيقاف تشغيل وضع الطيران وتمكين تجوال البيانات. يتصل هاتفك تلقائياً بشبكة ديجيسيل. لا طوابير، لا أوراق — أنت متصل قبل وصولك إلى استلام الأمتعة.
+    - q: |
+        هل يعمل eSIM جامايكا فور شرائه؟
+      a: |
+        يمكن شراء eSIM جامايكا قبل السفر أو بعده. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        هل eSIM جامايكا أرخص من العروض الأخرى؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في جامايكا أسهل. بطاقات SIM المحلية في جامايكا تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        ماذا أفعل إذا أوشكت بيانات eSIM جامايكا على النفاد؟
+      a: |
+        عند نفاد بيانات eSIM جامايكا يمكنك إضافة باقة بيانات جديدة من نفس الحساب. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM جامايكا ذات الصلة
+  title: خطط eSIM لرحلات متعددة انطلاقًا من جامايكا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM باهاماس
+    flag: img/flags/bs.svg
+    price: من 16.99 دولار
+    is_highlight: false
+  - name: eSIM أيسلندا
+    flag: img/flags/is.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM أوكرانيا
+    flag: img/flags/uk.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM الكونغو (كينشاسا)
+    flag: img/flags/cg.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM تشاد
+    flag: img/flags/td.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM الغابون
+    flag: img/flags/ga.svg
+    price: من 14.99 دولار
     is_highlight: false
   - name: eSIM تركيا
     flag: img/flags/tr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
+  - name: eSIM صربيا
+    flag: img/flags/se.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+  - name: eSIM ليختنشتاين
+    flag: img/flags/li.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
+  - name: eSIM غوادلوب
+    flag: img/flags/gp.svg
+    price: من 8.99 دولار
+    is_highlight: true
+  - name: eSIM أندورا
+    flag: img/flags/ad.svg
+    price: من 6.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM إيطاليا
+    flag: img/flags/it.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM جامايكا أم بطاقة SIM: ما هو الخيار الأفضل في 2026؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقاً في جامايكا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (جامايكا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Jamaica
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - SIM محلية مسبقة الدفع (بيانات السوق)

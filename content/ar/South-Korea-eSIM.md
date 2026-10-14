@@ -1,6 +1,6 @@
 ---
 title: 'كوريا الجنوبية eSIM - أسرع 5G في سول وبوسان'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: كوريا الجنوبية eSIM - خطة بيانات 5G مسبقة الدفع للزوار
   description: "أفضل كوريا الجنوبية eSIM مع أسرع 5G على SK Telecom وKT وLG U+. تفعيل فوري عبر رمز QR. مثالية لسول وبوسان وجيجو. اشترِ خطتك الآن."
-  keywords: كوريا الجنوبية eSIM, شراء كوريا الجنوبية eSIM, أفضل كوريا الجنوبية eSIM, كوريا الجنوبية eSIM للسفر, SK Telecom كوريا الجنوبية, KT كوريا الجنوبية, LG U+ كوريا الجنوبية, سول eSIM, بوسان eSIM, إنتشون eSIM, كوريا الجنوبية eSIM مسبقة الدفع, 5G كوريا الجنوبية eSIM, أسرع 5G كوريا الجنوبية, eSIM لحفل K-pop
+  keywords: eSIM كوريا الجنوبية، شراء eSIM كوريا الجنوبية، أفضل eSIM كوريا الجنوبية، eSIM كوريا الجنوبية رخيصة، eSIM كوريا الجنوبية مسبقة الدفع، باقة eSIM كوريا الجنوبية، eSIM كوريا الجنوبية غير محدودة، eSIM كوريا الجنوبية 5G، أفضل eSIM لـ كوريا الجنوبية، سعر eSIM كوريا الجنوبية، تفعيل eSIM كوريا الجنوبية، تغطية eSIM كوريا الجنوبية، SK Telecom كوريا الجنوبية، eSIM سول، eSIM بوسان، eSIM إنتشون
   low_price: 1.99
-  high_price: 39.9
+  high_price: 61.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/kr.svg
   flag_alt: علم كوريا الجنوبية
-  title: 'كوريا الجنوبية eSIM: أسرع 5G في سول وبوسان وما وراءها'
+  title: 'eSIM كوريا الجنوبية: بيانات موثوقة طوال رحلتك'
   subtitle: 5G على SK Telecom وKT وLG U+ | تسليم فوري لرمز QR | بدون طوابير المطار | دعم 24/7
 features:
-  title: 'لماذا يختار المسافرون إلى كوريا الجنوبية Roami: السرعة والتغطية والخدمة'
+  title: ما يميز Roami للمسافرين إلى كوريا الجنوبية
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-rose-400 to-rose-600
     title: أسرع 5G في العالم
     desc: تمتلك كوريا الجنوبية أسرع 5G في العالم — تصل إلى 1.5 جيجابت في الثانية في سول
-plans_title: 'شراء كوريا الجنوبية eSIM: خطط لكل مدة رحلة'
+plans_title: 'خطط eSIM كوريا الجنوبية: من رحلة قصيرة إلى إقامة طويلة'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -279,7 +279,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية كوريا الجنوبية eSIM: دليل شبكات 5G من SK Telecom وKT وLG U+'
+  title: 'تغطية eSIM كوريا الجنوبية: أين تحصل على أفضل إشارة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -310,7 +310,7 @@ network_coverage:
       coverage: تغطية 5G حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد كوريا الجنوبية eSIM: ما يجب معرفته قبل الذهاب'
+  title: 'نصائح eSIM كوريا الجنوبية: جهّز اتصالك قبل الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -331,7 +331,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت كوريا الجنوبية eSIM: 3 خطوات بسيطة'
+  title: 'تركيب eSIM كوريا الجنوبية: من الشراء إلى الاتصال'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -356,7 +356,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول كوريا الجنوبية eSIM
+    title: استفسارات شائعة عن eSIM كوريا الجنوبية
     questions:
     - q: |
         ما مدى سرعة 5G في كوريا الجنوبية؟ هل يمكنني الحصول على أرقام حقيقية؟
@@ -390,63 +390,75 @@ faq_section:
         متى تبدأ فترة صلاحية eSIM كوريا الجنوبية الخاصة بي؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في كوريا الجنوبية، وليس عند الشراء أو التثبيت. لذا يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة. تمنحك خطة الـ 7 أيام 7 أيام كاملة من أول اتصال.
+    - q: |
+        هل يجب أن أشتري eSIM كوريا الجنوبية قبل المغادرة؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        هل تُفرض رسوم إضافية على أسعار eSIM كوريا الجنوبية؟
+      a: |
+        بما أنك تختار الحجم المناسب، يكون eSIM أقل هدرًا للمال في كوريا الجنوبية. بطاقات SIM المحلية في كوريا الجنوبية تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        هل تكفي بيانات eSIM لإقامة طويلة في كوريا الجنوبية؟
+      a: |
+        eSIM كوريا الجنوبية بنظام مسبق الدفع، ويمكن شراء باقة إضافية من التطبيق عند نقص البيانات. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط كوريا الجنوبية eSIM ذات الصلة
+  title: وجهات مرتبطة بـ كوريا الجنوبية وخططها
   items:
-  - name: الولايات المتحدة eSIM
-    flag: img/flags/us.svg
+  - name: eSIM ملاوي
+    flag: img/flags/mw.svg
+    price: من 14.99 دولار
+    is_highlight: false
+  - name: eSIM دومينيكا
+    flag: img/flags/dm.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM بنغلاديش
+    flag: img/flags/bd.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM السلفادور
+    flag: img/flags/sv.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM رومانيا
+    flag: img/flags/ro.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أوروبا eSIM
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM جبل طارق
+    flag: img/flags/gi.svg
+    price: من 5.99 دولار
     is_highlight: true
-  - name: كندا eSIM
-    flag: img/flags/ca.svg
+  - name: eSIM جمهورية التشيك
+    flag: img/flags/cz.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: تركيا eSIM
-    flag: img/flags/tr.svg
+  - name: eSIM إندونيسيا
+    flag: img/flags/id.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: الصين eSIM
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM تشيلي
+    flag: img/flags/cl.svg
+    price: من 4.99 دولار
     is_highlight: false
-  - name: اليابان eSIM
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
+  - name: eSIM غواتيمالا
+    flag: img/flags/gt.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: هونغ كونغ eSIM
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
+  - name: eSIM الأرجنتين
+    flag: img/flags/ar.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: فرنسا eSIM
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: إسبانيا eSIM
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: ألمانيا eSIM
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أستراليا eSIM
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM البرازيل
+    flag: img/flags/br.svg
+    price: من 4.99 دولار
     is_highlight: false
 market_analysis:
   title: 'كوريا الجنوبية eSIM مقابل بطاقة SIM المحلية المدفوعة مسبقًا: أيهما أفضل للمسافرين؟'
   subtitle: 'بطاقات SIM المحلية المدفوعة مسبقًا في كوريا الجنوبية مقابل حلول eSIM (معيار 2024/2025)'
   citation:
-    text: 'مصدر البيانات: ويكي بطاقة بيانات SIM المدفوعة مسبقًا (كوريا الجنوبية) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/South_Korea
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)
@@ -475,7 +487,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: الخطط المدفوعة مسبقًا دورات ثابتة مدتها 30 يومًا. سائح يقضي 5 أيام يشتري خطة 30 يومًا بقيمة 30,000 وون كوري يهدر ~80٪ من القيمة.
     esim_title: خطط مرنة قصيرة المدى
-    esim_desc: تقدم Roami خططًا لمدة 3/7/15/30 يومًا. رحلة مدتها 5 أيام تكلف 1.99 دولار فقط — لا حد أدنى 30 يومًا، لا بيانات مهدرة.
+    esim_desc: تقدم Roami خططًا لمدة 3/7/15/30 يومًا. رحلة مدتها 5 أيام تكلف 37.99 دولار فقط — لا حد أدنى 30 يومًا، لا بيانات مهدرة.
   - icon: wifi
     title: سياسات نقطة الاتصال<br>والسرعة
     prepaid_title: ''

@@ -1,6 +1,6 @@
 ---
 title: 'eSIM طاجيكستان 2026: دليل سفر شامل | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20٪، كود الخصم: web20'
 seo:
   title: 'eSIM طاجيكستان: دليل تغطية 5G من Tcell و MegaFon'
-  description: "قارن خطط eSIM طاجيكستان مع 5G سريع في دوشنبه وخجند وبختار. تغطية Tcell و MegaFon و Beeline. تفعيل فوري من 1.99 دولار. وخطط مرنة."
-  keywords: eSIM طاجيكستان، شراء eSIM طاجيكستان، أفضل eSIM طاجيكستان، eSIM السفر إلى طاجيكستان، Tcell طاجيكستان، MegaFon طاجيكستان، Beeline طاجيكستان، eSIM دوشنبه، eSIM خجند، eSIM بختار، eSIM مسبق الدفع طاجيكستان، 5G eSIM طاجيكستان
-  low_price: 1.99
-  high_price: 39.9
+  description: "قارن خطط eSIM طاجيكستان مع 5G سريع في دوشنبه وخجند وبختار. تغطية Tcell و MegaFon و Beeline. تفعيل فوري من 4.99 دولار. وخطط مرنة."
+  keywords: eSIM طاجيكستان، شراء eSIM طاجيكستان، أفضل eSIM طاجيكستان، eSIM طاجيكستان رخيصة، eSIM طاجيكستان مسبقة الدفع، باقة eSIM طاجيكستان، eSIM طاجيكستان غير محدودة، eSIM طاجيكستان 5G، أفضل eSIM لـ طاجيكستان، سعر eSIM طاجيكستان، تفعيل eSIM طاجيكستان، تغطية eSIM طاجيكستان، Tcell طاجيكستان، eSIM دوشنبه، eSIM خجند، eSIM بختار
+  low_price: 4.99
+  high_price: 94.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المشمولة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/tj.svg
   flag_alt: علم طاجيكستان
-  title: 'eSIM طاجيكستان: حلول بيانات كاملة لرحلتك'
+  title: 'eSIM طاجيكستان: بيانات عالية السرعة بأسعار مناسبة'
   subtitle: أفضل eSIM مسبق الدفع للمسافرين إلى طاجيكستان - 5G سريع، تفعيل فوري، دعم 24/7
 features:
-  title: 'لماذا يختار المسافرون إلى طاجيكستان Roami: السرعة والتغطية والدعم'
+  title: 'لماذا يختار مسافرو طاجيكستان روامي: تفعيل فوري وأسعار واضحة'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل شركات الاتصال في طاجيكستان للحصول على أفضل إشارة
-plans_title: 'شراء eSIM طاجيكستان: خطط تناسب كل مدة رحلة'
+plans_title: 'خطط eSIM طاجيكستان: تغطية كاملة بسعر مناسب'
 plans_data:
   7 أيام:
   - spec: 3 جيجابايت
@@ -188,7 +188,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM طاجيكستان: دليل شامل للشبكات المحلية'
+  title: 'دليل تغطية eSIM طاجيكستان: الشبكات والمشغلون'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -219,7 +219,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM طاجيكستان: ما يجب معرفته قبل السفر'
+  title: 'إعداد eSIM طاجيكستان: ما تحتاج تجهيزه مسبقًا'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -238,7 +238,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM طاجيكستان: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM طاجيكستان: خطوات واضحة وسريعة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -263,7 +263,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM طاجيكستان
+    title: إجابات لأهم أسئلة eSIM طاجيكستان
     questions:
     - q: |
         السياح الذين يزورون طاجيكستان — أي شبكة تقدم أفضل تجربة؟
@@ -297,55 +297,67 @@ faq_section:
         ماذا لو حذفت eSIM طاجيكستان عن طريق الخطأ قبل رحلتي؟
       a: |
         لا مشكلة. سجل الدخول إلى حساب Roami الخاص بك لإعادة تنزيل رمز QR — يستغرق حوالي دقيقة. نوصي بحفظه كملف لقطة شاشة أو PDF عند استلامه لأول مرة، تحسبًا.
+    - q: |
+        كم يستغرق شراء eSIM طاجيكستان؟
+      a: |
+        يمكن شراء eSIM طاجيكستان قبل السفر أو بعده. بعد الوصول إلى طاجيكستان، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        أيّهما أرخص في طاجيكستان، eSIM أم بطاقة SIM المحلية؟
+      a: |
+        في طاجيكستان يتطلب شراء بطاقة SIM المحلية تسجيلًا في المتجر، لذا غالبًا يكون eSIM أوفر. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        هل يعمل eSIM طاجيكستان بدون تعبئة؟
+      a: |
+        eSIM طاجيكستان بنظام مسبق الدفع، ويمكن شراء باقة إضافية من التطبيق عند نقص البيانات. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM ذات الصلة
+  title: وجهات إضافية بخطط eSIM مناسبة لـ طاجيكستان
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM جبل طارق
+    flag: img/flags/gi.svg
+    price: من 5.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM جمهورية التشيك
+    flag: img/flags/cz.svg
+    price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: true
+  - name: eSIM إندونيسيا
+    flag: img/flags/id.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM تشيلي
+    flag: img/flags/cl.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM غواتيمالا
+    flag: img/flags/gt.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM الأرجنتين
+    flag: img/flags/ar.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM البرازيل
+    flag: img/flags/br.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM المجر
+    flag: img/flags/hu.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بيلاروسيا
+    flag: img/flags/by.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بنما
+    flag: img/flags/pa.svg
+    price: من 11.99 دولار
+    is_highlight: false
   - name: eSIM كندا
     flag: img/flags/ca.svg
-    price: ابتداءً من 1.99 دولار
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
+  - name: eSIM سيراليون
+    flag: img/flags/si.svg
+    price: من 10.99 دولار
+    is_highlight: true
 ---

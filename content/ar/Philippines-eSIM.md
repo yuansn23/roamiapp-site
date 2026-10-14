@@ -1,6 +1,6 @@
 ---
 title: 'eSIM الفلبين 2026 - أفضل خطة 5G لمانيلا وسيبو | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM الفلبين - خطة بيانات 5G مدفوعة مسبقًا للسفر
   description: "أفضل eSIM الفلبين مدفوعة مسبقًا مع 5G على Globe و Smart و DITO. تفعيل فوري عبر QR بدون هوية. تجاوز تسجيل RA 11934. خطط مرنة الآن."
-  keywords: eSIM الفلبين, شراء eSIM الفلبين, أفضل eSIM الفلبين, eSIM سفر الفلبين, Globe الفلبين, Smart الفلبين, DITO الفلبين, eSIM مانيلا, eSIM سيبو, eSIM دافاو, eSIM الفلبين مسبقة الدفع, 5G eSIM الفلبين, eSIM بوراكاي, eSIM بالاوان
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM الفلبين، شراء eSIM الفلبين، أفضل eSIM الفلبين، eSIM الفلبين رخيصة، eSIM الفلبين مسبقة الدفع، باقة eSIM الفلبين، eSIM الفلبين غير محدودة، eSIM الفلبين 5G، أفضل eSIM لـ الفلبين، سعر eSIM الفلبين، تفعيل eSIM الفلبين، تغطية eSIM الفلبين، Globe الفلبين، eSIM مانيلا، eSIM سيبو، eSIM دافاو
+  low_price: 2.99
+  high_price: 70.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/ph.svg
   flag_alt: علم الفلبين
-  title: 'eSIM الفلبين: 5G في مانيلا وسيبو وما بعدها — بدون حاجة لهوية'
+  title: 'eSIM الفلبين: بياناتك جاهزة قبل الإقلاع'
   subtitle: لا حاجة لـ KYC/هوية | 5G على Globe و Smart و DITO | بدون هدر 30 يومًا | تسليم QR فوري
 features:
-  title: 'لماذا يختار المسافرون إلى الفلبين Roami: التغطية والسرعة والخدمة'
+  title: لماذا يفضّل المسافرون إلى الفلبين روامي
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بـ Globe و Smart و DITO للحصول على أفضل إشارة عبر أكثر من 7,000 جزيرة
-plans_title: 'شراء eSIM الفلبين: خطط تناسب كل مدة رحلة'
+plans_title: اختر باقة eSIM الفلبين المناسبة لمدة سفرك
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -277,7 +277,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM الفلبين: دليل شبكات Globe و Smart و DITO'
+  title: 'تغطية eSIM الفلبين: من المدن الكبرى إلى الريف'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -308,7 +308,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM الفلبين: ما يجب معرفته قبل الذهاب'
+  title: 'تحضيرات eSIM الفلبين: تذكيرات مهمة للمسافر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -329,7 +329,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM الفلبين: 3 خطوات بسيطة'
+  title: كيفية تفعيل eSIM الفلبين على هاتفك
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -354,7 +354,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM الفلبين
+    title: توضيحات حول eSIM الفلبين
     questions:
     - q: |
         ما هو قانون تسجيل SIM الفلبيني (RA 11934) — وهل أحتاج إلى القيام به لـ Roami؟
@@ -392,63 +392,75 @@ faq_section:
         متى تبدأ فترة صلاحية eSIM الفلبين الخاصة بي؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في الفلبين، وليس عند الشراء أو التثبيت. لذا يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة. تمنحك خطة 7 أيام 7 أيام كاملة من أول اتصال.
+    - q: |
+        هل يعمل eSIM الفلبين فور شرائه؟
+      a: |
+        يمكن شراء eSIM الفلبين قبل السفر أو بعده. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        هل eSIM الفلبين أرخص من العروض الأخرى؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في الفلبين أسهل. بطاقات SIM المحلية في الفلبين تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        ماذا أفعل إذا أوشكت بيانات eSIM الفلبين على النفاد؟
+      a: |
+        عند نفاد بيانات eSIM الفلبين يمكنك إضافة باقة بيانات جديدة من نفس الحساب. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM الفلبين ذات الصلة
+  title: خطط eSIM لرحلات متعددة انطلاقًا من الفلبين
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: المملكة المتحدة
+  - name: eSIM المملكة المتحدة
     flag: img/flags/gb.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM موريشيوس
+    flag: img/flags/ma.svg
+    price: من 7.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM مولدوفا
+    flag: img/flags/mo.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
+  - name: eSIM فيجي
+    flag: img/flags/fj.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM تايوان
+    flag: img/flags/tw.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
+  - name: eSIM غرينادا
+    flag: img/flags/gd.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
+  - name: eSIM غانا
+    flag: img/flags/gh.svg
+    price: من 7.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
+  - name: eSIM إيسواتيني
+    flag: img/flags/sz.svg
+    price: من 19.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
+  - name: eSIM قبرص
+    flag: img/flags/cy.svg
+    price: من 2.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
+  - name: eSIM لاوس
+    flag: img/flags/la.svg
+    price: من 4.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM قطر
+    flag: img/flags/qa.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'مقارنة eSIM الفلبين مقابل بطاقة SIM المدفوعة مسبقًا: هل يستحق التبديل؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في الفلبين مقابل حلول eSIM (معايير 2024/2025)
   citation:
-    text: 'مصدر البيانات: Wiki بطاقة بيانات SIM المدفوعة مسبقًا (الفلبين) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Philippines
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

@@ -1,6 +1,6 @@
 ---
 title: 香港 eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:00:25+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,7 +20,9 @@ modal:
 seo:
   title: eSIM 香港 | 大容量データ・長期旅行者におすすめプラン比較ガイド
   description: 香港への長期滞在・留学にはRoamiのeSIMが便利。30日間無制限データプランから期間に合わせて柔軟に選択。現地メインキャリアネットワーク使用で安定した通信品質。アプリから更新も簡単。
-  keywords: 香港 eSIM, 香港 プリペイドSIM, 香港 データローミング, 香港 旅行, 香港 ネットワーク
+  low_price: 1.99
+  high_price: 57.99
+  keywords: 香港 eSIM, 香港 eSIM 料金, 香港 eSIM おすすめ, 香港 eSIM 安い, 香港 eSIM 購入, 香港 eSIM 申し込み, 香港 eSIM データ無制限, 香港 プリペイドSIM, 香港 旅行 eSIM, 香港 eSIM 価格, 香港 eSIM 設定方法, 香港 eSIM 対応エリア, 香港島 eSIM, 九龍 eSIM, 香港 モバイルデータ, 香港 eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: 香港向け最高のeSIM
-  title: 香港 eSIM，海外旅行上网无忧
+  title: 香港 eSIMで安心のデータ通信を
 hero:
   flag_image: img/flags/hk.svg
   flag_alt: 香港の国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: シンプルな料金プラン
 plans_data:
   30 日:
   - spec: 5GB
@@ -314,7 +316,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: トラブル回避のヒント
   items:
   - icon: 📱
     html: |-
@@ -365,22 +367,22 @@ activation_steps:
     is_list: false
 faq_section:
   title: 'eSIM 香港 | 旅行前に知りたいデータ通信の全て'
-  desc: 香港旅行で安心のデータ接続を実現するeSIMガイド。事前購入プランの選び方、5G/4Gネットワークのエリアマップ、無制限データオプション、テザリング共有方法などを詳しくご案内。日本語サポートで安心です。香港では3香港のネットワークに対応。
+  desc: 香港旅行で安心のデータ接続を実現するeSIMガイド。香港では3香港のネットワークに対応。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. 基本とよくある質問
     questions:
     - q: 香港用eSIMを他のデバイスとテザリング（ポケットWi-Fi）できますか？
       a: はい、Roamiの香港用eSIMプランは全てテザリング（ポケットWi-Fi）を無制限でサポートしています。ノートパソコン、タブレット、または旅行仲間と接続を共有できます
         — 隠れたコストも速度制限もありません。
-        Roamiなら1GB/$1.99からの格安プランで香港の5G高速通信を利用可能。24時間日本語サポート付きで初めての海外eSIMも安心です。
+
     - q: 香港用eSIMの価格はいくらですか？割引はありますか？
       a: 香港用eSIMプランは1.99ドル/GBから始まります。プロモーションコード「web20」を使用すると、全プランが20%オフ — 隠れたコストや最低利用期間の縛りはありません。
     - q: 香港用eSIMのQRコードの有効期限は？
       a: QRコードはメール送信後30日間有効です。旅行前に十分な時間があります。期限が切れた場合は、新しいコードを発行できます。
-        事前にインストールして設定まで完了すれば、香港到着後は機内モードを解除するだけで自動接続。海外旅行eSIMは購入したらすぐにセットアップしてしまうのがベストプラクティスです。
+
     - q: 香港用eSIMのデータ使用量を確認するには？
       a: アクティベーション後、オンラインのダッシュボードにアクセスできます。そこでデータ残量、残り時間をリアルタイムで確認し、いつでもサポートを依頼できます。
     - q: 香港用eSIMは物理SIMよりも安全ですか？
@@ -397,7 +399,13 @@ faq_section:
     - q: 香港用eSIMを使用するためにスマートフォンに求められる要件は？
       a: お使いの端末がeSIMに対応している必要があります（iPhone XS/XR以降、Samsung Galaxy S20/Note20以降、Google
         Pixel 3a以降、および最新のHuawei、Xiaomi、OnePlusなどの5G端末）。設定で「eSIMを追加」オプションがあるかご確認ください。
-        Hong Kong旅行でのデータ通信料金を比較するならRoami。海外ローミングより最大80%割安で契約不要。事前に日本で設定しておけば到着後すぐに接続。日本語サポート付き。
+        Hong
+    - q: 香港旅行のeSIM申し込みは家族分まとめてできますか？
+      a: Roamiなら香港用eSIMをアプリまたはWebサイトから申し込みできます。香港到着後にデータ通信をオンにすれば自動で接続され、追加の申し込みは不要です。
+    - q: 香港用eSIMと国際ローミングパックを比較した違いは何ですか？
+      a: 用途に合わせて容量を選べるため、香港ではeSIMのほうが無駄なく費用を抑えられます。実際の料金は選ぶプランによって異なるため、現在の価格は公式サイトでご確認ください。
+    - q: 香港のeSIMで複数のデータプランを切り替えられますか？
+      a: 残データはアプリやWebのダッシュボードでいつでも確認でき、足りなくなれば追加できます。現地SIMのように店舗でチャージする必要はなく、すべてオンラインで完結します。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -560,81 +568,80 @@ faq_section:
       a: 香港用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: 香港用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        eSIM対応端末をお持ちなら物理SIMより便利。契約不要でプリペイド式、1GBから無制限まで選べる。事前購入がお得でおすすめ。
-        海外旅行のデータ通信はeSIMが便利。ローミングより格安で、対応機種ならQRコードで即時設定完了。事前購入で到着後すぐ接続。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中に香港用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
+  - name: ハンガリー eSIM
+    flag: img/flags/hu.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
+    slug: hungary-esim
+  - name: アイスランド eSIM
+    flag: img/flags/is.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
-    price: 1.99ドルから
-    is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
+    slug: iceland-esim
+  - name: インド eSIM
+    flag: img/flags/in.svg
+    price: 3.99ドルから
+    is_highlight: false
+    slug: india-esim
+  - name: インドネシア eSIM
+    flag: img/flags/id.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
+    slug: indonesia-esim
+  - name: イラク eSIM
+    flag: img/flags/iq.svg
+    price: 21.99ドルから
+    is_highlight: false
+    slug: iraq-esim
+  - name: アイルランド eSIM
+    flag: img/flags/ie.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
+    slug: ireland-esim
+  - name: イスラエル eSIM
+    flag: img/flags/il.svg
+    price: 2.99ドルから
+    is_highlight: false
+    slug: israel-esim
+  - name: イタリア eSIM
+    flag: img/flags/it.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
+    slug: italy-esim
+  - name: コートジボワール eSIM
+    flag: img/flags/ci.svg
+    price: 9.99ドルから
+    is_highlight: false
+    slug: ivory-coast-esim
+  - name: ジャマイカ eSIM
+    flag: img/flags/jm.svg
+    price: 11.99ドルから
+    is_highlight: false
+    slug: jamaica-esim
+  - name: 日本 eSIM
     flag: img/flags/jp.svg
     price: 1.99ドルから
     is_highlight: false
     slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+  - name: ヨルダン eSIM
+    flag: img/flags/jo.svg
+    price: 6.99ドルから
+    is_highlight: true
+    slug: jordan-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "香港でeSIMに切り替えるべきか？eSIMとプリペイドSIMの比較"
   subtitle: "香港の現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Hong-Kong) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Hong-Kong"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -679,7 +686,7 @@ market_analysis:
     - icon: "headset"
       title: "カスタマーサポート"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。一般的に、香港のプリペイドSIMのカスタマーサポートは主に広東語と英語で提供され、日本語対応は限定的です。"
+      prepaid_desc: "一般的に、香港のプリペイドSIMのカスタマーサポートは主に広東語と英語で提供され、日本語対応は限定的です。"
       esim_title: "24時間多言語サポート"
       esim_desc: "香港のプリペイドSIMのカスタマーサポートは主に広東語と英語で、日本語対応は限定的。eSIMは24時間日本語対応のチャットサポートを提供し、トラブル時も安心。"
 

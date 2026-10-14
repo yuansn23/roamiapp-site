@@ -1,6 +1,6 @@
 ---
 title: 'أذربيجان eSIM 2026: دليل الاتصال والسرعة | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM أذربيجان | خطة بيانات مسبقة الدفع 5G لإقامتك
   description: "أفضل eSIM سياحي مسبق الدفع من Roami لأذربيجان. بيانات غير محدودة 5G في كل البلاد. تغطي باكو وجانجا وشكي. تفعيل فوري. وخطط مرنة."
-  keywords: eSIM أذربيجان، شراء eSIM أذربيجان، أفضل eSIM أذربيجان، eSIM سفر أذربيجان، Azercell أذربيجان، Bakcell أذربيجان، Nar أذربيجان، eSIM باكو، eSIM جانجا، eSIM سومقاييت، eSIM مسبق الدفع أذربيجان، eSIM 5G أذربيجان
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM أذربيجان، شراء eSIM أذربيجان، أفضل eSIM أذربيجان، eSIM أذربيجان رخيصة، eSIM أذربيجان مسبقة الدفع، باقة eSIM أذربيجان، eSIM أذربيجان غير محدودة، eSIM أذربيجان 5G، أفضل eSIM لـ أذربيجان، سعر eSIM أذربيجان، تفعيل eSIM أذربيجان، تغطية eSIM أذربيجان، Azercell أذربيجان، eSIM باكو، eSIM جانجا، eSIM سومقاييت
+  low_price: 6.99
+  high_price: 94.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/az.svg
   flag_alt: علم أذربيجان
-  title: 'eSIM أذربيجان: اتصال فوري لسفر خالٍ من القلق'
+  title: 'eSIM أذربيجان: شبكة سريعة لكل رحلاتك'
   subtitle: تفعيل فوري | تغطية 5G الأعلى تقييمًا | دعم 24/7 - أفضل eSIM مسبق الدفع لأذربيجان
 features:
-  title: 'لماذا يختار مسافرو أذربيجان Roami: الشبكة، الخطط والقيمة'
+  title: ما تحصل عليه مع eSIM أذربيجان من Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي أذربيجان للحصول على أفضل إشارة
-plans_title: 'شراء eSIM أذربيجان: خطط لكل مدة رحلة'
+plans_title: خطط بيانات eSIM أذربيجان لكل نوع رحلة
 plans_data:
   7 أيام:
   - spec: 3GB
@@ -237,7 +237,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'المدة: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM أذربيجان: مقارنة التغطية والمشغلين'
+  title: 'eSIM أذربيجان: خريطة التغطية والمشغلون الرئيسيون'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -268,7 +268,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM أذربيجان: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM أذربيجان: ما ينبغي تجهيزه قبل الإقلاع'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -287,7 +287,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على الشاشة، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM أذربيجان: 3 خطوات بسيطة'
+  title: 'eSIM أذربيجان: ثلاث خطوات للاتصال بالشبكة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -312,12 +312,12 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM أذربيجان
+    title: أسئلة متكررة حول eSIM أذربيجان
     questions:
     - q: |
         ما هي أرخص خيارات eSIM لرحلة إلى أذربيجان؟
       a: |
-        تبدأ خطط Roami eSIM لأذربيجان من 1.99 دولار (7 أيام، 1 جيجابايت) وتصل إلى 59.99 دولار (30 يومًا غير محدود). بالنسبة لرحلة نموذجية مدتها 5-7 أيام، فإن خطة 5 جيجابايت بسعر 9.99 دولار هي الخيار الأمثل — كافية للخرائط والمراسلة وتصفح وسائل التواصل الاجتماعي. هل تحتاج إلى بث الفيديو أو العمل عن بُعد؟ اختر 10 جيجابايت أو غير محدود. تستخدم أذربيجان شبكة 4G التي تتعامل مع الخرائط والمراسلة بشكل جيد. تتقاضى أكشاك SIM في المطار أسعارًا أعلى بنسبة 30-50٪، وعليك الانتظار في الطابور. لست متأكدًا من احتياجاتك للبيانات؟ ابدأ بحزمة صغيرة وقم بالشحن عبر التطبيق دون تغيير eSIM الخاص بك.
+        تبدأ خطط Roami eSIM لأذربيجان من 6.99 دولار (7 أيام، 1 جيجابايت) وتصل إلى 59.99 دولار (30 يومًا غير محدود). بالنسبة لرحلة نموذجية مدتها 5-7 أيام، فإن خطة 5 جيجابايت بسعر 9.99 دولار هي الخيار الأمثل — كافية للخرائط والمراسلة وتصفح وسائل التواصل الاجتماعي. هل تحتاج إلى بث الفيديو أو العمل عن بُعد؟ اختر 10 جيجابايت أو غير محدود. تستخدم أذربيجان شبكة 4G التي تتعامل مع الخرائط والمراسلة بشكل جيد. تتقاضى أكشاك SIM في المطار أسعارًا أعلى بنسبة 30-50٪، وعليك الانتظار في الطابور. لست متأكدًا من احتياجاتك للبيانات؟ ابدأ بحزمة صغيرة وقم بالشحن عبر التطبيق دون تغيير eSIM الخاص بك.
     - q: |
         هل أحتاج إلى جواز سفر أو هوية لاستخدام eSIM في أذربيجان؟ كيف يعمل التحقق؟
       a: |
@@ -329,7 +329,7 @@ faq_section:
     - q: |
         ماذا يشمل شراء eSIM أذربيجان من Roami؟
       a: |
-        تسليم رمز QR في غضون 5 دقائق، الوصول إلى شبكة Azercell، دعم العملاء 24/7، ونقطة اتصال مجانية لما يصل إلى 5 أجهزة. تبدأ الخطط من 1.99 دولار. لا عقود، لا رسوم خفية، لا تجديد تلقائي.
+        تسليم رمز QR في غضون 5 دقائق، الوصول إلى شبكة Azercell، دعم العملاء 24/7، ونقطة اتصال مجانية لما يصل إلى 5 أجهزة. تبدأ الخطط من 6.99 دولار. لا عقود، لا رسوم خفية، لا تجديد تلقائي.
     - q: |
         ماذا يحدث إذا استنفدت كل بياناتي في أذربيجان قبل انتهاء خطتي؟
       a: |
@@ -346,63 +346,75 @@ faq_section:
         كيف يقارن eSIM بـ Wi-Fi المحمول (Pocket WiFi) للسفر في أذربيجان؟
       a: |
         يتفوق eSIM من حيث الراحة. لا حاجة لحمل جهاز إضافي أو شحنه أو إعادته في نهاية الرحلة — يوفر حوالي 3-5 دولارات يوميًا مقارنة باستئجار Wi-Fi المحمول. يعمل Wi-Fi المحمول للمجموعات التي تضم 3+ أشخاص، لكنك مقيد بجهاز واحد وتحتاج إلى شحنه لمدة 6-8 ساعات. مع eSIM، هاتفك هو نقطة الاتصال. تشمل جميع خطط Roami مشاركة نقطة الاتصال مجانًا لما يصل إلى 5 أجهزة.
+    - q: |
+        كيف أدفع عند شراء eSIM أذربيجان؟
+      a: |
+        يمكن شراء eSIM أذربيجان قبل السفر أو بعده. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة Azercell لتبدأ الاستخدام فورًا.
+    - q: |
+        هل يُحاسب eSIM أذربيجان على الاستخدام الفعلي فقط؟
+      a: |
+        بما أنك تختار الحجم المناسب، يكون eSIM أقل هدرًا للمال في أذربيجان. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل ينقطع الاتصال إذا نفدت بيانات eSIM أذربيجان؟
+      a: |
+        eSIM أذربيجان بنظام مسبق الدفع، ويمكن شراء باقة إضافية من التطبيق عند نقص البيانات. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM ذات الصلة لأذربيجان
+  title: وجهات قريبة من أذربيجان مع خطط eSIM
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM مصر
+    flag: img/flags/eg.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM أيرلندا
+    flag: img/flags/ie.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM منغوليا
+    flag: img/flags/mo.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM الهند
+    flag: img/flags/in.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM قبرص
+    flag: img/flags/cy.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM أوغندا
+    flag: img/flags/ug.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM بوتسوانا
+    flag: img/flags/bw.svg
+    price: من 14.99 دولار
+    is_highlight: false
+  - name: eSIM تونس
+    flag: img/flags/tn.svg
+    price: من 3.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM عمان
+    flag: img/flags/om.svg
+    price: من 5.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+  - name: eSIM السويد
+    flag: img/flags/se.svg
     price: من 1.99 دولار
     is_highlight: false
   - name: eSIM هونغ كونغ
     flag: img/flags/hk.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
-    is_highlight: false
 market_analysis:
   title: 'eSIM أذربيجان مقابل بطاقة SIM الفعلية: ما الفرق الحقيقي؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في أذربيجان مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM المدفوعة مسبقًا (أذربيجان) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Azerbaijan
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

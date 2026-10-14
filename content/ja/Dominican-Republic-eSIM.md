@@ -1,6 +1,6 @@
 ---
 title: ドミニカ共和国 eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:01:57+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Claro, Altice, Viva
   competitors: Airalo, Holafly, Nomad, Ubigi, eSIM.net
   main_cities: サントドミンゴ、プンタカナ、サンティアゴ・デ・ロス・カバジェロス、ラ・ロマーナ、プエルト・プラタ
-  main_packages: 3/7/15/30日、データ無制限
+  main_packages: 3/7/15/30日、1〜15GB
 modal:
   title: サービスアップデートのお知らせ！
   btn_text: 続行
@@ -19,8 +19,10 @@ modal:
     当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました！<br>新規のお客様はコード <strong>web20</strong> で20%オフ！
 seo:
   title: eSIM ドミニカ共和国 | 旅行データ通信の格安プラン比較とおすすめ人気ガイド
-  description: ドミニカ共和国への長期滞在・留学にはRoamiのeSIMが便利。30日間無制限データプランから期間に合わせて柔軟に選択。現地メインキャリアネットワーク使用で安定した通信品質。アプリから更新も簡単。
-  keywords: ドミニカ共和国 eSIM、ドミニカ共和国 旅行、ドミニカ共和国 ネットワーク、ドミニカ共和国 SIMカード、ドミニカ共和国 観光
+  description: ドミニカ共和国への長期滞在・留学にはRoamiのeSIMが便利。30日間のデータプランから期間に合わせて柔軟に選択。現地メインキャリアネットワーク使用で安定した通信品質。アプリから更新も簡単。
+  low_price: 5.99
+  high_price: 54.99
+  keywords: ドミニカ共和国 eSIM, ドミニカ共和国 eSIM 料金, ドミニカ共和国 eSIM おすすめ, ドミニカ共和国 eSIM 安い, ドミニカ共和国 eSIM 購入, ドミニカ共和国 eSIM 申し込み, ドミニカ共和国 eSIM データプラン, ドミニカ共和国 プリペイドSIM, ドミニカ共和国 旅行 eSIM, ドミニカ共和国 eSIM 価格, ドミニカ共和国 eSIM 設定方法, ドミニカ共和国 eSIM 対応エリア, サントドミンゴ eSIM, プンタカナ eSIM, ドミニカ共和国 モバイルデータ, ドミニカ共和国 eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: ドミニカ共和国向け最高のeSIM
-  title: 海外旅行，就选ドミニカ共和国 eSIM
+  title: ドミニカ共和国旅行はeSIMで賢くデータ通信
 hero:
   flag_image: img/flags/do.svg
   flag_alt: ドミニカ共和国の国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: おすすめのデータプラン
 plans_data:
   30 日:
   - spec: 10GB
@@ -218,7 +220,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: おすすめの準備
   items:
   - icon: 📱
     html: |-
@@ -269,16 +271,16 @@ activation_steps:
     is_list: false
 faq_section:
   title: 'ドミニカ共和国 eSIM : よくある質問と旅行ガイド'
-  desc: Dominican Republicで使えるおすすめのデータ通信eSIMを厳選。5G対応で高速通信、24時間日本語サポート、返金保証付きで初めてでも安心。QRコード即時発行で到着後すぐにインターネット接続が可能。Dominican RepublicではClaroのネットワークに対応。
+  desc: Dominican Republicで使えるおすすめのデータ通信eSIMを厳選。QRコード即時発行で到着後すぐにインターネット接続が可能。Dominican RepublicではClaroのネットワークに対応。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. 基本事項
     questions:
     - q: ドミニカ共和国用eSIMは近隣諸国での国際ローミングはどうなりますか？
       a: ドミニカ共和国用eSIMは主にドミニカ共和国向けに最適化されています。近隣諸国への旅行には、当社のヨーロッパまたは地域別eSIMをお勧めします。これにより追加料金なしでシームレスなローミングが可能です。
-        複数国を周遊する旅行なら、地域別eSIM（ヨーロッパやアジア）を選べば国境を越えるたびに自動でネットワーク切替。追加購入や設定変更の手間がかかりません。海外旅行eSIMの地域別プランなら周遊旅行もスムーズです。
+
     - q: ドミニカ共和国用eSIMを使用中、国内のSIMで電話を受けることはできますか？
       a: はい、デュアルSIM端末では両方のプロファイルを同時に使用できます。モバイルデータにはRoami eSIMをデフォルトに設定するだけです。通話やSMSは国内SIM経由で（ローミングが有効な場合があります）行われます。
     - q: 旅行前にドミニカ共和国用eSIMをインストールして、後でアクティベーションすることはできますか？
@@ -299,7 +301,13 @@ faq_section:
 
     - q: インストール後にドミニカ共和国用eSIMを別のデバイスに移行できますか？
       a: 一度インストールしたeSIMは他のデバイスに移行できません。旅行中に使用するデバイスにインストールしてください。追加のデバイスには個別にeSIMをお買い求めいただけます。
-        Dominican Republic用eSIMの購入はRoamiで。格安データ通信プラン。物理SIM不要でインストールはQRコードをスキャンするだけ。5G対応の高速通信で快適な旅行を。
+        Dominican
+    - q: ドミニカ共和国用eSIMを申し込むとき、滞在日程の入力は必要ですか？
+      a: Roamiならドミニカ共和国用eSIMをアプリまたはWebサイトから申し込みできます。申し込み後はQRコードがメールで届き、Claroのネットワークに接続するだけで利用を開始できます。
+    - q: ドミニカ共和国のeSIMは長期滞在でもコストを抑えられますか？
+      a: ローミングと比べると、ドミニカ共和国用eSIMは現地ネットワーク（Claro）を直接使うため割安です。詳しい料金比較は、各プランの内容と合わせてプラン一覧で確認できます。
+    - q: ドミニカ共和国用eSIMのデータを追加できる回数に上限はありますか？
+      a: 残データはアプリやWebのダッシュボードでいつでも確認でき、足りなくなれば追加できます。滞在日数と用途に合わせて最初に適切な容量を選ぶと、追加購入を減らせます。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -462,72 +470,71 @@ faq_section:
       a: ドミニカ共和国用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: ドミニカ共和国用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        eSIM対応端末をお持ちなら物理SIMより便利。契約不要でプリペイド式、1GBから無制限まで選べる。事前購入がお得でおすすめ。
-        eSIM対応端末をお持ちなら物理SIMより便利。契約不要でプリペイド式、1GBから無制限まで選べる。事前購入がお得でおすすめ。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にドミニカ共和国用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
-    price: 1.99ドルから
+  - name: エクアドル eSIM
+    flag: img/flags/ec.svg
+    price: 6.99ドルから
     is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
+    slug: ecuador-esim
+  - name: エジプト eSIM
+    flag: img/flags/eg.svg
+    price: 2.99ドルから
+    is_highlight: false
+    slug: egypt-esim
+  - name: エルサルバドル eSIM
+    flag: img/flags/sv.svg
+    price: 23.99ドルから
+    is_highlight: false
+    slug: el-salvador-esim
+  - name: エストニア eSIM
+    flag: img/flags/ee.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
+    slug: estonia-esim
+  - name: エスワティニ eSIM
+    flag: img/flags/sz.svg
+    price: 19.99ドルから
+    is_highlight: false
+    slug: eswatini-esim
+  - name: フェロー諸島 eSIM
+    flag: img/flags/fo.svg
+    price: 5.99ドルから
+    is_highlight: false
+    slug: faroe-islands-esim
+  - name: フィジー eSIM
+    flag: img/flags/fj.svg
+    price: 6.99ドルから
+    is_highlight: false
+    slug: fiji-esim
+  - name: フィンランド eSIM
+    flag: img/flags/fi.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
+    slug: finland-esim
+  - name: フランス eSIM
     flag: img/flags/fr.svg
     price: 1.99ドルから
     is_highlight: false
     slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
+  - name: フランス領ギアナ eSIM
+    flag: img/flags/gf.svg
+    price: 3.99ドルから
     is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
+    slug: french-guiana-esim
+  - name: ガボン eSIM
+    flag: img/flags/ga.svg
+    price: 14.99ドルから
     is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
+    slug: gabon-esim
+  - name: ジョージア eSIM
+    flag: img/flags/ge.svg
+    price: 3.99ドルから
     is_highlight: false
-    slug: australia-esim
+    slug: georgia-esim
 ---
-        eSIM対応端末をお持ちなら物理SIMより便利。契約不要でプリペイド式、1GBから無制限まで選べる。事前購入がお得でおすすめ。

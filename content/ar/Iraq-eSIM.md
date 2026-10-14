@@ -1,6 +1,6 @@
 ---
 title: 'eSIM العراق 2026 - أفضل خطة 5G لأربيل وبغداد | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>يتمتع العملاء الجدد بخصم 20%، رمز الخصم: web20'
 seo:
   title: "eSIM العراق - خطة بيانات سريعة مدفوعة مسبقاً لرحلتك"
-  description: "أفضل eSIM مدفوعة مسبقاً للعراق مع 5G على زين وآسيا سيل وكورك. تفعيل فوري عبر رمز QR بدون هوية. تبدأ من 1.99 دولار. خطط مرنة الآن."
-  keywords: eSIM العراق، شراء eSIM العراق، أفضل eSIM العراق، eSIM السفر إلى العراق، زين العراق، آسيا سيل العراق، كورك تيليكوم العراق، eSIM بغداد، eSIM البصرة، eSIM الموصل، eSIM العراق مسبقة الدفع، 5G eSIM العراق، eSIM أربيل، eSIM كردستان العراق
-  low_price: 1.99
-  high_price: 39.9
+  description: "أفضل eSIM مدفوعة مسبقاً للعراق مع 5G على زين وآسيا سيل وكورك. تفعيل فوري عبر رمز QR بدون هوية. تبدأ من 9.99 دولار. خطط مرنة الآن."
+  keywords: eSIM العراق، شراء eSIM العراق، أفضل eSIM العراق، eSIM العراق رخيصة، eSIM العراق مسبقة الدفع، باقة eSIM العراق، eSIM العراق غير محدودة، eSIM العراق 5G، أفضل eSIM لـ العراق، سعر eSIM العراق، تفعيل eSIM العراق، تغطية eSIM العراق، زين العراق العراق، eSIM بغداد، eSIM البصرة، eSIM الموصل
+  low_price: 9.99
+  high_price: 149.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/iq.svg
   flag_alt: علم العراق
-  title: 'eSIM العراق: 5G في أربيل وبغداد وما وراءها — لا حاجة لزيارة متجر'
+  title: 'eSIM العراق: إنترنت سريع بدون هوية أو انتظار'
   subtitle: لا حاجة لهوية | 5G على زين وآسيا سيل وكورك | لا حاجة لزيارة متجر | تسليم QR فوري
 features:
-  title: 'لماذا يختار مسافرو العراق روامي: الشبكة، الخطط والقيمة'
+  title: مزايا Roami للمسافرين إلى العراق
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائياً بشبكات زين وآسيا سيل وكورك للحصول على أفضل إشارة في جميع أنحاء العراق
-plans_title: 'شراء eSIM العراق: خطط تناسب كل مدة سفر'
+plans_title: 'باقات eSIM العراق: أسعار واضحة لكل رحلة'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -253,7 +253,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM العراق: دليل شبكات زين وآسيا سيل وكورك'
+  title: 'eSIM العراق: نظرة على التغطية والمشغلين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -284,7 +284,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM العراق: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM العراق: أمور يجب ترتيبها قبل الوصول'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -305,7 +305,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM العراق: 3 خطوات بسيطة'
+  title: 'إعداد eSIM العراق: دليل التركيب خطوة بخطوة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -330,7 +330,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM العراق
+    title: أسئلة المسافرين حول eSIM العراق
     questions:
     - q: |
         هل من الآمن شراء بطاقة SIM في العراق كسائح؟ هل أحتاج إلى زيارة متجر؟
@@ -343,7 +343,7 @@ faq_section:
     - q: |
         لماذا خطط eSIM العراق أغلى من البلدان الأخرى؟
       a: |
-        واجهت البنية التحتية للاتصالات في العراق تحديات فريدة بسبب سنوات من الصراع والعقوبات الاقتصادية، مما حد من الاستثمار وزاد من تكاليف التشغيل.这使得 الاتصال أكثر تكلفة لكل من المشغلين المحليين ومقدمي الخدمات الدوليين. بينما أسعار eSIM روامي للعراق أعلى من خططنا للدول الأخرى، نسعى جاهدين لتقديم أسعار تنافسية للمنطقة — والأهم من ذلك، أننا نلغي التكاليف الخفية مثل علاوات المتجر ورسوم التسجيل والأيام غير المستخدمة التي غالباً ما ترفع تكاليف SIM المحلية.
+        واجهت البنية التحتية للاتصالات في العراق تحديات فريدة بسبب سنوات من الصراع والعقوبات الاقتصادية، مما حد من الاستثمار وزاد من تكاليف التشغيل. وهذا يجعل الاتصال أكثر تكلفة لكل من المشغلين المحليين ومقدمي الخدمات الدوليين. بينما أسعار eSIM روامي للعراق أعلى من خططنا للدول الأخرى، نسعى جاهدين لتقديم أسعار تنافسية للمنطقة — والأهم من ذلك، أننا نلغي التكاليف الخفية مثل علاوات المتجر ورسوم التسجيل والأيام غير المستخدمة التي غالباً ما ترفع تكاليف SIM المحلية.
     - q: |
         سمعت أن شرائح SIM المحلية العراقية تستخدم دورات فوترة شهرية — هل لدى روامي نفس المشكلة؟
       a: |
@@ -364,55 +364,67 @@ faq_section:
         هل يمكنني شحن eSIM العراق إذا نفدت البيانات؟
       a: |
         نعم — يمكنك الشحن من خلال حساب روامي الخاص بك في أي وقت. لا حاجة لزيارة متجر أو البحث عن بطاقة شحن في العراق. فقط سجل الدخول، وأضف بيانات، واستمر في استخدام eSIM الخاص بك فوراً.
+    - q: |
+        هل يمكنني شراء eSIM العراق من هاتفي؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة زين العراق لتبدأ الاستخدام فورًا.
+    - q: |
+        كيف يتغير سعر eSIM العراق حسب حجم البيانات؟
+      a: |
+        أسعار eSIM العراق معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل يمكن ترحيل البيانات المتبقية إلى اليوم التالي؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في العراق، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM العراق ذات الصلة
+  title: باقات eSIM إضافية لرحلة العراق
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
+  - name: eSIM بروناي
+    flag: img/flags/bn.svg
+    price: من 9.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM مقدونيا
+    flag: img/flags/ma.svg
+    price: من 4.99 دولار
     is_highlight: false
   - name: eSIM الصين
     flag: img/flags/cn.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+  - name: eSIM مالطا
+    flag: img/flags/mt.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
+  - name: eSIM الإكوادور
+    flag: img/flags/ec.svg
+    price: من 6.99 دولار
+    is_highlight: true
+  - name: eSIM باهاماس
+    flag: img/flags/bs.svg
+    price: من 16.99 دولار
+    is_highlight: false
+  - name: eSIM أيسلندا
+    flag: img/flags/is.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
+  - name: eSIM أوكرانيا
+    flag: img/flags/uk.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
+  - name: eSIM الكونغو (كينشاسا)
+    flag: img/flags/cg.svg
+    price: من 7.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
+  - name: eSIM تشاد
+    flag: img/flags/td.svg
+    price: من 23.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM الغابون
+    flag: img/flags/ga.svg
+    price: من 14.99 دولار
+    is_highlight: false
+  - name: eSIM تركيا
+    flag: img/flags/tr.svg
     price: من 1.99 دولار
     is_highlight: false
 ---

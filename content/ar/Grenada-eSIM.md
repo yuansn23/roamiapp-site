@@ -1,6 +1,6 @@
 ---
 title: 'eSIM غرينادا 2026: دليل 5G والبيانات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,9 @@ modal:
 seo:
   title: eSIM غرينادا | أفضل بيانات 5G مدفوعة مسبقًا لإقامتك
   description: "أفضل eSIM سفر مدفوعة مسبقًا من Roami لغرينادا. بيانات 5G غير محدودة في الجزيرة. تغطي سانت جورج وغرينفيل. تفعيل فوري. وخطط مرنة."
-  keywords: eSIM غرينادا، شراء eSIM غرينادا، أفضل eSIM غرينادا، eSIM سفر غرينادا، فلو غرينادا، ديجيسيل غرينادا، دون موبايل غرينادا،
-    eSIM سانت جورج، eSIM غرينفيل، eSIM غوياف، eSIM مدفوعة مسبقًا غرينادا، eSIM 5G غرينادا
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM غرينادا، شراء eSIM غرينادا، أفضل eSIM غرينادا، eSIM غرينادا رخيصة، eSIM غرينادا مسبقة الدفع، باقة eSIM غرينادا، eSIM غرينادا غير محدودة، eSIM غرينادا 5G، أفضل eSIM لـ غرينادا، سعر eSIM غرينادا، تفعيل eSIM غرينادا، تغطية eSIM غرينادا، فلو غرينادا، eSIM سانت جورج، eSIM غرينفيل، eSIM غوياف
+  low_price: 11.99
+  high_price: 67.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -41,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/gd.svg
   flag_alt: علم غرينادا
-  title: 'eSIM غرينادا: اتصال فوري لسفر بدون قلق'
+  title: 'eSIM غرينادا: 5G سريع بدون انتظار في المتاجر'
   subtitle: لا رسوم خفية | إنترنت بدون قلق | دعم 24/7 - أفضل eSIM مدفوعة مسبقًا للمسافرين إلى غرينادا
 features:
-  title: 'لماذا يختار المسافرون إلى غرينادا Roami: التغطية والسرعة والخدمة'
+  title: لماذا تختار eSIM غرينادا من Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي غرينادا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM غرينادا: خطط لكل مدة رحلة'
+plans_title: 'خطط eSIM غرينادا: بيانات تكفي رحلتك بأكملها'
 plans_data:
   30 يومًا:
   - spec: 3 جيجابايت
@@ -124,7 +123,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM غرينادا: دليل المشغلين وخريطة التغطية'
+  title: 'تغطية eSIM غرينادا: مقارنة المشغلين والسرعة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -155,7 +154,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM غرينادا: ما يجب معرفته قبل السفر'
+  title: 'جهّز eSIM غرينادا: تذكيرات أساسية قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -175,7 +174,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM غرينادا: 3 خطوات بسيطة'
+  title: 'تركيب eSIM غرينادا: الدليل المبسّط'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -200,7 +199,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM غرينادا
+    title: ما يريد المسافرون معرفته عن eSIM غرينادا
     questions:
     - q: |
         كيف يقارن Roami بـ Saily لـ eSIM في غرينادا؟
@@ -233,64 +232,76 @@ faq_section:
     - q: |
         ما هو اختيار eSIM الأكثر شيوعًا للمسافرين إلى غرينادا؟
       a: |
-        يختار معظم المسافرين إلى غرينادا خطة 5 جيجابايت / 15 يومًا (9.99 دولار). إنها كافية للملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة. للإقامات الأطول أو الاستخدام الأثقل، تعتبر خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) خيارات رائعة. يتم تفعيل جميع الخطط في دقائق وتتضمن دعمًا 24/7.
+        يختار معظم المسافرين إلى غرينادا خطة 5 جيجابايت / 15 يومًا (38.99 دولار). إنها كافية للملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة. للإقامات الأطول أو الاستخدام الأثقل، تعتبر خطط 10 جيجابايت (67.99 دولار) أو غير المحدودة (52.99 دولار) خيارات رائعة. يتم تفعيل جميع الخطط في دقائق وتتضمن دعمًا 24/7.
+    - q: |
+        كيف يصل رمز QR عند شراء eSIM غرينادا؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM غرينادا عبر الإنترنت. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        ما الفرق بين باقات eSIM غرينادا الرخيصة والغالية؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM غرينادا شبكة محلية مباشرة (فلو) فيكون أوفر. بطاقات SIM المحلية في غرينادا تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        ما خطوات إعادة شراء البيانات في غرينادا؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM ذات الصلة بغرينادا
+  title: باقات eSIM لوجهات مرتبطة بـ غرينادا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM جورجيا
+    flag: img/flags/ge.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM المكسيك
+    flag: img/flags/mx.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM ماليزيا
+    flag: img/flags/my.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM سنغافورة
+    flag: img/flags/sg.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
+  - name: eSIM سلوفاكيا
+    flag: img/flags/sl.svg
     price: من 1.99 دولار
     is_highlight: false
   - name: eSIM إسبانيا
     flag: img/flags/es.svg
     price: من 1.99 دولار
+    is_highlight: true
+  - name: eSIM تنزانيا
+    flag: img/flags/tz.svg
+    price: من 7.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
+  - name: eSIM اليابان
+    flag: img/flags/jp.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM غويانا الفرنسية
+    flag: img/flags/gf.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM النرويج
+    flag: img/flags/no.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM العراق
+    flag: img/flags/iq.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM بروناي
+    flag: img/flags/bn.svg
+    price: من 9.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM غرينادا أم بطاقة SIM الفعلية: ما هو الخيار الأفضل في 2026؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في غرينادا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM للبيانات المدفوعة مسبقًا (غرينادا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Grenada
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

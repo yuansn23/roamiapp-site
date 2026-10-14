@@ -1,6 +1,6 @@
 ---
 title: 'eSIM تشاد 2026: دليل الخطط والتغطية | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>يتمتع العملاء الجدد بخصم 20%، رمز الخصم: web20'
 seo:
   title: "eSIM تشاد 5G: تفعيل فوري، بيانات غير محدودة للسياح"
-  description: "قارن خطط eSIM تشاد مع 5G سريع في انجمينا وأبيشي وموندو. تغطية إيرتل وتيغو وسوتيل تشاد. تفعيل فوري عبر QR من 1.99 دولار. وخطط مرنة."
-  keywords: eSIM تشاد، شراء eSIM تشاد، أفضل eSIM تشاد، eSIM السفر إلى تشاد، إيرتل تشاد، تيغو تشاد، سوتيل تشاد، eSIM انجمينا، eSIM أبيشي، eSIM موندو، eSIM تشاد مسبقة الدفع، 5G eSIM تشاد
-  low_price: 1.99
-  high_price: 39.9
+  description: "قارن خطط eSIM تشاد مع 5G سريع في انجمينا وأبيشي وموندو. تغطية إيرتل وتيغو وسوتيل تشاد. تفعيل فوري عبر QR من 23.99 دولار. وخطط مرنة."
+  keywords: eSIM تشاد، شراء eSIM تشاد، أفضل eSIM تشاد، eSIM تشاد رخيصة، eSIM تشاد مسبقة الدفع، باقة eSIM تشاد، eSIM تشاد غير محدودة، eSIM تشاد 5G، أفضل eSIM لـ تشاد، سعر eSIM تشاد، تفعيل eSIM تشاد، تغطية eSIM تشاد، إيرتل تشاد تشاد، eSIM انجمينا، eSIM أبيشي، eSIM موندو
+  low_price: 23.99
+  high_price: 99.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/td.svg
   flag_alt: علم تشاد
-  title: 'eSIM تشاد: شبكة وتغطية موثوقة للمسافرين'
+  title: 'eSIM تشاد: بيانات موثوقة طوال رحلتك'
   subtitle: لا رسوم خفية | إنترنت خالٍ من القلق | دعم 24/7 - أفضل eSIM مسبقة الدفع للمسافرين إلى تشاد
 features:
-  title: 'لماذا يختار مسافرو تشاد روامي: التغطية، السرعة والخدمة'
+  title: ما يميز Roami للمسافرين إلى تشاد
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائياً بأفضل مشغلي تشاد للحصول على أفضل إشارة
-plans_title: 'شراء eSIM تشاد: خطط تناسب كل مدة سفر'
+plans_title: 'خطط eSIM تشاد: من رحلة قصيرة إلى إقامة طويلة'
 plans_data:
   7 أيام:
   - spec: 3 جيجابايت
@@ -172,7 +172,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM تشاد: دليل المشغل وخريطة التغطية'
+  title: 'تغطية eSIM تشاد: أين تحصل على أفضل إشارة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -203,7 +203,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM تشاد: ما يجب معرفته قبل الذهاب'
+  title: 'نصائح eSIM تشاد: جهّز اتصالك قبل الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -222,7 +222,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM تشاد: 3 خطوات بسيطة'
+  title: 'تركيب eSIM تشاد: من الشراء إلى الاتصال'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -247,7 +247,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM تشاد
+    title: استفسارات شائعة عن eSIM تشاد
     questions:
     - q: |
         هل أحتاج إلى إزالة شريحة SIM الفعلية لاستخدام eSIM في تشاد؟
@@ -276,68 +276,80 @@ faq_section:
     - q: |
         ما المضمن عند شراء eSIM تشاد من روامي؟
       a: |
-        تسليم رمز QR في غضون 5 دقائق، والوصول إلى شبكة إيرتل، ودعم العملاء 24/7، ونقطة اتصال مجانية لما يصل إلى 5 أجهزة. تبدأ الخطط من 1.99 دولار. لا عقود، لا رسوم خفية، لا تجديد تلقائي.
+        تسليم رمز QR في غضون 5 دقائق، والوصول إلى شبكة إيرتل، ودعم العملاء 24/7، ونقطة اتصال مجانية لما يصل إلى 5 أجهزة. تبدأ الخطط من 23.99 دولار. لا عقود، لا رسوم خفية، لا تجديد تلقائي.
     - q: |
         كم عدد ملفات تعريف eSIM التي يمكنني تخزينها على هاتفي للسفر إلى تشاد؟
       a: |
         تخزن معظم الهواتف 5-10 ملفات تعريف eSIM. يمكنك الاحتفاظ بـ eSIM تشاد بجانب شريحة منزلك وملفات تعريف البلدان الأخرى. فقط قم بتفعيل الذي تحتاجه وإلغاء تفعيل الآخرين. التبديل بينها يستغرق حوالي 10 ثوانٍ في إعدادات هاتفك.
+    - q: |
+        هل يجب أن أشتري eSIM تشاد قبل المغادرة؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        هل تُفرض رسوم إضافية على أسعار eSIM تشاد؟
+      a: |
+        بما أنك تختار الحجم المناسب، يكون eSIM أقل هدرًا للمال في تشاد. بطاقات SIM المحلية في تشاد تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        هل تكفي بيانات eSIM لإقامة طويلة في تشاد؟
+      a: |
+        eSIM تشاد بنظام مسبق الدفع، ويمكن شراء باقة إضافية من التطبيق عند نقص البيانات. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM تشاد ذات الصلة
+  title: وجهات مرتبطة بـ تشاد وخططها
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
+  - name: eSIM نيبال
+    flag: img/flags/ne.svg
+    price: من 10.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM قيرغيزستان
+    flag: img/flags/kg.svg
+    price: من 4.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
   - name: eSIM فرنسا
     flag: img/flags/fr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
+  - name: eSIM بوليفيا
+    flag: img/flags/bo.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM بلجيكا
+    flag: img/flags/be.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
+  - name: eSIM كمبوديا
+    flag: img/flags/kh.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM مالي
+    flag: img/flags/ml.svg
+    price: من 27.99 دولار
+    is_highlight: false
+  - name: eSIM بلغاريا
+    flag: img/flags/bg.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM جزر فارو
+    flag: img/flags/fo.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM النمسا
+    flag: img/flags/at.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM فيتنام
+    flag: img/flags/vn.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بيرو
+    flag: img/flags/pe.svg
+    price: من 4.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM تشاد أم بطاقة SIM المدفوعة مسبقاً: مقارنة جنباً إلى جنب'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقاً في تشاد مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (تشاد) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Chad
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - SIM محلية مسبقة الدفع (بيانات السوق)

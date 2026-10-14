@@ -1,6 +1,6 @@
 ---
 title: 'eSIM أوكرانيا 2026: دليل المشغلين المحليين | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,9 @@ modal:
 seo:
   title: eSIM أوكرانيا | أفضل خطة بيانات مسبقة الدفع لرحلتك
   description: "أفضل eSIM سفر مسبق الدفع من Roami إلى أوكرانيا. بيانات غير محدودة 5G على أفضل الشبكات. تغطي كييف ولفيف وأوديسا. اشترِ خطتك الآن."
-  keywords: eSIM أوكرانيا، شراء eSIM أوكرانيا، أفضل eSIM أوكرانيا، eSIM السفر إلى أوكرانيا، Kyivstar أوكرانيا، Vodafone Ukraine أوكرانيا،
-    lifecell أوكرانيا، eSIM كييف، eSIM لفيف، eSIM أوديسا، eSIM أوكرانيا مسبقة الدفع، eSIM 5G أوكرانيا
+  keywords: eSIM أوكرانيا، شراء eSIM أوكرانيا، أفضل eSIM أوكرانيا، eSIM أوكرانيا رخيصة، eSIM أوكرانيا مسبقة الدفع، باقة eSIM أوكرانيا، eSIM أوكرانيا غير محدودة، eSIM أوكرانيا 5G، أفضل eSIM لـ أوكرانيا، سعر eSIM أوكرانيا، تفعيل eSIM أوكرانيا، تغطية eSIM أوكرانيا، Kyivstar أوكرانيا، eSIM كييف، eSIM لفيف، eSIM أوديسا
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -41,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/uk.svg
   flag_alt: علم أوكرانيا
-  title: 'eSIM أوكرانيا: ابق على اتصال أينما ذهبت'
+  title: 'eSIM أوكرانيا: شبكة قوية من اليوم الأول'
   subtitle: لا رسوم خفية | إنترنت بدون قلق | دعم 24/7 - أفضل eSIM مسبق الدفع للمسافرين إلى أوكرانيا
 features:
-  title: 'لماذا يختار المسافرون إلى أوكرانيا Roami: التغطية، السرعة والخدمة'
+  title: لماذا يختار المسافرون روامي في أوكرانيا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: التبديل التلقائي
     desc: يتصل تلقائيًا بأفضل شركات الاتصال في أوكرانيا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM أوكرانيا: خطط تناسب كل مدة رحلة'
+plans_title: 'باقات eSIM أوكرانيا: بيانات مرنة بأسعار تنافسية'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -272,7 +271,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM أوكرانيا: دليل المشغلين وخريطة التغطية'
+  title: دليل الشبكات المحلية لـ eSIM أوكرانيا
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -305,7 +304,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM أوكرانيا: ما يجب معرفته قبل الذهاب'
+  title: 'قبل الذهاب إلى أوكرانيا: تحضير eSIM خطوة بخطوة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -326,7 +325,7 @@ reminders:
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM أوكرانيا: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM أوكرانيا: من رمز QR إلى الاتصال'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -353,7 +352,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM أوكرانيا
+    title: أجوبة على أشهر أسئلة eSIM أوكرانيا
     questions:
     - q: |
         هل سيعمل eSIM الخاص بي في أوكرانيا لمكالمات الفيديو والعمل عن بعد؟
@@ -387,55 +386,67 @@ faq_section:
         سأصل إلى أوكرانيا في وقت متأخر من الليل. هل سأتمكن من الاتصال بالإنترنت فورًا؟
       a: |
         نعم. إذا قمت بتثبيت eSIM قبل المغادرة، فستكون متصلًا في غضون دقيقتين من الهبوط. قم بتمكين تجوال البيانات، وسيلتقط هاتفك شبكة Kyivstar تلقائيًا. لا طوابير، لا أوراق، لا بحث عن كشك SIM في منتصف الليل.
+    - q: |
+        هل يمكنني شراء eSIM أوكرانيا ليلاً؟
+      a: |
+        يتيح Roami شراء eSIM أوكرانيا من التطبيق أو الموقع. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        ما أرخص باقة eSIM أوكرانيا متاحة؟
+      a: |
+        في أوكرانيا يتطلب شراء بطاقة SIM المحلية تسجيلًا في المتجر، لذا غالبًا يكون eSIM أوفر. بطاقات SIM المحلية في أوكرانيا تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        هل يمكنني تغيير باقة بيانات eSIM أثناء الإقامة في أوكرانيا؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM ذات الصلة
+  title: باقات eSIM إضافية لمسافري أوكرانيا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM البرازيل
+    flag: img/flags/br.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM المجر
+    flag: img/flags/hu.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM بيلاروسيا
+    flag: img/flags/by.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
+  - name: eSIM بنما
+    flag: img/flags/pa.svg
+    price: من 11.99 دولار
+    is_highlight: false
   - name: eSIM كندا
     flag: img/flags/ca.svg
-    price: من 1.99 دولار
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
+  - name: eSIM سيراليون
+    flag: img/flags/si.svg
+    price: من 10.99 دولار
+    is_highlight: true
+  - name: eSIM ماكاو
+    flag: img/flags/ma.svg
     price: من 1.99 دولار
     is_highlight: false
   - name: eSIM ألمانيا
     flag: img/flags/de.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM السعودية
+    flag: img/flags/sa.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM أوزبكستان
+    flag: img/flags/uz.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM نيوزيلندا
+    flag: img/flags/nz.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM الفلبين
+    flag: img/flags/ph.svg
+    price: من 2.99 دولار
     is_highlight: false
 ---

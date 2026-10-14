@@ -1,6 +1,6 @@
 ---
 title: "ウズベキスタン eSIM 2026: 事業者＆カバレッジガイド | Roami"
-date: '2026-06-26T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: "eSIMサービスは<strong>PhoneSIM</strong>にアップグレードされました。<br>新規のお客様は20%割引、プロモコード: web20"
 seo:
   title: eSIM ウズベキスタン | 複数国旅行に便利なリージョナルeSIM
-  description: ウズベキスタン旅行に最適なeSIM。事前購入で到着後すぐに使える。中央アジア周遊旅行に最適な安定したデータ通信を提供。
-  keywords: ウズベキスタン eSIM, ウズベキスタン eSIM購入, 最適なウズベキスタン eSIM, ウズベキスタン旅行 eSIM, Ucell ウズベキスタン, Beeline Uzbekistan ウズベキスタン, UMS (Universal Mobile Systems) ウズベキスタン, タシケント eSIM, サマルカンド eSIM, ブハラ eSIM, ウズベキスタン プリペイド eSIM, 5G ウズベキスタン eSIM
+  description: ウズベキスタン eSIMのプランは1.99ドルから。Roamiなら出発前にインストールでき、到着後すぐにインターネット接続が可能です。
+  keywords: ウズベキスタン eSIM, ウズベキスタン eSIM 料金, ウズベキスタン eSIM おすすめ, ウズベキスタン eSIM 安い, ウズベキスタン eSIM 購入, ウズベキスタン eSIM 申し込み, ウズベキスタン eSIM データ無制限, ウズベキスタン プリペイドSIM, ウズベキスタン 旅行 eSIM, ウズベキスタン eSIM 価格, ウズベキスタン eSIM 設定方法, ウズベキスタン eSIM 対応エリア, タシケント eSIM, サマルカンド eSIM, ウズベキスタン モバイルデータ, ウズベキスタン eSIM 比較
   low_price: 1.99
-  high_price: 39.9
+  high_price: 96.99
 order_summary:
   title: 選択中のプラン
   label_data: データ容量
@@ -36,7 +36,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: ウズベキスタンに最適なeSIM
-  title: ウズベキスタン eSIM，海外旅行上网无忧
+  title: ウズベキスタン旅行のデータ通信はeSIMで決まり
 hero:
   flag_image: img/flags/uz.svg
   flag_alt: ウズベキスタン国旗
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動切替
     desc: ウズベキスタンのトップキャリアに自動接続し最適な信号を確保
-plans_title: 'ウズベキスタン eSIM購入: あらゆる旅行期間に対応するプラン'
+plans_title: データプランを選ぶ
 plans_data:
   7日間:
   - spec: 3GB
@@ -220,7 +220,7 @@ network_coverage:
       coverage: 良好な都市カバレッジ
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 'ウズベキスタン eSIM セットアップのヒント: 出発前に知っておくべきこと'
+  title: 購入前のチェックリスト
   items:
   - icon: 📱
     html: 購入前にスマホが<a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -266,12 +266,12 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: ウズベキスタン eSIM FAQ
+    title: 1. 基本の質問
     questions:
     - q: |
         ウズベキスタンのeSIMに関して、RoamiはKlookと比べてどうですか？
       a: |
-        Roamiは通常、ウズベキスタンeSIMでより優れた価値を提供します。直接販売しているため — マーケットプレイスのマークアップがありません。価格は通常Klookより10-20%安くなっています。24時間直接サポートも提供しています。プランはプリペイドで自動更新はないため、旅行終了後に請求されることはありません。 海外旅行eSIMならRoamiの地域別プランで周遊もスムーズです。
+        Roamiは通常、ウズベキスタンeSIMでより優れた価値を提供します。直接販売しているため — マーケットプレイスのマークアップがありません。価格は通常Klookより10-20%安くなっています。24時間直接サポートも提供しています。プランはプリペイドで自動更新はないため、旅行終了後に請求されることはありません。
     - q: |
         ウズベキスタンでeSIMのためにどのキャリアを選ぶべきですか？
       a: |
@@ -291,66 +291,82 @@ faq_section:
     - q: |
         ウズベキスタンに行く旅行者に最も人気のあるeSIMの選択肢は何ですか？
       a: |
-        ウズベキスタンに行くほとんどの旅行者は5GB/15日間プラン（$9.99）を選びます。毎日のナビゲーション、SNS、メッセージングに十分です。長期滞在やより多くのデータ使用には、10GB（$14.99）または無制限（$59.99）プランが優れた選択肢です。すべてのプランは数分でアクティベートされ、24時間サポートが含まれています。
+        ウズベキスタンに行くほとんどの旅行者は5GB/15日間プラン（$11.99）を選びます。毎日のナビゲーション、SNS、メッセージングに十分です。長期滞在やより多くのデータ使用には、10GB（$19.99）または無制限（$12.99）プランが優れた選択肢です。すべてのプランは数分でアクティベートされ、24時間サポートが含まれています。
     - q: |
         ウズベキスタンeSIMの有効期間はいつから始まりますか？
       a: |
         プランの有効期間は購入時やインストール時ではなく、ウズベキスタンのローカルネットワークに接続した時点から開始されます。そのため、旅行の数週間前に購入・インストールしてもプランの日数を損することはありません。7日間プランは最初の接続から丸7日間利用できます。
-
     - q: |
         ウズベキスタンのeSIMでWhatsAppやFaceTimeは使えますか？
       a: |
         はい — すべてのデータベースアプリはeSIM上で完璧に動作します。WhatsApp通話は音声で約1MB/分、ビデオで5-8MB/分を使用します。FaceTime、Zoom、Googleマップ、Instagram — すべてがeSIMデータ接続で制限なく動作します。Ucellのネットワークはビデオ通話をスムーズに処理します。5GBプランで約500時間のWhatsApp音声通話、または10時間のFaceTimeビデオに相当します。
+    - q: ウズベキスタン向けeSIMの申し込みは日本にいながら可能ですか？
+      a: Roamiのウズベキスタン用eSIMはすべてオンラインで申し込みできます。パスポートや現地住所の登録は不要で、受け取ったQRコードをスキャンするだけです。
+    - q: ウズベキスタンでeSIMを選ぶと現地SIMより安くなる理由は何ですか？
+      a: 用途に合わせて容量を選べるため、ウズベキスタンではeSIMのほうが無駄なく費用を抑えられます。短期旅行では容量の小さいプラン、長期滞在では大容量プランが割安になる傾向があります。
+    - q: ウズベキスタン用eSIMに後からデータを足すことは可能ですか？
+      a: ウズベキスタン用eSIMはプリペイド式で、データが少なくなったらアプリから追加購入できます。データ残量はアプリでリアルタイムに確認できるため、使い切る前に追加できます。
 related_products:
   title: 関連eSIMプラン
   items:
-  - name: アメリカ eSIM
-    flag: img/flags/us.svg
+  - name: バチカン市国 eSIM
+    flag: img/flags/va.svg
+    price: $10.99～
+    is_highlight: false
+    slug: vatican-city-esim
+  - name: ベトナム eSIM
+    flag: img/flags/vn.svg
     price: $1.99～
     is_highlight: false
-  - name: イギリス
-    flag: img/flags/gb.svg
+    slug: vietnam-esim
+  - name: ザンビア eSIM
+    flag: img/flags/za.svg
+    price: $11.99～
+    is_highlight: false
+    slug: zambia-esim
+  - name: スロベニア eSIM
+    flag: img/flags/sl.svg
     price: $1.99～
     is_highlight: false
+    slug: slovenia-esim
   - name: ヨーロッパ eSIM
     flag: img/flags/eu.svg
     price: $1.99～
+    is_highlight: false
+    slug: europe-esim
+  - name: アフガニスタン eSIM
+    flag: img/flags/af.svg
+    price: $11.99～
+    is_highlight: false
+    slug: afghanistan-esim
+  - name: アルバニア eSIM
+    flag: img/flags/al.svg
+    price: $1.99～
+    is_highlight: false
+    slug: albania-esim
+  - name: アルジェリア eSIM
+    flag: img/flags/dz.svg
+    price: $3.99～
+    is_highlight: false
+    slug: algeria-esim
+  - name: アンドラ eSIM
+    flag: img/flags/ad.svg
+    price: $6.99～
+    is_highlight: false
+    slug: andorra-esim
+  - name: アルゼンチン eSIM
+    flag: img/flags/ar.svg
+    price: $3.99～
+    is_highlight: false
+    slug: argentina-esim
+  - name: アルメニア eSIM
+    flag: img/flags/am.svg
+    price: $7.99～
     is_highlight: true
-  - name: カナダ eSIM
-    flag: img/flags/ca.svg
-    price: $1.99～
-    is_highlight: false
-  - name: トルコ eSIM
-    flag: img/flags/tr.svg
-    price: $1.99～
-    is_highlight: false
-  - name: 中国 eSIM
-    flag: img/flags/cn.svg
-    price: $1.99～
-    is_highlight: false
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: $1.99～
-    is_highlight: false
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: $1.99～
-    is_highlight: false
-  - name: フランス eSIM
-    flag: img/flags/fr.svg
-    price: $1.99～
-    is_highlight: false
-  - name: スペイン eSIM
-    flag: img/flags/es.svg
-    price: $1.99～
-    is_highlight: false
-  - name: ドイツ eSIM
-    flag: img/flags/de.svg
-    price: $1.99～
-    is_highlight: false
+    slug: armenia-esim
   - name: オーストラリア eSIM
     flag: img/flags/au.svg
     price: $1.99～
     is_highlight: false
+    slug: australia-esim
 ---
-        Uzbekistanで使えるおすすめeSIMを選ぶならRoami。AiraloやHolaflyより格安で、同一品質の高速通信。返金保証付きで初めてのeSIM利用も安心。QRコード設定で簡単。

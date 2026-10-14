@@ -1,6 +1,6 @@
 ---
 title: 'eSIM ساحل العاج 2026: دليل الاتصال والسرعة | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: أورانج، إم تي إن، مووف
   competitors: Airalo، Holafly، Nomad، Ubigi، Yesim
   main_cities: أبيدجان، ياموسوكرو، بواكي، دالوا، سان بيدرو
-  main_packages: 3/7/15/30 يوم، بيانات غير محدودة
+  main_packages: 7/30 يوم، حتى 5 جيجابايت
 modal:
   title: تم ترقية الخدمة!
   btn_text: متابعة
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>يتمتع العملاء الجدد بخصم 20%، رمز الخصم: web20'
 seo:
   title: "eSIM ساحل العاج: بيانات 5G عالية السرعة للمسافرين"
-  description: "قارن خطط eSIM ساحل العاج مع 5G سريع في أبيدجان وياموسوكرو. تغطية أورانج وإم تي إن ومووف. تفعيل فوري عبر QR من 1.99 دولار."
-  keywords: eSIM ساحل العاج، شراء eSIM ساحل العاج، أفضل eSIM ساحل العاج، eSIM السفر إلى ساحل العاج، أورانج ساحل العاج، إم تي إن ساحل العاج، مووف ساحل العاج، eSIM أبيدجان، eSIM ياموسوكرو، eSIM بواكي، eSIM ساحل العاج مسبقة الدفع، 5G eSIM ساحل العاج
-  low_price: 1.99
-  high_price: 39.9
+  description: "قارن خطط eSIM ساحل العاج مع 5G سريع في أبيدجان وياموسوكرو. تغطية أورانج وإم تي إن ومووف. تفعيل فوري عبر QR من 9.99 دولار."
+  keywords: eSIM ساحل العاج، شراء eSIM ساحل العاج، أفضل eSIM ساحل العاج، eSIM ساحل العاج رخيصة، eSIM ساحل العاج مسبقة الدفع، باقة eSIM ساحل العاج، باقة بيانات eSIM ساحل العاج، eSIM ساحل العاج 5G، أفضل eSIM لـ ساحل العاج، سعر eSIM ساحل العاج، تفعيل eSIM ساحل العاج، تغطية eSIM ساحل العاج، أورانج ساحل العاج، eSIM أبيدجان، eSIM ياموسوكرو، eSIM بواكي
+  low_price: 9.99
+  high_price: 31.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/ci.svg
   flag_alt: علم ساحل العاج
-  title: 'eSIM ساحل العاج: اتصال فوري لسفر خالٍ من القلق'
+  title: 'eSIM ساحل العاج: شبكة سريعة لكل رحلاتك'
   subtitle: تفعيل فوري | تغطية 5G عالية التقييم | دعم 24/7 - أفضل eSIM مسبقة الدفع لساحل العاج
 features:
-  title: 'لماذا يختار مسافرو ساحل العاج روامي: الشبكة، الخطط والقيمة'
+  title: ما تحصل عليه مع eSIM ساحل العاج من Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائياً بأفضل مشغلي ساحل العاج للحصول على أفضل إشارة
-plans_title: 'شراء eSIM ساحل العاج: خطط تناسب كل مدة سفر'
+plans_title: خطط بيانات eSIM ساحل العاج لكل نوع رحلة
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -104,7 +104,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM ساحل العاج: تغطية الشبكة ومقارنة المشغلين'
+  title: 'eSIM ساحل العاج: خريطة التغطية والمشغلون الرئيسيون'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -135,7 +135,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM ساحل العاج: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM ساحل العاج: ما ينبغي تجهيزه قبل الإقلاع'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -154,7 +154,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM ساحل العاج: 3 خطوات بسيطة'
+  title: 'eSIM ساحل العاج: ثلاث خطوات للاتصال بالشبكة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -179,7 +179,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM ساحل العاج
+    title: أسئلة متكررة حول eSIM ساحل العاج
     questions:
     - q: |
         كيف تقارن روامي بـ Holafly لـ eSIM في ساحل العاج؟
@@ -188,7 +188,7 @@ faq_section:
     - q: |
         كم يجب أن أخصص ميزانية لـ eSIM عند زيارة ساحل العاج؟
       a: |
-        تقدم روامي eSIM ساحل العاج من 1.99 دولار لخطة خفيفة لمدة 7 أيام حتى 59.99 دولار لـ 30 يوماً من البيانات غير المحدودة. يختار معظم الزوار خطة 5 جيجابايت/15 يوماً بسعر 9.99 دولار — تغطي الملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة دون عناء. يجب على محبي البث المباشر أو مستخدمي وسائل التواصل الثقيلة التفكير في 10 جيجابايت أو غير المحدودة. توفر أورانج سرعات موثوقة في جميع أنحاء ساحل العاج. خطط روامي مدفوعة مسبقاً — لا فواتير مفاجئة، لا تجديد تلقائي، فقط تسعير مباشر.
+        تقدم روامي eSIM ساحل العاج من 9.99 دولار لخطة خفيفة لمدة 7 أيام حتى 31.99 دولار لـ 30 يوماً من البيانات 5 جيجابايت. يختار معظم الزوار خطة 5 جيجابايت/15 يوماً بسعر 31.99 دولار — تغطي الملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة دون عناء. يجب على محبي البث المباشر أو مستخدمي وسائل التواصل الثقيلة التفكير في 10 جيجابايت أو غير المحدودة. توفر أورانج سرعات موثوقة في جميع أنحاء ساحل العاج. خطط روامي مدفوعة مسبقاً — لا فواتير مفاجئة، لا تجديد تلقائي، فقط تسعير مباشر.
     - q: |
         كيف تقارن أورانج وإم تي إن ومووف لسائح يزور ساحل العاج؟
       a: |
@@ -213,55 +213,67 @@ faq_section:
         هل تعمل eSIM ساحل العاج في المناطق الريفية والبلدات الصغيرة؟
       a: |
         تصل التغطية في ساحل العاج إلى حوالي 95% من المناطق الحضرية لكنها تنخفض في المواقع النائية. قد تنخفض السرعات من 200-300 ميجابايت/ث (5G) إلى 10-30 ميجابايت/ث (4G). يقوم روامي بالتبديل التلقائي إلى أقوى شبكة. قم بتنزيل الخرائط دون اتصال قبل التوجه إلى المناطق النائية.
+    - q: |
+        كيف أدفع عند شراء eSIM ساحل العاج؟
+      a: |
+        يمكن شراء eSIM ساحل العاج قبل السفر أو بعده. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة أورانج لتبدأ الاستخدام فورًا.
+    - q: |
+        هل يُحاسب eSIM ساحل العاج على الاستخدام الفعلي فقط؟
+      a: |
+        بما أنك تختار الحجم المناسب، يكون eSIM أقل هدرًا للمال في ساحل العاج. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل ينقطع الاتصال إذا نفدت بيانات eSIM ساحل العاج؟
+      a: |
+        eSIM ساحل العاج بنظام مسبق الدفع، ويمكن شراء باقة إضافية من التطبيق عند نقص البيانات. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM ساحل العاج ذات الصلة
+  title: وجهات قريبة من ساحل العاج مع خطط eSIM
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM الإكوادور
+    flag: img/flags/ec.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM باهاماس
+    flag: img/flags/bs.svg
+    price: من 16.99 دولار
+    is_highlight: false
+  - name: eSIM أيسلندا
+    flag: img/flags/is.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM أوكرانيا
+    flag: img/flags/uk.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM الكونغو (كينشاسا)
+    flag: img/flags/cg.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM تشاد
+    flag: img/flags/td.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM الغابون
+    flag: img/flags/ga.svg
+    price: من 14.99 دولار
     is_highlight: false
   - name: eSIM تركيا
     flag: img/flags/tr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
+  - name: eSIM صربيا
+    flag: img/flags/se.svg
+    price: من 1.99 دولار
+    is_highlight: true
+  - name: eSIM ليختنشتاين
+    flag: img/flags/li.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
+  - name: eSIM غوادلوب
+    flag: img/flags/gp.svg
+    price: من 8.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM أندورا
+    flag: img/flags/ad.svg
+    price: من 6.99 دولار
     is_highlight: false
 ---

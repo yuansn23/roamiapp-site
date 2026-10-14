@@ -1,6 +1,6 @@
 ---
 title: 'غانا eSIM 2026: دليل السفر والشبكات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM غانا | أفضل خطة بيانات غير محدودة للمسافرين
   description: "أفضل eSIM سياحي مسبق الدفع من Roami لغانا. بيانات غير محدودة 5G. تغطي أكرا وكوماسي وتاكورادي. تفعيل فوري. اشترِ خطتك الآن."
-  keywords: eSIM غانا، شراء eSIM غانا، أفضل eSIM غانا، eSIM سفر غانا، MTN غانا، Vodafone غانا، AirtelTigo غانا، eSIM أكرا، eSIM كوماسي، eSIM سيكوندي تاكورادي، eSIM مسبق الدفع غانا، eSIM 5G غانا
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM غانا، شراء eSIM غانا، أفضل eSIM غانا، eSIM غانا رخيصة، eSIM غانا مسبقة الدفع، باقة eSIM غانا، eSIM غانا غير محدودة، eSIM غانا 5G، أفضل eSIM لـ غانا، سعر eSIM غانا، تفعيل eSIM غانا، تغطية eSIM غانا، MTN Ghana غانا، eSIM أكرا، eSIM كوماسي، eSIM سيكوندي تاكورادي
+  low_price: 7.99
+  high_price: 94.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/gh.svg
   flag_alt: علم غانا
-  title: 'eSIM غانا: شبكة وتغطية موثوقة للمسافرين'
+  title: 'eSIM غانا: اتصال موثوق في كل مدينة'
   subtitle: 5G سريع | تسليم QR فوري | دعم بشري 24/7 - أفضل eSIM مسبق الدفع لغانا
 features:
-  title: 'لماذا يختار مسافرو غانا Roami: الخطط، الشبكة والدعم'
+  title: 'ميزات Roami: تغطية قوية ودعم على مدار الساعة في غانا'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي غانا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM غانا: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM غانا: مرونة كاملة بدون أيام مهدرة'
 plans_data:
   30 يومًا:
   - spec: 3GB
@@ -261,7 +261,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'المدة: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM غانا: دليل مشغلي الشبكات المحمولة'
+  title: 'eSIM غانا: تغطية 5G والمشغلين المحليين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -292,7 +292,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM غانا: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM غانا: نصائح سريعة قبل بدء الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -311,7 +311,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على الشاشة، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM غانا: 3 خطوات بسيطة'
+  title: 'eSIM غانا: دليل التركيب والتفعيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -336,7 +336,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM غانا
+    title: أسئلة الزوار الشائعة عن eSIM غانا
     questions:
     - q: |
         كيف يقارن Roami بـ Airalo من حيث eSIM في غانا؟
@@ -349,7 +349,7 @@ faq_section:
     - q: |
         ما الميزانية التي يجب أن أخُصصها لـ eSIM عند زيارة غانا؟
       a: |
-        يقدم Roami eSIM غانا من 1.99 دولار لخطة خفيفة لمدة 7 أيام حتى 59.99 دولار لبيانات غير محدودة لمدة 30 يومًا. يختار معظم الزوار خطة 5 جيجابايت / 15 يومًا بسعر 9.99 دولار — وهي تغطي الملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة دون إجهاد. يجب على عشاق البث أو مستخدمي وسائل التواصل الاجتماعي الكثيفين التفكير في 10 جيجابايت أو غير محدود. توفر MTN سرعات موثوقة في جميع أنحاء غانا. خطط Roami مدفوعة مسبقًا — لا فواتير مفاجئة، لا تجديد تلقائي، فقط تسعير واضح.
+        يقدم Roami eSIM غانا من 7.99 دولار لخطة خفيفة لمدة 7 أيام حتى 22.99 دولار لبيانات غير محدودة لمدة 3 يومًا. يختار معظم الزوار خطة 5 جيجابايت / 15 يومًا بسعر 10.99 دولار — وهي تغطي الملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة دون إجهاد. يجب على عشاق البث أو مستخدمي وسائل التواصل الاجتماعي الكثيفين التفكير في 10 جيجابايت أو غير محدود. توفر MTN سرعات موثوقة في جميع أنحاء غانا. خطط Roami مدفوعة مسبقًا — لا فواتير مفاجئة، لا تجديد تلقائي، فقط تسعير واضح.
     - q: |
         هل يقوم Roami بالتبديل بين MTN و Vodafone و AirtelTigo في غانا تلقائيًا؟
       a: |
@@ -357,7 +357,7 @@ faq_section:
     - q: |
         هل ستنخفض سرعة الخطة غير المحدودة لـ eSIM غانا إذا استخدمت بيانات كثيرة؟
       a: |
-        توجد سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والملاحة والتصفح — فقط لا يمكن بث الفيديو بسلاسة. في الواقع، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقًا، فإن الخطة الثابتة 10 جيجابايت (14.99 دولار) أو 20 جيجابايت (24.99 دولار) تزيل عدم اليقين تمامًا.
+        توجد سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والملاحة والتصفح — فقط لا يمكن بث الفيديو بسلاسة. في الواقع، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقًا، فإن الخطة الثابتة 10 جيجابايت (18.99 دولار) أو 20 جيجابايت (38.99 دولار) تزيل عدم اليقين تمامًا.
     - q: |
         هل يمكنني الاحتفاظ ببطاقة SIM المنزلية في هاتفي أثناء استخدام eSIM في غانا؟
       a: |
@@ -369,64 +369,76 @@ faq_section:
     - q: |
         أحتاج إلى اتصال إنترنت لبضعة أيام فقط في غانا. ما هو الحد الأدنى الذي يمكنني شراؤه؟
       a: |
-        أرخص خطة هي 1.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لرحلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك الشحن في أي وقت من التطبيق.
+        أرخص خطة هي 7.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لرحلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك الشحن في أي وقت من التطبيق.
+    - q: |
+        هل يمكنني شراء eSIM غانا في يوم السفر؟
+      a: |
+        يمكن شراء eSIM غانا قبل السفر أو بعده. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        كم يمكن توفيره باستخدام eSIM في غانا؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM غانا شبكة محلية مباشرة (MTN Ghana) فيكون أوفر. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        هل يمكنني البدء بباقة صغيرة ثم زيادتها لاحقًا في غانا؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM ذات الصلة لغانا
+  title: باقات eSIM أخرى قد تهمك مع غانا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
+  - name: eSIM ساحل العاج
+    flag: img/flags/ci.svg
+    price: من 9.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM السنغال
+    flag: img/flags/se.svg
+    price: من 12.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM باراغواي
+    flag: img/flags/py.svg
+    price: من 22.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM جورجيا
+    flag: img/flags/ge.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM المكسيك
+    flag: img/flags/mx.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM ماليزيا
+    flag: img/flags/my.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
+  - name: eSIM سنغافورة
+    flag: img/flags/sg.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
+  - name: eSIM سلوفاكيا
+    flag: img/flags/sl.svg
     price: من 1.99 دولار
     is_highlight: false
   - name: eSIM إسبانيا
     flag: img/flags/es.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
+  - name: eSIM تنزانيا
+    flag: img/flags/tz.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM اليابان
+    flag: img/flags/jp.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM غويانا الفرنسية
+    flag: img/flags/gf.svg
+    price: من 3.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM غانا مقابل بطاقة SIM المدفوعة مسبقًا: كل ما يجب أن تأخذه في الاعتبار'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في غانا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM المدفوعة مسبقًا (غانا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Ghana
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

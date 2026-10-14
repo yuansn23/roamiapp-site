@@ -1,6 +1,6 @@
 ---
 title: 'eSIM تايلاند 2026 - أفضل خطة 5G لبانكوك وبوكيت | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM تايلاند - أفضل خطة بيانات 5G مسبقة الدفع لرحلتك"
   description: "أفضل eSIM مسبق الدفع لتايلاند مع 5G على AIS و TrueMove و dtac. تفعيل فوري عبر QR بدون هوية. تجاوز طوابير المطار. اشترِ خطتك الآن."
-  keywords: eSIM تايلاند، شراء eSIM تايلاند، أفضل eSIM تايلاند، eSIM السفر إلى تايلاند، AIS تايلاند، TrueMove تايلاند، dtac تايلاند، eSIM بانكوك، eSIM شيانغ ماي، eSIM بوكيت، eSIM مسبق الدفع تايلاند، 5G eSIM تايلاند، eSIM لسونغكران، eSIM جزر بي بي، eSIM كرابي
+  keywords: eSIM تايلاند، شراء eSIM تايلاند، أفضل eSIM تايلاند، eSIM تايلاند رخيصة، eSIM تايلاند مسبقة الدفع، باقة eSIM تايلاند، eSIM تايلاند غير محدودة، eSIM تايلاند 5G، أفضل eSIM لـ تايلاند، سعر eSIM تايلاند، تفعيل eSIM تايلاند، تغطية eSIM تايلاند، AIS تايلاند، eSIM بانكوك، eSIM شيانغ ماي، eSIM بوكيت
   low_price: 1.99
-  high_price: 39.9
+  high_price: 42.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المشمولة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/th.svg
   flag_alt: علم تايلاند
-  title: 'eSIM تايلاند: 5G في بانكوك وبوكيت وما بعدها — لا حاجة لمسح الوجه'
+  title: 'eSIM تايلاند: 5G سريع بدون انتظار في المتاجر'
   subtitle: لا قياسات حيوية مطلوبة | 5G على AIS و TrueMove و dtac | تجاوز طوابير SIM في المطار | تسليم فوري عبر QR
 features:
-  title: 'لماذا يختار المسافرون إلى تايلاند Roami: التغطية والسرعة والخدمة'
+  title: لماذا تختار eSIM تايلاند من Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بـ AIS و TrueMove و dtac للحصول على أفضل إشارة في جميع أنحاء تايلاند
-plans_title: 'شراء eSIM تايلاند: خطط تناسب كل مدة رحلة'
+plans_title: 'خطط eSIM تايلاند: بيانات تكفي رحلتك بأكملها'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -277,7 +277,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM تايلاند: دليل شبكات AIS و TrueMove و dtac'
+  title: 'تغطية eSIM تايلاند: مقارنة المشغلين والسرعة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -308,7 +308,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM تايلاند: ما يجب معرفته قبل السفر'
+  title: 'جهّز eSIM تايلاند: تذكيرات أساسية قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -329,7 +329,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM تايلاند: 3 خطوات بسيطة'
+  title: 'تركيب eSIM تايلاند: الدليل المبسّط'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -354,7 +354,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM تايلاند
+    title: ما يريد المسافرون معرفته عن eSIM تايلاند
     questions:
     - q: |
         هل أحتاج حقًا إلى مسح وجه أو بصمة لاستخدام eSIM تايلاند من Roami؟
@@ -392,63 +392,75 @@ faq_section:
         هل يمكنني زيادة رصيد eSIM تايلاند إذا نفدت البيانات؟
       a: |
         نعم — يمكنك زيادة الرصيد عبر حساب Roami الخاص بك في أي وقت. على عكس بطاقات SIM في المطار التايلاندي (التي لا يمكن شحنها أو تمديدها)، يمنحك Roami مرونة كاملة لإضافة البيانات حسب الحاجة. لا حاجة لشراء SIM جديدة تمامًا أو زيارة متجر.
+    - q: |
+        كيف يصل رمز QR عند شراء eSIM تايلاند؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM تايلاند عبر الإنترنت. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        ما الفرق بين باقات eSIM تايلاند الرخيصة والغالية؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM تايلاند شبكة محلية مباشرة (AIS) فيكون أوفر. بطاقات SIM المحلية في تايلاند تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        ما خطوات إعادة شراء البيانات في تايلاند؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM ذات الصلة لتايلاند
+  title: باقات eSIM لوجهات مرتبطة بـ تايلاند
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM إندونيسيا
+    flag: img/flags/id.svg
+    price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM تشيلي
+    flag: img/flags/cl.svg
+    price: من 4.99 دولار
     is_highlight: true
+  - name: eSIM غواتيمالا
+    flag: img/flags/gt.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM الأرجنتين
+    flag: img/flags/ar.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM البرازيل
+    flag: img/flags/br.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM المجر
+    flag: img/flags/hu.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بيلاروسيا
+    flag: img/flags/by.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بنما
+    flag: img/flags/pa.svg
+    price: من 11.99 دولار
+    is_highlight: false
   - name: eSIM كندا
     flag: img/flags/ca.svg
-    price: ابتداءً من 1.99 دولار
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM سيراليون
+    flag: img/flags/si.svg
+    price: من 10.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM ماكاو
+    flag: img/flags/ma.svg
+    price: من 1.99 دولار
     is_highlight: false
   - name: eSIM ألمانيا
     flag: img/flags/de.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: ابتداءً من 1.99 دولار
+    price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM تايلاند مقابل بطاقة SIM الفعلية: أيهما أفضل للسفر؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في تايلاند مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (تايلاند) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Thailand
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مسبقة الدفع (بيانات السوق)

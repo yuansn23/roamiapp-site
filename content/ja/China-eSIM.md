@@ -1,6 +1,6 @@
 ---
 title: 中国 eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:02:41+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: 中国移動, 中国聯通, 中国電信
   competitors: Airalo, Holafly, Nomad, Ubigi, Flexiroam
   main_cities: 北京、上海、広州、深圳、成都
-  main_packages: 3/7/15/30日、データ無制限
+  main_packages: 3/7/15/30日、1〜50GB
 modal:
   title: サービスアップデートのお知らせ！
   btn_text: 続行
@@ -19,8 +19,10 @@ modal:
     当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました！<br>新規のお客様はコード <strong>web20</strong> で20%オフ！
 seo:
   title: eSIM 中国 | LINE・Googleマップ・SNSが使い放題のデータプラン
-  description: 中国旅行にはRoamiのeSIMが最適。現地最速ネットワークに自動接続し、1GB/$1.99から無制限まで選べるデータプラン。QRコードで即時アクティベーション、日本語サポート24時間対応で到着後すぐに使えます。
-  keywords: 中国 eSIM, 中国旅行 eSIM, 中国データ通信, 中国 格安 eSIM, 中国 モバイルデータ
+  description: 中国への旅行はeSIMでスマートに。1.99ドルからのプランを選べ、LINEやGoogleマップも快適。アクティベーションはQRコードで簡単です。
+  low_price: 1.99
+  high_price: 39.99
+  keywords: 中国 eSIM, 中国 eSIM 料金, 中国 eSIM おすすめ, 中国 eSIM 安い, 中国 eSIM 購入, 中国 eSIM 申し込み, 中国 eSIM データプラン, 中国 プリペイドSIM, 中国 旅行 eSIM, 中国 eSIM 価格, 中国 eSIM 設定方法, 中国 eSIM 対応エリア, 北京 eSIM, 上海 eSIM, 中国 モバイルデータ, 中国 eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: 中国向け最高のeSIM
-  title: 中国 eSIM，海外旅行流量不愁
+  title: 中国 eSIMで快適なインターネット環境を
 hero:
   flag_image: img/flags/cn.svg
   flag_alt: 中国の国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: 料金プラン一覧
 plans_data:
   30 日:
   - spec: 20GB
@@ -274,7 +276,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: お客様へのお知らせ
   items:
   - icon: 📱
     html: |-
@@ -330,7 +332,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. 基本と概要
     questions:
     - q: 旅行前に中国用eSIMをインストールして、後でアクティベーションすることはできますか？
       a: はい、今すぐ（Wi-Fi経由で）eSIMをインストールできます。アクティベーションは、中国に到着した際に端末が中国移動 / 中国聯通のネットワークを初めて検出したときに自動的に行われます。到着時のストレスを軽減できます。
@@ -340,7 +342,7 @@ faq_section:
       a: はい、デュアルSIM端末では両方のプロファイルを同時に使用できます。モバイルデータにはRoami eSIMをデフォルトに設定するだけです。通話やSMSは国内SIM経由で（ローミングが有効な場合があります）行われます。
     - q: 中国用eSIMは近隣諸国での国際ローミングはどうなりますか？
       a: 中国用eSIMは主に中国向けに最適化されています。近隣諸国への旅行には、当社のヨーロッパまたは地域別eSIMをお勧めします。これにより追加料金なしでシームレスなローミングが可能です。
-        複数国を周遊する旅行なら、地域別eSIM（ヨーロッパやアジア）を選べば国境を越えるたびに自動でネットワーク切替。追加購入や設定変更の手間がかかりません。海外旅行eSIMの地域別プランなら周遊旅行もスムーズです。
+
     - q: インストール後に中国用eSIMを別のデバイスに移行できますか？
       a: 一度インストールしたeSIMは他のデバイスに移行できません。旅行中に使用するデバイスにインストールしてください。追加のデバイスには個別にeSIMをお買い求めいただけます。
     - q: 中国用eSIMはどの5G/4Gネットワークを使用し、カバレッジはどうですか？
@@ -356,7 +358,13 @@ faq_section:
     - q: Roamiは中国以外の地域向けeSIMも提供していますか？
       a: はい、中国用eSIMの他に、ヨーロッパ、アジア、北米、グローバル向けの地域別eSIMも提供しています。複数都市をまたぐ旅行や数カ国を巡るツアーに最適です
         — SIMカードの交換は不要です。
-        ChinaのeSIMはRoamiで購入が一番お得。格安データ通信。事前に日本で準備して到着後すぐに使える便利さ。デュアルSIM対応で日本のSIMもそのまま。
+
+    - q: 中国旅行用のeSIMはオンラインで申し込みできますか？
+      a: 申し込みは公式サイトから数分で完了します。中国到着後にデータ通信をオンにすれば自動で接続され、追加の申し込みは不要です。
+    - q: 中国のeSIMと空港で買うSIM、安いのはどちらですか？
+      a: ローミングと比べると、中国用eSIMは現地ネットワーク（中国移動）を直接使うため割安です。実際の料金は選ぶプランによって異なるため、現在の価格は公式サイトでご確認ください。
+    - q: 中国用eSIMのデータ管理はアプリでできますか？
+      a: 中国滞在中にデータが不足したら、オンラインで上位のデータプランを購入して切り替えられます。現地SIMのように店舗でチャージする必要はなく、すべてオンラインで完結します。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -448,7 +456,7 @@ faq_section:
     - q: 現地のデリバリーサービスを利用するには？
       a: 美团、餓了麼、百度外売などの現地アプリをダウンロードし、中国用eSIMのモバイルデータで快適に注文します。
     - q: Apple Pay/Google Payで支払うには？
-      a: 非接触型決済や支付宝、微信支付、銀聯閃付などの現地決済方法では、中国用eSIMが完璧にインターネット認証を実行します。
+      a: 非接触型決済やAlipay、WeChat Pay、銀聯クイックパスなどの現地決済方法では、中国用eSIMが完璧にインターネット認証を実行します。
     - q: フードブロガーおすすめの隠れ家的な場所を見つけるには？
       a: YouTubeのvlogやYelpのレビューを中国用eSIMのデータで見て、グルメの隠れ家を発見します。
   - id: faq-social
@@ -519,81 +527,80 @@ faq_section:
       a: 中国用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: 中国用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        eSIM対応端末をお持ちなら物理SIMより便利。契約不要でプリペイド式、1GBから無制限まで選べる。事前購入がお得でおすすめ。
-        eSIMの設定はQRコードをスキャンするだけで完了。物理SIM不要でデュアルSIM運用も可能。最安1GB/$1.99から使える格安データ通信。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中に中国用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
-    price: 1.99ドルから
+  - name: コロンビア eSIM
+    flag: img/flags/co.svg
+    price: 4.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
-    price: 1.99ドルから
+    slug: colombia-esim
+  - name: コンゴ eSIM
+    flag: img/flags/cg.svg
+    price: 7.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
+    slug: congo-esim
+  - name: コスタリカ eSIM
+    flag: img/flags/cr.svg
+    price: 9.99ドルから
+    is_highlight: false
+    slug: costa-rica-esim
+  - name: クロアチア eSIM
+    flag: img/flags/hr.svg
     price: 1.99ドルから
     is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
+    slug: croatia-esim
+  - name: キプロス eSIM
+    flag: img/flags/cy.svg
+    price: 2.99ドルから
+    is_highlight: false
+    slug: cyprus-esim
+  - name: チェコ eSIM
+    flag: img/flags/cz.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
+    slug: czech-republic-esim
+  - name: デンマーク eSIM
+    flag: img/flags/dk.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
+    slug: denmark-esim
+  - name: ドミニカ国 eSIM
+    flag: img/flags/dm.svg
+    price: 11.99ドルから
     is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
+    slug: dominica-esim
+  - name: ドミニカ共和国 eSIM
+    flag: img/flags/do.svg
+    price: 5.99ドルから
     is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
+    slug: dominican-republic-esim
+  - name: エクアドル eSIM
+    flag: img/flags/ec.svg
+    price: 6.99ドルから
     is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
+    slug: ecuador-esim
+  - name: エジプト eSIM
+    flag: img/flags/eg.svg
+    price: 2.99ドルから
     is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
+    slug: egypt-esim
+  - name: エルサルバドル eSIM
+    flag: img/flags/sv.svg
+    price: 23.99ドルから
     is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+    slug: el-salvador-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "中国でのコストと利便性の比較：eSIMとプリペイドSIM"
   subtitle: "中国の現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (China) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/China"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -667,4 +674,3 @@ market_analysis:
         title: "テザリング制限なし"
         desc: "中国のプリペイドSIMはテザリングにFUP制限がある場合があるが、eSIMは<b>無制限テザリング</b>をサポート。複数デバイスで高速データを共有可能。"
 ---
-        eSIMの設定はQRコードをスキャンするだけで完了。物理SIM不要でデュアルSIM運用も可能。最安1GB/$1.99から使える格安データ通信。

@@ -1,6 +1,6 @@
 ---
 title: "マケドニアeSIM 2026：都市＆ネットワークガイド | Roami"
-date: '2026-06-26T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました。<br>新規のお客様はプロモーションコード <strong>web20</strong> で20%オフ！
 seo:
   title: eSIM マケドニア | 無制限データと高速5G対応おすすめ通信プラン
-  description: マケドニア旅行に最適なeSIM。事前購入で到着後すぐにインターネット接続可能。高速5G通信と国内カバレッジで観光地でも安定した通信を実現。
-  keywords: マケドニアeSIM, マケドニアeSIM購入, 最適なマケドニアeSIM, マケドニア旅行eSIM, A1 Macedonia マケドニア, Telekom Macedonia マケドニア, Lycamobile マケドニア, スコピエeSIM, オフリドeSIM, ビトラeSIM, マケドニアプリペイドeSIM, 5GマケドニアeSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: マケドニア旅行ならマケドニア eSIM。Roamiのプリペイドデータプランは4.99ドルから。QRコードで到着後すぐに接続でき、現地SIMの手続きは不要。
+  keywords: マケドニア eSIM, マケドニア eSIM 料金, マケドニア eSIM おすすめ, マケドニア eSIM 安い, マケドニア eSIM 購入, マケドニア eSIM 申し込み, マケドニア eSIM データ無制限, マケドニア プリペイドSIM, マケドニア 旅行 eSIM, マケドニア eSIM 価格, マケドニア eSIM 設定方法, マケドニア eSIM 対応エリア, スコピエ eSIM, オフリド eSIM, マケドニア モバイルデータ, マケドニア eSIM 比較
+  low_price: 4.99
+  high_price: 94.99
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +36,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: マケドニア向け最適なeSIM
-  title: 海外旅行，就选マケドニア eSIM
+  title: マケドニアへの旅行はeSIMでスマートに
 hero:
   flag_image: img/flags/ma.svg
   flag_alt: マケドニアの国旗
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動切り替え
     desc: マケドニアの主要キャリアに自動接続し最適な信号を確保
-plans_title: 'マケドニアeSIMを購入：旅行期間別プラン'
+plans_title: 旅行プランを選択
 plans_data:
   7 Days:
   - spec: 1GB
@@ -177,7 +177,7 @@ network_coverage:
       coverage: 都市部で良好なカバレッジ
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 'マケドニアeSIM設定のヒント：出発前に知っておくべきこと'
+  title: 知っておきたいこと
   items:
   - icon: 📱
     html: 購入前にスマートフォンが<a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM対応</a>であることを確認してください。
@@ -216,12 +216,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "マケドニアでeSIMはどこでも使えますか？都市部と地方のカバレッジガイド"
-  desc: Macedonia旅行の通信費を抑えるeSIM活用法。1GBから無制限まで選べるデータプラン、事前購入のメリット、現地ネットワークの自動切替機能、デュアルSIM設定の方法まで詳しくご紹介します。MacedoniaではA1 Macedoniaのネットワークに対応。
+  desc: Macedonia旅行の通信費を抑えるeSIM活用法。MacedoniaではA1 Macedoniaのネットワークに対応。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: マケドニアeSIM FAQ
+    title: 1. 基本情報
     questions:
     - q: |
         マケドニアでeSIMを使用するにはパスポートや身分証明書が必要ですか？認証はどのように行われますか？
@@ -230,16 +230,16 @@ faq_section:
     - q: |
         マケドニアの無制限eSIMプランは価値がありますか？それとも固定データプランの方が良いですか？
       a: |
-        Roamiの無制限プランには公正な上限があります：1日あたり30GBを超えると、速度が深夜まで512 kbpsに低下します。ほとんどの旅行者は1日500MB〜3GBを使用します — 30GBに達するには10時間連続で4K動画をストリーミングすることを意味します。通常のブラウジング、マップ、SNSには5GBまたは10GBプランで十分です。ヘビーなストリーミングやホットスポット共有を計画している場合は無制限を選択してください。 海外旅行eSIMならRoamiの地域別プランで周遊もスムーズです。
+        Roamiの無制限プランには公正な上限があります：1日あたり30GBを超えると、速度が深夜まで512 kbpsに低下します。ほとんどの旅行者は1日500MB〜3GBを使用します — 30GBに達するには10時間連続で4K動画をストリーミングすることを意味します。通常のブラウジング、マップ、SNSには5GBまたは10GBプランで十分です。ヘビーなストリーミングやホットスポット共有を計画している場合は無制限を選択してください。
     - q: |
         RoamiからマケドニアeSIMを購入すると何が含まれますか？
       a: |
-        5分以内のQRコード配信、Makedonski Telekomのネットワークへのアクセス、24時間カスタマーサポート、最大5台のデバイスへの無料ホットスポットが含まれます。プランは$1.99から。契約なし、隠れた料金なし、自動更新なし。
+        5分以内のQRコード配信、Makedonski Telekomのネットワークへのアクセス、24時間カスタマーサポート、最大5台のデバイスへの無料ホットスポットが含まれます。契約なし、隠れた料金なし、自動更新なし。
     - q: |
         空港のSIM販売キオスクに対処せずにマケドニアで接続を維持する最も簡単な方法は何ですか？
       a: |
         eSIMが答えです。オンラインで購入し、QRコードをメールで受け取り、2分でインストール。空港の行列をスキップ。Roamiは信頼性の高いカバレッジのためにMakedonski Telekomに接続します。自国SIMはSMS用にアクティブのままです。接続を維持する最も簡単な方法です。
-        macedonia旅行のデータ通信はRoamiにお任せ。最安1GB/$1.99、無制限プランもあり、5G対応の高速ネットワークで快適な旅をサポートします。
+
     - q: |
         マケドニアでeSIMを使ってGoogleマップなどのナビゲーションアプリを使用できますか？
       a: |
@@ -257,56 +257,73 @@ faq_section:
         マケドニアでプランの有効期限前にデータを使い切った場合はどうなりますか？
       a: |
         Roamiアプリから追加チャージできます。新しいデータは即時アクティベーション — 新しいQRコードも再インストールも不要です。中断を避けるため、残量が約20%になった時点でのチャージをお勧めします。
+    - q: スマホからマケドニア用eSIMを申し込みできますか？
+      a: 申し込みは公式サイトから数分で完了します。申し込み後はQRコードがメールで届き、A1 Macedoniaのネットワークに接続するだけで利用を開始できます。
+    - q: マケドニア用eSIMの料金はデータ容量によってどう変わりますか？
+      a: マケドニア用eSIMの料金はプランごとに明示されており、現地SIMのような追加チャージは不要です。詳しい料金比較は、各プランの内容と合わせてプラン一覧で確認できます。
+    - q: マケドニアのeSIMで残データを翌日に繰り越せますか？
+      a: マケドニア滞在中にデータが不足したら、オンラインで上位のデータプランを購入して切り替えられます。滞在日数と用途に合わせて最初に適切な容量を選ぶと、追加購入を減らせます。
 related_products:
   title: 関連eSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
-    price: $1.99から
-    is_highlight: false
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
-    price: $1.99から
-    is_highlight: false
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
-    price: $1.99から
+  - name: マダガスカル eSIM
+    flag: img/flags/mg.svg
+    price: 11.99ドルから
     is_highlight: true
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
-    price: $1.99から
+    slug: madagascar-esim
+  - name: マラウイ eSIM
+    flag: img/flags/mw.svg
+    price: 14.99ドルから
     is_highlight: false
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: $1.99から
+    slug: malawi-esim
+  - name: マレーシア eSIM
+    flag: img/flags/my.svg
+    price: 1.99ドルから
     is_highlight: false
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: $1.99から
+    slug: malaysia-esim
+  - name: モルディブ eSIM
+    flag: img/flags/mv.svg
+    price: 14.99ドルから
     is_highlight: false
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: $1.99から
+    slug: maldives-esim
+  - name: マリ eSIM
+    flag: img/flags/ml.svg
+    price: 27.99ドルから
     is_highlight: false
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: $1.99から
+    slug: mali-esim
+  - name: マルタ eSIM
+    flag: img/flags/mt.svg
+    price: 1.99ドルから
     is_highlight: false
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: $1.99から
+    slug: malta-esim
+  - name: モーリシャス eSIM
+    flag: img/flags/ma.svg
+    price: 7.99ドルから
     is_highlight: false
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: $1.99から
+    slug: mauritius-esim
+  - name: メキシコ eSIM
+    flag: img/flags/mx.svg
+    price: 3.99ドルから
     is_highlight: false
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: $1.99から
+    slug: mexico-esim
+  - name: モルドバ eSIM
+    flag: img/flags/mo.svg
+    price: 1.99ドルから
     is_highlight: false
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: $1.99から
+    slug: moldova-esim
+  - name: ネパール eSIM
+    flag: img/flags/ne.svg
+    price: 10.99ドルから
     is_highlight: false
+    slug: nepal-esim
+  - name: オランダ eSIM
+    flag: img/flags/nl.svg
+    price: 1.99ドルから
+    is_highlight: false
+    slug: netherlands-esim
+  - name: ニュージーランド eSIM
+    flag: img/flags/nz.svg
+    price: 3.99ドルから
+    is_highlight: false
+    slug: new-zealand-esim
 ---
-        格安eSIMならRoamiがおすすめ。1GB/$1.99からのデータプランで5G高速通信。24時間日本語サポートで初めての海外eSIMも安心。

@@ -1,6 +1,6 @@
 ---
 title: 'eSIM باهاماس 2026: دليل التغطية والسرعة | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,19 +9,18 @@ country_meta:
   operators: بي تي سي، أليف، كيبل باهاماس
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: ناساو، فريبورت، مارش هاربور، جورج تاون، ويست إند
-  main_packages: 3/7/15/30 يومًا، بيانات غير محدودة
+  main_packages: 7/15/30 أيام، حتى 5 جيجابايت
 modal:
   title: تم ترقية الخدمة!
   btn_text: متابعة
   text_default: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIMGo</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
 seo:
-  title: eSIM باهاماس | أفضل بيانات 5G غير محدودة للمسافرين
-  description: "أفضل eSIM سفر مدفوعة مسبقًا لباهاماس من Roami. بيانات 5G غير محدودة عبر أكثر من 700 جزيرة. تغطي ناساو وفريبورت وإكسوما. وخطط مرنة."
-  keywords: eSIM باهاماس، شراء eSIM باهاماس، أفضل eSIM باهاماس، eSIM سفر باهاماس، بي تي سي باهاماس، أليف باهاماس، كيبل باهاماس
-    باهاماس، eSIM ناساو، eSIM فريبورت، eSIM مارش هاربور، eSIM مدفوعة مسبقًا باهاماس، eSIM 5G باهاماس
-  low_price: 1.99
-  high_price: 39.9
+  title: eSIM باهاماس | أفضل بيانات 5G عالية السرعة للمسافرين
+  description: "أفضل eSIM سفر مدفوعة مسبقًا لباهاماس من Roami. بيانات 5G عالية السرعة عبر أكثر من 700 جزيرة. تغطي ناساو وفريبورت وإكسوما. وخطط مرنة."
+  keywords: eSIM باهاماس، شراء eSIM باهاماس، أفضل eSIM باهاماس، eSIM باهاماس رخيصة، eSIM باهاماس مسبقة الدفع، باقة eSIM باهاماس، باقة بيانات eSIM باهاماس، eSIM باهاماس 5G، أفضل eSIM لـ باهاماس، سعر eSIM باهاماس، تفعيل eSIM باهاماس، تغطية eSIM باهاماس، بي تي سي باهاماس، eSIM ناساو، eSIM فريبورت، eSIM مارش هاربور
+  low_price: 16.99
+  high_price: 67.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -41,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/bs.svg
   flag_alt: علم باهاماس
-  title: 'eSIM باهاماس: بيانات 5G سريعة لكل مدينة ووجهة'
+  title: 'eSIM باهاماس: بياناتك جاهزة قبل الإقلاع'
   subtitle: لا رسوم خفية | إنترنت بدون قلق | دعم 24/7 - أفضل eSIM مدفوعة مسبقًا للمسافرين إلى باهاماس
 features:
-  title: 'لماذا يختار المسافرون إلى باهاماس Roami: التغطية والسرعة والخدمة'
+  title: لماذا يفضّل المسافرون إلى باهاماس روامي
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي باهاماس للحصول على أفضل إشارة
-plans_title: 'شراء eSIM باهاماس: خطط لكل مدة رحلة'
+plans_title: اختر باقة eSIM باهاماس المناسبة لمدة سفرك
 plans_data:
   30 يومًا:
   - spec: 1 جيجابايت
@@ -125,7 +124,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM باهاماس: دليل المشغلين وخريطة التغطية'
+  title: 'تغطية eSIM باهاماس: من المدن الكبرى إلى الريف'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -156,7 +155,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM باهاماس: ما يجب معرفته قبل السفر'
+  title: 'تحضيرات eSIM باهاماس: تذكيرات مهمة للمسافر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -176,7 +175,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM باهاماس: 3 خطوات بسيطة'
+  title: كيفية تفعيل eSIM باهاماس على هاتفك
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -201,7 +200,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM باهاماس
+    title: توضيحات حول eSIM باهاماس
     questions:
     - q: |
         هل من الآمن تحميل جواز سفري لتسجيل eSIM باهاماس؟ أنا قلق بشأن الخصوصية.
@@ -210,7 +209,7 @@ faq_section:
     - q: |
         ما هي أرخص خيارات eSIM لرحلة إلى باهاماس؟
       a: |
-        تبدأ خطط Roami eSIM لباهاماس من 1.99 دولار (7 أيام، 1 جيجابايت) وتصل إلى 59.99 دولارًا (30 يومًا غير محدود). لرحلة نموذجية مدتها 5-7 أيام، تعتبر خطة 5 جيجابايت بسعر 9.99 دولار هي النقطة المثالية — وهي كافية للخرائط والمراسلة وتفقد وسائل التواصل الاجتماعي. هل تحتاج إلى بث الفيديو أو العمل عن بُعد؟ اختر 10 جيجابايت أو غير محدود. تستخدم باهاماس 4G والتي تتعامل مع الخرائط والمراسلة بشكل جيد. تتقاضى أكشاك SIM في المطار 30-50% أكثر، وعليك الانتظار في الطابور. لست متأكدًا من احتياجاتك للبيانات؟ ابدأ بخطة صغيرة وقم بالشحن الإضافي عبر التطبيق دون تغيير eSIM الخاص بك.
+        تبدأ خطط Roami eSIM لباهاماس من 16.99 دولار (7 أيام، 1 جيجابايت) وتصل إلى 59.99 دولارًا (30 يومًا غير محدود). لرحلة نموذجية مدتها 5-7 أيام، تعتبر خطة 5 جيجابايت بسعر 67.99 دولار هي النقطة المثالية — وهي كافية للخرائط والمراسلة وتفقد وسائل التواصل الاجتماعي. هل تحتاج إلى بث الفيديو أو العمل عن بُعد؟ اختر 10 جيجابايت أو غير محدود. تستخدم باهاماس 4G والتي تتعامل مع الخرائط والمراسلة بشكل جيد. تتقاضى أكشاك SIM في المطار 30-50% أكثر، وعليك الانتظار في الطابور. لست متأكدًا من احتياجاتك للبيانات؟ ابدأ بخطة صغيرة وقم بالشحن الإضافي عبر التطبيق دون تغيير eSIM الخاص بك.
     - q: |
         كيف يقارن Roami بـ Airalo لـ eSIM في باهاماس؟
       a: |
@@ -235,51 +234,63 @@ faq_section:
         متى تبدأ فترة صلاحية eSIM باهاماس الخاصة بي؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في باهاماس، وليس عند الشراء أو التثبيت. لذا يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة. تمنحك خطة 7 أيام 7 أيام كاملة من أول اتصال.
+    - q: |
+        هل يعمل eSIM باهاماس فور شرائه؟
+      a: |
+        يمكن شراء eSIM باهاماس قبل السفر أو بعده. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        هل eSIM باهاماس أرخص من العروض الأخرى؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في باهاماس أسهل. بطاقات SIM المحلية في باهاماس تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        ماذا أفعل إذا أوشكت بيانات eSIM باهاماس على النفاد؟
+      a: |
+        عند نفاد بيانات eSIM باهاماس يمكنك إضافة باقة بيانات جديدة من نفس الحساب. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM ذات الصلة بباهاماس
+  title: خطط eSIM لرحلات متعددة انطلاقًا من باهاماس
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM أيرلندا
+    flag: img/flags/ie.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM منغوليا
+    flag: img/flags/mo.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM الهند
+    flag: img/flags/in.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM قبرص
+    flag: img/flags/cy.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM أوغندا
+    flag: img/flags/ug.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM بوتسوانا
+    flag: img/flags/bw.svg
+    price: من 14.99 دولار
+    is_highlight: false
+  - name: eSIM تونس
+    flag: img/flags/tn.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM عمان
+    flag: img/flags/om.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM السويد
+    flag: img/flags/se.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
   - name: eSIM هونغ كونغ
     flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
     price: من 1.99 دولار
     is_highlight: false
   - name: eSIM أستراليا
@@ -290,8 +301,8 @@ market_analysis:
   title: 'مقارنة eSIM باهاماس ببطاقات SIM المدفوعة مسبقًا: ما تحتاج إلى معرفته'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في باهاماس مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM للبيانات المدفوعة مسبقًا (باهاماس) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Bahamas
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

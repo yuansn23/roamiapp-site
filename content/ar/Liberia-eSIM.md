@@ -1,6 +1,6 @@
 ---
 title: 'eSIM ليبيريا 2026: دليل التغطية والسرعة | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Orange Liberia, Lonestar Cell MTN, LiberCell
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: مونروفيا, غبارنغا, بوكانان, كاكاتا, زويدرو
-  main_packages: 3/7/15/30 يومًا, بيانات غير محدودة
+  main_packages: 7/15/30 يومًا، حتى 5 جيجابايت
 modal:
   title: تم ترقية الخدمة!
   btn_text: متابعة
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>يتمتع العملاء الجدد بخصم 20%، رمز الترويج: web20'
 seo:
   title: "eSIM ليبيريا: دليل تغطية Orange و Lonestar 5G الكامل"
-  description: "قارن خطط eSIM ليبيريا مع 5G سريع في مونروفيا وغبارنغا. تغطية Orange و Lonestar Cell و LiberCell. تفعيل فوري من 1.99 دولار."
-  keywords: eSIM ليبيريا, شراء eSIM ليبيريا, أفضل eSIM ليبيريا, eSIM سفر ليبيريا, Orange ليبيريا, Lonestar Cell MTN ليبيريا, LiberCell ليبيريا, eSIM مونروفيا, eSIM غبارنغا, eSIM بوكانان, eSIM ليبيريا مسبقة الدفع, 5G eSIM ليبيريا
-  low_price: 1.99
-  high_price: 39.9
+  description: "قارن خطط eSIM ليبيريا مع 5G سريع في مونروفيا وغبارنغا. تغطية Orange و Lonestar Cell و LiberCell. تفعيل فوري من 27.99 دولار."
+  keywords: eSIM ليبيريا، شراء eSIM ليبيريا، أفضل eSIM ليبيريا، eSIM ليبيريا رخيصة، eSIM ليبيريا مسبقة الدفع، باقة eSIM ليبيريا، باقة بيانات eSIM ليبيريا، eSIM ليبيريا 5G، أفضل eSIM لـ ليبيريا، سعر eSIM ليبيريا، تفعيل eSIM ليبيريا، تغطية eSIM ليبيريا، Orange Liberia ليبيريا، eSIM مونروفيا، eSIM غبارنغا، eSIM بوكانان
+  low_price: 27.99
+  high_price: 99.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/lr.svg
   flag_alt: علم ليبيريا
-  title: 'eSIM ليبيريا: بيانات 5G سريعة لكل مدينة ووجهة'
+  title: 'eSIM ليبيريا: اتصال واضح وتغطية شاملة'
   subtitle: أفضل eSIM مدفوعة مسبقًا للمسافرين إلى ليبيريا - 5G سريع، تفعيل فوري، دعم 24/7
 features:
-  title: 'لماذا يختار المسافرون إلى ليبيريا Roami: السرعة والتغطية والدعم'
+  title: لماذا تفضّل روامي لرحلة ليبيريا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات النقل في ليبيريا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM ليبيريا: خطط تناسب كل مدة رحلة'
+plans_title: 'شراء باقة eSIM ليبيريا: خطط بسيطة وأسعار شفافة'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -105,7 +105,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM ليبيريا: دليل كامل للشبكات المحلية'
+  title: 'تغطية eSIM ليبيريا: من العاصمة إلى المناطق النائية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -136,7 +136,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM ليبيريا: ما يجب معرفته قبل الذهاب'
+  title: 'تحضير eSIM ليبيريا: أهم النقاط قبل الانطلاق'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -155,7 +155,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM ليبيريا: 3 خطوات بسيطة'
+  title: 'تفعيل eSIM ليبيريا: طريقة بسيطة وسريعة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -180,7 +180,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM ليبيريا
+    title: ما تحتاج معرفته عن eSIM ليبيريا
     questions:
     - q: |
         كيف تقارن MTN و Lonestar Cell و Liberia Telecom لسائح يزور ليبيريا؟
@@ -197,7 +197,7 @@ faq_section:
     - q: |
         هل eSIM أرخص من التجوال الدولي لليبيريا؟
       a: |
-        نعم - عادة ما تكون Roami eSIM أرخص بنسبة 80-90٪ من خطط التجوال من معظم شركات النقل المنزلية. تبلغ تكلفة خطة 5 جيجابايت لليبيريا 9.99 دولارًا، بينما يمكن أن تكلف التجوال 50 دولارًا أو أكثر لنفس البيانات. كما تحصل على سرعات شبكة محلية بدلاً من التجوال المخفض.
+        نعم - عادة ما تكون Roami eSIM أرخص بنسبة 80-90٪ من خطط التجوال من معظم شركات النقل المنزلية. تبلغ تكلفة خطة 5 جيجابايت لليبيريا 99.99 دولارًا، بينما يمكن أن تكلف التجوال 50 دولارًا أو أكثر لنفس البيانات. كما تحصل على سرعات شبكة محلية بدلاً من التجوال المخفض.
     - q: |
         هل يمكنني استخدام eSIM ليبيريا لوسائل التواصل الاجتماعي ومشاركة الصور مع العائلة؟
       a: |
@@ -214,63 +214,75 @@ faq_section:
         كيف تقارن eSIM بـ WiFi الجيبي للسفر إلى ليبيريا؟
       a: |
         تتفوق eSIM من حيث الراحة. لا يوجد جهاز لحمل أو شحن أو إعادته في نهاية رحلتك - يوفر حوالي 3-5 دولارات يوميًا مقارنة باستئجار WiFi الجيبي. يعمل WiFi الجيبي للمجموعات التي تضم 3+ أشخاص، لكنك مرتبط بجهاز واحد وتحتاج إلى شحنه لمدة 6-8 ساعات. مع eSIM، هاتفك هو نقطة الاتصال الخاصة بك. تتضمن جميع خطط Roami مشاركة نقطة اتصال مجانية لما يصل إلى 5 أجهزة.
+    - q: |
+        هل يمكنني شراء eSIM ليبيريا لعائلتي معًا؟
+      a: |
+        يتيح Roami شراء eSIM ليبيريا من التطبيق أو الموقع. بعد الوصول إلى ليبيريا، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        كيف يختلف eSIM ليبيريا عن باقات التجوال الدولية؟
+      a: |
+        بما أنك تختار الحجم المناسب، يكون eSIM أقل هدرًا للمال في ليبيريا. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        هل يمكنني التبديل بين عدة باقات بيانات في eSIM ليبيريا؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM ليبيريا ذات الصلة
+  title: باقات eSIM مقترحة حول ليبيريا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM أندورا
+    flag: img/flags/ad.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM إيطاليا
+    flag: img/flags/it.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM موزمبيق
+    flag: img/flags/mo.svg
+    price: من 14.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM طاجيكستان
+    flag: img/flags/tj.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM جامايكا
+    flag: img/flags/jm.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM باكستان
+    flag: img/flags/pk.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM أذربيجان
+    flag: img/flags/az.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM مدغشقر
+    flag: img/flags/mg.svg
+    price: من 11.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM غيانا
+    flag: img/flags/gy.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM البرتغال
+    flag: img/flags/pt.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM أرمينيا
+    flag: img/flags/am.svg
+    price: من 7.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM لوكسمبورغ
+    flag: img/flags/lu.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'مقارنة eSIM ليبيريا مقابل بطاقة SIM الفعلية: أيهما أفضل للسفر؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في ليبيريا مقابل حلول eSIM (معايير 2024/2025)
   citation:
-    text: 'مصدر البيانات: Wiki بطاقة بيانات SIM المدفوعة مسبقًا (ليبيريا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Liberia
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)
@@ -297,7 +309,7 @@ market_analysis:
   - icon: calendar-xmark
     title: دورة الفوترة<br>والتكلفة الضائعة
     prepaid_title: ''
-    prepaid_desc: الخطط لها دورات ثابتة مدتها 5 أيام (5 دولارات) أو 15 يومًا (15 دولارًا) أو 30 يومًا (5-40 دولارًا). لا تتجدد حزم بيانات Orange Liberia تلقائيًا؛ تتوقف الخدمة عند انتهاء الصلاحية أو نفاد البيانات. جميع الأسعار تخضع لضريبة إضافية 15٪.
+    prepaid_desc: الخطط لها دورات ثابتة مدتها 5 أيام (64.99 دولارات) أو 15 يومًا (99.99 دولارًا) أو 30 يومًا (5-99.99 دولارًا). لا تتجدد حزم بيانات Orange Liberia تلقائيًا؛ تتوقف الخدمة عند انتهاء الصلاحية أو نفاد البيانات. جميع الأسعار تخضع لضريبة إضافية 15٪.
     esim_title: خطط مرنة قصيرة المدى
     esim_desc: على عكس خطط LoneStar الثابتة لمدة 5 أيام (5 دولارات) أو 15 يومًا (15 دولارًا) التي تهدر 40٪ من التكلفة لرحلة مدتها 3 أيام، تقدم Roami خطط 7 أيام تبدأ من 1.99 دولار/جيجابايت. ادفع فقط مقابل ما تستخدمه، بدون ضريبة 15٪.
   - icon: wifi

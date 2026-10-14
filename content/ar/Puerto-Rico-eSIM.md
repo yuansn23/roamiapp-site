@@ -1,6 +1,6 @@
 ---
 title: 'eSIM بورتوريكو 2026: دليل المشغل والتغطية | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Claro بورتوريكو, Liberty بورتوريكو, T-Mobile بورتوريكو
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: سان خوان, بونسي, ماياغويز, كاغواس, كارولينا
-  main_packages: 3/7/15/30 يوم, بيانات غير محدودة
+  main_packages: 7/15/30 يوم، حتى 30 جيجابايت
 modal:
   title: تم ترقية الخدمة!
   btn_text: متابعة
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20٪، كود الخصم: web20'
 seo:
   title: eSIM بورتوريكو | خطة بيانات مدفوعة مسبق 5G للمسافرين
-  description: "أفضل eSIM مدفوع مسبق للسفر من Roami إلى بورتوريكو. بيانات 5G غير محدودة في الجزيرة. تغطي سان خوان وبونسي. تفعيل فوري. وخطط مرنة."
-  keywords: eSIM بورتوريكو, شراء eSIM بورتوريكو, أفضل eSIM بورتوريكو, eSIM سفر بورتوريكو, Claro بورتوريكو بورتوريكو, Liberty بورتوريكو بورتوريكو, T-Mobile بورتوريكو بورتوريكو, eSIM سان خوان, eSIM بونسي, eSIM ماياغويز, eSIM مدفوع مسبق بورتوريكو, 5G eSIM بورتوريكو
-  low_price: 1.99
-  high_price: 39.9
+  description: "أفضل eSIM مدفوع مسبق للسفر من Roami إلى بورتوريكو. بيانات 5G عالية السرعة في الجزيرة. تغطي سان خوان وبونسي. تفعيل فوري. وخطط مرنة."
+  keywords: eSIM بورتوريكو، شراء eSIM بورتوريكو، أفضل eSIM بورتوريكو، eSIM بورتوريكو رخيصة، eSIM بورتوريكو مسبقة الدفع، باقة eSIM بورتوريكو، باقة بيانات eSIM بورتوريكو، eSIM بورتوريكو 5G، أفضل eSIM لـ بورتوريكو، سعر eSIM بورتوريكو، تفعيل eSIM بورتوريكو، تغطية eSIM بورتوريكو، Claro بورتوريكو بورتوريكو، eSIM سان خوان، eSIM بونسي، eSIM ماياغويز
+  low_price: 6.99
+  high_price: 64.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/pu.svg
   flag_alt: علم بورتوريكو
-  title: 'eSIM بورتوريكو: ابق على اتصال أينما ذهبت'
+  title: 'eSIM بورتوريكو: تفعيل فوري وتغطية واسعة'
   subtitle: تفعيل فوري | تغطية 5G الأعلى تقييمًا | دعم 24/7 - أفضل eSIM مدفوع مسبق لبورتوريكو
 features:
-  title: 'لماذا يختار المسافرون إلى بورتوريكو Roami: الشبكة، الخطط والقيمة'
+  title: ما يجعل eSIM بورتوريكو من روامي مميزًا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي بورتوريكو للحصول على أفضل إشارة
-plans_title: 'شراء eSIM بورتوريكو: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM بورتوريكو: من 3 أيام إلى 30 يومًا'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -146,7 +146,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM بورتوريكو: مقارنة التغطية والمشغل'
+  title: 'eSIM بورتوريكو: أين تعمل الشبكة وكيف'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -177,7 +177,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM بورتوريكو: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM بورتوريكو: نصائح عملية قبل المغادرة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -196,7 +196,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM بورتوريكو: 3 خطوات بسيطة'
+  title: 'eSIM بورتوريكو: كيف تبدأ في ثلاث خطوات'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -221,7 +221,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM بورتوريكو
+    title: أسئلة عملية عن eSIM بورتوريكو
     questions:
     - q: |
         أي شبكة في بورتوريكو لديها أفضل تغطية للمسافرين — Claro أم AT&T أم T-Mobile؟
@@ -255,55 +255,67 @@ faq_section:
         ماذا لو حذفت eSIM بورتوريكو الخاص بي عن طريق الخطأ قبل رحلتي؟
       a: |
         لا مشكلة. سجل الدخول إلى حساب Roami الخاص بك لإعادة تنزيل رمز QR — يستغرق حوالي دقيقة واحدة. نوصي بحفظه كصورة شاشة أو PDF عند استلامه لأول مرة، فقط في حالة.
+    - q: |
+        ما أفضل وقت لشراء eSIM بورتوريكو قبل الرحلة؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM بورتوريكو عبر الإنترنت. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة Claro بورتوريكو لتبدأ الاستخدام فورًا.
+    - q: |
+        أيّهما أرخص في بورتوريكو، eSIM أم التجوال الدولي؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في بورتوريكو أسهل. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل يحتاج eSIM بورتوريكو إلى تعبئة إضافية؟
+      a: |
+        عند نفاد بيانات eSIM بورتوريكو يمكنك إضافة باقة بيانات جديدة من نفس الحساب. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM ذات الصلة
+  title: خطط eSIM مقترحة لوجهات مشابهة لـ بورتوريكو
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM فيجي
+    flag: img/flags/fj.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM تايوان
+    flag: img/flags/tw.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM المغرب
+    flag: img/flags/ma.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM غرينادا
+    flag: img/flags/gd.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM غانا
+    flag: img/flags/gh.svg
+    price: من 7.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM إيسواتيني
+    flag: img/flags/sz.svg
+    price: من 19.99 دولار
+    is_highlight: false
+  - name: eSIM مونتينيغرو
+    flag: img/flags/mo.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
+  - name: eSIM لاوس
+    flag: img/flags/la.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM قطر
+    flag: img/flags/qa.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM كوسوفو
+    flag: img/flags/xk.svg
+    price: من 13.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
+  - name: eSIM الكاميرون
+    flag: img/flags/cm.svg
+    price: من 27.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM كولومبيا
+    flag: img/flags/co.svg
+    price: من 4.99 دولار
     is_highlight: false
 ---

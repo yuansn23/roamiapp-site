@@ -1,6 +1,6 @@
 ---
 title: ブルガリア eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:02:34+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,13 +19,26 @@ modal:
     当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました！<br>新規のお客様はコード <strong>web20</strong> で20%オフ！
 seo:
   title: eSIM ブルガリア | 購入からスマホ設定まで最短5分で完了する手順ガイド
-  description: ブルガリアで格安・高速のデータ通信を実現するRoami。事前購入だから現地での手間いらず。万が一の通信障害時も自動で最適なネットワークに切替え。お客様満足度96%の安心サービスをご提供。
+  description: ブルガリア旅行ならブルガリア eSIM。Roamiのプリペイドデータプランは1.99ドルから。QRコードで到着後すぐに接続でき、現地SIMの手続きは不要。
+  low_price: 1.99
+  high_price: 77.99
   keywords:
   - ブルガリア eSIM
+  - ブルガリア eSIM 料金
+  - ブルガリア eSIM おすすめ
+  - ブルガリア eSIM 安い
+  - ブルガリア eSIM 購入
+  - ブルガリア eSIM 申し込み
+  - ブルガリア eSIM データ無制限
+  - ブルガリア プリペイドSIM
+  - ブルガリア 旅行 eSIM
+  - ブルガリア eSIM 価格
+  - ブルガリア eSIM 設定方法
+  - ブルガリア eSIM 対応エリア
+  - ソフィア eSIM
+  - プロブディフ eSIM
   - ブルガリア モバイルデータ
-  - ブルガリア ネットワーク
-  - ブルガリア 旅行 おすすめ
-  - ブルガリア 現地情報
+  - ブルガリア eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -41,7 +54,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: ブルガリア向け最高のeSIM
-  title: ブルガリア eSIM，海外旅行上网无忧
+  title: ブルガリア eSIMで海外旅行をもっと快適に
 hero:
   flag_image: img/flags/bg.svg
   flag_alt: ブルガリアの国旗
@@ -378,7 +391,7 @@ activation_steps:
     is_list: false
 faq_section:
   title: 'ブルガリア eSIM : よくある質問と旅行ガイド'
-  desc: ブルガリアで使える最安の旅行eSIM比較。AiraloやHolaflyより格安なRoamiの料金プラン、5G高速通信の24時間日本語サポートと返金保証付きで初めての海外eSIMも安心。。QRコード即時発行で到着後すぐに接続可能。ブルガリアではA1ブルガリアのネットワークに対応。
+  desc: ブルガリアで使える最安の旅行eSIM比較。。QRコード即時発行で到着後すぐに接続可能。ブルガリアではA1ブルガリアのネットワークに対応。
   categories:
   - id: faq-general
     icon: help-circle
@@ -394,7 +407,7 @@ faq_section:
     - q: ブルガリア用eSIMを他のデバイスとテザリング（ポケットWi-Fi）できますか？
       a: はい、Roamiのブルガリア用eSIMプランは全てテザリング（ポケットWi-Fi）を無制限でサポートしています。ノートパソコン、タブレット、または旅行仲間と接続を共有できます
         — 隠れたコストも速度制限もありません。
-        bulgaria旅行のデータ通信はRoamiにお任せ。最安1GB/$1.99、無制限プランもあり、5G対応の高速ネットワークで快適な旅をサポートします。
+
     - q: QRコードなしでブルガリア用eSIMをインストールできますか？
       a: はい、QRコードの他に、SM‑DP+アドレスとアクティベーションコード（注文確認メールに記載）を使って手動でインストールすることも可能です。QRコードが最も簡単で迅速な方法です。
     - q: ブルガリア用eSIMは近隣諸国での国際ローミングはどうなりますか？
@@ -408,8 +421,14 @@ faq_section:
 
     - q: ブルガリア用eSIMのQRコードの有効期限は？
       a: QRコードはメール送信後30日間有効です。旅行前に十分な時間があります。期限が切れた場合は、新しいコードを発行できます。
-        Bulgaria用eSIMの設定はRoamiならQRコードをスキャンするだけで完了。5G対応の高速データ通信でGoogleマップやSNSも快適。24時間日本語サポートで滞在中も安心して利用可能。
-        出発前にbulgaria用eSIMをインストールすれば、到着後すぐにデータ通信が始められます。海外旅行eSIMの準備は、自宅のWi-Fi環境で事前に完了させるのがおすすめです。
+
+
+    - q: ブルガリア用eSIMの申し込みはどこからできますか？
+      a: Roamiのブルガリア用eSIMはすべてオンラインで申し込みできます。申し込み後はQRコードがメールで届き、A1ブルガリアのネットワークに接続するだけで利用を開始できます。
+    - q: ブルガリア旅行の通信費を安く抑えるにはeSIMが有利ですか？
+      a: ブルガリアでは現地SIMの購入に店舗での登録が必要なため、eSIMのほうが結果的に安く済むことが多いです。詳しい料金比較は、各プランの内容と合わせてプラン一覧で確認できます。
+    - q: ブルガリアのeSIMは途中でデータプランを追加できますか？
+      a: 追加チャージという仕組みはなく、必要なときに新しいプランを選んで購入する形です。滞在日数と用途に合わせて最初に適切な容量を選ぶと、追加購入を減らせます。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -572,81 +591,80 @@ faq_section:
       a: ブルガリア用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: ブルガリア用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        格安eSIMならRoamiがおすすめ。1GB/$1.99からのデータプランで5G高速通信。24時間日本語サポートで初めての海外eSIMも安心。
-        eSIMのアクティベーションは現地到着後自動で完了。対応端末なら簡単設定で即座に通信開始。1GB/$1.99からの格安データプラン。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にブルガリア用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
-    price: 1.99ドルから
+  - name: ブルキナファソ eSIM
+    flag: img/flags/bf.svg
+    price: 11.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
-    price: 1.99ドルから
+    slug: burkina-faso-esim
+  - name: カンボジア eSIM
+    flag: img/flags/kh.svg
+    price: 3.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
-    price: 1.99ドルから
-    is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
+    slug: cambodia-esim
+  - name: カメルーン eSIM
+    flag: img/flags/cm.svg
+    price: 27.99ドルから
+    is_highlight: false
+    slug: cameroon-esim
+  - name: カナダ eSIM
     flag: img/flags/ca.svg
-    price: 1.99ドルから
+    price: 3.99ドルから
     is_highlight: false
     slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: 1.99ドルから
+  - name: チャド eSIM
+    flag: img/flags/td.svg
+    price: 23.99ドルから
     is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
+    slug: chad-esim
+  - name: チリ eSIM
+    flag: img/flags/cl.svg
+    price: 4.99ドルから
+    is_highlight: false
+    slug: chile-esim
+  - name: 中国 eSIM
     flag: img/flags/cn.svg
     price: 1.99ドルから
     is_highlight: false
     slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
+  - name: コロンビア eSIM
+    flag: img/flags/co.svg
+    price: 4.99ドルから
+    is_highlight: false
+    slug: colombia-esim
+  - name: コンゴ eSIM
+    flag: img/flags/cg.svg
+    price: 7.99ドルから
+    is_highlight: true
+    slug: congo-esim
+  - name: コスタリカ eSIM
+    flag: img/flags/cr.svg
+    price: 9.99ドルから
+    is_highlight: false
+    slug: costa-rica-esim
+  - name: クロアチア eSIM
+    flag: img/flags/hr.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
+    slug: croatia-esim
+  - name: キプロス eSIM
+    flag: img/flags/cy.svg
+    price: 2.99ドルから
     is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+    slug: cyprus-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "ブルガリアでのeSIMと物理SIM：旅行・コスト・設定を比較"
   subtitle: "ブルガリアの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Bulgaria) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Bulgaria"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -655,25 +673,25 @@ market_analysis:
     - icon: "store"
       title: "入手とアクティベーション"
       prepaid_title: ""
-      prepaid_desc: "保加利亚的实体SIM卡必须在机场或市区寻找A1、Yettel或Vivacom门店，排队等候，并提供护照原件进行强制KYC登记。"
+      prepaid_desc: "ブルガリアの実体SIMは、空港や市街地でA1、Yettel、Vivacomの店舗を探して行列に並び、パスポート原本を提示して強制KYC登録を行う必要があります。"
       esim_title: "即時デジタル配信"
       esim_desc: "A1やYettelの店舗で行列に並びパスポート登録する代わりに、Roami eSIMは到着前に1分でオンラインアクティベーション可能。"
     - icon: "id-card"
       title: "KYCとパスポート登録"
       prepaid_title: ""
-      prepaid_desc: "购买SIM卡必须出示有效护照或身份证进行强制注册，且每人名下全网络SIM卡总数受限（最多10张）。"
+      prepaid_desc: "SIMカードの購入には有効なパスポートまたは身分証の提示による強制登録が必要で、1人あたり全ネットワーク合計のSIMカード枚数は10枚までに制限されます。"
       esim_title: "パスポート不要"
-      esim_desc: "保加利亚の厳格なKYC（パスポート登録必須、最大10枚制限）を回避。Roami eSIMは本人確認不要で即時利用開始。"
+      esim_desc: "ブルガリアの厳格なKYC（パスポート登録必須、最大10枚制限）を回避。Roami eSIMは本人確認不要で即時利用開始。"
     - icon: "globe"
       title: "国際ローミング"
       prepaid_title: ""
-      prepaid_desc: "Yettel的Data-only SIM完全禁止国际漫游；Vivacom的Data2Go 80GB套餐在EU漫游仅19.7GB，缩水75%。"
+      prepaid_desc: "YettelのData-only SIMは国際ローミングが完全に禁止です。VivacomのData2Go 80GBプランはEUローミングで19.7GBのみとなり、75%縮小されます。"
       esim_title: "グローバルローミング対応"
-      esim_desc: "YettelのData-only SIMは国外で使用不可、Vivacomの80GBプランはEUで19.7GBに縮小。Roami eSIMは保加利亚国内でシームレスに接続。"
+      esim_desc: "YettelのData-only SIMは国外で使用不可、Vivacomの80GBプランはEUで19.7GBに縮小。Roami eSIMはブルガリア国内でシームレスに接続。"
     - icon: "calendar-xmark"
       title: "課金サイクルと無駄なコスト"
       prepaid_title: ""
-      prepaid_desc: "保加利亚主流套餐有效期多为19天（A1 Max）、28天（Vivacom Data2Go）或30天，短期游客易造成资金沉没。"
+      prepaid_desc: "ブルガリアの主流プランの有効期間は19日間（A1 Max）、28日間（Vivacom Data2Go）、30日間が多く、短期旅行者は資金を無駄にしがちです。"
       esim_title: "柔軟なプラン"
       esim_desc: "A1の19日サイクル（€5.11/15GB）やVivacomの28日サイクルとは異なり、Roamiは7日間プランを1.99ドル/GBから提供し、無駄を75%節約。"
     - icon: "wifi"
@@ -681,19 +699,19 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "此维度についてはソースに具体的なデータはありません。"
       esim_title: "無制限テザリング"
-      esim_desc: "保加利亚の物理SIMではテザリング制限がある場合があるが、Roami eSIMはテザリングを完全サポート。"
+      esim_desc: "ブルガリアの物理SIMではテザリング制限がある場合があるが、Roami eSIMはテザリングを完全サポート。"
     - icon: "credit-card"
       title: "チャージと支払い"
       prepaid_title: ""
-      prepaid_desc: "支持信用卡在线充值，但国际信用卡小额支付常因3D Secure验证失败被拒；Vivacom MixL+每21天自动扣款，需发送STOP退订。"
+      prepaid_desc: "クレジットカードでのオンラインチャージに対応していますが、国際カードの少額決済は3D Secure認証に失敗して拒否されることがよくあります。Vivacom MixL+は21日ごとに自動で課金され、STOPを送信して解約する必要があります。"
       esim_title: "グローバル決済"
-      esim_desc: "Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPalで簡単購入。保加利亚の物理SIMのような国際カード拒否や自動更新の心配なし。"
+      esim_desc: "Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPalで簡単購入。ブルガリアの物理SIMのような国際カード拒否や自動更新の心配なし。"
     - icon: "headset"
       title: "カスタマーサポート"
       prepaid_title: ""
       prepaid_desc: "此维度についてはソースに具体的なデータはありません。"
       esim_title: "24時間サポート"
-      esim_desc: "保加利亚の現地サポートは限定的だが、Roami eSIMは24時間365日の多言語チャットサポートを提供。"
+      esim_desc: "ブルガリアの現地サポートは限定的だが、Roami eSIMは24時間365日の多言語チャットサポートを提供。"
 
   # =============== エキスパート見解モジュール ===============
   expert_verdict:
@@ -703,7 +721,7 @@ market_analysis:
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
         title: "テザリング制限なし"
-        desc: "保加利亚の物理SIMにはテザリング制限がある場合があるが、Roami eSIMはテザリングを完全サポート。"
+        desc: "ブルガリアの物理SIMにはテザリング制限がある場合があるが、Roami eSIMはテザリングを完全サポート。"
       - icon: "clock"
         icon_bg: "bg-indigo-100"
         icon_color: "text-indigo-600"

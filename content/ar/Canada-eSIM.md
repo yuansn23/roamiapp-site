@@ -1,6 +1,6 @@
 ---
 title: 'eSIM كندا 2026: دليل المدن والشبكات | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM كندا | أفضل خطة بيانات غير محدودة للمسافرين"
   description: "أفضل eSIM سفر مدفوعة مسبقاً من روامي لكندا. بيانات 5G غير محدودة وتفعيل فوري. تغطي تورونتو وفانكوفر والمزيد. اشترِ خطتك الآن."
-  keywords: eSIM كندا، شراء eSIM كندا، أفضل eSIM كندا، eSIM السفر إلى كندا، روجرز كندا، بيل كندا، تيلوس كندا، eSIM تورونتو، eSIM فانكوفر، eSIM مونتريال، eSIM كندا مسبقة الدفع، 5G eSIM كندا
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM كندا، شراء eSIM كندا، أفضل eSIM كندا، eSIM كندا رخيصة، eSIM كندا مسبقة الدفع، باقة eSIM كندا، eSIM كندا غير محدودة، eSIM كندا 5G، أفضل eSIM لـ كندا، سعر eSIM كندا، تفعيل eSIM كندا، تغطية eSIM كندا، روجرز كندا، eSIM تورونتو، eSIM فانكوفر، eSIM مونتريال
+  low_price: 3.99
+  high_price: 59.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/ca.svg
   flag_alt: علم كندا
-  title: 'eSIM كندا: بيانات 5G سريعة لكل مدينة ووجهة'
+  title: 'eSIM كندا: إنترنت سريع بدون هوية أو انتظار'
   subtitle: تفعيل فوري | تغطية 5G عالية التقييم | دعم 24/7 - أفضل eSIM مسبقة الدفع لكندا
 features:
-  title: 'لماذا يختار مسافرو كندا روامي: الشبكة، الخطط والقيمة'
+  title: مزايا Roami للمسافرين إلى كندا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائياً بأفضل مشغلي كندا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM كندا: خطط تناسب كل مدة سفر'
+plans_title: 'باقات eSIM كندا: أسعار واضحة لكل رحلة'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -285,7 +285,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM كندا: تغطية الشبكة ومقارنة المشغلين'
+  title: 'eSIM كندا: نظرة على التغطية والمشغلين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -316,7 +316,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM كندا: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM كندا: أمور يجب ترتيبها قبل الوصول'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -335,7 +335,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM كندا: 3 خطوات بسيطة'
+  title: 'إعداد eSIM كندا: دليل التركيب خطوة بخطوة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -360,7 +360,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM كندا
+    title: أسئلة المسافرين حول eSIM كندا
     questions:
     - q: |
         كيف تقارن روامي بـ Airalo لـ eSIM في كندا؟
@@ -373,7 +373,7 @@ faq_section:
     - q: |
         هل يمكنني الحصول على eSIM لكندا دون إنفاق الكثير؟
       a: |
-        بالتأكيد. تبدأ خطط eSIM روامي كندا من 1.99 دولار. خيار 5 جيجابايت/15 يوماً (9.99 دولار) هو الأكثر شيوعاً بين المسافرين — يتعامل بشكل مريح مع الخرائط وواتساب وإنستغرام والبريد الإلكتروني. إذا كنت مستخدماً كثيفاً للبيانات، فإن خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) تمنحك راحة البال. تخطي كاونتر SIM المطار يوفر لك 30-50% ويجنبك عناء الطوابير. هل تحتاج إلى تعديل؟ يمكنك الشحن في أي وقت من تطبيق روامي.
+        بالتأكيد. تبدأ خطط eSIM روامي كندا من 3.99 دولار. خيار 5 جيجابايت/15 يوماً (11.99 دولار) هو الأكثر شيوعاً بين المسافرين — يتعامل بشكل مريح مع الخرائط وواتساب وإنستغرام والبريد الإلكتروني. إذا كنت مستخدماً كثيفاً للبيانات، فإن خطط 10 جيجابايت (15.99 دولار) أو غير المحدودة (50.99 دولار) تمنحك راحة البال. تخطي كاونتر SIM المطار يوفر لك 30-50% ويجنبك عناء الطوابير. هل تحتاج إلى تعديل؟ يمكنك الشحن في أي وقت من تطبيق روامي.
     - q: |
         ماذا يحدث إذا توقف eSIM كندا عن العمل في منتصف الرحلة؟
       a: |
@@ -393,64 +393,76 @@ faq_section:
     - q: |
         أحتاج إلى الوصول إلى الإنترنت لبضعة أيام فقط في كندا. ما هو الحد الأدنى الذي يمكنني شراؤه؟
       a: |
-        أرخص خطة هي 1.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لعطلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك الشحن في أي وقت من التطبيق.
+        أرخص خطة هي 3.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لعطلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك الشحن في أي وقت من التطبيق.
+    - q: |
+        هل يمكنني شراء eSIM كندا من هاتفي؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة روجرز لتبدأ الاستخدام فورًا.
+    - q: |
+        كيف يتغير سعر eSIM كندا حسب حجم البيانات؟
+      a: |
+        أسعار eSIM كندا معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل يمكن ترحيل البيانات المتبقية إلى اليوم التالي؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في كندا، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM كندا ذات الصلة
+  title: باقات eSIM إضافية لرحلة كندا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM بوركينا فاسو
+    flag: img/flags/bf.svg
+    price: من 11.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM نيبال
+    flag: img/flags/ne.svg
+    price: من 10.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
+  - name: eSIM قيرغيزستان
+    flag: img/flags/kg.svg
+    price: من 4.99 دولار
     is_highlight: false
   - name: eSIM فرنسا
     flag: img/flags/fr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
+  - name: eSIM بوليفيا
+    flag: img/flags/bo.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM بلجيكا
+    flag: img/flags/be.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
+  - name: eSIM كمبوديا
+    flag: img/flags/kh.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM مالي
+    flag: img/flags/ml.svg
+    price: من 27.99 دولار
+    is_highlight: false
+  - name: eSIM بلغاريا
+    flag: img/flags/bg.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM جزر فارو
+    flag: img/flags/fo.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM النمسا
+    flag: img/flags/at.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM فيتنام
+    flag: img/flags/vn.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM كندا مقابل بطاقة SIM الفعلية: أيهما أفضل للسفر؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقاً في كندا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (كندا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Canada
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - SIM محلية مسبقة الدفع (بيانات السوق)
@@ -477,9 +489,9 @@ market_analysis:
   - icon: calendar-xmark
     title: دورة الفوترة<br>والتكلفة المهدرة
     prepaid_title: ''
-    prepaid_desc: 'معظم الخطط لها دورات 30 يوماً: على سبيل المثال، شاتر 35 دولار/30 يوماً لـ 1 جيجابايت + 5 جيجابايت مكافأة، لاكي موبايل 30 دولار/30 يوماً لـ 1.5 جيجابايت + 5 جيجابايت مكافأة. رحلة لمدة 7 أيام تهدر أكثر من 70% من قيمة الخطة.'
+    prepaid_desc: 'معظم الخطط لها دورات 30 يوماً: على سبيل المثال، شاتر 7.99 دولار/30 يوماً لـ 3 جيجابايت + 5 جيجابايت مكافأة، لاكي موبايل 11.99 دولار/30 يوماً لـ 1.5 جيجابايت + 5 جيجابايت مكافأة. رحلة لمدة 7 أيام تهدر أكثر من 70% من قيمة الخطة.'
     esim_title: خطط مرنة قصيرة المدة
-    esim_desc: على عكس خطة لاكي موبايل لمدة 30 يوماً بـ 30 دولار (1.5 جيجابايت + 5 جيجابايت مكافأة)، تقدم روامي خططاً لمدة 7 أيام تبدأ من 1.99 دولار/جيجابايت، مما يوفر أكثر من 70% من الهدر للرحلات القصيرة.
+    esim_desc: على عكس خطة لاكي موبايل لمدة 30 يوماً بـ 11.99 دولار (1.5 جيجابايت + 5 جيجابايت مكافأة)، تقدم روامي خططاً لمدة 7 أيام تبدأ من 1.99 دولار/جيجابايت، مما يوفر أكثر من 70% من الهدر للرحلات القصيرة.
   - icon: wifi
     title: سياسات نقطة الاتصال<br>والسرعة
     prepaid_title: ''

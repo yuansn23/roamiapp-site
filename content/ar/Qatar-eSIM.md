@@ -1,6 +1,6 @@
 ---
 title: 'eSIM قطر 2026: دليل 5G والبيانات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM قطر من 1.99 دولار: تجوال سلس في منطقة الخليج"
   description: "قارن خطط eSIM قطر مع 5G سريع في الدوحة والوكرة والخور. تغطية Ooredoo و Vodafone و Orange. تفعيل فوري عبر QR من 1.99 دولار."
-  keywords: eSIM قطر, شراء eSIM قطر, أفضل eSIM قطر, eSIM سفر قطر, Ooredoo قطر, Vodafone قطر, Orange قطر, eSIM الدوحة, eSIM الوكرة, eSIM الخور, eSIM قطر مسبقة الدفع, 5G eSIM قطر
+  keywords: eSIM قطر، شراء eSIM قطر، أفضل eSIM قطر، eSIM قطر رخيصة، eSIM قطر مسبقة الدفع، باقة eSIM قطر، eSIM قطر غير محدودة، eSIM قطر 5G، أفضل eSIM لـ قطر، سعر eSIM قطر، تفعيل eSIM قطر، تغطية eSIM قطر، Ooredoo قطر، eSIM الدوحة، eSIM الوكرة، eSIM الخور
   low_price: 1.99
-  high_price: 39.9
+  high_price: 94.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/qa.svg
   flag_alt: علم قطر
-  title: 'eSIM قطر: اتصال فوري لسفر خالٍ من القلق'
+  title: 'eSIM قطر: 5G سريع بدون انتظار في المتاجر'
   subtitle: لا رسوم خفية | إنترنت بدون قلق | دعم 24/7 - أفضل eSIM مدفوعة مسبقًا للمسافرين إلى قطر
 features:
-  title: 'لماذا يختار المسافرون إلى قطر Roami: التغطية والسرعة والخدمة'
+  title: لماذا تختار eSIM قطر من Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات النقل في قطر للحصول على أفضل إشارة
-plans_title: 'شراء eSIM قطر: خطط تناسب كل مدة رحلة'
+plans_title: 'خطط eSIM قطر: بيانات تكفي رحلتك بأكملها'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -261,7 +261,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM قطر: دليل الشبكات وخريطة التغطية'
+  title: 'تغطية eSIM قطر: مقارنة المشغلين والسرعة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -292,7 +292,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM قطر: ما يجب معرفته قبل الذهاب'
+  title: 'جهّز eSIM قطر: تذكيرات أساسية قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -311,7 +311,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM قطر: 3 خطوات بسيطة'
+  title: 'تركيب eSIM قطر: الدليل المبسّط'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -336,7 +336,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM قطر
+    title: ما يريد المسافرون معرفته عن eSIM قطر
     questions:
     - q: |
         هل تقدم Ooredoo أم Vodafone سرعات بيانات أفضل في قطر؟
@@ -357,7 +357,7 @@ faq_section:
     - q: |
         هل ستنخفض سرعة خطة eSIM قطر غير المحدودة إذا استخدمت بيانات كثيرة؟
       a: |
-        هناك سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح - فقط لا يمكن بث الفيديو بسلاسة. واقعيًا، لا يقترب معظم المسافرين من 30 جيجابايت. إذا كنت قلقًا، فإن خطة 10 جيجابايت (14.99 دولار) أو 20 جيجابايت (24.99 دولار) الثابتة تزيل عدم اليقين تمامًا.
+        هناك سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح - فقط لا يمكن بث الفيديو بسلاسة. واقعيًا، لا يقترب معظم المسافرين من 30 جيجابايت. إذا كنت قلقًا، فإن خطة 10 جيجابايت (17.99 دولار) أو 20 جيجابايت (33.99 دولار) الثابتة تزيل عدم اليقين تمامًا.
     - q: |
         ماذا أفعل إذا لم تتصل eSIM قطر عند وصولي؟
       a: |
@@ -365,60 +365,72 @@ faq_section:
     - q: |
         أحتاج إلى الوصول إلى الإنترنت لبضعة أيام فقط في قطر. ما هو الحد الأدنى الذي يمكنني شراؤه؟
       a: |
-        أرخص خطة هي 1.99 دولار لمدة 7 أيام مع 1 جيجابايت - مثالية لرحلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، قم بتعبئة الرصيد في أي وقت من خلال التطبيق.
+        أرخص خطة هي 6.99 دولار لمدة 7 أيام مع 1 جيجابايت - مثالية لرحلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، قم بتعبئة الرصيد في أي وقت من خلال التطبيق.
     - q: |
         ما هي أسهل طريقة للبقاء على اتصال في قطر دون التعامل مع أكشاك SIM في المطار؟
       a: |
         eSIM هي إجابتك. اشترِ عبر الإنترنت، واحصل على رمز QR عبر البريد الإلكتروني، وقم بالتثبيت في دقيقتين. تجنب طابور المطار. تتصل Roami بشبكة Ooredoo لتغطية موثوقة. تبقى بطاقة SIM المنزلية نشطة للرسائل النصية القصيرة. إنها الطريقة الأبسط للبقاء على اتصال.
+    - q: |
+        كيف يصل رمز QR عند شراء eSIM قطر؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM قطر عبر الإنترنت. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        ما الفرق بين باقات eSIM قطر الرخيصة والغالية؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM قطر شبكة محلية مباشرة (Ooredoo) فيكون أوفر. بطاقات SIM المحلية في قطر تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        ما خطوات إعادة شراء البيانات في قطر؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM ذات الصلة
+  title: باقات eSIM لوجهات مرتبطة بـ قطر
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM تايوان
+    flag: img/flags/tw.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM المغرب
+    flag: img/flags/ma.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM غرينادا
+    flag: img/flags/gd.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM غانا
+    flag: img/flags/gh.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM إيسواتيني
+    flag: img/flags/sz.svg
+    price: من 19.99 دولار
+    is_highlight: false
+  - name: eSIM مونتينيغرو
+    flag: img/flags/mo.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM لاوس
+    flag: img/flags/la.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM كوسوفو
+    flag: img/flags/xk.svg
+    price: من 13.99 دولار
+    is_highlight: false
+  - name: eSIM الكاميرون
+    flag: img/flags/cm.svg
+    price: من 27.99 دولار
+    is_highlight: false
+  - name: eSIM كولومبيا
+    flag: img/flags/co.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM جنوب شرق آسيا
+    flag: img/flags/ya.webp
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM ملاوي
+    flag: img/flags/mw.svg
+    price: من 14.99 دولار
     is_highlight: false
 ---

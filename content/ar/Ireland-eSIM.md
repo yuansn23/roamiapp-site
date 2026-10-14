@@ -1,6 +1,6 @@
 ---
 title: 'eSIM أيرلندا 2026: دليل الخطط والتغطية | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM أيرلندا | أفضل خطة بيانات مدفوعة مسبقاً للمسافرين"
   description: "أفضل eSIM سفر مدفوعة مسبقاً من روامي لأيرلندا. بيانات 5G غير محدودة وتفعيل فوري. تغطي دبلن وكورك وغالواي. اشترِ خطتك الآن."
-  keywords: eSIM أيرلندا، شراء eSIM أيرلندا، أفضل eSIM أيرلندا، eSIM السفر إلى أيرلندا، فودافون أيرلندا، ثري أيرلندا، إير أيرلندا، eSIM دبلن، eSIM كورك، eSIM ليمريك، eSIM أيرلندا مسبقة الدفع، 5G eSIM أيرلندا
+  keywords: eSIM أيرلندا، شراء eSIM أيرلندا، أفضل eSIM أيرلندا، eSIM أيرلندا رخيصة، eSIM أيرلندا مسبقة الدفع، باقة eSIM أيرلندا، eSIM أيرلندا غير محدودة، eSIM أيرلندا 5G، أفضل eSIM لـ أيرلندا، سعر eSIM أيرلندا، تفعيل eSIM أيرلندا، تغطية eSIM أيرلندا، فودافون أيرلندا، eSIM دبلن، eSIM كورك، eSIM ليمريك
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/ie.svg
   flag_alt: علم أيرلندا
-  title: 'eSIM أيرلندا: شبكة وتغطية موثوقة للمسافرين'
+  title: 'eSIM أيرلندا: بيانات موثوقة طوال رحلتك'
   subtitle: لا رسوم خفية | إنترنت خالٍ من القلق | دعم 24/7 - أفضل eSIM مسبقة الدفع للمسافرين إلى أيرلندا
 features:
-  title: 'لماذا يختار مسافرو أيرلندا روامي: التغطية، السرعة والخدمة'
+  title: ما يميز Roami للمسافرين إلى أيرلندا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائياً بأفضل مشغلي أيرلندا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM أيرلندا: خطط تناسب كل مدة سفر'
+plans_title: 'خطط eSIM أيرلندا: من رحلة قصيرة إلى إقامة طويلة'
 plans_data:
   7 أيام:
   - spec: 20 جيجابايت
@@ -293,7 +293,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM أيرلندا: دليل المشغل وخريطة التغطية'
+  title: 'تغطية eSIM أيرلندا: أين تحصل على أفضل إشارة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -324,7 +324,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM أيرلندا: ما يجب معرفته قبل الذهاب'
+  title: 'نصائح eSIM أيرلندا: جهّز اتصالك قبل الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -343,7 +343,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM أيرلندا: 3 خطوات بسيطة'
+  title: 'تركيب eSIM أيرلندا: من الشراء إلى الاتصال'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -368,7 +368,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM أيرلندا
+    title: استفسارات شائعة عن eSIM أيرلندا
     questions:
     - q: |
         هل يتحول روامي تلقائياً بين فودافون وإير وثري في أيرلندا؟
@@ -402,63 +402,75 @@ faq_section:
         أحتاج إلى الوصول إلى الإنترنت لبضعة أيام فقط في أيرلندا. ما هو الحد الأدنى الذي يمكنني شراؤه؟
       a: |
         أرخص خطة هي 1.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لعطلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك الشحن في أي وقت من التطبيق.
+    - q: |
+        هل يجب أن أشتري eSIM أيرلندا قبل المغادرة؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        هل تُفرض رسوم إضافية على أسعار eSIM أيرلندا؟
+      a: |
+        بما أنك تختار الحجم المناسب، يكون eSIM أقل هدرًا للمال في أيرلندا. بطاقات SIM المحلية في أيرلندا تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        هل تكفي بيانات eSIM لإقامة طويلة في أيرلندا؟
+      a: |
+        eSIM أيرلندا بنظام مسبق الدفع، ويمكن شراء باقة إضافية من التطبيق عند نقص البيانات. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM أيرلندا ذات الصلة
+  title: وجهات مرتبطة بـ أيرلندا وخططها
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM مقدونيا
+    flag: img/flags/ma.svg
+    price: من 4.99 دولار
     is_highlight: false
   - name: eSIM الصين
     flag: img/flags/cn.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+  - name: eSIM مالطا
+    flag: img/flags/mt.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
+  - name: eSIM الإكوادور
+    flag: img/flags/ec.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM باهاماس
+    flag: img/flags/bs.svg
+    price: من 16.99 دولار
+    is_highlight: false
+  - name: eSIM أيسلندا
+    flag: img/flags/is.svg
+    price: من 1.99 دولار
+    is_highlight: true
+  - name: eSIM أوكرانيا
+    flag: img/flags/uk.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
+  - name: eSIM الكونغو (كينشاسا)
+    flag: img/flags/cg.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM تشاد
+    flag: img/flags/td.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM الغابون
+    flag: img/flags/ga.svg
+    price: من 14.99 دولار
+    is_highlight: false
+  - name: eSIM تركيا
+    flag: img/flags/tr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM صربيا
+    flag: img/flags/se.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM أيرلندا مقابل SIM المدفوعة مسبقاً: أيهما مناسب لك؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقاً في أيرلندا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (أيرلندا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Ireland
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - SIM محلية مسبقة الدفع (بيانات السوق)

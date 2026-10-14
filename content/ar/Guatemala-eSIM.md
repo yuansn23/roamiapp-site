@@ -1,6 +1,6 @@
 ---
 title: 'eSIM غواتيمالا 2026: دليل السياح والشبكات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: تيغو، كلارو، موفيستار
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: مدينة غواتيمالا، أنتيغوا، كيتزالتينانغو، فلوريس، ميكسكو
-  main_packages: 3/7/15/30 يومًا، بيانات غير محدودة
+  main_packages: 7/15/30 يومًا، حتى 10 جيجابايت
 modal:
   title: تم ترقية الخدمة!
   btn_text: متابعة
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
 seo:
   title: "eSIM غواتيمالا | أفضل خطة بيانات 5G سريعة لإقامتك"
-  description: "أفضل eSIM سفر مدفوعة مسبقًا من Roami لغواتيمالا. بيانات 5G غير محدودة. تغطي مدينة غواتيمالا وأنتيغوا وكيتزالتينانغو. وخطط مرنة."
-  keywords: eSIM غواتيمالا، شراء eSIM غواتيمالا، أفضل eSIM غواتيمالا، eSIM سفر غواتيمالا، تيغو غواتيمالا، كلارو غواتيمالا، موفيستار غواتيمالا، eSIM مدينة غواتيمالا، eSIM أنتيغوا، eSIM كيتزالتينانغو، eSIM مدفوعة مسبقًا غواتيمالا، eSIM 5G غواتيمالا
-  low_price: 1.99
-  high_price: 39.9
+  description: "أفضل eSIM سفر مدفوعة مسبقًا من Roami لغواتيمالا. بيانات 5G عالية السرعة. تغطي مدينة غواتيمالا وأنتيغوا وكيتزالتينانغو. وخطط مرنة."
+  keywords: eSIM غواتيمالا، شراء eSIM غواتيمالا، أفضل eSIM غواتيمالا، eSIM غواتيمالا رخيصة، eSIM غواتيمالا مسبقة الدفع، باقة eSIM غواتيمالا، باقة بيانات eSIM غواتيمالا، eSIM غواتيمالا 5G، أفضل eSIM لـ غواتيمالا، سعر eSIM غواتيمالا، تفعيل eSIM غواتيمالا، تغطية eSIM غواتيمالا، تيغو غواتيمالا، eSIM مدينة غواتيمالا، eSIM أنتيغوا، eSIM كيتزالتينانغو
+  low_price: 11.99
+  high_price: 48.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/gt.svg
   flag_alt: علم غواتيمالا
-  title: 'eSIM غواتيمالا: حلول بيانات كاملة لرحلتك'
+  title: 'eSIM غواتيمالا: بيانات مرنة بتفعيل لحظي'
   subtitle: تفعيل فوري | تغطية 5G من الدرجة الأولى | دعم 24/7 - أفضل eSIM مدفوعة مسبقًا لغواتيمالا
 features:
-  title: 'لماذا يختار المسافرون إلى غواتيمالا Roami: الشبكة والخطط والقيمة'
+  title: 'ما يميز eSIM غواتيمالا من روامي: السرعة والخدمة'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي غواتيمالا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM غواتيمالا: خطط لكل مدة رحلة'
+plans_title: 'خطط eSIM غواتيمالا: اختر ما يناسب جدول رحلتك'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -132,7 +132,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM غواتيمالا: مقارنة التغطية والمشغلين'
+  title: 'eSIM غواتيمالا: تغطية الشبكة وأفضل المشغلين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -163,7 +163,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM غواتيمالا: ما يجب معرفته قبل السفر'
+  title: 'eSIM غواتيمالا: خطوات تحضير سريعة قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -183,7 +183,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM غواتيمالا: 3 خطوات بسيطة'
+  title: 'eSIM غواتيمالا: خطوات الإعداد والتفعيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -208,16 +208,16 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM غواتيمالا
+    title: أسئلة المسافر المتكررة عن eSIM غواتيمالا
     questions:
     - q: |
         هل يمكنني الحصول على eSIM لغواتيمالا دون إنفاق الكثير؟
       a: |
-        بالتأكيد. تبدأ خطط Roami eSIM لغواتيمالا من 1.99 دولار. خيار 5 جيجابايت / 15 يومًا (9.99 دولار) هو الأكثر شيوعًا بين المسافرين — فهو يتعامل بشكل مريح مع الخرائط وواتساب وإنستغرام والبريد الإلكتروني. إذا كنت مستخدمًا كثيفًا للبيانات، فإن خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) تمنحك راحة البال. تخطي كشك SIM في المطار يوفر لك 30-50% ومتاعب الطوابير. هل تحتاج إلى تعديل؟ يمكنك الشحن الإضافي في أي وقت من تطبيق Roami.
+        بالتأكيد. تبدأ خطط Roami eSIM لغواتيمالا من 11.99 دولار. خيار 5 جيجابايت / 15 يومًا (35.99 دولار) هو الأكثر شيوعًا بين المسافرين — فهو يتعامل بشكل مريح مع الخرائط وواتساب وإنستغرام والبريد الإلكتروني. إذا كنت مستخدمًا كثيفًا للبيانات، فإن خطط 10 جيجابايت (48.99 دولار) أو 20 جيجابايت (30.99 دولار) تمنحك راحة البال. تخطي كشك SIM في المطار يوفر لك 30-50% ومتاعب الطوابير. هل تحتاج إلى تعديل؟ يمكنك الشحن الإضافي في أي وقت من تطبيق Roami.
     - q: |
         هل ستبطئ خطة eSIM غير المحدودة في غواتيمالا إذا استخدمت كمية كبيرة من البيانات؟
       a: |
-        هناك سياسة استخدام عادل: تنخفض السرعة بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح - فقط لا يمكنك مشاهدة الفيديو بسلاسة. في الواقع، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقًا، فإن خطة ثابتة 10 جيجابايت (14.99 دولار) أو 20 جيجابايت (24.99 دولار) تزيل عدم اليقين تمامًا.
+        هناك سياسة استخدام عادل: تنخفض السرعة بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح - فقط لا يمكنك مشاهدة الفيديو بسلاسة. في الواقع، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقًا، فإن خطة ثابتة 10 جيجابايت (48.99 دولار) أو 20 جيجابايت (30.99 دولار) تزيل عدم اليقين تمامًا.
     - q: |
         أي مشغل في غواتيمالا يجب أن أعتمد عليه لـ eSIM الخاص بي؟
       a: |
@@ -242,63 +242,75 @@ faq_section:
         هل تعمل eSIM غواتيمالا في المناطق الريفية والبلدات الصغيرة؟
       a: |
         تصل التغطية في غواتيمالا إلى حوالي 95% من المناطق الحضرية ولكنها تنخفض في المواقع النائية. قد تنخفض السرعات من 200-300 ميجابت في الثانية (5G) إلى 10-30 ميجابت في الثانية (4G). يقوم Roami بالتبديل التلقائي إلى أقوى شبكة. قم بتنزيل الخرائط دون اتصال قبل التوجه إلى المناطق النائية.
+    - q: |
+        هل أحتاج إدخال تواريخ الرحلة عند شراء eSIM غواتيمالا؟
+      a: |
+        يتيح Roami شراء eSIM غواتيمالا من التطبيق أو الموقع. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة تيغو لتبدأ الاستخدام فورًا.
+    - q: |
+        هل يوفّر eSIM غواتيمالا التكلفة للإقامات الطويلة؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM غواتيمالا شبكة محلية مباشرة (تيغو) فيكون أوفر. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل هناك حد لعدد مرات إضافة البيانات إلى eSIM غواتيمالا؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM ذات الصلة بغواتيمالا
+  title: وجهات أخرى لرحلتك القادمة من غواتيمالا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM سنغافورة
+    flag: img/flags/sg.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
+  - name: eSIM سلوفاكيا
+    flag: img/flags/sl.svg
     price: من 1.99 دولار
     is_highlight: false
   - name: eSIM إسبانيا
     flag: img/flags/es.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
+  - name: eSIM تنزانيا
+    flag: img/flags/tz.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM اليابان
+    flag: img/flags/jp.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM غويانا الفرنسية
+    flag: img/flags/gf.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM النرويج
+    flag: img/flags/no.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM العراق
+    flag: img/flags/iq.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM بروناي
+    flag: img/flags/bn.svg
+    price: من 9.99 دولار
+    is_highlight: true
+  - name: eSIM مقدونيا
+    flag: img/flags/ma.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM الصين
+    flag: img/flags/cn.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM مالطا
+    flag: img/flags/mt.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'مقارنة eSIM غواتيمالا ببطاقة SIM المدفوعة مسبقًا: السرعة والتغطية والسعر'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في غواتيمالا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM للبيانات المدفوعة مسبقًا (غواتيمالا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Guatemala
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

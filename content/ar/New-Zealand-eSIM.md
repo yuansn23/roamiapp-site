@@ -1,6 +1,6 @@
 ---
 title: 'eSIM نيوزيلندا - 5G في أوكلاند وكوينزتاون | بدون هدر 30 يومًا | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20٪، كود الخصم: web20'
 seo:
   title: eSIM نيوزيلندا - خطة بيانات مدفوعة مسبق 5G للسياح
-  description: "أفضل eSIM لنيوزيلندا مع 5G على Spark و Vodafone و 2degrees. بدون خطط 30 يومًا مهدرة. تغطي أوكلاند وكوينزتاون. من 1.99 دولار."
-  keywords: eSIM نيوزيلندا, شراء eSIM نيوزيلندا, أفضل eSIM نيوزيلندا, eSIM سفر نيوزيلندا, Spark نيوزيلندا, Vodafone NZ نيوزيلندا, 2degrees نيوزيلندا, eSIM أوكلاند, eSIM ويلينغتون, eSIM كوينزتاون, eSIM مدفوع مسبق نيوزيلندا, 5G eSIM نيوزيلندا, eSIM هوبيتون
-  low_price: 1.99
-  high_price: 39.9
+  description: "أفضل eSIM لنيوزيلندا مع 5G على Spark و Vodafone و 2degrees. بدون خطط 30 يومًا مهدرة. تغطي أوكلاند وكوينزتاون. من 3.99 دولار."
+  keywords: eSIM نيوزيلندا، شراء eSIM نيوزيلندا، أفضل eSIM نيوزيلندا، eSIM نيوزيلندا رخيصة، eSIM نيوزيلندا مسبقة الدفع، باقة eSIM نيوزيلندا، eSIM نيوزيلندا غير محدودة، eSIM نيوزيلندا 5G، أفضل eSIM لـ نيوزيلندا، سعر eSIM نيوزيلندا، تفعيل eSIM نيوزيلندا، تغطية eSIM نيوزيلندا، Spark نيوزيلندا، eSIM أوكلاند، eSIM ويلينغتون، eSIM كرايستشيرش
+  low_price: 3.99
+  high_price: 99.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/nz.svg
   flag_alt: علم نيوزيلندا
-  title: 'eSIM نيوزيلندا: 5G في أوكلاند وكوينزتاون وما بعدها — بدون هدر 30 يومًا'
+  title: 'eSIM نيوزيلندا: بيانات 5G سريعة لكل مدينة ووجهة'
   subtitle: 5G على Spark و Vodafone و 2degrees | بدون خطط إجبارية لمدة 30 يومًا | تسليم فوري عبر QR
 features:
-  title: 'لماذا يختار المسافرون إلى نيوزيلندا Roami: التغطية، المرونة وبدون فخ 30 يومًا'
+  title: 'لماذا يختار المسافرون إلى نيوزيلندا Roami: السرعة والتغطية والدعم'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -273,7 +273,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM نيوزيلندا: دليل Spark و Vodafone و 2degrees 5G — الجزيرتان الشمالية والجنوبية'
+  title: 'تغطية eSIM نيوزيلندا: دليل كامل للشبكات المحلية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -304,7 +304,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM نيوزيلندا: ما يجب معرفته قبل الذهاب'
+  title: 'نصائح إعداد eSIM نيوزيلندا: ما يجب معرفته قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -359,7 +359,7 @@ faq_section:
     - q: |
         لماذا يعتبر شراء بطاقة SIM محلية في نيوزيلندا هدرًا كبيرًا للمال للرحلات القصيرة؟
       a: |
-        سوق بطاقات SIM المدفوعة مسبقًا في نيوزيلندا به <strong>خلل كبير للسياح</strong>. بطاقة One NZ Travel SIM لها <strong>حد أدنى لمدة 30 يومًا</strong> — 29 دولارًا نيوزيلنديًا مقابل 2 جيجابايت فقط من البيانات على مدى 30 يومًا. لرحلة مدتها 7 أيام، تدفع مقابل <strong>23 يومًا لا تستخدمها (أكثر من 70٪ هدر)</strong>. بطاقة Skinny Holiday SIM متاحة فقط في <strong>متجرين محددين في المطار</strong> (Christchurch Hub Convenience و Queenstown Paper Plus) — إذا هبطت في أوكلاند، لا يمكنك شراؤها. يقدم Roami <strong>خطط 3 و 7 و 15 و 30 يومًا</strong> تبدأ من 1.99 دولار — بدون التزام إجباري لمدة 30 يومًا، بدون هدر.
+        سوق بطاقات SIM المدفوعة مسبقًا في نيوزيلندا به <strong>خلل كبير للسياح</strong>. بطاقة One NZ Travel SIM لها <strong>حد أدنى لمدة 30 يومًا</strong> — 29 دولارًا نيوزيلنديًا مقابل 2 جيجابايت فقط من البيانات على مدى 30 يومًا. لرحلة مدتها 7 أيام، تدفع مقابل <strong>23 يومًا لا تستخدمها (أكثر من 70٪ هدر)</strong>. بطاقة Skinny Holiday SIM متاحة فقط في <strong>متجرين محددين في المطار</strong> (Christchurch Hub Convenience و Queenstown Paper Plus) — إذا هبطت في أوكلاند، لا يمكنك شراؤها. يقدم Roami <strong>خطط 3 و 7 و 15 و 30 يومًا</strong> تبدأ من 3.99 دولار — بدون التزام إجباري لمدة 30 يومًا، بدون هدر.
     - q: |
         هل توجد 5G في نيوزيلندا؟ ما مدى سرعتها في أوكلاند وكوينزتاون؟
       a: |
@@ -388,63 +388,75 @@ faq_section:
         متى تبدأ فترة صلاحية eSIM نيوزيلندا الخاص بي؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في نيوزيلندا، وليس عند الشراء أو التثبيت. لذا يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة. خطة 7 أيام تمنحك 7 أيام كاملة من أول اتصال.
+    - q: |
+        من أين يمكنني شراء eSIM نيوزيلندا؟
+      a: |
+        يمكن شراء eSIM نيوزيلندا من Roami بالكامل عبر الإنترنت. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة Spark لتبدأ الاستخدام فورًا.
+    - q: |
+        هل يوفر eSIM تكلفة الاتصال في نيوزيلندا؟
+      a: |
+        في نيوزيلندا يتطلب شراء بطاقة SIM المحلية تسجيلًا في المتجر، لذا غالبًا يكون eSIM أوفر. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل يمكنني إضافة باقة بيانات أثناء الإقامة في نيوزيلندا؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM ذات الصلة لنيوزيلندا
+  title: خطط eSIM ذات صلة بـ نيوزيلندا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM كرواتيا
+    flag: img/flags/hr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
+  - name: eSIM سلوفينيا
+    flag: img/flags/sl.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM هندوراس
+    flag: img/flags/hn.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM غوام
+    flag: img/flags/gu.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM أوروغواي
+    flag: img/flags/uy.svg
+    price: من 11.99 دولار
+    is_highlight: true
+  - name: eSIM بولندا
+    flag: img/flags/pl.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM الأردن
+    flag: img/flags/jo.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM كيويت
+    flag: img/flags/kw.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM نيجيريا
+    flag: img/flags/ng.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM المملكة المتحدة
     flag: img/flags/gb.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM موريشيوس
+    flag: img/flags/ma.svg
+    price: من 7.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM مولدوفا
+    flag: img/flags/mo.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM نيوزيلندا مقابل بطاقة SIM المحلية: بدون هدر 30 يومًا، بدون حظر نقطة اتصال'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في نيوزيلندا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (New Zealand) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/New-Zealand
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)
@@ -473,7 +485,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: تفرض One NZ Travel SIM <strong>حدًا أدنى 30 يومًا</strong> (29 دولارًا نيوزيلنديًا مقابل 2 جيجابايت). تفرض Skinny Holiday SIM صلاحية 30 يومًا. سائح لمدة 7 أيام يهدر <strong>أكثر من 70٪</strong> من قيمة الخطة.
     esim_title: خطط مرنة قصيرة المدى
-    esim_desc: يقدم Roami <strong>خطط 3/7/15/30 يومًا</strong> تبدأ من 1.99 دولار — ادفع فقط مقابل المدة الفعلية لرحلتك. بدون التزام إجباري لمدة 30 يومًا، بدون هدر.
+    esim_desc: يقدم Roami <strong>خطط 3/7/15/30 يومًا</strong> تبدأ من 3.99 دولار — ادفع فقط مقابل المدة الفعلية لرحلتك. بدون التزام إجباري لمدة 30 يومًا، بدون هدر.
   - icon: wifi
     title: سياسات نقطة الاتصال<br>والسرعة
     prepaid_title: ''

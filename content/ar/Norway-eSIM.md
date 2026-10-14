@@ -1,6 +1,6 @@
 ---
 title: 'النرويج eSIM 2026 - أفضل خطة 5G لأوسلو والمضايق | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: النرويج eSIM - أفضل خطة بيانات غير محدودة للزوار
   description: "أفضل eSIM مسبقة الدفع للنرويج مع 5G على تيلينور وتيليا وآيس. تفعيل فوري عبر رمز QR بدون جواز سفر. من 1.99 دولار. اشترِ خطتك الآن."
-  keywords: النرويج eSIM, شراء النرويج eSIM, أفضل النرويج eSIM, النرويج eSIM للسفر, تيلينور النرويج, تيليا النرويج, آيس النرويج, أوسلو eSIM, بيرغن eSIM, تروندهايم eSIM, النرويج eSIM مسبقة الدفع, 5G النرويج eSIM, المضايق eSIM, الشفق القطبي eSIM, ترومسو eSIM
+  keywords: eSIM النرويج، شراء eSIM النرويج، أفضل eSIM النرويج، eSIM النرويج رخيصة، eSIM النرويج مسبقة الدفع، باقة eSIM النرويج، eSIM النرويج غير محدودة، eSIM النرويج 5G، أفضل eSIM لـ النرويج، سعر eSIM النرويج، تفعيل eSIM النرويج، تغطية eSIM النرويج، تيلينور النرويج، eSIM أوسلو، eSIM بيرغن، eSIM تروندهايم
   low_price: 1.99
-  high_price: 39.9
+  high_price: 79.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/no.svg
   flag_alt: علم النرويج
-  title: 'النرويج eSIM: 5G في أوسلو وبيرغن وما وراءها'
+  title: 'eSIM النرويج: ابق على اتصال أينما تذهب'
   subtitle: لا حاجة لهوية/زيارة متجر | 5G على تيلينور وتيليا وآيس | تسليم فوري لرمز QR
 features:
-  title: 'لماذا يختار المسافرون إلى النرويج Roami: السرعة والتغطية والدعم'
+  title: 'لماذا يختار زوار النرويج Roami: تغطية واسعة ودعم 24/7'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بشبكات تيلينور وتيليا وآيس للحصول على أفضل إشارة في جميع أنحاء النرويج
-plans_title: 'شراء النرويج eSIM: خطط لكل مدة رحلة'
+plans_title: 'خطط eSIM النرويج: اختر المدة والباقة المناسبة'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -287,7 +287,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية النرويج eSIM: دليل شبكات تيلينور وتيليا وآيس'
+  title: 'تغطية eSIM النرويج: دليل مشغل الشبكة المحمولة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -318,7 +318,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد النرويج eSIM: ما يجب معرفته قبل الذهاب'
+  title: 'تحضير eSIM النرويج: قائمة ما قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -339,7 +339,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت النرويج eSIM: 3 خطوات بسيطة'
+  title: كيف تُثبّت eSIM النرويج في 3 خطوات
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -364,7 +364,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول النرويج eSIM
+    title: كل ما تتساءل عنه حول eSIM النرويج
     questions:
     - q: |
         لماذا يعتبر شراء بطاقة SIM في النرويج معقدًا جدًا للسياح؟
@@ -402,63 +402,75 @@ faq_section:
         هل يمكنني إعادة شحن eSIM النرويج الخاصة بي إذا نفدت البيانات؟
       a: |
         نعم — يمكنك إعادة الشحن من خلال حساب Roami الخاص بك في أي وقت بنقرة واحدة. على عكس بطاقات SIM النرويجية المدفوعة مسبقًا التي تتطلب شراء قسائم إعادة شحن فعلية من 7-Eleven (بدون تعليمات باللغة الإنجليزية) أو التنقل في بوابات إلكترونية نرويجية فقط، تقبل Roami طرق دفع عالمية بدون حواجز لغوية.
+    - q: |
+        ما المعلومات المطلوبة لشراء eSIM النرويج؟
+      a: |
+        يمكن شراء eSIM النرويج من Roami بالكامل عبر الإنترنت. بعد الوصول إلى النرويج، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        أيّهما أوفر في النرويج، eSIM أم راوتر Wi-Fi متنقل؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في النرويج أسهل. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        كيف أضيف بيانات إلى eSIM النرويج؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط النرويج eSIM ذات الصلة
+  title: خطط eSIM مقترحة لمسافري النرويج
   items:
-  - name: الولايات المتحدة eSIM
-    flag: img/flags/us.svg
+  - name: eSIM غوام
+    flag: img/flags/gu.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM أوروغواي
+    flag: img/flags/uy.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM بولندا
+    flag: img/flags/pl.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
+  - name: eSIM الأردن
+    flag: img/flags/jo.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM كيويت
+    flag: img/flags/kw.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM نيجيريا
+    flag: img/flags/ng.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM المملكة المتحدة
     flag: img/flags/gb.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: أوروبا eSIM
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM موريشيوس
+    flag: img/flags/ma.svg
+    price: من 7.99 دولار
     is_highlight: true
-  - name: كندا eSIM
-    flag: img/flags/ca.svg
+  - name: eSIM مولدوفا
+    flag: img/flags/mo.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: تركيا eSIM
-    flag: img/flags/tr.svg
+  - name: eSIM فيجي
+    flag: img/flags/fj.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM تايوان
+    flag: img/flags/tw.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: الصين eSIM
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: اليابان eSIM
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: هونغ كونغ eSIM
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: فرنسا eSIM
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: إسبانيا eSIM
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: ألمانيا eSIM
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أستراليا eSIM
-    flag: img/flags/au.svg
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'النرويج eSIM مقارنة ببطاقات SIM المدفوعة مسبقًا: ما تحتاج إلى معرفته'
   subtitle: 'بطاقات SIM المحلية المدفوعة مسبقًا في النرويج مقابل حلول eSIM (معيار 2024/2025)'
   citation:
-    text: 'مصدر البيانات: ويكي بطاقة بيانات SIM المدفوعة مسبقًا (النرويج) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Norway
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

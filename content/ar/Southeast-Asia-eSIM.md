@@ -1,6 +1,6 @@
 ---
 title: 'eSIM جنوب شرق آسيا 2026: دليل السياح والشبكات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Singtel, AIS, Telkomsel
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: بانكوك, سنغافورة, كوالالمبور, هانوي, مانيلا
-  main_packages: 3/7/15/30 يومًا, بيانات غير محدودة
+  main_packages: 7/15/30 يومًا، حتى 30 جيجابايت
 modal:
   title: تم ترقية الخدمة!
   btn_text: متابعة
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM جنوب شرق آسيا | أفضل خطة سفر بيانات لـ 10 دول"
   description: "أفضل eSIM سفر مدفوعة مسبقًا من Roami لجنوب شرق آسيا. بيانات 5G في تايلاند وفيتنام وماليزيا و7 دول أخرى. خطة واحدة. اشترِ الآن."
-  keywords: eSIM جنوب شرق آسيا, شراء eSIM جنوب شرق آسيا, أفضل eSIM جنوب شرق آسيا, eSIM سفر جنوب شرق آسيا, Singtel جنوب شرق آسيا, AIS جنوب شرق آسيا, Telkomsel جنوب شرق آسيا, eSIM بانكوك, eSIM سنغافورة, eSIM كوالالمبور, eSIM جنوب شرق آسيا مسبقة الدفع, 5G eSIM جنوب شرق آسيا
+  keywords: eSIM جنوب شرق آسيا، شراء eSIM جنوب شرق آسيا، أفضل eSIM جنوب شرق آسيا، eSIM جنوب شرق آسيا رخيصة، eSIM جنوب شرق آسيا مسبقة الدفع، باقة eSIM جنوب شرق آسيا، باقة بيانات eSIM جنوب شرق آسيا، eSIM جنوب شرق آسيا 5G، أفضل eSIM لـ جنوب شرق آسيا، سعر eSIM جنوب شرق آسيا، تفعيل eSIM جنوب شرق آسيا، تغطية eSIM جنوب شرق آسيا، Singtel جنوب شرق آسيا، eSIM بانكوك، eSIM سنغافورة، eSIM كوالالمبور
   low_price: 1.99
-  high_price: 39.9
+  high_price: 27.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/ya.webp
   flag_alt: علم جنوب شرق آسيا
-  title: 'eSIM جنوب شرق آسيا: حلول بيانات كاملة لرحلتك'
+  title: 'eSIM جنوب شرق آسيا: 5G فوري بدون رسوم تجوال'
   subtitle: 5G سريع | تسليم QR فوري | دعم بشري 24/7 - أفضل eSIM مدفوعة مسبقًا لجنوب شرق آسيا
 features:
-  title: 'لماذا يختار المسافرون إلى جنوب شرق آسيا Roami: الخطط والشبكة والدعم'
+  title: 'لماذا Roami خيار مسافري جنوب شرق آسيا: السرعة والسعر والدعم'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات النقل في جنوب شرق آسيا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM جنوب شرق آسيا: خطط تناسب كل مدة رحلة'
+plans_title: شراء باقة eSIM جنوب شرق آسيا بالمدة التي تحتاجها
 plans_data:
   7 أيام:
   - spec: 3 جيجابايت
@@ -203,7 +203,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM جنوب شرق آسيا: دليل مشغلي الشبكات المحمولة'
+  title: 'eSIM جنوب شرق آسيا: دليل تغطية الشبكات المحلية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -234,7 +234,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM جنوب شرق آسيا: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM جنوب شرق آسيا: إرشادات الإعداد قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -253,7 +253,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM جنوب شرق آسيا: 3 خطوات بسيطة'
+  title: 'eSIM جنوب شرق آسيا: كيفية التثبيت والتفعيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -278,7 +278,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: 1. أسئلة عامة حول eSIM جنوب شرق آسيا
+    title: أسئلة وأجوبة عن eSIM جنوب شرق آسيا
     questions:
     - q: هل يدعم هاتفي eSIM جنوب شرق آسيا؟ كيف أقوم بتثبيته؟
       a: تدعم معظم الهواتف الذكية الحديثة من iPhone XS/XR وما بعده، وSamsung Galaxy S20+، وGoogle Pixel 3+ فما فوق eSIM. يمكنك تثبيت eSIM جنوب شرق آسيا ببساطة عن طريق مسح رمز QR الذي نرسله إلى بريدك الإلكتروني في إعدادات الخلوي/البيانات المحمولة بهاتفك.
@@ -300,6 +300,18 @@ faq_section:
       a: على عكس بطاقات SIM الفعلية، لا تحتاج إلى الانتظار في الطابور في المطار أو تبديل البطاقات البلاستيكية الصغيرة. نتعاون مباشرة مع أفضل الشبكات المحلية في جنوب شرق آسيا، مثل Singtel و AIS و Telkomsel، لضمان سرعات متميزة بجزء بسيط من تكاليف التجوال.
     - q: كيف تقارن مع مقدمي eSIM المعروفين مثل Eskimo و Ubigi و Holafly و Airalo؟
       a: بينما تقدم شركات رائعة مثل Eskimo و Ubigi و Holafly و Airalo خدمات موثوقة، فإننا نركز على تقديم eSIM جنوب شرق آسيا الأكثر فعالية من حيث التكلفة، مع ضمان زمن استجابة أقل وأسعار أفضل من خلال نظام مطابقة الأسعار التلقائي.
+    - q: |
+        ما خطوات شراء eSIM جنوب شرق آسيا واستلامه؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        ما هيكل أسعار eSIM جنوب شرق آسيا؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في جنوب شرق آسيا أسهل. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        هل يمكنني شراء المزيد من البيانات إذا نفدت في جنوب شرق آسيا؟
+      a: |
+        عند نفاد بيانات eSIM جنوب شرق آسيا يمكنك إضافة باقة بيانات جديدة من نفس الحساب. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
   - id: faq-airport
     icon: plane
     tab_title: المطارات
@@ -399,7 +411,7 @@ faq_section:
     title: 7. eSIM جنوب شرق آسيا لوسائل التواصل الاجتماعي
     questions:
     - q: ما هي كمية البيانات التي أحتاجها لجنوب شرق آسيا؟
-      a: المستخدمون الخفيفون (الخرائط + المراسلة) ~300 ميجابايت/يوم، المعتدلون (وسائل التواصل الاجتماعي + الصور) ~700 ميجابايت/يوم، الثقيلون (البث + مكالمات الفيديو) اختر غير محدود. يجد معظم الزوار أن 5 جيجابايت/15 يومًا (4.99 دولار) مريحة لرحلة قياسية إلى جنوب شرق آسيا.
+      a: المستخدمون الخفيفون (الخرائط + المراسلة) ~300 ميجابايت/يوم، المعتدلون (وسائل التواصل الاجتماعي + الصور) ~700 ميجابايت/يوم، الثقيلون (البث + مكالمات الفيديو) اختر غير محدود. يجد معظم الزوار أن 5 جيجابايت/15 يومًا (5.99 دولار) مريحة لرحلة قياسية إلى جنوب شرق آسيا.
     - q: كيف يمكنني تحميل المحتوى على Instagram/TikTok دون الاتصال بشبكة Wi-Fi عامة؟
       a: يمكن أن تكون شبكة Wi-Fi العامة بطيئة وغير آمنة. تمنحك eSIM جنوب شرق آسيا 4G/5G النطاق الترددي اللازم لتحميل ملفات الفيديو الثقيلة إلى TikTok أو Instagram بأمان.
     - q: كيف يمكنني إجراء مكالمات فيديو FaceTime/WhatsApp مع العائلة؟
@@ -464,54 +476,54 @@ faq_section:
     - q: كيف يمكنني تحديث جداول السفر عبر الإنترنت في أي وقت للتواصل مع الشركة؟
       a: يمكنك الوصول إلى بوابات السفر الخاصة بشركتك أو مراسلة قسم الموارد البشرية أثناء التنقل باستخدام eSIM جنوب شرق آسيا لتحديثهم بشأن تأخيرات الرحلات أو تغييرات الجدول.
 related_products:
-  title: خطط eSIM جنوب شرق آسيا ذات الصلة
+  title: خطط eSIM قد تحتاجها بعد جنوب شرق آسيا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM دومينيكا
+    flag: img/flags/dm.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM بنغلاديش
+    flag: img/flags/bd.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM السلفادور
+    flag: img/flags/sv.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM كوريا الجنوبية
+    flag: img/flags/kr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM رومانيا
+    flag: img/flags/ro.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM جبل طارق
+    flag: img/flags/gi.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM جمهورية التشيك
+    flag: img/flags/cz.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM إندونيسيا
+    flag: img/flags/id.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM تشيلي
+    flag: img/flags/cl.svg
+    price: من 4.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM غواتيمالا
+    flag: img/flags/gt.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
+  - name: eSIM الأرجنتين
+    flag: img/flags/ar.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM البرازيل
+    flag: img/flags/br.svg
+    price: من 4.99 دولار
     is_highlight: false
 ---

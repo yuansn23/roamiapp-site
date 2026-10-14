@@ -1,6 +1,6 @@
 ---
 title: 'eSIM تونس - 4G/5G في تونس وسوسة | بدون طوابير المطار | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الخصم: web20'
 seo:
   title: "eSIM تونس - أفضل خطة بيانات 5G مسبقة الدفع لإقامتك"
-  description: "أفضل eSIM لتونس مع 4G/5G على تونس تيليكوم وأورنج وايريدو. تسليم فوري عبر QR بدون جواز سفر. تغطي تونس وسوسة. من 1.99 دولار."
-  keywords: eSIM تونس، شراء eSIM تونس، أفضل eSIM تونس، eSIM السفر إلى تونس، تونس تيليكوم تونس، أورنج تونس تونس، اريدو تونس تونس، eSIM تونس العاصمة، eSIM صفاقس، eSIM سوسة، eSIM تونس مسبقة الدفع، eSIM قرطاج، eSIM الحمامات
-  low_price: 1.99
-  high_price: 39.9
+  description: "أفضل eSIM لتونس مع 4G/5G على تونس تيليكوم وأورنج وايريدو. تسليم فوري عبر QR بدون جواز سفر. تغطي تونس وسوسة. من 3.99 دولار."
+  keywords: eSIM تونس، شراء eSIM تونس، أفضل eSIM تونس، eSIM تونس رخيصة، eSIM تونس مسبقة الدفع، باقة eSIM تونس، eSIM تونس غير محدودة، eSIM تونس 5G، أفضل eSIM لـ تونس، سعر eSIM تونس، تفعيل eSIM تونس، تغطية eSIM تونس، تونس تيليكوم تونس، eSIM صفاقس، eSIM سوسة، eSIM تونس للسفر
+  low_price: 3.99
+  high_price: 78.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/tn.svg
   flag_alt: علم تونس
-  title: 'eSIM تونس: 4G/5G في تونس وسوسة وما بعدهما'
+  title: 'eSIM تونس: إنترنت موثوق لكل رحلة'
   subtitle: 4G/5G على تونس تيليكوم وأورنج وايريدو | بدون نسخ جواز السفر | تسليم فوري عبر QR
 features:
-  title: 'لماذا يختار المسافرون إلى تونس Roami: التغطية، الراحة والدعم'
+  title: 'مزايا روامي للمسافرين إلى تونس: بساطة وموثوقية'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +73,7 @@ features:
     color: from-cyan-400 to-cyan-600
     title: تغطية الساحل والمدن
     desc: تغطية قوية 4G/5G في تونس، سوسة، الحمامات، وجميع النقاط السياحية الرئيسية
-plans_title: 'شراء eSIM تونس: خطط تناسب كل مدة رحلة'
+plans_title: 'شراء eSIM تونس: باقات لكل ميزانية'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -275,7 +275,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM تونس: دليل 4G/5G من تونس تيليكوم وأورنج وايريدو'
+  title: 'eSIM تونس: تغطية موثوقة في كل أنحاء البلد'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -306,7 +306,7 @@ network_coverage:
       coverage: تغطية ساحلية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM تونس: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM تونس: ما يجب التحقق منه قبل الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -331,7 +331,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM تونس: 3 خطوات بسيطة'
+  title: 'eSIM تونس: تثبيت سهل قبل رحلتك'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -356,7 +356,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM تونس
+    title: أسئلة شائعة عند شراء eSIM تونس
     questions:
     - q: |
         ما مدى سوء شراء بطاقة SIM في مطار تونس قرطاج؟
@@ -377,7 +377,7 @@ faq_section:
     - q: |
         لماذا خطط eSIM تونس أغلى من بعض الدول الأوروبية؟
       a: |
-        سببان رئيسيان: (1) البنية التحتية للاتصالات في تونس أقل كثافة من أوروبا، لذا فإن تكلفة البيانات لكل جيجابايت أعلى للمزودين. (2) تقلب العملة المحلية (الدينار التونسي) ورسوم الاستيراد تؤثر على تسعير eSIM الدولي. ومع ذلك، تبدأ خطط Roami <strong>من 1.99 دولار</strong> — وأنت تدفع مقابل <strong>الراحة</strong> (لا طوابير في المطار، لا نسخ جواز السفر، لا زيارة متاجر). لرحلة مدتها 7 أيام، فإن الوقت الذي توفره وحده يستحق القسط الصغير.
+        سببان رئيسيان: (1) البنية التحتية للاتصالات في تونس أقل كثافة من أوروبا، لذا فإن تكلفة البيانات لكل جيجابايت أعلى للمزودين. (2) تقلب العملة المحلية (الدينار التونسي) ورسوم الاستيراد تؤثر على تسعير eSIM الدولي. ومع ذلك، تبدأ خطط Roami <strong>من 3.99 دولار</strong> — وأنت تدفع مقابل <strong>الراحة</strong> (لا طوابير في المطار، لا نسخ جواز السفر، لا زيارة متاجر). لرحلة مدتها 7 أيام، فإن الوقت الذي توفره وحده يستحق القسط الصغير.
     - q: |
         هل يمكنني استخدام خرائط Google للتجول في تونس وقرطاج وسيدي بوسعيد؟
       a: |
@@ -389,7 +389,7 @@ faq_section:
     - q: |
         هل يمكنني الحصول على eSIM لـ تونس دون إنفاق الكثير؟
       a: |
-        بالتأكيد. تبدأ خطط eSIM تونس من Roami من <strong>1.99 دولار</strong>. خيار 5 جيجابايت / 15 يومًا (10.99 دولار) هو الأكثر شيوعًا بين المسافرين — فهو يتعامل بشكل مريح مع الخرائط وواتساب وإنستغرام ومشاركة صور العطلة. إذا كنت مستخدمًا كثيفًا للبيانات، فإن خطط 10 جيجابايت (16.99 دولار) أو 20 جيجابايت (31.99 دولار) تمنحك راحة البال. تخطي كاونتر SIM في المطار يوفر لك الوقت والمتاعب الناتجة عن الانتظار في مطار تونس قرطاج.
+        بالتأكيد. تبدأ خطط eSIM تونس من Roami من <strong>3.99 دولار</strong>. خيار 5 جيجابايت / 15 يومًا (10.99 دولار) هو الأكثر شيوعًا بين المسافرين — فهو يتعامل بشكل مريح مع الخرائط وواتساب وإنستغرام ومشاركة صور العطلة. إذا كنت مستخدمًا كثيفًا للبيانات، فإن خطط 10 جيجابايت (16.99 دولار) أو 20 جيجابايت (31.99 دولار) تمنحك راحة البال. تخطي كاونتر SIM في المطار يوفر لك الوقت والمتاعب الناتجة عن الانتظار في مطار تونس قرطاج.
     - q: |
         ماذا لو حذفت eSIM تونس قبل رحلتي عن طريق الخطأ؟
       a: |
@@ -398,63 +398,75 @@ faq_section:
         متى تبدأ فترة صلاحية eSIM تونس الخاص بي؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في تونس، وليس عند الشراء أو التثبيت. لذلك يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أيام من الخطة. تمنحك خطة 7 أيام 7 أيام كاملة من أول اتصال.
+    - q: |
+        هل يمكن شراء eSIM تونس عبر الهاتف أو في متجر؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM تونس عبر الإنترنت. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        كيف تقارن تكلفة eSIM تونس ببطاقة SIM المحلية مسبقة الدفع؟
+      a: |
+        في تونس يتطلب شراء بطاقة SIM المحلية تسجيلًا في المتجر، لذا غالبًا يكون eSIM أوفر. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        كيف أزيد حجم بيانات eSIM تونس؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM تونس ذات الصلة
+  title: خطط ذات صلة برحلتك إلى تونس
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
+  - name: eSIM تشيلي
+    flag: img/flags/cl.svg
+    price: من 4.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM غواتيمالا
+    flag: img/flags/gt.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM الأرجنتين
+    flag: img/flags/ar.svg
+    price: من 3.99 دولار
     is_highlight: true
+  - name: eSIM البرازيل
+    flag: img/flags/br.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM المجر
+    flag: img/flags/hu.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بيلاروسيا
+    flag: img/flags/by.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بنما
+    flag: img/flags/pa.svg
+    price: من 11.99 دولار
+    is_highlight: false
   - name: eSIM كندا
     flag: img/flags/ca.svg
-    price: من 1.99 دولار
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM سيراليون
+    flag: img/flags/si.svg
+    price: من 10.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
+  - name: eSIM ماكاو
+    flag: img/flags/ma.svg
     price: من 1.99 دولار
     is_highlight: false
   - name: eSIM ألمانيا
     flag: img/flags/de.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM السعودية
+    flag: img/flags/sa.svg
+    price: من 3.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM تونس مقابل البطاقة المحلية: أيهما أفضل لرحلتك؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في تونس مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقة بيانات SIM المدفوعة مسبقًا (تونس) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Tunisia
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مسبقة الدفع (بيانات السوق)
@@ -483,7 +495,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: تكلف خطة اريدو لمدة 7 أيام 1.25 جيجابايت 5 دينار تونسي؛ تبدأ خطط 30 يومًا من 10.5 دينار. تبلغ تكلفة خطة تونس تيليكوم لمدة 30 يومًا 1.1 جيجابايت 4.5 دينار. يشتري السياح قصيرو المدة أكثر مما يحتاجون.
     esim_title: خطط مرنة، بدون هدر
-    esim_desc: يقدم Roami خطط 3/7/15/30 يومًا تبدأ من 1.99 دولار — ادفع فقط مقابل مدة رحلتك الفعلية. لا التزامات إجبارية لمدة 7 أو 30 يومًا.
+    esim_desc: يقدم Roami خطط 3/7/15/30 يومًا تبدأ من 3.99 دولار — ادفع فقط مقابل مدة رحلتك الفعلية. لا التزامات إجبارية لمدة 7 أو 30 يومًا.
   - icon: wifi
     title: سياسات نقطة الاتصال<br>والسرعة
     prepaid_title: ''

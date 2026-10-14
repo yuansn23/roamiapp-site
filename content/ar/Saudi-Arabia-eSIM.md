@@ -1,6 +1,6 @@
 ---
 title: 'السعودية eSIM - 5G في الرياض وجدة | بدون KYC بصمات الأصابع | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
 seo:
   title: "السعودية eSIM | أفضل خطة بيانات 5G سريعة للمسافرين"
-  description: "أفضل السعودية eSIM مع 5G على STC وموبايلي وزين. لا حاجة لتسجيل جواز سفر. تغطي الرياض وجدة ومكة والمدينة المنورة. من 1.99 دولار."
-  keywords: السعودية eSIM, شراء السعودية eSIM, أفضل السعودية eSIM, السعودية eSIM للسفر, STC السعودية, موبايلي السعودية, زين السعودية, الرياض eSIM, جدة eSIM, مكة eSIM, السعودية eSIM مسبقة الدفع, 5G السعودية eSIM, العمرة eSIM, السعودية eSIM بدون بصمات
-  low_price: 1.99
-  high_price: 39.9
+  description: "أفضل السعودية eSIM مع 5G على STC وموبايلي وزين. لا حاجة لتسجيل جواز سفر. تغطي الرياض وجدة ومكة والمدينة المنورة. من 3.99 دولار."
+  keywords: eSIM السعودية، شراء eSIM السعودية، أفضل eSIM السعودية، eSIM السعودية رخيصة، eSIM السعودية مسبقة الدفع، باقة eSIM السعودية، eSIM السعودية غير محدودة، eSIM السعودية 5G، أفضل eSIM لـ السعودية، سعر eSIM السعودية، تفعيل eSIM السعودية، تغطية eSIM السعودية، STC السعودية، eSIM الرياض، eSIM جدة، eSIM مكة
+  low_price: 3.99
+  high_price: 96.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/sa.svg
   flag_alt: علم السعودية
-  title: 'السعودية eSIM: 5G في الرياض وجدة وما وراءها — بدون جواز سفر'
+  title: 'eSIM السعودية: شبكة قوية من اليوم الأول'
   subtitle: 5G على STC وموبايلي وزين | بدون تسجيل جواز سفر/بصمات | دعم 24/7
 features:
-  title: 'لماذا يختار المسافرون إلى السعودية Roami: التغطية والراحة وبدون KYC بيومتري'
+  title: لماذا يختار المسافرون روامي في السعودية
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -73,7 +73,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: جاهز للمدن المقدسة
     desc: تغطية 4G/5G في مكة والمدينة وجدة والرياض — ابق على اتصال للعمرة ومشاهدة المعالم
-plans_title: 'شراء السعودية eSIM: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM السعودية: بيانات مرنة بأسعار تنافسية'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -267,7 +267,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية السعودية eSIM: دليل 5G من STC وموبايلي وزين — من الرياض إلى مكة'
+  title: دليل الشبكات المحلية لـ eSIM السعودية
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -298,7 +298,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد السعودية eSIM: ما يجب معرفته قبل الذهاب'
+  title: 'قبل الذهاب إلى السعودية: تحضير eSIM خطوة بخطوة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -325,7 +325,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت السعودية eSIM: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM السعودية: من رمز QR إلى الاتصال'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -350,7 +350,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول السعودية eSIM
+    title: أجوبة على أشهر أسئلة eSIM السعودية
     questions:
     - q: |
         لماذا أحتاج إلى إعطاء بصمات أصابعي لشراء بطاقة SIM في السعودية؟
@@ -371,7 +371,7 @@ faq_section:
     - q: |
         لماذا تمتلك بطاقات SIM السعودية دورات مدتها 28 يومًا؟ هل هذا هدر للرحلات القصيرة؟
       a: |
-        نعم — إنه هدر كبير. يستخدم معظم المشغلين السعوديين <strong>دورات فوترة مدتها 28 يومًا</strong> (STC وزين وموبايلي). تكلف خطة STC 'Like' 65 ريال (~17 دولار أمريكي) لـ 2 جيجابايت / 28 يومًا. سائح يقضي 5 أيام يهدر <strong>23 يومًا (82٪ من قيمة الخطة)</strong>. تقدم Roami <strong>خططًا لمدة 3 و7 و15 و30 يومًا</strong> تبدأ من 1.99 دولار — أنت <strong>تدفع فقط مقابل مدة رحلتك الفعلية</strong>. لا هدر 28 يومًا، لا دفع زائد.
+        نعم — إنه هدر كبير. يستخدم معظم المشغلين السعوديين <strong>دورات فوترة مدتها 28 يومًا</strong> (STC وزين وموبايلي). تكلف خطة STC 'Like' 65 ريال (~17 دولار أمريكي) لـ 2 جيجابايت / 28 يومًا. سائح يقضي 5 أيام يهدر <strong>23 يومًا (82٪ من قيمة الخطة)</strong>. تقدم Roami <strong>خططًا لمدة 3 و7 و15 و30 يومًا</strong> تبدأ من 3.99 دولار — أنت <strong>تدفع فقط مقابل مدة رحلتك الفعلية</strong>. لا هدر 28 يومًا، لا دفع زائد.
     - q: |
         هل يمكنني استخدام eSIM السعودية الخاصة بي في الإمارات أو البحرين أو دول الخليج الأخرى؟
       a: |
@@ -388,63 +388,75 @@ faq_section:
         متى تبدأ فترة صلاحية eSIM السعودية الخاصة بي؟
       a: |
         تبدأ صلاحية الخطة عند الاتصال بشبكة محلية في السعودية، وليس عند الشراء أو التثبيت. لذا يمكنك الشراء والتثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة. تمنحك خطة الـ 7 أيام 7 أيام كاملة من أول اتصال.
+    - q: |
+        هل يمكنني شراء eSIM السعودية ليلاً؟
+      a: |
+        يتيح Roami شراء eSIM السعودية من التطبيق أو الموقع. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        ما أرخص باقة eSIM السعودية متاحة؟
+      a: |
+        في السعودية يتطلب شراء بطاقة SIM المحلية تسجيلًا في المتجر، لذا غالبًا يكون eSIM أوفر. بطاقات SIM المحلية في السعودية تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        هل يمكنني تغيير باقة بيانات eSIM أثناء الإقامة في السعودية؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط السعودية eSIM ذات الصلة
+  title: باقات eSIM إضافية لمسافري السعودية
   items:
-  - name: الولايات المتحدة eSIM
-    flag: img/flags/us.svg
+  - name: eSIM إيسواتيني
+    flag: img/flags/sz.svg
+    price: من 19.99 دولار
+    is_highlight: false
+  - name: eSIM مونتينيغرو
+    flag: img/flags/mo.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM لاوس
+    flag: img/flags/la.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM قطر
+    flag: img/flags/qa.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: أوروبا eSIM
-    flag: img/flags/eu.svg
+  - name: eSIM كوسوفو
+    flag: img/flags/xk.svg
+    price: من 13.99 دولار
+    is_highlight: false
+  - name: eSIM الكاميرون
+    flag: img/flags/cm.svg
+    price: من 27.99 دولار
+    is_highlight: false
+  - name: eSIM كولومبيا
+    flag: img/flags/co.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM جنوب شرق آسيا
+    flag: img/flags/ya.webp
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM ملاوي
+    flag: img/flags/mw.svg
+    price: من 14.99 دولار
+    is_highlight: false
+  - name: eSIM دومينيكا
+    flag: img/flags/dm.svg
+    price: من 11.99 دولار
     is_highlight: true
-  - name: كندا eSIM
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM بنغلاديش
+    flag: img/flags/bd.svg
+    price: من 5.99 دولار
     is_highlight: false
-  - name: تركيا eSIM
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: الصين eSIM
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: اليابان eSIM
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: هونغ كونغ eSIM
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: فرنسا eSIM
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: إسبانيا eSIM
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: ألمانيا eSIM
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أستراليا eSIM
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM السلفادور
+    flag: img/flags/sv.svg
+    price: من 23.99 دولار
     is_highlight: false
 market_analysis:
   title: 'السعودية eSIM مقابل بطاقة SIM المحلية: بدون بصمات، بدون هدر 28 يومًا، بدون بطاقات SIM غير قانونية'
   subtitle: 'بطاقات SIM المحلية المدفوعة مسبقًا في السعودية مقابل حلول eSIM (معيار 2024/2025)'
   citation:
-    text: 'مصدر البيانات: ويكي بطاقة بيانات SIM المدفوعة مسبقًا (السعودية) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Saudi-Arabia
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)
@@ -473,7 +485,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: يستخدم جميع المشغلين <strong>دورات فوترة مدتها 28 يومًا</strong>. تكلف STC 'Like' 65 ريال (~17 دولار أمريكي) لـ 2 جيجابايت / 28 يومًا. سائح يقضي 5 أيام يهدر <strong>23 يومًا (هدر 82%)</strong>.
     esim_title: خطط قصيرة مرنة
-    esim_desc: تقدم Roami <strong>خططًا لمدة 3/7/15/30 يومًا</strong> تبدأ من 1.99 دولار — ادفع فقط مقابل مدة رحلتك الفعلية. لا التزام قسري لمدة 28 يومًا، لا هدر 82%.
+    esim_desc: تقدم Roami <strong>خططًا لمدة 3/7/15/30 يومًا</strong> تبدأ من 3.99 دولار — ادفع فقط مقابل مدة رحلتك الفعلية. لا التزام قسري لمدة 28 يومًا، لا هدر 82%.
   - icon: wifi
     title: سياسات نقطة الاتصال<br>والسرعة
     prepaid_title: ''

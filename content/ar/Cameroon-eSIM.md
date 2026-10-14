@@ -1,6 +1,6 @@
 ---
 title: 'eSIM الكاميرون 2026: دليل 5G والبيانات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: إم تي إن الكاميرون، أورانج الكاميرون، كامتيل
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: دوالا، ياوندي، باميندا، غاروا، ماروا
-  main_packages: 3/7/15/30 يومًا، بيانات غير محدودة
+  main_packages: 7/15/30 يومًا، حتى 3 جيجابايت
 modal:
   title: تم ترقية الخدمة!
   btn_text: متابعة
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
 seo:
   title: 'eSIM الكاميرون: خطة بيانات 5G للإقامات القصيرة والطويلة'
-  description: "قارن خطط eSIM للكاميرون مع 5G سريع في دوالا وياوندي وباميندا. تغطية إم تي إن وأورانج وكامتيل. تفعيل فوري من 1.99 دولار. وخطط مرنة."
-  keywords: eSIM الكاميرون، شراء eSIM الكاميرون، أفضل eSIM الكاميرون، eSIM سفر الكاميرون، إم تي إن الكاميرون الكاميرون، أورانج الكاميرون الكاميرون، كامتيل الكاميرون، eSIM دوالا، eSIM ياوندي، eSIM باميندا، eSIM مدفوعة مسبقًا الكاميرون، eSIM 5G الكاميرون
-  low_price: 1.99
-  high_price: 39.9
+  description: "قارن خطط eSIM للكاميرون مع 5G سريع في دوالا وياوندي وباميندا. تغطية إم تي إن وأورانج وكامتيل. تفعيل فوري من 27.99 دولار. وخطط مرنة."
+  keywords: eSIM الكاميرون، شراء eSIM الكاميرون، أفضل eSIM الكاميرون، eSIM الكاميرون رخيصة، eSIM الكاميرون مسبقة الدفع، باقة eSIM الكاميرون، باقة بيانات eSIM الكاميرون، eSIM الكاميرون 5G، أفضل eSIM لـ الكاميرون، سعر eSIM الكاميرون، تفعيل eSIM الكاميرون، تغطية eSIM الكاميرون، إم تي إن الكاميرون الكاميرون، eSIM دوالا، eSIM ياوندي، eSIM باميندا
+  low_price: 27.99
+  high_price: 89.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/cm.svg
   flag_alt: علم الكاميرون
-  title: 'eSIM الكاميرون: اتصال فوري لسفر بدون قلق'
+  title: 'eSIM الكاميرون: ابق على اتصال أينما تذهب'
   subtitle: أفضل eSIM مدفوعة مسبقًا للمسافرين إلى الكاميرون - 5G سريع، تفعيل فوري، دعم 24/7
 features:
-  title: 'لماذا يختار المسافرون إلى الكاميرون Roami: السرعة والتغطية والدعم'
+  title: 'لماذا يختار زوار الكاميرون Roami: تغطية واسعة ودعم 24/7'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي الكاميرون للحصول على أفضل إشارة
-plans_title: 'شراء eSIM الكاميرون: خطط لكل مدة رحلة'
+plans_title: 'خطط eSIM الكاميرون: اختر المدة والباقة المناسبة'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -107,7 +107,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM الكاميرون: دليل كامل للشبكات المحلية'
+  title: 'تغطية eSIM الكاميرون: دليل مشغل الشبكة المحمولة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -138,7 +138,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM الكاميرون: ما يجب معرفته قبل السفر'
+  title: 'تحضير eSIM الكاميرون: قائمة ما قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -158,7 +158,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM الكاميرون: 3 خطوات بسيطة'
+  title: كيف تُثبّت eSIM الكاميرون في 3 خطوات
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -183,7 +183,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM الكاميرون
+    title: كل ما تتساءل عنه حول eSIM الكاميرون
     questions:
     - q: |
         أي مشغل في الكاميرون يجب أن أعتمد عليه لـ eSIM الخاص بي؟
@@ -196,7 +196,7 @@ faq_section:
     - q: |
         ماذا لو كان فندقي في الكاميرون يوفر Wi-Fi مجاني — هل ما زلت بحاجة إلى بيانات eSIM؟
       a: |
-        تعمل Wi-Fi في الفندق في غرفتك ولكن ليس عندما تكون في الخارج تستكشف. يمنحك eSIM بيانات في كل مكان — التنقل في الشوارع، البحث عن الأماكن القريبة، التحقق من جداول النقل. تكلف خطة 5 جيجابايت 9.99 دولار، وهي غالبًا أرخص من Wi-Fi المدفوع في الفندق لمدة أسبوع (10-15 دولارًا في العديد من الفنادق). يستخدم معظم المسافرين Wi-Fi في الفندق للتنزيلات الكبيرة و eSIM للاتصال أثناء التنقل.
+        تعمل Wi-Fi في الفندق في غرفتك ولكن ليس عندما تكون في الخارج تستكشف. يمنحك eSIM بيانات في كل مكان — التنقل في الشوارع، البحث عن الأماكن القريبة، التحقق من جداول النقل. تكلف خطة 3 جيجابايت 89.99 دولار، وهي غالبًا أرخص من Wi-Fi المدفوع في الفندق لمدة أسبوع (10-15 دولارًا في العديد من الفنادق). يستخدم معظم المسافرين Wi-Fi في الفندق للتنزيلات الكبيرة و eSIM للاتصال أثناء التنقل.
     - q: |
         هل ستعمل eSIM الكاميرون فور هبوطي، أم هناك تأخير في التفعيل؟
       a: |
@@ -204,11 +204,11 @@ faq_section:
     - q: |
         أحتاج إلى اتصال إنترنت لبضعة أيام فقط في الكاميرون. ما هو أقل شيء يمكنني شراؤه؟
       a: |
-        أرخص خطة هي 1.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لرحلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك الشحن الإضافي في أي وقت من التطبيق.
+        أرخص خطة هي 27.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لرحلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك الشحن الإضافي في أي وقت من التطبيق.
     - q: |
         أنا مسافر إلى الكاميرون لمدة 2-3 أيام فقط. ما هو eSIM الذي يجب أن أحصل عليه؟
       a: |
-        لرحلة قصيرة، تكفي خطة 1 جيجابايت / 7 أيام (1.99 دولار) للخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (4.99 دولار) تمنحك مساحة أكبر. كلاهما يُفعّل فورًا ويمكنك الشحن الإضافي إذا لزم الأمر.
+        لرحلة قصيرة، تكفي خطة 1 جيجابايت / 7 أيام (27.99 دولار) للخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (89.99 دولار) تمنحك مساحة أكبر. كلاهما يُفعّل فورًا ويمكنك الشحن الإضافي إذا لزم الأمر.
     - q: |
         ما هي المستندات التي أحتاجها لشراء eSIM الكاميرون من Roami؟
       a: |
@@ -216,64 +216,76 @@ faq_section:
     - q: |
         ما الذي يتضمنه شراء eSIM الكاميرون من Roami؟
       a: |
-        تسليم رمز QR في غضون 5 دقائق، والوصول إلى شبكة إم تي إن، ودعم العملاء 24/7، ونقطة اتصال مجانية لما يصل إلى 5 أجهزة. تبدأ الخطط من 1.99 دولار. لا عقود، لا رسوم خفية، لا تجديد تلقائي.
+        تسليم رمز QR في غضون 5 دقائق، والوصول إلى شبكة إم تي إن، ودعم العملاء 24/7، ونقطة اتصال مجانية لما يصل إلى 5 أجهزة. تبدأ الخطط من 27.99 دولار. لا عقود، لا رسوم خفية، لا تجديد تلقائي.
+    - q: |
+        ما المعلومات المطلوبة لشراء eSIM الكاميرون؟
+      a: |
+        يمكن شراء eSIM الكاميرون من Roami بالكامل عبر الإنترنت. بعد الوصول إلى الكاميرون، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        أيّهما أوفر في الكاميرون، eSIM أم راوتر Wi-Fi متنقل؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في الكاميرون أسهل. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        كيف أضيف بيانات إلى eSIM الكاميرون؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM ذات الصلة بالكاميرون
+  title: خطط eSIM مقترحة لمسافري الكاميرون
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM تايلاند
+    flag: img/flags/th.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM بوركينا فاسو
+    flag: img/flags/bf.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM نيبال
+    flag: img/flags/ne.svg
+    price: من 10.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
+  - name: eSIM قيرغيزستان
+    flag: img/flags/kg.svg
+    price: من 4.99 دولار
     is_highlight: false
   - name: eSIM فرنسا
     flag: img/flags/fr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
+  - name: eSIM بوليفيا
+    flag: img/flags/bo.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM بلجيكا
+    flag: img/flags/be.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
+  - name: eSIM كمبوديا
+    flag: img/flags/kh.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM مالي
+    flag: img/flags/ml.svg
+    price: من 27.99 دولار
+    is_highlight: false
+  - name: eSIM بلغاريا
+    flag: img/flags/bg.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM جزر فارو
+    flag: img/flags/fo.svg
+    price: من 5.99 دولار
     is_highlight: false
+  - name: eSIM النمسا
+    flag: img/flags/at.svg
+    price: من 1.99 دولار
+    is_highlight: true
 market_analysis:
   title: 'مقارنة eSIM الكاميرون بخطط بطاقات SIM: أيهما يناسب احتياجاتك؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في الكاميرون مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM للبيانات المدفوعة مسبقًا (الكاميرون) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Cameroon
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

@@ -1,6 +1,6 @@
 ---
 title: 'eSIM موزمبيق 2026: دليل المشغلين المحليين | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,18 +9,18 @@ country_meta:
   operators: Movitel, Vodacom, Tmcel
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: مابوتو, بيرا, نامبولا, كيليماني, تيتي
-  main_packages: 3/7/15/30 يومًا, بيانات غير محدودة
+  main_packages: 7/15/30 يومًا، حتى 5 جيجابايت
 modal:
   title: تم ترقية الخدمة!
   btn_text: متابعة
   text_default: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIMGo</strong>.<br>يتمتع العملاء الجدد بخصم 20%، رمز الترويج: web20'
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>يتمتع العملاء الجدد بخصم 20%، رمز الترويج: web20'
 seo:
-  title: 'eSIM 5G موزمبيق: بيانات غير محدودة، بدون رسوم تجوال'
-  description: "قارن خطط eSIM موزمبيق مع 5G سريع في مابوتو وبيرا ونامبولا. تغطية Movitel و Vodacom و Tmcel. تفعيل فوري عبر QR من 1.99 دولار."
-  keywords: eSIM موزمبيق, شراء eSIM موزمبيق, أفضل eSIM موزمبيق, eSIM سفر موزمبيق, Movitel موزمبيق, Vodacom موزمبيق, Tmcel موزمبيق, eSIM مابوتو, eSIM بيرا, eSIM نامبولا, eSIM موزمبيق مسبقة الدفع, 5G eSIM موزمبيق
-  low_price: 1.99
-  high_price: 39.9
+  title: 'eSIM 5G موزمبيق: بيانات عالية السرعة، بدون رسوم تجوال'
+  description: "قارن خطط eSIM موزمبيق مع 5G سريع في مابوتو وبيرا ونامبولا. تغطية Movitel و Vodacom و Tmcel. تفعيل فوري عبر QR من 14.99 دولار."
+  keywords: eSIM موزمبيق، شراء eSIM موزمبيق، أفضل eSIM موزمبيق، eSIM موزمبيق رخيصة، eSIM موزمبيق مسبقة الدفع، باقة eSIM موزمبيق، باقة بيانات eSIM موزمبيق، eSIM موزمبيق 5G، أفضل eSIM لـ موزمبيق، سعر eSIM موزمبيق، تفعيل eSIM موزمبيق، تغطية eSIM موزمبيق، Movitel موزمبيق، eSIM مابوتو، eSIM بيرا، eSIM نامبولا
+  low_price: 14.99
+  high_price: 41.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/mo.svg
   flag_alt: علم موزمبيق
-  title: 'eSIM موزمبيق: ابق على اتصال أينما ذهبت'
+  title: 'eSIM موزمبيق: شبكة قوية من اليوم الأول'
   subtitle: لا رسوم خفية | إنترنت بدون قلق | دعم 24/7 - أفضل eSIM مدفوعة مسبقًا للمسافرين إلى موزمبيق
 features:
-  title: 'لماذا يختار المسافرون إلى موزمبيق Roami: التغطية والسرعة والخدمة'
+  title: لماذا يختار المسافرون روامي في موزمبيق
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات النقل في موزمبيق للحصول على أفضل إشارة
-plans_title: 'شراء eSIM موزمبيق: خطط تناسب كل مدة رحلة'
+plans_title: 'باقات eSIM موزمبيق: بيانات مرنة بأسعار تنافسية'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -114,7 +114,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM موزمبيق: دليل الشبكات وخريطة التغطية'
+  title: دليل الشبكات المحلية لـ eSIM موزمبيق
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -145,7 +145,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM موزمبيق: ما يجب معرفته قبل الذهاب'
+  title: 'قبل الذهاب إلى موزمبيق: تحضير eSIM خطوة بخطوة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -164,7 +164,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM موزمبيق: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM موزمبيق: من رمز QR إلى الاتصال'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -189,12 +189,12 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM موزمبيق
+    title: أجوبة على أشهر أسئلة eSIM موزمبيق
     questions:
     - q: |
         ما هي أرخص خيارات eSIM لرحلة إلى موزمبيق؟
       a: |
-        تبدأ خطط Roami eSIM موزمبيق من 1.99 دولار (7 أيام، 1 جيجابايت) وتصل إلى 59.99 دولار (30 يومًا غير محدود). لرحلة نموذجية مدتها 5-7 أيام، تعتبر باقة 5 جيجابايت بسعر 9.99 دولار الخيار الأمثل - كافية للخرائط والمراسلة وتصفح وسائل التواصل الاجتماعي. هل تحتاج إلى بث الفيديو أو العمل عن بُعد؟ اختر 10 جيجابايت أو غير محدود. تستخدم موزمبيق 4G والتي تتعامل مع الخرائط والمراسلة بشكل جيد. أكشاك SIM في المطار تفرض رسومًا أعلى بنسبة 30-50٪، وعليك الانتظار في الطابور. لست متأكدًا من احتياجاتك للبيانات؟ ابدأ بباقة صغيرة واملأ الرصيد من خلال التطبيق دون تغيير eSIM الخاص بك.
+        تبدأ خطط Roami eSIM موزمبيق من 14.99 دولار (7 أيام، 1 جيجابايت) وتصل إلى 59.99 دولار (30 يومًا غير محدود). لرحلة نموذجية مدتها 5-7 أيام، تعتبر باقة 5 جيجابايت بسعر 41.99 دولار الخيار الأمثل - كافية للخرائط والمراسلة وتصفح وسائل التواصل الاجتماعي. هل تحتاج إلى بث الفيديو أو العمل عن بُعد؟ اختر 10 جيجابايت أو غير محدود. تستخدم موزمبيق 4G والتي تتعامل مع الخرائط والمراسلة بشكل جيد. أكشاك SIM في المطار تفرض رسومًا أعلى بنسبة 30-50٪، وعليك الانتظار في الطابور. لست متأكدًا من احتياجاتك للبيانات؟ ابدأ بباقة صغيرة واملأ الرصيد من خلال التطبيق دون تغيير eSIM الخاص بك.
     - q: |
         كيف يقارن Roami بـ Saily لـ eSIM في موزمبيق؟
       a: |
@@ -223,55 +223,67 @@ faq_section:
         هل يمكنني تثبيت eSIM موزمبيق في المطار، أم يجب أن أفعل ذلك قبل مغادرة المنزل؟
       a: |
         افعلها قبل مغادرتك - يحتاج التثبيت إلى اتصال بالإنترنت ويستغرق حوالي دقيقتين. يصل رمز QR الخاص بـ eSIM عبر البريد الإلكتروني في غضون 5 دقائق من الشراء. في مطار موزمبيق، قم بتمكين تجوال البيانات وستكون متصلاً بالإنترنت في أقل من 60 ثانية.
+    - q: |
+        هل يمكنني شراء eSIM موزمبيق ليلاً؟
+      a: |
+        يتيح Roami شراء eSIM موزمبيق من التطبيق أو الموقع. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        ما أرخص باقة eSIM موزمبيق متاحة؟
+      a: |
+        في موزمبيق يتطلب شراء بطاقة SIM المحلية تسجيلًا في المتجر، لذا غالبًا يكون eSIM أوفر. بطاقات SIM المحلية في موزمبيق تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        هل يمكنني تغيير باقة بيانات eSIM أثناء الإقامة في موزمبيق؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM ذات الصلة
+  title: باقات eSIM إضافية لمسافري موزمبيق
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM ألبانيا
+    flag: img/flags/al.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM سويسرا
+    flag: img/flags/ch.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM بورتوريكو
+    flag: img/flags/pu.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM كرواتيا
+    flag: img/flags/hr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
+  - name: eSIM سلوفينيا
+    flag: img/flags/sl.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
+  - name: eSIM هندوراس
+    flag: img/flags/hn.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM غوام
+    flag: img/flags/gu.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM أوروغواي
+    flag: img/flags/uy.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM بولندا
+    flag: img/flags/pl.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
+  - name: eSIM الأردن
+    flag: img/flags/jo.svg
+    price: من 6.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
+  - name: eSIM كيويت
+    flag: img/flags/kw.svg
+    price: من 4.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM نيجيريا
+    flag: img/flags/ng.svg
+    price: من 5.99 دولار
     is_highlight: false
 ---

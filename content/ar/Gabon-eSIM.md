@@ -1,6 +1,6 @@
 ---
 title: 'eSIM الغابون 2026: دليل المشغلين المحليين | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
 seo:
   title: 'eSIM الغابون: أفضل بيانات 5G عالية السرعة للمسافرين'
-  description: "قارن خطط eSIM للغابون مع 5G سريع في ليبرفيل وبورت جنتيل. تغطية إيرتل ومووف أفريكا وغابون تيليكوم. تفعيل فوري من 1.99 دولار."
-  keywords: eSIM الغابون، شراء eSIM الغابون، أفضل eSIM الغابون، eSIM سفر الغابون، إيرتل الغابون، مووف أفريكا الغابون، غابون تيليكوم الغابون، eSIM ليبرفيل، eSIM بورت جنتيل، eSIM فرانسفيل، eSIM مدفوعة مسبقًا الغابون، eSIM 5G الغابون
-  low_price: 1.99
-  high_price: 39.9
+  description: "قارن خطط eSIM للغابون مع 5G سريع في ليبرفيل وبورت جنتيل. تغطية إيرتل ومووف أفريكا وغابون تيليكوم. تفعيل فوري من 14.99 دولار."
+  keywords: eSIM الغابون، شراء eSIM الغابون، أفضل eSIM الغابون، eSIM الغابون رخيصة، eSIM الغابون مسبقة الدفع، باقة eSIM الغابون، eSIM الغابون غير محدودة، eSIM الغابون 5G، أفضل eSIM لـ الغابون، سعر eSIM الغابون، تفعيل eSIM الغابون، تغطية eSIM الغابون، إيرتل الغابون، eSIM ليبرفيل، eSIM بورت جنتيل، eSIM فرانسفيل
+  low_price: 14.99
+  high_price: 99.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/ga.svg
   flag_alt: علم الغابون
-  title: 'eSIM الغابون: ابقَ على اتصال أينما تذهب'
+  title: 'eSIM الغابون: اتصال سلس من لحظة الوصول'
   subtitle: أفضل eSIM مدفوعة مسبقًا للمسافرين إلى الغابون - 5G سريع، تفعيل فوري، دعم 24/7
 features:
-  title: 'لماذا يختار المسافرون إلى الغابون Roami: السرعة والتغطية والدعم'
+  title: مزايا eSIM الغابون من روامي
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي الغابون للحصول على أفضل إشارة
-plans_title: 'شراء eSIM الغابون: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM الغابون: خيارات يومية وشهرية'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -182,7 +182,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM الغابون: دليل كامل للشبكات المحلية'
+  title: 'تغطية eSIM الغابون: المشغلون وجودة الشبكة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -213,7 +213,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM الغابون: ما يجب معرفته قبل السفر'
+  title: 'قبل السفر إلى الغابون: نصائح تفعيل eSIM'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -233,7 +233,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM الغابون: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM الغابون: دليل سريع للمسافرين'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -258,7 +258,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM الغابون
+    title: أكثر ما يُسأل عن eSIM الغابون
     questions:
     - q: |
         كيف يقارن Roami بـ Airalo لـ eSIM في الغابون؟
@@ -283,7 +283,7 @@ faq_section:
     - q: |
         أنا مسافر إلى الغابون لمدة 2-3 أيام فقط. ما هو eSIM الذي يجب أن أحصل عليه؟
       a: |
-        لرحلة قصيرة، تكفي خطة 1 جيجابايت / 7 أيام (1.99 دولار) للخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (4.99 دولار) تمنحك مساحة أكبر. كلاهما يُفعّل فورًا ويمكنك الشحن الإضافي إذا لزم الأمر.
+        لرحلة قصيرة، تكفي خطة 1 جيجابايت / 7 أيام (14.99 دولار) للخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (23.99 دولار) تمنحك مساحة أكبر. كلاهما يُفعّل فورًا ويمكنك الشحن الإضافي إذا لزم الأمر.
     - q: |
         ما هي المستندات التي أحتاجها لشراء eSIM الغابون من Roami؟
       a: |
@@ -292,63 +292,75 @@ faq_section:
         كم مقدمًا يجب أن أشتري eSIM الغابون الخاص بي؟
       a: |
         يمكنك الشراء في أي وقت — حتى عند بوابة المغادرة. يصل رمز QR في غضون دقائق. نوصي بالشراء قبل بضعة أيام حتى تتمكن من التثبيت عبر Wi-Fi في المنزل. يتم تفعيل الخطة فقط عند الاتصال في الغابون، لذا فإن الشراء المبكر لا يهدر أيام خطتك.
+    - q: |
+        هل شراء eSIM الغابون متاح عبر الإنترنت؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. بعد الوصول إلى الغابون، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        أيّهما أرخص في الغابون، eSIM أم بطاقة SIM المطار؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM الغابون شبكة محلية مباشرة (إيرتل) فيكون أوفر. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        هل يمكن إدارة بيانات eSIM الغابون من التطبيق؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في الغابون، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM ذات الصلة بالغابون
+  title: باقات مقترحة لتوسيع رحلتك خارج الغابون
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM مدينة الفاتيكان
+    flag: img/flags/va.svg
+    price: من 10.99 دولار
+    is_highlight: false
+  - name: eSIM الدنمارك
+    flag: img/flags/dk.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM فنلندا
+    flag: img/flags/fi.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM ساحل العاج
+    flag: img/flags/ci.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM السنغال
+    flag: img/flags/se.svg
+    price: من 12.99 دولار
+    is_highlight: false
+  - name: eSIM باراغواي
+    flag: img/flags/py.svg
+    price: من 22.99 دولار
+    is_highlight: false
+  - name: eSIM جورجيا
+    flag: img/flags/ge.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM المكسيك
+    flag: img/flags/mx.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM ماليزيا
+    flag: img/flags/my.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
+  - name: eSIM سنغافورة
+    flag: img/flags/sg.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
+  - name: eSIM سلوفاكيا
+    flag: img/flags/sl.svg
     price: من 1.99 دولار
     is_highlight: false
   - name: eSIM إسبانيا
     flag: img/flags/es.svg
     price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
-    is_highlight: false
+    is_highlight: true
 market_analysis:
   title: 'مقارنة eSIM الغابون ببطاقة SIM المحلية المدفوعة مسبقًا: أيهما أكثر راحة؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في الغابون مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM للبيانات المدفوعة مسبقًا (الغابون) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Gabon
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

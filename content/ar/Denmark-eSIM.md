@@ -1,6 +1,6 @@
 ---
 title: 'الدنمارك eSIM 2026 - أفضل خطة 5G لكوبنهاغن وآرهوس | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM الدنمارك - أفضل بيانات مسبقة الدفع 5G للمستكشفين
   description: "أفضل eSIM مسبق الدفع للدنمارك مع 5G على TDC و Telenor و Telia. تفعيل QR فوري بدون هوية. من 1.99 دولار. اشترِ خطتك اليوم."
-  keywords: eSIM الدنمارك، شراء eSIM الدنمارك، أفضل eSIM الدنمارك، eSIM سفر الدنمارك، TDC الدنمارك، Telenor الدنمارك، Telia الدنمارك، eSIM كوبنهاغن، eSIM آرهوس، eSIM أودنسه، eSIM مسبق الدفع الدنمارك، eSIM 5G الدنمارك، eSIM ليغولاند، eSIM حدائق تيفولي
+  keywords: eSIM الدنمارك، شراء eSIM الدنمارك، أفضل eSIM الدنمارك، eSIM الدنمارك رخيصة، eSIM الدنمارك مسبقة الدفع، باقة eSIM الدنمارك، eSIM الدنمارك غير محدودة، eSIM الدنمارك 5G، أفضل eSIM لـ الدنمارك، سعر eSIM الدنمارك، تفعيل eSIM الدنمارك، تغطية eSIM الدنمارك، TDC الدنمارك، eSIM كوبنهاغن، eSIM آرهوس، eSIM أودنسه
   low_price: 1.99
-  high_price: 39.9
+  high_price: 70.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/dk.svg
   flag_alt: علم الدنمارك
-  title: 'eSIM الدنمارك: 5G في كوبنهاغن وآرهوس وما بعدها — لا حاجة لهوية'
+  title: 'eSIM الدنمارك: إنترنت موثوق لكل رحلة'
   subtitle: لا حاجة لهوية | 5G على TDC و Telenor و Telia | لا هدر لـ 30 يومًا | تسليم QR فوري
 features:
-  title: 'لماذا يختار مسافرو الدنمارك Roami: الخطط، الشبكة والدعم'
+  title: 'مزايا روامي للمسافرين إلى الدنمارك: بساطة وموثوقية'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بـ TDC و Telenor و Telia للحصول على أفضل إشارة في جميع أنحاء الدنمارك
-plans_title: 'شراء eSIM الدنمارك: خطط لكل مدة رحلة'
+plans_title: 'شراء eSIM الدنمارك: باقات لكل ميزانية'
 plans_data:
   3 أيام:
   - spec: 1GB
@@ -285,7 +285,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'المدة: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM الدنمارك: دليل شبكات TDC و Telenor و Telia'
+  title: 'eSIM الدنمارك: تغطية موثوقة في كل أنحاء البلد'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -316,7 +316,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM الدنمارك: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM الدنمارك: ما يجب التحقق منه قبل الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -337,7 +337,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على الشاشة، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM الدنمارك: 3 خطوات بسيطة'
+  title: 'eSIM الدنمارك: تثبيت سهل قبل رحلتك'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -362,7 +362,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM الدنمارك
+    title: أسئلة شائعة عند شراء eSIM الدنمارك
     questions:
     - q: |
         هل أحتاج إلى جواز سفر أو هوية لشراء eSIM في الدنمارك؟
@@ -400,63 +400,75 @@ faq_section:
         هل يمكنني شحن eSIM الدنمارك إذا نفدت بياناتي؟
       a: |
         نعم — يمكنك الشحن عبر حساب Roami الخاص بك في أي وقت. على عكس بطاقات SIM الدنماركية المدفوعة مسبقًا ذات الدورات الثابتة لمدة 30 يومًا (حيث لا يمكنك استرداد الأيام غير المستخدمة)، يمنحك Roami مرونة كاملة لإضافة البيانات حسب الحاجة.
+    - q: |
+        هل يمكن شراء eSIM الدنمارك عبر الهاتف أو في متجر؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM الدنمارك عبر الإنترنت. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        كيف تقارن تكلفة eSIM الدنمارك ببطاقة SIM المحلية مسبقة الدفع؟
+      a: |
+        في الدنمارك يتطلب شراء بطاقة SIM المحلية تسجيلًا في المتجر، لذا غالبًا يكون eSIM أوفر. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        كيف أزيد حجم بيانات eSIM الدنمارك؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM ذات الصلة للدنمارك
+  title: خطط ذات صلة برحلتك إلى الدنمارك
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM النمسا
+    flag: img/flags/at.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM فيتنام
+    flag: img/flags/vn.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM بيرو
+    flag: img/flags/pe.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM كازاخستان
+    flag: img/flags/kz.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM كينيا
+    flag: img/flags/ke.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM إسرائيل
+    flag: img/flags/il.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM بربادوس
+    flag: img/flags/bb.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM جنوب إفريقيا
+    flag: img/flags/za.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM أفغانستان
+    flag: img/flags/af.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM ليبيريا
+    flag: img/flags/lr.svg
+    price: من 27.99 دولار
+    is_highlight: false
+  - name: eSIM اليونان
+    flag: img/flags/gr.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM هولندا
+    flag: img/flags/nl.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM الدنمارك مقابل بطاقة SIM المدفوعة مسبقًا: مقارنة التكلفة والراحة'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في الدنمارك مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM المدفوعة مسبقًا (الدنمارك) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Denmark
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

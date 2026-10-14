@@ -1,6 +1,6 @@
 ---
 title: 'eSIM كينيا 2026: دليل 5G والبيانات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM كينيا | باقة بيانات مدفوعة مسبقًا سريعة للسياح
   description: "أفضل eSIM سفر مدفوعة مسبقًا من Roami لكينيا. بيانات غير محدودة 5G على أفضل الشبكات. تغطي نيروبي ومومباسا وكيسومو. اشترِ خطتك الآن."
-  keywords: eSIM كينيا, شراء eSIM كينيا, أفضل eSIM كينيا, eSIM سفر كينيا, Safaricom كينيا, Airtel كينيا, Telkom كينيا, eSIM نيروبي, eSIM مومباسا, eSIM كيسومو, eSIM كينيا مسبقة الدفع, 5G eSIM كينيا
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM كينيا، شراء eSIM كينيا، أفضل eSIM كينيا، eSIM كينيا رخيصة، eSIM كينيا مسبقة الدفع، باقة eSIM كينيا، eSIM كينيا غير محدودة، eSIM كينيا 5G، أفضل eSIM لـ كينيا، سعر eSIM كينيا، تفعيل eSIM كينيا، تغطية eSIM كينيا، Safaricom كينيا، eSIM نيروبي، eSIM مومباسا، eSIM كيسومو
+  low_price: 7.99
+  high_price: 98.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/ke.svg
   flag_alt: علم كينيا
-  title: 'eSIM كينيا: اتصال فوري لسفر خالٍ من القلق'
+  title: 'eSIM كينيا: 5G سريع بدون انتظار في المتاجر'
   subtitle: لا رسوم خفية | إنترنت بدون قلق | دعم 24/7 - أفضل eSIM مدفوعة مسبقًا للمسافرين إلى كينيا
 features:
-  title: 'لماذا يختار المسافرون إلى كينيا Roami: التغطية، السرعة والخدمة'
+  title: لماذا تختار eSIM كينيا من Roami
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات النقل في كينيا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM كينيا: خطط تناسب كل مدة رحلة'
+plans_title: 'خطط eSIM كينيا: بيانات تكفي رحلتك بأكملها'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -253,7 +253,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM كينيا: دليل الشبكات وخريطة التغطية'
+  title: 'تغطية eSIM كينيا: مقارنة المشغلين والسرعة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -284,7 +284,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM كينيا: ما يجب معرفته قبل الذهاب'
+  title: 'جهّز eSIM كينيا: تذكيرات أساسية قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -303,7 +303,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM كينيا: 3 خطوات بسيطة'
+  title: 'تركيب eSIM كينيا: الدليل المبسّط'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -328,12 +328,12 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM كينيا
+    title: ما يريد المسافرون معرفته عن eSIM كينيا
     questions:
     - q: |
         ما هي أرخص خيارات eSIM لرحلة إلى كينيا؟
       a: |
-        تبدأ خطط Roami eSIM كينيا من 1.99 دولار (7 أيام، 1 جيجابايت) وتصل إلى 59.99 دولار (30 يومًا غير محدود). لرحلة نموذجية مدتها 5-7 أيام، تعتبر باقة 5 جيجابايت بسعر 9.99 دولار الخيار الأمثل - كافية للخرائط والمراسلة وتصفح وسائل التواصل الاجتماعي. هل تحتاج إلى بث الفيديو أو العمل عن بُعد؟ اختر 10 جيجابايت أو غير محدود. بفضل شبكة 5G من Safaricom، يعمل البث ومكالمات الفيديو بشكل رائع. أكشاك SIM في المطار تفرض رسومًا أعلى بنسبة 30-50٪، وعليك الانتظار في الطابور. لست متأكدًا من احتياجاتك للبيانات؟ ابدأ بباقة صغيرة واملأ الرصيد من خلال التطبيق دون تغيير eSIM الخاص بك.
+        تبدأ خطط Roami eSIM كينيا من 7.99 دولار (7 أيام، 1 جيجابايت) وتصل إلى 59.99 دولار (30 يومًا غير محدود). لرحلة نموذجية مدتها 5-7 أيام، تعتبر باقة 5 جيجابايت بسعر 21.99 دولار الخيار الأمثل - كافية للخرائط والمراسلة وتصفح وسائل التواصل الاجتماعي. هل تحتاج إلى بث الفيديو أو العمل عن بُعد؟ اختر 10 جيجابايت أو غير محدود. بفضل شبكة 5G من Safaricom، يعمل البث ومكالمات الفيديو بشكل رائع. أكشاك SIM في المطار تفرض رسومًا أعلى بنسبة 30-50٪، وعليك الانتظار في الطابور. لست متأكدًا من احتياجاتك للبيانات؟ ابدأ بباقة صغيرة واملأ الرصيد من خلال التطبيق دون تغيير eSIM الخاص بك.
     - q: |
         أي شركة نقل في كينيا يجب أن أعتمد عليها لـ eSIM الخاصة بي؟
       a: |
@@ -353,7 +353,7 @@ faq_section:
     - q: |
         أحتاج إلى الوصول إلى الإنترنت لبضعة أيام فقط في كينيا. ما هو الحد الأدنى الذي يمكنني شراؤه؟
       a: |
-        أرخص خطة هي 1.99 دولار لمدة 7 أيام مع 1 جيجابايت - مثالية لرحلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، قم بتعبئة الرصيد في أي وقت من خلال التطبيق.
+        أرخص خطة هي 7.99 دولار لمدة 7 أيام مع 1 جيجابايت - مثالية لرحلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، قم بتعبئة الرصيد في أي وقت من خلال التطبيق.
     - q: |
         ما هي كمية البيانات التي يستخدمها المسافر العادي فعليًا يوميًا في كينيا؟
       a: |
@@ -362,63 +362,75 @@ faq_section:
         هل يمكنني استخدام eSIM كينيا مباشرة بعد شرائها، أم أحتاج إلى الانتظار؟
       a: |
         يصل رمز QR في غضون دقائق. قم بتثبيته على الفور - يستغرق دقيقتين. ومع ذلك، تبدأ صلاحية الخطة فقط عند الاتصال بشبكة في كينيا. لذا يمكنك التثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة.
+    - q: |
+        كيف يصل رمز QR عند شراء eSIM كينيا؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM كينيا عبر الإنترنت. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        ما الفرق بين باقات eSIM كينيا الرخيصة والغالية؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM كينيا شبكة محلية مباشرة (Safaricom) فيكون أوفر. بطاقات SIM المحلية في كينيا تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        ما خطوات إعادة شراء البيانات في كينيا؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM كينيا ذات الصلة
+  title: باقات eSIM لوجهات مرتبطة بـ كينيا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
+  - name: eSIM تشاد
+    flag: img/flags/td.svg
+    price: من 23.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM الغابون
+    flag: img/flags/ga.svg
+    price: من 14.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
   - name: eSIM تركيا
     flag: img/flags/tr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
+  - name: eSIM صربيا
+    flag: img/flags/se.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+  - name: eSIM ليختنشتاين
+    flag: img/flags/li.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
+  - name: eSIM غوادلوب
+    flag: img/flags/gp.svg
+    price: من 8.99 دولار
+    is_highlight: false
+  - name: eSIM أندورا
+    flag: img/flags/ad.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM إيطاليا
+    flag: img/flags/it.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
+  - name: eSIM موزمبيق
+    flag: img/flags/mo.svg
+    price: من 14.99 دولار
     is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
+  - name: eSIM طاجيكستان
+    flag: img/flags/tj.svg
+    price: من 4.99 دولار
     is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
+  - name: eSIM جامايكا
+    flag: img/flags/jm.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM باكستان
+    flag: img/flags/pk.svg
+    price: من 3.99 دولار
     is_highlight: false
 market_analysis:
   title: 'مقارنة eSIM كينيا مقابل بطاقة SIM الفعلية: تحليل الإيجابيات والسلبيات'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في كينيا مقابل حلول eSIM (معايير 2024/2025)
   citation:
-    text: 'مصدر البيانات: Wiki بطاقة بيانات SIM المدفوعة مسبقًا (كينيا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Kenya
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

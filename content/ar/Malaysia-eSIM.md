@@ -1,6 +1,6 @@
 ---
 title: 'ماليزيا eSIM 2026: دليل المشغلين المحليين | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,9 @@ modal:
 seo:
   title: "ماليزيا eSIM | اشترِ أفضل خطة بيانات سفر لرحلتك الآن"
   description: "أفضل eSIM مسبقة الدفع للسفر من Roami إلى ماليزيا. بيانات 5G غير محدودة وتفعيل فوري. تغطي كوالالمبور وبينانغ وكل المدن. وخطط مرنة."
-  keywords: ماليزيا eSIM, شراء ماليزيا eSIM, أفضل ماليزيا eSIM, ماليزيا eSIM للسفر, ماكسيس ماليزيا, سيلكوم ماليزيا, ديجي
-    ماليزيا, كوالالمبور eSIM, بينانغ eSIM, جوهور باهرو eSIM, ماليزيا eSIM مسبقة الدفع, 5G ماليزيا eSIM
+  keywords: eSIM ماليزيا، شراء eSIM ماليزيا، أفضل eSIM ماليزيا، eSIM ماليزيا رخيصة، eSIM ماليزيا مسبقة الدفع، باقة eSIM ماليزيا، eSIM ماليزيا غير محدودة، eSIM ماليزيا 5G، أفضل eSIM لـ ماليزيا، سعر eSIM ماليزيا، تفعيل eSIM ماليزيا، تغطية eSIM ماليزيا، ماكسيس ماليزيا، eSIM كوالالمبور، eSIM بينانغ، eSIM جوهور باهرو
   low_price: 1.99
-  high_price: 39.9
+  high_price: 65.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -41,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/my.svg
   flag_alt: علم ماليزيا
-  title: 'ماليزيا eSIM: ابق على اتصال أينما ذهبت'
+  title: 'eSIM ماليزيا: اتصال سلس من لحظة الوصول'
   subtitle: أفضل eSIM مسبقة الدفع للمسافرين إلى ماليزيا - 5G سريع، تفعيل فوري، دعم 24/7
 features:
-  title: 'لماذا يختار المسافرون إلى ماليزيا Roami: السرعة والتغطية والدعم'
+  title: مزايا eSIM ماليزيا من روامي
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات الاتصالات في ماليزيا للحصول على أفضل إشارة
-plans_title: 'شراء ماليزيا eSIM: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM ماليزيا: خيارات يومية وشهرية'
 plans_data:
   3 أيام:
   - spec: 1 جيجابايت
@@ -288,7 +287,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية ماليزيا eSIM: دليل كامل للشبكات المحلية'
+  title: 'تغطية eSIM ماليزيا: المشغلون وجودة الشبكة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -321,7 +320,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد ماليزيا eSIM: ما يجب معرفته قبل الذهاب'
+  title: 'قبل السفر إلى ماليزيا: نصائح تفعيل eSIM'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -342,7 +341,7 @@ reminders:
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت ماليزيا eSIM: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM ماليزيا: دليل سريع للمسافرين'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -367,12 +366,12 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول ماليزيا eSIM
+    title: أكثر ما يُسأل عن eSIM ماليزيا
     questions:
     - q: |
         ما هي أرخص خيارات eSIM لرحلة إلى ماليزيا؟
       a: |
-        تبدأ خطط Roami ماليزيا eSIM من 1.99 دولار (7 أيام، 1 جيجابايت) وتصل إلى 59.99 دولار (30 يومًا غير محدود). لرحلة نموذجية مدتها 5-7 أيام، خطة 5 جيجابايت بسعر 9.99 دولار هي الخيار الأمثل — كافية للخرائط والمراسلة وتصفح وسائل التواصل الاجتماعي. هل تحتاج إلى بث الفيديو أو العمل عن بعد؟ اختر 10 جيجابايت أو غير محدود. بفضل شبكة 5G من ماكسيس، يعمل البث ومكالمات الفيديو بشكل رائع. تتقاضى أكشاك SIM في المطار 30-50٪ أكثر، وعليك الانتظار في الطابور. لست متأكدًا من احتياجاتك للبيانات؟ ابدأ بخطة صغيرة وأعد الشحن عبر التطبيق دون تغيير eSIM الخاص بك.
+        تبدأ خطط Roami ماليزيا eSIM من 1.99 دولار (7 أيام، 1 جيجابايت) وتصل إلى 59.99 دولار (30 يومًا غير محدود). لرحلة نموذجية مدتها 5-7 أيام، خطة 5 جيجابايت بسعر 4.99 دولار هي الخيار الأمثل — كافية للخرائط والمراسلة وتصفح وسائل التواصل الاجتماعي. هل تحتاج إلى بث الفيديو أو العمل عن بعد؟ اختر 10 جيجابايت أو غير محدود. بفضل شبكة 5G من ماكسيس، يعمل البث ومكالمات الفيديو بشكل رائع. تتقاضى أكشاك SIM في المطار 30-50٪ أكثر، وعليك الانتظار في الطابور. لست متأكدًا من احتياجاتك للبيانات؟ ابدأ بخطة صغيرة وأعد الشحن عبر التطبيق دون تغيير eSIM الخاص بك.
     - q: |
         هل أحتاج إلى جواز سفر أو هوية لاستخدام eSIM في ماليزيا؟ كيف يعمل التحقق؟
       a: |
@@ -401,63 +400,75 @@ faq_section:
         هل يمكنني استخدام eSIM ماليزيا الخاصة بي لوسائل التواصل الاجتماعي ومشاركة الصور مع العائلة؟
       a: |
         بالتأكيد. تعمل Instagram و WhatsApp و Facebook والتطبيقات الاجتماعية الأخرى جميعها عبر اتصال eSIM. تتعامل سرعات الرفع من ماكسيس مع الصور في ثوانٍ ومقاطع الفيديو القصيرة بسهولة.
+    - q: |
+        هل شراء eSIM ماليزيا متاح عبر الإنترنت؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. بعد الوصول إلى ماليزيا، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        أيّهما أرخص في ماليزيا، eSIM أم بطاقة SIM المطار؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM ماليزيا شبكة محلية مباشرة (ماكسيس) فيكون أوفر. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        هل يمكن إدارة بيانات eSIM ماليزيا من التطبيق؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في ماليزيا، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط ماليزيا eSIM ذات الصلة
+  title: باقات مقترحة لتوسيع رحلتك خارج ماليزيا
   items:
-  - name: الولايات المتحدة eSIM
+  - name: eSIM غيانا
+    flag: img/flags/gy.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM البرتغال
+    flag: img/flags/pt.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM أرمينيا
+    flag: img/flags/am.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM لوكسمبورغ
+    flag: img/flags/lu.svg
+    price: من 1.99 دولار
+    is_highlight: true
+  - name: eSIM سيشل
+    flag: img/flags/sc.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM الولايات المتحدة الأمريكية
     flag: img/flags/us.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM كوستاريكا
+    flag: img/flags/cr.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM روسيا
+    flag: img/flags/ru.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM المالديف
+    flag: img/flags/mv.svg
+    price: من 14.99 دولار
+    is_highlight: false
+  - name: eSIM الإمارات
+    flag: img/flags/ae.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM ألبانيا
+    flag: img/flags/al.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: أوروبا eSIM
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: كندا eSIM
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: تركيا eSIM
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: الصين eSIM
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: اليابان eSIM
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: هونغ كونغ eSIM
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: فرنسا eSIM
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: إسبانيا eSIM
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: ألمانيا eSIM
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أستراليا eSIM
-    flag: img/flags/au.svg
+  - name: eSIM سويسرا
+    flag: img/flags/ch.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'ماليزيا eSIM مقابل بطاقة SIM: دليل المقارنة الكامل'
   subtitle: 'بطاقات SIM المحلية المدفوعة مسبقًا في ماليزيا مقابل حلول eSIM (معيار 2024/2025)'
   citation:
-    text: 'مصدر البيانات: ويكي بطاقة بيانات SIM المدفوعة مسبقًا (ماليزيا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Malaysia
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

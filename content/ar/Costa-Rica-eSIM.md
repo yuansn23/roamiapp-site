@@ -1,6 +1,6 @@
 ---
 title: 'كوستاريكا eSIM 2026: دليل السفر والشبكات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM كوستاريكا | أفضل تغطية 5G عالية السرعة للمستكشفين"
   description: "أفضل eSIM سياحي مسبق الدفع من Roami لكوستاريكا. بيانات غير محدودة 5G وتفعيل فوري. تغطي سان خوسيه وليبيريا وكل المناطق. وخطط مرنة."
-  keywords: eSIM كوستاريكا، شراء eSIM كوستاريكا، أفضل eSIM كوستاريكا، eSIM سفر كوستاريكا، Liberty كوستاريكا، Claro كوستاريكا، ICE كوستاريكا، eSIM سان خوسيه، eSIM ألاخويلا، eSIM هيريديا، eSIM مسبق الدفع كوستاريكا، eSIM 5G كوستاريكا
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM كوستاريكا، شراء eSIM كوستاريكا، أفضل eSIM كوستاريكا، eSIM كوستاريكا رخيصة، eSIM كوستاريكا مسبقة الدفع، باقة eSIM كوستاريكا، eSIM كوستاريكا غير محدودة، eSIM كوستاريكا 5G، أفضل eSIM لـ كوستاريكا، سعر eSIM كوستاريكا، تفعيل eSIM كوستاريكا، تغطية eSIM كوستاريكا، Liberty كوستاريكا، eSIM سان خوسيه، eSIM ألاخويلا، eSIM هيريديا
+  low_price: 9.99
+  high_price: 84.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/cr.svg
   flag_alt: علم كوستاريكا
-  title: 'eSIM كوستاريكا: شبكة وتغطية موثوقة للمسافرين'
+  title: 'eSIM كوستاريكا: اتصال موثوق في كل مدينة'
   subtitle: 5G سريع | تسليم QR فوري | دعم بشري 24/7 - أفضل eSIM مسبق الدفع لكوستاريكا
 features:
-  title: 'لماذا يختار مسافرو كوستاريكا Roami: الخطط، الشبكة والدعم'
+  title: 'ميزات Roami: تغطية قوية ودعم على مدار الساعة في كوستاريكا'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي كوستاريكا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM كوستاريكا: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM كوستاريكا: مرونة كاملة بدون أيام مهدرة'
 plans_data:
   7 أيام:
   - spec: 1GB
@@ -237,7 +237,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'المدة: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM كوستاريكا: دليل مشغلي الشبكات المحمولة'
+  title: 'eSIM كوستاريكا: تغطية 5G والمشغلين المحليين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -268,7 +268,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM كوستاريكا: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM كوستاريكا: نصائح سريعة قبل بدء الرحلة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -287,7 +287,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على الشاشة، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM كوستاريكا: 3 خطوات بسيطة'
+  title: 'eSIM كوستاريكا: دليل التركيب والتفعيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -312,7 +312,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM كوستاريكا
+    title: أسئلة الزوار الشائعة عن eSIM كوستاريكا
     questions:
     - q: |
         كيف يقارن Roami بـ Saily من حيث eSIM في كوستاريكا؟
@@ -325,7 +325,7 @@ faq_section:
     - q: |
         هل يمكنني الحصول على eSIM لكوستاريكا دون إنفاق الكثير؟
       a: |
-        بالتأكيد. تبدأ خطط eSIM من Roami لكوستاريكا من 1.99 دولار. خيار 5 جيجابايت / 15 يومًا (9.99 دولار) هو الأكثر شيوعًا بين المسافرين — فهو يتعامل بشكل مريح مع الخرائط وواتساب وإنستغرام والبريد الإلكتروني. إذا كنت من مستخدمي البيانات الكثيفين، فإن خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) تمنحك راحة البال. تخطي كاونتر SIM في المطار يوفر لك 30-50٪ ومتاعب الطابور. هل تحتاج إلى تعديل؟ يمكنك الشحن في أي وقت من تطبيق Roami.
+        بالتأكيد. تبدأ خطط eSIM من Roami لكوستاريكا من 9.99 دولار. خيار 5 جيجابايت / 15 يومًا (20.99 دولار) هو الأكثر شيوعًا بين المسافرين — فهو يتعامل بشكل مريح مع الخرائط وواتساب وإنستغرام والبريد الإلكتروني. إذا كنت من مستخدمي البيانات الكثيفين، فإن خطط 10 جيجابايت (34.99 دولار) أو غير المحدودة (84.99 دولار) تمنحك راحة البال. تخطي كاونتر SIM في المطار يوفر لك 30-50٪ ومتاعب الطابور. هل تحتاج إلى تعديل؟ يمكنك الشحن في أي وقت من تطبيق Roami.
     - q: |
         كيف يقارن eSIM بـ Wi-Fi المحمول (Pocket WiFi) للسفر في كوستاريكا؟
       a: |
@@ -333,7 +333,7 @@ faq_section:
     - q: |
         ماذا يشمل شراء eSIM كوستاريكا من Roami؟
       a: |
-        تسليم رمز QR في غضون 5 دقائق، الوصول إلى شبكة Kölbi، دعم العملاء 24/7، ونقطة اتصال مجانية لما يصل إلى 5 أجهزة. تبدأ الخطط من 1.99 دولار. لا عقود، لا رسوم خفية، لا تجديد تلقائي.
+        تسليم رمز QR في غضون 5 دقائق، الوصول إلى شبكة Kölbi، دعم العملاء 24/7، ونقطة اتصال مجانية لما يصل إلى 5 أجهزة. تبدأ الخطط من 9.99 دولار. لا عقود، لا رسوم خفية، لا تجديد تلقائي.
     - q: |
         ما الفرق بين خطة 5 جيجابايت والخطة غير المحدودة لكوستاريكا؟
       a: |
@@ -346,63 +346,75 @@ faq_section:
         كم مقدمًا يجب أن أشتري eSIM كوستاريكا؟
       a: |
         يمكنك الشراء في أي وقت — حتى عند بوابة الصعود. يصل رمز QR في غضون دقائق. نوصي بالشراء قبل بضعة أيام حتى تتمكن من التثبيت عبر Wi-Fi في المنزل. يتم تفعيل الخطة فقط عند الاتصال في كوستاريكا، لذا الشراء المبكر لا يضيع أيام خطتك.
+    - q: |
+        هل يمكنني شراء eSIM كوستاريكا في يوم السفر؟
+      a: |
+        يمكن شراء eSIM كوستاريكا قبل السفر أو بعده. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        كم يمكن توفيره باستخدام eSIM في كوستاريكا؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM كوستاريكا شبكة محلية مباشرة (Liberty) فيكون أوفر. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        هل يمكنني البدء بباقة صغيرة ثم زيادتها لاحقًا في كوستاريكا؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM ذات الصلة لكوستاريكا
+  title: باقات eSIM أخرى قد تهمك مع كوستاريكا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM كمبوديا
+    flag: img/flags/kh.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM مالي
+    flag: img/flags/ml.svg
+    price: من 27.99 دولار
+    is_highlight: false
+  - name: eSIM بلغاريا
+    flag: img/flags/bg.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM جزر فارو
+    flag: img/flags/fo.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM النمسا
+    flag: img/flags/at.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM فيتنام
+    flag: img/flags/vn.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بيرو
+    flag: img/flags/pe.svg
+    price: من 4.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM كازاخستان
+    flag: img/flags/kz.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM كينيا
+    flag: img/flags/ke.svg
+    price: من 7.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM إسرائيل
+    flag: img/flags/il.svg
+    price: من 2.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
+  - name: eSIM بربادوس
+    flag: img/flags/bb.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM جنوب إفريقيا
+    flag: img/flags/za.svg
+    price: من 3.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM كوستاريكا مقابل خطط بطاقات SIM: أيهما يناسب احتياجاتك؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في كوستاريكا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM المدفوعة مسبقًا (كوستاريكا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Costa-Rica
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

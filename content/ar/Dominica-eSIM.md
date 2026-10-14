@@ -1,6 +1,6 @@
 ---
 title: 'eSIM دومينيكا 2026: دليل الخطط والتغطية | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM دومينيكا | أفضل بيانات 5G مدفوعة مسبقاً لإقامتك"
   description: "أفضل eSIM سفر مدفوعة مسبقاً من روامي لدومينيكا. بيانات 5G غير محدودة. تغطي روسو وجميع الأبرشيات. تفعيل فوري. اشترِ خطتك الآن."
-  keywords: eSIM دومينيكا، شراء eSIM دومينيكا، أفضل eSIM دومينيكا، eSIM السفر إلى دومينيكا، ديجيسيل دومينيكا، فلو دومينيكا، أورانج دومينيكا، eSIM روسو، eSIM بورتسموث، eSIM ماريغوت، eSIM دومينيكا مسبقة الدفع، 5G eSIM دومينيكا
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM دومينيكا، شراء eSIM دومينيكا، أفضل eSIM دومينيكا، eSIM دومينيكا رخيصة، eSIM دومينيكا مسبقة الدفع، باقة eSIM دومينيكا، eSIM دومينيكا غير محدودة، eSIM دومينيكا 5G، أفضل eSIM لـ دومينيكا، سعر eSIM دومينيكا، تفعيل eSIM دومينيكا، تغطية eSIM دومينيكا، ديجيسيل دومينيكا، eSIM روسو، eSIM بورتسموث، eSIM ماريغوت
+  low_price: 11.99
+  high_price: 52.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/dm.svg
   flag_alt: علم دومينيكا
-  title: 'eSIM دومينيكا: شبكة وتغطية موثوقة للمسافرين'
+  title: 'eSIM دومينيكا: اتصال دائم أثناء السفر'
   subtitle: أفضل eSIM مسبقة الدفع للمسافرين إلى دومينيكا - 5G سريع، تفعيل فوري، دعم 24/7
 features:
-  title: 'لماذا يختار مسافرو دومينيكا روامي: السرعة، التغطية والدعم'
+  title: لماذا روامي مناسب لرحلتك إلى دومينيكا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائياً بأفضل مشغلي دومينيكا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM دومينيكا: خطط تناسب كل مدة سفر'
+plans_title: 'باقات eSIM دومينيكا: مقارنة المدة والسعر'
 plans_data:
   15 يوم:
   - spec: 3 جيجابايت
@@ -131,7 +131,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM دومينيكا: دليل كامل للشبكات المحلية'
+  title: 'تغطية شبكة eSIM دومينيكا: ما تحتاج معرفته'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -162,7 +162,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM دومينيكا: ما يجب معرفته قبل الذهاب'
+  title: نصائح ما قبل الرحلة لـ eSIM دومينيكا
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -181,7 +181,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM دومينيكا: 3 خطوات بسيطة'
+  title: كيف تثبّت eSIM دومينيكا على آيفون وأندرويد
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -206,7 +206,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM دومينيكا
+    title: توضيحات سريعة حول eSIM دومينيكا
     questions:
     - q: |
         هل تقدم فلو أم ديجيسيل سرعات بيانات أفضل في دومينيكا؟
@@ -219,7 +219,7 @@ faq_section:
     - q: |
         ماذا لو كان فندقي في دومينيكا يوفر WiFi مجانياً — هل ما زلت بحاجة إلى بيانات eSIM؟
       a: |
-        يعمل WiFi في الفندق في غرفتك ولكن ليس عندما تكون بالخارج تستكشف. يمنحك eSIM بيانات في كل مكان — التنقل في الشوارع، والبحث عن الأماكن القريبة، والتحقق من جداول النقل. تكلف خطة 5 جيجابايت 9.99 دولار، وهي غالباً أرخص من WiFi المدفوع في الفندق لمدة أسبوع (10-15 دولار في العديد من الفنادق). يستخدم معظم المسافرين WiFi الفندق للتنزيلات الكبيرة وeSIM للاتصال أثناء التنقل.
+        يعمل WiFi في الفندق في غرفتك ولكن ليس عندما تكون بالخارج تستكشف. يمنحك eSIM بيانات في كل مكان — التنقل في الشوارع، والبحث عن الأماكن القريبة، والتحقق من جداول النقل. تكلف خطة 5 جيجابايت 37.99 دولار، وهي غالباً أرخص من WiFi المدفوع في الفندق لمدة أسبوع (10-15 دولار في العديد من الفنادق). يستخدم معظم المسافرين WiFi الفندق للتنزيلات الكبيرة وeSIM للاتصال أثناء التنقل.
     - q: |
         كيف تقارن eSIM بـ WiFi المحمول للسفر إلى دومينيكا؟
       a: |
@@ -227,7 +227,7 @@ faq_section:
     - q: |
         أحتاج إلى الوصول إلى الإنترنت لبضعة أيام فقط في دومينيكا. ما هو الحد الأدنى الذي يمكنني شراؤه؟
       a: |
-        أرخص خطة هي 1.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لعطلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك الشحن في أي وقت من التطبيق.
+        أرخص خطة هي 11.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لعطلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك الشحن في أي وقت من التطبيق.
     - q: |
         ما الفرق بين خطة 5 جيجابايت والخطة غير المحدودة لدومينيكا؟
       a: |
@@ -240,63 +240,75 @@ faq_section:
         هل تعمل eSIM دومينيكا في المناطق الريفية والبلدات الصغيرة؟
       a: |
         تصل التغطية في دومينيكا إلى حوالي 95% من المناطق الحضرية لكنها تنخفض في المواقع النائية. قد تنخفض السرعات من 200-300 ميجابايت/ث (5G) إلى 10-30 ميجابايت/ث (4G). يقوم روامي بالتبديل التلقائي إلى أقوى شبكة. قم بتنزيل الخرائط دون اتصال قبل التوجه إلى المناطق النائية.
+    - q: |
+        هل يمكنني تغيير باقة eSIM دومينيكا بعد الشراء؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM دومينيكا عبر الإنترنت. بعد الوصول إلى دومينيكا، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        ما أفضل طريقة لتقليل تكلفة البيانات في دومينيكا؟
+      a: |
+        أسعار eSIM دومينيكا معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        هل يمكنني إعادة تعبئة بيانات eSIM دومينيكا بعد نفادها؟
+      a: |
+        عند نفاد بيانات eSIM دومينيكا يمكنك إضافة باقة بيانات جديدة من نفس الحساب. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM دومينيكا ذات الصلة
+  title: مقترحات eSIM حول رحلتك إلى دومينيكا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM فيتنام
+    flag: img/flags/vn.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM بيرو
+    flag: img/flags/pe.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM كازاخستان
+    flag: img/flags/kz.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM كينيا
+    flag: img/flags/ke.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM إسرائيل
+    flag: img/flags/il.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM بربادوس
+    flag: img/flags/bb.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM جنوب إفريقيا
+    flag: img/flags/za.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM أفغانستان
+    flag: img/flags/af.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM ليبيريا
+    flag: img/flags/lr.svg
+    price: من 27.99 دولار
+    is_highlight: false
+  - name: eSIM اليونان
+    flag: img/flags/gr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM هولندا
+    flag: img/flags/nl.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
-    is_highlight: false
 market_analysis:
   title: 'eSIM دومينيكا مقابل بطاقة SIM المحلية المدفوعة مسبقاً: أيهما أكثر ملاءمة؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقاً في دومينيكا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (دومينيكا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Dominica
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - SIM محلية مسبقة الدفع (بيانات السوق)

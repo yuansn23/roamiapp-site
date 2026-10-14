@@ -1,6 +1,6 @@
 ---
 title: コロンビア eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:01:17+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,7 +20,9 @@ modal:
 seo:
   title: eSIM コロンビア | 速度と価格と品質のバランスを重視した選び方ガイド
   description: コロンビアを周遊する旅行者にRoamiのeSIMが最適。複数都市を移動しても途切れない安定接続。大容量プランなら長時間の動画視聴やビデオ通話も安心。日本を出発する前に準備して到着後すぐに活用。
-  keywords: コロンビア eSIM, コロンビア ネットワーク, コロンビア 旅行, データ通信, 海外ローミング
+  low_price: 4.99
+  high_price: 86.99
+  keywords: コロンビア eSIM, コロンビア eSIM 料金, コロンビア eSIM おすすめ, コロンビア eSIM 安い, コロンビア eSIM 購入, コロンビア eSIM 申し込み, コロンビア eSIM データ無制限, コロンビア プリペイドSIM, コロンビア 旅行 eSIM, コロンビア eSIM 価格, コロンビア eSIM 設定方法, コロンビア eSIM 対応エリア, ボゴタ eSIM, メデジン eSIM, コロンビア モバイルデータ, コロンビア eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: コロンビア向け最高のeSIM
-  title: コロンビア eSIM，海外旅行上网无忧
+  title: コロンビア旅行に便利なeSIMデータプラン
 hero:
   flag_image: img/flags/co.svg
   flag_alt: コロンビアの国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: データ容量を選ぶ
 plans_data:
   7 日:
   - spec: 1GB
@@ -282,7 +284,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: スムーズ利用のヒント
   items:
   - icon: 📱
     html: |-
@@ -333,19 +335,19 @@ activation_steps:
     is_list: false
 faq_section:
   title: 'コロンビア eSIM : よくある質問と旅行ガイド'
-  desc: コロンビアでのデータ通信に最適なeSIMの選び方。おすすめプランの価格比較、高速5G対応のネットワーク品質、QRコードでの即時設定方法、24時間日本語サポート体制。海外ローミングより格安で快適なインターネット接続を実現します。コロンビアではClaroのネットワークに対応。
+  desc: コロンビアでのデータ通信に最適なeSIMの選び方。コロンビアではClaroのネットワークに対応。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. よくある疑問
     questions:
     - q: コロンビア用eSIMのアクティベーション方法と有効期間の開始時期は？
       a: 購入後、すぐにアクティベーション用QRコードがメールで届きます。有効期間は、お使いの端末がコロンビアの提携ネットワーク（Claro / Tigo）に初めて接続した時点から始まります。つまり、実際に現地に到着した日数だけ課金されます。
     - q: Roamiはコロンビア以外の地域向けeSIMも提供していますか？
       a: はい、コロンビア用eSIMの他に、ヨーロッパ、アジア、北米、グローバル向けの地域別eSIMも提供しています。複数都市をまたぐ旅行や数カ国を巡るツアーに最適です
         — SIMカードの交換は不要です。
-        事前購入で到着後すぐに使えるRoamiのeSIM。1GBから無制限まで旅行スタイルに合わせて選択でき、追加チャージも簡単です。
+
     - q: QRコードなしでコロンビア用eSIMをインストールできますか？
       a: はい、QRコードの他に、SM‑DP+アドレスとアクティベーションコード（注文確認メールに記載）を使って手動でインストールすることも可能です。QRコードが最も簡単で迅速な方法です。
     - q: コロンビア用eSIMは物理SIMよりも安全ですか？
@@ -354,7 +356,7 @@ faq_section:
       a: アクティベーション後、オンラインのダッシュボードにアクセスできます。そこでデータ残量、残り時間をリアルタイムで確認し、いつでもサポートを依頼できます。
     - q: コロンビア用eSIMのQRコードの有効期限は？
       a: QRコードはメール送信後30日間有効です。旅行前に十分な時間があります。期限が切れた場合は、新しいコードを発行できます。
-        出発前にコロンビア用eSIMをインストールすれば、到着後すぐにデータ通信が始められます。海外旅行eSIMの準備は、自宅のWi-Fi環境で事前に完了させるのがおすすめです。
+
     - q: 私のスマートフォンはコロンビアのeSIMに対応していますか？また、インストール方法は？
       a: はい、最新のスマートフォン（iPhone XS/XR以降、Samsung Galaxy S20+/Note20+、Google Pixel 3a+など）はeSIMに対応しています。コロンビア用eSIMは、モバイル設定でQRコードをスキャンしてインストールします。Claro
         / Tigoのネットワークはコロンビアで優れた5G/4Gカバレッジを提供します。
@@ -366,7 +368,13 @@ faq_section:
 
     - q: コロンビア用eSIMは近隣諸国での国際ローミングはどうなりますか？
       a: コロンビア用eSIMは主にコロンビア向けに最適化されています。近隣諸国への旅行には、当社のヨーロッパまたは地域別eSIMをお勧めします。これにより追加料金なしでシームレスなローミングが可能です。
-        コロンビアのeSIMはRoamiで購入が一番お得。格安データ通信。事前に日本で準備して到着後すぐに使える便利さ。デュアルSIM対応で日本のSIMもそのまま。
+
+    - q: コロンビアで使うeSIMの申し込み方法と支払い方法を教えてください。
+      a: コロンビア用eSIMは出発前でも現地でも申し込み可能です。申し込み後はQRコードがメールで届き、Claroのネットワークに接続するだけで利用を開始できます。
+    - q: コロンビア用eSIMは使った分だけ支払う仕組みですか？
+      a: 用途に合わせて容量を選べるため、コロンビアではeSIMのほうが無駄なく費用を抑えられます。詳しい料金比較は、各プランの内容と合わせてプラン一覧で確認できます。
+    - q: コロンビア用eSIMのデータが途中で尽きたら通信は止まりますか？
+      a: コロンビア用eSIMはプリペイド式で、データが少なくなったらアプリから追加購入できます。滞在日数と用途に合わせて最初に適切な容量を選ぶと、追加購入を減らせます。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -529,81 +537,80 @@ faq_section:
       a: コロンビア用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: コロンビア用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        eSIMの設定はQRコードをスキャンするだけで完了。物理SIM不要でデュアルSIM運用も可能。最安1GB/$1.99から使える格安データ通信。
-        eSIM対応端末をお持ちなら物理SIMより便利。契約不要でプリペイド式、1GBから無制限まで選べる。事前購入がお得でおすすめ。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にコロンビア用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
+  - name: コンゴ eSIM
+    flag: img/flags/cg.svg
+    price: 7.99ドルから
+    is_highlight: false
+    slug: congo-esim
+  - name: コスタリカ eSIM
+    flag: img/flags/cr.svg
+    price: 9.99ドルから
+    is_highlight: false
+    slug: costa-rica-esim
+  - name: クロアチア eSIM
+    flag: img/flags/hr.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
-    price: 1.99ドルから
+    slug: croatia-esim
+  - name: キプロス eSIM
+    flag: img/flags/cy.svg
+    price: 2.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
+    slug: cyprus-esim
+  - name: チェコ eSIM
+    flag: img/flags/cz.svg
     price: 1.99ドルから
     is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
+    slug: czech-republic-esim
+  - name: デンマーク eSIM
+    flag: img/flags/dk.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
+    slug: denmark-esim
+  - name: ドミニカ国 eSIM
+    flag: img/flags/dm.svg
+    price: 11.99ドルから
+    is_highlight: false
+    slug: dominica-esim
+  - name: ドミニカ共和国 eSIM
+    flag: img/flags/do.svg
+    price: 5.99ドルから
+    is_highlight: false
+    slug: dominican-republic-esim
+  - name: エクアドル eSIM
+    flag: img/flags/ec.svg
+    price: 6.99ドルから
+    is_highlight: false
+    slug: ecuador-esim
+  - name: エジプト eSIM
+    flag: img/flags/eg.svg
+    price: 2.99ドルから
+    is_highlight: false
+    slug: egypt-esim
+  - name: エルサルバドル eSIM
+    flag: img/flags/sv.svg
+    price: 23.99ドルから
+    is_highlight: false
+    slug: el-salvador-esim
+  - name: エストニア eSIM
+    flag: img/flags/ee.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+    slug: estonia-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "コロンビアでのeSIMと物理SIMのメリット・デメリット"
   subtitle: "コロンビアの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Colombia) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Colombia"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -677,4 +684,3 @@ market_analysis:
         title: "アクティベーション時間を短縮"
         desc: "コロンビアの空港でClaro SIMを購入する場合、店舗での手続きやIMEI登録に時間がかかる。eSIMは購入後<b>1分以内</b>にアクティベーション完了。"
 ---
-        eSIM対応端末をお持ちなら物理SIMより便利。契約不要でプリペイド式、1GBから無制限まで選べる。事前購入がお得でおすすめ。

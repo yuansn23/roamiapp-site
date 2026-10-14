@@ -1,6 +1,6 @@
 ---
 title: 'جمهورية الدومينيكان eSIM 2026: دليل السياح والشبكات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Claro, Altice, Viva
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: سانتو دومينغو، بونتا كانا، سانتياغو، لا رومانا، بويرتو بلاتا
-  main_packages: 3/7/15/30 يوم، بيانات غير محدودة
+  main_packages: 3/7/15/30 أيام، حتى 10 جيجابايت
 modal:
   title: تم ترقية الخدمة!
   btn_text: متابعة
@@ -17,10 +17,10 @@ modal:
   text_android: تم ترقية خدمة eSIM لدينا إلى <strong>PhoneSIM</strong>.<br>يحصل العملاء الجدد على خصم 20%، رمز الخصم:web20
 seo:
   title: "eSIM جمهورية الدومينيكان | خطة 5G سريعة وموثوقة الآن"
-  description: "أفضل eSIM سياحي مسبق الدفع من Roami للدومينيكان. بيانات غير محدودة 5G. تغطي بونتا كانا وسانتو دومينغو وبويرتو بلاتا. وخطط مرنة."
-  keywords: eSIM جمهورية الدومينيكان، شراء eSIM جمهورية الدومينيكان، أفضل eSIM جمهورية الدومينيكان، eSIM سفر جمهورية الدومينيكان، Claro جمهورية الدومينيكان، Altice جمهورية الدومينيكان، Viva جمهورية الدومينيكان، eSIM سانتو دومينغو، eSIM بونتا كانا، eSIM سانتياغو، eSIM مسبق الدفع جمهورية الدومينيكان، eSIM 5G جمهورية الدومينيكان
-  low_price: 1.99
-  high_price: 39.9
+  description: "أفضل eSIM سياحي مسبق الدفع من Roami للدومينيكان. بيانات 5G عالية السرعة. تغطي بونتا كانا وسانتو دومينغو وبويرتو بلاتا. وخطط مرنة."
+  keywords: eSIM جمهورية الدومينيكان، شراء eSIM جمهورية الدومينيكان، أفضل eSIM جمهورية الدومينيكان، eSIM جمهورية الدومينيكان رخيصة، eSIM جمهورية الدومينيكان مسبقة الدفع، باقة eSIM جمهورية الدومينيكان، باقة بيانات eSIM جمهورية الدومينيكان، eSIM جمهورية الدومينيكان 5G، أفضل eSIM لـ جمهورية الدومينيكان، سعر eSIM جمهورية الدومينيكان، تفعيل eSIM جمهورية الدومينيكان، تغطية eSIM جمهورية الدومينيكان، Claro جمهورية الدومينيكان، eSIM سانتو دومينغو، eSIM بونتا كانا، eSIM سانتياغو
+  low_price: 5.99
+  high_price: 54.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/do.svg
   flag_alt: علم جمهورية الدومينيكان
-  title: 'eSIM جمهورية الدومينيكان: حلول بيانات كاملة لرحلتك'
+  title: 'eSIM جمهورية الدومينيكان: بيانات مرنة بتفعيل لحظي'
   subtitle: تفعيل فوري | تغطية 5G الأعلى تقييمًا | دعم 24/7 - أفضل eSIM مسبق الدفع لجمهورية الدومينيكان
 features:
-  title: 'لماذا يختار مسافرو جمهورية الدومينيكان Roami: الشبكة، الخطط والقيمة'
+  title: 'ما يميز eSIM جمهورية الدومينيكان من روامي: السرعة والخدمة'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي جمهورية الدومينيكان للحصول على أفضل إشارة
-plans_title: 'شراء eSIM جمهورية الدومينيكان: خطط لكل مدة رحلة'
+plans_title: 'خطط eSIM جمهورية الدومينيكان: اختر ما يناسب جدول رحلتك'
 plans_data:
   30 يومًا:
   - spec: 10GB
@@ -189,7 +189,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'المدة: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM جمهورية الدومينيكان: مقارنة التغطية والمشغلين'
+  title: 'eSIM جمهورية الدومينيكان: تغطية الشبكة وأفضل المشغلين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -220,7 +220,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM جمهورية الدومينيكان: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM جمهورية الدومينيكان: خطوات تحضير سريعة قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -239,7 +239,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على الشاشة، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM جمهورية الدومينيكان: 3 خطوات بسيطة'
+  title: 'eSIM جمهورية الدومينيكان: خطوات الإعداد والتفعيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -264,12 +264,12 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM جمهورية الدومينيكان
+    title: أسئلة المسافر المتكررة عن eSIM جمهورية الدومينيكان
     questions:
     - q: |
         ماذا لو كان فندقي في جمهورية الدومينيكان يوفر Wi-Fi مجاني — هل ما زلت بحاجة إلى بيانات eSIM؟
       a: |
-        يعمل Wi-Fi الفندق في غرفتك ولكن ليس عندما تكون بالخارج تستكشف. يمنحك eSIM البيانات في كل مكان — التنقل في الشوارع، البحث عن الأماكن القريبة، التحقق من جداول النقل. تكلف خطة 5 جيجابايت 9.99 دولار، وهو غالبًا أرخص من Wi-Fi الفندق المدفوع لمدة أسبوع (10-15 دولارًا في العديد من الفنادق). يستخدم معظم المسافرين Wi-Fi الفندق للتنزيلات الكبيرة و eSIM للاتصال أثناء التنقل.
+        يعمل Wi-Fi الفندق في غرفتك ولكن ليس عندما تكون بالخارج تستكشف. يمنحك eSIM البيانات في كل مكان — التنقل في الشوارع، البحث عن الأماكن القريبة، التحقق من جداول النقل. تكلف خطة 5 جيجابايت 18.99 دولار، وهو غالبًا أرخص من Wi-Fi الفندق المدفوع لمدة أسبوع (10-15 دولارًا في العديد من الفنادق). يستخدم معظم المسافرين Wi-Fi الفندق للتنزيلات الكبيرة و eSIM للاتصال أثناء التنقل.
     - q: |
         كيف يقارن eSIM بـ Wi-Fi المحمول (Pocket WiFi) للسفر في جمهورية الدومينيكان؟
       a: |
@@ -277,7 +277,7 @@ faq_section:
     - q: |
         أحتاج إلى اتصال إنترنت لبضعة أيام فقط في جمهورية الدومينيكان. ما هو الحد الأدنى الذي يمكنني شراؤه؟
       a: |
-        أرخص خطة هي 1.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لرحلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك الشحن في أي وقت من التطبيق.
+        أرخص خطة هي 5.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لرحلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك الشحن في أي وقت من التطبيق.
     - q: |
         ما الفرق بين خطة 5 جيجابايت والخطة غير المحدودة لجمهورية الدومينيكان؟
       a: |
@@ -298,55 +298,67 @@ faq_section:
         ما هي المستندات المطلوبة لشراء eSIM جمهورية الدومينيكان من Roami؟
       a: |
         مجرد وسيلة دفع صالحة — بطاقة ائتمان، PayPal، Apple Pay، أو Google Pay. لا حاجة لتحميل جواز السفر، لا تحقق من العنوان، لا عقود. قم بالشراء عبر الإنترنت، واستلم رمز QR عبر البريد الإلكتروني في غضون دقائق، وقم بتثبيته مباشرة على هاتفك.
+    - q: |
+        هل أحتاج إدخال تواريخ الرحلة عند شراء eSIM جمهورية الدومينيكان؟
+      a: |
+        يتيح Roami شراء eSIM جمهورية الدومينيكان من التطبيق أو الموقع. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة Claro لتبدأ الاستخدام فورًا.
+    - q: |
+        هل يوفّر eSIM جمهورية الدومينيكان التكلفة للإقامات الطويلة؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM جمهورية الدومينيكان شبكة محلية مباشرة (Claro) فيكون أوفر. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل هناك حد لعدد مرات إضافة البيانات إلى eSIM جمهورية الدومينيكان؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM ذات الصلة لجمهورية الدومينيكان
+  title: وجهات أخرى لرحلتك القادمة من جمهورية الدومينيكان
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM بيرو
+    flag: img/flags/pe.svg
+    price: من 4.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM كازاخستان
+    flag: img/flags/kz.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM كينيا
+    flag: img/flags/ke.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM إسرائيل
+    flag: img/flags/il.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM بربادوس
+    flag: img/flags/bb.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM جنوب إفريقيا
+    flag: img/flags/za.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM أفغانستان
+    flag: img/flags/af.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM ليبيريا
+    flag: img/flags/lr.svg
+    price: من 27.99 دولار
+    is_highlight: false
+  - name: eSIM اليونان
+    flag: img/flags/gr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
+  - name: eSIM هولندا
+    flag: img/flags/nl.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM مدينة الفاتيكان
+    flag: img/flags/va.svg
+    price: من 10.99 دولار
     is_highlight: false
 ---

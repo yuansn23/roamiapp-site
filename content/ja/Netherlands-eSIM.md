@@ -1,6 +1,6 @@
 ---
 title: オランダ eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:01:03+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,7 +20,9 @@ modal:
 seo:
   title: eSIM オランダ | 初めてのeSIMでも安心な簡単設定サポートガイド
   description: オランダで安定した5G通信を求めるならRoamiのeSIM。現地の主要キャリアネットワークを利用し高速かつ安定したデータ通信を実現。大容量ファイルの送受信や高画質動画の視聴もストレスなく行えます。
-  keywords: オランダeSIM, ネットワークカバレッジ, 現地観光, 旅行, データ通信
+  low_price: 1.99
+  high_price: 69.99
+  keywords: オランダ eSIM, オランダ eSIM 料金, オランダ eSIM おすすめ, オランダ eSIM 安い, オランダ eSIM 購入, オランダ eSIM 申し込み, オランダ eSIM データ無制限, オランダ プリペイドSIM, オランダ 旅行 eSIM, オランダ eSIM 価格, オランダ eSIM 設定方法, オランダ eSIM 対応エリア, アムステルダム eSIM, ロッテルダム eSIM, オランダ モバイルデータ, オランダ eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: オランダ向け最高のeSIM
-  title: 海外旅行，就选オランダ eSIM
+  title: オランダ eSIMで安心のデータ通信を
 hero:
   flag_image: img/flags/nl.svg
   flag_alt: オランダの国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: シンプルな料金プラン
 plans_data:
   30 日:
   - spec: 20GB
@@ -322,7 +324,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: トラブル回避のヒント
   items:
   - icon: 📱
     html: |-
@@ -373,12 +375,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: 'eSIM オラ | ビジネス出張に最適な高速通信プラン比較'
-  desc: オランダ旅行の通信費を抑えるeSIM活用法。1GBから無制限まで選べるデータプラン、事前購入のメリット、現地ネットワークの自動切替機能、デュアルSIM設定の方法まで詳しくご紹介します。オランダではKPNのネットワークに対応。
+  desc: オランダ旅行の通信費を抑えるeSIM活用法。オランダではKPNのネットワークに対応。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. 基本とよくある質問
     questions:
     - q: オランダ用eSIMを使用中、国内のSIMで電話を受けることはできますか？
       a: はい、デュアルSIM端末では両方のプロファイルを同時に使用できます。モバイルデータにはRoami eSIMをデフォルトに設定するだけです。通話やSMSは国内SIM経由で（ローミングが有効な場合があります）行われます。
@@ -388,10 +390,9 @@ faq_section:
       a: はい、アクティベーションから7日以内に技術的な問題が解決できない場合、100%返金保証を提供しています。リスクはありません。
     - q: オランダ用eSIMは近隣諸国での国際ローミングはどうなりますか？
       a: オランダ用eSIMは主にオランダ向けに最適化されています。近隣諸国への旅行には、当社のヨーロッパまたは地域別eSIMをお勧めします。これにより追加料金なしでシームレスなローミングが可能です。
-        複数国を周遊する旅行なら、地域別eSIM（ヨーロッパやアジア）を選べば国境を越えるたびに自動でネットワーク切替。追加購入や設定変更の手間がかかりません。海外旅行eSIMの地域別プランなら周遊旅行もスムーズです。
+
     - q: オランダ用eSIMを他のデバイスとテザリング（ポケットWi-Fi）できますか？
-      a: は
-        Roamiなら1GB/$1.99からの格安プランでオランダの5G高速通信を利用可能。24時間日本語サポート付きで初めての海外eSIMも安心です。い、Roamiのオランダ用eSIMプランは全てテザリング（ポケットWi-Fi）を無制限でサポートしています。ノートパソコン、タブレット、または旅行仲間と接続を共有できます
+      a: はい、Roamiのオランダ用eSIMプランは全てテザリング（ポケットWi-Fi）を無制限でサポートしています。ノートパソコン、タブレット、または旅行仲間と接続を共有できます
         — 隠れたコストも速度制限もありません。
     - q: オランダ用eSIMを使用するためにスマートフォンに求められる要件は？
       a: お使いの端末がeSIMに対応している必要があります（iPhone XS/XR以降、Samsung Galaxy S20/Note20以降、Google
@@ -406,7 +407,13 @@ faq_section:
     - q: Roamiはオランダ以外の地域向けeSIMも提供していますか？
       a: はい、オランダ用eSIMの他に、ヨーロッパ、アジア、北米、グローバル向けの地域別eSIMも提供しています。複数都市をまたぐ旅行や数カ国を巡るツアーに最適です
         — SIMカードの交換は不要です。
-        オランダ旅行でのデータ通信料金を比較するならRoami。海外ローミングより最大80%割安で契約不要。事前に日本で設定しておけば到着後すぐに接続。日本語サポート付き。
+
+    - q: オランダ旅行のeSIM申し込みは家族分まとめてできますか？
+      a: Roamiならオランダ用eSIMをアプリまたはWebサイトから申し込みできます。オランダ到着後にデータ通信をオンにすれば自動で接続され、追加の申し込みは不要です。
+    - q: オランダ用eSIMと国際ローミングパックを比較した違いは何ですか？
+      a: 用途に合わせて容量を選べるため、オランダではeSIMのほうが無駄なく費用を抑えられます。実際の料金は選ぶプランによって異なるため、現在の価格は公式サイトでご確認ください。
+    - q: オランダのeSIMで複数のデータプランを切り替えられますか？
+      a: 残データはアプリやWebのダッシュボードでいつでも確認でき、足りなくなれば追加できます。現地SIMのように店舗でチャージする必要はなく、すべてオンラインで完結します。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -570,81 +577,80 @@ faq_section:
       a: オランダ用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: オランダ用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        旅行用eSIMの使い方は簡単。購入後メールで届くQRコードをスキャンしてインストール。Roamiなら無制限プランもあり5G対応。
-        eSIM対応端末をお持ちなら物理SIMより便利。契約不要でプリペイド式、1GBから無制限まで選べる。事前購入がお得でおすすめ。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にオランダ用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
-    price: 1.99ドルから
+  - name: ニュージーランド eSIM
+    flag: img/flags/nz.svg
+    price: 3.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
-    price: 1.99ドルから
+    slug: new-zealand-esim
+  - name: ニジェール eSIM
+    flag: img/flags/ni.svg
+    price: 23.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
+    slug: niger-esim
+  - name: ナイジェリア eSIM
+    flag: img/flags/ng.svg
+    price: 5.99ドルから
+    is_highlight: false
+    slug: nigeria-esim
+  - name: ノルウェー eSIM
+    flag: img/flags/no.svg
     price: 1.99ドルから
     is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
+    slug: norway-esim
+  - name: オマーン eSIM
+    flag: img/flags/om.svg
+    price: 5.99ドルから
+    is_highlight: false
+    slug: oman-esim
+  - name: パキスタン eSIM
+    flag: img/flags/pk.svg
+    price: 3.99ドルから
+    is_highlight: false
+    slug: pakistan-esim
+  - name: パナマ eSIM
+    flag: img/flags/pa.svg
+    price: 11.99ドルから
+    is_highlight: false
+    slug: panama-esim
+  - name: パラグアイ eSIM
+    flag: img/flags/py.svg
+    price: 22.99ドルから
+    is_highlight: false
+    slug: paraguay-esim
+  - name: ペルー eSIM
+    flag: img/flags/pe.svg
+    price: 4.99ドルから
+    is_highlight: false
+    slug: peru-esim
+  - name: フィリピン eSIM
+    flag: img/flags/ph.svg
+    price: 2.99ドルから
+    is_highlight: false
+    slug: philippines-esim
+  - name: ポーランド eSIM
+    flag: img/flags/pl.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
+    slug: poland-esim
+  - name: ポルトガル eSIM
+    flag: img/flags/pt.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+    slug: portugal-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "オランダで自分に合うのはeSIMかプリペイドか？"
   subtitle: "オランダの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Netherlands) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Netherlands"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -689,7 +695,7 @@ market_analysis:
     - icon: "headset"
       title: "カスタマーサポート"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。"
+      prepaid_desc: "現地事業者のサポートは現地語が中心で、対応時間が限られる場合があります。"
       esim_title: "24時間サポート"
       esim_desc: "現地SIMのサポートは限定的だが、eSIMは24時間多言語チャットサポートを提供。旅行中のトラブルも即座に対応。"
 

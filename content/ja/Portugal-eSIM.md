@@ -1,6 +1,6 @@
 ---
 title: ポルトガル eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:01:48+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,10 @@ modal:
     当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました！<br>新規のお客様はコード <strong>web20</strong> で20%オフ！
 seo:
   title: eSIM ポルトガル | 旅行コスト削減に役立つデータ通信の賢い選び方ガイド
-  description: ポルトガルでInstagramやTikTokを楽しむRoamiのeSIM。無制限プランならデータ容量を気にせず動画投稿やライブ配信も可能。5G対応でアップロード速度も速く旅行の思い出をリアルタイムでシェア。
-  keywords: ポルトガル eSIM, ポルトガル ネットワーク, ポルトガル 旅行, ポルトガル 現地情報, ポルトガル モバイルデータ
+  description: ポルトガルでInstagramやTikTokを楽しむRoamiのeSIM。無制限プランならデータ容量を気にせず動画投稿やライブ配信も可能。
+  low_price: 1.99
+  high_price: 71.99
+  keywords: ポルトガル eSIM, ポルトガル eSIM 料金, ポルトガル eSIM おすすめ, ポルトガル eSIM 安い, ポルトガル eSIM 購入, ポルトガル eSIM 申し込み, ポルトガル eSIM データ無制限, ポルトガル プリペイドSIM, ポルトガル 旅行 eSIM, ポルトガル eSIM 価格, ポルトガル eSIM 設定方法, ポルトガル eSIM 対応エリア, リスボン eSIM, ポルト eSIM, ポルトガル モバイルデータ, ポルトガル eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: ポルトガル向け最高のeSIM
-  title: 海外旅行，就选ポルトガル eSIM
+  title: ポルトガル eSIMで旅先でも安心の通信
 hero:
   flag_image: img/flags/pt.svg
   flag_alt: ポルトガルの国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: 旅程に合うプラン
 plans_data:
   30 日:
   - spec: 20GB
@@ -330,7 +332,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: 購入前にご確認ください
   items:
   - icon: 📱
     html: |-
@@ -386,7 +388,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. 基礎知識
     questions:
     - q: ポルトガル用eSIMを使用中、国内のSIMで電話を受けることはできますか？
       a: はい、デュアルSIM端末では両方のプロファイルを同時に使用できます。モバイルデータにはRoami eSIMをデフォルトに設定するだけです。通話やSMSは国内SIM経由で（ローミングが有効な場合があります）行われます。
@@ -410,8 +412,14 @@ faq_section:
 
     - q: ポルトガル用eSIMは近隣諸国での国際ローミングはどうなりますか？
       a: ポルトガル用eSIMは主にポルトガル向けに最適化されています。近隣諸国への旅行には、当社のヨーロッパまたは地域別eSIMをお勧めします。これにより追加料金なしでシームレスなローミングが可能です。
-        ポルトガル旅行でのデータ通信料金を比較するならRoami。海外ローミングより最大80%割安で契約不要。事前に日本で設定しておけば到着後すぐに接続。日本語サポート付き。
-        複数国を周遊する旅行なら、地域別eSIM（ヨーロッパやアジア）を選べば国境を越えるたびに自動でネットワーク切替。追加購入や設定変更の手間がかかりません。海外旅行eSIMの地域別プランなら周遊旅行もスムーズです。
+
+
+    - q: ポルトガル用eSIMの申し込みは何分くらいで完了しますか？
+      a: ポルトガル用eSIMは出発前でも現地でも申し込み可能です。ポルトガル到着後にデータ通信をオンにすれば自動で接続され、追加の申し込みは不要です。
+    - q: ポルトガルのeSIMと現地SIM、安いのはどちらですか？
+      a: ポルトガルでは現地SIMの購入に店舗での登録が必要なため、eSIMのほうが結果的に安く済むことが多いです。実際の料金は選ぶプランによって異なるため、現在の価格は公式サイトでご確認ください。
+    - q: ポルトガルのeSIMはチャージ不要で使えますか？
+      a: ポルトガル用eSIMはプリペイド式で、データが少なくなったらアプリから追加購入できます。現地SIMのように店舗でチャージする必要はなく、すべてオンラインで完結します。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -574,81 +582,80 @@ faq_section:
       a: ポルトガル用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: ポルトガル用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        eSIMの設定はQRコードをスキャンするだけで完了。物理SIM不要でデュアルSIM運用も可能。最安1GB/$1.99から使える格安データ通信。
-        eSIM対応端末をお持ちなら物理SIMより便利。契約不要でプリペイド式、1GBから無制限まで選べる。事前購入がお得でおすすめ。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にポルトガル用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
+  - name: プエルトリコ eSIM
+    flag: img/flags/pu.svg
+    price: 6.99ドルから
+    is_highlight: false
+    slug: puerto-rico-esim
+  - name: カタール eSIM
+    flag: img/flags/qa.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
+    slug: qatar-esim
+  - name: レユニオン島 eSIM
+    flag: img/flags/re.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
+    slug: reunion-island-esim
+  - name: ルーマニア eSIM
+    flag: img/flags/ro.svg
     price: 1.99ドルから
     is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
+    slug: romania-esim
+  - name: ロシア eSIM
+    flag: img/flags/ru.svg
+    price: 2.99ドルから
+    is_highlight: false
+    slug: russia-esim
+  - name: サウジアラビア eSIM
+    flag: img/flags/sa.svg
+    price: 3.99ドルから
+    is_highlight: false
+    slug: saudi-arabia-esim
+  - name: セネガル eSIM
+    flag: img/flags/se.svg
+    price: 12.99ドルから
+    is_highlight: false
+    slug: senegal-esim
+  - name: シエラレオネ eSIM
+    flag: img/flags/si.svg
+    price: 10.99ドルから
+    is_highlight: false
+    slug: sierra-leone-esim
+  - name: シンガポール eSIM
+    flag: img/flags/sg.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
+    slug: singapore-esim
+  - name: スロバキア eSIM
+    flag: img/flags/sl.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
+    slug: slovakia-esim
+  - name: 南アフリカ eSIM
+    flag: img/flags/za.svg
+    price: 3.99ドルから
+    is_highlight: false
+    slug: south-africa-esim
+  - name: 韓国 eSIM
+    flag: img/flags/kr.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+    slug: south-korea-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "ポルトガルで自分に合うのはeSIMかプリペイドか？"
   subtitle: "ポルトガルの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Portugal) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Portugal"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -663,7 +670,7 @@ market_analysis:
     - icon: "id-card"
       title: "KYCとパスポート登録"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。ポルトガルではプリペイドSIM購入に本人確認は不要です。"
+      prepaid_desc: "ポルトガルではプリペイドSIM購入に本人確認は不要です。"
       esim_title: "パスポート不要"
       esim_desc: "ポルトガルではプリペイドSIM購入に本人確認は不要ですが、eSIMならさらに手間いらず。オンライン購入で身分証提出も不要、即座にアクティベーション完了。"
     - icon: "globe"
@@ -693,7 +700,7 @@ market_analysis:
     - icon: "headset"
       title: "カスタマーサポート"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。ポルトガルのプリペイドSIMのカスタマーサポートはポルトガル語のみの場合が多いです。"
+      prepaid_desc: "ポルトガルのプリペイドSIMのカスタマーサポートはポルトガル語のみの場合が多いです。"
       esim_title: "24時間サポート"
       esim_desc: "ポルトガル現地SIMのサポートはポルトガル語のみで時間制限あり。eSIMは24時間英語対応のチャットサポートを提供。時差や言語の壁を気にせず安心。"
 

@@ -1,6 +1,6 @@
 ---
 title: 'eSIM إسرائيل 2026: دليل السياح والشبكات | روامي'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>يتمتع العملاء الجدد بخصم 20%، رمز الخصم: web20'
 seo:
   title: "eSIM 5G إسرائيل: تفعيل فوري، بيانات غير محدودة للسياح"
-  description: "قارن خطط eSIM إسرائيل مع 5G سريع في تيل أبيب والقدس وحيفا. تغطية سيلكوم وبيليفون وبارتنر. تفعيل فوري عبر QR من 1.99 دولار."
-  keywords: eSIM إسرائيل، شراء eSIM إسرائيل، أفضل eSIM إسرائيل، eSIM السفر إلى إسرائيل، سيلكوم إسرائيل، بيليفون إسرائيل، بارتنر إسرائيل، eSIM تيل أبيب، eSIM القدس، eSIM حيفا، eSIM إسرائيل مسبقة الدفع، 5G eSIM إسرائيل
-  low_price: 1.99
-  high_price: 39.9
+  description: "قارن خطط eSIM إسرائيل مع 5G سريع في تيل أبيب والقدس وحيفا. تغطية سيلكوم وبيليفون وبارتنر. تفعيل فوري عبر QR من 2.99 دولار."
+  keywords: eSIM إسرائيل، شراء eSIM إسرائيل، أفضل eSIM إسرائيل، eSIM إسرائيل رخيصة، eSIM إسرائيل مسبقة الدفع، باقة eSIM إسرائيل، eSIM إسرائيل غير محدودة، eSIM إسرائيل 5G، أفضل eSIM لـ إسرائيل، سعر eSIM إسرائيل، تفعيل eSIM إسرائيل، تغطية eSIM إسرائيل، سيلكوم إسرائيل، eSIM تيل أبيب، eSIM القدس، eSIM حيفا
+  low_price: 2.99
+  high_price: 69.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/il.svg
   flag_alt: علم إسرائيل
-  title: 'eSIM إسرائيل: حلول بيانات كاملة لرحلتك'
+  title: 'eSIM إسرائيل: 5G فوري بدون رسوم تجوال'
   subtitle: 5G سريع | تسليم QR فوري | دعم بشري 24/7 - أفضل eSIM مسبقة الدفع لإسرائيل
 features:
-  title: 'لماذا يختار مسافرو إسرائيل روامي: الخطط، الشبكة والدعم'
+  title: 'لماذا Roami خيار مسافري إسرائيل: السرعة والسعر والدعم'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائياً بأفضل مشغلي إسرائيل للحصول على أفضل إشارة
-plans_title: 'شراء eSIM إسرائيل: خطط تناسب كل مدة سفر'
+plans_title: شراء باقة eSIM إسرائيل بالمدة التي تحتاجها
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -269,7 +269,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM إسرائيل: دليل مشغل الشبكة المحمولة'
+  title: 'eSIM إسرائيل: دليل تغطية الشبكات المحلية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -300,7 +300,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM إسرائيل: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM إسرائيل: إرشادات الإعداد قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -319,7 +319,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM إسرائيل: 3 خطوات بسيطة'
+  title: 'eSIM إسرائيل: كيفية التثبيت والتفعيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -344,7 +344,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM إسرائيل
+    title: أسئلة وأجوبة عن eSIM إسرائيل
     questions:
     - q: |
         لست متأكداً إذا كان هاتفي يدعم eSIM في إسرائيل. كيف يمكنني التحقق؟
@@ -353,7 +353,7 @@ faq_section:
     - q: |
         هل يمكنني الحصول على eSIM لإسرائيل دون إنفاق الكثير؟
       a: |
-        بالتأكيد. تبدأ خطط eSIM روامي إسرائيل من 1.99 دولار. خيار 5 جيجابايت/15 يوماً (9.99 دولار) هو الأكثر شيوعاً بين المسافرين — يتعامل بشكل مريح مع الخرائط وواتساب وإنستغرام والبريد الإلكتروني. إذا كنت مستخدماً كثيفاً للبيانات، فإن خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) تمنحك راحة البال. تخطي كاونتر SIM المطار يوفر لك 30-50% ويجنبك عناء الطوابير. هل تحتاج إلى تعديل؟ يمكنك الشحن في أي وقت من تطبيق روامي.
+        بالتأكيد. تبدأ خطط eSIM روامي إسرائيل من 2.99 دولار. خيار 5 جيجابايت/15 يوماً (4.99 دولار) هو الأكثر شيوعاً بين المسافرين — يتعامل بشكل مريح مع الخرائط وواتساب وإنستغرام والبريد الإلكتروني. إذا كنت مستخدماً كثيفاً للبيانات، فإن خطط 10 جيجابايت (6.99 دولار) أو غير المحدودة (69.99 دولار) تمنحك راحة البال. تخطي كاونتر SIM المطار يوفر لك 30-50% ويجنبك عناء الطوابير. هل تحتاج إلى تعديل؟ يمكنك الشحن في أي وقت من تطبيق روامي.
     - q: |
         هل من الآمن تحميل جواز سفري لتسجيل eSIM إسرائيل؟ أنا قلق بشأن الخصوصية.
       a: |
@@ -365,7 +365,7 @@ faq_section:
     - q: |
         ما هو اختيار eSIM الأكثر شيوعاً للمسافرين إلى إسرائيل؟
       a: |
-        يختار معظم المسافرين إلى إسرائيل خطة 5 جيجابايت/15 يوماً (9.99 دولار). إنها كافية للملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة. للإقامات الأطول أو الاستخدام الأثقل، تعد خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) خيارات رائعة. يتم تفعيل جميع الخطط في دقائق وتشمل دعم 24/7.
+        يختار معظم المسافرين إلى إسرائيل خطة 5 جيجابايت/15 يوماً (4.99 دولار). إنها كافية للملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة. للإقامات الأطول أو الاستخدام الأثقل، تعد خطط 10 جيجابايت (6.99 دولار) أو غير المحدودة (69.99 دولار) خيارات رائعة. يتم تفعيل جميع الخطط في دقائق وتشمل دعم 24/7.
     - q: |
         ماذا لو حذفت eSIM إسرائيل عن طريق الخطأ قبل رحلتي؟
       a: |
@@ -378,63 +378,75 @@ faq_section:
         كم مقدماً يجب أن أشتري eSIM إسرائيل الخاص بي؟
       a: |
         يمكنك الشراء في أي وقت — حتى عند بوابة الطائرة. يصل رمز QR في غضون دقائق. نوصي بالشراء قبل بضعة أيام حتى تتمكن من التثبيت على WiFi في المنزل. يتم تفعيل الخطة فقط عند الاتصال في إسرائيل، لذا الشراء المبكر لا يهدر أيام خطتك.
+    - q: |
+        ما خطوات شراء eSIM إسرائيل واستلامه؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        ما هيكل أسعار eSIM إسرائيل؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في إسرائيل أسهل. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        هل يمكنني شراء المزيد من البيانات إذا نفدت في إسرائيل؟
+      a: |
+        عند نفاد بيانات eSIM إسرائيل يمكنك إضافة باقة بيانات جديدة من نفس الحساب. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM إسرائيل ذات الصلة
+  title: خطط eSIM قد تحتاجها بعد إسرائيل
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM الصين
+    flag: img/flags/cn.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM مالطا
+    flag: img/flags/mt.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM الإكوادور
+    flag: img/flags/ec.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM باهاماس
+    flag: img/flags/bs.svg
+    price: من 16.99 دولار
+    is_highlight: false
+  - name: eSIM أيسلندا
+    flag: img/flags/is.svg
     price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM أوكرانيا
+    flag: img/flags/uk.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM الكونغو (كينشاسا)
+    flag: img/flags/cg.svg
+    price: من 7.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
+  - name: eSIM تشاد
+    flag: img/flags/td.svg
+    price: من 23.99 دولار
+    is_highlight: false
+  - name: eSIM الغابون
+    flag: img/flags/ga.svg
+    price: من 14.99 دولار
     is_highlight: false
   - name: eSIM تركيا
     flag: img/flags/tr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
+  - name: eSIM صربيا
+    flag: img/flags/se.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM ليختنشتاين
+    flag: img/flags/li.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM إسرائيل أم بطاقة SIM: ما هو الخيار الأفضل في 2026؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقاً في إسرائيل مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (إسرائيل) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Israel
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - SIM محلية مسبقة الدفع (بيانات السوق)

@@ -1,6 +1,6 @@
 ---
 title: 'eSIM إيسواتيني 2026: دليل سفر شامل | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,18 +9,18 @@ country_meta:
   operators: إم تي إن، إيسواتيني موبايل، سوازي تيليكوم
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: مبابان، مانزيني، بيغ بيند، نهلانغانو، سيتيكي
-  main_packages: 3/7/15/30 يومًا، بيانات غير محدودة
+  main_packages: 7/15/30 يومًا، حتى 10 جيجابايت
 modal:
   title: تم ترقية الخدمة!
   btn_text: متابعة
   text_default: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIMGo</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
 seo:
-  title: "eSIM إيسواتيني: بيانات 5G غير محدودة للمسافرين الآن"
-  description: "قارن خطط eSIM لإيسواتيني مع 5G سريع في مبابان ومانزيني. تغطية إم تي إن وإيسواتيني موبايل وسوازي تيليكوم. من 1.99 دولار. وخطط مرنة."
-  keywords: eSIM إيسواتيني، شراء eSIM إيسواتيني، أفضل eSIM إيسواتيني، eSIM سفر إيسواتيني، إم تي إن إيسواتيني، إيسواتيني موبايل إيسواتيني، سوازي تيليكوم إيسواتيني، eSIM مبابان، eSIM مانزيني، eSIM بيغ بيند، eSIM مدفوعة مسبقًا إيسواتيني، eSIM 5G إيسواتيني
-  low_price: '1.99'
-  high_price: '39.9'
+  title: "eSIM إيسواتيني: بيانات 5G عالية السرعة للمسافرين الآن"
+  description: "قارن خطط eSIM لإيسواتيني مع 5G سريع في مبابان ومانزيني. تغطية إم تي إن وإيسواتيني موبايل وسوازي تيليكوم. من 19.99 دولار. وخطط مرنة."
+  keywords: eSIM إيسواتيني، شراء eSIM إيسواتيني، أفضل eSIM إيسواتيني، eSIM إيسواتيني رخيصة، eSIM إيسواتيني مسبقة الدفع، باقة eSIM إيسواتيني، باقة بيانات eSIM إيسواتيني، eSIM إيسواتيني 5G، أفضل eSIM لـ إيسواتيني، سعر eSIM إيسواتيني، تفعيل eSIM إيسواتيني، تغطية eSIM إيسواتيني، إم تي إن إيسواتيني، eSIM مبابان، eSIM مانزيني، eSIM بيغ بيند
+  low_price: 19.99
+  high_price: 115.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي إيسواتيني للحصول على أفضل إشارة
-plans_title: 'شراء eSIM إيسواتيني: خطط لكل مدة رحلة'
+plans_title: 'شراء eSIM إيسواتيني: خطط تناسب كل مدة سفر'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -107,7 +107,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM إيسواتيني: دليل المشغلين وخريطة التغطية'
+  title: 'تغطية eSIM إيسواتيني: تغطية الشبكة ومقارنة المشغلين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -138,7 +138,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM إيسواتيني: ما يجب معرفته قبل السفر'
+  title: 'نصائح إعداد eSIM إيسواتيني: ما يجب معرفته قبل الذهاب'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -158,7 +158,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM إيسواتيني: 3 خطوات بسيطة'
+  title: 'تثبيت eSIM إيسواتيني: ثلاث خطوات فقط'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -183,7 +183,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM إيسواتيني
+    title: أسئلة يتكرر طرحها عن eSIM إيسواتيني
     questions:
     - q: |
         كيف يقارن Roami بـ Airalo لـ eSIM في إيسواتيني؟
@@ -200,7 +200,7 @@ faq_section:
     - q: |
         ما الذي يتضمنه شراء eSIM إيسواتيني من Roami؟
       a: |
-        تسليم رمز QR في غضون 5 دقائق، والوصول إلى شبكة إم تي إن، ودعم العملاء 24/7، ونقطة اتصال مجانية لما يصل إلى 5 أجهزة. تبدأ الخطط من 1.99 دولار. لا عقود، لا رسوم خفية، لا تجديد تلقائي.
+        تسليم رمز QR في غضون 5 دقائق، والوصول إلى شبكة إم تي إن، ودعم العملاء 24/7، ونقطة اتصال مجانية لما يصل إلى 5 أجهزة. تبدأ الخطط من 19.99 دولار. لا عقود، لا رسوم خفية، لا تجديد تلقائي.
     - q: |
         ما هي المستندات التي أحتاجها لشراء eSIM إيسواتيني من Roami؟
       a: |
@@ -217,63 +217,75 @@ faq_section:
         ماذا أفعل إذا لم يتصل eSIM إيسواتيني عند وصولي؟
       a: |
         ثلاثة فحوصات سريعة تستغرق حوالي 30 ثانية لكل منها: 1) هل تم تمكين تجوال البيانات؟ 2) هل يمكنك تحديد إم تي إن يدويًا في إعدادات الشبكة؟ 3) حاول إعادة تشغيل هاتفك. يتم حل حوالي 90% من مشكلات الاتصال بإحدى هذه الخطوات. إذا لم يحدث ذلك، يمكن لفريق دعم Roami 24/7 المساعدة.
+    - q: |
+        كيف أشتري eSIM إيسواتيني قبل رحلتي؟
+      a: |
+        يمكن شراء eSIM إيسواتيني من Roami بالكامل عبر الإنترنت. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        لمجموعة مسافرين إلى إيسواتيني، أيّهما أوفر، eSIM أم بطاقة SIM المحلية؟
+      a: |
+        أسعار eSIM إيسواتيني معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. بطاقات SIM المحلية في إيسواتيني تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        بيانات eSIM تنفد بسرعة، فهل هناك نصائح؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في إيسواتيني، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM ذات الصلة بإيسواتيني
+  title: باقات eSIM مرتبطة برحلتك إلى إيسواتيني
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM جنوب إفريقيا
+    flag: img/flags/za.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM أفغانستان
+    flag: img/flags/af.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM ليبيريا
+    flag: img/flags/lr.svg
+    price: من 27.99 دولار
+    is_highlight: false
+  - name: eSIM اليونان
+    flag: img/flags/gr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
+  - name: eSIM هولندا
+    flag: img/flags/nl.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
     price: من 1.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM مدينة الفاتيكان
+    flag: img/flags/va.svg
+    price: من 10.99 دولار
+    is_highlight: false
+  - name: eSIM الدنمارك
+    flag: img/flags/dk.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
+  - name: eSIM فنلندا
+    flag: img/flags/fi.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM ساحل العاج
+    flag: img/flags/ci.svg
+    price: من 9.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
+  - name: eSIM السنغال
+    flag: img/flags/se.svg
+    price: من 12.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM باراغواي
+    flag: img/flags/py.svg
+    price: من 22.99 دولار
     is_highlight: false
 market_analysis:
   title: 'مقارنة eSIM إيسواتيني ببطاقة SIM الفعلية: ما الفرق الحقيقي؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في إيسواتيني مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM للبيانات المدفوعة مسبقًا (إيسواتيني) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Eswatini
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

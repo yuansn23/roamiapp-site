@@ -1,6 +1,6 @@
 ---
 title: 'eSIM ماكاو 2026: دليل 5G والبيانات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: 'eSIM ماكاو: أفضل خطة بيانات غير محدودة عالية السرعة 5G'
   description: "قارن خطط eSIM في ماكاو مع 5G سريع في شبه الجزيرة وتايبا وكولوان. تغطية CTM و 3 Macau و SmarTone. تفعيل فوري من 1.99 دولار."
-  keywords: eSIM ماكاو, شراء eSIM ماكاو, أفضل eSIM ماكاو, eSIM سفر ماكاو, CTM ماكاو, 3 Macau ماكاو, SmarTone ماكاو, eSIM شبه جزيرة ماكاو, eSIM تايبا, eSIM كولوان, eSIM مدفوع مسبق ماكاو, 5G eSIM ماكاو
+  keywords: eSIM ماكاو، شراء eSIM ماكاو، أفضل eSIM ماكاو، eSIM ماكاو رخيصة، eSIM ماكاو مسبقة الدفع، باقة eSIM ماكاو، eSIM ماكاو غير محدودة، eSIM ماكاو 5G، أفضل eSIM لـ ماكاو، سعر eSIM ماكاو، تفعيل eSIM ماكاو، تغطية eSIM ماكاو، CTM ماكاو، eSIM شبه جزيرة ماكاو، eSIM تايبا، eSIM كولوان
   low_price: 1.99
-  high_price: 39.9
+  high_price: 64.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/ma.svg
   flag_alt: علم ماكاو
-  title: 'eSIM ماكاو: اتصال فوري لسفر خالٍ من القلق'
+  title: 'eSIM ماكاو: ابق على اتصال أينما تذهب'
   subtitle: أفضل eSIM مدفوع مسبق للمسافرين إلى ماكاو - 5G سريع، تفعيل فوري، دعم 24/7
 features:
-  title: 'لماذا يختار المسافرون إلى ماكاو Roami: السرعة، التغطية والدعم'
+  title: 'لماذا يختار زوار ماكاو Roami: تغطية واسعة ودعم 24/7'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي ماكاو للحصول على أفضل إشارة
-plans_title: 'شراء eSIM ماكاو: خطط لكل مدة رحلة'
+plans_title: 'خطط eSIM ماكاو: اختر المدة والباقة المناسبة'
 plans_data:
   15 يوم:
   - spec: 5 جيجابايت
@@ -277,7 +277,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM ماكاو: دليل كامل للشبكات المحلية'
+  title: 'تغطية eSIM ماكاو: دليل مشغل الشبكة المحمولة'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -308,7 +308,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM ماكاو: ما يجب معرفته قبل الذهاب'
+  title: 'تحضير eSIM ماكاو: قائمة ما قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -327,7 +327,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM ماكاو: 3 خطوات بسيطة'
+  title: كيف تُثبّت eSIM ماكاو في 3 خطوات
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -352,7 +352,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM ماكاو
+    title: كل ما تتساءل عنه حول eSIM ماكاو
     questions:
     - q: |
         كيف يقارن Roami بـ Holafly لـ eSIM في ماكاو؟
@@ -386,55 +386,67 @@ faq_section:
         هل يمكنني استخدام eSIM ماكاو الخاص بي لوسائل التواصل الاجتماعي ومشاركة الصور مع العائلة؟
       a: |
         بالتأكيد. تعمل تطبيقات Instagram و WhatsApp و Facebook والتطبيقات الاجتماعية الأخرى جميعها عبر اتصال eSIM. تتعامل سرعات الرفع من CTM مع الصور في ثوانٍ ومقاطع الفيديو القصيرة بسهولة.
+    - q: |
+        ما المعلومات المطلوبة لشراء eSIM ماكاو؟
+      a: |
+        يمكن شراء eSIM ماكاو من Roami بالكامل عبر الإنترنت. بعد الوصول إلى ماكاو، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        أيّهما أوفر في ماكاو، eSIM أم راوتر Wi-Fi متنقل؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في ماكاو أسهل. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        كيف أضيف بيانات إلى eSIM ماكاو؟
+      a: |
+        لا يوجد نظام تعبئة؛ تشتري باقة جديدة عند الحاجة. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM ذات الصلة
+  title: خطط eSIM مقترحة لمسافري ماكاو
   items:
-  - name: eSIM الولايات المتحدة
+  - name: eSIM جامايكا
+    flag: img/flags/jm.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM باكستان
+    flag: img/flags/pk.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM أذربيجان
+    flag: img/flags/az.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM مدغشقر
+    flag: img/flags/mg.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM غيانا
+    flag: img/flags/gy.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM البرتغال
+    flag: img/flags/pt.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM أرمينيا
+    flag: img/flags/am.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM لوكسمبورغ
+    flag: img/flags/lu.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM سيشل
+    flag: img/flags/sc.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM الولايات المتحدة الأمريكية
     flag: img/flags/us.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM كوستاريكا
+    flag: img/flags/cr.svg
+    price: من 9.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM روسيا
+    flag: img/flags/ru.svg
+    price: من 2.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
-    is_highlight: false
 ---

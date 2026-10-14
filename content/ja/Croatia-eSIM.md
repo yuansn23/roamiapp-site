@@ -1,6 +1,6 @@
 ---
 title: クロアチア eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:02:34+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,13 +19,26 @@ modal:
     当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました！<br>新規のお客様はコード <strong>web20</strong> で20%オフ！
 seo:
   title: eSIM クロアチア | 長期滞在に最適な無制限データプランおすすめガイド
-  description: クロアチアで使えるeSIMを比較するならRoami。AiraloやHolafly比で最大30%割安で同一ネットワーク品質。日本語サポート完備、30日間返金保証付きで初めての方も安心してお試しいただけます。
+  description: クロアチア eSIMのプランは1.99ドルから。Roamiなら出発前にインストールでき、到着後すぐにインターネット接続が可能です。
+  low_price: 1.99
+  high_price: 76.99
   keywords:
   - クロアチア eSIM
-  - クロアチア 旅行
-  - クロアチア ネット
-  - クロアチア 観光
-  - クロアチア データ通信
+  - クロアチア eSIM 料金
+  - クロアチア eSIM おすすめ
+  - クロアチア eSIM 安い
+  - クロアチア eSIM 購入
+  - クロアチア eSIM 申し込み
+  - クロアチア eSIM データ無制限
+  - クロアチア プリペイドSIM
+  - クロアチア 旅行 eSIM
+  - クロアチア eSIM 価格
+  - クロアチア eSIM 設定方法
+  - クロアチア eSIM 対応エリア
+  - ザグレブ eSIM
+  - スプリット eSIM
+  - クロアチア モバイルデータ
+  - クロアチア eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -41,7 +54,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: クロアチア向け最高のeSIM
-  title: クロアチア eSIM，海外旅行流量不愁
+  title: クロアチア eSIMで旅先でも安心の通信
 hero:
   flag_image: img/flags/hr.svg
   flag_alt: クロアチアの国旗
@@ -74,7 +87,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: 旅程に合うプラン
 plans_data:
   30 日:
   - spec: 20GB
@@ -328,7 +341,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: 購入前にご確認ください
   items:
   - icon: 📱
     html: |-
@@ -379,12 +392,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: 'クロアチア eSIM : よくある質問と旅行ガイド'
-  desc: クロアチアでのデータ通信に最適なeSIMの選び方。おすすめプランの価格比較、高速5G対応のネットワーク品質、QRコードでの即時設定方法、24時間日本語サポート体制。海外ローミングより格安で快適なインターネット接続を実現します。クロアチアではHrvatski Telekomのネットワークに対応。
+  desc: クロアチアでのデータ通信に最適なeSIMの選び方。クロアチアではHrvatski Telekomのネットワークに対応。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. 基礎知識
     questions:
     - q: クロアチア用eSIMを使用中、国内のSIMで電話を受けることはできますか？
       a: はい、デュアルSIM端末では両方のプロファイルを同時に使用できます。モバイルデータにはRoami eSIMをデフォルトに設定するだけです。通話やSMSは国内SIM経由で（ローミングが有効な場合があります）行われます。
@@ -393,10 +406,9 @@ faq_section:
         / A1 Hrvatskaのネットワークを初めて検出したときに自動的に行われます。到着時のストレスを軽減できます。
     - q: クロアチア用eSIMは近隣諸国での国際ローミングはどうなりますか？
       a: クロアチア用eSIMは主にクロアチア向けに最適化されています。近隣諸国への旅行には、当社のヨーロッパまたは地域別eSIMをお勧めします。これにより追加料金なしでシームレスなローミングが可能です。
-        複数国を周遊する旅行なら、地域別eSIM（ヨーロッパやアジア）を選べば国境を越えるたびに自動でネットワーク切替。追加購入や設定変更の手間がかかりません。海外旅行eSIMの地域別プランなら周遊旅行もスムーズです。
+
     - q: クロアチア用eSIMを他のデバイスとテザリング（ポケットWi-Fi）できますか？
-      a: はい
-        クロアチア旅行のデータ通信はRoamiにお任せ。最安1GB/$1.99、無制限プランもあり、5G対応の高速ネットワークで快適な旅をサポートします。、Roamiのクロアチア用eSIMプランは全てテザリング（ポケットWi-Fi）を無制限でサポートしています。ノートパソコン、タブレット、または旅行仲間と接続を共有できます
+      a: はい、Roamiのクロアチア用eSIMプランは全てテザリング（ポケットWi-Fi）を無制限でサポートしています。ノートパソコン、タブレット、または旅行仲間と接続を共有できます
         — 隠れたコストも速度制限もありません。
     - q: QRコードなしでクロアチア用eSIMをインストールできますか？
       a: はい、QRコードの他に、SM‑DP+アドレスとアクティベーションコード（注文確認メールに記載）を使って手動でインストールすることも可能です。QRコードが最も簡単で迅速な方法です。
@@ -414,7 +426,13 @@ faq_section:
     - q: クロアチア用eSIMを使用中、自分の電話番号を維持できますか？
       a: Roami eSIMはデータ専用です。国内の物理SIMを並行して使用（通話/SMS用）できます。多くのデュアルSIM端末では両方のプロファイルを管理でき、モバイルデータ通信にはRoami
         eSIMをデフォルトに設定するだけです。
-        クロアチアでおすすめのeSIMを探すならRoami。事前購入で到着後すぐに使える便利さ。5G高速データ通信と広範囲カバレッジ、24時間サポート付きで長期滞在にも最適。
+
+    - q: クロアチア用eSIMの申し込みは何分くらいで完了しますか？
+      a: クロアチア用eSIMは出発前でも現地でも申し込み可能です。クロアチア到着後にデータ通信をオンにすれば自動で接続され、追加の申し込みは不要です。
+    - q: クロアチアのeSIMと現地SIM、安いのはどちらですか？
+      a: クロアチアでは現地SIMの購入に店舗での登録が必要なため、eSIMのほうが結果的に安く済むことが多いです。実際の料金は選ぶプランによって異なるため、現在の価格は公式サイトでご確認ください。
+    - q: クロアチアのeSIMはチャージ不要で使えますか？
+      a: クロアチア用eSIMはプリペイド式で、データが少なくなったらアプリから追加購入できます。現地SIMのように店舗でチャージする必要はなく、すべてオンラインで完結します。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -577,80 +595,79 @@ faq_section:
       a: クロアチア用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: クロアチア用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        旅行前にeSIMを購入して準備すれば、到着後すぐにデータ通信が可能。Roamiの格安プランは1GB/$1.99から。5G対応で快適。
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にクロアチア用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
+  - name: キプロス eSIM
+    flag: img/flags/cy.svg
+    price: 2.99ドルから
+    is_highlight: false
+    slug: cyprus-esim
+  - name: チェコ eSIM
+    flag: img/flags/cz.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
+    slug: czech-republic-esim
+  - name: デンマーク eSIM
+    flag: img/flags/dk.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
-    price: 1.99ドルから
+    slug: denmark-esim
+  - name: ドミニカ国 eSIM
+    flag: img/flags/dm.svg
+    price: 11.99ドルから
+    is_highlight: false
+    slug: dominica-esim
+  - name: ドミニカ共和国 eSIM
+    flag: img/flags/do.svg
+    price: 5.99ドルから
+    is_highlight: false
+    slug: dominican-republic-esim
+  - name: エクアドル eSIM
+    flag: img/flags/ec.svg
+    price: 6.99ドルから
+    is_highlight: false
+    slug: ecuador-esim
+  - name: エジプト eSIM
+    flag: img/flags/eg.svg
+    price: 2.99ドルから
+    is_highlight: false
+    slug: egypt-esim
+  - name: エルサルバドル eSIM
+    flag: img/flags/sv.svg
+    price: 23.99ドルから
     is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
+    slug: el-salvador-esim
+  - name: エストニア eSIM
+    flag: img/flags/ee.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: 1.99ドルから
+    slug: estonia-esim
+  - name: エスワティニ eSIM
+    flag: img/flags/sz.svg
+    price: 19.99ドルから
     is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
+    slug: eswatini-esim
+  - name: フェロー諸島 eSIM
+    flag: img/flags/fo.svg
+    price: 5.99ドルから
     is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
+    slug: faroe-islands-esim
+  - name: フィジー eSIM
+    flag: img/flags/fj.svg
+    price: 6.99ドルから
     is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+    slug: fiji-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "クロアチアで自分のニーズに合うのはeSIMかSIMプランか？"
   subtitle: "クロアチアの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Croatia) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Croatia"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -724,4 +741,3 @@ market_analysis:
         title: "国内番号を維持"
         desc: "現地SIMを挿入すると国内SIMを抜く必要があり、銀行の確認コードを受信できなくなるリスク。eSIMは国内番号を維持したままデータ通信可能。"
 ---
-        eSIMのアクティベーションは現地到着後自動で完了。対応端末なら簡単設定で即座に通信開始。1GB/$1.99からの格安データプラン。

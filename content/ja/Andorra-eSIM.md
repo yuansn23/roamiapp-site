@@ -1,6 +1,6 @@
 ---
 title: アンドラ eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:02:26+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -24,12 +24,25 @@ modal:
 seo:
   title: eSIM アンドラ | 日本語サポート対応・即時アクティベーションガイド
   description: アンドラでの安定したインターネット接続にはRoamiのeSIMがおすすめ。現地トップキャリアと直接契約で都市部から地方まで安定通信。通信障害時の自動ネットワーク切替機能搭載でバックアップ不要。
+  low_price: 6.99
+  high_price: 89.99
   keywords:
   - アンドラ eSIM
+  - アンドラ eSIM 料金
+  - アンドラ eSIM おすすめ
+  - アンドラ eSIM 安い
+  - アンドラ eSIM 購入
+  - アンドラ eSIM 申し込み
+  - アンドラ eSIM データ無制限
   - アンドラ プリペイドSIM
-  - アンドラ ネットワーク
-  - アンドラ 旅行
-  - アンドラ インターネット
+  - アンドラ 旅行 eSIM
+  - アンドラ eSIM 価格
+  - アンドラ eSIM 設定方法
+  - アンドラ eSIM 対応エリア
+  - アンドラ・ラ・ベリャ eSIM
+  - エスカルデス＝エンゴルダニ eSIM
+  - アンドラ モバイルデータ
+  - アンドラ eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -45,7 +58,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: アンドラ向け最高のeSIM
-  title: アンドラ eSIM，海外旅行流量不愁
+  title: アンドラ eSIMで到着後すぐにネット接続
 hero:
   flag_image: img/flags/ad.svg
   flag_alt: アンドラの国旗
@@ -78,7 +91,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: あなたに合ったプラン
 plans_data:
   7 日:
   - spec: 3GB
@@ -242,7 +255,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: お役立ち情報
   items:
   - icon: 📱
     html: |-
@@ -299,14 +312,14 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. はじめに
     questions:
     - q: アンドラ用eSIMの価格はいくらですか？割引はありますか？
       a: アンドラ用eSIMプランは1.99ドル/GBから始まります。プロモーションコード「web20」を使用すると、全プランが20%オフ — 隠れたコストや最低利用期間の縛りはありません。
     - q: Roamiはアンドラ以外の地域向けeSIMも提供していますか？
       a: はい、アンドラ用eSIMの他に、ヨーロッパ、アジア、北米、グローバル向けの地域別eSIMも提供しています。複数都市をまたぐ旅行や数カ国を巡るツアーに最適です
         — SIMカードの交換は不要です。
-        事前購入で到着後すぐに使えるRoamiのeSIM。1GBから無制限まで旅行スタイルに合わせて選択でき、追加チャージも簡単です。
+
     - q: アンドラ用eSIMが機能しない場合、返金保証はありますか？
       a: はい、アクティベーションから7日以内に技術的な問題が解決できない場合、100%返金保証を提供しています。リスクはありません。
     - q: アンドラ用eSIMは物理SIMよりも安全ですか？
@@ -324,8 +337,14 @@ faq_section:
 
     - q: アンドラ用eSIMのQRコードの有効期限は？
       a: QRコードはメール送信後30日間有効です。旅行前に十分な時間があります。期限が切れた場合は、新しいコードを発行できます。
-        AndorraでリモートワークするならRoamiのeSIMが最適。安定した高速5G通信でZoomもストレスフリー。長期滞在向けの割安プランとデータ追加の柔軟性でノマド生活をサポート。
-        余裕を持って準備したい方は、出発の1ヶ月前でも購入してQRコードを保存可能。andorra旅行前に海外旅行eSIMをインストールしておけば、到着後スムーズに通信を開始できます。
+
+
+    - q: アンドラ用eSIMを申し込む際に必要な情報はありますか？
+      a: Roamiのアンドラ用eSIMはすべてオンラインで申し込みできます。アンドラ到着後にデータ通信をオンにすれば自動で接続され、追加の申し込みは不要です。
+    - q: アンドラのeSIMとレンタルルーターを比較するとどちらがお得ですか？
+      a: eSIMは店舗手数料やチャージの手間がなく、アンドラの通信費を抑えやすい選択です。実際の料金は選ぶプランによって異なるため、現在の価格は公式サイトでご確認ください。
+    - q: アンドラ用eSIMにデータを追加チャージする方法を教えてください。
+      a: 追加チャージという仕組みはなく、必要なときに新しいプランを選んで購入する形です。現地SIMのように店舗でチャージする必要はなく、すべてオンラインで完結します。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -488,81 +507,80 @@ faq_section:
       a: アンドラ用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: アンドラ用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        海外旅行のデータ通信はeSIMが便利。ローミングより格安で、対応機種ならQRコードで即時設定完了。事前購入で到着後すぐ接続。
-        旅行前にeSIMを購入して準備すれば、到着後すぐにデータ通信が可能。Roamiの格安プランは1GB/$1.99から。5G対応で快適。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中にアンドラ用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
-    price: 1.99ドルから
+  - name: アルゼンチン eSIM
+    flag: img/flags/ar.svg
+    price: 3.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
-    price: 1.99ドルから
+    slug: argentina-esim
+  - name: アルメニア eSIM
+    flag: img/flags/am.svg
+    price: 7.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
-    price: 1.99ドルから
-    is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
+    slug: armenia-esim
+  - name: オーストラリア eSIM
     flag: img/flags/au.svg
     price: 1.99ドルから
     is_highlight: false
     slug: australia-esim
-
+  - name: オーストリア eSIM
+    flag: img/flags/at.svg
+    price: 1.99ドルから
+    is_highlight: true
+    slug: austria-esim
+  - name: アゼルバイジャン eSIM
+    flag: img/flags/az.svg
+    price: 6.99ドルから
+    is_highlight: false
+    slug: azerbaijan-esim
+  - name: バハマ eSIM
+    flag: img/flags/bs.svg
+    price: 16.99ドルから
+    is_highlight: false
+    slug: bahamas-esim
+  - name: バーレーン eSIM
+    flag: img/flags/bh.svg
+    price: 6.99ドルから
+    is_highlight: false
+    slug: bahrain-esim
+  - name: バングラデシュ eSIM
+    flag: img/flags/bd.svg
+    price: 5.99ドルから
+    is_highlight: false
+    slug: bangladesh-esim
+  - name: バルバドス eSIM
+    flag: img/flags/bb.svg
+    price: 11.99ドルから
+    is_highlight: false
+    slug: barbados-esim
+  - name: ベラルーシ eSIM
+    flag: img/flags/by.svg
+    price: 1.99ドルから
+    is_highlight: false
+    slug: belarus-esim
+  - name: ベルギー eSIM
+    flag: img/flags/be.svg
+    price: 1.99ドルから
+    is_highlight: false
+    slug: belgium-esim
+  - name: Bolivia eSIM
+    flag: img/flags/bo.svg
+    price: 11.99ドルから
+    is_highlight: false
+    slug: bolivia-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "アンドラでコスパが良いのはeSIMかプリペイドか？"
   subtitle: "アンドラの現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Andorra) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Andorra"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"

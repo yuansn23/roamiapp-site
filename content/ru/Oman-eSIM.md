@@ -1,6 +1,6 @@
 ---
 title: 'Оман eSIM 2026: Путешествие и Сеть | Roami'
-date: '2026-06-21T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Наш eSIM-сервис обновлён до <strong>PhoneSIM</strong>.<br>Новые клиенты получают 20% скидку с кодом: web20'
 seo:
   title: eSIM Оман | Надежный 5G, безлимитные данные
-  description: Исследуйте Оман с Roami eSIM. Надежный 5G в Маскате, Салале и по всей стране. Мгновенная активация по QR. Безлимитные
-    данные от 1,99 $.
-  keywords: eSIM Оман, тариф eSIM Оман, лучшая eSIM Оман, Оман интернет, Omantel Оман, Ooredoo Оман, Awasr Оман, eSIM Маскат,
-    eSIM Салала, eSIM Сохар, мобильный интернет Оман, 5G Оман
+  description: Связь в Оман без роуминга — eSIM Roami, 5G в Маскат и Салала. Тарифы от 5,99 $, поддержка 24/7.
+  keywords: Оман eSIM, тарифы eSIM Оман, лучшая eSIM Оман, дешёвая eSIM Оман, купить eSIM Оман онлайн, предоплаченная eSIM Оман, безлимитный интернет Оман eSIM, лучшая eSIM для Оман, цена eSIM Оман, активация eSIM Оман, покрытие eSIM Оман, мобильный интернет Оман, 5G Оман, Omantel Оман, eSIM Маскат, eSIM Салала
+  low_price: 5.99
+  high_price: 67.99
 order_summary:
   title: Выберите eSIM Оман
   label_data: Объём данных
@@ -289,6 +289,8 @@ reminders:
     html: QR-код будет отправлен на вашу электронную почту.
   - icon: 🔄
     html: Вы можете установить несколько eSIM одновременно.
+  - icon: 📍
+    html: Покрытие Omantel и Ooredoo охватывает Маскат, Салала и Сохар — eSIM подключается к сильнейшей сети.
   compatibility_check:
     title: Быстрая проверка совместимости
     desc: 'Не уверены? Проверьте прямо сейчас на телефоне:'
@@ -376,10 +378,84 @@ faq_section:
     - q: |
         Сколько интернета нужно для работы в Омане?
       a: |
-        Для недельной поездки стандартному пользователю достаточно 3–5 ГБ. Да, для коротких поездок eSIM подходит идеально. Минимальный тариф — 7 дней за $1.99 с 1GB трафика, что хватает для навигации и мессенджеров. Для 3-5 дней активного использования рекомендуем 3GB ($4.99). Установка занимает 2 минуты, купить можно за 5 минут до вылета — QR-код придет на email. По прилете в Оман включите роуминг да...
+        Для недельной поездки стандартному пользователю достаточно 3–5 ГБ. Да, для коротких поездок eSIM подходит идеально. Минимальный тариф — 7 дней за $5.99 с 1GB трафика, что хватает для навигации и мессенджеров. Для 3-5 дней активного использования рекомендуем 3GB ($7.99). Установка занимает 2 минуты, купить можно за 5 минут до вылета — QR-код придет на email. По прилете в Оман включите роуминг да...
     - q: |
         Какой вариант лучше для семьи: eSIM или общий WiFi в Омане?
       a: |
-        Pocket WiFi даёт интернет на несколько устройств, но требует зарядки. Да — все тарифы Roami поддерживают режим модема. Включите раздачу в настройках телефона. Для работы с ноутбуком (видеоконференции, файлы) рекомендуется тариф 10GB ($14.99) или безлимитный ($59.99).
+        Pocket WiFi даёт интернет на несколько устройств, но требует зарядки. Да — все тарифы Roami поддерживают режим модема. Включите раздачу в настройках телефона. Для работы с ноутбуком (видеоконференции, файлы) рекомендуется тариф 10GB ($20.99) или безлимитный ($23.99).
+    - q: |
+        Как активируется eSIM Оман, если мой оператор — Omantel?
+      a: |
+        Активация не зависит от вашего домашнего оператора: QR-код приходит на email, профиль подключается к Omantel при первом входе в сеть.
+    - q: |
+        Можно ли раздавать интернет с eSIM Оман в сетях Omantel и Ooredoo?
+      a: |
+        Да, раздача работает на всех тарифах Roami без доплат — скорость сети Omantel позволяет подключить ноутбук или планшет.
+    - q: |
+        Чем eSIM Оман отличается от предоплаченной SIM от Omantel или Ooredoo?
+      a: |
+        Местная SIM от Omantel привязана к календарному сроку; eSIM Roami действует только выбранные дни и не требует физической карты.
 related_products:
+  title: Похожие eSIM тарифы
+  items:
+  - name: eSIM Армения
+    flag: img/flags/am.svg
+    price: От $7.99
+    is_highlight: true
+    slug: armenia-esim
+  - name: eSIM Азербайджан
+    flag: img/flags/az.svg
+    price: От $6.99
+    is_highlight: false
+    slug: azerbaijan-esim
+  - name: eSIM Бахрейн
+    flag: img/flags/bh.svg
+    price: От $6.99
+    is_highlight: false
+    slug: bahrain-esim
+  - name: eSIM Ирак
+    flag: img/flags/iq.svg
+    price: От $21.99
+    is_highlight: false
+    slug: iraq-esim
+  - name: eSIM Французская Гвиана
+    flag: img/flags/gf.svg
+    price: От $3.99
+    is_highlight: false
+    slug: french-guiana-esim
+  - name: eSIM Габон
+    flag: img/flags/ga.svg
+    price: От $14.99
+    is_highlight: false
+    slug: gabon-esim
+  - name: eSIM Грузия
+    flag: img/flags/ge.svg
+    price: От $3.99
+    is_highlight: false
+    slug: georgia-esim
+  - name: eSIM Германия
+    flag: img/flags/de.svg
+    price: От $1.99
+    is_highlight: false
+    slug: germany-esim
+  - name: eSIM Гана
+    flag: img/flags/gh.svg
+    price: От $7.99
+    is_highlight: false
+    slug: ghana-esim
+  - name: eSIM Греция
+    flag: img/flags/gr.svg
+    price: От $1.99
+    is_highlight: false
+    slug: greece-esim
+  - name: eSIM Гренада
+    flag: img/flags/gd.svg
+    price: От $11.99
+    is_highlight: false
+    slug: grenada-esim
+  - name: eSIM Гваделупа
+    flag: img/flags/gp.svg
+    price: От $8.99
+    is_highlight: false
+    slug: guadeloupe-esim
 ---

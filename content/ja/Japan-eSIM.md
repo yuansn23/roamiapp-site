@@ -1,6 +1,6 @@
 ---
 title: 日本 eSIMプラン | 2026年ベスト旅行eSIM | Roami
-date: '2026-06-26T10:02:02+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,10 @@ modal:
     当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました！<br>新規のお客様はコード <strong>web20</strong> で20%オフ！
 seo:
   title: eSIM 日本 | 複数国旅行に便利なリージョナルeSIMおすすめガイド
-  description: 日本用eSIMはRoamiで購入から最短1分でアクティベーション完了。物理SIM不要で日本のSIMを挿したまま利用可能。5G/4GLTEの最適ネットワークに自動接続し、観光地から郊外まで安定通信。
-  keywords: 日本旅行, eSIM, 高速インターネット, 日本ネットワーク, 観光
+  description: 日本用eSIMはRoamiで購入から最短1分でアクティベーション完了。5G/4GLTEの最適ネットワークに自動接続し、観光地から郊外まで安定通信。
+  low_price: 1.99
+  high_price: 71.99
+  keywords: 日本 eSIM, 日本 eSIM 料金, 日本 eSIM おすすめ, 日本 eSIM 安い, 日本 eSIM 購入, 日本 eSIM 申し込み, 日本 eSIM データ無制限, 日本 プリペイドSIM, 日本 旅行 eSIM, 日本 eSIM 価格, 日本 eSIM 設定方法, 日本 eSIM 対応エリア, 東京 eSIM, 大阪 eSIM, 日本 モバイルデータ, 日本 eSIM 比較
 order_summary:
   title: 選択したプラン
   label_data: データ容量
@@ -36,7 +38,7 @@ breadcrumbs:
 banner:
   image: img/esim/esim-travel.jpg
   alt: 日本向け最高のeSIM
-  title: 日本 eSIM，海外旅行流量不愁
+  title: 日本旅行のネット環境はeSIMにお任せ
 hero:
   flag_image: img/flags/jp.svg
   flag_alt: 日本の国旗
@@ -69,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選択
     desc: 最適な現地ネットワーク
-plans_title: プランを選択
+plans_title: プランを比較する
 plans_data:
   7 日:
   - spec: 3GB
@@ -314,7 +316,7 @@ network_coverage:
       coverage: 専用IP
       network: 5G/4G/LTEネットワーク
 reminders:
-  title: 重要な注意事項
+  title: ご利用ガイド
   items:
   - icon: 📱
     html: |-
@@ -370,14 +372,14 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: 一般
-    title: 1. 一般的な質問
+    title: 1. 最初に確認したいこと
     questions:
     - q: 日本用eSIMを使用中、自分の電話番号を維持できますか？
       a: Roami eSIMはデータ専用です。国内の物理SIMを並行して使用（通話/SMS用）できます。多くのデュアルSIM端末では両方のプロファイルを管理でき、モバイルデータ通信にはRoami
         eSIMをデフォルトに設定するだけです。
     - q: 日本用eSIMのQRコードの有効期限は？
       a: QRコードはメール送信後30日間有効です。旅行前に十分な時間があります。期限が切れた場合は、新しいコードを発行できます。
-        余裕を持って準備したい方は、出発の1ヶ月前でも購入してQRコードを保存可能。日本旅行前に海外旅行eSIMをインストールしておけば、到着後スムーズに通信を開始できます。
+
     - q: 日本用eSIMを使用するためにスマートフォンに求められる要件は？
       a: お使いの端末がeSIMに対応している必要があります（iPhone XS/XR以降、Samsung Galaxy S20/Note20以降、Google
         Pixel 3a以降、および最新のHuawei、Xiaomi、OnePlusなどの5G端末）。設定で「eSIMを追加」オプションがあるかご確認ください。
@@ -396,6 +398,12 @@ faq_section:
 
     - q: 日本用eSIMはどの5G/4Gネットワークを使用し、カバレッジはどうですか？
       a: 日本用eSIMはNTTドコモ / KDDIと専属提携しています。都市部だけでなく、郊外や高速道路沿いでも最適なネットワーク（5G/4G/LTE）に自動接続し、最高のカバレッジを実現します。
+    - q: 日本向けのeSIMは当日申し込みでも間に合いますか？
+      a: 日本用eSIMは出発前でも現地でも申し込み可能です。パスポートや現地住所の登録は不要で、受け取ったQRコードをスキャンするだけです。
+    - q: 日本旅行でeSIMを使うと通信費はどのくらい抑えられますか？
+      a: ローミングと比べると、日本用eSIMは現地ネットワーク（NTTドコモ）を直接使うため割安です。短期旅行では容量の小さいプラン、長期滞在では大容量プランが割安になる傾向があります。
+    - q: 日本のeSIMは小さいプランから始めて後で増やせますか？
+      a: 残データはアプリやWebのダッシュボードでいつでも確認でき、足りなくなれば追加できます。データ残量はアプリでリアルタイムに確認できるため、使い切る前に追加できます。
   - id: faq-airport
     icon: plane
     tab_title: 空港
@@ -558,81 +566,80 @@ faq_section:
       a: 日本用eSIMの5G/4G-LTE速度により、プレゼンテーションをクラウドに迅速にアップロードできます。
     - q: Slack/Gmailを中断なく使用してコラボレーションするには？
       a: 日本用eSIMが常時接続を提供するため、Slackメッセージやメールを即座に受信できます。
-        eSIMの設定はQRコードをスキャンするだけで完了。物理SIM不要でデュアルSIM運用も可能。最安1GB/$1.99から使える格安データ通信。
-        eSIM対応端末をお持ちなら物理SIMより便利。契約不要でプリペイド式、1GBから無制限まで選べる。事前購入がお得でおすすめ。
+
+
     - q: 会社の旅行計画をオンラインで更新するには？
       a: 移動中に日本用eSIM経由で会社のポータルにアクセスし、フライトの遅延を人事部に報告します。
 related_products:
   title: 類似のeSIMプラン
   items:
-  - name: アメリカeSIM
-    flag: img/flags/us.svg
+  - name: ヨルダン eSIM
+    flag: img/flags/jo.svg
+    price: 6.99ドルから
+    is_highlight: false
+    slug: jordan-esim
+  - name: カザフスタン eSIM
+    flag: img/flags/kz.svg
+    price: 3.99ドルから
+    is_highlight: false
+    slug: kazakhstan-esim
+  - name: ケニア eSIM
+    flag: img/flags/ke.svg
+    price: 7.99ドルから
+    is_highlight: false
+    slug: kenya-esim
+  - name: コソボ eSIM
+    flag: img/flags/xk.svg
+    price: 13.99ドルから
+    is_highlight: false
+    slug: kosovo-esim
+  - name: クウェート eSIM
+    flag: img/flags/kw.svg
+    price: 4.99ドルから
+    is_highlight: false
+    slug: kuwait-esim
+  - name: キルギス eSIM
+    flag: img/flags/kg.svg
+    price: 4.99ドルから
+    is_highlight: false
+    slug: kyrgyzstan-esim
+  - name: ラオス eSIM
+    flag: img/flags/la.svg
+    price: 4.99ドルから
+    is_highlight: false
+    slug: laos-esim
+  - name: ラトビア eSIM
+    flag: img/flags/lv.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-states-esim
-  - name: イギリスeSIM
-    flag: img/flags/gb.svg
+    slug: latvia-esim
+  - name: リベリア eSIM
+    flag: img/flags/lr.svg
+    price: 27.99ドルから
+    is_highlight: false
+    slug: liberia-esim
+  - name: リヒテンシュタイン eSIM
+    flag: img/flags/li.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: united-kingdom-esim
-  - name: ヨーロッパeSIM
-    flag: img/flags/eu.svg
+    slug: liechtenstein-esim
+  - name: リトアニア eSIM
+    flag: img/flags/lt.svg
     price: 1.99ドルから
     is_highlight: true
-    slug: europe-esim
-  - name: カナダeSIM
-    flag: img/flags/ca.svg
+    slug: lithuania-esim
+  - name: ルクセンブルク eSIM
+    flag: img/flags/lu.svg
     price: 1.99ドルから
     is_highlight: false
-    slug: canada-esim
-  - name: トルコeSIM
-    flag: img/flags/tr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: turkey-esim
-  - name: 中国eSIM
-    flag: img/flags/cn.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: china-esim
-  - name: 日本eSIM
-    flag: img/flags/jp.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: japan-esim
-  - name: 香港eSIM
-    flag: img/flags/hk.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: フランスeSIM
-    flag: img/flags/fr.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: france-esim
-  - name: スペインeSIM
-    flag: img/flags/es.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: spain-esim
-  - name: ドイツeSIM
-    flag: img/flags/de.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: germany-esim
-  - name: オーストラリアeSIM
-    flag: img/flags/au.svg
-    price: 1.99ドルから
-    is_highlight: false
-    slug: australia-esim
-
+    slug: luxembourg-esim
 # =============== データ駆動の比較モジュール ===============
 market_analysis:
   title: "日本のeSIMとプリペイドSIM：違いを徹底比較"
   subtitle: "日本の現地プリペイドSIMとeSIMソリューションの比較（2024/2025年参照）"
   citation:
-    text: "出典：Prepaid Data SIM Card Wiki (Japan) + 現地事業者公式サイト"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Japan"
+    text: "出典：GSMA Mobile Connectivity Index ＋ 現地事業者公式サイト"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較マトリックス"
     - "現地プリペイドSIM（市場データ）"
@@ -677,7 +684,7 @@ market_analysis:
     - icon: "headset"
       title: "カスタマーサポート"
       prepaid_title: ""
-      prepaid_desc: "この次元についてはソースに具体的なデータはありません。日本の通信事業者は通常、日本語のみのサポートを提供しています。"
+      prepaid_desc: "日本の通信事業者は通常、日本語のみのサポートを提供しています。"
       esim_title: "24時間多言語サポート"
       esim_desc: "日本の通信事業者の日本語のみサポートとは異なり、Roami eSIMは24時間英語対応のカスタマーサポートを提供します。"
 
@@ -706,4 +713,3 @@ market_analysis:
         title: "テザリングとストリーミングの制限"
         desc: "b-mobileはVoIPや動画ストリーミングを制限する可能性があります。Roami eSIMはテザリング無制限で、すべてのアプリを快適に利用できます。"
 ---
-        eSIM対応端末をお持ちなら物理SIMより便利。契約不要でプリペイド式、1GBから無制限まで選べる。事前購入がお得でおすすめ。

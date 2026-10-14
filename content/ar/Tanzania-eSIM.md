@@ -1,6 +1,6 @@
 ---
 title: 'eSIM تنزانيا 2026: دليل المشغلين والتغطية | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,9 @@ modal:
 seo:
   title: "eSIM تنزانيا | أفضل خطة بيانات مسبقة الدفع 5G لرحلتك"
   description: "أفضل eSIM سفر مسبق الدفع من Roami إلى تنزانيا. بيانات غير محدودة 5G. تغطي دار السلام وزنجبار وأروشا. تفعيل فوري. اشترِ خطتك الآن."
-  keywords: eSIM تنزانيا، شراء eSIM تنزانيا، أفضل eSIM تنزانيا، eSIM السفر إلى تنزانيا، Vodacom تنزانيا، Airtel تنزانيا،
-    Tigo تنزانيا، eSIM دار السلام، eSIM موانزا، eSIM أروشا، eSIM تنزانيا مسبقة الدفع، eSIM 5G تنزانيا
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM تنزانيا، شراء eSIM تنزانيا، أفضل eSIM تنزانيا، eSIM تنزانيا رخيصة، eSIM تنزانيا مسبقة الدفع، باقة eSIM تنزانيا، eSIM تنزانيا غير محدودة، eSIM تنزانيا 5G، أفضل eSIM لـ تنزانيا، سعر eSIM تنزانيا، تفعيل eSIM تنزانيا، تغطية eSIM تنزانيا، Vodacom تنزانيا، eSIM دار السلام، eSIM موانزا، eSIM أروشا
+  low_price: 7.99
+  high_price: 98.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -41,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/tz.svg
   flag_alt: علم تنزانيا
-  title: 'eSIM تنزانيا: ابق على اتصال أينما ذهبت'
+  title: 'eSIM تنزانيا: تفعيل فوري وتغطية واسعة'
   subtitle: تفعيل فوري | تغطية 5G عالية التقييم | دعم 24/7 - أفضل eSIM مسبق الدفع لتنزانيا
 features:
-  title: 'لماذا يختار المسافرون إلى تنزانيا Roami: الشبكة، الخطط والقيمة'
+  title: ما يجعل eSIM تنزانيا من روامي مميزًا
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: التبديل التلقائي
     desc: يتصل تلقائيًا بأفضل شركات الاتصال في تنزانيا للحصول على أفضل إشارة
-plans_title: 'شراء eSIM تنزانيا: خطط تناسب كل مدة رحلة'
+plans_title: 'باقات eSIM تنزانيا: من 3 أيام إلى 30 يومًا'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -248,7 +247,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM تنزانيا: تغطية الشبكة ومقارنة المشغلين'
+  title: 'eSIM تنزانيا: أين تعمل الشبكة وكيف'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -281,7 +280,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM تنزانيا: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM تنزانيا: نصائح عملية قبل المغادرة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -302,7 +301,7 @@ reminders:
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM تنزانيا: 3 خطوات بسيطة'
+  title: 'eSIM تنزانيا: كيف تبدأ في ثلاث خطوات'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -329,12 +328,12 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM تنزانيا
+    title: أسئلة عملية عن eSIM تنزانيا
     questions:
     - q: |
         هل يمكنني الحصول على eSIM لتنزانيا دون إنفاق الكثير؟
       a: |
-        بالتأكيد. تبدأ خطط eSIM تنزانيا من Roami من 1.99 دولار. خيار 5 جيجابايت / 15 يومًا (9.99 دولار) هو الأكثر شيوعًا بين المسافرين — فهو يتعامل بشكل مريح مع الخرائط وواتساب وإنستغرام والبريد الإلكتروني. إذا كنت مستخدمًا كثيفًا للبيانات، فإن خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) تمنحك راحة البال. تخطي كاونتر SIM في المطار يوفر لك 30-50٪ والمتاعب الناتجة عن الانتظار. هل تحتاج إلى تعديل؟ يمكنك الشحن في أي وقت من تطبيق Roami.
+        بالتأكيد. تبدأ خطط eSIM تنزانيا من Roami من 7.99 دولار. خيار 5 جيجابايت / 15 يومًا (19.99 دولار) هو الأكثر شيوعًا بين المسافرين — فهو يتعامل بشكل مريح مع الخرائط وواتساب وإنستغرام والبريد الإلكتروني. إذا كنت مستخدمًا كثيفًا للبيانات، فإن خطط 10 جيجابايت (32.99 دولار) أو غير المحدودة (52.99 دولار) تمنحك راحة البال. تخطي كاونتر SIM في المطار يوفر لك 30-50٪ والمتاعب الناتجة عن الانتظار. هل تحتاج إلى تعديل؟ يمكنك الشحن في أي وقت من تطبيق Roami.
     - q: |
         السائحون الذين يزورون تنزانيا — أي شبكة تعطي أفضل تجربة؟
       a: |
@@ -342,7 +341,7 @@ faq_section:
     - q: |
         هل ستبطأ خطة eSIM غير المحدودة في تنزانيا إذا استخدمت بيانات كثيرة؟
       a: |
-        هناك سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح — فقط لا يمكن مشاهدة الفيديو بسلاسة. في الواقع، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقًا، فإن الخطة الثابتة 10 جيجابايت (14.99 دولار) أو 20 جيجابايت (24.99 دولار) تزيل عدم اليقين تمامًا.
+        هناك سياسة استخدام عادل: تنخفض السرعات بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح — فقط لا يمكن مشاهدة الفيديو بسلاسة. في الواقع، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقًا، فإن الخطة الثابتة 10 جيجابايت (32.99 دولار) أو 20 جيجابايت (59.99 دولار) تزيل عدم اليقين تمامًا.
     - q: |
         هل من الآمن تحميل جواز سفري لتسجيل eSIM تنزانيا؟ أنا قلق بشأن الخصوصية.
       a: |
@@ -354,7 +353,7 @@ faq_section:
     - q: |
         أنا مسافر إلى تنزانيا لمدة 2-3 أيام فقط. ما eSIM الذي يجب أن أحصل عليه؟
       a: |
-        لرحلة قصيرة، تغطي خطة 1 جيجابايت / 7 أيام (1.99 دولار) الخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (4.99 دولار) تمنحك مساحة أكبر. يتم تفعيل كلاهما فوريًا ويمكنك الشحن إذا لزم الأمر.
+        لرحلة قصيرة، تغطي خطة 1 جيجابايت / 7 أيام (7.99 دولار) الخرائط والمراسلة. إذا كنت تخطط لاستخدام وسائل التواصل الاجتماعي ومشاركة الصور، فإن خطة 3 جيجابايت (13.99 دولار) تمنحك مساحة أكبر. يتم تفعيل كلاهما فوريًا ويمكنك الشحن إذا لزم الأمر.
     - q: |
         ماذا لو حذفت eSIM تنزانيا قبل رحلتي عن طريق الخطأ؟
       a: |
@@ -363,63 +362,75 @@ faq_section:
         هل سيعمل eSIM تنزانيا فور هبوطي، أم هناك تأخير في التفعيل؟
       a: |
         إذا قمت بتثبيت eSIM قبل المغادرة، فسيتم تفعيله في غضون 1-2 دقيقة من الهبوط. فقط قم بإيقاف تشغيل وضع الطائرة وتمكين تجوال البيانات. سيتصل هاتفك تلقائيًا بـ Vodacom. لا طوابير، ولا أوراق — ستكون متصلاً قبل وصولك إلى منطقة استلام الأمتعة.
+    - q: |
+        ما أفضل وقت لشراء eSIM تنزانيا قبل الرحلة؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM تنزانيا عبر الإنترنت. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة Vodacom لتبدأ الاستخدام فورًا.
+    - q: |
+        أيّهما أرخص في تنزانيا، eSIM أم التجوال الدولي؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في تنزانيا أسهل. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل يحتاج eSIM تنزانيا إلى تعبئة إضافية؟
+      a: |
+        عند نفاد بيانات eSIM تنزانيا يمكنك إضافة باقة بيانات جديدة من نفس الحساب. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM تنزانيا ذات الصلة
+  title: خطط eSIM مقترحة لوجهات مشابهة لـ تنزانيا
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
+  - name: eSIM جمهورية التشيك
+    flag: img/flags/cz.svg
     price: من 1.99 دولار
     is_highlight: true
+  - name: eSIM إندونيسيا
+    flag: img/flags/id.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM تشيلي
+    flag: img/flags/cl.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM غواتيمالا
+    flag: img/flags/gt.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM الأرجنتين
+    flag: img/flags/ar.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM البرازيل
+    flag: img/flags/br.svg
+    price: من 4.99 دولار
+    is_highlight: false
+  - name: eSIM المجر
+    flag: img/flags/hu.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بيلاروسيا
+    flag: img/flags/by.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM بنما
+    flag: img/flags/pa.svg
+    price: من 11.99 دولار
+    is_highlight: false
   - name: eSIM كندا
     flag: img/flags/ca.svg
-    price: من 1.99 دولار
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: من 1.99 دولار
+  - name: eSIM سيراليون
+    flag: img/flags/si.svg
+    price: من 10.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM ماكاو
+    flag: img/flags/ma.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM تنزانيا مقابل بطاقة SIM المدفوعة مسبقًا: أيهما مناسب لك؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في تنزانيا مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقة بيانات SIM المدفوعة مسبقًا (تنزانيا) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Tanzania
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مسبقة الدفع (بيانات السوق)

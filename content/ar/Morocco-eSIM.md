@@ -1,6 +1,6 @@
 ---
 title: 'المغرب eSIM 2026: دليل السياح والشبكات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,9 @@ modal:
 seo:
   title: "المغرب eSIM | أفضل خطة بيانات 5G مسبقة الدفع للسفر"
   description: "أفضل eSIM مسبقة الدفع للسفر من Roami إلى المغرب. بيانات 5G غير محدودة. تغطي الدار البيضاء ومراكش والرباط. تفعيل فوري. وخطط مرنة."
-  keywords: المغرب eSIM, شراء المغرب eSIM, أفضل المغرب eSIM, المغرب eSIM للسفر, Orange المغرب, Maroc Telecom المغرب,
-    Inwi المغرب, الدار البيضاء eSIM, مراكش eSIM, فاس eSIM, المغرب eSIM مسبقة الدفع, 5G المغرب eSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM المغرب، شراء eSIM المغرب، أفضل eSIM المغرب، eSIM المغرب رخيصة، eSIM المغرب مسبقة الدفع، باقة eSIM المغرب، eSIM المغرب غير محدودة، eSIM المغرب 5G، أفضل eSIM لـ المغرب، سعر eSIM المغرب، تفعيل eSIM المغرب، تغطية eSIM المغرب، Orange المغرب، eSIM الدار البيضاء، eSIM مراكش، eSIM فاس
+  low_price: 3.99
+  high_price: 94.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -41,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/ma.svg
   flag_alt: علم المغرب
-  title: 'المغرب eSIM: حلول بيانات كاملة لرحلتك'
+  title: 'eSIM المغرب: بيانات مرنة بتفعيل لحظي'
   subtitle: تفعيل فوري | تغطية 5G من الدرجة الأولى | دعم 24/7 - أفضل eSIM مسبقة الدفع للمغرب
 features:
-  title: 'لماذا يختار المسافرون إلى المغرب Roami: الشبكة والباقات والقيمة'
+  title: 'ما يميز eSIM المغرب من روامي: السرعة والخدمة'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات الاتصالات في المغرب للحصول على أفضل إشارة
-plans_title: 'شراء المغرب eSIM: خطط لكل مدة رحلة'
+plans_title: 'خطط eSIM المغرب: اختر ما يناسب جدول رحلتك'
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -272,7 +271,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية المغرب eSIM: تغطية الشبكة ومقارنة المشغلين'
+  title: 'eSIM المغرب: تغطية الشبكة وأفضل المشغلين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -305,7 +304,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد المغرب eSIM: ما يجب معرفته قبل الذهاب'
+  title: 'eSIM المغرب: خطوات تحضير سريعة قبل السفر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -326,7 +325,7 @@ reminders:
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت المغرب eSIM: 3 خطوات بسيطة'
+  title: 'eSIM المغرب: خطوات الإعداد والتفعيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -351,7 +350,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول المغرب eSIM
+    title: أسئلة المسافر المتكررة عن eSIM المغرب
     questions:
     - q: |
         ما هي شركة الاتصالات التي يجب الاعتماد عليها في المغرب لـ eSIM الخاص بي؟
@@ -360,7 +359,7 @@ faq_section:
     - q: |
         هل يمكنني الحصول على eSIM للمغرب دون إنفاق الكثير؟
       a: |
-        بالتأكيد. تبدأ خطط Roami المغرب eSIM من 1.99 دولار. خيار 5 جيجابايت / 15 يومًا (9.99 دولار) هو الأكثر شيوعًا بين المسافرين — يتعامل بشكل مريح مع الخرائط وواتساب وإنستغرام والبريد الإلكتروني. إذا كنت مستخدمًا كثيفًا للبيانات، فإن خطط 10 جيجابايت (14.99 دولار) أو غير المحدودة (59.99 دولار) تمنحك راحة البال. تخطي كاونتر SIM في المطار يوفر لك 30-50٪ ومتاعب الانتظار في الطابور. هل تحتاج إلى تعديل؟ يمكنك إعادة الشحن في أي وقت من تطبيق Roami.
+        بالتأكيد. تبدأ خطط Roami المغرب eSIM من 3.99 دولار. خيار 5 جيجابايت / 15 يومًا (10.99 دولار) هو الأكثر شيوعًا بين المسافرين — يتعامل بشكل مريح مع الخرائط وواتساب وإنستغرام والبريد الإلكتروني. إذا كنت مستخدمًا كثيفًا للبيانات، فإن خطط 10 جيجابايت (18.99 دولار) أو غير المحدودة (94.99 دولار) تمنحك راحة البال. تخطي كاونتر SIM في المطار يوفر لك 30-50٪ ومتاعب الانتظار في الطابور. هل تحتاج إلى تعديل؟ يمكنك إعادة الشحن في أي وقت من تطبيق Roami.
     - q: |
         كيف يقارن Roami بـ Airalo لـ eSIM في المغرب؟
       a: |
@@ -385,63 +384,75 @@ faq_section:
         كم عدد ملفات تعريف eSIM التي يمكنني تخزينها على هاتفي للسفر إلى المغرب؟
       a: |
         تخزن معظم الهواتف 5-10 ملفات تعريف eSIM. يمكنك الاحتفاظ بـ eSIM المغرب بجانب شريحة SIM المنزلية وملفات تعريف البلدان الأخرى. ما عليك سوى تفعيل الملف الذي تحتاجه وإلغاء تفعيل الآخرين. يستغرق التبديل بينها حوالي 10 ثوانٍ في إعدادات هاتفك.
+    - q: |
+        هل أحتاج إدخال تواريخ الرحلة عند شراء eSIM المغرب؟
+      a: |
+        يتيح Roami شراء eSIM المغرب من التطبيق أو الموقع. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة Orange لتبدأ الاستخدام فورًا.
+    - q: |
+        هل يوفّر eSIM المغرب التكلفة للإقامات الطويلة؟
+      a: |
+        مقارنة بالتجوال، يستخدم eSIM المغرب شبكة محلية مباشرة (Orange) فيكون أوفر. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل هناك حد لعدد مرات إضافة البيانات إلى eSIM المغرب؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط المغرب eSIM ذات الصلة
+  title: وجهات أخرى لرحلتك القادمة من المغرب
   items:
-  - name: الولايات المتحدة eSIM
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أوروبا eSIM
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM الإمارات
+    flag: img/flags/ae.svg
+    price: من 3.99 دولار
     is_highlight: true
-  - name: كندا eSIM
-    flag: img/flags/ca.svg
+  - name: eSIM ألبانيا
+    flag: img/flags/al.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: تركيا eSIM
-    flag: img/flags/tr.svg
+  - name: eSIM سويسرا
+    flag: img/flags/ch.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: الصين eSIM
-    flag: img/flags/cn.svg
+  - name: eSIM بورتوريكو
+    flag: img/flags/pu.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM كرواتيا
+    flag: img/flags/hr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: اليابان eSIM
-    flag: img/flags/jp.svg
+  - name: eSIM سلوفينيا
+    flag: img/flags/sl.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: هونغ كونغ eSIM
-    flag: img/flags/hk.svg
+  - name: eSIM هندوراس
+    flag: img/flags/hn.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM غوام
+    flag: img/flags/gu.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM أوروغواي
+    flag: img/flags/uy.svg
+    price: من 11.99 دولار
+    is_highlight: false
+  - name: eSIM بولندا
+    flag: img/flags/pl.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: فرنسا eSIM
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
+  - name: eSIM الأردن
+    flag: img/flags/jo.svg
+    price: من 6.99 دولار
     is_highlight: false
-  - name: إسبانيا eSIM
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: ألمانيا eSIM
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أستراليا eSIM
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM كيويت
+    flag: img/flags/kw.svg
+    price: من 4.99 دولار
     is_highlight: false
 market_analysis:
   title: 'المغرب eSIM أو بطاقة SIM: ما هو الخيار الأفضل في 2026؟'
   subtitle: 'بطاقات SIM المحلية المدفوعة مسبقًا في المغرب مقابل حلول eSIM (معيار 2024/2025)'
   citation:
-    text: 'مصدر البيانات: ويكي بطاقة بيانات SIM المدفوعة مسبقًا (المغرب) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Morocco
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

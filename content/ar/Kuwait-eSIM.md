@@ -1,6 +1,6 @@
 ---
 title: 'كيويت eSIM 2026: دليل الباقات والتغطية | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,11 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
 seo:
   title: 'كيويت eSIM: بيانات 5G غير محدودة للسفر في الشرق الأوسط'
-  description: "قارن خطط كيويت eSIM مع 5G سريع في مدينة الكويت وحولي والفروانية. تغطية زين وأوريدو وأس تي سي. تفعيل فوري من 1.99 دولار. وخطط مرنة."
-  keywords: كيويت eSIM, شراء كيويت eSIM, أفضل كيويت eSIM, كيويت eSIM للسفر, زين الكويت, أوريدو الكويت, أس تي سي الكويت,
-    مدينة الكويت eSIM, حولي eSIM, الفروانية eSIM, كيويت eSIM مسبقة الدفع, 5G كيويت eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: "قارن خطط كيويت eSIM مع 5G سريع في مدينة الكويت وحولي والفروانية. تغطية زين وأوريدو وأس تي سي. تفعيل فوري من 4.99 دولار. وخطط مرنة."
+  keywords: eSIM كيويت، شراء eSIM كيويت، أفضل eSIM كيويت، eSIM كيويت رخيصة، eSIM كيويت مسبقة الدفع، باقة eSIM كيويت، eSIM كيويت غير محدودة، eSIM كيويت 5G، أفضل eSIM لـ كيويت، سعر eSIM كيويت، تفعيل eSIM كيويت، تغطية eSIM كيويت، زين كيويت، eSIM مدينة الكويت، eSIM حولي، eSIM الفروانية
+  low_price: 4.99
+  high_price: 68.99
 order_summary:
   title: الباقة المحددة
   label_data: البيانات المضمنة
@@ -41,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/kw.svg
   flag_alt: علم الكويت
-  title: 'كيويت eSIM: شبكة موثوقة وتغطية للمسافرين'
+  title: 'eSIM كيويت: اتصال دائم أثناء السفر'
   subtitle: أفضل eSIM مسبقة الدفع للمسافرين إلى الكويت - 5G سريع، تفعيل فوري، دعم 24/7
 features:
-  title: 'لماذا يختار المسافرون إلى الكويت Roami: السرعة والتغطية والدعم'
+  title: لماذا روامي مناسب لرحلتك إلى كيويت
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: اتصال تلقائي بأفضل شركات الاتصالات في الكويت للحصول على أفضل إشارة
-plans_title: 'شراء كيويت eSIM: خطط لكل مدة رحلة'
+plans_title: 'باقات eSIM كيويت: مقارنة المدة والسعر'
 plans_data:
   7 أيام:
   - spec: 3 جيجابايت
@@ -256,7 +255,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية كيويت eSIM: دليل كامل للشبكات المحلية'
+  title: 'تغطية شبكة eSIM كيويت: ما تحتاج معرفته'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -289,7 +288,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد كيويت eSIM: ما يجب معرفته قبل الذهاب'
+  title: نصائح ما قبل الرحلة لـ eSIM كيويت
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -310,7 +309,7 @@ reminders:
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت كيويت eSIM: 3 خطوات بسيطة'
+  title: كيف تثبّت eSIM كيويت على آيفون وأندرويد
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -335,7 +334,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول كيويت eSIM
+    title: توضيحات سريعة حول eSIM كيويت
     questions:
     - q: |
         ما هي شركة الاتصالات التي يجب الاعتماد عليها في الكويت لـ eSIM الخاص بي؟
@@ -348,11 +347,11 @@ faq_section:
     - q: |
         كم يجب أن أخصص ميزانية لـ eSIM عند زيارة الكويت؟
       a: |
-        تقدم Roami كيويت eSIM من 1.99 دولار لخطة خفيفة لمدة 7 أيام حتى 59.99 دولار لـ 30 يومًا من البيانات غير المحدودة. يختار معظم الزوار خطة 5 جيجابايت / 15 يومًا بسعر 9.99 دولار — تغطي الملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة دون ضغط. يجب على محبي البث أو مستخدمي وسائل التواصل الاجتماعي الثقيلة التفكير في 10 جيجابايت أو غير محدود. توفر زين سرعات موثوقة في جميع أنحاء الكويت. خطط Roami مسبقة الدفع — لا فواتير مفاجئة، لا تجديد تلقائي، فقط أسعار مباشرة.
+        تقدم Roami كيويت eSIM من 4.99 دولار لخطة خفيفة لمدة 7 أيام حتى 15.99 دولار لـ 3 يومًا من البيانات غير المحدودة. يختار معظم الزوار خطة 5 جيجابايت / 15 يومًا بسعر 7.99 دولار — تغطي الملاحة اليومية ووسائل التواصل الاجتماعي والمراسلة دون ضغط. يجب على محبي البث أو مستخدمي وسائل التواصل الاجتماعي الثقيلة التفكير في 10 جيجابايت أو غير محدود. توفر زين سرعات موثوقة في جميع أنحاء الكويت. خطط Roami مسبقة الدفع — لا فواتير مفاجئة، لا تجديد تلقائي، فقط أسعار مباشرة.
     - q: |
         أحتاج إلى إنترنت لبضعة أيام فقط في الكويت. ما هو الحد الأدنى الذي يمكنني شراؤه؟
       a: |
-        أرخص خطة هي 1.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لرحلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك إعادة الشحن في أي وقت من التطبيق.
+        أرخص خطة هي 4.99 دولار لمدة 7 أيام مع 1 جيجابايت — مثالية لرحلة نهاية أسبوع قصيرة مع استخدام خفيف. إذا كنت بحاجة إلى المزيد، يمكنك إعادة الشحن في أي وقت من التطبيق.
     - q: |
         هل ستعمل eSIM الخاصة بي في الكويت لمكالمات الفيديو والعمل عن بعد؟
       a: |
@@ -369,63 +368,75 @@ faq_section:
         سأصل إلى الكويت في وقت متأخر من الليل. هل سأتمكن من الاتصال بالإنترنت فورًا؟
       a: |
         نعم. إذا قمت بتثبيت eSIM قبل المغادرة، فستكون متصلاً في غضون دقيقتين من الهبوط. قم بتمكين تجوال البيانات، ويلتقط هاتفك زين تلقائيًا. لا طوابير، لا أوراق، لا بحث عن كشك SIM في منتصف الليل.
+    - q: |
+        هل يمكنني تغيير باقة eSIM كيويت بعد الشراء؟
+      a: |
+        ببطاقة دفع يمكنك شراء eSIM كيويت عبر الإنترنت. بعد الوصول إلى كيويت، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        ما أفضل طريقة لتقليل تكلفة البيانات في كيويت؟
+      a: |
+        أسعار eSIM كيويت معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        هل يمكنني إعادة تعبئة بيانات eSIM كيويت بعد نفادها؟
+      a: |
+        عند نفاد بيانات eSIM كيويت يمكنك إضافة باقة بيانات جديدة من نفس الحساب. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط كيويت eSIM ذات الصلة
+  title: مقترحات eSIM حول رحلتك إلى كيويت
   items:
-  - name: الولايات المتحدة eSIM
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: أوروبا eSIM
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
-    is_highlight: true
-  - name: كندا eSIM
-    flag: img/flags/ca.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: تركيا eSIM
+  - name: eSIM تركيا
     flag: img/flags/tr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: الصين eSIM
-    flag: img/flags/cn.svg
+  - name: eSIM صربيا
+    flag: img/flags/se.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: اليابان eSIM
-    flag: img/flags/jp.svg
+  - name: eSIM ليختنشتاين
+    flag: img/flags/li.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: هونغ كونغ eSIM
-    flag: img/flags/hk.svg
+  - name: eSIM غوادلوب
+    flag: img/flags/gp.svg
+    price: من 8.99 دولار
+    is_highlight: true
+  - name: eSIM أندورا
+    flag: img/flags/ad.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM إيطاليا
+    flag: img/flags/it.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: فرنسا eSIM
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
+  - name: eSIM موزمبيق
+    flag: img/flags/mo.svg
+    price: من 14.99 دولار
     is_highlight: false
-  - name: إسبانيا eSIM
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
+  - name: eSIM طاجيكستان
+    flag: img/flags/tj.svg
+    price: من 4.99 دولار
     is_highlight: false
-  - name: ألمانيا eSIM
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
+  - name: eSIM جامايكا
+    flag: img/flags/jm.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: أستراليا eSIM
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM باكستان
+    flag: img/flags/pk.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM أذربيجان
+    flag: img/flags/az.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM مدغشقر
+    flag: img/flags/mg.svg
+    price: من 11.99 دولار
     is_highlight: false
 market_analysis:
   title: 'كيويت eSIM مقابل بطاقة SIM الفعلية: السفر والتكلفة والإعداد مقارنة'
   subtitle: 'بطاقات SIM المحلية المدفوعة مسبقًا في الكويت مقابل حلول eSIM (معيار 2024/2025)'
   citation:
-    text: 'مصدر البيانات: ويكي بطاقة بيانات SIM المدفوعة مسبقًا (الكويت) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Kuwait
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

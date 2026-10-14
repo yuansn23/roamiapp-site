@@ -1,6 +1,6 @@
 ---
 title: 'eSIM الجزائر 2026: دليل سفر شامل | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,9 @@ modal:
 seo:
   title: eSIM الجزائر | أفضل بيانات 5G غير محدودة للمسافرين
   description: "أفضل eSIM مدفوعة مسبقاً للجزائر ببيانات 5G غير محدودة. تغطي العاصمة ووهران وقسنطينة. تفعيل فوري وخطط مرنة. اشترِ خطتك الآن."
-  keywords: eSIM الجزائر، شراء eSIM الجزائر، أفضل eSIM الجزائر، eSIM سفر الجزائر، موبيليس الجزائر، دجازي الجزائر، أوريدو
-    الجزائر، eSIM الجزائر العاصمة، eSIM وهران، eSIM قسنطينة، eSIM مدفوعة مسبقًا الجزائر، eSIM 5G الجزائر
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM الجزائر، شراء eSIM الجزائر، أفضل eSIM الجزائر، eSIM الجزائر رخيصة، eSIM الجزائر مسبقة الدفع، باقة eSIM الجزائر، eSIM الجزائر غير محدودة، eSIM الجزائر 5G، أفضل eSIM لـ الجزائر، سعر eSIM الجزائر، تفعيل eSIM الجزائر، تغطية eSIM الجزائر، موبيليس الجزائر، eSIM الجزائر العاصمة، eSIM وهران، eSIM قسنطينة
+  low_price: 3.99
+  high_price: 94.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -41,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/dz.svg
   flag_alt: علم الجزائر
-  title: 'eSIM الجزائر: حلول بيانات كاملة لرحلتك'
+  title: 'eSIM الجزائر: اتصال فوري لسفر خالٍ من القلق'
   subtitle: لا رسوم خفية | إنترنت بدون قلق | دعم 24/7 - أفضل eSIM مدفوعة مسبقًا للمسافرين إلى الجزائر
 features:
-  title: 'لماذا يختار المسافرون إلى الجزائر Roami: التغطية والسرعة والخدمة'
+  title: 'لماذا يختار مسافرو الجزائر روامي: الشبكة والخطط والقيمة'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي الجزائر للحصول على أفضل إشارة
-plans_title: 'شراء eSIM الجزائر: خطط لكل مدة رحلة'
+plans_title: 'شراء eSIM الجزائر: باقات مرنة لمدة إقامتك'
 plans_data:
   7 أيام:
   - spec: 3 جيجابايت
@@ -295,7 +294,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM الجزائر: ما يجب معرفته قبل السفر'
+  title: 'eSIM الجزائر: خطوات التحضير قبل المغادرة'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -315,7 +314,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM الجزائر: 3 خطوات بسيطة'
+  title: 'eSIM الجزائر: خطوات التركيب بالتفصيل'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -340,7 +339,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM الجزائر
+    title: أجوبة سريعة عن eSIM الجزائر
     questions:
     - q: |
         أي شبكة في الجزائر لديها أفضل تغطية للمسافرين - موبيليس أم دجازي أم أوريدو؟
@@ -349,7 +348,7 @@ faq_section:
     - q: |
         هل ستبطئ خطة eSIM غير المحدودة في الجزائر إذا استخدمت كمية كبيرة من البيانات؟
       a: |
-        هناك سياسة استخدام عادل: تنخفض السرعة بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح - فقط لا يمكنك مشاهدة الفيديو بسلاسة. في الواقع، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقًا، فإن خطة ثابتة 10 جيجابايت (14.99 دولار) أو 20 جيجابايت (24.99 دولار) تزيل عدم اليقين تمامًا.
+        هناك سياسة استخدام عادل: تنخفض السرعة بعد 30 جيجابايت في اليوم. بالسرعة المخفضة، لا يزال بإمكانك المراسلة والتنقل والتصفح - فقط لا يمكنك مشاهدة الفيديو بسلاسة. في الواقع، معظم المسافرين لا يقتربون من 30 جيجابايت. إذا كنت قلقًا، فإن خطة ثابتة 10 جيجابايت (18.99 دولار) أو 20 جيجابايت (30.99 دولار) تزيل عدم اليقين تمامًا.
     - q: |
         ما هي المستندات التي أحتاجها لشراء eSIM الجزائر من Roami؟
       a: |
@@ -365,7 +364,7 @@ faq_section:
     - q: |
         هل eSIM أرخص من التجوال الدولي في الجزائر؟
       a: |
-        نعم — عادةً ما يكون Roami eSIM أرخص بنسبة 80-90% من خطط التجوال من معظم المشغلين المنزليين. خطة 5 جيجابايت للجزائر تكلف 9.99 دولارًا، بينما قد يكلف التجوال 50 دولارًا أو أكثر لنفس البيانات. كما تحصل على سرعات الشبكة المحلية بدلاً من التجوال المخفض.
+        نعم — عادةً ما يكون Roami eSIM أرخص بنسبة 80-90% من خطط التجوال من معظم المشغلين المنزليين. خطة 5 جيجابايت للجزائر تكلف 10.99 دولارًا، بينما قد يكلف التجوال 50 دولارًا أو أكثر لنفس البيانات. كما تحصل على سرعات الشبكة المحلية بدلاً من التجوال المخفض.
     - q: |
         ماذا يحدث إذا استنفدت كل بياناتي في الجزائر قبل انتهاء صلاحية خطتي؟
       a: |
@@ -374,63 +373,75 @@ faq_section:
         هل ستعمل eSIM الخاصة بي في الجزائر لمكالمات الفيديو والعمل عن بُعد؟
       a: |
         بالتأكيد. توفر شبكات موبيليس اتصالات مستقرة لـ Zoom و Teams و Google Meet. للعمل عن بُعد، يوصى بخطة 10 جيجابايت أو غير محدودة. يدعم eSIM أيضًا مشاركة نقطة الاتصال لجهاز الكمبيوتر المحمول الخاص بك.
+    - q: |
+        هل يمكنني شراء eSIM الجزائر من بلدي قبل السفر؟
+      a: |
+        يمكن شراء eSIM الجزائر من Roami بالكامل عبر الإنترنت. لا يُطلب جواز سفر أو عنوان محلي؛ فقط امسح رمز QR الذي وصلك.
+    - q: |
+        لماذا يكون eSIM أوفر من بطاقة SIM المحلية في الجزائر؟
+      a: |
+        بما أنك تختار الحجم المناسب، يكون eSIM أقل هدرًا للمال في الجزائر. في الرحلات القصيرة تكون الباقات الصغيرة أوفر، وفي الإقامات الطويلة تكون الباقات الكبيرة أفضل.
+    - q: |
+        هل يمكن إضافة بيانات إلى eSIM الجزائر لاحقًا؟
+      a: |
+        eSIM الجزائر بنظام مسبق الدفع، ويمكن شراء باقة إضافية من التطبيق عند نقص البيانات. يمكن متابعة الاستهلاك في الوقت الحقيقي من التطبيق، فيمكن الإضافة قبل النفاد.
 related_products:
-  title: خطط eSIM ذات الصلة بالجزائر
+  title: وجهات أخرى وخطط eSIM قد تفيد رحلتك إلى الجزائر
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
+  - name: eSIM ليتوانيا
+    flag: img/flags/lt.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM جمهورية الدومينيكان
+    flag: img/flags/do.svg
+    price: من 5.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM البحرين
+    flag: img/flags/bh.svg
+    price: من 6.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM البوسنة والهرسك
+    flag: img/flags/ba.svg
+    price: من 30.99 دولار
+    is_highlight: false
+  - name: eSIM لاتفيا
+    flag: img/flags/lv.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
+  - name: eSIM مصر
+    flag: img/flags/eg.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM أيرلندا
+    flag: img/flags/ie.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
+  - name: eSIM منغوليا
+    flag: img/flags/mo.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM الهند
+    flag: img/flags/in.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
+  - name: eSIM قبرص
+    flag: img/flags/cy.svg
+    price: من 2.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM أوغندا
+    flag: img/flags/ug.svg
+    price: من 7.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM الجزائر مقابل بطاقة SIM الفعلية: ما الفرق الحقيقي؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في الجزائر مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM للبيانات المدفوعة مسبقًا (الجزائر) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Algeria
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)

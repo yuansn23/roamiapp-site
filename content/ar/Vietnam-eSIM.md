@@ -1,6 +1,6 @@
 ---
 title: 'eSIM فيتنام 2026: دليل المدن والشبكات | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: "eSIM فيتنام | أفضل بيانات 5G غير محدودة لرحلتك الآن"
   description: "أفضل eSIM سفر مسبق الدفع من Roami إلى فيتنام. بيانات 5G غير محدودة على أفضل الشبكات. تغطي هانوي وهوشي منه ودا نانغ. خطط مرنة الآن."
-  keywords: eSIM فيتنام، شراء eSIM فيتنام، أفضل eSIM فيتنام، eSIM السفر إلى فيتنام، Viettel فيتنام، Mobifone فيتنام، Vinaphone فيتنام، eSIM مدينة هوشي منه، eSIM هانوي، eSIM دا نانغ، eSIM مسبق الدفع فيتنام، 5G eSIM فيتنام
+  keywords: eSIM فيتنام، شراء eSIM فيتنام، أفضل eSIM فيتنام، eSIM فيتنام رخيصة، eSIM فيتنام مسبقة الدفع، باقة eSIM فيتنام، eSIM فيتنام غير محدودة، eSIM فيتنام 5G، أفضل eSIM لـ فيتنام، سعر eSIM فيتنام، تفعيل eSIM فيتنام، تغطية eSIM فيتنام، Viettel فيتنام، eSIM مدينة هوشي منه، eSIM هانوي، eSIM دا نانغ
   low_price: 1.99
-  high_price: 39.9
+  high_price: 74.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المشمولة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/vn.svg
   flag_alt: علم فيتنام
-  title: 'eSIM فيتنام: بيانات 5G سريعة لكل مدينة ووجهة'
+  title: 'eSIM فيتنام: إنترنت سريع بدون هوية أو انتظار'
   subtitle: تفعيل فوري | تغطية 5G من الدرجة الأولى | دعم 24/7 - أفضل eSIM مسبق الدفع لفيتنام
 features:
-  title: 'لماذا يختار المسافرون إلى فيتنام Roami: الشبكة والخطط والقيمة'
+  title: مزايا Roami للمسافرين إلى فيتنام
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل شركات الاتصال في فيتنام للحصول على أفضل إشارة
-plans_title: 'شراء eSIM فيتنام: خطط تناسب كل مدة رحلة'
+plans_title: 'باقات eSIM فيتنام: أسعار واضحة لكل رحلة'
 plans_data:
   15 يومًا:
   - spec: 3 جيجابايت
@@ -277,7 +277,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM فيتنام: مقارنة التغطية والمشغلين'
+  title: 'eSIM فيتنام: نظرة على التغطية والمشغلين'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -308,7 +308,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM فيتنام: ما يجب معرفته قبل السفر'
+  title: 'eSIM فيتنام: أمور يجب ترتيبها قبل الوصول'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -327,7 +327,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM فيتنام: 3 خطوات بسيطة'
+  title: 'إعداد eSIM فيتنام: دليل التركيب خطوة بخطوة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -352,7 +352,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM فيتنام
+    title: أسئلة المسافرين حول eSIM فيتنام
     questions:
     - q: |
         كيف يقارن Roami بـ Klook لـ eSIM في فيتنام؟
@@ -361,7 +361,7 @@ faq_section:
     - q: |
         هل يمكنني الحصول على eSIM لفيتنام دون إنفاق الكثير؟
       a: |
-        بالتأكيد. تبدأ خطط Roami eSIM فيتنام من 1.99 دولار. خيار 5 جيجابايت / 15 يومًا (9.99 دولار) هو الأكثر شيوعًا بين المسافرين — يتعامل بسهولة مع الخرائط وواتساب وإنستغرام والبريد الإلكتروني. إذا كنت مستخدمًا كثيف البيانات، فإن خطط 10 جيجابايت (14.99 دولارًا) أو غير المحدود (59.99 دولارًا) تمنحك راحة البال. تخطي كشك SIM في المطار يوفر لك 30-50٪ ومتاعب الطابور. هل تحتاج إلى تعديل؟ يمكنك زيادة الرصيد في أي وقت من تطبيق Roami.
+        بالتأكيد. تبدأ خطط Roami eSIM فيتنام من 1.99 دولار. خيار 5 جيجابايت / 15 يومًا (5.99 دولار) هو الأكثر شيوعًا بين المسافرين — يتعامل بسهولة مع الخرائط وواتساب وإنستغرام والبريد الإلكتروني. إذا كنت مستخدمًا كثيف البيانات، فإن خطط 10 جيجابايت (14.99 دولارًا) أو غير المحدود (74.99 دولارًا) تمنحك راحة البال. تخطي كشك SIM في المطار يوفر لك 30-50٪ ومتاعب الطابور. هل تحتاج إلى تعديل؟ يمكنك زيادة الرصيد في أي وقت من تطبيق Roami.
     - q: |
         متى تبدأ فترة صلاحية eSIM فيتنام الخاصة بي؟
       a: |
@@ -386,63 +386,75 @@ faq_section:
         هل يمكنني استخدام eSIM فيتنام فور شرائه، أم يجب أن أنتظر؟
       a: |
         يصل رمز QR في غضون دقائق. قم بتثبيته على الفور — يستغرق دقيقتين. ومع ذلك، تبدأ صلاحية الخطة فقط عند الاتصال بشبكة في فيتنام. لذا يمكنك التثبيت قبل أسابيع من رحلتك دون فقدان أي أيام من الخطة.
+    - q: |
+        هل يمكنني شراء eSIM فيتنام من هاتفي؟
+      a: |
+        يكتمل الشراء من الموقع الرسمي في دقائق. بعد الشراء يصلك رمز QR بالبريد، وتتصل بشبكة Viettel لتبدأ الاستخدام فورًا.
+    - q: |
+        كيف يتغير سعر eSIM فيتنام حسب حجم البيانات؟
+      a: |
+        أسعار eSIM فيتنام معلنة لكل باقة، دون تعبئة إضافية كما في بطاقات SIM المحلية. يمكنك مراجعة المقارنة التفصيلية مع محتوى كل باقة في قائمة الباقات.
+    - q: |
+        هل يمكن ترحيل البيانات المتبقية إلى اليوم التالي؟
+      a: |
+        إذا نقصت البيانات أثناء إقامتك في فيتنام، اشترِ باقة أكبر عبر الإنترنت وبدّل إليها. اختيار الحجم المناسب مسبقًا حسب مدة الرحلة يقلل الحاجة للشراء الإضافي.
 related_products:
-  title: خطط eSIM ذات الصلة لفيتنام
+  title: باقات eSIM إضافية لرحلة فيتنام
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: ابتداءً من 1.99 دولار
-    is_highlight: false
   - name: eSIM ألمانيا
     flag: img/flags/de.svg
-    price: ابتداءً من 1.99 دولار
+    price: من 1.99 دولار
+    is_highlight: true
+  - name: eSIM السعودية
+    flag: img/flags/sa.svg
+    price: من 3.99 دولار
     is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: ابتداءً من 1.99 دولار
+  - name: eSIM أوزبكستان
+    flag: img/flags/uz.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM نيوزيلندا
+    flag: img/flags/nz.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM الفلبين
+    flag: img/flags/ph.svg
+    price: من 2.99 دولار
+    is_highlight: false
+  - name: eSIM ليتوانيا
+    flag: img/flags/lt.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM الجزائر
+    flag: img/flags/dz.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM جمهورية الدومينيكان
+    flag: img/flags/do.svg
+    price: من 5.99 دولار
+    is_highlight: false
+  - name: eSIM البحرين
+    flag: img/flags/bh.svg
+    price: من 6.99 دولار
+    is_highlight: false
+  - name: eSIM البوسنة والهرسك
+    flag: img/flags/ba.svg
+    price: من 30.99 دولار
+    is_highlight: false
+  - name: eSIM لاتفيا
+    flag: img/flags/lv.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM مصر
+    flag: img/flags/eg.svg
+    price: من 2.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM فيتنام مقابل بطاقة SIM الفعلية: مقارنة السفر والتكلفة والإعداد'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في فيتنام مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (فيتنام) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Vietnam
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مسبقة الدفع (بيانات السوق)

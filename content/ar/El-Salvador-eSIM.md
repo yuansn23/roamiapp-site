@@ -1,6 +1,6 @@
 ---
 title: 'eSIM السلفادور 2026: دليل التغطية والسرعة | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20%، رمز الترويج: web20'
 seo:
   title: eSIM السلفادور | خطة بيانات 5G مدفوعة مسبقًا للمستكشفين
-  description: استمتع ببيانات 5G سريعة في السلفادور. بيانات 5G غير محدودة مع تفعيل فوري. تغطي سان سلفادور وسانتا آنا وسان ميغيل. تفعيل فوري.
-  keywords: eSIM السلفادور، شراء eSIM السلفادور، أفضل eSIM السلفادور، eSIM سفر السلفادور، تيغو السلفادور، كلارو السلفادور، موفيستار السلفادور، eSIM سان سلفادور، eSIM سانتا آنا، eSIM سان ميغيل، eSIM مدفوعة مسبقًا السلفادور، eSIM 5G السلفادور
-  low_price: 1.99
-  high_price: 39.9
+  description: "أفضل eSIM للسلفادور مع بيانات 5G غير محدودة وتفعيل فوري. تغطي سان سلفادور وسانتا آنا وسان ميغيل. من 23.99 دولار. اشترِ خطتك."
+  keywords: eSIM السلفادور، شراء eSIM السلفادور، أفضل eSIM السلفادور، eSIM السلفادور رخيصة، eSIM السلفادور مسبقة الدفع، باقة eSIM السلفادور، eSIM السلفادور غير محدودة، eSIM السلفادور 5G، أفضل eSIM لـ السلفادور، سعر eSIM السلفادور، تفعيل eSIM السلفادور، تغطية eSIM السلفادور، تيغو السلفادور، eSIM سان سلفادور، eSIM سانتا آنا، eSIM سان ميغيل
+  low_price: 23.99
+  high_price: 165.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/sv.svg
   flag_alt: علم السلفادور
-  title: 'eSIM السلفادور: بيانات 5G سريعة لكل مدينة ووجهة'
+  title: 'eSIM السلفادور: اتصال واضح وتغطية شاملة'
   subtitle: أفضل eSIM مدفوعة مسبقًا للمسافرين إلى السلفادور - 5G سريع، تفعيل فوري، دعم 24/7
 features:
-  title: 'لماذا يختار المسافرون إلى السلفادور Roami: السرعة والتغطية والدعم'
+  title: لماذا تفضّل روامي لرحلة السلفادور
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي السلفادور للحصول على أفضل إشارة
-plans_title: 'شراء eSIM السلفادور: خطط لكل مدة رحلة'
+plans_title: 'شراء باقة eSIM السلفادور: خطط بسيطة وأسعار شفافة'
 plans_data:
   3 أيام:
   - spec: غير محدود
@@ -190,7 +190,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM السلفادور: دليل كامل للشبكات المحلية'
+  title: 'تغطية eSIM السلفادور: من العاصمة إلى المناطق النائية'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -221,7 +221,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM السلفادور: ما يجب معرفته قبل السفر'
+  title: 'تحضير eSIM السلفادور: أهم النقاط قبل الانطلاق'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -241,7 +241,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فهذا يعني أن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM السلفادور: 3 خطوات بسيطة'
+  title: 'تفعيل eSIM السلفادور: طريقة بسيطة وسريعة'
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -266,7 +266,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM السلفادور
+    title: ما تحتاج معرفته عن eSIM السلفادور
     questions:
     - q: |
         ماذا لو كان هاتفي لا يدعم eSIM؟ هل يمكنني still الحصول على الإنترنت في السلفادور؟
@@ -300,63 +300,75 @@ faq_section:
         هل يمكنني الاحتفاظ بشريحة الاتصال المنزلية في هاتفي أثناء استخدام eSIM في السلفادور؟
       a: |
         نعم — تبقى شريحتك المنزلية في الفتحة 1 لاستقبال الرسائل القصيرة (رموز البنك، تسجيل الدخول بعاملين). يتولى eSIM البيانات في الفتحة 2. قم بتعطيل تجوال البيانات على شريحتك المنزلية لتجنب رسوم تصل إلى 10-15 دولارًا لكل ميجابايت.
+    - q: |
+        هل يمكنني شراء eSIM السلفادور لعائلتي معًا؟
+      a: |
+        يتيح Roami شراء eSIM السلفادور من التطبيق أو الموقع. بعد الوصول إلى السلفادور، شغّل البيانات وسيتصل eSIM تلقائيًا دون أي شراء إضافي.
+    - q: |
+        كيف يختلف eSIM السلفادور عن باقات التجوال الدولية؟
+      a: |
+        بما أنك تختار الحجم المناسب، يكون eSIM أقل هدرًا للمال في السلفادور. تختلف الأسعار الفعلية حسب الباقة، لذا تحقق من السعر الحالي على الموقع الرسمي.
+    - q: |
+        هل يمكنني التبديل بين عدة باقات بيانات في eSIM السلفادور؟
+      a: |
+        يمكنك متابعة البيانات المتبقية من اللوحة، وإضافة المزيد عند الحاجة. لا حاجة للتعبئة في متجر كما في بطاقة SIM المحلية؛ كل شيء يتم عبر الإنترنت.
 related_products:
-  title: خطط eSIM ذات الصلة بالسلفادور
+  title: باقات eSIM مقترحة حول السلفادور
   items:
-  - name: eSIM الولايات المتحدة
-    flag: img/flags/us.svg
-    price: من 1.99 دولار
+  - name: eSIM إسرائيل
+    flag: img/flags/il.svg
+    price: من 2.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM بربادوس
+    flag: img/flags/bb.svg
+    price: من 11.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM جنوب إفريقيا
+    flag: img/flags/za.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM أفغانستان
+    flag: img/flags/af.svg
+    price: من 11.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM ليبيريا
+    flag: img/flags/lr.svg
+    price: من 27.99 دولار
+    is_highlight: false
+  - name: eSIM اليونان
+    flag: img/flags/gr.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
+  - name: eSIM هولندا
+    flag: img/flags/nl.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
+  - name: eSIM إستونيا
+    flag: img/flags/ee.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
+  - name: eSIM مدينة الفاتيكان
+    flag: img/flags/va.svg
+    price: من 10.99 دولار
+    is_highlight: false
+  - name: eSIM الدنمارك
+    flag: img/flags/dk.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
+  - name: eSIM فنلندا
+    flag: img/flags/fi.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
-    price: من 1.99 دولار
+  - name: eSIM ساحل العاج
+    flag: img/flags/ci.svg
+    price: من 9.99 دولار
     is_highlight: false
 market_analysis:
   title: 'مقارنة eSIM السلفادور ببطاقة SIM المدفوعة مسبقًا: التكلفة والراحة'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في السلفادور مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: ويكي بطاقات SIM للبيانات المدفوعة مسبقًا (السلفادور) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/El-Salvador
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)
@@ -385,7 +397,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: تتجدد خطط تيغو تلقائيًا؛ خطة 10 دولارات / 5 جيجابايت / 30 يومًا تجبر سائحًا لمدة 7 أيام على إهدار أكثر من 70% من قيمة الخطة.
     esim_title: خطط قصيرة الأجل مرنة
-    esim_desc: على عكس خطط تيغو ذات التجديد التلقائي لمدة 30 يومًا (10 دولارات / 5 جيجابايت)، يقدم Roami خططًا لمدة 7 أيام تبدأ من 1.99 دولار / جيجابايت، مما يوفر أكثر من 70% من الإهدار.
+    esim_desc: على عكس خطط تيغو ذات التجديد التلقائي لمدة 30 يومًا (34.99 دولارات / 5 جيجابايت)، يقدم Roami خططًا لمدة 7 أيام تبدأ من 1.99 دولار / جيجابايت، مما يوفر أكثر من 70% من الإهدار.
   - icon: wifi
     title: سياسات نقطة الاتصال<br>والسرعة
     prepaid_title: ''

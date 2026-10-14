@@ -1,6 +1,6 @@
 ---
 title: 'eSIM مالي 2026: دليل التغطية والسرعة | Roami'
-date: '2026-09-03T00:00:00+00:00'
+date: '2026-10-13T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,18 +9,18 @@ country_meta:
   operators: Sotelma-Malitel, Orange مالي, Moov Africa
   competitors: Airalo, Holafly, Nomad eSIM, Ubigi, Yesim
   main_cities: باماكو, سيغو, موبتي, تمبكتو
-  main_packages: 3/7/15/30 يوم, بيانات غير محدودة
+  main_packages: 7/15/30 يوم، حتى 3 جيجابايت
 modal:
   title: تم ترقية الخدمة!
   btn_text: متابعة
   text_default: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIMGo</strong>.<br>العملاء الجدد يحصلون على خصم 20٪، كود الخصم: web20'
   text_android: 'تم ترقية خدمة eSIM الخاصة بنا إلى <strong>PhoneSIM</strong>.<br>العملاء الجدد يحصلون على خصم 20٪، كود الخصم: web20'
 seo:
-  title: 'eSIM مالي: بيانات 5G غير محدودة، بدون رسوم تجوال'
-  description: "قارن خطط eSIM في مالي مع 5G سريع في باماكو وسيغو وموبتي. تغطية Sotelma و Orange و Moov Africa. تفعيل فوري من 1.99 دولار."
-  keywords: eSIM مالي, شراء eSIM مالي, أفضل eSIM مالي, eSIM سفر مالي, Sotelma-Malitel مالي, Orange مالي مالي, Moov Africa مالي, eSIM باماكو, eSIM سيغو, eSIM موبتي, eSIM مدفوع مسبق مالي, 5G eSIM مالي
-  low_price: 1.99
-  high_price: 39.9
+  title: 'eSIM مالي: بيانات 5G عالية السرعة، بدون رسوم تجوال'
+  description: "قارن خطط eSIM في مالي مع 5G سريع في باماكو وسيغو وموبتي. تغطية Sotelma و Orange و Moov Africa. تفعيل فوري من 27.99 دولار."
+  keywords: eSIM مالي، شراء eSIM مالي، أفضل eSIM مالي، eSIM مالي رخيصة، eSIM مالي مسبقة الدفع، باقة eSIM مالي، باقة بيانات eSIM مالي، eSIM مالي 5G، أفضل eSIM لـ مالي، سعر eSIM مالي، تفعيل eSIM مالي، تغطية eSIM مالي، Sotelma-Malitel مالي، eSIM باماكو، eSIM سيغو، eSIM موبتي
+  low_price: 27.99
+  high_price: 79.99
 order_summary:
   title: الخطة المختارة
   label_data: البيانات المضمنة
@@ -40,10 +40,10 @@ banner:
 hero:
   flag_image: img/flags/ml.svg
   flag_alt: علم مالي
-  title: 'eSIM مالي: بيانات 5G سريعة لكل مدينة ووجهة'
+  title: 'eSIM مالي: بياناتك جاهزة قبل الإقلاع'
   subtitle: بدون رسوم خفية | إنترنت بدون قلق | دعم 24/7 - أفضل eSIM مدفوع مسبق للمسافرين إلى مالي
 features:
-  title: 'لماذا يختار المسافرون إلى مالي Roami: التغطية، السرعة والخدمة'
+  title: لماذا يفضّل المسافرون إلى مالي روامي
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: تبديل تلقائي
     desc: يتصل تلقائيًا بأفضل مشغلي مالي للحصول على أفضل إشارة
-plans_title: 'شراء eSIM مالي: خطط لكل مدة رحلة'
+plans_title: اختر باقة eSIM مالي المناسبة لمدة سفرك
 plans_data:
   7 أيام:
   - spec: 1 جيجابايت
@@ -105,7 +105,7 @@ discount_banner:
   btn_text: احصل على الخصم
   validity: 'الصلاحية: 3 أيام'
 network_coverage:
-  title: 'تغطية eSIM مالي: دليل المشغل وخريطة التغطية'
+  title: 'تغطية eSIM مالي: من المدن الكبرى إلى الريف'
   supports_text: 'يدعم:'
   service_details:
     title: تفاصيل الخدمة
@@ -136,7 +136,7 @@ network_coverage:
       coverage: تغطية حضرية جيدة
       network: شبكة 5G/4G/LTE
 reminders:
-  title: 'نصائح إعداد eSIM مالي: ما يجب معرفته قبل الذهاب'
+  title: 'تحضيرات eSIM مالي: تذكيرات مهمة للمسافر'
   items:
   - icon: 📱
     html: تأكد من أن هاتفك <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">متوافق مع eSIM</a> قبل الشراء.
@@ -155,7 +155,7 @@ reminders:
     code: '*#06#'
     result_html: إذا ظهر رقم <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> على شاشتك، فإن جهازك مدعوم!
 activation_steps:
-  title: 'كيفية تثبيت eSIM مالي: 3 خطوات بسيطة'
+  title: كيفية تفعيل eSIM مالي على هاتفك
   steps:
   - num: '1'
     title: 'الخطوة 1: استلام رمز QR'
@@ -180,7 +180,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: عام
-    title: الأسئلة الشائعة حول eSIM مالي
+    title: توضيحات حول eSIM مالي
     questions:
     - q: |
         كيف تقارن Orange و Sotelma و Malitel لسائح يزور مالي؟
@@ -214,63 +214,75 @@ faq_section:
         هل ستعمل eSIM الخاصة بي في مالي مع مكالمات الفيديو والعمل عن بعد؟
       a: |
         بالتأكيد. توفر شبكات Orange اتصالات مستقرة لـ Zoom و Teams و Google Meet. للعمل عن بعد، يوصى بخطة 10 جيجابايت أو غير محدودة. تدعم eSIM أيضًا مشاركة نقطة الاتصال لجهاز الكمبيوتر المحمول الخاص بك.
+    - q: |
+        هل يعمل eSIM مالي فور شرائه؟
+      a: |
+        يمكن شراء eSIM مالي قبل السفر أو بعده. لا حاجة لزيارة أي متجر؛ امسح رمز QR وستتصل بعد الوصول مباشرة.
+    - q: |
+        هل eSIM مالي أرخص من العروض الأخرى؟
+      a: |
+        لا توجد رسوم متجر أو تعبئة مع eSIM، ما يجعل ضبط تكلفة الاتصال في مالي أسهل. بطاقات SIM المحلية في مالي تتطلب تحققًا من الهوية وتكاليف بطاقة، فترتفع التكلفة الإجمالية.
+    - q: |
+        ماذا أفعل إذا أوشكت بيانات eSIM مالي على النفاد؟
+      a: |
+        عند نفاد بيانات eSIM مالي يمكنك إضافة باقة بيانات جديدة من نفس الحساب. لا يمكن امتلاك عدة باقات بيانات في الوقت نفسه، لكن البديل الجديد يبدأ فور الشراء.
 related_products:
-  title: خطط eSIM ذات الصلة لمالي
+  title: خطط eSIM لرحلات متعددة انطلاقًا من مالي
   items:
-  - name: eSIM الولايات المتحدة
+  - name: eSIM أرمينيا
+    flag: img/flags/am.svg
+    price: من 7.99 دولار
+    is_highlight: false
+  - name: eSIM لوكسمبورغ
+    flag: img/flags/lu.svg
+    price: من 1.99 دولار
+    is_highlight: false
+  - name: eSIM سيشل
+    flag: img/flags/sc.svg
+    price: من 9.99 دولار
+    is_highlight: false
+  - name: eSIM الولايات المتحدة الأمريكية
     flag: img/flags/us.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: المملكة المتحدة
-    flag: img/flags/gb.svg
-    price: من 1.99 دولار
+  - name: eSIM كوستاريكا
+    flag: img/flags/cr.svg
+    price: من 9.99 دولار
     is_highlight: false
-  - name: eSIM أوروبا
-    flag: img/flags/eu.svg
-    price: من 1.99 دولار
+  - name: eSIM روسيا
+    flag: img/flags/ru.svg
+    price: من 2.99 دولار
     is_highlight: true
-  - name: eSIM كندا
-    flag: img/flags/ca.svg
+  - name: eSIM المالديف
+    flag: img/flags/mv.svg
+    price: من 14.99 دولار
+    is_highlight: false
+  - name: eSIM الإمارات
+    flag: img/flags/ae.svg
+    price: من 3.99 دولار
+    is_highlight: false
+  - name: eSIM ألبانيا
+    flag: img/flags/al.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM تركيا
-    flag: img/flags/tr.svg
+  - name: eSIM سويسرا
+    flag: img/flags/ch.svg
     price: من 1.99 دولار
     is_highlight: false
-  - name: eSIM الصين
-    flag: img/flags/cn.svg
-    price: من 1.99 دولار
+  - name: eSIM بورتوريكو
+    flag: img/flags/pu.svg
+    price: من 6.99 دولار
     is_highlight: false
-  - name: eSIM اليابان
-    flag: img/flags/jp.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM هونغ كونغ
-    flag: img/flags/hk.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM فرنسا
-    flag: img/flags/fr.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM إسبانيا
-    flag: img/flags/es.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM ألمانيا
-    flag: img/flags/de.svg
-    price: من 1.99 دولار
-    is_highlight: false
-  - name: eSIM أستراليا
-    flag: img/flags/au.svg
+  - name: eSIM كرواتيا
+    flag: img/flags/hr.svg
     price: من 1.99 دولار
     is_highlight: false
 market_analysis:
   title: 'eSIM مالي أو بطاقة SIM: ما هو الخيار الأفضل في 2026؟'
   subtitle: بطاقات SIM المحلية المدفوعة مسبقًا في مالي مقابل حلول eSIM (معيار 2024/2025)
   citation:
-    text: 'مصدر البيانات: Prepaid Data SIM Card Wiki (Mali) + مواقع المشغلين المحليين'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Mali
+    text: "المصدر: GSMA Mobile Connectivity Index + مواقع المشغلين المحليين"
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - مصفوفة المقارنة
   - بطاقة SIM محلية مدفوعة مسبقًا (بيانات السوق)
