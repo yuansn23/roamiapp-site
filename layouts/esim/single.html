@@ -658,6 +658,9 @@
         <!-- 网格布局：移动端1列，平板2列，桌面3列，自动形成2行（若恰好6项） -->
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-5">
             {{ range first 6 .Params.features.items }}
+            {{/* 退款/保障卡片(icon=shield-check)标题统一走 i18n，修复数据源里的 "Not Available" 占位符（全语言一次生效） */}}
+            {{ $ftTitle := .title }}
+            {{ if eq .icon "shield-check" }}{{ $ftTitle = i18n "feature_refund_title" }}{{ end }}
             <div class="flex items-start gap-3 md:gap-4 p-4 rounded-2xl bg-white/5 border border-white/10 backdrop-blur-sm hover:bg-white/10 transition-colors text-left">
                 
                 <div class="flex w-12 h-12 rounded-xl bg-gradient-to-br {{ .color }} items-center justify-center flex-shrink-0 shadow-lg">
@@ -665,7 +668,7 @@
                 </div>
                 
                 <div class="w-full pt-0.5">
-                    <h3 class="font-bold text-white text-base md:text-lg leading-tight">{{ .title }}</h3>
+                    <h3 class="font-bold text-white text-base md:text-lg leading-tight">{{ $ftTitle }}</h3>
                     {{ with .desc }}<p class="text-sm text-slate-300 mt-1 leading-snug">{{ . }}</p>{{ end }}
                 </div>
                 
@@ -711,8 +714,8 @@
             <i class="fa-solid fa-scale-balanced text-brand-600 text-2xl"></i>
         </div>
         <div class="data-table-container overflow-x-auto rounded-2xl border border-slate-200 shadow-sm bg-white mb-4 hidden md:block">
-            <h2 class="text-3xl font-extrabold text-slate-900 leading-tight">{{ .title }}</h2>
-            <p class="text-slate-500 text-base mt-1">{{ .subtitle }}</p>
+            <h2 class="text-3xl font-extrabold text-slate-900 leading-tight">{{ .title | replaceRE "20(2[0-5])[/－—–-]20(2[0-5])" "2026" }}</h2>
+            <p class="text-slate-500 text-base mt-1">{{ .subtitle | replaceRE "20(2[0-5])[/－—–-]20(2[0-5])" "2026" }}</p>
         </div>
     </div>
 </div>
@@ -776,6 +779,56 @@
             </section>
             {{ end }}
 			 
+{{/* ===== Roami vs Airalo vs Holafly 对比模块（复用已有 i18n compare_* 键，18 语言自动生效） ===== */}}
+<section class="bg-white rounded-3xl p-8 lg:p-10 border border-slate-200 shadow-sm mt-8 mb-8">
+    <h2 class="text-2xl md:text-3xl font-extrabold text-slate-900 mb-2">{{ i18n "cmp_h2" }}</h2>
+    <p class="text-slate-600 mb-6">{{ i18n "cmp_lead" }}</p>
+    <div class="overflow-x-auto rounded-2xl border border-slate-200">
+        <table class="w-full text-left border-collapse min-w-[680px]">
+            <thead>
+                <tr class="bg-slate-900 text-white text-sm">
+                    <th class="p-4 font-bold w-1/4 border-r border-slate-700">{{ i18n "compare_col_feature" }}</th>
+                    <th class="p-4 font-bold bg-brand-600">{{ i18n "compare_col_roami" }}</th>
+                    <th class="p-4 font-bold border-l border-slate-700">{{ i18n "compare_col_airalo" }}</th>
+                    <th class="p-4 font-bold border-l border-slate-700">{{ i18n "compare_col_holafly" }}</th>
+                </tr>
+            </thead>
+            <tbody class="text-sm text-slate-700 divide-y divide-slate-100">
+                <tr class="hover:bg-slate-50/80 transition-colors even:bg-slate-50/50">
+                    <td class="p-4 font-bold text-slate-900 border-r border-slate-100">{{ i18n "compare_row_trial" }}</td>
+                    <td class="p-4 bg-brand-50/10 font-semibold text-emerald-600">{{ i18n "compare_roami_trial" }}</td>
+                    <td class="p-4 border-l border-slate-100">{{ i18n "compare_airalo_trial" }}</td>
+                    <td class="p-4 border-l border-slate-100">{{ i18n "compare_holafly_trial" }}</td>
+                </tr>
+                <tr class="hover:bg-slate-50/80 transition-colors">
+                    <td class="p-4 font-bold text-slate-900 border-r border-slate-100">{{ i18n "compare_row_card" }}</td>
+                    <td class="p-4 bg-brand-50/10">{{ i18n "compare_roami_card" }}</td>
+                    <td class="p-4 border-l border-slate-100">{{ i18n "compare_airalo_card" }}</td>
+                    <td class="p-4 border-l border-slate-100">{{ i18n "compare_holafly_card" }}</td>
+                </tr>
+                <tr class="hover:bg-slate-50/80 transition-colors even:bg-slate-50/50">
+                    <td class="p-4 font-bold text-slate-900 border-r border-slate-100">{{ i18n "compare_row_coverage" }}</td>
+                    <td class="p-4 bg-brand-50/10">{{ i18n "compare_roami_coverage" }}</td>
+                    <td class="p-4 border-l border-slate-100">{{ i18n "compare_airalo_coverage" }}</td>
+                    <td class="p-4 border-l border-slate-100">{{ i18n "compare_holafly_coverage" }}</td>
+                </tr>
+                <tr class="hover:bg-slate-50/80 transition-colors">
+                    <td class="p-4 font-bold text-slate-900 border-r border-slate-100">{{ i18n "compare_row_paid" }}</td>
+                    <td class="p-4 bg-brand-50/10 font-semibold text-emerald-600">{{ i18n "compare_roami_paid" }}</td>
+                    <td class="p-4 border-l border-slate-100">{{ i18n "compare_airalo_paid" }}</td>
+                    <td class="p-4 border-l border-slate-100">{{ i18n "compare_holafly_paid" }}</td>
+                </tr>
+                <tr class="hover:bg-slate-50/80 transition-colors even:bg-slate-50/50">
+                    <td class="p-4 font-bold text-slate-900 border-r border-slate-100">{{ i18n "compare_row_support" }}</td>
+                    <td class="p-4 bg-brand-50/10">{{ i18n "compare_roami_support" }}</td>
+                    <td class="p-4 border-l border-slate-100">{{ i18n "compare_airalo_support" }}</td>
+                    <td class="p-4 border-l border-slate-100">{{ i18n "compare_holafly_support" }}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</section>
+
 <section>
     {{ $faqData := .Params.faq_section }}
     {{ if not $faqData }}{{ $faqData = .Params.faq_section1 }}{{ end }}
@@ -879,6 +932,48 @@
     {{ end }}
   </ul>
 </section>
+
+{{/* ===== 国家相关博客内链（读 blog/_index.md 的 posts + category，18 语言自动匹配；复用 related_blog_title 键） ===== */}}
+{{ $catMap := dict
+  "china-esim" "china"
+  "japan-esim" "japan"
+  "united-kingdom-esim" "uk" "uk-esim" "uk"
+  "united-states-esim" "usa" "usa-esim" "usa"
+  "canada-esim" "canada"
+  "taiwan-esim" "taiwan"
+  "turkey-esim" "tuerkei" "tuerkei-esim" "tuerkei"
+  "south-korea-esim" "korea" "korea-esim" "korea"
+  "germany-esim" "germany"
+  "spain-esim" "spain"
+  "france-esim" "france"
+  "thailand-esim" "thailand"
+  "australia-esim" "australia"
+}}
+{{ $catKey := index $catMap $currentSlug }}
+{{ $blogIndex := .Site.GetPage "/blog" }}
+{{ $relGuides := slice }}
+{{ if and $catKey $blogIndex $blogIndex.Params.posts }}
+  {{ $relGuides = first 6 (where $blogIndex.Params.posts "category" $catKey) }}
+{{ end }}
+{{ if gt (len $relGuides) 0 }}
+<section class="mt-12 pt-10 border-t border-slate-200">
+  <div class="flex items-center gap-3 mb-6">
+    <h2 class="text-2xl font-bold text-slate-900">{{ i18n "related_blog_title" }}</h2>
+  </div>
+  <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 list-none p-0 m-0">
+    {{ range $relGuides }}
+      {{ $pt := .title }}
+      {{ $plink := .link }}
+      <li class="h-full">
+        <a href="{{ partial "langurl.html" $plink }}" class="bg-white border border-slate-200 rounded-2xl overflow-hidden hover:border-brand-200 hover:shadow-md transition-all group h-full flex flex-col">
+          {{ with .image }}<img src="{{ . | relURL }}" alt="{{ $pt }}" loading="lazy" class="w-full h-36 object-cover group-hover:scale-[1.03] transition-transform duration-300">{{ end }}
+          <h3 class="font-bold text-slate-900 group-hover:text-brand-600 transition-colors text-sm leading-snug p-4">{{ $pt }}</h3>
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}
 
 {{/* 相关 FAQ 文章：所有语言显示，随机取 6 篇 */}}
 {{ $faqs := where .Site.RegularPages "Section" "faq" }}

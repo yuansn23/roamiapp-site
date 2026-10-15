@@ -259,11 +259,11 @@ plans_data:
   - spec: 35GB
     data: 5G/4G/LTE Kecepatan Tinggi
     desc: Ideal untuk masa tinggal lama & kebutuhan data tinggi
-    price: '44.99'
-    oldPrice: '67.48'
+    price: '34.99'
+    oldPrice: '52.49'
     tag: Nilai Bagus
     tagColor: bg-emerald-500
-    daily: '1.50'
+    daily: '1.17'
   - spec: 50GB
     data: 5G/4G/LTE Kecepatan Tinggi
     desc: Data besar untuk kreator & digital nomad

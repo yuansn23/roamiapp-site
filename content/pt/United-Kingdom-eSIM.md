@@ -78,11 +78,11 @@ plans_data:
   - spec: 35GB
     data: 5G/4G/LTE de alta velocidade
     desc: Perfeito para viagens mais aprofundadas
-    price: '44.99'
-    oldPrice: '67.48'
+    price: '34.99'
+    oldPrice: '52.49'
     tag: Ótimo custo-benefício
     tagColor: bg-emerald-500
-    daily: '1.50'
+    daily: '1.17'
   - spec: Ilimitado
     data: Alta velocidade ilimitada
     desc: Uso de dados sem preocupações
@@ -518,7 +518,8 @@ market_analysis:
   - icon: wifi
     title: Políticas de hotspot<br>e velocidade
     prepaid_title: ''
-    prepaid_desc: "A Lebara proíbe explicitamente o tethering. A Three proíbe hotspot pessoal em regiões fora da UE (ex.: EUA, Austrália)."
+    prepaid_desc: "A Lebara proíbe explicitamente o tethering. A Three proíbe hotspot pessoal em regiões fora da UE (ex.: EUA, Austrália).
+"
     esim_title: Tethering sem restrições
     esim_desc: A Lebara proíbe completamente o tethering; a Three bloqueia hotspot fora da UE. O eSIM Roami permite tethering em velocidade máxima em todos os planos.
   - icon: credit-card

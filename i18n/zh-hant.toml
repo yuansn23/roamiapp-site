@@ -550,3 +550,14 @@ other = "更多 eSIM 指南"
 
 [more_faqs_desc]
 other = "更多來自 Roami 說明中心的設定、相容性與疑難排解指南。"
+
+# --- added: refund feature title / competitor compare block ---
+
+[feature_refund_title]
+other = "100% 退款保證"
+
+[cmp_h2]
+other = "Roami vs Airalo vs Holafly：eSIM 比較"
+
+[cmp_lead]
+other = "誠實比較 Roami 與 Airalo、Holafly 的差異：價格、覆蓋與支援一目了然。"

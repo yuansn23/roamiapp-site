@@ -649,3 +649,14 @@ other = "المزيد من أدلة eSIM"
 
 [more_faqs_desc]
 other = "أدلة إضافية حول الإعداد والتوافق وحل المشكلات من مركز مساعدة Roami."
+
+# --- added: refund feature title / competitor compare block ---
+
+[feature_refund_title]
+other = "ضمان استرداد 100%"
+
+[cmp_h2]
+other = "مقارنة eSIM: Roami مقابل Airalo و Holafly"
+
+[cmp_lead]
+other = "نظرة صادقة على كيفية مقارنة Roami مع Airalo و Holafly: السعر والتغطية والدعم في لمحة."

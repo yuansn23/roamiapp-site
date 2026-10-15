@@ -93,11 +93,11 @@ plans_data:
   - spec: 35GB
     data: 高速5G/4G/LTEデータ
     desc: 長期滞在に最適
-    price: '44.99'
-    oldPrice: '67.48'
+    price: '34.99'
+    oldPrice: '52.49'
     tag: コストパフォーマンス最高
     tagColor: bg-emerald-500
-    daily: '1.50'
+    daily: '1.17'
   - spec: 無制限
     data: 無制限高速データ
     desc: データ使い放題

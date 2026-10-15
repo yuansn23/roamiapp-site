@@ -258,11 +258,11 @@ plans_data:
   - spec: 35 جيجابايت
     data: سرعة عالية 5G/4G/LTE
     desc: مثالي للإقامات الطويلة واحتياجات البيانات العالية
-    price: '44.99'
-    oldPrice: '67.48'
+    price: '34.99'
+    oldPrice: '52.49'
     tag: قيمة ممتازة
     tagColor: bg-emerald-500
-    daily: '1.50'
+    daily: '1.17'
   - spec: 50 جيجابايت
     data: سرعة عالية 5G/4G/LTE
     desc: بيانات ضخمة للمبدعين والبدو الرقميين

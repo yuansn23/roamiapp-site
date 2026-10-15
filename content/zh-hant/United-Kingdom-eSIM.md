@@ -73,11 +73,11 @@ plans_data:
   - spec: 35GB
     data: 高速 5G/4G/LTE
     desc: 適合長途旅行
-    price: '44.99'
-    oldPrice: '67.48'
+    price: '34.99'
+    oldPrice: '52.49'
     tag: 最佳性價比
     tagColor: bg-emerald-500
-    daily: '1.50'
+    daily: '1.17'
   - spec: 無限
     data: 無限高速數據
     desc: 無憂使用數據

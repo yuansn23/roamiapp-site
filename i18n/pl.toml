@@ -649,3 +649,14 @@ other = "Więcej przewodników eSIM"
 
 [more_faqs_desc]
 other = "Dodatkowe przewodniki dotyczące konfiguracji, kompatybilności i rozwiązywania problemów z centrum pomocy Roami."
+
+# --- added: refund feature title / competitor compare block ---
+
+[feature_refund_title]
+other = "Gwarancja 100% zwrotu"
+
+[cmp_h2]
+other = "Roami vs Airalo vs Holafly: porównanie eSIM"
+
+[cmp_lead]
+other = "Uczciwe spojrzenie na to, jak Roami wypada na tle Airalo i Holafly: cena, zasięg i wsparcie w skrócie."

@@ -81,11 +81,11 @@ plans_data:
   - spec: 35GB
     data: Datos de alta velocidad 5G/4G/LTE
     desc: Adecuado para estancias largas
-    price: '44.99'
-    oldPrice: '67.48'
+    price: '34.99'
+    oldPrice: '52.49'
     tag: Mejor relación calidad-precio
     tagColor: bg-emerald-500
-    daily: '1.50'
+    daily: '1.17'
   - spec: Ilimitado
     data: Datos de alta velocidad ilimitados
     desc: Uso de datos sin preocupaciones

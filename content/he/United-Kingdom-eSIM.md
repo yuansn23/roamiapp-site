@@ -258,11 +258,11 @@ plans_data:
   - spec: 35GB
     data: 5G/4G/LTE במהירות גבוהה
     desc: אידיאלי לשהייה ארוכה ולצרכי נתונים גבוהים
-    price: '44.99'
-    oldPrice: '67.48'
+    price: '34.99'
+    oldPrice: '52.49'
     tag: ערך מצוין
     tagColor: bg-emerald-500
-    daily: '1.50'
+    daily: '1.17'
   - spec: 50GB
     data: 5G/4G/LTE במהירות גבוהה
     desc: נתונים עצומים ליוצרים ולנוודים דיגיטליים

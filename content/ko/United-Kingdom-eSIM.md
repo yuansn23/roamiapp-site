@@ -259,11 +259,11 @@ plans_data:
   - spec: 35GB
     data: 고속 5G/4G/LTE
     desc: 장기 체류 및 많은 데이터 필요에 이상적
-    price: '44.99'
-    oldPrice: '67.48'
+    price: '34.99'
+    oldPrice: '52.49'
     tag: 훌륭한 가치
     tagColor: bg-emerald-500
-    daily: '1.50'
+    daily: '1.17'
   - spec: 50GB
     data: 고속 5G/4G/LTE
     desc: 크리에이터 및 디지털 노마드를 위한 대용량 데이터

@@ -258,11 +258,11 @@ plans_data:
   - spec: 35GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na długie pobyty i duże potrzeby danych
-    price: '44.99'
-    oldPrice: '67.48'
+    price: '34.99'
+    oldPrice: '52.49'
     tag: Świetna wartość
     tagColor: bg-emerald-500
-    daily: '1.50'
+    daily: '1.17'
   - spec: 50GB
     data: Szybkie 5G/4G/LTE
     desc: Ogromne dane dla twórców i cyfrowych nomadów

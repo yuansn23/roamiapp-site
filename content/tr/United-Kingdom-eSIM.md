@@ -77,11 +77,11 @@ plans_data:
   - spec: 35GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Derinlemesine seyahat için mükemmel
-    price: '44.99'
-    oldPrice: '67.48'
+    price: '34.99'
+    oldPrice: '52.49'
     tag: Harika Değer
     tagColor: bg-emerald-500
-    daily: '1.50'
+    daily: '1.17'
   - spec: Sınırsız
     data: Sınırsız Yüksek Hız
     desc: Endişesiz veri kullanımı

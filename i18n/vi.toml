@@ -649,3 +649,14 @@ other = "Thêm hướng dẫn eSIM"
 
 [more_faqs_desc]
 other = "Các hướng dẫn bổ sung về cài đặt, tương thích và khắc phục sự cố từ trung tâm trợ giúp Roami."
+
+# --- added: refund feature title / competitor compare block ---
+
+[feature_refund_title]
+other = "Bảo đảm hoàn tiền 100%"
+
+[cmp_h2]
+other = "Roami vs Airalo vs Holafly: So sánh eSIM"
+
+[cmp_lead]
+other = "Cái nhìn khách quan về việc Roami so sánh với Airalo và Holafly: giá cả, vùng phủ và hỗ trợ trong nháy mắt."

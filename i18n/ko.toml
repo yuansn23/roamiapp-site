@@ -649,3 +649,14 @@ other = "추가 eSIM 가이드"
 
 [more_faqs_desc]
 other = "Roami 고객센터의 설정, 호환성 및 문제 해결 가이드입니다."
+
+# --- added: refund feature title / competitor compare block ---
+
+[feature_refund_title]
+other = "100% 환불 보장"
+
+[cmp_h2]
+other = "Roami vs Airalo vs Holafly: eSIM 비교"
+
+[cmp_lead]
+other = "Roami가 Airalo, Holafly와 어떻게 다른지 솔직하게 비교합니다. 요금, 커버리지, 지원을 한눈에 확인하세요."

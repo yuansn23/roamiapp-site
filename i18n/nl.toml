@@ -658,3 +658,14 @@ other = "Meer eSIM-gidsen"
 
 [more_faqs_desc]
 other = "Extra gidsen over installatie, compatibiliteit en probleemoplossing uit het Roami-helpcentrum."
+
+# --- added: refund feature title / competitor compare block ---
+
+[feature_refund_title]
+other = "100% terugbetalingsgarantie"
+
+[cmp_h2]
+other = "Roami vs Airalo vs Holafly: eSIM-vergelijking"
+
+[cmp_lead]
+other = "Een eerlijke blik op hoe Roami zich verhoudt tot Airalo en Holafly: prijs, dekking en ondersteuning in één oogopslag."

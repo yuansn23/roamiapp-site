@@ -259,11 +259,11 @@ plans_data:
   - spec: 35GB
     data: Hoge Snelheid 5G/4G/LTE
     desc: Ideaal voor lange verblijven & hoge databehoeften
-    price: '44.99'
-    oldPrice: '67.48'
+    price: '34.99'
+    oldPrice: '52.49'
     tag: Grote Waarde
     tagColor: bg-emerald-500
-    daily: '1.50'
+    daily: '1.17'
   - spec: 50GB
     data: Hoge Snelheid 5G/4G/LTE
     desc: Enorme data voor creators & digital nomads
