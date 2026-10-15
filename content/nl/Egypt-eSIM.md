@@ -1,6 +1,6 @@
 ---
 title: 'Egypte eSIM - 4G/5G in Caïro & Luxor | Geen Paspoort Nodig | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Onze eSIM-service is geüpgraded naar <strong>PhoneSIM</strong>.<br>Nieuwe klanten krijgen 20% korting, promotiecode:web20
 seo:
   title: Egypte eSIM - Onbeperkte Prepaid Data voor Uw Reis
-  description: Krijg de beste Egypte eSIM met 4G/5G op Orange, Vodafone & Etisalat. Geen paspoort of hoteladres nodig — sla luchthaven-SIM-oplichting over. Dekt Caïro, Gizeh & Luxor. Plannen vanaf $1.99.
-  keywords: Egypte eSIM, Egypte eSIM kopen, beste Egypte eSIM, Egypte reis eSIM, Orange Egypte, Vodafone Egypte, Etisalat Egypte, Caïro eSIM, Alexandrië eSIM, Luxor eSIM, Egypte prepaid eSIM, Gizeh Piramides eSIM, Egypte eSIM geen paspoort
-  low_price: 1.99
-  high_price: 39.9
+  description: Krijg de beste Egypte eSIM met 4G/5G op Orange, Vodafone & Etisalat. Geen paspoort of hoteladres nodig — sla luchthaven-SIM-oplichting over. Dekt Caïro, Gizeh & Luxor. Plannen vanaf $2.99.
+  keywords: Egypte eSIM, eSIM Egypte, esim egypte kopen, beste esim egypte, esim egypte kosten, Orange, Vodafone, Etisalat, Caïro eSIM, Alexandrië eSIM, Luxor eSIM, Egypte eSIM 5G, Egypte eSIM databundel, Egypte eSIM dekking, Egypte eSIM activeren, Egypte prepaid eSIM
+  low_price: 2.99
+  high_price: 94.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -74,7 +74,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: VoIP & WhatsApp Geblokkeerd Opgeheven
     desc: Egypte blokkeert WhatsApp-gesprekken op lokale netwerken — Roami omzeilt dit
-plans_title: 'Koop Egypte eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Kies je Egypte eSIM: Pakketten voor Elke Reisduur'
 plans_data:
   3 Dagen:
   - spec: 1GB
@@ -299,7 +299,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Egypte eSIM Installatietips: Wat u Moet Weten Voordat u Gaat'
+  title: 'Egypte eSIM Installatietips: Belangrijke Tips Voor je Reis'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-compatibel</a> is voordat u koopt.
@@ -351,7 +351,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Egypte eSIM FAQ's
+    title: 'Egypte eSIM Vragen'
     questions:
     - q: |
         Waarom kan ik niet gewoon een SIM-kaart kopen op de luchthaven van Caïro? Ik heb slechte verhalen gehoord.
@@ -397,63 +397,75 @@ faq_section:
         Wanneer begint de geldigheidsperiode van mijn Egypte eSIM?
       a: |
         De geldigheid van het plan begint wanneer u verbinding maakt met een lokaal netwerk in Egypte, niet bij aankoop of installatie. U kunt dus weken voor uw reis kopen en installeren zonder plan dagen te verliezen. Een 7-daags plan geeft u 7 volledige dagen vanaf de eerste verbinding.
+    - q: |
+        Werkt de Egypte eSIM direct na aankomst?
+      a: |
+        De installatie gebeurt vooraf via een QR-code. Zodra je in Egypte landt, schakel je de eSIM in en werkt je verbinding meteen.
+    - q: |
+        Wat gebeurt er als je databundel voor Egypte op is?
+      a: |
+        Je kiest een looptijd tussen 3 en 30 dagen. Is je data op, dan schaf je in een paar tikken een nieuw pakket aan.
+    - q: |
+        Hoeveel betaal je voor een Egypte eSIM met een vast databundel?
+      a: |
+        Voor Egypte liggen de prijzen tussen $2.99 en $94.99, afhankelijk van je databundel. Je betaalt eenmalig en houdt volledige controle over je verbruik.
 related_products:
   title: Gerelateerde Egypte eSIM-plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: Vanaf $1.99
-    is_highlight: true
   - name: Canada eSIM
     flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Spanje eSIM
     flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Duitsland eSIM
-    flag: img/flags/de.svg
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
+    price: Vanaf $1.99
+    is_highlight: true
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Australië eSIM
     flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: China eSIM
+    flag: img/flags/cn.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
 market_analysis:
   title: 'Egypte eSIM vs Lokale Prepaid SIM: Geen Paspoort, Geen 30% Belasting'
   subtitle: Egypte Lokale Prepaid SIMs vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Egypte) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Egypt
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktgegevens)

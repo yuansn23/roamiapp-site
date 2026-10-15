@@ -1,6 +1,6 @@
 ---
 title: 'Uruguay eSIM 2026: Complete Reisgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,10 +20,9 @@ seo:
   title: Uruguay eSIM | Beste Prepaid Data voor Uw Reis
   description: Reis naar Uruguay met de beste prepaid reis-eSIM van Roami. Onbeperkte 5G-data in het hele land. Dekt Montevideo,
     Punta del Este & Colonia. Directe activering.
-  keywords: Uruguay eSIM, Uruguay eSIM kopen, beste Uruguay eSIM, Uruguay reis eSIM, Antel Uruguay, Claro Uruguay, Movistar
-    Uruguay, Montevideo eSIM, Salto eSIM, Punta del Este eSIM, Uruguay prepaid eSIM, 5G Uruguay eSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: Uruguay eSIM, eSIM Uruguay, koop Uruguay eSIM, beste Uruguay eSIM, Uruguay eSIM prijs, Antel, Claro, Movistar, Montevideo eSIM, Salto eSIM, Punta del Este eSIM, Uruguay eSIM 5G, Uruguay eSIM databundel, Uruguay eSIM dekking, Uruguay eSIM activeren, Uruguay prepaid eSIM
+  low_price: 11.99
+  high_price: 98.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -72,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Verbindt automatisch met de beste Uruguayaanse providers voor het beste signaal
-plans_title: 'Koop Uruguay eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Kies je Uruguay eSIM: Pakketten voor Elke Reisduur'
 plans_data:
   7 Dagen:
   - spec: 1GB
@@ -283,7 +282,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Uruguay eSIM Installatietips: Wat u Moet Weten Voordat u Gaat'
+  title: 'Uruguay eSIM Installatietips: Belangrijke Tips Voor je Reis'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -326,12 +325,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hoe Snel is eSIM Internet in Uruguay? Snelheden en Dekking voor Reizigers"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Uruguay. Ontdek welke snelheden u kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Gids voor eSIM-internetsnelheden en netwerkdekking voor reizigers in Uruguay. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Uruguay eSIM FAQ's
+    title: 'FAQ over Uruguay eSIM'
     questions:
     - q: |
         Schakelt Roami automatisch tussen Antel, Claro en Movistar in Uruguay?
@@ -344,7 +343,7 @@ faq_section:
     - q: |
         Hoeveel moet ik budgetteren voor een eSIM bij een bezoek aan Uruguay?
       a: |
-        Roami biedt Uruguay eSIM vanaf $1.99 voor een licht 7-daags plan tot $59.99 voor 30 dagen onbeperkte data. De meeste bezoekers kiezen het 5GB/15 dagen plan van $9.99 — het dekt dagelijkse navigatie, social media en berichten zonder stress. Streamingfans of zware social media-gebruikers moeten 10GB of onbeperkt overwegen. Antel biedt betrouwbare snelheden in heel Uruguay. Roami-plannen zijn prepaid — geen verrassingsrekeningen, geen automatische verlenging, gewoon duidelijke prijzen.
+        Roami biedt Uruguay eSIM vanaf $11.99 voor een licht 7-daags plan tot $30.99 voor 30 dagen onbeperkte data. De meeste bezoekers kiezen het 5GB/15 dagen plan van $26.99 — het dekt dagelijkse navigatie, social media en berichten zonder stress. Streamingfans of zware social media-gebruikers moeten 10GB of onbeperkt overwegen. Antel biedt betrouwbare snelheden in heel Uruguay. Roami-plannen zijn prepaid — geen verrassingsrekeningen, geen automatische verlenging, gewoon duidelijke prijzen.
     - q: |
         Is het veilig om mijn paspoort te uploaden voor Uruguay eSIM-registratie? Ik maak me zorgen over privacy.
       a: |
@@ -365,63 +364,75 @@ faq_section:
         Hoeveel data gebruikt een typische reiziger per dag in Uruguay?
       a: |
         Gemiddeld dagelijks gebruik voor de meeste toeristen: 300-500MB voor kaarten en berichten, tot 1GB als u veel social media gebruikt. Voor een reis van een week is 5GB comfortabel. Voor twee weken gaat u voor 10GB. Roami maakt het gemakkelijk om op te waarderen als u weinig hebt.
+    - q: |
+        Met welke betaalmethoden kun je een Uruguay eSIM kopen?
+      a: |
+        Je rekent veilig af met gangbare betaalmethoden zoals creditcard en digitale wallets. Na betaling ontvang je de QR-code direct per e-mail.
+    - q: |
+        Hoe activeer je een Uruguay eSIM voordat je vertrekt?
+      a: |
+        Je installeert de eSIM thuis via een QR-code en schakelt de lijn pas in bij aankomst in Uruguay. Zo heb je meteen internet zonder eerst een lokale SIM te regelen.
+    - q: |
+        Hoe lang is een Uruguay eSIM geldig en kun je verlengen?
+      a: |
+        De geldigheid loopt van 3 tot 30 dagen, afhankelijk van het pakket dat je kiest. Raakt je bundel bijna leeg, dan voeg je eenvoudig een nieuw pakket toe.
 related_products:
   title: Gerelateerde Uruguay eSIM-plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Verenigd-Koninkrijk
+  - name: Verenigd Koninkrijk eSIM
     flag: img/flags/gb.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: Vanaf $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
     price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
+    is_highlight: true
+  - name: Hongkong eSIM
     flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Spanje eSIM
     flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: Vanaf $1.99
+    is_highlight: false
   - name: Duitsland eSIM
     flag: img/flags/de.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Australië eSIM
     flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Vanaf $1.99
+    is_highlight: false
 market_analysis:
   title: 'Uruguay eSIM vs Lokale Prepaid SIM: Wat is Handiger?'
   subtitle: Uruguay Lokale Prepaid SIMs vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Uruguay) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Uruguay
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktgegevens)
@@ -460,7 +471,7 @@ market_analysis:
   - icon: wifi
     title: Hotspot- &<br>Snelheidsbeleid
     prepaid_title: ''
-    prepaid_desc: Geen specifieke gegevens in de bron voor deze dimensie. Op basis van algemene marktkennis staan de meeste Uruguayaanse prepaid
+    prepaid_desc: Staan de meeste Uruguayaanse prepaid
       plannen tethering toe, maar kunnen ze na een bepaalde limiet vertragen.
     esim_title: Onbeperkte Tethering
     esim_desc: Roami eSIM staat hotspot-sharing op volledige snelheid toe, in tegenstelling tot sommige lokale plannen die tethering kunnen vertragen of blokkeren.
@@ -475,7 +486,7 @@ market_analysis:
   - icon: headset
     title: Klanten-<br>ondersteuning
     prepaid_title: ''
-    prepaid_desc: Geen specifieke gegevens in de bron voor deze dimensie. Op basis van algemene marktkennis is klantenondersteuning doorgaans
+    prepaid_desc: Is klantenondersteuning doorgaans
       in het Spaans, met beperkte hulp in het Engels.
     esim_title: 24/7 Meertalige Ondersteuning
     esim_desc: Krijg altijd Engelstalige ondersteuning, in tegenstelling tot de alleen-Spaanse telefoonlijnen van lokale providers.

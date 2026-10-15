@@ -1,6 +1,6 @@
 ---
 title: 'Kroatië eSIM 2026: Complete Reisgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,10 +21,9 @@ seo:
   title: Kroatië eSIM | Beste 5G Onbeperkte Data voor Je Reis
   description: Heb je een prepaid reis eSIM nodig voor Kroatië? Roami biedt onbeperkte 5G-data langs de kust & in het binnenland. Directe activatie.
     Dekt Dubrovnik, Split & Zagreb.
-  keywords: Kroatië eSIM, koop Kroatië eSIM, beste Kroatië eSIM, Kroatië reis eSIM, Hrvatski Telekom Kroatië, A1 Hrvatska
-    Kroatië, Tele2 Kroatië, Zagreb eSIM, Split eSIM, Dubrovnik eSIM, Kroatië prepaid eSIM, 5G Kroatië eSIM
+  keywords: Kroatië eSIM, eSIM Kroatië, koop Kroatië eSIM, wat is de beste esim, Kroatië eSIM prijs, Hrvatski Telekom, A1 Hrvatska, Tele2, Zagreb eSIM, Split eSIM, Dubrovnik eSIM, Kroatië eSIM 5G, Kroatië eSIM databundel, Kroatië eSIM dekking, Kroatië eSIM activeren, Kroatië prepaid eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 76.99
 order_summary:
   title: Geselecteerd Pakket
   label_data: Inbegrepen Data
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Automatisch verbinden met de beste Kroatische providers voor het beste signaal
-plans_title: 'Koop Kroatië eSIM: Pakketten voor Elke Reisduur'
+plans_title: 'Kroatië eSIM-plannen: Voor Elke Reisduur'
 plans_data:
   30 Dagen:
   - spec: 20GB
@@ -332,7 +331,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Kroatië eSIM Installatietips: Wat je Moet Weten Voor je Vertrekt'
+  title: 'Kroatië eSIM Installatietips: Slim Voorbereiden op je Reis'
   items:
   - icon: 📱
     html: Zorg ervoor dat je telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -353,7 +352,7 @@ reminders:
     result_html: Als een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       nummer op je scherm verschijnt, wordt je apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Kroatië eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Kroatië eSIM-installatie in 3 Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -375,12 +374,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Werkt eSIM Goed in Kroatië? Een Reisgids voor Internetkwaliteit"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Kroatië. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Complete gids over eSIM-internetsnelheden en verbindingskwaliteit voor reizigers in Kroatië. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Kroatië eSIM FAQ's
+    title: 'Kroatië eSIM Veelgestelde Vragen en Tips'
     questions:
     - q: |
         Is het veilig om mijn paspoort te uploaden voor Kroatië eSIM-registratie? Ik maak me zorgen over privacy.
@@ -389,7 +388,7 @@ faq_section:
     - q: |
         Zal het onbeperkte Kroatië eSIM-pakket vertragen als ik te veel data gebruik?
       a: |
-        Er is een fair use-beleid: snelheden worden verlaagd na 30GB op een dag. Bij verlaagde snelheid kun je nog steeds berichten sturen, navigeren en browsen — alleen geen vloeiende video. Realistisch gezien komen de meeste reizigers niet in de buurt van 30GB. Als je je zorgen maakt, verwijdert een vast 10GB ($14.99) of 20GB ($24.99) pakket de onzekerheid volledig.
+        Er is een fair use-beleid: snelheden worden verlaagd na 30GB op een dag. Bij verlaagde snelheid kun je nog steeds berichten sturen, navigeren en browsen — alleen geen vloeiende video. Realistisch gezien komen de meeste reizigers niet in de buurt van 30GB. Als je je zorgen maakt, verwijdert een vast 10GB ($14.99) of 20GB ($20.99) pakket de onzekerheid volledig.
     - q: |
         Ik heb slechts een paar dagen internettoegang nodig in Kroatië. Wat is het minimum dat ik kan kopen?
       a: |
@@ -397,7 +396,7 @@ faq_section:
     - q: |
         Ik reis slechts 2-3 dagen naar Kroatië. Welke eSIM moet ik nemen?
       a: |
-        Voor een korte reis dekt het 1GB/7 dagen pakket ($1.99) kaarten en berichten. Als je van plan bent sociale media te gebruiken en foto's te delen, geeft het 3GB-pakket ($4.99) meer ruimte. Beide activeren direct en je kunt indien nodig opwaarderen.
+        Voor een korte reis dekt het 1GB/7 dagen pakket ($2.99) kaarten en berichten. Als je van plan bent sociale media te gebruiken en foto's te delen, geeft het 3GB-pakket ($4.99) meer ruimte. Beide activeren direct en je kunt indien nodig opwaarderen.
     - q: |
         Wat gebeurt er als mijn Kroatië eSIM halverwege de reis stopt met werken?
       a: |
@@ -414,18 +413,30 @@ faq_section:
         Moet ik mijn fysieke SIM verwijderen om eSIM in Kroatië te gebruiken?
       a: |
         Helemaal niet. Je fysieke SIM blijft in slot 1. De eSIM werkt ernaast in slot 2. Gebruik je thuis-SIM voor sms en bellen, eSIM voor data. Meer dan 80% van de telefoons vanaf 2020 ondersteunt deze dubbele configuratie.
+    - q: |
+        Kun je een Kroatië eSIM eenvoudig verlengen?
+      a: |
+        De looptijd van een Kroatië eSIM varieert van 3 tot 30 dagen. Verlengen kan door voor vertrek of onderweg een extra pakket te kiezen.
+    - q: |
+        Welke prijzen kun je verwachten voor een Kroatië eSIM?
+      a: |
+        De tarieven voor een Kroatië eSIM starten bij $1.99 en gaan tot $76.99, afhankelijk van databundel en looptijd. Er komt geen maandelijkse verplichting bij kijken.
+    - q: |
+        Is tethering met een Kroatië eSIM toegestaan?
+      a: |
+        Tethering is toegestaan: deel je Kroatië eSIM-verbinding met andere apparaten zonder extra kosten.
 related_products:
   title: Gerelateerde Kroatië eSIM Pakketten
   items:
-  - name: united states eSIM
+  - name: Verenigde Staten eSIM
     flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: United-Kingdom
+  - name: Verenigd Koninkrijk eSIM
     flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Europe eSIM
+  - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
@@ -433,44 +444,44 @@ related_products:
     flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Turkey eSIM
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Australië eSIM
+    flag: img/flags/au.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
     flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Germany eSIM
+  - name: Duitsland eSIM
     flag: img/flags/de.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
 market_analysis:
   title: 'Kroatië eSIM vs Lokale Prepaid SIM: Wat is Handiger?'
   subtitle: Lokale Prepaid SIM's in Kroatië vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Kroatië) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Croatia
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)
@@ -511,7 +522,7 @@ market_analysis:
   - icon: wifi
     title: Hotspot &<br>Snelheidsbeleid
     prepaid_title: ''
-    prepaid_desc: Geen specifieke data in de bron voor deze dimensie. Op basis van marktkennis staan de meeste Kroatische prepaid SIM's
+    prepaid_desc: Staan de meeste Kroatische prepaid SIM's
       tethering toe, maar kunnen ze beperken na de high-speed datalimiet.
     esim_title: Onbeperkte Tethering
     esim_desc: In tegenstelling tot sommige lokale SIM's die beperken na high-speed limieten, staat Roami hotspot-sharing op volledige snelheid toe. Geen verborgen

@@ -1,6 +1,6 @@
 ---
 title: 'Japan eSIM 2026 - Beste 5G Plan voor Tokio & Kyoto | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: Japan eSIM - Snel Prepaid Data Plan voor Ontdekkingsreizigers
   description: Ontvang de beste Japan prepaid eSIM met 5G op NTT Docomo, SoftBank & KDDI. Geen ID nodig — directe QR-activering, 24/7. Geen activeringsvensters. Vanaf $1.99.
-  keywords: Japan eSIM, koop Japan eSIM, beste Japan eSIM, Japan reis eSIM, NTT Docomo Japan, SoftBank Japan, KDDI Japan, Tokyo eSIM, Osaka eSIM, Kyoto eSIM, Japan prepaid eSIM, 5G Japan eSIM, Shinkansen eSIM, onsen eSIM
+  keywords: Japan eSIM, eSIM Japan, esim japan kopen, beste esim japan, prepaid esim japan, NTT Docomo, SoftBank, KDDI, Tokio eSIM, Osaka eSIM, Kyoto eSIM, Japan eSIM 5G, Japan eSIM databundel, Japan eSIM dekking, Japan eSIM activeren, Japan prepaid eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 71.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -70,7 +70,7 @@ features:
     color: from-brand-400 to-brand-600
     title: Automatisch Schakelen
     desc: Maakt automatisch verbinding met NTT Docomo, SoftBank & KDDI voor het beste signaal in heel Japan
-plans_title: 'Koop Japan eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Koop Japan eSIM: Pakketten voor Elke Reisduur'
 plans_data:
   3 Dagen:
   - spec: 1GB
@@ -311,7 +311,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Japan eSIM Installatietips: Wat u Moet Weten Voor u Gaat'
+  title: 'Japan eSIM Installatietips: Wat je Moet Weten Voordat je Gaat'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-compatibel</a> is voordat u koopt.
@@ -332,7 +332,7 @@ reminders:
     code: '*#06#'
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe u Japan eSIM Installeert: 3 Eenvoudige Stappen'
+  title: 'Snel Japan eSIM Installeren: 3 Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -352,12 +352,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Japan eSIM Gids: Snelheden, Dekking en Reistips voor Japan"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Japan. Ontdek welke snelheden u kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Ontdek hoe snel eSIM is in Japan: snelheden, dekking en verbindingskwaliteit. Lees waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Japan eSIM FAQ's
+    title: 'Japan eSIM FAQ en Tips'
     questions:
     - q: |
         Ik kom laat in de nacht aan in Japan — kan ik mijn eSIM nog activeren?
@@ -395,14 +395,26 @@ faq_section:
         Hoe verhoudt Roami zich tot Klook voor eSIM in Japan?
       a: |
         Roami biedt doorgaans betere waarde voor Japan eSIM omdat we direct verkopen — geen marktplaatsopslag. Prijzen zijn meestal 10-20% lager dan Klook. We bieden ook 24/7 directe ondersteuning. Plannen zijn prepaid zonder automatische verlenging, dus u wordt niet belast nadat uw reis eindigt.
+    - q: |
+        Wanneer kun je de Japan eSIM het beste installeren?
+      a: |
+        Installeer de Japan eSIM al voor vertrek met de QR-code uit je e-mail; bij aankomst zet je de lijn aan en ben je direct online.
+    - q: |
+        Kun je een Japan eSIM eenvoudig verlengen?
+      a: |
+        De looptijd van een Japan eSIM varieert van 3 tot 30 dagen. Verlengen kan door voor vertrek of onderweg een extra pakket te kiezen.
+    - q: |
+        Welke prijzen kun je verwachten voor een Japan eSIM?
+      a: |
+        De tarieven voor een Japan eSIM starten bij $1.99 en gaan tot $71.99, afhankelijk van databundel en looptijd. Er komt geen maandelijkse verplichting bij kijken.
 related_products:
   title: Gerelateerde Japan eSIM Plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd-Koninkrijk
+  - name: Verenigd Koninkrijk eSIM
     flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
@@ -410,28 +422,20 @@ related_products:
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
+  - name: Hongkong eSIM
     flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Spanje eSIM
@@ -442,6 +446,10 @@ related_products:
     flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
   - name: Australië eSIM
     flag: img/flags/au.svg
     price: Vanaf $1.99
@@ -450,8 +458,8 @@ market_analysis:
   title: 'Japan eSIM vs Prepaid SIM-kaart: Belangrijkste Verschillen Uitgelegd – Beste eSIM voor Reizigers naar Japan'
   subtitle: Japan Lokale Prepaid SIM's vs. eSIM Oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Japan) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Japan
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)

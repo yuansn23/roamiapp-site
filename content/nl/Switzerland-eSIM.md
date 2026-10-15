@@ -1,6 +1,6 @@
 ---
 title: 'Zwitserland eSIM - Alpine 5G-dekking & EU-roaming | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: Zwitserland eSIM - Alpine 5G-dekking & EU-roaming
   description: Krijg de beste Zwitserland eSIM met 5G op Swisscom, Sunrise & Salt — van Jungfraujoch tot Genève. Inclusief EU-roaming zonder extra kosten. Sla wachtrijen op Zürich Airport over. Pakketten vanaf $1.99.
-  keywords: Zwitserland eSIM, koop Zwitserland eSIM, beste Zwitserland eSIM, Zwitserland reis eSIM, Swisscom Zwitserland, Sunrise Zwitserland, Salt Zwitserland, Zürich eSIM, Genève eSIM, Basel eSIM, Zwitserland prepaid eSIM, 5G Zwitserland eSIM, Zwitserse Alpen eSIM, Jungfraujoch eSIM, Zwitserland eSIM EU-roaming
+  keywords: Zwitserland eSIM, eSIM Zwitserland, prepaid esim switzerland, wat is de beste esim, Zwitserland eSIM prijs, Swisscom, Sunrise, Salt, Zürich eSIM, Genève eSIM, Basel eSIM, Zwitserland eSIM 5G, Zwitserland eSIM databundel, Zwitserland eSIM dekking, Zwitserland eSIM activeren, Zwitserland prepaid eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: Geselecteerd Pakket
   label_data: Inbegrepen Data
@@ -74,7 +74,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Alpiene Dekking
     desc: 5G/4G bij Jungfraujoch, Zermatt, Interlaken & alle grote skigebieden
-plans_title: 'Koop Zwitserland eSIM: Pakketten voor Elke Reisduur'
+plans_title: 'Beste Zwitserland eSIM: Abonnementen voor Elke Reisduur'
 plans_data:
   3 Dagen:
   - spec: 1GB
@@ -323,7 +323,7 @@ network_coverage:
       coverage: Goede stedelijke 5G-dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Zwitserland eSIM Installatietips: Wat je Moet Weten Voor je Vertrekt'
+  title: 'Zwitserland eSIM-installatie: Tips Voor je Vertrek'
   items:
   - icon: 📱
     html: Zorg ervoor dat je telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-compatibel</a> is voordat je koopt.
@@ -346,7 +346,7 @@ reminders:
     code: '*#06#'
     result_html: Als een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> nummer op je scherm verschijnt, wordt je apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Zwitserland eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Hoe installeer je Zwitserland eSIM: 3 Eenvoudige Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -371,7 +371,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Zwitserland eSIM FAQ's
+    title: 'Vragen over Zwitserland eSIM'
     questions:
     - q: |
         Werkt mijn eSIM in de Zwitserse Alpen — Jungfraujoch, Zermatt, Interlaken?
@@ -409,39 +409,43 @@ faq_section:
         Wanneer begint de geldigheidsperiode van mijn Zwitserland eSIM?
       a: |
         De geldigheid van het pakket begint wanneer je verbinding maakt met een lokaal netwerk in Zwitserland, niet wanneer je het koopt of installeert. Dus je kunt weken voor je reis kopen en installeren zonder pakketdagen te verliezen. Een 7-daags pakket geeft je 7 volledige dagen vanaf de eerste verbinding.
+    - q: |
+        Kun je een Zwitserland eSIM delen via hotspot?
+      a: |
+        Ja, je kunt je verbinding delen met een laptop of tweede toestel. Er geldt geen aparte hotspottoeslag bovenop je databundel.
+    - q: |
+        Is een Zwitserland eSIM voordeliger dan een lokale prepaid sim?
+      a: |
+        Een lokale sim vraagt registratie in een winkel, terwijl je een eSIM al voor vertrek installeert. Dat scheelt tijd en gedoe op de luchthaven van Zwitserland.
+    - q: |
+        Werkt een Zwitserland eSIM met de netwerken van Swisscom en Sunrise?
+      a: |
+        Bij aankomst verbindt de eSIM automatisch met de sterkste beschikbare netwerken, waaronder Swisscom en Sunrise. In stedelijke gebieden zoals Zürich en Genève is de dekking doorgaans het beste.
 related_products:
   title: Gerelateerde Zwitserland eSIM Pakketten
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd Koninkrijk
-    flag: img/flags/gb.svg
+  - name: Australië eSIM
+    flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Frankrijk eSIM
@@ -452,20 +456,28 @@ related_products:
     flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
   - name: Duitsland eSIM
     flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Australië eSIM
-    flag: img/flags/au.svg
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
     price: Vanaf $1.99
     is_highlight: false
 market_analysis:
   title: 'Zwitserland eSIM vs Lokale Prepaid SIM: Wat is Beter voor Alpiene Reizigers?'
   subtitle: Lokale Prepaid SIM's in Zwitserland vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Zwitserland) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Switzerland
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)

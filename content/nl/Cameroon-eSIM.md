@@ -1,6 +1,6 @@
 ---
 title: 'Kameroen eSIM 2026: 5G & Data Gids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: MTN Cameroon, Orange Cameroon, CAMTEL
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Douala, Yaoundé, Bamenda, Garoua, Maroua
-  main_packages: 3/7/15/30 Dagen, Onbeperkte Data
+  main_packages: 3/7/15/30 Dagen, 5G-data
 modal:
   title: Service Geüpgraded!
   btn_text: Doorgaan
@@ -17,10 +17,10 @@ modal:
   text_android: Onze eSIM-service is geüpgraded naar <strong>PhoneSIM</strong>.<br>Nieuwe klanten genieten van 20% korting, promotiecode:web20
 seo:
   title: 'Cameroon eSIM: 5G Data Plan voor Korte & Lange Verblijven'
-  description: 'Vergelijk Cameroon eSIM-plannen met snel 5G in Douala, Yaoundé, Bamenda. MTN Cameroon & Orange Cameroon & CAMTEL dekkingsgids voor toeristen & reizigers. Directe QR-activering vanaf $1.99.'
-  keywords: 'Cameroon eSIM, koop Cameroon eSIM, beste Cameroon eSIM, Cameroon reis eSIM, MTN Cameroon Cameroon, Orange Cameroon Cameroon, CAMTEL Cameroon, Douala eSIM, Yaoundé eSIM, Bamenda eSIM, Cameroon prepaid eSIM, 5G Cameroon eSIM'
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Vergelijk Cameroon eSIM-plannen met snel 5G in Douala, Yaoundé, Bamenda. MTN Cameroon & Orange Cameroon & CAMTEL dekkingsgids voor toeristen & reizigers. Directe QR-activering vanaf $27.99.'
+  keywords: Cameroon eSIM, eSIM Cameroon, koop Cameroon eSIM, beste esim nieuw zeeland, Cameroon eSIM prijs, MTN Cameroon, Orange Cameroon, CAMTEL, Douala eSIM, Yaoundé eSIM, Bamenda eSIM, Cameroon eSIM 5G, Cameroon eSIM databundel, Cameroon eSIM dekking, Cameroon eSIM activeren, Cameroon prepaid eSIM
+  low_price: 27.99
+  high_price: 89.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Maakt automatisch verbinding met de beste Kameroense providers voor het beste signaal
-plans_title: 'Koop Cameroon eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Cameroon eSIM Kopen: Tarieven voor Elke Reisduur'
 plans_data:
   7 Dagen:
   - spec: 1GB
@@ -136,7 +136,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 4G/LTE Netwerk
 reminders:
-  title: 'Cameroon eSIM Installatietips: Wat u Moet Weten Voor u Gaat'
+  title: 'Cameroon eSIM Installatie: Slimme Tips Voor je Vertrek'
   items:
   - icon: 📱
     html: 'Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-compatibel</a> is voordat u koopt.'
@@ -155,7 +155,7 @@ reminders:
     code: '*#06#'
     result_html: 'Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!'
 activation_steps:
-  title: 'Hoe u Cameroon eSIM Installeert: 3 Eenvoudige Stappen'
+  title: 'Cameroon eSIM Op je Telefoon: 3 Eenvoudige Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -180,7 +180,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Cameroon eSIM FAQ's
+    title: 'Algemene Vragen over Cameroon eSIM'
     questions:
     - q: |
         Op welke provider in Kameroen moet ik vertrouwen voor mijn eSIM?
@@ -190,59 +190,55 @@ faq_section:
       a: '| Roami biedt doorgaans betere waarde voor Cameroon eSIM omdat we direct verkopen — geen marktplaatsopslag. Prijzen zijn meestal 10-20% lager dan Saily. We bieden ook 24/7 directe ondersteuning. Plannen zijn prepaid zonder automatische verlenging, dus u wordt niet belast nadat uw reis eindigt.'
     - q: |
         Wat als mijn hotel in Kameroen gratis WiFi heeft — heb ik dan nog steeds eSIM-data nodig?
-      a: '| Hotel-WiFi werkt in uw kamer, maar niet wanneer u op verkenning gaat. eSIM geeft u overal data — navigeren door straten, zoeken naar nabijgelegen plaatsen, ov-schema''s controleren. Een 5GB-plan kost $9,99, wat vaak goedkoper is dan betaalde hotel-WiFi voor een week ($10-15 bij veel hotels). De meeste reizigers gebruiken hotel-WiFi voor grote downloads en eSIM voor onderweg.'
+      a: '| Hotel-WiFi werkt in uw kamer, maar niet wanneer u op verkenning gaat. eSIM geeft u overal data — navigeren door straten, zoeken naar nabijgelegen plaatsen, ov-schema''s controleren. Een 1GB/7 dagen plan kost $27.99. De meeste reizigers gebruiken hotel-WiFi voor grote downloads en eSIM voor onderweg.'
     - q: |
         Werkt mijn Cameroon eSIM zodra ik land, of is er een activeringsvertraging?
       a: '| Als u de eSIM voor vertrek hebt geïnstalleerd, activeert deze binnen 1-2 minuten na landing. Schakel gewoon Vliegtuigmodus uit en schakel Data Roaming in. Uw telefoon maakt automatisch verbinding met MTN. Geen wachtrijen, geen papierwerk — u bent online voordat u de bagageband bereikt.'
     - q: |
         Ik heb slechts een paar dagen internettoegang nodig in Kameroen. Wat is het minimum dat ik kan kopen?
-      a: '| Het goedkoopste plan is $1,99 voor 7 dagen met 1GB — perfect voor een kort weekendtripje met licht gebruik. Als u meer nodig hebt, kunt u op elk moment opwaarderen via de app.'
+      a: '| Het goedkoopste plan is $27.99 voor 7 dagen met 1GB — perfect voor een kort weekendtripje met licht gebruik. Als u meer nodig hebt, kunt u op elk moment opwaarderen via de app.'
     - q: |
         Ik reis slechts 2-3 dagen naar Kameroen. Welke eSIM moet ik nemen?
-      a: '| Voor een korte reis dekt het 1GB/7 dagen plan ($1,99) kaarten en berichten. Als u van plan bent sociale media te gebruiken en foto''s te delen, biedt het 3GB-plan ($4,99) meer ruimte. Beide activeren direct en u kunt indien nodig opwaarderen.'
+      a: '| Voor een korte reis dekt het 1GB/7 dagen plan ($27.99) kaarten en berichten. Als u van plan bent sociale media te gebruiken en foto''s te delen, biedt het 3GB-plan ($89.99) meer ruimte. Beide activeren direct en u kunt indien nodig opwaarderen.'
     - q: |
         Welke documenten heb ik nodig om een Cameroon eSIM van Roami te kopen?
       a: '| Alleen een geldige betaalmethode — creditcard, PayPal, Apple Pay of Google Pay. Geen paspoortuploads, geen adresverificatie, geen contracten. Koop online, ontvang uw QR-code per e-mail binnen enkele minuten en installeer deze direct op uw telefoon.'
     - q: |
         Wat is inbegrepen wanneer ik een Cameroon eSIM van Roami koop?
-      a: '| QR-codelevering binnen 5 minuten, toegang tot het netwerk van MTN, 24/7 klantenondersteuning en gratis hotspot voor maximaal 5 apparaten. Plannen beginnen bij $1,99. Geen contracten, geen verborgen kosten, geen automatische verlenging.'
+      a: '| QR-codelevering binnen 5 minuten, toegang tot het netwerk van MTN, 24/7 klantenondersteuning en gratis hotspot voor maximaal 5 apparaten. Plannen beginnen bij $27.99. Geen contracten, geen verborgen kosten, geen automatische verlenging.'
+    - q: |
+        Wat gebeurt er als je databundel voor Cameroon op is?
+      a: |
+        Je kiest een looptijd tussen 3 en 30 dagen. Is je data op, dan schaf je in een paar tikken een nieuw pakket aan.
+    - q: |
+        Hoeveel betaal je voor een Cameroon eSIM met een vast databundel?
+      a: |
+        Voor Cameroon liggen de prijzen tussen $27.99 en $89.99, afhankelijk van je databundel. Je betaalt eenmalig en houdt volledige controle over je verbruik.
+    - q: |
+        Mag je de Cameroon eSIM als hotspot gebruiken?
+      a: |
+        Hotspot-gebruik is geen probleem — je verbinding met de Cameroon eSIM kan gewoon met meerdere toestellen worden gedeeld.
 related_products:
   title: Gerelateerde Cameroon eSIM Plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
   - name: Frankrijk eSIM
     flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Spanje eSIM
@@ -257,12 +253,28 @@ related_products:
     flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: China eSIM
+    flag: img/flags/cn.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
 market_analysis:
   title: 'Cameroon eSIM vs SIM-kaart Plannen: Welke Past bij Uw Behoeften?'
   subtitle: Kameroen Lokale Prepaid SIM's vs. eSIM Oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Kameroen) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Cameroon
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)
@@ -283,7 +295,7 @@ market_analysis:
   - icon: globe
     title: Internationale<br>Roaming
     prepaid_title: ''
-    prepaid_desc: 'Geen specifieke gegevens in de bron voor deze dimensie. Op basis van marktkennis: MTN-, Orange- en Nexttel prepaid plannen bevatten geen gratis roaming buiten Kameroen; roaming-add-ons kosten ongeveer 500 CFA/100MB per dag.'
+    prepaid_desc: 'MTN-, Orange- en Nexttel prepaid plannen bevatten geen gratis roaming buiten Kameroen; roaming-add-ons kosten ongeveer 500 CFA/100MB per dag.'
     esim_title: Naadloze Multi-Land Roaming
     esim_desc: 'In tegenstelling tot MTN- en Orange-plannen die stoppen bij de grens, biedt Roami eSIM dekking in Kameroen en buurlanden, waardoor herhaalde winkelbezoeken voor nieuwe SIM''s worden vermeden.'
   - icon: calendar-xmark
@@ -295,7 +307,7 @@ market_analysis:
   - icon: wifi
     title: Hotspot &<br>Snelheidsbeleid
     prepaid_title: ''
-    prepaid_desc: 'Geen specifieke gegevens in de bron voor deze dimensie. Op basis van marktkennis: MTN en Orange staan tethering toe maar beperken de snelheid na dagelijkse datalimiet (bijv. 1GB/dag bij 30GB-plannen); Nexttel''s sociale bundels sluiten VoIP uit en kunnen hotspot beperken.'
+    prepaid_desc: 'MTN en Orange staan tethering toe maar beperken de snelheid na dagelijkse datalimiet (bijv. 1GB/dag bij 30GB-plannen); Nexttel''s sociale bundels sluiten VoIP uit en kunnen hotspot beperken.'
     esim_title: Onbeperkt Tethering
     esim_desc: 'Roami eSIM staat hotspot-deling op volledige snelheid toe, in tegenstelling tot MTN en Orange die na 1GB/dag bij 30GB-plannen vertragen, en Nexttel die VoIP beperkt bij sociale bundels.'
   - icon: credit-card

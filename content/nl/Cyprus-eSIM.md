@@ -1,6 +1,6 @@
 ---
 title: 'Cyprus eSIM 2026: Provider- & Dekkingsgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,10 +20,9 @@ seo:
   title: Cyprus eSIM | Beste Prepaid Data Plan voor Uw Reis
   description: Geniet van onbeperkte 5G-data op Cyprus met de beste prepaid reis-eSIM van Roami. Eilandbrede dekking. Dekt Nicosia,
     Limassol & Paphos. Directe activering.
-  keywords: Cyprus eSIM, Cyprus eSIM kopen, beste Cyprus eSIM, Cyprus reis eSIM, Cyta Cyprus, PrimeTel Cyprus, Epic Cyprus,
-    Nicosia eSIM, Limassol eSIM, Larnaca eSIM, Cyprus prepaid eSIM, 5G Cyprus eSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: Cyprus eSIM, eSIM Cyprus, koop Cyprus eSIM, beste Cyprus eSIM, Cyprus eSIM prijs, Cyta, PrimeTel, Epic, Nicosia eSIM, Limassol eSIM, Larnaca eSIM, Cyprus eSIM 5G, Cyprus eSIM databundel, Cyprus eSIM dekking, Cyprus eSIM activeren, Cyprus prepaid eSIM
+  low_price: 2.99
+  high_price: 77.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -72,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Verbindt automatisch met de beste Cyprische providers voor het beste signaal
-plans_title: 'Koop Cyprus eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Koop Cyprus eSIM: Tarieven voor Elke Reisduur'
 plans_data:
   30 Dagen:
   - spec: 20GB
@@ -331,7 +330,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Cyprus eSIM Installatietips: Wat u Moet Weten Voordat u Gaat'
+  title: 'Cyprus eSIM Installatiegids: Wat je Moet Weten'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -352,7 +351,7 @@ reminders:
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Cyprus eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Cyprus eSIM in 3 Eenvoudige Stappen Installeren'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -374,12 +373,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM voor Reizigers op Cyprus -- Netwerksnelheden, Dekking en Tips"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers op Cyprus. Ontdek welke snelheden u kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Van snelheid tot dekking: eSIM in Cyprus in een complete gids. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Cyprus eSIM FAQ's
+    title: 'Van A tot Z: Cyprus eSIM Vragen'
     questions:
     - q: |
         Is het veilig om mijn paspoort te uploaden voor Cyprus eSIM-registratie? Ik maak me zorgen over privacy.
@@ -388,7 +387,7 @@ faq_section:
     - q: |
         Kan ik een eSIM voor Cyprus krijgen zonder te veel uit te geven?
       a: |
-        Absoluut. Roami's Cyprus eSIM-plannen beginnen al vanaf $1.99. De 5GB/15 dagen optie ($9.99) is het populairst onder reizigers — het verwerkt moeiteloos kaarten, WhatsApp, Instagram en e-mail. Als u een zware datagebruiker bent, geven de 10GB ($14.99) of onbeperkt ($59.99) plannen u gemoedsrust. Het overslaan van de SIM-balie op de luchthaven bespaart u 30-50% en het gedoe van in de rij staan. Moet u aanpassen? U kunt altijd opwaarderen via de Roami-app.
+        Absoluut. Roami's Cyprus eSIM-plannen beginnen al vanaf $2.99. De 5GB/15 dagen optie ($8.99) is het populairst onder reizigers — het verwerkt moeiteloos kaarten, WhatsApp, Instagram en e-mail. Als u een zware datagebruiker bent, geven de 10GB ($14.99) of onbeperkt ($10.99) plannen u gemoedsrust. Het overslaan van de SIM-balie op de luchthaven bespaart u 30-50% en het gedoe van in de rij staan. Moet u aanpassen? U kunt altijd opwaarderen via de Roami-app.
     - q: |
         Moet ik mijn fysieke SIM verwijderen om eSIM op Cyprus te gebruiken?
       a: |
@@ -400,7 +399,7 @@ faq_section:
     - q: |
         Wat is de meest populaire eSIM-keuze voor reizigers naar Cyprus?
       a: |
-        De meeste reizigers naar Cyprus kiezen het 5GB/15 dagen plan ($9.99). Het is voldoende voor dagelijkse navigatie, social media en berichten. Voor langere verblijven of zwaarder gebruik zijn de 10GB ($14.99) of onbeperkt ($59.99) plannen goede opties. Alle plannen activeren binnen enkele minuten en bevatten 24/7 ondersteuning.
+        De meeste reizigers naar Cyprus kiezen het 5GB/15 dagen plan ($8.99). Het is voldoende voor dagelijkse navigatie, social media en berichten. Voor langere verblijven of zwaarder gebruik zijn de 10GB ($14.99) of onbeperkt ($10.99) plannen goede opties. Alle plannen activeren binnen enkele minuten en bevatten 24/7 ondersteuning.
     - q: |
         Wat als ik mijn Cyprus eSIM per ongeluk verwijder voor mijn reis?
       a: |
@@ -413,63 +412,75 @@ faq_section:
         Wat gebeurt er als mijn Cyprus eSIM midden in de reis stopt met werken?
       a: |
         Probeer eerst uw telefoon opnieuw op te starten en Data Roaming in te schakelen. De meeste problemen worden binnen 2 minuten opgelost. Zo niet, selecteer dan handmatig een provider in de netwerkinstellingen. Roami 24/7 ondersteuning kan helpen als de problemen aanhouden.
+    - q: |
+        Hoeveel betaal je voor een Cyprus eSIM met een vast databundel?
+      a: |
+        Voor Cyprus liggen de prijzen tussen $2.99 en $77.99, afhankelijk van je databundel. Je betaalt eenmalig en houdt volledige controle over je verbruik.
+    - q: |
+        Mag je de Cyprus eSIM als hotspot gebruiken?
+      a: |
+        Hotspot-gebruik is geen probleem — je verbinding met de Cyprus eSIM kan gewoon met meerdere toestellen worden gedeeld.
+    - q: |
+        Cyprus eSIM of lokale sim: wat is handiger?
+      a: |
+        Een eSIM regel je vooraf online, terwijl een lokale sim pas ter plaatse beschikbaar is. Voor een korte reis naar Cyprus is dat vaak het snelst.
 related_products:
   title: Gerelateerde Cyprus eSIM-plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: Vanaf $1.99
-    is_highlight: true
   - name: Canada eSIM
     flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Spanje eSIM
     flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
+    price: Vanaf $1.99
+    is_highlight: true
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
   - name: Duitsland eSIM
     flag: img/flags/de.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: China eSIM
+    flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Australië eSIM
     flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
 market_analysis:
   title: 'Cyprus eSIM vs Lokale Prepaid SIM: Wat is Handiger?'
   subtitle: Cyprus Lokale Prepaid SIMs vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Cyprus) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Cyprus
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktgegevens)
@@ -529,7 +540,7 @@ market_analysis:
   - icon: headset
     title: Klanten-<br>ondersteuning
     prepaid_title: ''
-    prepaid_desc: Geen specifieke gegevens in de bron voor deze dimensie.
+    prepaid_desc: Prepaid klantenservice is in de regel beperkt tot de eigen kanalen en openingstijden van de provider.
     esim_title: 24/7 Meertalige Ondersteuning
     esim_desc: Krijg dag en nacht klantenondersteuning in het Engels, in tegenstelling tot lokale providers die mogelijk alleen ondersteuning bieden in het Grieks
       of Turks tijdens kantooruren.

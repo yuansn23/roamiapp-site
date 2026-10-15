@@ -1,6 +1,6 @@
 ---
 title: 'Oezbekistan eSIM 2026: Provider- & Dekkingsgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,11 +20,9 @@ seo:
   title: Oezbekistan eSIM | Beste 5G-dekking voor Uw Reis
   description: Plant u een reis naar Oezbekistan? Ontvang de beste prepaid reis-eSIM van Roami met onbeperkte 5G-data. Dekt Tashkent,
     Samarkand & Bukhara. Directe activering.
-  keywords: Uzbekistan eSIM, buy Uzbekistan eSIM, best Uzbekistan eSIM, Uzbekistan travel eSIM, Ucell Uzbekistan, Beeline
-    Uzbekistan Uzbekistan, UMS (Universal Mobile Systems) Uzbekistan, Tashkent eSIM, Samarkand eSIM, Bukhara eSIM, Uzbekistan
-    prepaid eSIM, 5G Uzbekistan eSIM
+  keywords: Oezbekistan eSIM, eSIM Oezbekistan, koop Oezbekistan eSIM, wat is de beste esim, Oezbekistan eSIM prijs, Ucell, Beeline Uzbekistan, UMS (Universal Mobile Systems), Tashkent eSIM, Samarkand eSIM, Bukhara eSIM, Oezbekistan eSIM 5G, Oezbekistan eSIM databundel, Oezbekistan eSIM dekking, Oezbekistan eSIM activeren, Oezbekistan prepaid eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 96.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -300,7 +298,7 @@ faq_section:
     - q: |
         Wat is de populairste eSIM-keuze voor reizigers naar Oezbekistan?
       a: |
-        De meeste reizigers naar Oezbekistan kiezen het 5GB/15 dagen-plan ($9,99). Het is genoeg voor dagelijkse navigatie, sociale media en berichten. Voor langere verblijven of zwaarder gebruik zijn de 10GB ($14,99) of onbeperkte ($59,99) plannen geweldige opties. Alle plannen activeren binnen enkele minuten en bevatten 24/7 ondersteuning.
+        De meeste reizigers naar Oezbekistan kiezen het 5GB/15 dagen-plan ($11.99). Het is genoeg voor dagelijkse navigatie, sociale media en berichten. Voor langere verblijven of zwaarder gebruik zijn de 10GB ($19.99) of onbeperkte ($12.99) plannen geweldige opties. Alle plannen activeren binnen enkele minuten en bevatten 24/7 ondersteuning.
     - q: |
         Wanneer begint de geldigheidsperiode van mijn Oezbekistan eSIM?
       a: |
@@ -309,15 +307,27 @@ faq_section:
         Werken WhatsApp en FaceTime met eSIM in Oezbekistan?
       a: |
         Ja — alle data-apps werken perfect via eSIM. WhatsApp-gesprekken gebruiken ongeveer 1MB per minuut voor audio en 5-8MB per minuut voor video. FaceTime, Zoom, Google Maps, Instagram — alles draait over de eSIM-dataverbinding zonder beperkingen. Het netwerk van Ucell verwerkt videogesprekken soepel. Een 5GB-plan biedt ongeveer 500 uur WhatsApp-audiogesprekken of 10 uur FaceTime-video.
+    - q: |
+        Wanneer kun je de Oezbekistan eSIM het beste installeren?
+      a: |
+        Installeer de Oezbekistan eSIM al voor vertrek met de QR-code uit je e-mail; bij aankomst zet je de lijn aan en ben je direct online.
+    - q: |
+        Kun je een Oezbekistan eSIM eenvoudig verlengen?
+      a: |
+        De looptijd van een Oezbekistan eSIM varieert van 3 tot 30 dagen. Verlengen kan door voor vertrek of onderweg een extra pakket te kiezen.
+    - q: |
+        Welke prijzen kun je verwachten voor een Oezbekistan eSIM?
+      a: |
+        De tarieven voor een Oezbekistan eSIM starten bij $1.99 en gaan tot $96.99, afhankelijk van databundel en looptijd. Er komt geen maandelijkse verplichting bij kijken.
 related_products:
   title: Gerelateerde eSIM Plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
@@ -328,19 +338,23 @@ related_products:
     flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
     flag: img/flags/hk.svg
     price: Vanaf $1.99
     is_highlight: false
@@ -348,16 +362,12 @@ related_products:
     flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Spanje eSIM
-    flag: img/flags/es.svg
+  - name: Australië eSIM
+    flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Duitsland eSIM
     flag: img/flags/de.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Australië eSIM
-    flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
 ---

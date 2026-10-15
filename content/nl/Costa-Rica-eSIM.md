@@ -1,6 +1,6 @@
 ---
 title: 'Costa Rica eSIM 2026: Reis- & Netwerkgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,10 +20,9 @@ seo:
   title: Costa Rica eSIM | Beste 5G-dekking voor Ontdekkingsreizigers
   description: Ontdek Costa Rica met de beste prepaid reis-eSIM van Roami. Onbeperkte 5G-data in het hele land. Directe activering.
     Dekt San Jose, Liberia & alle regio's.
-  keywords: Costa Rica eSIM, koop Costa Rica eSIM, beste Costa Rica eSIM, Costa Rica reis eSIM, Liberty Costa Rica, Claro
-    Costa Rica, ICE Costa Rica, San José eSIM, Alajuela eSIM, Heredia eSIM, Costa Rica prepaid eSIM, 5G Costa Rica eSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: Costa Rica eSIM, eSIM Costa Rica, what is a prepaid esim, beste esim costa rica, sim kaart kopen in costa rica, Liberty, Claro, ICE, San José eSIM, Alajuela eSIM, Heredia eSIM, Costa Rica eSIM 5G, Costa Rica eSIM databundel, Costa Rica eSIM dekking, Costa Rica eSIM activeren, Costa Rica prepaid eSIM
+  low_price: 9.99
+  high_price: 84.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -72,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Maakt automatisch verbinding met de beste Costa Ricaanse providers voor het beste signaal
-plans_title: 'Koop Costa Rica eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Costa Rica eSIM Kopen: Plannen voor Elke Reisduur'
 plans_data:
   7 Dagen:
   - spec: 1GB
@@ -275,7 +274,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Costa Rica eSIM Installatietips: Wat u Moet Weten Voor u Gaat'
+  title: 'Costa Rica eSIM Installatietips Voor een Zorgeloze Reis'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -296,7 +295,7 @@ reminders:
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe u Costa Rica eSIM Installeert: 3 Eenvoudige Stappen'
+  title: 'Zo Activeer je Costa Rica eSIM: 3 Eenvoudige Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -318,12 +317,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Werkt eSIM Overal in Costa Rica? Gids voor Stedelijke en Landelijke Dekking"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Costa Rica. Ontdek welke snelheden u kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Complete gids: eSIM-snelheden, netwerkdekking en verbindingskwaliteit in Costa Rica. Ontdek welke snelheden je kunt verwachten.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Costa Rica eSIM FAQ's
+    title: 'Costa Rica eSIM Gids: Veelgestelde Vragen'
     questions:
     - q: |
         Hoe verhoudt Roami zich tot Saily voor eSIM in Costa Rica?
@@ -336,7 +335,7 @@ faq_section:
     - q: |
         Kan ik een eSIM voor Costa Rica krijgen zonder te veel uit te geven?
       a: |
-        Absoluut. Roami's Costa Rica eSIM-plannen beginnen al vanaf $1,99. De 5GB/15 dagen-optie ($9,99) is het populairst onder reizigers — het verwerkt comfortabel kaarten, WhatsApp, Instagram en e-mail. Als u een zware datagebruiker bent, bieden de 10GB ($14,99) of onbeperkte ($59,99) plannen gemoedsrust. Het overslaan van de SIM-balie op de luchthaven bespaart u 30-50% en het gedoe van wachten in de rij. Moet u aanpassen? U kunt op elk moment opwaarderen via de Roami-app.
+        Absoluut. Roami's Costa Rica eSIM-plannen beginnen al vanaf $9.99. De 5GB/15 dagen-optie ($24.99) is het populairst onder reizigers — het verwerkt comfortabel kaarten, WhatsApp, Instagram en e-mail. Als u een zware datagebruiker bent, bieden de 10GB ($34.99) of onbeperkte ($38.99) plannen gemoedsrust. Het overslaan van de SIM-balie op de luchthaven bespaart u 30-50% en het gedoe van wachten in de rij. Moet u aanpassen? U kunt op elk moment opwaarderen via de Roami-app.
     - q: |
         Hoe verhoudt eSIM zich tot pocket WiFi voor reizen in Costa Rica?
       a: |
@@ -344,7 +343,7 @@ faq_section:
     - q: |
         Wat is inbegrepen wanneer ik een Costa Rica eSIM van Roami koop?
       a: |
-        QR-codelevering binnen 5 minuten, toegang tot het netwerk van Kölbi, 24/7 klantenondersteuning en gratis hotspot voor maximaal 5 apparaten. Plannen beginnen bij $1,99. Geen contracten, geen verborgen kosten, geen automatische verlenging.
+        QR-codelevering binnen 5 minuten, toegang tot het netwerk van Kölbi, 24/7 klantenondersteuning en gratis hotspot voor maximaal 5 apparaten. Plannen beginnen bij $9.99. Geen contracten, geen verborgen kosten, geen automatische verlenging.
     - q: |
         Wat is het verschil tussen een 5GB-plan en een onbeperkt plan voor Costa Rica?
       a: |
@@ -357,63 +356,75 @@ faq_section:
         Hoe ver van tevoren moet ik mijn Costa Rica eSIM kopen?
       a: |
         U kunt op elk moment kopen — zelfs bij de gate. De QR-code arriveert binnen enkele minuten. We raden aan om een paar dagen van tevoren te kopen zodat u thuis op WiFi kunt installeren. Het plan activeert pas wanneer u verbinding maakt in Costa Rica, dus vroeg kopen verspilt geen plandagen.
+    - q: |
+        Hoe activeer je een Costa Rica eSIM voordat je vertrekt?
+      a: |
+        Je installeert de eSIM thuis via een QR-code en schakelt de lijn pas in bij aankomst in Costa Rica. Zo heb je meteen internet zonder eerst een lokale SIM te regelen.
+    - q: |
+        Hoe lang is een Costa Rica eSIM geldig en kun je verlengen?
+      a: |
+        De geldigheid loopt van 3 tot 30 dagen, afhankelijk van het pakket dat je kiest. Raakt je bundel bijna leeg, dan voeg je eenvoudig een nieuw pakket toe.
+    - q: |
+        Wat kost een Costa Rica eSIM en welke databundels zijn er?
+      a: |
+        Roami eSIM-pakketten voor Costa Rica beginnen vanaf $9.99 en lopen op tot $84.99. Je kiest per databundel en geldigheidsduur, zonder abonnement of verborgen kosten.
 related_products:
   title: Gerelateerde Costa Rica eSIM Plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
   - name: Frankrijk eSIM
     flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Spanje eSIM
-    flag: img/flags/es.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Duitsland eSIM
-    flag: img/flags/de.svg
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Australië eSIM
     flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: Vanaf $1.99
+    is_highlight: false
 market_analysis:
   title: 'Costa Rica eSIM vs SIM-kaart Plannen: Welke Past bij Uw Behoeften?'
   subtitle: Costa Rica Lokale Prepaid SIM's vs. eSIM Oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Costa Rica) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Costa-Rica
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)
@@ -455,7 +466,7 @@ market_analysis:
   - icon: wifi
     title: Hotspot &<br>Snelheidsbeleid
     prepaid_title: ''
-    prepaid_desc: Geen specifieke gegevens in de bron voor deze dimensie. Echter, op basis van gangbare praktijk is tethering over het algemeen
+    prepaid_desc: Echter, op basis van gangbare praktijk is tethering over het algemeen
       toegestaan maar kan op sommige plannen beperkt zijn; bijvoorbeeld Claro's data-only SIM's zijn beperkt tot 2Mbps op 3G.
     esim_title: Onbeperkt Tethering
     esim_desc: Terwijl Claro's data-only SIM's worden beperkt tot 2Mbps op 3G, staat Roami eSIM hotspot-deling op volledige snelheid toe

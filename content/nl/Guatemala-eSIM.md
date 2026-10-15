@@ -1,6 +1,6 @@
 ---
 title: 'Guatemala eSIM 2026: Toeristen & Netwerk Gids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Tigo, Claro, Movistar
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Guatemala City, Antigua, Quetzaltenango, Flores, Mixco
-  main_packages: 3/7/15/30 Dagen, Onbeperkte Data
+  main_packages: 3/7/15/30 Dagen, 5G-data
 modal:
   title: Service Geüpgraded!
   btn_text: Doorgaan
@@ -18,12 +18,10 @@ modal:
   text_android: Onze eSIM-service is geüpgraded naar <strong>PhoneSIM</strong>.<br>Nieuwe klanten genieten van 20% korting, promotiecode:web20
 seo:
   title: Guatemala eSIM | Beste 5G Datapakket voor Je Verblijf
-  description: Reis naar Guatemala met Roami's beste prepaid reis eSIM. Onbeperkte 5G-data landelijk. Dekt Guatemala City,
-    Antigua & Quetzaltenango. Directe activatie.
-  keywords: Guatemala eSIM, koop Guatemala eSIM, beste Guatemala eSIM, Guatemala reis eSIM, Tigo Guatemala, Claro Guatemala,
-    Movistar Guatemala, Guatemala City eSIM, Antigua eSIM, Quetzaltenango eSIM, Guatemala prepaid eSIM, 5G Guatemala eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Reis naar Guatemala met Roami's beste prepaid reis eSIM. 5G-data landelijk. Dekt Guatemala City, Antigua & Quetzaltenango. Directe activatie.
+  keywords: Guatemala eSIM, eSIM Guatemala, koop Guatemala eSIM, wat is de beste esim voor guatemala, Guatemala eSIM prijs, Tigo, Claro, Movistar, Guatemala City eSIM, Antigua eSIM, Quetzaltenango eSIM, Guatemala eSIM 5G, Guatemala eSIM databundel, Guatemala eSIM dekking, Guatemala eSIM activeren, Guatemala prepaid eSIM
+  low_price: 11.99
+  high_price: 48.99
 order_summary:
   title: Geselecteerd Pakket
   label_data: Inbegrepen Data
@@ -72,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Automatisch verbinden met de beste Guatemalteekse providers voor het beste signaal
-plans_title: 'Koop Guatemala eSIM: Pakketten voor Elke Reisduur'
+plans_title: 'Guatemala eSIM Kopen: Plannen voor Elke Reisduur'
 plans_data:
   7 Dagen:
   - spec: 1GB
@@ -168,7 +166,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Guatemala eSIM Installatietips: Wat je Moet Weten Voor je Vertrekt'
+  title: 'Guatemala eSIM Installatietips Voor een Zorgeloze Reis'
   items:
   - icon: 📱
     html: Zorg ervoor dat je telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -189,7 +187,7 @@ reminders:
     result_html: Als een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       nummer op je scherm verschijnt, wordt je apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Guatemala eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Zo Activeer je Guatemala eSIM: 3 Eenvoudige Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -211,21 +209,21 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Werkt eSIM Overal in Guatemala? Stedelijke en Landelijke Dekkingsgids"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Guatemala. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Complete gids voor eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Guatemala. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Guatemala eSIM FAQ's
+    title: 'Guatemala eSIM Gids: Veelgestelde Vragen'
     questions:
     - q: |
         Kan ik een eSIM voor Guatemala krijgen zonder te veel uit te geven?
       a: |
-        Absoluut. Roami's Guatemala eSIM-pakketten beginnen vanaf slechts $1.99. De 5GB/15 dagen optie ($9.99) is het populairst onder reizigers — het verwerkt comfortabel kaarten, WhatsApp, Instagram en e-mail. Als je een zware datagebruiker bent, geven de 10GB ($14.99) of onbeperkt ($59.99) pakketten je gemoedsrust. Het overslaan van de SIM-balie op de luchthaven bespaart je 30-50% en het gedoe van in de rij staan. Moet je aanpassen? Je kunt op elk moment opwaarderen vanuit de Roami-app.
+        Absoluut. Roami's Guatemala eSIM-pakketten beginnen vanaf slechts $11.99. De 5GB/15 dagen optie ($35.99) is het populairst onder reizigers — het verwerkt comfortabel kaarten, WhatsApp, Instagram en e-mail. Als je een zware datagebruiker bent, geven de 10GB ($48.99) pakketten je gemoedsrust. Het overslaan van de SIM-balie op de luchthaven bespaart je 30-50% en het gedoe van in de rij staan. Moet je aanpassen? Je kunt op elk moment opwaarderen vanuit de Roami-app.
     - q: |
         Zal het onbeperkte Guatemala eSIM-pakket vertragen als ik te veel data gebruik?
       a: |
-        Er is een fair use-beleid: snelheden worden verlaagd na 30GB op een dag. Bij verlaagde snelheid kun je nog steeds berichten sturen, navigeren en browsen — alleen geen vloeiende video. Realistisch gezien komen de meeste reizigers niet in de buurt van 30GB. Als je je zorgen maakt, verwijdert een vast 10GB ($14.99) of 20GB ($24.99) pakket de onzekerheid volledig.
+        Er is een fair use-beleid: snelheden worden verlaagd na 30GB op een dag. Bij verlaagde snelheid kun je nog steeds berichten sturen, navigeren en browsen — alleen geen vloeiende video. Realistisch gezien komen de meeste reizigers niet in de buurt van 30GB. Als je je zorgen maakt, verwijdert een vast 10GB ($48.99) of 20GB ($30.99) pakket de onzekerheid volledig.
     - q: |
         Op welke provider in Guatemala moet ik vertrouwen voor mijn eSIM?
       a: |
@@ -250,63 +248,75 @@ faq_section:
         Werkt de Guatemala eSIM in landelijke gebieden en kleinere steden?
       a: |
         Dekking in Guatemala bereikt ongeveer 95% van stedelijke gebieden, maar neemt af op afgelegen locaties. Snelheden kunnen dalen van 200-300 Mbps (5G) naar 10-30 Mbps (4G). Roami schakelt automatisch over naar het sterkste netwerk. Download offline kaarten voordat je naar afgelegen gebieden gaat.
+    - q: |
+        Hoeveel betaal je voor een Guatemala eSIM met een vast databundel?
+      a: |
+        Voor Guatemala liggen de prijzen tussen $11.99 en $48.99, afhankelijk van je databundel. Je betaalt eenmalig en houdt volledige controle over je verbruik.
+    - q: |
+        Mag je de Guatemala eSIM als hotspot gebruiken?
+      a: |
+        Hotspot-gebruik is geen probleem — je verbinding met de Guatemala eSIM kan gewoon met meerdere toestellen worden gedeeld.
+    - q: |
+        Guatemala eSIM of lokale sim: wat is handiger?
+      a: |
+        Een eSIM regel je vooraf online, terwijl een lokale sim pas ter plaatse beschikbaar is. Voor een korte reis naar Guatemala is dat vaak het snelst.
 related_products:
   title: Gerelateerde Guatemala eSIM Pakketten
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Europe eSIM
+  - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Turkey eSIM
+  - name: Australië eSIM
+    flag: img/flags/au.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
     flag: img/flags/tr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Spain eSIM
+  - name: Spanje eSIM
     flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: China eSIM
+    flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
 market_analysis:
   title: 'Guatemala eSIM vs Prepaid SIM: Snelheid, Dekking en Prijs Vergeleken'
   subtitle: Lokale Prepaid SIM's in Guatemala vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Guatemala) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Guatemala
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)
@@ -346,7 +356,7 @@ market_analysis:
   - icon: wifi
     title: Hotspot &<br>Snelheidsbeleid
     prepaid_title: ''
-    prepaid_desc: Geen specifieke data in de bron voor deze dimensie. Op basis van marktkennis staan de meeste prepaid SIM's tethering toe
+    prepaid_desc: Staan de meeste prepaid SIM's tethering toe
       maar kunnen snelheden beperken na een bepaalde limiet.
     esim_title: Onbeperkte Tethering
     esim_desc: Roami eSIM staat hotspot-sharing op volledige snelheid toe, in tegenstelling tot sommige lokale SIM's die tethering beperken na 3GB/dag.

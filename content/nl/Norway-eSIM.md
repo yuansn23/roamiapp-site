@@ -1,6 +1,6 @@
 ---
 title: 'Noorwegen eSIM 2026 - Beste 5G-plan voor Oslo & Fjorden | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: Noorwegen eSIM - Beste Onbeperkte Dataplan voor Bezoekers
   description: Krijg de beste Noorwegen prepaid eSIM met 5G op Telenor, Telia & Ice. Geen paspoort of winkelbezoek nodig — directe QR-activering. Geen 31-daagse verspilling. Vanaf $1.99.
-  keywords: Noorwegen eSIM, Noorwegen eSIM kopen, beste Noorwegen eSIM, Noorwegen reis eSIM, Telenor Noorwegen, Telia Noorwegen, Ice Noorwegen, Oslo eSIM, Bergen eSIM, Trondheim eSIM, Noorwegen prepaid eSIM, 5G Noorwegen eSIM, fjord eSIM, Noorderlicht eSIM, Tromsø eSIM
+  keywords: Noorwegen eSIM, eSIM Noorwegen, koop Noorwegen eSIM, wat is de beste esim, Noorwegen eSIM prijs, Telenor, Telia, Ice, Oslo eSIM, Bergen eSIM, Trondheim eSIM, Noorwegen eSIM 5G, Noorwegen eSIM databundel, Noorwegen eSIM dekking, Noorwegen eSIM activeren, Noorwegen prepaid eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 79.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -319,7 +319,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Noorwegen eSIM Installatietips: Wat u Moet Weten Voordat u Gaat'
+  title: 'Noorwegen eSIM Installatietips: Handig Voor je Vertrek'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-compatibel</a> is voordat u koopt.
@@ -340,7 +340,7 @@ reminders:
     code: '*#06#'
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Noorwegen eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Zo Zet je Noorwegen eSIM in 3 Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -360,12 +360,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Noorwegen eSIM Gids: Snelheden, Dekking en Reistips voor Noorwegen"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Noorwegen. Ontdek welke snelheden u kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Praktische gids voor eSIM-internetsnelheden en netwerkdekking in Noorwegen. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Noorwegen eSIM FAQ's
+    title: 'Noorwegen eSIM: Antwoorden op je Vragen'
     questions:
     - q: |
         Waarom is het kopen van een SIM-kaart in Noorwegen zo ingewikkeld voor toeristen?
@@ -403,41 +403,33 @@ faq_section:
         Kan ik mijn Noorwegen eSIM opwaarderen als ik door mijn data heen ben?
       a: |
         Ja — u kunt op elk moment met één klik opwaarderen via uw Roami-account. In tegenstelling tot Noorse prepaid SIMs die fysieke herlaadvouchers bij 7-Eleven vereisen (zonder Engelse instructies) of Noorstalige online portalen, accepteert Roami wereldwijde betaalmethoden zonder taalbarrières.
+    - q: |
+        Kun je een Noorwegen eSIM eenvoudig verlengen?
+      a: |
+        De looptijd van een Noorwegen eSIM varieert van 3 tot 30 dagen. Verlengen kan door voor vertrek of onderweg een extra pakket te kiezen.
+    - q: |
+        Welke prijzen kun je verwachten voor een Noorwegen eSIM?
+      a: |
+        De tarieven voor een Noorwegen eSIM starten bij $1.99 en gaan tot $79.99, afhankelijk van databundel en looptijd. Er komt geen maandelijkse verplichting bij kijken.
+    - q: |
+        Is tethering met een Noorwegen eSIM toegestaan?
+      a: |
+        Tethering is toegestaan: deel je Noorwegen eSIM-verbinding met andere apparaten zonder extra kosten.
 related_products:
   title: Gerelateerde Noorwegen eSIM-plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: Vanaf $1.99
-    is_highlight: true
   - name: Canada eSIM
     flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
     price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
+    is_highlight: true
   - name: Frankrijk eSIM
     flag: img/flags/fr.svg
     price: Vanaf $1.99
@@ -446,20 +438,40 @@ related_products:
     flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Australië eSIM
+    flag: img/flags/au.svg
+    price: Vanaf $1.99
+    is_highlight: false
   - name: Duitsland eSIM
     flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Australië eSIM
-    flag: img/flags/au.svg
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
 market_analysis:
   title: 'Noorwegen eSIM Vergeleken met Prepaid SIM-kaarten: Wat u Moet Weten'
   subtitle: Noorwegen Lokale Prepaid SIMs vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Noorwegen) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Norway
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktgegevens)

@@ -1,6 +1,6 @@
 ---
 title: 'India eSIM 2026 - Beste 5G-pakket voor Delhi & Taj Mahal | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Onze eSIM-service is geüpgraded naar <strong>PhoneSIM</strong>.<br>Nieuwe klanten genieten van 20% korting, promotiecode:web20
 seo:
   title: India eSIM - Snel 5G Prepaid Data voor Je Reis
-  description: Krijg de beste India prepaid eSIM met 5G op Airtel, Jio & Vi. Geen KYC of paspoort nodig — directe QR-activatie. Geen 28-dagenverspilling. Vanaf $1.99.
-  keywords: India eSIM, koop India eSIM, beste India eSIM, India reis eSIM, Airtel India, Jio India, Vi India, Delhi eSIM, Mumbai eSIM, Bangalore eSIM, India prepaid eSIM, 5G India eSIM, Taj Mahal eSIM, Jaipur eSIM, Kerala eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Krijg de beste India prepaid eSIM met 5G op Airtel, Jio & Vi. Geen KYC of paspoort nodig — directe QR-activatie. Geen 28-dagenverspilling. Vanaf $3.99.
+  keywords: India eSIM, eSIM India, esim india prepaid, wat is de beste esim, prepaid esim india, Airtel, Jio, Vi, Delhi eSIM, Mumbai eSIM, Bangalore eSIM, India eSIM 5G, India eSIM databundel, India eSIM dekking, India eSIM activeren, India prepaid eSIM
+  low_price: 3.99
+  high_price: 99.99
 order_summary:
   title: Geselecteerd Pakket
   label_data: Inbegrepen Data
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Automatisch verbinden met Airtel, Jio & Vi voor het beste signaal in heel India
-plans_title: 'Koop India eSIM: Pakketten voor Elke Reisduur'
+plans_title: 'India eSIM-pakketten: Voor Elke Reisduur'
 plans_data:
   3 Dagen:
   - spec: 1GB
@@ -303,7 +303,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'India eSIM Installatietips: Wat je Moet Weten Voor je Vertrekt'
+  title: 'India eSIM Installatietips: Voorkom Problemen Onderweg'
   items:
   - icon: 📱
     html: Zorg ervoor dat je telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-compatibel</a> is voordat je koopt.
@@ -324,7 +324,7 @@ reminders:
     code: '*#06#'
     result_html: Als een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> nummer op je scherm verschijnt, wordt je apparaat ondersteund!
 activation_steps:
-  title: 'Hoe India eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'India eSIM Activeren: Stap voor Stap'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -344,12 +344,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "India eSIM Gids: Snelheden, Dekking en Reistips voor India"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in India. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Alles wat je moet weten over eSIM-snelheden en dekking in India. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: India eSIM FAQ's
+    title: 'FAQ over India eSIM'
     questions:
     - q: |
         Wat is India's verplichte KYC — en moet ik dat doen voor Roami?
@@ -387,18 +387,30 @@ faq_section:
         Kan ik mijn India eSIM opwaarderen als ik door mijn data heen ben?
       a: |
         Ja — je kunt op elk moment opwaarderen via je Roami-account. In tegenstelling tot Indiase prepaid SIM's die lokale opwaarderingsplatforms vereisen (SwiftRecharge.com heeft vaak hoge toeslagen voor buitenlandse kaarten), accepteert Roami wereldwijde betaalmethoden zonder extra kosten.
+    - q: |
+        Werkt de India eSIM direct na aankomst?
+      a: |
+        De installatie gebeurt vooraf via een QR-code. Zodra je in India landt, schakel je de eSIM in en werkt je verbinding meteen.
+    - q: |
+        Wat gebeurt er als je databundel voor India op is?
+      a: |
+        Je kiest een looptijd tussen 3 en 30 dagen. Is je data op, dan schaf je in een paar tikken een nieuw pakket aan.
+    - q: |
+        Hoeveel betaal je voor een India eSIM met een vast databundel?
+      a: |
+        Voor India liggen de prijzen tussen $3.99 en $99.99, afhankelijk van je databundel. Je betaalt eenmalig en houdt volledige controle over je verbruik.
 related_products:
   title: Gerelateerde India eSIM Pakketten
   items:
-  - name: united states eSIM
+  - name: Verenigde Staten eSIM
     flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Europe eSIM
+  - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
@@ -406,44 +418,44 @@ related_products:
     flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Australië eSIM
+    flag: img/flags/au.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
-    price: Vanaf $1.99
-    is_highlight: false
 market_analysis:
   title: 'India eSIM vs Prepaid SIM-kaart: Is Overstappen de Moeite Waard?'
   subtitle: Lokale Prepaid SIM's in India vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (India) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/India
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)

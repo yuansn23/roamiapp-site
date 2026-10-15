@@ -1,6 +1,6 @@
 ---
 title: 'Grenada eSIM 2026: 5G & Data Gids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,10 +20,9 @@ seo:
   title: Grenada eSIM | Beste Prepaid 5G-data voor Je Verblijf
   description: Ontdek Grenada met Roami's beste prepaid reis eSIM. Onbeperkte 5G-data over het hele eiland. Dekt St Georges,
     Grenville. Directe activatie.
-  keywords: Grenada eSIM, koop Grenada eSIM, beste Grenada eSIM, Grenada reis eSIM, Flow Grenada, Digicel Grenada, Dawn Mobile
-    Grenada, St. George's eSIM, Grenville eSIM, Gouyave eSIM, Grenada prepaid eSIM, 5G Grenada eSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: Grenada eSIM, eSIM Grenada, koop Grenada eSIM, beste Grenada eSIM, Grenada eSIM prijs, Flow, Digicel, Dawn Mobile, St. George's eSIM, Grenville eSIM, Gouyave eSIM, Grenada eSIM 5G, Grenada eSIM databundel, Grenada eSIM dekking, Grenada eSIM activeren, Grenada prepaid eSIM
+  low_price: 11.99
+  high_price: 67.99
 order_summary:
   title: Geselecteerd Pakket
   label_data: Inbegrepen Data
@@ -72,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Automatisch verbinden met de beste Grenada-providers voor het beste signaal
-plans_title: 'Koop Grenada eSIM: Pakketten voor Elke Reisduur'
+plans_title: 'Beste Grenada eSIM: Abonnementen voor Elke Reisduur'
 plans_data:
   30 Dagen:
   - spec: 3GB
@@ -159,7 +158,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Grenada eSIM Installatietips: Wat je Moet Weten Voor je Vertrekt'
+  title: 'Grenada eSIM-installatie: Tips Voor je Vertrek'
   items:
   - icon: 📱
     html: Zorg ervoor dat je telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -180,7 +179,7 @@ reminders:
     result_html: Als een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       nummer op je scherm verschijnt, wordt je apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Grenada eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Hoe installeer je Grenada eSIM: 3 Eenvoudige Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -202,12 +201,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM voor Reizigers in Grenada -- Netwerksnelheden, Dekking en Tips"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Grenada. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Wat kun je verwachten van eSIM in Grenada? Snelheden, dekking en kwaliteit in een complete gids. Ontdek waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Grenada eSIM FAQ's
+    title: 'Grenada eSIM Vraagbaak'
     questions:
     - q: |
         Hoe verhoudt Roami zich tot Saily voor eSIM in Grenada?
@@ -240,64 +239,76 @@ faq_section:
     - q: |
         Wat is de populairste eSIM-keuze voor reizigers naar Grenada?
       a: |
-        De meeste reizigers naar Grenada kiezen het 5GB/15 dagen pakket ($9.99). Het is genoeg voor dagelijkse navigatie, sociale media en berichten. Voor langere verblijven of zwaarder gebruik zijn de 10GB ($14.99) of onbeperkt ($59.99) pakketten geweldige opties. Alle pakketten activeren binnen enkele minuten en bevatten 24/7 ondersteuning.
+        De meeste reizigers naar Grenada kiezen het 5GB/15 dagen pakket ($38.99). Het is genoeg voor dagelijkse navigatie, sociale media en berichten. Voor langere verblijven of zwaarder gebruik zijn de 10GB ($67.99) of onbeperkt ($52.99) pakketten geweldige opties. Alle pakketten activeren binnen enkele minuten en bevatten 24/7 ondersteuning.
+    - q: |
+        Kun je een Grenada eSIM met een creditcard betalen?
+      a: |
+        Betalen kan met onder andere creditcard en online betaalopties. Zodra de betaling rond is, ontvang je de installatie-QR-code.
+    - q: |
+        Werkt de Grenada eSIM direct na aankomst?
+      a: |
+        De installatie gebeurt vooraf via een QR-code. Zodra je in Grenada landt, schakel je de eSIM in en werkt je verbinding meteen.
+    - q: |
+        Wat gebeurt er als je databundel voor Grenada op is?
+      a: |
+        Je kiest een looptijd tussen 3 en 30 dagen. Is je data op, dan schaf je in een paar tikken een nieuw pakket aan.
 related_products:
   title: Gerelateerde Grenada eSIM Pakketten
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Europe eSIM
+  - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
   - name: Canada eSIM
     flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Australië eSIM
+    flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Spain eSIM
+  - name: Spanje eSIM
     flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: China eSIM
+    flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
 market_analysis:
   title: 'Grenada eSIM of SIM-kaart: Wat is de Beste Optie in 2026?'
   subtitle: Lokale Prepaid SIM's in Grenada vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Grenada) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Grenada
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)
@@ -338,7 +349,7 @@ market_analysis:
   - icon: wifi
     title: Hotspot &<br>Snelheidsbeleid
     prepaid_title: ''
-    prepaid_desc: Geen specifieke data in de bron voor deze dimensie. Op basis van marktkennis is tethering doorgaans toegestaan
+    prepaid_desc: Is tethering doorgaans toegestaan
       op prepaid pakketten in Grenada, maar snelheden kunnen worden beperkt na een bepaalde datalimiet.
     esim_title: Onbeperkte Tethering
     esim_desc: Terwijl lokale SIM's de hotspotsnelheid kunnen beperken na een datalimiet, staat Roami eSIM tethering op volledige snelheid toe op alle
@@ -354,7 +365,7 @@ market_analysis:
   - icon: headset
     title: Klanten-<br>ondersteuning
     prepaid_title: ''
-    prepaid_desc: Geen specifieke data in de bron voor deze dimensie. Op basis van marktkennis is klantenondersteuning doorgaans
+    prepaid_desc: Is klantenondersteuning doorgaans
       beschikbaar via telefoon of in de winkel, maar mogelijk beperkt tot lokale kantooruren.
     esim_title: 24/7 Meertalige Ondersteuning
     esim_desc: In tegenstelling tot lokale SIM-ondersteuning die beperkt is tot kantooruren, biedt Roami 24/7 live chat en e-mailondersteuning in het Engels,

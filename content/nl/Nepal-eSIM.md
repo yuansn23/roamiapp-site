@@ -1,6 +1,6 @@
 ---
 title: 'Nepal eSIM 2026: Verbindings- & Snelheidsgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,10 +20,9 @@ seo:
   title: Nepal eSIM | Snel Prepaid Databundel voor Bezoekers
   description: Reis naar Nepal met de beste prepaid reis-eSIM van Roami. Onbeperkte 5G-data. Dekt Kathmandu, Pokhara & Bharatpur.
     Directe QR-activering. Koop vandaag nog uw plan online.
-  keywords: Nepal eSIM, Nepal eSIM kopen, beste Nepal eSIM, Nepal reis eSIM, Ncell Nepal, Nepal Telecom Nepal, Smart Cell Nepal,
-    Kathmandu eSIM, Pokhara eSIM, Bharatpur eSIM, Nepal prepaid eSIM, 5G Nepal eSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: Nepal eSIM, eSIM Nepal, koop Nepal eSIM, wat is de beste esim, Nepal eSIM prijs, Ncell, Nepal Telecom, Smart Cell, Kathmandu eSIM, Pokhara eSIM, Bharatpur eSIM, Nepal eSIM 5G, Nepal eSIM databundel, Nepal eSIM dekking, Nepal eSIM activeren, Nepal prepaid eSIM
+  low_price: 10.99
+  high_price: 124.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -72,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Verbindt automatisch met de beste Nepalese providers voor het beste signaal
-plans_title: 'Koop Nepal eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Koop Nepal eSIM: Pakketten voor Elke Reisduur'
 plans_data:
   7 Dagen:
   - spec: 3GB
@@ -251,7 +250,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 4G/LTE Netwerk
 reminders:
-  title: 'Nepal eSIM Installatietips: Wat u Moet Weten Voordat u Gaat'
+  title: 'Nepal eSIM Installatietips: Wat je Moet Weten Voordat je Gaat'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -272,7 +271,7 @@ reminders:
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Nepal eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Snel Nepal eSIM Installeren: 3 Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -294,12 +293,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Online Komen in Nepal -- eSIM Netwerkkwaliteit en Snelheidsgids"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Nepal. Ontdek welke snelheden u kunt verwachten en waar eSIM het beste werkt."
+  desc: 'eSIM-snelheden en dekking in Nepal: de complete gids. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Nepal eSIM FAQ's
+    title: 'Nepal eSIM FAQ en Tips'
     questions:
     - q: |
         Voor een toerist in Nepal, is Ncell of NTC de betere keuze?
@@ -328,43 +327,39 @@ faq_section:
     - q: |
         Ik heb internettoegang nodig voor slechts een paar dagen in Nepal. Wat is het minimum dat ik kan kopen?
       a: |
-        Het goedkoopste plan is $1.99 voor 7 dagen met 1GB — perfect voor een kort weekendtripje met licht gebruik. Als u meer nodig hebt, kunt u altijd opwaarderen via de app.
+        Het goedkoopste plan is $10.99 voor 7 dagen met 1GB — perfect voor een kort weekendtripje met licht gebruik. Als u meer nodig hebt, kunt u altijd opwaarderen via de app.
     - q: |
         Wat is de meest populaire eSIM-keuze voor reizigers naar Nepal?
       a: |
-        De meeste reizigers naar Nepal kiezen het 5GB/15 dagen plan ($9.99). Het is voldoende voor dagelijkse navigatie, social media en berichten. Voor langere verblijven of zwaarder gebruik zijn de 10GB ($14.99) of onbeperkt ($59.99) plannen goede opties. Alle plannen activeren binnen enkele minuten en bevatten 24/7 ondersteuning.
+        De meeste reizigers naar Nepal kiezen het 5GB/15 dagen plan ($37.99). Het is voldoende voor dagelijkse navigatie, social media en berichten. Voor langere verblijven of zwaarder gebruik zijn de 10GB ($57.99) of onbeperkt ($52.99) plannen goede opties. Alle plannen activeren binnen enkele minuten en bevatten 24/7 ondersteuning.
+    - q: |
+        Nepal eSIM of lokale sim: wat is handiger?
+      a: |
+        Een eSIM regel je vooraf online, terwijl een lokale sim pas ter plaatse beschikbaar is. Voor een korte reis naar Nepal is dat vaak het snelst.
+    - q: |
+        Heb je met een eSIM goed bereik in Nepal?
+      a: |
+        Je eSIM kiest zelf het beste beschikbare netwerk, waaronder Ncell en Nepal Telecom. Vooral in en rond Kathmandu en Pokhara is het bereik doorgaans betrouwbaar.
+    - q: |
+        Werkt een Nepal eSIM ook op een recente smartphone?
+      a: |
+        Zolang je toestel eSIM ondersteunt, werkt de Nepal eSIM meteen. Op de compatibiliteitspagina zie je per model of het lukt.
 related_products:
   title: Gerelateerde eSIM-plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
+  - name: Hongkong eSIM
     flag: img/flags/hk.svg
     price: Vanaf $1.99
     is_highlight: false
@@ -372,16 +367,32 @@ related_products:
     flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Australië eSIM
+    flag: img/flags/au.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: China eSIM
+    flag: img/flags/cn.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
   - name: Spanje eSIM
     flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Duitsland eSIM
-    flag: img/flags/de.svg
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Australië eSIM
-    flag: img/flags/au.svg
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
 ---

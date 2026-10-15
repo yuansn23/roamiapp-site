@@ -1,6 +1,6 @@
 ---
 title: 'Thailand eSIM 2026 - Beste 5G Plan voor Bangkok & Phuket | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: Thailand eSIM - Beste 5G Prepaid Plan voor Uw Reis
   description: Ontvang de beste Thailand prepaid eSIM met 5G op AIS, TrueMove & dtac. Geen biometrie, geen gezichtsscan, geen ID nodig — directe QR-activering. Sla luchthavenwachtrijen over. Vanaf $1.99.
-  keywords: Thailand eSIM, koop Thailand eSIM, beste Thailand eSIM, Thailand reis eSIM, AIS Thailand, TrueMove Thailand, dtac Thailand, Bangkok eSIM, Chiang Mai eSIM, Phuket eSIM, Thailand prepaid eSIM, 5G Thailand eSIM, eSIM voor Songkran, Phi Phi Islands eSIM, Krabi eSIM
+  keywords: Thailand eSIM, eSIM Thailand, esim thailand kopen, beste esim thailand, prepaid sim thailand, AIS, TrueMove, dtac, Bangkok eSIM, Chiang Mai eSIM, Phuket eSIM, Thailand eSIM 5G, Thailand eSIM databundel, Thailand eSIM dekking, Thailand eSIM activeren, Thailand prepaid eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 42.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Maakt automatisch verbinding met AIS, TrueMove & dtac voor het beste signaal in heel Thailand
-plans_title: 'Koop Thailand eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Thailand eSIM Kopen: Plannen voor Elke Reisduur'
 plans_data:
   3 Dagen:
   - spec: 1GB
@@ -311,7 +311,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Thailand eSIM Installatietips: Wat u Moet Weten Voor u Gaat'
+  title: 'Thailand eSIM Installatietips Voor een Zorgeloze Reis'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-compatibel</a> is voordat u koopt.
@@ -332,7 +332,7 @@ reminders:
     code: '*#06#'
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe u Thailand eSIM Installeert: 3 Eenvoudige Stappen'
+  title: 'Zo Activeer je Thailand eSIM: 3 Eenvoudige Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -352,12 +352,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Thailand eSIM Gids: Snelheden, Dekking en Reistips voor Thailand"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Thailand. Ontdek welke snelheden u kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Ontdek hoe snel eSIM is in Thailand: snelheden, dekking en verbindingskwaliteit. Lees waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Thailand eSIM FAQ's
+    title: 'Thailand eSIM Veelgestelde Vragen'
     questions:
     - q: |
         Heb ik echt geen gezichtsscan of vingerafdruk nodig voor Roami's Thailand eSIM?
@@ -395,23 +395,43 @@ faq_section:
         Kan ik mijn Thailand eSIM opwaarderen als mijn data op is?
       a: |
         Ja — u kunt op elk moment opwaarderen via uw Roami-account. In tegenstelling tot Thaise luchthaven-SIM's (die niet kunnen worden opgeladen of verlengd), geeft Roami u volledige flexibiliteit om data toe te voegen wanneer nodig. Geen noodzaak om een compleet nieuwe SIM te kopen of een gemakswinkel te bezoeken.
+    - q: |
+        Hoe rond je de betaling voor een Thailand eSIM af?
+      a: |
+        De betaling voor een Thailand eSIM verloopt online via bekende betaalmethoden; de QR-code komt meteen in je inbox.
+    - q: |
+        Wanneer kun je de Thailand eSIM het beste installeren?
+      a: |
+        Installeer de Thailand eSIM al voor vertrek met de QR-code uit je e-mail; bij aankomst zet je de lijn aan en ben je direct online.
+    - q: |
+        Kun je een Thailand eSIM eenvoudig verlengen?
+      a: |
+        De looptijd van een Thailand eSIM varieert van 3 tot 30 dagen. Verlengen kan door voor vertrek of onderweg een extra pakket te kiezen.
 related_products:
   title: Gerelateerde Thailand eSIM Plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
+  - name: Australië eSIM
+    flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Turkije eSIM
@@ -426,32 +446,24 @@ related_products:
     flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Spanje eSIM
     flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Duitsland eSIM
-    flag: img/flags/de.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Australië eSIM
-    flag: img/flags/au.svg
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
 market_analysis:
   title: 'Thailand eSIM vs Fysieke SIM: Wat Is Beter voor Reizen?'
   subtitle: Thaise Lokale Prepaid SIM's vs. eSIM Oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Thailand) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Thailand
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)

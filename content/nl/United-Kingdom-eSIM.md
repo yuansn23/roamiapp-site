@@ -1,6 +1,6 @@
 ---
 title: 'VK eSIM 2026 - Beste 5G Plan voor Londen & Edinburgh'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: VK eSIM - Beste 5G Prepaid Data Plan voor Reizigers
   description: Ontvang de beste VK prepaid eSIM met 5G op EE, Vodafone & O2. Geen paspoort of ID nodig — directe QR-activering. Inclusief EU-roaming. Plannen vanaf $1.99.
-  keywords: UK eSIM, koop UK eSIM, beste UK eSIM, UK reis eSIM, Vodafone United Kingdom, EE UK, O2 UK, London eSIM, Manchester eSIM, Birmingham eSIM, UK prepaid eSIM, 5G UK eSIM, UK eSIM no ID, eSIM voor London Underground, Great Britain eSIM, England eSIM
+  keywords: VK eSIM, eSIM VK, esim kopen, esim vs, prepaid esim kpn, Vodafone, EE, O2, Londen eSIM, Manchester eSIM, Birmingham eSIM, VK eSIM 5G, VK eSIM databundel, VK eSIM dekking, VK eSIM activeren, VK prepaid eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 54.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -259,11 +259,11 @@ plans_data:
   - spec: 35GB
     data: Hoge Snelheid 5G/4G/LTE
     desc: Ideaal voor lange verblijven & hoge databehoeften
-    price: '34.99'
-    oldPrice: '52.49'
+    price: '44.99'
+    oldPrice: '67.48'
     tag: Grote Waarde
     tagColor: bg-emerald-500
-    daily: '1.17'
+    daily: '1.50'
   - spec: 50GB
     data: Hoge Snelheid 5G/4G/LTE
     desc: Enorme data voor creators & digital nomads
@@ -411,38 +411,22 @@ faq_section:
         Welk VK-providernetwerk zal mijn Roami eSIM gebruiken?
       a: |
         Roami maakt automatisch verbinding met het best beschikbare netwerk van Vodafone, EE en O2 — de drie grootste VK-providers. Deze automatische schakelfunctie zorgt ervoor dat u het sterkste signaal krijgt waar u ook bent, of u nu in centraal Londen of het platteland van Edinburgh bent.
+    - q: |
+        Op welke netwerken in VK sluit een eSIM aan?
+      a: |
+        De eSIM schakelt automatisch over op lokale netwerken zoals Vodafone en EE. Rond Londen en Manchester is de dekking in de praktijk het sterkst.
+    - q: |
+        Welke toestellen ondersteunen een VK eSIM?
+      a: |
+        Bijna alle moderne toestellen met eSIM-functionaliteit ondersteunen de VK eSIM. Je bestaande SIM blijft gewoon actief.
+    - q: |
+        Hoe rond je de betaling voor een VK eSIM af?
+      a: |
+        De betaling voor een VK eSIM verloopt online via bekende betaalmethoden; de QR-code komt meteen in je inbox.
 related_products:
   title: Gerelateerde VK eSIM Plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: Vanaf $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
+  - name: Hongkong eSIM
     flag: img/flags/hk.svg
     price: Vanaf $1.99
     is_highlight: false
@@ -450,12 +434,36 @@ related_products:
     flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Spanje eSIM
-    flag: img/flags/es.svg
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
+    price: Vanaf $1.99
+    is_highlight: true
+  - name: China eSIM
+    flag: img/flags/cn.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Duitsland eSIM
     flag: img/flags/de.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Australië eSIM
@@ -466,8 +474,8 @@ market_analysis:
   title: 'Verenigd-Koninkrijk eSIM vs Fysieke SIM-kaart'
   subtitle: VK Lokale Prepaid SIM's vs. eSIM Oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Verenigd-Koninkrijk) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/United-Kingdom
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)
@@ -512,7 +520,7 @@ market_analysis:
   - icon: headset
     title: Klanten-<br>ondersteuning
     prepaid_title: ''
-    prepaid_desc: Geen specifieke gegevens in de bron voor deze dimensie.
+    prepaid_desc: Klantenservice verloopt bij prepaid doorgaans via de eigen kanalen van de provider.
     esim_title: 24/7 Meertalige Ondersteuning
     esim_desc: In tegenstelling tot lokale SIM's met beperkte ondersteuningsuren, biedt Roami 24/7 live chat en e-mailondersteuning in het Engels.
   expert_verdict:

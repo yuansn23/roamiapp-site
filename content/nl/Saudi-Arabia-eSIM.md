@@ -1,6 +1,6 @@
 ---
 title: 'Saoedi-Arabië eSIM - 5G in Riyad & Jeddah | Geen Vingerafdruk KYC | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Onze eSIM-service is geüpgraded naar <strong>PhoneSIM</strong>.<br>Nieuwe klanten krijgen 20% korting, promotiecode:web20
 seo:
   title: Saoedi-Arabië eSIM | Beste 5G Databundel voor Reizigers
-  description: Krijg de beste Saoedi-Arabië eSIM met 5G op STC, Mobily & Zain. Geen paspoort/vingerafdrukregistratie — lokale SIMs vereisen biometrische KYC. Dekt Riyad, Jeddah, Mekka & Medina. Plannen vanaf $1.99.
-  keywords: Saoedi-Arabië eSIM, Saoedi-Arabië eSIM kopen, beste Saoedi-Arabië eSIM, Saoedi-Arabië reis eSIM, STC Saoedi-Arabië, Mobily Saoedi-Arabië, Zain Saoedi-Arabië, Riyad eSIM, Jeddah eSIM, Mekka eSIM, Saoedi-Arabië prepaid eSIM, 5G Saoedi-Arabië eSIM, Umrah eSIM, Saoedi eSIM geen vingerafdruk
-  low_price: 1.99
-  high_price: 39.9
+  description: Krijg de beste Saoedi-Arabië eSIM met 5G op STC, Mobily & Zain. Geen paspoort/vingerafdrukregistratie — lokale SIMs vereisen biometrische KYC. Dekt Riyad, Jeddah, Mekka & Medina. Plannen vanaf $3.99.
+  keywords: Saoedi-Arabië eSIM, eSIM Saoedi-Arabië, smart prepaid to esim, wat is de beste esim, one month prepaid esim, STC, Mobily, Zain, Riyad eSIM, Jeddah eSIM, Mekka eSIM, Saoedi-Arabië eSIM 5G, Saoedi-Arabië eSIM databundel, Saoedi-Arabië eSIM dekking, Saoedi-Arabië eSIM activeren, Saoedi-Arabië prepaid eSIM
+  low_price: 3.99
+  high_price: 96.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -74,7 +74,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Klaar voor Heilige Steden
     desc: 4G/5G-dekking in Mekka, Medina, Jeddah en Riyad — blijf verbonden voor Umrah & sightseeing
-plans_title: 'Koop Saoedi-Arabië eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Vergelijk Saoedi-Arabië eSIM: Abonnementen voor Elke Reisduur'
 plans_data:
   3 Dagen:
   - spec: 1GB
@@ -299,7 +299,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Saoedi-Arabië eSIM Installatietips: Wat u Moet Weten Voordat u Gaat'
+  title: 'Saoedi-Arabië eSIM Installatietips: Zo Bereid je je Voor'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-compatibel</a> is voordat u koopt.
@@ -326,7 +326,7 @@ reminders:
     code: '*#06#'
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Saoedi-Arabië eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Hoe je Saoedi-Arabië eSIM Installeert: 3 Eenvoudige Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -351,7 +351,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Saoedi-Arabië eSIM FAQ's
+    title: 'Saoedi-Arabië eSIM: Alles Wat je Vraagt'
     questions:
     - q: |
         Waarom moet ik mijn vingerafdrukken geven om een SIM-kaart in Saoedi-Arabië te kopen?
@@ -372,7 +372,7 @@ faq_section:
     - q: |
         Waarom hebben Saoedische SIMs 28-daagse cycli? Is dat verspilling voor korte reizen?
       a: |
-        Ja — het is een grote verspilling. De meeste Saoedische providers gebruiken <strong>28-daagse factureringscycli</strong> (STC, Zain, Mobily). STC's 'Like'-plan kost 65 SAR (~$17 USD) voor 2GB/28 dagen. Een 5-daagse toerist verspilt <strong>23 dagen (82% van de waarde van het plan)</strong>. Roami biedt <strong>3-, 7-, 15- en 30-daagse plannen</strong> vanaf $1.99 — u <strong>betaalt alleen voor uw werkelijke reisduur</strong>. Geen 28-daagse verspilling, geen te veel betalen.
+        Ja — het is een grote verspilling. De meeste Saoedische providers gebruiken <strong>28-daagse factureringscycli</strong> (STC, Zain, Mobily). STC's 'Like'-plan kost 65 SAR (~$17 USD) voor 2GB/28 dagen. Een 5-daagse toerist verspilt <strong>23 dagen (82% van de waarde van het plan)</strong>. Roami biedt <strong>3-, 7-, 15- en 30-daagse plannen</strong> vanaf $3.99 — u <strong>betaalt alleen voor uw werkelijke reisduur</strong>. Geen 28-daagse verspilling, geen te veel betalen.
     - q: |
         Kan ik mijn Saoedi eSIM gebruiken in de VAE, Bahrein of andere Golfstaten?
       a: |
@@ -389,51 +389,63 @@ faq_section:
         Wanneer begint de geldigheidsperiode van mijn Saoedi-Arabië eSIM?
       a: |
         De geldigheid van het plan begint wanneer u verbinding maakt met een lokaal netwerk in Saoedi-Arabië, niet bij aankoop of installatie. U kunt dus weken voor uw reis kopen en installeren zonder plan dagen te verliezen. Een 7-daags plan geeft u 7 volledige dagen vanaf de eerste verbinding.
+    - q: |
+        Met welke betaalmethoden kun je een Saoedi-Arabië eSIM kopen?
+      a: |
+        Je rekent veilig af met gangbare betaalmethoden zoals creditcard en digitale wallets. Na betaling ontvang je de QR-code direct per e-mail.
+    - q: |
+        Hoe activeer je een Saoedi-Arabië eSIM voordat je vertrekt?
+      a: |
+        Je installeert de eSIM thuis via een QR-code en schakelt de lijn pas in bij aankomst in Saoedi-Arabië. Zo heb je meteen internet zonder eerst een lokale SIM te regelen.
+    - q: |
+        Hoe lang is een Saoedi-Arabië eSIM geldig en kun je verlengen?
+      a: |
+        De geldigheid loopt van 3 tot 30 dagen, afhankelijk van het pakket dat je kiest. Raakt je bundel bijna leeg, dan voeg je eenvoudig een nieuw pakket toe.
 related_products:
   title: Gerelateerde Saoedi-Arabië eSIM-plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: Vanaf $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
-    price: Vanaf $1.99
-    is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Spanje eSIM
     flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
+    price: Vanaf $1.99
+    is_highlight: true
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
   - name: Duitsland eSIM
     flag: img/flags/de.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Australië eSIM
@@ -444,8 +456,8 @@ market_analysis:
   title: 'Saoedi-Arabië eSIM vs Lokale SIM: Geen Vingerafdrukken, Geen 28-Daagse Verspilling, Geen Illegale SIMs'
   subtitle: Saoedi-Arabië Lokale Prepaid SIMs vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Saoedi-Arabië) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Saudi-Arabia
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktgegevens)
@@ -474,7 +486,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Alle providers gebruiken <strong>28-daagse factureringscycli</strong>. STC 'Like' kost 65 SAR (~$17 USD) voor 2GB/28 dagen. Een 5-daagse toerist verspilt <strong>23 dagen (82% verspilling)</strong>.
     esim_title: Flexibele Korte Plannen
-    esim_desc: Roami biedt <strong>3/7/15/30-daagse plannen</strong> vanaf $1.99 — betaal alleen voor uw werkelijke reisduur. Geen gedwongen 28-daagse verplichting, geen 82% verspilling.
+    esim_desc: Roami biedt <strong>3/7/15/30-daagse plannen</strong> vanaf $3.99 — betaal alleen voor uw werkelijke reisduur. Geen gedwongen 28-daagse verplichting, geen 82% verspilling.
   - icon: wifi
     title: Hotspot- &<br>Snelheidsbeleid
     prepaid_title: ''

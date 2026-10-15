@@ -1,6 +1,6 @@
 ---
 title: 'Puerto Rico eSIM 2026: Provider- & Dekkingsgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Claro Puerto Rico, Liberty Puerto Rico, T-Mobile Puerto Rico
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: San Juan, Ponce, Mayagüez, Caguas, Carolina
-  main_packages: 3/7/15/30 Dagen, Onbeperkte Data
+  main_packages: 3/7/15/30 Dagen, 5G-data
 modal:
   title: Service Geüpgraded!
   btn_text: Doorgaan
@@ -18,13 +18,10 @@ modal:
   text_android: Onze eSIM-service is geüpgraded naar <strong>PhoneSIM</strong>.<br>Nieuwe klanten krijgen 20% korting, promotiecode:web20
 seo:
   title: Puerto Rico eSIM | 5G Prepaid Databundel voor Reizigers
-  description: Ontdek Puerto Rico met de beste prepaid reis-eSIM van Roami. Onbeperkte 5G-data op het hele eiland. Dekt
-    San Juan, Ponce. Directe activering.
-  keywords: Puerto Rico eSIM, Puerto Rico eSIM kopen, beste Puerto Rico eSIM, Puerto Rico reis eSIM, Claro Puerto Rico,
-    Liberty Puerto Rico, T-Mobile Puerto Rico, San Juan eSIM, Ponce eSIM, Mayagüez eSIM, Puerto
-    Rico prepaid eSIM, 5G Puerto Rico eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Ontdek Puerto Rico met de beste prepaid reis-eSIM van Roami. 5G-data op het hele eiland. Dekt San Juan, Ponce. Directe activering.
+  keywords: Puerto Rico eSIM, eSIM Puerto Rico, smart prepaid to esim, wat is de beste esim, one month prepaid esim, Claro Puerto Rico, Liberty Puerto Rico, T-Mobile Puerto Rico, San Juan eSIM, Ponce eSIM, Mayagüez eSIM, Puerto Rico eSIM 5G, Puerto Rico eSIM databundel, Puerto Rico eSIM dekking, Puerto Rico eSIM activeren, Puerto Rico prepaid eSIM
+  low_price: 6.99
+  high_price: 64.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -73,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Verbindt automatisch met de beste Puerto Ricaanse providers voor het beste signaal
-plans_title: 'Koop Puerto Rico eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Vergelijk Puerto Rico eSIM: Pakketten voor Elke Reisduur'
 plans_data:
   7 Dagen:
   - spec: 1GB
@@ -185,7 +182,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Puerto Rico eSIM Installatietips: Wat u Moet Weten Voordat u Gaat'
+  title: 'Puerto Rico eSIM Installatietips: Zo Ga je Goed Voorbereid op Reis'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -206,7 +203,7 @@ reminders:
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Puerto Rico eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Puerto Rico eSIM Stap voor Stap Installeren'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -228,12 +225,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hoe Snel is eSIM Internet op Puerto Rico? Snelheden en Dekking voor Reizigers"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers op Puerto Rico. Ontdek welke snelheden u kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Wat kun je verwachten van eSIM in Puerto Rico? Snelheden, dekking en kwaliteit in een complete gids. Ontdek waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Puerto Rico eSIM FAQ's
+    title: 'Veelgestelde Vragen over Puerto Rico eSIM'
     questions:
     - q: |
         Welk netwerk op Puerto Rico heeft de beste dekking voor reizigers — Claro, AT&T of T-Mobile?
@@ -250,7 +247,7 @@ faq_section:
     - q: |
         Wat is het verschil tussen een 5GB-plan en een onbeperkt plan voor Puerto Rico?
       a: |
-        Een 5GB-plan geeft u een vaste hoeveelheid hoge-snelheidsdata (5GB totaal). Eenmaal opgebruikt, waardeert u op of koopt u een nieuw plan. Een onbeperkt plan blijft data leveren, maar snelheden kunnen na 30GB op een dag worden verlaagd onder fair use-beleid. Voor de meeste reizigers die kaarten, berichten en social media gebruiken, is een 5GB-plan ruim voldoende.
+        Een 5GB-plan geeft u een vaste hoeveelheid hoge-snelheidsdata (5GB totaal). Eenmaal opgebruikt, waardeert u op of koopt u een nieuw plan. Voor de meeste reizigers die kaarten, berichten en social media gebruiken, is een 5GB-plan ruim voldoende.
     - q: |
         Werkt de Puerto Rico eSIM in landelijke gebieden en kleinere steden?
       a: |
@@ -267,55 +264,67 @@ faq_section:
         Wat als ik mijn Puerto Rico eSIM per ongeluk verwijder voor mijn reis?
       a: |
         Geen probleem. Log in op uw Roami-account om de QR-code opnieuw te downloaden — duurt ongeveer 1 minuut. We raden aan om het op te slaan als screenshot of PDF wanneer u het voor het eerst ontvangt, voor het geval dat.
+    - q: |
+        Welke prijzen kun je verwachten voor een Puerto Rico eSIM?
+      a: |
+        De tarieven voor een Puerto Rico eSIM starten bij $6.99 en gaan tot $64.99, afhankelijk van databundel en looptijd. Er komt geen maandelijkse verplichting bij kijken.
+    - q: |
+        Is tethering met een Puerto Rico eSIM toegestaan?
+      a: |
+        Tethering is toegestaan: deel je Puerto Rico eSIM-verbinding met andere apparaten zonder extra kosten.
+    - q: |
+        Waarom zou je voor Puerto Rico een eSIM kiezen in plaats van een lokale sim?
+      a: |
+        Met een eSIM sla je het winkelbezoek en de registratie voor een lokale sim over; je bent bij aankomst in Puerto Rico direct online.
 related_products:
   title: Gerelateerde eSIM-plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
+  - name: Australië eSIM
+    flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
     flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: China eSIM
+    flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Frankrijk eSIM
     flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Spanje eSIM
-    flag: img/flags/es.svg
-    price: Vanaf $1.99
-    is_highlight: false
   - name: Duitsland eSIM
     flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Australië eSIM
-    flag: img/flags/au.svg
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
 ---

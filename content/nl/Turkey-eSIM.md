@@ -1,6 +1,6 @@
 ---
 title: 'Turkije eSIM - 5G in Istanbul & Cappadocië | Geen Paspoort Nodig | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Onze eSIM-service is geüpgraded naar <strong>PhoneSIM</strong>.<br>Nieuwe klanten krijgen 20% korting, promotiecode:web20
 seo:
   title: Turkije eSIM - Beste 5G Databundel | Geen Paspoort Nodig
-  description: Krijg de beste Turkije eSIM met 5G op Turkcell, Vodafone & Türk Telekom. Geen paspoort of ID nodig — omzeil automatisch de internetblokkades van Turkije. Sla prijsopdrijving op Istanbul Airport over. Plannen vanaf $1.99.
-  keywords: Turkije eSIM, Turkije eSIM kopen, beste Turkije eSIM, Turkije reis eSIM, Turkcell Turkije, Vodafone Turkije, Türk Telekom Turkije, Istanbul eSIM, Ankara eSIM, Izmir eSIM, Turkije prepaid eSIM, 5G Turkije eSIM, Turkije eSIM geen paspoort, eSIM voor Cappadocië
+  description: Krijg de beste Turkije eSIM met 5G op Turkcell, Vodafone & Türk Telekom. Geen paspoort of ID nodig — direct geactiveerd na aankoop. Sla prijsopdrijving op Istanbul Airport over. Plannen vanaf $1.99.
+  keywords: Turkije eSIM, eSIM Turkije, esim turkije kopen, beste esim turkije, Turkije eSIM prijs, Turkcell, Vodafone, Türk Telekom, Istanbul eSIM, Ankara eSIM, Izmir eSIM, Turkije eSIM 5G, Turkije eSIM databundel, Turkije eSIM dekking, Turkije eSIM activeren, Turkije prepaid eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -42,7 +42,7 @@ hero:
   flag_image: img/flags/tr.svg
   flag_alt: Vlag van Turkije
   title: 'Turkije eSIM: 5G in Istanbul, Cappadocië'
-  subtitle: 5G op Turkcell, Vodafone & Türk Telekom | Geen paspoort/ID nodig | Omzeil lokale censuur | Directe QR-levering
+  subtitle: 5G op Turkcell, Vodafone & Türk Telekom | Geen paspoort/ID nodig  | Directe QR-levering
 features:
   title: 'Waarom Reizigers naar Turkije voor Roami Kiezen: Snelheid, Privacy & Waarde'
   items:
@@ -72,9 +72,9 @@ features:
     desc: Verbindt automatisch met Turkcell, Vodafone & Türk Telekom voor het beste signaal
   - icon: globe
     color: from-emerald-400 to-emerald-600
-    title: Omzeil Censuur
-    desc: Toegang tot alle websites — Twitter, Facebook, Wikipedia, VPN's — geen blokkades
-plans_title: 'Koop Turkije eSIM: Plannen voor Elke Reisduur'
+    title: Directe Toegang
+    desc: Toegang tot al uw favoriete apps — sociale media, kaarten en streaming — zonder gedoe
+plans_title: 'Koop Turkije eSIM: Tarieven voor Elke Reisduur'
 plans_data:
   3 Dagen:
   - spec: 1GB
@@ -324,7 +324,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Turkije eSIM Installatietips: Wat u Moet Weten Voordat u Gaat'
+  title: 'Turkije eSIM Installatiegids: Wat je Moet Weten'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-compatibel</a> is voordat u koopt.
@@ -339,7 +339,7 @@ reminders:
   - icon: 🛂
     html: <span class="font-medium">Geen paspoort nodig:</span> Turkije vereist paspoort + notariële vertaling voor lokale SIMs. Roami vereist <span class="font-bold">geen ID</span> — geen papierwerk, geen winkelbezoek.
   - icon: 🌐
-    html: <span class="font-medium">Toegang tot alle sites:</span> Turkije blokkeert Twitter, Facebook, Wikipedia en VPN's. Roami's internationale routering omzeilt deze blokkades automatisch — geen VPN nodig.
+    html: <span class="font-medium">Toegang tot alle sites:</span> Roami's internationale routering houdt uw sociale media, kaarten en streamingdiensten overal in Turkije soepel werkend.
   - icon: 🕌
     html: <span class="font-medium">Lokale tip:</span> Download de <span class="font-medium">Google Translate</span> app met Turkse offline pack — het helpt bij menu's, borden en onderhandelen op de Grand Bazaar.
   compatibility_check:
@@ -349,7 +349,7 @@ reminders:
     code: '*#06#'
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Turkije eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Turkije eSIM in 3 Eenvoudige Stappen Installeren'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -368,22 +368,22 @@ activation_steps:
     desc: Schakel bij aankomst in Turkije uw Turkije eSIM in via de instellingen om data te gaan gebruiken. We raden aan om tijdens de eerste activering verbinding te maken met WiFi.
     is_list: false
 faq_section:
-  title: "Turkije eSIM Gids: 5G, Censuur Omzeilen & Toeristentips"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Turkije. Ontdek welke snelheden u kunt verwachten, hoe u blokkades omzeilt en waar eSIM het beste werkt."
+  title: "Turkije eSIM Gids: 5G, Netwerkdekking & Toeristentips"
+  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Turkije. Ontdek welke snelheden u kunt verwachten, welke apps soepel werken en waar eSIM het beste presteert."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Turkije eSIM FAQ's
+    title: 'Turkije eSIM Veelgestelde Vragen en Tips'
     questions:
     - q: |
         Heb ik echt geen paspoort nodig voor Turkije eSIM? Waarom?
       a: |
         Correct — Roami's Turkije eSIM vereist geen paspoort- of ID-verificatie. Dit is waarom het belangrijk is: de Turkse wet vereist dat alle lokale prepaid SIMs worden geregistreerd met een paspoort. Als uw paspoort niet-Latijns schrift gebruikt (bijv. Chinees, Arabisch, Russisch), moet u ook een <strong>notariële vertaling</strong> overleggen — een proces dat uren kan duren en extra kan kosten. Turkse SIM-kaarten kosten ook ₺350+ (~$11 USD) met nul data inbegrepen. Roami is een internationale data-eSIM die deze vereisten volledig omzeilt. Koop online, scan QR, ga.
     - q: |
-        Turkije blokkeert Twitter, Facebook en Wikipedia — kan ik ze nog steeds gebruiken met Roami?
+        Werken Twitter, Facebook en Wikipedia met een Roami eSIM in Turkije?
       a: |
-        Ja. Turkse providers (Turkcell, Vodafone, Türk Telekom) zijn wettelijk verplicht om de toegang tot Twitter, Facebook, Wikipedia, YouTube en vele VPN-diensten te blokkeren. Roami's eSIM routeert data via internationale servers, <strong>omzeilt deze blokkades automatisch</strong>. U heeft geen aparte VPN nodig — al uw apps werken hetzelfde als thuis. Instagram, WhatsApp, Google Maps en streamingdiensten functioneren allemaal normaal.
+        Ja. Met Roami's eSIM routeert uw data via internationale servers, zodat uw favoriete apps en websites soepel blijven werken. U heeft geen extra software nodig — al uw apps werken hetzelfde als thuis. Instagram, WhatsApp, Google Maps en streamingdiensten functioneren allemaal normaal.
     - q: |
         Welke Turkse provider is het beste — Turkcell, Vodafone of Türk Telekom?
       a: |
@@ -416,63 +416,71 @@ faq_section:
         Wanneer begint de geldigheidsperiode van mijn Turkije eSIM?
       a: |
         De geldigheid van het plan begint wanneer u verbinding maakt met een lokaal netwerk in Turkije, niet bij aankoop of installatie. U kunt dus weken voor uw reis kopen en installeren zonder plan dagen te verliezen. Een 7-daags plan geeft u 7 volledige dagen vanaf de eerste verbinding.
+    - q: |
+        Hoe lang is een Turkije eSIM geldig en kun je verlengen?
+      a: |
+        De geldigheid loopt van 3 tot 30 dagen, afhankelijk van het pakket dat je kiest. Raakt je bundel bijna leeg, dan voeg je eenvoudig een nieuw pakket toe.
+    - q: |
+        Wat kost een Turkije eSIM en welke databundels zijn er?
+      a: |
+        Roami eSIM-pakketten voor Turkije beginnen vanaf $1.99 en lopen op tot $78.99. Je kiest per databundel en geldigheidsduur, zonder abonnement of verborgen kosten.
+    - q: |
+        Kun je een Turkije eSIM delen via hotspot?
+      a: |
+        Ja, je kunt je verbinding delen met een laptop of tweede toestel. Er geldt geen aparte hotspottoeslag bovenop je databundel.
 related_products:
   title: Gerelateerde eSIM-plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Frankrijk eSIM
     flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Spanje eSIM
-    flag: img/flags/es.svg
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Duitsland eSIM
-    flag: img/flags/de.svg
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Australië eSIM
     flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: China eSIM
+    flag: img/flags/cn.svg
+    price: Vanaf $1.99
+    is_highlight: false
 market_analysis:
   title: 'Turkije eSIM vs Lokale Prepaid SIM: Geen Paspoort, Geen 28-Daagse Verspilling'
   subtitle: Turkije Lokale Prepaid SIMs vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Turkije) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Turkey
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktgegevens)
@@ -515,11 +523,11 @@ market_analysis:
     esim_title: Wereldwijde Betaling Geaccepteerd
     esim_desc: Vermijd geweigerde internationale creditcards en verborgen wisselkosten. Roami accepteert Visa, Mastercard, AMEX, Apple Pay, Google Pay en PayPal met transparante USD-prijzen.
   - icon: shield
-    title: Censuur &<br>Internetvrijheid
+    title: Netwerk &<br>Connectiviteit
     prepaid_title: ''
-    prepaid_desc: Turkse providers blokkeren Twitter, Facebook, Wikipedia, YouTube en vele VPN-diensten op last van de overheid. Toegang vereist een externe VPN (die vaak ook geblokkeerd is).
-    esim_title: Omzeil Alle Blokkades
-    esim_desc: Roami's internationale routering omzeilt automatisch de internetcensuur van Turkije. Toegang tot Twitter, Facebook, Wikipedia, YouTube en VPN's zonder extra software — uw internet werkt net als thuis.
+    prepaid_desc: Turkse prepaid SIM's vereisen paspoortregistratie en zijn gericht op lokale gebruikers; roaming buiten Turkije kan extra kosten met zich meebrengen.
+    esim_title: Soepele Connectiviteit
+    esim_desc: Roami's internationale routering houdt uw favoriete apps en diensten overal in Turkije werkend, zonder extra software — uw internet werkt net als thuis.
   - icon: headset
     title: Klanten-<br>ondersteuning
     prepaid_title: ''
@@ -542,8 +550,8 @@ market_analysis:
     - icon: globe
       icon_bg: bg-purple-100
       icon_color: text-purple-600
-      title: Omzeil Censuur Automatisch
-      desc: Turkse providers blokkeren Twitter, Facebook, Wikipedia en VPN's. Roami's internationale routering geeft u toegang tot <b>alle websites</b> zonder een aparte VPN — uw social apps werken precies zoals thuis.
+      title: Automatische Connectiviteit
+      desc: Roami's internationale routering geeft u toegang tot <b>al uw favoriete apps en websites</b> — uw social apps werken precies zoals thuis.
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600

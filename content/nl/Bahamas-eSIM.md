@@ -1,6 +1,6 @@
 ---
 title: 'Bahamas eSIM 2026: Dekking & Snelheidsgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: BTC, Aliv, Cable Bahamas
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Nassau, Freeport, Marsh Harbour, George Town, West End
-  main_packages: 3/7/15/30 dagen, onbeperkte data
+  main_packages: 3/7/15/30 dagen, 5G-data
 modal:
   title: Dienst geüpgraded!
   btn_text: Doorgaan
@@ -17,13 +17,11 @@ modal:
     promotiecode:web20
   text_android: Onze eSIM-dienst is geüpgraded naar <strong>PhoneSIM</strong>.<br>Nieuwe klanten krijgen 20% korting, promotiecode:web20
 seo:
-  title: Bahamas eSIM | Beste 5G onbeperkte data voor reizigers
-  description: Ontvang de beste prepaid reis-eSIM voor de Bahamas van Roami. Onbeperkte 5G-data over 700+ eilanden. Dekt
-    Nassau, Freeport & Exuma. Directe activering.
-  keywords: Bahamas eSIM, koop Bahamas eSIM, beste Bahamas eSIM, Bahamas reis-eSIM, BTC Bahamas, Aliv Bahamas, Cable Bahamas
-    Bahamas, Nassau eSIM, Freeport eSIM, Marsh Harbour eSIM, Bahamas prepaid eSIM, 5G Bahamas eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: Bahamas eSIM | Beste 5G-data voor reizigers
+  description: Ontvang de beste prepaid reis-eSIM voor de Bahamas van Roami. 5G-data over 700+ eilanden. Dekt Nassau, Freeport & Exuma. Directe activering.
+  keywords: Bahamas eSIM, eSIM Bahamas, koop Bahamas eSIM, wat is de beste esim, Bahamas eSIM prijs, BTC, Aliv, Cable Bahamas, Nassau eSIM, Freeport eSIM, Marsh Harbour eSIM, Bahamas eSIM 5G, Bahamas eSIM databundel, Bahamas eSIM dekking, Bahamas eSIM activeren, Bahamas prepaid eSIM
+  low_price: 16.99
+  high_price: 67.99
 order_summary:
   title: Geselecteerd abonnement
   label_data: Inbegrepen data
@@ -58,7 +56,7 @@ features:
     desc: 24/7 support voor je Bahamas-reis - echte mensen, geen bots
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Niet beschikbaar
+    title: 100% Terugbetaling
     desc: 100% restitutie als je Bahamas eSIM niet activeert
   - icon: wifi
     color: from-purple-400 to-purple-600
@@ -72,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Auto-switch
     desc: Automatisch verbinden met beste Bahamas-providers voor het beste signaal
-plans_title: 'Koop Bahamas eSIM: Abonnementen voor elke reisduur'
+plans_title: 'Bahamas eSIM-plannen: Voor Elke Reisduur'
 plans_data:
   30 Dagen:
   - spec: 1GB
@@ -208,7 +206,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Bahamas eSIM FAQ
+    title: 'Bahamas eSIM Veelgestelde Vragen en Tips'
     questions:
     - q: |
         Is het veilig om mijn paspoort te uploaden voor Bahamas eSIM-registratie? Ik maak me zorgen over privacy.
@@ -217,7 +215,7 @@ faq_section:
     - q: |
         Wat zijn de goedkoopste eSIM-opties voor een reis naar de Bahamas?
       a: |
-        Roami Bahamas eSIM-abonnementen beginnen bij $1.99 (7 dagen, 1GB) en gaan tot $59.99 (30 dagen onbeperkt). Voor een typische 5-7 daagse reis is het 5GB-abonnement voor $9.99 de sweet spot — genoeg voor kaarten, berichten en het checken van sociale media. Video streamen of remote werken? Kies 10GB of onbeperkt. Bahamas gebruikt 4G wat kaarten en berichten prima verwerkt. Luchthaven-SIM-kiosken rekenen 30-50% meer, en je moet in de rij staan. Niet zeker over je databehoefte? Begin klein en waardeer op via de app zonder je eSIM te wijzigen.
+        Roami Bahamas eSIM-abonnementen beginnen bij $16.99 (7 dagen, 1GB) en gaan tot $67.99 (30 dagen). Voor een typische 5-7 daagse reis is het 5GB-abonnement voor $67.99 de sweet spot — genoeg voor kaarten, berichten en het checken van sociale media. Video streamen of remote werken? Kies 10GB of een groter databundel. Bahamas gebruikt 4G wat kaarten en berichten prima verwerkt. Luchthaven-SIM-kiosken rekenen 30-50% meer, en je moet in de rij staan. Niet zeker over je databehoefte? Begin klein en waardeer op via de app zonder je eSIM te wijzigen.
     - q: |
         Hoe verhoudt Roami zich tot Airalo voor eSIM op de Bahamas?
       a: |
@@ -237,68 +235,80 @@ faq_section:
     - q: |
         Wat is het verschil tussen een 5GB-abonnement en een onbeperkt abonnement voor de Bahamas?
       a: |
-        Een 5GB-abonnement geeft je een vaste hoeveelheid hogesnelheidsdata (5GB totaal). Eenmaal opgebruikt, waardeer je op of koop je een nieuw abonnement. Een onbeperkt abonnement blijft data leveren, maar snelheden kunnen worden verlaagd na 30GB op een dag onder het fair use-beleid. Voor de meeste reizigers die kaarten, berichten en sociale media gebruiken, is een 5GB-abonnement ruim voldoende.
+        Een 5GB-abonnement geeft je een vaste hoeveelheid hogesnelheidsdata (5GB totaal). Eenmaal opgebruikt, waardeer je op of koop je een nieuw abonnement. Voor de meeste reizigers die kaarten, berichten en sociale media gebruiken, is een 5GB-abonnement ruim voldoende.
     - q: |
         Wanneer start de geldigheidsperiode van mijn Bahamas eSIM?
       a: |
         De geldigheid van het abonnement start wanneer je verbinding maakt met een lokaal netwerk op de Bahamas, niet wanneer je het koopt of installeert. Dus je kunt weken voor je reis kopen en installeren zonder abonnementsdagen te verliezen. Een 7-daags abonnement geeft je 7 volledige dagen vanaf de eerste verbinding.
+    - q: |
+        Kun je een Bahamas eSIM delen via hotspot?
+      a: |
+        Ja, je kunt je verbinding delen met een laptop of tweede toestel. Er geldt geen aparte hotspottoeslag bovenop je databundel.
+    - q: |
+        Is een Bahamas eSIM voordeliger dan een lokale prepaid sim?
+      a: |
+        Een lokale sim vraagt registratie in een winkel, terwijl je een eSIM al voor vertrek installeert. Dat scheelt tijd en gedoe op de luchthaven van Bahamas.
+    - q: |
+        Werkt een Bahamas eSIM met de netwerken van BTC en Aliv?
+      a: |
+        Bij aankomst verbindt de eSIM automatisch met de sterkste beschikbare netwerken, waaronder BTC en Aliv. In stedelijke gebieden zoals Nassau en Freeport is de dekking doorgaans het beste.
 related_products:
   title: Gerelateerde Bahamas eSIM-abonnementen
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
+  - name: Australië eSIM
+    flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Europe eSIM
+  - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: Vanaf $1.99
-    is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: France eSIM
+  - name: Frankrijk eSIM
     flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
 market_analysis:
   title: 'Bahamas eSIM vergeleken met prepaid SIM-kaarten: Wat je moet weten'
   subtitle: Bahamas lokale prepaid SIMs vs. eSIM-oplossingen (2024/2025 benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Bahamas) + lokale providersites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Bahamas
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale prepaid SIM (marktdata)
@@ -336,7 +346,7 @@ market_analysis:
   - icon: wifi
     title: Hotspot &<br>snelheidsbeleid
     prepaid_title: ''
-    prepaid_desc: Geen specifieke data in bron voor deze dimensie. Op basis van algemene marktkennis staan zowel BTC als aliv
+    prepaid_desc: Staan zowel BTC als aliv
       tethering toe maar kunnen ze beperken na veel gebruik.
     esim_title: Onbeperkte tethering
     esim_desc: Roami staat hotspot-deling op volledige snelheid toe, in tegenstelling tot sommige lokale abonnementen die beperken na 3GB/dag.

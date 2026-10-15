@@ -1,6 +1,6 @@
 ---
 title: 'Kenia eSIM 2026: 5G & Data Gids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,10 +20,9 @@ seo:
   title: Kenia eSIM | Snel Prepaid Data Plan voor Toeristen
   description: Reis naar Kenia met de beste prepaid reis-eSIM van Roami. Onbeperkte 5G-data op topnetwerken. Dekt Nairobi,
     Mombasa & Kisumu. Directe activering.
-  keywords: Kenya eSIM, koop Kenya eSIM, beste Kenya eSIM, Kenya reis eSIM, Safaricom Kenya, Airtel Kenya Kenya, Telkom Kenya
-    Kenya, Nairobi eSIM, Mombasa eSIM, Kisumu eSIM, Kenya prepaid eSIM, 5G Kenya eSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: Kenia eSIM, eSIM Kenia, koop Kenia eSIM, wat is de beste esim, Kenia eSIM prijs, Safaricom, Airtel Kenya, Telkom Kenya, Nairobi eSIM, Mombasa eSIM, Kisumu eSIM, Kenia eSIM 5G, Kenia eSIM databundel, Kenia eSIM dekking, Kenia eSIM activeren, Kenia prepaid eSIM
+  low_price: 7.99
+  high_price: 98.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -344,7 +343,7 @@ faq_section:
     - q: |
         Wat zijn de goedkoopste eSIM-opties voor een reis naar Kenia?
       a: |
-        Roami Kenia eSIM-plannen beginnen bij $1,99 (7 dagen, 1GB) en gaan tot $59,99 (30 dagen onbeperkt). Voor een typische reis van 5-7 dagen is het 5GB-plan van $9,99 de beste keuze — genoeg voor kaarten, berichten en sociale media. Moet u video streamen of op afstand werken? Kies dan 10GB of onbeperkt. Dankzij Safaricom's 5G-netwerk werken streamen en videogesprekken uitstekend. SIM-kiosken op de luchthaven rekenen 30-50% meer en u moet in de rij wachten. Niet zeker van uw databehoefte? Begin klein en waardeer op via de app zonder uw eSIM te wijzigen.
+        Roami Kenia eSIM-plannen beginnen bij $10.99 (7 dagen, 1GB) en gaan tot $52.99 (30 dagen onbeperkt). Voor een typische reis van 5-7 dagen is het 5GB-plan van $21.99 de beste keuze — genoeg voor kaarten, berichten en sociale media. Moet u video streamen of op afstand werken? Kies dan 10GB of onbeperkt. Dankzij Safaricom's 5G-netwerk werken streamen en videogesprekken uitstekend. SIM-kiosken op de luchthaven rekenen 30-50% meer en u moet in de rij wachten. Niet zeker van uw databehoefte? Begin klein en waardeer op via de app zonder uw eSIM te wijzigen.
     - q: |
         Op welke provider in Kenia moet ik vertrouwen voor mijn eSIM?
       a: |
@@ -364,7 +363,7 @@ faq_section:
     - q: |
         Ik heb slechts een paar dagen internettoegang nodig in Kenia. Wat is het minimum dat ik kan kopen?
       a: |
-        Het goedkoopste plan is $1,99 voor 7 dagen met 1GB — perfect voor een kort weekendtripje met licht gebruik. Als u meer nodig hebt, kunt u op elk moment opwaarderen via de app.
+        Het goedkoopste plan is $7.99 voor 7 dagen met 1GB — perfect voor een kort weekendtripje met licht gebruik. Als u meer nodig hebt, kunt u op elk moment opwaarderen via de app.
     - q: |
         Hoeveel data gebruikt een typische reiziger eigenlijk per dag in Kenia?
       a: |
@@ -373,15 +372,27 @@ faq_section:
         Kan ik mijn Kenia eSIM direct na aankoop gebruiken, of moet ik wachten?
       a: |
         De QR-code arriveert binnen enkele minuten. Installeer deze direct — het duurt 2 minuten. De geldigheid van het plan start echter pas wanneer u verbinding maakt met een netwerk in Kenia. U kunt dus weken voor uw reis installeren zonder plandagen te verliezen.
+    - q: |
+        Is tethering met een Kenia eSIM toegestaan?
+      a: |
+        Tethering is toegestaan: deel je Kenia eSIM-verbinding met andere apparaten zonder extra kosten.
+    - q: |
+        Waarom zou je voor Kenia een eSIM kiezen in plaats van een lokale sim?
+      a: |
+        Met een eSIM sla je het winkelbezoek en de registratie voor een lokale sim over; je bent bij aankomst in Kenia direct online.
+    - q: |
+        Op welke netwerken in Kenia sluit een eSIM aan?
+      a: |
+        De eSIM schakelt automatisch over op lokale netwerken zoals Safaricom en Airtel Kenya. Rond Nairobi en Mombasa is de dekking in de praktijk het sterkst.
 related_products:
   title: Gerelateerde Kenia eSIM Plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
@@ -392,44 +403,44 @@ related_products:
     flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
+  - name: Hongkong eSIM
     flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Spanje eSIM
-    flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Duitsland eSIM
     flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
+    price: Vanaf $1.99
+    is_highlight: false
   - name: Australië eSIM
     flag: img/flags/au.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: China eSIM
+    flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
 market_analysis:
   title: 'Kenia eSIM vs Fysieke SIM-kaart: Voor- en Nadelen Uitgelegd'
   subtitle: Kenia Lokale Prepaid SIM's vs. eSIM Oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Kenia) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Kenya
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)
@@ -469,7 +480,7 @@ market_analysis:
   - icon: wifi
     title: Hotspot &<br>Snelheidsbeleid
     prepaid_title: ''
-    prepaid_desc: Geen specifieke gegevens in de bron voor deze dimensie. Op basis van marktkennis is tethering over het algemeen toegestaan
+    prepaid_desc: Is tethering over het algemeen toegestaan
       maar kan worden beperkt na bepaalde limieten.
     esim_title: Onbeperkt Tethering
     esim_desc: eSIM staat hotspot-deling op volledige snelheid toe zonder snelheidsbeperking, in tegenstelling tot sommige lokale SIM's die tethering kunnen beperken

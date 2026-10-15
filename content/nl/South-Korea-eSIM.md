@@ -1,6 +1,6 @@
 ---
 title: 'Zuid-Korea eSIM - Snelste 5G in Seoul & Busan'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: Zuid-Korea eSIM - 5G Prepaid Datapakket voor Bezoekers
   description: Krijg de beste Zuid-Korea eSIM met 's werelds snelste 5G op SK Telecom, KT & LG U+. Geen luchthavenrijen — directe QR-activatie. Pakketten vanaf $1.99. Perfect voor Seoul, Busan & Jeju.
-  keywords: Zuid-Korea eSIM, koop Zuid-Korea eSIM, beste Zuid-Korea eSIM, Zuid-Korea reis eSIM, SK Telecom Zuid-Korea, KT Zuid-Korea, LG U+ Zuid-Korea, Seoul eSIM, Busan eSIM, Incheon eSIM, Zuid-Korea prepaid eSIM, 5G Zuid-Korea eSIM, snelste 5G Zuid-Korea, eSIM voor K-pop concert
+  keywords: Zuid-Korea eSIM, eSIM Zuid-Korea, smart prepaid to esim, beste Zuid-Korea eSIM, what is a prepaid esim, SK Telecom, KT, LG U+, Seoul eSIM, Busan eSIM, Incheon eSIM, Zuid-Korea eSIM 5G, Zuid-Korea eSIM databundel, Zuid-Korea eSIM dekking, Zuid-Korea eSIM activeren, Zuid-Korea prepaid eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 61.99
 order_summary:
   title: Geselecteerd Pakket
   label_data: Inbegrepen Data
@@ -69,7 +69,7 @@ features:
     color: from-rose-400 to-rose-600
     title: "'s Werelds Snelste 5G"
     desc: Zuid-Korea heeft 's werelds snelste 5G — tot 1,5 Gbps in Seoul
-plans_title: 'Koop Zuid-Korea eSIM: Pakketten voor Elke Reisduur'
+plans_title: 'Zuid-Korea eSIM Kopen: Tarieven voor Elke Reisduur'
 plans_data:
   3 Dagen:
   - spec: 1GB
@@ -308,7 +308,7 @@ network_coverage:
       coverage: Goede stedelijke 5G-dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Zuid-Korea eSIM Installatietips: Wat je Moet Weten Voor je Vertrekt'
+  title: 'Zuid-Korea eSIM Installatie: Slimme Tips Voor je Vertrek'
   items:
   - icon: 📱
     html: Zorg ervoor dat je telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-compatibel</a> is voordat je koopt.
@@ -329,7 +329,7 @@ reminders:
     code: '*#06#'
     result_html: Als een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> nummer op je scherm verschijnt, wordt je apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Zuid-Korea eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Zuid-Korea eSIM Op je Telefoon: 3 Eenvoudige Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -349,12 +349,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Zuid-Korea eSIM Gids: 5G Snelheden, Dekking & Reistips"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Zuid-Korea. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Gids voor eSIM-snelheden, netwerkdekking en verbindingskwaliteit in Zuid-Korea. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Zuid-Korea eSIM FAQ's
+    title: 'Algemene Vragen over Zuid-Korea eSIM'
     questions:
     - q: |
         Hoe snel is 5G in Zuid-Korea? Kan ik echte cijfers krijgen?
@@ -380,63 +380,75 @@ faq_section:
     - q: |
         Wanneer begint de geldigheidsperiode van mijn Zuid-Korea eSIM?
       a: '| De geldigheid van het pakket begint wanneer je verbinding maakt met een lokaal netwerk in Zuid-Korea, niet wanneer je het koopt of installeert. Dus je kunt weken voor je reis kopen en installeren zonder pakketdagen te verliezen. Een 7-daags pakket geeft je 7 volledige dagen vanaf de eerste verbinding.'
+    - q: |
+        Kun je een Zuid-Korea eSIM met een creditcard betalen?
+      a: |
+        Betalen kan met onder andere creditcard en online betaalopties. Zodra de betaling rond is, ontvang je de installatie-QR-code.
+    - q: |
+        Werkt de Zuid-Korea eSIM direct na aankomst?
+      a: |
+        De installatie gebeurt vooraf via een QR-code. Zodra je in Zuid-Korea landt, schakel je de eSIM in en werkt je verbinding meteen.
+    - q: |
+        Wat gebeurt er als je databundel voor Zuid-Korea op is?
+      a: |
+        Je kiest een looptijd tussen 3 en 30 dagen. Is je data op, dan schaf je in een paar tikken een nieuw pakket aan.
 related_products:
   title: Gerelateerde Zuid-Korea eSIM Pakketten
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Verenigd Koninkrijk
-    flag: img/flags/gb.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: Vanaf $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
-    price: Vanaf $1.99
-    is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Spanje eSIM
-    flag: img/flags/es.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Duitsland eSIM
-    flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Australië eSIM
     flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
+    price: Vanaf $1.99
+    is_highlight: true
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
+    price: Vanaf $1.99
+    is_highlight: false
 market_analysis:
   title: 'Zuid-Korea eSIM vs Lokale Prepaid SIM: Wat is Beter voor Reizigers?'
   subtitle: Lokale Prepaid SIM's in Zuid-Korea vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Zuid-Korea) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/South_Korea
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)

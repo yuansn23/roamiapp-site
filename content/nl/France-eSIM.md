@@ -1,6 +1,6 @@
 ---
 title: 'Frankrijk eSIM 2026 - Beste 5G-plan voor Parijs & Provence | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: Frankrijk eSIM - Beste Onbeperkte Dataplan voor Ontdekkingsreizigers
   description: Krijg de beste Frankrijk prepaid eSIM met 5G op Orange, SFR & Bouygues. Geen ID nodig — directe QR-activering. Geen 31-daagse contractverspilling. Vanaf $1.99.
-  keywords: Frankrijk eSIM, Frankrijk eSIM kopen, beste Frankrijk eSIM, Frankrijk reis eSIM, Orange Frankrijk, SFR Frankrijk, Bouygues Telecom Frankrijk, Parijs eSIM, Marseille eSIM, Lyon eSIM, Frankrijk prepaid eSIM, 5G Frankrijk eSIM, Provence eSIM, Franse Rivièra eSIM
+  keywords: Frankrijk eSIM, eSIM Frankrijk, prepaid sim france, wat is de beste esim, france esim prepaid, Orange, SFR, Bouygues Telecom, Parijs eSIM, Marseille eSIM, Lyon eSIM, Frankrijk eSIM 5G, Frankrijk eSIM databundel, Frankrijk eSIM dekking, Frankrijk eSIM activeren, Frankrijk prepaid eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 70.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Verbindt automatisch met Orange, SFR & Bouygues voor het beste signaal in Frankrijk
-plans_title: 'Koop Frankrijk eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Frankrijk eSIM Kopen: Abonnementen voor Elke Reisduur'
 plans_data:
   3 Dagen:
   - spec: 1GB
@@ -319,7 +319,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Frankrijk eSIM Installatietips: Wat u Moet Weten Voordat u Gaat'
+  title: 'Frankrijk eSIM Installatietips: Zo Werkt het Zonder Gedoe'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-compatibel</a> is voordat u koopt.
@@ -340,7 +340,7 @@ reminders:
     code: '*#06#'
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Frankrijk eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Hoe Werkt Frankrijk eSIM: 3 Eenvoudige Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -360,12 +360,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Frankrijk eSIM Gids: Snelheden, Dekking en Reistips voor Frankrijk"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Frankrijk. Ontdek welke snelheden u kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Gids voor eSIM-internetsnelheden en netwerkdekking voor reizigers in Frankrijk. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Frankrijk eSIM FAQ's
+    title: 'Frankrijk eSIM FAQ'
     questions:
     - q: |
         Heb ik echt geen paspoort of ID nodig voor Roami's Frankrijk eSIM?
@@ -403,63 +403,71 @@ faq_section:
         Kan ik mijn Frankrijk eSIM opwaarderen als ik door mijn data heen ben?
       a: |
         Ja — u kunt op elk moment opwaarderen via uw Roami-account. In tegenstelling tot Franse prepaid SIMs met complexe opwaardeerprocessen (SFR vereist Europese chipkaarten, Bouygues staat geen opwaarderingen voor roaming toe), geeft Roami u volledige flexibiliteit om met één klik data toe te voegen. Geen noodzaak om een nieuwe SIM te kopen of een winkel te bezoeken.
+    - q: |
+        Met welke betaalmethoden kun je een Frankrijk eSIM kopen?
+      a: |
+        Je rekent veilig af met gangbare betaalmethoden zoals creditcard en digitale wallets. Na betaling ontvang je de QR-code direct per e-mail.
+    - q: |
+        Hoe activeer je een Frankrijk eSIM voordat je vertrekt?
+      a: |
+        Je installeert de eSIM thuis via een QR-code en schakelt de lijn pas in bij aankomst in Frankrijk. Zo heb je meteen internet zonder eerst een lokale SIM te regelen.
+    - q: |
+        Hoe lang is een Frankrijk eSIM geldig en kun je verlengen?
+      a: |
+        De geldigheid loopt van 3 tot 30 dagen, afhankelijk van het pakket dat je kiest. Raakt je bundel bijna leeg, dan voeg je eenvoudig een nieuw pakket toe.
 related_products:
   title: Gerelateerde Frankrijk eSIM-plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
   - name: Spanje eSIM
     flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Duitsland eSIM
-    flag: img/flags/de.svg
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Australië eSIM
     flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
+    price: Vanaf $1.99
+    is_highlight: false
 market_analysis:
   title: 'Frankrijk eSIM vs Prepaid SIM: Kosten en Gemak Vergeleken – Beste eSIM voor Frankrijk-reizigers'
   subtitle: Frankrijk Lokale Prepaid SIMs vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Frankrijk) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/France
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktgegevens)

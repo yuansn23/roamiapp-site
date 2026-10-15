@@ -1,6 +1,6 @@
 ---
 title: 'Frans-Guyana eSIM 2026: Toeristen- & Netwerkgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,12 +19,10 @@ modal:
 seo:
   title: 'Frans-Guyana eSIM: Snel 5G Data Plan voor Reizigers'
   description: Vergelijk Frans-Guyana eSIM-plannen met snel 5G in Cayenne, Kourou, Saint-Laurent-du-Maroni. Digicel & Orange
-    & Free dekkingsgids voor toeristen & reizigers. Directe QR-activering vanaf $1.99.
-  keywords: French Guiana eSIM, koop French Guiana eSIM, beste French Guiana eSIM, French Guiana reis eSIM, Digicel French
-    Guiana, Orange French Guiana, Free French Guiana, Cayenne eSIM, Kourou eSIM, Saint-Laurent-du-Maroni eSIM, French Guiana
-    prepaid eSIM, 5G French Guiana eSIM
-  low_price: 1.99
-  high_price: 39.9
+    & Free dekkingsgids voor toeristen & reizigers. Directe QR-activering vanaf $3.99.
+  keywords: Frans-Guyana eSIM, eSIM Frans-Guyana, koop Frans-Guyana eSIM, beste Frans-Guyana eSIM, Frans-Guyana eSIM prijs, Digicel, Orange, Free, Cayenne eSIM, Kourou eSIM, Saint-Laurent-du-Maroni eSIM, Frans-Guyana eSIM 5G, Frans-Guyana eSIM databundel, Frans-Guyana eSIM dekking, Frans-Guyana eSIM activeren, Frans-Guyana prepaid eSIM
+  low_price: 3.99
+  high_price: 66.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -278,7 +276,7 @@ faq_section:
     - q: |
         Ik reis slechts 2-3 dagen naar Frans-Guyana. Welke eSIM moet ik nemen?
       a: |
-        Voor een korte reis dekt het 1GB/7 dagen plan ($1,99) kaarten en berichten. Als u van plan bent sociale media te gebruiken en foto's te delen, biedt het 3GB-plan ($4,99) meer ruimte. Beide activeren direct en u kunt indien nodig opwaarderen.
+        Voor een korte reis dekt het 1GB/7 dagen plan ($3.99) kaarten en berichten. Als u van plan bent sociale media te gebruiken en foto's te delen, biedt het 3GB-plan ($9.99) meer ruimte. Beide activeren direct en u kunt indien nodig opwaarderen.
     - q: |
         Werkt de Frans-Guyana eSIM in landelijke gebieden en kleinere steden?
       a: |
@@ -291,47 +289,51 @@ faq_section:
         Moet ik mijn fysieke SIM verwijderen om eSIM in Frans-Guyana te gebruiken?
       a: |
         Absoluut niet. Uw fysieke SIM blijft in slot 1. De eSIM werkt ernaast in slot 2. Gebruik uw thuis-SIM voor sms en gesprekken, eSIM voor data. Meer dan 80% van de telefoons vanaf 2020 ondersteunt deze dual-opstelling.
+    - q: |
+        Wanneer kun je de Frans-Guyana eSIM het beste installeren?
+      a: |
+        Installeer de Frans-Guyana eSIM al voor vertrek met de QR-code uit je e-mail; bij aankomst zet je de lijn aan en ben je direct online.
+    - q: |
+        Kun je een Frans-Guyana eSIM eenvoudig verlengen?
+      a: |
+        De looptijd van een Frans-Guyana eSIM varieert van 3 tot 30 dagen. Verlengen kan door voor vertrek of onderweg een extra pakket te kiezen.
+    - q: |
+        Welke prijzen kun je verwachten voor een Frans-Guyana eSIM?
+      a: |
+        De tarieven voor een Frans-Guyana eSIM starten bij $3.99 en gaan tot $66.99, afhankelijk van databundel en looptijd. Er komt geen maandelijkse verplichting bij kijken.
 related_products:
   title: Gerelateerde Frans-Guyana eSIM Plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: Vanaf $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
   - name: Turkije eSIM
     flag: img/flags/tr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Frankrijk eSIM
     flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
+    price: Vanaf $1.99
+    is_highlight: true
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: China eSIM
+    flag: img/flags/cn.svg
+    price: Vanaf $1.99
+    is_highlight: false
   - name: Spanje eSIM
     flag: img/flags/es.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Duitsland eSIM
@@ -340,6 +342,14 @@ related_products:
     is_highlight: false
   - name: Australië eSIM
     flag: img/flags/au.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
 ---

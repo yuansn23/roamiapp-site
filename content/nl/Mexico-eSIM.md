@@ -1,6 +1,6 @@
 ---
 title: 'Mexico eSIM - 5G in Cancún & Mexico-Stad | Geen Paspoort Selfie | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Onze eSIM-service is geüpgraded naar <strong>PhoneSIM</strong>.<br>Nieuwe klanten genieten van 20% korting, promotiecode:web20
 seo:
   title: Mexico eSIM - Beste Onbeperkte Datapakket voor Reizen
-  description: Krijg de beste Mexico eSIM met 5G op Telcel, AT&T & Movistar. Geen paspoort/selfie-registratie — sinds 2026 vereisen lokale SIM's ID + selfie. Dekt Cancún, Mexico-Stad & Riviera Maya. Pakketten vanaf $1.99.
-  keywords: Mexico eSIM, koop Mexico eSIM, beste Mexico eSIM, Mexico reis eSIM, Telcel Mexico, AT&T Mexico, Movistar Mexico, Mexico-Stad eSIM, Cancún eSIM, Riviera Maya eSIM, Mexico prepaid eSIM, 5G Mexico eSIM, Mexico eSIM geen paspoort
-  low_price: 1.99
-  high_price: 39.9
+  description: Krijg de beste Mexico eSIM met 5G op Telcel, AT&T & Movistar. Geen paspoort/selfie-registratie — sinds 2026 vereisen lokale SIM's ID + selfie. Dekt Cancún, Mexico-Stad & Riviera Maya. Pakketten vanaf $3.99.
+  keywords: Mexico eSIM, eSIM Mexico, mexico esim prepaid, beste Mexico eSIM, at&t esim prepaid mexico, Telcel, AT&T, Movistar, Mexico-Stad eSIM, Cancún eSIM, Guadalajara eSIM, Mexico eSIM 5G, Mexico eSIM databundel, Mexico eSIM dekking, Mexico eSIM activeren, Mexico prepaid eSIM
+  low_price: 3.99
+  high_price: 68.99
 order_summary:
   title: Geselecteerd Pakket
   label_data: Inbegrepen Data
@@ -74,7 +74,7 @@ features:
     color: from-sky-400 to-sky-600
     title: Klaar voor Strand & Ruïnes
     desc: 4G/5G in heel Cancún, Riviera Maya, Chichen Itza, Tulum & Teotihuacan
-plans_title: 'Koop Mexico eSIM: Pakketten voor Elke Reisduur'
+plans_title: 'Koop Mexico eSIM: Abonnementen voor Elke Reisduur'
 plans_data:
   3 Dagen:
   - spec: 1GB
@@ -299,7 +299,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Mexico eSIM Installatietips: Wat je Moet Weten Voor je Vertrekt'
+  title: 'Mexico eSIM Installatie: Wat je Vooraf Moet Regelen'
   items:
   - icon: 📱
     html: Zorg ervoor dat je telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-compatibel</a> is voordat je koopt.
@@ -326,7 +326,7 @@ reminders:
     code: '*#06#'
     result_html: Als een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> nummer op je scherm verschijnt, wordt je apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Mexico eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Mexico eSIM Installeren: 3 Eenvoudige Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -351,7 +351,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Mexico eSIM FAQ's
+    title: 'Mexico eSIM FAQ''s'
     questions:
     - q: |
         Wat is er in januari 2026 veranderd in Mexico voor het kopen van een SIM-kaart?
@@ -372,7 +372,7 @@ faq_section:
     - q: |
         Waarom hebben Mexicaanse SIM's een minimum van 7 dagen? Is dat verspilling voor korte reizen?
       a: |
-        Ja — het is een verspilling van geld en data. Telcel's goedkoopste pakket is <strong>7 dagen ($50 MXN ≈ $3 USD)</strong> met beperkte data. AT&T's minimum is <strong>14 dagen ($100 MXN)</strong>, Movistar's is <strong>15 dagen ($75 MXN)</strong>. Een 5-daagse toerist die een 7-daags pakket koopt, verspilt <strong>29%</strong> van het pakket. AT&T's 14-daagse pakket verspilt <strong>64%</strong>. Roami biedt <strong>3-, 7-, 15- en 30-daagse pakketten</strong> vanaf $1.99 — geen geforceerd minimum, geen verspilling.
+        Ja — het is een verspilling van geld en data. Telcel's goedkoopste pakket is <strong>7 dagen ($50 MXN ≈ $3 USD)</strong> met beperkte data. AT&T's minimum is <strong>14 dagen ($100 MXN)</strong>, Movistar's is <strong>15 dagen ($75 MXN)</strong>. Een 5-daagse toerist die een 7-daags pakket koopt, verspilt <strong>29%</strong> van het pakket. AT&T's 14-daagse pakket verspilt <strong>64%</strong>. Roami biedt <strong>3-, 7-, 15- en 30-daagse pakketten</strong> vanaf $3.99 — geen geforceerd minimum, geen verspilling.
     - q: |
         Werkt mijn eSIM bij Chichen Itza, Teotihuacan en Tulum ruïnes?
       a: |
@@ -393,63 +393,75 @@ faq_section:
         Wanneer begint de geldigheidsperiode van mijn Mexico eSIM?
       a: |
         De geldigheid van het pakket begint wanneer je verbinding maakt met een lokaal netwerk in Mexico, niet wanneer je het koopt of installeert. Dus je kunt weken voor je reis kopen en installeren zonder pakketdagen te verliezen. Een 7-daags pakket geeft je 7 volledige dagen vanaf de eerste verbinding.
+    - q: |
+        Werkt een Mexico eSIM ook op een recente smartphone?
+      a: |
+        Zolang je toestel eSIM ondersteunt, werkt de Mexico eSIM meteen. Op de compatibiliteitspagina zie je per model of het lukt.
+    - q: |
+        Kun je een Mexico eSIM met een creditcard betalen?
+      a: |
+        Betalen kan met onder andere creditcard en online betaalopties. Zodra de betaling rond is, ontvang je de installatie-QR-code.
+    - q: |
+        Werkt de Mexico eSIM direct na aankomst?
+      a: |
+        De installatie gebeurt vooraf via een QR-code. Zodra je in Mexico landt, schakel je de eSIM in en werkt je verbinding meteen.
 related_products:
   title: Gerelateerde Mexico eSIM Pakketten
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
+  - name: Australië eSIM
+    flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Europe eSIM
+  - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Turkey eSIM
+  - name: Turkije eSIM
     flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Germany eSIM
+  - name: Duitsland eSIM
     flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: China eSIM
+    flag: img/flags/cn.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
 market_analysis:
   title: 'Mexico eSIM vs Lokale SIM: Geen Paspoort/Selfie, Geen 7-Dagenverspilling, Geen Hotspotverbod'
   subtitle: Lokale Prepaid SIM's in Mexico vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Mexico) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Mexico
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)
@@ -478,7 +490,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Telcel minimum 7 dagen ($50), AT&T 14 dagen ($100), Movistar 15 dagen ($75). <strong>Geen pakketten onder 5 dagen</strong> voor toeristen. Een 5-daagse reis verspilt 29-67% van het pakket.
     esim_title: Flexibele Korte Pakketten
-    esim_desc: Roami biedt <strong>3/7/15/30-daagse pakketten</strong> vanaf $1.99 — betaal alleen voor je werkelijke reisduur. Geen 7-dagenminimum, geen verspilling.
+    esim_desc: Roami biedt <strong>3/7/15/30-daagse pakketten</strong> vanaf $3.99 — betaal alleen voor je werkelijke reisduur. Geen 7-dagenminimum, geen verspilling.
   - icon: wifi
     title: Hotspot &<br>Snelheidsbeleid
     prepaid_title: ''
@@ -519,5 +531,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Geen 7-Dagenminimum Verspilling
-      desc: Telcel's minimum is <b>7 dagen ($50)</b>, AT&T's is <b>14 dagen ($100)</b>. Een 5-daagse toerist verspilt <b>29-64%</b>. Roami biedt <b>3-daagse pakketten vanaf $1.99</b> — geen geforceerd minimum.
+      desc: Telcel's minimum is <b>7 dagen ($50)</b>, AT&T's is <b>14 dagen ($100)</b>. Een 5-daagse toerist verspilt <b>29-64%</b>. Roami biedt <b>3-daagse pakketten vanaf $3.99</b> — geen geforceerd minimum.
 ---

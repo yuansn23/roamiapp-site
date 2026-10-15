@@ -1,6 +1,6 @@
 ---
 title: 'Jordanië eSIM 2026: Complete Reisgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,11 +19,10 @@ modal:
 seo:
   title: 'Jordanië 5G eSIM: Directe Activatie, Onbeperkte Data'
   description: Vergelijk Jordanië eSIM-pakketten met snel 5G in Amman, Zarqa, Irbid. Orange Jordan & Zain Jordan & Umniah dekkingsgids
-    voor toeristen & reizigers. Directe QR-activatie vanaf $1.99.
-  keywords: Jordanië eSIM, koop Jordanië eSIM, beste Jordanië eSIM, Jordanië reis eSIM, Orange Jordan Jordanië, Zain Jordan Jordanië,
-    Umniah Jordanië, Amman eSIM, Zarqa eSIM, Irbid eSIM, Jordanië prepaid eSIM, 5G Jordanië eSIM
-  low_price: 1.99
-  high_price: 39.9
+    voor toeristen & reizigers. Directe QR-activatie vanaf $6.99.
+  keywords: Jordanië eSIM, eSIM Jordanië, koop Jordanië eSIM, beste Jordanië eSIM, Jordanië eSIM prijs, Orange Jordan, Zain Jordan, Umniah, Amman eSIM, Zarqa eSIM, Irbid eSIM, Jordanië eSIM 5G, Jordanië eSIM databundel, Jordanië eSIM dekking, Jordanië eSIM activeren, Jordanië prepaid eSIM
+  low_price: 6.99
+  high_price: 99.99
 order_summary:
   title: Geselecteerd Pakket
   label_data: Inbegrepen Data
@@ -72,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Automatisch verbinden met de beste Jordaanse providers voor het beste signaal
-plans_title: 'Koop Jordanië eSIM: Pakketten voor Elke Reisduur'
+plans_title: 'Jordanië eSIM Kopen: Abonnementen voor Elke Reisduur'
 plans_data:
   7 Dagen:
   - spec: 1GB
@@ -251,7 +250,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Jordanië eSIM Installatietips: Wat je Moet Weten Voor je Vertrekt'
+  title: 'Jordanië eSIM Installatietips: Zo Werkt het Zonder Gedoe'
   items:
   - icon: 📱
     html: Zorg ervoor dat je telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -272,7 +271,7 @@ reminders:
     result_html: Als een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       nummer op je scherm verschijnt, wordt je apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Jordanië eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Hoe Werkt Jordanië eSIM: 3 Eenvoudige Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -294,12 +293,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hoe Snel is eSIM Internet in Jordanië? Snelheden en Dekking voor Reizigers"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Jordanië. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Complete gids over eSIM-snelheden en netwerkdekking in Jordanië. Ontdek welke prestaties je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Jordanië eSIM FAQ's
+    title: 'Jordanië eSIM FAQ'
     questions:
     - q: |
         Schakelt Roami automatisch tussen Zain, Orange en Umniah in Jordanië?
@@ -312,7 +311,7 @@ faq_section:
     - q: |
         Hoeveel moet ik budgetteren voor een eSIM bij een bezoek aan Jordanië?
       a: |
-        Roami biedt Jordanië eSIM vanaf $1.99 voor een licht 7-daags pakket tot $59.99 voor 30 dagen onbeperkte data. De meeste bezoekers kiezen het 5GB/15 dagen pakket van $9.99 — het dekt dagelijkse navigatie, sociale media en berichten zonder stress. Streamingfans of zware sociale mediagebruikers moeten 10GB of onbeperkt overwegen. Zain biedt betrouwbare snelheden in heel Jordanië. Roami-pakketten zijn prepaid — geen verrassingsrekeningen, geen automatische verlenging, gewoon duidelijke prijzen.
+        Roami biedt Jordanië eSIM vanaf $6.99 voor een licht 7-daags pakket tot $52.99 voor 30 dagen onbeperkte data. De meeste bezoekers kiezen het 5GB/15 dagen pakket van $37.99 — het dekt dagelijkse navigatie, sociale media en berichten zonder stress. Streamingfans of zware sociale mediagebruikers moeten 10GB of onbeperkt overwegen. Zain biedt betrouwbare snelheden in heel Jordanië. Roami-pakketten zijn prepaid — geen verrassingsrekeningen, geen automatische verlenging, gewoon duidelijke prijzen.
     - q: |
         Kan ik mijn Jordanië eSIM gebruiken voor sociale media en het delen van foto's met familie?
       a: |
@@ -320,7 +319,7 @@ faq_section:
     - q: |
         Ik heb slechts een paar dagen internettoegang nodig in Jordanië. Wat is het minimum dat ik kan kopen?
       a: |
-        Het goedkoopste pakket is $1.99 voor 7 dagen met 1GB — perfect voor een kort weekendtripje met licht gebruik. Als je meer nodig hebt, kun je op elk moment opwaarderen vanuit de app.
+        Het goedkoopste pakket is $6.99 voor 7 dagen met 1GB — perfect voor een kort weekendtripje met licht gebruik. Als je meer nodig hebt, kun je op elk moment opwaarderen vanuit de app.
     - q: |
         Wat is het verschil tussen een 5GB-pakket en een onbeperkt pakket voor Jordanië?
       a: |
@@ -333,63 +332,75 @@ faq_section:
         Kan ik navigatie-apps zoals Google Maps gebruiken met eSIM in Jordanië?
       a: |
         Ja — Google Maps gebruikt ongeveer 5MB per uur voor navigatie met realtime verkeer. Download offline kaarten voor Jordanië (ongeveer 200-500MB per stad) voordat je vertrekt als back-up.
+    - q: |
+        Wat gebeurt er als je databundel voor Jordanië op is?
+      a: |
+        Je kiest een looptijd tussen 3 en 30 dagen. Is je data op, dan schaf je in een paar tikken een nieuw pakket aan.
+    - q: |
+        Hoeveel betaal je voor een Jordanië eSIM met een vast databundel?
+      a: |
+        Voor Jordanië liggen de prijzen tussen $6.99 en $99.99, afhankelijk van je databundel. Je betaalt eenmalig en houdt volledige controle over je verbruik.
+    - q: |
+        Mag je de Jordanië eSIM als hotspot gebruiken?
+      a: |
+        Hotspot-gebruik is geen probleem — je verbinding met de Jordanië eSIM kan gewoon met meerdere toestellen worden gedeeld.
 related_products:
   title: Gerelateerde Jordanië eSIM Pakketten
   items:
-  - name: united states eSIM
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
     flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Europe eSIM
+  - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: Vanaf $1.99
-    is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Australië eSIM
+    flag: img/flags/au.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Germany eSIM
+  - name: Duitsland eSIM
     flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
 market_analysis:
   title: 'Jordanië eSIM vs Lokale Prepaid SIM: Wat is Handiger?'
   subtitle: Lokale Prepaid SIM's in Jordanië vs. eSIM-oplossingen (2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Jordanië) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Jordan
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)

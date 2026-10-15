@@ -1,6 +1,6 @@
 ---
 title: 'Griekenland eSIM - 5G in Athene & Santorini | Geen Luchthavenzoektocht | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: Griekenland eSIM - Beste Onbeperkte Data Plan voor Nomads
   description: Ontvang de beste Griekenland eSIM met 5G op Vodafone, Cosmote & Wind. Geen SIM-zoektocht op de luchthaven van Athene — directe QR-levering. Dekt Athene, Santorini, Mykonos & alle eilanden. Plannen vanaf $1.99.
-  keywords: Greece eSIM, koop Greece eSIM, beste Greece eSIM, Greece reis eSIM, Vodafone Greece, Cosmote Greece, Wind Greece, Athens eSIM, Thessaloniki eSIM, Santorini eSIM, Greece prepaid eSIM, 5G Greece eSIM, Greek islands eSIM
+  keywords: Griekenland eSIM, eSIM Griekenland, koop Griekenland eSIM, beste esim nieuw zeeland, Griekenland eSIM prijs, Vodafone, Cosmote, Wind, Athene eSIM, Thessaloniki eSIM, Heraklion eSIM, Griekenland eSIM 5G, Griekenland eSIM databundel, Griekenland eSIM dekking, Griekenland eSIM activeren, Griekenland prepaid eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -419,39 +419,55 @@ faq_section:
         Wanneer begint de geldigheidsperiode van mijn Griekenland eSIM?
       a: |
         De geldigheid van het plan begint wanneer u verbinding maakt met een lokaal netwerk in Griekenland, niet wanneer u het koopt of installeert. U kunt dus weken voor uw reis kopen en installeren zonder plandagen te verliezen. Een 7-daags plan geeft u 7 volledige dagen vanaf de eerste verbinding.
+    - q: |
+        Welke toestellen ondersteunen een Griekenland eSIM?
+      a: |
+        Bijna alle moderne toestellen met eSIM-functionaliteit ondersteunen de Griekenland eSIM. Je bestaande SIM blijft gewoon actief.
+    - q: |
+        Hoe rond je de betaling voor een Griekenland eSIM af?
+      a: |
+        De betaling voor een Griekenland eSIM verloopt online via bekende betaalmethoden; de QR-code komt meteen in je inbox.
+    - q: |
+        Wanneer kun je de Griekenland eSIM het beste installeren?
+      a: |
+        Installeer de Griekenland eSIM al voor vertrek met de QR-code uit je e-mail; bij aankomst zet je de lijn aan en ben je direct online.
 related_products:
   title: Gerelateerde Griekenland eSIM Plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: Vanaf $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
+    price: Vanaf $1.99
+    is_highlight: true
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Australië eSIM
+    flag: img/flags/au.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
     flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: China eSIM
+    flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Frankrijk eSIM
@@ -462,20 +478,16 @@ related_products:
     flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Duitsland eSIM
-    flag: img/flags/de.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Australië eSIM
-    flag: img/flags/au.svg
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
 market_analysis:
   title: 'Griekenland eSIM vs Lokale SIM: Geen Luchthavenzoektocht, Geen 12% Belasting'
   subtitle: Griekse Lokale Prepaid SIM's vs. eSIM Oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Griekenland) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Greece
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)

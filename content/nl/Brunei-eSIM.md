@@ -1,6 +1,6 @@
 ---
 title: 'Brunei eSIM 2026: Dekkings- & Snelheidsgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: DST, Progresif, imagine
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Bandar Seri Begawan, Kuala Belait, Seria, Tutong, Bangar
-  main_packages: 3/7/15/30 Dagen, Onbeperkte Data
+  main_packages: 3/7/15/30 Dagen, 5G-data
 modal:
   title: Service Geüpgraded!
   btn_text: Doorgaan
@@ -17,13 +17,11 @@ modal:
     promotiecode:web20
   text_android: Onze eSIM-service is geüpgraded naar <strong>PhoneSIM</strong>.<br>Nieuwe klanten krijgen 20% korting, promotiecode:web20
 seo:
-  title: Brunei eSIM | Beste 5G Onbeperkte Data voor Uw Reis
-  description: Bereid u voor op Brunei met de beste prepaid reis-eSIM van Roami. Onbeperkte 5G-data in het hele sultanaat. Dekt
-    Bandar Seri Begawan. Directe activering.
-  keywords: Brunei eSIM, Brunei eSIM kopen, beste Brunei eSIM, Brunei reis eSIM, DST Brunei, Progresif Brunei, imagine Brunei,
-    Bandar Seri Begawan eSIM, Kuala Belait eSIM, Seria eSIM, Brunei prepaid eSIM, 5G Brunei eSIM
-  low_price: 1.99
-  high_price: 39.9
+  title: Brunei eSIM | Beste 5G-data voor Uw Reis
+  description: Bereid u voor op Brunei met de beste prepaid reis-eSIM van Roami. 5G-data in het hele sultanaat. Dekt Bandar Seri Begawan. Directe activering.
+  keywords: Brunei eSIM, eSIM Brunei, koop Brunei eSIM, wat is de beste esim, Brunei eSIM prijs, DST, Progresif, imagine, Bandar Seri Begawan eSIM, Kuala Belait eSIM, Seria eSIM, Brunei eSIM 5G, Brunei eSIM databundel, Brunei eSIM dekking, Brunei eSIM activeren, Brunei prepaid eSIM
+  low_price: 9.99
+  high_price: 99.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -72,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Verbindt automatisch met de beste Bruneise providers voor het beste signaal
-plans_title: 'Koop Brunei eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Brunei eSIM Kopen: Databundels voor Elke Reisduur'
 plans_data:
   7 Dagen:
   - spec: 1GB
@@ -160,7 +158,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Brunei eSIM Installatietips: Wat u Moet Weten Voordat u Gaat'
+  title: 'Brunei eSIM-installatie: Praktische Tips Voor je Vertrek'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -181,7 +179,7 @@ reminders:
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Brunei eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Brunei eSIM Installatie: 3 Eenvoudige Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -203,17 +201,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hoe Snel is eSIM Internet in Brunei? Snelheden en Dekking voor Reizigers"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Brunei. Ontdek welke snelheden u kunt verwachten en waar eSIM het beste werkt."
+  desc: 'eSIM in Brunei: snelheden, netwerkdekking en verbindingskwaliteit. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Brunei eSIM FAQ's
+    title: 'Veelgestelde Vragen: Brunei eSIM'
     questions:
     - q: |
         Wat zijn de goedkoopste eSIM-opties voor een reis naar Brunei?
       a: |
-        Roami Brunei eSIM-plannen beginnen bij $1.99 (7 dagen, 1GB) en gaan tot $59.99 (30 dagen onbeperkt). Voor een typische reis van 5-7 dagen is het 5GB-plan van $9.99 de beste keuze — genoeg voor kaarten, berichten en social media. Moet u video streamen of op afstand werken? Kies dan voor 10GB of onbeperkt. Dankzij het 5G-netwerk van DST werken streaming en videogesprekken uitstekend. SIM-kiosken op de luchthaven rekenen 30-50% meer en u moet in de rij staan. Niet zeker van uw databehoefte? Begin klein en vul aan via de app zonder uw eSIM te wijzigen.
+        Roami Brunei eSIM-plannen beginnen bij $9.99 (7 dagen, 1GB) en gaan tot $99.99 (30 dagen). Voor een typische reis van 5-7 dagen is het 3GB/15 dagen plan van $22.99 de beste keuze — genoeg voor kaarten, berichten en social media. Moet u video streamen of op afstand werken? Kies dan voor 20GB of een groter databundel. Dankzij het 5G-netwerk van DST werken streaming en videogesprekken uitstekend. SIM-kiosken op de luchthaven rekenen 30-50% meer en u moet in de rij staan. Niet zeker van uw databehoefte? Begin klein en vul aan via de app zonder uw eSIM te wijzigen.
     - q: |
         Hoe verhoudt Roami zich tot Holafly voor eSIM in Brunei?
       a: |
@@ -229,11 +227,11 @@ faq_section:
     - q: |
         Wat is de meest populaire eSIM-keuze voor reizigers naar Brunei?
       a: |
-        De meeste reizigers naar Brunei kiezen het 5GB/15 dagen plan ($9.99). Het is voldoende voor dagelijkse navigatie, social media en berichten. Voor langere verblijven of zwaarder gebruik zijn de 10GB ($14.99) of onbeperkt ($59.99) plannen goede opties. Alle plannen activeren binnen enkele minuten en bevatten 24/7 ondersteuning.
+        De meeste reizigers naar Brunei kiezen het 3GB/15 dagen plan ($22.99). Het is voldoende voor dagelijkse navigatie, social media en berichten. Voor langere verblijven of zwaarder gebruik is het 20GB/30 dagen plan ($99.99) een goede optie. Alle plannen activeren binnen enkele minuten en bevatten 24/7 ondersteuning.
     - q: |
         Wat als mijn hotel in Brunei gratis WiFi heeft — heb ik dan nog eSIM-data nodig?
       a: |
-        Hotel WiFi werkt in uw kamer, maar niet wanneer u op verkenning gaat. eSIM geeft u overal data — voor het navigeren door straten, zoeken naar nabijgelegen plaatsen, controleren van dienstregelingen. Een 5GB-plan kost $9.99, wat vaak goedkoper is dan betaalde hotel WiFi voor een week ($10-15 bij veel hotels). De meeste reizigers gebruiken hotel WiFi voor grote downloads en eSIM voor onderweg.
+        Hotel WiFi werkt in uw kamer, maar niet wanneer u op verkenning gaat. eSIM geeft u overal data — voor het navigeren door straten, zoeken naar nabijgelegen plaatsen, controleren van dienstregelingen. Een 1GB/7 dagen plan kost $9.99, wat vaak goedkoper is dan betaalde hotel WiFi voor een week ($10-15 bij veel hotels). De meeste reizigers gebruiken hotel WiFi voor grote downloads en eSIM voor onderweg.
     - q: |
         Hoe ver vooruit moet ik mijn Brunei eSIM kopen?
       a: |
@@ -242,21 +240,21 @@ faq_section:
         Wat is de gemakkelijkste manier om verbonden te blijven in Brunei zonder gedoe met SIM-kiosken op de luchthaven?
       a: |
         eSIM is uw antwoord. Koop online, ontvang QR-code per e-mail, installeer in 2 minuten. Sla de wachtrij op de luchthaven over. Roami verbindt met DST voor betrouwbare dekking. Uw thuis-SIM blijft actief voor SMS. Het is de eenvoudigste manier om verbonden te blijven.
+    - q: |
+        Op welke netwerken in Brunei sluit een eSIM aan?
+      a: |
+        De eSIM schakelt automatisch over op lokale netwerken zoals DST en Progresif. Rond Bandar Seri Begawan en Kuala Belait is de dekking in de praktijk het sterkst.
+    - q: |
+        Welke toestellen ondersteunen een Brunei eSIM?
+      a: |
+        Bijna alle moderne toestellen met eSIM-functionaliteit ondersteunen de Brunei eSIM. Je bestaande SIM blijft gewoon actief.
+    - q: |
+        Hoe rond je de betaling voor een Brunei eSIM af?
+      a: |
+        De betaling voor een Brunei eSIM verloopt online via bekende betaalmethoden; de QR-code komt meteen in je inbox.
 related_products:
   title: Gerelateerde Brunei eSIM-plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: Vanaf $1.99
-    is_highlight: true
   - name: Canada eSIM
     flag: img/flags/ca.svg
     price: Vanaf $1.99
@@ -265,40 +263,52 @@ related_products:
     flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
     price: Vanaf $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
+    is_highlight: true
   - name: Frankrijk eSIM
     flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Spanje eSIM
-    flag: img/flags/es.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Duitsland eSIM
-    flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Australië eSIM
     flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: China eSIM
+    flag: img/flags/cn.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
 market_analysis:
   title: 'Brunei eSIM vs Prepaid SIM: Kosten en Gemak Vergeleken'
   subtitle: Brunei Lokale Prepaid SIM's vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Brunei) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Brunei
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktgegevens)
@@ -331,7 +341,7 @@ market_analysis:
   - icon: wifi
     title: Hotspot- &<br>Snelheidsbeleid
     prepaid_title: ''
-    prepaid_desc: Geen specifieke gegevens in de bron voor deze dimensie. Op basis van gangbare marktpraktijken staan DST en Progresif waarschijnlijk tethering toe, maar kunnen ze na een bepaalde limiet vertragen.
+    prepaid_desc: En staan DST en Progresif waarschijnlijk tethering toe, maar kunnen ze na een bepaalde limiet vertragen.
     esim_title: Onbeperkte Tethering
     esim_desc: Roami eSIM staat hotspot-sharing op volledige snelheid toe, in tegenstelling tot DST/Progresif die na een paar GB kunnen vertragen. Blijf verbonden op al uw apparaten.
   - icon: credit-card

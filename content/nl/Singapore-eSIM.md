@@ -1,6 +1,6 @@
 ---
 title: 'Singapore eSIM - 5G Eilandbrede Dekking | Geen Luchthavenrijen | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: Singapore eSIM - Beste 5G Prepaid Pakket Eilandbreed
   description: Krijg de beste Singapore eSIM met 5G eilandbreed op Singtel, StarHub & M1. Geen paspoortrijen op Changi — directe QR-levering. Perfect voor Marina Bay, Sentosa & Orchard Road. Pakketten vanaf $1.99.
-  keywords: Singapore eSIM, koop Singapore eSIM, beste Singapore eSIM, Singapore reis eSIM, Singtel Singapore, StarHub Singapore, M1 Singapore, Singapore City eSIM, Jurong East eSIM, Tampines eSIM, Singapore prepaid eSIM, 5G Singapore eSIM, Marina Bay eSIM, Sentosa eSIM
+  keywords: Singapore eSIM, eSIM Singapore, esim singapore prepaid, beste Singapore eSIM, prepaid esim singapore, Singtel, StarHub, M1, Singapore City eSIM, Jurong East eSIM, Tampines eSIM, Singapore eSIM 5G, Singapore eSIM databundel, Singapore eSIM dekking, Singapore eSIM activeren, Singapore prepaid eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 65.99
 order_summary:
   title: Geselecteerd Pakket
   label_data: Inbegrepen Data
@@ -315,7 +315,7 @@ network_coverage:
       coverage: Goede stedelijke 5G-dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Singapore eSIM Installatietips: Wat je Moet Weten Voor je Vertrekt'
+  title: 'Singapore eSIM Installatietips: Wat je Moet Weten Voordat je Gaat'
   items:
   - icon: 📶
     html: <span class="font-medium">Eilandbreed 5G:</span> Volledige dekking van Changi Airport tot Sentosa — je hebt overal sterk signaal, inclusief MRT-treinen en ondergrondse stations.
@@ -330,7 +330,7 @@ reminders:
     code: '*#06#'
     result_html: Als een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> nummer op je scherm verschijnt, wordt je apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Singapore eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Snel Singapore eSIM Installeren: 3 Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -355,7 +355,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Singapore eSIM FAQ's
+    title: 'Singapore eSIM FAQ en Tips'
     questions:
     - q: |
         Is 5G echt overal beschikbaar in Singapore? Hoe zit het met Sentosa en Changi Airport?
@@ -397,63 +397,75 @@ faq_section:
         Wanneer begint de geldigheidsperiode van mijn Singapore eSIM?
       a: |
         De geldigheid van het pakket begint wanneer je verbinding maakt met een lokaal netwerk in Singapore, niet wanneer je het koopt of installeert. Dus je kunt weken voor je reis kopen en installeren zonder pakketdagen te verliezen. Een 7-daags pakket geeft je 7 volledige dagen vanaf de eerste verbinding.
+    - q: |
+        Singapore eSIM of lokale sim: wat is handiger?
+      a: |
+        Een eSIM regel je vooraf online, terwijl een lokale sim pas ter plaatse beschikbaar is. Voor een korte reis naar Singapore is dat vaak het snelst.
+    - q: |
+        Heb je met een eSIM goed bereik in Singapore?
+      a: |
+        Je eSIM kiest zelf het beste beschikbare netwerk, waaronder Singtel en StarHub. Vooral in en rond Singapore City en Jurong East is het bereik doorgaans betrouwbaar.
+    - q: |
+        Werkt een Singapore eSIM ook op een recente smartphone?
+      a: |
+        Zolang je toestel eSIM ondersteunt, werkt de Singapore eSIM meteen. Op de compatibiliteitspagina zie je per model of het lukt.
 related_products:
   title: Gerelateerde Singapore eSIM Pakketten
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Verenigd Koninkrijk
-    flag: img/flags/gb.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: Vanaf $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
     price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Spanje eSIM
-    flag: img/flags/es.svg
-    price: Vanaf $1.99
-    is_highlight: false
+    is_highlight: true
   - name: Duitsland eSIM
     flag: img/flags/de.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Australië eSIM
     flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: Vanaf $1.99
+    is_highlight: false
 market_analysis:
   title: 'Singapore eSIM vs Lokale Prepaid SIM: Gemak vs Kosten'
   subtitle: Lokale Prepaid SIM's in Singapore vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Singapore) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Singapore
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)

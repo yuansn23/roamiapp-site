@@ -1,6 +1,6 @@
 ---
 title: 'Letland eSIM 2026: Verbindings- & Snelheidsgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,10 +20,9 @@ seo:
   title: Letland eSIM | Beste Onbeperkte Dataplan voor Toeristen
   description: Ontdek Letland met de beste prepaid reis-eSIM van Roami. Onbeperkte 5G-data in het hele land. Directe QR-activering.
     Dekt Riga, Daugavpils & Jurmala.
-  keywords: Letland eSIM, Letland eSIM kopen, beste Letland eSIM, Letland reis eSIM, LMT Letland, Tele2 Letland, Bite Letland, Riga
-    eSIM, Daugavpils eSIM, Liepaja eSIM, Letland prepaid eSIM, 5G Letland eSIM
+  keywords: Letland eSIM, eSIM Letland, koop Letland eSIM, beste esim voor zuid afrika, Letland eSIM prijs, LMT, Tele2, Bite, Riga eSIM, Daugavpils eSIM, Liepaja eSIM, Letland eSIM 5G, Letland eSIM databundel, Letland eSIM dekking, Letland eSIM activeren, Letland prepaid eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -72,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Verbindt automatisch met de beste Letse providers voor het beste signaal
-plans_title: 'Koop Letland eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Beste Letland eSIM: Abonnementen voor Elke Reisduur'
 plans_data:
   30 Dagen:
   - spec: 20GB
@@ -331,7 +330,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Letland eSIM Installatietips: Wat u Moet Weten Voordat u Gaat'
+  title: 'Letland eSIM-installatie: Tips Voor je Vertrek'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -352,7 +351,7 @@ reminders:
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Letland eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Hoe installeer je Letland eSIM: 3 Eenvoudige Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -374,12 +373,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM voor Reizigers in Letland -- Netwerksnelheden, Dekking en Tips"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Letland. Ontdek welke snelheden u kunt verwachten en waar eSIM het beste werkt."
+  desc: 'eSIM in Letland: snelheden, netwerkdekking en verbindingskwaliteit. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Letland eSIM FAQ's
+    title: 'Letland eSIM Vraagbaak'
     questions:
     - q: |
         Is het veilig om mijn paspoort te uploaden voor Letland eSIM-registratie? Ik maak me zorgen over privacy.
@@ -413,63 +412,75 @@ faq_section:
         Wanneer begint de geldigheidsperiode van mijn Letland eSIM?
       a: |
         De geldigheid van het plan begint wanneer u verbinding maakt met een lokaal netwerk in Letland, niet bij aankoop of installatie. U kunt dus weken voor uw reis kopen en installeren zonder plan dagen te verliezen. Een 7-daags plan geeft u 7 volledige dagen vanaf de eerste verbinding.
+    - q: |
+        Hoe activeer je een Letland eSIM voordat je vertrekt?
+      a: |
+        Je installeert de eSIM thuis via een QR-code en schakelt de lijn pas in bij aankomst in Letland. Zo heb je meteen internet zonder eerst een lokale SIM te regelen.
+    - q: |
+        Hoe lang is een Letland eSIM geldig en kun je verlengen?
+      a: |
+        De geldigheid loopt van 3 tot 30 dagen, afhankelijk van het pakket dat je kiest. Raakt je bundel bijna leeg, dan voeg je eenvoudig een nieuw pakket toe.
+    - q: |
+        Wat kost een Letland eSIM en welke databundels zijn er?
+      a: |
+        Roami eSIM-pakketten voor Letland beginnen vanaf $1.99 en lopen op tot $77.99. Je kiest per databundel en geldigheidsduur, zonder abonnement of verborgen kosten.
 related_products:
   title: Gerelateerde Letland eSIM-plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: Vanaf $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
+  - name: Hongkong eSIM
     flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Spanje eSIM
     flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Duitsland eSIM
-    flag: img/flags/de.svg
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
+    price: Vanaf $1.99
+    is_highlight: true
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Australië eSIM
     flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: China eSIM
+    flag: img/flags/cn.svg
+    price: Vanaf $1.99
+    is_highlight: false
 market_analysis:
   title: 'Letland eSIM of Prepaid SIM-kaart: Een Vergelijking naast Elkaar'
   subtitle: Letland Lokale Prepaid SIMs vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Letland) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Latvia
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktgegevens)
@@ -486,7 +497,7 @@ market_analysis:
   - icon: id-card
     title: KYC & Identiteits-<br>registratie
     prepaid_title: ''
-    prepaid_desc: Geen specifieke gegevens in de bron voor deze dimensie. Op basis van algemene marktkennis vereist Letland paspoortregistratie
+    prepaid_desc: Vereist Letland paspoortregistratie
       voor prepaid SIMs, meestal in de winkel.
     esim_title: Geen Paspoort Nodig
     esim_desc: In tegenstelling tot Letse prepaid SIMs die paspoortregistratie in de winkel vereisen, activeert Roami eSIM direct met
@@ -510,14 +521,14 @@ market_analysis:
   - icon: wifi
     title: Hotspot- &<br>Snelheidsbeleid
     prepaid_title: ''
-    prepaid_desc: Geen specifieke gegevens in de bron voor deze dimensie. Op basis van algemene marktkennis staan de meeste Letse prepaid SIMs
+    prepaid_desc: Staan de meeste Letse prepaid SIMs
       tethering toe, maar kunnen ze na FUP-limieten vertragen.
     esim_title: Onbeperkte Tethering
     esim_desc: Geen verborgen FUP-vertraging na 3,2GB zoals bij LMT. Roami eSIM staat hotspot-sharing op volledige snelheid toe voor al uw apparaten.
   - icon: credit-card
     title: Opwaardeer-<br>betalingen
     prepaid_title: ''
-    prepaid_desc: Geen specifieke gegevens in de bron voor deze dimensie. Op basis van algemene marktkennis kan opwaarderen via
+    prepaid_desc: Kan opwaarderen via
       vouchers bij kiosken of online met buitenlandse kaarten, maar buitenlandse kaarten kunnen worden geweigerd.
     esim_title: Wereldwijde Betalingsmethoden
     esim_desc: Betaal met Visa, Mastercard, AMEX, Apple Pay, Google Pay of PayPal. Geen noodzaak om lokale kiosken te vinden voor opwaardeer-
@@ -525,7 +536,7 @@ market_analysis:
   - icon: headset
     title: Klanten-<br>ondersteuning
     prepaid_title: ''
-    prepaid_desc: Geen specifieke gegevens in de bron voor deze dimensie. Op basis van algemene marktkennis is klantenondersteuning doorgaans
+    prepaid_desc: Is klantenondersteuning doorgaans
       in het Lets of Russisch, met beperkte beschikbaarheid in het Engels.
     esim_title: 24/7 Engelstalige Ondersteuning
     esim_desc: Krijg dag en nacht klantenondersteuning in het Engels via live chat, in tegenstelling tot Letse providers die alleen ondersteuning

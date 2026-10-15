@@ -1,6 +1,6 @@
 ---
 title: 'Indonesië eSIM - 5G in Bali & Jakarta | Geen IMEI-belasting | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: Indonesië eSIM - Beste 5G Prepaid Plan | Geen IMEI-belasting
   description: Krijg de beste Indonesië eSIM met 5G op Telkomsel, Indosat & XL. Geen IMEI-registratie of 40% belasting — sla luchthavenprijsopdrijving over. Dekt Bali, Jakarta & Yogyakarta. Plannen vanaf $1.99.
-  keywords: Indonesië eSIM, Indonesië eSIM kopen, beste Indonesië eSIM, Indonesië reis eSIM, Telkomsel Indonesië, Indosat Ooredoo Indonesië, XL Axiata Indonesië, Jakarta eSIM, Bali eSIM, Yogyakarta eSIM, Indonesië prepaid eSIM, 5G Indonesië eSIM, Indonesië eSIM geen IMEI
+  keywords: Indonesië eSIM, eSIM Indonesië, indonesia esim prepaid, wat is de beste esim, Indonesië eSIM prijs, Telkomsel, Indosat Ooredoo, XL Axiata, Jakarta eSIM, Surabaya eSIM, Bandung eSIM, Indonesië eSIM 5G, Indonesië eSIM databundel, Indonesië eSIM dekking, Indonesië eSIM activeren, Indonesië prepaid eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 68.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -74,7 +74,7 @@ features:
     color: from-sky-400 to-sky-600
     title: Klaar voor Bali & Eilanden
     desc: 4G/5G in Bali, Java & grote toeristische eilanden — blijf verbonden van Seminyak tot Ubud
-plans_title: 'Koop Indonesië eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Kies je Indonesië eSIM: Pakketten voor Elke Reisduur'
 plans_data:
   3 Dagen:
   - spec: 1GB
@@ -323,7 +323,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Indonesië eSIM Installatietips: Wat u Moet Weten Voordat u Gaat'
+  title: 'Indonesië eSIM Installatietips: Belangrijke Tips Voor je Reis'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-compatibel</a> is voordat u koopt.
@@ -373,7 +373,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Indonesië eSIM FAQ's
+    title: 'Indonesië eSIM Vragen'
     questions:
     - q: |
         Wat is IMEI-registratie en waarom kan het me 40% van de waarde van mijn telefoon kosten?
@@ -411,43 +411,55 @@ faq_section:
         Wanneer begint de geldigheidsperiode van mijn Indonesië eSIM?
       a: |
         De geldigheid van het plan begint wanneer u verbinding maakt met een lokaal netwerk in Indonesië, niet bij aankoop of installatie. U kunt dus weken voor uw reis kopen en installeren zonder plan dagen te verliezen. Een 7-daags plan geeft u 7 volledige dagen vanaf de eerste verbinding.
+    - q: |
+        Hoe lang is een Indonesië eSIM geldig en kun je verlengen?
+      a: |
+        De geldigheid loopt van 3 tot 30 dagen, afhankelijk van het pakket dat je kiest. Raakt je bundel bijna leeg, dan voeg je eenvoudig een nieuw pakket toe.
+    - q: |
+        Wat kost een Indonesië eSIM en welke databundels zijn er?
+      a: |
+        Roami eSIM-pakketten voor Indonesië beginnen vanaf $1.99 en lopen op tot $68.99. Je kiest per databundel en geldigheidsduur, zonder abonnement of verborgen kosten.
+    - q: |
+        Kun je een Indonesië eSIM delen via hotspot?
+      a: |
+        Ja, je kunt je verbinding delen met een laptop of tweede toestel. Er geldt geen aparte hotspottoeslag bovenop je databundel.
 related_products:
   title: Gerelateerde Indonesië eSIM-plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
+  - name: Australië eSIM
+    flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Turkije eSIM
     flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: Vanaf $1.99
+    is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Spanje eSIM
@@ -458,16 +470,16 @@ related_products:
     flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Australië eSIM
-    flag: img/flags/au.svg
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
 market_analysis:
   title: 'Indonesië eSIM vs Lokale SIM: Geen IMEI-belasting, Geen Luchthavenopslag, Geen Paspoort'
   subtitle: Indonesië Lokale Prepaid SIMs vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Indonesië) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Indonesia
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktgegevens)

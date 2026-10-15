@@ -1,6 +1,6 @@
 ---
 title: 'Servië eSIM 2026: Dekking & Snelheidsgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,10 +20,9 @@ seo:
   title: Servië eSIM | Onbeperkte Prepaid Data voor Ontdekkingsreizigers
   description: Blijf verbonden in Servië met Roami's beste prepaid reis eSIM. Onbeperkte 5G-data landelijk. Directe QR-activatie.
     Dekt Belgrado, Novi Sad & Nis.
-  keywords: Servië eSIM, koop Servië eSIM, beste Servië eSIM, Servië reis eSIM, Telenor Serbia Servië, Telekom Srbija Servië,
-    A1 Srbija Servië, Belgrado eSIM, Novi Sad eSIM, Niš eSIM, Servië prepaid eSIM, 5G Servië eSIM
+  keywords: Servië eSIM, eSIM Servië, koop Servië eSIM, wat is de beste esim, Servië eSIM prijs, Telenor Serbia, Telekom Srbija, A1 Srbija, Belgrado eSIM, Novi Sad eSIM, Niš eSIM, Servië eSIM 5G, Servië eSIM databundel, Servië eSIM dekking, Servië eSIM activeren, Servië prepaid eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 89.99
 order_summary:
   title: Geselecteerd Pakket
   label_data: Inbegrepen Data
@@ -72,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Automatisch verbinden met de beste Servische providers voor het beste signaal
-plans_title: 'Koop Servië eSIM: Pakketten voor Elke Reisduur'
+plans_title: 'Servië eSIM-abonnementen: Voor Elke Reisduur'
 plans_data:
   7 Dagen:
   - spec: Onbeperkt
@@ -336,7 +335,7 @@ reminders:
     result_html: Als een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       nummer op je scherm verschijnt, wordt je apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Servië eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Servië eSIM Activeren: 3 Eenvoudige Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -358,17 +357,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Online Komen in Servië -- eSIM Netwerkkwaliteit en Snelheidsgids"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Servië. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Complete gids: eSIM-snelheden, netwerkdekking en verbindingskwaliteit in Servië. Ontdek welke snelheden je kunt verwachten.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Servië eSIM FAQ's
+    title: 'Servië eSIM Vragen en Antwoorden'
     questions:
     - q: |
         Kan ik een eSIM voor Servië krijgen zonder te veel uit te geven?
       a: |
-        Absoluut. Roami's Servië eSIM-pakketten beginnen vanaf slechts $1.99. De 5GB/15 dagen optie ($9.99) is het populairst onder reizigers — het verwerkt comfortabel kaarten, WhatsApp, Instagram en e-mail. Als je een zware datagebruiker bent, geven de 10GB ($14.99) of onbeperkt ($59.99) pakketten je gemoedsrust. Het overslaan van de SIM-balie op de luchthaven bespaart je 30-50% en het gedoe van in de rij staan. Moet je aanpassen? Je kunt op elk moment opwaarderen vanuit de Roami-app.
+        Absoluut. Roami's Servië eSIM-pakketten beginnen vanaf slechts $1.99. De 5GB/15 dagen optie ($8.99) is het populairst onder reizigers — het verwerkt comfortabel kaarten, WhatsApp, Instagram en e-mail. Als je een zware datagebruiker bent, geven de 10GB ($14.99) of onbeperkt ($9.99) pakketten je gemoedsrust. Het overslaan van de SIM-balie op de luchthaven bespaart je 30-50% en het gedoe van in de rij staan. Moet je aanpassen? Je kunt op elk moment opwaarderen vanuit de Roami-app.
     - q: |
         Heb ik een paspoort of ID nodig om eSIM in Servië te gebruiken? Hoe werkt de verificatie?
       a: |
@@ -397,55 +396,67 @@ faq_section:
         Hoeveel eSIM-profielen kan ik op mijn telefoon opslaan voor reizen naar Servië?
       a: |
         De meeste telefoons slaan 5-10 eSIM-profielen op. Je kunt je Servië eSIM naast je thuis-SIM en andere landprofielen bewaren. Activeer gewoon degene die je nodig hebt en deactiveer de andere. Wisselen tussen hen duurt ongeveer 10 seconden in je telefooninstellingen.
+    - q: |
+        Wat gebeurt er als je databundel voor Servië op is?
+      a: |
+        Je kiest een looptijd tussen 3 en 30 dagen. Is je data op, dan schaf je in een paar tikken een nieuw pakket aan.
+    - q: |
+        Hoeveel betaal je voor een Servië eSIM met een vast databundel?
+      a: |
+        Voor Servië liggen de prijzen tussen $1.99 en $89.99, afhankelijk van je databundel. Je betaalt eenmalig en houdt volledige controle over je verbruik.
+    - q: |
+        Mag je de Servië eSIM als hotspot gebruiken?
+      a: |
+        Hotspot-gebruik is geen probleem — je verbinding met de Servië eSIM kan gewoon met meerdere toestellen worden gedeeld.
 related_products:
   title: Gerelateerde eSIM Pakketten
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
+  - name: Australië eSIM
+    flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Europe eSIM
+  - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Spain eSIM
+  - name: Spanje eSIM
     flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Germany eSIM
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Duitsland eSIM
     flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
 ---

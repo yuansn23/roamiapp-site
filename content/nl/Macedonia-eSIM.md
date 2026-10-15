@@ -1,6 +1,6 @@
 ---
 title: 'Noord-Macedonië eSIM 2026: Stads- & Netwerkgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,14 +17,12 @@ modal:
     promotiecode:web20
   text_android: Onze eSIM-service is geüpgraded naar <strong>PhoneSIM</strong>.<br>Nieuwe klanten genieten van 20% korting, promotiecode:web20
 seo:
-  title: 'Noord-Macedonië eSIM vanaf $1.99: Onbeperkte 5G-dekking'
+  title: 'Noord-Macedonië eSIM vanaf $4.99: Onbeperkte 5G-dekking'
   description: Vergelijk Noord-Macedonië eSIM-plannen met snel 5G in Skopje, Ohrid, Bitola. A1 Macedonia & Telekom Macedonia & Lycamobile
-    dekkingsgids voor toeristen & reizigers. Directe QR-activering vanaf $1.99.
-  keywords: Macedonia eSIM, koop Macedonia eSIM, beste Macedonia eSIM, Macedonia reis eSIM, A1 Macedonia Macedonia, Telekom
-    Macedonia Macedonia, Lycamobile Macedonia, Skopje eSIM, Ohrid eSIM, Bitola eSIM, Macedonia prepaid eSIM, 5G Macedonia
-    eSIM
-  low_price: 1.99
-  high_price: 39.9
+    dekkingsgids voor toeristen & reizigers. Directe QR-activering vanaf $4.99.
+  keywords: Noord-Macedonië eSIM, eSIM Noord-Macedonië, koop Noord-Macedonië eSIM, beste Noord-Macedonië eSIM, Noord-Macedonië eSIM prijs, A1 Macedonia, Telekom Macedonia, Lycamobile, Skopje eSIM, Ohrid eSIM, Bitola eSIM, Noord-Macedonië eSIM 5G, Noord-Macedonië eSIM databundel, Noord-Macedonië eSIM dekking, Noord-Macedonië eSIM activeren, Noord-Macedonië prepaid eSIM
+  low_price: 4.99
+  high_price: 94.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -246,7 +244,7 @@ faq_section:
     - q: |
         Wat is inbegrepen wanneer ik een Noord-Macedonië eSIM van Roami koop?
       a: |
-        QR-codelevering binnen 5 minuten, toegang tot het netwerk van Makedonski Telekom, 24/7 klantenondersteuning en gratis hotspot voor maximaal 5 apparaten. Plannen beginnen bij $1.99. Geen contracten, geen verborgen kosten, geen automatische verlenging.
+        QR-codelevering binnen 5 minuten, toegang tot het netwerk van Makedonski Telekom, 24/7 klantenondersteuning en gratis hotspot voor maximaal 5 apparaten. Plannen beginnen bij $4.99. Geen contracten, geen verborgen kosten, geen automatische verlenging.
     - q: |
         Wat is de gemakkelijkste manier om verbonden te blijven in Noord-Macedonië zonder te maken te hebben met SIM-kiosken op de luchthaven?
       a: |
@@ -267,55 +265,67 @@ faq_section:
         Wat gebeurt er als ik al mijn data in Noord-Macedonië heb gebruikt voordat mijn plan verloopt?
       a: |
         Waardeer op via de Roami-app. Nieuwe data activeert onmiddellijk — geen nieuwe QR-code, geen herinstallatie. We raden aan om op te waarderen wanneer u nog ongeveer 20% over hebt om onderbreking te voorkomen.
+    - q: |
+        Is je telefoon compatibel met een Noord-Macedonië eSIM?
+      a: |
+        De meeste recente smartphones met eSIM-ondersteuning werken direct, naast je eigen SIM. Twijfel je? Controleer dan de compatibiliteitspagina van je toestel.
+    - q: |
+        Met welke betaalmethoden kun je een Noord-Macedonië eSIM kopen?
+      a: |
+        Je rekent veilig af met gangbare betaalmethoden zoals creditcard en digitale wallets. Na betaling ontvang je de QR-code direct per e-mail.
+    - q: |
+        Hoe activeer je een Noord-Macedonië eSIM voordat je vertrekt?
+      a: |
+        Je installeert de eSIM thuis via een QR-code en schakelt de lijn pas in bij aankomst in Noord-Macedonië. Zo heb je meteen internet zonder eerst een lokale SIM te regelen.
 related_products:
   title: Gerelateerde eSIM Plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: Vanaf $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
+  - name: Australië eSIM
+    flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
+    price: Vanaf $1.99
+    is_highlight: true
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Frankrijk eSIM
     flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Spanje eSIM
-    flag: img/flags/es.svg
-    price: Vanaf $1.99
-    is_highlight: false
   - name: Duitsland eSIM
     flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Australië eSIM
-    flag: img/flags/au.svg
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
 ---

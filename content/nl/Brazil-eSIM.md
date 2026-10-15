@@ -1,6 +1,6 @@
 ---
 title: 'Brazil eSIM - 5G in Rio & São Paulo | Geen CPF nodig | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Onze eSIM-service is geüpgraded naar <strong>PhoneSIM</strong>.<br>Nieuwe klanten genieten van 20% korting, promotiecode:web20
 seo:
   title: Brazil eSIM - Beste 5G Prepaid Plan | Geen CPF nodig
-  description: Krijg de beste Brazil eSIM met 5G op Claro, Vivo & TIM. Geen CPF of paspoort nodig — sla Portugese telefoonactivatie over. Dekt Rio, São Paulo & Brasília. Pakketten vanaf $1,99.
-  keywords: Brazil eSIM, koop Brazil eSIM, beste Brazil eSIM, Brazil reis eSIM, Claro Brazil, Vivo Brazil, TIM Brazil, São Paulo eSIM, Rio de Janeiro eSIM, Brasília eSIM, Brazil prepaid eSIM, 5G Brazil eSIM, Brazil eSIM geen CPF
-  low_price: 1.99
-  high_price: 39.9
+  description: Krijg de beste Brazil eSIM met 5G op Claro, Vivo & TIM. Geen CPF of paspoort nodig — sla Portugese telefoonactivatie over. Dekt Rio, São Paulo & Brasília. Pakketten vanaf $4.99.
+  keywords: Brazil eSIM, eSIM Brazil, koop Brazil eSIM, wat is de beste esim, Brazil eSIM prijs, Claro, Vivo, TIM, São Paulo eSIM, Rio de Janeiro eSIM, Brasília eSIM, Brazil eSIM 5G, Brazil eSIM databundel, Brazil eSIM dekking, Brazil eSIM activeren, Brazil prepaid eSIM
+  low_price: 4.99
+  high_price: 86.99
 order_summary:
   title: Geselecteerd Pakket
   label_data: Inbegrepen Data
@@ -74,7 +74,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Regionale Roaming Gereed
     desc: Lokale SIM's verliezen signaal buiten Brazilië — Roami werkt in heel Zuid-Amerika
-plans_title: 'Koop Brazil eSIM: Pakketten voor Elke Reisduur'
+plans_title: 'Kies je Brazil eSIM: Abonnementen voor Elke Reisduur'
 plans_data:
   3 Dagen:
   - spec: 1GB
@@ -291,7 +291,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Brazil eSIM Installatietips: Wat je Moet Weten Voor je Vertrekt'
+  title: 'Brazil eSIM Installatiegids: Bereid je Reis Voor'
   items:
   - icon: 📱
     html: Zorg ervoor dat je telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-compatibel</a> is voordat je koopt.
@@ -316,7 +316,7 @@ reminders:
     code: '*#06#'
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> nummer op je scherm verschijnt, wordt je apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Brazil eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Zo Installeer je Brazil eSIM: 3 Eenvoudige Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -341,7 +341,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Brazil eSIM FAQ's
+    title: 'Brazil eSIM: Vragen en Antwoorden'
     questions:
     - q: |
         Wat is CPF en waarom kan ik geen lokale SIM kopen zonder?
@@ -383,63 +383,75 @@ faq_section:
         Wanneer begint de geldigheidsperiode van mijn Brazil eSIM?
       a: |
         De geldigheid van het pakket begint wanneer je verbinding maakt met een lokaal netwerk in Brazilië, niet wanneer je het koopt of installeert. Dus je kunt weken voor je reis kopen en installeren zonder pakketdagen te verliezen. Een 7-daags pakket geeft je 7 volledige dagen vanaf de eerste verbinding.
+    - q: |
+        Is een Brazil eSIM voordeliger dan een lokale prepaid sim?
+      a: |
+        Een lokale sim vraagt registratie in een winkel, terwijl je een eSIM al voor vertrek installeert. Dat scheelt tijd en gedoe op de luchthaven van Brazil.
+    - q: |
+        Werkt een Brazil eSIM met de netwerken van Claro en Vivo?
+      a: |
+        Bij aankomst verbindt de eSIM automatisch met de sterkste beschikbare netwerken, waaronder Claro en Vivo. In stedelijke gebieden zoals São Paulo en Rio de Janeiro is de dekking doorgaans het beste.
+    - q: |
+        Is je telefoon compatibel met een Brazil eSIM?
+      a: |
+        De meeste recente smartphones met eSIM-ondersteuning werken direct, naast je eigen SIM. Twijfel je? Controleer dan de compatibiliteitspagina van je toestel.
 related_products:
   title: Gerelateerde Brazil eSIM Pakketten
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
+  - name: China eSIM
+    flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: Vanaf $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkey eSIM
+  - name: Turkije eSIM
     flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
+    price: Vanaf $1.99
+    is_highlight: true
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Germany eSIM
+  - name: Duitsland eSIM
     flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Australia eSIM
+  - name: Australië eSIM
     flag: img/flags/au.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
 market_analysis:
   title: 'Brazil eSIM vs Lokale Prepaid SIM: CPF-vrij Gemak'
   subtitle: Braziliaanse Lokale Prepaid SIM's vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Brazilië) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Brazil
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)

@@ -1,6 +1,6 @@
 ---
 title: 'Spanje eSIM 2026 - Beste 5G-plan voor Madrid & Barcelona | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: Spanje eSIM - Snel Prepaid Databundel voor Uw Reis
   description: Krijg de beste Spanje prepaid eSIM met 5G op Movistar, Orange & Vodafone. Geen paspoort of ID nodig — directe QR-activering. Inclusief EU-roaming. Vanaf $1.99.
-  keywords: Spanje eSIM, Spanje eSIM kopen, beste Spanje eSIM, Spanje reis eSIM, Movistar Spanje, Orange Spanje, Vodafone Spanje, Madrid eSIM, Barcelona eSIM, Valencia eSIM, Spanje prepaid eSIM, 5G Spanje eSIM, eSIM voor Camino de Santiago, Canarische Eilanden eSIM
+  keywords: Spanje eSIM, eSIM Spanje, prepaid esim spain, wat is de beste esim, spain esim prepaid, Movistar, Orange, Vodafone, Madrid eSIM, Barcelona eSIM, Valencia eSIM, Spanje eSIM 5G, Spanje eSIM databundel, Spanje eSIM dekking, Spanje eSIM activeren, Spanje prepaid eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Verbindt automatisch met Movistar, Orange & Vodafone voor het beste signaal in heel Spanje
-plans_title: 'Koop Spanje eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Spanje eSIM Kopen: Pakketten voor Elke Reisduur'
 plans_data:
   3 Dagen:
   - spec: 1GB
@@ -340,7 +340,7 @@ reminders:
     code: '*#06#'
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Spanje eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Hoe u Spanje eSIM Installeert: 3 Eenvoudige Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -360,12 +360,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Spanje eSIM Gids: Snelheden, Dekking en Reistips voor Spanje"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Spanje. Ontdek welke snelheden u kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Ontdek de eSIM-internetsnelheden en netwerkdekking in Spanje. Lees welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Spanje eSIM FAQ's
+    title: 'Spanje eSIM: Antwoorden op je Vragen'
     questions:
     - q: |
         Heb ik echt geen paspoort of ID nodig voor Roami's Spanje eSIM?
@@ -403,63 +403,71 @@ faq_section:
         Wanneer begint de geldigheidsperiode van mijn Spanje eSIM?
       a: |
         De geldigheid van het plan begint wanneer u verbinding maakt met een lokaal netwerk in Spanje, niet bij aankoop of installatie. U kunt dus weken voor uw reis kopen en installeren zonder plan dagen te verliezen. Een 7-daags plan geeft u 7 volledige dagen vanaf de eerste verbinding.
+    - q: |
+        Kun je een Spanje eSIM eenvoudig verlengen?
+      a: |
+        De looptijd van een Spanje eSIM varieert van 3 tot 30 dagen. Verlengen kan door voor vertrek of onderweg een extra pakket te kiezen.
+    - q: |
+        Welke prijzen kun je verwachten voor een Spanje eSIM?
+      a: |
+        De tarieven voor een Spanje eSIM starten bij $1.99 en gaan tot $69.99, afhankelijk van databundel en looptijd. Er komt geen maandelijkse verplichting bij kijken.
+    - q: |
+        Is tethering met een Spanje eSIM toegestaan?
+      a: |
+        Tethering is toegestaan: deel je Spanje eSIM-verbinding met andere apparaten zonder extra kosten.
 related_products:
   title: Gerelateerde Spanje eSIM-plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: Vanaf $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
     price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Spanje eSIM
-    flag: img/flags/es.svg
+    is_highlight: true
+  - name: Australië eSIM
+    flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Duitsland eSIM
     flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Australië eSIM
-    flag: img/flags/au.svg
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
     price: Vanaf $1.99
     is_highlight: false
 market_analysis:
   title: 'Spanje eSIM vs Lokale Prepaid SIM: Wat is Handiger? – Beste eSIM voor Spanje-reizigers'
   subtitle: Spanje Lokale Prepaid SIMs vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Spanje) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Spain
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktgegevens)

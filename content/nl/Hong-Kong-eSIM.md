@@ -1,6 +1,6 @@
 ---
 title: 'Hongkong eSIM 2026 - Beste 5G-pakket voor Victoria Harbour | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: Hongkong eSIM - Beste 5G Datapakket voor Je Reis
   description: Krijg de beste Hongkong prepaid eSIM met 5G op CSL, SmarTone & CMHK. Geen registratie of ID nodig — directe QR-activatie. Geen 30-dagenverspilling. Vanaf $1.99.
-  keywords: Hongkong eSIM, koop Hongkong eSIM, beste Hongkong eSIM, Hongkong reis eSIM, CSL Hongkong, SmarTone Hongkong, China Mobile Hongkong, Hong Kong Island eSIM, Kowloon eSIM, Tsuen Wan eSIM, Hongkong prepaid eSIM, 5G Hongkong eSIM, Disneyland Hongkong eSIM, Victoria Harbour eSIM
+  keywords: Hongkong eSIM, eSIM Hongkong, prepaid sim hong kong, wat is de beste esim, sim only prepaid esim, CSL, SmarTone, China Mobile Hong Kong, Hong Kong Island eSIM, Kowloon eSIM, Tsuen Wan eSIM, Hongkong eSIM 5G, Hongkong eSIM databundel, Hongkong eSIM dekking, Hongkong eSIM activeren, Hongkong prepaid eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 57.99
 order_summary:
   title: Geselecteerd Pakket
   label_data: Inbegrepen Data
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Automatisch verbinden met CSL, SmarTone & CMHK voor het beste signaal in heel Hongkong
-plans_title: 'Koop Hongkong eSIM: Pakketten voor Elke Reisduur'
+plans_title: 'Vergelijk Hongkong eSIM: Pakketten voor Elke Reisduur'
 plans_data:
   3 Dagen:
   - spec: 1GB
@@ -311,7 +311,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Hongkong eSIM Installatietips: Wat je Moet Weten Voor je Vertrekt'
+  title: 'Hongkong eSIM Installatietips: Zo Ga je Goed Voorbereid op Reis'
   items:
   - icon: 📱
     html: Zorg ervoor dat je telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-compatibel</a> is voordat je koopt.
@@ -332,7 +332,7 @@ reminders:
     code: '*#06#'
     result_html: Als een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> nummer op je scherm verschijnt, wordt je apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Hongkong eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Hongkong eSIM Stap voor Stap Installeren'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -352,12 +352,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hongkong eSIM Gids: Snelheden, Dekking en Reistips voor Hongkong"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Hongkong. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Complete gids over eSIM-internetsnelheden en verbindingskwaliteit voor reizigers in Hongkong. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Hongkong eSIM FAQ's
+    title: 'Veelgestelde Vragen over Hongkong eSIM'
     questions:
     - q: |
         Wat is Hongkong's verplichte SIM-registratie (KYC) — en moet ik dat doen voor Roami?
@@ -395,63 +395,71 @@ faq_section:
         Kan ik mijn Hongkong eSIM opwaarderen als ik door mijn data heen ben?
       a: |
         Ja — je kunt op elk moment opwaarderen via je Roami-account. In tegenstelling tot Hongkong prepaid SIM's met complexe opwaarderingsprocessen (CMHK's online systeem accepteert alleen UnionPay-kaarten uitgegeven op het vasteland), accepteert Roami wereldwijde betaalmethoden. Geen nieuwe SIM kopen of een 7-Eleven vinden voor een opwaarderingsvoucher.
+    - q: |
+        Heb je met een eSIM goed bereik in Hongkong?
+      a: |
+        Je eSIM kiest zelf het beste beschikbare netwerk, waaronder CSL en SmarTone. Vooral in en rond Hong Kong Island en Kowloon is het bereik doorgaans betrouwbaar.
+    - q: |
+        Werkt een Hongkong eSIM ook op een recente smartphone?
+      a: |
+        Zolang je toestel eSIM ondersteunt, werkt de Hongkong eSIM meteen. Op de compatibiliteitspagina zie je per model of het lukt.
+    - q: |
+        Kun je een Hongkong eSIM met een creditcard betalen?
+      a: |
+        Betalen kan met onder andere creditcard en online betaalopties. Zodra de betaling rond is, ontvang je de installatie-QR-code.
 related_products:
   title: Gerelateerde Hongkong eSIM Pakketten
   items:
-  - name: united states eSIM
+  - name: Verenigde Staten eSIM
     flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Europe eSIM
+  - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: Australië eSIM
+    flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: France eSIM
+  - name: Frankrijk eSIM
     flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Spain eSIM
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Spanje eSIM
     flag: img/flags/es.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
 market_analysis:
   title: 'Hongkong eSIM vs Lokale Prepaid SIM: Wat is Handiger?'
   subtitle: Lokale Prepaid SIM's in Hongkong vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Hongkong) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Hong-Kong
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)

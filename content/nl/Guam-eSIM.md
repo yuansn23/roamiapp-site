@@ -1,6 +1,6 @@
 ---
 title: 'Guam eSIM 2026: Plan- & Dekkingsgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,10 +20,9 @@ seo:
   title: Guam eSIM | Snel Prepaid Data Plan voor Uw Verblijf
   description: Ga direct online op Guam. Onbeperkte 5G-data met directe activering. Dekt Hagatna, Tumon & Dededo. Directe
     activering Koop uw plan online vandaag.
-  keywords: Guam eSIM, koop Guam eSIM, beste Guam eSIM, Guam reis eSIM, DOCOMO Pacific Guam, IT&E Guam, GTA Guam, Hagåtña
-    eSIM, Tamuning eSIM, Dededo eSIM, Guam prepaid eSIM, 5G Guam eSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: Guam eSIM, eSIM Guam, koop Guam eSIM, wat is de beste esim, Guam eSIM prijs, DOCOMO Pacific, IT&E, GTA, Hagåtña eSIM, Tamuning eSIM, Dededo eSIM, Guam eSIM 5G, Guam eSIM databundel, Guam eSIM dekking, Guam eSIM activeren, Guam prepaid eSIM
+  low_price: 9.99
+  high_price: 88.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -72,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Maakt automatisch verbinding met de beste Guamese providers voor het beste signaal
-plans_title: 'Koop Guam eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Koop Guam eSIM: Voordelige Plannen voor Elke Reisduur'
 plans_data:
   30 Dagen:
   - spec: 3GB
@@ -176,7 +175,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Guam eSIM Installatietips: Wat u Moet Weten Voor u Gaat'
+  title: 'Guam eSIM Installatietips: Alles Wat je Moet Weten Voor je Vertrekt'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -197,7 +196,7 @@ reminders:
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe u Guam eSIM Installeert: 3 Eenvoudige Stappen'
+  title: 'Guam eSIM Activeren in 3 Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -219,12 +218,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM op Guam -- Is de Verbinding Snel en Betrouwbaar voor Toeristen?"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers op Guam. Ontdek welke snelheden u kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Complete gids voor reizigers in Guam: eSIM-snelheden, dekking en verbindingskwaliteit. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Guam eSIM FAQ's
+    title: 'Guam eSIM Veelgestelde Vragen'
     questions:
     - q: |
         Is het veilig om mijn paspoort te uploaden voor Guam eSIM-registratie? Ik maak me zorgen over privacy.
@@ -249,7 +248,7 @@ faq_section:
     - q: |
         Ik reis slechts 2-3 dagen naar Guam. Welke eSIM moet ik nemen?
       a: |
-        Voor een korte reis dekt het 1GB/7 dagen plan ($1,99) kaarten en berichten. Als u van plan bent sociale media te gebruiken en foto's te delen, biedt het 3GB-plan ($4,99) meer ruimte. Beide activeren direct en u kunt indien nodig opwaarderen.
+        Voor een korte reis dekt het 1GB/7 dagen plan ($9.99) kaarten en berichten. Als u van plan bent sociale media te gebruiken en foto's te delen, biedt het 3GB-plan ($22.99) meer ruimte. Beide activeren direct en u kunt indien nodig opwaarderen.
     - q: |
         Kan ik controleren hoeveel data ik heb gebruikt op mijn Guam eSIM?
       a: |
@@ -258,25 +257,33 @@ faq_section:
         Hoeveel eSIM-profielen kan ik op mijn telefoon opslaan voor reizen naar Guam?
       a: |
         De meeste telefoons slaan 5-10 eSIM-profielen op. U kunt uw Guam eSIM naast uw thuis-SIM en andere landprofielen bewaren. Activeer gewoon degene die u nodig hebt en deactiveer de andere. Wisselen tussen hen duurt ongeveer 10 seconden in uw telefooninstellingen.
+    - q: |
+        Kun je een Guam eSIM eenvoudig verlengen?
+      a: |
+        De looptijd van een Guam eSIM varieert van 3 tot 30 dagen. Verlengen kan door voor vertrek of onderweg een extra pakket te kiezen.
+    - q: |
+        Welke prijzen kun je verwachten voor een Guam eSIM?
+      a: |
+        De tarieven voor een Guam eSIM starten bij $9.99 en gaan tot $88.99, afhankelijk van databundel en looptijd. Er komt geen maandelijkse verplichting bij kijken.
+    - q: |
+        Is tethering met een Guam eSIM toegestaan?
+      a: |
+        Tethering is toegestaan: deel je Guam eSIM-verbinding met andere apparaten zonder extra kosten.
 related_products:
   title: Gerelateerde Guam eSIM Plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
+  - name: Australië eSIM
+    flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
   - name: Turkije eSIM
     flag: img/flags/tr.svg
     price: Vanaf $1.99
@@ -285,28 +292,32 @@ related_products:
     flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Spanje eSIM
     flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Duitsland eSIM
-    flag: img/flags/de.svg
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Australië eSIM
-    flag: img/flags/au.svg
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
     price: Vanaf $1.99
     is_highlight: false
 ---

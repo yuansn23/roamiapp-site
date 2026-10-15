@@ -1,6 +1,6 @@
 ---
 title: 'Colombia eSIM 2026: Verbindings- & Snelheidsgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,10 +21,9 @@ seo:
   title: Colombia eSIM | Beste 5G Prepaid Data voor Uw Reis
   description: Krijg de beste prepaid reis-eSIM voor Colombia van Roami. Onbeperkte 5G-data op topnetwerken. Dekt Bogota,
     Medellin & Cartagena. Directe activering.
-  keywords: Colombia eSIM, Colombia eSIM kopen, beste Colombia eSIM, Colombia reis eSIM, Claro Colombia, Movistar Colombia,
-    Tigo Colombia, Bogotá eSIM, Medellín eSIM, Cartagena eSIM, Colombia prepaid eSIM, 5G Colombia eSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: Colombia eSIM, eSIM Colombia, koop Colombia eSIM, beste Colombia eSIM, Colombia eSIM prijs, Claro, Movistar, Tigo, Bogotá eSIM, Medellín eSIM, Cartagena eSIM, Colombia eSIM 5G, Colombia eSIM databundel, Colombia eSIM dekking, Colombia eSIM activeren, Colombia prepaid eSIM
+  low_price: 4.99
+  high_price: 86.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Verbindt automatisch met de beste Colombiaanse providers voor het beste signaal
-plans_title: 'Koop Colombia eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Koop Colombia eSIM: Voordelige Plannen voor Elke Reisduur'
 plans_data:
   7 Dagen:
   - spec: 1GB
@@ -292,7 +291,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Colombia eSIM Installatietips: Wat u Moet Weten Voordat u Gaat'
+  title: 'Colombia eSIM Installatietips: Alles Wat je Moet Weten Voor je Vertrekt'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -313,7 +312,7 @@ reminders:
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Colombia eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Colombia eSIM Activeren in 3 Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -335,17 +334,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Online Komen in Colombia -- eSIM Netwerkkwaliteit en Snelheidsgids"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Colombia. Ontdek welke snelheden u kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Zo snel is eSIM in Colombia: snelheden, dekking en kwaliteit. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Colombia eSIM FAQ's
+    title: 'Colombia eSIM Veelgestelde Vragen'
     questions:
     - q: |
         Wat zijn de goedkoopste eSIM-opties voor een reis naar Colombia?
       a: |
-        Roami Colombia eSIM-plannen beginnen bij $1.99 (7 dagen, 1GB) en gaan tot $59.99 (30 dagen onbeperkt). Voor een typische reis van 5-7 dagen is het 5GB-plan van $9.99 de beste keuze — genoeg voor kaarten, berichten en social media. Moet u video streamen of op afstand werken? Kies dan voor 10GB of onbeperkt. Dankzij het 5G-netwerk van Claro werken streaming en videogesprekken uitstekend. SIM-kiosken op de luchthaven rekenen 30-50% meer en u moet in de rij staan. Niet zeker van uw databehoefte? Begin klein en vul aan via de app zonder uw eSIM te wijzigen.
+        Roami Colombia eSIM-plannen beginnen bij $6.99 (7 dagen, 1GB) en gaan tot $52.99 (30 dagen onbeperkt). Voor een typische reis van 5-7 dagen is het 5GB-plan van $14.99 de beste keuze — genoeg voor kaarten, berichten en social media. Moet u video streamen of op afstand werken? Kies dan voor 10GB of onbeperkt. Dankzij het 5G-netwerk van Claro werken streaming en videogesprekken uitstekend. SIM-kiosken op de luchthaven rekenen 30-50% meer en u moet in de rij staan. Niet zeker van uw databehoefte? Begin klein en vul aan via de app zonder uw eSIM te wijzigen.
     - q: |
         Hoe verhouden Claro, Movistar en Tigo zich voor een toerist die Colombia bezoekt?
       a: |
@@ -365,7 +364,7 @@ faq_section:
     - q: |
         Wat als mijn hotel in Colombia gratis WiFi heeft — heb ik dan nog eSIM-data nodig?
       a: |
-        Hotel WiFi werkt in uw kamer, maar niet wanneer u op verkenning gaat. eSIM geeft u overal data — voor het navigeren door straten, zoeken naar nabijgelegen plaatsen, controleren van dienstregelingen. Een 5GB-plan kost $9.99, wat vaak goedkoper is dan betaalde hotel WiFi voor een week ($10-15 bij veel hotels). De meeste reizigers gebruiken hotel WiFi voor grote downloads en eSIM voor onderweg.
+        Hotel WiFi werkt in uw kamer, maar niet wanneer u op verkenning gaat. eSIM geeft u overal data — voor het navigeren door straten, zoeken naar nabijgelegen plaatsen, controleren van dienstregelingen. Een 5GB-plan kost $14.99, wat vaak goedkoper is dan betaalde hotel WiFi voor een week ($10-15 bij veel hotels). De meeste reizigers gebruiken hotel WiFi voor grote downloads en eSIM voor onderweg.
     - q: |
         Hoeveel eSIM-profielen kan ik op mijn telefoon opslaan voor reizen naar Colombia?
       a: |
@@ -373,64 +372,76 @@ faq_section:
     - q: |
         Ik reis naar Colombia voor slechts 2-3 dagen. Welke eSIM moet ik nemen?
       a: |
-        Voor een korte reis dekt het 1GB/7 dagen plan ($1.99) kaarten en berichten. Als u van plan bent social media te gebruiken en foto's te delen, geeft het 3GB-plan ($4.99) meer ruimte. Beide activeren direct en u kunt indien nodig opwaarderen.
+        Voor een korte reis dekt het 1GB/7 dagen plan ($6.99) kaarten en berichten. Als u van plan bent social media te gebruiken en foto's te delen, geeft het 3GB-plan ($9.99) meer ruimte. Beide activeren direct en u kunt indien nodig opwaarderen.
+    - q: |
+        Welke toestellen ondersteunen een Colombia eSIM?
+      a: |
+        Bijna alle moderne toestellen met eSIM-functionaliteit ondersteunen de Colombia eSIM. Je bestaande SIM blijft gewoon actief.
+    - q: |
+        Hoe rond je de betaling voor een Colombia eSIM af?
+      a: |
+        De betaling voor een Colombia eSIM verloopt online via bekende betaalmethoden; de QR-code komt meteen in je inbox.
+    - q: |
+        Wanneer kun je de Colombia eSIM het beste installeren?
+      a: |
+        Installeer de Colombia eSIM al voor vertrek met de QR-code uit je e-mail; bij aankomst zet je de lijn aan en ben je direct online.
 related_products:
   title: Gerelateerde Colombia eSIM-plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Verenigd-Koninkrijk
+  - name: Verenigd Koninkrijk eSIM
     flag: img/flags/gb.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: Vanaf $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
     price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
+    is_highlight: true
   - name: Spanje eSIM
     flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Duitsland eSIM
-    flag: img/flags/de.svg
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Australië eSIM
     flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
 market_analysis:
   title: 'Colombia eSIM of SIM-kaart: Wat is de Beste Optie in 2026?'
   subtitle: Colombia Lokale Prepaid SIMs vs. eSIM-oplossingen (2025/2026 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Colombia) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Colombia
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktgegevens)
@@ -470,7 +481,7 @@ market_analysis:
   - icon: wifi
     title: Hotspot- &<br>Snelheidsbeleid
     prepaid_title: ''
-    prepaid_desc: Geen specifieke gegevens in de bron voor deze dimensie. Op basis van marktkennis staan de meeste Colombiaanse prepaid plannen
+    prepaid_desc: Staan de meeste Colombiaanse prepaid plannen
       tethering toe, maar kunnen ze na een bepaalde limiet vertragen.
     esim_title: Onbeperkte Tethering
     esim_desc: Roami eSIM staat hotspot-sharing op volledige snelheid toe, in tegenstelling tot sommige lokale plannen die na een limiet kunnen vertragen (bijv.

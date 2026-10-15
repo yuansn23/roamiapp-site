@@ -1,6 +1,6 @@
 ---
 title: 'Taiwan eSIM 2026 - Beste 5G-plan voor Taipei & Nachtmarkten | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: Taiwan eSIM - Onbeperkte Prepaid Data voor Reizigers
   description: Krijg de beste Taiwan prepaid eSIM met 5G op Chunghwa, FarEasTone & Taiwan Mobile. Geen paspoort of ID nodig — directe QR-activering. Sla luchthavenwachtrijen over. Vanaf $1.99.
-  keywords: Taiwan eSIM, Taiwan eSIM kopen, beste Taiwan eSIM, Taiwan reis eSIM, Chunghwa Telecom Taiwan, FarEasTone Taiwan, Taiwan Mobile Taiwan, Taipei eSIM, New Taipei City eSIM, Taichung eSIM, Taiwan prepaid eSIM, 5G Taiwan eSIM, eSIM voor Taiwan nachtmarkten, Shilin nachtmarkt eSIM, THSR eSIM, Taipei 101 eSIM
+  keywords: Taiwan eSIM, eSIM Taiwan, koop Taiwan eSIM, wat is de beste esim, Taiwan eSIM prijs, Chunghwa Telecom, FarEasTone, Taiwan Mobile, Taipei eSIM, New Taipei City eSIM, Taichung eSIM, Taiwan eSIM 5G, Taiwan eSIM databundel, Taiwan eSIM dekking, Taiwan eSIM activeren, Taiwan prepaid eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Verbindt automatisch met Chunghwa, FarEasTone & Taiwan Mobile voor het beste signaal in heel Taiwan
-plans_title: 'Koop Taiwan eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Koop Taiwan eSIM: Databundels voor Elke Reisduur'
 plans_data:
   3 Dagen:
   - spec: 1GB
@@ -303,7 +303,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Taiwan eSIM Installatietips: Wat u Moet Weten Voordat u Gaat'
+  title: 'Taiwan eSIM Installatietips: Zo Stel je het Snel in'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-compatibel</a> is voordat u koopt.
@@ -324,7 +324,7 @@ reminders:
     code: '*#06#'
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Taiwan eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Taiwan eSIM Installeren in 3 Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -344,12 +344,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Taiwan eSIM Gids: Snelheden, Dekking en Reistips voor Taiwan"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Taiwan. Ontdek welke snelheden u kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Alles over eSIM-snelheden en dekking voor reizigers in Taiwan. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Taiwan eSIM FAQ's
+    title: 'Taiwan eSIM Vraagbaak'
     questions:
     - q: |
         Heb ik echt geen paspoort of ID nodig voor Roami's Taiwan eSIM?
@@ -387,23 +387,59 @@ faq_section:
         Hoe verhoudt Roami zich tot Klook voor eSIM in Taiwan?
       a: |
         Roami biedt doorgaans betere waarde voor Taiwan eSIM omdat we direct verkopen — geen marktplaatsopslag. Prijzen zijn meestal 10-20% lager dan Klook. We bieden ook 24/7 directe ondersteuning. Plannen zijn prepaid zonder automatische verlenging, dus u wordt niet belast nadat uw reis eindigt.
+    - q: |
+        Waarom zou je voor Taiwan een eSIM kiezen in plaats van een lokale sim?
+      a: |
+        Met een eSIM sla je het winkelbezoek en de registratie voor een lokale sim over; je bent bij aankomst in Taiwan direct online.
+    - q: |
+        Op welke netwerken in Taiwan sluit een eSIM aan?
+      a: |
+        De eSIM schakelt automatisch over op lokale netwerken zoals Chunghwa Telecom en FarEasTone. Rond Taipei en New Taipei City is de dekking in de praktijk het sterkst.
+    - q: |
+        Welke toestellen ondersteunen een Taiwan eSIM?
+      a: |
+        Bijna alle moderne toestellen met eSIM-functionaliteit ondersteunen de Taiwan eSIM. Je bestaande SIM blijft gewoon actief.
 related_products:
   title: Gerelateerde Taiwan eSIM-plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
   - name: Canada eSIM
     flag: img/flags/ca.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Australië eSIM
+    flag: img/flags/au.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Turkije eSIM
@@ -414,36 +450,12 @@ related_products:
     flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Spanje eSIM
-    flag: img/flags/es.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Duitsland eSIM
-    flag: img/flags/de.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Australië eSIM
-    flag: img/flags/au.svg
-    price: Vanaf $1.99
-    is_highlight: false
 market_analysis:
   title: 'Taiwan eSIM vs Prepaid SIM: Snelheid, Dekking en Prijs Vergeleken'
   subtitle: Taiwan Lokale Prepaid SIMs vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Taiwan) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Taiwan
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktgegevens)

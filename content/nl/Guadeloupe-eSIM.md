@@ -1,6 +1,6 @@
 ---
 title: 'Guadeloupe eSIM 2026: Stads- & Netwerkgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,12 +19,10 @@ modal:
 seo:
   title: 'Guadeloupe eSIM: 5G-dekking, Geen ID-verificatie'
   description: Vergelijk Guadeloupe eSIM-plannen met snel 5G in Pointe-à-Pitre, Basse-Terre, Le Gosier. Orange & SFR & Free Mobile
-    dekkingsgids voor toeristen & reizigers. Directe QR-activering vanaf $1.99.
-  keywords: Guadeloupe eSIM, Guadeloupe eSIM kopen, beste Guadeloupe eSIM, Guadeloupe reis eSIM, Orange Guadeloupe, SFR Guadeloupe,
-    Free Mobile Guadeloupe, Pointe-à-Pitre eSIM, Basse-Terre eSIM, Le Gosier eSIM, Guadeloupe prepaid eSIM, 5G Guadeloupe
-    eSIM
-  low_price: 1.99
-  high_price: 39.9
+    dekkingsgids voor toeristen & reizigers. Directe QR-activering vanaf $8.99.
+  keywords: Guadeloupe eSIM, eSIM Guadeloupe, koop Guadeloupe eSIM, beste esim anbieter karibik, Guadeloupe eSIM prijs, Orange, SFR, Free Mobile, Pointe-à-Pitre eSIM, Basse-Terre eSIM, Le Gosier eSIM, Guadeloupe eSIM 5G, Guadeloupe eSIM databundel, Guadeloupe eSIM dekking, Guadeloupe eSIM activeren, Guadeloupe prepaid eSIM
+  low_price: 8.99
+  high_price: 64.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -73,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Verbindt automatisch met de beste Guadeloupse providers voor het beste signaal
-plans_title: 'Koop Guadeloupe eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Koop Guadeloupe eSIM: Databundels voor Elke Reisduur'
 plans_data:
   7 Dagen:
   - spec: 1GB
@@ -169,7 +167,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Guadeloupe eSIM Installatietips: Wat u Moet Weten Voordat u Gaat'
+  title: 'Guadeloupe eSIM Installatietips: Zo Stel je het Snel in'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -190,7 +188,7 @@ reminders:
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Guadeloupe eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Guadeloupe eSIM Installeren in 3 Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -212,12 +210,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Welke Internetsnelheid Kunt u Verwachten met eSIM op Guadeloupe?"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers op Guadeloupe. Ontdek welke snelheden u kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Guadeloupe. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Guadeloupe eSIM FAQ's
+    title: 'Guadeloupe eSIM: Veelgestelde Vragen'
     questions:
     - q: |
         Hoe verhoudt Roami zich tot Maya voor eSIM op Guadeloupe?
@@ -246,60 +244,72 @@ faq_section:
     - q: |
         Wat als mijn hotel op Guadeloupe gratis WiFi heeft — heb ik dan nog eSIM-data nodig?
       a: |
-        Hotel WiFi werkt in uw kamer, maar niet wanneer u op verkenning gaat. eSIM geeft u overal data — voor het navigeren door straten, zoeken naar nabijgelegen plaatsen, controleren van dienstregelingen. Een 5GB-plan kost $9.99, wat vaak goedkoper is dan betaalde hotel WiFi voor een week ($10-15 bij veel hotels). De meeste reizigers gebruiken hotel WiFi voor grote downloads en eSIM voor onderweg.
+        Hotel WiFi werkt in uw kamer, maar niet wanneer u op verkenning gaat. eSIM geeft u overal data — voor het navigeren door straten, zoeken naar nabijgelegen plaatsen, controleren van dienstregelingen. Een 1GB/7 dagen plan kost $8.99, wat vaak goedkoper is dan betaalde hotel WiFi voor een week ($10-15 bij veel hotels). De meeste reizigers gebruiken hotel WiFi voor grote downloads en eSIM voor onderweg.
     - q: |
         Ik reis naar Guadeloupe voor slechts 2-3 dagen. Welke eSIM moet ik nemen?
       a: |
-        Voor een korte reis dekt het 1GB/7 dagen plan ($1.99) kaarten en berichten. Als u van plan bent social media te gebruiken en foto's te delen, geeft het 3GB-plan ($4.99) meer ruimte. Beide activeren direct en u kunt indien nodig opwaarderen.
+        Voor een korte reis dekt het 1GB/7 dagen plan ($8.99) kaarten en berichten. Als u van plan bent social media te gebruiken en foto's te delen, geeft het 3GB-plan ($14.99) meer ruimte. Beide activeren direct en u kunt indien nodig opwaarderen.
+    - q: |
+        Hoe activeer je een Guadeloupe eSIM voordat je vertrekt?
+      a: |
+        Je installeert de eSIM thuis via een QR-code en schakelt de lijn pas in bij aankomst in Guadeloupe. Zo heb je meteen internet zonder eerst een lokale SIM te regelen.
+    - q: |
+        Hoe lang is een Guadeloupe eSIM geldig en kun je verlengen?
+      a: |
+        De geldigheid loopt van 3 tot 30 dagen, afhankelijk van het pakket dat je kiest. Raakt je bundel bijna leeg, dan voeg je eenvoudig een nieuw pakket toe.
+    - q: |
+        Wat kost een Guadeloupe eSIM en welke databundels zijn er?
+      a: |
+        Roami eSIM-pakketten voor Guadeloupe beginnen vanaf $8.99 en lopen op tot $64.99. Je kiest per databundel en geldigheidsduur, zonder abonnement of verborgen kosten.
 related_products:
   title: Gerelateerde Guadeloupe eSIM-plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: Vanaf $1.99
-    is_highlight: true
   - name: Canada eSIM
     flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Spanje eSIM
-    flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Duitsland eSIM
     flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
+    price: Vanaf $1.99
+    is_highlight: true
+  - name: China eSIM
+    flag: img/flags/cn.svg
+    price: Vanaf $1.99
+    is_highlight: false
   - name: Australië eSIM
     flag: img/flags/au.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
     price: Vanaf $1.99
     is_highlight: false
 ---

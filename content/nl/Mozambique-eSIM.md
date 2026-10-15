@@ -1,6 +1,6 @@
 ---
 title: 'Mozambique eSIM 2026: Lokale Providergids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Movitel, Vodacom, Tmcel
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Maputo, Beira, Nampula, Quelimane, Tete
-  main_packages: 3/7/15/30 Dagen, Onbeperkte Data
+  main_packages: 3/7/15/30 Dagen, 5G-data
 modal:
   title: Service Geüpgraded!
   btn_text: Doorgaan
@@ -18,13 +18,12 @@ modal:
     promotiecode:web20
   text_android: Onze eSIM-service is geüpgraded naar <strong>PhoneSIM</strong>.<br>Nieuwe klanten genieten van 20% korting, promotiecode:web20
 seo:
-  title: 'Mozambique 5G eSIM: Onbeperkte Data, Geen Roamingkosten'
+  title: 'Mozambique 5G eSIM: 5G-data, Geen Roamingkosten'
   description: Vergelijk Mozambique eSIM-pakketten met snel 5G in Maputo, Beira, Nampula. Movitel & Vodacom & Tmcel dekkingsgids
-    voor toeristen & reizigers. Directe QR-activatie vanaf $1.99.
-  keywords: Mozambique eSIM, koop Mozambique eSIM, beste Mozambique eSIM, Mozambique reis eSIM, Movitel Mozambique, Vodacom
-    Mozambique, Tmcel Mozambique, Maputo eSIM, Beira eSIM, Nampula eSIM, Mozambique prepaid eSIM, 5G Mozambique eSIM
-  low_price: 1.99
-  high_price: 39.9
+    voor toeristen & reizigers. Directe QR-activatie vanaf $14.99.
+  keywords: Mozambique eSIM, eSIM Mozambique, koop Mozambique eSIM, beste esim voor curacao, Mozambique eSIM prijs, Movitel, Vodacom, Tmcel, Maputo eSIM, Beira eSIM, Nampula eSIM, Mozambique eSIM 5G, Mozambique eSIM databundel, Mozambique eSIM dekking, Mozambique eSIM activeren, Mozambique prepaid eSIM
+  low_price: 14.99
+  high_price: 41.99
 order_summary:
   title: Geselecteerd Pakket
   label_data: Inbegrepen Data
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Automatisch verbinden met de beste Mozambikaanse providers voor het beste signaal
-plans_title: 'Koop Mozambique eSIM: Pakketten voor Elke Reisduur'
+plans_title: 'Mozambique eSIM Kopen: Databundels voor Elke Reisduur'
 plans_data:
   7 Dagen:
   - spec: 1GB
@@ -153,7 +152,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Mozambique eSIM Installatietips: Wat je Moet Weten Voor je Vertrekt'
+  title: 'Mozambique eSIM-installatie: Praktische Tips Voor je Vertrek'
   items:
   - icon: 📱
     html: Zorg ervoor dat je telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -174,7 +173,7 @@ reminders:
     result_html: Als een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       nummer op je scherm verschijnt, wordt je apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Mozambique eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Mozambique eSIM Installatie: 3 Eenvoudige Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -196,17 +195,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Werkt eSIM Overal in Mozambique? Stedelijke en Landelijke Dekkingsgids"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Mozambique. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Alles over eSIM-snelheden en dekking voor reizigers in Mozambique. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Mozambique eSIM FAQ's
+    title: 'Veelgestelde Vragen: Mozambique eSIM'
     questions:
     - q: |
         Wat zijn de goedkoopste eSIM-opties voor een reis naar Mozambique?
       a: |
-        Roami Mozambique eSIM-pakketten beginnen bij $1.99 (7 dagen, 1GB) en gaan tot $59.99 (30 dagen onbeperkt). Voor een typische reis van 5-7 dagen is het 5GB-pakket van $9.99 de sweet spot — genoeg voor kaarten, berichten en sociale media. Wil je video streamen of remote werken? Ga voor 10GB of onbeperkt. Mozambique gebruikt 4G wat kaarten en berichten prima verwerkt. SIM-kiosken op de luchthaven rekenen 30-50% meer, en je moet in de rij staan. Niet zeker van je databehoeften? Begin klein en waardeer op via de app zonder je eSIM te wijzigen.
+        Roami Mozambique eSIM-pakketten beginnen bij $14.99 (7 dagen, 1GB) en gaan tot $41.99 (30 dagen). Voor een typische reis van 5-7 dagen is het 5GB-pakket van $41.99 de sweet spot — genoeg voor kaarten, berichten en sociale media. Wil je video streamen of remote werken? Ga voor 10GB of een groter databundel. Mozambique gebruikt 4G wat kaarten en berichten prima verwerkt. SIM-kiosken op de luchthaven rekenen 30-50% meer, en je moet in de rij staan. Niet zeker van je databehoeften? Begin klein en waardeer op via de app zonder je eSIM te wijzigen.
     - q: |
         Hoe verhoudt Roami zich tot Saily voor eSIM in Mozambique?
       a: |
@@ -218,7 +217,7 @@ faq_section:
     - q: |
         Werkt mijn eSIM in Mozambique voor videogesprekken en remote werk?
       a: |
-        Absoluut. Vodacom-netwerken bieden stabiele verbindingen voor Zoom, Teams en Google Meet. Voor remote werk wordt een 10GB- of onbeperkt pakket aanbevolen. De eSIM ondersteunt ook hotspot-sharing voor je laptop.
+        Absoluut. Vodacom-netwerken bieden stabiele verbindingen voor Zoom, Teams en Google Meet. Voor remote werk wordt een 10GB-pakket aanbevolen. De eSIM ondersteunt ook hotspot-sharing voor je laptop.
     - q: |
         Hoeveel data gebruikt een typische reiziger per dag in Mozambique?
       a: |
@@ -230,11 +229,23 @@ faq_section:
     - q: |
         Wat is het verschil tussen een 5GB-pakket en een onbeperkt pakket voor Mozambique?
       a: |
-        Een 5GB-pakket geeft je een vaste hoeveelheid data op hoge snelheid (5GB totaal). Eenmaal opgebruikt, waardeer je op of koop je een nieuw pakket. Een onbeperkt pakket blijft data leveren, maar snelheden kunnen na 30GB op een dag worden verlaagd onder fair use-beleid. Voor de meeste reizigers die kaarten, berichten en sociale media gebruiken, is een 5GB-pakket ruim voldoende.
+        Een 5GB-pakket geeft je een vaste hoeveelheid data op hoge snelheid (5GB totaal). Eenmaal opgebruikt, waardeer je op of koop je een nieuw pakket. Voor de meeste reizigers die kaarten, berichten en sociale media gebruiken, is een 5GB-pakket ruim voldoende.
     - q: |
         Kan ik mijn Mozambique eSIM op de luchthaven installeren, of kan ik dat beter doen voordat ik thuis vertrek?
       a: |
         Doe het voordat je vertrekt — installatie heeft een internetverbinding nodig en duurt ongeveer 2 minuten. De eSIM QR-code arriveert binnen 5 minuten na aankoop per e-mail. Schakel op de luchthaven van Mozambique Data Roaming in en je bent binnen 60 seconden online.
+    - q: |
+        Is tethering met een Mozambique eSIM toegestaan?
+      a: |
+        Tethering is toegestaan: deel je Mozambique eSIM-verbinding met andere apparaten zonder extra kosten.
+    - q: |
+        Waarom zou je voor Mozambique een eSIM kiezen in plaats van een lokale sim?
+      a: |
+        Met een eSIM sla je het winkelbezoek en de registratie voor een lokale sim over; je bent bij aankomst in Mozambique direct online.
+    - q: |
+        Op welke netwerken in Mozambique sluit een eSIM aan?
+      a: |
+        De eSIM schakelt automatisch over op lokale netwerken zoals Movitel en Vodacom. Rond Maputo en Beira is de dekking in de praktijk het sterkst.
 related_products:
   title: Gerelateerde eSIM Pakketten
   items:
@@ -242,36 +253,32 @@ related_products:
     flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd Koninkrijk
-    flag: img/flags/gb.svg
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Australië eSIM
+    flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
   - name: Frankrijk eSIM
     flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Spanje eSIM
@@ -282,8 +289,12 @@ related_products:
     flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Australië eSIM
-    flag: img/flags/au.svg
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Sierra Leone eSIM 2026: Complete Reisgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Africell, Sierratel, Orange SL
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Freetown, Bo, Kenema, Makeni, Koidu
-  main_packages: 3/7/15/30 Dagen, Onbeperkte Data
+  main_packages: 3/7/15/30 Dagen, 5G-data
 modal:
   title: Service Geüpgraded!
   btn_text: Doorgaan
@@ -20,12 +20,10 @@ modal:
 seo:
   title: 'Sierra Leone eSIM: Africell & Sierratel Dekking'
   description: Vergelijk Sierra Leone eSIM-plannen met snel 5G in Freetown, Bo, Kenema. Africell & Sierratel & Orange SL dekkingsgids
-    voor toeristen & reizigers. Directe QR-activering vanaf $1.99.
-  keywords: Sierra Leone eSIM, koop Sierra Leone eSIM, beste Sierra Leone eSIM, Sierra Leone reis eSIM, Africell Sierra Leone,
-    Sierratel Sierra Leone, Orange SL Sierra Leone, Freetown eSIM, Bo eSIM, Kenema eSIM, Sierra Leone prepaid eSIM, 5G Sierra
-    Leone eSIM
-  low_price: 1.99
-  high_price: 39.9
+    voor toeristen & reizigers. Directe QR-activering vanaf $10.99.
+  keywords: Sierra Leone eSIM, eSIM Sierra Leone, sim only prepaid esim, beste esim voor zuid afrika, smart prepaid to esim, Africell, Sierratel, Orange SL, Freetown eSIM, Bo eSIM, Kenema eSIM, Sierra Leone eSIM 5G, Sierra Leone eSIM databundel, Sierra Leone eSIM dekking, Sierra Leone eSIM activeren, Sierra Leone prepaid eSIM
+  low_price: 10.99
+  high_price: 33.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -74,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Maakt automatisch verbinding met de beste Sierra Leoonse providers voor het beste signaal
-plans_title: 'Koop Sierra Leone eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Sierra Leone eSIM Kopen: Databundels voor Elke Reisduur'
 plans_data:
   30 Dagen:
   - spec: 5GB
@@ -144,7 +142,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 4G/LTE Netwerk
 reminders:
-  title: 'Sierra Leone eSIM Installatietips: Wat u Moet Weten Voor u Gaat'
+  title: 'Sierra Leone eSIM-installatie: Praktische Tips Voor je Vertrek'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -165,7 +163,7 @@ reminders:
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe u Sierra Leone eSIM Installeert: 3 Eenvoudige Stappen'
+  title: 'Sierra Leone eSIM Installatie: 3 Eenvoudige Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -187,12 +185,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hoe Snel is eSIM Internet in Sierra Leone? Snelheden en Dekking voor Reizigers"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Sierra Leone. Ontdek welke snelheden u kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Complete gids over eSIM-internetsnelheden en verbindingskwaliteit voor reizigers in Sierra Leone. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Sierra Leone eSIM FAQ's
+    title: 'Veelgestelde Vragen: Sierra Leone eSIM'
     questions:
     - q: |
         Welk netwerk in Sierra Leone heeft de beste dekking voor reizigers — Sierratel, Orange of Africell?
@@ -226,39 +224,35 @@ faq_section:
         Hoeveel data gebruikt een typische reiziger eigenlijk per dag in Sierra Leone?
       a: |
         Gemiddeld dagelijks gebruik voor de meeste toeristen: 300-500MB voor kaarten en berichten, tot 1GB als u zwaar op sociale media zit. Voor een reis van één week is 5GB comfortabel. Voor twee weken kiest u 10GB. Roami maakt het gemakkelijk om op te waarderen als u weinig hebt.
+    - q: |
+        Is tethering met een Sierra Leone eSIM toegestaan?
+      a: |
+        Tethering is toegestaan: deel je Sierra Leone eSIM-verbinding met andere apparaten zonder extra kosten.
+    - q: |
+        Waarom zou je voor Sierra Leone een eSIM kiezen in plaats van een lokale sim?
+      a: |
+        Met een eSIM sla je het winkelbezoek en de registratie voor een lokale sim over; je bent bij aankomst in Sierra Leone direct online.
+    - q: |
+        Op welke netwerken in Sierra Leone sluit een eSIM aan?
+      a: |
+        De eSIM schakelt automatisch over op lokale netwerken zoals Africell en Sierratel. Rond Freetown en Bo is de dekking in de praktijk het sterkst.
 related_products:
   title: Gerelateerde eSIM Plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Frankrijk eSIM
@@ -269,12 +263,28 @@ related_products:
     flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Duitsland eSIM
-    flag: img/flags/de.svg
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Australië eSIM
     flag: img/flags/au.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: China eSIM
+    flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
 ---

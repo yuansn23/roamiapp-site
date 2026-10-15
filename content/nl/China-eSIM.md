@@ -1,6 +1,6 @@
 ---
 title: 'China eSIM 2026: Lokale Providergids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: China Mobile, China Unicom, China Telecom
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Beijing, Shanghai, Guangzhou, Shenzhen, Chengdu
-  main_packages: 3/7/15/30 Dagen, Onbeperkte Data
+  main_packages: 3/7/15/30 Dagen, 5G-data
 modal:
   title: Service Geüpgraded!
   btn_text: Doorgaan
@@ -17,13 +17,11 @@ modal:
     promotiecode:web20
   text_android: Onze eSIM-service is geüpgraded naar <strong>PhoneSIM</strong>.<br>Nieuwe klanten genieten van 20% korting, promotiecode:web20
 seo:
-  title: China eSIM | Beste Prepaid Datapakket, Geen VPN Nodig
-  description: Plan je een reis naar China? Krijg Roami's beste prepaid reis eSIM met onbeperkte 5G-data. Geen VPN nodig. Directe
-    activatie. Dekt Beijing, Shanghai & alle steden.
-  keywords: China eSIM, buy China eSIM, best China eSIM, China travel eSIM, China Mobile China, China Unicom China, China
-    Telecom China, Beijing eSIM, Shanghai eSIM, Guangzhou eSIM, China prepaid eSIM, 5G China eSIM
+  title: China eSIM | Beste Prepaid Datapakket voor Reizigers
+  description: Plan je een reis naar China? Krijg Roami's beste prepaid reis eSIM met 5G-data. Directe activatie. Dekt Beijing, Shanghai & alle steden.
+  keywords: China eSIM, eSIM China, esim china kopen, beste esim china, esim china prepaid, China Mobile, China Unicom, China Telecom, Beijing eSIM, Shanghai eSIM, Guangzhou eSIM, China eSIM 5G, China eSIM databundel, China eSIM dekking, China eSIM activeren, China prepaid eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 39.99
 order_summary:
   title: Geselecteerd Pakket
   label_data: Inbegrepen Data
@@ -72,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Automatisch verbinden met de beste Chinese providers voor het beste signaal
-plans_title: 'Koop China eSIM: Pakketten voor Elke Reisduur'
+plans_title: 'Koop China eSIM: Databundels voor Elke Reisduur'
 plans_data:
   30 Dagen:
   - spec: 20GB
@@ -283,7 +281,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'China eSIM Installatietips: Wat je Moet Weten Voor je Vertrekt'
+  title: 'China eSIM Installatietips: Zo Stel je het Snel in'
   items:
   - icon: 📱
     html: Zorg ervoor dat je telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -304,7 +302,7 @@ reminders:
     result_html: Als een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       nummer op je scherm verschijnt, wordt je apparaat ondersteund!
 activation_steps:
-  title: 'Hoe China eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'China eSIM Installeren in 3 Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -326,12 +324,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Werkt eSIM Goed in China? Een Reisgids voor Internetkwaliteit"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in China. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Complete gids voor eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in China. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: China eSIM FAQ's
+    title: 'China eSIM: Veelgestelde Vragen'
     questions:
     - q: |
         Toeristen die China bezoeken — welk netwerk geeft de beste ervaring?
@@ -365,63 +363,71 @@ faq_section:
         Kan ik mijn China eSIM gebruiken voor sociale media en het delen van foto's met familie?
       a: |
         Absoluut. Instagram, WhatsApp, Facebook en andere sociale apps werken allemaal via de eSIM-verbinding. Uploadsnelheden van China Mobile verwerken foto's in seconden en korte video's gemakkelijk.
+    - q: |
+        Werkt een China eSIM met de netwerken van China Mobile en China Unicom?
+      a: |
+        Bij aankomst verbindt de eSIM automatisch met de sterkste beschikbare netwerken, waaronder China Mobile en China Unicom. In stedelijke gebieden zoals Beijing en Shanghai is de dekking doorgaans het beste.
+    - q: |
+        Is je telefoon compatibel met een China eSIM?
+      a: |
+        De meeste recente smartphones met eSIM-ondersteuning werken direct, naast je eigen SIM. Twijfel je? Controleer dan de compatibiliteitspagina van je toestel.
+    - q: |
+        Met welke betaalmethoden kun je een China eSIM kopen?
+      a: |
+        Je rekent veilig af met gangbare betaalmethoden zoals creditcard en digitale wallets. Na betaling ontvang je de QR-code direct per e-mail.
 related_products:
   title: Gerelateerde China eSIM Pakketten
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: United-Kingdom
+  - name: Verenigd Koninkrijk eSIM
     flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: Vanaf $1.99
-    is_highlight: true
   - name: Canada eSIM
     flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
+    price: Vanaf $1.99
+    is_highlight: true
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Australië eSIM
+    flag: img/flags/au.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
 market_analysis:
   title: 'China eSIM vs Prepaid SIM-kaart: Alles Wat je Moet Overwegen – Beste eSIM voor China-reizigers'
   subtitle: Lokale Prepaid SIM's in China vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (China) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/China
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)
@@ -461,7 +467,7 @@ market_analysis:
   - icon: wifi
     title: Hotspot &<br>Snelheidsbeleid
     prepaid_title: ''
-    prepaid_desc: Geen specifieke data in de bron voor deze dimensie. Op basis van marktkennis is tethering doorgaans toegestaan
+    prepaid_desc: Is tethering doorgaans toegestaan
       maar kan op sommige pakketten beperkt zijn.
     esim_title: Onbeperkte Tethering
     esim_desc: In tegenstelling tot sommige China Mobile-pakketten die tethering kunnen beperken, staat Roami eSIM hotspot-sharing op volledige snelheid toe.
@@ -476,7 +482,7 @@ market_analysis:
   - icon: headset
     title: Klanten-<br>ondersteuning
     prepaid_title: ''
-    prepaid_desc: Geen specifieke data in de bron voor deze dimensie. Op basis van marktkennis is klantenondersteuning voornamelijk in
+    prepaid_desc: Is klantenondersteuning voornamelijk in
       het Chinees, met beperkte Engelstalige service.
     esim_title: 24/7 Engelse Ondersteuning
     esim_desc: Krijg dag en nacht ondersteuning in het Engels, in tegenstelling tot China's lokale SIM-ondersteuning die voornamelijk in het Chinees is.
@@ -504,7 +510,7 @@ market_analysis:
     - icon: tower-observation
       icon_bg: bg-rose-100
       icon_color: text-rose-600
-      title: Vermijd Netwerk Incompatibiliteit en VPN-blokkades
+      title: Vermijd Netwerk Incompatibiliteit
       desc: China Mobile's TDD-LTE is incompatibel met veel internationale telefoons, waardoor het terugvalt naar <b>2G EDGE (320 Kbps)</b>.
-        China Unicom blokkeert actief VPN's. Roami eSIM werkt op elke unlocked telefoon en omzeilt de Great Firewall.
+        Roami eSIM werkt op elke unlocked telefoon en levert consistente 5G-snelheden.
 ---

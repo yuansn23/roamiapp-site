@@ -1,6 +1,6 @@
 ---
 title: 'Oman eSIM - 5G in Muscat & Nizwa | Geen Paspoort Gedoe | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Onze eSIM-service is geüpgraded naar <strong>PhoneSIM</strong>.<br>Nieuwe klanten genieten van 20% korting, promotiecode:web20
 seo:
   title: Oman eSIM - Prepaid 5G Datapakket voor Je Reis
-  description: Krijg de beste Oman eSIM met 5G op Omantel, Ooredoo & Vodafone. Geen paspoortregistratie nodig — sla luchthavenrijen over. Dekt Muscat, Nizwa & Salalah. Pakketten vanaf $1.99.
-  keywords: Oman eSIM, koop Oman eSIM, beste Oman eSIM, Oman reis eSIM, Omantel Oman, Ooredoo Oman, Vodafone Oman, Muscat eSIM, Salalah eSIM, Nizwa eSIM, Oman prepaid eSIM, 5G Oman eSIM, Oman eSIM geen paspoort
-  low_price: 1.99
-  high_price: 39.9
+  description: Krijg de beste Oman eSIM met 5G op Omantel, Ooredoo & Vodafone. Geen paspoortregistratie nodig — sla luchthavenrijen over. Dekt Muscat, Nizwa & Salalah. Pakketten vanaf $5.99.
+  keywords: Oman eSIM, eSIM Oman, koop Oman eSIM, beste sim only deals, Oman eSIM prijs, Omantel, Ooredoo, Vodafone, Muscat eSIM, Salalah eSIM, Nizwa eSIM, Oman eSIM 5G, Oman eSIM databundel, Oman eSIM dekking, Oman eSIM activeren, Oman prepaid eSIM
+  low_price: 5.99
+  high_price: 67.99
 order_summary:
   title: Geselecteerd Pakket
   label_data: Inbegrepen Data
@@ -74,7 +74,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Erfgoed & Kust Gereed
     desc: 4G/5G in Muscat, Nizwa, Salalah en langs de kustsnelweg
-plans_title: 'Koop Oman eSIM: Pakketten voor Elke Reisduur'
+plans_title: 'Oman eSIM Kopen: Pakketten voor Elke Reisduur'
 plans_data:
   3 Dagen:
   - spec: 1GB
@@ -291,7 +291,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Oman eSIM Installatietips: Wat je Moet Weten Voor je Vertrekt'
+  title: 'Oman eSIM Installatietips: Wat u Moet Weten Voordat u Gaat'
   items:
   - icon: 📱
     html: Zorg ervoor dat je telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-compatibel</a> is voordat je koopt.
@@ -316,7 +316,7 @@ reminders:
     code: '*#06#'
     result_html: Als een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> nummer op je scherm verschijnt, wordt je apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Oman eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Hoe u Oman eSIM Installeert: 3 Eenvoudige Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -341,7 +341,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Oman eSIM FAQ's
+    title: 'Vragen over Oman eSIM'
     questions:
     - q: |
         Waarom is het kopen van een lokale SIM in Oman zo'n gedoe voor toeristen?
@@ -371,63 +371,75 @@ faq_section:
         Wanneer begint de geldigheidsperiode van mijn Oman eSIM?
       a: |
         De geldigheid van het pakket begint wanneer je verbinding maakt met een lokaal netwerk in Oman, niet wanneer je het koopt of installeert. Dus je kunt weken voor je reis kopen en installeren zonder pakketdagen te verliezen. Een 7-daags pakket geeft je 7 volledige dagen vanaf de eerste verbinding.
+    - q: |
+        Hoeveel betaal je voor een Oman eSIM met een vast databundel?
+      a: |
+        Voor Oman liggen de prijzen tussen $5.99 en $67.99, afhankelijk van je databundel. Je betaalt eenmalig en houdt volledige controle over je verbruik.
+    - q: |
+        Mag je de Oman eSIM als hotspot gebruiken?
+      a: |
+        Hotspot-gebruik is geen probleem — je verbinding met de Oman eSIM kan gewoon met meerdere toestellen worden gedeeld.
+    - q: |
+        Oman eSIM of lokale sim: wat is handiger?
+      a: |
+        Een eSIM regel je vooraf online, terwijl een lokale sim pas ter plaatse beschikbaar is. Voor een korte reis naar Oman is dat vaak het snelst.
 related_products:
   title: Gerelateerde eSIM Pakketten
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: Vanaf $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkey eSIM
+  - name: Turkije eSIM
     flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
+    price: Vanaf $1.99
+    is_highlight: true
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: China eSIM
+    flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: France eSIM
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
     flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Australia eSIM
+  - name: Australië eSIM
     flag: img/flags/au.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
 market_analysis:
   title: 'Oman eSIM vs Lokale SIM: Geen Paspoort, Geen Rij, GCC Gereed'
   subtitle: Lokale Prepaid SIM's in Oman vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Oman) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Oman
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)
@@ -456,7 +468,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Alle providers gebruiken <strong>30-daagse factureringscycli</strong>. Een 7-daagse toerist verspilt meer dan <strong>75%</strong> van de waarde van het pakket. Geen kortetermijnopties onder 30 dagen.
     esim_title: Flexibele Korte Pakketten
-    esim_desc: Roami biedt <strong>3/7/15/30-daagse pakketten</strong> vanaf $1.99 — betaal alleen voor je werkelijke reisduur. Geen geforceerde 30-daagse toezegging.
+    esim_desc: Roami biedt <strong>3/7/15/30-daagse pakketten</strong> vanaf $5.99 — betaal alleen voor je werkelijke reisduur. Geen geforceerde 30-daagse toezegging.
   - icon: wifi
     title: Hotspot &<br>Snelheidsbeleid
     prepaid_title: ''

@@ -1,6 +1,6 @@
 ---
 title: 'Irak eSIM 2026 - Beste 5G Plan voor Erbil & Bagdad | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Onze eSIM-service is geüpgraded naar <strong>PhoneSIM</strong>.<br>Nieuwe klanten genieten van 20% korting, promotiecode:web20
 seo:
   title: Irak eSIM - Snel Prepaid Data Plan voor Uw Reis
-  description: Ontvang de beste Irak prepaid eSIM met 5G op Zain, Asiacell & Korek. Geen ID nodig — directe QR-activering. Geen winkelbezoek nodig. Vanaf $1.99.
-  keywords: Iraq eSIM, koop Iraq eSIM, beste Iraq eSIM, Iraq reis eSIM, Zain Iraq, Asiacell Iraq, Korek Telecom Iraq, Baghdad eSIM, Basra eSIM, Mosul eSIM, Iraq prepaid eSIM, 5G Iraq eSIM, Erbil eSIM, Iraqi Kurdistan eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Ontvang de beste Irak prepaid eSIM met 5G op Zain, Asiacell & Korek. Geen ID nodig — directe QR-activering. Geen winkelbezoek nodig. Vanaf $9.99.
+  keywords: Irak eSIM, eSIM Irak, koop Irak eSIM, beste esim voor zuid afrika, Irak eSIM prijs, Zain Iraq, Asiacell, Korek Telecom, Bagdad eSIM, Basra eSIM, Mosul eSIM, Irak eSIM 5G, Irak eSIM databundel, Irak eSIM dekking, Irak eSIM activeren, Irak prepaid eSIM
+  low_price: 9.99
+  high_price: 149.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -367,43 +367,39 @@ faq_section:
         Kan ik mijn Irak eSIM opwaarderen als mijn data op is?
       a: |
         Ja — u kunt op elk moment opwaarderen via uw Roami-account. U hoeft geen winkel te bezoeken of een oplaadkaart in Irak te vinden. Log gewoon in, voeg data toe en blijf uw eSIM direct gebruiken.
+    - q: |
+        Welke prijzen kun je verwachten voor een Irak eSIM?
+      a: |
+        De tarieven voor een Irak eSIM starten bij $9.99 en gaan tot $149.99, afhankelijk van databundel en looptijd. Er komt geen maandelijkse verplichting bij kijken.
+    - q: |
+        Is tethering met een Irak eSIM toegestaan?
+      a: |
+        Tethering is toegestaan: deel je Irak eSIM-verbinding met andere apparaten zonder extra kosten.
+    - q: |
+        Waarom zou je voor Irak een eSIM kiezen in plaats van een lokale sim?
+      a: |
+        Met een eSIM sla je het winkelbezoek en de registratie voor een lokale sim over; je bent bij aankomst in Irak direct online.
 related_products:
   title: Gerelateerde Irak eSIM Plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
+  - name: Australië eSIM
+    flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Spanje eSIM
@@ -414,8 +410,24 @@ related_products:
     flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Australië eSIM
-    flag: img/flags/au.svg
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
 ---

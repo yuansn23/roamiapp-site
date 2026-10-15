@@ -1,6 +1,6 @@
 ---
 title: 'Ivoorkust eSIM 2026: Verbindings- & Snelheidsgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Orange, MTN, Moov
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Abidjan, Yamoussoukro, Bouaké, Daloa, San-Pédro
-  main_packages: 3/7/15/30 Dagen, Onbeperkte Data
+  main_packages: 3/7/15/30 Dagen, 5G-data
 modal:
   title: Service Geüpgraded!
   btn_text: Doorgaan
@@ -19,12 +19,10 @@ modal:
 seo:
   title: 'Ivoorkust eSIM: 5G Hoge-Snelheidsdata, Geen Roamingkosten'
   description: Vergelijk Ivoorkust eSIM-plannen met snel 5G in Abidjan, Yamoussoukro, Bouaké. Orange & MTN & Moov dekkingsgids
-    voor toeristen & reizigers. Directe QR-activering vanaf $1.99.
-  keywords: Ivoorkust eSIM, Ivoorkust eSIM kopen, beste Ivoorkust eSIM, Ivoorkust reis eSIM, Orange Ivoorkust, MTN
-    Ivoorkust, Moov Ivoorkust, Abidjan eSIM, Yamoussoukro eSIM, Bouaké eSIM, Ivoorkust prepaid eSIM, 5G Ivoorkust
-    eSIM
-  low_price: 1.99
-  high_price: 39.9
+    voor toeristen & reizigers. Directe QR-activering vanaf $9.99.
+  keywords: Ivoorkust eSIM, eSIM Ivoorkust, smart prepaid to esim, beste Ivoorkust eSIM, one month prepaid esim, Orange, MTN, Moov, Abidjan eSIM, Yamoussoukro eSIM, Bouaké eSIM, Ivoorkust eSIM 5G, Ivoorkust eSIM databundel, Ivoorkust eSIM dekking, Ivoorkust eSIM activeren, Ivoorkust prepaid eSIM
+  low_price: 9.99
+  high_price: 31.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -73,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Verbindt automatisch met de beste Ivoriaanse providers voor het beste signaal
-plans_title: 'Koop Ivoorkust eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Kies je Ivoorkust eSIM: Abonnementen voor Elke Reisduur'
 plans_data:
   7 Dagen:
   - spec: 1GB
@@ -143,7 +141,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Ivoorkust eSIM Installatietips: Wat u Moet Weten Voordat u Gaat'
+  title: 'Ivoorkust eSIM Installatiegids: Bereid je Reis Voor'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -164,7 +162,7 @@ reminders:
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Ivoorkust eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Zo Installeer je Ivoorkust eSIM: 3 Eenvoudige Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -186,12 +184,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Werkt eSIM Goed in Ivoorkust? Een Reizigersgids voor Internetkwaliteit"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Ivoorkust. Ontdek welke snelheden u kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Alles over eSIM-snelheden en dekking voor reizigers in Ivoorkust. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Ivoorkust eSIM FAQ's
+    title: 'Ivoorkust eSIM: Vragen en Antwoorden'
     questions:
     - q: |
         Hoe verhoudt Roami zich tot Holafly voor eSIM in Ivoorkust?
@@ -200,7 +198,7 @@ faq_section:
     - q: |
         Hoeveel moet ik budgetteren voor een eSIM bij een bezoek aan Ivoorkust?
       a: |
-        Roami biedt Ivoorkust eSIM vanaf $1.99 voor een licht 7-daags plan tot $59.99 voor 30 dagen onbeperkte data. De meeste bezoekers kiezen het 5GB/15 dagen plan van $9.99 — het dekt dagelijkse navigatie, social media en berichten zonder stress. Streamingfans of zware social media-gebruikers moeten 10GB of onbeperkt overwegen. Orange biedt betrouwbare snelheden in heel Ivoorkust. Roami-plannen zijn prepaid — geen verrassingsrekeningen, geen automatische verlenging, gewoon duidelijke prijzen.
+        Roami biedt Ivoorkust eSIM vanaf $9.99 voor een licht 7-daags plan tot $31.99 voor 30 dagen data. De meeste bezoekers kiezen het 5GB/15 dagen plan van $31.99 — het dekt dagelijkse navigatie, social media en berichten zonder stress. Streamingfans of zware social media-gebruikers moeten 10GB of een groter databundel overwegen. Orange biedt betrouwbare snelheden in heel Ivoorkust. Roami-plannen zijn prepaid — geen verrassingsrekeningen, geen automatische verlenging, gewoon duidelijke prijzen.
     - q: |
         Hoe verhouden Orange, MTN en Moov zich voor een toerist die Ivoorkust bezoekt?
       a: |
@@ -216,7 +214,7 @@ faq_section:
     - q: |
         Wat is het verschil tussen een 5GB-plan en een onbeperkt plan voor Ivoorkust?
       a: |
-        Een 5GB-plan geeft u een vaste hoeveelheid hoge-snelheidsdata (5GB totaal). Eenmaal opgebruikt, waardeert u op of koopt u een nieuw plan. Een onbeperkt plan blijft data leveren, maar snelheden kunnen na 30GB op een dag worden verlaagd onder fair use-beleid. Voor de meeste reizigers die kaarten, berichten en social media gebruiken, is een 5GB-plan ruim voldoende.
+        Een 5GB-plan geeft u een vaste hoeveelheid hoge-snelheidsdata (5GB totaal). Eenmaal opgebruikt, waardeert u op of koopt u een nieuw plan. Voor de meeste reizigers die kaarten, berichten en social media gebruiken, is een 5GB-plan ruim voldoende.
     - q: |
         Kan ik mijn Ivoorkust eSIM gebruiken voor social media en het delen van foto's met familie?
       a: |
@@ -225,38 +223,38 @@ faq_section:
         Werkt de Ivoorkust eSIM in landelijke gebieden en kleinere steden?
       a: |
         De dekking in Ivoorkust bereikt ongeveer 95% van de stedelijke gebieden, maar neemt af op afgelegen locaties. Snelheden kunnen dalen van 200-300 Mbps (5G) naar 10-30 Mbps (4G). Roami schakelt automatisch over naar het sterkste netwerk. Download offline kaarten voordat u naar afgelegen gebieden gaat.
+    - q: |
+        Werkt een Ivoorkust eSIM ook op een recente smartphone?
+      a: |
+        Zolang je toestel eSIM ondersteunt, werkt de Ivoorkust eSIM meteen. Op de compatibiliteitspagina zie je per model of het lukt.
+    - q: |
+        Kun je een Ivoorkust eSIM met een creditcard betalen?
+      a: |
+        Betalen kan met onder andere creditcard en online betaalopties. Zodra de betaling rond is, ontvang je de installatie-QR-code.
+    - q: |
+        Werkt de Ivoorkust eSIM direct na aankomst?
+      a: |
+        De installatie gebeurt vooraf via een QR-code. Zodra je in Ivoorkust landt, schakel je de eSIM in en werkt je verbinding meteen.
 related_products:
   title: Gerelateerde Ivoorkust eSIM-plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
+  - name: Hongkong eSIM
     flag: img/flags/hk.svg
     price: Vanaf $1.99
     is_highlight: false
@@ -264,12 +262,24 @@ related_products:
     flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Spanje eSIM
-    flag: img/flags/es.svg
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: China eSIM
+    flag: img/flags/cn.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Duitsland eSIM
     flag: img/flags/de.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Australië eSIM

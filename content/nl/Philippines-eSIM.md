@@ -1,6 +1,6 @@
 ---
 title: 'Filipijnen eSIM 2026 - Beste 5G Plan voor Manilla & Cebu | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Onze eSIM-service is geüpgraded naar <strong>PhoneSIM</strong>.<br>Nieuwe klanten genieten van 20% korting, promotiecode:web20
 seo:
   title: Filipijnen eSIM - 5G Prepaid Data Plan voor Reizen
-  description: Ontvang de beste Filipijnen prepaid eSIM met 5G op Globe, Smart & DITO. Geen ID of selfie nodig — directe QR-activering. Omzeil RA 11934-registratie. Vanaf $1.99.
-  keywords: Philippines eSIM, koop Philippines eSIM, beste Philippines eSIM, Philippines reis eSIM, Globe Philippines, Smart Philippines, DITO Philippines, Manila eSIM, Cebu eSIM, Davao eSIM, Philippines prepaid eSIM, 5G Philippines eSIM, Boracay eSIM, Palawan eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Ontvang de beste Filipijnen prepaid eSIM met 5G op Globe, Smart & DITO. Geen ID of selfie nodig — directe QR-activering. Omzeil RA 11934-registratie. Vanaf $2.99.
+  keywords: Filipijnen eSIM, eSIM Filipijnen, koop Filipijnen eSIM, wat is de beste esim, Filipijnen eSIM prijs, Globe, Smart, DITO, Manilla eSIM, Cebu eSIM, Davao eSIM, Filipijnen eSIM 5G, Filipijnen eSIM databundel, Filipijnen eSIM dekking, Filipijnen eSIM activeren, Filipijnen prepaid eSIM
+  low_price: 2.99
+  high_price: 70.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -395,63 +395,75 @@ faq_section:
         Wanneer begint de geldigheidsperiode van mijn Filipijnen eSIM?
       a: |
         De geldigheid van het plan begint wanneer u verbinding maakt met een lokaal netwerk in de Filipijnen, niet wanneer u het koopt of installeert. U kunt dus weken voor uw reis kopen en installeren zonder plandagen te verliezen. Een 7-daags plan geeft u 7 volledige dagen vanaf de eerste verbinding.
+    - q: |
+        Hoe rond je de betaling voor een Filipijnen eSIM af?
+      a: |
+        De betaling voor een Filipijnen eSIM verloopt online via bekende betaalmethoden; de QR-code komt meteen in je inbox.
+    - q: |
+        Wanneer kun je de Filipijnen eSIM het beste installeren?
+      a: |
+        Installeer de Filipijnen eSIM al voor vertrek met de QR-code uit je e-mail; bij aankomst zet je de lijn aan en ben je direct online.
+    - q: |
+        Kun je een Filipijnen eSIM eenvoudig verlengen?
+      a: |
+        De looptijd van een Filipijnen eSIM varieert van 3 tot 30 dagen. Verlengen kan door voor vertrek of onderweg een extra pakket te kiezen.
 related_products:
   title: Gerelateerde Filipijnen eSIM Plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
+  - name: Australië eSIM
+    flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Spanje eSIM
-    flag: img/flags/es.svg
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Duitsland eSIM
     flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Australië eSIM
-    flag: img/flags/au.svg
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
 market_analysis:
   title: 'Filipijnen eSIM vs Prepaid SIM-kaart: Is Overstappen de Moeite Waard?'
   subtitle: Filipijnse Lokale Prepaid SIM's vs. eSIM Oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Filipijnen) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Philippines
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)

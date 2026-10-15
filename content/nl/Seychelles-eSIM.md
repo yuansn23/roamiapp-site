@@ -1,6 +1,6 @@
 ---
 title: 'Seychellen eSIM 2026 - Beste 5G-plan voor Mahé & Praslin | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Onze eSIM-service is geüpgraded naar <strong>PhoneSIM</strong>.<br>Nieuwe klanten krijgen 20% korting, promotiecode:web20
 seo:
   title: Seychellen eSIM - Beste 5G-dekking voor Uw Verblijf
-  description: Krijg de beste Seychellen prepaid eSIM met 5G op Airtel, Cable & Wireless & Intelvision. Geen ID nodig — directe QR-activering. Klaar voor eilandhoppen op Mahé, Praslin & La Digue. Vanaf $1.99.
-  keywords: Seychellen eSIM, Seychellen eSIM kopen, beste Seychellen eSIM, Seychellen reis eSIM, Airtel Seychellen, Cable & Wireless Seychellen, Intelvision Seychellen, Victoria eSIM, Beau Vallon eSIM, Anse Royale eSIM, Seychellen prepaid eSIM, 5G Seychellen eSIM, Mahé eSIM, Praslin eSIM, La Digue eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Krijg de beste Seychellen prepaid eSIM met 5G op Airtel, Cable & Wireless & Intelvision. Geen ID nodig — directe QR-activering. Klaar voor eilandhoppen op Mahé, Praslin & La Digue. Vanaf $9.99.
+  keywords: Seychellen eSIM, eSIM Seychellen, koop Seychellen eSIM, beste Seychellen eSIM, Seychellen eSIM prijs, Airtel, Cable & Wireless, Intelvision, Victoria eSIM, Beau Vallon eSIM, Anse Royale eSIM, Seychellen eSIM 5G, Seychellen eSIM databundel, Seychellen eSIM dekking, Seychellen eSIM activeren, Seychellen prepaid eSIM
+  low_price: 9.99
+  high_price: 109.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Verbindt automatisch met Airtel, Cable & Wireless & Intelvision voor het beste signaal op de eilanden
-plans_title: 'Koop Seychellen eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Kies je Seychellen eSIM: Abonnementen voor Elke Reisduur'
 plans_data:
   3 Dagen:
   - spec: 1GB
@@ -311,7 +311,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Seychellen eSIM Installatietips: Wat u Moet Weten Voordat u Gaat'
+  title: 'Seychellen eSIM Installatiegids: Bereid je Reis Voor'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-compatibel</a> is voordat u koopt.
@@ -332,7 +332,7 @@ reminders:
     code: '*#06#'
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Seychellen eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Zo Installeer je Seychellen eSIM: 3 Eenvoudige Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -357,7 +357,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Seychellen eSIM FAQ's
+    title: 'Seychellen eSIM: Vragen en Antwoorden'
     questions:
     - q: |
         Heb ik een paspoort nodig om een SIM-kaart op de Seychellen te kopen?
@@ -395,55 +395,67 @@ faq_section:
         Kan ik mijn Seychellen eSIM opwaarderen als ik door mijn data heen ben?
       a: |
         Ja — u kunt op elk moment met één klik opwaarderen via uw Roami-account. In tegenstelling tot lokale SIMs op de Seychellen die een winkel vereisen of lokale betaalmethoden, accepteert Roami wereldwijde betaalmethoden zonder extra stappen.
+    - q: |
+        Wat kost een Seychellen eSIM en welke databundels zijn er?
+      a: |
+        Roami eSIM-pakketten voor Seychellen beginnen vanaf $9.99 en lopen op tot $109.99. Je kiest per databundel en geldigheidsduur, zonder abonnement of verborgen kosten.
+    - q: |
+        Kun je een Seychellen eSIM delen via hotspot?
+      a: |
+        Ja, je kunt je verbinding delen met een laptop of tweede toestel. Er geldt geen aparte hotspottoeslag bovenop je databundel.
+    - q: |
+        Is een Seychellen eSIM voordeliger dan een lokale prepaid sim?
+      a: |
+        Een lokale sim vraagt registratie in een winkel, terwijl je een eSIM al voor vertrek installeert. Dat scheelt tijd en gedoe op de luchthaven van Seychellen.
 related_products:
   title: Gerelateerde eSIM-plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Australië eSIM
+    flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Frankrijk eSIM
     flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Spanje eSIM
-    flag: img/flags/es.svg
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: China eSIM
+    flag: img/flags/cn.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Duitsland eSIM
     flag: img/flags/de.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Australië eSIM
-    flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
 ---

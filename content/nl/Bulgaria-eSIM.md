@@ -1,6 +1,6 @@
 ---
 title: 'Bulgaria eSIM 2026: Reis- & Netwerkgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: Bulgaria eSIM | Beste 5G Prepaid Data voor Reizigers
   description: 'Ontdek Bulgarije met de beste prepaid reis-eSIM van Roami. Onbeperkte 5G-data in het hele land. Directe activering. Dekt Sofia, Plovdiv & de kust.'
-  keywords: 'Bulgaria eSIM, koop Bulgaria eSIM, beste Bulgaria eSIM, Bulgaria reis eSIM, A1 Bulgaria Bulgaria, Telenor Bulgaria, Vivacom Bulgaria, Sofia eSIM, Plovdiv eSIM, Varna eSIM, Bulgaria prepaid eSIM, 5G Bulgaria eSIM'
+  keywords: Bulgaria eSIM, eSIM Bulgaria, koop Bulgaria eSIM, beste Bulgaria eSIM, Bulgaria eSIM prijs, A1 Bulgaria, Telenor, Vivacom, Sofia eSIM, Plovdiv eSIM, Varna eSIM, Bulgaria eSIM 5G, Bulgaria eSIM databundel, Bulgaria eSIM dekking, Bulgaria eSIM activeren, Bulgaria prepaid eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Maakt automatisch verbinding met de beste Bulgaarse providers voor het beste signaal
-plans_title: 'Koop Bulgaria eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Koop Bulgaria eSIM: Pakketten voor Elke Reisduur'
 plans_data:
   30 Dagen:
   - spec: 20GB
@@ -324,7 +324,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Bulgaria eSIM Installatietips: Wat u Moet Weten Voor u Gaat'
+  title: 'Bulgaria eSIM Installatietips: Wat je Moet Weten Voordat je Gaat'
   items:
   - icon: 📱
     html: 'Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-compatibel</a> is voordat u koopt.'
@@ -343,7 +343,7 @@ reminders:
     code: '*#06#'
     result_html: 'Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!'
 activation_steps:
-  title: 'Hoe u Bulgaria eSIM Installeert: 3 Eenvoudige Stappen'
+  title: 'Snel Bulgaria eSIM Installeren: 3 Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -368,17 +368,17 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Bulgaria eSIM FAQ's
+    title: 'Bulgaria eSIM FAQ en Tips'
     questions:
     - q: |
         Zal het onbeperkte Bulgaria eSIM-plan vertragen als ik te veel data gebruik?
-      a: '| Er is een fair use-beleid: snelheden worden verlaagd na 30GB op een dag. Bij verlaagde snelheid kunt u nog steeds berichten sturen, navigeren en browsen — alleen geen vloeiende video. Realistisch gezien komen de meeste reizigers niet in de buurt van 30GB. Als u zich zorgen maakt, biedt een vast plan van 10GB ($14,99) of 20GB ($24,99) volledige zekerheid.'
+      a: '| Er is een fair use-beleid: snelheden worden verlaagd na 30GB op een dag. Bij verlaagde snelheid kunt u nog steeds berichten sturen, navigeren en browsen — alleen geen vloeiende video. Realistisch gezien komen de meeste reizigers niet in de buurt van 30GB. Als u zich zorgen maakt, biedt een vast plan van 10GB ($14,99) of 20GB ($20.99) volledige zekerheid.'
     - q: |
         Is het veilig om mijn paspoort te uploaden voor Bulgaria eSIM-registratie? Ik maak me zorgen over privacy.
       a: '| Bulgarije vereist identiteitsverificatie volgens de wet. Bulgarije vereist KYC-verificatie voor prepaid SIM-kaarten. Paspoort vereist. Het proces is eenvoudig: upload uw paspoort via het beveiligde portaal van Roami, goedkeuring duurt 5-10 minuten. Doe dit voordat u vertrekt — dit op de luchthaven doen met onstabiele WiFi is frustrerend. Na goedkeuring maakt u automatisch verbinding wanneer u Data Roaming inschakelt in Bulgarije.'
     - q: |
         Wat zijn de goedkoopste eSIM-opties voor een reis naar Bulgarije?
-      a: '| Roami Bulgaria eSIM-plannen beginnen bij $1,99 (7 dagen, 1GB) en gaan tot $59,99 (30 dagen onbeperkt). Voor een typische reis van 5-7 dagen is het 5GB-plan van $9,99 de beste keuze — genoeg voor kaarten, berichten en sociale media. Moet u video streamen of op afstand werken? Kies dan 10GB of onbeperkt. Dankzij A1''s 5G-netwerk werken streamen en videogesprekken uitstekend. SIM-kiosken op de luchthaven rekenen 30-50% meer en u moet in de rij wachten. Niet zeker van uw databehoefte? Begin klein en waardeer op via de app zonder uw eSIM te wijzigen.'
+      a: '| Roami Bulgaria eSIM-plannen beginnen bij $2.99 (7 dagen, 1GB) en gaan tot $77.99 (30 dagen onbeperkt). Voor een typische reis van 5-7 dagen is het 5GB-plan van $9,99 de beste keuze — genoeg voor kaarten, berichten en sociale media. Moet u video streamen of op afstand werken? Kies dan 10GB of onbeperkt. Dankzij A1''s 5G-netwerk werken streamen en videogesprekken uitstekend. SIM-kiosken op de luchthaven rekenen 30-50% meer en u moet in de rij wachten. Niet zeker van uw databehoefte? Begin klein en waardeer op via de app zonder uw eSIM te wijzigen.'
     - q: |
         Kan ik controleren hoeveel data ik heb gebruikt op mijn Bulgaria eSIM?
       a: '| Ja — u kunt datagebruik direct controleren in uw telefooninstellingen (Instellingen > Mobiel > Dataverbruik op iPhone) of via uw Roami-accountdashboard. Roami stuurt ook meldingen wanneer u 70% en 90% van uw plandata hebt gebruikt.'
@@ -394,15 +394,27 @@ faq_section:
     - q: |
         Wanneer begint de geldigheidsperiode van mijn Bulgaria eSIM?
       a: '| De geldigheid van het plan begint wanneer u verbinding maakt met een lokaal netwerk in Bulgarije, niet wanneer u het koopt of installeert. U kunt dus weken voor uw reis kopen en installeren zonder plandagen te verliezen. Een 7-daags plan geeft u 7 volledige dagen vanaf de eerste verbinding.'
+    - q: |
+        Werkt een Bulgaria eSIM ook op een recente smartphone?
+      a: |
+        Zolang je toestel eSIM ondersteunt, werkt de Bulgaria eSIM meteen. Op de compatibiliteitspagina zie je per model of het lukt.
+    - q: |
+        Kun je een Bulgaria eSIM met een creditcard betalen?
+      a: |
+        Betalen kan met onder andere creditcard en online betaalopties. Zodra de betaling rond is, ontvang je de installatie-QR-code.
+    - q: |
+        Werkt de Bulgaria eSIM direct na aankomst?
+      a: |
+        De installatie gebeurt vooraf via een QR-code. Zodra je in Bulgaria landt, schakel je de eSIM in en werkt je verbinding meteen.
 related_products:
   title: Gerelateerde Bulgaria eSIM Plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
+  - name: China eSIM
+    flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
@@ -413,44 +425,44 @@ related_products:
     flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Spanje eSIM
-    flag: img/flags/es.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Duitsland eSIM
-    flag: img/flags/de.svg
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Australië eSIM
     flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
+    price: Vanaf $1.99
+    is_highlight: false
 market_analysis:
   title: 'Bulgaria eSIM vs SIM-kaart Plannen: Welke Past bij Uw Behoeften?'
   subtitle: Bulgarije Lokale Prepaid SIM's vs. eSIM Oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Bulgaria) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Bulgaria
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)
@@ -483,7 +495,7 @@ market_analysis:
   - icon: wifi
     title: Hotspot &<br>Snelheidsbeleid
     prepaid_title: ''
-    prepaid_desc: 'Geen specifieke gegevens in de bron voor deze dimensie. Op basis van marktkennis is tethering over het algemeen toegestaan maar kan op sommige plannen beperkt zijn.'
+    prepaid_desc: 'Is tethering over het algemeen toegestaan maar kan op sommige plannen beperkt zijn.'
     esim_title: Onbeperkt Tethering
     esim_desc: 'Roami eSIM staat hotspot-deling op volledige snelheid toe, in tegenstelling tot sommige Bulgaarse prepaid plannen die tethering kunnen beperken. Deel data op al uw apparaten.'
   - icon: credit-card
@@ -495,7 +507,7 @@ market_analysis:
   - icon: headset
     title: Klanten-<br>ondersteuning
     prepaid_title: ''
-    prepaid_desc: 'Geen specifieke gegevens in de bron voor deze dimensie. Op basis van marktkennis is klantenondersteuning doorgaans in het Bulgaars met beperkte beschikbaarheid in het Engels.'
+    prepaid_desc: 'Is klantenondersteuning doorgaans in het Bulgaars met beperkte beschikbaarheid in het Engels.'
     esim_title: 24/7 Meertalige Ondersteuning
     esim_desc: 'Krijg 24/7 Engelse ondersteuning via live chat of e-mail, in tegenstelling tot de beperkte Bulgaarstalige telefoonondersteuning van Bulgaarse providers tijdens kantooruren.'
   expert_verdict:

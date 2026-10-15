@@ -1,6 +1,6 @@
 ---
 title: 'Tunesië eSIM - 4G/5G in Tunis & Sousse | Geen Luchthavenrijen | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Onze eSIM-service is geüpgraded naar <strong>PhoneSIM</strong>.<br>Nieuwe klanten genieten van 20% korting, promotiecode:web20
 seo:
   title: Tunesië eSIM - Beste Prepaid Datapakket voor Je Verblijf
-  description: Krijg de beste Tunesië eSIM met 4G/5G op Tunisie Telecom, Orange & Ooredoo. Geen luchthavenrijen, geen paspoortfotokopieën — directe QR-levering. Dekt Tunis, Sousse, Carthago & Hammamet. Pakketten vanaf $1.99.
-  keywords: Tunesië eSIM, koop Tunesië eSIM, beste Tunesië eSIM, Tunesië reis eSIM, Tunisie Telecom Tunesië, Orange Tunisie Tunesië, Ooredoo Tunisie Tunesië, Tunis eSIM, Sfax eSIM, Sousse eSIM, Tunesië prepaid eSIM, Carthago eSIM, Hammamet eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Krijg de beste Tunesië eSIM met 4G/5G op Tunisie Telecom, Orange & Ooredoo. Geen luchthavenrijen, geen paspoortfotokopieën — directe QR-levering. Dekt Tunis, Sousse, Carthago & Hammamet. Pakketten vanaf $3.99.
+  keywords: Tunesië eSIM, eSIM Tunesië, koop Tunesië eSIM, wat is de beste esim, Tunesië eSIM prijs, Tunisie Telecom, Orange Tunisie, Ooredoo Tunisie, Tunis eSIM, Sfax eSIM, Sousse eSIM, Tunesië eSIM 5G, Tunesië eSIM databundel, Tunesië eSIM dekking, Tunesië eSIM activeren, Tunesië prepaid eSIM
+  low_price: 3.99
+  high_price: 78.99
 order_summary:
   title: Geselecteerd Pakket
   label_data: Inbegrepen Data
@@ -74,7 +74,7 @@ features:
     color: from-cyan-400 to-cyan-600
     title: Kust & Stad Dekking
     desc: Sterk 4G/5G in Tunis, Sousse, Hammamet en alle grote toeristische plekken
-plans_title: 'Koop Tunesië eSIM: Pakketten voor Elke Reisduur'
+plans_title: 'Tunesië eSIM-plannen: Voor Elke Reisduur'
 plans_data:
   3 Dagen:
   - spec: 1GB
@@ -307,7 +307,7 @@ network_coverage:
       coverage: Goede kustdekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Tunesië eSIM Installatietips: Wat je Moet Weten Voor je Vertrekt'
+  title: 'Tunesië eSIM Installatietips: Slim Voorbereiden op je Reis'
   items:
   - icon: 📱
     html: Zorg ervoor dat je telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-compatibel</a> is voordat je koopt.
@@ -332,7 +332,7 @@ reminders:
     code: '*#06#'
     result_html: Als een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> nummer op je scherm verschijnt, wordt je apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Tunesië eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Tunesië eSIM-installatie in 3 Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -357,7 +357,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Tunesië eSIM FAQ's
+    title: 'Tunesië eSIM Gids: Veelgestelde Vragen'
     questions:
     - q: |
         Hoe erg is het echt om een SIM-kaart te kopen op Tunis-Carthage Airport?
@@ -378,7 +378,7 @@ faq_section:
     - q: |
         Waarom zijn Tunesië eSIM-pakketten duurder dan sommige Europese landen?
       a: |
-        Twee belangrijke redenen: (1) De telecommunicatie-infrastructuur van Tunesië is minder dicht dan in Europa, dus datakosten per GB zijn hoger voor providers. (2) Volatiliteit van de lokale valuta (TND) en importkosten beïnvloeden de internationale eSIM-prijzen. Dat gezegd hebbende, beginnen Roami's pakketten <strong>vanaf $1.99</strong> — en je betaalt voor <strong>gemak</strong> (geen luchthavenrijen, geen paspoortfotokopieën, geen winkelbezoeken). Voor een 7-daagse reis is de bespaarde tijd alleen al het kleine prijsverschil waard.
+        Twee belangrijke redenen: (1) De telecommunicatie-infrastructuur van Tunesië is minder dicht dan in Europa, dus datakosten per GB zijn hoger voor providers. (2) Volatiliteit van de lokale valuta (TND) en importkosten beïnvloeden de internationale eSIM-prijzen. Dat gezegd hebbende, beginnen Roami's pakketten <strong>vanaf $3.99</strong> — en je betaalt voor <strong>gemak</strong> (geen luchthavenrijen, geen paspoortfotokopieën, geen winkelbezoeken). Voor een 7-daagse reis is de bespaarde tijd alleen al het kleine prijsverschil waard.
     - q: |
         Kan ik Google Maps gebruiken voor sightseeing in Tunis, Carthago en Sidi Bou Said?
       a: |
@@ -390,7 +390,7 @@ faq_section:
     - q: |
         Kan ik een eSIM voor Tunesië krijgen zonder te veel uit te geven?
       a: |
-        Absoluut. Roami's Tunesië eSIM-pakketten beginnen vanaf slechts <strong>$1.99</strong>. De 5GB/15 dagen optie ($10.99) is het populairst onder reizigers — het verwerkt comfortabel kaarten, WhatsApp, Instagram en het delen van vakantiefoto's. Als je een zware datagebruiker bent, geven de 10GB ($16.99) of 20GB ($31.99) pakketten je gemoedsrust. Het overslaan van de SIM-balie op de luchthaven bespaart je tijd en het gedoe van in de rij staan bij Tunis-Carthage.
+        Absoluut. Roami's Tunesië eSIM-pakketten beginnen vanaf slechts <strong>$3.99</strong>. De 5GB/15 dagen optie ($10.99) is het populairst onder reizigers — het verwerkt comfortabel kaarten, WhatsApp, Instagram en het delen van vakantiefoto's. Als je een zware datagebruiker bent, geven de 10GB ($16.99) of 20GB ($31.99) pakketten je gemoedsrust. Het overslaan van de SIM-balie op de luchthaven bespaart je tijd en het gedoe van in de rij staan bij Tunis-Carthage.
     - q: |
         Wat als ik per ongeluk mijn Tunesië eSIM verwijder voor mijn reis?
       a: |
@@ -399,63 +399,75 @@ faq_section:
         Wanneer begint de geldigheidsperiode van mijn Tunesië eSIM?
       a: |
         De geldigheid van het pakket begint wanneer je verbinding maakt met een lokaal netwerk in Tunesië, niet wanneer je het koopt of installeert. Dus je kunt weken voor je reis kopen en installeren zonder pakketdagen te verliezen. Een 7-daags pakket geeft je 7 volledige dagen vanaf de eerste verbinding.
+    - q: |
+        Werkt de Tunesië eSIM direct na aankomst?
+      a: |
+        De installatie gebeurt vooraf via een QR-code. Zodra je in Tunesië landt, schakel je de eSIM in en werkt je verbinding meteen.
+    - q: |
+        Wat gebeurt er als je databundel voor Tunesië op is?
+      a: |
+        Je kiest een looptijd tussen 3 en 30 dagen. Is je data op, dan schaf je in een paar tikken een nieuw pakket aan.
+    - q: |
+        Hoeveel betaal je voor een Tunesië eSIM met een vast databundel?
+      a: |
+        Voor Tunesië liggen de prijzen tussen $3.99 en $78.99, afhankelijk van je databundel. Je betaalt eenmalig en houdt volledige controle over je verbruik.
 related_products:
   title: Gerelateerde Tunesië eSIM Pakketten
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
+  - name: China eSIM
+    flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Europe eSIM
+  - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: France eSIM
+  - name: Frankrijk eSIM
     flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Australia eSIM
+  - name: Australië eSIM
     flag: img/flags/au.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
 market_analysis:
   title: 'Tunesië eSIM vs Lokale SIM: Wat is Beter voor Je Reis?'
   subtitle: Lokale Prepaid SIM's in Tunesië vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Tunesië) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Tunisia
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)
@@ -484,7 +496,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Ooredoo 7-daagse 1,25GB kost 5 TND; 30-daagse pakketten beginnen bij 10,5 TND. Tunisie Telecom 30-daagse 1,1GB kost 4,5 TND. Kortetermijntoeristen kopen meer dan ze nodig hebben.
     esim_title: Flexibele Pakketten, Nul Verspilling
-    esim_desc: Roami biedt 3/7/15/30-daagse pakketten vanaf $1.99 — betaal alleen voor je werkelijke reisduur. Geen geforceerde 7-daagse of 30-daagse toezeggingen.
+    esim_desc: Roami biedt 3/7/15/30-daagse pakketten vanaf $3.99 — betaal alleen voor je werkelijke reisduur. Geen geforceerde 7-daagse of 30-daagse toezeggingen.
   - icon: wifi
     title: Hotspot &<br>Snelheidsbeleid
     prepaid_title: ''

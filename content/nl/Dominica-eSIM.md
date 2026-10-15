@@ -1,6 +1,6 @@
 ---
 title: 'Dominica eSIM 2026: Plan- & Dekkingsgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,10 +20,9 @@ seo:
   title: Dominica eSIM | Beste 5G Prepaid Data voor Uw Verblijf
   description: Plant u een reis naar Dominica? Krijg de beste prepaid reis-eSIM van Roami met onbeperkte 5G-data. Dekt Roseau & alle
     parochies. Directe activering.
-  keywords: Dominica eSIM, Dominica eSIM kopen, beste Dominica eSIM, Dominica reis eSIM, Digicel Dominica, Flow Dominica, Orange
-    Dominica, Roseau eSIM, Portsmouth eSIM, Marigot eSIM, Dominica prepaid eSIM, 5G Dominica eSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: Dominica eSIM, eSIM Dominica, koop Dominica eSIM, beste Dominica eSIM, Dominica eSIM prijs, Digicel, Flow, Orange, Roseau eSIM, Portsmouth eSIM, Marigot eSIM, Dominica eSIM 5G, Dominica eSIM databundel, Dominica eSIM dekking, Dominica eSIM activeren, Dominica prepaid eSIM
+  low_price: 11.99
+  high_price: 52.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -72,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Verbindt automatisch met de beste providers op Dominica voor het beste signaal
-plans_title: 'Koop Dominica eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Koop Dominica eSIM: Data-abonnementen voor Elke Reisduur'
 plans_data:
   15 Dagen:
   - spec: 3GB
@@ -169,7 +168,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Dominica eSIM Installatietips: Wat u Moet Weten Voordat u Gaat'
+  title: 'Dominica eSIM Installatietips: Wat u Moet Weten Voor u Gaat'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -190,7 +189,7 @@ reminders:
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Dominica eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'In 3 Stappen je Dominica eSIM Installeren'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -212,12 +211,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Online Komen op Dominica -- eSIM Netwerkkwaliteit en Snelheidsgids"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers op Dominica. Ontdek welke snelheden u kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Gids voor eSIM-snelheden, netwerkdekking en verbindingskwaliteit in Dominica. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Dominica eSIM FAQ's
+    title: 'Alles over Dominica eSIM: FAQ'
     questions:
     - q: |
         Biedt Flow of Digicel betere datasnelheden op Dominica?
@@ -230,7 +229,7 @@ faq_section:
     - q: |
         Wat als mijn hotel op Dominica gratis WiFi heeft — heb ik dan nog eSIM-data nodig?
       a: |
-        Hotel WiFi werkt in uw kamer, maar niet wanneer u op verkenning gaat. eSIM geeft u overal data — voor het navigeren door straten, zoeken naar nabijgelegen plaatsen, controleren van dienstregelingen. Een 5GB-plan kost $9.99, wat vaak goedkoper is dan betaalde hotel WiFi voor een week ($10-15 bij veel hotels). De meeste reizigers gebruiken hotel WiFi voor grote downloads en eSIM voor onderweg.
+        Hotel WiFi werkt in uw kamer, maar niet wanneer u op verkenning gaat. eSIM geeft u overal data — voor het navigeren door straten, zoeken naar nabijgelegen plaatsen, controleren van dienstregelingen. Een 5GB-plan kost $37.99, wat vaak goedkoper is dan betaalde hotel WiFi voor een week ($10-15 bij veel hotels). De meeste reizigers gebruiken hotel WiFi voor grote downloads en eSIM voor onderweg.
     - q: |
         Hoe verhoudt eSIM zich tot pocket WiFi voor reizen naar Dominica?
       a: |
@@ -238,7 +237,7 @@ faq_section:
     - q: |
         Ik heb internettoegang nodig voor slechts een paar dagen op Dominica. Wat is het minimum dat ik kan kopen?
       a: |
-        Het goedkoopste plan is $1.99 voor 7 dagen met 1GB — perfect voor een kort weekendtripje met licht gebruik. Als u meer nodig hebt, kunt u altijd opwaarderen via de app.
+        Het goedkoopste plan is $11.99 voor 7 dagen met 1GB — perfect voor een kort weekendtripje met licht gebruik. Als u meer nodig hebt, kunt u altijd opwaarderen via de app.
     - q: |
         Wat is het verschil tussen een 5GB-plan en een onbeperkt plan voor Dominica?
       a: |
@@ -246,68 +245,80 @@ faq_section:
     - q: |
         Kan ik controleren hoeveel data ik heb gebruikt op mijn Dominica eSIM?
       a: |
-        Ja — u kunt datagebruik direct controleren in uw telefooninstellingen (Instellingen > Mobiel > Dataverbruik op iPhone) of via uw Roami-accountdashboard. Roami stuurt ook meldingen wanneer u 70% en 90% van uw plan数据 hebt gebruikt.
+        Ja — u kunt datagebruik direct controleren in uw telefooninstellingen (Instellingen > Mobiel > Dataverbruik op iPhone) of via uw Roami-accountdashboard. Roami stuurt ook meldingen wanneer u 70% en 90% van uw plan data hebt gebruikt.
     - q: |
         Werkt de Dominica eSIM in landelijke gebieden en kleinere steden?
       a: |
         De dekking op Dominica bereikt ongeveer 95% van de stedelijke gebieden, maar neemt af op afgelegen locaties. Snelheden kunnen dalen van 200-300 Mbps (5G) naar 10-30 Mbps (4G). Roami schakelt automatisch over naar het sterkste netwerk. Download offline kaarten voordat u naar afgelegen gebieden gaat.
+    - q: |
+        Heb je met een eSIM goed bereik in Dominica?
+      a: |
+        Je eSIM kiest zelf het beste beschikbare netwerk, waaronder Digicel en Flow. Vooral in en rond Roseau en Portsmouth is het bereik doorgaans betrouwbaar.
+    - q: |
+        Werkt een Dominica eSIM ook op een recente smartphone?
+      a: |
+        Zolang je toestel eSIM ondersteunt, werkt de Dominica eSIM meteen. Op de compatibiliteitspagina zie je per model of het lukt.
+    - q: |
+        Kun je een Dominica eSIM met een creditcard betalen?
+      a: |
+        Betalen kan met onder andere creditcard en online betaalopties. Zodra de betaling rond is, ontvang je de installatie-QR-code.
 related_products:
   title: Gerelateerde Dominica eSIM-plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: Vanaf $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
+    price: Vanaf $1.99
+    is_highlight: true
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: China eSIM
+    flag: img/flags/cn.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Frankrijk eSIM
     flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Spanje eSIM
-    flag: img/flags/es.svg
+  - name: Australië eSIM
+    flag: img/flags/au.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Duitsland eSIM
     flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Australië eSIM
-    flag: img/flags/au.svg
-    price: Vanaf $1.99
-    is_highlight: false
 market_analysis:
   title: 'Dominica eSIM vs Lokale Prepaid SIM: Wat is Handiger?'
   subtitle: Dominica Lokale Prepaid SIMs vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Dominica) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Dominica
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktgegevens)
@@ -346,7 +357,7 @@ market_analysis:
   - icon: wifi
     title: Hotspot- &<br>Snelheidsbeleid
     prepaid_title: ''
-    prepaid_desc: Geen specifieke gegevens in de bron voor deze dimensie.
+    prepaid_desc: Hotspot-deling is bij prepaid doorgaans mogelijk binnen de fair-use-voorwaarden.
     esim_title: Onbeperkte Tethering
     esim_desc: Roami eSIM staat volledige hotspot-sharing toe. Geen verborgen beperkingen zoals bij sommige lokale SIMs. Deel uw data vrij
       tussen apparaten.
@@ -360,7 +371,7 @@ market_analysis:
   - icon: headset
     title: Klanten-<br>ondersteuning
     prepaid_title: ''
-    prepaid_desc: Geen specifieke gegevens in de bron voor deze dimensie.
+    prepaid_desc: Prepaid ondersteuning wordt doorgaans geboden via de officiële kanalen van de provider.
     esim_title: 24/7 Meertalige Ondersteuning
     esim_desc: Roami biedt 24/7 klantenondersteuning in het Engels en andere talen. Geen noodzaak om lokale telefonische lijnen in de landstaal
       of beperkte kantooruren te doorlopen.

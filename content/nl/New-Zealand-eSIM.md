@@ -1,6 +1,6 @@
 ---
 title: 'Nieuw-Zeeland eSIM - 5G in Auckland & Queenstown | Geen 30-Dagenverspilling | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Onze eSIM-service is geüpgraded naar <strong>PhoneSIM</strong>.<br>Nieuwe klanten genieten van 20% korting, promotiecode:web20
 seo:
   title: Nieuw-Zeeland eSIM - 5G Prepaid Datapakket voor Toeristen
-  description: Krijg de beste Nieuw-Zeeland eSIM met 5G op Spark, Vodafone & 2degrees. Geen geforceerde 30-daagse pakketten — lokale SIM's verspillen 70%+ op korte reizen. Dekt Auckland, Queenstown & Hobbiton. Pakketten vanaf $1.99.
-  keywords: Nieuw-Zeeland eSIM, koop Nieuw-Zeeland eSIM, beste Nieuw-Zeeland eSIM, Nieuw-Zeeland reis eSIM, Spark Nieuw-Zeeland, Vodafone NZ Nieuw-Zeeland, 2degrees Nieuw-Zeeland, Auckland eSIM, Wellington eSIM, Queenstown eSIM, Nieuw-Zeeland prepaid eSIM, 5G Nieuw-Zeeland eSIM, Hobbiton eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Krijg de beste Nieuw-Zeeland eSIM met 5G op Spark, Vodafone & 2degrees. Geen geforceerde 30-daagse pakketten — lokale SIM's verspillen 70%+ op korte reizen. Dekt Auckland, Queenstown & Hobbiton. Pakketten vanaf $3.99.
+  keywords: Nieuw-Zeeland eSIM, eSIM Nieuw-Zeeland, one month prepaid esim, beste esim nieuw zeeland, prepaid sim new zealand, Spark, Vodafone NZ, 2degrees, Auckland eSIM, Wellington eSIM, Christchurch eSIM, Nieuw-Zeeland eSIM 5G, Nieuw-Zeeland eSIM databundel, Nieuw-Zeeland eSIM dekking, Nieuw-Zeeland eSIM activeren, Nieuw-Zeeland prepaid eSIM
+  low_price: 3.99
+  high_price: 99.99
 order_summary:
   title: Geselecteerd Pakket
   label_data: Inbegrepen Data
@@ -74,7 +74,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Klaar voor Beide Eilanden
     desc: 4G/5G op Noord- & Zuidereiland — van Auckland tot Queenstown en Milford Sound
-plans_title: 'Koop Nieuw-Zeeland eSIM: Pakketten voor Elke Reisduur'
+plans_title: 'Nieuw-Zeeland eSIM Kopen: Abonnementen voor Elke Reisduur'
 plans_data:
   3 Dagen:
   - spec: 1GB
@@ -307,7 +307,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Nieuw-Zeeland eSIM Installatietips: Wat je Moet Weten Voor je Vertrekt'
+  title: 'Nieuw-Zeeland eSIM Installatietips: Zo Werkt het Zonder Gedoe'
   items:
   - icon: 📱
     html: Zorg ervoor dat je telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-compatibel</a> is voordat je koopt.
@@ -332,7 +332,7 @@ reminders:
     code: '*#06#'
     result_html: Als een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> nummer op je scherm verschijnt, wordt je apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Nieuw-Zeeland eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Hoe Werkt Nieuw-Zeeland eSIM: 3 Eenvoudige Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -357,12 +357,12 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Nieuw-Zeeland eSIM FAQ's
+    title: 'Nieuw-Zeeland eSIM FAQ'
     questions:
     - q: |
         Waarom is het kopen van een lokale SIM in Nieuw-Zeeland zo'n verspilling van geld voor korte reizen?
       a: |
-        De prepaid SIM-markt van Nieuw-Zeeland heeft een <strong>grote tekortkoming voor toeristen</strong>. One NZ Travel SIM heeft een <strong>minimumduur van 30 dagen</strong> — $29 NZD voor slechts 2GB data over 30 dagen. Voor een 7-daagse reis betaal je voor <strong>23 dagen die je niet gebruikt (meer dan 70% verspilling)</strong>. Skinny Holiday SIM is alleen beschikbaar bij <strong>twee specifieke luchthavenwinkels</strong> (Christchurch Hub Convenience en Queenstown Paper Plus) — als je in Auckland landt, kun je het niet kopen. Roami biedt <strong>3-, 7-, 15- en 30-daagse pakketten</strong> vanaf $1.99 — geen geforceerde 30-daagse toezegging, geen verspilling.
+        De prepaid SIM-markt van Nieuw-Zeeland heeft een <strong>grote tekortkoming voor toeristen</strong>. One NZ Travel SIM heeft een <strong>minimumduur van 30 dagen</strong> — $29 NZD voor slechts 2GB data over 30 dagen. Voor een 7-daagse reis betaal je voor <strong>23 dagen die je niet gebruikt (meer dan 70% verspilling)</strong>. Skinny Holiday SIM is alleen beschikbaar bij <strong>twee specifieke luchthavenwinkels</strong> (Christchurch Hub Convenience en Queenstown Paper Plus) — als je in Auckland landt, kun je het niet kopen. Roami biedt <strong>3-, 7-, 15- en 30-daagse pakketten</strong> vanaf $3.99 — geen geforceerde 30-daagse toezegging, geen verspilling.
     - q: |
         Heeft Nieuw-Zeeland 5G? Hoe snel is het in Auckland en Queenstown?
       a: |
@@ -391,54 +391,66 @@ faq_section:
         Wanneer begint de geldigheidsperiode van mijn Nieuw-Zeeland eSIM?
       a: |
         De geldigheid van het pakket begint wanneer je verbinding maakt met een lokaal netwerk in Nieuw-Zeeland, niet wanneer je het koopt of installeert. Dus je kunt weken voor je reis kopen en installeren zonder pakketdagen te verliezen. Een 7-daags pakket geeft je 7 volledige dagen vanaf de eerste verbinding.
+    - q: |
+        Welke toestellen ondersteunen een Nieuw-Zeeland eSIM?
+      a: |
+        Bijna alle moderne toestellen met eSIM-functionaliteit ondersteunen de Nieuw-Zeeland eSIM. Je bestaande SIM blijft gewoon actief.
+    - q: |
+        Hoe rond je de betaling voor een Nieuw-Zeeland eSIM af?
+      a: |
+        De betaling voor een Nieuw-Zeeland eSIM verloopt online via bekende betaalmethoden; de QR-code komt meteen in je inbox.
+    - q: |
+        Wanneer kun je de Nieuw-Zeeland eSIM het beste installeren?
+      a: |
+        Installeer de Nieuw-Zeeland eSIM al voor vertrek met de QR-code uit je e-mail; bij aankomst zet je de lijn aan en ben je direct online.
 related_products:
   title: Gerelateerde Nieuw-Zeeland eSIM Pakketten
   items:
-  - name: united states eSIM
+  - name: Verenigde Staten eSIM
     flag: img/flags/us.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: Vanaf $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
+    price: Vanaf $1.99
+    is_highlight: true
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Germany eSIM
+  - name: Duitsland eSIM
     flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Australia eSIM
+  - name: Australië eSIM
     flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
@@ -446,8 +458,8 @@ market_analysis:
   title: 'Nieuw-Zeeland eSIM vs Lokale SIM: Geen 30-Dagenverspilling, Geen Hotspotverbod'
   subtitle: Lokale Prepaid SIM's in Nieuw-Zeeland vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Nieuw-Zeeland) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/New-Zealand
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)
@@ -476,7 +488,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: One NZ Travel SIM forceert <strong>30-daags minimum</strong> ($29 NZD voor 2GB). Skinny Holiday SIM forceert 30-daagse geldigheid. Een 7-daagse toerist verspilt <strong>meer dan 70%</strong> van de waarde van het pakket.
     esim_title: Flexibele Korte Pakketten
-    esim_desc: Roami biedt <strong>3/7/15/30-daagse pakketten</strong> vanaf $1.99 — betaal alleen voor je werkelijke reisduur. Geen geforceerde 30-daagse toezegging, geen verspilling.
+    esim_desc: Roami biedt <strong>3/7/15/30-daagse pakketten</strong> vanaf $3.99 — betaal alleen voor je werkelijke reisduur. Geen geforceerde 30-daagse toezegging, geen verspilling.
   - icon: wifi
     title: Hotspot &<br>Snelheidsbeleid
     prepaid_title: ''

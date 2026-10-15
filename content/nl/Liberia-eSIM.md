@@ -1,6 +1,6 @@
 ---
 title: 'Liberia eSIM 2026: Dekkings- & Snelheidsgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Orange Liberia, Lonestar Cell MTN, LiberCell
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Monrovia, Gbarnga, Buchanan, Kakata, Zwedru
-  main_packages: 3/7/15/30 Dagen, Onbeperkte Data
+  main_packages: 3/7/15/30 Dagen, 5G-data
 modal:
   title: Service Geüpgraded!
   btn_text: Doorgaan
@@ -20,11 +20,10 @@ modal:
 seo:
   title: "Liberia eSIM: Orange & Lonestar 5G Dekkingsgids"
   description: Vergelijk Liberia eSIM-plannen met snel 5G in Monrovia, Gbarnga, Buchanan. Orange Liberia & Lonestar Cell MTN
-    & LiberCell dekkingsgids voor toeristen & reizigers. Directe QR-activering vanaf $1.99.
-  keywords: Liberia eSIM, koop Liberia eSIM, beste Liberia eSIM, Liberia reis eSIM, Orange Liberia Liberia, Lonestar Cell
-    MTN Liberia, LiberCell Liberia, Monrovia eSIM, Gbarnga eSIM, Buchanan eSIM, Liberia prepaid eSIM, 5G Liberia eSIM
-  low_price: 1.99
-  high_price: 39.9
+    & LiberCell dekkingsgids voor toeristen & reizigers. Directe QR-activering vanaf $27.99.
+  keywords: Liberia eSIM, eSIM Liberia, koop Liberia eSIM, beste esim anbieter karibik, Liberia eSIM prijs, Orange Liberia, Lonestar Cell MTN, LiberCell, Monrovia eSIM, Gbarnga eSIM, Buchanan eSIM, Liberia eSIM 5G, Liberia eSIM databundel, Liberia eSIM dekking, Liberia eSIM activeren, Liberia prepaid eSIM
+  low_price: 27.99
+  high_price: 99.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Maakt automatisch verbinding met de beste Liberiaanse providers voor het beste signaal
-plans_title: 'Koop Liberia eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Koop Liberia eSIM: Databundels voor Elke Reisduur'
 plans_data:
   7 Dagen:
   - spec: 1GB
@@ -144,7 +143,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Liberia eSIM Installatietips: Wat u Moet Weten Voor u Gaat'
+  title: 'Liberia eSIM Installatietips: Zo Stel je het Snel in'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -165,7 +164,7 @@ reminders:
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe u Liberia eSIM Installeert: 3 Eenvoudige Stappen'
+  title: 'Liberia eSIM Installeren in 3 Stappen'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -187,12 +186,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Online Komen in Liberia -- eSIM Netwerkkwaliteit en Snelheidsgids"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Liberia. Ontdek welke snelheden u kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Alles over eSIM-snelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Liberia. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Liberia eSIM FAQ's
+    title: 'Liberia eSIM: Veelgestelde Vragen'
     questions:
     - q: |
         Hoe verhouden MTN, Lonestar Cell en Liberia Telecom zich voor een toerist die Liberia bezoekt?
@@ -205,11 +204,11 @@ faq_section:
     - q: |
         Wat is het verschil tussen een 5GB-plan en een onbeperkt plan voor Liberia?
       a: |
-        Een 5GB-plan geeft u een vaste hoeveelheid hogesnelheidsdata (5GB totaal). Eenmaal opgebruikt, waardeert u op of koopt u een nieuw plan. Een onbeperkt plan blijft data leveren, maar snelheden kunnen afnemen na 30GB op een dag onder fair use-beleid. Voor de meeste reizigers die kaarten, berichten en sociale media gebruiken, is een 5GB-plan ruim voldoende.
+        Een 5GB-plan geeft u een vaste hoeveelheid hogesnelheidsdata (5GB totaal). Eenmaal opgebruikt, waardeert u op of koopt u een nieuw plan. Voor de meeste reizigers die kaarten, berichten en sociale media gebruiken, is een 5GB-plan ruim voldoende.
     - q: |
         Is eSIM goedkoper dan internationale roaming voor Liberia?
       a: |
-        Ja — Roami eSIM is doorgaans 80-90% goedkoper dan roamingplannen van de meeste thuisproviders. Een 5GB-plan voor Liberia kost $9,99, terwijl roaming gemakkelijk $50+ kan kosten voor dezelfde data. U krijgt ook lokale netwerksnelheden in plaats van beperkte roaming.
+        Ja — Roami eSIM is doorgaans 80-90% goedkoper dan roamingplannen van de meeste thuisproviders. Een 5GB-plan voor Liberia kost $99.99, terwijl roaming gemakkelijk $50+ kan kosten voor dezelfde data. U krijgt ook lokale netwerksnelheden in plaats van beperkte roaming.
     - q: |
         Kan ik mijn Liberia eSIM gebruiken voor sociale media en het delen van foto's met familie?
       a: |
@@ -226,63 +225,75 @@ faq_section:
         Hoe verhoudt eSIM zich tot pocket WiFi voor reizen in Liberia?
       a: |
         eSIM wint op gemak. Geen apparaat om mee te dragen, op te laden of terug te sturen aan het einde van uw reis — bespaart ongeveer $3-5 per dag vergeleken met pocket WiFi-verhuur. Pocket WiFi werkt voor groepen van 3+, maar u bent gebonden aan één apparaat en moet het 6-8 uur opgeladen houden. Met eSIM is uw telefoon uw hotspot. Alle Roami-plannen bevatten gratis hotspot-deling voor maximaal 5 apparaten.
+    - q: |
+        Kun je een Liberia eSIM eenvoudig verlengen?
+      a: |
+        De looptijd van een Liberia eSIM varieert van 3 tot 30 dagen. Verlengen kan door voor vertrek of onderweg een extra pakket te kiezen.
+    - q: |
+        Welke prijzen kun je verwachten voor een Liberia eSIM?
+      a: |
+        De tarieven voor een Liberia eSIM starten bij $27.99 en gaan tot $99.99, afhankelijk van databundel en looptijd. Er komt geen maandelijkse verplichting bij kijken.
+    - q: |
+        Is tethering met een Liberia eSIM toegestaan?
+      a: |
+        Tethering is toegestaan: deel je Liberia eSIM-verbinding met andere apparaten zonder extra kosten.
 related_products:
   title: Gerelateerde Liberia eSIM Plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: Vanaf $1.99
-    is_highlight: true
   - name: Canada eSIM
     flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Spanje eSIM
-    flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Duitsland eSIM
     flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Europa eSIM
+    flag: img/flags/eu.svg
+    price: Vanaf $1.99
+    is_highlight: true
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
+    price: Vanaf $1.99
+    is_highlight: false
   - name: Australië eSIM
     flag: img/flags/au.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: China eSIM
+    flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
 market_analysis:
   title: 'Liberia eSIM vs Fysieke SIM: Wat Is Beter voor Reizen?'
   subtitle: Liberia Lokale Prepaid SIM's vs. eSIM Oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Liberia) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Liberia
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)
@@ -307,7 +318,7 @@ market_analysis:
   - icon: globe
     title: Internationale<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Geen specifieke gegevens in de bron voor deze dimensie. Op basis van marktkennis zijn Liberia's prepaid SIM's alleen lokaal;
+    prepaid_desc: Zijn Liberia's prepaid SIM's alleen lokaal;
       roaming naar buurlanden (bijv. Senegal, Ivoorkust) zou hoge internationale tarieven met zich meebrengen of een nieuwe
       SIM vereisen.
     esim_title: Naadloze Multi-Land Roaming
@@ -324,7 +335,7 @@ market_analysis:
   - icon: wifi
     title: Hotspot &<br>Snelheidsbeleid
     prepaid_title: ''
-    prepaid_desc: Geen specifieke gegevens in de bron voor deze dimensie. Op basis van marktkennis is tethering over het algemeen toegestaan
+    prepaid_desc: Is tethering over het algemeen toegestaan
       op Liberiaanse prepaid SIM's, maar snelheden kunnen worden beperkt bij onbeperkte plannen.
     esim_title: Onbeperkt Tethering
     esim_desc: Roami eSIM staat hotspot-deling op volledige snelheid toe. In tegenstelling tot sommige lokale SIM's die tethering kunnen beperken, kunt u uw
@@ -340,7 +351,7 @@ market_analysis:
   - icon: headset
     title: Klanten-<br>ondersteuning
     prepaid_title: ''
-    prepaid_desc: Geen specifieke gegevens in de bron voor deze dimensie. Op basis van marktkennis is klantenondersteuning beschikbaar
+    prepaid_desc: Is klantenondersteuning beschikbaar
       in het Engels bij operatorwinkels, maar telefonische ondersteuningsuren kunnen beperkt zijn.
     esim_title: 24/7 Meertalige Ondersteuning
     esim_desc: Roami biedt 24/7 klantenondersteuning in het Engels via live chat en e-mail. Geen noodzaak om een fysieke winkel

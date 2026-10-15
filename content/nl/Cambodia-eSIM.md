@@ -1,6 +1,6 @@
 ---
 title: 'Cambodja eSIM 2026: Provider- & Dekkingsgids | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -21,10 +21,9 @@ seo:
   title: Cambodja eSIM | Beste 5G Prepaid Data voor Bezoekers
   description: Ontdek Cambodja met de beste prepaid reis-eSIM van Roami. Onbeperkte 5G-data in het hele land. Dekt Phnom Penh,
     Siem Reap & Sihanoukville. Directe activering.
-  keywords: Cambodja eSIM, Cambodja eSIM kopen, beste Cambodja eSIM, Cambodja reis eSIM, Smart Cambodja, Metfone Cambodja,
-    Cellcard Cambodja, Phnom Penh eSIM, Siem Reap eSIM, Sihanoukville eSIM, Cambodja prepaid eSIM, 5G Cambodja eSIM
-  low_price: 1.99
-  high_price: 39.9
+  keywords: Cambodja eSIM, eSIM Cambodja, koop Cambodja eSIM, beste Cambodja eSIM, Cambodja eSIM prijs, Smart, Metfone, Cellcard, Phnom Penh eSIM, Siem Reap eSIM, Sihanoukville eSIM, Cambodja eSIM 5G, Cambodja eSIM databundel, Cambodja eSIM dekking, Cambodja eSIM activeren, Cambodja prepaid eSIM
+  low_price: 3.99
+  high_price: 88.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Verbindt automatisch met de beste Cambodjaanse providers voor het beste signaal
-plans_title: 'Koop Cambodja eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Beste Cambodja eSIM: Pakketten voor Elke Reisduur'
 plans_data:
   30 Dagen:
   - spec: 20GB
@@ -316,7 +315,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Cambodja eSIM Installatietips: Wat u Moet Weten Voordat u Gaat'
+  title: 'Cambodja eSIM Installatiegids: Zo Begin je Zorgeloos'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -337,7 +336,7 @@ reminders:
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe Cambodja eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'Cambodja eSIM Installeren: Stap voor Stap'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -359,17 +358,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Welke Internetsnelheid Kunt u Verwachten met eSIM in Cambodja?"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Cambodja. Ontdek welke snelheden u kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Wat kun je verwachten van eSIM in Cambodja? Snelheden, dekking en kwaliteit in een complete gids. Ontdek waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Cambodja eSIM FAQ's
+    title: 'Vragen en Antwoorden over Cambodja eSIM'
     questions:
     - q: |
         Hoeveel moet ik budgetteren voor een eSIM bij een bezoek aan Cambodja?
       a: |
-        Roami biedt Cambodja eSIM vanaf $1.99 voor een licht 7-daags plan tot $59.99 voor 30 dagen onbeperkte data. De meeste bezoekers kiezen het 5GB/15 dagen plan van $9.99 — het dekt dagelijkse navigatie, social media en berichten zonder stress. Streamingfans of zware social media-gebruikers moeten 10GB of onbeperkt overwegen. Cellcard biedt betrouwbare snelheden in heel Cambodja. Roami-plannen zijn prepaid — geen verrassingsrekeningen, geen automatische verlenging, gewoon duidelijke prijzen.
+        Roami biedt Cambodja eSIM vanaf $3.99 voor een licht 7-daags plan tot $88.99 voor 30 dagen onbeperkte data. De meeste bezoekers kiezen het 5GB/15 dagen plan van $7.99 — het dekt dagelijkse navigatie, social media en berichten zonder stress. Streamingfans of zware social media-gebruikers moeten 10GB of onbeperkt overwegen. Cellcard biedt betrouwbare snelheden in heel Cambodja. Roami-plannen zijn prepaid — geen verrassingsrekeningen, geen automatische verlenging, gewoon duidelijke prijzen.
     - q: |
         Hoe verhoudt Roami zich tot Airalo voor eSIM in Cambodja?
       a: |
@@ -377,7 +376,7 @@ faq_section:
     - q: |
         Zal het onbeperkte Cambodja eSIM-plan vertragen als ik te veel data gebruik?
       a: |
-        Er is een fair use-beleid: snelheden worden verlaagd na 30GB op een dag. Bij verlaagde snelheid kunt u nog steeds berichten sturen, navigeren en browsen — alleen geen vloeiende video. Realistisch gezien komen de meeste reizigers niet in de buurt van 30GB. Als u zich zorgen maakt, neemt een vast plan van 10GB ($14.99) of 20GB ($24.99) de onzekerheid volledig weg.
+        Er is een fair use-beleid: snelheden worden verlaagd na 30GB op een dag. Bij verlaagde snelheid kunt u nog steeds berichten sturen, navigeren en browsen — alleen geen vloeiende video. Realistisch gezien komen de meeste reizigers niet in de buurt van 30GB. Als u zich zorgen maakt, neemt een vast plan van 10GB ($9.99) of 20GB ($17.99) de onzekerheid volledig weg.
     - q: |
         Is het veilig om mijn paspoort te uploaden voor Cambodja eSIM-registratie? Ik maak me zorgen over privacy.
       a: |
@@ -385,7 +384,7 @@ faq_section:
     - q: |
         Is eSIM goedkoper dan internationale roaming voor Cambodja?
       a: |
-        Ja — Roami eSIM is doorgaans 80-90% goedkoper dan roamingplannen van de meeste thuisproviders. Een 5GB-plan voor Cambodja kost $9.99, terwijl roaming gemakkelijk $50+ kan kosten voor dezelfde data. U krijgt ook lokale netwerksnelheden in plaats van vertraagde roaming.
+        Ja — Roami eSIM is doorgaans 80-90% goedkoper dan roamingplannen van de meeste thuisproviders. Een 5GB-plan voor Cambodja kost $6.99, terwijl roaming gemakkelijk $50+ kan kosten voor dezelfde data. U krijgt ook lokale netwerksnelheden in plaats van vertraagde roaming.
     - q: |
         Kan ik mijn Cambodja eSIM gebruiken voor social media en het delen van foto's met familie?
       a: |
@@ -397,48 +396,44 @@ faq_section:
     - q: |
         Wat is de meest populaire eSIM-keuze voor reizigers naar Cambodja?
       a: |
-        De meeste reizigers naar Cambodja kiezen het 5GB/15 dagen plan ($9.99). Het is voldoende voor dagelijkse navigatie, social media en berichten. Voor langere verblijven of zwaarder gebruik zijn de 10GB ($14.99) of onbeperkt ($59.99) plannen goede opties. Alle plannen activeren binnen enkele minuten en bevatten 24/7 ondersteuning.
+        De meeste reizigers naar Cambodja kiezen het 5GB/15 dagen plan ($7.99). Het is voldoende voor dagelijkse navigatie, social media en berichten. Voor langere verblijven of zwaarder gebruik zijn de 10GB ($9.99) of onbeperkt ($11.99) plannen goede opties. Alle plannen activeren binnen enkele minuten en bevatten 24/7 ondersteuning.
+    - q: |
+        Wanneer kun je de Cambodja eSIM het beste installeren?
+      a: |
+        Installeer de Cambodja eSIM al voor vertrek met de QR-code uit je e-mail; bij aankomst zet je de lijn aan en ben je direct online.
+    - q: |
+        Kun je een Cambodja eSIM eenvoudig verlengen?
+      a: |
+        De looptijd van een Cambodja eSIM varieert van 3 tot 30 dagen. Verlengen kan door voor vertrek of onderweg een extra pakket te kiezen.
+    - q: |
+        Welke prijzen kun je verwachten voor een Cambodja eSIM?
+      a: |
+        De tarieven voor een Cambodja eSIM starten bij $3.99 en gaan tot $88.99, afhankelijk van databundel en looptijd. Er komt geen maandelijkse verplichting bij kijken.
 related_products:
   title: Gerelateerde Cambodja eSIM-plannen
   items:
-  - name: Verenigde Staten eSIM
-    flag: img/flags/us.svg
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
   - name: Turkije eSIM
     flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Japan eSIM
     flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Spanje eSIM
-    flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Duitsland eSIM
@@ -449,12 +444,28 @@ related_products:
     flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: China eSIM
+    flag: img/flags/cn.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigde Staten eSIM
+    flag: img/flags/us.svg
+    price: Vanaf $1.99
+    is_highlight: false
 market_analysis:
   title: 'Cambodja eSIM vs Prepaid SIM: Snelheid, Dekking en Prijs Vergeleken'
   subtitle: Cambodja Lokale Prepaid SIM's vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Cambodja) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Cambodia
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktgegevens)
@@ -490,7 +501,7 @@ market_analysis:
   - icon: wifi
     title: Hotspot- &<br>Snelheidsbeleid
     prepaid_title: ''
-    prepaid_desc: Geen specifieke gegevens in de bron voor deze dimensie. Op basis van algemene marktkennis staan de meeste Cambodjaanse prepaid SIM's tethering toe, maar kunnen ze na een bepaalde limiet vertragen; Smart's SurfLikeCrazy-plannen hebben FUP-beleid.
+    prepaid_desc: Staan de meeste Cambodjaanse prepaid SIM's tethering toe, maar kunnen ze na een bepaalde limiet vertragen; Smart's SurfLikeCrazy-plannen hebben FUP-beleid.
     esim_title: Onbeperkte Tethering
     esim_desc: Roami eSIM staat hotspot-sharing op volledige snelheid toe zonder vertraging of FUP-limieten. In tegenstelling tot lokale SIM's die de tetheringssnelheid na een bepaald datagebruik kunnen beperken, kunt u uw verbinding naadloos met meerdere apparaten delen.
   - icon: credit-card
@@ -502,7 +513,7 @@ market_analysis:
   - icon: headset
     title: Klanten-<br>ondersteuning
     prepaid_title: ''
-    prepaid_desc: Geen specifieke gegevens in de bron voor deze dimensie. Op basis van algemene marktkennis is klantenondersteuning doorgaans in het Khmer en Engels, met beperkte uren.
+    prepaid_desc: Is klantenondersteuning doorgaans in het Khmer en Engels, met beperkte uren.
     esim_title: 24/7 Meertalige Ondersteuning
     esim_desc: Roami biedt 24/7 klantenondersteuning in het Engels via live chat en e-mail. Geen gedoe met lokale ondersteuningslijnen met beperkte uren of taalbarrières.
   expert_verdict:

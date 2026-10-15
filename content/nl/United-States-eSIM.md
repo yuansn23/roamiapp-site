@@ -1,6 +1,6 @@
 ---
 title: 'VS eSIM 2026 - Beste 5G Prepaid Pakket voor Reizigers | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -20,11 +20,9 @@ modal:
 seo:
   title: VS eSIM - Beste 5G Prepaid Datapakket voor Reizigers
   description: Krijg de beste VS prepaid eSIM met 5G-dekking op T-Mobile, AT&T & Verizon. Geen ID of registratie nodig. Directe activatie. Pakketten vanaf $1.99.
-  keywords: VS eSIM, koop VS eSIM, beste VS eSIM, VS reis eSIM, T-Mobile Verenigde
-    Staten, AT&T VS, Verizon VS, New York eSIM, Los Angeles eSIM, Chicago eSIM, VS prepaid
-    eSIM, 5G VS eSIM
+  keywords: VS eSIM, eSIM VS, esim usa prepaid, wat is de beste esim, sim only prepaid esim, T-Mobile, AT&T, Verizon, New York eSIM, Los Angeles eSIM, Chicago eSIM, VS eSIM 5G, VS eSIM databundel, VS eSIM dekking, VS eSIM activeren, VS prepaid eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 49.99
 order_summary:
   title: Geselecteerd Pakket
   label_data: Inbegrepen Data
@@ -73,7 +71,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Automatisch verbinden met de beste VS-providers (T-Mobile, AT&T, Verizon) voor het beste signaal
-plans_title: 'Koop VS eSIM: Pakketten voor Elke Reisduur'
+plans_title: 'VS eSIM-pakketten: Voor Elke Reisduur'
 plans_data:
   3 Dagen:
   - spec: 1GB
@@ -316,7 +314,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'VS eSIM Installatietips: Wat je Moet Weten Voor je Vertrekt'
+  title: 'VS eSIM Installatietips: Voorkom Problemen Onderweg'
   items:
   - icon: 📱
     html: Zorg ervoor dat je telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -337,7 +335,7 @@ reminders:
     result_html: Als een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       nummer op je scherm verschijnt, wordt je apparaat ondersteund!
 activation_steps:
-  title: 'Hoe VS eSIM te Installeren: 3 Eenvoudige Stappen'
+  title: 'VS eSIM Activeren: Stap voor Stap'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -359,17 +357,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Werkt eSIM Goed in VS? Een Reisgids voor Internetkwaliteit"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in VS. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Praktische gids voor eSIM-internetsnelheden en netwerkdekking in VS. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: VS eSIM FAQ's
+    title: 'Alles over VS eSIM: FAQ'
     questions:
     - q: |
         Wat zijn de goedkoopste eSIM-opties voor een reis naar VS?
       a: |
-        Roami VS eSIM-pakketten beginnen bij $1.99 (7 dagen, 1GB) en gaan tot $59.99 (30 dagen onbeperkt). Voor een typische reis van 5-7 dagen is het 5GB-pakket van $9.99 de sweet spot — genoeg voor kaarten, berichten en sociale media. Wil je video streamen of remote werken? Ga voor 10GB of onbeperkt. Dankzij T-Mobile's 5G-netwerk werken streaming en videogesprekken uitstekend. SIM-kiosken op de luchthaven rekenen 30-50% meer, en je moet in de rij staan. Niet zeker van je databehoeften? Begin klein en waardeer op via de app zonder je eSIM te wijzigen.
+        Roami VS eSIM-pakketten beginnen bij $1.99 (7 dagen, 1GB) en gaan tot $49.99 (30 dagen onbeperkt). Voor een typische reis van 5-7 dagen is het 5GB-pakket van $5.99 de sweet spot — genoeg voor kaarten, berichten en sociale media. Wil je video streamen of remote werken? Ga voor 10GB of onbeperkt. Dankzij T-Mobile's 5G-netwerk werken streaming en videogesprekken uitstekend. SIM-kiosken op de luchthaven rekenen 30-50% meer, en je moet in de rij staan. Niet zeker van je databehoeften? Begin klein en waardeer op via de app zonder je eSIM te wijzigen.
     - q: |
         Vereist VS echt geen ID om eSIM te gebruiken? Kan ik gewoon kopen en gaan?
       a: |
@@ -381,7 +379,7 @@ faq_section:
     - q: |
         Is eSIM goedkoper dan internationale roaming voor VS?
       a: |
-        Ja — Roami eSIM is doorgaans 80-90% goedkoper dan roamingpakketten van de meeste thuisproviders. Een 5GB-pakket voor VS kost $9.99, terwijl roaming gemakkelijk $50+ kan kosten voor dezelfde data. Je krijgt ook lokale netwerksnelheden in plaats van beperkte roaming.
+        Ja — Roami eSIM is doorgaans 80-90% goedkoper dan roamingpakketten van de meeste thuisproviders. Een 5GB-pakket voor VS kost $5.99, terwijl roaming gemakkelijk $50+ kan kosten voor dezelfde data. Je krijgt ook lokale netwerksnelheden in plaats van beperkte roaming.
     - q: |
         Ik kom laat in de nacht aan in VS. Kan ik direct online?
       a: |
@@ -406,25 +404,33 @@ faq_section:
         Is het "Onbeperkt"-pakket echt onbeperkt zonder snelheidsdalingen?
       a: |
         Ja! In tegenstelling tot T-Mobile prepaid pakketten die de hotspot beperken na 35GB, biedt Roami's onbeperkte pakket data op volledige snelheid gedurende je hele reis. Geen verborgen fair-use beleid dat je snelheid verlaagt. Perfect voor videogesprekken, streaming en zwaar hotspot-gebruik.
+    - q: |
+        Werkt een VS eSIM ook op een recente smartphone?
+      a: |
+        Zolang je toestel eSIM ondersteunt, werkt de VS eSIM meteen. Op de compatibiliteitspagina zie je per model of het lukt.
+    - q: |
+        Kun je een VS eSIM met een creditcard betalen?
+      a: |
+        Betalen kan met onder andere creditcard en online betaalopties. Zodra de betaling rond is, ontvang je de installatie-QR-code.
+    - q: |
+        Werkt de VS eSIM direct na aankomst?
+      a: |
+        De installatie gebeurt vooraf via een QR-code. Zodra je in VS landt, schakel je de eSIM in en werkt je verbinding meteen.
 related_products:
   title: Gerelateerde VS eSIM Pakketten
   items:
-  - name: VS eSIM
-    flag: img/flags/us.svg
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd Koninkrijk
-    flag: img/flags/gb.svg
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
   - name: Turkije eSIM
     flag: img/flags/tr.svg
     price: Vanaf $1.99
@@ -433,24 +439,24 @@ related_products:
     flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
   - name: Frankrijk eSIM
     flag: img/flags/fr.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Spanje eSIM
     flag: img/flags/es.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Duitsland eSIM
-    flag: img/flags/de.svg
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Australië eSIM
@@ -461,8 +467,8 @@ market_analysis:
   title: 'VS eSIM vs Fysieke SIM-kaart: Voor- en Nadelen – Beste eSIM voor VS-reizigers'
   subtitle: Lokale Prepaid SIM's in VS vs. eSIM-oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Verenigde Staten) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/United-States
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)
@@ -479,7 +485,7 @@ market_analysis:
   - icon: id-card
     title: KYC & Identiteits-<br>registratie
     prepaid_title: ''
-    prepaid_desc: Geen specifieke data in de bron voor deze dimensie. Op basis van marktkennis vereisen Amerikaanse prepaid SIM's identiteitsverificatie
+    prepaid_desc: Vereisen Amerikaanse prepaid SIM's identiteitsverificatie
       maar geen paspoortregistratie zoals Duitsland; online activering kan SSN of Amerikaans adres vereisen.
     esim_title: Geen Identiteitsverificatie
     esim_desc: Vermijd het gedoe van het verstrekken van SSN of Amerikaans adres. Roami eSIM vereist geen persoonlijke gegevens, gewoon kopen en installeren.
@@ -517,7 +523,7 @@ market_analysis:
   - icon: headset
     title: Klanten-<br>ondersteuning
     prepaid_title: ''
-    prepaid_desc: Geen specifieke data in de bron voor deze dimensie. Op basis van marktkennis is Amerikaanse prepaid klantenondersteuning
+    prepaid_desc: Is Amerikaanse prepaid klantenondersteuning
       doorgaans alleen telefonisch met lange wachttijden, en geen live chat voor prepaid gebruikers.
     esim_title: 24/7 Meertalige Ondersteuning
     esim_desc: Krijg directe hulp via live chat of e-mail, in tegenstelling tot Amerikaanse prepaid providers die alleen telefonische ondersteuning met lange

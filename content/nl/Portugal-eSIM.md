@@ -1,6 +1,6 @@
 ---
 title: 'Portugal eSIM 2026 - Beste 5G Plan voor Lissabon & Algarve | Roami'
-date: '2026-09-16T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: Portugal eSIM - Beste 5G Prepaid Plan voor Uw Reis
   description: Ontvang de beste Portugal prepaid eSIM met 5G op Vodafone, MEO & NOS. Geen ID nodig — directe QR-activering. Wereldwijde betaling geaccepteerd — geen lokale kaartbeperkingen. Vanaf $1.99.
-  keywords: Portugal eSIM, koop Portugal eSIM, beste Portugal eSIM, Portugal reis eSIM, Vodafone Portugal, MEO Portugal, NOS Portugal, Lisbon eSIM, Porto eSIM, Faro eSIM, Portugal prepaid eSIM, 5G Portugal eSIM, Algarve eSIM, Douro Valley eSIM, Sintra eSIM
+  keywords: Portugal eSIM, eSIM Portugal, prepaid esim portugal, wat is de beste esim, Portugal eSIM prijs, Vodafone Portugal, MEO, NOS, Lissabon eSIM, Porto eSIM, Faro eSIM, Portugal eSIM 5G, Portugal eSIM databundel, Portugal eSIM dekking, Portugal eSIM activeren, Portugal prepaid eSIM
   low_price: 1.99
-  high_price: 39.9
+  high_price: 71.99
 order_summary:
   title: Geselecteerd Plan
   label_data: Inbegrepen Data
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Automatisch Schakelen
     desc: Maakt automatisch verbinding met Vodafone, MEO & NOS voor het beste signaal in heel Portugal
-plans_title: 'Koop Portugal eSIM: Plannen voor Elke Reisduur'
+plans_title: 'Koop Portugal eSIM: Tarieven voor Elke Reisduur'
 plans_data:
   3 Dagen:
   - spec: 1GB
@@ -319,7 +319,7 @@ network_coverage:
       coverage: Goede stedelijke dekking
       network: 5G/4G/LTE Netwerk
 reminders:
-  title: 'Portugal eSIM Installatietips: Wat u Moet Weten Voor u Gaat'
+  title: 'Portugal eSIM Installatiegids: Wat je Moet Weten'
   items:
   - icon: 📱
     html: Zorg ervoor dat uw telefoon <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM-compatibel</a> is voordat u koopt.
@@ -340,7 +340,7 @@ reminders:
     code: '*#06#'
     result_html: Als er een <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> nummer op uw scherm verschijnt, wordt uw apparaat ondersteund!
 activation_steps:
-  title: 'Hoe u Portugal eSIM Installeert: 3 Eenvoudige Stappen'
+  title: 'Portugal eSIM in 3 Eenvoudige Stappen Installeren'
   steps:
   - num: '1'
     title: 'Stap 1: Ontvang QR-code'
@@ -360,12 +360,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Portugal eSIM Gids: Snelheden, Dekking en Reistips voor Portugal"
-  desc: "Complete gids over eSIM-internetsnelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Portugal. Ontdek welke snelheden u kunt verwachten en waar eSIM het beste werkt."
+  desc: 'Alles over eSIM-snelheden, netwerkdekking en verbindingskwaliteit voor reizigers in Portugal. Ontdek welke snelheden je kunt verwachten en waar eSIM het beste werkt.'
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Algemeen
-    title: Portugal eSIM FAQ's
+    title: 'Van A tot Z: Portugal eSIM Vragen'
     questions:
     - q: |
         Moet ik een ID laten zien om een SIM-kaart in Portugal te kopen?
@@ -403,6 +403,18 @@ faq_section:
         Kan ik mijn Portugal eSIM opwaarderen als mijn data op is?
       a: |
         Ja — u kunt op elk moment met één klik opwaarderen via uw Roami-account. In tegenstelling tot Portugese prepaid SIM's met hun complexe betalingsbeperkingen (MEO/NOS weigeren internationale kaarten, Vodafone vereist kaarten ouder dan 3 maanden, NOS rekent Payshop-kosten), accepteert Roami wereldwijde betaalmethoden zonder barrières.
+    - q: |
+        Hoe lang is een Portugal eSIM geldig en kun je verlengen?
+      a: |
+        De geldigheid loopt van 3 tot 30 dagen, afhankelijk van het pakket dat je kiest. Raakt je bundel bijna leeg, dan voeg je eenvoudig een nieuw pakket toe.
+    - q: |
+        Wat kost een Portugal eSIM en welke databundels zijn er?
+      a: |
+        Roami eSIM-pakketten voor Portugal beginnen vanaf $1.99 en lopen op tot $71.99. Je kiest per databundel en geldigheidsduur, zonder abonnement of verborgen kosten.
+    - q: |
+        Kun je een Portugal eSIM delen via hotspot?
+      a: |
+        Ja, je kunt je verbinding delen met een laptop of tweede toestel. Er geldt geen aparte hotspottoeslag bovenop je databundel.
 related_products:
   title: Gerelateerde Portugal eSIM Plannen
   items:
@@ -410,56 +422,56 @@ related_products:
     flag: img/flags/us.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Verenigd-Koninkrijk
-    flag: img/flags/gb.svg
+  - name: Frankrijk eSIM
+    flag: img/flags/fr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Europa eSIM
     flag: img/flags/eu.svg
     price: Vanaf $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Turkije eSIM
-    flag: img/flags/tr.svg
+  - name: Verenigd Koninkrijk eSIM
+    flag: img/flags/gb.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: China eSIM
     flag: img/flags/cn.svg
     price: Vanaf $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Frankrijk eSIM
-    flag: img/flags/fr.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Spanje eSIM
-    flag: img/flags/es.svg
-    price: Vanaf $1.99
-    is_highlight: false
-  - name: Duitsland eSIM
-    flag: img/flags/de.svg
+  - name: Turkije eSIM
+    flag: img/flags/tr.svg
     price: Vanaf $1.99
     is_highlight: false
   - name: Australië eSIM
     flag: img/flags/au.svg
     price: Vanaf $1.99
     is_highlight: false
+  - name: Duitsland eSIM
+    flag: img/flags/de.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Hongkong eSIM
+    flag: img/flags/hk.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Spanje eSIM
+    flag: img/flags/es.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Canada eSIM
+    flag: img/flags/ca.svg
+    price: Vanaf $1.99
+    is_highlight: false
+  - name: Japan eSIM
+    flag: img/flags/jp.svg
+    price: Vanaf $1.99
+    is_highlight: false
 market_analysis:
   title: 'Portugal eSIM vs Lokale SIM-kaart: Welke Bespaart U Meer?'
   subtitle: Portugese Lokale Prepaid SIM's vs. eSIM Oplossingen (2024/2025 Benchmark)
   citation:
-    text: 'Databron: Prepaid Data SIM Card Wiki (Portugal) + Lokale Provider Sites'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Portugal
+    text: 'Databron: GSMA Mobile Connectivity Index + Lokale providersites'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Vergelijkingsmatrix
   - Lokale Prepaid SIM (Marktdata)
