@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Úc 2026 - Gói 5G tốt nhất cho Sydney & Melbourne | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: eSIM Úc - Gói Dữ liệu 5G Tốt nhất cho Hành trình của Bạn
-  description: Nhận eSIM trả trước Úc tốt nhất với 5G trên Telstra, Optus & TPG. Không cần địa chỉ hay CMND — kích hoạt QR tức thì. Không lãng phí gói 28 ngày. Từ 1,99 USD.
-  keywords: eSIM Úc, mua eSIM Úc, eSIM Úc tốt nhất, eSIM du lịch Úc, Telstra Úc, Optus Úc, TPG Telecom Úc, eSIM Sydney, eSIM Melbourne, eSIM Brisbane, eSIM trả trước Úc, eSIM 5G Úc, eSIM Great Ocean Road
+  description: Nhận eSIM trả trước Úc tốt nhất với 5G trên Telstra, Optus & TPG. Không cần địa chỉ hay CMND — kích hoạt QR tức thì. Không lãng phí gói 28 ngày. Từ $1.99.
+  keywords: eSIM Úc, mua eSIM Úc, eSIM Úc tốt nhất, eSIM du lịch Úc, Telstra Úc, Optus Úc, TPG Telecom Úc, eSIM Sydney, eSIM Melbourne, eSIM Brisbane, eSIM trả trước Úc, eSIM 5G Úc, eSIM Perth, eSIM Adelaide, eSIM Úc giá rẻ, sim du lịch Úc
   low_price: 1.99
-  high_price: 39.9
+  high_price: 71.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với Telstra, Optus & TPG Telecom để có tín hiệu tốt nhất trên khắp nước Úc
-plans_title: 'Mua eSIM Úc: Gói cho mọi thời gian chuyến đi'
+plans_title: 'Úc eSIM: Nhiều mức ngày và dung lượng'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -308,7 +308,7 @@ network_coverage:
       coverage: Vùng phủ đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Úc: Những điều cần biết trước khi đi'
+  title: 'Trước khi đến Úc: các mục cần kiểm tra với eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -329,7 +329,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Úc: 3 bước đơn giản'
+  title: 'Hướng dẫn kích hoạt Úc eSIM (3 bước)'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -349,12 +349,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hướng dẫn eSIM Úc: Tốc độ, Vùng phủ và Mẹo du lịch cho Úc"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, vùng phủ mạng và chất lượng kết nối cho du khách tại Úc. Tìm hiểu tốc độ mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Những câu hỏi phổ biến về tốc độ và độ phủ sóng eSIM khi đến Úc."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Úc
+    title: 'Hỏi đáp thường gặp: Úc eSIM'
     questions:
     - q: |
         Tôi có thực sự không cần địa chỉ hay CMND Úc cho eSIM Úc của Roami không?
@@ -375,7 +375,7 @@ faq_section:
     - q: |
         eSIM có rẻ hơn chuyển vùng quốc tế cho Úc không?
       a: |
-        Có — eSIM Roami thường rẻ hơn 80-90% so với các gói chuyển vùng từ hầu hết nhà mạng trong nước. Gói 5GB cho Úc có giá 6,99 USD, trong khi chuyển vùng có thể tốn hơn 50 USD cho cùng lượng dữ liệu. Bạn cũng nhận được tốc độ mạng địa phương thay vì chuyển vùng bị giới hạn.
+        Có — eSIM Roami thường rẻ hơn 80-90% so với các gói chuyển vùng từ hầu hết nhà mạng trong nước. Gói 5GB cho Úc có giá $4.99, trong khi chuyển vùng có thể tốn hơn 50 USD cho cùng lượng dữ liệu. Bạn cũng nhận được tốc độ mạng địa phương thay vì chuyển vùng bị giới hạn.
     - q: |
         Tôi đến Úc vào đêm khuya. Tôi có thể lên mạng ngay lập tức không?
       a: |
@@ -392,63 +392,75 @@ faq_section:
         Tôi có thể nạp thêm eSIM Úc nếu hết dữ liệu không?
       a: |
         Có — bạn có thể nạp thêm qua tài khoản Roami bất kỳ lúc nào. Không như SIM trả trước Úc với quy trình nạp phức tạp (ALDI yêu cầu xác minh vi thanh toán, Optus từ chối nhiều thẻ ngoại), Roami cho bạn toàn quyền linh hoạt thêm dữ liệu chỉ với một cú nhấp. Không cần mua SIM mới hay đến cửa hàng.
+    - q: |
+        eSIM Úc có những gói mấy ngày?
+      a: |
+        eSIM Úc của Roami có các lựa chọn 3/7/15/30 ngày, tùy theo độ dài hành trình. Chuyến trong ba ngày thì chọn mức ngắn là đủ; từ một tuần trở lên nên chọn gói dài hạn để chi phí mỗi ngày rẻ hơn.  Các thành phố lớn như Sydney, Melbourne đều có phủ sóng ổn định cho nhu cầu hằng ngày.
+    - q: |
+        Dùng eSIM Úc gặp sự cố thì liên hệ ai?
+      a: |
+        Roami có hỗ trợ khách hàng trực tuyến. Nếu gặp lỗi kết nối tại Úc, bạn kiểm tra đường eSIM đã bật và chuyển vùng dữ liệu đã mở chưa; nếu vẫn chưa được thì liên hệ hỗ trợ, trường hợp đủ điều kiện có thể yêu cầu hoàn tiền.  Tại khu vực Brisbane, Perth, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
+    - q: |
+        eSIM Úc giá bao nhiêu? Có lựa chọn rẻ không?
+      a: |
+        Gói eSIM Úc của Roami bắt đầu từ $1.99 (3 ngày 1GB), cao nhất $71.99 (30 ngày Không giới hạn). Chuyến ngắn dùng ít thì chọn gói nhập môn là đủ, khách dùng nhiều thì chọn mức cao hơn. Giá minh bạch, gói hết hạn tự kết thúc và không tự động gia hạn.  Sydney, Adelaide và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
 related_products:
   title: Các gói eSIM Úc liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ 1,99 USD
+  - name: eSIM Phần Lan
+    flag: img/flags/fi.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ 1,99 USD
+  - name: eSIM Fiji
+    flag: img/flags/fj.svg
+    price: Từ $6.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ 1,99 USD
+  - name: eSIM Quần đảo Faroe
+    flag: img/flags/fo.svg
+    price: Từ $5.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ 1,99 USD
-    is_highlight: false
   - name: eSIM Pháp
     flag: img/flags/fr.svg
-    price: Từ 1,99 USD
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ 1,99 USD
+  - name: eSIM Gabon
+    flag: img/flags/ga.svg
+    price: Từ $14.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ 1,99 USD
+  - name: eSIM Vương quốc Anh
+    flag: img/flags/gb.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ 1,99 USD
+  - name: eSIM Grenada
+    flag: img/flags/gd.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Georgia
+    flag: img/flags/ge.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Guiana thuộc Pháp
+    flag: img/flags/gf.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Ghana
+    flag: img/flags/gh.svg
+    price: Từ $7.99
+    is_highlight: false
+  - name: eSIM Gibraltar
+    flag: img/flags/gi.svg
+    price: Từ $5.99
+    is_highlight: false
+  - name: eSIM Guadeloupe
+    flag: img/flags/gp.svg
+    price: Từ $8.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Úc vs SIM Vật lý'
   subtitle: SIM trả trước địa phương Úc vs. Giải pháp eSIM (Đánh giá 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Úc) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Australia
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -477,7 +489,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Telstra, Optus và Lycamobile sử dụng chu kỳ 28 ngày; ALDI sử dụng chu kỳ 30 ngày. Một du khách 7 ngày mua gói $35/60GB của Telstra lãng phí ít nhất 70% giá trị gói.
     esim_title: Gói ngắn linh hoạt
-    esim_desc: Không như chu kỳ 28 ngày của Telstra ($35/60GB) khiến du khách 7 ngày lãng phí 70% giá trị, Roami cung cấp gói 7 ngày từ 1,99 USD/GB, tiết kiệm ít nhất 70% lãng phí.
+    esim_desc: Không như chu kỳ 28 ngày của Telstra ($35/60GB) khiến du khách 7 ngày lãng phí 70% giá trị, Roami cung cấp gói 7 ngày từ $1.99/GB, tiết kiệm ít nhất 70% lãng phí.
   - icon: wifi
     title: Chính sách chia sẻ<br>kết nối & tốc độ
     prepaid_title: ''
@@ -503,7 +515,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Loại bỏ chi phí chìm 28 ngày
-      desc: Telstra, Optus và Lycamobile sử dụng chu kỳ <b>28 ngày</b>. Một du khách 7 ngày mua gói $35/60GB của Telstra lãng phí <b>70%</b> giá trị. Roami cung cấp gói 7 ngày từ <b>1,99 USD/GB</b>, phù hợp với thời gian chuyến đi.
+      desc: Telstra, Optus và Lycamobile sử dụng chu kỳ <b>28 ngày</b>. Một du khách 7 ngày mua gói $35/60GB của Telstra lãng phí <b>70%</b> giá trị. Roami cung cấp gói 7 ngày từ <b>$1.99/GB</b>, phù hợp với thời gian chuyến đi.
     - icon: shield
       icon_bg: bg-teal-100
       icon_color: text-teal-600

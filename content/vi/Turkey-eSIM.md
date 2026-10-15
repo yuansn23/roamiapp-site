@@ -1,6 +1,6 @@
 ---
 title: 'Turkey eSIM - 5G tại Istanbul & Cappadocia | Không cần Hộ chiếu | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: Turkey eSIM - Gói Dữ liệu 5G Tốt nhất | Không cần Hộ chiếu
-  description: Nhận eSIM Thổ Nhĩ Kỳ tốt nhất với 5G trên Turkcell, Vodafone & Türk Telekom. Không cần hộ chiếu hay giấy tờ tùy thân — tự động vượt qua các khối internet của Thổ Nhĩ Kỳ. Tránh bị chặt chém giá ở sân bay Istanbul. Gói từ $1.99.
-  keywords: Turkey eSIM, mua Turkey eSIM, Turkey eSIM tốt nhất, Turkey travel eSIM, Turkcell Turkey, Vodafone Turkey, Türk Telekom Turkey, Istanbul eSIM, Ankara eSIM, Izmir eSIM, Turkey prepaid eSIM, 5G Turkey eSIM, Turkey eSIM không cần hộ chiếu, eSIM cho Cappadocia
+  description: Nhận eSIM Thổ Nhĩ Kỳ tốt nhất với 5G trên Turkcell, Vodafone & Türk Telekom. Không cần hộ chiếu hay giấy tờ tùy thân — kết nối internet hoạt động như ở nhà. Tránh bị chặt chém giá ở sân bay Istanbul. Gói từ $1.99.
+  keywords: Turkey eSIM, mua Turkey eSIM, Turkey eSIM tốt nhất, eSIM du lịch Turkey, Turkcell Turkey, Vodafone Turkey, Türk Telekom Turkey, eSIM Istanbul, eSIM Ankara, eSIM Izmir, eSIM trả trước Turkey, eSIM 5G Turkey, eSIM Antalya, eSIM Bursa, Turkey eSIM giá rẻ, sim du lịch Turkey
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -41,7 +41,7 @@ hero:
   flag_image: img/flags/tr.svg
   flag_alt: Cờ Thổ Nhĩ Kỳ
   title: 'Turkey eSIM: 5G tại Istanbul, Cappadocia'
-  subtitle: 5G trên Turkcell, Vodafone & Türk Telekom | Không cần hộ chiếu/giấy tờ tùy thân | Vượt qua kiểm duyệt địa phương | Giao QR tức thì
+  subtitle: 5G trên Turkcell, Vodafone & Türk Telekom | Không cần hộ chiếu/giấy tờ tùy thân | Giao QR tức thì
 features:
   title: 'Tại sao du khách Thổ Nhĩ Kỳ chọn Roami: Tốc độ, Quyền riêng tư & Giá trị'
   items:
@@ -71,9 +71,9 @@ features:
     desc: Tự động kết nối với Turkcell, Vodafone & Türk Telekom để có tín hiệu tốt nhất
   - icon: globe
     color: from-emerald-400 to-emerald-600
-    title: Vượt qua Kiểm duyệt
-    desc: Truy cập tất cả các trang web — Twitter, Facebook, Wikipedia, VPN — không bị chặn
-plans_title: 'Mua Turkey eSIM: Gói cho Mọi Thời gian Chuyến đi'
+    title: Truy cập không giới hạn
+    desc: Truy cập tất cả các trang web và ứng dụng yêu thích — không bị chặn
+plans_title: 'Gói và giá Turkey eSIM'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -323,7 +323,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo Thiết lập Turkey eSIM: Những điều Cần Biết Trước Khi Đi'
+  title: 'Điểm quan trọng trước khi kích hoạt Turkey eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích với eSIM</a> trước khi mua.
@@ -338,7 +338,7 @@ reminders:
   - icon: 🛂
     html: <span class="font-medium">Không cần hộ chiếu:</span> Thổ Nhĩ Kỳ yêu cầu hộ chiếu + bản dịch có công chứng cho SIM địa phương. Roami yêu cầu <span class="font-bold">không cần giấy tờ tùy thân</span> — không thủ tục giấy tờ, không cần đến cửa hàng.
   - icon: 🌐
-    html: <span class="font-medium">Truy cập tất cả trang web:</span> Thổ Nhĩ Kỳ chặn Twitter, Facebook, Wikipedia và VPN. Định tuyến quốc tế của Roami tự động vượt qua các khối này — không cần VPN.
+    html: <span class="font-medium">Truy cập tất cả trang web:</span> Một số dịch vụ quốc tế có thể bị hạn chế tại Thổ Nhĩ Kỳ. Định tuyến quốc tế của Roami giúp mọi ứng dụng hoạt động như ở nhà.
   - icon: 🕌
     html: <span class="font-medium">Mẹo địa phương:</span> Tải xuống ứng dụng <span class="font-medium">Google Translate</span> với gói ngoại tuyến tiếng Thổ — nó giúp ích cho thực đơn, biển báo và mặc cả ở Chợ Lớn.
   compatibility_check:
@@ -348,7 +348,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách Cài đặt Turkey eSIM: 3 Bước Đơn giản'
+  title: 'Turkey eSIM: từ cài đặt đến kết nối'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận Mã QR'
@@ -367,22 +367,22 @@ activation_steps:
     desc: Khi đến Thổ Nhĩ Kỳ, bật eSIM Thổ Nhĩ Kỳ của bạn trong cài đặt để bắt đầu sử dụng dữ liệu. Chúng tôi khuyên bạn nên kết nối với WiFi trong quá trình kích hoạt ban đầu.
     is_list: false
 faq_section:
-  title: "Hướng dẫn Turkey eSIM: 5G, Vượt qua Kiểm duyệt & Mẹo Du khách"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Thổ Nhĩ Kỳ. Tìm hiểu tốc độ bạn có thể mong đợi, cách vượt qua các khối và nơi eSIM hoạt động tốt nhất."
+  title: "Hướng dẫn Turkey eSIM: 5G, Kết nối & Mẹo Du khách"
+  desc: "Những điều cần biết về tốc độ, phủ sóng và kết nối khi dùng eSIM tại Turkey."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về Turkey eSIM
+    title: Thắc mắc thường gặp khi dùng Turkey eSIM
     questions:
     - q: |
         Tôi thực sự không cần hộ chiếu cho Turkey eSIM sao? Tại sao?
       a: |
-        Đúng vậy — Turkey eSIM của Roami không yêu cầu xác minh hộ chiếu hay giấy tờ tùy thân. Đây là lý do tại sao điều này quan trọng: Luật Thổ Nhĩ Kỳ yêu cầu tất cả SIM trả trước địa phương phải được đăng ký với hộ chiếu. Nếu hộ chiếu của bạn sử dụng bảng chữ cái không phải Latin (ví dụ: tiếng Trung, tiếng Ả Rập, tiếng Nga), bạn cũng phải cung cấp <strong>bản dịch có công chứng</strong> — một quá trình có thể mất hàng giờ và phát sinh thêm chi phí. Thẻ SIM Thổ Nhĩ Kỳ cũng có giá ₺350+ (~$11 USD) mà không bao gồm dữ liệu. Roami là eSIM dữ liệu quốc tế, hoàn toàn vượt qua các yêu cầu này. Mua trực tuyến, quét QR, sử dụng.
+        Đúng vậy — Turkey eSIM của Roami không yêu cầu xác minh hộ chiếu hay giấy tờ tùy thân. Đây là lý do tại sao điều này quan trọng: Luật Thổ Nhĩ Kỳ yêu cầu tất cả SIM trả trước địa phương phải được đăng ký với hộ chiếu. Nếu hộ chiếu của bạn sử dụng bảng chữ cái không phải Latin (ví dụ: tiếng Trung, tiếng Ả Rập, tiếng Nga), bạn cũng phải cung cấp <strong>bản dịch có công chứng</strong> — một quá trình có thể mất hàng giờ và phát sinh thêm chi phí. Thẻ SIM Thổ Nhĩ Kỳ cũng có giá ₺350+ (~$11 USD) mà không bao gồm dữ liệu. Roami là eSIM dữ liệu quốc tế, bạn không cần đáp ứng các yêu cầu này. Mua trực tuyến, quét QR, sử dụng.
     - q: |
         Thổ Nhĩ Kỳ chặn Twitter, Facebook và Wikipedia — tôi vẫn có thể sử dụng chúng với Roami không?
       a: |
-        Có. Các nhà mạng Thổ Nhĩ Kỳ (Turkcell, Vodafone, Türk Telekom) có nghĩa vụ pháp lý phải chặn quyền truy cập vào Twitter, Facebook, Wikipedia, YouTube và nhiều dịch vụ VPN. eSIM của Roami định tuyến dữ liệu qua các máy chủ quốc tế, <strong>tự động vượt qua các khối này</strong>. Bạn không cần một VPN riêng — tất cả ứng dụng của bạn hoạt động giống như ở nhà. Instagram, WhatsApp, Google Maps và các dịch vụ phát trực tuyến đều hoạt động bình thường.
+        Có. Các nhà mạng Thổ Nhĩ Kỳ (Turkcell, Vodafone, Türk Telekom) có thể hạn chế quyền truy cập một số dịch vụ quốc tế. eSIM của Roami định tuyến dữ liệu qua các máy chủ quốc tế, <strong>giúp tất cả ứng dụng của bạn hoạt động như ở nhà</strong>. Instagram, WhatsApp, Google Maps và các dịch vụ phát trực tuyến đều hoạt động bình thường.
     - q: |
         Nhà mạng Thổ Nhĩ Kỳ nào tốt nhất — Turkcell, Vodafone hay Türk Telekom?
       a: |
@@ -415,63 +415,75 @@ faq_section:
         Thời hạn hiệu lực của Turkey eSIM của tôi bắt đầu khi nào?
       a: |
         Thời hạn gói bắt đầu khi bạn kết nối với mạng địa phương ở Thổ Nhĩ Kỳ, không phải khi bạn mua hoặc cài đặt. Vì vậy, bạn có thể mua và cài đặt vài tuần trước chuyến đi mà không mất bất kỳ ngày nào của gói. Gói 7 ngày cho bạn 7 ngày đầy đủ kể từ lần kết nối đầu tiên.
+    - q: |
+        eSIM Turkey giá bao nhiêu? Có lựa chọn rẻ không?
+      a: |
+        Gói eSIM Turkey của Roami bắt đầu từ $1.99 (7 ngày 1GB), cao nhất $78.99 (30 ngày Không giới hạn). Chuyến ngắn dùng ít thì chọn gói nhập môn là đủ, khách dùng nhiều thì chọn mức cao hơn. Giá minh bạch, gói hết hạn tự kết thúc và không tự động gia hạn.  Thực tế tại Istanbul, Ankara, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
+    - q: |
+        Tốc độ eSIM Turkey có nhanh không? Có chậm hơn SIM vật lý không?
+      a: |
+        eSIM Turkey của Roami dùng trạm gốc của các nhà mạng chính tại địa phương, tốc độ tương đương SIM trả trước bản địa; tra bản đồ, mạng xã hội và gọi video đều mượt. Tốc độ thực tế còn phụ thuộc vị trí và tải của mạng tại thời điểm đó.  Dù ở Izmir, Antalya hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
+    - q: |
+        Đi Turkey vài ngày thì nên chọn gói eSIM dung lượng bao nhiêu?
+      a: |
+        eSIM Turkey của Roami có các mức 1GB, 3GB, 5GB, 10GB, Không giới hạn, 20GB. Chuyến ngắn, chỉ tra bản đồ và nhắn tin thì 1GB là đủ; nếu xem video ngắn, gọi video hoặc chia sẻ hotspot, bạn nên chọn mức cao hơn một bậc. Nếu chưa chắc về nhu cầu, có thể mua gói nhỏ rồi nạp thêm trong ứng dụng sau khi đến Turkey, không cần đổi SIM.  Vùng phủ di động tại Istanbul, Bursa đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
 related_products:
   title: Gói eSIM Liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
-    is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
+  - name: eSIM Honduras
+    flag: img/flags/hn.svg
+    price: Từ $6.99
     is_highlight: false
   - name: eSIM Hồng Kông
     flag: img/flags/hk.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
+  - name: eSIM Croatia
+    flag: img/flags/hr.svg
+    price: Từ $1.99
+    is_highlight: true
+  - name: eSIM Hungary
+    flag: img/flags/hu.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
+  - name: eSIM Indonesia
+    flag: img/flags/id.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
+  - name: eSIM Ireland
+    flag: img/flags/ie.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
+  - name: eSIM Israel
+    flag: img/flags/il.svg
+    price: Từ $2.99
+    is_highlight: false
+  - name: eSIM Ấn Độ
+    flag: img/flags/in.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Iraq
+    flag: img/flags/iq.svg
+    price: Từ $9.99
+    is_highlight: false
+  - name: eSIM Iceland
+    flag: img/flags/is.svg
     price: Từ $1.99
+    is_highlight: false
+  - name: eSIM Ý
+    flag: img/flags/it.svg
+    price: Từ $1.99
+    is_highlight: false
+  - name: eSIM Jamaica
+    flag: img/flags/jm.svg
+    price: Từ $11.99
     is_highlight: false
 market_analysis:
   title: 'Turkey eSIM vs SIM Trả trước Địa phương: Không cần Hộ chiếu, Không Lãng phí 28 Ngày'
   subtitle: SIM trả trước địa phương Thổ Nhĩ Kỳ vs. Giải pháp eSIM (Tiêu chuẩn 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Turkey) + Trang web Nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Turkey
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận So sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -514,11 +526,11 @@ market_analysis:
     esim_title: Chấp nhận Thanh toán Toàn cầu
     esim_desc: Tránh thẻ tín dụng quốc tế bị từ chối và phí trao đổi ẩn. Roami chấp nhận Visa, Mastercard, AMEX, Apple Pay, Google Pay và PayPal với giá USD minh bạch.
   - icon: shield
-    title: Kiểm duyệt &<br>Tự do Internet
+    title: Internet ổn định &<br>Không hạn chế
     prepaid_title: ''
-    prepaid_desc: Các nhà mạng Thổ Nhĩ Kỳ chặn Twitter, Facebook, Wikipedia, YouTube và nhiều dịch vụ VPN theo lệnh của chính phủ. Truy cập yêu cầu VPN bên thứ ba (thường cũng bị chặn).
-    esim_title: Vượt qua Mọi Khối
-    esim_desc: Định tuyến quốc tế của Roami tự động vượt qua kiểm duyệt internet của Thổ Nhĩ Kỳ. Truy cập Twitter, Facebook, Wikipedia, YouTube và VPN mà không cần phần mềm bổ sung — internet của bạn hoạt động như ở nhà.
+    prepaid_desc: Các nhà mạng Thổ Nhĩ Kỳ có thể hạn chế một số dịch vụ quốc tế. Định tuyến quốc tế của Roami giúp bạn truy cập mọi ứng dụng mà không cần phần mềm bổ sung.
+    esim_title: Truy cập mọi ứng dụng
+    esim_desc: Định tuyến quốc tế của Roami giúp bạn truy cập mọi trang web và ứng dụng yêu thích mà không cần phần mềm bổ sung — internet của bạn hoạt động như ở nhà.
   - icon: headset
     title: Hỗ trợ Khách hàng
     prepaid_title: ''
@@ -541,8 +553,8 @@ market_analysis:
     - icon: globe
       icon_bg: bg-purple-100
       icon_color: text-purple-600
-      title: Tự động Vượt qua Kiểm duyệt
-      desc: Các nhà mạng Thổ Nhĩ Kỳ chặn Twitter, Facebook, Wikipedia và VPN. Định tuyến quốc tế của Roami cho phép bạn truy cập <b>tất cả các trang web</b> mà không cần VPN riêng — ứng dụng mạng xã hội của bạn hoạt động chính xác như ở nhà.
+      title: Tự động tối ưu kết nối
+      desc: Các nhà mạng Thổ Nhĩ Kỳ có thể hạn chế một số dịch vụ quốc tế. Định tuyến quốc tế của Roami cho phép bạn truy cập <b>tất cả các trang web</b> — ứng dụng mạng xã hội của bạn hoạt động chính xác như ở nhà.
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600

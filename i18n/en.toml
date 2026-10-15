@@ -652,3 +652,9 @@ other = "Travel eSIM Guides"
 
 [author_bio]
 other = "Roami is a global eSIM carrier focused on travel connectivity. This guide is compiled from network data, official carrier and manufacturer documentation, and traveler inquiries."
+
+[more_faqs]
+other = "More eSIM Guides"
+
+[more_faqs_desc]
+other = "Additional setup, compatibility and troubleshooting guides from the Roami help center."

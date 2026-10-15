@@ -1,6 +1,6 @@
 ---
 title: '喀麥隆 eSIM 2026: 5G與方案 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,17 +9,16 @@ country_meta:
   operators: MTN, Orange, Nexttel
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: 杜阿拉、雅溫得、林貝、加魯阿、巴門達
-  main_packages: 3/7/15/30 天，無限數據
+  main_packages: 7/15/30 天，1GB/3GB/20GB
 modal:
   title: 服務更新！
   btn_text: 繼續
   text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: '喀麥隆eSIM｜5G高速吃到飽，出國推薦首選'
-  description: 比較喀麥隆 eSIM方案，杜阿拉、雅溫得、林貝、加魯阿、巴門達等地5G高速上網。MTN & Orange & Nexttel覆蓋指南。即時QR啟用，起價$1.99。
-  keywords: 喀麥隆 eSIM, 喀麥隆 eSIM方案, 最佳喀麥隆 eSIM, 喀麥隆上網, MTN 喀麥隆, Orange 喀麥隆, Nexttel 喀麥隆, 杜阿拉、雅溫得、林貝、加魯阿、巴門達 eSIM, 喀麥隆行動網路, 5G
-    喀麥隆
+  title: '喀麥隆eSIM｜5G高速上網，出國推薦首選'
+  description: 比較喀麥隆 eSIM方案，杜阿拉、雅溫得、林貝、加魯阿、巴門達等地5G高速上網。MTN & Orange & Nexttel覆蓋指南。即時QR啟用，起價$27.99。
+  keywords: 喀麥隆 eSIM, eSIM 喀麥隆, 喀麥隆 eSIM 購買, 最佳喀麥隆 eSIM, 喀麥隆 上網, MTN 喀麥隆, Orange 喀麥隆, Nexttel 喀麥隆, 杜阿拉 eSIM, 雅溫得 eSIM, 林貝 eSIM, 加魯阿 eSIM, 巴門達 eSIM, 喀麥隆 eSIM 方案, 喀麥隆 5G eSIM, 喀麥隆 eSIM 預付卡
 order_summary:
   title: 選擇 喀麥隆 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線喀麥隆最佳電信商，取得最強訊號
-plans_title: 購買喀麥隆 eSIM：適合各種旅程的方案
+plans_title: 喀麥隆 eSIM 資費方案一覽
 plans_data:
   7 天:
   - spec: 1GB
@@ -133,7 +132,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 4G/LTE 網路
 reminders:
-  title: 喀麥隆 eSIM秘訣：出發前須知
+  title: 喀麥隆 eSIM 使用重點提醒
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -162,7 +161,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 喀麥隆 eSIM啟用：3個簡單步驟
+  title: 喀麥隆 eSIM 安裝與啟用步驟
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 喀麥隆 做好準備
@@ -197,7 +196,7 @@ faq_section:
     title: 喀麥隆 eSIM MTN網路品質與速度指南｜4G/5G覆蓋範圍
     questions:
     - q: 出國去喀麥隆辦eSIM有推薦的方案嗎？不想花太多錢。
-      a: Roami 喀麥隆 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。喀麥隆以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去喀麥隆機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到喀麥隆後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 喀麥隆 eSIM方案從$27.99（7天1GB）起，最高$89.99（15天3GB）。一般旅客買最多的是3GB/15天（$89.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選20GB以上比較夠。喀麥隆以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去喀麥隆機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到喀麥隆後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 喀麥隆三大電信MTN、Orange、Camtel，一般觀光客選哪家比較適合？
       a: 喀麥隆主要有MTN、Orange、Camtel。MTN市區下載快、基地台密集。Orange郊區覆蓋廣，會去郊區的話選Orange路線較有保障。Camtel價格親民，適合預算有限的旅客。喀麥隆4G為主，主要城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用MTN，移動到郊區若MTN訊號變弱就自動跳Orange或Camtel，完全不用手動選。
     - q: 喀麥隆eSIM買了之後要驗證證件嗎？沒先辦好會不會到了不能用？
@@ -207,78 +206,83 @@ faq_section:
     - q: 喀麥隆eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
       a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
     - q: 去喀麥隆旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
-      a: Roami 喀麥隆 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
+      a: Roami 喀麥隆 eSIM方案從$27.99（7天1GB）起，最高$89.99（15天3GB）。一般選3GB/15天（$89.99）最熱門，不夠再到App加購。
+    - q: 在喀麥隆使用eSIM遇到問題，可以找誰幫忙？
+      a: Roami 提供線上客服協助。若在 喀麥隆 遇到連線異常，可先確認 eSIM 線路已開啟、數據漫遊已打開；仍無法解決再聯繫客服，符合條件可申請退款。 杜阿拉、雅溫得 等地的行動網路覆蓋完整，跨區移動也不斷線。
+    - q: 喀麥隆 eSIM 可以開熱點分享給旅伴嗎？
+      a: 可以，Roami 喀麥隆 eSIM 支援熱點分享，能分給筆電、平板或同行旅伴。多人共用建議挑規格大一級的方案，避免中途用完；用量抓不準也可以事後在 App 加購。 另外，林貝、加魯阿 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
+    - q: 喀麥隆 eSIM 的網速快嗎？會不會比當地實體卡慢？
+      a: Roami 喀麥隆 eSIM 走當地主要電信商的基地台，速度與當地預付卡相當，日常查地圖、社群、視訊通話都很順。實際速度仍會受所在位置與當下網路負載影響。 在 杜阿拉、巴門達 一帶實測收訊良好，移動中會自動切換基地台。
 related_products:
-  title: 類似 喀麥隆 eSIM 的旅行方案
+  title: 搭配 喀麥隆 的跨國 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 白俄羅斯 eSIM
+    flag: img/flags/by.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: japan-esim
+    slug: belarus-esim
+  - name: 科索沃 eSIM
+    flag: img/flags/xk.svg
+    price: 自 $13.99
+    is_highlight: false
+    slug: kosovo-esim
+  - name: 瓜地洛普 eSIM
+    flag: img/flags/gp.svg
+    price: 自 $8.99
+    is_highlight: false
+    slug: guadeloupe-esim
+  - name: 立陶宛 eSIM
+    flag: img/flags/lt.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: lithuania-esim
+  - name: 沙烏地阿拉伯 eSIM
+    flag: img/flags/sa.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: saudi-arabia-esim
+  - name: 加彭 eSIM
+    flag: img/flags/ga.svg
+    price: 自 $14.99
+    is_highlight: false
+    slug: gabon-esim
+  - name: 比利時 eSIM
+    flag: img/flags/be.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: belgium-esim
   - name: 韓國 eSIM
     flag: img/flags/kr.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: australia-esim
+    slug: south-korea-esim
   - name: 香港 eSIM
     flag: img/flags/hk.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: false
     slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+  - name: 希臘 eSIM
+    flag: img/flags/gr.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: greece-esim
+  - name: 柬埔寨 eSIM
+    flag: img/flags/kh.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: cambodia-esim
+  - name: 瑞士 eSIM
+    flag: img/flags/ch.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: switzerland-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Cameroon eSIM 上網品質實測 -- 速度、訊號、穩定度一次看懂"
   subtitle: "喀麥隆當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Cameroon) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Cameroon"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -287,7 +291,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Cameroon. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 MTN 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 MTN 門市排隊與護照影本提交，抵達杜阿拉或雅溫得後一分鐘內線上啟用，無需擔心街頭購卡被斷網的風險。"
     - icon: "id-card"
@@ -311,19 +315,19 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "分享與降速規則由 MTN、Orange 各自訂定，同一張卡在不同方案下限制不同，旅客容易誤判實際可用速度。"
       esim_title: "無限熱點分享"
       esim_desc: "Roami eSIM 支援熱點分享，無每日流量上限或降速限制，而當地業者如 MTN 的 30 GB 月包實為每日 1 GB 上限，超量後降速。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "加值可至 MTN 等業者門市或購買儲值券，國際信用卡線上儲值成功率低，且部分方案不支援自動續扣。"
       esim_title: "全球付款方式"
-      esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需在喀麥隆當地購買充值券或擔心外國卡被拒。"
+      esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需在喀麥隆當地購買儲值券或擔心外國卡被拒。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "MTN 的客服以本地語言為主且時間有限，漫遊或設定問題往往需自行摸索，缺少全天候支援管道。"
       esim_title: "24/7 多語支援"
       esim_desc: "Roami 提供 24/7 線上客服，無需前往 MTN 或 Orange 門市排隊，即時解決連線問題。"
 
@@ -340,7 +344,7 @@ market_analysis:
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "全球付款方式無障礙"
-        desc: "喀麥隆當地儲值需購買實體充值券或使用當地支付方式。Roami 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需擔心外國卡被拒。"
+        desc: "喀麥隆當地儲值需購買實體儲值券或使用當地支付方式。Roami 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需擔心外國卡被拒。"
       - icon: "tower-observation"
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"

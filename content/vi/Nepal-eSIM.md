@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Nepal 2026: Hướng dẫn Kết nối & Tốc độ | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Nepal | Gói dữ liệu trả trước nhanh cho du khách
   description: Du lịch Nepal với eSIM du lịch trả trước tốt nhất của Roami. Dữ liệu 5G không giới hạn. Phủ sóng Kathmandu, Pokhara & Bharatpur. Kích hoạt mã QR tức thì. Mua gói trực tuyến ngay hôm nay.
-  keywords: eSIM Nepal, mua eSIM Nepal, eSIM Nepal tốt nhất, eSIM du lịch Nepal, Ncell Nepal, Nepal Telecom Nepal, Smart Cell Nepal, eSIM Kathmandu, eSIM Pokhara, eSIM Bharatpur, eSIM trả trước Nepal, eSIM 5G Nepal
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM Nepal, mua eSIM Nepal, eSIM Nepal tốt nhất, eSIM du lịch Nepal, Ncell Nepal, Nepal Telecom Nepal, Smart Cell Nepal, eSIM Kathmandu, eSIM Pokhara, eSIM Bharatpur, eSIM trả trước Nepal, eSIM 5G Nepal, eSIM Lalitpur, eSIM Biratnagar, eSIM Nepal giá rẻ, sim du lịch Nepal
+  low_price: 10.99
+  high_price: 124.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng Nepal hàng đầu để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Nepal: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Nepal eSIM: gói linh hoạt theo ngày và dung lượng'
 plans_data:
   7 Ngày:
   - spec: 3GB
@@ -244,7 +244,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Nepal: Những điều cần biết trước khi đi'
+  title: 'Mẹo và lưu ý khi dùng Nepal eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích với eSIM</a> trước khi mua.
@@ -263,7 +263,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Nepal: 3 bước đơn giản'
+  title: 'Cài đặt Nepal eSIM trong một lần xem'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -283,12 +283,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Kết nối Internet tại Nepal -- Hướng dẫn chất lượng và tốc độ mạng eSIM"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Nepal. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Giải thích tốc độ internet, vùng phủ sóng và chất lượng mạng eSIM tại Nepal."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Nepal
+    title: Hỏi đáp nhanh về Nepal eSIM
     questions:
     - q: |
         Đối với khách du lịch ở Nepal, nên chọn Ncell hay NTC?
@@ -317,60 +317,72 @@ faq_section:
     - q: |
         Tôi cần truy cập internet chỉ trong vài ngày ở Nepal. Tôi có thể mua gói tối thiểu là gì?
       a: |
-        Gói rẻ nhất là $1.99 cho 7 ngày với 1GB — hoàn hảo cho chuyến cuối tuần ngắn với nhu cầu sử dụng nhẹ. Nếu cần thêm, bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng.
+        Gói rẻ nhất là $10.99 cho 7 ngày với 1GB — hoàn hảo cho chuyến cuối tuần ngắn với nhu cầu sử dụng nhẹ. Nếu cần thêm, bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng.
     - q: |
         Lựa chọn eSIM phổ biến nhất cho du khách đến Nepal là gì?
       a: |
-        Hầu hết du khách đến Nepal chọn gói 5GB/15 ngày ($9.99). Đủ cho điều hướng hàng ngày, mạng xã hội và nhắn tin. Đối với thời gian dài hơn hoặc sử dụng nhiều hơn, gói 10GB ($14.99) hoặc không giới hạn ($59.99) là các lựa chọn tuyệt vời. Tất cả gói kích hoạt trong vài phút và bao gồm hỗ trợ 24/7.
+        Hầu hết du khách đến Nepal chọn gói 5GB/15 ngày ($37.99). Đủ cho điều hướng hàng ngày, mạng xã hội và nhắn tin. Đối với thời gian dài hơn hoặc sử dụng nhiều hơn, gói 10GB ($57.99) hoặc không giới hạn ($52.99) là các lựa chọn tuyệt vời. Tất cả gói kích hoạt trong vài phút và bao gồm hỗ trợ 24/7.
+    - q: |
+        Dùng eSIM Nepal ở Kathmandu, Pokhara có ổn không?
+      a: |
+        Kathmandu, Pokhara và các đô thị chính đều được phủ sóng di động đầy đủ: tra bản đồ, gọi xe, nhắn tin và tải ảnh đều ổn. Một số vùng xa của Nepal tín hiệu yếu hơn, bạn nên tải bản đồ ngoại tuyến để phòng.  Kathmandu, Pokhara và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
+    - q: |
+        Mua eSIM Nepal thanh toán bằng cách nào? Bao lâu nhận được?
+      a: |
+        Roami hỗ trợ các hình thức thanh toán trực tuyến phổ biến; sau khi thanh toán, mã QR sẽ được gửi đến email của bạn, thường chỉ trong vài phút. Bạn nên mua và cài đặt trước chuyến đi để đến Nepal là có mạng ngay.  Thực tế tại Bharatpur, Lalitpur, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
+    - q: |
+        Dùng eSIM Nepal gặp sự cố thì liên hệ ai?
+      a: |
+        Roami có hỗ trợ khách hàng trực tuyến. Nếu gặp lỗi kết nối tại Nepal, bạn kiểm tra đường eSIM đã bật và chuyển vùng dữ liệu đã mở chưa; nếu vẫn chưa được thì liên hệ hỗ trợ, trường hợp đủ điều kiện có thể yêu cầu hoàn tiền.  Dù ở Kathmandu, Biratnagar hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
 related_products:
   title: Các gói eSIM liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ $1.99
+  - name: eSIM Chile
+    flag: img/flags/cl.svg
+    price: Từ $4.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
-    is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ $1.99
+  - name: eSIM Cameroon
+    flag: img/flags/cm.svg
+    price: Từ $27.99
     is_highlight: false
   - name: eSIM Trung Quốc
     flag: img/flags/cn.svg
     price: Từ $1.99
+    is_highlight: true
+  - name: eSIM Colombia
+    flag: img/flags/co.svg
+    price: Từ $4.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
+  - name: eSIM Costa Rica
+    flag: img/flags/cr.svg
+    price: Từ $9.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
+  - name: eSIM Síp
+    flag: img/flags/cy.svg
+    price: Từ $2.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
+  - name: eSIM Cộng hòa Séc
+    flag: img/flags/cz.svg
     price: Từ $1.99
     is_highlight: false
   - name: eSIM Đức
     flag: img/flags/de.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
+  - name: eSIM Đan Mạch
+    flag: img/flags/dk.svg
     price: Từ $1.99
+    is_highlight: false
+  - name: eSIM Dominica
+    flag: img/flags/dm.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Cộng hòa Dominica
+    flag: img/flags/do.svg
+    price: Từ $5.99
+    is_highlight: false
+  - name: eSIM Algeria
+    flag: img/flags/dz.svg
+    price: Từ $3.99
     is_highlight: false
 ---

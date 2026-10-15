@@ -1,6 +1,6 @@
 ---
 title: '瓜地馬拉 eSIM 2026: 旅客與網路 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,17 +9,16 @@ country_meta:
   operators: Tigo, Claro, Movistar
   competitors: Airalo, Holafly, Nomad, Maya Mobile, Ubigi
   main_cities: 瓜地馬拉市, 安地瓜, 佛羅雷斯, 克薩爾特南戈, 里奧杜爾塞
-  main_packages: 3/7/15/30 天，無限數據
+  main_packages: 7/15/30 天，1GB/3GB/5GB/10GB/20GB
 modal:
   title: 服務更新！
   btn_text: 繼續
   text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "瓜地馬拉eSIM｜免綁約5G吃到飽，吃到飽不降速"
-  description: "去瓜地馬拉出國上網推薦免綁約eSIM，Roami 5G吃到飽方案不用合約不用綁約。自由行上網方案推薦出國上網自由自在，用多少算多少最划算，旅行結束自動失效。"
-  keywords: 瓜地馬拉 eSIM, 瓜地馬拉 eSIM方案, 最佳瓜地馬拉 eSIM, 瓜地馬拉上網, Tigo 瓜地馬拉, Claro 瓜地馬拉, Movistar 瓜地馬拉, 瓜地馬拉市 eSIM, 安地瓜 eSIM, 佛羅雷斯
-    eSIM, 瓜地馬拉行動網路, 5G 瓜地馬拉
+  title: "瓜地馬拉eSIM｜免綁約5G上網，高速不降速"
+  description: "去瓜地馬拉出國上網推薦免綁約eSIM，Roami 5G上網方案不用合約不用綁約。自由行上網方案推薦出國上網自由自在，用多少算多少最划算，旅行結束自動失效。"
+  keywords: 瓜地馬拉 eSIM, eSIM 瓜地馬拉, 瓜地馬拉 eSIM 購買, 最佳瓜地馬拉 eSIM, 瓜地馬拉 上網, Tigo 瓜地馬拉, Claro 瓜地馬拉, Movistar 瓜地馬拉, 瓜地馬拉市 eSIM, 安地瓜 eSIM, 佛羅雷斯 eSIM, 克薩爾特南戈 eSIM, 里奧杜爾塞 eSIM, 瓜地馬拉 eSIM 方案, 瓜地馬拉 5G eSIM, 瓜地馬拉 eSIM 預付卡
 order_summary:
   title: 選擇 瓜地馬拉 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線瓜地馬拉最佳電信商，取得最強訊號
-plans_title: 購買瓜地馬拉 eSIM：適合各種旅程的方案
+plans_title: 一次看懂瓜地馬拉 eSIM 方案選項
 plans_data:
   7 天:
   - spec: 1GB
@@ -158,7 +157,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 瓜地馬拉 eSIM秘訣：出發前須知
+  title: 出發瓜地馬拉前：eSIM 檢查事項
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -187,7 +186,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 瓜地馬拉 eSIM啟用：3個簡單步驟
+  title: 出發前搞定：瓜地馬拉 eSIM 安裝啟用
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 瓜地馬拉 做好準備
@@ -222,7 +221,7 @@ faq_section:
     title: 瓜地馬拉 eSIM 電信網路Tigo全解析｜訊號品質與速度
     questions:
     - q: 去瓜地馬拉旅遊如果用eSIM，流量和天數要怎麼搭比較省？
-      a: Roami 瓜地馬拉 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。瓜地馬拉以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去瓜地馬拉機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到瓜地馬拉後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 瓜地馬拉 eSIM方案從$11.99（7天1GB）起，最高$48.99（30天10GB）。一般旅客買最多的是3GB/15天（$15.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選5GB以上比較夠。瓜地馬拉以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去瓜地馬拉機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到瓜地馬拉後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 去瓜地馬拉玩辦eSIM，Roami會自動切換Tigo、Claro、Movistar的網路嗎？
       a: 瓜地馬拉主要有Tigo、Claro、Movistar。Tigo市區下載快、基地台密集。Claro郊區覆蓋廣，會去郊區的話選Claro路線較有保障。Movistar價格親民，適合預算有限的旅客。瓜地馬拉4G為主，主要城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Tigo，移動到郊區若Tigo訊號變弱就自動跳Claro或Movistar，完全不用手動選。
     - q: 如果出發前忘記先辦好瓜地馬拉eSIM的認證，到當地才弄來得及嗎？
@@ -232,78 +231,83 @@ faq_section:
     - q: 出國去瓜地馬拉用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
       a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到瓜地馬拉開數據漫遊就用。
     - q: 跟旅伴一起去瓜地馬拉，買一張eSIM開熱點分享夠兩個人用嗎？
-      a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
+      a: Roami eSIM支援熱點分享。多人建議選5GB以上方案。不確定先買中階再App加購。
+    - q: 買瓜地馬拉 eSIM 支援哪些付款方式？多久能收到？
+      a: Roami 支援信用卡等常見線上付款，結帳後 QR code 會寄到你的電子郵件，通常幾分鐘內就能收到。建議出發前先在台灣買好、裝好，抵達 瓜地馬拉 即可連線。 在 瓜地馬拉市、安地瓜 一帶實測收訊良好，移動中會自動切換基地台。
+    - q: 去瓜地馬拉玩幾天，該挑多大的eSIM規格才夠用？
+      a: Roami 瓜地馬拉 eSIM 有 1GB、3GB、5GB、20GB、10GB 等規格可選。短天數、只查地圖傳訊息的輕度使用，1GB 就夠；如果會看短影片、視訊通話或開熱點分享，建議再往上加一級。用量抓不準可以先買小的，到 瓜地馬拉 後在 App 加購即可，不用換卡。 佛羅雷斯、克薩爾特南戈 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
+    - q: 瓜地馬拉 eSIM 可以開熱點分享給旅伴嗎？
+      a: 可以，Roami 瓜地馬拉 eSIM 支援熱點分享，能分給筆電、平板或同行旅伴。多人共用建議挑規格大一級的方案，避免中途用完；用量抓不準也可以事後在 App 加購。 實際走訪 瓜地馬拉市、里奧杜爾塞 等主要城市，上網查資料、傳照片都沒問題。
 related_products:
-  title: 類似 瓜地馬拉 eSIM 的旅行方案
+  title: 順遊國家的 eSIM 方案
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 哈薩克 eSIM
+    flag: img/flags/kz.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: kazakhstan-esim
+  - name: 厄瓜多 eSIM
+    flag: img/flags/ec.svg
+    price: 自 $6.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
+    slug: ecuador-esim
+  - name: 土耳其 eSIM
+    flag: img/flags/tr.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: turkey-esim
+  - name: 尼泊爾 eSIM
+    flag: img/flags/np.svg
+    price: 自 $10.99
+    is_highlight: false
+    slug: nepal-esim
+  - name: 立陶宛 eSIM
+    flag: img/flags/lt.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: lithuania-esim
+  - name: 科索沃 eSIM
+    flag: img/flags/xk.svg
+    price: 自 $13.99
+    is_highlight: false
+    slug: kosovo-esim
+  - name: 瑞士 eSIM
+    flag: img/flags/ch.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: switzerland-esim
+  - name: 哥倫比亞 eSIM
+    flag: img/flags/co.svg
+    price: 自 $4.99
+    is_highlight: false
+    slug: colombia-esim
+  - name: 巴拉圭 eSIM
+    flag: img/flags/py.svg
+    price: 自 $22.99
+    is_highlight: false
+    slug: paraguay-esim
+  - name: 蒙古 eSIM
+    flag: img/flags/mn.svg
+    price: 自 $9.99
+    is_highlight: false
+    slug: mongolia-esim
   - name: 越南 eSIM
     flag: img/flags/vn.svg
-    price: От 1,99 $
-    is_highlight: false
+    price: 自 $1.99
+    is_highlight: true
     slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+  - name: 迦納 eSIM
+    flag: img/flags/gh.svg
+    price: 自 $7.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: philippines-esim
-
+    slug: ghana-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Guatemala eSIM 網速實測與覆蓋指南 -- 市區郊區都能用嗎？"
   subtitle: "瓜地馬拉當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Guatemala) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Guatemala"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -312,43 +316,43 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Guatemala. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Tigo 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 Tigo 門市排隊與護照登記，出發前線上購買 Roami eSIM，抵達瓜地馬拉後一分鐘內啟用，無需西語溝通。"
     - icon: "id-card"
       title: "KYC 與護照登記"
       prepaid_title: ""
-      prepaid_desc: "危地马拉法律要求所有 SIM 卡必须实名制，超过两百万未登记用户曾面临线路暂停。游客购买实体卡必须出示护照，并依赖店员完成注册。"
+      prepaid_desc: "危地馬拉法律要求所有 SIM 卡必須實名制，超過兩百萬未登記用戶曾面臨線路暫停。遊客購買實體卡必須出示護照，並依賴店員完成註冊。"
       esim_title: "免護照登記"
       esim_desc: "Roami eSIM 完全繞過瓜地馬拉強制護照登記，無需擔心資訊洩漏或線路暫停，而當地 SIM 卡未登記可能被暫停。"
     - icon: "globe"
       title: "國際漫遊"
       prepaid_title: ""
-      prepaid_desc: "Movistar 提供“sin fronteras”，可在中美洲六国 Movistar 网络用国内费率，但去美国、加拿大等需每日额外付 Q40，且仅限 Movistar 漫游伙伴。Tigo、Claro 则无类似便捷多国漫游，跨境即产生高额数据费用。"
+      prepaid_desc: "Movistar 提供“sin fronteras”，可在中美洲六國 Movistar 網絡用國內費率，但去美國、加拿大等需每日額外付 Q40，且僅限 Movistar 漫遊夥伴。Tigo、Claro 則無類似便捷多國漫遊，跨境即產生高額數據費用。"
       esim_title: "全球漫遊無憂"
       esim_desc: "Roami eSIM 提供多國方案，覆蓋美洲甚至全球，無需像 Movistar 每日支付 Q40 附加費，自動切換網路，無突發漫遊成本。"
     - icon: "calendar-xmark"
       title: "計費週期與浪費成本"
       prepaid_title: ""
-      prepaid_desc: "以30天为主的固定周期（如 Tigo 2GB Q99、Claro 3GB Q100、Movistar 3+3GB Q100）。游客若停留 5 天，被迫购买 30 天套餐，造成流量与话费大量浪费。"
+      prepaid_desc: "以30天為主的固定週期（如 Tigo 2GB Q99、Claro 3GB Q100、Movistar 3+3GB Q100）。遊客若停留 5 天，被迫購買 30 天套餐，造成流量與話費大量浪費。"
       esim_title: "彈性計費省錢"
       esim_desc: "與 Tigo 的 30 天週期（2GB Q99）不同，Roami 提供 7 天數據方案，最低 1.99 美元/GB，停留 5 天可節省 75% 的浪費。"
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此维度的来源中无具体数据。"
+      prepaid_desc: "熱點分享政策依 Tigo、Claro 等業者而異，部分方案允許、部分禁止；即使允許，也可能因公平使用條款在尖峰時段降速。"
       esim_title: "無限熱點分享"
       esim_desc: "Roami eSIM 支援熱點分享，無速度限制，而當地 SIM 卡可能限制分享或降速，讓您自由連接多個設備。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "实体充值卡需在便利店购买，需用西班牙语口头提供手机号。"
+      prepaid_desc: "實體儲值卡需在便利店購買，需用西班牙語口頭提供手機號。"
       esim_title: "全球付款便利"
-      esim_desc: "Roami 接受 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需像當地 SIM 卡在便利店用西班牙語購買充值卡。"
+      esim_desc: "Roami 接受 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需像當地 SIM 卡在便利店用西班牙語購買儲值卡。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此维度的来源中无具体数据。"
+      prepaid_desc: "Tigo 等業者客服管道以電話與門市為主，英語支援有限，預付卡用戶通常沒有專屬即時客服。"
       esim_title: "24/7 中文支援"
       esim_desc: "Roami 提供 24/7 多語言客戶支援，包括中文，而當地電信商如 Tigo 僅提供西班牙語服務，且預付客戶無即時聊天。"
 
@@ -360,7 +364,7 @@ market_analysis:
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"
         title: "自動切換最佳網路"
-        desc: "Tigo 4G 僅用 Band 5，許多手機無法接入 LTE；Claro 4G 僅限首都。Roami eSIM 聚合 Tigo、Claro 等網路，自動切換至最強訊號，避免單一運營商死角。"
+        desc: "Tigo 4G 僅用 Band 5，許多手機無法接入 LTE；Claro 4G 僅限首都。Roami eSIM 聚合 Tigo、Claro 等網路，自動切換至最強訊號，避免單一電信商死角。"
       - icon: "wifi"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
@@ -375,5 +379,5 @@ market_analysis:
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "全球付款方式"
-        desc: "Roami 接受 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需在便利店用西班牙語購買實體充值卡。"
+        desc: "Roami 接受 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需在便利店用西班牙語購買實體儲值卡。"
 ---

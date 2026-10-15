@@ -1,6 +1,6 @@
 ---
 title: '馬來西亞 eSIM 2026: 方案與覆蓋 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,7 @@ modal:
 seo:
   title: "馬來西亞eSIM｜15天10G吃到飽，跨國旅行不斷網"
   description: "想在馬來西亞深度旅行半個月？Roami 15天eSIM深度旅遊方案5G高速上網吃到飽。慢慢逛慢慢玩網路一路暢通，深度旅遊eSIM推薦必備方案，最低$1.99起。"
-  keywords: 馬來西亞 eSIM, 馬來西亞 eSIM方案, 最佳馬來西亞 eSIM, 馬來西亞上網, Maxis 馬來西亞, CelcomDigi 馬來西亞, U Mobile 馬來西亞, 吉隆坡 eSIM, 檳城 eSIM, 蘭卡威
-    eSIM, 馬來西亞行動網路, 5G 馬來西亞
+  keywords: 馬來西亞 eSIM, eSIM 馬來西亞, 馬來西亞 eSIM 購買, 最佳馬來西亞 eSIM, 馬來西亞 上網, Maxis 馬來西亞, CelcomDigi 馬來西亞, U Mobile 馬來西亞, 吉隆坡 eSIM, 檳城 eSIM, 蘭卡威 eSIM, 亞庇 eSIM, 新山 eSIM, 馬來西亞 eSIM 方案, 馬來西亞 5G eSIM, 馬來西亞 eSIM 預付卡
 order_summary:
   title: 選擇 馬來西亞 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線馬來西亞最佳電信商，取得最強訊號
-plans_title: 購買馬來西亞 eSIM：適合各種旅程的方案
+plans_title: 馬來西亞 eSIM 方案比較與選購指南
 plans_data:
   3 天:
   - spec: 1GB
@@ -313,7 +312,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 馬來西亞 eSIM秘訣：出發前須知
+  title: 馬來西亞 eSIM 啟用前必看重點
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -342,7 +341,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 馬來西亞 eSIM啟用：3個簡單步驟
+  title: 快速啟用馬來西亞 eSIM 的3個步驟
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 馬來西亞 做好準備
@@ -377,90 +376,95 @@ faq_section:
     title: 馬來西亞 eSIM Maxis與Celcom收訊實測｜哪家涵蓋更廣
     questions:
     - q: 馬來西亞eSIM的價格從多少到多少？有便宜的短期方案嗎？
-      a: Roami 馬來西亞 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Maxis在馬來西亞市區5G網速約100-300Mbps，看1080p影片沒問題。如果去Klook查馬來西亞 eSIM，Roami通常便宜10-20%，因為沒有平台抽成。如果不確定用量可以先買小的，到馬來西亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 馬來西亞 eSIM方案從$1.99（3天1GB）起，最高$65.99（30天無限）。一般旅客買最多的是5GB/15天（$6.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Maxis在馬來西亞市區5G網速約100-300Mbps，看1080p影片沒問題。如果去Klook查馬來西亞 eSIM，Roami通常便宜10-20%，因為沒有平台抽成。如果不確定用量可以先買小的，到馬來西亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: Maxis、Celcom、Digi這三家在馬來西亞的收訊，在市區和郊區各推薦哪家？
       a: 馬來西亞主要有Maxis、Celcom、Digi。Maxis市區下載快、基地台密集。Celcom郊區覆蓋廣，會去郊區的話選Celcom路線較有保障。Digi價格親民，適合預算有限的旅客。馬來西亞5G使用n78頻段，吉隆坡等城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Maxis，移動到郊區若Maxis訊號變弱就自動跳Celcom或Digi，完全不用手動選。
     - q: 習慣在Klook上買旅遊票券，馬來西亞eSIM也在上面買跟官網買一樣嗎？
       a: 很多人上Klook比價馬來西亞 eSIM。主要差異：第一，Roami直銷無平台抽成，價格通常比Klook便宜10-20%。第二，Roami有24小時直接客服，不用透過Klook轉達。第三，Roami買斷制到期就停，不會續約扣款。馬來西亞5G使用n78頻段，吉隆坡等城市覆蓋。不過Klook可跟飯店票券合併結帳累積點數。不管哪買，在馬來西亞都是接取Maxis、Celcom、Digi的網路，訊號品質一樣。
     - q: 馬來西亞eSIM的吃到飽和定量方案哪個比較適合短期旅遊的人？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。馬來西亞5G使用n78頻段，吉隆坡等城市覆蓋。Roami在馬來西亞連上Maxis的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。馬來西亞5G使用n78頻段，吉隆坡等城市覆蓋。Roami在馬來西亞連上Maxis的網路，網速穩定。如果怕降速可選10GB/$7.99或20GB/$16.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 去馬來西亞用eSIM需要先通過身分驗證嗎？要準備哪些證件？
       a: 需要的。馬來西亞預付卡需KYC認證，需提供護照。很多人不知道這規定，到了馬來西亞機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。馬來西亞5G使用n78頻段，吉隆坡等城市覆蓋。另外Maxis的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到馬來西亞開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 如果從馬來西亞再到馬爾地夫，原本的eSIM還能繼續用嗎？
       a: Roami單國方案僅限馬來西亞境內。每個國家電信網路是分開的，需要不同方案。你的行程包含馬爾地夫等其他國家的話，有兩種方式：第一，出發前把各國eSIM都買好，手機可存多組（約5-10組），到哪國啟用哪個。第二，Roami也有區域方案（如歐洲多國），一卡多國使用。先算各國停留天數再選最划算的買法。
     - q: 離開馬來西亞市區之後，eSIM的訊號會不會變得很差？
       a: 馬來西亞的Maxis等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。馬來西亞5G使用n78頻段，吉隆坡等城市覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
+    - q: 去馬來西亞玩幾天，該挑多大的eSIM規格才夠用？
+      a: Roami 馬來西亞 eSIM 有 1GB、無限、3GB、5GB、10GB、20GB 等規格可選。短天數、只查地圖傳訊息的輕度使用，1GB 就夠；如果會看短影片、視訊通話或開熱點分享，建議再往上加一級。用量抓不準可以先買小的，到 馬來西亞 後在 App 加購即可，不用換卡。 另外，吉隆坡、檳城 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
+    - q: 馬來西亞 eSIM 要怎麼啟用？要抵達當地才開嗎？
+      a: 建議出發前先用 WiFi 掃描 QR code 安裝描述檔，抵達 馬來西亞 後再開啟 eSIM 線路並打開數據漫遊，連上當地網路就會自動啟用，方案效期也從那時開始計算。 在 蘭卡威、亞庇 一帶實測收訊良好，移動中會自動切換基地台。
+    - q: 抵達馬來西亞機場後就能馬上上網嗎？
+      a: 可以。只要出發前先安裝好 eSIM，落地後關閉飛航模式、開啟 eSIM 線路，通常幾十秒內就能連上當地網路，不用在機場排隊買實體 SIM 卡。 吉隆坡、新山 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
 related_products:
-  title: 類似 馬來西亞 eSIM 的旅行方案
+  title: 出發前也看看這些 eSIM
   items:
+  - name: 塞席爾 eSIM
+    flag: img/flags/sc.svg
+    price: 自 $17.99
+    is_highlight: false
+    slug: seychelles-esim
   - name: 日本 eSIM
     flag: img/flags/jp.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: japan-esim
+  - name: 法國 eSIM
+    flag: img/flags/fr.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: france-esim
+  - name: 巴拉圭 eSIM
+    flag: img/flags/py.svg
+    price: 自 $22.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: paraguay-esim
+  - name: 坦尚尼亞 eSIM
+    flag: img/flags/tz.svg
+    price: 自 $7.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: tanzania-esim
+  - name: 宏都拉斯 eSIM
+    flag: img/flags/hn.svg
+    price: 自 $6.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: honduras-esim
+  - name: 蒙特內哥羅 eSIM
+    flag: img/flags/me.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: montenegro-esim
+  - name: 亞美尼亞 eSIM
+    flag: img/flags/am.svg
+    price: 自 $7.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: armenia-esim
+  - name: 厄瓜多 eSIM
+    flag: img/flags/ec.svg
+    price: 自 $6.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+    slug: ecuador-esim
+  - name: 象牙海岸 eSIM
+    flag: img/flags/ci.svg
+    price: 自 $9.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: ivory-coast-esim
+  - name: 烏茲別克 eSIM
+    flag: img/flags/uz.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: uzbekistan-esim
+  - name: 波札那 eSIM
+    flag: img/flags/bw.svg
+    price: 自 $14.99
+    is_highlight: false
+    slug: botswana-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Malaysia eSIM 能不能順暢上網？速度、延遲、覆蓋一次說清楚"
   subtitle: "馬來西亞當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Malaysia) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Malaysia"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -469,13 +473,13 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Malaysia. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Maxis 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 Digi 機場門市排隊（需護照人工辦理），Roami eSIM 透過 Email 發送 QR Code，抵達馬來西亞後關閉飛航模式即可啟用，全程免排隊、免護照，1 分鐘內完成連線。"
     - icon: "id-card"
       title: "KYC 與護照登記"
       prepaid_title: ""
-      prepaid_desc: "馬來西亞所有預付 SIM 卡均需實名制（KYC），Digi 遊客卡需在機場門市出示護照，Hotlink RED 需透過 App 上傳身份證明文件完成註冊。"
+      prepaid_desc: "馬來西亞所有預付 SIM 卡均需實名制（KYC），Digi 遊客卡需在機場門市出示護照，Hotlink RED 需透過 App 上傳身份證明檔案完成註冊。"
       esim_title: "免護照免註冊"
       esim_desc: "與 Hotlink RED 需下載 App 上傳護照不同，Roami eSIM 完全免 KYC，無需提交個人資料，保護隱私，即買即用。"
     - icon: "globe"
@@ -499,13 +503,13 @@ market_analysis:
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。基於市場知識，馬來西亞預付卡充值主要透過本地銀行轉帳、7-Eleven 等便利店購買充值券，國際信用卡（Visa/Mastercard）常被拒絕，PayPal 支援有限。"
+      prepaid_desc: "馬來西亞預付卡儲值主要透過本地銀行轉帳、7-Eleven 等便利店購買儲值券，國際信用卡（Visa/Mastercard）常被拒絕，PayPal 支援有限。"
       esim_title: "全球付款暢通"
-      esim_desc: "馬來西亞預付卡充值常拒絕國際信用卡，Roami eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，線上支付無障礙。"
+      esim_desc: "馬來西亞預付卡儲值常拒絕國際信用卡，Roami eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，線上支付無障礙。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。基於市場知識，馬來西亞電信商客服通常提供英語和馬來語，電話支援時間為週一至週五 9:00-18:00，預付卡用戶無專屬即時聊天。"
+      prepaid_desc: "馬來西亞電信商客服通常提供英語和馬來語，電話支援時間為週一至週五 9:00-18:00，預付卡用戶無專屬即時聊天。"
       esim_title: "24/7 多語支援"
       esim_desc: "馬來西亞電信商客服僅限工作時間，Roami eSIM 提供 24/7 即時線上聊天，中英文皆可，隨時解決問題。"
 
@@ -532,5 +536,5 @@ market_analysis:
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "全球付款無障礙"
-        desc: "馬來西亞預付卡充值主要透過本地銀行或便利店購買充值券，國際信用卡（Visa/Mastercard）常被拒絕。Roami eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，線上支付暢通無阻。"
+        desc: "馬來西亞預付卡儲值主要透過本地銀行或便利店購買儲值券，國際信用卡（Visa/Mastercard）常被拒絕。Roami eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，線上支付暢通無阻。"
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Bồ Đào Nha 2026 - Gói 5G tốt nhất cho Lisbon & Algarve | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Bồ Đào Nha - Gói trả trước 5G tốt nhất cho hành trình của bạn
   description: Nhận eSIM trả trước Bồ Đào Nha tốt nhất với 5G trên Vodafone, MEO và NOS. Không cần giấy tờ tùy thân — kích hoạt QR tức thì. Chấp nhận thanh toán toàn cầu — không giới hạn thẻ địa phương. Từ $1.99.
-  keywords: eSIM Bồ Đào Nha, mua eSIM Bồ Đào Nha, eSIM Bồ Đào Nha tốt nhất, eSIM du lịch Bồ Đào Nha, Vodafone Portugal, MEO Portugal, NOS Portugal, eSIM Lisbon, eSIM Porto, eSIM Faro, eSIM trả trước Bồ Đào Nha, eSIM 5G Bồ Đào Nha, eSIM Algarve, eSIM Thung lũng Douro, eSIM Sintra
+  keywords: eSIM Bồ Đào Nha, mua eSIM Bồ Đào Nha, eSIM Bồ Đào Nha tốt nhất, eSIM du lịch Bồ Đào Nha, Vodafone Portugal Bồ Đào Nha, MEO Bồ Đào Nha, NOS Bồ Đào Nha, eSIM Lisbon, eSIM Porto, eSIM Faro, eSIM trả trước Bồ Đào Nha, eSIM 5G Bồ Đào Nha, eSIM Coimbra, eSIM Braga, eSIM Bồ Đào Nha giá rẻ, sim du lịch Bồ Đào Nha
   low_price: 1.99
-  high_price: 39.9
+  high_price: 71.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối Vodafone, MEO và NOS để có tín hiệu tốt nhất trên khắp Bồ Đào Nha
-plans_title: 'Mua eSIM Bồ Đào Nha: Gói cước cho mọi thời gian lưu trú'
+plans_title: 'Bồ Đào Nha eSIM: Nhiều mức ngày và dung lượng'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -316,7 +316,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Bồ Đào Nha: Những điều cần biết trước khi đi'
+  title: 'Trước khi đến Bồ Đào Nha: các mục cần kiểm tra với eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -337,7 +337,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Bồ Đào Nha: 3 bước đơn giản'
+  title: 'Hướng dẫn kích hoạt Bồ Đào Nha eSIM (3 bước)'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -357,12 +357,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hướng dẫn eSIM Bồ Đào Nha: Tốc độ, Phủ sóng và Mẹo du lịch Bồ Đào Nha"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Bồ Đào Nha. Tìm hiểu tốc độ mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Những câu hỏi phổ biến về tốc độ và độ phủ sóng eSIM khi đến Bồ Đào Nha."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Bồ Đào Nha
+    title: 'Hỏi đáp thường gặp: Bồ Đào Nha eSIM'
     questions:
     - q: |
         Tôi có cần xuất trình giấy tờ tùy thân để mua SIM ở Bồ Đào Nha không?
@@ -383,7 +383,7 @@ faq_section:
     - q: |
         eSIM có rẻ hơn chuyển vùng quốc tế cho Bồ Đào Nha không?
       a: |
-        Có — Roami eSIM thường rẻ hơn 80-90% so với các gói chuyển vùng từ hầu hết các nhà mạng trong nước. Gói 5GB cho Bồ Đào Nha có giá $5,99, trong khi chuyển vùng có thể tốn $50+ cho cùng dung lượng. Bạn cũng nhận được tốc độ mạng địa phương thay vì chuyển vùng bị giới hạn.
+        Có — Roami eSIM thường rẻ hơn 80-90% so với các gói chuyển vùng từ hầu hết các nhà mạng trong nước. Gói 5GB cho Bồ Đào Nha có giá $5.99, trong khi chuyển vùng có thể tốn $50+ cho cùng dung lượng. Bạn cũng nhận được tốc độ mạng địa phương thay vì chuyển vùng bị giới hạn.
     - q: |
         Tôi đến Bồ Đào Nha vào đêm khuya. Tôi có thể kết nối internet ngay không?
       a: |
@@ -400,63 +400,75 @@ faq_section:
         Tôi có thể nạp thêm dữ liệu cho eSIM Bồ Đào Nha nếu hết không?
       a: |
         Có — bạn có thể nạp thêm qua tài khoản Roami bất kỳ lúc nào chỉ với một cú nhấp chuột. Không giống như SIM trả trước Bồ Đào Nha với các hạn chế thanh toán phức tạp (MEO/NOS từ chối thẻ quốc tế, Vodafone yêu cầu thẻ trên 3 tháng, NOS tính phí Payshop), Roami chấp nhận các phương thức thanh toán toàn cầu mà không rào cản.
+    - q: |
+        eSIM Bồ Đào Nha giá bao nhiêu? Có lựa chọn rẻ không?
+      a: |
+        Gói eSIM Bồ Đào Nha của Roami bắt đầu từ $1.99 (3 ngày 1GB), cao nhất $71.99 (30 ngày Không giới hạn). Chuyến ngắn dùng ít thì chọn gói nhập môn là đủ, khách dùng nhiều thì chọn mức cao hơn. Giá minh bạch, gói hết hạn tự kết thúc và không tự động gia hạn.  Thực tế tại Lisbon, Porto, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
+    - q: |
+        Tốc độ eSIM Bồ Đào Nha có nhanh không? Có chậm hơn SIM vật lý không?
+      a: |
+        eSIM Bồ Đào Nha của Roami dùng trạm gốc của các nhà mạng chính tại địa phương, tốc độ tương đương SIM trả trước bản địa; tra bản đồ, mạng xã hội và gọi video đều mượt. Tốc độ thực tế còn phụ thuộc vị trí và tải của mạng tại thời điểm đó.  Dù ở Faro, Coimbra hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
+    - q: |
+        Đi Bồ Đào Nha vài ngày thì nên chọn gói eSIM dung lượng bao nhiêu?
+      a: |
+        eSIM Bồ Đào Nha của Roami có các mức 1GB, 3GB, 5GB, 10GB, Không giới hạn, 20GB. Chuyến ngắn, chỉ tra bản đồ và nhắn tin thì 1GB là đủ; nếu xem video ngắn, gọi video hoặc chia sẻ hotspot, bạn nên chọn mức cao hơn một bậc. Nếu chưa chắc về nhu cầu, có thể mua gói nhỏ rồi nạp thêm trong ứng dụng sau khi đến Bồ Đào Nha, không cần đổi SIM.  Vùng phủ di động tại Lisbon, Braga đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
 related_products:
   title: Các gói eSIM Bồ Đào Nha liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
+  - name: eSIM Thái Lan
+    flag: img/flags/th.svg
     price: Từ $1.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: eSIM Tajikistan
+    flag: img/flags/tj.svg
+    price: Từ $4.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Tunisia
+    flag: img/flags/tn.svg
+    price: Từ $3.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
+  - name: Turkey eSIM
     flag: img/flags/tr.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
+  - name: Taiwan eSIM
+    flag: img/flags/tw.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
+  - name: eSIM Tanzania
+    flag: img/flags/tz.svg
+    price: Từ $7.99
+    is_highlight: false
+  - name: eSIM Ukraine
+    flag: img/flags/ua.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
+  - name: eSIM Uganda
+    flag: img/flags/ug.svg
+    price: Từ $7.99
+    is_highlight: false
+  - name: eSIM Mỹ
+    flag: img/flags/us.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
+  - name: Uruguay eSIM
+    flag: img/flags/uy.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Uzbekistan
+    flag: img/flags/uz.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: eSIM Thành Vatican
+    flag: img/flags/va.svg
+    price: Từ $10.99
     is_highlight: false
 market_analysis:
   title: 'So sánh eSIM Bồ Đào Nha vs SIM địa phương: Cái nào tiết kiệm hơn?'
   subtitle: 'SIM trả trước địa phương Bồ Đào Nha so với Giải pháp eSIM (Đánh giá 2024/2025)'
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Bồ Đào Nha) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Portugal
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)

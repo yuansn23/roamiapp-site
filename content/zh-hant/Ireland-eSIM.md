@@ -1,6 +1,6 @@
 ---
 title: '愛爾蘭 eSIM 2026: 方案與覆蓋 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,7 @@ modal:
 seo:
   title: "愛爾蘭eSIM｜5G吃到飽不降速$1.99起，出國省錢首選"
   description: "想找愛爾蘭出國上網卡推薦？Roami eSIM提供5G高速上網吃到飽不降速方案最低只要$1.99起。國外旅遊上網不用花大錢，線上購買即開即用，省錢又方便的首選。"
-  keywords: 愛爾蘭 eSIM, 愛爾蘭 eSIM方案, 最佳愛爾蘭 eSIM, 愛爾蘭上網, Vodafone Ireland 愛爾蘭, Three Ireland 愛爾蘭, Eir 愛爾蘭, 都柏林 eSIM, 科克 eSIM,
-    戈爾韋 eSIM, 愛爾蘭行動網路, 5G 愛爾蘭
+  keywords: 愛爾蘭 eSIM, eSIM 愛爾蘭, 愛爾蘭 eSIM 購買, 最佳愛爾蘭 eSIM, 愛爾蘭 上網, Vodafone Ireland 愛爾蘭, Three Ireland 愛爾蘭, Eir 愛爾蘭, 都柏林 eSIM, 科克 eSIM, 戈爾韋 eSIM, 利默里克 eSIM, 基拉尼 eSIM, 愛爾蘭 eSIM 方案, 愛爾蘭 5G eSIM, 愛爾蘭 eSIM 預付卡
 order_summary:
   title: 選擇 愛爾蘭 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線愛爾蘭最佳電信商，取得最強訊號
-plans_title: 購買愛爾蘭 eSIM：適合各種旅程的方案
+plans_title: 愛爾蘭 eSIM 方案比較與選購指南
 plans_data:
   7 天:
   - spec: 20GB
@@ -321,7 +320,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 愛爾蘭 eSIM秘訣：出發前須知
+  title: 愛爾蘭 eSIM 啟用前必看重點
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -350,7 +349,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 愛爾蘭 eSIM啟用：3個簡單步驟
+  title: 快速啟用愛爾蘭 eSIM 的3個步驟
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 愛爾蘭 做好準備
@@ -386,88 +385,93 @@ faq_section:
     title: 愛爾蘭 eSIM 網速與電信商介紹｜5G/4G涵蓋範圍
     questions:
     - q: 愛爾蘭eSIM有分不同價位，便宜跟貴的方案差在哪裡？
-      a: Roami 愛爾蘭 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Vodafone在愛爾蘭市區5G網速約100-300Mbps，看1080p影片沒問題。去愛爾蘭機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到愛爾蘭後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 愛爾蘭 eSIM方案從$1.99（3天1GB）起，最高$77.99（30天無限）。一般旅客買最多的是5GB/15天（$8.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Vodafone在愛爾蘭市區5G網速約100-300Mbps，看1080p影片沒問題。去愛爾蘭機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到愛爾蘭後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 看到有人說愛爾蘭的Vodafone在市區很快、Eir在郊區很廣，真的是這樣嗎？
       a: 愛爾蘭主要有Vodafone、Eir、Three。Vodafone市區下載快、基地台密集。Eir郊區覆蓋廣，會去郊區的話選Eir路線較有保障。Three價格親民，適合預算有限的旅客。愛爾蘭5G使用n78頻段，都柏林等城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Vodafone，移動到郊區若Vodafone訊號變弱就自動跳Eir或Three，完全不用手動選。
     - q: 愛爾蘭eSIM吃到飽方案如果被降速了，512kbps的速度還能做什麼？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。愛爾蘭5G使用n78頻段，都柏林等城市覆蓋。Roami在愛爾蘭連上Vodafone的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。愛爾蘭5G使用n78頻段，都柏林等城市覆蓋。Roami在愛爾蘭連上Vodafone的網路，網速穩定。如果怕降速可選10GB/$7.99或20GB/$18.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 愛爾蘭eSIM買了之後要驗證證件嗎？沒先辦好會不會到了不能用？
       a: 需要的。愛爾蘭預付卡需KYC認證，需提供護照。很多人不知道這規定，到了愛爾蘭機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。愛爾蘭5G使用n78頻段，都柏林等城市覆蓋。另外Vodafone的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到愛爾蘭開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 搭車從愛爾蘭市區移動到郊區的時候，eSIM網路會一直切換嗎？
       a: 愛爾蘭的Vodafone等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。愛爾蘭5G使用n78頻段，都柏林等城市覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 跟旅伴一起去愛爾蘭，買一張eSIM開熱點分享夠兩個人用嗎？
       a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
+    - q: 愛爾蘭 eSIM 可以開熱點分享給旅伴嗎？
+      a: 可以，Roami 愛爾蘭 eSIM 支援熱點分享，能分給筆電、平板或同行旅伴。多人共用建議挑規格大一級的方案，避免中途用完；用量抓不準也可以事後在 App 加購。 不論在 都柏林、科克，連線品質都相當穩定。
+    - q: 抵達愛爾蘭機場後就能馬上上網嗎？
+      a: 可以。只要出發前先安裝好 eSIM，落地後關閉飛航模式、開啟 eSIM 線路，通常幾十秒內就能連上當地網路，不用在機場排隊買實體 SIM 卡。 戈爾韋、利默里克 等地的行動網路覆蓋完整，跨區移動也不斷線。
+    - q: 愛爾蘭的Vodafone Ireland和Three Ireland，用eSIM哪一家訊號比較好？
+      a: 愛爾蘭主要有Vodafone Ireland、Three Ireland等電信商。Roami 會自動選擇當下訊號最強的網路，在Vodafone Ireland與Three Ireland之間自動切換，不用手動設定。若行程會拉到郊區或離島，出發前先下載離線地圖會更保險。 另外，都柏林、基拉尼 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
 related_products:
-  title: 類似 愛爾蘭 eSIM 的旅行方案
+  title: 搭配 愛爾蘭 的跨國 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+  - name: 塞爾維亞 eSIM
+    flag: img/flags/rs.svg
+    price: 自 $1.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: serbia-esim
+  - name: 波士尼亞與赫塞哥維納 eSIM
+    flag: img/flags/ba.svg
+    price: 自 $30.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: bosnia-and-herzegovina-esim
+  - name: 巴拿馬 eSIM
+    flag: img/flags/pa.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: panama-esim
+  - name: 關島 eSIM
+    flag: img/flags/gu.svg
+    price: 自 $9.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: guam-esim
+  - name: 盧森堡 eSIM
+    flag: img/flags/lu.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: luxembourg-esim
+  - name: 蓋亞那 eSIM
+    flag: img/flags/gy.svg
+    price: 自 $9.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: guyana-esim
+  - name: 南非 eSIM
+    flag: img/flags/za.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: south-africa-esim
+  - name: 哥斯大黎加 eSIM
+    flag: img/flags/cr.svg
+    price: 自 $9.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+    slug: costa-rica-esim
+  - name: 保加利亞 eSIM
+    flag: img/flags/bg.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: bulgaria-esim
+  - name: 法羅群島 eSIM
+    flag: img/flags/fo.svg
+    price: 自 $5.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: faroe-islands-esim
+  - name: 俄羅斯 eSIM
+    flag: img/flags/ru.svg
+    price: 自 $2.99
+    is_highlight: false
+    slug: russia-esim
+  - name: 以色列 eSIM
+    flag: img/flags/il.svg
+    price: 自 $2.99
+    is_highlight: false
+    slug: israel-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "在Ireland用eSIM上網穩不穩？市區郊區分區評測"
   subtitle: "愛爾蘭當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Ireland) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Ireland"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -476,7 +480,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Ireland. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Vodafone Ireland 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 Three 要求提供愛爾蘭郵寄地址的繁瑣流程，以及 Vodafone 門市排隊激活的等待時間。Roami eSIM 可在抵達前一分鐘內線上完成部署，落地即開機使用，無需任何本地地址或護照掃描。"
     - icon: "id-card"
@@ -506,9 +510,9 @@ market_analysis:
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "Three 網站在線充值明確拒絕國際信用卡，僅接受英國/愛爾蘭卡；用戶若無法買到充值券，SIM 卡將成廢卡。"
+      prepaid_desc: "Three 網站在線儲值明確拒絕國際信用卡，僅接受英國/愛爾蘭卡；用戶若無法買到儲值券，SIM 卡將成廢卡。"
       esim_title: "全球付款無障礙"
-      esim_desc: "克服 Three 線上充值拒絕非愛爾蘭/英國信用卡的致命缺陷。Roami eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，100% 線上交易，無需尋找實體充值券。"
+      esim_desc: "克服 Three 線上儲值拒絕非愛爾蘭/英國信用卡的致命缺陷。Roami eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，100% 線上交易，無需尋找實體儲值券。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""

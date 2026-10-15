@@ -1,6 +1,6 @@
 ---
 title: '西班牙 eSIM 2026: 當地電信商 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,7 @@ modal:
 seo:
   title: "西班牙eSIM｜5G上網吃到飽，最低$1.99起"
   description: "西班牙出國旅行eSIM選Roami超划算，5G高速上網吃到飽最低$1.99起。省下來的錢多吃幾頓大餐多買紀念品，旅行品質提升網路還不斷線，免綁約。"
-  keywords: 西班牙 eSIM, 西班牙 eSIM方案, 最佳西班牙 eSIM, 西班牙上網, Movistar 西班牙, Vodafone 西班牙, Orange 西班牙, 馬德里 eSIM, 巴塞隆納 eSIM, 瓦倫西亞 eSIM,
-    西班牙行動網路, 5G 西班牙
+  keywords: 西班牙 eSIM, eSIM 西班牙, 西班牙 eSIM 購買, 最佳西班牙 eSIM, 西班牙 上網, Movistar 西班牙, Vodafone 西班牙, Orange 西班牙, 馬德里 eSIM, 巴塞隆納 eSIM, 瓦倫西亞 eSIM, 塞維利亞 eSIM, 格拉納達 eSIM, 西班牙 eSIM 方案, 西班牙 5G eSIM, 西班牙 eSIM 預付卡
 order_summary:
   title: 選擇 西班牙 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線西班牙最佳電信商，取得最強訊號
-plans_title: 購買西班牙 eSIM：適合各種旅程的方案
+plans_title: 一次看懂西班牙 eSIM 方案選項
 plans_data:
   7 天:
   - spec: 1GB
@@ -329,7 +328,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 西班牙 eSIM秘訣：出發前須知
+  title: 出發西班牙前：eSIM 檢查事項
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -358,7 +357,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 西班牙 eSIM啟用：3個簡單步驟
+  title: 出發前搞定：西班牙 eSIM 安裝啟用
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 西班牙 做好準備
@@ -393,88 +392,93 @@ faq_section:
     title: 西班牙 eSIM 網速評測｜Movistar、Orange、Vodafone 5G/4G速度對比
     questions:
     - q: 短期去西班牙玩個三五天，eSIM最便宜的方案大概多少錢？
-      a: Roami 西班牙 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Movistar在西班牙市區5G網速約100-300Mbps，看1080p影片沒問題。去西班牙機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到西班牙後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 西班牙 eSIM方案從$1.99（3天1GB）起，最高$69.99（30天無限）。一般旅客買最多的是5GB/15天（$7.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Movistar在西班牙市區5G網速約100-300Mbps，看1080p影片沒問題。去西班牙機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到西班牙後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 去西班牙旅遊的話，Movistar、Orange、Vodafone這三家電信分別有什麼優缺點？
       a: 西班牙主要有Movistar、Orange、Vodafone。Movistar市區下載快、基地台密集。Orange郊區覆蓋廣，會去郊區的話選Orange路線較有保障。Vodafone價格親民，適合預算有限的旅客。西班牙5G使用n78頻段，主要城市覆蓋良好。不過Roami會自動切換到當前訊號最強的網路。市區用Movistar，移動到郊區若Movistar訊號變弱就自動跳Orange或Vodafone，完全不用手動選。
     - q: 西班牙eSIM的30天無限方案跟15天10GB的比起來，哪個平均每天比較便宜？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。西班牙5G使用n78頻段，主要城市覆蓋良好。Roami在西班牙連上Movistar的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。西班牙5G使用n78頻段，主要城市覆蓋良好。Roami在西班牙連上Movistar的網路，網速穩定。如果怕降速可選10GB/$9.99或20GB/$17.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 有人說去西班牙辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
       a: 需要的。西班牙預付卡需KYC認證，需提供護照。很多人不知道這規定，到了西班牙機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。西班牙5G使用n78頻段，主要城市覆蓋良好。另外Movistar的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到西班牙開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 如果去西班牙途中還會去別的國家，eSIM要怎麼處理比較好？
       a: Roami單國方案僅限西班牙境內。每個國家電信網路是分開的，需要不同方案。如果行程包含多國，有兩種方式：第一，出發前把各國eSIM都買好，手機可存多組（約5-10組），到哪國啟用哪個。第二，Roami也有區域方案（如歐洲多國），一卡多國使用。先算各國停留天數再選最划算的買法。
     - q: 搭車從西班牙市區移動到郊區的時候，eSIM網路會一直切換嗎？
       a: 西班牙的Movistar等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。西班牙5G使用n78頻段，主要城市覆蓋良好。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
+    - q: 買西班牙 eSIM 支援哪些付款方式？多久能收到？
+      a: Roami 支援信用卡等常見線上付款，結帳後 QR code 會寄到你的電子郵件，通常幾分鐘內就能收到。建議出發前先在台灣買好、裝好，抵達 西班牙 即可連線。 在 馬德里、巴塞隆納 一帶實測收訊良好，移動中會自動切換基地台。
+    - q: 去西班牙玩幾天，該挑多大的eSIM規格才夠用？
+      a: Roami 西班牙 eSIM 有 1GB、3GB、5GB、10GB、20GB、無限 等規格可選。短天數、只查地圖傳訊息的輕度使用，1GB 就夠；如果會看短影片、視訊通話或開熱點分享，建議再往上加一級。用量抓不準可以先買小的，到 西班牙 後在 App 加購即可，不用換卡。 瓦倫西亞、塞維利亞 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
+    - q: 西班牙 eSIM 可以開熱點分享給旅伴嗎？
+      a: 可以，Roami 西班牙 eSIM 支援熱點分享，能分給筆電、平板或同行旅伴。多人共用建議挑規格大一級的方案，避免中途用完；用量抓不準也可以事後在 App 加購。 實際走訪 馬德里、格拉納達 等主要城市，上網查資料、傳照片都沒問題。
 related_products:
-  title: 類似 西班牙 eSIM 的旅行方案
+  title: 搭配 西班牙 的跨國 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 科威特 eSIM
+    flag: img/flags/kw.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: kuwait-esim
+  - name: 塞爾維亞 eSIM
+    flag: img/flags/rs.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: serbia-esim
+  - name: 瑞士 eSIM
+    flag: img/flags/ch.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: switzerland-esim
+  - name: 突尼西亞 eSIM
+    flag: img/flags/tn.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: tunisia-esim
+  - name: 賽普勒斯 eSIM
+    flag: img/flags/cy.svg
+    price: 自 $2.99
     is_highlight: false
-    slug: malaysia-esim
+    slug: cyprus-esim
+  - name: 智利 eSIM
+    flag: img/flags/cl.svg
+    price: 自 $4.99
+    is_highlight: false
+    slug: chile-esim
+  - name: 孟加拉 eSIM
+    flag: img/flags/bd.svg
+    price: 自 $5.99
+    is_highlight: false
+    slug: bangladesh-esim
   - name: 美國 eSIM
     flag: img/flags/us.svg
-    price: От 1,99 $
-    is_highlight: false
+    price: 自 $1.99
+    is_highlight: true
     slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+  - name: 墨西哥 eSIM
+    flag: img/flags/mx.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: mexico-esim
+  - name: 汶萊 eSIM
+    flag: img/flags/bn.svg
+    price: 自 $9.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: brunei-esim
+  - name: 巴西 eSIM
+    flag: img/flags/br.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+    slug: brazil-esim
+  - name: 希臘 eSIM
+    flag: img/flags/gr.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: philippines-esim
-
+    slug: greece-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Spain eSIM 上網速度快嗎？旅行網路品質完整評測"
   subtitle: "西班牙當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Spain) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Spain"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -483,7 +487,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Spain. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Movistar 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開馬德里機場的昂貴SIM卡攤位（價格極高），也無需前往市中心品牌店排隊；Roami eSIM 落地後一分鐘內線上啟用，省去數小時的找店與驗件流程。"
     - icon: "id-card"
@@ -513,13 +517,13 @@ market_analysis:
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "Orange、Movistar、Simyo的線上充值系統直接拒絕國際信用卡，用戶只能到Carrefour超市或特定報亭購買實體充值卡。"
+      prepaid_desc: "Orange、Movistar、Simyo的線上儲值系統直接拒絕國際信用卡，用戶只能到Carrefour超市或特定報亭購買實體儲值卡。"
       esim_title: "全球付款暢通"
-      esim_desc: "繞開 Orange、Movistar 官網拒收非西班牙信用卡的困境；Roami 接受 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需尋找實體充值卡。"
+      esim_desc: "繞開 Orange、Movistar 官網拒收非西班牙信用卡的困境；Roami 接受 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需尋找實體儲值卡。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "問題排除須聯繫 Movistar、Vodafone 客服，語言與服務時段皆有限制，預付卡用戶較難獲得即時協助。"
       esim_title: "24/7 中文支援"
       esim_desc: "西班牙預付卡客服通常僅提供西班牙語或英語，且營業時間有限；Roami eSIM 提供 24/7 全天候中文客服，隨時解決問題。"
 

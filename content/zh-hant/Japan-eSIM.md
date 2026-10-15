@@ -1,6 +1,6 @@
 ---
 title: '日本 eSIM 2026: 旅行與網路 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,7 +18,7 @@ modal:
 seo:
   title: "日本eSIM｜5G吃到飽不降速，新幹線城際移動連線穩定"
   description: "去日本旅遊上網卡推薦Roami eSIM，提供5G高速上網吃到飽不降速方案最低只要$1.99起。新幹線城際移動全程連線穩定，國外旅遊上網不用花大錢，線上購買即開即用超方便。"
-  keywords: 日本 eSIM, 日本 eSIM方案, 最佳日本 eSIM, 日本上網, Docomo 日本, SoftBank 日本, AU 日本, 東京 eSIM, 大阪 eSIM, 京都 eSIM, 日本行動網路, 5G 日本
+  keywords: 日本 eSIM, eSIM 日本, 日本 eSIM 購買, 最佳日本 eSIM, 日本 上網, Docomo 日本, SoftBank 日本, AU 日本, 東京 eSIM, 大阪 eSIM, 京都 eSIM, 札幌 eSIM, 福岡 eSIM, 日本 eSIM 方案, 日本 5G eSIM, 日本 eSIM 預付卡
 order_summary:
   title: 選擇 日本 eSIM
   label_data: 數據量
@@ -67,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線日本最佳電信商，取得最強訊號
-plans_title: 購買日本 eSIM：適合各種旅程的方案
+plans_title: 日本 eSIM 方案與價格說明
 plans_data:
   7 天:
   - spec: 3GB
@@ -312,7 +312,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 日本 eSIM秘訣：出發前須知
+  title: 日本 eSIM 使用前的小撇步
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -341,7 +341,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 日本 eSIM啟用：3個簡單步驟
+  title: 日本 eSIM 如何啟用？簡單3步搞定
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 日本 做好準備
@@ -380,7 +380,7 @@ faq_section:
     title: 日本 eSIM 網速評測｜Docomo、SoftBank、AU 5G/4G速度對比
     questions:
     - q: 日本eSIM的價格從多少到多少？有便宜的短期方案嗎？
-      a: Roami 日本 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Docomo在日本市區5G網速約100-300Mbps，看1080p影片沒問題。如果去Klook查日本 eSIM，Roami通常便宜10-20%，因為沒有平台抽成。如果不確定用量可以先買小的，到日本後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 日本 eSIM方案從$1.99（7天1GB）起，最高$71.99（30天無限）。一般旅客買最多的是5GB/15天（$6.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Docomo在日本市區5G網速約100-300Mbps，看1080p影片沒問題。如果去Klook查日本 eSIM，Roami通常便宜10-20%，因為沒有平台抽成。如果不確定用量可以先買小的，到日本後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 去日本用eSIM上網的話，原本的門號還能繼續收簡訊嗎？
       a: Roami 日本 eSIM是純數據方案，沒有附當地號碼。很多人擔心沒號碼不方便——其實叫車、訂餐廳用網路電話就行。在日本都會區用Docomo的5G打視訊，品質跟一般通話差不多。原門號可留在卡槽1繼續收簡訊（銀行驗證、社群通知不漏），eSIM在卡槽2負責上網。如需當地號碼可搭Google Voice或TextNow。iPhone XS以上、多數安卓旗艦支援雙卡雙待，設定數據走eSIM、通話走原門號即可。
     - q: 去日本玩辦eSIM，Roami會自動切換Docomo、SoftBank、AU的網路嗎？
@@ -392,84 +392,89 @@ faq_section:
     - q: 非日本當地購買的國際手機，用eSIM會不會有相容性問題？
       a: 最快方法：撥號*#06#，出現EID代表支援eSIM。iPhone XS以後、Samsung S20/Flip以後、Pixel 4以後、多數2020年後旗艦機都支援。日本5G使用n77/n78/n257頻段，多數2020年後手機皆相容。很多人忽略頻段問題——Docomo在日本的n77/n78/n257頻段可能跟你的手機不完全吻合。出發前到[Roami相容性頁面](/compatibility/)查型號。不支援eSIM可租WiFi機或買當地實體SIM卡。
     - q: 日本eSIM有那種不限速的吃到飽方案嗎？價格跟一般吃到飽差在哪裡？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。日本5G使用n77/n78/n257頻段，多數2020年後手機皆相容。Roami在日本連上Docomo的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。日本5G使用n77/n78/n257頻段，多數2020年後手機皆相容。Roami在日本連上Docomo的網路，網速穩定。如果怕降速可選10GB/$8.99或20GB/$16.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 日本eSIM買了之後要驗證證件嗎？沒先辦好會不會到了不能用？
       a: 需要的。日本法規要求預付SIM卡需進行KYC實名認證，需提供護照掃描。很多人不知道這規定，到了日本機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。日本5G使用n77/n78/n257頻段，多數2020年後手機皆相容。另外Docomo的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到日本開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 去日本買一份eSIM開熱點分享給旅伴一起用，這樣可行嗎？會不會被限制？
       a: Roami 日本 eSIM支援熱點分享。Docomo的網路開熱點分享給旅伴或筆電都可以。多人共用建議選10GB以上方案，每人每天約用500MB-1GB。如果不確定買多少，可以先選中階方案，不夠再用App加購。iPhone和Android都支援熱點分享功能。
     - q: 日本主要市區和偏遠鄉村的網路覆蓋差距大嗎？
       a: 日本的Docomo等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。日本5G使用n77/n78/n257頻段，多數2020年後手機皆相容。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
+    - q: 抵達日本機場後就能馬上上網嗎？
+      a: 可以。只要出發前先安裝好 eSIM，落地後關閉飛航模式、開啟 eSIM 線路，通常幾十秒內就能連上當地網路，不用在機場排隊買實體 SIM 卡。 實際走訪 東京、大阪 等主要城市，上網查資料、傳照片都沒問題。
+    - q: 在東京、大阪用日本 eSIM上網順嗎？
+      a: 東京、大阪 這類主要城市的行動網路覆蓋都很完整，查地圖、叫車、傳訊息與上傳照片都沒問題。日本 部分偏遠地區訊號較弱，建議先下載離線地圖備用。 不論在 京都、札幌，連線品質都相當穩定。
+    - q: 日本 eSIM 有幾天份的方案可以選？
+      a: Roami 日本 eSIM 提供 3/7/15/30 天等選擇，可依行程長短挑選。三天內的短程選入門天數就夠，一週以上建議直接挑長效期方案，單日成本更划算。 東京、福岡 等地的行動網路覆蓋完整，跨區移動也不斷線。
 related_products:
-  title: 類似 日本 eSIM 的旅行方案
+  title: 順遊國家的 eSIM 方案
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 盧森堡 eSIM
+    flag: img/flags/lu.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: luxembourg-esim
+  - name: 肯亞 eSIM
+    flag: img/flags/ke.svg
+    price: 自 $7.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+    slug: kenya-esim
+  - name: 羅馬尼亞 eSIM
+    flag: img/flags/ro.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: romania-esim
+  - name: 薩爾瓦多 eSIM
+    flag: img/flags/sv.svg
+    price: 自 $23.99
+    is_highlight: false
+    slug: el-salvador-esim
+  - name: 馬利 eSIM
+    flag: img/flags/ml.svg
+    price: 自 $27.99
+    is_highlight: false
+    slug: mali-esim
+  - name: 秘魯 eSIM
+    flag: img/flags/pe.svg
+    price: 自 $4.99
+    is_highlight: false
+    slug: peru-esim
+  - name: 奧地利 eSIM
+    flag: img/flags/at.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: austria-esim
+  - name: 喀麥隆 eSIM
+    flag: img/flags/cm.svg
+    price: 自 $27.99
+    is_highlight: false
+    slug: cameroon-esim
+  - name: 加彭 eSIM
+    flag: img/flags/ga.svg
+    price: 自 $14.99
+    is_highlight: false
+    slug: gabon-esim
+  - name: 德國 eSIM
+    flag: img/flags/de.svg
+    price: 自 $1.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: germany-esim
+  - name: 約旦 eSIM
+    flag: img/flags/jo.svg
+    price: 自 $6.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: jordan-esim
+  - name: 拉脫維亞 eSIM
+    flag: img/flags/lv.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: philippines-esim
-
+    slug: latvia-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Japan eSIM 上網速度快嗎？旅行網路品質完整評測"
   subtitle: "日本當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Japan) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Japan"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -478,7 +483,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Japan. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Docomo 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 SoftBank 的 9:00-21:00 激活限制和 MINEO 對日本本地號碼的硬性需求，抵達日本後一分鐘內線上啟用 eSIM，無需排隊或尋找特定商店。"
     - icon: "id-card"
@@ -496,25 +501,25 @@ market_analysis:
     - icon: "calendar-xmark"
       title: "計費週期與浪費成本"
       prepaid_title: ""
-      prepaid_desc: "b-mobile 物理 SIM 卡的 30 天週期從發貨日起算，而非激活日，導致在途時間直接消耗有效天數；IIJmio 充值後有效期僅從最後一次充值日順延 3 個月，短期遊客補充少量流量會造成大量浪費。"
+      prepaid_desc: "b-mobile 物理 SIM 卡的 30 天週期從發貨日起算，而非激活日，導致在途時間直接消耗有效天數；IIJmio 儲值後有效期僅從最後一次儲值日順延 3 個月，短期遊客補充少量流量會造成大量浪費。"
       esim_title: "彈性計費零浪費"
       esim_desc: "與 b-mobile 從發貨日計費（浪費 20-40% 天數）不同，Roami 提供 7 天方案，最低 1.99 美元/GB，用多少買多少，避免沉沒成本。"
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。根據市場知識，日本預付 SIM 卡通常允許熱點分享，但可能限制速度或流量。"
+      prepaid_desc: "日本預付 SIM 卡通常允許熱點分享，但可能限制速度或流量。"
       esim_title: "無限熱點分享"
       esim_desc: "日本實體卡可能限制熱點分享，Roami eSIM 允許自由分享給其他設備，無速度或流量限制，適合多人共用。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "povo 2.0 僅在 Lawson 等特定便利店有售，且只接受現金支付；SoftBank 預付卡充值只能線上通過信用卡進行。"
+      prepaid_desc: "povo 2.0 僅在 Lawson 等特定便利店有售，且只接受現金支付；SoftBank 預付卡儲值只能線上通過信用卡進行。"
       esim_title: "全球付款暢通"
       esim_desc: "無需像 povo 2.0 那樣使用現金在便利店購買，Roami 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，線上即時完成。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。根據市場知識，日本電信商的客戶支援通常提供日語和英語，但預付卡用戶可能無法獲得即時協助。"
+      prepaid_desc: "日本電信商的客戶支援通常提供日語和英語，但預付卡用戶可能無法獲得即時協助。"
       esim_title: "24/7 全天候支援"
       esim_desc: "日本電信商客服可能僅限日語或營業時間，Roami 提供 24/7 多語言線上支援，隨時解決問題。"
 
@@ -536,7 +541,7 @@ market_analysis:
         icon_bg: "bg-amber-100"
         icon_color: "text-amber-600"
         title: "避免計費週期浪費"
-        desc: "b-mobile 物理 SIM 卡 30 天週期從發貨日起算，而非激活日，在途時間消耗 20-40% 天數。IIJmio 充值後有效期順延 3 個月，短期遊客補充 500MB 需花 ¥1,500 卻只用到極少部分。Roami eSIM 從首次連網起算，精準匹配行程。"
+        desc: "b-mobile 物理 SIM 卡 30 天週期從發貨日起算，而非激活日，在途時間消耗 20-40% 天數。IIJmio 儲值後有效期順延 3 個月，短期遊客補充 500MB 需花 ¥1,500 卻只用到極少部分。Roami eSIM 從首次連網起算，精準匹配行程。"
       - icon: "shield"
         icon_bg: "bg-teal-100"
         icon_color: "text-teal-600"

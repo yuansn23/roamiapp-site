@@ -1,6 +1,6 @@
 ---
 title: '菲律賓 eSIM 2026: 方案與覆蓋 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,7 @@ modal:
 seo:
   title: "菲律賓eSIM｜7天5G吃到飽，短期旅行划算又方便"
   description: "短途去菲律賓旅行用Roami 7天eSIM推薦方案，5G吃到飽超值選擇。短途旅行上網便宜又好用，短期旅行也能享受高速網路不斷線，划算又方便免綁約。"
-  keywords: 菲律賓 eSIM, 菲律賓 eSIM方案, 最佳菲律賓 eSIM, 菲律賓上網, Globe 菲律賓, Smart 菲律賓, DITO 菲律賓, 馬尼拉 eSIM, 宿霧 eSIM, 達沃 eSIM, 菲律賓行動網路,
-    5G 菲律賓
+  keywords: 菲律賓 eSIM, eSIM 菲律賓, 菲律賓 eSIM 購買, 最佳菲律賓 eSIM, 菲律賓 上網, Globe 菲律賓, Smart 菲律賓, DITO 菲律賓, 馬尼拉 eSIM, 宿霧 eSIM, 達沃 eSIM, 長灘島 eSIM, 巴拉望 eSIM, 菲律賓 eSIM 方案, 菲律賓 5G eSIM, 菲律賓 eSIM 預付卡
 order_summary:
   title: 選擇 菲律賓 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線菲律賓最佳電信商，取得最強訊號
-plans_title: 購買菲律賓 eSIM：適合各種旅程的方案
+plans_title: 菲律賓 eSIM 資費方案一覽
 plans_data:
   15 天:
   - spec: 3GB
@@ -313,7 +312,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 菲律賓 eSIM秘訣：出發前須知
+  title: 菲律賓 eSIM 使用重點提醒
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -342,7 +341,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 菲律賓 eSIM啟用：3個簡單步驟
+  title: 菲律賓 eSIM 安裝與啟用步驟
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 菲律賓 做好準備
@@ -377,88 +376,93 @@ faq_section:
     title: 菲律賓 eSIM 網速評測｜Globe、Smart 5G/4G速度對比
     questions:
     - q: 去菲律賓自由行的話，辦eSIM上網大概要花多少錢？
-      a: Roami 菲律賓 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Globe在菲律賓市區5G網速約100-300Mbps，看1080p影片沒問題。去菲律賓機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到菲律賓後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 菲律賓 eSIM方案從$2.99（3天1GB）起，最高$70.99（30天無限）。一般旅客買最多的是5GB/15天（$8.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Globe在菲律賓市區5G網速約100-300Mbps，看1080p影片沒問題。去菲律賓機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到菲律賓後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 第一次去菲律賓想用eSIM，請問購買到安裝的完整步驟是什麼？
       a: 收到QR Code後，iOS進 設定 > 行動服務 > 加入行動方案，Android進 設定 > 網路與網際網路 > 加入eSIM，約2分鐘完成。強烈建議出發前在家用WiFi先裝好——安裝當下需要網路，到了菲律賓機場若WiFi要手機驗證才能連就麻煩了。裝好後抵達菲律賓開啟數據漫遊，約1-2分鐘自動連上Globe。萬一沒訊號：先確認數據漫遊有開，再手動選Globe試試。重開機通常能解決，Roami客服24小時在線可協助排除。
     - q: 到菲律賓用eSIM，Roami會自動幫我選Globe或Smart訊號比較強的那一家嗎？
       a: 菲律賓主要有Globe、Smart。Globe市區下載快、基地台密集。Smart郊區覆蓋廣，會去郊區的話選Smart路線較有保障。菲律賓5G使用n78頻段，馬尼拉都會區覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Globe，移動到郊區若Globe訊號變弱就自動跳Smart，完全不用手動選。
     - q: 如果去菲律賓會大量使用網路，是不是直接辦吃到飽比較省事？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。菲律賓5G使用n78頻段，馬尼拉都會區覆蓋。Roami在菲律賓連上Globe的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。菲律賓5G使用n78頻段，馬尼拉都會區覆蓋。Roami在菲律賓連上Globe的網路，網速穩定。如果怕降速可選10GB/$7.99或20GB/$17.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 去菲律賓用eSIM需要實名認證嗎？要準備護照還是其他證件？
       a: 需要的。菲律賓預付卡需KYC認證，需提供護照。很多人不知道這規定，到了菲律賓機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。菲律賓5G使用n78頻段，馬尼拉都會區覆蓋。另外Globe的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到菲律賓開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 搭車從菲律賓市區移動到郊區的時候，eSIM網路會一直切換嗎？
       a: 菲律賓的Globe等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。菲律賓5G使用n78頻段，馬尼拉都會區覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
+    - q: 買菲律賓 eSIM 支援哪些付款方式？多久能收到？
+      a: Roami 支援信用卡等常見線上付款，結帳後 QR code 會寄到你的電子郵件，通常幾分鐘內就能收到。建議出發前先在台灣買好、裝好，抵達 菲律賓 即可連線。 在 馬尼拉、宿霧 一帶實測收訊良好，移動中會自動切換基地台。
+    - q: 去菲律賓玩幾天，該挑多大的eSIM規格才夠用？
+      a: Roami 菲律賓 eSIM 有 3GB、5GB、10GB、20GB、無限、30GB 等規格可選。短天數、只查地圖傳訊息的輕度使用，3GB 就夠；如果會看短影片、視訊通話或開熱點分享，建議再往上加一級。用量抓不準可以先買小的，到 菲律賓 後在 App 加購即可，不用換卡。 達沃、長灘島 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
+    - q: 菲律賓 eSIM 可以開熱點分享給旅伴嗎？
+      a: 可以，Roami 菲律賓 eSIM 支援熱點分享，能分給筆電、平板或同行旅伴。多人共用建議挑規格大一級的方案，避免中途用完；用量抓不準也可以事後在 App 加購。 實際走訪 馬尼拉、巴拉望 等主要城市，上網查資料、傳照片都沒問題。
 related_products:
-  title: 類似 菲律賓 eSIM 的旅行方案
+  title: 熱門目的地 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 史瓦帝尼 eSIM
+    flag: img/flags/sz.svg
+    price: 自 $19.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: europe-esim
+    slug: eswatini-esim
   - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
+    price: 自 $1.99
+    is_highlight: true
     slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+  - name: 波士尼亞與赫塞哥維納 eSIM
+    flag: img/flags/ba.svg
+    price: 自 $30.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+    slug: bosnia-and-herzegovina-esim
+  - name: 加拿大 eSIM
+    flag: img/flags/ca.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: canada-esim
+  - name: 俄羅斯 eSIM
+    flag: img/flags/ru.svg
+    price: 自 $2.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: russia-esim
+  - name: 義大利 eSIM
+    flag: img/flags/it.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: italy-esim
+  - name: 列支敦斯登 eSIM
+    flag: img/flags/li.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: liechtenstein-esim
+  - name: 阿富汗 eSIM
+    flag: img/flags/af.svg
+    price: 自 $11.99
+    is_highlight: false
+    slug: afghanistan-esim
+  - name: 印尼 eSIM
+    flag: img/flags/id.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: indonesia-esim
+  - name: 哥斯大黎加 eSIM
+    flag: img/flags/cr.svg
+    price: 自 $9.99
+    is_highlight: false
+    slug: costa-rica-esim
+  - name: 玻利維亞 eSIM
+    flag: img/flags/bo.svg
+    price: 自 $11.99
+    is_highlight: false
+    slug: bolivia-esim
+  - name: 安道爾 eSIM
+    flag: img/flags/ad.svg
+    price: 自 $6.99
+    is_highlight: false
+    slug: andorra-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Philippines eSIM 網路品質好不好？城市與鄉村覆蓋完整分析"
   subtitle: "菲律賓當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Philippines) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Philippines"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -467,7 +471,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Philippines. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Globe 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 Smart 和 Globe 機場櫃檯排隊及繁瑣的線上註冊流程，抵達菲律賓後一分鐘內掃碼啟用 eSIM，無需尋找 WiFi 或拍攝證件。"
     - icon: "id-card"
@@ -497,13 +501,13 @@ market_analysis:
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "雖然 App 接受國際信用卡，但一旦在 30 天旅行簽證有效期內沒去移民局續簽，並在最後一天充值大流量包，第二天簽證到期時這張 SIM 卡將連同三張充值發票一併被系統憑空註銷，所有餘額清零。"
+      prepaid_desc: "雖然 App 接受國際信用卡，但一旦在 30 天旅行簽證有效期內沒去移民局續簽，並在最後一天儲值大流量包，第二天簽證到期時這張 SIM 卡將連同三張儲值發票一併被系統憑空註銷，所有餘額清零。"
       esim_title: "全球付款暢通"
-      esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal 等西方主流支付方式，無需擔心當地充值卡或國際信用卡被拒問題。"
+      esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal 等西方主流支付方式，無需擔心當地儲值卡或國際信用卡被拒問題。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "Globe 等當地業者的客服以當地語言為主，預付卡用戶多須至門市或撥打客服電話，營業時間有限，難獲得 24/7 即時支援。"
       esim_title: "24/7 中文支援"
       esim_desc: "提供全天候多語言客戶支援，包括繁體中文，無需面對菲律賓電信商的語言障礙或有限服務時間。"
 

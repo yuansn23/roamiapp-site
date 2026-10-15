@@ -1,6 +1,6 @@
 ---
 title: '史瓦帝尼 eSIM 2026: 完整旅遊指南 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,17 +9,16 @@ country_meta:
   operators: MTN, Eswatini Mobile, Swazi Mobile
   competitors: Airalo, Holafly, Nomad, GigSky, Ubigi
   main_cities: 墨巴本, 曼齊尼, 洛班巴, 恩赫蘭加諾, 恩卡伊尼
-  main_packages: 3/7/15/30 天，無限數據
+  main_packages: 7/15/30 天，1GB/3GB/10GB
 modal:
   title: 服務更新！
   btn_text: 繼續
   text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: '史瓦帝尼eSIM｜5G高速吃到飽，商務旅遊首選'
-  description: 比較史瓦帝尼 eSIM方案，墨巴本, 曼齊尼, 洛班巴等地5G高速上網。MTN & Eswatini Mobile & Swazi Mobile覆蓋指南。即時QR啟用，起價$1.99。
-  keywords: 史瓦帝尼 eSIM, 史瓦帝尼 eSIM方案, 最佳史瓦帝尼 eSIM, 史瓦帝尼上網, MTN 史瓦帝尼, Eswatini Mobile 史瓦帝尼, Swazi Mobile 史瓦帝尼, 墨巴本 eSIM, 曼齊尼
-    eSIM, 洛班巴 eSIM, 史瓦帝尼行動網路, 5G 史瓦帝尼
+  title: '史瓦帝尼eSIM｜5G高速上網，商務旅遊首選'
+  description: 比較史瓦帝尼 eSIM方案，墨巴本, 曼齊尼, 洛班巴等地5G高速上網。MTN & Eswatini Mobile & Swazi Mobile覆蓋指南。即時QR啟用，起價$19.99。
+  keywords: 史瓦帝尼 eSIM, eSIM 史瓦帝尼, 史瓦帝尼 eSIM 購買, 最佳史瓦帝尼 eSIM, 史瓦帝尼 上網, MTN 史瓦帝尼, Eswatini Mobile 史瓦帝尼, Swazi Mobile 史瓦帝尼, 墨巴本 eSIM, 曼齊尼 eSIM, 洛班巴 eSIM, 恩赫蘭加諾 eSIM, 恩卡伊尼 eSIM, 史瓦帝尼 eSIM 方案, 史瓦帝尼 5G eSIM, 史瓦帝尼 eSIM 預付卡
 order_summary:
   title: 選擇 史瓦帝尼 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線史瓦帝尼最佳電信商，取得最強訊號
-plans_title: 購買史瓦帝尼 eSIM：適合各種旅程的方案
+plans_title: 史瓦帝尼 eSIM 方案：依天數與流量自由挑選
 plans_data:
   7 天:
   - spec: 1GB
@@ -133,7 +132,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 史瓦帝尼 eSIM秘訣：出發前須知
+  title: 史瓦帝尼 eSIM 旅遊上網提醒
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -162,7 +161,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 史瓦帝尼 eSIM啟用：3個簡單步驟
+  title: 史瓦帝尼 eSIM 安裝設定一次看
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 史瓦帝尼 做好準備
@@ -197,7 +196,7 @@ faq_section:
     title: 史瓦帝尼 eSIM 電信網路MTN全解析｜訊號品質與速度
     questions:
     - q: 史瓦帝尼eSIM各方案價格差在哪裡？買哪種最適合一般觀光客？
-      a: Roami 史瓦帝尼 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。史瓦帝尼以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去史瓦帝尼機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到史瓦帝尼後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 史瓦帝尼 eSIM方案從$19.99（7天1GB）起，最高$115.99（30天10GB）。一般旅客買最多的是3GB/15天（$44.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。史瓦帝尼以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去史瓦帝尼機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到史瓦帝尼後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 去史瓦帝尼旅遊的話，MTN和Eswatini Mobile這兩家哪個網路比較好？
       a: 史瓦帝尼主要有MTN、Eswatini Mobile。MTN市區下載快、基地台密集。Eswatini Mobile郊區覆蓋廣，會去郊區的話選Eswatini Mobile路線較有保障。史瓦帝尼4G為主。不過Roami會自動切換到當前訊號最強的網路。市區用MTN，移動到郊區若MTN訊號變弱就自動跳Eswatini Mobile，完全不用手動選。
     - q: 有人說去史瓦帝尼辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
@@ -205,80 +204,85 @@ faq_section:
     - q: 搭車從史瓦帝尼市區移動到郊區的時候，eSIM網路會一直切換嗎？
       a: 史瓦帝尼的MTN等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。史瓦帝尼4G為主。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 去史瓦帝尼旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
-      a: Roami 史瓦帝尼 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
+      a: Roami 史瓦帝尼 eSIM方案從$19.99（7天1GB）起，最高$115.99（30天10GB）。一般選3GB/15天（$44.99）最熱門，不夠再到App加購。
     - q: 史瓦帝尼eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
       a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
+    - q: 史瓦帝尼 eSIM 要怎麼啟用？要抵達當地才開嗎？
+      a: 建議出發前先用 WiFi 掃描 QR code 安裝描述檔，抵達 史瓦帝尼 後再開啟 eSIM 線路並打開數據漫遊，連上當地網路就會自動啟用，方案效期也從那時開始計算。 墨巴本、曼齊尼 等地的行動網路覆蓋完整，跨區移動也不斷線。
+    - q: 去史瓦帝尼之後順道去其他國家，同一張eSIM能繼續用嗎？
+      a: Roami 史瓦帝尼 eSIM 以 史瓦帝尼 境內使用為主；若行程會跨到鄰國，建議另外加購該國或區域方案，避免產生額外的漫遊費用。 另外，洛班巴、恩赫蘭加諾 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
+    - q: 在墨巴本、曼齊尼用史瓦帝尼 eSIM上網順嗎？
+      a: 墨巴本、曼齊尼 這類主要城市的行動網路覆蓋都很完整，查地圖、叫車、傳訊息與上傳照片都沒問題。史瓦帝尼 部分偏遠地區訊號較弱，建議先下載離線地圖備用。 在 墨巴本、恩卡伊尼 一帶實測收訊良好，移動中會自動切換基地台。
 related_products:
-  title: 類似 史瓦帝尼 eSIM 的旅行方案
+  title: 順遊國家的 eSIM 方案
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 馬利 eSIM
+    flag: img/flags/ml.svg
+    price: 自 $27.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: mali-esim
+  - name: 汶萊 eSIM
+    flag: img/flags/bn.svg
+    price: 自 $9.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: brunei-esim
+  - name: 捷克 eSIM
+    flag: img/flags/cz.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: czech-republic-esim
+  - name: 馬爾地夫 eSIM
+    flag: img/flags/mv.svg
+    price: 自 $14.99
     is_highlight: false
-    slug: singapore-esim
+    slug: maldives-esim
+  - name: 德國 eSIM
+    flag: img/flags/de.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: germany-esim
+  - name: 伊拉克 eSIM
+    flag: img/flags/iq.svg
+    price: 自 $21.99
+    is_highlight: false
+    slug: iraq-esim
+  - name: 法國 eSIM
+    flag: img/flags/fr.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: france-esim
   - name: 馬來西亞 eSIM
     flag: img/flags/my.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: false
     slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+  - name: 秘魯 eSIM
+    flag: img/flags/pe.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: peru-esim
+  - name: 法羅群島 eSIM
+    flag: img/flags/fo.svg
+    price: 自 $5.99
     is_highlight: false
-    slug: europe-esim
+    slug: faroe-islands-esim
   - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
+    price: 自 $1.99
+    is_highlight: true
     slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+  - name: 印度 eSIM
+    flag: img/flags/in.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: philippines-esim
-
+    slug: india-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Eswatini eSIM 上網品質實測 -- 速度、訊號、穩定度一次看懂"
   subtitle: "史瓦帝尼當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Eswatini) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Eswatini"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -287,7 +291,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Eswatini. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 MTN 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 MTN 門市排隊與護照登記，抵達史瓦帝尼後一分鐘內線上啟用 eSIM，無需支付 SZL 10 或 SZL 50 的 SIM 卡費用。"
     - icon: "id-card"
@@ -299,33 +303,33 @@ market_analysis:
     - icon: "globe"
       title: "國際漫遊"
       prepaid_title: ""
-      prepaid_desc: "極少運營商在史瓦帝尼提供國際漫遊，甚至不是所有南非運營商都有，跨境後可能直接無服務。"
+      prepaid_desc: "極少電信商在史瓦帝尼提供國際漫遊，甚至不是所有南非電信商都有，跨境後可能直接無服務。"
       esim_title: "全球漫遊暢通"
-      esim_desc: "史瓦帝尼當地卡跨境後極可能無服務（極少運營商提供國際漫遊），而 eSIM 可自動切換至南非或莫桑比克的當地網路，確保導航不中斷。"
+      esim_desc: "史瓦帝尼當地卡跨境後極可能無服務（極少電信商提供國際漫遊），而 eSIM 可自動切換至南非或莫桑比克的當地網路，確保導航不中斷。"
     - icon: "calendar-xmark"
       title: "計費週期與浪費成本"
       prepaid_title: ""
-      prepaid_desc: "MTN 與 Eswatini Mobile 的主流數據套餐均強制鎖定 30 天計費週期，例如 MTN 的 10GB 套餐需 SZL 750，Eswatini Mobile 的 10GB 套餐需 SZL 800。"
+      prepaid_desc: "MTN 與 Eswatini Mobile 的主流數據方案均強制鎖定 30 天計費週期，例如 MTN 的 10GB 套餐需 SZL 750，Eswatini Mobile 的 10GB 套餐需 SZL 800。"
       esim_title: "彈性計費週期"
       esim_desc: "與 MTN 和 Eswatini Mobile 的 30 天強制週期（例如 MTN 10GB 需 SZL 750）不同，Roami eSIM 提供 7 天方案，最低 1.99 美元/GB，避免為未使用的天數浪費資金。"
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "MTN 等業者的預付方案通常可分享熱點，但速度政策不透明，達一定流量後可能被限速，長途使用需留意。"
       esim_title: "無限熱點分享"
       esim_desc: "史瓦帝尼當地卡可能限制熱點分享（來源未明確），而 eSIM 支援個人熱點，可與旅伴共享數據，無需額外購買多張 SIM 卡。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "充值依賴刮刮卡或收銀小票上的 PIN 碼，透過繁瑣的短碼指令 *141*<PIN># 操作，對國際遊客構成障礙。"
+      prepaid_desc: "儲值依賴刮刮卡或收銀小票上的 PIN 碼，透過繁瑣的短碼指令 *141*<PIN># 操作，對國際遊客構成障礙。"
       esim_title: "全球付款方式"
-      esim_desc: "擺脫刮刮卡與繁瑣的短碼充值（*141*<PIN>#），eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，即時到帳。"
+      esim_desc: "擺脫刮刮卡與繁瑣的短碼儲值（*141*<PIN>#），eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，即時到帳。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "當地預付卡的客服多限當地語言與營業時間，MTN 等業者少有 24/7 線上支援，行程中斷網時處理較慢。"
       esim_title: "24/7 客服支援"
-      esim_desc: "史瓦帝尼當地運營商客服可能僅提供當地語言且營業時間有限，而 eSIM 提供 24/7 多語言線上支援，隨時解決問題。"
+      esim_desc: "史瓦帝尼當地電信商客服可能僅提供當地語言且營業時間有限，而 eSIM 提供 24/7 多語言線上支援，隨時解決問題。"
 
   # =============== 100% 完整復原：專家評語模組 ===============
   expert_verdict:

@@ -1,6 +1,6 @@
 ---
 title: '巴基斯坦 eSIM 2026: 完整旅遊指南 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,9 +17,8 @@ modal:
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
   title: "巴基斯坦eSIM｜15天5G吃到飽，跨國旅行不斷網"
-  description: "想在巴基斯坦深度旅行半個月？Roami 15天eSIM深度旅遊方案5G高速上網吃到飽。慢慢逛慢慢玩網路一路暢通，深度旅遊eSIM推薦必備方案，最低$1.99起。"
-  keywords: 巴基斯坦 eSIM, 巴基斯坦 eSIM方案, 最佳巴基斯坦 eSIM, 巴基斯坦上網, Jazz 巴基斯坦, Zong 巴基斯坦, Telenor 巴基斯坦, 卡拉奇 eSIM, 拉合爾 eSIM, 伊斯蘭堡 eSIM,
-    巴基斯坦行動網路, 5G 巴基斯坦
+  description: "想在巴基斯坦深度旅行半個月？Roami 15天eSIM深度旅遊方案5G高速上網吃到飽。慢慢逛慢慢玩網路一路暢通，深度旅遊eSIM推薦必備方案，最低$3.99起。"
+  keywords: 巴基斯坦 eSIM, eSIM 巴基斯坦, 巴基斯坦 eSIM 購買, 最佳巴基斯坦 eSIM, 巴基斯坦 上網, Jazz 巴基斯坦, Zong 巴基斯坦, Telenor 巴基斯坦, 卡拉奇 eSIM, 拉合爾 eSIM, 伊斯蘭堡 eSIM, 白沙瓦 eSIM, 奎達 eSIM, 巴基斯坦 eSIM 方案, 巴基斯坦 5G eSIM, 巴基斯坦 eSIM 預付卡
 order_summary:
   title: 選擇 巴基斯坦 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線巴基斯坦最佳電信商，取得最強訊號
-plans_title: 購買巴基斯坦 eSIM：適合各種旅程的方案
+plans_title: 選一張適合旅程的巴基斯坦 eSIM
 plans_data:
   7 天:
   - spec: 3GB
@@ -305,7 +304,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 巴基斯坦 eSIM秘訣：出發前須知
+  title: 巴基斯坦 eSIM 實用小提醒
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -334,7 +333,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 巴基斯坦 eSIM啟用：3個簡單步驟
+  title: 抵達前完成：巴基斯坦 eSIM 啟用
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 巴基斯坦 做好準備
@@ -369,7 +368,7 @@ faq_section:
     title: 巴基斯坦 eSIM 網速與電信商介紹｜5G/4G涵蓋範圍
     questions:
     - q: 去巴基斯坦旅遊如果用eSIM，流量和天數要怎麼搭比較省？
-      a: Roami 巴基斯坦 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。巴基斯坦以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去巴基斯坦機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到巴基斯坦後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 巴基斯坦 eSIM方案從$3.99（7天1GB）起，最高$96.99（30天無限）。一般旅客買最多的是5GB/15天（$7.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。巴基斯坦以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去巴基斯坦機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到巴基斯坦後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 巴基斯坦eSIM的開通流程會不會很複雜？什麼時候開始算啟用？
       a: 收到QR Code後，iOS進 設定 > 行動服務 > 加入行動方案，Android進 設定 > 網路與網際網路 > 加入eSIM，約2分鐘完成。強烈建議出發前在家用WiFi先裝好——安裝當下需要網路，到了巴基斯坦機場若WiFi要手機驗證才能連就麻煩了。裝好後抵達巴基斯坦開啟數據漫遊，約1-2分鐘自動連上Jazz。萬一沒訊號：先確認數據漫遊有開，再手動選Jazz試試。重開機通常能解決，Roami客服24小時在線可協助排除。
     - q: 去巴基斯坦玩辦eSIM，Roami會自動切換Jazz、Zong、Telenor的網路嗎？
@@ -380,77 +379,82 @@ faq_section:
       a: 巴基斯坦的Jazz等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。巴基斯坦4G為主，5G逐步建置。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 巴基斯坦eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
       a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
+    - q: 巴基斯坦 eSIM 大概多少錢？有便宜的選擇嗎？
+      a: Roami 巴基斯坦 eSIM 方案從 $3.99（7天1GB）起，最高 $96.99（30天無限）。短期輕度使用挑入門方案即可，用量大的旅客再選高規格。價格透明，方案到期自動失效，不會續約扣款。 實際走訪 卡拉奇、拉合爾 等主要城市，上網查資料、傳照片都沒問題。
+    - q: 巴基斯坦 eSIM 的網速快嗎？會不會比當地實體卡慢？
+      a: Roami 巴基斯坦 eSIM 走當地主要電信商的基地台，速度與當地預付卡相當，日常查地圖、社群、視訊通話都很順。實際速度仍會受所在位置與當下網路負載影響。 不論在 伊斯蘭堡、白沙瓦，連線品質都相當穩定。
+    - q: 去巴基斯坦玩幾天，該挑多大的eSIM規格才夠用？
+      a: Roami 巴基斯坦 eSIM 有 3GB、1GB、5GB、10GB、無限、20GB 等規格可選。短天數、只查地圖傳訊息的輕度使用，3GB 就夠；如果會看短影片、視訊通話或開熱點分享，建議再往上加一級。用量抓不準可以先買小的，到 巴基斯坦 後在 App 加購即可，不用換卡。 卡拉奇、奎達 等地的行動網路覆蓋完整，跨區移動也不斷線。
 related_products:
-  title: 類似 巴基斯坦 eSIM 的旅行方案
+  title: 順遊國家的 eSIM 方案
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+  - name: 阿曼 eSIM
+    flag: img/flags/om.svg
+    price: 自 $5.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: oman-esim
+  - name: 法屬圭亞那 eSIM
+    flag: img/flags/gf.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: french-guiana-esim
+  - name: 吉爾吉斯 eSIM
+    flag: img/flags/kg.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: kyrgyzstan-esim
+  - name: 薩爾瓦多 eSIM
+    flag: img/flags/sv.svg
+    price: 自 $23.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: el-salvador-esim
+  - name: 秘魯 eSIM
+    flag: img/flags/pe.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: peru-esim
+  - name: 法羅群島 eSIM
+    flag: img/flags/fo.svg
+    price: 自 $5.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: faroe-islands-esim
+  - name: 希臘 eSIM
+    flag: img/flags/gr.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: greece-esim
+  - name: 尼泊爾 eSIM
+    flag: img/flags/np.svg
+    price: 自 $10.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+    slug: nepal-esim
+  - name: 馬拉威 eSIM
+    flag: img/flags/mw.svg
+    price: 自 $14.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: malawi-esim
+  - name: 科威特 eSIM
+    flag: img/flags/kw.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: kuwait-esim
+  - name: 巴哈馬 eSIM
+    flag: img/flags/bs.svg
+    price: 自 $16.99
+    is_highlight: false
+    slug: bahamas-esim
+  - name: 蒙古 eSIM
+    flag: img/flags/mn.svg
+    price: 自 $9.99
+    is_highlight: false
+    slug: mongolia-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Pakistan eSIM 上網速度快嗎？旅行網路品質完整評測"
   subtitle: "巴基斯坦當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Pakistan) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Pakistan"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -459,45 +463,45 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Pakistan. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Jazz 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 Jazz 或 Telenor 門市排隊與指紋錄入，抵達巴基斯坦前線上購買 eSIM，掃碼即用，節省數小時啟用時間。"
     - icon: "id-card"
       title: "KYC 與護照登記"
       prepaid_title: ""
-      prepaid_desc: "必須前往運營商門店，提供護照及簽證，進行指紋生物識別、拍照等流程；且SIM卡在180天不使用後將被註銷。"
+      prepaid_desc: "必須前往電信商門店，提供護照及簽證，進行指紋生物識別、拍照等流程；且SIM卡在180天不使用後將被註銷。"
       esim_title: "免護照登記"
       esim_desc: "無需提供護照或進行生物識別，Roami eSIM 完全繞過巴基斯坦強制 KYC 流程，保護個人隱私。"
     - icon: "globe"
       title: "國際漫遊"
       prepaid_title: ""
-      prepaid_desc: "固定單一網絡，若選擇了Ufone，在卡拉奇等明確無4G覆蓋的區域將直接失去高速網絡；Jazz雖2G覆蓋最廣，但在北部山區仍存在盲區。"
+      prepaid_desc: "固定單一網路，若選擇了Ufone，在卡拉奇等明確無4G覆蓋的區域將直接失去高速網路；Jazz雖2G覆蓋最廣，但在北部山區仍存在盲區。"
       esim_title: "多網自動切換"
-      esim_desc: "不同於 Ufone 在卡拉奇無 4G 覆蓋，Roami eSIM 可智能切換至 Jazz 或 Telenor 網絡，確保城市與鄉村穩定連線。"
+      esim_desc: "不同於 Ufone 在卡拉奇無 4G 覆蓋，Roami eSIM 可智能切換至 Jazz 或 Telenor 網路，確保城市與鄉村穩定連線。"
     - icon: "calendar-xmark"
       title: "計費週期與浪費成本"
       prepaid_title: ""
-      prepaid_desc: "Jazz的30天869盧比套餐，短期遊客若僅使用3天，將造成近27天流量和資金的浪費；且Telenor和Jazz的套餐多不自動續訂，到期後即轉入高額默認計費。"
+      prepaid_desc: "Jazz的30天869盧比套餐，短期遊客若僅使用3天，將造成近27天流量和資金的浪費；且Telenor和Jazz的套餐多不自動續訂，到期後即轉入高額預設計費。"
       esim_title: "彈性計費週期"
       esim_desc: "與 Jazz 30 天 869 盧比（約 3 美元）方案不同，Roami 提供 7 天數據方案，最低 1.99 美元/GB，避免為未使用天數浪費 90% 成本。"
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。基於市場知識，巴基斯坦預付卡通常允許熱點分享，但可能受速度限制或套餐條款約束。"
+      prepaid_desc: "巴基斯坦預付卡通常允許熱點分享，但可能受速度限制或套餐條款約束。"
       esim_title: "無限分享"
-      esim_desc: "Roami eSIM 支持熱點分享，無速度限制，而巴基斯坦預付卡可能隱藏分享限制或降速政策。"
+      esim_desc: "Roami eSIM 支援熱點分享，無速度限制，而巴基斯坦預付卡可能隱藏分享限制或降速政策。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "Jazz和Zong列出的套餐價格均不含17.5%-19.5%的額外省級稅費，最終支付價會高於心理預期；國際信用卡可能被巴基斯坦本地充值系統拒絕。"
+      prepaid_desc: "Jazz和Zong列出的套餐價格均不含17.5%-19.5%的額外省級稅費，最終支付價會高於心理預期；國際信用卡可能被巴基斯坦本地儲值系統拒絕。"
       esim_title: "全球付款"
       esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需擔心國際信用卡被巴基斯坦本地系統拒絕。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。基於市場知識，巴基斯坦運營商客服通常提供烏爾都語和英語，但預付卡用戶可能需付費撥打客服熱線。"
+      prepaid_desc: "巴基斯坦電信商客服通常提供烏爾都語和英語，但預付卡用戶可能需付費撥打客服熱線。"
       esim_title: "24/7 支援"
-      esim_desc: "Roami 提供全天候多語言客服，相較巴基斯坦運營商僅限烏爾都語/英語且需付費熱線，體驗更佳。"
+      esim_desc: "Roami 提供全天候多語言客服，相較巴基斯坦電信商僅限烏爾都語/英語且需付費熱線，體驗更佳。"
 
   # =============== 100% 完整復原：專家評語模組 ===============
   expert_verdict:

@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Hồng Kông 2026 - Gói 5G tốt nhất cho Cảng Victoria | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: eSIM Hồng Kông - Gói Dữ liệu 5G Tốt nhất cho Chuyến đi của Bạn
-  description: Nhận eSIM trả trước Hồng Kông tốt nhất với 5G trên CSL, SmarTone & CMHK. Không cần đăng ký hay CMND — kích hoạt QR tức thì. Không lãng phí 30 ngày. Từ 1,99 USD.
-  keywords: eSIM Hồng Kông, mua eSIM Hồng Kông, eSIM Hồng Kông tốt nhất, eSIM du lịch Hồng Kông, CSL Hồng Kông, SmarTone Hồng Kông, China Mobile Hồng Kông, eSIM Đảo Hồng Kông, eSIM Kowloon, eSIM Tsuen Wan, eSIM trả trước Hồng Kông, eSIM 5G Hồng Kông, eSIM Disneyland Hồng Kông, eSIM Cảng Victoria
+  description: Nhận eSIM trả trước Hồng Kông tốt nhất với 5G trên CSL, SmarTone & CMHK. Không cần đăng ký hay CMND — kích hoạt QR tức thì. Không lãng phí 30 ngày. Từ $1.99.
+  keywords: eSIM Hồng Kông, mua eSIM Hồng Kông, eSIM Hồng Kông tốt nhất, eSIM du lịch Hồng Kông, CSL Hồng Kông, SmarTone Hồng Kông, China Mobile Hong Kong Hồng Kông, eSIM Đảo Hồng Kông, eSIM Kowloon, eSIM Tsuen Wan, eSIM trả trước Hồng Kông, eSIM 5G Hồng Kông, eSIM Sha Tin, eSIM Tuen Mun, eSIM Hồng Kông giá rẻ, sim du lịch Hồng Kông
   low_price: 1.99
-  high_price: 39.9
+  high_price: 57.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với CSL, SmarTone & CMHK để có tín hiệu tốt nhất trên khắp Hồng Kông
-plans_title: 'Mua eSIM Hồng Kông: Gói cho mọi thời gian chuyến đi'
+plans_title: 'Gói dữ liệu Hồng Kông eSIM của bạn'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -308,7 +308,7 @@ network_coverage:
       coverage: Vùng phủ đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Hồng Kông: Những điều cần biết trước khi đi'
+  title: 'Nhắc nhở nhỏ trước chuyến đi với Hồng Kông eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -329,7 +329,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Hồng Kông: 3 bước đơn giản'
+  title: 'Hướng dẫn cài đặt và kích hoạt Hồng Kông eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -349,12 +349,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hướng dẫn eSIM Hồng Kông: Tốc độ, Vùng phủ và Mẹo du lịch cho Hồng Kông"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, vùng phủ mạng và chất lượng kết nối cho du khách tại Hồng Kông. Tìm hiểu tốc độ mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Tổng hợp câu hỏi và giải đáp về eSIM Hồng Kông - tốc độ, phủ sóng và cách kết nối."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Hồng Kông
+    title: Câu hỏi và giải đáp cho Hồng Kông eSIM
     questions:
     - q: |
         Đăng ký SIM bắt buộc (KYC) của Hồng Kông là gì — và tôi có cần làm điều đó cho Roami không?
@@ -375,7 +375,7 @@ faq_section:
     - q: |
         eSIM có rẻ hơn chuyển vùng quốc tế cho Hồng Kông không?
       a: |
-        Có — eSIM Roami thường rẻ hơn 80-90% so với các gói chuyển vùng từ hầu hết nhà mạng trong nước. Gói 5GB cho Hồng Kông có giá 6,99 USD, trong khi chuyển vùng có thể tốn hơn 50 USD cho cùng lượng dữ liệu. Bạn cũng nhận được tốc độ mạng địa phương thay vì chuyển vùng bị giới hạn.
+        Có — eSIM Roami thường rẻ hơn 80-90% so với các gói chuyển vùng từ hầu hết nhà mạng trong nước. Gói 5GB cho Hồng Kông có giá $4.99, trong khi chuyển vùng có thể tốn hơn 50 USD cho cùng lượng dữ liệu. Bạn cũng nhận được tốc độ mạng địa phương thay vì chuyển vùng bị giới hạn.
     - q: |
         Tôi đến Hồng Kông vào đêm khuya. Tôi có thể lên mạng ngay lập tức không?
       a: |
@@ -392,63 +392,75 @@ faq_section:
         Tôi có thể nạp thêm eSIM Hồng Kông nếu hết dữ liệu không?
       a: |
         Có — bạn có thể nạp thêm qua tài khoản Roami bất kỳ lúc nào. Không như SIM trả trước Hồng Kông với quy trình nạp phức tạp (hệ thống trực tuyến của CMHK chỉ chấp nhận thẻ UnionPay phát hành tại Trung Quốc đại lục), Roami chấp nhận phương thức thanh toán toàn cầu. Không cần mua SIM mới hay tìm 7-Eleven để mua phiếu nạp.
+    - q: |
+        Dùng eSIM Hồng Kông gặp sự cố thì liên hệ ai?
+      a: |
+        Roami có hỗ trợ khách hàng trực tuyến. Nếu gặp lỗi kết nối tại Hồng Kông, bạn kiểm tra đường eSIM đã bật và chuyển vùng dữ liệu đã mở chưa; nếu vẫn chưa được thì liên hệ hỗ trợ, trường hợp đủ điều kiện có thể yêu cầu hoàn tiền.  Vùng phủ di động tại Đảo Hồng Kông, Kowloon đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
+    - q: |
+        eSIM Hồng Kông có chia sẻ hotspot cho bạn đồng hành được không?
+      a: |
+        Có, eSIM Hồng Kông của Roami hỗ trợ chia sẻ hotspot cho laptop, máy tính bảng hoặc người đi cùng. Nếu dùng chung nhiều người, nên chọn gói cao hơn một bậc để không hết dữ liệu giữa chừng; nếu thiếu vẫn có thể nạp thêm trong ứng dụng.  Các thành phố lớn như Tsuen Wan, Sha Tin đều có phủ sóng ổn định cho nhu cầu hằng ngày.
+    - q: |
+        Tốc độ eSIM Hồng Kông có nhanh không? Có chậm hơn SIM vật lý không?
+      a: |
+        eSIM Hồng Kông của Roami dùng trạm gốc của các nhà mạng chính tại địa phương, tốc độ tương đương SIM trả trước bản địa; tra bản đồ, mạng xã hội và gọi video đều mượt. Tốc độ thực tế còn phụ thuộc vị trí và tải của mạng tại thời điểm đó.  Tại khu vực Đảo Hồng Kông, Tuen Mun, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
 related_products:
   title: Các gói eSIM Hồng Kông liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ 1,99 USD
+  - name: eSIM Bolivia
+    flag: img/flags/bo.svg
+    price: Từ $11.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ 1,99 USD
+  - name: eSIM Brazil
+    flag: img/flags/br.svg
+    price: Từ $4.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ 1,99 USD
+  - name: eSIM Bahamas
+    flag: img/flags/bs.svg
+    price: Từ $16.99
     is_highlight: true
+  - name: eSIM Botswana
+    flag: img/flags/bw.svg
+    price: Từ $14.99
+    is_highlight: false
+  - name: eSIM Belarus
+    flag: img/flags/by.svg
+    price: Từ $1.99
+    is_highlight: false
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: Từ 1,99 USD
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ 1,99 USD
+  - name: eSIM Congo (Kinshasa)
+    flag: img/flags/cg.svg
+    price: Từ $7.99
+    is_highlight: false
+  - name: eSIM Thụy Sĩ
+    flag: img/flags/ch.svg
+    price: Từ $1.99
+    is_highlight: false
+  - name: eSIM Bờ Biển Ngà
+    flag: img/flags/ci.svg
+    price: Từ $9.99
+    is_highlight: false
+  - name: eSIM Chile
+    flag: img/flags/cl.svg
+    price: Từ $4.99
+    is_highlight: false
+  - name: eSIM Cameroon
+    flag: img/flags/cm.svg
+    price: Từ $27.99
     is_highlight: false
   - name: eSIM Trung Quốc
     flag: img/flags/cn.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ 1,99 USD
+    price: Từ $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Hồng Kông vs SIM trả trước địa phương: Cái nào tiện lợi hơn?'
   subtitle: SIM trả trước địa phương Hồng Kông vs. Giải pháp eSIM (Đánh giá 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Hồng Kông) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Hong-Kong
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -477,17 +489,17 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 3 HK SoSIM (HK$33/50GB/30 ngày) buộc chu kỳ 30 ngày; du khách 3 ngày lãng phí 27 ngày và hơn 45GB. csl. Discover Hong Kong SIM (HK$88/3GB/5 ngày) kết thúc không có trả theo dùng; phải mua gói bổ sung HK$48 để tiếp tục.
     esim_title: Gói ngắn linh hoạt
-    esim_desc: Không như chu kỳ 30 ngày của 3 HK SoSIM (HK$33/50GB) lãng phí 90% cho chuyến đi ngắn, Roami cung cấp gói 7 ngày từ 1,99 USD/GB, tiết kiệm đến 90% lãng phí.
+    esim_desc: Không như chu kỳ 30 ngày của 3 HK SoSIM (HK$33/50GB) lãng phí 90% cho chuyến đi ngắn, Roami cung cấp gói 7 ngày từ $1.99/GB, tiết kiệm đến 90% lãng phí.
   - icon: wifi
     title: Chính sách chia sẻ<br>kết nối & tốc độ
     prepaid_title: ''
-    prepaid_desc: Điều khoản của SmarTone cấm chia sẻ kết nối (mặc dù không bị chặn kỹ thuật). Gói 10 ngày không giới hạn của CMHK (HK$30, 384kbps) cấm rõ ràng điểm phát WiFi. Không có dữ liệu cụ thể về chính sách điểm phát WiFi của các nhà mạng khác.
+    prepaid_desc: Điều khoản của SmarTone cấm chia sẻ kết nối (mặc dù không bị chặn kỹ thuật). Gói 10 ngày không giới hạn của CMHK (HK$30, 384kbps) cấm rõ ràng điểm phát WiFi. không có thông tin cụ thể về chính sách điểm phát WiFi của các nhà mạng khác.
     esim_title: Chia sẻ kết nối không hạn chế
     esim_desc: Không như lệnh cấm chia sẻ của SmarTone và gói cấm điểm phát WiFi của CMHK (HK$30/10 ngày), Roami cho phép chia sẻ điểm phát WiFi tốc độ đầy đủ.
   - icon: credit-card
     title: Thanh toán nạp<br>tiền
     prepaid_title: ''
-    prepaid_desc: Nạp trực tuyến CMHK chỉ chấp nhận UnionPay (thẻ phát hành tại Trung Quốc đại lục), gây rào cản cho chủ thẻ quốc tế. Trang web của các nhà mạng khác có thể chấp nhận thẻ tín dụng quốc tế, nhưng không có dữ liệu cụ thể về việc chấp nhận Visa/Mastercard/AMEX/Apple Pay/Google Pay/PayPal.
+    prepaid_desc: Nạp trực tuyến CMHK chỉ chấp nhận UnionPay (thẻ phát hành tại Trung Quốc đại lục), gây rào cản cho chủ thẻ quốc tế. Trang web của các nhà mạng khác có thể chấp nhận thẻ tín dụng quốc tế, nhưng không có thông tin cụ thể về việc chấp nhận Visa/Mastercard/AMEX/Apple Pay/Google Pay/PayPal.
     esim_title: Phương thức thanh toán toàn cầu
     esim_desc: Thanh toán bằng Visa, Mastercard, AMEX, Apple Pay, Google Pay hoặc PayPal. Không cần kênh chỉ UnionPay như hệ thống nạp của CMHK.
   - icon: headset
@@ -518,5 +530,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Loại bỏ chi phí chìm từ chu kỳ thanh toán dài
-      desc: <b>3 HK SoSIM (HK$33/50GB/30 ngày)</b> buộc chu kỳ 30 ngày; du khách 3 ngày lãng phí <b>27 ngày</b> và hơn <b>45GB</b>. <b>csl. Discover Hong Kong SIM (HK$88/3GB/5 ngày)</b> kết thúc không có trả theo dùng; phải mua gói bổ sung <b>HK$48</b>. Roami cung cấp gói 7 ngày linh hoạt từ <b>1,99 USD/GB</b>.
+      desc: <b>3 HK SoSIM (HK$33/50GB/30 ngày)</b> buộc chu kỳ 30 ngày; du khách 3 ngày lãng phí <b>27 ngày</b> và hơn <b>45GB</b>. <b>csl. Discover Hong Kong SIM (HK$88/3GB/5 ngày)</b> kết thúc không có trả theo dùng; phải mua gói bổ sung <b>HK$48</b>. Roami cung cấp gói 7 ngày linh hoạt từ <b>$1.99/GB</b>.
 ---

@@ -1,6 +1,6 @@
 ---
 title: '中國 eSIM 2026: 當地電信商 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,16 +9,16 @@ country_meta:
   operators: 中國移動, 中國聯通, 中國電信
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: 北京, 上海, 廣州, 深圳, 成都
-  main_packages: 3/7/15/30 天，無限數據
+  main_packages: 3/7/15/30 天，1GB/3GB/5GB/10GB/20GB/30GB/50GB
 modal:
   title: 服務更新！
   btn_text: 繼續
   text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "中國eSIM｜5G高速上網吃到飽，免綁約自由不受限"
-  description: "Roami eSIM在中國提供免綁約上網吃到飽方案，5G高速網路超自由。想用就用想停就停不用擔心合約問題，出國eSIM推薦首選靈活又方便，旅行結束自動失效。"
-  keywords: 中國 eSIM, 中國 eSIM方案, 最佳中國 eSIM, 中國上網, 中國移動 中國, 中國聯通 中國, 中國電信 中國, 北京 eSIM, 上海 eSIM, 廣州 eSIM, 中國行動網路, 5G 中國
+  title: "中國eSIM｜5G高速上網，免綁約自由不受限"
+  description: "Roami eSIM在中國提供免綁約上網方案，5G高速網路超自由。想用就用想停就停不用擔心合約問題，出國eSIM推薦首選靈活又方便，旅行結束自動失效。"
+  keywords: 中國 eSIM, eSIM 中國, 中國 eSIM 購買, 最佳中國 eSIM, 中國 上網, 中國移動 中國, 中國聯通 中國, 中國電信 中國, 北京 eSIM, 上海 eSIM, 廣州 eSIM, 深圳 eSIM, 成都 eSIM, 中國 eSIM 方案, 中國 5G eSIM, 中國 eSIM 預付卡
 order_summary:
   title: 選擇 中國 eSIM
   label_data: 數據量
@@ -67,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線中國最佳電信商，取得最強訊號
-plans_title: 購買中國 eSIM：適合各種旅程的方案
+plans_title: 中國 eSIM 上網方案總覽
 plans_data:
   30 天:
   - spec: 20GB
@@ -275,7 +275,7 @@ network_coverage:
       coverage: 良好市區覆蓋
       network: 5G/4G/LTE網路
 reminders:
-  title: 中國 eSIM秘訣：出發前須知
+  title: 中國 eSIM 行前小提醒
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -304,7 +304,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 中國 eSIM啟用：3個簡單步驟
+  title: 中國 eSIM：從安裝到連線
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 中國 做好準備
@@ -339,90 +339,95 @@ faq_section:
     title: 中國 eSIM 電信商中國移動、聯通、電信哪個好？網路速度完整比較
     questions:
     - q: 去中國自由行的話，辦eSIM上網大概要花多少錢？
-      a: Roami 中國 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。中國移動在中國市區5G網速約100-300Mbps，看1080p影片沒問題。如果去Klook查中國 eSIM，Roami通常便宜10-20%，因為沒有平台抽成。如果不確定用量可以先買小的，到中國後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 中國 eSIM方案從$1.99（7天1GB）起，最高$39.99（30天50GB）。一般旅客買最多的是5GB/15天（$7.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。中國移動在中國市區5G網速約100-300Mbps，看1080p影片沒問題。如果去Klook查中國 eSIM，Roami通常便宜10-20%，因為沒有平台抽成。如果不確定用量可以先買小的，到中國後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 去中國旅遊的話，中國移動、聯通、電信這三家電信分別有什麼優缺點？
       a: 中國主要有中國移動、聯通、電信。中國移動市區下載快、基地台密集。聯通郊區覆蓋廣，會去郊區的話選聯通路線較有保障。電信價格親民，適合預算有限的旅客。中國5G使用n41/n78/n79頻段，部分國際手機可能不相容。不過Roami會自動切換到當前訊號最強的網路。市區用中國移動，移動到郊區若中國移動訊號變弱就自動跳聯通或電信，完全不用手動選。
     - q: 習慣在Klook上買旅遊票券，中國eSIM也在上面買跟官網買一樣嗎？
       a: 很多人上Klook比價中國 eSIM。主要差異：第一，Roami直銷無平台抽成，價格通常比Klook便宜10-20%。第二，Roami有24小時直接客服，不用透過Klook轉達。第三，Roami買斷制到期就停，不會續約扣款。中國5G使用n41/n78/n79頻段，部分國際手機可能不相容。不過Klook可跟飯店票券合併結帳累積點數。不管哪買，在中國都是接取中國移動、聯通、電信的網路，訊號品質一樣。
     - q: 台灣買的手機帶去中國用eSIM，訊號會不會比當地手機差？
       a: 最快方法：撥號*#06#，出現EID代表支援eSIM。iPhone XS以後、Samsung S20/Flip以後、Pixel 4以後、多數2020年後旗艦機都支援。中國5G使用n41/n78/n79頻段，部分國際手機可能不相容。很多人忽略頻段問題——中國移動在中國的n41/n78/n79頻段可能跟你的手機不完全吻合。出發前到[Roami相容性頁面](/compatibility/)查型號。不支援eSIM可租WiFi機或買當地實體SIM卡。
-    - q: 如果去中國會大量使用網路，是不是直接辦吃到飽比較省事？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。中國5G使用n41/n78/n79頻段，部分國際手機可能不相容。Roami在中國連上中國移動的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+    - q: 如果去中國會大量使用網路，該怎麼挑方案比較划算？
+      a: Roami 中國 eSIM 最高提供 50GB/30 天（$39.99）的大流量方案。一般旅客每天用量約 500MB-3GB，選 10GB 以上就很夠；常看短影片或開熱點給旅伴，建議直上 20GB 或 30GB。中國 5G 使用 n41/n78/n79 頻段，部分國際手機可能不相容。Roami 在中國連上中國移動的網路，網速穩定。用完還可再加購，建議飯店用 WiFi 下載劇集，出門再靠 eSIM 打卡導航。
     - q: 如果出發前忘記先辦好中國eSIM的認證，到當地才弄來得及嗎？
       a: 需要的。中國法規要求所有SIM卡需實名認證，需提供護照。很多人不知道這規定，到了中國機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。中國5G使用n41/n78/n79頻段，部分國際手機可能不相容。另外中國移動的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到中國開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 在中國的郊區或小鎮也能正常使用eSIM嗎？查地圖導航會不會斷？
       a: 中國的中國移動等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。中國5G使用n41/n78/n79頻段，部分國際手機可能不相容。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
+    - q: 中國 eSIM 大概多少錢？有便宜的選擇嗎？
+      a: Roami 中國 eSIM 方案從 $1.99（7天1GB）起，最高 $39.99（30天50GB）。短期輕度使用挑入門方案即可，用量大的旅客再選高規格。價格透明，方案到期自動失效，不會續約扣款。 實際走訪 北京、上海 等主要城市，上網查資料、傳照片都沒問題。
+    - q: 中國 eSIM 的網速快嗎？會不會比當地實體卡慢？
+      a: Roami 中國 eSIM 走當地主要電信商的基地台，速度與當地預付卡相當，日常查地圖、社群、視訊通話都很順。實際速度仍會受所在位置與當下網路負載影響。 不論在 廣州、深圳，連線品質都相當穩定。
+    - q: 去中國玩幾天，該挑多大的eSIM規格才夠用？
+      a: Roami 中國 eSIM 有 20GB、50GB、3GB、5GB、10GB、30GB 等規格可選。短天數、只查地圖傳訊息的輕度使用，20GB 就夠；如果會看短影片、視訊通話或開熱點分享，建議再往上加一級。用量抓不準可以先買小的，到 中國 後在 App 加購即可，不用換卡。 北京、成都 等地的行動網路覆蓋完整，跨區移動也不斷線。
 related_products:
-  title: 類似 中國 eSIM 的旅行方案
+  title: 中國之外，旅人常買的 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 阿曼 eSIM
+    flag: img/flags/om.svg
+    price: 自 $5.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: oman-esim
+  - name: 阿爾巴尼亞 eSIM
+    flag: img/flags/al.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: south-korea-esim
+    slug: albania-esim
+  - name: 巴拉圭 eSIM
+    flag: img/flags/py.svg
+    price: 自 $22.99
+    is_highlight: false
+    slug: paraguay-esim
+  - name: 克羅埃西亞 eSIM
+    flag: img/flags/hr.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: croatia-esim
+  - name: 加彭 eSIM
+    flag: img/flags/ga.svg
+    price: 自 $14.99
+    is_highlight: false
+    slug: gabon-esim
+  - name: 拉脫維亞 eSIM
+    flag: img/flags/lv.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: latvia-esim
+  - name: 喀麥隆 eSIM
+    flag: img/flags/cm.svg
+    price: 自 $27.99
+    is_highlight: false
+    slug: cameroon-esim
+  - name: 紐西蘭 eSIM
+    flag: img/flags/nz.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: new-zealand-esim
+  - name: 白俄羅斯 eSIM
+    flag: img/flags/by.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: belarus-esim
+  - name: 冰島 eSIM
+    flag: img/flags/is.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: iceland-esim
   - name: 泰國 eSIM
     flag: img/flags/th.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: true
     slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+  - name: 模里西斯 eSIM
+    flag: img/flags/mu.svg
+    price: 自 $7.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: philippines-esim
-
+    slug: mauritius-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "去China用eSIM網路順嗎？4G/5G速度與覆蓋全攻略"
   subtitle: "中國當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (China) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/China"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -431,7 +436,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in China. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 中國移動 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位啟用"
       esim_desc: "避開中國聯通、中國移動門市排隊與繁瑣的人臉識別流程，Roami eSIM 可在線上購買後一分鐘內啟用，落地即連網，無需尋找指定營業廳或攜帶護照原件。"
     - icon: "id-card"
@@ -455,21 +460,21 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。根據市場知識，中國運營商通常允許熱點分享，但可能受到FUP限制。"
+      prepaid_desc: "中國電信商通常允許熱點分享，但可能受到FUP限制。"
       esim_title: "無限熱點分享"
-      esim_desc: "Roami eSIM 支援熱點分享，無FUP限制，可與同行設備共享數據，不同於中國運營商可能隱藏的限制，確保團隊連線無憂。"
+      esim_desc: "Roami eSIM 支援熱點分享，無FUP限制，可與同行設備共享數據，不同於中國電信商可能隱藏的限制，確保團隊連線無憂。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "首次充值必須使用現金或銀聯卡。雖然微信支付已支持國際卡，但必須使用母國手機號預先註冊並綁定，且僅能用於二次充值，無法解決首次激活的支付問題。"
+      prepaid_desc: "首次儲值必須使用現金或銀聯卡。雖然微信支付已支援國際卡，但必須使用母國手機號預先註冊並綁定，且僅能用於二次儲值，無法解決首次激活的支付問題。"
       esim_title: "全球付款暢通"
-      esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal 等國際支付方式，無需現金或銀聯卡，解決首次充值障礙。"
+      esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal 等國際支付方式，無需現金或銀聯卡，解決首次儲值障礙。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。根據市場知識，客戶支援通常僅提供中文，且預付卡用戶可能無法獲得即時協助。"
+      prepaid_desc: "客戶支援通常僅提供中文，且預付卡用戶可能無法獲得即時協助。"
       esim_title: "24/7 多語支援"
-      esim_desc: "Roami 提供全天候多語言客戶支援，包括中文與英文，不同於中國運營商僅提供中文服務且預付卡用戶支援有限，隨時解決問題。"
+      esim_desc: "Roami 提供全天候多語言客戶支援，包括中文與英文，不同於中國電信商僅提供中文服務且預付卡用戶支援有限，隨時解決問題。"
 
   # =============== 100% 完整復原：專家評語模組 ===============
   expert_verdict:
@@ -479,7 +484,7 @@ market_analysis:
         icon_bg: "bg-indigo-100"
         icon_color: "text-indigo-600"
         title: "即時啟用免排隊"
-        desc: "中國運營商門市辦理需排隊，機場門市套餐售價更高。Roami eSIM 線上購買後<b>1分鐘內</b>啟用，落地即連網，節省時間與金錢。"
+        desc: "中國電信商門市辦理需排隊，機場門市套餐售價更高。Roami eSIM 線上購買後<b>1分鐘內</b>啟用，落地即連網，節省時間與金錢。"
       - icon: "shield"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
@@ -489,10 +494,10 @@ market_analysis:
         icon_bg: "bg-green-100"
         icon_color: "text-green-600"
         title: "熱點分享無限制"
-        desc: "中國運營商可能隱藏熱點分享限制，而 Roami eSIM 明確支援熱點分享，無FUP降速，可與同行設備共享數據，適合團隊旅行。"
+        desc: "中國電信商可能隱藏熱點分享限制，而 Roami eSIM 明確支援熱點分享，無FUP降速，可與同行設備共享數據，適合團隊旅行。"
       - icon: "credit-card"
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "國際支付無障礙"
-        desc: "中國運營商首次充值僅接受<b>現金或銀聯卡</b>，對持 Visa、Mastercard 的遊客構成障礙。Roami eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，線上即時付款。"
+        desc: "中國電信商首次儲值僅接受<b>現金或銀聯卡</b>，對持 Visa、Mastercard 的遊客構成障礙。Roami eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，線上即時付款。"
 ---

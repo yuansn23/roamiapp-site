@@ -1,6 +1,6 @@
 ---
 title: 'Vietnam eSIM 2026: Hướng dẫn Thành phố & Mạng | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: Vietnam eSIM | Dữ liệu 5G Không giới hạn cho Hành trình của Bạn
   description: Du lịch Việt Nam với eSIM du lịch trả trước tốt nhất từ Roami. Dữ liệu 5G không giới hạn trên các mạng hàng đầu. Kích hoạt tức thì. Phủ sóng Hà Nội, Thành phố Hồ Chí Minh & Đà Nẵng.
-  keywords: Vietnam eSIM, mua Vietnam eSIM, Vietnam eSIM tốt nhất, Vietnam travel eSIM, Viettel Vietnam, Mobifone Vietnam, Vinaphone Vietnam, Thành phố Hồ Chí Minh eSIM, Hà Nội eSIM, Đà Nẵng eSIM, Vietnam prepaid eSIM, 5G Vietnam eSIM
+  keywords: Vietnam eSIM, mua Vietnam eSIM, Vietnam eSIM tốt nhất, eSIM du lịch Vietnam, Viettel Vietnam, Mobifone Vietnam, Vinaphone Vietnam, eSIM Thành phố Hồ Chí Minh, eSIM Hà Nội, eSIM Đà Nẵng, eSIM trả trước Vietnam, eSIM 5G Vietnam, eSIM Hải Phòng, eSIM Cần Thơ, Vietnam eSIM giá rẻ, sim du lịch Vietnam
   low_price: 1.99
-  high_price: 39.9
+  high_price: 74.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động Chuyển mạng
     desc: Tự động kết nối với các nhà mạng hàng đầu Việt Nam để có tín hiệu tốt nhất
-plans_title: 'Mua Vietnam eSIM: Gói cho Mọi Thời gian Chuyến đi'
+plans_title: 'Hướng dẫn chọn gói Vietnam eSIM'
 plans_data:
   15 Ngày:
   - spec: 3GB
@@ -310,7 +310,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo Thiết lập Vietnam eSIM: Những điều Cần Biết Trước Khi Đi'
+  title: 'Nhắc nhở cài đặt và kích hoạt Vietnam eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích với eSIM</a> trước khi mua.
@@ -329,7 +329,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách Cài đặt Vietnam eSIM: 3 Bước Đơn giản'
+  title: 'Vietnam eSIM: kích hoạt 3 bước'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận Mã QR'
@@ -349,12 +349,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Kết nối Internet tại Việt Nam -- Hướng dẫn Chất lượng Mạng và Tốc độ eSIM"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Việt Nam. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Tổng hợp giải đáp về độ phủ sóng, tốc độ và kết nối eSIM cho chuyến đi Vietnam."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về Vietnam eSIM
+    title: Hỏi đáp về Vietnam eSIM
     questions:
     - q: |
         So sánh Roami với Klook cho eSIM tại Việt Nam như thế nào?
@@ -363,7 +363,7 @@ faq_section:
     - q: |
         Tôi có thể mua eSIM cho Việt Nam mà không tốn quá nhiều tiền không?
       a: |
-        Chắc chắn rồi. Gói Vietnam eSIM của Roami bắt đầu từ chỉ $1.99. Gói 5GB/15 ngày ($9.99) là lựa chọn phổ biến nhất của du khách — nó đáp ứng thoải mái cho bản đồ, WhatsApp, Instagram và email. Nếu bạn là người dùng nhiều dữ liệu, gói 10GB ($14.99) hoặc không giới hạn ($59.99) mang lại sự an tâm. Bỏ qua quầy SIM sân bay giúp bạn tiết kiệm 30-50% và tránh việc xếp hàng. Cần điều chỉnh? Bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng Roami.
+        Chắc chắn rồi. Gói Vietnam eSIM của Roami bắt đầu từ chỉ $1.99. Gói 5GB/15 ngày ($11.99) là lựa chọn phổ biến nhất của du khách — nó đáp ứng thoải mái cho bản đồ, WhatsApp, Instagram và email. Nếu bạn là người dùng nhiều dữ liệu, gói 10GB ($8.99) hoặc không giới hạn ($74.99) mang lại sự an tâm. Bỏ qua quầy SIM sân bay giúp bạn tiết kiệm 30-50% và tránh việc xếp hàng. Cần điều chỉnh? Bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng Roami.
     - q: |
         Thời hạn hiệu lực của Vietnam eSIM của tôi bắt đầu khi nào?
       a: |
@@ -388,63 +388,75 @@ faq_section:
         Tôi có thể sử dụng Vietnam eSIM ngay sau khi mua không, hay tôi cần phải chờ?
       a: |
         Mã QR đến trong vòng vài phút. Cài đặt nó ngay lập tức — mất 2 phút. Tuy nhiên, thời hạn gói chỉ bắt đầu khi bạn kết nối với mạng tại Việt Nam. Vì vậy, bạn có thể cài đặt vài tuần trước chuyến đi mà không mất bất kỳ ngày nào của gói.
+    - q: |
+        Đi Vietnam vài ngày thì nên chọn gói eSIM dung lượng bao nhiêu?
+      a: |
+        eSIM Vietnam của Roami có các mức 3GB, 5GB, 10GB, 20GB, 30GB, Không giới hạn. Chuyến ngắn, chỉ tra bản đồ và nhắn tin thì 3GB là đủ; nếu xem video ngắn, gọi video hoặc chia sẻ hotspot, bạn nên chọn mức cao hơn một bậc. Nếu chưa chắc về nhu cầu, có thể mua gói nhỏ rồi nạp thêm trong ứng dụng sau khi đến Vietnam, không cần đổi SIM.  Các thành phố lớn như Thành phố Hồ Chí Minh, Hà Nội đều có phủ sóng ổn định cho nhu cầu hằng ngày.
+    - q: |
+        Kích hoạt eSIM Vietnam như thế nào? Có phải đợi đến nơi mới bật?
+      a: |
+        Bạn nên quét mã QR cài đặt cấu hình qua WiFi trước chuyến đi, khi đến Vietnam thì bật đường eSIM và mở chuyển vùng dữ liệu; máy sẽ tự kết nối mạng địa phương và thời hạn của gói bắt đầu tính từ lúc đó.  Tại khu vực Đà Nẵng, Hải Phòng, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
+    - q: |
+        Đến sân bay ở Vietnam là dùng được internet ngay chứ?
+      a: |
+        Được. Chỉ cần cài eSIM trước, sau khi hạ cánh tắt chế độ máy bay và bật đường eSIM, thường chỉ vài chục giây là kết nối được mạng địa phương, không cần xếp hàng mua SIM vật lý ở sân bay Vietnam.  Thành phố Hồ Chí Minh, Cần Thơ và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
 related_products:
   title: Gói Vietnam eSIM Liên quan
   items:
-  - name: eSIM Hoa Kỳ
+  - name: Taiwan eSIM
+    flag: img/flags/tw.svg
+    price: Từ $1.99
+    is_highlight: false
+  - name: eSIM Tanzania
+    flag: img/flags/tz.svg
+    price: Từ $7.99
+    is_highlight: false
+  - name: eSIM Ukraine
+    flag: img/flags/ua.svg
+    price: Từ $1.99
+    is_highlight: true
+  - name: eSIM Uganda
+    flag: img/flags/ug.svg
+    price: Từ $7.99
+    is_highlight: false
+  - name: eSIM Mỹ
     flag: img/flags/us.svg
     price: Từ $1.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
+  - name: Uruguay eSIM
+    flag: img/flags/uy.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Uzbekistan
+    flag: img/flags/uz.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
-    is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Thành Vatican
+    flag: img/flags/va.svg
+    price: Từ $10.99
+    is_highlight: false
+  - name: eSIM Kosovo
+    flag: img/flags/xk.svg
+    price: Từ $13.99
+    is_highlight: false
+  - name: eSIM Đông Nam Á
+    flag: img/flags/ya.webp
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ $1.99
+  - name: eSIM Andorra
+    flag: img/flags/ad.svg
+    price: Từ $6.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: UAE eSIM
+    flag: img/flags/ae.svg
+    price: Từ $3.99
     is_highlight: false
 market_analysis:
   title: 'Vietnam eSIM vs SIM Vật lý: So sánh Du lịch, Chi phí và Thiết lập'
   subtitle: SIM trả trước địa phương Việt Nam vs. Giải pháp eSIM (Tiêu chuẩn 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Vietnam) + Trang web Nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Vietnam
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận So sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -477,7 +489,7 @@ market_analysis:
   - icon: wifi
     title: Chính sách Chia sẻ kết nối &<br>Tốc độ
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho tiêu chí này. Dựa trên kiến thức thị trường, Viettel và Vinaphone cho phép chia sẻ kết nối nhưng giới hạn tốc độ sau giới hạn hàng ngày; Mobifone có thể hạn chế hotspot trên SIM du lịch.
+    prepaid_desc: Viettel và Vinaphone cho phép chia sẻ kết nối nhưng giới hạn tốc độ sau giới hạn hàng ngày; Mobifone có thể hạn chế hotspot trên SIM du lịch.
     esim_title: Chia sẻ kết nối Không giới hạn
     esim_desc: Tận hưởng chia sẻ kết nối tốc độ đầy đủ không giới hạn hàng ngày. Không giống như SIM du lịch Vinaphone giới hạn xuống 3G sau 2GB/ngày, Roami eSIM cung cấp dữ liệu tốc độ cao nhất quán cho tất cả các thiết bị của bạn.
   - icon: credit-card

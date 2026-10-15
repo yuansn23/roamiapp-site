@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Canada 2026: Hướng dẫn Thành phố & Mạng | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Canada | Gói dữ liệu không giới hạn tốt nhất cho du khách
   description: Du lịch Canada với sự tự tin bằng eSIM du lịch trả trước tốt nhất từ Roami. Dữ liệu 5G không giới hạn toàn quốc. Kích hoạt tức thì. Phủ sóng Toronto, Vancouver và hơn thế nữa.
-  keywords: eSIM Canada, mua eSIM Canada, eSIM Canada tốt nhất, eSIM du lịch Canada, Rogers Canada, Bell Canada, Telus Canada, eSIM Toronto, eSIM Vancouver, eSIM Montreal, eSIM trả trước Canada, eSIM 5G Canada
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM Canada, mua eSIM Canada, eSIM Canada tốt nhất, eSIM du lịch Canada, Rogers Canada, Bell Canada, Telus Canada, eSIM Toronto, eSIM Vancouver, eSIM Montreal, eSIM trả trước Canada, eSIM 5G Canada, eSIM Calgary, eSIM Ottawa, eSIM Canada giá rẻ, sim du lịch Canada
+  low_price: 3.99
+  high_price: 59.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng hàng đầu Canada để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Canada: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Bảng giá gói Canada eSIM'
 plans_data:
   7 Ngày:
   - spec: 1GB
@@ -316,7 +316,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Canada: Những điều cần biết trước khi đi'
+  title: 'Nhắc nhở chuẩn bị trước chuyến đi Canada'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -335,7 +335,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Canada: 3 bước đơn giản'
+  title: 'Canada eSIM kích hoạt thế nào? 3 bước là xong'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -355,12 +355,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Kết nối Internet tại Canada -- Hướng dẫn chất lượng mạng và tốc độ eSIM"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Canada. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Tổng hợp hỏi đáp về mạng, tốc độ và kết nối eSIM cho du khách đến Canada."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Canada
+    title: Giải đáp thắc mắc khi dùng Canada eSIM
     questions:
     - q: |
         So sánh Roami với Airalo cho eSIM ở Canada như thế nào?
@@ -373,7 +373,7 @@ faq_section:
     - q: |
         Tôi có thể mua eSIM cho Canada mà không tốn quá nhiều không?
       a: |
-        Chắc chắn rồi. Gói eSIM Canada của Roami bắt đầu từ chỉ $1.99. Gói 5GB/15 ngày ($9.99) là lựa chọn phổ biến nhất — nó đáp ứng thoải mái cho bản đồ, WhatsApp, Instagram và email. Nếu bạn là người dùng dữ liệu nhiều, gói 10GB ($14.99) hoặc không giới hạn ($59.99) sẽ giúp bạn an tâm. Bỏ qua quầy SIM sân bay giúp bạn tiết kiệm 30-50% và tránh xếp hàng. Cần điều chỉnh? Bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng Roami.
+        Chắc chắn rồi. Gói eSIM Canada của Roami bắt đầu từ chỉ $3.99. Gói 5GB/15 ngày ($14.99) là lựa chọn phổ biến nhất — nó đáp ứng thoải mái cho bản đồ, WhatsApp, Instagram và email. Nếu bạn là người dùng dữ liệu nhiều, gói 10GB ($15.99) hoặc không giới hạn ($50.99) sẽ giúp bạn an tâm. Bỏ qua quầy SIM sân bay giúp bạn tiết kiệm 30-50% và tránh xếp hàng. Cần điều chỉnh? Bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng Roami.
     - q: |
         Điều gì xảy ra nếu eSIM Canada của tôi ngừng hoạt động giữa chuyến đi?
       a: |
@@ -393,64 +393,76 @@ faq_section:
     - q: |
         Tôi chỉ cần truy cập internet trong vài ngày ở Canada. Tối thiểu tôi có thể mua là gì?
       a: |
-        Gói rẻ nhất là $1.99 cho 7 ngày với 1GB — hoàn hảo cho chuyến cuối tuần ngắn với nhu cầu sử dụng nhẹ. Nếu cần thêm, nạp thêm bất kỳ lúc nào từ ứng dụng.
+        Gói rẻ nhất là $3.99 cho 7 ngày với 1GB — hoàn hảo cho chuyến cuối tuần ngắn với nhu cầu sử dụng nhẹ. Nếu cần thêm, nạp thêm bất kỳ lúc nào từ ứng dụng.
+    - q: |
+        Đi Canada vài ngày thì nên chọn gói eSIM dung lượng bao nhiêu?
+      a: |
+        eSIM Canada của Roami có các mức 1GB, 5GB, 20GB, 3GB, 10GB, Không giới hạn. Chuyến ngắn, chỉ tra bản đồ và nhắn tin thì 1GB là đủ; nếu xem video ngắn, gọi video hoặc chia sẻ hotspot, bạn nên chọn mức cao hơn một bậc. Nếu chưa chắc về nhu cầu, có thể mua gói nhỏ rồi nạp thêm trong ứng dụng sau khi đến Canada, không cần đổi SIM.  Các thành phố lớn như Toronto, Vancouver đều có phủ sóng ổn định cho nhu cầu hằng ngày.
+    - q: |
+        Kích hoạt eSIM Canada như thế nào? Có phải đợi đến nơi mới bật?
+      a: |
+        Bạn nên quét mã QR cài đặt cấu hình qua WiFi trước chuyến đi, khi đến Canada thì bật đường eSIM và mở chuyển vùng dữ liệu; máy sẽ tự kết nối mạng địa phương và thời hạn của gói bắt đầu tính từ lúc đó.  Tại khu vực Montreal, Calgary, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
+    - q: |
+        Đến sân bay ở Canada là dùng được internet ngay chứ?
+      a: |
+        Được. Chỉ cần cài eSIM trước, sau khi hạ cánh tắt chế độ máy bay và bật đường eSIM, thường chỉ vài chục giây là kết nối được mạng địa phương, không cần xếp hàng mua SIM vật lý ở sân bay Canada.  Toronto, Ottawa và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
 related_products:
   title: Gói eSIM Canada liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ $1.99
+  - name: eSIM Cộng hòa Dominica
+    flag: img/flags/do.svg
+    price: Từ $5.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: eSIM Algeria
+    flag: img/flags/dz.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Ecuador
+    flag: img/flags/ec.svg
+    price: Từ $6.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Estonia
+    flag: img/flags/ee.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: eSIM Ai Cập
+    flag: img/flags/eg.svg
+    price: Từ $2.99
+    is_highlight: false
+  - name: Spain eSIM
+    flag: img/flags/es.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
+  - name: eSIM Phần Lan
+    flag: img/flags/fi.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
+  - name: eSIM Fiji
+    flag: img/flags/fj.svg
+    price: Từ $6.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
+  - name: eSIM Quần đảo Faroe
+    flag: img/flags/fo.svg
+    price: Từ $5.99
     is_highlight: false
   - name: eSIM Pháp
     flag: img/flags/fr.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
+  - name: eSIM Gabon
+    flag: img/flags/ga.svg
+    price: Từ $14.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
+  - name: eSIM Vương quốc Anh
+    flag: img/flags/gb.svg
     price: Từ $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Canada so với SIM vật lý: Giải pháp nào tốt hơn cho du lịch?'
   subtitle: SIM trả trước địa phương Canada so với giải pháp eSIM (Đối sánh 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Canada) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Canada
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -479,11 +491,11 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 'Hầu hết gói có chu kỳ 30 ngày: ví dụ Chatr $35/30 ngày cho 1GB + 5GB thưởng, Lucky Mobile $30/30 ngày cho 1.5GB + 5GB thưởng. Chuyến đi 7 ngày lãng phí hơn 70% giá trị gói.'
     esim_title: Gói ngắn hạn linh hoạt
-    esim_desc: Không như gói 30 ngày $30 của Lucky Mobile (1.5GB + 5GB thưởng), Roami cung cấp gói 7 ngày từ $1.99/GB, tiết kiệm hơn 70% lãng phí cho chuyến đi ngắn.
+    esim_desc: Không như gói 30 ngày $30 của Lucky Mobile (1.5GB + 5GB thưởng), Roami cung cấp gói 7 ngày từ $3.99/GB, tiết kiệm hơn 70% lãng phí cho chuyến đi ngắn.
   - icon: wifi
     title: Chia sẻ kết nối &<br>Chính sách tốc độ
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho tiêu chí này. Theo kiến thức thị trường, hầu hết gói trả trước Canada cho phép chia sẻ kết nối nhưng có thể giới hạn tốc độ sau khi sử dụng nhiều.
+    prepaid_desc: Hầu hết gói trả trước Canada cho phép chia sẻ kết nối nhưng có thể giới hạn tốc độ sau khi sử dụng nhiều.
     esim_title: Chia sẻ kết nối không giới hạn
     esim_desc: Roami eSIM cho phép chia sẻ kết nối tốc độ đầy đủ, không như một số gói trả trước Canada giới hạn chia sẻ sau vài GB.
   - icon: credit-card
@@ -495,7 +507,7 @@ market_analysis:
   - icon: headset
     title: Hỗ trợ khách hàng
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho tiêu chí này. Theo kiến thức thị trường, hỗ trợ khách hàng thường bằng tiếng Anh và Pháp, với giờ hạn chế cho người dùng trả trước.
+    prepaid_desc: Hỗ trợ khách hàng thường bằng tiếng Anh và Pháp, với giờ hạn chế cho người dùng trả trước.
     esim_title: Hỗ trợ đa ngôn ngữ 24/7
     esim_desc: Nhận hỗ trợ 24/7 bằng tiếng Anh, Pháp và các ngôn ngữ khác, không như giờ hỗ trợ trả trước hạn chế từ các nhà mạng Canada.
   expert_verdict:

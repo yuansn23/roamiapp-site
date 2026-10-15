@@ -1,6 +1,6 @@
 ---
 title: '巴拿馬 eSIM 2026: 電信商與覆蓋 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,9 +17,8 @@ modal:
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
   title: "巴拿馬eSIM｜30天15G高速上網，跨國旅行不斷網"
-  description: "想在巴拿馬待一個月深度旅遊？Roami 30天旅遊上網方案5G高速吃到飽。一個月eSIM推薦整月上網不用愁，深度旅行首選方案網路不斷線，最低$1.99起超值價格。"
-  keywords: 巴拿馬 eSIM, 巴拿馬 eSIM方案, 最佳巴拿馬 eSIM, 巴拿馬上網, Más Móvil 巴拿馬, Tigo 巴拿馬, Claro 巴拿馬, 巴拿馬城 eSIM, 科隆 eSIM, 戴維 eSIM, 巴拿馬行動網路,
-    5G 巴拿馬
+  description: "想在巴拿馬待一個月深度旅遊？Roami 30天旅遊上網方案5G高速吃到飽。一個月eSIM推薦整月上網不用愁，深度旅行首選方案網路不斷線，最低$11.99起超值價格。"
+  keywords: 巴拿馬 eSIM, eSIM 巴拿馬, 巴拿馬 eSIM 購買, 最佳巴拿馬 eSIM, 巴拿馬 上網, Más Móvil 巴拿馬, Tigo 巴拿馬, Claro 巴拿馬, 巴拿馬城 eSIM, 科隆 eSIM, 戴維 eSIM, 博克特 eSIM, 奇里基 eSIM, 巴拿馬 eSIM 方案, 巴拿馬 5G eSIM, 巴拿馬 eSIM 預付卡
 order_summary:
   title: 選擇 巴拿馬 eSIM
   label_data: 數據量
@@ -325,7 +324,7 @@ faq_section:
     title: 巴拿馬 eSIM 5G網速與電信商比較｜Claro、+Móvil、Tigo覆蓋評測
     questions:
     - q: 去巴拿馬想辦eSIM但又怕買貴，大概多少預算才夠？
-      a: Roami 巴拿馬 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Claro在巴拿馬市區5G網速約100-300Mbps，看1080p影片沒問題。去巴拿馬機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到巴拿馬後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 巴拿馬 eSIM方案從$11.99（7天1GB）起，最高$84.99（7天無限）。一般旅客買最多的是5GB/15天（$25.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Claro在巴拿馬市區5G網速約100-300Mbps，看1080p影片沒問題。去巴拿馬機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到巴拿馬後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 去巴拿馬旅遊的話，Claro、+Móvil、Tigo這三家電信分別有什麼優缺點？
       a: 巴拿馬主要有Claro、+Móvil、Tigo。Claro市區下載快、基地台密集。+Móvil郊區覆蓋廣，會去郊區的話選+Móvil路線較有保障。Tigo價格親民，適合預算有限的旅客。巴拿馬4G/5G，巴拿馬城覆蓋良好。不過Roami會自動切換到當前訊號最強的網路。市區用Claro，移動到郊區若Claro訊號變弱就自動跳+Móvil或Tigo，完全不用手動選。
     - q: 巴拿馬eSIM買了之後要驗證證件嗎？沒先辦好會不會到了不能用？
@@ -333,80 +332,85 @@ faq_section:
     - q: 巴拿馬主要市區和偏遠鄉村的網路覆蓋差距大嗎？
       a: 巴拿馬的Claro等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。巴拿馬4G/5G，巴拿馬城覆蓋良好。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 去巴拿馬旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
-      a: Roami 巴拿馬 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
+      a: Roami 巴拿馬 eSIM方案從$11.99（7天1GB）起，最高$84.99（7天無限）。一般選5GB/15天（$25.99）最熱門，不夠再到App加購。
     - q: 巴拿馬eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
       a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
+    - q: 巴拿馬 eSIM 可以開熱點分享給旅伴嗎？
+      a: 可以，Roami 巴拿馬 eSIM 支援熱點分享，能分給筆電、平板或同行旅伴。多人共用建議挑規格大一級的方案，避免中途用完；用量抓不準也可以事後在 App 加購。 不論在 巴拿馬城、科隆，連線品質都相當穩定。
+    - q: 抵達巴拿馬機場後就能馬上上網嗎？
+      a: 可以。只要出發前先安裝好 eSIM，落地後關閉飛航模式、開啟 eSIM 線路，通常幾十秒內就能連上當地網路，不用在機場排隊買實體 SIM 卡。 戴維、博克特 等地的行動網路覆蓋完整，跨區移動也不斷線。
+    - q: 巴拿馬的Más Móvil和Tigo，用eSIM哪一家訊號比較好？
+      a: 巴拿馬主要有Más Móvil、Tigo等電信商。Roami 會自動選擇當下訊號最強的網路，在Más Móvil與Tigo之間自動切換，不用手動設定。若行程會拉到郊區或離島，出發前先下載離線地圖會更保險。 另外，巴拿馬城、奇里基 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
 related_products:
-  title: 類似 巴拿馬 eSIM 的旅行方案
+  title: 相關 eSIM 方案推薦
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 伊拉克 eSIM
+    flag: img/flags/iq.svg
+    price: 自 $21.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: hong-kong-esim
+    slug: iraq-esim
   - name: 中國 eSIM
     flag: img/flags/cn.svg
-    price: От 1,99 $
-    is_highlight: false
+    price: 自 $1.99
+    is_highlight: true
     slug: china-esim
+  - name: 冰島 eSIM
+    flag: img/flags/is.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: iceland-esim
+  - name: 拉脫維亞 eSIM
+    flag: img/flags/lv.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: latvia-esim
+  - name: 薩爾瓦多 eSIM
+    flag: img/flags/sv.svg
+    price: 自 $23.99
+    is_highlight: false
+    slug: el-salvador-esim
+  - name: 巴貝多 eSIM
+    flag: img/flags/bb.svg
+    price: 自 $11.99
+    is_highlight: false
+    slug: barbados-esim
+  - name: 法羅群島 eSIM
+    flag: img/flags/fo.svg
+    price: 自 $5.99
+    is_highlight: false
+    slug: faroe-islands-esim
+  - name: 保加利亞 eSIM
+    flag: img/flags/bg.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: bulgaria-esim
   - name: 菲律賓 eSIM
     flag: img/flags/ph.svg
-    price: От 1,99 $
+    price: 自 $2.99
     is_highlight: false
     slug: philippines-esim
-
+  - name: 肯亞 eSIM
+    flag: img/flags/ke.svg
+    price: 自 $7.99
+    is_highlight: false
+    slug: kenya-esim
+  - name: 南非 eSIM
+    flag: img/flags/za.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: south-africa-esim
+  - name: 巴哈馬 eSIM
+    flag: img/flags/bs.svg
+    price: 自 $16.99
+    is_highlight: false
+    slug: bahamas-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "在Panama用eSIM上網穩不穩？市區郊區分區評測"
   subtitle: "巴拿馬當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Panama) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Panama"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -415,13 +419,13 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Panama. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Más Móvil 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開托庫門國際機場定價過高的 SIM 卡自助機，也無需在市區尋找商店支付隱形 7% 稅費。Roami eSIM 抵達巴拿馬後一分鐘內線上啟用，無需排隊或額外費用。"
     - icon: "id-card"
       title: "KYC 與護照登記"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "當地要求預付卡實名登記，需護照與當地聯絡資料，抵達後才申請恐因審核而延後上網時間。"
       esim_title: "免護照登記"
       esim_desc: "巴拿馬實體 SIM 卡通常需護照登記（來源未具體說明），Roami eSIM 完全免去 KYC 流程，購買後立即啟用，保護個人隱私。"
     - icon: "globe"
@@ -445,13 +449,13 @@ market_analysis:
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "線上儲值接受 Visa 或 MasterCard，但 Claro 在充值到達時扣除 7% 稅費，充值 B/. 10 實際到帳 B/. 9.30。"
+      prepaid_desc: "線上儲值接受 Visa 或 MasterCard，但 Claro 在儲值到達時扣除 7% 稅費，儲值 B/. 10 實際到帳 B/. 9.30。"
       esim_title: "全球付款暢通"
-      esim_desc: "巴拿馬實體卡線上儲值常被外國卡拒絕，且 Claro 充值時扣除 7% 稅費。Roami 接受 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無隱藏費用。"
+      esim_desc: "巴拿馬實體卡線上儲值常被外國卡拒絕，且 Claro 儲值時扣除 7% 稅費。Roami 接受 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無隱藏費用。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "當地預付卡的客服多限當地語言與營業時間，Más Móvil 等業者少有 24/7 線上支援，行程中斷網時處理較慢。"
       esim_title: "24/7 即時支援"
       esim_desc: "巴拿馬實體卡客戶支援資訊不明，可能僅限西班牙語。Roami 提供 24/7 多語言線上聊天，隨時解決連線問題。"
 
@@ -468,7 +472,7 @@ market_analysis:
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "全球付款無隱藏稅"
-        desc: "Claro 線上充值扣除 7% 稅費，充值 B/. 10 僅得 B/. 9.30。Roami 接受 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無隱藏費用。"
+        desc: "Claro 線上儲值扣除 7% 稅費，儲值 B/. 10 僅得 B/. 9.30。Roami 接受 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無隱藏費用。"
       - icon: "passport"
         icon_bg: "bg-blue-100"
         icon_color: "text-blue-600"

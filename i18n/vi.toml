@@ -643,3 +643,9 @@ other = "Hướng dẫn eSIM du lịch"
 
 [author_bio]
 other = "Roami là nhà cung cấp eSIM toàn cầu chuyên về kết nối khi du lịch. Hướng dẫn này được tổng hợp từ dữ liệu mạng, tài liệu chính thức của nhà mạng và nhà sản xuất cùng thắc mắc của du khách."
+
+[more_faqs]
+other = "Thêm hướng dẫn eSIM"
+
+[more_faqs_desc]
+other = "Các hướng dẫn bổ sung về cài đặt, tương thích và khắc phục sự cố từ trung tâm trợ giúp Roami."

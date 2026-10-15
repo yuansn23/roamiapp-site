@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Macao 2026: Hướng dẫn 5G & Dữ liệu | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: 'eSIM Macau: Gói Dữ liệu Không giới hạn 5G Tốc độ cao Tốt nhất'
-  description: So sánh các gói eSIM Macao với 5G nhanh tại Bán đảo Macau, Taipa, Coloane. Hướng dẫn vùng phủ của CTM & 3 Macau & SmarTone cho khách du lịch. Kích hoạt QR tức thì từ 1,99 USD.
-  keywords: eSIM Macao, mua eSIM Macao, eSIM Macao tốt nhất, eSIM du lịch Macao, CTM Macao, 3 Macau Macao, SmarTone Macao, eSIM Bán đảo Macau, eSIM Taipa, eSIM Coloane, eSIM trả trước Macao, eSIM 5G Macao
+  description: So sánh các gói eSIM Macao với 5G nhanh tại Bán đảo Macau, Taipa, Coloane. Hướng dẫn vùng phủ của CTM & 3 Macau & SmarTone cho khách du lịch. Kích hoạt QR tức thì từ $1.99.
+  keywords: eSIM Macao, mua eSIM Macao, eSIM Macao tốt nhất, eSIM du lịch Macao, CTM Macao, 3 Macau Macao, SmarTone Macao, eSIM Bán đảo Macau, eSIM Taipa, eSIM Coloane, eSIM trả trước Macao, eSIM 5G Macao, eSIM Cotai, eSIM Ilha Verde, eSIM Macao giá rẻ, sim du lịch Macao
   low_price: 1.99
-  high_price: 39.9
+  high_price: 64.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng hàng đầu Macao để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Macao: Gói cho mọi thời gian chuyến đi'
+plans_title: 'Các gói Macao eSIM và mức giá'
 plans_data:
   15 Ngày:
   - spec: 5GB
@@ -308,7 +308,7 @@ network_coverage:
       coverage: Vùng phủ đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Macao: Những điều cần biết trước khi đi'
+  title: 'Điểm cần lưu ý trước chuyến đi Macao'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -327,7 +327,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Macao: 3 bước đơn giản'
+  title: 'Hoàn tất trước khi đến: kích hoạt Macao eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -347,12 +347,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Tốc độ Internet nào bạn có thể mong đợi với eSIM ở Macao?"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, vùng phủ mạng và chất lượng kết nối cho du khách tại Macao. Tìm hiểu tốc độ mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Những giải đáp hữu ích về tốc độ và chất lượng mạng eSIM tại Macao."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Macao
+    title: Những câu hỏi thường gặp về Macao eSIM
     questions:
     - q: |
         Roami so với Holafly về eSIM ở Macao như thế nào?
@@ -386,55 +386,67 @@ faq_section:
         Tôi có thể sử dụng eSIM Macao cho mạng xã hội và chia sẻ ảnh với gia đình không?
       a: |
         Chắc chắn rồi. Instagram, WhatsApp, Facebook và các ứng dụng xã hội khác đều hoạt động qua kết nối eSIM. Tốc độ tải lên từ CTM xử lý ảnh trong vài giây và video ngắn dễ dàng.
+    - q: |
+        Dùng eSIM Macao gặp sự cố thì liên hệ ai?
+      a: |
+        Roami có hỗ trợ khách hàng trực tuyến. Nếu gặp lỗi kết nối tại Macao, bạn kiểm tra đường eSIM đã bật và chuyển vùng dữ liệu đã mở chưa; nếu vẫn chưa được thì liên hệ hỗ trợ, trường hợp đủ điều kiện có thể yêu cầu hoàn tiền.  Vùng phủ di động tại Bán đảo Macau, Taipa đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
+    - q: |
+        eSIM Macao có chia sẻ hotspot cho bạn đồng hành được không?
+      a: |
+        Có, eSIM Macao của Roami hỗ trợ chia sẻ hotspot cho laptop, máy tính bảng hoặc người đi cùng. Nếu dùng chung nhiều người, nên chọn gói cao hơn một bậc để không hết dữ liệu giữa chừng; nếu thiếu vẫn có thể nạp thêm trong ứng dụng.  Các thành phố lớn như Coloane, Cotai đều có phủ sóng ổn định cho nhu cầu hằng ngày.
+    - q: |
+        Tốc độ eSIM Macao có nhanh không? Có chậm hơn SIM vật lý không?
+      a: |
+        eSIM Macao của Roami dùng trạm gốc của các nhà mạng chính tại địa phương, tốc độ tương đương SIM trả trước bản địa; tra bản đồ, mạng xã hội và gọi video đều mượt. Tốc độ thực tế còn phụ thuộc vị trí và tải của mạng tại thời điểm đó.  Tại khu vực Bán đảo Macau, Ilha Verde, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
 related_products:
   title: Các gói eSIM liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ 1,99 USD
+  - name: eSIM Guadeloupe
+    flag: img/flags/gp.svg
+    price: Từ $8.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ 1,99 USD
+  - name: eSIM Hy Lạp
+    flag: img/flags/gr.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ 1,99 USD
+  - name: eSIM Guatemala
+    flag: img/flags/gt.svg
+    price: Từ $11.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ 1,99 USD
+  - name: eSIM Guam
+    flag: img/flags/gu.svg
+    price: Từ $9.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ 1,99 USD
+  - name: eSIM Guyana
+    flag: img/flags/gy.svg
+    price: Từ $9.99
     is_highlight: false
   - name: eSIM Hồng Kông
     flag: img/flags/hk.svg
-    price: Từ 1,99 USD
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ 1,99 USD
+  - name: eSIM Honduras
+    flag: img/flags/hn.svg
+    price: Từ $6.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ 1,99 USD
+  - name: eSIM Croatia
+    flag: img/flags/hr.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ 1,99 USD
+  - name: eSIM Hungary
+    flag: img/flags/hu.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ 1,99 USD
+  - name: eSIM Indonesia
+    flag: img/flags/id.svg
+    price: Từ $1.99
+    is_highlight: false
+  - name: eSIM Ireland
+    flag: img/flags/ie.svg
+    price: Từ $1.99
+    is_highlight: false
+  - name: eSIM Israel
+    flag: img/flags/il.svg
+    price: Từ $2.99
     is_highlight: false
 ---

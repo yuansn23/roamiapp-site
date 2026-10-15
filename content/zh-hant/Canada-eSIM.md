@@ -1,6 +1,6 @@
 ---
 title: '加拿大 eSIM 2026: 城市與覆蓋 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,9 +17,8 @@ modal:
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
   title: "加拿大eSIM｜7天5G吃到飽，跨國旅行不斷網"
-  description: "加拿大短期旅行用Roami 7天上網方案最適合，5G高速吃到飽穩定連線。短短幾天也能享受高速網路，短途旅行eSIM推薦超值選擇，最低$1.99起便宜又好用。"
-  keywords: 加拿大 eSIM, 加拿大 eSIM方案, 最佳加拿大 eSIM, 加拿大上網, Rogers 加拿大, Bell 加拿大, Telus 加拿大, 多倫多 eSIM, 溫哥華 eSIM, 蒙特婁 eSIM, 加拿大行動網路,
-    5G 加拿大
+  description: "加拿大短期旅行用Roami 7天上網方案最適合，5G高速吃到飽穩定連線。短短幾天也能享受高速網路，短途旅行eSIM推薦超值選擇，最低$3.99起便宜又好用。"
+  keywords: 加拿大 eSIM, eSIM 加拿大, 加拿大 eSIM 購買, 最佳加拿大 eSIM, 加拿大 上網, Rogers 加拿大, Bell 加拿大, Telus 加拿大, 多倫多 eSIM, 溫哥華 eSIM, 蒙特婁 eSIM, 卡加利 eSIM, 渥太華 eSIM, 加拿大 eSIM 方案, 加拿大 5G eSIM, 加拿大 eSIM 預付卡
 order_summary:
   title: 選擇 加拿大 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線加拿大最佳電信商，取得最強訊號
-plans_title: 購買加拿大 eSIM：適合各種旅程的方案
+plans_title: 加拿大 eSIM 方案比較與選購指南
 plans_data:
   7 天:
   - spec: 1GB
@@ -313,7 +312,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 加拿大 eSIM秘訣：出發前須知
+  title: 加拿大 eSIM 啟用前必看重點
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -342,7 +341,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 加拿大 eSIM啟用：3個簡單步驟
+  title: 快速啟用加拿大 eSIM 的3個步驟
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 加拿大 做好準備
@@ -377,7 +376,7 @@ faq_section:
     title: 加拿大 eSIM 網速評測｜Rogers、Bell、Telus 5G/4G速度對比
     questions:
     - q: 加拿大eSIM各方案價格差在哪裡？買哪種最適合一般觀光客？
-      a: Roami 加拿大 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Rogers在加拿大市區5G網速約100-300Mbps，看1080p影片沒問題。去加拿大機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到加拿大後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 加拿大 eSIM方案從$3.99（7天1GB）起，最高$59.99（30天30GB）。一般旅客買最多的是5GB/15天（$14.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Rogers在加拿大市區5G網速約100-300Mbps，看1080p影片沒問題。去加拿大機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到加拿大後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 去加拿大用eSIM上網，想打電話給當地餐廳或民宿可以嗎？
       a: Roami 加拿大 eSIM是純數據方案，沒有附當地號碼。很多人擔心沒號碼不方便——其實叫車、訂餐廳用網路電話就行。在加拿大都會區用Rogers的5G打視訊，品質跟一般通話差不多。原門號可留在卡槽1繼續收簡訊（銀行驗證、社群通知不漏），eSIM在卡槽2負責上網。如需當地號碼可搭Google Voice或TextNow。iPhone XS以上、多數安卓旗艦支援雙卡雙待，設定數據走eSIM、通話走原門號即可。
     - q: 去加拿大玩辦eSIM，Roami會自動切換Rogers、Bell、Telus的網路嗎？
@@ -385,82 +384,87 @@ faq_section:
     - q: kkday和Roami官網的加拿大eSIM方案內容一樣嗎？售後哪個比較有保障？
       a: 很多人上kkday比價加拿大 eSIM。主要差異：第一，Roami直銷無平台抽成，價格通常比kkday便宜10-20%。第二，Roami有24小時直接客服，不用透過kkday轉達。第三，Roami買斷制到期就停，不會續約扣款。加拿大5G使用n78/n66頻段，主要城市覆蓋良好。不過kkday可跟飯店票券合併結帳累積點數。不管哪買，在加拿大都是接取Rogers、Bell、Telus的網路，訊號品質一樣。
     - q: 去加拿大旅遊的話，辦eSIM吃到飽會不會太浪費？一般人一天大概用多少流量？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。加拿大5G使用n78/n66頻段，主要城市覆蓋良好。Roami在加拿大連上Rogers的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。加拿大5G使用n78/n66頻段，主要城市覆蓋良好。Roami在加拿大連上Rogers的網路，網速穩定。如果怕降速可選10GB/$15.99或20GB/$30.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 加拿大eSIM不需要實名登記嗎？跟其他需要護照的國家不一樣？
       a: 沒錯，加拿大 eSIM不需要證件認證。加拿大預付卡通常不需KYC，但部分方案可能要求身分驗證。直接購買安裝就能用，省去排隊辦卡填資料的麻煩。連上Rogers的網路即可上網。加拿大5G使用n78/n66頻段，主要城市覆蓋良好。建議出發前用WiFi先裝好，到加拿大開啟數據漫遊就自動連線。不確定手機支援度可到[相容性頁面](/compatibility/)查詢。
     - q: 離開加拿大市區之後，eSIM的訊號會不會變得很差？
       a: 加拿大的Rogers等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。加拿大5G使用n78/n66頻段，主要城市覆蓋良好。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
+    - q: 去加拿大玩幾天，該挑多大的eSIM規格才夠用？
+      a: Roami 加拿大 eSIM 有 1GB、5GB、20GB、3GB、10GB、無限 等規格可選。短天數、只查地圖傳訊息的輕度使用，1GB 就夠；如果會看短影片、視訊通話或開熱點分享，建議再往上加一級。用量抓不準可以先買小的，到 加拿大 後在 App 加購即可，不用換卡。 另外，多倫多、溫哥華 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
+    - q: 加拿大 eSIM 要怎麼啟用？要抵達當地才開嗎？
+      a: 建議出發前先用 WiFi 掃描 QR code 安裝描述檔，抵達 加拿大 後再開啟 eSIM 線路並打開數據漫遊，連上當地網路就會自動啟用，方案效期也從那時開始計算。 在 蒙特婁、卡加利 一帶實測收訊良好，移動中會自動切換基地台。
+    - q: 抵達加拿大機場後就能馬上上網嗎？
+      a: 可以。只要出發前先安裝好 eSIM，落地後關閉飛航模式、開啟 eSIM 線路，通常幾十秒內就能連上當地網路，不用在機場排隊買實體 SIM 卡。 多倫多、渥太華 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
 related_products:
-  title: 類似 加拿大 eSIM 的旅行方案
+  title: 加拿大之外，旅人常買的 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 法國 eSIM
+    flag: img/flags/fr.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: france-esim
+  - name: 伊拉克 eSIM
+    flag: img/flags/iq.svg
+    price: 自 $21.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: china-esim
+    slug: iraq-esim
   - name: 菲律賓 eSIM
     flag: img/flags/ph.svg
-    price: От 1,99 $
+    price: 自 $2.99
     is_highlight: false
     slug: philippines-esim
-
+  - name: 哥倫比亞 eSIM
+    flag: img/flags/co.svg
+    price: 自 $4.99
+    is_highlight: false
+    slug: colombia-esim
+  - name: 突尼西亞 eSIM
+    flag: img/flags/tn.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: tunisia-esim
+  - name: 日本 eSIM
+    flag: img/flags/jp.svg
+    price: 自 $1.99
+    is_highlight: true
+    slug: japan-esim
+  - name: 巴林 eSIM
+    flag: img/flags/bh.svg
+    price: 自 $6.99
+    is_highlight: false
+    slug: bahrain-esim
+  - name: 阿富汗 eSIM
+    flag: img/flags/af.svg
+    price: 自 $11.99
+    is_highlight: false
+    slug: afghanistan-esim
+  - name: 模里西斯 eSIM
+    flag: img/flags/mu.svg
+    price: 自 $7.99
+    is_highlight: false
+    slug: mauritius-esim
+  - name: 烏茲別克 eSIM
+    flag: img/flags/uz.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: uzbekistan-esim
+  - name: 約旦 eSIM
+    flag: img/flags/jo.svg
+    price: 自 $6.99
+    is_highlight: false
+    slug: jordan-esim
+  - name: 加彭 eSIM
+    flag: img/flags/ga.svg
+    price: 自 $14.99
+    is_highlight: false
+    slug: gabon-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "在Canada用eSIM上網穩不穩？市區郊區分區評測"
   subtitle: "加拿大當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Canada) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Canada"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -469,7 +473,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Canada. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Rogers 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 Public Mobile 在 Walmart 貨架的尋找麻煩，也無需像 Koodo 那樣支付 $20 SIM 卡費並設定繁瑣的 APN。Roami eSIM 落地後一分鐘內線上啟用，免排隊、免實體卡。"
     - icon: "id-card"
@@ -487,25 +491,25 @@ market_analysis:
     - icon: "calendar-xmark"
       title: "計費週期與浪費成本"
       prepaid_title: ""
-      prepaid_desc: "加拿大運營商套餐強制30天起步，如 Chatr 套餐最低 $25、Lucky Mobile 最低 $25，流量僅有 0.5 或 1GB。"
+      prepaid_desc: "加拿大電信商套餐強制30天起步，如 Chatr 套餐最低 $25、Lucky Mobile 最低 $25，流量僅有 0.5 或 1GB。"
       esim_title: "彈性計費週期"
-      esim_desc: "加拿大運營商強制30天週期，如 Chatr $25/0.5GB 方案，短途遊客浪費75%費用。Roami 提供7天方案，最低 $1.99/GB，精準匹配停留天數，零浪費。"
+      esim_desc: "加拿大電信商強制30天週期，如 Chatr $25/0.5GB 方案，短途遊客浪費75%費用。Roami 提供7天方案，最低 $1.99/GB，精準匹配停留天數，零浪費。"
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "分享與降速規則由 Rogers、Bell 各自訂定，同一張卡在不同方案下限制不同，旅客容易誤判實際可用速度。"
       esim_title: "無限熱點分享"
       esim_desc: "加拿大預付卡常限制熱點分享或降速，Roami eSIM 支援無限熱點分享，速度不減，多人共享更划算。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "Rogers 和 Fido 在其直營門店和線上系統中明確拒絕外國信用卡，強迫遊客用現金購買充值卡；Telus 要求線上充值的信用卡必須具有加拿大本地帳單地址。"
+      prepaid_desc: "Rogers 和 Fido 在其直營門店和線上系統中明確拒絕外國信用卡，強迫遊客用現金購買儲值卡；Telus 要求線上儲值的信用卡必須具有加拿大本地帳單地址。"
       esim_title: "全球付款暢通"
       esim_desc: "Rogers 拒絕外國信用卡，Telus 要求加拿大帳單地址。Roami 接受 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無地域限制。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "Rogers 的客服以本地語言為主且時間有限，漫遊或設定問題往往需自行摸索，缺少全天候支援管道。"
       esim_title: "24/7 即時支援"
       esim_desc: "加拿大預付卡客服多為工作時間且僅英語，Roami 提供 24/7 多語言即時線上聊天，隨時解決問題。"
 

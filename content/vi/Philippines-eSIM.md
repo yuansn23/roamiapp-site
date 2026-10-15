@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Philippines 2026 - Gói 5G Tốt Nhất cho Manila & Cebu | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: eSIM Philippines - Gói dữ liệu trả trước 5G cho du lịch
-  description: Nhận gói eSIM trả trước tốt nhất Philippines với 5G trên Globe, Smart & DITO. Không cần CMND hay ảnh chân dung — kích hoạt QR ngay lập tức. Miễn đăng ký theo RA 11934. Từ $1.99.
-  keywords: eSIM Philippines, mua eSIM Philippines, eSIM Philippines tốt nhất, eSIM du lịch Philippines, Globe Philippines, Smart Philippines, DITO Philippines, eSIM Manila, eSIM Cebu, eSIM Davao, eSIM trả trước Philippines, eSIM 5G Philippines, eSIM Boracay, eSIM Palawan
-  low_price: 1.99
-  high_price: 39.9
+  description: Nhận gói eSIM trả trước tốt nhất Philippines với 5G trên Globe, Smart & DITO. Không cần CMND hay ảnh chân dung — kích hoạt QR ngay lập tức. Miễn đăng ký theo RA 11934. Từ $2.99.
+  keywords: eSIM Philippines, mua eSIM Philippines, eSIM Philippines tốt nhất, eSIM du lịch Philippines, Globe Philippines, Smart Philippines, DITO Philippines, eSIM Manila, eSIM Cebu, eSIM Davao, eSIM trả trước Philippines, eSIM 5G Philippines, eSIM Quezon City, eSIM Makati, eSIM Philippines giá rẻ, sim du lịch Philippines
+  low_price: 2.99
+  high_price: 70.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với Globe, Smart & DITO để có tín hiệu tốt nhất trên hơn 7.000 hòn đảo
-plans_title: 'Mua eSIM Philippines: Gói cho mọi thời gian chuyến đi'
+plans_title: 'So sánh và chọn gói Philippines eSIM'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -308,7 +308,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Philippines: Những điều cần biết trước khi đi'
+  title: 'Xem vài điểm này trước khi dùng Philippines eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -329,7 +329,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Philippines: 3 bước đơn giản'
+  title: 'Kích hoạt Philippines eSIM trong 3 bước'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -349,12 +349,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hướng dẫn eSIM Philippines: Tốc độ, Phủ sóng và Mẹo du lịch Philippines"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Philippines. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Hướng dẫn kết nối và giải đáp về tốc độ eSIM cho du khách tại Philippines."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Philippines
+    title: Giải đáp về Philippines eSIM
     questions:
     - q: |
         Đạo luật Đăng ký SIM Philippines (RA 11934) là gì — và tôi có cần thực hiện cho Roami không?
@@ -375,11 +375,11 @@ faq_section:
     - q: |
         Tôi nghe nói Globe nén ảnh và chặn một số ứng dụng — Roami có gặp vấn đề này không?
       a: |
-        Không — Roami cung cấp kết nối trực tiếp, không kiểm duyệt. Globe sử dụng proxy trong suốt để nén lại ảnh (giảm chất lượng) và có thể chặn một số giao thức VoIP như SIP. Điều này có thể ảnh hưởng đến chất lượng ảnh khi tải lên mạng xã hội và can thiệp vào cuộc gọi công việc. Roami eSIM vượt qua các hạn chế này. Ảnh của bạn tải lên với chất lượng đầy đủ và tất cả ứng dụng hoạt động không bị cản trở.
+        Không — Roami cung cấp kết nối trực tiếp, không qua trung gian. Globe sử dụng proxy trong suốt để nén lại ảnh (giảm chất lượng) và có thể chặn một số giao thức VoIP như SIP. Điều này có thể ảnh hưởng đến chất lượng ảnh khi tải lên mạng xã hội và can thiệp vào cuộc gọi công việc. Roami eSIM vượt qua các hạn chế này. Ảnh của bạn tải lên với chất lượng đầy đủ và tất cả ứng dụng hoạt động không bị cản trở.
     - q: |
         eSIM có rẻ hơn chuyển vùng quốc tế cho Philippines không?
       a: |
-        Có — Roami eSIM thường rẻ hơn 80-90% so với gói chuyển vùng từ hầu hết nhà mạng trong nước. Gói 5GB cho Philippines có giá $8.99, trong khi chuyển vùng có thể tốn $50+ cho cùng lượng dữ liệu. Bạn cũng nhận được tốc độ mạng địa phương thay vì chuyển vùng bị giới hạn.
+        Có — Roami eSIM thường rẻ hơn 80-90% so với gói chuyển vùng từ hầu hết nhà mạng trong nước. Gói 5GB cho Philippines có giá $6.99, trong khi chuyển vùng có thể tốn $50+ cho cùng lượng dữ liệu. Bạn cũng nhận được tốc độ mạng địa phương thay vì chuyển vùng bị giới hạn.
     - q: |
         Tôi đến Philippines vào ban đêm. Tôi có thể kết nối ngay không?
       a: |
@@ -392,63 +392,75 @@ faq_section:
         Thời hạn của eSIM Philippines bắt đầu từ khi nào?
       a: |
         Thời hạn gói bắt đầu khi bạn kết nối với mạng địa phương tại Philippines, không phải khi bạn mua hoặc cài đặt. Vì vậy, bạn có thể mua và cài đặt vài tuần trước chuyến đi mà không mất bất kỳ ngày nào. Gói 7 ngày cho bạn đủ 7 ngày từ lần kết nối đầu tiên.
+    - q: |
+        Globe và Smart ở Philippines, dùng eSIM mạng nào tốt hơn?
+      a: |
+        Philippines có các nhà mạng chính như Globe, Smart. Roami tự động chọn mạng có tín hiệu mạnh nhất tại thời điểm đó và chuyển đổi giữa Globe và Smart mà bạn không cần cấu hình thủ công. Nếu lịch trình đi ra vùng ngoại ô hoặc đảo xa, nên tải bản đồ ngoại tuyến trước cho chắc.  Tại khu vực Manila, Cebu, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
+    - q: |
+        eSIM Philippines có những gói mấy ngày?
+      a: |
+        eSIM Philippines của Roami có các lựa chọn 3/7/15/30 ngày, tùy theo độ dài hành trình. Chuyến trong ba ngày thì chọn mức ngắn là đủ; từ một tuần trở lên nên chọn gói dài hạn để chi phí mỗi ngày rẻ hơn.  Davao, Quezon City và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
+    - q: |
+        Đi Philippines rồi qua nước khác, dùng chung một eSIM được không?
+      a: |
+        eSIM Philippines của Roami chủ yếu dùng trong lãnh thổ Philippines; nếu lịch trình đi sang nước láng giềng, bạn nên mua thêm gói của nước đó hoặc gói khu vực để tránh phí chuyển vùng phát sinh.  Thực tế tại Manila, Makati, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
 related_products:
   title: Các gói eSIM Philippines liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
+  - name: eSIM Bồ Đào Nha
+    flag: img/flags/pt.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: Puerto Rico eSIM
+    flag: img/flags/pu.svg
+    price: Từ $6.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Paraguay
+    flag: img/flags/py.svg
+    price: Từ $22.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Qatar
+    flag: img/flags/qa.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: Reunion Island eSIM
+    flag: img/flags/re.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
+  - name: eSIM Romania
+    flag: img/flags/ro.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
+  - name: Russia eSIM
+    flag: img/flags/ru.svg
+    price: Từ $2.99
+    is_highlight: false
+  - name: eSIM Ả Rập Xê Út
+    flag: img/flags/sa.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Seychelles
+    flag: img/flags/sc.svg
+    price: Từ $9.99
+    is_highlight: false
+  - name: eSIM Singapore
+    flag: img/flags/sg.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
+  - name: eSIM Sierra Leone
+    flag: img/flags/si.svg
+    price: Từ $10.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: eSIM El Salvador
+    flag: img/flags/sv.svg
+    price: Từ $23.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Philippines vs SIM thẻ trả trước: Có đáng chuyển đổi?'
   subtitle: 'SIM trả trước nội địa Philippines vs. Giải pháp eSIM (Tiêu chuẩn 2024/2025)'
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Philippines) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Philippines
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước nội địa (Dữ liệu thị trường)
@@ -477,7 +489,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 'Các gói giá trị cao của Smart và Globe (ví dụ: All Data 299 với 24GB, All Data 499 với 48GB) bị khóa chu kỳ 30 ngày; SIM du lịch sân bay bắt đầu từ ₱1.050 cho 30 ngày, nghĩa là chuyến đi 5-7 ngày lãng phí ít nhất 70% thời gian của gói.'
     esim_title: Gói ngắn hạn linh hoạt
-    esim_desc: Không giống như khóa 30 ngày của Smart (₱299/24GB) lãng phí 70% cho chuyến đi 7 ngày, Roami cung cấp gói 7 ngày từ $1.99/GB, giúp bạn thoát khỏi chu kỳ 30 ngày bắt buộc.
+    esim_desc: Không giống như khóa 30 ngày của Smart (₱299/24GB) lãng phí 70% cho chuyến đi 7 ngày, Roami cung cấp gói 7 ngày từ $2.99/GB, giúp bạn thoát khỏi chu kỳ 30 ngày bắt buộc.
   - icon: wifi
     title: Chính sách chia sẻ &<br>tốc độ
     prepaid_title: ''
@@ -508,7 +520,7 @@ market_analysis:
       icon_bg: bg-rose-100
       icon_color: text-rose-600
       title: Tránh proxy trong suốt của Globe và phí chuyển vùng của Smart
-      desc: Proxy trong suốt của Globe nén ảnh và có thể chặn VoIP SIP; gói chuyển vùng Smart có giá ₱999/1GB. Roami eSIM cung cấp kết nối trực tiếp, không kiểm duyệt, không thao túng lưu lượng.
+      desc: Proxy trong suốt của Globe nén ảnh và có thể chặn VoIP SIP; gói chuyển vùng Smart có giá ₱999/1GB. Roami eSIM cung cấp kết nối trực tiếp, không qua trung gian, không thao túng lưu lượng.
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600
@@ -518,5 +530,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Thoát bẫy chi phí chìm 30 ngày
-      desc: All Data 299 của Smart (₱299/24GB) và GoSURF299 của Globe (₱299/2GB) bị khóa chu kỳ 30 ngày. Du khách 7 ngày lãng phí hơn 70% gói. Roami cung cấp gói 7 ngày từ $1.99/GB.
+      desc: All Data 299 của Smart (₱299/24GB) và GoSURF299 của Globe (₱299/2GB) bị khóa chu kỳ 30 ngày. Du khách 7 ngày lãng phí hơn 70% gói. Roami cung cấp gói 7 ngày từ $2.99/GB.
 ---

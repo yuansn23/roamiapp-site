@@ -1,6 +1,6 @@
 ---
 title: '塞爾維亞 eSIM 2026: 完整旅遊指南 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,7 @@ modal:
 seo:
   title: "塞爾維亞eSIM｜30天5G上網方案，商務旅遊首選"
   description: "計畫去塞爾維亞長途旅行需要穩定上網？Roami 30天eSIM上網方案剛剛好。5G高速網路吃到飽一整月跨國上網不斷線，長途旅行首選方案推薦，查地圖打卡分享都不卡頓。"
-  keywords: 塞爾維亞 eSIM, 塞爾維亞 eSIM方案, 最佳塞爾維亞 eSIM, 塞爾維亞上網, Telenor 塞爾維亞, VIP 塞爾維亞, MTS 塞爾維亞, 貝爾格萊德 eSIM, 諾維薩德 eSIM, 尼什 eSIM,
-    塞爾維亞行動網路, 5G 塞爾維亞
+  keywords: 塞爾維亞 eSIM, eSIM 塞爾維亞, 塞爾維亞 eSIM 購買, 最佳塞爾維亞 eSIM, 塞爾維亞 上網, Telenor 塞爾維亞, VIP 塞爾維亞, MTS 塞爾維亞, 貝爾格萊德 eSIM, 諾維薩德 eSIM, 尼什 eSIM, 蘇博蒂察 eSIM, 克拉古耶瓦茨 eSIM, 塞爾維亞 eSIM 方案, 塞爾維亞 5G eSIM, 塞爾維亞 eSIM 預付卡
 order_summary:
   title: 選擇 塞爾維亞 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線塞爾維亞最佳電信商，取得最強訊號
-plans_title: 購買塞爾維亞 eSIM：適合各種旅程的方案
+plans_title: 塞爾維亞 eSIM 方案與價格說明
 plans_data:
   7 天:
   - spec: 無限
@@ -313,7 +312,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 塞爾維亞 eSIM秘訣：出發前須知
+  title: 塞爾維亞 eSIM 使用前的小撇步
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -342,7 +341,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 塞爾維亞 eSIM啟用：3個簡單步驟
+  title: 塞爾維亞 eSIM 如何啟用？簡單3步搞定
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 塞爾維亞 做好準備
@@ -377,7 +376,7 @@ faq_section:
     title: 塞爾維亞 eSIM MTS等網路速度實測｜最適合旅行上網的選擇
     questions:
     - q: 出國去塞爾維亞辦eSIM有推薦的方案嗎？不想花太多錢。
-      a: Roami 塞爾維亞 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。MTS在塞爾維亞市區5G網速約100-300Mbps，看1080p影片沒問題。去塞爾維亞機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到塞爾維亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 塞爾維亞 eSIM方案從$1.99（7天100MB）起，最高$89.99（15天無限）。一般旅客買最多的是5GB/15天（$8.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。MTS在塞爾維亞市區5G網速約100-300Mbps，看1080p影片沒問題。去塞爾維亞機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到塞爾維亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 去塞爾維亞玩辦eSIM，Roami會自動切換MTS、Telenor、A1的網路嗎？
       a: 塞爾維亞主要有MTS、Telenor、A1。MTS市區下載快、基地台密集。Telenor郊區覆蓋廣，會去郊區的話選Telenor路線較有保障。A1價格親民，適合預算有限的旅客。塞爾維亞4G/5G，貝爾格勒覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用MTS，移動到郊區若MTS訊號變弱就自動跳Telenor或A1，完全不用手動選。
     - q: 去塞爾維亞辦eSIM的認證流程大概要多久？買完馬上就能用嗎？
@@ -388,67 +387,73 @@ faq_section:
       a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
     - q: 跟旅伴一起去塞爾維亞，買一張eSIM開熱點分享夠兩個人用嗎？
       a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
+    - q: 塞爾維亞的Telenor和VIP，用eSIM哪一家訊號比較好？
+      a: 塞爾維亞主要有Telenor、VIP等電信商。Roami 會自動選擇當下訊號最強的網路，在Telenor與VIP之間自動切換，不用手動設定。若行程會拉到郊區或離島，出發前先下載離線地圖會更保險。 在 貝爾格萊德、諾維薩德 一帶實測收訊良好，移動中會自動切換基地台。
+    - q: 塞爾維亞 eSIM 有幾天份的方案可以選？
+      a: Roami 塞爾維亞 eSIM 提供 3/7/15/30 天等選擇，可依行程長短挑選。三天內的短程選入門天數就夠，一週以上建議直接挑長效期方案，單日成本更划算。 尼什、蘇博蒂察 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
+    - q: 去塞爾維亞之後順道去其他國家，同一張eSIM能繼續用嗎？
+      a: Roami 塞爾維亞 eSIM 以 塞爾維亞 境內使用為主；若行程會跨到鄰國，建議另外加購該國或區域方案，避免產生額外的漫遊費用。 實際走訪 貝爾格萊德、克拉古耶瓦茨 等主要城市，上網查資料、傳照片都沒問題。
 related_products:
-  title: 類似 塞爾維亞 eSIM 的旅行方案
+  title: 搭配 塞爾維亞 的跨國 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: china-esim
   - name: 菲律賓 eSIM
     flag: img/flags/ph.svg
-    price: От 1,99 $
+    price: 自 $2.99
     is_highlight: false
     slug: philippines-esim
+  - name: 列支敦斯登 eSIM
+    flag: img/flags/li.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: liechtenstein-esim
+  - name: 尼泊爾 eSIM
+    flag: img/flags/np.svg
+    price: 自 $10.99
+    is_highlight: false
+    slug: nepal-esim
+  - name: 馬利 eSIM
+    flag: img/flags/ml.svg
+    price: 自 $27.99
+    is_highlight: false
+    slug: mali-esim
+  - name: 波札那 eSIM
+    flag: img/flags/bw.svg
+    price: 自 $14.99
+    is_highlight: false
+    slug: botswana-esim
+  - name: 肯亞 eSIM
+    flag: img/flags/ke.svg
+    price: 自 $7.99
+    is_highlight: false
+    slug: kenya-esim
+  - name: 阿富汗 eSIM
+    flag: img/flags/af.svg
+    price: 自 $11.99
+    is_highlight: false
+    slug: afghanistan-esim
+  - name: 馬爾他 eSIM
+    flag: img/flags/mt.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: malta-esim
+  - name: 巴哈馬 eSIM
+    flag: img/flags/bs.svg
+    price: 自 $16.99
+    is_highlight: false
+    slug: bahamas-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: 自 $1.99
+    is_highlight: true
+    slug: vietnam-esim
+  - name: 寮國 eSIM
+    flag: img/flags/la.svg
+    price: 自 $4.99
+    is_highlight: false
+    slug: laos-esim
+  - name: 芬蘭 eSIM
+    flag: img/flags/fi.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: finland-esim
 ---

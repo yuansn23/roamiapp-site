@@ -36,7 +36,7 @@ schema: |-
     ]
   }
 
-# Hero 区域
+# Hero 
 hero:
   subtitle: "Câu chuyện của chúng tôi"
   title_main: "Kết nối thế giới của bạn,<br>"
@@ -62,7 +62,7 @@ hero:
       label: "4.8 trên App Store"
       class: "bg-white/80 backdrop-blur-sm px-4 py-2 rounded-full text-slate-700 font-medium shadow-sm border border-slate-200"
 
-# 信任数据看板
+# 
 trustStats:
   - value: "200+"
     label: "Quốc gia & Vùng lãnh thổ"
@@ -77,7 +77,7 @@ trustStats:
     label: "Hỗ trợ"
     sub: "10 ngôn ngữ • phản hồi <2 phút"
 
-# Mission 区域
+# Mission 
 mission:
   title: "Định nghĩa lại kết nối du lịch toàn cầu"
   paragraphs:
@@ -96,17 +96,17 @@ mission:
   stats_title: "1M+ Du khách hài lòng"
   stats_desc: "Được tin dùng bởi các chuyên gia và du khách toàn cầu."
 
-# 合作伙伴区域
+# 
 partners:
   section_label: "Mạng lưới nhà mạng toàn cầu"
   title: "Được tin cậy bởi <span class='text-blue-600'>50+ Nhà mạng hàng đầu</span> trên toàn thế giới"
   view_all_link: ""
   view_all_text: "Xem tất cả 50+ đối tác"
   
-  # 默认折扣码
+  # 
   default_discount_code: "WEB20"
   
-  # SEO 内链组（普通链接）
+  # SEO （）
   seo_links:
     - emoji: "🇪🇺"
       text: "eSIM cho du lịch châu Âu"
@@ -124,7 +124,7 @@ partners:
       discount_code: "WEB20"
       discount_badge_class: "bg-red-500 text-white"
   
-  # 高亮按钮（单独的 plans 链接）
+  # （ plans ）
   highlight_link: "/plans/"
   highlight_emoji: "📱"
   highlight_text: "gói dữ liệu eSIM giá phải chăng"
@@ -132,7 +132,7 @@ partners:
   highlight_discount_text: "TIẾT KIỆM 20%"
   highlight_badge_class: "bg-yellow-300 text-red-700"
   
-  # 折扣码独立横幅
+  # 
   discount_banner_class: "bg-gradient-to-r from-amber-100 to-yellow-200 rounded-full px-5 py-2 shadow-md border border-amber-300"
   discount_banner_emoji: "🎉"
   discount_banner_title: "Ưu đãi cho người mới"
@@ -141,7 +141,7 @@ partners:
   discount_banner_description: "Mã giảm giá 20% cho eSIM"
   discount_banner_desc_class: "text-amber-700 text-xs font-medium"
   
-  # Logo 列表
+  # Logo 
   logos:
     - name: "Orange"
       image: "/img/frane-orange-esim.jpg"
@@ -172,13 +172,13 @@ partners:
     - name: "SoftBank"
       image: "/img/japan-softbank.png"
   
-  # 服务承诺标签
+  # 
   service_tags:
     - "⚡ Tốc độ 5G/4G"
     - "📲 Kích hoạt tức thời"
     - "🔒 An toàn & đáng tin cậy"
 
-# 用户评价区域
+# 
 testimonials:
   section_label: "Đánh giá"
   title: "Du khách nói gì về Roami"
@@ -210,7 +210,7 @@ testimonials:
       verified_text: "Người dùng App Store đã xác minh"
       purchased_label: "Đã mua"
 
-# 底部 CTA 区域
+#  CTA 
 cta:
   gradient_from: "#0A2F44"
   gradient_to: "#06212E"

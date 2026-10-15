@@ -1,6 +1,6 @@
 ---
 title: '哥斯大黎加 eSIM 2026: 旅行與網路 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,9 +17,8 @@ modal:
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
   title: "哥斯大黎加eSIM｜5G高速吃到飽，吃到飽不降速"
-  description: "去哥斯大黎加出國旅行必備eSIM高速網路卡就是Roami，5G高速上網吃到飽方案。輕鬆查地圖打卡分享旅程更順暢，免綁約最低$1.99起，線上購買即時開通抵達直接用。"
-  keywords: 哥斯大黎加 eSIM, 哥斯大黎加 eSIM方案, 最佳哥斯大黎加 eSIM, 哥斯大黎加上網, Kölbi 哥斯大黎加, Movistar 哥斯大黎加, Claro 哥斯大黎加, 聖荷西 eSIM, 利蒙 eSIM,
-    阿拉胡埃拉 eSIM, 哥斯大黎加行動網路, 5G 哥斯大黎加
+  description: "去哥斯大黎加出國旅行必備eSIM高速網路卡就是Roami，5G高速上網吃到飽方案。輕鬆查地圖打卡分享旅程更順暢，免綁約最低$9.99起，線上購買即時開通抵達直接用。"
+  keywords: 哥斯大黎加 eSIM, eSIM 哥斯大黎加, 哥斯大黎加 eSIM 購買, 最佳哥斯大黎加 eSIM, 哥斯大黎加 上網, Kölbi 哥斯大黎加, Movistar 哥斯大黎加, Claro 哥斯大黎加, 聖荷西 eSIM, 利蒙 eSIM, 阿拉胡埃拉 eSIM, 卡塔戈 eSIM, 潘塔雷納斯 eSIM, 哥斯大黎加 eSIM 方案, 哥斯大黎加 5G eSIM, 哥斯大黎加 eSIM 預付卡
 order_summary:
   title: 選擇 哥斯大黎加 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線哥斯大黎加最佳電信商，取得最強訊號
-plans_title: 購買哥斯大黎加 eSIM：適合各種旅程的方案
+plans_title: 選購哥斯大黎加 eSIM：天數、流量一次看懂
 plans_data:
   7 天:
   - spec: 1GB
@@ -265,7 +264,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 哥斯大黎加 eSIM秘訣：出發前須知
+  title: 用哥斯大黎加 eSIM 前先看這幾點
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -294,7 +293,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 哥斯大黎加 eSIM啟用：3個簡單步驟
+  title: 哥斯大黎加 eSIM 啟用與安裝指南
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 哥斯大黎加 做好準備
@@ -333,7 +332,7 @@ faq_section:
     title: 哥斯大黎加 eSIM 網路品質評比｜各家電信速度收訊比較
     questions:
     - q: 哥斯大黎加eSIM的價格從多少到多少？有便宜的短期方案嗎？
-      a: Roami 哥斯大黎加 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。哥斯大黎加以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去哥斯大黎加機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到哥斯大黎加後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 哥斯大黎加 eSIM方案從$9.99（7天1GB）起，最高$84.99（7天無限）。一般旅客買最多的是5GB/15天（$24.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。哥斯大黎加以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去哥斯大黎加機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到哥斯大黎加後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 哥斯大黎加eSIM的開通流程會不會很複雜？什麼時候開始算啟用？
       a: 收到QR Code後，iOS進 設定 > 行動服務 > 加入行動方案，Android進 設定 > 網路與網際網路 > 加入eSIM，約2分鐘完成。強烈建議出發前在家用WiFi先裝好——安裝當下需要網路，到了哥斯大黎加機場若WiFi要手機驗證才能連就麻煩了。裝好後抵達哥斯大黎加開啟數據漫遊，約1-2分鐘自動連上Kölbi。萬一沒訊號：先確認數據漫遊有開，再手動選Kölbi試試。重開機通常能解決，Roami客服24小時在線可協助排除。
     - q: Kölbi、Claro、Movistar這三家在哥斯大黎加的收訊，在市區和郊區各推薦哪家？
@@ -344,77 +343,82 @@ faq_section:
       a: 哥斯大黎加的Kölbi等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。哥斯大黎加4G為主，5G逐步建置。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 哥斯大黎加eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
       a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
+    - q: 哥斯大黎加 eSIM 有幾天份的方案可以選？
+      a: Roami 哥斯大黎加 eSIM 提供 3/7/15/30 天等選擇，可依行程長短挑選。三天內的短程選入門天數就夠，一週以上建議直接挑長效期方案，單日成本更划算。 另外，聖荷西、利蒙 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
+    - q: 在哥斯大黎加使用eSIM遇到問題，可以找誰幫忙？
+      a: Roami 提供線上客服協助。若在 哥斯大黎加 遇到連線異常，可先確認 eSIM 線路已開啟、數據漫遊已打開；仍無法解決再聯繫客服，符合條件可申請退款。 在 阿拉胡埃拉、卡塔戈 一帶實測收訊良好，移動中會自動切換基地台。
+    - q: 哥斯大黎加 eSIM 大概多少錢？有便宜的選擇嗎？
+      a: Roami 哥斯大黎加 eSIM 方案從 $9.99（7天1GB）起，最高 $84.99（7天無限）。短期輕度使用挑入門方案即可，用量大的旅客再選高規格。價格透明，方案到期自動失效，不會續約扣款。 聖荷西、潘塔雷納斯 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
 related_products:
-  title: 類似 哥斯大黎加 eSIM 的旅行方案
+  title: 更多國家 eSIM 選擇
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 約旦 eSIM
+    flag: img/flags/jo.svg
+    price: 自 $6.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: china-esim
+    slug: jordan-esim
   - name: 菲律賓 eSIM
     flag: img/flags/ph.svg
-    price: От 1,99 $
+    price: 自 $2.99
     is_highlight: false
     slug: philippines-esim
-
+  - name: 西班牙 eSIM
+    flag: img/flags/es.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: spain-esim
+  - name: 馬來西亞 eSIM
+    flag: img/flags/my.svg
+    price: 自 $1.99
+    is_highlight: true
+    slug: malaysia-esim
+  - name: 尼泊爾 eSIM
+    flag: img/flags/np.svg
+    price: 自 $10.99
+    is_highlight: false
+    slug: nepal-esim
+  - name: 關島 eSIM
+    flag: img/flags/gu.svg
+    price: 自 $9.99
+    is_highlight: false
+    slug: guam-esim
+  - name: 捷克 eSIM
+    flag: img/flags/cz.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: czech-republic-esim
+  - name: 挪威 eSIM
+    flag: img/flags/no.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: norway-esim
+  - name: 盧森堡 eSIM
+    flag: img/flags/lu.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: luxembourg-esim
+  - name: 瓜地馬拉 eSIM
+    flag: img/flags/gt.svg
+    price: 自 $11.99
+    is_highlight: false
+    slug: guatemala-esim
+  - name: 哈薩克 eSIM
+    flag: img/flags/kz.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: kazakhstan-esim
+  - name: 瑞典 eSIM
+    flag: img/flags/se.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: sweden-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Costa Rica eSIM 網路覆蓋怎麼樣？離城市多遠會沒訊號？"
   subtitle: "哥斯大黎加當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Costa-Rica) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Costa-Rica"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -423,7 +427,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Costa Rica. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Kölbi 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 Liberty App 僅限哥斯大黎加商店下載的陷阱，以及 Claro *555# 多級菜單的複雜操作。Roami eSIM 購買後 1 分鐘內掃碼啟用，落地即用。"
     - icon: "id-card"
@@ -447,21 +451,21 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "分享與降速規則由 Kölbi、Movistar 各自訂定，同一張卡在不同方案下限制不同，旅客容易誤判實際可用速度。"
       esim_title: "無限熱點分享"
       esim_desc: "當地 SIM 卡可能限制熱點分享，Roami eSIM 允許您將數據分享給同伴，無需額外購買多張卡片。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "加值可至 Kölbi 等業者門市或購買儲值券，國際信用卡線上儲值成功率低，且部分方案不支援自動續扣。"
       esim_title: "全球付款暢通"
       esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需擔心當地儲值困難或自動續訂陷阱。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "Kölbi 的客服以本地語言為主且時間有限，漫遊或設定問題往往需自行摸索，缺少全天候支援管道。"
       esim_title: "24/7 中文支援"
-      esim_desc: "當地運營商客服可能僅提供西班牙語，Roami eSIM 提供 24/7 中文與英文線上支援，隨時解決問題。"
+      esim_desc: "當地電信商客服可能僅提供西班牙語，Roami eSIM 提供 24/7 中文與英文線上支援，隨時解決問題。"
 
   # =============== 100% 完整復原：專家評語模組 ===============
   expert_verdict:

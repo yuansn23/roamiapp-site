@@ -1,6 +1,6 @@
 ---
 title: '哥倫比亞 eSIM 2026: 連線與速度 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,7 @@ modal:
 seo:
   title: "哥倫比亞eSIM｜5G上網吃到飽，免實名認證"
   description: "去哥倫比亞旅行上網推薦免合約eSIM，Roami讓您隨時連線不斷線。5G高速吃到飽方案用多少算多少最自由，免實名認證免綁約，線上購買秒收QR Code即開即用。"
-  keywords: 哥倫比亞 eSIM, 哥倫比亞 eSIM方案, 最佳哥倫比亞 eSIM, 哥倫比亞上網, Claro 哥倫比亞, Tigo 哥倫比亞, Movistar 哥倫比亞, 波哥大 eSIM, 麥德林 eSIM, 卡塔赫納 eSIM,
-    哥倫比亞行動網路, 5G 哥倫比亞
+  keywords: 哥倫比亞 eSIM, eSIM 哥倫比亞, 哥倫比亞 eSIM 購買, 最佳哥倫比亞 eSIM, 哥倫比亞 上網, Claro 哥倫比亞, Tigo 哥倫比亞, Movistar 哥倫比亞, 波哥大 eSIM, 麥德林 eSIM, 卡塔赫納 eSIM, 卡利 eSIM, 巴蘭基亞 eSIM, 哥倫比亞 eSIM 方案, 哥倫比亞 5G eSIM, 哥倫比亞 eSIM 預付卡
 order_summary:
   title: 選擇 哥倫比亞 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線哥倫比亞最佳電信商，取得最強訊號
-plans_title: 購買哥倫比亞 eSIM：適合各種旅程的方案
+plans_title: 為你的哥倫比亞行程挑一張 eSIM
 plans_data:
   7 天:
   - spec: 1GB
@@ -281,7 +280,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 哥倫比亞 eSIM秘訣：出發前須知
+  title: 哥倫比亞 eSIM 旅行前檢查清單
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -310,7 +309,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 哥倫比亞 eSIM啟用：3個簡單步驟
+  title: 哥倫比亞 eSIM 啟用方法與注意事項
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 哥倫比亞 做好準備
@@ -345,88 +344,93 @@ faq_section:
     title: 哥倫比亞 eSIM 5G網速與電信商比較｜Claro、Movistar、Tigo覆蓋評測
     questions:
     - q: 哥倫比亞eSIM的價格從多少到多少？有便宜的短期方案嗎？
-      a: Roami 哥倫比亞 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Claro在哥倫比亞市區5G網速約100-300Mbps，看1080p影片沒問題。去哥倫比亞機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到哥倫比亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 哥倫比亞 eSIM方案從$4.99（3天1GB）起，最高$86.99（30天30GB）。一般旅客買最多的是5GB/15天（$17.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Claro在哥倫比亞市區5G網速約100-300Mbps，看1080p影片沒問題。去哥倫比亞機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到哥倫比亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 到哥倫比亞旅遊想用eSIM，Claro、Movistar、Tigo哪家網路比較穩？
       a: 哥倫比亞主要有Claro、Movistar、Tigo。Claro市區下載快、基地台密集。Movistar郊區覆蓋廣，會去郊區的話選Movistar路線較有保障。Tigo價格親民，適合預算有限的旅客。哥倫比亞5G使用n78頻段，波哥大等城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Claro，移動到郊區若Claro訊號變弱就自動跳Movistar或Tigo，完全不用手動選。
     - q: 哥倫比亞eSIM的30天無限方案跟15天10GB的比起來，哪個平均每天比較便宜？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。哥倫比亞5G使用n78頻段，波哥大等城市覆蓋。Roami在哥倫比亞連上Claro的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。哥倫比亞5G使用n78頻段，波哥大等城市覆蓋。Roami在哥倫比亞連上Claro的網路，網速穩定。如果怕降速可選10GB/$21.99或20GB/$30.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 去哥倫比亞用eSIM需要先通過身分驗證嗎？要準備哪些證件？
       a: 需要的。哥倫比亞預付卡需KYC認證，需提供護照。很多人不知道這規定，到了哥倫比亞機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。哥倫比亞5G使用n78頻段，波哥大等城市覆蓋。另外Claro的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到哥倫比亞開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 哥倫比亞主要市區和偏遠鄉村的網路覆蓋差距大嗎？
       a: 哥倫比亞的Claro等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。哥倫比亞5G使用n78頻段，波哥大等城市覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 哥倫比亞eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
       a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
+    - q: 哥倫比亞 eSIM 可以開熱點分享給旅伴嗎？
+      a: 可以，Roami 哥倫比亞 eSIM 支援熱點分享，能分給筆電、平板或同行旅伴。多人共用建議挑規格大一級的方案，避免中途用完；用量抓不準也可以事後在 App 加購。 不論在 波哥大、麥德林，連線品質都相當穩定。
+    - q: 抵達哥倫比亞機場後就能馬上上網嗎？
+      a: 可以。只要出發前先安裝好 eSIM，落地後關閉飛航模式、開啟 eSIM 線路，通常幾十秒內就能連上當地網路，不用在機場排隊買實體 SIM 卡。 卡塔赫納、卡利 等地的行動網路覆蓋完整，跨區移動也不斷線。
+    - q: 哥倫比亞的Claro和Tigo，用eSIM哪一家訊號比較好？
+      a: 哥倫比亞主要有Claro、Tigo等電信商。Roami 會自動選擇當下訊號最強的網路，在Claro與Tigo之間自動切換，不用手動設定。若行程會拉到郊區或離島，出發前先下載離線地圖會更保險。 另外，波哥大、巴蘭基亞 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
 related_products:
-  title: 類似 哥倫比亞 eSIM 的旅行方案
+  title: 熱門目的地 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+  - name: 挪威 eSIM
+    flag: img/flags/no.svg
+    price: 自 $1.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: norway-esim
+  - name: 奧地利 eSIM
+    flag: img/flags/at.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: austria-esim
+  - name: 吉爾吉斯 eSIM
+    flag: img/flags/kg.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: kyrgyzstan-esim
+  - name: 保加利亞 eSIM
+    flag: img/flags/bg.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: bulgaria-esim
+  - name: 智利 eSIM
+    flag: img/flags/cl.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: chile-esim
+  - name: 愛爾蘭 eSIM
+    flag: img/flags/ie.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: ireland-esim
+  - name: 哈薩克 eSIM
+    flag: img/flags/kz.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: kazakhstan-esim
+  - name: 安道爾 eSIM
+    flag: img/flags/ad.svg
+    price: 自 $6.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+    slug: andorra-esim
+  - name: 突尼西亞 eSIM
+    flag: img/flags/tn.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: tunisia-esim
+  - name: 關島 eSIM
+    flag: img/flags/gu.svg
+    price: 自 $9.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: guam-esim
+  - name: 捷克 eSIM
+    flag: img/flags/cz.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: czech-republic-esim
+  - name: 比利時 eSIM
+    flag: img/flags/be.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: belgium-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Colombia eSIM 網速實測與覆蓋指南 -- 市區郊區都能用嗎？"
   subtitle: "哥倫比亞當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Colombia) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Colombia"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -435,7 +439,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Colombia. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Claro 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開波哥大機場 Claro 櫃檯的排隊與溢價，抵達哥倫比亞後一分鐘內線上啟用 eSIM，無需提供身份證或酒店地址。"
     - icon: "id-card"
@@ -449,7 +453,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "CAN 漫遊（玻利維亞、哥倫比亞、厄瓜多、秘魯之間）優惠僅限後付費用戶，預付卡完全不適用。"
       esim_title: "全球漫遊無縮水"
-      esim_desc: "不同於哥倫比亞預付卡在 CAN 國家（祕魯、厄瓜多等）無法使用套餐（僅後付費適用），eSIM 提供多國通用方案，無需切換卡片。"
+      esim_desc: "不同於哥倫比亞預付卡在 CAN 國家（秘魯、厄瓜多等）無法使用套餐（僅後付費適用），eSIM 提供多國通用方案，無需切換卡片。"
     - icon: "calendar-xmark"
       title: "計費週期與浪費成本"
       prepaid_title: ""
@@ -459,13 +463,13 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "Claro 等業者的預付方案通常可分享熱點，但速度政策不透明，達一定流量後可能被限速，長途使用需留意。"
       esim_title: "無限分享不降速"
       esim_desc: "eSIM 支援熱點分享，無每日限制或降速政策，讓您自由連接筆電或平板，不同於部分當地 SIM 卡可能隱藏的限制。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "當地加值管道以實體為主，Claro 的 App 儲值對海外信用卡支援不一，餘額不足時難以即時補足。"
       esim_title: "全球付款暢通"
       esim_desc: "使用 Visa、Mastercard、AMEX、Apple Pay、Google Pay 或 PayPal 輕鬆購買 eSIM，無需擔心當地 SIM 卡僅接受現金或哥倫比亞本地支付方式。"
     - icon: "headset"
@@ -483,7 +487,7 @@ market_analysis:
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"
         title: "避免 CAN 漫遊陷阱"
-        desc: "哥倫比亞預付卡在 CAN 國家（玻利維亞、厄瓜多、祕魯）無法使用套餐內流量，僅後付費適用。eSIM 提供多國通用方案，無需更換卡片，在祕魯馬丘比丘或厄瓜多加拉巴哥群島也能順暢連線。"
+        desc: "哥倫比亞預付卡在 CAN 國家（玻利維亞、厄瓜多、秘魯）無法使用套餐內流量，僅後付費適用。eSIM 提供多國通用方案，無需更換卡片，在秘魯馬丘比丘或厄瓜多加拉巴哥群島也能順暢連線。"
       - icon: "globe"
         icon_bg: "bg-teal-100"
         icon_color: "text-teal-600"

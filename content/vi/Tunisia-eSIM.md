@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Tunisia - 4G/5G tại Tunis & Sousse | Không xếp hàng sân bay | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: eSIM Tunisia - Gói dữ liệu trả trước tốt nhất cho kỳ nghỉ của bạn
-  description: Nhận gói eSIM Tunisia tốt nhất với 4G/5G trên Tunisie Telecom, Orange & Ooredoo. Không xếp hàng sân bay, không sao chụp hộ chiếu — gửi QR tức thì. Phủ sóng Tunis, Sousse, Carthage & Hammamet. Gói từ $1.99.
-  keywords: eSIM Tunisia, mua eSIM Tunisia, eSIM Tunisia tốt nhất, eSIM du lịch Tunisia, Tunisie Telecom Tunisia, Orange Tunisie Tunisia, Ooredoo Tunisie Tunisia, eSIM Tunis, eSIM Sfax, eSIM Sousse, eSIM trả trước Tunisia, eSIM Carthage, eSIM Hammamet
-  low_price: 1.99
-  high_price: 39.9
+  description: Nhận gói eSIM Tunisia tốt nhất với 4G/5G trên Tunisie Telecom, Orange & Ooredoo. Không xếp hàng sân bay, không sao chụp hộ chiếu — gửi QR tức thì. Phủ sóng Tunis, Sousse, Carthage & Hammamet. Gói từ $3.99.
+  keywords: eSIM Tunisia, mua eSIM Tunisia, eSIM Tunisia tốt nhất, eSIM du lịch Tunisia, Tunisie Telecom Tunisia, Orange Tunisie Tunisia, Ooredoo Tunisie Tunisia, eSIM Tunis, eSIM Sfax, eSIM Sousse, eSIM trả trước Tunisia, eSIM 5G Tunisia, eSIM Kairouan, eSIM Bizerte, eSIM Tunisia giá rẻ, sim du lịch Tunisia
+  low_price: 3.99
+  high_price: 78.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -73,7 +73,7 @@ features:
     color: from-cyan-400 to-cyan-600
     title: Phủ sóng Bờ biển & Thành phố
     desc: 4G/5G mạnh tại Tunis, Sousse, Hammamet và tất cả các điểm du lịch chính
-plans_title: 'Mua eSIM Tunisia: Gói cho mọi thời gian chuyến đi'
+plans_title: 'Chọn một eSIM cho chuyến đi Tunisia'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -304,7 +304,7 @@ network_coverage:
       coverage: Phủ sóng ven biển tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Tunisia: Những điều cần biết trước khi đi'
+  title: 'Những lưu ý chính khi dùng Tunisia eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -329,7 +329,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Tunisia: 3 bước đơn giản'
+  title: 'Các bước cài đặt và kích hoạt Tunisia eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -349,12 +349,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hướng dẫn eSIM Tunisia: Phủ sóng 4G/5G & Mẹo du lịch cho khách du lịch"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Tunisia. Tìm hiểu tốc độ bạn có thể mong đợi ở các thành phố và khu nghỉ dưỡng ven biển."
+  desc: "Tổng hợp câu hỏi về chất lượng mạng và tốc độ eSIM tại Tunisia."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Tunisia
+    title: 'Tunisia eSIM: các câu hỏi phổ biến'
     questions:
     - q: |
         Mua SIM tại Sân bay Tunis-Carthage thực sự tệ đến mức nào?
@@ -375,7 +375,7 @@ faq_section:
     - q: |
         Tại sao gói eSIM Tunisia đắt hơn một số nước Châu Âu?
       a: |
-        Hai lý do chính: (1) Cơ sở hạ tầng viễn thông của Tunisia ít dày đặc hơn Châu Âu, vì vậy chi phí dữ liệu mỗi GB cao hơn cho nhà cung cấp. (2) Biến động tiền tệ địa phương (TND) và phí nhập khẩu ảnh hưởng đến giá eSIM quốc tế. Tuy nhiên, gói của Roami <strong>bắt đầu từ $1.99</strong> — và bạn trả cho <strong>sự tiện lợi</strong> (không xếp hàng sân bay, không sao chụp hộ chiếu, không đến cửa hàng). Đối với chuyến đi 7 ngày, thời gian tiết kiệm được đáng giá với mức phí chênh lệch nhỏ.
+        Hai lý do chính: (1) Cơ sở hạ tầng viễn thông của Tunisia ít dày đặc hơn Châu Âu, vì vậy chi phí dữ liệu mỗi GB cao hơn cho nhà cung cấp. (2) Biến động tiền tệ địa phương (TND) và phí nhập khẩu ảnh hưởng đến giá eSIM quốc tế. Tuy nhiên, gói của Roami <strong>bắt đầu từ $3.99</strong> — và bạn trả cho <strong>sự tiện lợi</strong> (không xếp hàng sân bay, không sao chụp hộ chiếu, không đến cửa hàng). Đối với chuyến đi 7 ngày, thời gian tiết kiệm được đáng giá với mức phí chênh lệch nhỏ.
     - q: |
         Tôi có thể sử dụng Google Maps để tham quan ở Tunis, Carthage và Sidi Bou Said không?
       a: |
@@ -387,7 +387,7 @@ faq_section:
     - q: |
         Tôi có thể mua eSIM cho Tunisia mà không tốn quá nhiều tiền không?
       a: |
-        Chắc chắn rồi. Gói eSIM Tunisia của Roami bắt đầu từ chỉ <strong>$1.99</strong>. Gói 5GB/15 ngày ($10.99) là lựa chọn phổ biến nhất với du khách — nó đáp ứng thoải mái cho bản đồ, WhatsApp, Instagram và chia sẻ ảnh kỳ nghỉ. Nếu bạn là người dùng nhiều dữ liệu, gói 10GB ($16.99) hoặc 20GB ($31.99) mang lại sự an tâm. Bỏ qua quầy SIM sân bay giúp bạn tiết kiệm thời gian và tránh xếp hàng tại Tunis-Carthage.
+        Chắc chắn rồi. Gói eSIM Tunisia của Roami bắt đầu từ chỉ <strong>$3.99</strong>. Gói 5GB/15 ngày ($10.99) là lựa chọn phổ biến nhất với du khách — nó đáp ứng thoải mái cho bản đồ, WhatsApp, Instagram và chia sẻ ảnh kỳ nghỉ. Nếu bạn là người dùng nhiều dữ liệu, gói 10GB ($13.99) hoặc 20GB ($28.99) mang lại sự an tâm. Bỏ qua quầy SIM sân bay giúp bạn tiết kiệm thời gian và tránh xếp hàng tại Tunis-Carthage.
     - q: |
         Tôi phải làm gì nếu vô tình xóa eSIM Tunisia trước chuyến đi?
       a: |
@@ -396,63 +396,75 @@ faq_section:
         Thời hạn của eSIM Tunisia bắt đầu từ khi nào?
       a: |
         Thời hạn gói bắt đầu khi bạn kết nối với mạng địa phương tại Tunisia, không phải khi bạn mua hoặc cài đặt. Vì vậy, bạn có thể mua và cài đặt vài tuần trước chuyến đi mà không mất bất kỳ ngày nào. Gói 7 ngày cho bạn đủ 7 ngày từ lần kết nối đầu tiên.
+    - q: |
+        Dùng eSIM Tunisia ở Tunis, Sfax có ổn không?
+      a: |
+        Tunis, Sfax và các đô thị chính đều được phủ sóng di động đầy đủ: tra bản đồ, gọi xe, nhắn tin và tải ảnh đều ổn. Một số vùng xa của Tunisia tín hiệu yếu hơn, bạn nên tải bản đồ ngoại tuyến để phòng.  Tunis, Sfax và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
+    - q: |
+        Mua eSIM Tunisia thanh toán bằng cách nào? Bao lâu nhận được?
+      a: |
+        Roami hỗ trợ các hình thức thanh toán trực tuyến phổ biến; sau khi thanh toán, mã QR sẽ được gửi đến email của bạn, thường chỉ trong vài phút. Bạn nên mua và cài đặt trước chuyến đi để đến Tunisia là có mạng ngay.  Thực tế tại Sousse, Kairouan, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
+    - q: |
+        Dùng eSIM Tunisia gặp sự cố thì liên hệ ai?
+      a: |
+        Roami có hỗ trợ khách hàng trực tuyến. Nếu gặp lỗi kết nối tại Tunisia, bạn kiểm tra đường eSIM đã bật và chuyển vùng dữ liệu đã mở chưa; nếu vẫn chưa được thì liên hệ hỗ trợ, trường hợp đủ điều kiện có thể yêu cầu hoàn tiền.  Dù ở Tunis, Bizerte hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
 related_products:
   title: Các gói eSIM Tunisia liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ $1.99
+  - name: eSIM Gibraltar
+    flag: img/flags/gi.svg
+    price: Từ $5.99
     is_highlight: false
-  - name: eSIM Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: eSIM Ghana
+    flag: img/flags/gh.svg
+    price: Từ $7.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Guadeloupe
+    flag: img/flags/gp.svg
+    price: Từ $8.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Hy Lạp
+    flag: img/flags/gr.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ $1.99
+  - name: eSIM Guatemala
+    flag: img/flags/gt.svg
+    price: Từ $11.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
+  - name: eSIM Guam
+    flag: img/flags/gu.svg
+    price: Từ $9.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
+  - name: eSIM Guyana
+    flag: img/flags/gy.svg
+    price: Từ $9.99
     is_highlight: false
   - name: eSIM Hồng Kông
     flag: img/flags/hk.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
+  - name: eSIM Honduras
+    flag: img/flags/hn.svg
+    price: Từ $6.99
+    is_highlight: false
+  - name: eSIM Croatia
+    flag: img/flags/hr.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
+  - name: eSIM Hungary
+    flag: img/flags/hu.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
+  - name: eSIM Indonesia
+    flag: img/flags/id.svg
     price: Từ $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Tunisia vs SIM nội địa: Lựa chọn nào tốt hơn cho chuyến đi của bạn?'
   subtitle: 'SIM trả trước nội địa Tunisia vs. Giải pháp eSIM (Tiêu chuẩn 2024/2025)'
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Tunisia) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Tunisia
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước nội địa (Dữ liệu thị trường)
@@ -481,7 +493,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Ooredoo 7 ngày 1.25GB có giá 5 TND; gói 30 ngày bắt đầu từ 10.5 TND. Tunisie Telecom 30 ngày 1.1GB có giá 4.5 TND. Du khách ngắn ngày mua nhiều hơn nhu cầu.
     esim_title: Gói linh hoạt, không lãng phí
-    esim_desc: Roami cung cấp gói 3/7/15/30 ngày từ $1.99 — chỉ trả cho thời gian chuyến đi thực tế của bạn. Không cam kết 7 ngày hay 30 ngày bắt buộc.
+    esim_desc: Roami cung cấp gói 3/7/15/30 ngày từ $3.99 — chỉ trả cho thời gian chuyến đi thực tế của bạn. Không cam kết 7 ngày hay 30 ngày bắt buộc.
   - icon: wifi
     title: Chính sách chia sẻ &<br>tốc độ
     prepaid_title: ''

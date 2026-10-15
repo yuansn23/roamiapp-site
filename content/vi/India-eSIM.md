@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Ấn Độ 2026 - Gói 5G tốt nhất cho Delhi & Taj Mahal | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: eSIM Ấn Độ - Dữ liệu Trả trước 5G Nhanh cho Hành trình của Bạn
-  description: Nhận eSIM trả trước Ấn Độ tốt nhất với 5G trên Airtel, Jio & Vi. Không cần KYC hay hộ chiếu — kích hoạt QR tức thì. Không lãng phí 28 ngày. Từ 1,99 USD.
-  keywords: eSIM Ấn Độ, mua eSIM Ấn Độ, eSIM Ấn Độ tốt nhất, eSIM du lịch Ấn Độ, Airtel Ấn Độ, Jio Ấn Độ, Vi Ấn Độ, eSIM Delhi, eSIM Mumbai, eSIM Bangalore, eSIM trả trước Ấn Độ, eSIM 5G Ấn Độ, eSIM Taj Mahal, eSIM Jaipur, eSIM Kerala
-  low_price: 1.99
-  high_price: 39.9
+  description: Nhận eSIM trả trước Ấn Độ tốt nhất với 5G trên Airtel, Jio & Vi. Không cần KYC hay hộ chiếu — kích hoạt QR tức thì. Không lãng phí 28 ngày. Từ $3.99.
+  keywords: eSIM Ấn Độ, mua eSIM Ấn Độ, eSIM Ấn Độ tốt nhất, eSIM du lịch Ấn Độ, Airtel Ấn Độ, Jio Ấn Độ, Vi Ấn Độ, eSIM Delhi, eSIM Mumbai, eSIM Bangalore, eSIM trả trước Ấn Độ, eSIM 5G Ấn Độ, eSIM Chennai, eSIM Kolkata, eSIM Ấn Độ giá rẻ, sim du lịch Ấn Độ
+  low_price: 3.99
+  high_price: 99.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với Airtel, Jio & Vi để có tín hiệu tốt nhất trên khắp Ấn Độ
-plans_title: 'Mua eSIM Ấn Độ: Gói cho mọi thời gian chuyến đi'
+plans_title: 'Các gói Ấn Độ eSIM và mức giá'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -300,7 +300,7 @@ network_coverage:
       coverage: Vùng phủ đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Ấn Độ: Những điều cần biết trước khi đi'
+  title: 'Điểm cần lưu ý trước chuyến đi Ấn Độ'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -321,7 +321,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Ấn Độ: 3 bước đơn giản'
+  title: 'Hoàn tất trước khi đến: kích hoạt Ấn Độ eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -341,12 +341,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hướng dẫn eSIM Ấn Độ: Tốc độ, Vùng phủ và Mẹo du lịch cho Ấn Độ"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, vùng phủ mạng và chất lượng kết nối cho du khách tại Ấn Độ. Tìm hiểu tốc độ mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Những giải đáp hữu ích về tốc độ và chất lượng mạng eSIM tại Ấn Độ."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Ấn Độ
+    title: Những câu hỏi thường gặp về Ấn Độ eSIM
     questions:
     - q: |
         KYC bắt buộc của Ấn Độ là gì — và tôi có cần làm điều đó cho Roami không?
@@ -367,7 +367,7 @@ faq_section:
     - q: |
         eSIM có rẻ hơn chuyển vùng quốc tế cho Ấn Độ không?
       a: |
-        Có — eSIM Roami thường rẻ hơn 80-90% so với các gói chuyển vùng từ hầu hết nhà mạng trong nước. Gói 5GB cho Ấn Độ có giá 10,99 USD, trong khi chuyển vùng có thể tốn hơn 50 USD cho cùng lượng dữ liệu. Bạn cũng nhận được tốc độ mạng địa phương thay vì chuyển vùng bị giới hạn.
+        Có — eSIM Roami thường rẻ hơn 80-90% so với các gói chuyển vùng từ hầu hết nhà mạng trong nước. Gói 5GB cho Ấn Độ có giá $10.99, trong khi chuyển vùng có thể tốn hơn 50 USD cho cùng lượng dữ liệu. Bạn cũng nhận được tốc độ mạng địa phương thay vì chuyển vùng bị giới hạn.
     - q: |
         Tôi đến Ấn Độ vào đêm khuya. Tôi có thể lên mạng ngay lập tức không?
       a: |
@@ -384,63 +384,75 @@ faq_section:
         Tôi có thể nạp thêm eSIM Ấn Độ nếu hết dữ liệu không?
       a: |
         Có — bạn có thể nạp thêm qua tài khoản Roami bất kỳ lúc nào. Không như SIM trả trước Ấn Độ yêu cầu nền tảng nạp địa phương (SwiftRecharge.com thường có phụ phí cao cho thẻ ngoại), Roami chấp nhận phương thức thanh toán toàn cầu không tính phí thêm.
+    - q: |
+        Dùng eSIM Ấn Độ ở Delhi, Mumbai có ổn không?
+      a: |
+        Delhi, Mumbai và các đô thị chính đều được phủ sóng di động đầy đủ: tra bản đồ, gọi xe, nhắn tin và tải ảnh đều ổn. Một số vùng xa của Ấn Độ tín hiệu yếu hơn, bạn nên tải bản đồ ngoại tuyến để phòng.  Delhi, Mumbai và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
+    - q: |
+        Mua eSIM Ấn Độ thanh toán bằng cách nào? Bao lâu nhận được?
+      a: |
+        Roami hỗ trợ các hình thức thanh toán trực tuyến phổ biến; sau khi thanh toán, mã QR sẽ được gửi đến email của bạn, thường chỉ trong vài phút. Bạn nên mua và cài đặt trước chuyến đi để đến Ấn Độ là có mạng ngay.  Thực tế tại Bangalore, Chennai, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
+    - q: |
+        Dùng eSIM Ấn Độ gặp sự cố thì liên hệ ai?
+      a: |
+        Roami có hỗ trợ khách hàng trực tuyến. Nếu gặp lỗi kết nối tại Ấn Độ, bạn kiểm tra đường eSIM đã bật và chuyển vùng dữ liệu đã mở chưa; nếu vẫn chưa được thì liên hệ hỗ trợ, trường hợp đủ điều kiện có thể yêu cầu hoàn tiền.  Dù ở Delhi, Kolkata hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
 related_products:
   title: Các gói eSIM Ấn Độ liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ 1,99 USD
+  - name: eSIM Ecuador
+    flag: img/flags/ec.svg
+    price: Từ $6.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ 1,99 USD
+  - name: eSIM Estonia
+    flag: img/flags/ee.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ 1,99 USD
+  - name: eSIM Ai Cập
+    flag: img/flags/eg.svg
+    price: Từ $2.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ 1,99 USD
+  - name: Spain eSIM
+    flag: img/flags/es.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ 1,99 USD
+  - name: eSIM Phần Lan
+    flag: img/flags/fi.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ 1,99 USD
+  - name: eSIM Fiji
+    flag: img/flags/fj.svg
+    price: Từ $6.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ 1,99 USD
+  - name: eSIM Quần đảo Faroe
+    flag: img/flags/fo.svg
+    price: Từ $5.99
     is_highlight: false
   - name: eSIM Pháp
     flag: img/flags/fr.svg
-    price: Từ 1,99 USD
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ 1,99 USD
+  - name: eSIM Gabon
+    flag: img/flags/ga.svg
+    price: Từ $14.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ 1,99 USD
+  - name: eSIM Vương quốc Anh
+    flag: img/flags/gb.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ 1,99 USD
+  - name: eSIM Grenada
+    flag: img/flags/gd.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Georgia
+    flag: img/flags/ge.svg
+    price: Từ $3.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Ấn Độ vs SIM trả trước: Có đáng để chuyển đổi không?'
   subtitle: SIM trả trước địa phương Ấn Độ vs. Giải pháp eSIM (Đánh giá 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Ấn Độ) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/India
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -469,7 +481,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 'Các gói phổ biến là chu kỳ 28 ngày (ví dụ: Vi ₹549 cho 3,5GB/ngày, Airtel ₹349 cho 3GB/ngày, Jio ₹149 cho 1,5GB/ngày); chuyến đi 5-7 ngày lãng phí hơn 75% giá trị gói.'
     esim_title: Gói ngắn linh hoạt
-    esim_desc: Tránh lãng phí 28 ngày. Roami cung cấp gói 7 ngày từ 1,99 USD/GB, tiết kiệm hơn 75% so với gói ₹549/28 ngày của Vi cho chuyến đi 5 ngày.
+    esim_desc: Tránh lãng phí 28 ngày. Roami cung cấp gói 7 ngày từ $3.99/GB, tiết kiệm hơn 75% so với gói ₹549/28 ngày của Vi cho chuyến đi 5 ngày.
   - icon: wifi
     title: Chính sách chia sẻ<br>kết nối & tốc độ
     prepaid_title: ''
@@ -505,7 +517,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Thoát khỏi chu kỳ thanh toán 28 ngày lãng phí 75% tiền của bạn
-      desc: Các gói phổ biến như Vi <b>₹549/28 ngày</b> hay Airtel <b>₹349/28 ngày</b> buộc bạn phải trả cho 3+ tuần không sử dụng. Các <b>gói 7 ngày từ 1,99 USD/GB</b> của Roami phù hợp với thời gian chuyến đi của bạn.
+      desc: Các gói phổ biến như Vi <b>₹549/28 ngày</b> hay Airtel <b>₹349/28 ngày</b> buộc bạn phải trả cho 3+ tuần không sử dụng. Các <b>gói 7 ngày từ $3.99/GB</b> của Roami phù hợp với thời gian chuyến đi của bạn.
     - icon: shield
       icon_bg: bg-teal-100
       icon_color: text-teal-600

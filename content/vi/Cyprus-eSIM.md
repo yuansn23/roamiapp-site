@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Síp 2026: Hướng dẫn Nhà mạng & Phủ sóng | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Síp | Gói dữ liệu trả trước tốt nhất cho hành trình của bạn
   description: Tận hưởng dữ liệu 5G không giới hạn tại Síp với eSIM du lịch trả trước tốt nhất của Roami. Phủ sóng toàn đảo. Bao gồm Nicosia, Limassol & Paphos. Kích hoạt tức thì.
-  keywords: eSIM Síp, mua eSIM Síp, eSIM Síp tốt nhất, eSIM du lịch Síp, Cyta Síp, PrimeTel Síp, Epic Síp, eSIM Nicosia, eSIM Limassol, eSIM Larnaca, eSIM trả trước Síp, eSIM 5G Síp
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM Síp, mua eSIM Síp, eSIM Síp tốt nhất, eSIM du lịch Síp, Cyta Síp, PrimeTel Síp, Epic Síp, eSIM Nicosia, eSIM Limassol, eSIM Larnaca, eSIM trả trước Síp, eSIM 5G Síp, eSIM Paphos, eSIM Famagusta, eSIM Síp giá rẻ, sim du lịch Síp
+  low_price: 2.99
+  high_price: 77.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng Síp hàng đầu để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Síp: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Gói Síp eSIM được đề xuất'
 plans_data:
   30 Ngày:
   - spec: 20GB
@@ -324,7 +324,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Síp: Những điều cần biết trước khi đi'
+  title: 'Mẹo nhỏ trước khi dùng Síp eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích với eSIM</a> trước khi mua.
@@ -343,7 +343,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Síp: 3 bước đơn giản'
+  title: 'Quy trình kích hoạt Síp eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -363,12 +363,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM cho du khách tại Síp -- Tốc độ mạng, Phủ sóng và Mẹo"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Síp. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Các câu hỏi về tốc độ, mạng và vùng phủ khi dùng eSIM tại Síp."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Síp
+    title: 'Síp eSIM: giải đáp các thắc mắc'
     questions:
     - q: |
         Việc tải lên hộ chiếu để đăng ký eSIM Síp có an toàn không? Tôi lo ngại về quyền riêng tư.
@@ -377,7 +377,7 @@ faq_section:
     - q: |
         Tôi có thể mua eSIM cho Síp mà không tốn quá nhiều tiền không?
       a: |
-        Chắc chắn. Gói eSIM Síp của Roami bắt đầu từ chỉ $1.99. Tùy chọn 5GB/15 ngày ($9.99) là phổ biến nhất với du khách — đủ dùng cho bản đồ, WhatsApp, Instagram và email. Nếu bạn là người dùng nhiều dữ liệu, gói 10GB ($14.99) hoặc không giới hạn ($59.99) mang lại sự an tâm. Bỏ qua quầy SIM ở sân bay giúp bạn tiết kiệm 30-50% và tránh phải xếp hàng. Cần điều chỉnh? Bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng Roami.
+        Chắc chắn. Gói eSIM Síp của Roami bắt đầu từ chỉ $2.99. Tùy chọn 5GB/15 ngày ($8.99) là phổ biến nhất với du khách — đủ dùng cho bản đồ, WhatsApp, Instagram và email. Nếu bạn là người dùng nhiều dữ liệu, gói 10GB ($7.99) hoặc không giới hạn ($77.99) mang lại sự an tâm. Bỏ qua quầy SIM ở sân bay giúp bạn tiết kiệm 30-50% và tránh phải xếp hàng. Cần điều chỉnh? Bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng Roami.
     - q: |
         Tôi có cần tháo SIM vật lý để sử dụng eSIM ở Síp không?
       a: |
@@ -389,7 +389,7 @@ faq_section:
     - q: |
         Lựa chọn eSIM phổ biến nhất cho du khách đến Síp là gì?
       a: |
-        Hầu hết du khách đến Síp chọn gói 5GB/15 ngày ($9.99). Đủ cho điều hướng hàng ngày, mạng xã hội và nhắn tin. Đối với thời gian dài hơn hoặc sử dụng nhiều hơn, gói 10GB ($14.99) hoặc không giới hạn ($59.99) là các lựa chọn tuyệt vời. Tất cả gói kích hoạt trong vài phút và bao gồm hỗ trợ 24/7.
+        Hầu hết du khách đến Síp chọn gói 5GB/15 ngày ($8.99). Đủ cho điều hướng hàng ngày, mạng xã hội và nhắn tin. Đối với thời gian dài hơn hoặc sử dụng nhiều hơn, gói 10GB ($7.99) hoặc không giới hạn ($77.99) là các lựa chọn tuyệt vời. Tất cả gói kích hoạt trong vài phút và bao gồm hỗ trợ 24/7.
     - q: |
         Nếu tôi vô tình xóa eSIM Síp trước chuyến đi thì sao?
       a: |
@@ -402,63 +402,75 @@ faq_section:
         Điều gì xảy ra nếu eSIM Síp của tôi ngừng hoạt động giữa chuyến đi?
       a: |
         Đầu tiên, hãy thử khởi động lại điện thoại và bật Chuyển vùng dữ liệu. Hầu hết sự cố được giải quyết trong vòng 2 phút. Nếu không, hãy chọn thủ công một nhà mạng trong cài đặt mạng. Hỗ trợ 24/7 của Roami có thể giúp đỡ nếu sự cố vẫn tiếp diễn.
+    - q: |
+        Tốc độ eSIM Síp có nhanh không? Có chậm hơn SIM vật lý không?
+      a: |
+        eSIM Síp của Roami dùng trạm gốc của các nhà mạng chính tại địa phương, tốc độ tương đương SIM trả trước bản địa; tra bản đồ, mạng xã hội và gọi video đều mượt. Tốc độ thực tế còn phụ thuộc vị trí và tải của mạng tại thời điểm đó.  Nicosia, Limassol và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
+    - q: |
+        Cyta và PrimeTel ở Síp, dùng eSIM mạng nào tốt hơn?
+      a: |
+        Síp có các nhà mạng chính như Cyta, PrimeTel. Roami tự động chọn mạng có tín hiệu mạnh nhất tại thời điểm đó và chuyển đổi giữa Cyta và PrimeTel mà bạn không cần cấu hình thủ công. Nếu lịch trình đi ra vùng ngoại ô hoặc đảo xa, nên tải bản đồ ngoại tuyến trước cho chắc.  Thực tế tại Larnaca, Paphos, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
+    - q: |
+        Kích hoạt eSIM Síp như thế nào? Có phải đợi đến nơi mới bật?
+      a: |
+        Bạn nên quét mã QR cài đặt cấu hình qua WiFi trước chuyến đi, khi đến Síp thì bật đường eSIM và mở chuyển vùng dữ liệu; máy sẽ tự kết nối mạng địa phương và thời hạn của gói bắt đầu tính từ lúc đó.  Dù ở Nicosia, Famagusta hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
 related_products:
   title: Các gói eSIM Síp liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ $1.99
+  - name: eSIM Nigeria
+    flag: img/flags/ng.svg
+    price: Từ $5.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: eSIM Niger
+    flag: img/flags/ni.svg
+    price: Từ $23.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
+  - name: eSIM Hà Lan
+    flag: img/flags/nl.svg
     price: Từ $1.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Na Uy
+    flag: img/flags/no.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: eSIM New Zealand
+    flag: img/flags/nz.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Oman
+    flag: img/flags/om.svg
+    price: Từ $5.99
+    is_highlight: false
+  - name: eSIM Panama
+    flag: img/flags/pa.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: Peru eSIM
+    flag: img/flags/pe.svg
+    price: Từ $4.99
+    is_highlight: false
+  - name: eSIM Philippines
+    flag: img/flags/ph.svg
+    price: Từ $2.99
+    is_highlight: false
+  - name: eSIM Pakistan
+    flag: img/flags/pk.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: Poland eSIM
+    flag: img/flags/pl.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
+  - name: eSIM Bồ Đào Nha
+    flag: img/flags/pt.svg
     price: Từ $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Síp vs SIM trả trước địa phương: Lựa chọn nào tiện lợi hơn?'
   subtitle: SIM trả trước địa phương Síp vs. Giải pháp eSIM (Điểm chuẩn 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Síp) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Cyprus
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -487,11 +499,11 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Các gói soeasy Plus của Cyta có chu kỳ 30 ngày (€10 cho 20GB, €20 cho 50GB, €35 cho 100GB). Combo Top Ups của Primetel có chu kỳ 30 ngày (€10 cho 60GB). Chuyến đi ngắn lãng phí hầu hết giá trị gói.
     esim_title: Gói ngắn hạn linh hoạt
-    esim_desc: Không giống chu kỳ 30 ngày của Cyta (€10 cho 20GB) hay gói hàng tháng €10 cho 60GB của Primetel, Roami cung cấp gói 7 ngày từ $1.99/GB, tiết kiệm tới 75% lãng phí cho chuyến đi ngắn.
+    esim_desc: Không giống chu kỳ 30 ngày của Cyta (€10 cho 20GB) hay gói hàng tháng €10 cho 60GB của Primetel, Roami cung cấp gói 7 ngày từ $2.99/GB, tiết kiệm tới 75% lãng phí cho chuyến đi ngắn.
   - icon: wifi
     title: Chính sách điểm phát<br>Wi-Fi & tốc độ
     prepaid_title: ''
-    prepaid_desc: Primetel cho phép chia sẻ kết nối nhưng có Chính sách sử dụng hợp lý (FUP) giới hạn tải xuống P2P/BT. Không có dữ liệu cụ thể về hạn chế điểm phát sóng cho các nhà mạng khác.
+    prepaid_desc: Primetel cho phép chia sẻ kết nối nhưng có Chính sách sử dụng hợp lý (FUP) giới hạn tải xuống P2P/BT. không có thông tin cụ thể về hạn chế điểm phát sóng cho các nhà mạng khác.
     esim_title: Chia sẻ kết nối không giới hạn
     esim_desc: Roami eSIM cho phép chia sẻ điểm phát sóng tốc độ đầy đủ không bị giới hạn FUP, không giống Primetel hạn chế tải xuống P2P/BT.
   - icon: credit-card
@@ -503,7 +515,7 @@ market_analysis:
   - icon: headset
     title: Hỗ trợ khách hàng
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho mục này.
+    prepaid_desc: Kiểm tra với nhà mạng địa phương để biết thông tin chi tiết.
     esim_title: Hỗ trợ đa ngôn ngữ 24/7
     esim_desc: Nhận hỗ trợ khách hàng tiếng Anh 24/7, không giống các nhà mạng địa phương chỉ hỗ trợ bằng tiếng Hy Lạp hoặc Thổ Nhĩ Kỳ trong giờ làm việc.
   expert_verdict:

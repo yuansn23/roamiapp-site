@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Bắc Macedonia 2026: Hướng dẫn Thành phố & Mạng | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -16,11 +16,11 @@ modal:
   text_default: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIMGo</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
-  title: 'eSIM Bắc Macedonia từ $1.99: Phủ sóng 5G không giới hạn'
-  description: So sánh các gói eSIM Bắc Macedonia với 5G nhanh tại Skopje, Ohrid, Bitola. Hướng dẫn phủ sóng A1 Macedonia & Telekom Macedonia & Lycamobile cho khách du lịch. Kích hoạt mã QR tức thì từ $1.99.
-  keywords: eSIM Bắc Macedonia, mua eSIM Bắc Macedonia, eSIM Bắc Macedonia tốt nhất, eSIM du lịch Bắc Macedonia, A1 Macedonia, Telekom Macedonia, Lycamobile Macedonia, eSIM Skopje, eSIM Ohrid, eSIM Bitola, eSIM trả trước Bắc Macedonia, eSIM 5G Bắc Macedonia
-  low_price: 1.99
-  high_price: 39.9
+  title: 'eSIM Bắc Macedonia từ $4.99: Phủ sóng 5G không giới hạn'
+  description: So sánh các gói eSIM Bắc Macedonia với 5G nhanh tại Skopje, Ohrid, Bitola. Hướng dẫn phủ sóng A1 Macedonia & Telekom Macedonia & Lycamobile cho khách du lịch. Kích hoạt mã QR tức thì từ $4.99.
+  keywords: eSIM Bắc Macedonia, mua eSIM Bắc Macedonia, eSIM Bắc Macedonia tốt nhất, eSIM du lịch Bắc Macedonia, A1 Macedonia Bắc Macedonia, Telekom Macedonia Bắc Macedonia, Lycamobile Bắc Macedonia, eSIM Skopje, eSIM Ohrid, eSIM Bitola, eSIM trả trước Bắc Macedonia, eSIM 5G Bắc Macedonia, eSIM Tetovo, eSIM Kumanovo, eSIM Bắc Macedonia giá rẻ, sim du lịch Bắc Macedonia
+  low_price: 4.99
+  high_price: 94.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng Bắc Macedonia hàng đầu để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Bắc Macedonia: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Mua Bắc Macedonia eSIM: Gói cho Mọi Thời gian Chuyến đi'
 plans_data:
   7 Ngày:
   - spec: 1GB
@@ -177,7 +177,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Bắc Macedonia: Những điều cần biết trước khi đi'
+  title: 'Bí quyết Bắc Macedonia eSIM: cần biết trước khi đi'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích với eSIM</a> trước khi mua.
@@ -196,7 +196,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Bắc Macedonia: 3 bước đơn giản'
+  title: 'Kích hoạt Bắc Macedonia eSIM: 3 bước đơn giản'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -216,12 +216,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM có hoạt động ở mọi nơi tại Bắc Macedonia không? Hướng dẫn phủ sóng thành phố và nông thôn"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Bắc Macedonia. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Bắc Macedonia."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Bắc Macedonia
+    title: Câu hỏi thường gặp về Bắc Macedonia eSIM
     questions:
     - q: |
         Tôi có cần hộ chiếu hay giấy tờ tùy thân để sử dụng eSIM ở Bắc Macedonia không? Quy trình xác minh hoạt động thế nào?
@@ -234,7 +234,7 @@ faq_section:
     - q: |
         Khi tôi mua eSIM Bắc Macedonia từ Roami, những gì được bao gồm?
       a: |
-        Giao mã QR trong vòng 5 phút, truy cập mạng Makedonski Telekom, hỗ trợ khách hàng 24/7 và điểm phát sóng miễn phí cho tối đa 5 thiết bị. Gói bắt đầu từ $1.99. Không hợp đồng, không phí ẩn, không tự động gia hạn.
+        Giao mã QR trong vòng 5 phút, truy cập mạng Makedonski Telekom, hỗ trợ khách hàng 24/7 và điểm phát sóng miễn phí cho tối đa 5 thiết bị. Gói bắt đầu từ $4.99. Không hợp đồng, không phí ẩn, không tự động gia hạn.
     - q: |
         Cách dễ nhất để luôn kết nối ở Bắc Macedonia mà không cần đến quầy SIM sân bay là gì?
       a: |
@@ -255,55 +255,67 @@ faq_section:
         Điều gì xảy ra nếu tôi sử dụng hết dữ liệu ở Bắc Macedonia trước khi gói hết hạn?
       a: |
         Nạp thêm từ ứng dụng Roami. Dữ liệu mới kích hoạt ngay lập tức — không cần mã QR mới, không cần cài đặt lại. Chúng tôi khuyên bạn nên nạp thêm khi còn khoảng 20% để tránh bị gián đoạn.
+    - q: |
+        Đi Bắc Macedonia vài ngày thì nên chọn gói eSIM dung lượng bao nhiêu?
+      a: |
+        eSIM Bắc Macedonia của Roami có các mức 1GB, Không giới hạn, 10GB, 5GB, 3GB, 20GB. Chuyến ngắn, chỉ tra bản đồ và nhắn tin thì 1GB là đủ; nếu xem video ngắn, gọi video hoặc chia sẻ hotspot, bạn nên chọn mức cao hơn một bậc. Nếu chưa chắc về nhu cầu, có thể mua gói nhỏ rồi nạp thêm trong ứng dụng sau khi đến Bắc Macedonia, không cần đổi SIM.  Các thành phố lớn như Skopje, Ohrid đều có phủ sóng ổn định cho nhu cầu hằng ngày.
+    - q: |
+        Kích hoạt eSIM Bắc Macedonia như thế nào? Có phải đợi đến nơi mới bật?
+      a: |
+        Bạn nên quét mã QR cài đặt cấu hình qua WiFi trước chuyến đi, khi đến Bắc Macedonia thì bật đường eSIM và mở chuyển vùng dữ liệu; máy sẽ tự kết nối mạng địa phương và thời hạn của gói bắt đầu tính từ lúc đó.  Tại khu vực Bitola, Tetovo, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
+    - q: |
+        Đến sân bay ở Bắc Macedonia là dùng được internet ngay chứ?
+      a: |
+        Được. Chỉ cần cài eSIM trước, sau khi hạ cánh tắt chế độ máy bay và bật đường eSIM, thường chỉ vài chục giây là kết nối được mạng địa phương, không cần xếp hàng mua SIM vật lý ở sân bay Bắc Macedonia.  Skopje, Kumanovo và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
 related_products:
   title: Các gói eSIM liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
+  - name: eSIM Croatia
+    flag: img/flags/hr.svg
     price: Từ $1.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
+  - name: eSIM Hungary
+    flag: img/flags/hu.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
+  - name: eSIM Indonesia
+    flag: img/flags/id.svg
     price: Từ $1.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Ireland
+    flag: img/flags/ie.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: eSIM Israel
+    flag: img/flags/il.svg
+    price: Từ $2.99
+    is_highlight: false
+  - name: eSIM Ấn Độ
+    flag: img/flags/in.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Iraq
+    flag: img/flags/iq.svg
+    price: Từ $9.99
+    is_highlight: false
+  - name: eSIM Iceland
+    flag: img/flags/is.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
+  - name: eSIM Ý
+    flag: img/flags/it.svg
     price: Từ $1.99
+    is_highlight: false
+  - name: eSIM Jamaica
+    flag: img/flags/jm.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Jordan
+    flag: img/flags/jo.svg
+    price: Từ $6.99
     is_highlight: false
   - name: eSIM Nhật Bản
     flag: img/flags/jp.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
     price: Từ $1.99
     is_highlight: false
 ---

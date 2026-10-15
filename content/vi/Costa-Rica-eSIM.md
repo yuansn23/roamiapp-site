@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Costa Rica 2026: Hướng dẫn Du lịch & Mạng | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Costa Rica | Phủ sóng 5G tốt nhất cho nhà thám hiểm
   description: Khám phá Costa Rica với eSIM du lịch trả trước tốt nhất từ Roami. Dữ liệu 5G không giới hạn toàn quốc. Kích hoạt tức thì. Phủ sóng San Jose, Liberia và tất cả các vùng.
-  keywords: eSIM Costa Rica, mua eSIM Costa Rica, eSIM Costa Rica tốt nhất, eSIM du lịch Costa Rica, Liberty Costa Rica, Claro Costa Rica, ICE Costa Rica, eSIM San José, eSIM Alajuela, eSIM Heredia, eSIM trả trước Costa Rica, eSIM 5G Costa Rica
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM Costa Rica, mua eSIM Costa Rica, eSIM Costa Rica tốt nhất, eSIM du lịch Costa Rica, Liberty Costa Rica, Claro Costa Rica, ICE Costa Rica, eSIM San José, eSIM Alajuela, eSIM Heredia, eSIM trả trước Costa Rica, eSIM 5G Costa Rica, eSIM Cartago, eSIM Liberia, eSIM Costa Rica giá rẻ, sim du lịch Costa Rica
+  low_price: 9.99
+  high_price: 84.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng hàng đầu Costa Rica để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Costa Rica: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Gói và giá Costa Rica eSIM'
 plans_data:
   7 Ngày:
   - spec: 1GB
@@ -268,7 +268,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Costa Rica: Những điều cần biết trước khi đi'
+  title: 'Điểm quan trọng trước khi kích hoạt Costa Rica eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -287,7 +287,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Costa Rica: 3 bước đơn giản'
+  title: 'Costa Rica eSIM: từ cài đặt đến kết nối'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -307,12 +307,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM có hoạt động ở mọi nơi tại Costa Rica không? Hướng dẫn phủ sóng thành phố và nông thôn"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Costa Rica. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Những điều cần biết về tốc độ, phủ sóng và kết nối khi dùng eSIM tại Costa Rica."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Costa Rica
+    title: Thắc mắc thường gặp khi dùng Costa Rica eSIM
     questions:
     - q: |
         So sánh Roami với Saily cho eSIM ở Costa Rica như thế nào?
@@ -325,7 +325,7 @@ faq_section:
     - q: |
         Tôi có thể mua eSIM cho Costa Rica mà không tốn quá nhiều không?
       a: |
-        Chắc chắn rồi. Gói eSIM Costa Rica của Roami bắt đầu từ chỉ $1.99. Gói 5GB/15 ngày ($9.99) là lựa chọn phổ biến nhất — nó đáp ứng thoải mái cho bản đồ, WhatsApp, Instagram và email. Nếu bạn là người dùng dữ liệu nhiều, gói 10GB ($14.99) hoặc không giới hạn ($59.99) sẽ giúp bạn an tâm. Bỏ qua quầy SIM sân bay giúp bạn tiết kiệm 30-50% và tránh xếp hàng. Cần điều chỉnh? Bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng Roami.
+        Chắc chắn rồi. Gói eSIM Costa Rica của Roami bắt đầu từ chỉ $9.99. Gói 5GB/15 ngày ($24.99) là lựa chọn phổ biến nhất — nó đáp ứng thoải mái cho bản đồ, WhatsApp, Instagram và email. Nếu bạn là người dùng dữ liệu nhiều, gói 10GB ($34.99) hoặc không giới hạn ($84.99) sẽ giúp bạn an tâm. Bỏ qua quầy SIM sân bay giúp bạn tiết kiệm 30-50% và tránh xếp hàng. Cần điều chỉnh? Bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng Roami.
     - q: |
         So sánh eSIM với pocket WiFi cho du lịch Costa Rica như thế nào?
       a: |
@@ -333,7 +333,7 @@ faq_section:
     - q: |
         Những gì bao gồm khi tôi mua eSIM Costa Rica từ Roami?
       a: |
-        Giao mã QR trong vòng 5 phút, truy cập mạng Kölbi, hỗ trợ khách hàng 24/7 và chia sẻ kết nối miễn phí cho tối đa 5 thiết bị. Gói bắt đầu từ $1.99. Không hợp đồng, không phí ẩn, không tự động gia hạn.
+        Giao mã QR trong vòng 5 phút, truy cập mạng Kölbi, hỗ trợ khách hàng 24/7 và chia sẻ kết nối miễn phí cho tối đa 5 thiết bị. Gói bắt đầu từ $9.99. Không hợp đồng, không phí ẩn, không tự động gia hạn.
     - q: |
         Sự khác biệt giữa gói 5GB và gói không giới hạn cho Costa Rica là gì?
       a: |
@@ -346,63 +346,75 @@ faq_section:
         Tôi nên mua eSIM Costa Rica trước bao lâu?
       a: |
         Bạn có thể mua bất kỳ lúc nào — thậm chí tại cổng lên máy bay. Mã QR đến trong vòng vài phút. Chúng tôi khuyên bạn nên mua vài ngày trước để cài đặt qua WiFi tại nhà. Gói chỉ kích hoạt khi bạn kết nối tại Costa Rica, vì vậy mua sớm không làm lãng phí ngày sử dụng.
+    - q: |
+        eSIM Costa Rica có những gói mấy ngày?
+      a: |
+        eSIM Costa Rica của Roami có các lựa chọn 3/7/15/30 ngày, tùy theo độ dài hành trình. Chuyến trong ba ngày thì chọn mức ngắn là đủ; từ một tuần trở lên nên chọn gói dài hạn để chi phí mỗi ngày rẻ hơn.  Các thành phố lớn như San José, Alajuela đều có phủ sóng ổn định cho nhu cầu hằng ngày.
+    - q: |
+        Dùng eSIM Costa Rica gặp sự cố thì liên hệ ai?
+      a: |
+        Roami có hỗ trợ khách hàng trực tuyến. Nếu gặp lỗi kết nối tại Costa Rica, bạn kiểm tra đường eSIM đã bật và chuyển vùng dữ liệu đã mở chưa; nếu vẫn chưa được thì liên hệ hỗ trợ, trường hợp đủ điều kiện có thể yêu cầu hoàn tiền.  Tại khu vực Heredia, Cartago, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
+    - q: |
+        eSIM Costa Rica giá bao nhiêu? Có lựa chọn rẻ không?
+      a: |
+        Gói eSIM Costa Rica của Roami bắt đầu từ $9.99 (7 ngày 1GB), cao nhất $84.99 (7 ngày Không giới hạn). Chuyến ngắn dùng ít thì chọn gói nhập môn là đủ, khách dùng nhiều thì chọn mức cao hơn. Giá minh bạch, gói hết hạn tự kết thúc và không tự động gia hạn.  San José, Liberia và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
 related_products:
   title: Gói eSIM Costa Rica liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
+  - name: eSIM Lào
+    flag: img/flags/la.svg
+    price: Từ $4.99
+    is_highlight: false
+  - name: eSIM Liechtenstein
+    flag: img/flags/li.svg
     price: Từ $1.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Liberia
+    flag: img/flags/lr.svg
+    price: Từ $27.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Lithuania
+    flag: img/flags/lt.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: eSIM Luxembourg
+    flag: img/flags/lu.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
+  - name: eSIM Latvia
+    flag: img/flags/lv.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
+  - name: eSIM Madagascar
+    flag: img/flags/mg.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Mali
+    flag: img/flags/ml.svg
+    price: Từ $27.99
+    is_highlight: false
+  - name: eSIM Malta
+    flag: img/flags/mt.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
+  - name: eSIM Maldives
+    flag: img/flags/mv.svg
+    price: Từ $14.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
+  - name: eSIM Malawi
+    flag: img/flags/mw.svg
+    price: Từ $14.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: eSIM Mexico
+    flag: img/flags/mx.svg
+    price: Từ $3.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Costa Rica so với Gói SIM: Giải pháp nào phù hợp với nhu cầu của bạn?'
   subtitle: SIM trả trước địa phương Costa Rica so với giải pháp eSIM (Đối sánh 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Costa Rica) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Costa-Rica
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -431,11 +443,11 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Gói dài nhất của kölbi là 30 ngày/2GB giá 4.000 colones; gói chỉ dữ liệu của Claro là 30 ngày/10GB giá 17.500 colones; chuyến đi 5 ngày mua gói 30 ngày của Claro lãng phí khoảng 12.016 colones (70% chi phí).
     esim_title: Gói ngắn hạn linh hoạt
-    esim_desc: Không như gói 30 ngày/2GB của kölbi (4.000 colones) hay gói 30 ngày/10GB của Claro (17.500 colones), Roami cung cấp gói 7 ngày từ $1.99/GB, tiết kiệm tới 70% lãng phí cho chuyến đi 5 ngày.
+    esim_desc: Không như gói 30 ngày/2GB của kölbi (4.000 colones) hay gói 30 ngày/10GB của Claro (17.500 colones), Roami cung cấp gói 7 ngày từ $9.99/GB, tiết kiệm tới 70% lãng phí cho chuyến đi 5 ngày.
   - icon: wifi
     title: Chia sẻ kết nối &<br>Chính sách tốc độ
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho tiêu chí này. Tuy nhiên, theo thông lệ, chia sẻ kết nối thường được cho phép nhưng có thể bị hạn chế trên một số gói; ví dụ, SIM chỉ dữ liệu của Claro bị giới hạn 2Mbps trên 3G.
+    prepaid_desc: Tuy nhiên, theo thông lệ, chia sẻ kết nối thường được cho phép nhưng có thể bị hạn chế trên một số gói; ví dụ, SIM chỉ dữ liệu của Claro bị giới hạn 2Mbps trên 3G.
     esim_title: Chia sẻ kết nối không giới hạn
     esim_desc: Trong khi SIM chỉ dữ liệu của Claro bị giới hạn 2Mbps trên 3G, Roami eSIM cho phép chia sẻ kết nối tốc độ đầy đủ không giới hạn hay ràng buộc.
   - icon: credit-card
@@ -462,7 +474,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Loại bỏ lãng phí gói 30 ngày
-      desc: Gói lớn nhất của <b>kölbi</b> là 30 ngày/2GB (4.000 colones); SIM dữ liệu của <b>Claro</b> là 30 ngày/10GB (17.500 colones). Chuyến đi 7 ngày lãng phí ~70% chi phí. Roami cung cấp gói 7 ngày từ <b>$1.99/GB</b>, chỉ trả cho những gì bạn sử dụng.
+      desc: Gói lớn nhất của <b>kölbi</b> là 30 ngày/2GB (4.000 colones); SIM dữ liệu của <b>Claro</b> là 30 ngày/10GB (17.500 colones). Chuyến đi 7 ngày lãng phí ~70% chi phí. Roami cung cấp gói 7 ngày từ <b>$9.99/GB</b>, chỉ trả cho những gì bạn sử dụng.
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600

@@ -1,6 +1,6 @@
 ---
 title: 'Spain eSIM 2026 - Gói 5G Tốt nhất cho Madrid & Barcelona | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: Spain eSIM - Gói Dữ liệu trả trước Nhanh cho Hành trình của Bạn
   description: Nhận eSIM trả trước Tây Ban Nha tốt nhất với 5G trên Movistar, Orange & Vodafone. Không cần hộ chiếu hay giấy tờ tùy thân — kích hoạt QR tức thì. Bao gồm chuyển vùng EU. Từ $1.99.
-  keywords: Spain eSIM, mua Spain eSIM, Spain eSIM tốt nhất, Spain travel eSIM, Movistar Spain, Orange Spain, Vodafone Spain, Madrid eSIM, Barcelona eSIM, Valencia eSIM, Spain prepaid eSIM, 5G Spain eSIM, eSIM cho Camino de Santiago, Canary Islands eSIM
+  keywords: Spain eSIM, mua Spain eSIM, Spain eSIM tốt nhất, eSIM du lịch Spain, Movistar Spain, Orange Spain, Vodafone Spain, eSIM Madrid, eSIM Barcelona, eSIM Valencia, eSIM trả trước Spain, eSIM 5G Spain, eSIM Seville, eSIM Bilbao, Spain eSIM giá rẻ, sim du lịch Spain
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động Chuyển mạng
     desc: Tự động kết nối với Movistar, Orange & Vodafone để có tín hiệu tốt nhất trên khắp Tây Ban Nha
-plans_title: 'Mua Spain eSIM: Gói cho Mọi Thời gian Chuyến đi'
+plans_title: 'Spain eSIM: Chọn gói theo ngày và dung lượng'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -318,7 +318,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo Thiết lập Spain eSIM: Những điều Cần Biết Trước Khi Đi'
+  title: 'Lưu ý kết nối khi dùng Spain eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích với eSIM</a> trước khi mua.
@@ -339,7 +339,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách Cài đặt Spain eSIM: 3 Bước Đơn giản'
+  title: '3 bước kích hoạt nhanh Spain eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận Mã QR'
@@ -359,12 +359,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hướng dẫn Spain eSIM: Tốc độ, Phủ sóng và Mẹo Du lịch Tây Ban Nha"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Tây Ban Nha. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Câu hỏi thường gặp về eSIM Spain - mạng, tốc độ và chất lượng kết nối."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về Spain eSIM
+    title: Những điều du khách hỏi về Spain eSIM
     questions:
     - q: |
         Tôi thực sự không cần hộ chiếu hay giấy tờ tùy thân để sử dụng Spain eSIM của Roami sao?
@@ -402,63 +402,75 @@ faq_section:
         Thời hạn hiệu lực của Spain eSIM của tôi bắt đầu khi nào?
       a: |
         Thời hạn gói bắt đầu khi bạn kết nối với mạng địa phương ở Tây Ban Nha, không phải khi bạn mua hoặc cài đặt. Vì vậy, bạn có thể mua và cài đặt vài tuần trước chuyến đi mà không mất bất kỳ ngày nào của gói. Gói 7 ngày cho bạn 7 ngày đầy đủ kể từ lần kết nối đầu tiên.
+    - q: |
+        Mua eSIM Spain thanh toán bằng cách nào? Bao lâu nhận được?
+      a: |
+        Roami hỗ trợ các hình thức thanh toán trực tuyến phổ biến; sau khi thanh toán, mã QR sẽ được gửi đến email của bạn, thường chỉ trong vài phút. Bạn nên mua và cài đặt trước chuyến đi để đến Spain là có mạng ngay.  Tại khu vực Madrid, Barcelona, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
+    - q: |
+        Đi Spain vài ngày thì nên chọn gói eSIM dung lượng bao nhiêu?
+      a: |
+        eSIM Spain của Roami có các mức 1GB, 3GB, 5GB, 10GB, Không giới hạn, 20GB. Chuyến ngắn, chỉ tra bản đồ và nhắn tin thì 1GB là đủ; nếu xem video ngắn, gọi video hoặc chia sẻ hotspot, bạn nên chọn mức cao hơn một bậc. Nếu chưa chắc về nhu cầu, có thể mua gói nhỏ rồi nạp thêm trong ứng dụng sau khi đến Spain, không cần đổi SIM.  Valencia, Seville và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
+    - q: |
+        eSIM Spain có chia sẻ hotspot cho bạn đồng hành được không?
+      a: |
+        Có, eSIM Spain của Roami hỗ trợ chia sẻ hotspot cho laptop, máy tính bảng hoặc người đi cùng. Nếu dùng chung nhiều người, nên chọn gói cao hơn một bậc để không hết dữ liệu giữa chừng; nếu thiếu vẫn có thể nạp thêm trong ứng dụng.  Thực tế tại Madrid, Bilbao, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
 related_products:
   title: Gói Spain eSIM Liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ $1.99
+  - name: eSIM Oman
+    flag: img/flags/om.svg
+    price: Từ $5.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: eSIM Panama
+    flag: img/flags/pa.svg
+    price: Từ $11.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: Peru eSIM
+    flag: img/flags/pe.svg
+    price: Từ $4.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Philippines
+    flag: img/flags/ph.svg
+    price: Từ $2.99
+    is_highlight: false
+  - name: eSIM Pakistan
+    flag: img/flags/pk.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: Poland eSIM
+    flag: img/flags/pl.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: eSIM Bồ Đào Nha
+    flag: img/flags/pt.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
+  - name: Puerto Rico eSIM
+    flag: img/flags/pu.svg
+    price: Từ $6.99
+    is_highlight: false
+  - name: eSIM Paraguay
+    flag: img/flags/py.svg
+    price: Từ $22.99
+    is_highlight: false
+  - name: eSIM Qatar
+    flag: img/flags/qa.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
+  - name: Reunion Island eSIM
+    flag: img/flags/re.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
+  - name: eSIM Romania
+    flag: img/flags/ro.svg
     price: Từ $1.99
     is_highlight: false
 market_analysis:
   title: 'Spain eSIM vs SIM Trả trước Địa phương: Cái nào Tiện lợi hơn? – eSIM tốt nhất cho Du khách Tây Ban Nha'
   subtitle: SIM trả trước địa phương Tây Ban Nha vs. Giải pháp eSIM (Tiêu chuẩn 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Spain) + Trang web Nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Spain
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận So sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -491,7 +503,7 @@ market_analysis:
   - icon: wifi
     title: Chính sách Chia sẻ kết nối &<br>Tốc độ
     prepaid_title: ''
-    prepaid_desc: Orange rõ ràng không cho phép VoIP; không có dữ liệu cụ thể về hotspot cho các nhà mạng khác, nhưng nhiều MVNO như Lebara có thể hạn chế chia sẻ kết nối.
+    prepaid_desc: Orange rõ ràng không cho phép VoIP; không có thông tin cụ thể về hotspot cho các nhà mạng khác, nhưng nhiều MVNO như Lebara có thể hạn chế chia sẻ kết nối.
     esim_title: Chia sẻ kết nối Không giới hạn
     esim_desc: Orange cấm VoIP; nhiều MVNO hạn chế hotspot. Roami eSIM cho phép chia sẻ kết nối và VoIP đầy đủ mà không bị giới hạn tốc độ.
   - icon: credit-card

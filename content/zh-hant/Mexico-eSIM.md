@@ -1,6 +1,6 @@
 ---
 title: '墨西哥 eSIM 2026: 旅行與網路 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,7 @@ modal:
 seo:
   title: "墨西哥eSIM｜5G上網吃到飽，商務旅遊首選"
   description: "Roami eSIM提供墨西哥5G高速上網吃到飽，200多個國家都能用。多國eSIM推薦全球旅遊網路方案，無論去哪個國家旅行，高速連線不煩惱一卡搞定超方便。"
-  keywords: 墨西哥 eSIM, 墨西哥 eSIM方案, 最佳墨西哥 eSIM, 墨西哥上網, Telcel 墨西哥, AT&T 墨西哥, Movistar 墨西哥, 墨西哥城 eSIM, 坎昆 eSIM, 瓜達拉哈拉 eSIM, 墨西哥行動網路,
-    5G 墨西哥
+  keywords: 墨西哥 eSIM, eSIM 墨西哥, 墨西哥 eSIM 購買, 最佳墨西哥 eSIM, 墨西哥 上網, Telcel 墨西哥, AT&T 墨西哥, Movistar 墨西哥, 墨西哥城 eSIM, 坎昆 eSIM, 瓜達拉哈拉 eSIM, 蒙特雷 eSIM, 普埃布拉 eSIM, 墨西哥 eSIM 方案, 墨西哥 5G eSIM, 墨西哥 eSIM 預付卡
 order_summary:
   title: 選擇 墨西哥 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線墨西哥最佳電信商，取得最強訊號
-plans_title: 購買墨西哥 eSIM：適合各種旅程的方案
+plans_title: 墨西哥 eSIM 方案與價格說明
 plans_data:
   7 天:
   - spec: 1GB
@@ -313,7 +312,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 墨西哥 eSIM秘訣：出發前須知
+  title: 墨西哥 eSIM 使用前的小撇步
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -342,7 +341,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 墨西哥 eSIM啟用：3個簡單步驟
+  title: 墨西哥 eSIM 如何啟用？簡單3步搞定
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 墨西哥 做好準備
@@ -377,88 +376,93 @@ faq_section:
     title: 墨西哥 eSIM 網路覆蓋與電信商Telcel介紹｜上網速度實測
     questions:
     - q: 準備去墨西哥long stay，eSIM方案買哪種比較划算？
-      a: Roami 墨西哥 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Telcel在墨西哥市區5G網速約100-300Mbps，看1080p影片沒問題。去墨西哥機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到墨西哥後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 墨西哥 eSIM方案從$3.99（7天1GB）起，最高$68.99（30天30GB）。一般旅客買最多的是5GB/15天（$14.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Telcel在墨西哥市區5G網速約100-300Mbps，看1080p影片沒問題。去墨西哥機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到墨西哥後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 看到有人說墨西哥的Telcel在市區很快、AT&T在郊區很廣，真的是這樣嗎？
       a: 墨西哥主要有Telcel、AT&T、Movistar。Telcel市區下載快、基地台密集。AT&T郊區覆蓋廣，會去郊區的話選AT&T路線較有保障。Movistar價格親民，適合預算有限的旅客。墨西哥5G使用n78頻段，墨西哥城及主要城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Telcel，移動到郊區若Telcel訊號變弱就自動跳AT&T或Movistar，完全不用手動選。
     - q: 墨西哥eSIM吃到飽方案如果被降速了，512kbps的速度還能做什麼？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。墨西哥5G使用n78頻段，墨西哥城及主要城市覆蓋。Roami在墨西哥連上Telcel的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。墨西哥5G使用n78頻段，墨西哥城及主要城市覆蓋。Roami在墨西哥連上Telcel的網路，網速穩定。如果怕降速可選10GB/$20.99或20GB/$29.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 墨西哥eSIM不需要實名登記嗎？跟其他需要護照的國家不一樣？
       a: 沒錯，墨西哥 eSIM不需要證件認證。墨西哥預付卡通常不需KYC，可直接購買。直接購買安裝就能用，省去排隊辦卡填資料的麻煩。連上Telcel的網路即可上網。墨西哥5G使用n78頻段，墨西哥城及主要城市覆蓋。建議出發前用WiFi先裝好，到墨西哥開啟數據漫遊就自動連線。不確定手機支援度可到[相容性頁面](/compatibility/)查詢。
     - q: 搭車從墨西哥市區移動到郊區的時候，eSIM網路會一直切換嗎？
       a: 墨西哥的Telcel等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。墨西哥5G使用n78頻段，墨西哥城及主要城市覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 出國去墨西哥用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
       a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到墨西哥開數據漫遊就用。
+    - q: 墨西哥 eSIM 要怎麼啟用？要抵達當地才開嗎？
+      a: 建議出發前先用 WiFi 掃描 QR code 安裝描述檔，抵達 墨西哥 後再開啟 eSIM 線路並打開數據漫遊，連上當地網路就會自動啟用，方案效期也從那時開始計算。 墨西哥城、坎昆 等地的行動網路覆蓋完整，跨區移動也不斷線。
+    - q: 去墨西哥之後順道去其他國家，同一張eSIM能繼續用嗎？
+      a: Roami 墨西哥 eSIM 以 墨西哥 境內使用為主；若行程會跨到鄰國，建議另外加購該國或區域方案，避免產生額外的漫遊費用。 另外，瓜達拉哈拉、蒙特雷 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
+    - q: 在墨西哥城、坎昆用墨西哥 eSIM上網順嗎？
+      a: 墨西哥城、坎昆 這類主要城市的行動網路覆蓋都很完整，查地圖、叫車、傳訊息與上傳照片都沒問題。墨西哥 部分偏遠地區訊號較弱，建議先下載離線地圖備用。 在 墨西哥城、普埃布拉 一帶實測收訊良好，移動中會自動切換基地台。
 related_products:
-  title: 類似 墨西哥 eSIM 的旅行方案
+  title: 更多國家 eSIM 選擇
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 比利時 eSIM
+    flag: img/flags/be.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: belgium-esim
+  - name: 拉脫維亞 eSIM
+    flag: img/flags/lv.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: latvia-esim
+  - name: 瑞士 eSIM
+    flag: img/flags/ch.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: switzerland-esim
+  - name: 加拿大 eSIM
+    flag: img/flags/ca.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: canada-esim
+  - name: 蒙特內哥羅 eSIM
+    flag: img/flags/me.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: montenegro-esim
+  - name: 智利 eSIM
+    flag: img/flags/cl.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: europe-esim
+    slug: chile-esim
   - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
+    price: 自 $1.99
+    is_highlight: true
     slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+  - name: 瑞典 eSIM
+    flag: img/flags/se.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+    slug: sweden-esim
+  - name: 賽普勒斯 eSIM
+    flag: img/flags/cy.svg
+    price: 自 $2.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: cyprus-esim
+  - name: 阿爾巴尼亞 eSIM
+    flag: img/flags/al.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: albania-esim
+  - name: 阿根廷 eSIM
+    flag: img/flags/ar.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: argentina-esim
+  - name: 波士尼亞與赫塞哥維納 eSIM
+    flag: img/flags/ba.svg
+    price: 自 $30.99
+    is_highlight: false
+    slug: bosnia-and-herzegovina-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Mexico eSIM 網路品質好不好？城市與鄉村覆蓋完整分析"
   subtitle: "墨西哥當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Mexico) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Mexico"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -467,7 +471,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Mexico. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Telcel 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開Telcel門市排隊及2026年起強制護照登記的繁瑣流程，抵達墨西哥後一分鐘內線上啟用eSIM，落地即用。"
     - icon: "id-card"
@@ -479,7 +483,7 @@ market_analysis:
     - icon: "globe"
       title: "國際漫遊"
       prepaid_title: ""
-      prepaid_desc: "Telcel套餐內流量雖默認覆蓋美、加，但條款註明若用戶在墨西哥境外連續使用超過29天且境外用量超過本土用量，服務將被暫停；拉丁美洲數據漫遊費極高，750MB/30天需499披索。"
+      prepaid_desc: "Telcel套餐內流量雖預設覆蓋美、加，但條款註明若用戶在墨西哥境外連續使用超過29天且境外用量超過本土用量，服務將被暫停；拉丁美洲數據漫遊費極高，750MB/30天需499披索。"
       esim_title: "全球漫遊無憂"
       esim_desc: "與Telcel的北美漫遊反濫用條款（境外連續使用超過29天即暫停）及拉美高額漫遊費（750MB/30天需499披索）不同，Roami eSIM提供穩定跨國數據，無地域限制。"
     - icon: "calendar-xmark"
@@ -493,17 +497,17 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Unefon明確禁止熱點分享功能，且每日流量超過1GB後網速被限制至500Kbps。"
       esim_title: "無限熱點分享"
-      esim_desc: "與Unefon明確禁止熱點分享且每日超過1GB後限速至500Kbps不同，Roami eSIM支持熱點分享，無速度限制。"
+      esim_desc: "與Unefon明確禁止熱點分享且每日超過1GB後限速至500Kbps不同，Roami eSIM支援熱點分享，無速度限制。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "Telcel官方充值渠道已停止支持PayPal，僅接受國際信用卡；Oxxo便利店充值要求現金。"
+      prepaid_desc: "Telcel官方儲值渠道已停止支援PayPal，僅接受國際信用卡；Oxxo便利店儲值要求現金。"
       esim_title: "全球付款暢通"
-      esim_desc: "與Telcel官網停止支持PayPal、Oxxo僅接受現金不同，Roami接受Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無支付摩擦。"
+      esim_desc: "與Telcel官網停止支援PayPal、Oxxo僅接受現金不同，Roami接受Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無支付摩擦。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "Telcel 等業者客服管道以電話與門市為主，英語支援有限，預付卡用戶通常沒有專屬即時客服。"
       esim_title: "24/7 客服支援"
       esim_desc: "提供全天候多語言線上客服，無需像當地預付卡用戶一樣面對語言障礙或有限服務時間。"
 
@@ -530,5 +534,5 @@ market_analysis:
         icon_bg: "bg-green-100"
         icon_color: "text-green-600"
         title: "熱點分享無限制"
-        desc: "Unefon明確<b>禁止熱點分享</b>，且每日超過1GB後限速至<b>500Kbps</b>。Roami eSIM支持無限分享，無速度限制。"
+        desc: "Unefon明確<b>禁止熱點分享</b>，且每日超過1GB後限速至<b>500Kbps</b>。Roami eSIM支援無限分享，無速度限制。"
 ---

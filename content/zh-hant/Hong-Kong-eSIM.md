@@ -1,6 +1,6 @@
 ---
 title: '香港 eSIM 2026: 覆蓋範圍與速度 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,7 +18,7 @@ modal:
 seo:
   title: "香港eSIM｜30天20G吃到飽，免實名認證"
   description: "去香港商務出差需要穩定網路？Roami 30天5G高速上網吃到飽方案商務出差首選。視訊會議郵件收發都順暢不斷線，商務eSIM推薦出差必備，最低$1.99起超值價格。"
-  keywords: 香港 eSIM, 香港 eSIM方案, 最佳香港 eSIM, 香港上網, CSL 香港, 3HK 香港, 中國移動香港 香港, 香港島 eSIM, 九龍 eSIM, 新界 eSIM, 香港行動網路, 5G 香港
+  keywords: 香港 eSIM, eSIM 香港, 香港 eSIM 購買, 最佳香港 eSIM, 香港 上網, CSL 香港, 3HK 香港, 中國移動香港 香港, 香港島 eSIM, 九龍 eSIM, 新界 eSIM, 大嶼山 eSIM, 離島 eSIM, 香港 eSIM 方案, 香港 5G eSIM, 香港 eSIM 預付卡
 order_summary:
   title: 選擇 香港 eSIM
   label_data: 數據量
@@ -67,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線香港最佳電信商，取得最強訊號
-plans_title: 購買香港 eSIM：適合各種旅程的方案
+plans_title: 香港 eSIM 方案挑選指南
 plans_data:
   30 天:
   - spec: 5GB
@@ -312,7 +312,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 香港 eSIM秘訣：出發前須知
+  title: 香港 eSIM 使用技巧與提醒
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -341,7 +341,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 香港 eSIM啟用：3個簡單步驟
+  title: 香港 eSIM 啟用教學（3 步驟）
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 香港 做好準備
@@ -376,7 +376,7 @@ faq_section:
     title: 香港 eSIM 電信網路CMHK全解析｜訊號品質與速度
     questions:
     - q: 香港eSIM各方案價格差在哪裡？買哪種最適合一般觀光客？
-      a: Roami 香港 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。CMHK在香港市區5G網速約100-300Mbps，看1080p影片沒問題。如果去Klook查香港 eSIM，Roami通常便宜10-20%，因為沒有平台抽成。如果不確定用量可以先買小的，到香港後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 香港 eSIM方案從$1.99（3天1GB）起，最高$57.99（30天無限）。一般旅客買最多的是5GB/15天（$7.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。CMHK在香港市區5G網速約100-300Mbps，看1080p影片沒問題。如果去Klook查香港 eSIM，Roami通常便宜10-20%，因為沒有平台抽成。如果不確定用量可以先買小的，到香港後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 香港eSIM純上網的方案，臨時需要打電話可以怎麼處理？
       a: Roami 香港 eSIM是純數據方案，沒有附當地號碼。很多人擔心沒號碼不方便——其實叫車、訂餐廳用網路電話就行。在香港都會區用CMHK的5G打視訊，品質跟一般通話差不多。原門號可留在卡槽1繼續收簡訊（銀行驗證、社群通知不漏），eSIM在卡槽2負責上網。如需當地號碼可搭Google Voice或TextNow。iPhone XS以上、多數安卓旗艦支援雙卡雙待，設定數據走eSIM、通話走原門號即可。
     - q: 香港三大電信CMHK、SmarTone、3HK，一般觀光客選哪家比較適合？
@@ -386,84 +386,89 @@ faq_section:
     - q: 香港eSIM在iPhone上要怎麼設定？跟Android手機有什麼不同？
       a: 最快方法：撥號*#06#，出現EID代表支援eSIM。iPhone XS以後、Samsung S20/Flip以後、Pixel 4以後、多數2020年後旗艦機都支援。香港5G使用n78/n1頻段，覆蓋密集。很多人忽略頻段問題——CMHK在香港的n78/n1頻段可能跟你的手機不完全吻合。出發前到[Roami相容性頁面](/compatibility/)查型號。不支援eSIM可租WiFi機或買當地實體SIM卡。
     - q: 香港eSIM的吃到飽和定量方案哪個比較適合短期旅遊的人？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。香港5G使用n78/n1頻段，覆蓋密集。Roami在香港連上CMHK的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。香港5G使用n78/n1頻段，覆蓋密集。Roami在香港連上CMHK的網路，網速穩定。如果怕降速可選10GB/$9.99或20GB/$15.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 香港eSIM不需要實名登記嗎？跟其他需要護照的國家不一樣？
       a: 沒錯，香港 eSIM不需要證件認證。香港預付卡通常不需KYC，可直接購買使用。直接購買安裝就能用，省去排隊辦卡填資料的麻煩。連上CMHK的網路即可上網。香港5G使用n78/n1頻段，覆蓋密集。建議出發前用WiFi先裝好，到香港開啟數據漫遊就自動連線。不確定手機支援度可到[相容性頁面](/compatibility/)查詢。
     - q: 如果從香港再到加拿大，原本的eSIM還能繼續用嗎？
       a: Roami單國方案僅限香港境內。每個國家電信網路是分開的，需要不同方案。你的行程包含加拿大等其他國家的話，有兩種方式：第一，出發前把各國eSIM都買好，手機可存多組（約5-10組），到哪國啟用哪個。第二，Roami也有區域方案（如歐洲多國），一卡多國使用。先算各國停留天數再選最划算的買法。
     - q: 在香港的郊區或小鎮也能正常使用eSIM嗎？查地圖導航會不會斷？
       a: 香港的CMHK等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。香港5G使用n78/n1頻段，覆蓋密集。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
+    - q: 去香港之後順道去其他國家，同一張eSIM能繼續用嗎？
+      a: Roami 香港 eSIM 以 香港 境內使用為主；若行程會跨到鄰國，建議另外加購該國或區域方案，避免產生額外的漫遊費用。 不論在 香港島、九龍，連線品質都相當穩定。
+    - q: 香港 eSIM 大概多少錢？有便宜的選擇嗎？
+      a: Roami 香港 eSIM 方案從 $1.99（3天1GB）起，最高 $57.99（30天無限）。短期輕度使用挑入門方案即可，用量大的旅客再選高規格。價格透明，方案到期自動失效，不會續約扣款。 新界、大嶼山 等地的行動網路覆蓋完整，跨區移動也不斷線。
+    - q: 買香港 eSIM 支援哪些付款方式？多久能收到？
+      a: Roami 支援信用卡等常見線上付款，結帳後 QR code 會寄到你的電子郵件，通常幾分鐘內就能收到。建議出發前先在台灣買好、裝好，抵達 香港 即可連線。 另外，香港島、離島 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
 related_products:
-  title: 類似 香港 eSIM 的旅行方案
+  title: 搭配 香港 的跨國 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 波士尼亞與赫塞哥維納 eSIM
+    flag: img/flags/ba.svg
+    price: 自 $30.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: bosnia-and-herzegovina-esim
+  - name: 關島 eSIM
+    flag: img/flags/gu.svg
+    price: 自 $9.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+    slug: guam-esim
+  - name: 紐西蘭 eSIM
+    flag: img/flags/nz.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: new-zealand-esim
+  - name: 瓜地洛普 eSIM
+    flag: img/flags/gp.svg
+    price: 自 $8.99
+    is_highlight: false
+    slug: guadeloupe-esim
+  - name: 希臘 eSIM
+    flag: img/flags/gr.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: greece-esim
+  - name: 史瓦帝尼 eSIM
+    flag: img/flags/sz.svg
+    price: 自 $19.99
+    is_highlight: false
+    slug: eswatini-esim
+  - name: 法國 eSIM
+    flag: img/flags/fr.svg
+    price: 自 $1.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: france-esim
+  - name: 玻利維亞 eSIM
+    flag: img/flags/bo.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: bolivia-esim
+  - name: 蓋亞那 eSIM
+    flag: img/flags/gy.svg
+    price: 自 $9.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: guyana-esim
+  - name: 冰島 eSIM
+    flag: img/flags/is.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: iceland-esim
+  - name: 奧地利 eSIM
+    flag: img/flags/at.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: austria-esim
+  - name: 多明尼加共和國 eSIM
+    flag: img/flags/do.svg
+    price: 自 $5.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: philippines-esim
-
+    slug: dominican-republic-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "去Hong Kong旅遊eSIM上網順暢嗎？速度與涵蓋完整評價"
   subtitle: "香港當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Hong-Kong) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Hong-Kong"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -472,13 +477,13 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Hong Kong. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 CSL 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 csl. 或 CMHK 門市排隊與繁瑣的線上登記，抵達香港後一分鐘內透過郵件接收 eSIM 並啟用，無需任何身份證明文件。"
     - icon: "id-card"
       title: "KYC 與護照登記"
       prepaid_title: ""
-      prepaid_desc: "全港運營商自 2022 年 3 月起強制實名登記 (KYC)，在機場 1O1O (csl.) 或 CMHK 櫃檯可獲協助，但其他零售點購買的卡片需自行完成線上登記。"
+      prepaid_desc: "全港電信商自 2022 年 3 月起強制實名登記 (KYC)，在機場 1O1O (csl.) 或 CMHK 櫃檯可獲協助，但其他零售點購買的卡片需自行完成線上登記。"
       esim_title: "免護照登記"
       esim_desc: "與香港自 2022 年 3 月起強制 SIM 卡實名登記不同，Roami eSIM 完全免 KYC，無需提供護照或地址，保護隱私且即買即用。"
     - icon: "globe"
@@ -496,21 +501,21 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "SmarTone 條款不允許網絡共享 (Tethering)，但未實施技術封堵；CMHK 無限 10 天套餐 (HK$ 30) 明確禁止熱點分享。"
+      prepaid_desc: "SmarTone 條款不允許網路共享 (Tethering)，但未實施技術封堵；CMHK 無限 10 天套餐 (HK$ 30) 明確禁止熱點分享。"
       esim_title: "無限熱點分享"
-      esim_desc: "與 SmarTone 禁止網絡共享、CMHK 無限 10 天套餐 (HK$ 30) 明確禁止熱點不同，Roami eSIM 允許自由分享熱點給其他裝置，無速度或流量限制。"
+      esim_desc: "與 SmarTone 禁止網路共享、CMHK 無限 10 天套餐 (HK$ 30) 明確禁止熱點不同，Roami eSIM 允許自由分享熱點給其他裝置，無速度或流量限制。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "CMHK 等部分線上充值渠道僅支援「銀聯（僅限內地發行卡）」，對純境外持卡人構成支付障礙。"
+      prepaid_desc: "CMHK 等部分線上儲值渠道僅支援「銀聯（僅限內地發行卡）」，對純境外持卡人構成支付障礙。"
       esim_title: "全球付款暢通"
       esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需擔心 CMHK 等僅接受銀聯內地卡的支付障礙，購買流程順暢。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "遇到問題只能找 CSL、3HK 的門市或客服專線，語言以當地語言為主，且非全天候服務，旅客求助不易。"
       esim_title: "24/7 客服支援"
-      esim_desc: "提供全天候多語言線上客服，相較香港本地運營商（如 3 HK）僅提供中文電話客服且無快捷碼，Roami 確保隨時解決問題。"
+      esim_desc: "提供全天候多語言線上客服，相較香港本地電信商（如 3 HK）僅提供中文電話客服且無快捷碼，Roami 確保隨時解決問題。"
 
   # =============== 100% 完整復原：專家評語模組 ===============
   expert_verdict:

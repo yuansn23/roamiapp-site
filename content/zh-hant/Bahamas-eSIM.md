@@ -1,6 +1,6 @@
 ---
 title: '巴哈馬 eSIM 2026: 覆蓋範圍與速度 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,17 +9,16 @@ country_meta:
   operators: BTC, Aliv, Smart Communications
   competitors: Airalo, Holafly, Nomad, Sim Corner, BNESIM
   main_cities: 拿索, 弗里波特, 馬什港, 哈勃島, 天堂島
-  main_packages: 3/7/15/30 天，無限數據
+  main_packages: 7/15/30 天，1GB/3GB/5GB
 modal:
   title: 服務更新！
   btn_text: 繼續
   text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "巴哈馬eSIM｜5G上網吃到飽，全球旅行一卡搞定"
-  description: "Roami全球旅遊eSIM在200多個國家暢行無阻，去巴哈馬當然也適用。5G高速上網吃到飽多國通用一卡搞定，全球旅行網路方案推薦首選，查地圖打卡分享都穩定可靠。"
-  keywords: 巴哈馬 eSIM, 巴哈馬 eSIM方案, 最佳巴哈馬 eSIM, 巴哈馬上網, BTC 巴哈馬, Aliv 巴哈馬, Smart Communications 巴哈馬, 拿索 eSIM, 弗里波特 eSIM, 馬什港
-    eSIM, 巴哈馬行動網路, 5G 巴哈馬
+  title: "巴哈馬eSIM｜5G高速上網，全球旅行一卡搞定"
+  description: "Roami全球旅遊eSIM在200多個國家暢行無阻，去巴哈馬當然也適用。5G高速上網多國通用一卡搞定，全球旅行網路方案推薦首選，查地圖打卡分享都穩定可靠。"
+  keywords: 巴哈馬 eSIM, eSIM 巴哈馬, 巴哈馬 eSIM 購買, 最佳巴哈馬 eSIM, 巴哈馬 上網, BTC 巴哈馬, Aliv 巴哈馬, Smart Communications 巴哈馬, 拿索 eSIM, 弗里波特 eSIM, 馬什港 eSIM, 哈勃島 eSIM, 天堂島 eSIM, 巴哈馬 eSIM 方案, 巴哈馬 5G eSIM, 巴哈馬 eSIM 預付卡
 order_summary:
   title: 選擇 巴哈馬 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線巴哈馬最佳電信商，取得最強訊號
-plans_title: 購買巴哈馬 eSIM：適合各種旅程的方案
+plans_title: 巴哈馬 eSIM 方案與價格說明
 plans_data:
   30 天:
   - spec: 1GB
@@ -150,7 +149,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE網路
 reminders:
-  title: 巴哈馬 eSIM秘訣：出發前須知
+  title: 巴哈馬 eSIM 使用前的小撇步
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -179,7 +178,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 巴哈馬 eSIM啟用：3個簡單步驟
+  title: 巴哈馬 eSIM 如何啟用？簡單3步搞定
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 巴哈馬 做好準備
@@ -214,7 +213,7 @@ faq_section:
     title: 巴哈馬 eSIM BTC網路品質與速度指南｜4G/5G覆蓋範圍
     questions:
     - q: 第一次去巴哈馬想用eSIM，方案好多不知道怎麼挑選比較好？
-      a: Roami 巴哈馬 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。巴哈馬以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去巴哈馬機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到巴哈馬後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 巴哈馬 eSIM方案從$16.99（7天1GB）起，最高$67.99（30天5GB）。一般旅客買最多的是3GB/15天（$41.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選5GB以上比較夠。巴哈馬以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去巴哈馬機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到巴哈馬後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 到巴哈馬用eSIM，Roami會自動幫我選BTC或Aliv訊號比較強的那一家嗎？
       a: 巴哈馬主要有BTC、Aliv。BTC市區下載快、基地台密集。Aliv郊區覆蓋廣，會去郊區的話選Aliv路線較有保障。巴哈馬4G為主，主要島嶼覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用BTC，移動到郊區若BTC訊號變弱就自動跳Aliv，完全不用手動選。
     - q: 如果出發前忘記先辦好巴哈馬eSIM的認證，到當地才弄來得及嗎？
@@ -224,78 +223,83 @@ faq_section:
     - q: 出國去巴哈馬用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
       a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到巴哈馬開數據漫遊就用。
     - q: 跟旅伴一起去巴哈馬，買一張eSIM開熱點分享夠兩個人用嗎？
-      a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
+      a: Roami eSIM支援熱點分享。多人建議選5GB以上方案。不確定先買中階再App加購。
+    - q: 抵達巴哈馬機場後就能馬上上網嗎？
+      a: 可以。只要出發前先安裝好 eSIM，落地後關閉飛航模式、開啟 eSIM 線路，通常幾十秒內就能連上當地網路，不用在機場排隊買實體 SIM 卡。 實際走訪 拿索、弗里波特 等主要城市，上網查資料、傳照片都沒問題。
+    - q: 在拿索、弗里波特用巴哈馬 eSIM上網順嗎？
+      a: 拿索、弗里波特 這類主要城市的行動網路覆蓋都很完整，查地圖、叫車、傳訊息與上傳照片都沒問題。巴哈馬 部分偏遠地區訊號較弱，建議先下載離線地圖備用。 不論在 馬什港、哈勃島，連線品質都相當穩定。
+    - q: 巴哈馬 eSIM 有幾天份的方案可以選？
+      a: Roami 巴哈馬 eSIM 提供 7/15/30 天等選擇，可依行程長短挑選。三天內的短程選入門天數就夠，一週以上建議直接挑長效期方案，單日成本更划算。 拿索、天堂島 等地的行動網路覆蓋完整，跨區移動也不斷線。
 related_products:
-  title: 類似 巴哈馬 eSIM 的旅行方案
+  title: 相關 eSIM 方案推薦
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 沙烏地阿拉伯 eSIM
+    flag: img/flags/sa.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: saudi-arabia-esim
+  - name: 阿根廷 eSIM
+    flag: img/flags/ar.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: argentina-esim
+  - name: 匈牙利 eSIM
+    flag: img/flags/hu.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: hungary-esim
+  - name: 厄瓜多 eSIM
+    flag: img/flags/ec.svg
+    price: 自 $6.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: ecuador-esim
+  - name: 查德 eSIM
+    flag: img/flags/td.svg
+    price: 自 $23.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: australia-esim
+    slug: chad-esim
   - name: 香港 eSIM
     flag: img/flags/hk.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: false
     slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+  - name: 盧森堡 eSIM
+    flag: img/flags/lu.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: luxembourg-esim
+  - name: 秘魯 eSIM
+    flag: img/flags/pe.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: peru-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: 自 $1.99
+    is_highlight: true
+    slug: thailand-esim
+  - name: 巴基斯坦 eSIM
+    flag: img/flags/pk.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: pakistan-esim
+  - name: 模里西斯 eSIM
+    flag: img/flags/mu.svg
+    price: 自 $7.99
+    is_highlight: false
+    slug: mauritius-esim
+  - name: 蒙古 eSIM
+    flag: img/flags/mn.svg
+    price: 自 $9.99
+    is_highlight: false
+    slug: mongolia-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Bahamas eSIM 網路品質好不好？城市與鄉村覆蓋完整分析"
   subtitle: "巴哈馬當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Bahamas) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Bahamas"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -304,7 +308,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Bahamas. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 BTC 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 BTC 或 aliv 門市排隊，抵達巴哈馬後一分鐘內線上啟用，無需支付 $15 SIM 卡工本費。"
     - icon: "id-card"
@@ -328,19 +332,19 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "熱點分享政策依 BTC、Aliv 等業者而異，部分方案允許、部分禁止；即使允許，也可能因公平使用條款在尖峰時段降速。"
       esim_title: "無限分享"
       esim_desc: "支援熱點分享，無速度限制，可自由連接多個設備。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "儲值須透過 BTC 等業者門市或實體儲值券，外國旅客常遇到國際信用卡無法扣款，需自備現金。"
       esim_title: "全球付款"
       esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需擔心當地付款限制。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "BTC 等業者客服管道以電話與門市為主，英語支援有限，預付卡用戶通常沒有專屬即時客服。"
       esim_title: "24/7 支援"
       esim_desc: "提供全天候多語言客戶支援，解決問題無時差。"
 

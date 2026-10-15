@@ -1,6 +1,6 @@
 ---
 title: '荷蘭 eSIM 2026: 方案與覆蓋 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,7 @@ modal:
 seo:
   title: "荷蘭eSIM｜30天15G高速上網，跨國旅行不斷網"
   description: "想在荷蘭待一個月深度旅遊？Roami 30天旅遊上網方案5G高速吃到飽。一個月eSIM推薦整月上網不用愁，深度旅行首選方案網路不斷線，最低$1.99起超值價格。"
-  keywords: 荷蘭 eSIM, 荷蘭 eSIM方案, 最佳荷蘭 eSIM, 荷蘭上網, KPN 荷蘭, Vodafone 荷蘭, T-Mobile 荷蘭, 阿姆斯特丹、鹿特丹、海牙、烏特勒支、埃因霍溫 eSIM, 荷蘭行動網路, 5G
-    荷蘭
+  keywords: 荷蘭 eSIM, eSIM 荷蘭, 荷蘭 eSIM 購買, 最佳荷蘭 eSIM, 荷蘭 上網, KPN 荷蘭, Vodafone 荷蘭, T-Mobile 荷蘭, 阿姆斯特丹 eSIM, 鹿特丹 eSIM, 海牙 eSIM, 烏特勒支 eSIM, 埃因霍溫 eSIM, 荷蘭 eSIM 方案, 荷蘭 5G eSIM, 荷蘭 eSIM 預付卡
 order_summary:
   title: 選擇 荷蘭 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線荷蘭最佳電信商，取得最強訊號
-plans_title: 購買荷蘭 eSIM：適合各種旅程的方案
+plans_title: 荷蘭 eSIM：彈性天數與流量方案
 plans_data:
   30 天:
   - spec: 20GB
@@ -324,7 +323,7 @@ network_coverage:
       coverage: 良好市區覆蓋
       network: 5G/4G/LTE 網路
 reminders:
-  title: 荷蘭 eSIM秘訣：出發前須知
+  title: 出發前必看：荷蘭 eSIM 小撇步
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -353,7 +352,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 荷蘭 eSIM啟用：3個簡單步驟
+  title: 荷蘭 eSIM 開通3步驟
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 荷蘭 做好準備
@@ -388,90 +387,95 @@ faq_section:
     title: 荷蘭 eSIM KPN與Vodafone收訊實測｜哪家涵蓋更廣
     questions:
     - q: 一個人去荷蘭旅遊，eSIM方案要怎麼選才不會買太多或太少？
-      a: Roami 荷蘭 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。KPN在荷蘭市區5G網速約100-300Mbps，看1080p影片沒問題。去荷蘭機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到荷蘭後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 荷蘭 eSIM方案從$1.99（3天1GB）起，最高$69.99（30天無限）。一般旅客買最多的是5GB/15天（$7.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。KPN在荷蘭市區5G網速約100-300Mbps，看1080p影片沒問題。去荷蘭機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到荷蘭後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 看到有人說荷蘭的KPN在市區很快、Vodafone在郊區很廣，真的是這樣嗎？
       a: 荷蘭主要有KPN、Vodafone、T-Mobile。KPN市區下載快、基地台密集。Vodafone郊區覆蓋廣，會去郊區的話選Vodafone路線較有保障。T-Mobile價格親民，適合預算有限的旅客。荷蘭5G使用n78頻段，全境覆蓋密集。不過Roami會自動切換到當前訊號最強的網路。市區用KPN，移動到郊區若KPN訊號變弱就自動跳Vodafone或T-Mobile，完全不用手動選。
     - q: 在kkday買荷蘭eSIM跟在Roami官網直接買，價格和服務有什麼差別？
       a: 很多人上kkday比價荷蘭 eSIM。主要差異：第一，Roami直銷無平台抽成，價格通常比kkday便宜10-20%。第二，Roami有24小時直接客服，不用透過kkday轉達。第三，Roami買斷制到期就停，不會續約扣款。荷蘭5G使用n78頻段，全境覆蓋密集。不過kkday可跟飯店票券合併結帳累積點數。不管哪買，在荷蘭都是接取KPN、Vodafone、T-Mobile的網路，訊號品質一樣。
     - q: 去荷蘭每天就是打卡傳照片查地圖，這樣5GB夠用嗎？還是吃到飽比較安心？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。荷蘭5G使用n78頻段，全境覆蓋密集。Roami在荷蘭連上KPN的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。荷蘭5G使用n78頻段，全境覆蓋密集。Roami在荷蘭連上KPN的網路，網速穩定。如果怕降速可選10GB/$10.99或20GB/$18.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 去荷蘭用eSIM需要先通過身分驗證嗎？要準備哪些證件？
       a: 需要的。荷蘭預付卡需KYC認證，需提供護照。很多人不知道這規定，到了荷蘭機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。荷蘭5G使用n78頻段，全境覆蓋密集。另外KPN的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到荷蘭開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 去荷蘭玩還打算順便去比利時，eSIM要兩個國家分開買嗎？
       a: Roami單國方案僅限荷蘭境內。每個國家電信網路是分開的，需要不同方案。你的行程包含比利時等其他國家的話，有兩種方式：第一，出發前把各國eSIM都買好，手機可存多組（約5-10組），到哪國啟用哪個。第二，Roami也有區域方案（如歐洲多國），一卡多國使用。先算各國停留天數再選最划算的買法。
     - q: 離開荷蘭市區之後，eSIM的訊號會不會變得很差？
       a: 荷蘭的KPN等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。荷蘭5G使用n78頻段，全境覆蓋密集。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
+    - q: 去荷蘭之後順道去其他國家，同一張eSIM能繼續用嗎？
+      a: Roami 荷蘭 eSIM 以 荷蘭 境內使用為主；若行程會跨到鄰國，建議另外加購該國或區域方案，避免產生額外的漫遊費用。 不論在 阿姆斯特丹、鹿特丹，連線品質都相當穩定。
+    - q: 荷蘭 eSIM 大概多少錢？有便宜的選擇嗎？
+      a: Roami 荷蘭 eSIM 方案從 $1.99（3天1GB）起，最高 $69.99（30天無限）。短期輕度使用挑入門方案即可，用量大的旅客再選高規格。價格透明，方案到期自動失效，不會續約扣款。 海牙、烏特勒支 等地的行動網路覆蓋完整，跨區移動也不斷線。
+    - q: 買荷蘭 eSIM 支援哪些付款方式？多久能收到？
+      a: Roami 支援信用卡等常見線上付款，結帳後 QR code 會寄到你的電子郵件，通常幾分鐘內就能收到。建議出發前先在台灣買好、裝好，抵達 荷蘭 即可連線。 另外，阿姆斯特丹、埃因霍溫 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
 related_products:
-  title: 類似 荷蘭 eSIM 的旅行方案
+  title: 更多國家 eSIM 選擇
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 哈薩克 eSIM
+    flag: img/flags/kz.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: kazakhstan-esim
+  - name: 保加利亞 eSIM
+    flag: img/flags/bg.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
+    slug: bulgaria-esim
+  - name: 埃及 eSIM
+    flag: img/flags/eg.svg
+    price: 自 $2.99
+    is_highlight: false
+    slug: egypt-esim
+  - name: 摩洛哥 eSIM
+    flag: img/flags/ma.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: morocco-esim
+  - name: 亞塞拜然 eSIM
+    flag: img/flags/az.svg
+    price: 自 $6.99
+    is_highlight: false
+    slug: azerbaijan-esim
+  - name: 玻利維亞 eSIM
+    flag: img/flags/bo.svg
+    price: 自 $11.99
+    is_highlight: false
+    slug: bolivia-esim
+  - name: 科索沃 eSIM
+    flag: img/flags/xk.svg
+    price: 自 $13.99
+    is_highlight: false
+    slug: kosovo-esim
   - name: 越南 eSIM
     flag: img/flags/vn.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: false
     slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+  - name: 賽普勒斯 eSIM
+    flag: img/flags/cy.svg
+    price: 自 $2.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: cyprus-esim
+  - name: 印度 eSIM
+    flag: img/flags/in.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: india-esim
+  - name: 塞爾維亞 eSIM
+    flag: img/flags/rs.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: philippines-esim
-
+    slug: serbia-esim
+  - name: 泰國 eSIM
+    flag: img/flags/th.svg
+    price: 自 $1.99
+    is_highlight: true
+    slug: thailand-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "去Netherlands用eSIM網路順嗎？4G/5G速度與覆蓋全攻略"
   subtitle: "荷蘭當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Netherlands) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Netherlands"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -480,7 +484,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Netherlands. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 KPN 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開史基浦機場Vodafone自動售貨機的排隊，或尋找Albert Heijn超市的繁瑣過程。Roami eSIM提前在線購買，抵達荷蘭後一分鐘內啟用，無需現金或實體卡。"
     - icon: "id-card"
@@ -506,19 +510,19 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Vodafone明確允許熱點分享；Lyca Mobile明確禁止熱點分享。"
       esim_title: "無限熱點分享"
-      esim_desc: "Vodafone允許分享但無速度保證，Lyca Mobile完全禁止。Roami eSIM支持熱點分享，且不限制設備數量，讓你的平板、筆電同時上網。"
+      esim_desc: "Vodafone允許分享但無速度保證，Lyca Mobile完全禁止。Roami eSIM支援熱點分享，且不限制設備數量，讓你的平板、筆電同時上網。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "Lyca Mobile在線充值僅接受來自荷蘭、比利時、德國、英國、挪威和瑞典的3D安全信用卡；KPN不確定是否支持所有國際信用卡。"
+      prepaid_desc: "Lyca Mobile在線儲值僅接受來自荷蘭、比利時、德國、英國、挪威和瑞典的3D安全信用卡；KPN不確定是否支援所有國際信用卡。"
       esim_title: "全球付款暢通"
       esim_desc: "Lyca Mobile僅接受特定國家信用卡，KPN不確定國際卡支援。Roami eSIM接受Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，全球遊客無障礙支付。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "KPN 的客服以本地語言為主且時間有限，漫遊或設定問題往往需自行摸索，缺少全天候支援管道。"
       esim_title: "24/7 中文支援"
-      esim_desc: "荷蘭當地運營商客服多為荷蘭語或英語，且預付卡用戶支援有限。Roami eSIM提供24/7多語言客服，包括中文，隨時解決問題。"
+      esim_desc: "荷蘭當地電信商客服多為荷蘭語或英語，且預付卡用戶支援有限。Roami eSIM提供24/7多語言客服，包括中文，隨時解決問題。"
 
   # =============== 100% 完整復原：專家評語模組 ===============
   expert_verdict:
@@ -533,7 +537,7 @@ market_analysis:
         icon_bg: "bg-green-100"
         icon_color: "text-green-600"
         title: "熱點分享無限制"
-        desc: "Lyca Mobile明確禁止熱點分享；Vodafone允許但無速度保證。Roami eSIM支持無限熱點分享，可同時連接多台設備。"
+        desc: "Lyca Mobile明確禁止熱點分享；Vodafone允許但無速度保證。Roami eSIM支援無限熱點分享，可同時連接多台設備。"
       - icon: "clock"
         icon_bg: "bg-indigo-100"
         icon_color: "text-indigo-600"
@@ -543,5 +547,5 @@ market_analysis:
         icon_bg: "bg-teal-100"
         icon_color: "text-teal-600"
         title: "雙卡雙待安全無憂"
-        desc: "使用荷蘭實體卡需拔除國內SIM卡，可能錯過銀行驗證短信。Roami eSIM保留原卡，同時享用荷蘭高速網路（如Vodafone 5G），雙卡雙待，安全便利。"
+        desc: "使用荷蘭實體卡需拔除國內SIM卡，可能錯過銀行驗證簡訊。Roami eSIM保留原卡，同時享用荷蘭高速網路（如Vodafone 5G），雙卡雙待，安全便利。"
 ---

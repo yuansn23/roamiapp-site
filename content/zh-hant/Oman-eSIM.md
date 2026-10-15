@@ -1,6 +1,6 @@
 ---
 title: '阿曼 eSIM 2026: 旅行與網路 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,9 +17,8 @@ modal:
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
   title: '阿曼eSIM｜5G高速上網吃到飽，免綁約自由不受限'
-  description: 比較阿曼 eSIM方案，馬斯喀特, 塞拉萊, 尼茲瓦等地5G高速上網。Omantel & Ooredoo & Vodafone覆蓋指南。即時QR啟用，起價$1.99。
-  keywords: 阿曼 eSIM, 阿曼 eSIM方案, 最佳阿曼 eSIM, 阿曼上網, Omantel 阿曼, Ooredoo 阿曼, Vodafone 阿曼, 馬斯喀特 eSIM, 塞拉萊 eSIM, 尼茲瓦 eSIM, 阿曼行動網路,
-    5G 阿曼
+  description: 比較阿曼 eSIM方案，馬斯喀特, 塞拉萊, 尼茲瓦等地5G高速上網。Omantel & Ooredoo & Vodafone覆蓋指南。即時QR啟用，起價$5.99。
+  keywords: 阿曼 eSIM, eSIM 阿曼, 阿曼 eSIM 購買, 最佳阿曼 eSIM, 阿曼 上網, Omantel 阿曼, Ooredoo 阿曼, Vodafone 阿曼, 馬斯喀特 eSIM, 塞拉萊 eSIM, 尼茲瓦 eSIM, 蘇哈爾 eSIM, 伊卜里 eSIM, 阿曼 eSIM 方案, 阿曼 5G eSIM, 阿曼 eSIM 預付卡
 order_summary:
   title: 選擇 阿曼 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線阿曼最佳電信商，取得最強訊號
-plans_title: 購買阿曼 eSIM：適合各種旅程的方案
+plans_title: 阿曼 eSIM 方案挑選指南
 plans_data:
   30 天:
   - spec: 3GB
@@ -273,7 +272,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 阿曼 eSIM秘訣：出發前須知
+  title: 阿曼 eSIM 使用技巧與提醒
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -302,7 +301,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 阿曼 eSIM啟用：3個簡單步驟
+  title: 阿曼 eSIM 啟用教學（3 步驟）
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 阿曼 做好準備
@@ -337,7 +336,7 @@ faq_section:
     title: 阿曼 eSIM Omantel網路品質與速度指南｜4G/5G覆蓋範圍
     questions:
     - q: 阿曼eSIM各方案價格差在哪裡？買哪種最適合一般觀光客？
-      a: Roami 阿曼 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Omantel在阿曼市區5G網速約100-300Mbps，看1080p影片沒問題。去阿曼機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到阿曼後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 阿曼 eSIM方案從$5.99（7天1GB）起，最高$67.99（30天30GB）。一般旅客買最多的是5GB/15天（$15.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Omantel在阿曼市區5G網速約100-300Mbps，看1080p影片沒問題。去阿曼機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到阿曼後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 到阿曼用eSIM，Roami會自動幫我選Omantel或Ooredoo訊號比較強的那一家嗎？
       a: 阿曼主要有Omantel、Ooredoo。Omantel市區下載快、基地台密集。Ooredoo郊區覆蓋廣，會去郊區的話選Ooredoo路線較有保障。阿曼4G/5G，馬斯喀特等城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Omantel，移動到郊區若Omantel訊號變弱就自動跳Ooredoo，完全不用手動選。
     - q: 阿曼eSIM買了之後要驗證證件嗎？沒先辦好會不會到了不能用？
@@ -345,70 +344,76 @@ faq_section:
     - q: 在阿曼的郊區或小鎮也能正常使用eSIM嗎？查地圖導航會不會斷？
       a: 阿曼的Omantel等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。阿曼4G/5G，馬斯喀特等城市覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 去阿曼旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
-      a: Roami 阿曼 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
+      a: Roami 阿曼 eSIM方案從$5.99（7天1GB）起，最高$67.99（30天30GB）。一般選5GB/15天（$15.99）最熱門，不夠再到App加購。
     - q: 阿曼eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
       a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
+    - q: 在馬斯喀特、塞拉萊用阿曼 eSIM上網順嗎？
+      a: 馬斯喀特、塞拉萊 這類主要城市的行動網路覆蓋都很完整，查地圖、叫車、傳訊息與上傳照片都沒問題。阿曼 部分偏遠地區訊號較弱，建議先下載離線地圖備用。 馬斯喀特、塞拉萊 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
+    - q: 買阿曼 eSIM 支援哪些付款方式？多久能收到？
+      a: Roami 支援信用卡等常見線上付款，結帳後 QR code 會寄到你的電子郵件，通常幾分鐘內就能收到。建議出發前先在台灣買好、裝好，抵達 阿曼 即可連線。 實際走訪 尼茲瓦、蘇哈爾 等主要城市，上網查資料、傳照片都沒問題。
+    - q: 在阿曼使用eSIM遇到問題，可以找誰幫忙？
+      a: Roami 提供線上客服協助。若在 阿曼 遇到連線異常，可先確認 eSIM 線路已開啟、數據漫遊已打開；仍無法解決再聯繫客服，符合條件可申請退款。 不論在 馬斯喀特、伊卜里，連線品質都相當穩定。
 related_products:
-  title: 類似 阿曼 eSIM 的旅行方案
+  title: 搭配 阿曼 的跨國 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 孟加拉 eSIM
+    flag: img/flags/bd.svg
+    price: 自 $5.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: bangladesh-esim
+  - name: 多明尼加共和國 eSIM
+    flag: img/flags/do.svg
+    price: 自 $5.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: dominican-republic-esim
+  - name: 馬爾地夫 eSIM
+    flag: img/flags/mv.svg
+    price: 自 $14.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: maldives-esim
+  - name: 瓜地馬拉 eSIM
+    flag: img/flags/gt.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: guatemala-esim
+  - name: 土耳其 eSIM
+    flag: img/flags/tr.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: hong-kong-esim
+    slug: turkey-esim
   - name: 中國 eSIM
     flag: img/flags/cn.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: false
     slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+  - name: 烏茲別克 eSIM
+    flag: img/flags/uz.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: philippines-esim
+    slug: uzbekistan-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: 自 $1.99
+    is_highlight: true
+    slug: south-korea-esim
+  - name: 奈及利亞 eSIM
+    flag: img/flags/ng.svg
+    price: 自 $5.99
+    is_highlight: false
+    slug: nigeria-esim
+  - name: 愛沙尼亞 eSIM
+    flag: img/flags/ee.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: estonia-esim
+  - name: 亞美尼亞 eSIM
+    flag: img/flags/am.svg
+    price: 自 $7.99
+    is_highlight: false
+    slug: armenia-esim
+  - name: 羅馬尼亞 eSIM
+    flag: img/flags/ro.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: romania-esim
 ---

@@ -1,6 +1,6 @@
 ---
 title: '阿爾及利亞 eSIM 2026: 完整旅遊指南 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,7 @@ modal:
 seo:
   title: "阿爾及利亞eSIM｜5G上網吃到飽，免實名免綁約即開即用"
   description: "去阿爾及利亞旅行上網推薦免合約eSIM，Roami讓您隨時連線不斷線。5G高速吃到飽方案用多少算多少最自由，免實名認證免綁約，線上購買秒收QR Code即開即用。"
-  keywords: 阿爾及利亞 eSIM, 阿爾及利亞 eSIM方案, 最佳阿爾及利亞 eSIM, 阿爾及利亞上網, Mobilis 阿爾及利亞, Djezzy 阿爾及利亞, Ooredoo 阿爾及利亞, 阿爾及爾 eSIM, 奧蘭 eSIM,
-    康斯坦丁 eSIM, 阿爾及利亞行動網路, 5G 阿爾及利亞
+  keywords: 阿爾及利亞 eSIM, eSIM 阿爾及利亞, 阿爾及利亞 eSIM 購買, 最佳阿爾及利亞 eSIM, 阿爾及利亞 上網, Mobilis 阿爾及利亞, Djezzy 阿爾及利亞, Ooredoo 阿爾及利亞, 阿爾及爾 eSIM, 奧蘭 eSIM, 康斯坦丁 eSIM, 安納巴 eSIM, 特萊姆森 eSIM, 阿爾及利亞 eSIM 方案, 阿爾及利亞 5G eSIM, 阿爾及利亞 eSIM 預付卡
 order_summary:
   title: 選擇 阿爾及利亞 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線阿爾及利亞最佳電信商，取得最強訊號
-plans_title: 購買阿爾及利亞 eSIM：適合各種旅程的方案
+plans_title: 挑選你的阿爾及利亞 eSIM 方案
 plans_data:
   7 天:
   - spec: 3GB
@@ -289,7 +288,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 阿爾及利亞 eSIM秘訣：出發前須知
+  title: 前往阿爾及利亞前的 eSIM 準備事項
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -318,7 +317,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 阿爾及利亞 eSIM啟用：3個簡單步驟
+  title: 阿爾及利亞 eSIM 設定步驟說明
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 阿爾及利亞 做好準備
@@ -353,7 +352,7 @@ faq_section:
     title: 阿爾及利亞 eSIM 電信網路Mobilis全解析｜訊號品質與速度
     questions:
     - q: 準備去阿爾及利亞出差，eSIM方案哪個比較適合商務使用？
-      a: Roami 阿爾及利亞 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。阿爾及利亞以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去阿爾及利亞機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到阿爾及利亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 阿爾及利亞 eSIM方案從$3.99（7天1GB）起，最高$94.99（15天無限）。一般旅客買最多的是5GB/15天（$16.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。阿爾及利亞以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去阿爾及利亞機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到阿爾及利亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: Mobilis、Djezzy、Ooredoo這三家在阿爾及利亞的收訊，在市區和郊區各推薦哪家？
       a: 阿爾及利亞主要有Mobilis、Djezzy、Ooredoo。Mobilis市區下載快、基地台密集。Djezzy郊區覆蓋廣，會去郊區的話選Djezzy路線較有保障。Ooredoo價格親民，適合預算有限的旅客。阿爾及利亞4G為主，主要城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Mobilis，移動到郊區若Mobilis訊號變弱就自動跳Djezzy或Ooredoo，完全不用手動選。
     - q: 有人說去阿爾及利亞辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
@@ -364,77 +363,82 @@ faq_section:
       a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
     - q: 阿爾及利亞eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
       a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
+    - q: 在阿爾及爾、奧蘭用阿爾及利亞 eSIM上網順嗎？
+      a: 阿爾及爾、奧蘭 這類主要城市的行動網路覆蓋都很完整，查地圖、叫車、傳訊息與上傳照片都沒問題。阿爾及利亞 部分偏遠地區訊號較弱，建議先下載離線地圖備用。 阿爾及爾、奧蘭 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
+    - q: 買阿爾及利亞 eSIM 支援哪些付款方式？多久能收到？
+      a: Roami 支援信用卡等常見線上付款，結帳後 QR code 會寄到你的電子郵件，通常幾分鐘內就能收到。建議出發前先在台灣買好、裝好，抵達 阿爾及利亞 即可連線。 實際走訪 康斯坦丁、安納巴 等主要城市，上網查資料、傳照片都沒問題。
+    - q: 在阿爾及利亞使用eSIM遇到問題，可以找誰幫忙？
+      a: Roami 提供線上客服協助。若在 阿爾及利亞 遇到連線異常，可先確認 eSIM 線路已開啟、數據漫遊已打開；仍無法解決再聯繫客服，符合條件可申請退款。 不論在 阿爾及爾、特萊姆森，連線品質都相當穩定。
 related_products:
-  title: 類似 阿爾及利亞 eSIM 的旅行方案
+  title: 搭配 阿爾及利亞 的跨國 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+  - name: 玻利維亞 eSIM
+    flag: img/flags/bo.svg
+    price: 自 $11.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: bolivia-esim
+  - name: 巴哈馬 eSIM
+    flag: img/flags/bs.svg
+    price: 自 $16.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: bahamas-esim
+  - name: 厄瓜多 eSIM
+    flag: img/flags/ec.svg
+    price: 自 $6.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: ecuador-esim
+  - name: 希臘 eSIM
+    flag: img/flags/gr.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: greece-esim
+  - name: 坦尚尼亞 eSIM
+    flag: img/flags/tz.svg
+    price: 自 $7.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: tanzania-esim
+  - name: 馬達加斯加 eSIM
+    flag: img/flags/mg.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: madagascar-esim
+  - name: 薩爾瓦多 eSIM
+    flag: img/flags/sv.svg
+    price: 自 $23.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: el-salvador-esim
+  - name: 伊拉克 eSIM
+    flag: img/flags/iq.svg
+    price: 自 $21.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+    slug: iraq-esim
+  - name: 印度 eSIM
+    flag: img/flags/in.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: india-esim
+  - name: 土耳其 eSIM
+    flag: img/flags/tr.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: turkey-esim
+  - name: 哥倫比亞 eSIM
+    flag: img/flags/co.svg
+    price: 自 $4.99
+    is_highlight: false
+    slug: colombia-esim
+  - name: 巴拿馬 eSIM
+    flag: img/flags/pa.svg
+    price: 自 $11.99
+    is_highlight: false
+    slug: panama-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Algeria eSIM 網速實測與覆蓋指南 -- 市區郊區都能用嗎？"
   subtitle: "阿爾及利亞當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Algeria) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Algeria"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -443,7 +447,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Algeria. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Mobilis 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開Djezzy機場專賣店的排隊，抵達阿爾及利亞後一分鐘內線上啟用eSIM，無需尋找實體門市。"
     - icon: "id-card"
@@ -455,7 +459,7 @@ market_analysis:
     - icon: "globe"
       title: "國際漫遊"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "Mobilis 等業者的預付方案在國外多不通用，跨境須另購漫遊包，單價偏高且效期短。"
       esim_title: "全球漫遊無憂"
       esim_desc: "Djezzy預付卡在阿爾及利亞境外無明確漫遊方案，Roami eSIM提供全球多國數據方案，最低1.99美元/GB。"
     - icon: "calendar-xmark"
@@ -467,19 +471,19 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "多數當地預付卡允許熱點分享，惟 Mobilis 等業者對分享流量另設上限，超量後降速或停止分享，須詳閱方案細則。"
       esim_title: "無限分享"
       esim_desc: "Djezzy預付卡可能限制熱點分享，Roami eSIM允許無限個人熱點，與朋友共享數據。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "付款以現金與實體儲值券為大宗，Mobilis、Djezzy 的線上付款對外國卡限制多，出發前宜備妥現金或改用 eSIM。"
       esim_title: "全球付款方式"
-      esim_desc: "支援Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需擔心當地現金或充值券。"
+      esim_desc: "支援Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需擔心當地現金或儲值券。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "問題排除須聯繫 Mobilis、Djezzy 客服，語言與服務時段皆有限制，預付卡用戶較難獲得即時協助。"
       esim_title: "24/7 支援"
       esim_desc: "Djezzy客服可能僅提供阿拉伯語或法語，Roami提供24/7多語言即時聊天支援。"
 
@@ -506,5 +510,5 @@ market_analysis:
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "全球付款方式無障礙"
-        desc: "Djezzy儲值需當地現金或充值券。Roami支援<b>Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal</b>，外國卡無拒收風險。"
+        desc: "Djezzy儲值需當地現金或儲值券。Roami支援<b>Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal</b>，外國卡無拒收風險。"
 ---

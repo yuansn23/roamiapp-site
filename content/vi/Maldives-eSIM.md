@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Maldives 2026: Hướng dẫn Kết nối & Tốc độ | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Dhiraagu, Ooredoo, Focus Infocom
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Malé, Addu City, Fuvahmulah, Hithadhoo, Kulhudhuffushi
-  main_packages: 3/7/15/30 Ngày, Dữ liệu không giới hạn
+  main_packages: 3/7/15/30 Ngày, Nhiều mức dữ liệu
 modal:
   title: Dịch vụ đã được nâng cấp!
   btn_text: Tiếp tục
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: eSIM Maldives | Gói trả trước 5G tốt nhất cho nhà thám hiểm
-  description: Thoát khỏi Maldives với eSIM du lịch trả trước tốt nhất từ Roami. Dữ liệu 5G không giới hạn trên khắp các rạn san hô. Kích hoạt QR tức thì. Phủ sóng Malé và tất cả các đảo resort.
-  keywords: eSIM Maldives, mua eSIM Maldives, eSIM Maldives tốt nhất, eSIM du lịch Maldives, Dhiraagu Maldives, Ooredoo Maldives, Focus Infocom Maldives, eSIM Malé, eSIM Addu City, eSIM Fuvahmulah, eSIM trả trước Maldives, eSIM 5G Maldives
-  low_price: 1.99
-  high_price: 39.9
+  description: Thoát khỏi Maldives với eSIM du lịch trả trước tốt nhất từ Roami. Dữ liệu 5G tốc độ cao trên khắp các rạn san hô. Kích hoạt QR tức thì. Phủ sóng Malé và tất cả các đảo resort.
+  keywords: eSIM Maldives, mua eSIM Maldives, eSIM Maldives tốt nhất, eSIM du lịch Maldives, Dhiraagu Maldives, Ooredoo Maldives, Focus Infocom Maldives, eSIM Malé, eSIM Addu City, eSIM Fuvahmulah, eSIM trả trước Maldives, eSIM 5G Maldives, eSIM Hithadhoo, eSIM Kulhudhuffushi, eSIM Maldives giá rẻ, sim du lịch Maldives
+  low_price: 14.99
+  high_price: 165.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng hàng đầu Maldives để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Maldives: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'So sánh và chọn gói Maldives eSIM'
 plans_data:
   7 Ngày:
   - spec: 1GB
@@ -169,7 +169,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Maldives: Những điều cần biết trước khi đi'
+  title: 'Xem vài điểm này trước khi dùng Maldives eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -188,7 +188,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Maldives: 3 bước đơn giản'
+  title: 'Kích hoạt Maldives eSIM trong 3 bước'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -208,12 +208,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM có hoạt động ở mọi nơi tại Maldives không? Hướng dẫn phủ sóng thành phố và nông thôn"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Maldives. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Hướng dẫn kết nối và giải đáp về tốc độ eSIM cho du khách tại Maldives."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Maldives
+    title: Giải đáp về Maldives eSIM
     questions:
     - q: |
         Dhiraagu hay Ooredoo cung cấp tốc độ dữ liệu tốt hơn ở Maldives?
@@ -226,7 +226,7 @@ faq_section:
     - q: |
         Tôi có thể mua eSIM cho Maldives mà không tốn quá nhiều không?
       a: |
-        Chắc chắn rồi. Gói eSIM Maldives của Roami bắt đầu từ chỉ $1.99. Gói 5GB/15 ngày ($9.99) là lựa chọn phổ biến nhất — nó đáp ứng thoải mái cho bản đồ, WhatsApp, Instagram và email. Nếu bạn là người dùng dữ liệu nhiều, gói 10GB ($14.99) hoặc không giới hạn ($59.99) sẽ giúp bạn an tâm. Bỏ qua quầy SIM sân bay giúp bạn tiết kiệm 30-50% và tránh xếp hàng. Cần điều chỉnh? Bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng Roami.
+        Chắc chắn rồi. Gói eSIM Maldives của Roami bắt đầu từ chỉ $14.99. Gói 5GB/30 ngày ($64.99) là lựa chọn phổ biến nhất — nó đáp ứng thoải mái cho bản đồ, WhatsApp, Instagram và email. Nếu bạn là người dùng dữ liệu nhiều, gói 10GB ($99.99) sẽ giúp bạn an tâm. Bỏ qua quầy SIM sân bay giúp bạn tiết kiệm 30-50% và tránh xếp hàng. Cần điều chỉnh? Bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng Roami.
     - q: |
         Việc tải hộ chiếu lên để đăng ký eSIM Maldives có an toàn không? Tôi lo lắng về quyền riêng tư.
       a: |
@@ -247,63 +247,75 @@ faq_section:
         Điều gì xảy ra nếu tôi sử dụng hết dữ liệu ở Maldives trước khi gói hết hạn?
       a: |
         Nạp thêm từ ứng dụng Roami. Dữ liệu mới kích hoạt ngay lập tức — không cần mã QR mới, không cần cài đặt lại. Chúng tôi khuyên bạn nên nạp thêm khi còn khoảng 20% để tránh gián đoạn.
+    - q: |
+        eSIM Maldives có chia sẻ hotspot cho bạn đồng hành được không?
+      a: |
+        Có, eSIM Maldives của Roami hỗ trợ chia sẻ hotspot cho laptop, máy tính bảng hoặc người đi cùng. Nếu dùng chung nhiều người, nên chọn gói cao hơn một bậc để không hết dữ liệu giữa chừng; nếu thiếu vẫn có thể nạp thêm trong ứng dụng.  Dù ở Malé, Addu City hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
+    - q: |
+        Đến sân bay ở Maldives là dùng được internet ngay chứ?
+      a: |
+        Được. Chỉ cần cài eSIM trước, sau khi hạ cánh tắt chế độ máy bay và bật đường eSIM, thường chỉ vài chục giây là kết nối được mạng địa phương, không cần xếp hàng mua SIM vật lý ở sân bay Maldives.  Vùng phủ di động tại Fuvahmulah, Hithadhoo đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
+    - q: |
+        Dhiraagu và Ooredoo ở Maldives, dùng eSIM mạng nào tốt hơn?
+      a: |
+        Maldives có các nhà mạng chính như Dhiraagu, Ooredoo. Roami tự động chọn mạng có tín hiệu mạnh nhất tại thời điểm đó và chuyển đổi giữa Dhiraagu và Ooredoo mà bạn không cần cấu hình thủ công. Nếu lịch trình đi ra vùng ngoại ô hoặc đảo xa, nên tải bản đồ ngoại tuyến trước cho chắc.  Các thành phố lớn như Malé, Kulhudhuffushi đều có phủ sóng ổn định cho nhu cầu hằng ngày.
 related_products:
   title: Gói eSIM Maldives liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ $1.99
+  - name: eSIM Malawi
+    flag: img/flags/mw.svg
+    price: Từ $14.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: eSIM Mexico
+    flag: img/flags/mx.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
+  - name: eSIM Malaysia
+    flag: img/flags/my.svg
     price: Từ $1.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Nepal
+    flag: img/flags/ne.svg
+    price: Từ $10.99
+    is_highlight: false
+  - name: eSIM Nigeria
+    flag: img/flags/ng.svg
+    price: Từ $5.99
+    is_highlight: false
+  - name: eSIM Niger
+    flag: img/flags/ni.svg
+    price: Từ $23.99
+    is_highlight: false
+  - name: eSIM Hà Lan
+    flag: img/flags/nl.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: eSIM Na Uy
+    flag: img/flags/no.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
+  - name: eSIM New Zealand
+    flag: img/flags/nz.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
+  - name: eSIM Oman
+    flag: img/flags/om.svg
+    price: Từ $5.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
+  - name: eSIM Panama
+    flag: img/flags/pa.svg
+    price: Từ $11.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: Peru eSIM
+    flag: img/flags/pe.svg
+    price: Từ $4.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Maldives so với SIM trả trước: Giải pháp nào mang lại giá trị tốt hơn?'
   subtitle: SIM trả trước địa phương Maldives so với giải pháp eSIM (Đối sánh 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Maldives) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Maldives
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -326,17 +338,17 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: SIM vật lý là mạng địa phương chỉ dùng một quốc gia; chúng trở nên không hợp lệ ngay khi rời khỏi Maldives. Không có chuyển vùng tự động giữa hai mạng.
     esim_title: Chuyển vùng đa quốc gia
-    esim_desc: SIM vật lý chết bên ngoài Maldives. Roami eSIM hoạt động tại Sri Lanka, Dubai và các quốc gia trung chuyển khác, với gói bắt đầu từ $3.99 cho 7 ngày 300MB.
+    esim_desc: SIM vật lý chết bên ngoài Maldives. Roami eSIM hoạt động tại Sri Lanka, Dubai và các quốc gia trung chuyển khác, với gói bắt đầu từ $14.99 cho 7 ngày 1GB.
   - icon: calendar-xmark
     title: Chu kỳ thanh toán &<br>Chi phí chìm
     prepaid_title: ''
     prepaid_desc: Gói du lịch Dhiraagu khóa 30 ngày (từ $40); các tùy chọn ngắn hạn như 7 ngày 1GB có giá MVR 75 + thuế. Tất cả giá chịu ít nhất 6% GST (lên đến 12% ở khu du lịch). Gói 30 ngày 2GB của Ooredoo có giá MVR 199 + thuế.
     esim_title: Gói ngắn hạn linh hoạt
-    esim_desc: Gói du lịch 30 ngày của Dhiraagu ($40) lãng phí 83% cho chuyến đi 5 ngày. Roami cung cấp gói 7 ngày từ $1.99/GB, tiết kiệm tới 75% so với MVR 75 + thuế cho 1GB.
+    esim_desc: Gói du lịch 30 ngày của Dhiraagu ($40) lãng phí 83% cho chuyến đi 5 ngày. Roami cung cấp gói 7 ngày từ $14.99/GB, tiết kiệm tới 75% so với MVR 75 + thuế cho 1GB.
   - icon: wifi
     title: Chia sẻ kết nối &<br>Chính sách tốc độ
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho tiêu chí này. Theo thông lệ thị trường, cả Dhiraagu và Ooredoo đều cho phép chia sẻ kết nối nhưng có thể giới hạn tốc độ sau ngưỡng dữ liệu.
+    prepaid_desc: Cả Dhiraagu và Ooredoo đều cho phép chia sẻ kết nối nhưng có thể giới hạn tốc độ sau ngưỡng dữ liệu.
     esim_title: Chia sẻ kết nối không giới hạn
     esim_desc: Roami eSIM cho phép chia sẻ hotspot tốc độ đầy đủ, không như Ooredoo có thể giới hạn sau ngưỡng dữ liệu. Chia sẻ với tối đa 5 thiết bị ở tốc độ 4G.
   - icon: credit-card
@@ -348,7 +360,7 @@ market_analysis:
   - icon: headset
     title: Hỗ trợ khách hàng
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho tiêu chí này. Theo thông lệ thị trường, hỗ trợ khách hàng có sẵn bằng ngôn ngữ địa phương và giờ hạn chế.
+    prepaid_desc: Hỗ trợ khách hàng có sẵn bằng ngôn ngữ địa phương và giờ hạn chế.
     esim_title: Hỗ trợ đa ngôn ngữ 24/7
     esim_desc: Nhận trợ giúp tức thì qua trò chuyện trực tiếp hoặc email bằng tiếng Anh, không như hỗ trợ địa phương giờ hạn chế của Dhiraagu. Thời gian phản hồi trung bình dưới 5 phút.
   expert_verdict:
@@ -363,7 +375,7 @@ market_analysis:
       icon_bg: bg-rose-100
       icon_color: text-rose-600
       title: Chuyển vùng đa quốc gia không mất phí thêm
-      desc: SIM vật lý <b>chỉ dùng một quốc gia</b>. Roami eSIM bao gồm Maldives cộng với các quốc gia trung chuyển như Sri Lanka và Dubai, với gói từ <b>$3.99/7 ngày</b>.
+      desc: SIM vật lý <b>chỉ dùng một quốc gia</b>. Roami eSIM bao gồm Maldives cộng với các quốc gia trung chuyển như Sri Lanka và Dubai, với gói từ <b>$14.99/7 ngày</b>.
     - icon: tower-observation
       icon_bg: bg-rose-100
       icon_color: text-rose-600

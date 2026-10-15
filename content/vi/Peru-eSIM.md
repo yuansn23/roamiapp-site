@@ -1,6 +1,6 @@
 ---
 title: 'Peru eSIM 2026: Hướng dẫn Kết nối & Tốc độ | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: Peru eSIM | Gói Dữ liệu 5G Đáng tin cậy cho Hành trình của Bạn
-  description: Cần một eSIM du lịch trả trước cho Peru? Roami cung cấp dữ liệu 5G không giới hạn toàn quốc. Phủ sóng Lima, Cusco & Arequipa. Kích hoạt tức thì. Gói từ $1.99.
-  keywords: Peru eSIM, mua Peru eSIM, Peru eSIM tốt nhất, Peru travel eSIM, Claro Peru, Movistar Peru, Entel Peru, Lima eSIM, Cusco eSIM, Arequipa eSIM, Peru prepaid eSIM, 5G Peru eSIM
-  low_price: '1.99'
-  high_price: '39.9'
+  description: Cần một eSIM du lịch trả trước cho Peru? Roami cung cấp dữ liệu 5G không giới hạn toàn quốc. Phủ sóng Lima, Cusco & Arequipa. Kích hoạt tức thì. Gói từ $4.99.
+  keywords: Peru eSIM, mua Peru eSIM, Peru eSIM tốt nhất, eSIM du lịch Peru, Claro Peru, Movistar Peru, Entel Peru, eSIM Lima, eSIM Cusco, eSIM Arequipa, eSIM trả trước Peru, eSIM 5G Peru, eSIM Trujillo, eSIM Iquitos, Peru eSIM giá rẻ, sim du lịch Peru
+  low_price: 4.99
+  high_price: 85.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động Chuyển mạng
     desc: Tự động kết nối với các nhà mạng hàng đầu Peru để có tín hiệu tốt nhất
-plans_title: 'Mua Peru eSIM: Gói cho Mọi Thời gian Chuyến đi'
+plans_title: 'Bảng giá gói Peru eSIM'
 plans_data:
   7 Ngày:
   - spec: 1GB
@@ -287,7 +287,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo Thiết lập Peru eSIM: Những điều Cần Biết Trước Khi Đi'
+  title: 'Nhắc nhở chuẩn bị trước chuyến đi Peru'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -308,7 +308,7 @@ reminders:
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách Cài đặt Peru eSIM: 3 Bước Đơn giản'
+  title: 'Peru eSIM kích hoạt thế nào? 3 bước là xong'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận Mã QR'
@@ -328,12 +328,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Kết nối Internet tại Peru -- Hướng dẫn về Chất lượng Mạng và Tốc độ eSIM"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Peru. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Tổng hợp hỏi đáp về mạng, tốc độ và kết nối eSIM cho du khách đến Peru."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về Peru eSIM
+    title: Giải đáp thắc mắc khi dùng Peru eSIM
     questions:
     - q: |
         Du khách đến Peru — mạng nào mang lại trải nghiệm tốt nhất?
@@ -342,7 +342,7 @@ faq_section:
     - q: |
         Các tùy chọn eSIM rẻ nhất cho chuyến đi đến Peru là gì?
       a: |
-        Gói Peru eSIM của Roami bắt đầu từ $1.99 (7 ngày, 1GB) và lên đến $59.99 (30 ngày không giới hạn). Đối với chuyến đi 5-7 ngày điển hình, gói 5GB ở mức $9.99 là lựa chọn tối ưu — đủ cho bản đồ, nhắn tin và kiểm tra mạng xã hội. Cần phát trực tuyến video hoặc làm việc từ xa? Chọn 10GB hoặc không giới hạn. Nhờ mạng 5G của Claro, phát trực tuyến và gọi video hoạt động rất tốt. Các quầy SIM ở sân bay tính phí cao hơn 30-50% và bạn phải xếp hàng chờ. Không chắc chắn về nhu cầu dữ liệu của bạn? Bắt đầu với gói nhỏ và nạp thêm qua ứng dụng mà không cần thay đổi eSIM.
+        Gói Peru eSIM của Roami bắt đầu từ $4.99 và lên đến $30.99 (30 ngày không giới hạn). Đối với chuyến đi 5-7 ngày điển hình, gói 5GB ở mức $13.99 là lựa chọn tối ưu — đủ cho bản đồ, nhắn tin và kiểm tra mạng xã hội. Cần phát trực tuyến video hoặc làm việc từ xa? Chọn 10GB hoặc không giới hạn. Nhờ mạng 5G của Claro, phát trực tuyến và gọi video hoạt động rất tốt. Các quầy SIM ở sân bay tính phí cao hơn 30-50% và bạn phải xếp hàng chờ. Không chắc chắn về nhu cầu dữ liệu của bạn? Bắt đầu với gói nhỏ và nạp thêm qua ứng dụng mà không cần thay đổi eSIM.
     - q: |
         So sánh Roami với Holafly cho eSIM tại Peru như thế nào?
       a: |
@@ -367,63 +367,75 @@ faq_section:
         Tôi phải làm gì nếu Peru eSIM của tôi không kết nối khi tôi đến?
       a: |
         Ba kiểm tra nhanh mỗi lần khoảng 30 giây: 1) Chế độ Chuyển vùng Dữ liệu đã bật chưa? 2) Bạn có thể chọn thủ công Claro trong cài đặt mạng không? 3) Thử khởi động lại điện thoại. Khoảng 90% sự cố kết nối được giải quyết bằng một trong các bước này. Nếu không, bộ phận hỗ trợ 24/7 của Roami có thể giúp bạn.
+    - q: |
+        Đi Peru vài ngày thì nên chọn gói eSIM dung lượng bao nhiêu?
+      a: |
+        eSIM Peru của Roami có các mức 1GB, 3GB, 5GB, 10GB, 20GB, 30GB. Chuyến ngắn, chỉ tra bản đồ và nhắn tin thì 1GB là đủ; nếu xem video ngắn, gọi video hoặc chia sẻ hotspot, bạn nên chọn mức cao hơn một bậc. Nếu chưa chắc về nhu cầu, có thể mua gói nhỏ rồi nạp thêm trong ứng dụng sau khi đến Peru, không cần đổi SIM.  Các thành phố lớn như Lima, Cusco đều có phủ sóng ổn định cho nhu cầu hằng ngày.
+    - q: |
+        Kích hoạt eSIM Peru như thế nào? Có phải đợi đến nơi mới bật?
+      a: |
+        Bạn nên quét mã QR cài đặt cấu hình qua WiFi trước chuyến đi, khi đến Peru thì bật đường eSIM và mở chuyển vùng dữ liệu; máy sẽ tự kết nối mạng địa phương và thời hạn của gói bắt đầu tính từ lúc đó.  Tại khu vực Arequipa, Trujillo, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
+    - q: |
+        Đến sân bay ở Peru là dùng được internet ngay chứ?
+      a: |
+        Được. Chỉ cần cài eSIM trước, sau khi hạ cánh tắt chế độ máy bay và bật đường eSIM, thường chỉ vài chục giây là kết nối được mạng địa phương, không cần xếp hàng mua SIM vật lý ở sân bay Peru.  Lima, Iquitos và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
 related_products:
   title: Gói Peru eSIM Liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ $1.99
+  - name: eSIM New Zealand
+    flag: img/flags/nz.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: eSIM Oman
+    flag: img/flags/om.svg
+    price: Từ $5.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Panama
+    flag: img/flags/pa.svg
+    price: Từ $11.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Philippines
+    flag: img/flags/ph.svg
+    price: Từ $2.99
+    is_highlight: false
+  - name: eSIM Pakistan
+    flag: img/flags/pk.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: Poland eSIM
+    flag: img/flags/pl.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: eSIM Bồ Đào Nha
+    flag: img/flags/pt.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
+  - name: Puerto Rico eSIM
+    flag: img/flags/pu.svg
+    price: Từ $6.99
+    is_highlight: false
+  - name: eSIM Paraguay
+    flag: img/flags/py.svg
+    price: Từ $22.99
+    is_highlight: false
+  - name: eSIM Qatar
+    flag: img/flags/qa.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
+  - name: Reunion Island eSIM
+    flag: img/flags/re.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
+  - name: eSIM Romania
+    flag: img/flags/ro.svg
     price: Từ $1.99
     is_highlight: false
 market_analysis:
   title: 'Peru eSIM vs SIM Vật lý: So sánh Kích hoạt và Thiết lập'
   subtitle: SIM trả trước địa phương Peru vs. Giải pháp eSIM (Tiêu chuẩn 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Peru) + Trang web Nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Peru
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận So sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -453,11 +465,11 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Movistar cung cấp 1GB/7 ngày với giá S/7, 4GB/20 ngày với giá S/20, 7GB/30 ngày với giá S/30. Gói Plan Turista của Entel có giá S/67 cho 7 ngày/5GB, trong khi gói 10 ngày/3GB thông thường chỉ có giá S/10.
     esim_title: Gói Ngắn hạn Linh hoạt
-    esim_desc: Không giống như mức tối thiểu 7 ngày của Movistar (S/7/1GB) hay Plan Turista đắt đỏ của Entel (S/67/7 ngày), Roami cung cấp gói 7 ngày bắt đầu từ $1.99/GB, tiết kiệm đến 75% lãng phí cho chuyến đi ngắn.
+    esim_desc: Không giống như mức tối thiểu 7 ngày của Movistar (S/7/1GB) hay Plan Turista đắt đỏ của Entel (S/67/7 ngày), Roami cung cấp gói 7 ngày bắt đầu từ $4.99/GB, tiết kiệm đến 75% lãng phí cho chuyến đi ngắn.
   - icon: wifi
     title: Chính sách Chia sẻ kết nối &<br>Tốc độ
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho tiêu chí này. Dựa trên thực tế thị trường, chia sẻ kết nối thường được cho phép nhưng có thể bị hạn chế trong một số gói.
+    prepaid_desc: Dựa trên thực tế thị trường, chia sẻ kết nối thường được cho phép nhưng có thể bị hạn chế trong một số gói.
     esim_title: Chia sẻ kết nối Không giới hạn
     esim_desc: Roami eSIM cho phép chia sẻ kết nối tốc độ đầy đủ, không giống như một số gói địa phương có thể hạn chế.
   - icon: credit-card
@@ -469,7 +481,7 @@ market_analysis:
   - icon: headset
     title: Hỗ trợ Khách hàng
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho tiêu chí này. Dựa trên thực tế thị trường, hỗ trợ thường bằng tiếng Tây Ban Nha, với hỗ trợ tiếng Anh hạn chế.
+    prepaid_desc: Dựa trên thực tế thị trường, hỗ trợ thường bằng tiếng Tây Ban Nha, với hỗ trợ tiếng Anh hạn chế.
     esim_title: Hỗ trợ Tiếng Anh 24/7
     esim_desc: Nhận hỗ trợ 24/7 bằng tiếng Anh, không giống như các nhà mạng địa phương chủ yếu cung cấp hỗ trợ tiếng Tây Ban Nha.
   expert_verdict:

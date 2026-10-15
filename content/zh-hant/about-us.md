@@ -36,7 +36,7 @@ schema: |-
     ]
   }
 
-# Hero 区域
+# Hero 區域
 hero:
   subtitle: "我們的故事"
   title_main: "連接您的世界，<br>"
@@ -62,7 +62,7 @@ hero:
       label: "App Store 評分 4.8"
       class: "bg-white/80 backdrop-blur-sm px-4 py-2 rounded-full text-slate-700 font-medium shadow-sm border border-slate-200"
 
-# 信任数据看板
+# 信任數據看板
 trustStats:
   - value: "200+"
     label: "國家與地區"
@@ -77,7 +77,7 @@ trustStats:
     label: "客戶支援"
     sub: "10 種語言 • <2分鐘回覆"
 
-# Mission 区域
+# Mission 區域
 mission:
   title: "重新定義全球旅行連線體驗"
   paragraphs:
@@ -96,17 +96,17 @@ mission:
   stats_title: "100萬+ 滿意旅客"
   stats_desc: "深受全球商務人士與遊客的信賴。"
 
-# 合作伙伴区域
+# 合作夥伴區域
 partners:
   section_label: "全球電信商網路"
   title: "榮獲全球 <span class='text-blue-600'>50+ 家領先營運商</span> 信賴"
   view_all_link: ""
   view_all_text: "查看全部 50+ 家合作夥伴"
   
-  # 默认折扣码
+  # 默認折扣碼
   default_discount_code: "WEB20"
   
-  # SEO 内链组（普通链接）
+  # SEO 內鏈組（普通鏈接）
   seo_links:
     - emoji: "🇪🇺"
       text: "歐洲旅遊 eSIM"
@@ -124,7 +124,7 @@ partners:
       discount_code: "WEB20"
       discount_badge_class: "bg-red-500 text-white"
   
-  # 高亮按钮（单独的 plans 链接）
+  # 高亮按鈕（單獨的 plans 鏈接）
   highlight_link: "/plans/"
   highlight_emoji: "📱"
   highlight_text: "實惠的 eSIM 數據方案"
@@ -132,7 +132,7 @@ partners:
   highlight_discount_text: "節省 20%"
   highlight_badge_class: "bg-yellow-300 text-red-700"
   
-  # 折扣码独立横幅
+  # 折扣碼獨立橫幅
   discount_banner_class: "bg-gradient-to-r from-amber-100 to-yellow-200 rounded-full px-5 py-2 shadow-md border border-amber-300"
   discount_banner_emoji: "🎉"
   discount_banner_title: "新用戶優惠"
@@ -172,13 +172,13 @@ partners:
     - name: "SoftBank"
       image: "/img/japan-softbank.png"
   
-  # 服务承诺标签
+  # 服務承諾標籤
   service_tags:
     - "⚡ 5G/4G 網速"
     - "📲 即時啟用"
     - "🔒 安全可靠"
 
-# 用户评价区域
+# 用戶評價區域
 testimonials:
   section_label: "用戶評價"
   title: "旅客對 Roami 的評價"
@@ -210,7 +210,7 @@ testimonials:
       verified_text: "App Store 已驗證用戶"
       purchased_label: "已購買"
 
-# 底部 CTA 区域
+# 底部 CTA 區域
 cta:
   gradient_from: "#0A2F44"
   gradient_to: "#06212E"

@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Thành Vatican 2026: Hướng dẫn 5G & Dữ liệu | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: 'eSIM Thành Vatican: Hướng dẫn phủ sóng Vodafone & TIM'
-  description: So sánh các gói eSIM Thành Vatican với 5G nhanh tại Thành Vatican, Rome, Florence. Hướng dẫn phủ sóng Vodafone, TIM & WindTre cho khách du lịch. Kích hoạt QR tức thì từ $1.99.
-  keywords: eSIM Thành Vatican, mua eSIM Thành Vatican, eSIM Thành Vatican tốt nhất, eSIM du lịch Thành Vatican, Vodafone Thành Vatican, TIM Thành Vatican, WindTre Thành Vatican, eSIM Rome, eSIM Florence, eSIM trả trước Thành Vatican, eSIM 5G Thành Vatican
-  low_price: 1.99
-  high_price: 39.9
+  description: So sánh các gói eSIM Thành Vatican với 5G nhanh tại Thành Vatican, Rome, Florence. Hướng dẫn phủ sóng Vodafone, TIM & WindTre cho khách du lịch. Kích hoạt QR tức thì từ $10.99.
+  keywords: eSIM Thành Vatican, mua eSIM Thành Vatican, eSIM Thành Vatican tốt nhất, eSIM du lịch Thành Vatican, Vodafone Thành Vatican, TIM Thành Vatican, WindTre Thành Vatican, eSIM Rome, eSIM Florence, eSIM Milan, eSIM trả trước Thành Vatican, eSIM 5G Thành Vatican, eSIM Venice, eSIM Thành Vatican giá rẻ, sim du lịch Thành Vatican, eSIM Thành Vatican cho du khách
+  low_price: 10.99
+  high_price: 78.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với các nhà mạng hàng đầu Thành Vatican để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Thành Vatican: Gói cho mọi thời gian chuyến đi'
+plans_title: 'Gói dữ liệu Thành Vatican eSIM của bạn'
 plans_data:
   3 Ngày:
   - spec: Unlimited
@@ -144,7 +144,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Thành Vatican: Những điều cần biết trước khi đi'
+  title: 'Nhắc nhở nhỏ trước chuyến đi với Thành Vatican eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -163,7 +163,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Thành Vatican: 3 bước đơn giản'
+  title: 'Hướng dẫn cài đặt và kích hoạt Thành Vatican eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -183,12 +183,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM cho du khách tại Thành Vatican -- Tốc độ mạng, Phủ sóng và Mẹo"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Thành Vatican. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Tổng hợp câu hỏi và giải đáp về eSIM Thành Vatican - tốc độ, phủ sóng và cách kết nối."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Thành Vatican
+    title: Câu hỏi và giải đáp cho Thành Vatican eSIM
     questions:
     - q: |
         WhatsApp và FaceTime có hoạt động với eSIM ở Thành Vatican không?
@@ -197,7 +197,7 @@ faq_section:
     - q: |
         Tôi đi Thành Vatican chỉ 2-3 ngày. Tôi nên mua eSIM nào?
       a: |
-        Cho chuyến đi ngắn, gói 1GB/7 ngày ($1.99) đáp ứng cho bản đồ và nhắn tin. Nếu bạn dự định sử dụng mạng xã hội và chia sẻ ảnh, gói 3GB ($4.99) cung cấp nhiều dung lượng hơn. Cả hai đều kích hoạt tức thì và bạn có thể nạp thêm nếu cần.
+        Cho chuyến đi ngắn, gói 1GB/7 ngày đáp ứng cho bản đồ và nhắn tin. Nếu bạn dự định sử dụng mạng xã hội và chia sẻ ảnh, gói 3GB cung cấp nhiều dung lượng hơn. Cả hai đều kích hoạt tức thì và bạn có thể nạp thêm nếu cần.
     - q: |
         Tôi có thể lưu bao nhiêu hồ sơ eSIM trên điện thoại để đi du lịch Thành Vatican?
       a: |
@@ -209,7 +209,7 @@ faq_section:
     - q: |
         Nếu khách sạn của tôi ở Thành Vatican có Wi-Fi miễn phí — tôi có vẫn cần dữ liệu eSIM không?
       a: |
-        Wi-Fi khách sạn hoạt động trong phòng nhưng không hoạt động khi bạn ra ngoài khám phá. eSIM cung cấp dữ liệu ở mọi nơi — điều hướng đường phố, tìm kiếm địa điểm gần đó, kiểm tra lịch trình phương tiện công cộng. Gói 5GB có giá $9.99, thường rẻ hơn Wi-Fi khách sạn trả phí trong một tuần ($10-15 tại nhiều khách sạn). Hầu hết du khách sử dụng Wi-Fi khách sạn cho tải xuống lớn và eSIM cho kết nối khi di chuyển.
+        Wi-Fi khách sạn hoạt động trong phòng nhưng không hoạt động khi bạn ra ngoài khám phá. eSIM cung cấp dữ liệu ở mọi nơi — điều hướng đường phố, tìm kiếm địa điểm gần đó, kiểm tra lịch trình phương tiện công cộng. Gói 5GB, thường rẻ hơn Wi-Fi khách sạn trả phí trong một tuần ($10-15 tại nhiều khách sạn). Hầu hết du khách sử dụng Wi-Fi khách sạn cho tải xuống lớn và eSIM cho kết nối khi di chuyển.
     - q: |
         Tôi có thể sử dụng eSIM Thành Vatican ngay sau khi mua hay phải chờ?
       a: |
@@ -222,55 +222,67 @@ faq_section:
         Sự khác biệt giữa gói 5GB và gói không giới hạn cho Thành Vatican là gì?
       a: |
         Gói 5GB cung cấp cho bạn một lượng dữ liệu tốc độ cao cố định (tổng 5GB). Khi dùng hết, bạn nạp thêm hoặc mua gói mới. Gói không giới hạn tiếp tục cung cấp dữ liệu, nhưng tốc độ có thể giảm sau 30GB trong một ngày theo chính sách sử dụng hợp lý. Đối với hầu hết du khách sử dụng bản đồ, nhắn tin và mạng xã hội, gói 5GB là hoàn toàn đủ.
+    - q: |
+        Dùng eSIM Thành Vatican gặp sự cố thì liên hệ ai?
+      a: |
+        Roami có hỗ trợ khách hàng trực tuyến. Nếu gặp lỗi kết nối tại Thành Vatican, bạn kiểm tra đường eSIM đã bật và chuyển vùng dữ liệu đã mở chưa; nếu vẫn chưa được thì liên hệ hỗ trợ, trường hợp đủ điều kiện có thể yêu cầu hoàn tiền.  Vùng phủ di động tại Thành Vatican, Rome đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
+    - q: |
+        eSIM Thành Vatican có chia sẻ hotspot cho bạn đồng hành được không?
+      a: |
+        Có, eSIM Thành Vatican của Roami hỗ trợ chia sẻ hotspot cho laptop, máy tính bảng hoặc người đi cùng. Nếu dùng chung nhiều người, nên chọn gói cao hơn một bậc để không hết dữ liệu giữa chừng; nếu thiếu vẫn có thể nạp thêm trong ứng dụng.  Các thành phố lớn như Florence, Milan đều có phủ sóng ổn định cho nhu cầu hằng ngày.
+    - q: |
+        Tốc độ eSIM Thành Vatican có nhanh không? Có chậm hơn SIM vật lý không?
+      a: |
+        eSIM Thành Vatican của Roami dùng trạm gốc của các nhà mạng chính tại địa phương, tốc độ tương đương SIM trả trước bản địa; tra bản đồ, mạng xã hội và gọi video đều mượt. Tốc độ thực tế còn phụ thuộc vị trí và tải của mạng tại thời điểm đó.  Tại khu vực Thành Vatican, Venice, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
 related_products:
   title: Các gói eSIM liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ $1.99
+  - name: eSIM Eswatini
+    flag: img/flags/sz.svg
+    price: Từ $19.99
     is_highlight: false
-  - name: eSIM Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: eSIM El Salvador
+    flag: img/flags/sv.svg
+    price: Từ $23.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Chad
+    flag: img/flags/td.svg
+    price: Từ $23.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Thái Lan
+    flag: img/flags/th.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
+  - name: eSIM Tajikistan
+    flag: img/flags/tj.svg
+    price: Từ $4.99
+    is_highlight: false
+  - name: eSIM Tunisia
+    flag: img/flags/tn.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: Turkey eSIM
     flag: img/flags/tr.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
+  - name: Taiwan eSIM
+    flag: img/flags/tw.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
+  - name: eSIM Tanzania
+    flag: img/flags/tz.svg
+    price: Từ $7.99
+    is_highlight: false
+  - name: eSIM Ukraine
+    flag: img/flags/ua.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
+  - name: eSIM Uganda
+    flag: img/flags/ug.svg
+    price: Từ $7.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
+  - name: eSIM Mỹ
+    flag: img/flags/us.svg
     price: Từ $1.99
     is_highlight: false
 ---

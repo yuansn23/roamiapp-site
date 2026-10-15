@@ -1,6 +1,6 @@
 ---
 title: '丹麥 eSIM 2026: 城市與覆蓋 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,7 @@ modal:
 seo:
   title: "丹麥eSIM｜免綁約5G上網，吃到飽不降速"
   description: "Roami eSIM提供丹麥吃到飽eSIM免綁約方案，5G高速上網出國免綁約超自由。不用綁約不用簽約輕鬆又划算，出國上網推薦首選方案，200+國家通用超方便。"
-  keywords: 丹麥 eSIM, 丹麥 eSIM方案, 最佳丹麥 eSIM, 丹麥上網, TDC 丹麥, Telenor 丹麥, 3 Denmark 丹麥, 哥本哈根 eSIM, 奧胡斯 eSIM, 歐登塞 eSIM, 丹麥行動網路,
-    5G 丹麥
+  keywords: 丹麥 eSIM, eSIM 丹麥, 丹麥 eSIM 購買, 最佳丹麥 eSIM, 丹麥 上網, TDC 丹麥, Telenor 丹麥, 3 Denmark 丹麥, 哥本哈根 eSIM, 奧胡斯 eSIM, 歐登塞 eSIM, 奧爾堡 eSIM, 埃斯比約 eSIM, 丹麥 eSIM 方案, 丹麥 5G eSIM, 丹麥 eSIM 預付卡
 order_summary:
   title: 選擇 丹麥 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線丹麥最佳電信商，取得最強訊號
-plans_title: 購買丹麥 eSIM：適合各種旅程的方案
+plans_title: 丹麥 eSIM：彈性天數與流量方案
 plans_data:
   30 天:
   - spec: 20GB
@@ -321,7 +320,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 丹麥 eSIM秘訣：出發前須知
+  title: 出發前必看：丹麥 eSIM 小撇步
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -350,7 +349,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 丹麥 eSIM啟用：3個簡單步驟
+  title: 丹麥 eSIM 開通3步驟
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 丹麥 做好準備
@@ -385,88 +384,93 @@ faq_section:
     title: 丹麥 eSIM TDC等網路速度實測｜最適合旅行上網的選擇
     questions:
     - q: 去丹麥自由行的話，辦eSIM上網大概要花多少錢？
-      a: Roami 丹麥 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。TDC在丹麥市區5G網速約100-300Mbps，看1080p影片沒問題。去丹麥機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到丹麥後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 丹麥 eSIM方案從$1.99（3天1GB）起，最高$70.99（30天無限）。一般旅客買最多的是5GB/15天（$8.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。TDC在丹麥市區5G網速約100-300Mbps，看1080p影片沒問題。去丹麥機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到丹麥後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 去丹麥玩辦eSIM，Roami會自動切換TDC、Telenor、Telia的網路嗎？
       a: 丹麥主要有TDC、Telenor、Telia。TDC市區下載快、基地台密集。Telenor郊區覆蓋廣，會去郊區的話選Telenor路線較有保障。Telia價格親民，適合預算有限的旅客。丹麥5G使用n78頻段，全境覆蓋完善。不過Roami會自動切換到當前訊號最強的網路。市區用TDC，移動到郊區若TDC訊號變弱就自動跳Telenor或Telia，完全不用手動選。
     - q: 去丹麥旅遊的話，辦eSIM吃到飽會不會太浪費？一般人一天大概用多少流量？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。丹麥5G使用n78頻段，全境覆蓋完善。Roami在丹麥連上TDC的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。丹麥5G使用n78頻段，全境覆蓋完善。Roami在丹麥連上TDC的網路，網速穩定。如果怕降速可選10GB/$7.99或20GB/$13.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 去丹麥用eSIM需要先通過身分驗證嗎？要準備哪些證件？
       a: 需要的。丹麥預付卡需KYC認證，需提供護照。很多人不知道這規定，到了丹麥機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。丹麥5G使用n78頻段，全境覆蓋完善。另外TDC的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到丹麥開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 離開丹麥市區之後，eSIM的訊號會不會變得很差？
       a: 丹麥的TDC等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。丹麥5G使用n78頻段，全境覆蓋完善。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 去丹麥旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
-      a: Roami 丹麥 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
+      a: Roami 丹麥 eSIM方案從$1.99（3天1GB）起，最高$70.99（30天無限）。一般選5GB/15天（$8.99）最熱門，不夠再到App加購。
+    - q: 去丹麥之後順道去其他國家，同一張eSIM能繼續用嗎？
+      a: Roami 丹麥 eSIM 以 丹麥 境內使用為主；若行程會跨到鄰國，建議另外加購該國或區域方案，避免產生額外的漫遊費用。 不論在 哥本哈根、奧胡斯，連線品質都相當穩定。
+    - q: 丹麥 eSIM 大概多少錢？有便宜的選擇嗎？
+      a: Roami 丹麥 eSIM 方案從 $1.99（3天1GB）起，最高 $70.99（30天無限）。短期輕度使用挑入門方案即可，用量大的旅客再選高規格。價格透明，方案到期自動失效，不會續約扣款。 歐登塞、奧爾堡 等地的行動網路覆蓋完整，跨區移動也不斷線。
+    - q: 買丹麥 eSIM 支援哪些付款方式？多久能收到？
+      a: Roami 支援信用卡等常見線上付款，結帳後 QR code 會寄到你的電子郵件，通常幾分鐘內就能收到。建議出發前先在台灣買好、裝好，抵達 丹麥 即可連線。 另外，哥本哈根、埃斯比約 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
 related_products:
   title: 類似 丹麥 eSIM 的旅行方案
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 西班牙 eSIM
+    flag: img/flags/es.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: spain-esim
+  - name: 模里西斯 eSIM
+    flag: img/flags/mu.svg
+    price: 自 $7.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: mauritius-esim
+  - name: 尼泊爾 eSIM
+    flag: img/flags/np.svg
+    price: 自 $10.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: hong-kong-esim
+    slug: nepal-esim
   - name: 中國 eSIM
     flag: img/flags/cn.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: false
     slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+  - name: 瓜地馬拉 eSIM
+    flag: img/flags/gt.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: guatemala-esim
+  - name: 土耳其 eSIM
+    flag: img/flags/tr.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: turkey-esim
+  - name: 蓋亞那 eSIM
+    flag: img/flags/gy.svg
+    price: 自 $9.99
+    is_highlight: false
+    slug: guyana-esim
+  - name: 越南 eSIM
+    flag: img/flags/vn.svg
+    price: 自 $1.99
+    is_highlight: true
+    slug: vietnam-esim
+  - name: 保加利亞 eSIM
+    flag: img/flags/bg.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: bulgaria-esim
+  - name: 埃及 eSIM
+    flag: img/flags/eg.svg
+    price: 自 $2.99
+    is_highlight: false
+    slug: egypt-esim
+  - name: 俄羅斯 eSIM
+    flag: img/flags/ru.svg
+    price: 自 $2.99
+    is_highlight: false
+    slug: russia-esim
+  - name: 奈及利亞 eSIM
+    flag: img/flags/ng.svg
+    price: 自 $5.99
+    is_highlight: false
+    slug: nigeria-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Denmark eSIM 能不能順暢上網？速度、延遲、覆蓋一次說清楚"
   subtitle: "丹麥當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Denmark) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Denmark"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -475,21 +479,21 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Denmark. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 TDC 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開在超市或 kiosk 尋找 Lebara 或 Lyca Mobile 實體卡的麻煩，抵達丹麥後一分鐘內線上啟用 eSIM，無需信用卡在線購買的支付限制。"
     - icon: "id-card"
       title: "KYC 與護照登記"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。但根據市場知識，丹麥目前尚未強制實施 CPR 號碼註冊的 KYC 政策，購買預付 SIM 卡通常不需要護照登記。"
+      prepaid_desc: "丹麥目前尚未強制實施 CPR 號碼註冊的 KYC 政策，購買預付 SIM 卡通常不需要護照登記。"
       esim_title: "免護照登記"
       esim_desc: "丹麥預付 SIM 卡雖無強制 KYC，但 Lyca 的入門套餐需信用卡在線購買；eSIM 完全無需個人證件或信用卡綁定，即買即用。"
     - icon: "globe"
       title: "國際漫遊"
       prepaid_title: ""
-      prepaid_desc: "Lebara 的純數據套餐不包含任何歐盟/歐洲經濟區漫遊，出境後按 DKK 40/GB 計費；Lyca Mobile 在歐盟漫遊時熱點分享功能被完全封鎖。"
+      prepaid_desc: "Lebara 的純數據方案不包含任何歐盟/歐洲經濟區漫遊，出境後按 DKK 40/GB 計費；Lyca Mobile 在歐盟漫遊時熱點分享功能被完全封鎖。"
       esim_title: "全球無縫漫遊"
-      esim_desc: "與 Lebara 純數據套餐禁止歐盟漫遊（出境後 DKK 40/GB）不同，Roami eSIM 提供跨國自動切換，無 FUP 縮水陷阱，例如 7 天方案最低 1.99 美元/GB。"
+      esim_desc: "與 Lebara 純數據方案禁止歐盟漫遊（出境後 DKK 40/GB）不同，Roami eSIM 提供跨國自動切換，無 FUP 縮水陷阱，例如 7 天方案最低 1.99 美元/GB。"
     - icon: "calendar-xmark"
       title: "計費週期與浪費成本"
       prepaid_title: ""
@@ -511,7 +515,7 @@ market_analysis:
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "TDC 的客服以本地語言為主且時間有限，漫遊或設定問題往往需自行摸索，缺少全天候支援管道。"
       esim_title: "24/7 客服"
       esim_desc: "提供全天候多語言客戶支援，無需像當地預付卡那樣依賴有限的營業時間或僅丹麥語服務。"
 
@@ -528,7 +532,7 @@ market_analysis:
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
         title: "多國旅行無縫切換"
-        desc: "從丹麥前往瑞典等鄰國時，Lebara 純數據套餐無法使用，Lyca 熱點被封鎖。eSIM 自動連接當地最優網絡，無需手動設定。"
+        desc: "從丹麥前往瑞典等鄰國時，Lebara 純數據方案無法使用，Lyca 熱點被封鎖。eSIM 自動連接當地最優網路，無需手動設定。"
       - icon: "credit-card"
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"

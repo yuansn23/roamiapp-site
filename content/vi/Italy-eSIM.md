@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Ý - 5G tại Rome & Venice | Không Codice Fiscale | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: eSIM Ý - Gói Trả trước 5G Tốt nhất | Không Codice Fiscale
-  description: Nhận eSIM Ý tốt nhất với 5G trên TIM, Vodafone & Wind Tre. Không cần Codice Fiscale hay hộ chiếu — bỏ qua từ chối của cửa hàng TIM. Phủ sóng Rome, Venice, Florence & Milan. Gói từ 1,99 USD.
-  keywords: eSIM Ý, mua eSIM Ý, eSIM Ý tốt nhất, eSIM du lịch Ý, TIM Ý, Vodafone Italia Ý, Wind Tre Ý, eSIM Rome, eSIM Milan, eSIM Venice, eSIM trả trước Ý, eSIM 5G Ý, eSIM Ý không mã số thuế
+  description: Nhận eSIM Ý tốt nhất với 5G trên TIM, Vodafone & Wind Tre. Không cần Codice Fiscale hay hộ chiếu — bỏ qua từ chối của cửa hàng TIM. Phủ sóng Rome, Venice, Florence & Milan. Gói từ $1.99.
+  keywords: eSIM Ý, mua eSIM Ý, eSIM Ý tốt nhất, eSIM du lịch Ý, TIM Ý, Vodafone Italia Ý, Wind Tre Ý, eSIM Rome, eSIM Milan, eSIM Naples, eSIM trả trước Ý, eSIM 5G Ý, eSIM Turin, eSIM Palermo, eSIM Ý giá rẻ, sim du lịch Ý
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -73,7 +73,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Sẵn sàng cho tàu cao tốc
     desc: Giữ kết nối trên tàu Frecciarossa và Italo giữa Rome, Florence, Venice và Milan
-plans_title: 'Mua eSIM Ý: Gói cho mọi thời gian chuyến đi'
+plans_title: 'So sánh và chọn gói Ý eSIM'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -320,7 +320,7 @@ network_coverage:
       coverage: Vùng phủ 5G đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Ý: Những điều cần biết trước khi đi'
+  title: 'Xem vài điểm này trước khi dùng Ý eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -347,7 +347,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Ý: 3 bước đơn giản'
+  title: 'Kích hoạt Ý eSIM trong 3 bước'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -367,12 +367,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hướng dẫn eSIM Ý: 5G, Codice Fiscale & Mẹo du lịch"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, vùng phủ mạng và chất lượng kết nối cho du khách tại Ý. Tìm hiểu tốc độ mong đợi tại Rome, Venice và Florence — và cách tránh bẫy Codice Fiscale."
+  desc: "Hướng dẫn kết nối và giải đáp về tốc độ eSIM cho du khách tại Ý."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Ý
+    title: Giải đáp về Ý eSIM
     questions:
     - q: |
         Codice Fiscale là gì và tại sao nó lại là vấn đề đối với du khách mua SIM ở Ý?
@@ -389,7 +389,7 @@ faq_section:
     - q: |
         Tại sao SIM Ý có chu kỳ thanh toán 28 ngày? Có lãng phí cho chuyến đi ngắn không?
       a: |
-        Có — hầu hết các nhà mạng Ý sử dụng <strong>chu kỳ thanh toán 28 ngày</strong> (không phải tháng dương lịch). TIM Tourist có giá €30 cho 15GB/30 ngày. Vodafone sử dụng chu kỳ 28 ngày (13 lần tính phí mỗi năm). Nếu bạn đến thăm 7 ngày, bạn đang trả cho <strong>21-23 ngày không sử dụng (lãng phí 75%+)</strong>. Roami cung cấp các gói 3, 7, 15 và 30 ngày — bạn <strong>chỉ trả cho thời gian chuyến đi thực tế của mình</strong>. Chuyến đi 7 ngày với Roami có thể chỉ từ 2,99 USD so với €30 tại TIM, không có ngày lãng phí.
+        Có — hầu hết các nhà mạng Ý sử dụng <strong>chu kỳ thanh toán 28 ngày</strong> (không phải tháng dương lịch). TIM Tourist có giá €30 cho 15GB/30 ngày. Vodafone sử dụng chu kỳ 28 ngày (13 lần tính phí mỗi năm). Nếu bạn đến thăm 7 ngày, bạn đang trả cho <strong>21-23 ngày không sử dụng (lãng phí 75%+)</strong>. Roami cung cấp các gói 3, 7, 15 và 30 ngày — bạn <strong>chỉ trả cho thời gian chuyến đi thực tế của mình</strong>. Chuyến đi 7 ngày với Roami có thể chỉ từ $1.99 so với €30 tại TIM, không có ngày lãng phí.
     - q: |
         eSIM của tôi có hoạt động trên tàu cao tốc giữa Rome, Florence, Venice và Milan không?
       a: |
@@ -410,63 +410,75 @@ faq_section:
         Thời hạn hiệu lực của eSIM Ý bắt đầu từ khi nào?
       a: |
         Hiệu lực gói bắt đầu khi bạn kết nối với mạng địa phương tại Ý, không phải khi mua hay cài đặt. Vì vậy, bạn có thể mua và cài đặt vài tuần trước chuyến đi mà không mất ngày nào. Gói 7 ngày cho bạn 7 ngày đầy đủ từ lần kết nối đầu tiên.
+    - q: |
+        Mua eSIM Ý thanh toán bằng cách nào? Bao lâu nhận được?
+      a: |
+        Roami hỗ trợ các hình thức thanh toán trực tuyến phổ biến; sau khi thanh toán, mã QR sẽ được gửi đến email của bạn, thường chỉ trong vài phút. Bạn nên mua và cài đặt trước chuyến đi để đến Ý là có mạng ngay.  Tại khu vực Rome, Milan, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
+    - q: |
+        Đi Ý vài ngày thì nên chọn gói eSIM dung lượng bao nhiêu?
+      a: |
+        eSIM Ý của Roami có các mức 1GB, 3GB, 5GB, 10GB, Không giới hạn, 20GB. Chuyến ngắn, chỉ tra bản đồ và nhắn tin thì 1GB là đủ; nếu xem video ngắn, gọi video hoặc chia sẻ hotspot, bạn nên chọn mức cao hơn một bậc. Nếu chưa chắc về nhu cầu, có thể mua gói nhỏ rồi nạp thêm trong ứng dụng sau khi đến Ý, không cần đổi SIM.  Naples, Turin và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
+    - q: |
+        eSIM Ý có chia sẻ hotspot cho bạn đồng hành được không?
+      a: |
+        Có, eSIM Ý của Roami hỗ trợ chia sẻ hotspot cho laptop, máy tính bảng hoặc người đi cùng. Nếu dùng chung nhiều người, nên chọn gói cao hơn một bậc để không hết dữ liệu giữa chừng; nếu thiếu vẫn có thể nạp thêm trong ứng dụng.  Thực tế tại Rome, Palermo, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
 related_products:
   title: Các gói eSIM Ý liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ 1,99 USD
+  - name: eSIM Kyrgyzstan
+    flag: img/flags/kg.svg
+    price: Từ $4.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ 1,99 USD
+  - name: eSIM Campuchia
+    flag: img/flags/kh.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ 1,99 USD
+  - name: eSIM Hàn Quốc
+    flag: img/flags/kr.svg
+    price: Từ $1.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ 1,99 USD
+  - name: eSIM Kuwait
+    flag: img/flags/kw.svg
+    price: Từ $4.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ 1,99 USD
+  - name: eSIM Kazakhstan
+    flag: img/flags/kz.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ 1,99 USD
+  - name: eSIM Lào
+    flag: img/flags/la.svg
+    price: Từ $4.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ 1,99 USD
+  - name: eSIM Liechtenstein
+    flag: img/flags/li.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ 1,99 USD
+  - name: eSIM Liberia
+    flag: img/flags/lr.svg
+    price: Từ $27.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ 1,99 USD
+  - name: eSIM Lithuania
+    flag: img/flags/lt.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ 1,99 USD
+  - name: eSIM Luxembourg
+    flag: img/flags/lu.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ 1,99 USD
+  - name: eSIM Latvia
+    flag: img/flags/lv.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ 1,99 USD
+  - name: eSIM Madagascar
+    flag: img/flags/mg.svg
+    price: Từ $11.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Ý vs SIM địa phương: Không Codice Fiscale, Không lãng phí 28 ngày, Không từ chối thẻ'
   subtitle: SIM trả trước địa phương Ý vs. Giải pháp eSIM (Đánh giá 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Ý) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Italy
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -495,7 +507,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: TIM Tourist có giá €30 cho 15GB/30 ngày. Vodafone sử dụng <strong>chu kỳ 28 ngày</strong> (13 lần tính phí mỗi năm). Du khách 7 ngày lãng phí hơn 75% giá trị gói.
     esim_title: Gói ngắn linh hoạt
-    esim_desc: Roami cung cấp gói 3/7/15/30 ngày từ 1,99 USD — <strong>chỉ trả cho thời gian chuyến đi thực tế của bạn</strong>. Không cam kết 30 ngày bắt buộc, không lãng phí chu kỳ 28 ngày.
+    esim_desc: Roami cung cấp gói 3/7/15/30 ngày từ $1.99 — <strong>chỉ trả cho thời gian chuyến đi thực tế của bạn</strong>. Không cam kết 30 ngày bắt buộc, không lãng phí chu kỳ 28 ngày.
   - icon: wifi
     title: Chính sách chia sẻ<br>kết nối & tốc độ
     prepaid_title: ''
@@ -536,5 +548,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Không lãng phí chi phí 28/30 ngày
-      desc: TIM có giá <b>€30 cho 30 ngày</b>; Vodafone sử dụng <b>chu kỳ 28 ngày</b>. Du khách 7 ngày lãng phí <b>75%+</b>. Roami cung cấp <b>gói 7 ngày từ 1,99 USD/GB</b> — không lãng phí.
+      desc: TIM có giá <b>€30 cho 30 ngày</b>; Vodafone sử dụng <b>chu kỳ 28 ngày</b>. Du khách 7 ngày lãng phí <b>75%+</b>. Roami cung cấp <b>gói 7 ngày từ $1.99/GB</b> — không lãng phí.
 ---

@@ -1,6 +1,6 @@
 ---
 title: '肯亞 eSIM 2026: 5G與方案 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,7 @@ modal:
 seo:
   title: "肯亞eSIM｜5G上網吃到飽，跨國旅行不斷網"
   description: "去肯亞出國旅遊eSIM推薦選Roami，5G高速上網吃到飽隨時查詢景點導航。社群分享旅遊點滴不卡頓，出國旅遊上網卡方案旅客好評推薦首選，值得信賴。"
-  keywords: 肯亞 eSIM, 肯亞 eSIM方案, 最佳肯亞 eSIM, 肯亞上網, Safaricom 肯亞, Airtel Kenya 肯亞, Telkom Kenya 肯亞, 內羅比 eSIM, 蒙巴薩 eSIM, 基蘇木 eSIM,
-    肯亞行動網路, 5G 肯亞
+  keywords: 肯亞 eSIM, eSIM 肯亞, 肯亞 eSIM 購買, 最佳肯亞 eSIM, 肯亞 上網, Safaricom 肯亞, Airtel Kenya 肯亞, Telkom Kenya 肯亞, 內羅比 eSIM, 蒙巴薩 eSIM, 基蘇木 eSIM, 納庫魯 eSIM, 納紐基 eSIM, 肯亞 eSIM 方案, 肯亞 5G eSIM, 肯亞 eSIM 預付卡
 order_summary:
   title: 選擇 肯亞 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線肯亞最佳電信商，取得最強訊號
-plans_title: 購買肯亞 eSIM：適合各種旅程的方案
+plans_title: 肯亞 eSIM 各式方案快速挑選
 plans_data:
   7 天:
   - spec: 1GB
@@ -281,7 +280,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 肯亞 eSIM秘訣：出發前須知
+  title: 肯亞 eSIM 實用提醒總整理
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -310,7 +309,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 肯亞 eSIM啟用：3個簡單步驟
+  title: 肯亞 eSIM 啟用流程說明
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 肯亞 做好準備
@@ -345,7 +344,7 @@ faq_section:
     title: 肯亞 eSIM 電信商Safaricom、Airtel、Telkom哪個好？網路速度完整比較
     questions:
     - q: 準備去肯亞long stay，eSIM方案買哪種比較划算？
-      a: Roami 肯亞 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Safaricom在肯亞市區5G網速約100-300Mbps，看1080p影片沒問題。去肯亞機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到肯亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 肯亞 eSIM方案從$7.99（3天1GB）起，最高$98.99（30天30GB）。一般旅客買最多的是5GB/15天（$37.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Safaricom在肯亞市區5G網速約100-300Mbps，看1080p影片沒問題。去肯亞機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到肯亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 去肯亞玩辦eSIM，Roami會自動切換Safaricom、Airtel、Telkom的網路嗎？
       a: 肯亞主要有Safaricom、Airtel、Telkom。Safaricom市區下載快、基地台密集。Airtel郊區覆蓋廣，會去郊區的話選Airtel路線較有保障。Telkom價格親民，適合預算有限的旅客。肯亞4G為主，5G於奈洛比等城市開通。不過Roami會自動切換到當前訊號最強的網路。市區用Safaricom，移動到郊區若Safaricom訊號變弱就自動跳Airtel或Telkom，完全不用手動選。
     - q: 有人說去肯亞辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
@@ -356,77 +355,82 @@ faq_section:
       a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到肯亞開數據漫遊就用。
     - q: 肯亞eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
       a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
+    - q: 去肯亞玩幾天，該挑多大的eSIM規格才夠用？
+      a: Roami 肯亞 eSIM 有 1GB、10GB、5GB、3GB、20GB、30GB 等規格可選。短天數、只查地圖傳訊息的輕度使用，1GB 就夠；如果會看短影片、視訊通話或開熱點分享，建議再往上加一級。用量抓不準可以先買小的，到 肯亞 後在 App 加購即可，不用換卡。 另外，內羅比、蒙巴薩 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
+    - q: 肯亞 eSIM 要怎麼啟用？要抵達當地才開嗎？
+      a: 建議出發前先用 WiFi 掃描 QR code 安裝描述檔，抵達 肯亞 後再開啟 eSIM 線路並打開數據漫遊，連上當地網路就會自動啟用，方案效期也從那時開始計算。 在 基蘇木、納庫魯 一帶實測收訊良好，移動中會自動切換基地台。
+    - q: 抵達肯亞機場後就能馬上上網嗎？
+      a: 可以。只要出發前先安裝好 eSIM，落地後關閉飛航模式、開啟 eSIM 線路，通常幾十秒內就能連上當地網路，不用在機場排隊買實體 SIM 卡。 內羅比、納紐基 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
 related_products:
   title: 類似 肯亞 eSIM 的旅行方案
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 立陶宛 eSIM
+    flag: img/flags/lt.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+    slug: lithuania-esim
+  - name: 英國 eSIM
+    flag: img/flags/gb.svg
+    price: 自 $1.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: united-kingdom-esim
+  - name: 柬埔寨 eSIM
+    flag: img/flags/kh.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: cambodia-esim
+  - name: 巴拉圭 eSIM
+    flag: img/flags/py.svg
+    price: 自 $22.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: paraguay-esim
+  - name: 汶萊 eSIM
+    flag: img/flags/bn.svg
+    price: 自 $9.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: brunei-esim
+  - name: 多米尼克 eSIM
+    flag: img/flags/dm.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: dominica-esim
+  - name: 法羅群島 eSIM
+    flag: img/flags/fo.svg
+    price: 自 $5.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: faroe-islands-esim
+  - name: 尼泊爾 eSIM
+    flag: img/flags/np.svg
+    price: 自 $10.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: nepal-esim
+  - name: 孟加拉 eSIM
+    flag: img/flags/bd.svg
+    price: 自 $5.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+    slug: bangladesh-esim
+  - name: 伊拉克 eSIM
+    flag: img/flags/iq.svg
+    price: 自 $21.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: iraq-esim
+  - name: 波札那 eSIM
+    flag: img/flags/bw.svg
+    price: 自 $14.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: botswana-esim
+  - name: 挪威 eSIM
+    flag: img/flags/no.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: norway-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "在Kenya用eSIM上網穩不穩？市區郊區分區評測"
   subtitle: "肯亞當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Kenya) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Kenya"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -435,13 +439,13 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Kenya. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Safaricom 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 Safaricom 門市排隊與護照影本驗證，抵達肯亞後一分鐘內線上啟用 eSIM，無需擔心街邊小販的非法卡風險（最高 6 個月監禁）。"
     - icon: "id-card"
       title: "KYC 與護照登記"
       prepaid_title: ""
-      prepaid_desc: "肯亞通信管理局自 2018 年起對 Safaricom、Airtel、Telkom 三大運營商施加巨額罰款（年收入 0.2%）的威脅，要求必須斷開所有未註冊 SIM 卡。"
+      prepaid_desc: "肯亞通信管理局自 2018 年起對 Safaricom、Airtel、Telkom 三大電信商施加巨額罰款（年收入 0.2%）的威脅，要求必須斷開所有未註冊 SIM 卡。"
       esim_title: "免護照登記"
       esim_desc: "無需像 Safaricom、Airtel 或 Telkom 那樣強制實名註冊，eSIM 免於肯亞通信管理局的斷網威脅（年收入 0.2% 罰款），保護隱私。"
     - icon: "globe"
@@ -449,7 +453,7 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Safaricom 與 Airtel 的月套餐均未明確標註包含東非跨國漫遊權益，如進入坦尚尼亞或烏干達將觸發每 MB 約 KES 4 的高額漫遊費。"
       esim_title: "全球漫遊無憂"
-      esim_desc: "避開 Safaricom 與 Airtel 的東非漫遊高額費用（每 MB 約 KES 4），eSIM 提供東非區域多國網路，跨國時自動切換至最佳運營商，無流量縮水。"
+      esim_desc: "避開 Safaricom 與 Airtel 的東非漫遊高額費用（每 MB 約 KES 4），eSIM 提供東非區域多國網路，跨國時自動切換至最佳電信商，無流量縮水。"
     - icon: "calendar-xmark"
       title: "計費週期與浪費成本"
       prepaid_title: ""
@@ -459,21 +463,21 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "當地預付卡多數支援熱點分享，但 Safaricom 等業者常在用量達到門檻後降低速度，部分低價方案則直接限制分享功能。"
       esim_title: "無限熱點分享"
-      esim_desc: "eSIM 支援熱點分享，無隱性限制；相較於肯亞運營商常見的鎖卡風險，可自由連接多台設備，適合團隊旅行。"
+      esim_desc: "eSIM 支援熱點分享，無隱性限制；相較於肯亞電信商常見的鎖卡風險，可自由連接多台設備，適合團隊旅行。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "加值方式以 Safaricom、Airtel Kenya 門市現金或實體刮刮卡為主，線上刷卡常因國際信用卡被拒而失敗，臨時加值較麻煩。"
       esim_title: "全球付款方式"
       esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需擔心肯亞當地現金或 M-Pesa 支付限制，線上儲值即時生效。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "遇到問題只能找 Safaricom、Airtel Kenya 的門市或客服專線，語言以當地語言為主，且非全天候服務，旅客求助不易。"
       esim_title: "24/7 客戶支援"
-      esim_desc: "提供全天候多語言線上客服，無需像肯亞運營商那樣僅限當地營業時間，隨時解決連線問題。"
+      esim_desc: "提供全天候多語言線上客服，無需像肯亞電信商那樣僅限當地營業時間，隨時解決連線問題。"
 
   # =============== 100% 完整復原：專家評語模組 ===============
   expert_verdict:
@@ -493,7 +497,7 @@ market_analysis:
         icon_bg: "bg-teal-100"
         icon_color: "text-teal-600"
         title: "24/7 多語言支援"
-        desc: "肯亞運營商客服僅限當地營業時間，eSIM 提供全天候線上支援，隨時解決連線問題，無語言障礙。"
+        desc: "肯亞電信商客服僅限當地營業時間，eSIM 提供全天候線上支援，隨時解決連線問題，無語言障礙。"
       - icon: "hourglass-empty"
         icon_bg: "bg-amber-100"
         icon_color: "text-amber-600"

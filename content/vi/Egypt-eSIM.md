@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Ai Cập - 4G/5G tại Cairo & Luxor | Không cần Hộ chiếu | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: eSIM Ai Cập - Gói dữ liệu trả trước không giới hạn cho chuyến đi của bạn
-  description: Nhận eSIM Ai Cập tốt nhất với 4G/5G trên Orange, Vodafone & Etisalat. Không cần hộ chiếu hay địa chỉ khách sạn — bỏ qua bẫy SIM sân bay. Phủ sóng Cairo, Giza & Luxor. Gói từ $1.99.
-  keywords: eSIM Ai Cập, mua eSIM Ai Cập, eSIM Ai Cập tốt nhất, eSIM du lịch Ai Cập, Orange Ai Cập, Vodafone Ai Cập, Etisalat Ai Cập, eSIM Cairo, eSIM Alexandria, eSIM Luxor, eSIM trả trước Ai Cập, Kim tự tháp Giza eSIM, eSIM Ai Cập không cần hộ chiếu
-  low_price: 1.99
-  high_price: 39.9
+  description: Nhận eSIM Ai Cập tốt nhất với 4G/5G trên Orange, Vodafone & Etisalat. Không cần hộ chiếu hay địa chỉ khách sạn — bỏ qua bẫy SIM sân bay. Phủ sóng Cairo, Giza & Luxor. Gói từ $2.99.
+  keywords: eSIM Ai Cập, mua eSIM Ai Cập, eSIM Ai Cập tốt nhất, eSIM du lịch Ai Cập, Orange Ai Cập, Vodafone Ai Cập, Etisalat Ai Cập, eSIM Cairo, eSIM Alexandria, eSIM Luxor, eSIM trả trước Ai Cập, eSIM 5G Ai Cập, eSIM Hurghada, eSIM Sharm El Sheikh, eSIM Ai Cập giá rẻ, sim du lịch Ai Cập
+  low_price: 2.99
+  high_price: 94.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -73,7 +73,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: VoIP & WhatsApp được mở khóa
     desc: Ai Cập chặn cuộc gọi WhatsApp trên mạng địa phương — Roami vượt qua điều này
-plans_title: 'Mua eSIM Ai Cập: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Gói dữ liệu Ai Cập eSIM của bạn'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -296,7 +296,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Ai Cập: Những điều cần biết trước khi đi'
+  title: 'Nhắc nhở nhỏ trước chuyến đi với Ai Cập eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích với eSIM</a> trước khi mua.
@@ -323,7 +323,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Ai Cập: 3 bước đơn giản'
+  title: 'Hướng dẫn cài đặt và kích hoạt Ai Cập eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -343,12 +343,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hướng dẫn eSIM Ai Cập: 4G/5G, Cuộc gọi WhatsApp & Mẹo du lịch"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Ai Cập. Tìm hiểu tốc độ bạn có thể mong đợi tại Kim tự tháp, ở Cairo và dọc theo sông Nile."
+  desc: "Tổng hợp câu hỏi và giải đáp về eSIM Ai Cập - tốc độ, phủ sóng và cách kết nối."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Ai Cập
+    title: Câu hỏi và giải đáp cho Ai Cập eSIM
     questions:
     - q: |
         Tại sao tôi không thể mua SIM tại Sân bay Cairo? Tôi đã nghe những điều không tốt.
@@ -394,63 +394,75 @@ faq_section:
         Thời hạn hiệu lực của eSIM Ai Cập bắt đầu khi nào?
       a: |
         Thời hạn gói bắt đầu khi bạn kết nối với mạng địa phương tại Ai Cập, không phải khi bạn mua hay cài đặt. Vì vậy bạn có thể mua và cài đặt vài tuần trước chuyến đi mà không mất bất kỳ ngày sử dụng nào. Gói 7 ngày cho bạn 7 ngày đầy đủ từ lần kết nối đầu tiên.
+    - q: |
+        Dùng eSIM Ai Cập ở Cairo, Alexandria có ổn không?
+      a: |
+        Cairo, Alexandria và các đô thị chính đều được phủ sóng di động đầy đủ: tra bản đồ, gọi xe, nhắn tin và tải ảnh đều ổn. Một số vùng xa của Ai Cập tín hiệu yếu hơn, bạn nên tải bản đồ ngoại tuyến để phòng.  Cairo, Alexandria và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
+    - q: |
+        Mua eSIM Ai Cập thanh toán bằng cách nào? Bao lâu nhận được?
+      a: |
+        Roami hỗ trợ các hình thức thanh toán trực tuyến phổ biến; sau khi thanh toán, mã QR sẽ được gửi đến email của bạn, thường chỉ trong vài phút. Bạn nên mua và cài đặt trước chuyến đi để đến Ai Cập là có mạng ngay.  Thực tế tại Luxor, Hurghada, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
+    - q: |
+        Dùng eSIM Ai Cập gặp sự cố thì liên hệ ai?
+      a: |
+        Roami có hỗ trợ khách hàng trực tuyến. Nếu gặp lỗi kết nối tại Ai Cập, bạn kiểm tra đường eSIM đã bật và chuyển vùng dữ liệu đã mở chưa; nếu vẫn chưa được thì liên hệ hỗ trợ, trường hợp đủ điều kiện có thể yêu cầu hoàn tiền.  Dù ở Cairo, Sharm El Sheikh hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
 related_products:
   title: Các gói eSIM Ai Cập liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
+  - name: eSIM Afghanistan
+    flag: img/flags/af.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Albania
+    flag: img/flags/al.svg
     price: Từ $1.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Armenia
+    flag: img/flags/am.svg
+    price: Từ $7.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ $1.99
+  - name: eSIM Argentina
+    flag: img/flags/ar.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
+  - name: eSIM Áo
+    flag: img/flags/at.svg
     price: Từ $1.99
     is_highlight: false
   - name: eSIM Úc
     flag: img/flags/au.svg
     price: Từ $1.99
     is_highlight: false
+  - name: eSIM Azerbaijan
+    flag: img/flags/az.svg
+    price: Từ $6.99
+    is_highlight: false
+  - name: eSIM Bosnia và Herzegovina
+    flag: img/flags/ba.svg
+    price: Từ $30.99
+    is_highlight: false
+  - name: eSIM Barbados
+    flag: img/flags/bb.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Bangladesh
+    flag: img/flags/bd.svg
+    price: Từ $5.99
+    is_highlight: false
+  - name: eSIM Bỉ
+    flag: img/flags/be.svg
+    price: Từ $1.99
+    is_highlight: false
+  - name: eSIM Burkina Faso
+    flag: img/flags/bf.svg
+    price: Từ $11.99
+    is_highlight: false
 market_analysis:
   title: 'eSIM Ai Cập vs SIM trả trước địa phương: Không cần Hộ chiếu, Không thuế 30%'
   subtitle: SIM trả trước địa phương Ai Cập vs. Giải pháp eSIM (Điểm chuẩn 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Ai Cập) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Egypt
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -479,7 +491,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Tất cả các nhà mạng lớn (Vodafone, Orange, Etisalat) sử dụng chu kỳ thanh toán 30 ngày. Khách du lịch 7 ngày mua gói EGP 200/5GB của Orange lãng phí hơn 75% giá trị gói.
     esim_title: Gói ngắn hạn linh hoạt
-    esim_desc: Tránh các gói 30 ngày lãng phí hơn 75% giá trị cho chuyến đi ngắn. Roami cung cấp gói 7 ngày từ $1.99/GB — phù hợp với thời gian lưu trú thực tế của bạn.
+    esim_desc: Tránh các gói 30 ngày lãng phí hơn 75% giá trị cho chuyến đi ngắn. Roami cung cấp gói 7 ngày từ $2.99/GB — phù hợp với thời gian lưu trú thực tế của bạn.
   - icon: wifi
     title: Chính sách điểm phát<br>Wi-Fi & tốc độ
     prepaid_title: ''
@@ -520,5 +532,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Không lãng phí chi phí chìm 30 ngày
-      desc: Các gói 30 ngày của Orange/Vodafone lãng phí <b>hơn 75%</b> cho chuyến đi 7 ngày. Roami cung cấp <b>gói 7 ngày từ $1.99/GB</b> — chỉ trả cho chuyến đi của bạn.
+      desc: Các gói 30 ngày của Orange/Vodafone lãng phí <b>hơn 75%</b> cho chuyến đi 7 ngày. Roami cung cấp <b>gói 7 ngày từ $2.99/GB</b> — chỉ trả cho chuyến đi của bạn.
 ---

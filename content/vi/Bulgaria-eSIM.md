@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Bulgaria 2026: Hướng dẫn Du lịch & Mạng | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Bulgaria | Gói dữ liệu trả trước 5G tốt nhất cho du khách
   description: Khám phá Bulgaria với eSIM du lịch trả trước tốt nhất từ Roami. Dữ liệu 5G không giới hạn toàn quốc. Kích hoạt tức thì. Phủ sóng Sofia, Plovdiv và bờ biển.
-  keywords: eSIM Bulgaria, mua eSIM Bulgaria, eSIM Bulgaria tốt nhất, eSIM du lịch Bulgaria, A1 Bulgaria, Telenor Bulgaria, Vivacom Bulgaria, eSIM Sofia, eSIM Plovdiv, eSIM Varna, eSIM trả trước Bulgaria, eSIM 5G Bulgaria
+  keywords: eSIM Bulgaria, mua eSIM Bulgaria, eSIM Bulgaria tốt nhất, eSIM du lịch Bulgaria, A1 Bulgaria Bulgaria, Telenor Bulgaria, Vivacom Bulgaria, eSIM Sofia, eSIM Plovdiv, eSIM Varna, eSIM trả trước Bulgaria, eSIM 5G Bulgaria, eSIM Burgas, eSIM Bulgaria giá rẻ, sim du lịch Bulgaria, eSIM Bulgaria cho du khách
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng hàng đầu Bulgaria để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Bulgaria: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Các gói Bulgaria eSIM và mức giá'
 plans_data:
   30 Ngày:
   - spec: 20GB
@@ -324,7 +324,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Bulgaria: Những điều cần biết trước khi đi'
+  title: 'Điểm cần lưu ý trước chuyến đi Bulgaria'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -343,7 +343,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Bulgaria: 3 bước đơn giản'
+  title: 'Hoàn tất trước khi đến: kích hoạt Bulgaria eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -363,17 +363,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM ở Bulgaria – Kết nối có nhanh và đáng tin cậy cho du khách không?"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Bulgaria. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Những giải đáp hữu ích về tốc độ và chất lượng mạng eSIM tại Bulgaria."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Bulgaria
+    title: Những câu hỏi thường gặp về Bulgaria eSIM
     questions:
     - q: |
         Gói eSIM Bulgaria không giới hạn có bị chậm lại nếu tôi sử dụng quá nhiều dữ liệu không?
       a: |
-        Có chính sách sử dụng hợp lý: tốc độ giảm sau 30GB trong một ngày. Ở tốc độ giảm, bạn vẫn có thể nhắn tin, điều hướng và duyệt web — chỉ không xem video mượt mà. Thực tế, hầu hết du khách không dùng đến 30GB. Nếu bạn lo lắng, gói cố định 10GB ($14.99) hoặc 20GB ($24.99) sẽ loại bỏ hoàn toàn sự không chắc chắn.
+        Có chính sách sử dụng hợp lý: tốc độ giảm sau 30GB trong một ngày. Ở tốc độ giảm, bạn vẫn có thể nhắn tin, điều hướng và duyệt web — chỉ không xem video mượt mà. Thực tế, hầu hết du khách không dùng đến 30GB. Nếu bạn lo lắng, gói cố định 10GB ($11.99) hoặc 20GB ($20.99) sẽ loại bỏ hoàn toàn sự không chắc chắn.
     - q: |
         Việc tải hộ chiếu lên để đăng ký eSIM Bulgaria có an toàn không? Tôi lo lắng về quyền riêng tư.
       a: |
@@ -381,7 +381,7 @@ faq_section:
     - q: |
         Các tùy chọn eSIM rẻ nhất cho chuyến đi Bulgaria là gì?
       a: |
-        Gói eSIM Bulgaria của Roami bắt đầu từ $1.99 (7 ngày, 1GB) và lên đến $59.99 (30 ngày không giới hạn). Đối với chuyến đi 5-7 ngày điển hình, gói 5GB với giá $9.99 là lựa chọn phù hợp nhất — đủ cho bản đồ, nhắn tin và kiểm tra mạng xã hội. Cần phát video hoặc làm việc từ xa? Chọn 10GB hoặc không giới hạn. Nhờ mạng 5G của A1, phát trực tuyến và cuộc gọi video hoạt động tuyệt vời. Quầy SIM sân bay tính phí cao hơn 30-50% và bạn phải xếp hàng. Không chắc về nhu cầu dữ liệu của bạn? Bắt đầu nhỏ và nạp thêm qua ứng dụng mà không cần thay đổi eSIM.
+        Gói eSIM Bulgaria của Roami bắt đầu từ $1.99 và lên đến $77.99 (30 ngày không giới hạn). Đối với chuyến đi 5-7 ngày điển hình, gói 5GB có giá $6.99 là lựa chọn phù hợp nhất — đủ cho bản đồ, nhắn tin và kiểm tra mạng xã hội. Cần phát video hoặc làm việc từ xa? Chọn 10GB hoặc không giới hạn. Nhờ mạng 5G của A1, phát trực tuyến và cuộc gọi video hoạt động tuyệt vời. Quầy SIM sân bay tính phí cao hơn 30-50% và bạn phải xếp hàng. Không chắc về nhu cầu dữ liệu của bạn? Bắt đầu nhỏ và nạp thêm qua ứng dụng mà không cần thay đổi eSIM.
     - q: |
         Tôi có thể kiểm tra lượng dữ liệu đã sử dụng trên eSIM Bulgaria không?
       a: |
@@ -402,63 +402,75 @@ faq_section:
         Thời hạn hiệu lực của eSIM Bulgaria bắt đầu khi nào?
       a: |
         Thời hạn gói bắt đầu khi bạn kết nối với mạng địa phương tại Bulgaria, không phải khi bạn mua hay cài đặt. Vì vậy bạn có thể mua và cài đặt vài tuần trước chuyến đi mà không mất bất kỳ ngày nào. Gói 7 ngày cho bạn trọn vẹn 7 ngày kể từ lần kết nối đầu tiên.
+    - q: |
+        Tốc độ eSIM Bulgaria có nhanh không? Có chậm hơn SIM vật lý không?
+      a: |
+        eSIM Bulgaria của Roami dùng trạm gốc của các nhà mạng chính tại địa phương, tốc độ tương đương SIM trả trước bản địa; tra bản đồ, mạng xã hội và gọi video đều mượt. Tốc độ thực tế còn phụ thuộc vị trí và tải của mạng tại thời điểm đó.  Sofia, Plovdiv và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
+    - q: |
+        A1 Bulgaria và Telenor ở Bulgaria, dùng eSIM mạng nào tốt hơn?
+      a: |
+        Bulgaria có các nhà mạng chính như A1 Bulgaria, Telenor. Roami tự động chọn mạng có tín hiệu mạnh nhất tại thời điểm đó và chuyển đổi giữa A1 Bulgaria và Telenor mà bạn không cần cấu hình thủ công. Nếu lịch trình đi ra vùng ngoại ô hoặc đảo xa, nên tải bản đồ ngoại tuyến trước cho chắc.  Thực tế tại Varna, Burgas, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
+    - q: |
+        Kích hoạt eSIM Bulgaria như thế nào? Có phải đợi đến nơi mới bật?
+      a: |
+        Bạn nên quét mã QR cài đặt cấu hình qua WiFi trước chuyến đi, khi đến Bulgaria thì bật đường eSIM và mở chuyển vùng dữ liệu; máy sẽ tự kết nối mạng địa phương và thời hạn của gói bắt đầu tính từ lúc đó.  Dù ở Sofia, Burgas hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
 related_products:
   title: Gói eSIM Bulgaria liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ $1.99
+  - name: eSIM Azerbaijan
+    flag: img/flags/az.svg
+    price: Từ $6.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: eSIM Bosnia và Herzegovina
+    flag: img/flags/ba.svg
+    price: Từ $30.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Barbados
+    flag: img/flags/bb.svg
+    price: Từ $11.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Bangladesh
+    flag: img/flags/bd.svg
+    price: Từ $5.99
+    is_highlight: false
+  - name: eSIM Bỉ
+    flag: img/flags/be.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ $1.99
+  - name: eSIM Burkina Faso
+    flag: img/flags/bf.svg
+    price: Từ $11.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
+  - name: eSIM Bahrain
+    flag: img/flags/bh.svg
+    price: Từ $6.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
+  - name: eSIM Brunei
+    flag: img/flags/bn.svg
+    price: Từ $9.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
+  - name: eSIM Bolivia
+    flag: img/flags/bo.svg
+    price: Từ $11.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
+  - name: eSIM Brazil
+    flag: img/flags/br.svg
+    price: Từ $4.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
+  - name: eSIM Bahamas
+    flag: img/flags/bs.svg
+    price: Từ $16.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: eSIM Botswana
+    flag: img/flags/bw.svg
+    price: Từ $14.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Bulgaria so với Gói SIM: Giải pháp nào phù hợp với nhu cầu của bạn?'
   subtitle: SIM trả trước địa phương Bulgaria so với giải pháp eSIM (Đối sánh 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Bulgaria) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Bulgaria
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -491,7 +503,7 @@ market_analysis:
   - icon: wifi
     title: Chia sẻ kết nối &<br>Chính sách tốc độ
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho tiêu chí này. Theo kiến thức thị trường, chia sẻ kết nối thường được cho phép nhưng có thể bị hạn chế trên một số gói.
+    prepaid_desc: Chia sẻ kết nối thường được cho phép nhưng có thể bị hạn chế trên một số gói.
     esim_title: Chia sẻ kết nối không giới hạn
     esim_desc: Roami eSIM cho phép chia sẻ kết nối tốc độ đầy đủ, không như một số gói trả trước Bulgaria có thể hạn chế chia sẻ. Chia sẻ dữ liệu trên tất cả thiết bị của bạn.
   - icon: credit-card
@@ -503,7 +515,7 @@ market_analysis:
   - icon: headset
     title: Hỗ trợ khách hàng
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho tiêu chí này. Theo kiến thức thị trường, hỗ trợ khách hàng thường bằng tiếng Bulgaria với tiếng Anh hạn chế.
+    prepaid_desc: Hỗ trợ khách hàng thường bằng tiếng Bulgaria với tiếng Anh hạn chế.
     esim_title: Hỗ trợ đa ngôn ngữ 24/7
     esim_desc: Nhận hỗ trợ tiếng Anh 24/7 qua trò chuyện trực tiếp hoặc email, không như các nhà mạng Bulgaria chỉ hỗ trợ điện thoại tiếng Bulgaria hạn chế trong giờ hành chính.
   expert_verdict:

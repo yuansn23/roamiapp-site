@@ -1,6 +1,6 @@
 ---
 title: 'Panama eSIM 2026: Hướng dẫn Du lịch & Mạng | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Panama | Gói Dữ liệu Không giới hạn Tốt nhất cho Chuyến đi của Bạn
   description: Khám phá Panama với eSIM du lịch trả trước tốt nhất từ Roami. Dữ liệu 5G không giới hạn toàn quốc. Phủ sóng Panama City, David & Colon. Kích hoạt tức thì.
-  keywords: eSIM Panama, mua eSIM Panama, eSIM Panama tốt nhất, eSIM du lịch Panama, +Movil Panama, Digicel Panama, Cable & Wireless Panama, eSIM Panama City, eSIM Colón, eSIM David, eSIM trả trước Panama, eSIM 5G Panama
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM Panama, mua eSIM Panama, eSIM Panama tốt nhất, eSIM du lịch Panama, +Movil Panama, Digicel Panama, Cable & Wireless Panama, eSIM Panama City, eSIM Colón, eSIM David, eSIM trả trước Panama, eSIM 5G Panama, eSIM Santiago, eSIM Chitré, eSIM Panama giá rẻ, sim du lịch Panama
+  low_price: 11.99
+  high_price: 84.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng hàng đầu Panama để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Panama: Gói cước cho mọi thời gian lưu trú'
+plans_title: 'Panama eSIM: Chọn gói theo ngày và dung lượng'
 plans_data:
   7 Ngày:
   - spec: 1GB
@@ -260,7 +260,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Panama: Những điều cần biết trước khi đi'
+  title: 'Lưu ý kết nối khi dùng Panama eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -279,7 +279,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Panama: 3 bước đơn giản'
+  title: '3 bước kích hoạt nhanh Panama eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -299,12 +299,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Tốc độ Internet nào bạn có thể mong đợi với eSIM tại Panama?"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Panama. Tìm hiểu tốc độ mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Câu hỏi thường gặp về eSIM Panama - mạng, tốc độ và chất lượng kết nối."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Panama
+    title: Những điều du khách hỏi về Panama eSIM
     questions:
     - q: |
         Có an toàn khi tải lên hộ chiếu để đăng ký eSIM Panama không? Tôi lo ngại về quyền riêng tư.
@@ -313,11 +313,11 @@ faq_section:
     - q: |
         Tôi nên dự trù ngân sách bao nhiêu cho eSIM khi đến Panama?
       a: |
-        Roami cung cấp eSIM Panama từ $1.99 cho gói nhẹ 7 ngày lên đến $59.99 cho 30 ngày dữ liệu không giới hạn. Hầu hết du khách chọn gói 5GB/15 ngày với giá $9.99 — đủ cho điều hướng hàng ngày, mạng xã hội và nhắn tin mà không căng thẳng. Những ai thích phát trực tiếp hoặc sử dụng mạng xã hội nhiều nên cân nhắc gói 10GB hoặc không giới hạn. Claro cung cấp tốc độ đáng tin cậy trên khắp Panama. Các gói của Roami là trả trước — không có hóa đơn bất ngờ, không tự động gia hạn, chỉ giá cả rõ ràng.
+        Roami cung cấp eSIM Panama từ $11.99 cho gói nhẹ 7 ngày lên đến $84.99 cho 30 ngày dữ liệu không giới hạn. Hầu hết du khách chọn gói 5GB/15 ngày với giá $25.99 — đủ cho điều hướng hàng ngày, mạng xã hội và nhắn tin mà không căng thẳng. Những ai thích phát trực tiếp hoặc sử dụng mạng xã hội nhiều nên cân nhắc gói 10GB hoặc không giới hạn. Claro cung cấp tốc độ đáng tin cậy trên khắp Panama. Các gói của Roami là trả trước — không có hóa đơn bất ngờ, không tự động gia hạn, chỉ giá cả rõ ràng.
     - q: |
         Gói không giới hạn của eSIM Panama có bị chậm lại nếu tôi dùng quá nhiều dữ liệu không?
       a: |
-        Có chính sách sử dụng hợp lý: tốc độ giảm sau 30GB trong một ngày. Ở tốc độ giảm, bạn vẫn có thể nhắn tin, điều hướng và duyệt web — chỉ không xem video mượt mà. Thực tế, hầu hết du khách không dùng tới 30GB. Nếu bạn lo lắng, gói cố định 10GB ($14.99) hoặc 20GB ($24.99) sẽ loại bỏ hoàn toàn sự không chắc chắn.
+        Có chính sách sử dụng hợp lý: tốc độ giảm sau 30GB trong một ngày. Ở tốc độ giảm, bạn vẫn có thể nhắn tin, điều hướng và duyệt web — chỉ không xem video mượt mà. Thực tế, hầu hết du khách không dùng tới 30GB. Nếu bạn lo lắng, gói cố định 10GB ($34.99) hoặc 20GB ($72.99) sẽ loại bỏ hoàn toàn sự không chắc chắn.
     - q: |
         eSIM của tôi tại Panama có hoạt động cho cuộc gọi video và làm việc từ xa không?
       a: |
@@ -337,64 +337,76 @@ faq_section:
     - q: |
         Tôi đi Panama chỉ 2-3 ngày. Nên mua eSIM nào?
       a: |
-        Cho chuyến đi ngắn, gói 1GB/7 ngày ($1.99) đủ cho bản đồ và nhắn tin. Nếu bạn dùng mạng xã hội và chia sẻ ảnh, gói 3GB ($4.99) sẽ thoải mái hơn. Cả hai đều kích hoạt ngay và bạn có thể nạp thêm nếu cần.
+        Cho chuyến đi ngắn, gói 1GB/7 ngày ($11.99) đủ cho bản đồ và nhắn tin. Nếu bạn dùng mạng xã hội và chia sẻ ảnh, gói 3GB ($13.99) sẽ thoải mái hơn. Cả hai đều kích hoạt ngay và bạn có thể nạp thêm nếu cần.
+    - q: |
+        Đi Panama rồi qua nước khác, dùng chung một eSIM được không?
+      a: |
+        eSIM Panama của Roami chủ yếu dùng trong lãnh thổ Panama; nếu lịch trình đi sang nước láng giềng, bạn nên mua thêm gói của nước đó hoặc gói khu vực để tránh phí chuyển vùng phát sinh.  Dù ở Panama City, Colón hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
+    - q: |
+        eSIM Panama giá bao nhiêu? Có lựa chọn rẻ không?
+      a: |
+        Gói eSIM Panama của Roami bắt đầu từ $11.99 (7 ngày 1GB), cao nhất $84.99 (7 ngày Không giới hạn). Chuyến ngắn dùng ít thì chọn gói nhập môn là đủ, khách dùng nhiều thì chọn mức cao hơn. Giá minh bạch, gói hết hạn tự kết thúc và không tự động gia hạn.  Vùng phủ di động tại David, Santiago đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
+    - q: |
+        Mua eSIM Panama thanh toán bằng cách nào? Bao lâu nhận được?
+      a: |
+        Roami hỗ trợ các hình thức thanh toán trực tuyến phổ biến; sau khi thanh toán, mã QR sẽ được gửi đến email của bạn, thường chỉ trong vài phút. Bạn nên mua và cài đặt trước chuyến đi để đến Panama là có mạng ngay.  Các thành phố lớn như Panama City, Chitré đều có phủ sóng ổn định cho nhu cầu hằng ngày.
 related_products:
   title: Các gói eSIM Panama liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
+  - name: eSIM Luxembourg
+    flag: img/flags/lu.svg
     price: Từ $1.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
+  - name: eSIM Latvia
+    flag: img/flags/lv.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Madagascar
+    flag: img/flags/mg.svg
+    price: Từ $11.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Mali
+    flag: img/flags/ml.svg
+    price: Từ $27.99
+    is_highlight: false
+  - name: eSIM Malta
+    flag: img/flags/mt.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: eSIM Maldives
+    flag: img/flags/mv.svg
+    price: Từ $14.99
+    is_highlight: false
+  - name: eSIM Malawi
+    flag: img/flags/mw.svg
+    price: Từ $14.99
+    is_highlight: false
+  - name: eSIM Mexico
+    flag: img/flags/mx.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Malaysia
+    flag: img/flags/my.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
+  - name: eSIM Nepal
+    flag: img/flags/ne.svg
+    price: Từ $10.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
+  - name: eSIM Nigeria
+    flag: img/flags/ng.svg
+    price: Từ $5.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: eSIM Niger
+    flag: img/flags/ni.svg
+    price: Từ $23.99
     is_highlight: false
 market_analysis:
   title: 'So sánh eSIM Panama vs SIM trả trước: Chi phí và Tiện lợi'
   subtitle: 'SIM trả trước địa phương Panama so với Giải pháp eSIM (Đánh giá 2024/2025)'
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Panama) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Panama
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -409,7 +421,7 @@ market_analysis:
   - icon: id-card
     title: KYC & Đăng ký<br>danh tính thực
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể cho phần này từ nguồn. Dựa trên thông lệ thị trường chung, SIM trả trước Panama thường yêu cầu đăng ký hộ chiếu tại điểm bán.
+    prepaid_desc: SIM trả trước Panama thường yêu cầu đăng ký hộ chiếu tại điểm bán.
     esim_title: Không cần hộ chiếu
     esim_desc: Không giống như SIM địa phương yêu cầu đăng ký hộ chiếu tại cửa hàng, eSIM Roami kích hoạt tức thì mà không cần kiểm tra giấy tờ tùy thân, tiết kiệm 30 phút thủ tục.
   - icon: globe
@@ -423,7 +435,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: +movil cung cấp gói 3 ngày, 7 ngày, 15 ngày, 30 ngày; gói 30 ngày (B/.14.99 cho 2GB) buộc khách du lịch ngắn ngày phải lãng phí đến 90% giá trị gói.
     esim_title: Gói ngắn hạn linh hoạt
-    esim_desc: Không giống như gói 30 ngày của +movil (B/.14.99/2GB) lãng phí 90% cho chuyến đi 3 ngày, Roami cung cấp gói 7 ngày bắt đầu từ $1.99/GB, tiết kiệm đến 75% lãng phí.
+    esim_desc: Không giống như gói 30 ngày của +movil (B/.14.99/2GB) lãng phí 90% cho chuyến đi 3 ngày, Roami cung cấp gói 7 ngày bắt đầu từ $11.99/GB, tiết kiệm đến 75% lãng phí.
   - icon: wifi
     title: Chính sách chia sẻ<br>kết nối & tốc độ
     prepaid_title: ''
@@ -439,7 +451,7 @@ market_analysis:
   - icon: headset
     title: Hỗ trợ khách hàng
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể cho phần này từ nguồn. Dựa trên thông lệ chung, hỗ trợ địa phương thường bằng tiếng Tây Ban Nha, hỗ trợ tiếng Anh hạn chế.
+    prepaid_desc: Dựa trên thông lệ chung, hỗ trợ địa phương thường bằng tiếng Tây Ban Nha, hỗ trợ tiếng Anh hạn chế.
     esim_title: Hỗ trợ đa ngôn ngữ 24/7
     esim_desc: Không giống như SIM địa phương chỉ hỗ trợ tiếng Tây Ban Nha trong giờ hành chính, Roami cung cấp hỗ trợ tiếng Anh 24/7 qua trò chuyện trực tiếp và email.
   expert_verdict:
@@ -449,7 +461,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Loại bỏ 90% lãng phí gói với thanh toán linh hoạt
-      desc: Gói 30 ngày của +movil (B/.14.99/2GB) buộc du khách ngắn ngày lãng phí đến 90% giá trị gói. Roami cung cấp gói 7 ngày bắt đầu từ $1.99/GB, tiết kiệm đến 75% lãng phí.
+      desc: Gói 30 ngày của +movil (B/.14.99/2GB) buộc du khách ngắn ngày lãng phí đến 90% giá trị gói. Roami cung cấp gói 7 ngày bắt đầu từ $11.99/GB, tiết kiệm đến 75% lãng phí.
     - icon: wifi
       icon_bg: bg-purple-100
       icon_color: text-purple-600

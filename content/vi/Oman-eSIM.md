@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Oman - 5G tại Muscat & Nizwa | Không rắc rối Hộ chiếu | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: eSIM Oman - Gói Dữ liệu Trả trước 5G cho Hành trình của Bạn
-  description: Nhận eSIM Oman tốt nhất với 5G trên Omantel, Ooredoo & Vodafone. Không cần đăng ký hộ chiếu — bỏ qua xếp hàng sân bay. Phủ sóng Muscat, Nizwa & Salalah. Gói từ 1,99 USD.
-  keywords: eSIM Oman, mua eSIM Oman, eSIM Oman tốt nhất, eSIM du lịch Oman, Omantel Oman, Ooredoo Oman, Vodafone Oman, eSIM Muscat, eSIM Salalah, eSIM Nizwa, eSIM trả trước Oman, eSIM 5G Oman, eSIM Oman không hộ chiếu
-  low_price: 1.99
-  high_price: 39.9
+  description: Nhận eSIM Oman tốt nhất với 5G trên Omantel, Ooredoo & Vodafone. Không cần đăng ký hộ chiếu — bỏ qua xếp hàng sân bay. Phủ sóng Muscat, Nizwa & Salalah. Gói từ $5.99.
+  keywords: eSIM Oman, mua eSIM Oman, eSIM Oman tốt nhất, eSIM du lịch Oman, Omantel Oman, Ooredoo Oman, Vodafone Oman, eSIM Muscat, eSIM Salalah, eSIM Nizwa, eSIM trả trước Oman, eSIM 5G Oman, eSIM Sohar, eSIM Sur, eSIM Oman giá rẻ, sim du lịch Oman
+  low_price: 5.99
+  high_price: 67.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -73,7 +73,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Sẵn sàng cho Di sản & Bờ biển
     desc: 4G/5G trên khắp Muscat, Nizwa, Salalah và dọc theo xa lộ ven biển
-plans_title: 'Mua eSIM Oman: Gói cho mọi thời gian chuyến đi'
+plans_title: 'Các gói Oman eSIM và mức giá'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -288,7 +288,7 @@ network_coverage:
       coverage: Vùng phủ đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Oman: Những điều cần biết trước khi đi'
+  title: 'Điểm cần lưu ý trước chuyến đi Oman'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -313,7 +313,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Oman: 3 bước đơn giản'
+  title: 'Hoàn tất trước khi đến: kích hoạt Oman eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -333,12 +333,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hướng dẫn eSIM Oman: 5G, Quy tắc Hộ chiếu & Mẹo du lịch"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, vùng phủ mạng và chất lượng kết nối cho du khách tại Oman. Tìm hiểu tốc độ mong đợi tại Muscat, Nizwa và Salalah — và cách bỏ qua rắc rối đăng ký hộ chiếu."
+  desc: "Những giải đáp hữu ích về tốc độ và chất lượng mạng eSIM tại Oman."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Oman
+    title: Những câu hỏi thường gặp về Oman eSIM
     questions:
     - q: |
         Tại sao mua SIM địa phương ở Oman lại rắc rối đối với du khách?
@@ -368,63 +368,75 @@ faq_section:
         Thời hạn hiệu lực của eSIM Oman bắt đầu từ khi nào?
       a: |
         Hiệu lực gói bắt đầu khi bạn kết nối với mạng địa phương tại Oman, không phải khi mua hay cài đặt. Vì vậy, bạn có thể mua và cài đặt vài tuần trước chuyến đi mà không mất ngày nào. Gói 7 ngày cho bạn 7 ngày đầy đủ từ lần kết nối đầu tiên.
+    - q: |
+        Tốc độ eSIM Oman có nhanh không? Có chậm hơn SIM vật lý không?
+      a: |
+        eSIM Oman của Roami dùng trạm gốc của các nhà mạng chính tại địa phương, tốc độ tương đương SIM trả trước bản địa; tra bản đồ, mạng xã hội và gọi video đều mượt. Tốc độ thực tế còn phụ thuộc vị trí và tải của mạng tại thời điểm đó.  Muscat, Salalah và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
+    - q: |
+        Omantel và Ooredoo ở Oman, dùng eSIM mạng nào tốt hơn?
+      a: |
+        Oman có các nhà mạng chính như Omantel, Ooredoo. Roami tự động chọn mạng có tín hiệu mạnh nhất tại thời điểm đó và chuyển đổi giữa Omantel và Ooredoo mà bạn không cần cấu hình thủ công. Nếu lịch trình đi ra vùng ngoại ô hoặc đảo xa, nên tải bản đồ ngoại tuyến trước cho chắc.  Thực tế tại Nizwa, Sohar, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
+    - q: |
+        Kích hoạt eSIM Oman như thế nào? Có phải đợi đến nơi mới bật?
+      a: |
+        Bạn nên quét mã QR cài đặt cấu hình qua WiFi trước chuyến đi, khi đến Oman thì bật đường eSIM và mở chuyển vùng dữ liệu; máy sẽ tự kết nối mạng địa phương và thời hạn của gói bắt đầu tính từ lúc đó.  Dù ở Muscat, Sur hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
 related_products:
   title: Các gói eSIM liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ 1,99 USD
+  - name: eSIM Ý
+    flag: img/flags/it.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ 1,99 USD
+  - name: eSIM Jamaica
+    flag: img/flags/jm.svg
+    price: Từ $11.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ 1,99 USD
+  - name: eSIM Jordan
+    flag: img/flags/jo.svg
+    price: Từ $6.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ 1,99 USD
-    is_highlight: false
   - name: eSIM Nhật Bản
     flag: img/flags/jp.svg
-    price: Từ 1,99 USD
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ 1,99 USD
+  - name: eSIM Kenya
+    flag: img/flags/ke.svg
+    price: Từ $7.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ 1,99 USD
+  - name: eSIM Kyrgyzstan
+    flag: img/flags/kg.svg
+    price: Từ $4.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ 1,99 USD
+  - name: eSIM Campuchia
+    flag: img/flags/kh.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ 1,99 USD
+  - name: eSIM Hàn Quốc
+    flag: img/flags/kr.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ 1,99 USD
+  - name: eSIM Kuwait
+    flag: img/flags/kw.svg
+    price: Từ $4.99
+    is_highlight: false
+  - name: eSIM Kazakhstan
+    flag: img/flags/kz.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Lào
+    flag: img/flags/la.svg
+    price: Từ $4.99
+    is_highlight: false
+  - name: eSIM Liechtenstein
+    flag: img/flags/li.svg
+    price: Từ $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Oman vs SIM địa phương: Không Hộ chiếu, Không Xếp hàng, Sẵn sàng GCC'
   subtitle: SIM trả trước địa phương Oman vs. Giải pháp eSIM (Đánh giá 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Oman) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Oman
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -453,7 +465,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Tất cả nhà mạng sử dụng <strong>chu kỳ thanh toán 30 ngày</strong>. Du khách 7 ngày lãng phí hơn <strong>75%</strong> giá trị gói. Không có tùy chọn ngắn hạn dưới 30 ngày.
     esim_title: Gói ngắn linh hoạt
-    esim_desc: Roami cung cấp gói <strong>3/7/15/30 ngày</strong> từ 1,99 USD — chỉ trả cho thời gian chuyến đi thực tế của bạn. Không cam kết 30 ngày bắt buộc.
+    esim_desc: Roami cung cấp gói <strong>3/7/15/30 ngày</strong> từ $5.99 — chỉ trả cho thời gian chuyến đi thực tế của bạn. Không cam kết 30 ngày bắt buộc.
   - icon: wifi
     title: Chính sách chia sẻ<br>kết nối & tốc độ
     prepaid_title: ''
@@ -494,5 +506,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Không lãng phí chi phí chìm 30 ngày
-      desc: Omantel/Ooredoo/Vodafone ép <b>gói 30 ngày</b>. Chuyến đi 7 ngày lãng phí <b>75%+</b>. Roami cung cấp <b>gói 7 ngày từ 1,99 USD/GB</b> — không lãng phí.
+      desc: Omantel/Ooredoo/Vodafone ép <b>gói 30 ngày</b>. Chuyến đi 7 ngày lãng phí <b>75%+</b>. Roami cung cấp <b>gói 7 ngày từ $5.99/GB</b> — không lãng phí.
 ---

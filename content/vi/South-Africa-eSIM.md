@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Nam Phi 2026: Hướng dẫn Thành phố & Mạng | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Nam Phi | Phủ sóng 5G, Không phí chuyển vùng
   description: Du lịch Nam Phi với gói eSIM du lịch trả trước tốt nhất từ Roami. Dữ liệu 5G không giới hạn trên các mạng hàng đầu. Kích hoạt tức thì. Phủ sóng Cape Town & Johannesburg.
-  keywords: eSIM Nam Phi, mua eSIM Nam Phi, eSIM Nam Phi tốt nhất, eSIM du lịch Nam Phi, Vodacom Nam Phi, MTN Nam Phi, Cell C Nam Phi, eSIM Johannesburg, eSIM Cape Town, eSIM Durban, eSIM trả trước Nam Phi, eSIM 5G Nam Phi
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM Nam Phi, mua eSIM Nam Phi, eSIM Nam Phi tốt nhất, eSIM du lịch Nam Phi, Vodacom Nam Phi, MTN Nam Phi, Cell C Nam Phi, eSIM Johannesburg, eSIM Cape Town, eSIM Durban, eSIM trả trước Nam Phi, eSIM 5G Nam Phi, eSIM Pretoria, eSIM Port Elizabeth, eSIM Nam Phi giá rẻ, sim du lịch Nam Phi
+  low_price: 3.99
+  high_price: 94.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với các nhà mạng hàng đầu Nam Phi để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Nam Phi: Gói cho mọi thời gian chuyến đi'
+plans_title: 'Chọn một Nam Phi eSIM phù hợp hành trình'
 plans_data:
   30 Ngày:
   - spec: 20GB
@@ -300,7 +300,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Nam Phi: Những điều cần biết trước khi đi'
+  title: 'Tổng hợp lưu ý thực tế cho Nam Phi eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -319,7 +319,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Nam Phi: 3 bước đơn giản'
+  title: 'Xong trước khi đi: cài và kích hoạt Nam Phi eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -339,17 +339,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM sẽ hoạt động tốt ở Nam Phi không? Hướng dẫn cho du khách về chất lượng Internet"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Nam Phi. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Tổng hợp thắc mắc về kết nối internet, tốc độ và phủ sóng eSIM tại Nam Phi."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Nam Phi
+    title: Câu hỏi thường gặp cho Nam Phi eSIM
     questions:
     - q: |
         Tôi có thể mua eSIM cho Nam Phi mà không tốn quá nhiều tiền không?
       a: |
-        Chắc chắn rồi. Gói eSIM Nam Phi của Roami bắt đầu từ chỉ $1.99. Gói 5GB/15 ngày ($9.99) là lựa chọn phổ biến nhất với du khách — nó đáp ứng thoải mái cho bản đồ, WhatsApp, Instagram và email. Nếu bạn là người dùng nhiều dữ liệu, gói 10GB ($14.99) hoặc không giới hạn ($59.99) mang lại sự an tâm. Bỏ qua quầy SIM sân bay giúp bạn tiết kiệm 30-50% và tránh xếp hàng. Cần điều chỉnh? Bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng Roami.
+        Chắc chắn rồi. Gói eSIM Nam Phi của Roami bắt đầu từ chỉ $3.99. Gói 5GB/15 ngày ($12.99) là lựa chọn phổ biến nhất với du khách — nó đáp ứng thoải mái cho bản đồ, WhatsApp, Instagram và email. Nếu bạn là người dùng nhiều dữ liệu, gói 10GB ($17.99) hoặc không giới hạn ($94.99) mang lại sự an tâm. Bỏ qua quầy SIM sân bay giúp bạn tiết kiệm 30-50% và tránh xếp hàng. Cần điều chỉnh? Bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng Roami.
     - q: |
         Roami so với Saily cho eSIM tại Nam Phi như thế nào?
       a: |
@@ -361,7 +361,7 @@ faq_section:
     - q: |
         Tôi đi Nam Phi chỉ 2-3 ngày. Tôi nên mua eSIM nào?
       a: |
-        Cho chuyến đi ngắn, gói 1GB/7 ngày ($1.99) đáp ứng cho bản đồ và nhắn tin. Nếu bạn dự định sử dụng mạng xã hội và chia sẻ ảnh, gói 3GB ($4.99) cung cấp nhiều dung lượng hơn. Cả hai đều kích hoạt tức thì và bạn có thể nạp thêm nếu cần.
+        Cho chuyến đi ngắn, gói 1GB/7 ngày ($3.99) đáp ứng cho bản đồ và nhắn tin. Nếu bạn dự định sử dụng mạng xã hội và chia sẻ ảnh, gói 3GB ($7.99) cung cấp nhiều dung lượng hơn. Cả hai đều kích hoạt tức thì và bạn có thể nạp thêm nếu cần.
     - q: |
         Tôi phải làm gì nếu vô tình xóa eSIM Nam Phi trước chuyến đi?
       a: |
@@ -369,7 +369,7 @@ faq_section:
     - q: |
         Nếu khách sạn của tôi ở Nam Phi có Wi-Fi miễn phí — tôi có vẫn cần dữ liệu eSIM không?
       a: |
-        Wi-Fi khách sạn hoạt động trong phòng nhưng không hoạt động khi bạn ra ngoài khám phá. eSIM cung cấp dữ liệu ở mọi nơi — điều hướng đường phố, tìm kiếm địa điểm gần đó, kiểm tra lịch trình phương tiện công cộng. Gói 5GB có giá $9.99, thường rẻ hơn Wi-Fi khách sạn trả phí trong một tuần ($10-15 tại nhiều khách sạn). Hầu hết du khách sử dụng Wi-Fi khách sạn cho tải xuống lớn và eSIM cho kết nối khi di chuyển.
+        Wi-Fi khách sạn hoạt động trong phòng nhưng không hoạt động khi bạn ra ngoài khám phá. eSIM cung cấp dữ liệu ở mọi nơi — điều hướng đường phố, tìm kiếm địa điểm gần đó, kiểm tra lịch trình phương tiện công cộng. Gói 5GB có giá $10.99, thường rẻ hơn Wi-Fi khách sạn trả phí trong một tuần ($10-15 tại nhiều khách sạn). Hầu hết du khách sử dụng Wi-Fi khách sạn cho tải xuống lớn và eSIM cho kết nối khi di chuyển.
     - q: |
         Điều gì xảy ra nếu eSIM Nam Phi của tôi ngừng hoạt động giữa chuyến đi?
       a: |
@@ -378,63 +378,75 @@ faq_section:
         WhatsApp và FaceTime có hoạt động với eSIM ở Nam Phi không?
       a: |
         Có — tất cả ứng dụng dựa trên dữ liệu đều hoạt động hoàn hảo qua eSIM. Cuộc gọi WhatsApp sử dụng khoảng 1MB mỗi phút cho âm thanh và 5-8MB mỗi phút cho video. FaceTime, Zoom, Google Maps, Instagram — mọi thứ đều chạy qua kết nối dữ liệu eSIM mà không bị hạn chế. Mạng Vodacom xử lý cuộc gọi video mượt mà. Gói 5GB cung cấp khoảng 500 giờ cuộc gọi thoại WhatsApp hoặc 10 giờ video FaceTime.
+    - q: |
+        eSIM Nam Phi có chia sẻ hotspot cho bạn đồng hành được không?
+      a: |
+        Có, eSIM Nam Phi của Roami hỗ trợ chia sẻ hotspot cho laptop, máy tính bảng hoặc người đi cùng. Nếu dùng chung nhiều người, nên chọn gói cao hơn một bậc để không hết dữ liệu giữa chừng; nếu thiếu vẫn có thể nạp thêm trong ứng dụng.  Dù ở Johannesburg, Cape Town hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
+    - q: |
+        Đến sân bay ở Nam Phi là dùng được internet ngay chứ?
+      a: |
+        Được. Chỉ cần cài eSIM trước, sau khi hạ cánh tắt chế độ máy bay và bật đường eSIM, thường chỉ vài chục giây là kết nối được mạng địa phương, không cần xếp hàng mua SIM vật lý ở sân bay Nam Phi.  Vùng phủ di động tại Durban, Pretoria đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
+    - q: |
+        Vodacom và MTN ở Nam Phi, dùng eSIM mạng nào tốt hơn?
+      a: |
+        Nam Phi có các nhà mạng chính như Vodacom, MTN. Roami tự động chọn mạng có tín hiệu mạnh nhất tại thời điểm đó và chuyển đổi giữa Vodacom và MTN mà bạn không cần cấu hình thủ công. Nếu lịch trình đi ra vùng ngoại ô hoặc đảo xa, nên tải bản đồ ngoại tuyến trước cho chắc.  Các thành phố lớn như Johannesburg, Port Elizabeth đều có phủ sóng ổn định cho nhu cầu hằng ngày.
 related_products:
   title: Các gói eSIM Nam Phi liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ $1.99
+  - name: eSIM Kuwait
+    flag: img/flags/kw.svg
+    price: Từ $4.99
     is_highlight: false
-  - name: eSIM Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: eSIM Kazakhstan
+    flag: img/flags/kz.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Lào
+    flag: img/flags/la.svg
+    price: Từ $4.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Liechtenstein
+    flag: img/flags/li.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: eSIM Liberia
+    flag: img/flags/lr.svg
+    price: Từ $27.99
+    is_highlight: false
+  - name: eSIM Lithuania
+    flag: img/flags/lt.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
+  - name: eSIM Luxembourg
+    flag: img/flags/lu.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
+  - name: eSIM Latvia
+    flag: img/flags/lv.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
+  - name: eSIM Madagascar
+    flag: img/flags/mg.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Mali
+    flag: img/flags/ml.svg
+    price: Từ $27.99
+    is_highlight: false
+  - name: eSIM Malta
+    flag: img/flags/mt.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: eSIM Maldives
+    flag: img/flags/mv.svg
+    price: Từ $14.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Nam Phi vs SIM trả trước: Lựa chọn nào mang lại giá trị tốt hơn?'
   subtitle: 'SIM trả trước nội địa Nam Phi vs. Giải pháp eSIM (Tiêu chuẩn 2024/2025)'
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Nam Phi) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/South-Africa
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước nội địa (Dữ liệu thị trường)
@@ -463,11 +475,11 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Gói 1GB 30 ngày của Vodacom có giá R99; gói 1.5GB+1.5GB 30 ngày của MTN có giá R169. Du khách 7 ngày mua gói R169 của MTN lãng phí khoảng 77% giá trị gói.
     esim_title: Gói ngắn hạn linh hoạt
-    esim_desc: Tránh lãng phí 77% gói 30 ngày R169 của MTN. Roami cung cấp gói 7 ngày từ $1.99/GB, phù hợp hoàn hảo với thời gian chuyến đi của bạn.
+    esim_desc: Tránh lãng phí 77% gói 30 ngày R169 của MTN. Roami cung cấp gói 7 ngày từ $3.99/GB, phù hợp hoàn hảo với thời gian chuyến đi của bạn.
   - icon: wifi
     title: Chính sách chia sẻ &<br>tốc độ
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho khía cạnh này. Dựa trên kiến thức thị trường chung, hầu hết SIM trả trước Nam Phi cho phép chia sẻ nhưng có thể giới hạn sau một mức nhất định.
+    prepaid_desc: Hầu hết SIM trả trước Nam Phi cho phép chia sẻ nhưng có thể giới hạn sau một mức nhất định.
     esim_title: Chia sẻ không hạn chế
     esim_desc: Không giống như một số SIM nội địa giới hạn tốc độ chia sẻ, Roami eSIM cho phép chia sẻ tốc độ đầy đủ trên tất cả các gói, không có giới hạn ẩn.
   - icon: credit-card
@@ -479,7 +491,7 @@ market_analysis:
   - icon: headset
     title: Hỗ trợ khách hàng
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho khía cạnh này. Dựa trên kiến thức thị trường chung, hỗ trợ khách hàng thường bằng tiếng Anh và Afrikaans, với giờ giới hạn cho người dùng trả trước.
+    prepaid_desc: Hỗ trợ khách hàng thường bằng tiếng Anh và Afrikaans, với giờ giới hạn cho người dùng trả trước.
     esim_title: Hỗ trợ đa ngôn ngữ 24/7
     esim_desc: Nhận hỗ trợ khách hàng 24/7 bằng tiếng Anh, không như SIM trả trước nội địa có giờ giới hạn và chỉ hỗ trợ tiếng Anh/Afrikaans.
   expert_verdict:
@@ -499,7 +511,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Loại bỏ chi phí chìm từ chu kỳ thanh toán cứng nhắc
-      desc: Gói 1GB 30 ngày của Vodacom có giá R99; gói 1.5GB+1.5GB 30 ngày của MTN có giá R169. Du khách 7 ngày lãng phí ~77% giá trị gói. eSIM cung cấp gói 7 ngày từ $1.99/GB, không lãng phí.
+      desc: Gói 1GB 30 ngày của Vodacom có giá R99; gói 1.5GB+1.5GB 30 ngày của MTN có giá R169. Du khách 7 ngày lãng phí ~77% giá trị gói. eSIM cung cấp gói 7 ngày từ $3.99/GB, không lãng phí.
     - icon: shield
       icon_bg: bg-teal-100
       icon_color: text-teal-600

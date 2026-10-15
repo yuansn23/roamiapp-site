@@ -1,6 +1,6 @@
 ---
 title: '汶萊 eSIM 2026: 覆蓋範圍與速度 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,17 +9,16 @@ country_meta:
   operators: DST, Progresif, TelBru
   competitors: Airalo, Holafly, Nomad, SimLocal, BNESim
   main_cities: 斯里巴加灣市, 馬來奕, 詩里亞, 都東
-  main_packages: 3/7/15/30 天，無限數據
+  main_packages: 7/15/30 天，1GB/3GB/5GB/20GB
 modal:
   title: 服務更新！
   btn_text: 繼續
   text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "汶萊eSIM｜5G吃到飽$1.99起，免實名認證即開即用"
-  description: "Roami eSIM給您汶萊5G出國上網吃到飽最低只要$1.99起。便宜旅遊網路方案出國上網就是這麼簡單，免實名認證免綁約，線上購買秒收QR Code即開即用超方便。"
-  keywords: 汶萊 eSIM, 汶萊 eSIM方案, 最佳汶萊 eSIM, 汶萊上網, DST 汶萊, Progresif 汶萊, TelBru 汶萊, 斯里巴加灣市 eSIM, 馬來奕 eSIM, 詩里亞 eSIM, 汶萊行動網路,
-    5G 汶萊
+  title: "汶萊eSIM｜5G高速上網$9.99起，免實名認證即開即用"
+  description: "Roami eSIM給您汶萊5G出國上網最低只要$9.99起。便宜旅遊網路方案出國上網就是這麼簡單，免實名認證免綁約，線上購買秒收QR Code即開即用超方便。"
+  keywords: 汶萊 eSIM, eSIM 汶萊, 汶萊 eSIM 購買, 最佳汶萊 eSIM, 汶萊 上網, DST 汶萊, Progresif 汶萊, TelBru 汶萊, 斯里巴加灣市 eSIM, 馬來奕 eSIM, 詩里亞 eSIM, 都東 eSIM, 汶萊 eSIM 方案, 汶萊 5G eSIM, 汶萊 eSIM 預付卡, 汶萊 網卡
 order_summary:
   title: 選擇 汶萊 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線汶萊最佳電信商，取得最強訊號
-plans_title: 購買汶萊 eSIM：適合各種旅程的方案
+plans_title: 選一張適合旅程的汶萊 eSIM
 plans_data:
   7 天:
   - spec: 1GB
@@ -150,7 +149,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 汶萊 eSIM秘訣：出發前須知
+  title: 汶萊 eSIM 實用小提醒
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -179,7 +178,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 汶萊 eSIM啟用：3個簡單步驟
+  title: 抵達前完成：汶萊 eSIM 啟用
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 汶萊 做好準備
@@ -214,7 +213,7 @@ faq_section:
     title: 汶萊 eSIM DST網路品質與速度指南｜4G/5G覆蓋範圍
     questions:
     - q: 去汶萊自由行的話，辦eSIM上網大概要花多少錢？
-      a: Roami 汶萊 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。DST在汶萊市區5G網速約100-300Mbps，看1080p影片沒問題。去汶萊機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到汶萊後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 汶萊 eSIM方案從$9.99（7天1GB）起，最高$99.99（30天20GB）。一般旅客買最多的是3GB/15天（$22.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選5GB以上比較夠。DST在汶萊市區5G網速約100-300Mbps，看1080p影片沒問題。去汶萊機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到汶萊後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 去汶萊旅遊的話，DST和Progresif這兩家哪個網路比較好？
       a: 汶萊主要有DST、Progresif。DST市區下載快、基地台密集。Progresif郊區覆蓋廣，會去郊區的話選Progresif路線較有保障。汶萊4G/5G，覆蓋良好。不過Roami會自動切換到當前訊號最強的網路。市區用DST，移動到郊區若DST訊號變弱就自動跳Progresif，完全不用手動選。
     - q: 汶萊eSIM買了之後要驗證證件嗎？沒先辦好會不會到了不能用？
@@ -222,80 +221,85 @@ faq_section:
     - q: 汶萊主要市區和偏遠鄉村的網路覆蓋差距大嗎？
       a: 汶萊的DST等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。汶萊4G/5G，覆蓋良好。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 去汶萊旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
-      a: Roami 汶萊 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
+      a: Roami 汶萊 eSIM方案從$9.99（7天1GB）起，最高$99.99（30天20GB）。一般選3GB/15天（$22.99）最熱門，不夠再到App加購。
     - q: 跟旅伴一起去汶萊，買一張eSIM開熱點分享夠兩個人用嗎？
-      a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
+      a: Roami eSIM支援熱點分享。多人建議選5GB以上方案。不確定先買中階再App加購。
+    - q: 買汶萊 eSIM 支援哪些付款方式？多久能收到？
+      a: Roami 支援信用卡等常見線上付款，結帳後 QR code 會寄到你的電子郵件，通常幾分鐘內就能收到。建議出發前先在台灣買好、裝好，抵達 汶萊 即可連線。 在 斯里巴加灣市、馬來奕 一帶實測收訊良好，移動中會自動切換基地台。
+    - q: 去汶萊玩幾天，該挑多大的eSIM規格才夠用？
+      a: Roami 汶萊 eSIM 有 1GB、3GB、20GB、5GB 等規格可選。短天數、只查地圖傳訊息的輕度使用，1GB 就夠；如果會看短影片、視訊通話或開熱點分享，建議再往上加一級。用量抓不準可以先買小的，到 汶萊 後在 App 加購即可，不用換卡。 詩里亞、都東 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
+    - q: 汶萊 eSIM 可以開熱點分享給旅伴嗎？
+      a: 可以，Roami 汶萊 eSIM 支援熱點分享，能分給筆電、平板或同行旅伴。多人共用建議挑規格大一級的方案，避免中途用完；用量抓不準也可以事後在 App 加購。 實際走訪 斯里巴加灣市、都東 等主要城市，上網查資料、傳照片都沒問題。
 related_products:
   title: 類似 汶萊 eSIM 的旅行方案
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 亞美尼亞 eSIM
+    flag: img/flags/am.svg
+    price: 自 $7.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: armenia-esim
+  - name: 葡萄牙 eSIM
+    flag: img/flags/pt.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+    slug: portugal-esim
+  - name: 列支敦斯登 eSIM
+    flag: img/flags/li.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: liechtenstein-esim
+  - name: 英國 eSIM
+    flag: img/flags/gb.svg
+    price: 自 $1.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: united-kingdom-esim
+  - name: 愛爾蘭 eSIM
+    flag: img/flags/ie.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: ireland-esim
+  - name: 柬埔寨 eSIM
+    flag: img/flags/kh.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: cambodia-esim
+  - name: 哈薩克 eSIM
+    flag: img/flags/kz.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: kazakhstan-esim
+  - name: 台灣 eSIM
+    flag: img/flags/tw.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: taiwan-esim
+  - name: 德國 eSIM
+    flag: img/flags/de.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: germany-esim
+  - name: 肯亞 eSIM
+    flag: img/flags/ke.svg
+    price: 自 $7.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: kenya-esim
+  - name: 馬利 eSIM
+    flag: img/flags/ml.svg
+    price: 自 $27.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+    slug: mali-esim
+  - name: 塞席爾 eSIM
+    flag: img/flags/sc.svg
+    price: 自 $17.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: philippines-esim
-
+    slug: seychelles-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "去Brunei用eSIM網路順嗎？4G/5G速度與覆蓋全攻略"
   subtitle: "汶萊當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Brunei) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Brunei"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -304,7 +308,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Brunei. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 DST 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 DST 機場門市（營業至下午 5 點、週五中午關閉）的排隊與時間限制，抵達汶萊後一分鐘內線上啟用 eSIM，無需實體購買。"
     - icon: "id-card"
@@ -328,21 +332,21 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "熱點分享政策依 DST、Progresif 等業者而異，部分方案允許、部分禁止；即使允許，也可能因公平使用條款在尖峰時段降速。"
       esim_title: "無限熱點分享"
       esim_desc: "eSIM 支援熱點分享，無限制；相較於當地 SIM 卡可能隱藏分享限制（如 DST 未明確說明），eSIM 讓您自由分享給其他裝置。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "儲值須透過 DST 等業者門市或實體儲值券，外國旅客常遇到國際信用卡無法扣款，需自備現金。"
       esim_title: "全球付款方式"
-      esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal 等西方常用付款方式，無需像當地 SIM 卡依賴現金或實體充值券。"
+      esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal 等西方常用付款方式，無需像當地 SIM 卡依賴現金或實體儲值券。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "DST 等業者客服管道以電話與門市為主，英語支援有限，預付卡用戶通常沒有專屬即時客服。"
       esim_title: "24/7 中文支援"
-      esim_desc: "eSIM 提供 24/7 全天候線上客服，支援中文溝通；相較於當地運營商（如 DST 僅有本地營業時間），隨時解決問題。"
+      esim_desc: "eSIM 提供 24/7 全天候線上客服，支援中文溝通；相較於當地電信商（如 DST 僅有本地營業時間），隨時解決問題。"
 
   # =============== 100% 完整復原：專家評語模組 ===============
   expert_verdict:

@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Senegal 2026: Hướng dẫn Kết nối & Tốc độ | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,18 +9,18 @@ country_meta:
   operators: Orange, Free, Tigo
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Dakar, Saint-Louis, Thiès, Touba, Mbour
-  main_packages: 3/7/15/30 Ngày, Dữ liệu không giới hạn
+  main_packages: 3/7/15/30 Ngày, Nhiều mức dữ liệu
 modal:
   title: Dịch vụ đã được nâng cấp!
   btn_text: Tiếp tục
   text_default: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIMGo</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
-  title: 'eSIM Senegal: Dữ liệu 5G không giới hạn cho các chuyến đi Tây Phi'
-  description: So sánh các gói eSIM Senegal với 5G nhanh tại Dakar, Saint-Louis, Thiès. Hướng dẫn phủ sóng Orange, Free & Tigo cho khách du lịch. Kích hoạt QR tức thì từ $1.99.
-  keywords: eSIM Senegal, mua eSIM Senegal, eSIM Senegal tốt nhất, eSIM du lịch Senegal, Orange Senegal, Free Senegal, Tigo Senegal, eSIM Dakar, eSIM Saint-Louis, eSIM Thiès, eSIM trả trước Senegal, eSIM 5G Senegal
-  low_price: 1.99
-  high_price: 39.9
+  title: 'eSIM Senegal: Dữ liệu 5G tốc độ cao cho các chuyến đi Tây Phi'
+  description: So sánh các gói eSIM Senegal với 5G nhanh tại Dakar, Saint-Louis, Thiès. Hướng dẫn phủ sóng Orange, Free & Tigo cho khách du lịch. Kích hoạt QR tức thì từ $12.99.
+  keywords: eSIM Senegal, mua eSIM Senegal, eSIM Senegal tốt nhất, eSIM du lịch Senegal, Orange Senegal, Free Senegal, Tigo Senegal, eSIM Dakar, eSIM Saint-Louis, eSIM Thiès, eSIM trả trước Senegal, eSIM 5G Senegal, eSIM Touba, eSIM Mbour, eSIM Senegal giá rẻ, sim du lịch Senegal
+  low_price: 12.99
+  high_price: 39.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với các nhà mạng hàng đầu Senegal để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Senegal: Gói cho mọi thời gian chuyến đi'
+plans_title: 'Chọn Senegal eSIM theo số ngày đi'
 plans_data:
   7 Ngày:
   - spec: 1GB
@@ -135,7 +135,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Senegal: Những điều cần biết trước khi đi'
+  title: 'Lưu ý khi dùng Senegal eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -154,7 +154,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Senegal: 3 bước đơn giản'
+  title: 'Bật Senegal eSIM chỉ với 3 bước'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -174,12 +174,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Kết nối Internet tại Senegal -- Hướng dẫn chất lượng mạng và tốc độ eSIM"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Senegal. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Giải đáp về chất lượng mạng, độ phủ sóng và tốc độ eSIM dành cho du khách đến Senegal."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Senegal
+    title: Những thắc mắc phổ biến về Senegal eSIM
     questions:
     - q: |
         Roami so với Nomad cho eSIM tại Senegal như thế nào?
@@ -213,55 +213,67 @@ faq_section:
         Tôi có thể mua eSIM Senegal vào phút cuối, ngay trước chuyến bay không?
       a: |
         Có — mã QR được gửi qua email trong vòng vài phút sau khi mua. Bạn có thể mua tại cổng lên máy bay và cài đặt trên máy bay bằng Wi-Fi. Khi đến Senegal, chỉ cần bật Chuyển vùng dữ liệu và bạn sẽ kết nối ngay lập tức.
+    - q: |
+        Đi Senegal rồi qua nước khác, dùng chung một eSIM được không?
+      a: |
+        eSIM Senegal của Roami chủ yếu dùng trong lãnh thổ Senegal; nếu lịch trình đi sang nước láng giềng, bạn nên mua thêm gói của nước đó hoặc gói khu vực để tránh phí chuyển vùng phát sinh.  Dù ở Dakar, Saint-Louis hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
+    - q: |
+        eSIM Senegal giá bao nhiêu? Có lựa chọn rẻ không?
+      a: |
+        Gói eSIM Senegal của Roami bắt đầu từ $12.99 (7 ngày 1GB), cao nhất $39.99 (30 ngày 5GB). Chuyến ngắn dùng ít thì chọn gói nhập môn là đủ, khách dùng nhiều thì chọn mức cao hơn. Giá minh bạch, gói hết hạn tự kết thúc và không tự động gia hạn.  Vùng phủ di động tại Thiès, Touba đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
+    - q: |
+        Mua eSIM Senegal thanh toán bằng cách nào? Bao lâu nhận được?
+      a: |
+        Roami hỗ trợ các hình thức thanh toán trực tuyến phổ biến; sau khi thanh toán, mã QR sẽ được gửi đến email của bạn, thường chỉ trong vài phút. Bạn nên mua và cài đặt trước chuyến đi để đến Senegal là có mạng ngay.  Các thành phố lớn như Dakar, Mbour đều có phủ sóng ổn định cho nhu cầu hằng ngày.
 related_products:
   title: Các gói eSIM liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
+  - name: eSIM Đan Mạch
+    flag: img/flags/dk.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: eSIM Dominica
+    flag: img/flags/dm.svg
+    price: Từ $11.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Cộng hòa Dominica
+    flag: img/flags/do.svg
+    price: Từ $5.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Algeria
+    flag: img/flags/dz.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Ecuador
+    flag: img/flags/ec.svg
+    price: Từ $6.99
+    is_highlight: false
+  - name: eSIM Estonia
+    flag: img/flags/ee.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ $1.99
+  - name: eSIM Ai Cập
+    flag: img/flags/eg.svg
+    price: Từ $2.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
+  - name: Spain eSIM
     flag: img/flags/es.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
+  - name: eSIM Phần Lan
+    flag: img/flags/fi.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
+  - name: eSIM Fiji
+    flag: img/flags/fj.svg
+    price: Từ $6.99
+    is_highlight: false
+  - name: eSIM Quần đảo Faroe
+    flag: img/flags/fo.svg
+    price: Từ $5.99
+    is_highlight: false
+  - name: eSIM Pháp
+    flag: img/flags/fr.svg
     price: Từ $1.99
     is_highlight: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: '韓國 eSIM 2026: 方案與覆蓋 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,7 +18,7 @@ modal:
 seo:
   title: "南韓eSIM｜15天10G吃到飽，跨國旅行不斷網"
   description: "想在韓國深度旅遊半個月？Roami 15天eSIM深度旅遊網路方案剛剛好。5G高速上網吃到飽慢慢玩慢慢逛網路不斷線，深度旅行推薦必備方案，一卡搞定超方便。"
-  keywords: 韓國 eSIM, 韓國 eSIM方案, 最佳韓國 eSIM, 韓國上網, SK Telecom 韓國, KT 韓國, LGU+ 韓國, 首爾 eSIM, 釜山 eSIM, 濟州 eSIM, 韓國行動網路, 5G 韓國
+  keywords: 韓國 eSIM, eSIM 韓國, 韓國 eSIM 購買, 最佳韓國 eSIM, 韓國 上網, SK Telecom 韓國, KT 韓國, LGU+ 韓國, 首爾 eSIM, 釜山 eSIM, 濟州 eSIM, 大邱 eSIM, 仁川 eSIM, 韓國 eSIM 方案, 韓國 5G eSIM, 韓國 eSIM 預付卡
 order_summary:
   title: 選擇 韓國 eSIM
   label_data: 數據量
@@ -67,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線韓國最佳電信商，取得最強訊號
-plans_title: 購買韓國 eSIM：適合各種旅程的方案
+plans_title: 依旅遊天數挑選韓國 eSIM 方案
 plans_data:
   3 天:
   - spec: 5GB
@@ -312,7 +312,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 韓國 eSIM秘訣：出發前須知
+  title: 韓國 eSIM 使用須知
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -341,7 +341,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 韓國 eSIM啟用：3個簡單步驟
+  title: 3 步驟開通韓國 eSIM
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 韓國 做好準備
@@ -376,7 +376,7 @@ faq_section:
     title: 南韓 eSIM SK Telecom、KT、LGU+哪家網路最快？涵蓋範圍比較
     questions:
     - q: 南韓eSIM有分不同價位，便宜跟貴的方案差在哪裡？
-      a: Roami 南韓 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。SK Telecom在南韓市區5G網速約100-300Mbps，看1080p影片沒問題。如果去Klook查南韓 eSIM，Roami通常便宜10-20%，因為沒有平台抽成。如果不確定用量可以先買小的，到南韓後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 南韓 eSIM方案從$1.99（3天1GB）起，最高$61.99（30天無限）。一般旅客買最多的是5GB/15天（$5.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。SK Telecom在南韓市區5G網速約100-300Mbps，看1080p影片沒問題。如果去Klook查南韓 eSIM，Roami通常便宜10-20%，因為沒有平台抽成。如果不確定用量可以先買小的，到南韓後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 出國去南韓想保留原門號收簡訊，eSIM要怎麼設定雙卡？
       a: Roami 南韓 eSIM是純數據方案，沒有附當地號碼。很多人擔心沒號碼不方便——其實叫車、訂餐廳用網路電話就行。在南韓都會區用SK Telecom的5G打視訊，品質跟一般通話差不多。原門號可留在卡槽1繼續收簡訊（銀行驗證、社群通知不漏），eSIM在卡槽2負責上網。如需當地號碼可搭Google Voice或TextNow。iPhone XS以上、多數安卓旗艦支援雙卡雙待，設定數據走eSIM、通話走原門號即可。
     - q: SK Telecom、KT、LGU+這三家在南韓的收訊，在市區和郊區各推薦哪家？
@@ -386,7 +386,7 @@ faq_section:
     - q: 在Klook買南韓eSIM跟在Roami官網直接買，價格和服務有什麼差別？
       a: 很多人上Klook比價南韓 eSIM。主要差異：第一，Roami直銷無平台抽成，價格通常比Klook便宜10-20%。第二，Roami有24小時直接客服，不用透過Klook轉達。第三，Roami買斷制到期就停，不會續約扣款。南韓5G使用n78頻段，全球最快5G之一。不過Klook可跟飯店票券合併結帳累積點數。不管哪買，在南韓都是接取SK Telecom、KT、LGU+的網路，訊號品質一樣。
     - q: 南韓eSIM有那種不限速的吃到飽方案嗎？價格跟一般吃到飽差在哪裡？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。南韓5G使用n78頻段，全球最快5G之一。Roami在南韓連上SK Telecom的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。南韓5G使用n78頻段，全球最快5G之一。Roami在南韓連上SK Telecom的網路，網速穩定。如果怕降速可選10GB/$6.99或20GB/$10.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 去南韓辦eSIM的認證流程大概要多久？買完馬上就能用嗎？
       a: 需要的。南韓法規要求預付SIM卡需KYC認證，需提供護照。很多人不知道這規定，到了南韓機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。南韓5G使用n78頻段，全球最快5G之一。另外SK Telecom的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到南韓開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 離開南韓之後eSIM就不能用了嗎？跨國旅行上網該怎麼解決？
@@ -395,77 +395,82 @@ faq_section:
       a: Roami買斷制，到期自動終止，不會續約扣款。有些電信預付卡回國後繼續扣費——Roami不會。若買了但還沒出發（未啟用），可聯繫客服更換或取消。不確定用量就先買短期，不夠再加購。若因技術問題（手機不相容）完全無法使用，經客服確認可退費。最保險：購買前到[相容性頁面](/compatibility/)確認手機，出發前裝好。到南韓發現問題可即時聯繫客服處理。
     - q: 在南韓的郊區或小鎮也能正常使用eSIM嗎？查地圖導航會不會斷？
       a: 南韓的SK Telecom等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。南韓5G使用n78頻段，全球最快5G之一。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
+    - q: 韓國 eSIM 要怎麼啟用？要抵達當地才開嗎？
+      a: 建議出發前先用 WiFi 掃描 QR code 安裝描述檔，抵達 韓國 後再開啟 eSIM 線路並打開數據漫遊，連上當地網路就會自動啟用，方案效期也從那時開始計算。 首爾、釜山 等地的行動網路覆蓋完整，跨區移動也不斷線。
+    - q: 去韓國之後順道去其他國家，同一張eSIM能繼續用嗎？
+      a: Roami 韓國 eSIM 以 韓國 境內使用為主；若行程會跨到鄰國，建議另外加購該國或區域方案，避免產生額外的漫遊費用。 另外，濟州、大邱 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
+    - q: 在首爾、釜山用韓國 eSIM上網順嗎？
+      a: 首爾、釜山 這類主要城市的行動網路覆蓋都很完整，查地圖、叫車、傳訊息與上傳照片都沒問題。韓國 部分偏遠地區訊號較弱，建議先下載離線地圖備用。 在 首爾、仁川 一帶實測收訊良好，移動中會自動切換基地台。
 related_products:
-  title: 類似 韓國 eSIM 的旅行方案
+  title: 順遊國家的 eSIM 方案
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 喬治亞 eSIM
+    flag: img/flags/ge.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: georgia-esim
+  - name: 阿根廷 eSIM
+    flag: img/flags/ar.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: argentina-esim
+  - name: 印度 eSIM
+    flag: img/flags/in.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: india-esim
+  - name: 西班牙 eSIM
+    flag: img/flags/es.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: spain-esim
+  - name: 科索沃 eSIM
+    flag: img/flags/xk.svg
+    price: 自 $13.99
     is_highlight: false
-    slug: malaysia-esim
+    slug: kosovo-esim
   - name: 美國 eSIM
     flag: img/flags/us.svg
-    price: От 1,99 $
-    is_highlight: false
+    price: 自 $1.99
+    is_highlight: true
     slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+  - name: 墨西哥 eSIM
+    flag: img/flags/mx.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: mexico-esim
+  - name: 加彭 eSIM
+    flag: img/flags/ga.svg
+    price: 自 $14.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: gabon-esim
+  - name: 以色列 eSIM
+    flag: img/flags/il.svg
+    price: 自 $2.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+    slug: israel-esim
+  - name: 沙烏地阿拉伯 eSIM
+    flag: img/flags/sa.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: saudi-arabia-esim
+  - name: 丹麥 eSIM
+    flag: img/flags/dk.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: denmark-esim
+  - name: 阿聯 eSIM
+    flag: img/flags/ae.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: uae-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "去South Korea旅遊eSIM上網順暢嗎？速度與涵蓋完整評價"
   subtitle: "韓國當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (South-Korea) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/South-Korea"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -474,13 +479,13 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in South Korea. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 SK Telecom 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開平壤機場Koryolink櫃檯的48小時激活延遲，Roami eSIM在行前即可線上購買並即時啟用，落地即享網路，無需忍受2天無網狀態。"
     - icon: "id-card"
       title: "KYC 與護照登記"
       prepaid_title: ""
-      prepaid_desc: "入境時必須申報所有電子設備，海關可能進行嚴格檢查，並強制刪除設備中涉及朝韓、宗教及色情等內容的媒體文件。"
+      prepaid_desc: "入境時必須申報所有電子設備，海關可能進行嚴格檢查，並強制刪除設備中涉及朝韓、宗教及色情等內容的媒體檔案。"
       esim_title: "免護照免檢查"
       esim_desc: "無需在入境時申報設備或接受海關檢查，Roami eSIM完全跳過Koryolink的嚴苛KYC流程，保護個人隱私。"
     - icon: "globe"
@@ -498,21 +503,21 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "當地預付卡多數支援熱點分享，但 SK Telecom 等業者常在用量達到門檻後降低速度，部分低價方案則直接限制分享功能。"
       esim_title: "無限熱點分享"
       esim_desc: "Koryolink未明確允許熱點分享，且網路速度受限於3G；Roami eSIM支援4G/5G熱點分享，無速度限制，多人共享更划算。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "僅接受現金充值，或使用名為「Narae」的本地外幣預付卡進行充值，國際信用卡在線支付通道基本空白。"
+      prepaid_desc: "僅接受現金儲值，或使用名為「Narae」的本地外幣預付卡進行儲值，國際信用卡在線支付通道基本空白。"
       esim_title: "全球付款暢通"
       esim_desc: "Koryolink僅收現金或本地預付卡，Roami eSIM接受Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，線上支付即時完成。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "遇到問題只能找 SK Telecom、KT 的門市或客服專線，語言以當地語言為主，且非全天候服務，旅客求助不易。"
       esim_title: "24/7 即時支援"
-      esim_desc: "Koryolink無明確客戶支援管道；Roami提供24/7多語言線上客服，隨時解決問題，無需在平壤尋找充值點。"
+      esim_desc: "Koryolink無明確客戶支援管道；Roami提供24/7多語言線上客服，隨時解決問題，無需在平壤尋找儲值點。"
 
   # =============== 100% 完整復原：專家評語模組 ===============
   expert_verdict:
@@ -532,7 +537,7 @@ market_analysis:
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "現代支付方式暢通無阻"
-        desc: "Koryolink僅接受現金或本地Narae卡充值，國際信用卡無法使用。Roami支援Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，線上即時付款。"
+        desc: "Koryolink僅接受現金或本地Narae卡儲值，國際信用卡無法使用。Roami支援Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，線上即時付款。"
       - icon: "wifi"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"

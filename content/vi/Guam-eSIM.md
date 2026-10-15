@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Guam 2026: Hướng dẫn Gói cước & Phủ sóng | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Guam | Gói dữ liệu trả trước nhanh cho kỳ nghỉ của bạn
   description: Kết nối internet ngay lập tức tại Guam. Dữ liệu 5G không giới hạn với kích hoạt tức thì. Phủ sóng Hagatna, Tumon và Dededo. Kích hoạt tức thì. Mua gói trực tuyến ngay hôm nay.
-  keywords: eSIM Guam, mua eSIM Guam, eSIM Guam tốt nhất, eSIM du lịch Guam, DOCOMO Pacific Guam, IT&E Guam, GTA Guam, eSIM Hagåtña, eSIM Tamuning, eSIM Dededo, eSIM trả trước Guam, eSIM 5G Guam
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM Guam, mua eSIM Guam, eSIM Guam tốt nhất, eSIM du lịch Guam, DOCOMO Pacific Guam, IT&E Guam, GTA Guam, eSIM Hagåtña, eSIM Tamuning, eSIM Dededo, eSIM trả trước Guam, eSIM 5G Guam, eSIM Mangilao, eSIM Tumon, eSIM Guam giá rẻ, sim du lịch Guam
+  low_price: 9.99
+  high_price: 88.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng hàng đầu Guam để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Guam: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Chọn Guam eSIM theo số ngày đi'
 plans_data:
   30 Ngày:
   - spec: 3GB
@@ -169,7 +169,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Guam: Những điều cần biết trước khi đi'
+  title: 'Lưu ý khi dùng Guam eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -188,7 +188,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Guam: 3 bước đơn giản'
+  title: 'Bật Guam eSIM chỉ với 3 bước'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -208,12 +208,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM ở Guam -- Kết nối có nhanh và đáng tin cậy cho du khách không?"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Guam. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Giải đáp về chất lượng mạng, độ phủ sóng và tốc độ eSIM dành cho du khách đến Guam."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Guam
+    title: Những thắc mắc phổ biến về Guam eSIM
     questions:
     - q: |
         Việc tải hộ chiếu lên để đăng ký eSIM Guam có an toàn không? Tôi lo lắng về quyền riêng tư.
@@ -238,7 +238,7 @@ faq_section:
     - q: |
         Tôi đi du lịch Guam chỉ 2-3 ngày. Nên mua eSIM nào?
       a: |
-        Cho chuyến đi ngắn, gói 1GB/7 ngày ($1.99) đáp ứng bản đồ và nhắn tin. Nếu bạn dự định sử dụng mạng xã hội và chia sẻ ảnh, gói 3GB ($4.99) cho bạn nhiều không gian hơn. Cả hai đều kích hoạt tức thì và bạn có thể nạp thêm nếu cần.
+        Cho chuyến đi ngắn, gói 1GB/7 ngày ($9.99) đáp ứng bản đồ và nhắn tin. Nếu bạn dự định sử dụng mạng xã hội và chia sẻ ảnh, gói 3GB ($22.99) cho bạn nhiều không gian hơn. Cả hai đều kích hoạt tức thì và bạn có thể nạp thêm nếu cần.
     - q: |
         Tôi có thể kiểm tra lượng dữ liệu đã sử dụng trên eSIM Guam không?
       a: |
@@ -247,55 +247,67 @@ faq_section:
         Tôi có thể lưu bao nhiêu hồ sơ eSIM trên điện thoại để đi du lịch Guam?
       a: |
         Hầu hết điện thoại lưu được 5-10 hồ sơ eSIM. Bạn có thể giữ eSIM Guam cùng với SIM nhà mạng và các hồ sơ quốc gia khác. Chỉ cần kích hoạt cái bạn cần và tắt những cái khác. Chuyển đổi giữa chúng mất khoảng 10 giây trong cài đặt điện thoại.
+    - q: |
+        Mua eSIM Guam thanh toán bằng cách nào? Bao lâu nhận được?
+      a: |
+        Roami hỗ trợ các hình thức thanh toán trực tuyến phổ biến; sau khi thanh toán, mã QR sẽ được gửi đến email của bạn, thường chỉ trong vài phút. Bạn nên mua và cài đặt trước chuyến đi để đến Guam là có mạng ngay.  Tại khu vực Hagåtña, Tamuning, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
+    - q: |
+        Đi Guam vài ngày thì nên chọn gói eSIM dung lượng bao nhiêu?
+      a: |
+        eSIM Guam của Roami có các mức 3GB, 5GB, 10GB, 1GB, Không giới hạn. Chuyến ngắn, chỉ tra bản đồ và nhắn tin thì 3GB là đủ; nếu xem video ngắn, gọi video hoặc chia sẻ hotspot, bạn nên chọn mức cao hơn một bậc. Nếu chưa chắc về nhu cầu, có thể mua gói nhỏ rồi nạp thêm trong ứng dụng sau khi đến Guam, không cần đổi SIM.  Dededo, Mangilao và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
+    - q: |
+        eSIM Guam có chia sẻ hotspot cho bạn đồng hành được không?
+      a: |
+        Có, eSIM Guam của Roami hỗ trợ chia sẻ hotspot cho laptop, máy tính bảng hoặc người đi cùng. Nếu dùng chung nhiều người, nên chọn gói cao hơn một bậc để không hết dữ liệu giữa chừng; nếu thiếu vẫn có thể nạp thêm trong ứng dụng.  Thực tế tại Hagåtña, Tumon, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
 related_products:
   title: Gói eSIM Guam liên quan
   items:
-  - name: eSIM Hoa Kỳ
+  - name: Taiwan eSIM
+    flag: img/flags/tw.svg
+    price: Từ $1.99
+    is_highlight: false
+  - name: eSIM Tanzania
+    flag: img/flags/tz.svg
+    price: Từ $7.99
+    is_highlight: false
+  - name: eSIM Ukraine
+    flag: img/flags/ua.svg
+    price: Từ $1.99
+    is_highlight: true
+  - name: eSIM Uganda
+    flag: img/flags/ug.svg
+    price: Từ $7.99
+    is_highlight: false
+  - name: eSIM Mỹ
     flag: img/flags/us.svg
     price: Từ $1.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
+  - name: Uruguay eSIM
+    flag: img/flags/uy.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Uzbekistan
+    flag: img/flags/uz.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
-    is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Thành Vatican
+    flag: img/flags/va.svg
+    price: Từ $10.99
+    is_highlight: false
+  - name: Vietnam eSIM
+    flag: img/flags/vn.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: eSIM Kosovo
+    flag: img/flags/xk.svg
+    price: Từ $13.99
+    is_highlight: false
+  - name: eSIM Đông Nam Á
+    flag: img/flags/ya.webp
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: eSIM Andorra
+    flag: img/flags/ad.svg
+    price: Từ $6.99
     is_highlight: false
 ---

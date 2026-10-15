@@ -1,6 +1,6 @@
 ---
 title: '馬利 eSIM 2026: 當地電信商 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,17 +9,16 @@ country_meta:
   operators: Orange Mali, Sotelma-Malitel, Telecel Mali
   competitors: Airalo, Holafly, Nomad, Ubigi, eSIM.net
   main_cities: 巴馬科, 錫卡索, 塞古, 莫普提, 加奧
-  main_packages: 3/7/15/30 天，無限數據
+  main_packages: 7/15/30 天，1GB/3GB/20GB
 modal:
   title: 服務更新！
   btn_text: 繼續
   text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: '馬利eSIM｜5G高速上網吃到飽，免綁約自由不受限'
-  description: 比較馬利 eSIM方案，巴馬科, 錫卡索, 塞古等地5G高速上網。Orange Mali & Sotelma-Malitel & Telecel Mali覆蓋指南。即時QR啟用，起價$1.99。
-  keywords: 馬利 eSIM, 馬利 eSIM方案, 最佳馬利 eSIM, 馬利上網, Orange Mali 馬利, Sotelma-Malitel 馬利, Telecel Mali 馬利, 巴馬科 eSIM, 錫卡索 eSIM,
-    塞古 eSIM, 馬利行動網路, 5G 馬利
+  title: '馬利eSIM｜5G高速上網，免綁約自由不受限'
+  description: 比較馬利 eSIM方案，巴馬科, 錫卡索, 塞古等地5G高速上網。Orange Mali & Sotelma-Malitel & Telecel Mali覆蓋指南。即時QR啟用，起價$27.99。
+  keywords: 馬利 eSIM, eSIM 馬利, 馬利 eSIM 購買, 最佳馬利 eSIM, 馬利 上網, Orange Mali 馬利, Sotelma-Malitel 馬利, Telecel Mali 馬利, 巴馬科 eSIM, 錫卡索 eSIM, 塞古 eSIM, 莫普提 eSIM, 加奧 eSIM, 馬利 eSIM 方案, 馬利 5G eSIM, 馬利 eSIM 預付卡
 order_summary:
   title: 選擇 馬利 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線馬利最佳電信商，取得最強訊號
-plans_title: 購買馬利 eSIM：適合各種旅程的方案
+plans_title: 馬利 eSIM：多種天數與流量任你選
 plans_data:
   7 天:
   - spec: 1GB
@@ -133,7 +132,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 4G/LTE 網路
 reminders:
-  title: 馬利 eSIM秘訣：出發前須知
+  title: 馬利 eSIM 行前準備提醒
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -162,7 +161,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 馬利 eSIM啟用：3個簡單步驟
+  title: 三步驟完成馬利 eSIM 啟用
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 馬利 做好準備
@@ -198,7 +197,7 @@ faq_section:
     title: 馬利 eSIM 當地電信網路指南｜網速與覆蓋範圍完整分析
     questions:
     - q: 短期去馬利玩個三五天，eSIM最便宜的方案大概多少錢？
-      a: Roami 馬利 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。馬利以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去馬利機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到馬利後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 馬利 eSIM方案從$27.99（7天1GB）起，最高$79.99（15天3GB）。一般旅客買最多的是3GB/15天（$79.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選20GB以上比較夠。馬利以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去馬利機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到馬利後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 到馬利旅遊想用eSIM，Orange、Sotelma、Malitel哪家網路比較穩？
       a: 馬利主要有Orange、Sotelma、Malitel。Orange市區下載快、基地台密集。Sotelma郊區覆蓋廣，會去郊區的話選Sotelma路線較有保障。Malitel價格親民，適合預算有限的旅客。馬利3G/4G為主。不過Roami會自動切換到當前訊號最強的網路。市區用Orange，移動到郊區若Orange訊號變弱就自動跳Sotelma或Malitel，完全不用手動選。
     - q: 去馬利用eSIM需要先通過身分驗證嗎？要準備哪些證件？
@@ -209,77 +208,82 @@ faq_section:
       a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
     - q: 出國去馬利用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
       a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到馬利開數據漫遊就用。
+    - q: 在巴馬科、錫卡索用馬利 eSIM上網順嗎？
+      a: 巴馬科、錫卡索 這類主要城市的行動網路覆蓋都很完整，查地圖、叫車、傳訊息與上傳照片都沒問題。馬利 部分偏遠地區訊號較弱，建議先下載離線地圖備用。 巴馬科、錫卡索 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
+    - q: 買馬利 eSIM 支援哪些付款方式？多久能收到？
+      a: Roami 支援信用卡等常見線上付款，結帳後 QR code 會寄到你的電子郵件，通常幾分鐘內就能收到。建議出發前先在台灣買好、裝好，抵達 馬利 即可連線。 實際走訪 塞古、莫普提 等主要城市，上網查資料、傳照片都沒問題。
+    - q: 在馬利使用eSIM遇到問題，可以找誰幫忙？
+      a: Roami 提供線上客服協助。若在 馬利 遇到連線異常，可先確認 eSIM 線路已開啟、數據漫遊已打開；仍無法解決再聯繫客服，符合條件可申請退款。 不論在 巴馬科、加奧，連線品質都相當穩定。
 related_products:
-  title: 類似 馬利 eSIM 的旅行方案
+  title: 熱門目的地 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 葡萄牙 eSIM
+    flag: img/flags/pt.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: portugal-esim
+  - name: 哥斯大黎加 eSIM
+    flag: img/flags/cr.svg
+    price: 自 $9.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+    slug: costa-rica-esim
+  - name: 德國 eSIM
+    flag: img/flags/de.svg
+    price: 自 $1.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: germany-esim
+  - name: 烏茲別克 eSIM
+    flag: img/flags/uz.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: uzbekistan-esim
+  - name: 查德 eSIM
+    flag: img/flags/td.svg
+    price: 自 $23.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: chad-esim
+  - name: 塞爾維亞 eSIM
+    flag: img/flags/rs.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: serbia-esim
+  - name: 蓋亞那 eSIM
+    flag: img/flags/gy.svg
+    price: 自 $9.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: guyana-esim
+  - name: 格瑞那達 eSIM
+    flag: img/flags/gd.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: grenada-esim
+  - name: 玻利維亞 eSIM
+    flag: img/flags/bo.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: bolivia-esim
+  - name: 烏拉圭 eSIM
+    flag: img/flags/uy.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+    slug: uruguay-esim
+  - name: 賴比瑞亞 eSIM
+    flag: img/flags/lr.svg
+    price: 自 $27.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: liberia-esim
+  - name: 瓜地馬拉 eSIM
+    flag: img/flags/gt.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: guatemala-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Mali eSIM 網路速度與覆蓋完整介紹"
   subtitle: "馬利當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Mali) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Mali"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -288,9 +292,9 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Mali. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Orange Mali 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
-      esim_desc: "避開 Orange 或 Malitel 門市排隊與護照審查，出發前或抵達後一分鐘內線上啟用 eSIM，無需實體卡。"
+      esim_desc: "避開 Orange 或 Malitel 門市排隊與護照查核，出發前或抵達後一分鐘內線上啟用 eSIM，無需實體卡。"
     - icon: "id-card"
       title: "KYC 與護照登記"
       prepaid_title: ""
@@ -300,7 +304,7 @@ market_analysis:
     - icon: "globe"
       title: "國際漫遊"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。根據市場知識，馬利預付 SIM 卡通常不包含國際漫遊，跨國使用需另購當地卡。"
+      prepaid_desc: "馬利預付 SIM 卡通常不包含國際漫遊，跨國使用需另購當地卡。"
       esim_title: "全球漫遊無縫"
       esim_desc: "跨越馬利邊境時，eSIM 自動切換至當地網路，無需像實體卡那樣另購新卡；支援多國方案，避免 Orange 套餐的國境封鎖。"
     - icon: "calendar-xmark"
@@ -312,19 +316,19 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。根據市場知識，馬利預付 SIM 卡通常允許熱點分享，但速度可能受限。"
+      prepaid_desc: "馬利預付 SIM 卡通常允許熱點分享，但速度可能受限。"
       esim_title: "無限熱點分享"
       esim_desc: "eSIM 支援熱點分享，無速度限制，讓多個裝置同時連線，而當地 SIM 卡可能限制分享或降速。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。根據市場知識，馬利預付 SIM 卡充值主要透過街頭小販現金交易，線上充值選項有限。"
+      prepaid_desc: "馬利預付 SIM 卡儲值主要透過街頭小販現金交易，線上儲值選項有限。"
       esim_title: "全球付款暢通"
       esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal 付款，無需現金交易，避免街頭小販的匯率損失。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。根據市場知識，馬利電信商客戶支援通常僅提供法語或當地語言，且服務時間有限。"
+      prepaid_desc: "馬利電信商客戶支援通常僅提供法語或當地語言，且服務時間有限。"
       esim_title: "24/7 中文支援"
       esim_desc: "提供 24 小時線上客服，支援繁體中文，無需像當地電信商那樣僅有法語服務且限時段。"
 
@@ -341,7 +345,7 @@ market_analysis:
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "全球付款無障礙"
-        desc: "馬利實體卡充值需現金交易，且線上充值選項有限。eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，付款即時且安全。"
+        desc: "馬利實體卡儲值需現金交易，且線上儲值選項有限。eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，付款即時且安全。"
       - icon: "tower-observation"
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"

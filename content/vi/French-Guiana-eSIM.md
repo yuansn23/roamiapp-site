@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Guiana thuộc Pháp 2026: Hướng dẫn Du lịch & Nhà mạng | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: 'eSIM Guiana thuộc Pháp: Gói Dữ liệu 5G Nhanh cho Du khách'
-  description: So sánh các gói eSIM Guiana thuộc Pháp với 5G nhanh tại Cayenne, Kourou, Saint-Laurent-du-Maroni. Hướng dẫn vùng phủ của Digicel & Orange & Free cho khách du lịch. Kích hoạt QR tức thì từ 1,99 USD.
-  keywords: eSIM Guiana thuộc Pháp, mua eSIM Guiana thuộc Pháp, eSIM Guiana thuộc Pháp tốt nhất, eSIM du lịch Guiana thuộc Pháp, Digicel Guiana thuộc Pháp, Orange Guiana thuộc Pháp, Free Guiana thuộc Pháp, eSIM Cayenne, eSIM Kourou, eSIM Saint-Laurent-du-Maroni, eSIM trả trước Guiana thuộc Pháp, eSIM 5G Guiana thuộc Pháp
-  low_price: 1.99
-  high_price: 39.9
+  description: So sánh các gói eSIM Guiana thuộc Pháp với 5G nhanh tại Cayenne, Kourou, Saint-Laurent-du-Maroni. Hướng dẫn vùng phủ của Digicel & Orange & Free cho khách du lịch. Kích hoạt QR tức thì từ $3.99.
+  keywords: eSIM Guiana thuộc Pháp, mua eSIM Guiana thuộc Pháp, eSIM Guiana thuộc Pháp tốt nhất, eSIM du lịch Guiana thuộc Pháp, Digicel Guiana thuộc Pháp, Orange Guiana thuộc Pháp, Free Guiana thuộc Pháp, eSIM Cayenne, eSIM Kourou, eSIM Saint-Laurent-du-Maroni, eSIM trả trước Guiana thuộc Pháp, eSIM 5G Guiana thuộc Pháp, eSIM Matoury, eSIM Remire-Montjoly, eSIM Guiana thuộc Pháp giá rẻ, sim du lịch Guiana thuộc Pháp
+  low_price: 3.99
+  high_price: 66.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng hàng đầu Guiana thuộc Pháp để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Guiana thuộc Pháp: Gói cho mọi thời gian chuyến đi'
+plans_title: 'So sánh và chọn gói Guiana thuộc Pháp eSIM'
 plans_data:
   15 Ngày:
   - spec: 5GB
@@ -201,7 +201,7 @@ network_coverage:
       coverage: Vùng phủ đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Guiana thuộc Pháp: Những điều cần biết trước khi đi'
+  title: 'Xem vài điểm này trước khi dùng Guiana thuộc Pháp eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -220,7 +220,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Guiana thuộc Pháp: 3 bước đơn giản'
+  title: 'Kích hoạt Guiana thuộc Pháp eSIM trong 3 bước'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -240,12 +240,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM cho Du khách tại Guiana thuộc Pháp -- Tốc độ mạng, Vùng phủ và Mẹo"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, vùng phủ mạng và chất lượng kết nối cho du khách tại Guiana thuộc Pháp. Tìm hiểu tốc độ mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Hướng dẫn kết nối và giải đáp về tốc độ eSIM cho du khách tại Guiana thuộc Pháp."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Guiana thuộc Pháp
+    title: Giải đáp về Guiana thuộc Pháp eSIM
     questions:
     - q: |
         Tôi có thể giữ SIM nhà trong điện thoại khi sử dụng eSIM ở Guiana thuộc Pháp không?
@@ -266,7 +266,7 @@ faq_section:
     - q: |
         Tôi đi Guiana thuộc Pháp chỉ 2-3 ngày. Tôi nên mua eSIM nào?
       a: |
-        Cho chuyến đi ngắn, gói 1GB/7 ngày (1,99 USD) đủ cho bản đồ và nhắn tin. Nếu bạn dùng mạng xã hội và chia sẻ ảnh, gói 3GB (4,99 USD) sẽ thoải mái hơn. Cả hai đều kích hoạt ngay và bạn có thể nạp thêm nếu cần.
+        Cho chuyến đi ngắn, gói 1GB/7 ngày ($3.99) đủ cho bản đồ và nhắn tin. Nếu bạn dùng mạng xã hội và chia sẻ ảnh, gói 3GB ($9.99) sẽ thoải mái hơn. Cả hai đều kích hoạt ngay và bạn có thể nạp thêm nếu cần.
     - q: |
         eSIM Guiana thuộc Pháp có hoạt động ở vùng nông thôn và thị trấn nhỏ không?
       a: |
@@ -279,55 +279,67 @@ faq_section:
         Tôi có cần tháo SIM vật lý để sử dụng eSIM ở Guiana thuộc Pháp không?
       a: |
         Hoàn toàn không. SIM vật lý của bạn vẫn ở khe 1. eSIM hoạt động cùng với nó ở khe 2. Sử dụng SIM nhà cho SMS và cuộc gọi, eSIM cho dữ liệu. Hơn 80% điện thoại từ năm 2020 hỗ trợ thiết lập kép này.
+    - q: |
+        Đi Guiana thuộc Pháp rồi qua nước khác, dùng chung một eSIM được không?
+      a: |
+        eSIM Guiana thuộc Pháp của Roami chủ yếu dùng trong lãnh thổ Guiana thuộc Pháp; nếu lịch trình đi sang nước láng giềng, bạn nên mua thêm gói của nước đó hoặc gói khu vực để tránh phí chuyển vùng phát sinh.  Dù ở Cayenne, Kourou hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
+    - q: |
+        eSIM Guiana thuộc Pháp giá bao nhiêu? Có lựa chọn rẻ không?
+      a: |
+        Gói eSIM Guiana thuộc Pháp của Roami bắt đầu từ $3.99 (7 ngày 1GB), cao nhất $66.99 (7 ngày Không giới hạn). Chuyến ngắn dùng ít thì chọn gói nhập môn là đủ, khách dùng nhiều thì chọn mức cao hơn. Giá minh bạch, gói hết hạn tự kết thúc và không tự động gia hạn.  Vùng phủ di động tại Saint-Laurent-du-Maroni, Matoury đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
+    - q: |
+        Mua eSIM Guiana thuộc Pháp thanh toán bằng cách nào? Bao lâu nhận được?
+      a: |
+        Roami hỗ trợ các hình thức thanh toán trực tuyến phổ biến; sau khi thanh toán, mã QR sẽ được gửi đến email của bạn, thường chỉ trong vài phút. Bạn nên mua và cài đặt trước chuyến đi để đến Guiana thuộc Pháp là có mạng ngay.  Các thành phố lớn như Cayenne, Remire-Montjoly đều có phủ sóng ổn định cho nhu cầu hằng ngày.
 related_products:
   title: Các gói eSIM Guiana thuộc Pháp liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ 1,99 USD
-    is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ 1,99 USD
-    is_highlight: false
   - name: eSIM Hồng Kông
     flag: img/flags/hk.svg
-    price: Từ 1,99 USD
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ 1,99 USD
+  - name: eSIM Honduras
+    flag: img/flags/hn.svg
+    price: Từ $6.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ 1,99 USD
+  - name: eSIM Croatia
+    flag: img/flags/hr.svg
+    price: Từ $1.99
+    is_highlight: true
+  - name: eSIM Hungary
+    flag: img/flags/hu.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ 1,99 USD
+  - name: eSIM Indonesia
+    flag: img/flags/id.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ 1,99 USD
+  - name: eSIM Ireland
+    flag: img/flags/ie.svg
+    price: Từ $1.99
+    is_highlight: false
+  - name: eSIM Israel
+    flag: img/flags/il.svg
+    price: Từ $2.99
+    is_highlight: false
+  - name: eSIM Ấn Độ
+    flag: img/flags/in.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Iraq
+    flag: img/flags/iq.svg
+    price: Từ $9.99
+    is_highlight: false
+  - name: eSIM Iceland
+    flag: img/flags/is.svg
+    price: Từ $1.99
+    is_highlight: false
+  - name: eSIM Ý
+    flag: img/flags/it.svg
+    price: Từ $1.99
+    is_highlight: false
+  - name: eSIM Jamaica
+    flag: img/flags/jm.svg
+    price: Từ $11.99
     is_highlight: false
 ---

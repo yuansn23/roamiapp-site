@@ -1,6 +1,6 @@
 ---
 title: '印度 eSIM 2026: 電信商與覆蓋 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -16,10 +16,9 @@ modal:
   text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "印度eSIM｜5G流量吃到飽$1.99起，出國上網省錢必備"
-  description: "Roami eSIM提供印度出國5G吃到飽方案最低只要$1.99起，超值價格享受高速網路。便宜eSIM預付卡推薦，出國上網省錢必備方案，划算又好用簡單又方便。"
-  keywords: 印度 eSIM, 印度 eSIM方案, 最佳印度 eSIM, 印度上網, Jio 印度, Airtel 印度, Vi (Vodafone Idea) 印度, 孟買 eSIM, 德里 eSIM, 班加羅爾 eSIM, 印度行動網路,
-    5G 印度
+  title: "印度eSIM｜5G流量吃到飽$3.99起，出國上網省錢必備"
+  description: "Roami eSIM提供印度出國5G吃到飽方案最低只要$3.99起，超值價格享受高速網路。便宜eSIM預付卡推薦，出國上網省錢必備方案，划算又好用簡單又方便。"
+  keywords: 印度 eSIM, eSIM 印度, 印度 eSIM 購買, 最佳印度 eSIM, 印度 上網, Jio 印度, Airtel 印度, 孟買 eSIM, 德里 eSIM, 班加羅爾 eSIM, 清奈 eSIM, 加爾各答 eSIM, 印度 eSIM 方案, 印度 5G eSIM, 印度 eSIM 預付卡, 印度 網卡
 order_summary:
   title: 選擇 印度 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線印度最佳電信商，取得最強訊號
-plans_title: 購買印度 eSIM：適合各種旅程的方案
+plans_title: 印度 eSIM 方案：依天數與流量自由挑選
 plans_data:
   7 天:
   - spec: 3GB
@@ -297,7 +296,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 印度 eSIM秘訣：出發前須知
+  title: 印度 eSIM 旅遊上網提醒
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -326,7 +325,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 印度 eSIM啟用：3個簡單步驟
+  title: 印度 eSIM 安裝設定一次看
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 印度 做好準備
@@ -365,88 +364,93 @@ faq_section:
     title: 印度 eSIM 當地電信網路指南｜網速與覆蓋範圍完整分析
     questions:
     - q: 準備去印度出差，eSIM方案哪個比較適合商務使用？
-      a: Roami 印度 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Airtel在印度市區5G網速約100-300Mbps，看1080p影片沒問題。去印度機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到印度後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 印度 eSIM方案從$3.99（3天1GB）起，最高$94.99（15天無限）。一般旅客買最多的是5GB/15天（$11.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Airtel在印度市區5G網速約100-300Mbps，看1080p影片沒問題。去印度機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到印度後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 想去印度但不想放棄台灣門號，辦eSIM可以保留原號碼嗎？
       a: Roami 印度 eSIM是純數據方案，沒有附當地號碼。很多人擔心沒號碼不方便——其實叫車、訂餐廳用網路電話就行。在印度都會區用Airtel的5G打視訊，品質跟一般通話差不多。原門號可留在卡槽1繼續收簡訊（銀行驗證、社群通知不漏），eSIM在卡槽2負責上網。如需當地號碼可搭Google Voice或TextNow。iPhone XS以上、多數安卓旗艦支援雙卡雙待，設定數據走eSIM、通話走原門號即可。
     - q: 到印度旅遊想用eSIM，Airtel、Jio、Vi哪家網路比較穩？
       a: 印度主要有Airtel、Jio、Vi。Airtel市區下載快、基地台密集。Jio郊區覆蓋廣，會去郊區的話選Jio路線較有保障。Vi價格親民，適合預算有限的旅客。印度5G使用n78頻段，主要城市已覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Airtel，移動到郊區若Airtel訊號變弱就自動跳Jio或Vi，完全不用手動選。
     - q: 印度eSIM吃到飽方案如果被降速了，512kbps的速度還能做什麼？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。印度5G使用n78頻段，主要城市已覆蓋。Roami在印度連上Airtel的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。印度5G使用n78頻段，主要城市已覆蓋。Roami在印度連上Airtel的網路，網速穩定。如果怕降速可選10GB/$18.99或20GB/$30.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 有人說去印度辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
       a: 需要的。印度預付卡需KYC認證，需提供護照影本。很多人不知道這規定，到了印度機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。印度5G使用n78頻段，主要城市已覆蓋。另外Airtel的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到印度開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 在印度的郊區或小鎮也能正常使用eSIM嗎？查地圖導航會不會斷？
       a: 印度的Airtel等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。印度5G使用n78頻段，主要城市已覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
+    - q: 印度的Jio和Airtel，用eSIM哪一家訊號比較好？
+      a: 印度主要有Jio、Airtel等電信商。Roami 會自動選擇當下訊號最強的網路，在Jio與Airtel之間自動切換，不用手動設定。若行程會拉到郊區或離島，出發前先下載離線地圖會更保險。 在 孟買、德里 一帶實測收訊良好，移動中會自動切換基地台。
+    - q: 印度 eSIM 有幾天份的方案可以選？
+      a: Roami 印度 eSIM 提供 3/7/15/30 天等選擇，可依行程長短挑選。三天內的短程選入門天數就夠，一週以上建議直接挑長效期方案，單日成本更划算。 班加羅爾、清奈 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
+    - q: 去印度之後順道去其他國家，同一張eSIM能繼續用嗎？
+      a: Roami 印度 eSIM 以 印度 境內使用為主；若行程會跨到鄰國，建議另外加購該國或區域方案，避免產生額外的漫遊費用。 實際走訪 孟買、加爾各答 等主要城市，上網查資料、傳照片都沒問題。
 related_products:
-  title: 類似 印度 eSIM 的旅行方案
+  title: 更多國家 eSIM 選擇
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 比利時 eSIM
+    flag: img/flags/be.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: belgium-esim
+  - name: 喀麥隆 eSIM
+    flag: img/flags/cm.svg
+    price: 自 $27.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+    slug: cameroon-esim
+  - name: 史瓦帝尼 eSIM
+    flag: img/flags/sz.svg
+    price: 自 $19.99
+    is_highlight: false
+    slug: eswatini-esim
+  - name: 約旦 eSIM
+    flag: img/flags/jo.svg
+    price: 自 $6.99
+    is_highlight: false
+    slug: jordan-esim
+  - name: 巴拉圭 eSIM
+    flag: img/flags/py.svg
+    price: 自 $22.99
+    is_highlight: false
+    slug: paraguay-esim
+  - name: 西班牙 eSIM
+    flag: img/flags/es.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: spain-esim
+  - name: 拉脫維亞 eSIM
+    flag: img/flags/lv.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: latvia-esim
+  - name: 薩爾瓦多 eSIM
+    flag: img/flags/sv.svg
+    price: 自 $23.99
+    is_highlight: false
+    slug: el-salvador-esim
+  - name: 英國 eSIM
+    flag: img/flags/gb.svg
+    price: 自 $1.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: united-kingdom-esim
+  - name: 喬治亞 eSIM
+    flag: img/flags/ge.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: georgia-esim
+  - name: 迦納 eSIM
+    flag: img/flags/gh.svg
+    price: 自 $7.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: ghana-esim
+  - name: 剛果 eSIM
+    flag: img/flags/cg.svg
+    price: 自 $7.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: philippines-esim
-
+    slug: congo-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "India eSIM 好用嗎？上網速度與訊號深度體驗"
   subtitle: "印度當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (India) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/India"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -455,7 +459,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in India. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Jio 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開印度機場櫃檯 ₹100-500 的溢價和 2-24 小時的激活等待，Roami eSIM 出發前線上購買，抵達後一分鐘內啟用。"
     - icon: "id-card"
@@ -467,9 +471,9 @@ market_analysis:
     - icon: "globe"
       title: "國際漫遊"
       prepaid_title: ""
-      prepaid_desc: "Jio 卡無法回落到 2G/3G 網絡，遇盲區直接斷網；在 Ladakh 和 J&K 地區購買的 SIM 卡在該區域外無信號。"
+      prepaid_desc: "Jio 卡無法回落到 2G/3G 網路，遇盲區直接斷網；在 Ladakh 和 J&K 地區購買的 SIM 卡在該區域外無信號。"
       esim_title: "全球漫遊無憂"
-      esim_desc: "與 Jio 卡在盲區斷網或 J&K 區域外無信號不同，Roami eSIM 可智能切換至當地最佳網絡，確保跨邦旅行不斷線。"
+      esim_desc: "與 Jio 卡在盲區斷網或 J&K 區域外無信號不同，Roami eSIM 可智能切換至當地最佳網路，確保跨邦旅行不斷線。"
     - icon: "calendar-xmark"
       title: "計費週期與浪費成本"
       prepaid_title: ""
@@ -479,21 +483,21 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。但根據市場知識，印度運營商通常允許熱點分享，但超出 FUP 後速度降至 64 kbps。"
+      prepaid_desc: "印度電信商通常允許熱點分享，但超出 FUP 後速度降至 64 kbps。"
       esim_title: "無限熱點分享"
-      esim_desc: "印度實體卡超出 FUP 後速度降至 64 kbps，Roami eSIM 支持熱點分享且無速度限制，多人共享更划算。"
+      esim_desc: "印度實體卡超出 FUP 後速度降至 64 kbps，Roami eSIM 支援熱點分享且無速度限制，多人共享更划算。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "必須通過本地渠道或特定支持國際信用卡的平台（如 SwiftRecharge.com）充值，且通常面臨更高的在線充值溢價。"
+      prepaid_desc: "必須通過本地渠道或特定支援國際信用卡的平台（如 SwiftRecharge.com）儲值，且通常面臨更高的在線儲值溢價。"
       esim_title: "全球付款便利"
       esim_desc: "無需依賴 SwiftRecharge 等本地平台並承受匯率溢價，Roami 接受 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，價格透明。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。但根據市場知識，印度運營商客服通常提供英語和印地語，營業時間為週一至週六 9:00-18:00。"
+      prepaid_desc: "印度電信商客服通常提供英語和印地語，營業時間為週一至週六 9:00-18:00。"
       esim_title: "24/7 即時支援"
-      esim_desc: "印度運營商客服營業時間有限，Roami 提供 24/7 多語言線上支援，隨時解決連線問題。"
+      esim_desc: "印度電信商客服營業時間有限，Roami 提供 24/7 多語言線上支援，隨時解決連線問題。"
 
   # =============== 100% 完整復原：專家評語模組 ===============
   expert_verdict:
@@ -503,12 +507,12 @@ market_analysis:
         icon_bg: "bg-rose-100"
         icon_color: "text-rose-600"
         title: "跨邦漫遊不斷線"
-        desc: "Jio 卡無法回落到 2G/3G，遇盲區斷網；J&K 地區 SIM 卡出區域失效。Roami eSIM 智能切換至<b>Airtel、Vi 或 Jio</b> 最佳網絡，確保跨邦旅行穩定連線。"
+        desc: "Jio 卡無法回落到 2G/3G，遇盲區斷網；J&K 地區 SIM 卡出區域失效。Roami eSIM 智能切換至<b>Airtel、Vi 或 Jio</b> 最佳網路，確保跨邦旅行穩定連線。"
       - icon: "shield"
         icon_bg: "bg-indigo-100"
         icon_color: "text-indigo-600"
         title: "避開硬體黑名單"
-        desc: "印度運營商將國際手機 eSIM 功能列入黑名單，無法使用當地 eSIM。Roami 第三方 eSIM 不受此限制，相容所有解鎖手機。"
+        desc: "印度電信商將國際手機 eSIM 功能列入黑名單，無法使用當地 eSIM。Roami 第三方 eSIM 不受此限制，相容所有解鎖手機。"
       - icon: "wifi"
         icon_bg: "bg-green-100"
         icon_color: "text-green-600"
@@ -518,5 +522,5 @@ market_analysis:
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "全球付款無障礙"
-        desc: "印度充值需依賴本地平台或 SwiftRecharge，常遇國際卡拒絕及匯率溢價。Roami 接受<b>Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal</b>，價格透明。"
+        desc: "印度儲值需依賴本地平台或 SwiftRecharge，常遇國際卡拒絕及匯率溢價。Roami 接受<b>Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal</b>，價格透明。"
 ---

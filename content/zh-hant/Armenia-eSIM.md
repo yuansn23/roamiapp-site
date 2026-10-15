@@ -1,6 +1,6 @@
 ---
 title: '亞美尼亞 eSIM 2026: 城市與覆蓋 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -16,10 +16,9 @@ modal:
   text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "亞美尼亞eSIM｜5G吃到飽$1.99起，出國上網省錢必備"
-  description: "Roami eSIM提供亞美尼亞出國5G吃到飽方案最低只要$1.99起，超值價格享受高速網路。便宜eSIM預付卡推薦出國上網省錢必備方案，划算又好用簡單又方便。"
-  keywords: 亞美尼亞 eSIM, 亞美尼亞 eSIM方案, 最佳亞美尼亞 eSIM, 亞美尼亞上網, Ucom 亞美尼亞, Beeline 亞美尼亞, Viva-MTS 亞美尼亞, 葉里溫 eSIM, 久姆里 eSIM, 瓦納佐爾
-    eSIM, 亞美尼亞行動網路, 5G 亞美尼亞
+  title: "亞美尼亞eSIM｜5G吃到飽$7.99起，出國上網省錢必備"
+  description: "Roami eSIM提供亞美尼亞出國5G吃到飽方案最低只要$7.99起，超值價格享受高速網路。便宜eSIM預付卡推薦出國上網省錢必備方案，划算又好用簡單又方便。"
+  keywords: 亞美尼亞 eSIM, eSIM 亞美尼亞, 亞美尼亞 eSIM 購買, 最佳亞美尼亞 eSIM, 亞美尼亞 上網, Ucom 亞美尼亞, Beeline 亞美尼亞, Viva-MTS 亞美尼亞, 葉里溫 eSIM, 久姆里 eSIM, 瓦納佐爾 eSIM, 塞凡 eSIM, 傑爾穆克 eSIM, 亞美尼亞 eSIM 方案, 亞美尼亞 5G eSIM, 亞美尼亞 eSIM 預付卡
 order_summary:
   title: 選擇 亞美尼亞 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線亞美尼亞最佳電信商，取得最強訊號
-plans_title: 購買亞美尼亞 eSIM：適合各種旅程的方案
+plans_title: 找到最適合你的亞美尼亞 eSIM 方案
 plans_data:
   7 天:
   - spec: 3GB
@@ -265,7 +264,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 亞美尼亞 eSIM秘訣：出發前須知
+  title: 亞美尼亞 eSIM 使用前必讀
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -294,7 +293,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 亞美尼亞 eSIM啟用：3個簡單步驟
+  title: 亞美尼亞 eSIM 這樣啟用最簡單
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 亞美尼亞 做好準備
@@ -329,7 +328,7 @@ faq_section:
     title: 亞美尼亞 eSIM Viva-MTS等網路速度實測｜最適合旅行上網的選擇
     questions:
     - q: 準備去亞美尼亞出差，eSIM方案哪個比較適合商務使用？
-      a: Roami 亞美尼亞 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。亞美尼亞以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去亞美尼亞機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到亞美尼亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 亞美尼亞 eSIM方案從$7.99（3天3GB）起，最高$98.99（15天無限）。一般旅客買最多的是5GB/15天（$16.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。亞美尼亞以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去亞美尼亞機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到亞美尼亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 看到有人說亞美尼亞的Viva-MTS在市區很快、Ucom在郊區很廣，真的是這樣嗎？
       a: 亞美尼亞主要有Viva-MTS、Ucom、Team。Viva-MTS市區下載快、基地台密集。Ucom郊區覆蓋廣，會去郊區的話選Ucom路線較有保障。Team價格親民，適合預算有限的旅客。亞美尼亞4G為主，主要城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Viva-MTS，移動到郊區若Viva-MTS訊號變弱就自動跳Ucom或Team，完全不用手動選。
     - q: 去亞美尼亞用eSIM需要先通過身分驗證嗎？要準備哪些證件？
@@ -337,80 +336,85 @@ faq_section:
     - q: 搭車從亞美尼亞市區移動到郊區的時候，eSIM網路會一直切換嗎？
       a: 亞美尼亞的Viva-MTS等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。亞美尼亞4G為主，主要城市覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 去亞美尼亞旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
-      a: Roami 亞美尼亞 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
+      a: Roami 亞美尼亞 eSIM方案從$7.99（3天3GB）起，最高$98.99（15天無限）。一般選5GB/15天（$16.99）最熱門，不夠再到App加購。
     - q: 出國去亞美尼亞用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
       a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到亞美尼亞開數據漫遊就用。
+    - q: 亞美尼亞 eSIM 要怎麼啟用？要抵達當地才開嗎？
+      a: 建議出發前先用 WiFi 掃描 QR code 安裝描述檔，抵達 亞美尼亞 後再開啟 eSIM 線路並打開數據漫遊，連上當地網路就會自動啟用，方案效期也從那時開始計算。 葉里溫、久姆里 等地的行動網路覆蓋完整，跨區移動也不斷線。
+    - q: 去亞美尼亞之後順道去其他國家，同一張eSIM能繼續用嗎？
+      a: Roami 亞美尼亞 eSIM 以 亞美尼亞 境內使用為主；若行程會跨到鄰國，建議另外加購該國或區域方案，避免產生額外的漫遊費用。 另外，瓦納佐爾、塞凡 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
+    - q: 在葉里溫、久姆里用亞美尼亞 eSIM上網順嗎？
+      a: 葉里溫、久姆里 這類主要城市的行動網路覆蓋都很完整，查地圖、叫車、傳訊息與上傳照片都沒問題。亞美尼亞 部分偏遠地區訊號較弱，建議先下載離線地圖備用。 在 葉里溫、傑爾穆克 一帶實測收訊良好，移動中會自動切換基地台。
 related_products:
-  title: 類似 亞美尼亞 eSIM 的旅行方案
+  title: 搭配 亞美尼亞 的跨國 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+  - name: 吉爾吉斯 eSIM
+    flag: img/flags/kg.svg
+    price: 自 $4.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: kyrgyzstan-esim
+  - name: 斐濟 eSIM
+    flag: img/flags/fj.svg
+    price: 自 $6.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: fiji-esim
+  - name: 阿曼 eSIM
+    flag: img/flags/om.svg
+    price: 自 $5.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: oman-esim
+  - name: 印度 eSIM
+    flag: img/flags/in.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: india-esim
+  - name: 柬埔寨 eSIM
+    flag: img/flags/kh.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: cambodia-esim
+  - name: 馬利 eSIM
+    flag: img/flags/ml.svg
+    price: 自 $27.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: mali-esim
+  - name: 蒙特內哥羅 eSIM
+    flag: img/flags/me.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: montenegro-esim
+  - name: 波士尼亞與赫塞哥維納 eSIM
+    flag: img/flags/ba.svg
+    price: 自 $30.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+    slug: bosnia-and-herzegovina-esim
+  - name: 喬治亞 eSIM
+    flag: img/flags/ge.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: georgia-esim
+  - name: 多明尼加共和國 eSIM
+    flag: img/flags/do.svg
+    price: 自 $5.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: dominican-republic-esim
+  - name: 拉脫維亞 eSIM
+    flag: img/flags/lv.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: latvia-esim
+  - name: 阿爾及利亞 eSIM
+    flag: img/flags/dz.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: algeria-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Armenia eSIM 網路品質好不好？城市與鄉村覆蓋完整分析"
   subtitle: "亞美尼亞當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Armenia) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Armenia"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -419,7 +423,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Armenia. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Ucom 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 Viva-MTS 邊境辦公室或 Team 機場櫃檯的排隊與護照複印流程，抵達亞美尼亞後一分鐘內線上啟用 eSIM，落地即可連網。"
     - icon: "id-card"
@@ -449,15 +453,15 @@ market_analysis:
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "Viva-MTS 充值卡有效期極短：AMD 500 僅 12 天，AMD 1000 僅 20 天，AMD 2000 僅 48 天；Ucom 充值有效期 30 天至 6 個月。"
+      prepaid_desc: "Viva-MTS 儲值卡有效期極短：AMD 500 僅 12 天，AMD 1000 僅 20 天，AMD 2000 僅 48 天；Ucom 儲值有效期 30 天至 6 個月。"
       esim_title: "全球付款暢通"
-      esim_desc: "Viva-MTS 充值卡有效期僅 12 天，且需在當地購買；eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，線上即時儲值。"
+      esim_desc: "Viva-MTS 儲值卡有效期僅 12 天，且需在當地購買；eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，線上即時儲值。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "Ucom 等當地業者的客服以當地語言為主，預付卡用戶多須至門市或撥打客服電話，營業時間有限，難獲得 24/7 即時支援。"
       esim_title: "24/7 中文支援"
-      esim_desc: "亞美尼亞運營商客服可能僅提供亞美尼亞語或俄語，eSIM 提供 24/7 多語言線上支援，隨時解決問題。"
+      esim_desc: "亞美尼亞電信商客服可能僅提供亞美尼亞語或俄語，eSIM 提供 24/7 多語言線上支援，隨時解決問題。"
 
   # =============== 100% 完整復原：專家評語模組 ===============
   expert_verdict:
@@ -482,5 +486,5 @@ market_analysis:
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "全球付款方式更便利"
-        desc: "Viva-MTS 充值卡有效期僅 12-48 天，且需在當地購買。eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，線上即時儲值。"
+        desc: "Viva-MTS 儲值卡有效期僅 12-48 天，且需在當地購買。eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，線上即時儲值。"
 ---

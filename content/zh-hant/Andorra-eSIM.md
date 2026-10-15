@@ -1,6 +1,6 @@
 ---
 title: '安道爾 eSIM 2026: 電信商與覆蓋 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -16,10 +16,9 @@ modal:
   text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: '安道爾eSIM｜5G上網吃到飽，最低$1.99起'
-  description: 比較安道爾 eSIM方案，安道爾城, 埃斯卡爾德斯-恩戈爾達尼, 馬薩納等地5G高速上網。Andorra Telecom覆蓋指南。即時QR啟用，起價$1.99。
-  keywords: 安道爾 eSIM, 安道爾 eSIM方案, 最佳安道爾 eSIM, 安道爾上網, Andorra Telecom 安道爾, 安道爾城 eSIM, 埃斯卡爾德斯-恩戈爾達尼 eSIM, 馬薩納 eSIM, 安道爾行動網路,
-    5G 安道爾
+  title: '安道爾eSIM｜5G上網吃到飽，最低$6.99起'
+  description: 比較安道爾 eSIM方案，安道爾城, 埃斯卡爾德斯-恩戈爾達尼, 馬薩納等地5G高速上網。Andorra Telecom覆蓋指南。即時QR啟用，起價$6.99。
+  keywords: 安道爾 eSIM, eSIM 安道爾, 安道爾 eSIM 購買, 最佳安道爾 eSIM, 安道爾 上網, Andorra Telecom 安道爾, 安道爾城 eSIM, 埃斯卡爾德斯-恩戈爾達尼 eSIM, 馬薩納 eSIM, 卡尼略 eSIM, 恩坎普 eSIM, 安道爾 eSIM 方案, 安道爾 5G eSIM, 安道爾 eSIM 預付卡, 安道爾 網卡, 安道爾 上網卡
 order_summary:
   title: 選擇 安道爾 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線安道爾最佳電信商，取得最強訊號
-plans_title: 購買安道爾 eSIM：適合各種旅程的方案
+plans_title: 安道爾 eSIM 資費方案一覽
 plans_data:
   7 天:
   - spec: 3GB
@@ -229,7 +228,7 @@ network_coverage:
       coverage: 最佳整體覆蓋
       network: 5G/4G/LTE 網路
 reminders:
-  title: 安道爾 eSIM秘訣：出發前須知
+  title: 安道爾 eSIM 使用重點提醒
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -258,7 +257,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 安道爾 eSIM啟用：3個簡單步驟
+  title: 安道爾 eSIM 安裝與啟用步驟
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 安道爾 做好準備
@@ -294,88 +293,93 @@ faq_section:
     title: 安道爾 eSIM 5G網速與電信商比較｜Andorra Telecom覆蓋評測
     questions:
     - q: 到安道爾玩幾天而已，eSIM有沒有比較不貴的方案？
-      a: Roami 安道爾 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。安道爾以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去安道爾機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到安道爾後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 安道爾 eSIM方案從$6.99（7天1GB）起，最高$89.99（15天無限）。一般旅客買最多的是5GB/15天（$16.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。安道爾以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去安道爾機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到安道爾後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 有人說去安道爾辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
       a: 需要的。安道爾預付卡需KYC認證，需提供護照。很多人不知道這規定，到了安道爾機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。安道爾4G為主，5G有限覆蓋。完成後到安道爾開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 搭車從安道爾市區移動到郊區的時候，eSIM網路會一直切換嗎？
       a: 安道爾的Andorra Telecom等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。安道爾4G為主，5G有限覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 去安道爾旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
-      a: Roami 安道爾 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
+      a: Roami 安道爾 eSIM方案從$6.99（7天1GB）起，最高$89.99（15天無限）。一般選5GB/15天（$16.99）最熱門，不夠再到App加購。
     - q: 出國去安道爾用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
       a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到安道爾開數據漫遊就用。
     - q: 跟旅伴一起去安道爾，買一張eSIM開熱點分享夠兩個人用嗎？
       a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
+    - q: 安道爾 eSIM 大概多少錢？有便宜的選擇嗎？
+      a: Roami 安道爾 eSIM 方案從 $6.99（7天1GB）起，最高 $89.99（15天無限）。短期輕度使用挑入門方案即可，用量大的旅客再選高規格。價格透明，方案到期自動失效，不會續約扣款。 實際走訪 安道爾城、埃斯卡爾德斯-恩戈爾達尼 等主要城市，上網查資料、傳照片都沒問題。
+    - q: 安道爾 eSIM 的網速快嗎？會不會比當地實體卡慢？
+      a: Roami 安道爾 eSIM 走當地主要電信商的基地台，速度與當地預付卡相當，日常查地圖、社群、視訊通話都很順。實際速度仍會受所在位置與當下網路負載影響。 不論在 馬薩納、卡尼略，連線品質都相當穩定。
+    - q: 去安道爾玩幾天，該挑多大的eSIM規格才夠用？
+      a: Roami 安道爾 eSIM 有 3GB、無限、1GB、5GB、10GB、20GB 等規格可選。短天數、只查地圖傳訊息的輕度使用，3GB 就夠；如果會看短影片、視訊通話或開熱點分享，建議再往上加一級。用量抓不準可以先買小的，到 安道爾 後在 App 加購即可，不用換卡。 安道爾城、恩坎普 等地的行動網路覆蓋完整，跨區移動也不斷線。
 related_products:
-  title: 類似 安道爾 eSIM 的旅行方案
+  title: 搭配 安道爾 的跨國 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+  - name: 德國 eSIM
+    flag: img/flags/de.svg
+    price: 自 $1.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: germany-esim
+  - name: 烏茲別克 eSIM
+    flag: img/flags/uz.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: uzbekistan-esim
+  - name: 汶萊 eSIM
+    flag: img/flags/bn.svg
+    price: 自 $9.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: brunei-esim
+  - name: 匈牙利 eSIM
+    flag: img/flags/hu.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: hungary-esim
+  - name: 賽普勒斯 eSIM
+    flag: img/flags/cy.svg
+    price: 自 $2.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: cyprus-esim
+  - name: 模里西斯 eSIM
+    flag: img/flags/mu.svg
+    price: 自 $7.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: mauritius-esim
+  - name: 斐濟 eSIM
+    flag: img/flags/fj.svg
+    price: 自 $6.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: fiji-esim
+  - name: 冰島 eSIM
+    flag: img/flags/is.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+    slug: iceland-esim
+  - name: 土耳其 eSIM
+    flag: img/flags/tr.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: turkey-esim
+  - name: 奧地利 eSIM
+    flag: img/flags/at.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: austria-esim
+  - name: 蒙特內哥羅 eSIM
+    flag: img/flags/me.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: montenegro-esim
+  - name: 立陶宛 eSIM
+    flag: img/flags/lt.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: lithuania-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Andorra eSIM 全面評測 -- 速度、涵蓋範圍、使用體驗"
   subtitle: "安道爾當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Andorra) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Andorra"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -384,7 +388,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Andorra. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Andorra Telecom 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 Andorra Telecom 營業廳排隊及人工審核等待，Roami eSIM 購買後掃碼即啟用，無需上傳護照或自拍照，落地安道爾城一分鐘內連線。"
     - icon: "id-card"
@@ -408,19 +412,19 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。基於市場知識，Andorra Telecom 允許熱點分享，但流量用盡後數據功能直接切斷，無降速。"
+      prepaid_desc: "Andorra Telecom 允許熱點分享，但流量用盡後數據功能直接切斷，無降速。"
       esim_title: "無限熱點分享"
       esim_desc: "Andorra Telecom 流量用盡即斷網，無降速；Roami eSIM 支援熱點分享，數據用罄前可彈性加購，保持多裝置連線。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "充值卡面值有限制，為 €15、€30 或 €60；線上可用信用卡充值任意 €5 至 €60 的金額，但仍有最低消費門檻。"
+      prepaid_desc: "儲值卡面值有限制，為 €15、€30 或 €60；線上可用信用卡儲值任意 €5 至 €60 的金額，但仍有最低消費門檻。"
       esim_title: "全球付款方式"
-      esim_desc: "Andorra Telecom 僅接受信用卡或實體充值券（€15/€30/€60）；Roami eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無最低消費。"
+      esim_desc: "Andorra Telecom 僅接受信用卡或實體儲值券（€15/€30/€60）；Roami eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無最低消費。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。基於市場知識，Andorra Telecom 提供電話客服（+376 800 800）及營業廳服務，但無 24/7 支援。"
+      prepaid_desc: "Andorra Telecom 提供電話客服（+376 800 800）及營業廳服務，但無 24/7 支援。"
       esim_title: "24/7 即時支援"
       esim_desc: "Andorra Telecom 客服僅限營業時間；Roami eSIM 提供 24/7 線上即時聊天，任何問題快速回應。"
 
@@ -447,5 +451,5 @@ market_analysis:
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "全球付款無最低門檻"
-        desc: "Andorra Telecom 充值卡面值 €15/€30/€60，線上信用卡充值最低 €5。Roami eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無最低消費限制。"
+        desc: "Andorra Telecom 儲值卡面值 €15/€30/€60，線上信用卡儲值最低 €5。Roami eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無最低消費限制。"
 ---

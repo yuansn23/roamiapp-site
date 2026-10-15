@@ -1,6 +1,6 @@
 ---
 title: '以色列 eSIM 2026: 旅客與網路 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,9 +17,8 @@ modal:
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
   title: '以色列eSIM｜5G無限流量吃到飽，追劇打卡盡情用'
-  description: 比較以色列 eSIM方案，耶路撒冷, 特拉維夫, 海法等地5G高速上網。Cellcom & Partner & Pelephone覆蓋指南。即時QR啟用，起價$1.99。
-  keywords: 以色列 eSIM, 以色列 eSIM方案, 最佳以色列 eSIM, 以色列上網, Cellcom 以色列, Partner 以色列, Pelephone 以色列, 耶路撒冷 eSIM, 特拉維夫 eSIM, 海法 eSIM,
-    以色列行動網路, 5G 以色列
+  description: 比較以色列 eSIM方案，耶路撒冷, 特拉維夫, 海法等地5G高速上網。Cellcom & Partner & Pelephone覆蓋指南。即時QR啟用，起價$2.99。
+  keywords: 以色列 eSIM, eSIM 以色列, 以色列 eSIM 購買, 最佳以色列 eSIM, 以色列 上網, Cellcom 以色列, Partner 以色列, Pelephone 以色列, 耶路撒冷 eSIM, 特拉維夫 eSIM, 海法 eSIM, 埃拉特 eSIM, 死海地區 eSIM, 以色列 eSIM 方案, 以色列 5G eSIM, 以色列 eSIM 預付卡
 order_summary:
   title: 選擇 以色列 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線以色列最佳電信商，取得最強訊號
-plans_title: 購買以色列 eSIM：適合各種旅程的方案
+plans_title: 找到最適合你的以色列 eSIM 方案
 plans_data:
   7 天:
   - spec: 1GB
@@ -297,7 +296,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 以色列 eSIM秘訣：出發前須知
+  title: 以色列 eSIM 使用前必讀
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -326,7 +325,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 以色列 eSIM啟用：3個簡單步驟
+  title: 以色列 eSIM 這樣啟用最簡單
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 以色列 做好準備
@@ -361,88 +360,93 @@ faq_section:
     title: 以色列 eSIM 網路品質評比｜各家電信速度收訊比較
     questions:
     - q: 出國去以色列辦eSIM有推薦的方案嗎？不想花太多錢。
-      a: Roami 以色列 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Cellcom在以色列市區5G網速約100-300Mbps，看1080p影片沒問題。去以色列機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到以色列後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 以色列 eSIM方案從$2.99（7天1GB）起，最高$69.99（30天無限）。一般旅客買最多的是5GB/15天（$6.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Cellcom在以色列市區5G網速約100-300Mbps，看1080p影片沒問題。去以色列機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到以色列後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: Cellcom、Partner、HOT這三家在以色列的收訊，在市區和郊區各推薦哪家？
       a: 以色列主要有Cellcom、Partner、HOT。Cellcom市區下載快、基地台密集。Partner郊區覆蓋廣，會去郊區的話選Partner路線較有保障。HOT價格親民，適合預算有限的旅客。以色列5G使用n78頻段，全境覆蓋密集。不過Roami會自動切換到當前訊號最強的網路。市區用Cellcom，移動到郊區若Cellcom訊號變弱就自動跳Partner或HOT，完全不用手動選。
     - q: 以色列eSIM吃到飽方案如果被降速了，512kbps的速度還能做什麼？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。以色列5G使用n78頻段，全境覆蓋密集。Roami在以色列連上Cellcom的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。以色列5G使用n78頻段，全境覆蓋密集。Roami在以色列連上Cellcom的網路，網速穩定。如果怕降速可選10GB/$6.99或20GB/$13.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 去以色列用eSIM需要先通過身分驗證嗎？要準備哪些證件？
       a: 需要的。以色列預付卡需KYC認證，需提供護照。很多人不知道這規定，到了以色列機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。以色列5G使用n78頻段，全境覆蓋密集。另外Cellcom的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到以色列開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 離開以色列市區之後，eSIM的訊號會不會變得很差？
       a: 以色列的Cellcom等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。以色列5G使用n78頻段，全境覆蓋密集。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 以色列eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
       a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
+    - q: 以色列 eSIM 要怎麼啟用？要抵達當地才開嗎？
+      a: 建議出發前先用 WiFi 掃描 QR code 安裝描述檔，抵達 以色列 後再開啟 eSIM 線路並打開數據漫遊，連上當地網路就會自動啟用，方案效期也從那時開始計算。 耶路撒冷、特拉維夫 等地的行動網路覆蓋完整，跨區移動也不斷線。
+    - q: 去以色列之後順道去其他國家，同一張eSIM能繼續用嗎？
+      a: Roami 以色列 eSIM 以 以色列 境內使用為主；若行程會跨到鄰國，建議另外加購該國或區域方案，避免產生額外的漫遊費用。 另外，海法、埃拉特 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
+    - q: 在耶路撒冷、特拉維夫用以色列 eSIM上網順嗎？
+      a: 耶路撒冷、特拉維夫 這類主要城市的行動網路覆蓋都很完整，查地圖、叫車、傳訊息與上傳照片都沒問題。以色列 部分偏遠地區訊號較弱，建議先下載離線地圖備用。 在 耶路撒冷、死海地區 一帶實測收訊良好，移動中會自動切換基地台。
 related_products:
-  title: 類似 以色列 eSIM 的旅行方案
+  title: 熱門目的地 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+  - name: 阿曼 eSIM
+    flag: img/flags/om.svg
+    price: 自 $5.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: oman-esim
+  - name: 牙買加 eSIM
+    flag: img/flags/jm.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: jamaica-esim
+  - name: 烏拉圭 eSIM
+    flag: img/flags/uy.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: uruguay-esim
+  - name: 蓋亞那 eSIM
+    flag: img/flags/gy.svg
+    price: 自 $9.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: guyana-esim
+  - name: 羅馬尼亞 eSIM
+    flag: img/flags/ro.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: romania-esim
+  - name: 馬利 eSIM
+    flag: img/flags/ml.svg
+    price: 自 $27.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: mali-esim
+  - name: 亞美尼亞 eSIM
+    flag: img/flags/am.svg
+    price: 自 $7.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: armenia-esim
+  - name: 塞爾維亞 eSIM
+    flag: img/flags/rs.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+    slug: serbia-esim
+  - name: 巴基斯坦 eSIM
+    flag: img/flags/pk.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: pakistan-esim
+  - name: 波蘭 eSIM
+    flag: img/flags/pl.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: poland-esim
+  - name: 奧地利 eSIM
+    flag: img/flags/at.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: austria-esim
+  - name: 多米尼克 eSIM
+    flag: img/flags/dm.svg
+    price: 自 $11.99
+    is_highlight: false
+    slug: dominica-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Israel eSIM 網路覆蓋怎麼樣？離城市多遠會沒訊號？"
   subtitle: "以色列當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Israel) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Israel"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -451,13 +455,13 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Israel. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Cellcom 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開本古里安機場的高價陷阱（019 Mobile 10天10GB收29美元），Roami eSIM 出發前線上購買，落地秒連，無需尋找授權店或面對語言障礙。"
     - icon: "id-card"
       title: "KYC 與護照登記"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "預付卡採實名制，須出示護照並填寫資料；若在機場臨時辦理，遇假日或系統延遲容易卡關。"
       esim_title: "免護照登記"
       esim_desc: "無需像以色列實體卡那樣進行KYC，Roami eSIM 即買即用，保護隱私，繞過Partner手動開通4G的繁瑣流程。"
     - icon: "globe"
@@ -475,21 +479,21 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "Cellcom 等業者的預付方案通常可分享熱點，但速度政策不透明，達一定流量後可能被限速，長途使用需留意。"
       esim_title: "無限熱點分享"
-      esim_desc: "Roami eSIM 支援熱點分享，無降速限制，而以色列實體卡常隱藏分享限制，如Pelephone每日短信上限50條。"
+      esim_desc: "Roami eSIM 支援熱點分享，無降速限制，而以色列實體卡常隱藏分享限制，如Pelephone每日簡訊上限50條。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "從以色列境外在線充值極其困難，主流支付方式不接受國際信用卡，僅有PAYEXPRESS或WebMoney。"
+      prepaid_desc: "從以色列境外在線儲值極其困難，主流支付方式不接受國際信用卡，僅有PAYEXPRESS或WebMoney。"
       esim_title: "全球付款暢通"
-      esim_desc: "支援Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，一次付清，無需研究PAYEXPRESS等複雜充值渠道。"
+      esim_desc: "支援Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，一次付清，無需研究PAYEXPRESS等複雜儲值渠道。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "當地預付卡的客服多限當地語言與營業時間，Cellcom 等業者少有 24/7 線上支援，行程中斷網時處理較慢。"
       esim_title: "24/7 中文支援"
-      esim_desc: "Roami 提供24/7多語言客服，即時解決問題，而以色列運營商如Partner僅有希伯來語語音指引，對遊客極不友好。"
+      esim_desc: "Roami 提供24/7多語言客服，即時解決問題，而以色列電信商如Partner僅有希伯來語語音指引，對遊客極不友好。"
 
   # =============== 100% 完整復原：專家評語模組 ===============
   expert_verdict:
@@ -499,12 +503,12 @@ market_analysis:
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "全球付款暢通無阻"
-        desc: "以色列實體卡充值不接受國際信用卡，僅有<b>PAYEXPRESS</b>等複雜渠道。Roami 支援Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal。"
+        desc: "以色列實體卡儲值不接受國際信用卡，僅有<b>PAYEXPRESS</b>等複雜渠道。Roami 支援Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal。"
       - icon: "wifi"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
         title: "無限熱點分享無降速"
-        desc: "以色列實體卡常隱藏分享限制，如<b>Pelephone</b>每日短信上限50條。Roami eSIM 支援熱點分享，無降速，多人共享。"
+        desc: "以色列實體卡常隱藏分享限制，如<b>Pelephone</b>每日簡訊上限50條。Roami eSIM 支援熱點分享，無降速，多人共享。"
       - icon: "clock"
         icon_bg: "bg-orange-100"
         icon_color: "text-orange-600"

@@ -644,3 +644,9 @@ other = "Guides eSIM de voyage"
 
 [author_bio]
 other = "Roami est un opérateur eSIM mondial spécialisé dans la connectivité en voyage. Ce guide s'appuie sur des données réseau, la documentation officielle des opérateurs et des fabricants, et les questions des voyageurs."
+
+[more_faqs]
+other = "Plus de guides eSIM"
+
+[more_faqs_desc]
+other = "Guides supplémentaires sur la configuration, la compatibilité et le dépannage du centre d'aide Roami."

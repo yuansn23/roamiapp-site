@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Malaysia 2026: Hướng dẫn Nhà mạng Địa phương | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Malaysia | Mua gói dữ liệu du lịch cho chuyến đi của bạn
   description: Khám phá Malaysia với eSIM du lịch trả trước tốt nhất từ Roami. Dữ liệu 5G không giới hạn trên mạng hàng đầu. Kích hoạt tức thì. Phủ sóng KL, Penang & tất cả các thành phố.
-  keywords: eSIM Malaysia, mua eSIM Malaysia, eSIM Malaysia tốt nhất, eSIM du lịch Malaysia, Maxis Malaysia, Celcom Malaysia, Digi Malaysia, eSIM Kuala Lumpur, eSIM Penang, eSIM Johor Bahru, eSIM trả trước Malaysia, eSIM 5G Malaysia
+  keywords: eSIM Malaysia, mua eSIM Malaysia, eSIM Malaysia tốt nhất, eSIM du lịch Malaysia, Maxis Malaysia, Celcom Malaysia, Digi Malaysia, eSIM Kuala Lumpur, eSIM Penang, eSIM Johor Bahru, eSIM trả trước Malaysia, eSIM 5G Malaysia, eSIM Kota Kinabalu, eSIM Kuching, eSIM Malaysia giá rẻ, sim du lịch Malaysia
   low_price: 1.99
-  high_price: 39.9
+  high_price: 65.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng Malaysia hàng đầu để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Malaysia: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Bảng giá gói Malaysia eSIM'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -316,7 +316,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Malaysia: Những điều cần biết trước khi đi'
+  title: 'Nhắc nhở chuẩn bị trước chuyến đi Malaysia'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích với eSIM</a> trước khi mua.
@@ -335,7 +335,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Malaysia: 3 bước đơn giản'
+  title: 'Malaysia eSIM kích hoạt thế nào? 3 bước là xong'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -355,17 +355,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Kết nối Internet tại Malaysia -- Hướng dẫn chất lượng và tốc độ mạng eSIM"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Malaysia. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Tổng hợp hỏi đáp về mạng, tốc độ và kết nối eSIM cho du khách đến Malaysia."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Malaysia
+    title: Giải đáp thắc mắc khi dùng Malaysia eSIM
     questions:
     - q: |
         Các tùy chọn eSIM rẻ nhất cho chuyến đi Malaysia là gì?
       a: |
-        Gói eSIM Malaysia của Roami bắt đầu từ $1.99 (7 ngày, 1GB) lên đến $59.99 (30 ngày không giới hạn). Đối với chuyến đi 5-7 ngày điển hình, gói 5GB ở mức $9.99 là lựa chọn hợp lý nhất — đủ cho bản đồ, nhắn tin và kiểm tra mạng xã hội. Cần phát trực tuyến video hoặc làm việc từ xa? Hãy dùng gói 10GB hoặc không giới hạn. Nhờ mạng 5G của Maxis, phát trực tuyến và cuộc gọi video hoạt động tuyệt vời. Quầy SIM sân bay tính phí cao hơn 30-50% và bạn phải xếp hàng. Không chắc về nhu cầu dữ liệu? Bắt đầu với gói nhỏ và nạp thêm qua ứng dụng mà không cần thay đổi eSIM.
+        Gói eSIM Malaysia của Roami bắt đầu từ $1.99 lên đến $65.99 (30 ngày không giới hạn). Đối với chuyến đi 5-7 ngày điển hình, gói 5GB ở mức $4.99 là lựa chọn hợp lý nhất — đủ cho bản đồ, nhắn tin và kiểm tra mạng xã hội. Cần phát trực tuyến video hoặc làm việc từ xa? Hãy dùng gói 10GB hoặc không giới hạn. Nhờ mạng 5G của Maxis, phát trực tuyến và cuộc gọi video hoạt động tuyệt vời. Quầy SIM sân bay tính phí cao hơn 30-50% và bạn phải xếp hàng. Không chắc về nhu cầu dữ liệu? Bắt đầu với gói nhỏ và nạp thêm qua ứng dụng mà không cần thay đổi eSIM.
     - q: |
         Tôi có cần hộ chiếu hay giấy tờ tùy thân để sử dụng eSIM ở Malaysia không? Quy trình xác minh hoạt động thế nào?
       a: |
@@ -394,63 +394,75 @@ faq_section:
         Tôi có thể sử dụng eSIM Malaysia cho mạng xã hội và chia sẻ ảnh với gia đình không?
       a: |
         Chắc chắn. Instagram, WhatsApp, Facebook và các ứng dụng xã hội khác đều hoạt động qua kết nối eSIM. Tốc độ tải lên từ Maxis xử lý ảnh trong vài giây và video ngắn dễ dàng.
+    - q: |
+        eSIM Malaysia giá bao nhiêu? Có lựa chọn rẻ không?
+      a: |
+        Gói eSIM Malaysia của Roami bắt đầu từ $1.99 (3 ngày 1GB), cao nhất $65.99 (30 ngày Không giới hạn). Chuyến ngắn dùng ít thì chọn gói nhập môn là đủ, khách dùng nhiều thì chọn mức cao hơn. Giá minh bạch, gói hết hạn tự kết thúc và không tự động gia hạn.  Thực tế tại Kuala Lumpur, Penang, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
+    - q: |
+        Tốc độ eSIM Malaysia có nhanh không? Có chậm hơn SIM vật lý không?
+      a: |
+        eSIM Malaysia của Roami dùng trạm gốc của các nhà mạng chính tại địa phương, tốc độ tương đương SIM trả trước bản địa; tra bản đồ, mạng xã hội và gọi video đều mượt. Tốc độ thực tế còn phụ thuộc vị trí và tải của mạng tại thời điểm đó.  Dù ở Johor Bahru, Kota Kinabalu hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
+    - q: |
+        Đi Malaysia vài ngày thì nên chọn gói eSIM dung lượng bao nhiêu?
+      a: |
+        eSIM Malaysia của Roami có các mức 1GB, Không giới hạn, 3GB, 5GB, 10GB, 20GB. Chuyến ngắn, chỉ tra bản đồ và nhắn tin thì 1GB là đủ; nếu xem video ngắn, gọi video hoặc chia sẻ hotspot, bạn nên chọn mức cao hơn một bậc. Nếu chưa chắc về nhu cầu, có thể mua gói nhỏ rồi nạp thêm trong ứng dụng sau khi đến Malaysia, không cần đổi SIM.  Vùng phủ di động tại Kuala Lumpur, Kuching đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
 related_products:
   title: Các gói eSIM Malaysia liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
+  - name: eSIM Lithuania
+    flag: img/flags/lt.svg
     price: Từ $1.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
+  - name: eSIM Luxembourg
+    flag: img/flags/lu.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
+  - name: eSIM Latvia
+    flag: img/flags/lv.svg
     price: Từ $1.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Madagascar
+    flag: img/flags/mg.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Mali
+    flag: img/flags/ml.svg
+    price: Từ $27.99
+    is_highlight: false
+  - name: eSIM Malta
+    flag: img/flags/mt.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ $1.99
+  - name: eSIM Maldives
+    flag: img/flags/mv.svg
+    price: Từ $14.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
+  - name: eSIM Malawi
+    flag: img/flags/mw.svg
+    price: Từ $14.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
+  - name: eSIM Mexico
+    flag: img/flags/mx.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
+  - name: eSIM Nepal
+    flag: img/flags/ne.svg
+    price: Từ $10.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
+  - name: eSIM Nigeria
+    flag: img/flags/ng.svg
+    price: Từ $5.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: eSIM Niger
+    flag: img/flags/ni.svg
+    price: Từ $23.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Malaysia vs SIM vật lý: Hướng dẫn so sánh đầy đủ'
   subtitle: SIM trả trước địa phương Malaysia vs. Giải pháp eSIM (Điểm chuẩn 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Malaysia) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Malaysia
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)

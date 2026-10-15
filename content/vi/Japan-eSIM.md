@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Nhật Bản 2026 - Gói 5G tốt nhất cho Tokyo & Kyoto | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Nhật Bản - Gói dữ liệu trả trước nhanh cho nhà thám hiểm
   description: Nhận eSIM trả trước Nhật Bản tốt nhất với 5G trên NTT Docomo, SoftBank & KDDI. Không cần giấy tờ tùy thân — kích hoạt QR tức thì, 24/7. Không khung giờ kích hoạt. Từ $1.99.
-  keywords: eSIM Nhật Bản, mua eSIM Nhật Bản, eSIM Nhật Bản tốt nhất, eSIM du lịch Nhật Bản, NTT Docomo Nhật Bản, SoftBank Nhật Bản, KDDI Nhật Bản, eSIM Tokyo, eSIM Osaka, eSIM Kyoto, eSIM trả trước Nhật Bản, eSIM 5G Nhật Bản, eSIM Shinkansen, eSIM onsen
+  keywords: eSIM Nhật Bản, mua eSIM Nhật Bản, eSIM Nhật Bản tốt nhất, eSIM du lịch Nhật Bản, NTT Docomo Nhật Bản, SoftBank Nhật Bản, KDDI Nhật Bản, eSIM Tokyo, eSIM Osaka, eSIM Kyoto, eSIM trả trước Nhật Bản, eSIM 5G Nhật Bản, eSIM Yokohama, eSIM Sapporo, eSIM Nhật Bản giá rẻ, sim du lịch Nhật Bản
   low_price: 1.99
-  high_price: 39.9
+  high_price: 71.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-brand-400 to-brand-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với NTT Docomo, SoftBank & KDDI để có tín hiệu tốt nhất trên khắp Nhật Bản
-plans_title: 'Mua eSIM Nhật Bản: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Tổng quan gói dữ liệu Nhật Bản eSIM'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -308,7 +308,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Nhật Bản: Những điều cần biết trước khi đi'
+  title: 'Mẹo thực tế cho Nhật Bản eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -329,7 +329,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Nhật Bản: 3 bước đơn giản'
+  title: 'Giải thích các bước thiết lập Nhật Bản eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -349,12 +349,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hướng dẫn eSIM Nhật Bản: Tốc độ, Phủ sóng và Mẹo du lịch Nhật Bản"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Nhật Bản. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Giải đáp về độ phủ sóng và tốc độ internet của eSIM tại Nhật Bản."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Nhật Bản
+    title: Giải đáp nhanh Nhật Bản eSIM
     questions:
     - q: |
         Tôi đến Nhật Bản vào đêm khuya — tôi có thể kích hoạt eSIM không?
@@ -392,63 +392,75 @@ faq_section:
         So sánh Roami với Klook cho eSIM ở Nhật Bản như thế nào?
       a: |
         Roami thường mang lại giá trị tốt hơn cho eSIM Nhật Bản vì chúng tôi bán trực tiếp – không qua trung gian. Giá thường thấp hơn 10-20% so với Klook. Chúng tôi cũng cung cấp hỗ trợ trực tiếp 24/7. Các gói đều trả trước, không tự động gia hạn, vì vậy bạn sẽ không bị tính phí sau khi chuyến đi kết thúc.
+    - q: |
+        Đi Nhật Bản rồi qua nước khác, dùng chung một eSIM được không?
+      a: |
+        eSIM Nhật Bản của Roami chủ yếu dùng trong lãnh thổ Nhật Bản; nếu lịch trình đi sang nước láng giềng, bạn nên mua thêm gói của nước đó hoặc gói khu vực để tránh phí chuyển vùng phát sinh.  Dù ở Tokyo, Osaka hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
+    - q: |
+        eSIM Nhật Bản giá bao nhiêu? Có lựa chọn rẻ không?
+      a: |
+        Gói eSIM Nhật Bản của Roami bắt đầu từ $1.99 (3 ngày 1GB), cao nhất $71.99 (30 ngày Không giới hạn). Chuyến ngắn dùng ít thì chọn gói nhập môn là đủ, khách dùng nhiều thì chọn mức cao hơn. Giá minh bạch, gói hết hạn tự kết thúc và không tự động gia hạn.  Vùng phủ di động tại Kyoto, Yokohama đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
+    - q: |
+        Mua eSIM Nhật Bản thanh toán bằng cách nào? Bao lâu nhận được?
+      a: |
+        Roami hỗ trợ các hình thức thanh toán trực tuyến phổ biến; sau khi thanh toán, mã QR sẽ được gửi đến email của bạn, thường chỉ trong vài phút. Bạn nên mua và cài đặt trước chuyến đi để đến Nhật Bản là có mạng ngay.  Các thành phố lớn như Tokyo, Sapporo đều có phủ sóng ổn định cho nhu cầu hằng ngày.
 related_products:
   title: Gói eSIM Nhật Bản liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
+  - name: eSIM Hà Lan
+    flag: img/flags/nl.svg
     price: Từ $1.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
+  - name: eSIM Na Uy
+    flag: img/flags/no.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM New Zealand
+    flag: img/flags/nz.svg
+    price: Từ $3.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Oman
+    flag: img/flags/om.svg
+    price: Từ $5.99
+    is_highlight: false
+  - name: eSIM Panama
+    flag: img/flags/pa.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: Peru eSIM
+    flag: img/flags/pe.svg
+    price: Từ $4.99
+    is_highlight: false
+  - name: eSIM Philippines
+    flag: img/flags/ph.svg
+    price: Từ $2.99
+    is_highlight: false
+  - name: eSIM Pakistan
+    flag: img/flags/pk.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: Poland eSIM
+    flag: img/flags/pl.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: eSIM Bồ Đào Nha
+    flag: img/flags/pt.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
+  - name: Puerto Rico eSIM
+    flag: img/flags/pu.svg
+    price: Từ $6.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: eSIM Paraguay
+    flag: img/flags/py.svg
+    price: Từ $22.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Nhật Bản so với SIM trả trước: Sự khác biệt chính được giải thích – eSIM tốt nhất cho du khách Nhật Bản'
   subtitle: SIM trả trước địa phương Nhật Bản so với giải pháp eSIM (Đối sánh 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Nhật Bản) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Japan
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)

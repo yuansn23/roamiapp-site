@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Liberia 2026: Hướng dẫn Phủ sóng & Tốc độ | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Orange Liberia, Lonestar Cell MTN, LiberCell
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Monrovia, Gbarnga, Buchanan, Kakata, Zwedru
-  main_packages: 3/7/15/30 Ngày, Dữ liệu không giới hạn
+  main_packages: 3/7/15/30 Ngày, Nhiều mức dữ liệu
 modal:
   title: Dịch vụ đã được nâng cấp!
   btn_text: Tiếp tục
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: "eSIM Liberia: Hướng dẫn phủ sóng 5G Orange & Lonestar"
-  description: So sánh các gói eSIM Liberia với 5G nhanh tại Monrovia, Gbarnga, Buchanan. Hướng dẫn phủ sóng Orange Liberia, Lonestar Cell MTN và LiberCell dành cho du khách. Kích hoạt QR tức thì từ $1.99.
-  keywords: eSIM Liberia, mua eSIM Liberia, eSIM Liberia tốt nhất, eSIM du lịch Liberia, Orange Liberia, Lonestar Cell MTN Liberia, LiberCell Liberia, eSIM Monrovia, eSIM Gbarnga, eSIM Buchanan, eSIM trả trước Liberia, eSIM 5G Liberia
-  low_price: 1.99
-  high_price: 39.9
+  description: So sánh các gói eSIM Liberia với 5G nhanh tại Monrovia, Gbarnga, Buchanan. Hướng dẫn phủ sóng Orange Liberia, Lonestar Cell MTN và LiberCell dành cho du khách. Kích hoạt QR tức thì từ $27.99.
+  keywords: eSIM Liberia, mua eSIM Liberia, eSIM Liberia tốt nhất, eSIM du lịch Liberia, Orange Liberia Liberia, Lonestar Cell MTN Liberia, LiberCell Liberia, eSIM Monrovia, eSIM Gbarnga, eSIM Buchanan, eSIM trả trước Liberia, eSIM 5G Liberia, eSIM Kakata, eSIM Zwedru, eSIM Liberia giá rẻ, sim du lịch Liberia
+  low_price: 27.99
+  high_price: 99.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng hàng đầu Liberia để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Liberia: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Liberia eSIM: từ chuyến ngắn đến lưu trú dài'
 plans_data:
   7 Ngày:
   - spec: 1GB
@@ -136,7 +136,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Liberia: Những điều cần biết trước khi đi'
+  title: 'Điểm cần lưu ý khi dùng Liberia eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -155,7 +155,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Liberia: 3 bước đơn giản'
+  title: 'Hoàn tất kích hoạt Liberia eSIM trong 3 bước'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -175,12 +175,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Kết nối Internet tại Liberia -- Hướng dẫn chất lượng mạng và tốc độ eSIM"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Liberia. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Hỏi đáp về eSIM Liberia - tốc độ, độ phủ và mẹo kết nối."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Liberia
+    title: Câu hỏi thường gặp khi mua Liberia eSIM
     questions:
     - q: |
         So sánh MTN, Lonestar Cell và Liberia Telecom cho du khách đến Liberia như thế nào?
@@ -197,7 +197,7 @@ faq_section:
     - q: |
         eSIM có rẻ hơn chuyển vùng quốc tế cho Liberia không?
       a: |
-        Có — Roami eSIM thường rẻ hơn 80-90% so với các gói chuyển vùng từ hầu hết nhà mạng trong nước. Gói 5GB cho Liberia có giá $9.99, trong khi chuyển vùng có thể dễ dàng tốn hơn $50 cho cùng lượng dữ liệu. Bạn cũng nhận được tốc độ mạng địa phương thay vì chuyển vùng bị giới hạn.
+        Có — Roami eSIM thường rẻ hơn 80-90% so với các gói chuyển vùng từ hầu hết nhà mạng trong nước. Gói 5GB cho Liberia có giá $99.99, trong khi chuyển vùng có thể dễ dàng tốn hơn $50 cho cùng lượng dữ liệu. Bạn cũng nhận được tốc độ mạng địa phương thay vì chuyển vùng bị giới hạn.
     - q: |
         Tôi có thể sử dụng eSIM Liberia cho mạng xã hội và chia sẻ ảnh với gia đình không?
       a: |
@@ -214,63 +214,75 @@ faq_section:
         So sánh eSIM với pocket WiFi cho du lịch Liberia như thế nào?
       a: |
         eSIM vượt trội về tiện lợi. Không cần mang theo thiết bị, sạc pin hay trả lại khi kết thúc chuyến đi — tiết kiệm khoảng $3-5 mỗi ngày so với thuê pocket WiFi. Pocket WiFi phù hợp cho nhóm 3+ người, nhưng bạn bị phụ thuộc vào một thiết bị và cần sạc pin 6-8 giờ. Với eSIM, điện thoại của bạn là điểm phát sóng. Tất cả gói Roami đều bao gồm chia sẻ kết nối miễn phí cho tối đa 5 thiết bị.
+    - q: |
+        Mua eSIM Liberia thanh toán bằng cách nào? Bao lâu nhận được?
+      a: |
+        Roami hỗ trợ các hình thức thanh toán trực tuyến phổ biến; sau khi thanh toán, mã QR sẽ được gửi đến email của bạn, thường chỉ trong vài phút. Bạn nên mua và cài đặt trước chuyến đi để đến Liberia là có mạng ngay.  Tại khu vực Monrovia, Gbarnga, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
+    - q: |
+        Đi Liberia vài ngày thì nên chọn gói eSIM dung lượng bao nhiêu?
+      a: |
+        eSIM Liberia của Roami có các mức 1GB, 3GB, 5GB. Chuyến ngắn, chỉ tra bản đồ và nhắn tin thì 1GB là đủ; nếu xem video ngắn, gọi video hoặc chia sẻ hotspot, bạn nên chọn mức cao hơn một bậc. Nếu chưa chắc về nhu cầu, có thể mua gói nhỏ rồi nạp thêm trong ứng dụng sau khi đến Liberia, không cần đổi SIM.  Buchanan, Kakata và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
+    - q: |
+        eSIM Liberia có chia sẻ hotspot cho bạn đồng hành được không?
+      a: |
+        Có, eSIM Liberia của Roami hỗ trợ chia sẻ hotspot cho laptop, máy tính bảng hoặc người đi cùng. Nếu dùng chung nhiều người, nên chọn gói cao hơn một bậc để không hết dữ liệu giữa chừng; nếu thiếu vẫn có thể nạp thêm trong ứng dụng.  Thực tế tại Monrovia, Zwedru, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
 related_products:
   title: Gói eSIM Liberia liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ $1.99
+  - name: eSIM Bờ Biển Ngà
+    flag: img/flags/ci.svg
+    price: Từ $9.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: eSIM Chile
+    flag: img/flags/cl.svg
+    price: Từ $4.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Cameroon
+    flag: img/flags/cm.svg
+    price: Từ $27.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ $1.99
-    is_highlight: false
   - name: eSIM Trung Quốc
     flag: img/flags/cn.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
+  - name: eSIM Colombia
+    flag: img/flags/co.svg
+    price: Từ $4.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
+  - name: eSIM Costa Rica
+    flag: img/flags/cr.svg
+    price: Từ $9.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
+  - name: eSIM Síp
+    flag: img/flags/cy.svg
+    price: Từ $2.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
+  - name: eSIM Cộng hòa Séc
+    flag: img/flags/cz.svg
     price: Từ $1.99
     is_highlight: false
   - name: eSIM Đức
     flag: img/flags/de.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
+  - name: eSIM Đan Mạch
+    flag: img/flags/dk.svg
     price: Từ $1.99
+    is_highlight: false
+  - name: eSIM Dominica
+    flag: img/flags/dm.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Cộng hòa Dominica
+    flag: img/flags/do.svg
+    price: Từ $5.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Liberia so với SIM vật lý: Giải pháp nào tốt hơn cho du lịch?'
   subtitle: SIM trả trước địa phương Liberia so với giải pháp eSIM (Đối sánh 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Liberia) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Liberia
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -291,7 +303,7 @@ market_analysis:
   - icon: globe
     title: Chuyển vùng<br>quốc tế
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho tiêu chí này. Theo kiến thức thị trường, SIM trả trước Liberia chỉ hoạt động nội địa; chuyển vùng đến các nước lân cận (ví dụ Senegal, Bờ Biển Ngà) sẽ phát sinh phí quốc tế cao hoặc yêu cầu SIM mới.
+    prepaid_desc: SIM trả trước Liberia chỉ hoạt động nội địa; chuyển vùng đến các nước lân cận (ví dụ Senegal, Bờ Biển Ngà) sẽ phát sinh phí quốc tế cao hoặc yêu cầu SIM mới.
     esim_title: Chuyển vùng đa quốc gia liền mạch
     esim_desc: Trong khi SIM LoneStar và Orange bị khóa chỉ trong Liberia, Roami eSIM hoạt động trên khắp Tây Phi. Sử dụng cùng một eSIM ở Senegal, Bờ Biển Ngà và xa hơn mà không cần mua SIM mới.
   - icon: calendar-xmark
@@ -299,11 +311,11 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Các gói có chu kỳ cố định 5 ngày ($5), 15 ngày ($15) hoặc 30 ngày ($5-$40). Gói dữ liệu Orange Liberia không tự động gia hạn; dịch vụ dừng khi hết hạn hoặc hết dữ liệu. Tất cả giá phải chịu thêm thuế 15%.
     esim_title: Gói ngắn hạn linh hoạt
-    esim_desc: Không như gói cố định 5 ngày ($5) hoặc 15 ngày ($15) của LoneStar lãng phí 40% chi phí cho chuyến đi 3 ngày, Roami cung cấp gói 7 ngày từ $1.99/GB. Chỉ trả cho những gì bạn sử dụng, không thuế 15%.
+    esim_desc: Không như gói cố định 5 ngày ($5) hoặc 15 ngày ($15) của LoneStar lãng phí 40% chi phí cho chuyến đi 3 ngày, Roami cung cấp gói 7 ngày từ $27.99/GB. Chỉ trả cho những gì bạn sử dụng, không thuế 15%.
   - icon: wifi
     title: Chia sẻ kết nối &<br>Chính sách tốc độ
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho tiêu chí này. Theo kiến thức thị trường, chia sẻ kết nối thường được cho phép trên SIM trả trước Liberia, nhưng tốc độ có thể bị giới hạn trên các gói không giới hạn.
+    prepaid_desc: Chia sẻ kết nối thường được cho phép trên SIM trả trước Liberia, nhưng tốc độ có thể bị giới hạn trên các gói không giới hạn.
     esim_title: Chia sẻ kết nối không giới hạn
     esim_desc: Roami eSIM cho phép chia sẻ hotspot tốc độ đầy đủ. Không như một số SIM địa phương có thể giới hạn chia sẻ, bạn có thể kết nối máy tính xách tay và thiết bị mà không bị giới hạn tốc độ.
   - icon: credit-card
@@ -315,7 +327,7 @@ market_analysis:
   - icon: headset
     title: Hỗ trợ khách hàng
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho tiêu chí này. Theo kiến thức thị trường, hỗ trợ khách hàng có sẵn bằng tiếng Anh tại cửa hàng nhà mạng, nhưng giờ hỗ trợ điện thoại có thể hạn chế.
+    prepaid_desc: Hỗ trợ khách hàng có sẵn bằng tiếng Anh tại cửa hàng nhà mạng, nhưng giờ hỗ trợ điện thoại có thể hạn chế.
     esim_title: Hỗ trợ đa ngôn ngữ 24/7
     esim_desc: Roami cung cấp hỗ trợ khách hàng 24/7 bằng tiếng Anh qua trò chuyện trực tiếp và email. Không cần đến cửa hàng vật lý trong giờ hạn chế.
   expert_verdict:

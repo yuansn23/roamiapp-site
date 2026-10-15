@@ -1,6 +1,6 @@
 ---
 title: 'Serbia eSIM 2026: Hướng dẫn Phủ sóng & Tốc độ | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: Serbia eSIM | Dữ liệu trả trước Không giới hạn cho Nhà thám hiểm
   description: Luôn kết nối tại Serbia với eSIM du lịch trả trước tốt nhất từ Roami. Dữ liệu 5G không giới hạn toàn quốc. Kích hoạt QR tức thì. Phủ sóng Belgrade, Novi Sad & Nis.
-  keywords: Serbia eSIM, mua Serbia eSIM, Serbia eSIM tốt nhất, Serbia travel eSIM, Telenor Serbia, Telekom Srbija, A1 Srbija, Belgrade eSIM, Novi Sad eSIM, Niš eSIM, Serbia prepaid eSIM, 5G Serbia eSIM
+  keywords: Serbia eSIM, mua Serbia eSIM, Serbia eSIM tốt nhất, eSIM du lịch Serbia, Telenor Serbia Serbia, Telekom Srbija Serbia, A1 Srbija Serbia, eSIM Belgrade, eSIM Novi Sad, eSIM Niš, eSIM trả trước Serbia, eSIM 5G Serbia, eSIM Kragujevac, eSIM Subotica, Serbia eSIM giá rẻ, sim du lịch Serbia
   low_price: 1.99
-  high_price: 39.9
+  high_price: 89.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động Chuyển mạng
     desc: Tự động kết nối với các nhà mạng hàng đầu Serbia để có tín hiệu tốt nhất
-plans_title: 'Mua Serbia eSIM: Gói cho Mọi Thời gian Chuyến đi'
+plans_title: 'Serbia eSIM: gói linh hoạt theo ngày và dung lượng'
 plans_data:
   7 Ngày:
   - spec: Không giới hạn
@@ -310,7 +310,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo Thiết lập Serbia eSIM: Những điều Cần Biết Trước Khi Đi'
+  title: 'Mẹo và lưu ý khi dùng Serbia eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích với eSIM</a> trước khi mua.
@@ -329,7 +329,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách Cài đặt Serbia eSIM: 3 Bước Đơn giản'
+  title: 'Cài đặt Serbia eSIM trong một lần xem'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận Mã QR'
@@ -349,17 +349,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Kết nối Internet tại Serbia -- Hướng dẫn Chất lượng Mạng và Tốc độ eSIM"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Serbia. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Giải thích tốc độ internet, vùng phủ sóng và chất lượng mạng eSIM tại Serbia."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về Serbia eSIM
+    title: Hỏi đáp nhanh về Serbia eSIM
     questions:
     - q: |
         Tôi có thể mua eSIM cho Serbia mà không tốn quá nhiều tiền không?
       a: |
-        Chắc chắn rồi. Gói Serbia eSIM của Roami bắt đầu từ chỉ $1.99. Gói 5GB/15 ngày ($9.99) là lựa chọn phổ biến nhất của du khách — nó đáp ứng thoải mái cho bản đồ, WhatsApp, Instagram và email. Nếu bạn là người dùng nhiều dữ liệu, gói 10GB ($14.99) hoặc không giới hạn ($59.99) mang lại sự an tâm. Bỏ qua quầy SIM sân bay giúp bạn tiết kiệm 30-50% và tránh việc xếp hàng. Cần điều chỉnh? Bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng Roami.
+        Chắc chắn rồi. Gói Serbia eSIM của Roami bắt đầu từ chỉ $1.99. Gói 5GB/15 ngày ($8.99) là lựa chọn phổ biến nhất của du khách — nó đáp ứng thoải mái cho bản đồ, WhatsApp, Instagram và email. Nếu bạn là người dùng nhiều dữ liệu, gói 10GB ($8.99) hoặc không giới hạn ($78.99) mang lại sự an tâm. Bỏ qua quầy SIM sân bay giúp bạn tiết kiệm 30-50% và tránh việc xếp hàng. Cần điều chỉnh? Bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng Roami.
     - q: |
         Tôi có cần hộ chiếu hoặc giấy tờ tùy thân để sử dụng eSIM tại Serbia không? Quy trình xác minh diễn ra như thế nào?
       a: |
@@ -367,7 +367,7 @@ faq_section:
     - q: |
         Nếu khách sạn của tôi ở Serbia có WiFi miễn phí — tôi vẫn cần dữ liệu eSIM không?
       a: |
-        WiFi khách sạn hoạt động trong phòng của bạn nhưng không hoạt động khi bạn ra ngoài khám phá. eSIM cung cấp dữ liệu ở mọi nơi — điều hướng đường phố, tìm kiếm địa điểm gần đó, kiểm tra lịch trình giao thông. Gói 5GB có giá $9.99, thường rẻ hơn WiFi khách sạn trả phí trong một tuần ($10-15 tại nhiều khách sạn). Hầu hết du khách sử dụng WiFi khách sạn cho tải xuống lớn và eSIM cho kết nối khi di chuyển.
+        WiFi khách sạn hoạt động trong phòng của bạn nhưng không hoạt động khi bạn ra ngoài khám phá. eSIM cung cấp dữ liệu ở mọi nơi — điều hướng đường phố, tìm kiếm địa điểm gần đó, kiểm tra lịch trình giao thông. Gói 5GB có giá $6.99, thường rẻ hơn WiFi khách sạn trả phí trong một tuần ($10-15 tại nhiều khách sạn). Hầu hết du khách sử dụng WiFi khách sạn cho tải xuống lớn và eSIM cho kết nối khi di chuyển.
     - q: |
         eSIM của tôi tại Serbia có hoạt động cho các cuộc gọi video và làm việc từ xa không?
       a: |
@@ -388,55 +388,67 @@ faq_section:
         Tôi có thể lưu trữ bao nhiêu hồ sơ eSIM trên điện thoại để đi du lịch đến Serbia?
       a: |
         Hầu hết điện thoại lưu trữ 5-10 hồ sơ eSIM. Bạn có thể giữ Serbia eSIM cùng với SIM nhà và các hồ sơ quốc gia khác. Chỉ cần kích hoạt hồ sơ bạn cần và hủy kích hoạt những hồ sơ khác. Việc chuyển đổi giữa chúng mất khoảng 10 giây trong cài đặt điện thoại.
+    - q: |
+        Dùng eSIM Serbia gặp sự cố thì liên hệ ai?
+      a: |
+        Roami có hỗ trợ khách hàng trực tuyến. Nếu gặp lỗi kết nối tại Serbia, bạn kiểm tra đường eSIM đã bật và chuyển vùng dữ liệu đã mở chưa; nếu vẫn chưa được thì liên hệ hỗ trợ, trường hợp đủ điều kiện có thể yêu cầu hoàn tiền.  Vùng phủ di động tại Belgrade, Novi Sad đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
+    - q: |
+        eSIM Serbia có chia sẻ hotspot cho bạn đồng hành được không?
+      a: |
+        Có, eSIM Serbia của Roami hỗ trợ chia sẻ hotspot cho laptop, máy tính bảng hoặc người đi cùng. Nếu dùng chung nhiều người, nên chọn gói cao hơn một bậc để không hết dữ liệu giữa chừng; nếu thiếu vẫn có thể nạp thêm trong ứng dụng.  Các thành phố lớn như Niš, Kragujevac đều có phủ sóng ổn định cho nhu cầu hằng ngày.
+    - q: |
+        Tốc độ eSIM Serbia có nhanh không? Có chậm hơn SIM vật lý không?
+      a: |
+        eSIM Serbia của Roami dùng trạm gốc của các nhà mạng chính tại địa phương, tốc độ tương đương SIM trả trước bản địa; tra bản đồ, mạng xã hội và gọi video đều mượt. Tốc độ thực tế còn phụ thuộc vị trí và tải của mạng tại thời điểm đó.  Tại khu vực Belgrade, Subotica, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
 related_products:
   title: Gói eSIM Liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
+  - name: Spain eSIM
+    flag: img/flags/es.svg
     price: Từ $1.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
+  - name: eSIM Phần Lan
+    flag: img/flags/fi.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Fiji
+    flag: img/flags/fj.svg
+    price: Từ $6.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
+  - name: eSIM Quần đảo Faroe
+    flag: img/flags/fo.svg
+    price: Từ $5.99
     is_highlight: false
   - name: eSIM Pháp
     flag: img/flags/fr.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
+  - name: eSIM Gabon
+    flag: img/flags/ga.svg
+    price: Từ $14.99
+    is_highlight: false
+  - name: eSIM Vương quốc Anh
+    flag: img/flags/gb.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
+  - name: eSIM Grenada
+    flag: img/flags/gd.svg
+    price: Từ $11.99
     is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: eSIM Georgia
+    flag: img/flags/ge.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Guiana thuộc Pháp
+    flag: img/flags/gf.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Ghana
+    flag: img/flags/gh.svg
+    price: Từ $7.99
+    is_highlight: false
+  - name: eSIM Gibraltar
+    flag: img/flags/gi.svg
+    price: Từ $5.99
     is_highlight: false
 ---

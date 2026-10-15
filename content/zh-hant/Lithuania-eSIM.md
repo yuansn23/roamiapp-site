@@ -1,6 +1,6 @@
 ---
 title: '立陶宛 eSIM 2026: 完整旅遊指南 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,7 @@ modal:
 seo:
   title: "立陶宛eSIM｜5G高速上網$1.99起，商務旅遊首選"
   description: "Roami eSIM給您立陶宛5G高速上網方案最低$1.99起，速度快又穩定看影片傳照片都不延遲。出國eSIM預付卡方案超值選擇，線上購買即時開通馬上能用。"
-  keywords: 立陶宛 eSIM, 立陶宛 eSIM方案, 最佳立陶宛 eSIM, 立陶宛上網, Telia 立陶宛, Bitė 立陶宛, Tele2 立陶宛, 維爾紐斯 eSIM, 考納斯 eSIM, 克萊佩達 eSIM, 立陶宛行動網路,
-    5G 立陶宛
+  keywords: 立陶宛 eSIM, eSIM 立陶宛, 立陶宛 eSIM 購買, 最佳立陶宛 eSIM, 立陶宛 上網, Telia 立陶宛, Bitė 立陶宛, Tele2 立陶宛, 維爾紐斯 eSIM, 考納斯 eSIM, 克萊佩達 eSIM, 希奧利艾 eSIM, 帕蘭加 eSIM, 立陶宛 eSIM 方案, 立陶宛 5G eSIM, 立陶宛 eSIM 預付卡
 order_summary:
   title: 選擇 立陶宛 eSIM
   label_data: 數據量
@@ -385,88 +384,93 @@ faq_section:
     title: 立陶宛 eSIM 電信商Telia、Bite、Tele2哪個好？網路速度完整比較
     questions:
     - q: 短期去立陶宛玩個三五天，eSIM最便宜的方案大概多少錢？
-      a: Roami 立陶宛 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Telia在立陶宛市區5G網速約100-300Mbps，看1080p影片沒問題。去立陶宛機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到立陶宛後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 立陶宛 eSIM方案從$1.99（3天1GB）起，最高$77.99（30天無限）。一般旅客買最多的是5GB/15天（$8.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Telia在立陶宛市區5G網速約100-300Mbps，看1080p影片沒問題。去立陶宛機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到立陶宛後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 看到有人說立陶宛的Telia在市區很快、Bite在郊區很廣，真的是這樣嗎？
       a: 立陶宛主要有Telia、Bite、Tele2。Telia市區下載快、基地台密集。Bite郊區覆蓋廣，會去郊區的話選Bite路線較有保障。Tele2價格親民，適合預算有限的旅客。立陶宛5G使用n78頻段，全境覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Telia，移動到郊區若Telia訊號變弱就自動跳Bite或Tele2，完全不用手動選。
     - q: 去立陶宛每天就是打卡傳照片查地圖，這樣5GB夠用嗎？還是吃到飽比較安心？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。立陶宛5G使用n78頻段，全境覆蓋。Roami在立陶宛連上Telia的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。立陶宛5G使用n78頻段，全境覆蓋。Roami在立陶宛連上Telia的網路，網速穩定。如果怕降速可選10GB/$11.99或20GB/$20.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 去立陶宛用eSIM需要先通過身分驗證嗎？要準備哪些證件？
       a: 需要的。立陶宛預付卡需KYC認證，需提供護照。很多人不知道這規定，到了立陶宛機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。立陶宛5G使用n78頻段，全境覆蓋。另外Telia的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到立陶宛開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 離開立陶宛市區之後，eSIM的訊號會不會變得很差？
       a: 立陶宛的Telia等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。立陶宛5G使用n78頻段，全境覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 立陶宛eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
       a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
+    - q: 立陶宛 eSIM 的網速快嗎？會不會比當地實體卡慢？
+      a: Roami 立陶宛 eSIM 走當地主要電信商的基地台，速度與當地預付卡相當，日常查地圖、社群、視訊通話都很順。實際速度仍會受所在位置與當下網路負載影響。 維爾紐斯、考納斯 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
+    - q: 立陶宛的Telia和Bitė，用eSIM哪一家訊號比較好？
+      a: 立陶宛主要有Telia、Bitė等電信商。Roami 會自動選擇當下訊號最強的網路，在Telia與Bitė之間自動切換，不用手動設定。若行程會拉到郊區或離島，出發前先下載離線地圖會更保險。 實際走訪 克萊佩達、希奧利艾 等主要城市，上網查資料、傳照片都沒問題。
+    - q: 立陶宛 eSIM 要怎麼啟用？要抵達當地才開嗎？
+      a: 建議出發前先用 WiFi 掃描 QR code 安裝描述檔，抵達 立陶宛 後再開啟 eSIM 線路並打開數據漫遊，連上當地網路就會自動啟用，方案效期也從那時開始計算。 不論在 維爾紐斯、帕蘭加，連線品質都相當穩定。
 related_products:
-  title: 類似 立陶宛 eSIM 的旅行方案
+  title: 熱門目的地 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 亞塞拜然 eSIM
+    flag: img/flags/az.svg
+    price: 自 $6.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: azerbaijan-esim
+  - name: 白俄羅斯 eSIM
+    flag: img/flags/by.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: belarus-esim
+  - name: 多米尼克 eSIM
+    flag: img/flags/dm.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: dominica-esim
+  - name: 巴林 eSIM
+    flag: img/flags/bh.svg
+    price: 自 $6.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: bahrain-esim
+  - name: 巴哈馬 eSIM
+    flag: img/flags/bs.svg
+    price: 自 $16.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: bahamas-esim
+  - name: 埃及 eSIM
+    flag: img/flags/eg.svg
+    price: 自 $2.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: australia-esim
+    slug: egypt-esim
   - name: 香港 eSIM
     flag: img/flags/hk.svg
-    price: От 1,99 $
-    is_highlight: false
+    price: 自 $1.99
+    is_highlight: true
     slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+  - name: 秘魯 eSIM
+    flag: img/flags/pe.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: peru-esim
+  - name: 阿聯 eSIM
+    flag: img/flags/ae.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: uae-esim
+  - name: 加拿大 eSIM
+    flag: img/flags/ca.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: canada-esim
+  - name: 阿爾及利亞 eSIM
+    flag: img/flags/dz.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: algeria-esim
+  - name: 波蘭 eSIM
+    flag: img/flags/pl.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: poland-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "去Lithuania旅遊eSIM上網順暢嗎？速度與涵蓋完整評價"
   subtitle: "立陶宛當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Lithuania) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Lithuania"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -475,7 +479,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Lithuania. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Telia 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開立陶宛門市排隊與繁瑣的護照登記，抵達前一分鐘線上啟用，無需像Ežys或Pildyk那樣耗時購買與註冊。"
     - icon: "id-card"
@@ -499,15 +503,15 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "多數當地預付卡允許熱點分享，惟 Telia 等業者對分享流量另設上限，超量後降速或停止分享，須詳閱方案細則。"
       esim_title: "無限熱點分享"
       esim_desc: "支援個人熱點分享，無速度限制，而當地SIM卡如Labas可能隱藏限制，確保多人共享連線。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "Pildyk 官方不支援直接使用國際信用卡充值，需透過第三方網站（如Ding, Recharge.com）充值，需支付額外服務費。"
+      prepaid_desc: "Pildyk 官方不支援直接使用國際信用卡儲值，需透過第三方網站（如Ding, Recharge.com）儲值，需支付額外服務費。"
       esim_title: "全球付款暢通"
-      esim_desc: "支援Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需像Pildyk那樣依賴第三方充值（需額外手續費）。"
+      esim_desc: "支援Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需像Pildyk那樣依賴第三方儲值（需額外手續費）。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""

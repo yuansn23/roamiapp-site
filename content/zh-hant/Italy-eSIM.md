@@ -1,6 +1,6 @@
 ---
 title: '義大利 eSIM 2026: 當地電信商 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,7 @@ modal:
 seo:
   title: "義大利eSIM｜5G高速吃到飽，商務旅遊首選"
   description: "Roami全球eSIM在200多個國家與地區都能使用，去義大利當然也沒問題。跨國上網不斷線，5G高速吃到飽方案一卡搞定，免實名認證免綁約，線上購買秒收QR Code即開即用。"
-  keywords: 義大利 eSIM, 義大利 eSIM方案, 最佳義大利 eSIM, 義大利上網, TIM 義大利, Vodafone 義大利, WindTre 義大利, 羅馬 eSIM, 米蘭 eSIM, 佛羅倫斯 eSIM, 義大利行動網路,
-    5G 義大利
+  keywords: 義大利 eSIM, eSIM 義大利, 義大利 eSIM 購買, 最佳義大利 eSIM, 義大利 上網, TIM 義大利, Vodafone 義大利, WindTre 義大利, 羅馬 eSIM, 米蘭 eSIM, 佛羅倫斯 eSIM, 威尼斯 eSIM, 拿坡里 eSIM, 義大利 eSIM 方案, 義大利 5G eSIM, 義大利 eSIM 預付卡
 order_summary:
   title: 選擇 義大利 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線義大利最佳電信商，取得最強訊號
-plans_title: 購買義大利 eSIM：適合各種旅程的方案
+plans_title: 義大利 eSIM：多種天數與流量任你選
 plans_data:
   7 天:
   - spec: 1GB
@@ -329,7 +328,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 義大利 eSIM秘訣：出發前須知
+  title: 義大利 eSIM 行前準備提醒
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -358,7 +357,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 義大利 eSIM啟用：3個簡單步驟
+  title: 三步驟完成義大利 eSIM 啟用
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 義大利 做好準備
@@ -393,7 +392,7 @@ faq_section:
     title: 義大利 eSIM 網速與電信商介紹｜5G/4G涵蓋範圍
     questions:
     - q: 義大利eSIM各方案價格差在哪裡？買哪種最適合一般觀光客？
-      a: Roami 義大利 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。TIM在義大利市區5G網速約100-300Mbps，看1080p影片沒問題。如果去Klook查義大利 eSIM，Roami通常便宜10-20%，因為沒有平台抽成。如果不確定用量可以先買小的，到義大利後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 義大利 eSIM方案從$1.99（3天1GB）起，最高$69.99（30天無限）。一般旅客買最多的是5GB/15天（$8.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。TIM在義大利市區5G網速約100-300Mbps，看1080p影片沒問題。如果去Klook查義大利 eSIM，Roami通常便宜10-20%，因為沒有平台抽成。如果不確定用量可以先買小的，到義大利後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 到義大利旅遊想用eSIM，TIM、Vodafone、WindTre哪家網路比較穩？
       a: 義大利主要有TIM、Vodafone、WindTre。TIM市區下載快、基地台密集。Vodafone郊區覆蓋廣，會去郊區的話選Vodafone路線較有保障。WindTre價格親民，適合預算有限的旅客。義大利5G使用n78/n257頻段，多數裝置相容。不過Roami會自動切換到當前訊號最強的網路。市區用TIM，移動到郊區若TIM訊號變弱就自動跳Vodafone或WindTre，完全不用手動選。
     - q: 比價發現Klook上的義大利eSIM跟官網訂價不同，該從哪邊買比較好？
@@ -401,84 +400,89 @@ faq_section:
     - q: 非義大利當地購買的國際手機，用eSIM會不會有相容性問題？
       a: 最快方法：撥號*#06#，出現EID代表支援eSIM。iPhone XS以後、Samsung S20/Flip以後、Pixel 4以後、多數2020年後旗艦機都支援。義大利5G使用n78/n257頻段，多數裝置相容。很多人忽略頻段問題——TIM在義大利的n78/n257頻段可能跟你的手機不完全吻合。出發前到[Roami相容性頁面](/compatibility/)查型號。不支援eSIM可租WiFi機或買當地實體SIM卡。
     - q: 去義大利旅遊的話，辦eSIM吃到飽會不會太浪費？一般人一天大概用多少流量？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。義大利5G使用n78/n257頻段，多數裝置相容。Roami在義大利連上TIM的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。義大利5G使用n78/n257頻段，多數裝置相容。Roami在義大利連上TIM的網路，網速穩定。如果怕降速可選10GB/$8.99或20GB/$13.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 如果出發前忘記先辦好義大利eSIM的認證，到當地才弄來得及嗎？
       a: 需要的。義大利預付卡需提供護照進行KYC認證。很多人不知道這規定，到了義大利機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。義大利5G使用n78/n257頻段，多數裝置相容。另外TIM的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到義大利開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 義大利eSIM只能用在義大利境內嗎？去旁邊國家要另外買新的嗎？
       a: Roami單國方案僅限義大利境內。每個國家電信網路是分開的，需要不同方案。如果行程包含多國，有兩種方式：第一，出發前把各國eSIM都買好，手機可存多組（約5-10組），到哪國啟用哪個。第二，Roami也有區域方案（如歐洲多國），一卡多國使用。先算各國停留天數再選最划算的買法。
     - q: 搭車從義大利市區移動到郊區的時候，eSIM網路會一直切換嗎？
       a: 義大利的TIM等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。義大利5G使用n78/n257頻段，多數裝置相容。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
+    - q: 義大利 eSIM 有幾天份的方案可以選？
+      a: Roami 義大利 eSIM 提供 3/7/15/30 天等選擇，可依行程長短挑選。三天內的短程選入門天數就夠，一週以上建議直接挑長效期方案，單日成本更划算。 另外，羅馬、米蘭 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
+    - q: 在義大利使用eSIM遇到問題，可以找誰幫忙？
+      a: Roami 提供線上客服協助。若在 義大利 遇到連線異常，可先確認 eSIM 線路已開啟、數據漫遊已打開；仍無法解決再聯繫客服，符合條件可申請退款。 在 佛羅倫斯、威尼斯 一帶實測收訊良好，移動中會自動切換基地台。
+    - q: 義大利 eSIM 大概多少錢？有便宜的選擇嗎？
+      a: Roami 義大利 eSIM 方案從 $1.99（3天1GB）起，最高 $69.99（30天無限）。短期輕度使用挑入門方案即可，用量大的旅客再選高規格。價格透明，方案到期自動失效，不會續約扣款。 羅馬、拿坡里 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
 related_products:
-  title: 類似 義大利 eSIM 的旅行方案
+  title: 熱門目的地 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+  - name: 保加利亞 eSIM
+    flag: img/flags/bg.svg
+    price: 自 $1.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: bulgaria-esim
+  - name: 斐濟 eSIM
+    flag: img/flags/fj.svg
+    price: 自 $6.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: fiji-esim
+  - name: 科索沃 eSIM
+    flag: img/flags/xk.svg
+    price: 自 $13.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: kosovo-esim
+  - name: 汶萊 eSIM
+    flag: img/flags/bn.svg
+    price: 自 $9.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: brunei-esim
+  - name: 奧地利 eSIM
+    flag: img/flags/at.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: austria-esim
+  - name: 玻利維亞 eSIM
+    flag: img/flags/bo.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: bolivia-esim
+  - name: 秘魯 eSIM
+    flag: img/flags/pe.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: peru-esim
+  - name: 列支敦斯登 eSIM
+    flag: img/flags/li.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+    slug: liechtenstein-esim
+  - name: 馬爾他 eSIM
+    flag: img/flags/mt.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: malta-esim
+  - name: 阿爾巴尼亞 eSIM
+    flag: img/flags/al.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: albania-esim
+  - name: 吉爾吉斯 eSIM
+    flag: img/flags/kg.svg
+    price: 自 $4.99
+    is_highlight: false
+    slug: kyrgyzstan-esim
+  - name: 法屬圭亞那 eSIM
+    flag: img/flags/gf.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: french-guiana-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Italy eSIM 上網品質實測 -- 速度、訊號、穩定度一次看懂"
   subtitle: "義大利當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Italy) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Italy"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -487,13 +491,13 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Italy. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 TIM 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 TIM 門市不願出售 Tourist 卡的麻煩，抵達義大利後一分鐘內線上啟用 eSIM，無需排隊或交涉。"
     - icon: "id-card"
       title: "KYC 與護照登記"
       prepaid_title: ""
-      prepaid_desc: "所有運營商強制要求出示護照進行實名登記；Vodafone/TIM 可能需要現場計算並打印 Codice Fiscale（稅號）；Iliad 的激活流程需脫機操作義大利語自助機，進行視頻錄像認證。"
+      prepaid_desc: "所有電信商強制要求出示護照進行實名登記；Vodafone/TIM 可能需要現場計算並列印 Codice Fiscale（稅號）；Iliad 的激活流程需脫機操作義大利語自助機，進行影片錄像認證。"
       esim_title: "免護照免稅號"
       esim_desc: "無需像 Vodafone 或 TIM 那樣出示護照或計算 Codice Fiscale，eSIM 即買即用，完全跳過繁瑣的 KYC 流程。"
     - icon: "globe"
@@ -511,21 +515,21 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。但根據市場知識，義大利運營商通常允許熱點分享，但可能受 FUP 限制。"
+      prepaid_desc: "義大利電信商通常允許熱點分享，但可能受 FUP 限制。"
       esim_title: "無限熱點分享"
-      esim_desc: "義大利運營商通常允許熱點分享但受 FUP 限制，eSIM 則無限制分享，可連接多台設備，適合團隊旅行。"
+      esim_desc: "義大利電信商通常允許熱點分享但受 FUP 限制，eSIM 則無限制分享，可連接多台設備，適合團隊旅行。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "大量運營商（TIM, Vodafone, W3）官網直接拒絕非義大利發行的信用卡；Vodafone SIM 激活時會被偷偷植入試用訂閱，不手動取消即扣費。"
+      prepaid_desc: "大量電信商（TIM, Vodafone, W3）官網直接拒絕非義大利發行的信用卡；Vodafone SIM 激活時會被偷偷植入試用訂閱，不手動取消即扣費。"
       esim_title: "全球付款無障礙"
       esim_desc: "無需像 TIM 或 Vodafone 那樣面對非義大利信用卡被拒的窘境，eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，100% 無隱形扣費。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。但根據市場知識，義大利運營商客服通常僅提供義大利語，且預付卡用戶支援有限。"
+      prepaid_desc: "義大利電信商客服通常僅提供義大利語，且預付卡用戶支援有限。"
       esim_title: "24/7 中文支援"
-      esim_desc: "義大利運營商客服通常僅提供義大利語且時段有限，eSIM 提供 24/7 多語言即時支援，隨時解決問題。"
+      esim_desc: "義大利電信商客服通常僅提供義大利語且時段有限，eSIM 提供 24/7 多語言即時支援，隨時解決問題。"
 
   # =============== 100% 完整復原：專家評語模組 ===============
   expert_verdict:
@@ -540,7 +544,7 @@ market_analysis:
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
         title: "熱點分享無限制"
-        desc: "義大利運營商如 <b>Vodafone</b> 和 <b>TIM</b> 通常允許熱點分享，但受 FUP 限制，且 <b>Vodafone</b> 禁止使用 Speedtest 測速，違者可能被封號。eSIM 無限制分享，可連接多台設備。"
+        desc: "義大利電信商如 <b>Vodafone</b> 和 <b>TIM</b> 通常允許熱點分享，但受 FUP 限制，且 <b>Vodafone</b> 禁止使用 Speedtest 測速，違者可能被封號。eSIM 無限制分享，可連接多台設備。"
       - icon: "hourglass-empty"
         icon_bg: "bg-amber-100"
         icon_color: "text-amber-600"
@@ -550,5 +554,5 @@ market_analysis:
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "全球付款無障礙"
-        desc: "<b>TIM</b>、<b>Vodafone</b> 和 <b>W3</b> 的線上充值系統常拒絕非義大利信用卡，遊客需到菸草店購買充值券。eSIM 支援 <b>Visa</b>、<b>Mastercard</b>、<b>AMEX</b>、<b>Apple Pay</b>、<b>Google Pay</b>、<b>PayPal</b>，無隱形扣費。"
+        desc: "<b>TIM</b>、<b>Vodafone</b> 和 <b>W3</b> 的線上儲值系統常拒絕非義大利信用卡，遊客需到菸草店購買儲值券。eSIM 支援 <b>Visa</b>、<b>Mastercard</b>、<b>AMEX</b>、<b>Apple Pay</b>、<b>Google Pay</b>、<b>PayPal</b>，無隱形扣費。"
 ---

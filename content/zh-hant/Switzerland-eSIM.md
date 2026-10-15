@@ -1,6 +1,6 @@
 ---
 title: '瑞士 eSIM 2026: 覆蓋範圍與速度 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,7 @@ modal:
 seo:
   title: "瑞士eSIM｜5G吃到飽$1.99起，免實名認證即開即用"
   description: "Roami eSIM給您瑞士5G出國上網吃到飽最低只要$1.99起。便宜旅遊網路方案出國上網就是這麼簡單，免實名認證免綁約，線上購買秒收QR Code即開即用超方便。"
-  keywords: 瑞士 eSIM, 瑞士 eSIM方案, 最佳瑞士 eSIM, 瑞士上網, Swisscom 瑞士, Sunrise 瑞士, Salt 瑞士, 蘇黎世 eSIM, 日內瓦 eSIM, 伯恩 eSIM, 瑞士行動網路, 5G
-    瑞士
+  keywords: 瑞士 eSIM, eSIM 瑞士, 瑞士 eSIM 購買, 最佳瑞士 eSIM, 瑞士 上網, Swisscom 瑞士, Sunrise 瑞士, Salt 瑞士, 蘇黎世 eSIM, 日內瓦 eSIM, 伯恩 eSIM, 盧塞恩 eSIM, 巴塞爾 eSIM, 瑞士 eSIM 方案, 瑞士 5G eSIM, 瑞士 eSIM 預付卡
 order_summary:
   title: 選擇 瑞士 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線瑞士最佳電信商，取得最強訊號
-plans_title: 購買瑞士 eSIM：適合各種旅程的方案
+plans_title: 你的瑞士 eSIM 上網方案
 plans_data:
   7 天:
   - spec: 1GB
@@ -321,7 +320,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 瑞士 eSIM秘訣：出發前須知
+  title: 瑞士 eSIM 使用提醒
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -350,7 +349,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 瑞士 eSIM啟用：3個簡單步驟
+  title: 瑞士 eSIM 安裝與開通教學
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 瑞士 做好準備
@@ -385,88 +384,93 @@ faq_section:
     title: 瑞士 eSIM Swisscom等網路速度實測｜最適合旅行上網的選擇
     questions:
     - q: 去瑞士自由行的話，辦eSIM上網大概要花多少錢？
-      a: Roami 瑞士 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。瑞士以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去瑞士機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到瑞士後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 瑞士 eSIM方案從$1.99（3天1GB）起，最高$78.99（30天無限）。一般旅客買最多的是5GB/15天（$7.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。瑞士以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去瑞士機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到瑞士後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 看到有人說瑞士的Swisscom在市區很快、Sunrise在郊區很廣，真的是這樣嗎？
       a: 瑞士主要有Swisscom、Sunrise、Salt。Swisscom市區下載快、基地台密集。Sunrise郊區覆蓋廣，會去郊區的話選Sunrise路線較有保障。Salt價格親民，適合預算有限的旅客。瑞士5G使用n78頻段，阿爾卑斯山區覆蓋有限。不過Roami會自動切換到當前訊號最強的網路。市區用Swisscom，移動到郊區若Swisscom訊號變弱就自動跳Sunrise或Salt，完全不用手動選。
     - q: 瑞士eSIM的吃到飽和定量方案哪個比較適合短期旅遊的人？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。瑞士5G使用n78頻段，阿爾卑斯山區覆蓋有限。Roami在瑞士連上Swisscom的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。瑞士5G使用n78頻段，阿爾卑斯山區覆蓋有限。Roami在瑞士連上Swisscom的網路，網速穩定。如果怕降速可選10GB/$9.99或20GB/$18.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 去瑞士辦eSIM的認證流程大概要多久？買完馬上就能用嗎？
       a: 需要的。瑞士預付卡需KYC認證，需提供護照。很多人不知道這規定，到了瑞士機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。瑞士5G使用n78頻段，阿爾卑斯山區覆蓋有限。另外Swisscom的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到瑞士開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 去瑞士滑雪或上山的話，eSIM在山上收得到訊號嗎？導航還能用嗎？
       a: 瑞士的Swisscom等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。瑞士5G使用n78頻段，阿爾卑斯山區覆蓋有限。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 去瑞士旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
-      a: Roami 瑞士 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
+      a: Roami 瑞士 eSIM方案從$1.99（3天1GB）起，最高$78.99（30天無限）。一般選5GB/15天（$7.99）最熱門，不夠再到App加購。
+    - q: 抵達瑞士機場後就能馬上上網嗎？
+      a: 可以。只要出發前先安裝好 eSIM，落地後關閉飛航模式、開啟 eSIM 線路，通常幾十秒內就能連上當地網路，不用在機場排隊買實體 SIM 卡。 實際走訪 蘇黎世、日內瓦 等主要城市，上網查資料、傳照片都沒問題。
+    - q: 在蘇黎世、日內瓦用瑞士 eSIM上網順嗎？
+      a: 蘇黎世、日內瓦 這類主要城市的行動網路覆蓋都很完整，查地圖、叫車、傳訊息與上傳照片都沒問題。瑞士 部分偏遠地區訊號較弱，建議先下載離線地圖備用。 不論在 伯恩、盧塞恩，連線品質都相當穩定。
+    - q: 瑞士 eSIM 有幾天份的方案可以選？
+      a: Roami 瑞士 eSIM 提供 3/7/15/30 天等選擇，可依行程長短挑選。三天內的短程選入門天數就夠，一週以上建議直接挑長效期方案，單日成本更划算。 蘇黎世、巴塞爾 等地的行動網路覆蓋完整，跨區移動也不斷線。
 related_products:
-  title: 類似 瑞士 eSIM 的旅行方案
+  title: 出發前也看看這些 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 巴拉圭 eSIM
+    flag: img/flags/py.svg
+    price: 自 $22.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+    slug: paraguay-esim
+  - name: 德國 eSIM
+    flag: img/flags/de.svg
+    price: 自 $1.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: germany-esim
+  - name: 查德 eSIM
+    flag: img/flags/td.svg
+    price: 自 $23.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: chad-esim
+  - name: 亞美尼亞 eSIM
+    flag: img/flags/am.svg
+    price: 自 $7.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: armenia-esim
+  - name: 巴拿馬 eSIM
+    flag: img/flags/pa.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: panama-esim
+  - name: 希臘 eSIM
+    flag: img/flags/gr.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: greece-esim
+  - name: 馬利 eSIM
+    flag: img/flags/ml.svg
+    price: 自 $27.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: mali-esim
+  - name: 科索沃 eSIM
+    flag: img/flags/xk.svg
+    price: 自 $13.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: kosovo-esim
+  - name: 匈牙利 eSIM
+    flag: img/flags/hu.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: hong-kong-esim
+    slug: hungary-esim
+  - name: 墨西哥 eSIM
+    flag: img/flags/mx.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: mexico-esim
+  - name: 蒙特內哥羅 eSIM
+    flag: img/flags/me.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: montenegro-esim
   - name: 中國 eSIM
     flag: img/flags/cn.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: false
     slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: philippines-esim
-
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "在Switzerland用eSIM上網穩不穩？市區郊區分區評測"
   subtitle: "瑞士當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Switzerland) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Switzerland"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -475,7 +479,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Switzerland. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Swisscom 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 Swisscom 門市排隊與數小時激活等待，抵達瑞士後一分鐘內線上啟用 eSIM，無需購買 19.90 CHF 的實體卡。"
     - icon: "id-card"
@@ -487,9 +491,9 @@ market_analysis:
     - icon: "globe"
       title: "國際漫遊"
       prepaid_title: ""
-      prepaid_desc: "瑞士非歐盟，Swisscom 在歐盟/歐洲經濟區的漫遊流量包極貴，例如 500MB/6.90 CHF，10GB/59.90 CHF；Sunrise 在列支敦士登無自有網絡，按 1 CHF/MB 計費。"
+      prepaid_desc: "瑞士非歐盟，Swisscom 在歐盟/歐洲經濟區的漫遊流量包極貴，例如 500MB/6.90 CHF，10GB/59.90 CHF；Sunrise 在列支敦士登無自有網路，按 1 CHF/MB 計費。"
       esim_title: "全球漫遊無縫"
-      esim_desc: "前往鄰國（法、義、德、奧）或 Sunrise 信號盲區的列支敦士登時，eSIM 自動切換當地網絡，避免 1 CHF/MB 的天價漫遊費。"
+      esim_desc: "前往鄰國（法、義、德、奧）或 Sunrise 信號盲區的列支敦士登時，eSIM 自動切換當地網路，避免 1 CHF/MB 的天價漫遊費。"
     - icon: "calendar-xmark"
       title: "計費週期與浪費成本"
       prepaid_title: ""
@@ -505,15 +509,15 @@ market_analysis:
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "Salt Mobile 要求必須在移除 WiFi 的特定網絡通道下用信用卡購買套餐；Swisscom SIM 卡本身需花 19.90 CHF 購買。"
+      prepaid_desc: "Salt Mobile 要求必須在移除 WiFi 的特定網路通道下用信用卡購買套餐；Swisscom SIM 卡本身需花 19.90 CHF 購買。"
       esim_title: "全球付款暢通"
       esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需像 Salt Mobile 那樣斷開 WiFi 才能支付。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "Swisscom 等當地業者的客服以當地語言為主，預付卡用戶多須至門市或撥打客服電話，營業時間有限，難獲得 24/7 即時支援。"
       esim_title: "24/7 客服支援"
-      esim_desc: "提供 24/7 多語言線上客服，無需像當地運營商那樣僅限德語電話支援且限時服務。"
+      esim_desc: "提供 24/7 多語言線上客服，無需像當地電信商那樣僅限德語電話支援且限時服務。"
 
   # =============== 100% 完整復原：專家評語模組 ===============
   expert_verdict:

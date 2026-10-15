@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Campuchia 2026: Hướng dẫn Nhà mạng & Vùng phủ | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Campuchia | Dữ liệu Trả trước 5G Tốt nhất cho Du khách
   description: Khám phá Campuchia với eSIM du lịch trả trước tốt nhất từ Roami. Dữ liệu 5G không giới hạn trên toàn quốc. Phủ sóng Phnom Penh, Siem Reap & Sihanoukville. Kích hoạt tức thì.
-  keywords: eSIM Campuchia, mua eSIM Campuchia, eSIM Campuchia tốt nhất, eSIM du lịch Campuchia, Smart Campuchia, Metfone Campuchia, Cellcard Campuchia, eSIM Phnom Penh, eSIM Siem Reap, eSIM Sihanoukville, eSIM trả trước Campuchia, eSIM 5G Campuchia
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM Campuchia, mua eSIM Campuchia, eSIM Campuchia tốt nhất, eSIM du lịch Campuchia, Smart Campuchia, Metfone Campuchia, Cellcard Campuchia, eSIM Phnom Penh, eSIM Siem Reap, eSIM Sihanoukville, eSIM trả trước Campuchia, eSIM 5G Campuchia, eSIM Battambang, eSIM Kampot, eSIM Campuchia giá rẻ, sim du lịch Campuchia
+  low_price: 3.99
+  high_price: 88.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng hàng đầu Campuchia để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Campuchia: Gói cho mọi thời gian chuyến đi'
+plans_title: 'Campuchia eSIM: Chọn gói theo ngày và dung lượng'
 plans_data:
   30 Ngày:
   - spec: 20GB
@@ -308,7 +308,7 @@ network_coverage:
       coverage: Vùng phủ đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Campuchia: Những điều cần biết trước khi đi'
+  title: 'Lưu ý kết nối khi dùng Campuchia eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -327,7 +327,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Campuchia: 3 bước đơn giản'
+  title: '3 bước kích hoạt nhanh Campuchia eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -347,17 +347,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Tốc độ Internet nào bạn có thể mong đợi với eSIM ở Campuchia?"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, vùng phủ mạng và chất lượng kết nối cho du khách tại Campuchia. Tìm hiểu tốc độ mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Câu hỏi thường gặp về eSIM Campuchia - mạng, tốc độ và chất lượng kết nối."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Campuchia
+    title: Những điều du khách hỏi về Campuchia eSIM
     questions:
     - q: |
         Tôi nên ngân sách bao nhiêu cho eSIM khi đến thăm Campuchia?
       a: |
-        Roami cung cấp eSIM Campuchia từ 1,99 USD cho gói nhẹ 7 ngày lên đến 59,99 USD cho 30 ngày dữ liệu không giới hạn. Hầu hết du khách chọn gói 5GB/15 ngày ở mức 9,99 USD — đủ cho điều hướng hàng ngày, mạng xã hội và nhắn tin mà không căng thẳng. Người thích phát trực tuyến hoặc sử dụng mạng xã hội nhiều nên cân nhắc 10GB hoặc không giới hạn. Cellcard cung cấp tốc độ đáng tin cậy trên khắp Campuchia. Các gói Roami là trả trước — không hóa đơn bất ngờ, không tự động gia hạn, giá cả rõ ràng.
+        Roami cung cấp eSIM Campuchia từ $3.99 cho gói nhẹ 7 ngày lên đến $88.99 cho 30 ngày dữ liệu không giới hạn. Hầu hết du khách chọn gói 5GB/15 ngày ở mức $7.99 — đủ cho điều hướng hàng ngày, mạng xã hội và nhắn tin mà không căng thẳng. Người thích phát trực tuyến hoặc sử dụng mạng xã hội nhiều nên cân nhắc 10GB hoặc không giới hạn. Cellcard cung cấp tốc độ đáng tin cậy trên khắp Campuchia. Các gói Roami là trả trước — không hóa đơn bất ngờ, không tự động gia hạn, giá cả rõ ràng.
     - q: |
         Roami so với Airalo về eSIM ở Campuchia như thế nào?
       a: |
@@ -365,7 +365,7 @@ faq_section:
     - q: |
         Gói eSIM Campuchia không giới hạn có bị chậm lại nếu tôi dùng quá nhiều dữ liệu không?
       a: |
-        Có chính sách sử dụng hợp lý: tốc độ giảm sau 30GB trong một ngày. Ở tốc độ giảm, bạn vẫn có thể nhắn tin, điều hướng và duyệt web — chỉ không xem video mượt mà. Thực tế, hầu hết du khách không dùng đến 30GB. Nếu bạn lo lắng, gói cố định 10GB (14,99 USD) hoặc 20GB (24,99 USD) sẽ loại bỏ hoàn toàn sự không chắc chắn.
+        Có chính sách sử dụng hợp lý: tốc độ giảm sau 30GB trong một ngày. Ở tốc độ giảm, bạn vẫn có thể nhắn tin, điều hướng và duyệt web — chỉ không xem video mượt mà. Thực tế, hầu hết du khách không dùng đến 30GB. Nếu bạn lo lắng, gói cố định 10GB ($9.99) hoặc 20GB ($17.99) sẽ loại bỏ hoàn toàn sự không chắc chắn.
     - q: |
         Có an toàn khi tải hộ chiếu để đăng ký eSIM Campuchia không? Tôi lo ngại về quyền riêng tư.
       a: |
@@ -373,7 +373,7 @@ faq_section:
     - q: |
         eSIM có rẻ hơn chuyển vùng quốc tế cho Campuchia không?
       a: |
-        Có — eSIM Roami thường rẻ hơn 80-90% so với các gói chuyển vùng từ hầu hết nhà mạng trong nước. Gói 5GB cho Campuchia có giá 9,99 USD, trong khi chuyển vùng có thể tốn hơn 50 USD cho cùng lượng dữ liệu. Bạn cũng nhận được tốc độ mạng địa phương thay vì chuyển vùng bị giới hạn.
+        Có — eSIM Roami thường rẻ hơn 80-90% so với các gói chuyển vùng từ hầu hết nhà mạng trong nước. Gói 5GB cho Campuchia có giá $6.99, trong khi chuyển vùng có thể tốn hơn 50 USD cho cùng lượng dữ liệu. Bạn cũng nhận được tốc độ mạng địa phương thay vì chuyển vùng bị giới hạn.
     - q: |
         Tôi có thể sử dụng eSIM Campuchia cho mạng xã hội và chia sẻ ảnh với gia đình không?
       a: |
@@ -385,64 +385,76 @@ faq_section:
     - q: |
         Lựa chọn eSIM phổ biến nhất cho du khách đến Campuchia là gì?
       a: |
-        Hầu hết du khách đến Campuchia chọn gói 5GB/15 ngày (9,99 USD). Đủ cho điều hướng hàng ngày, mạng xã hội và nhắn tin. Cho kỳ nghỉ dài hơn hoặc sử dụng nhiều hơn, các gói 10GB (14,99 USD) hoặc không giới hạn (59,99 USD) là lựa chọn tuyệt vời. Tất cả gói kích hoạt trong vài phút và bao gồm hỗ trợ 24/7.
+        Hầu hết du khách đến Campuchia chọn gói 5GB/15 ngày ($7.99). Đủ cho điều hướng hàng ngày, mạng xã hội và nhắn tin. Cho kỳ nghỉ dài hơn hoặc sử dụng nhiều hơn, các gói 10GB ($9.99) hoặc không giới hạn ($88.99) là lựa chọn tuyệt vời. Tất cả gói kích hoạt trong vài phút và bao gồm hỗ trợ 24/7.
+    - q: |
+        Đi Campuchia rồi qua nước khác, dùng chung một eSIM được không?
+      a: |
+        eSIM Campuchia của Roami chủ yếu dùng trong lãnh thổ Campuchia; nếu lịch trình đi sang nước láng giềng, bạn nên mua thêm gói của nước đó hoặc gói khu vực để tránh phí chuyển vùng phát sinh.  Dù ở Phnom Penh, Siem Reap hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
+    - q: |
+        eSIM Campuchia giá bao nhiêu? Có lựa chọn rẻ không?
+      a: |
+        Gói eSIM Campuchia của Roami bắt đầu từ $3.99 (3 ngày 1GB), cao nhất $88.99 (30 ngày Không giới hạn). Chuyến ngắn dùng ít thì chọn gói nhập môn là đủ, khách dùng nhiều thì chọn mức cao hơn. Giá minh bạch, gói hết hạn tự kết thúc và không tự động gia hạn.  Vùng phủ di động tại Sihanoukville, Battambang đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
+    - q: |
+        Mua eSIM Campuchia thanh toán bằng cách nào? Bao lâu nhận được?
+      a: |
+        Roami hỗ trợ các hình thức thanh toán trực tuyến phổ biến; sau khi thanh toán, mã QR sẽ được gửi đến email của bạn, thường chỉ trong vài phút. Bạn nên mua và cài đặt trước chuyến đi để đến Campuchia là có mạng ngay.  Các thành phố lớn như Phnom Penh, Kampot đều có phủ sóng ổn định cho nhu cầu hằng ngày.
 related_products:
   title: Các gói eSIM Campuchia liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ 1,99 USD
-    is_highlight: true
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: Từ 1,99 USD
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ 1,99 USD
+  - name: eSIM Congo (Kinshasa)
+    flag: img/flags/cg.svg
+    price: Từ $7.99
+    is_highlight: false
+  - name: eSIM Thụy Sĩ
+    flag: img/flags/ch.svg
+    price: Từ $1.99
+    is_highlight: true
+  - name: eSIM Bờ Biển Ngà
+    flag: img/flags/ci.svg
+    price: Từ $9.99
+    is_highlight: false
+  - name: eSIM Chile
+    flag: img/flags/cl.svg
+    price: Từ $4.99
+    is_highlight: false
+  - name: eSIM Cameroon
+    flag: img/flags/cm.svg
+    price: Từ $27.99
     is_highlight: false
   - name: eSIM Trung Quốc
     flag: img/flags/cn.svg
-    price: Từ 1,99 USD
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ 1,99 USD
+  - name: eSIM Colombia
+    flag: img/flags/co.svg
+    price: Từ $4.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ 1,99 USD
+  - name: eSIM Costa Rica
+    flag: img/flags/cr.svg
+    price: Từ $9.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ 1,99 USD
+  - name: eSIM Síp
+    flag: img/flags/cy.svg
+    price: Từ $2.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ 1,99 USD
+  - name: eSIM Cộng hòa Séc
+    flag: img/flags/cz.svg
+    price: Từ $1.99
     is_highlight: false
   - name: eSIM Đức
     flag: img/flags/de.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ 1,99 USD
+    price: Từ $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Campuchia vs SIM trả trước: So sánh Tốc độ, Vùng phủ và Giá'
   subtitle: SIM trả trước địa phương Campuchia vs. Giải pháp eSIM (Đánh giá 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Campuchia) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Cambodia
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -463,19 +475,19 @@ market_analysis:
   - icon: globe
     title: Chuyển vùng<br>quốc tế
     prepaid_title: ''
-    prepaid_desc: Chuyển vùng ASEAN của Metfone bắt đầu từ 1,25 USD/ngày cho 1GB tốc độ cao sau đó giới hạn tốc độ; Smart tính 2 USD/ngày cho dữ liệu tại Việt Nam và Thái Lan, và lên đến 10 USD/ngày tại Nhật Bản và Hàn Quốc.
+    prepaid_desc: Chuyển vùng ASEAN của Metfone bắt đầu từ $1.25/ngày cho 1GB tốc độ cao sau đó giới hạn tốc độ; Smart tính 2 USD/ngày cho dữ liệu tại Việt Nam và Thái Lan, và lên đến 10 USD/ngày tại Nhật Bản và Hàn Quốc.
     esim_title: Chuyển vùng xuyên biên giới liền mạch
-    esim_desc: Roami eSIM cung cấp dữ liệu thống nhất trên khắp Campuchia, Thái Lan và Việt Nam mà không cần mã kích hoạt phức tạp. Tránh chuyển vùng ASEAN 1,25 USD/ngày của Metfone với chỉ 1GB dữ liệu tốc độ cao và chuyển vùng 2 USD/ngày của Smart tại các nước lân cận.
+    esim_desc: Roami eSIM cung cấp dữ liệu thống nhất trên khắp Campuchia, Thái Lan và Việt Nam mà không cần mã kích hoạt phức tạp. Tránh chuyển vùng ASEAN $1.25/ngày của Metfone với chỉ 1GB dữ liệu tốc độ cao và chuyển vùng 2 USD/ngày của Smart tại các nước lân cận.
   - icon: calendar-xmark
     title: Chu kỳ thanh toán &<br>Chi phí chìm
     prepaid_title: ''
     prepaid_desc: Smart Traveller SIM cung cấp gói 7 ngày (3 USD/25GB) và 15 ngày (5 USD/35GB); Cellcard Serey+ sử dụng chu kỳ 28 ngày (4 USD/25GB); gói tiêu chuẩn của Metfone là 30 ngày (1 USD/700MB, 3 USD/4GB, 10 USD/15GB).
     esim_title: Gói ngắn linh hoạt
-    esim_desc: Roami eSIM cung cấp gói dữ liệu 7 ngày từ 1,99 USD/GB, phù hợp chính xác với chuyến đi 5 ngày của bạn. Tránh lãng phí tiền vào gói 3 USD/7 ngày của Smart hay gói 1 USD/30 ngày của Metfone nơi bạn trả cho những ngày không sử dụng.
+    esim_desc: Roami eSIM cung cấp gói dữ liệu 7 ngày từ $3.99/GB, phù hợp chính xác với chuyến đi 5 ngày của bạn. Tránh lãng phí tiền vào gói 3 USD/7 ngày của Smart hay gói 1 USD/30 ngày của Metfone nơi bạn trả cho những ngày không sử dụng.
   - icon: wifi
     title: Chính sách chia sẻ<br>kết nối & tốc độ
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho khía cạnh này. Dựa trên kiến thức thị trường chung, hầu hết SIM trả trước Campuchia cho phép chia sẻ kết nối nhưng có thể giới hạn tốc độ sau một ngưỡng nhất định; các gói SurfLikeCrazy của Smart có chính sách FUP.
+    prepaid_desc: Hầu hết SIM trả trước Campuchia cho phép chia sẻ kết nối nhưng có thể giới hạn tốc độ sau một ngưỡng nhất định; các gói SurfLikeCrazy của Smart có chính sách FUP.
     esim_title: Chia sẻ kết nối không hạn chế
     esim_desc: Roami eSIM cho phép chia sẻ điểm phát WiFi tốc độ đầy đủ mà không có bất kỳ giới hạn FUP nào. Không như SIM địa phương có thể giới hạn tốc độ chia sẻ sau một lượng dữ liệu nhất định, bạn có thể chia sẻ kết nối với nhiều thiết bị một cách liền mạch.
   - icon: credit-card
@@ -487,7 +499,7 @@ market_analysis:
   - icon: headset
     title: Hỗ trợ khách<br>hàng
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho khía cạnh này. Dựa trên kiến thức thị trường chung, hỗ trợ khách hàng thường bằng tiếng Khmer và tiếng Anh, với giờ làm việc hạn chế.
+    prepaid_desc: Hỗ trợ khách hàng thường bằng tiếng Khmer và tiếng Anh, với giờ làm việc hạn chế.
     esim_title: Hỗ trợ đa ngôn ngữ 24/7
     esim_desc: Roami cung cấp hỗ trợ khách hàng 24/7 bằng tiếng Anh qua trò chuyện trực tiếp và email. Không cần điều hướng đường dây hỗ trợ địa phương với giờ hạn chế hay rào cản ngôn ngữ.
   expert_verdict:
@@ -502,12 +514,12 @@ market_analysis:
       icon_bg: bg-rose-100
       icon_color: text-rose-600
       title: Chuyển vùng liền mạch trên khắp Đông Nam Á
-      desc: Chuyển vùng ASEAN của Metfone tốn <b>1,25 USD/ngày</b> chỉ cho <b>1GB</b> dữ liệu tốc độ cao sau đó giới hạn xuống 64kbps; Smart tính <b>2 USD/ngày</b> tại Việt Nam/Thái Lan và lên đến <b>10 USD/ngày</b> tại Nhật/Korea. Roami eSIM cung cấp dữ liệu thống nhất xuyên biên giới mà không tính phí thêm hay mã kích hoạt phức tạp.
+      desc: Chuyển vùng ASEAN của Metfone tốn <b>$1.25/ngày</b> chỉ cho <b>1GB</b> dữ liệu tốc độ cao sau đó giới hạn xuống 64kbps; Smart tính <b>2 USD/ngày</b> tại Việt Nam/Thái Lan và lên đến <b>10 USD/ngày</b> tại Nhật/Korea. Roami eSIM cung cấp dữ liệu thống nhất xuyên biên giới mà không tính phí thêm hay mã kích hoạt phức tạp.
     - icon: hourglass-empty
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Tránh gói 7 ngày hoặc 30 ngày bắt buộc
-      desc: Smart Traveller SIM buộc gói <b>3 USD/7 ngày</b> ngay cả cho chuyến đi 5 ngày; gói tiêu chuẩn của Metfone là <b>30 ngày</b> (<b>1 USD/700MB</b>). Roami eSIM cung cấp gói 7 ngày linh hoạt từ <b>1,99 USD/GB</b>, phù hợp chính xác với thời gian du lịch của bạn và tiết kiệm đến <b>70%</b> lãng phí.
+      desc: Smart Traveller SIM buộc gói <b>3 USD/7 ngày</b> ngay cả cho chuyến đi 5 ngày; gói tiêu chuẩn của Metfone là <b>30 ngày</b> (<b>1 USD/700MB</b>). Roami eSIM cung cấp gói 7 ngày linh hoạt từ <b>$3.99/GB</b>, phù hợp chính xác với thời gian du lịch của bạn và tiết kiệm đến <b>70%</b> lãng phí.
     - icon: clock
       icon_bg: bg-teal-100
       icon_color: text-teal-600

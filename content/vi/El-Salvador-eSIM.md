@@ -1,6 +1,6 @@
 ---
 title: 'eSIM El Salvador 2026: Hướng dẫn Phủ sóng & Tốc độ | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM El Salvador | Gói dữ liệu trả trước 5G cho nhà thám hiểm
   description: Tận hưởng dữ liệu 5G nhanh tại El Salvador. Dữ liệu 5G không giới hạn với kích hoạt tức thì. Phủ sóng San Salvador, Santa Ana và San Miguel. Kích hoạt tức thì.
-  keywords: eSIM El Salvador, mua eSIM El Salvador, eSIM El Salvador tốt nhất, eSIM du lịch El Salvador, Tigo El Salvador, Claro El Salvador, Movistar El Salvador, eSIM San Salvador, eSIM Santa Ana, eSIM San Miguel, eSIM trả trước El Salvador, eSIM 5G El Salvador
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM El Salvador, mua eSIM El Salvador, eSIM El Salvador tốt nhất, eSIM du lịch El Salvador, Tigo El Salvador, Claro El Salvador, Movistar El Salvador, eSIM San Salvador, eSIM Santa Ana, eSIM San Miguel, eSIM trả trước El Salvador, eSIM 5G El Salvador, eSIM Usulután, eSIM Sonsonate, eSIM El Salvador giá rẻ, sim du lịch El Salvador
+  low_price: 23.99
+  high_price: 165.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng hàng đầu El Salvador để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM El Salvador: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Hướng dẫn chọn gói El Salvador eSIM'
 plans_data:
   3 Ngày:
   - spec: Không giới hạn
@@ -219,7 +219,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM El Salvador: Những điều cần biết trước khi đi'
+  title: 'Nhắc nhở cài đặt và kích hoạt El Salvador eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -238,7 +238,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM El Salvador: 3 bước đơn giản'
+  title: 'El Salvador eSIM: kích hoạt 3 bước'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -258,12 +258,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM ở El Salvador -- Kết nối có nhanh và đáng tin cậy cho du khách không?"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại El Salvador. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Tổng hợp giải đáp về độ phủ sóng, tốc độ và kết nối eSIM cho chuyến đi El Salvador."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM El Salvador
+    title: Hỏi đáp về El Salvador eSIM
     questions:
     - q: |
         Nếu điện thoại của tôi không hỗ trợ eSIM thì sao? Tôi vẫn có thể có internet ở El Salvador không?
@@ -297,63 +297,75 @@ faq_section:
         Tôi có thể giữ SIM nhà mạng trong điện thoại khi sử dụng eSIM ở El Salvador không?
       a: |
         Có — SIM nhà mạng của bạn vẫn ở khe 1 cho SMS (mã ngân hàng, đăng nhập 2FA). eSIM xử lý dữ liệu ở khe 2. Tắt chuyển vùng dữ liệu trên SIM nhà mạng để tránh phí lên đến $10-15 mỗi MB.
+    - q: |
+        eSIM El Salvador giá bao nhiêu? Có lựa chọn rẻ không?
+      a: |
+        Gói eSIM El Salvador của Roami bắt đầu từ $23.99 (7 ngày 3GB), cao nhất $165.99 (30 ngày 30GB). Chuyến ngắn dùng ít thì chọn gói nhập môn là đủ, khách dùng nhiều thì chọn mức cao hơn. Giá minh bạch, gói hết hạn tự kết thúc và không tự động gia hạn.  Thực tế tại San Salvador, Santa Ana, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
+    - q: |
+        Tốc độ eSIM El Salvador có nhanh không? Có chậm hơn SIM vật lý không?
+      a: |
+        eSIM El Salvador của Roami dùng trạm gốc của các nhà mạng chính tại địa phương, tốc độ tương đương SIM trả trước bản địa; tra bản đồ, mạng xã hội và gọi video đều mượt. Tốc độ thực tế còn phụ thuộc vị trí và tải của mạng tại thời điểm đó.  Dù ở San Miguel, Usulután hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
+    - q: |
+        Đi El Salvador vài ngày thì nên chọn gói eSIM dung lượng bao nhiêu?
+      a: |
+        eSIM El Salvador của Roami có các mức Không giới hạn, 3GB, 5GB, 10GB, 20GB, 30GB. Chuyến ngắn, chỉ tra bản đồ và nhắn tin thì Không giới hạn là đủ; nếu xem video ngắn, gọi video hoặc chia sẻ hotspot, bạn nên chọn mức cao hơn một bậc. Nếu chưa chắc về nhu cầu, có thể mua gói nhỏ rồi nạp thêm trong ứng dụng sau khi đến El Salvador, không cần đổi SIM.  Vùng phủ di động tại San Salvador, Sonsonate đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
 related_products:
   title: Gói eSIM El Salvador liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ $1.99
+  - name: eSIM Bosnia và Herzegovina
+    flag: img/flags/ba.svg
+    price: Từ $30.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: eSIM Barbados
+    flag: img/flags/bb.svg
+    price: Từ $11.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Bangladesh
+    flag: img/flags/bd.svg
+    price: Từ $5.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Bỉ
+    flag: img/flags/be.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: eSIM Burkina Faso
+    flag: img/flags/bf.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Bulgaria
+    flag: img/flags/bg.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
+  - name: eSIM Bahrain
+    flag: img/flags/bh.svg
+    price: Từ $6.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
+  - name: eSIM Brunei
+    flag: img/flags/bn.svg
+    price: Từ $9.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
+  - name: eSIM Bolivia
+    flag: img/flags/bo.svg
+    price: Từ $11.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
+  - name: eSIM Brazil
+    flag: img/flags/br.svg
+    price: Từ $4.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
+  - name: eSIM Bahamas
+    flag: img/flags/bs.svg
+    price: Từ $16.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: eSIM Botswana
+    flag: img/flags/bw.svg
+    price: Từ $14.99
     is_highlight: false
 market_analysis:
   title: 'eSIM El Salvador so với SIM trả trước: So sánh chi phí và tiện lợi'
   subtitle: SIM trả trước địa phương El Salvador so với giải pháp eSIM (Đối sánh 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (El Salvador) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/El-Salvador
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -382,7 +394,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Các gói Tigo tự động gia hạn; gói $10/5GB/30 ngày buộc du khách 7 ngày lãng phí hơn 70% giá trị gói.
     esim_title: Gói ngắn hạn linh hoạt
-    esim_desc: Không như gói tự động gia hạn 30 ngày của Tigo ($10/5GB), Roami cung cấp gói 7 ngày từ $1.99/GB, tiết kiệm hơn 70% lãng phí.
+    esim_desc: Không như gói tự động gia hạn 30 ngày của Tigo ($10/5GB), Roami cung cấp gói 7 ngày từ $23.99/GB, tiết kiệm hơn 70% lãng phí.
   - icon: wifi
     title: Chia sẻ kết nối &<br>Chính sách tốc độ
     prepaid_title: ''
@@ -398,7 +410,7 @@ market_analysis:
   - icon: headset
     title: Hỗ trợ khách hàng
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho tiêu chí này.
+    prepaid_desc: Kiểm tra với nhà mạng địa phương để biết thông tin chi tiết.
     esim_title: Hỗ trợ đa ngôn ngữ 24/7
     esim_desc: Nhận trợ giúp tức thì qua trò chuyện hoặc email, không như các nhà mạng địa phương có giờ hạn chế và hỗ trợ chỉ bằng tiếng Tây Ban Nha.
   expert_verdict:

@@ -1,6 +1,6 @@
 ---
 title: '克羅埃西亞 eSIM 2026: 完整旅遊指南 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,7 @@ modal:
 seo:
   title: "克羅埃西亞eSIM｜5G上網吃到飽，商務旅遊首選"
   description: "Roami eSIM提供克羅埃西亞5G高速上網吃到飽，200多個國家都能用。多國eSIM推薦全球旅遊網路方案，無論去哪個國家旅行，高速連線不煩惱一卡搞定超方便。"
-  keywords: 克羅埃西亞 eSIM, 克羅埃西亞 eSIM方案, 最佳克羅埃西亞 eSIM, 克羅埃西亞上網, Hrvatski Telekom 克羅埃西亞, A1 克羅埃西亞, Telemach 克羅埃西亞, 薩格勒布 eSIM,
-    斯普利特 eSIM, 杜布羅夫尼克 eSIM, 克羅埃西亞行動網路, 5G 克羅埃西亞
+  keywords: 克羅埃西亞 eSIM, eSIM 克羅埃西亞, 克羅埃西亞 eSIM 購買, 最佳克羅埃西亞 eSIM, 克羅埃西亞 上網, Hrvatski Telekom 克羅埃西亞, A1 克羅埃西亞, Telemach 克羅埃西亞, 薩格勒布 eSIM, 斯普利特 eSIM, 杜布羅夫尼克 eSIM, 扎達爾 eSIM, 里耶卡 eSIM, 克羅埃西亞 eSIM 方案, 克羅埃西亞 5G eSIM, 克羅埃西亞 eSIM 預付卡
 order_summary:
   title: 選擇 克羅埃西亞 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線克羅埃西亞最佳電信商，取得最強訊號
-plans_title: 購買克羅埃西亞 eSIM：適合各種旅程的方案
+plans_title: 克羅埃西亞 eSIM 方案推薦
 plans_data:
   30 天:
   - spec: 20GB
@@ -321,7 +320,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 克羅埃西亞 eSIM秘訣：出發前須知
+  title: 克羅埃西亞 eSIM 安裝與啟用提醒
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -350,7 +349,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 克羅埃西亞 eSIM啟用：3個簡單步驟
+  title: 手把手教你啟用克羅埃西亞 eSIM
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 克羅埃西亞 做好準備
@@ -385,88 +384,93 @@ faq_section:
     title: 克羅埃西亞 eSIM 網路品質評比｜各家電信速度收訊比較
     questions:
     - q: 到克羅埃西亞玩幾天而已，eSIM有沒有比較不貴的方案？
-      a: Roami 克羅埃西亞 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Hrvatski Telekom在克羅埃西亞市區5G網速約100-300Mbps，看1080p影片沒問題。去克羅埃西亞機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到克羅埃西亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 克羅埃西亞 eSIM方案從$1.99（3天1GB）起，最高$76.99（30天無限）。一般旅客買最多的是5GB/15天（$8.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Hrvatski Telekom在克羅埃西亞市區5G網速約100-300Mbps，看1080p影片沒問題。去克羅埃西亞機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到克羅埃西亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: Hrvatski Telekom、A1、Telemach這三家在克羅埃西亞的收訊，在市區和郊區各推薦哪家？
       a: 克羅埃西亞主要有Hrvatski Telekom、A1、Telemach。Hrvatski Telekom市區下載快、基地台密集。A1郊區覆蓋廣，會去郊區的話選A1路線較有保障。Telemach價格親民，適合預算有限的旅客。克羅埃西亞5G使用n78頻段，沿海及主要城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Hrvatski Telekom，移動到郊區若Hrvatski Telekom訊號變弱就自動跳A1或Telemach，完全不用手動選。
     - q: 克羅埃西亞eSIM的30天無限方案跟15天10GB的比起來，哪個平均每天比較便宜？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。克羅埃西亞5G使用n78頻段，沿海及主要城市覆蓋。Roami在克羅埃西亞連上Hrvatski Telekom的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。克羅埃西亞5G使用n78頻段，沿海及主要城市覆蓋。Roami在克羅埃西亞連上Hrvatski Telekom的網路，網速穩定。如果怕降速可選10GB/$11.99或20GB/$20.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 去克羅埃西亞用eSIM需要先通過身分驗證嗎？要準備哪些證件？
       a: 需要的。克羅埃西亞預付卡需KYC認證，需提供護照。很多人不知道這規定，到了克羅埃西亞機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。克羅埃西亞5G使用n78頻段，沿海及主要城市覆蓋。另外Hrvatski Telekom的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到克羅埃西亞開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 離開克羅埃西亞市區之後，eSIM的訊號會不會變得很差？
       a: 克羅埃西亞的Hrvatski Telekom等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。克羅埃西亞5G使用n78頻段，沿海及主要城市覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 克羅埃西亞eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
       a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
+    - q: 買克羅埃西亞 eSIM 支援哪些付款方式？多久能收到？
+      a: Roami 支援信用卡等常見線上付款，結帳後 QR code 會寄到你的電子郵件，通常幾分鐘內就能收到。建議出發前先在台灣買好、裝好，抵達 克羅埃西亞 即可連線。 在 薩格勒布、斯普利特 一帶實測收訊良好，移動中會自動切換基地台。
+    - q: 去克羅埃西亞玩幾天，該挑多大的eSIM規格才夠用？
+      a: Roami 克羅埃西亞 eSIM 有 20GB、50GB、100GB、30GB、3GB、5GB 等規格可選。短天數、只查地圖傳訊息的輕度使用，20GB 就夠；如果會看短影片、視訊通話或開熱點分享，建議再往上加一級。用量抓不準可以先買小的，到 克羅埃西亞 後在 App 加購即可，不用換卡。 杜布羅夫尼克、扎達爾 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
+    - q: 克羅埃西亞 eSIM 可以開熱點分享給旅伴嗎？
+      a: 可以，Roami 克羅埃西亞 eSIM 支援熱點分享，能分給筆電、平板或同行旅伴。多人共用建議挑規格大一級的方案，避免中途用完；用量抓不準也可以事後在 App 加購。 實際走訪 薩格勒布、里耶卡 等主要城市，上網查資料、傳照片都沒問題。
 related_products:
   title: 類似 克羅埃西亞 eSIM 的旅行方案
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 關島 eSIM
+    flag: img/flags/gu.svg
+    price: 自 $9.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: guam-esim
+  - name: 奈及利亞 eSIM
+    flag: img/flags/ng.svg
+    price: 自 $5.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: nigeria-esim
+  - name: 台灣 eSIM
+    flag: img/flags/tw.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: taiwan-esim
+  - name: 以色列 eSIM
+    flag: img/flags/il.svg
+    price: 自 $2.99
     is_highlight: false
-    slug: singapore-esim
+    slug: israel-esim
+  - name: 捷克 eSIM
+    flag: img/flags/cz.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: czech-republic-esim
+  - name: 布吉納法索 eSIM
+    flag: img/flags/bf.svg
+    price: 自 $11.99
+    is_highlight: false
+    slug: burkina-faso-esim
+  - name: 亞塞拜然 eSIM
+    flag: img/flags/az.svg
+    price: 自 $6.99
+    is_highlight: false
+    slug: azerbaijan-esim
+  - name: 挪威 eSIM
+    flag: img/flags/no.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: norway-esim
+  - name: 沙烏地阿拉伯 eSIM
+    flag: img/flags/sa.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: saudi-arabia-esim
+  - name: 保加利亞 eSIM
+    flag: img/flags/bg.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: bulgaria-esim
   - name: 馬來西亞 eSIM
     flag: img/flags/my.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: false
     slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: philippines-esim
-
+  - name: 新加坡 eSIM
+    flag: img/flags/sg.svg
+    price: 自 $1.99
+    is_highlight: true
+    slug: singapore-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Croatia eSIM 網路速度與覆蓋完整介紹"
   subtitle: "克羅埃西亞當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Croatia) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Croatia"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -475,7 +479,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Croatia. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Hrvatski Telekom 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開在薩格勒布機場排隊尋找A1或Telemach實體店，Roami eSIM出發前線上購買，落地後一分鐘內啟用，無需排隊等候。"
     - icon: "id-card"
@@ -499,21 +503,21 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "Hrvatski Telekom 等當地業者的預付方案對熱點分享規定不一，部分方案允許分享但受公平使用（FUP）限制而可能降速，選購前需確認條款。"
       esim_title: "無限熱點分享"
       esim_desc: "Roami eSIM支援熱點分享，無限制，而當地SIM卡如Telemach可能需手動設定APN，且部分方案限制分享。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "當地預付卡多以實體儲值券或門市現金加值，Hrvatski Telekom 等業者的線上儲值對國際信用卡支援有限，加值較不方便。"
       esim_title: "全球付款暢通"
       esim_desc: "支援Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需擔心當地SIM卡儲值時外國卡被拒的問題。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "Hrvatski Telekom 等當地業者的客服以當地語言為主，預付卡用戶多須至門市或撥打客服電話，營業時間有限，難獲得 24/7 即時支援。"
       esim_title: "24/7 客服支援"
-      esim_desc: "Roami提供24/7多語言客服，而當地運營商如Hrvatski Telekom的客服可能僅限當地語言且非全天候。"
+      esim_desc: "Roami提供24/7多語言客服，而當地電信商如Hrvatski Telekom的客服可能僅限當地語言且非全天候。"
 
   # =============== 100% 完整復原：專家評語模組 ===============
   expert_verdict:

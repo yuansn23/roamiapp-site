@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Singapore - Phủ sóng 5G Toàn đảo | Không xếp hàng tại sân bay | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Singapore - Gói trả trước 5G Tốt nhất Toàn đảo
   description: Nhận gói eSIM Singapore tốt nhất với 5G toàn đảo trên Singtel, StarHub & M1. Không xếp hàng chờ hộ chiếu tại Changi — gửi QR tức thì. Hoàn hảo cho Marina Bay, Sentosa & Orchard Road. Gói từ $1.99.
-  keywords: eSIM Singapore, mua eSIM Singapore, eSIM Singapore tốt nhất, eSIM du lịch Singapore, Singtel Singapore, StarHub Singapore, M1 Singapore, eSIM Thành phố Singapore, eSIM Jurong East, eSIM Tampines, eSIM trả trước Singapore, eSIM 5G Singapore, eSIM Marina Bay, eSIM Sentosa
+  keywords: eSIM Singapore, mua eSIM Singapore, eSIM Singapore tốt nhất, eSIM du lịch Singapore, Singtel Singapore, StarHub Singapore, M1 Singapore, eSIM Thành phố Singapore, eSIM Jurong East, eSIM Tampines, eSIM trả trước Singapore, eSIM 5G Singapore, eSIM Woodlands, eSIM Bedok, eSIM Singapore giá rẻ, sim du lịch Singapore
   low_price: 1.99
-  high_price: 39.9
+  high_price: 65.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -73,7 +73,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: 5G Toàn đảo
     desc: Phủ sóng 5G đầy đủ từ Sân bay Changi đến Sentosa — mọi ngóc ngách của Singapore
-plans_title: 'Mua eSIM Singapore: Gói cho mọi thời gian chuyến đi'
+plans_title: 'Gói dữ liệu Singapore eSIM của bạn'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -312,7 +312,7 @@ network_coverage:
       coverage: Phủ sóng 5G đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Singapore: Những điều cần biết trước khi đi'
+  title: 'Nhắc nhở nhỏ trước chuyến đi với Singapore eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -337,7 +337,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Singapore: 3 bước đơn giản'
+  title: 'Hướng dẫn cài đặt và kích hoạt Singapore eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -357,12 +357,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hướng dẫn eSIM Singapore: 5G Toàn đảo, Tốc độ & Mẹo du lịch"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Singapore. Tìm hiểu tốc độ bạn có thể mong đợi và nơi 5G hoạt động tốt nhất."
+  desc: "Tổng hợp câu hỏi và giải đáp về eSIM Singapore - tốc độ, phủ sóng và cách kết nối."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Singapore
+    title: Câu hỏi và giải đáp cho Singapore eSIM
     questions:
     - q: |
         5G có thực sự có sẵn ở mọi nơi tại Singapore không? Còn Sentosa và Sân bay Changi thì sao?
@@ -404,63 +404,75 @@ faq_section:
         Thời hạn của eSIM Singapore bắt đầu từ khi nào?
       a: |
         Thời hạn gói bắt đầu khi bạn kết nối với mạng địa phương tại Singapore, không phải khi bạn mua hoặc cài đặt. Vì vậy, bạn có thể mua và cài đặt vài tuần trước chuyến đi mà không mất bất kỳ ngày nào. Gói 7 ngày cho bạn đủ 7 ngày từ lần kết nối đầu tiên.
+    - q: |
+        Dùng eSIM Singapore ở Thành phố Singapore, Jurong East có ổn không?
+      a: |
+        Thành phố Singapore, Jurong East và các đô thị chính đều được phủ sóng di động đầy đủ: tra bản đồ, gọi xe, nhắn tin và tải ảnh đều ổn. Một số vùng xa của Singapore tín hiệu yếu hơn, bạn nên tải bản đồ ngoại tuyến để phòng.  Thành phố Singapore, Jurong East và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
+    - q: |
+        Mua eSIM Singapore thanh toán bằng cách nào? Bao lâu nhận được?
+      a: |
+        Roami hỗ trợ các hình thức thanh toán trực tuyến phổ biến; sau khi thanh toán, mã QR sẽ được gửi đến email của bạn, thường chỉ trong vài phút. Bạn nên mua và cài đặt trước chuyến đi để đến Singapore là có mạng ngay.  Thực tế tại Tampines, Woodlands, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
+    - q: |
+        Dùng eSIM Singapore gặp sự cố thì liên hệ ai?
+      a: |
+        Roami có hỗ trợ khách hàng trực tuyến. Nếu gặp lỗi kết nối tại Singapore, bạn kiểm tra đường eSIM đã bật và chuyển vùng dữ liệu đã mở chưa; nếu vẫn chưa được thì liên hệ hỗ trợ, trường hợp đủ điều kiện có thể yêu cầu hoàn tiền.  Dù ở Thành phố Singapore, Bedok hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
 related_products:
   title: Các gói eSIM Singapore liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
+  - name: eSIM Indonesia
+    flag: img/flags/id.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Vương quốc Anh
-    flag: img/flags/gb.svg
+  - name: eSIM Ireland
+    flag: img/flags/ie.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Israel
+    flag: img/flags/il.svg
+    price: Từ $2.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Ấn Độ
+    flag: img/flags/in.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Iraq
+    flag: img/flags/iq.svg
+    price: Từ $9.99
+    is_highlight: false
+  - name: eSIM Iceland
+    flag: img/flags/is.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: eSIM Ý
+    flag: img/flags/it.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
+  - name: eSIM Jamaica
+    flag: img/flags/jm.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Jordan
+    flag: img/flags/jo.svg
+    price: Từ $6.99
     is_highlight: false
   - name: eSIM Nhật Bản
     flag: img/flags/jp.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
+  - name: eSIM Kenya
+    flag: img/flags/ke.svg
+    price: Từ $7.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: eSIM Kyrgyzstan
+    flag: img/flags/kg.svg
+    price: Từ $4.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Singapore vs SIM trả trước nội địa: Tiện lợi so với Chi phí'
   subtitle: 'SIM trả trước nội địa Singapore vs. Giải pháp eSIM (Tiêu chuẩn 2024/2025)'
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Singapore) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Singapore
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước nội địa (Dữ liệu thị trường)

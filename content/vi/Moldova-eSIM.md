@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Moldova 2026: Hướng dẫn 5G & Dữ liệu | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: 'eSIM Moldova: Gói dữ liệu không giới hạn tốc độ cao 5G tốt nhất'
   description: So sánh các gói eSIM Moldova với 5G nhanh tại Chișinău, Bălți, Tiraspol. Hướng dẫn phủ sóng Orange Moldova, Moldcell và Moldtelecom dành cho du khách. Kích hoạt QR tức thì từ $1.99.
-  keywords: eSIM Moldova, mua eSIM Moldova, eSIM Moldova tốt nhất, eSIM du lịch Moldova, Orange Moldova, Moldcell Moldova, Moldtelecom Moldova, eSIM Chișinău, eSIM Bălți, eSIM Tiraspol, eSIM trả trước Moldova, eSIM 5G Moldova
+  keywords: eSIM Moldova, mua eSIM Moldova, eSIM Moldova tốt nhất, eSIM du lịch Moldova, Orange Moldova Moldova, Moldcell Moldova, Moldtelecom Moldova, eSIM Chișinău, eSIM Bălți, eSIM Tiraspol, eSIM trả trước Moldova, eSIM 5G Moldova, eSIM Cahul, eSIM Ungheni, eSIM Moldova giá rẻ, sim du lịch Moldova
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng hàng đầu Moldova để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Moldova: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Gói và giá Moldova eSIM'
 plans_data:
   30 Ngày:
   - spec: 30GB
@@ -292,7 +292,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Moldova: Những điều cần biết trước khi đi'
+  title: 'Điểm quan trọng trước khi kích hoạt Moldova eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -311,7 +311,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Moldova: 3 bước đơn giản'
+  title: 'Moldova eSIM: từ cài đặt đến kết nối'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -331,12 +331,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM cho du khách tại Moldova -- Tốc độ mạng, Phủ sóng và Mẹo"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Moldova. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Những điều cần biết về tốc độ, phủ sóng và kết nối khi dùng eSIM tại Moldova."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Moldova
+    title: Thắc mắc thường gặp khi dùng Moldova eSIM
     questions:
     - q: |
         Đối với du khách tại Moldova, Orange hay Moldcell là lựa chọn tốt hơn?
@@ -349,7 +349,7 @@ faq_section:
     - q: |
         Tôi chỉ cần truy cập internet trong vài ngày ở Moldova. Tối thiểu tôi có thể mua là gì?
       a: |
-        Gói rẻ nhất là $1.99 cho 7 ngày với 1GB — hoàn hảo cho chuyến cuối tuần ngắn với nhu cầu sử dụng nhẹ. Nếu cần thêm, nạp thêm bất kỳ lúc nào từ ứng dụng.
+        Gói rẻ nhất là $2.99 cho 7 ngày với 1GB — hoàn hảo cho chuyến cuối tuần ngắn với nhu cầu sử dụng nhẹ. Nếu cần thêm, nạp thêm bất kỳ lúc nào từ ứng dụng.
     - q: |
         Tôi có thể sử dụng ứng dụng điều hướng như Google Maps với eSIM ở Moldova không?
       a: |
@@ -370,55 +370,67 @@ faq_section:
         eSIM của tôi ở Moldova có hoạt động cho cuộc gọi video và làm việc từ xa không?
       a: |
         Chắc chắn rồi. Mạng Orange cung cấp kết nối ổn định cho Zoom, Teams và Google Meet. Đối với làm việc từ xa, gói 10GB hoặc không giới hạn được khuyến nghị. eSIM cũng hỗ trợ chia sẻ kết nối cho máy tính xách tay của bạn.
+    - q: |
+        Đến sân bay ở Moldova là dùng được internet ngay chứ?
+      a: |
+        Được. Chỉ cần cài eSIM trước, sau khi hạ cánh tắt chế độ máy bay và bật đường eSIM, thường chỉ vài chục giây là kết nối được mạng địa phương, không cần xếp hàng mua SIM vật lý ở sân bay Moldova.  Thực tế tại Chișinău, Bălți, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
+    - q: |
+        Dùng eSIM Moldova ở Chișinău, Bălți có ổn không?
+      a: |
+        Chișinău, Bălți và các đô thị chính đều được phủ sóng di động đầy đủ: tra bản đồ, gọi xe, nhắn tin và tải ảnh đều ổn. Một số vùng xa của Moldova tín hiệu yếu hơn, bạn nên tải bản đồ ngoại tuyến để phòng.  Dù ở Tiraspol, Cahul hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
+    - q: |
+        eSIM Moldova có những gói mấy ngày?
+      a: |
+        eSIM Moldova của Roami có các lựa chọn 3/7/15/30 ngày, tùy theo độ dài hành trình. Chuyến trong ba ngày thì chọn mức ngắn là đủ; từ một tuần trở lên nên chọn gói dài hạn để chi phí mỗi ngày rẻ hơn.  Vùng phủ di động tại Chișinău, Ungheni đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
 related_products:
   title: Gói eSIM liên quan
   items:
-  - name: eSIM Hoa Kỳ
+  - name: eSIM Ukraine
+    flag: img/flags/ua.svg
+    price: Từ $1.99
+    is_highlight: false
+  - name: eSIM Uganda
+    flag: img/flags/ug.svg
+    price: Từ $7.99
+    is_highlight: false
+  - name: eSIM Mỹ
     flag: img/flags/us.svg
     price: Từ $1.99
-    is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: Uruguay eSIM
+    flag: img/flags/uy.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Uzbekistan
+    flag: img/flags/uz.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: eSIM Thành Vatican
+    flag: img/flags/va.svg
+    price: Từ $10.99
+    is_highlight: false
+  - name: Vietnam eSIM
+    flag: img/flags/vn.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
+  - name: eSIM Kosovo
+    flag: img/flags/xk.svg
+    price: Từ $13.99
+    is_highlight: false
+  - name: eSIM Đông Nam Á
+    flag: img/flags/ya.webp
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
+  - name: eSIM Andorra
+    flag: img/flags/ad.svg
+    price: Từ $6.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
+  - name: UAE eSIM
+    flag: img/flags/ae.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: eSIM Afghanistan
+    flag: img/flags/af.svg
+    price: Từ $11.99
     is_highlight: false
 ---

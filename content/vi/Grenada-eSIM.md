@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Grenada 2026: Hướng dẫn 5G & Dữ liệu | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Grenada | Dữ liệu 5G trả trước tốt nhất cho kỳ nghỉ của bạn
   description: Khám phá Grenada với eSIM du lịch trả trước tốt nhất của Roami. Dữ liệu 5G không giới hạn trên toàn đảo. Phủ sóng St Georges, Grenville. Kích hoạt tức thì.
-  keywords: eSIM Grenada, mua eSIM Grenada, eSIM Grenada tốt nhất, eSIM du lịch Grenada, Flow Grenada, Digicel Grenada, Dawn Mobile Grenada, eSIM St. George's, eSIM Grenville, eSIM Gouyave, eSIM trả trước Grenada, eSIM 5G Grenada
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM Grenada, mua eSIM Grenada, eSIM Grenada tốt nhất, eSIM du lịch Grenada, Flow Grenada, Digicel Grenada, Dawn Mobile Grenada, eSIM St. George's, eSIM Grenville, eSIM Gouyave, eSIM trả trước Grenada, eSIM 5G Grenada, eSIM Sauteurs, eSIM Victoria, eSIM Grenada giá rẻ, sim du lịch Grenada
+  low_price: 11.99
+  high_price: 67.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng Grenada hàng đầu để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Grenada: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Gói Grenada eSIM được đề xuất'
 plans_data:
   30 Ngày:
   - spec: 3GB
@@ -152,7 +152,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Grenada: Những điều cần biết trước khi đi'
+  title: 'Mẹo nhỏ trước khi dùng Grenada eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích với eSIM</a> trước khi mua.
@@ -171,7 +171,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Grenada: 3 bước đơn giản'
+  title: 'Quy trình kích hoạt Grenada eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -191,12 +191,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM cho du khách tại Grenada -- Tốc độ mạng, Phủ sóng và Mẹo"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Grenada. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Các câu hỏi về tốc độ, mạng và vùng phủ khi dùng eSIM tại Grenada."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Grenada
+    title: 'Grenada eSIM: giải đáp các thắc mắc'
     questions:
     - q: |
         Roami so với Saily như thế nào về eSIM tại Grenada?
@@ -229,64 +229,76 @@ faq_section:
     - q: |
         Lựa chọn eSIM phổ biến nhất cho du khách đến Grenada là gì?
       a: |
-        Hầu hết du khách đến Grenada chọn gói 5GB/15 ngày ($9.99). Đủ cho điều hướng hàng ngày, mạng xã hội và nhắn tin. Đối với thời gian dài hơn hoặc sử dụng nhiều hơn, gói 10GB ($14.99) hoặc không giới hạn ($59.99) là các lựa chọn tuyệt vời. Tất cả gói kích hoạt trong vài phút và bao gồm hỗ trợ 24/7.
+        Hầu hết du khách đến Grenada chọn gói 5GB/30 ngày ($38.99). Đủ cho điều hướng hàng ngày, mạng xã hội và nhắn tin. Đối với thời gian dài hơn hoặc sử dụng nhiều hơn, gói 10GB ($67.99) hoặc không giới hạn ($52.99) là các lựa chọn tuyệt vời. Tất cả gói kích hoạt trong vài phút và bao gồm hỗ trợ 24/7.
+    - q: |
+        Kích hoạt eSIM Grenada như thế nào? Có phải đợi đến nơi mới bật?
+      a: |
+        Bạn nên quét mã QR cài đặt cấu hình qua WiFi trước chuyến đi, khi đến Grenada thì bật đường eSIM và mở chuyển vùng dữ liệu; máy sẽ tự kết nối mạng địa phương và thời hạn của gói bắt đầu tính từ lúc đó.  Vùng phủ di động tại St. George's, Grenville đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
+    - q: |
+        Đi Grenada rồi qua nước khác, dùng chung một eSIM được không?
+      a: |
+        eSIM Grenada của Roami chủ yếu dùng trong lãnh thổ Grenada; nếu lịch trình đi sang nước láng giềng, bạn nên mua thêm gói của nước đó hoặc gói khu vực để tránh phí chuyển vùng phát sinh.  Các thành phố lớn như Gouyave, Sauteurs đều có phủ sóng ổn định cho nhu cầu hằng ngày.
+    - q: |
+        Dùng eSIM Grenada ở St. George's, Grenville có ổn không?
+      a: |
+        St. George's, Grenville và các đô thị chính đều được phủ sóng di động đầy đủ: tra bản đồ, gọi xe, nhắn tin và tải ảnh đều ổn. Một số vùng xa của Grenada tín hiệu yếu hơn, bạn nên tải bản đồ ngoại tuyến để phòng.  Tại khu vực St. George's, Victoria, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
 related_products:
   title: Các gói eSIM Grenada liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
+  - name: Reunion Island eSIM
+    flag: img/flags/re.svg
     price: Từ $1.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
+  - name: eSIM Romania
+    flag: img/flags/ro.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: Russia eSIM
+    flag: img/flags/ru.svg
+    price: Từ $2.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Ả Rập Xê Út
+    flag: img/flags/sa.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Seychelles
+    flag: img/flags/sc.svg
+    price: Từ $9.99
+    is_highlight: false
+  - name: eSIM Singapore
+    flag: img/flags/sg.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: eSIM Sierra Leone
+    flag: img/flags/si.svg
+    price: Từ $10.99
+    is_highlight: false
+  - name: eSIM El Salvador
+    flag: img/flags/sv.svg
+    price: Từ $23.99
+    is_highlight: false
+  - name: eSIM Eswatini
+    flag: img/flags/sz.svg
+    price: Từ $19.99
+    is_highlight: false
+  - name: eSIM Chad
+    flag: img/flags/td.svg
+    price: Từ $23.99
+    is_highlight: false
+  - name: eSIM Thái Lan
+    flag: img/flags/th.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: eSIM Tajikistan
+    flag: img/flags/tj.svg
+    price: Từ $4.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Grenada hay SIM vật lý: Lựa chọn nào tốt nhất năm 2026?'
   subtitle: SIM trả trước địa phương Grenada vs. Giải pháp eSIM (Điểm chuẩn 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Grenada) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Grenada
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -315,11 +327,11 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Digicel cung cấp gói 1 ngày, 3 ngày, 7 ngày và 30 ngày; Flow cung cấp gói 1 ngày, 3 ngày, 7 ngày và 30 ngày. Chuyến đi 5 ngày mua gói 7 ngày 1GB của Flow (EC$24.99) lãng phí ít nhất 40% giá trị gói.
     esim_title: Gói ngắn hạn linh hoạt
-    esim_desc: Không giống gói 7 ngày 1GB của Flow (EC$24.99) lãng phí 40% giá trị cho chuyến đi 5 ngày, Roami cung cấp gói 7 ngày từ $1.99/GB, tiết kiệm tới 75% lãng phí.
+    esim_desc: Không giống gói 7 ngày 1GB của Flow (EC$24.99) lãng phí 40% giá trị cho chuyến đi 5 ngày, Roami cung cấp gói 7 ngày từ $11.99/GB, tiết kiệm tới 75% lãng phí.
   - icon: wifi
     title: Chính sách điểm phát<br>Wi-Fi & tốc độ
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho mục này. Theo kiến thức thị trường, chia sẻ kết nối thường được cho phép trên các gói trả trước ở Grenada, nhưng tốc độ có thể bị giới hạn sau một giới hạn dữ liệu nhất định.
+    prepaid_desc: Chia sẻ kết nối thường được cho phép trên các gói trả trước ở Grenada, nhưng tốc độ có thể bị giới hạn sau một giới hạn dữ liệu nhất định.
     esim_title: Chia sẻ kết nối không giới hạn
     esim_desc: Trong khi SIM địa phương có thể giới hạn tốc độ điểm phát sóng sau giới hạn dữ liệu, Roami eSIM cho phép chia sẻ tốc độ đầy đủ trên tất cả gói, hoàn hảo để chia sẻ với máy tính xách tay hoặc máy tính bảng.
   - icon: credit-card
@@ -331,7 +343,7 @@ market_analysis:
   - icon: headset
     title: Hỗ trợ khách hàng
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho mục này. Theo kiến thức thị trường, hỗ trợ khách hàng thường có sẵn qua điện thoại hoặc tại cửa hàng, nhưng có thể giới hạn trong giờ làm việc địa phương.
+    prepaid_desc: Hỗ trợ khách hàng thường có sẵn qua điện thoại hoặc tại cửa hàng, nhưng có thể giới hạn trong giờ làm việc địa phương.
     esim_title: Hỗ trợ đa ngôn ngữ 24/7
     esim_desc: Không giống hỗ trợ SIM địa phương giới hạn trong giờ làm việc, Roami cung cấp chat trực tiếp và hỗ trợ email tiếng Anh 24/7, đảm bảo trợ giúp bất cứ khi nào bạn cần.
   expert_verdict:

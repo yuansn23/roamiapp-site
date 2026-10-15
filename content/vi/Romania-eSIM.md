@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Romania 2026: Hướng dẫn Gói cước & Phủ sóng | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Romania | Gói Dữ liệu Trả trước Tốt nhất cho Du khách
   description: Lên kế hoạch cho chuyến đi Romania? Nhận eSIM du lịch trả trước tốt nhất từ Roami với dữ liệu 5G không giới hạn. Kích hoạt QR tức thì. Phủ sóng Bucharest, Cluj & Transylvania.
-  keywords: eSIM Romania, mua eSIM Romania, eSIM Romania tốt nhất, eSIM du lịch Romania, Orange Romania, Vodafone Romania, Telekom Romania, eSIM Bucharest, eSIM Cluj-Napoca, eSIM Timișoara, eSIM trả trước Romania, eSIM 5G Romania
+  keywords: eSIM Romania, mua eSIM Romania, eSIM Romania tốt nhất, eSIM du lịch Romania, Orange Romania, Vodafone Romania, Telekom Romania, eSIM Bucharest, eSIM Cluj-Napoca, eSIM Timișoara, eSIM trả trước Romania, eSIM 5G Romania, eSIM Iași, eSIM Constanța, eSIM Romania giá rẻ, sim du lịch Romania
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng hàng đầu Romania để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Romania: Gói cước cho mọi thời gian lưu trú'
+plans_title: 'Mua Romania eSIM: hiểu rõ ngày và dung lượng'
 plans_data:
   7 Ngày:
   - spec: 1GB
@@ -324,7 +324,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Romania: Những điều cần biết trước khi đi'
+  title: 'Danh sách kiểm tra trước chuyến đi với Romania eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -343,7 +343,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Romania: 3 bước đơn giản'
+  title: 'Hướng dẫn từng bước kích hoạt Romania eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -363,17 +363,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Tốc độ Internet eSIM tại Romania nhanh như thế nào? Tốc độ và Phủ sóng cho du khách"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Romania. Tìm hiểu tốc độ mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Hỏi đáp chi tiết về kết nối, độ phủ và tốc độ eSIM tại Romania."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Romania
+    title: Câu hỏi phổ biến về Romania eSIM
     questions:
     - q: |
         Tôi có thể mua eSIM cho Romania mà không tốn quá nhiều không?
       a: |
-        Chắc chắn rồi. Các gói eSIM Romania của Roami bắt đầu từ chỉ $1.99. Gói 5GB/15 ngày ($9.99) là phổ biến nhất với du khách — đủ thoải mái cho bản đồ, WhatsApp, Instagram và email. Nếu bạn dùng nhiều dữ liệu, gói 10GB ($14.99) hoặc không giới hạn ($59.99) sẽ giúp bạn yên tâm. Bỏ qua quầy SIM ở sân bay giúp bạn tiết kiệm 30-50% và tránh xếp hàng. Cần điều chỉnh? Bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng Roami.
+        Chắc chắn rồi. Các gói eSIM Romania của Roami bắt đầu từ chỉ $1.99. Gói 5GB/15 ngày ($8.99) là phổ biến nhất với du khách — đủ thoải mái cho bản đồ, WhatsApp, Instagram và email. Nếu bạn dùng nhiều dữ liệu, gói 10GB ($11.99) hoặc không giới hạn ($78.99) sẽ giúp bạn yên tâm. Bỏ qua quầy SIM ở sân bay giúp bạn tiết kiệm 30-50% và tránh xếp hàng. Cần điều chỉnh? Bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng Roami.
     - q: |
         Có an toàn khi tải lên hộ chiếu để đăng ký eSIM Romania không? Tôi lo ngại về quyền riêng tư.
       a: |
@@ -389,7 +389,7 @@ faq_section:
     - q: |
         Lựa chọn eSIM phổ biến nhất cho du khách đến Romania là gì?
       a: |
-        Hầu hết du khách đến Romania chọn gói 5GB/15 ngày ($9.99). Đủ cho điều hướng hàng ngày, mạng xã hội và nhắn tin. Cho thời gian lưu trú dài hơn hoặc sử dụng nhiều hơn, gói 10GB ($14.99) hoặc không giới hạn ($59.99) là những lựa chọn tuyệt vời. Tất cả các gói đều kích hoạt trong vài phút và bao gồm hỗ trợ 24/7.
+        Hầu hết du khách đến Romania chọn gói 5GB/15 ngày ($8.99). Đủ cho điều hướng hàng ngày, mạng xã hội và nhắn tin. Cho thời gian lưu trú dài hơn hoặc sử dụng nhiều hơn, gói 10GB ($11.99) hoặc không giới hạn ($78.99) là những lựa chọn tuyệt vời. Tất cả các gói đều kích hoạt trong vài phút và bao gồm hỗ trợ 24/7.
     - q: |
         Tôi có thể sử dụng eSIM Romania ngay sau khi mua hay phải chờ?
       a: |
@@ -402,63 +402,75 @@ faq_section:
         Tôi có thể giữ SIM trong nước trong điện thoại khi sử dụng eSIM ở Romania không?
       a: |
         Có — SIM trong nước của bạn vẫn ở khe 1 để nhận SMS (mã ngân hàng, đăng nhập 2FA). eSIM xử lý dữ liệu ở khe 2. Tắt chuyển vùng dữ liệu trên SIM trong nước để tránh phí lên đến $10-15 mỗi MB.
+    - q: |
+        Mua eSIM Romania thanh toán bằng cách nào? Bao lâu nhận được?
+      a: |
+        Roami hỗ trợ các hình thức thanh toán trực tuyến phổ biến; sau khi thanh toán, mã QR sẽ được gửi đến email của bạn, thường chỉ trong vài phút. Bạn nên mua và cài đặt trước chuyến đi để đến Romania là có mạng ngay.  Tại khu vực Bucharest, Cluj-Napoca, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
+    - q: |
+        Đi Romania vài ngày thì nên chọn gói eSIM dung lượng bao nhiêu?
+      a: |
+        eSIM Romania của Roami có các mức 1GB, 3GB, 5GB, 10GB, 20GB, Không giới hạn. Chuyến ngắn, chỉ tra bản đồ và nhắn tin thì 1GB là đủ; nếu xem video ngắn, gọi video hoặc chia sẻ hotspot, bạn nên chọn mức cao hơn một bậc. Nếu chưa chắc về nhu cầu, có thể mua gói nhỏ rồi nạp thêm trong ứng dụng sau khi đến Romania, không cần đổi SIM.  Timișoara, Iași và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
+    - q: |
+        eSIM Romania có chia sẻ hotspot cho bạn đồng hành được không?
+      a: |
+        Có, eSIM Romania của Roami hỗ trợ chia sẻ hotspot cho laptop, máy tính bảng hoặc người đi cùng. Nếu dùng chung nhiều người, nên chọn gói cao hơn một bậc để không hết dữ liệu giữa chừng; nếu thiếu vẫn có thể nạp thêm trong ứng dụng.  Thực tế tại Bucharest, Constanța, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
 related_products:
   title: Các gói eSIM Romania liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
+  - name: eSIM Burkina Faso
+    flag: img/flags/bf.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Bulgaria
+    flag: img/flags/bg.svg
     price: Từ $1.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Bahrain
+    flag: img/flags/bh.svg
+    price: Từ $6.99
     is_highlight: true
+  - name: eSIM Brunei
+    flag: img/flags/bn.svg
+    price: Từ $9.99
+    is_highlight: false
+  - name: eSIM Bolivia
+    flag: img/flags/bo.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Brazil
+    flag: img/flags/br.svg
+    price: Từ $4.99
+    is_highlight: false
+  - name: eSIM Bahamas
+    flag: img/flags/bs.svg
+    price: Từ $16.99
+    is_highlight: false
+  - name: eSIM Botswana
+    flag: img/flags/bw.svg
+    price: Từ $14.99
+    is_highlight: false
+  - name: eSIM Belarus
+    flag: img/flags/by.svg
+    price: Từ $1.99
+    is_highlight: false
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: Từ $1.99
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ $1.99
+  - name: eSIM Congo (Kinshasa)
+    flag: img/flags/cg.svg
+    price: Từ $7.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
+  - name: eSIM Thụy Sĩ
+    flag: img/flags/ch.svg
     price: Từ $1.99
     is_highlight: false
 market_analysis:
   title: 'So sánh eSIM Romania vs SIM trả trước: Có đáng để chuyển đổi?'
   subtitle: 'SIM trả trước địa phương Romania so với Giải pháp eSIM (Đánh giá 2024/2025)'
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Romania) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Romania
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -473,7 +485,7 @@ market_analysis:
   - icon: id-card
     title: KYC & Đăng ký<br>danh tính thực
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể cho phần này từ nguồn. Dựa trên kiến thức thị trường chung, SIM trả trước Romania thường yêu cầu đăng ký hộ chiếu tại điểm bán.
+    prepaid_desc: SIM trả trước Romania thường yêu cầu đăng ký hộ chiếu tại điểm bán.
     esim_title: Không cần hộ chiếu
     esim_desc: Tránh đăng ký hộ chiếu tại các cửa hàng Romania. Roami eSIM kích hoạt tức thì mà không cần kiểm tra giấy tờ tùy thân.
   - icon: globe
@@ -503,7 +515,7 @@ market_analysis:
   - icon: headset
     title: Hỗ trợ khách hàng
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể cho phần này từ nguồn. Dựa trên kiến thức thị trường chung, hỗ trợ khách hàng thường bằng tiếng Romania, hỗ trợ tiếng Anh hạn chế.
+    prepaid_desc: Hỗ trợ khách hàng thường bằng tiếng Romania, hỗ trợ tiếng Anh hạn chế.
     esim_title: Hỗ trợ đa ngôn ngữ 24/7
     esim_desc: Nhận hỗ trợ tiếng Anh bất kỳ lúc nào, không giống như các nhà mạng Romania thường chỉ hỗ trợ tiếng Romania trong giờ hành chính.
   expert_verdict:

@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Guadeloupe 2026: Hướng dẫn Thành phố & Mạng | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: 'eSIM Guadeloupe: Phủ sóng 5G, Không xác minh danh tính'
-  description: So sánh các gói eSIM Guadeloupe với 5G nhanh tại Pointe-à-Pitre, Basse-Terre, Le Gosier. Hướng dẫn phủ sóng Orange & SFR & Free Mobile cho khách du lịch. Kích hoạt mã QR tức thì từ $1.99.
-  keywords: eSIM Guadeloupe, mua eSIM Guadeloupe, eSIM Guadeloupe tốt nhất, eSIM du lịch Guadeloupe, Orange Guadeloupe, SFR Guadeloupe, Free Mobile Guadeloupe, eSIM Pointe-à-Pitre, eSIM Basse-Terre, eSIM Le Gosier, eSIM trả trước Guadeloupe, eSIM 5G Guadeloupe
-  low_price: 1.99
-  high_price: 39.9
+  description: So sánh các gói eSIM Guadeloupe với 5G nhanh tại Pointe-à-Pitre, Basse-Terre, Le Gosier. Hướng dẫn phủ sóng Orange & SFR & Free Mobile cho khách du lịch. Kích hoạt mã QR tức thì từ $8.99.
+  keywords: eSIM Guadeloupe, mua eSIM Guadeloupe, eSIM Guadeloupe tốt nhất, eSIM du lịch Guadeloupe, Orange Guadeloupe, SFR Guadeloupe, Free Mobile Guadeloupe, eSIM Pointe-à-Pitre, eSIM Basse-Terre, eSIM Le Gosier, eSIM trả trước Guadeloupe, eSIM 5G Guadeloupe, eSIM Sainte-Anne, eSIM Deshaies, eSIM Guadeloupe giá rẻ, sim du lịch Guadeloupe
+  low_price: 8.99
+  high_price: 64.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng Guadeloupe hàng đầu để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Guadeloupe: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Chọn nhanh gói Guadeloupe eSIM'
 plans_data:
   7 Ngày:
   - spec: 1GB
@@ -161,7 +161,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Guadeloupe: Những điều cần biết trước khi đi'
+  title: 'Hướng dẫn sử dụng Guadeloupe eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích với eSIM</a> trước khi mua.
@@ -180,7 +180,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Guadeloupe: 3 bước đơn giản'
+  title: 'Toàn bộ quy trình cài đặt Guadeloupe eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -200,12 +200,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Tốc độ Internet nào bạn có thể mong đợi với eSIM ở Guadeloupe?"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Guadeloupe. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Giải đáp thắc mắc về kết nối và độ phủ sóng eSIM tại Guadeloupe."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Guadeloupe
+    title: Thắc mắc cần biết về Guadeloupe eSIM
     questions:
     - q: |
         Roami so với Maya như thế nào về eSIM tại Guadeloupe?
@@ -234,60 +234,72 @@ faq_section:
     - q: |
         Nếu khách sạn của tôi ở Guadeloupe có Wi-Fi miễn phí — tôi vẫn cần dữ liệu eSIM không?
       a: |
-        Wi-Fi khách sạn hoạt động trong phòng nhưng không hoạt động khi bạn ra ngoài khám phá. eSIM cung cấp dữ liệu cho bạn ở mọi nơi — điều hướng đường phố, tìm kiếm địa điểm gần đó, kiểm tra lịch trình phương tiện công cộng. Gói 5GB có giá $9.99, thường rẻ hơn Wi-Fi khách sạn trả phí trong một tuần ($10-15 tại nhiều khách sạn). Hầu hết du khách sử dụng Wi-Fi khách sạn cho tải xuống lớn và eSIM cho kết nối khi di chuyển.
+        Wi-Fi khách sạn hoạt động trong phòng nhưng không hoạt động khi bạn ra ngoài khám phá. eSIM cung cấp dữ liệu cho bạn ở mọi nơi — điều hướng đường phố, tìm kiếm địa điểm gần đó, kiểm tra lịch trình phương tiện công cộng. Gói 5GB, thường rẻ hơn Wi-Fi khách sạn trả phí trong một tuần ($10-15 tại nhiều khách sạn). Hầu hết du khách sử dụng Wi-Fi khách sạn cho tải xuống lớn và eSIM cho kết nối khi di chuyển.
     - q: |
         Tôi đi Guadeloupe chỉ 2-3 ngày. Tôi nên mua eSIM nào?
       a: |
-        Đối với chuyến đi ngắn, gói 1GB/7 ngày ($1.99) đủ cho bản đồ và nhắn tin. Nếu bạn dự định sử dụng mạng xã hội và chia sẻ ảnh, gói 3GB ($4.99) sẽ thoải mái hơn. Cả hai đều kích hoạt tức thì và bạn có thể nạp thêm nếu cần.
+        Đối với chuyến đi ngắn, gói 1GB/7 ngày ($8.99) đủ cho bản đồ và nhắn tin. Nếu bạn dự định sử dụng mạng xã hội và chia sẻ ảnh, gói 3GB ($14.99) sẽ thoải mái hơn. Cả hai đều kích hoạt tức thì và bạn có thể nạp thêm nếu cần.
+    - q: |
+        eSIM Guadeloupe có những gói mấy ngày?
+      a: |
+        eSIM Guadeloupe của Roami có các lựa chọn 3/7/15/30 ngày, tùy theo độ dài hành trình. Chuyến trong ba ngày thì chọn mức ngắn là đủ; từ một tuần trở lên nên chọn gói dài hạn để chi phí mỗi ngày rẻ hơn.  Các thành phố lớn như Pointe-à-Pitre, Basse-Terre đều có phủ sóng ổn định cho nhu cầu hằng ngày.
+    - q: |
+        Dùng eSIM Guadeloupe gặp sự cố thì liên hệ ai?
+      a: |
+        Roami có hỗ trợ khách hàng trực tuyến. Nếu gặp lỗi kết nối tại Guadeloupe, bạn kiểm tra đường eSIM đã bật và chuyển vùng dữ liệu đã mở chưa; nếu vẫn chưa được thì liên hệ hỗ trợ, trường hợp đủ điều kiện có thể yêu cầu hoàn tiền.  Tại khu vực Le Gosier, Sainte-Anne, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
+    - q: |
+        eSIM Guadeloupe giá bao nhiêu? Có lựa chọn rẻ không?
+      a: |
+        Gói eSIM Guadeloupe của Roami bắt đầu từ $8.99 (7 ngày 1GB), cao nhất $64.99 (30 ngày 20GB). Chuyến ngắn dùng ít thì chọn gói nhập môn là đủ, khách dùng nhiều thì chọn mức cao hơn. Giá minh bạch, gói hết hạn tự kết thúc và không tự động gia hạn.  Pointe-à-Pitre, Deshaies và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
 related_products:
   title: Các gói eSIM Guadeloupe liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ $1.99
+  - name: eSIM El Salvador
+    flag: img/flags/sv.svg
+    price: Từ $23.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: eSIM Eswatini
+    flag: img/flags/sz.svg
+    price: Từ $19.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Chad
+    flag: img/flags/td.svg
+    price: Từ $23.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Thái Lan
+    flag: img/flags/th.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
+  - name: eSIM Tajikistan
+    flag: img/flags/tj.svg
+    price: Từ $4.99
+    is_highlight: false
+  - name: eSIM Tunisia
+    flag: img/flags/tn.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: Turkey eSIM
     flag: img/flags/tr.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
+  - name: Taiwan eSIM
+    flag: img/flags/tw.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
+  - name: eSIM Tanzania
+    flag: img/flags/tz.svg
+    price: Từ $7.99
+    is_highlight: false
+  - name: eSIM Ukraine
+    flag: img/flags/ua.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
+  - name: eSIM Uganda
+    flag: img/flags/ug.svg
+    price: Từ $7.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
+  - name: eSIM Mỹ
+    flag: img/flags/us.svg
     price: Từ $1.99
     is_highlight: false
 ---

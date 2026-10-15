@@ -1,6 +1,6 @@
 ---
 title: '關島 eSIM 2026: 方案與覆蓋 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,9 +17,8 @@ modal:
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
   title: "關島eSIM｜30天5G上網吃到飽，跨國旅行不斷網"
-  description: "去關島商務出差需要穩定網路？Roami 30天5G高速上網吃到飽方案商務出差首選。視訊會議郵件收發都順暢不斷線，商務eSIM推薦出差必備，最低$1.99起超值價格。"
-  keywords: 關島 eSIM, 關島 eSIM方案, 最佳關島 eSIM, 關島上網, Docomo Pacific 關島, GTA 關島, IT&E 關島, 哈加特納 eSIM, 杜夢灣 eSIM, 塔穆寧 eSIM, 關島行動網路,
-    5G 關島
+  description: "去關島商務出差需要穩定網路？Roami 30天5G高速上網吃到飽方案商務出差首選。視訊會議郵件收發都順暢不斷線，商務eSIM推薦出差必備，最低$9.99起超值價格。"
+  keywords: 關島 eSIM, eSIM 關島, 關島 eSIM 購買, 最佳關島 eSIM, 關島 上網, Docomo Pacific 關島, GTA 關島, IT&E 關島, 哈加特納 eSIM, 杜夢灣 eSIM, 塔穆寧 eSIM, 德德多 eSIM, 阿加尼亞 eSIM, 關島 eSIM 方案, 關島 5G eSIM, 關島 eSIM 預付卡
 order_summary:
   title: 選擇 關島 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線關島最佳電信商，取得最強訊號
-plans_title: 購買關島 eSIM：適合各種旅程的方案
+plans_title: 關島 eSIM：彈性天數與流量方案
 plans_data:
   30 天:
   - spec: 3GB
@@ -166,7 +165,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 關島 eSIM秘訣：出發前須知
+  title: 出發前必看：關島 eSIM 小撇步
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -195,7 +194,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 關島 eSIM啟用：3個簡單步驟
+  title: 關島 eSIM 開通3步驟
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 關島 做好準備
@@ -230,7 +229,7 @@ faq_section:
     title: 關島 eSIM DoCoMo Pacific網路品質與速度指南｜4G/5G覆蓋範圍
     questions:
     - q: 去關島自由行的話，辦eSIM上網大概要花多少錢？
-      a: Roami 關島 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。DoCoMo Pacific在關島市區5G網速約100-300Mbps，看1080p影片沒問題。去關島機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到關島後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 關島 eSIM方案從$9.99（7天1GB）起，最高$88.99（15天無限）。一般旅客買最多的是1GB/7天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選3GB以上比較夠。DoCoMo Pacific在關島市區5G網速約100-300Mbps，看1080p影片沒問題。去關島機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到關島後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 看到有人說關島的DoCoMo Pacific在市區很快、GTA在郊區很廣，真的是這樣嗎？
       a: 關島主要有DoCoMo Pacific、GTA、IT&E。DoCoMo Pacific市區下載快、基地台密集。GTA郊區覆蓋廣，會去郊區的話選GTA路線較有保障。IT&E價格親民，適合預算有限的旅客。關島4G/5G，覆蓋良好。不過Roami會自動切換到當前訊號最強的網路。市區用DoCoMo Pacific，移動到郊區若DoCoMo Pacific訊號變弱就自動跳GTA或IT&E，完全不用手動選。
     - q: 如果出發前忘記先辦好關島eSIM的認證，到當地才弄來得及嗎？
@@ -238,70 +237,76 @@ faq_section:
     - q: 關島的外島或離島地區，eSIM的收訊狀況怎麼樣？
       a: 關島的DoCoMo Pacific等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。關島4G/5G，覆蓋良好。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 跟旅伴一起去關島，買一張eSIM開熱點分享夠兩個人用嗎？
-      a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
+      a: Roami eSIM支援熱點分享。多人建議選3GB以上方案。不確定先買中階再App加購。
     - q: 出國去關島用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
       a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到關島開數據漫遊就用。
+    - q: 關島 eSIM 有幾天份的方案可以選？
+      a: Roami 關島 eSIM 提供 3/7/15/30 天等選擇，可依行程長短挑選。三天內的短程選入門天數就夠，一週以上建議直接挑長效期方案，單日成本更划算。 另外，哈加特納、杜夢灣 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
+    - q: 在關島使用eSIM遇到問題，可以找誰幫忙？
+      a: Roami 提供線上客服協助。若在 關島 遇到連線異常，可先確認 eSIM 線路已開啟、數據漫遊已打開；仍無法解決再聯繫客服，符合條件可申請退款。 在 塔穆寧、德德多 一帶實測收訊良好，移動中會自動切換基地台。
+    - q: 關島 eSIM 大概多少錢？有便宜的選擇嗎？
+      a: Roami 關島 eSIM 方案從 $9.99（7天1GB）起，最高 $88.99（15天無限）。短期輕度使用挑入門方案即可，用量大的旅客再選高規格。價格透明，方案到期自動失效，不會續約扣款。 哈加特納、阿加尼亞 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
 related_products:
-  title: 類似 關島 eSIM 的旅行方案
+  title: 搭配 關島 的跨國 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 阿根廷 eSIM
+    flag: img/flags/ar.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: argentina-esim
+  - name: 波札那 eSIM
+    flag: img/flags/bw.svg
+    price: 自 $14.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: botswana-esim
+  - name: 烏茲別克 eSIM
+    flag: img/flags/uz.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: uzbekistan-esim
+  - name: 葡萄牙 eSIM
+    flag: img/flags/pt.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: portugal-esim
+  - name: 約旦 eSIM
+    flag: img/flags/jo.svg
+    price: 自 $6.99
     is_highlight: false
-    slug: malaysia-esim
+    slug: jordan-esim
+  - name: 亞塞拜然 eSIM
+    flag: img/flags/az.svg
+    price: 自 $6.99
+    is_highlight: false
+    slug: azerbaijan-esim
+  - name: 台灣 eSIM
+    flag: img/flags/tw.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: taiwan-esim
+  - name: 阿爾巴尼亞 eSIM
+    flag: img/flags/al.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: albania-esim
+  - name: 西班牙 eSIM
+    flag: img/flags/es.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: spain-esim
   - name: 美國 eSIM
     flag: img/flags/us.svg
-    price: От 1,99 $
-    is_highlight: false
+    price: 自 $1.99
+    is_highlight: true
     slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+  - name: 拉脫維亞 eSIM
+    flag: img/flags/lv.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: latvia-esim
+  - name: 多米尼克 eSIM
+    flag: img/flags/dm.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: philippines-esim
+    slug: dominica-esim
 ---

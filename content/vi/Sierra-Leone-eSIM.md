@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Sierra Leone 2026: Hướng dẫn Du lịch Đầy đủ | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Africell, Sierratel, Orange SL
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Freetown, Bo, Kenema, Makeni, Koidu
-  main_packages: 3/7/15/30 Ngày, Dữ liệu không giới hạn
+  main_packages: 3/7/15/30 Ngày, Nhiều mức dữ liệu
 modal:
   title: Dịch vụ đã được nâng cấp!
   btn_text: Tiếp tục
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: 'eSIM Sierra Leone: Phủ sóng Africell & Sierratel'
-  description: So sánh các gói eSIM Sierra Leone với 5G nhanh tại Freetown, Bo, Kenema. Hướng dẫn phủ sóng Africell, Sierratel & Orange SL cho khách du lịch. Kích hoạt QR tức thì từ $1.99.
-  keywords: eSIM Sierra Leone, mua eSIM Sierra Leone, eSIM Sierra Leone tốt nhất, eSIM du lịch Sierra Leone, Africell Sierra Leone, Sierratel Sierra Leone, Orange SL Sierra Leone, eSIM Freetown, eSIM Bo, eSIM Kenema, eSIM trả trước Sierra Leone, eSIM 5G Sierra Leone
-  low_price: 1.99
-  high_price: 39.9
+  description: So sánh các gói eSIM Sierra Leone với 5G nhanh tại Freetown, Bo, Kenema. Hướng dẫn phủ sóng Africell, Sierratel & Orange SL cho khách du lịch. Kích hoạt QR tức thì từ $10.99.
+  keywords: eSIM Sierra Leone, mua eSIM Sierra Leone, eSIM Sierra Leone tốt nhất, eSIM du lịch Sierra Leone, Africell Sierra Leone, Sierratel Sierra Leone, Orange SL Sierra Leone, eSIM Freetown, eSIM Bo, eSIM Kenema, eSIM trả trước Sierra Leone, eSIM 5G Sierra Leone, eSIM Makeni, eSIM Koidu, eSIM Sierra Leone giá rẻ, sim du lịch Sierra Leone
+  low_price: 10.99
+  high_price: 33.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với các nhà mạng hàng đầu Sierra Leone để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Sierra Leone: Gói cho mọi thời gian chuyến đi'
+plans_title: 'Sierra Leone eSIM: từ chuyến ngắn đến lưu trú dài'
 plans_data:
   30 Ngày:
   - spec: 5GB
@@ -135,7 +135,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Sierra Leone: Những điều cần biết trước khi đi'
+  title: 'Điểm cần lưu ý khi dùng Sierra Leone eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -154,7 +154,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Sierra Leone: 3 bước đơn giản'
+  title: 'Hoàn tất kích hoạt Sierra Leone eSIM trong 3 bước'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -174,12 +174,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Internet eSIM tại Sierra Leone nhanh như thế nào? Tốc độ và phủ sóng cho du khách"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Sierra Leone. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Hỏi đáp về eSIM Sierra Leone - tốc độ, độ phủ và mẹo kết nối."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Sierra Leone
+    title: Câu hỏi thường gặp khi mua Sierra Leone eSIM
     questions:
     - q: |
         Mạng nào tại Sierra Leone có phủ sóng tốt nhất cho du khách — Sierratel, Orange hay Africell?
@@ -213,55 +213,67 @@ faq_section:
         Một du khách điển hình thường sử dụng bao nhiêu dữ liệu mỗi ngày ở Sierra Leone?
       a: |
         Lượng sử dụng trung bình hàng ngày cho hầu hết khách du lịch: 300-500MB cho bản đồ và nhắn tin, lên đến 1GB nếu bạn sử dụng mạng xã hội nhiều. Cho chuyến đi một tuần, 5GB là thoải mái. Cho hai tuần, hãy chọn 10GB. Roami giúp bạn dễ dàng nạp thêm nếu sắp hết.
+    - q: |
+        Africell và Sierratel ở Sierra Leone, dùng eSIM mạng nào tốt hơn?
+      a: |
+        Sierra Leone có các nhà mạng chính như Africell, Sierratel. Roami tự động chọn mạng có tín hiệu mạnh nhất tại thời điểm đó và chuyển đổi giữa Africell và Sierratel mà bạn không cần cấu hình thủ công. Nếu lịch trình đi ra vùng ngoại ô hoặc đảo xa, nên tải bản đồ ngoại tuyến trước cho chắc.  Tại khu vực Freetown, Bo, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
+    - q: |
+        eSIM Sierra Leone có những gói mấy ngày?
+      a: |
+        eSIM Sierra Leone của Roami có các lựa chọn 7/30 ngày, tùy theo độ dài hành trình. Chuyến trong ba ngày thì chọn mức ngắn là đủ; từ một tuần trở lên nên chọn gói dài hạn để chi phí mỗi ngày rẻ hơn.  Kenema, Makeni và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
+    - q: |
+        Đi Sierra Leone rồi qua nước khác, dùng chung một eSIM được không?
+      a: |
+        eSIM Sierra Leone của Roami chủ yếu dùng trong lãnh thổ Sierra Leone; nếu lịch trình đi sang nước láng giềng, bạn nên mua thêm gói của nước đó hoặc gói khu vực để tránh phí chuyển vùng phát sinh.  Thực tế tại Freetown, Koidu, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
 related_products:
   title: Các gói eSIM liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ $1.99
+  - name: eSIM Guatemala
+    flag: img/flags/gt.svg
+    price: Từ $11.99
     is_highlight: false
-  - name: eSIM Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: eSIM Guam
+    flag: img/flags/gu.svg
+    price: Từ $9.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Guyana
+    flag: img/flags/gy.svg
+    price: Từ $9.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
-    is_highlight: false
   - name: eSIM Hồng Kông
     flag: img/flags/hk.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
+  - name: eSIM Honduras
+    flag: img/flags/hn.svg
+    price: Từ $6.99
+    is_highlight: false
+  - name: eSIM Croatia
+    flag: img/flags/hr.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
+  - name: eSIM Hungary
+    flag: img/flags/hu.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
+  - name: eSIM Indonesia
+    flag: img/flags/id.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
+  - name: eSIM Ireland
+    flag: img/flags/ie.svg
     price: Từ $1.99
+    is_highlight: false
+  - name: eSIM Israel
+    flag: img/flags/il.svg
+    price: Từ $2.99
+    is_highlight: false
+  - name: eSIM Ấn Độ
+    flag: img/flags/in.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Iraq
+    flag: img/flags/iq.svg
+    price: Từ $9.99
     is_highlight: false
 ---

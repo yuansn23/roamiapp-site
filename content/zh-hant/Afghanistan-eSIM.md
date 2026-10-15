@@ -1,6 +1,6 @@
 ---
 title: '阿富汗 eSIM 2026: 覆蓋範圍與速度 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -16,10 +16,9 @@ modal:
   text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: '阿富汗eSIM｜5G上網吃到飽，最低$1.99起'
-  description: 比較阿富汗 eSIM方案，喀布爾, 坎大哈, 赫拉特等地5G高速上網。Afghan Wireless & Roshan & Etisalat Afghanistan覆蓋指南。即時QR啟用，起價$1.99。
-  keywords: 阿富汗 eSIM, 阿富汗 eSIM方案, 最佳阿富汗 eSIM, 阿富汗上網, Afghan Wireless 阿富汗, Roshan 阿富汗, Etisalat Afghanistan 阿富汗, 喀布爾 eSIM,
-    坎大哈 eSIM, 赫拉特 eSIM, 阿富汗行動網路, 5G 阿富汗
+  title: '阿富汗eSIM｜5G上網吃到飽，最低$11.99起'
+  description: 比較阿富汗 eSIM方案，喀布爾, 坎大哈, 赫拉特等地5G高速上網。Afghan Wireless & Roshan & Etisalat Afghanistan覆蓋指南。即時QR啟用，起價$11.99。
+  keywords: 阿富汗 eSIM, eSIM 阿富汗, 阿富汗 eSIM 購買, 最佳阿富汗 eSIM, 阿富汗 上網, Afghan Wireless 阿富汗, Roshan 阿富汗, Etisalat Afghanistan 阿富汗, 喀布爾 eSIM, 坎大哈 eSIM, 赫拉特 eSIM, 巴米揚 eSIM, 馬扎里沙里夫 eSIM, 阿富汗 eSIM 方案, 阿富汗 5G eSIM, 阿富汗 eSIM 預付卡
 order_summary:
   title: 選擇 阿富汗 eSIM
   label_data: 數據量
@@ -206,7 +205,7 @@ faq_section:
     title: 阿富汗 eSIM 網速與電信商介紹｜5G/4G涵蓋範圍
     questions:
     - q: 去阿富汗想辦eSIM但又怕買貴，大概多少預算才夠？
-      a: Roami 阿富汗 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。阿富汗以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去阿富汗機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到阿富汗後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 阿富汗 eSIM方案從$11.99（7天1GB）起，最高$52.99（3天無限）。一般旅客買最多的是1GB/7天（$11.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選3GB以上比較夠。阿富汗以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去阿富汗機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到阿富汗後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 阿富汗三大電信Roshan、MTN、Salaam，一般觀光客選哪家比較適合？
       a: 阿富汗主要有Roshan、MTN、Salaam。Roshan市區下載快、基地台密集。MTN郊區覆蓋廣，會去郊區的話選MTN路線較有保障。Salaam價格親民，適合預算有限的旅客。阿富汗以4G為主，主要城市覆蓋有限。不過Roami會自動切換到當前訊號最強的網路。市區用Roshan，移動到郊區若Roshan訊號變弱就自動跳MTN或Salaam，完全不用手動選。
     - q: 有人說去阿富汗辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
@@ -214,70 +213,76 @@ faq_section:
     - q: 阿富汗主要市區和偏遠鄉村的網路覆蓋差距大嗎？
       a: 阿富汗的Roshan等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。阿富汗以4G為主，主要城市覆蓋有限。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 去阿富汗旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
-      a: Roami 阿富汗 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
+      a: Roami 阿富汗 eSIM方案從$11.99（7天1GB）起，最高$52.99（3天無限）。一般選1GB/7天（$11.99）最熱門，不夠再到App加購。
     - q: 阿富汗eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
       a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
+    - q: 去阿富汗玩幾天，該挑多大的eSIM規格才夠用？
+      a: Roami 阿富汗 eSIM 有 1GB、3GB、5GB、無限 等規格可選。短天數、只查地圖傳訊息的輕度使用，1GB 就夠；如果會看短影片、視訊通話或開熱點分享，建議再往上加一級。用量抓不準可以先買小的，到 阿富汗 後在 App 加購即可，不用換卡。 另外，喀布爾、坎大哈 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
+    - q: 阿富汗 eSIM 要怎麼啟用？要抵達當地才開嗎？
+      a: 建議出發前先用 WiFi 掃描 QR code 安裝描述檔，抵達 阿富汗 後再開啟 eSIM 線路並打開數據漫遊，連上當地網路就會自動啟用，方案效期也從那時開始計算。 在 赫拉特、巴米揚 一帶實測收訊良好，移動中會自動切換基地台。
+    - q: 抵達阿富汗機場後就能馬上上網嗎？
+      a: 可以。只要出發前先安裝好 eSIM，落地後關閉飛航模式、開啟 eSIM 線路，通常幾十秒內就能連上當地網路，不用在機場排隊買實體 SIM 卡。 喀布爾、馬扎里沙里夫 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
 related_products:
-  title: 類似 阿富汗 eSIM 的旅行方案
+  title: 相關 eSIM 方案推薦
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 塞爾維亞 eSIM
+    flag: img/flags/rs.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: serbia-esim
+  - name: 奧地利 eSIM
+    flag: img/flags/at.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: austria-esim
+  - name: 哈薩克 eSIM
+    flag: img/flags/kz.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: kazakhstan-esim
+  - name: 薩爾瓦多 eSIM
+    flag: img/flags/sv.svg
+    price: 自 $23.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: el-salvador-esim
+  - name: 德國 eSIM
+    flag: img/flags/de.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: germany-esim
+  - name: 蒙古 eSIM
+    flag: img/flags/mn.svg
+    price: 自 $9.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/eu.svg
-    price: От 1,99 $
+    slug: mongolia-esim
+  - name: 吉爾吉斯 eSIM
+    flag: img/flags/kg.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: europe-esim
+    slug: kyrgyzstan-esim
   - name: 澳洲 eSIM
     flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
+    price: 自 $1.99
+    is_highlight: true
     slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+  - name: 紐西蘭 eSIM
+    flag: img/flags/nz.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+    slug: new-zealand-esim
+  - name: 葡萄牙 eSIM
+    flag: img/flags/pt.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: portugal-esim
+  - name: 法屬圭亞那 eSIM
+    flag: img/flags/gf.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: philippines-esim
+    slug: french-guiana-esim
+  - name: 奈及利亞 eSIM
+    flag: img/flags/ng.svg
+    price: 自 $5.99
+    is_highlight: false
+    slug: nigeria-esim
 ---

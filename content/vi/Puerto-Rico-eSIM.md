@@ -1,6 +1,6 @@
 ---
 title: 'Puerto Rico eSIM 2026: Hướng dẫn Nhà mạng & Phủ sóng | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Claro Puerto Rico, Liberty Puerto Rico, T-Mobile Puerto Rico
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: San Juan, Ponce, Mayagüez, Caguas, Carolina
-  main_packages: 3/7/15/30 Ngày, Dữ liệu Không giới hạn
+  main_packages: 3/7/15/30 Ngày, Nhiều mức dữ liệu
 modal:
   title: Dịch vụ đã được nâng cấp!
   btn_text: Tiếp tục
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: Puerto Rico eSIM | Gói Dữ liệu trả trước 5G cho Du khách
-  description: Khám phá Puerto Rico với eSIM du lịch trả trước tốt nhất từ Roami. Dữ liệu 5G không giới hạn trên toàn đảo. Phủ sóng San Juan, Ponce. Kích hoạt tức thì.
-  keywords: Puerto Rico eSIM, mua Puerto Rico eSIM, Puerto Rico eSIM tốt nhất, Puerto Rico travel eSIM, Claro Puerto Rico, Liberty Puerto Rico, T-Mobile Puerto Rico, San Juan eSIM, Ponce eSIM, Mayagüez eSIM, Puerto Rico prepaid eSIM, 5G Puerto Rico eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: Khám phá Puerto Rico với eSIM du lịch trả trước tốt nhất từ Roami. Dữ liệu 5G tốc độ cao trên toàn đảo. Phủ sóng San Juan, Ponce. Kích hoạt tức thì.
+  keywords: Puerto Rico eSIM, mua Puerto Rico eSIM, Puerto Rico eSIM tốt nhất, eSIM du lịch Puerto Rico, Claro Puerto Rico Puerto Rico, Liberty Puerto Rico Puerto Rico, T-Mobile Puerto Rico Puerto Rico, eSIM San Juan, eSIM Ponce, eSIM Mayagüez, eSIM trả trước Puerto Rico, eSIM 5G Puerto Rico, eSIM Caguas, eSIM Carolina, Puerto Rico eSIM giá rẻ, sim du lịch Puerto Rico
+  low_price: 6.99
+  high_price: 64.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động Chuyển mạng
     desc: Tự động kết nối với các nhà mạng hàng đầu Puerto Rico để có tín hiệu tốt nhất
-plans_title: 'Mua Puerto Rico eSIM: Gói cho Mọi Thời gian Chuyến đi'
+plans_title: 'Tổng quan gói dữ liệu Puerto Rico eSIM'
 plans_data:
   7 Ngày:
   - spec: 1GB
@@ -179,7 +179,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo Thiết lập Puerto Rico eSIM: Những điều Cần Biết Trước Khi Đi'
+  title: 'Mẹo thực tế cho Puerto Rico eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích với eSIM</a> trước khi mua.
@@ -198,7 +198,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách Cài đặt Puerto Rico eSIM: 3 Bước Đơn giản'
+  title: 'Giải thích các bước thiết lập Puerto Rico eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận Mã QR'
@@ -218,12 +218,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Tốc độ Internet eSIM tại Puerto Rico nhanh như thế nào? Tốc độ và Phủ sóng cho Du khách"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Puerto Rico. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Giải đáp về độ phủ sóng và tốc độ internet của eSIM tại Puerto Rico."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về Puerto Rico eSIM
+    title: Giải đáp nhanh Puerto Rico eSIM
     questions:
     - q: |
         Mạng nào ở Puerto Rico có phủ sóng tốt nhất cho du khách — Claro, AT&T hay T-Mobile?
@@ -257,55 +257,67 @@ faq_section:
         Tôi phải làm gì nếu vô tình xóa Puerto Rico eSIM trước chuyến đi?
       a: |
         Không vấn đề gì. Đăng nhập vào tài khoản Roami của bạn để tải lại mã QR — mất khoảng 1 phút. Chúng tôi khuyên bạn nên lưu dưới dạng ảnh chụp màn hình hoặc PDF khi nhận lần đầu, phòng trường hợp.
+    - q: |
+        eSIM Puerto Rico có chia sẻ hotspot cho bạn đồng hành được không?
+      a: |
+        Có, eSIM Puerto Rico của Roami hỗ trợ chia sẻ hotspot cho laptop, máy tính bảng hoặc người đi cùng. Nếu dùng chung nhiều người, nên chọn gói cao hơn một bậc để không hết dữ liệu giữa chừng; nếu thiếu vẫn có thể nạp thêm trong ứng dụng.  Dù ở San Juan, Ponce hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
+    - q: |
+        Đến sân bay ở Puerto Rico là dùng được internet ngay chứ?
+      a: |
+        Được. Chỉ cần cài eSIM trước, sau khi hạ cánh tắt chế độ máy bay và bật đường eSIM, thường chỉ vài chục giây là kết nối được mạng địa phương, không cần xếp hàng mua SIM vật lý ở sân bay Puerto Rico.  Vùng phủ di động tại Mayagüez, Caguas đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
+    - q: |
+        Claro Puerto Rico và Liberty Puerto Rico ở Puerto Rico, dùng eSIM mạng nào tốt hơn?
+      a: |
+        Puerto Rico có các nhà mạng chính như Claro Puerto Rico, Liberty Puerto Rico. Roami tự động chọn mạng có tín hiệu mạnh nhất tại thời điểm đó và chuyển đổi giữa Claro Puerto Rico và Liberty Puerto Rico mà bạn không cần cấu hình thủ công. Nếu lịch trình đi ra vùng ngoại ô hoặc đảo xa, nên tải bản đồ ngoại tuyến trước cho chắc.  Các thành phố lớn như San Juan, Carolina đều có phủ sóng ổn định cho nhu cầu hằng ngày.
 related_products:
   title: Gói eSIM Liên quan
   items:
-  - name: eSIM Hoa Kỳ
+  - name: eSIM Uganda
+    flag: img/flags/ug.svg
+    price: Từ $7.99
+    is_highlight: false
+  - name: eSIM Mỹ
     flag: img/flags/us.svg
     price: Từ $1.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: Uruguay eSIM
+    flag: img/flags/uy.svg
+    price: Từ $11.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Uzbekistan
+    flag: img/flags/uz.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: eSIM Thành Vatican
+    flag: img/flags/va.svg
+    price: Từ $10.99
+    is_highlight: false
+  - name: Vietnam eSIM
+    flag: img/flags/vn.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
+  - name: eSIM Kosovo
+    flag: img/flags/xk.svg
+    price: Từ $13.99
+    is_highlight: false
+  - name: eSIM Đông Nam Á
+    flag: img/flags/ya.webp
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
+  - name: eSIM Andorra
+    flag: img/flags/ad.svg
+    price: Từ $6.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
+  - name: UAE eSIM
+    flag: img/flags/ae.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
+  - name: eSIM Afghanistan
+    flag: img/flags/af.svg
+    price: Từ $11.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
+  - name: eSIM Albania
+    flag: img/flags/al.svg
     price: Từ $1.99
     is_highlight: false
 ---

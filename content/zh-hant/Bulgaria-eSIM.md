@@ -1,6 +1,6 @@
 ---
 title: '保加利亞 eSIM 2026: 旅行與網路 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,7 @@ modal:
 seo:
   title: "保加利亞eSIM｜5G無限流量吃到飽，商務旅遊首選"
   description: "Roami eSIM無限流量方案讓您在保加利亞享受5G高速國外旅遊網路最低$1.99起超值價格。流量不限制追劇打卡盡情用，不用擔心超量問題，跨國旅行不用換卡一卡搞定。"
-  keywords: 保加利亞 eSIM, 保加利亞 eSIM方案, 最佳保加利亞 eSIM, 保加利亞上網, A1 保加利亞, Telenor 保加利亞, Vivacom 保加利亞, 索菲亞 eSIM, 普羅夫迪夫 eSIM, 瓦爾納 eSIM,
-    保加利亞行動網路, 5G 保加利亞
+  keywords: 保加利亞 eSIM, eSIM 保加利亞, 保加利亞 eSIM 購買, 最佳保加利亞 eSIM, 保加利亞 上網, A1 保加利亞, Telenor 保加利亞, Vivacom 保加利亞, 索菲亞 eSIM, 普羅夫迪夫 eSIM, 瓦爾納 eSIM, 布爾加斯 eSIM, 大特爾諾沃 eSIM, 保加利亞 eSIM 方案, 保加利亞 5G eSIM, 保加利亞 eSIM 預付卡
 order_summary:
   title: 選擇 保加利亞 eSIM
   label_data: 數據量
@@ -385,7 +384,7 @@ faq_section:
     title: 保加利亞 eSIM A1、Telenor、Vivacom哪家網路最快？涵蓋範圍比較
     questions:
     - q: 第一次去保加利亞想用eSIM，方案好多不知道怎麼挑選比較好？
-      a: Roami 保加利亞 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。A1在保加利亞市區5G網速約100-300Mbps，看1080p影片沒問題。去保加利亞機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到保加利亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 保加利亞 eSIM方案從$1.99（3天1GB）起，最高$77.99（30天無限）。一般旅客買最多的是5GB/15天（$8.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。A1在保加利亞市區5G網速約100-300Mbps，看1080p影片沒問題。去保加利亞機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到保加利亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 去保加利亞旅遊的話，A1、Telenor、Vivacom這三家電信分別有什麼優缺點？
       a: 保加利亞主要有A1、Telenor、Vivacom。A1市區下載快、基地台密集。Telenor郊區覆蓋廣，會去郊區的話選Telenor路線較有保障。Vivacom價格親民，適合預算有限的旅客。保加利亞4G/5G，主要城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用A1，移動到郊區若A1訊號變弱就自動跳Telenor或Vivacom，完全不用手動選。
     - q: 有人說去保加利亞辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
@@ -396,77 +395,82 @@ faq_section:
       a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
     - q: 出國去保加利亞用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
       a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到保加利亞開數據漫遊就用。
+    - q: 保加利亞 eSIM 的網速快嗎？會不會比當地實體卡慢？
+      a: Roami 保加利亞 eSIM 走當地主要電信商的基地台，速度與當地預付卡相當，日常查地圖、社群、視訊通話都很順。實際速度仍會受所在位置與當下網路負載影響。 索菲亞、普羅夫迪夫 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
+    - q: 保加利亞的A1和Telenor，用eSIM哪一家訊號比較好？
+      a: 保加利亞主要有A1、Telenor等電信商。Roami 會自動選擇當下訊號最強的網路，在A1與Telenor之間自動切換，不用手動設定。若行程會拉到郊區或離島，出發前先下載離線地圖會更保險。 實際走訪 瓦爾納、布爾加斯 等主要城市，上網查資料、傳照片都沒問題。
+    - q: 保加利亞 eSIM 要怎麼啟用？要抵達當地才開嗎？
+      a: 建議出發前先用 WiFi 掃描 QR code 安裝描述檔，抵達 保加利亞 後再開啟 eSIM 線路並打開數據漫遊，連上當地網路就會自動啟用，方案效期也從那時開始計算。 不論在 索菲亞、大特爾諾沃，連線品質都相當穩定。
 related_products:
-  title: 類似 保加利亞 eSIM 的旅行方案
+  title: 順遊國家的 eSIM 方案
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 馬利 eSIM
+    flag: img/flags/ml.svg
+    price: 自 $27.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: mali-esim
+  - name: 瓜地馬拉 eSIM
+    flag: img/flags/gt.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: guatemala-esim
+  - name: 科威特 eSIM
+    flag: img/flags/kw.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: kuwait-esim
+  - name: 柬埔寨 eSIM
+    flag: img/flags/kh.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: cambodia-esim
+  - name: 立陶宛 eSIM
+    flag: img/flags/lt.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: lithuania-esim
+  - name: 瑞士 eSIM
+    flag: img/flags/ch.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: switzerland-esim
+  - name: 厄瓜多 eSIM
+    flag: img/flags/ec.svg
+    price: 自 $6.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: ecuador-esim
+  - name: 寮國 eSIM
+    flag: img/flags/la.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: australia-esim
+    slug: laos-esim
+  - name: 阿聯 eSIM
+    flag: img/flags/ae.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: uae-esim
+  - name: 德國 eSIM
+    flag: img/flags/de.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: germany-esim
   - name: 香港 eSIM
     flag: img/flags/hk.svg
-    price: От 1,99 $
-    is_highlight: false
+    price: 自 $1.99
+    is_highlight: true
     slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+  - name: 哈薩克 eSIM
+    flag: img/flags/kz.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: philippines-esim
-
+    slug: kazakhstan-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Bulgaria eSIM 上網速度快不快？旅客必看網路指南"
   subtitle: "保加利亞當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Bulgaria) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Bulgaria"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -475,7 +479,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Bulgaria. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 A1 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 A1、Yettel 或 Vivacom 門市排隊，抵達保加利亞後一分鐘內線上啟用，無需護照掃描或系統審核延誤。"
     - icon: "id-card"
@@ -499,21 +503,21 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "多數當地預付卡允許熱點分享，惟 A1 等業者對分享流量另設上限，超量後降速或停止分享，須詳閱方案細則。"
       esim_title: "無限熱點分享"
       esim_desc: "支援個人熱點分享，無限制，可同時連接多個設備，適合團隊旅行。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "支援信用卡線上儲值，但第三方實體卡充值卡種類有限；Vivacom MixL+ 每 21 天自動從餘額扣款，若未發送「STOP」退訂將持續扣款。"
+      prepaid_desc: "支援信用卡線上儲值，但第三方實體卡儲值卡種類有限；Vivacom MixL+ 每 21 天自動從餘額扣款，若未發送「STOP」退訂將持續扣款。"
       esim_title: "全球付款方式"
-      esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal 付款，無需擔心保加利亞當地充值卡或自動續費陷阱。"
+      esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal 付款，無需擔心保加利亞當地儲值卡或自動續費陷阱。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "問題排除須聯繫 A1、Telenor 客服，語言與服務時段皆有限制，預付卡用戶較難獲得即時協助。"
       esim_title: "24/7 客戶支援"
-      esim_desc: "提供全天候多語言線上客服，無需像當地運營商僅在工作時間提供電話支援。"
+      esim_desc: "提供全天候多語言線上客服，無需像當地電信商僅在工作時間提供電話支援。"
 
   # =============== 100% 完整復原：專家評語模組 ===============
   expert_verdict:

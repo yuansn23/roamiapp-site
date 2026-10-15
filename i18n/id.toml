@@ -647,3 +647,9 @@ other = "Panduan eSIM Perjalanan"
 
 [author_bio]
 other = "Roami adalah operator eSIM global yang berfokus pada konektivitas saat bepergian. Panduan ini disusun dari data jaringan, dokumentasi resmi operator dan produsen, serta pertanyaan wisatawan."
+
+[more_faqs]
+other = "Panduan eSIM Lainnya"
+
+[more_faqs_desc]
+other = "Panduan tambahan tentang pengaturan, kompatibilitas, dan pemecahan masalah dari pusat bantuan Roami."

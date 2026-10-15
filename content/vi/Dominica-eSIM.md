@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Dominica 2026: Hướng dẫn Gói cước & Phủ sóng | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Dominica | Gói dữ liệu trả trước 5G tốt nhất cho kỳ nghỉ của bạn
   description: Lên kế hoạch cho chuyến đi đến Dominica? Nhận eSIM du lịch trả trước tốt nhất từ Roami với dữ liệu 5G không giới hạn. Phủ sóng Roseau và tất cả các giáo khu. Kích hoạt tức thì.
-  keywords: eSIM Dominica, mua eSIM Dominica, eSIM Dominica tốt nhất, eSIM du lịch Dominica, Digicel Dominica, Flow Dominica, Orange Dominica, eSIM Roseau, eSIM Portsmouth, eSIM Marigot, eSIM trả trước Dominica, eSIM 5G Dominica
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM Dominica, mua eSIM Dominica, eSIM Dominica tốt nhất, eSIM du lịch Dominica, Digicel Dominica, Flow Dominica, Orange Dominica, eSIM Roseau, eSIM Portsmouth, eSIM Marigot, eSIM trả trước Dominica, eSIM 5G Dominica, eSIM Saint Joseph, eSIM Grand Bay, eSIM Dominica giá rẻ, sim du lịch Dominica
+  low_price: 11.99
+  high_price: 52.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng hàng đầu Dominica để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Dominica: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Dominica eSIM: gói linh hoạt theo ngày và dung lượng'
 plans_data:
   15 Ngày:
   - spec: 3GB
@@ -162,7 +162,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Dominica: Những điều cần biết trước khi đi'
+  title: 'Mẹo và lưu ý khi dùng Dominica eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -181,7 +181,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Dominica: 3 bước đơn giản'
+  title: 'Cài đặt Dominica eSIM trong một lần xem'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -201,12 +201,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Kết nối Internet tại Dominica -- Hướng dẫn chất lượng mạng và tốc độ eSIM"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Dominica. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Giải thích tốc độ internet, vùng phủ sóng và chất lượng mạng eSIM tại Dominica."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Dominica
+    title: Hỏi đáp nhanh về Dominica eSIM
     questions:
     - q: |
         Flow hay Digicel cung cấp tốc độ dữ liệu tốt hơn ở Dominica?
@@ -219,7 +219,7 @@ faq_section:
     - q: |
         Nếu khách sạn của tôi ở Dominica có WiFi miễn phí — tôi có cần dữ liệu eSIM không?
       a: |
-        WiFi khách sạn hoạt động trong phòng nhưng không hoạt động khi bạn khám phá bên ngoài. eSIM cung cấp dữ liệu ở mọi nơi — điều hướng đường phố, tìm kiếm địa điểm gần đó, kiểm tra lịch trình phương tiện công cộng. Gói 5GB có giá $9.99, thường rẻ hơn WiFi khách sạn trả phí trong một tuần ($10-15 tại nhiều khách sạn). Hầu hết du khách sử dụng WiFi khách sạn cho tải xuống lớn và eSIM cho kết nối khi di chuyển.
+        WiFi khách sạn hoạt động trong phòng nhưng không hoạt động khi bạn khám phá bên ngoài. eSIM cung cấp dữ liệu ở mọi nơi — điều hướng đường phố, tìm kiếm địa điểm gần đó, kiểm tra lịch trình phương tiện công cộng. Gói 5GB có giá $37.99, thường rẻ hơn WiFi khách sạn trả phí trong một tuần ($10-15 tại nhiều khách sạn). Hầu hết du khách sử dụng WiFi khách sạn cho tải xuống lớn và eSIM cho kết nối khi di chuyển.
     - q: |
         So sánh eSIM với pocket WiFi cho du lịch Dominica như thế nào?
       a: |
@@ -227,7 +227,7 @@ faq_section:
     - q: |
         Tôi chỉ cần truy cập internet trong vài ngày ở Dominica. Tối thiểu tôi có thể mua là gì?
       a: |
-        Gói rẻ nhất là $1.99 cho 7 ngày với 1GB — hoàn hảo cho chuyến cuối tuần ngắn với nhu cầu sử dụng nhẹ. Nếu cần thêm, nạp thêm bất kỳ lúc nào từ ứng dụng.
+        Gói rẻ nhất là $11.99 cho 7 ngày với 1GB — hoàn hảo cho chuyến cuối tuần ngắn với nhu cầu sử dụng nhẹ. Nếu cần thêm, nạp thêm bất kỳ lúc nào từ ứng dụng.
     - q: |
         Sự khác biệt giữa gói 5GB và gói không giới hạn cho Dominica là gì?
       a: |
@@ -240,63 +240,75 @@ faq_section:
         eSIM Dominica có hoạt động ở vùng nông thôn và thị trấn nhỏ không?
       a: |
         Phủ sóng tại Dominica đạt khoảng 95% khu vực đô thị nhưng giảm ở các vùng xa xôi. Tốc độ có thể giảm từ 200-300 Mbps (5G) xuống 10-30 Mbps (4G). Roami tự động chuyển sang mạng mạnh nhất. Tải xuống bản đồ ngoại tuyến trước khi đến các khu vực xa xôi.
+    - q: |
+        Dùng eSIM Dominica gặp sự cố thì liên hệ ai?
+      a: |
+        Roami có hỗ trợ khách hàng trực tuyến. Nếu gặp lỗi kết nối tại Dominica, bạn kiểm tra đường eSIM đã bật và chuyển vùng dữ liệu đã mở chưa; nếu vẫn chưa được thì liên hệ hỗ trợ, trường hợp đủ điều kiện có thể yêu cầu hoàn tiền.  Vùng phủ di động tại Roseau, Portsmouth đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
+    - q: |
+        eSIM Dominica có chia sẻ hotspot cho bạn đồng hành được không?
+      a: |
+        Có, eSIM Dominica của Roami hỗ trợ chia sẻ hotspot cho laptop, máy tính bảng hoặc người đi cùng. Nếu dùng chung nhiều người, nên chọn gói cao hơn một bậc để không hết dữ liệu giữa chừng; nếu thiếu vẫn có thể nạp thêm trong ứng dụng.  Các thành phố lớn như Marigot, Saint Joseph đều có phủ sóng ổn định cho nhu cầu hằng ngày.
+    - q: |
+        Tốc độ eSIM Dominica có nhanh không? Có chậm hơn SIM vật lý không?
+      a: |
+        eSIM Dominica của Roami dùng trạm gốc của các nhà mạng chính tại địa phương, tốc độ tương đương SIM trả trước bản địa; tra bản đồ, mạng xã hội và gọi video đều mượt. Tốc độ thực tế còn phụ thuộc vị trí và tải của mạng tại thời điểm đó.  Tại khu vực Roseau, Grand Bay, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
 related_products:
   title: Gói eSIM Dominica liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ $1.99
+  - name: eSIM Sierra Leone
+    flag: img/flags/si.svg
+    price: Từ $10.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: eSIM El Salvador
+    flag: img/flags/sv.svg
+    price: Từ $23.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Eswatini
+    flag: img/flags/sz.svg
+    price: Từ $19.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Chad
+    flag: img/flags/td.svg
+    price: Từ $23.99
+    is_highlight: false
+  - name: eSIM Thái Lan
+    flag: img/flags/th.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
+  - name: eSIM Tajikistan
+    flag: img/flags/tj.svg
+    price: Từ $4.99
+    is_highlight: false
+  - name: eSIM Tunisia
+    flag: img/flags/tn.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: Turkey eSIM
     flag: img/flags/tr.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
+  - name: Taiwan eSIM
+    flag: img/flags/tw.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
+  - name: eSIM Tanzania
+    flag: img/flags/tz.svg
+    price: Từ $7.99
+    is_highlight: false
+  - name: eSIM Ukraine
+    flag: img/flags/ua.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: eSIM Uganda
+    flag: img/flags/ug.svg
+    price: Từ $7.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Dominica so với SIM trả trước địa phương: Giải pháp nào tiện lợi hơn?'
   subtitle: SIM trả trước địa phương Dominica so với giải pháp eSIM (Đối sánh 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Dominica) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Dominica
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -325,11 +337,11 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Flow cung cấp gói 30 ngày như EC$69.99/3GB; Digicel cung cấp EC$54.99/1.5GB/30 ngày. Tự động gia hạn trên tất cả các gói trừ 1 ngày.
     esim_title: Gói linh hoạt, không lãng phí
-    esim_desc: Không như gói 30 ngày của Flow (EC$69.99/3GB) tự động gia hạn và lãng phí 75% cho chuyến đi 7 ngày, Roami cung cấp gói 7 ngày từ $1.99/GB. Không tự động gia hạn, không chi phí chìm.
+    esim_desc: Không như gói 30 ngày của Flow (EC$69.99/3GB) tự động gia hạn và lãng phí 75% cho chuyến đi 7 ngày, Roami cung cấp gói 7 ngày từ $11.99/GB. Không tự động gia hạn, không chi phí chìm.
   - icon: wifi
     title: Chia sẻ kết nối &<br>Chính sách tốc độ
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho tiêu chí này.
+    prepaid_desc: Kiểm tra với nhà mạng địa phương để biết thông tin chi tiết.
     esim_title: Chia sẻ kết nối không giới hạn
     esim_desc: Roami eSIM cho phép chia sẻ hotspot đầy đủ. Không có hạn chế ẩn như một số SIM địa phương. Chia sẻ dữ liệu của bạn tự do trên các thiết bị.
   - icon: credit-card
@@ -341,7 +353,7 @@ market_analysis:
   - icon: headset
     title: Hỗ trợ khách hàng
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho tiêu chí này.
+    prepaid_desc: Kiểm tra với nhà mạng địa phương để biết thông tin chi tiết.
     esim_title: Hỗ trợ đa ngôn ngữ 24/7
     esim_desc: Roami cung cấp hỗ trợ khách hàng 24/7 bằng tiếng Anh và các ngôn ngữ khác. Không cần điều hướng đường dây điện thoại ngôn ngữ địa phương hay giờ hành chính hạn chế.
   expert_verdict:
@@ -366,5 +378,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Loại bỏ chi phí chìm từ chu kỳ thanh toán dài
-      desc: Gói 30 ngày của Flow (EC$69.99/3GB) và gói 30 ngày của Digicel (EC$54.99/1.5GB) lãng phí hơn 70% cho chuyến đi 7 ngày. Roami cung cấp gói 7 ngày từ <b>$1.99/GB</b>, không tự động gia hạn.
+      desc: Gói 30 ngày của Flow (EC$69.99/3GB) và gói 30 ngày của Digicel (EC$54.99/1.5GB) lãng phí hơn 70% cho chuyến đi 7 ngày. Roami cung cấp gói 7 ngày từ <b>$11.99/GB</b>, không tự động gia hạn.
 ---

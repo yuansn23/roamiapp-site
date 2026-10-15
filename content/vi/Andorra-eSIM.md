@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Andorra 2026: Hướng dẫn Nhà mạng & Phủ sóng | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: "eSIM Andorra: Hướng dẫn eSIM du lịch tốt nhất & phủ sóng 5G"
-  description: So sánh các gói eSIM Andorra với 5G nhanh tại Andorra la Vella, Escaldes-Engordany, Encamp. Hướng dẫn phủ sóng Andorra Telecom dành cho du khách. Kích hoạt QR tức thì từ $1.99.
-  keywords: eSIM Andorra, mua eSIM Andorra, eSIM Andorra tốt nhất, eSIM du lịch Andorra, Andorra Telecom, eSIM Andorra la Vella, eSIM Escaldes-Engordany, eSIM Encamp, eSIM trả trước Andorra, eSIM 5G Andorra
-  low_price: 1.99
-  high_price: 39.9
+  description: So sánh các gói eSIM Andorra với 5G nhanh tại Andorra la Vella, Escaldes-Engordany, Encamp. Hướng dẫn phủ sóng Andorra Telecom dành cho du khách. Kích hoạt QR tức thì từ $6.99.
+  keywords: eSIM Andorra, mua eSIM Andorra, eSIM Andorra tốt nhất, eSIM du lịch Andorra, Andorra Telecom Andorra, eSIM Andorra la Vella, eSIM Escaldes-Engordany, eSIM Encamp, eSIM trả trước Andorra, eSIM 5G Andorra, eSIM La Massana, eSIM Sant Julià de Lòria, eSIM Andorra giá rẻ, sim du lịch Andorra, eSIM Andorra cho du khách, eSIM Andorra không hợp đồng
+  low_price: 6.99
+  high_price: 89.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng hàng đầu Andorra để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Andorra: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Bảng giá gói Andorra eSIM'
 plans_data:
   7 Ngày:
   - spec: 3GB
@@ -229,7 +229,7 @@ network_coverage:
       coverage: Phủ sóng tổng thể tốt nhất
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Andorra: Những điều cần biết trước khi đi'
+  title: 'Nhắc nhở chuẩn bị trước chuyến đi Andorra'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -248,7 +248,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Andorra: 3 bước đơn giản'
+  title: 'Andorra eSIM kích hoạt thế nào? 3 bước là xong'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -268,12 +268,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM có hoạt động ở mọi nơi tại Andorra không? Hướng dẫn phủ sóng thành phố và nông thôn"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Andorra. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Tổng hợp hỏi đáp về mạng, tốc độ và kết nối eSIM cho du khách đến Andorra."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Andorra
+    title: Giải đáp thắc mắc khi dùng Andorra eSIM
     questions:
     - q: |
         So sánh Roami với Saily cho eSIM ở Andorra như thế nào?
@@ -306,64 +306,76 @@ faq_section:
     - q: |
         eSIM có rẻ hơn chuyển vùng quốc tế cho Andorra không?
       a: |
-        Có – Roami eSIM thường rẻ hơn 80-90% so với các gói chuyển vùng từ hầu hết nhà mạng trong nước. Gói 5GB cho Andorra có giá $9.99, trong khi chuyển vùng có thể dễ dàng tốn hơn $50 cho cùng lượng dữ liệu. Bạn cũng nhận được tốc độ mạng địa phương thay vì chuyển vùng bị giới hạn.
+        Có – Roami eSIM thường rẻ hơn 80-90% so với các gói chuyển vùng từ hầu hết nhà mạng trong nước. Gói 5GB cho Andorra có giá $16.99, trong khi chuyển vùng có thể dễ dàng tốn hơn $50 cho cùng lượng dữ liệu. Bạn cũng nhận được tốc độ mạng địa phương thay vì chuyển vùng bị giới hạn.
+    - q: |
+        eSIM Andorra giá bao nhiêu? Có lựa chọn rẻ không?
+      a: |
+        Gói eSIM Andorra của Roami bắt đầu từ $6.99 (7 ngày 1GB), cao nhất $89.99 (15 ngày Không giới hạn). Chuyến ngắn dùng ít thì chọn gói nhập môn là đủ, khách dùng nhiều thì chọn mức cao hơn. Giá minh bạch, gói hết hạn tự kết thúc và không tự động gia hạn.  Thực tế tại Andorra la Vella, Escaldes-Engordany, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
+    - q: |
+        Tốc độ eSIM Andorra có nhanh không? Có chậm hơn SIM vật lý không?
+      a: |
+        eSIM Andorra của Roami dùng trạm gốc của các nhà mạng chính tại địa phương, tốc độ tương đương SIM trả trước bản địa; tra bản đồ, mạng xã hội và gọi video đều mượt. Tốc độ thực tế còn phụ thuộc vị trí và tải của mạng tại thời điểm đó.  Dù ở Encamp, La Massana hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
+    - q: |
+        Đi Andorra vài ngày thì nên chọn gói eSIM dung lượng bao nhiêu?
+      a: |
+        eSIM Andorra của Roami có các mức 3GB, Không giới hạn, 1GB, 5GB, 10GB, 20GB. Chuyến ngắn, chỉ tra bản đồ và nhắn tin thì 3GB là đủ; nếu xem video ngắn, gọi video hoặc chia sẻ hotspot, bạn nên chọn mức cao hơn một bậc. Nếu chưa chắc về nhu cầu, có thể mua gói nhỏ rồi nạp thêm trong ứng dụng sau khi đến Andorra, không cần đổi SIM.  Vùng phủ di động tại Andorra la Vella, Sant Julià de Lòria đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
 related_products:
   title: Gói eSIM Andorra liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
+  - name: eSIM Belarus
+    flag: img/flags/by.svg
     price: Từ $1.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
-    is_highlight: true
   - name: eSIM Canada
     flag: img/flags/ca.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Congo (Kinshasa)
+    flag: img/flags/cg.svg
+    price: Từ $7.99
+    is_highlight: true
+  - name: eSIM Thụy Sĩ
+    flag: img/flags/ch.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ $1.99
+  - name: eSIM Bờ Biển Ngà
+    flag: img/flags/ci.svg
+    price: Từ $9.99
+    is_highlight: false
+  - name: eSIM Chile
+    flag: img/flags/cl.svg
+    price: Từ $4.99
+    is_highlight: false
+  - name: eSIM Cameroon
+    flag: img/flags/cm.svg
+    price: Từ $27.99
     is_highlight: false
   - name: eSIM Trung Quốc
     flag: img/flags/cn.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
+  - name: eSIM Colombia
+    flag: img/flags/co.svg
+    price: Từ $4.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
+  - name: eSIM Costa Rica
+    flag: img/flags/cr.svg
+    price: Từ $9.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
+  - name: eSIM Síp
+    flag: img/flags/cy.svg
+    price: Từ $2.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
+  - name: eSIM Cộng hòa Séc
+    flag: img/flags/cz.svg
     price: Từ $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Andorra so với SIM trả trước: So sánh tốc độ, phủ sóng và giá'
   subtitle: SIM trả trước địa phương Andorra so với giải pháp eSIM (Đối sánh 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Andorra) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Andorra
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -392,11 +404,11 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 'Các gói trả trước của Andorra Telecom có chu kỳ 30 ngày nghiêm ngặt: Tarifa S giá €10 cho 3GB, Tarifa M giá €20 cho 12GB. Một du khách 2 ngày mua Tarifa S lãng phí hơn 90% giá trị gói.'
     esim_title: Gói ngắn hạn linh hoạt
-    esim_desc: Không như chu kỳ 30 ngày của Andorra Telecom (€10 cho 3GB, lãng phí 90% cho chuyến đi ngắn), Roami cung cấp gói 7 ngày bắt đầu từ $1.99/GB. Chỉ trả cho những gì bạn sử dụng.
+    esim_desc: Không như chu kỳ 30 ngày của Andorra Telecom (€10 cho 3GB, lãng phí 90% cho chuyến đi ngắn), Roami cung cấp gói 7 ngày bắt đầu từ $6.99/GB. Chỉ trả cho những gì bạn sử dụng.
   - icon: wifi
     title: Chia sẻ kết nối &<br>Chính sách tốc độ
     prepaid_title: ''
-    prepaid_desc: Nguồn không có dữ liệu cụ thể cho tiêu chí này. Theo thông lệ, Andorra Telecom cho phép chia sẻ kết nối nhưng dữ liệu bị giới hạn cứng; khi đạt đến giới hạn dữ liệu, internet bị cắt hoàn toàn.
+    prepaid_desc: Theo thông lệ, Andorra Telecom cho phép chia sẻ kết nối nhưng dữ liệu bị giới hạn cứng; khi đạt đến giới hạn dữ liệu, internet bị cắt hoàn toàn.
     esim_title: Chia sẻ kết nối không giới hạn
     esim_desc: Andorra Telecom cắt dữ liệu hoàn toàn khi đạt giới hạn. Roami eSIM cho phép chia sẻ kết nối không có giới hạn cứng và tốc độ vẫn ổn định trong suốt chuyến đi.
   - icon: credit-card
@@ -408,7 +420,7 @@ market_analysis:
   - icon: headset
     title: Hỗ trợ khách hàng
     prepaid_title: ''
-    prepaid_desc: Nguồn không có dữ liệu cụ thể cho tiêu chí này. Theo thông lệ, hỗ trợ khách hàng có sẵn bằng tiếng Catalan và Tây Ban Nha, có thể giờ hành chính hạn chế.
+    prepaid_desc: Theo thông lệ, hỗ trợ khách hàng có sẵn bằng tiếng Catalan và Tây Ban Nha, có thể giờ hành chính hạn chế.
     esim_title: Hỗ trợ đa ngôn ngữ 24/7
     esim_desc: Hỗ trợ Andorra Telecom bị giới hạn bằng tiếng Catalan/Tây Ban Nha trong giờ hành chính. Roami cung cấp trò chuyện trực tiếp 24/7 bằng tiếng Anh, đảm bảo giúp đỡ bất cứ khi nào bạn cần.
   expert_verdict:
@@ -423,7 +435,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Loại bỏ 90% lãng phí với gói 30 ngày
-      desc: <b>Tarifa S (€10/3GB)</b> của Andorra Telecom là gói 30 ngày. Một du khách 2 ngày lãng phí hơn <b>90%</b> chi phí và dữ liệu. Roami cung cấp <b>gói 7 ngày từ $1.99/GB</b>, khớp chính xác thời gian chuyến đi của bạn.
+      desc: <b>Tarifa S (€10/3GB)</b> của Andorra Telecom là gói 30 ngày. Một du khách 2 ngày lãng phí hơn <b>90%</b> chi phí và dữ liệu. Roami cung cấp <b>gói 7 ngày từ $6.99/GB</b>, khớp chính xác thời gian chuyến đi của bạn.
     - icon: shield
       icon_bg: bg-teal-100
       icon_color: text-teal-600

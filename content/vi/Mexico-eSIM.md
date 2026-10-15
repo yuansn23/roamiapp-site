@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Mexico - 5G tại Cancún & Thành phố Mexico | Không Ảnh chụp Hộ chiếu | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: eSIM Mexico - Gói Dữ liệu Không giới hạn Tốt nhất cho Du lịch
-  description: Nhận eSIM Mexico tốt nhất với 5G trên Telcel, AT&T & Movistar. Không đăng ký hộ chiếu/ảnh tự sướng — từ năm 2026, SIM địa phương yêu cầu CMND + ảnh tự sướng. Phủ sóng Cancún, Thành phố Mexico & Riviera Maya. Gói từ 1,99 USD.
-  keywords: eSIM Mexico, mua eSIM Mexico, eSIM Mexico tốt nhất, eSIM du lịch Mexico, Telcel Mexico, AT&T Mexico, Movistar Mexico, eSIM Thành phố Mexico, eSIM Cancún, eSIM Riviera Maya, eSIM trả trước Mexico, eSIM 5G Mexico, eSIM Mexico không hộ chiếu
-  low_price: 1.99
-  high_price: 39.9
+  description: Nhận eSIM Mexico tốt nhất với 5G trên Telcel, AT&T & Movistar. Không đăng ký hộ chiếu/ảnh tự sướng — từ năm 2026, SIM địa phương yêu cầu CMND + ảnh tự sướng. Phủ sóng Cancún, Thành phố Mexico & Riviera Maya. Gói từ $3.99.
+  keywords: eSIM Mexico, mua eSIM Mexico, eSIM Mexico tốt nhất, eSIM du lịch Mexico, Telcel Mexico, AT&T Mexico, Movistar Mexico, eSIM Thành phố Mexico, eSIM Cancún, eSIM Guadalajara, eSIM trả trước Mexico, eSIM 5G Mexico, eSIM Monterrey, eSIM Tijuana, eSIM Mexico giá rẻ, sim du lịch Mexico
+  low_price: 3.99
+  high_price: 68.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -73,7 +73,7 @@ features:
     color: from-sky-400 to-sky-600
     title: Sẵn sàng cho Bãi biển & Tàn tích
     desc: 4G/5G trên khắp Cancún, Riviera Maya, Chichen Itza, Tulum & Teotihuacan
-plans_title: 'Mua eSIM Mexico: Gói cho mọi thời gian chuyến đi'
+plans_title: 'Chọn một eSIM cho chuyến đi Mexico'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -296,7 +296,7 @@ network_coverage:
       coverage: Vùng phủ đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Mexico: Những điều cần biết trước khi đi'
+  title: 'Những lưu ý chính khi dùng Mexico eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -323,7 +323,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Mexico: 3 bước đơn giản'
+  title: 'Các bước cài đặt và kích hoạt Mexico eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -343,12 +343,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hướng dẫn eSIM Mexico: 5G, Quy tắc Hộ chiếu/Ảnh tự sướng & Mẹo du lịch"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, vùng phủ mạng và chất lượng kết nối cho du khách tại Mexico. Tìm hiểu tốc độ mong đợi tại Cancún, Thành phố Mexico và tại các tàn tích — và tại sao Roami là câu trả lời cho các quy tắc đăng ký SIM mới của Mexico năm 2026."
+  desc: "Tổng hợp câu hỏi về chất lượng mạng và tốc độ eSIM tại Mexico."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Mexico
+    title: 'Mexico eSIM: các câu hỏi phổ biến'
     questions:
     - q: |
         Điều gì đã thay đổi ở Mexico vào tháng 1 năm 2026 đối với việc mua thẻ SIM?
@@ -369,7 +369,7 @@ faq_section:
     - q: |
         Tại sao SIM Mexico có thời hạn tối thiểu 7 ngày? Có lãng phí cho chuyến đi ngắn không?
       a: |
-        Có — đó là sự lãng phí tiền và dữ liệu. Gói rẻ nhất của Telcel là <strong>7 ngày (50 MXN ≈ 3 USD)</strong> với dữ liệu hạn chế. Tối thiểu của AT&T là <strong>14 ngày (100 MXN)</strong>, của Movistar là <strong>15 ngày (75 MXN)</strong>. Du khách 5 ngày mua gói 7 ngày lãng phí <strong>29%</strong> gói. Gói 14 ngày của AT&T lãng phí <strong>64%</strong>. Roami cung cấp các gói <strong>3, 7, 15 và 30 ngày</strong> từ 1,99 USD — không tối thiểu bắt buộc, không lãng phí.
+        Có — đó là sự lãng phí tiền và dữ liệu. Gói rẻ nhất của Telcel là <strong>7 ngày (50 MXN ≈ 3 USD)</strong> với dữ liệu hạn chế. Tối thiểu của AT&T là <strong>14 ngày (100 MXN)</strong>, của Movistar là <strong>15 ngày (75 MXN)</strong>. Du khách 5 ngày mua gói 7 ngày lãng phí <strong>29%</strong> gói. Gói 14 ngày của AT&T lãng phí <strong>64%</strong>. Roami cung cấp các gói <strong>3, 7, 15 và 30 ngày</strong> từ $3.99 — không tối thiểu bắt buộc, không lãng phí.
     - q: |
         eSIM của tôi có hoạt động tại Chichen Itza, Teotihuacan và tàn tích Tulum không?
       a: |
@@ -390,63 +390,75 @@ faq_section:
         Thời hạn hiệu lực của eSIM Mexico bắt đầu từ khi nào?
       a: |
         Hiệu lực gói bắt đầu khi bạn kết nối với mạng địa phương tại Mexico, không phải khi mua hay cài đặt. Vì vậy, bạn có thể mua và cài đặt vài tuần trước chuyến đi mà không mất ngày nào. Gói 7 ngày cho bạn 7 ngày đầy đủ từ lần kết nối đầu tiên.
+    - q: |
+        Tốc độ eSIM Mexico có nhanh không? Có chậm hơn SIM vật lý không?
+      a: |
+        eSIM Mexico của Roami dùng trạm gốc của các nhà mạng chính tại địa phương, tốc độ tương đương SIM trả trước bản địa; tra bản đồ, mạng xã hội và gọi video đều mượt. Tốc độ thực tế còn phụ thuộc vị trí và tải của mạng tại thời điểm đó.  Thành phố Mexico, Cancún và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
+    - q: |
+        Telcel và AT&T ở Mexico, dùng eSIM mạng nào tốt hơn?
+      a: |
+        Mexico có các nhà mạng chính như Telcel, AT&T. Roami tự động chọn mạng có tín hiệu mạnh nhất tại thời điểm đó và chuyển đổi giữa Telcel và AT&T mà bạn không cần cấu hình thủ công. Nếu lịch trình đi ra vùng ngoại ô hoặc đảo xa, nên tải bản đồ ngoại tuyến trước cho chắc.  Thực tế tại Guadalajara, Monterrey, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
+    - q: |
+        Kích hoạt eSIM Mexico như thế nào? Có phải đợi đến nơi mới bật?
+      a: |
+        Bạn nên quét mã QR cài đặt cấu hình qua WiFi trước chuyến đi, khi đến Mexico thì bật đường eSIM và mở chuyển vùng dữ liệu; máy sẽ tự kết nối mạng địa phương và thời hạn của gói bắt đầu tính từ lúc đó.  Dù ở Thành phố Mexico, Tijuana hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
 related_products:
   title: Các gói eSIM Mexico liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ 1,99 USD
+  - name: eSIM Chad
+    flag: img/flags/td.svg
+    price: Từ $23.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ 1,99 USD
+  - name: eSIM Thái Lan
+    flag: img/flags/th.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ 1,99 USD
+  - name: eSIM Tajikistan
+    flag: img/flags/tj.svg
+    price: Từ $4.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ 1,99 USD
+  - name: eSIM Tunisia
+    flag: img/flags/tn.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
+  - name: Turkey eSIM
     flag: img/flags/tr.svg
-    price: Từ 1,99 USD
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ 1,99 USD
+  - name: Taiwan eSIM
+    flag: img/flags/tw.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ 1,99 USD
+  - name: eSIM Tanzania
+    flag: img/flags/tz.svg
+    price: Từ $7.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ 1,99 USD
+  - name: eSIM Ukraine
+    flag: img/flags/ua.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ 1,99 USD
+  - name: eSIM Uganda
+    flag: img/flags/ug.svg
+    price: Từ $7.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ 1,99 USD
+  - name: eSIM Mỹ
+    flag: img/flags/us.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ 1,99 USD
+  - name: Uruguay eSIM
+    flag: img/flags/uy.svg
+    price: Từ $11.99
     is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ 1,99 USD
+  - name: eSIM Uzbekistan
+    flag: img/flags/uz.svg
+    price: Từ $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Mexico vs SIM địa phương: Không Hộ chiếu/Ảnh tự sướng, Không lãng phí 7 ngày, Không cấm điểm phát WiFi'
   subtitle: SIM trả trước địa phương Mexico vs. Giải pháp eSIM (Đánh giá 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Mexico) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Mexico
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -475,7 +487,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Telcel tối thiểu 7 ngày (50), AT&T 14 ngày (100), Movistar 15 ngày (75). <strong>Không có gói dưới 5 ngày</strong> cho du khách. Chuyến đi 5 ngày lãng phí 29-67% gói.
     esim_title: Gói ngắn linh hoạt
-    esim_desc: Roami cung cấp gói <strong>3/7/15/30 ngày</strong> từ 1,99 USD — chỉ trả cho thời gian chuyến đi thực tế của bạn. Không tối thiểu 7 ngày, không lãng phí.
+    esim_desc: Roami cung cấp gói <strong>3/7/15/30 ngày</strong> từ $3.99 — chỉ trả cho thời gian chuyến đi thực tế của bạn. Không tối thiểu 7 ngày, không lãng phí.
   - icon: wifi
     title: Chính sách chia sẻ<br>kết nối & tốc độ
     prepaid_title: ''
@@ -516,5 +528,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Không lãng phí tối thiểu 7 ngày
-      desc: Tối thiểu của Telcel là <b>7 ngày (50)</b>, của AT&T là <b>14 ngày (100)</b>. Du khách 5 ngày lãng phí <b>29-64%</b>. Roami cung cấp <b>gói 3 ngày từ 1,99 USD</b> — không tối thiểu bắt buộc.
+      desc: Tối thiểu của Telcel là <b>7 ngày (50)</b>, của AT&T là <b>14 ngày (100)</b>. Du khách 5 ngày lãng phí <b>29-64%</b>. Roami cung cấp <b>gói 3 ngày từ $3.99</b> — không tối thiểu bắt buộc.
 ---

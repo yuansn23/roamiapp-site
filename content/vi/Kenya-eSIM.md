@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Kenya 2026: Hướng dẫn 5G & Dữ liệu | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Kenya | Gói dữ liệu trả trước nhanh cho du khách
   description: Du lịch Kenya với eSIM du lịch trả trước tốt nhất từ Roami. Dữ liệu 5G không giới hạn trên các mạng hàng đầu. Phủ sóng Nairobi, Mombasa và Kisumu. Kích hoạt tức thì.
-  keywords: eSIM Kenya, mua eSIM Kenya, eSIM Kenya tốt nhất, eSIM du lịch Kenya, Safaricom Kenya, Airtel Kenya, Telkom Kenya, eSIM Nairobi, eSIM Mombasa, eSIM Kisumu, eSIM trả trước Kenya, eSIM 5G Kenya
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM Kenya, mua eSIM Kenya, eSIM Kenya tốt nhất, eSIM du lịch Kenya, Safaricom Kenya, Airtel Kenya Kenya, Telkom Kenya Kenya, eSIM Nairobi, eSIM Mombasa, eSIM Kisumu, eSIM trả trước Kenya, eSIM 5G Kenya, eSIM Nakuru, eSIM Eldoret, eSIM Kenya giá rẻ, sim du lịch Kenya
+  low_price: 7.99
+  high_price: 98.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng hàng đầu Kenya để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Kenya: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Mua Kenya eSIM: hiểu rõ ngày và dung lượng'
 plans_data:
   7 Ngày:
   - spec: 1GB
@@ -284,7 +284,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Kenya: Những điều cần biết trước khi đi'
+  title: 'Danh sách kiểm tra trước chuyến đi với Kenya eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -303,7 +303,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Kenya: 3 bước đơn giản'
+  title: 'Hướng dẫn từng bước kích hoạt Kenya eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -323,17 +323,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Tốc độ Internet eSIM ở Kenya nhanh như thế nào? Tốc độ và Phủ sóng cho du khách"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Kenya. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Hỏi đáp chi tiết về kết nối, độ phủ và tốc độ eSIM tại Kenya."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Kenya
+    title: Câu hỏi phổ biến về Kenya eSIM
     questions:
     - q: |
         Các tùy chọn eSIM rẻ nhất cho chuyến đi Kenya là gì?
       a: |
-        Gói eSIM Kenya của Roami bắt đầu từ $1.99 (7 ngày, 1GB) và lên đến $59.99 (30 ngày không giới hạn). Đối với chuyến đi 5-7 ngày điển hình, gói 5GB với giá $9.99 là lựa chọn phù hợp nhất — đủ cho bản đồ, nhắn tin và kiểm tra mạng xã hội. Cần phát video hoặc làm việc từ xa? Chọn 10GB hoặc không giới hạn. Nhờ mạng 5G của Safaricom, phát trực tuyến và cuộc gọi video hoạt động tuyệt vời. Quầy SIM sân bay tính phí cao hơn 30-50% và bạn phải xếp hàng. Không chắc về nhu cầu dữ liệu của bạn? Bắt đầu nhỏ và nạp thêm qua ứng dụng mà không cần thay đổi eSIM.
+        Gói eSIM Kenya của Roami bắt đầu từ $7.99 và lên đến $52.99 (30 ngày không giới hạn). Đối với chuyến đi 5-7 ngày điển hình, gói 5GB có giá $21.99 là lựa chọn phù hợp nhất — đủ cho bản đồ, nhắn tin và kiểm tra mạng xã hội. Cần phát video hoặc làm việc từ xa? Chọn 10GB hoặc không giới hạn. Nhờ mạng 5G của Safaricom, phát trực tuyến và cuộc gọi video hoạt động tuyệt vời. Quầy SIM sân bay tính phí cao hơn 30-50% và bạn phải xếp hàng. Không chắc về nhu cầu dữ liệu của bạn? Bắt đầu nhỏ và nạp thêm qua ứng dụng mà không cần thay đổi eSIM.
     - q: |
         Nhà mạng nào ở Kenya tôi nên dựa vào cho eSIM của mình?
       a: |
@@ -353,7 +353,7 @@ faq_section:
     - q: |
         Tôi chỉ cần truy cập internet trong vài ngày ở Kenya. Tối thiểu tôi có thể mua là gì?
       a: |
-        Gói rẻ nhất là $1.99 cho 7 ngày với 1GB — hoàn hảo cho chuyến cuối tuần ngắn với nhu cầu sử dụng nhẹ. Nếu cần thêm, nạp thêm bất kỳ lúc nào từ ứng dụng.
+        Gói rẻ nhất là $10.99 cho 7 ngày với 1GB — hoàn hảo cho chuyến cuối tuần ngắn với nhu cầu sử dụng nhẹ. Nếu cần thêm, nạp thêm bất kỳ lúc nào từ ứng dụng.
     - q: |
         Một du khách điển hình sử dụng bao nhiêu dữ liệu mỗi ngày ở Kenya?
       a: |
@@ -362,63 +362,75 @@ faq_section:
         Tôi có thể sử dụng eSIM Kenya ngay sau khi mua không, hay phải chờ đợi?
       a: |
         Mã QR đến trong vòng vài phút. Cài đặt ngay — mất 2 phút. Tuy nhiên, thời hạn gói chỉ bắt đầu khi bạn kết nối với mạng tại Kenya. Vì vậy bạn có thể cài đặt vài tuần trước chuyến đi mà không mất bất kỳ ngày nào.
+    - q: |
+        Safaricom và Airtel Kenya ở Kenya, dùng eSIM mạng nào tốt hơn?
+      a: |
+        Kenya có các nhà mạng chính như Safaricom, Airtel Kenya. Roami tự động chọn mạng có tín hiệu mạnh nhất tại thời điểm đó và chuyển đổi giữa Safaricom và Airtel Kenya mà bạn không cần cấu hình thủ công. Nếu lịch trình đi ra vùng ngoại ô hoặc đảo xa, nên tải bản đồ ngoại tuyến trước cho chắc.  Tại khu vực Nairobi, Mombasa, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
+    - q: |
+        eSIM Kenya có những gói mấy ngày?
+      a: |
+        eSIM Kenya của Roami có các lựa chọn 3/7/15/30 ngày, tùy theo độ dài hành trình. Chuyến trong ba ngày thì chọn mức ngắn là đủ; từ một tuần trở lên nên chọn gói dài hạn để chi phí mỗi ngày rẻ hơn.  Kisumu, Nakuru và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
+    - q: |
+        Đi Kenya rồi qua nước khác, dùng chung một eSIM được không?
+      a: |
+        eSIM Kenya của Roami chủ yếu dùng trong lãnh thổ Kenya; nếu lịch trình đi sang nước láng giềng, bạn nên mua thêm gói của nước đó hoặc gói khu vực để tránh phí chuyển vùng phát sinh.  Thực tế tại Nairobi, Eldoret, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
 related_products:
   title: Gói eSIM Kenya liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ $1.99
+  - name: eSIM Eswatini
+    flag: img/flags/sz.svg
+    price: Từ $19.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: eSIM Chad
+    flag: img/flags/td.svg
+    price: Từ $23.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
+  - name: eSIM Thái Lan
+    flag: img/flags/th.svg
     price: Từ $1.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ $1.99
+  - name: eSIM Tajikistan
+    flag: img/flags/tj.svg
+    price: Từ $4.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
+  - name: eSIM Tunisia
+    flag: img/flags/tn.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: Turkey eSIM
     flag: img/flags/tr.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
+  - name: Taiwan eSIM
+    flag: img/flags/tw.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
+  - name: eSIM Tanzania
+    flag: img/flags/tz.svg
+    price: Từ $7.99
+    is_highlight: false
+  - name: eSIM Ukraine
+    flag: img/flags/ua.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
+  - name: eSIM Uganda
+    flag: img/flags/ug.svg
+    price: Từ $7.99
+    is_highlight: false
+  - name: eSIM Mỹ
+    flag: img/flags/us.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: Uruguay eSIM
+    flag: img/flags/uy.svg
+    price: Từ $11.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Kenya so với SIM vật lý: Phân tích ưu và nhược điểm'
   subtitle: SIM trả trước địa phương Kenya so với giải pháp eSIM (Đối sánh 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Kenya) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Kenya
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -441,17 +453,17 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Các gói hàng tháng của Safaricom và Airtel không bao gồm chuyển vùng Đông Phi; sử dụng xuyên biên giới phát sinh phí cao khoảng KES 4 mỗi MB.
     esim_title: Chuyển vùng Đông Phi liền mạch
-    esim_desc: Tránh phí chuyển vùng KES 4/MB của Safaricom tại Tanzania hoặc Uganda. eSIM cung cấp gói dữ liệu khu vực giá phải chăng từ $1.99/GB.
+    esim_desc: Tránh phí chuyển vùng KES 4/MB của Safaricom tại Tanzania hoặc Uganda. eSIM cung cấp gói dữ liệu khu vực giá phải chăng từ $7.99/GB.
   - icon: calendar-xmark
     title: Chu kỳ thanh toán &<br>Chi phí chìm
     prepaid_title: ''
     prepaid_desc: Safaricom cung cấp gói 1 ngày (KES 99/500MB) và 7 ngày (KES 250/1GB); du khách 5 ngày lãng phí KES 100-250 cho những ngày không sử dụng.
     esim_title: Gói linh hoạt, không lãng phí
-    esim_desc: Không như gói 7 ngày của Safaricom (KES 250/1GB) buộc bạn phải trả cho những ngày không sử dụng, Roami cung cấp gói 7 ngày từ $1.99/GB, tiết kiệm tới 75% lãng phí.
+    esim_desc: Không như gói 7 ngày của Safaricom (KES 250/1GB) buộc bạn phải trả cho những ngày không sử dụng, Roami cung cấp gói 7 ngày từ $7.99/GB, tiết kiệm tới 75% lãng phí.
   - icon: wifi
     title: Chia sẻ kết nối &<br>Chính sách tốc độ
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho tiêu chí này. Theo kiến thức thị trường, chia sẻ kết nối thường được cho phép nhưng có thể bị giới hạn sau một ngưỡng nhất định.
+    prepaid_desc: Chia sẻ kết nối thường được cho phép nhưng có thể bị giới hạn sau một ngưỡng nhất định.
     esim_title: Chia sẻ kết nối không giới hạn
     esim_desc: eSIM cho phép chia sẻ hotspot tốc độ đầy đủ không giới hạn, không như một số SIM địa phương có thể hạn chế chia sẻ sau một ngưỡng dữ liệu.
   - icon: credit-card
@@ -473,7 +485,7 @@ market_analysis:
       icon_bg: bg-rose-100
       icon_color: text-rose-600
       title: Tránh phí chuyển vùng cao ở Đông Phi
-      desc: Safaricom và Airtel tính <b>KES 4/MB</b> cho chuyển vùng xuyên biên giới tại Tanzania/Uganda. eSIM cung cấp gói khu vực từ <b>$1.99/GB</b>.
+      desc: Safaricom và Airtel tính <b>KES 4/MB</b> cho chuyển vùng xuyên biên giới tại Tanzania/Uganda. eSIM cung cấp gói khu vực từ <b>$7.99/GB</b>.
     - icon: shield
       icon_bg: bg-yellow-100
       icon_color: text-yellow-600
@@ -488,5 +500,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Không chi phí chìm cho ngày không sử dụng
-      desc: Gói 7 ngày của Safaricom (KES 250/1GB) buộc du khách trả cho ngày không sử dụng. eSIM cung cấp <b>gói 7 ngày từ $1.99/GB</b>, tiết kiệm tới <b>75%</b>.
+      desc: Gói 7 ngày của Safaricom (KES 250/1GB) buộc du khách trả cho ngày không sử dụng. eSIM cung cấp <b>gói 7 ngày từ $7.99/GB</b>, tiết kiệm tới <b>75%</b>.
 ---

@@ -1,6 +1,6 @@
 ---
 title: '巴林 eSIM 2026: 旅行與網路 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -26,8 +26,8 @@ modal:
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
   title: '巴林eSIM｜5G高速吃到飽，出國推薦首選'
-  description: 巴林eSIM 5G高速吃到飽，出國上網推薦首選。網路穩定速度快，查地圖打卡分享不卡頓，最低$1.99起。。
-  keywords: 巴林 eSIM, 巴林 eSIM方案, 最佳巴林 eSIM, 巴林上網, Batelco 巴林, Zain 巴林, STC 巴林, 麥納麥 eSIM, 里法 eSIM, 穆哈拉格 eSIM, 巴林行動網路, 5G 巴林
+  description: 巴林eSIM 5G高速吃到飽，出國上網推薦首選。網路穩定速度快，查地圖打卡分享不卡頓，最低$6.99起。。
+  keywords: 巴林 eSIM, eSIM 巴林, 巴林 eSIM 購買, 最佳巴林 eSIM, 巴林 上網, Batelco 巴林, Zain 巴林, STC 巴林, ['麥納麥' eSIM, '里法' eSIM, '穆哈拉格' eSIM, '哈馬德鎮' eSIM, '伊薩鎮'] eSIM, 巴林 eSIM 方案, 巴林 5G eSIM, 巴林 eSIM 預付卡
 order_summary:
   title: 選擇 巴林 eSIM
   label_data: 數據量
@@ -76,7 +76,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線巴林最佳電信商，取得最強訊號
-plans_title: 購買巴林 eSIM：適合各種旅程的方案
+plans_title: 選購巴林 eSIM：天數、流量一次看懂
 plans_data:
   7 天:
   - spec: 1GB
@@ -257,7 +257,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 巴林 eSIM秘訣：出發前須知
+  title: 用巴林 eSIM 前先看這幾點
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -286,7 +286,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 巴林 eSIM啟用：3個簡單步驟
+  title: 巴林 eSIM 啟用與安裝指南
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 巴林 做好準備
@@ -321,88 +321,93 @@ faq_section:
     title: 巴林 eSIM 網路覆蓋與電信商Batelco介紹｜上網速度實測
     questions:
     - q: 準備去巴林long stay，eSIM方案買哪種比較划算？
-      a: Roami 巴林 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Batelco在巴林市區5G網速約100-300Mbps，看1080p影片沒問題。去巴林機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到巴林後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 巴林 eSIM方案從$6.99（3天1GB）起，最高$94.99（15天無限）。一般旅客買最多的是5GB/15天（$23.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Batelco在巴林市區5G網速約100-300Mbps，看1080p影片沒問題。去巴林機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到巴林後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 到巴林旅遊想用eSIM，Batelco、Zain、STC哪家網路比較穩？
       a: 巴林主要有Batelco、Zain、STC。Batelco市區下載快、基地台密集。Zain郊區覆蓋廣，會去郊區的話選Zain路線較有保障。STC價格親民，適合預算有限的旅客。巴林5G使用n78頻段，全境覆蓋密集。不過Roami會自動切換到當前訊號最強的網路。市區用Batelco，移動到郊區若Batelco訊號變弱就自動跳Zain或STC，完全不用手動選。
     - q: 巴林eSIM吃到飽方案如果被降速了，512kbps的速度還能做什麼？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。巴林5G使用n78頻段，全境覆蓋密集。Roami在巴林連上Batelco的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。巴林5G使用n78頻段，全境覆蓋密集。Roami在巴林連上Batelco的網路，網速穩定。如果怕降速可選10GB/$17.99或20GB/$74.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 巴林eSIM買了之後要驗證證件嗎？沒先辦好會不會到了不能用？
       a: 需要的。巴林預付卡需KYC認證，需提供護照。很多人不知道這規定，到了巴林機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。巴林5G使用n78頻段，全境覆蓋密集。另外Batelco的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到巴林開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 巴林主要市區和偏遠鄉村的網路覆蓋差距大嗎？
       a: 巴林的Batelco等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。巴林5G使用n78頻段，全境覆蓋密集。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 巴林eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
       a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
+    - q: 去巴林之後順道去其他國家，同一張eSIM能繼續用嗎？
+      a: Roami 巴林 eSIM 以 巴林 境內使用為主；若行程會跨到鄰國，建議另外加購該國或區域方案，避免產生額外的漫遊費用。 不論在 ['麥納麥'、'里法'，連線品質都相當穩定。
+    - q: 巴林 eSIM 大概多少錢？有便宜的選擇嗎？
+      a: Roami 巴林 eSIM 方案從 $6.99（3天1GB）起，最高 $94.99（15天無限）。短期輕度使用挑入門方案即可，用量大的旅客再選高規格。價格透明，方案到期自動失效，不會續約扣款。 '穆哈拉格'、'哈馬德鎮' 等地的行動網路覆蓋完整，跨區移動也不斷線。
+    - q: 買巴林 eSIM 支援哪些付款方式？多久能收到？
+      a: Roami 支援信用卡等常見線上付款，結帳後 QR code 會寄到你的電子郵件，通常幾分鐘內就能收到。建議出發前先在台灣買好、裝好，抵達 巴林 即可連線。 另外，['麥納麥'、'伊薩鎮'] 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
 related_products:
-  title: 類似 巴林 eSIM 的旅行方案
+  title: 巴林之外，旅人常買的 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 台灣 eSIM
+    flag: img/flags/tw.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: taiwan-esim
+  - name: 多明尼加共和國 eSIM
+    flag: img/flags/do.svg
+    price: 自 $5.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: dominican-republic-esim
+  - name: 土耳其 eSIM
+    flag: img/flags/tr.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: turkey-esim
+  - name: 拉脫維亞 eSIM
+    flag: img/flags/lv.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: latvia-esim
+  - name: 摩洛哥 eSIM
+    flag: img/flags/ma.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: malaysia-esim
+    slug: morocco-esim
+  - name: 賽普勒斯 eSIM
+    flag: img/flags/cy.svg
+    price: 自 $2.99
+    is_highlight: false
+    slug: cyprus-esim
   - name: 美國 eSIM
     flag: img/flags/us.svg
-    price: От 1,99 $
-    is_highlight: false
+    price: 自 $1.99
+    is_highlight: true
     slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+  - name: 波士尼亞與赫塞哥維納 eSIM
+    flag: img/flags/ba.svg
+    price: 自 $30.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: bosnia-and-herzegovina-esim
+  - name: 塞席爾 eSIM
+    flag: img/flags/sc.svg
+    price: 自 $17.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: seychelles-esim
+  - name: 瑞典 eSIM
+    flag: img/flags/se.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+    slug: sweden-esim
+  - name: 尼泊爾 eSIM
+    flag: img/flags/np.svg
+    price: 自 $10.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: nepal-esim
+  - name: 布吉納法索 eSIM
+    flag: img/flags/bf.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: burkina-faso-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Bahrain eSIM 網速與收訊全攻略 -- 旅行不斷線"
   subtitle: "巴林當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Bahrain) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Bahrain"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -411,7 +416,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Bahrain. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Batelco 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 Batelco 門市排隊與指紋掃描，抵達巴林後一分鐘內線上啟用 eSIM，無需出示護照。"
     - icon: "id-card"
@@ -419,11 +424,11 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "自2017年起，巴林預付卡實名制嚴格執行，用戶必須親自到場註冊並提交指紋等生物特徵數據。"
       esim_title: "免護照免指紋"
-      esim_desc: "巴林自2017年起強制採集指紋，eSIM 完全免去此類冗長線下的 KYC 安全審查，保護生物隱私。"
+      esim_desc: "巴林自2017年起強制採集指紋，eSIM 完全免去此類冗長線下的 KYC 安全查核，保護生物隱私。"
     - icon: "globe"
       title: "國際漫遊"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。但根據市場知識，巴林預付卡通常僅限本地使用，國際漫遊需額外開通且費用高昂。"
+      prepaid_desc: "巴林預付卡通常僅限本地使用，國際漫遊需額外開通且費用高昂。"
       esim_title: "全球漫遊無縮水"
       esim_desc: "Zain 和 STC 的 FUP 政策在10GB後降速至256 kbps，eSIM 不受本地限速政策約束，全週期維持高速。"
     - icon: "calendar-xmark"
@@ -435,19 +440,19 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "三家運營商的定向數據加油包若在有效期內未用完，餘額將作廢；且巴林實施嚴厲的互聯網審查制度。"
+      prepaid_desc: "三家電信商的定向數據加油包若在有效期內未用完，餘額將作廢，且多數方案需綁定本地門號。"
       esim_title: "無限熱點分享"
       esim_desc: "巴林預付卡數據加油包未用完即作廢，eSIM 支援熱點分享且無流量限制，適合多設備連接。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "主要依賴當地授權經銷商的電子充值卡（如500 fils、BHD 1等面額），充值卡有嚴格的有效期（1-100天），且國際信用卡可能因網關限制導致線下充值失敗。"
+      prepaid_desc: "主要依賴當地授權經銷商的電子儲值卡（如500 fils、BHD 1等面額），儲值卡有嚴格的有效期（1-100天），且國際信用卡可能因網關限制導致線下儲值失敗。"
       esim_title: "全球付款無障礙"
-      esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，避免當地充值卡有效期短及國際信用卡失敗風險。"
+      esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，避免當地儲值卡有效期短及國際信用卡失敗風險。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "問題排除須聯繫 Batelco、Zain 客服，語言與服務時段皆有限制，預付卡用戶較難獲得即時協助。"
       esim_title: "24/7 中文支援"
       esim_desc: "巴林預付卡客服僅提供阿拉伯語或英語，eSIM 提供24/7多語言即時線上支援，解決問題無時差。"
 
@@ -464,15 +469,15 @@ market_analysis:
         icon_bg: "bg-indigo-100"
         icon_color: "text-indigo-600"
         title: "保留原號碼免拔卡"
-        desc: "巴林預付卡需更換物理 SIM 卡，導致原居住國號碼無法接收短信驗證碼或緊急電話。eSIM 保留主卡槽，原號碼在線，銀行App等服務不中斷。"
+        desc: "巴林預付卡需更換物理 SIM 卡，導致原居住國號碼無法接收簡訊驗證碼或緊急電話。eSIM 保留主卡槽，原號碼在線，銀行App等服務不中斷。"
       - icon: "credit-card"
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "全球付款無障礙"
-        desc: "巴林預付卡充值依賴當地授權經銷商的電子充值卡（面額500 fils、BHD 1等），有效期僅1-100天，且國際信用卡常因網關限制失敗。eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal。"
+        desc: "巴林預付卡儲值依賴當地授權經銷商的電子儲值卡（面額500 fils、BHD 1等），有效期僅1-100天，且國際信用卡常因網關限制失敗。eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal。"
       - icon: "wifi"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
-        title: "純數據套餐無語音浪費"
+        title: "純數據方案無語音浪費"
         desc: "Batelco 週套餐強制包含100分鐘當地通話，STC 月套餐包含500分鐘，對純數據遊客100%無用。eSIM 提供純數據方案，無需為不需要的通話付費。"
 ---

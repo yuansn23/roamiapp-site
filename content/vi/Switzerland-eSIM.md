@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Thụy Sĩ - Phủ sóng 5G trên dãy Alps & Chuyển vùng EU | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Thụy Sĩ - Phủ sóng 5G trên dãy Alps & Chuyển vùng EU
   description: Nhận gói eSIM Thụy Sĩ tốt nhất với 5G trên Swisscom, Sunrise & Salt — từ Jungfraujoch đến Geneva. Bao gồm chuyển vùng EU mà không mất thêm phí. Bỏ qua xếp hàng tại sân bay Zurich. Gói từ $1.99.
-  keywords: eSIM Thụy Sĩ, mua eSIM Thụy Sĩ, eSIM Thụy Sĩ tốt nhất, eSIM du lịch Thụy Sĩ, Swisscom Thụy Sĩ, Sunrise Thụy Sĩ, Salt Thụy Sĩ, eSIM Zurich, eSIM Geneva, eSIM Basel, eSIM trả trước Thụy Sĩ, eSIM 5G Thụy Sĩ, eSIM dãy Alps Thụy Sĩ, eSIM Jungfraujoch, eSIM Thụy Sĩ chuyển vùng EU
+  keywords: eSIM Thụy Sĩ, mua eSIM Thụy Sĩ, eSIM Thụy Sĩ tốt nhất, eSIM du lịch Thụy Sĩ, Swisscom Thụy Sĩ, Sunrise Thụy Sĩ, Salt Thụy Sĩ, eSIM Zurich, eSIM Geneva, eSIM Basel, eSIM trả trước Thụy Sĩ, eSIM 5G Thụy Sĩ, eSIM Bern, eSIM Lausanne, eSIM Thụy Sĩ giá rẻ, sim du lịch Thụy Sĩ
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -73,7 +73,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Phủ sóng trên dãy Alps
     desc: 5G/4G tại Jungfraujoch, Zermatt, Interlaken và tất cả các khu trượt tuyết lớn
-plans_title: 'Mua eSIM Thụy Sĩ: Gói cho mọi thời gian chuyến đi'
+plans_title: 'Bảng giá gói Thụy Sĩ eSIM'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -320,7 +320,7 @@ network_coverage:
       coverage: Phủ sóng 5G đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Thụy Sĩ: Những điều cần biết trước khi đi'
+  title: 'Nhắc nhở chuẩn bị trước chuyến đi Thụy Sĩ'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -343,7 +343,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Thụy Sĩ: 3 bước đơn giản'
+  title: 'Thụy Sĩ eSIM kích hoạt thế nào? 3 bước là xong'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -363,12 +363,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hướng dẫn eSIM Thụy Sĩ: 5G trên Alps, Chuyển vùng EU & Phủ sóng tàu SBB"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Thụy Sĩ. Tìm hiểu tốc độ bạn có thể mong đợi trên dãy Alps, ở các thành phố và trên tàu hỏa."
+  desc: "Tổng hợp hỏi đáp về mạng, tốc độ và kết nối eSIM cho du khách đến Thụy Sĩ."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Thụy Sĩ
+    title: Giải đáp thắc mắc khi dùng Thụy Sĩ eSIM
     questions:
     - q: |
         eSIM của tôi có hoạt động trên dãy Alps Thụy Sĩ — Jungfraujoch, Zermatt, Interlaken không?
@@ -393,7 +393,7 @@ faq_section:
     - q: |
         Tôi có thể mua eSIM Thụy Sĩ mà không tốn quá nhiều tiền không?
       a: |
-        Chắc chắn rồi. Gói eSIM Thụy Sĩ của Roami bắt đầu từ chỉ <strong>$1.99</strong>. Gói 5GB/15 ngày ($7.99) là lựa chọn phổ biến nhất với du khách — nó đáp ứng thoải mái cho lịch trình SBB, Google Maps, WhatsApp, Instagram và chia sẻ ảnh trên dãy Alps với gia đình. Nếu bạn là người dùng nhiều dữ liệu, gói 10GB ($12.99) hoặc 20GB ($19.99) mang lại sự an tâm. Bỏ qua quầy Swisscom tại sân bay giúp bạn tiết kiệm thời gian và tiền bạc — không xếp hàng tại Sân bay Zurich sau chuyến bay dài.
+        Chắc chắn rồi. Gói eSIM Thụy Sĩ của Roami bắt đầu từ chỉ <strong>$1.99</strong>. Gói 5GB/15 ngày ($7.99) là lựa chọn phổ biến nhất với du khách — nó đáp ứng thoải mái cho lịch trình SBB, Google Maps, WhatsApp, Instagram và chia sẻ ảnh trên dãy Alps với gia đình. Nếu bạn là người dùng nhiều dữ liệu, gói 10GB ($9.99) hoặc 20GB ($18.99) mang lại sự an tâm. Bỏ qua quầy Swisscom tại sân bay giúp bạn tiết kiệm thời gian và tiền bạc — không xếp hàng tại Sân bay Zurich sau chuyến bay dài.
     - q: |
         Roami so với SIM trả trước Swisscom hoặc Sunrise địa phương như thế nào?
       a: |
@@ -406,63 +406,75 @@ faq_section:
         Thời hạn của eSIM Thụy Sĩ bắt đầu từ khi nào?
       a: |
         Thời hạn gói bắt đầu khi bạn kết nối với mạng địa phương tại Thụy Sĩ, không phải khi bạn mua hoặc cài đặt. Vì vậy, bạn có thể mua và cài đặt vài tuần trước chuyến đi mà không mất bất kỳ ngày nào. Gói 7 ngày cho bạn đủ 7 ngày từ lần kết nối đầu tiên.
+    - q: |
+        Đến sân bay ở Thụy Sĩ là dùng được internet ngay chứ?
+      a: |
+        Được. Chỉ cần cài eSIM trước, sau khi hạ cánh tắt chế độ máy bay và bật đường eSIM, thường chỉ vài chục giây là kết nối được mạng địa phương, không cần xếp hàng mua SIM vật lý ở sân bay Thụy Sĩ.  Thực tế tại Zurich, Geneva, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
+    - q: |
+        Dùng eSIM Thụy Sĩ ở Zurich, Geneva có ổn không?
+      a: |
+        Zurich, Geneva và các đô thị chính đều được phủ sóng di động đầy đủ: tra bản đồ, gọi xe, nhắn tin và tải ảnh đều ổn. Một số vùng xa của Thụy Sĩ tín hiệu yếu hơn, bạn nên tải bản đồ ngoại tuyến để phòng.  Dù ở Basel, Bern hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
+    - q: |
+        eSIM Thụy Sĩ có những gói mấy ngày?
+      a: |
+        eSIM Thụy Sĩ của Roami có các lựa chọn 3/7/15/30 ngày, tùy theo độ dài hành trình. Chuyến trong ba ngày thì chọn mức ngắn là đủ; từ một tuần trở lên nên chọn gói dài hạn để chi phí mỗi ngày rẻ hơn.  Vùng phủ di động tại Zurich, Lausanne đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
 related_products:
   title: Các gói eSIM Thụy Sĩ liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
+  - name: eSIM Seychelles
+    flag: img/flags/sc.svg
+    price: Từ $9.99
+    is_highlight: false
+  - name: eSIM Singapore
+    flag: img/flags/sg.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Sierra Leone
+    flag: img/flags/si.svg
+    price: Từ $10.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM El Salvador
+    flag: img/flags/sv.svg
+    price: Từ $23.99
+    is_highlight: false
+  - name: eSIM Eswatini
+    flag: img/flags/sz.svg
+    price: Từ $19.99
+    is_highlight: false
+  - name: eSIM Chad
+    flag: img/flags/td.svg
+    price: Từ $23.99
+    is_highlight: false
+  - name: eSIM Thái Lan
+    flag: img/flags/th.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
+  - name: eSIM Tajikistan
+    flag: img/flags/tj.svg
+    price: Từ $4.99
+    is_highlight: false
+  - name: eSIM Tunisia
+    flag: img/flags/tn.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: Turkey eSIM
     flag: img/flags/tr.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
+  - name: Taiwan eSIM
+    flag: img/flags/tw.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: eSIM Tanzania
+    flag: img/flags/tz.svg
+    price: Từ $7.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Thụy Sĩ vs SIM trả trước nội địa: Lựa chọn nào tốt hơn cho du khách trên dãy Alps?'
   subtitle: 'SIM trả trước nội địa Thụy Sĩ vs. Giải pháp eSIM (Tiêu chuẩn 2024/2025)'
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Thụy Sĩ) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Switzerland
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước nội địa (Dữ liệu thị trường)

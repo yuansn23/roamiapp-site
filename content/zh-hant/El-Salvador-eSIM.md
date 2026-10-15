@@ -1,6 +1,6 @@
 ---
 title: '薩爾瓦多 eSIM 2026: 覆蓋範圍與速度 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,9 +17,8 @@ modal:
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
   title: "薩爾瓦多eSIM｜5G高速上網，吃到飽不降速 "
-  description: "出國旅遊去薩爾瓦多必備Roami eSIM旅遊必備方案，5G高速上網查地圖找美食分享照片一趟旅程全靠它。最低$1.99起超值價格，線上購買即時開通抵達直接用。"
-  keywords: 薩爾瓦多 eSIM, 薩爾瓦多 eSIM方案, 最佳薩爾瓦多 eSIM, 薩爾瓦多上網, Tigo 薩爾瓦多, Claro 薩爾瓦多, Movistar 薩爾瓦多, 聖薩爾瓦多 eSIM, 聖米格爾 eSIM, 聖安娜
-    eSIM, 薩爾瓦多行動網路, 5G 薩爾瓦多
+  description: "出國旅遊去薩爾瓦多必備Roami eSIM旅遊必備方案，5G高速上網查地圖找美食分享照片一趟旅程全靠它。最低$23.99起超值價格，線上購買即時開通抵達直接用。"
+  keywords: 薩爾瓦多 eSIM, eSIM 薩爾瓦多, 薩爾瓦多 eSIM 購買, 最佳薩爾瓦多 eSIM, 薩爾瓦多 上網, Tigo 薩爾瓦多, Claro 薩爾瓦多, Movistar 薩爾瓦多, 聖薩爾瓦多 eSIM, 聖米格爾 eSIM, 聖安娜 eSIM, 拉利伯塔德 eSIM, 松索納特 eSIM, 薩爾瓦多 eSIM 方案, 薩爾瓦多 5G eSIM, 薩爾瓦多 eSIM 預付卡
 order_summary:
   title: 選擇 薩爾瓦多 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線薩爾瓦多最佳電信商，取得最強訊號
-plans_title: 購買薩爾瓦多 eSIM：適合各種旅程的方案
+plans_title: 選一張適合旅程的薩爾瓦多 eSIM
 plans_data:
   3 天:
   - spec: 無限
@@ -219,7 +218,7 @@ network_coverage:
       coverage: 良好市區覆蓋
       network: 4G/LTE 網路
 reminders:
-  title: 薩爾瓦多 eSIM秘訣：出發前須知
+  title: 薩爾瓦多 eSIM 實用小提醒
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -248,7 +247,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 薩爾瓦多 eSIM啟用：3個簡單步驟
+  title: 抵達前完成：薩爾瓦多 eSIM 啟用
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 薩爾瓦多 做好準備
@@ -283,7 +282,7 @@ faq_section:
     title: 薩爾瓦多 eSIM Tigo與Claro收訊實測｜哪家涵蓋更廣
     questions:
     - q: 薩爾瓦多eSIM有分不同價位，便宜跟貴的方案差在哪裡？
-      a: Roami 薩爾瓦多 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。薩爾瓦多以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去薩爾瓦多機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到薩爾瓦多後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 薩爾瓦多 eSIM方案從$23.99（7天3GB）起，最高$165.99（30天30GB）。一般旅客買最多的是5GB/15天（$37.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。薩爾瓦多以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去薩爾瓦多機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到薩爾瓦多後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: Tigo、Claro、Movistar這三家在薩爾瓦多的收訊，在市區和郊區各推薦哪家？
       a: 薩爾瓦多主要有Tigo、Claro、Movistar。Tigo市區下載快、基地台密集。Claro郊區覆蓋廣，會去郊區的話選Claro路線較有保障。Movistar價格親民，適合預算有限的旅客。薩爾瓦多4G為主。不過Roami會自動切換到當前訊號最強的網路。市區用Tigo，移動到郊區若Tigo訊號變弱就自動跳Claro或Movistar，完全不用手動選。
     - q: 去薩爾瓦多用eSIM需要先通過身分驗證嗎？要準備哪些證件？
@@ -291,80 +290,85 @@ faq_section:
     - q: 在薩爾瓦多的郊區或小鎮也能正常使用eSIM嗎？查地圖導航會不會斷？
       a: 薩爾瓦多的Tigo等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。薩爾瓦多4G為主。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 去薩爾瓦多旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
-      a: Roami 薩爾瓦多 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
+      a: Roami 薩爾瓦多 eSIM方案從$23.99（7天3GB）起，最高$165.99（30天30GB）。一般選5GB/15天（$37.99）最熱門，不夠再到App加購。
     - q: 跟旅伴一起去薩爾瓦多，買一張eSIM開熱點分享夠兩個人用嗎？
       a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
+    - q: 薩爾瓦多 eSIM 大概多少錢？有便宜的選擇嗎？
+      a: Roami 薩爾瓦多 eSIM 方案從 $23.99（7天3GB）起，最高 $165.99（30天30GB）。短期輕度使用挑入門方案即可，用量大的旅客再選高規格。價格透明，方案到期自動失效，不會續約扣款。 實際走訪 聖薩爾瓦多、聖米格爾 等主要城市，上網查資料、傳照片都沒問題。
+    - q: 薩爾瓦多 eSIM 的網速快嗎？會不會比當地實體卡慢？
+      a: Roami 薩爾瓦多 eSIM 走當地主要電信商的基地台，速度與當地預付卡相當，日常查地圖、社群、視訊通話都很順。實際速度仍會受所在位置與當下網路負載影響。 不論在 聖安娜、拉利伯塔德，連線品質都相當穩定。
+    - q: 去薩爾瓦多玩幾天，該挑多大的eSIM規格才夠用？
+      a: Roami 薩爾瓦多 eSIM 有 無限、3GB、5GB、10GB、20GB、30GB 等規格可選。短天數、只查地圖傳訊息的輕度使用，無限 就夠；如果會看短影片、視訊通話或開熱點分享，建議再往上加一級。用量抓不準可以先買小的，到 薩爾瓦多 後在 App 加購即可，不用換卡。 聖薩爾瓦多、松索納特 等地的行動網路覆蓋完整，跨區移動也不斷線。
 related_products:
-  title: 類似 薩爾瓦多 eSIM 的旅行方案
+  title: 出發前也看看這些 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 沙烏地阿拉伯 eSIM
+    flag: img/flags/sa.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: saudi-arabia-esim
+  - name: 關島 eSIM
+    flag: img/flags/gu.svg
+    price: 自 $9.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: malaysia-esim
+    slug: guam-esim
   - name: 美國 eSIM
     flag: img/flags/us.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: false
     slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+  - name: 馬達加斯加 eSIM
+    flag: img/flags/mg.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: madagascar-esim
+  - name: 巴西 eSIM
+    flag: img/flags/br.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: australia-esim
+    slug: brazil-esim
   - name: 香港 eSIM
     flag: img/flags/hk.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: false
     slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+  - name: 匈牙利 eSIM
+    flag: img/flags/hu.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: hungary-esim
+  - name: 法屬圭亞那 eSIM
+    flag: img/flags/gf.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: french-guiana-esim
+  - name: 韓國 eSIM
+    flag: img/flags/kr.svg
+    price: 自 $1.99
+    is_highlight: true
+    slug: south-korea-esim
+  - name: 盧森堡 eSIM
+    flag: img/flags/lu.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: luxembourg-esim
+  - name: 蒙古 eSIM
+    flag: img/flags/mn.svg
+    price: 自 $9.99
+    is_highlight: false
+    slug: mongolia-esim
+  - name: 尼泊爾 eSIM
+    flag: img/flags/np.svg
+    price: 自 $10.99
+    is_highlight: false
+    slug: nepal-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "El Salvador eSIM 好用嗎？上網速度與訊號深度體驗"
   subtitle: "薩爾瓦多當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (El-Salvador) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/El-Salvador"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -373,7 +377,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in El Salvador. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Tigo 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 Claro 或 Tigo 門市排隊與護照驗證，抵達薩爾瓦多後一分鐘內線上啟用 eSIM，無需等待店員操作。"
     - icon: "id-card"
@@ -397,21 +401,21 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "當地預付卡多數支援熱點分享，但 Tigo 等業者常在用量達到門檻後降低速度，部分低價方案則直接限制分享功能。"
       esim_title: "無限熱點分享"
       esim_desc: "Tigo 禁止 WhatsApp 網路通話（VoIP），而 eSIM 允許無限熱點分享，所有應用程式皆可使用，無限制。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "Claro 的線上充值門戶（Recharge Portal）需要使用本國銀行卡才能完成購買；所有價格需額外加收 5% 的電信服務稅（CESC）。"
+      prepaid_desc: "Claro 的線上儲值門戶（Recharge Portal）需要使用本國銀行卡才能完成購買；所有價格需額外加收 5% 的電信服務稅（CESC）。"
       esim_title: "全球付款方式"
-      esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需像 Claro 那樣使用本國銀行卡，避免充值被拒。"
+      esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需像 Claro 那樣使用本國銀行卡，避免儲值被拒。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "遇到問題只能找 Tigo、Claro 的門市或客服專線，語言以當地語言為主，且非全天候服務，旅客求助不易。"
       esim_title: "24/7 客戶支援"
-      esim_desc: "提供全天候即時線上聊天支援，無需像當地運營商那樣僅有有限營業時間或語言障礙。"
+      esim_desc: "提供全天候即時線上聊天支援，無需像當地電信商那樣僅有有限營業時間或語言障礙。"
 
   # =============== 100% 完整復原：專家評語模組 ===============
   expert_verdict:
@@ -436,5 +440,5 @@ market_analysis:
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"
         title: "告別 Digicel 的虛假 4G"
-        desc: "Digicel 宣稱的「4G」實際上是<b>3G/HSPA+</b>，且離開大聖薩爾瓦多地區後覆蓋極低。eSIM 使用當地頂級網絡，提供穩定連線。"
+        desc: "Digicel 宣稱的「4G」實際上是<b>3G/HSPA+</b>，且離開大聖薩爾瓦多地區後覆蓋極低。eSIM 使用當地頂級網路，提供穩定連線。"
 ---

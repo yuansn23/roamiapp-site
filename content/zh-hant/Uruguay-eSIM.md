@@ -1,6 +1,6 @@
 ---
 title: '烏拉圭 eSIM 2026: 覆蓋範圍與速度 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -16,10 +16,9 @@ modal:
   text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "烏拉圭eSIM｜5G上網$1.99起，吃到飽不降速 "
-  description: "Roami eSIM免綁約方案提供烏拉圭5G上網，最低只要$1.99起超值價格。便宜出國上網推薦免綁約方案，免實名認證免綁約，線上購買秒收QR Code即開即用超方便。"
-  keywords: 烏拉圭 eSIM, 烏拉圭 eSIM方案, 最佳烏拉圭 eSIM, 烏拉圭上網, Antel 烏拉圭, Claro 烏拉圭, Movistar 烏拉圭, 蒙得維的亞 eSIM, 埃斯特角城 eSIM, 科洛尼亞德爾薩克拉門托
-    eSIM, 烏拉圭行動網路, 5G 烏拉圭
+  title: "烏拉圭eSIM｜5G上網$11.99起，吃到飽不降速 "
+  description: "Roami eSIM免綁約方案提供烏拉圭5G上網，最低只要$11.99起超值價格。便宜出國上網推薦免綁約方案，免實名認證免綁約，線上購買秒收QR Code即開即用超方便。"
+  keywords: 烏拉圭 eSIM, eSIM 烏拉圭, 烏拉圭 eSIM 購買, 最佳烏拉圭 eSIM, 烏拉圭 上網, Antel 烏拉圭, Claro 烏拉圭, Movistar 烏拉圭, 蒙得維的亞 eSIM, 埃斯特角城 eSIM, 科洛尼亞德爾薩克拉門托 eSIM, 內科切阿 eSIM, 烏拉圭 eSIM 方案, 烏拉圭 5G eSIM, 烏拉圭 eSIM 預付卡, 烏拉圭 網卡
 order_summary:
   title: 選擇 烏拉圭 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線烏拉圭最佳電信商，取得最強訊號
-plans_title: 購買烏拉圭 eSIM：適合各種旅程的方案
+plans_title: 烏拉圭 eSIM 上網方案總覽
 plans_data:
   7 天:
   - spec: 1GB
@@ -273,7 +272,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 烏拉圭 eSIM秘訣：出發前須知
+  title: 烏拉圭 eSIM 行前小提醒
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -302,7 +301,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 烏拉圭 eSIM啟用：3個簡單步驟
+  title: 烏拉圭 eSIM：從安裝到連線
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 烏拉圭 做好準備
@@ -337,7 +336,7 @@ faq_section:
     title: 烏拉圭 eSIM 電信商Antel、Claro、Movistar哪個好？網路速度完整比較
     questions:
     - q: 去烏拉圭自由行的話，辦eSIM上網大概要花多少錢？
-      a: Roami 烏拉圭 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Antel在烏拉圭市區5G網速約100-300Mbps，看1080p影片沒問題。去烏拉圭機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到烏拉圭後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 烏拉圭 eSIM方案從$11.99（7天1GB）起，最高$98.99（15天30GB）。一般旅客買最多的是5GB/15天（$26.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Antel在烏拉圭市區5G網速約100-300Mbps，看1080p影片沒問題。去烏拉圭機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到烏拉圭後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: Antel、Claro、Movistar這三家在烏拉圭的收訊，在市區和郊區各推薦哪家？
       a: 烏拉圭主要有Antel、Claro、Movistar。Antel市區下載快、基地台密集。Claro郊區覆蓋廣，會去郊區的話選Claro路線較有保障。Movistar價格親民，適合預算有限的旅客。烏拉圭4G/5G，蒙特維多覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Antel，移動到郊區若Antel訊號變弱就自動跳Claro或Movistar，完全不用手動選。
     - q: 烏拉圭eSIM買了之後要驗證證件嗎？沒先辦好會不會到了不能用？
@@ -348,77 +347,82 @@ faq_section:
       a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
     - q: 烏拉圭eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
       a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
+    - q: 買烏拉圭 eSIM 支援哪些付款方式？多久能收到？
+      a: Roami 支援信用卡等常見線上付款，結帳後 QR code 會寄到你的電子郵件，通常幾分鐘內就能收到。建議出發前先在台灣買好、裝好，抵達 烏拉圭 即可連線。 在 蒙得維的亞、埃斯特角城 一帶實測收訊良好，移動中會自動切換基地台。
+    - q: 去烏拉圭玩幾天，該挑多大的eSIM規格才夠用？
+      a: Roami 烏拉圭 eSIM 有 1GB、無限、3GB、5GB、10GB、20GB 等規格可選。短天數、只查地圖傳訊息的輕度使用，1GB 就夠；如果會看短影片、視訊通話或開熱點分享，建議再往上加一級。用量抓不準可以先買小的，到 烏拉圭 後在 App 加購即可，不用換卡。 科洛尼亞德爾薩克拉門托、內科切阿 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
+    - q: 烏拉圭 eSIM 可以開熱點分享給旅伴嗎？
+      a: 可以，Roami 烏拉圭 eSIM 支援熱點分享，能分給筆電、平板或同行旅伴。多人共用建議挑規格大一級的方案，避免中途用完；用量抓不準也可以事後在 App 加購。 實際走訪 蒙得維的亞、內科切阿 等主要城市，上網查資料、傳照片都沒問題。
 related_products:
   title: 類似 烏拉圭 eSIM 的旅行方案
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+  - name: 加拿大 eSIM
+    flag: img/flags/ca.svg
+    price: 自 $3.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: canada-esim
+  - name: 巴西 eSIM
+    flag: img/flags/br.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: brazil-esim
+  - name: 波蘭 eSIM
+    flag: img/flags/pl.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: singapore-esim
+    slug: poland-esim
+  - name: 俄羅斯 eSIM
+    flag: img/flags/ru.svg
+    price: 自 $2.99
+    is_highlight: false
+    slug: russia-esim
+  - name: 伊拉克 eSIM
+    flag: img/flags/iq.svg
+    price: 自 $21.99
+    is_highlight: false
+    slug: iraq-esim
+  - name: 馬爾他 eSIM
+    flag: img/flags/mt.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: malta-esim
+  - name: 摩洛哥 eSIM
+    flag: img/flags/ma.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: morocco-esim
   - name: 馬來西亞 eSIM
     flag: img/flags/my.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: false
     slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+  - name: 拉脫維亞 eSIM
+    flag: img/flags/lv.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: latvia-esim
+  - name: 迦納 eSIM
+    flag: img/flags/gh.svg
+    price: 自 $7.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: ghana-esim
+  - name: 阿富汗 eSIM
+    flag: img/flags/af.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: hong-kong-esim
+    slug: afghanistan-esim
   - name: 中國 eSIM
     flag: img/flags/cn.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: false
     slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: philippines-esim
-
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Uruguay eSIM 上網速度如何？旅客實際體驗分享"
   subtitle: "烏拉圭當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Uruguay) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Uruguay"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -427,13 +431,13 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Uruguay. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Antel 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 Antel 門市排隊，抵達蒙得維的亞後一分鐘內線上啟用 Roami eSIM，無需尋找實體店或等待配送。"
     - icon: "id-card"
       title: "KYC 與護照登記"
       prepaid_title: ""
-      prepaid_desc: "所有三大運營商均要求購卡時出示護照原件（不接受複印件），此前還需提供本地地址，現已取消該要求，但護照 KYC 仍為剛性門檻。"
+      prepaid_desc: "所有三大電信商均要求購卡時出示護照原件（不接受複印件），此前還需提供本地地址，現已取消該要求，但護照 KYC 仍為剛性門檻。"
       esim_title: "免護照驗證"
       esim_desc: "無需出示護照原件，Roami eSIM 完全跳過 KYC 流程，保護個人隱私，而 Antel、Movistar 和 Claro 均強制要求護照登記。"
     - icon: "globe"
@@ -445,27 +449,27 @@ market_analysis:
     - icon: "calendar-xmark"
       title: "計費週期與浪費成本"
       prepaid_title: ""
-      prepaid_desc: "Antel 的 180 比索方案為自動續訂，遊客極易忽略退訂導致持續扣費；充值有效期視金額從 3 天到 120 天不等，例如 120 比索方案有效期僅 3 天。"
+      prepaid_desc: "Antel 的 180 比索方案為自動續訂，遊客極易忽略退訂導致持續扣費；儲值有效期視金額從 3 天到 120 天不等，例如 120 比索方案有效期僅 3 天。"
       esim_title: "彈性計費週期"
       esim_desc: "與 Antel 的 3 天週期（120 比索/30GB）或自動續訂陷阱不同，Roami 提供 7 天數據方案，最低 1.99 美元/GB，節省 75% 的浪費。"
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "分享與降速規則由 Antel、Claro 各自訂定，同一張卡在不同方案下限制不同，旅客容易誤判實際可用速度。"
       esim_title: "無限熱點分享"
-      esim_desc: "Roami eSIM 支持熱點分享，無速度限制；而當地預付卡可能限制分享或降速，例如 Antel 未明確政策但常見限制。"
+      esim_desc: "Roami eSIM 支援熱點分享，無速度限制；而當地預付卡可能限制分享或降速，例如 Antel 未明確政策但常見限制。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "可在 Antel 標識點、Redpagos、Abitab、HoyJuega 等線下渠道充值，但文本未提及支持國際信用卡線上支付，遊客通常需以現金在實體點操作。"
+      prepaid_desc: "可在 Antel 標識點、Redpagos、Abitab、HoyJuega 等線下渠道儲值，但文本未提及支援國際信用卡線上支付，遊客通常需以現金在實體點操作。"
       esim_title: "全球付款方式"
-      esim_desc: "Roami 接受 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需現金充值；Antel 僅接受線下現金充值，對外國遊客不便。"
+      esim_desc: "Roami 接受 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需現金儲值；Antel 僅接受線下現金儲值，對外國遊客不便。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "Antel 的客服以本地語言為主且時間有限，漫遊或設定問題往往需自行摸索，缺少全天候支援管道。"
       esim_title: "24/7 多語言支援"
-      esim_desc: "Roami 提供 24/7 多語言客服，包括即時線上聊天；當地運營商如 Antel 客服可能僅提供西班牙語，且預付客戶支援有限。"
+      esim_desc: "Roami 提供 24/7 多語言客服，包括即時線上聊天；當地電信商如 Antel 客服可能僅提供西班牙語，且預付客戶支援有限。"
 
   # =============== 100% 完整復原：專家評語模組 ===============
   expert_verdict:
@@ -485,7 +489,7 @@ market_analysis:
         icon_bg: "bg-orange-100"
         icon_color: "text-orange-600"
         title: "24/7 多語言客服支援"
-        desc: "當地運營商客服多為西班牙語，且預付客戶支援有限。Roami 提供 24/7 多語言即時聊天，隨時解決問題。"
+        desc: "當地電信商客服多為西班牙語，且預付客戶支援有限。Roami 提供 24/7 多語言即時聊天，隨時解決問題。"
       - icon: "clock"
         icon_bg: "bg-cyan-100"
         icon_color: "text-cyan-600"

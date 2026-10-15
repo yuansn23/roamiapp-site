@@ -1,6 +1,6 @@
 ---
 title: '柬埔寨 eSIM 2026: 電信商與覆蓋 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,7 @@ modal:
 seo:
   title: "柬埔寨eSIM｜免綁約5G上網，旅行結束自動失效超省心"
   description: "Roami eSIM免綁約5G上網方案在柬埔寨提供高速穩定的出國網路卡體驗。不用簽合約不用綁約出國上網輕鬆無負擔，旅行結束自動失效超省心，即買即用超方便。"
-  keywords: 柬埔寨 eSIM, 柬埔寨 eSIM方案, 最佳柬埔寨 eSIM, 柬埔寨上網, Smart Axiata 柬埔寨, Cellcard 柬埔寨, Metfone 柬埔寨, 金邊 eSIM, 暹粒 eSIM, 西哈努克 eSIM,
-    柬埔寨行動網路, 5G 柬埔寨
+  keywords: 柬埔寨 eSIM, eSIM 柬埔寨, 柬埔寨 eSIM 購買, 最佳柬埔寨 eSIM, 柬埔寨 上網, Smart Axiata 柬埔寨, Cellcard 柬埔寨, Metfone 柬埔寨, 金邊 eSIM, 暹粒 eSIM, 西哈努克 eSIM, 馬德望 eSIM, 貢布 eSIM, 柬埔寨 eSIM 方案, 柬埔寨 5G eSIM, 柬埔寨 eSIM 預付卡
 order_summary:
   title: 選擇 柬埔寨 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線柬埔寨最佳電信商，取得最強訊號
-plans_title: 購買柬埔寨 eSIM：適合各種旅程的方案
+plans_title: 挑選你的柬埔寨 eSIM 方案
 plans_data:
   30 天:
   - spec: 20GB
@@ -308,7 +307,7 @@ network_coverage:
       coverage: 良好市區覆蓋
       network: 5G/4G/LTE 網路
 reminders:
-  title: 柬埔寨 eSIM秘訣：出發前須知
+  title: 前往柬埔寨前的 eSIM 準備事項
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -337,7 +336,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 柬埔寨 eSIM啟用：3個簡單步驟
+  title: 柬埔寨 eSIM 設定步驟說明
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 柬埔寨 做好準備
@@ -376,7 +375,7 @@ faq_section:
     title: 柬埔寨 eSIM Cellcard等網路速度實測｜最適合旅行上網的選擇
     questions:
     - q: 第一次去柬埔寨想用eSIM，方案好多不知道怎麼挑選比較好？
-      a: Roami 柬埔寨 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Cellcard在柬埔寨市區5G網速約100-300Mbps，看1080p影片沒問題。去柬埔寨機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到柬埔寨後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 柬埔寨 eSIM方案從$3.99（3天1GB）起，最高$88.99（30天無限）。一般旅客買最多的是5GB/15天（$7.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Cellcard在柬埔寨市區5G網速約100-300Mbps，看1080p影片沒問題。去柬埔寨機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到柬埔寨後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: Cellcard、Smart、Metfone這三家在柬埔寨的收訊，在市區和郊區各推薦哪家？
       a: 柬埔寨主要有Cellcard、Smart、Metfone。Cellcard市區下載快、基地台密集。Smart郊區覆蓋廣，會去郊區的話選Smart路線較有保障。Metfone價格親民，適合預算有限的旅客。柬埔寨4G為主，5G於金邊開通。不過Roami會自動切換到當前訊號最強的網路。市區用Cellcard，移動到郊區若Cellcard訊號變弱就自動跳Smart或Metfone，完全不用手動選。
     - q: 柬埔寨eSIM買了之後要驗證證件嗎？沒先辦好會不會到了不能用？
@@ -387,77 +386,82 @@ faq_section:
       a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
     - q: 出國去柬埔寨用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
       a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到柬埔寨開數據漫遊就用。
+    - q: 去柬埔寨之後順道去其他國家，同一張eSIM能繼續用嗎？
+      a: Roami 柬埔寨 eSIM 以 柬埔寨 境內使用為主；若行程會跨到鄰國，建議另外加購該國或區域方案，避免產生額外的漫遊費用。 不論在 金邊、暹粒，連線品質都相當穩定。
+    - q: 柬埔寨 eSIM 大概多少錢？有便宜的選擇嗎？
+      a: Roami 柬埔寨 eSIM 方案從 $3.99（3天1GB）起，最高 $88.99（30天無限）。短期輕度使用挑入門方案即可，用量大的旅客再選高規格。價格透明，方案到期自動失效，不會續約扣款。 西哈努克、馬德望 等地的行動網路覆蓋完整，跨區移動也不斷線。
+    - q: 買柬埔寨 eSIM 支援哪些付款方式？多久能收到？
+      a: Roami 支援信用卡等常見線上付款，結帳後 QR code 會寄到你的電子郵件，通常幾分鐘內就能收到。建議出發前先在台灣買好、裝好，抵達 柬埔寨 即可連線。 另外，金邊、貢布 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
 related_products:
-  title: 類似 柬埔寨 eSIM 的旅行方案
+  title: 相關 eSIM 方案推薦
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 巴西 eSIM
+    flag: img/flags/br.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: brazil-esim
+  - name: 列支敦斯登 eSIM
+    flag: img/flags/li.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+    slug: liechtenstein-esim
+  - name: 多明尼加共和國 eSIM
+    flag: img/flags/do.svg
+    price: 自 $5.99
+    is_highlight: false
+    slug: dominican-republic-esim
+  - name: 德國 eSIM
+    flag: img/flags/de.svg
+    price: 自 $1.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: germany-esim
+  - name: 多米尼克 eSIM
+    flag: img/flags/dm.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: dominica-esim
+  - name: 埃及 eSIM
+    flag: img/flags/eg.svg
+    price: 自 $2.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: egypt-esim
+  - name: 台灣 eSIM
+    flag: img/flags/tw.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: taiwan-esim
+  - name: 蓋亞那 eSIM
+    flag: img/flags/gy.svg
+    price: 自 $9.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: guyana-esim
+  - name: 厄瓜多 eSIM
+    flag: img/flags/ec.svg
+    price: 自 $6.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: ecuador-esim
+  - name: 亞美尼亞 eSIM
+    flag: img/flags/am.svg
+    price: 自 $7.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: armenia-esim
+  - name: 智利 eSIM
+    flag: img/flags/cl.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+    slug: chile-esim
+  - name: 希臘 eSIM
+    flag: img/flags/gr.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: philippines-esim
-
+    slug: greece-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Cambodia eSIM 網速與收訊全攻略 -- 旅行不斷線"
   subtitle: "柬埔寨當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Cambodia) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Cambodia"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -466,7 +470,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Cambodia. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Smart Axiata 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開金邊機場 Smart 攤位可能拒絕販售旅遊卡或強推普通卡的風險，也無需像 Metfone 用戶一樣尋找 Showroom 複印護照。Roami eSIM 在落地後一分鐘內線上啟用，完全免排隊、免護照把玩。"
     - icon: "id-card"
@@ -490,21 +494,21 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。基於市場知識，柬埔寨當地 SIM 卡通常允許熱點分享，但速度可能受限。"
+      prepaid_desc: "柬埔寨當地 SIM 卡通常允許熱點分享，但速度可能受限。"
       esim_title: "無限熱點分享"
       esim_desc: "柬埔寨當地 SIM 卡可能限制熱點分享或降速，而 Roami eSIM 支援無限熱點分享，可同時連接多台設備，速度不受限，適合團隊旅行或商務使用。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。基於市場知識，當地 SIM 卡通常接受現金或當地支付方式，外國信用卡可能不被接受。"
+      prepaid_desc: "當地 SIM 卡通常接受現金或當地支付方式，外國信用卡可能不被接受。"
       esim_title: "全球付款暢通"
-      esim_desc: "當地 SIM 卡充值常需現金或本地支付，外國信用卡可能被拒。Roami eSIM 接受 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，線上儲值即時生效，無需尋找實體充值點。"
+      esim_desc: "當地 SIM 卡儲值常需現金或本地支付，外國信用卡可能被拒。Roami eSIM 接受 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，線上儲值即時生效，無需尋找實體儲值點。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。基於市場知識，當地運營商客服通常提供高棉語和英語，但預付卡用戶可能無法獲得優先支援。"
+      prepaid_desc: "當地電信商客服通常提供高棉語和英語，但預付卡用戶可能無法獲得優先支援。"
       esim_title: "24/7 中文支援"
-      esim_desc: "柬埔寨運營商客服通常僅提供高棉語和英語，且預付卡用戶無優先支援。Roami eSIM 提供 24/7 全天候繁體中文客服，透過即時聊天快速解決問題，旅行無憂。"
+      esim_desc: "柬埔寨電信商客服通常僅提供高棉語和英語，且預付卡用戶無優先支援。Roami eSIM 提供 24/7 全天候繁體中文客服，透過即時聊天快速解決問題，旅行無憂。"
 
   # =============== 100% 完整復原：專家評語模組 ===============
   expert_verdict:

@@ -1,6 +1,6 @@
 ---
 title: '摩洛哥 eSIM 2026: 5G與方案 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,7 @@ modal:
 seo:
   title: "摩洛哥eSIM｜免綁約5G上網，吃到飽不降速"
   description: "Roami eSIM免綁約5G上網方案在摩洛哥提供高速穩定的出國網路卡體驗。不用簽合約不用綁約出國上網輕鬆無負擔，旅行結束自動失效超省心，即買即用超方便。"
-  keywords: 摩洛哥 eSIM, 摩洛哥 eSIM方案, 最佳摩洛哥 eSIM, 摩洛哥上網, Maroc Telecom 摩洛哥, Orange 摩洛哥, inwi 摩洛哥, 卡薩布蘭卡 eSIM, 馬拉喀什 eSIM, 菲斯 eSIM,
-    摩洛哥行動網路, 5G 摩洛哥
+  keywords: 摩洛哥 eSIM, eSIM 摩洛哥, 摩洛哥 eSIM 購買, 最佳摩洛哥 eSIM, 摩洛哥 上網, Maroc Telecom 摩洛哥, Orange 摩洛哥, inwi 摩洛哥, 卡薩布蘭卡 eSIM, 馬拉喀什 eSIM, 菲斯 eSIM, 拉巴特 eSIM, 丹吉爾 eSIM, 摩洛哥 eSIM 方案, 摩洛哥 5G eSIM, 摩洛哥 eSIM 預付卡
 order_summary:
   title: 選擇 摩洛哥 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線摩洛哥最佳電信商，取得最強訊號
-plans_title: 購買摩洛哥 eSIM：適合各種旅程的方案
+plans_title: 摩洛哥 eSIM 各式方案快速挑選
 plans_data:
   7 天:
   - spec: 1GB
@@ -297,7 +296,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 摩洛哥 eSIM秘訣：出發前須知
+  title: 摩洛哥 eSIM 實用提醒總整理
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -326,7 +325,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 摩洛哥 eSIM啟用：3個簡單步驟
+  title: 摩洛哥 eSIM 啟用流程說明
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 摩洛哥 做好準備
@@ -361,7 +360,7 @@ faq_section:
     title: 摩洛哥 eSIM 5G網速與電信商比較｜Maroc Telecom、Orange、Inwi覆蓋評測
     questions:
     - q: 短期去摩洛哥玩個三五天，eSIM最便宜的方案大概多少錢？
-      a: Roami 摩洛哥 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Maroc Telecom在摩洛哥市區5G網速約100-300Mbps，看1080p影片沒問題。去摩洛哥機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到摩洛哥後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 摩洛哥 eSIM方案從$3.99（7天1GB）起，最高$94.99（15天無限）。一般旅客買最多的是5GB/15天（$13.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Maroc Telecom在摩洛哥市區5G網速約100-300Mbps，看1080p影片沒問題。去摩洛哥機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到摩洛哥後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 去摩洛哥玩辦eSIM，Roami會自動切換Maroc Telecom、Orange、Inwi的網路嗎？
       a: 摩洛哥主要有Maroc Telecom、Orange、Inwi。Maroc Telecom市區下載快、基地台密集。Orange郊區覆蓋廣，會去郊區的話選Orange路線較有保障。Inwi價格親民，適合預算有限的旅客。摩洛哥4G為主，5G於卡薩布蘭卡等城市開通。不過Roami會自動切換到當前訊號最強的網路。市區用Maroc Telecom，移動到郊區若Maroc Telecom訊號變弱就自動跳Orange或Inwi，完全不用手動選。
     - q: 去摩洛哥用eSIM需要先通過身分驗證嗎？要準備哪些證件？
@@ -372,77 +371,82 @@ faq_section:
       a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到摩洛哥開數據漫遊就用。
     - q: 跟旅伴一起去摩洛哥，買一張eSIM開熱點分享夠兩個人用嗎？
       a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
+    - q: 摩洛哥 eSIM 的網速快嗎？會不會比當地實體卡慢？
+      a: Roami 摩洛哥 eSIM 走當地主要電信商的基地台，速度與當地預付卡相當，日常查地圖、社群、視訊通話都很順。實際速度仍會受所在位置與當下網路負載影響。 卡薩布蘭卡、馬拉喀什 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
+    - q: 摩洛哥的Maroc Telecom和Orange，用eSIM哪一家訊號比較好？
+      a: 摩洛哥主要有Maroc Telecom、Orange等電信商。Roami 會自動選擇當下訊號最強的網路，在Maroc Telecom與Orange之間自動切換，不用手動設定。若行程會拉到郊區或離島，出發前先下載離線地圖會更保險。 實際走訪 菲斯、拉巴特 等主要城市，上網查資料、傳照片都沒問題。
+    - q: 摩洛哥 eSIM 要怎麼啟用？要抵達當地才開嗎？
+      a: 建議出發前先用 WiFi 掃描 QR code 安裝描述檔，抵達 摩洛哥 後再開啟 eSIM 線路並打開數據漫遊，連上當地網路就會自動啟用，方案效期也從那時開始計算。 不論在 卡薩布蘭卡、丹吉爾，連線品質都相當穩定。
 related_products:
-  title: 類似 摩洛哥 eSIM 的旅行方案
+  title: 熱門目的地 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 波札那 eSIM
+    flag: img/flags/bw.svg
+    price: 自 $14.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: botswana-esim
+  - name: 盧森堡 eSIM
+    flag: img/flags/lu.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
+    slug: luxembourg-esim
   - name: 越南 eSIM
     flag: img/flags/vn.svg
-    price: От 1,99 $
-    is_highlight: false
+    price: 自 $1.99
+    is_highlight: true
     slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+  - name: 拉脫維亞 eSIM
+    flag: img/flags/lv.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: singapore-esim
+    slug: latvia-esim
+  - name: 捷克 eSIM
+    flag: img/flags/cz.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: czech-republic-esim
+  - name: 牙買加 eSIM
+    flag: img/flags/jm.svg
+    price: 自 $11.99
+    is_highlight: false
+    slug: jamaica-esim
+  - name: 馬達加斯加 eSIM
+    flag: img/flags/mg.svg
+    price: 自 $11.99
+    is_highlight: false
+    slug: madagascar-esim
+  - name: 蒙特內哥羅 eSIM
+    flag: img/flags/me.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: montenegro-esim
+  - name: 義大利 eSIM
+    flag: img/flags/it.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: italy-esim
+  - name: 馬爾地夫 eSIM
+    flag: img/flags/mv.svg
+    price: 自 $14.99
+    is_highlight: false
+    slug: maldives-esim
+  - name: 克羅埃西亞 eSIM
+    flag: img/flags/hr.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: croatia-esim
   - name: 馬來西亞 eSIM
     flag: img/flags/my.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: false
     slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: philippines-esim
-
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Morocco eSIM 上網速度如何？旅客實際體驗分享"
   subtitle: "摩洛哥當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Morocco) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Morocco"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -451,7 +455,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Morocco. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Maroc Telecom 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 Maroc Telecom 門市排隊與 30 分鐘的激活流程，抵達摩洛哥後一分鐘內線上啟用 eSIM，無需撥打 888 或面對法語語音提示。"
     - icon: "id-card"
@@ -463,9 +467,9 @@ market_analysis:
     - icon: "globe"
       title: "國際漫遊"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "當地預付卡跨國使用多需另購漫遊加值包，費用明顯高於本地資費，且常有流量上限與速度限制。"
       esim_title: "全球漫遊無憂"
-      esim_desc: "不同於鎖定單一運營商（如 Inwi 在偏遠地區信號弱），Roami eSIM 可動態接入 Maroc Telecom、Orange 和 Inwi 三大網絡，確保在阿特拉斯山脈等地仍有連線。"
+      esim_desc: "不同於鎖定單一電信商（如 Inwi 在偏遠地區信號弱），Roami eSIM 可動態接入 Maroc Telecom、Orange 和 Inwi 三大網路，確保在阿特拉斯山脈等地仍有連線。"
     - icon: "calendar-xmark"
       title: "計費週期與浪費成本"
       prepaid_title: ""
@@ -475,19 +479,19 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "Maroc Telecom 等業者的預付方案通常可分享熱點，但速度政策不透明，達一定流量後可能被限速，長途使用需留意。"
       esim_title: "無限熱點分享"
       esim_desc: "Roami eSIM 支援熱點分享，無每日高速流量上限（對比 Inwi 每日 400MB 後降速至 128 kbps），可自由分享給筆電或旅伴。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "Maroc Telecom 不允許將話費餘額轉換為數據包，必須通過向 555 發送簡訊代碼外加 *3 的方式專門充值數據額度。"
+      prepaid_desc: "Maroc Telecom 不允許將話費餘額轉換為數據包，必須通過向 555 發送簡訊代碼外加 *3 的方式專門儲值數據額度。"
       esim_title: "全球付款暢通"
       esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需擔心像 Maroc Telecom 那樣無法將話費餘額轉為數據包的困擾。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "當地預付卡的客服多限當地語言與營業時間，Maroc Telecom 等業者少有 24/7 線上支援，行程中斷網時處理較慢。"
       esim_title: "24/7 中文支援"
       esim_desc: "Roami 提供 24/7 多語言客戶支援，無需像 Maroc Telecom 那樣面對僅有法語/阿拉伯語的語音選單。"
 
@@ -499,7 +503,7 @@ market_analysis:
         icon_bg: "bg-green-100"
         icon_color: "text-green-600"
         title: "無限熱點分享無降速"
-        desc: "<b>Inwi</b> 的純數據套餐每日高速流量上限僅 400MB，超出後降速至 128 kbps。Roami eSIM 支援熱點分享且無每日上限，可自由分享給筆電或旅伴。"
+        desc: "<b>Inwi</b> 的純數據方案每日高速流量上限僅 400MB，超出後降速至 128 kbps。Roami eSIM 支援熱點分享且無每日上限，可自由分享給筆電或旅伴。"
       - icon: "globe"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"

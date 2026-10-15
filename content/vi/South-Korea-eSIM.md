@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Hàn Quốc - 5G Nhanh Nhất tại Seoul & Busan'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Hàn Quốc - Gói dữ liệu trả trước 5G cho du khách
   description: Nhận gói eSIM Hàn Quốc tốt nhất với 5G nhanh nhất thế giới trên SK Telecom, KT & LG U+. Không xếp hàng tại sân bay — kích hoạt QR tức thì. Gói từ $1.99. Hoàn hảo cho Seoul, Busan & Jeju.
-  keywords: eSIM Hàn Quốc, mua eSIM Hàn Quốc, eSIM Hàn Quốc tốt nhất, eSIM du lịch Hàn Quốc, SK Telecom Hàn Quốc, KT Hàn Quốc, LG U+ Hàn Quốc, eSIM Seoul, eSIM Busan, eSIM Incheon, eSIM trả trước Hàn Quốc, eSIM 5G Hàn Quốc, 5G nhanh nhất Hàn Quốc, eSIM cho hòa nhạc K-pop
+  keywords: eSIM Hàn Quốc, mua eSIM Hàn Quốc, eSIM Hàn Quốc tốt nhất, eSIM du lịch Hàn Quốc, SK Telecom Hàn Quốc, KT Hàn Quốc, LG U+ Hàn Quốc, eSIM Seoul, eSIM Busan, eSIM Incheon, eSIM trả trước Hàn Quốc, eSIM 5G Hàn Quốc, eSIM Daegu, eSIM Daejeon, eSIM Hàn Quốc giá rẻ, sim du lịch Hàn Quốc
   low_price: 1.99
-  high_price: 39.9
+  high_price: 61.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-rose-400 to-rose-600
     title: 5G Nhanh Nhất Thế Giới
     desc: Hàn Quốc có mạng 5G nhanh nhất thế giới — lên đến 1.5 Gbps tại Seoul
-plans_title: 'Mua eSIM Hàn Quốc: Gói cho mọi thời gian chuyến đi'
+plans_title: 'Các gói Hàn Quốc eSIM và mức giá'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -308,7 +308,7 @@ network_coverage:
       coverage: Phủ sóng 5G đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Hàn Quốc: Những điều cần biết trước khi đi'
+  title: 'Điểm cần lưu ý trước chuyến đi Hàn Quốc'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -329,7 +329,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Hàn Quốc: 3 bước đơn giản'
+  title: 'Hoàn tất trước khi đến: kích hoạt Hàn Quốc eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -349,12 +349,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hướng dẫn eSIM Hàn Quốc: Tốc độ 5G, Phủ sóng & Mẹo du lịch"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Hàn Quốc. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Những giải đáp hữu ích về tốc độ và chất lượng mạng eSIM tại Hàn Quốc."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Hàn Quốc
+    title: Những câu hỏi thường gặp về Hàn Quốc eSIM
     questions:
     - q: |
         5G ở Hàn Quốc nhanh như thế nào? Tôi có thể có con số thực tế không?
@@ -388,63 +388,75 @@ faq_section:
         Thời hạn của eSIM Hàn Quốc bắt đầu từ khi nào?
       a: |
         Thời hạn gói bắt đầu khi bạn kết nối với mạng địa phương tại Hàn Quốc, không phải khi bạn mua hoặc cài đặt. Vì vậy, bạn có thể mua và cài đặt vài tuần trước chuyến đi mà không mất bất kỳ ngày nào. Gói 7 ngày cho bạn đủ 7 ngày từ lần kết nối đầu tiên.
+    - q: |
+        Kích hoạt eSIM Hàn Quốc như thế nào? Có phải đợi đến nơi mới bật?
+      a: |
+        Bạn nên quét mã QR cài đặt cấu hình qua WiFi trước chuyến đi, khi đến Hàn Quốc thì bật đường eSIM và mở chuyển vùng dữ liệu; máy sẽ tự kết nối mạng địa phương và thời hạn của gói bắt đầu tính từ lúc đó.  Vùng phủ di động tại Seoul, Busan đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
+    - q: |
+        Đi Hàn Quốc rồi qua nước khác, dùng chung một eSIM được không?
+      a: |
+        eSIM Hàn Quốc của Roami chủ yếu dùng trong lãnh thổ Hàn Quốc; nếu lịch trình đi sang nước láng giềng, bạn nên mua thêm gói của nước đó hoặc gói khu vực để tránh phí chuyển vùng phát sinh.  Các thành phố lớn như Incheon, Daegu đều có phủ sóng ổn định cho nhu cầu hằng ngày.
+    - q: |
+        Dùng eSIM Hàn Quốc ở Seoul, Busan có ổn không?
+      a: |
+        Seoul, Busan và các đô thị chính đều được phủ sóng di động đầy đủ: tra bản đồ, gọi xe, nhắn tin và tải ảnh đều ổn. Một số vùng xa của Hàn Quốc tín hiệu yếu hơn, bạn nên tải bản đồ ngoại tuyến để phòng.  Tại khu vực Seoul, Daejeon, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
 related_products:
   title: Các gói eSIM Hàn Quốc liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
+  - name: eSIM Latvia
+    flag: img/flags/lv.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: eSIM Madagascar
+    flag: img/flags/mg.svg
+    price: Từ $11.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Mali
+    flag: img/flags/ml.svg
+    price: Từ $27.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Malta
+    flag: img/flags/mt.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: eSIM Maldives
+    flag: img/flags/mv.svg
+    price: Từ $14.99
+    is_highlight: false
+  - name: eSIM Malawi
+    flag: img/flags/mw.svg
+    price: Từ $14.99
+    is_highlight: false
+  - name: eSIM Mexico
+    flag: img/flags/mx.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Malaysia
+    flag: img/flags/my.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
+  - name: eSIM Nepal
+    flag: img/flags/ne.svg
+    price: Từ $10.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
+  - name: eSIM Nigeria
+    flag: img/flags/ng.svg
+    price: Từ $5.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
+  - name: eSIM Niger
+    flag: img/flags/ni.svg
+    price: Từ $23.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
+  - name: eSIM Hà Lan
+    flag: img/flags/nl.svg
     price: Từ $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Hàn Quốc vs SIM trả trước nội địa: Lựa chọn nào tốt hơn cho du khách?'
   subtitle: 'SIM trả trước nội địa Hàn Quốc vs. Giải pháp eSIM (Tiêu chuẩn 2024/2025)'
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Hàn Quốc) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/South_Korea
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước nội địa (Dữ liệu thị trường)

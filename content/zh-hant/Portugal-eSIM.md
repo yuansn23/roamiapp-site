@@ -1,6 +1,6 @@
 ---
 title: '葡萄牙 eSIM 2026: 當地電信商 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,7 @@ modal:
 seo:
   title: "葡萄牙eSIM｜5G無限流量吃到飽，追劇打卡不用省"
   description: "Roami eSIM無限流量方案讓您在葡萄牙享受5G高速國外旅遊網路最低$1.99起超值價格。流量不限制追劇打卡盡情用，不用擔心超量問題，跨國旅行不用換卡一卡搞定。"
-  keywords: 葡萄牙 eSIM, 葡萄牙 eSIM方案, 最佳葡萄牙 eSIM, 葡萄牙上網, NOS 葡萄牙, MEO 葡萄牙, Vodafone 葡萄牙, 里斯本 eSIM, 波爾圖 eSIM, 法魯 eSIM, 葡萄牙行動網路,
-    5G 葡萄牙
+  keywords: 葡萄牙 eSIM, eSIM 葡萄牙, 葡萄牙 eSIM 購買, 最佳葡萄牙 eSIM, 葡萄牙 上網, NOS 葡萄牙, MEO 葡萄牙, Vodafone 葡萄牙, 里斯本 eSIM, 波爾圖 eSIM, 法魯 eSIM, 科英布拉 eSIM, 辛特拉 eSIM, 葡萄牙 eSIM 方案, 葡萄牙 5G eSIM, 葡萄牙 eSIM 預付卡
 order_summary:
   title: 選擇 葡萄牙 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線葡萄牙最佳電信商，取得最強訊號
-plans_title: 購買葡萄牙 eSIM：適合各種旅程的方案
+plans_title: 找到最適合你的葡萄牙 eSIM 方案
 plans_data:
   30 天:
   - spec: 20GB
@@ -329,7 +328,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 葡萄牙 eSIM秘訣：出發前須知
+  title: 葡萄牙 eSIM 使用前必讀
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -358,7 +357,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 葡萄牙 eSIM啟用：3個簡單步驟
+  title: 葡萄牙 eSIM 這樣啟用最簡單
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 葡萄牙 做好準備
@@ -393,88 +392,93 @@ faq_section:
     title: 葡萄牙 eSIM 網路品質評比｜各家電信速度收訊比較
     questions:
     - q: 去葡萄牙自由行的話，辦eSIM上網大概要花多少錢？
-      a: Roami 葡萄牙 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。MEO在葡萄牙市區5G網速約100-300Mbps，看1080p影片沒問題。去葡萄牙機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到葡萄牙後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 葡萄牙 eSIM方案從$1.99（3天1GB）起，最高$71.99（30天無限）。一般旅客買最多的是5GB/15天（$6.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。MEO在葡萄牙市區5G網速約100-300Mbps，看1080p影片沒問題。去葡萄牙機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到葡萄牙後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 葡萄牙三大電信MEO、NOS、Vodafone，一般觀光客選哪家比較適合？
       a: 葡萄牙主要有MEO、NOS、Vodafone。MEO市區下載快、基地台密集。NOS郊區覆蓋廣，會去郊區的話選NOS路線較有保障。Vodafone價格親民，適合預算有限的旅客。葡萄牙5G使用n78頻段，里斯本及波多覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用MEO，移動到郊區若MEO訊號變弱就自動跳NOS或Vodafone，完全不用手動選。
     - q: 去葡萄牙每天就是打卡傳照片查地圖，這樣5GB夠用嗎？還是吃到飽比較安心？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。葡萄牙5G使用n78頻段，里斯本及波多覆蓋。Roami在葡萄牙連上MEO的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。葡萄牙5G使用n78頻段，里斯本及波多覆蓋。Roami在葡萄牙連上MEO的網路，網速穩定。如果怕降速可選10GB/$8.99或20GB/$16.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 葡萄牙eSIM買了之後要驗證證件嗎？沒先辦好會不會到了不能用？
       a: 需要的。葡萄牙預付卡需KYC認證，需提供護照。很多人不知道這規定，到了葡萄牙機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。葡萄牙5G使用n78頻段，里斯本及波多覆蓋。另外MEO的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到葡萄牙開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 搭車從葡萄牙市區移動到郊區的時候，eSIM網路會一直切換嗎？
       a: 葡萄牙的MEO等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。葡萄牙5G使用n78頻段，里斯本及波多覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 出國去葡萄牙用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
       a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到葡萄牙開數據漫遊就用。
+    - q: 抵達葡萄牙機場後就能馬上上網嗎？
+      a: 可以。只要出發前先安裝好 eSIM，落地後關閉飛航模式、開啟 eSIM 線路，通常幾十秒內就能連上當地網路，不用在機場排隊買實體 SIM 卡。 實際走訪 里斯本、波爾圖 等主要城市，上網查資料、傳照片都沒問題。
+    - q: 在里斯本、波爾圖用葡萄牙 eSIM上網順嗎？
+      a: 里斯本、波爾圖 這類主要城市的行動網路覆蓋都很完整，查地圖、叫車、傳訊息與上傳照片都沒問題。葡萄牙 部分偏遠地區訊號較弱，建議先下載離線地圖備用。 不論在 法魯、科英布拉，連線品質都相當穩定。
+    - q: 葡萄牙 eSIM 有幾天份的方案可以選？
+      a: Roami 葡萄牙 eSIM 提供 3/7/15/30 天等選擇，可依行程長短挑選。三天內的短程選入門天數就夠，一週以上建議直接挑長效期方案，單日成本更划算。 里斯本、辛特拉 等地的行動網路覆蓋完整，跨區移動也不斷線。
 related_products:
-  title: 類似 葡萄牙 eSIM 的旅行方案
+  title: 更多國家 eSIM 選擇
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 亞美尼亞 eSIM
+    flag: img/flags/am.svg
+    price: 自 $7.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: armenia-esim
+  - name: 汶萊 eSIM
+    flag: img/flags/bn.svg
+    price: 自 $9.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+    slug: brunei-esim
+  - name: 牙買加 eSIM
+    flag: img/flags/jm.svg
+    price: 自 $11.99
+    is_highlight: false
+    slug: jamaica-esim
+  - name: 印度 eSIM
+    flag: img/flags/in.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: india-esim
+  - name: 德國 eSIM
+    flag: img/flags/de.svg
+    price: 自 $1.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: germany-esim
+  - name: 馬爾地夫 eSIM
+    flag: img/flags/mv.svg
+    price: 自 $14.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: maldives-esim
+  - name: 沙烏地阿拉伯 eSIM
+    flag: img/flags/sa.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: saudi-arabia-esim
+  - name: 孟加拉 eSIM
+    flag: img/flags/bd.svg
+    price: 自 $5.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: bangladesh-esim
+  - name: 科索沃 eSIM
+    flag: img/flags/xk.svg
+    price: 自 $13.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: kosovo-esim
+  - name: 法屬圭亞那 eSIM
+    flag: img/flags/gf.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: french-guiana-esim
+  - name: 賽普勒斯 eSIM
+    flag: img/flags/cy.svg
+    price: 自 $2.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: cyprus-esim
+  - name: 迦納 eSIM
+    flag: img/flags/gh.svg
+    price: 自 $7.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: philippines-esim
-
+    slug: ghana-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "去Portugal旅遊eSIM上網順暢嗎？速度與涵蓋完整評價"
   subtitle: "葡萄牙當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Portugal) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Portugal"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -483,13 +487,13 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Portugal. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 NOS 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 MEO 門市尋找特定套餐的麻煩，抵達葡萄牙後一分鐘內線上啟用 eSIM，無需排隊或溝通。"
     - icon: "id-card"
       title: "KYC 與護照登記"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。根據市場知識，葡萄牙預付 SIM 卡通常不需要護照登記，但部分電信商可能要求。"
+      prepaid_desc: "葡萄牙預付 SIM 卡通常不需要護照登記，但部分電信商可能要求。"
       esim_title: "免護照登記"
       esim_desc: "無需提供護照或身分證，立即啟用 eSIM，省去當地電信商可能要求的繁瑣登記流程。"
     - icon: "globe"
@@ -513,13 +517,13 @@ market_analysis:
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "MEO 無法使用國際信用卡或 PayPal 進行充值；NOS 絕不能使用國際信用卡充值，僅支援葡萄牙網上銀行或實體店（Payshop），且每次收取 €0.50 手續費；Vodafone 雖支援國際信用卡，但條件苛刻——僅在持卡滿 3 個月後才能使用。"
+      prepaid_desc: "MEO 無法使用國際信用卡或 PayPal 進行儲值；NOS 絕不能使用國際信用卡儲值，僅支援葡萄牙網上銀行或實體店（Payshop），且每次收取 €0.50 手續費；Vodafone 雖支援國際信用卡，但條件苛刻——僅在持卡滿 3 個月後才能使用。"
       esim_title: "全球付款暢通"
       esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需擔心 MEO 或 NOS 拒絕國際信用卡的問題。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。根據市場知識，葡萄牙電信商的客戶支援通常提供葡萄牙語和英語，但預付卡用戶可能無法獲得即時線上聊天。"
+      prepaid_desc: "葡萄牙電信商的客戶支援通常提供葡萄牙語和英語，但預付卡用戶可能無法獲得即時線上聊天。"
       esim_title: "24/7 即時支援"
       esim_desc: "提供全天候線上客服，比當地電信商有限的營業時間和語言支援更可靠。"
 

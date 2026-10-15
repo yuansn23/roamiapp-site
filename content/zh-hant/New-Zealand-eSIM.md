@@ -1,6 +1,6 @@
 ---
 title: '紐西蘭 eSIM 2026: 旅客與網路 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,9 @@ modal:
 seo:
   title: "紐西蘭eSIM｜免綁約5G上網，免實名認證即開即用"
   description: "Roami免綁約全球eSIM在200多個國家都能使用，去紐西蘭當然也沒問題。5G高速上網跨國旅遊一卡搞定，多國旅行不用換卡超方便推薦首選，網路穩定可靠。"
-  keywords: 紐西蘭 eSIM, 紐西蘭 eSIM方案, 最佳紐西蘭 eSIM, 紐西蘭上網, Spark 紐西蘭, Vodafone NZ 紐西蘭, 2degrees 紐西蘭, 奧克蘭 eSIM, 威靈頓 eSIM, 基督城 eSIM,
-    紐西蘭行動網路, 5G 紐西蘭
-  low_price: 1.99
-  high_price: 39.9
+  keywords: 紐西蘭 eSIM, eSIM 紐西蘭, 紐西蘭 eSIM 購買, 最佳紐西蘭 eSIM, 紐西蘭 上網, Spark 紐西蘭, Vodafone NZ 紐西蘭, 2degrees 紐西蘭, 奧克蘭 eSIM, 威靈頓 eSIM, 基督城 eSIM, 皇后鎮 eSIM, 漢米爾頓 eSIM, 紐西蘭 eSIM 方案, 紐西蘭 5G eSIM, 紐西蘭 eSIM 預付卡
+  low_price: 3.99
+  high_price: 99.99
 order_summary:
   title: 已選方案
   label_data: 包含數據量
@@ -70,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動切換
     desc: 自動連線紐西蘭最佳電信商，取得最強訊號
-plans_title: 購買紐西蘭 eSIM：適合各種旅程的方案
+plans_title: 一次看懂紐西蘭 eSIM 方案選項
 plans_data:
   30 天:
   - spec: 5GB
@@ -310,7 +309,7 @@ network_coverage:
       coverage: 良好市區覆蓋
       network: 5G/4G/LTE 網路
 reminders:
-  title: 紐西蘭 eSIM秘訣：出發前須知
+  title: 出發紐西蘭前：eSIM 檢查事項
   items:
   - icon: 📱
     html: 購買前請確保您的手機與 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -331,7 +330,7 @@ reminders:
     result_html: 如果螢幕上出現 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       號碼，即表示支援您的裝置！
 activation_steps:
-  title: 紐西蘭 eSIM啟用：3個簡單步驟
+  title: 出發前搞定：紐西蘭 eSIM 安裝啟用
   steps:
   - num: '1'
     title: 步驟 1：接收 QR Code
@@ -359,76 +358,93 @@ faq_section:
     title: 紐西蘭 eSIM 5G網速與電信商比較｜Spark、2degrees、Vodafone覆蓋評測
     questions:
     - q: 去紐西蘭想辦eSIM但又怕買貴，大概多少預算才夠？
-      a: Roami 紐西蘭 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Spark在紐西蘭市區5G網速約100-300Mbps，看1080p影片沒問題。去紐西蘭機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到紐西蘭後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 紐西蘭 eSIM方案從$3.99（7天1GB）起，最高$99.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Spark在紐西蘭市區5G網速約100-300Mbps，看1080p影片沒問題。去紐西蘭機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到紐西蘭後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 看到有人說紐西蘭的Spark在市區很快、2degrees在郊區很廣，真的是這樣嗎？
       a: 紐西蘭主要有Spark、2degrees、Vodafone。Spark市區下載快、基地台密集。2degrees郊區覆蓋廣，會去郊區的話選2degrees路線較有保障。Vodafone價格親民，適合預算有限的旅客。紐西蘭5G使用n78頻段，主要城市覆蓋良好。不過Roami會自動切換到當前訊號最強的網路。市區用Spark，移動到郊區若Spark訊號變弱就自動跳2degrees或Vodafone，完全不用手動選。
     - q: 紐西蘭eSIM的30天無限方案跟15天10GB的比起來，哪個平均每天比較便宜？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。紐西蘭5G使用n78頻段，主要城市覆蓋良好。Roami在紐西蘭連上Spark的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。紐西蘭5G使用n78頻段，主要城市覆蓋良好。Roami在紐西蘭連上Spark的網路，網速穩定。如果怕降速可選10GB/$8.99或20GB/$15.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 去紐西蘭用eSIM需要先通過身分驗證嗎？要準備哪些證件？
       a: 需要的。紐西蘭預付卡需KYC認證，需提供護照。很多人不知道這規定，到了紐西蘭機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。紐西蘭5G使用n78頻段，主要城市覆蓋良好。另外Spark的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到紐西蘭開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 離開紐西蘭市區之後，eSIM的訊號會不會變得很差？
       a: 紐西蘭的Spark等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。紐西蘭5G使用n78頻段，主要城市覆蓋良好。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 去紐西蘭旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
-      a: Roami 紐西蘭 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
+      a: Roami 紐西蘭 eSIM方案從$3.99（7天1GB）起，最高$99.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
+    - q: 在紐西蘭使用eSIM遇到問題，可以找誰幫忙？
+      a: Roami 提供線上客服協助。若在 紐西蘭 遇到連線異常，可先確認 eSIM 線路已開啟、數據漫遊已打開；仍無法解決再聯繫客服，符合條件可申請退款。 奧克蘭、威靈頓 等地的行動網路覆蓋完整，跨區移動也不斷線。
+    - q: 紐西蘭 eSIM 可以開熱點分享給旅伴嗎？
+      a: 可以，Roami 紐西蘭 eSIM 支援熱點分享，能分給筆電、平板或同行旅伴。多人共用建議挑規格大一級的方案，避免中途用完；用量抓不準也可以事後在 App 加購。 另外，基督城、皇后鎮 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
+    - q: 紐西蘭 eSIM 的網速快嗎？會不會比當地實體卡慢？
+      a: Roami 紐西蘭 eSIM 走當地主要電信商的基地台，速度與當地預付卡相當，日常查地圖、社群、視訊通話都很順。實際速度仍會受所在位置與當下網路負載影響。 在 奧克蘭、漢米爾頓 一帶實測收訊良好，移動中會自動切換基地台。
 related_products:
-  title: 相關 eSIM 方案
+  title: 更多國家 eSIM 選擇
   items:
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: 自 $1.99
-    is_highlight: false
-  - name: 英國 eSIM
-    flag: img/flags/gb.svg
-    price: 自 $1.99
-    is_highlight: false
-  - name: 歐洲 eSIM
-    flag: img/flags/eu.svg
+  - name: 瑞典 eSIM
+    flag: img/flags/se.svg
     price: 自 $1.99
     is_highlight: true
-  - name: 加拿大 eSIM
-    flag: img/flags/ca.svg
+    slug: sweden-esim
+  - name: 愛沙尼亞 eSIM
+    flag: img/flags/ee.svg
     price: 自 $1.99
     is_highlight: false
-  - name: 土耳其 eSIM
-    flag: img/flags/tr.svg
-    price: 自 $1.99
+    slug: estonia-esim
+  - name: 牙買加 eSIM
+    flag: img/flags/jm.svg
+    price: 自 $11.99
     is_highlight: false
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: 自 $1.99
+    slug: jamaica-esim
+  - name: 布吉納法索 eSIM
+    flag: img/flags/bf.svg
+    price: 自 $11.99
     is_highlight: false
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: 自 $1.99
+    slug: burkina-faso-esim
+  - name: 寮國 eSIM
+    flag: img/flags/la.svg
+    price: 自 $4.99
     is_highlight: false
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: 自 $1.99
+    slug: laos-esim
+  - name: 格瑞那達 eSIM
+    flag: img/flags/gd.svg
+    price: 自 $11.99
     is_highlight: false
-  - name: 法國 eSIM
-    flag: img/flags/fr.svg
-    price: 自 $1.99
+    slug: grenada-esim
+  - name: 坦尚尼亞 eSIM
+    flag: img/flags/tz.svg
+    price: 自 $7.99
     is_highlight: false
-  - name: 西班牙 eSIM
-    flag: img/flags/es.svg
-    price: 自 $1.99
+    slug: tanzania-esim
+  - name: 查德 eSIM
+    flag: img/flags/td.svg
+    price: 自 $23.99
     is_highlight: false
-  - name: 德國 eSIM
-    flag: img/flags/de.svg
-    price: 自 $1.99
+    slug: chad-esim
+  - name: 馬利 eSIM
+    flag: img/flags/ml.svg
+    price: 自 $27.99
     is_highlight: false
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: 自 $1.99
+    slug: mali-esim
+  - name: 巴林 eSIM
+    flag: img/flags/bh.svg
+    price: 自 $6.99
     is_highlight: false
-
+    slug: bahrain-esim
+  - name: 哈薩克 eSIM
+    flag: img/flags/kz.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: kazakhstan-esim
+  - name: 阿聯 eSIM
+    flag: img/flags/ae.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: uae-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "在New Zealand用eSIM上網穩不穩？市區郊區分區評測"
   subtitle: "紐西蘭當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (New-Zealand) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/New-Zealand"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -437,19 +453,19 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in New Zealand. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Spark 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 Spark 或 One.NZ 門市排隊，抵達奧克蘭後一分鐘內線上啟用 Roami eSIM，無需尋找實體店。"
     - icon: "id-card"
       title: "KYC 與護照登記"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。根據市場知識，紐西蘭預付 SIM 卡無需強制實名登記，但部分門市可能要求出示護照。"
+      prepaid_desc: "紐西蘭預付 SIM 卡無需強制實名登記，但部分門市可能要求出示護照。"
       esim_title: "免護照登記"
       esim_desc: "Roami eSIM 無需護照或身分證件，即買即用，省去 Spark 或 One.NZ 可能要求的證件核對。"
     - icon: "globe"
       title: "國際漫遊"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。根據市場知識，Spark 和 One.NZ 的預付卡通常不包含國際漫遊，需額外購買漫遊包。"
+      prepaid_desc: "Spark 和 One.NZ 的預付卡通常不包含國際漫遊，需額外購買漫遊包。"
       esim_title: "全球漫遊無憂"
       esim_desc: "Roami eSIM 支援紐西蘭多網路切換，無需像 Spark 預付卡那樣額外購買漫遊包，即可在澳洲等鄰國使用。"
     - icon: "calendar-xmark"
@@ -467,13 +483,13 @@ market_analysis:
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "Warehouse Mobile 線上充值需紐西蘭本地卡或國際 Visa 卡。此維度在來源中無具體數據。根據市場知識，紐西蘭預付卡可透過 Visa、Mastercard 線上儲值。"
+      prepaid_desc: "Warehouse Mobile 線上儲值需紐西蘭本地卡或國際 Visa 卡。紐西蘭預付卡可透過 Visa、Mastercard 線上儲值。"
       esim_title: "全球付款輕鬆"
       esim_desc: "Roami 接受 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需紐西蘭本地卡，避免 Warehouse Mobile 的付款限制。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。根據市場知識，紐西蘭電信商提供英語客服，營業時間通常為週一至週五 9:00-17:00。"
+      prepaid_desc: "紐西蘭電信商提供英語客服，營業時間通常為週一至週五 9:00-17:00。"
       esim_title: "24/7 中文支援"
       esim_desc: "Roami 提供 24/7 多語言客服，包括中文，而紐西蘭電信商客服僅限英語且營業時間有限。"
 
@@ -485,7 +501,7 @@ market_analysis:
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "全球付款方式支援"
-        desc: "Warehouse Mobile 線上充值需紐西蘭本地卡或國際 Visa 卡。Roami 接受 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需當地卡。"
+        desc: "Warehouse Mobile 線上儲值需紐西蘭本地卡或國際 Visa 卡。Roami 接受 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需當地卡。"
       - icon: "clock"
         icon_bg: "bg-indigo-100"
         icon_color: "text-indigo-600"

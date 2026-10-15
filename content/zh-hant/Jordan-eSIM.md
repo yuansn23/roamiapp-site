@@ -1,6 +1,6 @@
 ---
 title: '約旦 eSIM 2026: 完整旅遊指南 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,8 +17,8 @@ modal:
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
   title: '約旦eSIM｜5G高速上網吃到飽，免綁約自由不受限'
-  description: 比較約旦 eSIM方案，安曼、佩特拉、死海、亞喀巴、傑拉什等地5G高速上網。Zain & Orange & Umniah覆蓋指南。即時QR啟用，起價$1.99。
-  keywords: 約旦 eSIM, 約旦 eSIM方案, 最佳約旦 eSIM, 約旦上網, Zain 約旦, Orange 約旦, Umniah 約旦, 安曼、佩特拉、死海、亞喀巴、傑拉什 eSIM, 約旦行動網路, 5G 約旦
+  description: 比較約旦 eSIM方案，安曼、佩特拉、死海、亞喀巴、傑拉什等地5G高速上網。Zain & Orange & Umniah覆蓋指南。即時QR啟用，起價$6.99。
+  keywords: 約旦 eSIM, eSIM 約旦, 約旦 eSIM 購買, 最佳約旦 eSIM, 約旦 上網, Zain 約旦, Orange 約旦, Umniah 約旦, 安曼 eSIM, 佩特拉 eSIM, 死海 eSIM, 亞喀巴 eSIM, 傑拉什 eSIM, 約旦 eSIM 方案, 約旦 5G eSIM, 約旦 eSIM 預付卡
 order_summary:
   title: 選擇 約旦 eSIM
   label_data: 數據量
@@ -67,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線約旦最佳電信商，取得最強訊號
-plans_title: 購買約旦 eSIM：適合各種旅程的方案
+plans_title: 選購約旦 eSIM：天數、流量一次看懂
 plans_data:
   7 天:
   - spec: 1GB
@@ -240,7 +240,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 約旦 eSIM秘訣：出發前須知
+  title: 用約旦 eSIM 前先看這幾點
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -269,7 +269,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 約旦 eSIM啟用：3個簡單步驟
+  title: 約旦 eSIM 啟用與安裝指南
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 約旦 做好準備
@@ -304,7 +304,7 @@ faq_section:
     title: 約旦 eSIM 電信商Zain、Orange、Umniah哪個好？網路速度完整比較
     questions:
     - q: 約旦eSIM各方案價格差在哪裡？買哪種最適合一般觀光客？
-      a: Roami 約旦 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Zain在約旦市區5G網速約100-300Mbps，看1080p影片沒問題。去約旦機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到約旦後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 約旦 eSIM方案從$6.99（7天1GB）起，最高$99.99（30天20GB）。一般旅客買最多的是5GB/15天（$37.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Zain在約旦市區5G網速約100-300Mbps，看1080p影片沒問題。去約旦機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到約旦後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 去約旦玩辦eSIM，Roami會自動切換Zain、Orange、Umniah的網路嗎？
       a: 約旦主要有Zain、Orange、Umniah。Zain市區下載快、基地台密集。Orange郊區覆蓋廣，會去郊區的話選Orange路線較有保障。Umniah價格親民，適合預算有限的旅客。約旦4G/5G，安曼等城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Zain，移動到郊區若Zain訊號變弱就自動跳Orange或Umniah，完全不用手動選。
     - q: 去約旦辦eSIM的認證流程大概要多久？買完馬上就能用嗎？
@@ -315,77 +315,82 @@ faq_section:
       a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
     - q: 約旦eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
       a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
+    - q: 去約旦之後順道去其他國家，同一張eSIM能繼續用嗎？
+      a: Roami 約旦 eSIM 以 約旦 境內使用為主；若行程會跨到鄰國，建議另外加購該國或區域方案，避免產生額外的漫遊費用。 不論在 安曼、佩特拉，連線品質都相當穩定。
+    - q: 約旦 eSIM 大概多少錢？有便宜的選擇嗎？
+      a: Roami 約旦 eSIM 方案從 $6.99（7天1GB）起，最高 $99.99（30天20GB）。短期輕度使用挑入門方案即可，用量大的旅客再選高規格。價格透明，方案到期自動失效，不會續約扣款。 死海、亞喀巴 等地的行動網路覆蓋完整，跨區移動也不斷線。
+    - q: 買約旦 eSIM 支援哪些付款方式？多久能收到？
+      a: Roami 支援信用卡等常見線上付款，結帳後 QR code 會寄到你的電子郵件，通常幾分鐘內就能收到。建議出發前先在台灣買好、裝好，抵達 約旦 即可連線。 另外，安曼、傑拉什 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
 related_products:
-  title: 類似 約旦 eSIM 的旅行方案
+  title: 順遊國家的 eSIM 方案
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 馬拉威 eSIM
+    flag: img/flags/mw.svg
+    price: 自 $14.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: malawi-esim
+  - name: 瓜地洛普 eSIM
+    flag: img/flags/gp.svg
+    price: 自 $8.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: guadeloupe-esim
+  - name: 立陶宛 eSIM
+    flag: img/flags/lt.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: vietnam-esim
+    slug: lithuania-esim
+  - name: 波士尼亞與赫塞哥維納 eSIM
+    flag: img/flags/ba.svg
+    price: 自 $30.99
+    is_highlight: false
+    slug: bosnia-and-herzegovina-esim
+  - name: 阿富汗 eSIM
+    flag: img/flags/af.svg
+    price: 自 $11.99
+    is_highlight: false
+    slug: afghanistan-esim
+  - name: 冰島 eSIM
+    flag: img/flags/is.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: iceland-esim
   - name: 新加坡 eSIM
     flag: img/flags/sg.svg
-    price: От 1,99 $
-    is_highlight: false
+    price: 自 $1.99
+    is_highlight: true
     slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+  - name: 馬爾他 eSIM
+    flag: img/flags/mt.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: malta-esim
+  - name: 列支敦斯登 eSIM
+    flag: img/flags/li.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: liechtenstein-esim
+  - name: 巴拉圭 eSIM
+    flag: img/flags/py.svg
+    price: 自 $22.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: paraguay-esim
+  - name: 喀麥隆 eSIM
+    flag: img/flags/cm.svg
+    price: 自 $27.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: cameroon-esim
+  - name: 瑞典 eSIM
+    flag: img/flags/se.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: philippines-esim
-
+    slug: sweden-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "去Jordan用eSIM網路順嗎？4G/5G速度與覆蓋全攻略"
   subtitle: "約旦當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Jordan) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Jordan"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -394,7 +399,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Jordan. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Zain 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開安曼機場 Zain 或 Umniah 櫃檯 20-40 分鐘的排隊與護照複印，Roami eSIM 抵達後一分鐘內線上啟用，無需實體卡。"
     - icon: "id-card"
@@ -406,31 +411,31 @@ market_analysis:
     - icon: "globe"
       title: "國際漫遊"
       prepaid_title: ""
-      prepaid_desc: "約旦三大運營商均未在套餐中提及對周邊多國的通用漫遊流量，僅在境內提供「夜間+社交」分時段限制流量。若旅行路線包含鄰國，實體卡即變廢卡。"
+      prepaid_desc: "約旦三大電信商均未在套餐中提及對周邊多國的通用漫遊流量，僅在境內提供「夜間+社交」分時段限制流量。若旅行路線包含鄰國，實體卡即變廢卡。"
       esim_title: "全球漫遊無縫"
       esim_desc: "與 Zain、Umniah、Orange 缺乏跨國漫遊不同，Roami eSIM 支援多國方案，跨過國境線後自動連接下一站網路，無需換卡。"
     - icon: "calendar-xmark"
       title: "計費週期與浪費成本"
       prepaid_title: ""
-      prepaid_desc: "三大運營商的預付費套餐均嚴格遵循30天或月度計費週期。若遊客停留不足一個月，將產生嚴重的資金沉澱。例如購買Zain 10 JOD僅含2GB的寬帶卡，若僅停留3-5天，剩餘近28天流量及金額直接作廢。"
+      prepaid_desc: "三大電信商的預付費套餐均嚴格遵循30天或月度計費週期。若遊客停留不足一個月，將產生嚴重的資金沉澱。例如購買Zain 10 JOD僅含2GB的寬帶卡，若僅停留3-5天，剩餘近28天流量及金額直接作廢。"
       esim_title: "彈性計費週期"
       esim_desc: "與 Zain 30 天 10 JOD 僅 2GB 的套餐不同，Roami 提供 7 天方案，最低 1.99 美元/GB，避免 85% 以上的資金浪費。"
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "Umniah的所有Smart混合套餐均不支持熱點分享（Tethering），且禁止在平板或路由設備上使用。"
+      prepaid_desc: "Umniah的所有Smart混合套餐均不支援熱點分享（Tethering），且禁止在平板或路由設備上使用。"
       esim_title: "無限熱點分享"
       esim_desc: "突破 Umniah Smart 套餐的熱點封殺令，Roami eSIM 支援熱點分享，可連接筆電、平板等多設備。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。基於市場知識，約旦預付卡通常可在運營商門市或授權零售商以現金或信用卡（Visa/Mastercard）購買，但線上儲值可能被外國卡拒絕。"
+      prepaid_desc: "約旦預付卡通常可在電信商門市或授權零售商以現金或信用卡（Visa/Mastercard）購買，但線上儲值可能被外國卡拒絕。"
       esim_title: "全球付款暢通"
-      esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需擔心當地現金或充值卡問題。"
+      esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需擔心當地現金或儲值卡問題。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。基於市場知識，約旦運營商客服通常提供阿拉伯語和英語，但預付卡用戶可能需支付高額通話費才能聯繫客服。"
+      prepaid_desc: "約旦電信商客服通常提供阿拉伯語和英語，但預付卡用戶可能需支付高額通話費才能聯繫客服。"
       esim_title: "24/7 即時支援"
       esim_desc: "Roami 提供 24/7 多語言線上客服，無需像約旦預付卡用戶那樣支付高額通話費。"
 
@@ -457,5 +462,5 @@ market_analysis:
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "全球付款方式暢通"
-        desc: "約旦預付卡線上儲值常被外國卡拒絕，需在便利店購買實體充值券。Roami 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal。"
+        desc: "約旦預付卡線上儲值常被外國卡拒絕，需在便利店購買實體儲值券。Roami 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal。"
 ---

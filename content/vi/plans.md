@@ -4,14 +4,14 @@ layout: "plans"
 type: "page"
 date: '2026-09-06T00:00:00+00:00'
 
-# 1. SEO 核心优化文案
+# 1. SEO 
 seo:
   title: "Gói cước eSIM | Mua gói dữ liệu trả trước cho 200+ quốc gia - Roami"
   description: "Khám phá các gói eSIM du lịch trả trước tốt nhất cho 200+ quốc gia từ Roami. Mua dữ liệu 5G không giới hạn với giao hàng tức thì. Gói từ $1.99 với hỗ trợ 24/7."
   keywords: "gói eSIM, eSIM du lịch, eSIM toàn cầu, mua eSIM trực tuyến, eSIM dữ liệu không giới hạn, eSIM châu Âu, eSIM Mỹ, eSIM Nhật Bản, eSIM Anh, eSIM Thổ Nhĩ Kỳ, gói eSIM trả trước"
   image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1200&auto=format&fit=crop"
 
-# 2. 顶部 Banner 搜索区文案
+# 2.  Banner 
 hero:
   title: "Tìm <span class='text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-300'>Gói eSIM</span> hoàn hảo của bạn"
   subtitle: "Kết nối 5G/4G tức thì tại 200+ điểm đến. Tìm kiếm điểm dừng tiếp theo của bạn bên dưới và kết nối trong vài phút."
@@ -23,7 +23,7 @@ hero:
     - name: "Nhật Bản"
     - name: "Hoa Kỳ"
 
-# 3. 页面界面提示文案
+# 3. 
 ui:
   no_results_title: "Không tìm thấy điểm đến"
   no_results_desc: "Chúng tôi không tìm thấy gói eSIM nào phù hợp với tìm kiếm của bạn. Vui lòng thử quốc gia hoặc khu vực khác."
@@ -35,7 +35,7 @@ ui:
   explore: "Khám phá"
   regional_desc: "Du lịch qua nhiều quốc gia chỉ với một eSIM. Hoàn hảo cho các chuyến đi nhiều điểm đến và dân du mục số."
 
-# 4. 置顶的 10 个热门国家/地区 (已补全标签和颜色)
+# 4.  10 / ()
 top_countries:
   - name: "Châu Âu"
     code: "eu"
@@ -95,7 +95,7 @@ top_countries:
     badgeColor: "bg-teal-500"
     alias: "hk"
 
-# 区域套餐
+# 
 regional_plans:
   - name: "Châu Âu"
     url: "/europe-esim/"
@@ -126,7 +126,7 @@ regional_plans:
     hover_text: "group-hover:text-orange-600"
     description: "Mỹ, Canada, Mexico"
 
-# 5. 完整的国家/地区 A-Z
+# 5. / A-Z
 all_countries:
   - name: "Afghanistan"
     code: "af"

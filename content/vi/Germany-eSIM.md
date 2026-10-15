@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Đức - 5G tại Berlin & Munich | Không PostIdent | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: eSIM Đức - Gói Trả trước 5G Tốt nhất | Không PostIdent
-  description: Nhận eSIM Đức tốt nhất với 5G trên Deutsche Telekom, Vodafone & O2. Không yêu cầu PostIdent/VideoIdent — bỏ qua đăng ký SIM nghiêm ngặt của Đức. Phủ sóng Berlin, Munich & hơn thế nữa. Gói từ 1,99 USD.
-  keywords: eSIM Đức, mua eSIM Đức, eSIM Đức tốt nhất, eSIM du lịch Đức, Deutsche Telekom Đức, Vodafone Đức, O2 Đức, eSIM Berlin, eSIM Munich, eSIM Hamburg, eSIM trả trước Đức, eSIM 5G Đức, eSIM Đức không đăng ký
+  description: Nhận eSIM Đức tốt nhất với 5G trên Deutsche Telekom, Vodafone & O2. Không yêu cầu PostIdent/VideoIdent — bỏ qua đăng ký SIM nghiêm ngặt của Đức. Phủ sóng Berlin, Munich & hơn thế nữa. Gói từ $1.99.
+  keywords: eSIM Đức, mua eSIM Đức, eSIM Đức tốt nhất, eSIM du lịch Đức, Deutsche Telekom Đức, Vodafone Đức, O2 Đức, eSIM Berlin, eSIM Munich, eSIM Hamburg, eSIM trả trước Đức, eSIM 5G Đức, eSIM Frankfurt, eSIM Cologne, eSIM Đức giá rẻ, sim du lịch Đức
   low_price: 1.99
-  high_price: 39.9
+  high_price: 70.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -73,7 +73,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Sẵn sàng cho tàu ICE
     desc: Giữ kết nối trên tàu cao tốc giữa Berlin, Munich & Frankfurt
-plans_title: 'Mua eSIM Đức: Gói cho mọi thời gian chuyến đi'
+plans_title: 'Tổng quan gói dữ liệu Đức eSIM'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -320,7 +320,7 @@ network_coverage:
       coverage: Vùng phủ 5G đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Đức: Những điều cần biết trước khi đi'
+  title: 'Mẹo thực tế cho Đức eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -345,7 +345,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Đức: 3 bước đơn giản'
+  title: 'Giải thích các bước thiết lập Đức eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -365,12 +365,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hướng dẫn eSIM Đức: 5G, PostIdent & Mẹo du lịch"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, vùng phủ mạng và chất lượng kết nối cho du khách tại Đức. Tìm hiểu tốc độ mong đợi và cách tránh cơn ác mộng đăng ký PostIdent/VideoIdent."
+  desc: "Giải đáp về độ phủ sóng và tốc độ internet của eSIM tại Đức."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Đức
+    title: Giải đáp nhanh Đức eSIM
     questions:
     - q: |
         PostIdent/VideoIdent là gì và tại sao nó lại là vấn đề lớn đối với du khách?
@@ -391,7 +391,7 @@ faq_section:
     - q: |
         Tại sao SIM trả trước Đức có chu kỳ thanh toán 28 ngày? Có lãng phí cho chuyến đi ngắn không?
       a: |
-        Có — đó là sự lãng phí lớn. Tất cả các nhà mạng Đức (Telekom, Vodafone, O2) sử dụng <strong>chu kỳ thanh toán 28 ngày</strong> (không phải tháng dương lịch). Ví dụ: Telekom MagentaMobil M có giá €9,95 cho 10GB/28 ngày. Nếu bạn đến thăm 7 ngày, bạn đang trả cho <strong>21 ngày không sử dụng (lãng phí 75%)</strong>. Roami cung cấp các gói 3, 7, 15 và 30 ngày — bạn <strong>chỉ trả cho thời gian chuyến đi thực tế của mình</strong>. Chuyến đi 7 ngày với Roami có thể chỉ từ 2,99 USD so với €10 tại Telekom, không có ngày lãng phí.
+        Có — đó là sự lãng phí lớn. Tất cả các nhà mạng Đức (Telekom, Vodafone, O2) sử dụng <strong>chu kỳ thanh toán 28 ngày</strong> (không phải tháng dương lịch). Ví dụ: Telekom MagentaMobil M có giá €9,95 cho 10GB/28 ngày. Nếu bạn đến thăm 7 ngày, bạn đang trả cho <strong>21 ngày không sử dụng (lãng phí 75%)</strong>. Roami cung cấp các gói 3, 7, 15 và 30 ngày — bạn <strong>chỉ trả cho thời gian chuyến đi thực tế của mình</strong>. Chuyến đi 7 ngày với Roami có thể chỉ từ $1.99 so với €10 tại Telekom, không có ngày lãng phí.
     - q: |
         Nhà mạng nào tốt nhất ở Đức — Telekom, Vodafone hay O2?
       a: |
@@ -403,7 +403,7 @@ faq_section:
     - q: |
         Tôi có thể mua eSIM Đức mà không tốn quá nhiều không?
       a: |
-        Chắc chắn rồi. Các gói eSIM Đức của Roami bắt đầu từ chỉ <strong>1,99 USD</strong>. Tùy chọn 5GB/15 ngày (7,99 USD) là phổ biến nhất với du khách — nó xử lý thoải mái lịch trình DB Navigator, Google Maps, WhatsApp, Instagram và chia sẻ ảnh lâu đài. Nếu bạn là người dùng nhiều dữ liệu, các gói 10GB (12,99 USD) hoặc 20GB (18,99 USD) mang lại sự an tâm. Bỏ qua quầy SIM sân bay giúp bạn tiết kiệm thời gian và tránh rắc rối PostIdent.
+        Chắc chắn rồi. Các gói eSIM Đức của Roami bắt đầu từ chỉ <strong>$1.99</strong>. Tùy chọn 5GB/15 ngày ($7.99) là phổ biến nhất với du khách — nó xử lý thoải mái lịch trình DB Navigator, Google Maps, WhatsApp, Instagram và chia sẻ ảnh lâu đài. Nếu bạn là người dùng nhiều dữ liệu, các gói 10GB ($9.99) hoặc 20GB ($17.99) mang lại sự an tâm. Bỏ qua quầy SIM sân bay giúp bạn tiết kiệm thời gian và tránh rắc rối PostIdent.
     - q: |
         Điều gì xảy ra nếu tôi vô tình xóa eSIM Đức trước chuyến đi?
       a: |
@@ -412,63 +412,75 @@ faq_section:
         Thời hạn hiệu lực của eSIM Đức bắt đầu từ khi nào?
       a: |
         Hiệu lực gói bắt đầu khi bạn kết nối với mạng địa phương tại Đức, không phải khi mua hay cài đặt. Vì vậy, bạn có thể mua và cài đặt vài tuần trước chuyến đi mà không mất ngày nào. Gói 7 ngày cho bạn 7 ngày đầy đủ từ lần kết nối đầu tiên.
+    - q: |
+        Deutsche Telekom và Vodafone ở Đức, dùng eSIM mạng nào tốt hơn?
+      a: |
+        Đức có các nhà mạng chính như Deutsche Telekom, Vodafone. Roami tự động chọn mạng có tín hiệu mạnh nhất tại thời điểm đó và chuyển đổi giữa Deutsche Telekom và Vodafone mà bạn không cần cấu hình thủ công. Nếu lịch trình đi ra vùng ngoại ô hoặc đảo xa, nên tải bản đồ ngoại tuyến trước cho chắc.  Tại khu vực Berlin, Munich, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
+    - q: |
+        eSIM Đức có những gói mấy ngày?
+      a: |
+        eSIM Đức của Roami có các lựa chọn 3/7/15/30 ngày, tùy theo độ dài hành trình. Chuyến trong ba ngày thì chọn mức ngắn là đủ; từ một tuần trở lên nên chọn gói dài hạn để chi phí mỗi ngày rẻ hơn.  Hamburg, Frankfurt và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
+    - q: |
+        Đi Đức rồi qua nước khác, dùng chung một eSIM được không?
+      a: |
+        eSIM Đức của Roami chủ yếu dùng trong lãnh thổ Đức; nếu lịch trình đi sang nước láng giềng, bạn nên mua thêm gói của nước đó hoặc gói khu vực để tránh phí chuyển vùng phát sinh.  Thực tế tại Berlin, Cologne, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
 related_products:
   title: Các gói eSIM Đức liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ 1,99 USD
+  - name: eSIM Liechtenstein
+    flag: img/flags/li.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ 1,99 USD
+  - name: eSIM Liberia
+    flag: img/flags/lr.svg
+    price: Từ $27.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ 1,99 USD
+  - name: eSIM Lithuania
+    flag: img/flags/lt.svg
+    price: Từ $1.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ 1,99 USD
+  - name: eSIM Luxembourg
+    flag: img/flags/lu.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ 1,99 USD
+  - name: eSIM Latvia
+    flag: img/flags/lv.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ 1,99 USD
+  - name: eSIM Madagascar
+    flag: img/flags/mg.svg
+    price: Từ $11.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ 1,99 USD
+  - name: eSIM Mali
+    flag: img/flags/ml.svg
+    price: Từ $27.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ 1,99 USD
+  - name: eSIM Malta
+    flag: img/flags/mt.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ 1,99 USD
+  - name: eSIM Maldives
+    flag: img/flags/mv.svg
+    price: Từ $14.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ 1,99 USD
+  - name: eSIM Malawi
+    flag: img/flags/mw.svg
+    price: Từ $14.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ 1,99 USD
+  - name: eSIM Mexico
+    flag: img/flags/mx.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ 1,99 USD
+  - name: eSIM Malaysia
+    flag: img/flags/my.svg
+    price: Từ $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Đức vs SIM trả trước: Không PostIdent, Không lãng phí 28 ngày'
   subtitle: SIM trả trước địa phương Đức vs. Giải pháp eSIM (Đánh giá 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Đức) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Germany
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -497,7 +509,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Các gói trả trước Đức phổ biến là chu kỳ 28 ngày. Telekom MagentaMobil M có giá €9,95 cho 10GB/28 ngày; chuyến đi 7 ngày lãng phí khoảng 75% giá trị gói.
     esim_title: Gói ngắn linh hoạt
-    esim_desc: Không như chu kỳ 28 ngày của O2 (€15/5GB), Roami cung cấp gói 7 ngày từ 1,99 USD/GB — chỉ trả cho thời gian chuyến đi thực tế của bạn, tiết kiệm đến 75% lãng phí.
+    esim_desc: Không như chu kỳ 28 ngày của O2 (€15/5GB), Roami cung cấp gói 7 ngày từ $1.99/GB — chỉ trả cho thời gian chuyến đi thực tế của bạn, tiết kiệm đến 75% lãng phí.
   - icon: wifi
     title: Chính sách chia sẻ<br>kết nối & tốc độ
     prepaid_title: ''
@@ -533,7 +545,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Không lãng phí thanh toán 28 ngày
-      desc: Gói 10GB của Telekom có giá <b>€9,95 cho 28 ngày</b>. Du khách 7 ngày lãng phí <b>75%</b> gói. Roami cung cấp <b>gói 7 ngày từ 1,99 USD/GB</b> — trả cho chuyến đi của bạn, không trả cho lãng phí.
+      desc: Gói 10GB của Telekom có giá <b>€9,95 cho 28 ngày</b>. Du khách 7 ngày lãng phí <b>75%</b> gói. Roami cung cấp <b>gói 7 ngày từ $1.99/GB</b> — trả cho chuyến đi của bạn, không trả cho lãng phí.
     - icon: train
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600

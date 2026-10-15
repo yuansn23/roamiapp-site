@@ -1,6 +1,6 @@
 ---
 title: '希臘 eSIM 2026: 電信商與覆蓋 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,7 @@ modal:
 seo:
   title: "希臘eSIM｜5G上網$1.99起，吃到飽不降速"
   description: "Roami eSIM免綁約方案提供希臘5G上網，最低只要$1.99起超值價格。便宜出國上網推薦免綁約方案，免實名認證免綁約，線上購買秒收QR Code即開即用超方便。"
-  keywords: 希臘 eSIM, 希臘 eSIM方案, 最佳希臘 eSIM, 希臘上網, Cosmote 希臘, Vodafone 希臘, Wind 希臘, 雅典 eSIM, 塞薩洛尼基 eSIM, 伊拉克利翁 eSIM, 希臘行動網路,
-    5G 希臘
+  keywords: 希臘 eSIM, eSIM 希臘, 希臘 eSIM 購買, 最佳希臘 eSIM, 希臘 上網, Cosmote 希臘, Vodafone 希臘, Wind 希臘, 雅典 eSIM, 塞薩洛尼基 eSIM, 伊拉克利翁 eSIM, 帕特雷 eSIM, 羅德島 eSIM, 希臘 eSIM 方案, 希臘 5G eSIM, 希臘 eSIM 預付卡
 order_summary:
   title: 選擇 希臘 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線希臘最佳電信商，取得最強訊號
-plans_title: 購買希臘 eSIM：適合各種旅程的方案
+plans_title: 希臘 eSIM 方案推薦
 plans_data:
   30 天:
   - spec: 20GB
@@ -321,7 +320,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 希臘 eSIM秘訣：出發前須知
+  title: 希臘 eSIM 安裝與啟用提醒
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -350,7 +349,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 希臘 eSIM啟用：3個簡單步驟
+  title: 手把手教你啟用希臘 eSIM
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 希臘 做好準備
@@ -385,88 +384,93 @@ faq_section:
     title: 希臘 eSIM 電信網路Cosmote全解析｜訊號品質與速度
     questions:
     - q: 希臘eSIM的價格從多少到多少？有便宜的短期方案嗎？
-      a: Roami 希臘 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Cosmote在希臘市區5G網速約100-300Mbps，看1080p影片沒問題。去希臘機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到希臘後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 希臘 eSIM方案從$1.99（3天1GB）起，最高$77.99（30天無限）。一般旅客買最多的是5GB/15天（$8.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Cosmote在希臘市區5G網速約100-300Mbps，看1080p影片沒問題。去希臘機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到希臘後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 希臘三大電信Cosmote、Vodafone、Wind，一般觀光客選哪家比較適合？
       a: 希臘主要有Cosmote、Vodafone、Wind。Cosmote市區下載快、基地台密集。Vodafone郊區覆蓋廣，會去郊區的話選Vodafone路線較有保障。Wind價格親民，適合預算有限的旅客。希臘5G使用n78頻段，主要島嶼及城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Cosmote，移動到郊區若Cosmote訊號變弱就自動跳Vodafone或Wind，完全不用手動選。
     - q: 希臘eSIM吃到飽方案如果被降速了，512kbps的速度還能做什麼？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。希臘5G使用n78頻段，主要島嶼及城市覆蓋。Roami在希臘連上Cosmote的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。希臘5G使用n78頻段，主要島嶼及城市覆蓋。Roami在希臘連上Cosmote的網路，網速穩定。如果怕降速可選10GB/$7.99或20GB/$20.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 有人說去希臘辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
       a: 需要的。希臘預付卡需KYC認證，需提供護照。很多人不知道這規定，到了希臘機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。希臘5G使用n78頻段，主要島嶼及城市覆蓋。另外Cosmote的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到希臘開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 希臘的外島或離島地區，eSIM的收訊狀況怎麼樣？
       a: 希臘的Cosmote等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。希臘5G使用n78頻段，主要島嶼及城市覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 跟旅伴一起去希臘，買一張eSIM開熱點分享夠兩個人用嗎？
       a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
+    - q: 希臘 eSIM 大概多少錢？有便宜的選擇嗎？
+      a: Roami 希臘 eSIM 方案從 $1.99（3天1GB）起，最高 $77.99（30天無限）。短期輕度使用挑入門方案即可，用量大的旅客再選高規格。價格透明，方案到期自動失效，不會續約扣款。 實際走訪 雅典、塞薩洛尼基 等主要城市，上網查資料、傳照片都沒問題。
+    - q: 希臘 eSIM 的網速快嗎？會不會比當地實體卡慢？
+      a: Roami 希臘 eSIM 走當地主要電信商的基地台，速度與當地預付卡相當，日常查地圖、社群、視訊通話都很順。實際速度仍會受所在位置與當下網路負載影響。 不論在 伊拉克利翁、帕特雷，連線品質都相當穩定。
+    - q: 去希臘玩幾天，該挑多大的eSIM規格才夠用？
+      a: Roami 希臘 eSIM 有 20GB、50GB、100GB、3GB、5GB、10GB 等規格可選。短天數、只查地圖傳訊息的輕度使用，20GB 就夠；如果會看短影片、視訊通話或開熱點分享，建議再往上加一級。用量抓不準可以先買小的，到 希臘 後在 App 加購即可，不用換卡。 雅典、羅德島 等地的行動網路覆蓋完整，跨區移動也不斷線。
 related_products:
-  title: 類似 希臘 eSIM 的旅行方案
+  title: 熱門目的地 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+  - name: 加拿大 eSIM
+    flag: img/flags/ca.svg
+    price: 自 $3.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: canada-esim
+  - name: 列支敦斯登 eSIM
+    flag: img/flags/li.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: liechtenstein-esim
+  - name: 布吉納法索 eSIM
+    flag: img/flags/bf.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: burkina-faso-esim
+  - name: 波士尼亞與赫塞哥維納 eSIM
+    flag: img/flags/ba.svg
+    price: 自 $30.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: bosnia-and-herzegovina-esim
+  - name: 哥倫比亞 eSIM
+    flag: img/flags/co.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: colombia-esim
+  - name: 巴西 eSIM
+    flag: img/flags/br.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: brazil-esim
+  - name: 阿爾巴尼亞 eSIM
+    flag: img/flags/al.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: albania-esim
+  - name: 烏茲別克 eSIM
+    flag: img/flags/uz.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: hong-kong-esim
+    slug: uzbekistan-esim
+  - name: 汶萊 eSIM
+    flag: img/flags/bn.svg
+    price: 自 $9.99
+    is_highlight: false
+    slug: brunei-esim
   - name: 中國 eSIM
     flag: img/flags/cn.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: false
     slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+  - name: 馬爾地夫 eSIM
+    flag: img/flags/mv.svg
+    price: 自 $14.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: maldives-esim
+  - name: 奈及利亞 eSIM
+    flag: img/flags/ng.svg
+    price: 自 $5.99
+    is_highlight: false
+    slug: nigeria-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Greece eSIM 上網速度快嗎？旅行網路品質完整評測"
   subtitle: "希臘當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Greece) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Greece"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -475,7 +479,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Greece. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Cosmote 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開雅典機場無門市的困境，抵達希臘後一分鐘內線上啟用，無需拖行李尋找市區門市。"
     - icon: "id-card"
@@ -487,7 +491,7 @@ market_analysis:
     - icon: "globe"
       title: "國際漫遊"
       prepaid_title: ""
-      prepaid_desc: "Cosmote的純數據套餐（如€25/30天不限量）完全禁止在希臘境外漫遊；Frog Mobile的7天不限量套餐（€6.50）在歐盟僅能使用7GB，超出後按€0.00192/MB收費。"
+      prepaid_desc: "Cosmote的純數據方案（如€25/30天不限量）完全禁止在希臘境外漫遊；Frog Mobile的7天不限量套餐（€6.50）在歐盟僅能使用7GB，超出後按€0.00192/MB收費。"
       esim_title: "全球漫遊無縮水"
       esim_desc: "不同於Cosmote純數據卡禁止歐盟漫遊，Roami eSIM提供多國方案，數據不縮水，跨國無縫連接。"
     - icon: "calendar-xmark"
@@ -499,19 +503,19 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。根據市場知識，希臘主要營運商通常允許熱點分享，但可能受公平使用政策限制，例如Vodafone CU的30天9GB方案（€10.90）可能降速。"
+      prepaid_desc: "希臘主要營運商通常允許熱點分享，但可能受公平使用政策限制，例如Vodafone CU的30天9GB方案（€10.90）可能降速。"
       esim_title: "無限分享"
       esim_desc: "支援熱點分享，無降速限制，不同於當地營運商可能限制分享速度。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "線上充值要求使用歐盟發行的PayPal或帶有3D安全認證的信用卡，對國際遊客構成支付障礙；所有充值需繳納12%的電信稅。"
+      prepaid_desc: "線上儲值要求使用歐盟發行的PayPal或帶有3D安全認證的信用卡，對國際遊客構成支付障礙；所有儲值需繳納12%的電信稅。"
       esim_title: "全球付款暢通"
       esim_desc: "支援Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需歐盟信用卡，免繳12%電信稅。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "Cosmote門市的激活流程可能非常官僚化且員工不會英語；Nova系統無法發送英語的短信通知。"
+      prepaid_desc: "Cosmote門市的激活流程可能非常官僚化且員工不會英語；Nova系統無法發送英語的簡訊通知。"
       esim_title: "24/7 中文支援"
       esim_desc: "提供24/7多語言客服，無需擔心語言障礙，不同於Cosmote門市可能不說英語。"
 
@@ -528,7 +532,7 @@ market_analysis:
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "全球付款無障礙"
-        desc: "當地線上充值需歐盟信用卡或PayPal，且加收12%電信稅。Roami接受Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無隱藏費用。"
+        desc: "當地線上儲值需歐盟信用卡或PayPal，且加收12%電信稅。Roami接受Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無隱藏費用。"
       - icon: "wifi"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"

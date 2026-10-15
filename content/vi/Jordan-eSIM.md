@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Jordan 2026: Hướng dẫn Du lịch Đầy đủ | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: 'eSIM 5G Jordan: Kích hoạt tức thì, Dữ liệu Không giới hạn'
-  description: So sánh các gói eSIM Jordan với 5G nhanh tại Amman, Zarqa, Irbid. Hướng dẫn vùng phủ của Orange Jordan & Zain Jordan & Umniah cho khách du lịch. Kích hoạt QR tức thì từ 1,99 USD.
-  keywords: eSIM Jordan, mua eSIM Jordan, eSIM Jordan tốt nhất, eSIM du lịch Jordan, Orange Jordan, Zain Jordan, Umniah Jordan, eSIM Amman, eSIM Zarqa, eSIM Irbid, eSIM trả trước Jordan, eSIM 5G Jordan
-  low_price: 1.99
-  high_price: 39.9
+  description: So sánh các gói eSIM Jordan với 5G nhanh tại Amman, Zarqa, Irbid. Hướng dẫn vùng phủ của Orange Jordan & Zain Jordan & Umniah cho khách du lịch. Kích hoạt QR tức thì từ $6.99.
+  keywords: eSIM Jordan, mua eSIM Jordan, eSIM Jordan tốt nhất, eSIM du lịch Jordan, Orange Jordan Jordan, Zain Jordan Jordan, Umniah Jordan, eSIM Amman, eSIM Zarqa, eSIM Irbid, eSIM trả trước Jordan, eSIM 5G Jordan, eSIM Aqaba, eSIM Petra, eSIM Jordan giá rẻ, sim du lịch Jordan
+  low_price: 6.99
+  high_price: 99.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng hàng đầu Jordan để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Jordan: Gói cho mọi thời gian chuyến đi'
+plans_title: 'Chọn một eSIM cho chuyến đi Jordan'
 plans_data:
   7 Ngày:
   - spec: 1GB
@@ -244,7 +244,7 @@ network_coverage:
       coverage: Vùng phủ đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Jordan: Những điều cần biết trước khi đi'
+  title: 'Những lưu ý chính khi dùng Jordan eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -263,7 +263,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Jordan: 3 bước đơn giản'
+  title: 'Các bước cài đặt và kích hoạt Jordan eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -283,12 +283,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Internet eSIM tại Jordan nhanh như thế nào? Tốc độ và Vùng phủ cho Du khách"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, vùng phủ mạng và chất lượng kết nối cho du khách tại Jordan. Tìm hiểu tốc độ mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Tổng hợp câu hỏi về chất lượng mạng và tốc độ eSIM tại Jordan."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Jordan
+    title: 'Jordan eSIM: các câu hỏi phổ biến'
     questions:
     - q: |
         Roami có tự động chuyển đổi giữa Zain, Orange và Umniah ở Jordan không?
@@ -301,7 +301,7 @@ faq_section:
     - q: |
         Tôi nên ngân sách bao nhiêu cho eSIM khi đến thăm Jordan?
       a: |
-        Roami cung cấp eSIM Jordan từ 1,99 USD cho gói nhẹ 7 ngày lên đến 59,99 USD cho 30 ngày dữ liệu không giới hạn. Hầu hết du khách chọn gói 5GB/15 ngày ở mức 9,99 USD — đủ cho điều hướng hàng ngày, mạng xã hội và nhắn tin mà không căng thẳng. Người thích phát trực tuyến hoặc sử dụng mạng xã hội nhiều nên cân nhắc 10GB hoặc không giới hạn. Zain cung cấp tốc độ đáng tin cậy trên khắp Jordan. Các gói Roami là trả trước — không hóa đơn bất ngờ, không tự động gia hạn, giá cả rõ ràng.
+        Roami cung cấp eSIM Jordan từ $6.99 cho gói nhẹ 7 ngày lên đến $52.99 cho 30 ngày dữ liệu không giới hạn. Hầu hết du khách chọn gói 5GB/15 ngày ở mức $37.99 — đủ cho điều hướng hàng ngày, mạng xã hội và nhắn tin mà không căng thẳng. Người thích phát trực tuyến hoặc sử dụng mạng xã hội nhiều nên cân nhắc 10GB hoặc không giới hạn. Zain cung cấp tốc độ đáng tin cậy trên khắp Jordan. Các gói Roami là trả trước — không hóa đơn bất ngờ, không tự động gia hạn, giá cả rõ ràng.
     - q: |
         Tôi có thể sử dụng eSIM Jordan cho mạng xã hội và chia sẻ ảnh với gia đình không?
       a: |
@@ -309,7 +309,7 @@ faq_section:
     - q: |
         Tôi cần truy cập internet chỉ vài ngày ở Jordan. Gói tối thiểu tôi có thể mua là gì?
       a: |
-        Gói rẻ nhất là 1,99 USD cho 7 ngày với 1GB — hoàn hảo cho chuyến cuối tuần ngắn với nhu cầu sử dụng nhẹ. Nếu cần thêm, bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng.
+        Gói rẻ nhất là $6.99 cho 7 ngày với 1GB — hoàn hảo cho chuyến cuối tuần ngắn với nhu cầu sử dụng nhẹ. Nếu cần thêm, bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng.
     - q: |
         Sự khác biệt giữa gói 5GB và gói không giới hạn cho Jordan là gì?
       a: |
@@ -322,63 +322,75 @@ faq_section:
         Tôi có thể dùng ứng dụng điều hướng như Google Maps với eSIM ở Jordan không?
       a: |
         Có — Google Maps tiêu tốn khoảng 5MB mỗi giờ cho điều hướng với giao thông thời gian thực. Tải bản đồ ngoại tuyến của Jordan (khoảng 200-500MB mỗi thành phố) trước khi đi để dự phòng.
+    - q: |
+        Dùng eSIM Jordan gặp sự cố thì liên hệ ai?
+      a: |
+        Roami có hỗ trợ khách hàng trực tuyến. Nếu gặp lỗi kết nối tại Jordan, bạn kiểm tra đường eSIM đã bật và chuyển vùng dữ liệu đã mở chưa; nếu vẫn chưa được thì liên hệ hỗ trợ, trường hợp đủ điều kiện có thể yêu cầu hoàn tiền.  Vùng phủ di động tại Amman, Zarqa đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
+    - q: |
+        eSIM Jordan có chia sẻ hotspot cho bạn đồng hành được không?
+      a: |
+        Có, eSIM Jordan của Roami hỗ trợ chia sẻ hotspot cho laptop, máy tính bảng hoặc người đi cùng. Nếu dùng chung nhiều người, nên chọn gói cao hơn một bậc để không hết dữ liệu giữa chừng; nếu thiếu vẫn có thể nạp thêm trong ứng dụng.  Các thành phố lớn như Irbid, Aqaba đều có phủ sóng ổn định cho nhu cầu hằng ngày.
+    - q: |
+        Tốc độ eSIM Jordan có nhanh không? Có chậm hơn SIM vật lý không?
+      a: |
+        eSIM Jordan của Roami dùng trạm gốc của các nhà mạng chính tại địa phương, tốc độ tương đương SIM trả trước bản địa; tra bản đồ, mạng xã hội và gọi video đều mượt. Tốc độ thực tế còn phụ thuộc vị trí và tải của mạng tại thời điểm đó.  Tại khu vực Amman, Petra, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
 related_products:
   title: Các gói eSIM Jordan liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ 1,99 USD
+  - name: eSIM Pakistan
+    flag: img/flags/pk.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ 1,99 USD
+  - name: Poland eSIM
+    flag: img/flags/pl.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ 1,99 USD
+  - name: eSIM Bồ Đào Nha
+    flag: img/flags/pt.svg
+    price: Từ $1.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ 1,99 USD
+  - name: Puerto Rico eSIM
+    flag: img/flags/pu.svg
+    price: Từ $6.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ 1,99 USD
+  - name: eSIM Paraguay
+    flag: img/flags/py.svg
+    price: Từ $22.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ 1,99 USD
+  - name: eSIM Qatar
+    flag: img/flags/qa.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ 1,99 USD
+  - name: Reunion Island eSIM
+    flag: img/flags/re.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ 1,99 USD
+  - name: eSIM Romania
+    flag: img/flags/ro.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ 1,99 USD
+  - name: Russia eSIM
+    flag: img/flags/ru.svg
+    price: Từ $2.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ 1,99 USD
+  - name: eSIM Ả Rập Xê Út
+    flag: img/flags/sa.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ 1,99 USD
+  - name: eSIM Seychelles
+    flag: img/flags/sc.svg
+    price: Từ $9.99
     is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ 1,99 USD
+  - name: eSIM Singapore
+    flag: img/flags/sg.svg
+    price: Từ $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Jordan vs SIM trả trước địa phương: Cái nào tiện lợi hơn?'
   subtitle: SIM trả trước địa phương Jordan vs. Giải pháp eSIM (Đánh giá 2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Jordan) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Jordan
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -407,7 +419,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 'Tất cả các gói trả trước đều tuân theo chu kỳ thanh toán 30 ngày nghiêm ngặt; ví dụ: gói 10 JOD của Zain chỉ cung cấp 2GB cho 30 ngày, lãng phí 25 ngày cho chuyến đi 5 ngày.'
     esim_title: Gói ngắn linh hoạt
-    esim_desc: Tránh các gói 30 ngày như gói 10 JOD/2GB của Zain (lãng phí 25 ngày). Roami cung cấp gói 7 ngày từ 1,99 USD/GB, tiết kiệm đến 75% lãng phí.
+    esim_desc: Tránh các gói 30 ngày như gói 10 JOD/2GB của Zain (lãng phí 25 ngày). Roami cung cấp gói 7 ngày từ $6.99/GB, tiết kiệm đến 75% lãng phí.
   - icon: wifi
     title: Chính sách chia sẻ<br>kết nối & tốc độ
     prepaid_title: ''

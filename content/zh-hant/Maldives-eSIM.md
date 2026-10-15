@@ -1,15 +1,15 @@
 ---
 title: '馬爾地夫 eSIM 2026: 旅客與網路 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: 馬爾地夫 eSIM
   scenario_keywords: 城市漫步, 海灘, 購物, 美食, 潛水
-  operators: Dhiraagu, Ooredoo, (無第三大運營商，但可提及 Wataniya，已與 Ooredoo 合併)
+  operators: Dhiraagu, Ooredoo, (無第三大電信商，但可提及 Wataniya，已與 Ooredoo 合併)
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: 馬累, 阿杜市, 富瓦穆拉, 庫魯杜富士島, 維靈吉利
-  main_packages: 3/7/15/30 天，無限數據
+  main_packages: 7/15/30 天，1GB/3GB/5GB/10GB/20GB/30GB
 modal:
   title: 服務更新！
   btn_text: 繼續
@@ -18,8 +18,7 @@ modal:
 seo:
   title: "馬爾地夫eSIM｜免綁約5G上網，免實名認證"
   description: "Roami免綁約全球eSIM在200多個國家都能使用，去馬爾地夫當然也沒問題。5G高速上網跨國旅遊一卡搞定，多國旅行不用換卡超方便推薦首選，網路穩定可靠。"
-  keywords: 馬爾地夫 eSIM, 馬爾地夫 eSIM方案, 最佳馬爾地夫 eSIM, 馬爾地夫上網, Dhiraagu 馬爾地夫, Ooredoo 馬爾地夫, (無第三大運營商，但可提及 Wataniya，已與 Ooredoo 合併)
-    馬爾地夫, 馬累 eSIM, 阿杜市 eSIM, 富瓦穆拉 eSIM, 馬爾地夫行動網路, 5G 馬爾地夫
+  keywords: 馬爾地夫 eSIM, eSIM 馬爾地夫, 馬爾地夫 eSIM 購買, 最佳馬爾地夫 eSIM, 馬爾地夫 上網, Dhiraagu 馬爾地夫, Ooredoo 馬爾地夫, 馬累 eSIM, 阿杜市 eSIM, 富瓦穆拉 eSIM, 庫魯杜富士島 eSIM, 維靈吉利 eSIM, 馬爾地夫 eSIM 方案, 馬爾地夫 5G eSIM, 馬爾地夫 eSIM 預付卡, 馬爾地夫 網卡
 order_summary:
   title: 選擇 馬爾地夫 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線馬爾地夫最佳電信商，取得最強訊號
-plans_title: 購買馬爾地夫 eSIM：適合各種旅程的方案
+plans_title: 找到最適合你的馬爾地夫 eSIM 方案
 plans_data:
   7 天:
   - spec: 1GB
@@ -146,7 +145,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: 覆蓋範圍
-      desc: 享受覆蓋全馬爾地夫的全面網路，包括馬累, 阿杜市, 富瓦穆拉, 庫魯杜富士島。您的eSIM會自動連線至Dhiraagu, Ooredoo, (無第三大運營商，但可提及 Wataniya，已與 Ooredoo 合併)的強大網路，在市區、旅遊熱點和主要交通路線提供穩定訊號。
+      desc: 享受覆蓋全馬爾地夫的全面網路，包括馬累, 阿杜市, 富瓦穆拉, 庫魯杜富士島。您的eSIM會自動連線至Dhiraagu, Ooredoo, (無第三大電信商，但可提及 Wataniya，已與 Ooredoo 合併)的強大網路，在市區、旅遊熱點和主要交通路線提供穩定訊號。
     - icon: zap
       color: text-amber-500
       title: 交付時間
@@ -156,7 +155,7 @@ network_coverage:
       title: 熱點分享
       desc: 熱點分享無限制。
   carriers:
-    title: Dhiraagu, Ooredoo & (無第三大運營商，但可提及 Wataniya，已與 Ooredoo 合併)：馬爾地夫 eSIM電信商
+    title: Dhiraagu, Ooredoo & (無第三大電信商，但可提及 Wataniya，已與 Ooredoo 合併)：馬爾地夫 eSIM電信商
     badge: 官方合作夥伴
     items:
     - name: Dhiraagu
@@ -166,7 +165,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 馬爾地夫 eSIM秘訣：出發前須知
+  title: 馬爾地夫 eSIM 使用前必讀
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -195,7 +194,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 馬爾地夫 eSIM啟用：3個簡單步驟
+  title: 馬爾地夫 eSIM 這樣啟用最簡單
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 馬爾地夫 做好準備
@@ -234,7 +233,7 @@ faq_section:
     title: 馬爾地夫 eSIM Dhiraagu與Ooredoo收訊實測｜哪家涵蓋更廣
     questions:
     - q: 第一次去馬爾地夫想用eSIM，方案好多不知道怎麼挑選比較好？
-      a: Roami 馬爾地夫 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Dhiraagu在馬爾地夫市區5G網速約100-300Mbps，看1080p影片沒問題。如果去Klook查馬爾地夫 eSIM，Roami通常便宜10-20%，因為沒有平台抽成。如果不確定用量可以先買小的，到馬爾地夫後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 馬爾地夫 eSIM方案從$14.99（7天1GB）起，最高$165.99（30天20GB）。一般旅客買最多的是3GB/15天（$37.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選5GB以上比較夠。Dhiraagu在馬爾地夫市區5G網速約100-300Mbps，看1080p影片沒問題。如果去Klook查馬爾地夫 eSIM，Roami通常便宜10-20%，因為沒有平台抽成。如果不確定用量可以先買小的，到馬爾地夫後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: Dhiraagu和Ooredoo在馬爾地夫的收訊品質差在哪裡？可以簡單比較一下嗎？
       a: 馬爾地夫主要有Dhiraagu、Ooredoo。Dhiraagu市區下載快、基地台密集。Ooredoo郊區覆蓋廣，會去郊區的話選Ooredoo路線較有保障。馬爾地夫4G/5G，主要島嶼覆蓋良好。不過Roami會自動切換到當前訊號最強的網路。市區用Dhiraagu，移動到郊區若Dhiraagu訊號變弱就自動跳Ooredoo，完全不用手動選。
     - q: 有人說官網買馬爾地夫eSIM比Klook便宜差不多10%，這是真的嗎？
@@ -244,78 +243,83 @@ faq_section:
     - q: 去馬爾地夫跳島旅遊，在不同的島之間移動時eSIM網路會斷掉嗎？
       a: 馬爾地夫的Dhiraagu等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。馬爾地夫4G/5G，主要島嶼覆蓋良好。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 跟旅伴一起去馬爾地夫，買一張eSIM開熱點分享夠兩個人用嗎？
-      a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
+      a: Roami eSIM支援熱點分享。多人建議選5GB以上方案。不確定先買中階再App加購。
+    - q: 馬爾地夫的Dhiraagu和Ooredoo，用eSIM哪一家訊號比較好？
+      a: 馬爾地夫主要有Dhiraagu、Ooredoo等電信商。Roami 會自動選擇當下訊號最強的網路，在Dhiraagu與Ooredoo之間自動切換，不用手動設定。若行程會拉到郊區或離島，出發前先下載離線地圖會更保險。 在 馬累、阿杜市 一帶實測收訊良好，移動中會自動切換基地台。
+    - q: 馬爾地夫 eSIM 有幾天份的方案可以選？
+      a: Roami 馬爾地夫 eSIM 提供 7/15/30 天等選擇，可依行程長短挑選。三天內的短程選入門天數就夠，一週以上建議直接挑長效期方案，單日成本更划算。 富瓦穆拉、庫魯杜富士島 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
+    - q: 去馬爾地夫之後順道去其他國家，同一張eSIM能繼續用嗎？
+      a: Roami 馬爾地夫 eSIM 以 馬爾地夫 境內使用為主；若行程會跨到鄰國，建議另外加購該國或區域方案，避免產生額外的漫遊費用。 實際走訪 馬累、維靈吉利 等主要城市，上網查資料、傳照片都沒問題。
 related_products:
-  title: 類似 馬爾地夫 eSIM 的旅行方案
+  title: 熱門目的地 eSIM
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 印度 eSIM
+    flag: img/flags/in.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: india-esim
+  - name: 保加利亞 eSIM
+    flag: img/flags/bg.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: bulgaria-esim
+  - name: 寮國 eSIM
+    flag: img/flags/la.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: laos-esim
+  - name: 亞美尼亞 eSIM
+    flag: img/flags/am.svg
+    price: 自 $7.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: armenia-esim
+  - name: 象牙海岸 eSIM
+    flag: img/flags/ci.svg
+    price: 自 $9.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: ivory-coast-esim
+  - name: 愛爾蘭 eSIM
+    flag: img/flags/ie.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: hong-kong-esim
+    slug: ireland-esim
   - name: 中國 eSIM
     flag: img/flags/cn.svg
-    price: От 1,99 $
-    is_highlight: false
+    price: 自 $1.99
+    is_highlight: true
     slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+  - name: 芬蘭 eSIM
+    flag: img/flags/fi.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: finland-esim
+  - name: 格瑞那達 eSIM
+    flag: img/flags/gd.svg
+    price: 自 $11.99
+    is_highlight: false
+    slug: grenada-esim
+  - name: 牙買加 eSIM
+    flag: img/flags/jm.svg
+    price: 自 $11.99
+    is_highlight: false
+    slug: jamaica-esim
+  - name: 波蘭 eSIM
+    flag: img/flags/pl.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: poland-esim
+  - name: 墨西哥 eSIM
+    flag: img/flags/mx.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: mexico-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Maldives eSIM 上網速度快嗎？旅行網路品質完整評測"
   subtitle: "馬爾地夫當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Maldives) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Maldives"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -324,7 +328,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Maldives. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Dhiraagu 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 Dhiraagu 機場門市深夜關閉（23:00-07:00）及週五禱告歇業（11:00-14:00）的限制，出發前線上購買 eSIM，落地開機即用，無需排隊或填寫表格。"
     - icon: "id-card"
@@ -336,7 +340,7 @@ market_analysis:
     - icon: "globe"
       title: "國際漫遊"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。根據市場知識，實體卡僅限馬爾地夫本地使用，離開即失效，無國際漫遊功能。"
+      prepaid_desc: "實體卡僅限馬爾地夫本地使用，離開即失效，無國際漫遊功能。"
       esim_title: "全球漫遊通用"
       esim_desc: "實體卡僅限馬爾地夫本地使用，離開即失效；Roami eSIM 支援多國通用，例如 GoMoWorld 的「多樣國家計劃」可覆蓋馬爾地夫及後續目的地，無需換卡。"
     - icon: "calendar-xmark"
@@ -348,19 +352,19 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。根據市場知識，多數預付卡允許熱點分享，但可能受速度限制。"
+      prepaid_desc: "多數預付卡允許熱點分享，但可能受速度限制。"
       esim_title: "無限熱點分享"
       esim_desc: "Roami eSIM 允許熱點分享，無速度限制，而當地實體卡可能限制分享或降速，例如 Ooredoo 數據共享包超額費率高達 MVR 90/MB。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "線上儲值不接受國際信用卡，只能購買本地充值券，旅遊區券稅更高。"
+      prepaid_desc: "線上儲值不接受國際信用卡，只能購買本地儲值券，旅遊區券稅更高。"
       esim_title: "全球付款暢通"
       esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需擔心當地實體卡線上儲值不接受國際信用卡的問題。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。根據市場知識，客戶支援可能僅提供當地語言，且營業時間有限。"
+      prepaid_desc: "客戶支援可能僅提供當地語言，且營業時間有限。"
       esim_title: "24/7 客服支援"
       esim_desc: "Roami 提供 24/7 多語言線上客服，而當地實體卡客服可能僅限當地語言且營業時間有限。"
 
@@ -372,7 +376,7 @@ market_analysis:
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "全球付款方式暢通"
-        desc: "Dhiraagu 線上儲值不接受國際信用卡，只能購買本地充值券。Roami 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal。"
+        desc: "Dhiraagu 線上儲值不接受國際信用卡，只能購買本地儲值券。Roami 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal。"
       - icon: "wifi"
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"

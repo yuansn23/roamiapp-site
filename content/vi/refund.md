@@ -11,7 +11,7 @@ seo:
   description: "Các điều khoản hoàn tiền của Roami cho gói eSIM du lịch trả trước. Hoàn tiền công bằng, không rắc rối nếu gói của bạn không hoạt động. Tìm hiểu về điều kiện và cách gửi yêu cầu."
   image: "/img/og-refund.jpg"
 
-# JSON-LD Schema（注意：这是 YAML 对象，不是多行字符串）
+# JSON-LD Schema（： YAML ，）
 schema:
   "@context": "https://schema.org"
   "@type": "WebPage"

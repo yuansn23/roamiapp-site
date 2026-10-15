@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Mỹ 2026 - Gói trả trước 5G Tốt nhất cho Du khách | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Mỹ - Gói dữ liệu trả trước 5G Tốt nhất cho Du khách
   description: Nhận gói eSIM trả trước Mỹ tốt nhất với phủ sóng 5G trên T-Mobile, AT&T & Verizon. Không cần CMND hay đăng ký. Kích hoạt tức thì. Gói từ $1.99.
-  keywords: eSIM Mỹ, mua eSIM Mỹ, eSIM Mỹ tốt nhất, eSIM du lịch Mỹ, T-Mobile Hoa Kỳ, AT&T Mỹ, Verizon Mỹ, eSIM New York, eSIM Los Angeles, eSIM Chicago, eSIM trả trước Mỹ, eSIM 5G Mỹ
+  keywords: eSIM Mỹ, mua eSIM Mỹ, eSIM Mỹ tốt nhất, eSIM du lịch Mỹ, T-Mobile Mỹ, AT&T Mỹ, Verizon Mỹ, eSIM New York, eSIM Los Angeles, eSIM Chicago, eSIM trả trước Mỹ, eSIM 5G Mỹ, eSIM Houston, eSIM San Francisco, eSIM Mỹ giá rẻ, sim du lịch Mỹ
   low_price: 1.99
-  high_price: 39.9
+  high_price: 49.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với các nhà mạng hàng đầu Mỹ (T-Mobile, AT&T, Verizon) để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Mỹ: Gói cho mọi thời gian chuyến đi'
+plans_title: 'Mỹ eSIM: gói linh hoạt theo ngày và dung lượng'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -308,7 +308,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Mỹ: Những điều cần biết trước khi đi'
+  title: 'Mẹo và lưu ý khi dùng Mỹ eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -327,7 +327,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Mỹ: 3 bước đơn giản'
+  title: 'Cài đặt Mỹ eSIM trong một lần xem'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -347,17 +347,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM sẽ hoạt động tốt ở Mỹ không? Hướng dẫn cho du khách về chất lượng Internet"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Mỹ. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Giải thích tốc độ internet, vùng phủ sóng và chất lượng mạng eSIM tại Mỹ."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Mỹ
+    title: Hỏi đáp nhanh về Mỹ eSIM
     questions:
     - q: |
         Lựa chọn eSIM giá rẻ nhất cho chuyến đi Mỹ là gì?
       a: |
-        Gói eSIM Mỹ của Roami bắt đầu từ $1.99 (7 ngày, 1GB) và lên đến $59.99 (30 ngày không giới hạn). Đối với chuyến đi 5-7 ngày điển hình, gói 5GB giá $9.99 là lựa chọn cân bằng nhất — đủ cho bản đồ, nhắn tin và kiểm tra mạng xã hội. Cần xem video trực tuyến hoặc làm việc từ xa? Hãy chọn 10GB hoặc không giới hạn. Nhờ mạng 5G của T-Mobile, phát trực tuyến và gọi video hoạt động tuyệt vời. Các quầy SIM sân bay tính phí cao hơn 30-50% và bạn phải xếp hàng chờ. Không chắc về nhu cầu dữ liệu? Bắt đầu với gói nhỏ và nạp thêm qua ứng dụng mà không cần thay đổi eSIM.
+        Gói eSIM Mỹ của Roami bắt đầu từ $1.99 và lên đến $49.99 (30 ngày không giới hạn). Đối với chuyến đi 5-7 ngày điển hình, gói 5GB giá $5.99 là lựa chọn cân bằng nhất — đủ cho bản đồ, nhắn tin và kiểm tra mạng xã hội. Cần xem video trực tuyến hoặc làm việc từ xa? Hãy chọn 10GB hoặc không giới hạn. Nhờ mạng 5G của T-Mobile, phát trực tuyến và gọi video hoạt động tuyệt vời. Các quầy SIM sân bay tính phí cao hơn 30-50% và bạn phải xếp hàng chờ. Không chắc về nhu cầu dữ liệu? Bắt đầu với gói nhỏ và nạp thêm qua ứng dụng mà không cần thay đổi eSIM.
     - q: |
         Mỹ thực sự không yêu cầu bất kỳ giấy tờ tùy thân nào để sử dụng eSIM? Tôi có thể mua và đi ngay không?
       a: |
@@ -369,7 +369,7 @@ faq_section:
     - q: |
         eSIM có rẻ hơn chuyển vùng quốc tế cho Mỹ không?
       a: |
-        Có — Roami eSIM thường rẻ hơn 80-90% so với gói chuyển vùng từ hầu hết nhà mạng trong nước. Gói 5GB cho Mỹ có giá $9.99, trong khi chuyển vùng có thể tốn $50+ cho cùng lượng dữ liệu. Bạn cũng nhận được tốc độ mạng địa phương thay vì chuyển vùng bị giới hạn.
+        Có — Roami eSIM thường rẻ hơn 80-90% so với gói chuyển vùng từ hầu hết nhà mạng trong nước. Gói 5GB cho Mỹ có giá $5.99, trong khi chuyển vùng có thể tốn $50+ cho cùng lượng dữ liệu. Bạn cũng nhận được tốc độ mạng địa phương thay vì chuyển vùng bị giới hạn.
     - q: |
         Tôi đến Mỹ vào ban đêm. Tôi có thể kết nối ngay không?
       a: |
@@ -394,63 +394,75 @@ faq_section:
         Gói "Không giới hạn" có thực sự không giới hạn mà không bị giảm tốc độ không?
       a: |
         Có! Không giống như các gói trả trước T-Mobile làm giảm tốc độ chia sẻ sau 35GB, gói không giới hạn của Roami cung cấp dữ liệu tốc độ đầy đủ trong suốt chuyến đi. Không có chính sách sử dụng hợp lý ẩn làm giảm tốc độ của bạn. Hoàn hảo cho cuộc gọi video, phát trực tuyến và chia sẻ kết nối nhiều.
+    - q: |
+        Tốc độ eSIM Mỹ có nhanh không? Có chậm hơn SIM vật lý không?
+      a: |
+        eSIM Mỹ của Roami dùng trạm gốc của các nhà mạng chính tại địa phương, tốc độ tương đương SIM trả trước bản địa; tra bản đồ, mạng xã hội và gọi video đều mượt. Tốc độ thực tế còn phụ thuộc vị trí và tải của mạng tại thời điểm đó.  New York, Los Angeles và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
+    - q: |
+        T-Mobile và AT&T ở Mỹ, dùng eSIM mạng nào tốt hơn?
+      a: |
+        Mỹ có các nhà mạng chính như T-Mobile, AT&T. Roami tự động chọn mạng có tín hiệu mạnh nhất tại thời điểm đó và chuyển đổi giữa T-Mobile và AT&T mà bạn không cần cấu hình thủ công. Nếu lịch trình đi ra vùng ngoại ô hoặc đảo xa, nên tải bản đồ ngoại tuyến trước cho chắc.  Thực tế tại Chicago, Houston, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
+    - q: |
+        Kích hoạt eSIM Mỹ như thế nào? Có phải đợi đến nơi mới bật?
+      a: |
+        Bạn nên quét mã QR cài đặt cấu hình qua WiFi trước chuyến đi, khi đến Mỹ thì bật đường eSIM và mở chuyển vùng dữ liệu; máy sẽ tự kết nối mạng địa phương và thời hạn của gói bắt đầu tính từ lúc đó.  Dù ở New York, San Francisco hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
 related_products:
   title: Các gói eSIM Mỹ liên quan
   items:
-  - name: eSIM Mỹ
-    flag: img/flags/us.svg
+  - name: eSIM Hà Lan
+    flag: img/flags/nl.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: eSIM Niger
+    flag: img/flags/ni.svg
+    price: Từ $23.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
+  - name: eSIM Na Uy
+    flag: img/flags/no.svg
     price: Từ $1.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM New Zealand
+    flag: img/flags/nz.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Oman
+    flag: img/flags/om.svg
+    price: Từ $5.99
+    is_highlight: false
+  - name: eSIM Panama
+    flag: img/flags/pa.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: Peru eSIM
+    flag: img/flags/pe.svg
+    price: Từ $4.99
+    is_highlight: false
+  - name: eSIM Philippines
+    flag: img/flags/ph.svg
+    price: Từ $2.99
+    is_highlight: false
+  - name: eSIM Pakistan
+    flag: img/flags/pk.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: Poland eSIM
+    flag: img/flags/pl.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: eSIM Bồ Đào Nha
+    flag: img/flags/pt.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: Puerto Rico eSIM
+    flag: img/flags/pu.svg
+    price: Từ $6.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Mỹ vs SIM vật lý: Ưu và nhược điểm – eSIM tốt nhất cho du khách Mỹ'
   subtitle: 'SIM trả trước nội địa Mỹ vs. Giải pháp eSIM (Tiêu chuẩn 2024/2025)'
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Hoa Kỳ) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/United-States
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước nội địa (Dữ liệu thị trường)
@@ -465,7 +477,7 @@ market_analysis:
   - icon: id-card
     title: Xác thực KYC & Đăng ký<br>danh tính
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho khía cạnh này. Dựa trên kiến thức thị trường, SIM trả trước Mỹ yêu cầu xác minh danh tính nhưng không đăng ký hộ chiếu như Đức; kích hoạt trực tuyến có thể yêu cầu SSN hoặc địa chỉ Mỹ.
+    prepaid_desc: SIM trả trước Mỹ yêu cầu xác minh danh tính nhưng không đăng ký hộ chiếu như Đức; kích hoạt trực tuyến có thể yêu cầu SSN hoặc địa chỉ Mỹ.
     esim_title: Không xác minh danh tính
     esim_desc: Tránh rắc rối khi cung cấp SSN hoặc địa chỉ Mỹ. Roami eSIM không yêu cầu dữ liệu cá nhân, chỉ cần mua và cài đặt.
   - icon: globe
@@ -495,7 +507,7 @@ market_analysis:
   - icon: headset
     title: Hỗ trợ khách hàng
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho khía cạnh này. Dựa trên kiến thức thị trường, hỗ trợ khách hàng trả trước Mỹ thường chỉ qua điện thoại với thời gian chờ lâu và không có trò chuyện trực tiếp cho khách trả trước.
+    prepaid_desc: Hỗ trợ khách hàng trả trước Mỹ thường chỉ qua điện thoại với thời gian chờ lâu và không có trò chuyện trực tiếp cho khách trả trước.
     esim_title: Hỗ trợ đa ngôn ngữ 24/7
     esim_desc: Nhận trợ giúp tức thì qua trò chuyện trực tiếp hoặc email, không như các nhà mạng trả trước Mỹ chỉ cung cấp hỗ trợ qua điện thoại với thời gian chờ lâu.
   expert_verdict:

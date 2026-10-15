@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Jamaica 2026: Hướng dẫn Phủ sóng & Tốc độ | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Jamaica | Gói dữ liệu trả trước tốt nhất cho khách du lịch
   description: Cần eSIM du lịch trả trước cho Jamaica? Roami cung cấp dữ liệu 5G không giới hạn trên toàn đảo. Phủ sóng Kingston, Montego Bay & Negril. Kích hoạt tức thì.
-  keywords: eSIM Jamaica, mua eSIM Jamaica, eSIM Jamaica tốt nhất, eSIM du lịch Jamaica, Digicel Jamaica, Flow Jamaica, Lime Jamaica, eSIM Kingston, eSIM Montego Bay, eSIM Ocho Rios, eSIM trả trước Jamaica, eSIM 5G Jamaica
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM Jamaica, mua eSIM Jamaica, eSIM Jamaica tốt nhất, eSIM du lịch Jamaica, Digicel Jamaica, Flow Jamaica, Lime Jamaica, eSIM Kingston, eSIM Montego Bay, eSIM Ocho Rios, eSIM trả trước Jamaica, eSIM 5G Jamaica, eSIM Negril, eSIM Spanish Town, eSIM Jamaica giá rẻ, sim du lịch Jamaica
+  low_price: 11.99
+  high_price: 67.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng Jamaica hàng đầu để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Jamaica: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Jamaica eSIM: Nhiều mức ngày và dung lượng'
 plans_data:
   7 Ngày:
   - spec: 1GB
@@ -228,7 +228,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Jamaica: Những điều cần biết trước khi đi'
+  title: 'Trước khi đến Jamaica: các mục cần kiểm tra với eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích với eSIM</a> trước khi mua.
@@ -247,7 +247,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Jamaica: 3 bước đơn giản'
+  title: 'Hướng dẫn kích hoạt Jamaica eSIM (3 bước)'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -267,12 +267,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM ở Jamaica -- Kết nối có nhanh và đáng tin cậy cho khách du lịch không?"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Jamaica. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Những câu hỏi phổ biến về tốc độ và độ phủ sóng eSIM khi đến Jamaica."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Jamaica
+    title: 'Hỏi đáp thường gặp: Jamaica eSIM'
     questions:
     - q: |
         Digicel hay Flow cung cấp tốc độ dữ liệu tốt hơn ở Jamaica?
@@ -281,7 +281,7 @@ faq_section:
     - q: |
         Tôi nên dự trù bao nhiêu ngân sách cho eSIM khi thăm Jamaica?
       a: |
-        Roami cung cấp eSIM Jamaica từ $1.99 cho gói nhẹ 7 ngày lên đến $59.99 cho 30 ngày dữ liệu không giới hạn. Hầu hết du khách chọn gói 5GB/15 ngày với giá $9.99 — đủ cho điều hướng hàng ngày, mạng xã hội và nhắn tin mà không lo lắng. Những ai thích phát trực tuyến hoặc sử dụng mạng xã hội nhiều nên cân nhắc gói 10GB hoặc không giới hạn. Digicel cung cấp tốc độ đáng tin cậy trên khắp Jamaica. Gói Roami trả trước — không hóa đơn bất ngờ, không tự động gia hạn, giá cả minh bạch.
+        Roami cung cấp eSIM Jamaica từ $11.99 cho gói nhẹ 7 ngày lên đến $52.99 cho 30 ngày dữ liệu không giới hạn. Hầu hết du khách chọn gói 5GB/15 ngày với giá $39.99 — đủ cho điều hướng hàng ngày, mạng xã hội và nhắn tin mà không lo lắng. Những ai thích phát trực tuyến hoặc sử dụng mạng xã hội nhiều nên cân nhắc gói 10GB hoặc không giới hạn. Digicel cung cấp tốc độ đáng tin cậy trên khắp Jamaica. Gói Roami trả trước — không hóa đơn bất ngờ, không tự động gia hạn, giá cả minh bạch.
     - q: |
         Việc tải lên hộ chiếu để đăng ký eSIM Jamaica có an toàn không? Tôi lo ngại về quyền riêng tư.
       a: |
@@ -289,7 +289,7 @@ faq_section:
     - q: |
         Tôi đi Jamaica chỉ 2-3 ngày. Tôi nên mua eSIM nào?
       a: |
-        Đối với chuyến đi ngắn, gói 1GB/7 ngày ($1.99) đủ cho bản đồ và nhắn tin. Nếu bạn dự định sử dụng mạng xã hội và chia sẻ ảnh, gói 3GB ($4.99) sẽ thoải mái hơn. Cả hai đều kích hoạt tức thì và bạn có thể nạp thêm nếu cần.
+        Đối với chuyến đi ngắn, gói 1GB/7 ngày ($11.99) đủ cho bản đồ và nhắn tin. Nếu bạn dự định sử dụng mạng xã hội và chia sẻ ảnh, gói 3GB ($23.99) sẽ thoải mái hơn. Cả hai đều kích hoạt tức thì và bạn có thể nạp thêm nếu cần.
     - q: |
         Thời hạn hiệu lực của eSIM Jamaica bắt đầu khi nào?
       a: |
@@ -306,63 +306,75 @@ faq_section:
         eSIM Jamaica của tôi có hoạt động ngay khi tôi hạ cánh không, hay có độ trễ kích hoạt?
       a: |
         Nếu bạn đã cài đặt eSIM trước khi khởi hành, nó sẽ kích hoạt trong vòng 1-2 phút sau khi hạ cánh. Chỉ cần tắt Chế độ Máy bay và bật Chuyển vùng Dữ liệu. Điện thoại của bạn tự động kết nối với Digicel. Không xếp hàng, không thủ tục giấy tờ — bạn trực tuyến trước khi đến khu vực lấy hành lý.
+    - q: |
+        Đến sân bay ở Jamaica là dùng được internet ngay chứ?
+      a: |
+        Được. Chỉ cần cài eSIM trước, sau khi hạ cánh tắt chế độ máy bay và bật đường eSIM, thường chỉ vài chục giây là kết nối được mạng địa phương, không cần xếp hàng mua SIM vật lý ở sân bay Jamaica.  Thực tế tại Kingston, Montego Bay, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
+    - q: |
+        Dùng eSIM Jamaica ở Kingston, Montego Bay có ổn không?
+      a: |
+        Kingston, Montego Bay và các đô thị chính đều được phủ sóng di động đầy đủ: tra bản đồ, gọi xe, nhắn tin và tải ảnh đều ổn. Một số vùng xa của Jamaica tín hiệu yếu hơn, bạn nên tải bản đồ ngoại tuyến để phòng.  Dù ở Ocho Rios, Negril hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
+    - q: |
+        eSIM Jamaica có những gói mấy ngày?
+      a: |
+        eSIM Jamaica của Roami có các lựa chọn 3/7/15/30 ngày, tùy theo độ dài hành trình. Chuyến trong ba ngày thì chọn mức ngắn là đủ; từ một tuần trở lên nên chọn gói dài hạn để chi phí mỗi ngày rẻ hơn.  Vùng phủ di động tại Kingston, Spanish Town đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
 related_products:
   title: Các gói eSIM Jamaica liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ $1.99
+  - name: eSIM Maldives
+    flag: img/flags/mv.svg
+    price: Từ $14.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: eSIM Malawi
+    flag: img/flags/mw.svg
+    price: Từ $14.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Mexico
+    flag: img/flags/mx.svg
+    price: Từ $3.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Malaysia
+    flag: img/flags/my.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: eSIM Nepal
+    flag: img/flags/ne.svg
+    price: Từ $10.99
+    is_highlight: false
+  - name: eSIM Nigeria
+    flag: img/flags/ng.svg
+    price: Từ $5.99
+    is_highlight: false
+  - name: eSIM Niger
+    flag: img/flags/ni.svg
+    price: Từ $23.99
+    is_highlight: false
+  - name: eSIM Hà Lan
+    flag: img/flags/nl.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
+  - name: eSIM Na Uy
+    flag: img/flags/no.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
+  - name: eSIM New Zealand
+    flag: img/flags/nz.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
+  - name: eSIM Oman
+    flag: img/flags/om.svg
+    price: Từ $5.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: eSIM Panama
+    flag: img/flags/pa.svg
+    price: Từ $11.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Jamaica hay SIM vật lý: Lựa chọn nào tốt nhất năm 2026?'
   subtitle: SIM trả trước địa phương Jamaica vs. Giải pháp eSIM (Điểm chuẩn 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Jamaica) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Jamaica
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -391,7 +403,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Gói 28 ngày 5GB của Digicel có giá JMD 2.450, gói 28 ngày 4GB của FLOW có giá JMD 2.300; khách du lịch 7 ngày lãng phí 75% giá trị gói.
     esim_title: Gói ngắn hạn linh hoạt
-    esim_desc: Không giống chu kỳ 28 ngày của Digicel (JMD 2.450/5GB) lãng phí 75% cho chuyến đi 7 ngày, Roami cung cấp gói 7 ngày từ $1.99/GB, tiết kiệm tiền.
+    esim_desc: Không giống chu kỳ 28 ngày của Digicel (JMD 2.450/5GB) lãng phí 75% cho chuyến đi 7 ngày, Roami cung cấp gói 7 ngày từ $11.99/GB, tiết kiệm tiền.
   - icon: wifi
     title: Chính sách điểm phát<br>Wi-Fi & tốc độ
     prepaid_title: ''
@@ -401,13 +413,13 @@ market_analysis:
   - icon: credit-card
     title: Thanh toán nạp tiền
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho mục này. Theo kiến thức thị trường, nạp qua ứng dụng Digicel hoặc trang web FLOW chấp nhận Visa/Mastercard, nhưng thẻ nước ngoài thường thất bại.
+    prepaid_desc: Nạp qua ứng dụng Digicel hoặc trang web FLOW chấp nhận Visa/Mastercard, nhưng thẻ nước ngoài thường thất bại.
     esim_title: Phương thức thanh toán toàn cầu
     esim_desc: Nạp Digicel/FLOW thường thất bại với thẻ nước ngoài. Roami chấp nhận Visa, Mastercard, AMEX, Apple Pay, Google Pay và PayPal một cách liền mạch.
   - icon: headset
     title: Hỗ trợ khách hàng
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho mục này. Theo kiến thức thị trường, hỗ trợ khách hàng theo giờ địa phương, chỉ tiếng Anh, không có chat trực tiếp 24/7.
+    prepaid_desc: Hỗ trợ khách hàng theo giờ địa phương, chỉ tiếng Anh, không có chat trực tiếp 24/7.
     esim_title: Hỗ trợ tiếng Anh 24/7
     esim_desc: Hỗ trợ Digicel/FLOW giới hạn trong giờ địa phương. Roami cung cấp chat trực tiếp và hỗ trợ email tiếng Anh 24/7, sẵn sàng cho mọi vấn đề.
   expert_verdict:

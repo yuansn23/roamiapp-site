@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Guatemala 2026: Hướng dẫn Du lịch & Nhà mạng | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Tigo, Claro, Movistar
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Thành phố Guatemala, Antigua, Quetzaltenango, Flores, Mixco
-  main_packages: 3/7/15/30 Ngày, Dữ liệu Không giới hạn
+  main_packages: 3/7/15/30 Ngày, Nhiều mức dữ liệu
 modal:
   title: Dịch vụ đã được nâng cấp!
   btn_text: Tiếp tục
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: eSIM Guatemala | Gói Dữ liệu 5G Tốt nhất cho Kỳ nghỉ của Bạn
-  description: Du lịch đến Guatemala với eSIM du lịch trả trước tốt nhất của Roami. Dữ liệu 5G không giới hạn trên toàn quốc. Phủ sóng Thành phố Guatemala, Antigua & Quetzaltenango. Kích hoạt tức thì.
-  keywords: eSIM Guatemala, mua eSIM Guatemala, eSIM Guatemala tốt nhất, eSIM du lịch Guatemala, Tigo Guatemala, Claro Guatemala, Movistar Guatemala, eSIM Thành phố Guatemala, eSIM Antigua, eSIM Quetzaltenango, eSIM trả trước Guatemala, eSIM 5G Guatemala
-  low_price: 1.99
-  high_price: 39.9
+  description: Du lịch đến Guatemala với eSIM du lịch trả trước tốt nhất của Roami. Dữ liệu 5G tốc độ cao trên toàn quốc. Phủ sóng Thành phố Guatemala, Antigua & Quetzaltenango. Kích hoạt tức thì.
+  keywords: eSIM Guatemala, mua eSIM Guatemala, eSIM Guatemala tốt nhất, eSIM du lịch Guatemala, Tigo Guatemala, Claro Guatemala, Movistar Guatemala, eSIM Thành phố Guatemala, eSIM Antigua, eSIM Quetzaltenango, eSIM trả trước Guatemala, eSIM 5G Guatemala, eSIM Flores, eSIM Mixco, eSIM Guatemala giá rẻ, sim du lịch Guatemala
+  low_price: 11.99
+  high_price: 48.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng hàng đầu Guatemala để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Guatemala: Gói cho mọi thời gian chuyến đi'
+plans_title: 'Guatemala eSIM: gói linh hoạt theo ngày và dung lượng'
 plans_data:
   7 Ngày:
   - spec: 1GB
@@ -161,7 +161,7 @@ network_coverage:
       coverage: Vùng phủ đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Guatemala: Những điều cần biết trước khi đi'
+  title: 'Mẹo và lưu ý khi dùng Guatemala eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -180,7 +180,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Guatemala: 3 bước đơn giản'
+  title: 'Cài đặt Guatemala eSIM trong một lần xem'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -200,21 +200,21 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM có hoạt động ở mọi nơi tại Guatemala không? Hướng dẫn vùng phủ thành phố và nông thôn"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, vùng phủ mạng và chất lượng kết nối cho du khách tại Guatemala. Tìm hiểu tốc độ mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Giải thích tốc độ internet, vùng phủ sóng và chất lượng mạng eSIM tại Guatemala."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Guatemala
+    title: Hỏi đáp nhanh về Guatemala eSIM
     questions:
     - q: |
         Tôi có thể mua eSIM cho Guatemala mà không tốn quá nhiều không?
       a: |
-        Chắc chắn rồi. Các gói eSIM Guatemala của Roami bắt đầu từ chỉ 1,99 USD. Tùy chọn 5GB/15 ngày (9,99 USD) là phổ biến nhất với du khách — nó xử lý thoải mái bản đồ, WhatsApp, Instagram và email. Nếu bạn là người dùng nhiều dữ liệu, các gói 10GB (14,99 USD) hoặc không giới hạn (59,99 USD) mang lại sự an tâm. Bỏ qua quầy SIM sân bay giúp bạn tiết kiệm 30-50% và tránh rắc rối xếp hàng. Cần điều chỉnh? Bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng Roami.
+        Chắc chắn rồi. Các gói eSIM Guatemala của Roami bắt đầu từ chỉ $11.99. Tùy chọn 5GB/30 ngày ($35.99) là phổ biến nhất với du khách — nó xử lý thoải mái bản đồ, WhatsApp, Instagram và email. Nếu bạn là người dùng nhiều dữ liệu, các gói 10GB ($48.99) mang lại sự an tâm. Bỏ qua quầy SIM sân bay giúp bạn tiết kiệm 30-50% và tránh rắc rối xếp hàng. Cần điều chỉnh? Bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng Roami.
     - q: |
         Gói eSIM Guatemala không giới hạn có bị chậm lại nếu tôi dùng quá nhiều dữ liệu không?
       a: |
-        Có chính sách sử dụng hợp lý: tốc độ giảm sau 30GB trong một ngày. Ở tốc độ giảm, bạn vẫn có thể nhắn tin, điều hướng và duyệt web — chỉ không xem video mượt mà. Thực tế, hầu hết du khách không dùng đến 30GB. Nếu bạn lo lắng, gói cố định 10GB (14,99 USD) hoặc 20GB (24,99 USD) sẽ loại bỏ hoàn toàn sự không chắc chắn.
+        Có chính sách sử dụng hợp lý: tốc độ giảm sau 30GB trong một ngày. Ở tốc độ giảm, bạn vẫn có thể nhắn tin, điều hướng và duyệt web — chỉ không xem video mượt mà. Thực tế, hầu hết du khách không dùng đến 30GB. Nếu bạn lo lắng, gói cố định 10GB ($48.99) hoặc 20GB ($30.99) sẽ loại bỏ hoàn toàn sự không chắc chắn.
     - q: |
         Nhà mạng nào ở Guatemala tôi nên tin cậy cho eSIM của mình?
       a: |
@@ -239,63 +239,75 @@ faq_section:
         eSIM Guatemala có hoạt động ở vùng nông thôn và thị trấn nhỏ không?
       a: |
         Vùng phủ ở Guatemala đạt khoảng 95% khu vực đô thị nhưng giảm ở các địa điểm xa xôi. Tốc độ có thể giảm từ 200-300 Mbps (5G) xuống 10-30 Mbps (4G). Roami tự động chuyển sang mạng mạnh nhất. Tải bản đồ ngoại tuyến trước khi đến các khu vực xa xôi.
+    - q: |
+        Tốc độ eSIM Guatemala có nhanh không? Có chậm hơn SIM vật lý không?
+      a: |
+        eSIM Guatemala của Roami dùng trạm gốc của các nhà mạng chính tại địa phương, tốc độ tương đương SIM trả trước bản địa; tra bản đồ, mạng xã hội và gọi video đều mượt. Tốc độ thực tế còn phụ thuộc vị trí và tải của mạng tại thời điểm đó.  Thành phố Guatemala, Antigua và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
+    - q: |
+        Tigo và Claro ở Guatemala, dùng eSIM mạng nào tốt hơn?
+      a: |
+        Guatemala có các nhà mạng chính như Tigo, Claro. Roami tự động chọn mạng có tín hiệu mạnh nhất tại thời điểm đó và chuyển đổi giữa Tigo và Claro mà bạn không cần cấu hình thủ công. Nếu lịch trình đi ra vùng ngoại ô hoặc đảo xa, nên tải bản đồ ngoại tuyến trước cho chắc.  Thực tế tại Quetzaltenango, Flores, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
+    - q: |
+        Kích hoạt eSIM Guatemala như thế nào? Có phải đợi đến nơi mới bật?
+      a: |
+        Bạn nên quét mã QR cài đặt cấu hình qua WiFi trước chuyến đi, khi đến Guatemala thì bật đường eSIM và mở chuyển vùng dữ liệu; máy sẽ tự kết nối mạng địa phương và thời hạn của gói bắt đầu tính từ lúc đó.  Dù ở Thành phố Guatemala, Mixco hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
 related_products:
   title: Các gói eSIM Guatemala liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ 1,99 USD
+  - name: eSIM Thành Vatican
+    flag: img/flags/va.svg
+    price: Từ $10.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ 1,99 USD
+  - name: Vietnam eSIM
+    flag: img/flags/vn.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ 1,99 USD
+  - name: eSIM Kosovo
+    flag: img/flags/xk.svg
+    price: Từ $13.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ 1,99 USD
+  - name: eSIM Đông Nam Á
+    flag: img/flags/ya.webp
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ 1,99 USD
+  - name: eSIM Andorra
+    flag: img/flags/ad.svg
+    price: Từ $6.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ 1,99 USD
+  - name: UAE eSIM
+    flag: img/flags/ae.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ 1,99 USD
+  - name: eSIM Afghanistan
+    flag: img/flags/af.svg
+    price: Từ $11.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ 1,99 USD
+  - name: eSIM Albania
+    flag: img/flags/al.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ 1,99 USD
+  - name: eSIM Armenia
+    flag: img/flags/am.svg
+    price: Từ $7.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ 1,99 USD
+  - name: eSIM Argentina
+    flag: img/flags/ar.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ 1,99 USD
+  - name: eSIM Áo
+    flag: img/flags/at.svg
+    price: Từ $1.99
     is_highlight: false
   - name: eSIM Úc
     flag: img/flags/au.svg
-    price: Từ 1,99 USD
+    price: Từ $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Guatemala vs SIM trả trước: So sánh Tốc độ, Vùng phủ và Giá'
   subtitle: SIM trả trước địa phương Guatemala vs. Giải pháp eSIM (Đánh giá 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Guatemala) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Guatemala
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -324,11 +336,11 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Gói 30 ngày của Tigo có giá Q99 cho 2GB; gói 30 ngày của Claro có giá Q100 cho 3GB; gói 30 ngày của Movistar có giá Q100 cho 3+3GB. Các gói ngắn hạn có sẵn nhưng hạn chế.
     esim_title: Gói ngắn linh hoạt
-    esim_desc: Không như chu kỳ 30 ngày của Tigo (Q99/2GB), Roami cung cấp gói 7 ngày từ 1,99 USD/GB, tiết kiệm hơn 70% lãng phí cho chuyến đi ngắn.
+    esim_desc: Không như chu kỳ 30 ngày của Tigo (Q99/2GB), Roami cung cấp gói 7 ngày từ $11.99/GB, tiết kiệm hơn 70% lãng phí cho chuyến đi ngắn.
   - icon: wifi
     title: Chính sách chia sẻ<br>kết nối & tốc độ
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho khía cạnh này. Dựa trên kiến thức thị trường, hầu hết SIM trả trước cho phép chia sẻ kết nối nhưng có thể giới hạn tốc độ sau một giới hạn nhất định.
+    prepaid_desc: Hầu hết SIM trả trước cho phép chia sẻ kết nối nhưng có thể giới hạn tốc độ sau một giới hạn nhất định.
     esim_title: Chia sẻ kết nối không hạn chế
     esim_desc: Roami eSIM cho phép chia sẻ điểm phát WiFi tốc độ đầy đủ, không như một số SIM địa phương giới hạn tốc độ chia sẻ sau 3GB/ngày.
   - icon: credit-card

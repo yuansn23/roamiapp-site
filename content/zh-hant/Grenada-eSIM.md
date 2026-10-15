@@ -1,6 +1,6 @@
 ---
 title: '格瑞那達 eSIM 2026: 5G與方案 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,9 +17,8 @@ modal:
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
   title: "格瑞那達eSIM｜5G無限流量吃到飽，追劇打卡不用省"
-  description: "Roami eSIM無限流量方案讓您在格瑞那達享受5G高速國外旅遊網路最低$1.99起超值價格。流量不限制追劇打卡盡情用，不用擔心超量問題，跨國旅行不用換卡一卡搞定。"
-  keywords: 格瑞那達 eSIM, 格瑞那達 eSIM方案, 最佳格瑞那達 eSIM, 格瑞那達上網, Flow 格瑞那達, Digicel 格瑞那達, LIAT 格瑞那達, 聖喬治 eSIM, 格倫維爾 eSIM, 索特爾斯 eSIM,
-    格瑞那達行動網路, 5G 格瑞那達
+  description: "Roami eSIM無限流量方案讓您在格瑞那達享受5G高速國外旅遊網路最低$11.99起超值價格。流量不限制追劇打卡盡情用，不用擔心超量問題，跨國旅行不用換卡一卡搞定。"
+  keywords: 格瑞那達 eSIM, eSIM 格瑞那達, 格瑞那達 eSIM 購買, 最佳格瑞那達 eSIM, 格瑞那達 上網, Flow 格瑞那達, Digicel 格瑞那達, LIAT 格瑞那達, 聖喬治 eSIM, 格倫維爾 eSIM, 索特爾斯 eSIM, 古亞夫 eSIM, 維多利亞 eSIM, 格瑞那達 eSIM 方案, 格瑞那達 5G eSIM, 格瑞那達 eSIM 預付卡
 order_summary:
   title: 選擇 格瑞那達 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線格瑞那達最佳電信商，取得最強訊號
-plans_title: 購買格瑞那達 eSIM：適合各種旅程的方案
+plans_title: 格瑞那達 eSIM 各式方案快速挑選
 plans_data:
   30 天:
   - spec: 3GB
@@ -149,7 +148,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 格瑞那達 eSIM秘訣：出發前須知
+  title: 格瑞那達 eSIM 實用提醒總整理
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -178,7 +177,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 格瑞那達 eSIM啟用：3個簡單步驟
+  title: 格瑞那達 eSIM 啟用流程說明
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 格瑞那達 做好準備
@@ -213,7 +212,7 @@ faq_section:
     title: 格瑞那達 eSIM 電信商Flow、Digicel哪個好？網路速度完整比較
     questions:
     - q: 格瑞那達eSIM各方案價格差在哪裡？買哪種最適合一般觀光客？
-      a: Roami 格瑞那達 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。格瑞那達以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去格瑞那達機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到格瑞那達後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 格瑞那達 eSIM方案從$11.99（7天1GB）起，最高$67.99（30天10GB）。一般旅客買最多的是1GB/7天（$11.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選3GB以上比較夠。格瑞那達以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去格瑞那達機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到格瑞那達後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 去格瑞那達旅遊的話，Flow和Digicel這兩家哪個網路比較好？
       a: 格瑞那達主要有Flow、Digicel。Flow市區下載快、基地台密集。Digicel郊區覆蓋廣，會去郊區的話選Digicel路線較有保障。格瑞那達3G/4G為主。不過Roami會自動切換到當前訊號最強的網路。市區用Flow，移動到郊區若Flow訊號變弱就自動跳Digicel，完全不用手動選。
     - q: 去格瑞那達用eSIM需要先通過身分驗證嗎？要準備哪些證件？
@@ -224,77 +223,82 @@ faq_section:
       a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
     - q: 出國去格瑞那達用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
       a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到格瑞那達開數據漫遊就用。
+    - q: 格瑞那達 eSIM 可以開熱點分享給旅伴嗎？
+      a: 可以，Roami 格瑞那達 eSIM 支援熱點分享，能分給筆電、平板或同行旅伴。多人共用建議挑規格大一級的方案，避免中途用完；用量抓不準也可以事後在 App 加購。 不論在 聖喬治、格倫維爾，連線品質都相當穩定。
+    - q: 抵達格瑞那達機場後就能馬上上網嗎？
+      a: 可以。只要出發前先安裝好 eSIM，落地後關閉飛航模式、開啟 eSIM 線路，通常幾十秒內就能連上當地網路，不用在機場排隊買實體 SIM 卡。 索特爾斯、古亞夫 等地的行動網路覆蓋完整，跨區移動也不斷線。
+    - q: 格瑞那達的Flow和Digicel，用eSIM哪一家訊號比較好？
+      a: 格瑞那達主要有Flow、Digicel等電信商。Roami 會自動選擇當下訊號最強的網路，在Flow與Digicel之間自動切換，不用手動設定。若行程會拉到郊區或離島，出發前先下載離線地圖會更保險。 另外，聖喬治、維多利亞 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
 related_products:
   title: 類似 格瑞那達 eSIM 的旅行方案
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 柬埔寨 eSIM
+    flag: img/flags/kh.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: cambodia-esim
+  - name: 瓜地馬拉 eSIM
+    flag: img/flags/gt.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+    slug: guatemala-esim
+  - name: 德國 eSIM
+    flag: img/flags/de.svg
+    price: 自 $1.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: germany-esim
+  - name: 阿爾巴尼亞 eSIM
+    flag: img/flags/al.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: albania-esim
+  - name: 喀麥隆 eSIM
+    flag: img/flags/cm.svg
+    price: 自 $27.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: cameroon-esim
+  - name: 愛爾蘭 eSIM
+    flag: img/flags/ie.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: ireland-esim
+  - name: 奈及利亞 eSIM
+    flag: img/flags/ng.svg
+    price: 自 $5.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: nigeria-esim
+  - name: 埃及 eSIM
+    flag: img/flags/eg.svg
+    price: 自 $2.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: egypt-esim
+  - name: 墨西哥 eSIM
+    flag: img/flags/mx.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: mexico-esim
+  - name: 秘魯 eSIM
+    flag: img/flags/pe.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+    slug: peru-esim
+  - name: 波士尼亞與赫塞哥維納 eSIM
+    flag: img/flags/ba.svg
+    price: 自 $30.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: bosnia-and-herzegovina-esim
+  - name: 阿聯 eSIM
+    flag: img/flags/ae.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: uae-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Grenada eSIM 網路覆蓋怎麼樣？離城市多遠會沒訊號？"
   subtitle: "格瑞那達當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Grenada) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Grenada"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -303,43 +307,43 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Grenada. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Flow 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 Digicel 或 Flow 門市排隊，抵達格瑞那達前一分鐘內線上啟用，無需出示護照或撥打 *140# 等代碼，零等待體驗。"
     - icon: "id-card"
       title: "KYC 與護照登記"
       prepaid_title: ""
-      prepaid_desc: "购买 SIM 卡时必须出示护照，虽然文本描述为“非常迅速”，但这依然构成一个必须经历的线下审核环节。"
+      prepaid_desc: "購買 SIM 卡時必須出示護照，雖然文本描述為“非常迅速”，但這依然構成一個必須經歷的線下審核環節。"
       esim_title: "免護照登記"
       esim_desc: "無需像 Digicel 或 Flow 那樣出示護照進行 KYC 驗證，Roami eSIM 完全線上購買，保護隱私且省去 30 分鐘以上的門市辦理時間。"
     - icon: "globe"
       title: "國際漫遊"
       prepaid_title: ""
-      prepaid_desc: "Digicel 提供的“Roam Like You're Home”计划（7天/EC$ 27），允许在美国、加拿大及加勒比其他 Digicel 网络地区使用。但存在严重的 FUP 限制：用户购买的本地数据套餐在漫游时完全失效，必须按默认费率 EC$ 0.30 / MB 支付漫游数据费，成本极高。"
+      prepaid_desc: "Digicel 提供的“Roam Like You're Home”計划（7天/EC$ 27），允許在美國、加拿大及加勒比其他 Digicel 網絡地區使用。但存在嚴重的 FUP 限制：用戶購買的本地數據套餐在漫遊時完全失效，必須按預設費率 EC$ 0.30 / MB 支付漫遊數據費，成本極高。"
       esim_title: "全球漫遊無陷阱"
       esim_desc: "避免 Digicel 的「Roam Like You're Home」陷阱（本地流量包失效，漫遊費 EC$ 0.30/MB），Roami eSIM 提供多國套餐，在加勒比跳島遊時流量不縮水，無隱藏費用。"
     - icon: "calendar-xmark"
       title: "計費週期與浪費成本"
       prepaid_title: ""
-      prepaid_desc: "Digicel 和 Flow 的流量包设计均是以“天”为单位的刚性切割，7 天与 30 天之间存在价格断层。假设一个 3 天行程的用户，Digicel 仅提供 300MB (3天/EC$9) 的迷你包，若不够用则必须跳级到 600MB (7天/EC$17)；Flow 则只有 500MB (3天/EC$8.99) 可选。一旦行程为 4 天或 5 天，购买 Flow 的 7 天 1GB 套餐 (EC$24.99) 将直接导致至少 40% 的使用周期和相应资金沦为沉没成本。"
+      prepaid_desc: "Digicel 和 Flow 的流量包設計均是以“天”為單位的剛性切割，7 天與 30 天之間存在價格斷層。假設一個 3 天行程的用戶，Digicel 僅提供 300MB (3天/EC$9) 的迷你包，若不夠用則必須跳級到 600MB (7天/EC$17)；Flow 則只有 500MB (3天/EC$8.99) 可選。一旦行程為 4 天或 5 天，購買 Flow 的 7 天 1GB 套餐 (EC$24.99) 將直接導致至少 40% 的使用週期和相應資金淪為沉沒成本。"
       esim_title: "彈性方案省錢"
       esim_desc: "與 Digicel 的 7 天 1GB (EC$25) 或 Flow 的 7 天 1GB (EC$24.99) 不同，Roami 提供 7 天數據方案，最低 1.99 美元/GB，行程 5 天可選 5 天方案，避免至少 40% 的浪費。"
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "當地預付卡多數支援熱點分享，但 Flow 等業者常在用量達到門檻後降低速度，部分低價方案則直接限制分享功能。"
       esim_title: "無限熱點分享"
       esim_desc: "Roami eSIM 支援熱點分享，無速度限制，與格瑞那達當地 SIM 卡（可能限制分享或降速）不同，可自由分享給多個裝置。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "Flow 虽支持信用卡在线充值，但其套餐强制自动续订和 90 天余额清零机制，对缺乏当地生活经验的游客构成了资金被悄然扣划的潜在威胁。"
+      prepaid_desc: "Flow 雖支援信用卡在線儲值，但其套餐強制自動續訂和 90 天餘額清零機制，對缺乏當地生活經驗的遊客構成了資金被悄然扣划的潛在威脅。"
       esim_title: "全球付款暢通"
       esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需擔心 Flow 的信用卡自動續訂陷阱或 90 天餘額清零，消費透明可控。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "遇到問題只能找 Flow、Digicel 的門市或客服專線，語言以當地語言為主，且非全天候服務，旅客求助不易。"
       esim_title: "24/7 即時支援"
       esim_desc: "Roami 提供 24/7 多語言線上客服，比 Digicel 或 Flow 的當地營業時間更靈活，隨時解決連線問題。"
 

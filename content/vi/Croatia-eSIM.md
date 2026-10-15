@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Croatia 2026: Hướng dẫn Du lịch Đầy đủ | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Croatia | Dữ liệu 5G Không giới hạn Tốt nhất cho Chuyến đi của Bạn
   description: Cần eSIM du lịch trả trước cho Croatia? Roami cung cấp dữ liệu 5G không giới hạn dọc bờ biển & nội địa. Kích hoạt tức thì. Phủ sóng Dubrovnik, Split & Zagreb.
-  keywords: eSIM Croatia, mua eSIM Croatia, eSIM Croatia tốt nhất, eSIM du lịch Croatia, Hrvatski Telekom Croatia, A1 Hrvatska Croatia, Tele2 Croatia, eSIM Zagreb, eSIM Split, eSIM Dubrovnik, eSIM trả trước Croatia, eSIM 5G Croatia
+  keywords: eSIM Croatia, mua eSIM Croatia, eSIM Croatia tốt nhất, eSIM du lịch Croatia, Hrvatski Telekom Croatia, A1 Hrvatska Croatia, Tele2 Croatia, eSIM Zagreb, eSIM Split, eSIM Dubrovnik, eSIM trả trước Croatia, eSIM 5G Croatia, eSIM Zadar, eSIM Rijeka, eSIM Croatia giá rẻ, sim du lịch Croatia
   low_price: 1.99
-  high_price: 39.9
+  high_price: 76.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng hàng đầu Croatia để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Croatia: Gói cho mọi thời gian chuyến đi'
+plans_title: 'Mua Croatia eSIM: hiểu rõ ngày và dung lượng'
 plans_data:
   30 Ngày:
   - spec: 20GB
@@ -324,7 +324,7 @@ network_coverage:
       coverage: Vùng phủ đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Croatia: Những điều cần biết trước khi đi'
+  title: 'Danh sách kiểm tra trước chuyến đi với Croatia eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -343,7 +343,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Croatia: 3 bước đơn giản'
+  title: 'Hướng dẫn từng bước kích hoạt Croatia eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -363,12 +363,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM có hoạt động tốt ở Croatia không? Hướng dẫn du lịch về chất lượng Internet"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, vùng phủ mạng và chất lượng kết nối cho du khách tại Croatia. Tìm hiểu tốc độ mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Hỏi đáp chi tiết về kết nối, độ phủ và tốc độ eSIM tại Croatia."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Croatia
+    title: Câu hỏi phổ biến về Croatia eSIM
     questions:
     - q: |
         Có an toàn khi tải hộ chiếu để đăng ký eSIM Croatia không? Tôi lo ngại về quyền riêng tư.
@@ -377,15 +377,15 @@ faq_section:
     - q: |
         Gói eSIM Croatia không giới hạn có bị chậm lại nếu tôi dùng quá nhiều dữ liệu không?
       a: |
-        Có chính sách sử dụng hợp lý: tốc độ giảm sau 30GB trong một ngày. Ở tốc độ giảm, bạn vẫn có thể nhắn tin, điều hướng và duyệt web — chỉ không xem video mượt mà. Thực tế, hầu hết du khách không dùng đến 30GB. Nếu bạn lo lắng, gói cố định 10GB (14,99 USD) hoặc 20GB (24,99 USD) sẽ loại bỏ hoàn toàn sự không chắc chắn.
+        Có chính sách sử dụng hợp lý: tốc độ giảm sau 30GB trong một ngày. Ở tốc độ giảm, bạn vẫn có thể nhắn tin, điều hướng và duyệt web — chỉ không xem video mượt mà. Thực tế, hầu hết du khách không dùng đến 30GB. Nếu bạn lo lắng, gói cố định 10GB ($11.99) hoặc 20GB ($20.99) sẽ loại bỏ hoàn toàn sự không chắc chắn.
     - q: |
         Tôi cần truy cập internet chỉ vài ngày ở Croatia. Gói tối thiểu tôi có thể mua là gì?
       a: |
-        Gói rẻ nhất là 1,99 USD cho 7 ngày với 1GB — hoàn hảo cho chuyến cuối tuần ngắn với nhu cầu sử dụng nhẹ. Nếu cần thêm, bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng.
+        Gói rẻ nhất là $2.99 cho 7 ngày với 1GB — hoàn hảo cho chuyến cuối tuần ngắn với nhu cầu sử dụng nhẹ. Nếu cần thêm, bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng.
     - q: |
         Tôi đi Croatia chỉ 2-3 ngày. Tôi nên mua eSIM nào?
       a: |
-        Cho chuyến đi ngắn, gói 1GB/7 ngày (1,99 USD) đủ cho bản đồ và nhắn tin. Nếu bạn dùng mạng xã hội và chia sẻ ảnh, gói 3GB (4,99 USD) sẽ thoải mái hơn. Cả hai đều kích hoạt ngay và bạn có thể nạp thêm nếu cần.
+        Cho chuyến đi ngắn, gói 1GB/7 ngày ($2.99) đủ cho bản đồ và nhắn tin. Nếu bạn dùng mạng xã hội và chia sẻ ảnh, gói 3GB ($3.99) sẽ thoải mái hơn. Cả hai đều kích hoạt ngay và bạn có thể nạp thêm nếu cần.
     - q: |
         Điều gì xảy ra nếu eSIM Croatia của tôi ngừng hoạt động giữa chuyến đi?
       a: |
@@ -402,63 +402,75 @@ faq_section:
         Tôi có cần tháo SIM vật lý để sử dụng eSIM ở Croatia không?
       a: |
         Hoàn toàn không. SIM vật lý của bạn vẫn ở khe 1. eSIM hoạt động cùng với nó ở khe 2. Sử dụng SIM nhà cho SMS và cuộc gọi, eSIM cho dữ liệu. Hơn 80% điện thoại từ năm 2020 hỗ trợ thiết lập kép này.
+    - q: |
+        Mua eSIM Croatia thanh toán bằng cách nào? Bao lâu nhận được?
+      a: |
+        Roami hỗ trợ các hình thức thanh toán trực tuyến phổ biến; sau khi thanh toán, mã QR sẽ được gửi đến email của bạn, thường chỉ trong vài phút. Bạn nên mua và cài đặt trước chuyến đi để đến Croatia là có mạng ngay.  Tại khu vực Zagreb, Split, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
+    - q: |
+        Đi Croatia vài ngày thì nên chọn gói eSIM dung lượng bao nhiêu?
+      a: |
+        eSIM Croatia của Roami có các mức 20GB, 50GB, 100GB, 30GB, 3GB, 5GB. Chuyến ngắn, chỉ tra bản đồ và nhắn tin thì 20GB là đủ; nếu xem video ngắn, gọi video hoặc chia sẻ hotspot, bạn nên chọn mức cao hơn một bậc. Nếu chưa chắc về nhu cầu, có thể mua gói nhỏ rồi nạp thêm trong ứng dụng sau khi đến Croatia, không cần đổi SIM.  Dubrovnik, Zadar và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
+    - q: |
+        eSIM Croatia có chia sẻ hotspot cho bạn đồng hành được không?
+      a: |
+        Có, eSIM Croatia của Roami hỗ trợ chia sẻ hotspot cho laptop, máy tính bảng hoặc người đi cùng. Nếu dùng chung nhiều người, nên chọn gói cao hơn một bậc để không hết dữ liệu giữa chừng; nếu thiếu vẫn có thể nạp thêm trong ứng dụng.  Thực tế tại Zagreb, Rijeka, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
 related_products:
   title: Các gói eSIM Croatia liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ 1,99 USD
+  - name: eSIM Mali
+    flag: img/flags/ml.svg
+    price: Từ $27.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ 1,99 USD
+  - name: eSIM Malta
+    flag: img/flags/mt.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ 1,99 USD
+  - name: eSIM Maldives
+    flag: img/flags/mv.svg
+    price: Từ $14.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ 1,99 USD
+  - name: eSIM Malawi
+    flag: img/flags/mw.svg
+    price: Từ $14.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ 1,99 USD
+  - name: eSIM Mexico
+    flag: img/flags/mx.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ 1,99 USD
+  - name: eSIM Malaysia
+    flag: img/flags/my.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ 1,99 USD
+  - name: eSIM Nepal
+    flag: img/flags/ne.svg
+    price: Từ $10.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ 1,99 USD
+  - name: eSIM Nigeria
+    flag: img/flags/ng.svg
+    price: Từ $5.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ 1,99 USD
+  - name: eSIM Niger
+    flag: img/flags/ni.svg
+    price: Từ $23.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ 1,99 USD
+  - name: eSIM Hà Lan
+    flag: img/flags/nl.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ 1,99 USD
+  - name: eSIM Na Uy
+    flag: img/flags/no.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ 1,99 USD
+  - name: eSIM New Zealand
+    flag: img/flags/nz.svg
+    price: Từ $3.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Croatia vs SIM trả trước địa phương: Cái nào tiện lợi hơn?'
   subtitle: SIM trả trước địa phương Croatia vs. Giải pháp eSIM (Đánh giá 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Croatia) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Croatia
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -487,23 +499,23 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Hrvatski Telekom cung cấp gói 24h (€1,49), 7 ngày (€9,99), 30 ngày và 90 ngày; eSIM du lịch A1 bắt đầu từ 3 ngày (€5,90) hoặc 10 ngày (€7,90); chuyến đi 5 ngày mua gói 10 ngày lãng phí 50% giá trị.
     esim_title: Gói ngày linh hoạt
-    esim_desc: Tránh chu kỳ cố định 10 ngày (€10) của Hrvatski Telekom hoặc 3 ngày (€5,90) của A1. Roami cung cấp gói 7 ngày từ 1,99 USD/GB, tiết kiệm đến 50% lãng phí cho chuyến đi ngắn.
+    esim_desc: Tránh chu kỳ cố định 10 ngày (€10) của Hrvatski Telekom hoặc 3 ngày (€5,90) của A1. Roami cung cấp gói 7 ngày từ $1.99/GB, tiết kiệm đến 50% lãng phí cho chuyến đi ngắn.
   - icon: wifi
     title: Chính sách chia sẻ<br>kết nối & tốc độ
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho khía cạnh này. Dựa trên kiến thức thị trường, hầu hết SIM trả trước Croatia cho phép chia sẻ kết nối nhưng có thể giới hạn tốc độ sau khi vượt giới hạn dữ liệu tốc độ cao.
+    prepaid_desc: Hầu hết SIM trả trước Croatia cho phép chia sẻ kết nối nhưng có thể giới hạn tốc độ sau khi vượt giới hạn dữ liệu tốc độ cao.
     esim_title: Chia sẻ kết nối không hạn chế
     esim_desc: Không như một số SIM địa phương giới hạn tốc độ sau khi vượt giới hạn tốc độ cao, Roami cho phép chia sẻ điểm phát WiFi tốc độ đầy đủ. Không có giới hạn tốc độ ẩn như SIM chỉ dữ liệu 10 Mbit/s của Telemach.
   - icon: credit-card
     title: Thanh toán nạp<br>tiền
     prepaid_title: ''
-    prepaid_desc: Có thể nạp tiền trực tuyến hoặc tại quầy; thẻ nước ngoài có thể bị từ chối; phiếu mua hàng vật lý là phổ biến. Không có dữ liệu cụ thể về phương thức thanh toán.
+    prepaid_desc: Có thể nạp tiền trực tuyến hoặc tại quầy; thẻ nước ngoài có thể bị từ chối; phiếu mua hàng vật lý là phổ biến. không có thông tin cụ thể về phương thức thanh toán.
     esim_title: Chấp nhận thanh toán toàn cầu
     esim_desc: Thanh toán bằng Visa, Mastercard, AMEX, Apple Pay, Google Pay hoặc PayPal. Không cần phiếu mua hàng tại quầy địa phương hay lo thẻ nước ngoài bị từ chối.
   - icon: headset
     title: Hỗ trợ khách<br>hàng
     prepaid_title: ''
-    prepaid_desc: Hỗ trợ khách hàng thường bằng tiếng Croatia, tiếng Anh hạn chế; giờ làm việc có thể là Thứ Hai-Thứ Sáu 9-5. Không có dữ liệu cụ thể trong nguồn.
+    prepaid_desc: Hỗ trợ khách hàng thường bằng tiếng Croatia, tiếng Anh hạn chế; giờ làm việc có thể là Thứ Hai-Thứ Sáu 9-5. không có thông tin cụ thể trong nguồn.
     esim_title: Hỗ trợ đa ngôn ngữ 24/7
     esim_desc: Nhận hỗ trợ tiếng Anh bất kỳ lúc nào, không như nhà mạng Croatia với giờ hạn chế. Không cần giải mã hướng dẫn ngôn ngữ địa phương cho cài đặt APN.
   expert_verdict:

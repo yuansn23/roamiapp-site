@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Na Uy 2026 - Gói 5G tốt nhất cho Oslo & Fjords | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Na Uy - Gói dữ liệu không giới hạn tốt nhất cho du khách
   description: Nhận eSIM trả trước Na Uy tốt nhất với 5G trên Telenor, Telia & Ice. Không cần hộ chiếu hay đến cửa hàng — kích hoạt mã QR tức thì. Không lãng phí 31 ngày. Từ $1.99.
-  keywords: eSIM Na Uy, mua eSIM Na Uy, eSIM Na Uy tốt nhất, eSIM du lịch Na Uy, Telenor Na Uy, Telia Na Uy, Ice Na Uy, eSIM Oslo, eSIM Bergen, eSIM Trondheim, eSIM trả trước Na Uy, eSIM 5G Na Uy, eSIM fjord, eSIM cực quang, eSIM Tromsø
+  keywords: eSIM Na Uy, mua eSIM Na Uy, eSIM Na Uy tốt nhất, eSIM du lịch Na Uy, Telenor Na Uy, Telia Na Uy, Ice Na Uy, eSIM Oslo, eSIM Bergen, eSIM Trondheim, eSIM trả trước Na Uy, eSIM 5G Na Uy, eSIM Stavanger, eSIM Tromsø, eSIM Na Uy giá rẻ, sim du lịch Na Uy
   low_price: 1.99
-  high_price: 39.9
+  high_price: 79.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với Telenor, Telia & Ice để có tín hiệu tốt nhất trên khắp Na Uy
-plans_title: 'Mua eSIM Na Uy: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Chọn một Na Uy eSIM phù hợp hành trình'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -316,7 +316,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Na Uy: Những điều cần biết trước khi đi'
+  title: 'Tổng hợp lưu ý thực tế cho Na Uy eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích với eSIM</a> trước khi mua.
@@ -337,7 +337,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Na Uy: 3 bước đơn giản'
+  title: 'Xong trước khi đi: cài và kích hoạt Na Uy eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -357,12 +357,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hướng dẫn eSIM Na Uy: Tốc độ, Phủ sóng và Mẹo du lịch"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Na Uy. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Tổng hợp thắc mắc về kết nối internet, tốc độ và phủ sóng eSIM tại Na Uy."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Na Uy
+    title: Câu hỏi thường gặp cho Na Uy eSIM
     questions:
     - q: |
         Tại sao việc mua SIM ở Na Uy lại phức tạp đối với khách du lịch?
@@ -383,7 +383,7 @@ faq_section:
     - q: |
         eSIM có rẻ hơn chuyển vùng quốc tế cho Na Uy không?
       a: |
-        Có — Roami eSIM thường rẻ hơn 80-90% so với các gói chuyển vùng từ hầu hết các nhà mạng. Gói 5GB cho Na Uy có giá $7.99, trong khi chuyển vùng có thể tốn $50+ cho cùng lượng dữ liệu. Bạn cũng nhận được tốc độ mạng địa phương thay vì chuyển vùng bị giới hạn.
+        Có — Roami eSIM thường rẻ hơn 80-90% so với các gói chuyển vùng từ hầu hết các nhà mạng. Gói 5GB cho Na Uy có giá $6.99, trong khi chuyển vùng có thể tốn $50+ cho cùng lượng dữ liệu. Bạn cũng nhận được tốc độ mạng địa phương thay vì chuyển vùng bị giới hạn.
     - q: |
         Tôi đến Na Uy vào đêm khuya. Tôi có thể kết nối internet ngay lập tức không?
       a: |
@@ -400,63 +400,75 @@ faq_section:
         Tôi có thể nạp thêm eSIM Na Uy nếu hết dữ liệu không?
       a: |
         Có — bạn có thể nạp thêm qua tài khoản Roami bất kỳ lúc nào chỉ với một cú nhấp chuột. Không giống SIM trả trước Na Uy yêu cầu mua phiếu nạp vật lý tại 7-Eleven (không có hướng dẫn tiếng Anh) hoặc điều hướng cổng trực tuyến chỉ bằng tiếng Na Uy, Roami chấp nhận phương thức thanh toán toàn cầu không có rào cản ngôn ngữ.
+    - q: |
+        Mua eSIM Na Uy thanh toán bằng cách nào? Bao lâu nhận được?
+      a: |
+        Roami hỗ trợ các hình thức thanh toán trực tuyến phổ biến; sau khi thanh toán, mã QR sẽ được gửi đến email của bạn, thường chỉ trong vài phút. Bạn nên mua và cài đặt trước chuyến đi để đến Na Uy là có mạng ngay.  Tại khu vực Oslo, Bergen, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
+    - q: |
+        Đi Na Uy vài ngày thì nên chọn gói eSIM dung lượng bao nhiêu?
+      a: |
+        eSIM Na Uy của Roami có các mức 1GB, 3GB, 5GB, 10GB, Không giới hạn, 20GB. Chuyến ngắn, chỉ tra bản đồ và nhắn tin thì 1GB là đủ; nếu xem video ngắn, gọi video hoặc chia sẻ hotspot, bạn nên chọn mức cao hơn một bậc. Nếu chưa chắc về nhu cầu, có thể mua gói nhỏ rồi nạp thêm trong ứng dụng sau khi đến Na Uy, không cần đổi SIM.  Trondheim, Stavanger và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
+    - q: |
+        eSIM Na Uy có chia sẻ hotspot cho bạn đồng hành được không?
+      a: |
+        Có, eSIM Na Uy của Roami hỗ trợ chia sẻ hotspot cho laptop, máy tính bảng hoặc người đi cùng. Nếu dùng chung nhiều người, nên chọn gói cao hơn một bậc để không hết dữ liệu giữa chừng; nếu thiếu vẫn có thể nạp thêm trong ứng dụng.  Thực tế tại Oslo, Tromsø, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
 related_products:
   title: Các gói eSIM Na Uy liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
+  - name: eSIM Hungary
+    flag: img/flags/hu.svg
     price: Từ $1.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
+  - name: eSIM Indonesia
+    flag: img/flags/id.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
+  - name: eSIM Ireland
+    flag: img/flags/ie.svg
     price: Từ $1.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Israel
+    flag: img/flags/il.svg
+    price: Từ $2.99
+    is_highlight: false
+  - name: eSIM Ấn Độ
+    flag: img/flags/in.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Iraq
+    flag: img/flags/iq.svg
+    price: Từ $9.99
+    is_highlight: false
+  - name: eSIM Iceland
+    flag: img/flags/is.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: eSIM Ý
+    flag: img/flags/it.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
+  - name: eSIM Jamaica
+    flag: img/flags/jm.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Jordan
+    flag: img/flags/jo.svg
+    price: Từ $6.99
     is_highlight: false
   - name: eSIM Nhật Bản
     flag: img/flags/jp.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: eSIM Kenya
+    flag: img/flags/ke.svg
+    price: Từ $7.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Na Uy so với SIM trả trước: Những điều bạn cần biết'
   subtitle: SIM trả trước địa phương Na Uy vs. Giải pháp eSIM (Điểm chuẩn 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Na Uy) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Norway
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)

@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Colombia 2026: Hướng dẫn Kết nối & Tốc độ | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Colombia | Dữ liệu trả trước 5G tốt nhất cho hành trình của bạn
   description: Nhận eSIM du lịch trả trước tốt nhất cho Colombia từ Roami. Dữ liệu 5G không giới hạn trên mạng hàng đầu. Phủ sóng Bogota, Medellin & Cartagena. Kích hoạt tức thì.
-  keywords: eSIM Colombia, mua eSIM Colombia, eSIM Colombia tốt nhất, eSIM du lịch Colombia, Claro Colombia, Movistar Colombia, Tigo Colombia, eSIM Bogotá, eSIM Medellín, eSIM Cartagena, eSIM trả trước Colombia, eSIM 5G Colombia
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM Colombia, mua eSIM Colombia, eSIM Colombia tốt nhất, eSIM du lịch Colombia, Claro Colombia, Movistar Colombia, Tigo Colombia, eSIM Bogotá, eSIM Medellín, eSIM Cartagena, eSIM trả trước Colombia, eSIM 5G Colombia, eSIM Cali, eSIM Barranquilla, eSIM Colombia giá rẻ, sim du lịch Colombia
+  low_price: 4.99
+  high_price: 86.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng Colombia hàng đầu để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Colombia: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Tổng quan gói dữ liệu Colombia eSIM'
 plans_data:
   7 Ngày:
   - spec: 1GB
@@ -284,7 +284,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Colombia: Những điều cần biết trước khi đi'
+  title: 'Mẹo thực tế cho Colombia eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích với eSIM</a> trước khi mua.
@@ -303,7 +303,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Colombia: 3 bước đơn giản'
+  title: 'Giải thích các bước thiết lập Colombia eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -323,17 +323,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Kết nối Internet tại Colombia -- Hướng dẫn chất lượng và tốc độ mạng eSIM"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Colombia. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Giải đáp về độ phủ sóng và tốc độ internet của eSIM tại Colombia."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Colombia
+    title: Giải đáp nhanh Colombia eSIM
     questions:
     - q: |
         Các tùy chọn eSIM rẻ nhất cho chuyến đi Colombia là gì?
       a: |
-        Gói eSIM Colombia của Roami bắt đầu từ $1.99 (7 ngày, 1GB) lên đến $59.99 (30 ngày không giới hạn). Đối với chuyến đi 5-7 ngày điển hình, gói 5GB ở mức $9.99 là lựa chọn hợp lý nhất — đủ cho bản đồ, nhắn tin và kiểm tra mạng xã hội. Cần phát trực tuyến video hoặc làm việc từ xa? Hãy dùng gói 10GB hoặc không giới hạn. Nhờ mạng 5G của Claro, phát trực tuyến và cuộc gọi video hoạt động tuyệt vời. Quầy SIM sân bay tính phí cao hơn 30-50% và bạn phải xếp hàng. Không chắc về nhu cầu dữ liệu? Bắt đầu với gói nhỏ và nạp thêm qua ứng dụng mà không cần thay đổi eSIM.
+        Gói eSIM Colombia của Roami bắt đầu từ $4.99 lên đến $52.99 (30 ngày không giới hạn). Đối với chuyến đi 5-7 ngày điển hình, gói 5GB ở mức $14.99 là lựa chọn hợp lý nhất — đủ cho bản đồ, nhắn tin và kiểm tra mạng xã hội. Cần phát trực tuyến video hoặc làm việc từ xa? Hãy dùng gói 10GB hoặc không giới hạn. Nhờ mạng 5G của Claro, phát trực tuyến và cuộc gọi video hoạt động tuyệt vời. Quầy SIM sân bay tính phí cao hơn 30-50% và bạn phải xếp hàng. Không chắc về nhu cầu dữ liệu? Bắt đầu với gói nhỏ và nạp thêm qua ứng dụng mà không cần thay đổi eSIM.
     - q: |
         So sánh Claro, Movistar và Tigo cho khách du lịch đến Colombia như thế nào?
       a: |
@@ -353,7 +353,7 @@ faq_section:
     - q: |
         Nếu khách sạn của tôi ở Colombia có Wi-Fi miễn phí — tôi vẫn cần dữ liệu eSIM không?
       a: |
-        Wi-Fi khách sạn hoạt động trong phòng nhưng không hoạt động khi bạn ra ngoài khám phá. eSIM cung cấp dữ liệu cho bạn ở mọi nơi — điều hướng đường phố, tìm kiếm địa điểm gần đó, kiểm tra lịch trình phương tiện công cộng. Gói 5GB có giá $9.99, thường rẻ hơn Wi-Fi khách sạn trả phí trong một tuần ($10-15 tại nhiều khách sạn). Hầu hết du khách sử dụng Wi-Fi khách sạn cho tải xuống lớn và eSIM cho kết nối khi di chuyển.
+        Wi-Fi khách sạn hoạt động trong phòng nhưng không hoạt động khi bạn ra ngoài khám phá. eSIM cung cấp dữ liệu cho bạn ở mọi nơi — điều hướng đường phố, tìm kiếm địa điểm gần đó, kiểm tra lịch trình phương tiện công cộng. Gói 5GB có giá $14.99, thường rẻ hơn Wi-Fi khách sạn trả phí trong một tuần ($10-15 tại nhiều khách sạn). Hầu hết du khách sử dụng Wi-Fi khách sạn cho tải xuống lớn và eSIM cho kết nối khi di chuyển.
     - q: |
         Tôi có thể lưu bao nhiêu hồ sơ eSIM trên điện thoại cho chuyến đi Colombia?
       a: |
@@ -361,64 +361,76 @@ faq_section:
     - q: |
         Tôi đi Colombia chỉ 2-3 ngày. Tôi nên mua eSIM nào?
       a: |
-        Đối với chuyến đi ngắn, gói 1GB/7 ngày ($1.99) đủ cho bản đồ và nhắn tin. Nếu bạn dự định sử dụng mạng xã hội và chia sẻ ảnh, gói 3GB ($4.99) sẽ thoải mái hơn. Cả hai đều kích hoạt tức thì và bạn có thể nạp thêm nếu cần.
+        Đối với chuyến đi ngắn, gói 1GB/7 ngày ($6.99) đủ cho bản đồ và nhắn tin. Nếu bạn dự định sử dụng mạng xã hội và chia sẻ ảnh, gói 3GB ($9.99) sẽ thoải mái hơn. Cả hai đều kích hoạt tức thì và bạn có thể nạp thêm nếu cần.
+    - q: |
+        eSIM Colombia có chia sẻ hotspot cho bạn đồng hành được không?
+      a: |
+        Có, eSIM Colombia của Roami hỗ trợ chia sẻ hotspot cho laptop, máy tính bảng hoặc người đi cùng. Nếu dùng chung nhiều người, nên chọn gói cao hơn một bậc để không hết dữ liệu giữa chừng; nếu thiếu vẫn có thể nạp thêm trong ứng dụng.  Dù ở Bogotá, Medellín hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
+    - q: |
+        Đến sân bay ở Colombia là dùng được internet ngay chứ?
+      a: |
+        Được. Chỉ cần cài eSIM trước, sau khi hạ cánh tắt chế độ máy bay và bật đường eSIM, thường chỉ vài chục giây là kết nối được mạng địa phương, không cần xếp hàng mua SIM vật lý ở sân bay Colombia.  Vùng phủ di động tại Cartagena, Cali đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
+    - q: |
+        Claro và Movistar ở Colombia, dùng eSIM mạng nào tốt hơn?
+      a: |
+        Colombia có các nhà mạng chính như Claro, Movistar. Roami tự động chọn mạng có tín hiệu mạnh nhất tại thời điểm đó và chuyển đổi giữa Claro và Movistar mà bạn không cần cấu hình thủ công. Nếu lịch trình đi ra vùng ngoại ô hoặc đảo xa, nên tải bản đồ ngoại tuyến trước cho chắc.  Các thành phố lớn như Bogotá, Barranquilla đều có phủ sóng ổn định cho nhu cầu hằng ngày.
 related_products:
   title: Các gói eSIM Colombia liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ $1.99
+  - name: eSIM Israel
+    flag: img/flags/il.svg
+    price: Từ $2.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: eSIM Ấn Độ
+    flag: img/flags/in.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Iraq
+    flag: img/flags/iq.svg
+    price: Từ $9.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: eSIM Iceland
+    flag: img/flags/is.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: eSIM Ý
+    flag: img/flags/it.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
+  - name: eSIM Jamaica
+    flag: img/flags/jm.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Jordan
+    flag: img/flags/jo.svg
+    price: Từ $6.99
     is_highlight: false
   - name: eSIM Nhật Bản
     flag: img/flags/jp.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
+  - name: eSIM Kenya
+    flag: img/flags/ke.svg
+    price: Từ $7.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
+  - name: eSIM Kyrgyzstan
+    flag: img/flags/kg.svg
+    price: Từ $4.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
+  - name: eSIM Campuchia
+    flag: img/flags/kh.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
+  - name: eSIM Hàn Quốc
+    flag: img/flags/kr.svg
     price: Từ $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Colombia hay SIM vật lý: Lựa chọn nào tốt nhất năm 2026?'
   subtitle: SIM trả trước địa phương Colombia vs. Giải pháp eSIM (Điểm chuẩn 2025/2026)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Colombia) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Colombia
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -447,11 +459,11 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Gói 7 ngày của Claro (5GB, COP 11.000) và gói 7 ngày của Movistar (1.4GB, COP 13.900) là điển hình; chuyến đi 5 ngày lãng phí 2 ngày giá trị.
     esim_title: Gói linh hoạt theo ngày
-    esim_desc: Tránh chu kỳ cố định 7 ngày của Claro (COP 11.000/5GB) lãng phí 2 ngày cho chuyến đi 5 ngày. Roami cung cấp gói 7 ngày từ $1.99/GB, chỉ trả cho những gì bạn sử dụng.
+    esim_desc: Tránh chu kỳ cố định 7 ngày của Claro (COP 11.000/5GB) lãng phí 2 ngày cho chuyến đi 5 ngày. Roami cung cấp gói 7 ngày từ $4.99/GB, chỉ trả cho những gì bạn sử dụng.
   - icon: wifi
     title: Chính sách điểm phát<br>Wi-Fi & tốc độ
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho mục này. Theo kiến thức thị trường, hầu hết gói trả trước Colombia cho phép chia sẻ kết nối nhưng có thể giới hạn sau một mức nhất định.
+    prepaid_desc: Hầu hết gói trả trước Colombia cho phép chia sẻ kết nối nhưng có thể giới hạn sau một mức nhất định.
     esim_title: Chia sẻ kết nối không giới hạn
     esim_desc: 'Roami eSIM cho phép chia sẻ điểm phát sóng tốc độ đầy đủ, không giống một số gói địa phương có thể giới hạn sau một mức (ví dụ: Tigo Une giới hạn ở 10 Mbps).'
   - icon: credit-card

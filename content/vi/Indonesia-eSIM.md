@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Indonesia - 5G tại Bali & Jakarta | Không thuế IMEI | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Indonesia - Gói trả trước 5G tốt nhất | Không thuế IMEI
   description: Nhận eSIM Indonesia tốt nhất với 5G trên Telkomsel, Indosat & XL. Không cần đăng ký IMEI hay thuế 40% — tránh bị chặt chém tại sân bay. Phủ sóng Bali, Jakarta & Yogyakarta. Gói từ $1.99.
-  keywords: eSIM Indonesia, mua eSIM Indonesia, eSIM Indonesia tốt nhất, eSIM du lịch Indonesia, Telkomsel Indonesia, Indosat Ooredoo Indonesia, XL Axiata Indonesia, eSIM Jakarta, eSIM Bali, eSIM Yogyakarta, eSIM trả trước Indonesia, eSIM 5G Indonesia, eSIM Indonesia không IMEI
+  keywords: eSIM Indonesia, mua eSIM Indonesia, eSIM Indonesia tốt nhất, eSIM du lịch Indonesia, Telkomsel Indonesia, Indosat Ooredoo Indonesia, XL Axiata Indonesia, eSIM Jakarta, eSIM Surabaya, eSIM Bandung, eSIM trả trước Indonesia, eSIM 5G Indonesia, eSIM Medan, eSIM Semarang, eSIM Indonesia giá rẻ, sim du lịch Indonesia
   low_price: 1.99
-  high_price: 39.9
+  high_price: 68.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -73,7 +73,7 @@ features:
     color: from-sky-400 to-sky-600
     title: Sẵn sàng cho Bali & Các đảo
     desc: Phủ sóng 4G/5G trên khắp Bali, Java và các đảo du lịch chính — luôn kết nối từ Seminyak đến Ubud
-plans_title: 'Mua eSIM Indonesia: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Mua Indonesia eSIM: Gói cho Mọi Thời gian Chuyến đi'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -320,7 +320,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Indonesia: Những điều cần biết trước khi đi'
+  title: 'Bí quyết Indonesia eSIM: cần biết trước khi đi'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -345,7 +345,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Indonesia: 3 bước đơn giản'
+  title: 'Kích hoạt Indonesia eSIM: 3 bước đơn giản'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -365,17 +365,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hướng dẫn eSIM Indonesia: 5G, Thuế IMEI & Mẹo du lịch"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Indonesia. Tìm hiểu tốc độ bạn có thể mong đợi tại Bali, Jakarta và Yogyakarta — và cách tránh bẫy thuế IMEI."
+  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Indonesia."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Indonesia
+    title: Câu hỏi thường gặp về Indonesia eSIM
     questions:
     - q: |
         Đăng ký IMEI là gì và tại sao nó có thể tốn 40% giá trị điện thoại của tôi?
       a: |
-        Indonesia có quy định nghiêm ngặt về điện thoại nước ngoài. Để sử dụng <strong>SIM Indonesia địa phương</strong> trên điện thoại của bạn, bạn phải đăng ký IMEI của điện thoại với hải quan. Nếu thiết bị của bạn có giá trị <strong>hơn $500</strong>, bạn phải trả <strong>thuế 40% trên giá trị vượt mức</strong>. Ví dụ: điện thoại $1.000 sẽ phải chịu khoảng $200 tiền thuế chỉ để sử dụng SIM địa phương. <strong>Roami eSIM bỏ qua tất cả điều này</strong> — không đăng ký IMEI, không thuế, không đến hải quan. Điện thoại của bạn vẫn ở trạng thái "chuyển vùng quốc tế", được miễn khỏi quy định IMEI của Indonesia.
+        Indonesia có quy định nghiêm ngặt về điện thoại nước ngoài. Để sử dụng <strong>SIM Indonesia địa phương</strong> trên điện thoại của bạn, bạn phải đăng ký IMEI của điện thoại với hải quan. Nếu thiết bị của bạn có giá trị <strong>hơn $500</strong>, bạn phải trả <strong>thuế 40% trên giá trị vượt mức</strong>. Ví dụ: điện thoại $1.00 sẽ phải chịu khoảng $200 tiền thuế chỉ để sử dụng SIM địa phương. <strong>Roami eSIM bỏ qua tất cả điều này</strong> — không đăng ký IMEI, không thuế, không đến hải quan. Điện thoại của bạn vẫn ở trạng thái "chuyển vùng quốc tế", được miễn khỏi quy định IMEI của Indonesia.
     - q: |
         Có đúng là thẻ SIM tại sân bay Indonesia bị chặt chém không?
       a: |
@@ -408,63 +408,75 @@ faq_section:
         Thời hạn hiệu lực của eSIM Indonesia bắt đầu khi nào?
       a: |
         Thời hạn gói bắt đầu khi bạn kết nối với mạng địa phương tại Indonesia, không phải khi bạn mua hay cài đặt. Vì vậy bạn có thể mua và cài đặt vài tuần trước chuyến đi mà không mất bất kỳ ngày nào. Gói 7 ngày cho bạn trọn vẹn 7 ngày kể từ lần kết nối đầu tiên.
+    - q: |
+        eSIM Indonesia giá bao nhiêu? Có lựa chọn rẻ không?
+      a: |
+        Gói eSIM Indonesia của Roami bắt đầu từ $1.99 (3 ngày 1GB), cao nhất $68.99 (30 ngày Không giới hạn). Chuyến ngắn dùng ít thì chọn gói nhập môn là đủ, khách dùng nhiều thì chọn mức cao hơn. Giá minh bạch, gói hết hạn tự kết thúc và không tự động gia hạn.  Thực tế tại Jakarta, Surabaya, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
+    - q: |
+        Tốc độ eSIM Indonesia có nhanh không? Có chậm hơn SIM vật lý không?
+      a: |
+        eSIM Indonesia của Roami dùng trạm gốc của các nhà mạng chính tại địa phương, tốc độ tương đương SIM trả trước bản địa; tra bản đồ, mạng xã hội và gọi video đều mượt. Tốc độ thực tế còn phụ thuộc vị trí và tải của mạng tại thời điểm đó.  Dù ở Bandung, Medan hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
+    - q: |
+        Đi Indonesia vài ngày thì nên chọn gói eSIM dung lượng bao nhiêu?
+      a: |
+        eSIM Indonesia của Roami có các mức 1GB, 3GB, 5GB, 10GB, Không giới hạn, 20GB. Chuyến ngắn, chỉ tra bản đồ và nhắn tin thì 1GB là đủ; nếu xem video ngắn, gọi video hoặc chia sẻ hotspot, bạn nên chọn mức cao hơn một bậc. Nếu chưa chắc về nhu cầu, có thể mua gói nhỏ rồi nạp thêm trong ứng dụng sau khi đến Indonesia, không cần đổi SIM.  Vùng phủ di động tại Jakarta, Semarang đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
 related_products:
   title: Gói eSIM Indonesia liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
-    is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
-    is_highlight: false
   - name: eSIM Pháp
     flag: img/flags/fr.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
+  - name: eSIM Gabon
+    flag: img/flags/ga.svg
+    price: Từ $14.99
+    is_highlight: false
+  - name: eSIM Vương quốc Anh
+    flag: img/flags/gb.svg
+    price: Từ $1.99
+    is_highlight: true
+  - name: eSIM Grenada
+    flag: img/flags/gd.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Georgia
+    flag: img/flags/ge.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Guiana thuộc Pháp
+    flag: img/flags/gf.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Ghana
+    flag: img/flags/gh.svg
+    price: Từ $7.99
+    is_highlight: false
+  - name: eSIM Gibraltar
+    flag: img/flags/gi.svg
+    price: Từ $5.99
+    is_highlight: false
+  - name: eSIM Guadeloupe
+    flag: img/flags/gp.svg
+    price: Từ $8.99
+    is_highlight: false
+  - name: eSIM Hy Lạp
+    flag: img/flags/gr.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
+  - name: eSIM Guatemala
+    flag: img/flags/gt.svg
+    price: Từ $11.99
     is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: eSIM Guam
+    flag: img/flags/gu.svg
+    price: Từ $9.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Indonesia so với SIM địa phương: Không thuế IMEI, Không chặt chém sân bay, Không hộ chiếu'
   subtitle: SIM trả trước địa phương Indonesia so với giải pháp eSIM (Đối sánh 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Indonesia) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Indonesia
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)

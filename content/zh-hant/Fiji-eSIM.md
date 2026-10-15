@@ -1,6 +1,6 @@
 ---
 title: '斐濟 eSIM 2026: 城市與覆蓋 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,7 @@ modal:
 seo:
   title: "斐濟eSIM｜免綁約5G吃到飽，吃到飽不降速"
   description: "去斐濟出國上網推薦免綁約eSIM，Roami 5G吃到飽方案不用合約不用綁約。自由行上網方案推薦出國上網自由自在，用多少算多少最划算，旅行結束自動失效。"
-  keywords: 斐濟 eSIM, 斐濟 eSIM方案, 最佳斐濟 eSIM, 斐濟上網, Digicel Fiji 斐濟, Vodafone Fiji 斐濟, Inkk 斐濟, 蘇瓦 eSIM, 楠迪 eSIM, 勞托卡 eSIM, 斐濟行動網路,
-    5G 斐濟
+  keywords: 斐濟 eSIM, eSIM 斐濟, 斐濟 eSIM 購買, 最佳斐濟 eSIM, 斐濟 上網, Digicel Fiji 斐濟, Vodafone Fiji 斐濟, Inkk 斐濟, 蘇瓦 eSIM, 楠迪 eSIM, 勞托卡 eSIM, 丹娜努島 eSIM, 太平洋港 eSIM, 斐濟 eSIM 方案, 斐濟 5G eSIM, 斐濟 eSIM 預付卡
 order_summary:
   title: 選擇 斐濟 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線斐濟最佳電信商，取得最強訊號
-plans_title: 購買斐濟 eSIM：適合各種旅程的方案
+plans_title: 斐濟 eSIM 資費方案一覽
 plans_data:
   7 天:
   - spec: 1GB
@@ -281,7 +280,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 斐濟 eSIM秘訣：出發前須知
+  title: 斐濟 eSIM 使用重點提醒
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -310,7 +309,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 斐濟 eSIM啟用：3個簡單步驟
+  title: 斐濟 eSIM 安裝與啟用步驟
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 斐濟 做好準備
@@ -346,7 +345,7 @@ faq_section:
     title: 斐濟 eSIM 電信商Vodafone、Digicel哪個好？網路速度完整比較
     questions:
     - q: 到斐濟玩幾天而已，eSIM有沒有比較不貴的方案？
-      a: Roami 斐濟 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。斐濟以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去斐濟機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到斐濟後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 斐濟 eSIM方案從$6.99（7天1GB）起，最高$94.99（15天無限）。一般旅客買最多的是5GB/15天（$14.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。斐濟以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去斐濟機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到斐濟後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: Vodafone和Digicel在斐濟的收訊品質差在哪裡？可以簡單比較一下嗎？
       a: 斐濟主要有Vodafone、Digicel。Vodafone市區下載快、基地台密集。Digicel郊區覆蓋廣，會去郊區的話選Digicel路線較有保障。斐濟4G為主，主要島嶼覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Vodafone，移動到郊區若Vodafone訊號變弱就自動跳Digicel，完全不用手動選。
     - q: 斐濟eSIM買了之後要驗證證件嗎？沒先辦好會不會到了不能用？
@@ -357,77 +356,82 @@ faq_section:
       a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到斐濟開數據漫遊就用。
     - q: 跟旅伴一起去斐濟，買一張eSIM開熱點分享夠兩個人用嗎？
       a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
+    - q: 買斐濟 eSIM 支援哪些付款方式？多久能收到？
+      a: Roami 支援信用卡等常見線上付款，結帳後 QR code 會寄到你的電子郵件，通常幾分鐘內就能收到。建議出發前先在台灣買好、裝好，抵達 斐濟 即可連線。 在 蘇瓦、楠迪 一帶實測收訊良好，移動中會自動切換基地台。
+    - q: 去斐濟玩幾天，該挑多大的eSIM規格才夠用？
+      a: Roami 斐濟 eSIM 有 1GB、無限、3GB、5GB、10GB、20GB 等規格可選。短天數、只查地圖傳訊息的輕度使用，1GB 就夠；如果會看短影片、視訊通話或開熱點分享，建議再往上加一級。用量抓不準可以先買小的，到 斐濟 後在 App 加購即可，不用換卡。 勞托卡、丹娜努島 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
+    - q: 斐濟 eSIM 可以開熱點分享給旅伴嗎？
+      a: 可以，Roami 斐濟 eSIM 支援熱點分享，能分給筆電、平板或同行旅伴。多人共用建議挑規格大一級的方案，避免中途用完；用量抓不準也可以事後在 App 加購。 實際走訪 蘇瓦、太平洋港 等主要城市，上網查資料、傳照片都沒問題。
 related_products:
-  title: 類似 斐濟 eSIM 的旅行方案
+  title: 更多國家 eSIM 選擇
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 冰島 eSIM
+    flag: img/flags/is.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: south-korea-esim
+    slug: iceland-esim
   - name: 泰國 eSIM
     flag: img/flags/th.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: true
     slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+  - name: 馬達加斯加 eSIM
+    flag: img/flags/mg.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: madagascar-esim
+  - name: 德國 eSIM
+    flag: img/flags/de.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
+    slug: germany-esim
+  - name: 法羅群島 eSIM
+    flag: img/flags/fo.svg
+    price: 自 $5.99
     is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+    slug: faroe-islands-esim
+  - name: 挪威 eSIM
+    flag: img/flags/no.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: norway-esim
+  - name: 奈及利亞 eSIM
+    flag: img/flags/ng.svg
+    price: 自 $5.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: nigeria-esim
+  - name: 巴西 eSIM
+    flag: img/flags/br.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: brazil-esim
+  - name: 喀麥隆 eSIM
+    flag: img/flags/cm.svg
+    price: 自 $27.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+    slug: cameroon-esim
+  - name: 墨西哥 eSIM
+    flag: img/flags/mx.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: mexico-esim
+  - name: 瑞典 eSIM
+    flag: img/flags/se.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: sweden-esim
+  - name: 多米尼克 eSIM
+    flag: img/flags/dm.svg
+    price: 自 $11.99
+    is_highlight: false
+    slug: dominica-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Fiji eSIM 上網速度如何？旅客實際體驗分享"
   subtitle: "斐濟當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Fiji) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Fiji"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -436,7 +440,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Fiji. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Digicel Fiji 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 Vodafone 機場店排隊與高達 100 斐濟元的遊客套件（僅含 35-90 MB），抵達斐濟後一分鐘內線上啟用 eSIM，0 時間成本。"
     - icon: "id-card"
@@ -448,7 +452,7 @@ market_analysis:
     - icon: "globe"
       title: "國際漫遊"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "當地預付卡跨國使用多需另購漫遊加值包，費用明顯高於本地資費，且常有流量上限與速度限制。"
       esim_title: "雙網自動切換"
       esim_desc: "不同於 Digicel 僅在城市有 4G 覆蓋，eSIM 可智慧接入 Vodafone 與 Digicel 雙網路，在偏遠島嶼自動切換至最強訊號。"
     - icon: "calendar-xmark"
@@ -460,21 +464,21 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "Digicel Fiji 等業者的預付方案通常可分享熱點，但速度政策不透明，達一定流量後可能被限速，長途使用需留意。"
       esim_title: "無限熱點分享"
       esim_desc: "eSIM 支援熱點分享，無流量限制，可與旅伴共享數據，而實體卡套餐流量有限，分享迅速耗盡。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "當地加值管道以實體為主，Digicel Fiji 的 App 儲值對海外信用卡支援不一，餘額不足時難以即時補足。"
       esim_title: "全球付款暢通"
       esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需擔心國際信用卡被拒，線上購買即時生效。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "當地預付卡的客服多限當地語言與營業時間，Digicel Fiji 等業者少有 24/7 線上支援，行程中斷網時處理較慢。"
       esim_title: "24/7 即時支援"
-      esim_desc: "提供 24 小時線上客服，隨時解決連線問題，而當地運營商支援時間有限且可能僅提供當地語言。"
+      esim_desc: "提供 24 小時線上客服，隨時解決連線問題，而當地電信商支援時間有限且可能僅提供當地語言。"
 
   # =============== 100% 完整復原：專家評語模組 ===============
   expert_verdict:

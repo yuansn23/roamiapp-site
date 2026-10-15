@@ -4,14 +4,14 @@ layout: "plans"
 type: "page"
 date: '2026-06-15T00:00:00+00:00'
 
-# 1. SEO 核心优化文案
+# 1. SEO 核心優化文案
 seo:
   title: "eSIM方案總整理｜各國5G流量吃到飽7天/15天/30天任選"
   description: "瀏覽Roami各國eSIM上網方案，200+國家高速5G網路即時開通免綁約。最低$1.99起吃到飽不降速，7天/15天/30天多種天數任選，出國旅行必備上網利器，隨時保持連線不中斷。"
   keywords: "eSIM 方案, 旅遊 eSIM, 全球 eSIM, 線上購買 eSIM, 無限數據 eSIM, 歐洲 eSIM, 美國 eSIM, 日本 eSIM, 英國 eSIM, 土耳其 eSIM, 預付 eSIM 套餐, 台灣 eSIM, 中華電信 eSIM, 遠傳 eSIM, 台灣大哥大 eSIM, Klook eSIM, KKday eSIM, iPhone eSIM, 三星 eSIM, 漫遊 eSIM, 預付卡 eSIM"
   image: "img/search.png"
 
-# 2. 顶部 Banner 搜索区文案
+# 2. 頂部 Banner 搜索區文案
 hero:
   title: "尋找您完美的 <span class='text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-300'>eSIM 方案</span>"
   subtitle: "在 200 多個目的地享受即時 5G/4G 連線。支援中華電信、遠傳、台灣大哥大等本地電信，出國上網免換卡。"
@@ -24,7 +24,7 @@ hero:
     - name: "美國"
     - name: "台灣"
 
-# 3. 页面界面提示文案
+# 3. 頁面界面提示文案
 ui:
   no_results_title: "找不到目的地"
   no_results_desc: "我們找不到符合您搜尋的 eSIM 方案。請嘗試其他國家或地區，或改用「中華電信」、「遠傳」、「Klook」等關鍵字重新搜尋。"
@@ -36,7 +36,7 @@ ui:
   explore: "探索"
   regional_desc: "使用單一 eSIM 暢遊多個國家。非常適合多目的地旅行和數位遊牧民族。支援 iPhone、三星、小米等機型，中華電信、遠傳、台灣大哥大用戶均可輕鬆啟用。"
 
-# 4. 置顶的 10 个热门国家/地区 (已补全标签和颜色)
+# 4. 置頂的 10 個熱門國家/地區 (已補全標籤和顏色)
 top_countries:
   - name: "日本"
     code: "jp"
@@ -99,7 +99,7 @@ top_countries:
     badgeColor: "bg-rose-500"
     alias: "china mainland"
 
-# 区域套餐
+# 區域套餐
 regional_plans:
   - name: "歐洲"
     url: "/europe-esim/"
@@ -130,7 +130,7 @@ regional_plans:
     hover_text: "group-hover:text-orange-600"
     description: "美國、加拿大、墨西哥"
 
-# 5. 完整的国家/地区 A-Z
+# 5. 完整的國家/地區 A-Z
 all_countries:
   - name: "阿富汗"
     code: "af"

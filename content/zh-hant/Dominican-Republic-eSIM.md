@@ -1,6 +1,6 @@
 ---
 title: '多明尼加共和國 eSIM 2026: 旅客與網路 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -9,7 +9,7 @@ country_meta:
   operators: Claro, Altice, Viva
   competitors: Airalo, Holafly, Nomad, Ubigi, eSIM.net
   main_cities: 聖多明哥 (Santo Domingo), 蓬塔卡納 (Punta Cana), 聖地牙哥 (Santiago), 拉羅馬納 (La Romana), 薩馬納 (Samana)
-  main_packages: 3/7/15/30 天，無限數據
+  main_packages: 3/7/15/30 天，1GB/3GB/5GB/8GB/10GB/15GB
 modal:
   title: 服務更新！
   btn_text: 繼續
@@ -17,9 +17,8 @@ modal:
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
   title: "多明尼加eSIM｜免綁約5G上網，200+國家通用超方便"
-  description: "Roami eSIM提供多明尼加吃到飽eSIM免綁約方案，5G高速上網出國免綁約超自由。不用綁約不用簽約輕鬆又划算，出國上網推薦首選方案，200+國家通用超方便。"
-  keywords: 多明尼加共和國 eSIM, 多明尼加共和國 eSIM方案, 最佳多明尼加共和國 eSIM, 多明尼加共和國上網, Claro 多明尼加共和國, Altice 多明尼加共和國, Viva 多明尼加共和國, 聖多明哥 (Santo
-    Domingo) eSIM, 蓬塔卡納 (Punta Cana) eSIM, 聖地牙哥 (Santiago) eSIM, 多明尼加共和國行動網路, 5G 多明尼加共和國
+  description: "Roami eSIM提供多明尼加eSIM免綁約方案，5G高速上網出國免綁約超自由。不用綁約不用簽約輕鬆又划算，出國上網推薦首選方案，200+國家通用超方便。"
+  keywords: 多明尼加共和國 eSIM, eSIM 多明尼加共和國, 多明尼加共和國 eSIM 購買, 最佳多明尼加共和國 eSIM, 多明尼加共和國 上網, Claro 多明尼加共和國, Altice 多明尼加共和國, Viva 多明尼加共和國, 多明尼加共和國 eSIM 方案, 多明尼加共和國 5G eSIM, 多明尼加共和國 eSIM 預付卡, 多明尼加共和國 網卡, 多明尼加共和國 上網卡, 多明尼加共和國 eSIM 比較, 多明尼加共和國 eSIM 推薦, 多明尼加共和國 便宜 eSIM
 order_summary:
   title: 選擇 多明尼加共和國 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線多明尼加共和國最佳電信商，取得最強訊號
-plans_title: 購買多明尼加共和國 eSIM：適合各種旅程的方案
+plans_title: 多明尼加共和國 eSIM 方案：從短程到長住
 plans_data:
   30 天:
   - spec: 10GB
@@ -218,7 +217,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 多明尼加共和國 eSIM秘訣：出發前須知
+  title: 多明尼加共和國 eSIM 出發前重點提醒
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -247,7 +246,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 多明尼加共和國 eSIM啟用：3個簡單步驟
+  title: 多明尼加共和國 eSIM 安裝啟用全流程
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 多明尼加共和國 做好準備
@@ -282,7 +281,7 @@ faq_section:
     title: 多明尼加 eSIM 網路品質評比｜各家電信速度收訊比較
     questions:
     - q: 短期去多明尼加玩個三五天，eSIM最便宜的方案大概多少錢？
-      a: Roami 多明尼加 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Claro在多明尼加市區5G網速約100-300Mbps，看1080p影片沒問題。去多明尼加機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到多明尼加後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 多明尼加 eSIM方案從$5.99（7天1GB）起，最高$54.99（15天15GB）。一般旅客買最多的是5GB/15天（$19.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選8GB以上比較夠。Claro在多明尼加市區5G網速約100-300Mbps，看1080p影片沒問題。去多明尼加機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到多明尼加後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: Claro、Altice、Viva這三家在多明尼加的收訊，在市區和郊區各推薦哪家？
       a: 多明尼加主要有Claro、Altice、Viva。Claro市區下載快、基地台密集。Altice郊區覆蓋廣，會去郊區的話選Altice路線較有保障。Viva價格親民，適合預算有限的旅客。多明尼加4G/5G，聖多明哥覆蓋良好。不過Roami會自動切換到當前訊號最強的網路。市區用Claro，移動到郊區若Claro訊號變弱就自動跳Altice或Viva，完全不用手動選。
     - q: 有人說去多明尼加辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
@@ -293,67 +292,73 @@ faq_section:
       a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
     - q: 出國去多明尼加用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
       a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到多明尼加開數據漫遊就用。
+    - q: 去多明尼加共和國玩幾天，該挑多大的eSIM規格才夠用？
+      a: Roami 多明尼加共和國 eSIM 有 10GB、3GB、5GB、15GB、1GB、8GB 等規格可選。短天數、只查地圖傳訊息的輕度使用，10GB 就夠；如果會看短影片、視訊通話或開熱點分享，建議再往上加一級。用量抓不準可以先買小的，到 多明尼加共和國 後在 App 加購即可，不用換卡。
+    - q: 多明尼加共和國 eSIM 要怎麼啟用？要抵達當地才開嗎？
+      a: 建議出發前先用 WiFi 掃描 QR code 安裝描述檔，抵達 多明尼加共和國 後再開啟 eSIM 線路並打開數據漫遊，連上當地網路就會自動啟用，方案效期也從那時開始計算。
+    - q: 抵達多明尼加共和國機場後就能馬上上網嗎？
+      a: 可以。只要出發前先安裝好 eSIM，落地後關閉飛航模式、開啟 eSIM 線路，通常幾十秒內就能連上當地網路，不用在機場排隊買實體 SIM 卡。
 related_products:
-  title: 類似 多明尼加共和國 eSIM 的旅行方案
+  title: 相關 eSIM 方案推薦
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 哥斯大黎加 eSIM
+    flag: img/flags/cr.svg
+    price: 自 $9.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: costa-rica-esim
+  - name: 俄羅斯 eSIM
+    flag: img/flags/ru.svg
+    price: 自 $2.99
     is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
+    slug: russia-esim
+  - name: 瑞典 eSIM
+    flag: img/flags/se.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: sweden-esim
+  - name: 哈薩克 eSIM
+    flag: img/flags/kz.svg
+    price: 自 $3.99
+    is_highlight: false
+    slug: kazakhstan-esim
+  - name: 丹麥 eSIM
+    flag: img/flags/dk.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: denmark-esim
+  - name: 斐濟 eSIM
+    flag: img/flags/fj.svg
+    price: 自 $6.99
+    is_highlight: false
+    slug: fiji-esim
+  - name: 肯亞 eSIM
+    flag: img/flags/ke.svg
+    price: 自 $7.99
+    is_highlight: false
+    slug: kenya-esim
+  - name: 蒙特內哥羅 eSIM
+    flag: img/flags/me.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: montenegro-esim
+  - name: 牙買加 eSIM
+    flag: img/flags/jm.svg
+    price: 自 $11.99
+    is_highlight: false
+    slug: jamaica-esim
+  - name: 英國 eSIM
+    flag: img/flags/gb.svg
+    price: 自 $1.99
     is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+    slug: united-kingdom-esim
+  - name: 智利 eSIM
+    flag: img/flags/cl.svg
+    price: 自 $4.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: chile-esim
+  - name: 加彭 eSIM
+    flag: img/flags/ga.svg
+    price: 自 $14.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: philippines-esim
+    slug: gabon-esim
 ---

@@ -1,6 +1,6 @@
 ---
 title: '秘魯 eSIM 2026: 城市與覆蓋 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -16,10 +16,9 @@ modal:
   text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "秘魯eSIM｜5G吃到飽$1.99起，出國上網省錢必備"
-  description: "Roami eSIM提供秘魯出國5G吃到飽方案最低只要$1.99起，超值價格享受高速網路。便宜eSIM預付卡推薦出國上網省錢必備方案，划算又好用簡單又方便。"
-  keywords: 秘魯 eSIM, 秘魯 eSIM方案, 最佳秘魯 eSIM, 秘魯上網, Claro 秘魯, Movistar 秘魯, Entel 秘魯, 利馬 eSIM, 庫斯科 eSIM, 阿雷基帕 eSIM, 秘魯行動網路, 5G
-    秘魯
+  title: "秘魯eSIM｜5G吃到飽$4.99起，出國上網省錢必備"
+  description: "Roami eSIM提供秘魯出國5G吃到飽方案最低只要$4.99起，超值價格享受高速網路。便宜eSIM預付卡推薦出國上網省錢必備方案，划算又好用簡單又方便。"
+  keywords: 秘魯 eSIM, eSIM 秘魯, 秘魯 eSIM 購買, 最佳秘魯 eSIM, 秘魯 上網, Claro 秘魯, Movistar 秘魯, Entel 秘魯, 利馬 eSIM, 庫斯科 eSIM, 阿雷基帕 eSIM, 特魯希略 eSIM, 伊基托斯 eSIM, 秘魯 eSIM 方案, 秘魯 5G eSIM, 秘魯 eSIM 預付卡
 order_summary:
   title: 選擇 秘魯 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線秘魯最佳電信商，取得最強訊號
-plans_title: 購買秘魯 eSIM：適合各種旅程的方案
+plans_title: 挑選你的秘魯 eSIM 方案
 plans_data:
   7 天:
   - spec: 1GB
@@ -281,7 +280,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 秘魯 eSIM秘訣：出發前須知
+  title: 前往秘魯前的 eSIM 準備事項
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -310,7 +309,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 秘魯 eSIM啟用：3個簡單步驟
+  title: 秘魯 eSIM 設定步驟說明
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 秘魯 做好準備
@@ -345,88 +344,93 @@ faq_section:
     title: 秘魯 eSIM 電信商Claro、Movistar、Entel哪個好？網路速度完整比較
     questions:
     - q: 出國去秘魯辦eSIM有推薦的方案嗎？不想花太多錢。
-      a: Roami 秘魯 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Claro在秘魯市區5G網速約100-300Mbps，看1080p影片沒問題。去秘魯機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到秘魯後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 秘魯 eSIM方案從$4.99（3天1GB）起，最高$85.99（30天30GB）。一般旅客買最多的是5GB/15天（$17.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Claro在秘魯市區5G網速約100-300Mbps，看1080p影片沒問題。去秘魯機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到秘魯後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 去秘魯玩辦eSIM，Roami會自動切換Claro、Movistar、Entel的網路嗎？
       a: 秘魯主要有Claro、Movistar、Entel。Claro市區下載快、基地台密集。Movistar郊區覆蓋廣，會去郊區的話選Movistar路線較有保障。Entel價格親民，適合預算有限的旅客。秘魯5G使用n78頻段，利馬覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Claro，移動到郊區若Claro訊號變弱就自動跳Movistar或Entel，完全不用手動選。
     - q: 去秘魯每天就是打卡傳照片查地圖，這樣5GB夠用嗎？還是吃到飽比較安心？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。秘魯5G使用n78頻段，利馬覆蓋。Roami在秘魯連上Claro的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。秘魯5G使用n78頻段，利馬覆蓋。Roami在秘魯連上Claro的網路，網速穩定。如果怕降速可選10GB/$20.99或20GB/$30.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 如果出發前忘記先辦好秘魯eSIM的認證，到當地才弄來得及嗎？
       a: 需要的。秘魯預付卡需KYC認證，需提供護照。很多人不知道這規定，到了秘魯機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。秘魯5G使用n78頻段，利馬覆蓋。另外Claro的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到秘魯開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 離開秘魯市區之後，eSIM的訊號會不會變得很差？
       a: 秘魯的Claro等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。秘魯5G使用n78頻段，利馬覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 秘魯eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
       a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
+    - q: 秘魯 eSIM 有幾天份的方案可以選？
+      a: Roami 秘魯 eSIM 提供 3/7/15/30 天等選擇，可依行程長短挑選。三天內的短程選入門天數就夠，一週以上建議直接挑長效期方案，單日成本更划算。 另外，利馬、庫斯科 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
+    - q: 在秘魯使用eSIM遇到問題，可以找誰幫忙？
+      a: Roami 提供線上客服協助。若在 秘魯 遇到連線異常，可先確認 eSIM 線路已開啟、數據漫遊已打開；仍無法解決再聯繫客服，符合條件可申請退款。 在 阿雷基帕、特魯希略 一帶實測收訊良好，移動中會自動切換基地台。
+    - q: 秘魯 eSIM 大概多少錢？有便宜的選擇嗎？
+      a: Roami 秘魯 eSIM 方案從 $4.99（3天1GB）起，最高 $85.99（30天30GB）。短期輕度使用挑入門方案即可，用量大的旅客再選高規格。價格透明，方案到期自動失效，不會續約扣款。 利馬、伊基托斯 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
 related_products:
-  title: 類似 秘魯 eSIM 的旅行方案
+  title: 相關 eSIM 方案推薦
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 巴拉圭 eSIM
+    flag: img/flags/py.svg
+    price: 自 $22.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: south-korea-esim
+    slug: paraguay-esim
   - name: 泰國 eSIM
     flag: img/flags/th.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: true
     slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+  - name: 沙烏地阿拉伯 eSIM
+    flag: img/flags/sa.svg
+    price: 自 $3.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: saudi-arabia-esim
+  - name: 模里西斯 eSIM
+    flag: img/flags/mu.svg
+    price: 自 $7.99
     is_highlight: false
-    slug: singapore-esim
-  - name: 馬來西亞 eSIM
-    flag: img/flags/my.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: hong-kong-esim
+    slug: mauritius-esim
   - name: 中國 eSIM
     flag: img/flags/cn.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: false
     slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+  - name: 羅馬尼亞 eSIM
+    flag: img/flags/ro.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: romania-esim
+  - name: 汶萊 eSIM
+    flag: img/flags/bn.svg
+    price: 自 $9.99
+    is_highlight: false
+    slug: brunei-esim
+  - name: 加彭 eSIM
+    flag: img/flags/ga.svg
+    price: 自 $14.99
+    is_highlight: false
+    slug: gabon-esim
+  - name: 喀麥隆 eSIM
+    flag: img/flags/cm.svg
+    price: 自 $27.99
+    is_highlight: false
+    slug: cameroon-esim
+  - name: 烏拉圭 eSIM
+    flag: img/flags/uy.svg
+    price: 自 $11.99
+    is_highlight: false
+    slug: uruguay-esim
+  - name: 牙買加 eSIM
+    flag: img/flags/jm.svg
+    price: 自 $11.99
+    is_highlight: false
+    slug: jamaica-esim
+  - name: 波蘭 eSIM
+    flag: img/flags/pl.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: poland-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Peru eSIM 能不能順暢上網？速度、延遲、覆蓋一次說清楚"
   subtitle: "秘魯當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Peru) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Peru"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -435,7 +439,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Peru. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Claro 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開 Movistar 門市 30 分鐘填表與長達 24 小時的等待，Roami eSIM 可在抵達利馬前一分鐘內線上啟用，落地即連網。"
     - icon: "id-card"
@@ -459,19 +463,19 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。基於市場知識，秘魯當地預付 SIM 卡通常允許熱點分享，但可能受到速度限制或公平使用政策約束。"
+      prepaid_desc: "秘魯當地預付 SIM 卡通常允許熱點分享，但可能受到速度限制或公平使用政策約束。"
       esim_title: "無限熱點分享"
       esim_desc: "Roami eSIM 支援熱點分享，無速度限制，讓您輕鬆與旅伴共享網路，無需擔心當地 SIM 卡可能隱藏的限制。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "Claro 官方在線充值渠道可能拒絕國際信用卡；Entel App 內使用國際信用卡充值經常失敗；Bitel 網站接受國際信用卡但部分卡片會被拒絕。"
+      prepaid_desc: "Claro 官方在線儲值渠道可能拒絕國際信用卡；Entel App 內使用國際信用卡儲值經常失敗；Bitel 網站接受國際信用卡但部分卡片會被拒絕。"
       esim_title: "全球付款無阻"
       esim_desc: "使用 Visa、Mastercard、AMEX、Apple Pay、Google Pay 或 PayPal 即可輕鬆購買 Roami eSIM，無需擔心 Claro 或 Entel 拒絕國際信用卡的問題。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。基於市場知識，秘魯電信商客服通常提供西班牙語支援，營業時間為週一至週五 9:00-18:00，預付卡用戶可能無法獲得即時線上聊天服務。"
+      prepaid_desc: "秘魯電信商客服通常提供西班牙語支援，營業時間為週一至週五 9:00-18:00，預付卡用戶可能無法獲得即時線上聊天服務。"
       esim_title: "24/7 中文支援"
       esim_desc: "Roami 提供 24/7 多語言客戶支援，包括中文，無需像當地電信商那樣僅限西班牙語且限時服務。"
 

@@ -1,6 +1,6 @@
 ---
 title: 'eSIM New Zealand - 5G tại Auckland & Queenstown | Không lãng phí 30 ngày | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: eSIM New Zealand - Gói Dữ liệu Trả trước 5G cho Du khách
-  description: Nhận eSIM New Zealand tốt nhất với 5G trên Spark, Vodafone & 2degrees. Không bị ép gói 30 ngày — SIM địa phương lãng phí 70%+ cho chuyến đi ngắn. Phủ sóng Auckland, Queenstown & Hobbiton. Gói từ 1,99 USD.
-  keywords: eSIM New Zealand, mua eSIM New Zealand, eSIM New Zealand tốt nhất, eSIM du lịch New Zealand, Spark New Zealand, Vodafone NZ New Zealand, 2degrees New Zealand, eSIM Auckland, eSIM Wellington, eSIM Queenstown, eSIM trả trước New Zealand, eSIM 5G New Zealand, eSIM Hobbiton
-  low_price: 1.99
-  high_price: 39.9
+  description: Nhận eSIM New Zealand tốt nhất với 5G trên Spark, Vodafone & 2degrees. Không bị ép gói 30 ngày — SIM địa phương lãng phí 70%+ cho chuyến đi ngắn. Phủ sóng Auckland, Queenstown & Hobbiton. Gói từ $3.99.
+  keywords: eSIM New Zealand, mua eSIM New Zealand, eSIM New Zealand tốt nhất, eSIM du lịch New Zealand, Spark New Zealand, Vodafone NZ New Zealand, 2degrees New Zealand, eSIM Auckland, eSIM Wellington, eSIM Christchurch, eSIM trả trước New Zealand, eSIM 5G New Zealand, eSIM Queenstown, eSIM Hamilton, eSIM New Zealand giá rẻ, sim du lịch New Zealand
+  low_price: 3.99
+  high_price: 99.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -73,7 +73,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Sẵn sàng cho cả hai đảo
     desc: 4G/5G trên khắp Đảo Bắc & Đảo Nam — từ Auckland đến Queenstown và Milford Sound
-plans_title: 'Mua eSIM New Zealand: Gói cho mọi thời gian chuyến đi'
+plans_title: 'New Zealand eSIM: từ chuyến ngắn đến lưu trú dài'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -304,7 +304,7 @@ network_coverage:
       coverage: Vùng phủ đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM New Zealand: Những điều cần biết trước khi đi'
+  title: 'Điểm cần lưu ý khi dùng New Zealand eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -329,7 +329,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM New Zealand: 3 bước đơn giản'
+  title: 'Hoàn tất kích hoạt New Zealand eSIM trong 3 bước'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -349,17 +349,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hướng dẫn eSIM New Zealand: 5G, Lãng phí 30 ngày & Mẹo du lịch"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, vùng phủ mạng và chất lượng kết nối cho du khách tại New Zealand. Tìm hiểu tốc độ mong đợi tại Auckland, Queenstown và tại Hobbiton — và cách tránh bẫy SIM 30 ngày."
+  desc: "Hỏi đáp về eSIM New Zealand - tốc độ, độ phủ và mẹo kết nối."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM New Zealand
+    title: Câu hỏi thường gặp khi mua New Zealand eSIM
     questions:
     - q: |
         Tại sao mua SIM địa phương ở New Zealand lại lãng phí tiền cho chuyến đi ngắn?
       a: |
-        Thị trường SIM trả trước New Zealand có một <strong>khiếm khuyết lớn cho du khách</strong>. One NZ Travel SIM có <strong>thời hạn tối thiểu 30 ngày</strong> — 29 NZD cho chỉ 2GB dữ liệu trong 30 ngày. Cho chuyến đi 7 ngày, bạn đang trả cho <strong>23 ngày không sử dụng (lãng phí hơn 70%)</strong>. Skinny Holiday SIM chỉ có sẵn tại <strong>hai cửa hàng sân bay cụ thể</strong> (Christchurch Hub Convenience và Queenstown Paper Plus) — nếu bạn hạ cánh tại Auckland, bạn không thể mua nó. Roami cung cấp các gói <strong>3, 7, 15 và 30 ngày</strong> từ 1,99 USD — không cam kết 30 ngày bắt buộc, không lãng phí.
+        Thị trường SIM trả trước New Zealand có một <strong>khiếm khuyết lớn cho du khách</strong>. One NZ Travel SIM có <strong>thời hạn tối thiểu 30 ngày</strong> — 29 NZD cho chỉ 2GB dữ liệu trong 30 ngày. Cho chuyến đi 7 ngày, bạn đang trả cho <strong>23 ngày không sử dụng (lãng phí hơn 70%)</strong>. Skinny Holiday SIM chỉ có sẵn tại <strong>hai cửa hàng sân bay cụ thể</strong> (Christchurch Hub Convenience và Queenstown Paper Plus) — nếu bạn hạ cánh tại Auckland, bạn không thể mua nó. Roami cung cấp các gói <strong>3, 7, 15 và 30 ngày</strong> từ $3.99 — không cam kết 30 ngày bắt buộc, không lãng phí.
     - q: |
         New Zealand có 5G không? Tốc độ ở Auckland và Queenstown như thế nào?
       a: |
@@ -388,63 +388,75 @@ faq_section:
         Thời hạn hiệu lực của eSIM New Zealand bắt đầu từ khi nào?
       a: |
         Hiệu lực gói bắt đầu khi bạn kết nối với mạng địa phương tại New Zealand, không phải khi mua hay cài đặt. Vì vậy, bạn có thể mua và cài đặt vài tuần trước chuyến đi mà không mất ngày nào. Gói 7 ngày cho bạn 7 ngày đầy đủ từ lần kết nối đầu tiên.
+    - q: |
+        eSIM New Zealand có chia sẻ hotspot cho bạn đồng hành được không?
+      a: |
+        Có, eSIM New Zealand của Roami hỗ trợ chia sẻ hotspot cho laptop, máy tính bảng hoặc người đi cùng. Nếu dùng chung nhiều người, nên chọn gói cao hơn một bậc để không hết dữ liệu giữa chừng; nếu thiếu vẫn có thể nạp thêm trong ứng dụng.  Dù ở Auckland, Wellington hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
+    - q: |
+        Đến sân bay ở New Zealand là dùng được internet ngay chứ?
+      a: |
+        Được. Chỉ cần cài eSIM trước, sau khi hạ cánh tắt chế độ máy bay và bật đường eSIM, thường chỉ vài chục giây là kết nối được mạng địa phương, không cần xếp hàng mua SIM vật lý ở sân bay New Zealand.  Vùng phủ di động tại Christchurch, Queenstown đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
+    - q: |
+        Spark và Vodafone NZ ở New Zealand, dùng eSIM mạng nào tốt hơn?
+      a: |
+        New Zealand có các nhà mạng chính như Spark, Vodafone NZ. Roami tự động chọn mạng có tín hiệu mạnh nhất tại thời điểm đó và chuyển đổi giữa Spark và Vodafone NZ mà bạn không cần cấu hình thủ công. Nếu lịch trình đi ra vùng ngoại ô hoặc đảo xa, nên tải bản đồ ngoại tuyến trước cho chắc.  Các thành phố lớn như Auckland, Hamilton đều có phủ sóng ổn định cho nhu cầu hằng ngày.
 related_products:
   title: Các gói eSIM New Zealand liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ 1,99 USD
+  - name: eSIM Ai Cập
+    flag: img/flags/eg.svg
+    price: Từ $2.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ 1,99 USD
+  - name: Spain eSIM
+    flag: img/flags/es.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ 1,99 USD
+  - name: eSIM Phần Lan
+    flag: img/flags/fi.svg
+    price: Từ $1.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ 1,99 USD
+  - name: eSIM Fiji
+    flag: img/flags/fj.svg
+    price: Từ $6.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ 1,99 USD
-    is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ 1,99 USD
+  - name: eSIM Quần đảo Faroe
+    flag: img/flags/fo.svg
+    price: Từ $5.99
     is_highlight: false
   - name: eSIM Pháp
     flag: img/flags/fr.svg
-    price: Từ 1,99 USD
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ 1,99 USD
+  - name: eSIM Gabon
+    flag: img/flags/ga.svg
+    price: Từ $14.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ 1,99 USD
+  - name: eSIM Vương quốc Anh
+    flag: img/flags/gb.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ 1,99 USD
+  - name: eSIM Grenada
+    flag: img/flags/gd.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Georgia
+    flag: img/flags/ge.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Guiana thuộc Pháp
+    flag: img/flags/gf.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Ghana
+    flag: img/flags/gh.svg
+    price: Từ $7.99
     is_highlight: false
 market_analysis:
   title: 'eSIM New Zealand vs SIM địa phương: Không lãng phí 30 ngày, Không cấm điểm phát WiFi'
   subtitle: SIM trả trước địa phương New Zealand vs. Giải pháp eSIM (Đánh giá 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (New Zealand) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/New-Zealand
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -473,7 +485,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: One NZ Travel SIM ép <strong>tối thiểu 30 ngày</strong> (29 NZD cho 2GB). Skinny Holiday SIM ép thời hạn 30 ngày. Du khách 7 ngày lãng phí <strong>hơn 70%</strong> giá trị gói.
     esim_title: Gói ngắn linh hoạt
-    esim_desc: Roami cung cấp gói <strong>3/7/15/30 ngày</strong> từ 1,99 USD — chỉ trả cho thời gian chuyến đi thực tế của bạn. Không cam kết 30 ngày bắt buộc, không lãng phí.
+    esim_desc: Roami cung cấp gói <strong>3/7/15/30 ngày</strong> từ $3.99 — chỉ trả cho thời gian chuyến đi thực tế của bạn. Không cam kết 30 ngày bắt buộc, không lãng phí.
   - icon: wifi
     title: Chính sách chia sẻ<br>kết nối & tốc độ
     prepaid_title: ''
@@ -499,7 +511,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Không lãng phí chi phí chìm 30 ngày
-      desc: One NZ ép <b>tối thiểu 30 ngày (29 NZD/2GB)</b>. Chuyến đi 7 ngày lãng phí <b>hơn 70%</b>. Roami cung cấp <b>gói 7 ngày từ 1,99 USD/GB</b> — không lãng phí, không trả quá nhiều.
+      desc: One NZ ép <b>tối thiểu 30 ngày (29 NZD/2GB)</b>. Chuyến đi 7 ngày lãng phí <b>hơn 70%</b>. Roami cung cấp <b>gói 7 ngày từ $3.99/GB</b> — không lãng phí, không trả quá nhiều.
     - icon: store
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600

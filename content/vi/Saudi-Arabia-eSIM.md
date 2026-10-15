@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Ả Rập Xê Út - 5G tại Riyadh & Jeddah | Không cần sinh trắc học vân tay | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: eSIM Ả Rập Xê Út | Gói Dữ liệu 5G Tốt nhất cho Du khách
-  description: Nhận eSIM Ả Rập Xê Út tốt nhất với 5G trên STC, Mobily & Zain. Không cần đăng ký hộ chiếu/vân tay — SIM địa phương yêu cầu KYC sinh trắc học. Phủ sóng Riyadh, Jeddah, Mecca & Medina. Gói cước từ $1.99.
-  keywords: eSIM Ả Rập Xê Út, mua eSIM Ả Rập Xê Út, eSIM Ả Rập Xê Út tốt nhất, eSIM du lịch Ả Rập Xê Út, STC Ả Rập Xê Út, Mobily Ả Rập Xê Út, Zain Ả Rập Xê Út, eSIM Riyadh, eSIM Jeddah, eSIM Mecca, eSIM trả trước Ả Rập Xê Út, eSIM 5G Ả Rập Xê Út, eSIM Umrah, eSIM Ả Rập Xê Út không vân tay
-  low_price: 1.99
-  high_price: 39.9
+  description: Nhận eSIM Ả Rập Xê Út tốt nhất với 5G trên STC, Mobily & Zain. Không cần đăng ký hộ chiếu/vân tay — SIM địa phương yêu cầu KYC sinh trắc học. Phủ sóng Riyadh, Jeddah, Mecca & Medina. Gói cước từ $3.99.
+  keywords: eSIM Ả Rập Xê Út, mua eSIM Ả Rập Xê Út, eSIM Ả Rập Xê Út tốt nhất, eSIM du lịch Ả Rập Xê Út, STC Ả Rập Xê Út, Mobily Ả Rập Xê Út, Zain Ả Rập Xê Út, eSIM Riyadh, eSIM Jeddah, eSIM Mecca, eSIM trả trước Ả Rập Xê Út, eSIM 5G Ả Rập Xê Út, eSIM Medina, eSIM Dammam, eSIM Ả Rập Xê Út giá rẻ, sim du lịch Ả Rập Xê Út
+  low_price: 3.99
+  high_price: 96.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -73,7 +73,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Sẵn sàng cho các thành phố thánh
     desc: Phủ sóng 4G/5G tại Mecca, Medina, Jeddah và Riyadh — luôn kết nối cho Umrah và tham quan
-plans_title: 'Mua eSIM Ả Rập Xê Út: Gói cước cho mọi thời gian lưu trú'
+plans_title: 'Chọn nhanh gói Ả Rập Xê Út eSIM'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -296,7 +296,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Ả Rập Xê Út: Những điều cần biết trước khi đi'
+  title: 'Hướng dẫn sử dụng Ả Rập Xê Út eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -323,7 +323,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Ả Rập Xê Út: 3 bước đơn giản'
+  title: 'Toàn bộ quy trình cài đặt Ả Rập Xê Út eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -343,12 +343,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hướng dẫn eSIM Ả Rập Xê Út: 5G, KYC vân tay và Mẹo du lịch"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Ả Rập Xê Út. Tìm hiểu tốc độ mong đợi tại Riyadh, Jeddah và Mecca — và cách tránh rắc rối đăng ký vân tay."
+  desc: "Giải đáp thắc mắc về kết nối và độ phủ sóng eSIM tại Ả Rập Xê Út."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Ả Rập Xê Út
+    title: Thắc mắc cần biết về Ả Rập Xê Út eSIM
     questions:
     - q: |
         Tại sao tôi cần cung cấp vân tay để mua SIM ở Ả Rập Xê Út?
@@ -369,7 +369,7 @@ faq_section:
     - q: |
         Tại sao SIM Ả Rập Xê Út có chu kỳ 28 ngày? Đó có phải là lãng phí cho chuyến đi ngắn không?
       a: |
-        Đúng — đó là một sự lãng phí lớn. Hầu hết các nhà mạng Ả Rập Xê Út sử dụng <strong>chu kỳ thanh toán 28 ngày</strong> (STC, Zain, Mobily). Gói 'Like' của STC có giá 65 SAR (~$17 USD) cho 2GB/28 ngày. Một du khách 5 ngày lãng phí <strong>23 ngày (82% giá trị gói)</strong>. Roami cung cấp <strong>gói 3, 7, 15 và 30 ngày</strong> bắt đầu từ $1.99 — bạn <strong>chỉ trả cho thời gian thực tế của chuyến đi</strong>. Không lãng phí 28 ngày, không trả quá nhiều.
+        Đúng — đó là một sự lãng phí lớn. Hầu hết các nhà mạng Ả Rập Xê Út sử dụng <strong>chu kỳ thanh toán 28 ngày</strong> (STC, Zain, Mobily). Gói 'Like' của STC có giá 65 SAR (~$17 USD) cho 2GB/28 ngày. Một du khách 5 ngày lãng phí <strong>23 ngày (82% giá trị gói)</strong>. Roami cung cấp <strong>gói 3, 7, 15 và 30 ngày</strong> bắt đầu từ $3.99 — bạn <strong>chỉ trả cho thời gian thực tế của chuyến đi</strong>. Không lãng phí 28 ngày, không trả quá nhiều.
     - q: |
         Tôi có thể sử dụng eSIM Ả Rập Xê Út ở UAE, Bahrain hay các nước vùng Vịnh khác không?
       a: |
@@ -386,63 +386,75 @@ faq_section:
         Thời hạn hiệu lực của eSIM Ả Rập Xê Út bắt đầu khi nào?
       a: |
         Thời hạn gói bắt đầu khi bạn kết nối với mạng địa phương tại Ả Rập Xê Út, không phải khi bạn mua hay cài đặt. Vì vậy, bạn có thể mua và cài đặt vài tuần trước chuyến đi mà không mất ngày sử dụng nào. Gói 7 ngày sẽ cho bạn 7 ngày đầy đủ kể từ lần kết nối đầu tiên.
+    - q: |
+        Đến sân bay ở Ả Rập Xê Út là dùng được internet ngay chứ?
+      a: |
+        Được. Chỉ cần cài eSIM trước, sau khi hạ cánh tắt chế độ máy bay và bật đường eSIM, thường chỉ vài chục giây là kết nối được mạng địa phương, không cần xếp hàng mua SIM vật lý ở sân bay Ả Rập Xê Út.  Thực tế tại Riyadh, Jeddah, tra cứu bản đồ và gửi ảnh đều không gặp vấn đề.
+    - q: |
+        Dùng eSIM Ả Rập Xê Út ở Riyadh, Jeddah có ổn không?
+      a: |
+        Riyadh, Jeddah và các đô thị chính đều được phủ sóng di động đầy đủ: tra bản đồ, gọi xe, nhắn tin và tải ảnh đều ổn. Một số vùng xa của Ả Rập Xê Út tín hiệu yếu hơn, bạn nên tải bản đồ ngoại tuyến để phòng.  Dù ở Mecca, Medina hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
+    - q: |
+        eSIM Ả Rập Xê Út có những gói mấy ngày?
+      a: |
+        eSIM Ả Rập Xê Út của Roami có các lựa chọn 3/7/15/30 ngày, tùy theo độ dài hành trình. Chuyến trong ba ngày thì chọn mức ngắn là đủ; từ một tuần trở lên nên chọn gói dài hạn để chi phí mỗi ngày rẻ hơn.  Vùng phủ di động tại Riyadh, Dammam đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
 related_products:
   title: Các gói eSIM Ả Rập Xê Út liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
-    is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ $1.99
+  - name: eSIM Cameroon
+    flag: img/flags/cm.svg
+    price: Từ $27.99
     is_highlight: false
   - name: eSIM Trung Quốc
     flag: img/flags/cn.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
+  - name: eSIM Colombia
+    flag: img/flags/co.svg
+    price: Từ $4.99
+    is_highlight: true
+  - name: eSIM Costa Rica
+    flag: img/flags/cr.svg
+    price: Từ $9.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
+  - name: eSIM Síp
+    flag: img/flags/cy.svg
+    price: Từ $2.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
+  - name: eSIM Cộng hòa Séc
+    flag: img/flags/cz.svg
     price: Từ $1.99
     is_highlight: false
   - name: eSIM Đức
     flag: img/flags/de.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
+  - name: eSIM Đan Mạch
+    flag: img/flags/dk.svg
     price: Từ $1.99
+    is_highlight: false
+  - name: eSIM Dominica
+    flag: img/flags/dm.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Cộng hòa Dominica
+    flag: img/flags/do.svg
+    price: Từ $5.99
+    is_highlight: false
+  - name: eSIM Algeria
+    flag: img/flags/dz.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Ecuador
+    flag: img/flags/ec.svg
+    price: Từ $6.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Ả Rập Xê Út vs SIM địa phương: Không vân tay, Không lãng phí 28 ngày, Không SIM bất hợp pháp'
   subtitle: 'SIM trả trước địa phương Ả Rập Xê Út so với Giải pháp eSIM (Đánh giá 2024/2025)'
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Ả Rập Xê Út) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Saudi-Arabia
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -471,7 +483,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Tất cả các nhà mạng đều sử dụng <strong>chu kỳ thanh toán 28 ngày</strong>. Gói 'Like' của STC có giá 65 SAR (~$17 USD) cho 2GB/28 ngày. Một du khách 5 ngày lãng phí <strong>23 ngày (lãng phí 82%)</strong>.
     esim_title: Gói ngắn hạn linh hoạt
-    esim_desc: Roami cung cấp <strong>gói 3/7/15/30 ngày</strong> bắt đầu từ $1.99 — bạn chỉ trả cho thời gian thực tế của chuyến đi. Không cam kết bắt buộc 28 ngày, không lãng phí 82%.
+    esim_desc: Roami cung cấp <strong>gói 3/7/15/30 ngày</strong> bắt đầu từ $3.99 — bạn chỉ trả cho thời gian thực tế của chuyến đi. Không cam kết bắt buộc 28 ngày, không lãng phí 82%.
   - icon: wifi
     title: Chính sách chia sẻ<br>kết nối & tốc độ
     prepaid_title: ''
@@ -507,7 +519,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Không lãng phí chi phí chìm 28 ngày
-      desc: STC/Mobily/Zain áp đặt <b>gói 28 ngày</b> (65 SAR/2GB). Chuyến đi 5 ngày lãng phí <b>82%</b>. Roami cung cấp <b>gói 3 ngày từ $1.99/GB</b> — không lãng phí.
+      desc: STC/Mobily/Zain áp đặt <b>gói 28 ngày</b> (65 SAR/2GB). Chuyến đi 5 ngày lãng phí <b>82%</b>. Roami cung cấp <b>gói 3 ngày từ $3.99/GB</b> — không lãng phí.
     - icon: shield
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600

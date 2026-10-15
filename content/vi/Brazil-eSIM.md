@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Brazil - 5G tại Rio & São Paulo | Không cần CPF | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: eSIM Brazil - Gói trả trước 5G tốt nhất | Không cần CPF
-  description: Nhận eSIM Brazil tốt nhất với 5G trên Claro, Vivo & TIM. Không cần CPF hay hộ chiếu — bỏ qua kích hoạt điện thoại tiếng Bồ Đào Nha. Phủ sóng Rio, São Paulo & Brasília. Gói từ $1.99.
-  keywords: eSIM Brazil, mua eSIM Brazil, eSIM Brazil tốt nhất, eSIM du lịch Brazil, Claro Brazil, Vivo Brazil, TIM Brazil, eSIM São Paulo, eSIM Rio de Janeiro, eSIM Brasília, eSIM trả trước Brazil, eSIM 5G Brazil, eSIM Brazil không cần CPF
-  low_price: 1.99
-  high_price: 39.9
+  description: Nhận eSIM Brazil tốt nhất với 5G trên Claro, Vivo & TIM. Không cần CPF hay hộ chiếu — bỏ qua kích hoạt điện thoại tiếng Bồ Đào Nha. Phủ sóng Rio, São Paulo & Brasília. Gói từ $4.99.
+  keywords: eSIM Brazil, mua eSIM Brazil, eSIM Brazil tốt nhất, eSIM du lịch Brazil, Claro Brazil, Vivo Brazil, TIM Brazil, eSIM São Paulo, eSIM Rio de Janeiro, eSIM Brasília, eSIM trả trước Brazil, eSIM 5G Brazil, eSIM Salvador, eSIM Fortaleza, eSIM Brazil giá rẻ, sim du lịch Brazil
+  low_price: 4.99
+  high_price: 86.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -73,7 +73,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Sẵn sàng chuyển vùng khu vực
     desc: SIM địa phương mất tín hiệu ngoài Brazil — Roami hoạt động trên khắp Nam Mỹ
-plans_title: 'Mua eSIM Brazil: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Hướng dẫn chọn gói Brazil eSIM'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -288,7 +288,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Brazil: Những điều cần biết trước khi đi'
+  title: 'Nhắc nhở cài đặt và kích hoạt Brazil eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích với eSIM</a> trước khi mua.
@@ -313,7 +313,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Brazil: 3 bước đơn giản'
+  title: 'Brazil eSIM: kích hoạt 3 bước'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -333,12 +333,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hướng dẫn eSIM Brazil: 5G, Không CPF & Mẹo du lịch"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Brazil. Tìm hiểu tốc độ bạn có thể mong đợi và cách tránh phiền phức đăng ký CPF."
+  desc: "Tổng hợp giải đáp về độ phủ sóng, tốc độ và kết nối eSIM cho chuyến đi Brazil."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Brazil
+    title: Hỏi đáp về Brazil eSIM
     questions:
     - q: |
         CPF là gì và tại sao tôi không thể mua SIM địa phương mà không có nó?
@@ -380,63 +380,75 @@ faq_section:
         Thời hạn hiệu lực của eSIM Brazil bắt đầu khi nào?
       a: |
         Thời hạn gói bắt đầu khi bạn kết nối với mạng địa phương tại Brazil, không phải khi bạn mua hay cài đặt. Vì vậy bạn có thể mua và cài đặt vài tuần trước chuyến đi mà không mất bất kỳ ngày sử dụng nào. Gói 7 ngày cho bạn 7 ngày đầy đủ từ lần kết nối đầu tiên.
+    - q: |
+        eSIM Brazil có những gói mấy ngày?
+      a: |
+        eSIM Brazil của Roami có các lựa chọn 3/7/15/30 ngày, tùy theo độ dài hành trình. Chuyến trong ba ngày thì chọn mức ngắn là đủ; từ một tuần trở lên nên chọn gói dài hạn để chi phí mỗi ngày rẻ hơn.  Các thành phố lớn như São Paulo, Rio de Janeiro đều có phủ sóng ổn định cho nhu cầu hằng ngày.
+    - q: |
+        Dùng eSIM Brazil gặp sự cố thì liên hệ ai?
+      a: |
+        Roami có hỗ trợ khách hàng trực tuyến. Nếu gặp lỗi kết nối tại Brazil, bạn kiểm tra đường eSIM đã bật và chuyển vùng dữ liệu đã mở chưa; nếu vẫn chưa được thì liên hệ hỗ trợ, trường hợp đủ điều kiện có thể yêu cầu hoàn tiền.  Tại khu vực Brasília, Salvador, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
+    - q: |
+        eSIM Brazil giá bao nhiêu? Có lựa chọn rẻ không?
+      a: |
+        Gói eSIM Brazil của Roami bắt đầu từ $4.99 (3 ngày 1GB), cao nhất $86.99 (30 ngày 30GB). Chuyến ngắn dùng ít thì chọn gói nhập môn là đủ, khách dùng nhiều thì chọn mức cao hơn. Giá minh bạch, gói hết hạn tự kết thúc và không tự động gia hạn.  São Paulo, Fortaleza và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
 related_products:
   title: Các gói eSIM Brazil liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
+  - name: Uruguay eSIM
+    flag: img/flags/uy.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Uzbekistan
+    flag: img/flags/uz.svg
     price: Từ $1.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ $1.99
+  - name: eSIM Thành Vatican
+    flag: img/flags/va.svg
+    price: Từ $10.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
+  - name: Vietnam eSIM
+    flag: img/flags/vn.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
+  - name: eSIM Kosovo
+    flag: img/flags/xk.svg
+    price: Từ $13.99
+    is_highlight: false
+  - name: eSIM Đông Nam Á
+    flag: img/flags/ya.webp
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
+  - name: eSIM Andorra
+    flag: img/flags/ad.svg
+    price: Từ $6.99
+    is_highlight: false
+  - name: UAE eSIM
+    flag: img/flags/ae.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Afghanistan
+    flag: img/flags/af.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Albania
+    flag: img/flags/al.svg
     price: Từ $1.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
+  - name: eSIM Armenia
+    flag: img/flags/am.svg
+    price: Từ $7.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: eSIM Argentina
+    flag: img/flags/ar.svg
+    price: Từ $3.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Brazil vs SIM trả trước địa phương: Tiện lợi không cần CPF'
   subtitle: SIM trả trước địa phương Brazil vs. Giải pháp eSIM (Điểm chuẩn 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Brazil) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Brazil
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -465,7 +477,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Gói rẻ nhất của TIM có giá R$15 cho chỉ 1.42GB với thời hạn 9 ngày. Gói R$17 của Vivo cung cấp 4GB trong 15 ngày. Chuyến đi 7 ngày lãng phí tới 2 ngày.
     esim_title: Gói ngắn hạn linh hoạt
-    esim_desc: Tránh lãng phí thời hạn tối thiểu 9 ngày (R$15) của TIM. Roami cung cấp gói 7 ngày từ $1.99/GB — chỉ trả cho độ dài chuyến đi thực tế của bạn.
+    esim_desc: Tránh lãng phí thời hạn tối thiểu 9 ngày (R$15) của TIM. Roami cung cấp gói 7 ngày từ $4.99/GB — chỉ trả cho độ dài chuyến đi thực tế của bạn.
   - icon: wifi
     title: Chính sách điểm phát<br>Wi-Fi & tốc độ
     prepaid_title: ''

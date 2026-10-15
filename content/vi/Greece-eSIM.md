@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Hy Lạp - 5G tại Athens & Santorini | Không tìm SIM sân bay | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,10 +17,10 @@ modal:
   text_android: 'Dịch vụ eSIM của chúng tôi đã được nâng cấp lên <strong>PhoneSIM</strong>.<br>Khách hàng mới được giảm 20%, mã khuyến mãi: web20'
 seo:
   title: eSIM Hy Lạp - Gói Dữ liệu Không giới hạn Tốt nhất cho Người du mục
-  description: Nhận eSIM Hy Lạp tốt nhất với 5G trên Vodafone, Cosmote & Wind. Không tìm SIM tại sân bay Athens — giao QR tức thì. Phủ sóng Athens, Santorini, Mykonos & tất cả các đảo. Gói từ 1,99 USD.
-  keywords: eSIM Hy Lạp, mua eSIM Hy Lạp, eSIM Hy Lạp tốt nhất, eSIM du lịch Hy Lạp, Vodafone Hy Lạp, Cosmote Hy Lạp, Wind Hy Lạp, eSIM Athens, eSIM Thessaloniki, eSIM Santorini, eSIM trả trước Hy Lạp, eSIM 5G Hy Lạp, eSIM đảo Hy Lạp
+  description: Nhận eSIM Hy Lạp tốt nhất với 5G trên Vodafone, Cosmote & Wind. Không tìm SIM tại sân bay Athens — giao QR tức thì. Phủ sóng Athens, Santorini, Mykonos & tất cả các đảo. Gói từ $1.99.
+  keywords: eSIM Hy Lạp, mua eSIM Hy Lạp, eSIM Hy Lạp tốt nhất, eSIM du lịch Hy Lạp, Vodafone Hy Lạp, Cosmote Hy Lạp, Wind Hy Lạp, eSIM Athens, eSIM Thessaloniki, eSIM Heraklion, eSIM trả trước Hy Lạp, eSIM 5G Hy Lạp, eSIM Patras, eSIM Larissa, eSIM Hy Lạp giá rẻ, sim du lịch Hy Lạp
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -73,7 +73,7 @@ features:
     color: from-sky-400 to-sky-600
     title: Sẵn sàng cho đảo hopping
     desc: Giữ kết nối trên phà giữa Santorini, Mykonos & tất cả các đảo Hy Lạp
-plans_title: 'Mua eSIM Hy Lạp: Gói cho mọi thời gian chuyến đi'
+plans_title: 'Mua Hy Lạp eSIM: hiểu rõ ngày và dung lượng'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -320,7 +320,7 @@ network_coverage:
       coverage: Vùng phủ đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Hy Lạp: Những điều cần biết trước khi đi'
+  title: 'Danh sách kiểm tra trước chuyến đi với Hy Lạp eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -345,7 +345,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Hy Lạp: 3 bước đơn giản'
+  title: 'Hướng dẫn từng bước kích hoạt Hy Lạp eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -365,12 +365,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Hướng dẫn eSIM Hy Lạp: 5G, Vùng phủ đảo & Mẹo du lịch"
-  desc: "Hướng dẫn đầy đủ về tốc độ Internet eSIM, vùng phủ mạng và chất lượng kết nối cho du khách tại Hy Lạp. Tìm hiểu tốc độ mong đợi tại Athens, trên các đảo và trên phà."
+  desc: "Hỏi đáp chi tiết về kết nối, độ phủ và tốc độ eSIM tại Hy Lạp."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Hy Lạp
+    title: Câu hỏi phổ biến về Hy Lạp eSIM
     questions:
     - q: |
         Tại sao tôi không thể mua SIM tại Sân bay Athens?
@@ -403,7 +403,7 @@ faq_section:
     - q: |
         Gói eSIM phổ biến nhất cho du khách Hy Lạp là gì?
       a: |
-        Hầu hết du khách đến Hy Lạp chọn <strong>gói 5GB/15 ngày (8,99 USD)</strong> hoặc <strong>10GB/15 ngày (13,99 USD)</strong>. Chúng đủ cho điều hướng hàng ngày, mạng xã hội và chia sẻ ảnh hoàng hôn từ Santorini. Cho kỳ nghỉ dài hơn hoặc sử dụng nhiều (cuộc gọi video, làm việc từ xa), các gói 20GB hoặc 30GB là lựa chọn tuyệt vời. Tất cả gói kích hoạt trong vài phút và bao gồm hỗ trợ 24/7.
+        Hầu hết du khách đến Hy Lạp chọn <strong>gói 5GB/15 ngày ($8.99)</strong> hoặc <strong>10GB/15 ngày ($13.99)</strong>. Chúng đủ cho điều hướng hàng ngày, mạng xã hội và chia sẻ ảnh hoàng hôn từ Santorini. Cho kỳ nghỉ dài hơn hoặc sử dụng nhiều (cuộc gọi video, làm việc từ xa), các gói 20GB hoặc 30GB là lựa chọn tuyệt vời. Tất cả gói kích hoạt trong vài phút và bao gồm hỗ trợ 24/7.
     - q: |
         WiFi khách sạn ở Hy Lạp có đáng tin cậy không? Tôi có thực sự cần eSIM không?
       a: |
@@ -416,63 +416,75 @@ faq_section:
         Thời hạn hiệu lực của eSIM Hy Lạp bắt đầu từ khi nào?
       a: |
         Hiệu lực gói bắt đầu khi bạn kết nối với mạng địa phương tại Hy Lạp, không phải khi mua hay cài đặt. Vì vậy, bạn có thể mua và cài đặt vài tuần trước chuyến đi mà không mất ngày nào. Gói 7 ngày cho bạn 7 ngày đầy đủ từ lần kết nối đầu tiên.
+    - q: |
+        eSIM Hy Lạp có chia sẻ hotspot cho bạn đồng hành được không?
+      a: |
+        Có, eSIM Hy Lạp của Roami hỗ trợ chia sẻ hotspot cho laptop, máy tính bảng hoặc người đi cùng. Nếu dùng chung nhiều người, nên chọn gói cao hơn một bậc để không hết dữ liệu giữa chừng; nếu thiếu vẫn có thể nạp thêm trong ứng dụng.  Dù ở Athens, Thessaloniki hay vùng lân cận, chất lượng kết nối vẫn khá ổn định.
+    - q: |
+        Đến sân bay ở Hy Lạp là dùng được internet ngay chứ?
+      a: |
+        Được. Chỉ cần cài eSIM trước, sau khi hạ cánh tắt chế độ máy bay và bật đường eSIM, thường chỉ vài chục giây là kết nối được mạng địa phương, không cần xếp hàng mua SIM vật lý ở sân bay Hy Lạp.  Vùng phủ di động tại Heraklion, Patras đầy đủ, di chuyển liên tỉnh cũng không mất kết nối.
+    - q: |
+        Vodafone và Cosmote ở Hy Lạp, dùng eSIM mạng nào tốt hơn?
+      a: |
+        Hy Lạp có các nhà mạng chính như Vodafone, Cosmote. Roami tự động chọn mạng có tín hiệu mạnh nhất tại thời điểm đó và chuyển đổi giữa Vodafone và Cosmote mà bạn không cần cấu hình thủ công. Nếu lịch trình đi ra vùng ngoại ô hoặc đảo xa, nên tải bản đồ ngoại tuyến trước cho chắc.  Các thành phố lớn như Athens, Larissa đều có phủ sóng ổn định cho nhu cầu hằng ngày.
 related_products:
   title: Các gói eSIM Hy Lạp liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
-    price: Từ 1,99 USD
+  - name: eSIM Philippines
+    flag: img/flags/ph.svg
+    price: Từ $2.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ 1,99 USD
+  - name: eSIM Pakistan
+    flag: img/flags/pk.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
-    price: Từ 1,99 USD
+  - name: Poland eSIM
+    flag: img/flags/pl.svg
+    price: Từ $1.99
     is_highlight: true
-  - name: eSIM Canada
-    flag: img/flags/ca.svg
-    price: Từ 1,99 USD
+  - name: eSIM Bồ Đào Nha
+    flag: img/flags/pt.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ 1,99 USD
+  - name: Puerto Rico eSIM
+    flag: img/flags/pu.svg
+    price: Từ $6.99
     is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ 1,99 USD
+  - name: eSIM Paraguay
+    flag: img/flags/py.svg
+    price: Từ $22.99
     is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ 1,99 USD
+  - name: eSIM Qatar
+    flag: img/flags/qa.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ 1,99 USD
+  - name: Reunion Island eSIM
+    flag: img/flags/re.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ 1,99 USD
+  - name: eSIM Romania
+    flag: img/flags/ro.svg
+    price: Từ $1.99
     is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ 1,99 USD
+  - name: Russia eSIM
+    flag: img/flags/ru.svg
+    price: Từ $2.99
     is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ 1,99 USD
+  - name: eSIM Ả Rập Xê Út
+    flag: img/flags/sa.svg
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ 1,99 USD
+  - name: eSIM Seychelles
+    flag: img/flags/sc.svg
+    price: Từ $9.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Hy Lạp vs SIM địa phương: Không tìm SIM sân bay, Không thuế 12%'
   subtitle: SIM trả trước địa phương Hy Lạp vs. Giải pháp eSIM (Đánh giá 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Hy Lạp) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Greece
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)

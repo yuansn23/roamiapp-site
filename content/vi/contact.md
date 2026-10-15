@@ -11,7 +11,7 @@ seo:
   description: "Cần trợ giúp với eSIM du lịch trả trước? Liên hệ Roami bất kỳ lúc nào để được hỗ trợ kích hoạt, hoàn tiền & các câu hỏi về du lịch. Chúng tôi luôn sẵn sàng 24/7 để hỗ trợ bạn."
   image: "/img/og-contact.jpg"
 
-# JSON-LD Schema (YAML object – 输出时将自动转为合法 JSON，不再被引号包裹)
+# JSON-LD Schema (YAML object –  JSON，)
 schema:
   "@context": "https://schema.org"
   "@type": "WebPage"

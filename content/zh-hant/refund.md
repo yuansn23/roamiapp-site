@@ -11,7 +11,7 @@ seo:
   description: "Roami提供公平透明的退款政策，方案不符需求可申請退款，購買安心有保障。5G高速上網吃到飽方案最低$1.99起，出國旅行上網超值推薦首選，完全無後顧之憂。"
   image: "/img/og-refund.jpg"
 
-# JSON-LD Schema（注意：这是 YAML 对象，不是多行字符串）
+# JSON-LD Schema（注意：這是 YAML 對象，不是多行字符串）
 schema:
   "@context": "https://schema.org"
   "@type": "WebPage"

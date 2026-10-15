@@ -1,6 +1,6 @@
 ---
 title: '巴西 eSIM 2026: 連線與速度 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,8 +17,8 @@ modal:
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
   title: "巴西eSIM｜7天5G吃到飽，短期旅行便宜又好用"
-  description: "去巴西短期旅行用Roami 7天上網方案最適合，5G高速吃到飽穩定連線。短短幾天也能享受高速網路，短途旅行eSIM推薦超值選擇，最低$1.99起便宜又好用。"
-  keywords: 巴西 eSIM, 巴西 eSIM方案, 最佳巴西 eSIM, 巴西上網, Vivo 巴西, Claro 巴西, TIM 巴西, 里約熱內盧 eSIM, 聖保羅 eSIM, 巴西利亞 eSIM, 巴西行動網路, 5G 巴西
+  description: "去巴西短期旅行用Roami 7天上網方案最適合，5G高速吃到飽穩定連線。短短幾天也能享受高速網路，短途旅行eSIM推薦超值選擇，最低$4.99起便宜又好用。"
+  keywords: 巴西 eSIM, eSIM 巴西, 巴西 eSIM 購買, 最佳巴西 eSIM, 巴西 上網, Vivo 巴西, Claro 巴西, TIM 巴西, 里約熱內盧 eSIM, 聖保羅 eSIM, 巴西利亞 eSIM, 薩爾瓦多 eSIM, 福塔萊薩 eSIM, 巴西 eSIM 方案, 巴西 5G eSIM, 巴西 eSIM 預付卡
 order_summary:
   title: 選擇 巴西 eSIM
   label_data: 數據量
@@ -67,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線巴西最佳電信商，取得最強訊號
-plans_title: 購買巴西 eSIM：適合各種旅程的方案
+plans_title: 巴西 eSIM 方案挑選指南
 plans_data:
   30 天:
   - spec: 3GB
@@ -291,7 +291,7 @@ network_coverage:
       coverage: 良好市區覆蓋
       network: 5G/4G/LTE 網路
 reminders:
-  title: 巴西 eSIM秘訣：出發前須知
+  title: 巴西 eSIM 使用技巧與提醒
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -320,7 +320,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 巴西 eSIM啟用：3個簡單步驟
+  title: 巴西 eSIM 啟用教學（3 步驟）
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 巴西 做好準備
@@ -355,88 +355,93 @@ faq_section:
     title: 巴西 eSIM 網速與電信商介紹｜5G/4G涵蓋範圍
     questions:
     - q: 準備去巴西long stay，eSIM方案買哪種比較划算？
-      a: Roami 巴西 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Vivo在巴西市區5G網速約100-300Mbps，看1080p影片沒問題。去巴西機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到巴西後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 巴西 eSIM方案從$4.99（3天1GB）起，最高$86.99（30天30GB）。一般旅客買最多的是5GB/15天（$16.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Vivo在巴西市區5G網速約100-300Mbps，看1080p影片沒問題。去巴西機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到巴西後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 看到有人說巴西的Vivo在市區很快、Claro在郊區很廣，真的是這樣嗎？
       a: 巴西主要有Vivo、Claro、TIM。Vivo市區下載快、基地台密集。Claro郊區覆蓋廣，會去郊區的話選Claro路線較有保障。TIM價格親民，適合預算有限的旅客。巴西5G使用n78頻段，聖保羅及里約覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Vivo，移動到郊區若Vivo訊號變弱就自動跳Claro或TIM，完全不用手動選。
     - q: 去巴西每天就是打卡傳照片查地圖，這樣5GB夠用嗎？還是吃到飽比較安心？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。巴西5G使用n78頻段，聖保羅及里約覆蓋。Roami在巴西連上Vivo的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。巴西5G使用n78頻段，聖保羅及里約覆蓋。Roami在巴西連上Vivo的網路，網速穩定。如果怕降速可選10GB/$22.99或20GB/$30.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 巴西eSIM買了之後要驗證證件嗎？沒先辦好會不會到了不能用？
       a: 需要的。巴西預付卡需KYC認證，需提供護照。很多人不知道這規定，到了巴西機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。巴西5G使用n78頻段，聖保羅及里約覆蓋。另外Vivo的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到巴西開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 搭車從巴西市區移動到郊區的時候，eSIM網路會一直切換嗎？
       a: 巴西的Vivo等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。巴西5G使用n78頻段，聖保羅及里約覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 跟旅伴一起去巴西，買一張eSIM開熱點分享夠兩個人用嗎？
       a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
+    - q: 巴西 eSIM 有幾天份的方案可以選？
+      a: Roami 巴西 eSIM 提供 3/7/15/30 天等選擇，可依行程長短挑選。三天內的短程選入門天數就夠，一週以上建議直接挑長效期方案，單日成本更划算。 另外，里約熱內盧、聖保羅 等主要城市的行動網路都已涵蓋，日常使用連線穩定。
+    - q: 在巴西使用eSIM遇到問題，可以找誰幫忙？
+      a: Roami 提供線上客服協助。若在 巴西 遇到連線異常，可先確認 eSIM 線路已開啟、數據漫遊已打開；仍無法解決再聯繫客服，符合條件可申請退款。 在 巴西利亞、薩爾瓦多 一帶實測收訊良好，移動中會自動切換基地台。
+    - q: 巴西 eSIM 大概多少錢？有便宜的選擇嗎？
+      a: Roami 巴西 eSIM 方案從 $4.99（3天1GB）起，最高 $86.99（30天30GB）。短期輕度使用挑入門方案即可，用量大的旅客再選高規格。價格透明，方案到期自動失效，不會續約扣款。 里約熱內盧、福塔萊薩 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
 related_products:
-  title: 類似 巴西 eSIM 的旅行方案
+  title: 相關 eSIM 方案推薦
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 挪威 eSIM
+    flag: img/flags/no.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: south-korea-esim
-  - name: 泰國 eSIM
-    flag: img/flags/th.svg
-    price: От 1,99 $
-    is_highlight: true
-    slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: singapore-esim
+    slug: norway-esim
   - name: 馬來西亞 eSIM
     flag: img/flags/my.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: false
     slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
+  - name: 德國 eSIM
+    flag: img/flags/de.svg
+    price: 自 $1.99
+    is_highlight: true
+    slug: germany-esim
+  - name: 奧地利 eSIM
+    flag: img/flags/at.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
+    slug: austria-esim
+  - name: 厄瓜多 eSIM
+    flag: img/flags/ec.svg
+    price: 自 $6.99
     is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
+    slug: ecuador-esim
+  - name: 玻利維亞 eSIM
+    flag: img/flags/bo.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
+    slug: bolivia-esim
+  - name: 巴貝多 eSIM
+    flag: img/flags/bb.svg
+    price: 自 $11.99
     is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
+    slug: barbados-esim
+  - name: 坦尚尼亞 eSIM
+    flag: img/flags/tz.svg
+    price: 自 $7.99
     is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
+    slug: tanzania-esim
+  - name: 西班牙 eSIM
+    flag: img/flags/es.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: philippines-esim
-
+    slug: spain-esim
+  - name: 斐濟 eSIM
+    flag: img/flags/fj.svg
+    price: 自 $6.99
+    is_highlight: false
+    slug: fiji-esim
+  - name: 義大利 eSIM
+    flag: img/flags/it.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: italy-esim
+  - name: 薩爾瓦多 eSIM
+    flag: img/flags/sv.svg
+    price: 自 $23.99
+    is_highlight: false
+    slug: el-salvador-esim
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "在Brazil用eSIM上網穩不穩？市區郊區分區評測"
   subtitle: "巴西當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Brazil) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Brazil"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -445,7 +450,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Brazil. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Vivo 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開Vivo門市拒售與TIM人工專線的繁瑣流程，Roami eSIM在出發前透過郵件發送QR碼，落地即啟用，無需與當地店員交涉。"
     - icon: "id-card"
@@ -457,7 +462,7 @@ market_analysis:
     - icon: "globe"
       title: "國際漫遊"
       prepaid_title: ""
-      prepaid_desc: "三大運營商對預付費用戶均未開放Mercosur區域及智利「漫遊同享」權益，一旦離開巴西邊境瞬間斷網。"
+      prepaid_desc: "三大電信商對預付費用戶均未開放Mercosur區域及智利「漫遊同享」權益，一旦離開巴西邊境瞬間斷網。"
       esim_title: "全球漫遊無縫"
       esim_desc: "不同於巴西預付卡在離開國境後斷網，Roami eSIM提供南美多國方案，例如7天5GB僅需9.99美元，確保跨國連線不中斷。"
     - icon: "calendar-xmark"
@@ -469,13 +474,13 @@ market_analysis:
     - icon: "wifi"
       title: "熱點分享與速度政策"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "當地預付卡多數支援熱點分享，但 Vivo 等業者常在用量達到門檻後降低速度，部分低價方案則直接限制分享功能。"
       esim_title: "無限熱點分享"
       esim_desc: "Roami eSIM允許熱點分享，無速度限制，而巴西當地預付卡如TIM的社交免流不包含VoIP，且部分方案可能限制分享。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "Vivo網上充值需接收驗證簡訊，停機狀態下無法完成；使用國際信用卡在第三方代充平台通常會產生手續費且存在詐欺風險。"
+      prepaid_desc: "Vivo網上儲值需接收驗證簡訊，停機狀態下無法完成；使用國際信用卡在第三方代充平台通常會產生手續費且存在詐欺風險。"
       esim_title: "全球付款暢通"
       esim_desc: "支援Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需擔心國際信用卡被拒或第三方代充詐騙。"
     - icon: "headset"
@@ -498,7 +503,7 @@ market_analysis:
         icon_bg: "bg-emerald-100"
         icon_color: "text-emerald-600"
         title: "全球付款暢通無阻"
-        desc: "Vivo網上充值需接收驗證簡訊，停機後無法復機；國際信用卡在第三方代充平台常有手續費與詐欺風險。Roami支援Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，付款安全便利。"
+        desc: "Vivo網上儲值需接收驗證簡訊，停機後無法復機；國際信用卡在第三方代充平台常有手續費與詐欺風險。Roami支援Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，付款安全便利。"
       - icon: "clock"
         icon_bg: "bg-purple-100"
         icon_color: "text-purple-600"

@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Morocco 2026: Hướng dẫn Du lịch & Mạng | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Morocco | Gói dữ liệu trả trước tốt nhất cho du lịch
   description: Lên kế hoạch cho chuyến đi Morocco? Nhận eSIM du lịch trả trước tốt nhất từ Roami với dữ liệu 5G không giới hạn. Phủ sóng Casablanca, Marrakech và Rabat. Kích hoạt tức thì.
-  keywords: eSIM Morocco, mua eSIM Morocco, eSIM Morocco tốt nhất, eSIM du lịch Morocco, Orange Morocco, Maroc Telecom Morocco, Inwi Morocco, eSIM Casablanca, eSIM Marrakech, eSIM Fes, eSIM trả trước Morocco, eSIM 5G Morocco
-  low_price: 1.99
-  high_price: 39.9
+  keywords: eSIM Morocco, mua eSIM Morocco, eSIM Morocco tốt nhất, eSIM du lịch Morocco, Orange Morocco, Maroc Telecom Morocco, Inwi Morocco, eSIM Casablanca, eSIM Marrakech, eSIM Fes, eSIM trả trước Morocco, eSIM 5G Morocco, eSIM Tangier, eSIM Agadir, eSIM Morocco giá rẻ, sim du lịch Morocco
+  low_price: 3.99
+  high_price: 94.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -69,7 +69,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Tự động chuyển mạng
     desc: Tự động kết nối với nhà mạng hàng đầu Morocco để có tín hiệu tốt nhất
-plans_title: 'Mua eSIM Morocco: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Chọn nhanh gói Morocco eSIM'
 plans_data:
   7 Ngày:
   - spec: 1GB
@@ -300,7 +300,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Morocco: Những điều cần biết trước khi đi'
+  title: 'Hướng dẫn sử dụng Morocco eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -319,7 +319,7 @@ reminders:
     code: '*#06#'
     result_html: Nếu số <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> xuất hiện trên màn hình, thiết bị của bạn được hỗ trợ!
 activation_steps:
-  title: 'Cách cài đặt eSIM Morocco: 3 bước đơn giản'
+  title: 'Toàn bộ quy trình cài đặt Morocco eSIM'
   steps:
   - num: '1'
     title: 'Bước 1: Nhận mã QR'
@@ -339,12 +339,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Kết nối Internet tại Morocco -- Hướng dẫn chất lượng mạng và tốc độ eSIM"
-  desc: "Hướng dẫn đầy đủ về tốc độ internet eSIM, phủ sóng mạng và chất lượng kết nối cho du khách tại Morocco. Tìm hiểu tốc độ bạn có thể mong đợi và nơi eSIM hoạt động tốt nhất."
+  desc: "Giải đáp thắc mắc về kết nối và độ phủ sóng eSIM tại Morocco."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Chung
-    title: Câu hỏi thường gặp về eSIM Morocco
+    title: Thắc mắc cần biết về Morocco eSIM
     questions:
     - q: |
         Nhà mạng nào ở Morocco tôi nên dựa vào cho eSIM của mình?
@@ -353,7 +353,7 @@ faq_section:
     - q: |
         Tôi có thể mua eSIM cho Morocco mà không tốn quá nhiều không?
       a: |
-        Chắc chắn rồi. Gói eSIM Morocco của Roami bắt đầu từ chỉ $1.99. Gói 5GB/15 ngày ($9.99) là lựa chọn phổ biến nhất — nó đáp ứng thoải mái cho bản đồ, WhatsApp, Instagram và email. Nếu bạn là người dùng dữ liệu nhiều, gói 10GB ($14.99) hoặc không giới hạn ($59.99) sẽ giúp bạn an tâm. Bỏ qua quầy SIM sân bay giúp bạn tiết kiệm 30-50% và tránh xếp hàng. Cần điều chỉnh? Bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng Roami.
+        Chắc chắn rồi. Gói eSIM Morocco của Roami bắt đầu từ chỉ $3.99. Gói 5GB/15 ngày ($13.99) là lựa chọn phổ biến nhất — nó đáp ứng thoải mái cho bản đồ, WhatsApp, Instagram và email. Nếu bạn là người dùng dữ liệu nhiều, gói 10GB ($18.99) hoặc không giới hạn ($94.99) sẽ giúp bạn an tâm. Bỏ qua quầy SIM sân bay giúp bạn tiết kiệm 30-50% và tránh xếp hàng. Cần điều chỉnh? Bạn có thể nạp thêm bất kỳ lúc nào từ ứng dụng Roami.
     - q: |
         So sánh Roami với Airalo cho eSIM ở Morocco như thế nào?
       a: |
@@ -378,63 +378,75 @@ faq_section:
         Tôi có thể lưu bao nhiêu hồ sơ eSIM trên điện thoại để đi du lịch Morocco?
       a: |
         Hầu hết điện thoại lưu được 5-10 hồ sơ eSIM. Bạn có thể giữ eSIM Morocco cùng với SIM nhà mạng và các hồ sơ quốc gia khác. Chỉ cần kích hoạt cái bạn cần và tắt những cái khác. Chuyển đổi giữa chúng mất khoảng 10 giây trong cài đặt điện thoại.
+    - q: |
+        Đi Morocco vài ngày thì nên chọn gói eSIM dung lượng bao nhiêu?
+      a: |
+        eSIM Morocco của Roami có các mức 1GB, 3GB, 5GB, 10GB, Không giới hạn, 20GB. Chuyến ngắn, chỉ tra bản đồ và nhắn tin thì 1GB là đủ; nếu xem video ngắn, gọi video hoặc chia sẻ hotspot, bạn nên chọn mức cao hơn một bậc. Nếu chưa chắc về nhu cầu, có thể mua gói nhỏ rồi nạp thêm trong ứng dụng sau khi đến Morocco, không cần đổi SIM.  Các thành phố lớn như Casablanca, Marrakech đều có phủ sóng ổn định cho nhu cầu hằng ngày.
+    - q: |
+        Kích hoạt eSIM Morocco như thế nào? Có phải đợi đến nơi mới bật?
+      a: |
+        Bạn nên quét mã QR cài đặt cấu hình qua WiFi trước chuyến đi, khi đến Morocco thì bật đường eSIM và mở chuyển vùng dữ liệu; máy sẽ tự kết nối mạng địa phương và thời hạn của gói bắt đầu tính từ lúc đó.  Tại khu vực Fes, Tangier, tín hiệu thực tế tốt và máy tự chuyển trạm khi di chuyển.
+    - q: |
+        Đến sân bay ở Morocco là dùng được internet ngay chứ?
+      a: |
+        Được. Chỉ cần cài eSIM trước, sau khi hạ cánh tắt chế độ máy bay và bật đường eSIM, thường chỉ vài chục giây là kết nối được mạng địa phương, không cần xếp hàng mua SIM vật lý ở sân bay Morocco.  Casablanca, Agadir và các điểm đến phổ biến khác đều được phủ sóng đầy đủ, dẫn đường và gọi xe đều mượt.
 related_products:
   title: Gói eSIM Morocco liên quan
   items:
-  - name: eSIM Hoa Kỳ
-    flag: img/flags/us.svg
+  - name: eSIM Bỉ
+    flag: img/flags/be.svg
     price: Từ $1.99
     is_highlight: false
-  - name: Vương quốc Anh
-    flag: img/flags/gb.svg
-    price: Từ $1.99
+  - name: eSIM Burkina Faso
+    flag: img/flags/bf.svg
+    price: Từ $11.99
     is_highlight: false
-  - name: eSIM Châu Âu
-    flag: img/flags/eu.svg
+  - name: eSIM Bulgaria
+    flag: img/flags/bg.svg
     price: Từ $1.99
     is_highlight: true
+  - name: eSIM Bahrain
+    flag: img/flags/bh.svg
+    price: Từ $6.99
+    is_highlight: false
+  - name: eSIM Brunei
+    flag: img/flags/bn.svg
+    price: Từ $9.99
+    is_highlight: false
+  - name: eSIM Bolivia
+    flag: img/flags/bo.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Brazil
+    flag: img/flags/br.svg
+    price: Từ $4.99
+    is_highlight: false
+  - name: eSIM Bahamas
+    flag: img/flags/bs.svg
+    price: Từ $16.99
+    is_highlight: false
+  - name: eSIM Botswana
+    flag: img/flags/bw.svg
+    price: Từ $14.99
+    is_highlight: false
+  - name: eSIM Belarus
+    flag: img/flags/by.svg
+    price: Từ $1.99
+    is_highlight: false
   - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: Từ $1.99
+    price: Từ $3.99
     is_highlight: false
-  - name: eSIM Thổ Nhĩ Kỳ
-    flag: img/flags/tr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Trung Quốc
-    flag: img/flags/cn.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Nhật Bản
-    flag: img/flags/jp.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Hồng Kông
-    flag: img/flags/hk.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Pháp
-    flag: img/flags/fr.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Tây Ban Nha
-    flag: img/flags/es.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Đức
-    flag: img/flags/de.svg
-    price: Từ $1.99
-    is_highlight: false
-  - name: eSIM Úc
-    flag: img/flags/au.svg
-    price: Từ $1.99
+  - name: eSIM Congo (Kinshasa)
+    flag: img/flags/cg.svg
+    price: Từ $7.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Morocco hay SIM vật lý: Lựa chọn tốt nhất năm 2026 là gì?'
   subtitle: SIM trả trước địa phương Morocco so với giải pháp eSIM (Đối sánh 2024/2025)
   citation:
-    text: 'Nguồn dữ liệu: Prepaid Data SIM Card Wiki (Morocco) + Trang web nhà mạng địa phương'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Morocco
+    text: 'Nguồn dữ liệu: GSMA Mobile Connectivity Index + Trang web chính thức của nhà mạng địa phương'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Ma trận so sánh
   - SIM trả trước địa phương (Dữ liệu thị trường)
@@ -455,7 +467,7 @@ market_analysis:
   - icon: globe
     title: Chuyển vùng<br>quốc tế
     prepaid_title: ''
-    prepaid_desc: Không có dữ liệu cụ thể trong nguồn cho tiêu chí này. Theo kiến thức chung, SIM trả trước Morocco thường không bao gồm chuyển vùng quốc tế miễn phí; các gói bổ sung chuyển vùng có thể có sẵn với chi phí thêm.
+    prepaid_desc: Theo kiến thức chung, SIM trả trước Morocco thường không bao gồm chuyển vùng quốc tế miễn phí; các gói bổ sung chuyển vùng có thể có sẵn với chi phí thêm.
     esim_title: Sẵn sàng chuyển vùng toàn cầu
     esim_desc: Tránh giới hạn 128 kbps của Inwi sau 400MB mỗi ngày. Roami eSIM cung cấp dữ liệu minh bạch không giới hạn FUP và hỗ trợ chuyển vùng đa quốc gia trên khắp Bắc Phi.
   - icon: calendar-xmark
@@ -463,7 +475,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Maroc Telecom cung cấp 50 DHS/5GB cho 30 ngày, Orange 50 DHS/5GB cho 30 ngày, Inwi 50 DHS/5GB cho 30 ngày; du khách 7 ngày mua gói 30 ngày lãng phí hơn 70% giá trị gói.
     esim_title: Gói ngắn hạn linh hoạt
-    esim_desc: Không như chu kỳ 30 ngày của Orange (50 DHS/5GB) lãng phí 70% cho chuyến đi 7 ngày, Roami cung cấp gói 7 ngày từ $1.99/GB, tiết kiệm tiền và dữ liệu.
+    esim_desc: Không như chu kỳ 30 ngày của Orange (50 DHS/5GB) lãng phí 70% cho chuyến đi 7 ngày, Roami cung cấp gói 7 ngày từ $3.99/GB, tiết kiệm tiền và dữ liệu.
   - icon: wifi
     title: Chia sẻ kết nối &<br>Chính sách tốc độ
     prepaid_title: ''
@@ -499,7 +511,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Loại bỏ 70% chi phí chìm với gói 30 ngày
-      desc: Du khách 7 ngày mua gói 30 ngày <b>50 DHS/5GB</b> của <b>Maroc Telecom</b> lãng phí hơn <b>70%</b> giá trị. Gói 7 ngày của Roami từ <b>$1.99/GB</b> khớp với thời gian chuyến đi của bạn.
+      desc: Du khách 7 ngày mua gói 30 ngày <b>50 DHS/5GB</b> của <b>Maroc Telecom</b> lãng phí hơn <b>70%</b> giá trị. Gói 7 ngày của Roami từ <b>$3.99/GB</b> khớp với thời gian chuyến đi của bạn.
     - icon: tower-observation
       icon_bg: bg-rose-100
       icon_color: text-rose-600

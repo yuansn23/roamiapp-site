@@ -643,3 +643,9 @@ other = "Seyahat eSIM Rehberleri"
 
 [author_bio]
 other = "Roami, seyahatte bağlantıya odaklanan küresel bir eSIM operatörüdür. Bu rehber; ağ verileri, operatör ve üretici resmî dokümanları ve gezginlerin sorularından derlenmiştir."
+
+[more_faqs]
+other = "Daha Fazla eSIM Rehberi"
+
+[more_faqs_desc]
+other = "Roami yardım merkezi'nden kurulum, uyumluluk ve sorun giderme rehberleri."

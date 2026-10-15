@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Iceland - 5G tại Reykjavik & Vòng Tròn Vàng | Không cần tìm SIM | Roami'
-date: '2026-09-06T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,9 +18,9 @@ modal:
 seo:
   title: eSIM Iceland - Gói dữ liệu trả trước tốt nhất cho nhà thám hiểm
   description: Nhận eSIM Iceland tốt nhất với 5G trên Síminn, Vodafone & Telenor. Không cần đăng ký hộ chiếu — giao QR tức thì. Phủ sóng Reykjavik, Vòng Tròn Vàng & Ring Road. Gói từ $1.99.
-  keywords: eSIM Iceland, mua eSIM Iceland, eSIM Iceland tốt nhất, eSIM du lịch Iceland, Síminn Iceland, Vodafone Iceland, Telenor Iceland, eSIM Reykjavik, eSIM Akureyri, eSIM Vòng Tròn Vàng, eSIM trả trước Iceland, eSIM 5G Iceland, eSIM Ring Road
+  keywords: eSIM Iceland, mua eSIM Iceland, eSIM Iceland tốt nhất, eSIM du lịch Iceland, Síminn Iceland, Vodafone Iceland, Telenor Iceland, eSIM Reykjavik, eSIM Akureyri, eSIM Keflavik, eSIM trả trước Iceland, eSIM 5G Iceland, eSIM Selfoss, eSIM Vik, eSIM Iceland giá rẻ, sim du lịch Iceland
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Gói đã chọn
   label_data: Dữ liệu bao gồm
@@ -73,7 +73,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Sẵn sàng cho Ring Road
     desc: Phủ sóng 4G/5G dọc theo Ring Road — luôn kết nối từ Reykjavik đến Akureyri
-plans_title: 'Mua eSIM Iceland: Gói cước cho mọi thời gian chuyến đi'
+plans_title: 'Chọn một Iceland eSIM phù hợp hành trình'
 plans_data:
   3 Ngày:
   - spec: 1GB
@@ -320,7 +320,7 @@ network_coverage:
       coverage: Phủ sóng đô thị tốt
       network: Mạng 5G/4G/LTE
 reminders:
-  title: 'Mẹo thiết lập eSIM Iceland: Những điều cần biết trước khi đi'
+  title: 'Tổng hợp lưu ý thực tế cho Iceland eSIM'
   items:
   - icon: 📱
     html: Đảm bảo điện thoại của bạn <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">tương thích eSIM</a> trước khi mua.
@@ -336,4 +336,55 @@ reminders:
     html: <span class="font-medium">Không cần hộ chiếu:</span> Iceland yêu cầu đăng ký hộ chiếu cho SIM địa phương. Roami <span class="font-bold">không cần bất kỳ giấy tờ tùy thân</span> — không thủ tục giấy tờ, không đến cửa hàng.
   - icon: 🛣️
     html: <span class="font-medium">Phủ sóng Ring Road:</span> 4G dọc theo hầu hết Tuyến 1 — luôn kết nối từ Reykjavik đến Akureyri. Một số vùng chết ở các vịnh hẻo lá
+related_products:
+  title: Các gói eSIM Iceland liên quan
+  items:
+  - name: eSIM Síp
+    flag: img/flags/cy.svg
+    price: Từ $2.99
+    is_highlight: false
+  - name: eSIM Cộng hòa Séc
+    flag: img/flags/cz.svg
+    price: Từ $1.99
+    is_highlight: false
+  - name: eSIM Đức
+    flag: img/flags/de.svg
+    price: Từ $1.99
+    is_highlight: true
+  - name: eSIM Đan Mạch
+    flag: img/flags/dk.svg
+    price: Từ $1.99
+    is_highlight: false
+  - name: eSIM Dominica
+    flag: img/flags/dm.svg
+    price: Từ $11.99
+    is_highlight: false
+  - name: eSIM Cộng hòa Dominica
+    flag: img/flags/do.svg
+    price: Từ $5.99
+    is_highlight: false
+  - name: eSIM Algeria
+    flag: img/flags/dz.svg
+    price: Từ $3.99
+    is_highlight: false
+  - name: eSIM Ecuador
+    flag: img/flags/ec.svg
+    price: Từ $6.99
+    is_highlight: false
+  - name: eSIM Estonia
+    flag: img/flags/ee.svg
+    price: Từ $1.99
+    is_highlight: false
+  - name: eSIM Ai Cập
+    flag: img/flags/eg.svg
+    price: Từ $2.99
+    is_highlight: false
+  - name: Spain eSIM
+    flag: img/flags/es.svg
+    price: Từ $1.99
+    is_highlight: false
+  - name: eSIM Phần Lan
+    flag: img/flags/fi.svg
+    price: Từ $1.99
+    is_highlight: false
 ---

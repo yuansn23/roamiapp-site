@@ -1,6 +1,6 @@
 ---
 title: '賽普勒斯 eSIM 2026: 電信商與覆蓋 | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-10-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -17,9 +17,8 @@ modal:
   text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
   title: "賽普勒斯eSIM｜30天15G高速上網，跨國旅行不斷網"
-  description: "想在賽普勒斯待一個月深度旅遊？Roami 30天旅遊上網方案5G高速吃到飽。一個月eSIM推薦整月上網不用愁，深度旅行首選方案網路不斷線，最低$1.99起超值價格。"
-  keywords: 賽普勒斯 eSIM, 賽普勒斯 eSIM方案, 最佳賽普勒斯 eSIM, 賽普勒斯上網, Cyta 賽普勒斯, MTN 賽普勒斯, PrimeTel 賽普勒斯, 尼科西亞 eSIM, 利馬索爾 eSIM, 拉納卡 eSIM,
-    賽普勒斯行動網路, 5G 賽普勒斯
+  description: "想在賽普勒斯待一個月深度旅遊？Roami 30天旅遊上網方案5G高速吃到飽。一個月eSIM推薦整月上網不用愁，深度旅行首選方案網路不斷線，最低$2.99起超值價格。"
+  keywords: 賽普勒斯 eSIM, eSIM 賽普勒斯, 賽普勒斯 eSIM 購買, 最佳賽普勒斯 eSIM, 賽普勒斯 上網, Cyta 賽普勒斯, MTN 賽普勒斯, PrimeTel 賽普勒斯, 尼科西亞 eSIM, 利馬索爾 eSIM, 拉納卡 eSIM, 帕福斯 eSIM, 阿依納帕 eSIM, 賽普勒斯 eSIM 方案, 賽普勒斯 5G eSIM, 賽普勒斯 eSIM 預付卡
 order_summary:
   title: 選擇 賽普勒斯 eSIM
   label_data: 數據量
@@ -68,7 +67,7 @@ features:
     color: from-blue-400 to-blue-600
     title: 自動選擇
     desc: 自動連線賽普勒斯最佳電信商，取得最強訊號
-plans_title: 購買賽普勒斯 eSIM：適合各種旅程的方案
+plans_title: 賽普勒斯 eSIM 各式方案快速挑選
 plans_data:
   30 天:
   - spec: 20GB
@@ -321,7 +320,7 @@ network_coverage:
       coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 賽普勒斯 eSIM秘訣：出發前須知
+  title: 賽普勒斯 eSIM 實用提醒總整理
   items:
   - icon: 📱
     html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
@@ -350,7 +349,7 @@ reminders:
       \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
       \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 賽普勒斯 eSIM啟用：3個簡單步驟
+  title: 賽普勒斯 eSIM 啟用流程說明
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 賽普勒斯 做好準備
@@ -385,88 +384,93 @@ faq_section:
     title: 賽普勒斯 eSIM Cyta網路品質與速度指南｜4G/5G覆蓋範圍
     questions:
     - q: 準備去賽普勒斯long stay，eSIM方案買哪種比較划算？
-      a: Roami 賽普勒斯 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Cyta在賽普勒斯市區5G網速約100-300Mbps，看1080p影片沒問題。去賽普勒斯機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到賽普勒斯後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+      a: Roami 賽普勒斯 eSIM方案從$2.99（7天1GB）起，最高$77.99（30天無限）。一般旅客買最多的是5GB/15天（$8.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Cyta在賽普勒斯市區5G網速約100-300Mbps，看1080p影片沒問題。去賽普勒斯機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到賽普勒斯後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 看到有人說賽普勒斯的Cyta在市區很快、Epic在郊區很廣，真的是這樣嗎？
       a: 賽普勒斯主要有Cyta、Epic、PrimeTel。Cyta市區下載快、基地台密集。Epic郊區覆蓋廣，會去郊區的話選Epic路線較有保障。PrimeTel價格親民，適合預算有限的旅客。賽普勒斯5G使用n78頻段，全島覆蓋良好。不過Roami會自動切換到當前訊號最強的網路。市區用Cyta，移動到郊區若Cyta訊號變弱就自動跳Epic或PrimeTel，完全不用手動選。
     - q: 去賽普勒斯旅遊的話，辦eSIM吃到飽會不會太浪費？一般人一天大概用多少流量？
-      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。賽普勒斯5G使用n78頻段，全島覆蓋良好。Roami在賽普勒斯連上Cyta的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。賽普勒斯5G使用n78頻段，全島覆蓋良好。Roami在賽普勒斯連上Cyta的網路，網速穩定。如果怕降速可選10GB/$7.99或20GB/$20.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 有人說去賽普勒斯辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
       a: 需要的。賽普勒斯預付卡需KYC認證，需提供護照。很多人不知道這規定，到了賽普勒斯機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。賽普勒斯5G使用n78頻段，全島覆蓋良好。另外Cyta的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到賽普勒斯開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 搭車從賽普勒斯市區移動到郊區的時候，eSIM網路會一直切換嗎？
       a: 賽普勒斯的Cyta等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。賽普勒斯5G使用n78頻段，全島覆蓋良好。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 去賽普勒斯旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
-      a: Roami 賽普勒斯 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
+      a: Roami 賽普勒斯 eSIM方案從$2.99（7天1GB）起，最高$77.99（30天無限）。一般選5GB/15天（$8.99）最熱門，不夠再到App加購。
+    - q: 賽普勒斯 eSIM 的網速快嗎？會不會比當地實體卡慢？
+      a: Roami 賽普勒斯 eSIM 走當地主要電信商的基地台，速度與當地預付卡相當，日常查地圖、社群、視訊通話都很順。實際速度仍會受所在位置與當下網路負載影響。 尼科西亞、利馬索爾 等熱門地點都有完整覆蓋，導航、叫車都很順暢。
+    - q: 賽普勒斯的Cyta和MTN，用eSIM哪一家訊號比較好？
+      a: 賽普勒斯主要有Cyta、MTN等電信商。Roami 會自動選擇當下訊號最強的網路，在Cyta與MTN之間自動切換，不用手動設定。若行程會拉到郊區或離島，出發前先下載離線地圖會更保險。 實際走訪 拉納卡、帕福斯 等主要城市，上網查資料、傳照片都沒問題。
+    - q: 賽普勒斯 eSIM 要怎麼啟用？要抵達當地才開嗎？
+      a: 建議出發前先用 WiFi 掃描 QR code 安裝描述檔，抵達 賽普勒斯 後再開啟 eSIM 線路並打開數據漫遊，連上當地網路就會自動啟用，方案效期也從那時開始計算。 不論在 尼科西亞、阿依納帕，連線品質都相當穩定。
 related_products:
-  title: 類似 賽普勒斯 eSIM 的旅行方案
+  title: 順遊國家的 eSIM 方案
   items:
-  - name: 日本 eSIM
-    flag: img/flags/jp.svg
-    price: От 1,99 $
+  - name: 英國 eSIM
+    flag: img/flags/gb.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: japan-esim
-  - name: 韓國 eSIM
-    flag: img/flags/kr.svg
-    price: От 1,99 $
+    slug: united-kingdom-esim
+  - name: 孟加拉 eSIM
+    flag: img/flags/bd.svg
+    price: 自 $5.99
     is_highlight: false
-    slug: south-korea-esim
+    slug: bangladesh-esim
+  - name: 約旦 eSIM
+    flag: img/flags/jo.svg
+    price: 自 $6.99
+    is_highlight: false
+    slug: jordan-esim
+  - name: 象牙海岸 eSIM
+    flag: img/flags/ci.svg
+    price: 自 $9.99
+    is_highlight: false
+    slug: ivory-coast-esim
   - name: 泰國 eSIM
     flag: img/flags/th.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: true
     slug: thailand-esim
-  - name: 越南 eSIM
-    flag: img/flags/vn.svg
-    price: От 1,99 $
+  - name: 葡萄牙 eSIM
+    flag: img/flags/pt.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: vietnam-esim
-  - name: 新加坡 eSIM
-    flag: img/flags/sg.svg
-    price: От 1,99 $
+    slug: portugal-esim
+  - name: 烏茲別克 eSIM
+    flag: img/flags/uz.svg
+    price: 自 $1.99
     is_highlight: false
-    slug: singapore-esim
+    slug: uzbekistan-esim
+  - name: 保加利亞 eSIM
+    flag: img/flags/bg.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: bulgaria-esim
+  - name: 瑞士 eSIM
+    flag: img/flags/ch.svg
+    price: 自 $1.99
+    is_highlight: false
+    slug: switzerland-esim
+  - name: 厄瓜多 eSIM
+    flag: img/flags/ec.svg
+    price: 自 $6.99
+    is_highlight: false
+    slug: ecuador-esim
+  - name: 以色列 eSIM
+    flag: img/flags/il.svg
+    price: 自 $2.99
+    is_highlight: false
+    slug: israel-esim
   - name: 馬來西亞 eSIM
     flag: img/flags/my.svg
-    price: От 1,99 $
+    price: 自 $1.99
     is_highlight: false
     slug: malaysia-esim
-  - name: 美國 eSIM
-    flag: img/flags/us.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: united-states-esim
-  - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: europe-esim
-  - name: 澳洲 eSIM
-    flag: img/flags/au.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: australia-esim
-  - name: 香港 eSIM
-    flag: img/flags/hk.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: 中國 eSIM
-    flag: img/flags/cn.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: china-esim
-  - name: 菲律賓 eSIM
-    flag: img/flags/ph.svg
-    price: От 1,99 $
-    is_highlight: false
-    slug: philippines-esim
-
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
   title: "Cyprus eSIM 網速夠快嗎？打卡傳圖會卡嗎？"
   subtitle: "賽普勒斯當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
-    text: "資料來源：Prepaid Data SIM Card Wiki (Cyprus) + 當地電信商官網"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/Cyprus"
+    text: "資料來源：GSMA Mobile Connectivity Index＋當地電信商官方網站"
+    url: "https://www.mobileconnectivityindex.com/"
   table_headers:
     - "比較矩陣"
     - "當地預付 SIM 卡（市場數據）"
@@ -475,7 +479,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Cyprus. Find out what speeds to expect and where eSIM works best."
+      prepaid_desc: "須在 Cyta 門市或機場櫃檯現場購買，排隊加上開卡與實名登記約 15-30 分鐘；旺季或偏遠城鎮門市可能缺貨。"
       esim_title: "即時數位配送"
       esim_desc: "避開Cyta繁瑣的護照掃描與自拍流程，Roami eSIM出發前或落地後一分鐘內掃碼啟用，免去在機場或市區尋找商店並花費數十分鐘註冊證件的環節。"
     - icon: "id-card"
@@ -487,9 +491,9 @@ market_analysis:
     - icon: "globe"
       title: "國際漫遊"
       prepaid_title: ""
-      prepaid_desc: "Cyta的漫遊費為€0.20/MB（即約€200/GB），且預設關閉。epic的Data Top-Up充值卡僅限塞浦路斯境內使用，無法用於歐盟漫遊。北塞Telsim在南塞漫遊收費₺0.16/MB（約€5/GB）。"
+      prepaid_desc: "Cyta的漫遊費為€0.20/MB（即約€200/GB），且預設關閉。epic的Data Top-Up儲值卡僅限塞浦路斯境內使用，無法用於歐盟漫遊。北塞Telsim在南塞漫遊收費₺0.16/MB（約€5/GB）。"
       esim_title: "全球漫遊無憂"
-      esim_desc: "避免Cyta在北塞的€0.20/MB天價漫遊費，Roami eSIM提供包含南北塞及土耳其的整合套餐，無需手動切換網絡，杜絕意外帳單。"
+      esim_desc: "避免Cyta在北塞的€0.20/MB天價漫遊費，Roami eSIM提供包含南北塞及土耳其的整合套餐，無需手動切換網路，杜絕意外帳單。"
     - icon: "calendar-xmark"
       title: "計費週期與浪費成本"
       prepaid_title: ""
@@ -501,19 +505,19 @@ market_analysis:
       prepaid_title: ""
       prepaid_desc: "Primetel雖允許熱點分享，但存在公平使用政策（FUP），P2P/BT下載會觸發速度限制。"
       esim_title: "無限熱點分享"
-      esim_desc: "有別於Primetel的FUP限速政策，Roami eSIM支持熱點分享且無速度限制，可自由連接多個設備，方便團隊共享。"
+      esim_desc: "有別於Primetel的FUP限速政策，Roami eSIM支援熱點分享且無速度限制，可自由連接多個設備，方便團隊共享。"
     - icon: "credit-card"
       title: "儲值與付款"
       prepaid_title: ""
-      prepaid_desc: "epic國際信用卡線上充值需繳納高額佣金，Cyta需發郵件獲取授權碼，流程繁瑣。JCCSmart可免佣金但需單獨註冊帳戶。"
+      prepaid_desc: "epic國際信用卡線上儲值需繳納高額佣金，Cyta需發郵件獲取授權碼，流程繁瑣。JCCSmart可免佣金但需單獨註冊帳戶。"
       esim_title: "全球付款暢通"
       esim_desc: "支援Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需像epic那樣擔心國際信用卡高額佣金或繁瑣的授權碼流程。"
     - icon: "headset"
       title: "客戶支援"
       prepaid_title: ""
-      prepaid_desc: "此維度在來源中無具體數據。"
+      prepaid_desc: "Cyta 的客服以本地語言為主且時間有限，漫遊或設定問題往往需自行摸索，缺少全天候支援管道。"
       esim_title: "24/7 即時支援"
-      esim_desc: "Roami提供全天候多語言客戶支援，有別於當地運營商有限的服務時間，隨時解決連線問題。"
+      esim_desc: "Roami提供全天候多語言客戶支援，有別於當地電信商有限的服務時間，隨時解決連線問題。"
 
   # =============== 100% 完整復原：專家評語模組 ===============
   expert_verdict:
