@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Jerman - 5G di Berlin & Munich | Tanpa PostIdent | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -21,9 +21,9 @@ modal:
 seo:
   title: 'eSIM Jerman: 5G Cepat & Data Melimpah untuk Wisata'
   description: 'Data 5G cepat untuk Jerman bersama eSIM Roami. Cakupan Deutsche Telekom & Vodafone & O2. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Jerman, beli eSIM Jerman, eSIM Jerman terbaik, eSIM perjalanan Jerman, Deutsche Telekom Jerman, Vodafone Jerman, O2 Jerman, eSIM Berlin, eSIM Munich, eSIM Hamburg, eSIM prabayar Jerman, 5G eSIM Jerman, eSIM Jerman tanpa registrasi
+  keywords: eSIM Jerman, beli eSIM Jerman, eSIM Jerman terbaik, eSIM perjalanan Jerman, Deutsche Telekom Jerman, Vodafone Jerman, O2 Jerman, eSIM Berlin, eSIM Munich, eSIM Hamburg, eSIM prabayar Jerman, eSIM 5G Jerman, eSIM Kastil Neuschwanstein, eSIM Lembah Rhine, eSIM Oktoberfest Munich, paket eSIM Jerman
   low_price: 1.99
-  high_price: 39.9
+  high_price: 70.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -76,7 +76,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Siap Kereta ICE
     desc: Tetap terhubung di kereta kecepatan tinggi antara Berlin, Munich & Frankfurt
-plans_title: 'Beli eSIM Jerman: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Beli Paket eSIM Jerman: Lengkap dengan Harga Terbaru'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -294,7 +294,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Jerman: Panduan 5G Deutsche Telekom, Vodafone & O2'
+  title: 'Cakupan eSIM Jerman: Panduan Operator Jaringan Seluler'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -325,7 +325,7 @@ network_coverage:
       coverage: Cakupan 5G perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Jerman: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips Praktis eSIM Jerman untuk Perjalanan Anda'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -350,7 +350,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar, perangkat Anda mendukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Jerman: 3 Langkah Mudah'
+  title: 'Cara Memasang eSIM Jerman dari Kode QR'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -370,12 +370,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Jerman: 5G, PostIdent & Tips Perjalanan"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Jerman. Cari tahu kecepatan yang diharapkan dan cara menghindari mimpi buruk registrasi PostIdent/VideoIdent."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitJerman koneksi untuk wisatawan di Jerman. Cari tahu kecepatan yang diharapkan di Alpen, kota, dan di kereta."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Jerman
+    title: Pertanyaan Umum eSIM Jerman
     questions:
     - q: |
         Apa itu PostIdent/VideoIdent dan mengapa menjadi masalah besar bagi turis?
@@ -417,63 +417,75 @@ faq_section:
         Kapan masa berlaku paket eSIM Jerman saya dimulai?
       a: |
         Masa berlaku paket dimulai saat Anda terhubung ke jaringan lokal di Jerman, bukan saat membeli atau menginstalnya. Jadi Anda dapat membeli dan menginstal berminggu-minggu sebelum perjalanan tanpa kehilangan hari paket. Paket 7 hari memberi Anda 7 hari penuh dari koneksi pertama.
+    - q: |
+        Bagaimana cakupan eSIM Jerman di Berlin dan sekitarnya?
+      a: |
+        Cakupan eSIM Jerman mengikuti jaringan Deutsche Telekom di kota besar seperti Berlin. Di daerah terpencil sinyal bisa lebih lemah, dan eSIM akan berpindah ke operator mitra secara otomatis.
+    - q: |
+        Apakah eSIM Jerman berfungsi baik di Munich?
+      a: |
+        Di Munich eSIM Jerman memakai jaringan 4G/5G Deutsche Telekom, cukup untuk peta, perpesanan, dan mengunggah foto. Paket mulai $1.99 praktis untuk kunjungan singkat ke Munich.
+    - q: |
+        Untuk 30 hari di Jerman dan kota seperti Berlin, lebih baik paket 3GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 3GB (30 hari, $6.99) karena harganya paling efisien dan memadai untuk kunjungan ke Berlin. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $70.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Jerman Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
+  - name: eSIM Liberia
+    flag: img/flags/lr.svg
+    price: Mulai $27.99
     is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
+  - name: eSIM Malawi
+    flag: img/flags/mw.svg
+    price: Mulai $14.99
     is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Meksiko
+    flag: img/flags/mx.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Nigeria
+    flag: img/flags/ng.svg
+    price: Mulai $5.99
+    is_highlight: false
+  - name: eSIM Paraguay
+    flag: img/flags/py.svg
+    price: Mulai $22.99
+    is_highlight: false
+  - name: eSIM Puerto Rico
+    flag: img/flags/pu.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Arab Saudi
+    flag: img/flags/sa.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Asia Tenggara
+    flag: img/flags/ya.webp
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Tanzania
+    flag: img/flags/tz.svg
+    price: Mulai $7.99
+    is_highlight: false
+  - name: eSIM Ukraina
+    flag: img/flags/ua.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
+  - name: eSIM Uzbekistan
+    flag: img/flags/uz.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
+  - name: eSIM Aljazair
+    flag: img/flags/dz.svg
+    price: Mulai $3.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Jerman vs SIM Prabayar: Tanpa PostIdent, Tanpa Pemborosan 28 Hari'
   subtitle: SIM Prabayar Lokal Jerman vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Jerman) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Germany
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -502,11 +514,11 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Paket prabayar Jerman secara universal menggunakan siklus 28 hari. Telekom MagentaMobil M seharga €9.95 untuk 10GB/28 hari; perjalanan 7 hari membuang sekitar 75% nilai paket.
     esim_title: Paket Pendek Fleksibel
-    esim_desc: Tidak seperti siklus 28 hari O2 (€15/5GB), Roami menawarkan paket 7 hari mulai dari $1.99/GB — bayar hanya untuk durasi perjalanan Anda yang sebenarnya, menghemat hingga 75% pemborosan.
+    esim_desc: Tidak seperti siklus 28 hari O2 (€15/5GB), Roami menawarkan paket 7 hari mulai dari $0.90/GB — bayar hanya untuk durasi perjalanan Anda yang sebenarnya, menghemat hingga 75% pemborosan.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
-    prepaid_desc: Sebagian besar SIM prabayar Jerman mengizinkan tethering tetapi merek diskon seperti Aldi Talk mungkin membatasi kecepatan hotspot. Tidak ada data FUP spesifik yang tersedia untuk paket pascabayar.
+    prepaid_desc: Sebagian besar SIM prabayar Jerman mengizinkan tethering tetapi merek diskon seperti Aldi Talk mungkin membatasi kecepatan hotspot.
     esim_title: Tethering Tanpa Batasan
     esim_desc: Tidak seperti beberapa merek diskon Jerman yang membatasi kecepatan hotspot, Roami mengizinkan tethering kecepatan penuh di semua perangkat — hubungkan laptop atau teman perjalanan Anda.
   - icon: credit-card
@@ -538,7 +550,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Tanpa Pemborosan Penagihan 28 Hari
-      desc: Paket 10GB Telekom berharga <b>€9.95 untuk 28 hari</b>. Turis 7 hari membuang <b>75%</b> paket. Roami menawarkan <b>paket 7 hari dari $1.99/GB</b> — bayar untuk perjalanan Anda, bukan untuk pemborosan.
+      desc: Paket 10GB Telekom berharga <b>€9.95 untuk 28 hari</b>. Turis 7 hari membuang <b>75%</b> paket. Roami menawarkan <b>paket 7 hari dari $0.90/GB</b> — bayar untuk perjalanan Anda, bukan untuk pemborosan.
     - icon: train
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600

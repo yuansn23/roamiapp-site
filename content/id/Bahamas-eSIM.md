@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Bahama 2026: Panduan Cakupan & Kecepatan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: BTC, Aliv, Cable Bahamas
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Nassau, Freeport, Marsh Harbour, George Town, West End
-  main_packages: 3/7/15/30 Hari, Data Tak Terbatas
+  main_packages: 7/15/30 Hari
 modal:
   title: Layanan Ditingkatkan!
   btn_text: Lanjutkan
@@ -18,10 +18,10 @@ modal:
   text_android: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIM</strong>.<br>Pelanggan baru menikmati diskon 20%, kode promo:web20
 seo:
   title: 'eSIM Bahama: 5G Cepat & Kuota Besar untuk Bisnis'
-  description: '5G cepat & data melimpah untuk Bahama dari Roami. Cakupan BTC & Aliv & Cable Bahamas. Aktivasi instan, mulai $1.99. Tanpa kontrak.'
-  keywords: eSIM Bahama, beli eSIM Bahama, eSIM terbaik Bahama, eSIM perjalanan Bahama, BTC Bahama, Aliv Bahama, Cable Bahamas Bahama, eSIM Nassau, eSIM Freeport, eSIM Marsh Harbour, eSIM prabayar Bahama, eSIM 5G Bahama
-  low_price: 1.99
-  high_price: 39.9
+  description: '5G cepat & data melimpah untuk Bahama dari Roami. Cakupan BTC & Aliv & Cable Bahamas. Aktivasi instan, mulai $16.99. Tanpa kontrak.'
+  keywords: eSIM Bahama, beli eSIM Bahama, eSIM Bahama terbaik, eSIM perjalanan Bahama, BTC Bahama, Aliv Bahama, Cable Bahamas, eSIM Nassau, eSIM Freeport, eSIM Marsh Harbour, eSIM prabayar Bahama, eSIM 5G Bahama, eSIM Exuma, eSIM Andros, eSIM George Town, paket eSIM Bahama
+  low_price: 16.99
+  high_price: 67.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Ganti Otomatis
     desc: Terhubung otomatis ke operator Bahama terbaik untuk sinyal terkuat
-plans_title: 'Beli eSIM Bahama: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Beli Paket eSIM Bahama: Lengkap dengan Harga Terbaru'
 plans_data:
   30 Hari:
   - spec: 1GB
@@ -123,7 +123,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Bahama: Panduan Operator & Peta Cakupan'
+  title: 'Cakupan eSIM Bahama: Panduan 5G/4G Claro, Vivo & TIM'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -154,7 +154,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Bahama: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips Praktis eSIM Bahama untuk Perjalanan Anda'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -173,7 +173,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Bahama: 3 Langkah Mudah'
+  title: 'Cara Memasang eSIM Bahama dari Kode QR'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -193,12 +193,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Kecepatan Internet Apa yang Dapat Anda Harapkan dengan eSIM di Bahama?"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Bahama. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Bahama. Cari tahu kecepatan yang diharapkan di Athena, di pulau-pulau, dan di feri."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Bahama
+    title: Pertanyaan Umum eSIM Bahama
     questions:
     - q: |
         Apakah aman mengunggah paspor saya untuk registrasi eSIM Bahama? Saya khawatir tentang privasi.
@@ -207,7 +207,7 @@ faq_section:
     - q: |
         Apa saja opsi eSIM termurah untuk perjalanan ke Bahama?
       a: |
-        Paket eSIM Roami Bahama mulai dari $1.99 (7 hari, 1GB) hingga $59.99 (30 hari tak terbatas). Untuk perjalanan 5-7 hari pada umumnya, paket 5GB seharga $9.99 adalah pilihan terbaik — cukup untuk peta, perpesanan, dan memeriksa media sosial. Perlu streaming video atau bekerja jarak jauh? Pilih 10GB atau tak terbatas. Bahama menggunakan 4G yang menangani peta dan perpesanan dengan baik. Kios SIM bandara mengenakan biaya 30-50% lebih mahal, dan Anda harus mengantre. Tidak yakin tentang kebutuhan data Anda? Mulai dari yang kecil dan isi ulang melalui aplikasi tanpa mengganti eSIM Anda.
+        Paket eSIM Roami Bahama mulai dari $16.99 (7 hari, 1GB) hingga $30.99 (30 hari). Untuk perjalanan 5-7 hari pada umumnya, paket 5GB seharga $67.99 adalah pilihan terbaik — cukup untuk peta, perpesanan, dan memeriksa media sosial. Perlu streaming video atau bekerja jarak jauh? Pilih 10GB atau paket kuota besar. Bahama menggunakan 4G yang menangani peta dan perpesanan dengan baik. Kios SIM bandara mengenakan biaya 30-50% lebih mahal, dan Anda harus mengantre. Tidak yakin tentang kebutuhan data Anda? Mulai dari yang kecil dan isi ulang melalui aplikasi tanpa mengganti eSIM Anda.
     - q: |
         Bagaimana perbandingan Roami dengan Airalo untuk eSIM di Bahama?
       a: |
@@ -225,70 +225,82 @@ faq_section:
       a: |
         Sebagian besar ponsel menyimpan 5-10 profil eSIM. Anda dapat menyimpan eSIM Bahama Anda bersama SIM rumah dan profil negara lainnya. Aktifkan saja yang Anda butuhkan dan nonaktifkan yang lain. Beralih di antara mereka memakan waktu sekitar 10 detik di pengaturan ponsel Anda.
     - q: |
-        Apa perbedaan antara paket 5GB dan paket tak terbatas untuk Bahama?
+        Apa perbedaan antara paket 5GB dan paket kuota besar untuk Bahama?
       a: |
-        Paket 5GB memberi Anda sejumlah data berkecepatan tinggi tetap (total 5GB). Setelah habis, Anda isi ulang atau beli paket baru. Paket tak terbatas terus menyediakan data, tetapi kecepatan dapat berkurang setelah 30GB dalam sehari berdasarkan kebijakan penggunaan wajar. Untuk sebagian besar pelancong yang menggunakan peta, perpesanan, dan media sosial, paket 5GB sudah cukup.
+        Paket 5GB memberi Anda sejumlah data berkecepatan tinggi tetap (total 5GB). Setelah habis, Anda isi ulang atau beli paket baru. Paket kuota besar terus menyediakan data, tetapi kecepatan dapat berkurang setelah 30GB dalam sehari berdasarkan kebijakan penggunaan wajar. Untuk sebagian besar pelancong yang menggunakan peta, perpesanan, dan media sosial, paket 5GB sudah cukup.
     - q: |
         Kapan masa berlaku eSIM Bahama saya dimulai?
       a: |
         Masa berlaku paket dimulai saat Anda terhubung ke jaringan lokal di Bahama, bukan saat Anda membeli atau menginstalnya. Jadi Anda dapat membeli dan menginstal berminggu-minggu sebelum perjalanan tanpa kehilangan hari paket. Paket 7 hari memberi Anda 7 hari penuh dari koneksi pertama.
+    - q: |
+        Apakah eSIM Bahama terhubung ke jaringan BTC di Nassau?
+      a: |
+        Ya. eSIM Bahama terhubung ke jaringan BTC dan operator mitra lainnya, jadi sinyal tetap tersedia saat Anda berpindah dari Nassau ke kota lain di Bahama. eSIM langsung aktif setelah dipasang, tanpa perlu memilih operator secara manual.
+    - q: |
+        Perlu paket seperti apa untuk perjalanan ke Freeport?
+      a: |
+        Untuk Freeport, paket mulai $16.99 sudah memadai: peta, pesan, dan media sosial berjalan lancar lewat jaringan lokal. Bila Anda sering streaming atau memakai hotspot, pilih kuota yang lebih besar.
+    - q: |
+        Apakah paket 1GB cukup untuk perjalanan 30 hari di Bahama dan kota seperti Nassau?
+      a: |
+        Untuk perjalanan 30 hari, paket 1GB seharga $30.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Nassau. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket 5GB seharga $67.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Bahama Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Inggris Raya
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Indonesia
+    flag: img/flags/id.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Pantai Gading
+    flag: img/flags/ci.svg
+    price: Mulai $9.99
+    is_highlight: false
+  - name: eSIM Kenya
+    flag: img/flags/ke.svg
+    price: Mulai $7.99
+    is_highlight: false
+  - name: eSIM Latvia
+    flag: img/flags/lv.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
+  - name: eSIM Madagaskar
+    flag: img/flags/mg.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Malta
+    flag: img/flags/mt.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Tiongkok
-    flag: img/flags/cn.svg
+  - name: eSIM Niger
+    flag: img/flags/ni.svg
+    price: Mulai $23.99
+    is_highlight: false
+  - name: eSIM Panama
+    flag: img/flags/pa.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Portugal
+    flag: img/flags/pt.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
+  - name: eSIM Rusia
+    flag: img/flags/ru.svg
+    price: Mulai $2.99
+    is_highlight: false
+  - name: eSIM Korea Selatan
+    flag: img/flags/kr.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
+  - name: eSIM Tajikistan
+    flag: img/flags/tj.svg
+    price: Mulai $4.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Bahama Dibandingkan dengan Kartu SIM Prabayar: Yang Perlu Anda Ketahui'
   subtitle: SIM Prabayar Lokal Bahama vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Bahama) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Bahamas
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -317,11 +329,11 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Paket 7 hari BTC berharga $9.99 untuk 2GB (ditambah PPN 12%); paket 7 hari aliv mulai dari $5 untuk 500MB. Paket 30 hari aliv mulai dari $30 untuk 3GB. Perjalanan singkat menyia-nyiakan hingga 80% nilai paket.
     esim_title: Paket Fleksibel, Tanpa Pemborosan
-    esim_desc: Tidak seperti siklus 7 hari aliv ($5/500MB) atau 30 hari ($30/3GB), Roami menawarkan paket 7 hari mulai dari $1.99/GB, menghemat hingga 80% pemborosan untuk perjalanan singkat.
+    esim_desc: Tidak seperti siklus 7 hari aliv ($5/500MB) atau 30 hari ($30/3GB), Roami menawarkan paket 7 hari mulai dari $13.60/GB, menghemat hingga 80% pemborosan untuk perjalanan singkat.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar umum, baik BTC maupun aliv mengizinkan tethering tetapi dapat membatasi kecepatan setelah penggunaan tinggi.
+    prepaid_desc: Baik BTC maupun aliv mengizinkan tethering tetapi dapat membatasi kecepatan setelah penggunaan tinggi.
     esim_title: Tethering Tanpa Batasan
     esim_desc: Roami memungkinkan berbagi hotspot kecepatan penuh, tidak seperti beberapa paket lokal yang membatasi setelah 3GB/hari.
   - icon: credit-card

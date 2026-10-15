@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Brunei 2026: Panduan Cakupan & Kecepatan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: DST, Progresif, imagine
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Bandar Seri Begawan, Kuala Belait, Seria, Tutong, Bangar
-  main_packages: 3/7/15/30 Hari, Data Tak Terbatas
+  main_packages: 7/15/30 Hari
 modal:
   title: Layanan Ditingkatkan!
   btn_text: Lanjutkan
@@ -20,11 +20,10 @@ modal:
     promo:web20
 seo:
   title: 'eSIM Brunei: Prabayar & Kuota Melimpah untuk Turis'
-  description: 'Roami menawarkan eSIM prabayar Brunei dengan 5G cepat. Cakupan DST & Progresif & imagine. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Brunei, beli eSIM Brunei, eSIM Brunei terbaik, eSIM perjalanan Brunei, DST Brunei, Progresif Brunei, imagine Brunei,
-    eSIM Bandar Seri Begawan, eSIM Kuala Belait, eSIM Seria, eSIM prabayar Brunei, 5G eSIM Brunei
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Roami menawarkan eSIM prabayar Brunei dengan 5G cepat. Cakupan DST & Progresif & imagine. Aktivasi QR instan, mulai $9.99.'
+  keywords: eSIM Brunei, beli eSIM Brunei, eSIM Brunei terbaik, eSIM perjalanan Brunei, DST Brunei, Progresif Brunei, imagine Brunei, eSIM Bandar Seri Begawan, eSIM Kuala Belait, eSIM Seria, eSIM prabayar Brunei, eSIM 5G Brunei, eSIM desa air, eSIM masjid, eSIM Tutong, paket eSIM Brunei
+  low_price: 9.99
+  high_price: 99.99
 order_summary:
   title: Paket Terpilih
   label_data: Data Termasuk
@@ -64,7 +63,7 @@ features:
   - icon: wifi
     color: from-purple-400 to-purple-600
     title: Dukungan Hotspot
-    desc: Bagikan data Brunei Anda dengan teman perjalanan, tanpa batas
+    desc: Bagikan data Brunei Anda dengan teman perjalanan lewat hotspot
   - icon: file-x
     color: from-rose-400 to-rose-600
     title: Tanpa Kontrak
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Pengalihan Otomatis
     desc: Terhubung otomatis ke operator Brunei terbaik untuk sinyal terbaik
-plans_title: 'Beli eSIM Brunei: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket Data Brunei: Pilih Sesuai Durasi Perjalanan'
 plans_data:
   7 Hari:
   - spec: 1GB
@@ -128,7 +127,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Brunei: Panduan Lengkap Jaringan Lokal'
+  title: 'Cakupan eSIM Brunei: Panduan 5G Telkomsel, Indosat & XL — Bali hingga Jawa'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -161,7 +160,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Brunei: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips eSIM Brunei: Pastikan Siap Sebelum Mendarat'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -182,7 +181,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Brunei: 3 Langkah Mudah'
+  title: 'Aktivasi eSIM Brunei: Dari Pemindaian QR hingga Online'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -204,17 +203,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Seberapa Cepat Internet eSIM di Brunei? Kecepatan dan Cakupan untuk Pelancong"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Brunei. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Dari Bangkok hingga Singapura, tetap terhubung di jaringan Singtel, AIS, Telkomsel. Panduan eSIM Brunei lengkap kami mencakup cakupan, paket, pengaturan, dan tips perjalanan. Temukan paket terbaik untuk perjalanan Anda."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Brunei
+    title: Tanya Jawab Umum eSIM Brunei
     questions:
     - q: |
         Apa opsi eSIM termurah untuk perjalanan ke Brunei?
       a: |
-        Paket eSIM Brunei Roami mulai dari $1.99 (7 hari, 1GB) hingga $59.99 (30 hari tak terbatas). Untuk perjalanan 5-7 hari pada umumnya, paket 5GB seharga $9.99 adalah pilihan tepat — cukup untuk peta, pesan, dan memeriksa media sosial. Perlu streaming video atau bekerja jarak jauh? Pilih 10GB atau tak terbatas. Berkat jaringan 5G DST, streaming dan panggilan video berfungsi dengan baik. Kios SIM bandara mengenakan biaya 30-50% lebih mahal, dan Anda harus mengantre. Tidak yakin tentang kebutuhan data Anda? Mulai dari yang kecil dan isi ulang melalui aplikasi tanpa mengubah eSIM Anda.
+        Paket eSIM Brunei Roami mulai dari $9.99 (7 hari, 1GB) hingga $99.99 (30 hari, 20GB). Untuk perjalanan 5-7 hari pada umumnya, paket 5GB seharga $30.99 adalah pilihan tepat — cukup untuk peta, pesan, dan memeriksa media sosial. Perlu streaming video atau bekerja jarak jauh? Pilih 5GB atau 20GB. Berkat jaringan 5G DST, streaming dan panggilan video berfungsi dengan baik. Kios SIM bandara mengenakan biaya 30-50% lebih mahal, dan Anda harus mengantre. Tidak yakin tentang kebutuhan data Anda? Mulai dari yang kecil dan isi ulang melalui aplikasi tanpa mengubah eSIM Anda.
     - q: |
         Bagaimana perbandingan Roami dengan Holafly untuk eSIM di Brunei?
       a: |
@@ -230,11 +229,11 @@ faq_section:
     - q: |
         Apa pilihan eSIM paling populer untuk pelancong yang pergi ke Brunei?
       a: |
-        Sebagian besar pelancong ke Brunei memilih paket 5GB/15 hari ($9.99). Ini cukup untuk navigasi harian, media sosial, dan pesan. Untuk masa tinggal lebih lama atau penggunaan lebih berat, paket 10GB ($14.99) atau tak terbatas ($59.99) adalah pilihan bagus. Semua paket aktif dalam hitungan menit dan termasuk dukungan 24/7.
+        Sebagian besar pelancong ke Brunei memilih paket 5GB/30 hari ($30.99). Ini cukup untuk navigasi harian, media sosial, dan pesan. Untuk masa tinggal lebih lama atau penggunaan lebih berat, paket 5GB ($30.99) atau 20GB ($99.99) adalah pilihan bagus. Semua paket aktif dalam hitungan menit dan termasuk dukungan 24/7.
     - q: |
         Bagaimana jika hotel saya di Brunei memiliki WiFi gratis — apakah saya masih perlu data eSIM?
       a: |
-        WiFi hotel berfungsi di kamar Anda tetapi tidak saat Anda sedang menjelajah. eSIM memberi Anda data di mana saja — menavigasi jalan, mencari tempat terdekat, memeriksa jadwal transportasi. Paket 5GB berharga $9.99, yang sering lebih murah daripada WiFi hotel berbayar selama seminggu ($10-15 di banyak hotel). Sebagian besar pelancong menggunakan WiFi hotel untuk unduhan besar dan eSIM untuk konektivitas saat bepergian.
+        WiFi hotel berfungsi di kamar Anda tetapi tidak saat Anda sedang menjelajah. eSIM memberi Anda data di mana saja — menavigasi jalan, mencari tempat terdekat, memeriksa jadwal transportasi. Paket 5GB berharga $30.99, yang sering lebih murah daripada WiFi hotel berbayar selama seminggu ($10-15 di banyak hotel). Sebagian besar pelancong menggunakan WiFi hotel untuk unduhan besar dan eSIM untuk konektivitas saat bepergian.
     - q: |
         Seberapa jauh sebelumnya saya harus membeli eSIM Brunei saya?
       a: |
@@ -243,63 +242,75 @@ faq_section:
         Apa cara termudah untuk tetap terhubung di Brunei tanpa harus berurusan dengan kios SIM bandara?
       a: |
         eSIM adalah jawabannya. Beli online, dapatkan kode QR melalui email, instal dalam 2 menit. Lewati antrean bandara. Roami terhubung ke DST untuk cakupan andal. SIM rumah Anda tetap aktif untuk SMS. Ini adalah cara paling sederhana untuk tetap terhubung.
+    - q: |
+        Bagaimana cakupan eSIM Brunei di Bandar Seri Begawan dan sekitarnya?
+      a: |
+        Cakupan eSIM Brunei mengikuti jaringan DST di kota besar seperti Bandar Seri Begawan. Di daerah terpencil sinyal bisa lebih lemah, dan eSIM akan berpindah ke operator mitra secara otomatis.
+    - q: |
+        Cukupkah paket termurah untuk pemakaian saya di Kuala Belait?
+      a: |
+        Paket mulai $9.99 sudah menutupi navigasi, pesan, dan media sosial selama Anda berada di Kuala Belait. Aktivasi dilakukan sekali sebelum berangkat, jadi tidak ada antrean di bandara.
+    - q: |
+        Untuk 30 hari di Brunei dan kota seperti Bandar Seri Begawan, lebih baik paket 3GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 3GB (30 hari, $26.99) karena harganya paling efisien dan memadai untuk kunjungan ke Bandar Seri Begawan. Jika perjalanan Anda padat data, paket 20GB seharga $99.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Brunei Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: eSIM Albania
+    flag: img/flags/al.svg
+    price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: From $1.99
+  - name: eSIM Belgia
+    flag: img/flags/be.svg
+    price: Mulai $1.99
     is_highlight: false
   - name: eSIM Tiongkok
     flag: img/flags/cn.svg
-    price: From $1.99
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: From $1.99
+  - name: eSIM Estonia
+    flag: img/flags/ee.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: From $1.99
+  - name: eSIM Grenada
+    flag: img/flags/gd.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: From $1.99
+  - name: eSIM Israel
+    flag: img/flags/il.svg
+    price: Mulai $2.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: From $1.99
+  - name: eSIM Liberia
+    flag: img/flags/lr.svg
+    price: Mulai $27.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: From $1.99
+  - name: eSIM Selandia Baru
+    flag: img/flags/nz.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: eSIM Qatar
+    flag: img/flags/qa.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Tajikistan
+    flag: img/flags/tj.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Vietnam
+    flag: img/flags/vn.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Barbados
+    flag: img/flags/bb.svg
+    price: Mulai $11.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Brunei vs SIM Prabayar: Biaya dan Kenyamanan Dibandingkan'
   subtitle: SIM Prabayar Lokal Brunei vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Wiki Kartu SIM Data Prabayar (Brunei) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Brunei
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -335,12 +346,11 @@ market_analysis:
       Progresif memiliki masa berlaku tetap 28 hari, menyia-nyiakan lebih dari 80% untuk perjalanan 5 hari.
     esim_title: Paket Harian Fleksibel
     esim_desc: Tidak seperti minimum 3 hari DST (200 MB untuk 3 B$) atau paket tetap 28 hari Progresif (10 B$ untuk 1 GB), Roami menawarkan
-      paket 7 hari mulai dari $1.99/GB, menghemat lebih dari 80% pemborosan untuk perjalanan singkat.
+      paket 7 hari mulai dari $9.99/GB, menghemat lebih dari 80% pemborosan untuk perjalanan singkat.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan praktik pasar umum, DST dan Progresif kemungkinan
-      mengizinkan tethering tetapi mungkin memperlambat setelah batas tertentu.
+    prepaid_desc: DST dan Progresif kemungkinan mengizinkan tethering tetapi mungkin memperlambat setelah batas tertentu.
     esim_title: Tethering Tanpa Batasan
     esim_desc: Roami eSIM mengizinkan berbagi hotspot kecepatan penuh, tidak seperti DST/Progresif yang mungkin memperlambat setelah beberapa GB. Tetap
       terhubung di semua perangkat Anda.

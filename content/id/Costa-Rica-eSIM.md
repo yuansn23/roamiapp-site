@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Kosta Rika 2026: Panduan Perjalanan & Jaringan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -20,12 +20,10 @@ modal:
     20%, kode promo:web20
 seo:
   title: 'eSIM Kosta Rika: Prabayar & Kuota Besar untuk Wisata'
-  description: 'eSIM Kosta Rika dari Roami: 5G cepat & data melimpah. Cakupan Liberty & Claro & ICE. Aktivasi instan, mulai $1.99. Tanpa kontrak.'
-  keywords: eSIM Kosta Rika, beli eSIM Kosta Rika, eSIM Kosta Rika terbaik, eSIM perjalanan Kosta Rika, Liberty Kosta Rika,
-    Claro Kosta Rika, ICE Kosta Rika, eSIM San José, eSIM Alajuela, eSIM Heredia, eSIM prabayar Kosta Rika, eSIM 5G Kosta
-    Rika
-  low_price: 1.99
-  high_price: 39.9
+  description: 'eSIM Kosta Rika dari Roami: 5G cepat & data melimpah. Cakupan Liberty & Claro & ICE. Aktivasi instan, mulai $9.99. Tanpa kontrak.'
+  keywords: eSIM Kosta Rika, beli eSIM Kosta Rika, eSIM Kosta Rika terbaik, eSIM perjalanan Kosta Rika, Liberty Kosta Rika, Claro Kosta Rika, ICE Kosta Rika, eSIM San José, eSIM Alajuela, eSIM Heredia, eSIM prabayar Kosta Rika, eSIM 5G Kosta Rika, eSIM gunung berapi, eSIM Cartago, eSIM Liberia, paket eSIM Kosta Rika
+  low_price: 9.99
+  high_price: 84.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -74,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Ganti Otomatis
     desc: Terhubung otomatis ke operator Kosta Rika terbaik untuk sinyal terbaik
-plans_title: 'Beli eSIM Kosta Rika: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Kosta Rika: Solusi Data untuk Setiap Wisatawan'
 plans_data:
   7 Hari:
   - spec: 1GB
@@ -244,7 +242,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Kosta Rika: Panduan Operator Jaringan Seluler'
+  title: 'Cakupan eSIM Kosta Rika: Panduan Jaringan Vodafone, MEO & NOS'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -277,7 +275,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Kosta Rika: Apa yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Persiapan eSIM Kosta Rika: Dari Pemasangan hingga Aktivasi'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -298,7 +296,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Kosta Rika: 3 Langkah Mudah'
+  title: 'Langkah Mudah Mengaktifkan eSIM Kosta Rika'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -320,122 +318,114 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Apakah eSIM Berfungsi di Mana Saja di Kosta Rika? Panduan Cakupan Kota & Pedesaan"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Kosta
-    Rika. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Kosta Rika. Cari tahu kecepatan yang diharapkan dan cara menghindari kerumitan registrasi CPF."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Kosta Rika
+    title: FAQ Lengkap Seputar eSIM Kosta Rika
     questions:
     - q: |
         Bagaimana perbandingan Roami dengan Saily untuk eSIM di Kosta Rika?
       a: |
-        Roami biasanya menawarkan nilai lebih baik untuk eSIM Kosta Rika karena kami menjual langsung — tanpa markup pasar.
-        Harga biasanya 10-20% lebih rendah dari Saily. Kami juga menyediakan dukungan langsung 24/7. Paket bersifat prabayar
-        tanpa perpanjangan otomatis, jadi Anda tidak akan ditagih setelah perjalanan berakhir.
+        Roami biasanya menawarkan nilai lebih baik untuk eSIM Kosta Rika karena kami menjual langsung — tanpa markup pasar. Harga biasanya 10-20% lebih rendah dari Saily. Kami juga menyediakan dukungan langsung 24/7. Paket bersifat prabayar tanpa perpanjangan otomatis, jadi Anda tidak akan ditagih setelah perjalanan berakhir.
     - q: |
         Operator mana di Kosta Rika yang harus saya andalkan untuk eSIM saya?
       a: |
-        Kölbi mengoperasikan lebih dari 15.000 menara di seluruh Kosta Rika, mencakup semua kota besar. Claro melengkapi ini
-        dengan cakupan pedesaan tambahan yang mencapai sekitar 90% populasi. Movistar fokus pada keterjangkauan, dengan paket
-        data sekitar 20% lebih murah dari Kölbi. Dengan Roami, Anda tidak memilih satu — ia terhubung ke mana pun yang terkuat.
+        Kölbi mengoperasikan lebih dari 15.000 menara di seluruh Kosta Rika, mencakup semua kota besar. Claro melengkapi ini dengan cakupan pedesaan tambahan yang mencapai sekitar 90% populasi. Movistar fokus pada keterjangkauan, dengan paket data sekitar 20% lebih murah dari Kölbi. Dengan Roami, Anda tidak memilih satu — ia terhubung ke mana pun yang terkuat.
     - q: |
         Bisakah saya mendapatkan eSIM untuk Kosta Rika tanpa mengeluarkan banyak biaya?
       a: |
-        Tentu saja. Paket eSIM Kosta Rika Roami mulai dari hanya $1.99. Opsi 5GB/15 hari ($9.99) adalah yang paling populer
-        di kalangan pelancong — cukup untuk peta, WhatsApp, Instagram, dan email. Jika Anda pengguna data berat, paket 10GB
-        ($14.99) atau tak terbatas ($59.99) memberi Anda ketenangan pikiran. Melewatkan konter SIM di bandara menghemat 30-50%
-        dan menghindari antrian. Perlu penyesuaian? Anda dapat isi ulang kapan saja dari aplikasi Roami.
+        Tentu saja. Paket eSIM Kosta Rika Roami mulai dari hanya $9.99. Opsi 5GB/15 hari ($24.99) adalah yang paling populer di kalangan pelancong — cukup untuk peta, WhatsApp, Instagram, dan email. Jika Anda pengguna data berat, paket 10GB ($34.99) atau tak terbatas ($38.99) memberi Anda ketenangan pikiran. Melewatkan konter SIM di bandara menghemat 30-50% dan menghindari antrian. Perlu penyesuaian? Anda dapat isi ulang kapan saja dari aplikasi Roami.
     - q: |
         Bagaimana perbandingan eSIM dengan pocket WiFi untuk perjalanan Kosta Rika?
       a: |
-        eSIM unggul dalam kenyamanan. Tidak ada perangkat yang harus dibawa, diisi daya, atau dikembalikan di akhir perjalanan
-        — menghemat sekitar $3-5 per hari dibandingkan sewa pocket WiFi. Pocket WiFi cocok untuk kelompok 3+, tetapi Anda
-        terikat pada satu perangkat dan perlu mengisi dayanya selama 6-8 jam. Dengan eSIM, ponsel Anda adalah hotspot. Semua
-        paket Roami mencakup berbagi hotspot gratis untuk hingga 5 perangkat.
+        eSIM unggul dalam kenyamanan. Tidak ada perangkat yang harus dibawa, diisi daya, atau dikembalikan di akhir perjalanan — menghemat sekitar $3-5 per hari dibandingkan sewa pocket WiFi. Pocket WiFi cocok untuk kelompok 3+, tetapi Anda terikat pada satu perangkat dan perlu mengisi dayanya selama 6-8 jam. Dengan eSIM, ponsel Anda adalah hotspot. Semua paket Roami mencakup berbagi hotspot gratis untuk hingga 5 perangkat.
     - q: |
         Apa saja yang termasuk saat saya membeli eSIM Kosta Rika dari Roami?
       a: |
-        Pengiriman kode QR dalam 5 menit, akses ke jaringan Kölbi, dukungan pelanggan 24/7, dan hotspot gratis untuk hingga
-        5 perangkat. Paket mulai dari $1.99. Tanpa kontrak, tanpa biaya tersembunyi, tanpa perpanjangan otomatis.
+        Pengiriman kode QR dalam 5 menit, akses ke jaringan Kölbi, dukungan pelanggan 24/7, dan hotspot gratis untuk hingga 5 perangkat. Paket mulai dari $9.99. Tanpa kontrak, tanpa biaya tersembunyi, tanpa perpanjangan otomatis.
     - q: |
         Apa perbedaan antara paket 5GB dan paket tak terbatas untuk Kosta Rika?
       a: |
-        Paket 5GB memberi Anda jumlah data kecepatan tinggi tetap (total 5GB). Setelah habis, Anda isi ulang atau beli paket
-        baru. Paket tak terbatas terus menyediakan data, tetapi kecepatan dapat berkurang setelah 30GB dalam sehari berdasarkan
-        kebijakan penggunaan wajar. Untuk sebagian besar pelancong yang menggunakan peta, perpesanan, dan media sosial, paket
-        5GB sudah cukup.
+        Paket 5GB memberi Anda jumlah data kecepatan tinggi tetap (total 5GB). Setelah habis, Anda isi ulang atau beli paket baru. Paket tak terbatas terus menyediakan data, tetapi kecepatan dapat berkurang setelah 30GB dalam sehari berdasarkan kebijakan penggunaan wajar. Untuk sebagian besar pelancong yang menggunakan peta, perpesanan, dan media sosial, paket 5GB sudah cukup.
     - q: |
         Bagaimana saya tahu jika paket eSIM Kosta Rika saya aktif dan siap digunakan?
       a: |
-        Setelah pembelian, Anda akan menerima kode QR dalam hitungan menit. Instal sebelum perjalanan Anda. Paket aktif secara
-        otomatis saat ponsel Anda terhubung ke jaringan di Kosta Rika — Anda akan melihat nama operator di bilah status Anda.
-        Anda dapat memverifikasi dengan membuka halaman web apa pun atau memeriksa akun Roami Anda. Jika tidak terjadi apa-apa
-        setelah 2 menit, aktifkan Roaming Data atau mulai ulang ponsel Anda.
+        Setelah pembelian, Anda akan menerima kode QR dalam hitungan menit. Instal sebelum perjalanan Anda. Paket aktif secara otomatis saat ponsel Anda terhubung ke jaringan di Kosta Rika — Anda akan melihat nama operator di bilah status Anda. Anda dapat memverifikasi dengan membuka halaman web apa pun atau memeriksa akun Roami Anda. Jika tidak terjadi apa-apa setelah 2 menit, aktifkan Roaming Data atau mulai ulang ponsel Anda.
     - q: |
         Seberapa jauh sebelumnya saya harus membeli eSIM Kosta Rika?
       a: |
-        Anda dapat membeli kapan saja — bahkan di gerbang. Kode QR tiba dalam hitungan menit. Kami menyarankan membeli beberapa
-        hari sebelumnya agar Anda dapat menginstal di WiFi di rumah. Paket hanya aktif saat Anda terhubung di Kosta Rika,
-        jadi membeli lebih awal tidak membuang hari paket Anda.
+        Anda dapat membeli kapan saja — bahkan di gerbang. Kode QR tiba dalam hitungan menit. Kami menyarankan membeli beberapa hari sebelumnya agar Anda dapat menginstal di WiFi di rumah. Paket hanya aktif saat Anda terhubung di Kosta Rika, jadi membeli lebih awal tidak membuang hari paket Anda.
+    - q: |
+        Bagaimana cakupan eSIM Kosta Rika di San José dan sekitarnya?
+      a: |
+        Cakupan eSIM Kosta Rika mengikuti jaringan Liberty di kota besar seperti San José. Di daerah terpencil sinyal bisa lebih lemah, dan eSIM akan berpindah ke operator mitra secara otomatis.
+    - q: |
+        Cukupkah paket termurah untuk pemakaian saya di Alajuela?
+      a: |
+        Paket mulai $9.99 sudah menutupi navigasi, pesan, dan media sosial selama Anda berada di Alajuela. Aktivasi dilakukan sekali sebelum berangkat, jadi tidak ada antrean di bandara.
+    - q: |
+        Untuk 7 hari di Kosta Rika dan kota seperti San José, lebih baik paket 1GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 1GB (7 hari, $9.99) karena harganya paling efisien dan memadai untuk kunjungan ke San José. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $84.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Kosta Rika Terkait
   items:
-  - name: united states eSIM
-    flag: img/flags/us.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
+  - name: eSIM Latvia
+    flag: img/flags/lv.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
+  - name: eSIM Filipina
+    flag: img/flags/ph.svg
+    price: Mulai $2.99
+    is_highlight: false
+  - name: eSIM Ukraina
+    flag: img/flags/ua.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
+  - name: eSIM Bolivia
+    flag: img/flags/bo.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Mesir
+    flag: img/flags/eg.svg
+    price: Mulai $2.99
+    is_highlight: false
+  - name: eSIM Islandia
+    flag: img/flags/is.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
+  - name: eSIM Malawi
+    flag: img/flags/mw.svg
+    price: Mulai $14.99
+    is_highlight: false
+  - name: eSIM Rumania
+    flag: img/flags/ro.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
+  - name: eSIM Vatikan
+    flag: img/flags/va.svg
+    price: Mulai $10.99
+    is_highlight: false
+  - name: eSIM Burkina Faso
+    flag: img/flags/bf.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Finlandia
+    flag: img/flags/fi.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: eSIM Italia
+    flag: img/flags/it.svg
     price: Mulai $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Kosta Rika vs Paket Kartu SIM: Mana yang Sesuai dengan Kebutuhan Anda?'
   subtitle: SIM Prabayar Lokal Kosta Rika vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Kosta Rika) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Costa-Rica
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -473,12 +463,11 @@ market_analysis:
       seharga 17.500 colones; perjalanan 5 hari yang membeli paket 30-hari Claro membuang sekitar 12.016 colones (70% biaya).
     esim_title: Paket Jangka Pendek Fleksibel
     esim_desc: Tidak seperti paket 30-hari/2GB kölbi (4.000 colones) atau paket 30-hari/10GB Claro (17.500 colones), Roami
-      menawarkan paket 7 hari mulai dari $1.99/GB, menghemat hingga 70% pemborosan untuk perjalanan 5 hari.
+      menawarkan paket 7 hari mulai dari $1.55/GB, menghemat hingga 70% pemborosan untuk perjalanan 5 hari.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Namun, berdasarkan praktik umum, tethering umumnya
-      diizinkan tetapi mungkin dibatasi pada beberapa paket; misalnya, SIM data-only Claro dibatasi hingga 2Mbps di 3G.
+    prepaid_desc: Namun, berdasarkan praktik umum, tethering umumnya diizinkan tetapi mungkin dibatasi pada beberapa paket; misalnya, SIM data-only Claro dibatasi hingga 2Mbps di 3G.
     esim_title: Tethering Tanpa Batasan
     esim_desc: Sementara SIM data-only Claro dibatasi hingga 2Mbps di 3G, eSIM Roami mengizinkan berbagi hotspot kecepatan
       penuh tanpa batas kecepatan atau pembatasan.
@@ -512,7 +501,7 @@ market_analysis:
       icon_color: text-amber-600
       title: Hilangkan Pemborosan Paket 30 Hari
       desc: Paket terbesar <b>kölbi</b> adalah 30 hari/2GB (4.000 colones); SIM data <b>Claro</b> adalah 30 hari/10GB (17.500
-        colones). Perjalanan 7 hari membuang ~70% biaya. Roami menawarkan paket 7 hari dari <b>$1.99/GB</b>, hanya membayar
+        colones). Perjalanan 7 hari membuang ~70% biaya. Roami menawarkan paket 7 hari dari <b>$1.55/GB</b>, hanya membayar
         apa yang Anda gunakan.
     - icon: passport
       icon_bg: bg-blue-100

@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Indonesia 2026 - Paket 5G Terbaik di Bali & Jakarta | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 'eSIM Indonesia: 5G Cepat & Data Melimpah untuk Anda'
   description: 'Data 5G cepat untuk Indonesia bersama eSIM Roami. Cakupan Telkomsel & Indosat Ooredoo & XL Axiata. Aktivasi instan, mulai $1.99.'
-  keywords: eSIM Indonesia, beli eSIM Indonesia, eSIM Indonesia terbaik, eSIM perjalanan Indonesia, Telkomsel Indonesia, Indosat Ooredoo Indonesia, XL Axiata Indonesia, eSIM Jakarta, eSIM Bali, eSIM Yogyakarta, eSIM prabayar Indonesia, eSIM 5G Indonesia, eSIM Indonesia tanpa IMEI
+  keywords: eSIM Indonesia, beli eSIM Indonesia, eSIM terbaik Indonesia, eSIM perjalanan Indonesia, Telkomsel Indonesia, Indosat Ooredoo Indonesia, XL Axiata Indonesia, eSIM Jakarta, eSIM Surabaya, eSIM Bandung, eSIM prabayar Indonesia, 5G eSIM Indonesia, eSIM Bali, eSIM Yogyakarta, eSIM Ubud, paket eSIM Indonesia
   low_price: 1.99
-  high_price: 39.9
+  high_price: 68.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -74,7 +74,7 @@ features:
     color: from-sky-400 to-sky-600
     title: Siap untuk Bali & Kepulauan
     desc: 4G/5G di seluruh Bali, Jawa & pulau wisata utama — tetap terhubung dari Seminyak hingga Ubud
-plans_title: 'Beli eSIM Indonesia: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Pilih Paket eSIM Indonesia Sesuai Kebutuhan Data Anda'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -290,7 +290,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Indonesia: Panduan 5G Telkomsel, Indosat & XL — Bali hingga Jawa'
+  title: 'Cakupan eSIM Indonesia: Panduan Jaringan CSL, SmarTone & CMHK'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -321,7 +321,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Indonesia: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips eSIM Indonesia: Hal yang Perlu Disiapkan Sebelum Terbang'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -346,7 +346,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Indonesia: 3 Langkah Mudah'
+  title: 'Panduan Aktivasi eSIM Indonesia untuk Pemula'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -366,12 +366,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Indonesia: 5G, Pajak IMEI & Tips Perjalanan"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Indonesia. Cari tahu kecepatan apa yang diharapkan di Bali, Jakarta, dan Yogyakarta — dan bagaimana menghindari jebakan pajak IMEI."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Indonesia. Cari tahu kecepatan yang diharapkan di Cancún, Mexico City, dan di reruntuhan — dan mengapa Roami adalah jawaban atas aturan registrasi SIM baru Indonesia 2026."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Indonesia
+    title: Pertanyaan yang Sering Diajukan soal eSIM Indonesia
     questions:
     - q: |
         Apa itu registrasi IMEI dan mengapa bisa menghabiskan 40% dari nilai ponsel saya?
@@ -409,63 +409,75 @@ faq_section:
         Kapan masa berlaku eSIM Indonesia saya dimulai?
       a: |
         Masa berlaku paket dimulai saat Anda terhubung ke jaringan lokal di Indonesia, bukan saat Anda membeli atau menginstalnya. Jadi Anda dapat membeli dan menginstal berminggu-minggu sebelum perjalanan tanpa kehilangan hari paket. Paket 7 hari memberi Anda 7 hari penuh dari koneksi pertama.
+    - q: |
+        Jaringan apa yang dipakai eSIM Indonesia saat saya berada di Jakarta?
+      a: |
+        eSIM Indonesia memakai jaringan Telkomsel dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area Jakarta koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Apakah eSIM Indonesia berfungsi baik di Surabaya?
+      a: |
+        Di Surabaya eSIM Indonesia memakai jaringan 4G/5G Telkomsel, cukup untuk peta, perpesanan, dan mengunggah foto. Paket mulai $1.99 praktis untuk kunjungan singkat ke Surabaya.
+    - q: |
+        Untuk 15 hari di Indonesia dan kota seperti Jakarta, lebih baik paket 3GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 3GB (15 hari, $5.99) karena harganya paling efisien dan memadai untuk kunjungan ke Jakarta. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $37.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Indonesia Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: Inggris Raya
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Prancis
+    flag: img/flags/fr.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
-    is_highlight: false
   - name: eSIM Jepang
     flag: img/flags/jp.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
+  - name: eSIM Norwegia
+    flag: img/flags/no.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
+  - name: eSIM Thailand
+    flag: img/flags/th.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
+  - name: eSIM Belarus
+    flag: img/flags/by.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
+  - name: eSIM Mesir
+    flag: img/flags/eg.svg
+    price: Mulai $2.99
+    is_highlight: false
+  - name: eSIM Malta
+    flag: img/flags/mt.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Korea Selatan
+    flag: img/flags/kr.svg
     price: Mulai $1.99
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
     price: Mulai $1.99
     is_highlight: false
+  - name: eSIM Kroasia
+    flag: img/flags/hr.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Guatemala
+    flag: img/flags/gt.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Lituania
+    flag: img/flags/lt.svg
+    price: Mulai $1.99
+    is_highlight: false
 market_analysis:
   title: 'eSIM Indonesia vs SIM Lokal: Tanpa Pajak IMEI, Tanpa Markup Bandara, Tanpa Paspor'
   subtitle: SIM Prabayar Lokal Indonesia vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Indonesia) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Indonesia
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)

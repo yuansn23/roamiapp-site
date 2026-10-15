@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Portugal 2026 - Paket 5G Terbaik untuk Lisbon & Algarve | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 'eSIM Portugal: Prabayar & Kuota Melimpah untuk Wisata'
   description: 'Roami: eSIM prabayar Portugal dengan jaringan 5G cepat. Cakupan Vodafone Portugal & MEO & NOS. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Portugal, beli eSIM Portugal, eSIM Portugal terbaik, eSIM perjalanan Portugal, Vodafone Portugal, MEO Portugal, NOS Portugal, eSIM Lisbon, eSIM Porto, eSIM Faro, eSIM prabayar Portugal, eSIM 5G Portugal, eSIM Algarve, eSIM Douro Valley, eSIM Sintra
+  keywords: eSIM Portugal, beli eSIM Portugal, eSIM Portugal terbaik, eSIM perjalanan Portugal, Vodafone Portugal, MEO Portugal, NOS Portugal, eSIM Lisbon, eSIM Porto, eSIM Faro, eSIM prabayar Portugal, eSIM 5G Portugal, eSIM Algarve, eSIM Douro Valley, eSIM Sintra, paket eSIM Portugal
   low_price: 1.99
-  high_price: 39.9
+  high_price: 71.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Otomatis Beralih
     desc: Terhubung otomatis ke Vodafone, MEO & NOS untuk sinyal terbaik di seluruh Portugal
-plans_title: 'Beli eSIM Portugal: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Pilihan Paket eSIM Portugal: Hemat, Sedang & Besar'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -286,7 +286,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Portugal: Panduan Jaringan Vodafone, MEO & NOS'
+  title: 'Cakupan eSIM Portugal: Panduan 5G Síminn, Vodafone & Telenor — Ring Road ke Reykjavik'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -317,7 +317,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Portugal: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Catatan Sebelum Berangkat dengan eSIM Portugal'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -338,7 +338,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Portugal: 3 Langkah Mudah'
+  title: 'Panduan Instalasi eSIM Portugal untuk iPhone & Android'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -358,12 +358,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Portugal: Kecepatan, Cakupan, dan Tips Perjalanan untuk Portugal"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Portugal. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Portugal. Cari tahu kecepatan apa yang diharapkan di Bali, Jakarta, dan Yogyakarta — dan bagaimana menghindari jebakan pajak IMEI."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Portugal
+    title: Tanya Jawab Cepat eSIM Portugal
     questions:
     - q: |
         Apakah saya perlu menunjukkan KTP untuk membeli kartu SIM di Portugal?
@@ -401,63 +401,75 @@ faq_section:
         Dapatkah saya mengisi ulang eSIM Portugal saya jika data habis?
       a: |
         Ya — Anda dapat mengisi ulang melalui akun Roami Anda kapan saja dengan satu klik. Tidak seperti SIM prabayar Portugal dengan batasan pembayaran rumit mereka (MEO/NOS menolak kartu internasional, Vodafone memerlukan kartu berusia 3+ bulan, NOS mengenakan biaya Payshop), Roami menerima metode pembayaran global tanpa hambatan.
+    - q: |
+        Bagaimana cakupan eSIM Portugal di Lisbon dan sekitarnya?
+      a: |
+        Cakupan eSIM Portugal mengikuti jaringan Vodafone Portugal di kota besar seperti Lisbon. Di daerah terpencil sinyal bisa lebih lemah, dan eSIM akan berpindah ke operator mitra secara otomatis.
+    - q: |
+        Perlu paket seperti apa untuk perjalanan ke Porto?
+      a: |
+        Untuk Porto, paket mulai $1.99 sudah memadai: peta, pesan, dan media sosial berjalan lancar lewat jaringan lokal. Bila Anda sering streaming atau memakai hotspot, pilih kuota yang lebih besar.
+    - q: |
+        Untuk 30 hari di Portugal dan kota seperti Lisbon, lebih baik paket 3GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 3GB (30 hari, $6.99) karena harganya paling efisien dan memadai untuk kunjungan ke Lisbon. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $71.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Portugal Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: Inggris Raya
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Taiwan
+    flag: img/flags/tw.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Bahrain
+    flag: img/flags/bh.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Dominika
+    flag: img/flags/dm.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Hungary
+    flag: img/flags/hu.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
+  - name: eSIM Malaysia
+    flag: img/flags/my.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
+  - name: eSIM Seychelles
+    flag: img/flags/sc.svg
+    price: Mulai $9.99
+    is_highlight: false
+  - name: eSIM Andorra
+    flag: img/flags/ad.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Kolombia
+    flag: img/flags/co.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Grenada
+    flag: img/flags/gd.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Latvia
+    flag: img/flags/lv.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
+  - name: eSIM Uruguay
+    flag: img/flags/uy.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
+  - name: eSIM Burkina Faso
+    flag: img/flags/bf.svg
+    price: Mulai $11.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Portugal vs Kartu SIM Lokal: Mana yang Menghemat Lebih Banyak?'
   subtitle: SIM Prabayar Lokal Portugal vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Portugal) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Portugal
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -486,7 +498,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Paket mingguan MEO berharga €3.50 untuk 1GB (7 hari); paket 28 hari Vodafone berharga €20 untuk 5GB. Turis 5 hari yang membeli paket €20/28 hari Vodafone membuang lebih dari 80% nilai paket.
     esim_title: Paket Jangka Pendek Fleksibel
-    esim_desc: Hindari paket kaku €14.99/15 hari MEO atau paket €20/28 hari Vodafone yang membuang lebih dari 80% untuk perjalanan 5 hari. Roami menawarkan paket 7 hari mulai dari $1.99/GB, menghemat uang Anda.
+    esim_desc: Hindari paket kaku €14.99/15 hari MEO atau paket €20/28 hari Vodafone yang membuang lebih dari 80% untuk perjalanan 5 hari. Roami menawarkan paket 7 hari mulai dari $0.85/GB, menghemat uang Anda.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''

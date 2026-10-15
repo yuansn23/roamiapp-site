@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Moldova 2026: Panduan 5G & Data | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 'eSIM Moldova: Prabayar & Kuota Besar untuk Perjalanan'
   description: '5G cepat & data melimpah untuk Moldova dari Roami. Cakupan Orange Moldova & Moldcell & Moldtelecom. Aktivasi instan, mulai $1.99.'
-  keywords: eSIM Moldova, beli eSIM Moldova, eSIM terbaik Moldova, eSIM perjalanan Moldova, Orange Moldova Moldova, Moldcell Moldova, Moldtelecom Moldova, eSIM Chișinău, eSIM Bălți, eSIM Tiraspol, eSIM prabayar Moldova, eSIM 5G Moldova
+  keywords: eSIM Moldova, beli eSIM Moldova, eSIM terbaik Moldova, eSIM perjalanan Moldova, Orange Moldova, Moldcell Moldova, Moldtelecom Moldova, eSIM Chișinău, eSIM Bălți, eSIM Tiraspol, eSIM prabayar Moldova, 5G eSIM Moldova, eSIM Chisinau, eSIM Cricova, eSIM Orheiul Vechi, paket eSIM Moldova
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Pindah Otomatis
     desc: Terhubung otomatis ke operator top Moldova untuk sinyal terbaik
-plans_title: 'Beli eSIM Moldova: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Harga & Paket eSIM Moldova: Semua Durasi Tersedia'
 plans_data:
   30 Hari:
   - spec: 30GB
@@ -262,7 +262,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Moldova: Panduan Operator & Peta Cakupan'
+  title: 'Jangkauan eSIM Moldova: Panduan Lengkap Jaringan Lokal'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -293,7 +293,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Moldova: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Panduan Singkat Pengaturan eSIM Moldova'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -312,7 +312,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Moldova: 3 Langkah Mudah'
+  title: 'Cara Mengaktifkan eSIM Moldova di iPhone & Android'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -332,12 +332,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM untuk Wisatawan di Moldova -- Kecepatan Jaringan, Cakupan dan Tips"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Moldova. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Moldova. Cari tahu kecepatan apa yang diharapkan dan di mana 5G bekerja paling baik."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Moldova
+    title: FAQ & Tips eSIM Moldova
     questions:
     - q: |
         Untuk wisatawan di Moldova, apakah Orange atau Moldcell pilihan yang lebih baik?
@@ -350,7 +350,7 @@ faq_section:
     - q: |
         Saya memerlukan akses internet hanya untuk beberapa hari di Moldova. Berapa minimum yang bisa saya beli?
       a: |
-        Paket termurah adalah $1,99 untuk 7 hari dengan 1GB — sempurna untuk akhir pekan singkat dengan penggunaan ringan. Jika Anda perlu lebih banyak, isi ulang kapan saja dari aplikasi.
+        Paket termurah adalah $1.99 untuk 7 hari dengan 1GB — sempurna untuk akhir pekan singkat dengan penggunaan ringan. Jika Anda perlu lebih banyak, isi ulang kapan saja dari aplikasi.
     - q: |
         Bisakah saya menggunakan aplikasi navigasi seperti Google Maps dengan eSIM di Moldova?
       a: |
@@ -371,55 +371,67 @@ faq_section:
         Apakah eSIM saya di Moldova akan berfungsi untuk panggilan video dan kerja jarak jauh?
       a: |
         Tentu saja. Jaringan Orange menyediakan koneksi stabil untuk Zoom, Teams, dan Google Meet. Untuk kerja jarak jauh, paket 10GB atau tak terbatas direkomendasikan. eSIM juga mendukung berbagi hotspot untuk laptop Anda.
+    - q: |
+        Jaringan apa yang dipakai eSIM Moldova saat saya berada di Chișinău?
+      a: |
+        eSIM Moldova memakai jaringan Orange Moldova dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area Chișinău koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Apakah saya tetap online selama berada di Bălți?
+      a: |
+        Ya. Sepanjang perjalanan ke Bălți Anda tetap terhubung lewat jaringan Orange Moldova; paket mulai $1.99 cocok untuk pemakaian ringan, sedangkan pengguna data berat bisa menambah kuota kapan saja.
+    - q: |
+        Untuk 7 hari di Moldova dan kota seperti Chișinău, lebih baik paket 1GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 1GB (7 hari, $2.99) karena harganya paling efisien dan memadai untuk kunjungan ke Chișinău. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $20.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1,99
+  - name: eSIM Uganda
+    flag: img/flags/ug.svg
+    price: Mulai $7.99
     is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: Mulai $1,99
+  - name: eSIM Bahrain
+    flag: img/flags/bh.svg
+    price: Mulai $6.99
     is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Mulai $1,99
+  - name: eSIM Kongo (Kinshasa)
+    flag: img/flags/cg.svg
+    price: Mulai $7.99
+    is_highlight: false
+  - name: eSIM Georgia
+    flag: img/flags/ge.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Italia
+    flag: img/flags/it.svg
+    price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Mulai $1,99
+  - name: eSIM Maladewa
+    flag: img/flags/mv.svg
+    price: Mulai $14.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1,99
+  - name: eSIM Qatar
+    flag: img/flags/qa.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1,99
+  - name: eSIM Ukraina
+    flag: img/flags/ua.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1,99
+  - name: eSIM Bangladesh
+    flag: img/flags/bd.svg
+    price: Mulai $5.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1,99
-    is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1,99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1,99
+  - name: eSIM Kosta Rika
+    flag: img/flags/cr.svg
+    price: Mulai $9.99
     is_highlight: false
   - name: eSIM Jerman
     flag: img/flags/de.svg
-    price: Mulai $1,99
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1,99
+  - name: eSIM Pantai Gading
+    flag: img/flags/ci.svg
+    price: Mulai $9.99
     is_highlight: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Irak 2026 - Paket 5G Terbaik untuk Erbil & Baghdad | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -20,10 +20,10 @@ modal:
     promo:web20
 seo:
   title: 'eSIM Irak: Prabayar & Data Melimpah untuk Wisata'
-  description: 'Internet 5G cepat di Irak dengan eSIM prabayar Roami. Cakupan Zain Iraq & Asiacell & Korek Telecom. Aktivasi instan, mulai $1.99.'
-  keywords: eSIM Irak, beli eSIM Irak, eSIM Irak terbaik, eSIM perjalanan Irak, Zain Iraq, Asiacell Iraq, Korek Telecom Iraq, eSIM Baghdad, eSIM Basra, eSIM Mosul, eSIM prabayar Irak, 5G eSIM Irak, eSIM Erbil, eSIM Kurdistan Irak
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Internet 5G cepat di Irak dengan eSIM prabayar Roami. Cakupan Zain Iraq & Asiacell & Korek Telecom. Aktivasi instan, mulai $9.99.'
+  keywords: eSIM Irak, beli eSIM Irak, eSIM Irak terbaik, eSIM perjalanan Irak, Zain Iraq Irak, Asiacell Irak, Korek Telecom Irak, eSIM Baghdad, eSIM Basra, eSIM Mosul, eSIM prabayar Irak, eSIM 5G Irak, eSIM Erbil, eSIM Kurdistan Irak, eSIM Najaf, paket eSIM Irak
+  low_price: 9.99
+  high_price: 149.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -72,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Ganti Otomatis
     desc: Terhubung otomatis ke Zain, Asiacell & Korek untuk sinyal terbaik di seluruh Irak
-plans_title: 'Beli eSIM Irak: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Daftar Paket eSIM Irak: Kuota, Durasi & Harga'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -258,7 +258,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Irak: Panduan Jaringan Zain, Asiacell & Korek'
+  title: 'Cakupan eSIM Irak: Panduan 5G Síminn, Vodafone & Telenor — Ring Road ke Reykjavik'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -289,7 +289,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Irak: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Panduan Persiapan eSIM Irak Sebelum Keberangkatan'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -310,7 +310,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar, perangkat Anda mendukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Irak: 3 Langkah Mudah'
+  title: '3 Langkah Mengaktifkan eSIM Irak'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -330,12 +330,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Irak: Kecepatan, Cakupan, dan Tips Perjalanan untuk Irak"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Irak. Cari tahu kecepatan yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Irak. Cari tahu kecepatan apa yang diharapkan di Auckland, Queenstown dan di Hobbiton — dan bagaimana menghindari jebakan SIM 30 hari."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Irak
+    title: FAQ Lengkap eSIM Irak
     questions:
     - q: |
         Apakah aman membeli kartu SIM di Irak sebagai turis? Apakah saya perlu mengunjungi toko?
@@ -369,55 +369,67 @@ faq_section:
         Dapatkah saya menambah kuota eSIM Irak saya jika data habis?
       a: |
         Ya — Anda dapat menambah kuota melalui akun Roami Anda kapan saja. Tidak perlu mengunjungi toko atau mencari kartu isi ulang di Irak. Cukup masuk, tambah data, dan lanjutkan menggunakan eSIM Anda segera.
+    - q: |
+        Jaringan apa yang dipakai eSIM Irak saat saya berada di Baghdad?
+      a: |
+        eSIM Irak memakai jaringan Zain Iraq dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area Baghdad koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Cukupkah paket termurah untuk pemakaian saya di Basra?
+      a: |
+        Paket mulai $9.99 sudah menutupi navigasi, pesan, dan media sosial selama Anda berada di Basra. Aktivasi dilakukan sekali sebelum berangkat, jadi tidak ada antrean di bandara.
+    - q: |
+        Untuk 7 hari di Irak dan kota seperti Baghdad, lebih baik paket 1GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 1GB (7 hari, $12.99) karena harganya paling efisien dan memadai untuk kunjungan ke Baghdad. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $66.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Irak Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Yunani
+    flag: img/flags/gr.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Mulai $1.99
+  - name: eSIM Grenada
+    flag: img/flags/gd.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
+  - name: eSIM Guadeloupe
+    flag: img/flags/gp.svg
+    price: Mulai $8.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
+  - name: eSIM Guam
+    flag: img/flags/gu.svg
+    price: Mulai $9.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
+  - name: eSIM Guatemala
+    flag: img/flags/gt.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Guyana
+    flag: img/flags/gy.svg
+    price: Mulai $9.99
+    is_highlight: false
+  - name: eSIM Honduras
+    flag: img/flags/hn.svg
+    price: Mulai $6.99
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
+  - name: eSIM Hungary
+    flag: img/flags/hu.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
+  - name: eSIM Islandia
+    flag: img/flags/is.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
+  - name: eSIM India
+    flag: img/flags/in.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
+  - name: eSIM Indonesia
+    flag: img/flags/id.svg
     price: Mulai $1.99
     is_highlight: false
 ---

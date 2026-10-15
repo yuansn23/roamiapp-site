@@ -73,7 +73,7 @@ Orange 是法國最大的業者，其 **Holiday Europe** 系列是這片大陸�
 
 ### 德國預付卡基準：Telekom、Vodafone 與平價層
 
-對「單一據點」的行程而言，德國預付卡市場是有用的基準，因為它是歐洲最大的，而且價格階梯異常透明。我們自己的[德國預付卡價格指南](/blog/germany-esim-local-carriers-prepaid-guide)追蹤目前的層級：**Telekom MagentaMobil** 約 €20 得 5 GB、€30 得 10 GB；**Vodafone CallYa** 和 **O2 Prepaid** 的 10 GB 約在 €12–15；而超市品牌——**Aldi Talk**、**Lidl Connect**、**congstar**——同樣數據量大約落在 €8–13。
+對「單一據點」的行程而言，德國預付卡市場是有用的基準，因為它是歐洲最大的，而且價格階梯異常透明。我們自己的[德國預付卡價格指南](/blog/germany-esim-local-carriers-prepaid-guide/)追蹤目前的層級：**Telekom MagentaMobil** 約 €20 得 5 GB、€30 得 10 GB；**Vodafone CallYa** 和 **O2 Prepaid** 的 10 GB 約在 €12–15；而超市品牌——**Aldi Talk**、**Lidl Connect**、**congstar**——同樣數據量大約落在 €8–13。
 
 | 層級 | 數據 | 約略價格 | 身分查驗 |
 |:---|:---|:---|:---|

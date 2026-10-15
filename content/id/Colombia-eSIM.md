@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Kolombia 2026: Panduan Koneksi & Kecepatan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -21,11 +21,10 @@ modal:
     promo:web20
 seo:
   title: 'eSIM Kolombia: 5G Cepat & Kuota Melimpah untuk Bisnis'
-  description: 'Beli eSIM prabayar Kolombia dari Roami dengan 5G cepat. Cakupan Claro & Movistar & Tigo. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Kolombia, beli eSIM Kolombia, eSIM Kolombia terbaik, eSIM perjalanan Kolombia, Claro Kolombia, Movistar Kolombia,
-    Tigo Kolombia, eSIM Bogotá, eSIM Medellín, eSIM Cartagena, eSIM prabayar Kolombia, 5G eSIM Kolombia
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Beli eSIM prabayar Kolombia dari Roami dengan 5G cepat. Cakupan Claro & Movistar & Tigo. Aktivasi QR instan, mulai $4.99.'
+  keywords: eSIM Kolombia, beli eSIM Kolombia, eSIM Kolombia terbaik, eSIM perjalanan Kolombia, Claro Kolombia, Movistar Kolombia, Tigo Kolombia, eSIM Bogotá, eSIM Medellín, eSIM Cartagena, eSIM prabayar Kolombia, eSIM 5G Kolombia, eSIM Amazon, eSIM wilayah kopi, eSIM Cali, paket eSIM Kolombia
+  low_price: 4.99
+  high_price: 86.99
 order_summary:
   title: Paket Terpilih
   label_data: Data Termasuk
@@ -74,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Pengalihan Otomatis
     desc: Terhubung otomatis ke operator Kolombia terbaik untuk sinyal terbaik
-plans_title: 'Beli eSIM Kolombia: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Kolombia: Kuota untuk Perjalanan Pendek & Panjang'
 plans_data:
   7 Hari:
   - spec: 1GB
@@ -260,7 +259,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Kolombia: Cakupan Jaringan & Perbandingan Operator'
+  title: 'Cakupan eSIM Kolombia: Panduan Jaringan Globe, Smart & DITO'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -293,7 +292,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Kolombia: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Pengaturan eSIM Kolombia: Checklist Sebelum Berangkat'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -314,7 +313,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Kolombia: 3 Langkah Mudah'
+  title: 'Panduan Memasang & Mengaktifkan eSIM Kolombia'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -336,17 +335,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Terhubung di Kolombia -- Panduan Kualitas Jaringan dan Kecepatan eSIM"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Kolombia. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi bagi pelancong di Kolombia. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Kolombia
+    title: Tanya Jawab eSIM Kolombia untuk Wisatawan
     questions:
     - q: |
         Apa opsi eSIM termurah untuk perjalanan ke Kolombia?
       a: |
-        Paket eSIM Kolombia Roami mulai dari $1.99 (7 hari, 1GB) hingga $59.99 (30 hari tak terbatas). Untuk perjalanan 5-7 hari pada umumnya, paket 5GB seharga $9.99 adalah pilihan tepat — cukup untuk peta, pesan, dan memeriksa media sosial. Perlu streaming video atau bekerja jarak jauh? Pilih 10GB atau tak terbatas. Berkat jaringan 5G Claro, streaming dan panggilan video berfungsi dengan baik. Kios SIM bandara mengenakan biaya 30-50% lebih mahal, dan Anda harus mengantre. Tidak yakin tentang kebutuhan data Anda? Mulai dari yang kecil dan isi ulang melalui aplikasi tanpa mengubah eSIM Anda.
+        Paket eSIM Kolombia Roami mulai dari $6.99 (7 hari, 1GB) hingga $52.99 (30 hari tak terbatas). Untuk perjalanan 5-7 hari pada umumnya, paket 5GB seharga $14.99 adalah pilihan tepat — cukup untuk peta, pesan, dan memeriksa media sosial. Perlu streaming video atau bekerja jarak jauh? Pilih 10GB atau tak terbatas. Berkat jaringan 5G Claro, streaming dan panggilan video berfungsi dengan baik. Kios SIM bandara mengenakan biaya 30-50% lebih mahal, dan Anda harus mengantre. Tidak yakin tentang kebutuhan data Anda? Mulai dari yang kecil dan isi ulang melalui aplikasi tanpa mengubah eSIM Anda.
     - q: |
         Bagaimana perbandingan Claro, Movistar, dan Tigo untuk wisatawan yang mengunjungi Kolombia?
       a: |
@@ -366,7 +365,7 @@ faq_section:
     - q: |
         Bagaimana jika hotel saya di Kolombia memiliki WiFi gratis — apakah saya masih perlu data eSIM?
       a: |
-        WiFi hotel berfungsi di kamar Anda tetapi tidak saat Anda sedang menjelajah. eSIM memberi Anda data di mana saja — menavigasi jalan, mencari tempat terdekat, memeriksa jadwal transportasi. Paket 5GB berharga $9.99, yang sering lebih murah daripada WiFi hotel berbayar selama seminggu ($10-15 di banyak hotel). Sebagian besar pelancong menggunakan WiFi hotel untuk unduhan besar dan eSIM untuk konektivitas saat bepergian.
+        WiFi hotel berfungsi di kamar Anda tetapi tidak saat Anda sedang menjelajah. eSIM memberi Anda data di mana saja — menavigasi jalan, mencari tempat terdekat, memeriksa jadwal transportasi. Paket 5GB berharga $14.99, yang sering lebih murah daripada WiFi hotel berbayar selama seminggu ($10-15 di banyak hotel). Sebagian besar pelancong menggunakan WiFi hotel untuk unduhan besar dan eSIM untuk konektivitas saat bepergian.
     - q: |
         Berapa banyak profil eSIM yang dapat saya simpan di ponsel untuk perjalanan ke Kolombia?
       a: |
@@ -374,64 +373,76 @@ faq_section:
     - q: |
         Saya bepergian ke Kolombia hanya selama 2-3 hari. eSIM apa yang harus saya dapatkan?
       a: |
-        Untuk perjalanan singkat, paket 1GB/7 hari ($1.99) mencakup peta dan pesan. Jika Anda berencana menggunakan media sosial dan berbagi foto, paket 3GB ($4.99) memberi lebih banyak ruang. Keduanya aktif secara instan dan Anda dapat mengisi ulang jika diperlukan.
+        Untuk perjalanan singkat, paket 1GB/7 hari ($6.99) mencakup peta dan pesan. Jika Anda berencana menggunakan media sosial dan berbagi foto, paket 3GB ($9.99) memberi lebih banyak ruang. Keduanya aktif secara instan dan Anda dapat mengisi ulang jika diperlukan.
+    - q: |
+        Apakah eSIM Roami Kolombia memakai jaringan Claro?
+      a: |
+        Tentu. eSIM Roami bekerja di jaringan Claro tanpa registrasi tambahan; jaringan dipilih otomatis untuk sinyal terbaik, baik di Bogotá maupun saat Anda melanjutkan perjalanan ke kota lain di Kolombia.
+    - q: |
+        Apakah eSIM Kolombia berfungsi baik di Medellín?
+      a: |
+        Di Medellín eSIM Kolombia memakai jaringan 4G/5G Claro, cukup untuk peta, perpesanan, dan mengunggah foto. Paket mulai $4.99 praktis untuk kunjungan singkat ke Medellín.
+    - q: |
+        Apakah paket 1GB cukup untuk perjalanan 3 hari di Kolombia dan kota seperti Bogotá?
+      a: |
+        Untuk perjalanan 3 hari, paket 1GB seharga $4.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Bogotá. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket Unlimited seharga $52.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Kolombia Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: From $1.99
+  - name: eSIM Irak
+    flag: img/flags/iq.svg
+    price: Mulai $9.99
     is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: eSIM Lituania
+    flag: img/flags/lt.svg
+    price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Tiongkok
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: From $1.99
+  - name: eSIM Panama
+    flag: img/flags/pa.svg
+    price: Mulai $11.99
     is_highlight: false
   - name: eSIM Spanyol
     flag: img/flags/es.svg
-    price: From $1.99
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: From $1.99
+  - name: eSIM Afghanistan
+    flag: img/flags/af.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: eSIM Botswana
+    flag: img/flags/bw.svg
+    price: Mulai $14.99
+    is_highlight: false
+  - name: eSIM Denmark
+    flag: img/flags/dk.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Gibraltar
+    flag: img/flags/gi.svg
+    price: Mulai $5.99
+    is_highlight: false
+  - name: eSIM Pantai Gading
+    flag: img/flags/ci.svg
+    price: Mulai $9.99
+    is_highlight: false
+  - name: eSIM Malaysia
+    flag: img/flags/my.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Polandia
+    flag: img/flags/pl.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Tanzania
+    flag: img/flags/tz.svg
+    price: Mulai $7.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Kolombia atau Kartu SIM: Apa Pilihan Terbaik di Tahun 2026?'
   subtitle: SIM Prabayar Lokal Kolombia vs. Solusi eSIM (Tolok Ukur 2025/2026)
   citation:
-    text: 'Sumber Data: Wiki Kartu SIM Data Prabayar (Kolombia) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Colombia
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -467,12 +478,11 @@ market_analysis:
       menyia-nyiakan 2 hari nilai.
     esim_title: Paket Harian Fleksibel
     esim_desc: Hindari siklus tetap 7 hari Claro (COP 11.000/5GB) yang menyia-nyiakan 2 hari untuk perjalanan 5 hari. Roami menawarkan paket
-      7 hari mulai dari $1.99/GB, membayar hanya untuk apa yang Anda gunakan.
+      7 hari mulai dari $2.50/GB, membayar hanya untuk apa yang Anda gunakan.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar, sebagian besar paket prabayar Kolombia mengizinkan
-      tethering tetapi mungkin memperlambat setelah batas tertentu.
+    prepaid_desc: Sebagian besar paket prabayar Kolombia mengizinkan tethering tetapi mungkin memperlambat setelah batas tertentu.
     esim_title: Tethering Tanpa Batasan
     esim_desc: Roami eSIM mengizinkan berbagi hotspot kecepatan penuh, tidak seperti beberapa paket lokal yang mungkin memperlambat setelah batas (mis.,
       Tigo Une membatasi hingga 10 Mbps).

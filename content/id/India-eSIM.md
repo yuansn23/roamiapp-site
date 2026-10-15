@@ -1,7 +1,7 @@
 ---
 title: 'eSIM India 2026 - Paket 5G Terbaik untuk Delhi & Taj Mahal | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIM</strong>.<br>Pelanggan baru dapatkan diskon 20%, kode promo:web20
 seo:
   title: 'eSIM India: Prabayar & Data Melimpah untuk Turis'
-  description: 'Roami menghadirkan eSIM India: internet 5G cepat. Cakupan Airtel & Jio & Vi. Aktivasi QR instan, mulai $1.99. Tanpa biaya roaming.'
-  keywords: eSIM India, beli eSIM India, eSIM India terbaik, eSIM perjalanan India, Airtel India, Jio India, Vi India, eSIM Delhi, eSIM Mumbai, eSIM Bangalore, eSIM prabayar India, eSIM 5G India, eSIM Taj Mahal, eSIM Jaipur, eSIM Kerala
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Roami menghadirkan eSIM India: internet 5G cepat. Cakupan Airtel & Jio & Vi. Aktivasi QR instan, mulai $3.99. Tanpa biaya roaming.'
+  keywords: eSIM India, beli eSIM India, eSIM terbaik India, eSIM perjalanan India, Airtel India, Jio India, Vi India, eSIM Delhi, eSIM Mumbai, eSIM Bangalore, eSIM prabayar India, 5G eSIM India, eSIM Taj Mahal, eSIM Rajasthan, eSIM Kerala, paket eSIM India
+  low_price: 3.99
+  high_price: 99.99
 order_summary:
   title: Paket Terpilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Ganti Otomatis
     desc: Terhubung otomatis ke Airtel, Jio & Vi untuk sinyal terbaik di seluruh India
-plans_title: 'Beli eSIM India: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM India: Harga & Kuota untuk Setiap Durasi'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -270,7 +270,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM India: Panduan Jaringan Airtel, Jio & Vi'
+  title: 'Cakupan eSIM India: Panduan 5G Vodafone, Cosmote & Wind — Daratan & Pulau'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -301,7 +301,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM India: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Persiapan eSIM India: Catatan Penting Sebelum Berangkat'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -322,7 +322,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM India: 3 Langkah Mudah'
+  title: 'Cara Memasang eSIM India dalam 3 Langkah'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -342,12 +342,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM India: Kecepatan, Cakupan, dan Tips Perjalanan untuk India"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di India. Cari tahu kecepatan yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di India. Cari tahu kecepatan apa yang diharapkan di Roma, Venesia, dan Florence — dan bagaimana menghindari jebakan Codice Fiscale."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM India
+    title: Tanya Jawab eSIM India
     questions:
     - q: |
         Apa itu KYC wajib India — dan apakah saya perlu melakukannya untuk Roami?
@@ -385,63 +385,75 @@ faq_section:
         Dapatkah saya isi ulang eSIM India saya jika data saya habis?
       a: |
         Ya — Anda dapat isi ulang melalui akun Roami Anda kapan saja. Tidak seperti SIM prabayar India yang memerlukan platform isi ulang lokal (SwiftRecharge.com sering memiliki biaya tambahan tinggi untuk kartu asing), Roami menerima metode pembayaran global tanpa biaya tambahan.
+    - q: |
+        Apakah eSIM India terhubung ke jaringan Airtel di Delhi?
+      a: |
+        Ya. eSIM India terhubung ke jaringan Airtel dan operator mitra lainnya, jadi sinyal tetap tersedia saat Anda berpindah dari Delhi ke kota lain di India. eSIM langsung aktif setelah dipasang, tanpa perlu memilih operator secara manual.
+    - q: |
+        Cukupkah paket termurah untuk pemakaian saya di Mumbai?
+      a: |
+        Paket mulai $3.99 sudah menutupi navigasi, pesan, dan media sosial selama Anda berada di Mumbai. Aktivasi dilakukan sekali sebelum berangkat, jadi tidak ada antrean di bandara.
+    - q: |
+        Apakah paket 1GB cukup untuk perjalanan 7 hari di India dan kota seperti Delhi?
+      a: |
+        Untuk perjalanan 7 hari, paket 1GB seharga $4.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Delhi. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket Tak Terbatas seharga $37.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM India Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
+  - name: eSIM Mesir
+    flag: img/flags/eg.svg
+    price: Mulai $2.99
     is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Islandia
+    flag: img/flags/is.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Malawi
+    flag: img/flags/mw.svg
+    price: Mulai $14.99
+    is_highlight: false
+  - name: eSIM Rumania
+    flag: img/flags/ro.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
+  - name: eSIM Vatikan
+    flag: img/flags/va.svg
+    price: Mulai $10.99
+    is_highlight: false
+  - name: eSIM Burkina Faso
+    flag: img/flags/bf.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Finlandia
+    flag: img/flags/fi.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM China
+  - name: eSIM Italia
+    flag: img/flags/it.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Nepal
+    flag: img/flags/ne.svg
+    price: Mulai $10.99
+    is_highlight: false
+  - name: eSIM Korea Selatan
+    flag: img/flags/kr.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Argentina
+    flag: img/flags/ar.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Tiongkok
     flag: img/flags/cn.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
     price: Mulai $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM India vs Kartu SIM Prabayar: Apakah Layak Beralih?'
   subtitle: SIM Prabayar Lokal India vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (India) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/India
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -470,7 +482,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Paket utama adalah siklus 28 hari (mis., Vi ₹549 untuk 3.5GB/hari, Airtel ₹349 untuk 3GB/hari, Jio ₹149 untuk 1.5GB/hari); perjalanan 5-7 hari membuang lebih dari 75% nilai paket.
     esim_title: Paket Pendek Fleksibel
-    esim_desc: Hindari pemborosan 28 hari. Roami menawarkan paket 7 hari dari $1.99/GB, menghemat lebih dari 75% dibandingkan paket Vi ₹549/28 hari untuk perjalanan 5 hari.
+    esim_desc: Hindari pemborosan 28 hari. Roami menawarkan paket 7 hari dari $1.55/GB, menghemat lebih dari 75% dibandingkan paket Vi ₹549/28 hari untuk perjalanan 5 hari.
   - icon: wifi
     title: Hotspot &<br>Kebijakan Kecepatan
     prepaid_title: ''
@@ -506,7 +518,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Hindari Siklus Penagihan 28 Hari yang Membuang 75% Uang Anda
-      desc: Paket utama seperti Vi <b>₹549/28 hari</b> atau Airtel <b>₹349/28 hari</b> memaksa Anda membayar 3+ minggu yang tidak Anda gunakan. <b>Paket 7 hari Roami dari $1.99/GB</b> sesuai dengan durasi perjalanan Anda.
+      desc: Paket utama seperti Vi <b>₹549/28 hari</b> atau Airtel <b>₹349/28 hari</b> memaksa Anda membayar 3+ minggu yang tidak Anda gunakan. <b>Paket 7 hari Roami dari $1.55/GB</b> sesuai dengan durasi perjalanan Anda.
     - icon: shield
       icon_bg: bg-teal-100
       icon_color: text-teal-600

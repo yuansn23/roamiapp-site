@@ -1,7 +1,7 @@
 ---
 title: 'Senegal eSIM 2026: Panduan Koneksi & Kecepatan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Orange, Free, Tigo
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Dakar, Saint-Louis, Thiès, Touba, Mbour
-  main_packages: 3/7/15/30 Hari, Data Tak Terbatas
+  main_packages: 7/30 Hari
 modal:
   title: Layanan Ditingkatkan!
   btn_text: Lanjutkan
@@ -18,10 +18,10 @@ modal:
   text_android: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIM</strong>.<br>Pelanggan baru menikmati diskon 20%, kode promo:web20
 seo:
   title: 'eSIM Senegal: Jaringan Andal & Kuota Besar untuk Anda'
-  description: 'Roami menghadirkan eSIM Senegal: internet 5G cepat. Cakupan Orange & Free & Tigo. Aktivasi QR instan, mulai $1.99. Tanpa kontrak.'
-  keywords: eSIM Senegal, beli eSIM Senegal, eSIM Senegal terbaik, eSIM perjalanan Senegal, Orange Senegal, Free Senegal, Tigo Senegal, eSIM Dakar, eSIM Saint-Louis, eSIM Thiès, eSIM prabayar Senegal, eSIM 5G Senegal
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Roami menghadirkan eSIM Senegal: internet 5G cepat. Cakupan Orange & Free & Tigo. Aktivasi QR instan, mulai $12.99. Tanpa kontrak.'
+  keywords: eSIM Senegal, beli eSIM Senegal, eSIM terbaik Senegal, eSIM perjalanan Senegal, Orange Senegal, Free Senegal, Tigo Senegal, eSIM Dakar, eSIM Saint-Louis, eSIM Thiès, eSIM prabayar Senegal, 5G eSIM Senegal, eSIM Pulau Gorée, eSIM Danau Retba, eSIM Touba, paket eSIM Senegal
+  low_price: 12.99
+  high_price: 39.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Alih Otomatis
     desc: Terhubung otomatis ke operator terbaik Senegal untuk sinyal terbaik
-plans_title: 'Beli eSIM Senegal: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Senegal Terbaik: Bandingkan Kuota & Harga'
 plans_data:
   7 Hari:
   - spec: 1GB
@@ -107,7 +107,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Senegal: Panduan Operator Jaringan Seluler'
+  title: 'Cakupan eSIM Senegal: Panduan Jaringan KPN, Vodafone & T-Mobile'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -138,7 +138,7 @@ network_coverage:
       coverage: Cakupan kota yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Senegal: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Catatan Penting bagi Pengguna eSIM Senegal Baru'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -159,7 +159,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Senegal: 3 Langkah Mudah'
+  title: '3 Langkah Memasang eSIM Senegal di Ponsel Anda'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -179,12 +179,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Online di Senegal -- Panduan Kualitas dan Kecepatan Jaringan eSIM"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Senegal. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Senegal. Cari tahu kecepatan apa yang diharapkan dan di mana 5G bekerja paling baik."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Senegal
+    title: Semua Pertanyaan tentang eSIM Senegal
     questions:
     - q: |
         Bagaimana perbandingan Roami dengan Nomad untuk eSIM di Senegal?
@@ -218,55 +218,67 @@ faq_section:
         Dapatkah saya membeli eSIM Senegal pada menit-menit terakhir, tepat sebelum penerbangan?
       a: |
         Ya — kode QR dikirim melalui email dalam hitungan menit setelah pembelian. Anda dapat membelinya di gerbang bandara dan menginstalnya di pesawat menggunakan WiFi. Saat mendarat di Senegal, aktifkan saja Data Roaming dan Anda akan langsung online.
+    - q: |
+        Apakah eSIM Senegal terhubung ke jaringan Orange di Dakar?
+      a: |
+        Ya. eSIM Senegal terhubung ke jaringan Orange dan operator mitra lainnya, jadi sinyal tetap tersedia saat Anda berpindah dari Dakar ke kota lain di Senegal. eSIM langsung aktif setelah dipasang, tanpa perlu memilih operator secara manual.
+    - q: |
+        Perlu paket seperti apa untuk perjalanan ke Saint-Louis?
+      a: |
+        Untuk Saint-Louis, paket mulai $12.99 sudah memadai: peta, pesan, dan media sosial berjalan lancar lewat jaringan lokal. Bila Anda sering streaming atau memakai hotspot, pilih kuota yang lebih besar.
+    - q: |
+        Apakah paket 3GB cukup untuk perjalanan 30 hari di Senegal dan kota seperti Dakar?
+      a: |
+        Untuk perjalanan 30 hari, paket 3GB seharga $25.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Dakar. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket 5GB seharga $39.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Terkait
   items:
-  - name: eSIM amerika serikat
-    flag: img/flags/us.svg
-    price: Dari $1.99
-    is_highlight: false
-  - name: Inggris
-    flag: img/flags/gb.svg
-    price: Dari $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Dari $1.99
+  - name: eSIM Denmark
+    flag: img/flags/dk.svg
+    price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Dari $1.99
+  - name: eSIM Guyana
+    flag: img/flags/gy.svg
+    price: Mulai $9.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Dari $1.99
+  - name: eSIM Liechtenstein
+    flag: img/flags/li.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Dari $1.99
+  - name: eSIM Portugal
+    flag: img/flags/pt.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Dari $1.99
+  - name: eSIM Inggris
+    flag: img/flags/gb.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Dari $1.99
+  - name: eSIM Botswana
+    flag: img/flags/bw.svg
+    price: Mulai $14.99
     is_highlight: false
-  - name: eSIM Perancis
-    flag: img/flags/fr.svg
-    price: Dari $1.99
+  - name: eSIM Estonia
+    flag: img/flags/ee.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Dari $1.99
+  - name: eSIM Indonesia
+    flag: img/flags/id.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Dari $1.99
+  - name: eSIM Maladewa
+    flag: img/flags/mv.svg
+    price: Mulai $14.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Dari $1.99
+  - name: eSIM Arab Saudi
+    flag: img/flags/sa.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Afghanistan
+    flag: img/flags/af.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Kamerun
+    flag: img/flags/cm.svg
+    price: Mulai $27.99
     is_highlight: false
 ---

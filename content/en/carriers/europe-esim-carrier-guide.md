@@ -72,7 +72,7 @@ Two quirks worth knowing before checkout. First, the tethering allowance on some
 
 ### The German prepaid benchmark: Telekom, Vodafone and the discount tier
 
-For the "one dominant base" itinerary, the German prepaid market is the useful benchmark, because it is Europe's largest and its price ladder is unusually transparent. Our own [Germany prepaid price guide](/blog/germany-esim-local-carriers-prepaid-guide) tracks the current tiers: **Telekom MagentaMobil** runs about €20 for 5 GB and €30 for 10 GB; **Vodafone CallYa** and **O2 Prepaid** sit near €12–15 for 10 GB; and the supermarket brands — **Aldi Talk**, **Lidl Connect**, **congstar** — land around €8–13 for the same data.
+For the "one dominant base" itinerary, the German prepaid market is the useful benchmark, because it is Europe's largest and its price ladder is unusually transparent. Our own [Germany prepaid price guide](/blog/germany-esim-local-carriers-prepaid-guide/) tracks the current tiers: **Telekom MagentaMobil** runs about €20 for 5 GB and €30 for 10 GB; **Vodafone CallYa** and **O2 Prepaid** sit near €12–15 for 10 GB; and the supermarket brands — **Aldi Talk**, **Lidl Connect**, **congstar** — land around €8–13 for the same data.
 
 | Tier | Data | Approx. price | Identity check |
 |:---|:---|:---|:---|

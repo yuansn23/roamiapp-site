@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Thailand 2026 - Paket 5G Terbaik untuk Bangkok & Phuket | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -17,11 +17,11 @@ modal:
   text_default: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIMGo</strong>.<br>Pelanggan baru menikmati diskon 20%, kode promo:web20
   text_android: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIM</strong>.<br>Pelanggan baru menikmati diskon 20%, kode promo:web20
 seo:
-  title: 'eSIM Thailand: Prabayar & Kuota Besar untuk Anda'
+  title: 'eSIM Thailand: Prabayar & Kuota Besar untuk Pelancong'
   description: 'Roami menghadirkan eSIM Thailand: internet 5G cepat. Cakupan AIS & TrueMove & dtac. Aktivasi instan, mulai $1.99. Tanpa kontrak.'
-  keywords: eSIM Thailand, beli eSIM Thailand, eSIM Thailand terbaik, eSIM perjalanan Thailand, AIS Thailand, TrueMove Thailand, dtac Thailand, eSIM Bangkok, eSIM Chiang Mai, eSIM Phuket, eSIM prabayar Thailand, eSIM 5G Thailand, eSIM untuk Songkran, eSIM Kepulauan Phi Phi, eSIM Krabi
+  keywords: eSIM Thailand, beli eSIM Thailand, eSIM Thailand terbaik, eSIM perjalanan Thailand, AIS Thailand, TrueMove Thailand, dtac Thailand, eSIM Bangkok, eSIM Chiang Mai, eSIM Phuket, eSIM prabayar Thailand, eSIM 5G Thailand, eSIM Festival Air Songkran, eSIM Full Moon Party, eSIM Krabi, paket eSIM Thailand
   low_price: 1.99
-  high_price: 39.9
+  high_price: 42.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Otomatis Beralih
     desc: Terhubung otomatis ke AIS, TrueMove & dtac untuk sinyal terbaik di seluruh Thailand
-plans_title: 'Beli eSIM Thailand: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Harga & Paket eSIM Thailand: Semua Durasi Tersedia'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -278,7 +278,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Thailand: Panduan Jaringan AIS, TrueMove & dtac'
+  title: 'Jangkauan eSIM Thailand: Jangkauan Jaringan & Perbandingan Operator'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -309,7 +309,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Thailand: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Panduan Singkat Pengaturan eSIM Thailand'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -330,7 +330,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Thailand: 3 Langkah Mudah'
+  title: 'Cara Mengaktifkan eSIM Thailand di iPhone & Android'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -350,12 +350,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Thailand: Kecepatan, Cakupan, dan Tips Perjalanan untuk Thailand"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Thailand. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Thailand. Cari tahu kecepatan yang diharapkan dan cara menghindari mimpi buruk registrasi PostIdent/VideoIdent."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Thailand
+    title: FAQ & Tips eSIM Thailand
     questions:
     - q: |
         Apakah saya benar-benar tidak perlu pemindaian wajah atau sidik jari untuk eSIM Thailand Roami?
@@ -393,63 +393,75 @@ faq_section:
         Dapatkah saya mengisi ulang eSIM Thailand saya jika data habis?
       a: |
         Ya — Anda dapat mengisi ulang melalui akun Roami Anda kapan saja. Tidak seperti SIM bandara Thailand (yang tidak dapat diisi ulang atau diperpanjang), Roami memberi Anda fleksibilitas penuh untuk menambah data sesuai kebutuhan. Tidak perlu membeli SIM baru atau mengunjungi toko serba ada.
+    - q: |
+        Apakah eSIM Thailand terhubung ke jaringan AIS di Bangkok?
+      a: |
+        Ya. eSIM Thailand terhubung ke jaringan AIS dan operator mitra lainnya, jadi sinyal tetap tersedia saat Anda berpindah dari Bangkok ke kota lain di Thailand. eSIM langsung aktif setelah dipasang, tanpa perlu memilih operator secara manual.
+    - q: |
+        Apakah saya tetap online selama berada di Chiang Mai?
+      a: |
+        Ya. Sepanjang perjalanan ke Chiang Mai Anda tetap terhubung lewat jaringan AIS; paket mulai $1.99 cocok untuk pemakaian ringan, sedangkan pengguna data berat bisa menambah kuota kapan saja.
+    - q: |
+        Apakah paket 3GB cukup untuk perjalanan 30 hari di Thailand dan kota seperti Bangkok?
+      a: |
+        Untuk perjalanan 30 hari, paket 3GB seharga $5.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Bangkok. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket Tak Terbatas seharga $42.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Thailand Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: Inggris Raya
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Austria
+    flag: img/flags/at.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
+  - name: eSIM Chili
+    flag: img/flags/cl.svg
+    price: Mulai $4.99
     is_highlight: false
   - name: eSIM Prancis
     flag: img/flags/fr.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
+  - name: eSIM Irak
+    flag: img/flags/iq.svg
+    price: Mulai $9.99
+    is_highlight: false
+  - name: eSIM Madagaskar
+    flag: img/flags/mg.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Polandia
+    flag: img/flags/pl.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
+  - name: eSIM Tunisia
+    flag: img/flags/tn.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Azerbaijan
+    flag: img/flags/az.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Tiongkok
+    flag: img/flags/cn.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
+  - name: eSIM Guyana Prancis
+    flag: img/flags/gf.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Irlandia
+    flag: img/flags/ie.svg
     price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Malawi
+    flag: img/flags/mw.svg
+    price: Mulai $14.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Thailand vs SIM Fisik: Mana yang Lebih Baik untuk Perjalanan?'
   subtitle: SIM Prabayar Lokal Thailand vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Thailand) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Thailand
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -478,7 +490,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Paket 8 hari AIS Lucky SIM berharga 299 THB untuk 15GB; paket 8 hari dtac Happy Tourist SIM berharga 299 THB untuk 15GB. Perjalanan 5 hari membuang hampir 3 hari layanan.
     esim_title: Paket Fleksibel, Tanpa Pemborosan
-    esim_desc: Tidak seperti paket 8 hari tetap (AIS 299 THB/15GB) yang membuang 3 hari pada perjalanan 5 hari, Roami menawarkan paket 7 hari mulai dari $1.99/GB, menghemat hingga 75% biaya hangus.
+    esim_desc: Tidak seperti paket 8 hari tetap (AIS 299 THB/15GB) yang membuang 3 hari pada perjalanan 5 hari, Roami menawarkan paket 7 hari mulai dari $0.80/GB, menghemat hingga 75% biaya hangus.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''

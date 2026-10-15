@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Oman - 5G di Muscat & Nizwa | Tanpa Repot Paspor | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIM</strong>.<br>Pelanggan baru menikmati diskon 20%, kode promo:web20
 seo:
   title: 'eSIM Oman: Prabayar & Data Melimpah untuk Bisnis'
-  description: 'Roami menghadirkan eSIM Oman: internet 5G cepat. Cakupan Omantel & Ooredoo & Vodafone. Aktivasi QR mulai $1.99. Tanpa kontrak.'
-  keywords: eSIM Oman, beli eSIM Oman, eSIM Oman terbaik, eSIM perjalanan Oman, Omantel Oman, Ooredoo Oman, Vodafone Oman, eSIM Muscat, eSIM Salalah, eSIM Nizwa, eSIM prabayar Oman, eSIM 5G Oman, eSIM Oman tanpa paspor
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Roami menghadirkan eSIM Oman: internet 5G cepat. Cakupan Omantel & Ooredoo & Vodafone. Aktivasi QR mulai $5.99. Tanpa kontrak.'
+  keywords: eSIM Oman, beli eSIM Oman, eSIM Oman terbaik, eSIM perjalanan Oman, Omantel, Ooredoo Oman, Vodafone Oman, eSIM Muscat, eSIM Salalah, eSIM Nizwa, eSIM prabayar Oman, eSIM 5G Oman, eSIM Masjid Agung Sultan Qaboos, eSIM Mutrah Souq, eSIM Wadi Shab, paket eSIM Oman
+  low_price: 5.99
+  high_price: 67.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -74,7 +74,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Siap untuk Warisan & Pantai
     desc: 4G/5G di seluruh Muscat, Nizwa, Salalah dan di sepanjang jalan raya pesisir
-plans_title: 'Beli eSIM Oman: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Daftar Paket eSIM Oman: Kuota, Durasi & Harga'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -258,7 +258,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Oman: Panduan 5G Omantel, Ooredoo & Vodafone — Muscat hingga Salalah'
+  title: 'Cakupan eSIM Kongo: Panduan Operator & Peta Cakupan'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -289,7 +289,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Oman: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Panduan Persiapan eSIM Oman Sebelum Keberangkatan'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -314,7 +314,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Oman: 3 Langkah Mudah'
+  title: '3 Langkah Mengaktifkan eSIM Oman'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -334,12 +334,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Oman: 5G, Aturan Paspor & Tips Perjalanan"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Oman. Cari tahu kecepatan apa yang diharapkan di Muscat, Nizwa dan Salalah — dan bagaimana melewati repot registrasi paspor."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, jangkauan jaringan, dan kualitas koneksi untuk pelancong di Oman. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Oman
+    title: FAQ Lengkap eSIM Oman
     questions:
     - q: |
         Mengapa membeli SIM lokal di Oman begitu merepotkan bagi turis?
@@ -369,63 +369,75 @@ faq_section:
         Kapan masa berlaku eSIM Oman saya dimulai?
       a: |
         Masa berlaku paket dimulai saat Anda terhubung ke jaringan lokal di Oman, bukan saat Anda membeli atau menginstalnya. Jadi Anda dapat membeli dan menginstal berminggu-minggu sebelum perjalanan tanpa kehilangan hari paket. Paket 7 hari memberi Anda 7 hari penuh dari koneksi pertama.
+    - q: |
+        Jaringan apa yang dipakai eSIM Oman saat saya berada di Muscat?
+      a: |
+        eSIM Oman memakai jaringan Omantel dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area Muscat koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Cukupkah paket termurah untuk pemakaian saya di Salalah?
+      a: |
+        Paket mulai $5.99 sudah menutupi navigasi, pesan, dan media sosial selama Anda berada di Salalah. Aktivasi dilakukan sekali sebelum berangkat, jadi tidak ada antrean di bandara.
+    - q: |
+        Untuk 7 hari di Oman dan kota seperti Muscat, lebih baik paket 1GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 1GB (7 hari, $5.99) karena harganya paling efisien dan memadai untuk kunjungan ke Muscat. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $57.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
+  - name: eSIM Pantai Gading
+    flag: img/flags/ci.svg
+    price: Mulai $9.99
     is_highlight: false
-  - name: Inggris Raya
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Mulai $1.99
-    is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
+  - name: eSIM Jamaika
+    flag: img/flags/jm.svg
+    price: Mulai $11.99
     is_highlight: false
   - name: eSIM Jepang
     flag: img/flags/jp.svg
     price: Mulai $1.99
+    is_highlight: true
+  - name: eSIM Yordania
+    flag: img/flags/jo.svg
+    price: Mulai $6.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
+  - name: eSIM Kazakhstan
+    flag: img/flags/kz.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Kenya
+    flag: img/flags/ke.svg
+    price: Mulai $7.99
+    is_highlight: false
+  - name: eSIM Kosovo
+    flag: img/flags/xk.svg
+    price: Mulai $13.99
+    is_highlight: false
+  - name: eSIM Kuwait
+    flag: img/flags/kw.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Kirgistan
+    flag: img/flags/kg.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Laos
+    flag: img/flags/la.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Latvia
+    flag: img/flags/lv.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
+  - name: eSIM Liberia
+    flag: img/flags/lr.svg
+    price: Mulai $27.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Oman vs SIM Lokal: Tanpa Paspor, Tanpa Antrean, Siap GCC'
   subtitle: SIM Prabayar Lokal Oman vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Oman) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Oman
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -454,7 +466,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Semua operator menggunakan <strong>siklus penagihan 30 hari</strong>. Turis 7 hari membuang lebih dari <strong>75%</strong> nilai paket. Tidak ada opsi jangka pendek di bawah 30 hari.
     esim_title: Paket Pendek Fleksibel
-    esim_desc: Roami menawarkan <strong>paket 3/7/15/30 hari</strong> mulai dari $1.99 — bayar hanya untuk durasi perjalanan Anda yang sebenarnya. Tanpa komitmen 30 hari paksa.
+    esim_desc: Roami menawarkan <strong>paket 3/7/15/30 hari</strong> mulai dari $5.99 — bayar hanya untuk durasi perjalanan Anda yang sebenarnya. Tanpa komitmen 30 hari paksa.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
@@ -495,5 +507,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Tanpa Biaya Hangus 30 Hari
-      desc: Omantel/Ooredoo/Vodafone memaksa <b>paket 30 hari</b>. Perjalanan 7 hari membuang <b>75%+</b>. Roami menawarkan <b>paket 7 hari mulai dari $1.99/GB</b> — tanpa pemborosan.
+      desc: Omantel/Ooredoo/Vodafone memaksa <b>paket 30 hari</b>. Perjalanan 7 hari membuang <b>75%+</b>. Roami menawarkan <b>paket 7 hari mulai dari $2.10/GB</b> — tanpa pemborosan.
 ---

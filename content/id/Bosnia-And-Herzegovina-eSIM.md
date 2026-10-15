@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Bosnia dan Herzegovina 2026: Panduan Wisatawan & Jaringan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: BH Telecom, HT Mostar, m:tel
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Sarajevo, Mostar, Banja Luka, Tuzla, Zenica
-  main_packages: 3/7/15/30 Hari, Data Tak Terbatas
+  main_packages: 30 Hari
 modal:
   title: Layanan Ditingkatkan!
   btn_text: Lanjutkan
@@ -20,12 +20,10 @@ modal:
     promo:web20
 seo:
   title: 'eSIM Bosnia: 5G Cepat & Kuota Melimpah untuk Turis'
-  description: 'eSIM Bosnia dari Roami: 5G cepat & data melimpah. Cakupan BH Telecom & HT Mostar & m:tel. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Bosnia dan Herzegovina, beli eSIM Bosnia dan Herzegovina, eSIM Bosnia dan Herzegovina terbaik, eSIM perjalanan Bosnia dan Herzegovina,
-    BH Telecom Bosnia dan Herzegovina, HT Mostar Bosnia dan Herzegovina, m:tel Bosnia dan Herzegovina, eSIM Sarajevo, eSIM Mostar, eSIM Banja Luka,
-    eSIM prabayar Bosnia dan Herzegovina, 5G eSIM Bosnia dan Herzegovina
-  low_price: 1.99
-  high_price: 39.9
+  description: 'eSIM Bosnia dari Roami: 5G cepat & data melimpah. Cakupan BH Telecom & HT Mostar & m:tel. Aktivasi QR instan, mulai $30.99.'
+  keywords: eSIM Bosnia dan Herzegovina, beli eSIM Bosnia dan Herzegovina, eSIM Bosnia dan Herzegovina terbaik, eSIM perjalanan Bosnia dan Herzegovina, BH Telecom Bosnia dan Herzegovina, HT Mostar Bosnia dan Herzegovina, m:tel Bosnia dan Herzegovina, eSIM Sarajevo, eSIM Mostar, eSIM Banja Luka, eSIM prabayar Bosnia dan Herzegovina, eSIM 5G Bosnia dan Herzegovina, eSIM Kravica, eSIM Bosnia, eSIM Tuzla, paket eSIM Bosnia dan Herzegovina
+  low_price: 30.99
+  high_price: 30.99
 order_summary:
   title: Paket Terpilih
   label_data: Data Termasuk
@@ -65,7 +63,7 @@ features:
   - icon: wifi
     color: from-purple-400 to-purple-600
     title: Dukungan Hotspot
-    desc: Bagikan data Bosnia dan Herzegovina Anda dengan teman perjalanan, tanpa batas
+    desc: Bagikan data Bosnia dan Herzegovina Anda dengan teman perjalanan lewat hotspot
   - icon: file-x
     color: from-rose-400 to-rose-600
     title: Tanpa Kontrak
@@ -74,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Pengalihan Otomatis
     desc: Terhubung otomatis ke operator Bosnia dan Herzegovina terbaik untuk sinyal terbaik
-plans_title: 'Beli eSIM Bosnia dan Herzegovina: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Bosnia dan Herzegovina: Data Cukup untuk Setiap Itinerary'
 plans_data:
   30 Days:
   - spec: 20GB
@@ -93,7 +91,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Bosnia dan Herzegovina: Cakupan Jaringan & Perbandingan Operator'
+  title: 'Cakupan eSIM Bosnia dan Herzegovina: Panduan Jaringan CSL, SmarTone & CMHK'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -126,7 +124,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Bosnia dan Herzegovina: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips Pengaturan eSIM Bosnia dan Herzegovina di Rumah Sebelum Terbang'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -147,7 +145,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Bosnia dan Herzegovina: 3 Langkah Mudah'
+  title: 'Cara Cepat Memasang eSIM Bosnia dan Herzegovina'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -169,17 +167,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Apakah eSIM Akan Berfungsi dengan Baik di Bosnia dan Herzegovina? Panduan Pelancong tentang Kualitas Internet"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Bosnia dan Herzegovina. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Bosnia dan Herzegovina. Cari tahu kecepatan yang diharapkan di Warsawa, Krakow dan Gdansk — dan cara menghindari aturan registrasi SIM ketat Bosnia dan Herzegovina."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Bosnia dan Herzegovina
+    title: Pertanyaan yang Sering Ditanyakan tentang eSIM Bosnia dan Herzegovina
     questions:
     - q: |
         Berapa anggaran yang harus saya siapkan untuk eSIM saat mengunjungi Bosnia dan Herzegovina?
       a: |
-        Roami menawarkan eSIM Bosnia dan Herzegovina mulai dari $1.99 untuk paket ringan 7 hari hingga $59.99 untuk 30 hari data tak terbatas. Sebagian besar pengunjung memilih paket 5GB/15 hari seharga $9.99 — ini mencakup navigasi harian, media sosial, dan pesan tanpa stres. Penggemar streaming atau pengguna sosial berat sebaiknya mempertimbangkan 10GB atau tak terbatas. BH Telecom menyediakan kecepatan andal di seluruh Bosnia dan Herzegovina. Paket Roami bersifat prabayar — tanpa tagihan mengejutkan, tanpa perpanjangan otomatis, hanya harga yang jelas.
+        Roami menawarkan eSIM Bosnia dan Herzegovina mulai dari $30.99 untuk paket 30 hari dengan 20GB. Sebagian besar pengunjung memilih paket 20GB/30 hari seharga $30.99 — ini mencakup navigasi harian, media sosial, dan pesan tanpa stres. Penggemar streaming atau pengguna sosial berat sebaiknya mempertimbangkan paket 20GB. BH Telecom menyediakan kecepatan andal di seluruh Bosnia dan Herzegovina. Paket Roami bersifat prabayar — tanpa tagihan mengejutkan, tanpa perpanjangan otomatis, hanya harga yang jelas.
     - q: |
         Bagaimana perbandingan Roami dengan Holafly untuk eSIM di Bosnia dan Herzegovina?
       a: |
@@ -191,7 +189,7 @@ faq_section:
     - q: |
         Saya memerlukan akses internet hanya untuk beberapa hari di Bosnia dan Herzegovina. Berapa minimum yang bisa saya beli?
       a: |
-        Paket termurah adalah $1.99 untuk 7 hari dengan 1GB — sempurna untuk perjalanan akhir pekan singkat dengan penggunaan ringan. Jika Anda membutuhkan lebih banyak, isi ulang kapan saja dari aplikasi.
+        Paket termurah adalah $30.99 untuk 30 hari dengan 20GB — ideal untuk penggunaan jangka panjang. Jika Anda membutuhkan lebih banyak, isi ulang kapan saja dari aplikasi.
     - q: |
         Saya tiba di Bosnia dan Herzegovina larut malam. Apakah saya bisa langsung online?
       a: |
@@ -208,55 +206,67 @@ faq_section:
         Apakah saya perlu melepas SIM fisik saya untuk menggunakan eSIM di Bosnia dan Herzegovina?
       a: |
         Tidak sama sekali. SIM fisik Anda tetap di slot 1. eSIM bekerja bersamaan di slot 2. Gunakan SIM rumah Anda untuk SMS dan panggilan, eSIM untuk data. Lebih dari 80% ponsel dari tahun 2020 mendukung pengaturan ganda ini.
+    - q: |
+        Jaringan apa yang dipakai eSIM Bosnia dan Herzegovina saat saya berada di Sarajevo?
+      a: |
+        eSIM Bosnia dan Herzegovina memakai jaringan BH Telecom dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area Sarajevo koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Perlu paket seperti apa untuk perjalanan ke Mostar?
+      a: |
+        Untuk Mostar, paket mulai $30.99 sudah memadai: peta, pesan, dan media sosial berjalan lancar lewat jaringan lokal. Bila Anda sering streaming atau memakai hotspot, pilih kuota yang lebih besar.
+    - q: |
+        Bagaimana cara menghemat data selama 30 hari di Bosnia dan Herzegovina saat berkunjung ke Sarajevo?
+      a: |
+        Paket 20GB (30 hari, $30.99) adalah pilihan utama untuk durasi ini; kuotanya cukup untuk navigasi, pesan, dan unggahan singkat selama Anda di Sarajevo maupun kota berikutnya.
 related_products:
   title: Paket eSIM Bosnia dan Herzegovina Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: eSIM Singapura
+    flag: img/flags/sg.svg
+    price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: From $1.99
+  - name: eSIM Korea Selatan
+    flag: img/flags/kr.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Tiongkok
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: From $1.99
+  - name: eSIM Asia Tenggara
+    flag: img/flags/ya.webp
+    price: Mulai $1.99
     is_highlight: false
   - name: eSIM Spanyol
     flag: img/flags/es.svg
-    price: From $1.99
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: From $1.99
+  - name: eSIM Swiss
+    flag: img/flags/ch.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: eSIM Taiwan
+    flag: img/flags/tw.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Tajikistan
+    flag: img/flags/tj.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Tanzania
+    flag: img/flags/tz.svg
+    price: Mulai $7.99
+    is_highlight: false
+  - name: eSIM Thailand
+    flag: img/flags/th.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Tunisia
+    flag: img/flags/tn.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Turki
+    flag: img/flags/tr.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Uganda
+    flag: img/flags/ug.svg
+    price: Mulai $7.99
     is_highlight: false
 ---

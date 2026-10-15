@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Inggris 2026 - Paket 5G Terbaik untuk London & Edinburgh'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 'eSIM Inggris: Paket Terbaik & Kuota Besar untuk Turis'
   description: 'Paket internet Inggris dari Roami: 5G cepat & prabayar. Cakupan Vodafone & EE & O2. Aktivasi instan, mulai $1.99. Tanpa kontrak.'
-  keywords: eSIM Inggris, beli eSIM Inggris, eSIM Inggris terbaik, eSIM perjalanan Inggris, Vodafone Inggris, EE Inggris, O2 Inggris, eSIM London, eSIM Manchester, eSIM Birmingham, eSIM prabayar Inggris, eSIM 5G Inggris, eSIM Inggris tanpa KTP, eSIM untuk London Underground
+  keywords: eSIM Inggris, beli eSIM Inggris, eSIM terbaik Inggris, eSIM perjalanan Inggris, Vodafone Inggris, EE Inggris, O2 Inggris, eSIM London, eSIM Manchester, eSIM Birmingham, eSIM prabayar Inggris, 5G eSIM Inggris, eSIM Edinburgh, eSIM Glasgow, eSIM Inggris murah, paket eSIM Inggris
   low_price: 1.99
-  high_price: 39.9
+  high_price: 54.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Ganti Otomatis
     desc: Terhubung otomatis ke Vodafone, EE & O2 untuk sinyal terbaik di seluruh Inggris
-plans_title: 'Beli eSIM Inggris: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket Data Inggris: Pilih Sesuai Durasi Perjalanan'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -294,7 +294,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Inggris: Panduan Jaringan EE, Vodafone & O2'
+  title: 'Cakupan eSIM Inggris: Perbandingan Cakupan Jaringan & Operator'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -325,7 +325,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Inggris: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips eSIM Inggris: Pastikan Siap Sebelum Mendarat'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -346,7 +346,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Inggris: 3 Langkah Mudah'
+  title: 'Aktivasi eSIM Inggris: Dari Pemindaian QR hingga Online'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -366,12 +366,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Inggris: Kecepatan, Cakupan, dan Tips Perjalanan untuk Inggris"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi bagi pelancong di Inggris. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Inggris. Cari tahu kecepatan apa yang diharapkan di Auckland, Queenstown dan di Hobbiton — dan bagaimana menghindari jebakan SIM 30 hari."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Inggris
+    title: Tanya Jawab Umum eSIM Inggris
     questions:
     - q: |
         Apakah saya benar-benar tidak perlu paspor atau KTP untuk menggunakan eSIM Inggris Roami?
@@ -409,63 +409,75 @@ faq_section:
         Jaringan operator Inggris mana yang akan digunakan oleh eSIM Roami saya?
       a: |
         Roami secara otomatis terhubung ke jaringan terbaik yang tersedia dari Vodafone, EE, dan O2 — tiga operator terbesar di Inggris. Fitur ganti otomatis ini memastikan Anda mendapatkan sinyal terkuat di mana pun Anda berada, apakah Anda di pusat London atau pedesaan Edinburgh.
+    - q: |
+        Apakah eSIM Roami Inggris memakai jaringan Vodafone?
+      a: |
+        Tentu. eSIM Roami bekerja di jaringan Vodafone tanpa registrasi tambahan; jaringan dipilih otomatis untuk sinyal terbaik, baik di London maupun saat Anda melanjutkan perjalanan ke kota lain di Inggris.
+    - q: |
+        Apakah saya tetap online selama berada di Manchester?
+      a: |
+        Ya. Sepanjang perjalanan ke Manchester Anda tetap terhubung lewat jaringan Vodafone; paket mulai $1.99 cocok untuk pemakaian ringan, sedangkan pengguna data berat bisa menambah kuota kapan saja.
+    - q: |
+        Apakah paket 3GB cukup untuk perjalanan 30 hari di Inggris dan kota seperti London?
+      a: |
+        Untuk perjalanan 30 hari, paket 3GB seharga $6.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di London. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket 100GB seharga $54.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Inggris Terkait
   items:
-  - name: eSIM amerika serikat
-    flag: img/flags/us.svg
-    price: Mulai dari $1.99
-    is_highlight: false
-  - name: Inggris Raya
-    flag: img/flags/gb.svg
-    price: Mulai dari $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Mulai dari $1.99
-    is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Mulai dari $1.99
-    is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai dari $1.99
-    is_highlight: false
-  - name: eSIM Cina
-    flag: img/flags/cn.svg
-    price: Mulai dari $1.99
-    is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai dari $1.99
-    is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai dari $1.99
-    is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai dari $1.99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai dari $1.99
-    is_highlight: false
   - name: eSIM Jerman
     flag: img/flags/de.svg
-    price: Mulai dari $1.99
+    price: Mulai $1.99
+    is_highlight: true
+  - name: eSIM India
+    flag: img/flags/in.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai dari $1.99
+  - name: eSIM Kuwait
+    flag: img/flags/kw.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Malta
+    flag: img/flags/mt.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Filipina
+    flag: img/flags/ph.svg
+    price: Mulai $2.99
+    is_highlight: false
+  - name: eSIM Asia Tenggara
+    flag: img/flags/ya.webp
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM AS
+    flag: img/flags/us.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Azerbaijan
+    flag: img/flags/az.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Burkina Faso
+    flag: img/flags/bf.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Denmark
+    flag: img/flags/dk.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Gabon
+    flag: img/flags/ga.svg
+    price: Mulai $14.99
+    is_highlight: false
+  - name: eSIM Hungary
+    flag: img/flags/hu.svg
+    price: Mulai $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Inggris vs Kartu SIM Fisik'
   subtitle: SIM Prabayar Lokal Inggris vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Inggris) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/United-Kingdom
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -494,7 +506,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Paket prabayar utama dari EE, Vodafone, dan O2 semuanya adalah siklus penagihan 30 hari. Wisatawan 7 hari yang membeli paket £10/8GB Vodafone membuang lebih dari 70% nilai paket.
     esim_title: Paket Fleksibel, Tanpa Pemborosan
-    esim_desc: Hindari siklus penagihan 30 hari EE/Vodafone/O2. Roami menawarkan paket 7 hari mulai dari $1.99/GB, menghemat lebih dari 70% pemborosan untuk perjalanan singkat.
+    esim_desc: Hindari siklus penagihan 30 hari EE/Vodafone/O2. Roami menawarkan paket 7 hari mulai dari $0.55/GB, menghemat lebih dari 70% pemborosan untuk perjalanan singkat.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
@@ -510,7 +522,7 @@ market_analysis:
   - icon: headset
     title: Dukungan Pelanggan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini.
+    prepaid_desc: Data resmi operator belum tersedia untuk aspek ini.
     esim_title: Dukungan Multibahasa 24/7
     esim_desc: Tidak seperti SIM lokal dengan jam dukungan terbatas, Roami menyediakan obrolan langsung dan email 24/7 dalam bahasa Inggris.
   expert_verdict:

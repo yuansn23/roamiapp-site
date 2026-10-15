@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Singapura - 5G di Seluruh Pulau | Tanpa Antrean Bandara | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 'eSIM Singapura: 5G Cepat & Kuota Besar untuk Bisnis'
   description: 'eSIM 5G Singapura dari Roami: internet cepat untuk perjalanan. Cakupan Singtel & StarHub & M1. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Singapura, beli eSIM Singapura, eSIM Singapura terbaik, eSIM perjalanan Singapura, Singtel Singapura, StarHub Singapura, M1 Singapura, eSIM Kota Singapura, eSIM Jurong East, eSIM Tampines, eSIM prabayar Singapura, eSIM 5G Singapura, eSIM Marina Bay, eSIM Sentosa
+  keywords: eSIM Singapura, beli eSIM Singapura, eSIM terbaik Singapura, eSIM perjalanan Singapura, Singtel Singapura, StarHub Singapura, M1 Singapura, eSIM Kota Singapura, eSIM Jurong East, eSIM Tampines, eSIM prabayar Singapura, 5G eSIM Singapura, eSIM Marina Bay, eSIM Sentosa, eSIM Chinatown, paket eSIM Singapura
   low_price: 1.99
-  high_price: 39.9
+  high_price: 65.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -74,7 +74,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: 5G di Seluruh Pulau
     desc: Cakupan 5G penuh dari Bandara Changi hingga Sentosa — setiap sudut Singapura
-plans_title: 'Beli eSIM Singapura: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Singapura: Harga & Kuota untuk Setiap Durasi'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -282,7 +282,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Singapura: Panduan 5G Singtel, StarHub & M1 di Seluruh Pulau'
+  title: 'Cakupan eSIM Singapura: Panduan Jaringan Globe, Smart & DITO'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -313,7 +313,7 @@ network_coverage:
       coverage: Cakupan 5G perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Singapura: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Persiapan eSIM Singapura: Catatan Penting Sebelum Berangkat'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -338,7 +338,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Singapura: 3 Langkah Mudah'
+  title: 'Cara Memasang eSIM Singapura dalam 3 Langkah'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -358,12 +358,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Singapura: 5G di Seluruh Pulau, Kecepatan & Tips Perjalanan"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Singapura. Cari tahu kecepatan apa yang diharapkan dan di mana 5G bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitSingapura koneksi untuk wisatawan di Singapura. Cari tahu kecepatan yang diharapkan dan di mana eSIM bekerja paling baik."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Singapura
+    title: Tanya Jawab eSIM Singapura
     questions:
     - q: |
         Apakah 5G benar-benar tersedia di mana-mana di Singapura? Bagaimana dengan Sentosa dan Bandara Changi?
@@ -405,63 +405,75 @@ faq_section:
         Kapan masa berlaku eSIM Singapura saya dimulai?
       a: |
         Masa berlaku paket dimulai saat Anda terhubung ke jaringan lokal di Singapura, bukan saat Anda membeli atau menginstalnya. Jadi Anda dapat membeli dan menginstal berminggu-minggu sebelum perjalanan tanpa kehilangan hari paket. Paket 7 hari memberi Anda 7 hari penuh dari koneksi pertama.
+    - q: |
+        Apakah eSIM Singapura terhubung ke jaringan Singtel di Kota Singapura?
+      a: |
+        Ya. eSIM Singapura terhubung ke jaringan Singtel dan operator mitra lainnya, jadi sinyal tetap tersedia saat Anda berpindah dari Kota Singapura ke kota lain di Singapura. eSIM langsung aktif setelah dipasang, tanpa perlu memilih operator secara manual.
+    - q: |
+        Cukupkah paket termurah untuk pemakaian saya di Jurong East?
+      a: |
+        Paket mulai $1.99 sudah menutupi navigasi, pesan, dan media sosial selama Anda berada di Jurong East. Aktivasi dilakukan sekali sebelum berangkat, jadi tidak ada antrean di bandara.
+    - q: |
+        Apakah paket 3GB cukup untuk perjalanan 30 hari di Singapura dan kota seperti Kota Singapura?
+      a: |
+        Untuk perjalanan 30 hari, paket 3GB seharga $5.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Kota Singapura. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket Tak Terbatas seharga $65.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Singapura Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
+  - name: eSIM India
+    flag: img/flags/in.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: Inggris Raya
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
+  - name: eSIM Jamaika
+    flag: img/flags/jm.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Kirgistan
+    flag: img/flags/kg.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Madagaskar
+    flag: img/flags/mg.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Nepal
+    flag: img/flags/ne.svg
+    price: Mulai $10.99
+    is_highlight: false
+  - name: eSIM Pakistan
+    flag: img/flags/pk.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Puerto Rico
+    flag: img/flags/pu.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Sierra Leone
+    flag: img/flags/si.svg
+    price: Mulai $10.99
+    is_highlight: false
+  - name: eSIM Tajikistan
+    flag: img/flags/tj.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM UAE
+    flag: img/flags/ae.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Afghanistan
+    flag: img/flags/af.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Austria
+    flag: img/flags/at.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
-    is_highlight: false
 market_analysis:
   title: 'eSIM Singapura vs SIM Prabayar Lokal: Kenyamanan vs Biaya'
   subtitle: SIM Prabayar Lokal Singapura vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Singapura) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Singapore
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)

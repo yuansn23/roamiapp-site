@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Turki - 5G di Istanbul & Cappadocia | Tanpa Paspor | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Turkcell, Vodafone, Türk Telekom
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Istanbul, Ankara, Izmir, Antalya, Bursa
-  main_packages: 3/7/15/30 Hari, Data Tak Terbatas
+  main_packages: 3/7/15/30/180 Hari, Data Tak Terbatas
 modal:
   title: Layanan Ditingkatkan!
   btn_text: Lanjutkan
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 'eSIM Turki: 5G Cepat & Kuota Melimpah untuk Anda'
   description: 'Internet 5G cepat di Turki dengan eSIM prabayar Roami. Cakupan Turkcell & Vodafone & Türk Telekom. Aktivasi instan, mulai $1.99.'
-  keywords: eSIM Turki, beli eSIM Turki, eSIM Turki terbaik, eSIM perjalanan Turki, Turkcell Turki, Vodafone Turki, Türk Telekom Turki, eSIM Istanbul, eSIM Ankara, eSIM Izmir, eSIM prabayar Turki, eSIM 5G Turki, eSIM Turki tanpa paspor, eSIM untuk Cappadocia
+  keywords: eSIM Turki, beli eSIM Turki, eSIM terbaik Turki, eSIM perjalanan Turki, Turkcell Turki, Vodafone Turki, Türk Telekom Turki, eSIM Istanbul, eSIM Ankara, eSIM Izmir, eSIM prabayar Turki, 5G eSIM Turki, eSIM Cappadocia, eSIM Antalya, eSIM Ephesus, paket eSIM Turki
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -42,7 +42,7 @@ hero:
   flag_image: img/flags/tr.svg
   flag_alt: Bendera Turki
   title: 'eSIM Turki: 5G di Istanbul, Cappadocia'
-  subtitle: 5G di Turkcell, Vodafone & Türk Telekom | Tanpa paspor/KTP | Lewati sensor lokal | Pengiriman QR instan
+  subtitle: 5G di Turkcell, Vodafone & Türk Telekom | Tanpa paspor/KTP | Pengiriman QR instan
 features:
   title: 'Mengapa Wisatawan Turki Memilih Roami: Kecepatan, Privasi & Nilai'
   items:
@@ -72,9 +72,9 @@ features:
     desc: Terhubung otomatis ke Turkcell, Vodafone & Türk Telekom untuk sinyal terbaik
   - icon: globe
     color: from-emerald-400 to-emerald-600
-    title: Lewati Sensor
-    desc: Akses semua situs web — Twitter, Facebook, Wikipedia, VPN — tanpa pemblokiran
-plans_title: 'Beli eSIM Turki: Paket untuk Setiap Durasi Perjalanan'
+    title: Koneksi Stabil
+    desc: Jaringan 5G cepat dengan peralihan otomatis ke operator terkuat di seluruh Turki
+plans_title: 'Beli eSIM Turki: Pilihan Paket Harian hingga Bulanan'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -291,7 +291,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Turki: Panduan Jaringan 5G Turkcell, Vodafone & Türk Telekom'
+  title: 'Cakupan eSIM Turki: Panduan 4G/5G Tunisie Telecom, Orange & Ooredoo'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -322,7 +322,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Turki: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Pengingat Penting untuk Pengguna eSIM Turki'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -337,7 +337,7 @@ reminders:
   - icon: 🛂
     html: <span class="font-medium">Tanpa paspor:</span> Turki mewajibkan paspor + terjemahan notaris untuk SIM lokal. Roami memerlukan <span class="font-bold">nol KTP</span> — tanpa dokumen, tanpa kunjungan toko.
   - icon: 🌐
-    html: <span class="font-medium">Akses semua situs:</span> Turki memblokir Twitter, Facebook, Wikipedia dan VPN. Routing internasional Roami melewati pemblokiran ini secara otomatis — tanpa VPN.
+    html: <span class="font-medium">Jaringan mitra lokal:</span> eSIM Roami otomatis memilih operator dengan sinyal terkuat, jadi peta, perpesanan, dan aplikasi perjalanan Anda tetap berjalan lancar.
   - icon: 🕌
     html: <span class="font-medium">Tip lokal:</span> Unduh aplikasi <span class="font-medium">Google Translate</span> dengan paket offline Turki — ini membantu untuk menu, rambu, dan tawar-menawar di Grand Bazaar.
   compatibility_check:
@@ -347,7 +347,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Turki: 3 Langkah Mudah'
+  title: 'Memasang eSIM Turki: Panduan Sederhana'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -366,22 +366,22 @@ activation_steps:
     desc: Setelah tiba di Turki, aktifkan eSIM Turki Anda di pengaturan untuk mulai menggunakan data. Kami sarankan terhubung ke WiFi selama aktivasi awal.
     is_list: false
 faq_section:
-  title: "Panduan eSIM Turki: 5G, Lewati Sensor & Tips Wisata"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi bagi pelancong di Turki. Cari tahu kecepatan apa yang diharapkan, cara melewati blokir, dan di mana eSIM bekerja paling baik."
+  title: "Panduan eSIM Turki: 5G, Cakupan Jaringan & Tips Wisata"
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Turki. Cari tahu kecepatan yang diharapkan di Reykjavik, di sepanjang Ring Road, dan di Golden Circle."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Turki
+    title: Tanya Jawab eSIM Turki untuk Pemula
     questions:
     - q: |
         Apakah saya benar-benar tidak perlu paspor untuk eSIM Turki? Mengapa?
       a: |
         Benar — eSIM Turki Roami tidak memerlukan verifikasi paspor atau KTP. Inilah mengapa ini penting: Hukum Turki mewajibkan semua SIM prabayar lokal untuk didaftarkan dengan paspor. Jika paspor Anda menggunakan aksara non-Latin (mis., Cina, Arab, Rusia), Anda juga harus memberikan <strong>terjemahan notaris</strong> — proses yang dapat memakan waktu berjam-jam dan biaya tambahan. Kartu SIM Turki juga berharga ₺350+ (~$11 USD) tanpa data apa pun. Roami adalah eSIM data internasional yang sepenuhnya menghindari persyaratan ini. Beli online, pindai QR, langsung.
     - q: |
-        Turki memblokir Twitter, Facebook, dan Wikipedia — dapatkah saya tetap menggunakannya dengan Roami?
+        Apakah aplikasi pesan dan media sosial saya berfungsi normal dengan eSIM Roami di Turki?
       a: |
-        Ya. Operator Turki (Turkcell, Vodafone, Türk Telekom) secara hukum diwajibkan untuk memblokir akses ke Twitter, Facebook, Wikipedia, YouTube, dan banyak layanan VPN. eSIM Roami merutekan data melalui server internasional, <strong>melewati pemblokiran ini secara otomatis</strong>. Anda tidak memerlukan VPN terpisah — semua aplikasi Anda berfungsi sama seperti di rumah. Instagram, WhatsApp, Google Maps, dan layanan streaming semuanya berfungsi normal.
+        Ya. eSIM Roami memakai jaringan Turkcell, Vodafone, dan Türk Telekom dengan peralihan otomatis ke sinyal terkuat, jadi WhatsApp, Instagram, Google Maps, dan layanan streaming Anda bekerja normal selama perjalanan. Tidak ada aplikasi tambahan yang perlu dipasang — cukup pindai kode QR dan Anda langsung online.
     - q: |
         Operator Turki mana yang terbaik — Turkcell, Vodafone, atau Türk Telekom?
       a: |
@@ -401,7 +401,7 @@ faq_section:
     - q: |
         Dapatkah saya menggunakan WhatsApp, Instagram, dan media sosial dengan eSIM Turki saya?
       a: |
-        Ya — semua aplikasi pesan dan sosial berfungsi dengan sempurna. WhatsApp, Instagram, Facebook Messenger, Telegram, dan iMessage semuanya berfungsi melalui koneksi data. Tidak seperti SIM Turki lokal (yang mungkin memiliki pembatasan), routing internasional Roami memastikan <strong>tidak ada aplikasi yang diblokir atau dibatasi</strong>. Bagikan foto Hagia Sophia dan balon udara Anda secara instan.
+        Ya — semua aplikasi pesan dan sosial berfungsi dengan sempurna. WhatsApp, Instagram, Facebook Messenger, Telegram, dan iMessage semuanya berfungsi melalui koneksi data. Tidak seperti SIM Turki lokal yang wajib registrasi perangkat, eSIM Roami <strong>aktif tanpa dokumen tambahan</strong>. Bagikan foto Hagia Sophia dan balon udara Anda secara instan.
     - q: |
         Apakah benar-benar buruk membeli kartu SIM di Bandara Istanbul?
       a: |
@@ -414,63 +414,75 @@ faq_section:
         Kapan masa berlaku eSIM Turki saya mulai?
       a: |
         Masa berlaku paket dimulai saat Anda terhubung ke jaringan lokal di Turki, bukan saat Anda membeli atau menginstalnya. Jadi Anda dapat membeli dan menginstal berminggu-minggu sebelum perjalanan tanpa kehilangan hari paket. Paket 7 hari memberi Anda 7 hari penuh dari koneksi pertama.
+    - q: |
+        Apakah eSIM Roami Turki memakai jaringan Turkcell?
+      a: |
+        Tentu. eSIM Roami bekerja di jaringan Turkcell tanpa registrasi tambahan; jaringan dipilih otomatis untuk sinyal terbaik, baik di Istanbul maupun saat Anda melanjutkan perjalanan ke kota lain di Turki.
+    - q: |
+        Apakah saya tetap online selama berada di Ankara?
+      a: |
+        Ya. Sepanjang perjalanan ke Ankara Anda tetap terhubung lewat jaringan Turkcell; paket mulai $1.99 cocok untuk pemakaian ringan, sedangkan pengguna data berat bisa menambah kuota kapan saja.
+    - q: |
+        Apakah paket 3GB cukup untuk perjalanan 30 hari di Turki dan kota seperti Istanbul?
+      a: |
+        Untuk perjalanan 30 hari, paket 3GB seharga $6.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Istanbul. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket Tak Terbatas seharga $78.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Terkait
   items:
-  - name: eSIM amerika serikat
-    flag: img/flags/us.svg
-    price: Mulai dari $1.99
+  - name: eSIM Burkina Faso
+    flag: img/flags/bf.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: Inggris Raya
-    flag: img/flags/gb.svg
-    price: Mulai dari $1.99
+  - name: eSIM Guyana Prancis
+    flag: img/flags/gf.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Mulai dari $1.99
+  - name: eSIM Yordania
+    flag: img/flags/jo.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Oman
+    flag: img/flags/om.svg
+    price: Mulai $5.99
+    is_highlight: false
+  - name: eSIM Tunisia
+    flag: img/flags/tn.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Belgia
+    flag: img/flags/be.svg
+    price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Mulai dari $1.99
+  - name: eSIM El Salvador
+    flag: img/flags/sv.svg
+    price: Mulai $23.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai dari $1.99
+  - name: eSIM Irak
+    flag: img/flags/iq.svg
+    price: Mulai $9.99
     is_highlight: false
-  - name: eSIM Cina
-    flag: img/flags/cn.svg
-    price: Mulai dari $1.99
+  - name: eSIM Meksiko
+    flag: img/flags/mx.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai dari $1.99
+  - name: eSIM Asia Tenggara
+    flag: img/flags/ya.webp
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai dari $1.99
+  - name: eSIM Austria
+    flag: img/flags/at.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai dari $1.99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai dari $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai dari $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai dari $1.99
+  - name: eSIM Siprus
+    flag: img/flags/cy.svg
+    price: Mulai $2.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Turki vs SIM Prabayar Lokal: Tanpa Paspor, Tanpa Pemborosan 28 Hari'
   subtitle: SIM Prabayar Lokal Turki vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Turki) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Turkey
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -513,11 +525,11 @@ market_analysis:
     esim_title: Pembayaran Global Diterima
     esim_desc: Hindari kartu kredit internasional yang ditolak dan biaya tukar tersembunyi. Roami menerima Visa, Mastercard, AMEX, Apple Pay, Google Pay, dan PayPal dengan harga USD transparan.
   - icon: shield
-    title: Sensor &<br>Kebebasan Internet
+    title: Registrasi &<br>Aktivasi
     prepaid_title: ''
-    prepaid_desc: Operator Turki memblokir Twitter, Facebook, Wikipedia, YouTube, dan banyak layanan VPN berdasarkan mandat pemerintah. Akses memerlukan VPN pihak ketiga (yang sering juga diblokir).
-    esim_title: Lewati Semua Blokir
-    esim_desc: Routing internasional Roami melewati sensor internet Turki secara otomatis. Akses Twitter, Facebook, Wikipedia, YouTube, dan VPN tanpa perangkat lunak tambahan — internet Anda berfungsi seperti di rumah.
+    prepaid_desc: SIM prabayar lokal Turki wajib registrasi dengan paspor dan IMEI perangkat, serta memiliki masa berlaku terbatas.
+    esim_title: Aktif Tanpa Registrasi
+    esim_desc: eSIM Roami aktif lewat pemindaian kode QR dan langsung tersambung ke jaringan mitra lokal dengan kecepatan 5G — tanpa dokumen, tanpa kunjungan toko, dan tanpa perangkat lunak tambahan.
   - icon: headset
     title: Dukungan Pelanggan
     prepaid_title: ''
@@ -540,8 +552,8 @@ market_analysis:
     - icon: globe
       icon_bg: bg-purple-100
       icon_color: text-purple-600
-      title: Lewati Sensor Secara Otomatis
-      desc: Operator Turki memblokir Twitter, Facebook, Wikipedia, dan VPN. Routing internasional Roami memungkinkan Anda mengakses <b>semua situs web</b> tanpa VPN terpisah — aplikasi sosial Anda berfungsi persis seperti di rumah.
+      title: Peralihan Operator Otomatis
+      desc: eSIM Roami berpindah otomatis ke operator dengan sinyal terkuat, sehingga aplikasi sosial, peta, dan pesan Anda tetap berjalan lancar selama perjalanan di Turki.
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600

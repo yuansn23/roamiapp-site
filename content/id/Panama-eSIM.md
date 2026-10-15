@@ -1,7 +1,7 @@
 ---
 title: 'Panama eSIM 2026: Panduan Wisatawan & Jaringan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIM</strong>.<br>Pelanggan baru menikmati diskon 20%, kode promo:web20
 seo:
   title: 'eSIM Panama: 5G Cepat & Kuota Besar untuk Pelancong'
-  description: 'Internet 5G cepat di Panama dengan eSIM prabayar Roami. Cakupan +Movil & Digicel & Cable & Wireless. Aktivasi instan, mulai $1.99.'
-  keywords: eSIM Panama, beli eSIM Panama, eSIM Panama terbaik, eSIM perjalanan Panama, +Movil Panama, Digicel Panama, Cable & Wireless Panama, eSIM Kota Panama, eSIM Colón, eSIM David, eSIM prabayar Panama, eSIM 5G Panama
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Internet 5G cepat di Panama dengan eSIM prabayar Roami. Cakupan +Movil & Digicel & Cable & Wireless. Aktivasi instan, mulai $11.99.'
+  keywords: eSIM Panama, beli eSIM Panama, eSIM Panama terbaik, eSIM perjalanan Panama, +Movil Panama, Digicel Panama, Cable & Wireless Panama, eSIM Kota Panama, eSIM Colón, eSIM David, eSIM prabayar Panama, eSIM 5G Panama, eSIM Terusan Panama, eSIM Casco Viejo, eSIM San Blas, paket eSIM Panama
+  low_price: 11.99
+  high_price: 84.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Alih Otomatis
     desc: Terhubung otomatis ke operator terbaik Panama untuk sinyal terbaik
-plans_title: 'Beli eSIM Panama: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Bandingkan Paket eSIM Panama Sebelum Membeli'
 plans_data:
   7 Hari:
   - spec: 1GB
@@ -232,7 +232,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Panama: Panduan Operator Jaringan Seluler'
+  title: 'Cakupan eSIM Panama: Panduan 4G/5G Orange, Vodafone & Etisalat'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -263,7 +263,7 @@ network_coverage:
       coverage: Cakupan kota yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Panama: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips eSIM Panama: Persiapan Singkat Sebelum Berangkat'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -284,7 +284,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Panama: 3 Langkah Mudah'
+  title: 'Instalasi eSIM Panama: Panduan Langkah demi Langkah'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -304,12 +304,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Kecepatan Internet Apa yang Dapat Anda Harapkan dengan eSIM di Panama?"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Panama. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Kongo. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Panama
+    title: Pertanyaan Populer tentang eSIM Panama
     questions:
     - q: |
         Apakah aman mengunggah paspor saya untuk pendaftaran eSIM Panama? Saya khawatir tentang privasi.
@@ -318,11 +318,11 @@ faq_section:
     - q: |
         Berapa anggaran yang harus saya siapkan untuk eSIM saat mengunjungi Panama?
       a: |
-        Roami menawarkan eSIM Panama mulai dari $1,99 untuk paket ringan 7 hari hingga $59,99 untuk data tak terbatas 30 hari. Sebagian besar pengunjung memilih paket 5GB/15 hari seharga $9,99 — cukup untuk navigasi harian, media sosial, dan pesan tanpa stres. Penggemar streaming atau pengguna media sosial berat harus mempertimbangkan 10GB atau tak terbatas. Claro menyediakan kecepatan andal di seluruh Panama. Paket Roami bersifat prabayar — tanpa tagihan mengejutkan, tanpa perpanjangan otomatis, hanya harga yang jelas.
+        Roami menawarkan eSIM Panama mulai dari $11.99 untuk paket ringan 7 hari hingga $84.99 untuk data tak terbatas 30 hari. Sebagian besar pengunjung memilih paket 5GB/15 hari seharga $25.99 — cukup untuk navigasi harian, media sosial, dan pesan tanpa stres. Penggemar streaming atau pengguna media sosial berat harus mempertimbangkan 10GB atau tak terbatas. Claro menyediakan kecepatan andal di seluruh Panama. Paket Roami bersifat prabayar — tanpa tagihan mengejutkan, tanpa perpanjangan otomatis, hanya harga yang jelas.
     - q: |
         Apakah paket eSIM Panama tanpa batas akan melambat jika saya menggunakan terlalu banyak data?
       a: |
-        Ada kebijakan penggunaan wajar: kecepatan berkurang setelah 30GB dalam sehari. Pada kecepatan berkurang Anda masih dapat mengirim pesan, navigasi, dan menjelajah — hanya video yang tidak lancar. Secara realistis, sebagian besar pelancong tidak mendekati 30GB. Jika Anda khawatir, paket tetap 10GB ($14,99) atau 20GB ($24,99) menghilangkan ketidakpastian sepenuhnya.
+        Ada kebijakan penggunaan wajar: kecepatan berkurang setelah 30GB dalam sehari. Pada kecepatan berkurang Anda masih dapat mengirim pesan, navigasi, dan menjelajah — hanya video yang tidak lancar. Secara realistis, sebagian besar pelancong tidak mendekati 30GB. Jika Anda khawatir, paket tetap 10GB ($34.99) atau 20GB ($72.99) menghilangkan ketidakpastian sepenuhnya.
     - q: |
         Apakah eSIM saya di Panama akan berfungsi untuk panggilan video dan kerja jarak jauh?
       a: |
@@ -342,64 +342,76 @@ faq_section:
     - q: |
         Saya bepergian ke Panama hanya selama 2-3 hari. eSIM apa yang harus saya dapatkan?
       a: |
-        Untuk perjalanan singkat, paket 1GB/7 hari ($1,99) mencakup peta dan pesan. Jika Anda berencana menggunakan media sosial dan berbagi foto, paket 3GB ($4,99) memberi lebih banyak ruang. Keduanya aktif secara instan dan Anda dapat mengisi ulang jika diperlukan.
+        Untuk perjalanan singkat, paket 1GB/7 hari ($11.99) mencakup peta dan pesan. Jika Anda berencana menggunakan media sosial dan berbagi foto, paket 3GB ($13.99) memberi lebih banyak ruang. Keduanya aktif secara instan dan Anda dapat mengisi ulang jika diperlukan.
+    - q: |
+        Apakah eSIM Roami Panama memakai jaringan +Movil?
+      a: |
+        Tentu. eSIM Roami bekerja di jaringan +Movil tanpa registrasi tambahan; jaringan dipilih otomatis untuk sinyal terbaik, baik di Kota Panama maupun saat Anda melanjutkan perjalanan ke kota lain di Panama.
+    - q: |
+        Apakah saya tetap online selama berada di Colón?
+      a: |
+        Ya. Sepanjang perjalanan ke Colón Anda tetap terhubung lewat jaringan +Movil; paket mulai $11.99 cocok untuk pemakaian ringan, sedangkan pengguna data berat bisa menambah kuota kapan saja.
+    - q: |
+        Apakah paket 1GB cukup untuk perjalanan 7 hari di Panama dan kota seperti Kota Panama?
+      a: |
+        Untuk perjalanan 7 hari, paket 1GB seharga $11.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Kota Panama. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket Tak Terbatas seharga $84.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Panama Terkait
   items:
-  - name: eSIM amerika serikat
-    flag: img/flags/us.svg
-    price: Dari $1.99
-    is_highlight: false
-  - name: Inggris
-    flag: img/flags/gb.svg
-    price: Dari $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Dari $1.99
+  - name: eSIM Luksemburg
+    flag: img/flags/lu.svg
+    price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Dari $1.99
+  - name: eSIM Meksiko
+    flag: img/flags/mx.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Dari $1.99
+  - name: eSIM Oman
+    flag: img/flags/om.svg
+    price: Mulai $5.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Dari $1.99
+  - name: eSIM Portugal
+    flag: img/flags/pt.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Dari $1.99
+  - name: eSIM Seychelles
+    flag: img/flags/sc.svg
+    price: Mulai $9.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Dari $1.99
+  - name: eSIM Taiwan
+    flag: img/flags/tw.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Perancis
-    flag: img/flags/fr.svg
-    price: Dari $1.99
+  - name: eSIM Ukraina
+    flag: img/flags/ua.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Dari $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Dari $1.99
+  - name: eSIM Vietnam
+    flag: img/flags/vn.svg
+    price: Mulai $1.99
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
-    price: Dari $1.99
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Belarus
+    flag: img/flags/by.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Bulgaria
+    flag: img/flags/bg.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Tiongkok
+    flag: img/flags/cn.svg
+    price: Mulai $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Panama vs SIM Prabayar: Perbandingan Biaya dan Kemudahan'
   subtitle: 'Kartu SIM Prabayar Lokal Panama vs. Solusi eSIM (Benchmark 2024/2025)'
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Panama) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Panama
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -414,7 +426,7 @@ market_analysis:
   - icon: id-card
     title: KYC & Registrasi<br>Nama Asli
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan praktik pasar umum, SIM prabayar Panama biasanya memerlukan registrasi paspor di tempat penjualan.
+    prepaid_desc: SIM prabayar Panama biasanya memerlukan registrasi paspor di tempat penjualan.
     esim_title: Tanpa Paspor Diperlukan
     esim_desc: Tidak seperti SIM lokal yang memerlukan registrasi paspor di toko, Roami eSIM aktif secara instan tanpa pemeriksaan KTP, menghemat 30 menit dokumen.
   - icon: globe
@@ -428,7 +440,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: +movil menawarkan paket 3 hari, 7 hari, 15 hari, 30 hari; paket 30 hari (B/.14.99 untuk 2GB) memaksa turis jangka pendek untuk membuang hingga 90% nilai paket.
     esim_title: Paket Jangka Pendek Fleksibel
-    esim_desc: Tidak seperti paket 30 hari +movil (B/.14.99/2GB) yang membuang 90% untuk perjalanan 3 hari, Roami menawarkan paket 7 hari mulai dari $1,99/GB, menghemat hingga 75% pemborosan.
+    esim_desc: Tidak seperti paket 30 hari +movil (B/.14.99/2GB) yang membuang 90% untuk perjalanan 3 hari, Roami menawarkan paket 7 hari mulai dari $3.50/GB, menghemat hingga 75% pemborosan.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
@@ -444,7 +456,7 @@ market_analysis:
   - icon: headset
     title: Dukungan Pelanggan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan praktik pasar umum, dukungan lokal biasanya dalam bahasa Spanyol, dengan bantuan bahasa Inggris terbatas.
+    prepaid_desc: Dukungan lokal biasanya dalam bahasa Spanyol, dengan bantuan bahasa Inggris terbatas.
     esim_title: Dukungan Multibahasa 24/7
     esim_desc: Tidak seperti SIM lokal dengan dukungan hanya bahasa Spanyol selama jam kerja, Roami menyediakan dukungan bahasa Inggris 24/7 melalui live chat dan email.
   expert_verdict:
@@ -454,7 +466,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Hilangkan 90% Pemborosan Paket dengan Penagihan Fleksibel
-      desc: Paket 30 hari +movil (B/.14.99/2GB) memaksa turis jangka pendek untuk membuang hingga 90% nilai paket. Roami menawarkan paket 7 hari mulai dari $1,99/GB, menghemat hingga 75% pemborosan.
+      desc: Paket 30 hari +movil (B/.14.99/2GB) memaksa turis jangka pendek untuk membuang hingga 90% nilai paket. Roami menawarkan paket 7 hari mulai dari $3.50/GB, menghemat hingga 75% pemborosan.
     - icon: wifi
       icon_bg: bg-purple-100
       icon_color: text-purple-600

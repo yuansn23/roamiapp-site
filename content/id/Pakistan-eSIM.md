@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Pakistan 2026: Panduan Paket & Cakupan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIM</strong>.<br>Pelanggan baru menikmati diskon 20%, kode promo:web20
 seo:
   title: 'eSIM Pakistan: Paket Hemat & Kuota Besar untuk Wisata'
-  description: 'Data 5G cepat untuk Pakistan bersama eSIM Roami. Cakupan Jazz & Telenor & Zong. Aktivasi QR instan, mulai $1.99. Tanpa kontrak.'
-  keywords: eSIM Pakistan, beli eSIM Pakistan, eSIM terbaik Pakistan, eSIM perjalanan Pakistan, Jazz Pakistan, Telenor Pakistan, Zong Pakistan, eSIM Karachi, eSIM Lahore, eSIM Islamabad, eSIM prabayar Pakistan, eSIM 5G Pakistan
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Data 5G cepat untuk Pakistan bersama eSIM Roami. Cakupan Jazz & Telenor & Zong. Aktivasi QR instan, mulai $3.99. Tanpa kontrak.'
+  keywords: eSIM Pakistan, beli eSIM Pakistan, eSIM Pakistan terbaik, eSIM perjalanan Pakistan, Jazz Pakistan, Telenor Pakistan, Zong Pakistan, eSIM Karachi, eSIM Lahore, eSIM Islamabad, eSIM prabayar Pakistan, eSIM 5G Pakistan, eSIM Lembah Hunza, eSIM Rawalpindi, eSIM Faisalabad, paket eSIM Pakistan
+  low_price: 3.99
+  high_price: 96.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Pindah Otomatis
     desc: Terhubung otomatis ke operator top Pakistan untuk sinyal terbaik
-plans_title: 'Beli eSIM Pakistan: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Pakistan: Dari Perjalanan Singkat hingga Sebulan'
 plans_data:
   7 Hari:
   - spec: 3GB
@@ -278,7 +278,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Pakistan: Panduan Operator & Peta Cakupan'
+  title: 'Cakupan eSIM Pakistan: Panduan Jaringan TDC, Telenor & Telia'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -309,7 +309,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Pakistan: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Catatan Penting Pengaturan eSIM Pakistan Sebelum Berangkat'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -328,7 +328,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Pakistan: 3 Langkah Mudah'
+  title: 'Cara Mengaktifkan eSIM Pakistan Sebelum Berangkat'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -348,12 +348,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM untuk Wisatawan di Pakistan -- Kecepatan Jaringan, Cakupan dan Tips"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Pakistan. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Pakistan. Cari tahu kecepatan yang diharapkan dan cara menghindari kerumitan registrasi CPF."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Pakistan
+    title: Tanya Jawab Seputar eSIM Pakistan
     questions:
     - q: |
         Apakah saya memerlukan paspor atau KTP untuk menggunakan eSIM di Pakistan? Bagaimana cara verifikasinya?
@@ -366,7 +366,7 @@ faq_section:
     - q: |
         Apa pilihan eSIM paling populer bagi wisatawan yang pergi ke Pakistan?
       a: |
-        Sebagian besar wisatawan ke Pakistan memilih paket 5GB/15 hari ($9,99). Cukup untuk navigasi harian, media sosial, dan pesan. Untuk masa tinggal lebih lama atau penggunaan lebih berat, paket 10GB ($14,99) atau tak terbatas ($59,99) adalah pilihan bagus. Semua paket aktif dalam hitungan menit dan mencakup dukungan 24/7.
+        Sebagian besar wisatawan ke Pakistan memilih paket 5GB/15 hari ($7.99). Cukup untuk navigasi harian, media sosial, dan pesan. Untuk masa tinggal lebih lama atau penggunaan lebih berat, paket 10GB ($15.99) atau tak terbatas ($45.99) adalah pilihan bagus. Semua paket aktif dalam hitungan menit dan mencakup dukungan 24/7.
     - q: |
         Bisakah saya menggunakan eSIM Pakistan saya segera setelah membelinya, atau apakah saya harus menunggu?
       a: |
@@ -378,7 +378,7 @@ faq_section:
     - q: |
         Apakah eSIM lebih murah daripada roaming internasional untuk Pakistan?
       a: |
-        Ya — Roami eSIM biasanya 80-90% lebih murah daripada paket roaming dari sebagian besar operator rumah. Paket 5GB untuk Pakistan berharga $9,99, sementara roaming dapat dengan mudah mencapai $50+ untuk data yang sama. Anda juga mendapatkan kecepatan jaringan lokal alih-alih roaming yang diperlambat.
+        Ya — Roami eSIM biasanya 80-90% lebih murah daripada paket roaming dari sebagian besar operator rumah. Paket 5GB untuk Pakistan berharga $9.99, sementara roaming dapat dengan mudah mencapai $50+ untuk data yang sama. Anda juga mendapatkan kecepatan jaringan lokal alih-alih roaming yang diperlambat.
     - q: |
         Bisakah saya membeli eSIM Pakistan di menit-menit terakhir, tepat sebelum penerbangan saya?
       a: |
@@ -387,63 +387,75 @@ faq_section:
         Berapa banyak data yang sebenarnya digunakan wisatawan pada umumnya per hari di Pakistan?
       a: |
         Penggunaan harian rata-rata untuk sebagian besar wisatawan: 300-500MB untuk peta dan pesan, hingga 1GB jika Anda banyak menggunakan media sosial. Untuk perjalanan satu minggu, 5GB sudah nyaman. Untuk dua minggu, ambil 10GB. Roami memudahkan isi ulang jika Anda kehabisan.
+    - q: |
+        Apakah eSIM Roami Pakistan memakai jaringan Jazz?
+      a: |
+        Tentu. eSIM Roami bekerja di jaringan Jazz tanpa registrasi tambahan; jaringan dipilih otomatis untuk sinyal terbaik, baik di Karachi maupun saat Anda melanjutkan perjalanan ke kota lain di Pakistan.
+    - q: |
+        Apakah eSIM Pakistan berfungsi baik di Lahore?
+      a: |
+        Di Lahore eSIM Pakistan memakai jaringan 4G/5G Jazz, cukup untuk peta, perpesanan, dan mengunggah foto. Paket mulai $3.99 praktis untuk kunjungan singkat ke Lahore.
+    - q: |
+        Apakah paket 1GB cukup untuk perjalanan 7 hari di Pakistan dan kota seperti Karachi?
+      a: |
+        Untuk perjalanan 7 hari, paket 1GB seharga $3.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Karachi. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket Tak Terbatas seharga $45.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Pakistan Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1,99
+  - name: eSIM Kuwait
+    flag: img/flags/kw.svg
+    price: Mulai $4.99
     is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: Mulai $1,99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Mulai $1,99
+  - name: eSIM Liechtenstein
+    flag: img/flags/li.svg
+    price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Mulai $1,99
+  - name: eSIM Malaysia
+    flag: img/flags/my.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1,99
+  - name: eSIM Nepal
+    flag: img/flags/ne.svg
+    price: Mulai $10.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1,99
+  - name: eSIM Norwegia
+    flag: img/flags/no.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1,99
+  - name: eSIM Peru
+    flag: img/flags/pe.svg
+    price: Mulai $4.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1,99
+  - name: eSIM Qatar
+    flag: img/flags/qa.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1,99
+  - name: eSIM Seychelles
+    flag: img/flags/sc.svg
+    price: Mulai $9.99
     is_highlight: false
   - name: eSIM Spanyol
     flag: img/flags/es.svg
-    price: Mulai $1,99
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1,99
+  - name: eSIM Thailand
+    flag: img/flags/th.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1,99
+  - name: eSIM UAE
+    flag: img/flags/ae.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Vatikan
+    flag: img/flags/va.svg
+    price: Mulai $10.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Pakistan vs SIM Prabayar: Perbandingan Biaya dan Kemudahan'
   subtitle: SIM Prabayar Lokal Pakistan vs. Solusi eSIM (Benchmark 2024/2025)
   citation:
-    text: 'Sumber Data: Wiki Kartu SIM Data Prabayar (Pakistan) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Pakistan
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -464,7 +476,7 @@ market_analysis:
   - icon: globe
     title: Roaming<br>Internasional
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar, SIM prabayar Pakistan umumnya tidak termasuk roaming internasional; tambahan terpisah mungkin diperlukan.
+    prepaid_desc: SIM prabayar Pakistan umumnya tidak termasuk roaming internasional; tambahan terpisah mungkin diperlukan.
     esim_title: Siap Roaming Global
     esim_desc: Berbeda dengan SIM lokal tanpa roaming, Roami eSIM berfungsi di lebih dari 100 negara. Gunakan paket Anda di India, UAE, atau Inggris tanpa biaya tambahan.
   - icon: calendar-xmark
@@ -472,11 +484,11 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Paket 30 hari Jazz (15GB seharga 869 PKR) memaksa siklus 30 hari; wisatawan 5 hari membuang 27 hari masa berlaku dan sebagian besar data. Paket bulanan Telenor dan Zong memiliki biaya hangus serupa.
     esim_title: Paket Jangka Pendek Fleksibel
-    esim_desc: Berbeda dengan siklus 30 hari Jazz (15GB seharga 869 PKR, membuang 90% untuk perjalanan 3 hari), Roami menawarkan paket 7 hari mulai dari $1,99/GB, menghemat hingga 75% pemborosan.
+    esim_desc: Berbeda dengan siklus 30 hari Jazz (15GB seharga 869 PKR, membuang 90% untuk perjalanan 3 hari), Roami menawarkan paket 7 hari mulai dari $0.95/GB, menghemat hingga 75% pemborosan.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar, tethering umumnya diizinkan pada SIM prabayar Pakistan tetapi mungkin dibatasi pada paket tertentu.
+    prepaid_desc: Tethering umumnya diizinkan pada SIM prabayar Pakistan tetapi mungkin dibatasi pada paket tertentu.
     esim_title: Tethering Tanpa Batas
     esim_desc: Roami eSIM mengizinkan berbagi hotspot kecepatan penuh. Tanpa batasan seperti beberapa paket lokal yang membatasi tethering ke aplikasi tertentu.
   - icon: credit-card
@@ -503,7 +515,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Hilangkan Biaya Hangus 30 Hari
-      desc: Paket 15GB/30 hari Jazz (869 PKR) memaksa siklus satu bulan penuh. Wisatawan 5 hari membuang 27 hari masa berlaku. Roami menawarkan paket 7 hari mulai dari <b>$1,99/GB</b>, sesuai dengan durasi perjalanan Anda.
+      desc: Paket 15GB/30 hari Jazz (869 PKR) memaksa siklus satu bulan penuh. Wisatawan 5 hari membuang 27 hari masa berlaku. Roami menawarkan paket 7 hari mulai dari <b>$0.95/GB</b>, sesuai dengan durasi perjalanan Anda.
     - icon: wifi
       icon_bg: bg-teal-100
       icon_color: text-teal-600

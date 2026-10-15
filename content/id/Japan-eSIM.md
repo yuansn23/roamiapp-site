@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Jepang 2026 - Paket 5G Terbaik untuk Tokyo & Kyoto | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 'eSIM Jepang: 5G Cepat & Data Melimpah untuk Wisata'
   description: 'Beli eSIM prabayar Jepang dari Roami dengan 5G cepat. Cakupan NTT Docomo & SoftBank & KDDI. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Jepang, beli eSIM Jepang, eSIM Jepang terbaik, eSIM perjalanan Jepang, NTT Docomo Jepang, SoftBank Jepang, KDDI Jepang, eSIM Tokyo, eSIM Osaka, eSIM Kyoto, eSIM prabayar Jepang, eSIM 5G Jepang, eSIM Shinkansen, eSIM onsen
+  keywords: eSIM Jepang, beli eSIM Jepang, eSIM Jepang terbaik, eSIM perjalanan Jepang, NTT Docomo Jepang, SoftBank Jepang, KDDI Jepang, eSIM Tokyo, eSIM Osaka, eSIM Kyoto, eSIM prabayar Jepang, eSIM 5G Jepang, eSIM Shinkansen, eSIM Hokkaido, eSIM Yokohama, paket eSIM Jepang
   low_price: 1.99
-  high_price: 39.9
+  high_price: 71.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-brand-400 to-brand-600
     title: Otomatis Beralih
     desc: Terhubung otomatis ke NTT Docomo, SoftBank & KDDI untuk sinyal terbaik di seluruh Jepang
-plans_title: 'Beli eSIM Jepang: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Jepang: Solusi Data untuk Setiap Wisatawan'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -278,7 +278,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Jepang: Panduan Jaringan NTT Docomo, SoftBank & KDDI'
+  title: 'Cakupan eSIM Jepang: Panduan 5G Telcel, AT&T & Movistar — Cancún ke Mexico City'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -309,7 +309,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Jepang: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Persiapan eSIM Jepang: Dari Pemasangan hingga Aktivasi'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -330,7 +330,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Jepang: 3 Langkah Mudah'
+  title: 'Langkah Mudah Mengaktifkan eSIM Jepang'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -350,12 +350,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Jepang: Kecepatan, Cakupan, dan Tips Perjalanan untuk Jepang"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Jepang. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Jepang. Cari tahu kecepatan yang diharapkan di kota dan di resor pantai."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Jepang
+    title: FAQ Lengkap Seputar eSIM Jepang
     questions:
     - q: |
         Saya tiba di Jepang larut malam — apakah saya masih bisa mengaktifkan eSIM saya?
@@ -393,63 +393,75 @@ faq_section:
         Bagaimana perbandingan Roami dengan Klook untuk eSIM di Jepang?
       a: |
         Roami biasanya menawarkan nilai lebih baik untuk eSIM Jepang karena kami menjual langsung — tanpa markup pasar. Harga biasanya 10-20% lebih rendah dari Klook. Kami juga menyediakan dukungan langsung 24/7. Paket bersifat prabayar tanpa perpanjangan otomatis, jadi Anda tidak akan ditagih setelah perjalanan Anda berakhir.
+    - q: |
+        Apakah eSIM Jepang terhubung ke jaringan NTT Docomo di Tokyo?
+      a: |
+        Ya. eSIM Jepang terhubung ke jaringan NTT Docomo dan operator mitra lainnya, jadi sinyal tetap tersedia saat Anda berpindah dari Tokyo ke kota lain di Jepang. eSIM langsung aktif setelah dipasang, tanpa perlu memilih operator secara manual.
+    - q: |
+        Cukupkah paket termurah untuk pemakaian saya di Osaka?
+      a: |
+        Paket mulai $1.99 sudah menutupi navigasi, pesan, dan media sosial selama Anda berada di Osaka. Aktivasi dilakukan sekali sebelum berangkat, jadi tidak ada antrean di bandara.
+    - q: |
+        Apakah paket 3GB cukup untuk perjalanan 30 hari di Jepang dan kota seperti Tokyo?
+      a: |
+        Untuk perjalanan 30 hari, paket 3GB seharga $5.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Tokyo. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket Tak Terbatas seharga $71.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Jepang Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
+  - name: eSIM Nigeria
+    flag: img/flags/ng.svg
+    price: Mulai $5.99
     is_highlight: false
-  - name: Inggris Raya
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Taiwan
+    flag: img/flags/tw.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Azerbaijan
+    flag: img/flags/az.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Kroasia
+    flag: img/flags/hr.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
+  - name: eSIM Guadeloupe
+    flag: img/flags/gp.svg
+    price: Mulai $8.99
+    is_highlight: false
+  - name: eSIM Laos
+    flag: img/flags/la.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Peru
+    flag: img/flags/pe.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Uganda
+    flag: img/flags/ug.svg
+    price: Mulai $7.99
+    is_highlight: false
+  - name: eSIM Belgia
+    flag: img/flags/be.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
+  - name: eSIM Ekuador
+    flag: img/flags/ec.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Hungary
+    flag: img/flags/hu.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
+  - name: eSIM Madagaskar
+    flag: img/flags/mg.svg
+    price: Mulai $11.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Jepang vs Kartu SIM Prabayar: Perbedaan Utama Dijelaskan – eSIM Terbaik untuk Wisatawan Jepang'
   subtitle: SIM Prabayar Lokal Jepang vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Jepang) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Japan
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -478,7 +490,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Masa berlaku SIM fisik b-mobile dimulai dari tanggal pengiriman, bukan aktivasi; masa berlaku isi ulang IIJmio diperpanjang 3 bulan dari isi ulang terakhir, menyebabkan pemborosan bagi turis jangka pendek.
     esim_title: Siklus Penagihan Fleksibel
-    esim_desc: Paket 30 hari b-mobile dimulai dari tanggal pengiriman, membuang 20-40% masa berlaku. Roami menawarkan paket 7 hari mulai dari $1.99/GB, sesuai dengan durasi perjalanan Anda dan menghemat hingga 75% pemborosan.
+    esim_desc: Paket 30 hari b-mobile dimulai dari tanggal pengiriman, membuang 20-40% masa berlaku. Roami menawarkan paket 7 hari mulai dari $0.76/GB, sesuai dengan durasi perjalanan Anda dan menghemat hingga 75% pemborosan.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''

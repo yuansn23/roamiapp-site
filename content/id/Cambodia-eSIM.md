@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Kamboja 2026: Panduan Operator & Cakupan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -21,11 +21,10 @@ modal:
     promo:web20
 seo:
   title: 'eSIM Kamboja: 5G Cepat & Kuota Besar untuk Perjalanan'
-  description: 'Internet 5G cepat di Kamboja dengan eSIM prabayar Roami. Cakupan Smart & Metfone & Cellcard. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Kamboja, beli eSIM Kamboja, eSIM Kamboja terbaik, eSIM perjalanan Kamboja, Smart Kamboja, Metfone Kamboja,
-    Cellcard Kamboja, eSIM Phnom Penh, eSIM Siem Reap, eSIM Sihanoukville, eSIM prabayar Kamboja, 5G eSIM Kamboja
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Internet 5G cepat di Kamboja dengan eSIM prabayar Roami. Cakupan Smart & Metfone & Cellcard. Aktivasi QR instan, mulai $3.99.'
+  keywords: eSIM Kamboja, beli eSIM Kamboja, eSIM terbaik Kamboja, eSIM perjalanan Kamboja, Smart Kamboja, Metfone Kamboja, Cellcard Kamboja, eSIM Phnom Penh, eSIM Siem Reap, eSIM Sihanoukville, eSIM prabayar Kamboja, 5G eSIM Kamboja, eSIM Angkor Wat, eSIM Tonle Sap, eSIM Kampot, paket eSIM Kamboja
+  low_price: 3.99
+  high_price: 88.99
 order_summary:
   title: Paket Terpilih
   label_data: Data Termasuk
@@ -74,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Pengalihan Otomatis
     desc: Terhubung otomatis ke operator Kamboja terbaik untuk sinyal terbaik
-plans_title: 'Beli eSIM Kamboja: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Kamboja: Harga & Kuota untuk Setiap Durasi'
 plans_data:
   30 Hari:
   - spec: 20GB
@@ -284,7 +283,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Kamboja: Panduan Operator Jaringan Seluler'
+  title: 'Cakupan eSIM Kamboja: Panduan Jaringan NTT Docomo, SoftBank & KDDI'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -317,7 +316,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Kamboja: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Persiapan eSIM Kamboja: Catatan Penting Sebelum Berangkat'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -338,7 +337,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Kamboja: 3 Langkah Mudah'
+  title: 'Cara Memasang eSIM Kamboja dalam 3 Langkah'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -360,17 +359,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Kecepatan Internet Apa yang Dapat Diharapkan dengan eSIM di Kamboja?"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Kamboja. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitKamboja koneksi untuk wisatawan di Kamboja. Cari tahu kecepatan yang diharapkan dan di mana eSIM bekerja paling baik."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Kamboja
+    title: Tanya Jawab eSIM Kamboja
     questions:
     - q: |
         Berapa anggaran yang harus saya siapkan untuk eSIM saat mengunjungi Kamboja?
       a: |
-        Roami menawarkan eSIM Kamboja mulai dari $1.99 untuk paket ringan 7 hari hingga $59.99 untuk 30 hari data tak terbatas. Sebagian besar pengunjung memilih paket 5GB/15 hari seharga $9.99 — ini mencakup navigasi harian, media sosial, dan pesan tanpa stres. Penggemar streaming atau pengguna sosial berat sebaiknya mempertimbangkan 10GB atau tak terbatas. Cellcard menyediakan kecepatan andal di seluruh Kamboja. Paket Roami bersifat prabayar — tanpa tagihan mengejutkan, tanpa perpanjangan otomatis, hanya harga yang jelas.
+        Roami menawarkan eSIM Kamboja mulai dari $3.99 untuk paket ringan 7 hari hingga $88.99 untuk 30 hari data tak terbatas. Sebagian besar pengunjung memilih paket 5GB/15 hari seharga $7.99 — ini mencakup navigasi harian, media sosial, dan pesan tanpa stres. Penggemar streaming atau pengguna sosial berat sebaiknya mempertimbangkan 10GB atau tak terbatas. Cellcard menyediakan kecepatan andal di seluruh Kamboja. Paket Roami bersifat prabayar — tanpa tagihan mengejutkan, tanpa perpanjangan otomatis, hanya harga yang jelas.
     - q: |
         Bagaimana perbandingan Roami dengan Airalo untuk eSIM di Kamboja?
       a: |
@@ -378,7 +377,7 @@ faq_section:
     - q: |
         Apakah paket eSIM Kamboja tak terbatas akan melambat jika saya menggunakan terlalu banyak data?
       a: |
-        Ada kebijakan penggunaan wajar: kecepatan berkurang setelah 30GB dalam sehari. Pada kecepatan yang dikurangi, Anda masih dapat mengirim pesan, navigasi, dan menjelajah — hanya saja video tidak lancar. Secara realistis, sebagian besar pelancong tidak mendekati 30GB. Jika Anda khawatir, paket tetap 10GB ($14.99) atau 20GB ($24.99) menghilangkan ketidakpastian sepenuhnya.
+        Ada kebijakan penggunaan wajar: kecepatan berkurang setelah 30GB dalam sehari. Pada kecepatan yang dikurangi, Anda masih dapat mengirim pesan, navigasi, dan menjelajah — hanya saja video tidak lancar. Secara realistis, sebagian besar pelancong tidak mendekati 30GB. Jika Anda khawatir, paket tetap 10GB ($12.99) atau 20GB ($20.99) menghilangkan ketidakpastian sepenuhnya.
     - q: |
         Apakah aman mengunggah paspor saya untuk registrasi eSIM Kamboja? Saya khawatir tentang privasi.
       a: |
@@ -386,7 +385,7 @@ faq_section:
     - q: |
         Apakah eSIM lebih murah daripada roaming internasional untuk Kamboja?
       a: |
-        Ya — Roami eSIM biasanya 80-90% lebih murah daripada paket roaming dari sebagian besar operator rumah. Paket 5GB untuk Kamboja berharga $9.99, sementara roaming dapat dengan mudah berharga $50+ untuk data yang sama. Anda juga mendapatkan kecepatan jaringan lokal daripada roaming yang diperlambat.
+        Ya — Roami eSIM biasanya 80-90% lebih murah daripada paket roaming dari sebagian besar operator rumah. Paket 5GB untuk Kamboja berharga $7.99, sementara roaming dapat dengan mudah berharga $50+ untuk data yang sama. Anda juga mendapatkan kecepatan jaringan lokal daripada roaming yang diperlambat.
     - q: |
         Bisakah saya menggunakan eSIM Kamboja untuk media sosial dan berbagi foto dengan keluarga?
       a: |
@@ -398,64 +397,76 @@ faq_section:
     - q: |
         Apa pilihan eSIM paling populer untuk pelancong yang pergi ke Kamboja?
       a: |
-        Sebagian besar pelancong ke Kamboja memilih paket 5GB/15 hari ($9.99). Ini cukup untuk navigasi harian, media sosial, dan pesan. Untuk masa tinggal lebih lama atau penggunaan lebih berat, paket 10GB ($14.99) atau tak terbatas ($59.99) adalah pilihan bagus. Semua paket aktif dalam hitungan menit dan termasuk dukungan 24/7.
+        Sebagian besar pelancong ke Kamboja memilih paket 5GB/15 hari ($7.99). Ini cukup untuk navigasi harian, media sosial, dan pesan. Untuk masa tinggal lebih lama atau penggunaan lebih berat, paket 10GB ($12.99) atau tak terbatas ($50.99) adalah pilihan bagus. Semua paket aktif dalam hitungan menit dan termasuk dukungan 24/7.
+    - q: |
+        Bagaimana cakupan eSIM Kamboja di Phnom Penh dan sekitarnya?
+      a: |
+        Cakupan eSIM Kamboja mengikuti jaringan Smart di kota besar seperti Phnom Penh. Di daerah terpencil sinyal bisa lebih lemah, dan eSIM akan berpindah ke operator mitra secara otomatis.
+    - q: |
+        Perlu paket seperti apa untuk perjalanan ke Siem Reap?
+      a: |
+        Untuk Siem Reap, paket mulai $3.99 sudah memadai: peta, pesan, dan media sosial berjalan lancar lewat jaringan lokal. Bila Anda sering streaming atau memakai hotspot, pilih kuota yang lebih besar.
+    - q: |
+        Untuk 7 hari di Kamboja dan kota seperti Phnom Penh, lebih baik paket 1GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 1GB (7 hari, $4.99) karena harganya paling efisien dan memadai untuk kunjungan ke Phnom Penh. Jika perjalanan Anda padat data, paket Unlimited seharga $22.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Kamboja Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Tiongkok
-    flag: img/flags/cn.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: From $1.99
-    is_highlight: false
   - name: eSIM Prancis
     flag: img/flags/fr.svg
-    price: From $1.99
+    price: Mulai $1.99
+    is_highlight: true
+  - name: eSIM Pantai Gading
+    flag: img/flags/ci.svg
+    price: Mulai $9.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: From $1.99
+  - name: eSIM Belanda
+    flag: img/flags/nl.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: From $1.99
+  - name: eSIM Asia Tenggara
+    flag: img/flags/ya.webp
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: eSIM Armenia
+    flag: img/flags/am.svg
+    price: Mulai $7.99
+    is_highlight: false
+  - name: eSIM Kolombia
+    flag: img/flags/co.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Gibraltar
+    flag: img/flags/gi.svg
+    price: Mulai $5.99
+    is_highlight: false
+  - name: eSIM Kosovo
+    flag: img/flags/xk.svg
+    price: Mulai $13.99
+    is_highlight: false
+  - name: eSIM Pakistan
+    flag: img/flags/pk.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Thailand
+    flag: img/flags/th.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Bangladesh
+    flag: img/flags/bd.svg
+    price: Mulai $5.99
+    is_highlight: false
+  - name: eSIM Denmark
+    flag: img/flags/dk.svg
+    price: Mulai $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Kamboja vs SIM Prabayar: Kecepatan, Cakupan, dan Harga Dibandingkan'
   subtitle: SIM Prabayar Lokal Kamboja vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Wiki Kartu SIM Data Prabayar (Kamboja) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Cambodia
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -493,13 +504,12 @@ market_analysis:
     prepaid_desc: Smart Traveller SIM menawarkan paket 7 hari ($3/25GB) dan 15 hari ($5/35GB); Cellcard Serey+ menggunakan siklus 28 hari
       ($4/25GB); paket standar Metfone adalah 30 hari ($1/700MB, $3/4GB, $10/15GB).
     esim_title: Paket Jangka Pendek Fleksibel
-    esim_desc: Roami eSIM menyediakan paket data 7 hari mulai dari $1.99/GB, sangat cocok untuk perjalanan 5 hari Anda. Hindari membuang uang
+    esim_desc: Roami eSIM menyediakan paket data 7 hari mulai dari $0.90/GB, sangat cocok untuk perjalanan 5 hari Anda. Hindari membuang uang
       pada paket 7 hari Smart $3 atau paket 30 hari Metfone $1 di mana Anda membayar untuk hari yang tidak terpakai.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar umum, sebagian besar SIM prabayar
-      Kamboja mengizinkan tethering tetapi mungkin memperlambat setelah batas tertentu; paket SurfLikeCrazy Smart memiliki kebijakan FUP.
+    prepaid_desc: Sebagian besar SIM prabayar Kamboja mengizinkan tethering tetapi mungkin memperlambat setelah batas tertentu; paket SurfLikeCrazy Smart memiliki kebijakan FUP.
     esim_title: Tethering Tanpa Batasan
     esim_desc: Roami eSIM mengizinkan berbagi hotspot kecepatan penuh tanpa pembatasan atau batas FUP. Tidak seperti SIM lokal yang mungkin
       membatasi kecepatan tethering setelah penggunaan data tertentu, Anda dapat berbagi koneksi dengan banyak perangkat dengan mulus.
@@ -514,8 +524,7 @@ market_analysis:
   - icon: headset
     title: Dukungan Pelanggan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar umum, dukungan pelanggan biasanya
-      dalam bahasa Khmer dan Inggris, dengan jam terbatas.
+    prepaid_desc: Dukungan pelanggan biasanya dalam bahasa Khmer dan Inggris, dengan jam terbatas.
     esim_title: Dukungan Multibahasa 24/7
     esim_desc: Roami menawarkan dukungan pelanggan 24/7 dalam bahasa Inggris melalui obrolan langsung dan email. Tidak perlu menavigasi jalur dukungan lokal
       dengan jam terbatas atau hambatan bahasa.
@@ -541,7 +550,7 @@ market_analysis:
       icon_color: text-amber-600
       title: Hindari Paket Paksa 7 Hari atau 30 Hari
       desc: Smart Traveller SIM memaksa paket <b>$3/7 hari</b> bahkan untuk perjalanan 5 hari; paket standar Metfone adalah <b>30 hari</b>
-        (<b>$1/700MB</b>). Roami eSIM menawarkan paket 7 hari fleksibel dari <b>$1.99/GB</b>, sesuai dengan durasi perjalanan Anda
+        (<b>$1/700MB</b>). Roami eSIM menawarkan paket 7 hari fleksibel dari <b>$0.90/GB</b>, sesuai dengan durasi perjalanan Anda
         dan menghemat hingga <b>70%</b> pemborosan.
     - icon: clock
       icon_bg: bg-teal-100

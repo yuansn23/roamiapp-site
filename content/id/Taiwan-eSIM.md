@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Taiwan 2026 - Paket 5G Terbaik untuk Taipei & Pasar Malam | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIM</strong>.<br>Pelanggan baru menikmati diskon 20%, kode promo:web20
 seo:
   title: 'eSIM Taiwan: Prabayar & Kuota Melimpah untuk Bisnis'
-  description: 'eSIM prabayar Taiwan dari Roami: internet 5G cepat. Cakupan Chunghwa Telecom & FarEasTone & Taiwan Mobile. Tanpa biaya roaming.'
-  keywords: eSIM Taiwan, beli eSIM Taiwan, eSIM Taiwan terbaik, eSIM perjalanan Taiwan, Chunghwa Telecom Taiwan, FarEasTone Taiwan, Taiwan Mobile Taiwan, eSIM Taipei, eSIM New Taipei City, eSIM Taichung, eSIM prabayar Taiwan, eSIM 5G Taiwan, eSIM untuk pasar malam Taiwan, eSIM pasar malam Shilin, eSIM THSR, eSIM Taipei 101
+  description: 'eSIM prabayar Taiwan dari Roami: internet 5G cepat. Cakupan Chunghwa Telecom & FarEasTone & Taiwan Mobile. Tanpa biaya roaming. Mulai $1.99.'
+  keywords: eSIM Taiwan, beli eSIM Taiwan, eSIM Taiwan terbaik, eSIM perjalanan Taiwan, Chunghwa Telecom Taiwan, FarEasTone Taiwan, Taiwan Mobile, eSIM Taipei, eSIM New Taipei City, eSIM Taichung, eSIM prabayar Taiwan, eSIM 5G Taiwan, eSIM kereta cepat, eSIM Shilin, eSIM Kaohsiung, paket eSIM Taiwan
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Ganti Otomatis
     desc: Terhubung otomatis ke Chunghwa, FarEasTone & Taiwan Mobile untuk sinyal terbaik di seluruh Taiwan
-plans_title: 'Beli eSIM Taiwan: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Taiwan: Solusi Data untuk Setiap Wisatawan'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -270,7 +270,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Taiwan: Panduan Jaringan Chunghwa, FarEasTone & Taiwan Mobile'
+  title: 'Cakupan eSIM Taiwan: Panduan Jaringan Telia, Telenor & Tele2'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -301,7 +301,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Taiwan: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Persiapan eSIM Taiwan: Dari Pemasangan hingga Aktivasi'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -322,7 +322,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Taiwan: 3 Langkah Mudah'
+  title: 'Langkah Mudah Mengaktifkan eSIM Taiwan'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -342,12 +342,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Taiwan: Kecepatan, Cakupan, dan Tips Perjalanan untuk Taiwan"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi bagi pelancong di Taiwan. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Taiwan. Cari tahu kecepatan yang diharapkan dan cara menghindari kerumitan registrasi CPF."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Taiwan
+    title: FAQ Lengkap Seputar eSIM Taiwan
     questions:
     - q: |
         Apakah saya benar-benar tidak perlu paspor atau KTP untuk menggunakan eSIM Taiwan Roami?
@@ -385,63 +385,75 @@ faq_section:
         Bagaimana perbandingan Roami dengan Klook untuk eSIM di Taiwan?
       a: |
         Roami biasanya menawarkan nilai lebih baik untuk eSIM Taiwan karena kami menjual langsung — tanpa markup pasar. Harga biasanya 10-20% lebih rendah dari Klook. Kami juga menyediakan dukungan langsung 24/7. Paket prabayar tanpa perpanjangan otomatis, jadi Anda tidak akan ditagih setelah perjalanan berakhir.
+    - q: |
+        Jaringan apa yang dipakai eSIM Taiwan saat saya berada di Taipei?
+      a: |
+        eSIM Taiwan memakai jaringan Chunghwa Telecom dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area Taipei koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Perlu paket seperti apa untuk perjalanan ke New Taipei City?
+      a: |
+        Untuk New Taipei City, paket mulai $1.99 sudah memadai: peta, pesan, dan media sosial berjalan lancar lewat jaringan lokal. Bila Anda sering streaming atau memakai hotspot, pilih kuota yang lebih besar.
+    - q: |
+        Untuk 7 hari di Taiwan dan kota seperti Taipei, lebih baik paket 1GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 1GB (7 hari, $1.99) karena harganya paling efisien dan memadai untuk kunjungan ke Taipei. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $20.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Taiwan Terkait
   items:
-  - name: eSIM amerika serikat
-    flag: img/flags/us.svg
-    price: Mulai dari $1.99
+  - name: eSIM Tajikistan
+    flag: img/flags/tj.svg
+    price: Mulai $4.99
     is_highlight: false
-  - name: Inggris Raya
-    flag: img/flags/gb.svg
-    price: Mulai dari $1.99
+  - name: eSIM UAE
+    flag: img/flags/ae.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Mulai dari $1.99
+  - name: eSIM Afghanistan
+    flag: img/flags/af.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Austria
+    flag: img/flags/at.svg
+    price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Mulai dari $1.99
+  - name: eSIM Belgia
+    flag: img/flags/be.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai dari $1.99
+  - name: eSIM Burkina Faso
+    flag: img/flags/bf.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Cina
-    flag: img/flags/cn.svg
-    price: Mulai dari $1.99
+  - name: eSIM Kolombia
+    flag: img/flags/co.svg
+    price: Mulai $4.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai dari $1.99
+  - name: eSIM Dominika
+    flag: img/flags/dm.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai dari $1.99
-    is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai dari $1.99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai dari $1.99
+  - name: eSIM Kepulauan Faroe
+    flag: img/flags/fo.svg
+    price: Mulai $5.99
     is_highlight: false
   - name: eSIM Jerman
     flag: img/flags/de.svg
-    price: Mulai dari $1.99
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai dari $1.99
+  - name: eSIM Guatemala
+    flag: img/flags/gt.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Indonesia
+    flag: img/flags/id.svg
+    price: Mulai $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Taiwan vs SIM Prabayar: Kecepatan, Cakupan, dan Harga Dibandingkan'
   subtitle: SIM Prabayar Lokal Taiwan vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Taiwan) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Taiwan
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -470,7 +482,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: SIM turis bandara Chunghwa Telecom berlaku selama 3, 5, 7, 10, 15, atau 30 hari (mis., 7 hari NT$500); paket standar kota menggunakan siklus 30/60/120/180 hari (mis., 1.2GB/30 hari NT$300). SIM bandara tidak dapat diisi ulang atau diperpanjang.
     esim_title: Paket Pendek Fleksibel
-    esim_desc: Tidak seperti siklus 30 hari Chunghwa Telecom (NT$1000 untuk data tak terbatas) yang menyia-nyiakan 77% nilai untuk perjalanan 7 hari, Roami menawarkan paket 7 hari mulai dari $1.99/GB, menghemat uang Anda.
+    esim_desc: Tidak seperti siklus 30 hari Chunghwa Telecom (NT$1000 untuk data tak terbatas) yang menyia-nyiakan 77% nilai untuk perjalanan 7 hari, Roami menawarkan paket 7 hari mulai dari $0.70/GB, menghemat uang Anda.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''

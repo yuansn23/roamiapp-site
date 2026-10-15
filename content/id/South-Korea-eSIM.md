@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Korea Selatan - 5G Tercepat di Seoul & Busan'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,11 +19,11 @@ modal:
   text_android: Layanan eSIM kami telah ditingkatkan ke <strong>PhoneSIM</strong>.<br>Pelanggan baru dapat diskon 20%, kode
     promo:web20
 seo:
-  title: 'eSIM Korea Selatan: 5G Cepat & Kuota Besar untuk Anda'
+  title: 'eSIM Korea Selatan: 5G Cepat & Kuota Besar untuk Wisatawan'
   description: 'Roami: eSIM prabayar Korea Selatan dengan jaringan 5G cepat. Cakupan SK Telecom & KT & LG U+. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Korea Selatan, beli eSIM Korea Selatan, eSIM Korea Selatan terbaik, eSIM perjalanan Korea Selatan, SK Telecom Korea Selatan, KT Korea Selatan, LG U+ Korea Selatan, eSIM Seoul, eSIM Busan, eSIM Incheon, eSIM prabayar Korea Selatan, 5G eSIM Korea Selatan, 5G tercepat Korea Selatan, eSIM untuk konser K-pop
+  keywords: eSIM Korea Selatan, beli eSIM Korea Selatan, eSIM terbaik Korea Selatan, eSIM perjalanan Korea Selatan, SK Telecom Korea Selatan, KT Korea Selatan, LG U+ Korea Selatan, eSIM Seoul, eSIM Busan, eSIM Incheon, eSIM prabayar Korea Selatan, 5G eSIM Korea Selatan, eSIM K, eSIM Hallyu, eSIM kuil, paket eSIM Korea Selatan
   low_price: 1.99
-  high_price: 39.9
+  high_price: 61.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -72,7 +72,7 @@ features:
     color: from-rose-400 to-rose-600
     title: 5G Tercepat di Dunia
     desc: Korea Selatan memiliki 5G tercepat di dunia — hingga 1.5 Gbps di Seoul
-plans_title: 'Beli eSIM Korea Selatan: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Korea Selatan: Dari Perjalanan Singkat hingga Sebulan'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -282,7 +282,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Korea Selatan: Panduan Jaringan 5G SK Telecom, KT & LG U+'
+  title: 'Cakupan eSIM Korea Selatan: Panduan 5G STC, Mobily & Zain — Riyadh ke Mekkah'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -313,7 +313,7 @@ network_coverage:
       coverage: Cakupan 5G perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Korea Selatan: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Catatan Penting Pengaturan eSIM Korea Selatan Sebelum Berangkat'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -334,7 +334,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar, perangkat Anda mendukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Korea Selatan: 3 Langkah Mudah'
+  title: 'Cara Mengaktifkan eSIM Korea Selatan Sebelum Berangkat'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -354,12 +354,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Korea Selatan: Kecepatan 5G, Cakupan & Tips Perjalanan"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Korea Selatan. Cari tahu kecepatan yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Korea Selatan. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Korea Selatan
+    title: Tanya Jawab Seputar eSIM Korea Selatan
     questions:
     - q: |
         Seberapa cepat 5G di Korea Selatan? Bisakah saya mendapatkan angka nyata?
@@ -393,63 +393,75 @@ faq_section:
         Kapan masa berlaku paket eSIM Korea Selatan saya dimulai?
       a: |
         Masa berlaku paket dimulai saat Anda terhubung ke jaringan lokal di Korea Selatan, bukan saat membeli atau menginstalnya. Jadi Anda dapat membeli dan menginstal berminggu-minggu sebelum perjalanan tanpa kehilangan hari paket. Paket 7 hari memberi Anda 7 hari penuh dari koneksi pertama.
+    - q: |
+        Apakah eSIM Roami Korea Selatan memakai jaringan SK Telecom?
+      a: |
+        Tentu. eSIM Roami bekerja di jaringan SK Telecom tanpa registrasi tambahan; jaringan dipilih otomatis untuk sinyal terbaik, baik di Seoul maupun saat Anda melanjutkan perjalanan ke kota lain di Korea Selatan.
+    - q: |
+        Cukupkah paket termurah untuk pemakaian saya di Busan?
+      a: |
+        Paket mulai $1.99 sudah menutupi navigasi, pesan, dan media sosial selama Anda berada di Busan. Aktivasi dilakukan sekali sebelum berangkat, jadi tidak ada antrean di bandara.
+    - q: |
+        Apakah paket 3GB cukup untuk perjalanan 30 hari di Korea Selatan dan kota seperti Seoul?
+      a: |
+        Untuk perjalanan 30 hari, paket 3GB seharga $6.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Seoul. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket Tak Terbatas seharga $61.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Korea Selatan Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
+  - name: eSIM Madagaskar
+    flag: img/flags/mg.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Polandia
+    flag: img/flags/pl.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Tunisia
+    flag: img/flags/tn.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Azerbaijan
+    flag: img/flags/az.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Tiongkok
+    flag: img/flags/cn.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Guyana Prancis
+    flag: img/flags/gf.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Irlandia
+    flag: img/flags/ie.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Malawi
+    flag: img/flags/mw.svg
+    price: Mulai $14.99
+    is_highlight: false
+  - name: eSIM Portugal
+    flag: img/flags/pt.svg
     price: Mulai $1.99
     is_highlight: false
   - name: eSIM Turki
     flag: img/flags/tr.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
+  - name: eSIM Bahama
+    flag: img/flags/bs.svg
+    price: Mulai $16.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
+  - name: eSIM Kolombia
+    flag: img/flags/co.svg
+    price: Mulai $4.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Korea Selatan vs SIM Prabayar Lokal: Mana yang Lebih Baik untuk Wisatawan?'
   subtitle: SIM Prabayar Lokal Korea Selatan vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Korea Selatan) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/South_Korea
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)

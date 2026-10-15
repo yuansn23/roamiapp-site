@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Mesir - 4G/5G di Kairo & Luxor | Tanpa Paspor | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIM</strong>.<br>Pelanggan baru dapatkan diskon 20%, kode promo:web20
 seo:
   title: 'eSIM Mesir: Paket Hemat & Kuota Besar untuk Anda'
-  description: 'eSIM 5G Mesir dari Roami: internet cepat untuk perjalanan. Cakupan Orange & Vodafone & Etisalat. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Mesir, beli eSIM Mesir, eSIM Mesir terbaik, eSIM perjalanan Mesir, Orange Mesir, Vodafone Mesir, Etisalat Mesir, eSIM Kairo, eSIM Alexandria, eSIM Luxor, eSIM prabayar Mesir, eSIM Piramida Giza, eSIM Mesir tanpa paspor
-  low_price: 1.99
-  high_price: 39.9
+  description: 'eSIM 5G Mesir dari Roami: internet cepat untuk perjalanan. Cakupan Orange & Vodafone & Etisalat. Aktivasi QR instan, mulai $2.99.'
+  keywords: eSIM Mesir, beli eSIM Mesir, eSIM terbaik Mesir, eSIM perjalanan Mesir, Orange Mesir, Vodafone Mesir, Etisalat Mesir, eSIM Kairo, eSIM Alexandria, eSIM Luxor, eSIM prabayar Mesir, 5G eSIM Mesir, eSIM Piramida Giza, eSIM Museum Mesir, eSIM Nil, paket eSIM Mesir
+  low_price: 2.99
+  high_price: 94.99
 order_summary:
   title: Paket Terpilih
   label_data: Data Termasuk
@@ -74,7 +74,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: VoIP & WhatsApp Tidak Diblokir
     desc: Mesir memblokir panggilan WhatsApp di jaringan lokal — Roami melewati ini
-plans_title: 'Beli eSIM Mesir: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Mesir Terbaik: Bandingkan Kuota & Harga'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -266,7 +266,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Mesir: Panduan 4G/5G Orange, Vodafone & Etisalat'
+  title: 'Cakupan eSIM Mesir: Panduan Jaringan Chunghwa, FarEasTone & Mesir Mobile'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -297,7 +297,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Mesir: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Catatan Penting bagi Pengguna eSIM Mesir Baru'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -324,7 +324,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Mesir: 3 Langkah Mudah'
+  title: '3 Langkah Memasang eSIM Mesir di Ponsel Anda'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -344,12 +344,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Mesir: 4G/5G, Panggilan WhatsApp & Tips Perjalanan"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Mesir. Cari tahu kecepatan yang diharapkan di Piramida, di Kairo, dan di sepanjang Sungai Nil."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Mesir. Cari tahu kecepatan yang diharapkan di Cancún, Mexico City, dan di reruntuhan — dan mengapa Roami adalah jawaban atas aturan registrasi SIM baru Mesir 2026."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Mesir
+    title: Semua Pertanyaan tentang eSIM Mesir
     questions:
     - q: |
         Mengapa saya tidak bisa membeli kartu SIM di Bandara Kairo? Saya pernah mendengar hal-hal buruk.
@@ -395,63 +395,75 @@ faq_section:
         Kapan masa berlaku eSIM Mesir saya dimulai?
       a: |
         Masa berlaku paket dimulai saat Anda terhubung ke jaringan lokal di Mesir, bukan saat Anda membeli atau menginstalnya. Jadi Anda dapat membeli dan menginstal berminggu-minggu sebelum perjalanan tanpa kehilangan hari paket. Paket 7 hari memberi Anda 7 hari penuh dari koneksi pertama.
+    - q: |
+        Apakah eSIM Mesir terhubung ke jaringan Orange di Kairo?
+      a: |
+        Ya. eSIM Mesir terhubung ke jaringan Orange dan operator mitra lainnya, jadi sinyal tetap tersedia saat Anda berpindah dari Kairo ke kota lain di Mesir. eSIM langsung aktif setelah dipasang, tanpa perlu memilih operator secara manual.
+    - q: |
+        Cukupkah paket termurah untuk pemakaian saya di Alexandria?
+      a: |
+        Paket mulai $2.99 sudah menutupi navigasi, pesan, dan media sosial selama Anda berada di Alexandria. Aktivasi dilakukan sekali sebelum berangkat, jadi tidak ada antrean di bandara.
+    - q: |
+        Apakah paket 1GB cukup untuk perjalanan 7 hari di Mesir dan kota seperti Kairo?
+      a: |
+        Untuk perjalanan 7 hari, paket 1GB seharga $4.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Kairo. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket Tak Terbatas seharga $39.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Mesir Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
+  - name: eSIM Aljazair
+    flag: img/flags/dz.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
+  - name: eSIM Chad
+    flag: img/flags/td.svg
+    price: Mulai $23.99
     is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Georgia
+    flag: img/flags/ge.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Yordania
+    flag: img/flags/jo.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Nigeria
+    flag: img/flags/ng.svg
+    price: Mulai $5.99
+    is_highlight: false
+  - name: eSIM Taiwan
+    flag: img/flags/tw.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Azerbaijan
+    flag: img/flags/az.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Kroasia
+    flag: img/flags/hr.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
+  - name: eSIM Guadeloupe
+    flag: img/flags/gp.svg
+    price: Mulai $8.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
+  - name: eSIM Laos
+    flag: img/flags/la.svg
+    price: Mulai $4.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
+  - name: eSIM Peru
+    flag: img/flags/pe.svg
+    price: Mulai $4.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
+  - name: eSIM Uganda
+    flag: img/flags/ug.svg
+    price: Mulai $7.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Mesir vs SIM Prabayar Lokal: Tanpa Paspor, Tanpa Pajak 30%'
   subtitle: SIM Prabayar Lokal Mesir vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Mesir) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Egypt
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -480,7 +492,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Semua operator utama (Vodafone, Orange, Etisalat) menggunakan siklus penagihan 30 hari. Turis 7 hari yang membeli paket Orange EGP 200/5GB membuang lebih dari 75% nilai paket.
     esim_title: Paket Pendek Fleksibel
-    esim_desc: Hindari paket 30 hari yang membuang 75%+ nilai untuk perjalanan pendek. Roami menawarkan paket 7 hari mulai dari $1.99/GB — sesuai dengan durasi tinggal Anda yang tepat.
+    esim_desc: Hindari paket 30 hari yang membuang 75%+ nilai untuk perjalanan pendek. Roami menawarkan paket 7 hari mulai dari $1.95/GB — sesuai dengan durasi tinggal Anda yang tepat.
   - icon: wifi
     title: Hotspot &<br>Kebijakan Kecepatan
     prepaid_title: ''
@@ -521,5 +533,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Tanpa Pemborosan Biaya Hangus 30 Hari
-      desc: Paket 30 hari Orange/Vodafone membuang <b>75%+</b> untuk perjalanan 7 hari. Roami menawarkan <b>paket 7 hari dari $1.99/GB</b> — bayar hanya untuk perjalanan Anda.
+      desc: Paket 30 hari Orange/Vodafone membuang <b>75%+</b> untuk perjalanan 7 hari. Roami menawarkan <b>paket 7 hari dari $1.95/GB</b> — bayar hanya untuk perjalanan Anda.
 ---

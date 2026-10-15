@@ -73,7 +73,7 @@ Dos particularidades que conviene conocer antes de pagar. Primero, la franquicia
 
 ### Precios del prepago alemán: Telekom, Vodafone y marcas económicas
 
-Para el itinerario de "una base dominante", el mercado alemán de prepago es el referente útil, porque es el más grande de Europa y su escala de precios es inusualmente transparente. Nuestra propia [guía de precios prepago en Alemania](/blog/germany-esim-local-carriers-prepaid-guide) sigue los tramos actuales: **Telekom MagentaMobil** ronda los 20 € por 5 GB y los 30 € por 10 GB; **Vodafone CallYa** y **O2 Prepaid** se sitúan cerca de los 12–15 € por 10 GB; y las marcas de supermercado — **Aldi Talk**, **Lidl Connect**, **congstar** — aterrizan alrededor de los 8–13 € por los mismos datos.
+Para el itinerario de "una base dominante", el mercado alemán de prepago es el referente útil, porque es el más grande de Europa y su escala de precios es inusualmente transparente. Nuestra propia [guía de precios prepago en Alemania](/blog/germany-esim-local-carriers-prepaid-guide/) sigue los tramos actuales: **Telekom MagentaMobil** ronda los 20 € por 5 GB y los 30 € por 10 GB; **Vodafone CallYa** y **O2 Prepaid** se sitúan cerca de los 12–15 € por 10 GB; y las marcas de supermercado — **Aldi Talk**, **Lidl Connect**, **congstar** — aterrizan alrededor de los 8–13 € por los mismos datos.
 
 | Nivel | Datos | Precio aprox. | Verificación de identidad |
 |:---|:---|:---|:---|

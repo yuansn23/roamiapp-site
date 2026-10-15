@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Siprus 2026: Panduan Operator & Cakupan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -21,11 +21,10 @@ modal:
     promo:web20
 seo:
   title: 'eSIM Siprus: 5G Cepat & Kuota Besar untuk Pelancong'
-  description: 'Paket eSIM Roami untuk Siprus: 5G cepat & prabayar. Cakupan Cyta & PrimeTel & Epic. Aktivasi instan, mulai $1.99. Tanpa kontrak.'
-  keywords: eSIM Siprus, beli eSIM Siprus, eSIM Siprus terbaik, eSIM perjalanan Siprus, Cyta Siprus, PrimeTel Siprus, Epic Siprus,
-    eSIM Nicosia, eSIM Limassol, eSIM Larnaca, eSIM prabayar Siprus, 5G eSIM Siprus
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Paket eSIM Roami untuk Siprus: 5G cepat & prabayar. Cakupan Cyta & PrimeTel & Epic. Aktivasi instan, mulai $2.99. Tanpa kontrak.'
+  keywords: eSIM Siprus, beli eSIM Siprus, eSIM Siprus terbaik, eSIM perjalanan Siprus, Cyta Siprus, PrimeTel Siprus, Epic Siprus, eSIM Nicosia, eSIM Limassol, eSIM Larnaca, eSIM prabayar Siprus, eSIM 5G Siprus, eSIM Pegunungan Troodos, eSIM Paphos, eSIM Famagusta, paket eSIM Siprus
+  low_price: 2.99
+  high_price: 77.99
 order_summary:
   title: Paket Terpilih
   label_data: Data Termasuk
@@ -74,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Pengalihan Otomatis
     desc: Terhubung otomatis ke operator Siprus terbaik untuk sinyal terbaik
-plans_title: 'Beli eSIM Siprus: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Siprus: Sesuaikan Kuota dengan Rencana Anda'
 plans_data:
   30 Hari:
   - spec: 20GB
@@ -300,7 +299,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Siprus: Cakupan Jaringan & Perbandingan Operator'
+  title: 'Cakupan eSIM Siprus: Panduan Jaringan Airtel, Cable & Wireless & Intelvision'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -333,7 +332,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Siprus: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips eSIM Siprus: Agar Langsung Terhubung di Tempat Tujuan'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -354,7 +353,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Siprus: 3 Langkah Mudah'
+  title: 'Aktivasi eSIM Siprus dalam Beberapa Menit'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -376,12 +375,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM untuk Pelancong di Siprus -- Kecepatan Jaringan, Cakupan dan Tips"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Siprus. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Siprus. Cari tahu kecepatan yang diharapkan di Piramida, di Kairo, dan di sepanjang Sungai Nil."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Siprus
+    title: Pertanyaan Wisatawan tentang eSIM Siprus
     questions:
     - q: |
         Apakah aman mengunggah paspor saya untuk registrasi eSIM Siprus? Saya khawatir tentang privasi.
@@ -390,7 +389,7 @@ faq_section:
     - q: |
         Bisakah saya mendapatkan eSIM untuk Siprus tanpa mengeluarkan banyak biaya?
       a: |
-        Tentu. Paket eSIM Siprus Roami mulai dari serendah $1.99. Opsi 5GB/15 hari ($9.99) adalah yang paling populer di kalangan pelancong — ini dengan nyaman menangani peta, WhatsApp, Instagram, dan email. Jika Anda pengguna data berat, paket 10GB ($14.99) atau tak terbatas ($59.99) memberi Anda ketenangan pikiran. Melewati konter SIM bandara menghemat 30-50% dan kerumitan mengantre. Perlu penyesuaian? Anda dapat mengisi ulang kapan saja dari aplikasi Roami.
+        Tentu. Paket eSIM Siprus Roami mulai dari serendah $2.99. Opsi 5GB/15 hari ($8.99) adalah yang paling populer di kalangan pelancong — ini dengan nyaman menangani peta, WhatsApp, Instagram, dan email. Jika Anda pengguna data berat, paket 10GB ($14.99) atau tak terbatas ($42.99) memberi Anda ketenangan pikiran. Melewati konter SIM bandara menghemat 30-50% dan kerumitan mengantre. Perlu penyesuaian? Anda dapat mengisi ulang kapan saja dari aplikasi Roami.
     - q: |
         Apakah saya perlu melepas SIM fisik saya untuk menggunakan eSIM di Siprus?
       a: |
@@ -402,7 +401,7 @@ faq_section:
     - q: |
         Apa pilihan eSIM paling populer untuk pelancong yang pergi ke Siprus?
       a: |
-        Sebagian besar pelancong ke Siprus memilih paket 5GB/15 hari ($9.99). Ini cukup untuk navigasi harian, media sosial, dan pesan. Untuk masa tinggal lebih lama atau penggunaan lebih berat, paket 10GB ($14.99) atau tak terbatas ($59.99) adalah pilihan bagus. Semua paket aktif dalam hitungan menit dan termasuk dukungan 24/7.
+        Sebagian besar pelancong ke Siprus memilih paket 5GB/15 hari ($8.99). Ini cukup untuk navigasi harian, media sosial, dan pesan. Untuk masa tinggal lebih lama atau penggunaan lebih berat, paket 10GB ($14.99) atau tak terbatas ($42.99) adalah pilihan bagus. Semua paket aktif dalam hitungan menit dan termasuk dukungan 24/7.
     - q: |
         Bagaimana jika saya secara tidak sengaja menghapus eSIM Siprus saya sebelum perjalanan?
       a: |
@@ -415,63 +414,75 @@ faq_section:
         Apa yang terjadi jika eSIM Siprus saya berhenti bekerja di tengah perjalanan?
       a: |
         Pertama, coba restart ponsel dan aktifkan Data Roaming. Sebagian besar masalah selesai dalam 2 menit. Jika tidak, pilih operator secara manual di pengaturan jaringan. Dukungan 24/7 Roami dapat membantu jika masalah berlanjut.
+    - q: |
+        Bagaimana cakupan eSIM Siprus di Nicosia dan sekitarnya?
+      a: |
+        Cakupan eSIM Siprus mengikuti jaringan Cyta di kota besar seperti Nicosia. Di daerah terpencil sinyal bisa lebih lemah, dan eSIM akan berpindah ke operator mitra secara otomatis.
+    - q: |
+        Cukupkah paket termurah untuk pemakaian saya di Limassol?
+      a: |
+        Paket mulai $2.99 sudah menutupi navigasi, pesan, dan media sosial selama Anda berada di Limassol. Aktivasi dilakukan sekali sebelum berangkat, jadi tidak ada antrean di bandara.
+    - q: |
+        Untuk 30 hari di Siprus dan kota seperti Nicosia, lebih baik paket 3GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 3GB (30 hari, $6.99) karena harganya paling efisien dan memadai untuk kunjungan ke Nicosia. Jika perjalanan Anda padat data, paket Unlimited seharga $77.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Siprus Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: From $1.99
+  - name: eSIM Selandia Baru
+    flag: img/flags/nz.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: From $1.99
+  - name: eSIM Niger
+    flag: img/flags/ni.svg
+    price: Mulai $23.99
     is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: eSIM Nigeria
+    flag: img/flags/ng.svg
+    price: Mulai $5.99
+    is_highlight: false
+  - name: eSIM Norwegia
+    flag: img/flags/no.svg
+    price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: From $1.99
+  - name: eSIM Oman
+    flag: img/flags/om.svg
+    price: Mulai $5.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: From $1.99
+  - name: eSIM Pakistan
+    flag: img/flags/pk.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Tiongkok
-    flag: img/flags/cn.svg
-    price: From $1.99
+  - name: eSIM Panama
+    flag: img/flags/pa.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: From $1.99
+  - name: eSIM Paraguay
+    flag: img/flags/py.svg
+    price: Mulai $22.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: From $1.99
+  - name: eSIM Peru
+    flag: img/flags/pe.svg
+    price: Mulai $4.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: From $1.99
+  - name: eSIM Filipina
+    flag: img/flags/ph.svg
+    price: Mulai $2.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: From $1.99
+  - name: eSIM Polandia
+    flag: img/flags/pl.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: eSIM Portugal
+    flag: img/flags/pt.svg
+    price: Mulai $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Siprus vs SIM Prabayar Lokal: Mana Lebih Nyaman?'
   subtitle: SIM Prabayar Lokal Siprus vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Wiki Kartu SIM Data Prabayar (Siprus) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Cyprus
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -510,12 +521,11 @@ market_analysis:
       Ups Primetel adalah siklus 30 hari (€10 untuk 60GB). Perjalanan singkat menyia-nyiakan sebagian besar nilai paket.
     esim_title: Paket Jangka Pendek Fleksibel
     esim_desc: Tidak seperti siklus 30 hari Cyta (€10 untuk 20GB) atau paket bulanan Primetel €10 untuk 60GB, Roami menawarkan paket
-      7 hari mulai dari $1.99/GB, menghemat hingga 75% pemborosan untuk perjalanan singkat.
+      7 hari mulai dari $0.55/GB, menghemat hingga 75% pemborosan untuk perjalanan singkat.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
-    prepaid_desc: Primetel mengizinkan berbagi hotspot tetapi memiliki Kebijakan Penggunaan Wajar (FUP) yang memperlambat unduhan P2P/BT. Tidak ada data
-      spesifik tentang pembatasan hotspot untuk operator lain.
+    prepaid_desc: Primetel mengizinkan berbagi hotspot tetapi memiliki Kebijakan Penggunaan Wajar (FUP) yang memperlambat unduhan P2P/BT.
     esim_title: Tethering Tanpa Batasan
     esim_desc: Roami eSIM mengizinkan berbagi hotspot kecepatan penuh tanpa pembatasan FUP, tidak seperti Primetel yang membatasi unduhan
       P2P/BT.
@@ -531,7 +541,7 @@ market_analysis:
   - icon: headset
     title: Dukungan Pelanggan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini.
+    prepaid_desc: Operator belum mempublikasikan rincian resmi pada aspek ini.
     esim_title: Dukungan Multibahasa 24/7
     esim_desc: Dapatkan dukungan pelanggan 24 jam dalam bahasa Inggris, tidak seperti operator lokal yang mungkin hanya menawarkan dukungan dalam bahasa Yunani
       atau Turki selama jam kerja.

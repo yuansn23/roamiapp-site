@@ -73,7 +73,7 @@ Due particolarità da conoscere prima del checkout. Primo, l'indennità di tethe
 
 ### Il punto di riferimento prepagato tedesco: Telekom, Vodafone e la fascia discount
 
-Per l'itinerario "una base dominante", il mercato prepagato tedesco è il punto di riferimento utile, perché è il più grande d'Europa e la sua scala di prezzi è insolitamente trasparente. La nostra [guida ai prezzi prepagate Germania](/blog/germany-esim-local-carriers-prepaid-guide) traccia i livelli attuali: **Telekom MagentaMobil** gira intorno a €20 per 5 GB e €30 per 10 GB; **Vodafone CallYa** e **O2 Prepaid** siedono intorno a €12–15 per 10 GB; e i marchi dei supermercati — **Aldi Talk**, **Lidl Connect**, **congstar** — si assestano intorno a €8–13 per gli stessi dati.
+Per l'itinerario "una base dominante", il mercato prepagato tedesco è il punto di riferimento utile, perché è il più grande d'Europa e la sua scala di prezzi è insolitamente trasparente. La nostra [guida ai prezzi prepagate Germania](/blog/germany-esim-local-carriers-prepaid-guide/) traccia i livelli attuali: **Telekom MagentaMobil** gira intorno a €20 per 5 GB e €30 per 10 GB; **Vodafone CallYa** e **O2 Prepaid** siedono intorno a €12–15 per 10 GB; e i marchi dei supermercati — **Aldi Talk**, **Lidl Connect**, **congstar** — si assestano intorno a €8–13 per gli stessi dati.
 
 | Livello | Dati | Prezzo appross. | Verifica identità |
 |:---|:---|:---|:---|

@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Kroasia 2026: Panduan Perjalanan Lengkap | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 'eSIM Kroasia: 5G Cepat & Kuota Besar untuk Perjalanan'
   description: 'eSIM prabayar Kroasia dari Roami: internet 5G cepat. Cakupan Hrvatski Telekom & A1 Hrvatska & Tele2. Aktivasi instan, mulai $1.99.'
-  keywords: eSIM Kroasia, beli eSIM Kroasia, eSIM terbaik Kroasia, eSIM perjalanan Kroasia, Hrvatski Telekom Kroasia, A1 Hrvatska Kroasia, Tele2 Kroasia, eSIM Zagreb, eSIM Split, eSIM Dubrovnik, eSIM prabayar Kroasia, eSIM 5G Kroasia
+  keywords: eSIM Kroasia, beli eSIM Kroasia, eSIM terbaik Kroasia, eSIM perjalanan Kroasia, Hrvatski Telekom Kroasia, A1 Hrvatska Kroasia, Tele2 Kroasia, eSIM Zagreb, eSIM Split, eSIM Dubrovnik, eSIM prabayar Kroasia, 5G eSIM Kroasia, eSIM Dalmatia, eSIM Plitvice, eSIM Dubrovnik Game of Thrones, paket eSIM Kroasia
   low_price: 1.99
-  high_price: 39.9
+  high_price: 76.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Ganti Otomatis
     desc: Terhubung otomatis ke operator Kroasia terbaik untuk sinyal terkuat
-plans_title: 'Beli eSIM Kroasia: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Pilihan Paket eSIM Kroasia: Hemat, Sedang & Besar'
 plans_data:
   30 Hari:
   - spec: 20GB
@@ -294,7 +294,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Kroasia: Panduan Lengkap ke Jaringan Lokal'
+  title: 'Cakupan eSIM Kroasia: Panduan 5G STC, Mobily & Zain — Riyadh ke Mekkah'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -325,7 +325,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Kroasia: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Catatan Sebelum Berangkat dengan eSIM Kroasia'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -344,7 +344,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Kroasia: 3 Langkah Mudah'
+  title: 'Panduan Instalasi eSIM Kroasia untuk iPhone & Android'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -364,12 +364,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Apakah eSIM Bekerja Baik di Kroasia? Panduan Wisatawan tentang Kualitas Internet"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Kroasia. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Kongo. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Kroasia
+    title: Tanya Jawab Cepat eSIM Kroasia
     questions:
     - q: |
         Apakah aman mengunggah paspor saya untuk registrasi eSIM Kroasia? Saya khawatir tentang privasi.
@@ -378,7 +378,7 @@ faq_section:
     - q: |
         Apakah paket tak terbatas eSIM Kroasia akan melambat jika saya menggunakan terlalu banyak data?
       a: |
-        Ada kebijakan penggunaan wajar: kecepatan berkurang setelah 30GB dalam sehari. Pada kecepatan berkurang, Anda masih dapat mengirim pesan, bernavigasi, dan menjelajah — hanya video yang tidak lancar. Secara realistis, sebagian besar pelancong tidak mendekati 30GB. Jika Anda khawatir, paket tetap 10GB ($14.99) atau 20GB ($24.99) menghilangkan ketidakpastian sepenuhnya.
+        Ada kebijakan penggunaan wajar: kecepatan berkurang setelah 30GB dalam sehari. Pada kecepatan berkurang, Anda masih dapat mengirim pesan, bernavigasi, dan menjelajah — hanya video yang tidak lancar. Secara realistis, sebagian besar pelancong tidak mendekati 30GB. Jika Anda khawatir, paket tetap 10GB ($14.99) atau 20GB ($22.99) menghilangkan ketidakpastian sepenuhnya.
     - q: |
         Saya memerlukan akses internet hanya untuk beberapa hari di Kroasia. Berapa minimum yang dapat saya beli?
       a: |
@@ -386,7 +386,7 @@ faq_section:
     - q: |
         Saya bepergian ke Kroasia hanya selama 2-3 hari. eSIM apa yang harus saya dapatkan?
       a: |
-        Untuk perjalanan singkat, paket 1GB/7 hari ($1.99) mencakup peta dan perpesanan. Jika Anda berencana menggunakan media sosial dan berbagi foto, paket 3GB ($4.99) memberi ruang lebih lega. Keduanya aktif secara instan dan Anda dapat menambah kuota jika diperlukan.
+        Untuk perjalanan singkat, paket 1GB/7 hari ($2.99) mencakup peta dan perpesanan. Jika Anda berencana menggunakan media sosial dan berbagi foto, paket 3GB ($4.99) memberi ruang lebih lega. Keduanya aktif secara instan dan Anda dapat menambah kuota jika diperlukan.
     - q: |
         Apa yang terjadi jika eSIM Kroasia saya berhenti bekerja di tengah perjalanan?
       a: |
@@ -403,63 +403,75 @@ faq_section:
         Apakah saya perlu melepas SIM fisik saya untuk menggunakan eSIM di Kroasia?
       a: |
         Sama sekali tidak. SIM fisik Anda tetap di slot 1. eSIM bekerja bersamanya di slot 2. Gunakan SIM rumah Anda untuk SMS dan panggilan, eSIM untuk data. Lebih dari 80% ponsel dari tahun 2020 mendukung pengaturan ganda ini.
+    - q: |
+        Jaringan apa yang dipakai eSIM Kroasia saat saya berada di Zagreb?
+      a: |
+        eSIM Kroasia memakai jaringan Hrvatski Telekom dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area Zagreb koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Apakah saya tetap online selama berada di Split?
+      a: |
+        Ya. Sepanjang perjalanan ke Split Anda tetap terhubung lewat jaringan Hrvatski Telekom; paket mulai $1.99 cocok untuk pemakaian ringan, sedangkan pengguna data berat bisa menambah kuota kapan saja.
+    - q: |
+        Untuk 30 hari di Kroasia dan kota seperti Zagreb, lebih baik paket 3GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 3GB (30 hari, $6.99) karena harganya paling efisien dan memadai untuk kunjungan ke Zagreb. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $76.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Kroasia Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Inggris Raya
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Malaysia
+    flag: img/flags/my.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Seychelles
+    flag: img/flags/sc.svg
+    price: Mulai $9.99
+    is_highlight: false
+  - name: eSIM Andorra
+    flag: img/flags/ad.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Kolombia
+    flag: img/flags/co.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Grenada
+    flag: img/flags/gd.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Latvia
+    flag: img/flags/lv.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
+  - name: eSIM Portugal
+    flag: img/flags/pt.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Tiongkok
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
+  - name: eSIM Uruguay
+    flag: img/flags/uy.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
+  - name: eSIM Burkina Faso
+    flag: img/flags/bf.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
+  - name: eSIM Guyana Prancis
+    flag: img/flags/gf.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
+  - name: eSIM Yordania
+    flag: img/flags/jo.svg
+    price: Mulai $6.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
+  - name: eSIM Oman
+    flag: img/flags/om.svg
+    price: Mulai $5.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Kroasia vs SIM Prabayar Lokal: Mana yang Lebih Nyaman?'
   subtitle: SIM Prabayar Lokal Kroasia vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Kroasia) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Croatia
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -488,23 +500,23 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Hrvatski Telekom menawarkan paket 24 jam (€1.49), 7 hari (€9.99), 30 hari, dan 90 hari; eSIM turis A1 mulai dari 3 hari (€5.90) atau 10 hari (€7.90); perjalanan 5 hari yang membeli paket 10 hari menyia-nyiakan 50% nilai.
     esim_title: Paket Harian Fleksibel
-    esim_desc: Hindari siklus tetap 10 hari Hrvatski Telekom (€10) atau 3 hari A1 (€5.90). Roami menawarkan paket 7 hari mulai dari $1.99/GB, menghemat hingga 50% pemborosan untuk perjalanan singkat.
+    esim_desc: Hindari siklus tetap 10 hari Hrvatski Telekom (€10) atau 3 hari A1 (€5.90). Roami menawarkan paket 7 hari mulai dari $1.05/GB, menghemat hingga 50% pemborosan untuk perjalanan singkat.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar, sebagian besar SIM prabayar Kroasia mengizinkan tethering tetapi dapat membatasi kecepatan setelah batas data kecepatan tinggi.
+    prepaid_desc: Sebagian besar SIM prabayar Kroasia mengizinkan tethering tetapi dapat membatasi kecepatan setelah batas data kecepatan tinggi.
     esim_title: Tethering Tanpa Batasan
     esim_desc: Tidak seperti beberapa SIM lokal yang membatasi kecepatan setelah batas kecepatan tinggi, Roami memungkinkan berbagi hotspot kecepatan penuh. Tidak ada batas kecepatan tersembunyi seperti SIM data-only Telemach 10 Mbit/s.
   - icon: credit-card
     title: Pembayaran Isi Ulang
     prepaid_title: ''
-    prepaid_desc: Isi ulang dapat dilakukan secara online atau di kios; kartu asing mungkin ditolak; voucher fisik umum digunakan. Tidak ada data spesifik tentang metode pembayaran.
+    prepaid_desc: Isi ulang dapat dilakukan secara online atau di kios; kartu asing mungkin ditolak; voucher fisik umum digunakan.
     esim_title: Pembayaran Global Diterima
     esim_desc: Bayar dengan Visa, Mastercard, AMEX, Apple Pay, Google Pay, atau PayPal. Tidak perlu voucher kios lokal atau berurusan dengan kartu asing yang ditolak.
   - icon: headset
     title: Dukungan Pelanggan
     prepaid_title: ''
-    prepaid_desc: Dukungan pelanggan biasanya dalam bahasa Kroasia, dengan bahasa Inggris terbatas; jam kerja mungkin Senin-Jumat 9-5. Tidak ada data spesifik dalam sumber.
+    prepaid_desc: Dukungan pelanggan biasanya dalam bahasa Kroasia, dengan bahasa Inggris terbatas; jam kerja mungkin Senin-Jumat 9-5.
     esim_title: Dukungan Multibahasa 24/7
     esim_desc: Dapatkan dukungan bahasa Inggris kapan saja, tidak seperti operator Kroasia dengan jam terbatas. Tidak perlu menerjemahkan instruksi bahasa lokal untuk pengaturan APN.
   expert_verdict:

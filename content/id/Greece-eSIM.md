@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Yunani - 5G di Athena & Santorini | Tanpa Berburu di Bandara | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 'eSIM Yunani: Prabayar & Data Tanpa Batas untuk Anda'
   description: 'eSIM 5G Yunani dari Roami: internet cepat untuk perjalanan. Cakupan Vodafone & Cosmote & Wind. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Yunani, beli eSIM Yunani, eSIM Yunani terbaik, eSIM perjalanan Yunani, Vodafone Yunani, Cosmote Yunani, Wind Yunani, eSIM Athena, eSIM Thessaloniki, eSIM Santorini, eSIM prabayar Yunani, eSIM 5G Yunani, eSIM pulau Yunani
+  keywords: eSIM Yunani, beli eSIM Yunani, eSIM Yunani terbaik, eSIM perjalanan Yunani, Vodafone Yunani, Cosmote Yunani, Wind Yunani, eSIM Athena, eSIM Thessaloniki, eSIM Heraklion, eSIM prabayar Yunani, eSIM 5G Yunani, eSIM Santorini, eSIM Meteora, eSIM Mykonos, paket eSIM Yunani
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Paket Terpilih
   label_data: Data Termasuk
@@ -74,7 +74,7 @@ features:
     color: from-sky-400 to-sky-600
     title: Siap Lompat Pulau
     desc: Tetap terhubung di feri antara Santorini, Mykonos & semua pulau Yunani
-plans_title: 'Beli eSIM Yunani: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Yunani: Sesuaikan Kuota dengan Rencana Anda'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -290,7 +290,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Yunani: Panduan 5G Vodafone, Cosmote & Wind — Daratan & Pulau'
+  title: 'Detail Cakupan Jaringan'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -321,7 +321,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Yunani: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips eSIM Yunani: Agar Langsung Terhubung di Tempat Tujuan'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -346,7 +346,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Yunani: 3 Langkah Mudah'
+  title: 'Aktivasi eSIM Yunani dalam Beberapa Menit'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -366,12 +366,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Yunani: 5G, Cakupan Pulau & Tips Perjalanan"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Yunani. Cari tahu kecepatan yang diharapkan di Athena, di pulau-pulau, dan di feri."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Yunani. Cari tahu kecepatan yang diharapkan dan di mana eSIM bekerja paling baik."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Yunani
+    title: Pertanyaan Wisatawan tentang eSIM Yunani
     questions:
     - q: |
         Mengapa saya tidak bisa membeli SIM di Bandara Athena?
@@ -417,63 +417,75 @@ faq_section:
         Kapan masa berlaku eSIM Yunani saya dimulai?
       a: |
         Masa berlaku paket dimulai saat Anda terhubung ke jaringan lokal di Yunani, bukan saat Anda membeli atau menginstalnya. Jadi Anda dapat membeli dan menginstal berminggu-minggu sebelum perjalanan tanpa kehilangan hari paket. Paket 7 hari memberi Anda 7 hari penuh dari koneksi pertama.
+    - q: |
+        Apakah eSIM Roami Yunani memakai jaringan Vodafone?
+      a: |
+        Tentu. eSIM Roami bekerja di jaringan Vodafone tanpa registrasi tambahan; jaringan dipilih otomatis untuk sinyal terbaik, baik di Athena maupun saat Anda melanjutkan perjalanan ke kota lain di Yunani.
+    - q: |
+        Apakah saya tetap online selama berada di Thessaloniki?
+      a: |
+        Ya. Sepanjang perjalanan ke Thessaloniki Anda tetap terhubung lewat jaringan Vodafone; paket mulai $1.99 cocok untuk pemakaian ringan, sedangkan pengguna data berat bisa menambah kuota kapan saja.
+    - q: |
+        Apakah paket 3GB cukup untuk perjalanan 30 hari di Yunani dan kota seperti Athena?
+      a: |
+        Untuk perjalanan 30 hari, paket 3GB seharga $6.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Athena. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket Tak Terbatas seharga $77.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Yunani Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
+  - name: eSIM Peru
+    flag: img/flags/pe.svg
+    price: Mulai $4.99
     is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Taiwan
+    flag: img/flags/tw.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Mulai $1.99
+  - name: eSIM Aljazair
+    flag: img/flags/dz.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
+  - name: eSIM Brunei
+    flag: img/flags/bn.svg
+    price: Mulai $9.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
+  - name: eSIM Republik Dominika
+    flag: img/flags/do.svg
+    price: Mulai $5.99
+    is_highlight: false
+  - name: eSIM Grenada
+    flag: img/flags/gd.svg
+    price: Mulai $11.99
     is_highlight: false
   - name: eSIM Jepang
     flag: img/flags/jp.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
+  - name: eSIM Mali
+    flag: img/flags/ml.svg
+    price: Mulai $27.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
+  - name: eSIM Puerto Rico
+    flag: img/flags/pu.svg
+    price: Mulai $6.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
+  - name: eSIM Tunisia
+    flag: img/flags/tn.svg
+    price: Mulai $3.99
     is_highlight: false
   - name: eSIM Australia
     flag: img/flags/au.svg
     price: Mulai $1.99
     is_highlight: false
+  - name: eSIM Kamerun
+    flag: img/flags/cm.svg
+    price: Mulai $27.99
+    is_highlight: false
 market_analysis:
   title: 'eSIM Yunani vs SIM Lokal: Tanpa Berburu di Bandara, Tanpa Pajak 12%'
   subtitle: SIM Prabayar Lokal Yunani vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Yunani) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Greece
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)

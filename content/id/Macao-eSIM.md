@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Makau 2026: Panduan 5G & Data | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: CTM, 3 Macau, SmarTone
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Semenanjung Makau, Taipa, Coloane, Cotai, Ilha Verde
-  main_packages: 3/7/15/30 Hari, Paket Unlimited
+  main_packages: 3/7/15/30 Hari, Data Tak Terbatas
 modal:
   title: Layanan Ditingkatkan!
   btn_text: Lanjutkan
@@ -21,10 +21,9 @@ modal:
 seo:
   title: 'eSIM Makau: Paket Hemat & Kuota Besar untuk Anda'
   description: 'Roami: eSIM prabayar Makau dengan jaringan 5G cepat. Cakupan CTM & 3 Macau & SmarTone. Aktivasi QR mulai $1.99. Tanpa kontrak.'
-  keywords: eSIM Makau, beli eSIM Makau, eSIM Makau terbaik, eSIM perjalanan Makau, CTM Makau, 3 Macau Makau, SmarTone Makau,
-    eSIM Semenanjung Makau, eSIM Taipa, eSIM Coloane, eSIM prabayar Makau, eSIM 5G Makau
+  keywords: eSIM Makau, beli eSIM Makau, eSIM terbaik Makau, eSIM perjalanan Makau, CTM Makau, 3 Macau Makau, SmarTone Makau, eSIM Semenanjung Makau, eSIM Taipa, eSIM Coloane, eSIM prabayar Makau, 5G eSIM Makau, eSIM kasino, eSIM feri, eSIM Cotai, paket eSIM Makau
   low_price: 1.99
-  high_price: 39.9
+  high_price: 64.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Alih Otomatis
     desc: Terhubung otomatis ke operator terbaik di Makau untuk sinyal terbaik
-plans_title: 'Beli eSIM Makau: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Pilih Paket eSIM Makau Sesuai Kebutuhan Data Anda'
 plans_data:
   15 Hari:
   - spec: 5GB
@@ -283,7 +282,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Makau: Panduan Lengkap Jaringan Lokal'
+  title: 'Cakupan eSIM Makau: Panduan Jaringan Telia, Telenor & Tele2'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -316,7 +315,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Makau: Apa yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips eSIM Makau: Hal yang Perlu Disiapkan Sebelum Terbang'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -337,7 +336,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Makau: 3 Langkah Mudah'
+  title: 'Panduan Aktivasi eSIM Makau untuk Pemula'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -359,13 +358,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Kecepatan Internet Apa yang Diharapkan dengan eSIM di Makau?"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Makau.
-    Cari tahu kecepatan yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Makau. Cari tahu kecepatan yang diharapkan dan cara menghindari mimpi buruk registrasi PostIdent/VideoIdent."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Makau
+    title: Pertanyaan yang Sering Diajukan soal eSIM Makau
     questions:
     - q: |
         Bagaimana perbandingan Roami dengan Holafly untuk eSIM di Makau?
@@ -399,55 +397,67 @@ faq_section:
         Bisakah saya menggunakan eSIM Makau untuk media sosial dan berbagi foto dengan keluarga?
       a: |
         Tentu saja. Instagram, WhatsApp, Facebook, dan aplikasi sosial lainnya semua berfungsi melalui koneksi eSIM. Kecepatan unggah dari CTM menangani foto dalam hitungan detik dan video pendek dengan mudah.
+    - q: |
+        Jaringan apa yang dipakai eSIM Makau saat saya berada di Semenanjung Makau?
+      a: |
+        eSIM Makau memakai jaringan CTM dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area Semenanjung Makau koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Apakah eSIM Makau berfungsi baik di Taipa?
+      a: |
+        Di Taipa eSIM Makau memakai jaringan 4G/5G CTM, cukup untuk peta, perpesanan, dan mengunggah foto. Paket mulai $1.99 praktis untuk kunjungan singkat ke Taipa.
+    - q: |
+        Untuk 30 hari di Makau dan kota seperti Semenanjung Makau, lebih baik paket 3GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 3GB (30 hari, $5.99) karena harganya paling efisien dan memadai untuk kunjungan ke Semenanjung Makau. Jika perjalanan Anda padat data, paket Unlimited seharga $64.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
+  - name: eSIM Grenada
+    flag: img/flags/gd.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
+  - name: eSIM Israel
+    flag: img/flags/il.svg
+    price: Mulai $2.99
     is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Liberia
+    flag: img/flags/lr.svg
+    price: Mulai $27.99
+    is_highlight: false
+  - name: eSIM Selandia Baru
+    flag: img/flags/nz.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Qatar
+    flag: img/flags/qa.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Tajikistan
+    flag: img/flags/tj.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Vietnam
+    flag: img/flags/vn.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
+  - name: eSIM Barbados
+    flag: img/flags/bb.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Tiongkok
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
+  - name: eSIM Chad
+    flag: img/flags/td.svg
+    price: Mulai $23.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
+  - name: eSIM Mesir
+    flag: img/flags/eg.svg
+    price: Mulai $2.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
+  - name: eSIM Gibraltar
+    flag: img/flags/gi.svg
+    price: Mulai $5.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
+  - name: eSIM Irak
+    flag: img/flags/iq.svg
+    price: Mulai $9.99
     is_highlight: false
 ---

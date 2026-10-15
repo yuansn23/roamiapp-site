@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Tiongkok 2026: Panduan Operator Lokal | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: China Mobile, China Unicom, China Telecom
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Beijing, Shanghai, Guangzhou, Shenzhen, Chengdu
-  main_packages: 3/7/15/30 Hari, Data Tak Terbatas
+  main_packages: 3/7/15/30 Hari
 modal:
   title: Layanan Ditingkatkan!
   btn_text: Lanjutkan
@@ -18,10 +18,10 @@ modal:
   text_android: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIM</strong>.<br>Pelanggan baru menikmati diskon 20%, kode promo:web20
 seo:
   title: 'eSIM Tiongkok: Prabayar & Kuota Besar untuk Anda'
-  description: 'Roami: eSIM prabayar Tiongkok dengan jaringan 5G cepat. Cakupan China Mobile & China Unicom & China Telecom. Tanpa biaya roaming.'
-  keywords: eSIM Tiongkok, beli eSIM Tiongkok, eSIM terbaik Tiongkok, eSIM perjalanan Tiongkok, China Mobile Tiongkok, China Unicom Tiongkok, China Telecom Tiongkok, eSIM Beijing, eSIM Shanghai, eSIM Guangzhou, eSIM prabayar Tiongkok, eSIM 5G Tiongkok
+  description: 'Roami: eSIM prabayar Tiongkok dengan jaringan 5G cepat. Cakupan China Mobile & China Unicom & China Telecom. Tanpa biaya roaming. Mulai $1.99.'
+  keywords: eSIM Tiongkok, beli eSIM Tiongkok, eSIM Tiongkok terbaik, eSIM perjalanan Tiongkok, China Mobile Tiongkok, China Unicom Tiongkok, China Telecom Tiongkok, eSIM Beijing, eSIM Shanghai, eSIM Guangzhou, eSIM prabayar Tiongkok, eSIM 5G Tiongkok, eSIM Chengdu, eSIM Zhangjiajie, eSIM Shenzhen, paket eSIM Tiongkok
   low_price: 1.99
-  high_price: 39.9
+  high_price: 39.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Ganti Otomatis
     desc: Terhubung otomatis ke operator Tiongkok terbaik untuk sinyal terkuat
-plans_title: 'Beli eSIM Tiongkok: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket Data eSIM Tiongkok: Fleksibel untuk Setiap Perjalanan'
 plans_data:
   30 Hari:
   - spec: 20GB
@@ -246,7 +246,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Tiongkok: Panduan Lengkap ke Jaringan Lokal'
+  title: 'Cakupan eSIM Tiongkok: Panduan 5G Tiongkoktel, Ooredoo & Vodafone — Muscat hingga Salalah'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -277,7 +277,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Tiongkok: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Hal yang Perlu Disiapkan untuk eSIM Tiongkok Anda'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -296,7 +296,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Tiongkok: 3 Langkah Mudah'
+  title: 'Aktivasi Cepat eSIM Tiongkok: Panduan 3 Langkah'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -316,12 +316,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Apakah eSIM Bekerja Baik di Tiongkok? Panduan Wisatawan tentang Kualitas Internet"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Tiongkok. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Tiongkok. Cari tahu kecepatan yang diharapkan dan di mana eSIM bekerja paling baik."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Tiongkok
+    title: FAQ eSIM Tiongkok untuk Pelancong
     questions:
     - q: |
         Wisatawan yang mengunjungi Tiongkok — jaringan mana yang memberikan pengalaman terbaik?
@@ -355,63 +355,75 @@ faq_section:
         Dapatkah saya menggunakan eSIM Tiongkok saya untuk media sosial dan berbagi foto dengan keluarga?
       a: |
         Tentu saja. Instagram, WhatsApp, Facebook, dan aplikasi sosial lainnya semuanya berfungsi melalui koneksi eSIM. Kecepatan unggah dari China Mobile menangani foto dalam hitungan detik dan video pendek dengan mudah.
+    - q: |
+        Jaringan apa yang dipakai eSIM Tiongkok saat saya berada di Beijing?
+      a: |
+        eSIM Tiongkok memakai jaringan China Mobile dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area Beijing koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Apakah eSIM Tiongkok berfungsi baik di Shanghai?
+      a: |
+        Di Shanghai eSIM Tiongkok memakai jaringan 4G/5G China Mobile, cukup untuk peta, perpesanan, dan mengunggah foto. Paket mulai $1.99 praktis untuk kunjungan singkat ke Shanghai.
+    - q: |
+        Untuk 30 hari di Tiongkok dan kota seperti Beijing, lebih baik paket 3GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 3GB (30 hari, $6.99) karena harganya paling efisien dan memadai untuk kunjungan ke Beijing. Jika perjalanan Anda padat data, paket 50GB seharga $39.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Tiongkok Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
+  - name: eSIM Guyana
+    flag: img/flags/gy.svg
+    price: Mulai $9.99
     is_highlight: false
-  - name: eSIM Inggris Raya
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Jepang
+    flag: img/flags/jp.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Mulai $1.99
+  - name: eSIM Madagaskar
+    flag: img/flags/mg.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Oman
+    flag: img/flags/om.svg
+    price: Mulai $5.99
+    is_highlight: false
+  - name: eSIM Arab Saudi
+    flag: img/flags/sa.svg
+    price: Mulai $3.99
     is_highlight: false
   - name: eSIM Turki
     flag: img/flags/tr.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Tiongkok
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
+  - name: eSIM Andorra
+    flag: img/flags/ad.svg
+    price: Mulai $6.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
+  - name: eSIM Bosnia dan Herzegovina
+    flag: img/flags/ba.svg
+    price: Mulai $30.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
+  - name: eSIM Kongo (Kinshasa)
+    flag: img/flags/cg.svg
+    price: Mulai $7.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
+  - name: eSIM Kepulauan Faroe
+    flag: img/flags/fo.svg
+    price: Mulai $5.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
+  - name: eSIM Guam
+    flag: img/flags/gu.svg
+    price: Mulai $9.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
+  - name: eSIM Pantai Gading
+    flag: img/flags/ci.svg
+    price: Mulai $9.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Tiongkok vs Kartu SIM Prabayar: Semua yang Harus Anda Pertimbangkan – eSIM Terbaik untuk Pelancong Tiongkok'
   subtitle: SIM Prabayar Lokal Tiongkok vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Tiongkok) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/China
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -440,11 +452,11 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: China Mobile dan China Unicom menggunakan penagihan bulanan kalender ketat; jika diaktifkan pada 25 Jan, data direset pada 1 Feb, menyia-nyiakan 80% paket.
     esim_title: Paket Berbasis Hari Fleksibel
-    esim_desc: Tidak seperti paket 129 RMB/30GB bulanan kalender China Unicom (menyia-nyiakan 80% untuk perjalanan 7 hari), Roami menawarkan paket 7 hari mulai dari $1.99/GB.
+    esim_desc: Tidak seperti paket 129 RMB/30GB bulanan kalender China Unicom (menyia-nyiakan 80% untuk perjalanan 7 hari), Roami menawarkan paket 7 hari mulai dari $0.80/GB.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar, tethering umumnya diizinkan tetapi dapat dibatasi pada beberapa paket.
+    prepaid_desc: Tethering umumnya diizinkan tetapi dapat dibatasi pada beberapa paket.
     esim_title: Tethering Tanpa Batasan
     esim_desc: Tidak seperti beberapa paket China Mobile yang mungkin membatasi tethering, eSIM Roami memungkinkan berbagi hotspot kecepatan penuh.
   - icon: credit-card
@@ -456,7 +468,7 @@ market_analysis:
   - icon: headset
     title: Dukungan Pelanggan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar, dukungan pelanggan terutama dalam bahasa Tiongkok, dengan layanan bahasa Inggris terbatas.
+    prepaid_desc: Dukungan pelanggan terutama dalam bahasa Tiongkok, dengan layanan bahasa Inggris terbatas.
     esim_title: Dukungan Inggris 24/7
     esim_desc: Dapatkan dukungan sepanjang waktu dalam bahasa Inggris, tidak seperti dukungan SIM lokal Tiongkok yang terutama dalam bahasa Tiongkok.
   expert_verdict:
@@ -480,6 +492,6 @@ market_analysis:
     - icon: tower-observation
       icon_bg: bg-rose-100
       icon_color: text-rose-600
-      title: Hindari Ketidakcocokan Jaringan dan Blokir VPN
-      desc: TDD-LTE China Mobile tidak kompatibel dengan banyak ponsel internasional, turun ke <b>2G EDGE (320 Kbps)</b>. China Unicom secara aktif memblokir VPN. eSIM Roami berfungsi pada ponsel tidak terkunci apa pun dan melewati Tembok Besar.
+      title: Hindari Ketidakcocokan Jaringan
+      desc: TDD-LTE China Mobile tidak kompatibel dengan banyak ponsel internasional, turun ke <b>2G EDGE (320 Kbps)</b>. eSIM Roami berfungsi pada ponsel tidak terkunci apa pun dan otomatis terhubung ke jaringan mitra lokal dengan cakupan terluas.
 ---

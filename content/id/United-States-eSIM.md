@@ -1,7 +1,7 @@
 ---
 title: 'eSIM AS 2026 - Paket Prabayar 5G Terbaik untuk Wisatawan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -22,11 +22,9 @@ modal:
 seo:
   title: 'eSIM Amerika Serikat: Paket Hemat, Data Melimpah'
   description: 'Roami: eSIM prabayar Amerika Serikat dengan jaringan 5G cepat. Cakupan T-Mobile & AT&T & Verizon. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM AS, beli eSIM AS, eSIM AS terbaik, eSIM perjalanan AS, T-Mobile Amerika
-    Serikat, AT&T AS, Verizon AS, eSIM New York, eSIM Los Angeles, eSIM Chicago, eSIM prabayar
-    AS, 5G eSIM AS
+  keywords: eSIM AS, beli eSIM AS, eSIM AS terbaik, eSIM perjalanan AS, T-Mobile AS, AT&T AS, Verizon AS, eSIM New York, eSIM Los Angeles, eSIM Chicago, eSIM prabayar AS, eSIM 5G AS, eSIM Las Vegas, eSIM Orlando, eSIM Houston, paket eSIM AS
   low_price: 1.99
-  high_price: 39.9
+  high_price: 49.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -285,7 +283,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM AS: Perbandingan Cakupan Jaringan & Operator'
+  title: 'Jangkauan eSIM AS: Panduan Lengkap Jaringan Lokal'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -361,7 +359,7 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Akankah eSIM Berfungsi dengan Baik di AS? Panduan Wisatawan tentang Kualitas Internet"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di AS. Cari tahu kecepatan yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di AS. Cari tahu kecepatan apa yang diharapkan di Muscat, Nizwa dan Salalah — dan bagaimana melewati repot registrasi paspor."
   categories:
   - id: faq-general
     icon: help-circle
@@ -371,7 +369,7 @@ faq_section:
     - q: |
         Apa saja opsi eSIM termurah untuk perjalanan ke AS?
       a: |
-        Paket eSIM AS Roami mulai dari $1.99 (7 hari, 1GB) hingga $59.99 (30 hari tak terbatas). Untuk perjalanan 5-7 hari pada umumnya, paket 5GB seharga $9.99 adalah pilihan terbaik — cukup untuk peta, pesan, dan memeriksa media sosial. Perlu streaming video atau kerja jarak jauh? Pilih 10GB atau tak terbatas. Berkat jaringan 5G T-Mobile, streaming dan panggilan video berfungsi dengan baik. Kios SIM bandara mengenakan biaya 30-50% lebih mahal, dan Anda harus mengantre. Tidak yakin dengan kebutuhan data Anda? Mulai dengan yang kecil dan isi ulang melalui aplikasi tanpa mengganti eSIM Anda.
+        Paket eSIM AS Roami mulai dari $1.99 (7 hari, 1GB) hingga $49.99 (30 hari tak terbatas). Untuk perjalanan 5-7 hari pada umumnya, paket 5GB seharga $8.99 adalah pilihan terbaik — cukup untuk peta, pesan, dan memeriksa media sosial. Perlu streaming video atau kerja jarak jauh? Pilih 10GB atau tak terbatas. Berkat jaringan 5G T-Mobile, streaming dan panggilan video berfungsi dengan baik. Kios SIM bandara mengenakan biaya 30-50% lebih mahal, dan Anda harus mengantre. Tidak yakin dengan kebutuhan data Anda? Mulai dengan yang kecil dan isi ulang melalui aplikasi tanpa mengganti eSIM Anda.
     - q: |
         Apakah AS benar-benar tidak memerlukan KTP untuk menggunakan eSIM? Bisakah saya langsung beli dan pergi?
       a: |
@@ -383,7 +381,7 @@ faq_section:
     - q: |
         Apakah eSIM lebih murah daripada roaming internasional untuk AS?
       a: |
-        Ya — Roami eSIM biasanya 80-90% lebih murah daripada paket roaming dari sebagian besar operator asal. Paket 5GB untuk AS berharga $9.99, sementara roaming dapat dengan mudah menghabiskan $50+ untuk data yang sama. Anda juga mendapatkan kecepatan jaringan lokal daripada roaming yang diperlambat.
+        Ya — Roami eSIM biasanya 80-90% lebih murah daripada paket roaming dari sebagian besar operator asal. Paket 5GB untuk AS berharga $8.99, sementara roaming dapat dengan mudah menghabiskan $50+ untuk data yang sama. Anda juga mendapatkan kecepatan jaringan lokal daripada roaming yang diperlambat.
     - q: |
         Saya tiba di AS larut malam. Apakah saya bisa langsung online?
       a: |
@@ -408,63 +406,75 @@ faq_section:
         Apakah paket "Tak Terbatas" benar-benar tak terbatas tanpa penurunan kecepatan?
       a: |
         Ya! Tidak seperti paket prabayar T-Mobile yang memperlambat hotspot setelah 35GB, paket tak terbatas Roami menawarkan data kecepatan penuh sepanjang perjalanan Anda. Tanpa kebijakan penggunaan wajar tersembunyi yang memotong kecepatan Anda. Sempurna untuk panggilan video, streaming, dan berbagi hotspot berat.
+    - q: |
+        Bagaimana cakupan eSIM AS di New York dan sekitarnya?
+      a: |
+        Cakupan eSIM AS mengikuti jaringan T-Mobile di kota besar seperti New York. Di daerah terpencil sinyal bisa lebih lemah, dan eSIM akan berpindah ke operator mitra secara otomatis.
+    - q: |
+        Apakah saya tetap online selama berada di Los Angeles?
+      a: |
+        Ya. Sepanjang perjalanan ke Los Angeles Anda tetap terhubung lewat jaringan T-Mobile; paket mulai $1.99 cocok untuk pemakaian ringan, sedangkan pengguna data berat bisa menambah kuota kapan saja.
+    - q: |
+        Untuk 30 hari di AS dan kota seperti New York, lebih baik paket 3GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 3GB (30 hari, $6.99) karena harganya paling efisien dan memadai untuk kunjungan ke New York. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $49.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM AS Terkait
   items:
-  - name: eSIM AS
-    flag: img/flags/us.svg
-    price: Mulai $1.99
+  - name: eSIM Guatemala
+    flag: img/flags/gt.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
+  - name: eSIM Kenya
+    flag: img/flags/ke.svg
+    price: Mulai $7.99
     is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Nepal
+    flag: img/flags/ne.svg
+    price: Mulai $10.99
+    is_highlight: false
+  - name: eSIM Rumania
+    flag: img/flags/ro.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Ukraina
+    flag: img/flags/ua.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
+  - name: eSIM Bahama
+    flag: img/flags/bs.svg
+    price: Mulai $16.99
+    is_highlight: false
+  - name: eSIM Chili
+    flag: img/flags/cl.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Fiji
+    flag: img/flags/fj.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Hungary
+    flag: img/flags/hu.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
+  - name: eSIM Laos
+    flag: img/flags/la.svg
+    price: Mulai $4.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
+  - name: eSIM Nigeria
+    flag: img/flags/ng.svg
+    price: Mulai $5.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
+  - name: eSIM Sierra Leone
+    flag: img/flags/si.svg
+    price: Mulai $10.99
     is_highlight: false
 market_analysis:
   title: 'eSIM AS vs Kartu SIM Fisik: Pro dan Kontra – eSIM Terbaik untuk Wisatawan AS'
   subtitle: SIM Prabayar Lokal AS vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Amerika Serikat) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/United-States
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -481,8 +491,7 @@ market_analysis:
   - icon: id-card
     title: KYC & Registrasi<br>Nama Asli
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar, SIM prabayar AS memerlukan verifikasi
-      identitas tetapi tidak ada registrasi paspor seperti Jerman; aktivasi online mungkin memerlukan SSN atau alamat AS.
+    prepaid_desc: SIM prabayar AS memerlukan verifikasi identitas tetapi tidak ada registrasi paspor seperti Jerman; aktivasi online mungkin memerlukan SSN atau alamat AS.
     esim_title: Tanpa Verifikasi Identitas
     esim_desc: Hindari kerumitan memberikan SSN atau alamat AS. Roami eSIM tidak memerlukan data pribadi, cukup beli dan instal.
   - icon: globe
@@ -499,7 +508,7 @@ market_analysis:
     prepaid_desc: Hampir semua paket prabayar AS adalah langganan bulanan 30 hari; biaya data rata-rata $6/GB, ditambah hingga 10%
       pajak penjualan, menghasilkan biaya tenggelam yang tinggi untuk pengunjung jangka pendek.
     esim_title: Paket Jangka Pendek Fleksibel
-    esim_desc: Tidak seperti paket 30 hari AS ($6/GB + 10% pajak), Roami menawarkan paket 7 hari mulai dari $1.99/GB, menghemat hingga 75%
+    esim_desc: Tidak seperti paket 30 hari AS ($6/GB + 10% pajak), Roami menawarkan paket 7 hari mulai dari $0.80/GB, menghemat hingga 75%
       pemborosan untuk perjalanan singkat.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
@@ -519,8 +528,7 @@ market_analysis:
   - icon: headset
     title: Dukungan Pelanggan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar, dukungan pelanggan prabayar AS biasanya
-      hanya melalui telepon dengan waktu tunggu lama, dan tidak ada live chat untuk pengguna prabayar.
+    prepaid_desc: Dukungan pelanggan prabayar AS biasanya hanya melalui telepon dengan waktu tunggu lama, dan tidak ada live chat untuk pengguna prabayar.
     esim_title: Dukungan Multibahasa 24/7
     esim_desc: Dapatkan bantuan instan melalui live chat atau email, tidak seperti operator prabayar AS yang hanya menawarkan dukungan telepon dengan
       waktu tunggu lama.

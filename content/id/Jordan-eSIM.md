@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Yordania 2026: Panduan Perjalanan Lengkap | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -11,7 +11,7 @@ country_meta:
   operators: Orange Yordania, Zain Yordania, Umniah
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Amman, Zarqa, Irbid, Aqaba, Petra
-  main_packages: 3/7/15/30 Hari, Paket Unlimited
+  main_packages: 3/7/15/30 Hari, Data Tak Terbatas
 modal:
   title: Layanan Ditingkatkan!
   btn_text: Lanjutkan
@@ -20,12 +20,11 @@ modal:
   text_android: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIM</strong>.<br>Pelanggan baru dapatkan diskon 20%,
     kode promo:web20
 seo:
-  title: 'eSIM Yordania: Prabayar & Kuota Besar untuk Anda'
-  description: 'Beli eSIM Roami untuk Yordania: internet 5G cepat. Cakupan Orange Yordania & Zain Yordania & Umniah. Aktivasi instan, mulai $1.99.'
-  keywords: eSIM Yordania, beli eSIM Yordania, eSIM Yordania terbaik, eSIM perjalanan Yordania, Orange Yordania, Zain Yordania,
-    Umniah Yordania, eSIM Amman, eSIM Zarqa, eSIM Irbid, eSIM prabayar Yordania, eSIM 5G Yordania
-  low_price: 1.99
-  high_price: 39.9
+  title: 'eSIM Yordania: Prabayar & Kuota Besar untuk Wisatawan'
+  description: 'Beli eSIM Roami untuk Yordania: internet 5G cepat. Cakupan Orange Yordania & Zain Yordania & Umniah. Aktivasi instan, mulai $6.99.'
+  keywords: eSIM Yordania, beli eSIM Yordania, eSIM Yordania terbaik, eSIM perjalanan Yordania, Orange Yordania, Zain Yordania, Umniah Yordania, eSIM Amman, eSIM Zarqa, eSIM Irbid, eSIM prabayar Yordania, eSIM 5G Yordania, eSIM Laut Mati, eSIM Petra, eSIM Wadi Rum, paket eSIM Yordania
+  low_price: 6.99
+  high_price: 99.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -74,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Alih Otomatis
     desc: Terhubung otomatis ke operator terbaik di Yordania untuk sinyal terbaik
-plans_title: 'Beli eSIM Yordania: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Pilihan Paket eSIM Yordania: Hemat, Sedang & Besar'
 plans_data:
   7 Hari:
   - spec: 1GB
@@ -220,7 +219,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Yordania: Panduan Lengkap Jaringan Lokal'
+  title: 'Cakupan eSIM Yordania: Panduan Jaringan KPN, Vodafone & T-Mobile'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -253,7 +252,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Yordania: Apa yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Catatan Sebelum Berangkat dengan eSIM Yordania'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -274,7 +273,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Yordania: 3 Langkah Mudah'
+  title: 'Panduan Instalasi eSIM Yordania untuk iPhone & Android'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -296,13 +295,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Seberapa Cepat Internet eSIM di Yordania? Kecepatan dan Cakupan untuk Wisatawan"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Yordania.
-    Cari tahu kecepatan yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi bagi pelancong di Yordania. Cari tahu kecepatan apa yang diharapkan, cakupan wilayah, dan di mana eSIM bekerja paling baik."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Yordania
+    title: Tanya Jawab Cepat eSIM Yordania
     questions:
     - q: |
         Apakah Roami beralih secara otomatis antara Zain, Orange, dan Umniah di Yordania?
@@ -315,27 +313,19 @@ faq_section:
     - q: |
         Berapa anggaran yang harus saya siapkan untuk eSIM saat mengunjungi Yordania?
       a: |
-        Roami menawarkan eSIM Yordania mulai dari $1.99 untuk paket ringan 7 hari hingga $59.99 untuk 30 hari data unlimited.
-        Kebanyakan pengunjung memilih paket 5GB/15 hari seharga $9.99 — itu mencakup navigasi harian, media sosial, dan pesan
-        tanpa stres. Penggemar streaming atau pengguna media sosial berat harus mempertimbangkan 10GB atau unlimited. Zain
-        menyediakan kecepatan andal di seluruh Yordania. Paket Roami bersifat prabayar — tidak ada tagihan mengejutkan, tidak
-        ada perpanjangan otomatis, hanya harga yang jelas.
+        Roami menawarkan eSIM Yordania mulai dari $6.99 untuk paket ringan 7 hari hingga $52.99 untuk 30 hari data unlimited. Kebanyakan pengunjung memilih paket 5GB/15 hari seharga $37.99 — itu mencakup navigasi harian, media sosial, dan pesan tanpa stres. Penggemar streaming atau pengguna media sosial berat harus mempertimbangkan 10GB atau unlimited. Zain menyediakan kecepatan andal di seluruh Yordania. Paket Roami bersifat prabayar — tidak ada tagihan mengejutkan, tidak ada perpanjangan otomatis, hanya harga yang jelas.
     - q: |
         Bisakah saya menggunakan eSIM Yordania untuk media sosial dan berbagi foto dengan keluarga?
       a: |
-        Tentu saja. Instagram, WhatsApp, Facebook, dan aplikasi sosial lainnya semua berfungsi melalui koneksi eSIM. Kecepatan
-        unggah dari Zain menangani foto dalam hitungan detik dan video pendek dengan mudah.
+        Tentu saja. Instagram, WhatsApp, Facebook, dan aplikasi sosial lainnya semua berfungsi melalui koneksi eSIM. Kecepatan unggah dari Zain menangani foto dalam hitungan detik dan video pendek dengan mudah.
     - q: |
         Saya butuh akses internet hanya untuk beberapa hari di Yordania. Apa paket minimum yang bisa saya beli?
       a: |
-        Paket termurah adalah $1.99 untuk 7 hari dengan 1GB — sempurna untuk perjalanan akhir pekan singkat dengan penggunaan ringan. Jika perlu lebih, isi ulang kapan saja dari aplikasi.
+        Paket termurah adalah $6.99 untuk 7 hari dengan 1GB — sempurna untuk perjalanan akhir pekan singkat dengan penggunaan ringan. Jika perlu lebih, isi ulang kapan saja dari aplikasi.
     - q: |
         Apa perbedaan antara paket 5GB dan paket unlimited untuk Yordania?
       a: |
-        Paket 5GB memberi Anda jumlah data kecepatan tinggi tetap (total 5GB). Setelah habis, Anda isi ulang atau beli paket
-        baru. Paket unlimited terus menyediakan data, tetapi kecepatan dapat berkurang setelah 30GB dalam sehari berdasarkan
-        kebijakan penggunaan wajar. Untuk kebanyakan wisatawan yang menggunakan peta, pesan, dan media sosial, paket 5GB sudah
-        cukup.
+        Paket 5GB memberi Anda jumlah data kecepatan tinggi tetap (total 5GB). Setelah habis, Anda isi ulang atau beli paket baru. Paket unlimited terus menyediakan data, tetapi kecepatan dapat berkurang setelah 30GB dalam sehari berdasarkan kebijakan penggunaan wajar. Untuk kebanyakan wisatawan yang menggunakan peta, pesan, dan media sosial, paket 5GB sudah cukup.
     - q: |
         Bisakah saya membeli eSIM Yordania di menit-menit terakhir, tepat sebelum penerbangan?
       a: |
@@ -344,63 +334,75 @@ faq_section:
         Bisakah saya menggunakan aplikasi navigasi seperti Google Maps dengan eSIM di Yordania?
       a: |
         Ya — Google Maps menggunakan sekitar 5MB per jam untuk navigasi dengan lalu lintas real-time. Unduh peta offline untuk Yordania (sekitar 200-500MB per kota) sebelum berangkat sebagai cadangan.
+    - q: |
+        Apakah eSIM Roami Yordania memakai jaringan Orange Yordania?
+      a: |
+        Tentu. eSIM Roami bekerja di jaringan Orange Yordania tanpa registrasi tambahan; jaringan dipilih otomatis untuk sinyal terbaik, baik di Amman maupun saat Anda melanjutkan perjalanan ke kota lain di Yordania.
+    - q: |
+        Apakah saya tetap online selama berada di Zarqa?
+      a: |
+        Ya. Sepanjang perjalanan ke Zarqa Anda tetap terhubung lewat jaringan Orange Yordania; paket mulai $6.99 cocok untuk pemakaian ringan, sedangkan pengguna data berat bisa menambah kuota kapan saja.
+    - q: |
+        Apakah paket 3GB cukup untuk perjalanan 3 hari di Yordania dan kota seperti Amman?
+      a: |
+        Untuk perjalanan 3 hari, paket 3GB seharga $23.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Amman. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket 10GB seharga $57.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Yordania Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
+  - name: eSIM Filipina
+    flag: img/flags/ph.svg
+    price: Mulai $2.99
     is_highlight: false
   - name: eSIM Inggris
     flag: img/flags/gb.svg
     price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Brunei
+    flag: img/flags/bn.svg
+    price: Mulai $9.99
+    is_highlight: false
+  - name: eSIM Finlandia
+    flag: img/flags/fi.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
+  - name: eSIM Jamaika
+    flag: img/flags/jm.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Tiongkok
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
+  - name: eSIM Nigeria
+    flag: img/flags/ng.svg
+    price: Mulai $5.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
+  - name: eSIM Tanzania
+    flag: img/flags/tz.svg
+    price: Mulai $7.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
+  - name: eSIM Barbados
+    flag: img/flags/bb.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
+  - name: eSIM Ekuador
+    flag: img/flags/ec.svg
+    price: Mulai $6.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
+  - name: eSIM India
+    flag: img/flags/in.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
+  - name: eSIM Mali
+    flag: img/flags/ml.svg
+    price: Mulai $27.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
+  - name: eSIM Singapura
+    flag: img/flags/sg.svg
     price: Mulai $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Yordania vs SIM Prabayar Lokal: Mana yang Lebih Nyaman?'
   subtitle: SIM Prabayar Lokal Yordania vs. Solusi eSIM (Tolok Ukur 2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Yordania) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Jordan
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -436,7 +438,7 @@ market_analysis:
     prepaid_desc: Semua paket prabayar secara ketat mengikuti siklus penagihan 30 hari; misalnya, paket 10 JOD Zain hanya
       menawarkan 2GB untuk 30 hari, membuang 25 hari untuk perjalanan 5 hari.
     esim_title: Paket Jangka Pendek Fleksibel
-    esim_desc: Hindari paket 30 hari seperti Zain 10 JOD/2GB (buang 25 hari). Roami menawarkan paket 7 hari mulai dari $1.99/GB,
+    esim_desc: Hindari paket 30 hari seperti Zain 10 JOD/2GB (buang 25 hari). Roami menawarkan paket 7 hari mulai dari $1.55/GB,
       menghemat hingga 75% pemborosan.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan

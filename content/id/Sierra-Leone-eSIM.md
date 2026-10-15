@@ -1,7 +1,7 @@
 ---
 title: 'Sierra Leone eSIM 2026: Panduan Perjalanan Lengkap | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,18 +10,18 @@ country_meta:
   operators: Africell, Sierratel, Orange SL
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Freetown, Bo, Kenema, Makeni, Koidu
-  main_packages: 3/7/15/30 Hari, Data Tak Terbatas
+  main_packages: 7/30 Hari
 modal:
   title: Layanan Ditingkatkan!
   btn_text: Lanjutkan
   text_default: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIMGo</strong>.<br>Pelanggan baru menikmati diskon 20%, kode promo:web20
   text_android: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIM</strong>.<br>Pelanggan baru menikmati diskon 20%, kode promo:web20
 seo:
-  title: 'eSIM Sierra Leone: Prabayar & Kuota Besar untuk Anda'
-  description: '5G cepat & data melimpah untuk Sierra Leone dari Roami. Cakupan Africell & Sierratel & Orange SL. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Sierra Leone, beli eSIM Sierra Leone, eSIM Sierra Leone terbaik, eSIM perjalanan Sierra Leone, Africell Sierra Leone, Sierratel Sierra Leone, Orange SL Sierra Leone, eSIM Freetown, eSIM Bo, eSIM Kenema, eSIM prabayar Sierra Leone, eSIM 5G Sierra Leone
-  low_price: 1.99
-  high_price: 39.9
+  title: 'eSIM Sierra Leone: Prabayar & Kuota Besar untuk Wisatawan'
+  description: '5G cepat & data melimpah untuk Sierra Leone dari Roami. Cakupan Africell & Sierratel & Orange SL. Aktivasi QR instan, mulai $10.99.'
+  keywords: eSIM Sierra Leone, beli eSIM Sierra Leone, eSIM Sierra Leone terbaik, eSIM perjalanan Sierra Leone, Africell Sierra Leone, Sierratel Sierra Leone, Orange SL Sierra Leone, eSIM Freetown, eSIM Bo, eSIM Kenema, eSIM prabayar Sierra Leone, eSIM 5G Sierra Leone, eSIM Tacugama, eSIM Bunce Island, eSIM Semenanjung, paket eSIM Sierra Leone
+  low_price: 10.99
+  high_price: 33.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Alih Otomatis
     desc: Terhubung otomatis ke operator terbaik Sierra Leone untuk sinyal terbaik
-plans_title: 'Beli eSIM Sierra Leone: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Sierra Leone: Pilih Data Sesuai Lama Perjalanan'
 plans_data:
   30 Hari:
   - spec: 5GB
@@ -107,7 +107,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Sierra Leone: Panduan Operator & Peta Cakupan'
+  title: 'Cakupan eSIM Sierra Leone: Panduan 5G Sierra Leonetel, Ooredoo & Vodafone — Muscat hingga Salalah'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -138,7 +138,7 @@ network_coverage:
       coverage: Cakupan kota yang baik
       network: Jaringan 4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Sierra Leone: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips Pengaturan eSIM Sierra Leone: Apa yang Perlu Diketahui Sebelum Berangkat'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -159,7 +159,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Sierra Leone: 3 Langkah Mudah'
+  title: 'Aktivasi eSIM Sierra Leone: Panduan 3 Langkah'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -179,12 +179,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Seberapa Cepat Internet eSIM di Sierra Leone? Kecepatan dan Cakupan untuk Pelancong"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Sierra Leone. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi bagi pelancong di Sierra Leone. Cari tahu kecepatan apa yang diharapkan, cakupan wilayah, dan di mana eSIM bekerja paling baik."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Sierra Leone
+    title: Pertanyaan Umum tentang eSIM Sierra Leone
     questions:
     - q: |
         Jaringan mana di Sierra Leone yang memiliki cakupan terbaik untuk pelancong — Sierratel, Orange, atau Africell?
@@ -218,55 +218,67 @@ faq_section:
         Berapa banyak data yang sebenarnya digunakan pelancong biasa per hari di Sierra Leone?
       a: |
         Rata-rata penggunaan harian untuk sebagian besar turis: 300-500MB untuk peta dan pesan, hingga 1GB jika Anda menggunakan media sosial secara intensif. Untuk perjalanan satu minggu, 5GB cukup nyaman. Untuk dua minggu, pilih 10GB. Roami memudahkan pengisian ulang jika Anda kehabisan.
+    - q: |
+        Jaringan apa yang dipakai eSIM Sierra Leone saat saya berada di Freetown?
+      a: |
+        eSIM Sierra Leone memakai jaringan Africell dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area Freetown koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Cukupkah paket termurah untuk pemakaian saya di Bo?
+      a: |
+        Paket mulai $10.99 sudah menutupi navigasi, pesan, dan media sosial selama Anda berada di Bo. Aktivasi dilakukan sekali sebelum berangkat, jadi tidak ada antrean di bandara.
+    - q: |
+        Untuk 30 hari di Sierra Leone dan kota seperti Freetown, lebih baik paket 5GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 5GB (30 hari, $32.99) karena harganya paling efisien dan memadai untuk kunjungan ke Freetown. Jika perjalanan Anda padat data, paket 3GB seharga $33.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Terkait
   items:
-  - name: eSIM amerika serikat
-    flag: img/flags/us.svg
-    price: Dari $1.99
+  - name: eSIM Guam
+    flag: img/flags/gu.svg
+    price: Mulai $9.99
     is_highlight: false
-  - name: Inggris
-    flag: img/flags/gb.svg
-    price: Dari $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Dari $1.99
+  - name: eSIM Hungary
+    flag: img/flags/hu.svg
+    price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Dari $1.99
-    is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Dari $1.99
-    is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Dari $1.99
+  - name: eSIM Irlandia
+    flag: img/flags/ie.svg
+    price: Mulai $1.99
     is_highlight: false
   - name: eSIM Jepang
     flag: img/flags/jp.svg
-    price: Dari $1.99
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Dari $1.99
+  - name: eSIM Kuwait
+    flag: img/flags/kw.svg
+    price: Mulai $4.99
     is_highlight: false
-  - name: eSIM Perancis
-    flag: img/flags/fr.svg
-    price: Dari $1.99
+  - name: eSIM Liechtenstein
+    flag: img/flags/li.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Dari $1.99
+  - name: eSIM Malaysia
+    flag: img/flags/my.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Dari $1.99
+  - name: eSIM Nepal
+    flag: img/flags/ne.svg
+    price: Mulai $10.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Dari $1.99
+  - name: eSIM Norwegia
+    flag: img/flags/no.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Peru
+    flag: img/flags/pe.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Qatar
+    flag: img/flags/qa.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Seychelles
+    flag: img/flags/sc.svg
+    price: Mulai $9.99
     is_highlight: false
 ---

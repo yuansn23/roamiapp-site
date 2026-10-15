@@ -73,7 +73,7 @@ Deux particularités à connaître avant le paiement. D'abord, l'enveloppe de pa
 
 ### Telekom et Vodafone : que valent les prépayés allemands ?
 
-Pour l'itinéraire à « base dominante », le marché prépayé allemand est le repère utile, car c'est le plus grand d'Europe et son échelle de prix est inhabituellement transparente. Notre propre [guide des prix prépayés en Allemagne](/blog/germany-esim-local-carriers-prepaid-guide) suit les paliers actuels : **Telekom MagentaMobil** tourne autour de €20 pour 5 GB et €30 pour 10 GB ; **Vodafone CallYa** et **O2 Prepaid** se situent vers €12–15 pour 10 GB ; et les marques de supermarché — **Aldi Talk**, **Lidl Connect**, **congstar** — atterrissent autour de €8–13 pour la même donnée.
+Pour l'itinéraire à « base dominante », le marché prépayé allemand est le repère utile, car c'est le plus grand d'Europe et son échelle de prix est inhabituellement transparente. Notre propre [guide des prix prépayés en Allemagne](/blog/germany-esim-local-carriers-prepaid-guide/) suit les paliers actuels : **Telekom MagentaMobil** tourne autour de €20 pour 5 GB et €30 pour 10 GB ; **Vodafone CallYa** et **O2 Prepaid** se situent vers €12–15 pour 10 GB ; et les marques de supermarché — **Aldi Talk**, **Lidl Connect**, **congstar** — atterrissent autour de €8–13 pour la même donnée.
 
 | Palier | Data | Prix approx. | Vérification d'identité |
 |:---|:---|:---|:---|

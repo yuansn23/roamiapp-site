@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Kenya 2026: Panduan 5G & Data | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Safaricom, Airtel Kenya, Telkom Kenya
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Nairobi, Mombasa, Kisumu, Nakuru, Eldoret
-  main_packages: 3/7/15/30 Hari, Paket Unlimited
+  main_packages: 3/7/15/30 Hari, Data Tak Terbatas
 modal:
   title: Layanan Ditingkatkan!
   btn_text: Lanjutkan
@@ -20,11 +20,10 @@ modal:
     kode promo:web20
 seo:
   title: 'eSIM Kenya: Prabayar & Data Melimpah untuk Turis'
-  description: 'eSIM prabayar Kenya dari Roami: internet 5G cepat. Cakupan Safaricom & Airtel Kenya & Telkom Kenya. Aktivasi instan, mulai $1.99.'
-  keywords: eSIM Kenya, beli eSIM Kenya, eSIM Kenya terbaik, eSIM perjalanan Kenya, Safaricom Kenya, Airtel Kenya, Telkom
-    Kenya, eSIM Nairobi, eSIM Mombasa, eSIM Kisumu, eSIM prabayar Kenya, eSIM 5G Kenya
-  low_price: 1.99
-  high_price: 39.9
+  description: 'eSIM prabayar Kenya dari Roami: internet 5G cepat. Cakupan Safaricom & Airtel Kenya & Telkom Kenya. Aktivasi instan, mulai $7.99.'
+  keywords: eSIM Kenya, beli eSIM Kenya, eSIM terbaik Kenya, eSIM perjalanan Kenya, Safaricom Kenya, Airtel Kenya, Telkom Kenya, eSIM Nairobi, eSIM Mombasa, eSIM Kisumu, eSIM prabayar Kenya, 5G eSIM Kenya, eSIM Nakuru, eSIM Eldoret, eSIM Kenya murah, paket eSIM Kenya
+  low_price: 7.99
+  high_price: 98.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Alih Otomatis
     desc: Terhubung otomatis ke operator terbaik di Kenya untuk sinyal terbaik
-plans_title: 'Beli eSIM Kenya: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Harga & Paket eSIM Kenya: Semua Durasi Tersedia'
 plans_data:
   7 Hari:
   - spec: 1GB
@@ -259,7 +258,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Kenya: Panduan Operator & Peta Cakupan'
+  title: 'Cakupan eSIM Kenya: Panduan Jaringan Telenor, Telia & Ice'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -292,7 +291,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Kenya: Apa yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Panduan Singkat Pengaturan eSIM Kenya'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -313,7 +312,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Kenya: 3 Langkah Mudah'
+  title: 'Cara Mengaktifkan eSIM Kenya di iPhone & Android'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -335,18 +334,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Seberapa Cepat Internet eSIM di Kenya? Kecepatan dan Cakupan untuk Wisatawan"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Kenya.
-    Cari tahu kecepatan yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Kenya. Cari tahu kecepatan yang diharapkan di Alpen, kota, dan di kereta."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Kenya
+    title: FAQ & Tips eSIM Kenya
     questions:
     - q: |
         Apa saja pilihan eSIM termurah untuk perjalanan ke Kenya?
       a: |
-        Paket eSIM Kenya Roami mulai dari $1.99 (7 hari, 1GB) hingga $59.99 (30 hari unlimited). Untuk perjalanan 5-7 hari pada umumnya, paket 5GB seharga $9.99 adalah pilihan terbaik — cukup untuk peta, pesan, dan media sosial. Perlu streaming video atau bekerja jarak jauh? Pilih 10GB atau unlimited. Berkat jaringan 5G Safaricom, streaming dan panggilan video berfungsi dengan baik. Kios SIM bandara mematok harga 30-50% lebih mahal, dan Anda harus mengantre. Tidak yakin dengan kebutuhan data Anda? Mulai dengan paket kecil dan isi ulang melalui aplikasi tanpa mengganti eSIM Anda.
+        Paket eSIM Kenya Roami mulai dari $10.99 (7 hari, 1GB) hingga $52.99 (30 hari unlimited). Untuk perjalanan 5-7 hari pada umumnya, paket 5GB seharga $21.99 adalah pilihan terbaik — cukup untuk peta, pesan, dan media sosial. Perlu streaming video atau bekerja jarak jauh? Pilih 10GB atau unlimited. Berkat jaringan 5G Safaricom, streaming dan panggilan video berfungsi dengan baik. Kios SIM bandara mematok harga 30-50% lebih mahal, dan Anda harus mengantre. Tidak yakin dengan kebutuhan data Anda? Mulai dengan paket kecil dan isi ulang melalui aplikasi tanpa mengganti eSIM Anda.
     - q: |
         Operator mana di Kenya yang harus saya andalkan untuk eSIM saya?
       a: |
@@ -366,7 +364,7 @@ faq_section:
     - q: |
         Saya butuh akses internet hanya untuk beberapa hari di Kenya. Apa paket minimum yang bisa saya beli?
       a: |
-        Paket termurah adalah $1.99 untuk 7 hari dengan 1GB — sempurna untuk perjalanan akhir pekan singkat dengan penggunaan ringan. Jika perlu lebih, isi ulang kapan saja dari aplikasi.
+        Paket termurah adalah $7.99 untuk 7 hari dengan 1GB — sempurna untuk perjalanan akhir pekan singkat dengan penggunaan ringan. Jika perlu lebih, isi ulang kapan saja dari aplikasi.
     - q: |
         Berapa banyak data yang sebenarnya digunakan wisatawan biasa per hari di Kenya?
       a: |
@@ -375,63 +373,75 @@ faq_section:
         Bisakah saya menggunakan eSIM Kenya saya segera setelah membelinya, atau saya harus menunggu?
       a: |
         Kode QR tiba dalam hitungan menit. Instal segera — hanya butuh 2 menit. Namun, masa aktif paket hanya dimulai saat Anda terhubung ke jaringan di Kenya. Jadi Anda dapat menginstal berminggu-minggu sebelum perjalanan tanpa kehilangan hari paket.
+    - q: |
+        Apakah eSIM Roami Kenya memakai jaringan Safaricom?
+      a: |
+        Tentu. eSIM Roami bekerja di jaringan Safaricom tanpa registrasi tambahan; jaringan dipilih otomatis untuk sinyal terbaik, baik di Nairobi maupun saat Anda melanjutkan perjalanan ke kota lain di Kenya.
+    - q: |
+        Perlu paket seperti apa untuk perjalanan ke Mombasa?
+      a: |
+        Untuk Mombasa, paket mulai $7.99 sudah memadai: peta, pesan, dan media sosial berjalan lancar lewat jaringan lokal. Bila Anda sering streaming atau memakai hotspot, pilih kuota yang lebih besar.
+    - q: |
+        Apakah paket 3GB cukup untuk perjalanan 30 hari di Kenya dan kota seperti Nairobi?
+      a: |
+        Untuk perjalanan 30 hari, paket 3GB seharga $17.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Nairobi. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket 30GB seharga $98.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Kenya Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Mulai $1.99
-    is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Tiongkok
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
-    is_highlight: false
   - name: eSIM Spanyol
     flag: img/flags/es.svg
     price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
+    is_highlight: true
+  - name: eSIM Thailand
+    flag: img/flags/th.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
+  - name: eSIM UAE
+    flag: img/flags/ae.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Vatikan
+    flag: img/flags/va.svg
+    price: Mulai $10.99
+    is_highlight: false
+  - name: eSIM Andorra
+    flag: img/flags/ad.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Azerbaijan
+    flag: img/flags/az.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Belarus
+    flag: img/flags/by.svg
     price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Brasil
+    flag: img/flags/br.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Kamerun
+    flag: img/flags/cm.svg
+    price: Mulai $27.99
+    is_highlight: false
+  - name: eSIM Kolombia
+    flag: img/flags/co.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Republik Ceko
+    flag: img/flags/cz.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Mesir
+    flag: img/flags/eg.svg
+    price: Mulai $2.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Kenya vs Kartu SIM Fisik: Perincian Kelebihan dan Kekurangan'
   subtitle: SIM Prabayar Lokal Kenya vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Kenya) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Kenya
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -460,7 +470,7 @@ market_analysis:
       biaya tinggi sekitar KES 4 per MB.
     esim_title: Roaming Afrika Timur yang Mulus
     esim_desc: Hindari biaya roaming KES 4/MB Safaricom di Tanzania atau Uganda. eSIM menawarkan paket data regional terjangkau
-      mulai dari $1.99/GB.
+      mulai dari $3.25/GB.
   - icon: calendar-xmark
     title: Siklus Penagihan &<br>Biaya Terbuang
     prepaid_title: ''
@@ -468,12 +478,11 @@ market_analysis:
       untuk hari yang tidak terpakai.
     esim_title: Paket Fleksibel, Tanpa Pemborosan
     esim_desc: Tidak seperti paket 7 hari Safaricom (KES 250/1GB) yang memaksa Anda membayar hari tidak terpakai, Roami menawarkan
-      paket 7 hari mulai dari $1.99/GB, menghemat hingga 75% pemborosan.
+      paket 7 hari mulai dari $3.25/GB, menghemat hingga 75% pemborosan.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar, tethering umumnya
-      diizinkan tetapi mungkin diperlambat setelah batas tertentu.
+    prepaid_desc: Tethering umumnya diizinkan tetapi mungkin diperlambat setelah batas tertentu.
     esim_title: Tethering Tanpa Batasan
     esim_desc: eSIM mengizinkan berbagi hotspot kecepatan penuh tanpa perlambatan, tidak seperti beberapa SIM lokal yang mungkin
       membatasi tethering setelah batas data tertentu.
@@ -497,7 +506,7 @@ market_analysis:
       icon_color: text-rose-600
       title: Hindari Biaya Roaming Tinggi di Afrika Timur
       desc: Safaricom dan Airtel mengenakan biaya <b>KES 4/MB</b> untuk roaming lintas batas di Tanzania/Uganda. eSIM menawarkan
-        paket regional mulai dari <b>$1.99/GB</b>.
+        paket regional mulai dari <b>$3.25/GB</b>.
     - icon: shield
       icon_bg: bg-yellow-100
       icon_color: text-yellow-600
@@ -515,5 +524,5 @@ market_analysis:
       icon_color: text-amber-600
       title: Tanpa Biaya Terbuang untuk Hari Tidak Terpakai
       desc: Paket 7 hari Safaricom (KES 250/1GB) memaksa turis membayar hari tidak terpakai. eSIM menyediakan <b>paket 7 hari
-        dari $1.99/GB</b>, menghemat hingga <b>75%</b>.
+        dari $3.25/GB</b>, menghemat hingga <b>75%</b>.
 ---

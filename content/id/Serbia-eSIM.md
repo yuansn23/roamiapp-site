@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Serbia 2026: Panduan Cakupan & Kecepatan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Telenor Serbia, Telekom Srbija, A1 Srbija
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Beograd, Novi Sad, Niš, Kragujevac, Subotica
-  main_packages: 3/7/15/30 Hari, Paket Unlimited
+  main_packages: 3/7/15/30 Hari, Data Tak Terbatas
 modal:
   title: Layanan Ditingkatkan!
   btn_text: Lanjutkan
@@ -21,10 +21,9 @@ modal:
 seo:
   title: 'eSIM Serbia: 5G Cepat & Kuota Besar untuk Pelancong'
   description: 'Data 5G cepat untuk Serbia bersama eSIM Roami. Cakupan Telenor Serbia & Telekom Srbija & A1 Srbija. Aktivasi instan, mulai $1.99.'
-  keywords: eSIM Serbia, beli eSIM Serbia, eSIM Serbia terbaik, eSIM perjalanan Serbia, Telenor Serbia, Telekom Srbija, A1
-    Srbija, eSIM Beograd, eSIM Novi Sad, eSIM Niš, eSIM prabayar Serbia, eSIM 5G Serbia
+  keywords: eSIM Serbia, beli eSIM Serbia, eSIM Serbia terbaik, eSIM perjalanan Serbia, Telenor Serbia, Telekom Srbija Serbia, A1 Srbija Serbia, eSIM Beograd, eSIM Novi Sad, eSIM Niš, eSIM prabayar Serbia, eSIM 5G Serbia, eSIM Sungai Donau, eSIM Kopaonik, eSIM Kragujevac, paket eSIM Serbia
   low_price: 1.99
-  high_price: 39.9
+  high_price: 89.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Alih Otomatis
     desc: Terhubung otomatis ke operator terbaik di Serbia untuk sinyal terbaik
-plans_title: 'Beli eSIM Serbia: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket Data Serbia: Pilih Sesuai Durasi Perjalanan'
 plans_data:
   7 Hari:
   - spec: Unlimited
@@ -283,7 +282,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Serbia: Panduan Lengkap Jaringan Lokal'
+  title: 'Cakupan eSIM Serbia: Panduan 5G Spark, Vodafone & 2degrees — Pulau Utara & Selatan'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -316,7 +315,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Serbia: Apa yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips eSIM Serbia: Pastikan Siap Sebelum Mendarat'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -337,7 +336,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Serbia: 3 Langkah Mudah'
+  title: 'Aktivasi eSIM Serbia: Dari Pemindaian QR hingga Online'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -359,18 +358,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Koneksi Internet di Serbia -- Panduan Kualitas Jaringan dan Kecepatan eSIM"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Serbia.
-    Cari tahu kecepatan yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Dari Bangkok hingga Singapura, tetap terhubung di jaringan Singtel, AIS, Telkomsel. Panduan eSIM Serbia lengkap kami mencakup cakupan, paket, pengaturan, dan tips perjalanan. Temukan paket terbaik untuk perjalanan Anda."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Serbia
+    title: Tanya Jawab Umum eSIM Serbia
     questions:
     - q: |
         Bisakah saya mendapatkan eSIM untuk Serbia tanpa menghabiskan banyak uang?
       a: |
-        Tentu saja. Paket eSIM Serbia Roami mulai dari serendah $1.99. Opsi 5GB/15 hari ($9.99) adalah yang paling populer di kalangan wisatawan — ini dengan nyaman menangani peta, WhatsApp, Instagram, dan email. Jika Anda pengguna data berat, paket 10GB ($14.99) atau unlimited ($59.99) memberi Anda ketenangan pikiran. Melewatkan konter SIM bandara menghemat 30-50% dan menghindari antrean. Perlu penyesuaian? Anda dapat isi ulang kapan saja dari aplikasi Roami.
+        Tentu saja. Paket eSIM Serbia Roami mulai dari serendah $1.99. Opsi 5GB/15 hari ($8.99) adalah yang paling populer di kalangan wisatawan — ini dengan nyaman menangani peta, WhatsApp, Instagram, dan email. Jika Anda pengguna data berat, paket 10GB ($14.99) atau unlimited ($45.99) memberi Anda ketenangan pikiran. Melewatkan konter SIM bandara menghemat 30-50% dan menghindari antrean. Perlu penyesuaian? Anda dapat isi ulang kapan saja dari aplikasi Roami.
     - q: |
         Apakah saya perlu paspor atau KTP untuk menggunakan eSIM di Serbia? Bagaimana cara kerja verifikasinya?
       a: |
@@ -399,55 +397,67 @@ faq_section:
         Berapa banyak profil eSIM yang dapat saya simpan di ponsel saya untuk perjalanan ke Serbia?
       a: |
         Kebanyakan ponsel menyimpan 5-10 profil eSIM. Anda dapat menyimpan eSIM Serbia bersama SIM rumah dan profil negara lainnya. Cukup aktifkan yang Anda butuhkan dan nonaktifkan yang lain. Beralih di antara mereka memakan waktu sekitar 10 detik di pengaturan ponsel Anda.
+    - q: |
+        Jaringan apa yang dipakai eSIM Serbia saat saya berada di Beograd?
+      a: |
+        eSIM Serbia memakai jaringan Telenor Serbia dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area Beograd koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Perlu paket seperti apa untuk perjalanan ke Novi Sad?
+      a: |
+        Untuk Novi Sad, paket mulai $1.99 sudah memadai: peta, pesan, dan media sosial berjalan lancar lewat jaringan lokal. Bila Anda sering streaming atau memakai hotspot, pilih kuota yang lebih besar.
+    - q: |
+        Untuk 7 hari di Serbia dan kota seperti Beograd, lebih baik paket 100MB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 100MB (7 hari, $1.99) karena harganya paling efisien dan memadai untuk kunjungan ke Beograd. Jika perjalanan Anda padat data, paket Unlimited seharga $45.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
+  - name: eSIM Eswatini
+    flag: img/flags/sz.svg
+    price: Mulai $19.99
     is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
+  - name: eSIM Israel
+    flag: img/flags/il.svg
+    price: Mulai $2.99
     is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Belanda
+    flag: img/flags/nl.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Swiss
+    flag: img/flags/ch.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
+  - name: eSIM Bahama
+    flag: img/flags/bs.svg
+    price: Mulai $16.99
     is_highlight: false
-  - name: eSIM Tiongkok
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
+  - name: eSIM Denmark
+    flag: img/flags/dk.svg
     price: Mulai $1.99
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
+  - name: eSIM Malawi
+    flag: img/flags/mw.svg
+    price: Mulai $14.99
+    is_highlight: false
+  - name: eSIM Arab Saudi
+    flag: img/flags/sa.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Aljazair
+    flag: img/flags/dz.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Tiongkok
+    flag: img/flags/cn.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
+  - name: eSIM Yunani
+    flag: img/flags/gr.svg
     price: Mulai $1.99
     is_highlight: false
 ---

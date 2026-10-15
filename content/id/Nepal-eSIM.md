@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Nepal 2026: Panduan Koneksi & Kecepatan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Ncell, Nepal Telecom, Smart Cell
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Kathmandu, Pokhara, Bharatpur, Lalitpur, Biratnagar
-  main_packages: 3/7/15/30 Hari, Paket Unlimited
+  main_packages: 3/7/15/30 Hari, Data Tak Terbatas
 modal:
   title: Layanan Ditingkatkan!
   btn_text: Lanjutkan
@@ -20,11 +20,10 @@ modal:
     kode promo:web20
 seo:
   title: 'eSIM Nepal: 5G Cepat & Data Melimpah untuk Turis'
-  description: 'Beli eSIM prabayar Nepal dari Roami dengan 5G cepat. Cakupan Ncell & Nepal Telecom & Smart Cell. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Nepal, beli eSIM Nepal, eSIM Nepal terbaik, eSIM perjalanan Nepal, Ncell Nepal, Nepal Telecom Nepal, Smart
-    Cell Nepal, eSIM Kathmandu, eSIM Pokhara, eSIM Bharatpur, eSIM prabayar Nepal, eSIM 5G Nepal
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Beli eSIM prabayar Nepal dari Roami dengan 5G cepat. Cakupan Ncell & Nepal Telecom & Smart Cell. Aktivasi QR instan, mulai $10.99.'
+  keywords: eSIM Nepal, beli eSIM Nepal, eSIM terbaik Nepal, eSIM perjalanan Nepal, Ncell Nepal, Nepal Telecom, Smart Cell Nepal, eSIM Kathmandu, eSIM Pokhara, eSIM Bharatpur, eSIM prabayar Nepal, 5G eSIM Nepal, eSIM Everest, eSIM Lumbini, eSIM Chitwan, paket eSIM Nepal
+  low_price: 10.99
+  high_price: 124.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Alih Otomatis
     desc: Terhubung otomatis ke operator terbaik di Nepal untuk sinyal terbaik
-plans_title: 'Beli eSIM Nepal: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Nepal Terbaik: Bandingkan Kuota & Harga'
 plans_data:
   7 Hari:
   - spec: 3GB
@@ -219,7 +218,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Nepal: Panduan Operator Jaringan Seluler'
+  title: 'Cakupan eSIM Nepal: Panduan Lengkap ke Jaringan Lokal'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -252,7 +251,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Nepal: Apa yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Catatan Penting bagi Pengguna eSIM Nepal Baru'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -273,7 +272,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Nepal: 3 Langkah Mudah'
+  title: '3 Langkah Memasang eSIM Nepal di Ponsel Anda'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -295,13 +294,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Koneksi Internet di Nepal -- Panduan Kualitas Jaringan dan Kecepatan eSIM"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Nepal.
-    Cari tahu kecepatan yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Nepal. Cari tahu kecepatan yang diharapkan di Alpen, kota, dan di kereta."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Nepal
+    title: Semua Pertanyaan tentang eSIM Nepal
     questions:
     - q: |
         Untuk turis di Nepal, apakah Ncell atau NTC pilihan yang lebih baik?
@@ -330,60 +328,72 @@ faq_section:
     - q: |
         Saya butuh akses internet hanya untuk beberapa hari di Nepal. Apa paket minimum yang bisa saya beli?
       a: |
-        Paket termurah adalah $1.99 untuk 7 hari dengan 1GB — sempurna untuk perjalanan akhir pekan singkat dengan penggunaan ringan. Jika perlu lebih, isi ulang kapan saja dari aplikasi.
+        Paket termurah adalah $10.99 untuk 7 hari dengan 1GB — sempurna untuk perjalanan akhir pekan singkat dengan penggunaan ringan. Jika perlu lebih, isi ulang kapan saja dari aplikasi.
     - q: |
         Apa pilihan eSIM paling populer untuk wisatawan yang pergi ke Nepal?
       a: |
-        Kebanyakan wisatawan ke Nepal memilih paket 5GB/15 hari ($9.99). Ini cukup untuk navigasi harian, media sosial, dan pesan. Untuk masa tinggal lebih lama atau penggunaan lebih berat, paket 10GB ($14.99) atau unlimited ($59.99) adalah pilihan bagus. Semua paket aktif dalam hitungan menit dan mencakup dukungan 24/7.
+        Kebanyakan wisatawan ke Nepal memilih paket 5GB/15 hari ($37.99). Ini cukup untuk navigasi harian, media sosial, dan pesan. Untuk masa tinggal lebih lama atau penggunaan lebih berat, paket 10GB ($57.99) atau unlimited ($52.99) adalah pilihan bagus. Semua paket aktif dalam hitungan menit dan mencakup dukungan 24/7.
+    - q: |
+        Apakah eSIM Roami Nepal memakai jaringan Ncell?
+      a: |
+        Tentu. eSIM Roami bekerja di jaringan Ncell tanpa registrasi tambahan; jaringan dipilih otomatis untuk sinyal terbaik, baik di Kathmandu maupun saat Anda melanjutkan perjalanan ke kota lain di Nepal.
+    - q: |
+        Perlu paket seperti apa untuk perjalanan ke Pokhara?
+      a: |
+        Untuk Pokhara, paket mulai $10.99 sudah memadai: peta, pesan, dan media sosial berjalan lancar lewat jaringan lokal. Bila Anda sering streaming atau memakai hotspot, pilih kuota yang lebih besar.
+    - q: |
+        Apakah paket 3GB cukup untuk perjalanan 3 hari di Nepal dan kota seperti Kathmandu?
+      a: |
+        Untuk perjalanan 3 hari, paket 3GB seharga $21.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Kathmandu. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket 10GB seharga $57.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
+  - name: eSIM Chili
+    flag: img/flags/cl.svg
+    price: Mulai $4.99
     is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Republik Ceko
+    flag: img/flags/cz.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Estonia
+    flag: img/flags/ee.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
+  - name: eSIM Gabon
+    flag: img/flags/ga.svg
+    price: Mulai $14.99
+    is_highlight: false
+  - name: eSIM Guadeloupe
+    flag: img/flags/gp.svg
+    price: Mulai $8.99
+    is_highlight: false
+  - name: eSIM Islandia
+    flag: img/flags/is.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Tiongkok
-    flag: img/flags/cn.svg
+  - name: eSIM Pantai Gading
+    flag: img/flags/ci.svg
+    price: Mulai $9.99
+    is_highlight: false
+  - name: eSIM Kuwait
+    flag: img/flags/kw.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Luksemburg
+    flag: img/flags/lu.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
+  - name: eSIM Meksiko
+    flag: img/flags/mx.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
+  - name: eSIM Oman
+    flag: img/flags/om.svg
+    price: Mulai $5.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
+  - name: eSIM Portugal
+    flag: img/flags/pt.svg
     price: Mulai $1.99
     is_highlight: false
 ---

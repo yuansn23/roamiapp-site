@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Malaysia 2026: Panduan Operator Lokal | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 'eSIM Malaysia: Paket Terbaik & Kuota Besar untuk Anda'
   description: 'eSIM prabayar Malaysia dari Roami: internet 5G cepat. Cakupan Maxis & Celcom & Digi. Aktivasi instan, mulai $1.99. Tanpa kontrak.'
-  keywords: eSIM Malaysia, beli eSIM Malaysia, eSIM terbaik Malaysia, eSIM perjalanan Malaysia, Maxis Malaysia, Celcom Malaysia, Digi Malaysia, eSIM Kuala Lumpur, eSIM Penang, eSIM Johor Bahru, eSIM prabayar Malaysia, eSIM 5G Malaysia
+  keywords: eSIM Malaysia, beli eSIM Malaysia, eSIM Malaysia terbaik, eSIM perjalanan Malaysia, Maxis Malaysia, Celcom Malaysia, Digi Malaysia, eSIM Kuala Lumpur, eSIM Penang, eSIM Johor Bahru, eSIM prabayar Malaysia, eSIM 5G Malaysia, eSIM Langkawi, eSIM Cameron Highlands, eSIM Borneo, paket eSIM Malaysia
   low_price: 1.99
-  high_price: 39.9
+  high_price: 65.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Pindah Otomatis
     desc: Terhubung otomatis ke operator top Malaysia untuk sinyal terbaik
-plans_title: 'Beli eSIM Malaysia: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket Data eSIM Malaysia: Fleksibel untuk Setiap Perjalanan'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -286,7 +286,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Malaysia: Panduan Lengkap Jaringan Lokal'
+  title: 'Cakupan eSIM Malaysia: Panduan Jaringan AIS, TrueMove & dtac'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -317,7 +317,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Malaysia: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Hal yang Perlu Disiapkan untuk eSIM Malaysia Anda'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -336,7 +336,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Malaysia: 3 Langkah Mudah'
+  title: 'Aktivasi Cepat eSIM Malaysia: Panduan 3 Langkah'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -356,17 +356,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Terhubung di Malaysia -- Panduan Kualitas Jaringan dan Kecepatan eSIM"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Malaysia. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Malaysia. Cari tahu kecepatan apa yang diharapkan di Roma, Venesia, dan Florence — dan bagaimana menghindari jebakan Codice Fiscale."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Malaysia
+    title: FAQ eSIM Malaysia untuk Pelancong
     questions:
     - q: |
         Apa saja opsi eSIM termurah untuk perjalanan ke Malaysia?
       a: |
-        Paket eSIM Malaysia Roami mulai dari $1,99 (7 hari, 1GB) hingga $59,99 (30 hari tak terbatas). Untuk perjalanan 5-7 hari pada umumnya, paket 5GB seharga $9,99 adalah pilihan terbaik — cukup untuk peta, pesan, dan memeriksa media sosial. Perlu streaming video atau bekerja jarak jauh? Ambil 10GB atau tak terbatas. Berkat jaringan 5G Maxis, streaming dan panggilan video berfungsi dengan baik. Konter SIM bandara mengenakan biaya 30-50% lebih mahal, dan Anda harus mengantre. Tidak yakin tentang kebutuhan data? Mulai dari yang kecil dan isi ulang melalui aplikasi tanpa mengganti eSIM Anda.
+        Paket eSIM Malaysia Roami mulai dari $2.99 (7 hari, 1GB) hingga $65.99 (30 hari tak terbatas). Untuk perjalanan 5-7 hari pada umumnya, paket 5GB seharga $7.99 adalah pilihan terbaik — cukup untuk peta, pesan, dan memeriksa media sosial. Perlu streaming video atau bekerja jarak jauh? Ambil 10GB atau tak terbatas. Berkat jaringan 5G Maxis, streaming dan panggilan video berfungsi dengan baik. Konter SIM bandara mengenakan biaya 30-50% lebih mahal, dan Anda harus mengantre. Tidak yakin tentang kebutuhan data? Mulai dari yang kecil dan isi ulang melalui aplikasi tanpa mengganti eSIM Anda.
     - q: |
         Apakah saya memerlukan paspor atau KTP untuk menggunakan eSIM di Malaysia? Bagaimana cara verifikasinya?
       a: |
@@ -395,63 +395,75 @@ faq_section:
         Bisakah saya menggunakan eSIM Malaysia saya untuk media sosial dan berbagi foto dengan keluarga?
       a: |
         Tentu saja. Instagram, WhatsApp, Facebook, dan aplikasi sosial lainnya semua berfungsi melalui koneksi eSIM. Kecepatan unggah dari Maxis menangani foto dalam hitungan detik dan video pendek dengan mudah.
+    - q: |
+        Apakah eSIM Roami Malaysia memakai jaringan Maxis?
+      a: |
+        Tentu. eSIM Roami bekerja di jaringan Maxis tanpa registrasi tambahan; jaringan dipilih otomatis untuk sinyal terbaik, baik di Kuala Lumpur maupun saat Anda melanjutkan perjalanan ke kota lain di Malaysia.
+    - q: |
+        Apakah eSIM Malaysia berfungsi baik di Penang?
+      a: |
+        Di Penang eSIM Malaysia memakai jaringan 4G/5G Maxis, cukup untuk peta, perpesanan, dan mengunggah foto. Paket mulai $1.99 praktis untuk kunjungan singkat ke Penang.
+    - q: |
+        Apakah paket 3GB cukup untuk perjalanan 30 hari di Malaysia dan kota seperti Kuala Lumpur?
+      a: |
+        Untuk perjalanan 30 hari, paket 3GB seharga $5.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Kuala Lumpur. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket Tak Terbatas seharga $65.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Malaysia Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1,99
-    is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: Mulai $1,99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Mulai $1,99
+  - name: eSIM Lituania
+    flag: img/flags/lt.svg
+    price: Mulai $1.99
     is_highlight: true
+  - name: eSIM Pulau Réunion
+    flag: img/flags/re.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Vietnam
+    flag: img/flags/vn.svg
+    price: Mulai $1.99
+    is_highlight: false
   - name: eSIM Kanada
     flag: img/flags/ca.svg
-    price: Mulai $1,99
-    is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1,99
-    is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1,99
-    is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1,99
-    is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1,99
-    is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1,99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1,99
+    price: Mulai $3.99
     is_highlight: false
   - name: eSIM Jerman
     flag: img/flags/de.svg
-    price: Mulai $1,99
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1,99
+  - name: eSIM Kosovo
+    flag: img/flags/xk.svg
+    price: Mulai $13.99
+    is_highlight: false
+  - name: eSIM Paraguay
+    flag: img/flags/py.svg
+    price: Mulai $22.99
+    is_highlight: false
+  - name: eSIM Ukraina
+    flag: img/flags/ua.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Botswana
+    flag: img/flags/bw.svg
+    price: Mulai $14.99
+    is_highlight: false
+  - name: eSIM Kepulauan Faroe
+    flag: img/flags/fo.svg
+    price: Mulai $5.99
+    is_highlight: false
+  - name: eSIM Italia
+    flag: img/flags/it.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Selandia Baru
+    flag: img/flags/nz.svg
+    price: Mulai $3.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Malaysia vs Kartu SIM: Panduan Perbandingan Lengkap'
   subtitle: SIM Prabayar Lokal Malaysia vs. Solusi eSIM (Benchmark 2024/2025)
   citation:
-    text: 'Sumber Data: Wiki Kartu SIM Data Prabayar (Malaysia) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Malaysia
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -480,7 +492,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: SIM wisata Digi mulai dari 7 hari RM20; paket bulanan Celcom dan Maxis adalah siklus 30 hari; perjalanan 5 hari membuang 2 hari dari paket 7 hari.
     esim_title: Paket Harian Fleksibel
-    esim_desc: Berbeda dengan SIM wisata Digi 7 hari RM20 (membuang 2 hari untuk perjalanan 5 hari), Roami menawarkan paket 7 hari mulai dari $1,99/GB, menghemat hingga 75% pemborosan.
+    esim_desc: Berbeda dengan SIM wisata Digi 7 hari RM20 (membuang 2 hari untuk perjalanan 5 hari), Roami menawarkan paket 7 hari mulai dari $0.68/GB, menghemat hingga 75% pemborosan.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
@@ -506,7 +518,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Hilangkan Biaya Hangus dari Siklus Penagihan Tetap
-      desc: SIM wisata Digi mulai dari 7 hari RM20; paket bulanan Celcom/Maxis adalah siklus 30 hari. Perjalanan 5 hari membuang 2 hari dari paket 7 hari. Roami eSIM menawarkan paket harian fleksibel mulai dari $1,99/GB.
+      desc: SIM wisata Digi mulai dari 7 hari RM20; paket bulanan Celcom/Maxis adalah siklus 30 hari. Perjalanan 5 hari membuang 2 hari dari paket 7 hari. Roami eSIM menawarkan paket harian fleksibel mulai dari $0.68/GB.
     - icon: headset
       icon_bg: bg-teal-100
       icon_color: text-teal-600

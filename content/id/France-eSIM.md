@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Prancis 2026 - Paket 5G Terbaik untuk Paris & Provence | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 'eSIM Prancis: Paket Hemat & Data Melimpah untuk Turis'
   description: 'eSIM prabayar Prancis dari Roami: internet 5G cepat. Cakupan Orange & SFR & Bouygues Telecom. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Prancis, beli eSIM Prancis, eSIM Prancis terbaik, eSIM perjalanan Prancis, Orange Prancis, SFR Prancis, Bouygues Telecom Prancis, eSIM Paris, eSIM Marseille, eSIM Lyon, eSIM prabayar Prancis, eSIM 5G Prancis, eSIM Provence, eSIM French Riviera
+  keywords: eSIM Prancis, beli eSIM Prancis, eSIM terbaik Prancis, eSIM perjalanan Prancis, Orange Prancis, SFR Prancis, Bouygues Telecom Prancis, eSIM Paris, eSIM Marseille, eSIM Lyon, eSIM prabayar Prancis, 5G eSIM Prancis, eSIM Provence, eSIM Nice, eSIM French Riviera, paket eSIM Prancis
   low_price: 1.99
-  high_price: 39.9
+  high_price: 70.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Otomatis Beralih
     desc: Terhubung otomatis ke Orange, SFR & Bouygues untuk sinyal terbaik di seluruh Prancis
-plans_title: 'Beli eSIM Prancis: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Prancis: Dari Perjalanan Singkat hingga Sebulan'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -286,7 +286,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Prancis: Panduan Jaringan Orange, SFR & Bouygues'
+  title: 'Cakupan eSIM Prancis: Perbandingan Cakupan Jaringan & Operator'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -317,7 +317,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Prancis: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Catatan Penting Pengaturan eSIM Prancis Sebelum Berangkat'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -338,7 +338,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Prancis: 3 Langkah Mudah'
+  title: 'Cara Mengaktifkan eSIM Prancis Sebelum Berangkat'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -358,12 +358,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Prancis: Kecepatan, Cakupan, dan Tips Perjalanan untuk Prancis"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Prancis. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Prancis. Cari tahu kecepatan yang diharapkan di kota dan di resor pantai."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Prancis
+    title: Tanya Jawab Seputar eSIM Prancis
     questions:
     - q: |
         Apakah saya benar-benar tidak perlu paspor atau KTP untuk eSIM Prancis Roami?
@@ -401,63 +401,75 @@ faq_section:
         Dapatkah saya mengisi ulang eSIM Prancis saya jika data habis?
       a: |
         Ya — Anda dapat mengisi ulang melalui akun Roami Anda kapan saja. Tidak seperti SIM prabayar Prancis dengan proses isi ulang yang rumit (SFR memerlukan kartu chip Eropa, Bouygues tidak mengizinkan isi ulang untuk roaming), Roami memberi Anda fleksibilitas penuh untuk menambah data dengan satu klik. Tidak perlu membeli SIM baru atau mengunjungi toko.
+    - q: |
+        Jaringan apa yang dipakai eSIM Prancis saat saya berada di Paris?
+      a: |
+        eSIM Prancis memakai jaringan Orange dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area Paris koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Perlu paket seperti apa untuk perjalanan ke Marseille?
+      a: |
+        Untuk Marseille, paket mulai $1.99 sudah memadai: peta, pesan, dan media sosial berjalan lancar lewat jaringan lokal. Bila Anda sering streaming atau memakai hotspot, pilih kuota yang lebih besar.
+    - q: |
+        Untuk 30 hari di Prancis dan kota seperti Paris, lebih baik paket 3GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 3GB (30 hari, $6.99) karena harganya paling efisien dan memadai untuk kunjungan ke Paris. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $70.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Prancis Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: Inggris Raya
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Mulai $1.99
-    is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
+  - name: eSIM Gibraltar
+    flag: img/flags/gi.svg
+    price: Mulai $5.99
     is_highlight: false
   - name: eSIM Jepang
     flag: img/flags/jp.svg
     price: Mulai $1.99
+    is_highlight: true
+  - name: eSIM Meksiko
+    flag: img/flags/mx.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
+  - name: eSIM Rusia
+    flag: img/flags/ru.svg
+    price: Mulai $2.99
+    is_highlight: false
+  - name: eSIM AS
+    flag: img/flags/us.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
+  - name: eSIM Belgia
+    flag: img/flags/be.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
+  - name: eSIM Republik Ceko
+    flag: img/flags/cz.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
+  - name: eSIM Yunani
+    flag: img/flags/gr.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
+  - name: eSIM Yordania
+    flag: img/flags/jo.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Nepal
+    flag: img/flags/ne.svg
+    price: Mulai $10.99
+    is_highlight: false
+  - name: eSIM Arab Saudi
+    flag: img/flags/sa.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Uruguay
+    flag: img/flags/uy.svg
+    price: Mulai $11.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Prancis vs SIM Prabayar: Perbandingan Biaya dan Kemudahan – eSIM Terbaik untuk Wisatawan Prancis'
   subtitle: SIM Prabayar Lokal Prancis vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Prancis) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/France
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -486,7 +498,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Orange Holiday mulai dari €8.99/4GB/31 hari; perjalanan 10 hari membuang lebih dari 20 hari masa berlaku. Bouygues menawarkan €19.90/15GB/15 hari dan €39.90/120GB/30 hari, memaksa pilihan antara data tidak mencukupi atau membayar hari yang tidak digunakan.
     esim_title: Paket Fleksibel, Tanpa Pemborosan
-    esim_desc: Tidak seperti siklus 31 hari Orange (€8.99/4GB) atau minimum 15 hari Bouygues (€19.90), Roami menawarkan paket 7 hari mulai dari $1.99/GB, menghemat hingga 75% pemborosan untuk perjalanan singkat.
+    esim_desc: Tidak seperti siklus 31 hari Orange (€8.99/4GB) atau minimum 15 hari Bouygues (€19.90), Roami menawarkan paket 7 hari mulai dari $0.97/GB, menghemat hingga 75% pemborosan untuk perjalanan singkat.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''

@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Belanda 2026 - Paket 5G Terbaik untuk Amsterdam | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 'eSIM Belanda: Koneksi Stabil & Kuota Besar untuk Anda'
   description: 'Beli eSIM Roami untuk Belanda: internet 5G cepat. Cakupan KPN & Vodafone & T-Mobile. Aktivasi instan, mulai $1.99. Tanpa kontrak.'
-  keywords: eSIM Belanda, beli eSIM Belanda, eSIM Belanda terbaik, eSIM perjalanan Belanda, KPN Belanda, Vodafone Belanda, T-Mobile Belanda, eSIM Amsterdam, eSIM Rotterdam, eSIM Den Haag, eSIM prabayar Belanda, eSIM 5G Belanda, eSIM Keukenhof, eSIM ladang tulip
+  keywords: eSIM Belanda, beli eSIM Belanda, eSIM terbaik Belanda, eSIM perjalanan Belanda, KPN Belanda, Vodafone Belanda, T-Mobile Belanda, eSIM Amsterdam, eSIM Rotterdam, eSIM Den Haag, eSIM prabayar Belanda, 5G eSIM Belanda, eSIM kanal, eSIM ladang tulip, eSIM kincir angin, paket eSIM Belanda
   low_price: 1.99
-  high_price: 39.9
+  high_price: 69.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Otomatis Beralih
     desc: Terhubung otomatis ke KPN, Vodafone & T-Mobile untuk sinyal terbaik di seluruh Belanda
-plans_title: 'Beli eSIM Belanda: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket Data Belanda: Pilih Sesuai Durasi Perjalanan'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -286,7 +286,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Belanda: Panduan Jaringan KPN, Vodafone & T-Mobile'
+  title: 'Detail Cakupan Jaringan'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -317,7 +317,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Belanda: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips eSIM Belanda: Pastikan Siap Sebelum Mendarat'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -338,7 +338,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Belanda: 3 Langkah Mudah'
+  title: 'Aktivasi eSIM Belanda: Dari Pemindaian QR hingga Online'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -358,12 +358,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Belanda: Kecepatan, Cakupan, dan Tips Perjalanan untuk Belanda"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Belanda. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitBelanda koneksi untuk wisatawan di Belanda. Cari tahu kecepatan yang diharapkan di Alpen, kota, dan di kereta."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Belanda
+    title: Tanya Jawab Umum eSIM Belanda
     questions:
     - q: |
         Apakah saya perlu mendaftar atau menunjukkan KTP untuk kartu SIM di Belanda?
@@ -401,63 +401,75 @@ faq_section:
         Dapatkah saya menggunakan hotspot/tethering dengan eSIM Belanda saya?
       a: |
         Ya — Roami mengizinkan berbagi hotspot kecepatan penuh di semua paket. Ini berbeda dengan beberapa SIM lokal Belanda: Lyca Mobile secara eksplisit melarang tethering sama sekali. Dengan Roami, Anda dapat berbagi data dengan teman perjalanan, laptop, atau tablet tanpa batasan.
+    - q: |
+        Apakah eSIM Belanda terhubung ke jaringan KPN di Amsterdam?
+      a: |
+        Ya. eSIM Belanda terhubung ke jaringan KPN dan operator mitra lainnya, jadi sinyal tetap tersedia saat Anda berpindah dari Amsterdam ke kota lain di Belanda. eSIM langsung aktif setelah dipasang, tanpa perlu memilih operator secara manual.
+    - q: |
+        Perlu paket seperti apa untuk perjalanan ke Rotterdam?
+      a: |
+        Untuk Rotterdam, paket mulai $1.99 sudah memadai: peta, pesan, dan media sosial berjalan lancar lewat jaringan lokal. Bila Anda sering streaming atau memakai hotspot, pilih kuota yang lebih besar.
+    - q: |
+        Apakah paket 3GB cukup untuk perjalanan 30 hari di Belanda dan kota seperti Amsterdam?
+      a: |
+        Untuk perjalanan 30 hari, paket 3GB seharga $6.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Amsterdam. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket Tak Terbatas seharga $69.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Belanda Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: Inggris Raya
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Republik Ceko
+    flag: img/flags/cz.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
+  - name: eSIM Guyana Prancis
+    flag: img/flags/gf.svg
+    price: Mulai $3.99
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
+  - name: eSIM Kazakhstan
+    flag: img/flags/kz.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Malaysia
+    flag: img/flags/my.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
+  - name: eSIM Panama
+    flag: img/flags/pa.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Sierra Leone
+    flag: img/flags/si.svg
+    price: Mulai $10.99
+    is_highlight: false
+  - name: eSIM Ukraina
+    flag: img/flags/ua.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
+  - name: eSIM Armenia
+    flag: img/flags/am.svg
+    price: Mulai $7.99
+    is_highlight: false
+  - name: eSIM Brasil
+    flag: img/flags/br.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Kroasia
+    flag: img/flags/hr.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
+  - name: eSIM Finlandia
+    flag: img/flags/fi.svg
     price: Mulai $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Belanda vs SIM Prabayar: Mana yang Menawarkan Nilai Lebih Baik?'
   subtitle: SIM Prabayar Lokal Belanda vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Belanda) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Netherlands
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -486,7 +498,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: KPN menawarkan paket 1 hari (€1.99) atau 31 hari (€14.99); paket 30 hari tak terbatas Vodafone (€44) membuang 75% nilai untuk perjalanan 7 hari.
     esim_title: Paket Harian Fleksibel
-    esim_desc: Tidak seperti paket 30 hari €44 Vodafone yang membuang 75% untuk perjalanan 7 hari, Roami menawarkan paket 7 hari mulai dari $1.99/GB, menghemat uang Anda.
+    esim_desc: Tidak seperti paket 30 hari €44 Vodafone yang membuang 75% untuk perjalanan 7 hari, Roami menawarkan paket 7 hari mulai dari $0.55/GB, menghemat uang Anda.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''

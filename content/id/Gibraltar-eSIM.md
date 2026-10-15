@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Gibraltar 2026: Panduan Perjalanan Lengkap | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -21,12 +21,10 @@ modal:
     promo:web20
 seo:
   title: 'eSIM Gibraltar: 5G Cepat & Kuota Besar untuk Turis'
-  description: '5G cepat & data melimpah untuk Gibraltar dari Roami. Cakupan Gibtelecom & CTS Gibraltar & Gibtel. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Gibraltar, beli eSIM Gibraltar, eSIM Gibraltar terbaik, eSIM perjalanan Gibraltar, Gibtelecom Gibraltar, CTS Gibraltar
-    Gibraltar, Gibtel Gibraltar, eSIM Kota Gibraltar, eSIM Catalan Bay, eSIM Europa Point, eSIM prabayar Gibraltar, 5G Gibraltar
-    eSIM
-  low_price: 1.99
-  high_price: 39.9
+  description: '5G cepat & data melimpah untuk Gibraltar dari Roami. Cakupan Gibtelecom & CTS Gibraltar & Gibtel. Aktivasi QR instan, mulai $5.99.'
+  keywords: eSIM Gibraltar, beli eSIM Gibraltar, eSIM terbaik Gibraltar, eSIM perjalanan Gibraltar, Gibtelecom Gibraltar, CTS Gibraltar, Gibtel Gibraltar, eSIM Kota Gibraltar, eSIM Catalan Bay, eSIM Europa Point, eSIM prabayar Gibraltar, 5G eSIM Gibraltar, eSIM Batu Gibraltar, eSIM Sandy Bay, eSIM Rosia Bay, paket eSIM Gibraltar
+  low_price: 5.99
+  high_price: 86.99
 order_summary:
   title: Paket Terpilih
   label_data: Data Termasuk
@@ -75,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Pengalihan Otomatis
     desc: Terhubung otomatis ke operator Gibraltar terbaik untuk sinyal terbaik
-plans_title: 'Beli eSIM Gibraltar: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Pilihan Paket eSIM Gibraltar: Hemat, Sedang & Besar'
 plans_data:
   7 Hari:
   - spec: 5GB
@@ -193,7 +191,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Gibraltar: Panduan Lengkap Jaringan Lokal'
+  title: 'Cakupan eSIM Gibraltar: Panduan Lengkap ke Jaringan Lokal'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -226,7 +224,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Gibraltar: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Catatan Sebelum Berangkat dengan eSIM Gibraltar'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -247,7 +245,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Gibraltar: 3 Langkah Mudah'
+  title: 'Panduan Instalasi eSIM Gibraltar untuk iPhone & Android'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -269,21 +267,21 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Apakah eSIM Berfungsi di Mana Saja di Gibraltar? Panduan Cakupan Kota dan Pedesaan"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Gibraltar. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Gibraltar. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Gibraltar
+    title: Tanya Jawab Cepat eSIM Gibraltar
     questions:
     - q: |
         Apa opsi eSIM termurah untuk perjalanan ke Gibraltar?
       a: |
-        Paket eSIM Gibraltar Roami mulai dari $1.99 (7 hari, 1GB) hingga $59.99 (30 hari tak terbatas). Untuk perjalanan 5-7 hari pada umumnya, paket 5GB seharga $9.99 adalah pilihan tepat — cukup untuk peta, pesan, dan memeriksa media sosial. Perlu streaming video atau bekerja jarak jauh? Pilih 10GB atau tak terbatas. Berkat jaringan 5G Gibtelecom, streaming dan panggilan video berfungsi dengan baik. Kios SIM bandara mengenakan biaya 30-50% lebih mahal, dan Anda harus mengantre. Tidak yakin tentang kebutuhan data Anda? Mulai dari yang kecil dan isi ulang melalui aplikasi tanpa mengubah eSIM Anda.
+        Paket eSIM Gibraltar Roami mulai dari $5.99 (7 hari, 1GB) hingga $86.99 (30 hari tak terbatas). Untuk perjalanan 5-7 hari pada umumnya, paket 5GB seharga $11.99 adalah pilihan tepat — cukup untuk peta, pesan, dan memeriksa media sosial. Perlu streaming video atau bekerja jarak jauh? Pilih 10GB atau tak terbatas. Berkat jaringan 5G Gibtelecom, streaming dan panggilan video berfungsi dengan baik. Kios SIM bandara mengenakan biaya 30-50% lebih mahal, dan Anda harus mengantre. Tidak yakin tentang kebutuhan data Anda? Mulai dari yang kecil dan isi ulang melalui aplikasi tanpa mengubah eSIM Anda.
     - q: |
         Apakah paket eSIM Gibraltar tak terbatas akan melambat jika saya menggunakan terlalu banyak data?
       a: |
-        Ada kebijakan penggunaan wajar: kecepatan berkurang setelah 30GB dalam sehari. Pada kecepatan yang dikurangi, Anda masih dapat mengirim pesan, navigasi, dan menjelajah — hanya saja video tidak lancar. Secara realistis, sebagian besar pelancong tidak mendekati 30GB. Jika Anda khawatir, paket tetap 10GB ($14.99) atau 20GB ($24.99) menghilangkan ketidakpastian sepenuhnya.
+        Ada kebijakan penggunaan wajar: kecepatan berkurang setelah 30GB dalam sehari. Pada kecepatan yang dikurangi, Anda masih dapat mengirim pesan, navigasi, dan menjelajah — hanya saja video tidak lancar. Secara realistis, sebagian besar pelancong tidak mendekati 30GB. Jika Anda khawatir, paket tetap 10GB ($17.99) atau 20GB ($37.99) menghilangkan ketidakpastian sepenuhnya.
     - q: |
         Bagaimana perbandingan Roami dengan Holafly untuk eSIM di Gibraltar?
       a: |
@@ -308,55 +306,67 @@ faq_section:
         Apa yang terjadi jika eSIM Gibraltar saya berhenti bekerja di tengah perjalanan?
       a: |
         Pertama, coba restart ponsel dan aktifkan Data Roaming. Sebagian besar masalah selesai dalam 2 menit. Jika tidak, pilih operator secara manual di pengaturan jaringan. Dukungan 24/7 Roami dapat membantu jika masalah berlanjut.
+    - q: |
+        Apakah eSIM Gibraltar terhubung ke jaringan Gibtelecom di Kota Gibraltar?
+      a: |
+        Ya. eSIM Gibraltar terhubung ke jaringan Gibtelecom dan operator mitra lainnya, jadi sinyal tetap tersedia saat Anda berpindah dari Kota Gibraltar ke kota lain di Gibraltar. eSIM langsung aktif setelah dipasang, tanpa perlu memilih operator secara manual.
+    - q: |
+        Cukupkah paket termurah untuk pemakaian saya di Catalan Bay?
+      a: |
+        Paket mulai $5.99 sudah menutupi navigasi, pesan, dan media sosial selama Anda berada di Catalan Bay. Aktivasi dilakukan sekali sebelum berangkat, jadi tidak ada antrean di bandara.
+    - q: |
+        Apakah paket 1GB cukup untuk perjalanan 7 hari di Gibraltar dan kota seperti Kota Gibraltar?
+      a: |
+        Untuk perjalanan 7 hari, paket 1GB seharga $5.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Kota Gibraltar. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket Unlimited seharga $22.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: From $1.99
+  - name: eSIM Niger
+    flag: img/flags/ni.svg
+    price: Mulai $23.99
     is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: eSIM Pulau Réunion
+    flag: img/flags/re.svg
+    price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: From $1.99
+  - name: eSIM Tanzania
+    flag: img/flags/tz.svg
+    price: Mulai $7.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: From $1.99
+  - name: eSIM Afghanistan
+    flag: img/flags/af.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Tiongkok
-    flag: img/flags/cn.svg
-    price: From $1.99
+  - name: eSIM Belarus
+    flag: img/flags/by.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: From $1.99
+  - name: eSIM Chili
+    flag: img/flags/cl.svg
+    price: Mulai $4.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: From $1.99
+  - name: eSIM El Salvador
+    flag: img/flags/sv.svg
+    price: Mulai $23.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: From $1.99
+  - name: eSIM Yunani
+    flag: img/flags/gr.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: From $1.99
+  - name: eSIM Irlandia
+    flag: img/flags/ie.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: From $1.99
+  - name: eSIM Latvia
+    flag: img/flags/lv.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: eSIM Belanda
+    flag: img/flags/nl.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Puerto Rico
+    flag: img/flags/pu.svg
+    price: Mulai $6.99
     is_highlight: false
 ---

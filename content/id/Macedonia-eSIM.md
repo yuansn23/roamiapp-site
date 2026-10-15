@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Makedonia 2026: Panduan Kota & Jaringan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIM</strong>.<br>Pelanggan baru menikmati diskon 20%, kode promo:web20
 seo:
   title: 'eSIM Makedonia: 5G Cepat & Data Melimpah untuk Anda'
-  description: 'Beli eSIM prabayar Makedonia dari Roami dengan 5G cepat. Cakupan A1 Makedonia & Telekom Makedonia & Lycamobile. Tanpa kontrak.'
-  keywords: eSIM Makedonia, beli eSIM Makedonia, eSIM terbaik Makedonia, eSIM perjalanan Makedonia, A1 Makedonia Makedonia, Telekom Makedonia Makedonia, Lycamobile Makedonia, eSIM Skopje, eSIM Ohrid, eSIM Bitola, eSIM prabayar Makedonia, eSIM 5G Makedonia
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Beli eSIM prabayar Makedonia dari Roami dengan 5G cepat. Cakupan A1 Makedonia & Telekom Makedonia & Lycamobile. Tanpa kontrak. Mulai $4.99.'
+  keywords: eSIM Makedonia, beli eSIM Makedonia, eSIM terbaik Makedonia, eSIM perjalanan Makedonia, A1 Makedonia, Telekom Makedonia, Lycamobile Makedonia, eSIM Skopje, eSIM Ohrid, eSIM Bitola, eSIM prabayar Makedonia, 5G eSIM Makedonia, eSIM Danau Ohrid, eSIM Ngarai Matka, eSIM warisan budaya, paket eSIM Makedonia
+  low_price: 4.99
+  high_price: 94.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Pindah Otomatis
     desc: Terhubung otomatis ke operator top Makedonia untuk sinyal terbaik
-plans_title: 'Beli eSIM Makedonia: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Daftar Paket eSIM Makedonia: Kuota, Durasi & Harga'
 plans_data:
   7 Hari:
   - spec: 1GB
@@ -147,7 +147,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Makedonia: Cakupan Jaringan & Perbandingan Operator'
+  title: 'Cakupan eSIM Makedonia: Panduan Jaringan 5G Makedoniacom, Sunrise & Salt — Alpen hingga Kota'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -178,7 +178,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Makedonia: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Panduan Persiapan eSIM Makedonia Sebelum Keberangkatan'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -197,7 +197,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Makedonia: 3 Langkah Mudah'
+  title: '3 Langkah Mengaktifkan eSIM Makedonia'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -217,12 +217,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Apakah eSIM Berfungsi di Mana Saja di Makedonia? Panduan Cakupan Kota dan Pedesaan"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Makedonia. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Makedonia. Cari tahu kecepatan yang diharapkan di Athena, di pulau-pulau, dan di feri."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Makedonia
+    title: FAQ Lengkap eSIM Makedonia
     questions:
     - q: |
         Apakah saya memerlukan paspor atau KTP untuk menggunakan eSIM di Makedonia? Bagaimana cara verifikasinya?
@@ -235,7 +235,7 @@ faq_section:
     - q: |
         Apa saja yang termasuk saat saya membeli eSIM Makedonia dari Roami?
       a: |
-        Pengiriman kode QR dalam 5 menit, akses ke jaringan Makedonski Telekom, dukungan pelanggan 24/7, dan hotspot gratis hingga 5 perangkat. Paket mulai dari $1,99. Tanpa kontrak, tanpa biaya tersembunyi, tanpa perpanjangan otomatis.
+        Pengiriman kode QR dalam 5 menit, akses ke jaringan Makedonski Telekom, dukungan pelanggan 24/7, dan hotspot gratis hingga 5 perangkat. Paket mulai dari $4.99. Tanpa kontrak, tanpa biaya tersembunyi, tanpa perpanjangan otomatis.
     - q: |
         Apa cara termudah untuk tetap terhubung di Makedonia tanpa berurusan dengan konter SIM bandara?
       a: |
@@ -256,55 +256,67 @@ faq_section:
         Apa yang terjadi jika saya menggunakan semua data saya di Makedonia sebelum paket saya habis masa berlakunya?
       a: |
         Isi ulang dari aplikasi Roami. Data baru aktif segera — tanpa kode QR baru, tanpa instalasi ulang. Kami sarankan mengisi ulang saat Anda memiliki sekitar 20% tersisa untuk menghindari gangguan.
+    - q: |
+        Bagaimana cakupan eSIM Makedonia di Skopje dan sekitarnya?
+      a: |
+        Cakupan eSIM Makedonia mengikuti jaringan A1 Makedonia di kota besar seperti Skopje. Di daerah terpencil sinyal bisa lebih lemah, dan eSIM akan berpindah ke operator mitra secara otomatis.
+    - q: |
+        Apakah saya tetap online selama berada di Ohrid?
+      a: |
+        Ya. Sepanjang perjalanan ke Ohrid Anda tetap terhubung lewat jaringan A1 Makedonia; paket mulai $4.99 cocok untuk pemakaian ringan, sedangkan pengguna data berat bisa menambah kuota kapan saja.
+    - q: |
+        Untuk 30 hari di Makedonia dan kota seperti Skopje, lebih baik paket 3GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 3GB (30 hari, $9.99) karena harganya paling efisien dan memadai untuk kunjungan ke Skopje. Jika perjalanan Anda padat data, paket 20GB seharga $54.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1,99
-    is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: Mulai $1,99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Mulai $1,99
+  - name: eSIM Hungary
+    flag: img/flags/hu.svg
+    price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Mulai $1,99
+  - name: eSIM Laos
+    flag: img/flags/la.svg
+    price: Mulai $4.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1,99
+  - name: eSIM Nigeria
+    flag: img/flags/ng.svg
+    price: Mulai $5.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1,99
+  - name: eSIM Sierra Leone
+    flag: img/flags/si.svg
+    price: Mulai $10.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1,99
+  - name: eSIM Uruguay
+    flag: img/flags/uy.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1,99
+  - name: eSIM Belarus
+    flag: img/flags/by.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1,99
+  - name: eSIM Kosta Rika
+    flag: img/flags/cr.svg
+    price: Mulai $9.99
+    is_highlight: false
+  - name: eSIM Gabon
+    flag: img/flags/ga.svg
+    price: Mulai $14.99
+    is_highlight: false
+  - name: eSIM Irak
+    flag: img/flags/iq.svg
+    price: Mulai $9.99
+    is_highlight: false
+  - name: eSIM Lituania
+    flag: img/flags/lt.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Panama
+    flag: img/flags/pa.svg
+    price: Mulai $11.99
     is_highlight: false
   - name: eSIM Spanyol
     flag: img/flags/es.svg
-    price: Mulai $1,99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1,99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1,99
+    price: Mulai $1.99
     is_highlight: false
 ---

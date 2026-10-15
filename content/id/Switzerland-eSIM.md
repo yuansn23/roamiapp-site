@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Swiss - Cakupan 5G Alpen & Roaming UE | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -21,9 +21,9 @@ modal:
 seo:
   title: 'eSIM Swiss: 5G Cepat & Kuota Melimpah untuk Anda'
   description: 'eSIM Swiss dari Roami: 5G cepat & data melimpah. Cakupan Swisscom & Sunrise & Salt. Aktivasi instan, mulai $1.99. Tanpa kontrak.'
-  keywords: eSIM Swiss, beli eSIM Swiss, eSIM Swiss terbaik, eSIM perjalanan Swiss, Swisscom Swiss, Sunrise Swiss, Salt Swiss, eSIM Zurich, eSIM Jenewa, eSIM Basel, eSIM prabayar Swiss, 5G eSIM Swiss, eSIM Alpen Swiss, eSIM Jungfraujoch, eSIM Swiss roaming UE
+  keywords: eSIM Swiss, beli eSIM Swiss, eSIM terbaik Swiss, eSIM perjalanan Swiss, Swisscom, Sunrise Swiss, Salt Swiss, eSIM Zurich, eSIM Jenewa, eSIM Basel, eSIM prabayar Swiss, 5G eSIM Swiss, eSIM Alpen Swiss, eSIM Jungfraujoch, eSIM Zermatt, paket eSIM Swiss
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -76,7 +76,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Cakupan Alpen
     desc: 5G/4G di Jungfraujoch, Zermatt, Interlaken & semua resor ski utama
-plans_title: 'Beli eSIM Swiss: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Beli Paket eSIM Swiss: Lengkap dengan Harga Terbaru'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -294,7 +294,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Swiss: Panduan Jaringan 5G Swisscom, Sunrise & Salt — Alpen hingga Kota'
+  title: 'Cakupan eSIM Swiss: Panduan Jaringan Movistar, Orange & Vodafone'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -325,7 +325,7 @@ network_coverage:
       coverage: Cakupan 5G perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Swiss: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips Praktis eSIM Swiss untuk Perjalanan Anda'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -348,7 +348,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar, perangkat Anda mendukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Swiss: 3 Langkah Mudah'
+  title: 'Cara Memasang eSIM Swiss dari Kode QR'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -368,12 +368,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Swiss: 5G Alpen, Roaming UE & Cakupan Kereta SBB"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Swiss. Cari tahu kecepatan yang diharapkan di Alpen, kota, dan di kereta."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, jangkauan jaringan, dan kualitas koneksi untuk pelancong di Swiss. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Swiss
+    title: Pertanyaan Umum eSIM Swiss
     questions:
     - q: |
         Akankah eSIM saya berfungsi di Alpen Swiss — Jungfraujoch, Zermatt, Interlaken?
@@ -411,63 +411,75 @@ faq_section:
         Kapan masa berlaku paket eSIM Swiss saya dimulai?
       a: |
         Masa berlaku paket dimulai saat Anda terhubung ke jaringan lokal di Swiss, bukan saat membeli atau menginstalnya. Jadi Anda dapat membeli dan menginstal berminggu-minggu sebelum perjalanan tanpa kehilangan hari paket. Paket 7 hari memberi Anda 7 hari penuh dari koneksi pertama.
+    - q: |
+        Bagaimana cakupan eSIM Swiss di Zurich dan sekitarnya?
+      a: |
+        Cakupan eSIM Swiss mengikuti jaringan Swisscom di kota besar seperti Zurich. Di daerah terpencil sinyal bisa lebih lemah, dan eSIM akan berpindah ke operator mitra secara otomatis.
+    - q: |
+        Apakah eSIM Swiss berfungsi baik di Jenewa?
+      a: |
+        Di Jenewa eSIM Swiss memakai jaringan 4G/5G Swisscom, cukup untuk peta, perpesanan, dan mengunggah foto. Paket mulai $1.99 praktis untuk kunjungan singkat ke Jenewa.
+    - q: |
+        Untuk 30 hari di Swiss dan kota seperti Zurich, lebih baik paket 3GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 3GB (30 hari, $6.99) karena harganya paling efisien dan memadai untuk kunjungan ke Zurich. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $78.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Swiss Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
+  - name: eSIM Sierra Leone
+    flag: img/flags/si.svg
+    price: Mulai $10.99
+    is_highlight: false
+  - name: eSIM Tunisia
+    flag: img/flags/tn.svg
+    price: Mulai $3.99
     is_highlight: false
   - name: eSIM Inggris
     flag: img/flags/gb.svg
     price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Mulai $1.99
     is_highlight: true
+  - name: eSIM Vietnam
+    flag: img/flags/vn.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Argentina
+    flag: img/flags/ar.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Bahama
+    flag: img/flags/bs.svg
+    price: Mulai $16.99
+    is_highlight: false
+  - name: eSIM Belgia
+    flag: img/flags/be.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Brunei
+    flag: img/flags/bn.svg
+    price: Mulai $9.99
+    is_highlight: false
   - name: eSIM Kanada
     flag: img/flags/ca.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Kongo (Kinshasa)
+    flag: img/flags/cg.svg
+    price: Mulai $7.99
+    is_highlight: false
+  - name: eSIM Denmark
+    flag: img/flags/dk.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
+  - name: eSIM El Salvador
+    flag: img/flags/sv.svg
+    price: Mulai $23.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Swiss vs SIM Prabayar Lokal: Mana yang Lebih Baik untuk Wisatawan Alpen?'
   subtitle: SIM Prabayar Lokal Swiss vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Swiss) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Switzerland
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)

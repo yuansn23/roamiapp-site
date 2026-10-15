@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Ukraina 2026: Panduan Operator Lokal | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIM</strong>.<br>Pelanggan baru menikmati diskon 20%, kode promo:web20
 seo:
   title: 'eSIM Ukraina: Paket Hemat & Kuota Melimpah untuk Anda'
-  description: 'eSIM 5G Ukraina dari Roami: internet cepat untuk perjalanan. Cakupan Kyivstar & Vodafone Ukraine & lifecell. Tanpa biaya roaming.'
-  keywords: eSIM Ukraina, beli eSIM Ukraina, eSIM Ukraina terbaik, eSIM perjalanan Ukraina, Kyivstar Ukraina, Vodafone Ukraine Ukraina, lifecell Ukraina, eSIM Kyiv, eSIM Lviv, eSIM Odesa, eSIM prabayar Ukraina, eSIM 5G Ukraina
+  description: 'eSIM 5G Ukraina dari Roami: internet cepat untuk perjalanan. Cakupan Kyivstar & Vodafone Ukraine & lifecell. Tanpa biaya roaming. Mulai $1.99.'
+  keywords: eSIM Ukraina, beli eSIM Ukraina, eSIM terbaik Ukraina, eSIM perjalanan Ukraina, Kyivstar Ukraina, Vodafone Ukraine Ukraina, lifecell Ukraina, eSIM Kyiv, eSIM Lviv, eSIM Odesa, eSIM prabayar Ukraina, 5G eSIM Ukraina, eSIM Carpathian, eSIM Kharkiv, eSIM Dnipro, paket eSIM Ukraina
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Ganti Otomatis
     desc: Terhubung otomatis ke operator top Ukraina untuk sinyal terbaik
-plans_title: 'Beli eSIM Ukraina: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Ukraina: Durasi Pendek hingga Panjang'
 plans_data:
   7 Hari:
   - spec: 1GB
@@ -272,7 +272,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Jangkauan eSIM Ukraina: Panduan Operator & Peta Jangkauan'
+  title: 'Cakupan eSIM Ukraina: Panduan Jaringan Etisalat, du & Virgin Mobile'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -303,7 +303,7 @@ network_coverage:
       coverage: Jangkauan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Ukraina: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Persiapan Praktis eSIM Ukraina untuk Pelancong'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -324,7 +324,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Ukraina: 3 Langkah Mudah'
+  title: 'Panduan Aktivasi eSIM Ukraina Sebelum Perjalanan'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -344,12 +344,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Apakah eSIM Akan Berfungsi Baik di Ukraina? Panduan Wisatawan tentang Kualitas Internet"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, jangkauan jaringan, dan kualitas koneksi untuk pelancong di Ukraina. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Ukraina. Cari tahu kecepatan apa yang diharapkan di Roma, Venesia, dan Florence — dan bagaimana menghindari jebakan Codice Fiscale."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Ukraina
+    title: Semua yang Perlu Diketahui tentang eSIM Ukraina
     questions:
     - q: |
         Apakah eSIM saya di Ukraina akan berfungsi untuk panggilan video dan pekerjaan jarak jauh?
@@ -383,55 +383,67 @@ faq_section:
         Saya tiba di Ukraina larut malam. Apakah saya akan bisa online segera?
       a: |
         Ya. Jika Anda menginstal eSIM sebelum berangkat, Anda akan online dalam waktu 2 menit setelah mendarat. Aktifkan Data Roaming, dan ponsel Anda secara otomatis menangkap Kyivstar. Tanpa antrean, tanpa dokumen, tanpa mencari kios SIM di tengah malam.
+    - q: |
+        Jaringan apa yang dipakai eSIM Ukraina saat saya berada di Kyiv?
+      a: |
+        eSIM Ukraina memakai jaringan Kyivstar dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area Kyiv koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Apakah saya tetap online selama berada di Lviv?
+      a: |
+        Ya. Sepanjang perjalanan ke Lviv Anda tetap terhubung lewat jaringan Kyivstar; paket mulai $1.99 cocok untuk pemakaian ringan, sedangkan pengguna data berat bisa menambah kuota kapan saja.
+    - q: |
+        Untuk 7 hari di Ukraina dan kota seperti Kyiv, lebih baik paket 1GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 1GB (7 hari, $2.99) karena harganya paling efisien dan memadai untuk kunjungan ke Kyiv. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $20.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
+  - name: eSIM Dominika
+    flag: img/flags/dm.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Inggris Raya
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Estonia
+    flag: img/flags/ee.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Prancis
+    flag: img/flags/fr.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
+  - name: eSIM Ghana
+    flag: img/flags/gh.svg
+    price: Mulai $7.99
+    is_highlight: false
+  - name: eSIM Guam
+    flag: img/flags/gu.svg
+    price: Mulai $9.99
+    is_highlight: false
+  - name: eSIM Hungary
+    flag: img/flags/hu.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
+  - name: eSIM Irlandia
+    flag: img/flags/ie.svg
     price: Mulai $1.99
     is_highlight: false
   - name: eSIM Jepang
     flag: img/flags/jp.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
+  - name: eSIM Kuwait
+    flag: img/flags/kw.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Liechtenstein
+    flag: img/flags/li.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
+  - name: eSIM Malaysia
+    flag: img/flags/my.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
+  - name: eSIM Nepal
+    flag: img/flags/ne.svg
+    price: Mulai $10.99
     is_highlight: false
 ---

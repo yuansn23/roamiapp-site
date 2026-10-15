@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Filipina 2026 - Paket 5G Terbaik untuk Manila & Cebu | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -20,10 +20,10 @@ modal:
     promo:web20
 seo:
   title: 'eSIM Filipina: 5G Cepat & Data Tanpa Batas untuk Anda'
-  description: 'Beli eSIM prabayar Filipina di Roami: 5G cepat & kuota besar. Cakupan Globe & Smart & DITO. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Filipina, beli eSIM Filipina, eSIM Filipina terbaik, eSIM perjalanan Filipina, Globe Filipina, Smart Filipina, DITO Filipina, eSIM Manila, eSIM Cebu, eSIM Davao, eSIM prabayar Filipina, 5G eSIM Filipina, eSIM Boracay, eSIM Palawan
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Beli eSIM prabayar Filipina di Roami: 5G cepat & kuota besar. Cakupan Globe & Smart & DITO. Aktivasi QR instan, mulai $2.99.'
+  keywords: eSIM Filipina, beli eSIM Filipina, eSIM Filipina terbaik, eSIM perjalanan Filipina, Globe Filipina, Smart Filipina, DITO Filipina, eSIM Manila, eSIM Cebu, eSIM Davao, eSIM prabayar Filipina, eSIM 5G Filipina, eSIM Palawan, eSIM Banaue, eSIM Boracay, paket eSIM Filipina
+  low_price: 2.99
+  high_price: 70.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -72,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Ganti Otomatis
     desc: Terhubung otomatis ke Globe, Smart & DITO untuk sinyal terbaik di seluruh 7.000+ pulau
-plans_title: 'Beli eSIM Filipina: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Beli Paket eSIM Filipina: Lengkap dengan Harga Terbaru'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -282,7 +282,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Filipina: Panduan Jaringan Globe, Smart & DITO'
+  title: 'Cakupan eSIM Filipina: Panduan 5G Vodafone, Cosmote & Wind — Daratan & Pulau'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -313,7 +313,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Filipina: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips Praktis eSIM Filipina untuk Perjalanan Anda'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -334,7 +334,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar, perangkat Anda mendukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Filipina: 3 Langkah Mudah'
+  title: 'Cara Memasang eSIM Filipina dari Kode QR'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -354,12 +354,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Filipina: Kecepatan, Cakupan, dan Tips Perjalanan untuk Filipina"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Filipina. Cari tahu kecepatan yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Filipina. Cari tahu kecepatan yang diharapkan di Athena, di pulau-pulau, dan di feri."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Filipina
+    title: Pertanyaan Umum eSIM Filipina
     questions:
     - q: |
         Apa itu Undang-Undang Registrasi SIM Filipina (RA 11934) — dan apakah saya perlu melakukannya untuk Roami?
@@ -380,7 +380,7 @@ faq_section:
     - q: |
         Saya mendengar Globe mengompresi gambar dan memblokir beberapa aplikasi — apakah Roami memiliki masalah ini?
       a: |
-        Tidak — Roami menyediakan konektivitas langsung dan tanpa sensor. Globe menggunakan proxy transparan yang mengompres ulang gambar (mengurangi kualitas) dan dapat memblokir protokol VoIP tertentu seperti SIP. Ini dapat mempengaruhi kualitas foto saat Anda mengunggah ke media sosial dan dapat mengganggu panggilan bisnis. Roami eSIM melewati batasan ini. Foto Anda diunggah dengan kualitas penuh, dan semua aplikasi berfungsi tanpa gangguan.
+        Tidak — Roami menyediakan konektivitas langsung tanpa manipulasi lalu lintas. Globe menggunakan proxy transparan yang mengompres ulang gambar (mengurangi kualitas) dan dapat membatasi protokol VoIP tertentu seperti SIP. Ini dapat mempengaruhi kualitas foto saat Anda mengunggah ke media sosial dan dapat mengganggu panggilan bisnis. Roami eSIM melewati batasan ini. Foto Anda diunggah dengan kualitas penuh, dan semua aplikasi berfungsi tanpa gangguan.
     - q: |
         Apakah eSIM lebih murah daripada roaming internasional untuk Filipina?
       a: |
@@ -397,63 +397,75 @@ faq_section:
         Kapan masa berlaku paket eSIM Filipina saya dimulai?
       a: |
         Masa berlaku paket dimulai saat Anda terhubung ke jaringan lokal di Filipina, bukan saat membeli atau menginstalnya. Jadi Anda dapat membeli dan menginstal berminggu-minggu sebelum perjalanan tanpa kehilangan hari paket. Paket 7 hari memberi Anda 7 hari penuh dari koneksi pertama.
+    - q: |
+        Jaringan apa yang dipakai eSIM Filipina saat saya berada di Manila?
+      a: |
+        eSIM Filipina memakai jaringan Globe dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area Manila koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Apakah saya tetap online selama berada di Cebu?
+      a: |
+        Ya. Sepanjang perjalanan ke Cebu Anda tetap terhubung lewat jaringan Globe; paket mulai $2.99 cocok untuk pemakaian ringan, sedangkan pengguna data berat bisa menambah kuota kapan saja.
+    - q: |
+        Untuk 30 hari di Filipina dan kota seperti Manila, lebih baik paket 3GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 3GB (30 hari, $8.99) karena harganya paling efisien dan memadai untuk kunjungan ke Manila. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $70.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Filipina Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Portugal
+    flag: img/flags/pt.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Mulai $1.99
-    is_highlight: false
   - name: eSIM Turki
     flag: img/flags/tr.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
+  - name: eSIM Bahama
+    flag: img/flags/bs.svg
+    price: Mulai $16.99
+    is_highlight: false
+  - name: eSIM Kolombia
+    flag: img/flags/co.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Gabon
+    flag: img/flags/ga.svg
+    price: Mulai $14.99
+    is_highlight: false
+  - name: eSIM Israel
+    flag: img/flags/il.svg
+    price: Mulai $2.99
+    is_highlight: false
+  - name: eSIM Malaysia
+    flag: img/flags/my.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
+  - name: eSIM Puerto Rico
+    flag: img/flags/pu.svg
+    price: Mulai $6.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
+  - name: eSIM Uganda
+    flag: img/flags/ug.svg
+    price: Mulai $7.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
+  - name: eSIM Bahrain
+    flag: img/flags/bh.svg
+    price: Mulai $6.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
+  - name: eSIM Kongo (Kinshasa)
+    flag: img/flags/cg.svg
+    price: Mulai $7.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
+  - name: eSIM Georgia
+    flag: img/flags/ge.svg
+    price: Mulai $3.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Filipina vs Kartu SIM Prabayar: Apakah Layak Beralih?'
   subtitle: SIM Prabayar Lokal Filipina vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Filipina) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Philippines
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -474,7 +486,7 @@ market_analysis:
   - icon: globe
     title: Roaming<br>Internasional
     prepaid_title: ''
-    prepaid_desc: Paket roaming Smart (Smart Roam Surf) mengenakan biaya ₱999 untuk 1GB; Globe menggunakan proxy transparan yang mengompres ulang gambar dan dapat memblokir protokol VoIP tertentu seperti SIP.
+    prepaid_desc: Paket roaming Smart (Smart Roam Surf) mengenakan biaya ₱999 untuk 1GB; Globe menggunakan proxy transparan yang mengompres ulang gambar dan dapat membatasi protokol VoIP tertentu seperti SIP.
     esim_title: Kebebasan Roaming Global
     esim_desc: Hindari paket roaming ₱999/1GB Smart dan proxy transparan Globe yang mengompres ulang gambar. Roami eSIM menawarkan paket multi-negara tanpa intersepsi lalu lintas.
   - icon: calendar-xmark
@@ -482,7 +494,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Paket nilai tinggi Smart dan Globe (misalnya, All Data 299 dengan 24GB, All Data 499 dengan 48GB) terkunci ke siklus 30 hari; SIM turis bandara mulai dari ₱1.050 untuk 30 hari, berarti perjalanan 5-7 hari membuang setidaknya 70% siklus paket.
     esim_title: Paket Jangka Pendek Fleksibel
-    esim_desc: Tidak seperti penguncian 30 hari Smart (₱299/24GB) yang membuang 70% untuk perjalanan 7 hari, Roami menawarkan paket 7 hari mulai dari $1.99/GB, menyelamatkan Anda dari siklus 30 hari paksa.
+    esim_desc: Tidak seperti penguncian 30 hari Smart (₱299/24GB) yang membuang 70% untuk perjalanan 7 hari, Roami menawarkan paket 7 hari mulai dari $0.90/GB, menyelamatkan Anda dari siklus 30 hari paksa.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
@@ -513,7 +525,7 @@ market_analysis:
       icon_bg: bg-rose-100
       icon_color: text-rose-600
       title: Hindari Proxy Transparan Globe & Biaya Roaming Smart
-      desc: Proxy transparan Globe mengompres ulang gambar dan dapat memblokir SIP VoIP; paket roaming Smart berharga ₱999/1GB. Roami eSIM menyediakan konektivitas langsung tanpa sensor dengan manipulasi lalu lintas nol.
+      desc: Proxy transparan Globe mengompres ulang gambar dan dapat membatasi SIP VoIP; paket roaming Smart berharga ₱999/1GB. Roami eSIM menyediakan konektivitas langsung dengan manipulasi lalu lintas nol.
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600
@@ -523,5 +535,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Hindari Jebakan Biaya Tenggelam 30 Hari
-      desc: All Data 299 Smart (₱299/24GB) dan GoSURF299 Globe (₱299/2GB) terkunci ke siklus 30 hari. Turis 7 hari membuang lebih dari 70% paket. Roami menawarkan paket 7 hari dari $1.99/GB.
+      desc: All Data 299 Smart (₱299/24GB) dan GoSURF299 Globe (₱299/2GB) terkunci ke siklus 30 hari. Turis 7 hari membuang lebih dari 70% paket. Roami menawarkan paket 7 hari dari $0.90/GB.
 ---

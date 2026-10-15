@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Irlandia 2026: Panduan & Cakupan Jaringan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -11,7 +11,7 @@ country_meta:
   operators: Vodafone, Three, Eir
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Dublin, Cork, Limerick, Galway, Waterford
-  main_packages: 3/7/15/30 Hari, Paket Unlimited
+  main_packages: 3/7/15/30 Hari, Data Tak Terbatas
 modal:
   title: Layanan Ditingkatkan!
   btn_text: Lanjutkan
@@ -22,10 +22,9 @@ modal:
 seo:
   title: 'eSIM Irlandia: Prabayar & Kuota Besar untuk Pelancong'
   description: '5G cepat & data melimpah untuk Irlandia dari Roami. Cakupan Vodafone & Three & Eir. Aktivasi instan, mulai $1.99. Tanpa kontrak.'
-  keywords: eSIM Irlandia, beli eSIM Irlandia, eSIM Irlandia terbaik, eSIM perjalanan Irlandia, Vodafone Irlandia, Three Irlandia,
-    Eir Irlandia, eSIM Dublin, eSIM Cork, eSIM Limerick, eSIM prabayar Irlandia, eSIM 5G Irlandia
+  keywords: eSIM Irlandia, beli eSIM Irlandia, eSIM Irlandia terbaik, eSIM perjalanan Irlandia, Vodafone Irlandia, Three Irlandia, Eir Irlandia, eSIM Dublin, eSIM Cork, eSIM Limerick, eSIM prabayar Irlandia, eSIM 5G Irlandia, eSIM Wild Atlantic Way, eSIM Ring of Kerry, eSIM Tebing Moher, paket eSIM Irlandia
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -75,7 +74,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Alih Otomatis
     desc: Terhubung otomatis ke operator terbaik di Irlandia untuk sinyal terbaik
-plans_title: 'Beli eSIM Irlandia: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Irlandia: Dari Perjalanan Singkat hingga Sebulan'
 plans_data:
   7 Hari:
   - spec: 20GB
@@ -301,7 +300,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Irlandia: Panduan Operator & Peta Cakupan'
+  title: 'Cakupan eSIM Irlandia: Panduan Jaringan Airtel, Jio & Vi'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -334,7 +333,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Irlandia: Apa yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Catatan Penting Pengaturan eSIM Irlandia Sebelum Berangkat'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -355,7 +354,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Irlandia: 3 Langkah Mudah'
+  title: 'Cara Mengaktifkan eSIM Irlandia Sebelum Berangkat'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -377,13 +376,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Koneksi Internet di Irlandia -- Panduan Kualitas Jaringan dan Kecepatan eSIM"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Irlandia.
-    Cari tahu kecepatan yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Irlandia. Cari tahu kecepatan apa yang diharapkan di Muscat, Nizwa dan Salalah — dan bagaimana melewati repot registrasi paspor."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Irlandia
+    title: Tanya Jawab Seputar eSIM Irlandia
     questions:
     - q: |
         Apakah Roami beralih secara otomatis antara Vodafone, Eir, dan Three di Irlandia?
@@ -396,7 +394,7 @@ faq_section:
     - q: |
         Apa saja pilihan eSIM termurah untuk perjalanan ke Irlandia?
       a: |
-        Paket eSIM Irlandia Roami mulai dari $1.99 (7 hari, 1GB) hingga $59.99 (30 hari unlimited). Untuk perjalanan 5-7 hari pada umumnya, paket 5GB seharga $9.99 adalah pilihan terbaik — cukup untuk peta, pesan, dan media sosial. Perlu streaming video atau bekerja jarak jauh? Pilih 10GB atau unlimited. Berkat jaringan 5G Vodafone, streaming dan panggilan video berfungsi dengan baik. Kios SIM bandara mematok harga 30-50% lebih mahal, dan Anda harus mengantre. Tidak yakin dengan kebutuhan data Anda? Mulai dengan paket kecil dan isi ulang melalui aplikasi tanpa mengganti eSIM Anda.
+        Paket eSIM Irlandia Roami mulai dari $2.99 (7 hari, 1GB) hingga $77.99 (30 hari unlimited). Untuk perjalanan 5-7 hari pada umumnya, paket 5GB seharga $9.99 adalah pilihan terbaik — cukup untuk peta, pesan, dan media sosial. Perlu streaming video atau bekerja jarak jauh? Pilih 10GB atau unlimited. Berkat jaringan 5G Vodafone, streaming dan panggilan video berfungsi dengan baik. Kios SIM bandara mematok harga 30-50% lebih mahal, dan Anda harus mengantre. Tidak yakin dengan kebutuhan data Anda? Mulai dengan paket kecil dan isi ulang melalui aplikasi tanpa mengganti eSIM Anda.
     - q: |
         Bisakah saya membeli eSIM Irlandia di menit-menit terakhir, tepat sebelum penerbangan?
       a: |
@@ -408,7 +406,7 @@ faq_section:
     - q: |
         Saya bepergian ke Irlandia hanya 2-3 hari. eSIM apa yang harus saya ambil?
       a: |
-        Untuk perjalanan singkat, paket 1GB/7 hari ($1.99) mencakup peta dan pesan. Jika Anda berencana menggunakan media sosial dan berbagi foto, paket 3GB ($4.99) memberikan ruang lebih. Keduanya aktif secara instan dan Anda dapat isi ulang jika diperlukan.
+        Untuk perjalanan singkat, paket 1GB/7 hari ($2.99) mencakup peta dan pesan. Jika Anda berencana menggunakan media sosial dan berbagi foto, paket 3GB ($4.99) memberikan ruang lebih. Keduanya aktif secara instan dan Anda dapat isi ulang jika diperlukan.
     - q: |
         Apakah eSIM lebih murah daripada roaming internasional untuk Irlandia?
       a: |
@@ -417,63 +415,75 @@ faq_section:
         Saya butuh akses internet hanya untuk beberapa hari di Irlandia. Apa paket minimum yang bisa saya beli?
       a: |
         Paket termurah adalah $1.99 untuk 7 hari dengan 1GB — sempurna untuk perjalanan akhir pekan singkat dengan penggunaan ringan. Jika perlu lebih, isi ulang kapan saja dari aplikasi.
+    - q: |
+        Jaringan apa yang dipakai eSIM Irlandia saat saya berada di Dublin?
+      a: |
+        eSIM Irlandia memakai jaringan Vodafone dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area Dublin koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Apakah saya tetap online selama berada di Cork?
+      a: |
+        Ya. Sepanjang perjalanan ke Cork Anda tetap terhubung lewat jaringan Vodafone; paket mulai $1.99 cocok untuk pemakaian ringan, sedangkan pengguna data berat bisa menambah kuota kapan saja.
+    - q: |
+        Untuk 30 hari di Irlandia dan kota seperti Dublin, lebih baik paket 3GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 3GB (30 hari, $6.99) karena harganya paling efisien dan memadai untuk kunjungan ke Dublin. Jika perjalanan Anda padat data, paket Unlimited seharga $77.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Irlandia Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Mulai $1.99
-    is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Tiongkok
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
-    is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
     price: Mulai $1.99
+    is_highlight: true
+  - name: eSIM Irak
+    flag: img/flags/iq.svg
+    price: Mulai $9.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
+  - name: eSIM Jamaika
+    flag: img/flags/jm.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
+  - name: eSIM Kosovo
+    flag: img/flags/xk.svg
+    price: Mulai $13.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
+  - name: eSIM Liberia
+    flag: img/flags/lr.svg
+    price: Mulai $27.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
+  - name: eSIM Malawi
+    flag: img/flags/mw.svg
+    price: Mulai $14.99
+    is_highlight: false
+  - name: eSIM Meksiko
+    flag: img/flags/mx.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Nigeria
+    flag: img/flags/ng.svg
+    price: Mulai $5.99
+    is_highlight: false
+  - name: eSIM Paraguay
+    flag: img/flags/py.svg
+    price: Mulai $22.99
+    is_highlight: false
+  - name: eSIM Puerto Rico
+    flag: img/flags/pu.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Arab Saudi
+    flag: img/flags/sa.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Asia Tenggara
+    flag: img/flags/ya.webp
     price: Mulai $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Irlandia vs SIM Prabayar: Mana yang Tepat untuk Anda?'
   subtitle: SIM Prabayar Lokal Irlandia vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Irlandia) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Ireland
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -508,7 +518,7 @@ market_analysis:
     prepaid_desc: Semua paket prabayar utama (Vodafone, Three, eir) memiliki siklus 28 hari mulai dari €20; wisatawan 7 hari
       membuang 75% nilai paket.
     esim_title: Paket Jangka Pendek Fleksibel
-    esim_desc: Tidak seperti siklus 28 hari Vodafone (€20/10GB), Roami menawarkan paket 7 hari mulai dari $1.99/GB, menghemat
+    esim_desc: Tidak seperti siklus 28 hari Vodafone (€20/10GB), Roami menawarkan paket 7 hari mulai dari $0.95/GB, menghemat
       75% pemborosan.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
@@ -558,5 +568,5 @@ market_analysis:
       icon_color: text-amber-600
       title: Hilangkan 75% Biaya Terbuang pada Paket 28 Hari
       desc: Vodafone, Three, dan eir semuanya menggunakan <b>siklus 28 hari</b> mulai dari <b>€20</b>. Wisatawan 7 hari membuang
-        <b>75%</b> paket. Roami menawarkan paket <b>7 hari</b> mulai dari <b>$1.99/GB</b>.
+        <b>75%</b> paket. Roami menawarkan paket <b>7 hari</b> mulai dari <b>$0.95/GB</b>.
 ---

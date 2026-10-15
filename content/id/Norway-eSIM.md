@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Norwegia 2026 - Paket 5G Terbaik untuk Oslo & Fjord | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -21,9 +21,9 @@ modal:
 seo:
   title: 'eSIM Norwegia: Paket Hemat & Kuota Besar untuk Wisata'
   description: 'Roami menawarkan eSIM prabayar Norwegia dengan 5G cepat. Cakupan Telenor & Telia & Ice. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Norwegia, beli eSIM Norwegia, eSIM Norwegia terbaik, eSIM perjalanan Norwegia, Telenor Norwegia, Telia Norwegia, Ice Norwegia, eSIM Oslo, eSIM Bergen, eSIM Trondheim, eSIM prabayar Norwegia, 5G eSIM Norwegia, eSIM fjord, eSIM Cahaya Utara, eSIM Tromsø
+  keywords: eSIM Norwegia, beli eSIM Norwegia, eSIM Norwegia terbaik, eSIM perjalanan Norwegia, Telenor Norwegia, Telia Norwegia, Ice Norwegia, eSIM Oslo, eSIM Bergen, eSIM Trondheim, eSIM prabayar Norwegia, eSIM 5G Norwegia, eSIM Cahaya Utara, eSIM Tromsø, eSIM Lofoten, paket eSIM Norwegia
   low_price: 1.99
-  high_price: 39.9
+  high_price: 79.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -72,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Ganti Otomatis
     desc: Terhubung otomatis ke Telenor, Telia & Ice untuk sinyal terbaik di seluruh Norwegia
-plans_title: 'Beli eSIM Norwegia: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Pilih Paket eSIM Norwegia Sesuai Kebutuhan Data Anda'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -290,7 +290,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Norwegia: Panduan Jaringan Telenor, Telia & Ice'
+  title: 'Cakupan eSIM Norwegia: Panduan 5G/4G Claro, Vivo & TIM'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -321,7 +321,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Norwegia: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips eSIM Norwegia: Hal yang Perlu Disiapkan Sebelum Terbang'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -342,7 +342,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar, perangkat Anda mendukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Norwegia: 3 Langkah Mudah'
+  title: 'Panduan Aktivasi eSIM Norwegia untuk Pemula'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -362,12 +362,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Norwegia: Kecepatan, Cakupan, dan Tips Perjalanan untuk Norwegia"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Norwegia. Cari tahu kecepatan yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi bagi pelancong di Norwegia. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Norwegia
+    title: Pertanyaan yang Sering Diajukan soal eSIM Norwegia
     questions:
     - q: |
         Mengapa membeli kartu SIM di Norwegia begitu rumit bagi turis?
@@ -405,63 +405,75 @@ faq_section:
         Dapatkah saya menambah kuota eSIM Norwegia saya jika data habis?
       a: |
         Ya — Anda dapat menambah kuota melalui akun Roami Anda kapan saja dengan satu klik. Tidak seperti SIM prabayar Norwegia yang memerlukan pembelian voucher isi ulang fisik di 7-Eleven (tanpa petunjuk bahasa Inggris) atau menavigasi portal online berbahasa Norwegia, Roami menerima metode pembayaran global tanpa hambatan bahasa.
+    - q: |
+        Apakah eSIM Norwegia terhubung ke jaringan Telenor di Oslo?
+      a: |
+        Ya. eSIM Norwegia terhubung ke jaringan Telenor dan operator mitra lainnya, jadi sinyal tetap tersedia saat Anda berpindah dari Oslo ke kota lain di Norwegia. eSIM langsung aktif setelah dipasang, tanpa perlu memilih operator secara manual.
+    - q: |
+        Apakah eSIM Norwegia berfungsi baik di Bergen?
+      a: |
+        Di Bergen eSIM Norwegia memakai jaringan 4G/5G Telenor, cukup untuk peta, perpesanan, dan mengunggah foto. Paket mulai $1.99 praktis untuk kunjungan singkat ke Bergen.
+    - q: |
+        Apakah paket 3GB cukup untuk perjalanan 30 hari di Norwegia dan kota seperti Oslo?
+      a: |
+        Untuk perjalanan 30 hari, paket 3GB seharga $6.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Oslo. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket Tak Terbatas seharga $79.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Norwegia Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Islandia
+    flag: img/flags/is.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Maladewa
+    flag: img/flags/mv.svg
+    price: Mulai $14.99
+    is_highlight: false
+  - name: eSIM Sierra Leone
+    flag: img/flags/si.svg
+    price: Mulai $10.99
+    is_highlight: false
+  - name: eSIM Argentina
+    flag: img/flags/ar.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Kongo (Kinshasa)
+    flag: img/flags/cg.svg
+    price: Mulai $7.99
+    is_highlight: false
+  - name: eSIM Guadeloupe
+    flag: img/flags/gp.svg
+    price: Mulai $8.99
+    is_highlight: false
+  - name: eSIM Liberia
+    flag: img/flags/lr.svg
+    price: Mulai $27.99
+    is_highlight: false
+  - name: eSIM Puerto Rico
+    flag: img/flags/pu.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Uzbekistan
+    flag: img/flags/uz.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
+  - name: eSIM Kamboja
+    flag: img/flags/kh.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
+  - name: eSIM Gabon
+    flag: img/flags/ga.svg
+    price: Mulai $14.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
+  - name: eSIM Kazakhstan
+    flag: img/flags/kz.svg
+    price: Mulai $3.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Norwegia Dibandingkan dengan Kartu SIM Prabayar: Yang Perlu Anda Ketahui'
   subtitle: SIM Prabayar Lokal Norwegia vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Norwegia) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Norway
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -490,7 +502,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Siklus penagihan minimum Telia adalah 31 hari (misalnya, 3GB seharga 269 NOK). Telenor memiliki batas kecepatan tinggi 1GB bulanan, setelah itu kecepatan turun ke 128 Kbps.
     esim_title: Paket Jangka Pendek Fleksibel
-    esim_desc: Tidak seperti siklus 31 hari Telia (misalnya, 3GB seharga 269 NOK) atau batas 1GB bulanan Telenor, Roami menawarkan paket 7 hari mulai dari $1.99/GB, menghemat hingga 75% pemborosan untuk perjalanan singkat.
+    esim_desc: Tidak seperti siklus 31 hari Telia (misalnya, 3GB seharga 269 NOK) atau batas 1GB bulanan Telenor, Roami menawarkan paket 7 hari mulai dari $1.05/GB, menghemat hingga 75% pemborosan untuk perjalanan singkat.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''

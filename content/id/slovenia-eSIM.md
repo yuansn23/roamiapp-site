@@ -1,7 +1,7 @@
 ---
 title: Paket Data eSIM Slovenia | eSIM Perjalanan Terbaik 2026 | Roami
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 'eSIM Slovenia: Paket Hemat & Kuota Besar untuk Bisnis'
   description: 'Roami menawarkan eSIM prabayar Slovenia dengan 5G cepat. Cakupan A1 & Telekom Slovenije & Telemach. Aktivasi instan, mulai $1.99.'
-  keywords: eSIM Slovenia, eSIM Slovenia murah, internet perjalanan Slovenia, A1 Slovenia, Telekom Slovenije, eSIM instan, tanpa biaya roaming
+  keywords: eSIM Slovenia, beli eSIM Slovenia, eSIM Slovenia terbaik, eSIM perjalanan Slovenia, A1 Slovenia, Telekom Slovenije Slovenia, Telemach Slovenia, eSIM Ljubljana, eSIM Maribor, eSIM Kranj, eSIM prabayar Slovenia, eSIM 5G Slovenia, eSIM Danau Bled, eSIM Gua Postojna, eSIM Pegunungan Alpen Slovenia, paket eSIM Slovenia
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Alih Otomatis
     desc: Terhubung ke operator terbaik
-plans_title: Pilih Paket Anda
+plans_title: Bandingkan Paket eSIM Slovenia Sebelum Membeli
 plans_data:
   30 Hari:
   - spec: 30GB
@@ -303,7 +303,7 @@ network_coverage:
       coverage: IP Asli
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Penting untuk Menggunakan eSIM Slovenia Anda:'
+  title: 'Tips eSIM Slovenia: Persiapan Singkat Sebelum Berangkat'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -324,7 +324,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar, perangkat Anda didukung!
 activation_steps:
-  title: Langkah Aktivasi
+  title: Cara Memasang eSIM Slovenia dalam 3 Langkah
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -344,12 +344,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM untuk Pelancong di Slovenia -- Kecepatan Jaringan, Cakupan dan Tips"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Slovenia. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi bagi pelancong di Slovenia. Cari tahu kecepatan apa yang diharapkan, cakupan wilayah, dan di mana eSIM bekerja paling baik."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Slovenia
+    title: Pertanyaan Populer tentang eSIM Slovenia
     questions:
     - q: |
         Apakah aman mengunggah paspor saya untuk pendaftaran eSIM Slovenia? Saya khawatir tentang privasi.
@@ -370,7 +370,7 @@ faq_section:
     - q: |
         Apakah eSIM lebih murah daripada roaming internasional untuk Slovenia?
       a: |
-        Ya — Roami eSIM biasanya 80-90% lebih murah daripada paket roaming dari sebagian besar operator rumah. Paket 5GB untuk Slovenia berharga $9,99, sementara roaming dapat dengan mudah menghabiskan biaya $50+ untuk data yang sama. Anda juga mendapatkan kecepatan jaringan lokal daripada roaming yang diperlambat.
+        Ya — Roami eSIM biasanya 80-90% lebih murah daripada paket roaming dari sebagian besar operator rumah. Paket 5GB untuk Slovenia berharga $9.99, sementara roaming dapat dengan mudah menghabiskan biaya $50+ untuk data yang sama. Anda juga mendapatkan kecepatan jaringan lokal daripada roaming yang diperlambat.
     - q: |
         Seberapa jauh sebelumnya saya harus membeli eSIM Slovenia?
       a: |
@@ -382,56 +382,68 @@ faq_section:
     - q: |
         Saya bepergian ke Slovenia hanya selama 2-3 hari. eSIM apa yang harus saya dapatkan?
       a: |
-        Untuk perjalanan singkat, paket 1GB/7 hari ($1,99) mencakup peta dan pesan. Jika Anda berencana menggunakan media sosial dan berbagi foto, paket 3GB ($4,99) memberi lebih banyak ruang. Keduanya aktif secara instan dan Anda dapat mengisi ulang jika diperlukan.
+        Untuk perjalanan singkat, paket 1GB/7 hari ($2.99) mencakup peta dan pesan. Jika Anda berencana menggunakan media sosial dan berbagi foto, paket 3GB ($4.99) memberi lebih banyak ruang. Keduanya aktif secara instan dan Anda dapat mengisi ulang jika diperlukan.
+    - q: |
+        Jaringan apa yang dipakai eSIM Slovenia saat saya berada di Ljubljana?
+      a: |
+        eSIM Slovenia memakai jaringan A1 dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area Ljubljana koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Cukupkah paket termurah untuk pemakaian saya di Maribor?
+      a: |
+        Paket mulai $1.99 sudah menutupi navigasi, pesan, dan media sosial selama Anda berada di Maribor. Aktivasi dilakukan sekali sebelum berangkat, jadi tidak ada antrean di bandara.
+    - q: |
+        Untuk 7 hari di Slovenia dan kota seperti Ljubljana, lebih baik paket 1GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 1GB (7 hari, $2.99) karena harganya paling efisien dan memadai untuk kunjungan ke Ljubljana. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $20.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Terkait
   items:
-  - name: eSIM amerika serikat
-    flag: img/flags/us.svg
-    price: Dari $1.99
+  - name: eSIM Panama
+    flag: img/flags/pa.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: Inggris
-    flag: img/flags/gb.svg
-    price: Dari $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Dari $1.99
+  - name: eSIM Qatar
+    flag: img/flags/qa.svg
+    price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Dari $1.99
+  - name: eSIM Singapura
+    flag: img/flags/sg.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Dari $1.99
+  - name: eSIM Tanzania
+    flag: img/flags/tz.svg
+    price: Mulai $7.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Dari $1.99
+  - name: eSIM Inggris
+    flag: img/flags/gb.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Dari $1.99
+  - name: eSIM Albania
+    flag: img/flags/al.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Dari $1.99
+  - name: eSIM Azerbaijan
+    flag: img/flags/az.svg
+    price: Mulai $6.99
     is_highlight: false
-  - name: eSIM Perancis
-    flag: img/flags/fr.svg
-    price: Dari $1.99
+  - name: eSIM Bolivia
+    flag: img/flags/bo.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Dari $1.99
+  - name: eSIM Kamboja
+    flag: img/flags/kh.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Dari $1.99
+  - name: eSIM Kongo (Kinshasa)
+    flag: img/flags/cg.svg
+    price: Mulai $7.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Dari $1.99
+  - name: eSIM Republik Dominika
+    flag: img/flags/do.svg
+    price: Mulai $5.99
+    is_highlight: false
+  - name: eSIM Fiji
+    flag: img/flags/fj.svg
+    price: Mulai $6.99
     is_highlight: false
 ---

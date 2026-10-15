@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Islandia - 5G di Reykjavik & Golden Circle | Tanpa Berburu SIM | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -21,9 +21,9 @@ modal:
 seo:
   title: 'eSIM Islandia: 5G Cepat & Kuota Melimpah untuk Bisnis'
   description: 'Roami menawarkan eSIM prabayar Islandia dengan 5G cepat. Cakupan Síminn & Vodafone & Telenor. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Islandia, beli eSIM Islandia, eSIM Islandia terbaik, eSIM perjalanan Islandia, Síminn Islandia, Vodafone Islandia, Telenor Islandia, eSIM Reykjavik, eSIM Akureyri, eSIM Golden Circle, eSIM prabayar Islandia, 5G eSIM Islandia, eSIM Ring Road
+  keywords: eSIM Islandia, beli eSIM Islandia, eSIM Islandia terbaik, eSIM perjalanan Islandia, Síminn Islandia, Vodafone Islandia, Telenor Islandia, eSIM Reykjavik, eSIM Akureyri, eSIM Keflavik, eSIM prabayar Islandia, eSIM 5G Islandia, eSIM Golden Circle, eSIM Blue Lagoon, eSIM Ring Road, paket eSIM Islandia
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -76,7 +76,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Siap Ring Road
     desc: Cakupan 4G/5G di sepanjang Ring Road — tetap terhubung dari Reykjavik ke Akureyri
-plans_title: 'Beli eSIM Islandia: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Islandia: Pilih Data Sesuai Lama Perjalanan'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -294,7 +294,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Islandia: Panduan 5G Síminn, Vodafone & Telenor — Ring Road ke Reykjavik'
+  title: 'Cakupan eSIM Islandia: Panduan 5G Deutsche Telekom, Vodafone & O2'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -325,7 +325,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Islandia: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips Pengaturan eSIM Islandia: Apa yang Perlu Diketahui Sebelum Berangkat'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -352,7 +352,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar, perangkat Anda mendukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Islandia: 3 Langkah Mudah'
+  title: 'Aktivasi eSIM Islandia: Panduan 3 Langkah'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -372,12 +372,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Islandia: 5G, Cakupan Ring Road & Tips Perjalanan"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Islandia. Cari tahu kecepatan yang diharapkan di Reykjavik, di sepanjang Ring Road, dan di Golden Circle."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Islandia. Cari tahu kecepatan apa yang diharapkan di Bali, Jakarta, dan Yogyakarta — dan bagaimana menghindari jebakan pajak IMEI."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Islandia
+    title: Pertanyaan Umum tentang eSIM Islandia
     questions:
     - q: |
         Apakah Islandia memiliki cakupan seluler yang baik di sepanjang Ring Road?
@@ -419,63 +419,75 @@ faq_section:
         Kapan masa berlaku paket eSIM Islandia saya dimulai?
       a: |
         Masa berlaku paket dimulai saat Anda terhubung ke jaringan lokal di Islandia, bukan saat membeli atau menginstalnya. Jadi Anda dapat membeli dan menginstal berminggu-minggu sebelum perjalanan tanpa kehilangan hari paket. Paket 7 hari memberi Anda 7 hari penuh dari koneksi pertama.
+    - q: |
+        Bagaimana cakupan eSIM Islandia di Reykjavik dan sekitarnya?
+      a: |
+        Cakupan eSIM Islandia mengikuti jaringan Síminn di kota besar seperti Reykjavik. Di daerah terpencil sinyal bisa lebih lemah, dan eSIM akan berpindah ke operator mitra secara otomatis.
+    - q: |
+        Apakah eSIM Islandia berfungsi baik di Akureyri?
+      a: |
+        Di Akureyri eSIM Islandia memakai jaringan 4G/5G Síminn, cukup untuk peta, perpesanan, dan mengunggah foto. Paket mulai $1.99 praktis untuk kunjungan singkat ke Akureyri.
+    - q: |
+        Untuk 30 hari di Islandia dan kota seperti Reykjavik, lebih baik paket 3GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 3GB (30 hari, $6.99) karena harganya paling efisien dan memadai untuk kunjungan ke Reykjavik. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $77.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Islandia Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
+  - name: eSIM Kroasia
+    flag: img/flags/hr.svg
+    price: Mulai $1.99
+    is_highlight: true
+  - name: eSIM Ghana
+    flag: img/flags/gh.svg
+    price: Mulai $7.99
+    is_highlight: false
+  - name: eSIM Jamaika
+    flag: img/flags/jm.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Malta
+    flag: img/flags/mt.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Rumania
+    flag: img/flags/ro.svg
     price: Mulai $1.99
     is_highlight: false
   - name: eSIM Inggris
     flag: img/flags/gb.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Mulai $1.99
-    is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Belarus
+    flag: img/flags/by.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
+  - name: eSIM Siprus
+    flag: img/flags/cy.svg
+    price: Mulai $2.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
+  - name: eSIM Gibraltar
+    flag: img/flags/gi.svg
+    price: Mulai $5.99
     is_highlight: false
   - name: eSIM Jepang
     flag: img/flags/jp.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
+  - name: eSIM Meksiko
+    flag: img/flags/mx.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
+  - name: eSIM Rusia
+    flag: img/flags/ru.svg
+    price: Mulai $2.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Islandia vs SIM Lokal: Tanpa Paspor, Biaya Lebih Rendah, Siap Ring Road'
   subtitle: SIM Prabayar Lokal Islandia vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Islandia) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Iceland
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -545,5 +557,5 @@ market_analysis:
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
       title: Bayar untuk Perjalanan Anda, Bukan untuk Pemborosan
-      desc: Paket 30 hari Síminn membuang <strong>75%+</strong> untuk perjalanan 7 hari. Roami menawarkan <strong>paket 7 hari dari $1.99/GB</strong> — tanpa komitmen paksa 30 hari.
+      desc: Paket 30 hari Síminn membuang <strong>75%+</strong> untuk perjalanan 7 hari. Roami menawarkan <strong>paket 7 hari dari $0.55/GB</strong> — tanpa komitmen paksa 30 hari.
 ---

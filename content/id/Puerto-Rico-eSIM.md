@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Puerto Rico 2026: Panduan Operator & Cakupan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -10,7 +10,7 @@ country_meta:
   operators: Claro Puerto Rico, Liberty Puerto Rico, T-Mobile Puerto Rico
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: San Juan, Ponce, Mayagüez, Caguas, Carolina
-  main_packages: 3/7/15/30 Hari, Data Tak Terbatas
+  main_packages: 7/15/30 Hari
 modal:
   title: Layanan Telah Ditingkatkan!
   btn_text: Lanjutkan
@@ -18,10 +18,10 @@ modal:
   text_android: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIM</strong>.<br>Pelanggan baru menikmati diskon 20%, kode promo:web20
 seo:
   title: 'eSIM Puerto Rico: 5G Cepat & Kuota Besar untuk Anda'
-  description: 'Beli eSIM prabayar Puerto Rico dari Roami dengan 5G cepat. Cakupan Claro Puerto Rico & Liberty Puerto Rico. Tanpa biaya roaming.'
-  keywords: eSIM Puerto Rico, beli eSIM Puerto Rico, eSIM terbaik Puerto Rico, eSIM perjalanan Puerto Rico, Claro Puerto Rico Puerto Rico, Liberty Puerto Rico Puerto Rico, T-Mobile Puerto Rico Puerto Rico, eSIM San Juan, eSIM Ponce, eSIM Mayagüez, eSIM prabayar Puerto Rico, eSIM 5G Puerto Rico
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Beli eSIM prabayar Puerto Rico dari Roami dengan 5G cepat. Cakupan Claro Puerto Rico & Liberty Puerto Rico. Tanpa biaya roaming. Mulai $6.99.'
+  keywords: eSIM Puerto Rico, beli eSIM Puerto Rico, eSIM terbaik Puerto Rico, eSIM perjalanan Puerto Rico, Claro Puerto Rico, Liberty Puerto Rico, T-Mobile Puerto Rico, eSIM San Juan, eSIM Ponce, eSIM Mayagüez, eSIM prabayar Puerto Rico, 5G eSIM Puerto Rico, eSIM El Yunque, eSIM Caguas, eSIM Carolina, paket eSIM Puerto Rico
+  low_price: 6.99
+  high_price: 64.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -61,7 +61,7 @@ features:
   - icon: wifi
     color: from-purple-400 to-purple-600
     title: Hotspot Didukung
-    desc: Bagikan data Puerto Rico Anda dengan teman perjalanan, tanpa batas
+    desc: Bagikan data Puerto Rico Anda dengan teman perjalanan lewat hotspot
   - icon: file-x
     color: from-rose-400 to-rose-600
     title: Tanpa Kontrak
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Pindah Otomatis
     desc: Terhubung otomatis ke operator top Puerto Rico untuk sinyal terbaik
-plans_title: 'Beli eSIM Puerto Rico: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Puerto Rico: Sesuaikan Kuota dengan Rencana Anda'
 plans_data:
   7 Hari:
   - spec: 1GB
@@ -147,7 +147,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Puerto Rico: Cakupan Jaringan & Perbandingan Operator'
+  title: 'Cakupan eSIM Puerto Rico: Panduan Jaringan Airtel, Jio & Vi'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -178,7 +178,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Puerto Rico: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips eSIM Puerto Rico: Agar Langsung Terhubung di Tempat Tujuan'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -197,7 +197,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Puerto Rico: 3 Langkah Mudah'
+  title: 'Aktivasi eSIM Puerto Rico dalam Beberapa Menit'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -217,12 +217,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Seberapa Cepat Internet eSIM di Puerto Rico? Kecepatan dan Cakupan untuk Wisatawan"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Puerto Rico. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Puerto Rico. Cari tahu kecepatan apa yang diharapkan di Roma, Venesia, dan Florence — dan bagaimana menghindari jebakan Codice Fiscale."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Puerto Rico
+    title: Pertanyaan Wisatawan tentang eSIM Puerto Rico
     questions:
     - q: |
         Jaringan mana di Puerto Rico yang memiliki cakupan terbaik untuk wisatawan — Claro, AT&T, atau T-Mobile?
@@ -237,9 +237,9 @@ faq_section:
       a: |
         Benar — eSIM Puerto Rico tidak memerlukan verifikasi paspor atau KTP. Kartu prabayar Puerto Rico biasanya TIDAK memerlukan KYC. Cukup beli, instal, dan Anda online. Tidak perlu mengunggah dokumen, tidak perlu menunggu persetujuan. Instal sebelum berangkat, aktifkan Roaming Data saat tiba, dan Anda siap.
     - q: |
-        Apa perbedaan antara paket 5GB dan paket tak terbatas untuk Puerto Rico?
+        Apa perbedaan antara paket 5GB dan paket kuota besar untuk Puerto Rico?
       a: |
-        Paket 5GB memberi Anda jumlah data kecepatan tinggi tetap (total 5GB). Setelah habis, Anda isi ulang atau beli paket baru. Paket tak terbatas terus menyediakan data, tetapi kecepatan dapat berkurang setelah 30GB dalam sehari di bawah kebijakan penggunaan wajar. Untuk sebagian besar wisatawan yang menggunakan peta, pesan, dan media sosial, paket 5GB sudah cukup.
+        Paket 5GB memberi Anda jumlah data kecepatan tinggi tetap (total 5GB). Setelah habis, Anda isi ulang atau beli paket baru. Paket kuota besar terus menyediakan data, tetapi kecepatan dapat berkurang setelah 30GB dalam sehari di bawah kebijakan penggunaan wajar. Untuk sebagian besar wisatawan yang menggunakan peta, pesan, dan media sosial, paket 5GB sudah cukup.
     - q: |
         Apakah eSIM Puerto Rico berfungsi di daerah pedesaan dan kota kecil?
       a: |
@@ -256,55 +256,67 @@ faq_section:
         Bagaimana jika saya secara tidak sengaja menghapus eSIM Puerto Rico saya sebelum perjalanan?
       a: |
         Tidak masalah. Masuk ke akun Roami Anda untuk mengunduh ulang kode QR — memakan waktu sekitar 1 menit. Kami sarankan menyimpannya sebagai tangkapan layar atau PDF saat pertama kali menerimanya, untuk berjaga-jaga.
+    - q: |
+        Apakah eSIM Roami Puerto Rico memakai jaringan Claro Puerto Rico?
+      a: |
+        Tentu. eSIM Roami bekerja di jaringan Claro Puerto Rico tanpa registrasi tambahan; jaringan dipilih otomatis untuk sinyal terbaik, baik di San Juan maupun saat Anda melanjutkan perjalanan ke kota lain di Puerto Rico.
+    - q: |
+        Cukupkah paket termurah untuk pemakaian saya di Ponce?
+      a: |
+        Paket mulai $6.99 sudah menutupi navigasi, pesan, dan media sosial selama Anda berada di Ponce. Aktivasi dilakukan sekali sebelum berangkat, jadi tidak ada antrean di bandara.
+    - q: |
+        Apakah paket 5GB cukup untuk perjalanan 30 hari di Puerto Rico dan kota seperti San Juan?
+      a: |
+        Untuk perjalanan 30 hari, paket 5GB seharga $23.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di San Juan. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket 30GB seharga $64.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1,99
+  - name: eSIM Ukraina
+    flag: img/flags/ua.svg
+    price: Mulai $1.99
+    is_highlight: true
+  - name: eSIM UAE
+    flag: img/flags/ae.svg
+    price: Mulai $3.99
     is_highlight: false
   - name: eSIM Inggris
     flag: img/flags/gb.svg
-    price: Mulai $1,99
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Mulai $1,99
-    is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Mulai $1,99
+  - name: eSIM AS
+    flag: img/flags/us.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1,99
+  - name: eSIM Uruguay
+    flag: img/flags/uy.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1,99
+  - name: eSIM Uzbekistan
+    flag: img/flags/uz.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1,99
+  - name: eSIM Vatikan
+    flag: img/flags/va.svg
+    price: Mulai $10.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1,99
+  - name: eSIM Vietnam
+    flag: img/flags/vn.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1,99
+  - name: eSIM Afghanistan
+    flag: img/flags/af.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1,99
+  - name: eSIM Albania
+    flag: img/flags/al.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1,99
+  - name: eSIM Aljazair
+    flag: img/flags/dz.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1,99
+  - name: eSIM Andorra
+    flag: img/flags/ad.svg
+    price: Mulai $6.99
     is_highlight: false
 ---

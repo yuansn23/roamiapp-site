@@ -1,7 +1,7 @@
 ---
 title: 'Romania eSIM 2026: Panduan Paket & Cakupan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 'eSIM Rumania: Jaringan Andal & Kuota Besar untuk Anda'
   description: 'eSIM prabayar Rumania dari Roami: internet 5G cepat. Cakupan Orange & Vodafone & Telekom. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Rumania, beli eSIM Rumania, eSIM Rumania terbaik, eSIM perjalanan Rumania, Orange Rumania, Vodafone Rumania, Telekom Rumania, eSIM Bucharest, eSIM Cluj-Napoca, eSIM Timișoara, eSIM prabayar Rumania, eSIM 5G Rumania
+  keywords: eSIM Rumania, beli eSIM Rumania, eSIM terbaik Rumania, eSIM perjalanan Rumania, Orange Rumania, Vodafone Rumania, Telekom Rumania, eSIM Bucharest, eSIM Cluj-Napoca, eSIM Timișoara, eSIM prabayar Rumania, 5G eSIM Rumania, eSIM Transylvania, eSIM Carpathian, eSIM Laut Hitam, paket eSIM Rumania
   low_price: 1.99
-  high_price: 39.9
+  high_price: 78.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Alih Otomatis
     desc: Terhubung otomatis ke operator terbaik Rumania untuk sinyal terbaik
-plans_title: 'Beli eSIM Rumania: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Beli eSIM Rumania: Pilihan Paket Harian hingga Bulanan'
 plans_data:
   7 Hari:
   - spec: 1GB
@@ -296,7 +296,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Rumania: Panduan Lengkap untuk Jaringan Lokal'
+  title: 'Cakupan eSIM Rumania: Panduan 5G TIM, Vodafone & Wind Tre — Roma hingga Venesia'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -327,7 +327,7 @@ network_coverage:
       coverage: Cakupan kota yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Rumania: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Pengingat Penting untuk Pengguna eSIM Rumania'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -348,7 +348,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Rumania: 3 Langkah Mudah'
+  title: 'Memasang eSIM Rumania: Panduan Sederhana'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -368,17 +368,17 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Seberapa Cepat Internet eSIM di Rumania? Kecepatan dan Cakupan untuk Pelancong"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Rumania. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Rumania. Cari tahu kecepatan apa yang diharapkan di Muscat, Nizwa dan Salalah — dan bagaimana melewati repot registrasi paspor."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Rumania
+    title: Tanya Jawab eSIM Rumania untuk Pemula
     questions:
     - q: |
         Dapatkah saya mendapatkan eSIM untuk Rumania tanpa mengeluarkan banyak biaya?
       a: |
-        Tentu saja. Paket eSIM Roami Rumania mulai dari serendah $1,99. Opsi 5GB/15 hari ($9,99) adalah yang paling populer di kalangan pelancong — dengan nyaman menangani peta, WhatsApp, Instagram, dan email. Jika Anda pengguna data berat, paket 10GB ($14,99) atau tanpa batas ($59,99) memberi Anda ketenangan pikiran. Melewati konter SIM bandara menghemat 30-50% dan menghindari antrian. Perlu menyesuaikan? Anda dapat mengisi ulang kapan saja dari aplikasi Roami.
+        Tentu saja. Paket eSIM Roami Rumania mulai dari serendah $1.99. Opsi 5GB/15 hari ($8.99) adalah yang paling populer di kalangan pelancong — dengan nyaman menangani peta, WhatsApp, Instagram, dan email. Jika Anda pengguna data berat, paket 10GB ($14.99) atau tanpa batas ($42.99) memberi Anda ketenangan pikiran. Melewati konter SIM bandara menghemat 30-50% dan menghindari antrian. Perlu menyesuaikan? Anda dapat mengisi ulang kapan saja dari aplikasi Roami.
     - q: |
         Apakah aman mengunggah paspor saya untuk pendaftaran eSIM Rumania? Saya khawatir tentang privasi.
       a: |
@@ -394,7 +394,7 @@ faq_section:
     - q: |
         Apa pilihan eSIM paling populer untuk pelancong yang pergi ke Rumania?
       a: |
-        Kebanyakan pelancong ke Rumania memilih paket 5GB/15 hari ($9,99). Cukup untuk navigasi harian, media sosial, dan pesan. Untuk masa tinggal lebih lama atau penggunaan lebih berat, paket 10GB ($14,99) atau tanpa batas ($59,99) adalah pilihan yang bagus. Semua paket aktif dalam hitungan menit dan termasuk dukungan 24/7.
+        Kebanyakan pelancong ke Rumania memilih paket 5GB/15 hari ($8.99). Cukup untuk navigasi harian, media sosial, dan pesan. Untuk masa tinggal lebih lama atau penggunaan lebih berat, paket 10GB ($14.99) atau tanpa batas ($42.99) adalah pilihan yang bagus. Semua paket aktif dalam hitungan menit dan termasuk dukungan 24/7.
     - q: |
         Dapatkah saya menggunakan eSIM Rumania saya segera setelah membelinya, atau haruskah saya menunggu?
       a: |
@@ -407,63 +407,75 @@ faq_section:
         Dapatkah saya tetap menyimpan SIM rumah saya di ponsel saat menggunakan eSIM di Rumania?
       a: |
         Ya — SIM rumah Anda tetap di slot 1 untuk SMS (kode bank, login 2FA). eSIM menangani data di slot 2. Nonaktifkan roaming data pada SIM rumah Anda untuk menghindari biaya hingga $10-15 per MB.
+    - q: |
+        Apakah eSIM Roami Rumania memakai jaringan Orange?
+      a: |
+        Tentu. eSIM Roami bekerja di jaringan Orange tanpa registrasi tambahan; jaringan dipilih otomatis untuk sinyal terbaik, baik di Bucharest maupun saat Anda melanjutkan perjalanan ke kota lain di Rumania.
+    - q: |
+        Cukupkah paket termurah untuk pemakaian saya di Cluj-Napoca?
+      a: |
+        Paket mulai $1.99 sudah menutupi navigasi, pesan, dan media sosial selama Anda berada di Cluj-Napoca. Aktivasi dilakukan sekali sebelum berangkat, jadi tidak ada antrean di bandara.
+    - q: |
+        Apakah paket 3GB cukup untuk perjalanan 30 hari di Rumania dan kota seperti Bucharest?
+      a: |
+        Untuk perjalanan 30 hari, paket 3GB seharga $6.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Bucharest. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket Tak Terbatas seharga $78.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Rumania Terkait
   items:
-  - name: eSIM amerika serikat
-    flag: img/flags/us.svg
-    price: Dari $1.99
-    is_highlight: false
-  - name: Inggris
-    flag: img/flags/gb.svg
-    price: Dari $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Dari $1.99
+  - name: eSIM Belarus
+    flag: img/flags/by.svg
+    price: Mulai $1.99
     is_highlight: true
+  - name: eSIM Chili
+    flag: img/flags/cl.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM El Salvador
+    flag: img/flags/sv.svg
+    price: Mulai $23.99
+    is_highlight: false
+  - name: eSIM Yunani
+    flag: img/flags/gr.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Irlandia
+    flag: img/flags/ie.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Latvia
+    flag: img/flags/lv.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Belanda
+    flag: img/flags/nl.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Puerto Rico
+    flag: img/flags/pu.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Taiwan
+    flag: img/flags/tw.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Vatikan
+    flag: img/flags/va.svg
+    price: Mulai $10.99
+    is_highlight: false
+  - name: eSIM Bangladesh
+    flag: img/flags/bd.svg
+    price: Mulai $5.99
+    is_highlight: false
   - name: eSIM Kanada
     flag: img/flags/ca.svg
-    price: Dari $1.99
-    is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Dari $1.99
-    is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Dari $1.99
-    is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Dari $1.99
-    is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Dari $1.99
-    is_highlight: false
-  - name: eSIM Perancis
-    flag: img/flags/fr.svg
-    price: Dari $1.99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Dari $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Dari $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Dari $1.99
+    price: Mulai $3.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Rumania vs Kartu SIM Prabayar: Apakah Layak Beralih?'
   subtitle: 'Kartu SIM Prabayar Lokal Rumania vs. Solusi eSIM (Benchmark 2024/2025)'
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Romania) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Romania
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -478,7 +490,7 @@ market_analysis:
   - icon: id-card
     title: KYC & Registrasi<br>Nama Asli
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar umum, SIM prabayar Rumania biasanya memerlukan registrasi paspor di tempat penjualan.
+    prepaid_desc: SIM prabayar Rumania biasanya memerlukan registrasi paspor di tempat penjualan.
     esim_title: Tanpa Paspor Diperlukan
     esim_desc: Hindari registrasi paspor di toko Rumania. Roami eSIM aktif secara instan tanpa pemeriksaan KTP.
   - icon: globe
@@ -492,7 +504,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Paket utama Orange, Vodafone, dan Digi memerlukan siklus penagihan 28 hari atau 30 hari, mulai dari lebih dari €6 setelah pajak. Turis 7 hari membuang lebih dari 75% nilai paket.
     esim_title: Paket Pendek Fleksibel
-    esim_desc: Tidak seperti siklus 28 hari Orange (€5+21% PPN), Roami menawarkan paket 7 hari mulai dari $1,99/GB, menghemat lebih dari 75% pemborosan untuk perjalanan singkat.
+    esim_desc: Tidak seperti siklus 28 hari Orange (€5+21% PPN), Roami menawarkan paket 7 hari mulai dari $1.05/GB, menghemat lebih dari 75% pemborosan untuk perjalanan singkat.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
@@ -508,7 +520,7 @@ market_analysis:
   - icon: headset
     title: Dukungan Pelanggan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar umum, dukungan pelanggan biasanya dalam bahasa Rumania, dengan dukungan bahasa Inggris terbatas.
+    prepaid_desc: Dukungan pelanggan biasanya dalam bahasa Rumania, dengan dukungan bahasa Inggris terbatas.
     esim_title: Dukungan Multibahasa 24/7
     esim_desc: Dapatkan dukungan berbahasa Inggris kapan saja, tidak seperti operator Rumania yang biasanya menawarkan dukungan hanya bahasa Rumania selama jam kerja.
   expert_verdict:

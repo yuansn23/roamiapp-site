@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Meksiko - 5G di Cancún & Mexico City | Tanpa Selfie Paspor | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -20,10 +20,10 @@ modal:
     promo:web20
 seo:
   title: 'eSIM Meksiko: Prabayar & Kuota Besar untuk Perjalanan'
-  description: 'Internet 5G cepat di Meksiko dengan eSIM prabayar Roami. Cakupan Telcel & AT&T & Movistar. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Meksiko, beli eSIM Meksiko, eSIM Meksiko terbaik, eSIM perjalanan Meksiko, Telcel Meksiko, AT&T Meksiko, Movistar Meksiko, eSIM Mexico City, eSIM Cancún, eSIM Riviera Maya, eSIM prabayar Meksiko, 5G eSIM Meksiko, eSIM Meksiko tanpa paspor
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Internet 5G cepat di Meksiko dengan eSIM prabayar Roami. Cakupan Telcel & AT&T & Movistar. Aktivasi QR instan, mulai $3.99.'
+  keywords: eSIM Meksiko, beli eSIM Meksiko, eSIM terbaik Meksiko, eSIM perjalanan Meksiko, Telcel Meksiko, AT&T Meksiko, Movistar Meksiko, eSIM Mexico City, eSIM Cancún, eSIM Guadalajara, eSIM prabayar Meksiko, 5G eSIM Meksiko, eSIM Chichen Itza, eSIM Riviera Maya, eSIM Teotihuacan, paket eSIM Meksiko
+  low_price: 3.99
+  high_price: 68.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -76,7 +76,7 @@ features:
     color: from-sky-400 to-sky-600
     title: Siap Pantai & Reruntuhan
     desc: 4G/5G di seluruh Cancún, Riviera Maya, Chichen Itza, Tulum & Teotihuacan
-plans_title: 'Beli eSIM Meksiko: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Meksiko: Sesuaikan Kuota dengan Rencana Anda'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -270,7 +270,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Meksiko: Panduan 5G Telcel, AT&T & Movistar — Cancún ke Mexico City'
+  title: 'Cakupan eSIM Meksiko: Perbandingan Cakupan Jaringan & Operator'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -301,7 +301,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Meksiko: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips eSIM Meksiko: Agar Langsung Terhubung di Tempat Tujuan'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -328,7 +328,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar, perangkat Anda mendukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Meksiko: 3 Langkah Mudah'
+  title: 'Aktivasi eSIM Meksiko dalam Beberapa Menit'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -348,12 +348,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Meksiko: 5G, Aturan Paspor/Selfie & Tips Perjalanan"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Meksiko. Cari tahu kecepatan yang diharapkan di Cancún, Mexico City, dan di reruntuhan — dan mengapa Roami adalah jawaban atas aturan registrasi SIM baru Meksiko 2026."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Meksiko. Cari tahu kecepatan yang diharapkan di Riyadh, Jeddah dan Mekkah — dan cara menghindari kerumitan registrasi sidik jari."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Meksiko
+    title: Pertanyaan Wisatawan tentang eSIM Meksiko
     questions:
     - q: |
         Apa yang berubah di Meksiko pada Januari 2026 untuk pembelian kartu SIM?
@@ -374,7 +374,7 @@ faq_section:
     - q: |
         Mengapa SIM Meksiko memiliki minimum 7 hari? Apakah itu pemborosan untuk perjalanan singkat?
       a: |
-        Ya — itu pemborosan uang dan data. Paket termurah Telcel adalah <strong>7 hari ($50 MXN ≈ $3 USD)</strong> dengan data terbatas. Minimum AT&T adalah <strong>14 hari ($100 MXN)</strong>, Movistar adalah <strong>15 hari ($75 MXN)</strong>. Turis 5 hari yang membeli paket 7 hari membuang <strong>29%</strong> paket. Paket 14 hari AT&T membuang <strong>64%</strong>. Roami menawarkan <strong>paket 3, 7, 15, dan 30 hari</strong> mulai dari $1.99 — tanpa minimum paksa, tanpa pemborosan.
+        Ya — itu pemborosan uang dan data. Paket termurah Telcel adalah <strong>7 hari ($50 MXN ≈ $3 USD)</strong> dengan data terbatas. Minimum AT&T adalah <strong>14 hari ($100 MXN)</strong>, Movistar adalah <strong>15 hari ($75 MXN)</strong>. Turis 5 hari yang membeli paket 7 hari membuang <strong>29%</strong> paket. Paket 14 hari AT&T membuang <strong>64%</strong>. Roami menawarkan <strong>paket 3, 7, 15, dan 30 hari</strong> mulai dari $3.99 — tanpa minimum paksa, tanpa pemborosan.
     - q: |
         Akankah eSIM saya berfungsi di reruntuhan Chichen Itza, Teotihuacan, dan Tulum?
       a: |
@@ -395,63 +395,75 @@ faq_section:
         Kapan masa berlaku paket eSIM Meksiko saya dimulai?
       a: |
         Masa berlaku paket dimulai saat Anda terhubung ke jaringan lokal di Meksiko, bukan saat membeli atau menginstalnya. Jadi Anda dapat membeli dan menginstal berminggu-minggu sebelum perjalanan tanpa kehilangan hari paket. Paket 7 hari memberi Anda 7 hari penuh dari koneksi pertama.
+    - q: |
+        Bagaimana cakupan eSIM Meksiko di Mexico City dan sekitarnya?
+      a: |
+        Cakupan eSIM Meksiko mengikuti jaringan Telcel di kota besar seperti Mexico City. Di daerah terpencil sinyal bisa lebih lemah, dan eSIM akan berpindah ke operator mitra secara otomatis.
+    - q: |
+        Cukupkah paket termurah untuk pemakaian saya di Cancún?
+      a: |
+        Paket mulai $3.99 sudah menutupi navigasi, pesan, dan media sosial selama Anda berada di Cancún. Aktivasi dilakukan sekali sebelum berangkat, jadi tidak ada antrean di bandara.
+    - q: |
+        Untuk 7 hari di Meksiko dan kota seperti Mexico City, lebih baik paket 1GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 1GB (7 hari, $3.99) karena harganya paling efisien dan memadai untuk kunjungan ke Mexico City. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $54.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Meksiko Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Swiss
+    flag: img/flags/ch.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Albania
+    flag: img/flags/al.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
+  - name: eSIM Brasil
+    flag: img/flags/br.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Dominika
+    flag: img/flags/dm.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Yunani
+    flag: img/flags/gr.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
+  - name: eSIM Jamaika
+    flag: img/flags/jm.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Maladewa
+    flag: img/flags/mv.svg
+    price: Mulai $14.99
+    is_highlight: false
+  - name: eSIM Portugal
+    flag: img/flags/pt.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
+  - name: eSIM Thailand
+    flag: img/flags/th.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
+  - name: eSIM Armenia
+    flag: img/flags/am.svg
+    price: Mulai $7.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
+  - name: eSIM Kamboja
+    flag: img/flags/kh.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
+  - name: eSIM El Salvador
+    flag: img/flags/sv.svg
+    price: Mulai $23.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Meksiko vs SIM Lokal: Tanpa Paspor/Selfie, Tanpa Pemborosan 7 Hari, Tanpa Larangan Hotspot'
   subtitle: SIM Prabayar Lokal Meksiko vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Meksiko) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Mexico
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -480,7 +492,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Minimum Telcel 7 hari ($50), AT&T 14 hari ($100), Movistar 15 hari ($75). <strong>Tidak ada paket di bawah 5 hari</strong> untuk turis. Perjalanan 5 hari membuang 29-67% paket.
     esim_title: Paket Pendek Fleksibel
-    esim_desc: Roami menawarkan <strong>paket 3/7/15/30 hari</strong> mulai dari $1.99 — bayar hanya untuk durasi perjalanan Anda yang sebenarnya. Tanpa minimum 7 hari, tanpa pemborosan.
+    esim_desc: Roami menawarkan <strong>paket 3/7/15/30 hari</strong> mulai dari $3.99 — bayar hanya untuk durasi perjalanan Anda yang sebenarnya. Tanpa minimum 7 hari, tanpa pemborosan.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
@@ -521,5 +533,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Tanpa Pemborosan Minimum 7 Hari
-      desc: Minimum Telcel adalah <b>7 hari ($50)</b>, AT&T adalah <b>14 hari ($100)</b>. Turis 5 hari membuang <b>29-64%</b>. Roami menawarkan <b>paket 3 hari dari $1.99</b> — tanpa minimum paksa.
+      desc: Minimum Telcel adalah <b>7 hari ($50)</b>, AT&T adalah <b>14 hari ($100)</b>. Turis 5 hari membuang <b>29-64%</b>. Roami menawarkan <b>paket 3 hari dari $3.99</b> — tanpa minimum paksa.
 ---

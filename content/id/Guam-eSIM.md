@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Guam 2026: Panduan Paket & Cakupan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -20,11 +20,10 @@ modal:
     promo:web20
 seo:
   title: 'eSIM Guam: Prabayar & Data Melimpah untuk Wisata'
-  description: 'Roami: eSIM prabayar Guam dengan jaringan 5G cepat. Cakupan DOCOMO Pacific & IT&E & GTA. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Guam, beli eSIM Guam, eSIM Guam terbaik, eSIM perjalanan Guam, DOCOMO Pacific Guam, IT&E Guam, GTA Guam, eSIM Hagåtña,
-    eSIM Tamuning, eSIM Dededo, eSIM prabayar Guam, 5G eSIM Guam
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Roami: eSIM prabayar Guam dengan jaringan 5G cepat. Cakupan DOCOMO Pacific & IT&E & GTA. Aktivasi QR instan, mulai $9.99.'
+  keywords: eSIM Guam, beli eSIM Guam, eSIM Guam terbaik, eSIM perjalanan Guam, DOCOMO Pacific Guam, IT&E Guam, GTA Guam, eSIM Hagåtña, eSIM Tamuning, eSIM Dededo, eSIM prabayar Guam, eSIM 5G Guam, eSIM Tumon Bay, eSIM Two Lovers Point, eSIM Micronesia Mall, paket eSIM Guam
+  low_price: 9.99
+  high_price: 88.99
 order_summary:
   title: Paket Terpilih
   label_data: Data Termasuk
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Pengalihan Otomatis
     desc: Terhubung otomatis ke operator Guam terbaik untuk sinyal terbaik
-plans_title: 'Beli eSIM Guam: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Beli eSIM Guam: Pilihan Paket Harian hingga Bulanan'
 plans_data:
   30 Hari:
   - spec: 3GB
@@ -144,7 +143,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Guam: Panduan Lengkap Jaringan Lokal'
+  title: 'Cakupan eSIM Guam: Panduan Jaringan Telstra, Optus & TPG'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -177,7 +176,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Guam: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Pengingat Penting untuk Pengguna eSIM Guam'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -198,7 +197,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Guam: 3 Langkah Mudah'
+  title: 'Memasang eSIM Guam: Panduan Sederhana'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -220,12 +219,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM di Guam -- Apakah Koneksi Cepat dan Andal untuk Wisatawan?"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Guam. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Guam. Cari tahu kecepatan yang diharapkan dan cara menghindari kerumitan registrasi CPF."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Guam
+    title: Tanya Jawab eSIM Guam untuk Pemula
     questions:
     - q: |
         Apakah aman mengunggah paspor saya untuk registrasi eSIM Guam? Saya khawatir tentang privasi.
@@ -250,7 +249,7 @@ faq_section:
     - q: |
         Saya bepergian ke Guam hanya selama 2-3 hari. eSIM apa yang harus saya dapatkan?
       a: |
-        Untuk perjalanan singkat, paket 1GB/7 hari ($1.99) mencakup peta dan pesan. Jika Anda berencana menggunakan media sosial dan berbagi foto, paket 3GB ($4.99) memberi lebih banyak ruang. Keduanya aktif secara instan dan Anda dapat mengisi ulang jika diperlukan.
+        Untuk perjalanan singkat, paket 1GB/7 hari ($9.99) mencakup peta dan pesan. Jika Anda berencana menggunakan media sosial dan berbagi foto, paket 3GB ($22.99) memberi lebih banyak ruang. Keduanya aktif secara instan dan Anda dapat mengisi ulang jika diperlukan.
     - q: |
         Bisakah saya memeriksa berapa banyak data yang telah saya gunakan pada eSIM Guam saya?
       a: |
@@ -259,55 +258,67 @@ faq_section:
         Berapa banyak profil eSIM yang dapat saya simpan di ponsel untuk perjalanan ke Guam?
       a: |
         Sebagian besar ponsel dapat menyimpan 5-10 profil eSIM. Anda dapat menyimpan eSIM Guam bersama SIM rumah dan profil negara lainnya. Cukup aktifkan yang Anda butuhkan dan nonaktifkan yang lain. Beralih di antara mereka memakan waktu sekitar 10 detik di pengaturan ponsel Anda.
+    - q: |
+        Jaringan apa yang dipakai eSIM Guam saat saya berada di Hagåtña?
+      a: |
+        eSIM Guam memakai jaringan DOCOMO Pacific dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area Hagåtña koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Cukupkah paket termurah untuk pemakaian saya di Tamuning?
+      a: |
+        Paket mulai $9.99 sudah menutupi navigasi, pesan, dan media sosial selama Anda berada di Tamuning. Aktivasi dilakukan sekali sebelum berangkat, jadi tidak ada antrean di bandara.
+    - q: |
+        Untuk 30 hari di Guam dan kota seperti Hagåtña, lebih baik paket 3GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 3GB (30 hari, $22.99) karena harganya paling efisien dan memadai untuk kunjungan ke Hagåtña. Jika perjalanan Anda padat data, paket 10GB seharga $67.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Guam Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: From $1.99
+  - name: eSIM Tunisia
+    flag: img/flags/tn.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: From $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: From $1.99
+  - name: eSIM Belgia
+    flag: img/flags/be.svg
+    price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: From $1.99
+  - name: eSIM El Salvador
+    flag: img/flags/sv.svg
+    price: Mulai $23.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: From $1.99
+  - name: eSIM Irak
+    flag: img/flags/iq.svg
+    price: Mulai $9.99
     is_highlight: false
-  - name: eSIM Tiongkok
-    flag: img/flags/cn.svg
-    price: From $1.99
+  - name: eSIM Meksiko
+    flag: img/flags/mx.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: From $1.99
+  - name: eSIM Asia Tenggara
+    flag: img/flags/ya.webp
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: From $1.99
+  - name: eSIM Austria
+    flag: img/flags/at.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: From $1.99
+  - name: eSIM Siprus
+    flag: img/flags/cy.svg
+    price: Mulai $2.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: From $1.99
+  - name: eSIM Guyana
+    flag: img/flags/gy.svg
+    price: Mulai $9.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: From $1.99
+  - name: eSIM Luksemburg
+    flag: img/flags/lu.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: eSIM Rumania
+    flag: img/flags/ro.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Afghanistan
+    flag: img/flags/af.svg
+    price: Mulai $11.99
     is_highlight: false
 ---

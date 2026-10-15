@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Guadeloupe 2026: Panduan Kota & Jaringan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIM</strong>.<br>Pelanggan baru menikmati diskon 20%, kode promo:web20
 seo:
   title: 'eSIM Guadeloupe: Prabayar & Kuota Besar untuk Wisata'
-  description: 'Paket internet Guadeloupe dari Roami: 5G cepat & prabayar. Cakupan Orange & SFR & Free Mobile. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Guadeloupe, beli eSIM Guadeloupe, eSIM terbaik Guadeloupe, eSIM perjalanan Guadeloupe, Orange Guadeloupe, SFR Guadeloupe, Free Mobile Guadeloupe, eSIM Pointe-à-Pitre, eSIM Basse-Terre, eSIM Le Gosier, eSIM prabayar Guadeloupe, eSIM 5G Guadeloupe
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Paket internet Guadeloupe dari Roami: 5G cepat & prabayar. Cakupan Orange & SFR & Free Mobile. Aktivasi QR instan, mulai $8.99.'
+  keywords: eSIM Guadeloupe, beli eSIM Guadeloupe, eSIM Guadeloupe terbaik, eSIM perjalanan Guadeloupe, Orange Guadeloupe, SFR Guadeloupe, Free Mobile Guadeloupe, eSIM Pointe-à-Pitre, eSIM Basse-Terre, eSIM Le Gosier, eSIM prabayar Guadeloupe, eSIM 5G Guadeloupe, eSIM La Soufrière, eSIM island hopping, eSIM Kreol, paket eSIM Guadeloupe
+  low_price: 8.99
+  high_price: 64.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Ganti Otomatis
     desc: Terhubung otomatis ke operator Guadeloupe terbaik untuk sinyal terkuat
-plans_title: 'Beli eSIM Guadeloupe: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Guadeloupe: Temukan Kuota yang Paling Pas'
 plans_data:
   7 Hari:
   - spec: 1GB
@@ -131,7 +131,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Guadeloupe: Panduan Operator Jaringan Seluler'
+  title: 'Jangkauan eSIM Guadeloupe: Panduan Operator & Peta Jangkauan'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -162,7 +162,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Guadeloupe: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Yang Perlu Anda Siapkan Sebelum Memakai eSIM Guadeloupe'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -181,7 +181,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Guadeloupe: 3 Langkah Mudah'
+  title: 'Panduan Lengkap Aktivasi eSIM Guadeloupe'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -201,12 +201,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Kecepatan Internet Apa yang Dapat Anda Harapkan dengan eSIM di Guadeloupe?"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Guadeloupe. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, jangkauan jaringan, dan kualitas koneksi untuk pelancong di Guadeloupe. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Guadeloupe
+    title: Pertanyaan Umum seputar eSIM Guadeloupe
     questions:
     - q: |
         Bagaimana perbandingan Roami dengan Maya untuk eSIM di Guadeloupe?
@@ -235,60 +235,72 @@ faq_section:
     - q: |
         Bagaimana jika hotel saya di Guadeloupe memiliki WiFi gratis — apakah saya masih memerlukan data eSIM?
       a: |
-        WiFi hotel berfungsi di kamar Anda tetapi tidak saat Anda sedang menjelajah. eSIM memberi Anda data di mana saja — menavigasi jalan, mencari tempat terdekat, memeriksa jadwal transportasi. Paket 5GB berharga $9.99, yang seringkali lebih murah daripada WiFi hotel berbayar selama seminggu ($10-15 di banyak hotel). Sebagian besar pelancong menggunakan WiFi hotel untuk unduhan besar dan eSIM untuk konektivitas saat bepergian.
+        WiFi hotel berfungsi di kamar Anda tetapi tidak saat Anda sedang menjelajah. eSIM memberi Anda data di mana saja — menavigasi jalan, mencari tempat terdekat, memeriksa jadwal transportasi. Paket 1GB berharga $8.99, jauh lebih hemat daripada menyewa WiFi saku selama seminggu. Sebagian besar pelancong menggunakan WiFi hotel untuk unduhan besar dan eSIM untuk konektivitas saat bepergian.
     - q: |
         Saya bepergian ke Guadeloupe hanya selama 2-3 hari. eSIM apa yang harus saya dapatkan?
       a: |
-        Untuk perjalanan singkat, paket 1GB/7 hari ($1.99) mencakup peta dan perpesanan. Jika Anda berencana menggunakan media sosial dan berbagi foto, paket 3GB ($4.99) memberi ruang lebih lega. Keduanya aktif secara instan dan Anda dapat menambah kuota jika diperlukan.
+        Untuk perjalanan singkat, paket 1GB/7 hari ($8.99) mencakup peta dan perpesanan. Jika Anda berencana menggunakan media sosial dan berbagi foto, paket 3GB ($14.99) memberi ruang lebih lega. Keduanya aktif secara instan dan Anda dapat menambah kuota jika diperlukan.
+    - q: |
+        Bagaimana cakupan eSIM Guadeloupe di Pointe-à-Pitre dan sekitarnya?
+      a: |
+        Cakupan eSIM Guadeloupe mengikuti jaringan Orange di kota besar seperti Pointe-à-Pitre. Di daerah terpencil sinyal bisa lebih lemah, dan eSIM akan berpindah ke operator mitra secara otomatis.
+    - q: |
+        Cukupkah paket termurah untuk pemakaian saya di Basse-Terre?
+      a: |
+        Paket mulai $8.99 sudah menutupi navigasi, pesan, dan media sosial selama Anda berada di Basse-Terre. Aktivasi dilakukan sekali sebelum berangkat, jadi tidak ada antrean di bandara.
+    - q: |
+        Untuk 30 hari di Guadeloupe dan kota seperti Pointe-à-Pitre, lebih baik paket 20GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 20GB (30 hari, $30.99) karena harganya paling efisien dan memadai untuk kunjungan ke Pointe-à-Pitre. Jika perjalanan Anda padat data, paket 10GB seharga $35.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Guadeloupe Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Inggris Raya
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Asia Tenggara
+    flag: img/flags/ya.webp
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Armenia
+    flag: img/flags/am.svg
+    price: Mulai $7.99
+    is_highlight: false
+  - name: eSIM Kolombia
+    flag: img/flags/co.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Gibraltar
+    flag: img/flags/gi.svg
+    price: Mulai $5.99
+    is_highlight: false
+  - name: eSIM Kosovo
+    flag: img/flags/xk.svg
+    price: Mulai $13.99
+    is_highlight: false
+  - name: eSIM Pakistan
+    flag: img/flags/pk.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Thailand
+    flag: img/flags/th.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
+  - name: eSIM Bangladesh
+    flag: img/flags/bd.svg
+    price: Mulai $5.99
+    is_highlight: false
+  - name: eSIM Denmark
+    flag: img/flags/dk.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Tiongkok
-    flag: img/flags/cn.svg
+  - name: eSIM Guyana
+    flag: img/flags/gy.svg
+    price: Mulai $9.99
+    is_highlight: false
+  - name: eSIM Liechtenstein
+    flag: img/flags/li.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
+  - name: eSIM Portugal
+    flag: img/flags/pt.svg
     price: Mulai $1.99
     is_highlight: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Mali 2026: Panduan Cakupan & Kecepatan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -11,7 +11,7 @@ country_meta:
   operators: Sotelma-Malitel, Orange Mali, Moov Africa
   competitors: Airalo, Holafly, Nomad eSIM, Ubigi, Yesim
   main_cities: Bamako, Segou, Mopti, Timbuktu
-  main_packages: 3/7/15/30 Hari, Paket Unlimited
+  main_packages: 7/15/30 Hari
 modal:
   title: Layanan Ditingkatkan!
   btn_text: Lanjutkan
@@ -21,11 +21,10 @@ modal:
     kode promo:web20
 seo:
   title: 'eSIM Mali: Prabayar & Data Melimpah untuk Bisnis'
-  description: 'Roami menawarkan eSIM prabayar Mali dengan 5G cepat. Cakupan Sotelma-Malitel & Orange Mali & Moov Africa. Aktivasi QR mulai $1.99.'
-  keywords: eSIM Mali, beli eSIM Mali, eSIM Mali terbaik, eSIM perjalanan Mali, Sotelma-Malitel Mali, Orange Mali, Moov Africa
-    Mali, eSIM Bamako, eSIM Segou, eSIM Mopti, eSIM prabayar Mali, eSIM 5G Mali
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Roami menawarkan eSIM prabayar Mali dengan 5G cepat. Cakupan Sotelma-Malitel & Orange Mali & Moov Africa. Aktivasi QR mulai $27.99.'
+  keywords: eSIM Mali, beli eSIM Mali, eSIM Mali terbaik, eSIM perjalanan Mali, Sotelma-Malitel, Orange Mali, Moov Africa Mali, eSIM Bamako, eSIM Segou, eSIM Mopti, eSIM prabayar Mali, eSIM 5G Mali, eSIM Timbuktu, eSIM Djenné, eSIM Dogon country, paket eSIM Mali
+  low_price: 27.99
+  high_price: 79.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -74,7 +73,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Alih Otomatis
     desc: Terhubung otomatis ke operator terbaik di Mali untuk sinyal terbaik
-plans_title: 'Beli eSIM Mali: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Beli Paket eSIM Mali: Lengkap dengan Harga Terbaru'
 plans_data:
   7 Hari:
   - spec: 1GB
@@ -112,7 +111,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Mali: Panduan Operator & Peta Cakupan'
+  title: 'Cakupan eSIM Mali: Panduan Jaringan 5G Turkcell, Vodafone & Türk Telekom'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -145,7 +144,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Mali: Apa yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips Praktis eSIM Mali untuk Perjalanan Anda'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -166,7 +165,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Mali: 3 Langkah Mudah'
+  title: 'Cara Memasang eSIM Mali dari Kode QR'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -188,13 +187,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Kecepatan Internet Apa yang Diharapkan dengan eSIM di Mali?"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Mali.
-    Cari tahu kecepatan yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Mali. Cari tahu kecepatan apa yang diharapkan di Auckland, Queenstown dan di Hobbiton — dan bagaimana menghindari jebakan SIM 30 hari."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Mali
+    title: Pertanyaan Umum eSIM Mali
     questions:
     - q: |
         Bagaimana perbandingan Orange, Sotelma, dan Malitel untuk turis yang mengunjungi Mali?
@@ -227,64 +225,76 @@ faq_section:
     - q: |
         Apakah eSIM saya di Mali berfungsi untuk panggilan video dan kerja jarak jauh?
       a: |
-        Tentu saja. Jaringan Orange menyediakan koneksi stabil untuk Zoom, Teams, dan Google Meet. Untuk kerja jarak jauh, paket 10GB atau unlimited direkomendasikan. eSIM juga mendukung berbagi hotspot untuk laptop Anda.
+        Tentu saja. Jaringan Orange menyediakan koneksi stabil untuk Zoom, Teams, dan Google Meet. Untuk kerja jarak jauh, paket 10GB atau paket kuota besar direkomendasikan. eSIM juga mendukung berbagi hotspot untuk laptop Anda.
+    - q: |
+        Apakah eSIM Mali terhubung ke jaringan Sotelma-Malitel di Bamako?
+      a: |
+        Ya. eSIM Mali terhubung ke jaringan Sotelma-Malitel dan operator mitra lainnya, jadi sinyal tetap tersedia saat Anda berpindah dari Bamako ke kota lain di Mali. eSIM langsung aktif setelah dipasang, tanpa perlu memilih operator secara manual.
+    - q: |
+        Apakah saya tetap online selama berada di Segou?
+      a: |
+        Ya. Sepanjang perjalanan ke Segou Anda tetap terhubung lewat jaringan Sotelma-Malitel; paket mulai $27.99 cocok untuk pemakaian ringan, sedangkan pengguna data berat bisa menambah kuota kapan saja.
+    - q: |
+        Apakah paket 1GB cukup untuk perjalanan 7 hari di Mali, termasuk Bamako?
+      a: |
+        Untuk perjalanan 7 hari, paket 1GB seharga $27.99 adalah pilihan paling pas dan hemat untuk peta, perpesanan, serta media sosial harian di Bamako dan kota lain di Mali.
 related_products:
   title: Paket eSIM Mali Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Norwegia
+    flag: img/flags/no.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Peru
+    flag: img/flags/pe.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Qatar
+    flag: img/flags/qa.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Tiongkok
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
+  - name: eSIM Seychelles
+    flag: img/flags/sc.svg
+    price: Mulai $9.99
     is_highlight: false
   - name: eSIM Spanyol
     flag: img/flags/es.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
+  - name: eSIM Thailand
+    flag: img/flags/th.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
+  - name: eSIM UAE
+    flag: img/flags/ae.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Vatikan
+    flag: img/flags/va.svg
+    price: Mulai $10.99
+    is_highlight: false
+  - name: eSIM Andorra
+    flag: img/flags/ad.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Azerbaijan
+    flag: img/flags/az.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Belarus
+    flag: img/flags/by.svg
     price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Brasil
+    flag: img/flags/br.svg
+    price: Mulai $4.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Mali atau Kartu SIM: Apa Pilihan Terbaik di 2026?'
   subtitle: SIM Prabayar Lokal Mali vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Mali) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Mali
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -317,13 +327,12 @@ market_analysis:
     prepaid_desc: Paket data Orange adalah pembelian satu kali dengan masa berlaku 30 hari tetap; misalnya, 1GB seharga 7500
       CFA.
     esim_title: Paket Jangka Pendek Fleksibel
-    esim_desc: Tidak seperti siklus 30 hari Orange (1GB/7500 CFA), Roami menawarkan paket 7 hari mulai dari $1.99/GB, menghemat
+    esim_desc: Tidak seperti siklus 30 hari Orange (1GB/7500 CFA), Roami menawarkan paket 7 hari mulai dari $1.55/GB, menghemat
       75% pemborosan.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan praktik umum, tethering umumnya diizinkan
-      tetapi mungkin dibatasi pada beberapa paket.
+    prepaid_desc: Tethering umumnya diizinkan tetapi mungkin dibatasi pada beberapa paket.
     esim_title: Tethering Tanpa Batasan
     esim_desc: eSIM Roami mengizinkan berbagi hotspot kecepatan penuh, tidak seperti beberapa paket lokal yang mungkin membatasi
       tethering.

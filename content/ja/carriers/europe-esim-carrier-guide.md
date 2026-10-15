@@ -73,7 +73,7 @@ Orange はフランス最大の事業者で、その **Holiday Europe** 回線�
 
 ### ドイツ プリペイドの基準：Telekom、Vodafone、そして格安層
 
-「1 つの支配的拠点」旅程には、ドイツのプリペイド市場が有用な基準です。それはヨーロッパ最大で、その価格ラダーが異常に透明だからです。当社の [ドイツ プリペイド価格ガイド](/blog/germany-esim-local-carriers-prepaid-guide) は現在の層を追っています。**Telekom MagentaMobil** は 5 GB で約 €20、10 GB で €30。**Vodafone CallYa** と **O2 Prepaid** は 10 GB で €12–15 付近。**Aldi Talk**、**Lidl Connect**、**congstar** などのスーパー ブランドは同じデータで €8–13 に着地します。
+「1 つの支配的拠点」旅程には、ドイツのプリペイド市場が有用な基準です。それはヨーロッパ最大で、その価格ラダーが異常に透明だからです。当社の [ドイツ プリペイド価格ガイド](/blog/germany-esim-local-carriers-prepaid-guide/) は現在の層を追っています。**Telekom MagentaMobil** は 5 GB で約 €20、10 GB で €30。**Vodafone CallYa** と **O2 Prepaid** は 10 GB で €12–15 付近。**Aldi Talk**、**Lidl Connect**、**congstar** などのスーパー ブランドは同じデータで €8–13 に着地します。
 
 | 層 | データ | おおよその価格 | 本人確認 |
 |:---|:---|:---|:---|

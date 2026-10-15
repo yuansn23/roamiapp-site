@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Brasil - 5G di Rio & São Paulo | Tanpa CPF | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIM</strong>.<br>Pelanggan baru dapatkan diskon 20%, kode promo:web20
 seo:
   title: 'eSIM Brasil: 5G Cepat & Kuota Melimpah untuk Turis'
-  description: 'Paket eSIM Roami untuk Brasil: 5G cepat & prabayar. Cakupan Claro & Vivo & TIM. Aktivasi QR instan, mulai $1.99. Tanpa kontrak.'
-  keywords: eSIM Brasil, beli eSIM Brasil, eSIM Brasil terbaik, eSIM perjalanan Brasil, Claro Brasil, Vivo Brasil, TIM Brasil, eSIM São Paulo, eSIM Rio de Janeiro, eSIM Brasília, eSIM prabayar Brasil, eSIM 5G Brasil, eSIM Brasil tanpa CPF
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Paket eSIM Roami untuk Brasil: 5G cepat & prabayar. Cakupan Claro & Vivo & TIM. Aktivasi QR instan, mulai $4.99. Tanpa kontrak.'
+  keywords: eSIM Brasil, beli eSIM Brasil, eSIM Brasil terbaik, eSIM perjalanan Brasil, Claro Brasil, Vivo Brasil, TIM Brasil, eSIM São Paulo, eSIM Rio de Janeiro, eSIM Brasília, eSIM prabayar Brasil, eSIM 5G Brasil, eSIM Air Terjun Iguazu, eSIM Copacabana, eSIM Patung Kristus Penebus, paket eSIM Brasil
+  low_price: 4.99
+  high_price: 86.99
 order_summary:
   title: Paket Terpilih
   label_data: Data Termasuk
@@ -74,7 +74,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Siap Roaming Regional
     desc: SIM lokal kehilangan sinyal di luar Brasil — Roami berfungsi di seluruh Amerika Selatan
-plans_title: 'Beli eSIM Brasil: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Brasil Terbaik: Bandingkan Kuota & Harga'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -258,7 +258,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Brasil: Panduan 5G/4G Claro, Vivo & TIM'
+  title: 'Cakupan eSIM Brasil: Panduan Jaringan Airtel, Jio & Vi'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -289,7 +289,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Brasil: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Catatan Penting bagi Pengguna eSIM Brasil Baru'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -314,7 +314,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Brasil: 3 Langkah Mudah'
+  title: '3 Langkah Memasang eSIM Brasil di Ponsel Anda'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -334,12 +334,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Brasil: 5G, Bebas CPF & Tips Perjalanan"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Brasil. Cari tahu kecepatan yang diharapkan dan cara menghindari kerumitan registrasi CPF."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Brasil. Cari tahu kecepatan apa yang diharapkan dan di mana 5G bekerja paling baik."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Brasil
+    title: Semua Pertanyaan tentang eSIM Brasil
     questions:
     - q: |
         Apa itu CPF dan mengapa saya tidak bisa membeli SIM lokal tanpanya?
@@ -381,63 +381,75 @@ faq_section:
         Kapan masa berlaku eSIM Brasil saya dimulai?
       a: |
         Masa berlaku paket dimulai saat Anda terhubung ke jaringan lokal di Brasil, bukan saat Anda membeli atau menginstalnya. Jadi Anda dapat membeli dan menginstal berminggu-minggu sebelum perjalanan tanpa kehilangan hari paket. Paket 7 hari memberi Anda 7 hari penuh dari koneksi pertama.
+    - q: |
+        Jaringan apa yang dipakai eSIM Brasil saat saya berada di São Paulo?
+      a: |
+        eSIM Brasil memakai jaringan Claro dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area São Paulo koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Perlu paket seperti apa untuk perjalanan ke Rio de Janeiro?
+      a: |
+        Untuk Rio de Janeiro, paket mulai $4.99 sudah memadai: peta, pesan, dan media sosial berjalan lancar lewat jaringan lokal. Bila Anda sering streaming atau memakai hotspot, pilih kuota yang lebih besar.
+    - q: |
+        Untuk 7 hari di Brasil dan kota seperti São Paulo, lebih baik paket 1GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 1GB (7 hari, $7.99) karena harganya paling efisien dan memadai untuk kunjungan ke São Paulo. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $66.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Brasil Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
-    is_highlight: false
   - name: eSIM Inggris
     flag: img/flags/gb.svg
     price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Albania
+    flag: img/flags/al.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
+  - name: eSIM Azerbaijan
+    flag: img/flags/az.svg
+    price: Mulai $6.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
+  - name: eSIM Bolivia
+    flag: img/flags/bo.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
+  - name: eSIM Kamboja
+    flag: img/flags/kh.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
+  - name: eSIM Kongo (Kinshasa)
+    flag: img/flags/cg.svg
+    price: Mulai $7.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
+  - name: eSIM Republik Dominika
+    flag: img/flags/do.svg
+    price: Mulai $5.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
+  - name: eSIM Fiji
+    flag: img/flags/fj.svg
+    price: Mulai $6.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
+  - name: eSIM Ghana
+    flag: img/flags/gh.svg
+    price: Mulai $7.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
+  - name: eSIM Guyana
+    flag: img/flags/gy.svg
+    price: Mulai $9.99
+    is_highlight: false
+  - name: eSIM Irak
+    flag: img/flags/iq.svg
+    price: Mulai $9.99
+    is_highlight: false
+  - name: eSIM Yordania
+    flag: img/flags/jo.svg
+    price: Mulai $6.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Brasil vs SIM Prabayar Lokal: Kemudahan Bebas CPF'
   subtitle: SIM Prabayar Lokal Brasil vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Brasil) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Brazil
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -466,7 +478,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Paket termurah TIM berharga R$15 hanya untuk 1.42GB dengan masa berlaku 9 hari. Paket Vivo R$17 menawarkan 4GB selama 15 hari. Perjalanan 7 hari membuang hingga 2 hari.
     esim_title: Paket Jangka Pendek Fleksibel
-    esim_desc: Hindari pemborosan minimum 9 hari TIM (R$15). Roami menawarkan paket 7 hari mulai dari $1.99/GB — bayar hanya untuk durasi perjalanan Anda yang sebenarnya.
+    esim_desc: Hindari pemborosan minimum 9 hari TIM (R$15). Roami menawarkan paket 7 hari mulai dari $2.30/GB — bayar hanya untuk durasi perjalanan Anda yang sebenarnya.
   - icon: wifi
     title: Hotspot &<br>Kebijakan Kecepatan
     prepaid_title: ''

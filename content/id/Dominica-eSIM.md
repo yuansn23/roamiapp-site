@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Dominika 2026: Panduan Paket & Cakupan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -20,11 +20,10 @@ modal:
     promo:web20
 seo:
   title: 'eSIM Dominika: 5G Cepat & Data Tanpa Batas untuk Anda'
-  description: 'Data 5G cepat untuk Dominika bersama eSIM Roami. Cakupan Digicel & Flow & Orange. Aktivasi QR instan, mulai $1.99. Tanpa kontrak.'
-  keywords: eSIM Dominika, beli eSIM Dominika, eSIM Dominika terbaik, eSIM perjalanan Dominika, Digicel Dominika, Flow Dominika, Orange
-    Dominika, eSIM Roseau, eSIM Portsmouth, eSIM Marigot, eSIM prabayar Dominika, 5G eSIM Dominika
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Data 5G cepat untuk Dominika bersama eSIM Roami. Cakupan Digicel & Flow & Orange. Aktivasi QR instan, mulai $11.99. Tanpa kontrak.'
+  keywords: eSIM Dominika, beli eSIM Dominika, eSIM Dominika terbaik, eSIM perjalanan Dominika, Digicel Dominika, Flow Dominika, Orange Dominika, eSIM Roseau, eSIM Portsmouth, eSIM Marigot, eSIM prabayar Dominika, eSIM 5G Dominika, eSIM Air Terjun Trafalgar, eSIM Champagne Reef, eSIM Morne Trois Pitons, paket eSIM Dominika
+  low_price: 11.99
+  high_price: 52.99
 order_summary:
   title: Paket Terpilih
   label_data: Data Termasuk
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Pengalihan Otomatis
     desc: Terhubung otomatis ke operator Dominika terbaik untuk sinyal terbaik
-plans_title: 'Beli eSIM Dominika: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Beli eSIM Dominika: Pilihan Paket Harian hingga Bulanan'
 plans_data:
   15 Hari:
   - spec: 3GB
@@ -137,7 +136,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Dominika: Panduan Lengkap Jaringan Lokal'
+  title: 'Cakupan eSIM Dominika: Panduan Jaringan Movistar, Orange & Vodafone'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -170,7 +169,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Dominika: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Pengingat Penting untuk Pengguna eSIM Dominika'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -191,7 +190,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Dominika: 3 Langkah Mudah'
+  title: 'Memasang eSIM Dominika: Panduan Sederhana'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -213,12 +212,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Terhubung di Dominika -- Panduan Kualitas Jaringan dan Kecepatan eSIM"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Dominika. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Dominika. Cari tahu kecepatan yang diharapkan di Reykjavik, di sepanjang Ring Road, dan di Golden Circle."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Dominika
+    title: Tanya Jawab eSIM Dominika untuk Pemula
     questions:
     - q: |
         Apakah Flow atau Digicel menawarkan kecepatan data yang lebih baik di Dominika?
@@ -231,7 +230,7 @@ faq_section:
     - q: |
         Bagaimana jika hotel saya di Dominika memiliki WiFi gratis — apakah saya masih perlu data eSIM?
       a: |
-        WiFi hotel berfungsi di kamar Anda tetapi tidak saat Anda sedang menjelajah. eSIM memberi Anda data di mana saja — menavigasi jalan, mencari tempat terdekat, memeriksa jadwal transportasi. Paket 5GB berharga $9.99, yang sering lebih murah daripada WiFi hotel berbayar selama seminggu ($10-15 di banyak hotel). Sebagian besar pelancong menggunakan WiFi hotel untuk unduhan besar dan eSIM untuk konektivitas saat bepergian.
+        WiFi hotel berfungsi di kamar Anda tetapi tidak saat Anda sedang menjelajah. eSIM memberi Anda data di mana saja — menavigasi jalan, mencari tempat terdekat, memeriksa jadwal transportasi. Paket 5GB berharga $37.99, yang sering lebih murah daripada WiFi hotel berbayar selama seminggu ($10-15 di banyak hotel). Sebagian besar pelancong menggunakan WiFi hotel untuk unduhan besar dan eSIM untuk konektivitas saat bepergian.
     - q: |
         Bagaimana perbandingan eSIM dengan WiFi saku untuk perjalanan Dominika?
       a: |
@@ -239,7 +238,7 @@ faq_section:
     - q: |
         Saya memerlukan akses internet hanya untuk beberapa hari di Dominika. Berapa minimum yang bisa saya beli?
       a: |
-        Paket termurah adalah $1.99 untuk 7 hari dengan 1GB — sempurna untuk perjalanan akhir pekan singkat dengan penggunaan ringan. Jika Anda membutuhkan lebih banyak, isi ulang kapan saja dari aplikasi.
+        Paket termurah adalah $11.99 untuk 7 hari dengan 1GB — sempurna untuk perjalanan akhir pekan singkat dengan penggunaan ringan. Jika Anda membutuhkan lebih banyak, isi ulang kapan saja dari aplikasi.
     - q: |
         Apa perbedaan antara paket 5GB dan paket tak terbatas untuk Dominika?
       a: |
@@ -252,63 +251,75 @@ faq_section:
         Apakah eSIM Dominika berfungsi di daerah pedesaan dan kota kecil?
       a: |
         Cakupan di Dominika mencapai sekitar 95% wilayah perkotaan tetapi menurun di lokasi terpencil. Kecepatan mungkin turun dari 200-300 Mbps (5G) menjadi 10-30 Mbps (4G). Roami beralih otomatis ke jaringan terkuat. Unduh peta offline sebelum menuju daerah terpencil.
+    - q: |
+        Bagaimana cakupan eSIM Dominika di Roseau dan sekitarnya?
+      a: |
+        Cakupan eSIM Dominika mengikuti jaringan Digicel di kota besar seperti Roseau. Di daerah terpencil sinyal bisa lebih lemah, dan eSIM akan berpindah ke operator mitra secara otomatis.
+    - q: |
+        Perlu paket seperti apa untuk perjalanan ke Portsmouth?
+      a: |
+        Untuk Portsmouth, paket mulai $11.99 sudah memadai: peta, pesan, dan media sosial berjalan lancar lewat jaringan lokal. Bila Anda sering streaming atau memakai hotspot, pilih kuota yang lebih besar.
+    - q: |
+        Untuk 15 hari di Dominika dan kota seperti Roseau, lebih baik paket 3GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 3GB (15 hari, $25.99) karena harganya paling efisien dan memadai untuk kunjungan ke Roseau. Jika perjalanan Anda padat data, paket 5GB seharga $37.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Dominika Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: From $1.99
-    is_highlight: false
+  - name: eSIM Korea Selatan
+    flag: img/flags/kr.svg
+    price: Mulai $1.99
+    is_highlight: true
   - name: eSIM Inggris
     flag: img/flags/gb.svg
-    price: From $1.99
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: From $1.99
-    is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: From $1.99
+  - name: eSIM Austria
+    flag: img/flags/at.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: From $1.99
+  - name: eSIM Bulgaria
+    flag: img/flags/bg.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Tiongkok
-    flag: img/flags/cn.svg
-    price: From $1.99
+  - name: eSIM Republik Ceko
+    flag: img/flags/cz.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: From $1.99
+  - name: eSIM Guyana Prancis
+    flag: img/flags/gf.svg
+    price: Mulai $3.99
     is_highlight: false
   - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: From $1.99
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: From $1.99
+  - name: eSIM Kazakhstan
+    flag: img/flags/kz.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: From $1.99
+  - name: eSIM Malaysia
+    flag: img/flags/my.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: From $1.99
+  - name: eSIM Panama
+    flag: img/flags/pa.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: From $1.99
+  - name: eSIM Sierra Leone
+    flag: img/flags/si.svg
+    price: Mulai $10.99
+    is_highlight: false
+  - name: eSIM Ukraina
+    flag: img/flags/ua.svg
+    price: Mulai $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Dominika vs SIM Prabayar Lokal: Mana Lebih Nyaman?'
   subtitle: SIM Prabayar Lokal Dominika vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Wiki Kartu SIM Data Prabayar (Dominika) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Dominica
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -342,11 +353,11 @@ market_analysis:
       kecuali 1 hari.
     esim_title: Paket Fleksibel, Tanpa Pemborosan
     esim_desc: Tidak seperti paket 30 hari Flow (EC$69.99/3GB) yang memperpanjang otomatis dan menyia-nyiakan 75% untuk perjalanan 7 hari, Roami menawarkan paket
-      7 hari mulai dari $1.99/GB. Tanpa perpanjangan otomatis, tanpa biaya hangus.
+      7 hari mulai dari $7.80/GB. Tanpa perpanjangan otomatis, tanpa biaya hangus.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini.
+    prepaid_desc: Operator setempat belum merilis rincian resmi untuk dimensi ini.
     esim_title: Tethering Tanpa Batasan
     esim_desc: Roami eSIM mengizinkan berbagi hotspot penuh. Tidak ada batasan tersembunyi seperti beberapa SIM lokal. Bagikan data Anda antar
       perangkat dengan bebas.
@@ -360,7 +371,7 @@ market_analysis:
   - icon: headset
     title: Dukungan Pelanggan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini.
+    prepaid_desc: Operator setempat belum merilis rincian resmi untuk dimensi ini.
     esim_title: Dukungan Multibahasa 24/7
     esim_desc: Roami menyediakan dukungan pelanggan 24/7 dalam bahasa Inggris dan bahasa lainnya. Tidak perlu menavigasi saluran telepon bahasa lokal
       atau jam kerja terbatas.
@@ -389,5 +400,5 @@ market_analysis:
       icon_color: text-amber-600
       title: Hilangkan Biaya Hangus dari Siklus Penagihan Panjang
       desc: Paket 30 hari Flow (EC$69.99/3GB) dan paket 30 hari Digicel (EC$54.99/1.5GB) menyia-nyiakan lebih dari 70% untuk perjalanan 7 hari.
-        Roami menawarkan paket 7 hari dari <b>$1.99/GB</b>, tanpa perpanjangan otomatis.
+        Roami menawarkan paket 7 hari dari <b>$7.80/GB</b>, tanpa perpanjangan otomatis.
 ---

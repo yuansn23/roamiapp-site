@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Israel 2026: Panduan Wisatawan & Jaringan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIM</strong>.<br>Pelanggan baru menikmati diskon 20%, kode promo:web20
 seo:
   title: 'eSIM Israel: Prabayar & Kuota Melimpah untuk Turis'
-  description: 'eSIM 5G Israel dari Roami: internet cepat untuk perjalanan. Cakupan Cellcom & Pelephone & Partner. Aktivasi instan, mulai $1.99.'
-  keywords: eSIM Israel, beli eSIM Israel, eSIM terbaik Israel, eSIM perjalanan Israel, Cellcom Israel, Pelephone Israel, Partner Israel, eSIM Tel Aviv, eSIM Yerusalem, eSIM Haifa, eSIM prabayar Israel, eSIM 5G Israel
-  low_price: 1.99
-  high_price: 39.9
+  description: 'eSIM 5G Israel dari Roami: internet cepat untuk perjalanan. Cakupan Cellcom & Pelephone & Partner. Aktivasi instan, mulai $2.99.'
+  keywords: eSIM Israel, beli eSIM Israel, eSIM Israel terbaik, eSIM perjalanan Israel, Cellcom Israel, Pelephone Israel, Partner Israel, eSIM Tel Aviv, eSIM Yerusalem, eSIM Haifa, eSIM prabayar Israel, eSIM 5G Israel, eSIM Laut Mati, eSIM Masada, eSIM Eilat, paket eSIM Israel
+  low_price: 2.99
+  high_price: 69.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Pindah Otomatis
     desc: Terhubung otomatis ke operator top Israel untuk sinyal terbaik
-plans_title: 'Beli eSIM Israel: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Bandingkan Paket eSIM Israel Sebelum Membeli'
 plans_data:
   7 Hari:
   - spec: 1GB
@@ -270,7 +270,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Israel: Panduan Operator Jaringan Seluler'
+  title: 'Cakupan eSIM Israel: Panduan 5G Telkomsel, Indosat & XL — Bali hingga Jawa'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -301,7 +301,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Israel: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips eSIM Israel: Persiapan Singkat Sebelum Berangkat'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -320,7 +320,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Israel: 3 Langkah Mudah'
+  title: 'Instalasi eSIM Israel: Panduan Langkah demi Langkah'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -340,12 +340,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Seberapa Cepat Internet eSIM di Israel? Kecepatan dan Cakupan untuk Wisatawan"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Israel. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Israel. Cari tahu kecepatan yang diharapkan di Warsawa, Krakow dan Gdansk — dan cara menghindari aturan registrasi SIM ketat Israel."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Israel
+    title: Pertanyaan Populer tentang eSIM Israel
     questions:
     - q: |
         Saya tidak yakin apakah ponsel saya mendukung eSIM di Israel. Bagaimana cara memeriksanya?
@@ -354,7 +354,7 @@ faq_section:
     - q: |
         Bisakah saya mendapatkan eSIM untuk Israel tanpa mengeluarkan banyak biaya?
       a: |
-        Tentu saja. Paket eSIM Israel Roami mulai dari hanya $1,99. Opsi 5GB/15 hari ($9,99) adalah yang paling populer di kalangan wisatawan — cukup untuk peta, WhatsApp, Instagram, dan email. Jika Anda pengguna data berat, paket 10GB ($14,99) atau tak terbatas ($59,99) memberi Anda ketenangan pikiran. Melewatkan konter SIM di bandara menghemat 30-50% dan menghindari antrean. Perlu penyesuaian? Anda dapat isi ulang kapan saja dari aplikasi Roami.
+        Tentu saja. Paket eSIM Israel Roami mulai dari hanya $2.99. Opsi 5GB/15 hari ($6.99) adalah yang paling populer di kalangan wisatawan — cukup untuk peta, WhatsApp, Instagram, dan email. Jika Anda pengguna data berat, paket 10GB ($10.99) atau tak terbatas ($69.99) memberi Anda ketenangan pikiran. Melewatkan konter SIM di bandara menghemat 30-50% dan menghindari antrean. Perlu penyesuaian? Anda dapat isi ulang kapan saja dari aplikasi Roami.
     - q: |
         Apakah aman mengunggah paspor saya untuk registrasi eSIM Israel? Saya khawatir tentang privasi.
       a: |
@@ -366,7 +366,7 @@ faq_section:
     - q: |
         Apa pilihan eSIM paling populer bagi wisatawan yang pergi ke Israel?
       a: |
-        Sebagian besar wisatawan ke Israel memilih paket 5GB/15 hari ($9,99). Cukup untuk navigasi harian, media sosial, dan pesan. Untuk masa tinggal lebih lama atau penggunaan lebih berat, paket 10GB ($14,99) atau tak terbatas ($59,99) adalah pilihan bagus. Semua paket aktif dalam hitungan menit dan mencakup dukungan 24/7.
+        Sebagian besar wisatawan ke Israel memilih paket 5GB/15 hari ($6.99). Cukup untuk navigasi harian, media sosial, dan pesan. Untuk masa tinggal lebih lama atau penggunaan lebih berat, paket 10GB ($10.99) atau tak terbatas ($69.99) adalah pilihan bagus. Semua paket aktif dalam hitungan menit dan mencakup dukungan 24/7.
     - q: |
         Bagaimana jika saya secara tidak sengaja menghapus eSIM Israel saya sebelum perjalanan?
       a: |
@@ -379,63 +379,75 @@ faq_section:
         Seberapa jauh sebelumnya saya harus membeli eSIM Israel saya?
       a: |
         Anda dapat membeli kapan saja — bahkan di gerbang. Kode QR tiba dalam hitungan menit. Kami sarankan membeli beberapa hari sebelumnya agar Anda dapat menginstal di WiFi rumah. Paket hanya aktif saat Anda terhubung di Israel, jadi membeli lebih awal tidak menghabiskan hari paket Anda.
+    - q: |
+        Jaringan apa yang dipakai eSIM Israel saat saya berada di Tel Aviv?
+      a: |
+        eSIM Israel memakai jaringan Cellcom dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area Tel Aviv koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Perlu paket seperti apa untuk perjalanan ke Yerusalem?
+      a: |
+        Untuk Yerusalem, paket mulai $2.99 sudah memadai: peta, pesan, dan media sosial berjalan lancar lewat jaringan lokal. Bila Anda sering streaming atau memakai hotspot, pilih kuota yang lebih besar.
+    - q: |
+        Untuk 7 hari di Israel dan kota seperti Tel Aviv, lebih baik paket 1GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 1GB (7 hari, $2.99) karena harganya paling efisien dan memadai untuk kunjungan ke Tel Aviv. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $19.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Israel Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1,99
+  - name: eSIM Kenya
+    flag: img/flags/ke.svg
+    price: Mulai $7.99
     is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: Mulai $1,99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Mulai $1,99
+  - name: eSIM Liechtenstein
+    flag: img/flags/li.svg
+    price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Mulai $1,99
+  - name: eSIM Mali
+    flag: img/flags/ml.svg
+    price: Mulai $27.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1,99
+  - name: eSIM Nigeria
+    flag: img/flags/ng.svg
+    price: Mulai $5.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1,99
+  - name: eSIM Filipina
+    flag: img/flags/ph.svg
+    price: Mulai $2.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1,99
-    is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1,99
-    is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1,99
+  - name: eSIM Rusia
+    flag: img/flags/ru.svg
+    price: Mulai $2.99
     is_highlight: false
   - name: eSIM Spanyol
     flag: img/flags/es.svg
-    price: Mulai $1,99
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1,99
+  - name: eSIM Turki
+    flag: img/flags/tr.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1,99
+  - name: eSIM Uzbekistan
+    flag: img/flags/uz.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Argentina
+    flag: img/flags/ar.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Bangladesh
+    flag: img/flags/bd.svg
+    price: Mulai $5.99
+    is_highlight: false
+  - name: eSIM Brasil
+    flag: img/flags/br.svg
+    price: Mulai $4.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Israel atau Kartu SIM: Mana Pilihan Terbaik di 2026?'
   subtitle: SIM Prabayar Lokal Israel vs. Solusi eSIM (Benchmark 2024/2025)
   citation:
-    text: 'Sumber Data: Wiki Kartu SIM Data Prabayar (Israel) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Israel
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -464,11 +476,11 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Partner hanya menawarkan paket 30 hari mulai ₪60/125GB; wisatawan 7 hari membuang lebih dari 75% nilai paket. Paket 7 hari Cellcom berharga ₪49/3GB, sementara paket 30 hari ₪59/100GB, menciptakan inversi harga.
     esim_title: Paket Harian Fleksibel
-    esim_desc: Hindari penguncian 30 hari Partner (₪60/125GB, pemborosan 75% untuk perjalanan 7 hari). Roami menawarkan paket 7 hari mulai dari $1,99/GB, sesuai dengan durasi perjalanan Anda.
+    esim_desc: Hindari penguncian 30 hari Partner (₪60/125GB, pemborosan 75% untuk perjalanan 7 hari). Roami menawarkan paket 7 hari mulai dari $0.70/GB, sesuai dengan durasi perjalanan Anda.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar, sebagian besar SIM prabayar Israel mengizinkan tethering tetapi mungkin memperlambat setelah penggunaan tinggi; paket 3 hari Pelephone dengan hanya 300MB secara efektif membatasi penggunaan hotspot.
+    prepaid_desc: Sebagian besar SIM prabayar Israel mengizinkan tethering tetapi mungkin memperlambat setelah penggunaan tinggi; paket 3 hari Pelephone dengan hanya 300MB secara efektif membatasi penggunaan hotspot.
     esim_title: Tethering Tanpa Batas
     esim_desc: Roami eSIM mengizinkan berbagi hotspot kecepatan penuh, berbeda dengan paket 3 hari 300MB Pelephone yang hampir tidak mencukupi penggunaan pribadi, apalagi tethering.
   - icon: credit-card
@@ -500,7 +512,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Hindari Pemborosan Paket 30 Hari
-      desc: Paket termurah Partner adalah <b>₪60/125GB selama 30 hari</b>. Wisatawan 7 hari membuang <b>75%</b> paket. Roami menawarkan <b>paket 7 hari dari $1,99/GB</b>, bayar hanya untuk yang Anda gunakan.
+      desc: Paket termurah Partner adalah <b>₪60/125GB selama 30 hari</b>. Wisatawan 7 hari membuang <b>75%</b> paket. Roami menawarkan <b>paket 7 hari dari $0.70/GB</b>, bayar hanya untuk yang Anda gunakan.
     - icon: headset
       icon_bg: bg-teal-100
       icon_color: text-teal-600

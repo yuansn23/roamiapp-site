@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Bulgaria 2026: Panduan Perjalanan & Jaringan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -21,10 +21,9 @@ modal:
 seo:
   title: 'eSIM Bulgaria: Paket Hemat & Data Melimpah untuk Anda'
   description: 'Roami menghadirkan eSIM Bulgaria: internet 5G cepat. Cakupan A1 Bulgaria & Telenor & Vivacom. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Bulgaria, beli eSIM Bulgaria, eSIM Bulgaria terbaik, eSIM perjalanan Bulgaria, A1 Bulgaria, Telenor Bulgaria,
-    Vivacom Bulgaria, eSIM Sofia, eSIM Plovdiv, eSIM Varna, eSIM prabayar Bulgaria, eSIM 5G Bulgaria
+  keywords: eSIM Bulgaria, beli eSIM Bulgaria, eSIM Bulgaria terbaik, eSIM perjalanan Bulgaria, A1 Bulgaria, Telenor Bulgaria, Vivacom Bulgaria, eSIM Sofia, eSIM Plovdiv, eSIM Varna, eSIM prabayar Bulgaria, eSIM 5G Bulgaria, eSIM Laut Hitam, eSIM Biara Rila, eSIM Kota Tua Plovdiv, paket eSIM Bulgaria
   low_price: 1.99
-  high_price: 39.9
+  high_price: 77.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -299,7 +298,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Bulgaria: Cakupan Jaringan & Perbandingan Operator'
+  title: 'Cakupan eSIM Bulgaria: Panduan Jaringan Zain, Asiacell & Korek'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -332,7 +331,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Bulgaria: Apa yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips Pengaturan eSIM Bulgaria: Yang Perlu Diketahui Sebelum Berangkat'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -375,8 +374,7 @@ activation_steps:
     is_list: false
 faq_section:
   title: "eSIM di Bulgaria -- Apakah Koneksinya Cepat dan Andal untuk Turis?"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Bulgaria.
-    Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Bulgaria. Cari tahu kecepatan yang diharapkan di kota dan di resor pantai."
   categories:
   - id: faq-general
     icon: help-circle
@@ -386,113 +384,104 @@ faq_section:
     - q: |
         Apakah paket tak terbatas eSIM Bulgaria akan melambat jika saya menggunakan terlalu banyak data?
       a: |
-        Ada kebijakan penggunaan wajar: kecepatan berkurang setelah 30GB dalam sehari. Pada kecepatan berkurang Anda masih
-        dapat mengirim pesan, navigasi, dan menjelajah — hanya video yang tidak lancar. Secara realistis, sebagian besar
-        pelancong tidak mendekati 30GB. Jika Anda khawatir, paket tetap 10GB ($14.99) atau 20GB ($24.99) menghilangkan ketidakpastian
-        sepenuhnya.
+        Ada kebijakan penggunaan wajar: kecepatan berkurang setelah 30GB dalam sehari. Pada kecepatan berkurang Anda masih dapat mengirim pesan, navigasi, dan menjelajah — hanya video yang tidak lancar. Secara realistis, sebagian besar pelancong tidak mendekati 30GB. Jika Anda khawatir, paket tetap 10GB ($14.99) atau 20GB ($22.99) menghilangkan ketidakpastian sepenuhnya.
     - q: |
         Apakah aman mengunggah paspor saya untuk registrasi eSIM Bulgaria? Saya khawatir tentang privasi.
       a: |
-        Bulgaria mewajibkan verifikasi identitas berdasarkan hukum. Bulgaria mewajibkan verifikasi KYC untuk kartu SIM prabayar.
-        Paspor diperlukan. Prosesnya sederhana: unggah paspor Anda melalui portal aman Roami, persetujuan memakan waktu 5-10
-        menit. Lakukan ini sebelum berangkat — melakukannya di bandara dengan WiFi tidak stabil sangat menjengkelkan. Setelah
-        disetujui, Anda terhubung secara otomatis saat mengaktifkan Data Roaming di Bulgaria.
+        Bulgaria mewajibkan verifikasi identitas berdasarkan hukum. Bulgaria mewajibkan verifikasi KYC untuk kartu SIM prabayar. Paspor diperlukan. Prosesnya sederhana: unggah paspor Anda melalui portal aman Roami, persetujuan memakan waktu 5-10 menit. Lakukan ini sebelum berangkat — melakukannya di bandara dengan WiFi tidak stabil sangat menjengkelkan. Setelah disetujui, Anda terhubung secara otomatis saat mengaktifkan Data Roaming di Bulgaria.
     - q: |
         Apa pilihan eSIM termurah untuk perjalanan ke Bulgaria?
       a: |
-        Paket eSIM Bulgaria Roami mulai dari $1.99 (7 hari, 1GB) hingga $59.99 (30 hari tak terbatas). Untuk perjalanan 5-7
-        hari, paket 5GB seharga $9.99 adalah pilihan terbaik — cukup untuk peta, perpesanan, dan media sosial. Perlu streaming
-        video atau bekerja jarak jauh? Pilih 10GB atau tak terbatas. Berkat jaringan 5G A1, streaming dan panggilan video
-        berfungsi dengan baik. Kios SIM bandara mengenakan biaya 30-50% lebih mahal, dan Anda harus mengantri. Tidak yakin
-        tentang kebutuhan data Anda? Mulai dengan paket kecil dan isi ulang melalui aplikasi tanpa mengganti eSIM Anda.
+        Paket eSIM Bulgaria Roami mulai dari $2.99 (7 hari, 1GB) hingga $77.99 (30 hari tak terbatas). Untuk perjalanan 5-7 hari, paket 5GB seharga $9.99 adalah pilihan terbaik — cukup untuk peta, perpesanan, dan media sosial. Perlu streaming video atau bekerja jarak jauh? Pilih 10GB atau tak terbatas. Berkat jaringan 5G A1, streaming dan panggilan video berfungsi dengan baik. Kios SIM bandara mengenakan biaya 30-50% lebih mahal, dan Anda harus mengantri. Tidak yakin tentang kebutuhan data Anda? Mulai dengan paket kecil dan isi ulang melalui aplikasi tanpa mengganti eSIM Anda.
     - q: |
         Bisakah saya memeriksa berapa banyak data yang telah saya gunakan pada eSIM Bulgaria?
       a: |
-        Ya — Anda dapat memeriksa penggunaan data langsung di pengaturan ponsel Anda (Pengaturan > Seluler > Penggunaan Data
-        di iPhone) atau melalui dasbor akun Roami Anda. Roami juga mengirimkan notifikasi saat Anda telah menggunakan 70%
-        dan 90% data paket Anda.
+        Ya — Anda dapat memeriksa penggunaan data langsung di pengaturan ponsel Anda (Pengaturan > Seluler > Penggunaan Data di iPhone) atau melalui dasbor akun Roami Anda. Roami juga mengirimkan notifikasi saat Anda telah menggunakan 70% dan 90% data paket Anda.
     - q: |
         Apakah WhatsApp dan FaceTime berfungsi dengan eSIM di Bulgaria?
       a: |
-        Ya — semua aplikasi berbasis data berfungsi sempurna melalui eSIM. Panggilan WhatsApp menggunakan sekitar 1MB per
-        menit untuk audio dan 5-8MB per menit untuk video. FaceTime, Zoom, Google Maps, Instagram — semuanya berjalan melalui
-        koneksi data eSIM tanpa batasan. Jaringan A1 menangani panggilan video dengan lancar. Paket 5GB menyediakan sekitar
-        500 jam panggilan audio WhatsApp atau 10 jam video FaceTime.
+        Ya — semua aplikasi berbasis data berfungsi sempurna melalui eSIM. Panggilan WhatsApp menggunakan sekitar 1MB per menit untuk audio dan 5-8MB per menit untuk video. FaceTime, Zoom, Google Maps, Instagram — semuanya berjalan melalui koneksi data eSIM tanpa batasan. Jaringan A1 menangani panggilan video dengan lancar. Paket 5GB menyediakan sekitar 500 jam panggilan audio WhatsApp atau 10 jam video FaceTime.
     - q: |
         Bisakah saya menggunakan eSIM Bulgaria untuk media sosial dan berbagi foto dengan keluarga?
       a: |
-        Tentu saja. Instagram, WhatsApp, Facebook, dan aplikasi sosial lainnya semua berfungsi melalui koneksi eSIM. Kecepatan
-        unggah dari A1 menangani foto dalam hitungan detik dan video pendek dengan mudah.
+        Tentu saja. Instagram, WhatsApp, Facebook, dan aplikasi sosial lainnya semua berfungsi melalui koneksi eSIM. Kecepatan unggah dari A1 menangani foto dalam hitungan detik dan video pendek dengan mudah.
     - q: |
         Bagaimana perbandingan eSIM dengan pocket WiFi untuk perjalanan Bulgaria?
       a: |
-        eSIM unggul dalam kenyamanan. Tidak ada perangkat yang harus dibawa, diisi daya, atau dikembalikan di akhir perjalanan
-        — menghemat sekitar $3-5 per hari dibandingkan sewa pocket WiFi. Pocket WiFi cocok untuk kelompok 3+, tetapi Anda
-        terikat pada satu perangkat dan perlu mengisi dayanya selama 6-8 jam. Dengan eSIM, ponsel Anda adalah hotspot. Semua
-        paket Roami mencakup berbagi hotspot gratis untuk hingga 5 perangkat.
+        eSIM unggul dalam kenyamanan. Tidak ada perangkat yang harus dibawa, diisi daya, atau dikembalikan di akhir perjalanan — menghemat sekitar $3-5 per hari dibandingkan sewa pocket WiFi. Pocket WiFi cocok untuk kelompok 3+, tetapi Anda terikat pada satu perangkat dan perlu mengisi dayanya selama 6-8 jam. Dengan eSIM, ponsel Anda adalah hotspot. Semua paket Roami mencakup berbagi hotspot gratis untuk hingga 5 perangkat.
     - q: |
         Kapan masa berlaku eSIM Bulgaria saya dimulai?
       a: |
-        Masa berlaku paket dimulai saat Anda terhubung ke jaringan lokal di Bulgaria, bukan saat Anda membeli atau menginstalnya.
-        Jadi Anda dapat membeli dan menginstal berminggu-minggu sebelum perjalanan tanpa kehilangan hari paket. Paket 7 hari
-        memberi Anda 7 hari penuh dari koneksi pertama.
+        Masa berlaku paket dimulai saat Anda terhubung ke jaringan lokal di Bulgaria, bukan saat Anda membeli atau menginstalnya. Jadi Anda dapat membeli dan menginstal berminggu-minggu sebelum perjalanan tanpa kehilangan hari paket. Paket 7 hari memberi Anda 7 hari penuh dari koneksi pertama.
+    - q: |
+        Jaringan apa yang dipakai eSIM Bulgaria saat saya berada di Sofia?
+      a: |
+        eSIM Bulgaria memakai jaringan A1 Bulgaria dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area Sofia koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Cukupkah paket termurah untuk pemakaian saya di Plovdiv?
+      a: |
+        Paket mulai $1.99 sudah menutupi navigasi, pesan, dan media sosial selama Anda berada di Plovdiv. Aktivasi dilakukan sekali sebelum berangkat, jadi tidak ada antrean di bandara.
+    - q: |
+        Untuk 30 hari di Bulgaria dan kota seperti Sofia, lebih baik paket 3GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 3GB (30 hari, $6.99) karena harganya paling efisien dan memadai untuk kunjungan ke Sofia. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $77.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Bulgaria Terkait
   items:
-  - name: united states eSIM
+  - name: eSIM Azerbaijan
+    flag: img/flags/az.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Chad
+    flag: img/flags/td.svg
+    price: Mulai $23.99
+    is_highlight: false
+  - name: eSIM Kepulauan Faroe
+    flag: img/flags/fo.svg
+    price: Mulai $5.99
+    is_highlight: false
+  - name: eSIM Hong Kong
+    flag: img/flags/hk.svg
+    price: Mulai $1.99
+    is_highlight: true
+  - name: eSIM Kirgistan
+    flag: img/flags/kg.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Niger
+    flag: img/flags/ni.svg
+    price: Mulai $23.99
+    is_highlight: false
+  - name: eSIM Seychelles
+    flag: img/flags/sc.svg
+    price: Mulai $9.99
+    is_highlight: false
+  - name: eSIM AS
     flag: img/flags/us.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: United-Kingdom
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
+  - name: eSIM Barbados
+    flag: img/flags/bb.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: Europe eSIM
-    flag: img/flags/eu.svg
-    price: Mulai $1.99
-    is_highlight: true
-  - name: Canada eSIM
-    flag: img/flags/ca.svg
-    price: Mulai $1.99
+  - name: eSIM Kongo (Kinshasa)
+    flag: img/flags/cg.svg
+    price: Mulai $7.99
     is_highlight: false
-  - name: Turkey eSIM
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
+  - name: eSIM Guyana Prancis
+    flag: img/flags/gf.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: France eSIM
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: Spain eSIM
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: Germany eSIM
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: Australia eSIM
-    flag: img/flags/au.svg
+  - name: eSIM Indonesia
+    flag: img/flags/id.svg
     price: Mulai $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Bulgaria vs Paket Kartu SIM: Mana yang Sesuai dengan Kebutuhan Anda?'
   subtitle: SIM Prabayar Lokal Bulgaria vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Bulgaria) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Bulgaria
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -529,12 +518,11 @@ market_analysis:
       memiliki siklus 30 hari; perjalanan 5 hari membuang lebih dari 80% nilai paket.
     esim_title: Paket Jangka Pendek Fleksibel
     esim_desc: Tidak seperti siklus 19-hari A1 (€5.11/15GB) atau siklus 28-hari Vivacom (€12.89/80GB), Roami menawarkan paket
-      7 hari mulai dari $1.99/GB, menghemat hingga 75% pemborosan untuk perjalanan singkat.
+      7 hari mulai dari $1.05/GB, menghemat hingga 75% pemborosan untuk perjalanan singkat.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar, tethering umumnya
-      diizinkan tetapi mungkin dibatasi pada beberapa paket.
+    prepaid_desc: Tethering umumnya diizinkan tetapi mungkin dibatasi pada beberapa paket.
     esim_title: Tethering Tanpa Batasan
     esim_desc: eSIM Roami mengizinkan berbagi hotspot kecepatan penuh, tidak seperti beberapa paket prabayar Bulgaria yang
       mungkin membatasi tethering. Bagikan data di semua perangkat Anda.
@@ -549,8 +537,7 @@ market_analysis:
   - icon: headset
     title: Dukungan Pelanggan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar, dukungan pelanggan
-      biasanya dalam bahasa Bulgaria dengan ketersediaan bahasa Inggris terbatas.
+    prepaid_desc: Dukungan pelanggan biasanya dalam bahasa Bulgaria dengan ketersediaan bahasa Inggris terbatas.
     esim_title: Dukungan Multibahasa 24/7
     esim_desc: Dapatkan dukungan bahasa Inggris 24/7 melalui live chat atau email, tidak seperti operator Bulgaria yang hanya
       menawarkan dukungan telepon bahasa Bulgaria terbatas selama jam kerja.

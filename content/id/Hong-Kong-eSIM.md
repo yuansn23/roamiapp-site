@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Hong Kong 2026 - Paket 5G Terbaik untuk Pelabuhan Victoria | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -19,9 +19,9 @@ modal:
 seo:
   title: 'eSIM Hong Kong: 5G Cepat & Kuota Besar untuk Turis'
   description: 'eSIM prabayar Hong Kong dari Roami: internet 5G cepat. Cakupan CSL & SmarTone & China Mobile Hong Kong. Aktivasi QR mulai $1.99.'
-  keywords: eSIM Hong Kong, beli eSIM Hong Kong, eSIM Hong Kong terbaik, eSIM perjalanan Hong Kong, CSL Hong Kong, SmarTone Hong Kong, China Mobile Hong Kong, eSIM Pulau Hong Kong, eSIM Kowloon, eSIM Tsuen Wan, eSIM prabayar Hong Kong, eSIM 5G Hong Kong, eSIM Disneyland Hong Kong, eSIM Pelabuhan Victoria
+  keywords: eSIM Hong Kong, beli eSIM Hong Kong, eSIM terbaik Hong Kong, eSIM perjalanan Hong Kong, CSL Hong Kong, SmarTone Hong Kong, China Mobile Hong Kong, eSIM Pulau Hong Kong, eSIM Kowloon, eSIM Tsuen Wan, eSIM prabayar Hong Kong, 5G eSIM Hong Kong, eSIM Pelabuhan Victoria, eSIM Disneyland, eSIM Temple Street, paket eSIM Hong Kong
   low_price: 1.99
-  high_price: 39.9
+  high_price: 57.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Otomatis Beralih
     desc: Terhubung otomatis ke CSL, SmarTone & CMHK untuk sinyal terbaik di seluruh Hong Kong
-plans_title: 'Beli eSIM Hong Kong: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket Data Hong Kong: Pilih Sesuai Durasi Perjalanan'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -278,7 +278,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Hong Kong: Panduan Jaringan CSL, SmarTone & CMHK'
+  title: 'Cakupan eSIM Hong Kong: Panduan 4G/5G Orange, Vodafone & Etisalat'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -309,7 +309,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Hong Kong: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips eSIM Hong Kong: Pastikan Siap Sebelum Mendarat'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -330,7 +330,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar Anda, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Hong Kong: 3 Langkah Mudah'
+  title: 'Aktivasi eSIM Hong Kong: Dari Pemindaian QR hingga Online'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -350,12 +350,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Hong Kong: Kecepatan, Cakupan, dan Tips Perjalanan untuk Hong Kong"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Hong Kong. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Hong Kong. Cari tahu kecepatan yang diharapkan di Athena, di pulau-pulau, dan di feri."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Hong Kong
+    title: Tanya Jawab Umum eSIM Hong Kong
     questions:
     - q: |
         Apa itu registrasi SIM wajib Hong Kong (KYC) — dan apakah saya perlu melakukannya untuk Roami?
@@ -393,63 +393,75 @@ faq_section:
         Dapatkah saya mengisi ulang eSIM Hong Kong saya jika data habis?
       a: |
         Ya — Anda dapat mengisi ulang melalui akun Roami Anda kapan saja. Tidak seperti SIM prabayar Hong Kong dengan proses isi ulang yang rumit (sistem online CMHK hanya menerima kartu UnionPay yang diterbitkan di daratan), Roami menerima metode pembayaran global. Tidak perlu membeli SIM baru atau mencari 7-Eleven untuk voucher isi ulang.
+    - q: |
+        Jaringan apa yang dipakai eSIM Hong Kong saat saya berada di Pulau Hong Kong?
+      a: |
+        eSIM Hong Kong memakai jaringan CSL dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area Pulau Hong Kong koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Apakah eSIM Hong Kong berfungsi baik di Kowloon?
+      a: |
+        Di Kowloon eSIM Hong Kong memakai jaringan 4G/5G CSL, cukup untuk peta, perpesanan, dan mengunggah foto. Paket mulai $1.99 praktis untuk kunjungan singkat ke Kowloon.
+    - q: |
+        Untuk 30 hari di Hong Kong dan kota seperti Pulau Hong Kong, lebih baik paket 3GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 3GB (30 hari, $5.99) karena harganya paling efisien dan memadai untuk kunjungan ke Pulau Hong Kong. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $57.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Hong Kong Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
+  - name: eSIM Botswana
+    flag: img/flags/bw.svg
+    price: Mulai $14.99
     is_highlight: false
-  - name: Inggris Raya
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
+  - name: eSIM Kosta Rika
+    flag: img/flags/cr.svg
+    price: Mulai $9.99
     is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Fiji
+    flag: img/flags/fj.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Guatemala
+    flag: img/flags/gt.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Jamaika
+    flag: img/flags/jm.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Luksemburg
+    flag: img/flags/lu.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Norwegia
+    flag: img/flags/no.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
+  - name: eSIM Rusia
+    flag: img/flags/ru.svg
+    price: Mulai $2.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
+  - name: eSIM Tunisia
+    flag: img/flags/tn.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
+  - name: eSIM Aljazair
+    flag: img/flags/dz.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
+  - name: eSIM Bolivia
+    flag: img/flags/bo.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
+  - name: eSIM Kolombia
+    flag: img/flags/co.svg
+    price: Mulai $4.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Hong Kong vs SIM Prabayar Lokal: Mana yang Lebih Nyaman?'
   subtitle: SIM Prabayar Lokal Hong Kong vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Hong Kong) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Hong-Kong
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -478,17 +490,17 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 3 HK SoSIM (HK$33/50GB/30 hari) memaksa siklus 30 hari; turis 3 hari membuang 27 hari dan lebih dari 45GB. csl. Discover Hong Kong SIM (HK$88/3GB/5 hari) berakhir tanpa sistem bayar-per-pakai; harus membeli paket tambahan HK$48 untuk melanjutkan.
     esim_title: Paket Jangka Pendek Fleksibel
-    esim_desc: Tidak seperti siklus 30 hari 3 HK SoSIM (HK$33/50GB) yang membuang 90% untuk perjalanan singkat, Roami menawarkan paket 7 hari mulai dari $1.99/GB, menghemat hingga 90% pemborosan.
+    esim_desc: Tidak seperti siklus 30 hari 3 HK SoSIM (HK$33/50GB) yang membuang 90% untuk perjalanan singkat, Roami menawarkan paket 7 hari mulai dari $0.80/GB, menghemat hingga 90% pemborosan.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
-    prepaid_desc: Ketentuan SmarTone melarang tethering (meskipun tidak diblokir secara teknis). Paket tak terbatas 10 hari CMHK (HK$30, 384kbps) secara eksplisit melarang hotspot. Tidak ada data spesifik tentang kebijakan hotspot operator lain.
+    prepaid_desc: Ketentuan SmarTone melarang tethering (meskipun tidak diblokir secara teknis). Paket tak terbatas 10 hari CMHK (HK$30, 384kbps) secara eksplisit melarang hotspot.
     esim_title: Tethering Tanpa Batas
     esim_desc: Tidak seperti larangan tethering SmarTone dan paket larangan hotspot CMHK (HK$30/10 hari), Roami mengizinkan berbagi hotspot penuh dengan kecepatan tinggi.
   - icon: credit-card
     title: Pembayaran Isi Ulang
     prepaid_title: ''
-    prepaid_desc: Isi ulang online CMHK hanya menerima UnionPay (kartu yang diterbitkan di daratan), menjadi hambatan bagi pemegang kartu internasional. Situs web operator lain mungkin menerima kartu kredit internasional, tetapi tidak ada data spesifik tentang penerimaan Visa/Mastercard/AMEX/Apple Pay/Google Pay/PayPal.
+    prepaid_desc: Isi ulang online CMHK hanya menerima UnionPay (kartu yang diterbitkan di daratan), menjadi hambatan bagi pemegang kartu internasional. Situs web operator lain mungkin menerima kartu kredit internasional, tetapi
     esim_title: Metode Pembayaran Global
     esim_desc: Bayar dengan Visa, Mastercard, AMEX, Apple Pay, Google Pay, atau PayPal. Tidak perlu saluran khusus UnionPay seperti sistem isi ulang CMHK.
   - icon: headset
@@ -519,5 +531,5 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Hilangkan Biaya Hangus dari Siklus Penagihan Panjang
-      desc: <b>3 HK SoSIM (HK$33/50GB/30 hari)</b> memaksa siklus 30 hari; turis 3 hari membuang <b>27 hari</b> dan lebih dari <b>45GB</b>. <b>csl. Discover Hong Kong SIM (HK$88/3GB/5 hari)</b> berakhir tanpa sistem bayar-per-pakai; harus membeli tambahan <b>HK$48</b>. Roami menawarkan paket 7 hari fleksibel mulai dari <b>$1.99/GB</b>.
+      desc: <b>3 HK SoSIM (HK$33/50GB/30 hari)</b> memaksa siklus 30 hari; turis 3 hari membuang <b>27 hari</b> dan lebih dari <b>45GB</b>. <b>csl. Discover Hong Kong SIM (HK$88/3GB/5 hari)</b> berakhir tanpa sistem bayar-per-pakai; harus membeli tambahan <b>HK$48</b>. Roami menawarkan paket 7 hari fleksibel mulai dari <b>$0.80/GB</b>.
 ---

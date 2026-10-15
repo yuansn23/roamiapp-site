@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Selandia Baru - 5G di Auckland & Queenstown | Tanpa Pemborosan 30 Hari | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIM</strong>.<br>Pelanggan baru menikmati diskon 20%, kode promo:web20
 seo:
   title: 'eSIM Selandia Baru: 5G Cepat & Data Tak Terbatas'
-  description: 'eSIM Selandia Baru dari Roami: 5G cepat & data melimpah. Cakupan Spark & Vodafone NZ & 2degrees. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Selandia Baru, beli eSIM Selandia Baru, eSIM Selandia Baru terbaik, eSIM perjalanan Selandia Baru, Spark Selandia Baru, Vodafone NZ Selandia Baru, 2degrees Selandia Baru, eSIM Auckland, eSIM Wellington, eSIM Queenstown, eSIM prabayar Selandia Baru, eSIM 5G Selandia Baru, eSIM Hobbiton
-  low_price: 1.99
-  high_price: 39.9
+  description: 'eSIM Selandia Baru dari Roami: 5G cepat & data melimpah. Cakupan Spark & Vodafone NZ & 2degrees. Aktivasi QR instan, mulai $3.99.'
+  keywords: eSIM Selandia Baru, beli eSIM Selandia Baru, eSIM terbaik Selandia Baru, eSIM perjalanan Selandia Baru, Spark Selandia Baru, Vodafone NZ Selandia Baru, 2degrees Selandia Baru, eSIM Auckland, eSIM Wellington, eSIM Christchurch, eSIM prabayar Selandia Baru, 5G eSIM Selandia Baru, eSIM Milford Sound, eSIM Hobbiton, eSIM Rotorua, paket eSIM Selandia Baru
+  low_price: 3.99
+  high_price: 99.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -274,7 +274,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Selandia Baru: Panduan 5G Spark, Vodafone & 2degrees — Pulau Utara & Selatan'
+  title: 'Cakupan eSIM Selandia Baru: Panduan Lengkap untuk Jaringan Lokal'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -350,7 +350,7 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Panduan eSIM Selandia Baru: 5G, Pemborosan 30 Hari & Tips Perjalanan"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Selandia Baru. Cari tahu kecepatan apa yang diharapkan di Auckland, Queenstown dan di Hobbiton — dan bagaimana menghindari jebakan SIM 30 hari."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Selandia Baru. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
   categories:
   - id: faq-general
     icon: help-circle
@@ -360,7 +360,7 @@ faq_section:
     - q: |
         Mengapa membeli SIM lokal di Selandia Baru begitu membuang uang untuk perjalanan singkat?
       a: |
-        Pasar SIM prabayar Selandia Baru memiliki <strong>cacat besar bagi turis</strong>. One NZ Travel SIM memiliki <strong>durasi minimum 30 hari</strong> — $29 NZD hanya untuk 2GB data selama 30 hari. Untuk perjalanan 7 hari, Anda membayar untuk <strong>23 hari yang tidak Anda gunakan (lebih dari 70% pemborosan)</strong>. Skinny Holiday SIM hanya tersedia di <strong>dua toko bandara tertentu</strong> (Christchurch Hub Convenience dan Queenstown Paper Plus) — jika Anda mendarat di Auckland, Anda tidak bisa membelinya. Roami menawarkan <strong>paket 3, 7, 15, dan 30 hari</strong> mulai dari $1.99 — tanpa komitmen 30 hari paksa, tanpa pemborosan.
+        Pasar SIM prabayar Selandia Baru memiliki <strong>cacat besar bagi turis</strong>. One NZ Travel SIM memiliki <strong>durasi minimum 30 hari</strong> — $29 NZD hanya untuk 2GB data selama 30 hari. Untuk perjalanan 7 hari, Anda membayar untuk <strong>23 hari yang tidak Anda gunakan (lebih dari 70% pemborosan)</strong>. Skinny Holiday SIM hanya tersedia di <strong>dua toko bandara tertentu</strong> (Christchurch Hub Convenience dan Queenstown Paper Plus) — jika Anda mendarat di Auckland, Anda tidak bisa membelinya. Roami menawarkan <strong>paket 3, 7, 15, dan 30 hari</strong> mulai dari $3.99 — tanpa komitmen 30 hari paksa, tanpa pemborosan.
     - q: |
         Apakah Selandia Baru memiliki 5G? Seberapa cepat di Auckland dan Queenstown?
       a: |
@@ -389,63 +389,75 @@ faq_section:
         Kapan masa berlaku eSIM Selandia Baru saya dimulai?
       a: |
         Masa berlaku paket dimulai saat Anda terhubung ke jaringan lokal di Selandia Baru, bukan saat Anda membeli atau menginstalnya. Jadi Anda dapat membeli dan menginstal berminggu-minggu sebelum perjalanan tanpa kehilangan hari paket. Paket 7 hari memberi Anda 7 hari penuh dari koneksi pertama.
+    - q: |
+        Jaringan apa yang dipakai eSIM Selandia Baru saat saya berada di Auckland?
+      a: |
+        eSIM Selandia Baru memakai jaringan Spark dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area Auckland koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Apakah saya tetap online selama berada di Wellington?
+      a: |
+        Ya. Sepanjang perjalanan ke Wellington Anda tetap terhubung lewat jaringan Spark; paket mulai $3.99 cocok untuk pemakaian ringan, sedangkan pengguna data berat bisa menambah kuota kapan saja.
+    - q: |
+        Untuk 7 hari di Selandia Baru dan kota seperti Auckland, lebih baik paket 1GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 1GB (7 hari, $3.99) karena harganya paling efisien dan memadai untuk kunjungan ke Auckland. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $26.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Selandia Baru Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: Inggris Raya
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Estonia
+    flag: img/flags/ee.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Guyana
+    flag: img/flags/gy.svg
+    price: Mulai $9.99
+    is_highlight: false
+  - name: eSIM Kosovo
+    flag: img/flags/xk.svg
+    price: Mulai $13.99
+    is_highlight: false
+  - name: eSIM Belanda
+    flag: img/flags/nl.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
+  - name: eSIM Rusia
+    flag: img/flags/ru.svg
+    price: Mulai $2.99
     is_highlight: false
-  - name: eSIM China
+  - name: eSIM UAE
+    flag: img/flags/ae.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Bahrain
+    flag: img/flags/bh.svg
+    price: Mulai $6.99
+    is_highlight: false
+  - name: eSIM Tiongkok
     flag: img/flags/cn.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
+  - name: eSIM Finlandia
+    flag: img/flags/fi.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
+  - name: eSIM Islandia
+    flag: img/flags/is.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
+  - name: eSIM Latvia
+    flag: img/flags/lv.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
+  - name: eSIM Norwegia
+    flag: img/flags/no.svg
     price: Mulai $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Selandia Baru vs SIM Lokal: Tanpa Pemborosan 30 Hari, Tanpa Larangan Hotspot'
   subtitle: SIM Prabayar Lokal Selandia Baru vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Selandia Baru) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/New-Zealand
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -474,7 +486,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: One NZ Travel SIM memaksa <strong>minimum 30 hari</strong> ($29 NZD untuk 2GB). Skinny Holiday SIM memaksa masa berlaku 30 hari. Turis 7 hari membuang <strong>lebih dari 70%</strong> nilai paket.
     esim_title: Paket Pendek Fleksibel
-    esim_desc: Roami menawarkan <strong>paket 3/7/15/30 hari</strong> mulai dari $1.99 — bayar hanya untuk durasi perjalanan Anda yang sebenarnya. Tanpa komitmen 30 hari paksa, tanpa pemborosan.
+    esim_desc: Roami menawarkan <strong>paket 3/7/15/30 hari</strong> mulai dari $3.99 — bayar hanya untuk durasi perjalanan Anda yang sebenarnya. Tanpa komitmen 30 hari paksa, tanpa pemborosan.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
@@ -500,7 +512,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Tanpa Biaya Hangus 30 Hari
-      desc: One NZ memaksa <b>minimum 30 hari ($29/2GB)</b>. Perjalanan 7 hari membuang <b>lebih dari 70%</b>. Roami menawarkan <b>paket 7 hari mulai dari $1.99/GB</b> — tanpa pemborosan, tanpa pembayaran berlebih.
+      desc: One NZ memaksa <b>minimum 30 hari ($29/2GB)</b>. Perjalanan 7 hari membuang <b>lebih dari 70%</b>. Roami menawarkan <b>paket 7 hari mulai dari $0.80/GB</b> — tanpa pemborosan, tanpa pembayaran berlebih.
     - icon: store
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600

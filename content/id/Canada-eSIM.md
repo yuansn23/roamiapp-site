@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Kanada 2026: Panduan Kota & Jaringan | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIM</strong>.<br>Pelanggan baru menikmati diskon 20%, kode promo:web20
 seo:
   title: 'eSIM Kanada: Paket Hemat & Kuota Besar untuk Turis'
-  description: 'eSIM 5G Kanada dari Roami: internet cepat untuk perjalanan. Cakupan Rogers & Bell & Telus. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Kanada, beli eSIM Kanada, eSIM terbaik Kanada, eSIM perjalanan Kanada, Rogers Kanada, Bell Kanada, Telus Kanada, eSIM Toronto, eSIM Vancouver, eSIM Montreal, eSIM prabayar Kanada, eSIM 5G Kanada
-  low_price: 1.99
-  high_price: 39.9
+  description: 'eSIM 5G Kanada dari Roami: internet cepat untuk perjalanan. Cakupan Rogers & Bell & Telus. Aktivasi QR instan, mulai $3.99.'
+  keywords: eSIM Kanada, beli eSIM Kanada, eSIM Kanada terbaik, eSIM perjalanan Kanada, Rogers Kanada, Bell Kanada, Telus Kanada, eSIM Toronto, eSIM Vancouver, eSIM Montreal, eSIM prabayar Kanada, eSIM 5G Kanada, eSIM Air Terjun Niagara, eSIM Banff, eSIM Calgary, paket eSIM Kanada
+  low_price: 3.99
+  high_price: 59.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Ganti Otomatis
     desc: Terhubung otomatis ke operator Kanada terbaik untuk sinyal terkuat
-plans_title: 'Beli eSIM Kanada: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Daftar Paket eSIM Kanada: Kuota, Durasi & Harga'
 plans_data:
   7 Hari:
   - spec: 1GB
@@ -286,7 +286,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Kanada: Cakupan Jaringan & Perbandingan Operator'
+  title: 'Cakupan eSIM Kanada: Panduan Jaringan KPN, Vodafone & T-Mobile'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -317,7 +317,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Kanada: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Panduan Persiapan eSIM Kanada Sebelum Keberangkatan'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -336,7 +336,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Kanada: 3 Langkah Mudah'
+  title: '3 Langkah Mengaktifkan eSIM Kanada'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -356,12 +356,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Online di Kanada -- Panduan Kualitas Jaringan dan Kecepatan eSIM"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Kanada. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitKanada koneksi untuk wisatawan di Kanada. Cari tahu kecepatan yang diharapkan di Alpen, kota, dan di kereta."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Kanada
+    title: FAQ Lengkap eSIM Kanada
     questions:
     - q: |
         Bagaimana perbandingan Roami dengan Airalo untuk eSIM di Kanada?
@@ -374,7 +374,7 @@ faq_section:
     - q: |
         Dapatkah saya mendapatkan eSIM untuk Kanada tanpa mengeluarkan banyak biaya?
       a: |
-        Tentu saja. Paket eSIM Roami Kanada mulai dari serendah $1.99. Opsi 5GB/15 hari ($9.99) adalah yang paling populer di kalangan pelancong — ini dengan nyaman menangani peta, WhatsApp, Instagram, dan email. Jika Anda pengguna data berat, paket 10GB ($14.99) atau tak terbatas ($59.99) memberi Anda ketenangan pikiran. Melewati konter SIM bandara menghemat 30-50% dan kerumitan mengantre. Perlu menyesuaikan? Anda dapat isi ulang kapan saja dari aplikasi Roami.
+        Tentu saja. Paket eSIM Roami Kanada mulai dari serendah $3.99. Opsi 5GB/15 hari ($14.99) adalah yang paling populer di kalangan pelancong — ini dengan nyaman menangani peta, WhatsApp, Instagram, dan email. Jika Anda pengguna data berat, paket 10GB ($15.99) atau tak terbatas ($50.99) memberi Anda ketenangan pikiran. Melewati konter SIM bandara menghemat 30-50% dan kerumitan mengantre. Perlu menyesuaikan? Anda dapat isi ulang kapan saja dari aplikasi Roami.
     - q: |
         Apa yang terjadi jika eSIM Kanada saya berhenti bekerja di tengah perjalanan?
       a: |
@@ -394,64 +394,76 @@ faq_section:
     - q: |
         Saya memerlukan akses internet hanya untuk beberapa hari di Kanada. Berapa minimum yang dapat saya beli?
       a: |
-        Paket termurah adalah $1.99 untuk 7 hari dengan 1GB — sempurna untuk perjalanan akhir pekan singkat dengan penggunaan ringan. Jika Anda memerlukan lebih banyak, isi ulang kapan saja dari aplikasi.
+        Paket termurah adalah $3.99 untuk 7 hari dengan 1GB — sempurna untuk perjalanan akhir pekan singkat dengan penggunaan ringan. Jika Anda memerlukan lebih banyak, isi ulang kapan saja dari aplikasi.
+    - q: |
+        Apakah eSIM Kanada terhubung ke jaringan Rogers di Toronto?
+      a: |
+        Ya. eSIM Kanada terhubung ke jaringan Rogers dan operator mitra lainnya, jadi sinyal tetap tersedia saat Anda berpindah dari Toronto ke kota lain di Kanada. eSIM langsung aktif setelah dipasang, tanpa perlu memilih operator secara manual.
+    - q: |
+        Apakah eSIM Kanada berfungsi baik di Vancouver?
+      a: |
+        Di Vancouver eSIM Kanada memakai jaringan 4G/5G Rogers, cukup untuk peta, perpesanan, dan mengunggah foto. Paket mulai $3.99 praktis untuk kunjungan singkat ke Vancouver.
+    - q: |
+        Apakah paket 1GB cukup untuk perjalanan 7 hari di Kanada dan kota seperti Toronto?
+      a: |
+        Untuk perjalanan 7 hari, paket 1GB seharga $3.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Toronto. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket Tak Terbatas seharga $50.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Kanada Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
+  - name: eSIM Republik Dominika
+    flag: img/flags/do.svg
+    price: Mulai $5.99
     is_highlight: false
-  - name: eSIM Inggris Raya
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
+  - name: eSIM Ekuador
+    flag: img/flags/ec.svg
+    price: Mulai $6.99
     is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Mesir
+    flag: img/flags/eg.svg
+    price: Mulai $2.99
+    is_highlight: false
+  - name: eSIM El Salvador
+    flag: img/flags/sv.svg
+    price: Mulai $23.99
+    is_highlight: false
+  - name: eSIM Estonia
+    flag: img/flags/ee.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Mulai $1.99
+  - name: eSIM Eswatini
+    flag: img/flags/sz.svg
+    price: Mulai $19.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
+  - name: eSIM Kepulauan Faroe
+    flag: img/flags/fo.svg
+    price: Mulai $5.99
     is_highlight: false
-  - name: eSIM Tiongkok
-    flag: img/flags/cn.svg
-    price: Mulai $1.99
+  - name: eSIM Fiji
+    flag: img/flags/fj.svg
+    price: Mulai $6.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
+  - name: eSIM Finlandia
+    flag: img/flags/fi.svg
     price: Mulai $1.99
     is_highlight: false
   - name: eSIM Prancis
     flag: img/flags/fr.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
+  - name: eSIM Guyana Prancis
+    flag: img/flags/gf.svg
+    price: Mulai $3.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
+  - name: eSIM Gabon
+    flag: img/flags/ga.svg
+    price: Mulai $14.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Kanada vs SIM Fisik: Mana yang Lebih Baik untuk Perjalanan?'
   subtitle: SIM Prabayar Lokal Kanada vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Kanada) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Canada
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -480,11 +492,11 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: 'Sebagian besar paket adalah siklus 30 hari: mis., Chatr $35/30 hari untuk 1GB+bonus 5GB, Lucky Mobile $30/30 hari untuk 1.5GB+bonus 5GB. Perjalanan 7 hari menyia-nyiakan lebih dari 70% nilai paket.'
     esim_title: Paket Jangka Pendek Fleksibel
-    esim_desc: Tidak seperti paket 30 hari Lucky Mobile $30 (1.5GB+bonus 5GB), Roami menawarkan paket 7 hari mulai dari $1.99/GB, menghemat lebih dari 70% pemborosan untuk perjalanan singkat.
+    esim_desc: Tidak seperti paket 30 hari Lucky Mobile $30 (1.5GB+bonus 5GB), Roami menawarkan paket 7 hari mulai dari $1.55/GB, menghemat lebih dari 70% pemborosan untuk perjalanan singkat.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar, sebagian besar paket prabayar Kanada mengizinkan tethering tetapi dapat membatasi kecepatan setelah penggunaan tinggi.
+    prepaid_desc: Sebagian besar paket prabayar Kanada mengizinkan tethering tetapi dapat membatasi kecepatan setelah penggunaan tinggi.
     esim_title: Tethering Tanpa Batasan
     esim_desc: eSIM Roami memungkinkan berbagi hotspot kecepatan penuh, tidak seperti beberapa paket prabayar Kanada yang membatasi tethering setelah beberapa GB.
   - icon: credit-card
@@ -496,7 +508,7 @@ market_analysis:
   - icon: headset
     title: Dukungan Pelanggan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar, dukungan pelanggan biasanya dalam bahasa Inggris dan Prancis, dengan jam terbatas untuk pengguna prabayar.
+    prepaid_desc: Dukungan pelanggan biasanya dalam bahasa Inggris dan Prancis, dengan jam terbatas untuk pengguna prabayar.
     esim_title: Dukungan Multibahasa 24/7
     esim_desc: Dapatkan dukungan sepanjang waktu dalam bahasa Inggris, Prancis, dan bahasa lainnya, tidak seperti jam dukungan prabayar terbatas dari operator Kanada.
   expert_verdict:

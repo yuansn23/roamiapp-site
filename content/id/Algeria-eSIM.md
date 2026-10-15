@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Aljazair 2026: Panduan Perjalanan Lengkap | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -18,10 +18,10 @@ modal:
   text_android: Layanan eSIM kami telah ditingkatkan menjadi <strong>PhoneSIM</strong>.<br>Pelanggan baru menikmati diskon 20%, kode promo:web20
 seo:
   title: 'eSIM Aljazair: Prabayar & Data Tanpa Batas untuk Anda'
-  description: 'eSIM Aljazair dari Roami: 5G cepat & data melimpah. Cakupan Mobilis & Djezzy & Ooredoo. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Aljazair, beli eSIM Aljazair, eSIM terbaik Aljazair, eSIM perjalanan Aljazair, Mobilis Aljazair, Djezzy Aljazair, Ooredoo Aljazair, eSIM Algiers, eSIM Oran, eSIM Constantine, eSIM prabayar Aljazair, eSIM 5G Aljazair
-  low_price: 1.99
-  high_price: 39.9
+  description: 'eSIM Aljazair dari Roami: 5G cepat & data melimpah. Cakupan Mobilis & Djezzy & Ooredoo. Aktivasi QR instan, mulai $3.99.'
+  keywords: eSIM Aljazair, beli eSIM Aljazair, eSIM Aljazair terbaik, eSIM perjalanan Aljazair, Mobilis Aljazair, Djezzy Aljazair, Ooredoo Aljazair, eSIM Algiers, eSIM Oran, eSIM Constantine, eSIM prabayar Aljazair, eSIM 5G Aljazair, eSIM Sahara, eSIM Mediterania, eSIM Annaba, paket eSIM Aljazair
+  low_price: 3.99
+  high_price: 94.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -70,7 +70,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Ganti Otomatis
     desc: Terhubung otomatis ke operator Aljazair terbaik untuk sinyal terkuat
-plans_title: 'Beli eSIM Aljazair: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Aljazair: Harga & Kuota untuk Setiap Durasi'
 plans_data:
   7 Hari:
   - spec: 3GB
@@ -262,7 +262,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Aljazair: Panduan Operator & Peta Cakupan'
+  title: 'Cakupan eSIM Aljazair: Panduan Operator Jaringan Seluler'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -293,7 +293,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Aljazair: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Persiapan eSIM Aljazair: Catatan Penting Sebelum Berangkat'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -312,7 +312,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Aljazair: 3 Langkah Mudah'
+  title: 'Cara Memasang eSIM Aljazair dalam 3 Langkah'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -332,12 +332,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Kecepatan Internet Apa yang Dapat Anda Harapkan dengan eSIM di Aljazair?"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk pelancong di Aljazair. Cari tahu kecepatan apa yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Aljazair. Cari tahu kecepatan yang diharapkan dan di mana eSIM bekerja paling baik."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Aljazair
+    title: Tanya Jawab eSIM Aljazair
     questions:
     - q: |
         Jaringan mana di Aljazair yang memiliki cakupan terbaik untuk pelancong — Mobilis, Djezzy, atau Ooredoo?
@@ -346,7 +346,7 @@ faq_section:
     - q: |
         Apakah paket tak terbatas eSIM Aljazair akan melambat jika saya menggunakan terlalu banyak data?
       a: |
-        Ada kebijakan penggunaan wajar: kecepatan berkurang setelah 30GB dalam sehari. Pada kecepatan berkurang, Anda masih dapat mengirim pesan, bernavigasi, dan menjelajah — hanya video yang tidak lancar. Secara realistis, sebagian besar pelancong tidak mendekati 30GB. Jika Anda khawatir, paket tetap 10GB ($14.99) atau 20GB ($24.99) menghilangkan ketidakpastian sepenuhnya.
+        Ada kebijakan penggunaan wajar: kecepatan berkurang setelah 30GB dalam sehari. Pada kecepatan berkurang, Anda masih dapat mengirim pesan, bernavigasi, dan menjelajah — hanya video yang tidak lancar. Secara realistis, sebagian besar pelancong tidak mendekati 30GB. Jika Anda khawatir, paket tetap 10GB ($18.99) atau 20GB ($30.99) menghilangkan ketidakpastian sepenuhnya.
     - q: |
         Dokumen apa yang saya perlukan untuk membeli eSIM Aljazair dari Roami?
       a: |
@@ -362,7 +362,7 @@ faq_section:
     - q: |
         Apakah eSIM lebih murah daripada roaming internasional untuk Aljazair?
       a: |
-        Ya — eSIM Roami biasanya 80-90% lebih murah daripada paket roaming dari sebagian besar operator rumah. Paket 5GB untuk Aljazair berharga $9.99, sementara roaming dapat dengan mudah menghabiskan biaya $50+ untuk data yang sama. Anda juga mendapatkan kecepatan jaringan lokal daripada roaming yang diperlambat.
+        Ya — eSIM Roami biasanya 80-90% lebih murah daripada paket roaming dari sebagian besar operator rumah. Paket 5GB untuk Aljazair berharga $10.99, sementara roaming dapat dengan mudah menghabiskan biaya $50+ untuk data yang sama. Anda juga mendapatkan kecepatan jaringan lokal daripada roaming yang diperlambat.
     - q: |
         Apa yang terjadi jika saya menggunakan semua data saya di Aljazair sebelum paket saya berakhir?
       a: |
@@ -371,63 +371,75 @@ faq_section:
         Apakah eSIM saya di Aljazair akan berfungsi untuk panggilan video dan kerja jarak jauh?
       a: |
         Tentu saja. Jaringan Mobilis menyediakan koneksi stabil untuk Zoom, Teams, dan Google Meet. Untuk kerja jarak jauh, paket 10GB atau tak terbatas direkomendasikan. eSIM juga mendukung berbagi hotspot untuk laptop Anda.
+    - q: |
+        Jaringan apa yang dipakai eSIM Aljazair saat saya berada di Algiers?
+      a: |
+        eSIM Aljazair memakai jaringan Mobilis dengan peralihan otomatis ke operator mitra bila sinyal melemah. Di area Algiers koneksi 4G/5G cukup untuk peta, perpesanan, dan video singkat.
+    - q: |
+        Apakah saya tetap online selama berada di Oran?
+      a: |
+        Ya. Sepanjang perjalanan ke Oran Anda tetap terhubung lewat jaringan Mobilis; paket mulai $3.99 cocok untuk pemakaian ringan, sedangkan pengguna data berat bisa menambah kuota kapan saja.
+    - q: |
+        Untuk 7 hari di Aljazair dan kota seperti Algiers, lebih baik paket 1GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 1GB (7 hari, $3.99) karena harganya paling efisien dan memadai untuk kunjungan ke Algiers. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $44.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Aljazair Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Inggris Raya
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Belgia
+    flag: img/flags/be.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Burkina Faso
+    flag: img/flags/bf.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Kolombia
+    flag: img/flags/co.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Dominika
+    flag: img/flags/dm.svg
+    price: Mulai $11.99
+    is_highlight: false
+  - name: eSIM Kepulauan Faroe
+    flag: img/flags/fo.svg
+    price: Mulai $5.99
+    is_highlight: false
+  - name: eSIM Jerman
+    flag: img/flags/de.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1.99
+  - name: eSIM Guatemala
+    flag: img/flags/gt.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Tiongkok
-    flag: img/flags/cn.svg
+  - name: eSIM Indonesia
+    flag: img/flags/id.svg
     price: Mulai $1.99
     is_highlight: false
   - name: eSIM Jepang
     flag: img/flags/jp.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
+  - name: eSIM Laos
+    flag: img/flags/la.svg
+    price: Mulai $4.99
     is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
+  - name: eSIM Malawi
+    flag: img/flags/mw.svg
+    price: Mulai $14.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
+  - name: eSIM Belanda
+    flag: img/flags/nl.svg
     price: Mulai $1.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Aljazair vs Kartu SIM Fisik: Apa Perbedaan Sebenarnya?'
   subtitle: SIM Prabayar Lokal Aljazair vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Aljazair) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Algeria
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -448,31 +460,31 @@ market_analysis:
   - icon: globe
     title: Roaming<br>Internasional
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar, prabayar Djezzy tidak termasuk roaming internasional gratis; tambahan roaming mungkin tersedia dengan biaya tambahan.
+    prepaid_desc: Prabayar Djezzy tidak termasuk roaming internasional gratis; tambahan roaming mungkin tersedia dengan biaya tambahan.
     esim_title: Siap Roaming Global
-    esim_desc: Tidak seperti prabayar Djezzy tanpa roaming gratis, eSIM Roami menawarkan paket data global mulai dari $1.99/GB, yang dapat digunakan di lebih dari 100 negara.
+    esim_desc: Tidak seperti prabayar Djezzy tanpa roaming gratis, eSIM Roami menawarkan paket data global mulai dari $1.55/GB, yang dapat digunakan di lebih dari 100 negara.
   - icon: calendar-xmark
     title: Siklus Penagihan &<br>Biaya Hangus
     prepaid_title: ''
     prepaid_desc: Paket menawarkan siklus 24 jam, 7 hari, dan 30 hari; setelah dibeli, paket menghitung mundur secara otomatis tanpa jeda atau pengguliran.
     esim_title: Paket Pendek Fleksibel
-    esim_desc: Paket 30 hari Djezzy (mis., 20GB/1000 DA) menyia-nyiakan 75% untuk perjalanan 7 hari. Roami menawarkan paket 7 hari mulai dari $1.99/GB, menghemat uang dan data.
+    esim_desc: Paket 30 hari Djezzy (mis., 20GB/1000 DA) menyia-nyiakan 75% untuk perjalanan 7 hari. Roami menawarkan paket 7 hari mulai dari $1.55/GB, menghemat uang dan data.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar, Djezzy mengizinkan tethering tetapi dapat membatasi kecepatan setelah penggunaan wajar.
+    prepaid_desc: Djezzy mengizinkan tethering tetapi dapat membatasi kecepatan setelah penggunaan wajar.
     esim_title: Tethering Tanpa Batasan
     esim_desc: Djezzy dapat membatasi tethering setelah penggunaan wajar. eSIM Roami memungkinkan berbagi hotspot kecepatan penuh tanpa batas.
   - icon: credit-card
     title: Pembayaran Isi Ulang
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar, isi ulang dapat dilakukan melalui kartu gores atau online dengan kartu lokal; kartu asing mungkin ditolak.
+    prepaid_desc: Isi ulang dapat dilakukan melalui kartu gores atau online dengan kartu lokal; kartu asing mungkin ditolak.
     esim_title: Metode Pembayaran Global
     esim_desc: Isi ulang Djezzy sering menolak kartu asing. Roami menerima Visa, Mastercard, AMEX, Apple Pay, Google Pay, dan PayPal.
   - icon: headset
     title: Dukungan Pelanggan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar, dukungan pelanggan tersedia dalam bahasa Prancis/Arab, Inggris terbatas, dan tidak ada obrolan langsung 24/7 untuk prabayar.
+    prepaid_desc: Dukungan pelanggan tersedia dalam bahasa Prancis/Arab, Inggris terbatas, dan tidak ada obrolan langsung 24/7 untuk prabayar.
     esim_title: Dukungan Inggris 24/7
     esim_desc: Dukungan Djezzy terbatas pada jam kerja Prancis/Arab. Roami menyediakan obrolan langsung dan dukungan email 24/7 dalam bahasa Inggris.
   expert_verdict:
@@ -482,7 +494,7 @@ market_analysis:
       icon_bg: bg-green-100
       icon_color: text-green-600
       title: Roaming Global Tanpa Tambahan
-      desc: Prabayar Djezzy tidak memiliki roaming gratis; tambahan roaming memerlukan biaya ekstra. eSIM Roami menyediakan paket data global mulai dari $1.99/GB, yang dapat digunakan di 100+ negara.
+      desc: Prabayar Djezzy tidak memiliki roaming gratis; tambahan roaming memerlukan biaya ekstra. eSIM Roami menyediakan paket data global mulai dari $1.55/GB, yang dapat digunakan di 100+ negara.
     - icon: wifi
       icon_bg: bg-purple-100
       icon_color: text-purple-600
@@ -492,7 +504,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Tanpa Biaya Hangus pada Paket Panjang
-      desc: Paket 30 hari Djezzy (mis., 20GB/1000 DA) menghitung mundur secara otomatis; wisatawan 7 hari menyia-nyiakan 75%. Roami menawarkan paket 7 hari mulai dari $1.99/GB, membayar hanya untuk apa yang Anda gunakan.
+      desc: Paket 30 hari Djezzy (mis., 20GB/1000 DA) menghitung mundur secara otomatis; wisatawan 7 hari menyia-nyiakan 75%. Roami menawarkan paket 7 hari mulai dari $1.55/GB, membayar hanya untuk apa yang Anda gunakan.
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600

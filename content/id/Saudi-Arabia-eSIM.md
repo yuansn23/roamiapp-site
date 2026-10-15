@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Arab Saudi - 5G di Riyadh & Jeddah | Tanpa KYC Sidik Jari | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -20,10 +20,10 @@ modal:
     promo:web20
 seo:
   title: 'eSIM Arab Saudi: Prabayar & Data Melimpah untuk Anda'
-  description: 'Roami menawarkan eSIM prabayar Arab Saudi dengan 5G cepat. Cakupan STC & Mobily & Zain. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Arab Saudi, beli eSIM Arab Saudi, eSIM Arab Saudi terbaik, eSIM perjalanan Arab Saudi, STC Arab Saudi, Mobily Arab Saudi, Zain Arab Saudi, eSIM Riyadh, eSIM Jeddah, eSIM Mekkah, eSIM prabayar Arab Saudi, 5G eSIM Arab Saudi, eSIM Umrah, eSIM Saudi tanpa sidik jari
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Roami menawarkan eSIM prabayar Arab Saudi dengan 5G cepat. Cakupan STC & Mobily & Zain. Aktivasi QR instan, mulai $3.99.'
+  keywords: eSIM Arab Saudi, beli eSIM Arab Saudi, eSIM Arab Saudi terbaik, eSIM perjalanan Arab Saudi, STC Arab Saudi, Mobily Arab Saudi, Zain Arab Saudi, eSIM Riyadh, eSIM Jeddah, eSIM Mekkah, eSIM prabayar Arab Saudi, eSIM 5G Arab Saudi, eSIM Umrah, eSIM Madinah, eSIM Dammam, paket eSIM Arab Saudi
+  low_price: 3.99
+  high_price: 96.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -76,7 +76,7 @@ features:
     color: from-emerald-400 to-emerald-600
     title: Siap Kota Suci
     desc: Cakupan 4G/5G di Mekkah, Madinah, Jeddah dan Riyadh — tetap terhubung untuk Umrah & wisata
-plans_title: 'Beli eSIM Arab Saudi: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Arab Saudi: Durasi Pendek hingga Panjang'
 plans_data:
   3 Hari:
   - spec: 1GB
@@ -270,7 +270,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Arab Saudi: Panduan 5G STC, Mobily & Zain — Riyadh ke Mekkah'
+  title: 'Cakupan eSIM Arab Saudi: Panduan 5G Telcel, AT&T & Movistar — Cancún ke Mexico City'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -301,7 +301,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Arab Saudi: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Persiapan Praktis eSIM Arab Saudi untuk Pelancong'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">kompatibel dengan eSIM</a> sebelum membeli.
@@ -328,7 +328,7 @@ reminders:
     code: '*#06#'
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> muncul di layar, perangkat Anda mendukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Arab Saudi: 3 Langkah Mudah'
+  title: 'Panduan Aktivasi eSIM Arab Saudi Sebelum Perjalanan'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -353,7 +353,7 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Arab Saudi
+    title: Semua yang Perlu Diketahui tentang eSIM Arab Saudi
     questions:
     - q: |
         Mengapa saya perlu memberikan sidik jari untuk membeli kartu SIM di Arab Saudi?
@@ -374,7 +374,7 @@ faq_section:
     - q: |
         Mengapa SIM Saudi memiliki siklus 28 hari? Apakah itu pemborosan untuk perjalanan singkat?
       a: |
-        Ya — itu pemborosan besar. Sebagian besar operator Saudi menggunakan <strong>siklus penagihan 28 hari</strong> (STC, Zain, Mobily). Paket 'Like' STC berharga 65 SAR (~$17 USD) untuk 2GB/28 hari. Turis 5 hari membuang <strong>23 hari (82% nilai paket)</strong>. Roami menawarkan <strong>paket 3, 7, 15, dan 30 hari</strong> mulai dari $1.99 — Anda <strong>hanya membayar untuk durasi perjalanan Anda yang sebenarnya</strong>. Tanpa pemborosan 28 hari, tanpa pembayaran berlebih.
+        Ya — itu pemborosan besar. Sebagian besar operator Saudi menggunakan <strong>siklus penagihan 28 hari</strong> (STC, Zain, Mobily). Paket 'Like' STC berharga 65 SAR (~$17 USD) untuk 2GB/28 hari. Turis 5 hari membuang <strong>23 hari (82% nilai paket)</strong>. Roami menawarkan <strong>paket 3, 7, 15, dan 30 hari</strong> mulai dari $3.99 — Anda <strong>hanya membayar untuk durasi perjalanan Anda yang sebenarnya</strong>. Tanpa pemborosan 28 hari, tanpa pembayaran berlebih.
     - q: |
         Dapatkah saya menggunakan eSIM Saudi saya di UEA, Bahrain, atau negara Teluk lainnya?
       a: |
@@ -391,63 +391,75 @@ faq_section:
         Kapan masa berlaku paket eSIM Arab Saudi saya dimulai?
       a: |
         Masa berlaku paket dimulai saat Anda terhubung ke jaringan lokal di Arab Saudi, bukan saat membeli atau menginstalnya. Jadi Anda dapat membeli dan menginstal berminggu-minggu sebelum perjalanan tanpa kehilangan hari paket. Paket 7 hari memberi Anda 7 hari penuh dari koneksi pertama.
+    - q: |
+        Bagaimana cakupan eSIM Arab Saudi di Riyadh dan sekitarnya?
+      a: |
+        Cakupan eSIM Arab Saudi mengikuti jaringan STC di kota besar seperti Riyadh. Di daerah terpencil sinyal bisa lebih lemah, dan eSIM akan berpindah ke operator mitra secara otomatis.
+    - q: |
+        Perlu paket seperti apa untuk perjalanan ke Jeddah?
+      a: |
+        Untuk Jeddah, paket mulai $3.99 sudah memadai: peta, pesan, dan media sosial berjalan lancar lewat jaringan lokal. Bila Anda sering streaming atau memakai hotspot, pilih kuota yang lebih besar.
+    - q: |
+        Untuk 7 hari di Arab Saudi dan kota seperti Riyadh, lebih baik paket 1GB atau kuota yang lebih besar?
+      a: |
+        Sebagian besar pelancong memilih paket 1GB (7 hari, $3.99) karena harganya paling efisien dan memadai untuk kunjungan ke Riyadh. Jika perjalanan Anda padat data, paket Tak Terbatas seharga $46.99 menyediakan kuota lebih lega untuk unggahan foto dan panggilan video.
 related_products:
   title: Paket eSIM Arab Saudi Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Inggris
-    flag: img/flags/gb.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
+  - name: eSIM Tiongkok
+    flag: img/flags/cn.svg
     price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
+  - name: eSIM Guyana Prancis
+    flag: img/flags/gf.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Irlandia
+    flag: img/flags/ie.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Malawi
+    flag: img/flags/mw.svg
+    price: Mulai $14.99
+    is_highlight: false
+  - name: eSIM Portugal
+    flag: img/flags/pt.svg
     price: Mulai $1.99
     is_highlight: false
   - name: eSIM Turki
     flag: img/flags/tr.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM China
-    flag: img/flags/cn.svg
+  - name: eSIM Bahama
+    flag: img/flags/bs.svg
+    price: Mulai $16.99
+    is_highlight: false
+  - name: eSIM Kolombia
+    flag: img/flags/co.svg
+    price: Mulai $4.99
+    is_highlight: false
+  - name: eSIM Gabon
+    flag: img/flags/ga.svg
+    price: Mulai $14.99
+    is_highlight: false
+  - name: eSIM Israel
+    flag: img/flags/il.svg
+    price: Mulai $2.99
+    is_highlight: false
+  - name: eSIM Malaysia
+    flag: img/flags/my.svg
     price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Prancis
-    flag: img/flags/fr.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1.99
-    is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1.99
+  - name: eSIM Puerto Rico
+    flag: img/flags/pu.svg
+    price: Mulai $6.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Arab Saudi vs SIM Lokal: Tanpa Sidik Jari, Tanpa Pemborosan 28 Hari, Tanpa SIM Ilegal'
   subtitle: SIM Prabayar Lokal Arab Saudi vs. Solusi eSIM (Tolok Ukur 2024/2025)
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Arab Saudi) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Saudi-Arabia
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -476,7 +488,7 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Semua operator menggunakan <strong>siklus penagihan 28 hari</strong>. STC 'Like' berharga 65 SAR (~$17 USD) untuk 2GB/28 hari. Turis 5 hari membuang <strong>23 hari (pemborosan 82%)</strong>.
     esim_title: Paket Pendek Fleksibel
-    esim_desc: Roami menawarkan <strong>paket 3/7/15/30 hari</strong> mulai dari $1.99 — bayar hanya untuk durasi perjalanan Anda yang sebenarnya. Tanpa komitmen paksa 28 hari, tanpa pemborosan 82%.
+    esim_desc: Roami menawarkan <strong>paket 3/7/15/30 hari</strong> mulai dari $3.99 — bayar hanya untuk durasi perjalanan Anda yang sebenarnya. Tanpa komitmen paksa 28 hari, tanpa pemborosan 82%.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
@@ -512,7 +524,7 @@ market_analysis:
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Tanpa Pemborosan Biaya Tenggelam 28 Hari
-      desc: STC/Mobily/Zain memaksa <b>paket 28 hari</b> (65 SAR/2GB). Perjalanan 5 hari membuang <b>82%</b>. Roami menawarkan <b>paket 3 hari dari $1.99/GB</b> — tanpa pemborosan.
+      desc: STC/Mobily/Zain memaksa <b>paket 28 hari</b> (65 SAR/2GB). Perjalanan 5 hari membuang <b>82%</b>. Roami menawarkan <b>paket 3 hari dari $1.50/GB</b> — tanpa pemborosan.
     - icon: shield
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600

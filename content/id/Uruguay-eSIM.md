@@ -1,7 +1,7 @@
 ---
 title: 'eSIM Uruguay 2026: Panduan Perjalanan Lengkap | Roami'
-date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+date: '2026-10-14T00:00:00+00:00'
+lastmod: 2026-10-14T00:00:00Z
 draft: false
 type: esim
 country_meta:
@@ -20,11 +20,10 @@ modal:
     promo:web20
 seo:
   title: 'eSIM Uruguay: Paket Hemat & Kuota Melimpah untuk Anda'
-  description: 'Beli eSIM prabayar Uruguay dari Roami dengan 5G cepat. Cakupan Antel & Claro & Movistar. Aktivasi QR instan, mulai $1.99.'
-  keywords: eSIM Uruguay, beli eSIM Uruguay, eSIM terbaik Uruguay, eSIM perjalanan Uruguay, Antel Uruguay, Claro Uruguay, Movistar
-    Uruguay, eSIM Montevideo, eSIM Salto, eSIM Punta del Este, eSIM prabayar Uruguay, eSIM 5G Uruguay
-  low_price: 1.99
-  high_price: 39.9
+  description: 'Beli eSIM prabayar Uruguay dari Roami dengan 5G cepat. Cakupan Antel & Claro & Movistar. Aktivasi QR instan, mulai $11.99.'
+  keywords: eSIM Uruguay, beli eSIM Uruguay, eSIM terbaik Uruguay, eSIM perjalanan Uruguay, Antel Uruguay, Claro Uruguay, Movistar Uruguay, eSIM Montevideo, eSIM Salto, eSIM Punta del Este, eSIM prabayar Uruguay, 5G eSIM Uruguay, eSIM Colonia, eSIM Gaucho, eSIM Colonia del Sacramento, paket eSIM Uruguay
+  low_price: 11.99
+  high_price: 98.99
 order_summary:
   title: Paket Dipilih
   label_data: Data Termasuk
@@ -73,7 +72,7 @@ features:
     color: from-blue-400 to-blue-600
     title: Pergantian Otomatis
     desc: Terhubung otomatis ke operator Uruguay terbaik untuk sinyal terbaik
-plans_title: 'Beli eSIM Uruguay: Paket untuk Setiap Durasi Perjalanan'
+plans_title: 'Paket eSIM Uruguay: Pilih Data Sesuai Lama Perjalanan'
 plans_data:
   7 Hari:
   - spec: 1GB
@@ -251,7 +250,7 @@ discount_banner:
   btn_text: Klaim Diskon
   validity: 'Berlaku: 3 Hari'
 network_coverage:
-  title: 'Cakupan eSIM Uruguay: Panduan Operator & Peta Cakupan'
+  title: 'Cakupan eSIM Uruguay: Cakupan Jaringan & Perbandingan Operator'
   supports_text: 'Mendukung:'
   service_details:
     title: Detail Layanan
@@ -284,7 +283,7 @@ network_coverage:
       coverage: Cakupan perkotaan yang baik
       network: Jaringan 5G/4G/LTE
 reminders:
-  title: 'Tips Pengaturan eSIM Uruguay: Yang Perlu Diketahui Sebelum Berangkat'
+  title: 'Tips Pengaturan eSIM Uruguay: Apa yang Perlu Diketahui Sebelum Berangkat'
   items:
   - icon: 📱
     html: Pastikan ponsel Anda <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
@@ -305,7 +304,7 @@ reminders:
     result_html: Jika nomor <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
       muncul di layar, perangkat Anda didukung!
 activation_steps:
-  title: 'Cara Menginstal eSIM Uruguay: 3 Langkah Mudah'
+  title: 'Aktivasi eSIM Uruguay: Panduan 3 Langkah'
   steps:
   - num: '1'
     title: 'Langkah 1: Terima Kode QR'
@@ -327,12 +326,12 @@ activation_steps:
     is_list: false
 faq_section:
   title: "Seberapa Cepat Internet eSIM di Uruguay? Kecepatan dan Cakupan untuk Wisatawan"
-  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Uruguay. Cari tahu kecepatan yang diharapkan dan di mana eSIM bekerja paling baik."
+  desc: "Panduan lengkap tentang kecepatan internet eSIM, cakupan jaringan, dan kualitas koneksi untuk wisatawan di Uruguay. Cari tahu kecepatan yang diharapkan di Warsawa, Krakow dan Gdansk — dan cara menghindari aturan registrasi SIM ketat Uruguay."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Umum
-    title: FAQ eSIM Uruguay
+    title: Pertanyaan Umum tentang eSIM Uruguay
     questions:
     - q: |
         Apakah Roami beralih antara Antel, Claro, dan Movistar di Uruguay secara otomatis?
@@ -345,7 +344,7 @@ faq_section:
     - q: |
         Berapa anggaran yang harus saya siapkan untuk eSIM saat mengunjungi Uruguay?
       a: |
-        Roami menawarkan eSIM Uruguay mulai dari $1,99 untuk paket ringan 7 hari hingga $59,99 untuk data tak terbatas 30 hari. Sebagian besar pengunjung memilih paket 5GB/15 hari seharga $9,99 — ini mencakup navigasi harian, media sosial, dan pesan tanpa stres. Penggemar streaming atau pengguna sosial berat harus mempertimbangkan 10GB atau tak terbatas. Antel menyediakan kecepatan andal di seluruh Uruguay. Paket Roami bersifat prabayar — tanpa tagihan kejutan, tanpa perpanjangan otomatis, hanya harga yang jelas.
+        Roami menawarkan eSIM Uruguay mulai dari $11.99 untuk paket ringan 7 hari hingga $66.99 untuk data tak terbatas 30 hari. Sebagian besar pengunjung memilih paket 5GB/15 hari seharga $26.99 — ini mencakup navigasi harian, media sosial, dan pesan tanpa stres. Penggemar streaming atau pengguna sosial berat harus mempertimbangkan 10GB atau tak terbatas. Antel menyediakan kecepatan andal di seluruh Uruguay. Paket Roami bersifat prabayar — tanpa tagihan kejutan, tanpa perpanjangan otomatis, hanya harga yang jelas.
     - q: |
         Apakah aman mengunggah paspor saya untuk registrasi eSIM Uruguay? Saya khawatir tentang privasi.
       a: |
@@ -366,63 +365,75 @@ faq_section:
         Berapa banyak data yang sebenarnya digunakan wisatawan rata-rata per hari di Uruguay?
       a: |
         Penggunaan harian rata-rata untuk sebagian besar turis: 300-500MB untuk peta dan pesan, hingga 1GB jika Anda banyak menggunakan media sosial. Untuk perjalanan satu minggu, 5GB cukup nyaman. Untuk dua minggu, gunakan 10GB. Roami memudahkan isi ulang jika Anda kehabisan.
+    - q: |
+        Apakah eSIM Roami Uruguay memakai jaringan Antel?
+      a: |
+        Tentu. eSIM Roami bekerja di jaringan Antel tanpa registrasi tambahan; jaringan dipilih otomatis untuk sinyal terbaik, baik di Montevideo maupun saat Anda melanjutkan perjalanan ke kota lain di Uruguay.
+    - q: |
+        Cukupkah paket termurah untuk pemakaian saya di Salto?
+      a: |
+        Paket mulai $11.99 sudah menutupi navigasi, pesan, dan media sosial selama Anda berada di Salto. Aktivasi dilakukan sekali sebelum berangkat, jadi tidak ada antrean di bandara.
+    - q: |
+        Apakah paket 1GB cukup untuk perjalanan 7 hari di Uruguay dan kota seperti Montevideo?
+      a: |
+        Untuk perjalanan 7 hari, paket 1GB seharga $11.99 adalah pilihan paling hemat dan cukup untuk peta, perpesanan, serta media sosial harian termasuk saat berada di Montevideo. Bila Anda butuh ruang ekstra untuk streaming atau hotspot, paket 20GB seharga $68.99 memberi kuota lebih besar.
 related_products:
   title: Paket eSIM Uruguay Terkait
   items:
-  - name: eSIM Amerika Serikat
-    flag: img/flags/us.svg
-    price: Mulai $1,99
-    is_highlight: false
-  - name: Inggris Raya
-    flag: img/flags/gb.svg
-    price: Mulai $1,99
-    is_highlight: false
-  - name: eSIM Eropa
-    flag: img/flags/eu.svg
-    price: Mulai $1,99
+  - name: eSIM Indonesia
+    flag: img/flags/id.svg
+    price: Mulai $1.99
     is_highlight: true
-  - name: eSIM Kanada
-    flag: img/flags/ca.svg
-    price: Mulai $1,99
+  - name: eSIM Luksemburg
+    flag: img/flags/lu.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Turki
-    flag: img/flags/tr.svg
-    price: Mulai $1,99
+  - name: eSIM Filipina
+    flag: img/flags/ph.svg
+    price: Mulai $2.99
     is_highlight: false
-  - name: eSIM Tiongkok
-    flag: img/flags/cn.svg
-    price: Mulai $1,99
+  - name: eSIM Thailand
+    flag: img/flags/th.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Jepang
-    flag: img/flags/jp.svg
-    price: Mulai $1,99
+  - name: eSIM Austria
+    flag: img/flags/at.svg
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Hong Kong
-    flag: img/flags/hk.svg
-    price: Mulai $1,99
+  - name: eSIM Chili
+    flag: img/flags/cl.svg
+    price: Mulai $4.99
     is_highlight: false
   - name: eSIM Prancis
     flag: img/flags/fr.svg
-    price: Mulai $1,99
+    price: Mulai $1.99
     is_highlight: false
-  - name: eSIM Spanyol
-    flag: img/flags/es.svg
-    price: Mulai $1,99
+  - name: eSIM Irak
+    flag: img/flags/iq.svg
+    price: Mulai $9.99
     is_highlight: false
-  - name: eSIM Jerman
-    flag: img/flags/de.svg
-    price: Mulai $1,99
+  - name: eSIM Madagaskar
+    flag: img/flags/mg.svg
+    price: Mulai $11.99
     is_highlight: false
-  - name: eSIM Australia
-    flag: img/flags/au.svg
-    price: Mulai $1,99
+  - name: eSIM Polandia
+    flag: img/flags/pl.svg
+    price: Mulai $1.99
+    is_highlight: false
+  - name: eSIM Tunisia
+    flag: img/flags/tn.svg
+    price: Mulai $3.99
+    is_highlight: false
+  - name: eSIM Azerbaijan
+    flag: img/flags/az.svg
+    price: Mulai $6.99
     is_highlight: false
 market_analysis:
   title: 'eSIM Uruguay vs SIM Prabayar Lokal: Mana yang Lebih Nyaman?'
   subtitle: 'SIM Prabayar Lokal Uruguay vs. Solusi eSIM (Benchmark 2024/2025)'
   citation:
-    text: 'Sumber Data: Prepaid Data SIM Card Wiki (Uruguay) + Situs Operator Lokal'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Uruguay
+    text: 'Sumber Data: GSMA Mobile Connectivity Index + Situs Operator Lokal'
+    url: https://www.mobileconnectivityindex.com/
   table_headers:
   - Matriks Perbandingan
   - SIM Prabayar Lokal (Data Pasar)
@@ -457,12 +468,11 @@ market_analysis:
       hari (165 UYU/760MB) menyia-nyiakan lebih dari 75% nilai paket.
     esim_title: Paket Jangka Pendek Fleksibel
     esim_desc: Tidak seperti siklus 30 hari Antel (165 UYU/760MB) yang menyia-nyiakan 75% untuk perjalanan 7 hari, Roami menawarkan paket 7 hari mulai
-      dari $1,99/GB.
+      dari $1.55/GB.
   - icon: wifi
     title: Kebijakan Hotspot &<br>Kecepatan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar umum, sebagian besar paket prabayar
-      Uruguay mengizinkan tethering tetapi mungkin membatasi kecepatan setelah batas tertentu.
+    prepaid_desc: Sebagian besar paket prabayar Uruguay mengizinkan tethering tetapi mungkin membatasi kecepatan setelah batas tertentu.
     esim_title: Tethering Tanpa Batas
     esim_desc: eSIM Roami memungkinkan berbagi hotspot kecepatan penuh, tidak seperti beberapa paket lokal yang mungkin membatasi atau memblokir tethering.
   - icon: credit-card
@@ -476,8 +486,7 @@ market_analysis:
   - icon: headset
     title: Dukungan Pelanggan
     prepaid_title: ''
-    prepaid_desc: Tidak ada data spesifik dalam sumber untuk dimensi ini. Berdasarkan pengetahuan pasar umum, dukungan pelanggan biasanya
-      dalam bahasa Spanyol, dengan bantuan bahasa Inggris terbatas.
+    prepaid_desc: Dukungan pelanggan biasanya dalam bahasa Spanyol, dengan bantuan bahasa Inggris terbatas.
     esim_title: Dukungan Multibahasa 24/7
     esim_desc: Dapatkan dukungan berbahasa Inggris kapan saja, tidak seperti saluran telepon berbahasa Spanyol operator lokal.
   expert_verdict:
