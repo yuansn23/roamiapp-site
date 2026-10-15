@@ -3,7 +3,7 @@
 title: "Albanien eSIM: Vodafone oder One für Ihre Reise?"
 
 description: "Albanien eSIM im Vergleich: Vodafone und One nach Netzabdeckung, Tempo und Preis, damit Sie online landen statt am Schalter zu warten."
-image: "img/esim/carriers/albania-esim-carrier-guide.jpg"
+image: "img/esim/carriers/albania-esim-carrier-guide.webp"
 
 date: "2026-09-27T08:13:00+00:00"
 

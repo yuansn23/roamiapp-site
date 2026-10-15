@@ -3,7 +3,7 @@
 title: "Welches Netz braucht Ihre Äthiopien eSIM wirklich?"
 
 description: "Die Äthiopien eSIM im Vergleich von Ethio Telecom bis Safaricom mit Registrierung, Abschaltungs-Risiko und Tarif-Tipps für die Reise."
-image: "img/esim/carriers/ethiopia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ethiopia-esim-carrier-guide.webp"
 
 date: "2026-09-26T00:39:19+00:00"
 

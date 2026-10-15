@@ -240,7 +240,7 @@ De juiste **travel SIM-aanbieders** kiezen kan overweldigend zijn. Hier is een v
 
 Bij het evalueren van **SIM-abonnementen voor internationaal reizen**, kijk niet alleen naar prijs maar ook naar netwerkkwaliteit, dekkingsdiepte en beschikbaarheid van support. Voor reizen in de VS biedt een **[USA eSIM](/united-states-esim/)** met multi-carrier wisselen de beste betrouwbaarheid — en onze [US eSIM abonnementsgids](/faq/the-ultimate-guide-to-us-esim-in-2026-how-to-choose-the-best-plan/) vergelijkt aanbieders, prijzen en netwerken in detail.
 
-Voor meer details over specifieke aanbieders, bekijk onze [USA eSIM vergelijkingsgids](/blog/best-usa-esim-comparison-airalo-holafly/).
+Voor meer details over specifieke aanbieders, bekijk onze [USA eSIM vergelijkingsgids](/blog/usa-esim-provider-comparison/).
 
 
 ## Hoeveel travel eSIM-data heb je nodig?

@@ -1,7 +1,7 @@
 ---
 title: "Kroatien eSIM für die Inseln: HT, A1 und Telemach"
 description: "Kroatien eSIM im Vergleich: Hrvatski Telekom, A1 und Telemach nach Küstenabdeckung, Inselfähren, Preisen und EU-Roaming."
-image: "img/esim/carriers/croatia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/croatia-esim-carrier-guide.webp"
 date: "2026-09-27T04:29:22+00:00"
 keywords: Kroatien eSIM, Kroatien eSIM-Netzbetreiber, Hrvatski Telekom, A1 Hrvatska, Telemach, Plitvicer Seen, Dubrovnik, High-Speed-Daten, keine Roaming-Gebühren, eSIM-Kompatibilität
 site_name: Roami

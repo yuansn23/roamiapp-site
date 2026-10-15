@@ -1,7 +1,7 @@
 ---
 title: "Irak eSIM: Asiacell, Zain oder Korek im Netzvergleich"
 description: "Irak eSIM im Vergleich: Asiacell, Zain und Korek nach Netzabdeckung, Preisen und Reisepass-Regeln für Bagdad und Kurdistan."
-image: "img/esim/carriers/iraq-esim-carrier-guide.jpg"
+image: "img/esim/carriers/iraq-esim-carrier-guide.webp"
 date: "2026-09-25T03:02:35+00:00"
 keywords: Irak-eSIM, irakische eSIM-Netzbetreiber, Asiacell eSIM, Zain Irak-eSIM, Korek Telecom, Irak-Reise-eSIM, eSIM für den Irak, mobile Daten im Irak, eSIM-Kompatibilität
 site_name: Roami

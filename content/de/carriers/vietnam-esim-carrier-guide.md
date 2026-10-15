@@ -2,7 +2,7 @@
 
 title: "Vietnam eSIM: Viettel, Vinaphone oder Mobifone wählen"
 description: "Vietnam eSIM im Vergleich: Viettel, Vinaphone und Mobifone nach Tempo, Abdeckung von Sapa bis zum Mekong und Passregeln."
-image: "img/esim/carriers/vietnam-esim-carrier-guide.jpg"
+image: "img/esim/carriers/vietnam-esim-carrier-guide.webp"
 
 date: "2026-09-23T22:18:00+00:00"
 

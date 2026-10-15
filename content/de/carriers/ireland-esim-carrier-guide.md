@@ -1,7 +1,7 @@
 ---
 title: "Welche Irland eSIM passt zu Three, Vodafone und Eir?"
 description: "Irland eSIM im Test: Three, Vodafone und Eir nach Ookla-Messwerten – Netzabdeckung, Wild Atlantic Way und Preise für Touristen."
-image: "img/esim/carriers/ireland-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ireland-esim-carrier-guide.webp"
 date: "2026-09-25T00:37:08+00:00"
 keywords: Irland eSIM-Netzbetreiber, Irland eSIM-Anbieter, Three eSIM, Vodafone eSIM, Eir eSIM, Irland 5G-Netzabdeckung, Irland eSIM APN, eSIM Irland Prepaid, bester eSIM-Netzbetreiber Irland, Irland Reise-eSIM, Roaming Nordirland
 site_name: Roami

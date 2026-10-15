@@ -3,7 +3,7 @@
 title: "Ägypten-eSIM-Netzbetreiber: Vodafone, e&, Orange und WE"
 
 description: "Ägypten eSIM im Vergleich: Vodafone, e&, Orange und WE nach Netzabdeckung, Registrierungspflicht und Preisen für Ihre Reise."
-image: "img/esim/carriers/egypt-esim-carrier-guide.jpg"
+image: "img/esim/carriers/egypt-esim-carrier-guide.webp"
 
 date: "2026-09-26T06:57:13+00:00"
 

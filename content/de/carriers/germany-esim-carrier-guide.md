@@ -1,7 +1,7 @@
 ---
 title: "Deutschland eSIM: Wer hat das beste Netz für Reisende?"
 description: "Deutschland eSIM im Netzvergleich: Telekom, Vodafone und O2 nach Speed, Abdeckung und Preis – plus die Identitätsregeln für Prepaid."
-image: "img/esim/carriers/germany-esim-carrier-guide.jpg"
+image: "img/esim/carriers/germany-esim-carrier-guide.webp"
 date: "2026-09-26T09:25:04+00:00"
 keywords: Deutschland eSIM-Netzbetreiber, Telekom eSIM, Vodafone eSIM, O2 eSIM, Aldi Talk eSIM, Lidl Connect eSIM, Deutschland 5G-Netzabdeckung, Deutschland eSIM APN, eSIM Deutschland Prepaid, bester eSIM-Netzbetreiber Deutschland
 site_name: Roami

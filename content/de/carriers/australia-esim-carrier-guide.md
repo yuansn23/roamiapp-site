@@ -1,7 +1,7 @@
 ---
 title: "Australien eSIM: Telstra, Optus und Vodafone verglichen"
 description: "Australien eSIM im Vergleich: Telstra, Optus und Vodafone nach Abdeckung, Geschwindigkeit und Preis – mit Tariftipps für Ihre Route."
-image: "img/esim/carriers/australia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/australia-esim-carrier-guide.webp"
 date: "2026-09-27T22:51:39+00:00"
 keywords: Australien eSIM-Netzbetreiber, Telstra eSIM, Optus eSIM, Vodafone eSIM, Australien 5G-Netzabdeckung, Australien eSIM APN, eSIM Australien Prepaid, bester eSIM-Netzbetreiber Australien, Australien Reiseprofil
 site_name: Roami

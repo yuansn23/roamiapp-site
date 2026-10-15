@@ -3,7 +3,7 @@
 title: "Finnland eSIM mit DNA, Elisa oder Telia im Vergleich"
 
 description: "DNA, Elisa oder Telia für Ihre Finnland eSIM? Der Vergleich nach Netzabdeckung, Tempo und Preis – mit APN und Aktivierung vor dem Abflug."
-image: "img/esim/carriers/finland-esim-carrier-guide.jpg"
+image: "img/esim/carriers/finland-esim-carrier-guide.webp"
 
 date: "2026-09-26T16:08:58+00:00"
 

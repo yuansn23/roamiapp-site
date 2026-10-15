@@ -1,7 +1,7 @@
 ---
 title: "Singapur eSIM: Singtel, StarHub oder M1 im Vergleich"
 description: "Singapur eSIM im Vergleich: Singtel, StarHub und M1 nach Tempo, Touristentarifen und der Reisepass-Regel für Prepaid-SIMs."
-image: "img/esim/carriers/singapore-esim-carrier-guide.jpg"
+image: "img/esim/carriers/singapore-esim-carrier-guide.webp"
 date: "2026-09-23T04:42:04+00:00"
 keywords: Singapur eSIM-Netzbetreiber, Singtel eSIM, StarHub eSIM, M1 eSIM, Singapur Touristen eSIM, Singapur 5G-Bänder, Singapur eSIM APN, eSIM Singapur Prepaid, bester eSIM-Netzbetreiber Singapur, Singapur Prepaid-SIM-Registrierung
 site_name: Roami

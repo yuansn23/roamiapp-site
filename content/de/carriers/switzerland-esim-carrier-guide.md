@@ -3,7 +3,7 @@
 title: "Schweiz-eSIM-Netzbetreiber: Swisscom, Sunrise und Salt"
 
 description: "Schweiz eSIM im Vergleich: Swisscom, Sunrise und Salt nach Netzabdeckung in den Alpen, Preisen und Prepaid-Registrierung."
-image: "img/esim/carriers/switzerland-esim-carrier-guide.jpg"
+image: "img/esim/carriers/switzerland-esim-carrier-guide.webp"
 
 date: "2026-09-23T10:34:23+00:00"
 

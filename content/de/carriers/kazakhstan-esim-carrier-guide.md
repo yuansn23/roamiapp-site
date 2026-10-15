@@ -3,7 +3,7 @@
 title: "Die beste Kasachstan-eSIM: Kcell, Tele2 oder Beeline"
 
 description: "Kcell, Tele2 oder Beeline für Ihre Kasachstan-eSIM? Netzanalyse mit 5G-Tempo, Abdeckung abseits der Städte, Preisen und SIM-Registrierung."
-image: "img/esim/carriers/kazakhstan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/kazakhstan-esim-carrier-guide.webp"
 
 date: "2026-09-25T09:07:53+00:00"
 

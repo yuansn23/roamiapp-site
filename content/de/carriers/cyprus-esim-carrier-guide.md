@@ -3,7 +3,7 @@
 title: "Welches Netz ist das beste für Ihre Zypern eSIM?"
 
 description: "Zypern eSIM im Vergleich: Cyta, Epic und PrimeTel nach Netzabdeckung, Tempo und Preis erklärt, inklusive Grüner Linie und APN-Werten."
-image: "img/esim/carriers/cyprus-esim-carrier-guide.jpg"
+image: "img/esim/carriers/cyprus-esim-carrier-guide.webp"
 
 date: "2026-09-27T01:09:55+00:00"
 

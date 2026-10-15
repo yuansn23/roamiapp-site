@@ -1,7 +1,7 @@
 ---
 title: "USA eSIM: T-Mobile, Verizon oder AT&T im Vergleich"
 description: "USA eSIM im Vergleich: T-Mobile, Verizon und AT&T nach Netzabdeckung, Prepaid-Regeln und Preisen für Städte und Nationalparks."
-image: "img/esim/carriers/united-states-esim-carrier-guide.jpg"
+image: "img/esim/carriers/united-states-esim-carrier-guide.webp"
 date: "2026-09-23T07:21:20+00:00"
 keywords: USA eSIM-Netzbetreiber, T-Mobile eSIM, Verizon eSIM, AT&T eSIM, Cricket Wireless eSIM, Visible eSIM, Metro von T-Mobile eSIM, US 5G-Netzabdeckung, US eSIM-APN, Prepaid-eSIM USA
 site_name: Roami

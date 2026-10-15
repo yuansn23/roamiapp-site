@@ -3,7 +3,7 @@
 title: "Antel vs Movistar vs Claro: Uruguay-eSIM-Netzbetreiber"
 
 description: "Antel, Movistar oder Claro? Roami vergleicht alle drei Uruguay-eSIM-Netzbetreiber, von Montevideo bis zur Funklochzone Cabo Polonio."
-image: "img/esim/carriers/uruguay-esim-carrier-guide.jpg"
+image: "img/esim/carriers/uruguay-esim-carrier-guide.webp"
 
 date: "2026-09-23T04:05:53+00:00"
 

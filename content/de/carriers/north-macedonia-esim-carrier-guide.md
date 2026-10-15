@@ -4,7 +4,7 @@
 
 title: "Nordmazedonien eSIM: A1, Telekom oder MTEL wählen"
 description: "Nordmazedonien eSIM im Vergleich: A1, Telekom und MTEL nach Netzabdeckung, Preisen und Westbalkan-Roaming für Ihre Reise."
-image: "img/esim/carriers/north-macedonia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/north-macedonia-esim-carrier-guide.webp"
 
 
 

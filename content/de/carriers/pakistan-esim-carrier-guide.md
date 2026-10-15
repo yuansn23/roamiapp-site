@@ -5,7 +5,7 @@ title: "Pakistan-eSIM-Netzbetreiber: Jazz, Zong und Transworld"
 
 
 description: "Pakistan eSIM im Vergleich: Jazz, Zong, PTCL und Transworld nach Tempo, Stadtabdeckung, IMEI-Regeln und Preisen für Reisende."
-image: "img/esim/carriers/pakistan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/pakistan-esim-carrier-guide.webp"
 
 
 date: "2026-09-24T05:22:40+00:00"

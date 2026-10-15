@@ -1,7 +1,7 @@
 ---
 title: "Saudi-Arabien eSIM: STC, Mobily oder Zain KSA wählen"
 description: "Saudi-Arabien eSIM im Vergleich: STC, Mobily und Zain KSA nach Visumtyp, Registrierungsregeln und regionaler Netzabdeckung."
-image: "img/esim/carriers/saudi-arabia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/saudi-arabia-esim-carrier-guide.webp"
 date: "2026-09-24T07:31:31+00:00"
 keywords: Saudi-Arabien eSIM, Saudi-Arabien eSIM-Netzbetreiber, 5G-Reisenetz, STC eSIM, Mobily eSIM, Zain KSA eSIM, Saudi-Arabien Reise-eSIM, keine Roaming-Gebühren, eSIM-Kompatibilität
 site_name: Roami

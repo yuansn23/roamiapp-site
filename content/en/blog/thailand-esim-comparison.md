@@ -442,7 +442,7 @@ Yes — DTAC merged into True Corp in 2023. DTAC-branded eSIMs still exist but u
 **Saily** uses the AIS network and doesn’t require registration, while **Airalo** runs on TrueMove H. Both skip the passport hassle — choose by the network your itinerary needs.
 
 **Q9: Can I use a Thailand eSIM in other countries?**
-Most Thailand eSIM plans are Thailand-only. For multi-country travel, look for a regional Asia eSIM (Airalo, Nomad, Ubigi, and Saily offer regional packages). And if your next trip is to the US rather than Thailand, our [best USA eSIM comparison](/blog/best-usa-esim-comparison-airalo-holafly/) breaks down the three-carrier question there.
+Most Thailand eSIM plans are Thailand-only. For multi-country travel, look for a regional Asia eSIM (Airalo, Nomad, Ubigi, and Saily offer regional packages). And if your next trip is to the US rather than Thailand, our [best USA eSIM comparison](/blog/usa-esim-provider-comparison/) breaks down the three-carrier question there.
 
 **Q10: Is AIS worth the extra cost over True Corp?**
 If your itinerary includes islands or northern mountains, yes — AIS is the reliable option there. If you’re staying in Bangkok, Pattaya, or Phuket, True Corp is fine and often cheaper. The extra cost only makes sense if you’re leaving the major cities.

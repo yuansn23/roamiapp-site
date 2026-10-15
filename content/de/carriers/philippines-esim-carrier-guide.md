@@ -1,7 +1,7 @@
 ---
 title: "Philippinen eSIM: Globe, Smart oder DITO im Vergleich"
 description: "Philippinen eSIM im Vergleich: Globe, Smart und DITO nach Tempo, Inselabdeckung, Registrierungspflicht und Preisen für Reisende."
-image: "img/esim/carriers/philippines-esim-carrier-guide.jpg"
+image: "img/esim/carriers/philippines-esim-carrier-guide.webp"
 date: "2026-09-24T20:02:19+00:00"
 keywords: Philippinen eSIM-Netzbetreiber, Globe eSIM, Smart eSIM, DITO eSIM, Philippinen 5G-Netzabdeckung, Philippinen eSIM APN, eSIM Philippinen Prepaid, bester eSIM-Netzbetreiber Philippinen, SIM Registration Act Philippinen, Philippinen Reise eSIM
 site_name: Roami

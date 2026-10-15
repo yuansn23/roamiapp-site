@@ -2,7 +2,7 @@
 
 title: "Mauritius eSIM: my.t, Emtel oder Chili im Vergleich"
 description: "Mauritius eSIM im Vergleich: my.t, Emtel und Chili nach Netzabdeckung, Touristenpaketen und Passpflicht für Ihre Inselreise."
-image: "img/esim/carriers/mauritius-esim-carrier-guide.jpg"
+image: "img/esim/carriers/mauritius-esim-carrier-guide.webp"
 
 date: "2026-09-25T02:31:24+00:00"
 

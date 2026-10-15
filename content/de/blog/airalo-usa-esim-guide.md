@@ -1,7 +1,7 @@
 ---
-title: "Bester USA-eSIM für Reisende: Airalo vs. Holafly"
-description: "US-Reise-eSIMs sind reine Datentarife ohne US-Telefonnummer. Sehen Sie, welcher Airalo-, Holafly- oder Roami-Tarif Sie für Ride-Sharing, Karten und Parks online hält."
-keywords: ["airalo usa esim", "USA eSIM Preis Vergleich", "holafly esim für usa", "usa esim ohne telefonnummer", "günstigster esim für usa reise", "USA eSIM Unlimited Daten Tarif", "USA eSIM Kosten Vergleich", "usa esim netzbetreiber gesperrtes handy", "USA eSIM Gutscheincode", "airalo vs holafly usa"]
+title: "Airalo USA-eSIM Test 2026: Preis, Abdeckung und Fazit"
+description: "Airalo USA-eSIM im Test: aktuelle Tarifpreise, Grenzen der T-Mobile- und Verizon-Abdeckung, Discover+-Rufnummern und wo Airalo gegen die Konkurrenz verliert."
+keywords: ["airalo usa esim", "airalo usa esim test", "airalo esim preis usa", "airalo vs holafly usa", "airalo esim abdeckung usa", "airalo esim apn einstellungen", "ist airalo gut für usa", "USA eSIM Gutscheincode"]
 date:  2026-09-24T00:00:00Z
 lastmod:  2026-09-24T00:00:00Z
 author: "Roami Team"
@@ -13,7 +13,7 @@ readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Airalo vs. Holafly: Bester USA-eSIM für Reisende"
+h1title: "Airalo USA-eSIM im Test 2026: Preise, Abdeckung und Fazit"
 
 productsTitle: "Beliebte eSIM-Tarife"
 hotPostsTitle: "Beliebte Artikel"

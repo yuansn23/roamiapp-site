@@ -529,6 +529,15 @@ Check [US Customs and Border Protection (CBP)](https://www.cbp.gov/) for real-ti
 - **Credit cards:** Most accept US and Canadian cards, but notify your bank before travel to avoid fraud blocks.
 - **Mobile payments:** Apple Pay and Google Pay work in both countries.
 
+## Related USA and Canada eSIM Guides
+
+This page covers the cross-border case only. For everything on either side of it:
+
+- **US side:** the [USA eSIM complete guide](/blog/usa-esim-complete-guide/) covers plans, setup and costs, and the [best eSIM for USA travel](/blog/usa-esim-ranking-comparison-2026/) ranks providers for a US-only trip.
+- **Canada side:** our [Canada eSIM comparison](/blog/canada-esim-comparison-2026/) covers Canada-only plans and prices.
+- **Choosing between them:** the [Airalo vs Holafly vs Ubigi vs Roami comparison](/blog/usa-esim-provider-comparison/) shows which providers actually sell a regional North America plan and which sell the two countries separately.
+- **Still deciding on the format:** the [USA eSIM vs physical SIM vs pocket WiFi comparison](/blog/usa-esim-vs-physical-sim/) settles that question first.
+
 ## US-Canada eSIM FAQ
 
 ### What is the difference between a US-Canada regional eSIM and a regular eSIM?

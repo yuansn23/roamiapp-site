@@ -5,7 +5,7 @@ title: "Island eSIM von Síminn bis Nova für die Ringstraße"
 
 
 description: "Island eSIM im Vergleich: Síminn, Vodafone und Nova mit Netzabdeckung auf der Ringstraße – plus Flughafen-Kauf, EWR-Roaming und Preise."
-image: "img/esim/carriers/iceland-esim-carrier-guide.jpg"
+image: "img/esim/carriers/iceland-esim-carrier-guide.webp"
 
 
 date: "2026-09-26T15:08:23+00:00"

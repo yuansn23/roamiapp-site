@@ -1,7 +1,7 @@
 ---
 title: "Welches Kolumbien-Netz passt zu Ihrer Colombia eSIM?"
 description: "Claro, Tigo oder Movistar: Dieses Colombia eSIM-Duell vergleicht 5G-Ausbau, Stadtgeschwindigkeit und Netzabdeckung in den Bergen."
-image: "img/esim/carriers/colombia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/colombia-esim-carrier-guide.webp"
 date: "2026-09-27T10:41:15+00:00"
 keywords: eSIM Colombia, Colombia eSIM-Netzbetreiber, Claro eSIM, Tigo eSIM, Movistar eSIM, WOM, 5G-Netz Colombia, Prepaid-Datentarif, Reise-eSIM
 site_name: Roami

@@ -240,7 +240,7 @@ sidebar_questions:
 
 在評估 **國際旅行用 SIM 方案** 時，請考慮的不只是價格，還有網路品質、涵蓋深度與支援可用性。對美國旅行，具多電信業者切換的 **[美國 eSIM](/united-states-esim/)** 提供最佳可靠性——我們的 [美國 eSIM 方案指南](/faq/the-ultimate-guide-to-us-esim-in-2026-how-to-choose-the-best-plan/) 詳細比較了業者、價格與網路。
 
-更多特定業者的細節，請查看我們的 [美國 eSIM 比較指南](/blog/best-usa-esim-comparison-airalo-holafly/)。
+更多特定業者的細節，請查看我們的 [美國 eSIM 比較指南](/blog/usa-esim-provider-comparison/)。
 
 
 ## 您需要多少旅行 eSIM 數據？

@@ -3,7 +3,7 @@
 
 title: "Slowakei eSIM: Telekom, Orange, O2 oder 4ka im Test"
 description: "Slowakei eSIM im Vergleich: Telekom, Orange, O2 und 4ka nach Netzabdeckung, Preisen und Empfang in der Hohen Tatra für Reisende."
-image: "img/esim/carriers/slovakia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/slovakia-esim-carrier-guide.webp"
 
 
 date: "2026-09-23T02:03:37+00:00"

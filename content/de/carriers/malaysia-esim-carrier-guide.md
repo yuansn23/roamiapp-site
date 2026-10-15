@@ -3,7 +3,7 @@
 title: "Malaysia eSIM für Halbinsel und Borneo richtig wählen"
 
 description: "Malaysia eSIM mit Maxis, CelcomDigi und U Mobile – DNB-5G, Netzabdeckung von KLIA bis Borneo, MCMC-Regeln und alle Tarifpreise."
-image: "img/esim/carriers/malaysia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/malaysia-esim-carrier-guide.webp"
 
 date: "2026-09-25T11:27:45+00:00"
 

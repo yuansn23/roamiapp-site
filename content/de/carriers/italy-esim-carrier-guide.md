@@ -3,7 +3,7 @@
 title: "Welches Netz für Ihre Italien eSIM und was kostet es?"
 
 description: "Die Italien eSIM von TIM bis Iliad im Ookla-Vergleich – Geschwindigkeiten, Netzabdeckung von den Dolomiten bis Sizilien und alle Preise."
-image: "img/esim/carriers/italy-esim-carrier-guide.jpg"
+image: "img/esim/carriers/italy-esim-carrier-guide.webp"
 
 date: "2026-09-25T18:10:14+00:00"
 

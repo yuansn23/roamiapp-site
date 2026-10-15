@@ -3,7 +3,7 @@
 title: "Südafrika eSIM trotz RICA ohne Registrierung nutzen"
 
 description: "RICA macht lokale SIM-Karten umständlich. Roami erklärt die Ausnahme und vergleicht Vodacom und MTN für Ihre Südafrika eSIM vor der Landung."
-image: "img/esim/carriers/south-africa-esim-carrier-guide.jpg"
+image: "img/esim/carriers/south-africa-esim-carrier-guide.webp"
 
 date: "2026-09-23T22:27:11+00:00"
 

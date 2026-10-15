@@ -1,7 +1,7 @@
 ---
 title: "Welches Netz für Ihre eSIM in Tschechien ist das beste?"
 description: "Vodafone, T-Mobile oder O2 für Ihre Tschechien-eSIM? Der Vergleich nach Netzabdeckung, Tempo und Preis – mit APN-Werten und Aktivierung."
-image: "img/esim/carriers/czech-republic-esim-carrier-guide.jpg"
+image: "img/esim/carriers/czech-republic-esim-carrier-guide.webp"
 date: "2026-09-27T22:01:28+00:00"
 keywords: eSIM Tschechien, Vodafone CZ eSIM, T-Mobile CZ eSIM, Reise-eSIM Tschechien, Roaming-Gebühren vermeiden, eSIM Prager Burg, eSIM mit Sofortaktivierung
 site_name: Roami

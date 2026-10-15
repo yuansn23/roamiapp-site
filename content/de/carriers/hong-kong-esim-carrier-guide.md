@@ -4,7 +4,7 @@ title: "Hongkong eSIM im Vergleich von China Mobile bis 3HK"
 
 description: "Die Hongkong eSIM im Vergleich mit CMHK, csl, SmarTone und 3HK nach Ookla-Messwerten, Preise in HK$ und die Realnamens-Regel für Besucher."
 
-image: "img/esim/carriers/hong-kong-esim-carrier-guide.jpg"
+image: "img/esim/carriers/hong-kong-esim-carrier-guide.webp"
 
 date: "2026-09-26T21:28:17+00:00"
 

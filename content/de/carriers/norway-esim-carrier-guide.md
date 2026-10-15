@@ -1,7 +1,7 @@
 ---
 title: "Norwegen eSIM: Telenor, Telia oder ice im Fjordtest"
 description: "Norwegen eSIM im Vergleich: Telenor, Telia und ice nach Fjord-, Tunnel- und Inlandsabdeckung – plus Preise und EU-Roaming."
-image: "img/esim/carriers/norway-esim-carrier-guide.jpg"
+image: "img/esim/carriers/norway-esim-carrier-guide.webp"
 date: "2026-09-24T11:09:34+00:00"
 keywords: Norwegen eSIM-Netzbetreiber, Telenor eSIM, Telia Norwegen eSIM, ice Norwegen eSIM, Norwegen 5G-Netzabdeckung, Norwegen Fjord-Netzabdeckung, eSIM Norwegen Prepaid, bester eSIM-Netzbetreiber Norwegen
 site_name: Roami

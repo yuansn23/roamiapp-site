@@ -366,7 +366,7 @@ Aqui está a comparação direta que os viajantes realmente pesquisam. Todos os 
 | Precisa de **validade de 30 dias** em um plano de 10GB | Roami ou Airalo |
 | Só precisa de um **número de telefone para SMS** | Airalo Discover+ |
 
-> 💡 **Insight principal:** os 10GB da Roami ($26.99) ficam em paridade aproximada com o plano somente de dados da Airalo ($23.00 por 10GB/30d a partir de setembro de 2026), mas a Roami adiciona alternância automática entre as três redes, enquanto o plano somente de dados da Airalo roda em uma única rede. A Holafly vende apenas dados ilimitados — $47 por 30 dias. Leia nossa **[comparação completa entre Airalo e Holafly](/blog/best-usa-esim-comparison-airalo-holafly/)** para mais detalhes.
+> 💡 **Insight principal:** os 10GB da Roami ($26.99) ficam em paridade aproximada com o plano somente de dados da Airalo ($23.00 por 10GB/30d a partir de setembro de 2026), mas a Roami adiciona alternância automática entre as três redes, enquanto o plano somente de dados da Airalo roda em uma única rede. A Holafly vende apenas dados ilimitados — $47 por 30 dias. Leia nossa **[comparação completa entre Airalo e Holafly](/blog/usa-esim-provider-comparison/)** para mais detalhes.
 
 
 ## Como comprar e ativar um eSIM dos EUA
@@ -479,7 +479,7 @@ Nem todo dado é criado igual. Os eSIMs de viagem costumam ser despriorizados em
 ## Perguntas frequentes sobre eSIM dos EUA
 
 **Airalo ou Roami é mais barato para os EUA?**
-O plano somente de dados 10GB/30d da Airalo ($23.00) é ligeiramente mais barato que o de 10GB da Roami ($26.99), mas a Roami adiciona alternância automática entre T‑Mobile, AT&T e Verizon, enquanto o plano somente de dados da Airalo usa uma única rede. Para dados ilimitados, a Roami costuma ter melhor custo-benefício. Leia nosso **[guia Airalo vs Holafly](/blog/best-usa-esim-comparison-airalo-holafly/)**.
+O plano somente de dados 10GB/30d da Airalo ($23.00) é ligeiramente mais barato que o de 10GB da Roami ($26.99), mas a Roami adiciona alternância automática entre T‑Mobile, AT&T e Verizon, enquanto o plano somente de dados da Airalo usa uma única rede. Para dados ilimitados, a Roami costuma ter melhor custo-benefício. Leia nosso **[guia Airalo vs Holafly](/blog/usa-esim-provider-comparison/)**.
 
 **Um eSIM dos EUA inclui um número de telefone?**
 A maioria dos planos de dados de viagem é somente de dados. Se você precisa de um número dos EUA para chamadas ou códigos de verificação por SMS, procure um plano que inclua número de telefone (como o Airalo Discover+). Note que esses planos costumam ser mais caros por GB.

@@ -91,6 +91,8 @@ The comparison below summarizes how the three networks perform for travelers.
 
 ## USA eSIM coverage: how US networks compare
 
+If you have not settled on a provider yet, the [USA eSIM complete guide](/blog/usa-esim-complete-guide/) covers plans, pricing and setup first — this page is about what happens to coverage once you have one.
+
 > **Quick answer:** T-Mobile is best in cities and along interstates, AT&T is the most consistent all-rounder, and Verizon reaches the most remote rural areas and national parks. A multi-network eSIM that switches between them avoids picking a single loser. For independent speed data, see the [Opensignal USA Mobile Network Experience report](https://insights.opensignal.com/reports/).
 
 > **Key takeaways:** T-Mobile has the fastest speeds in cities but the weakest rural reach, so it wins for major-city trips. Verizon has the largest 4G LTE footprint in the US and the strongest signal in national parks and remote areas, including Alaska. AT&T offers the best balance for travelers who move between urban and rural environments. The main caveat: most international travel eSIMs are locked to a single network, so pick a provider with multi-network access (like Airalo's T-Mobile + Verizon or Nomad's AT&T + Verizon) for fallback options when one carrier's signal is weak.

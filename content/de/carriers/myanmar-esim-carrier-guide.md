@@ -1,7 +1,7 @@
 ---
 title: "Myanmar eSIM: ATOM, MPT oder Mytel im Netzvergleich"
 description: "Myanmar eSIM im Vergleich: ATOM, MPT und Mytel nach Netzabdeckung, Reisepass-Registrierung und MMK-Paketen für Ihre Reise."
-image: "img/esim/carriers/myanmar-esim-carrier-guide.jpg"
+image: "img/esim/carriers/myanmar-esim-carrier-guide.webp"
 date: "2026-09-24T11:50:09+00:00"
 keywords: Myanmar eSIM-Netzbetreiber, ATOM eSIM, MPT eSIM, Mytel eSIM, U9 eSIM, Myanmar Reise-eSIM, Myanmar Touristen-SIM, Myanmar Internetsperre, Myanmar APN, Telenor Myanmar ATOM
 site_name: Roami

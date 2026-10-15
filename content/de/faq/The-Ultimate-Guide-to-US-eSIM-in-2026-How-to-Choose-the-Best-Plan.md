@@ -366,7 +366,7 @@ Hier der direkte Vergleich, den Reisende tatsächlich suchen. Alle Preise basier
 | **30 Tage Gültigkeit** bei einem 10GB-Tarif brauchen | Roami oder Airalo |
 | Nur eine **Telefonnummer für SMS** brauchen | Airalo Discover+ |
 
-> 💡 **Kernaussage:** Roamis 10GB ($26.99) liegt ungefähr gleichauf mit Airalos reinem Datentarif ($23.00 für 10GB/30T Stand September 2026), aber Roami fügt automatischen Wechsel über alle drei Netze hinzu, während Airalos reiner Datentarif auf einem einzelnen Netz läuft. Holafly verkauft nur unbegrenzte Daten – $47 für 30 Tage. Lesen Sie unseren **[vollständigen Airalo-vs.-Holafly-Vergleich](/blog/best-usa-esim-comparison-airalo-holafly/)** für mehr Details.
+> 💡 **Kernaussage:** Roamis 10GB ($26.99) liegt ungefähr gleichauf mit Airalos reinem Datentarif ($23.00 für 10GB/30T Stand September 2026), aber Roami fügt automatischen Wechsel über alle drei Netze hinzu, während Airalos reiner Datentarif auf einem einzelnen Netz läuft. Holafly verkauft nur unbegrenzte Daten – $47 für 30 Tage. Lesen Sie unseren **[vollständigen Airalo-vs.-Holafly-Vergleich](/blog/usa-esim-provider-comparison/)** für mehr Details.
 
 
 ## So kaufen und aktivieren Sie eine US-eSIM
@@ -479,7 +479,7 @@ Nicht alle Daten sind gleich. Reise-eSIMs werden gegenüber lokalen Anbieterkund
 ## US-eSIM-FAQs
 
 **Ist Airalo oder Roami für die USA günstiger?**
-Airalos reiner 10GB/30T-Datentarif ($23.00) ist etwas günstiger als Roamis 10GB ($26.99), aber Roami fügt automatischen Wechsel zwischen T‑Mobile, AT&T und Verizon hinzu, während Airalos reiner Datentarif ein einzelnes Netz nutzt. Für unbegrenzte Daten ist Roami oft der bessere Wert. Lesen Sie unseren **[Airalo-vs.-Holafly-Leitfaden](/blog/best-usa-esim-comparison-airalo-holafly/)**.
+Airalos reiner 10GB/30T-Datentarif ($23.00) ist etwas günstiger als Roamis 10GB ($26.99), aber Roami fügt automatischen Wechsel zwischen T‑Mobile, AT&T und Verizon hinzu, während Airalos reiner Datentarif ein einzelnes Netz nutzt. Für unbegrenzte Daten ist Roami oft der bessere Wert. Lesen Sie unseren **[Airalo-vs.-Holafly-Leitfaden](/blog/usa-esim-provider-comparison/)**.
 
 **Enthält eine US-eSIM eine Telefonnummer?**
 Die meisten Reise-Datentarife sind reine Daten-Tarife. Wenn Sie eine US-Nummer für Anrufe oder SMS-Verifizierungscodes brauchen, suchen Sie einen Tarif mit Telefonnummer (z. B. Airalo Discover+). Beachten Sie, dass diese Tarife meist teurer pro GB sind.

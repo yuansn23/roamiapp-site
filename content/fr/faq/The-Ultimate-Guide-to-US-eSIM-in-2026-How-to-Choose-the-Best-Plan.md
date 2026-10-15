@@ -366,7 +366,7 @@ Voici la comparaison directe que les voyageurs recherchent réellement. Tous les
 | Avez besoin d'une **validité de 30 jours** sur un forfait 10GB | Roami ou Airalo |
 | Avez seulement besoin d'un **numéro pour les SMS** | Airalo Discover+ |
 
-> 💡 **Aperçu clé :** Le 10GB de Roami (26,99 $) se situe à peu près à parité avec le forfait data-only d'Airalo (23,00 $ pour 10GB/30j en septembre 2026), mais Roami ajoute la commutation automatique entre les trois réseaux, tandis que le forfait data-only d'Airalo fonctionne sur un seul réseau. Holafly vend uniquement des données illimitées — 47 $ pour 30 jours. Lisez notre **[comparaison complète Airalo vs Holafly](/blog/best-usa-esim-comparison-airalo-holafly/)** pour plus de détails.
+> 💡 **Aperçu clé :** Le 10GB de Roami (26,99 $) se situe à peu près à parité avec le forfait data-only d'Airalo (23,00 $ pour 10GB/30j en septembre 2026), mais Roami ajoute la commutation automatique entre les trois réseaux, tandis que le forfait data-only d'Airalo fonctionne sur un seul réseau. Holafly vend uniquement des données illimitées — 47 $ pour 30 jours. Lisez notre **[comparaison complète Airalo vs Holafly](/blog/usa-esim-provider-comparison/)** pour plus de détails.
 
 
 ## Comment acheter et activer un eSIM US
@@ -479,7 +479,7 @@ Toutes les données ne sont pas créées égales. Les eSIM de voyage sont souven
 ## FAQ eSIM US
 
 **Airalo ou Roami est-il moins cher pour les USA ?**
-Le forfait data-only 10GB/30j d'Airalo (23,00 $) est légèrement moins cher que le 10GB de Roami (26,99 $), mais Roami ajoute la commutation automatique entre T‑Mobile, AT&T et Verizon tandis que le forfait data-only d'Airalo utilise un seul réseau. Pour les données illimitées, Roami est souvent le meilleur rapport qualité-prix. Lisez notre **[guide Airalo vs Holafly](/blog/best-usa-esim-comparison-airalo-holafly/)**.
+Le forfait data-only 10GB/30j d'Airalo (23,00 $) est légèrement moins cher que le 10GB de Roami (26,99 $), mais Roami ajoute la commutation automatique entre T‑Mobile, AT&T et Verizon tandis que le forfait data-only d'Airalo utilise un seul réseau. Pour les données illimitées, Roami est souvent le meilleur rapport qualité-prix. Lisez notre **[guide Airalo vs Holafly](/blog/usa-esim-provider-comparison/)**.
 
 **Un eSIM US inclut-il un numéro de téléphone ?**
 La plupart des forfaits de données de voyage sont data-only. Si vous avez besoin d'un numéro US pour les appels ou les codes de vérification SMS, cherchez un forfait qui inclut un numéro de téléphone (comme Airalo Discover+). Notez que ces forfaits sont généralement plus chers par GB.

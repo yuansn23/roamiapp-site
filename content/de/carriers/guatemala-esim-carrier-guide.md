@@ -4,7 +4,7 @@ title: "Welche Guatemala eSIM passt zu Ihrer Reiseroute?"
 
 description: "Die Guatemala eSIM im Duell von Claro und Tigo mit Ookla-Messwerten, Passregeln, Preisen und Netzabdeckung von Antigua bis Tikal."
 
-image: "img/esim/carriers/guatemala-esim-carrier-guide.jpg"
+image: "img/esim/carriers/guatemala-esim-carrier-guide.webp"
 
 date: "2026-09-26T00:25:44+00:00"
 

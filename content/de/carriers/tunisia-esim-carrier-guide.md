@@ -3,7 +3,7 @@
 title: "Tunisien eSIM: Tunisie Telecom vs Ooredoo vs Orange"
 
 description: "Tunesien eSIM im Vergleich: Tunisie Telecom, Ooredoo und Orange nach Küstenabdeckung, Preisen und Registrierung für Touristen."
-image: "img/esim/carriers/tunisia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/tunisia-esim-carrier-guide.webp"
 
 date: "2026-09-23T01:30:02+00:00"
 

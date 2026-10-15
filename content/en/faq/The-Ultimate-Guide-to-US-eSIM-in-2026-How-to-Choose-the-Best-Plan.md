@@ -366,7 +366,7 @@ Here's the direct comparison travelers actually search for. All prices are based
 | Need **30‑day validity** on a 10GB plan | Roami or Airalo |
 | Only need a **phone number for SMS** | Airalo Discover+ |
 
-> 💡 **Key Insight:** Roami's 10GB ($26.99) sits at rough parity with Airalo's data-only plan ($23.00 for 10GB/30d as of September 2026), but Roami adds automatic switching across all three networks, while Airalo's data-only plan runs on a single network. Holafly sells unlimited data only — $47 for 30 days. Read our **[full Airalo vs Holafly comparison](/blog/best-usa-esim-comparison-airalo-holafly/)** for more detail.
+> 💡 **Key Insight:** Roami's 10GB ($26.99) sits at rough parity with Airalo's data-only plan ($23.00 for 10GB/30d as of September 2026), but Roami adds automatic switching across all three networks, while Airalo's data-only plan runs on a single network. Holafly sells unlimited data only — $47 for 30 days. Read our **[full Airalo vs Holafly comparison](/blog/usa-esim-provider-comparison/)** for more detail.
 
 
 ## How to Buy and Activate a US eSIM
@@ -479,7 +479,7 @@ Not all data is created equal. Travel eSIMs are often deprioritized compared to 
 ## US eSIM FAQs
 
 **Is Airalo or Roami cheaper for the USA?**
-Airalo's data-only 10GB/30d plan ($23.00) is slightly cheaper than Roami's 10GB ($26.99), but Roami adds automatic switching across T‑Mobile, AT&T, and Verizon while Airalo's data-only plan uses a single network. For unlimited data, Roami is often the better value. Read our **[Airalo vs Holafly guide](/blog/best-usa-esim-comparison-airalo-holafly/)**.
+Airalo's data-only 10GB/30d plan ($23.00) is slightly cheaper than Roami's 10GB ($26.99), but Roami adds automatic switching across T‑Mobile, AT&T, and Verizon while Airalo's data-only plan uses a single network. For unlimited data, Roami is often the better value. Read our **[Airalo vs Holafly guide](/blog/usa-esim-provider-comparison/)**.
 
 **Does a US eSIM include a phone number?**
 Most travel data plans are data‑only. If you need a US number for calls or SMS verification codes, look for a plan that includes a phone number (like Airalo Discover+). Note that these plans are usually more expensive per GB.

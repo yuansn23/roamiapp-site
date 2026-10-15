@@ -1,7 +1,7 @@
 ---
 title: "Welches Netz braucht Ihre Frankreich eSIM wirklich?"
 description: "Frankreich eSIM im Vergleich: Orange, SFR, Bouygues und Free nach Ookla- und ARCEP-Daten – Netzabdeckung, TGV-Empfang und Preise."
-image: "img/esim/carriers/france-esim-carrier-guide.jpg"
+image: "img/esim/carriers/france-esim-carrier-guide.webp"
 date: "2026-09-26T12:59:31+00:00"
 keywords: Frankreich eSIM-Netzbetreiber, Orange eSIM, SFR eSIM, Bouygues Telecom eSIM, Free Mobile eSIM, Orange Travel eSIM, 5G-Netzabdeckung Frankreich, eSIM Frankreich Prepaid, bester eSIM-Netzbetreiber Frankreich
 site_name: Roami

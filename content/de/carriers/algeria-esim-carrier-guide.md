@@ -3,7 +3,7 @@
 title: "Welche eSIM für Algerien hat das beste Mobilfunknetz?"
 
 description: "Die beste eSIM für Algerien im Vergleich: Ooredoo, Mobilis und Djezzy nach Netz, Tempo und Preis – mit APN und Aktivierung vor dem Abflug."
-image: "img/esim/carriers/algeria-esim-carrier-guide.jpg"
+image: "img/esim/carriers/algeria-esim-carrier-guide.webp"
 
 date: "2026-09-27T05:20:33+00:00"
 

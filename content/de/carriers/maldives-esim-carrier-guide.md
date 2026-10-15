@@ -1,7 +1,7 @@
 ---
 title: "Malediven eSIM – welches Netz passt zu Ihrer Route?"
 description: "Dhiraagu oder Ooredoo? Roami vergleicht Netzabdeckung, Tempo und Preise für Ihre Malediven eSIM – von Malé bis zum Wasserflugzeug."
-image: "img/esim/carriers/maldives-esim-carrier-guide.jpg"
+image: "img/esim/carriers/maldives-esim-carrier-guide.webp"
 date: "2026-09-25T09:05:18+00:00"
 keywords: Malediven eSIM-Netzbetreiber, Dhiraagu eSIM, Ooredoo eSIM, Malediven Reise-eSIM, Malediven Touristen-SIM, Konnektivität auf Resortinseln, Malediven APN, Signal beim Wassertransfer, beste eSIM Malediven
 site_name: Roami

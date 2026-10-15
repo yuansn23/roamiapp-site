@@ -91,6 +91,8 @@ A plan that switches between T-Mobile, AT&T and Verizon also frees you from carr
 
 ## USA eSIM dual SIM: what it means for your trip
 
+Choosing the plan comes first — the [best eSIM for USA travel ranking](/blog/usa-esim-ranking-comparison-2026/) covers that — and this page is about keeping your home number working alongside it.
+
 > **Quick answer:** Set the eSIM as your data line and keep your home SIM on for calls and SMS. Turn off data roaming on the home line so you are not billed for background data — the eSIM handles everything else.
 
 > **Key takeaways:** For dual SIM, set your USA eSIM as the data line and your home SIM as the voice line, with Data Roaming ON for the eSIM and OFF for the home SIM. This keeps your home number active for 2FA codes, SMS, WhatsApp, and banking while routing all internet through the eSIM. The main caveat is that misconfiguration risks no data or surprise roaming charges, since home-SIM data without a roaming plan can cost $10-15 per MB. For long US stays of 3+ months, Tello's 10GB plan at $15/month is the most cost-effective way to add a US number.

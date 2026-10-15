@@ -1,7 +1,7 @@
 ---
 title: "Ukraine eSIM: Kyivstar, Vodafone oder lifecell im Test"
 description: "Ukraine eSIM im Vergleich: Kyivstar, Vodafone Ukraine und lifecell nach Netzabdeckung, Ausfallsicherheit und Preisen im Land."
-image: "img/esim/carriers/ukraine-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ukraine-esim-carrier-guide.webp"
 date: "2026-09-23T16:21:41+00:00"
 keywords: Ukraine eSIM, Ukraine eSIM-Netzbetreiber, Kyivstar eSIM, Vodafone Ukraine, lifecell eSIM, Reise-eSIM Ukraine, keine Roaming-Gebühren Ukraine, eSIM für Touristen Ukraine
 site_name: Roami

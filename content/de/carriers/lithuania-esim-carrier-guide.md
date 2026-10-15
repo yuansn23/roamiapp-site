@@ -2,7 +2,7 @@
 
 title: "Litauen eSIM: Telia, Bitė oder Tele2 im Vergleich"
 description: "Litauen eSIM im Vergleich: Telia, Bitė und Tele2 nach Netzabdeckung, Preisen und Passpflicht – mit Baltikum-Roaming-Tipps."
-image: "img/esim/carriers/lithuania-esim-carrier-guide.jpg"
+image: "img/esim/carriers/lithuania-esim-carrier-guide.webp"
 
 date: "2026-09-25T20:35:06+00:00"
 

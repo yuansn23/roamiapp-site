@@ -3,7 +3,7 @@
 title: "MTN oder Airtel? Welches Netz passt zur Uganda eSIM?"
 
 description: "MTN oder Airtel? Roami vergleicht Netzabdeckung, Preise und Registrierung für Ihre Uganda eSIM – von Kampala bis zum Gorilla-Trekking."
-image: "img/esim/carriers/uganda-esim-carrier-guide.jpg"
+image: "img/esim/carriers/uganda-esim-carrier-guide.webp"
 
 date: "2026-09-23T19:01:08+00:00"
 

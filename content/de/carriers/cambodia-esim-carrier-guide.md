@@ -3,7 +3,7 @@
 title: "Welcher Netzbetreiber ist in Kambodscha der beste?"
 
 description: "Kambodscha eSIM: Smart Axiata, Cellcard und Metfone nach dem 5G-Start – Netzabdeckung, Datenpreise und Praxistipps für Ihre Reise."
-image: "img/esim/carriers/cambodia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/cambodia-esim-carrier-guide.webp"
 
 date: "2026-09-27T22:36:03+00:00"
 

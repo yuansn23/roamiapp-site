@@ -311,7 +311,7 @@ Blenden Sie das Marketing beider Seiten aus, und der Kernunterschied läuft auf 
 
 Nach diesen drei Schritten, wenn Holafly noch auf Ihrer Shortlist steht, könnte sein Kundensupport-Vorteil der letzte Grund zum Kauf sein.
 
-**Kernaussagen**: Holafly und Airalo bedienen unterschiedliche Nutzergruppen – Vielnutzer, weniger preissensible, keine-Hotspot-Nutzer wählen Holafly; Wenignutzer, preisbewusste, Flexibilität-suchende Nutzer wählen Airalo. Für einen vollständigen US-Markt-Vergleich mit aktuellen Preisen und Szenario-Empfehlungen siehe unseren [Airalo vs. Holafly vs. Roami USA-Vergleich](/blog/best-usa-esim-comparison-airalo-holafly/).
+**Kernaussagen**: Holafly und Airalo bedienen unterschiedliche Nutzergruppen – Vielnutzer, weniger preissensible, keine-Hotspot-Nutzer wählen Holafly; Wenignutzer, preisbewusste, Flexibilität-suchende Nutzer wählen Airalo. Für einen vollständigen US-Markt-Vergleich mit aktuellen Preisen und Szenario-Empfehlungen siehe unseren [Airalo vs. Holafly vs. Roami USA-Vergleich](/blog/usa-esim-provider-comparison/).
 
 
 ## Was Nutzer hinter Holaflys Trustpilot 4,6 loben

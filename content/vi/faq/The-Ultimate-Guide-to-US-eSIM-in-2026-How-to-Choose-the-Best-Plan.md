@@ -366,7 +366,7 @@ Khi gói eSIM của bạn đến ngày hết hạn:
 | Cần **thời hạn 30 ngày** trên gói 10GB | Roami hoặc Airalo |
 | Chỉ cần **số điện thoại để nhận SMS** | Airalo Discover+ |
 
-> 💡 **Nhận xét chính:** Gói 10GB của Roami ($26.99) ngang ngửa với gói chỉ dữ liệu của Airalo ($23.00 cho 10GB/30 ngày tính đến tháng 9 năm 2026), nhưng Roami bổ sung chuyển mạng tự động trên cả ba mạng, trong khi gói chỉ dữ liệu của Airalo chạy trên một mạng duy nhất. Holafly chỉ bán unlimited — $47 cho 30 ngày. Đọc **[so sánh đầy đủ Airalo vs Holafly](/blog/best-usa-esim-comparison-airalo-holafly/)** của chúng tôi để biết thêm chi tiết.
+> 💡 **Nhận xét chính:** Gói 10GB của Roami ($26.99) ngang ngửa với gói chỉ dữ liệu của Airalo ($23.00 cho 10GB/30 ngày tính đến tháng 9 năm 2026), nhưng Roami bổ sung chuyển mạng tự động trên cả ba mạng, trong khi gói chỉ dữ liệu của Airalo chạy trên một mạng duy nhất. Holafly chỉ bán unlimited — $47 cho 30 ngày. Đọc **[so sánh đầy đủ Airalo vs Holafly](/blog/usa-esim-provider-comparison/)** của chúng tôi để biết thêm chi tiết.
 
 
 ## Cách mua và kích hoạt eSIM Mỹ
@@ -479,7 +479,7 @@ Dữ liệu không phải dữ liệu nào cũng như dữ liệu nào. eSIM du 
 ## Câu hỏi thường gặp về eSIM Mỹ
 
 **Airalo hay Roami rẻ hơn cho nước Mỹ?**
-Gói chỉ dữ liệu 10GB/30 ngày của Airalo ($23.00) rẻ hơn gói 10GB của Roami ($26.99) một chút, nhưng Roami bổ sung chuyển mạng tự động giữa T‑Mobile, AT&T và Verizon, trong khi gói chỉ dữ liệu của Airalo dùng một mạng duy nhất. Với unlimited, Roami thường giá trị hơn. Đọc **[hướng dẫn Airalo vs Holafly](/blog/best-usa-esim-comparison-airalo-holafly/)** của chúng tôi.
+Gói chỉ dữ liệu 10GB/30 ngày của Airalo ($23.00) rẻ hơn gói 10GB của Roami ($26.99) một chút, nhưng Roami bổ sung chuyển mạng tự động giữa T‑Mobile, AT&T và Verizon, trong khi gói chỉ dữ liệu của Airalo dùng một mạng duy nhất. Với unlimited, Roami thường giá trị hơn. Đọc **[hướng dẫn Airalo vs Holafly](/blog/usa-esim-provider-comparison/)** của chúng tôi.
 
 **eSIM Mỹ có kèm số điện thoại không?**
 Đa số gói dữ liệu du lịch chỉ có dữ liệu. Nếu bạn cần số Mỹ để gọi điện hoặc nhận mã xác nhận SMS, tìm gói kèm số điện thoại (như Airalo Discover+). Lưu ý các gói này thường đắt hơn mỗi GB.

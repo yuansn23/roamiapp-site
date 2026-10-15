@@ -154,6 +154,8 @@ For business expense reporting, the ability to download invoices directly from t
 
 ## Best eSIM for business trip USA: provider picks
 
+For the wider market view rather than the business-specific picks below, see the [USA eSIM complete guide](/blog/usa-esim-complete-guide/).
+
 The **best eSIM for business trip USA** depends on your specific needs. Here's how the top options compare:
 
 | Provider | Hotspot | US number | 30-day price | Best for |

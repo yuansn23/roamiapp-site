@@ -1,7 +1,7 @@
 ---
 title: "Welche Macau eSIM passt zu CTM und China Telecom?"
 description: "Macau eSIM oder Resort-WLAN? CTM und China Telecom nach Ookla-Daten mit Netzabdeckung, Grenzfallen und allen Preisen im Vergleich."
-image: "img/esim/carriers/macau-esim-carrier-guide.jpg"
+image: "img/esim/carriers/macau-esim-carrier-guide.webp"
 date: "2026-09-25T15:07:12+00:00"
 keywords: eSIM-Netzbetreiber Macau, CTM eSIM, China Telecom Macau eSIM, 3 Macau eSIM, Macau 5G-Netzabdeckung, Hongkong eSIM in Macau, eSIM Macau Prepaid, bester eSIM-Netzbetreiber Macau
 site_name: Roami

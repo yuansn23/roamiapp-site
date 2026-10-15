@@ -1,7 +1,7 @@
 ---
 title: "Griechenland eSIM im Vergleich von Cosmote bis Nova"
 description: "Die Griechenland eSIM im Netzvergleich mit Ookla-Werten, Preisen und APN-Werten von Cosmote, Vodafone und Nova für Athen und die Inseln."
-image: "img/esim/carriers/greece-esim-carrier-guide.jpg"
+image: "img/esim/carriers/greece-esim-carrier-guide.webp"
 date: "2026-09-26T03:47:11+00:00"
 keywords: Griechenland eSIM-Netzbetreiber, Griechenland eSIM-Anbieter, Cosmote eSIM, Vodafone Griechenland eSIM, Nova eSIM, Griechenland 5G-Netzabdeckung, Griechenland eSIM APN, eSIM Griechenland Prepaid, bester eSIM-Netzbetreiber Griechenland
 site_name: Roami

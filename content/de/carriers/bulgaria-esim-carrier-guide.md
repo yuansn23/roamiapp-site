@@ -3,7 +3,7 @@
 title: "Bulgarien eSIM im Vergleich mit A1, Yettel und Vivacom"
 
 description: "Bulgarien eSIM im Vergleich: A1, Yettel und Vivacom nach Preis, Tempo und Netzabdeckung – mit APN, Aktivierung und Skigebieten."
-image: "img/esim/carriers/bulgaria-esim-carrier-guide.jpg"
+image: "img/esim/carriers/bulgaria-esim-carrier-guide.webp"
 
 date: "2026-09-27T01:44:30+00:00"
 

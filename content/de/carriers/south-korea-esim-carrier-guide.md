@@ -1,7 +1,7 @@
 ---
 title: "SK Telecom führt das Feld für Ihre Südkorea-eSIM"
 description: "SK Telecom führt insgesamt, LG U+ bei 5G, KT am Flughafen. Der Südkorea-eSIM-Vergleich mit Passregel, APN-Werten und Jeju-Abdeckung."
-image: "img/esim/carriers/south-korea-esim-carrier-guide.jpg"
+image: "img/esim/carriers/south-korea-esim-carrier-guide.webp"
 date: "2026-09-23T19:49:44+00:00"
 keywords: eSIM Südkorea, Südkorea eSIM-Netzbetreiber, Prepaid-Daten, 5G-Netz, SK Telecom, LG U+, KT, Roami eSIM, Reise-Internet
 site_name: Roami

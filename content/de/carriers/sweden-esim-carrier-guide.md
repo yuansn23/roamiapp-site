@@ -1,7 +1,7 @@
 ---
 title: "Schweden eSIM: welches Netz passt zu Ihrer Route?"
 description: "Telia, Tele2, Telenor oder Tre? Der Schweden-eSIM-Vergleich mit Ookla-Daten, 5G-Ausbau, Norrland-Abdeckung, Prepaid-Registrierung und APN."
-image: "img/esim/carriers/sweden-esim-carrier-guide.jpg"
+image: "img/esim/carriers/sweden-esim-carrier-guide.webp"
 date: "2026-09-23T13:38:50+00:00"
 keywords: Schweden eSIM-Netzbetreiber, Telia eSIM, Tele2 eSIM, Telenor Schweden eSIM, Tre eSIM, Schweden 5G-Netzabdeckung, eSIM Schweden Prepaid, bester eSIM-Netzbetreiber Schweden
 site_name: Roami

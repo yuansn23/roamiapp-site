@@ -84,6 +84,8 @@ For coverage and pricing context, see the [regional coverage breakdown](/blog/us
 
 ## USA eSIM not working after landing: quick fixes
 
+If the open question is which plan to buy rather than how to fix one, the [best eSIM for USA travel ranking](/blog/usa-esim-ranking-comparison-2026/) covers provider choice — the fixes below assume you have already bought one.
+
 > **Quick answer:** Nine out of ten USA eSIM failures are one of three things — data roaming left off, the wrong line set for data, or a profile still provisioning. Fix those in order before deleting anything.
 
 If your **USA eSIM is not working after arrival**, try these four things first. Most problems are solved by one of them.

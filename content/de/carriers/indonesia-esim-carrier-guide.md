@@ -3,7 +3,7 @@
 title: "Welches Netz in Indonesien? Telkomsel, XL oder IM3?"
 
 description: "Indonesien eSIM im Netzvergleich: Telkomsel, XL und IM3 nach Abdeckung, Geschwindigkeit und Preis – mit IMEI-Regeln und Tipps für Bali."
-image: "img/esim/carriers/indonesia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/indonesia-esim-carrier-guide.webp"
 
 date: "2026-09-26T09:20:29+00:00"
 

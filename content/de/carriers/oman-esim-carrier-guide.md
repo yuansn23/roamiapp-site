@@ -3,7 +3,7 @@
 title: "Oman eSIM: Omantel, Ooredoo oder Vodafone für Touristen"
 
 description: "Omantel, Ooredoo oder Vodafone? Roami deckt Oman eSIM 5G in Maskat ab, die Passregistrierungspflicht und Funklöcher in der Wüste Wahiba ab."
-image: "img/esim/carriers/oman-esim-carrier-guide.jpg"
+image: "img/esim/carriers/oman-esim-carrier-guide.webp"
 
 date: "2026-09-24T08:01:07+00:00"
 

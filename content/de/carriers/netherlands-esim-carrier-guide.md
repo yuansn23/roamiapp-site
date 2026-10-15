@@ -1,7 +1,7 @@
 ---
 title: "Odido, KPN oder Vodafone für Ihre Niederlande-eSIM"
 description: "Odido liefert das Tempo, KPN die Konstanz. Der Niederlande-eSIM-Vergleich mit 5G-Tempo, Provinzabdeckung und Prepaid-Preisen."
-image: "img/esim/carriers/netherlands-esim-carrier-guide.jpg"
+image: "img/esim/carriers/netherlands-esim-carrier-guide.webp"
 date: "2026-09-24T02:10:48+00:00"
 keywords: eSIM Niederlande, Niederlande-eSIM-Netzbetreiber, Odido eSIM, KPN Mobile eSIM, Vodafone Niederlande, Prepaid-Daten, 5G-Netz, Reise-eSIM
 site_name: Roami

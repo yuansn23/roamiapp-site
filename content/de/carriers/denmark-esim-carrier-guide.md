@@ -3,7 +3,7 @@
 title: "Dänemark eSIM Vergleich aller vier Netze für Reisende"
 
 description: "Dänemark eSIM im Vergleich: Telia, Telenor, YouSee und 3 nach Ookla-Daten – mit EU-Roaming, Netzabdeckung und Preisen für Ihre Reise."
-image: "img/esim/carriers/denmark-esim-carrier-guide.jpg"
+image: "img/esim/carriers/denmark-esim-carrier-guide.webp"
 
 date: "2026-09-26T19:30:01+00:00"
 

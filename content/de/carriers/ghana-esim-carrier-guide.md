@@ -3,7 +3,7 @@
 title: "Wie wählen Sie die beste Ghana eSIM für Ihre Reise?"
 
 description: "Die Ghana eSIM im Vergleich von MTN bis AT mit Biometrie-Registrierung, Datenpreisen und Netzabdeckung von Accra bis zur Küste."
-image: "img/esim/carriers/ghana-esim-carrier-guide.jpg"
+image: "img/esim/carriers/ghana-esim-carrier-guide.webp"
 
 date: "2026-09-26T06:39:37+00:00"
 

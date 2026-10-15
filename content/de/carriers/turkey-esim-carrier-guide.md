@@ -3,7 +3,7 @@
 title: "Turkcell vs Vodafone vs Türk Telekom: Türkei eSIM"
 
 description: "Türkei eSIM im Vergleich: Turkcell, Vodafone und Türk Telekom nach Netzabdeckung, IMEI-Registrierung und Preisen für Ihre Reise."
-image: "img/esim/carriers/turkey-esim-carrier-guide.jpg"
+image: "img/esim/carriers/turkey-esim-carrier-guide.webp"
 
 date: "2026-09-23T22:32:35+00:00"
 

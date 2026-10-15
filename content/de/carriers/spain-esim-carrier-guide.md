@@ -2,7 +2,7 @@
 
 title: "Spanien eSIM: Movistar, Orange oder Vodafone wählen"
 description: "Spanien eSIM im Vergleich: Movistar, Orange und Vodafone nach Netzabdeckung, Preisen und der Registrierungspflicht für Prepaid."
-image: "img/esim/carriers/spain-esim-carrier-guide.jpg"
+image: "img/esim/carriers/spain-esim-carrier-guide.webp"
 
 date: "2026-09-23T16:48:17+00:00"
 

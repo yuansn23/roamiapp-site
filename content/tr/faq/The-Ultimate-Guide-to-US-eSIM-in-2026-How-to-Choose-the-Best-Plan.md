@@ -366,7 +366,7 @@ eSIM paketiniz son kullanma tarihine ulaştığında:
 | 10GB pakette **30 günlük geçerlilik** gerekiyorsa | Roami veya Airalo |
 | Yalnızca **SMS için telefon numarası** gerekiyorsa | Airalo Discover+ |
 
-> 💡 **Önemli Görüş:** Roami'nin 10GB paketi (26,99 $), Airalo'nun yalnızca veri paketiyle (Eylül 2026 itibarıyla 10GB/30g için 23,00 $) kabaca eşit fiyattadır; ancak Roami üç ağda da otomatik geçiş eklerken, Airalo'nun yalnızca veri paketi tek bir ağda çalışır. Holafly yalnızca sınırsız veri satar — 30 gün için 47 $. Daha fazla ayrıntı için **[tam Airalo vs Holafly karşılaştırmamızı](/blog/best-usa-esim-comparison-airalo-holafly/)** okuyun.
+> 💡 **Önemli Görüş:** Roami'nin 10GB paketi (26,99 $), Airalo'nun yalnızca veri paketiyle (Eylül 2026 itibarıyla 10GB/30g için 23,00 $) kabaca eşit fiyattadır; ancak Roami üç ağda da otomatik geçiş eklerken, Airalo'nun yalnızca veri paketi tek bir ağda çalışır. Holafly yalnızca sınırsız veri satar — 30 gün için 47 $. Daha fazla ayrıntı için **[tam Airalo vs Holafly karşılaştırmamızı](/blog/usa-esim-provider-comparison/)** okuyun.
 
 
 ## ABD eSIM Nasıl Satın Alınır ve Etkinleştirilir
@@ -479,7 +479,7 @@ Tüm veri eşit değildir. Seyahat eSIM'leri, yerel operatör müşterilerine k�
 ## ABD eSIM SSS
 
 **ABD için Airalo mu Roami mi daha ucuz?**
-Airalo'nun yalnızca veri içeren 10GB/30g paketi (23,00 $), Roami'nin 10GB paketinden (26,99 $) biraz daha ucuzdur; ancak Roami T‑Mobile, AT&T ve Verizon genelinde otomatik geçiş eklerken Airalo'nun yalnızca veri paketi tek bir ağ kullanır. Sınırsız veri için Roami genellikle daha iyi değerdir. **[Airalo vs Holafly rehberimizi](/blog/best-usa-esim-comparison-airalo-holafly/)** okuyun.
+Airalo'nun yalnızca veri içeren 10GB/30g paketi (23,00 $), Roami'nin 10GB paketinden (26,99 $) biraz daha ucuzdur; ancak Roami T‑Mobile, AT&T ve Verizon genelinde otomatik geçiş eklerken Airalo'nun yalnızca veri paketi tek bir ağ kullanır. Sınırsız veri için Roami genellikle daha iyi değerdir. **[Airalo vs Holafly rehberimizi](/blog/usa-esim-provider-comparison/)** okuyun.
 
 **Bir ABD eSIM telefon numarası içerir mi?**
 Çoğu seyahat veri paketi yalnızca veridir. Arama veya SMS doğrulama kodları için bir ABD numarasına ihtiyacınız varsa telefon numarası içeren bir paket arayın (Airalo Discover+ gibi). Bu paketlerin genellikle GB başına daha pahalı olduğunu unutmayın.

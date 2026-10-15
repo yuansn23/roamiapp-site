@@ -1,7 +1,7 @@
 ---
 title: "Welche UK eSIM ist die beste? EE, Vodafone oder Three?"
 description: "UK eSIM im Netzbetreiber-Vergleich: EE, Vodafone, O2 und Three zu Speed, 5G, Abdeckung und Roaming – mit Prepaid-Preisen und APN."
-image: "img/esim/carriers/united-kingdom-esim-carrier-guide.jpg"
+image: "img/esim/carriers/united-kingdom-esim-carrier-guide.webp"
 date: "2026-09-23T10:15:47+00:00"
 keywords: eSIM Vereinigtes Königreich, Prepaid-Daten, 5G-Netz, UK eSIM, Reise-eSIM, Digitaler Nomade UK, UK eSIM-Netzbetreiber, eSIM-Anbieter Vereinigtes Königreich, EE eSIM, Vodafone eSIM, Three eSIM, Virgin Media O2 eSIM
 site_name: Roami

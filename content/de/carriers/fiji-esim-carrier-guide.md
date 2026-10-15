@@ -1,7 +1,7 @@
 ---
 title: "Die beste Fidschi eSIM zwischen Vodafone und Digicel"
 description: "Fidschi eSIM für Inselhüpfer – Netzabdeckung, Tempo und Preis von Vodafone und Digicel auf Viti Levu, den Mamanucas und den Yasawas."
-image: "img/esim/carriers/fiji-esim-carrier-guide.jpg"
+image: "img/esim/carriers/fiji-esim-carrier-guide.webp"
 date: "2026-09-26T18:48:25+00:00"
 keywords: Fidschi eSIM-Netzbetreiber, Fidschi eSIM, primäre Rufnummer aktiv halten, Vodafone Fidschi, Digicel Fidschi, Fidschi Mobilfunkanbieter, Yasawa-Inseln, Nadi, kostenloses Roaming, Reise-eSIM, Fidschi Netzvergleich
 site_name: Roami

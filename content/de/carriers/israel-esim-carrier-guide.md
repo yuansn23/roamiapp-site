@@ -1,7 +1,7 @@
 ---
 title: "Israel eSIM-Netzbetreiber: Cellcom, Pelephone, Hot"
 description: "Israel eSIM im Vergleich: Cellcom, Partner und HOT Mobile nach Abdeckung, Preisen und den Schabbat-Regeln für Ihre Reise."
-image: "img/esim/carriers/israel-esim-carrier-guide.jpg"
+image: "img/esim/carriers/israel-esim-carrier-guide.webp"
 date: "2026-09-25T21:00:41+00:00"
 keywords: Israel eSIM, Israel eSIM-Netzbetreiber, Reise-eSIM Israel, Cellcom eSIM, Partner eSIM, Pelephone, HOT Mobile, israelische Mobilfunkanbieter, eSIM für Touristen Israel, Roaming-Gebühren Israel vermeiden, sofortige eSIM Israel, Jerusalem eSIM
 site_name: Roami

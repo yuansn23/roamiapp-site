@@ -366,7 +366,7 @@ eSIM 요금제가 만료일에 도달하면:
 | 10GB 요금제에 **30일 유효기간** 필요 | Roami 또는 Airalo |
 | **SMS용 전화번호**만 필요 | Airalo Discover+ |
 
-> 💡 **핵심 통찰:** Roami의 10GB($26.99)는 Airalo의 데이터 전용 요금제(2026년 9월 기준 10GB/30일 $23.00)와 대략 비슷하지만, Roami는 세 네트워크 모두에서 자동 전환을 추가하는 반면 Airalo의 데이터 전용 요금제는 단일 네트워크로 실행됩니다. Holafly는 데이터 무제한만 판매합니다 — 30일에 $47. 자세한 내용은 **[Airalo vs Holafly 전체 비교](/blog/best-usa-esim-comparison-airalo-holafly/)**를 참고하세요.
+> 💡 **핵심 통찰:** Roami의 10GB($26.99)는 Airalo의 데이터 전용 요금제(2026년 9월 기준 10GB/30일 $23.00)와 대략 비슷하지만, Roami는 세 네트워크 모두에서 자동 전환을 추가하는 반면 Airalo의 데이터 전용 요금제는 단일 네트워크로 실행됩니다. Holafly는 데이터 무제한만 판매합니다 — 30일에 $47. 자세한 내용은 **[Airalo vs Holafly 전체 비교](/blog/usa-esim-provider-comparison/)**를 참고하세요.
 
 
 ## 미국 eSIM 구매 및 활성화 방법
@@ -479,7 +479,7 @@ eSIM 요금제가 만료일에 도달하면:
 ## 미국 eSIM FAQ
 
 **미국용으로 Airalo와 Roami 중 무엇이 더 저렴한가요?**
-Airalo의 데이터 전용 10GB/30일 요금제($23.00)가 Roami의 10GB($26.99)보다 약간 저렴하지만, Roami는 T-Mobile, AT&T, Verizon 간 자동 전환을 추가하는 반면 Airalo의 데이터 전용 요금제는 단일 네트워크를 사용합니다. 무제한 데이터로는 Roami가 종종 더 나은 가치입니다. **[Airalo vs Holafly 가이드](/blog/best-usa-esim-comparison-airalo-holafly/)**를 읽어 보세요.
+Airalo의 데이터 전용 10GB/30일 요금제($23.00)가 Roami의 10GB($26.99)보다 약간 저렴하지만, Roami는 T-Mobile, AT&T, Verizon 간 자동 전환을 추가하는 반면 Airalo의 데이터 전용 요금제는 단일 네트워크를 사용합니다. 무제한 데이터로는 Roami가 종종 더 나은 가치입니다. **[Airalo vs Holafly 가이드](/blog/usa-esim-provider-comparison/)**를 읽어 보세요.
 
 **미국 eSIM에 전화번호가 포함되나요?**
 대부분의 여행 데이터 요금제는 데이터 전용입니다. 통화나 SMS 인증 코드용 미국 번호가 필요하다면 전화번호를 포함하는 요금제(Airalo Discover+ 같은)를 찾으세요. 이런 요금제는 보통 GB당 더 비쌉니다.

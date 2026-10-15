@@ -1,7 +1,7 @@
 ---
 title: "Russland eSIM: MTS, MegaFon und die 24-Stunden-Regel"
 description: "MTS, MegaFon, Beeline oder Tele2? Roami erklärt, auf welches Netz eine Russland-eSIM roamt und den 24-Stunden-Datenblock am ersten Tag."
-image: "img/esim/carriers/russia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/russia-esim-carrier-guide.webp"
 date: "2026-09-24T11:10:58+00:00"
 keywords: Russland eSIM, Russland eSIM-Netzbetreiber, Russland Reise-eSIM, MTS Russland, MegaFon Russland, Beeline Russland, Tele2 Russland, Roter Platz, Eremitage-Museum, keine Roaming-Gebühren, flexible Datentarife, Mehrtages-eSIM
 site_name: Roami

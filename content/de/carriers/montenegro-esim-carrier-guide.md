@@ -2,7 +2,7 @@
 
 title: "Montenegro eSIM: m:tel, Telekom oder One im Vergleich"
 description: "Montenegro eSIM im Vergleich: m:tel, Crnogorski Telekom und One nach Küstenabdeckung, 15-€-Touristentarif und Bergempfang."
-image: "img/esim/carriers/montenegro-esim-carrier-guide.jpg"
+image: "img/esim/carriers/montenegro-esim-carrier-guide.webp"
 
 date: "2026-09-24T17:10:03+00:00"
 

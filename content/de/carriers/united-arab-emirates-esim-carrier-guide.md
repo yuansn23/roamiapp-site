@@ -2,7 +2,7 @@
 
 title: "VAE eSIM: du oder e& für Dubai und Abu Dhabi wählen"
 description: "VAE eSIM im Vergleich: du und e& nach Netzabdeckung, Daten bei der Ankunft und Mehrwertsteuer – für Dubai und Abu Dhabi."
-image: "img/esim/carriers/united-arab-emirates-esim-guide.jpg"
+image: "img/esim/carriers/united-arab-emirates-esim-guide.webp"
 
 date: "2026-09-23T12:52:14+00:00"
 

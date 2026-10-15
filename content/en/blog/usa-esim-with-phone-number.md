@@ -89,6 +89,8 @@ For a complete overview of everything you need to know about using eSIM in the U
 
 ## Quick comparison: USA eSIMs with phone number
 
+Most of the market is data-only. For the providers that do not sell a US number, the [best eSIM for USA travel ranking](/blog/usa-esim-ranking-comparison-2026/) covers the wider field, and the [USA eSIM complete guide](/blog/usa-esim-complete-guide/) explains the fundamentals.
+
 > **Note on emergency calls:** A US number lets you reach 911, but how any eSIM handles emergency calling depends on the carrier and whether VoLTE is active on your line. Check your provider's own documentation rather than assuming, and keep your home SIM in the phone for a second route to emergency services.
 
 > **Quick answer:** A US number is worth paying for only if you need SMS verification codes, restaurant or rideshare bookings, or a reachable number for work. Otherwise a data-only eSIM plus WhatsApp covers nearly everything.

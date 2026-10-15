@@ -1,9 +1,9 @@
 ---
-title: "Airalo vs Holafly vs Ubigi: Best USA eSIM Comparison"
-description: "Compare international eSIM providers for US travel on speed, coverage, and value. Roami offers auto switching and live support."
-keywords: ["Airalo vs Holafly USA", "Ubigi USA eSIM review", "Nomad vs Ubigi USA", "Saily USA eSIM review", "best international eSIM for USA"]
+title: "Airalo vs Holafly vs Ubigi vs Roami: Best USA eSIM Comparison"
+description: "Compare Airalo, Holafly, Ubigi, Nomad, Saily and Roami for US travel on price, networks, hotspot and support — with the full per-plan pricing ladders."
+keywords: ["Airalo vs Holafly USA", "Ubigi USA eSIM review", "Roami USA eSIM review", "Nomad vs Ubigi USA", "Saily USA eSIM review", "best international eSIM for USA"]
 date: 2026-09-22T00:00:00Z
-lastmod: 2026-10-08T00:00:00Z
+lastmod: 2026-10-15T00:00:00Z
 author: "Roami Team"
 authorBio: "Publisher of this USA eSIM comparison. Prices and coverage data are cross-checked against carrier and provider websites and corrected when they change."
 image: "/img/esim/usa/usa-esim-provider-comparison.jpg"
@@ -13,7 +13,7 @@ readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Airalo vs Holafly vs Ubigi: Head-to-Head USA eSIM Comparison"
+h1title: "Airalo vs Holafly vs Ubigi vs Roami: Head-to-Head USA eSIM Comparison"
 
 # Sidebar module titles
 productsTitle: "Popular eSIM Plans"
@@ -157,16 +157,33 @@ Airalo connects to either T-Mobile or Verizon depending on your location and sig
 
 Airalo does not offer manual network selection — your phone automatically chooses between T-Mobile and Verizon. If you are in a location where one network is congested, you cannot force your phone to switch to the other. That is a real limitation next to providers that hand network selection to the phone and switch between carriers without asking you.
 
+### Airalo's biggest policy catch: one-time activation
+
+An Airalo profile cannot be reinstalled. If the eSIM is deleted — by accident, during a factory reset, or because the phone was replaced — the remaining data balance is gone and a new plan has to be bought. It is one of the most common complaints in Airalo refund threads, and it is worth knowing before the trip rather than after. Airalo is not alone in applying this policy, but because its setup is the easiest to start, it is also the easiest to undo by mistake. The safe habit is to treat an active profile as permanent: if the phone shows "No Service", fix it with Airplane Mode or a restart, never by deleting the profile.
+
+### Airalo Discover+ plans: the one travel eSIM line with a real +1 number
+
+Almost every travel eSIM is data-only, which is why "do I need a US number" is such a common question. Airalo's Discover+ line is the exception — it bundles a real US phone number with voice minutes and SMS, which is what you need to receive bank verification codes or call a US business directly.
+
+| Data + Voice | Validity | Price |
+|:-------------|:---------|:------|
+| 1 GB | 7 days | $7.00 |
+| 5 GB | 30 days | $22.50 |
+| 10 GB | 30 days | $34.50 |
+| 20 GB | 30 days | $49.00 |
+
+That changes one of the rows below: Airalo **can** give you a US number, but only on Discover+ — the standard data-only tiers cannot. If a US number is your deciding requirement, the [USA eSIM with phone number guide](/blog/usa-esim-with-phone-number/) compares every provider that offers one.
+
 ### Airalo USA eSIM pros and cons
 
 | Pros | Cons |
 |:-----|:------|
 | Easiest setup of any provider | Higher per-GB cost than Ubigi |
-| Dual-network (T-Mobile + Verizon) | No US phone number |
+| Dual-network (T-Mobile + Verizon) | No US number on data-only plans |
 | Plans for 200+ countries | Hotspot speed can vary |
 | No account needed to buy | No phone support |
 | Unlimited plans from $11.50 (3d) | Refunds in store credit only |
-| App is polished and intuitive | Data-only, no voice or SMS |
+| Discover+ adds voice, SMS and a +1 number | Profile cannot be reinstalled if deleted |
 
 ---
 
@@ -437,6 +454,114 @@ KnowRoaming offers more plan variety than most competitors:
 
 ---
 
+## Roami USA eSIM detail: multi-carrier smart switching
+
+Every provider above is limited by the same structural constraint: your eSIM is authorised to use one or two US networks, and when that network's signal drops somewhere across 3.8 million square miles, the connection goes with it until you intervene manually or drive back into coverage. Roami approaches the comparison from the other direction — instead of asking you to guess which carrier matches your itinerary, the plan is authorised on all three at once.
+
+### How multi-carrier smart switching works
+
+With a single-network eSIM, the phone registers with one carrier — say T-Mobile. As long as a T-Mobile tower is in range, there is service. Drive out of range and the connection ends, because the profile is not authorised on AT&T or Verizon even when their towers are visibly in range.
+
+A multi-carrier profile is authorised on all three networks at the same time. When signal strength on the current network falls below a usable threshold, the handset initiates a handover to the strongest available alternative at the network-authentication level, which completes in under a second. Nothing is tapped, the connection is not dropped, and an in-progress call does not freeze. The practical effect is that [coverage dead zones](/blog/usa-esim-coverage-guide/) stop being itinerary-defining — the phone simply uses whichever of T-Mobile, AT&T or Verizon is strongest where you happen to be standing.
+
+### Roami USA eSIM pricing
+
+List price and the 20% discounted price are both shown, alongside the nearest equivalent from the two best-known brands. Data and duration are priced separately rather than bundled into one "unlimited" tier, which matters because most travellers overpay for unlimited they never use.
+
+**3-day plans (short business trips, weekend breaks):**
+
+| Plan | List price | After 20% off | Airalo equivalent | Holafly equivalent |
+|:-----|:----------:|:-------------:|:------------------|:-------------------|
+| 1 GB | $2.99 | $2.39 | — | $11.90 (3d unlimited) |
+| 3 GB | $3.99 | $3.19 | — | — |
+| 5 GB | $5.99 | $4.79 | — | — |
+| 10 GB | $7.99 | $6.39 | — | — |
+| Unlimited | $8.99 | $7.19 | $12.00 (3d unlimited) | — |
+
+**7-day plans (the most common trip length):**
+
+| Plan | List price | After 20% off | Airalo equivalent | Holafly equivalent |
+|:-----|:----------:|:-------------:|:------------------|:-------------------|
+| 1 GB | $1.99 | $1.59 | — | — |
+| 3 GB | $4.99 | $3.99 | — | — |
+| 5 GB | $6.99 | $5.59 | — | — |
+| 10 GB | $10.99 | $8.79 | — | — |
+| 20 GB | $15.99 | $12.79 | — | — |
+| Unlimited | $21.99 | $17.59 | $25.00 (7d unlimited) | $27.30 (7d unlimited) |
+
+**15-day plans:**
+
+| Plan | List price | After 20% off |
+|:-----|:----------:|:-------------:|
+| 3 GB | $5.99 | $4.79 |
+| 5 GB | $8.99 | $7.19 |
+| 10 GB | $14.99 | $11.99 |
+| 20 GB | $18.99 | $15.19 |
+| 30 GB | $23.99 | $19.19 |
+| Unlimited | $35.99 | $28.79 |
+
+**30-day plans (long stays and digital nomads):**
+
+| Plan | List price | After 20% off | Airalo equivalent | Holafly equivalent |
+|:-----|:----------:|:-------------:|:------------------|:-------------------|
+| 3 GB | $6.99 | $5.59 | — | — |
+| 5 GB | $8.99 | $7.19 | — | — |
+| 10 GB | $12.99 | $10.39 | — | — |
+| 20 GB | $22.99 | $18.39 | — | — |
+| 30 GB | $24.99 | $19.99 | — | — |
+| 50 GB | $39.99 | $31.99 | — | — |
+| Unlimited | $49.99 | $39.99 | $66.00 (30d unlimited) | $73.90 (30d unlimited) |
+
+The pattern across all four ladders is the same: for the same allowance or the same duration, Roami sits below both Airalo and Holafly, and the gap widens at the unlimited tier. For a wider read on how those prices compare per gigabyte, the [USA eSIM price guide](/blog/usa-esim-price-guide/) breaks down cost per GB across the whole market.
+
+### Roami's unique features
+
+**Free trial.** A [free eSIM trial](/free-esim/) can be installed before any paid plan to confirm that the handset is compatible and that the network registers properly — the failure modes that cause most "my eSIM doesn't work" complaints are testable in advance at no cost. Nomad is the only other provider in this comparison offering a free trial.
+
+**24/7 human support with a sub-10-second response.** Airalo is chatbot-first and Holafly routes through in-app chat; Roami answers with a human, in multiple languages, in seconds. For a traveller whose first language is not English, being able to describe a connection fault in their own language and get a person immediately is a genuine differentiator rather than a marketing line.
+
+**Instant refunds.** Full refund before activation, partial refunds for technical or coverage faults after activation, approved quickly rather than through a dispute process.
+
+**Automatic price comparison.** The app compares plan prices for the destination and surfaces the best-value option — a feature neither Airalo nor Holafly offers.
+
+### Roami USA eSIM pros and cons
+
+| Pros | Cons |
+|:-----|:-----|
+| All three networks (T-Mobile + AT&T + Verizon) on one profile | No real US phone number — data only |
+| Automatic switching instead of manual network selection | Newer brand with fewer independent reviews than Airalo |
+| Lowest entry price in this comparison ($1.99 / 1GB / 7d) | Unlimited tier is capped data-plans, not a marketing "unlimited" |
+| Free trial before purchase | App is less feature-rich than Airalo's |
+| 24/7 human support in seconds | Discount code required for the lowest headline price |
+| Full hotspot support, no daily cap | |
+
+### Roami vs Airalo vs Holafly: full comparison matrix
+
+| Dimension | Airalo | Holafly | Roami |
+|:----------|:-------|:--------|:------|
+| US starting price | $11.50 (3d unlimited) | $11.90 (3d unlimited) | $1.99 (1GB/7d) |
+| 7-day plan | $25.00 (unlimited) | $27.30 (unlimited) | $5.59 (5GB, after discount) |
+| 30-day plan | $66.00 (unlimited) | $73.90 (unlimited) | $10.39 (10GB, after discount) |
+| Unlimited available | Yes (main US lineup) | Yes (throttled after 2-5GB/day) | Yes (select plans) |
+| US networks used | T-Mobile + Verizon | AT&T | T-Mobile + AT&T + Verizon |
+| Network selection | Automatic, no manual override | Automatic, no manual override | Automatic multi-carrier |
+| 5G access | Partial (NSA) | Partial (NSA/SA mixed) | Full SA on all three networks |
+| Mobile hotspot | Included on most plans | 500MB-1GB/day cap | Included, no daily cap |
+| Real US phone number | Discover+ plans only | No | No |
+| Free trial | No | No | Yes |
+| 24/7 human support | Chatbot-first | Live chat via WhatsApp | Human, sub-10-second response |
+| Refund policy | Store credit | Flexible, 6-month window | Instant refund |
+| Automatic price comparison | No | No | Yes |
+| Profile reinstallable if deleted | No | Yes | Yes |
+| Trustpilot score | 3.9-4.0/5 | 4.6/5 | — |
+| Discount code | — | — | web20 (20% off) |
+| Countries covered | 200+ | 160+ | 200+ |
+| Best for | A US number on Discover+ | Short heavy-use trips | Road trips, national parks, budget |
+
+For the network-by-network reasoning behind those coverage rows, the [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/) maps which carrier actually wins in each city and region. If you are still deciding whether an eSIM is the right format at all, the [USA eSIM complete guide](/blog/usa-esim-complete-guide/) covers the fundamentals first.
+
+---
+
 ## Other USA eSIM companies worth knowing
 
 The brands above are the ones most travelers compare first, but they are not the whole market. If none of them fits, these providers reach the same US networks with a different trade-off:
@@ -602,7 +727,7 @@ Ubigi is 45-75% cheaper than Holafly for equivalent data volumes. Holafly's prem
 - **Heavy users -> Holafly.** Unlimited data, 24/7 support.
 - **Privacy-focused -> Saily.** Built-in VPN.
 
-Roami takes a different approach: rather than asking you to choose a carrier, [a multi-network USA eSIM plan](/united-states-esim/) at the moment.
+Roami takes a different approach: rather than asking you to choose a carrier, [a multi-network USA eSIM plan](/united-states-esim/) is authorised on T-Mobile, AT&T and Verizon at once and switches automatically as you move. Detailed pricing, the switching mechanism, and a full 18-row comparison matrix are in the Roami section above.
 
 ### USA eSIM quick decision matrix for these pairings
 

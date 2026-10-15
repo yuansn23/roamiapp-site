@@ -1,7 +1,7 @@
 ---
 title: "Thailand eSIM: AIS, TrueMove H oder dtac im Vergleich"
 description: "Thailand eSIM im Vergleich: AIS, TrueMove H und dtac nach Tempo, Inselabdeckung, Passregeln und Preisen für Ihre Thailand-Reise."
-image: "img/esim/carriers/thailand-esim-carrier-guide.jpg"
+image: "img/esim/carriers/thailand-esim-carrier-guide.webp"
 date: "2026-09-23T04:25:29+00:00"
 keywords: Thailand eSIM-Netzbetreiber, AIS eSIM, TrueMove H eSIM, dtac eSIM, Thailand 5G-Netzabdeckung, Thailand eSIM APN, eSIM Thailand Prepaid, bester eSIM-Netzbetreiber Thailand
 site_name: Roami

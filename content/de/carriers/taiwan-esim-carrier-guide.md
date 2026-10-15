@@ -3,7 +3,7 @@
 title: "Chunghwa vs Taiwan Mobile vs FarEasTone: Taiwan eSIM"
 
 description: "Taiwan, China eSIM im Vergleich: Chunghwa Telecom, Taiwan Mobile und FarEasTone nach Netzabdeckung, Preisen und Registrierung."
-image: "img/esim/carriers/taiwan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/taiwan-esim-carrier-guide.webp"
 
 date: "2026-09-23T07:39:56+00:00"
 

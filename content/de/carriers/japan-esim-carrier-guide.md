@@ -1,7 +1,7 @@
 ---
 title: "Japan eSIM-Netzbetreiber: Docomo, au, SoftBank, Rakuten"
 description: "Japan eSIM im Vergleich: Docomo, au, SoftBank und Rakuten nach Tempo, Netzabdeckung, Prepaid-Regeln und APN für Ihre Reise."
-image: "img/esim/carriers/japan-esim-carrier-guide.jpg"
+image: "img/esim/carriers/japan-esim-carrier-guide.webp"
 date: "2026-09-25T15:13:47+00:00"
 keywords: Japan eSIM-Netzbetreiber, Docomo eSIM, au eSIM, SoftBank eSIM, Rakuten Mobile eSIM, 5G-Netzabdeckung Japan, Japan eSIM APN, eSIM Japan Prepaid, bester eSIM-Netzbetreiber Japan, Japan Reise eSIM
 site_name: Roami

@@ -2,7 +2,7 @@
 
 title: "Nigeria eSIM: MTN, Airtel oder Glo ohne NIN kaufen"
 description: "Nigeria eSIM im Vergleich: MTN, Airtel, Glo und T2 nach Netzabdeckung, NIN-Pflicht und Preisen – und der Weg daran vorbei."
-image: "img/esim/carriers/nigeria-esim-carrier-guide.jpg"
+image: "img/esim/carriers/nigeria-esim-carrier-guide.webp"
 
 date: "2026-09-24T17:17:28+00:00"
 

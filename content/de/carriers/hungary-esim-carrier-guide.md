@@ -1,7 +1,7 @@
 ---
 title: "Braucht Ihre Ungarn eSIM Yettel oder Magyar Telekom?"
 description: "Die Ungarn eSIM im Duell von Yettel, Magyar Telekom und One mit Ookla-Messwerten, Preisen und Netzabdeckung von Budapest bis zum Balaton."
-image: "img/esim/carriers/hungary-esim-carrier-guide.jpg"
+image: "img/esim/carriers/hungary-esim-carrier-guide.webp"
 date: "2026-09-26T18:40:50+00:00"
 keywords: eSIM Ungarn, Ungarn eSIM-Netzbetreiber, Yettel eSIM, Magyar Telekom eSIM, One Ungarn, Prepaid-Daten, 5G-Netz, Reise-eSIM Ungarn
 site_name: Roami

@@ -3,7 +3,7 @@
 title: "Marokko eSIM-Netzbetreiber: Maroc Telecom, inwi, Orange"
 
 description: "Marokko eSIM im Vergleich: Maroc Telecom, inwi und Orange nach Netzabdeckung, Preisen und Reisepass-Registrierung vor Ort."
-image: "img/esim/carriers/morocco-esim-carrier-guide.jpg"
+image: "img/esim/carriers/morocco-esim-carrier-guide.webp"
 
 date: "2026-09-24T14:07:36+00:00"
 

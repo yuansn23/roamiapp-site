@@ -1,7 +1,7 @@
 ---
 title: "Costa Rica eSIM mit Claro oder Kölbi richtig wählen"
 description: "Costa Rica eSIM im Vergleich: Claro für Geschwindigkeit in der Stadt, Kölbi für Empfang in den Nationalparks und Liberty für Konstanz."
-image: "img/esim/carriers/costa-rica-esim-carrier-guide.jpg"
+image: "img/esim/carriers/costa-rica-esim-carrier-guide.webp"
 date: "2026-09-27T07:00:48+00:00"
 keywords: Costa-Rica eSIM-Netzbetreiber, Costa-Rica eSIM-Anbieter, Claro eSIM, Kölbi eSIM, ICE eSIM, Liberty Costa-Rica eSIM, Costa-Rica 5G-Netzabdeckung, Costa-Rica eSIM-Netzabdeckung im ländlichen Raum, eSIM Costa Rica Prepaid, bester eSIM-Netzbetreiber Costa Rica
 site_name: Roami

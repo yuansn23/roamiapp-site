@@ -1,7 +1,7 @@
 ---
 title: "Lettland eSIM: LMT, Tele2 oder Bite für Ihre Reise?"
 description: "LMT, Tele2 oder Bite? Roami vergleicht alle drei Lettland eSIM-Netzbetreiber, von der Netzabdeckung in Riga bis zur Passregel am Schalter."
-image: "img/esim/carriers/latvia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/latvia-esim-carrier-guide.webp"
 date: "2026-09-25T23:56:33+00:00"
 keywords: Lettland eSIM, Lettland eSIM-Netzbetreiber, Lettland eSIM kaufen, sofortige Konnektivität, LMT Lettland, Tele2 Lettland, Altstadt von Riga, Roaming-Gebühren vermeiden, Reise-eSIM, Baltikum-Reise
 site_name: Roami

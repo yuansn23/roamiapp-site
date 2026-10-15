@@ -1,7 +1,7 @@
 ---
 title: "Luxemburg eSIM: POST, Tango oder Orange sind fast egal"
 description: "Luxemburg eSIM im Vergleich: POST, Tango und Orange nach Netzabdeckung, Registrierungspflicht und grenzüberschreitendem Roaming."
-image: "img/esim/carriers/luxembourg-esim-carrier-guide.jpg"
+image: "img/esim/carriers/luxembourg-esim-carrier-guide.webp"
 date: "2026-09-25T17:52:39+00:00"
 keywords: Luxemburg eSIM Anbieter, POST Luxembourg eSIM, Tango eSIM, Orange Luxemburg, Luxemburg 5G Netzabdeckung, Luxemburg eSIM APN, Luxemburg SIM-Registrierung, EU-Roaming Luxemburg, Luxemburg Reise eSIM, beste eSIM Luxemburg
 site_name: Roami

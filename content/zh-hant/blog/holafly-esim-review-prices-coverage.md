@@ -311,7 +311,7 @@ Holafly 的方案從開通那一刻開始倒數——按天數算，不是按用
 
 走完這三步，如果 Holafly 還在你的候選名單上，它的客服優勢可能是最終的購買理由。
 
-**重點摘要**：Holafly 和 Airalo 服務不同的用戶群——重度、價格敏感度低、不開熱點的用戶選 Holafly；輕度、精打細算、追求彈性的用戶選 Airalo。想看美國市場的完整對決（含當前價格與情境選擇），請見我們的 [Airalo vs Holafly vs Roami 美國比較](/blog/best-usa-esim-comparison-airalo-holafly/)。
+**重點摘要**：Holafly 和 Airalo 服務不同的用戶群——重度、價格敏感度低、不開熱點的用戶選 Holafly；輕度、精打細算、追求彈性的用戶選 Airalo。想看美國市場的完整對決（含當前價格與情境選擇），請見我們的 [Airalo vs Holafly vs Roami 美國比較](/blog/usa-esim-provider-comparison/)。
 
 
 ## Holafly 的 Trustpilot 4.6 背後，用戶在稱讚什麼

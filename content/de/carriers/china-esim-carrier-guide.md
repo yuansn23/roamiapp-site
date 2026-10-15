@@ -1,7 +1,7 @@
 ---
 title: "China eSIM mit China Mobile oder China Unicom nutzen"
 description: "China eSIM erklärt: Netzbetreiber, Registrierungspflicht und Routing von China Mobile, China Unicom und China Telecom für Reisende."
-image: "img/esim/carriers/china-esim-carrier-guide.jpg"
+image: "img/esim/carriers/china-esim-carrier-guide.webp"
 date: "2026-09-27T13:44:42+00:00"
 keywords: China eSIM, China eSIM-Netzbetreiber, Reiseinternet China, China Mobile eSIM, China Unicom eSIM, Plug-and-Play-eSIM, Roaming-Gebühren China vermeiden, eSIM für den Markt-Reisen, Great Wall eSIM, Shanghai eSIM, Peking eSIM
 site_name: Roami

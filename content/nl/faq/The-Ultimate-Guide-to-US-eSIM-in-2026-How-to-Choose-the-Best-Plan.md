@@ -366,7 +366,7 @@ Dit is de directe vergelijking die reizigers daadwerkelijk zoeken. Alle prijzen 
 | **30 dagen geldigheid** nodig hebt op een 10GB-abonnement | Roami of Airalo |
 | Alleen een **telefoonnummer voor SMS** nodig hebt | Airalo Discover+ |
 
-> 💡 **Kerninzicht:** Roami's 10GB ($26.99) ligt ongeveer op gelijke hoogte met Airalo's data-only abonnement ($23.00 voor 10GB/30d per september 2026), maar Roami voegt automatisch wisselen over alle drie de netwerken toe, terwijl Airalo's data-only abonnement op één netwerk draait. Holafly verkoopt alleen onbeperkte data — $47 voor 30 dagen. Lees onze **[volledige Airalo vs Holafly-vergelijking](/blog/best-usa-esim-comparison-airalo-holafly/)** voor meer details.
+> 💡 **Kerninzicht:** Roami's 10GB ($26.99) ligt ongeveer op gelijke hoogte met Airalo's data-only abonnement ($23.00 voor 10GB/30d per september 2026), maar Roami voegt automatisch wisselen over alle drie de netwerken toe, terwijl Airalo's data-only abonnement op één netwerk draait. Holafly verkoopt alleen onbeperkte data — $47 voor 30 dagen. Lees onze **[volledige Airalo vs Holafly-vergelijking](/blog/usa-esim-provider-comparison/)** voor meer details.
 
 
 ## Zo koop en activeer je een US eSIM
@@ -479,7 +479,7 @@ Niet alle data is gelijk geschapen. Travel eSIM's worden vaak lager geprioriteer
 ## Veelgestelde vragen over US eSIM
 
 **Is Airalo of Roami goedkoper voor de VS?**
-Airalo's data-only 10GB/30d abonnement ($23.00) is iets goedkoper dan Roami's 10GB ($26.99), maar Roami voegt automatisch wisselen over T‑Mobile, AT&T en Verizon toe, terwijl Airalo's data-only abonnement een enkel netwerk gebruikt. Voor onbeperkte data is Roami vaak de betere keuze. Lees onze **[Airalo vs Holafly-gids](/blog/best-usa-esim-comparison-airalo-holafly/)**.
+Airalo's data-only 10GB/30d abonnement ($23.00) is iets goedkoper dan Roami's 10GB ($26.99), maar Roami voegt automatisch wisselen over T‑Mobile, AT&T en Verizon toe, terwijl Airalo's data-only abonnement een enkel netwerk gebruikt. Voor onbeperkte data is Roami vaak de betere keuze. Lees onze **[Airalo vs Holafly-gids](/blog/usa-esim-provider-comparison/)**.
 
 **Bevat een US eSIM een telefoonnummer?**
 De meeste travel dataplannen zijn data-only. Heb je een Amerikaans nummer nodig voor gesprekken of SMS-verificatiecodes, zoek dan een abonnement dat een telefoonnummer bevat (zoals Airalo Discover+). Let op: deze abonnementen zijn meestal duurder per GB.

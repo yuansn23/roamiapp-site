@@ -7,7 +7,7 @@ title: "Welche Malta-eSIM ist besser – GO, Epic oder Melita?"
 
 
 description: "GO, Epic oder Melita für Ihre Malta-eSIM? Der Vergleich mit Netzabdeckung von Valletta bis Gozo, Comino-Empfang, Preisen und EU-Roaming."
-image: "img/esim/carriers/malta-esim-carrier-guide.jpg"
+image: "img/esim/carriers/malta-esim-carrier-guide.webp"
 
 
 

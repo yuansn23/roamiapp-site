@@ -1,5 +1,5 @@
 ---
-title: "T-Mobile vs AT&T vs Verizon: Best US eSIM Plans 2026"
+title: "T-Mobile vs AT&T vs Verizon Prepaid eSIM Plans for US Travelers"
 description: "T-Mobile vs AT&T vs Verizon prepaid eSIM plans compared, with pricing and coverage. Roami offers USA eSIM with auto switching."
 keywords: ["T-Mobile vs AT&T vs Verizon eSIM", "USA prepaid eSIM plans", "T-Mobile tourist eSIM", "AT&T prepaid eSIM review", "Verizon eSIM for travelers"]
 date: 2026-09-22T00:00:00Z
@@ -13,7 +13,7 @@ readingTime: 15
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "T-Mobile vs AT&T vs Verizon eSIM: Best US Carrier Plans"
+h1title: "T-Mobile vs AT&T vs Verizon Prepaid eSIM Plans for US Travelers"
 
 # Sidebar module titles
 productsTitle: "Popular eSIM Plans"

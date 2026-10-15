@@ -1,7 +1,7 @@
 ---
 title: "Kenia eSIM: Safaricom, Airtel oder Telkom wählen"
 description: "Kenia eSIM im Vergleich: Safaricom, Airtel und Telkom nach Netzabdeckung, Preisen und Registrierung – von Nairobi bis Mombasa."
-image: "img/esim/carriers/kenya-esim-carrier-guide.jpg"
+image: "img/esim/carriers/kenya-esim-carrier-guide.webp"
 date: "2026-09-25T06:14:26+00:00"
 keywords: Kenia eSIM, Kenia eSIM-Netzbetreiber, Safaricom eSIM, Airtel Kenia eSIM, Reise-eSIM Kenia, Netzabdeckung Nairobi, Roaming-Gebühren Kenia vermeiden, Kenia Prepaid-eSIM
 site_name: Roami

@@ -371,7 +371,7 @@ Roami 透過自動電信業者切換，提供這兩個網路的存取權，包�
 | 需要 10GB 方案的 **30 天效期** | Roami 或 Airalo |
 | 只需要 **用於簡訊的電話號碼** | Airalo Discover+ |
 
-> 💡 **重點洞察：** Roami 的 10GB（$26.99）與 Airalo 純數據方案（$23.00，10GB/30天，2026 年 9 月）大致持平，但 Roami 額外加入了跨三大網路的自動切換，而 Airalo 的純數據方案僅運行於單一網路。Holafly 只販售無限數據——30 天 $47。更多細節請閱讀我們的 **[Airalo vs Holafly 完整比較](/blog/best-usa-esim-comparison-airalo-holafly/)**。
+> 💡 **重點洞察：** Roami 的 10GB（$26.99）與 Airalo 純數據方案（$23.00，10GB/30天，2026 年 9 月）大致持平，但 Roami 額外加入了跨三大網路的自動切換，而 Airalo 的純數據方案僅運行於單一網路。Holafly 只販售無限數據——30 天 $47。更多細節請閱讀我們的 **[Airalo vs Holafly 完整比較](/blog/usa-esim-provider-comparison/)**。
 
 
 ## 如何購買並啟用美國 eSIM
@@ -484,7 +484,7 @@ Android 選單會因製造商略有不同，但邏輯完全相同：
 ## 美國 eSIM 常見問題
 
 **Airalo 與 Roami 在美國誰比較便宜？**
-Airalo 純數據 10GB/30天方案（$23.00）比 Roami 的 10GB（$26.99）略便宜，但 Roami 額外加入跨 T‑Mobile、AT&T 與 Verizon 的自動切換，而 Airalo 的純數據方案僅使用單一網路。對於無限數據，Roami 通常更具價值。請閱讀我們的 **[Airalo vs Holafly 指南](/blog/best-usa-esim-comparison-airalo-holafly/)**。
+Airalo 純數據 10GB/30天方案（$23.00）比 Roami 的 10GB（$26.99）略便宜，但 Roami 額外加入跨 T‑Mobile、AT&T 與 Verizon 的自動切換，而 Airalo 的純數據方案僅使用單一網路。對於無限數據，Roami 通常更具價值。請閱讀我們的 **[Airalo vs Holafly 指南](/blog/usa-esim-provider-comparison/)**。
 
 **美國 eSIM 是否包含電話號碼？**
 多數旅行數據方案皆為純數據。若您需要用於通話或簡訊驗證碼的美國號碼，請尋找包含電話號碼的方案（如 Airalo Discover+）。請注意，這類方案每 GB 通常較貴。

@@ -240,7 +240,7 @@ eSIM 기본 설정의 전체 절차는 **[iPhone 16 eSIM 완벽 가이드](/faq/
 
 **국제 여행용 SIM 요금제**를 평가할 때는 가격뿐 아니라 네트워크 품질, 커버리지 깊이, 지원 가용성도 고려하세요. 미국 여행에는 멀티 통신사 전환이 가능한 **[미국 eSIM](/united-states-esim/)**이 가장 신뢰할 수 있으며 — [미국 eSIM 요금제 가이드](/faq/the-ultimate-guide-to-us-esim-in-2026-how-to-choose-the-best-plan/)가 제공업체, 가격, 네트워크를 상세히 비교합니다.
 
-특정 제공업체에 대한 자세한 내용은 [미국 eSIM 비교 가이드](/blog/best-usa-esim-comparison-airalo-holafly/)를 확인하세요.
+특정 제공업체에 대한 자세한 내용은 [미국 eSIM 비교 가이드](/blog/usa-esim-provider-comparison/)를 확인하세요.
 
 
 ## 여행 eSIM 데이터가 얼마나 필요한가요?

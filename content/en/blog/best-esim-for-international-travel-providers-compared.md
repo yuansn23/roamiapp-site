@@ -199,7 +199,7 @@ A provider advertising "5G support" does not mean 5G everywhere. 5G depends on t
 
 Four questions narrow the field faster than any comparison table:
 
-**1. Where are you going?** Single country → a country plan is cheapest — for the US specifically, our [best USA eSIM comparison](/blog/best-usa-esim-comparison-airalo-holafly/) ranks the three major providers. Multi-country → a regional or global plan is simpler and usually cheaper than stacking separate plans. Confirm every country on your route is covered, including transit airports.
+**1. Where are you going?** Single country → a country plan is cheapest — for the US specifically, our [best USA eSIM comparison](/blog/usa-esim-provider-comparison/) ranks the three major providers. Multi-country → a regional or global plan is simpler and usually cheaper than stacking separate plans. Confirm every country on your route is covered, including transit airports.
 
 **2. How much data do you need?** Size your international eSIM from the usage table above. The per-GB price drops as plans get bigger, so one larger plan beats repeated top-ups.
 

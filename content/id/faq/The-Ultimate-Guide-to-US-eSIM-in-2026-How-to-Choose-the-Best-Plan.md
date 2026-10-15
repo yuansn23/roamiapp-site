@@ -366,7 +366,7 @@ Inilah perbandingan langsung yang benar-benar dicari para traveler. Semua harga 
 | Membutuhkan **masa berlaku 30 hari** pada paket 10GB | Roami atau Airalo |
 | Hanya butuh **nomor telepon untuk SMS** | Airalo Discover+ |
 
-> 💡 **Wawasan Utama:** Paket 10GB Roami ($26.99) berada di posisi yang hampir setara dengan paket khusus data Airalo ($23.00 untuk 10GB/30hr per September 2026), tetapi Roami menambahkan peralihan otomatis di ketiga jaringan, sementara paket khusus data Airalo berjalan di satu jaringan. Holafly hanya menjual data tanpa batas — $47 untuk 30 hari. Baca **[perbandingan lengkap Airalo vs Holafly](/blog/best-usa-esim-comparison-airalo-holafly/)** kami untuk detail lebih lanjut.
+> 💡 **Wawasan Utama:** Paket 10GB Roami ($26.99) berada di posisi yang hampir setara dengan paket khusus data Airalo ($23.00 untuk 10GB/30hr per September 2026), tetapi Roami menambahkan peralihan otomatis di ketiga jaringan, sementara paket khusus data Airalo berjalan di satu jaringan. Holafly hanya menjual data tanpa batas — $47 untuk 30 hari. Baca **[perbandingan lengkap Airalo vs Holafly](/blog/usa-esim-provider-comparison/)** kami untuk detail lebih lanjut.
 
 
 ## Cara Membeli dan Mengaktifkan eSIM AS
@@ -479,7 +479,7 @@ Tidak semua data diciptakan sama. eSIM perjalanan sering kali diprioritaskan leb
 ## FAQ eSIM AS
 
 **Apakah Airalo atau Roami lebih murah untuk AS?**
-Paket khusus data 10GB/30hr Airalo ($23.00) sedikit lebih murah daripada 10GB Roami ($26.99), tetapi Roami menambahkan peralihan otomatis di T-Mobile, AT&T, dan Verizon sementara paket khusus data Airalo menggunakan satu jaringan. Untuk data tanpa batas, Roami sering kali lebih bernilai. Baca **[panduan Airalo vs Holafly](/blog/best-usa-esim-comparison-airalo-holafly/)** kami.
+Paket khusus data 10GB/30hr Airalo ($23.00) sedikit lebih murah daripada 10GB Roami ($26.99), tetapi Roami menambahkan peralihan otomatis di T-Mobile, AT&T, dan Verizon sementara paket khusus data Airalo menggunakan satu jaringan. Untuk data tanpa batas, Roami sering kali lebih bernilai. Baca **[panduan Airalo vs Holafly](/blog/usa-esim-provider-comparison/)** kami.
 
 **Apakah eSIM AS termasuk nomor telepon?**
 Kebanyakan paket data perjalanan hanya untuk data. Jika Anda membutuhkan nomor AS untuk panggilan atau kode verifikasi SMS, carilah paket yang mencakup nomor telepon (seperti Airalo Discover+). Perhatikan bahwa paket-paket ini biasanya lebih mahal per GB.

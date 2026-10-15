@@ -3,7 +3,7 @@
 title: "Bahrain eSIM: Batelco, Zain und stc im Vergleich"
 
 description: "Bahrain eSIM im Vergleich: Batelco, Zain und stc mit Netzabdeckung, Prepaid-Preisen und der Fingerabdruck-Pflicht am Schalter."
-image: "img/esim/carriers/bahrain-esim-carrier-guide.jpg"
+image: "img/esim/carriers/bahrain-esim-carrier-guide.webp"
 
 date: "2026-09-27T16:52:45+00:00"
 

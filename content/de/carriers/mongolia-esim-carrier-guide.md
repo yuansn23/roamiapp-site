@@ -2,7 +2,7 @@
 
 title: "Mongolei eSIM: Unitel oder Mobicom für Ihre Reise?"
 description: "Mongolei eSIM im Vergleich: Unitel und Mobicom nach Netzabdeckung, Flughafen-eSIM und Preisen für Ulaanbaatar und das Umland."
-image: "img/esim/carriers/mongolia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/mongolia-esim-carrier-guide.webp"
 
 date: "2026-09-25T20:26:30+00:00"
 

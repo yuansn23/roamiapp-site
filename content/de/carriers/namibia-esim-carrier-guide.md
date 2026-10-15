@@ -1,7 +1,7 @@
 ---
 title: "Welche Namibia eSIM funktioniert auf Schotterpisten?"
 description: "Namibia eSIM mit MTC oder TN Mobile – Netzabdeckung bis Etosha, SIM-Registrierungspflicht, NAD-Preise und Starlink-Status für Selbstfahrer."
-image: "img/esim/carriers/namibia-esim-carrier-guide.jpg"
+image: "img/esim/carriers/namibia-esim-carrier-guide.webp"
 date: "2026-09-24T08:07:42+00:00"
 keywords: Namibia eSIM-Netzbetreiber, MTC eSIM, TN Mobile eSIM, Paratus eSIM, Namibia-Reise-eSIM, Touristen-SIM Namibia, Konnektivität in Etosha, Namibia-APN, Internet für Namibia-Selbstfahrer, CRAN Namibia
 site_name: Roami
