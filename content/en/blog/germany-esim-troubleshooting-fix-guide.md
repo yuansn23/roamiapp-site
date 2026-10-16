@@ -51,7 +51,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
-One in five first-time eSIM users in Germany encounters an activation or connectivity issue, according to complaints logged with the Bundesnetzagentur and consumer forums like heise.de. The most common problems — "No Service" after landing, activation failures, blank screens, and QR codes that will not scan — all trace back to a small set of root causes, each with a known fix that takes under five minutes. Your Germany eSIM shows no signal and you need it fixed now; this guide covers exactly how.
+One in five first-time eSIM users in Germany encounters an activation or connectivity issue, according to complaints logged with the Bundesnetzagentur and consumer forums like heise.de. The most common problems — "No Service" after landing, activation failures, blank screens, and QR codes that will not scan — all trace back to a small set of root causes, each with a known fix that takes under five minutes. Your Germany eSIM isn't working and you need it fixed now; this guide covers exactly why, and how.
 
 **The short answer:** a Germany eSIM that shows no signal after landing is almost always a settings problem, not a broken plan. Check three things in order — is **data roaming** switched on for the eSIM line, is **airplane mode** off, and is the eSIM set as the **default data line** — because those three account for the large majority of "no service" cases. If data flows but nothing loads, the cause is usually **APN settings**; if it connects and runs slowly, it is congestion or a throttled plan. The lookup table below maps each symptom to the exact fix.
 
