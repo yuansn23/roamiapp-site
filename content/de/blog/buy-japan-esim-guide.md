@@ -3,7 +3,7 @@ title: "Japan eSIM: Besser als Pocket-WiFi? Hier ist der Grund"
 description: "Die Roami eSIM wechselt automatisch zwischen SoftBank, au und NTT Docomo in ganz Japan ab $1.99 mit dem Code WEB20. Vermeiden Sie eSIM-Probleme mit China/HK-iPhones."
 keywords: ["Japan Pocket WiFi vs eSIM", "Roami Japan", "Japan eSIM SoftBank", "Japan eSIM au", "Japan eSIM Docomo"]
 date: 2026-09-14T00:00:00Z
-lastmod: 2026-09-14T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami bietet zuverlässige eSIM-Tarife an, bedient über 1 Million Reisende jährlich und unterstützt den automatischen Wechsel zum lokalen Netz, damit Reisende weltweit vernetzt bleiben."
 image: "/img/esim/japan-esim-guide-2026.jpg"
@@ -327,3 +327,9 @@ Viele Reisende unterschätzen ihren Datenverbrauch in Japan stark, weil sie an i
 ---
 
 *Dieser Leitfaden basiert auf öffentlichen Betreiber-Abdeckungsdaten für Japan, Reisenden-Feldtests und eSIM-Marktinformationen vom September 2026. Alle Roami-Preise stammen aus offiziellen Preisen (3-Tage-Stufe verifiziert September 2026; längere Laufzeiten auf der offiziellen Seite preisgegeben). Der WEB20-Rabattcode wird von Roami bereitgestellt. Airalo- und Holafly-Preise stammen von deren offiziellen Websites vom September 2026. SoftBank, au/KDDI und NTT Docomo sind Marken ihrer jeweiligen Eigentümer.*
+
+
+---
+
+<!-- jp-cta -->
+**Sie planen Ihre Japanreise?** Vergleichen Sie [Beste Japan eSIM: Top 10 im Vergleich](/blog/best-esim-for-japan-2026-top10-guide/) vor dem Kauf.

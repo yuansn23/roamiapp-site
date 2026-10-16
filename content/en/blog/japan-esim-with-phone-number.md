@@ -3,7 +3,7 @@ title: "Japan eSIM with Phone Number: Calls, SMS and Data"
 description: "Japan eSIM with phone number explained. Which eSIMs include calls and SMS, whether tourists can get a Japanese number, and how to keep your home number active."
 keywords: ["japan esim with phone number", "japan esim with calls and sms", "data only vs voice japan esim", "receive sms verification japan esim", "japanese phone number for tourists", "can i make calls with a japan esim", "japan esim local number"]
 date: 2026-09-22T00:00:00Z
-lastmod: 2026-09-22T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/japan-esim-with-phone-number.jpg"
@@ -300,3 +300,9 @@ Less than most people expect at the entry tier — a month of a visitor voice pl
 ## Final thoughts: choosing a Japan eSIM with a phone number
 
 The honest summary is that **most travellers do not need a Japanese phone number, and no data-only eSIM will give them one.** Start with the data-only question: how much data, for how long, on which network. If, and only if, a specific service demands a local number, look at the voice plans above and accept the identity verification that comes with them. If you are still weighing data options, compare the per-GB tiers in our [data-only costs](/blog/japan-esim-price-guide/), or look at a [voice-capable physical SIM](/blog/japan-sim-card-guide/) if a local product turns out to be what you actually need.
+
+
+---
+
+<!-- jp-cta -->
+**Planning your Japan trip?** Compare [Japan eSIM plans and prices](/japan-esim/) and [Best Japan eSIM: top 10 compared](/blog/best-esim-for-japan-2026-top10-guide/) before you buy.

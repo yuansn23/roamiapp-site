@@ -3,7 +3,7 @@ title: "Japan eSIM Providers Compared: Docomo, SoftBank, KDDI"
 description: "Compare Japan eSIM providers Ubigi, Airalo, Holafly and Sakura Mobile. Find the right plan for Japan with real test data."
 keywords: ["Japan eSIM providers comparison", "compare Japan eSIM providers", "Japan travel eSIM 2026", "Ubigi Japan eSIM", "Airalo Japan eSIM", "docomo esim japan", "softbank esim japan", "japan esim providers", "airalo esim for japan", "japan wireless esim"]
 date: 2026-09-14T00:00:00Z
-lastmod: 2026-09-14T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/japan-esim-guide.jpg"
@@ -429,3 +429,9 @@ Answer these four questions in order, and the choice makes itself:
 *Last updated: September 2026. All prices are in USD ($) unless otherwise noted and sourced from official provider websites and independent reviews. Plans and promotions are subject to change. Always verify current pricing on the provider's official website before purchasing.*
 
 For independent data on how connectivity options perform in Japan, [Ookla's Speedtest Global Index for Japan](https://www.speedtest.net/global-index/japan) tracks median mobile download speeds and latency across the country. [GSMA](https://www.gsma.com/solutions-and-impact/technologies/esim/) publishes the eSIM technical specification.
+
+
+---
+
+<!-- jp-cta -->
+**Planning your Japan trip?** Compare [Japan eSIM prices and 5G coverage](/japan-esim/) before you buy.

@@ -3,7 +3,7 @@ title: "Japan Travel eSIM Complete Guide: Plans for Every Trip"
 description: "Japan travel eSIM guide for tourists. Find the best eSIM for short trips, long stays, Tokyo, Kyoto, Osaka, Hokkaido and Okinawa."
 keywords: ["esim japan travel", "esim for japan travel", "japan travel esim", "travel esim japan", "japan esim for tourist", "japan esim tourist", "japan tourist esim", "esim card for japan travel", "best japan esim for tourist", "esim travel japan", "esim to use in japan", "journey japan esim"]
 date: 2026-09-14T00:00:00Z
-lastmod: 2026-10-09T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/japan-travel-esim-guide.jpg"
@@ -388,7 +388,7 @@ A detail worth knowing before you pick between them: the same carrier network ca
 | 14 days | 10GB | $17 | Unlimited 15-day | $39.00 |
 | 30 days | 20GB | $25 | Unlimited 30-day | $65.00 |
 
-**The sweet spot for most tourists:** 5-10GB for a 7-10 day trip. The Airalo 5GB/30-day plan at $11 is the most popular choice among tourists. If you would rather start from a ranked shortlist than from a price table, our [Best Japan eSIM for 2026](/blog/best-japan-esim-guide/) comparison is the faster route.
+**The sweet spot for most tourists:** 5-10GB for a 7-10 day trip. The Airalo 5GB/30-day plan at $11 is the most popular choice among tourists. If you would rather start from a ranked shortlist than from a price table, our [Best Japan eSIM for 2026](/blog/best-esim-for-japan-2026-top10-guide/) comparison is the faster route.
 
 
 ## Part 6: Choosing a Japan eSIM by Departure Country
@@ -485,3 +485,8 @@ For more detailed setup instructions, see our [installation and activation](/blo
 
 *Sources: Japan National Tourism Organization (JNTO), GSMA, Apple, NTT Docomo, Airalo, Ubigi, and Holafly.*
 
+
+---
+
+<!-- jp-cta -->
+**Planning your Japan trip?** Compare [Japan eSIM prices and 5G coverage](/japan-esim/) and [Best Japan eSIM: top 10 compared](/blog/best-esim-for-japan-2026-top10-guide/) before you buy.

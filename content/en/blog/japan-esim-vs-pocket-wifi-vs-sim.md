@@ -3,7 +3,7 @@ title: "Japan eSIM vs Pocket WiFi vs SIM Card: Which Is Best?"
 description: "Should you get an eSIM, pocket WiFi, or physical SIM for Japan? Compare costs, coverage, and convenience with real prices."
 keywords: ["Japan eSIM vs pocket WiFi", "pocket WiFi vs eSIM Japan", "Japan eSIM vs SIM card", "best internet Japan travel", "eSIM or pocket WiFi Japan"]
 date: 2026-09-14T00:00:00Z
-lastmod: 2026-09-14T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/japan-esim-vs-pocket-wifi-vs-sim.jpg"
@@ -456,3 +456,9 @@ If your itinerary runs outside the cities, the network your eSIM uses also matte
 *Last updated: September 2026. Figures are quoted in US dollars and drawn from official provider price pages and independent testing. Plans and promotions change often, so confirm the current rate on the provider's site before you pay.*
 
 Independent network data comes from [Ookla's Speedtest Global Index for Japan](https://www.speedtest.net/global-index/japan), which tracks Japanese mobile download speeds and latency.
+
+
+---
+
+<!-- jp-cta -->
+**Planning your Japan trip?** Compare [current Japan eSIM plans and coverage](/japan-esim/) before you buy.

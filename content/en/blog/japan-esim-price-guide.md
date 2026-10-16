@@ -3,7 +3,7 @@ title: "Japan eSIM Price Guide 2026: Cost per GB and per Day"
 description: "Japan eSIM prices compared for 2026. What Airalo, Ubigi, Holafly and Nomad charge per GB and per day, the cheapest plan for each trip length, and where the hidden costs are."
 keywords: ["japan esim price", "how much does a japan esim cost", "japan esim cost per day", "cheapest japan esim", "japan esim deals", "japan esim price per gb", "japan esim cost for 10 days"]
 date: 2026-09-22T00:00:00Z
-lastmod: 2026-10-09T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/japan-esim-price-guide.jpg"
@@ -289,3 +289,9 @@ Unlimited plans are, after the early-2026 repricing. Fixed-data bundles have sta
 ## Final verdict: what a Japan eSIM really costs
 
 For the majority of travellers, the cheapest sensible answer is a **10–20GB fixed plan over 30 days for about $16–25** — enough headroom for maps, messaging, translation and light video, with no throttling. Buy unlimited only if you know you will pass 2GB a day, and skip roaming unless your employer is paying. If you want the same numbers applied to a specific itinerary length, see our [Japan eSIM data-volume guide](/blog/japan-esim-ultimate-guide/) for the data-volume side of the decision, and the [if you also need calls and SMS](/blog/japan-esim-with-phone-number/) guide if calls and SMS are also on your list.
+
+
+---
+
+<!-- jp-cta -->
+**Planning your Japan trip?** Compare [Japan eSIM prices and 5G coverage](/japan-esim/) and [Best Japan eSIM: top 10 compared](/blog/best-esim-for-japan-2026-top10-guide/) before you buy.

@@ -12,7 +12,7 @@
     <meta property="og:url" content="{{ .Permalink }}">
     <meta property="og:type" content="article">
     <meta name="twitter:card" content="summary_large_image">
-    
+
     <!-- JSON-LD Structured Data (Article + BreadcrumbList) -->
     {{- if .IsPage -}}
     <script type="application/ld+json">
@@ -83,7 +83,7 @@
     }
     </script>
     {{- end -}}
-    
+
     <link href="/css/tailwind-compiled.css" rel="stylesheet">
     <style>
         /* ============================================
@@ -651,13 +651,23 @@
             </div>
             {{ end }}
 
-            <!-- 目录（无圆点版本） -->
-            {{ if and .TableOfContents (ne .TableOfContents "<nav id=\"TableOfContents\"></nav>") }}
+            <!-- 目录：仅显示 h2（不显示 h3） -->
+            {{/* 注意：.Fragments.Headings 是「树」，不是扁平列表——正文首级标题是 h2 时，
+                 这个数组里只有一个 level=0 的虚拟根节点，直接 range 取不到真实层级，
+                 会让 $hasH2 恒为 false、整块目录消失。
+                 判断页面是否存在 h2 必须用扁平的 .Fragments.HeadingsMap。
+                 （.Fragments.ToHTML 2 2 false 本身没问题，输出就是纯 h2 列表） */}}
+            {{- $tocHTML := .Fragments.ToHTML 2 2 false -}}
+            {{- $hasH2 := false -}}
+            {{- range .Fragments.HeadingsMap -}}
+                {{- if eq .Level 2 -}}{{- $hasH2 = true -}}{{- end -}}
+            {{- end -}}
+            {{ if $hasH2 }}
             <div class="toc-container mb-8">
                 <details open>
                     <summary>{{ i18n "table_of_contents" }}</summary>
                     <div class="toc-content mt-3">
-                        {{ .TableOfContents }}
+                        {{ $tocHTML }}
                     </div>
                 </details>
             </div>

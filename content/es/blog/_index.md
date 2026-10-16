@@ -2,7 +2,7 @@
 title: "Roami Blog – Guías y consejos sobre eSIM para viajes"
 description: "Consejos y guías de Roami sobre eSIM para viajar: cobertura, precios y comparativas por destino para mantenerte conectado."
 date: 2026-09-14T00:00:00Z
-lastmod: 2026-09-14T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 hero:
   badge: "Blog eSIM"
   title: "Conocimiento eSIM para <span class=\"text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400\">viajeros globales</span>"
@@ -148,14 +148,6 @@ posts:
     readTime: "20 min"
     image: "/img/esim/japan/japan-esim-top10-guide.jpg"
     link: "/blog/best-esim-for-japan-2026-top10-guide/"
-    category: "japan"
-  - title: "Mejor eSIM para Japón: Guía de Compra y Comparativa"
-    description: "Encuentra la mejor eSIM para Japón con Roami. Compara Airalo, Holafly, Ubigi y Nomad con datos de pruebas reales. Pruébala gratis."
-    date: "2026-08-25"
-    author: "Roami Team"
-    readTime: "20 min"
-    image: "/img/esim/japan/best-japan-esim-guide.jpg"
-    link: "/blog/best-japan-esim-guide/"
     category: "japan"
   - title: "Mejores Planes eSIM de Tailandia: Guía de Compra"
     description: "Dónde comprar una eSIM de Tailandia online con Roami: compara Klook, KKday, Agoda, Trip.com, aeropuerto, 7-Eleven y tiendas."

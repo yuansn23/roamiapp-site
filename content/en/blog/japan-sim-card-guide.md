@@ -3,7 +3,7 @@ title: "Japan SIM Card Guide: Where to Buy and Best Plans"
 description: "Japan SIM card guide. Where to buy prepaid SIMs at airports, BIC Camera and convenience stores. Compare IIJmio, Mobal and Sakura."
 keywords: ["japan sim card", "sim card japan", "japan travel sim", "buy sim card japan", "japan prepaid sim", "japan data sim", "japanese sim card", "sim card for japan travel", "japan sim card price", "japan sim card cost", "best sim card for japan", "international sim card japan", "japan tourist sim", "japan unlimited sim", "japan sim card iphone", "where to buy sim card japan"]
 date: 2026-09-14T00:00:00Z
-lastmod: 2026-09-14T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/japan-sim-card-guide.jpg"
@@ -523,3 +523,8 @@ But if your phone supports eSIM, you might find it more convenient. Check our [a
 
 *Sources: provider documentation from Mobal, Sakura Mobile, b-mobile, IIJmio, and NTT Communications; Japan's Ministry of Internal Affairs and Communications identity-verification rules; and publicly available travel resources. USD conversions approximate.*
 
+
+---
+
+<!-- jp-cta -->
+**Planning your Japan trip?** Compare [Japan eSIM prices and 5G coverage](/japan-esim/) and [Best Japan eSIM: top 10 compared](/blog/best-esim-for-japan-2026-top10-guide/) before you buy.

@@ -3,7 +3,7 @@ title: "How to Buy a Japan eSIM: Channels, Prices and Timing"
 description: "Where to buy a Japan eSIM, what each channel costs, and when to buy. Compare provider sites, travel platforms, airport counters and device compatibility."
 keywords: ["japan pocket wifi vs esim", "roami japan", "japan esim softbank", "japan esim au", "japan esim docomo", "where to buy a japan esim", "when to buy japan esim", "japan esim buying guide"]
 date: 2026-09-14T00:00:00Z
-lastmod: 2026-10-09T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan-esim-guide-2026.jpg"
@@ -284,3 +284,9 @@ Many travellers underestimate their Japan data usage because they plan around th
 ---
 
 *This guide is based on public carrier coverage data for Japan, traveller field tests, and eSIM market information as of October 2026. Coverage figures are drawn from the carriers' published coverage maps and Japan's Ministry of Internal Affairs and Communications. SoftBank, au/KDDI, and NTT Docomo are trademarks of their respective owners. Promotional offers and discount codes change frequently and are not reproduced here — always check current pricing on the provider's own site.*
+
+
+---
+
+<!-- jp-cta -->
+**Planning your Japan trip?** Compare [Japan eSIM prices and 5G coverage](/japan-esim/) and [Best Japan eSIM: top 10 compared](/blog/best-esim-for-japan-2026-top10-guide/) before you buy.

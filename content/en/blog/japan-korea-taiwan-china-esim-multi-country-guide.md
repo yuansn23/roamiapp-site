@@ -3,7 +3,7 @@ title: "Japan Korea Taiwan China eSIM: Top Multi-Country Plans"
 description: "Planning an East Asia trip? Compare the best eSIM for Japan, Korea, Taiwan, China and Australia in one multi-country plan."
 keywords: ["esim japan and korea", "best esim for japan and korea", "esim taiwan and japan", "china and japan esim", "esim for australia and japan", "asia multi-country eSIM", "east asia eSIM", "esim asia", "asia esim", "esim for asia", "best esim for asia", "best esim for asia travel"]
 date: 2026-09-14T00:00:00Z
-lastmod: 2026-10-09T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/asia-multi-country-esim-guide.jpg"
@@ -430,3 +430,9 @@ For multi-country trips with very short stays in each country, the economics cha
 *Last updated: September 2026. Amounts are shown in US dollars, taken from official provider sources and independent plan comparisons. Rates and coverage change, so check the provider's own page before buying.*
 
 For official coverage data, [GSMA](https://www.gsma.com/solutions-and-impact/technologies/esim/) publishes the eSIM technical specification.
+
+
+---
+
+<!-- jp-cta -->
+**Planning your Japan trip?** Compare [current Japan eSIM plans and coverage](/japan-esim/) before you buy.

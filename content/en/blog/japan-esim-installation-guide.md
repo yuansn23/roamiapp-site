@@ -3,7 +3,7 @@ title: "How to Buy and Install a Japan eSIM: Step-by-Step"
 description: "How to buy and install a Japan eSIM. Steps for iPhone, Samsung and Pixel, where to buy, install before departure and activate."
 keywords: ["buy esim japan", "how to buy esim in japan", "where to buy esim in japan", "how to get esim in japan", "how to install esim japan", "how to use esim in japan", "esim japan setup", "japan esim installation", "how does esim work in japan", "buy esim for japan", "where to get esim for japan", "japan esim activation", "install esim before travel japan"]
 date: 2026-09-14T00:00:00Z
-lastmod: 2026-09-14T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/japan-esim-installation-guide.jpg"
@@ -635,3 +635,8 @@ Buying and installing a Japan eSIM in 2026 is simpler than ever. The entire proc
 
 *Sources: Apple Support, Samsung Support, Google Pixel documentation, GSMA eSIM specifications, and official provider guides from Airalo, Holafly, Ubigi, [Japan Wireless](https://www.japan-wireless.com/), and [Sakura Mobile](https://www.sakuramobile.jp/). Installation steps may vary slightly between device models and OS versions.*
 
+
+---
+
+<!-- jp-cta -->
+**Planning your Japan trip?** Compare [current Japan eSIM plans and coverage](/japan-esim/) and [Best Japan eSIM: top 10 compared](/blog/best-esim-for-japan-2026-top10-guide/) before you buy.

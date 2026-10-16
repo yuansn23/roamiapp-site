@@ -2,7 +2,7 @@
 title: "Roami Blog – eSIM Travel Guides & Tips"
 description: "Latest eSIM technology, travel connectivity, and destination eSIM guides."
 date: 2026-09-14T00:00:00Z
-lastmod: 2026-09-14T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 hero:
   badge: "eSIM Blog"
   title: "eSIM knowledge for <span class=\"text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400\">global travellers</span>"
@@ -164,14 +164,6 @@ posts:
     readTime: "20 min"
     image: "/img/esim/japan/japan-esim-top10-guide.jpg"
     link: "/blog/best-esim-for-japan-2026-top10-guide/"
-    category: "japan"
-  - title: "Best Japan eSIM Guide: Top 10 Rated Plans Compared"
-    description: "Find the best Japan eSIM. Compare Airalo, Holafly, Ubigi, Nomad, Saily and Sakura Mobile with real test data and reviews."
-    date: "2026-08-24"
-    author: "Roami Team"
-    readTime: "20 min"
-    image: "/img/esim/japan/best-japan-esim-guide.jpg"
-    link: "/blog/best-japan-esim-guide/"
     category: "japan"
   - title: "Best Value Thailand eSIM Plans: Where to Buy Online"
     description: "Where to buy a Thailand eSIM with Roami: compare online platforms, Klook, KKday, Agoda, Trip.com, airport, 7-Eleven, and stores."

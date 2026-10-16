@@ -3,7 +3,7 @@ title: "Japan eSIM Reviews: Reddit and Trustpilot Feedback"
 description: "Real Japan eSIM reviews from Reddit and Trustpilot. See what users say about Ubigi, Airalo, Holafly and more before you buy."
 keywords: ["japan esim reviews", "reddit japan esim", "best esim for japan reddit", "abroad in japan esim", "journey japan esim reviews", "ubigi japan review", "airalo japan review", "holafly japan review"]
 date: 2026-09-14T00:00:00Z
-lastmod: 2026-10-09T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/japan-esim-reviews-guide.jpg"
@@ -407,7 +407,7 @@ As one Reddit user summarized: *"Ubigi for rural and mountain Japan, Airalo for 
 **Further Reading:**
 
 - [Start-here Japan eSIM overview](/blog/japan-esim-ultimate-guide/) – Complete overview of how eSIM technology works and why it beats physical SIM cards.
-- [Best Japan eSIM 2026: Top 10 Rated Plans Compared by Real Data](/blog/best-japan-esim-guide/) – Our ranked top 10 of the best eSIM providers with real speed-test data.
+- [Best Japan eSIM 2026: Top 10 Rated Plans Compared by Real Data](/blog/best-esim-for-japan-2026-top10-guide/) – Our ranked top 10 of the best eSIM providers with real speed-test data.
 - [Japan connectivity options compared: eSIM, pocket WiFi and SIM](/blog/japan-esim-vs-pocket-wifi-vs-sim/) – Cost, speed and coverage side by side.
 
 ---
@@ -415,3 +415,9 @@ As one Reddit user summarized: *"Ubigi for rural and mountain Japan, Airalo for 
 *Last updated: August 2026. All reviews and ratings sourced from Reddit (r/JapanTravel, r/eSIM), Trustpilot, and detailed traveler blogs. Provider plans and policies are subject to change. Always verify current terms on the provider's official website before purchasing.*
 
 *Independent network measurements cited here come from [Ookla's Speedtest Global Index for Japan](https://www.speedtest.net/global-index/japan). Where a cap figure is quoted, the provider's own page is the source - for example Holafly's own Japan eSIM page.*
+
+
+---
+
+<!-- jp-cta -->
+**Planning your Japan trip?** Compare [Japan eSIM plans and prices](/japan-esim/) before you buy.

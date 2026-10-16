@@ -3,7 +3,7 @@ title: "Japan eSIM Kompatibilität: Unterstützte Telefone"
 description: "Japan eSIM Kompatibilität: iPhone, Samsung, Pixel oder Xiaomi? Prüfen Sie eSIM-Unterstützung in Japan plus China-Modellen."
 keywords: ["esim japan iphone", "japan esim iphone", "ist esim in japan verfügbar", "brauche ich eine esim für japan", "japan esim mit telefonnummer", "esim kompatible telefone japan", "iphone esim japan", "japan esim android", "samsung esim japan", "google pixel esim japan", "china iphone esim japan"]
 date: 2026-08-24T00:00:00Z
-lastmod: 2026-08-24T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden, mit zuverlässigen eSIM-Tarifen mit automatischem Netzbetreiberwechsel zwischen lokalen Netzen weltweit verbunden zu bleiben."
 image: "/img/esim/japan/japan-esim-compatibility-guide.jpg"
@@ -439,7 +439,7 @@ Der `*#06#`-Test ist die zuverlässigste Methode. Wenn eine EID-Nummer erscheint
 
 **Das Fazit:** Die meisten Telefone ab 2018 unterstützen eSIM – aber regionale Variationen sind wichtiger als das Modell selbst. Eine 5-minütige Überprüfung mit `*#06#` erspart Ihnen die Enttäuschung am Flughafen.
 
-Weitere Informationen zur Auswahl einer Japan-eSIM finden Sie in unserem [Best Japan eSIM Leitfaden](/blog/best-japan-esim-guide/).
+Weitere Informationen zur Auswahl einer Japan-eSIM finden Sie in unserem [Best Japan eSIM Leitfaden](/blog/best-esim-for-japan-2026-top10-guide/).
 
 ---
 
@@ -448,3 +448,7 @@ Weitere Informationen zur Auswahl einer Japan-eSIM finden Sie in unserem [Best J
 *Quellen: Apple Support, Samsung Support, Google Pixel Dokumentation, ESIMJAPAN Help Center, eSIM-Now, Polaris eSIM und Roami-interne Tests.*
 
 
+---
+
+<!-- jp-cta -->
+**Sie planen Ihre Japanreise?** Vergleichen Sie [Japan eSIM Tarife und Preise](/japan-esim/) und [Beste Japan eSIM: Top 10 im Vergleich](/blog/best-esim-for-japan-2026-top10-guide/) vor dem Kauf.

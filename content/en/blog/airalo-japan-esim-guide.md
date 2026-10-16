@@ -3,7 +3,7 @@ title: "Airalo Japan eSIM Review: Airalo vs Holafly vs Roami"
 description: "Japan has full-bar 5G, so the real question is data for Google Translate and Maps. Compare Airalo, Holafly & Roami - and why a Japan eSIM beats pocket WiFi."
 keywords: ["airalo japan esim", "Japan eSIM price guide", "holafly esim for japan", "japan esim vs pocket wifi", "cheapest eSIM for Japan travel", "japan esim google translate maps", "airalo japan esim review", "Japan eSIM promo code", "airalo vs holafly japan"]
 date: 2026-10-09T00:00:00Z
-lastmod: 2026-10-09T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/best-japan-esim-guide.jpg"
@@ -544,3 +544,9 @@ A Japan trip often pairs with a second destination. Here is what changes from co
 All pricing data was collected from each brand's official Japan pages (Airalo, Holafly, Roami) in September 2026, and speed and coverage figures cross-checked against Ookla's Speedtest Global Index and Opensignal's Japan Mobile Network Experience report (published January 2026). **Prices in this Japan eSIM price guide change frequently** — promotions, exchange rates and tier restructures all move the numbers — so treat the tables as a September 2026 snapshot and confirm live pricing before you buy.
 
 *Pricing data as of September 2026; refer to each brand's official website for real-time updates. This article is for informational purposes and does not constitute purchasing advice.*
+
+
+---
+
+<!-- jp-cta -->
+**Planning your Japan trip?** Compare [Best Japan eSIM: top 10 compared](/blog/best-esim-for-japan-2026-top10-guide/) and [Japan eSIM Ultimate Guide](/blog/japan-esim-ultimate-guide/) before you buy.
