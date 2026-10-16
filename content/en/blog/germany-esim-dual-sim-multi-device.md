@@ -1,7 +1,7 @@
 ---
 title: "German eSIM with Phone Number: Dual SIM Setup"
 description: "A German eSIM with a phone number, and what an eSIM number really is: dual SIM setups, keeping your home line active and multi-device travel in Germany."
-keywords: ["german esim with phone number", "esim for germany with phone number", "esim vs dual sim", "what is esim number", "difference between dual sim and esim", "dual physical sim + esim"]
+keywords: ["german esim with phone number", "esim for germany with phone number", "esim vs dual sim", "what is esim number", "difference between dual sim and esim", "dual physical sim + esim", "esim germany with phone number", "esim germany with number", "does dual sim iphone support esim", "is esim dual sim", "esim international number"]
 date: 2026-10-09T00:00:00Z
 lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"

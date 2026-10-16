@@ -1,7 +1,7 @@
 ---
 title: "Cheapest eSIM for Germany: What You Actually Pay"
 description: "Cheapest eSIM for Germany, priced honestly: 1GB to 50GB plan ranges, per-GB costs, promo codes and the traps that make a cheap Germany eSIM cost more."
-keywords: ["cheapest esim for germany", "esim cheap germany", "cheap esim for europe", "cheap sim germany", "best prepaid sim card for germany"]
+keywords: ["cheapest esim for germany", "esim cheap germany", "cheap esim for europe", "cheap sim germany", "best prepaid sim card for germany", "cheapest esim germany prepaid"]
 date: 2026-10-09T00:00:00Z
 lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"

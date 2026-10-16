@@ -1,7 +1,7 @@
 ---
 title: "Germany Prepaid SIM Card: Telekom, Vodafone, O2, Aldi Talk"
 description: "A prepaid SIM card in Germany compared: Telekom, Vodafone, O2 and Aldi Talk tariffs, activation and ID rules, plus when a pay-monthly Germany eSIM wins."
-keywords: ["prepaid sim card germany", "online sim card germany", "pay monthly esim germany", "germany sim card for tourists", "sim card in germany for tourist", "prepaid sim cards in germany", "sim card for germany", "lebara esim germany", "lyca esim germany", "lycamobile esim germany", "sim card registration online"]
+keywords: ["prepaid sim card germany", "online sim card germany", "pay monthly esim germany", "germany sim card for tourists", "sim card in germany for tourist", "prepaid sim cards in germany", "sim card for germany", "lebara esim germany", "lyca esim germany", "lycamobile esim germany", "sim card registration online", "can i buy a sim card in germany", "where to buy a sim card in germany", "germany prepaid sim card for tourist", "germany prepaid sim card price", "germany prepaid sim card vodafone", "german prepaid sim card", "how much is sim card in germany"]
 date: 2026-10-09T00:00:00Z
 lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
