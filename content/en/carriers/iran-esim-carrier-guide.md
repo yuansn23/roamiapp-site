@@ -3,6 +3,7 @@ title: "Prepaid Iran eSIM | MCI, Irancell & Rightel Coverage"
 description: "Buy an Iran eSIM from Roami. Enjoy prepaid mobile data on MCI, Irancell & Rightel networks, with reliable coverage for travelers and workers."
 image: "img/esim/carriers/iran-esim-carrier-guide.webp"
 date: "2026-09-23"
+lastmod: 2026-10-16T00:00:00Z
 keywords: Iran eSIM carriers, Iran eSIM, MCI eSIM, Irancell eSIM, Iran travel eSIM, MCI, Hamrahe Aval, Rightel, Iran 5G, eSIM for Iran, Iran prepaid eSIM, Iran tourist eSIM
 site_name: Roami
 brand_name: Roami
@@ -388,7 +389,7 @@ Everything quoted on this page is a third-party measurement or an officially pub
 
 ## Plan ahead and land in Iran connected
 
-Iran rewards over-planners: cash exchanged in advance, a locally issued tourist line arranged for IKA, offline maps loaded before the long intercity legs. When you want a data profile that arrives with you, [buy an Iran eSIM plan](/iran-esim/) and install it at home.
+Iran rewards over-planners: cash exchanged in advance, a locally issued tourist line arranged for IKA, offline maps loaded before the long intercity legs. When you want a data profile that arrives with you, [buy an Iran eSIM plan](/carriers/iran-esim-carrier-guide/) and install it at home.
 
 If you are new to how a data-only profile behaves, the mechanics are identical everywhere — [the eSIM activation explainer](/faq/what-is-esim-activation-and-how-does-it-work/) explains what happens when you scan the code. *First-time Roami customers can start with a free trial eSIM* — [claim one](/free-esim/) with no commitment — and the [Middle East eSIM plans](/middle-east-esim/) page lists the regional bundles whose coverage includes Iran.
 

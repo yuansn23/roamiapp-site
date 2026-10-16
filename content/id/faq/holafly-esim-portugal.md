@@ -4,7 +4,7 @@ h1_title: "Holafly eSIM Portugal 2026: Vale a Pena? Preços, Cobertura e Compara
 description: "Guia completo do Holafly eSIM para Portugal em 2026. Dados ilimitados sem throttling, preços a partir de $3.90/dia, cobertura MEO/NOS/Vodafone 5G. Compare com Airalo e Ubigi."
 keywords: ["holafly esim", "holafly esim portugal", "holafly portugal", "holafly eSIM preço", "holafly dados ilimitados", "holafly vs airalo", "holafly cobertura portugal", "holafly como ativar", "esim ilimitado portugal", "holafly 5g portugal", "melhor esim portugal holafly", "holafly hotspot", "holafly avaliação", "holafly vale a pena", "esim portugal holafly", "holafly lisboa", "holafly porto", "holafly algarve"]
 date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 tags: ["Holafly", "eSIM", "Portugal", "Dados Ilimitados", "5G", "Comparação", "Airalo", "Ubigi", "Viagem"]
 toc: true
 
@@ -24,7 +24,7 @@ breadcrumbs:
     url: "/"
   parent:
     text: "eSIM por Provedor"
-    url: "/provedores/"
+    url: "/carriers/"
 
 sidebar_popular:
   title: "eSIMs Populares"
@@ -38,7 +38,7 @@ sidebar_popular:
     - name: "Holafly eSIM"
       flag: "/img/flags/es.svg"
       price: "$3.90"
-      url: "/holafly-esim-portugal/"
+      url: "/id/faq/holafly-esim-portugal/"
       badge: "Ilimitado"
     - name: "Espanha eSIM"
       flag: "/img/flags/es.svg"
@@ -74,7 +74,7 @@ sidebar_questions:
     - question: "Meu telefone é compatível com eSIM?"
       url: "/compatibility/"
     - question: "Holafly eSIM vale a pena?"
-      url: "/holafly-esim-portugal/"
+      url: "/id/faq/holafly-esim-portugal/"
 ---
 
 

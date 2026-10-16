@@ -6,6 +6,7 @@ description: "Experience Bulgaria with Roami eSIM. Get prepaid mobile data on A1
 image: "img/esim/carriers/bulgaria-esim-carrier-guide.webp"
 
 date: "2026-09-26"
+lastmod: 2026-10-16T00:00:00Z
 
 keywords: Bulgaria eSIM, hotspot tethering, A1 Bulgaria, Yettel, Vivacom, travel eSIM, no roaming fees, Sofia connectivity, Alexander Nevsky Cathedral, seamless data
 
@@ -177,7 +178,7 @@ Two details are worth spelling out. Since 1 July 2021 the six Western Balkan eco
 
 - [Serbia eSIM plans](/serbia-esim/)
 
-- [North Macedonia eSIM](/north-macedonia-esim/)
+- [North Macedonia eSIM](/carriers/north-macedonia-esim-carrier-guide/)
 
 - [Türkiye eSIM plans](/turkey-esim/)
 

@@ -46,7 +46,7 @@ sidebar:
   search_placeholder: "Rechercher un pays (ex. Japon, États-Unis)…"
   no_results_text: "Aucun pays trouvé."
   no_results_link_text: "Voir les forfaits eSIM mondiaux &rarr;"
-  no_results_link_url: "/esim/global"
+  no_results_link_url: "/plans"
   regions:
     - name: "Tous les pays"
       links:
@@ -244,7 +244,7 @@ countries:
     flag: "/img/flags/co.svg"
     desc: "Trouvez une eSIM abordable pour la Colombie avec données illimitées. Comparez les tarifs prépayés intéressants pour Bogotá et Cartagena."
     btn_details_text: "Détails sur les opérateurs eSIM Colombie"
-    btn_details_url: "/carriers/colombia-esim-car-guide/"
+    btn_details_url: "/carriers/colombia-esim-carrier-guide/"
     btn_buy_text: "Acheter l'eSIM Colombie"
     btn_buy_url: "/colombia-esim/"
     Carriers:
@@ -1062,7 +1062,7 @@ countries:
     btn_details_text: "Détails sur les opérateurs eSIM Venezuela"
     btn_details_url: "/carriers/venezuela-esim-carrier-guide/"
     btn_buy_text: "Acheter l'eSIM Venezuela"
-    btn_buy_url: "/venezuela-esim/"
+    btn_buy_url: "/carriers/venezuela-esim-carrier-guide/"
     Carriers:
       - name: "Digitel"
         color: "text-blue-600"

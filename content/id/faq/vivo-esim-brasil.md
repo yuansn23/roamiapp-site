@@ -4,7 +4,7 @@ h1_title: "Vivo eSIM Brasil 2026: Guia Completo de Planos, Ativação e Disposit
 description: "Guia completo do Vivo eSIM no Brasil 2026. Preços atualizados, como comprar e ativar eSIM da Vivo, planos Vivo Easy, pré-pago e pós-pago, dispositivos compatíveis e mais."
 keywords: ["esim vivo", "vivo esim", "esim da vivo", "comprar esim vivo", "ativar esim vivo", "como ativar esim vivo", "chip esim vivo", "vivo easy esim", "esim vivo pré pago", "esim vivo comprar", "solicitar esim vivo", "qr code vivo esim", "ativar esim vivo whatsapp", "vivo esim preço", "vivo brasil esim", "esim vivo 2026"]
 date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 tags: ["Vivo", "eSIM", "Brasil", "Ativação", "Planos", "Vivo Easy", "Pré-pago", "Pós-pago", "Roaming", "5G"]
 toc: true
 
@@ -33,7 +33,7 @@ sidebar_popular:
     - name: "Brasil eSIM"
       flag: "/img/flags/br.svg"
       price: "$1.99"
-      url: "/brasil-esim/"
+      url: "/id/brazil-esim/"
       badge: "5G"
     - name: "América do Sul eSIM"
       flag: "/img/flags/sa.svg"
@@ -43,7 +43,7 @@ sidebar_popular:
     - name: "EUA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
-      url: "/us-esim/"
+      url: "/id/united-states-esim/"
       badge: "5G"
     - name: "Europa eSIM"
       flag: "/img/flags/eu.svg"
@@ -74,7 +74,7 @@ sidebar_questions:
     - question: "Meu celular é compatível com eSIM?"
       url: "/compatibility/"
     - question: "Vivo tem eSIM no Brasil?"
-      url: "/vivo-esim/"
+      url: "/id/faq/vivo-esim-brasil/"
 ---
 
 **Última atualização:** 11 de agosto de 2026 | Tempo de leitura: 14 minutos

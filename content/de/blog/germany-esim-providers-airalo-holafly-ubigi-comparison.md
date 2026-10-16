@@ -3,7 +3,7 @@ title: "Deutschland eSIM Anbieter: Airalo, Holafly & Ubigi"
 description: "Airalo, Holafly, Ubigi und Saily für Deutschland im Vergleich: Abdeckung, Preise, Datenlimits und Tethering für Ihre Reise."
 keywords: ["Deutschland eSIM Anbieter", "Airalo Deutschland eSIM", "Holafly Deutschland eSIM", "Ubigi Deutschland eSIM", "Saily Deutschland eSIM"]
 date: 2026-08-24T00:00:00Z
-lastmod: 2026-08-24T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden, mit zuverlässigen eSIM-Tarifen, die automatischen Netzanbieterwechsel zwischen lokalen Netzen bieten, weltweit verbunden zu bleiben."
 image: "/img/esim/germany/germany-esim-providers-airalo-holafly-ubigi-comparison.jpg"
@@ -350,6 +350,110 @@ Orange Holiday Europe ist keine Deutschland-spezifische eSIM, sondern ein region
 
 Wenn Sie diese Option in Betracht ziehen, sollten Sie auch den [Deutschland-eSIM-Leitfaden für Mehrländer-Europareisen](/blog/germany-esim-multi-country-europe-rail/) lesen, um einen breiteren Vergleich von Regionaltarifen versus gestapelten länderbegrenzten eSIMs für bahnbasierte Reiserouten zu erhalten.
 
+## Deutschlands drei eSIM-Marken im Vergleich
+
+> ⚠️ **Die wichtigste Deutschland-Erinnerung**: Alle drei Marken bieten **reine Daten-eSIMs ohne deutsche Telefonnummer** an. Uber und Essenslieferdienste in Deutschland laufen meist über In-App-Messaging, also ist eine lokale Nummer nicht zwingend; brauchen Sie eine deutsche Nummer (z. B. für Rückrufe der Autovermietung oder manche App-Verifizierungen), kombinieren Sie sie mit einer VoIP-Lösung. Was Sie wirklich interessiert, ist die **Abdeckung** – wer Sie in einem Funkloch online hält.
+
+### Die Marken im Porträt
+
+| Marke | Trustpilot-Bewertung | Kernpositionierung | Netzzugang | 5G | Hotspot | Band 20 |
+|-------|-------------------|------------------|----------------|-----|---------|---------|
+| **Airalo** | 3,9 | Größte globale Plattform, feinste Stufen | Telekom / Vodafone | Teilweise | Unterstützt | Unterstützt |
+| **Holafly** | 4,6 | Reines Unlimited-Daten | Vodafone / O2 | Unterstützt | 1 GB/Tag-Limit | Unterstützt |
+| **Roami** | 4,9 | Mehrnetz-Auto-Wechsel, bester Wert | Telekom / Vodafone / O2 | Volle Geschwindigkeit | Unbegrenzt | Unterstützt |
+
+> **Kernunterschiede auf einen Blick**
+>
+> - **Airalo Deutschland-eSIM**: Größte globale Plattform, feinste Festdaten-Stufen plus Unlimited-Optionen, verbindet sich mit Telekom / Vodafone. Transparente Preise, Hotspot-Support, Band-20-Support, **keine deutsche Telefonnummer**. Geeignet für Nutzer, die „Unlimited" mit moderatem Budget wollen – aber beachten Sie, dass ihr Trustpilot-Wert von 3,9 unter dem Branchenniveau liegt (siehe unseren [vollständigen Airalo-eSIM-Test](/blog/airalo-esim-review-prices-coverage/)).
+> - **Holafly Deutschland-eSIM**: Die einzige reine-Unlimited-Marke, zum Preis von 3,97 $/Tag, verbindet sich mit Vodafone / O2 5G. Kein GB-Limit, aber **Hotspot auf 1 GB/Tag begrenzt**, hohe Langzeitkosten, **keine deutsche Telefonnummer**. Geeignet für Heavy-Nutzer, denen der Preis egal ist.
+> - **Roami Deutschland-eSIM**: Mehrnetz-Auto-Wechsel (Telekom / Vodafone / O2), 5G mit voller Geschwindigkeit, unbegrenzter Hotspot und Band 20, niedrigste Preise durchgängig, **keine deutsche Telefonnummer**. **Beachten Sie ein Deutschland-Detail: In der 3-Tage-Stufe kosten 10 GB und „Unlimited" denselben Preis (9,99 $)** – für eine 3-Tage-Reise wählen Sie einfach Unlimited. Mit dem Rabattcode **WEB20** gibt es 20 % Rabatt. [Roami Deutschland-eSIM-Tarife ansehen](/germany-esim/)
+
+### Airalo Deutschland-eSIM – vollständige Preisliste
+
+**Unlimited-Daten-Tarife**
+
+| Tage | Preis | Tageskosten |
+|------|-------|------------|
+| 3 Tage | 11,00 $ | 3,67 $/Tag |
+| 5 Tage | 18,00 $ | 3,60 $/Tag |
+| 7 Tage | 24,00 $ | 3,43 $/Tag |
+| 10 Tage | 30,00 $ | 3,00 $/Tag |
+| 15 Tage | 42,00 $ | 2,80 $/Tag |
+| 30 Tage | 59,00 $ | 1,97 $/Tag |
+
+**Festdaten-Tarife**
+
+| Tage | Datenstufe | Preis |
+|------|-----------|-------|
+| 3 Tage | 1 GB / 3 GB | 4,00 $ / 7,50 $ |
+| 7 Tage | 3 GB / 5 GB / 10 GB | 8,00 $ / 10,50 $ / 15,00 $ |
+| 15 Tage | 5 GB / 10 GB / 20 GB | 11,00 $ / 15,50 $ / 22,50 $ |
+| 30 Tage | 5 GB / 10 GB / 20 GB / 50 GB | 11,50 $ / 16,00 $ / 23,00 $ / 36,00 $ |
+
+> ⚠️ **Airalo Deutschland – Risikohinweis**: Die Festdaten-Stufen sind relativ teuer (7 Tage 10 GB bei 1,50 $/GB), etwa doppelt so teuer wie Roami für dieselbe Stufe; Unlimited 7 Tage für 24 $ hat für Kurzzeit-Touristen durchschnittlichen Wert.
+
+### Holafly Deutschland-eSIM – vollständige Preisliste
+
+Holafly Deutschland bietet **nur Unlimited-Daten**, nach Dauer preisgestaffelt:
+
+| Tage | Preis | Tageskosten |
+|------|-------|------------|
+| 3 Tage | 11,90 $ | 3,97 $/Tag |
+| 7 Tage | 27,50 $ | 3,93 $/Tag |
+| 10 Tage | 36,50 $ | 3,65 $/Tag |
+| 30 Tage | 73,90 $ | 2,46 $/Tag |
+
+> Der Tagespreis sinkt bei längeren Tarifen – die beworbenen 3,97 $/Tag gelten für kurze Aufenthalte, während die 30-Tage-Stufe auf 2,46 $/Tag herauskommt.
+
+> ⚠️ **Holafly Deutschland – Risikohinweis**: Keine Festdaten-Stufen; 3 Tage kosten 11,90 $, 49 % mehr als Roamis 3-Tage-10-GB (7,99 $); **Hotspot auf 1 GB/Tag begrenzt** – einschränkend beim Teilen oder für Tablets; die Tagespreis-Staffelung macht die Langzeitkosten am höchsten.
+
+### Roami Deutschland-eSIM – vollständige Preisliste
+
+Roami Deutschland bietet Festdaten- und Unlimited-Tarife. Rabattierter Preis = Listenpreis × 0,8 (Code WEB20):
+
+| Tage | Datenstufe | Listenpreis | Rabattiert | Tageskosten |
+|------|-----------|------------|------------|------------|
+| 3 Tage | 1 GB / 3 GB / 5 GB / 10 GB / Unlimited | 1,99 $ / 3,99 $ / 5,99 $ / 9,99 $ / 9,99 $ | **1,59 $ / 3,19 $ / 4,79 $ / 7,99 $ / 7,99 $** | 0,53–2,66 $/Tag |
+| 7 Tage | 1 GB / 3 GB / 5 GB / 10 GB / 20 GB / Unlimited | 2,99 $ / 4,99 $ / 6,99 $ / 9,99 $ / 17,99 $ / 21,99 $ | **2,39 $ / 3,99 $ / 5,59 $ / 7,99 $ / 14,39 $ / 17,59 $** | 0,34–2,51 $/Tag |
+| 15 Tage | 3 GB / 5 GB / 10 GB / 20 GB / 30 GB / Unlimited | 5,99 $ / 7,99 $ / 12,99 $ / 18,99 $ / 28,99 $ / 42,99 $ | **4,79 $ / 6,39 $ / 10,39 $ / 15,19 $ / 23,19 $ / 34,39 $** | 0,32–2,29 $/Tag |
+| 30 Tage | 3 GB / 5 GB / 10 GB / 20 GB / 30 GB / 50 GB / 100 GB / Unlimited | 6,99 $ / 8,99 $ / 13,99 $ / 19,99 $ / 30,99 $ / 39,99 $ / 54,99 $ / 70,99 $ | **5,59 $ / 7,19 $ / 11,19 $ / 15,99 $ / 24,79 $ / 31,99 $ / 43,99 $ / 56,79 $** | 0,19–1,89 $/Tag |
+
+> ⚠️ **Roami Deutschland – Risikohinweis**: In der 3-Tage-Stufe kosten 10 GB und Unlimited denselben Preis – wählen Sie Unlimited für den besseren Wert; 30-Tage-Unlimited (56,79 $) ist teuer, daher sollten Heavy-Nutzer stattdessen die 100-GB-Stufe (43,99 $) wählen. Abgesehen davon haben die Festdaten-Stufen die niedrigsten Preise pro GB.
+
+### Die echten Kosten pro GB
+
+**Der Preis pro GB sinkt dramatisch, je größer die Stufe.** Am Beispiel von Roamis 30-Tage-Tarifen:
+
+| Datenstufe | Rabattierter Preis | Preis pro GB |
+|-----------|------------------|--------------|
+| 5 GB | 7,19 $ | 1,44 $/GB |
+| 10 GB | 11,19 $ | 1,12 $/GB |
+| 20 GB | 15,99 $ | 0,80 $/GB |
+| 50 GB | 31,99 $ | 0,64 $/GB |
+| 100 GB | 43,99 $ | **0,44 $/GB** |
+
+Der Preis pro GB von 100 GB liegt unter einem Drittel von 5 GB. **Fazit: Wenn Sie Ihren Verbrauch abschätzen können, spart eine größere Stufe am meisten Geld; Deutschlands einzigartige 100-GB-Stufe hat den niedrigsten Preis pro GB.**
+
+**In Deutschland bedeutet „Unlimited" oft, für psychologische Sicherheit extra zu zahlen.** Vergleichen Sie Roamis Feststufen:
+
+| Tarif | Preis | Lohnt sich? |
+|------|-------|-----------|
+| Roami 7 Tage 20 GB rabattiert | 14,39 $ | Bester Wert bei Tagesverbrauch ≤ 2,86 GB |
+| Roami 7 Tage Unlimited rabattiert | 17,59 $ | Nur lohnend bei Tagesverbrauch > 2,86 GB |
+| Roami 30 Tage 100 GB rabattiert | 43,99 $ | Bester Wert bei Tagesverbrauch ≤ 3,33 GB |
+| Roami 30 Tage Unlimited rabattiert | 56,79 $ | Nur lohnend bei Tagesverbrauch > 3,33 GB |
+
+**Die Gewinnschwelle für „Unlimited" liegt bei 2,86 GB/Tag (7 Tage) bzw. 3,33 GB/Tag (30 Tage).** Nur wenn Sie täglich nahezu 3 GB Kurzvideos verbrauchen, lohnt sich Unlimited. Die meisten Reisen in Deutschland bestehen aus Sightseeing, Zugfahrten und Schlossfotos – der Tagesverbrauch überschreitet selten 1 GB – **feste 10–20 GB reichen locker; zahlen Sie nicht doppelt für das Wort „Unlimited".** Die einzige Ausnahme ist die 3-Tage-Stufe: **10 GB und Unlimited kosten denselben Preis – nehmen Sie einfach Unlimited.**
+
+**Was können Sie mit dem gesparten Geld anfangen?** Stellen Sie Roamis Rabattpreise den Wettbewerbern gegenüber und übersetzen Sie die Ersparnis in deutsche Reiseausgaben:
+
+| Reiseplan | Roami Rab. vs Wettbewerb | Ersparnis | Entspricht |
+|-----------|-----------------------|------|---------------|
+| 7 Tage 10 GB | 7,99 $ vs Airalo 15,00 $ | 7,01 $ | Eine Currywurst + ein deutsches Bier |
+| 7 Tage Unlimited | 17,59 $ vs Holafly 27,50 $ | 9,91 $ | Eine Berlin-AB-Tageskarte |
+| 15 Tage 20 GB | 15,19 $ vs Airalo 22,50 $ | 7,31 $ | Die Hälfte eines Neuschwanstein-Tickets |
+| 30 Tage Unlimited | 56,79 $ vs Holafly 73,90 $ | 17,11 $ | Ein ordentliches Abendessen in München |
+
 ## Direkter Vergleich: Wie die Anbieter nebeneinander abschneiden
 
 Nachdem die einzelnen Anbieterprofile behandelt wurden, besteht der nächste Schritt darin zu untersuchen, wie diese Anbieter in direkten Vergleichen, die für Reisende am wichtigsten sind, gegeneinander abschneiden. Das paarweise Format hilft, die Kompromisse zu verdeutlichen, die eine einfache Funktionstabelle nicht vollständig vermitteln kann.
@@ -551,4 +655,13 @@ Was auch immer Ihre Reisepläne sind, der Schlüssel liegt darin, den [Deutschla
 
 Preise aller Tarife finden Sie im [Deutschland-eSIM-Preisleitfaden](/blog/germany-esim-price-guide-cheapest-plans/).
 
-Zur Abdeckung in deutschen Regionen siehe den [Deutschland-Abdeckungsleitfaden](/blog/germany-esim-coverage-cities-trains-alps/).
+Zur Abdeckung in deutschen Regionen siehe den [Deutschland-Abdeckungsleitfaden](/blog/germany-esim-coverage-cities-trains-alps/).## Unsere Datenquellen
+
+| Organisation | Zweck | Link |
+|--------------|---------|------|
+| BNetzA (Bundesnetzagentur) | Deutsche Telekom-Regulierung / Identitätsprüfungsrichtlinie | [bundesnetzagentur.de](https://www.bundesnetzagentur.de/DE/Vportal/TK/start.html) |
+| Ookla Speedtest | Deutsche Mobilfunkgeschwindigkeiten | [Speedtest Global Index – Deutschland](https://www.speedtest.net/global-index/germany) |
+| GSMA | eSIM-Branchenstandards | [GSMA eSIM-Spezifikation](https://www.gsma.com/solutions-and-impact/technologies/esim/) |
+| Apple | eSIM-Geräteunterstützung | [Apple eSIM-Support](https://support.apple.com/en-us/109317) |
+
+*Preisdaten Stand September 2026, basierend auf den offiziellen Marken-Websites.

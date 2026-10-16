@@ -4,7 +4,7 @@ h1_title: "Vodafone eSIM em Portugal 2026: Guia Completo de Preços, Ativação 
 description: "Guia completo do Vodafone eSIM em Portugal 2026. Preços atualizados, como ativar, dispositivos compatíveis e comparação com MEO, NOS, Digi, Airalo e Holafly."
 keywords: ["esim vodafone", "vodafone esim", "vodafone esim portugal", "ativar esim vodafone", "vodafone esim preço", "esim vodafone como ativar", "vodafone esim android", "vodafone esim iphone", "vodafone portugal esim", "yorn esim", "vodafone esim viagem", "esim portugal vodafone", "vodafone esim configuração", "vodafone esim plano", "vodafone esim 2026", "meo esim", "nos esim", "digi esim", "comparação esim portugal", "holafly esim", "airalo esim"]
 date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 tags: ["Vodafone", "eSIM", "Portugal", "Ativação", "Planos", "Roaming", "Comparação", "MEO", "NOS", "Digi", "Airalo", "Holafly"]
 toc: true
 
@@ -74,7 +74,7 @@ sidebar_questions:
     - question: "Meu telefone é compatível com eSIM?"
       url: "/compatibility/"
     - question: "Vodafone tem eSIM em Portugal?"
-      url: "/vodafone-esim/"
+      url: "/id/faq/vodafone-esim-portugal/"
 ---
 
 

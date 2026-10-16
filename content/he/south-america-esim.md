@@ -2,7 +2,7 @@
 title: דרום אמריקה eSIM | 11 מדינות, 5G החל מ-$1.99
 description: "Roami דרום אמריקה eSIM: 5G בתשלום מראש בברזיל, ארגנטינה, צ'ילה, קולומביה, פרו ועוד 6 מדינות. הפעלה מיידית, ללא דמי נדידה. החל מ-$1.99."
 date: '2026-09-14T00:00:00+00:00'
-lastmod: '2026-09-14T00:00:00+00:00'
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 breadcrumbs:
 - name: בית
@@ -203,7 +203,7 @@ countries:
     flag_image: /img/flags/py.svg
     network: 4G
   - name: ונצואלה
-    url: /venezuela-esim/
+    url: /carriers/venezuela-esim-carrier-guide/
     flag: 🇻🇪
     carriers: Movistar, Digitel
     is_popular: false

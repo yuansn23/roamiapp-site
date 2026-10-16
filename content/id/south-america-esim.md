@@ -2,7 +2,7 @@
 title: eSIM Amerika Selatan | 11 Negara, 5G mulai $1,99
 description: "Roami eSIM Amerika Selatan: Prabayar 5G di Brasil, Argentina, Chili, Kolombia, Peru & 6 negara lainnya. Aktivasi instan, tanpa biaya roaming. Mulai $1,99."
 date: '2026-08-24T00:00:00+00:00'
-lastmod: '2026-08-25'
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 breadcrumbs:
 - name: Beranda
@@ -205,7 +205,7 @@ countries:
     flag_image: /img/flags/py.svg
     network: 4G
   - name: Venezuela
-    url: /venezuela-esim/
+    url: /carriers/venezuela-esim-carrier-guide/
     flag: 🇻🇪
     carriers: Movistar, Digitel
     is_popular: false

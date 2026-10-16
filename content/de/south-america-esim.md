@@ -2,7 +2,7 @@
 title: Südamerika eSIM | 11 Länder, 5G ab 1,99 $
 description: Entdecken Sie Südamerika mit einer einzigen prepaid Roami eSIM – der besten eSIM für Reisen in Südamerika. 5G in Brasilien, Argentinien, Chile, Kolumbien, Peru und 6 weiteren Ländern. Sofortige Aktivierung in lokalen Netzen. Tarife ab 1,99 $.
 date: '2026-06-26'
-lastmod: '2026-06-26'
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 breadcrumbs:
 - name: Startseite
@@ -203,7 +203,7 @@ countries:
     flag_image: /img/flags/py.svg
     network: 4G
   - name: Venezuela
-    url: /venezuela-esim/
+    url: /carriers/venezuela-esim-carrier-guide/
     flag: 🇻🇪
     carriers: Movistar, Digitel
     is_popular: false

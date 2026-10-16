@@ -2,7 +2,7 @@
 title: "台灣 eSIM 攻略｜四大電信申請、費用、設定（2026）"
 description: "中華電信、遠傳、台灣大哥大、台灣之星的 eSIM 申請方式、月租與預付卡費用、Apple Watch 一號多機方案完整比較。附 iPhone／Android 設定步驟與常見問題解答"
 date: 2026-06-09T10:00:00Z
-lastmod: 2026-06-09T10:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami 團隊"
 authorBio: "Roami 專注 eSIM 技術，提供全球上網方案。至今已協助超過 50 萬名台灣旅客輕鬆出國連線。我們為您打造最實用的 eSIM 設定指南與在地化實測"
 image: "/img/esim/taiwan-esim-guide.jpg"
@@ -227,11 +227,11 @@ recentPosts:
 
 ## 相關文章
 
-- [預付卡也能用 eSIM？台灣預付卡 eSIM 完全指南](/blog/prepaid-esim-taiwan-guide)
-- [Apple Watch 一號多機 eSIM 方案比較](/blog/apple-watch-esim-taiwan)
-- [eSIM 設定失敗？8 個常見問題與修復方法](/blog/chunghwa-esim-troubleshooting)
-- [2026 台灣 eSIM 市場現況與未來趨勢](/blog/taiwan-esim-market-2026)
-- [iPad eSIM 完全設定指南](/blog/ipad-esim-guide/)
+- [預付卡也能用 eSIM？台灣預付卡 eSIM 完全指南](/blog/)
+- [Apple Watch 一號多機 eSIM 方案比較](/blog/)
+- [eSIM 設定失敗？8 個常見問題與修復方法](/blog/uk-esim-troubleshooting/)
+- [2026 台灣 eSIM 市場現況與未來趨勢](/blog/)
+- [iPad eSIM 完全設定指南](/blog/)
 
 ---
 

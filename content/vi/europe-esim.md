@@ -2,7 +2,7 @@
 title: "eSIM Châu Âu | Gói trả trước tốt nhất cho 40+ Quốc gia"
 description: "Du lịch khắp Châu Âu với một eSIM du lịch trả trước từ Roami. Dữ liệu 5G không giới hạn tại 40+ quốc gia. Không cần đổi SIM, không phí chuyển vùng. Mua gói trực tuyến."
 date: '2026-09-06T00:00:00+00:00'
-lastmod: 2026-09-06
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 
 breadcrumbs:
@@ -281,7 +281,7 @@ countries:
     flag_image: /img/flags/ad.svg
     network: 4G
   - name: Monaco
-    url: /monaco-esim/
+    url: /europe-esim/
     flag: 🇲🇨
     carriers: Monaco Telecom
     is_popular: false

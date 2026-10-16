@@ -376,7 +376,7 @@ En Japón, lo que más necesitas no es "más señal" sino "alimentar dos apps":
 - **Google Translate**: apunta la cámara a menús, carteles, instrucciones—traducción en tiempo real—un salvavidas para pedir y orientarte, pero consume muchos datos.
 - **Google Maps**: Tokio y Osaka tienen transbordos enrevesados; la navegación en tiempo real + las consultas de horarios funcionando todo el día consumen datos de forma continua.
 
-Así que la lógica para elegir una eSIM de Japón es completamente opuesta a la de Alemania (donde la señal es la preocupación—mira nuestra [guía de eSIM Alemania de Airalo](/blog/airalo-germany-esim-guide/) para sus zonas muertas en los trenes ICE): **aquí la competencia es "precio por GB", no "qué operador tiene mejor señal".**
+Así que la lógica para elegir una eSIM de Japón es completamente opuesta a la de Alemania (donde la señal es la preocupación—mira nuestra [guía de eSIM Alemania de Airalo](/blog/germany-esim-providers-airalo-holafly-ubigi-comparison/) para sus zonas muertas en los trenes ICE): **aquí la competencia es "precio por GB", no "qué operador tiene mejor señal".**
 
 ## eSIM Japón vs SIM local vs Roaming
 

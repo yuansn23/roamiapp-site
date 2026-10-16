@@ -2,6 +2,7 @@
 title: "全球 eSIM 電信業者指南：50+ 國家的網路覆蓋與速度比較"
 description: "出國旅遊不知道 eSIM 該辦哪一家？Roami 彙整超過 50 個國家的電信業者指南，深入分析各國 4G 與 5G 的覆蓋率、實測網速與資費價格，從日本、泰國到歐洲一張區域方案搞定，幫你為每個目的地選對最適合的 eSIM，幫你省下摸索時間。"
 date: "2026-09-27T08:13:00+00:00"
+lastmod: 2026-10-16T00:00:00Z
 # Hero Section & Breadcrumbs
 hero:
   breadcrumb_home: "首頁"
@@ -46,7 +47,7 @@ sidebar:
   search_placeholder: "搜尋國家（例如：日本、美國）..."
   no_results_text: "找不到符合的國家"
   no_results_link_text: "查看全球 eSIM 方案 &rarr;"
-  no_results_link_url: "/esim/global"
+  no_results_link_url: "/plans"
   regions:
     - name: "所有國家"
       links:
@@ -1113,7 +1114,7 @@ countries:
     btn_details_text: "委內瑞拉 eSIM 業者詳情"
     btn_details_url: "/carriers/venezuela-esim-carrier-guide/"
     btn_buy_text: "購買委內瑞拉 eSIM"
-    btn_buy_url: "/venezuela-esim/"
+    btn_buy_url: "/carriers/venezuela-esim-carrier-guide/"
     Carriers:
       - name: "Digitel"
         color: "text-blue-600"

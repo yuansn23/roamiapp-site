@@ -2,7 +2,7 @@
 title: أمريكا الجنوبية eSIM | 11 دولة، 5G من 1.99 دولار
 description: "Roami أمريكا الجنوبية eSIM: 5G مسبقة الدفع في البرازيل والأرجنتين وتشيلي وكولومبيا و6 دول أخرى. تفعيل فوري. من 1.99 دولار."
 date: '2026-09-03'
-lastmod: '2026-06-11'
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 breadcrumbs:
 - name: الرئيسية
@@ -209,7 +209,7 @@ countries:
     flag_image: /img/flags/py.svg
     network: 4G
   - name: فنزويلا
-    url: /venezuela-esim/
+    url: /carriers/venezuela-esim-carrier-guide/
     flag: 🇻🇪
     carriers: موفيستار، ديجيتل
     is_popular: false

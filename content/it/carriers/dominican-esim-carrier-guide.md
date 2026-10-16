@@ -3,6 +3,7 @@ title: "Operatori eSIM Repubblica Dominicana: Claro o Altice"
 description: "Punta Cana o Santo Domingo? Roami confronta Claro, Altice e Viva su 5G e copertura per la tua eSIM Repubblica Dominicana."
 image: "img/esim/carriers/dominican-esim-carrier-guide.webp"
 date: "2026-09-26T16:13:34+00:00"
+lastmod: 2026-10-16T00:00:00Z
 keywords: operatori eSIM Repubblica Dominicana, eSIM per Punta Cana, operatori eSIM Repubblica Dominicana, Claro eSIM, Altice Dominicana eSIM, Viva eSIM, copertura 5G Repubblica Dominicana, eSIM Repubblica Dominicana prepagata, miglior operatore eSIM Repubblica Dominicana, eSIM Samaná
 site_name: Roami
 brand_name: Roami
@@ -22,7 +23,7 @@ La Repubblica Dominicana è un paradosso di connettività caraibico. A livello n
 
 Questa guida confronta le tre reti per il modo in cui la gente visita davvero — resort, capitali e road trip tra loro — poi copre la parte che la maggior parte delle guide salta: le **regole obbligatorie di registrazione SIM e IMEI della Repubblica Dominicana**, che modellano ogni acquisto locale. Vale la pena confermare sullo [strumento di compatibilità eSIM](/compatibility/) prima di impegnarti su qualcosa.
 
-**Verdetto rapido:** Claro è l'impostazione predefinita per i visitatori — l'area di copertura più ampia, incluse le zone resort e la strada verso Samaná, con il 5G attivo nelle città principali. Altice registra le velocità urbane più veloci a Santo Domingo e Santiago ma si assottiglia più rapidamente al di fuori di esse. Viva è l'opzione 4G economica per brevi soggiorni al resort. Ogni SIM locale richiede la registrazione di persona con passaporto e un IMEI registrato, quindi per viaggi sotto le due settimane una [eSIM di viaggio per la Repubblica Dominicana](/dominican-esim/) installata prima della partenza è la strada senza attriti.
+**Verdetto rapido:** Claro è l'impostazione predefinita per i visitatori — l'area di copertura più ampia, incluse le zone resort e la strada verso Samaná, con il 5G attivo nelle città principali. Altice registra le velocità urbane più veloci a Santo Domingo e Santiago ma si assottiglia più rapidamente al di fuori di esse. Viva è l'opzione 4G economica per brevi soggiorni al resort. Ogni SIM locale richiede la registrazione di persona con passaporto e un IMEI registrato, quindi per viaggi sotto le due settimane una [eSIM di viaggio per la Repubblica Dominicana](/dominican-republic-esim/) installata prima della partenza è la strada senza attriti.
 
 ## Scegliere una eSIM per la Repubblica Dominicana per il tuo itinerario
 
@@ -129,7 +130,7 @@ Se il tuo telefono è bloccato su un operatore statunitense, controlla il suo st
 
 ## Quanto costa una eSIM per la Repubblica Dominicana contro le opzioni locali
 
-Poiché i prezzi si muovono più in fretta degli articoli, le fasce attuali — solo dati e illimitate — sono tenute sulla [pagina eSIM Repubblica Dominicana](/dominican-esim/). I parametri pubblici inquadrano il contesto:
+Poiché i prezzi si muovono più in fretta degli articoli, le fasce attuali — solo dati e illimitate — sono tenute sulla [pagina eSIM Repubblica Dominicana](/dominican-republic-esim/). I parametri pubblici inquadrano il contesto:
 
 Il quadro nazionale, secondo il Global Index di Ookla dell'agosto 2026: **125.69 Mbps** di download mobile mediano e 19 ms di latenza, piazzando il paese **34°** e sopra la mediana mondiale di 109.05 Mbps.
 
@@ -366,9 +367,9 @@ Una mediana provinciale descrive una provincia, non un lettino al sole.
 
 Saltare lo sportello di registrazione è tutto il punto: niente pratiche IMEI, niente fila al negozio, e nessun rischio che una linea del mercato grigio venga tagliata a vacanza in corso.
 
-Scegli un [piano eSIM Repubblica Dominicana](/dominican-esim/), oppure [provane uno gratis](/free-esim/) prima di impegnarti.
+Scegli un [piano eSIM Repubblica Dominicana](/dominican-republic-esim/), oppure [provane uno gratis](/free-esim/) prima di impegnarti.
 
-[Acquista eSIM Repubblica Dominicana](/dominican-esim/)
+[Acquista eSIM Repubblica Dominicana](/dominican-republic-esim/)
 
 *Inizia con la prova gratuita*
 

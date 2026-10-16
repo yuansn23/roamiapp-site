@@ -3,7 +3,7 @@ title: "Airalo vs Holafly: Best UK eSIM for Travelers"
 description: "Compare Airalo, Holafly and Roami: the best eSIM for the UK installs before you fly, runs on EE, O2, Vodafone or Three, and avoids EU roaming charges."
 keywords: ["airalo uk esim", "UK eSIM price guide", "holafly esim for uk", "uk esim post brexit roaming", "cheapest eSIM for UK travel", "uk esim london underground", "airalo uk esim review", "UK eSIM promo code", "airalo vs holafly uk"]
 date: 2026-10-09T00:00:00Z
-lastmod: 2026-10-09T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/uk/uk-esim-price-guide.jpg"
@@ -552,7 +552,7 @@ Still not sure? [View all Roami UK eSIM plans →](/united-kingdom-esim/)
 
 A UK trip frequently continues into Europe. These guides cover the most common onward legs:
 
-- Our [Germany eSIM guide](/blog/airalo-germany-esim-guide/) covers Band 20 and rural signal.
+- Our [Germany eSIM guide](/blog/germany-esim-providers-airalo-holafly-ubigi-comparison/) covers Band 20 and rural signal.
 - Read up on [the Turkey eSIM guide](/blog/airalo-turkey-esim-guide/) if your route heads southeast.
 - The [Spain eSIM comparison](/blog/airalo-spain-esim-guide/) covers the Iberian leg.
 

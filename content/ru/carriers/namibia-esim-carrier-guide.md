@@ -3,6 +3,7 @@ title: "Предоплаченные данные eSIM в Намибии | MTC, 
 description: "Исследуйте Намибию с eSIM от Roami. Быстрые предоплаченные 5G-данные в сетях MTC, TN Mobile и Paratus — идеально для туристов и удаленных работников."
 image: "img/esim/carriers/namibia-esim-carrier-guide.webp"
 date: "2026-10-01"
+lastmod: 2026-10-16T00:00:00Z
 keywords: eSIM Намибия операторы, MTC eSIM, TN Mobile eSIM, Paratus eSIM, туристическая eSIM Намибия, туристическая SIM Намибия, связь в Этоше, APN Намибия, интернет для автопутешествия по Намибии, CRAN Намибия
 site_name: Roami
 brand_name: Roami
@@ -326,6 +327,6 @@ eSIM Roami для Намибии охватывает местные сети �
 
 Впервые с Roami? Пробный период ничего не стоит. Когда решитесь, код **WEB20** срезает **20%** с любого платного тарифа — [проверьте актуальное покрытие](/plans/), а [бесплатная стартовая eSIM](/free-esim/) — место безрискового начала.
 
-[Получите eSIM Намибии](/namibia-esim/)
+[Получите eSIM Намибии](/carriers/namibia-esim-carrier-guide/)
 
 [Сначала бесплатный пробный период Намибии](/free-esim/)

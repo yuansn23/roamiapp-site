@@ -2,7 +2,7 @@
 title: South America eSIM | 11 Countries, 5G from $1.99
 description: "Roami South America eSIM: Prepaid 5G in Brazil, Argentina, Chile, Colombia, Peru & 6 more countries. Instant activation, no roaming fees. From $1.99."
 date: '2026-10-10T00:00:00+00:00'
-lastmod: '2026-06-11'
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 breadcrumbs:
 - name: Home
@@ -213,7 +213,7 @@ countries:
     flag_image: /img/flags/py.svg
     network: 4G
   - name: Venezuela
-    url: /venezuela-esim/
+    url: /carriers/venezuela-esim-carrier-guide/
     flag: 🇻🇪
     carriers: Movistar, Digitel
     is_popular: false

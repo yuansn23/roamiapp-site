@@ -4,7 +4,7 @@ h1_title: "eSIM Türkiye 2026: Operatör Karşılaştırması, Fiyatlar ve En İ
 description: "2026 Türkiye eSIM rehberi: Turkcell, Vodafone ve Türk Telekom eSIM karşılaştırması, fiyatlar, BTK pazar verileri, hazır kart vs faturalı, seyahat edenler için en iyi seçenekler ve cihaz uyumu."
 keywords: ["esim turkiye", "turkiye esim", "en iyi esim turkiye", "esim turkiye operatör", "turkcell esim", "vodafone esim", "turk telekom esim", "esim turkiye fiyat", "esim turkiye nasıl alınır", "esim turkiye karşılaştırma", "esim turkiye 2026", "esim turkiye rehberi", "turkiye esim operatör karşılaştırma", "esim turkiye hazır kart", "turkiye esim seyahat"]
 date: 2026-09-24T00:00:00Z
-lastmod: 2026-09-24T12:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 tags: ["eSIM", "Türkiye", "Operatör Karşılaştırma", "Turkcell", "Vodafone", "Türk Telekom", "Hazır Kart", "Faturalı", "5G", "Seyahat"]
 toc: true
 
@@ -23,7 +23,7 @@ breadcrumbs:
     url: "/"
   parent:
     text: "Operatöre Göre eSIM"
-    url: "/operator/"
+    url: "/carriers/"
 
 
 # Sidebar: Popular eSIMs
@@ -89,7 +89,7 @@ sidebar_questions:
     - question: "eSIM etkinleştirme nedir ve nasıl çalışır?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "eSIM nasıl etkinleştirilir?"
-      url: "/faq/how-to-activate-an-esim//"
+      url: "/tr/faq/how-to-activate-an-esim/"
     - question: "iPhone'da eSIM nasıl etkinleştirilir (Tüm Modeller)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Güncel eSIM Uyumluluk Listesi"

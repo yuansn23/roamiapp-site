@@ -7,6 +7,7 @@ description: "Roami がブルガリアの eSIM について、A1、Yettel、Viva
 image: "img/esim/carriers/bulgaria-esim-carrier-guide.webp"
 
 date: "2026-09-27T01:44:30+00:00"
+lastmod: 2026-10-16T00:00:00Z
 
 keywords: ブルガリア eSIM, テザリング, A1ブルガリア, Yettel, Vivacom, 旅行用 eSIM, ローミング料金なし, ソフィア 通信, アレクサンダー・ネフスキー大聖堂, シームレスなデータ
 
@@ -181,7 +182,7 @@ hero_subtitle_main: "A1、Yettel、Vivacom の価格 — 最新のネットワ�
 
 - [Serbia eSIM plans](/serbia-esim/)
 
-- [North Macedonia eSIM](/north-macedonia-esim/)
+- [North Macedonia eSIM](/carriers/north-macedonia-esim-carrier-guide/)
 
 - [Türkiye eSIM plans](/turkey-esim/)
 

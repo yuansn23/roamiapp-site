@@ -2,7 +2,7 @@
 title: "Europa eSIM | 40+ Paesi con una Sola SIM"
 description: "Viaggia in Europa con Roami eSIM. Dalla Francia alla Germania, una sola eSIM per oltre 40 paesi. Connessione stabile ovunque, senza cambiare SIM."
 date: '2026-06-15T00:00:00+00:00'
-lastmod: 2026-09-08
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 breadcrumbs:
 - name: Home
@@ -280,7 +280,7 @@ countries:
     flag_image: /img/flags/ad.svg
     network: 4G
   - name: Monaco
-    url: /monaco-esim/
+    url: /europe-esim/
     flag: 🇲🇨
     carriers: Monaco Telecom
     is_popular: false

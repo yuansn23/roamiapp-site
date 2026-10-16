@@ -2,7 +2,7 @@
 title: América do Sul eSIM | 11 Países, 5G a partir de $1,99
 description: "Roami América do Sul eSIM: 5G pré-pago no Brasil, Argentina, Chile, Colômbia, Peru e mais 6 países. Ativação instantânea, sem taxas de roaming. A partir de $1,99."
 date: '2026-08-06'
-lastmod: '2026-08-06'
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 breadcrumbs:
 - name: Início
@@ -206,7 +206,7 @@ countries:
     flag_image: /img/flags/py.svg
     network: 4G
   - name: Venezuela
-    url: /venezuela-esim/
+    url: /carriers/venezuela-esim-carrier-guide/
     flag: 🇻🇪
     carriers: Movistar, Digitel
     is_popular: false

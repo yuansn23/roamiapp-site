@@ -4,7 +4,7 @@ h1_title: "Полное руководство по eSIM на часах, пла
 description: "Часы с eSIM: Apple Watch, Samsung Galaxy Watch 8, Huawei Watch. Планшеты iPad с eSIM, роутеры и модемы eSIM, адаптеры (USB, пластиковая eSIM). Как подключить и настроить."
 keywords: ["esim watch", "apple watch esim", "samsung watch esim", "huawei watch esim", "watch 3 esim", "watch 4 esim", "watch 5 esim", "watch ultra esim", "galaxy watch 8 esim", "galaxy watch ultra esim", "часы с esim", "смарт часы с esim", "часы телефон esim", "ipad esim", "ipad pro esim", "ipad air esim", "планшеты с esim", "роутер с esim", "модем с esim", "адаптер esim", "адаптер есим esim", "esim адаптер", "esim адаптер для android", "esim адаптер купить", "переходник esim", "внешняя esim", "модуль esim", "пластиковая esim", "физическая esim", "физическая карта esim", "физическая сим карта esim", "esim usb"]
 date: 2026-09-16T00:00:00Z
-lastmod: 2026-09-16T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 tags: ["eSIM", "Apple Watch", "Samsung Watch", "Huawei Watch", "iPad", "роутер eSIM", "адаптер eSIM"]
 toc: true
 
@@ -87,9 +87,9 @@ sidebar_questions:
     - question: "Что такое eSIM и как она работает?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "Как активировать eSIM на смарт-часах?"
-      url: "/faq/how-to-activate-esim-on-watch/"
+      url: "/ru/faq/ipad-apple-watch-esim-support-guide/"
     - question: "Как добавить eSIM на iPad?"
-      url: "/faq/how-to-add-esim-to-ipad/"
+      url: "/ru/faq/ipad-apple-watch-esim-support-guide/"
     - question: "Актуальный список совместимости eSIM"
       url: "/compatibility/"
 ---

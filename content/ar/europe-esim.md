@@ -2,7 +2,7 @@
 title: "eSIM أوروبا | أفضل خطة مدفوعة مسبقاً لأكثر من 40 دولة"
 description: "سافر عبر أوروبا مع eSIM مدفوعة مسبقاً من روامي. بيانات 5G غير محدودة في أكثر من 40 دولة. لا حاجة لتبديل SIM أو دفع رسوم تجوال."
 date: '2026-09-03T00:00:00+00:00'
-lastmod: 2026-09-03
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 
 breadcrumbs:
@@ -281,7 +281,7 @@ countries:
     flag_image: /img/flags/ad.svg
     network: 4G
   - name: موناكو
-    url: /monaco-esim/
+    url: /europe-esim/
     flag: 🇲🇨
     carriers: موناكو تيليكوم
     is_popular: false

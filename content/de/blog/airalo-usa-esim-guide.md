@@ -3,7 +3,7 @@ title: "Airalo USA-eSIM Test 2026: Preis, Abdeckung und Fazit"
 description: "Airalo USA-eSIM im Test: aktuelle Tarifpreise, Grenzen der T-Mobile- und Verizon-Abdeckung, Discover+-Rufnummern und wo Airalo gegen die Konkurrenz verliert."
 keywords: ["airalo usa esim", "airalo usa esim test", "airalo esim preis usa", "airalo vs holafly usa", "airalo esim abdeckung usa", "airalo esim apn einstellungen", "ist airalo gut für usa", "USA eSIM Gutscheincode"]
 date:  2026-09-24T00:00:00Z
-lastmod:  2026-09-24T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami bietet zuverlässige eSIM-Tarife, betreut jährlich über 1 Million Reisende und unterstützt den automatischen Wechsel zum lokalen Netz, damit Reisende weltweit verbunden bleiben."
 image: "/img/esim/usa/usa-esim-coverage-guide.jpg"
@@ -775,7 +775,7 @@ Immer noch unsicher nach all den Vergleichen? [Alle Roami USA-eSIM-Tarife ansehe
 Die USA sind oft ein Bein einer längeren Reise. Für die anderen Beine:
 
 - Wenn das UK als Nächstes kommt, sehen Sie unseren [UK-eSIM-Leitfaden](/blog/airalo-uk-esim-guide/).
-- Der [Deutschland-eSIM-Leitfaden](/blog/airalo-germany-esim-guide/) deckt das europäische Bein ab.
+- Der [Deutschland-eSIM-Leitfaden](/blog/germany-esim-providers-airalo-holafly-ubigi-comparison/) deckt das europäische Bein ab.
 - Unser [Türkei-eSIM-Leitfaden](/blog/airalo-turkey-esim-guide/) erklärt die Sperr-Politik vor dem Flug.
 
 ## Quellen für diesen Leitfaden

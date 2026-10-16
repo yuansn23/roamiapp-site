@@ -3,7 +3,7 @@ title: "Airalo vs Holafly vs Ubigi vs Saily: Best Germany eSIM"
 description: "Compare Airalo, Holafly, Ubigi and Saily Germany eSIM plans on coverage, pricing, data caps and tethering for your trip."
 keywords: ["Germany eSIM providers", "Airalo Germany eSIM", "Holafly Germany eSIM", "Ubigi Germany eSIM", "Saily Germany eSIM"]
 date: 2026-10-09T00:00:00Z
-lastmod: 2026-10-09T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/germany/germany-esim-providers-airalo-holafly-ubigi-comparison.jpg"
@@ -157,10 +157,10 @@ Holafly has positioned itself as the unlimited-data specialist in the eSIM marke
 **Plans and pricing.** Holafly's Germany unlimited plan pricing:
 
 - **5 days** — approximately $20
-- **30 days** — approximately $64 (most popular among travellers)
+- **30 days** — approximately $73.90 (most popular among travellers)
 - **90 days** — approximately $99
 
-These prices position Holafly at the premium end of the market when measured on a per-day basis, but the unlimited data proposition changes the value equation for users who consume more than 5-10 GB per week. For a heavy user who goes through 20 GB or more in a two-week trip, Holafly's 30-day unlimited plan at approximately $64 removes the need to ration data — though Airalo's 20 GB / 30-day plan at $23 covers comparable usage for about a third of the price if you can stay within the cap.
+These prices position Holafly at the premium end of the market when measured on a per-day basis, but the unlimited data proposition changes the value equation for users who consume more than 5-10 GB per week. For a heavy user who goes through 20 GB or more in a two-week trip, Holafly's 30-day unlimited plan at approximately $73.90 removes the need to ration data — though Airalo's 20 GB / 30-day plan at $23 covers comparable usage for about a third of the price if you can stay within the cap.
 
 **Network and coverage.** Holafly Germany primarily operates on the Vodafone network, with O2 (Telefónica) as a secondary fallback depending on the specific agreement in place at the time of purchase:
 
@@ -347,6 +347,114 @@ Orange Holiday Europe is not a Germany-specific eSIM but a regional prepaid eSIM
 - The **28-day validity window** means it works well for the typical European holiday duration.
 
 If you are considering this option, you may also want to read the [Germany eSIM for multi-country Europe travel guide](/blog/germany-esim-multi-country-europe-rail/) for a broader comparison of regional plans versus stacked single-country eSIMs for rail-based itineraries.
+
+## Germany's Three eSIM Brands Compared
+
+> ⚠️ **Most important Germany‑specific reminder**: All three brands offer **data‑only eSIMs, without a German phone number**. Uber and food delivery in Germany mostly use in‑app messaging, so a local number isn't mandatory; if you need a German number (e.g., for car rental call‑backs or some app verification), pair it with a VoIP solution. What you really care about is **coverage**—who can keep you connected in a Funkloch.
+
+Everything below is a **Germany eSIM price guide** in table form: each brand's German tiers, pulled from their own pages in September 2026 and arranged so a **Germany eSIM cost comparison** takes seconds rather than four app installs.
+
+### Meet the Brands
+
+| Brand | Trustpilot Rating | Core Positioning | Network Access | 5G | Hotspot | Band 20 |
+|-------|-------------------|------------------|----------------|-----|---------|---------|
+| **Airalo** | 3.9 | Largest global platform, most granular tiers | Telekom / Vodafone | Partial | Supported | Supported |
+| **Holafly** | 4.6 | Pure unlimited data | Vodafone / O2 | Supported | 1GB/day limit | Supported |
+| **Roami** | 4.9 | Multi‑network auto‑switching, best value | Telekom / Vodafone / O2 | Full‑speed | Unlimited | Supported |
+
+> **Core Differences at a Glance**
+>
+> - **Airalo Germany eSIM**: Largest global platform, finest fixed‑data tiers, plus unlimited options, connects to Telekom / Vodafone. Transparent pricing, supports hotspot, supports Band 20, **no German phone number**. Suitable for users who want "unlimited" with a moderate budget – but note its 3.9 Trustpilot score trails the industry (see our [full Airalo eSIM review](/blog/airalo-esim-review-prices-coverage/)).
+> - **Holafly Germany eSIM**: The only pure‑unlimited brand, priced at $3.97/day, connects to Vodafone / O2 5G. No GB cap, but **hotspot limited to 1GB/day**, high long‑term cost, **no German phone number**. Suitable for heavy users who don't mind the cost.
+> - **Roami Germany eSIM**: Multi‑network auto‑switching (Telekom / Vodafone / O2), full‑speed 5G, supports unlimited hotspot and Band 20, lowest price across the board, **no German phone number**. **Note a Germany‑specific detail: in the 3‑day tier, 10GB and "Unlimited" are the same price ($9.99)** — for a 3‑day trip, just choose unlimited. Use discount code **WEB20** for 20% off. [View Roami Germany eSIM plans](/germany-esim/)
+
+### Airalo Germany eSIM Full Price List
+
+**Price freshness:** every figure below is a **September 2026 snapshot** of each brand's own Germany page. Travel eSIM prices move constantly — flash promos, FX drift and tier reshuffles — so re-check the live price at checkout before you buy.
+
+**Unlimited Data Plans**
+
+| Days | Price | Daily Cost |
+|------|-------|------------|
+| 3 days | $11.00 | $3.67/day |
+| 5 days | $18.00 | $3.60/day |
+| 7 days | $24.00 | $3.43/day |
+| 10 days | $30.00 | $3.00/day |
+| 15 days | $42.00 | $2.80/day |
+| 30 days | $59.00 | $1.97/day |
+
+**Fixed‑Data Plans**
+
+| Days | Data Tier | Price |
+|------|-----------|-------|
+| 3 days | 1GB / 3GB | $4.00 / $7.50 |
+| 7 days | 3GB / 5GB / 10GB | $8.00 / $10.50 / $15.00 |
+| 15 days | 5GB / 10GB / 20GB | $11.00 / $15.50 / $22.50 |
+| 30 days | 5GB / 10GB / 20GB / 50GB | $11.50 / $16.00 / $23.00 / $36.00 |
+
+> ⚠️ **Airalo Germany Risk Note**: Fixed‑data tiers are relatively expensive (7‑day 10GB at $1.50/GB), about twice the price of Roami for the same tier; unlimited 7‑day at $24 has average value for short‑term tourists.
+
+### Holafly Germany eSIM Full Price List
+
+Holafly Germany offers **only unlimited data**, priced by duration:
+
+| Days | Price | Daily Cost |
+|------|-------|------------|
+| 3 days | $11.90 | $3.97/day |
+| 7 days | $27.50 | $3.93/day |
+| 10 days | $36.50 | $3.65/day |
+| 30 days | $73.90 | $2.46/day |
+
+> The daily rate drops on longer plans – the headline $3.97/day applies to short stays, while the 30‑day tier works out to $2.46/day.
+
+> ⚠️ **Holafly Germany Risk Note**: No fixed‑data tiers; 3 days costs $11.90, which is 49% more than Roami's 3‑day 10GB ($7.99); **hotspot limited to 1GB/day**—restrictive for sharing or tablet use; per‑day pricing makes long‑term cost the highest.
+
+### Roami Germany eSIM Full Price List
+
+Roami Germany offers both fixed‑data and unlimited plans. Discounted price = list price × 0.8 (code WEB20):
+
+| Days | Data Tier | List Price | Discounted | Daily Cost |
+|------|-----------|------------|------------|------------|
+| 3 days | 1GB / 3GB / 5GB / 10GB / Unlimited | $1.99 / $3.99 / $5.99 / $9.99 / $9.99 | **$1.59 / $3.19 / $4.79 / $7.99 / $7.99** | $0.53‑2.66/day |
+| 7 days | 1GB / 3GB / 5GB / 10GB / 20GB / Unlimited | $2.99 / $4.99 / $6.99 / $9.99 / $17.99 / $21.99 | **$2.39 / $3.99 / $5.59 / $7.99 / $14.39 / $17.59** | $0.34‑2.51/day |
+| 15 days | 3GB / 5GB / 10GB / 20GB / 30GB / Unlimited | $5.99 / $7.99 / $12.99 / $18.99 / $28.99 / $42.99 | **$4.79 / $6.39 / $10.39 / $15.19 / $23.19 / $34.39** | $0.32‑2.29/day |
+| 30 days | 3GB / 5GB / 10GB / 20GB / 30GB / 50GB / 100GB / Unlimited | $6.99 / $8.99 / $13.99 / $19.99 / $30.99 / $39.99 / $54.99 / $70.99 | **$5.59 / $7.19 / $11.19 / $15.99 / $24.79 / $31.99 / $43.99 / $56.79** | $0.19‑1.89/day |
+
+> ⚠️ **Roami Germany Risk Note**: In the 3‑day tier, 10GB and Unlimited are the same price—choose Unlimited for better value; 30‑day Unlimited ($56.79) is expensive, so heavy users should pick the 100GB tier ($43.99) instead. Otherwise, fixed‑data tiers have the lowest per‑GB prices.
+
+### The Real Cost per GB
+
+**The price per GB drops dramatically as you move to larger tiers.** Take Roami 30‑day plans as an example:
+
+| Data Tier | Discounted Price | Price per GB |
+|-----------|------------------|--------------|
+| 5GB | $7.19 | $1.44/GB |
+| 10GB | $11.19 | $1.12/GB |
+| 20GB | $15.99 | $0.80/GB |
+| 50GB | $31.99 | $0.64/GB |
+| 100GB | $43.99 | **$0.44/GB** |
+
+The per‑GB price of 100GB is less than one‑third of 5GB. **Conclusion: if you can estimate your usage, buying a larger tier saves more money; Germany's unique 100GB tier has the lowest per‑GB price.**
+
+**In Germany, "unlimited" often means paying extra for psychological safety.** Compare Roami's fixed tiers:
+
+| Plan | Price | Worth It? |
+|------|-------|-----------|
+| Roami 7‑day 20GB discounted | $14.39 | Best value if daily usage ≤ 2.86GB |
+| Roami 7‑day Unlimited discounted | $17.59 | Only worth it if daily usage > 2.86GB |
+| Roami 30‑day 100GB discounted | $43.99 | Best value if daily usage ≤ 3.33GB |
+| Roami 30‑day Unlimited discounted | $56.79 | Only worth it if daily usage > 3.33GB |
+
+**Unlimited break‑even point = 2.86GB/day (7‑day) / 3.33GB/day (30‑day).** Only if you consume nearly 3GB of short videos per day does unlimited pay off. Most travel in Germany involves sightseeing, train rides, and castle photos—daily usage rarely exceeds 1GB—**fixed 10‑20GB is plenty; don't pay double for the word "unlimited."** The only exception is the 3‑day tier: **10GB and unlimited are the same price—just pick unlimited.**
+
+**What can you do with the money saved?** Compare Roami's discounted prices with competitors and convert the savings into German travel expenses:
+
+| Itinerary | Roami Disc. vs Competitor | Save | Equivalent to |
+|-----------|---------------------------|------|---------------|
+| 7‑day 10GB | $7.99 vs Airalo $15.00 | $7.01 | A Currywurst + a German beer |
+| 7‑day Unlimited | $17.59 vs Holafly $27.50 | $9.91 | A Berlin AB zone day pass |
+| 15‑day 20GB | $15.19 vs Airalo $22.50 | $7.31 | Half a Neuschwanstein ticket |
+| 30‑day Unlimited | $56.79 vs Holafly $73.90 | $17.11 | A proper dinner in Munich |
 
 ## Germany eSIM Providers Head-to-Head Comparison
 
@@ -590,3 +698,13 @@ If your itinerary stays inside a major city, a single-network plan is often enou
 ---
 
 Every plan and price is broken down in the [price guide](/blog/germany-esim-price-guide-cheapest-plans/). For region-by-region detail, the [coverage guide](/blog/germany-esim-coverage-cities-trains-alps/) maps how the networks perform from city centres to the Alps.
+## Our Data Sources
+
+| Organisation | Purpose | Link |
+|--------------|---------|------|
+| BNetzA (German Federal Network Agency) | German telecom regulation / ID verification policy | [bundesnetzagentur.de](https://www.bundesnetzagentur.de/DE/Vportal/TK/start.html) |
+| Ookla Speedtest | German mobile speeds | [Speedtest Global Index – Germany](https://www.speedtest.net/global-index/germany) |
+| GSMA | eSIM industry standards | [GSMA eSIM specification](https://www.gsma.com/solutions-and-impact/technologies/esim/) |
+| Apple | eSIM device support | [Apple eSIM support](https://support.apple.com/en-us/109317) |
+
+*Price data as of September 2026, based on brand official websites.  

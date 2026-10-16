@@ -3,7 +3,7 @@ title: "Paket eSIM"
 layout: "plans"
 type: "page"
 date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 
 # 1. Optimasi Inti SEO
 seo:
@@ -272,7 +272,7 @@ all_countries:
     slug: "iraq"
   - name: "Iran"
     code: "ir"
-    slug: "iran"
+    slug: "middle-east"
   - name: "Irlandia"
     code: "ie"
     slug: "ireland"
@@ -347,7 +347,7 @@ all_countries:
     slug: "liberia"
   - name: "Libanon"
     code: "lb"
-    slug: "lebanon"
+    slug: "middle-east"
   - name: "Liechtenstein"
     code: "li"
     slug: "liechtenstein"
@@ -401,7 +401,7 @@ all_countries:
     slug: "nigeria"
   - name: "Nikaragua"
     code: "ni"
-    slug: "nicaragua"
+    slug: "north-america"
   - name: "Norwegia"
     code: "no"
     slug: "norway"
@@ -455,7 +455,7 @@ all_countries:
     slug: "spain"
   - name: "Sri Lanka"
     code: "lk"
-    slug: "sri-lanka"
+    slug: "asia"
   - name: "Swedia"
     code: "se"
     slug: "sweden"
@@ -476,7 +476,7 @@ all_countries:
     slug: "china"
   - name: "Trinidad dan Tobago"
     code: "tt"
-    slug: "trinidad-and-tobago"
+    slug: "north-america"
   - name: "Tunisia"
     code: "tn"
     slug: "tunisia"
@@ -491,7 +491,7 @@ all_countries:
     slug: "uruguay"
   - name: "Venezuela"
     code: "ve"
-    slug: "venezuela"
+    slug: "south-america"
   - name: "Vietnam"
     code: "vn"
     slug: "vietnam"
@@ -506,5 +506,5 @@ all_countries:
     slug: "zambia"
   - name: "Zimbabwe"
     code: "zw"
-    slug: "zimbabwe"
+    slug: "africa"
 ---

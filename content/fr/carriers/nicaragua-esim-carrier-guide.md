@@ -3,6 +3,7 @@ title: "Opérateurs eSIM Nicaragua : quel réseau choisir ?"
 description: "Roami compare Claro et Tigo au Nicaragua : couverture, vitesse, prix des eSIM prépayées et les formalités d'enregistrement."
 image: "img/esim/carriers/nicaragua-esim-carrier-guide.webp"
 date: "2026-09-24T20:03:55+00:00"
+lastmod: 2026-10-16T00:00:00Z
 keywords: opérateurs eSIM Nicaragua, eSIM Claro, eSIM Tigo, réseau eSIM Nicaragua, eSIM Nicaragua prépayée, meilleur opérateur eSIM Nicaragua, eSIM voyage Nicaragua
 site_name: Roami
 brand_name: Roami
@@ -353,7 +354,7 @@ Mesures tierces uniquement. Les prix prépayés locaux sont des chiffres de vent
 
 Deux réseaux, un seul comptoir d'enregistrement, zéro raison de passer le jour d'arrivée dans une file. Installez un profil qui itinère sur la carte de Claro de Granada aux îles Corn, gardez votre numéro local vivant pour les codes, et laissez la paperasse partir. [Consultez les forfaits et couverture actuels ici](/plans/), [l'essai sans frais](/free-esim/) si vous voulez la preuve d'abord, et appliquez le code promo **web20** au paiement pour 20 % de remise.
 
-[Obtenez mon eSIM Nicaragua](/nicaragua-esim/)
+[Obtenez mon eSIM Nicaragua](/carriers/nicaragua-esim-carrier-guide/)
 
 [Commencez l'essai Nicaragua gratuit](/free-esim/)
 

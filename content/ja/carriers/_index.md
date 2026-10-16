@@ -46,7 +46,7 @@ sidebar:
   search_placeholder: "国を検索（例：日本、アメリカ）..."
   no_results_text: "該当する国が見つかりません"
   no_results_link_text: "世界のeSIMプランを見る &rarr;"
-  no_results_link_url: "/esim/global"
+  no_results_link_url: "/plans"
   regions:
     - name: "すべての国"
       links:
@@ -1113,7 +1113,7 @@ countries:
     btn_details_text: "ベネズエラのeSIMキャリアの詳細"
     btn_details_url: "/carriers/venezuela-esim-carrier-guide/"
     btn_buy_text: "ベネズエラのeSIMを購入"
-    btn_buy_url: "/venezuela-esim/"
+    btn_buy_url: "/carriers/venezuela-esim-carrier-guide/"
     Carriers:
       - name: "Digitel"
         color: "text-blue-600"

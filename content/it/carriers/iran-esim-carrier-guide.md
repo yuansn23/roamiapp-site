@@ -3,6 +3,7 @@ title: "Migliori operatori eSIM Iran: MCI, Irancell o Rightel"
 description: "MCI, Irancell o Rightel? Roami confronta gli operatori eSIM Iran su copertura 5G e prezzi, dai bazar di Teheran a Shiraz."
 image: "img/esim/carriers/iran-esim-carrier-guide.webp"
 date: "2026-09-25T06:03:02+00:00"
+lastmod: 2026-10-16T00:00:00Z
 keywords: operatori eSIM Iran, eSIM Iran, eSIM MCI, eSIM Irancell, eSIM viaggio Iran, MCI, Hamrahe Aval, Rightel, 5G Iran, eSIM per Iran, eSIM prepagata Iran, eSIM turista Iran
 site_name: Roami
 brand_name: Roami
@@ -387,7 +388,7 @@ Tutto ciò che è citato in questa pagina è una misurazione di terze parti o un
 
 ## Quanto costa un gigabyte
 
-L'Iran premia chi pianifica in eccesso: contanti cambiati in anticipo, una linea turistica emessa localmente organizzata per l'IKA, mappe offline caricate prima dei lunghi tratti interurbani. Quando vuoi un profilo dati che arrivi con te, [compra un piano eSIM per l'Iran](/iran-esim/) e installalo a casa.
+L'Iran premia chi pianifica in eccesso: contanti cambiati in anticipo, una linea turistica emessa localmente organizzata per l'IKA, mappe offline caricate prima dei lunghi tratti interurbani. Quando vuoi un profilo dati che arrivi con te, [compra un piano eSIM per l'Iran](/carriers/iran-esim-carrier-guide/) e installalo a casa.
 
 Se sei nuovo di come si comporta un profilo solo-dati, la meccanica è identica ovunque — [la spiegazione dell'attivazione eSIM](/faq/what-is-esim-activation-and-how-does-it-work/) spiega cosa succede quando scansioni il codice. *I clienti Roami alla prima esperienza possono partire con una eSIM di prova gratuita* — [riscattane una](/free-esim/) senza impegno — e la pagina dei [piani eSIM per il Medio Oriente](/middle-east-esim/) elenca i bundle regionali la cui copertura include l'Iran.
 

@@ -2,7 +2,7 @@
 title: "Europa eSIM | Najlepszy przedpłacony plan dla 40+ krajów"
 description: "Podróżuj po Europie z jedną przedpłaconą kartą eSIM od Roami. Nielimitowane dane 5G w 40+ krajach. Bez wymiany kart SIM, bez roamingu. Kup plan online."
 date: '2026-09-08T00:00:00+00:00'
-lastmod: 2026-09-08
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 breadcrumbs:
 - name: Strona główna
@@ -290,7 +290,7 @@ countries:
     flag_image: /img/flags/ad.svg
     network: 4G
   - name: Monako
-    url: /monaco-esim/
+    url: /europe-esim/
     flag: 🇲🇨
     carriers: Monaco Telecom
     is_popular: false

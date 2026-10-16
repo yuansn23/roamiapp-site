@@ -4,7 +4,7 @@ h1_title: "TIM eSIM Brasil 2026: Guia Completo de Compra, Ativação e Planos"
 description: "Guia completo do TIM eSIM Brasil 2026. Como comprar, ativar, planos pré-pago e pós-pago, dispositivos compatíveis, QR Code e troca de chip físico para eSIM TIM."
 keywords: ["esim tim", "tim esim", "esim da tim", "comprar esim tim", "ativar esim tim", "como ativar esim tim", "chip esim tim", "qr code esim tim", "esim tim pre pago", "esim tim comprar", "esim tim online", "trocar chip fisico para esim tim", "troca de chip tim esim", "tim esim preço", "tim brasil esim", "esim tim 2026"]
 date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 tags: ["TIM", "eSIM", "Brasil", "Ativação", "Planos", "Pré-pago", "Pós-pago", "5G", "QR Code", "Chip"]
 toc: true
 
@@ -33,7 +33,7 @@ sidebar_popular:
     - name: "Brasil eSIM"
       flag: "/img/flags/br.svg"
       price: "$1.99"
-      url: "/brasil-esim/"
+      url: "/id/brazil-esim/"
       badge: "5G"
     - name: "América do Sul eSIM"
       flag: "/img/flags/sa.svg"

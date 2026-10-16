@@ -3,7 +3,7 @@ title: "Best Unlimited Data eSIM for Germany with 5G Plans"
 description: "Unlimited Germany eSIM plans rarely mean unlimited. Compare fair usage caps and hotspot rules. Roami includes tethering."
 keywords: ["Germany eSIM unlimited data", "Germany 5G eSIM plans", "Germany eSIM tethering", "Germany eSIM fair usage policy"]
 date: 2026-10-09T00:00:00Z
-lastmod: 2026-10-09T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/germany/germany-esim-unlimited-data-5g-plans.jpg"
@@ -152,7 +152,7 @@ Holafly offers a dedicated Germany eSIM with unlimited data that is among the mo
 - **Network**: runs on the Vodafone network, with O2 (Telefónica) as a secondary partner — strong coverage across urban areas.
 - **Limitation**: does not support hotspot tethering on its Germany unlimited plan, ruling it out for users who need to share their connection with a laptop or tablet.
 
-Pricing for Holafly Germany starts at approximately $20 USD for 5 days and scales up to about $64 USD for 30 days. The unlimited nature of the plan appeals to tourists who prefer not to monitor their usage, but the lack of hotspot and the eventual throttle under FUP mean it is not truly unlimited in the strictest sense.
+Pricing for Holafly Germany starts at approximately $20 USD for 5 days and scales up to about $73.90 USD for 30 days. The unlimited nature of the plan appeals to tourists who prefer not to monitor their usage, but the lack of hotspot and the eventual throttle under FUP mean it is not truly unlimited in the strictest sense.
 
 ### Airalo Germany eSIM
 
@@ -290,7 +290,7 @@ Holafly's Germany eSIM pricing as of mid-2026:
 | 7 days | ~$27 USD |
 | 10 days | ~$37 USD |
 | 15 days | ~$51 USD |
-| 30 days | ~$64 USD |
+| 30 days | ~$73.90 USD |
 | 90 days | ~$99 USD |
 
 The pricing scales roughly linearly, with the 90-day plan offering the best per-day value at about $1.10 per day.
@@ -476,7 +476,7 @@ The cheapest 5G option for a short trip is typically a 10 GB or 20 GB plan from 
 
 For stays of one week to one month, the choice depends heavily on usage. A business traveler attending a week of meetings and a conference in Berlin may use 15 to 25 GB across their phone and laptop. A digital nomad working from cafes in Munich for a month may use 30 to 50 GB. A tourist exploring castles and hiking trails in Bavaria may use 5 to 10 GB primarily for maps and photos.
 
-For medium-stay heavy users, a 50 GB plan from Ubigi at approximately $44 USD offers better value and clearer terms than a 30-day unlimited plan from Holafly at $64 USD, especially if tethering is needed. The additional $20 savings can be redirected toward a local SIM backup if needed, though for most users the 50 GB plan eliminates that need entirely.
+For medium-stay heavy users, a 50 GB plan from Ubigi at approximately $44 USD offers better value and clearer terms than a 30-day unlimited plan from Holafly at $73.90 USD, especially if tethering is needed. The additional $30 savings can be redirected toward a local SIM backup if needed, though for most users the 50 GB plan eliminates that need entirely.
 
 ### Trip Duration: Long (1 to 3 Months)
 
@@ -506,7 +506,7 @@ For travelers who want to minimize cost without sacrificing connectivity quality
 1. **Under 7 days, phone-only, no tethering** -- Holafly's 5-day or 7-day unlimited (about $20-$27).
 2. **Under 7 days, need tethering** -- Ubigi's 10 GB / 7-day plan ($10.00).
 3. **1 to 4 weeks, moderate data, need tethering** -- Ubigi 50 GB plan.
-4. **1 to 4 weeks, heavy data, no tethering** -- Holafly 30-day unlimited at $64.
+4. **1 to 4 weeks, heavy data, no tethering** -- Holafly 30-day unlimited at $73.90.
 5. **1 to 4 weeks, heavy data, need tethering** -- High-capacity plan or local prepaid.
 6. **1 to 3 months, any usage** -- Local carrier prepaid or international eSIM with monthly plan.
 7. **Multi-country Europe trip** -- International eSIM covering all destinations.
@@ -516,7 +516,7 @@ For travelers who want to minimize cost without sacrificing connectivity quality
 | Phone-only, light | Under 7 days | Holafly 5-day unlimited | ~$20 | Simple, no monitoring needed |
 | Phone + laptop, tethering | Under 7 days | 20 GB capped plan | $15-25 | Tethering allowed, clear limits |
 | Moderate data + tethering | 1-4 weeks | 50 GB capped plan | $35-50 | Best value for mixed use |
-| Heavy data, phone only | 1-4 weeks | Holafly 30-day unlimited | $64 | Unlimited but no tethering |
+| Heavy data, phone only | 1-4 weeks | Holafly 30-day unlimited | $73.90 | Unlimited but no tethering |
 | Heavy data + tethering | 1-4 weeks | Local prepaid (30-40 GB) | EUR 20-30 | Best speed + tethering combo |
 | Any usage | 1-3 months | Local carrier prepaid | EUR 13-25/mo | Cheapest per GB long-term |
 | Multi-country Europe | Any | Regional Europe eSIM | $20-50 | Single eSIM for all destinations |

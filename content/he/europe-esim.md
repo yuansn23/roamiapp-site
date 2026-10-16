@@ -2,7 +2,7 @@
 title: "eSIM לאירופה | תוכנית ה-eSIM הטובה ביותר בתשלום מראש ל-40+ מדינות"
 description: "טייל ברחבי אירופה עם eSIM אחד בתשלום מראש לטיולים מ-Roami. נתוני 5G ללא הגבלה ב-40+ מדינות. ללא החלפת SIM, ללא נדידה. קנה את התוכנית שלך באינטרנט."
 date: '2026-09-14T00:00:00+00:00'
-lastmod: '2026-09-14T00:00:00+00:00'
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 breadcrumbs:
 - name: בית
@@ -281,7 +281,7 @@ countries:
     flag_image: /img/flags/ad.svg
     network: 4G
   - name: מונקו
-    url: /monaco-esim/
+    url: /europe-esim/
     flag: 🇲🇨
     carriers: Monaco Telecom
     is_popular: false

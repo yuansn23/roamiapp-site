@@ -2,7 +2,7 @@
 title: Европа eSIM | 40+ стран, один тариф, без роуминга
 description: Путешествуйте по Европе с одной предоплаченной eSIM Roami — лучшая eSIM для поездок по нескольким странам Европы. Трансграничный 5G в 47 странах с мгновенной активацией в локальных сетях. Без роуминга. Тарифы с безлимитным интернетом от 5 $.
 date: 2026-09-08
-lastmod: 2026-09-08
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim 
 breadcrumbs:
 - name: Главная
@@ -280,7 +280,7 @@ countries:
     flag_image: /img/flags/ad.svg
     network: 4G
   - name: Монако
-    url: /monaco-esim/
+    url: /europe-esim/
     flag: 🇲🇨
     carriers: Monaco Telecom
     is_popular: false

@@ -6,6 +6,7 @@ description: "Bulgarien eSIM im Vergleich: A1, Yettel und Vivacom nach Preis, Te
 image: "img/esim/carriers/bulgaria-esim-carrier-guide.webp"
 
 date: "2026-09-27T01:44:30+00:00"
+lastmod: 2026-10-16T00:00:00Z
 
 keywords: Bulgarien eSIM, Hotspot-Tethering, A1 Bulgarien, Yettel, Vivacom, Reise-eSIM, keine Roaming-Gebühren, Konnektivität in Sofia, Alexander-Newski-Kathedrale, nahtlose Daten
 
@@ -180,7 +181,7 @@ Zwei Details sind es wert, genauer erläutert zu werden. Seit dem 1. Juli 2021 h
 
 - [eSIM-Tarife Serbien](/serbia-esim/)
 
-- [eSIM Nordmazedonien](/north-macedonia-esim/)
+- [eSIM Nordmazedonien](/carriers/north-macedonia-esim-carrier-guide/)
 
 - [eSIM-Tarife Türkei](/turkey-esim/)
 

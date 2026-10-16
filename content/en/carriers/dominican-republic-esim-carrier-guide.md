@@ -1,10 +1,11 @@
 ---
-redirect_to: "/dominican-esim/"
+redirect_to: "/dominican-republic-esim/"
 sitemap: false
 title: "5G Dominican Republic eSIM | Claro, Altice & Viva"
 description: "Need internet in Dominican Republic? Roami eSIM gives prepaid 5G data on Claro, Altice & Viva networks, perfect for tourists and remote work."
 image: "img/esim/carriers/dominican-republic-esim-carrier-guide.webp"
 date: "2026-09-25"
+lastmod: 2026-10-16T00:00:00Z
 keywords: Dominican Republic eSIM carriers, Dominican Republic eSIM operators, Claro eSIM, Altice Dominicana eSIM, Viva eSIM, Dominican Republic 5G coverage, Punta Cana eSIM, eSIM Dominican Republic prepaid, best eSIM carrier Dominican Republic
 site_name: Roami
 brand_name: Roami
@@ -17,7 +18,7 @@ hero_badge: "The Dominican Republic carrier face-off: 2026 data"
 hero_subtitle_main: "The 2026 carrier comparison, built on independent speed data"
 ---
 
-The Dominican Republic eSIM question is really a resort question. If you are spending a week at an all-inclusive in Punta Cana, the hotel network will cover the lobby, buffet and pool deck — and quietly fall apart in your room, at the quiet pool, or the moment you leave the gates for an excursion. A [Dominican Republic eSIM](/dominican-esim/) keeps you on real carrier networks instead, and since your phone must be eSIM-capable and unlocked to use one, run it through the [compatibility checker](/compatibility/) before you buy anything.
+The Dominican Republic eSIM question is really a resort question. If you are spending a week at an all-inclusive in Punta Cana, the hotel network will cover the lobby, buffet and pool deck — and quietly fall apart in your room, at the quiet pool, or the moment you leave the gates for an excursion. A [Dominican Republic eSIM](/dominican-republic-esim/) keeps you on real carrier networks instead, and since your phone must be eSIM-capable and unlocked to use one, run it through the [compatibility checker](/compatibility/) before you buy anything.
 
 **Quick answer:** Claro if you are moving around Dominican Republic, Altice Dominicana if you base yourself in one city. Speeds, prices and the registration fine print below all support that split — start at the [compatibility page](/compatibility/) to rule out handset problems.
 
@@ -210,7 +211,7 @@ The same registration logic applies if you buy a local eSIM directly from Claro 
 
 ### The travel eSIM route: skip the counter
 
-A prepaid travel eSIM for the Dominican Republic works as a roaming profile: no store visit, no passport photocopy, no Spanish forms. You buy online, scan the QR code at home, and the profile connects to local networks on arrival. On [Roami's Dominican Republic eSIM page](/dominican-esim/) the profile re-selects the strongest available carrier as you move, which matters when Claro owns the mountains and Altice owns the beach strip. New customers can test the water with a [try before you buy](/free-esim/) before committing.
+A prepaid travel eSIM for the Dominican Republic works as a roaming profile: no store visit, no passport photocopy, no Spanish forms. You buy online, scan the QR code at home, and the profile connects to local networks on arrival. On [Roami's Dominican Republic eSIM page](/dominican-republic-esim/) the profile re-selects the strongest available carrier as you move, which matters when Claro owns the mountains and Altice owns the beach strip. New customers can test the water with a [try before you buy](/free-esim/) before committing.
 
 ## Dominican Republic eSIM coverage: Claro vs Altice
 
@@ -222,7 +223,7 @@ Dominican coverage follows people and resorts, not the map. What that means wher
 - **Santiago and the Cibao Valley.** The fastest inland region, with both major carriers strong in the city.
 - **Samaná and the southwest.** Towns are covered; the roads between them are not. Download offline maps before leaving the highway.
 
-A single-carrier SIM locks you into one version of that map. A multi-network profile simply attaches to whoever is strongest at each stop, which is why [Roami's Dominican Republic eSIM](/dominican-esim/) suits itineraries that mix beach, capital and interior.
+A single-carrier SIM locks you into one version of that map. A multi-network profile simply attaches to whoever is strongest at each stop, which is why [Roami's Dominican Republic eSIM](/dominican-republic-esim/) suits itineraries that mix beach, capital and interior.
 
 ### Claro vs Altice: coverage compared
 
@@ -449,7 +450,7 @@ Altice and Claro are both excellent on the resort strip, with 5G along the main 
 
 ### Is a local Dominican SIM cheaper than a travel eSIM?
 
-Local prepaid data averages about USD 0.79 per GB (Cable.co.uk, 80th of 237 markets), and travel eSIMs cost more for the convenience of instant delivery and multi-network access. Compare both on the [Dominican Republic eSIM plans page](/dominican-esim/) before deciding.
+Local prepaid data averages about USD 0.79 per GB (Cable.co.uk, 80th of 237 markets), and travel eSIMs cost more for the convenience of instant delivery and multi-network access. Compare both on the [Dominican Republic eSIM plans page](/dominican-republic-esim/) before deciding.
 
 ### Is a hotel's Wi-Fi good enough instead of an eSIM?
 
@@ -505,7 +506,7 @@ Treat every figure here as a dated third-party measurement rather than a live gu
 
 Install the profile at home rather than queueing for a passport photocopy, and touch down already online on Claro, Altice or Viva — whichever is strongest where you are standing.
 
-[Buy Dominican Republic eSIM now](/dominican-esim/)
+[Buy Dominican Republic eSIM now](/dominican-republic-esim/)
 
 *Deal for first-time buyers*
 

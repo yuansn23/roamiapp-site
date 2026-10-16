@@ -3,6 +3,7 @@ title: "Welche Macau eSIM passt zu CTM und China Telecom?"
 description: "Macau eSIM oder Resort-WLAN? CTM und China Telecom nach Ookla-Daten mit Netzabdeckung, Grenzfallen und allen Preisen im Vergleich."
 image: "img/esim/carriers/macau-esim-carrier-guide.webp"
 date: "2026-09-25T15:07:12+00:00"
+lastmod: 2026-10-16T00:00:00Z
 keywords: eSIM-Netzbetreiber Macau, CTM eSIM, China Telecom Macau eSIM, 3 Macau eSIM, Macau 5G-Netzabdeckung, Hongkong eSIM in Macau, eSIM Macau Prepaid, bester eSIM-Netzbetreiber Macau
 site_name: Roami
 brand_name: Roami
@@ -166,7 +167,7 @@ Die gesamte 55 km lange Brücke — 12 km Hong Kong Link Road, 29,6 km Hauptbrü
 
 Drei Tarife, sortiert für einen kurzen Aufenthalt:
 
-**1. Eine eSIM für die Sonderverwaltungsregion, die Sie vor der Reise kaufen.** Sofortiger QR-Versand, keine Registrierung und — der unterschätzte Teil — die Installation erfolgt, solange Sie noch WLAN haben, sodass Sie in dem Moment verbunden sind, in dem Sie von der Fähre steigen oder die Grenzkontrolle passieren. Die [Macau-eSIM-Tarife](/macau-esim/) von Roami laufen über die führenden Netze des Territoriums, was in diesem Markt bedeutet: die gleiche CTM-Netzabdeckung, die auch die Einwohner nutzen.
+**1. Eine eSIM für die Sonderverwaltungsregion, die Sie vor der Reise kaufen.** Sofortiger QR-Versand, keine Registrierung und — der unterschätzte Teil — die Installation erfolgt, solange Sie noch WLAN haben, sodass Sie in dem Moment verbunden sind, in dem Sie von der Fähre steigen oder die Grenzkontrolle passieren. Die [Macau-eSIM-Tarife](/macao-esim/) von Roami laufen über die führenden Netze des Territoriums, was in diesem Markt bedeutet: die gleiche CTM-Netzabdeckung, die auch die Einwohner nutzen.
 
 **2. CTM Prepaid, vor Ort gekauft.** CTM verkauft touristisch ausgerichtete Prepaid-SIMs mit einer Laufzeit von 3 bis 30 Tagen in seinen Filialen und am Flughafen, und die Schalter sind es gewohnt, Besucher in Kantonesisch, Mandarin, Englisch und Portugiesisch zu bedienen. Bringen Sie Ihren Reisepass zur Registrierung mit. Dies ist der richtige Weg, wenn Sie während eines längeren Aufenthalts eine lokale Rufnummer für Buchungen oder Liefer-Apps möchten.
 
@@ -373,7 +374,7 @@ Jede Zahl oben gehört einer namentlich genannten dritten Partei und nicht unser
 
 Ob Sie mit der Fähre aus Hongkong kommen, zu Fuß durch den Zhuhai-Grenzübergang oder direkt aus einem Flugzeug steigen – ein lokales Profil verbindet sich mit den führenden Netzen des Territoriums, bevor Sie am Taxistand ankommen. Ein [Testprofil](/free-esim/) deckt den Test ab, oder gehen Sie direkt zu den passenden Datentarifen.
 
-[Macau-eSIM-Tarife ansehen](/macau-esim/)
+[Macau-eSIM-Tarife ansehen](/macao-esim/)
 
 *Neukundenangebot*
 

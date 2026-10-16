@@ -4,7 +4,7 @@ h1_title: "Vodafone Türkiye eSIM 2026: Nasıl Alınır, Tarifeler ve Cihaz Uyum
 description: "Vodafone Türkiye eSIM rehberi 2026: Vodafone eSIM fiyatları, nasıl alınır, Yanımda uygulaması ile aktivasyon, QR kod kurulumu, FreeZone ve Red tarifeleri, hazır kart seçenekleri."
 keywords: ["vodafone esim", "esim vodafone", "vodafone esim nasıl alınır", "vodafone esim fiyat", "vodafone esim aktivasyon", "vodafone esim hazır kart", "vodafone yanımda esim", "vodafone qr kod esim", "vodafone esim destekleyen telefonlar", "vodafone esim turkiye", "vodafone esim 2026", "vodafone esim kurulum", "vodafone red esim", "vodafone freezone esim", "vodafone esim yurt dışı"]
 date: 2026-09-24T00:00:00Z
-lastmod: 2026-09-24T12:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 tags: ["Vodafone", "eSIM", "Türkiye", "Aktivasyon", "Hazır Kart", "FreeZone", "Red", "5G", "Roaming", "Yanımda"]
 toc: true
 
@@ -23,7 +23,7 @@ breadcrumbs:
     url: "/"
   parent:
     text: "Operatöre Göre eSIM"
-    url: "/operator/"
+    url: "/carriers/"
 
 
 # Sidebar: Popular eSIMs
@@ -89,7 +89,7 @@ sidebar_questions:
     - question: "eSIM etkinleştirme nedir ve nasıl çalışır?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "eSIM nasıl etkinleştirilir?"
-      url: "/faq/how-to-activate-an-esim//"
+      url: "/tr/faq/how-to-activate-an-esim/"
     - question: "iPhone'da eSIM nasıl etkinleştirilir (Tüm Modeller)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Güncel eSIM Uyumluluk Listesi"

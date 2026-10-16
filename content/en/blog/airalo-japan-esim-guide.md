@@ -386,7 +386,7 @@ In Japan, what you need most is not "more signal" but "feeding two apps":
 - **Google Translate**: Point the camera at menus, signs, instructions—real-time translation—a lifesaver for ordering and navigating, but it consumes a lot of data.
 - **Google Maps**: Tokyo and Osaka have intricate transfers; real-time navigation + timetable lookups running all day consume continuous data.
 
-So the logic for choosing a Japan eSIM is completely opposite to Germany (where signal is a concern – see our [Airalo Germany eSIM guide](/blog/airalo-germany-esim-guide/) for its ICE-train dead zones): **here, the competition is "price per GB," not "which operator has better signal."**
+So the logic for choosing a Japan eSIM is completely opposite to Germany (where signal is a concern – see our [Airalo Germany eSIM guide](/blog/germany-esim-providers-airalo-holafly-ubigi-comparison/) for its ICE-train dead zones): **here, the competition is "price per GB," not "which operator has better signal."**
 
 ## Japan eSIM vs Local SIM vs Roaming
 

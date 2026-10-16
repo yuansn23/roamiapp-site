@@ -2,7 +2,7 @@
 title: 남미 eSIM | 11개국, 5G $1.99부터
 description: "Roami 남미 eSIM: 브라질, 아르헨티나, 칠레, 콜롬비아, 페루 및 6개국 추가 국가에서 선불 5G. 즉시 활성화, 로밍 수수료 없음. $1.99부터."
 date: '2026-06-11'
-lastmod: '2026-06-11'
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 breadcrumbs:
 - name: 홈
@@ -206,7 +206,7 @@ countries:
     flag_image: /img/flags/py.svg
     network: 4G
   - name: 베네수엘라
-    url: /venezuela-esim/
+    url: /carriers/venezuela-esim-carrier-guide/
     flag: 🇻🇪
     carriers: Movistar, Digitel
     is_popular: false

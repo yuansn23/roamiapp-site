@@ -3,6 +3,7 @@ title: "eSIM de Myanmar: qué funciona en ATOM, MPT y Mytel"
 description: "Roami verifica lo que ATOM, MPT y Mytel ofrecen de verdad, con las normas de registro de pasaporte, los paquetes en kyats y sus límites."
 image: "img/esim/carriers/myanmar-esim-carrier-guide.webp"
 date: "2026-09-26T11:50:09+00:00"
+lastmod: 2026-10-16T00:00:00Z
 keywords: eSIM de operadores de Myanmar, eSIM de ATOM, eSIM de MPT, eSIM de Mytel, eSIM de U9, eSIM de viaje a Myanmar, SIM turística de Myanmar, apagón de internet en Myanmar, APN de Myanmar, Telenor Myanmar ATOM
 site_name: Roami
 brand_name: Roami
@@ -326,7 +327,7 @@ Una eSIM Roami para Myanmar llega ya con las redes locales y se conecta a la que
 
 ¿Prefiere probar la conexión antes de pagar? La prueba no cuesta nada. Cuando esté listo, el código **web20** aplica un **20% de descuento** en cualquier plan de pago — [vea qué cobertura hay disponible](/plans/) primero. ¿Empezando desde cero con un proveedor nuevo? Comience con la [eSIM de prueba gratuita para Myanmar](/free-esim/).
 
-[Consiga su eSIM de Myanmar](/myanmar-esim/)
+[Consiga su eSIM de Myanmar](/carriers/myanmar-esim-carrier-guide/)
 
 [Comience con la prueba gratuita para Myanmar](/free-esim/)
 

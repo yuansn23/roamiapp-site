@@ -4,7 +4,7 @@ h1_title: "eSIM Brasil 2026: Como Escolher, Comprar e Ativar o Melhor Plano"
 description: "Guia completo do eSIM no Brasil em 2026. Compare Claro, Vivo, TIM e provedores internacionais como Airalo e Holafly. Preços, cobertura 5G e como ativar seu chip virtual."
 keywords: ["esim brasil", "esim brazil", "melhor esim brasil", "esim brasil operadoras", "esim brasil 2026", "comprar esim brasil", "esim internacional brasil", "chip esim brasil", "esim brasil preço", "celular com esim brasil", "esim claro", "esim vivo", "esim tim", "esim pré pago brasil", "esim viagem brasil"]
 date: 2026-09-23T00:00:00Z
-lastmod: 2026-09-23T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 image: "/img/faq/esim-brasil-guia-completo.jpg"
 tags: ["eSIM", "Brasil", "Claro", "Vivo", "TIM", "5G", "Viagem", "Comparação"]
 toc: true
@@ -25,7 +25,7 @@ breadcrumbs:
     url: "/"
   parent:
     text: "eSIM por País"
-    url: "/paises/"
+    url: "/pt/plans/"
 
 sidebar_popular:
   title: "eSIMs Populares"
@@ -80,7 +80,7 @@ sidebar_questions:
     - question: "Meu celular é compatível com eSIM?"
       url: "/compatibility/"
     - question: "eSIM Brasil compensa?"
-      url: "/esim-brasil-guia-completo/"
+      url: "/pt/faq/esim-brasil-guia-completo/"
 ---
 
 **Última atualização:** 24 de setembro de 2026 | Tempo de leitura: 20 minutos

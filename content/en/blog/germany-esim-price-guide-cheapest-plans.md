@@ -3,7 +3,7 @@ title: "Cheapest Germany eSIM Plans: Complete Price Guide"
 description: "Germany eSIM prices range from EUR 3 for 1GB to EUR 50 for 50GB. Compare plans for value. Roami includes auto network switching."
 keywords: ["cheapest Germany eSIM", "Germany eSIM price", "Germany eSIM cost", "Germany eSIM data plan cost"]
 date: 2026-10-09T00:00:00Z
-lastmod: 2026-10-09T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/germany/germany-esim-price-guide-cheapest-plans.jpg"
@@ -312,7 +312,7 @@ At the 15 to 30-day tier, several plan types compete for your attention.
 - This supports daily video calls, streaming music or podcasts throughout the day, social media posting, and even some Netflix or YouTube on hotel Wi-Fi evenings.
 - The best value at this tier comes from providers that combine competitive pricing with the option to top up if you run short.
 
-**Holafly 30-day unlimited.** Holafly's 30-day unlimited plan costs approximately $64.00. For travelers who would otherwise consume 20GB or more in a month, this flat rate eliminates the stress of monitoring data usage. The trade-off is that Holafly's fair-use policy throttles speeds to around 2 Mbps once usage in the plan period passes roughly 30 GB, and hotspot tethering is not supported on the Germany plan.
+**Holafly 30-day unlimited.** Holafly's 30-day unlimited plan costs approximately $73.90. For travelers who would otherwise consume 20GB or more in a month, this flat rate eliminates the stress of monitoring data usage. The trade-off is that Holafly's fair-use policy throttles speeds to around 2 Mbps once usage in the plan period passes roughly 30 GB, and hotspot tethering is not supported on the Germany plan.
 
 ### Local Carrier Alternatives for Medium Stays
 

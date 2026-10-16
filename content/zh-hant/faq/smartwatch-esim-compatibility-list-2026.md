@@ -4,7 +4,7 @@ h1_title: "2026 智慧手錶 eSIM 相容性完整指南：啟用步驟與注意�
 description: "想知道你的智慧手錶能不能用 eSIM？本文列出 Apple Watch、三星、Google Pixel 等所有支援型號（含地區版本），並提供詳細的啟用設定教學與 eSIM 購買建議"
 keywords: ["智慧型手錶 eSIM", "Apple Watch eSIM", "三星手錶 eSIM", "Google Pixel Watch eSIM", "小米手錶 eSIM", "華為手錶 eSIM", "TicWatch eSIM", "Amazfit Nexo", "Vivo Watch 2", "手錶獨立上網", "eSIM 手錶啟用", "Apple Watch Series 10 eSIM", "Samsung Galaxy Watch Ultra eSIM"]
 date: 2026-09-21T00:00:00Z
-lastmod: 2026-09-21T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 tags: ["eSIM", "智慧型手錶", "相容性", "Apple Watch", "Samsung", "Google Pixel", "小米", "華為", "Oppo", "TicWatch", "Amazfit", "Vivo"]
 toc: true
 
@@ -201,7 +201,7 @@ sidebar_questions:
 
 ### 適用於 Apple Watch（搭配 iPhone）
 
-Apple Watch 的 eSIM 功能透過 iPhone 上的 Watch App 進行管理。要成功啟用，您需要滿足以下條件（第一次接觸 eSIM 安裝的話，建議先看 [eSIM 設定與機種變更完整教學](/faq/esim-setup-activation-device-change-manual/)）：
+Apple Watch 的 eSIM 功能透過 iPhone 上的 Watch App 進行管理。要成功啟用，您需要滿足以下條件（第一次接觸 eSIM 安裝的話，建議先看 [eSIM 設定與機種變更完整教學](/faq/how-to-activate-an-esim/)）：
 
 #### ✅ 你需要什麼？
 - 一部安裝最新版本 iOS 的 iPhone（建議 iPhone XS、XR 或更新機型，且 iPhone 本身已支援 eSIM）。
@@ -248,7 +248,7 @@ Apple Watch 的 eSIM 功能透過 iPhone 上的 Watch App 進行管理。要成�
 2. 點選「加入 eSIM」或「下載 SIM 卡」。
 3. 手錶會掃描附近 Wi-Fi（確保手機在旁且已連網）。
 4. 掃描電信業者提供的 **QR 碼**（可透過手機顯示或紙本）。
-5. 等待下載並啟用 eSIM，然後設定數據漫遊（旅行時）。各家的方案差異，可先參考 [海外旅行 eSIM 供應商比較](/faq/travel-esim-provider-comparison/)。
+5. 等待下載並啟用 eSIM，然後設定數據漫遊（旅行時）。各家的方案差異，可先參考 [海外旅行 eSIM 供應商比較](/carriers/)。
 
 > 💡 **注意**：部分 Android 手機需要安裝電信業者的專屬 App（例如三星的「Samsung Wearable」）才能為手錶啟用 eSIM。
 
@@ -275,7 +275,7 @@ Apple Watch 的 eSIM 功能透過 iPhone 上的 Watch App 進行管理。要成�
 - **限制**：目前僅少數 eSIM 供應商支援手錶，因為手錶用的這款虛擬 SIM 設定檔與手機不同。
   - ✅ **推薦**：Airalo（部分手錶型號可透過其 App 下載）、Truphone（直接手錶端購買）。
   - ❌ **不支援**：多數旅行 eSIM（如 Roami、Holafly）僅限手機。
-- **建議**：旅行時仍可將手機的 eSIM 熱點分享給手錶，或直接使用藍牙連線手機，手錶自動使用手機網路。出發前也別忘了確認 [手機與平板的 eSIM 支援型號清單](/faq/android-ipad-watch-esim-compatible-devices/)。
+- **建議**：旅行時仍可將手機的 eSIM 熱點分享給手錶，或直接使用藍牙連線手機，手錶自動使用手機網路。出發前也別忘了確認 [手機與平板的 eSIM 支援型號清單](/compatibility/)。
 
 > **專業提示**：如果您的手錶是 Apple Watch 蜂巢版，且 iPhone 使用旅行 eSIM，手錶會自動透過藍牙/Wi-Fi 共用 iPhone 的數據，無需在手錶上另買 eSIM。只有當您想完全不帶手機出門跑步、游泳時，才需要為手錶獨立申辦 eSIM。
 

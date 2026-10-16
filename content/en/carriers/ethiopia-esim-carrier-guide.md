@@ -6,6 +6,7 @@ description: "Buy an Ethiopia eSIM from Roami. Enjoy prepaid data on Ethio Telec
 image: "img/esim/carriers/ethiopia-esim-carrier-guide.webp"
 
 date: "2026-09-25"
+lastmod: 2026-10-16T00:00:00Z
 
 keywords: Ethiopia eSIM, Ethiopia eSIM carrier, Ethio Telecom, Safaricom, dual-SIM, travel eSIM, avoid roaming fees, Lalibela, 5G, local data plan
 
@@ -741,7 +742,7 @@ Install the profile on home Wi-Fi, switch on data roaming, and step off the plan
 
 
 
-[Compare Ethiopia eSIM plans](/ethiopia-esim/) · [Claim the free trial](/free-esim/) · [Ethiopia eSIM page](/ethiopia-esim/)
+[Compare Ethiopia eSIM plans](/carriers/ethiopia-esim-carrier-guide/) · [Claim the free trial](/free-esim/) · [Ethiopia eSIM page](/carriers/ethiopia-esim-carrier-guide/)
 
 
 

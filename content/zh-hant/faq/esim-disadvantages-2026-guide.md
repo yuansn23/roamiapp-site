@@ -4,7 +4,7 @@ h1_title: "eSIM 的 8 個缺點：購買前必知的限制與旅行風險（2026
 description: "eSIM 雖方便，但設備相容性有限、轉移困難、旅行啟用失敗、隱私風險及中國版不支援等缺點常被忽略。本文深入分析 8 個關鍵限制，幫助你做出明智選擇。"
 keywords: ["eSIM 缺點", "eSIM 限制", "eSIM 優缺點", "eSIM 轉移問題", "eSIM 相容性", "eSIM 旅行風險", "eSIM 安全", "eSIM 不支援"]
 date: 2026-09-21T00:00:00Z
-lastmod: 2026-09-21T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 tags: ["eSIM", "缺點", "分析", "2026"]
 toc: true
 
@@ -22,7 +22,7 @@ breadcrumbs:
     url: "/"
   parent:
     text: "eSIM 指南"
-    url: "/guides/"
+    url: "/blog/"
 
 sidebar_popular:
   title: "熱門 eSIM"

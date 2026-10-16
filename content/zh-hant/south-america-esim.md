@@ -2,7 +2,7 @@
 title: 南美 eSIM | 11 國通用，5G 最低 $1.99
 description: 一張預付 Roami eSIM 探索南美 — 南美旅行首選。巴西、阿根廷、智利、哥倫比亞、秘魯及 6 國皆享 5G 網路，當地網路即時啟用。方案 $1.99 起。
 date: '2026-09-08'
-lastmod: '2026-09-08'
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 breadcrumbs:
 - name: 首頁
@@ -203,7 +203,7 @@ countries:
     flag_image: /img/flags/py.svg
     network: 4G
   - name: 委內瑞拉
-    url: /venezuela-esim/
+    url: /carriers/venezuela-esim-carrier-guide/
     flag: 🇻🇪
     carriers: Movistar, Digitel
     is_popular: false

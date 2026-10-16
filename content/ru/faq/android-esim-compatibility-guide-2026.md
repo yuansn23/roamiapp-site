@@ -4,7 +4,7 @@ h1_title: "Смартфоны на Android с поддержкой eSIM: пол�
 description: "Список смартфонов Android с eSIM: Xiaomi, Huawei, Pixel, OnePlus и другие. Проверка поддержки через #06#, активация, перенос eSIM. Бесплатный пробный eSIM внутри"
 keywords: ["android esim 2026", "xiaomi 14t pro esim", "xiaomi 15t pro esim", "redmi note 11 pro 5g esim", "realme 12 pro plus esim", "huawei p60 pro esim", "honor magic 6 pro esim", "google pixel 8 esim", "oppo find x7 pro esim", "vivo x100 pro esim", "oneplus 12 esim", "как узнать поддерживает ли телефон esim", "активация esim на андроид", "esim не работает андроид", "сколько esim можно хранить на андроид", "перенести esim на новый телефон", "лучший eSIM для путешествий андроид", "tecno esim", "infinix esim", "motorola esim", "nothing esim", "sony xperia esim", "nubia esim", "zte esim", "asus esim"]
 date: 2026-09-16T00:00:00Z
-lastmod: 2026-09-16T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 tags: ["Android", "eSIM", "Совместимость", "Xiaomi", "Realme", "Huawei", "Honor", "Google Pixel", "Oppo", "Vivo", "OnePlus", "Tecno", "Infinix", "Motorola", "Nothing", "Sony", "ZTE", "Nubia", "Asus"]
 toc: true
 
@@ -89,7 +89,7 @@ sidebar_questions:
     - question: "Как активировать eSIM?"
       url: "/faq/how-to-activate-an-esim/"
     - question: "Как активировать eSIM на Android?"
-      url: "/faq/how-to-activate-esim-on-android/"
+      url: "/ru/faq/how-to-activate-an-esim/"
     - question: "Актуальный список совместимости eSIM"
       url: "/compatibility/"
 ---

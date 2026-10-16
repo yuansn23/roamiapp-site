@@ -1,6 +1,7 @@
 ---
 title: "Globale eSIM | 5G-Daten in 200+ Ländern ab 1,99$  -Roami"
 date: '2026-06-04T00:00:00+00:00'
+lastmod: 2026-10-16T00:00:00Z
 description: "Bleiben Sie mit Roami eSIM in 200+ Ländern verbunden. Sofortige 5G-Aktivierung. Keine physische SIM erforderlich. Tarife ab 1,99 $"
 
 
@@ -129,7 +130,7 @@ destinations:
           tags: ["Insel-Abdeckung"]
         - flag: "lk.svg"
           name: "Sri Lanka eSIM"
-          slug: "sri-lanka-esim"
+          slug: "asia-esim"
           price: "Ab 1,99 $"
           tags: ["Highspeed"]
         - flag: "sg.svg"

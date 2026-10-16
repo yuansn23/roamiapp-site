@@ -2,6 +2,7 @@
 title: "eSIM carriers for 50+ countries, compared on 4G and 5G"
 description: "Roami compares eSIM carriers across 50+ countries, from 4G reach to 5G speed, so you land on the right network everywhere."
 date: "2026-09-27"
+lastmod: 2026-10-16T00:00:00Z
 # Hero Section & Breadcrumbs
 hero:
   breadcrumb_home: "Home"
@@ -46,7 +47,7 @@ sidebar:
   search_placeholder: "Search country (e.g., Japan, USA)..."
   no_results_text: "No matching countries found"
   no_results_link_text: "View global eSIM plans &rarr;"
-  no_results_link_url: "/esim/global"
+  no_results_link_url: "/plans"
   regions:
     - name: "All Countries"
       links:
@@ -1113,7 +1114,7 @@ countries:
     btn_details_text: "Details on Venezuela eSIM carriers"
     btn_details_url: "/carriers/venezuela-esim-carrier-guide/"
     btn_buy_text: "Buy Venezuela eSIM"
-    btn_buy_url: "/venezuela-esim/"
+    btn_buy_url: "/carriers/venezuela-esim-carrier-guide/"
     Carriers:
       - name: "Digitel"
         color: "text-blue-600"

@@ -2,7 +2,7 @@
 title: "Europa eSIM | Günstigster Prepaid Tarif für 40+ Länder"
 description: "Reisen Sie durch Europa mit Roami. Tarife für jedes Land, zuverlässige Verbindung überall. Deckt 40+ Länder ab."
 date: '2026-06-26T00:00:00+00:00'
-lastmod: 2026-06-26
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 breadcrumbs:
 - name: Startseite
@@ -280,7 +280,7 @@ countries:
     flag_image: /img/flags/ad.svg
     network: 4G
   - name: Monaco
-    url: /monaco-esim/
+    url: /europe-esim/
     flag: 🇲🇨
     carriers: Monaco Telecom
     is_popular: false

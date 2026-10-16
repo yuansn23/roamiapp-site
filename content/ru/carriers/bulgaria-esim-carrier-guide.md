@@ -7,6 +7,7 @@ description: "Откройте Болгарию с eSIM от Roami. Получи
 image: "img/esim/carriers/bulgaria-esim-carrier-guide.webp"
 
 date: "2026-10-06"
+lastmod: 2026-10-16T00:00:00Z
 
 keywords: Болгария eSIM, раздача интернета, A1 Bulgaria, Yettel, Vivacom, travel eSIM, без роуминговых сборов, связь в Софии, Александро-Невский собор, стабильный интернет
 
@@ -178,7 +179,7 @@ hero_subtitle_main: "Цены A1, Yettel и Vivacom — что на самом �
 
 - [Тарифы eSIM Сербии](/serbia-esim/)
 
-- [eSIM Северной Македонии](/north-macedonia-esim/)
+- [eSIM Северной Македонии](/carriers/north-macedonia-esim-carrier-guide/)
 
 - [Тарифы eSIM Турции](/turkey-esim/)
 

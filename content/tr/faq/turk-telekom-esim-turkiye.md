@@ -4,7 +4,7 @@ h1_title: "Türk Telekom eSIM 2026: Nasıl Alınır, Tarifeler ve Cihaz Uyumlulu
 description: "Türk Telekom eSIM rehberi 2026: Türk Telekom eSIM fiyatları, nasıl alınır, online işlemler ve mağaza aktivasyonu, QR kod kurulumu, hazır kart ve faturalı tarifeler, 5G uyumu."
 keywords: ["turk telekom esim", "esim turk telekom", "turk telekom esim nasıl alınır", "turk telekom esim fiyat", "turk telekom esim aktivasyon", "turk telekom hazır kart esim", "turk telekom qr kod esim", "turk telekom esim destekleyen telefonlar", "turk telekom esim turkiye", "turk telekom esim 2026", "turk telekom esim kurulum", "turk telekom esim faturalı", "turk telekom online işlemler esim", "turk telekom 5g esim", "türk telekom esim"]
 date: 2026-09-24T00:00:00Z
-lastmod: 2026-09-24T12:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 tags: ["Türk Telekom", "eSIM", "Türkiye", "Aktivasyon", "Hazır Kart", "Faturalı", "Online İşlemler", "5G", "QR Kod"]
 toc: true
 
@@ -23,7 +23,7 @@ breadcrumbs:
     url: "/"
   parent:
     text: "Operatöre Göre eSIM"
-    url: "/operator/"
+    url: "/carriers/"
 
 
 # Sidebar: Popular eSIMs
@@ -89,7 +89,7 @@ sidebar_questions:
     - question: "eSIM etkinleştirme nedir ve nasıl çalışır?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "eSIM nasıl etkinleştirilir?"
-      url: "/faq/how-to-activate-an-esim//"
+      url: "/tr/faq/how-to-activate-an-esim/"
     - question: "iPhone'da eSIM nasıl etkinleştirilir (Tüm Modeller)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Güncel eSIM Uyumluluk Listesi"

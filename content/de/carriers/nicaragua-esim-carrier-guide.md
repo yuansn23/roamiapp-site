@@ -3,6 +3,7 @@ title: "Nicaragua eSIM: Claro oder Tigo auf Ihrer Route?"
 description: "Nicaragua eSIM im Vergleich: Claro und Tigo nach Abdeckung, Preis und Registrierung – dazu APN, Aktivierung und Tipps für die Karibikküste."
 image: "img/esim/carriers/nicaragua-esim-carrier-guide.webp"
 date: "2026-09-24T20:03:55+00:00"
+lastmod: 2026-10-16T00:00:00Z
 keywords: Nicaragua eSIM-Netzbetreiber, Claro eSIM, Tigo eSIM, Nicaragua eSIM-Netz, eSIM Nicaragua Prepaid, bester eSIM-Netzbetreiber Nicaragua, Nicaragua Reise-eSIM
 
 
@@ -334,7 +335,7 @@ Nur Drittanbieter-Messungen. Lokale Prepaid-Preise sind ungefähre Einzelhandels
 
 Zwei Netze, ein Anmeldeschalter, null Grund, den Ankunftstag in einer Warteschlange zu verbringen. Installieren Sie ein Profil, das die Netzabdeckung von Claro von Granada bis zu den Corn Islands nutzt, behalten Sie Ihre Heimatnummer für Codes aktiv, und erledigen Sie den Papierkram im Hintergrund. [Aktuelle Tarife ansehen](/plans/), kostenlosen Netztest durchführen, wenn Sie vorher einen Beweis möchten, und den Promo-Code **WEB20** beim Checkout eingeben, um 20 % zu sparen.
 
-[Nicaragua eSIM kaufen](/nicaragua-esim/)
+[Nicaragua eSIM kaufen](/carriers/nicaragua-esim-carrier-guide/)
 
 [Kostenlosen Nicaragua-Test starten](/free-esim/)
 

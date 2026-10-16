@@ -2,7 +2,7 @@
 title: Южная Америка eSIM | 11 стран, 5G от 1,99 $
 description: Исследуйте Южную Америку с одной предоплаченной eSIM Roami — лучшая eSIM для путешествий по Южной Америке. 5G в Бразилии, Аргентине, Чили, Колумбии, Перу и ещё 6 странах. Мгновенная активация в местных сетях. Тарифы от 1,99 $.
 date: '2026-09-08'
-lastmod: '2026-09-08'
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 breadcrumbs:
 - name: Главная
@@ -203,7 +203,7 @@ countries:
     flag_image: /img/flags/py.svg
     network: 4G
   - name: Венесуэла
-    url: /venezuela-esim/
+    url: /carriers/venezuela-esim-carrier-guide/
     flag: 🇻🇪
     carriers: Movistar, Digitel
     is_popular: false

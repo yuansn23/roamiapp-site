@@ -7,6 +7,7 @@ description: "保加利亞 eSIM 該辦哪一家電信業者？Roami 以歐元計
 image: "img/esim/carriers/bulgaria-esim-carrier-guide.webp"
 
 date: "2026-09-27T01:44:30+00:00"
+lastmod: 2026-10-16T00:00:00Z
 
 keywords: 保加利亞 eSIM, 熱點網路共享, A1 保加利亞, Yettel, Vivacom, 旅遊 eSIM, 免漫遊費, Sofia 連線, Alexander Nevsky Cathedral, 無縫數據
 
@@ -180,7 +181,7 @@ hero_subtitle_main: "A1、Yettel 和 Vivacom 的價格 — 最新網路數據實
 
 - [塞爾維亞 eSIM 方案](/serbia-esim/)
 
-- [北馬其頓 eSIM](/north-macedonia-esim/)
+- [北馬其頓 eSIM](/carriers/north-macedonia-esim-carrier-guide/)
 
 - [土耳其 eSIM 方案](/turkey-esim/)
 

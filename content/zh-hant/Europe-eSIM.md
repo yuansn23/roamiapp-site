@@ -2,7 +2,7 @@
 title: "歐洲eSIM｜40+國家一卡通用，5G上網吃到飽$1.99起"
 description: "用Roami eSIM暢遊歐洲，法國巴黎到德國柏林一卡通用40+國家隨處穩定連線。5G高速上網吃到飽最低$1.99起，免綁約即買即用，跨國旅行不斷網超方便。"
 date: '2026-06-17T00:00:00+00:00'
-lastmod: 2026-09-08
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 breadcrumbs:
 - name: 首頁
@@ -280,7 +280,7 @@ countries:
     flag_image: /img/flags/ad.svg
     network: 4G
   - name: 摩納哥
-    url: /monaco-esim/
+    url: /europe-esim/
     flag: 🇲🇨
     carriers: Monaco Telecom
     is_popular: false

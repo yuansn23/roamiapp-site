@@ -3,6 +3,7 @@ title: "Travel Myanmar eSIM | MPT, Ooredoo & ATOM Coverage"
 description: "Need mobile data in Myanmar? Roami eSIM offers prepaid plans on MPT, Ooredoo & ATOM networks, with easy setup and reliable coverage."
 image: "img/esim/carriers/myanmar-esim-carrier-guide.webp"
 date: "2026-09-21"
+lastmod: 2026-10-16T00:00:00Z
 keywords: Myanmar eSIM carriers, ATOM eSIM, MPT eSIM, Mytel eSIM, U9 eSIM, Myanmar travel eSIM, Myanmar tourist SIM, Myanmar internet shutdown, Myanmar APN, Telenor Myanmar ATOM
 site_name: Roami
 brand_name: Roami
@@ -325,7 +326,7 @@ A Roami Myanmar eSIM arrives already carrying the local networks and attaches to
 
 Rather test the connection before you pay? The trial costs nothing. When you are ready, code **WEB20** knocks **20% off** any paid plan — [see what coverage is available](/plans/) first. Starting fresh with a new provider? Begin with the [free Myanmar trial eSIM](/free-esim/).
 
-[Get your Myanmar eSIM](/myanmar-esim/)
+[Get your Myanmar eSIM](/carriers/myanmar-esim-carrier-guide/)
 
 [Start with the free Myanmar trial](/free-esim/)
 

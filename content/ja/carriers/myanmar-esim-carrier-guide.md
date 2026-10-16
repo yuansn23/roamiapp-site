@@ -3,6 +3,7 @@ title: "ミャンマーeSIM：ATOM、MPT、Mytelで実際に機能するもの"
 description: "ミャンマーeSIM：RoamiがATOM、MPT、Mytelの実際の提供内容を検証。パスポート登録規則、MMKプラン、率直な限界も解説します。"
 image: "img/esim/carriers/myanmar-esim-carrier-guide.webp"
 date: "2026-09-24T11:50:09+00:00"
+lastmod: 2026-10-16T00:00:00Z
 keywords: ミャンマー eSIMキャリア, ATOM eSIM, MPT eSIM, Mytel eSIM, U9 eSIM, ミャンマー トラベルeSIM, ミャンマー 観光SIM, ミャンマー インターネット遮断, ミャンマー APN, Telenor Myanmar ATOM
 site_name: Roami
 brand_name: Roami
@@ -326,7 +327,7 @@ RoamiのミャンマーeSIMは、最初から現地ネットワークを搭載�
 
 支払う前に接続を試しますか？ トライアルは無料です。準備ができたら、コード**WEB20**がどの有料プランも**20%オフ**にします —— まず[利用可能なカバレッジを確認](/plans/)してください。新しい事業者で一から始めるなら、[無料のミャンマートライアルeSIM](/free-esim/)から。
 
-[ミャンマーeSIMを入手](/myanmar-esim/)
+[ミャンマーeSIMを入手](/carriers/myanmar-esim-carrier-guide/)
 
 [無料のミャンマートライアルで始める](/free-esim/)
 

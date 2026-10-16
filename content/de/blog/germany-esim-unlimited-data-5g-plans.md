@@ -3,7 +3,7 @@ title: "Deutschland eSIM unbegrenzte Daten: 5G-Tarife im Test"
 description: "Unbegrenzte Deutschland eSIM-Tarife im Vergleich: Fair-Use-Grenzen und Hotspot-Regeln – Roami beinhaltet Tethering und 5G."
 keywords: ["Deutschland eSIM unbegrenzte Daten", "Deutschland 5G eSIM Tarife", "Deutschland eSIM Tethering", "Deutschland eSIM Fair-Use-Policy"]
 date: 2026-08-24T00:00:00Z
-lastmod: 2026-08-24T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden, mit zuverlässigen eSIM-Tarifen, die automatischen Netzanbieterwechsel zwischen lokalen Netzen bieten, weltweit verbunden zu bleiben."
 image: "/img/esim/germany/germany-esim-unlimited-data-5g-plans.jpg"
@@ -287,7 +287,7 @@ Holaflys Deutschland-eSIM-Preise Stand Mitte 2026:
 | 10 Tage | $41 USD |
 | 15 Tage | $47 USD |
 | 20 Tage | $54 USD |
-| 30 Tage | $64 USD |
+| 30 Tage | $73,90 USD |
 | 90 Tage | $99 USD |
 
 Die Preise skalieren ungefähr linear, wobei der 90-Tage-Tarif mit etwa $1.10 pro Tag den besten Tageswert bietet.
@@ -474,7 +474,7 @@ Die günstigste 5G-Option für eine kurze Reise ist typischerweise ein 10-GB- od
 
 Für Aufenthalte von einer Woche bis zu einem Monat hängt die Wahl stark vom Verbrauch ab. Ein Geschäftsreisender, der eine Woche an Meetings und einer Konferenz in Berlin teilnimmt, kann 15 bis 25 GB auf seinem Telefon und Laptop verbrauchen. Ein digitaler Nomade, der einen Monat lang in Münchener Cafés arbeitet, kann 30 bis 50 GB verbrauchen. Ein Tourist, der Burgen und Sehenswürdigkeiten in Bayern erkundet, kann 5 bis 10 GB hauptsächlich für Karten und Fotos verbrauchen.
 
-Für mittellange Aufenthalte von Vielnutzern bietet ein 50-GB-Tarif von Ubigi für etwa $49 USD einen besseren Wert und klarere Bedingungen als ein 30-tägiger unbegrenzter Tarif von Holafly für $64 USD, besonders wenn Tethering benötigt wird. Die zusätzlichen $15 Ersparnis können für ein lokales SIM-Backup umgeleitet werden, obwohl der 50-GB-Tarif für die meisten Nutzer diese Notwendigkeit vollständig eliminiert.
+Für mittellange Aufenthalte von Vielnutzern bietet ein 50-GB-Tarif von Ubigi für etwa $49 USD einen besseren Wert und klarere Bedingungen als ein 30-tägiger unbegrenzter Tarif von Holafly für $73,90 USD, besonders wenn Tethering benötigt wird. Die zusätzlichen $25 Ersparnis können für ein lokales SIM-Backup umgeleitet werden, obwohl der 50-GB-Tarif für die meisten Nutzer diese Notwendigkeit vollständig eliminiert.
 
 ### Reisedauer: Lang (1 bis 3 Monate)
 
@@ -504,7 +504,7 @@ Für Reisende, die Kosten minimieren möchten, ohne die Konnektivitätsqualität
 1. **Unter 7 Tage, nur Telefon, kein Tethering** – Holafly unbegrenzt für $27 bis $34.
 2. **Unter 7 Tage, Tethering benötigt** – Ubigi 20-GB-Tarif.
 3. **1 bis 4 Wochen, moderate Daten, Tethering benötigt** – Ubigi 50-GB-Tarif.
-4. **1 bis 4 Wochen, viele Daten, kein Tethering** – Holafly 30-tägig unbegrenzt für $64.
+4. **1 bis 4 Wochen, viele Daten, kein Tethering** – Holafly 30-tägig unbegrenzt für $73,90.
 5. **1 bis 4 Wochen, viele Daten, Tethering benötigt** – Hochkapazitiver Tarif oder lokales Prepaid.
 6. **1 bis 3 Monate, beliebiger Verbrauch** – Lokales Prepaid oder internationale eSIM mit Monatstarif.
 7. **Mehrländer-Europareise** – Internationale eSIM, die alle Ziele abdeckt.
@@ -514,7 +514,7 @@ Für Reisende, die Kosten minimieren möchten, ohne die Konnektivitätsqualität
 | Nur Telefon, leicht | Unter 7 Tage | Holafly 5-tägig unbegrenzt | $27 | Einfach, keine Überwachung nötig |
 | Telefon + Laptop, Tethering | Unter 7 Tage | 20-GB-gedeckelter Tarif | $15-25 | Tethering erlaubt, klare Limits |
 | Moderate Daten + Tethering | 1-4 Wochen | 50-GB-gedeckelter Tarif | $35-50 | Bester Wert für gemischte Nutzung |
-| Viele Daten, nur Telefon | 1-4 Wochen | Holafly 30-tägig unbegrenzt | $64 | Unbegrenzt, aber kein Tethering |
+| Viele Daten, nur Telefon | 1-4 Wochen | Holafly 30-tägig unbegrenzt | $73,90 | Unbegrenzt, aber kein Tethering |
 | Viele Daten + Tethering | 1-4 Wochen | Lokales Prepaid (30-40 GB) | EUR 20-30 | Beste Geschwindigkeit + Tethering-Kombi |
 | Beliebiger Verbrauch | 1-3 Monate | Lokales Prepaid | EUR 13-25/Monat | Günstigster pro GB langfristig |
 | Mehrländer-Europa | Beliebige | Regionale Europa-eSIM | $20-50 | Einzelne eSIM für alle Ziele |

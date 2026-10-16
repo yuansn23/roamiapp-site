@@ -1,6 +1,7 @@
 ---
 title: "Plans"
 date: "2026-06-07T08:51:27+00:00"
+lastmod: 2026-10-16T00:00:00Z
 layout: "plans"
 type: "page"
 
@@ -405,7 +406,7 @@ all_countries:
     slug: "morocco"
   - name: "Намибия"
     code: "na"
-    slug: "namibia"
+    slug: "africa"
   - name: "Непал"
     code: "np"
     slug: "nepal"
@@ -474,7 +475,7 @@ all_countries:
     slug: "spain"
   - name: "Шри-Ланка"
     code: "lk"
-    slug: "sri-lanka"
+    slug: "asia"
   - name: "Швеция"
     code: "se"
     slug: "sweden"

@@ -2,7 +2,7 @@
 title: 南米 eSIM | 11か国、5G対応、$1.99から
 description: "Roami南米eSIM：ブラジル、アルゼンチン、チリ、コロンビア、ペルー、その他6か国でプリペイド5G。即時アクティベーション、ローミング料金なし。$1.99から。"
 date: '2026-06-11'
-lastmod: '2026-06-11'
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 breadcrumbs:
 - name: ホーム
@@ -203,7 +203,7 @@ countries:
     flag_image: /img/flags/py.svg
     network: 4G
   - name: ベネズエラ
-    url: /venezuela-esim/
+    url: /carriers/venezuela-esim-carrier-guide/
     flag: 🇻🇪
     carriers: Movistar、Digitel
     is_popular: false

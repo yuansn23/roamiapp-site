@@ -2,7 +2,7 @@
 title: eSIM อเมริกาใต้ | 11 ประเทศ, 5G เริ่ม $1.99
 description: "Roami eSIM อเมริกาใต้: 5G แบบเติมเงินในบราซิล อาร์เจนตินา ชิลี โคลอมเบีย เปรู และอีก 6 ประเทศ เปิดใช้งานทันที ไม่มีค่าโรมมิ่ง เริ่ม $1.99"
 date: '2026-09-07'
-lastmod: '2026-09-07'
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 breadcrumbs:
 - name: หน้าแรก
@@ -203,7 +203,7 @@ countries:
     flag_image: /img/flags/py.svg
     network: 4G
   - name: เวเนซุเอลา
-    url: /venezuela-esim/
+    url: /carriers/venezuela-esim-carrier-guide/
     flag: 🇻🇪
     carriers: Movistar, Digitel
     is_popular: false

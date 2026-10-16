@@ -3,6 +3,7 @@ title: "Prepaid Namibia eSIM Data | MTC, TN Mobile & Paratus"
 description: "Explore Namibia with Roami eSIM. Access fast 5G prepaid data on MTC, TN Mobile & Paratus networks, perfect for tourists and remote workers."
 image: "img/esim/carriers/namibia-esim-carrier-guide.webp"
 date: "2026-09-21"
+lastmod: 2026-10-16T00:00:00Z
 keywords: Namibia eSIM carriers, MTC eSIM, TN Mobile eSIM, Paratus eSIM, Namibia travel eSIM, Namibia tourist SIM, Etosha connectivity, Namibia APN, Namibia self-drive internet, CRAN Namibia
 site_name: Roami
 brand_name: Roami
@@ -326,6 +327,6 @@ A Roami Namibia eSIM spans the local networks — including MTC's rural footprin
 
 First time with Roami? The trial costs nothing. When you commit, code **WEB20** cuts **20% off** any paid plan — [check current coverage](/plans/) and the [free starter eSIM](/free-esim/) is the no-risk place to begin.
 
-[Get a Namibia eSIM](/namibia-esim/)
+[Get a Namibia eSIM](/carriers/namibia-esim-carrier-guide/)
 
 [Free Namibia trial first](/free-esim/)

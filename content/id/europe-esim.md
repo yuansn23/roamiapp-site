@@ -2,7 +2,7 @@
 title: "eSIM Eropa 5G | 40+ Negara Cukup 1 eSIM"
 description: "Internet 5G di Inggris, Prancis, Italia & 40+ negara Eropa. Aktivasi instan tanpa ganti SIM fisik. Paket data tak terbatas mulai $1.99"
 date: '2026-08-24T00:00:00+00:00'
-lastmod: 2026-08-24
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 
 breadcrumbs:
@@ -315,7 +315,7 @@ countries:
     flag_image: /img/flags/ad.svg
     network: 4G
   - name: Monako
-    url: /monaco-esim/
+    url: /europe-esim/
     flag: 🇲🇨
     carriers: Monaco Telecom
     is_popular: false

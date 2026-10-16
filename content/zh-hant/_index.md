@@ -2,6 +2,7 @@
 title: "全球eSIM｜200+國家5G上網吃到飽，出國最低$1.99 -Roami"
 description: "Roami 在 200 多個國家和地區提供高速 5G 預付 eSIM – 無需實體 SIM 卡，方案最低只需 $1.99 起。使用優惠碼 web20 即可享額外 8 折優惠。立即下載 Roami App。提供台灣 eSIM 預付卡、中華電信 eSIM 替代方案，讓您出國流量吃到飽。"
 date: '2026-06-14T00:00:00+00:00'
+lastmod: 2026-10-16T00:00:00Z
 
 button:
   default: "取得 8 折優惠"
@@ -289,7 +290,7 @@ destinations:
           tags: ["高速網路"]
         - flag: "et.svg"
           name: "衣索比亞 eSIM"
-          slug: "ethiopia-esim"
+          slug: "africa-esim"
           price: "$1.99 起"
           tags: ["無限數據"]
         - flag: "gh.svg"

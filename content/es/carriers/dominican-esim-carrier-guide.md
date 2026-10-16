@@ -3,6 +3,7 @@ title: "eSIM para República Dominicana: Claro, Altice o Viva"
 description: "Roami compara Claro, Altice y Viva para una eSIM para República Dominicana, desde los resorts de Punta Cana hasta Santo Domingo."
 image: "img/esim/carriers/dominican-esim-carrier-guide.webp"
 date: "2026-09-30T16:13:34+00:00"
+lastmod: 2026-10-16T00:00:00Z
 keywords: operadores de eSIM en República Dominicana, eSIM para Punta Cana, eSIM de Claro, eSIM de Altice Dominicana, eSIM de Viva, cobertura 5G en República Dominicana, eSIM prepago República Dominicana, mejor operador de eSIM en República Dominicana, eSIM Samaná
 site_name: Roami
 brand_name: Roami
@@ -22,7 +23,7 @@ República Dominicana es una paradoja de conectividad caribeña. A nivel naciona
 
 Esta guía compara las tres redes para la forma real en que la gente visita — resorts, capitales y viajes por carretera entre ellas — y luego cubre la parte que la mayoría de guías omite: las **reglas obligatorias de registro de SIM e IMEI** de República Dominicana, que condicionan toda compra local. Vale la pena confirmarlo en el [tool de compatibilidad eSIM](/compatibility/) antes de comprometerse con algo.
 
-**Veredicto rápido:** Claro es el valor por defecto para visitantes — la huella más amplia, incluyendo las zonas de resorts y la carretera hacia Samaná, con 5G activo en las principales ciudades. Altice registra las velocidades urbanas más rápidas en Santo Domingo y Santiago, pero se debilita más rápido fuera de ellas. Viva es la opción 4G económica para estancias cortas en resorts. Toda SIM local exige registro presencial con pasaporte y un IMEI registrado, así que para viajes de menos de dos semanas una eSIM de viaje [eSIM República Dominicana](/dominican-esim/) instalada antes de partir es la ruta sin fricciones.
+**Veredicto rápido:** Claro es el valor por defecto para visitantes — la huella más amplia, incluyendo las zonas de resorts y la carretera hacia Samaná, con 5G activo en las principales ciudades. Altice registra las velocidades urbanas más rápidas en Santo Domingo y Santiago, pero se debilita más rápido fuera de ellas. Viva es la opción 4G económica para estancias cortas en resorts. Toda SIM local exige registro presencial con pasaporte y un IMEI registrado, así que para viajes de menos de dos semanas una eSIM de viaje [eSIM República Dominicana](/dominican-republic-esim/) instalada antes de partir es la ruta sin fricciones.
 
 ## Cómo elegir a un operador de eSIM en República Dominicana según su itinerario
 
@@ -129,7 +130,7 @@ Si su teléfono está bloqueado por un operador de Estados Unidos, verifique su 
 
 ## Cuánto cuesta una eSIM en República Dominicana frente a las opciones locales
 
-Como los precios cambian más rápido que los artículos, los planes actuales —solo datos e ilimitados— se mantienen en la [página de eSIM de República Dominicana](/dominican-esim/). Los referentes públicos lo sitúan así:
+Como los precios cambian más rápido que los artículos, los planes actuales —solo datos e ilimitados— se mantienen en la [página de eSIM de República Dominicana](/dominican-republic-esim/). Los referentes públicos lo sitúan así:
 
 El panorama nacional, según el Índice Global de Ookla de agosto de 2026: **125,69 Mbps** de mediana de descarga móvil y 19 ms de latencia, ubicando al país en el **puesto 34**, por encima de la mediana mundial de 109,05 Mbps.
 
@@ -366,9 +367,9 @@ Una mediana provincial describe una provincia, no una tumbona.
 
 Saltarse el mostrador de registro es exactamente la idea: sin papeleo de IMEI, sin cola en la tienda y sin riesgo de que una línea del mercado gris le sea cortada a mitad de las vacaciones.
 
-Elija un [plan de eSIM para República Dominicana](/dominican-esim/), o [pruebe uno gratis](/free-esim/) antes de comprometerse.
+Elija un [plan de eSIM para República Dominicana](/dominican-republic-esim/), o [pruebe uno gratis](/free-esim/) antes de comprometerse.
 
-[Comprar eSIM de República Dominicana](/dominican-esim/)
+[Comprar eSIM de República Dominicana](/dominican-republic-esim/)
 
 *Comience con la prueba gratuita*
 

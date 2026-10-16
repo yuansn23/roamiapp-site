@@ -5,6 +5,7 @@ description: "Roami compara los precios de A1, Yettel y Vivacom para una eSIM de
 image: "img/esim/carriers/bulgaria-esim-carrier-guide.webp"
 
 date: "2026-10-01T01:44:30+00:00"
+lastmod: 2026-10-16T00:00:00Z
 
 keywords: eSIM de Bulgaria, tethering de punto de acceso, A1 Bulgaria, Yettel, Vivacom, eSIM de viaje, sin tasas de roaming, conectividad en Sofía, Catedral Alexander Nevsky, datos sin interrupciones
 
@@ -179,7 +180,7 @@ Dos detalles conviene aclarar. Desde el 1 de julio de 2021, las seis economías 
 
 - [Planes eSIM Serbia](/serbia-esim/)
 
-- [eSIM Macedonia del Norte](/north-macedonia-esim/)
+- [eSIM Macedonia del Norte](/carriers/north-macedonia-esim-carrier-guide/)
 
 - [Planes eSIM Türkiye](/turkey-esim/)
 

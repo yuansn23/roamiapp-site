@@ -4,7 +4,7 @@ h1_title: "Claro eSIM Brasil 2026: Guia Completo de Preços, Ativação e Planos
 description: "Guia completo do Claro eSIM no Brasil 2026. Preços atualizados, como ativar, dispositivos compatíveis, planos pré-pago e pós-pago, QR Code e comparação com Vivo e TIM."
 keywords: ["esim claro", "claro esim", "esim da claro", "comprar esim claro", "ativar esim claro", "como ativar esim claro", "chip esim claro", "qr code esim claro", "esim claro pré pago", "esim claro comprar", "claro esim preço", "esim claro iphone", "esim claro android", "claro brasil esim", "esim claro 2026"]
 date: 2026-09-23T00:00:00Z
-lastmod: 2026-09-23T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 image: "/img/faq/claro-esim-brasil.webp"
 tags: ["Claro", "eSIM", "Brasil", "Ativação", "Planos", "Pré-pago", "Pós-pago", "5G", "Roaming", "Vivo", "TIM"]
 toc: true
@@ -25,7 +25,7 @@ breadcrumbs:
     url: "/"
   parent:
     text: "eSIM por Operadora"
-    url: "/operadoras/"
+    url: "/carriers/"
 
 sidebar_popular:
   title: "eSIMs Populares"
@@ -34,7 +34,7 @@ sidebar_popular:
     - name: "Brasil eSIM"
       flag: "/img/flags/br.svg"
       price: "$1.99"
-      url: "/brasil-esim/"
+      url: "/pt/brazil-esim/"
       badge: "5G"
     - name: "USA eSIM"
       flag: "/img/flags/us.svg"
@@ -80,7 +80,7 @@ sidebar_questions:
     - question: "Meu celular é compatível com eSIM?"
       url: "/compatibility/"
     - question: "Claro tem eSIM no Brasil?"
-      url: "/claro-esim/"
+      url: "/pt/faq/claro-esim-brasil/"
 ---
 
 **Última atualização:** 24 de setembro de 2026 | Tempo de leitura: 14 minutos

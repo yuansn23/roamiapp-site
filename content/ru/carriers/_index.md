@@ -1,6 +1,7 @@
 ---
 title: "Глобальное руководство по eSIM-операторам | Покрытие сети и скорость"
 date: "2026-05-12T06:54:08+00:00"
+lastmod: 2026-10-16T00:00:00Z
 description: "Найдите лучшую мобильную сеть для вашего направления. Мы собрали детали eSIM-операторов для более чем 50 стран, включая подробный анализ покрытия 4G/5G."
 
 # Hero Section & Breadcrumbs
@@ -73,7 +74,7 @@ sidebar:
   search_placeholder: "Поиск страны (например, Япония, США)..."
   no_results_text: "Не найдено подходящих стран"
   no_results_link_text: "Посмотреть глобальные eSIM-планы &rarr;"
-  no_results_link_url: "/esim/global"
+  no_results_link_url: "/plans"
   regions:
     - name: "Все страны"
       links:
@@ -660,7 +661,7 @@ countries:
     btn_details_text: "Подробнее о eSIM-операторах Макао"
     btn_details_url: "/carriers/macau-esim-carrier-guide/"
     btn_buy_text: "Купить eSIM для Макао"
-    btn_buy_url: "/macau-esim/"
+    btn_buy_url: "/macao-esim/"
     Carriers:
       - name: "CTM"
         color: "text-blue-600"
@@ -1160,7 +1161,7 @@ countries:
     btn_details_text: "Подробнее о eSIM-операторах Венесуэлы"
     btn_details_url: "/carriers/venezuela-esim-carrier-guide/"
     btn_buy_text: "Купить eSIM для Венесуэлы"
-    btn_buy_url: "/venezuela-esim/"
+    btn_buy_url: "/carriers/venezuela-esim-carrier-guide/"
     Carriers:
       - name: "Digitel"
         color: "text-blue-600"

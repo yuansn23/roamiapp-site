@@ -3,6 +3,7 @@ title: "Nicaragua eSIM | Claro, Movistar & Tigo Coverage"
 description: "Buy a Nicaragua eSIM from Roami. Enjoy prepaid 5G data on Claro, Movistar & Tigo networks, with reliable coverage for tourists and workers."
 image: "img/esim/carriers/nicaragua-esim-carrier-guide.webp"
 date: "2026-09-21"
+lastmod: 2026-10-16T00:00:00Z
 keywords: Nicaragua eSIM carriers, Claro eSIM, Tigo eSIM, Nicaragua eSIM network, eSIM Nicaragua prepaid, best eSIM carrier Nicaragua, Nicaragua travel eSIM
 
 
@@ -334,7 +335,7 @@ Third-party measurements only. Local prepaid prices are approximate retail figur
 
 Two networks, one registration desk, zero reason to spend arrival day in a queue. Install a profile that roams Claro's map from Granada to the Corn Islands, keep your home number alive for codes, and let the paperwork go. [Check the current plans and coverage here](/plans/), [free coverage test](/free-esim/) if you want proof first, and apply promo code **WEB20** at checkout for 20% off.
 
-[Get my Nicaragua eSIM](/nicaragua-esim/)
+[Get my Nicaragua eSIM](/carriers/nicaragua-esim-carrier-guide/)
 
 [Start the free Nicaragua trial](/free-esim/)
 

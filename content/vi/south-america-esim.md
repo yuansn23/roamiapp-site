@@ -2,7 +2,7 @@
 title: South America eSIM | 11 Quốc gia, 5G từ $1.99
 description: "Roami South America eSIM: 5G trả trước tại Brazil, Argentina, Chile, Colombia, Peru và 6 quốc gia khác. Kích hoạt tức thì, không phí chuyển vùng. Từ $1.99."
 date: '2026-09-06'
-lastmod: '2026-09-06'
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 breadcrumbs:
 - name: Trang chủ
@@ -213,7 +213,7 @@ countries:
     flag_image: /img/flags/py.svg
     network: 4G
   - name: Venezuela
-    url: /venezuela-esim/
+    url: /carriers/venezuela-esim-carrier-guide/
     flag: 🇻🇪
     carriers: Movistar, Digitel
     is_popular: false

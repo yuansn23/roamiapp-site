@@ -2,7 +2,7 @@
 title: "eSIM ยุโรป | แผนเติมเงินที่ดีที่สุดสำหรับ 40+ ประเทศ"
 description: "เดินทางทั่วยุโรปด้วย eSIM เดินทางแบบเติมเงินหนึ่งเดียวจาก Roami ข้อมูล 5G ไม่จำกัดใน 40+ ประเทศ ไม่ต้องเปลี่ยนซิม ไม่มีค่าโรมมิ่ง ซื้อแผนออนไลน์ได้เลย"
 date: '2026-09-07T00:00:00+00:00'
-lastmod: 2026-09-07
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 
 breadcrumbs:
@@ -281,7 +281,7 @@ countries:
     flag_image: /img/flags/ad.svg
     network: 4G
   - name: โมนาโก
-    url: /monaco-esim/
+    url: /europe-esim/
     flag: 🇲🇨
     carriers: Monaco Telecom
     is_popular: false

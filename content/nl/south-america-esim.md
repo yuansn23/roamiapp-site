@@ -2,7 +2,7 @@
 title: Zuid-Amerika eSIM | 11 Landen, 5G vanaf $1.99
 description: "Roami Zuid-Amerika eSIM: Prepaid 5G in Brazilië, Argentinië, Chili, Colombia, Peru & 6 meer landen. Directe activering, geen roamingkosten. Vanaf $1.99."
 date: '2026-09-16'
-lastmod: '2026-09-16'
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 breadcrumbs:
 - name: Home
@@ -203,7 +203,7 @@ countries:
     flag_image: /img/flags/py.svg
     network: 4G
   - name: Venezuela
-    url: /venezuela-esim/
+    url: /carriers/venezuela-esim-carrier-guide/
     flag: 🇻🇪
     carriers: Movistar, Digitel
     is_popular: false

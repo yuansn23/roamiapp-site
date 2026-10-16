@@ -3,6 +3,7 @@ title: "イランで利用できるeSIMキャリア：MCI、Irancell、Rightel"
 description: "RoamiのイランeSIMキャリアガイドでは、MCI、Rightel、Irancellについて、5G速度、カバレッジ、旅行者に向けたコストパフォーマンスを比較しています。"
 image: "img/esim/carriers/iran-esim-carrier-guide.webp"
 date: "2026-09-25T06:03:02+00:00"
+lastmod: 2026-10-16T00:00:00Z
 keywords: イラン eSIM キャリア, イラン eSIM, MCI eSIM, Irancell eSIM, イラン旅行 eSIM, MCI, Hamrahe Aval, Rightel, イラン 5G, イラン向け eSIM, イラン プリペイド eSIM, イラン 観光 eSIM
 site_name: Roami
 brand_name: Roami
@@ -388,7 +389,7 @@ APN（Access Point Name）は、電話機がデータセッションを開く際
 
 ## 1ギガバイトのコスト
 
-イランは念入りに計画する人に報います。前もって両替した現金、IKA向けに手配した現地発行の観光回線、長い都市間区間の前に読み込んだオフライン地図。あなたと共に届くデータプロファイルが欲しい場合は、[イランeSIMプランを購入](/iran-esim/)し、自宅でインストールしてください。
+イランは念入りに計画する人に報います。前もって両替した現金、IKA向けに手配した現地発行の観光回線、長い都市間区間の前に読み込んだオフライン地図。あなたと共に届くデータプロファイルが欲しい場合は、[イランeSIMプランを購入](/carriers/iran-esim-carrier-guide/)し、自宅でインストールしてください。
 
 データ専用プロファイルの挙動になじみがない場合、仕組みはどこでも同一です。[eSIM有効化の解説](/faq/what-is-esim-activation-and-how-does-it-work/)で、コードをスキャンした際に何が起きるかを説明しています。*Roamiを初めて利用するお客様は、無料トライアルeSIMから始められます* ― [こちらで取得](/free-esim/)（いつでも解除可能）。また、[中東eSIMプラン](/middle-east-esim/)ページには、イランを含むカバレッジを持つ地域バンドルを掲載しています。
 

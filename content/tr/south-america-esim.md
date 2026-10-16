@@ -2,7 +2,7 @@
 title: Güney Amerika eSIM | 11 Ülke, 5G $1.99'dan başlayan
 description: "Roami Güney Amerika eSIM: Brezilya, Arjantin, Şili, Kolombiya, Peru ve 6 ülke daha için ön ödemeli 5G. Anında etkinleştirme, dolaşım ücreti yok. $1.99'dan başlayan fiyatlarla."
 date: '2026-06-11'
-lastmod: '2026-06-11'
+lastmod: 2026-10-16T00:00:00Z
 type: regional-esim
 breadcrumbs:
 - name: Ana Sayfa
@@ -229,7 +229,7 @@ countries:
     flag_image: /img/flags/py.svg
     network: 4G
   - name: Venezuela
-    url: /venezuela-esim/
+    url: /carriers/venezuela-esim-carrier-guide/
     flag: 🇻🇪
     carriers: Movistar, Digitel
     is_popular: false

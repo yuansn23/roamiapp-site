@@ -3,7 +3,7 @@ title: "Работает ли eSIM в Турции? Полный гайд по �
 description: "Проверьте телефон на совместимость с eSIM в Турции. Инструкция по установке на iPhone и Android. Roami — бесплатный пробный eSIM. Проверьте за 1 минуту."
 keywords: ["esim работает в турции", "работает ли esim в турции", "eSIM Турция подключить", "eSIM Турция как установить", "eSIM Турция 5G", "eSIM Турция регистрация", "как пополнить eSIM Турция", "eSIM Турция заблокирован", "совместимость eSIM", "eSIM"]
 date: 2026-07-22T00:00:00Z
-lastmod: 2026-07-22T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami"
 authorBio: "Roami — эксперт в области eSIM, предлагающий глобальные решения для мобильного интернета. Более 500 000 путешественников остаются на связи в поездках с нами."
 image: "/img/esim/turkey/turkey-esim-guide.jpg"
@@ -153,7 +153,7 @@ Huawei продолжает поддерживать eSIM в своих флаг
 | Pixel 8 / 8 Pro | Да | Да |
 | Pixel 9 / 9 Pro | Да | Да |
 
-Google Fi интеграция и «автоматическое переключение оператора» делают Pixel лучшим выбором для путешественников, использующих [eSIM на iPhone и Android](/faq/esim-iphone-and-android-differences/).
+Google Fi интеграция и «автоматическое переключение оператора» делают Pixel лучшим выбором для путешественников, использующих [eSIM на iPhone и Android](/faq/how-to-transfer-esim-between-iphone-and-android/).
 
 ### Xiaomi, Oppo, OnePlus
 

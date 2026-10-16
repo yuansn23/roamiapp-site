@@ -3,7 +3,7 @@ title: "Airalo vs Holafly vs Ubigi vs Saily: En İyi Almanya eSIM"
 description: "Airalo, Holafly, Ubigi ve Saily Almanya eSIM planlarını kapsama, fiyatlandırma, veri sınırları ve paylaşım açısından karşılaştırın."
 keywords: ["Germany eSIM providers", "Airalo Germany eSIM", "Holafly Germany eSIM", "Ubigi Germany eSIM", "Saily Germany eSIM", "almanya esim sağlayıcıları", "almanya esim karşılaştırma", "en iyi almanya esim"]
 date: 2026-10-09T00:00:00Z
-lastmod: 2026-10-09T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami, yılda 1 milyondan fazla gezgine hizmet veren güvenilir eSIM planları sunar ve gezginlerin dünya genelinde bağlantıda kalmasına yardımcı olmak için otomatik yerel ağ geçişini destekler."
 image: "/img/esim/germany/germany-esim-providers-airalo-holafly-ubigi-comparison.jpg"
@@ -157,10 +157,10 @@ Holafly kendini eSIM pazarında sınırsız veri uzmanı olarak konumlandırdı 
 **Planlar ve fiyatlandırma.** Holafly'nin Almanya sınırsız plan fiyatlandırması:
 
 - **5 gün** — yaklaşık 20 $
-- **30 gün** — yaklaşık 64 $ (gezginler arasında en popüler)
+- **30 gün** — yaklaşık 73,90 $ (gezginler arasında en popüler)
 - **90 gün** — yaklaşık 99 $
 
-Bu fiyatlar, günlük bazda ölçüldüğünde Holafly'yi pazarın premium ucuna yerleştirir; ancak sınırsız veri önerisi, haftada 5-10 GB'dan fazla tüketen kullanıcılar için değer denklemini değiştirir. İki haftalık bir seyahatte 20 GB veya daha fazla tüketen ağır bir kullanıcı için Holafly'nin yaklaşık 64 $'lık 30 günlük sınırsız planı veriyi kısma ihtiyacını ortadan kaldırır — ancak Airalo'nun 23 $'lık 20 GB / 30 günlük planı, sınır içinde kalabiliyorsanız karşılaştırılabilir kullanımı fiyatın yaklaşık üçte birine karşılar.
+Bu fiyatlar, günlük bazda ölçüldüğünde Holafly'yi pazarın premium ucuna yerleştirir; ancak sınırsız veri önerisi, haftada 5-10 GB'dan fazla tüketen kullanıcılar için değer denklemini değiştirir. İki haftalık bir seyahatte 20 GB veya daha fazla tüketen ağır bir kullanıcı için Holafly'nin yaklaşık 73,90 $'lık 30 günlük sınırsız planı veriyi kısma ihtiyacını ortadan kaldırır — ancak Airalo'nun 23 $'lık 20 GB / 30 günlük planı, sınır içinde kalabiliyorsanız karşılaştırılabilir kullanımı fiyatın yaklaşık üçte birine karşılar.
 
 **Şebeke ve kapsama.** Holafly Almanya ağırlıklı olarak Vodafone şebekesinde çalışır; satın alma anındaki spesifik anlaşmaya bağlı olarak ikincil yedek olarak O2 (Telefónica) bulunur:
 
@@ -347,6 +347,110 @@ Orange Holiday Europe, Almanya'ya özel bir eSIM değil, Almanya, Avusturya, İs
 - **28 günlük geçerlilik penceresi**, tipik bir Avrupa tatili süresi için iyi çalıştığı anlamına gelir.
 
 Bu seçeneği düşünüyorsanız, demiryolu temelli programlar için bölgesel planlar ile üst üste yığılmış tek ülke eSIM'lerinin daha geniş bir karşılaştırması için [çok ülkeli Avrupa seyahati için Almanya eSIM rehberini](/blog/germany-esim-multi-country-europe-rail/) da okumak isteyebilirsiniz.
+
+## Almanya'nın Üç eSIM Markası Karşılaştırması
+
+> ⚠️ **En önemli Almanya'ya özgü hatırlatma**: Üç marka da **Alman telefon numarası olmadan, yalnızca veri eSIM sunar**. Almanya'da Uber ve yemek siparişi çoğunlukla uygulama içi mesajlaşma kullanır, bu yüzden yerel numara zorunlu değildir; bir Alman numarasına ihtiyacınız varsa (örneğin araç kiralama geri aramaları ya da bazı uygulama doğrulamaları için), onu bir VoIP çözümüyle eşleştirin. Asıl umursadığınız şey **kapsamadır** — bir Funkloch'ta sizi bağlantıda tutan kim.
+
+### Markalarla Tanışın
+
+| Marka | Trustpilot Puanı | Temel Konumlanma | Şebeke Erişimi | 5G | Hotspot | Band 20 |
+|-------|-------------------|------------------|----------------|-----|---------|---------|
+| **Airalo** | 3,9 | En büyük küresel platform, en ince ayrıntılı bantlar | Telekom / Vodafone | Kısmi | Destekli | Destekli |
+| **Holafly** | 4,6 | Saf sınırsız veri | Vodafone / O2 | Destekli | 1GB/gün sınırı | Destekli |
+| **Roami** | 4,9 | Çok şebeke otomatik geçiş, en iyi değer | Telekom / Vodafone / O2 | Tam hız | Sınırsız | Destekli |
+
+> **Bir Bakışta Temel Farklar**
+>
+> - **Airalo Almanya eSIM**: En büyük küresel platform, en ince sabit veri bantları, üstüne sınırsız seçenekler; Telekom / Vodafone'a bağlanır. Şeffaf fiyatlandırma, hotspot destekler, Band 20 destekler, **Alman telefon numarası yok**. Orta bütçeyle "sınırsız" isteyen kullanıcılar için uygundur – ancak 3,9 Trustpilot puanının sektörün gerisinde kaldığına dikkat edin ([tam Airalo eSIM incelememize](/blog/airalo-esim-review-prices-coverage/) bakın).
+> - **Holafly Almanya eSIM**: Tek saf sınırsız marka, 3,97 $/gün fiyatlı, Vodafone / O2 5G'ye bağlanır. GB sınırı yok, ama **hotspot 1GB/gün ile sınırlı**, uzun vadeli maliyeti yüksek, **Alman telefon numarası yok**. Maliyeti umursamayan yoğun kullanıcılar için uygundur.
+> - **Roami Almanya eSIM**: Çok şebeke otomatik geçiş (Telekom / Vodafone / O2), tam hız 5G, sınırsız hotspot ve Band 20 destekler, her bantta en düşük fiyat, **Alman telefon numarası yok**. **Almanya'ya özgü bir ayrıntıya dikkat: 3 günlük bantta 10GB ile "Sınırsız" aynı fiyattadır (9,99 $)** — 3 günlük bir seyahatte doğrudan sınırsızı seçin. %20 indirim için **WEB20** kodunu kullanın. [Roami Almanya eSIM planlarını görüntüleyin](/germany-esim/)
+
+### Airalo Almanya eSIM Tam Fiyat Listesi
+
+**Sınırsız Veri Planları**
+
+| Gün | Fiyat | Günlük Maliyet |
+|------|-------|------------|
+| 3 gün | 11,00 $ | 3,67 $/gün |
+| 5 gün | 18,00 $ | 3,60 $/gün |
+| 7 gün | 24,00 $ | 3,43 $/gün |
+| 10 gün | 30,00 $ | 3,00 $/gün |
+| 15 gün | 42,00 $ | 2,80 $/gün |
+| 30 gün | 59,00 $ | 1,97 $/gün |
+
+**Sabit Veri Planları**
+
+| Gün | Veri Bandı | Fiyat |
+|------|-----------|-------|
+| 3 gün | 1GB / 3GB | 4,00 $ / 7,50 $ |
+| 7 gün | 3GB / 5GB / 10GB | 8,00 $ / 10,50 $ / 15,00 $ |
+| 15 gün | 5GB / 10GB / 20GB | 11,00 $ / 15,50 $ / 22,50 $ |
+| 30 gün | 5GB / 10GB / 20GB / 50GB | 11,50 $ / 16,00 $ / 23,00 $ / 36,00 $ |
+
+> ⚠️ **Airalo Almanya risk notu**: Sabit veri bantları görece pahalıdır (7 günlük 10GB, GB başına 1,50 $), aynı band için Roami'nin yaklaşık iki katı; 24 $'lık 7 günlük sınırsız, kısa vadeli turistler için ortalama bir değerdir.
+
+### Holafly Almanya eSIM Tam Fiyat Listesi
+
+Holafly Almanya **yalnızca sınırsız veri** sunar ve süre bazında fiyatlandırılır:
+
+| Gün | Fiyat | Günlük Maliyet |
+|------|-------|------------|
+| 3 gün | 11,90 $ | 3,97 $/gün |
+| 7 gün | 27,50 $ | 3,93 $/gün |
+| 10 gün | 36,50 $ | 3,65 $/gün |
+| 30 gün | 73,90 $ | 2,46 $/gün |
+
+> Günlük oran daha uzun planlarda düşer – vitrindeki 3,97 $/gün kısa konaklamalar için geçerlidir, 30 günlük bant ise 2,46 $/güne denk gelir.
+
+> ⚠️ **Holafly Almanya risk notu**: Sabit veri bandı yok; 3 gün 11,90 $ tutarındadır, bu Roami'nin 3 günlük 10GB'sından (7,99 $) %49 daha fazladır; **hotspot 1GB/gün ile sınırlıdır** — paylaşım ya da tablet kullanımı için kısıtlayıcıdır; gün başına fiyatlandırma uzun vadeli maliyeti en yüksek yapar.
+
+### Roami Almanya eSIM Tam Fiyat Listesi
+
+Roami Almanya hem sabit veri hem sınırsız plan sunar. İndirimli fiyat = liste fiyatı × 0,8 (WEB20 kodu):
+
+| Gün | Veri Bandı | Liste Fiyatı | İndirimli | Günlük Maliyet |
+|------|-----------|------------|------------|------------|
+| 3 gün | 1GB / 3GB / 5GB / 10GB / Sınırsız | 1,99 $ / 3,99 $ / 5,99 $ / 9,99 $ / 9,99 $ | **1,59 $ / 3,19 $ / 4,79 $ / 7,99 $ / 7,99 $** | 0,53‑2,66 $/gün |
+| 7 gün | 1GB / 3GB / 5GB / 10GB / 20GB / Sınırsız | 2,99 $ / 4,99 $ / 6,99 $ / 9,99 $ / 17,99 $ / 21,99 $ | **2,39 $ / 3,99 $ / 5,59 $ / 7,99 $ / 14,39 $ / 17,59 $** | 0,34‑2,51 $/gün |
+| 15 gün | 3GB / 5GB / 10GB / 20GB / 30GB / Sınırsız | 5,99 $ / 7,99 $ / 12,99 $ / 18,99 $ / 28,99 $ / 42,99 $ | **4,79 $ / 6,39 $ / 10,39 $ / 15,19 $ / 23,19 $ / 34,39 $** | 0,32‑2,29 $/gün |
+| 30 gün | 3GB / 5GB / 10GB / 20GB / 30GB / 50GB / 100GB / Sınırsız | 6,99 $ / 8,99 $ / 13,99 $ / 19,99 $ / 30,99 $ / 39,99 $ / 54,99 $ / 70,99 $ | **5,59 $ / 7,19 $ / 11,19 $ / 15,99 $ / 24,79 $ / 31,99 $ / 43,99 $ / 56,79 $** | 0,19‑1,89 $/gün |
+
+> ⚠️ **Roami Almanya risk notu**: 3 günlük bantta 10GB ile Sınırsız aynı fiyattadır — daha iyi değer için Sınırsız'ı seçin; 30 günlük Sınırsız (56,79 $) pahalıdır, bu yüzden yoğun kullanıcılar 100GB bandını (43,99 $) seçmelidir. Aksi halde sabit veri bantları GB başına en düşük fiyatlara sahiptir.
+
+### GB Başına Gerçek Maliyet
+
+**Daha büyük bantlara geçtikçe GB başına fiyat dramatik biçimde düşer.** Örnek olarak Roami 30 günlük planları:
+
+| Veri Bandı | İndirimli Fiyat | GB Başına Fiyat |
+|-----------|------------------|--------------|
+| 5GB | 7,19 $ | 1,44 $/GB |
+| 10GB | 11,19 $ | 1,12 $/GB |
+| 20GB | 15,99 $ | 0,80 $/GB |
+| 50GB | 31,99 $ | 0,64 $/GB |
+| 100GB | 43,99 $ | **0,44 $/GB** |
+
+100GB'ın GB başına fiyatı, 5GB'ınkinden üçte birden azdır. **Sonuç: kullanımınızı tahmin edebiliyorsanız, daha büyük bir bant almak daha fazla para kazandırır; Almanya'ya özgü 100GB bandı en düşük GB başına fiyatı taşır.**
+
+**Almanya'da "sınırsız" genellikle psikolojik rahatlık için ekstra ödeme demektir.** Roami'nin sabit bantlarıyla karşılaştırın:
+
+| Plan | Fiyat | Değer mi? |
+|------|-------|-----------|
+| Roami 7 günlük 20GB indirimli | 14,39 $ | Günlük kullanım ≤ 2,86GB ise en iyi değer |
+| Roami 7 günlük Sınırsız indirimli | 17,59 $ | Yalnızca günlük kullanım > 2,86GB ise değer |
+| Roami 30 günlük 100GB indirimli | 43,99 $ | Günlük kullanım ≤ 3,33GB ise en iyi değer |
+| Roami 30 günlük Sınırsız indirimli | 56,79 $ | Yalnızca günlük kullanım > 3,33GB ise değer |
+
+**Sınırsız başabaş noktası = günde 2,86GB (7 gün) / günde 3,33GB (30 gün).** Sınırsızın kar ettirmesi için neredeyse günde 3GB kısa video tüketmeniz gerekir. Almanya'daki seyahatlerin çoğu gezip görmek, tren yolculuğu ve şato fotoğraflarıdır — günlük kullanım nadiren 1GB'ı aşar — **sabit 10‑20GB fazlasıyla yeterlidir; "sınırsız" kelimesi için iki kat ödemeyin.** Tek istisna 3 günlük banttır: **10GB ile sınırsız aynı fiyattadır — doğrudan sınırsızı alın.**
+
+**Kazandığınız parayla ne yapabilirsiniz?** Roami'nin indirimli fiyatlarını rakiplerle karşılaştırın ve tasarrufu Alman seyahat masraflarına çevirin:
+
+| Güzergâh | Roami İnd. vs Rakip | Tasarruf | Denk Geldiği Şey |
+|-----------|---------------------------|------|---------------|
+| 7 gün 10GB | 7,99 $ vs Airalo 15,00 $ | 7,01 $ | Bir Currywurst + bir Alman birası |
+| 7 gün Sınırsız | 17,59 $ vs Holafly 27,50 $ | 9,91 $ | Bir Berlin AB bölgesi günlük kart |
+| 15 gün 20GB | 15,19 $ vs Airalo 22,50 $ | 7,31 $ | Yarım Neuschwanstein bileti |
+| 30 gün Sınırsız | 56,79 $ vs Holafly 73,90 $ | 17,11 $ | Münih'te düzgün bir akşam yemeği |
 
 ## Almanya eSIM Sağlayıcıları Kafa Kafaya Karşılaştırması
 
@@ -590,3 +694,13 @@ Programınız büyük bir şehir içinde kalıyorsa tek şebekeli bir plan genel
 ---
 
 Her plan ve fiyat [fiyat rehberinde](/blog/germany-esim-price-guide-cheapest-plans/) dökümüyle sunulmuştur. Bölge bölge ayrıntı için [kapsama rehberi](/blog/germany-esim-coverage-cities-trains-alps/) şebekelerin şehir merkezlerinden Alpler'e nasıl performans gösterdiğini haritalıyor.
+## Veri Kaynaklarımız
+
+| Kuruluş | Amaç | Bağlantı |
+|--------------|---------|------|
+| BNetzA (Alman Federal Ağ Ajansı) | Alman telekom düzenlemesi / kimlik doğrulama politikası | [bundesnetzagentur.de](https://www.bundesnetzagentur.de/DE/Vportal/TK/start.html) |
+| Ookla Speedtest | Alman mobil hızları | [Speedtest Global Index – Germany](https://www.speedtest.net/global-index/germany) |
+| GSMA | eSIM sektör standartları | [GSMA eSIM şartnamesi](https://www.gsma.com/solutions-and-impact/technologies/esim/) |
+| Apple | eSIM cihaz desteği | [Apple eSIM desteği](https://support.apple.com/en-us/109317) |
+
+*Fiyat verileri Eylül 2026 itibarıyla, markaların resmi web sitelerine dayanmaktadır.*

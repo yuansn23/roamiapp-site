@@ -46,7 +46,7 @@ sidebar:
   search_placeholder: "Buscar país (p. ej., Japón, EE. UU.)..."
   no_results_text: "No se encontraron países coincidentes"
   no_results_link_text: "View planes globales de eSIM &rarr;"
-  no_results_link_url: "/esim/global"
+  no_results_link_url: "/plans"
   regions:
     - name: "Todos los Países"
       links:
@@ -1113,7 +1113,7 @@ countries:
     btn_details_text: "Detalles sobre los operadores de eSIM en Venezuela"
     btn_details_url: "/carriers/venezuela-esim-carrier-guide/"
     btn_buy_text: "Comprar eSIM de Venezuela"
-    btn_buy_url: "/venezuela-esim/"
+    btn_buy_url: "/carriers/venezuela-esim-carrier-guide/"
     Carriers:
       - name: "Digitel"
         color: "text-blue-600"

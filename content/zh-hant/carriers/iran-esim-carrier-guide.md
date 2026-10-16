@@ -3,6 +3,7 @@ title: "伊朗 eSIM 該選哪家？MCI、Irancell、Rightel 業者比較"
 description: "造訪伊朗的旅客 eSIM 該辦哪一家？Roami 比較 MCI、Irancell 與 Rightel 的 5G 網速、覆蓋率與 CP 值，從德黑蘭到伊斯法罕與設拉子逐段檢視，整理預付資費、申辦規定與 APN 設定，幫你依行程挑出伊朗最適合的 eSIM。"
 image: "img/esim/carriers/iran-esim-carrier-guide.webp"
 date: "2026-09-25T06:03:02+00:00"
+lastmod: 2026-10-16T00:00:00Z
 keywords: 伊朗 eSIM 電信業者, 伊朗 eSIM, MCI eSIM, Irancell eSIM, 伊朗 travel eSIM, MCI, Hamrahe Aval, Rightel, 伊朗 5G, 伊朗適用 eSIM, 伊朗預付卡 eSIM, 伊朗旅遊 eSIM
 site_name: Roami
 brand_name: Roami
@@ -387,7 +388,7 @@ APN，即存取點名稱（Access Point Name），是你的手機開啟數據會
 
 ## 每 GB 多少錢
 
-伊朗獎勵過度規劃的人：提前兌換現金、安排好到 IKA 領取的當地旅遊門號、在長途城際路段前載好離線地圖。當你想要一個伴你抵達的數據設定檔時，[購買伊朗 eSIM 方案](/iran-esim/)並在家安裝。
+伊朗獎勵過度規劃的人：提前兌換現金、安排好到 IKA 領取的當地旅遊門號、在長途城際路段前載好離線地圖。當你想要一個伴你抵達的數據設定檔時，[購買伊朗 eSIM 方案](/carriers/iran-esim-carrier-guide/)並在家安裝。
 
 如果你是初次接觸純數據設定檔的運作方式，原理在任何地方都一樣——[eSIM 開通說明](/faq/what-is-esim-activation-and-how-does-it-work/)解釋掃描代碼後會發生什麼。*Roami 的首次客戶可以從免費試用 eSIM 開始*——[領取一張](/free-esim/)無需承諾——而[中東 eSIM 方案](/middle-east-esim/)頁面列出了覆蓋範圍包含伊朗的區域組合。
 
