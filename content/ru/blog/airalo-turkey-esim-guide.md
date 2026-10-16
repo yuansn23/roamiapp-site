@@ -1,9 +1,9 @@
 ---
-title: "Лучшая eSIM для Турции: сравнение Airalo и Holafly"
-description: "Сравниваем Airalo, Holafly и Roami: лучшая eSIM для Турции устанавливается до вылета и работает в сетях Turkcell, Vodafone или Türk Telekom. Без очередей за паспортом."
-keywords: ["airalo turkey esim", "гид по ценам eSIM в Турции", "holafly esim для Турции", "правило IMEI 120 дней в Турции", "самая дешевая eSIM для поездки в Турцию", "безлимитный тариф eSIM Турция", "сравнение стоимости eSIM в Турции", "eSIM Турция долгое пребывание", "промокод Turkey eSIM", "airalo vs holafly Турция"]
+title: "Airalo eSIM в Турции: обзор, цены и альтернативы"
+description: "Airalo eSIM в Турции: сколько стоит, к каким сетям подключается, как работает поддержка и чем Holafly и Roami отличаются по цене и покрытию."
+keywords: ["airalo esim в турции", "лучшие esim для турции", "esim турция отзывы", "esim турция для туристов", "esim тарифы турция", "esim турция купить", "интернет в турции для туристов какой выбрать", "esim турция безлимит", "esim турция интернет", "Roami eSIM"]
 date: 2026-09-26T00:00:00Z
-lastmod: 2026-09-26T00:00:00Z
+lastmod: 2026-10-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami предлагает надежные тарифы eSIM, обслуживая более 1 миллиона путешественников в год, и поддерживает автоматическое переключение между локальными сетями, чтобы путешественники оставались на связи по всему миру."
 image: "/img/esim/turkey/turkey-esim-guide2.jpg"
@@ -13,7 +13,7 @@ readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Airalo vs Holafly: лучшая eSIM для Турции для путешественников"
+h1title: "Airalo eSIM для Турции: цены, сети и сравнение с Holafly"
 
 productsTitle: "Популярные тарифы eSIM"
 hotPostsTitle: "Популярные статьи"
