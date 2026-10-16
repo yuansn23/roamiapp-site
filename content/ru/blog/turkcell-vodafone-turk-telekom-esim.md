@@ -1,6 +1,6 @@
 ---
 title: "Turkcell, Vodafone и Türk Telekom: eSIM и 5G в Турции"
-description: "Turkcell, Vodafone и Türk Telekom: сравнение покрытия и скорости eSIM в Турции, статус 5G и как выбрать сеть для Стамбула, побережья и Каппадокии."
+description: "Turkcell, Vodafone и Türk Telekom: сравнение покрытия и скорости eSIM в Турции, статус 5G и выбор сети для Стамбула и побережья."
 keywords: ["турция 5g esim", "esim турция интернет", "интернет в турции", "esim турция купить", "esim в турции", "esim турция безлимит", "esim турция для туристов", "esim тарифы турция", "интернет в турции для туристов", "Roami eSIM"]
 date: 2026-09-17T00:00:00Z
 lastmod: 2026-10-16T00:00:00Z
