@@ -1,9 +1,9 @@
 ---
 title: "How to Get a UK eSIM from EE, Vodafone, O2 & Three"
-description: "How to get an eSIM from a UK network: EE, Vodafone, O2 and Three activation, QR codes, PAYG options and top-ups, plus which MVNOs have rolled out eSIM."
-keywords: ["how to get ee esim", "vodafone uk esim qr code", "o2 uk esim pay as you go", "three uk esim online", "which uk networks support esim", "lebara uk esim rollout", "lycamobile get esim uk", "uk esim pay as you go"]
+description: "How to get an eSIM from a UK network: EE, Vodafone, O2 and Three activation, QR codes, PAYG options and MVNO rollout status."
+keywords: ["how to get ee esim", "vodafone uk esim qr code", "o2 uk esim pay as you go", "three uk esim online", "which uk networks support esim", "lebara uk esim rollout", "lycamobile esim uk", "uk esim pay as you go"]
 date: 2026-09-22T00:00:00Z
-lastmod: 2026-09-22T00:00:00Z
+lastmod: "2026-10-16T00:00:00Z"
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/uk/uk-esim-carrier-guide.jpg"
@@ -13,7 +13,7 @@ readingTime: 22
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "How to Get a UK Carrier eSIM: EE, Vodafone, O2, Three and MVNO Activation Explained"
+h1title: "UK Carrier eSIM Guide: EE, Vodafone, O2 & Three Activation"
 productsTitle: "Popular eSIM Plans"
 hotPostsTitle: "Hot Articles"
 recentPostsTitle: "Recent Posts"

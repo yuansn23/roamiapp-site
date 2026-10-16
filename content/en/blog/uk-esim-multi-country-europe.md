@@ -1,9 +1,9 @@
 ---
 title: "Brexit and Roaming: Using eSIM Across UK and Europe"
 description: "Post-Brexit, UK eSIMs don't roam in Europe. Roami's Europe eSIM covers UK & 30+ countries with auto-switching. Compare plans now."
-keywords: ["UK eSIM for multi country Europe trip","UK eSIM for UK Europe multi country","UK eSIM for European tourists","best eSIM for UK from USA Canada Australia","UK eSIM for cruise travel from UK","uk and europe sim","sim card for europe and uk","uk europe sim card"]
+keywords: ["uk esim for europe", "esim for uk and europe", "uk esim and ireland", "brexit roaming uk esim", "uk esim to use abroad", "uk esim multi country", "esim uk france"]
 date: 2026-09-15T00:00:00Z
-lastmod: 2026-09-15T00:00:00Z
+lastmod: "2026-10-16T00:00:00Z"
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/uk/uk-esim-multi-country-europe.jpg"

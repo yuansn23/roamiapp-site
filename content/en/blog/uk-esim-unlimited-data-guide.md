@@ -1,9 +1,9 @@
 ---
 title: "Unlimited UK eSIM Data Plans: What You Need to Know"
 description: "UK unlimited eSIM plans: real speed caps, fair use and hotspot limits. Roami auto-switches all four UK networks. Choose your plan."
-keywords: ["best unlimited data eSIM UK","UK eSIM unlimited data plan price","UK eSIM with unlimited hotspot tethering","cheapest unlimited 5G eSIM UK"]
+keywords: ["uk esim unlimited data", "unlimited uk esim", "uk esim unlimited hotspot", "cheapest unlimited 5g esim uk", "best unlimited data esim uk", "uk esim fair usage policy"]
 date: 2026-09-15T00:00:00Z
-lastmod: 2026-09-15T00:00:00Z
+lastmod: "2026-10-16T00:00:00Z"
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/uk/uk-esim-unlimited-data-guide.jpg"
@@ -65,6 +65,8 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
+
+*Prices, speeds and coverage figures in this guide were last checked in September 2026. Confirm current rates and plan details with the provider before purchase.*
 
 Almost no UK travel eSIM offers truly unlimited high-speed data. Let that sink in. If you are researching an esim for uk travel, know that most "unlimited" plans enforce a daily cap between 1GB and 5GB before throttling speeds to 512Kbps or 1Mbps, according to provider fair usage policies published in 2026. The nearest thing to true unlimited we verified is Ubigi's UK plan ($44/30 days), which publishes no daily cap.
 

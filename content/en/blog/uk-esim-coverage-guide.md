@@ -1,9 +1,9 @@
 ---
 title: "UK eSIM Coverage: London Underground, Rural & 5G"
 description: "UK eSIM coverage mapped: London Underground, rural England, Scotland and 5G cities. Roami auto-switches all four networks."
-keywords: ["UK eSIM coverage","London Underground eSIM coverage","UK rural eSIM coverage","Scotland eSIM coverage","Great Britain eSIM coverage","UK eSIM 5G coverage cities"]
+keywords: ["uk esim coverage", "london underground esim", "uk rural esim coverage", "scotland esim coverage", "uk esim 5g coverage", "uk network coverage checker", "ee coverage checker", "vodafone coverage"]
 date: 2026-09-15T00:00:00Z
-lastmod: 2026-09-15T00:00:00Z
+lastmod: "2026-10-16T00:00:00Z"
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/uk/uk-esim-coverage-guide.jpg"

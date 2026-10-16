@@ -1,9 +1,9 @@
 ---
 title: "Get a UK eSIM with a Phone Number for Calls and SMS"
 description: "UK eSIM with phone number for calls, SMS & 2FA. Roami data eSIM plus cheap giffgaff voice SIM hybrid approach. Find your plan now."
-keywords: ["best UK eSIM with phone number","how to get a UK phone number with eSIM","UK eSIM data only vs with calling plan","UK eSIM for Uber and public transport apps","UK eSIM cannot receive SMS verification"]
+keywords: ["uk esim with phone number", "uk esim phone number", "uk esim number", "data only esim uk", "esim with number uk", "uk esim talk and text", "uk esim sms verification", "uk esim for calls"]
 date: 2026-09-15T00:00:00Z
-lastmod: 2026-09-15T00:00:00Z
+lastmod: "2026-10-16T00:00:00Z"
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/uk/uk-esim-with-phone-number.jpg"
@@ -115,7 +115,7 @@ No, not for tourist-friendly providers. giffgaff and Lebara let you register wit
 
 One common issue: Lebara's form can be finicky about address formatting, particularly with flat numbers in UK addresses. Plan for 10 extra minutes of form-fiddling if you run into validation issues.
 
-## How does a UK eSIM for Uber and essential apps work?
+## How does an eSIM for Uber and essential apps work?
 
 A UK phone number is required to create accounts on Uber, Bolt, Deliveroo, and Just Eat — and for SMS-based two-factor authentication on UK banking apps like Monzo, Starling, and HSBC. Data-only eSIMs can't provide this, which is why a UK eSIM for Uber and public transport apps matters so much for visitors. An eSIM for the UK with a full phone number is the only reliable way to pass SMS verification for local services.
 
@@ -263,7 +263,7 @@ Some US carriers bill SMS while roaming at per-message rates, and the costs quie
 ### Option 3: Full-service plan only
 Get a full-service plan from giffgaff or Lebara — data, calls, and a UK number all in one package. This is the simplest option and works fine for most people. But data speeds won't match a dedicated multi-network data plan with auto-switching. Speed tests at busy London locations like King's Cross station typically favour multi-network eSIMs (Roami), which hop to whichever carrier is least congested, over single-network eSIMs (O2 via giffgaff) tied to one carrier's capacity. If you're just doing email and maps, you won't care. If you're on Zoom calls all day, you will.
 
-## Can I use a UK eSIM for multiple devices including a laptop and iPad?
+## Can I use an eSIM for multiple devices including a laptop and iPad?
 
 Yes. Roami, giffgaff, and Lebara all include hotspot tethering within your data allowance as of 2026, so a laptop or iPad can share the phone's connection without a second plan. Some tablets also accept an eSIM profile directly, which removes the phone from the chain entirely.
 

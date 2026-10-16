@@ -1,9 +1,9 @@
 ---
 title: "How Much Does a UK eSIM Cost? Full Price Breakdown"
 description: "UK eSIM prices compared: per-GB breakdowns from GBP 2-50, Heathrow trap exposed. Roami multi-network switching. Find your plan."
-keywords: ["cheapest UK eSIM 1GB 3GB 5GB 10GB","UK eSIM 30 day prepaid plan cost","UK eSIM 7 day tourist plan price","UK eSIM 5G high speed plan cost","UK eSIM for 2 week vacation budget","UK eSIM price per GB comparison","best value UK eSIM for 30 days","UK eSIM promo code discount voucher"]
+keywords: ["cheapest uk esim", "uk esim price", "uk esim deals", "uk sim card prepaid", "uk esim data plan", "uk sim card pay as you go", "uk esim 30 day plan", "uk esim promo code"]
 date: 2026-09-15T00:00:00Z
-lastmod: 2026-09-15T00:00:00Z
+lastmod: "2026-10-16T00:00:00Z"
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/uk/uk-esim-price-guide.jpg"
@@ -65,6 +65,8 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
+
+*Prices, speeds and coverage figures in this guide were last checked in September 2026. Confirm current rates and plan details with the provider before purchase.*
 
 
 UK eSIM prices run from about $1.99 for a 1GB three-day plan to $73.90 for a 30-day unlimited package, with most travellers landing between $4 and $20 for 5–10GB, and the widest gap in that range is not between providers but between channels. Airport SIM counters at Heathrow sell 5GB plans for GBP 10–22 that cost GBP 5–6 online, a markup of 100–200% for walking through the wrong door. One eSIM also covers England, Scotland, Wales and Northern Ireland, so the labels UK, Great Britain and England all point to the same product, and a UK eSIM still undercuts home roaming by 60–80%.

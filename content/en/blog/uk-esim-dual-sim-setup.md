@@ -1,9 +1,9 @@
 ---
-title: "UK eSIM Setup: Keep Home Number Active"
+title: "UK eSIM Dual SIM Setup: Keep Your Home Number Active"
 description: "Dual SIM with UK eSIM: keep your home number for 2FA & calls while using UK data. Roami auto-switches networks. Get your plan now."
-keywords: ["UK eSIM dual SIM setup","dual SIM UK travel","UK eSIM keep home number","iPhone dual SIM UK eSIM","Android dual SIM UK eSIM","UK eSIM data roaming","dual SIM 2FA travel"]
+keywords: ["uk esim dual sim setup", "keep home number uk esim", "iphone dual sim uk esim", "android dual sim uk esim", "uk esim 2fa sms", "dual sim cellular data switching"]
 date: 2026-09-15T00:00:00Z
-lastmod: 2026-09-15T00:00:00Z
+lastmod: "2026-10-16T00:00:00Z"
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/uk/uk-esim-dual-sim-setup.jpg"
@@ -13,7 +13,7 @@ readingTime: 20
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "UK eSIM Dual SIM Setup: Keep Your Home Number Active"
+h1title: "How to Set Up a UK eSIM and Keep Your Home Number Active"
 productsTitle: "Popular eSIM Plans"
 hotPostsTitle: "Hot Articles"
 recentPostsTitle: "Recent Posts"
@@ -66,6 +66,8 @@ recentPosts:
     date: "2026-05-21"
 ---
 
+*Prices, speeds and coverage figures in this guide were last checked in September 2026. Confirm current rates and plan details with the provider before purchase.*
+
 
 Dual SIM is the setup that lets you keep your home number alive while your UK eSIM handles all the data, and it takes about five minutes to configure. The routine is to install the eSIM, set it as the data line, leave your home SIM active for calls and SMS, and turn data roaming off on the home SIM — leaving it on is the single mistake that drains a roaming allowance in one afternoon of background refreshes. Because a UK plan is valid in all four nations, the steps do not change whether you land in Manchester or Inverness, and the only recurring cost is a small battery penalty of roughly 10–15% from running two lines.
 
@@ -106,7 +108,7 @@ What it can't do:
 
 - **Combine data from both SIMs** — data comes from one line at a time (though iPhone's Cellular Data Switching comes close, more on that below)
 - **Use both SIMs for voice simultaneously** — if you're on a call on one line and another call comes in on the second, it goes to voicemail
-- **Guarantee SMS delivery on both lines** — some configurations can block incoming SMS on one line
+- **Ensure SMS delivery on both lines** — some configurations can block incoming SMS on one line
 
 That last one is a common pitfall. Missed bank verification codes can happen when iMessage intercepts the SMS routing on the travel eSIM, and a data-only plan cannot receive them at all — our [UK eSIM number guide](/blog/uk-esim-with-phone-number/) covers what actually works. The fix requires adjusting Settings > Messages > Send & Receive. More on that below.
 
@@ -715,7 +717,7 @@ If your eSIM doesn't auto-configure, you may need to enter APN settings manually
 4. Save and restart
 
 ### Android
-1. Settings > Connections > Mobile Networks > Access Point Names
+1. On Android, open Settings > Connections > Mobile Networks > Access Point Names
 2. Add new APN
 3. Enter the APN from the table above
 4. Save and select the new APN
