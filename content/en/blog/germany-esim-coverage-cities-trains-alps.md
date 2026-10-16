@@ -1,5 +1,5 @@
 ---
-title: "How to Use an eSIM Abroad: Germany, Trains and the Alps"
+title: "How to Use an eSIM Overseas: Germany, Trains and the Alps"
 description: "How to use an eSIM overseas: Germany coverage in cities, ICE trains and the Alps, plus how to use an eSIM in a different country without surprises."
 keywords: ["how to use esim overseas", "how to use esim in different country", "esim for use in europe", "esim to use in europe", "does it support esim", "how to use esim on iphone abroad", "can esim be used internationally", "does esim work internationally", "does esim use data", "can i use data from esim"]
 date: 2026-10-09T00:00:00Z
