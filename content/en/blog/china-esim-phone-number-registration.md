@@ -1,9 +1,9 @@
 ﻿---
-title: "Chinese Phone Number with eSIM: Complete Travel Guide"
-description: "Most travel eSIMs have no Chinese number or SMS. Roami covers number providers, passport registration, and WeChat workarounds for your trip."
-keywords: ["China eSIM phone number", "Chinese number for WeChat", "China eSIM with SMS", "China passport registration eSIM", "China eSIM data only vs number"]
+title: "China eSIM with Phone Number: Chinese Number Guide"
+description: "A China eSIM phone number is rare: most travel plans are data-only. What a Chinese number costs, how registration works and what to use."
+keywords: ["China eSIM with phone number", "China eSIM with local number", "China eSIM SMS", "Chinese number for WeChat", "China passport registration eSIM"]
 date: 2026-09-18T00:00:00Z
-lastmod: 2026-09-18T00:00:00Z
+lastmod: "2026-10-17T00:00:00Z"
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/china/china-esim-phone-number-registration.jpg"

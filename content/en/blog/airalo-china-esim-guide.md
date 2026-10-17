@@ -1,9 +1,9 @@
 ---
-title: "Best eSIM for China: Airalo vs Holafly vs Roami Compared"
-description: "Compare Airalo and Holafly: the best China eSIM installs before you fly, keeps Google and WhatsApp reachable, and runs on China Mobile or Unicom"
-keywords: ["China eSIM price guide", "airalo china esim", "chinacom esim", "cheapest eSIM for China travel", "china esim google whatsapp", "china esim vs local sim", "China eSIM promo code"]
+title: "Airalo China eSIM: Airalo vs Holafly vs Nomad Compared"
+description: "Airalo vs Holafly vs Nomad for China: which plan installs before you fly and keeps Google and WhatsApp working on China Mobile or Unicom."
+keywords: ["Airalo China eSIM", "China eSIM Nomad", "chinacom esim", "China eSIM Google WhatsApp", "cheapest eSIM for China"]
 date: 2026-10-09T00:00:00Z
-lastmod: 2026-10-09T00:00:00Z
+lastmod: "2026-10-17T00:00:00Z"
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/china/china-esim-complete-guide.jpg"
@@ -13,7 +13,7 @@ readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "What a China eSIM Really Does for Google and WhatsApp"
+h1title: "Airalo vs Holafly vs Nomad: Which China eSIM Is Worth It?"
 
 productsTitle: "Popular eSIM Plans"
 hotPostsTitle: "Hot Articles"
@@ -197,6 +197,21 @@ Holafly China offers **only unlimited data**, priced by duration:
 
 > ⚠️ **Holafly China watch-out**: there is no fixed-data option, so three days starts at $11.90—nearly double Roami's 3-day 10GB ($6.39). Tethering is capped at 1GB/day, which rules out feeding a tablet, and per-day pricing makes it the most expensive way to stay a month.
 
+### Nomad China eSIM Full Price List
+
+Nomad sells **fixed data only** in China, on **China Unicom and China Telecom**, and markets its routing explicitly as a way to keep blocked services reachable without a separate VPN app.
+
+| Days | Data Tier | Price | Price per GB |
+|------|-----------|-------|--------------|
+| 7 days | 1GB | $4.00 | $4.00/GB |
+| 30 days | 3GB / 5GB / 10GB | $7.00 / $10.00 / $12.00 | $2.33 / $2.00 / $1.20/GB |
+| 30 days | 20GB / 30GB | $20.00 / $35.00 | $1.00 / $1.17/GB |
+| 45 days | 50GB | $49.00 | $0.98/GB |
+
+> Nomad's ladder is built for long stays: per-gigabyte cost falls to $1.00 at 20GB and $0.98 at the 45-day 50GB tier. The entry pack is dearer — $4.00 for 1GB, the same as Airalo's 1GB pack and around 2.5× Roami's discounted $1.59.
+
+**Where Nomad actually wins:** the 20GB tier at $20.00 is the closest any of the three rivals gets to Roami's discounted 20GB ($20.79), and the 45-day 50GB at $49.00 buys six extra weeks of validity that Airalo's 30-day 50GB ($49.00) does not. If your trip is a month or longer and you would rather not top up mid-stay, that validity difference is the real argument for Nomad — not the headline price.
+
 ### Roami China eSIM Full Price List
 
 Roami China **focuses on fixed‑data tiers (no unlimited plans)**. Discounted price = list price × 0.8 (code WEB20):
@@ -223,7 +238,7 @@ Roami China **focuses on fixed‑data tiers (no unlimited plans)**. Discounted p
 
 A 50GB tier costs roughly a third per gigabyte of a 3GB tier. **So if you have any sense of your usage, going up a step is the cheaper move.**
 
-**In China, "unlimited" often means paying extra for psychological safety.** Roami doesn't offer unlimited in China; only Airalo (7‑day $27) and Holafly (7‑day $27.50) do. Compare with Roami's fixed tiers:
+**In China, "unlimited" often means paying extra for psychological safety.** Neither Roami nor Nomad offers unlimited in China; only Airalo (7‑day $27) and Holafly (7‑day $27.50) sell an uncapped tier. Compare with Roami's fixed tiers:
 
 | 7‑Day Plan | Price | Worth It? |
 |------------|-------|-----------|
@@ -240,6 +255,17 @@ A 50GB tier costs roughly a third per gigabyte of a 3GB tier. **So if you have a
 | 7‑day 10GB | $9.59 vs $24.50 | $14.91 | A Peking duck meal + two coffees |
 | 15‑day 20GB | $15.99 vs $39.00 | $23.01 | Forbidden City ticket + Great Wall day trip |
 | 30‑day 50GB | $31.99 vs $49.00 | $17.01 | One night in a mid‑range hotel |
+
+**Airalo vs Holafly vs Nomad at a glance.** Four brands appear in every China eSIM thread, so here is the whole comparison on one line each:
+
+| Brand | Cheapest entry point | Cheapest per GB | Unlimited China plan? | Mainland network |
+|-------|----------------------|-----------------|-----------------------|------------------|
+| Airalo (Chinacom) | $4.00 / 1GB / 3 days | $0.98/GB (50GB, 30 days) | Yes — from $11.50 / 3 days | China Unicom |
+| Holafly | $11.90 / 3 days | Unlimited only, so no $/GB | Yes — unlimited is the only product | China Mobile |
+| Nomad | $4.00 / 1GB / 7 days | $0.98/GB (50GB, 45 days) | No | China Unicom + Telecom |
+| Roami | $1.59 / 1GB / 3 days (disc.) | $0.64/GB (50GB, 30 days) | No | Mobile + Unicom + Telecom |
+
+Read the table by trip shape rather than by sticker price: Holafly only makes sense if you genuinely need uncapped data, Airalo and Nomad meet at $0.98/GB on their largest tiers but Nomad gives you more days for the same money, and Roami's discounted 30GB and 50GB tiers are the cheapest per gigabyte on the page at $0.80 and $0.64. For the deeper carrier-by-carrier scoring, see the [China eSIM provider ranking](/blog/china-esim-provider-ranking-comparison/).
 
 ## Which 3-Day China eSIM Is Best?
 

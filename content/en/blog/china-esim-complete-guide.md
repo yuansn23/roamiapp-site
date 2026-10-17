@@ -1,9 +1,9 @@
 ---
-title: "China eSIM Guide: Providers, Setup and Coverage"
-description: "Everything you need to know about using an eSIM in China: providers, prices, international routing, setup, and coverage in one overview."
-keywords: ["China eSIM complete guide", "China eSIM providers", "China eSIM setup", "best eSIM for China travel", "China eSIM coverage"]
+title: "China eSIM Guide for Tourists: Plans, Setup and Coverage"
+description: "Everything you need to know about using an eSIM as a tourist in China: providers, prices, routing, setup and coverage in one overview."
+keywords: ["China eSIM guide", "China eSIM for tourists", "eSIM for China travel", "China tourist SIM card"]
 date: 2026-09-18T00:00:00Z
-lastmod: 2026-09-18T00:00:00Z
+lastmod: "2026-10-17T00:00:00Z"
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/china/china-esim-complete-guide.jpg"
@@ -12,7 +12,7 @@ tags: ["China eSIM", "Travel eSIM"]
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "China eSIM Complete Guide"
+h1title: "Your China eSIM, Explained: Plans, Setup, Apps and Coverage"
 productsTitle: "Popular eSIM Plans"
 hotPostsTitle: "Hot Articles"
 recentPostsTitle: "Recent Posts"
@@ -146,7 +146,7 @@ Provider choice for a China eSIM comes down to routing method, tier sizes and ho
 | **Roami** | $1.99 (1GB/3 days) | China Mobile + Unicom + Telecom | International routing with automatic carrier switching | Switches to the strongest of the three networks in real time; 50GB at $39.99 |
 | **3HK and CMHK** (Hong Kong carriers) | ~$15–$25 | CMHK / China Mobile | Hong Kong routing | Multi-country Asia itineraries and Hong Kong border crossings |
 
-Prices move with promotions, so treat the figures above as September 2026 reference points and confirm at checkout.
+Prices move with promotions, so treat the figures above as September 2026 reference points and confirm at checkout. If you are weighing the three names that come up most often, the [Airalo vs Holafly vs Nomad comparison](/blog/airalo-china-esim-guide/) breaks down per-GB cost, top-up rules and which network each one rides.
 
 ---
 

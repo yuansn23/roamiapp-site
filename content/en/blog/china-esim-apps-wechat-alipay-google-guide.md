@@ -1,9 +1,9 @@
 ﻿---
-title: "China eSIM App Guide: Google, WhatsApp and WeChat"
-description: "Which apps work with a China eSIM? Google Maps, WhatsApp, WeChat, and Alipay, plus which apps stay restricted and what to use instead."
-keywords: ["China eSIM apps", "Google Maps China eSIM", "WhatsApp China eSIM", "WeChat China eSIM", "Alipay China eSIM", "Google Translate China eSIM"]
+title: "China eSIM Apps: Google, WhatsApp, WeChat and Alipay"
+description: "Which apps work with a China eSIM? Google Maps, WhatsApp, WeChat and Alipay, plus which apps stay restricted and what to use instead."
+keywords: ["China eSIM apps", "Google Maps China eSIM", "WhatsApp China eSIM", "WeChat China eSIM", "Alipay China eSIM", "China eSIM blocked apps"]
 date: 2026-09-18T00:00:00Z
-lastmod: 2026-09-18T00:00:00Z
+lastmod: "2026-10-17T00:00:00Z"
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/china/china-esim-apps-wechat-alipay-google-guide.jpg"
@@ -12,7 +12,7 @@ tags: ["China eSIM", "Travel eSIM"]
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "China eSIM App Compatibility Guide"
+h1title: "Which Apps Work with a China eSIM? Google, WhatsApp, WeChat"
 productsTitle: "Popular eSIM Plans"
 hotPostsTitle: "Hot Articles"
 recentPostsTitle: "Recent Posts"

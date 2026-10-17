@@ -1,9 +1,9 @@
 ﻿---
-title: "China eSIM by Travel Type: Find Your Best Plan Now"
+title: "China eSIM for Business Trips, Families and Long Stays"
 description: "Short trips need 1-3GB, business trips 5-10GB, families need hotspot. Roami matches 14 travel scenarios to the right China eSIM plan."
 keywords: ["China eSIM for business trip", "China eSIM for family", "China eSIM for students", "China eSIM long stay", "China eSIM data allowance"]
 date: 2026-09-18T00:00:00Z
-lastmod: 2026-09-18T00:00:00Z
+lastmod: "2026-10-17T00:00:00Z"
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/china/china-esim-travel-type-guide.jpg"
@@ -12,7 +12,7 @@ tags: ["China eSIM", "Travel eSIM"]
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Best eSIM for China by Travel Type: 14 Scenarios Compared"
+h1title: "Best eSIM for China by Travel Type: Business, Family, Long Stay"
 productsTitle: "Popular eSIM Plans"
 hotPostsTitle: "Hot Articles"
 recentPostsTitle: "Recent Posts"
