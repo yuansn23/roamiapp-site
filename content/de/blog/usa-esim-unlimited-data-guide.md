@@ -1,9 +1,9 @@
 ---
-title: "USA eSIM Unbegrenzte Daten: Was ist wirklich drin?"
-description: "Unbegrenzte eSIM-Tarife für die USA im Vergleich: Geschwindigkeitslimits, Hotspot-Limits und Fair-Use – mit Netzwechsel."
-keywords: ["USA eSIM unbegrenzte Daten", "bester unbegrenzter Datentarif eSIM USA", "USA eSIM unbegrenzter Hotspot", "Holafly USA unbegrenzt", "USA eSIM keine Datenobergrenze"]
+title: "USA eSIM unbegrenzt: Was unlimited wirklich heißt"
+description: "Unbegrenzte eSIM für USA im Check: Fair-Use-Grenzen, Drosselung nach GB, Hotspot-Regeln und welche Tarife wirklich ohne Limit laufen."
+keywords: ["USA eSIM unbegrenzt", "USA eSIM unlimited", "unbegrenztes Datenvolumen USA eSIM", "USA eSIM Hotspot unlimited", "unbegrenzte Daten USA"]
 date: 2026-08-24T00:00:00Z
-lastmod: 2026-08-24T00:00:00Z
+lastmod: "2026-10-17T00:00:00Z"
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden mit einfachen eSIM-Tarifen, verbunden zu bleiben."
 image: "/img/esim/usa/usa-esim-unlimited-data-guide.jpg"
@@ -13,7 +13,7 @@ readingTime: 13
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "USA eSIM Unbegrenzte Datentarife 2026: Was ist wirklich unbegrenzt?"
+h1title: "USA eSIM unbegrenzt: Fair Use, Drosselung und Alternativen"
 
 # Seitentitel für Seitenleisten-Module
 productsTitle: "Beliebte eSIM-Tarife"

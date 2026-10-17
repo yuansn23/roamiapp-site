@@ -1,9 +1,9 @@
 ---
-title: "USA eSIM vs physische SIM: Was ist die bessere Wahl?"
-description: "USA-eSIM, physische SIM oder Pocket WiFi? Kosten und Abdeckung für jede Reise im Vergleich – mit automatischem Netzwechsel."
-keywords: ["USA eSIM vs physische SIM", "eSIM vs physische SIM USA", "USA Pocket WiFi vs eSIM"]
+title: "USA SIM Karte oder eSIM: Was sich 2026 wirklich lohnt"
+description: "USA SIM Karte, eSIM oder Pocket WiFi? Kosten, Aktivierung und Abdeckung im direkten Vergleich – inklusive der Fälle, in denen die SIM-Karte gewinnt."
+keywords: ["USA SIM Karte", "USA SIM Karte kaufen", "USA eSIM vs physische SIM", "USA Pocket WiFi", "eSIM oder SIM Karte USA"]
 date: 2026-08-24T00:00:00Z
-lastmod: 2026-08-24T00:00:00Z
+lastmod: "2026-10-17T00:00:00Z"
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden, mit einfachen eSIM-Tarifen verbunden zu bleiben."
 image: "/img/esim/usa/usa-esim-vs-physical-sim.jpg"
@@ -13,7 +13,7 @@ readingTime: 11
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "USA eSIM vs physische SIM vs Pocket WiFi: Was ist am besten?"
+h1title: "USA SIM Karte kaufen oder eSIM nutzen? Der Vergleich"
 
 # Sidebar-Modultitel
 productsTitle: "Beliebte eSIM-Tarife"

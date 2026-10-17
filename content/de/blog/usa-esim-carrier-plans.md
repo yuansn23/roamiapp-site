@@ -1,9 +1,9 @@
 ---
-title: "T-Mobile vs AT&T vs Verizon eSIM: Bester Vergleich"
-description: "Prepaid-eSIM-Tarife von T-Mobile, AT&T und Verizon: Preise und Abdeckung im Vergleich – Roami mit automatischem Netzwechsel."
-keywords: ["T-Mobile vs AT&T vs Verizon eSIM", "USA Prepaid eSIM Tarife", "T-Mobile Touristen eSIM", "AT&T Prepaid eSIM Bewertung", "Verizon eSIM für Reisende"]
+title: "eSIM für USA: Telekom, Vodafone, o2 und US-Netze"
+description: "eSIM für USA Telekom, Vodafone, o2, congstar oder direkt bei T-Mobile, AT&T und Verizon: Was Roaming kostet und wann sich welcher Weg lohnt."
+keywords: ["eSIM für USA Telekom", "USA eSIM Vodafone", "USA eSIM T-Mobile", "AT&T eSIM USA", "USA Prepaid eSIM Tarife"]
 date: 2026-08-24T00:00:00Z
-lastmod: 2026-08-24T00:00:00Z
+lastmod: "2026-10-17T00:00:00Z"
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden, mit einfachen eSIM-Tarifen verbunden zu bleiben."
 image: "/img/esim/usa/usa-esim-carrier-plans.jpg"
@@ -13,7 +13,7 @@ readingTime: 15
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "T-Mobile vs AT&T vs Verizon eSIM: Die besten US-Anbietertarife"
+h1title: "eSIM für USA bei Telekom, Vodafone, o2 oder US-Carrier?"
 
 # Sidebar-Modultitel
 productsTitle: "Beliebte eSIM-Tarife"
@@ -77,7 +77,7 @@ recentPosts:
     permalink: "/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/"
     date: "2026-05-20"
 ---
-Für eine vollständige USA-eSIM-Übersicht siehe den [vollständigen USA-eSIM-Leitfaden](/blog/usa-esim-complete-guide/).
+Eine eSIM für USA Telekom, Vodafone oder o2 ist die naheliegende erste Idee – sie rechnet sich aber nur für kurze Aufenthalte. Deutsche Netzbetreiber verkaufen USA-Datenpässe pro Tag, US-Carrier verkaufen Prepaid-Tarife pro Monat, internationale eSIM-Anbieter pro Gigabyte. Dieser Leitfaden vergleicht alle drei Wege und sagt, ab welcher Reiselänge welcher gewinnt. Für eine vollständige USA-eSIM-Übersicht siehe den [vollständigen USA-eSIM-Leitfaden](/blog/usa-esim-complete-guide/).
 
 Beim Vergleich von USA-Prepaid-eSIM-Tarifen decken T-Mobile, AT&T und Verizon die überwiegende Mehrheit der Amerikaner mit 4G LTE ab, wobei Verizon in ländlichen Gebieten dominiert. Für Touristen hängt die Wahl zwischen einer anbieterbasierten eSIM und einem internationalen Anbieter von der Reiseroute, dem Datenbedarf und dem Budget ab.
 
@@ -352,6 +352,25 @@ Die Aktivierung einer Verizon Prepaid eSIM als Nicht-US-Bürger erfordert die fo
 - Einige Android-Telefone müssen nach der Installation möglicherweise manuell APN-konfiguriert werden (APN: `vzwinternet`)
 
 ---
+
+## Telekom, Vodafone und o2: Wann sich der deutsche Weg lohnt
+
+Deutsche Netzbetreiber verkaufen für die USA keine eSIM im eigentlichen Sinn, sondern Datenpässe, die auf Ihrer bestehenden SIM oder eSIM laufen. Bei der Telekom heißt das Reiseoption Travel & Surf, bei Vodafone EasyTravel, bei o2 gibt es Travel Day Packs; congstar folgt dem Telekom-Schema. Technisch ist das Roaming, nicht ein zweites Profil – die Abrechnung läuft über Ihre Mobilfunkrechnung, die Nummer bleibt unverändert.
+
+Die Logik dahinter ist eine andere als bei einer Reise-eSIM: Sie zahlen pro Tag, nicht pro Gigabyte, und die Tagesflat wird nach einem definierten Volumen gedrosselt. Das macht den Vergleich einfach, sobald Sie Ihre Reisetage kennen:
+
+| Reise | Deutscher Datenpass | Reise-eSIM |
+|---|---|---|
+| 2–3 Tage, unter 1 GB pro Tag, Nummer muss erreichbar bleiben | meist einfacher, keine Installation | günstiger pro GB, aber zweite Leitung |
+| 1 Woche und mehr | Tagespreis × Tage wird schnell teurer als ein 10–20-GB-Paket | klarer Vorteil, besonders mit Hotspot |
+| Laptop oder Tablet mitversorgen | Hotspot oft ausgeschlossen oder limitiert | Hotspot in der Regel im Tarif enthalten |
+| Diensthandy mit MDM-Sperre | funktioniert, weil nichts installiert wird | Installation kann durch die Firmenrichtlinie blockiert sein |
+
+Drei Fälle sprechen trotzdem für den deutschen Weg. Erstens der Kurztrip: Wer drei Tage geschäftlich in New York ist und nur E-Mails und Navigation braucht, spart sich mit einem Tagespass die Installation. Zweitens das Dienstgerät, auf dem keine zusätzlichen Profile erlaubt sind. Drittens, wenn die Erreichbarkeit unter der gewohnten Nummer wichtiger ist als der Datenpreis – etwa wenn Kunden oder die Familie anrufen sollen.
+
+Gegen den deutschen Weg spricht die Drosselung: Sobald das Tagesvolumen verbraucht ist, wird die Verbindung gedrosselt, und ein Videocall oder das Hochladen von Fotos wird zäh. Wer pro Reisetag mehr als ein Gigabyte braucht oder den Laptop mitversorgt, fährt mit einem GB-basierten Tarif günstiger und ohne Tempolimit.
+
+Für Reisende, die ohnehin eine US-Rufnummer brauchen, ist der Umweg über einen US-Carrier sinnvoller als ein deutscher Datenpass: T-Mobile, AT&T und Verizon verkaufen Prepaid-Tarife mit US-Nummer direkt an Reisende, wie oben beschrieben. Die Kombination aus deutscher Heim-SIM für Anrufe und einer [USA-eSIM mit Telefonnummer](/blog/usa-esim-with-phone-number/) für Daten und lokale Erreichbarkeit deckt beide Anforderungen ab, ohne dass Sie zwei Verträge bei deutschen Anbietern brauchen.
 
 ## MVNO-Alternativen: Günstigere eSIMs über Anbieternetze
 

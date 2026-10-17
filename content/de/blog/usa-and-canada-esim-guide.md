@@ -1,9 +1,9 @@
 ---
-title: "USA und Kanada eSIM: Beste grenzüberschreitende Tarife im Vergleich"
-description: "Roami USA-und-Kanada-eSIM: beste grenzüberschreitende Tarife, Netzumschaltung und Abdeckung. Dual-SIM-Einrichtung und wie Sie Roaming-Gebühren vermeiden."
-keywords: ["USA Kanada eSIM", "US Kanada grenzüberschreitender eSIM", "Nordamerika eSIM Tarif", "USA Kanada eSIM Netzumschaltung", "USA Kanada eSIM Dual SIM"]
+title: "eSIM USA und Kanada: Ein Tarif für beide Länder"
+description: "eSIM für USA und Kanada: regionale Tarife im Vergleich, Netzumschaltung an der Grenze und wann zwei Länder-Tarife günstiger sind."
+keywords: ["eSIM USA und Kanada", "eSIM Nordamerika", "eSIM USA Kanada Mexiko", "eSIM USA und Karibik", "USA Kanada eSIM Vergleich"]
 date: 2026-09-19T00:00:00Z
-lastmod: 2026-09-19T00:00:00Z
+lastmod: "2026-10-17T00:00:00Z"
 author: "Roami Team"
 authorBio: "Roami bietet zuverlässige eSIM-Tarife, bedient jährlich über 1 Million Reisende und unterstützt den automatischen Wechsel zum lokalen Netz, damit Reisende weltweit verbunden bleiben."
 image: "/img/esim/canada/usa-canada-esim-guide.jpg"
@@ -13,7 +13,7 @@ readingTime: 10
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "USA und Kanada eSIM: Beste grenzüberschreitende Tarife & wie Netzumschaltung funktioniert"
+h1title: "eSIM für USA und Kanada: Grenzüberschreitend ohne Tarifwechsel"
 
 # Sidebar module titles
 productsTitle: "Beliebte eSIM-Tarife"
@@ -78,7 +78,7 @@ recentPosts:
     date: "2026-05-20"
 ---
 
-Wenn Ihre Reiseroute sowohl die Vereinigten Staaten als auch Kanada berührt, ist die erste Entscheidung, ob Sie einen regionalen Tarif oder zwei ländergetrennte Tarife kaufen. Ein regionaler eSIM deckt beide Länder mit einem einzigen Kauf und einer einzigen Installation ab und schaltet an der Grenze automatisch Netze um, sodass Sie nie Karten wechseln oder mitten in der Reise einen neuen Tarif kaufen. Wenn Sie die ganze Zeit in einem Land bleiben, ist ein ländergetrennter Tarif meist günstiger und einfacher. Die folgende Tabelle ordnet jede grenzüberschreitende Situation einem empfohlenen Anbieter zu, gefolgt von den vier Fakten, die beim Vergleich am wichtigsten sind.
+Wenn Ihre Reiseroute sowohl die USA als auch Kanada berührt, ist die erste Entscheidung, ob Sie einen regionalen Tarif oder zwei ländergetrennte Tarife kaufen. Ein regionaler eSIM deckt beide Länder mit einem einzigen Kauf und einer einzigen Installation ab und schaltet an der Grenze automatisch Netze um, sodass Sie nie Karten wechseln oder mitten in der Reise einen neuen Tarif kaufen. Wenn Sie die ganze Zeit in einem Land bleiben, ist ein ländergetrennter Tarif meist günstiger und einfacher. Die folgende Tabelle ordnet jede grenzüberschreitende Situation einem empfohlenen Anbieter zu, gefolgt von den vier Fakten, die beim Vergleich am wichtigsten sind.
 
 ## Kurze Antwort: Benötigen Sie einen US-Kanada-regionalen eSIM?
 

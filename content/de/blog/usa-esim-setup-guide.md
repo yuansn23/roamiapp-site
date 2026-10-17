@@ -1,9 +1,9 @@
 ---
-title: "USA-eSIM Einrichtungsleitfaden für iPhone & Android"
-description: "USA-eSIM in 5 Minuten einrichten: Installation, APN-Einstellungen und Aktivierung für iPhone und Android – Schritt für Schritt."
-keywords: ["USA-eSIM Einrichtungsleitfaden", "wie installiere ich USA-eSIM", "USA-eSIM Aktivierung iPhone", "USA-eSIM kompatible Geräte", "USA-eSIM APN-Einstellungen"]
+title: "USA eSIM aktivieren: iPhone & Android Anleitung"
+description: "USA eSIM aktivieren in 5 Minuten: Installation per QR-Code, APN-Einstellungen, Dual-SIM und typische Fehler bei iPhone und Android."
+keywords: ["USA eSIM aktivieren", "USA eSIM einrichten", "USA eSIM Installation", "USA eSIM APN Einstellungen", "USA eSIM kompatible Geräte"]
 date: 2026-08-24T00:00:00Z
-lastmod: 2026-08-24T00:00:00Z
+lastmod: "2026-10-17T00:00:00Z"
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden, mit einfachen eSIM-Tarifen verbunden zu bleiben."
 image: "/img/esim/usa/usa-esim-setup-guide.jpg"
@@ -13,7 +13,7 @@ readingTime: 18
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "So installieren und aktivieren Sie eine USA-eSIM"
+h1title: "USA eSIM aktivieren und einrichten: Schritt für Schritt"
 
 # Sidebar-Modultitel
 productsTitle: "Beliebte eSIM-Tarife"
@@ -293,7 +293,7 @@ iOS 18 führt einige Änderungen am eSIM-Installationsprozess ein:
 
 ### iPhone-Installationstipps:
 - Wenn das Scannen des QR-Codes fehlschlägt, erhöhen Sie die Bildschirmhelligkeit auf dem Gerät, das den QR-Code anzeigt
-- Für iPhone 14 und neuer (US-Modelle) gibt es keinen physischen SIM-Slot — eSIM ist die einzige Option
+- Für iPhone 14 und neuer (US-Modelle) gibt es keinen physischen SIM-Slot — eSIM ist die einzige Option (was das im Vergleich zur klassischen SIM bedeutet, steht im [Vergleich USA eSIM vs. physische SIM](/blog/usa-esim-vs-physical-sim/))
 - iPhone 15 Pro und neuer unterstützen die Installation von bis zu 8 eSIM-Profilen mit 2 gleichzeitig aktiven
 - Wenn Sie "eSIM kann nicht hinzugefügt werden" sehen, überprüfen Sie, ob Ihr iPhone netzgesperrt ist
 
