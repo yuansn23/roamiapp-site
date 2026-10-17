@@ -573,7 +573,7 @@ Here is the shortest possible decision framework:
 
 The China eSIM vs physical SIM decision ultimately comes down to one question: do you need Google Maps and WhatsApp? If yes, the eSIM is the right choice. If no, the physical SIM saves a few dollars but needs extra software if your needs change mid-trip.
 
-For a comprehensive overview of everything related to China eSIM, see the [China eSIM guide](/blog/china-esim-complete-guide/), which covers compatibility, providers, pricing, setup, and troubleshooting end to end. If this is your first eSIM, the [China eSIM beginner's guide](/blog/china-esim-first-time-beginners-guide/) walks through the whole process from scratch.
+For a comprehensive overview of everything related to China eSIM, see the [China eSIM guide](/blog/china-esim-complete-guide/), which covers compatibility, providers, pricing, setup, and troubleshooting end to end. If this is your first eSIM, the [China eSIM setup guide](/blog/china-esim-setup-installation-dual-sim/) walks through the whole process from scratch.
 
 ---
 

@@ -155,7 +155,7 @@ Nomad's 20 GB plan at $20.00 offers a lower price point if budget is the primary
 ---
 
 **6. Group Tour / Package Tour Travelers**
-Joining a guided group tour is one of the most popular ways to visit China —especially for first-time visitors. If you've never used a travel eSIM before, read the [China eSIM first-time beginners guide](/blog/china-esim-first-time-beginners-guide/) to get the basics down before choosing a plan. Tour operators handle hotels, transportation, and attraction tickets, but connectivity is your responsibility. You'll move between cities on a fixed schedule, often visiting 3-5 destinations in 7-10 days, with limited free time to troubleshoot connectivity issues.
+Joining a guided group tour is one of the most popular ways to visit China —especially for first-time visitors. If you've never used a travel eSIM before, read the [China eSIM setup guide](/blog/china-esim-setup-installation-dual-sim/) to get the basics down before choosing a plan. Tour operators handle hotels, transportation, and attraction tickets, but connectivity is your responsibility. You'll move between cities on a fixed schedule, often visiting 3-5 destinations in 7-10 days, with limited free time to troubleshoot connectivity issues.
 
 **Recommended data amount:** 5-10 GB for a typical 7-10 day group tour covering cities like Beijing, Xi'an, Shanghai, and Guilin. you'll use data for Google Maps during free exploration time, WhatsApp to stay in touch with family back home, WeChat to communicate with your tour guide, and social media for sharing photos.
 

@@ -883,3 +883,7 @@
 /es/blog/airalo-germany-esim-guide         /es/blog/germany-esim-providers-airalo-holafly-ubigi-comparison/ 301
 /tr/blog/airalo-germany-esim-guide/        /tr/blog/germany-esim-providers-airalo-holafly-ubigi-comparison/ 301
 /tr/blog/airalo-germany-esim-guide         /tr/blog/germany-esim-providers-airalo-holafly-ubigi-comparison/ 301
+
+# 2026-10-17 China cluster: beginner guide merged into the setup guide
+/blog/china-esim-first-time-beginners-guide/   /blog/china-esim-setup-installation-dual-sim/   301
+/blog/china-esim-first-time-beginners-guide    /blog/china-esim-setup-installation-dual-sim/   301

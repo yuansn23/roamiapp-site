@@ -249,9 +249,9 @@ For a China eSIM, the order matters more than the steps. Doing these three stage
 
 ## What Are Common China eSIM Problems and How Do You Fix Them?
 
-The most common issues — no signal after landing, activation failures, slow speeds, and blocked apps — all have straightforward fixes, usually starting with manual network selection.
+**Start with manual network selection.** After landing, most "China eSIM not working" cases are a phone still holding its home network, roaming left off for the eSIM line, or a blank APN field — not a broken plan. Toggle airplane mode for thirty seconds, confirm the eSIM is the data line, and check the APN before you contact support.
 
-→ 13 problem scenarios with fixes: [China eSIM troubleshooting guide](/blog/china-esim-troubleshooting-fix-guide/).
+→ Thirteen scenarios mapped to fixes, from a QR code that will not scan to data that dies outside the cities: [China eSIM troubleshooting guide](/blog/china-esim-troubleshooting-fix-guide/).
 
 ---
 
@@ -296,41 +296,41 @@ On a China eSIM a day of ordinary tourist use stays under 1GB — navigation is 
 
 ## Choosing the Right China eSIM for Your Trip Type
 
-Short trips need 3–5GB, business trips want reliability and hotspot support, digital nomads want speed and large plans, and families benefit from a shareable unlimited plan.
+**Work backwards from data, not from provider.** A four-day Beijing–Shanghai city break fits in 3GB; a two-week multi-city route with photo backup needs 20GB; a month-long stay is cheaper at a 50GB tier than in three separate top-ups. The common mistake is buying "unlimited" for a sightseeing trip that never clears 1GB a day.
 
-→ 18 traveler types mapped to providers: [China eSIM travel type](/blog/china-esim-travel-type-guide/).
+→ Fourteen trip shapes, each matched to the tier it actually needs: [China eSIM by travel type](/blog/china-esim-travel-type-guide/).
 
 ---
 
 ## Which Apps Work with an eSIM for China?
 
-Google Maps, Gmail, YouTube, WhatsApp, Instagram, and Facebook all work on an international routing eSIM. WeChat and Alipay work with a foreign card; a few mini-programs still require a Chinese number.
+**App access is decided by routing, not by brand.** On an eSIM that egresses internationally, Google Maps, Gmail, YouTube, WhatsApp, Instagram and Facebook open the way they do at home. WeChat and Alipay work with a foreign card, though a handful of mini-programs still insist on a Chinese number.
 
-→ App-by-app setup: [China eSIM apps guide](/blog/china-esim-apps-wechat-alipay-google-guide/).
+→ App-by-app behaviour, including the ones that need a workaround: [China eSIM apps guide](/blog/china-esim-apps-wechat-alipay-google-guide/).
 
 ---
 
 ## What About a Chinese Phone Number?
 
-Most travelers don't need one — a data-only eSIM plus your home SIM for SMS covers nearly everything. A Chinese number is only required for specific services like some bike-share and local food-delivery apps.
+**Most trips do not need a Chinese number.** A data-only eSIM plus your home SIM left active for SMS covers maps, messaging, ride-hailing and payments; a real +86 number matters mainly for food delivery, some bike-share accounts, and services that verify by local SMS.
 
-→ Options explained: [China eSIM phone number guide](/blog/china-esim-phone-number-registration/).
+→ What a Chinese number costs, who can legitimately sell you one, and the passport rules: [China eSIM phone number guide](/blog/china-esim-phone-number-registration/).
 
 ---
 
 ## Multi-Country Trips: China + Hong Kong + Macau + Asia
 
-China, Hong Kong, and Macau are separate networks — a China eSIM won't work in Hong Kong. For multi-destination trips, use a multi-country eSIM (3HK, CMHK, or an Asia regional plan) or separate eSIMs per destination.
+**A China eSIM stops working the moment you cross into Hong Kong.** The three territories are separate networks with separate registration rules, so the choice is a multi-country plan (3HK, CMHK, or an Asia regional product) or one eSIM per stop — and which of those wins depends on how many stops you have, not on brand.
 
-→ Itinerary planning: [China eSIM multi-country guide](/blog/china-esim-multi-country-hongkong-macau/).
+→ Territory-by-territory rules, cross-border switching and the price comparison: [China, Hong Kong and Macau guide](/blog/china-esim-multi-country-hongkong-macau/).
 
 ---
 
-## First Time Using an eSIM? Start Here
+## New to eSIM? Five Things to Settle Before You Buy
 
-An eSIM is just a digital SIM — scan a QR code and you're connected, no physical card to lose. Install it before departure, enable data roaming, and keep your home SIM active for SMS.
+**Install it three days before you fly, not the night before.** That gap is what catches a carrier-locked phone, a mainland-China iPhone with no eSIM hardware, or a QR code that never arrives — while you still have time to fix it. The install itself takes about two minutes.
 
-→ Beginner walkthrough, trials, and support: [China eSIM beginner's guide](/blog/china-esim-first-time-beginners-guide/).
+→ Device-by-device install, APN fields, free trials, reinstall rules and support contacts: [China eSIM setup guide](/blog/china-esim-setup-installation-dual-sim/).
 
 ---
 
