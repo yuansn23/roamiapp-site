@@ -1,7 +1,7 @@
 ---
 title: "Are Turkey eSIMs Legit? Scams, Reviews and Fixes"
 description: "What Reddit and review forums report about Turkey eSIMs — scams, activation failures, refunds — and why Roami prioritises support."
-keywords: ["turkey esim reddit", "turkey esim reviews", "is turkey esim legit", "turkey esim scam", "turkey esim complaints", "airalo turkey esim review", "turkey esim trustworthy"]
+keywords: ["esim turkey reviews"]
 date: 2026-09-17T00:00:00Z
 lastmod: 2026-09-17T00:00:00Z
 author: "Roami Team"
@@ -175,7 +175,7 @@ Multiple users report the eSIM installed but never connected. The standard troub
 
 ### FUP Throttling
 
-Holafly’s unlimited plans throttle to 0.148 Mbps after the daily threshold of 2–3 GB. Video streaming becomes impossible.
+Holafly’s unlimited plans throttle to 0.148 Mbps after the daily threshold of 2–3 GB. Video streaming becomes impossible. The throughput tables in the [Turkey unlimited data eSIM FUP analysis](/blog/turkey-esim-unlimited-data-fup/) show what that rate can and cannot carry.
 
 ### Holafly Refund Policy Reality
 

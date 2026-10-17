@@ -1,7 +1,7 @@
 ---
-title: "Turkey eSIM Guide: All You Need to Know Before You Go"
+title: "Turkey Travel eSIM Guide: Everything Before You Go"
 description: "The complete Turkey eSIM guide covering BTK rules, activation, devices, providers and pricing, with Roami as your low-risk pick."
-keywords: ["turkey esim guide", "turkey esim", "turkey esim explained", "everything about turkey esim", "turkey esim faq", "turkey esim complete guide", "turkey esim for beginners"]
+keywords: ["travel esim for turkey", "esim for turkey", "turkey esim", "esim turkey", "turkey esim data", "turkey esim card", "esim turkey travel plans", "esim turkey data packages"]
 date: 2026-09-17T00:00:00Z
 lastmod: 2026-09-17T00:00:00Z
 author: "Roami Team"
@@ -70,7 +70,7 @@ recentPosts:
 ---
 
 
-Turkey is unlike any other eSIM destination because three layers decide whether your plan works: the BTK platform block, the IMEI 120/240-day registration rule, and the network choice between Turkcell, Vodafone and Türk Telekom. Understand those three and most Turkey eSIM decisions become straightforward, from whether a pre-installed profile connects after landing to which provider you should trust with your money. This guide ties the whole picture together — legality, installation, activation, devices, data budgets and providers — and answers each question directly in the first paragraph of its section, routing you to a deeper article only when you want the full reasoning.
+Turkey is unlike any other travel eSIM destination because three layers decide whether your plan works: the BTK platform block, the IMEI 120/240-day registration rule, and the network choice between Turkcell, Vodafone and Türk Telekom. Understand those three and most Turkey eSIM decisions become straightforward, from whether a pre-installed profile connects after landing to which provider you should trust with your money. This guide ties the whole picture together — legality, installation, activation, devices, data budgets and providers — and answers each question directly in the first paragraph of its section, routing you to a deeper article only when you want the full reasoning.
 
 ## Turkey eSIM Ultimate Guide: Bans, Activation, Devices, Plans & Providers
 
@@ -223,7 +223,7 @@ Airalo connects only to Türk Telekom. In Cappadocia's valleys, the eSIM has sig
 
 Holafly throttles to 0.148 Mbps after 2–3 GB per day. Saily throttles to 1 Mbps after 5 GB per day. The "unlimited" plan is slower than a fixed-data plan after the threshold.
 
-**Fix:** Check the daily high-speed allowance before buying. If it is not disclosed, assume the worst. Want to compare real-world speeds before paying? [Free eSIM options](/free-esim/) exist for exactly that.
+**Fix:** Check the daily high-speed allowance before buying. If it is not disclosed, assume the worst. For the full throttle arithmetic — what 0.148 Mbps and 1 Mbps can actually do, and the 20 GB break-even against fixed data — read the [Turkey unlimited data eSIM FUP analysis](/blog/turkey-esim-unlimited-data-fup/). Want to compare real-world speeds before paying? [Free eSIM options](/free-esim/) exist for exactly that.
 
 ### Mistake 4: Installing After You Land
 

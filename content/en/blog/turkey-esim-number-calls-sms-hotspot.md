@@ -1,7 +1,7 @@
 ---
-title: "Can Your Turkey eSIM Make Calls, SMS and Hotspot?"
+title: "Turkey eSIM Voice and Data: Calls, SMS and Hotspot"
 description: "See what Turkey eSIMs can actually do for calls, SMS, 2FA and hotspot, and how Roami’s unrestricted tethering keeps you connected."
-keywords: ["turkey esim phone number", "turkey esim calls and sms", "turkey esim hotspot", "turkey esim 2fa", "turkey esim wifi calling", "turkey esim data only", "turkey esim voice calls"]
+keywords: ["turkey esim voice and data", "esim with calls and texts", "esim with phone number"]
 date: 2026-09-17T00:00:00Z
 lastmod: 2026-09-17T00:00:00Z
 author: "Roami Team"
@@ -70,7 +70,7 @@ recentPosts:
 ---
 
 
-Most travel eSIMs give you data only, which means no real Turkish phone number, and the search results for Turkey eSIM with a number contradict each other because providers use the word in different ways. A few advertise virtual numbers that cannot receive SMS from Turkish banks, while others are simply data-only and rely on VoIP apps such as WhatsApp or FaceTime for calls. This guide explains the difference between an IMSI and an MSISDN, when you genuinely need a Turkish number, how Wi-Fi Calling can carry your home number over the eSIM's data connection, and what every major provider's hotspot policy allows before you tether.
+Most travel eSIMs give you data only — no voice calls on a real Turkish number, and the search results for Turkey eSIM with a number contradict each other because providers use the word in different ways. A few advertise virtual numbers that cannot receive SMS from Turkish banks, while others are simply data-only and rely on VoIP apps such as WhatsApp or FaceTime for calls. This guide explains the difference between an IMSI and an MSISDN, when you genuinely need a Turkish number, how Wi-Fi Calling can carry your home number over the eSIM's data connection, and what every major provider's hotspot policy allows before you tether.
 
 ## Turkey eSIM with Number, Calls, SMS & Hotspot: What Works
 
@@ -362,7 +362,7 @@ Hotspot capability is one of the most important differences between Turkey eSIM 
 
 ### Why Unlimited Turkey eSIM Plans Restrict Hotspot
 
-Tethering consumes more data than phone-only use. A laptop running video calls, cloud sync and web browsing can consume 3–5 GB per day. Providers cap hotspot to prevent disproportionate network use.
+Tethering consumes more data than phone-only use. A laptop running video calls, cloud sync and web browsing can consume 3–5 GB per day. Providers cap hotspot to prevent disproportionate network use. For what the throttle tier actually delivers after the cap — and how unlimited compares with fixed data at the 20 GB break-even — see the [Turkey unlimited data eSIM FUP analysis](/blog/turkey-esim-unlimited-data-fup/).
 
 ### How Providers Detect Turkey eSIM Hotspot
 

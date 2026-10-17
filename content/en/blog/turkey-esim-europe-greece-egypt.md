@@ -1,7 +1,7 @@
 ---
 title: "Does Your Europe eSIM Cover Turkey, Greece and Egypt?"
 description: "Check whether Europe, Greece, Egypt and North Cyprus regional plans cover Turkey, and why Roami beats the country-count trap."
-keywords: ["turkey europe esim regional plan", "does europe esim cover turkey", "turkey greece esim", "turkey egypt esim", "north cyprus esim", "turkey regional esim plan", "europe esim turkey coverage"]
+keywords: ["esim for turkey and greece", "best esim for turkey and egypt", "sim card for turkey and europe"]
 date: 2026-09-17T00:00:00Z
 lastmod: 2026-09-17T00:00:00Z
 author: "Roami Team"

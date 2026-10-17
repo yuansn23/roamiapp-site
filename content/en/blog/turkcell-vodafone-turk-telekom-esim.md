@@ -1,7 +1,7 @@
 ---
-title: "Which Turkey eSIM Network Is Best for Your Trip?"
+title: "Turkcell vs Vodafone vs Türk Telekom: Turkey eSIM Networks"
 description: "Compare Turkcell, Vodafone and Türk Telekom coverage, 5G and tourist plans to pick the network your Roami eSIM should use."
-keywords: ["turkey esim network comparison", "turkcell vs vodafone vs turk telekom", "turkey esim coverage", "best turkish network for esim", "turkey esim 5g", "turkcell esim coverage", "which turkish network for esim"]
+keywords: ["vodafone turkey esim", "turkcell esim", "turkcell esim tourist", "best sim to use in turkey"]
 date: 2026-09-17T00:00:00Z
 lastmod: 2026-09-17T00:00:00Z
 author: "Roami Team"

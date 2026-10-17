@@ -1,7 +1,7 @@
 ---
 title: "The Cheapest Turkey eSIM: Your Complete Cost Guide"
 description: "Find the truly cheapest Turkey eSIM with our price-per-GB math and hidden-cost audit, then see how Roami keeps trip costs low."
-keywords: ["cheapest turkey esim", "turkey esim price per gb", "turkey esim deals", "cheap esim turkey", "turkey esim cost", "turkey esim hidden costs", "turkey esim discount"]
+keywords: ["cheapest esim for turkey", "cheap esim for turkey", "turkey sim card price", "turkey esim deals", "esim turkey prepaid options"]
 date: 2026-09-17T00:00:00Z
 lastmod: 2026-09-17T00:00:00Z
 author: "Roami Team"
@@ -108,7 +108,7 @@ The price per GB curve is steep because wholesale data is negotiated in bulk. A 
 
 ### Why the Curve Is Steep
 
-Wholesale data is negotiated in bulk. A provider that commits to a larger data pool gets a lower per-GB rate. The marginal cost of each additional gigabyte falls as plan size increases. Buying 20 GB from a mid-priced provider is cheaper per GB than buying 1 GB from the cheapest provider. This is the same wholesale dynamic that governs data pricing across the [GSMA eSIM ecosystem](https://www.gsma.com/esim/).
+The steepness comes from how wholesale contracts are tiered: a lower rate applies to the whole pool once you commit to it, not only to the extra gigabytes. Buying 20 GB from a mid-priced provider is cheaper per GB than buying 1 GB from the cheapest provider. This is the same wholesale dynamic that governs data pricing across the [GSMA eSIM ecosystem](https://www.gsma.com/esim/).
 
 ### The Small-Plan Trap
 
@@ -179,7 +179,7 @@ An unlimited plan advertised at $25 for 7 days does not deliver unlimited high-s
 | 10 GB fixed | 10 GB | None | 10 GB | $0.93 |
 | 20 GB fixed | 20 GB | None | 20 GB | $0.67 |
 
-Fixed-data plans often deliver a better effective price per usable GB than unlimited plans. For the full FUP breakdown, read the [FUP and hotspot guide](/blog/turkey-esim-number-calls-sms-hotspot/).
+Fixed-data plans often deliver a better effective price per usable GB than unlimited plans. For the full FUP breakdown, read the [FUP and hotspot guide](/blog/turkey-esim-number-calls-sms-hotspot/), and for what the throttle tiers actually deliver minute by minute, read the [Turkey unlimited data eSIM FUP analysis](/blog/turkey-esim-unlimited-data-fup/).
 
 ### Hotspot Caps
 
