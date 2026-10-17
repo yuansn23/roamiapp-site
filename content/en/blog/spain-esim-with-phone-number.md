@@ -1,7 +1,7 @@
 ---
 title: "Spain eSIM with Phone Number: Calls and SMS Plans"
 description: "Spain eSIM with +34 Spanish number. Get local calls and SMS for Renfe and Cabify. Compare Orange Holiday and Vodafone plans."
-keywords: ["Spain eSIM with phone number", "buy Spain eSIM with number", "Spain eSIM +34 number", "temporary Spanish number", "Spain eSIM voice calls", "Spain eSIM SMS verification", "tourist eSIM with phone number", "Orange Holiday Spain eSIM", "Spain eSIM prepaid number"]
+keywords: ["Spain eSIM with phone number", "Spain SIM card with phone number", "Spanish eSIM with phone number", "eSIM with local number", "eSIM with calls and texts"]
 date: 2026-09-12T00:00:00Z
 lastmod: 2026-10-09T00:00:00Z
 author: "Roami Team"
@@ -52,7 +52,7 @@ recentPosts:
 ---
 
 **Quick Answer – Our Take:**  
-**Orange Holiday Europe is the best tourist plan if you need a number** – 20 GB of data, a working European (+33) number that receives calls, SMS, and verification codes in Spain, plus unlimited voice calls across Europe, valid for 30 days from $29.99. No passport registration, no in-store visits – buy it online before you leave.  
+**Orange Holiday Europe is the best tourist eSIM plan if you need a phone number** – 20 GB of data, a working European (+33) number that receives calls, SMS, and verification codes in Spain, plus unlimited voice calls across Europe, valid for 30 days from $29.99. No passport registration, no in-store visits – buy it online before you leave.  
 **But before you buy, ask yourself: do you actually need a number?** Most travelers don't. Data-only eSIMs start at around $2 and work perfectly for maps, messaging, and browsing.  
 **You need a number if:** you're booking Renfe trains, using Cabify or Uber Spain, reserving restaurants via ElTenedor, or you need SMS verification codes for local apps.  
 **For stays over 3 weeks**, skip the tourist eSIMs – buy a prepaid plan in-store from Movistar, Orange, Vodafone, or Yoigo (from EUR 10) with passport registration.

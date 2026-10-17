@@ -1,7 +1,7 @@
 ---
-title: "Spain eSIM for Beach Holidays: Islands and Costa"
+title: "Canary Islands eSIM & Spain Beach Holiday Guide"
 description: "Spain eSIM for beach holidays on Costa del Sol, Canary and Balearic Islands. Auto network switching, 5G speeds, prepaid plans."
-keywords: ["Spain travel eSIM", "buy Spain eSIM", "Spain eSIM instant delivery", "Costa del Sol eSIM", "Canary Islands eSIM", "Balearic Islands eSIM", "Spain coastal eSIM"]
+keywords: ["Canary Islands eSIM"]
 date: 2026-09-12T00:00:00Z
 lastmod: 2026-10-09T00:00:00Z
 author: "Roami Team"
@@ -13,7 +13,7 @@ readingTime: 12
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Spain Travel eSIM 2026: Best Beach Holiday Plans for Costa del Sol, Canary & Balearic Islands"
+h1title: "Spain eSIM for Beach Holidays: Costa del Sol & Islands 2026"
 productsTitle: "Popular eSIM Plans"
 hotPostsTitle: "Hot Articles"
 recentPostsTitle: "Recent Posts"

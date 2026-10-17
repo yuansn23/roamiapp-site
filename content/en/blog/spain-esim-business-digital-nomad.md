@@ -1,7 +1,7 @@
 ---
 title: "Spain eSIM for Business and Digital Nomad Travel"
 description: "Spain eSIM for business travel and digital nomads. Reliable data for video calls and AVE trains with auto network switching."
-keywords: ["Spain eSIM business", "Spain eSIM digital nomad", "Spain eSIM remote work", "Spain eSIM video calls", "Spain eSIM for work", "Spain eSIM for business travel", "Spain eSIM for remote work", "Spain eSIM with hotspot", "Spain eSIM for AVE trains"]
+keywords: ["Spain eSIM digital nomad", "Spain eSIM business travel"]
 date: 2026-09-12T00:00:00Z
 lastmod: 2026-10-09T00:00:00Z
 author: "Roami Team"

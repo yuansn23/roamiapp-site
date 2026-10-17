@@ -1,7 +1,7 @@
 ---
 title: "Spain eSIM Coverage: Barcelona, Madrid and AVE Trains"
 description: "Spain eSIM coverage: 5G in Barcelona, Madrid, AVE trains and islands. Compare Movistar, Orange and Vodafone for the best signal."
-keywords: ["Spain eSIM coverage", "Spain eSIM 5G", "AVE train eSIM Spain", "Canary Islands eSIM", "Barcelona eSIM coverage", "best carrier for Spain travel", "Spain eSIM coverage map", "Spain mobile coverage by region"]
+keywords: ["eSIM Barcelona", "eSIM Madrid", "best eSIM for Madrid"]
 date: 2026-09-12T00:00:00Z
 lastmod: 2026-10-09T00:00:00Z
 author: "Roami Team"

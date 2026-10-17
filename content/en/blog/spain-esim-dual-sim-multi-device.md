@@ -1,7 +1,7 @@
 ---
 title: "Spain eSIM Dual SIM Setup: iPhone and Android Guide"
 description: "Set up Spain eSIM Dual SIM on iPhone and Android. Keep your home number for WhatsApp and 2FA while using cheap data for hotspot."
-keywords: ["Spain eSIM dual SIM", "Spain eSIM home number", "Spain eSIM iPhone Android", "Renfe eSIM Spain", "Spain eSIM hotspot"]
+keywords: ["eSIM vs dual SIM", "using dual SIM eSIM"]
 date: 2026-09-12T00:00:00Z
 lastmod: 2026-10-09T00:00:00Z
 author: "Roami Team"

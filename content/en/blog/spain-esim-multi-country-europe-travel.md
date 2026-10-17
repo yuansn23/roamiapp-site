@@ -1,7 +1,7 @@
 ---
-title: "Europe Multi-Country eSIM Guide for Spain Travelers"
+title: "Spain and Portugal eSIM: Multi-Country Europe Guide"
 description: "Multi-country eSIM for Spain, Portugal and France with Roami. Seamless cross-border connectivity and auto network switching."
-keywords: ["Spain multi-country eSIM", "Europe travel eSIM", "Europe eSIM", "Spain Portugal eSIM", "Spain France eSIM", "cross-border eSIM Spain"]
+keywords: ["eSIM Spain and Portugal", "eSIM card for Spain and Portugal", "eSIM for Spain and Portugal", "best eSIM for Spain and Portugal"]
 date: 2026-09-12T00:00:00Z
 lastmod: 2026-10-09T00:00:00Z
 author: "Roami Team"

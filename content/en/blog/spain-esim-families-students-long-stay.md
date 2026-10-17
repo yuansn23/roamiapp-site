@@ -1,7 +1,7 @@
 ---
 title: "Spain eSIM for Families and Long-Stay Travelers"
 description: "Spain eSIM for families, students and language learners. Reliable long-stay connectivity with Roami and auto network switching."
-keywords: ["Spain eSIM for families", "Spain eSIM for students", "Spain eSIM long stay", "Spain eSIM language learners", "Spain eSIM group travel"]
+keywords: ["Spain eSIM for families", "Spain eSIM for students", "Spain eSIM long stay"]
 date: 2026-09-12T00:00:00Z
 lastmod: 2026-10-09T00:00:00Z
 author: "Roami Team"
