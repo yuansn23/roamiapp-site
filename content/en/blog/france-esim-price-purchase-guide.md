@@ -1,9 +1,9 @@
 ---
 title: "France eSIM Prices: Cheapest Plans and How to Buy"
 description: "France eSIM guide: cheapest plans from $3, 7-day tourist pricing, 30-day costs, unlimited 5G. Roami promo codes and free trial."
-keywords: ["France eSIM price", "cheapest France eSIM", "France eSIM 5G plans", "France eSIM promo code", "France eSIM cost per GB"]
+keywords: ["France eSIM price", "buy esim for france", "france esim deals", "france esim prepaid", "esim france unlimited data", "buy a french sim card", "french sim card pay as you go", "best place to buy a sim card in france"]
 date: 2026-09-17T00:00:00Z
-lastmod: 2026-10-07T00:00:00Z
+lastmod: "2026-10-17T00:00:00Z"
 author: "Roami Team"
 authorBio: "Publisher of this France eSIM comparison. Prices and coverage data are cross-checked against carrier and provider websites and corrected when they change."
 image: "/img/esim/france/france-esim-price-purchase-guide.jpg"
@@ -194,7 +194,7 @@ For help resolving common eSIM issues that may arise after purchase, see our [Fr
 
 ---
 
-## US Carrier Roaming vs France eSIM: Cost Comparison
+## US Carrier Roaming vs eSIM: Cost Comparison
 
 For US travelers, the cost difference between carrier roaming and an eSIM is the single most impactful financial decision for a France trip.
 
@@ -399,7 +399,7 @@ For a speed comparison of France's four networks (Orange leads at roughly 250 Mb
 
 ---
 
-## CDG Airport Physical SIM Trap for France eSIM Buyers
+## CDG Airport Physical SIM Trap for eSIM Buyers
 
 Charles de Gaulle Airport has multiple stores selling physical SIM cards to arriving tourists. These are almost always more expensive than eSIMs purchased online.
 
@@ -551,7 +551,7 @@ France eSIMs are typically expensable as "mobile communications" or "travel conn
 
 ---
 
-## France eSIM Multi-Line Pricing for Families and Groups
+## Multi-Line Pricing for Families and Groups
 
 Traveling with family or in a group multiplies connectivity costs. Strategic planning reduces the per-person expense.
 
@@ -718,7 +718,7 @@ Family travelers need to manage connectivity costs across multiple devices witho
 
 ---
 
-## France eSIM Seasonal Price Variations
+## Seasonal Price Variations
 
 France eSIM prices are relatively stable throughout the year, but some patterns affect availability and value.
 

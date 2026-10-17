@@ -1,9 +1,9 @@
 ---
 title: "France eSIM Setup: Dual SIM and Phone Number Guide"
 description: "France eSIM setup guide: install and activate on iPhone and Android, configure dual SIM, and understand French number options."
-keywords: ["France eSIM setup", "France eSIM installation", "France eSIM iPhone", "France eSIM dual SIM", "eSIM QR code activation", "France eSIM activation", "Orange eSIM setup", "eSIM installation guide"]
+keywords: ["France eSIM setup", "french sim card for iphone", "iphone dual sim esim", "how to activate esim", "esim plans for france", "france esim installation"]
 date: 2026-09-17T00:00:00Z
-lastmod: 2026-10-07T00:00:00Z
+lastmod: "2026-10-17T00:00:00Z"
 author: "Roami Team"
 authorBio: "Publisher of this France eSIM comparison. Prices and coverage data are cross-checked against carrier and provider websites and corrected when they change."
 image: "/img/esim/france/france-esim-setup-dual-sim-number.jpg"
@@ -872,7 +872,7 @@ For a comprehensive comparison of registration requirements across providers, se
 
 ---
 
-## Activating Your France eSIM Before Travel
+## Activating Your eSIM Before Travel
 
 Most France eSIM plans allow you to install the eSIM any time after purchase, with the plan validity starting only upon first connection to a French network. This is called "activation on first use."
 
@@ -969,7 +969,7 @@ A carefully configured [France eSIM for travel](/france-esim/) removes all frict
 
 ---
 
-## Troubleshooting France eSIM Setup Issues
+## Troubleshooting Setup Issues
 
 Even with careful preparation, issues can arise. This section covers the most common problems and their solutions. If you encounter **France eSIM not connecting** issues, these steps will help.
 

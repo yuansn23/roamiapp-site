@@ -1,9 +1,9 @@
 ---
 title: "Complete France eSIM Guide: Plans, Networks and Tips"
 description: "Complete France eSIM guide comparing the four networks, prices from $3, Paris 5G and TGV coverage, plus easy 5-minute setup."
-keywords: ["France eSIM guide", "France eSIM plans", "France mobile networks", "Paris 5G coverage", "France eSIM or physical SIM"]
+keywords: ["France eSIM guide", "esim for france travel", "esim card for france", "esim card for france travel", "buying a sim card in france", "do i need an esim for france"]
 date: 2026-09-17T00:00:00Z
-lastmod: 2026-10-07T00:00:00Z
+lastmod: "2026-10-17T00:00:00Z"
 author: "Roami Team"
 authorBio: "Publisher of this France eSIM comparison. Prices and coverage data are cross-checked against carrier and provider websites and corrected when they change."
 image: "/img/esim/france/france-esim-complete-guide.jpg"
