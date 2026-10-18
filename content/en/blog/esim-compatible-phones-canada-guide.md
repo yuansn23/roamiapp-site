@@ -1,7 +1,7 @@
 ---
 title: "eSIM Compatible Phones in Canada: Full Device List"
 description: "Roami eSIM compatible phones in Canada: full device list, EID checker, carrier-lock removal, and regional pitfalls to watch for."
-keywords: ["eSIM compatible phones Canada", "Canada eSIM EID check", "eSIM phone list Canada", "Canada eSIM carrier lock", "iPhone Samsung eSIM Canada"]
+keywords: ["esim compatible phones canada", "esim for iphone 11 canada", "iphone esim canada"]
 date: 2026-09-19T00:00:00Z
 lastmod: 2026-09-19T00:00:00Z
 author: "Roami Team"
@@ -92,9 +92,9 @@ Before you buy any Canada eSIM, you should confirm that your handset actually ha
 - **Samsung:** Settings → Connections → SIM Manager → look for “Add eSIM.”
 - **Google Pixel:** Settings → Network & Internet → SIMs → look for “Download a SIM instead?”
 
-**Most phones since 2018–2020 support eSIM**, but there are critical regional and carrier exceptions. This guide covers 40+ devices, regional version pitfalls, Canadian carrier-lock removal, and what to do if your phone does not support eSIM.
+**Most phones since 2018–2020 support eSIM**, but there are critical regional and carrier exceptions. This page is the working list of eSIM compatible phones in Canada — 40+ devices checked against Canadian stock, plus regional version pitfalls, carrier-lock removal, and what to do if your handset has no embedded SIM at all.
 
-**Want to test coverage first?** Try a [free eSIM trial](/free-esim/) or a [Roami Canada eSIM plan](/canada-esim/) from **$1.99** to confirm compatibility on your exact model. New users get **20% off** with code `web20`, with Roami's **24/7 human support** for setup help.
+**Compatibility lists only get you so far.** Install a [Roami Canada eSIM](/canada-esim/) from **$1.99** on your exact handset — if the profile installs, the hardware supports eSIM; if it refuses, no list would have told you. Code `web20` for 20% off a first order.
 
 If your phone passes the checks above, the next step is installation. See our [step-by-step setup guide](/blog/how-to-get-esim-in-canada-guide/). If you need a provider comparison first, see our [Canada eSIM provider database](/blog/canada-esim-comparison-2026/).
 
@@ -379,14 +379,9 @@ No. As of May 2026, Sony Xperia does not support eSIM.
 
 ## Canada Carrier Lock and eSIM Unlock Steps
 
-Even if your phone supports eSIM, it must be carrier-unlocked to use a third-party provider.
+Even if your phone supports eSIM, it must be carrier-unlocked to use a third-party provider. The 30-second status check is in [Check Carrier Lock Status](#check-carrier-lock-status) above — on iPhone it sits under Settings → General → About, on Android under Settings → About Phone → Status.
 
-In Canada, the CRTC requires Bell, Rogers, Telus, and Freedom Mobile to unlock devices free of charge. See the [CRTC Wireless Code](https://crtc.gc.ca/eng/phone/mobile/codes.htm).
-
-### How to Check If Your Phone Is Locked
-
-- **iPhone:** Settings → General → About → **Carrier Lock**. It should say “No SIM restrictions.”
-- **Android:** Settings → About Phone → Status → check network/SIM status.
+In Canada, the CRTC Wireless Code requires Bell, Rogers, Telus and Freedom Mobile to unlock devices free of charge ([CRTC Wireless Code](https://crtc.gc.ca/eng/phone/mobile/codes.htm)). A carrier that quotes an unlock fee is acting outside the code: ask for the request reference in writing, then escalate to the CCTS if the fee stands.
 
 ### How to Remove a Canadian Carrier Lock
 
@@ -488,7 +483,7 @@ For short trips with low data needs, use hotel/cafe/airport Wi-Fi with WhatsApp,
 5. **Confirm if you need a Canadian number** — for bank codes or Uber, see our [numbered eSIM guide](/blog/canada-esim-with-phone-number-guide/).
 6. **Check real user reviews** — see our [Reddit reputation summary](/blog/best-canada-esim-reddit-guide/).
 
-**Before you buy:** If you want to test coverage without committing to a full plan, try a [free eSIM trial](/free-esim/) or a [Roami Canada eSIM plan](/canada-esim/) from **$1.99**. New users get **20% off** with code `web20`, with Roami's **24/7 human support** for setup.
+**Before you buy, check the model number, not just the name.** Resellers ship the Chinese, Hong Kong and US variants under names that look identical in a listing, and those are the versions whose eSIM support differs. The model number is in Settings → General → About on iPhone and Settings → About Phone on Android; match it against the regional notes above before you pay, because a variant mismatch is not a refundable defect on most platforms.
 
 ## Canada eSIM Compatibility FAQ
 
@@ -517,7 +512,7 @@ Possible reasons:
 
 ### Can a carrier-locked phone use eSIM?
 
-No. The phone must be carrier-unlocked. In Canada, CRTC requires Bell, Rogers, Telus, and Freedom Mobile to unlock free of charge.
+No. The phone must be carrier-unlocked, and Canadian carriers cannot charge for that — the Wireless Code makes unlocking free, so a locked device only needs a request to its original carrier.
 
 ### Which phones are eSIM-only in 2026?
 
@@ -532,6 +527,8 @@ No. The phone must be carrier-unlocked. In Canada, CRTC requires Bell, Rogers, T
 Dial `*#06#` and look for EID. If EID appears, the hardware supports eSIM. Then check if your carrier has disabled it or if the regional version blocks it.
 
 ## Canada eSIM Compatibility Summary
+
+The short version: nearly every eSIM compatible phone sold in Canada since 2019 works with a travel eSIM, and the exceptions are regional variants and carrier-locked handsets rather than whole brands.
 
 ### Quick Device Compatibility Table
 
@@ -555,7 +552,7 @@ Dial `*#06#` and look for EID. If EID appears, the hardware supports eSIM. Then 
 2. **Watch regional versions** — same model, different eSIM support by region. Canadian iPhone 14–16 have physical SIM trays; Canadian iPhone 17 is eSIM-only.
 3. **Confirm the phone is unlocked** — carrier-locked phones cannot use third-party eSIM.
 
-If your phone supports eSIM, install your plan before departure. See our [step-by-step setup guide](/blog/how-to-get-esim-in-canada-guide/).
+If your phone supports eSIM, install the profile at home rather than at the airport — the [installation walkthrough](/blog/how-to-get-esim-in-canada-guide/) covers both the QR and manual-code paths.
 
 **Data note:** Device compatibility was verified in September 2026. Apple and Android regularly add new eSIM models.
 

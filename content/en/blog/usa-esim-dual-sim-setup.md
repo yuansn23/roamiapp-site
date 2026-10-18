@@ -1,7 +1,7 @@
 ---
 title: "USA eSIM Dual SIM Setup: Keep Your Home Number Active"
 description: "Keep home SIM active with a USA eSIM second line. iPhone and Android settings for calls, SMS, and data. Roami offers live support."
-keywords: ["USA eSIM dual SIM", "dual SIM setup USA eSIM", "keep home SIM active with eSIM", "iPhone dual SIM eSIM", "Android dual SIM eSIM setup"]
+keywords: ["usa esim dual sim", "dual sim setup usa esim", "keep home sim active with esim"]
 date: 2026-09-22T00:00:00Z
 lastmod: 2026-10-08T00:00:00Z
 author: "Roami Team"
@@ -334,7 +334,7 @@ Understanding how calls are routed helps you avoid unexpected charges:
 1. Go to Settings →Cellular →tap your eSIM line →ensure Data Roaming is ON
 2. Toggle airplane mode ON for 10 seconds, then OFF
 3. Restart your phone completely
-4. Go to Settings →Cellular →Network Selection →turn OFF Automatic →try each carrier (T-Mobile, AT&T, Verizon)
+4. **Pin the network by hand.** With two lines live the phone sometimes keeps hunting instead of registering; pick a carrier manually for the eSIM line and leave the home line on automatic.
 5. If still no service, the phone may be carrier-locked. Contact your home carrier to unlock
 
 Providers with live human support can often resolve no-service issues faster than chatbot-only systems. If your phone still says "No Service" after these steps, check the [connection troubleshooting guide](/blog/usa-esim-troubleshooting/) for detailed fixes.
@@ -349,7 +349,7 @@ This is a common concern. Here's what to check:
 
 ### Scenario B: You're using an eSIM with a US number (Tello, Google Fi, carrier prepaid)
 - **Can you receive SMS?** Yes — but your SMS will come to your US number, not your home number.
-- **What to do:** If you need SMS on your US number, check that the eSIM's voice line is set as default for SMS. For a full comparison, see the [USA eSIM with phone number](/blog/usa-esim-with-phone-number/).
+- **What to do:** If you need SMS on your US number, check that the eSIM's voice line is set as default for SMS. The [USA eSIM with phone number](/blog/usa-esim-with-phone-number/) guide maps which plans keep SMS alive on a second line.
 
 ### Scenario C: You're using a USA eSIM with your home SIM active (dual SIM setup)
 - **Can you receive SMS on your home number?** Yes — SMS arrives on your home SIM as usual.
@@ -379,7 +379,7 @@ Most eSIMs configure APN (Access Point Name) settings automatically during insta
 **Android:** Settings →Connections →Mobile networks →Access Point Names →tap "+" →enter the APN details from your provider. Note that some Android phones restrict APN editing when multiple SIMs are active — you may need to temporarily disable your home SIM to configure the eSIM's APN.
 
 ### Common APN values by provider
-- Airalo: APN is plan-specific — "globaldata" on global plans, "wbdata" on the USA plan
+- Airalo: two APNs are in circulation — `globaldata` for worldwide plans, `wbdata` for the US-only ones; the confirmation email states which one applies
 - Holafly: APN = "holafly"
 - Ubigi: APN = "ubigi"
 - Nomad: APN = "nomad"
@@ -496,7 +496,7 @@ Asian carriers typically have more restrictive roaming policies and higher costs
 
 Regardless of your home carrier, confirm these three things before your trip:
 
-1. **Is your phone unlocked?** A carrier-locked phone will not accept a USA eSIM from a different carrier. Contact your home carrier to request an unlock. Most carriers unlock phones automatically after the contract period ends.
+1. **Is your phone unlocked?** A handset still tied to a home carrier will refuse a profile from anyone else. Check the lock status before you buy; if it is locked, ask the carrier to release it, which in most markets happens at the end of the contract and sometimes on request mid-contract.
 2. **What are your SMS roaming costs?** For most travelers, receiving SMS on the home SIM is the primary reason to use dual SIM. If your carrier charges significantly for incoming SMS while roaming, consider either: (a) disabling the home SIM and using app-based 2FA, or (b) buying a roaming SMS package.
 3. **Can you make/receive calls on WiFi?** WiFi calling uses your eSIM's data connection to route calls through your home carrier. If your home carrier supports WiFi calling, enable it before you leave. This allows you to make and receive calls from your home number without using your home carrier's voice roaming network.
 
@@ -578,7 +578,7 @@ WhatsApp and iMessage work over data. Since your home number is still active on 
 Most phones support one physical SIM and one eSIM simultaneously. Some newer phones (iPhone 13 and later, Samsung S22 and later, Google Pixel 7 and later) support dual eSIM — two eSIMs active at once. Check your phone's specifications. The setup steps are the same as eSIM + physical SIM; you just configure both lines as eSIMs in the same menus.
 
 ### What should I do if my eSIM is not connecting to a US network after landing?
-Try turning off automatic network selection and manually connect to T-Mobile, AT&T, or Verizon. This often works when the phone can't automatically find the right network. Go to Settings →Cellular →Network Selection →turn OFF Automatic →try each carrier one by one. If none work, contact your eSIM provider's support. For detailed troubleshooting, see the [activation troubleshooting guide](/blog/usa-esim-troubleshooting/).
+Nine times out of ten the line is registered but parked on a network the provider has no agreement with. Force a manual pick for the eSIM line while leaving your home line on automatic, then toggle airplane mode once to re-register. If both carriers refuse, the profile rather than the phone is the problem — open a chat with the provider and quote the ICCID. The [activation troubleshooting guide](/blog/usa-esim-troubleshooting/) walks through the error codes.
 
 ### Does dual SIM affect 5G performance?
 In most cases, no. Your eSIM should get the same 5G speeds it would get as a single SIM. However, on some phones (particularly older models), running two SIMs can limit 5G to a single SIM or switch the secondary SIM to 4G LTE. This is a hardware limitation, not a setting issue. iPhone 13 and later, Samsung Galaxy S22 and later, and Google Pixel 7 and later all maintain full 5G on both SIMs simultaneously.

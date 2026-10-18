@@ -1,7 +1,7 @@
 ---
-title: "Best Canada eSIM for Long Stays & Digital Nomads"
+title: "Canada eSIM for Long Stays: Monthly Plans and Nomad Setup"
 description: "Roami Canada eSIM for long stays and digital nomads: monthly plans, Canadian numbers, and remote-work data options compared."
-keywords: ["Canada eSIM long stay", "Canada eSIM monthly plan", "Canada eSIM digital nomad", "Canada eSIM long-term plan", "Canada eSIM remote work"]
+keywords: ["canada esim long stay", "canada esim monthly plan", "nomad esim canada"]
 date: 2026-09-19T00:00:00Z
 lastmod: 2026-09-19T00:00:00Z
 author: "Roami Team"
@@ -95,7 +95,7 @@ The table below matches each long-stay situation to a recommended plan and its m
 
 **Key fact:** Short-trip eSIMs are priced per day; long stays are priced per month. The right plan changes completely once you pass the two-week mark. See the [Canada eSIM provider database](/blog/canada-esim-comparison-2026/) for every plan side by side.
 
-**Want to test coverage before you commit to a monthly plan?** Try a [free eSIM trial](/free-esim/) or start a [Roami Canada eSIM plan](/canada-esim/) from **$1.99** first. Code `web20` gives new users **20% off**, and Roami's **24/7 human support** backs you up if setup stalls.
+**Before you sign a monthly contract,** run a month on a travel eSIM instead: a [Roami Canada plan](/canada-esim/) starts at **$1.99** and needs no Canadian address, credit check or proof of residency. First orders take 20% off with `web20`.
 
 ## Why Long Stays Need a Different eSIM Strategy
 

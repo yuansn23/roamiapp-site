@@ -1,7 +1,7 @@
 ---
 title: "Best USA eSIM for Business Travel and Digital Nomads"
 description: "Best eSIM for US business trips and remote work. Hotspot speeds, US numbers, and long-stay pricing. Roami offers auto switching."
-keywords: ["USA eSIM for business travel", "USA eSIM digital nomad", "best eSIM for business trip USA", "USA eSIM long stay", "USA eSIM remote work"]
+keywords: ["usa esim business", "usa esim digital nomad", "usa esim long stay"]
 date: 2026-09-22T00:00:00Z
 lastmod: 2026-10-08T00:00:00Z
 author: "Roami Team"
@@ -794,6 +794,5 @@ Remember the tax point made earlier in this guide: the deductibility of business
 ---
 
 If your itinerary spans several US cities, a USA eSIM with automatic network switching matters more than squeezing out the lowest per-GB rate. You can rehearse the installation with a [free trial](/free-esim/) before buying anything.
-
 
 *Last updated September 2026.*

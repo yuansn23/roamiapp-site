@@ -1,7 +1,7 @@
 ---
-title: "USA eSIM No Signal? Fix Activation, APN and Speed"
+title: "USA eSIM Troubleshooting: No Signal, APN and Speed Fixes"
 description: "Fix your USA eSIM with step-by-step solutions for activation, no signal, slow speeds, and APN issues. Roami offers live support."
-keywords: ["USA eSIM not working", "USA eSIM troubleshooting", "USA eSIM activation failed", "USA eSIM no signal", "USA eSIM APN"]
+keywords: ["usa esim no signal", "usa esim not working", "usa esim activation failed"]
 date: 2026-09-22T00:00:00Z
 lastmod: 2026-10-08T00:00:00Z
 author: "Roami Team"
@@ -13,7 +13,7 @@ readingTime: 18
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "USA eSIM Troubleshooting Guide: Common Problems and How to Fix Them"
+h1title: "USA eSIM Troubleshooting: No Signal, No Data, No Service"
 
 # Sidebar module titles
 productsTitle: "Popular eSIM Plans"
@@ -88,7 +88,7 @@ If the open question is which plan to buy rather than how to fix one, the [best 
 
 > **Quick answer:** Nine out of ten USA eSIM failures are one of three things — data roaming left off, the wrong line set for data, or a profile still provisioning. Fix those in order before deleting anything.
 
-If your **USA eSIM is not working after arrival**, try these four things first. Most problems are solved by one of them.
+If your **USA eSIM** shows no signal after arrival, try these four things first. Most problems are solved by one of them, and none of the fixes below require reinstalling the profile.
 
 **1. Turn on roaming.** This is the single most common issue. Travel eSIMs require roaming to function. Go to Settings → Cellular/Mobile Data → tap your eSIM line → turn Data Roaming ON. On Android: Settings → Network & Internet → SIMs → tap the eSIM → enable Data Roaming.
 
@@ -337,7 +337,7 @@ If your **USA eSIM is not connecting to network**, try these steps:
 
 **Toggle airplane mode ON for 10 seconds, then OFF.** This forces the phone to search for available networks.
 
-**Manual network selection:** Settings → Cellular → Network Selection → turn OFF Automatic → try each carrier.
+**Manual network selection:** stop letting the phone choose and lock it to one carrier at a time. This is the fix that works most often when the profile registered but data will not flow.
 
 **Check carrier lock:** If you've tried everything and the phone still won't connect, contact your home carrier to confirm the phone is unlocked.
 
@@ -601,16 +601,7 @@ Here's how to fix it on both platforms:
 3. Settings → Cellular → Network Selection → turn OFF Automatic → try each carrier
 4. Settings → General → Transfer or Reset iPhone → Reset → Reset Network Settings (your eSIM data stays, network settings reset)
 
-**Android (Samsung):**
-1. Settings → Connections → SIM Card Manager → tap the eSIM → Data Roaming ON
-2. Toggle airplane mode ON/OFF
-3. Settings → Connections → Mobile Networks → Network Operators → turn OFF Automatic → try each carrier
-4. Settings → General Management → Reset → Reset Network Settings
-
-**Android (Google Pixel):**
-1. Settings → Network & Internet → SIMs → tap the eSIM → Data Roaming ON
-2. Toggle airplane mode ON/OFF
-3. Settings → Network & Internet → Internet → tap the eSIM → Network Selection → try each carrier
+**Android (Samsung and Pixel):** enable data roaming on the eSIM line, toggle airplane mode once, then switch off automatic network selection and try each carrier in turn. Samsung hides roaming under SIM Card Manager on some One UI builds and under Mobile Networks on others; Pixel keeps everything under Network & Internet. Reset network settings only as a last step — it wipes saved Wi-Fi passwords but leaves the profile installed.
 
 ### Known iOS eSIM bugs by version
 
@@ -1043,7 +1034,6 @@ Even with the best preparation, have a backup:
 1. **Save offline maps:** Download Google Maps for your US destination — works without any cellular connection
 2. **Download Uber/Lyft:** These work with eSIM data but setup requires home SIM for SMS verification
 3. **Save your provider's support number:** Make sure you can contact them even without data
-
 
 *Last updated September 2026.*
 

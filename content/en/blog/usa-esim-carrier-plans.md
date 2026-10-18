@@ -1,7 +1,7 @@
 ---
-title: "T-Mobile vs AT&T vs Verizon Prepaid eSIM Plans for US Travelers"
-description: "T-Mobile vs AT&T vs Verizon prepaid eSIM plans compared, with pricing and coverage. Roami offers USA eSIM with auto switching."
-keywords: ["T-Mobile vs AT&T vs Verizon eSIM", "USA prepaid eSIM plans", "T-Mobile tourist eSIM", "AT&T prepaid eSIM review", "Verizon eSIM for travelers"]
+title: "USA Carrier eSIM Prepaid Plans: T-Mobile vs AT&T vs Verizon"
+description: "USA eSIM prepaid options from T-Mobile, AT&T and Verizon: what a visitor can actually buy, what it really costs and the MVNO that beats them."
+keywords: ["usa esim prepaid", "us esim prepaid", "usa sim card prepaid", "usa sim card prepaid plans", "prepaid sim card usa"]
 date: 2026-09-22T00:00:00Z
 lastmod: 2026-10-08T00:00:00Z
 author: "Roami Team"
@@ -13,7 +13,7 @@ readingTime: 15
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "T-Mobile vs AT&T vs Verizon Prepaid eSIM Plans for US Travelers"
+h1title: "USA eSIM Prepaid: T-Mobile vs AT&T vs Verizon for Visitors"
 
 # Sidebar module titles
 productsTitle: "Popular eSIM Plans"
@@ -77,7 +77,7 @@ recentPosts:
     permalink: "/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/"
     date: "2026-05-20"
 ---
-For a complete US eSIM overview, see the [USA eSIM complete guide](/blog/usa-esim-complete-guide/).
+A USA eSIM prepaid plan is the one way to buy directly from a US carrier without a local address or a two-year contract — and it is also the option visitors get wrong most often, because the three carriers sell different things to short-stay customers and their tourist products change from year to year. What stays stable is the structure: a carrier prepaid eSIM gives you the carrier's own network and a US number, while an international eSIM gives you the same towers without the paperwork. This guide compares what T-Mobile, AT&T and Verizon actually offer a visitor, what those plans cost, and when an MVNO is the better buy. For the wider picture, start with the [eSIM for the United States guide](/blog/usa-esim-complete-guide/).
 
 When comparing USA prepaid eSIM plans, T-Mobile, AT&T, and Verizon each cover the vast majority of Americans with 4G LTE, though Verizon dominates rural areas. For tourists, choosing a carrier-based eSIM vs an international provider depends on itinerary, data needs, and budget.
 
@@ -151,7 +151,7 @@ How long each carrier takes to get you online:
 | Verizon | 2 minutes | 5-8 minutes | Instant | 7-10 minutes |
 | Tello (MVNO) | 1 minute | 1-2 minutes | Instant | 2-3 minutes |
 
-The T-Mobile tourist eSIM has the fastest activation process among the big three carriers. However, all carrier activations take longer than international eSIMs (which can be installed in under 2 minutes without ID verification). If speed of setup is your priority, an international USA eSIM or MVNO is the better choice. For detailed device-level steps, see the [USA eSIM setup guide](/blog/usa-esim-setup-guide/).
+The T-Mobile tourist eSIM has the fastest activation process among the big three carriers. However, all carrier activations take longer than international eSIMs (which can be installed in under 2 minutes without ID verification). If speed of setup is your priority, an international USA eSIM or MVNO is the better choice. The menu path differs by handset, and the [setup guide](/blog/usa-esim-setup-guide/) has each one.
 
 ---
 
@@ -310,7 +310,7 @@ The 480p video throttle on AT&T prepaid plans is a notable limitation for travel
 
 ## Verizon eSIM for travelers: prepaid review
 
-Verizon USA eSIM for travelers offers the largest 4G LTE footprint in the US. Plan tiers and validity windows below follow [Verizon's own prepaid pages](https://www.verizon.com/prepaid/). For very remote destinations — interior Alaska, the Utah backcountry, the Montana plains — Verizon is often the only carrier that works.
+Verizon USA eSIM for travelers offers the largest 4G LTE footprint in the US. Plan tiers and validity windows below follow [Verizon's own prepaid pages](https://www.verizon.com/prepaid/). Once the map empties out — the high desert, the northern plains, the Alaskan interior — it is the one that still registers.
 
 **Plans (Verizon Prepaid, verified September 2026):**
 | Plan | Validity | Price |
@@ -595,7 +595,7 @@ The setup process differs from international eSIMs because carriers require ID v
 
 In all cases, expect the process to take 10-15 minutes — longer than scanning an international eSIM QR code, but you get a US phone number and store support in return.
 
-If you prefer a setup that takes five minutes, needs no passport upload and handles network switching for you, a data-only eSIM is the straightforward alternative. For device-level steps, see the [USA eSIM setup guide](/blog/usa-esim-setup-guide/).
+If you prefer a setup that takes five minutes, needs no passport upload and handles network switching for you, a data-only eSIM is the straightforward alternative. Install screens per model are in the [setup guide](/blog/usa-esim-setup-guide/).
 
 ### Detailed setup: T-Mobile prepaid eSIM for international visitors
 
@@ -662,7 +662,7 @@ Step-by-step Verizon prepaid eSIM activation:
 It depends on your itinerary. For city travel, T-Mobile is fastest. For balanced coverage, AT&T is the safest choice. For remote rural areas, Verizon reaches the most places. If you're unsure where you'll end up, AT&T is the best compromise. For budget-conscious travelers who want AT&T's rural coverage, Twise resells AT&T-based USA plans for well under the carrier's own prepaid rate.
 
 ### Do I need a US address for a USA eSIM?
-T-Mobile's international visitor plans don't require a US address. AT&T and Verizon may ask for one — a hotel address works. Most MVNOs including Tello, Mint Mobile, and Ultra Mobile accept passport verification and do not require a US address. Twise and RedPocket don't require a US address at all.
+No. T-Mobile built that tier for exactly this case, and AT&T and Verizon will take a hotel address on the rare occasions they ask at all. Tello, Mint Mobile and Ultra Mobile verify passports instead. Twise and RedPocket don't require a US address at all.
 
 ### Which carrier charges the least in taxes and fees?
 T-Mobile adds the lowest taxes and fees on prepaid plans, typically 8-12% on top of the advertised price. AT&T adds 12-18%. Verizon adds 15-25%. These vary by state — New York and California have the highest telecom taxes. Texas and Florida are moderate. If you're on a tight budget, factor in 15% minimum for any carrier prepaid plan.
@@ -689,7 +689,7 @@ No, prepaid eSIM plans are designed as single purchases. If you run out of data,
 Yes, all three carriers include hotspot on their prepaid plans. T-Mobile Prepaid includes hotspot at no extra charge. AT&T and Verizon also support hotspot on their prepaid eSIM plans. The hotspot uses your plan's data allowance. For business travelers needing laptop connectivity, carrier prepaid hotspot support is reliable and consistent.
 
 ### Can I get a refund if my carrier eSIM doesn't work?
-Refund policies vary. Most require activation within 30 days and provide refunds for unused service. Check each carrier's terms before purchasing.
+Short answer: carrier prepaid is the least refundable purchase in this guide. T-Mobile, AT&T and Verizon typically sell prepaid as non-refundable once the plan is activated, and unused top-up PINs usually expire rather than convert back to cash. A profile that never activates at all is a different case — that is a failed sale, not a change of mind, so support can normally issue a replacement, and a card chargeback for a service never delivered is the fallback if they will not. International data-only eSIMs are more forgiving here, which is part of why the price gap narrows for short trips.
 
 ### Which carrier plan is best for theme parks and tourist attractions?
 
@@ -764,7 +764,6 @@ None of this is irreversible: a [free trial plan](/free-esim/) lets you test how
 Carrier prepaid pricing above follows [T-Mobile Prepaid's](https://prepaid.t-mobile.com/prepaid-plans) and [AT&T Prepaid's](https://www.att.com/prepaid/plans/) own plan pages.
 
 Market-level network scoring comes from [Opensignal's USA Mobile Network Experience report](https://insights.opensignal.com/reports/2026/01/usa/mobile-network-experience).
-
 
 *Last updated September 2026.*
 

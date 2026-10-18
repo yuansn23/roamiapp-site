@@ -1,7 +1,7 @@
 ---
-title: "USA and Canada eSIM: Best Cross-Border Plans Compared"
-description: "Roami USA and Canada eSIM: best cross-border plans, network switching, and coverage. Dual-SIM setup and how to avoid roaming fees."
-keywords: ["USA Canada eSIM", "US Canada cross border eSIM", "North America eSIM plan", "USA Canada eSIM network switching", "USA Canada eSIM dual SIM"]
+title: "eSIM for Canada and USA: Cross-Border Plans Compared"
+description: "One eSIM for Canada and the USA: cross-border plans compared, network switching at the border, and how to avoid roaming charges."
+keywords: ["esim for canada and usa", "best esim for usa and canada travel", "us esim for canadians", "best esim for north america and canada", "best esim for canada and alaska", "esim for usa from canada", "best esim for usa canada"]
 date: 2026-09-19T00:00:00Z
 lastmod: 2026-10-08T00:00:00Z
 author: "Roami Team"
@@ -78,7 +78,7 @@ recentPosts:
     date: "2026-05-20"
 ---
 
-If your itinerary touches both the United States and Canada, the first decision is whether to buy one regional plan or two single-country ones. A regional eSIM covers both countries with a single purchase and a single installation, and it switches networks automatically at the border, so you never swap cards or buy a new plan mid-trip. If you stay inside one country the whole time, a single-country plan is usually cheaper and simpler. The table below maps each cross-border situation to a recommended provider, followed by the four facts that matter most when you compare them.
+If your itinerary touches both the USA and Canada, the first decision is whether to buy one eSIM for Canada and the USA or two single-country plans. A cross-border eSIM covers both countries with a single purchase and a single installation, and it switches networks automatically at the border, so you never swap cards or buy a new plan mid-trip. If you stay inside one country the whole time, a single-country plan is usually cheaper and simpler. The table below maps each cross-border situation to a recommended provider, followed by the four facts that matter most when you compare them.
 
 ## Quick Answer: Do You Need a US-Canada Regional eSIM?
 
@@ -193,7 +193,7 @@ Not every traveler needs a regional eSIM. If your itinerary only touches one cou
 
 ## US-Canada eSIM Provider Comparison
 
-This section focuses **only on providers that offer true US-Canada regional plans**—not providers that sell US and Canada separately. For the full provider database with Canada-only plans, see our [Canada eSIM plan database](/blog/canada-esim-comparison-2026/).
+This section focuses **only on providers that offer true US-Canada regional plans**—not providers that sell US and Canada separately. Single-country Canada plans, which are usually cheaper, are ranked in the [Canada plan database](/blog/canada-esim-comparison-2026/).
 
 ### Cross-Border eSIM Provider Filter Table
 
@@ -214,7 +214,7 @@ This section focuses **only on providers that offer true US-Canada regional plan
 
 - **Covered Countries:** Must explicitly list "US + Canada" or "North America." Do not assume a "North America" plan covers Canada—some providers use the term loosely.
 - **Network:** Multi-network access means the eSIM can switch between carriers for better coverage at the border.
-- **Calls/SMS:** Most cross-border travel eSIMs are data-only. If you need a number, see our [numbered Canada eSIM options](/blog/canada-esim-with-phone-number-guide/).
+- **Calls/SMS:** Most cross-border travel eSIMs are data-only, which is fine until a bank or a border app wants to text you — the [Canada number guide](/blog/canada-esim-with-phone-number-guide/) covers the exceptions.
 - **Hotspot:** Important if you share data with a laptop or family.
 - **5G:** Urban 5G is common; rural areas may drop to 4G.
 
@@ -237,9 +237,11 @@ AT&T and T-Mobile both launched travel eSIM passes in 2026. Here is how they com
 | 30-day NA price | $59.99 | $50 | $16.99 (5GB) | $25 (10GB) | — |
 | Unlimited data | ✅ | ❌ | ❌ | ✅ (FUP) | ✅ (3GB/day) |
 | Hotspot | 5GB | — | Some plans | ✅ | ✅ (up to 30GB) |
-| Calls/SMS | Coming soon | ✅ | ❌ | ❌ | Some plans |
+| Calls/SMS | ❌ (data-only) | ✅ | ❌ | ❌ | Some plans |
 | Network | AT&T | T-Mobile | Multi | Multi | 8-network |
 | Crowd priority feature | ✅ Turbo Live | — | ❌ | ❌ | ❌ |
+
+**Note:** statuses record what each product offered when this table was last checked; voice and SMS support on travel passes changes often, so confirm it on the provider's page before buying if calls matter to you.
 
 **Key takeaway:** Carrier eSIM passes (AT&T, T-Mobile) are convenient and include calls/SMS, but cost 3–5× more than travel eSIM providers for the same coverage. AT&T's Turbo Live feature—which prioritizes data in crowded venues like stadiums—is a unique advantage for event attendees. Travel eSIM providers win on price, network diversity, and data volume.
 
@@ -302,7 +304,7 @@ When you enter Canada from the US (or vice versa), a regional eSIM automatically
 | Allow cellular data switching | **OFF** | Prevent data from switching to home SIM |
 | Data roaming on regional eSIM | **ON** (when instructed) | Some providers require it for activation |
 
-**Important:** If "Allow Cellular Data Switching" is ON, your phone may switch to your home SIM when the regional eSIM has weak signal. This can trigger $10–$15/day roaming charges. Keep it OFF.
+**Important:** leave it OFF for the whole trip. On a cross-border route the fallback happens at the worst possible moment — a weak Canadian signal a few kilometres past the border — and the phone will silently hand data back to your home SIM, which is exactly where $10–$15/day roaming charges come from. A regional eSIM that covers both countries has no reason to fall back at all.
 
 ### Time Zones and eSIM Validity
 
@@ -327,16 +329,7 @@ Based on public user reports, here is what travelers commonly experience at majo
 
 ### If the Border eSIM Switch Takes Longer Than 5 Minutes
 
-If your connection does not resume after 5 minutes:
-
-1. **Toggle Airplane Mode** for 30 seconds. This forces the phone to re-scan networks.
-2. **Manually select network:** Settings → Cellular → Network Selection → turn off Automatic → select Rogers/Bell/Telus.
-3. **Restart your phone.** This clears temporary network registration issues.
-4. **Check your eSIM line is enabled** and data roaming is ON.
-5. **Check your plan status** in the provider app—it may be expired or data used up.
-6. **Contact provider support** with your order number and ICCID.
-
-**Most effective single fix:** Manual network selection. This resolves many "signal but no data" cases at the border.
+A cross-border switch that drags usually means the phone latched onto the outgoing country's network and has not let go. Toggling Airplane Mode for 30 seconds forces a fresh scan, and it clears the majority of these cases before you need to touch anything else. If the bars come back but data still fails, the radio is fine and the problem is the plan or the profile — that path is walked through step by step under [US-Canada eSIM Not Connecting After Border Crossing](#us-canada-esim-not-connecting-after-border-crossing).
 
 ## How to Choose the Best US-Canada eSIM
 
@@ -437,7 +430,7 @@ For full installation and activation steps, see our [eSIM installation walkthrou
 1. Confirm eSIM line is enabled (Settings → Cellular → tap eSIM → "Turn on This Line")
 2. Confirm Data Roaming is ON for the eSIM
 3. Toggle Airplane Mode for 30 seconds
-4. Manually select network (Settings → Cellular → Network Selection → turn off Automatic → select Rogers/Bell/Telus)
+4. Force a manual network pick: Network Selection → Automatic off → choose Telus or Bell when Rogers shows bars but no data
 5. Restart phone
 6. Check eSIM status in provider app—plan may be expired or data used up
 
@@ -477,11 +470,13 @@ For full installation and activation steps, see our [eSIM installation walkthrou
 ### When to Contact Cross-Border eSIM Support
 
 **Prepare before contacting:**
-- Order number
-- ICCID (in eSIM settings)
-- Device model
-- Steps already tried
-- Screenshots of error messages
+- Order number and ICCID
+- Which country the data failed in, and roughly when you crossed
+- Whether the same eSIM worked on the other side of the border
+- Device model and the exact wording of any error message
+- A screenshot of the cellular settings screen
+
+That third point is the one that matters most on a cross-border case, and it is the one people forget. "No data since landing in Toronto" and "data stopped two hours into Ontario" are different faults: the first points at provisioning, the second at network registration. Saying which one you have saves a round trip.
 
 A provider with **24/7 human support** — like Roami's [Canada eSIM](/canada-esim/) — means you are not stuck in a dead zone with no way to reach anyone.
 
@@ -514,14 +509,17 @@ If you plan to drive across the border, prepare these documents and items before
 
 Check [US Customs and Border Protection (CBP)](https://www.cbp.gov/) for real-time wait times. Busy ports (Detroit-Windsor, Buffalo-Niagara) may have 30+ minute waits during peak hours. Plan your crossing outside rush hours if possible.
 
-### Vehicle Preparation for Cross-Border Travel
+### Vehicle Requirements That Differ Between the Two Countries
 
-- Tire condition and pressure
-- Spare tire and tools
-- Oil, coolant, brake fluid
-- Emergency kit: flashlight, first aid, blanket
-- Winter: snow tires, chains, antifreeze
-- Paper maps as backup
+Mechanical prep is the same on both sides of the line — the differences that catch drivers out are regulatory and administrative:
+
+- **Insurance proof must be physical.** A US policy card on your phone is not always accepted at a Canadian port of entry; carry the printed card and, for rentals, the rental agreement showing cross-border permission.
+- **Rental restrictions are the most common surprise.** Many US rental contracts exclude Canada by default. Get written authorisation before you leave the lot, or the border is where the trip ends.
+- **Quebec winter tires.** Quebec-registered vehicles must run winter tires from 1 December to 15 March. Cars rented inside Quebec already comply; a car rented in New York and driven into Quebec does not need to.
+- **Units change at the line.** Your dashboard switches from miles to kilometres, and Canadian speed limits are posted in km/h. A 100 km/h limit is roughly 62 mph.
+- **Daytime running lights** are mandatory in Canada for all vehicles, including US-registered ones. Most modern cars handle this automatically; older models may not.
+
+For remote-route mechanical prep — tires, fluids, emergency kit — the [Canada road trip guide](/blog/best-esim-canada-road-trip-guide/) covers the full list.
 
 ### Currency and Payment for Cross-Border Trips
 
@@ -564,7 +562,7 @@ Depends on use:
 - ⚠️ Canadian banks and government services usually require a Canadian area code
 - ⚠️ Canadian local services (Uber Canada) may not accept a US number
 
-If you need a Canadian number, choose an eSIM that provides one. See our [numbered Canada eSIM options](/blog/canada-esim-with-phone-number-guide/).
+If a Canadian area code matters more than a US one — bank codes, Uber Canada, provincial services — a numbered plan is the only way to get it, and the [numbered plan comparison](/blog/canada-esim-with-phone-number-guide/) shows which ones include a +1 number.
 
 ### What if my phone only supports one eSIM?
 

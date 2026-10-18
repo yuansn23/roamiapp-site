@@ -1,7 +1,7 @@
 ---
-title: "How to Get an eSIM in Canada: Setup & Activation Guide"
-description: "How to get a Roami eSIM in Canada: check compatibility, install on iPhone and Android, activate, and fix common errors fast."
-keywords: ["how to get eSIM in Canada", "Canada eSIM setup", "Canada eSIM activation", "Canada eSIM install iPhone", "Canada eSIM troubleshooting"]
+title: "Buy an eSIM for Canada: Price, Delivery & Setup"
+description: "Buy an eSIM for Canada before you fly: what checkout looks like, prices from $2, paying with a UK card, and a 15-minute setup."
+keywords: ["buy an esim canada", "buy esim online canada", "esim for canada from uk", "canada esim card", "canada esim prepaid", "canada sim card prepaid", "esim card for canada"]
 date: 2026-09-19T00:00:00Z
 lastmod: 2026-09-19T00:00:00Z
 author: "Roami Team"
@@ -13,7 +13,7 @@ readingTime: 8
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "How to Get an eSIM in Canada: Setup, Activation & Troubleshooting Guide"
+h1title: "Buy an eSIM for Canada: Checkout, Price and Setup"
 
 # Sidebar module titles
 productsTitle: "Popular eSIM Plans"
@@ -78,7 +78,7 @@ recentPosts:
     date: "2026-05-20"
 ---
 
-Getting a Canada eSIM takes about fifteen minutes of preparation and works best if you finish it before you fly, because airport Wi-Fi is unreliable and a local SIM counter means a queue. The whole process breaks into five steps — check compatibility, buy a plan, install the profile, activate it on arrival, then test and troubleshoot — and every one of them is easier to complete on home Wi-Fi than on arrival. This guide walks through all five, then covers the common errors and their fixes.
+To buy an eSIM for Canada you need about fifteen minutes and a payment card: checkout itself takes two, the QR code arrives by email within seconds, and everything else is installation you can finish on home Wi-Fi before you fly. Prices start around $2 for a 1 GB plan and scale down per gigabyte as capacity grows, so the purchase decision is mostly about size, validity and whether you need a Canadian phone number. This guide covers the whole path — compatibility check, checkout, installation, activation on arrival, then the common errors and their fixes.
 
 ## Quick Answer: How to Get an eSIM in Canada
 
@@ -92,7 +92,7 @@ Getting a Canada eSIM takes five steps:
 
 **Time needed:** 15 minutes. **Where to install:** at home, before you fly. **When it activates:** automatically when you connect to a Canadian network.
 
-**Want to test before you commit?** Grab a [free eSIM trial](/free-esim/) or a [Roami Canada eSIM plan](/canada-esim/) from **$1.99** to run through setup and coverage before your trip. New users get **20% off** with code `web20`, and Roami's **24/7 human support** is ready if setup stalls.
+**Practise the setup before you fly.** A [Roami Canada eSIM](/canada-esim/) from **$1.99** is a cheap way to run this whole page on real hardware at home, where you still have Wi-Fi and time. First orders take 20% off with `web20`.
 
 This guide covers every step, every common error, and every fix. For provider prices, see our [full Canada eSIM comparison database](/blog/canada-esim-comparison-2026/). For device compatibility, see our [compatibility checker](/compatibility/).
 
@@ -114,7 +114,7 @@ Prefer not to dial? The Settings app tells you the same story, though the menu p
 
 A carrier lock blocks every travel profile from installing, so verify it before checkout. iPhones flag the lock state under **Settings → General → About**; Android buries it in **About Phone → Status**. Canadian rules favor the traveler: the CRTC's Wireless Code obliges Bell, Rogers, Telus, and Freedom Mobile to unlock devices at no charge — see the [CRTC Wireless Code](https://crtc.gc.ca/eng/phone/mobile/codes.htm).
 
-**Pro tip:** If you bought a used Samsung from a Canadian carrier, the eSIM may be disabled by default. Check with the carrier before buying. See our [compatibility notes](/compatibility/) for carrier-lock removal steps.
+**Pro tip:** A secondhand Samsung sourced through a Canadian carrier may ship with its eSIM capability already switched off, and no amount of setup fixes that. Confirm it before you pay — the [compatibility notes](/compatibility/) show how to test for the lock.
 
 ### Prepare for eSIM Setup
 
@@ -149,6 +149,20 @@ Buying the right plan is mostly about matching data, validity, coverage, and whe
 **Local carriers:** Bell, Rogers, Telus, and Freedom Mobile usually require a Canadian address or in-store visit, which is not ideal for short trips. Roami's [Canada eSIM plans](/canada-esim/) start at **$1.99** with **24/7 human support** and a **20% new-user discount** if you prefer a simpler online purchase.
 
 For a full provider price and network comparison, see our [Canada eSIM comparison database](/blog/canada-esim-comparison-2026/). We do not list specific providers here because prices change monthly.
+
+### What Checkout Looks Like: Price, Delivery and UK Cards
+
+Checkout on a Canada eSIM is short, because nothing ships. Four things happen in sequence, and each one is worth understanding before you pay.
+
+**1. You choose size and validity.** A 1 GB plan starts around $2 and is enough for a long weekend of maps and messaging; 5–10 GB covers one to two weeks of normal use; unlimited plans cost more and carry fair-use terms worth reading. The per-gigabyte price falls as capacity rises, so buying slightly more than you estimate is usually cheaper than topping up later — if the provider allows top-ups at all.
+
+**2. You pay.** Major cards work on every mainstream platform, PayPal is common, and some providers accept Apple Pay or Google Pay. Prices are usually quoted in USD, so check the final line at checkout rather than the advertised price, and check what your bank adds: a 3% foreign transaction fee on a $30 plan is $0.90, which is small but easy to avoid with a card that does not charge it.
+
+**3. The QR code arrives by email.** Delivery is effectively instant — typically within a minute, occasionally a few minutes under load. You receive a QR code plus a manual activation string (the SM-DP+ address and activation code) for the case where the camera will not cooperate. Save both offline as a screenshot or PDF before you fly, because the provider's site may not be reachable from the network you land on.
+
+**4. If nothing arrives.** Check the spam folder first, then the order status page in the provider's account area. A missing QR is an order-fulfilment problem, not a payment failure, and support resolves it fastest with the order number to hand. Do this before you install anything else.
+
+**Buying from the UK.** There is no region lock and no shipping, so a UK buyer gets the same plan at the same price as a Canadian one; the only UK-specific wrinkle is card currency. Paying in GBP through a bank that adds a conversion margin costs slightly more than a multi-currency card, and the plan activates on arrival in Canada regardless of where it was bought.
 
 ### Choose Canada eSIM Data by Trip Length
 
@@ -405,15 +419,7 @@ If any test fails, proceed to troubleshooting.
 
 ### Canada eSIM Does Not Connect
 
-1. **Wait 2–3 minutes.** The phone needs time to register on the Canadian network.
-2. **Toggle Airplane Mode** for 30 seconds.
-3. **Manually select network:** Settings → Cellular → Network Selection → turn off Automatic → select Bell, Rogers, or Telus.
-4. **Restart your phone.**
-5. **Check that data roaming is ON** for the eSIM.
-6. **Check your plan status** in the provider app.
-7. **Contact support** if still not working.
-
-Most connection issues resolve with manual network selection.
+Give it **2–3 minutes** first — a new profile needs time to register on a Canadian network, and most "not connecting" reports are simply early. If the phone still shows no bars after five minutes, go straight to [No Signal after installation](#esim-installed-but-no-signal) below. A failed speed test with full bars is a different fault; that path is covered under [Signal but No Data](#esim-signal-but-no-data).
 
 ## Troubleshooting Canada eSIM Problems
 
@@ -434,7 +440,7 @@ Most Canada eSIM problems fall into a few categories: installation errors, no si
 **Step 3:** Switch off Automatic Network Selection and pick **Bell / Rogers / Telus** by hand — manual picking alone revives most dead-data lines.  
 **Step 4:** Still offline? Open the provider app; the plan may have expired or run dry.
 
-**Manual network selection is the single most effective fix for "signal but no data."** This resolves most cases.
+If the phone shows bars but pages still fail, the fault is upstream of the radio — check APN, the default data line, and whether a VPN is intercepting traffic before you retry the network pick.
 
 **How to manually select network:**
 - iPhone: Settings → Cellular → Network Selection → turn off Automatic → select Bell/Rogers/Telus.
@@ -600,13 +606,7 @@ Usually **1–5 minutes** after your phone connects to a Canadian network. If it
 
 ### What should I do if my eSIM stops working mid-trip?
 
-Troubleshoot in this order:
-1. Toggle Airplane Mode for 30 seconds.
-2. Manually select a network (Settings → Cellular → Network Selection).
-3. Restart your phone.
-4. Check that Data Roaming is ON for the eSIM.
-5. Check plan status in the provider app.
-6. Contact provider support with your order number and ICCID.
+Two things fix the majority of mid-trip failures: toggle Airplane Mode for 30 seconds, then manually re-pick a carrier under Network Selection. If neither works, confirm Data Roaming is on and that the plan still has data left, then raise a ticket with your order number and ICCID. The [troubleshooting section](#troubleshooting-canada-esim-problems) works through the remaining cases in order.
 
 ### Can I reinstall an eSIM if I accidentally delete it?
 
